@@ -3,7 +3,7 @@ title: mythicAdventures/mythicSpells/fireStorm
 ---
 Fire Storm
 
-**Source** [_fire storm_](spells/fireStorm.md#_fire-storm)
+**Source** [_fire storm_](spells/fireStorm#_fire-storm)
 
 The damage dealt increases to 1d8 points of damage per caster level (maximum 20d8). Half of this damage is fire damage, and the other half is divine energy that bypasses fire resistance and fire immunity. You can exclude any number of animals from damage just as you can plant creatures.
 

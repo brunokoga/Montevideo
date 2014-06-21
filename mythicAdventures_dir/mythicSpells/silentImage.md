@@ -3,7 +3,7 @@ title: mythicAdventures/mythicSpells/silentImage
 ---
 Silent Image
 
-**Source** [_silent image_](spells/silentImage.md#_silent-image)
+**Source** [_silent image_](spells/silentImage#_silent-image)
 
 The duration increases to concentration + 1 round per caster level, and the effect increases to a visual figment that can't extend beyond eight 10-foot cubes + 1 10-foot cube per caster level.
 

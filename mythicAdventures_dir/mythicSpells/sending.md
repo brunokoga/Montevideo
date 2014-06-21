@@ -3,7 +3,7 @@ title: mythicAdventures/mythicSpells/sending
 ---
 Sending
 
-**Source** [_sending_](spells/sending.md#_sending)
+**Source** [_sending_](spells/sending#_sending)
 
 You can contact a number of additional creatures equal to your tier. Each creature must receive the same message, and can communicate back only to you.
 

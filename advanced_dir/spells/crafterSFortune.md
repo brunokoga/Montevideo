@@ -17,5 +17,5 @@ title: advanced/spells/crafterSFortune
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The target is struck by inspiration and gains a +5 luck bonus on its next [Craft](../../skills/craft.md#_craft) skill check.
+The target is struck by inspiration and gains a +5 luck bonus on its next [Craft](../../skills/craft#_craft) skill check.
 

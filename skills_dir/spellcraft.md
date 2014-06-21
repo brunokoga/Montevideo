@@ -3,7 +3,7 @@ title: skills/spellcraft
 ---
 # Spellcraft
 
-## ( [Int](../gettingStarted.md#_intelligence); Trained Only)
+## ( [Int](../gettingStarted#_intelligence); Trained Only)
 
 You are skilled at the art of casting spells, identifying magic items, crafting magic items, and identifying spells as they are being cast.
 
@@ -17,7 +17,7 @@ You are skilled at the art of casting spells, identifying magic items, crafting 
 
 An elf gets a +2 racial bonus on Spellcraft checks to identify the properties of magic items.
 
-If you have the [Magical Aptitude](../feats.md#_magical-aptitude) feat, you gain a bonus on Spellcraft checks (see [Feats](../feats.md)).
+If you have the [Magical Aptitude](../feats#_magical-aptitude) feat, you gain a bonus on Spellcraft checks (see [Feats](../feats)).
 
 [Table: Spellcraft DCs]
 | Task | Spellcraft DC |

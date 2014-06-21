@@ -59,11 +59,11 @@ Rods are scepter-like devices that have unique magical powers and do not usually
 
 **Description**
 
-The wielder can cast up to three spells per day that bounce as though using the [Bouncing Spell](../advancedFeats.md#_bouncing-spell-(metamagic)) feat.
+The wielder can cast up to three spells per day that bounce as though using the [Bouncing Spell](../advancedFeats#_bouncing-spell-(metamagic)) feat.
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), [Bouncing Spell](../advancedFeats.md#_bouncing-spell-(metamagic)); **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), [Bouncing Spell](../advancedFeats#_bouncing-spell-(metamagic)); **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
 **Metamagic, Dazing**
 
@@ -73,13 +73,13 @@ The wielder can cast up to three spells per day that bounce as though using the 
 
 **Description**
 
-The wielder can cast up to three spells per day that daze affected creatures as though using the [Dazing Spell](../advancedFeats.md#_dazing-spell-(metamagic)) feat.
+The wielder can cast up to three spells per day that daze affected creatures as though using the [Dazing Spell](../advancedFeats#_dazing-spell-(metamagic)) feat.
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), [Dazing Spell](../advancedFeats.md#_dazing-spell-(metamagic)); **Cost** 7,000 gp (lesser), 27,000 gp (normal), 60,750 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), [Dazing Spell](../advancedFeats#_dazing-spell-(metamagic)); **Cost** 7,000 gp (lesser), 27,000 gp (normal), 60,750 gp (greater)
 
-**Metamagic, [Disruptive](../../feats.md#_disruptive)**
+**Metamagic, [Disruptive](../../feats#_disruptive)**
 
 **Aura** strong (no school); **CL** 17th
 
@@ -87,11 +87,11 @@ The wielder can cast up to three spells per day that daze affected creatures as 
 
 **Description**
 
-The wielder can cast up to three spells per day that are disruptive as though using the [Disruptive Spell](../advancedFeats.md#_disruptive-spell-(metamagic)) feat.
+The wielder can cast up to three spells per day that are disruptive as though using the [Disruptive Spell](../advancedFeats#_disruptive-spell-(metamagic)) feat.
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), [Disruptive Spell](../advancedFeats.md#_disruptive-spell-(metamagic)); **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), [Disruptive Spell](../advancedFeats#_disruptive-spell-(metamagic)); **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
 **Metamagic, Ectoplasmic**
 
@@ -105,7 +105,7 @@ The wielder can cast up to three spells per day that have full effect against in
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), Ectoplasmic Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), Ectoplasmic Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
 **Metamagic, Elemental**
 
@@ -119,7 +119,7 @@ Each _elemental metamagic rod_ is built with the power to control and transform 
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), Elemental Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), Elemental Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
 **Metamagic, Focused**
 
@@ -129,11 +129,11 @@ Each _elemental metamagic rod_ is built with the power to control and transform 
 
 **Description**
 
-The wielder can cast up to three spells per day that are focused as though using the [Focused Spell](../advancedFeats.md#_focused-spell-(metamagic)) feat.
+The wielder can cast up to three spells per day that are focused as though using the [Focused Spell](../advancedFeats#_focused-spell-(metamagic)) feat.
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), [Focused Spell](../advancedFeats.md#_focused-spell-(metamagic)); **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), [Focused Spell](../advancedFeats#_focused-spell-(metamagic)); **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
 **Metamagic, Intensified**
 
@@ -147,7 +147,7 @@ The wielder can cast up to three spells per day that are intensified as though u
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), Intensified Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), Intensified Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
 **Metamagic, Lingering**
 
@@ -161,7 +161,7 @@ The wielder can cast up to three spells per day that linger for 1 round as thoug
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), Lingering Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), Lingering Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
 **Metamagic, Merciful**
 
@@ -175,7 +175,7 @@ The wielder can cast up to three spells per day that deal nonlethal damage as th
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), Merciful Spell; **Cost** 750 gp (lesser), 2,750 gp (normal), 6,125 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), Merciful Spell; **Cost** 750 gp (lesser), 2,750 gp (normal), 6,125 gp (greater)
 
 **Metamagic, Persistent**
 
@@ -185,11 +185,11 @@ The wielder can cast up to three spells per day that deal nonlethal damage as th
 
 **Description**
 
-The wielder can cast up to three spells per day as though using the [Persistent Spell](../advancedFeats.md#_persistent-spell-(metamagic)) feat.
+The wielder can cast up to three spells per day as though using the [Persistent Spell](../advancedFeats#_persistent-spell-(metamagic)) feat.
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), [Persistent Spell](../advancedFeats.md#_persistent-spell-(metamagic)); **Cost** 4,500 gp (lesser), 16,250 gp (normal), 36,500 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), [Persistent Spell](../advancedFeats#_persistent-spell-(metamagic)); **Cost** 4,500 gp (lesser), 16,250 gp (normal), 36,500 gp (greater)
 
 **Metamagic, Reach**
 
@@ -203,7 +203,7 @@ The wielder can cast up to three spells per day with a one-step increase in thei
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), Reach Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), Reach Spell; **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
 **Metamagic, Selective**
 
@@ -213,11 +213,11 @@ The wielder can cast up to three spells per day with a one-step increase in thei
 
 **Description**
 
-The wielder can cast up to three spells per day as though using the [Selective Spell](../advancedFeats.md#_selective-spell-(metamagic)) feat. For each spell, he can select up to four creatures of his choice within the area that are unaffected.
+The wielder can cast up to three spells per day as though using the [Selective Spell](../advancedFeats#_selective-spell-(metamagic)) feat. For each spell, he can select up to four creatures of his choice within the area that are unaffected.
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), [Selective Spell](../advancedFeats.md#_selective-spell-(metamagic)); **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), [Selective Spell](../advancedFeats#_selective-spell-(metamagic)); **Cost** 1,500 gp (lesser), 5,500 gp (normal), 12,250 gp (greater)
 
 **Metamagic, Sickening**
 
@@ -227,11 +227,11 @@ The wielder can cast up to three spells per day as though using the [Selective S
 
 **Description**
 
-The wielder can cast up to three spells per day that sicken affected creatures as though using the [Sickening Spell](../advancedFeats.md#_sickening-spell-(metamagic)) feat.
+The wielder can cast up to three spells per day that sicken affected creatures as though using the [Sickening Spell](../advancedFeats#_sickening-spell-(metamagic)) feat.
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), [Sickening Spell](../advancedFeats.md#_sickening-spell-(metamagic)); **Cost** 4,500 gp (lesser), 16,250 gp (normal), 36,500 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), [Sickening Spell](../advancedFeats#_sickening-spell-(metamagic)); **Cost** 4,500 gp (lesser), 16,250 gp (normal), 36,500 gp (greater)
 
 **Metamagic, Thundering**
 
@@ -245,5 +245,5 @@ The wielder can cast up to three spells per day that deafen affected creatures a
 
 **Construction**
 
-**Requirements** [Craft Rod](../../feats.md#_craft-rod), Thundering Spell; **Cost** 4,500 gp (lesser), 16,250 gp (normal), 36,500 gp (greater)
+**Requirements** [Craft Rod](../../feats#_craft-rod), Thundering Spell; **Cost** 4,500 gp (lesser), 16,250 gp (normal), 36,500 gp (greater)
 

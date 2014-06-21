@@ -3,7 +3,7 @@ title: mythicAdventures/mythicSpells/disfiguringTouch
 ---
 Disfiguring Touch
 
-**Source** [_disfiguring touch_](ultimateMagic/spells/disfiguringTouch.md#_disfiguring-touch-)
+**Source** [_disfiguring touch_](ultimateMagic/spells/disfiguringTouch#_disfiguring-touch-)
 
 The target takes two different penalties (chosen from the same list) instead of one.
 

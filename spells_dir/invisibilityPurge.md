@@ -15,7 +15,7 @@ title: spells/invisibilityPurge
 
 **Duration** 1 min./level (D)
 
-You surround yourself with a sphere of power with a radius of 5 feet per caster level that negates all forms of [invisibility](invisibility.md#_invisibility).
+You surround yourself with a sphere of power with a radius of 5 feet per caster level that negates all forms of [invisibility](invisibility#_invisibility).
 
-Anything [invisible](../glossary.md#_invisible) becomes visible while in the area.
+Anything [invisible](../glossary#_invisible) becomes visible while in the area.
 

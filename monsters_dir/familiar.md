@@ -3,15 +3,15 @@ title: monsters/familiar
 ---
 # Familiar
 
-Presented here are the base animal statistics for all of the most commonly used familiars—of course, these statistics can also be used for normal animals as well. Small animals like these use Dexterity to modify [Climb](../skills/climb.md#_climb) and [Swim](../skills/swim.md#_swim) checks.
+Presented here are the base animal statistics for all of the most commonly used familiars—of course, these statistics can also be used for normal animals as well. Small animals like these use Dexterity to modify [Climb](../skills/climb#_climb) and [Swim](../skills/swim#_swim) checks.
 
 **Bat CR 1/8**
 
 **XP 50**
 
-N Diminutive [animal](creatureTypes.md#_animal)
+N Diminutive [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** [blindsense](universalMonsterRules.md#_blindsense) 20 ft., low-light vision; [Perception](../skills/perception.md#_perception) +6
+**Init** +2; **Senses** [blindsense](universalMonsterRules#_blindsense) 20 ft., low-light vision; [Perception](../skills/perception#_perception) +6
 
 **Defense**
 
@@ -35,9 +35,9 @@ N Diminutive [animal](creatureTypes.md#_animal)
 
 **Base Atk** +0; **CMB** –2; **CMD** 3
 
-**Feats** [Weapon Finesse](../feats.md#_weapon-finesse)
+**Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Fly](../skills/fly.md#_fly) +16, [Perception](../skills/perception.md#_perception) +6; **Racial Modifier** +4 [Perception](../skills/perception.md#_perception)
+**Skills** [Fly](../skills/fly#_fly) +16, [Perception](../skills/perception#_perception) +6; **Racial Modifier** +4 [Perception](../skills/perception#_perception)
 
 **Ecology**
 
@@ -53,9 +53,9 @@ Most bats are insectivores or fruit-eaters, but at least one species drinks bloo
 
 **XP 100**
 
-N Tiny [animal](creatureTypes.md#_animal)
+N Tiny [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules.md#_scent); [Perception](../skills/perception.md#_perception) +5
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +5
 
 **Defense**
 
@@ -79,9 +79,9 @@ N Tiny [animal](creatureTypes.md#_animal)
 
 **Base Atk** +0; **CMB** +0; **CMD** 6 (10 vs. trip)
 
-**Feats** [Weapon Finesse](../feats.md#_weapon-finesse)
+**Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Climb](../skills/climb.md#_climb) +6, [Perception](../skills/perception.md#_perception) +5, [Stealth](../skills/stealth.md#_stealth) +14; **Racial Modifiers** +4 [Climb](../skills/climb.md#_climb), +4 [Stealth](../skills/stealth.md#_stealth)
+**Skills** [Climb](../skills/climb#_climb) +6, [Perception](../skills/perception#_perception) +5, [Stealth](../skills/stealth#_stealth) +14; **Racial Modifiers** +4 [Climb](../skills/climb#_climb), +4 [Stealth](../skills/stealth#_stealth)
 
 **Ecology**
 
@@ -97,9 +97,9 @@ Cats typically weigh 5–15 pounds when fully grown.
 
 **XP 135**
 
-N Tiny [animal](creatureTypes.md#_animal)
+N Tiny [animal](creatureTypes#_animal)
 
-**Init** +3; **Senses** low-light vision; [Perception](../skills/perception.md#_perception) +14
+**Init** +3; **Senses** low-light vision; [Perception](../skills/perception#_perception) +14
 
 **Defense**
 
@@ -123,9 +123,9 @@ N Tiny [animal](creatureTypes.md#_animal)
 
 **Base**  **Atk** +0; **CMB** +1; **CMD** 9
 
-**Feats** [Weapon Finesse](../feats.md#_weapon-finesse)
+**Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Fly](../skills/fly.md#_fly) +7, [Perception](../skills/perception.md#_perception) +14; **Racial Modifier** +8 [Perception](../skills/perception.md#_perception)
+**Skills** [Fly](../skills/fly#_fly) +7, [Perception](../skills/perception#_perception) +14; **Racial Modifier** +8 [Perception](../skills/perception#_perception)
 
 **Ecology**
 
@@ -141,9 +141,9 @@ Falconers prize these majestic birds as trained hunting companions if raised fro
 
 **XP 65**
 
-N Tiny [animal](creatureTypes.md#_animal)
+N Tiny [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision; [Perception](../skills/perception.md#_perception) +1
+**Init** +2; **Senses** low-light vision; [Perception](../skills/perception#_perception) +1
 
 **Defense**
 
@@ -167,9 +167,9 @@ N Tiny [animal](creatureTypes.md#_animal)
 
 **Base Atk** +0; **CMB** +0; **CMD** 6 (10 vs. trip)
 
-**Feats** [Weapon Finesse](../feats.md#_weapon-finesse)
+**Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skills/acrobatics.md#_acrobatics) +10, [Climb](../skills/climb.md#_climb) +10, [Stealth](../skills/stealth.md#_stealth) +14; **Racial Modifiers** +8 [Acrobatics](../skills/acrobatics.md#_acrobatics)
+**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +10, [Climb](../skills/climb#_climb) +10, [Stealth](../skills/stealth#_stealth) +14; **Racial Modifiers** +8 [Acrobatics](../skills/acrobatics#_acrobatics)
 
 **Ecology**
 
@@ -185,9 +185,9 @@ Lizards can be found in any temperate or tropical climate. When confronted with 
 
 **XP 100**
 
-N Tiny [animal](creatureTypes.md#_animal)
+N Tiny [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision; [Perception](../skills/perception.md#_perception) +5
+**Init** +2; **Senses** low-light vision; [Perception](../skills/perception#_perception) +5
 
 **Defense**
 
@@ -211,9 +211,9 @@ N Tiny [animal](creatureTypes.md#_animal)
 
 **Base Atk** +0; **CMB** +0; **CMD** 6
 
-**Feats** [Weapon Finesse](../feats.md#_weapon-finesse)
+**Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skills/acrobatics.md#_acrobatics) +10, [Climb](../skills/climb.md#_climb) +10, [Perception](../skills/perception.md#_perception) +5; **Racial Modifiers** +8 [Acrobatics](../skills/acrobatics.md#_acrobatics)
+**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +10, [Climb](../skills/climb#_climb) +10, [Perception](../skills/perception#_perception) +5; **Racial Modifiers** +8 [Acrobatics](../skills/acrobatics#_acrobatics)
 
 **Ecology**
 
@@ -229,9 +229,9 @@ Monkeys are highly social creatures. They spend the majority of their day search
 
 **XP 135**
 
-N Tiny [animal](creatureTypes.md#_animal)
+N Tiny [animal](creatureTypes#_animal)
 
-**Init** +3; **Senses** low-light vision; [Perception](../skills/perception.md#_perception) +10
+**Init** +3; **Senses** low-light vision; [Perception](../skills/perception#_perception) +10
 
 **Defense**
 
@@ -255,9 +255,9 @@ N Tiny [animal](creatureTypes.md#_animal)
 
 **Base**  **Atk** +0; **CMB** +1; **CMD** 9
 
-**Feats** [Weapon Finesse](../feats.md#_weapon-finesse)
+**Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Fly](../skills/fly.md#_fly) +7, [Perception](../skills/perception.md#_perception) +10, [Stealth](../skills/stealth.md#_stealth) +15; **Racial Modifiers** +4 [Perception](../skills/perception.md#_perception), +4 [Stealth](../skills/stealth.md#_stealth)
+**Skills** [Fly](../skills/fly#_fly) +7, [Perception](../skills/perception#_perception) +10, [Stealth](../skills/stealth#_stealth) +15; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth)
 
 **Ecology**
 
@@ -273,9 +273,9 @@ Owls are nocturnal, rodent-eating birds that make very little noise in flight.
 
 **XP 100**
 
-N Tiny [animal](creatureTypes.md#_animal)
+N Tiny [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules.md#_scent); [Perception](../skills/perception.md#_perception) +1
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +1
 
 **Defense**
 
@@ -299,9 +299,9 @@ N Tiny [animal](creatureTypes.md#_animal)
 
 **Base**  **Atk** +0; **CMB** +0; **CMD** 6 (10 vs. trip)
 
-**Feats** [Weapon Finesse](../feats.md#_weapon-finesse)
+**Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Climb](../skills/climb.md#_climb) +10, [Stealth](../skills/stealth.md#_stealth) +18, [Swim](../skills/swim.md#_swim) +10; **Racial Modifiers** +4 [Stealth](../skills/stealth.md#_stealth)
+**Skills** [Climb](../skills/climb#_climb) +10, [Stealth](../skills/stealth#_stealth) +18, [Swim](../skills/swim#_swim) +10; **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth)
 
 **Ecology**
 
@@ -317,9 +317,9 @@ Fecund and secretive, rats are omnivorous rodents that particularly thrive in ur
 
 **XP 65**
 
-N Tiny [animal](creatureTypes.md#_animal)
+N Tiny [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision; [Perception](../skills/perception.md#_perception) +6
+**Init** +2; **Senses** low-light vision; [Perception](../skills/perception#_perception) +6
 
 **Defense**
 
@@ -343,9 +343,9 @@ N Tiny [animal](creatureTypes.md#_animal)
 
 **Base**  **Atk** +0; **CMB** +0; **CMD** 6
 
-**Feats** Skill Focus (Perception), [Weapon Finesse](../feats.md#_weapon-finesse)
+**Feats** Skill Focus (Perception), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Fly](../skills/fly.md#_fly) +6, [Perception](../skills/perception.md#_perception) +3
+**Skills** [Fly](../skills/fly#_fly) +6, [Perception](../skills/perception#_perception) +3
 
 **Ecology**
 
@@ -361,9 +361,9 @@ The raven is an omnivorous scavenger that eats carrion, insects, food waste, ber
 
 **XP 50**
 
-N Diminutive [animal](creatureTypes.md#_animal)
+N Diminutive [animal](creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules.md#_scent); [Perception](../skills/perception.md#_perception) +5
+**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +5
 
 **Defense**
 
@@ -385,9 +385,9 @@ N Diminutive [animal](creatureTypes.md#_animal)
 
 **Base Atk** +0; **CMB** –3; **CMD** 2 (6 vs. trip)
 
-**Feats** [Skill Focus](../feats.md#_skill-focus) ( [Perception](../skills/perception.md#_perception))
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
 
-**Skills** [Perception](../skills/perception.md#_perception) +5, [Stealth](../skills/stealth.md#_stealth) +21; **Racial Modifiers** +4 [Stealth](../skills/stealth.md#_stealth)
+**Skills** [Perception](../skills/perception#_perception) +5, [Stealth](../skills/stealth#_stealth) +21; **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth)
 
 **Ecology**
 
@@ -403,9 +403,9 @@ Toads are harmless, rough-skinned amphibians.
 
 **XP 200**
 
-N Tiny [animal](creatureTypes.md#_animal)
+N Tiny [animal](creatureTypes#_animal)
 
-**Init** +3; **Senses** low-light vision, [scent](universalMonsterRules.md#_scent); [Perception](../skills/perception.md#_perception) +9
+**Init** +3; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +9
 
 **Defense**
 
@@ -429,9 +429,9 @@ N Tiny [animal](creatureTypes.md#_animal)
 
 **Base Atk** +0; **CMB** +1; **CMD** 8 (can't be tripped)
 
-**Feats** [Weapon Finesse](../feats.md#_weapon-finesse)
+**Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Climb](../skills/climb.md#_climb) +11, [Perception](../skills/perception.md#_perception) +9, [Stealth](../skills/stealth.md#_stealth) +15, [Swim](../skills/swim.md#_swim) +11; **Racial Modifiers** +4 [Perception](../skills/perception.md#_perception), +4 [Stealth](../skills/stealth.md#_stealth)
+**Skills** [Climb](../skills/climb#_climb) +11, [Perception](../skills/perception#_perception) +9, [Stealth](../skills/stealth#_stealth) +15, [Swim](../skills/swim#_swim) +11; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth)
 
 **Ecology**
 
@@ -451,9 +451,9 @@ Vipers are not particularly aggressive snakes, but their poisonous bite can be d
 
 **XP 200**
 
-N Tiny [animal](creatureTypes.md#_animal)
+N Tiny [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules.md#_scent); [Perception](../skills/perception.md#_perception) +1
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +1
 
 **Defense**
 
@@ -477,9 +477,9 @@ N Tiny [animal](creatureTypes.md#_animal)
 
 **Base Atk** +0; **CMB** +0; **CMD** 6 (10 vs. trip)
 
-**Feats** [Weapon Finesse](../feats.md#_weapon-finesse)
+**Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skills/acrobatics.md#_acrobatics) +10, [Climb](../skills/climb.md#_climb) +10, [Escape Artist](../skills/escapeArtist.md#_escape-artist) +3, [Stealth](../skills/stealth.md#_stealth) +14; **Racial Modifiers** +4 [Stealth](../skills/stealth.md#_stealth), +8 [Acrobatics](../skills/acrobatics.md#_acrobatics)
+**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +10, [Climb](../skills/climb#_climb) +10, [Escape Artist](../skills/escapeArtist#_escape-artist) +3, [Stealth](../skills/stealth#_stealth) +14; **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth), +8 [Acrobatics](../skills/acrobatics#_acrobatics)
 
 **Ecology**
 

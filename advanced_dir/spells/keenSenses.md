@@ -17,5 +17,5 @@ title: advanced/spells/keenSenses
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The subject gains a +2 competence bonus on [Perception](../../skills/perception.md#_perception) checks and gains low-light vision. Subjects that have low-light vision double the distance they can see under the effects of this spell.
+The subject gains a +2 competence bonus on [Perception](../../skills/perception#_perception) checks and gains low-light vision. Subjects that have low-light vision double the distance they can see under the effects of this spell.
 

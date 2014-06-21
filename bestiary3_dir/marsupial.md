@@ -11,7 +11,7 @@ XP 200
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision, [scent](monsters/universalMonsterRules.md#_scent); [Perception](skills/perception.md#_perception) +4
+**Init** +3; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +4
 
 Defense
 
@@ -33,9 +33,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +1; **CMD** 14
 
-**Feats** [Skill Focus](feats.md#_skill-focus) ( [Acrobatics](skills/acrobatics.md#_acrobatics))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Acrobatics](skills/acrobatics#_acrobatics))
 
-**Skills** [Acrobatics](skills/acrobatics.md#_acrobatics) +14 (+18 when jumping), [Perception](skills/perception.md#_perception) +4
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +14 (+18 when jumping), [Perception](skills/perception#_perception) +4
 
 Ecology
 
@@ -61,7 +61,7 @@ XP 200
 
 N Small animal
 
-**Init** +2; **Senses** low-light vision; [Perception](skills/perception.md#_perception) +8
+**Init** +2; **Senses** low-light vision; [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -83,9 +83,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 12 (16 vs. trip)
 
-**Feats** [Skill Focus](feats.md#_skill-focus) ( [Perception](skills/perception.md#_perception))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Perception](skills/perception.md#_perception) +8
+**Skills** [Perception](skills/perception#_perception) +8
 
 **SQ** powerful jaws
 

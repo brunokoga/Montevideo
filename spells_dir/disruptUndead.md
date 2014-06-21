@@ -15,7 +15,7 @@ title: spells/disruptUndead
 
 **Duration** instantaneous
 
-**Saving Throw** none; **[Spell Resistance](../glossary.md#_spell-resistance)** yes
+**Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 
 You direct a ray of positive energy. You must make a ranged touch attack to hit, and if the ray hits an undead creature, it deals 1d6 points of damage to it.
 

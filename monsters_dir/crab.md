@@ -9,9 +9,9 @@ _This lumbering hard-shelled crab stands as tall as a dwarf, its massive pincers
 
 **XP 600**
 
-N Medium [vermin](creatureTypes.md#_vermin) ( [aquatic](creatureTypes.md#_aquatic-subtype))
+N Medium [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subtype))
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skills/perception.md#_perception) +4
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +4
 
 **Defense**
 
@@ -27,7 +27,7 @@ N Medium [vermin](creatureTypes.md#_vermin) ( [aquatic](creatureTypes.md#_aquati
 
 **Speed** 30 ft., swim 20 ft.
 
-**Melee** 2 claws +4 (1d4+2 plus [grab](universalMonsterRules.md#_grab))
+**Melee** 2 claws +4 (1d4+2 plus [grab](universalMonsterRules#_grab))
 
 **Special Attacks** constrict (1d4+2)
 
@@ -37,7 +37,7 @@ N Medium [vermin](creatureTypes.md#_vermin) ( [aquatic](creatureTypes.md#_aquati
 
 **Base**  **Atk** +2; **CMB** +4 (+8 grapple); **CMD** 15 (27 vs. trip)
 
-**Skills** [Perception](../skills/perception.md#_perception) +4, [Swim](../skills/swim.md#_swim) +10; **Racial Modifiers** +4 [Perception](../skills/perception.md#_perception)
+**Skills** [Perception](../skills/perception#_perception) +4, [Swim](../skills/swim#_swim) +10; **Racial Modifiers** +4 [Perception](../skills/perception#_perception)
 
 **SQ** water dependency
 
@@ -74,9 +74,9 @@ _A writhing mass of clacking shells and snapping pincers rushes from the surf, t
 
 **XP 1,200**
 
-N Diminutive [vermin](creatureTypes.md#_vermin) ( [aquatic](creatureTypes.md#_aquatic-subtype), [swarm](creatureTypes.md#_swarm-subtype))
+N Diminutive [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subtype), [swarm](creatureTypes#_swarm-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills/perception.md#_perception) +0
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +0
 
 **Defense**
 
@@ -86,7 +86,7 @@ N Diminutive [vermin](creatureTypes.md#_vermin) ( [aquatic](creatureTypes.md#_aq
 
 **Fort** +6, **Ref** +4, **Will** +2
 
-**Immune** mind-affecting effects, [swarm traits](creatureTypes.md#_swarm-subtype), weapon damage
+**Immune** mind-affecting effects, [swarm traits](creatureTypes#_swarm-subtype), weapon damage
 
 **Offense**
 
@@ -104,7 +104,7 @@ N Diminutive [vermin](creatureTypes.md#_vermin) ( [aquatic](creatureTypes.md#_aq
 
 **Base**  **Atk** +5; **CMB** —; **CMD** —
 
-**Skills** [Swim](../skills/swim.md#_swim) +10; **Racial Modifiers** uses Dex to modify [Swim](../skills/swim.md#_swim)
+**Skills** [Swim](../skills/swim#_swim) +10; **Racial Modifiers** uses Dex to modify [Swim](../skills/swim#_swim)
 
 **Ecology**
 

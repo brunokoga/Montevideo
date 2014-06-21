@@ -9,9 +9,9 @@ This long, lean fish has a muscular body and a head with long jaws filled with s
 
 **XP 400**
 
-N Medium [animal](monsters/creatureTypes.md#_animal) ( [aquatic](monsters/creatureTypes.md#_aquatic-subtype))
+N Medium [animal](monsters/creatureTypes#_animal) ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
 
-**Init** +6; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception.md#_perception) +6
+**Init** +6; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +6
 
 Defense
 
@@ -25,7 +25,7 @@ Offense
 
 **Speed** swim 60 ft.
 
-**Melee** bite +3 (1d6+3 plus [grab](monsters/universalMonsterRules.md#_grab))
+**Melee** bite +3 (1d6+3 plus [grab](monsters/universalMonsterRules#_grab))
 
 Statistics
 
@@ -33,9 +33,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +3 (+7 grapple); **CMD** 15 (can't be tripped)
 
-**Feats** [Improved Initiative](additionalMonsters/../feats.md#_improved-initiative)
+**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative)
 
-**Skills** [Perception](additionalMonsters/../skills/perception.md#_perception) +6, [Swim](additionalMonsters/../skills/swim.md#_swim) +10
+**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +6, [Swim](additionalMonsters/../skills/swim#_swim) +10
 
 Ecology
 
@@ -61,9 +61,9 @@ Giant GarCR 6
 
 **XP 2,400**
 
-N Huge [animal](monsters/creatureTypes.md#_animal) ( [aquatic](monsters/creatureTypes.md#_aquatic-subtype))
+N Huge [animal](monsters/creatureTypes#_animal) ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
 
-**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception.md#_perception) +11
+**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +11
 
 Defense
 
@@ -77,7 +77,7 @@ Offense
 
 **Speed** swim 60 ft.
 
-**Melee** bite +13 (2d6+15 plus [grab](monsters/universalMonsterRules.md#_grab))
+**Melee** bite +13 (2d6+15 plus [grab](monsters/universalMonsterRules#_grab))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -89,9 +89,9 @@ Statistics
 
 **Base Atk** +5; **CMB** +17 (+21 grapple); **CMD** 27 (can't be tripped)
 
-**Feats** [Improved Initiative](additionalMonsters/../feats.md#_improved-initiative), [Iron Will](additionalMonsters/../feats.md#_iron-will), [Lightning Reflexes](additionalMonsters/../feats.md#_lightning-reflexes), [Power Attack](additionalMonsters/../feats.md#_power-attack)
+**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Power Attack](additionalMonsters/../feats#_power-attack)
 
-**Skills** [Perception](additionalMonsters/../skills/perception.md#_perception) +11, [Swim](additionalMonsters/../skills/swim.md#_swim) +18
+**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +11, [Swim](additionalMonsters/../skills/swim#_swim) +18
 
 Ecology
 
