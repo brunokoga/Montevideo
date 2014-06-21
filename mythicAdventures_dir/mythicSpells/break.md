@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/break
 ---
 Break
 
-**Source** [_break_](../advanced_dir/spells_dir/break#_break-)
+**Source** [_break_](../../advanced_dir/spells_dir/break#_break-)
 
 You can target up to 1 Medium or smaller object per caster level.
 

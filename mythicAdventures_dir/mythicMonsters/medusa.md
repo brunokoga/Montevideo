@@ -10,9 +10,9 @@ Mythic Medusa CR 9_dir/MR 3
 
 XP 6,400
 
-LE Medium monstrous humanoid ( [mythic](../mythicAdventures_dir/mythicMonsters#_mythic-subtype))
+LE Medium monstrous humanoid ( [mythic](../../mythicAdventures_dir/mythicMonsters#_mythic-subtype))
 
-**Init** +10M; **Senses** [all-around vision](../monsters_dir/universalMonsterRules#_all-around-vision), darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +18
+**Init** +10M; **Senses** [all-around vision](../../monsters_dir/universalMonsterRules#_all-around-vision), darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +18
 
 Defense
 
@@ -26,15 +26,15 @@ Defense
 
 Offense
 
-**Speed** 30 ft., fly 60 ft. ( [good](../monsters_dir/creatureTypes#_good-subtype))
+**Speed** 30 ft., fly 60 ft. ( [good](../../monsters_dir/creatureTypes#_good-subtype))
 
-**Melee** mwk bastard sword +10_dir/+5 (1d10_dir/19–20 plus [poison](../monsters_dir/universalMonsterRules#_poison)), 2 snake bites +12 (1d6+3 plus [poison](../monsters_dir/universalMonsterRules#_poison))
+**Melee** mwk bastard sword +10_dir/+5 (1d10_dir/19–20 plus [poison](../../monsters_dir/universalMonsterRules#_poison)), 2 snake bites +12 (1d6+3 plus [poison](../../monsters_dir/universalMonsterRules#_poison))
 
-**Ranged** mwk longbow +13_dir/+8 (1d8_dir/×3 plus [poison](../monsters_dir/universalMonsterRules#_poison))
+**Ranged** mwk longbow +13_dir/+8 (1d8_dir/×3 plus [poison](../../monsters_dir/universalMonsterRules#_poison))
 
 **Space** 5 ft.; **Reach** 5 ft. (10 ft. with snake bite)
 
-**Special Attacks** mythic power (3_dir/day, surge +1d6), petrifying [gaze](../monsters_dir/universalMonsterRules#_gaze), [poison](../monsters_dir/universalMonsterRules#_poison), [poison](../monsters_dir/universalMonsterRules#_poison) weapons, [summon](../monsters_dir/universalMonsterRules#_summon) snake, unpetrify
+**Special Attacks** mythic power (3_dir/day, surge +1d6), petrifying [gaze](../../monsters_dir/universalMonsterRules#_gaze), [poison](../../monsters_dir/universalMonsterRules#_poison), [poison](../../monsters_dir/universalMonsterRules#_poison) weapons, [summon](../../monsters_dir/universalMonsterRules#_summon) snake, unpetrify
 
 Statistics
 
@@ -42,9 +42,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +9; **CMD** 22
 
-**Feats** [Improved Initiative](../mythicAdventures_dir/mythicFeats#_improved-initiative-mythic)M, [Lightning Reflexes](../feats#_lightning-reflexes), [Point-Blank Shot](../feats#_point-blank-shot), Precise Shot, [Weapon Finesse](../mythicAdventures_dir/mythicFeats#_weapon-finesse-mythic)M
+**Feats** [Improved Initiative](../../mythicAdventures_dir/mythicFeats#_improved-initiative-mythic)M, [Lightning Reflexes](../../feats#_lightning-reflexes), [Point-Blank Shot](../../feats#_point-blank-shot), Precise Shot, [Weapon Finesse](../../mythicAdventures_dir/mythicFeats#_weapon-finesse-mythic)M
 
-**Skills** [Bluff](../skills_dir/bluff#_bluff) +13, [Disguise](../skills_dir/disguise#_disguise) +13, [Fly](../skills_dir/fly#_fly) +7, [Intimidate](../skills_dir/intimidate#_intimidate) +16, [Perception](../skills_dir/perception#_perception) +18, [Stealth](../skills_dir/stealth#_stealth) +15; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception)
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +13, [Disguise](../../skills_dir/disguise#_disguise) +13, [Fly](../../skills_dir/fly#_fly) +7, [Intimidate](../../skills_dir/intimidate#_intimidate) +16, [Perception](../../skills_dir/perception#_perception) +18, [Stealth](../../skills_dir/stealth#_stealth) +15; **Racial Modifiers** +4 [Perception](../../skills_dir/perception#_perception)
 
 **Languages** Common
 
@@ -64,9 +64,9 @@ Special Abilities
 
 **Poison Weapons (Ex)** A mythic medusa can spend a standard action to apply her snake poison to her sword or to two arrows, and normally poisons her weapons in advance.
 
-**Summon Snake (Sp)** As a full-round action, a mythic medusa can summon an [emperor cobra](../additionalMonsters_dir/snake#_snake,-emperor-cobra) or 1d3 [amphisbaenas](../additionalMonsters_dir/amphisbaena#_amphisbaena) as if using a [_summon monster_](../spells_dir/summonMonster) spell. The summoned snakes are immune to the medusa's gaze attack and remain for 8 rounds before disappearing.
+**Summon Snake (Sp)** As a full-round action, a mythic medusa can summon an [emperor cobra](../../additionalMonsters_dir/snake#_snake,-emperor-cobra) or 1d3 [amphisbaenas](../../additionalMonsters_dir/amphisbaena#_amphisbaena) as if using a [_summon monster_](../../spells_dir/summonMonster) spell. The summoned snakes are immune to the medusa's gaze attack and remain for 8 rounds before disappearing.
 
-**Unpetrify (Su)** A mythic medusa can expend one use of mythic power to return a petrified creature to life (as if using _ [stone to flesh](../spells_dir/stoneToFlesh#_stone-to-flesh)_) for 1 minute. The creature is under the medusa's control (as if using _ [dominate monster](../spells_dir/dominateMonster#_dominate-monster)_) and reverts to a statue at the end of this time. If the medusa expends three uses of mythic power, the creature remains unpetrified for 24 hours instead of 1 minute. A typical petrified victim in a mythic medusa's lair is a [half-elf fighter 6](../npcCodex_dir/core_dir/fighter#_adventuring-blacksmith) or [human warrior 6](../npcCodex_dir/npc_dir/warrior#_grizzled-mercenary).
+**Unpetrify (Su)** A mythic medusa can expend one use of mythic power to return a petrified creature to life (as if using _ [stone to flesh](../../spells_dir/stoneToFlesh#_stone-to-flesh)_) for 1 minute. The creature is under the medusa's control (as if using _ [dominate monster](../../spells_dir/dominateMonster#_dominate-monster)_) and reverts to a statue at the end of this time. If the medusa expends three uses of mythic power, the creature remains unpetrified for 24 hours instead of 1 minute. A typical petrified victim in a mythic medusa's lair is a [half-elf fighter 6](../../npcCodex_dir/core_dir/fighter#_adventuring-blacksmith) or [human warrior 6](../../npcCodex_dir/npc_dir/warrior#_grizzled-mercenary).
 
 A mythic medusa is one of the near-immortal progenitors of the medusa race, who mate with humanoids in order to produce weaker (but still deadly) offspring. With deadly poison, power over snakes, and the ability to animate and command those she has turned to stone, a mythic medusa is a dangerous foe who can't be easily overcome by mirrored shields and blindfolds; she waits, strikes, and retreats, allowing her minions and venom to weaken her foes before she is ready to take their lives.
 

@@ -44,9 +44,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +2; **CMD** 12 (16 vs. bull rush or trip)
 
-**Feats** [Weapon Focus](../feats#_weapon-focus) (dwarven waraxe)
+**Feats** [Weapon Focus](../../feats#_weapon-focus) (dwarven waraxe)
 
-**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +2, Perception +1 (+3 to notice unusual stonework)
+**Skills** [Intimidate](../../skills_dir/intimidate#_intimidate) +2, Perception +1 (+3 to notice unusual stonework)
 
 **Languages** Common, Dwarven
 
@@ -92,13 +92,13 @@ Statistics
 
 **Base Atk** +2; **CMB** +3; **CMD** 14
 
-**Feats** [Point-Blank Shot](../feats#_point-blank-shot), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth))
+**Feats** [Point-Blank Shot](../../feats#_point-blank-shot), [Skill Focus](../../feats#_skill-focus) ( [Stealth](../../skills_dir/stealth#_stealth))
 
-**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +4, [Stealth](../skills_dir/stealth#_stealth) +6
+**Skills** [Intimidate](../../skills_dir/intimidate#_intimidate) +4, [Stealth](../../skills_dir/stealth#_stealth) +6
 
 **Languages** Common
 
-**Combat Gear** _potion of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_, masterwork arrows (5), tanglefoot bags (2), thunderstone (2); **Other Gear** leather armor, longbow with 20 arrows, longsword, sap, 48 gp
+**Combat Gear** _potion of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_, masterwork arrows (5), tanglefoot bags (2), thunderstone (2); **Other Gear** leather armor, longbow with 20 arrows, longsword, sap, 48 gp
 
 A brigand has no sense of mercy, and is happy to kill for a handful of silver. Brigands waylay caravans, create illegal turnpikes on roads to collect tolls from travelers, attack noisy camps at night, and harass villages for protection money. They are easily routed but carry a grudge and remain a recurring problem until imprisoned or killed.
 
@@ -142,9 +142,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +5; **CMD** 14
 
-**Feats** [Alertness](../feats#_alertness), [Toughness](../feats#_toughness), [Weapon Focus](../feats#_weapon-focus) (guisarme)
+**Feats** [Alertness](../../feats#_alertness), [Toughness](../../feats#_toughness), [Weapon Focus](../../feats#_weapon-focus) (guisarme)
 
-**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +6, Perception +5, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +4
+**Skills** [Intimidate](../../skills_dir/intimidate#_intimidate) +6, Perception +5, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +4
 
 **Languages** Common
 
@@ -190,13 +190,13 @@ Statistics
 
 **Base Atk** +4; **CMB** +5; **CMD** 19
 
-**Feats** [Dodge](../feats#_dodge), Mobility, [Toughness](../feats#_toughness)
+**Feats** [Dodge](../../feats#_dodge), Mobility, [Toughness](../../feats#_toughness)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +6, [Climb](../skills_dir/climb#_climb) +6, [Intimidate](../skills_dir/intimidate#_intimidate) +6, [Profession](../skills_dir/profession#_profession) (sailor) +3, [Swim](../skills_dir/swim#_swim) +17
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +6, [Climb](../../skills_dir/climb#_climb) +6, [Intimidate](../../skills_dir/intimidate#_intimidate) +6, [Profession](../../skills_dir/profession#_profession) (sailor) +3, [Swim](../../skills_dir/swim#_swim) +17
 
 **Languages** Common, Orc
 
-**Combat Gear** _ [elixir of swimming](../magicItems_dir/wondrousItems#_elixir-of-swimming)_, _potion of [bull's strength](../spells_dir/bullSStrength#_bull-s-strength)_, _potions of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [jump](../spells_dir/jump#_jump),_ alchemist's fire; **Other Gear** studded leather, masterwork heavy crossbow with 10 bolts, masterwork scimitar, throwing axe, 231 gp
+**Combat Gear** _ [elixir of swimming](../../magicItems_dir/wondrousItems#_elixir-of-swimming)_, _potion of [bull's strength](../../spells_dir/bullSStrength#_bull-s-strength)_, _potions of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [jump](../../spells_dir/jump#_jump),_ alchemist's fire; **Other Gear** studded leather, masterwork heavy crossbow with 10 bolts, masterwork scimitar, throwing axe, 231 gp
 
 A veteran buccaneer lives to murder and plunder. Like a shark, she constantly hunts for prey. Buccaneers prefer easy targets like heavy, slow-moving merchant ships that quickly surrender their booty rather than fast military vessels that at best have a stockpile of weapons and at worst carry a full crew of angry sailors itching to spill pirate blood. Some buccaneers take only cargo, some take slaves, and some leave no survivors.
 
@@ -230,7 +230,7 @@ Offense
 
 Tactics
 
-**During Combat** The warrior makes nonlethal unarmed strikes unless an opponent draws a weapon. She uses Improved Bull Rush to throw opponents into tables or through windows. If sorely pressed, she drinks her _potion of [enlarge person](../spells_dir/enlargePerson#_enlarge-person)_.
+**During Combat** The warrior makes nonlethal unarmed strikes unless an opponent draws a weapon. She uses Improved Bull Rush to throw opponents into tables or through windows. If sorely pressed, she drinks her _potion of [enlarge person](../../spells_dir/enlargePerson#_enlarge-person)_.
 
 Statistics
 
@@ -238,15 +238,15 @@ Statistics
 
 **Base Atk** +5; **CMB** +7; **CMD** 18
 
-**Feats** [Combat Reflexes](../feats#_combat-reflexes), Improved Bull Rush, [Improved Unarmed Strike](../feats#_improved-unarmed-strike)
+**Feats** [Combat Reflexes](../../feats#_combat-reflexes), Improved Bull Rush, [Improved Unarmed Strike](../../feats#_improved-unarmed-strike)
 
-**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +9, Perception +0
+**Skills** [Intimidate](../../skills_dir/intimidate#_intimidate) +9, Perception +0
 
 **Languages** Common, Orc
 
 **SQ** orc blood, weapon familiarity
 
-**Combat Gear** _potions of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [enlarge person](../spells_dir/enlargePerson#_enlarge-person)_; **Other Gear** chain shirt, sap, warhammer, _ [amulet of natural armor](../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, 137 gp
+**Combat Gear** _potions of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [enlarge person](../../spells_dir/enlargePerson#_enlarge-person)_; **Other Gear** chain shirt, sap, warhammer, _ [amulet of natural armor](../../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, 137 gp
 
 A tavern champion is locally famous for boxing, throwing darts, arm wrestling, or just coming out on top in a bar fight. If she's not in the mood to fight—for example, if she's just trying to enjoy a meal or drink with friends—she prefers to intimidate rivals into backing down, but still enjoys a good brawl and knocks out anyone who doesn't take no for an answer.
 
@@ -290,19 +290,19 @@ Statistics
 
 **Base Atk** +6; **CMB** +8; **CMD** 18
 
-**Feats** Diehard, [Endurance](../feats#_endurance), [Power Attack](../feats#_power-attack), [Toughness](../feats#_toughness)
+**Feats** Diehard, [Endurance](../../feats#_endurance), [Power Attack](../../feats#_power-attack), [Toughness](../../feats#_toughness)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +0, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +3, [Intimidate](../skills_dir/intimidate#_intimidate) +6, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +0, Perception +4, [Swim](../skills_dir/swim#_swim) +0
+**Skills** [Climb](../../skills_dir/climb#_climb) +0, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +3, [Intimidate](../../skills_dir/intimidate#_intimidate) +6, [Knowledge](../../skills_dir/knowledge#_knowledge) (local) +0, Perception +4, [Swim](../../skills_dir/swim#_swim) +0
 
 **Languages** Common
 
-**Combat Gear** _potion of [barkskin](../spells_dir/barkskin#_barkskin)_, _potion of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds),_ alchemist's fire (2), holy water; **Other Gear** masterwork half-plate, cold iron kukri, javelins (4), longspear, masterwork halberd, masterwork heavy flail, morningstar, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, antitoxin, sunrod, 325 gp
+**Combat Gear** _potion of [barkskin](../../spells_dir/barkskin#_barkskin)_, _potion of [cure moderate wounds](../../spells_dir/cureModerateWounds#_cure-moderate-wounds),_ alchemist's fire (2), holy water; **Other Gear** masterwork half-plate, cold iron kukri, javelins (4), longspear, masterwork halberd, masterwork heavy flail, morningstar, _ [cloak of resistance](../../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, antitoxin, sunrod, 325 gp
 
 A grizzled mercenary is armed to the teeth, and has survived wars and reckless adventurers. He carries multiple weapons so he can deal with various types of monstrous foes, and is unfazed by most encounters. He expects to be paid for his service on time and in real coin—not giant gems or weird statues.
 
 The mercenary is willing to guard a keep, wear a warlord's tabard or uniform, or venture into the upper levels of a dungeon, but he's no fool and doesn't like being treated as expendable. He is loyal as long as he is paid well, but not willing to risk his life on an obvious suicide mission. The above stat block can also be used for veteran military officers.
 
-Expert [Bodyguard](../advanced_dir/advancedFeats#bodyguard) CR 5
+Expert [Bodyguard](../../advanced_dir/advancedFeats#bodyguard) CR 5
 
 **XP** 1,600
 
@@ -330,7 +330,7 @@ Offense
 
 Tactics
 
-**During Combat** If she sees an enemy approaching, the warrior fires her _ [screaming bolt](../magicItems_dir/weapons#_screaming-bolt)_ before entering melee. In melee, she uses Stand Still to prevent enemies from getting past her, giving her employer time to escape.
+**During Combat** If she sees an enemy approaching, the warrior fires her _ [screaming bolt](../../magicItems_dir/weapons#_screaming-bolt)_ before entering melee. In melee, she uses Stand Still to prevent enemies from getting past her, giving her employer time to escape.
 
 Statistics
 
@@ -338,13 +338,13 @@ Statistics
 
 **Base Atk** +7; **CMB** +8; **CMD** 17
 
-**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), Stand Still, [Weapon Focus](../feats#_weapon-focus) (longsword)
+**Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Improved Initiative](../../feats#_improved-initiative), [Iron Will](../../feats#_iron-will), Stand Still, [Weapon Focus](../../feats#_weapon-focus) (longsword)
 
-**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +9, Perception +8, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +8
+**Skills** [Intimidate](../../skills_dir/intimidate#_intimidate) +9, Perception +8, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +8
 
 **Languages** Common
 
-**Combat Gear** _potion of [barkskin](../spells_dir/barkskin#_barkskin)_, _potion of [bear's endurance](../spells_dir/bearSEndurance#_bear-s-endurance)_, _potion of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _ [screaming bolt](../magicItems_dir/weapons#_screaming-bolt)_, tanglefoot bag (2); **Other Gear** masterwork banded mail, masterwork light steel shield, _+1 longsword_, kukri, masterwork light crossbow with 20 bolts, masterwork manacles, 114 gp
+**Combat Gear** _potion of [barkskin](../../spells_dir/barkskin#_barkskin)_, _potion of [bear's endurance](../../spells_dir/bearSEndurance#_bear-s-endurance)_, _potion of [cure moderate wounds](../../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _ [screaming bolt](../../magicItems_dir/weapons#_screaming-bolt)_, tanglefoot bag (2); **Other Gear** masterwork banded mail, masterwork light steel shield, _+1 longsword_, kukri, masterwork light crossbow with 20 bolts, masterwork manacles, 114 gp
 
 A bodyguard carries many scars from attempts on her employer's life. Unlike a common guard or even a grizzled old mercenary, she is willing to die to protect her charge if that is the only way to keep him safe. If given the option to sacrifice her own life to save him or flee to save herself, she'll choose the former.
 
@@ -380,7 +380,7 @@ Offense
 
 Tactics
 
-**During Combat** The warrior uses her _+1 [flaming](../magicItems_dir/weapons#_weapons-flaming) arrows_ on dangerous targets like spellcasters. She falls backs and keeps firing as foes approach her, avoiding melee as long as possible.
+**During Combat** The warrior uses her _+1 [flaming](../../magicItems_dir/weapons#_weapons-flaming) arrows_ on dangerous targets like spellcasters. She falls backs and keeps firing as foes approach her, avoiding melee as long as possible.
 
 Statistics
 
@@ -388,15 +388,15 @@ Statistics
 
 **Base Atk** +8; **CMB** +10; **CMD** 22
 
-**Feats** [Deadly Aim](../feats#_deadly-aim), [Point-Blank Shot](../feats#_point-blank-shot), Rapid Shot, [Weapon Focus](../feats#_weapon-focus) (composite longbow)
+**Feats** [Deadly Aim](../../feats#_deadly-aim), [Point-Blank Shot](../../feats#_point-blank-shot), Rapid Shot, [Weapon Focus](../../feats#_weapon-focus) (composite longbow)
 
-**Skills** Perception +10, [Stealth](../skills_dir/stealth#_stealth) +5
+**Skills** Perception +10, [Stealth](../../skills_dir/stealth#_stealth) +5
 
 **Languages** Common, Elven
 
 **SQ** elven magic, weapon familiarity
 
-**Combat Gear** _ [elixir of hiding](../magicItems_dir/wondrousItems#_elixir-of-hiding)_, _+1 [flaming](../magicItems_dir/weapons#_weapons-flaming) arrows_ (6), _potion of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [divine favor](../spells_dir/divineFavor#_divine-favor)_; **Other Gear** masterwork full plate, _+1 composite longbow_ (+2 Str) with 40 arrows, elven curve blade, 72 gp
+**Combat Gear** _ [elixir of hiding](../../magicItems_dir/wondrousItems#_elixir-of-hiding)_, _+1 [flaming](../../magicItems_dir/weapons#_weapons-flaming) arrows_ (6), _potion of [cure moderate wounds](../../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [divine favor](../../spells_dir/divineFavor#_divine-favor)_; **Other Gear** masterwork full plate, _+1 composite longbow_ (+2 Str) with 40 arrows, elven curve blade, 72 gp
 
 An aloof archer is disdainful of the archery skill of non-elves. Despite their heavy armor, aloof archers are remarkably stealthy. Unlike the elven scouts who move through the brush and harass invaders, these archers make up the ranged support of elven armies, firing over their comrades' heads into the thick of enemy forces, creating a hail of deadly arrows.
 
@@ -438,15 +438,15 @@ Statistics
 
 **Base Atk** +9; **CMB** +12; **CMD** 22
 
-**Feats** [Iron Will](../feats#_iron-will), Mounted Archery, [Mounted Combat](../feats#_mounted-combat), Ride-By Attack, [Skill Focus](../feats#_skill-focus) (Perception), Spirited Charge
+**Feats** [Iron Will](../../feats#_iron-will), Mounted Archery, [Mounted Combat](../../feats#_mounted-combat), Ride-By Attack, [Skill Focus](../../feats#_skill-focus) (Perception), Spirited Charge
 
-**Skills** [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +8, Perception +8, [Ride](../skills_dir/ride#_ride) +6
+**Skills** [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +8, Perception +8, [Ride](../../skills_dir/ride#_ride) +6
 
 **Languages** Common, Elven
 
 **SQ** elf blood
 
-**Combat Gear** _potions of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (2), _potion of [heroism](../spells_dir/heroism#_heroism)_, cold iron arrows (10), silver arrows (10); **Other Gear** masterwork full plate, masterwork heavy steel shield, _+1 lance_, masterwork composite shortbow (+3 Str) with 40 arrows, masterwork heavy pick, bit and bridle, heavy horse (combat trained), masterwork chainmail barding, military saddle, saddlebags, 259 gp
+**Combat Gear** _potions of [cure moderate wounds](../../spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (2), _potion of [heroism](../../spells_dir/heroism#_heroism)_, cold iron arrows (10), silver arrows (10); **Other Gear** masterwork full plate, masterwork heavy steel shield, _+1 lance_, masterwork composite shortbow (+3 Str) with 40 arrows, masterwork heavy pick, bit and bridle, heavy horse (combat trained), masterwork chainmail barding, military saddle, saddlebags, 259 gp
 
 A cavalry soldier mixes the elven devotion to the natural world with a human's skill at armored combat. She devotes herself to a career in the military, the elven blood in her veins giving her the time and patience needed to reach the highest pay grade for a non-officer. She is content to remain at her current rank until she dies or retires, for she took this job because of her love of horses and battle. She respects discipline, and if she weren't in the army, she probably would form her own mercenary company just so she could train others in horsemanship, battle tactics, and skill-at-arms.
 
@@ -492,13 +492,13 @@ Statistics
 
 **Base Atk** +10; **CMB** +12; **CMD** 27
 
-**Feats** Dazzling Display, [Dodge](../feats#_dodge), [Toughness](../feats#_toughness), Two-Weapon Defense, [Two-Weapon Fighting](../feats#_two-weapon-fighting), [Weapon Focus](../feats#_weapon-focus) (short sword)
+**Feats** Dazzling Display, [Dodge](../../feats#_dodge), [Toughness](../../feats#_toughness), Two-Weapon Defense, [Two-Weapon Fighting](../../feats#_two-weapon-fighting), [Weapon Focus](../../feats#_weapon-focus) (short sword)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +12, [Intimidate](../skills_dir/intimidate#_intimidate) +8, Perception +4, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +9
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +12, [Intimidate](../../skills_dir/intimidate#_intimidate) +8, Perception +4, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +9
 
 **Languages** Common
 
-**Combat Gear** _potion of [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [heroism](../spells_dir/heroism#_heroism)_; **Other Gear** studded leather, _+1 short sword_, darts (10), net, masterwork light mace, trident, _ [belt of giant strength](../magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +1_, antitoxin, 240 gp
+**Combat Gear** _potion of [cure moderate wounds](../../spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [heroism](../../spells_dir/heroism#_heroism)_; **Other Gear** studded leather, _+1 short sword_, darts (10), net, masterwork light mace, trident, _ [belt of giant strength](../../magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [ring of protection](../../magicItems_dir/rings#_ring-of-protection) +1_, antitoxin, 240 gp
 
 The gladiator champion rose up from hopeless slavery to great fame, winning match after match with luck, skill, and the approval of the crowd. He has defeated single opponents and dozens of warriors at once, fought tigers and strange beasts, and even battled a minotaur and things that have no name in any human tongue.
 

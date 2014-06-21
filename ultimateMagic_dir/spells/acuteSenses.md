@@ -18,5 +18,5 @@ Acute Senses
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-The target gains a +10 enhancement bonus on [Perception](../skills_dir/perception#_perception) checks. The bonus increases to +20 at caster level 8th, and +30 (the maximum) at caster level 16th.
+The target gains a +10 enhancement bonus on [Perception](../../skills_dir/perception#_perception) checks. The bonus increases to +20 at caster level 8th, and +30 (the maximum) at caster level 16th.
 

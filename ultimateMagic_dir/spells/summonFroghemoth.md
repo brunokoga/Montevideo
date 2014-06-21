@@ -18,5 +18,5 @@ Summon Froghemoth
 
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as _ [summon nature's ally IX](../spells_dir/summonNatureSAlly#_summon-nature-s-ally-ix)_, except you summon a [froghemoth](../monsters_dir/froghemoth#_froghemoth).
+This spell functions as _ [summon nature's ally IX](../../spells_dir/summonNatureSAlly#_summon-nature-s-ally-ix)_, except you summon a [froghemoth](../../monsters_dir/froghemoth#_froghemoth).
 

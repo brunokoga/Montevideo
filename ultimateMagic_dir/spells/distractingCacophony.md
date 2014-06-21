@@ -18,5 +18,5 @@ Distracting Cacophony
 
 **Saving Throw** none; **Spell Resistance** yes
 
-The air fills with loud and discordant noise, making concentration difficult. Casting a spell in this area of cacophony requires a concentration check (DC 15 + the level of the spell being cast). Any other concentration checks in the area have their DCs increased by 5. The DC of [Perception](../skills_dir/perception#_perception) checks involving hearing is likewise increased by 5.
+The air fills with loud and discordant noise, making concentration difficult. Casting a spell in this area of cacophony requires a concentration check (DC 15 + the level of the spell being cast). Any other concentration checks in the area have their DCs increased by 5. The DC of [Perception](../../skills_dir/perception#_perception) checks involving hearing is likewise increased by 5.
 

@@ -8,7 +8,7 @@ Pellet Blast
 
 **Casting time** 1 standard action
 
-**Components** V, S, M (a handful of metal pellets or handful of [cold](../monsters_dir/creatureTypes#_cold-subtype) iron, silver, or adamantine pellets; see descriptions for cost)
+**Components** V, S, M (a handful of metal pellets or handful of [cold](../../monsters_dir/creatureTypes#_cold-subtype) iron, silver, or adamantine pellets; see descriptions for cost)
 
 **Range** 30 ft.
 

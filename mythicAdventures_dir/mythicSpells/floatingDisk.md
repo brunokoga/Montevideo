@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/floatingDisk
 ---
 Floating Disk
 
-**Source** [_floating disk_](../spells_dir/floatingDisk#_floating-disk)
+**Source** [_floating disk_](../../spells_dir/floatingDisk#_floating-disk)
 
 The disk created by this spell lasts for 2 hours per caster level and can carry up to 200 pounds of weight per caster level.
 

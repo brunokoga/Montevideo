@@ -18,5 +18,5 @@ title: advanced_dir/spells_dir/versatileWeapon
 
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-You transform the physical makeup of a weapon as you desire. This spell functions like _ [greater magic weapon](../../../spells_dir/magicWeapon#_magic-weapon-greater)_, except that it subtly alters the physical properties of a weapon, enabling it to bypass damage reduction of one the following types: bludgeoning, cold iron, piercing, silver, or slashing. The affected weapon still inflicts damage of its normal type and its hardness and hit points are unchanged. This spell can be cast on a natural weapon or unarmed strike.
+You transform the physical makeup of a weapon as you desire. This spell functions like _ [greater magic weapon](../../../../spells_dir/magicWeapon#_magic-weapon-greater)_, except that it subtly alters the physical properties of a weapon, enabling it to bypass damage reduction of one the following types: bludgeoning, cold iron, piercing, silver, or slashing. The affected weapon still inflicts damage of its normal type and its hardness and hit points are unchanged. This spell can be cast on a natural weapon or unarmed strike.
 

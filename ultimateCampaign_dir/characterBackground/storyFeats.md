@@ -104,11 +104,11 @@ The lives you could not save stay with you to your final breath.
 
 **Prerequisite** : You must have witnessed the death of a close companion in battle—a death that could have been prevented, such as from bleeding, failure to stabilize, or ongoing poison damage—or have the Death in the Family or The War background.
 
-**B**** enefit**: You gain a +2 bonus on [Heal](../skills_dir/heal#_heal) checks. If you have 10 or more ranks in [Heal](../skills_dir/heal#_heal), this bonus increases to +4. You can apply first aid as a move action and don't take a penalty when treating deadly wounds without a healing kit.
+**B**** enefit**: You gain a +2 bonus on [Heal](../../skills_dir/heal#_heal) checks. If you have 10 or more ranks in [Heal](../../skills_dir/heal#_heal), this bonus increases to +4. You can apply first aid as a move action and don't take a penalty when treating deadly wounds without a healing kit.
 
-**Goal** : Bring an ally back from the dead, including by using _ [breath of life](../spells_dir/breathOfLife#_breath-of-life)_ or _ [reincarnate](../spells_dir/reincarnate#_reincarnate)_.
+**Goal** : Bring an ally back from the dead, including by using _ [breath of life](../../spells_dir/breathOfLife#_breath-of-life)_ or _ [reincarnate](../../spells_dir/reincarnate#_reincarnate)_.
 
-**Completion Benefit** : You and each ally within 10 feet of you gain a +2 bonus on saves against death effects. In addition, once per day you can spontaneously convert any 5th-level or higher conjuration (healing) spell into _ [breath of life](../spells_dir/breathOfLife#_breath-of-life)_.
+**Completion Benefit** : You and each ally within 10 feet of you gain a +2 bonus on saves against death effects. In addition, once per day you can spontaneously convert any 5th-level or higher conjuration (healing) spell into _ [breath of life](../../spells_dir/breathOfLife#_breath-of-life)_.
 
 Eldritch Researcher (Story)
 
@@ -116,13 +116,13 @@ You seek new applications for magical energy.
 
 **Prerequisite** : You must have created a new spell, or have The Way Things Work background.
 
-**Benefit** : When casting a spell you've created, add 1 to your caster level. In addition, you gain a +2 bonus on [Spellcraft](../skills_dir/spellcraft#_spellcraft) checks. If you have 10 or more ranks in [Spellcraft](../skills_dir/spellcraft#_spellcraft), this bonus increases to +4.
+**Benefit** : When casting a spell you've created, add 1 to your caster level. In addition, you gain a +2 bonus on [Spellcraft](../../skills_dir/spellcraft#_spellcraft) checks. If you have 10 or more ranks in [Spellcraft](../../skills_dir/spellcraft#_spellcraft), this bonus increases to +4.
 
 **Goal** : Create a new spell of at least 6th level.
 
 **Completion Benefit** : The save DCs for any spells you create increase by 1 when you cast them. In addition, when applying metamagic feats to self-created spells, reduce the total level adjustment by 1. You can't reduce metamagic costs to lower than the spell's original level in this manner.
 
-**Special** : For a self-created spell to benefit from this feat, it must be a truly novel spell. Spells slightly altered from the original (for example, _ [delayed blast fireball](../spells_dir/delayedBlastFireball#_delayed-blast-fireball)_ as compared to _ [fireball](../spells_dir/fireball#_fireball)_) gain no benefit. Alchemists can benefit from this feat as though their formulae and extracts were spells.
+**Special** : For a self-created spell to benefit from this feat, it must be a truly novel spell. Spells slightly altered from the original (for example, _ [delayed blast fireball](../../spells_dir/delayedBlastFireball#_delayed-blast-fireball)_ as compared to _ [fireball](../../spells_dir/fireball#_fireball)_) gain no benefit. Alchemists can benefit from this feat as though their formulae and extracts were spells.
 
 Fearless Zeal (Story)
 
@@ -142,7 +142,7 @@ In your chest beasts the heart of a wild beast.
 
 **Prerequisite** : You must have reverted to savage behavior through a traumatic event or extended period in the wilderness, or have the Raised by Beasts background.
 
-**Benefit** : Whenever you receive a morale bonus on Strength or attack rolls (such as from _ [heroism](../spells_dir/heroism#_heroism)_ or the barbarian rage class feature), you receive a +2 bonus on Dexterity- and Strength-based ability and skill checks and a +1 bonus on Reflex saves until the morale bonus effect ends.
+**Benefit** : Whenever you receive a morale bonus on Strength or attack rolls (such as from _ [heroism](../../spells_dir/heroism#_heroism)_ or the barbarian rage class feature), you receive a +2 bonus on Dexterity- and Strength-based ability and skill checks and a +1 bonus on Reflex saves until the morale bonus effect ends.
 
 **Goal** : Woo and then marry or otherwise enter into a committed relationship with a person from a civilized culture. This relationship must be forged in love, not bought or coerced.
 
@@ -158,7 +158,7 @@ Your bitter feud with your enemies can be quenched only with blood.
 
 **Goal** : Slay an appropriate number of challenging foes.
 
-**Completion Benefit** : You gain the benefits of the [Improved Critical](../feats#_improved-critical) feat on attacks made against members of your chosen race. Your dodge bonus to AC against such foes increases to +2.
+**Completion Benefit** : You gain the benefits of the [Improved Critical](../../feats#_improved-critical) feat on attacks made against members of your chosen race. Your dodge bonus to AC against such foes increases to +2.
 
 Forgotten Past (Story)
 
@@ -166,13 +166,13 @@ A pivotal event from your past eludes your memory.
 
 **Prerequisite** : You must have suffered permanent memory loss or have the Reincarnated background.
 
-**Benefit** : The duration of mind-affecting spells (even beneficial ones) is halved for you, to a minimum of 1 round. Your inquisitive nature gives you a +2 bonus on [Perception](../skills_dir/perception#_perception) checks. If you have 10 or more ranks in [Perception](../skills_dir/perception#_perception), this bonus increases to +4.
+**Benefit** : The duration of mind-affecting spells (even beneficial ones) is halved for you, to a minimum of 1 round. Your inquisitive nature gives you a +2 bonus on [Perception](../../skills_dir/perception#_perception) checks. If you have 10 or more ranks in [Perception](../../skills_dir/perception#_perception), this bonus increases to +4.
 
-**Goal** : Regain a major portion of your lost memories. The exact means varies, possibly requiring a _ [wish](../spells_dir/wish#_wish)_, assistance from a divine being, reliving a past life, or confronting the situation that led to your memory loss. This process must involve encountering a challenging foe, though possibly in ways other than direct confrontation.
+**Goal** : Regain a major portion of your lost memories. The exact means varies, possibly requiring a _ [wish](../../spells_dir/wish#_wish)_, assistance from a divine being, reliving a past life, or confronting the situation that led to your memory loss. This process must involve encountering a challenging foe, though possibly in ways other than direct confrontation.
 
 **Completion Benefit** : You roll twice whenever you attempt a saving throw against a mind-affecting effect, keeping the better result.
 
-**Special** : Restoration of memories by means less significant than _ [miracle](../spells_dir/miracle#_miracle)_ or _ [wish](../spells_dir/wish#_wish)_ does not qualify for the prerequisite.
+**Special** : Restoration of memories by means less significant than _ [miracle](../../spells_dir/miracle#_miracle)_ or _ [wish](../../spells_dir/wish#_wish)_ does not qualify for the prerequisite.
 
 Glimpse Beyond (Story)
 
@@ -180,7 +180,7 @@ You have glimpsed the madness at the edges of reality.
 
 **Prerequisite** : You must have faced an undead, evil outsider, or aberration with a CR greater than your level +4, or have the Raised Among the Dead or The Dead One background.
 
-**Benefit** : You gain a +2 bonus on [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) checks to identify the vulnerabilities and powers of aberrations, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) checks to identify the vulnerabilities and powers of evil outsiders, and [Knowledge](../skills_dir/knowledge#_knowledge) (religion) checks to identify the vulnerabilities and powers of undead, and you can make such checks untrained. If you have 10 or more ranks in any of these [Knowledge](../skills_dir/knowledge#_knowledge) skills, the bonus increases to +4 for the appropriate skill. In addition, you gain a +2 bonus on saves against fear effects.
+**Benefit** : You gain a +2 bonus on [Knowledge](../../skills_dir/knowledge#_knowledge) (dungeoneering) checks to identify the vulnerabilities and powers of aberrations, [Knowledge](../../skills_dir/knowledge#_knowledge) (planes) checks to identify the vulnerabilities and powers of evil outsiders, and [Knowledge](../../skills_dir/knowledge#_knowledge) (religion) checks to identify the vulnerabilities and powers of undead, and you can make such checks untrained. If you have 10 or more ranks in any of these [Knowledge](../../skills_dir/knowledge#_knowledge) skills, the bonus increases to +4 for the appropriate skill. In addition, you gain a +2 bonus on saves against fear effects.
 
 **Goal** : Be killed or driven insane (as determined by the GM) by an aberration, evil outsider, or undead. This leaves your mind permanently marked.
 
@@ -192,7 +192,7 @@ With their deaths, the pitiful wretches that inhabit this world open your path t
 
 **Prerequisite** : You must slay at least 50 intelligent noncombatants for either your own personal gain or for no cause at all, or have the Bloodthirsty, First Kill, or The Kill background.
 
-**Benefit** : You gain a +2 bonus on [Intimidate](../skills_dir/intimidate#_intimidate) checks. If you have 10 or more ranks in [Intimidate](../skills_dir/intimidate#_intimidate), this bonus increases to +4. Each time you slay an intelligent creature, you gain a +1 bonus on attack rolls and caster level checks for 1 minute (this bonus does not stack with itself).
+**Benefit** : You gain a +2 bonus on [Intimidate](../../skills_dir/intimidate#_intimidate) checks. If you have 10 or more ranks in [Intimidate](../../skills_dir/intimidate#_intimidate), this bonus increases to +4. Each time you slay an intelligent creature, you gain a +1 bonus on attack rolls and caster level checks for 1 minute (this bonus does not stack with itself).
 
 **Goal** : Slay at least 200 more intelligent noncombatants, then slay a challenging foe that seeks to either bring you to justice for your crimes or usurp your position.
 
@@ -228,21 +228,21 @@ Magnum Opus (Story)
 
 You seek to create a true masterpiece.
 
-**Prerequisite** : You must either have sold five or more self-created works of art worth a total of at least 5,000 gp, have performed at least five performances for audiences of 50 or more while achieving a great performance result or better on your [Perform](../skills_dir/perform#_perform) check, or have the Virtuoso background.
+**Prerequisite** : You must either have sold five or more self-created works of art worth a total of at least 5,000 gp, have performed at least five performances for audiences of 50 or more while achieving a great performance result or better on your [Perform](../../skills_dir/perform#_perform) check, or have the Virtuoso background.
 
-**Benefit** : Choose a single [Craft](../skills_dir/craft#_craft) or [Perform](../skills_dir/perform#_perform) skill. Whenever you take 10 with this skill, treat your die result as a 15 instead.
+**Benefit** : Choose a single [Craft](../../skills_dir/craft#_craft) or [Perform](../../skills_dir/perform#_perform) skill. Whenever you take 10 with this skill, treat your die result as a 15 instead.
 
 **Goal** : Either sell a single self-created work of art for at least 25,000 gp, perform at least 10 performances for audiences of 100 or more while achieving an extraordinary result or better, or win the artistic patronage of the ruler of a country or city of at least 100,000 people. In each case, you must achieve this using the skill chosen above.
 
-**Completion Benefit** : You gain a +5 bonus on skill checks made with your chosen skill, and a +2 bonus on all other [Craft](../skills_dir/craft#_craft) and [Perform](../skills_dir/perform#_perform) checks for which you have at least 1 rank.
+**Completion Benefit** : You gain a +5 bonus on skill checks made with your chosen skill, and a +2 bonus on all other [Craft](../../skills_dir/craft#_craft) and [Perform](../../skills_dir/perform#_perform) checks for which you have at least 1 rank.
 
 Monument Builder (Story)
 
 Your inspired architecture shall make your name immortal.
 
-**Prerequisites** : [Knowledge](../skills_dir/knowledge#_knowledge) (engineering) 1 rank, and you must have built a structure worth at least 5,000 gp.
+**Prerequisites** : [Knowledge](../../skills_dir/knowledge#_knowledge) (engineering) 1 rank, and you must have built a structure worth at least 5,000 gp.
 
-**Benefit** : When you supervise a construction project or do the construction yourself, reduce your raw material costs by 10%. You gain a +2 bonus on [Knowledge](../skills_dir/knowledge#_knowledge) (engineering) checks. If you have 10 or more ranks in [Knowledge](../skills_dir/knowledge#_knowledge) (engineering), this bonus increases to +4.
+**Benefit** : When you supervise a construction project or do the construction yourself, reduce your raw material costs by 10%. You gain a +2 bonus on [Knowledge](../../skills_dir/knowledge#_knowledge) (engineering) checks. If you have 10 or more ranks in [Knowledge](../../skills_dir/knowledge#_knowledge) (engineering), this bonus increases to +4.
 
 **Goal** : Design and construct a building worth at least 100,000 gp with great personal significance to you. For example, you might construct a new temple for your god on the site where an old temple was destroyed, or an academy for students to unlock the secrets of the universe.
 
@@ -254,7 +254,7 @@ The land calls to you to conquer it and forge a realm all your own.
 
 **Prerequisite** : You must have explored and claimed an area of at least 100 square miles.
 
-**Benefit** : When in either unclaimed wilderness or land under your own control, you receive a +2 bonus on [Perception](../skills_dir/perception#_perception) checks, [Stealth](../skills_dir/stealth#_stealth) checks, and [Survival](../skills_dir/survival#_survival) checks. If you have 10 or more ranks in one of these skills, the bonus on that skill increases to +4.
+**Benefit** : When in either unclaimed wilderness or land under your own control, you receive a +2 bonus on [Perception](../../skills_dir/perception#_perception) checks, [Stealth](../../skills_dir/stealth#_stealth) checks, and [Survival](../../skills_dir/survival#_survival) checks. If you have 10 or more ranks in one of these skills, the bonus on that skill increases to +4.
 
 **Goal** : Explore and conquer an area of at least 1,000 square miles, in the process decisively defeating a challenging foe. You must also lay claim to the land either in your own name or in the name of a leader you directly report to, and establish a stronghold or other fortification to defend it.
 
@@ -314,7 +314,7 @@ Stronghold (Story)
 
 You seek to build a bastion against which your enemies shall break like water against the rocks.
 
-**Prerequisites** : You must have the [Leadership](../feats#_leadership) feat and must lead at least 10 combat-capable followers (such as fighters or rangers).
+**Prerequisites** : You must have the [Leadership](../../feats#_leadership) feat and must lead at least 10 combat-capable followers (such as fighters or rangers).
 
 **Benefit** : You can spend a move action to give battle orders to your troops, granting creatures under your command within 60 feet your choice of a +1 morale bonus on attack rolls, a +1 dodge bonus to AC, or a +1 bonus on a single type of saving throw. All creatures must receive the same benefit. You can't use this benefit on allies not under your command. This is a language-dependent, mind-affecting effect.
 
@@ -328,19 +328,19 @@ More than just a burglar, you aspire to commit crimes of legendary stature.
 
 **Prerequisites** : You must have stolen at least 1,000 gp worth of treasure without being caught and kept mementos of these thefts worth at least 500 gp, or have the Greed background.
 
-**Benefit** : Once per day when you attempt a [Disable Device](../skills_dir/disableDevice#_disable-device) check to open a lock or [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) check to pick a pocket, you can roll twice and take the better result.
+**Benefit** : Once per day when you attempt a [Disable Device](../../skills_dir/disableDevice#_disable-device) check to open a lock or [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand) check to pick a pocket, you can roll twice and take the better result.
 
 **Goal** : Steal a famous and well-guarded treasure worth at least 50,000 gp while leaving no evidence of your involvement behind. The treasure must be protected by a mix of at least 8 traps or challenging foes. Any guardians need not be defeated, merely bypassed. You don't need to keep the treasure, and you can boast of the theft afterward.
 
-**Completion Benefit** : You gain the ability to reactively disarm a trap. When you trigger a trap, you can attempt a [Disable Device](../skills_dir/disableDevice#_disable-device) check with a —5 penalty to interrupt the trap's function, leaving it still armed but effectively preventing it from activating. You can use this ability a number of times per day equal to 3 + your Intelligence modifier. Since the trap is still armed, it might activate again if you don't immediately back away or otherwise avoid repeating the act that set it off the first time.
+**Completion Benefit** : You gain the ability to reactively disarm a trap. When you trigger a trap, you can attempt a [Disable Device](../../skills_dir/disableDevice#_disable-device) check with a —5 penalty to interrupt the trap's function, leaving it still armed but effectively preventing it from activating. You can use this ability a number of times per day equal to 3 + your Intelligence modifier. Since the trap is still armed, it might activate again if you don't immediately back away or otherwise avoid repeating the act that set it off the first time.
 
 Town Tamer (Story)
 
 This town needs cleaning up, and you're just the one to do it.
 
-**Prerequisites** : You must have 5 ranks in [Intimidate](../skills_dir/intimidate#_intimidate) and a personal motivation to clean up a particular town (such as an old friend calling in a favor, or seeking a place to settle down), or you must have the Bounty Hunter or Champion of the People background.
+**Prerequisites** : You must have 5 ranks in [Intimidate](../../skills_dir/intimidate#_intimidate) and a personal motivation to clean up a particular town (such as an old friend calling in a favor, or seeking a place to settle down), or you must have the Bounty Hunter or Champion of the People background.
 
-**Benefit** : Choose a particular settlement. When you're in your chosen settlement, the DC of [Intimidate](../skills_dir/intimidate#_intimidate) checks made against you increases by 10. You gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against undesirable elements like criminals or ruffians in your chosen settlement. This bonus increases to +2 for combat maneuver checks.
+**Benefit** : Choose a particular settlement. When you're in your chosen settlement, the DC of [Intimidate](../../skills_dir/intimidate#_intimidate) checks made against you increases by 10. You gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against undesirable elements like criminals or ruffians in your chosen settlement. This bonus increases to +2 for combat maneuver checks.
 
 **Goal** : Defeat 10 more troublemakers in your chosen settlement with a CR equal to your character level or higher, and in the process eliminate a serious criminal threat or otherwise clean up the streets.
 
@@ -352,7 +352,7 @@ You found love, only to have it denied by the cruelty of fate.
 
 **Prerequisite** : You must have found love with a person you can't be with, have a current lover, or have the Current Lover, For Love, or The Lover background. Possible complications include distance, your love being with another, your feelings being unrequited, or your relationship being forbidden.
 
-**Benefit** : You add 1 to the save DC and caster level of your spells and spell-like abilities with the emotion descriptor. In addition, you gain a +2 bonus on [Sense Motive](../skills_dir/senseMotive#_sense-motive) checks. If you have 10 or more ranks in [Sense Motive](../skills_dir/senseMotive#_sense-motive), this bonus increases to +4.
+**Benefit** : You add 1 to the save DC and caster level of your spells and spell-like abilities with the emotion descriptor. In addition, you gain a +2 bonus on [Sense Motive](../../skills_dir/senseMotive#_sense-motive) checks. If you have 10 or more ranks in [Sense Motive](../../skills_dir/senseMotive#_sense-motive), this bonus increases to +4.
 
 **Goal** : Find a way to be with your true love (even if you can't formally wed).
 

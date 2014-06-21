@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/disfiguringTouch
 ---
 Disfiguring Touch
 
-**Source** [_disfiguring touch_](../ultimateMagic_dir/spells_dir/disfiguringTouch#_disfiguring-touch-)
+**Source** [_disfiguring touch_](../../ultimateMagic_dir/spells_dir/disfiguringTouch#_disfiguring-touch-)
 
 The target takes two different penalties (chosen from the same list) instead of one.
 

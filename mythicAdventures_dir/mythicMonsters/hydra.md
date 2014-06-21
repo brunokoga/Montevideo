@@ -10,9 +10,9 @@ Mythic Hydra CR 9_dir/MR 3
 
 XP 6,400
 
-N Huge magical beast ( [mythic](../mythicAdventures_dir/mythicMonsters#_mythic-subtype))
+N Huge magical beast ( [mythic](../../mythicAdventures_dir/mythicMonsters#_mythic-subtype))
 
-**Init** +1_dir/–19, dual initiative; **Senses** darkvision 60 ft., [low-light vision](../monsters_dir/universalMonsterRules#_low-light-vision), [scent](../monsters_dir/universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +12
+**Init** +1_dir/–19, dual initiative; **Senses** darkvision 60 ft., [low-light vision](../../monsters_dir/universalMonsterRules#_low-light-vision), [scent](../../monsters_dir/universalMonsterRules#_scent); [Perception](../../skills_dir/perception#_perception) +12
 
 Defense
 
@@ -32,7 +32,7 @@ Offense
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [bleed](../monsters_dir/universalMonsterRules#_bleed) (1), mythic power (3_dir/day, surge +1d6), [pounce](../monsters_dir/universalMonsterRules#_pounce), push (bite, 10 ft.)
+**Special Attacks** [bleed](../../monsters_dir/universalMonsterRules#_bleed) (1), mythic power (3_dir/day, surge +1d6), [pounce](../../monsters_dir/universalMonsterRules#_pounce), push (bite, 10 ft.)
 
 Statistics
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +7; **CMB** +12; **CMD** 23 (can't be tripped)
 
-**Feats** [Combat Reflexes](../mythicAdventures_dir/mythicFeats#_combat-reflexes-mythic)M, [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Toughness](../mythicAdventures_dir/mythicFeats#_toughness-mythic)M
+**Feats** [Combat Reflexes](../../mythicAdventures_dir/mythicFeats#_combat-reflexes-mythic)M, [Iron Will](../../feats#_iron-will), [Lightning Reflexes](../../feats#_lightning-reflexes), [Toughness](../../mythicAdventures_dir/mythicFeats#_toughness-mythic)M
 
-**Skills** [Perception](../skills_dir/perception#_perception) +12, [Swim](../skills_dir/swim#_swim) +11; **Racial Modifiers** +2 [Perception](../skills_dir/perception#_perception)
+**Skills** [Perception](../../skills_dir/perception#_perception) +12, [Swim](../../skills_dir/swim#_swim) +11; **Racial Modifiers** +2 [Perception](../../skills_dir/perception#_perception)
 
 **SQ** hydra traits, regenerate head
 

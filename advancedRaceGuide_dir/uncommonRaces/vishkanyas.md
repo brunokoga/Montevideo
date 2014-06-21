@@ -18,9 +18,9 @@ Vishkanyas are a race of exotic humanoids with poisonous blood. Possessed of an 
 
 **Low-Light Vision** : Vishkanyas can see twice as far as humans in conditions of dim light.
 
-**Keen Senses** : Vishkanyas receive a +2 racial bonus on [Perception](../skills_dir/perception#_perception) checks.
+**Keen Senses** : Vishkanyas receive a +2 racial bonus on [Perception](../../skills_dir/perception#_perception) checks.
 
-**Limber** : Vishkanyas receive a +2 racial bonus on [Escape Artist](../skills_dir/escapeArtist#_escape-artist) and [Stealth](../skills_dir/stealth#_stealth) checks.
+**Limber** : Vishkanyas receive a +2 racial bonus on [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) and [Stealth](../../skills_dir/stealth#_stealth) checks.
 
 **Poison Resistance** : A vishkanya has a racial bonus on saving throws against poison equal to its Hit Dice.
 
@@ -39,9 +39,9 @@ and Undercommon.
 
 The following racial traits may be selected instead of existing vishkanya racial traits. Consult your GM before selecting any of these new options.
 
-**Sensual** : You are trained in drawing attention to yourself. You gain a +2 bonus on any one [Perform](../skills_dir/perform#_perform) skill. This racial trait replaces keen senses.
+**Sensual** : You are trained in drawing attention to yourself. You gain a +2 bonus on any one [Perform](../../skills_dir/perform#_perform) skill. This racial trait replaces keen senses.
 
-**Subtle Appearance** : You have normal (humanlike) eyes, and your beauty is more conventional. You gain a +4 bonus on [Disguise](../skills_dir/disguise#_disguise) checks to look fully human. This racial trait replaces low-light vision.
+**Subtle Appearance** : You have normal (humanlike) eyes, and your beauty is more conventional. You gain a +4 bonus on [Disguise](../../skills_dir/disguise#_disguise) checks to look fully human. This racial trait replaces low-light vision.
 
 # Favored Class Options
 
@@ -61,7 +61,7 @@ The following racial archetype is available to vishkanyas.
 
 Skilled at manipulation and diversion, the deadly courtesan builds up those around her and periodically takes them down. She can be a spy, entertainer, assassin, bodyguard, or just an intimate to someone who needs it most. A deadly courtesan has the following class features.
 
-**Class Skills** : At 1st level, a deadly courtesan adds [Knowledge](../skills_dir/knowledge#_knowledge) (history) and [Knowledge](../skills_dir/knowledge#_knowledge) (nobility) to her list of class skills and removes [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) from her list of class skills.
+**Class Skills** : At 1st level, a deadly courtesan adds [Knowledge](../../skills_dir/knowledge#_knowledge) (history) and [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) to her list of class skills and removes [Knowledge](../../skills_dir/knowledge#_knowledge) (dungeoneering) from her list of class skills.
 
 **Bardic Performance (Su)** : At 2nd level, a deadly courtesan gains the bardic performance ability and the fascinate bardic performance. Her fascinate DC is 10 + 1_dir/2 her rogue level + her Charisma modifier. She can use this bardic performance for a number of rounds per day equal to 1 + her Charisma modifier. At each level after 2nd, she can use bardic performance for 1 additional round per day. If the courtesan also has bard levels, she may use these rounds for either class's fascinate bardic performance, and her bard and rogue levels stack for determining her fascinate DC. This ability replaces the rogue trick gained at 2nd level.
 
@@ -114,11 +114,11 @@ Corset of the Vishkanya
 
 Description
 
-This black corset fits neatly beneath armor. As a free action, the wearer can compress herself to fit through tight spaces as though affected by a _squeeze_ spell for up to 10 rounds per day. While using the corset's magic, she gains a +5 bonus on [Escape Artist](../skills_dir/escapeArtist#_escape-artist) checks.
+This black corset fits neatly beneath armor. As a free action, the wearer can compress herself to fit through tight spaces as though affected by a _squeeze_ spell for up to 10 rounds per day. While using the corset's magic, she gains a +5 bonus on [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) checks.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [grease](../spells_dir/grease#_grease)_, _squeeze_ (see below); **Cost** 1,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [grease](../../spells_dir/grease#_grease)_, _squeeze_ (see below); **Cost** 1,500 gp
 
 ## Vishkanya Spells
 

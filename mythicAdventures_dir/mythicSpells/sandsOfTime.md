@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/sandsOfTime
 ---
 Sands of Time
 
-**Source** [_sands of time_](../ultimateMagic_dir/spells_dir/sandsOfTime#_sands-of-time)
+**Source** [_sands of time_](../../ultimateMagic_dir/spells_dir/sandsOfTime#_sands-of-time)
 
 You age the target by two categories instead of one. The damage dealt to objects, constructs, and undead increases to 5d6 points of damage + 1 point per caster level (maximum +20).
 

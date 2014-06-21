@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/battleTrance
 ---
 Battle Trance
 
-**Source** [_battle trance_](../advancedRaceGuide_dir/coreRaces_dir/halfOrcs#_battle-trance)
+**Source** [_battle trance_](../../advancedRaceGuide_dir/coreRaces_dir/halfOrcs#_battle-trance)
 
 The number of temporary hit points you gain increases to 2d6 + your caster level (maximum +10) + your tier. The morale bonus on saving throws against mind-affecting effects increases to +6.
 

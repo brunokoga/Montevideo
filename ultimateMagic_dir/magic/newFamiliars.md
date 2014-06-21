@@ -4,27 +4,27 @@ title: ultimateMagic_dir/magic_dir/newFamiliars
 ---
 # New Familiars
 
-The following are statistics for several new animals that can serve as familiars, in addition to a number of familiars [for the Witch Class](../advanced_dir/baseClasses_dir/witch#_witch's-familiar). These familiars can be taken by anyone gaining a familiar, and utilize all the standard rules for familiars [for Wizard familiars](../classes_dir/wizard#_familiars). Tiny or smaller familiars in this section use Dexterity to modify [Climb](../skills_dir/climb#_climb) and [Swim](../skills_dir/swim#_swim) skill checks.
+The following are statistics for several new animals that can serve as familiars, in addition to a number of familiars [for the Witch Class](../../advanced_dir/baseClasses_dir/witch#_witch's-familiar). These familiars can be taken by anyone gaining a familiar, and utilize all the standard rules for familiars [for Wizard familiars](../../classes_dir/wizard#_familiars). Tiny or smaller familiars in this section use Dexterity to modify [Climb](../../skills_dir/climb#_climb) and [Swim](../../skills_dir/swim#_swim) skill checks.
 
 ## Small and Vermin Familiars
 
-Small-sized familiars threaten the areas around them like Small creatures, and can be used to flank enemies, though both familiars and their masters are often loath to use such tactics, as the result is often a dead familiar. Small-sized familiars are also harder to keep on a master's person than Tiny or smaller familiars. Often they require some form of magic item, like a _ [bag of holding](../magicItems_dir/wondrousItems#_bag-of-holding)_, for such a feat to work. The process of making a vermin into a familiar grants it an Intelligence score and removes the mindless trait. Vermin familiars communicate with their masters and other vermin of their kind (greensting scorpions with other scorpions, house centipedes with other centipedes, and scarlet spiders with other spiders) by way of a strange combination of behaviors, slight changes in coloration, and even the excretion of scents, subtle and otherwise. As with other types of familiars, other creatures cannot understand this communication without magical aid.
+Small-sized familiars threaten the areas around them like Small creatures, and can be used to flank enemies, though both familiars and their masters are often loath to use such tactics, as the result is often a dead familiar. Small-sized familiars are also harder to keep on a master's person than Tiny or smaller familiars. Often they require some form of magic item, like a _ [bag of holding](../../magicItems_dir/wondrousItems#_bag-of-holding)_, for such a feat to work. The process of making a vermin into a familiar grants it an Intelligence score and removes the mindless trait. Vermin familiars communicate with their masters and other vermin of their kind (greensting scorpions with other scorpions, house centipedes with other centipedes, and scarlet spiders with other spiders) by way of a strange combination of behaviors, slight changes in coloration, and even the excretion of scents, subtle and otherwise. As with other types of familiars, other creatures cannot understand this communication without magical aid.
 
 [Table: Familiars]
 | Familiar | Special Ability |
 | --- | --- |
-| Blue-ringed octopus | Master gains a +3 bonus on [Swim](../skills_dir/swim#_swim) checks |
-| Donkey rat | Master gains a +2 bonus on [Fortitude](../combat#_fortitude) saves |
-| Fox | Master gains a +2 bonus on [Reflex](../combat#_reflex) saves |
-| Goat | Master gains a +3 bonus on [Survival](../skills_dir/survival#_survival) checks |
-| Greensting scorpion | Master gains a +4 bonus on [Initiative](../combat#_initiative) checks |
-| Hedgehog | Master gains a +2 bonus on [Will](../combat#_will) saves |
-| House centipede | Master gains a +3 bonus on [Stealth](../skills_dir/stealth#_stealth) checks |
-| King Crab | Master gains a +2 bonus on [CMB](../gettingStarted#_cmb) checks to start and maintain a grapple |
-| Pig | Master gains a +3 bonus on [Diplomacy](../skills_dir/diplomacy#_diplomacy) checks |
-| Scarlet | spiderMaster gains a +3 bonus on [Climb](../skills_dir/climb#_climb) checks |
-| Thrush\* | Master gains a +3 bonus on [Diplomacy](../skills_dir/diplomacy#_diplomacy) checks |
-| Turtle | Master gains a +1 natural armor bonus to [AC](../combat#_armor-class) |
+| Blue-ringed octopus | Master gains a +3 bonus on [Swim](../../skills_dir/swim#_swim) checks |
+| Donkey rat | Master gains a +2 bonus on [Fortitude](../../combat#_fortitude) saves |
+| Fox | Master gains a +2 bonus on [Reflex](../../combat#_reflex) saves |
+| Goat | Master gains a +3 bonus on [Survival](../../skills_dir/survival#_survival) checks |
+| Greensting scorpion | Master gains a +4 bonus on [Initiative](../../combat#_initiative) checks |
+| Hedgehog | Master gains a +2 bonus on [Will](../../combat#_will) saves |
+| House centipede | Master gains a +3 bonus on [Stealth](../../skills_dir/stealth#_stealth) checks |
+| King Crab | Master gains a +2 bonus on [CMB](../../gettingStarted#_cmb) checks to start and maintain a grapple |
+| Pig | Master gains a +3 bonus on [Diplomacy](../../skills_dir/diplomacy#_diplomacy) checks |
+| Scarlet | spiderMaster gains a +3 bonus on [Climb](../../skills_dir/climb#_climb) checks |
+| Thrush\* | Master gains a +3 bonus on [Diplomacy](../../skills_dir/diplomacy#_diplomacy) checks |
+| Turtle | Master gains a +1 natural armor bonus to [AC](../../combat#_armor-class) |
 
 Blue-Ringed OctopusCR 1_dir/2
 
@@ -32,7 +32,7 @@ XP 200
 
 N Tiny animal (aquatic)
 
-**Init** +5; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +1
+**Init** +5; **Senses** low-light vision; [Perception](../../skills_dir/perception#_perception) +1
 
 Defense
 
@@ -58,9 +58,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +3 (+7 grapple); **CMD** 12 (can_'_t be tripped)
 
-**Feats** [Multiattack](../monsters_dir/monsterFeats#_multiattack)B, [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Multiattack](../../monsters_dir/monsterFeats#_multiattack)B, [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +15, [Stealth](../skills_dir/stealth#_stealth) +25, [Swim](../skills_dir/swim#_swim) +13; **Racial Modifiers** +10 [Escape Artist](../skills_dir/escapeArtist#_escape-artist), +8 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +15, [Stealth](../../skills_dir/stealth#_stealth) +25, [Swim](../../skills_dir/swim#_swim) +13; **Racial Modifiers** +10 [Escape Artist](../../skills_dir/escapeArtist#_escape-artist), +8 [Stealth](../../skills_dir/stealth#_stealth)
 
 **Special Attacks** poison
 
@@ -88,7 +88,7 @@ XP 100
 
 N Small animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](../skills_dir/perception#_perception) +4
+**Init** +3; **Senses** low-light vision, scent; [Perception](../../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -110,9 +110,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +1; **CMD** 9 (13 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception))
 
-**Skills** [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +15, [Swim](../skills_dir/swim#_swim) +11
+**Skills** [Perception](../../skills_dir/perception#_perception) +4, [Stealth](../../skills_dir/stealth#_stealth) +15, [Swim](../../skills_dir/swim#_swim) +11
 
 Ecology
 
@@ -130,7 +130,7 @@ XP 100
 
 N Tiny animal
 
-**Init** +2; **Senses** low-light vision, scent; [Perception](../skills_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, scent; [Perception](../../skills_dir/perception#_perception) +8
 
 Defense
 
@@ -154,9 +154,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 9 (13 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception))
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +2 (+10 jumping), [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +10, [Survival](../skills_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Acrobatics](../skills_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](../skills_dir/survival#_survival) when tracking by scent
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +2 (+10 jumping), [Perception](../../skills_dir/perception#_perception) +8, [Stealth](../../skills_dir/stealth#_stealth) +10, [Survival](../../skills_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Acrobatics](../../skills_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](../../skills_dir/survival#_survival) when tracking by scent
 
 Ecology
 
@@ -174,7 +174,7 @@ XP 135
 
 N Small animal
 
-**Init** +1; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +0
+**Init** +1; **Senses** low-light vision; [Perception](../../skills_dir/perception#_perception) +0
 
 Defense
 
@@ -196,10 +196,10 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 11 (15 vs. trip)
 
-**Feats** [Nimble Moves](../feats#_nimble-moves)
+**Feats** [Nimble Moves](../../feats#_nimble-moves)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +1 (+5 when jumping), [Climb](../skills_dir/climb#_climb) +5, [Survival](../skills_dir/survival#_survival) +0   
-(+4 to find food); **Racial Modifiers** +4 [Acrobatics](../skills_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](../skills_dir/survival#_survival) to find food
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +1 (+5 when jumping), [Climb](../../skills_dir/climb#_climb) +5, [Survival](../../skills_dir/survival#_survival) +0   
+(+4 to find food); **Racial Modifiers** +4 [Acrobatics](../../skills_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](../../skills_dir/survival#_survival) to find food
 
 Ecology
 
@@ -217,7 +217,7 @@ XP 100
 
 N Tiny vermin
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +4
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -245,9 +245,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +1; **CMD** 7 (19 vs. trip)
 
-**Feats** [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Climb](../skills_dir/climb#_climb) +7, [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +15; **Racial Modifiers** +4 [Climb](../skills_dir/climb#_climb), +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Climb](../../skills_dir/climb#_climb) +7, [Perception](../../skills_dir/perception#_perception) +4, [Stealth](../../skills_dir/stealth#_stealth) +15; **Racial Modifiers** +4 [Climb](../../skills_dir/climb#_climb), +4 [Perception](../../skills_dir/perception#_perception), +4 [Stealth](../../skills_dir/stealth#_stealth)
 
 Ecology
 
@@ -269,7 +269,7 @@ XP 50
 
 N Diminutive animal
 
-**Init** +3; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +1
+**Init** +3; **Senses** low-light vision; [Perception](../../skills_dir/perception#_perception) +1
 
 Defense
 
@@ -291,9 +291,9 @@ Statistics
 
 **Base Atk** +0; **CMB** –1; **CMD** 4 (8 vs. trip)
 
-**Feats** [Athletic](../feats#_athletic)
+**Feats** [Athletic](../../feats#_athletic)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +5, [Stealth](../skills_dir/stealth#_stealth) +19, [Swim](../skills_dir/swim#_swim) +5
+**Skills** [Climb](../../skills_dir/climb#_climb) +5, [Stealth](../../skills_dir/stealth#_stealth) +19, [Swim](../../skills_dir/swim#_swim) +5
 
 Ecology
 
@@ -315,7 +315,7 @@ XP 50
 
 N Tiny vermin
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +4
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -343,9 +343,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +1; **CMD** 6 (can't be tripped)
 
-**Feats** [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Climb](../skills_dir/climb#_climb) +11, [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +19; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +8 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Climb](../../skills_dir/climb#_climb) +11, [Perception](../../skills_dir/perception#_perception) +4, [Stealth](../../skills_dir/stealth#_stealth) +19; **Racial Modifiers** +4 [Perception](../../skills_dir/perception#_perception), +8 [Stealth](../../skills_dir/stealth#_stealth)
 
 Ecology
 
@@ -367,7 +367,7 @@ XP 100
 
 N Tiny vermin (aquatic)
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +4
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -395,7 +395,7 @@ Statistics
 
 **Base Atk** +0; **CMB** +0 (+4 grapple); **CMD** 8 (20 vs. trip)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +4, [Swim](../skills_dir/swim#_swim) +10; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception)
+**Skills** [Perception](../../skills_dir/perception#_perception) +4, [Swim](../../skills_dir/swim#_swim) +10; **Racial Modifiers** +4 [Perception](../../skills_dir/perception#_perception)
 
 **SQ** water dependency
 
@@ -419,7 +419,7 @@ XP 100
 
 N Small animal
 
-**Init** +1; **Senses** low-light vision, scent; [Perception](../skills_dir/perception#_perception) +5
+**Init** +1; **Senses** low-light vision, scent; [Perception](../../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -441,9 +441,9 @@ Statistics
 
 **Base Atk** +0; **CMB** –1; **CMD** 10 (14 vs. trip)
 
-**Feats** [Great Fortitude](../feats#_great-fortitude)
+**Feats** [Great Fortitude](../../feats#_great-fortitude)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +5
+**Skills** [Perception](../../skills_dir/perception#_perception) +5
 
 Ecology
 
@@ -461,7 +461,7 @@ XP 100
 
 N Tiny vermin
 
-**Init** +5; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +4
+**Init** +5; **Senses** darkvision 60 ft.; [Perception](../../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -489,9 +489,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +3; **CMD** 9 (21 vs. trip)
 
-**Feats** [Weapon Finesse](../feats#_weapon-finesse)B
+**Feats** [Weapon Finesse](../../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +13, [Climb](../skills_dir/climb#_climb) +21, [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +17; **Racial Modifiers** +8 [Acrobatics](../skills_dir/acrobatics#_acrobatics), +8 [Climb](../skills_dir/climb#_climb), +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +13, [Climb](../../skills_dir/climb#_climb) +21, [Perception](../../skills_dir/perception#_perception) +4, [Stealth](../../skills_dir/stealth#_stealth) +17; **Racial Modifiers** +8 [Acrobatics](../../skills_dir/acrobatics#_acrobatics), +8 [Climb](../../skills_dir/climb#_climb), +4 [Perception](../../skills_dir/perception#_perception), +4 [Stealth](../../skills_dir/stealth#_stealth)
 
 Ecology
 
@@ -513,7 +513,7 @@ XP 135
 
 N Diminutive animal
 
-**Init** +2; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +5
+**Init** +2; **Senses** low-light vision; [Perception](../../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -537,9 +537,9 @@ Statistics
 
 **Base Atk** +0; **CMB** –2; **CMD** 3
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception))
 
-**Skills** [Fly](../skills_dir/fly#_fly) +12, [Perception](../skills_dir/perception#_perception) +5
+**Skills** [Fly](../../skills_dir/fly#_fly) +12, [Perception](../../skills_dir/perception#_perception) +5
 
 Ecology
 
@@ -557,7 +557,7 @@ XP 65
 
 N Tiny animal
 
-**Init** –2; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +4
+**Init** –2; **Senses** low-light vision; [Perception](../../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -581,9 +581,9 @@ Statistics
 
 **Base Atk** +0; **CMB** –4; **CMD** 2 (6 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception))
 
-**Skills** [Perception](../skills_dir/perception#_perception) +4, [Swim](../skills_dir/swim#_swim) +10
+**Skills** [Perception](../../skills_dir/perception#_perception) +4, [Swim](../../skills_dir/swim#_swim) +10
 
 Ecology
 

@@ -14,7 +14,7 @@ Human barbarian 3_dir/fighter 3
 
 N Medium humanoid
 
-**Init** +3; **Senses** [Perception](../../../skills_dir/perception#_perception) +10
+**Init** +3; **Senses** [Perception](../../../../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -30,7 +30,7 @@ N Medium humanoid
 
 **Speed** 40 ft.
 
-**Melee** mwk trident +13_dir/+8 (1d8+5) or mwk trident +11_dir/+6 (1d8+5) and _+1 [light](../../../spells_dir/light#_light) steel [shield](../../../spells_dir/shield#_shield) _with mwk shield spikes +10 (1d6+5)
+**Melee** mwk trident +13_dir/+8 (1d8+5) or mwk trident +11_dir/+6 (1d8+5) and _+1 [light](../../../../spells_dir/light#_light) steel [shield](../../../../spells_dir/shield#_shield) _with mwk shield spikes +10 (1d6+5)
 
 **Ranged** mwk trident +11 (1d8+5) or javelin +9 (1d6+5)
 
@@ -38,7 +38,7 @@ N Medium humanoid
 
 **Tactics**
 
-**Base Statistics** When not raging, the gladiator has **AC** 23, touch 14, flat-footed 19 (+7 armor, +3 Dex, +1 dodge, +2 shield); **hp** 45; **Fort** +7, **Will** +3; **Melee** mwk trident +11_dir/+6 (1d8+3) or mwk trident +9_dir/+4 (1d8+3) and _+1 [light](../../../spells_dir/light#_light) steel [shield](../../../spells_dir/shield#_shield) _with mwk shield spikes +8 (1d6+3); **Ranged** mwk trident +11 (1d8+3) or javelin +9 (1d6+3); **Str** 16, **Con** 13; **CMB** +9; **CMD** 23; **Skills** [Climb](../../../skills_dir/climb#_climb) +6, [Swim](../../../skills_dir/swim#_swim) +6
+**Base Statistics** When not raging, the gladiator has **AC** 23, touch 14, flat-footed 19 (+7 armor, +3 Dex, +1 dodge, +2 shield); **hp** 45; **Fort** +7, **Will** +3; **Melee** mwk trident +11_dir/+6 (1d8+3) or mwk trident +9_dir/+4 (1d8+3) and _+1 [light](../../../../spells_dir/light#_light) steel [shield](../../../../spells_dir/shield#_shield) _with mwk shield spikes +8 (1d6+3); **Ranged** mwk trident +11 (1d8+3) or javelin +9 (1d6+3); **Str** 16, **Con** 13; **CMB** +9; **CMD** 23; **Skills** [Climb](../../../../skills_dir/climb#_climb) +6, [Swim](../../../../skills_dir/swim#_swim) +6
 
 **Statistics**
 
@@ -46,19 +46,19 @@ N Medium humanoid
 
 **Base Atk** +6; **CMB** +11; **CMD** 25
 
-**Feats** [Dodge](../../../feats#_dodge), [Double Slice](../../../feats#_double-slice), [Improved Shield Bash](../../../feats#_improved-shield-bash), [Shield Focus](../../../feats#_shield-focus), [Two-Weapon Fighting](../../../feats#_two-weapon-fighting), [Weapon Focus](../../../feats#_weapon-focus) (trident)
+**Feats** [Dodge](../../../../feats#_dodge), [Double Slice](../../../../feats#_double-slice), [Improved Shield Bash](../../../../feats#_improved-shield-bash), [Shield Focus](../../../../feats#_shield-focus), [Two-Weapon Fighting](../../../../feats#_two-weapon-fighting), [Weapon Focus](../../../../feats#_weapon-focus) (trident)
 
-**Skills** [Acrobatics](../../../skills_dir/acrobatics#_acrobatics) +10 (+14 jump), [Climb](../../../skills_dir/climb#_climb) +8, [Intimidate](../../../skills_dir/intimidate#_intimidate) +5, [Perception](../../../skills_dir/perception#_perception) +10, [Swim](../../../skills_dir/swim#_swim) +8
+**Skills** [Acrobatics](../../../../skills_dir/acrobatics#_acrobatics) +10 (+14 jump), [Climb](../../../../skills_dir/climb#_climb) +8, [Intimidate](../../../../skills_dir/intimidate#_intimidate) +5, [Perception](../../../../skills_dir/perception#_perception) +10, [Swim](../../../../skills_dir/swim#_swim) +8
 
 **Languages** Common
 
 **SQ** armor training 1, fast movement
 
-**Gear** _+1 breastplate_, _+1 [light](../../../spells_dir/light#_light) steel [shield](../../../spells_dir/shield#_shield) _with masterwork shield spikes, javelins (5), masterwork trident, 1 gp
+**Gear** _+1 breastplate_, _+1 [light](../../../../spells_dir/light#_light) steel [shield](../../../../spells_dir/shield#_shield) _with masterwork shield spikes, javelins (5), masterwork trident, 1 gp
 
 **Boon** Gladiators can provide free access to the arena even after hours and can help PCs purchase non-magical exotic weapons at a 10% discount.
 
-Gladiators are as varied in their combat styles as are the nations of their birth, but all seek to trade blood for gold and glory. Many emphasize quickness and defense over brute strength, sizing up their foe before leaping into a blood fury with sword and shield. Gladiators can be used as bodyguards, riot police in a city, or elite military skirmishers. Replacing [Dodge](../../../feats#_dodge) with Exotic Weapon Proficency creates an exotic weapon master. Outside the arena, gladiators are rarely found without a pair of drunkards to help celebrate their latest victory (CR 6).
+Gladiators are as varied in their combat styles as are the nations of their birth, but all seek to trade blood for gold and glory. Many emphasize quickness and defense over brute strength, sizing up their foe before leaping into a blood fury with sword and shield. Gladiators can be used as bodyguards, riot police in a city, or elite military skirmishers. Replacing [Dodge](../../../../feats#_dodge) with Exotic Weapon Proficency creates an exotic weapon master. Outside the arena, gladiators are rarely found without a pair of drunkards to help celebrate their latest victory (CR 6).
 
 **Beast Master CR 6**
 
@@ -68,7 +68,7 @@ Human ranger 7
 
 N Medium humanoid
 
-**Init** +1; **Senses** [Perception](../../../skills_dir/perception#_perception) +11
+**Init** +1; **Senses** [Perception](../../../../skills_dir/perception#_perception) +11
 
 **Defense**
 
@@ -90,7 +90,7 @@ N Medium humanoid
 
 **Ranger Spells Prepared** (CL 4th; concentration +5)
 
-1st—_ [longstrider](../../../spells_dir/longstrider#_longstrider)_, _ [speak with animals](../../../spells_dir/speakWithAnimals#_speak-with-animals)_
+1st—_ [longstrider](../../../../spells_dir/longstrider#_longstrider)_, _ [speak with animals](../../../../spells_dir/speakWithAnimals#_speak-with-animals)_
 
 **Statistics**
 
@@ -98,9 +98,9 @@ N Medium humanoid
 
 **Base Atk** +7; **CMB** +11; **CMD** 22
 
-**Feats** [Diehard](../../../feats#_diehard), [Double Slice](../../../feats#_double-slice), [Endurance](../../../feats#_endurance), [Improved Two-Weapon Fighting](../../../feats#_improved-two-weapon-fighting), [Lunge](../../../feats#_lunge), [Step Up](../../../feats#_step-up), [Two-Weapon Defense](../../../feats#_two-weapon-defense), [Two-Weapon Fighting](../../../feats#_two-weapon-fighting)
+**Feats** [Diehard](../../../../feats#_diehard), [Double Slice](../../../../feats#_double-slice), [Endurance](../../../../feats#_endurance), [Improved Two-Weapon Fighting](../../../../feats#_improved-two-weapon-fighting), [Lunge](../../../../feats#_lunge), [Step Up](../../../../feats#_step-up), [Two-Weapon Defense](../../../../feats#_two-weapon-defense), [Two-Weapon Fighting](../../../../feats#_two-weapon-fighting)
 
-**Skills** [Climb](../../../skills_dir/climb#_climb) +11, [Handle Animal](../../../skills_dir/handleAnimal#_handle-animal) +9, [Heal](../../../skills_dir/heal#_heal) +5, [Knowledge](../../../skills_dir/knowledge#_knowledge) (dungeoneering) +5, [Knowledge](../../../skills_dir/knowledge#_knowledge) (nature) +5, [Perception](../../../skills_dir/perception#_perception) +11, [Ride](../../../skills_dir/ride#_ride) +10, [Stealth](../../../skills_dir/stealth#_stealth) +10, [Survival](../../../skills_dir/survival#_survival) +11 (+14 to follow tracks), [Swim](../../../skills_dir/swim#_swim) +10
+**Skills** [Climb](../../../../skills_dir/climb#_climb) +11, [Handle Animal](../../../../skills_dir/handleAnimal#_handle-animal) +9, [Heal](../../../../skills_dir/heal#_heal) +5, [Knowledge](../../../../skills_dir/knowledge#_knowledge) (dungeoneering) +5, [Knowledge](../../../../skills_dir/knowledge#_knowledge) (nature) +5, [Perception](../../../../skills_dir/perception#_perception) +11, [Ride](../../../../skills_dir/ride#_ride) +10, [Stealth](../../../../skills_dir/stealth#_stealth) +10, [Survival](../../../../skills_dir/survival#_survival) +11 (+14 to follow tracks), [Swim](../../../../skills_dir/swim#_swim) +10
 
 **Languages** Common
 
@@ -124,7 +124,7 @@ Human barbarian 5_dir/fighter 5
 
 CN Medium humanoid
 
-**Init** +2; **Senses** [Perception](../../../skills_dir/perception#_perception) +4
+**Init** +2; **Senses** [Perception](../../../../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -140,7 +140,7 @@ CN Medium humanoid
 
 **Speed** 40 ft.
 
-**Melee** _+1 adamantine [vicious](../../../magicItems_dir/weapons#_vicious) greatsword _+19_dir/+14 (2d6+13_dir/17–20 plus 2d6 vicious) or spiked gauntlet +16_dir/+11 (1d3+6)
+**Melee** _+1 adamantine [vicious](../../../../magicItems_dir/weapons#_vicious) greatsword _+19_dir/+14 (2d6+13_dir/17–20 plus 2d6 vicious) or spiked gauntlet +16_dir/+11 (1d3+6)
 
 **Ranged** javelin +12 (1d6+6)
 
@@ -148,7 +148,7 @@ CN Medium humanoid
 
 **Tactics**
 
-**Base Statistics** When not raging, the champion has **AC** 19, touch 12, flat-footed 17; **hp** 85; **Fort** +10, **Will** +2; **Melee** _+1 adamantine [vicious](../../../magicItems_dir/weapons#_vicious) greatsword _+17_dir/+12 (2d6+10_dir/17–20 plus 2d6 vicious) or spiked gauntlet +14_dir/+9 (1d3+4); **Ranged** javelin +12 (1d6+4); **Str** 18, **Con** 14; **CMB** +14 (+18 sunder); **CMD** 26 (28 vs. sunder); **Skills** [Climb](../../../skills_dir/climb#_climb) +8, [Swim](../../../skills_dir/swim#_swim) +7
+**Base Statistics** When not raging, the champion has **AC** 19, touch 12, flat-footed 17; **hp** 85; **Fort** +10, **Will** +2; **Melee** _+1 adamantine [vicious](../../../../magicItems_dir/weapons#_vicious) greatsword _+17_dir/+12 (2d6+10_dir/17–20 plus 2d6 vicious) or spiked gauntlet +14_dir/+9 (1d3+4); **Ranged** javelin +12 (1d6+4); **Str** 18, **Con** 14; **CMB** +14 (+18 sunder); **CMD** 26 (28 vs. sunder); **Skills** [Climb](../../../../skills_dir/climb#_climb) +8, [Swim](../../../../skills_dir/swim#_swim) +7
 
 **Statistics**
 
@@ -156,17 +156,17 @@ CN Medium humanoid
 
 **Base Atk** +10; **CMB** +16 (+20 sunder); **CMD** 28 (30 vs. sunder)
 
-**Feats** [Dazzling Display](../../../feats#_dazzling-display), [Greater Sunder](../../../feats#_greater-sunder), [Improved Critical](../../../feats#_improved-critical) (greatsword), [Improved Sunder](../../../feats#_improved-sunder), [Intimidating Prowess](../../../feats#_intimidating-prowess), [Power Attack](../../../feats#_power-attack), [Shatter Defenses](../../../feats#_shatter-defenses), [Weapon Focus](../../../feats#_weapon-focus) (greatsword), [Weapon Specialization](../../../feats#_weapon-specialization) (greatsword)
+**Feats** [Dazzling Display](../../../../feats#_dazzling-display), [Greater Sunder](../../../../feats#_greater-sunder), [Improved Critical](../../../../feats#_improved-critical) (greatsword), [Improved Sunder](../../../../feats#_improved-sunder), [Intimidating Prowess](../../../../feats#_intimidating-prowess), [Power Attack](../../../../feats#_power-attack), [Shatter Defenses](../../../../feats#_shatter-defenses), [Weapon Focus](../../../../feats#_weapon-focus) (greatsword), [Weapon Specialization](../../../../feats#_weapon-specialization) (greatsword)
 
-**Skills** [Acrobatics](../../../skills_dir/acrobatics#_acrobatics) +13 (+17 jump), [Climb](../../../skills_dir/climb#_climb) +10, [Handle Animal](../../../skills_dir/handleAnimal#_handle-animal) +5, [Intimidate](../../../skills_dir/intimidate#_intimidate) +18 (+20 when raging), [Perception](../../../skills_dir/perception#_perception) +4, [Ride](../../../skills_dir/ride#_ride) +4, [Survival](../../../skills_dir/survival#_survival) +5, [Swim](../../../skills_dir/swim#_swim) +9
+**Skills** [Acrobatics](../../../../skills_dir/acrobatics#_acrobatics) +13 (+17 jump), [Climb](../../../../skills_dir/climb#_climb) +10, [Handle Animal](../../../../skills_dir/handleAnimal#_handle-animal) +5, [Intimidate](../../../../skills_dir/intimidate#_intimidate) +18 (+20 when raging), [Perception](../../../../skills_dir/perception#_perception) +4, [Ride](../../../../skills_dir/ride#_ride) +4, [Survival](../../../../skills_dir/survival#_survival) +5, [Swim](../../../../skills_dir/swim#_swim) +9
 
 **Languages** Common
 
 **SQ** armor training 1, fast movement
 
-**Gear** _+1 breastplate_, _+1 adamantine [vicious](../../../magicItems_dir/weapons#_vicious) greatsword_, javelins (5), spiked gauntlet, 15 gp
+**Gear** _+1 breastplate_, _+1 adamantine [vicious](../../../../magicItems_dir/weapons#_vicious) greatsword_, javelins (5), spiked gauntlet, 15 gp
 
-**Boon** A champion can introduce the PCs to a general, merchant prince, or noble who is a fan, granting a +10 bonus on [Diplomacy](../../../skills_dir/diplomacy#_diplomacy) checks with that person. She can also order a gladiator to assist the PCs for 24 hours.
+**Boon** A champion can introduce the PCs to a general, merchant prince, or noble who is a fan, granting a +10 bonus on [Diplomacy](../../../../skills_dir/diplomacy#_diplomacy) checks with that person. She can also order a gladiator to assist the PCs for 24 hours.
 
 The champion is mistress of the arena, leaving in her wake a trail of wrecked armaments, battered bodies, and shattered dreams. Raising her bloodied blade, she exults in the roar of the crowd and the terror she inspires in her foes. Champions can also be used as barbarian chieftains or mercenary captains. A champion is usually encountered alone or in the company of a pair of lesser gladiators (CR 10).
 

@@ -14,7 +14,7 @@ Human warrior 2
 
 CN Medium humanoid
 
-**Init** +2; **Senses** [Perception](../../../skills_dir/perception#_perception) –1
+**Init** +2; **Senses** [Perception](../../../../skills_dir/perception#_perception) –1
 
 **Defense**
 
@@ -38,21 +38,21 @@ CN Medium humanoid
 
 **Base Atk** +2; **CMB** +3; **CMD** 16
 
-**Feats** [Dodge](../../../feats#_dodge), Point Blank Shot
+**Feats** [Dodge](../../../../feats#_dodge), Point Blank Shot
 
-**Skills** [Climb](../../../skills_dir/climb#_climb) +4, [Handle Animal](../../../skills_dir/handleAnimal#_handle-animal) +3, [Intimidate](../../../skills_dir/intimidate#_intimidate) +3, [Ride](../../../skills_dir/ride#_ride) +5, [Stealth](../../../skills_dir/stealth#_stealth) +2
+**Skills** [Climb](../../../../skills_dir/climb#_climb) +4, [Handle Animal](../../../../skills_dir/handleAnimal#_handle-animal) +3, [Intimidate](../../../../skills_dir/intimidate#_intimidate) +3, [Ride](../../../../skills_dir/ride#_ride) +5, [Stealth](../../../../skills_dir/stealth#_stealth) +2
 
 **Languages** Common
 
 **Gear** studded leather, buckler, composite longbow (+1 Str) with 20 arrows, rapier, sap, light horse (combat trained)
 
-**Boon** Bandits can allow the PCs to pass without robbing them and can alert them to ambush sites within a day's travel, granting a +2 circumstance bonus on [Perception](../../../skills_dir/perception#_perception) checks to notice ambushes. They might also be able to get the PCs an audience with a powerful local bandit lord.
+**Boon** Bandits can allow the PCs to pass without robbing them and can alert them to ambush sites within a day's travel, granting a +2 circumstance bonus on [Perception](../../../../skills_dir/perception#_perception) checks to notice ambushes. They might also be able to get the PCs an audience with a powerful local bandit lord.
 
 Bandits are the scourge of the highway, robbing the rich and poor alike. Freebooting scoundrels simply out for a good time, bandits care only about themselves and their band of rogues. They accost and shake down innocent travelers, hijack poorly-guarded merchant caravans, charge tolls at remote bridges, or simply plunder isolated farmsteads and villages.
 
 Bandits can be deserters from an army, disaffected huntsmen, rootless drifters with no taste for hard work, cattle rustlers or horse thieves, or even folk-hero freedom fighters who rob from the rich to feed the poor.
 
-Bandits can be used as low-level archer soldiers (N alignment, replace [Dodge](../../../feats#_dodge) feat with [Weapon Focus](../../../feats#_weapon-focus) [longbow]) or crossbowmen (replace longbow with light or heavy crossbow), or as guards manning city walls (LN alignment, replace rapiers with longswords and replace [Dodge](../../../feats#_dodge) feat with [Weapon Focus](../../../feats#_weapon-focus) [longsword]). They can also be used as bored young nobles or dandies out on a hunt or as low-level scouts or outriders.
+Bandits can be used as low-level archer soldiers (N alignment, replace [Dodge](../../../../feats#_dodge) feat with [Weapon Focus](../../../../feats#_weapon-focus) [longbow]) or crossbowmen (replace longbow with light or heavy crossbow), or as guards manning city walls (LN alignment, replace rapiers with longswords and replace [Dodge](../../../../feats#_dodge) feat with [Weapon Focus](../../../../feats#_weapon-focus) [longsword]). They can also be used as bored young nobles or dandies out on a hunt or as low-level scouts or outriders.
 
 Bandits are usually found in pairs (CR 1) or in a gang of a dozen accompanying a highwayman (CR 8). They often make up the rank-and-file members of a bandit lord's gang (CR 12).
 
@@ -64,7 +64,7 @@ Human fighter 4_dir/rogue 3
 
 CN Medium humanoid
 
-**Init** +4; **Senses** [Perception](../../../skills_dir/perception#_perception) +7
+**Init** +4; **Senses** [Perception](../../../../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -92,15 +92,15 @@ CN Medium humanoid
 
 **Base Atk** +6; **CMB** +10 (+14 when tripping); **CMD** 21 (23 vs. trip)
 
-**Feats** [Agile Maneuvers](../../../feats#_agile-maneuvers), [Combat Expertise](../../../feats#_combat-expertise), [Deceitful](../../../feats#_deceitful), [Exotic Weapon Proficiency](../../../feats#_exotic-weapon-proficiency) (spiked chain), [Improved Feint](../../../feats#_improved-feint), [Improved Trip](../../../feats#_improved-trip), [Weapon Finesse](../../../feats#_weapon-finesse), [Weapon Focus](../../../feats#_weapon-focus) (spiked chain), [Weapon Specialization](../../../feats#_weapon-specialization) (spiked chain)
+**Feats** [Agile Maneuvers](../../../../feats#_agile-maneuvers), [Combat Expertise](../../../../feats#_combat-expertise), [Deceitful](../../../../feats#_deceitful), [Exotic Weapon Proficiency](../../../../feats#_exotic-weapon-proficiency) (spiked chain), [Improved Feint](../../../../feats#_improved-feint), [Improved Trip](../../../../feats#_improved-trip), [Weapon Finesse](../../../../feats#_weapon-finesse), [Weapon Focus](../../../../feats#_weapon-focus) (spiked chain), [Weapon Specialization](../../../../feats#_weapon-specialization) (spiked chain)
 
-**Skills** [Acrobatics](../../../skills_dir/acrobatics#_acrobatics) +14, [Appraise](../../../skills_dir/appraise#_appraise) +5, [Bluff](../../../skills_dir/bluff#_bluff) +12, [Climb](../../../skills_dir/climb#_climb) +5, [Disable Device](../../../skills_dir/disableDevice#_disable-device) +11, [Disguise](../../../skills_dir/disguise#_disguise) +14, [Escape Artist](../../../skills_dir/escapeArtist#_escape-artist) +10, [Intimidate](../../../skills_dir/intimidate#_intimidate) +4, [Perception](../../../skills_dir/perception#_perception) +7 (+8 to find traps), [Ride](../../../skills_dir/ride#_ride) +9, [Sleight of Hand](../../../skills_dir/sleightOfHand#_sleight-of-hand) +8, [Stealth](../../../skills_dir/stealth#_stealth) +14, [Swim](../../../skills_dir/swim#_swim) +5
+**Skills** [Acrobatics](../../../../skills_dir/acrobatics#_acrobatics) +14, [Appraise](../../../../skills_dir/appraise#_appraise) +5, [Bluff](../../../../skills_dir/bluff#_bluff) +12, [Climb](../../../../skills_dir/climb#_climb) +5, [Disable Device](../../../../skills_dir/disableDevice#_disable-device) +11, [Disguise](../../../../skills_dir/disguise#_disguise) +14, [Escape Artist](../../../../skills_dir/escapeArtist#_escape-artist) +10, [Intimidate](../../../../skills_dir/intimidate#_intimidate) +4, [Perception](../../../../skills_dir/perception#_perception) +7 (+8 to find traps), [Ride](../../../../skills_dir/ride#_ride) +9, [Sleight of Hand](../../../../skills_dir/sleightOfHand#_sleight-of-hand) +8, [Stealth](../../../../skills_dir/stealth#_stealth) +14, [Swim](../../../../skills_dir/swim#_swim) +5
 
 **Languages** Common, Halfling
 
 **SQ** armor training 1, rogue talent (finesse rogue), trapfinding +1
 
-**Combat Gear** _potion of [invisibility](../../../spells_dir/invisibility#_invisibility)_; **Other Gear** _+1 chain shirt_, _+1 spiked chain_, masterwork composite longbow (+1 Str) with 20 arrows, sap, _ [cloak of resistance](../../../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, disguise kit, light horse (combat trained) with saddle, silk rope, smokestick, thieves' tools
+**Combat Gear** _potion of [invisibility](../../../../spells_dir/invisibility#_invisibility)_; **Other Gear** _+1 chain shirt_, _+1 spiked chain_, masterwork composite longbow (+1 Str) with 20 arrows, sap, _ [cloak of resistance](../../../../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, disguise kit, light horse (combat trained) with saddle, silk rope, smokestick, thieves' tools
 
 **Boon** Highwaymen can allow the PCs to pass without being robbed, or they could attempt to steal an item or deliver a secret message directly to an NPC.
 
@@ -116,7 +116,7 @@ Human fighter 8_dir/rogue 4
 
 CN Medium humanoid
 
-**Init** +6; **Senses** [Perception](../../../skills_dir/perception#_perception) +10
+**Init** +6; **Senses** [Perception](../../../../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -132,7 +132,7 @@ CN Medium humanoid
 
 **Speed** 30 ft.
 
-**Melee** _+1 [frost](../../../magicItems_dir/weapons#_weapons-frost) [keen](../../../magicItems_dir/weapons#_weapons-keen) rapier_ +20_dir/+15_dir/+10 (1d6+6_dir/15–20 plus 1d6 cold) or sap +17_dir/+12_dir/+7 (1d6+2 nonlethal)
+**Melee** _+1 [frost](../../../../magicItems_dir/weapons#_weapons-frost) [keen](../../../../magicItems_dir/weapons#_weapons-keen) rapier_ +20_dir/+15_dir/+10 (1d6+6_dir/15–20 plus 1d6 cold) or sap +17_dir/+12_dir/+7 (1d6+2 nonlethal)
 
 **Ranged** mwk composite longbow +18_dir/+13_dir/+8 (1d8+2_dir/×3)
 
@@ -144,15 +144,15 @@ CN Medium humanoid
 
 **Base Atk** +11; **CMB** +13; **CMD** 31
 
-**Feats** [Bleeding Critical](../../../feats#_bleeding-critical), [Blind-Fight](../../../feats#_blind-fight), [Critical Focus](../../../feats#_critical-focus), [Dazzling Display](../../../feats#_dazzling-display), [Dodge](../../../feats#_dodge), [Improved Critical](../../../feats#_improved-critical) (rapier), [Mobility](../../../feats#_mobility), [Shatter Defenses](../../../feats#_shatter-defenses), [Spring Attack](../../../feats#_spring-attack), [Vital Strike](../../../feats#_vital-strike), [Weapon Finesse](../../../feats#_weapon-finesse), [Weapon Focus](../../../feats#_weapon-focus) (rapier), [Weapon Specialization](../../../feats#_weapon-specialization) (rapier)
+**Feats** [Bleeding Critical](../../../../feats#_bleeding-critical), [Blind-Fight](../../../../feats#_blind-fight), [Critical Focus](../../../../feats#_critical-focus), [Dazzling Display](../../../../feats#_dazzling-display), [Dodge](../../../../feats#_dodge), [Improved Critical](../../../../feats#_improved-critical) (rapier), [Mobility](../../../../feats#_mobility), [Shatter Defenses](../../../../feats#_shatter-defenses), [Spring Attack](../../../../feats#_spring-attack), [Vital Strike](../../../../feats#_vital-strike), [Weapon Finesse](../../../../feats#_weapon-finesse), [Weapon Focus](../../../../feats#_weapon-focus) (rapier), [Weapon Specialization](../../../../feats#_weapon-specialization) (rapier)
 
-**Skills** [Acrobatics](../../../skills_dir/acrobatics#_acrobatics) +20, [Appraise](../../../skills_dir/appraise#_appraise) +3, [Bluff](../../../skills_dir/bluff#_bluff) +10, [Climb](../../../skills_dir/climb#_climb) +6, [Diplomacy](../../../skills_dir/diplomacy#_diplomacy) +5, [Disable Device](../../../skills_dir/disableDevice#_disable-device) +12, [Escape Artist](../../../skills_dir/escapeArtist#_escape-artist) +10, [Handle Animal](../../../skills_dir/handleAnimal#_handle-animal) +5, [Intimidate](../../../skills_dir/intimidate#_intimidate) +16, [Knowledge](../../../skills_dir/knowledge#_knowledge) (local) +5, [Perception](../../../skills_dir/perception#_perception) +10 (+12 to find traps), [Ride](../../../skills_dir/ride#_ride) +10, [Sense Motive](../../../skills_dir/senseMotive#_sense-motive) +5, [Stealth](../../../skills_dir/stealth#_stealth) +21, [Survival](../../../skills_dir/survival#_survival) +4
+**Skills** [Acrobatics](../../../../skills_dir/acrobatics#_acrobatics) +20, [Appraise](../../../../skills_dir/appraise#_appraise) +3, [Bluff](../../../../skills_dir/bluff#_bluff) +10, [Climb](../../../../skills_dir/climb#_climb) +6, [Diplomacy](../../../../skills_dir/diplomacy#_diplomacy) +5, [Disable Device](../../../../skills_dir/disableDevice#_disable-device) +12, [Escape Artist](../../../../skills_dir/escapeArtist#_escape-artist) +10, [Handle Animal](../../../../skills_dir/handleAnimal#_handle-animal) +5, [Intimidate](../../../../skills_dir/intimidate#_intimidate) +16, [Knowledge](../../../../skills_dir/knowledge#_knowledge) (local) +5, [Perception](../../../../skills_dir/perception#_perception) +10 (+12 to find traps), [Ride](../../../../skills_dir/ride#_ride) +10, [Sense Motive](../../../../skills_dir/senseMotive#_sense-motive) +5, [Stealth](../../../../skills_dir/stealth#_stealth) +21, [Survival](../../../../skills_dir/survival#_survival) +4
 
 **Languages** Common
 
 **SQ** armor training 2, rogue talent (finesse rogue), trapfinding +2
 
-**Combat Gear** _potion of [enlarge person](../../../spells_dir/enlargePerson#_enlarge-person)_; **Other Gear** _+1 chain shirt_, _+1 buckler_, _+1 [frost](../../../magicItems_dir/weapons#_weapons-frost) [keen](../../../magicItems_dir/weapons#_weapons-keen) rapier_, masterwork composite longbow (+2 Str) with 20 arrows, sap, _ [belt of incredible dexterity](../../../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [boots of striding and springing](../../../magicItems_dir/wondrousItems#_boots-of-striding-and-springing)_, _ [cloak of resistance](../../../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](../../../magicItems_dir/rings#_ring-of-protection) +1_, light horse (combat trained) with saddle, thieves' tools
+**Combat Gear** _potion of [enlarge person](../../../../spells_dir/enlargePerson#_enlarge-person)_; **Other Gear** _+1 chain shirt_, _+1 buckler_, _+1 [frost](../../../../magicItems_dir/weapons#_weapons-frost) [keen](../../../../magicItems_dir/weapons#_weapons-keen) rapier_, masterwork composite longbow (+2 Str) with 20 arrows, sap, _ [belt of incredible dexterity](../../../../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [boots of striding and springing](../../../../magicItems_dir/wondrousItems#_boots-of-striding-and-springing)_, _ [cloak of resistance](../../../../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](../../../../magicItems_dir/rings#_ring-of-protection) +1_, light horse (combat trained) with saddle, thieves' tools
 
 **Boon** Bandit lords can grant safe passage from bandit attacks for the PCs and their allies for up to 3 days. They can also arrange the purchase or sale of goods as if the gp limit was for a community one size larger.
 

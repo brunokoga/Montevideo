@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/blink
 ---
 Blink
 
-**Source** [_blink_](../spells_dir/blink#_blink)
+**Source** [_blink_](../../spells_dir/blink#_blink)
 
 You may spend a move action to remain corporeal or incorporeal until the end of your turn (you automatically resume blinking at the end of your turn).
 

@@ -32,7 +32,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 [light](../spells_dir/light#_light) mace_ +9_dir/+4 (1d6+1)
+**Melee** _+1 [light](../../spells_dir/light#_light) mace_ +9_dir/+4 (1d6+1)
 
 **Ranged** dagger +13 (1d4_dir/19–20) or
 
@@ -42,19 +42,19 @@ light mace +13 (1d6)
 
 **Bard Spells Known** (CL 6th; concentration +8)
 
-2nd (4_dir/day)—_ [cat's grace](../spells_dir/catSGrace#_cat-s-grace)_, _ [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (DC 14), _ [eagle's splendor](../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [suggestion](../spells_dir/suggestion#_suggestion)_ (DC 14)
+2nd (4_dir/day)—_ [cat's grace](../../spells_dir/catSGrace#_cat-s-grace)_, _ [cure moderate wounds](../../spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (DC 14), _ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [suggestion](../../spells_dir/suggestion#_suggestion)_ (DC 14)
 
-1st (5_dir/day)—_ [animate rope](../spells_dir/animateRope#_animate-rope)_, _ [charm person](../spells_dir/charmPerson#_charm-person)_ (DC 13), _ [silent image](../spells_dir/silentImage#_silent-image)_ (DC 13), _ [sleep](../spells_dir/sleep#_sleep)_ (DC 13)
+1st (5_dir/day)—_ [animate rope](../../spells_dir/animateRope#_animate-rope)_, _ [charm person](../../spells_dir/charmPerson#_charm-person)_ (DC 13), _ [silent image](../../spells_dir/silentImage#_silent-image)_ (DC 13), _ [sleep](../../spells_dir/sleep#_sleep)_ (DC 13)
 
-0 (at will)—_ [dancing lights](../spells_dir/dancingLights#_dancing-lights)_, _ [detect magic](../spells_dir/detectMagic#_detect-magic)_, _ [lullaby](../spells_dir/lullaby#_lullaby)_ (DC 12), _ [mage hand](../spells_dir/mageHand#_mage-hand)_, _ [mending](../spells_dir/mending#_mending)_, _ [prestidigitation](../spells_dir/prestidigitation#_prestidigitation)_
+0 (at will)—_ [dancing lights](../../spells_dir/dancingLights#_dancing-lights)_, _ [detect magic](../../spells_dir/detectMagic#_detect-magic)_, _ [lullaby](../../spells_dir/lullaby#_lullaby)_ (DC 12), _ [mage hand](../../spells_dir/mageHand#_mage-hand)_, _ [mending](../../spells_dir/mending#_mending)_, _ [prestidigitation](../../spells_dir/prestidigitation#_prestidigitation)_
 
 Tactics
 
-**Before Combat** The arcane trickster drinks his _potion of [heroism](../spells_dir/heroism#_heroism)_ and casts _ [cat's grace](../spells_dir/catSGrace#_cat-s-grace)_ on himself.
+**Before Combat** The arcane trickster drinks his _potion of [heroism](../../spells_dir/heroism#_heroism)_ and casts _ [cat's grace](../../spells_dir/catSGrace#_cat-s-grace)_ on himself.
 
-**During Combat** The trickster starts by throwing the light maces he uses for his juggling act, then casts _ [charm person](../spells_dir/charmPerson#_charm-person)_ and _ [suggestion](../spells_dir/suggestion#_suggestion)_ to help even the odds.
+**During Combat** The trickster starts by throwing the light maces he uses for his juggling act, then casts _ [charm person](../../spells_dir/charmPerson#_charm-person)_ and _ [suggestion](../../spells_dir/suggestion#_suggestion)_ to help even the odds.
 
-**Base Statistics** Without_ [heroism](../spells_dir/heroism#_heroism)_, the arcane trickster's statistics are **Init** +7; **Fort** +4, **Ref** +11, **Will** +5; **Melee** _+1 [light](../spells_dir/light#_light) mace_ +7_dir/+2 (1d6+1); **Ranged** dagger +9 (1d4_dir/19–20) or light mace +9 (1d6); **Dex** 17; **CMD** 21; **Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +15, [Disable Device](../skills_dir/disableDevice#_disable-device) +15, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +15, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +3, [Intimidate](../skills_dir/intimidate#_intimidate) +4, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +11, Perception +11, [Perform](../skills_dir/perform#_perform) (comedy) +9, [Ride](../skills_dir/ride#_ride) +4, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +6, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +15, [Stealth](../skills_dir/stealth#_stealth) +15, [Swim](../skills_dir/swim#_swim) +4, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +14.
+**Base Statistics** Without_ [heroism](../../spells_dir/heroism#_heroism)_, the arcane trickster's statistics are **Init** +7; **Fort** +4, **Ref** +11, **Will** +5; **Melee** _+1 [light](../../spells_dir/light#_light) mace_ +7_dir/+2 (1d6+1); **Ranged** dagger +9 (1d4_dir/19–20) or light mace +9 (1d6); **Dex** 17; **CMD** 21; **Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +15, [Disable Device](../../skills_dir/disableDevice#_disable-device) +15, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +15, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +3, [Intimidate](../../skills_dir/intimidate#_intimidate) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana) +11, Perception +11, [Perform](../../skills_dir/perform#_perform) (comedy) +9, [Ride](../../skills_dir/ride#_ride) +4, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +6, [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand) +15, [Stealth](../../skills_dir/stealth#_stealth) +15, [Swim](../../skills_dir/swim#_swim) +4, [Use Magic Device](../../skills_dir/useMagicDevice#_use-magic-device) +14.
 
 Statistics
 
@@ -62,15 +62,15 @@ Statistics
 
 **Base Atk** +6; **CMB** +6; **CMD** 23
 
-**Feats** [Catch Off-Guard](../feats#_catch-off-guard), [Combat Casting](../feats#_combat-casting), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Throw Anything](../feats#_throw-anything)
+**Feats** [Catch Off-Guard](../../feats#_catch-off-guard), [Combat Casting](../../feats#_combat-casting), [Dodge](../../feats#_dodge), [Improved Initiative](../../feats#_improved-initiative), [Throw Anything](../../feats#_throw-anything)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +19, [Disable Device](../skills_dir/disableDevice#_disable-device) +19, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +19, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +5, [Intimidate](../skills_dir/intimidate#_intimidate) +6, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +13, Perception +13, [Perform](../skills_dir/perform#_perform) (comedy) +11, [Ride](../skills_dir/ride#_ride) +8, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +8, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +19, [Stealth](../skills_dir/stealth#_stealth) +19, [Swim](../skills_dir/swim#_swim) +6, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +16
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +19, [Disable Device](../../skills_dir/disableDevice#_disable-device) +19, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +19, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +5, [Intimidate](../../skills_dir/intimidate#_intimidate) +6, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana) +13, Perception +13, [Perform](../../skills_dir/perform#_perform) (comedy) +11, [Ride](../../skills_dir/ride#_ride) +8, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +8, [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand) +19, [Stealth](../../skills_dir/stealth#_stealth) +19, [Swim](../../skills_dir/swim#_swim) +6, [Use Magic Device](../../skills_dir/useMagicDevice#_use-magic-device) +16
 
 **Languages** Celestial, Common, Goblin
 
 **SQ** bardic knowledge +2, orc blood, ranged legerdemain, rogue talents (ledge walker), trapfinding +1, versatile performance (comedy), weapon familiarity
 
-**Combat Gear** _potion of [delay poison](../spells_dir/delayPoison#_delay-poison)_, _potion of [heroism](../spells_dir/heroism#_heroism)_, _potions of [invisibility](../spells_dir/invisibility#_invisibility)_ (2), _potion of [pass without trace](../spells_dir/passWithoutTrace#_pass-without-trace)_, _scrolls of [summon monster I](../spells_dir/summonMonster#_summon-monster-i)_ (3), acid (4), holy water (4), smokesticks (4), tanglefoot bags (4), thunderstones (4); **Other Gear** _+1 leather armor_, _+1 [light](../spells_dir/light#_light) mace_, dagger (6), light mace (6), _ [amulet of natural armor](../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +1_, everburning torches (4), masterwork thieves' tools, spell component pouch, 53 gp
+**Combat Gear** _potion of [delay poison](../../spells_dir/delayPoison#_delay-poison)_, _potion of [heroism](../../spells_dir/heroism#_heroism)_, _potions of [invisibility](../../spells_dir/invisibility#_invisibility)_ (2), _potion of [pass without trace](../../spells_dir/passWithoutTrace#_pass-without-trace)_, _scrolls of [summon monster I](../../spells_dir/summonMonster#_summon-monster-i)_ (3), acid (4), holy water (4), smokesticks (4), tanglefoot bags (4), thunderstones (4); **Other Gear** _+1 leather armor_, _+1 [light](../../spells_dir/light#_light) mace_, dagger (6), light mace (6), _ [amulet of natural armor](../../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [ring of protection](../../magicItems_dir/rings#_ring-of-protection) +1_, everburning torches (4), masterwork thieves' tools, spell component pouch, 53 gp
 
 Stage magicians use their skills to entertain nobles in theaters and crowds of commoners on street corners.
 
@@ -110,25 +110,25 @@ Offense
 
 **Sorcerer Spells Known** (CL 9th; concentration +12; arcane spell failure 10%)
 
-4th (4_dir/day)—_ [arcane eye](../spells_dir/arcaneEye#_arcane-eye)_, _ [dimension door](../spells_dir/dimensionDoor#_dimension-door)_
+4th (4_dir/day)—_ [arcane eye](../../spells_dir/arcaneEye#_arcane-eye)_, _ [dimension door](../../spells_dir/dimensionDoor#_dimension-door)_
 
-3rd (7_dir/day)—_ [dispel magic](../spells_dir/dispelMagic#_dispel-magic)_, _ [flame arrow](../spells_dir/flameArrow#_flame-arrow)_, _ [gaseous form](../spells_dir/gaseousForm#_gaseous-form)_
+3rd (7_dir/day)—_ [dispel magic](../../spells_dir/dispelMagic#_dispel-magic)_, _ [flame arrow](../../spells_dir/flameArrow#_flame-arrow)_, _ [gaseous form](../../spells_dir/gaseousForm#_gaseous-form)_
 
-2nd (7_dir/day)—_ [false life](../spells_dir/falseLife#_false-life)_, _ [invisibility](../spells_dir/invisibility#_invisibility), [knock](../spells_dir/knock#_knock)_, _ [locate object](../spells_dir/locateObject#_locate-object)_, _ [spider climb](../spells_dir/spiderClimb#_spider-climb)_
+2nd (7_dir/day)—_ [false life](../../spells_dir/falseLife#_false-life)_, _ [invisibility](../../spells_dir/invisibility#_invisibility), [knock](../../spells_dir/knock#_knock)_, _ [locate object](../../spells_dir/locateObject#_locate-object)_, _ [spider climb](../../spells_dir/spiderClimb#_spider-climb)_
 
-1st (7_dir/day)—_ [detect secret doors](../spells_dir/detectSecretDoors#_detect-secret-doors)_, _ [erase](../spells_dir/erase#_erase)_, _ [feather fall](../spells_dir/featherFall#_feather-fall)_, _ [floating disk](../spells_dir/floatingDisk#_floating-disk)_, _ [identify](../spells_dir/identify#_identify)_,_ [unseen servant](../spells_dir/unseenServant#_unseen-servant)_
+1st (7_dir/day)—_ [detect secret doors](../../spells_dir/detectSecretDoors#_detect-secret-doors)_, _ [erase](../../spells_dir/erase#_erase)_, _ [feather fall](../../spells_dir/featherFall#_feather-fall)_, _ [floating disk](../../spells_dir/floatingDisk#_floating-disk)_, _ [identify](../../spells_dir/identify#_identify)_,_ [unseen servant](../../spells_dir/unseenServant#_unseen-servant)_
 
-0 (at will)—_ [acid splash](../spells_dir/acidSplash#_acid-splash)_, _ [detect magic](../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](../spells_dir/detectPoison#_detect-poison)_, _ [light](../spells_dir/light#_light)_, _ [mage hand](../spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](../spells_dir/openClose#_open-close)_, _ [prestidigitation](../spells_dir/prestidigitation#_prestidigitation)_, _ [ray of frost](../spells_dir/rayOfFrost#_ray-of-frost)_
+0 (at will)—_ [acid splash](../../spells_dir/acidSplash#_acid-splash)_, _ [detect magic](../../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](../../spells_dir/detectPoison#_detect-poison)_, _ [light](../../spells_dir/light#_light)_, _ [mage hand](../../spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](../../spells_dir/openClose#_open-close)_, _ [prestidigitation](../../spells_dir/prestidigitation#_prestidigitation)_, _ [ray of frost](../../spells_dir/rayOfFrost#_ray-of-frost)_
 
 **Bloodline** arcane
 
 Tactics
 
-**Before Combat** The arcane trickster casts _ [false life](../spells_dir/falseLife#_false-life)_.
+**Before Combat** The arcane trickster casts _ [false life](../../spells_dir/falseLife#_false-life)_.
 
-**During Combat** The arcane trickster stays out of melee, using _ [invisibility](../spells_dir/invisibility#_invisibility)_, _ [gaseous form](../spells_dir/gaseousForm#_gaseous-form)_, and _ [dimension door](../spells_dir/dimensionDoor#_dimension-door)_ to keep her distance while pelting foes with crossbow bolts. When in dire straits, she uses her _scroll of [teleport](../spells_dir/teleport#_teleport)_ to flee.
+**During Combat** The arcane trickster stays out of melee, using _ [invisibility](../../spells_dir/invisibility#_invisibility)_, _ [gaseous form](../../spells_dir/gaseousForm#_gaseous-form)_, and _ [dimension door](../../spells_dir/dimensionDoor#_dimension-door)_ to keep her distance while pelting foes with crossbow bolts. When in dire straits, she uses her _scroll of [teleport](../../spells_dir/teleport#_teleport)_ to flee.
 
-**Base Statistics** Without _ [false life](../spells_dir/falseLife#_false-life)_, the arcane trickster's statistics are **hp** 97.
+**Base Statistics** Without _ [false life](../../spells_dir/falseLife#_false-life)_, the arcane trickster's statistics are **hp** 97.
 
 Statistics
 
@@ -136,15 +136,15 @@ Statistics
 
 **Base Atk** +7; **CMB** +4; **CMD** 19
 
-**Feats** [Arcane Armor Training](../feats#_arcane-armor-training), [Eschew Materials](../feats#_eschew-materials), [Extend Spell](../feats#_extend-spell), Improved [Lightning Reflexes](../feats#_lightning-reflexes), [Lightning Reflexes](../feats#_lightning-reflexes), [Nimble Moves](../feats#_nimble-moves), [Skill Focus](../feats#_skill-focus) ( [Disable Device](../skills_dir/disableDevice#_disable-device)), [Still Spell](../feats#_still-spell)
+**Feats** [Arcane Armor Training](../../feats#_arcane-armor-training), [Eschew Materials](../../feats#_eschew-materials), [Extend Spell](../../feats#_extend-spell), Improved [Lightning Reflexes](../../feats#_lightning-reflexes), [Lightning Reflexes](../../feats#_lightning-reflexes), [Nimble Moves](../../feats#_nimble-moves), [Skill Focus](../../feats#_skill-focus) ( [Disable Device](../../skills_dir/disableDevice#_disable-device)), [Still Spell](../../feats#_still-spell)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +15 (+11 when jumping), [Climb](../skills_dir/climb#_climb) +9, [Disable Device](../skills_dir/disableDevice#_disable-device) +26, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +11, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +10, Perception +16, [Stealth](../skills_dir/stealth#_stealth) +24, [Swim](../skills_dir/swim#_swim) +7, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +12
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +15 (+11 when jumping), [Climb](../../skills_dir/climb#_climb) +9, [Disable Device](../../skills_dir/disableDevice#_disable-device) +26, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +11, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana) +10, Perception +16, [Stealth](../../skills_dir/stealth#_stealth) +24, [Swim](../../skills_dir/swim#_swim) +7, [Use Magic Device](../../skills_dir/useMagicDevice#_use-magic-device) +12
 
 **Languages** Common, Draconic, Halfling
 
 **SQ** arcane bond (_+1 heavy crossbow_), bloodline arcana (+1 DC for spells with metamagic feats that increase spell level), metamagic adept (1_dir/day), ranged legerdemain, rogue talents (quick disable, trap spotter), trapfinding +2
 
-**Combat Gear** _+1 construct-bane bolts_ (3), _+1 undead-bane bolts_ (3), _potions of [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _scroll of [neutralize poison](../spells_dir/neutralizePoison#_neutralize-poison)_, _scroll of [remove curse](../spells_dir/removeCurse#_remove-curse)_, _scroll of [remove disease](../spells_dir/removeDisease#_remove-disease),_ _scroll of [teleport](../spells_dir/teleport#_teleport)_, _wand of [delay poison](../spells_dir/delayPoison#_delay-poison)_ (10 charges), antitoxin (5), holy water (5), tindertwigs (5); **Other Gear** _+1 mithral chain shirt_, _+1 heavy crossbow_ with 20 bolts, masterwork rapier, _ [amulet of natural armor](../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of incredible dexterity](../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [gloves of arrow snaring](../magicItems_dir/wondrousItems#_gloves-of-arrow-snaring)_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +1_, everburning torch, masterwork thieves' tools, spell component pouch, 56 gp
+**Combat Gear** _+1 construct-bane bolts_ (3), _+1 undead-bane bolts_ (3), _potions of [cure serious wounds](../../spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _scroll of [neutralize poison](../../spells_dir/neutralizePoison#_neutralize-poison)_, _scroll of [remove curse](../../spells_dir/removeCurse#_remove-curse)_, _scroll of [remove disease](../../spells_dir/removeDisease#_remove-disease),_ _scroll of [teleport](../../spells_dir/teleport#_teleport)_, _wand of [delay poison](../../spells_dir/delayPoison#_delay-poison)_ (10 charges), antitoxin (5), holy water (5), tindertwigs (5); **Other Gear** _+1 mithral chain shirt_, _+1 heavy crossbow_ with 20 bolts, masterwork rapier, _ [amulet of natural armor](../../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of incredible dexterity](../../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](../../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [gloves of arrow snaring](../../magicItems_dir/wondrousItems#_gloves-of-arrow-snaring)_, _ [ring of protection](../../magicItems_dir/rings#_ring-of-protection) +1_, everburning torch, masterwork thieves' tools, spell component pouch, 56 gp
 
 Masters at breaking into wizard towers and sorcerer societies, arcanothieves steal magic items, supplying local fences or selling directly to visiting adventurers.
 
@@ -184,7 +184,7 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** _+1 [frost](../magicItems_dir/weapons#_weapons-frost) rapier_ +15_dir/+10 (1d6_dir/18–20)
+**Melee** _+1 [frost](../../magicItems_dir/weapons#_weapons-frost) rapier_ +15_dir/+10 (1d6_dir/18–20)
 
 **Ranged** mwk dagger +15 (1d4–1_dir/19–20)
 
@@ -196,25 +196,25 @@ Offense
 
 **Transmuter**  **Spells Prepared** (CL 11th; concentration +16; arcane spell failure 10%)
 
-6th—_ [antimagic field](../spells_dir/antimagicField#_antimagic-field)_, _ [disintegrate](../spells_dir/disintegrate#_disintegrate)_ (DC 22)
+6th—_ [antimagic field](../../spells_dir/antimagicField#_antimagic-field)_, _ [disintegrate](../../spells_dir/disintegrate#_disintegrate)_ (DC 22)
 
-5th—_ [passwall](../spells_dir/passwall#_passwall)_, _ [prying eyes](../spells_dir/pryingEyes#_prying-eyes)_, _ [teleport](../spells_dir/teleport#_teleport)_, _ [transmute rock to mud](../spells_dir/transmuteRockToMud#_transmute-rock-to-mud)_
+5th—_ [passwall](../../spells_dir/passwall#_passwall)_, _ [prying eyes](../../spells_dir/pryingEyes#_prying-eyes)_, _ [teleport](../../spells_dir/teleport#_teleport)_, _ [transmute rock to mud](../../spells_dir/transmuteRockToMud#_transmute-rock-to-mud)_
 
-4th—_ [beast shape II](../spells_dir/beastShape#_beast-shape-ii), [charm monster](../spells_dir/charmMonster#_charm-monster)_ (DC 19), _ [dimension door](../spells_dir/dimensionDoor#_dimension-door)_, _ [greater invisibility](../spells_dir/invisibility#_invisibility-greater)_, _ [illusory wall](../spells_dir/illusoryWall#_illusory-wall) _(DC 19)
+4th—_ [beast shape II](../../spells_dir/beastShape#_beast-shape-ii), [charm monster](../../spells_dir/charmMonster#_charm-monster)_ (DC 19), _ [dimension door](../../spells_dir/dimensionDoor#_dimension-door)_, _ [greater invisibility](../../spells_dir/invisibility#_invisibility-greater)_, _ [illusory wall](../../spells_dir/illusoryWall#_illusory-wall) _(DC 19)
 
-3rd—_ [blink](../spells_dir/blink#_blink)_, _ [dispel magic](../spells_dir/dispelMagic#_dispel-magic)_, _ [fly](../spells_dir/fly)_, _ [slow](../spells_dir/slow#_slow)_ (DC 19), _ [stinking cloud](../spells_dir/stinkingCloud#_stinking-cloud)_ (DC 18), _ [water breathing](../spells_dir/waterBreathing#_water-breathing)_
+3rd—_ [blink](../../spells_dir/blink#_blink)_, _ [dispel magic](../../spells_dir/dispelMagic#_dispel-magic)_, _ [fly](../../spells_dir/fly)_, _ [slow](../../spells_dir/slow#_slow)_ (DC 19), _ [stinking cloud](../../spells_dir/stinkingCloud#_stinking-cloud)_ (DC 18), _ [water breathing](../../spells_dir/waterBreathing#_water-breathing)_
 
-2nd—_ [flaming sphere](../spells_dir/flamingSphere#_flaming-sphere)_ (DC 17), _ [invisibility](../spells_dir/invisibility#_invisibility)_, _ [knock](../spells_dir/knock#_knock)_, _ [levitate](../spells_dir/levitate#_levitate)_, _ [mirror image](../spells_dir/mirrorImage#_mirror-image)_, _ [spider climb](../spells_dir/spiderClimb#_spider-climb)_
+2nd—_ [flaming sphere](../../spells_dir/flamingSphere#_flaming-sphere)_ (DC 17), _ [invisibility](../../spells_dir/invisibility#_invisibility)_, _ [knock](../../spells_dir/knock#_knock)_, _ [levitate](../../spells_dir/levitate#_levitate)_, _ [mirror image](../../spells_dir/mirrorImage#_mirror-image)_, _ [spider climb](../../spells_dir/spiderClimb#_spider-climb)_
 
-1st—_ [comprehend languages](../spells_dir/comprehendLanguages#_comprehend-languages)_, _ [detect secret doors](../spells_dir/detectSecretDoors#_detect-secret-doors)_, _ [expeditious retreat](../spells_dir/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](../spells_dir/featherFall#_feather-fall)_, _ [obscuring mist](../spells_dir/obscuringMist#_obscuring-mist)_, _ [shield](../spells_dir/shield#_shield),_ _ [sleep](../spells_dir/sleep#_sleep)_ (DC 16),
+1st—_ [comprehend languages](../../spells_dir/comprehendLanguages#_comprehend-languages)_, _ [detect secret doors](../../spells_dir/detectSecretDoors#_detect-secret-doors)_, _ [expeditious retreat](../../spells_dir/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](../../spells_dir/featherFall#_feather-fall)_, _ [obscuring mist](../../spells_dir/obscuringMist#_obscuring-mist)_, _ [shield](../../spells_dir/shield#_shield),_ _ [sleep](../../spells_dir/sleep#_sleep)_ (DC 16),
 
-0 (at will)—_ [detect magic](../spells_dir/detectMagic#_detect-magic)_, _ [ghost sound](../spells_dir/ghostSound#_ghost-sound),_ _ [mage hand](../spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](../spells_dir/openClose#_open-close)_
+0 (at will)—_ [detect magic](../../spells_dir/detectMagic#_detect-magic)_, _ [ghost sound](../../spells_dir/ghostSound#_ghost-sound),_ _ [mage hand](../../spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](../../spells_dir/openClose#_open-close)_
 
 **Opposition Schools** evocation, necromancy
 
 Tactics
 
-**During Combat** The arcane trickster uses _ [teleport](../spells_dir/teleport#_teleport)_, _ [greater invisibility](../spells_dir/invisibility#_invisibility-greater)_, _ [blink](../spells_dir/blink#_blink)_, and _ [fly](../spells_dir/fly)_ to keep out of melee. If forced into melee, she uses Spring Attack and [Vital Strike](../feats#_vital-strike) to make quick, devastating attacks before leaping away.
+**During Combat** The arcane trickster uses _ [teleport](../../spells_dir/teleport#_teleport)_, _ [greater invisibility](../../spells_dir/invisibility#_invisibility-greater)_, _ [blink](../../spells_dir/blink#_blink)_, and _ [fly](../../spells_dir/fly)_ to keep out of melee. If forced into melee, she uses Spring Attack and [Vital Strike](../../feats#_vital-strike) to make quick, devastating attacks before leaping away.
 
 Statistics
 
@@ -222,15 +222,15 @@ Statistics
 
 **Base Atk** +9; **CMB** +8; **CMD** 26
 
-**Feats** [Arcane Strike](../feats#_arcane-strike), [Dodge](../feats#_dodge), [Fleet](../feats#_fleet) (2), [Lightning Reflexes](../feats#_lightning-reflexes), Mobility, [Point-Blank Shot](../feats#_point-blank-shot), [Scribe Scroll](../feats#_scribe-scroll), [Spell Focus](../feats#_spell-focus) (transmutation), Spring Attack, [Vital Strike](../feats#_vital-strike), [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Arcane Strike](../../feats#_arcane-strike), [Dodge](../../feats#_dodge), [Fleet](../../feats#_fleet) (2), [Lightning Reflexes](../../feats#_lightning-reflexes), Mobility, [Point-Blank Shot](../../feats#_point-blank-shot), [Scribe Scroll](../../feats#_scribe-scroll), [Spell Focus](../../feats#_spell-focus) (transmutation), Spring Attack, [Vital Strike](../../feats#_vital-strike), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +18 (+22 when jumping), [Appraise](../skills_dir/appraise#_appraise) +18, [Climb](../skills_dir/climb#_climb) +12, [Disable Device](../skills_dir/disableDevice#_disable-device) +25, [Disguise](../skills_dir/disguise#_disguise) +8, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +13, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana, geography, history, local, nature, nobility, planes, religion) +13, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering, engineering) +18, Perception +21, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +13, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +18, [Stealth](../skills_dir/stealth#_stealth) +25, [Survival](../skills_dir/survival#_survival) +6, [Swim](../skills_dir/swim#_swim) +7, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +13
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +18 (+22 when jumping), [Appraise](../../skills_dir/appraise#_appraise) +18, [Climb](../../skills_dir/climb#_climb) +12, [Disable Device](../../skills_dir/disableDevice#_disable-device) +25, [Disguise](../../skills_dir/disguise#_disguise) +8, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +13, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana, geography, history, local, nature, nobility, planes, religion) +13, [Knowledge](../../skills_dir/knowledge#_knowledge) (dungeoneering, engineering) +18, Perception +21, [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand) +13, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +18, [Stealth](../../skills_dir/stealth#_stealth) +25, [Survival](../../skills_dir/survival#_survival) +6, [Swim](../../skills_dir/swim#_swim) +7, [Use Magic Device](../../skills_dir/useMagicDevice#_use-magic-device) +13
 
 **Languages** Celestial, Common, Draconic, Dwarven, Elf, Gnome, Goblin
 
-**SQ** arcane bond (_+1 [frost](../magicItems_dir/weapons#_weapons-frost) rapier_), physical enhancement +1 (Strength), ranged legerdemain, rogue talents (finesse rogue, surprise attack, trap spotter), trapfinding +3, tricky spells 4_dir/day
+**SQ** arcane bond (_+1 [frost](../../magicItems_dir/weapons#_weapons-frost) rapier_), physical enhancement +1 (Strength), ranged legerdemain, rogue talents (finesse rogue, surprise attack, trap spotter), trapfinding +3, tricky spells 4_dir/day
 
-**Combat Gear** _potions of [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _scrolls of [dispel magic](../spells_dir/dispelMagic#_dispel-magic)_ (3); **Other Gear** _+2 leather armor_, _+1 [frost](../magicItems_dir/weapons#_weapons-frost) rapier_, masterwork daggers (5), _ [amulet of natural armor](../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of incredible dexterity](../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +4,_ _ [boots of speed](../magicItems_dir/wondrousItems#_boots-of-speed)_, _ [chime of opening](../magicItems_dir/wondrousItems#_chime-of-opening)_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [headband of vast intelligence](../magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +2_, _ [lens of detection](../magicItems_dir/wondrousItems#_lens-of-detection)_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +2_, spell component pouch, spellbook, 167 gp
+**Combat Gear** _potions of [cure serious wounds](../../spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _scrolls of [dispel magic](../../spells_dir/dispelMagic#_dispel-magic)_ (3); **Other Gear** _+2 leather armor_, _+1 [frost](../../magicItems_dir/weapons#_weapons-frost) rapier_, masterwork daggers (5), _ [amulet of natural armor](../../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of incredible dexterity](../../magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +4,_ _ [boots of speed](../../magicItems_dir/wondrousItems#_boots-of-speed)_, _ [chime of opening](../../magicItems_dir/wondrousItems#_chime-of-opening)_, _ [cloak of resistance](../../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [headband of vast intelligence](../../magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +2_, _ [lens of detection](../../magicItems_dir/wondrousItems#_lens-of-detection)_, _ [ring of protection](../../magicItems_dir/rings#_ring-of-protection) +2_, spell component pouch, spellbook, 167 gp
 
 Masters at breaking into treasure vaults, many arcane tricksters are more interested in the challenge of such break-ins than the riches they gain from them.
 
@@ -266,7 +266,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 [unholy](../magicItems_dir/weapons#_unholy) rapier_ +15_dir/+10 (1d6_dir/18–20)
+**Melee** _+1 [unholy](../../magicItems_dir/weapons#_unholy) rapier_ +15_dir/+10 (1d6_dir/18–20)
 
 **Ranged** ray +15 (by spell)
 
@@ -278,35 +278,35 @@ Offense
 
 **Enchanter Spells Prepared** (CL 17th; concentration +25)
 
-9th—_ [dominate monster](../spells_dir/dominateMonster#_dominate-monster)_ (DC 29), _ [energy drain](../spells_dir/energyDrain#_energy-drain)_ (DC 27)
+9th—_ [dominate monster](../../spells_dir/dominateMonster#_dominate-monster)_ (DC 29), _ [energy drain](../../spells_dir/energyDrain#_energy-drain)_ (DC 27)
 
-8th—_ [irresistible dance](../spells_dir/irresistibleDance#_irresistible-dance)_ (DC 28), _ [mass charm monster](../spells_dir/charmMonster#_charm-monster-mass)_ (DC 28), _ [polar ray](../spells_dir/polarRay#_polar-ray)_, _ [power word stun](../spells_dir/powerWordStun#_power-word-stun)_
+8th—_ [irresistible dance](../../spells_dir/irresistibleDance#_irresistible-dance)_ (DC 28), _ [mass charm monster](../../spells_dir/charmMonster#_charm-monster-mass)_ (DC 28), _ [polar ray](../../spells_dir/polarRay#_polar-ray)_, _ [power word stun](../../spells_dir/powerWordStun#_power-word-stun)_
 
-7th—_ [insanity](../spells_dir/insanity#_insanity)_ (DC 27), _ [mass hold person](../spells_dir/holdPerson#_hold-person-mass)_ (DC 27), _ [phase door](../spells_dir/phaseDoor#_phase-door)_, _ [power word blind](../spells_dir/powerWordBlind#_power-word-blind)_, _ [project image](../spells_dir/projectImage#_project-image)_ (DC 25)
+7th—_ [insanity](../../spells_dir/insanity#_insanity)_ (DC 27), _ [mass hold person](../../spells_dir/holdPerson#_hold-person-mass)_ (DC 27), _ [phase door](../../spells_dir/phaseDoor#_phase-door)_, _ [power word blind](../../spells_dir/powerWordBlind#_power-word-blind)_, _ [project image](../../spells_dir/projectImage#_project-image)_ (DC 25)
 
-6th—_ [acid fog](../spells_dir/acidFog#_acid-fog)_, _ [chain lightning](../spells_dir/chainLightning#_chain-lightning)_ (DC 24), _ [circle of death](../spells_dir/circleOfDeath#_circle-of-death)_ (DC 24), _ [disintegrate](../spells_dir/disintegrate#_disintegrate)_ (DC 24), _ [eyebite](../spells_dir/eyebite#_eyebite)_ (DC 24), _ [mass suggestion](../spells_dir/suggestion#_suggestion-mass)_ (DC 26)
+6th—_ [acid fog](../../spells_dir/acidFog#_acid-fog)_, _ [chain lightning](../../spells_dir/chainLightning#_chain-lightning)_ (DC 24), _ [circle of death](../../spells_dir/circleOfDeath#_circle-of-death)_ (DC 24), _ [disintegrate](../../spells_dir/disintegrate#_disintegrate)_ (DC 24), _ [eyebite](../../spells_dir/eyebite#_eyebite)_ (DC 24), _ [mass suggestion](../../spells_dir/suggestion#_suggestion-mass)_ (DC 26)
 
-5th—_ [cloudkill](../spells_dir/cloudkill#_cloudkill) _(DC 23),_ [dominate person](../spells_dir/dominatePerson#_dominate-person)_ (DC 25), _ [feeblemind](../spells_dir/feeblemind#_feeblemind)_ (DC 25), _ [hold monster](../spells_dir/holdMonster#_hold-monster)_ (DC 25), _ [mind fog](../spells_dir/mindFog#_mind-fog)_ (DC 25), _ [teleport](../spells_dir/teleport#_teleport)_
+5th—_ [cloudkill](../../spells_dir/cloudkill#_cloudkill) _(DC 23),_ [dominate person](../../spells_dir/dominatePerson#_dominate-person)_ (DC 25), _ [feeblemind](../../spells_dir/feeblemind#_feeblemind)_ (DC 25), _ [hold monster](../../spells_dir/holdMonster#_hold-monster)_ (DC 25), _ [mind fog](../../spells_dir/mindFog#_mind-fog)_ (DC 25), _ [teleport](../../spells_dir/teleport#_teleport)_
 
-4th—_ [charm monster](../spells_dir/charmMonster#_charm-monster)_ (DC 24), _ [confusion](../spells_dir/confusion#_confusion)_ (DC 24), _ [crushing despair](../spells_dir/crushingDespair#_crushing-despair)_ (DC 24), _ [dimension door](../spells_dir/dimensionDoor#_dimension-door)_, _ [enervation](../spells_dir/enervation#_enervation)_, _ [stoneskin](../spells_dir/stoneskin#_stoneskin)_
+4th—_ [charm monster](../../spells_dir/charmMonster#_charm-monster)_ (DC 24), _ [confusion](../../spells_dir/confusion#_confusion)_ (DC 24), _ [crushing despair](../../spells_dir/crushingDespair#_crushing-despair)_ (DC 24), _ [dimension door](../../spells_dir/dimensionDoor#_dimension-door)_, _ [enervation](../../spells_dir/enervation#_enervation)_, _ [stoneskin](../../spells_dir/stoneskin#_stoneskin)_
 
-3rd—_ [deep slumber](../spells_dir/deepSlumber#_deep-slumber)_ (DC 23), _ [dispel magic](../spells_dir/dispelMagic#_dispel-magic)_, _ [displacement](../spells_dir/displacement#_displacement)_, _ [fireball](../spells_dir/fireball#_fireball)_ (DC 21), _ [hold person](../spells_dir/holdPerson#_hold-person)_ (DC 23) _ [ray of exhaustion](../spells_dir/rayOfExhaustion#_ray-of-exhaustion)_ (DC 21), _ [suggestion](../spells_dir/suggestion#_suggestion)_ (DC 23)
+3rd—_ [deep slumber](../../spells_dir/deepSlumber#_deep-slumber)_ (DC 23), _ [dispel magic](../../spells_dir/dispelMagic#_dispel-magic)_, _ [displacement](../../spells_dir/displacement#_displacement)_, _ [fireball](../../spells_dir/fireball#_fireball)_ (DC 21), _ [hold person](../../spells_dir/holdPerson#_hold-person)_ (DC 23) _ [ray of exhaustion](../../spells_dir/rayOfExhaustion#_ray-of-exhaustion)_ (DC 21), _ [suggestion](../../spells_dir/suggestion#_suggestion)_ (DC 23)
 
-2nd—_ [glitterdust](../spells_dir/glitterdust#_glitterdust)_ (DC 20), _ [hideous laughter](../spells_dir/hideousLaughter#_hideous-laughter)_ (DC 22), _ [invisibility](../spells_dir/invisibility#_invisibility)_, _ [protection from arrows](../spells_dir/protectionFromArrows#_protection-from-arrows)_, _ [resist energy](../spells_dir/resistEnergy#_resist-energy)_ (DC 20), _ [scorching ray](../spells_dir/scorchingRay#_scorching-ray)_, _ [touch of idiocy](../spells_dir/touchOfIdiocy#_touch-of-idiocy)_
+2nd—_ [glitterdust](../../spells_dir/glitterdust#_glitterdust)_ (DC 20), _ [hideous laughter](../../spells_dir/hideousLaughter#_hideous-laughter)_ (DC 22), _ [invisibility](../../spells_dir/invisibility#_invisibility)_, _ [protection from arrows](../../spells_dir/protectionFromArrows#_protection-from-arrows)_, _ [resist energy](../../spells_dir/resistEnergy#_resist-energy)_ (DC 20), _ [scorching ray](../../spells_dir/scorchingRay#_scorching-ray)_, _ [touch of idiocy](../../spells_dir/touchOfIdiocy#_touch-of-idiocy)_
 
-1st—_ [alarm](../spells_dir/alarm#_alarm)_, _ [burning hands](../spells_dir/burningHands#_burning-hands)_ (DC 19), _charm person_ (DC 21), _ [disguise self](../spells_dir/disguiseSelf#_disguise-self)_, _ [magic missile](../spells_dir/magicMissile#_magic-missile) _(2), _ [unseen servant](../spells_dir/unseenServant#_unseen-servant)_
+1st—_ [alarm](../../spells_dir/alarm#_alarm)_, _ [burning hands](../../spells_dir/burningHands#_burning-hands)_ (DC 19), _charm person_ (DC 21), _ [disguise self](../../spells_dir/disguiseSelf#_disguise-self)_, _ [magic missile](../../spells_dir/magicMissile#_magic-missile) _(2), _ [unseen servant](../../spells_dir/unseenServant#_unseen-servant)_
 
-0 (at will)—_ [detect magic](../spells_dir/detectMagic#_detect-magic)_, _ [light](../spells_dir/light#_light), [mage hand](../spells_dir/mageHand#_mage-hand), [read magic](../spells_dir/readMagic#_read-magic)_
+0 (at will)—_ [detect magic](../../spells_dir/detectMagic#_detect-magic)_, _ [light](../../spells_dir/light#_light), [mage hand](../../spells_dir/mageHand#_mage-hand), [read magic](../../spells_dir/readMagic#_read-magic)_
 
 **Opposition Schools** divination, transmutation
 
 Tactics
 
-**Before Combat** The arcane trickster casts _ [stoneskin](../spells_dir/stoneskin#_stoneskin)_.
+**Before Combat** The arcane trickster casts _ [stoneskin](../../spells_dir/stoneskin#_stoneskin)_.
 
-**During Combat** The arcane trickster begins combat by casting _ [dominate monster](../spells_dir/dominateMonster#_dominate-monster)_, _ [mass hold person](../spells_dir/holdPerson#_hold-person-mass)_, and similar enchantment spells before casting destructive spells augmented by surprise spell.
+**During Combat** The arcane trickster begins combat by casting _ [dominate monster](../../spells_dir/dominateMonster#_dominate-monster)_, _ [mass hold person](../../spells_dir/holdPerson#_hold-person-mass)_, and similar enchantment spells before casting destructive spells augmented by surprise spell.
 
-**Base Statistics** Without _ [stoneskin](../spells_dir/stoneskin#_stoneskin)_, the arcane trickster's statistics are **DR** none.
+**Base Statistics** Without _ [stoneskin](../../spells_dir/stoneskin#_stoneskin)_, the arcane trickster's statistics are **DR** none.
 
 Statistics
 
@@ -314,15 +314,15 @@ Statistics
 
 **Base Atk** +10; **CMB** +9; **CMD** 26
 
-**Feats** [Combat Casting](../feats#_combat-casting), [Empower Spell](../feats#_empower-spell), Greater [Spell Focus](../feats#_spell-focus) (enchantment), [Heighten Spell](../feats#_heighten-spell), [Improved Initiative](../feats#_improved-initiative), Improved [Iron Will](../feats#_iron-will), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Point-Blank Shot](../feats#_point-blank-shot), [Scribe Scroll](../feats#_scribe-scroll), [Spell Focus](../feats#_spell-focus) (enchantment), [Weapon Finesse](../feats#_weapon-finesse), [Weapon Focus](../feats#_weapon-focus) (ray)
+**Feats** [Combat Casting](../../feats#_combat-casting), [Empower Spell](../../feats#_empower-spell), Greater [Spell Focus](../../feats#_spell-focus) (enchantment), [Heighten Spell](../../feats#_heighten-spell), [Improved Initiative](../../feats#_improved-initiative), Improved [Iron Will](../../feats#_iron-will), [Iron Will](../../feats#_iron-will), [Lightning Reflexes](../../feats#_lightning-reflexes), [Point-Blank Shot](../../feats#_point-blank-shot), [Scribe Scroll](../../feats#_scribe-scroll), [Spell Focus](../../feats#_spell-focus) (enchantment), [Weapon Finesse](../../feats#_weapon-finesse), [Weapon Focus](../../feats#_weapon-focus) (ray)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +27, [Bluff](../skills_dir/bluff#_bluff) +14, [Climb](../skills_dir/climb#_climb) +7, [Disable Device](../skills_dir/disableDevice#_disable-device) +27, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +27, [Fly](../skills_dir/fly#_fly) +10, [Intimidate](../skills_dir/intimidate#_intimidate) +14, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana, dungeoneering, engineering, history, local) +16, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +21, Perception +25, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +8, [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) +27, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +21 (+23 to identify magic item properties), [Stealth](../skills_dir/stealth#_stealth) +27, [Survival](../skills_dir/survival#_survival) +10, [Swim](../skills_dir/swim#_swim) +12, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +24
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +27, [Bluff](../../skills_dir/bluff#_bluff) +14, [Climb](../../skills_dir/climb#_climb) +7, [Disable Device](../../skills_dir/disableDevice#_disable-device) +27, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +27, [Fly](../../skills_dir/fly#_fly) +10, [Intimidate](../../skills_dir/intimidate#_intimidate) +14, [Knowledge](../../skills_dir/knowledge#_knowledge) (arcana, dungeoneering, engineering, history, local) +16, [Knowledge](../../skills_dir/knowledge#_knowledge) (religion) +21, Perception +25, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +8, [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand) +27, [Spellcraft](../../skills_dir/spellcraft#_spellcraft) +21 (+23 to identify magic item properties), [Stealth](../../skills_dir/stealth#_stealth) +27, [Survival](../../skills_dir/survival#_survival) +10, [Swim](../../skills_dir/swim#_swim) +12, [Use Magic Device](../../skills_dir/useMagicDevice#_use-magic-device) +24
 
 **Languages** Abyssal, Celestial, Common, Dwarven, Elf, Giant, Goblin, Ignan, Infernal
 
-**SQ** arcane bond (_+1 [unholy](../magicItems_dir/weapons#_unholy) longsword_), elven magic, enchanting smile, invisible thief (10 rounds_dir/day), ranged legerdemain, rogue talents (finesse rogue), trapfinding +1, tricky spell 5_dir/day, weapon familiarity
+**SQ** arcane bond (_+1 [unholy](../../magicItems_dir/weapons#_unholy) longsword_), elven magic, enchanting smile, invisible thief (10 rounds_dir/day), ranged legerdemain, rogue talents (finesse rogue), trapfinding +1, tricky spell 5_dir/day, weapon familiarity
 
-**Combat Gear** _potions of cure serious wounds_ (2), _wand of [lightning bolt](../spells_dir/lightningBolt#_lightning-bolt)_ (15 charges); **Other Gear** _+1 [unholy](../magicItems_dir/weapons#_unholy) rapier, [amulet of natural armor](../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [bag of holding](../magicItems_dir/wondrousItems#_bag-of-holding) _(type II), _ [belt of physical might](../magicItems_dir/wondrousItems#_belt-of-physical-might) +4_ (Dex, Con), _ [bracers of armor](../magicItems_dir/wondrousItems#_bracers-of-armor) +5_, _ [cloak of resistance](../magicItems_dir/wondrousItems#_cloak-of-resistance) +3_, _ [headband of vast intelligence](../magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +6_, _ [ring of protection](../magicItems_dir/rings#_ring-of-protection) +3,_ 805 gp
+**Combat Gear** _potions of cure serious wounds_ (2), _wand of [lightning bolt](../../spells_dir/lightningBolt#_lightning-bolt)_ (15 charges); **Other Gear** _+1 [unholy](../../magicItems_dir/weapons#_unholy) rapier, [amulet of natural armor](../../magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [bag of holding](../../magicItems_dir/wondrousItems#_bag-of-holding) _(type II), _ [belt of physical might](../../magicItems_dir/wondrousItems#_belt-of-physical-might) +4_ (Dex, Con), _ [bracers of armor](../../magicItems_dir/wondrousItems#_bracers-of-armor) +5_, _ [cloak of resistance](../../magicItems_dir/wondrousItems#_cloak-of-resistance) +3_, _ [headband of vast intelligence](../../magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +6_, _ [ring of protection](../../magicItems_dir/rings#_ring-of-protection) +3,_ 805 gp
 
 Often serving the priesthood of vile cults, these tricksters steal from powerful good temples.
 

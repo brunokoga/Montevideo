@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/barkskin
 ---
 Barkskin
 
-**Source** [_barkskin_](../spells_dir/barkskin#_barkskin)
+**Source** [_barkskin_](../../spells_dir/barkskin#_barkskin)
 
 The target also gains DR_dir/magic equal to the double the enhancement bonus the spell provides to the target's natural armor bonus.
 

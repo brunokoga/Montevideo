@@ -8,7 +8,7 @@ Air Bubble
 
 **Casting Time** 1 standard action
 
-**Components** S, M_dir/DF (a small bladder filled with [air](../monsters_dir/creatureTypes#_air-subtype))
+**Components** S, M_dir/DF (a small bladder filled with [air](../../monsters_dir/creatureTypes#_air-subtype))
 
 **Range** touch
 

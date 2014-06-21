@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/mythicSeverance
 ---
 Mythic Severance
 
-**School** necromancy [[curse](../monsters_dir/universalMonsterRules#_curse)]; **Level** cleric 4, inquisitor 3, sorcerer_dir/wizard 4, witch 4
+**School** necromancy [[curse](../../monsters_dir/universalMonsterRules#_curse)]; **Level** cleric 4, inquisitor 3, sorcerer_dir/wizard 4, witch 4
 
 **Casting Time** 1 standard action
 

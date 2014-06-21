@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/tsunami
 ---
 Tsunami
 
-**Source** [_tsunami_](../advanced_dir/spells_dir/tsunami#_tsunami)
+**Source** [_tsunami_](../../advanced_dir/spells_dir/tsunami#_tsunami)
 
 The wave increases to 20 feet wide per caster level and 3 feet tall per caster level. The damage dealt to those struck by the wave increases to 12d6 points of bludgeoning damage. Add your tier to the wave's special combat maneuver check. The damage dealt to those that fail to escape the wave increases to 6d8 points of bludgeoning damage.
 

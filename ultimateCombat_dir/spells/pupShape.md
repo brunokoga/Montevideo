@@ -12,7 +12,7 @@ Pup Shape
 
 **Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one [animal](../monsters_dir/creatureTypes#_animal) or [magical beast](../monsters_dir/creatureTypes#_magical-beast).
+**Target** one [animal](../../monsters_dir/creatureTypes#_animal) or [magical beast](../../monsters_dir/creatureTypes#_magical-beast).
 
 **Duration** 1 round_dir/level
 

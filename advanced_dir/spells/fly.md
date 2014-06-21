@@ -2,7 +2,7 @@
 layout: default
 title: advanced_dir/spells_dir/fly
 ---
- **[Fly](../../../skills_dir/fly#_fly), Mass**
+ **[Fly](../../../../skills_dir/fly#_fly), Mass**
 
 **School** transmutation; **Level** sorcerer_dir/wizard 7
 
@@ -18,5 +18,5 @@ title: advanced_dir/spells_dir/fly
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as _ [fly](../../../spells_dir/fly)_ (_Core Rulebook_ 284), save that it can target numerous creatures and lasts longer.
+This spell functions as _ [fly](../../../../spells_dir/fly)_ (_Core Rulebook_ 284), save that it can target numerous creatures and lasts longer.
 

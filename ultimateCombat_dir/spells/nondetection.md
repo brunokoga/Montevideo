@@ -10,5 +10,5 @@ Nondetection, Communal
 
 **Target** creatures or objects touched
 
-This spell functions like _ [nondetection](../spells_dir/nondetection#_nondetection)_, except you divide the duration in 1-hour increments among the creatures or objects touched.
+This spell functions like _ [nondetection](../../spells_dir/nondetection#_nondetection)_, except you divide the duration in 1-hour increments among the creatures or objects touched.
 

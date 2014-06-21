@@ -14,7 +14,7 @@ Human bard 1_dir/rogue 2
 
 N Medium humanoid
 
-**Init** +2; **Senses** [Perception](../../../skills_dir/perception#_perception) +5
+**Init** +2; **Senses** [Perception](../../../../skills_dir/perception#_perception) +5
 
 **Defense**
 
@@ -38,9 +38,9 @@ N Medium humanoid
 
 **Bard Spells Known** (CL 1st; concentration +4)
 
-1st (2_dir/day)—_ [silent image](../../../spells_dir/silentImage#_silent-image)_ (DC 14), _ [sleep](../../../spells_dir/sleep#_sleep)_ (DC 14)
+1st (2_dir/day)—_ [silent image](../../../../spells_dir/silentImage#_silent-image)_ (DC 14), _ [sleep](../../../../spells_dir/sleep#_sleep)_ (DC 14)
 
-0 (at will)—_ [dancing lights](../../../spells_dir/dancingLights#_dancing-lights)_, _ [lullaby](../../../spells_dir/lullaby#_lullaby) _(DC 13), _ [mending](../../../spells_dir/mending#_mending)_, _ [prestidigitation](../../../spells_dir/prestidigitation#_prestidigitation)_
+0 (at will)—_ [dancing lights](../../../../spells_dir/dancingLights#_dancing-lights)_, _ [lullaby](../../../../spells_dir/lullaby#_lullaby) _(DC 13), _ [mending](../../../../spells_dir/mending#_mending)_, _ [prestidigitation](../../../../spells_dir/prestidigitation#_prestidigitation)_
 
 **Statistics**
 
@@ -48,15 +48,15 @@ N Medium humanoid
 
 **Base Atk** +1; **CMB** +2; **CMD** 15
 
-**Feats** [Deceitful](../../../feats#_deceitful), [Deft Hands](../../../feats#_deft-hands), [Dodge](../../../feats#_dodge)
+**Feats** [Deceitful](../../../../feats#_deceitful), [Deft Hands](../../../../feats#_deft-hands), [Dodge](../../../../feats#_dodge)
 
-**Skills** [Acrobatics](../../../skills_dir/acrobatics#_acrobatics) +7, [Bluff](../../../skills_dir/bluff#_bluff) +11, [Disable Device](../../../skills_dir/disableDevice#_disable-device) +12, [Disguise](../../../skills_dir/disguise#_disguise) +13, [Escape Artist](../../../skills_dir/escapeArtist#_escape-artist) +6, [Handle Animal](../../../skills_dir/handleAnimal#_handle-animal) +4, [Knowledge](../../../skills_dir/knowledge#_knowledge) (local) +5, [Perception](../../../skills_dir/perception#_perception) +5, [Perform](../../../skills_dir/perform#_perform) (dance) +8, [Perform](../../../skills_dir/perform#_perform) (percussion) +10, [Sleight of Hand](../../../skills_dir/sleightOfHand#_sleight-of-hand) +10, [Stealth](../../../skills_dir/stealth#_stealth) +8
+**Skills** [Acrobatics](../../../../skills_dir/acrobatics#_acrobatics) +7, [Bluff](../../../../skills_dir/bluff#_bluff) +11, [Disable Device](../../../../skills_dir/disableDevice#_disable-device) +12, [Disguise](../../../../skills_dir/disguise#_disguise) +13, [Escape Artist](../../../../skills_dir/escapeArtist#_escape-artist) +6, [Handle Animal](../../../../skills_dir/handleAnimal#_handle-animal) +4, [Knowledge](../../../../skills_dir/knowledge#_knowledge) (local) +5, [Perception](../../../../skills_dir/perception#_perception) +5, [Perform](../../../../skills_dir/perform#_perform) (dance) +8, [Perform](../../../../skills_dir/perform#_perform) (percussion) +10, [Sleight of Hand](../../../../skills_dir/sleightOfHand#_sleight-of-hand) +10, [Stealth](../../../../skills_dir/stealth#_stealth) +8
 
 **Languages** Common
 
 **SQ** bardic knowledge +1, rogue talent (stand up), trapfinding +1
 
-**Combat Gear** _scrolls of [cure light wounds](../../../spells_dir/cureLightWounds#_cure-light-wounds)_, _ [disguise self](../../../spells_dir/disguiseSelf#_disguise-self)_, _ [invisibility](../../../spells_dir/invisibility#_invisibility) _(2), smokesticks (2), tanglefoot bag, thunderstones (2); **Other Gear** leather armor, daggers (5), disguise kit, masterwork tambourine, masterwork thieves' tools, mule and wagon, 25 gp
+**Combat Gear** _scrolls of [cure light wounds](../../../../spells_dir/cureLightWounds#_cure-light-wounds)_, _ [disguise self](../../../../spells_dir/disguiseSelf#_disguise-self)_, _ [invisibility](../../../../spells_dir/invisibility#_invisibility) _(2), smokesticks (2), tanglefoot bag, thunderstones (2); **Other Gear** leather armor, daggers (5), disguise kit, masterwork tambourine, masterwork thieves' tools, mule and wagon, 25 gp
 
 **Boon** A wanderer can smuggle an item or person into or out of a guarded city or encampment in their wagons or as part of their troupe.
 
@@ -74,7 +74,7 @@ Human commoner 2_dir/warrior 1
 
 N Medium humanoid
 
-**Init** +1; **Senses** [Perception](../../../skills_dir/perception#_perception) +7
+**Init** +1; **Senses** [Perception](../../../../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -98,21 +98,21 @@ N Medium humanoid
 
 **Base Atk** +2; **CMB** +3; **CMD** 14
 
-**Feats** [Alertness](../../../feats#_alertness), Point Blank Shot, [Rapid Shot](../../../feats#_rapid-shot)
+**Feats** [Alertness](../../../../feats#_alertness), Point Blank Shot, [Rapid Shot](../../../../feats#_rapid-shot)
 
-**Skills** [Climb](../../../skills_dir/climb#_climb) +3, [Handle Animal](../../../skills_dir/handleAnimal#_handle-animal) +3, [Knowledge](../../../skills_dir/knowledge#_knowledge) (geography) +1, [Knowledge](../../../skills_dir/knowledge#_knowledge) (local) +1, [Perception](../../../skills_dir/perception#_perception) +7, [Ride](../../../skills_dir/ride#_ride) +3, [Sense Motive](../../../skills_dir/senseMotive#_sense-motive) +2, [Survival](../../../skills_dir/survival#_survival) +1, [Swim](../../../skills_dir/swim#_swim) +3
+**Skills** [Climb](../../../../skills_dir/climb#_climb) +3, [Handle Animal](../../../../skills_dir/handleAnimal#_handle-animal) +3, [Knowledge](../../../../skills_dir/knowledge#_knowledge) (geography) +1, [Knowledge](../../../../skills_dir/knowledge#_knowledge) (local) +1, [Perception](../../../../skills_dir/perception#_perception) +7, [Ride](../../../../skills_dir/ride#_ride) +3, [Sense Motive](../../../../skills_dir/senseMotive#_sense-motive) +2, [Survival](../../../../skills_dir/survival#_survival) +1, [Swim](../../../../skills_dir/swim#_swim) +3
 
 **Languages** Common
 
 **Gear** masterwork chain shirt, buckler, battleaxe, dagger, masterwork composite longbow (+1 Str) with 20 arrows, mule, saddle
 
-**Boon** A vagabond can give accurate directions to any known landmark or settlement within 50 miles (+5 on [Survival](../../../skills_dir/survival#_survival) checks to avoid getting lost) and general information about likely dangers (terrain or hostile creatures) along the way.
+**Boon** A vagabond can give accurate directions to any known landmark or settlement within 50 miles (+5 on [Survival](../../../../skills_dir/survival#_survival) checks to avoid getting lost) and general information about likely dangers (terrain or hostile creatures) along the way.
 
 Vagabonds are drifters who wander the roads, picking up odd jobs but rarely letting the sun set on them in the same place twice. Vagabonds have a few skills that can help them get odd jobs in communities they pass through, but often possess skills in combat as well, as no road is ever truly safe.
 
 Vagabonds serve well as hunters, woodsmen, and herders who live on the fringes of society. A vagabond might also work as a traveling peddler or merchant, or serve as a scout for a town militia.
 
-Vagabonds make good low-level archers, and this skill can be improved by replacing the [Alertness](../../../feats#_alertness) feat with [Far Shot](../../../feats#_far-shot), [Precise Shot](../../../feats#_precise-shot), or [Weapon Focus](../../../feats#_weapon-focus) (longbow). Alternatively, you can replace the archery feats with [Power Attack](../../../feats#_power-attack) and [Toughness](../../../feats#_toughness) to make a vagabond better in melee combat.
+Vagabonds make good low-level archers, and this skill can be improved by replacing the [Alertness](../../../../feats#_alertness) feat with [Far Shot](../../../../feats#_far-shot), [Precise Shot](../../../../feats#_precise-shot), or [Weapon Focus](../../../../feats#_weapon-focus) (longbow). Alternatively, you can replace the archery feats with [Power Attack](../../../../feats#_power-attack) and [Toughness](../../../../feats#_toughness) to make a vagabond better in melee combat.
 
 Vagabonds are usually loners, but may partner with a caravan guard, storyteller, or pair of farmers (CR 3). Two vagabonds might join a troupe of four wanderers (CR 7), or occasionally travel in small groups of four, accompanied by a single wanderer, pilgrim, or trapper (CR 6).
 
@@ -124,7 +124,7 @@ Human commoner 5
 
 NG Medium humanoid
 
-**Init** +0; **Senses** [Perception](../../../skills_dir/perception#_perception) +7
+**Init** +0; **Senses** [Perception](../../../../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -148,15 +148,15 @@ NG Medium humanoid
 
 **Base Atk** +2; **CMB** +2; **CMD** 12
 
-**Feats** [Alertness](../../../feats#_alertness), [Endurance](../../../feats#_endurance), [Iron Will](../../../feats#_iron-will), [Skill Focus](../../../feats#_skill-focus) ( [Heal](../../../skills_dir/heal#_heal))
+**Feats** [Alertness](../../../../feats#_alertness), [Endurance](../../../../feats#_endurance), [Iron Will](../../../../feats#_iron-will), [Skill Focus](../../../../feats#_skill-focus) ( [Heal](../../../../skills_dir/heal#_heal))
 
-**Skills** [Handle Animal](../../../skills_dir/handleAnimal#_handle-animal) +5, [Heal](../../../skills_dir/heal#_heal) +10, [Knowledge](../../../skills_dir/knowledge#_knowledge) (religion) +5, [Perception](../../../skills_dir/perception#_perception) +7, [Perform](../../../skills_dir/perform#_perform) (sing) +5, [Profession](../../../skills_dir/profession#_profession) (midwife) +5, [Ride](../../../skills_dir/ride#_ride) +5, [Sense Motive](../../../skills_dir/senseMotive#_sense-motive) +7, [Swim](../../../skills_dir/swim#_swim) +5
+**Skills** [Handle Animal](../../../../skills_dir/handleAnimal#_handle-animal) +5, [Heal](../../../../skills_dir/heal#_heal) +10, [Knowledge](../../../../skills_dir/knowledge#_knowledge) (religion) +5, [Perception](../../../../skills_dir/perception#_perception) +7, [Perform](../../../../skills_dir/perform#_perform) (sing) +5, [Profession](../../../../skills_dir/profession#_profession) (midwife) +5, [Ride](../../../../skills_dir/ride#_ride) +5, [Sense Motive](../../../../skills_dir/senseMotive#_sense-motive) +7, [Swim](../../../../skills_dir/swim#_swim) +5
 
 **Languages** Common
 
-**Combat Gear** _potions of [cure light wounds](../../../spells_dir/cureLightWounds#_cure-light-wounds)_, _ [neutralize poison](../../../spells_dir/neutralizePoison#_neutralize-poison)_, _ [remove blindness_dir/deafness](../../../spells_dir/removeBlindnessDeafness#_remove-blindness-deafness)_, _ [remove disease](../../../spells_dir/removeDisease#_remove-disease)_, and _ [sanctuary](../../../spells_dir/sanctuary#_sanctuary)_; vial of holy water; **Other Gear** padded armor, spear, healer's kit, wooden holy symbol, mule
+**Combat Gear** _potions of [cure light wounds](../../../../spells_dir/cureLightWounds#_cure-light-wounds)_, _ [neutralize poison](../../../../spells_dir/neutralizePoison#_neutralize-poison)_, _ [remove blindness_dir/deafness](../../../../spells_dir/removeBlindnessDeafness#_remove-blindness-deafness)_, _ [remove disease](../../../../spells_dir/removeDisease#_remove-disease)_, and _ [sanctuary](../../../../spells_dir/sanctuary#_sanctuary)_; vial of holy water; **Other Gear** padded armor, spear, healer's kit, wooden holy symbol, mule
 
-**Boon** A pilgrim will tend the wounds of injured PCs with her [Heal](../../../skills_dir/heal#_heal) skill or one of her healing potions if the need is great or if the PCs make a donation to her church of at least half the potion's price.
+**Boon** A pilgrim will tend the wounds of injured PCs with her [Heal](../../../../skills_dir/heal#_heal) skill or one of her healing potions if the need is great or if the PCs make a donation to her church of at least half the potion's price.
 
 Pilgrims are religious mendicants who roam the long roads visiting shrines, temples, and other places sacred to their faith. They are ordinary folk, little trained in formal theology but with a passion for spreading their religion through their travels, being of service to all that they meet, and healing the hurts of a sad and lonely world.
 

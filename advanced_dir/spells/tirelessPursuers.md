@@ -14,5 +14,5 @@ title: advanced_dir/spells_dir/tirelessPursuers
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as _ [tireless pursuit](../tirelessPursuit#_tireless-pursuit)_, except as noted above.
+This spell functions as _ [tireless pursuit](../../tirelessPursuit#_tireless-pursuit)_, except as noted above.
 

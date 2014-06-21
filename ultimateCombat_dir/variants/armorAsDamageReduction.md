@@ -34,13 +34,13 @@ Armor in this system keeps all of its normal statistics and qualities, but its a
 
 **Natural Armor Bonus and DR** : Like a creature's armor bonus, a natural armor bonus is also converted into damage reduction. If a creature is wearing armor and has a natural armor bonus, the creature adds its armor bonus to its natural armor bonus to determine the amount of DR_dir/armor that it has (see Table 5–2).
 
-For instance, if a creature wearing a _+2 chain shirt_ has DR 6_dir/armor is then subject to a _ [barkskin](../spells_dir/barkskin#_barkskin) _spell cast by a 6th-level druid (gaining a +3 natural armor bonus), its DR becomes DR 9_dir/armor for the duration of the spell. This DR is bypassed by adamantine, or the attacks of Huge or larger creatures.
+For instance, if a creature wearing a _+2 chain shirt_ has DR 6_dir/armor is then subject to a _ [barkskin](../../spells_dir/barkskin#_barkskin) _spell cast by a 6th-level druid (gaining a +3 natural armor bonus), its DR becomes DR 9_dir/armor for the duration of the spell. This DR is bypassed by adamantine, or the attacks of Huge or larger creatures.
 
 A creature that has both DR from a source other than armor and a natural armor bonus gains the effects of an enhanced form of DR, similar to how the composition of the armor grants special DR_dir/armor defenses (see Table 5–1). If a creature has magical armor, natural armor, and DR, it takes the best form of the special protection provided by both its armor and its mix of DR and natural armor to its DR_dir/armor.
 
 For instance, if a creature has natural armor and DR_dir/magic and is wearing adamantine armor, that creature's DR_dir/armor functions as DR_dir/—, and can be bypassed by Gargantuan or larger creatures, since the adamantine armor provides the best of the two damage reductions.
 
-**Unusual Creatures and Armor DR** : Amorphous or incorporeal creatures have an easier time bypassing DR_dir/armor. When they attack a creature with DR_dir/armor, they typically treat that DR as a fraction of the DR_dir/armor. Attacks by incorporeal creatures entirely ignore the DR unless that DR comes from a force effect or from armor with the _ [ghost touch](../magicItems_dir/weapons#_weapons-ghost-touch)_ special armor quality. These traits are detailed in Table 5–3.
+**Unusual Creatures and Armor DR** : Amorphous or incorporeal creatures have an easier time bypassing DR_dir/armor. When they attack a creature with DR_dir/armor, they typically treat that DR as a fraction of the DR_dir/armor. Attacks by incorporeal creatures entirely ignore the DR unless that DR comes from a force effect or from armor with the _ [ghost touch](../../magicItems_dir/weapons#_weapons-ghost-touch)_ special armor quality. These traits are detailed in Table 5–3.
 
 # Critical Hits and Defense
 
@@ -56,7 +56,7 @@ For instance, if a Medium creature is hit with a crossbow fired by a Medium 6th-
 
 On a failed critical defense check, the target of the critical hit takes the damage for the critical hit. That damage is still reduced by the target of the critical hit's DR.
 
-**Fortification Special Armor Quality** : The _ [fortification](../magicItems_dir/armor#_armor-fortification)_ special armor quality acts in concert with the check, coming into play if the armor check fails.
+**Fortification Special Armor Quality** : The _ [fortification](../../magicItems_dir/armor#_armor-fortification)_ special armor quality acts in concert with the check, coming into play if the armor check fails.
 
 [Table: Armor Composition and DR]
 | Material | Dr Provided | Attacker Size to Bypass DR |
@@ -83,7 +83,7 @@ On a failed critical defense check, the target of the critical hit takes the dam
 | Attacking Creature Type | DR Modifier |
 | --- | --- |
 | Amorphousⁱ | ×1_dir/2 |
-| Incorporeal | ×0 (×1 if DR is from a force effect or _ [ghost touch](../magicItems_dir/weapons#_weapons-ghost-touch)_ armor) |
+| Incorporeal | ×0 (×1 if DR is from a force effect or _ [ghost touch](../../magicItems_dir/weapons#_weapons-ghost-touch)_ armor) |
 | Swarm of Tiny creatures | ×1_dir/2 |
 | Swarm of Diminutive creatures | ×1_dir/4 |
 | Swarm of Fine creatures | ×0 |

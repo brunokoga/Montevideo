@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/hexWard
 ---
 Hex Ward
 
-**Source** [_hex ward_](../ultimateMagic_dir/spells_dir/hexWard#_hex-ward)
+**Source** [_hex ward_](../../ultimateMagic_dir/spells_dir/hexWard#_hex-ward)
 
 The target gains immunity to one witch hex (but not a major hex or grand hex) of your choice.
 

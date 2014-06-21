@@ -83,19 +83,19 @@ Construction Requirements
 
 **Cost** 7,000 gp
 
-Craft Wondrous Item, _ [remove fear](../spells_dir/removeFear#_remove-fear)_
+Craft Wondrous Item, _ [remove fear](../../spells_dir/removeFear#_remove-fear)_
 
 Dead Man's Headband
 
 **Price** 3,600 gp; **Aura** faint enchantment and abjuration; **CL** 1st; **Weight** 1 lb.
 
-This taut black band, clipped with a black metal skull, can be attached on the outside of a hat or other head slot item or can be worn as a normal headband. The wearer gains a +2 competence bonus on [Intimidate](../skills_dir/intimidate#_intimidate) checks and increases the DC of any fear effect he creates by +1. In addition, if this headband is attached to the outside of a hat, the wearer's hat or headgear cannot be blown off or removed by wind, water, or environmental effects, and the wearer gains a +5 circumstance bonus to his CMD against steal and sunder attempts targeting his headgear.
+This taut black band, clipped with a black metal skull, can be attached on the outside of a hat or other head slot item or can be worn as a normal headband. The wearer gains a +2 competence bonus on [Intimidate](../../skills_dir/intimidate#_intimidate) checks and increases the DC of any fear effect he creates by +1. In addition, if this headband is attached to the outside of a hat, the wearer's hat or headgear cannot be blown off or removed by wind, water, or environmental effects, and the wearer gains a +5 circumstance bonus to his CMD against steal and sunder attempts targeting his headgear.
 
 Construction Requirements
 
 **Cost** 1,800 gp
 
-Craft Wondrous Item, _ [doom](../spells_dir/doom#_doom), [shrink item](../spells_dir/shrinkItem#_shrink-item)_
+Craft Wondrous Item, _ [doom](../../spells_dir/doom#_doom), [shrink item](../../spells_dir/shrinkItem#_shrink-item)_
 
 Headband of Aerial Agility
 
@@ -103,9 +103,9 @@ Headband of Aerial Agility
 
 **+2 Intelligence, Wisdom, or Charisma** 4,500 gp; **+4 Intelligence, Wisdom, or Charisma** 42,000 gp; **+6 Intelligence, Wisdom, or Charisma** 81,000 gp
 
-This headband is decorated with feathers from a number of colorful birds. It grants boons to flying magic, and more powerful versions grant the power of flight. The wearer of a _headband of aerial agility +2_ treats his caster level as if it were one level higher when casting spells or creating extracts that grant flight. A _headband of aerial agility +4_ gains the same benefits and, on command, grants the wearer the ability to fly (as the _ [fly](../spells_dir/fly)_ spell) three times per day. A _headband of aerial agility +6_ functions like a +4 version, but the headband grants the ability to use _ [fly](../spells_dir/fly)_ at will.
+This headband is decorated with feathers from a number of colorful birds. It grants boons to flying magic, and more powerful versions grant the power of flight. The wearer of a _headband of aerial agility +2_ treats his caster level as if it were one level higher when casting spells or creating extracts that grant flight. A _headband of aerial agility +4_ gains the same benefits and, on command, grants the wearer the ability to fly (as the _ [fly](../../spells_dir/fly)_ spell) three times per day. A _headband of aerial agility +6_ functions like a +4 version, but the headband grants the ability to use _ [fly](../../spells_dir/fly)_ at will.
 
-All versions also grant the wearer an enhancement bonus to one mental ability score (Intelligence, Wisdom, or Charisma) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. This bonus is chosen when the headband is created and cannot be changed. If the headband grants a bonus to Intelligence, it also grants skill ranks as a _headband of vast intelligence_, usually granting ranks in [Fly](../skills_dir/fly#_fly), [Acrobatics](../skills_dir/acrobatics#_acrobatics), or [Knowledge](../skills_dir/knowledge#_knowledge) (planes).
+All versions also grant the wearer an enhancement bonus to one mental ability score (Intelligence, Wisdom, or Charisma) of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. This bonus is chosen when the headband is created and cannot be changed. If the headband grants a bonus to Intelligence, it also grants skill ranks as a _headband of vast intelligence_, usually granting ranks in [Fly](../../skills_dir/fly#_fly), [Acrobatics](../../skills_dir/acrobatics#_acrobatics), or [Knowledge](../../skills_dir/knowledge#_knowledge) (planes).
 
 Construction Requirements
 
@@ -113,7 +113,7 @@ Construction Requirements
 
 **+2 Intelligence, Wisdom, or Charisma** 2,250 gp; **+4 Intelligence, Wisdom, or Charisma** 21,000 gp; **+6 Intelligence, Wisdom, or Charisma** 40,500 gp
 
-Craft Wondrous Item, [Extend Spell](../feats#_extend-spell), _ [fly](../spells_dir/fly)_
+Craft Wondrous Item, [Extend Spell](../../feats#_extend-spell), _ [fly](../../spells_dir/fly)_
 
 Headband of Alluring Charisma
 
@@ -129,7 +129,7 @@ Construction Requirements
 
 **+2 Charisma** 2,000 gp; **+4 Charisma** 8,000 gp; **+6 Charisma** 18,000 gp
 
-Craft Wondrous Item, _ [eagle's splendor](../spells_dir/eagleSSplendor#_eagle-s-splendor)_
+Craft Wondrous Item, _ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor)_
 
 headband of Arcane energy
 
@@ -141,25 +141,25 @@ Construction Requirements
 
 **Cost** 10,000 gp
 
-Arcane Blast, [Arcane Shield](../advanced_dir/advancedFeats#_arcane-shield), [Craft Wondrous Item](../feats#_craft-wondrous-item), _ [prismatic spray](../spells_dir/prismaticSpray#_prismatic-spray)_
+Arcane Blast, [Arcane Shield](../../advanced_dir/advancedFeats#_arcane-shield), [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [prismatic spray](../../spells_dir/prismaticSpray#_prismatic-spray)_
 
 headband of counterspelling
 
 **Price** 20,000 gp; **Aura** strong abjuration; **CL** 13th; **Weight** 1 lb.
 
-This metal headband grants a +5 insight bonus on [Spellcraft](../skills_dir/spellcraft#_spellcraft) checks made to identify a spell as it is being cast. Furthermore, once per day the wearer can attempt to counter a spell by casting the appropriate spell as an immediate action instead of doing so with a readied action. The wearer must first identify the spell being cast before countering a spell with this headband.
+This metal headband grants a +5 insight bonus on [Spellcraft](../../skills_dir/spellcraft#_spellcraft) checks made to identify a spell as it is being cast. Furthermore, once per day the wearer can attempt to counter a spell by casting the appropriate spell as an immediate action instead of doing so with a readied action. The wearer must first identify the spell being cast before countering a spell with this headband.
 
 Construction Requirements
 
 **Cost** 10,000 gp
 
-Craft Wondrous Item, _ [spell turning](../spells_dir/spellTurning#_spell-turning)_
+Craft Wondrous Item, _ [spell turning](../../spells_dir/spellTurning#_spell-turning)_
 
 Headband of deathless devotion
 
 **Price** 6,400 gp; **Aura** faint enchantment; **CL** 1st; **Weight** 1 lb.
 
-This white headband, often painted or embroidered with calligraphy or a stylized pictogram such as a sunburst, helps focus the wearer's resolve and absolute determination to survive and succeed. The wearer gains a +2 morale bonus on stabilization checks and on saving throws against ongoing effects with recurring saves, such as diseases, poisons, or compulsions such as _ [dominate person](../spells_dir/dominatePerson#_dominate-person) _or _ [hold person](../spells_dir/holdPerson#_hold-person)_.
+This white headband, often painted or embroidered with calligraphy or a stylized pictogram such as a sunburst, helps focus the wearer's resolve and absolute determination to survive and succeed. The wearer gains a +2 morale bonus on stabilization checks and on saving throws against ongoing effects with recurring saves, such as diseases, poisons, or compulsions such as _ [dominate person](../../spells_dir/dominatePerson#_dominate-person) _or _ [hold person](../../spells_dir/holdPerson#_hold-person)_.
 
 If the wearer is a samurai, he treats his resolve ability as if he were two class levels higher.
 
@@ -167,7 +167,7 @@ Construction Requirements
 
 **Cost** 3,200 gp
 
-Craft Wondrous Item, _ [heroism](../spells_dir/heroism#_heroism), [stabilize](../spells_dir/stabilize#_stabilize)_
+Craft Wondrous Item, _ [heroism](../../spells_dir/heroism#_heroism), [stabilize](../../spells_dir/stabilize#_stabilize)_
 
 Headband of Fortune's Favor
 
@@ -175,13 +175,13 @@ Headband of Fortune's Favor
 
 This multicolored headband with beaded tassels tips luck in the wearer's favor. The wearer gains a +1 luck bonus on saving throws.
 
-Any effect that gives the wearer a luck bonus (such as a _ [divine favor](../spells_dir/divineFavor#_divine-favor)_ or _ [prayer](../spells_dir/prayer#_prayer)_ spell) or explicitly increases the wearer's good luck (such as a witch's fortune hex, the Luck domain's bit of luck domain power, and so on) lasts for 1 round longer than normal on the wearer. Abilities without a time-based duration (such as carrying a _stone of good luck_) are unaffected by the headband.
+Any effect that gives the wearer a luck bonus (such as a _ [divine favor](../../spells_dir/divineFavor#_divine-favor)_ or _ [prayer](../../spells_dir/prayer#_prayer)_ spell) or explicitly increases the wearer's good luck (such as a witch's fortune hex, the Luck domain's bit of luck domain power, and so on) lasts for 1 round longer than normal on the wearer. Abilities without a time-based duration (such as carrying a _stone of good luck_) are unaffected by the headband.
 
 Construction Requirements
 
 **Cost** 3,850 gp
 
-Craft Wondrous Item, _ [ill omen](../advanced_dir/spells_dir/illOmen#_ill-omen)_ or _ [prayer](../spells_dir/prayer#_prayer)_
+Craft Wondrous Item, _ [ill omen](../../advanced_dir/spells_dir/illOmen#_ill-omen)_ or _ [prayer](../../spells_dir/prayer#_prayer)_
 
 Headband of Havoc
 
@@ -195,7 +195,7 @@ Construction Requirements
 
 **Cost** 4,000 gp
 
-Craft Wondrous Item, _ [rage](../spells_dir/rage#_rage)_
+Craft Wondrous Item, _ [rage](../../spells_dir/rage#_rage)_
 
 Headband of inspired wisdom
 
@@ -211,25 +211,25 @@ Construction Requirements
 
 **+2 Wisdom** 2,000 gp; **+4 Wisdom** 8,000 gp; **+6 Wisdom** 18,000 gp
 
-Craft Wondrous Item, _ [owl's wisdom](../spells_dir/owlSWisdom#_owl-s-wisdom)_
+Craft Wondrous Item, _ [owl's wisdom](../../spells_dir/owlSWisdom#_owl-s-wisdom)_
 
 Headband of Intuition
 
 **Price** 7,000 gp; **Aura** faint divination; **CL** 3rd; **Weight** 1 lb.
 
-This headband gives its wearer the gift of foresight, effectively allowing her to determine whether or not a particular course of action will grant weal and_dir/or woe. Three times per day the wearer of this headband can, as a standard action, gain information about a specified course of action as if using the _ [augury](../spells_dir/augury#_augury)_ spell, except that the wearer always gets a meaningful reply.
+This headband gives its wearer the gift of foresight, effectively allowing her to determine whether or not a particular course of action will grant weal and_dir/or woe. Three times per day the wearer of this headband can, as a standard action, gain information about a specified course of action as if using the _ [augury](../../spells_dir/augury#_augury)_ spell, except that the wearer always gets a meaningful reply.
 
 Construction Requirements
 
 **Cost** 3,500 gp
 
-Craft Wondrous Item, _ [augury](../spells_dir/augury#_augury)_
+Craft Wondrous Item, _ [augury](../../spells_dir/augury#_augury)_
 
 Headband of KI Focus
 
 **Price** 5,400 gp; **Aura** faint abjuration; **CL** 1st; **Weight** 1 lb.
 
-This tied headband helps the wearer focus his _ki _more effectively. Whenever the wearer spends _ki_ points to make an additional attack, that attack roll gains a +1 insight bonus (+2 if the wearer is using a _ [ki focus](../magicItems_dir/weapons#_weapons-ki-focus)_ weapon with that attack). Furthermore, the wearer of a _headband of [ki focus](../magicItems_dir/weapons#_weapons-ki-focus)_ is immune to the ninja's _ki_ block trick or similar effects that block the wearer from using _ki_ points.
+This tied headband helps the wearer focus his _ki _more effectively. Whenever the wearer spends _ki_ points to make an additional attack, that attack roll gains a +1 insight bonus (+2 if the wearer is using a _ [ki focus](../../magicItems_dir/weapons#_weapons-ki-focus)_ weapon with that attack). Furthermore, the wearer of a _headband of [ki focus](../../magicItems_dir/weapons#_weapons-ki-focus)_ is immune to the ninja's _ki_ block trick or similar effects that block the wearer from using _ki_ points.
 
 Construction Requirements
 
@@ -241,13 +241,13 @@ Headband of Knucklebones
 
 **Price** 27,500 gp; **Aura** moderate necromancy; **CL** 9th; **Weight** 1 lb.
 
-This headband is made of interlocked finger bones woven together by leathery tendons and gristle. The wearer may use _ [command undead](../spells_dir/commandUndead#_command-undead)_ up to three times per day, but only affecting zombies. Once per day, the wearer may use the headband to animate one Medium zombie as if using _ [animate dead](../spells_dir/animateDead#_animate-dead)_.
+This headband is made of interlocked finger bones woven together by leathery tendons and gristle. The wearer may use _ [command undead](../../spells_dir/commandUndead#_command-undead)_ up to three times per day, but only affecting zombies. Once per day, the wearer may use the headband to animate one Medium zombie as if using _ [animate dead](../../spells_dir/animateDead#_animate-dead)_.
 
 Construction Requirements
 
 **Cost** 13,750 gp
 
-Craft Wondrous Item, _ [animate dead](../spells_dir/animateDead#_animate-dead)_, _ [command undead](../spells_dir/commandUndead#_command-undead)_
+Craft Wondrous Item, _ [animate dead](../../spells_dir/animateDead#_animate-dead)_, _ [command undead](../../spells_dir/commandUndead#_command-undead)_
 
 Headband of mental prowess
 
@@ -267,7 +267,7 @@ Construction Requirements
 
 **+2 to two mental ability scores** 5,000 gp; **+4 to two mental ability scores** 20,000 gp; **+6 to two mental ability scores** 45,000 gp
 
-Craft Wondrous Item, _ [eagle's splendor](../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [fox's cunning](../spells_dir/foxSCunning#_fox-s-cunning)_, _ [owl's wisdom](../spells_dir/owlSWisdom#_owl-s-wisdom) _(any two)
+Craft Wondrous Item, _ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [fox's cunning](../../spells_dir/foxSCunning#_fox-s-cunning)_, _ [owl's wisdom](../../spells_dir/owlSWisdom#_owl-s-wisdom) _(any two)
 
 Headband of Mental Resilience
 
@@ -283,7 +283,7 @@ Construction Requirements
 
 **Cost** 32,000 gp
 
-Craft Wondrous Item, _ [eagle's splendor](../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [fox's cunning](../spells_dir/foxSCunning#_fox-s-cunning)_, _ [lesser restoration](../spells_dir/restoration#_restoration-lesser)_, _ [owl's wisdom](../spells_dir/owlSWisdom#_owl-s-wisdom)_
+Craft Wondrous Item, _ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [fox's cunning](../../spells_dir/foxSCunning#_fox-s-cunning)_, _ [lesser restoration](../../spells_dir/restoration#_restoration-lesser)_, _ [owl's wisdom](../../spells_dir/owlSWisdom#_owl-s-wisdom)_
 
 Headband of mental superiority
 
@@ -299,45 +299,45 @@ Construction Requirements
 
 **+2 Intelligence, Wisdom, and Charisma** 8,000 gp; **+4 Intelligence, Wisdom, and Charisma** 32,000 gp; **+6 Intelligence, Wisdom, and Charisma** 77,000 gp
 
-Craft Wondrous Item, _ [eagle's splendor](../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [fox's cunning](../spells_dir/foxSCunning#_fox-s-cunning)_, _ [owl's wisdom](../spells_dir/owlSWisdom#_owl-s-wisdom)_
+Craft Wondrous Item, _ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [fox's cunning](../../spells_dir/foxSCunning#_fox-s-cunning)_, _ [owl's wisdom](../../spells_dir/owlSWisdom#_owl-s-wisdom)_
 
 Headband of Ninjitsu
 
 **Price** 15,000 gp; **Aura** faint abjuration; **CL** 1st; **Weight** 1 lb.
 
-This simple black cloth band focuses the wearer's _ki_, helping her use subtle misdirection against opponents in combat. The wearer gains a +2 competence bonus on [Bluff](../skills_dir/bluff#_bluff) checks made to feint and combat maneuver checks made to reposition, and once per day she can attempt a feint or reposition maneuver as a swift action. The wearer also gains a +2 insight bonus on attack rolls on sneak attacks and can sneak attack creatures with concealment or total concealment, though miss chances apply normally.
+This simple black cloth band focuses the wearer's _ki_, helping her use subtle misdirection against opponents in combat. The wearer gains a +2 competence bonus on [Bluff](../../skills_dir/bluff#_bluff) checks made to feint and combat maneuver checks made to reposition, and once per day she can attempt a feint or reposition maneuver as a swift action. The wearer also gains a +2 insight bonus on attack rolls on sneak attacks and can sneak attack creatures with concealment or total concealment, though miss chances apply normally.
 
 Construction Requirements
 
 **Cost** 7,500 gp
 
-Craft Wondrous Item, _ [eagle's splendor](../spells_dir/eagleSSplendor#_eagle-s-splendor), [see invisibility](../spells_dir/seeInvisibility#_see-invisibility)_
+Craft Wondrous Item, _ [eagle's splendor](../../spells_dir/eagleSSplendor#_eagle-s-splendor), [see invisibility](../../spells_dir/seeInvisibility#_see-invisibility)_
 
 Headband of ponderous recollection
 
 **Price** 5,100 gp; **Aura** moderate divination and transmutation; **CL** 8th; **Weight** 1 lb.
 
-This black leather headband has two small amber gemstones set so they rest on the wearer's forehead. The headband grants the wearer a +2 enhancement bonus to Intelligence. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. It also grants skill ranks as a _headband of vast intelligence_, but always grants ranks in a [Knowledge](../skills_dir/knowledge#_knowledge) skill.
+This black leather headband has two small amber gemstones set so they rest on the wearer's forehead. The headband grants the wearer a +2 enhancement bonus to Intelligence. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. It also grants skill ranks as a _headband of vast intelligence_, but always grants ranks in a [Knowledge](../../skills_dir/knowledge#_knowledge) skill.
 
-As a swift action three times per day, the wearer can call upon the headband to reveal the abilities and weaknesses of a creature within line of sight. The headband fills the wearer's mind with information as though the wearer had made a [Knowledge](../skills_dir/knowledge#_knowledge) check with a natural roll of a 5, adding her bonuses to the check as normal. At the start of her next turn, the wearer receives additional information as though she had made the check with a natural roll of 10. At the start of her turn after that, the wearer receives a final piece of information, treating her natural roll as 15.
+As a swift action three times per day, the wearer can call upon the headband to reveal the abilities and weaknesses of a creature within line of sight. The headband fills the wearer's mind with information as though the wearer had made a [Knowledge](../../skills_dir/knowledge#_knowledge) check with a natural roll of a 5, adding her bonuses to the check as normal. At the start of her next turn, the wearer receives additional information as though she had made the check with a natural roll of 10. At the start of her turn after that, the wearer receives a final piece of information, treating her natural roll as 15.
 
 Construction Requirements
 
 **Cost** 2,550 gp
 
-Craft Wondrous Item, _ [know the enemy](../ultimateMagic_dir/spells_dir/knowTheEnemy#_know-the-enemy) _(_Ultimate Magic_)
+Craft Wondrous Item, _ [know the enemy](../../ultimateMagic_dir/spells_dir/knowTheEnemy#_know-the-enemy) _(_Ultimate Magic_)
 
 Headband of Seduction
 
 **Price** 40,000 gp; **Aura** faint enchantment and transmutation; **CL** 5th; **Weight** 1 lb.
 
-This plain white band makes the wearer seem more attractive. The wearer gains a +2 competence bonus on Charisma-based checks with other members of his creature type. If the wearer is of the humanoid type, he gains a +5 competence bonus on creatures of his subtype instead. Once per day, the wearer can attempt to affect a creature as the spell _ [unnatural lust](../ultimateMagic_dir/spells_dir/unnaturalLust#_unnatural-lust)_ but with a duration of 10 minutes.
+This plain white band makes the wearer seem more attractive. The wearer gains a +2 competence bonus on Charisma-based checks with other members of his creature type. If the wearer is of the humanoid type, he gains a +5 competence bonus on creatures of his subtype instead. Once per day, the wearer can attempt to affect a creature as the spell _ [unnatural lust](../../ultimateMagic_dir/spells_dir/unnaturalLust#_unnatural-lust)_ but with a duration of 10 minutes.
 
 Construction Requirements
 
 **Cost** 20,000 gp
 
-Craft Wondrous Item, _ [unnatural lust](../ultimateMagic_dir/spells_dir/unnaturalLust#_unnatural-lust)_
+Craft Wondrous Item, _ [unnatural lust](../../ultimateMagic_dir/spells_dir/unnaturalLust#_unnatural-lust)_
 
 Headband of unshakeable resolve
 
@@ -351,7 +351,7 @@ Construction Requirements
 
 **Cost** 2,800 gp
 
-Craft Wondrous Item, _ [owl's wisdom](../spells_dir/owlSWisdom#_owl-s-wisdom)_, _ [remove fear](../spells_dir/removeFear#_remove-fear)_
+Craft Wondrous Item, _ [owl's wisdom](../../spells_dir/owlSWisdom#_owl-s-wisdom)_, _ [remove fear](../../spells_dir/removeFear#_remove-fear)_
 
 Headband of vast intelligence
 
@@ -359,7 +359,7 @@ Headband of vast intelligence
 
 **+2 Intelligence** 4,000 gp; **+4 Intelligence** 16,000 gp; **+6 Intelligence** 36,000 gp
 
-This intricate gold headband is decorated with several small blue and deep purple gemstones. The headband grants the wearer an enhancement bonus to Intelligence of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. A _headband of vast intelligence_ has one skill associated with it per +2 bonus it grants. After being worn for 24 hours, the headband grants a number of skill ranks in those skills equal to the wearer's total Hit Dice. These ranks do not stack with the ranks a creature already possesses. These skills are chosen when the headband is created. If no skill is listed, the headband is assumed to grant skill ranks in randomly determined [Knowledge](../skills_dir/knowledge#_knowledge) skills.
+This intricate gold headband is decorated with several small blue and deep purple gemstones. The headband grants the wearer an enhancement bonus to Intelligence of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn. A _headband of vast intelligence_ has one skill associated with it per +2 bonus it grants. After being worn for 24 hours, the headband grants a number of skill ranks in those skills equal to the wearer's total Hit Dice. These ranks do not stack with the ranks a creature already possesses. These skills are chosen when the headband is created. If no skill is listed, the headband is assumed to grant skill ranks in randomly determined [Knowledge](../../skills_dir/knowledge#_knowledge) skills.
 
 Construction Requirements
 
@@ -367,7 +367,7 @@ Construction Requirements
 
 **+2 Intelligence** 2,000 gp; **+4 Intelligence** 8,000 gp; **+6 Intelligence** 18,000 gp
 
-Craft Wondrous Item, _ [fox's cunning](../spells_dir/foxSCunning#_fox-s-cunning)_
+Craft Wondrous Item, _ [fox's cunning](../../spells_dir/foxSCunning#_fox-s-cunning)_
 
 Hollywreath Band
 
@@ -379,19 +379,19 @@ Construction Requirements
 
 **Cost** 2,580 gp
 
-Craft Wondrous Item, _ [goodberry](../spells_dir/goodberry#_goodberry), [plant growth](../spells_dir/plantGrowth#_plant-growth)_
+Craft Wondrous Item, _ [goodberry](../../spells_dir/goodberry#_goodberry), [plant growth](../../spells_dir/plantGrowth#_plant-growth)_
 
 Hunter's Band
 
 **Price** 11,000 gp; **Aura** faint transmutation; **CL** 4th; **Weight** 1 lb.
 
-This simple headband of braided hide grants a +5 competence bonus on [Survival](../skills_dir/survival#_survival) checks and inures the wearer to the strain of long travel, as the _ [tireless pursuit](../advanced_dir/spells_dir/tirelessPursuit#_tireless-pursuit) _spell _. _If the wearer is a ranger, the _hunter's band _increases his favored enemy bonus on attack rolls by +1 for all his favored enemies. If the ranger has the hunter's bond (companions) class feature, this increase also applies to the attack roll bonus his allies gain from that ability.
+This simple headband of braided hide grants a +5 competence bonus on [Survival](../../skills_dir/survival#_survival) checks and inures the wearer to the strain of long travel, as the _ [tireless pursuit](../../advanced_dir/spells_dir/tirelessPursuit#_tireless-pursuit) _spell _. _If the wearer is a ranger, the _hunter's band _increases his favored enemy bonus on attack rolls by +1 for all his favored enemies. If the ranger has the hunter's bond (companions) class feature, this increase also applies to the attack roll bonus his allies gain from that ability.
 
 Construction Requirements
 
 **Cost** 5,500 gp
 
-Craft Wondrous Item, _ [instant enemy](../advanced_dir/spells_dir/instantEnemy#_instant-enemy) , [tireless pursuit](../advanced_dir/spells_dir/tirelessPursuit#_tireless-pursuit), _creator must have 5 ranks in [Survival](../skills_dir/survival#_survival)
+Craft Wondrous Item, _ [instant enemy](../../advanced_dir/spells_dir/instantEnemy#_instant-enemy) , [tireless pursuit](../../advanced_dir/spells_dir/tirelessPursuit#_tireless-pursuit), _creator must have 5 ranks in [Survival](../../skills_dir/survival#_survival)
 
 Phylactery of Faithfulness
 
@@ -403,7 +403,7 @@ Construction Requirements
 
 **Cost** 500 gp
 
-Craft Wondrous Item, _ [detect chaos](../spells_dir/detectChaos#_detect-chaos)_, _ [detect evil](../spells_dir/detectEvil#_detect-evil)_, _ [detect good](../spells_dir/detectGood#_detect-good)_, _ [detect law](../spells_dir/detectLaw#_detect-law)_
+Craft Wondrous Item, _ [detect chaos](../../spells_dir/detectChaos#_detect-chaos)_, _ [detect evil](../../spells_dir/detectEvil#_detect-evil)_, _ [detect good](../../spells_dir/detectGood#_detect-good)_, _ [detect law](../../spells_dir/detectLaw#_detect-law)_
 
 Phylactery of Negative Channeling
 
@@ -433,25 +433,25 @@ Phylactery of the Shepherd
 
 **Price** 7,000 gp; **Aura** faint divination; **CL** 3rd; **Weight** 1 lb.
 
-Three times per day on command, the phylactery's wearer can determine the current health and overall well-being of any one ally within 30 feet. This effect acts as the _ [status](../spells_dir/status#_status)_ spell. If the wearer has the ability to channel energy or lay on hands, he can as a swift action choose to apply the effects of that class feature to an ally he is currently evaluating so long as that ally is within 30 feet of him, but doing so ends the effect of the phylactery's _ [status](../spells_dir/status#_status)_.
+Three times per day on command, the phylactery's wearer can determine the current health and overall well-being of any one ally within 30 feet. This effect acts as the _ [status](../../spells_dir/status#_status)_ spell. If the wearer has the ability to channel energy or lay on hands, he can as a swift action choose to apply the effects of that class feature to an ally he is currently evaluating so long as that ally is within 30 feet of him, but doing so ends the effect of the phylactery's _ [status](../../spells_dir/status#_status)_.
 
 Construction Requirements
 
 **Cost** 3,500 gp
 
-Craft Wondrous Item, _ [status](../spells_dir/status#_status)_
+Craft Wondrous Item, _ [status](../../spells_dir/status#_status)_
 
 Serpent's Band
 
 **Price** 9,000 gp; **Aura** moderate conjuration and enchantment; **CL** 10th; **Weight** 1 lb.
 
-The wearer of this circlet gains a +2 insight bonus on saving throws against effects with the emotion descriptor, including fear effects. The wearer gains fluency in Draconic and may converse with non-sentient (Int 1 or 2) reptilian animals and magical beasts as if using the _ [speak with animals](../spells_dir/speakWithAnimals#_speak-with-animals)_ spell, and gains a +4 competence bonus on [Handle Animal](../skills_dir/handleAnimal#_handle-animal) and wild empathy checks made when interacting with such creatures.
+The wearer of this circlet gains a +2 insight bonus on saving throws against effects with the emotion descriptor, including fear effects. The wearer gains fluency in Draconic and may converse with non-sentient (Int 1 or 2) reptilian animals and magical beasts as if using the _ [speak with animals](../../spells_dir/speakWithAnimals#_speak-with-animals)_ spell, and gains a +4 competence bonus on [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) and wild empathy checks made when interacting with such creatures.
 
 Construction Requirements
 
 **Cost** 4,500 gp
 
-Craft Wondrous Item, _ [animal trance](../spells_dir/animalTrance#_animal-trance), [hypnotism](../spells_dir/hypnotism#_hypnotism), [speak with animals](../spells_dir/speakWithAnimals#_speak-with-animals), [summon nature's ally V](../spells_dir/summonNatureSAlly#_summon-nature-s-ally-v)_
+Craft Wondrous Item, _ [animal trance](../../spells_dir/animalTrance#_animal-trance), [hypnotism](../../spells_dir/hypnotism#_hypnotism), [speak with animals](../../spells_dir/speakWithAnimals#_speak-with-animals), [summon nature's ally V](../../spells_dir/summonNatureSAlly#_summon-nature-s-ally-v)_
 
 Shifter's Headband
 
@@ -477,7 +477,7 @@ Construction Requirements
 
 **+2 Intelligence, Wisdom, or Charisma** 2,250 gp; **+4 Intelligence, Wisdom, or Charisma** 8,750 gp; **+6 Intelligence, Wisdom, or Charisma** 19,500 gp
 
-Craft Wondrous Item, _ [polymorph](../spells_dir/polymorph#_polymorph) self_
+Craft Wondrous Item, _ [polymorph](../../spells_dir/polymorph#_polymorph) self_
 
 Soulbound Eye
 
@@ -487,15 +487,15 @@ Appearing at first like an expensive, masochistic adornment, this almond-sized s
 
 Once implanted, the _soulbound eye_ allows the master to observe the world around the wearer through the wearer's senses. It also allows for telepathic communication between the wearer and the master. Neither of these features function across planar boundaries.
 
-The _soulbound eye's_ wearer is not compelled to obey its master's telepathic commands, but the master can use the _soulbound eye_ as a conduit for _ [hold monster](../spells_dir/holdMonster#_hold-monster)_, _ [modify memory](../spells_dir/modifyMemory#_modify-memory)_, _ [pain strike](../advanced_dir/spells_dir/painStrike#_pain-strike)_ , and _ [suggestion](../spells_dir/suggestion#_suggestion)_ spells, treating the wearer as the target of the spell no matter the distance between master and wearer. The victim is allowed any normal saving throws or spell resistance against spells cast through the _soulbound eye._
+The _soulbound eye's_ wearer is not compelled to obey its master's telepathic commands, but the master can use the _soulbound eye_ as a conduit for _ [hold monster](../../spells_dir/holdMonster#_hold-monster)_, _ [modify memory](../../spells_dir/modifyMemory#_modify-memory)_, _ [pain strike](../../advanced_dir/spells_dir/painStrike#_pain-strike)_ , and _ [suggestion](../../spells_dir/suggestion#_suggestion)_ spells, treating the wearer as the target of the spell no matter the distance between master and wearer. The victim is allowed any normal saving throws or spell resistance against spells cast through the _soulbound eye._
 
-An implanted _soulbound eye_ functions like a cursed item once it is in place—it can only be removed if the curse is first lifted via an effect like _ [remove curse](../spells_dir/removeCurse#_remove-curse)_ or _ [break enchantment](../spells_dir/breakEnchantment#_break-enchantment)_. Once removed, a _soulbound eye_ crumbles to fragments.
+An implanted _soulbound eye_ functions like a cursed item once it is in place—it can only be removed if the curse is first lifted via an effect like _ [remove curse](../../spells_dir/removeCurse#_remove-curse)_ or _ [break enchantment](../../spells_dir/breakEnchantment#_break-enchantment)_. Once removed, a _soulbound eye_ crumbles to fragments.
 
 Construction Requirements
 
 **Cost** 15,000 gp
 
-Craft Wondrous Item, _ [scrying](../spells_dir/scrying#_scrying)_
+Craft Wondrous Item, _ [scrying](../../spells_dir/scrying#_scrying)_
 
 Veiled Eye
 
@@ -507,7 +507,7 @@ Construction Requirements
 
 **Cost** 6,000 gp
 
-Craft Wondrous Item, _ [remove blindness_dir/deafness](../spells_dir/removeBlindnessDeafness#_remove-blindness-deafness)_
+Craft Wondrous Item, _ [remove blindness_dir/deafness](../../spells_dir/removeBlindnessDeafness#_remove-blindness-deafness)_
 
 Winter Wolf Headband
 
@@ -519,5 +519,5 @@ Construction Requirements
 
 **Cost** 16,000 gp
 
-Craft Wondrous Item, _ [beast shape II](../spells_dir/beastShape#_beast-shape-ii)_, _ [dragon's breath](../advanced_dir/spells_dir/dragonSBreath#_dragon's-breath)_ , _ [resist energy](../spells_dir/resistEnergy#_resist-energy)_
+Craft Wondrous Item, _ [beast shape II](../../spells_dir/beastShape#_beast-shape-ii)_, _ [dragon's breath](../../advanced_dir/spells_dir/dragonSBreath#_dragon's-breath)_ , _ [resist energy](../../spells_dir/resistEnergy#_resist-energy)_
 

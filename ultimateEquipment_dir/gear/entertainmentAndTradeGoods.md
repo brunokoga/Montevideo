@@ -107,13 +107,13 @@ Loaded Dice
 
 **Price** 10 GP–50 GP; **Weight** —
 
-Most loaded dice are weighted, with a heavier substance included opposite the desired number. You can spot this tampering with a DC 15 [Appraise](../skills_dir/appraise#_appraise) or [Perception](../skills_dir/perception#_perception) check. Superior dice (such as wooden dice carved around a naturally heavy point) have DCs ranging from 20 to 30.
+Most loaded dice are weighted, with a heavier substance included opposite the desired number. You can spot this tampering with a DC 15 [Appraise](../../skills_dir/appraise#_appraise) or [Perception](../../skills_dir/perception#_perception) check. Superior dice (such as wooden dice carved around a naturally heavy point) have DCs ranging from 20 to 30.
 
 Marked Cards
 
 **Price** 1 GP; **Weight** 1 lb.
 
-Whether bent, colored, or scratched, marked cards allow an informed user to know what's on the front of the card by viewing the mark on the back. Realizing that the cards are marked requires a DC 25 [Perception](../skills_dir/perception#_perception) check or DC 20 [Profession](../skills_dir/profession#_profession) (gambler) check. The listed price is for a common paper deck.
+Whether bent, colored, or scratched, marked cards allow an informed user to know what's on the front of the card by viewing the mark on the back. Realizing that the cards are marked requires a DC 25 [Perception](../../skills_dir/perception#_perception) check or DC 20 [Profession](../../skills_dir/profession#_profession) (gambler) check. The listed price is for a common paper deck.
 
 Polo Gear
 
@@ -125,7 +125,7 @@ Puzzle Box
 
 **Price** 1 gp–1,000 gp; **Weight** 1 lb.–5 lbs.
 
-This box features moving parts, secret panels, or unusual codes and locking mechanisms. Depending on the box, a [Disable Device](../skills_dir/disableDevice#_disable-device), [Knowledge](../skills_dir/knowledge#_knowledge) (engineering), [Linguistics](../skills_dir/linguistics#_linguistics), or simple Intelligence check might open it. The DC of the check varies with the complexity of the box, but is typically 15 or 20 (retry once per day). Multiple skill checks might be necessary for different stages of the puzzle. If the puzzle box was constructed with the intention that one specific person should be able to open it, that person gets a +5 circumstance bonus on the check.
+This box features moving parts, secret panels, or unusual codes and locking mechanisms. Depending on the box, a [Disable Device](../../skills_dir/disableDevice#_disable-device), [Knowledge](../../skills_dir/knowledge#_knowledge) (engineering), [Linguistics](../../skills_dir/linguistics#_linguistics), or simple Intelligence check might open it. The DC of the check varies with the complexity of the box, but is typically 15 or 20 (retry once per day). Multiple skill checks might be necessary for different stages of the puzzle. If the puzzle box was constructed with the intention that one specific person should be able to open it, that person gets a +5 circumstance bonus on the check.
 
 Rounders Gear
 

@@ -18,5 +18,5 @@ title: advanced_dir/spells_dir/crafterSCurse
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The target of _crafter's curse_ takes a –5 penalty on all [Craft](../../../skills_dir/craft#_craft) skill checks while the spell lasts.
+The target of _crafter's curse_ takes a –5 penalty on all [Craft](../../../../skills_dir/craft#_craft) skill checks while the spell lasts.
 

@@ -12,5 +12,5 @@ Simulacrum, Lesser
 
 **Duration** 1 hour_dir/level
 
-This spell functions as _ [simulacrum](../spells_dir/simulacrum#_simulacrum)_, except you can't create a simulacrum of a creature whose HD or levels exceed your caster level, and it has no magical abilities. The creature is not under your control, though it recognizes you are its creator.
+This spell functions as _ [simulacrum](../../spells_dir/simulacrum#_simulacrum)_, except you can't create a simulacrum of a creature whose HD or levels exceed your caster level, and it has no magical abilities. The creature is not under your control, though it recognizes you are its creator.
 

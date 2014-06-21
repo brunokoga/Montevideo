@@ -4,7 +4,7 @@ title: mythicAdventures_dir/mythicSpells_dir/enemyHammer
 ---
 Enemy Hammer
 
-**Source** [_enemy hammer_](../advanced_dir/spells_dir/enemyHammer#_enemy-hammer-)
+**Source** [_enemy hammer_](../../advanced_dir/spells_dir/enemyHammer#_enemy-hammer-)
 
 The target becomes entangled whether or not it succeeds at its saving throw. When using the target as a weapon, add half your tier to your attack roll, and add your tier to the damage roll.
 

@@ -8,7 +8,7 @@ Terrain Bond
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a pinch of [earth](../monsters_dir/creatureTypes#_earth-subtype) taken from your most favored terrain)
+**Components** V, S, M (a pinch of [earth](../../monsters_dir/creatureTypes#_earth-subtype) taken from your most favored terrain)
 
 **Range** personal
 

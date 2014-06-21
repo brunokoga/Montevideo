@@ -18,5 +18,5 @@ Negative Reaction
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The target's actions and words fail to impress. The target of this spell takes a –10 penalty on any [Bluff](../skills_dir/bluff#_bluff), [Diplomacy](../skills_dir/diplomacy#_diplomacy), and [Intimidate](../skills_dir/intimidate#_intimidate) checks as well as any performance combat checks it attempts.
+The target's actions and words fail to impress. The target of this spell takes a –10 penalty on any [Bluff](../../skills_dir/bluff#_bluff), [Diplomacy](../../skills_dir/diplomacy#_diplomacy), and [Intimidate](../../skills_dir/intimidate#_intimidate) checks as well as any performance combat checks it attempts.
 
