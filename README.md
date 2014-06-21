@@ -1,9 +1,3 @@
----
-title: README
----
----
-title: ../Montevideo/README
----
 Montevideo
 ==========
 
