@@ -1,18 +1,18 @@
 ---
 layout: default
-title: spells/knock
+title: spells_dir/knock
 ---
  **Knock**
 
-**School** transmutation; **Level** sorcerer/wizard 2
+**School** transmutation; **Level** sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Target** one door, box, or chest with an area of up to 10 sq. ft./level
+**Target** one door, box, or chest with an area of up to 10 sq. ft._dir/level
 
 **Duration** instantaneous; see text
 

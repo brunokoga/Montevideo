@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/oni
+title: monsters_dir/oni
 ---
 # Oni, Ogre Mage
 
@@ -12,7 +12,7 @@ _Clad in beautiful armor, this exotically garbed giant roars, its tusks glisteni
 
 LE Large [outsider](creatureTypes#_outsider) ( [giant](creatureTypes#_giant-type), [native](creatureTypes#_native-subtype), oni, [shapechanger](creatureTypes#_shapechanger-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +13
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +13
 
 **Defense**
 
@@ -28,7 +28,7 @@ LE Large [outsider](creatureTypes#_outsider) ( [giant](creatureTypes#_giant-type
 
 **Speed** 40 ft., fly 60 ft. (good)
 
-**Melee** greatsword +14/+9 (3d6+10)
+**Melee** greatsword +14_dir/+9 (3d6+10)
 
 **Ranged** composite longbow +10 (2d6+7)
 
@@ -36,11 +36,11 @@ LE Large [outsider](creatureTypes#_outsider) ( [giant](creatureTypes#_giant-type
 
 **Spell-Like Abilities** (CL 9th)
 
-Constant—_ [fly](../spells/fly)_
+Constant—_ [fly](../spells_dir/fly)_
 
-At will—_ [darkness](../spells/darkness#_darkness), [invisibility](../spells/invisibility#_invisibility)_
+At will—_ [darkness](../spells_dir/darkness#_darkness), [invisibility](../spells_dir/invisibility#_invisibility)_
 
-1/day—_ [charm monster](../spells/charmMonster#_charm-monster)_ (DC 17), _ [cone of cold](../spells/coneOfCold#_cone-of-cold)_ (DC 18), _ [gaseous form](../spells/gaseousForm#_gaseous-form), [deep slumber](../spells/deepSlumber#_deep-slumber)_ (DC 16)
+1_dir/day—_ [charm monster](../spells_dir/charmMonster#_charm-monster)_ (DC 17), _ [cone of cold](../spells_dir/coneOfCold#_cone-of-cold)_ (DC 18), _ [gaseous form](../spells_dir/gaseousForm#_gaseous-form), [deep slumber](../spells_dir/deepSlumber#_deep-slumber)_ (DC 16)
 
 **Statistics**
 
@@ -50,11 +50,11 @@ At will—_ [darkness](../spells/darkness#_darkness), [invisibility](../spells/i
 
 **Feats** [Combat Expertise](../feats#_combat-expertise), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will)
 
-**Skills** [Bluff](../skills/bluff#_bluff) +14, [Disguise](../skills/disguise#_disguise) +14, [Fly](../skills/fly#_fly) +5, [Intimidate](../skills/intimidate#_intimidate) +14, [Knowledge](../skills/knowledge#_knowledge) (arcana) +13, [Perception](../skills/perception#_perception) +13, [Sense Motive](../skills/senseMotive#_sense-motive) +13, [Spellcraft](../skills/spellcraft#_spellcraft) +13, [Use Magic Device](../skills/useMagicDevice#_use-magic-device) +14
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +14, [Disguise](../skills_dir/disguise#_disguise) +14, [Fly](../skills_dir/fly#_fly) +5, [Intimidate](../skills_dir/intimidate#_intimidate) +14, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +13, [Perception](../skills_dir/perception#_perception) +13, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +13, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +13, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +14
 
 **Languages** Common, Giant
 
-**SQ** [change shape](universalMonsterRules#_change-shape) (Small, Medium, or Large humanoid; _ [alter self](../spells/alterSelf#_alter-self) or [giant form I](../spells/giantForm#_giant-form-i)_), flight
+**SQ** [change shape](universalMonsterRules#_change-shape) (Small, Medium, or Large humanoid; _ [alter self](../spells_dir/alterSelf#_alter-self) or [giant form I](../spells_dir/giantForm#_giant-form-i)_), flight
 
 **Ecology**
 

@@ -1,18 +1,18 @@
 ---
 layout: default
-title: spells/silentImage
+title: spells_dir/silentImage
 ---
  **Silent Image**
 
-**School** illusion (figment); **Level** bard 1, sorcerer/wizard 1
+**School** illusion (figment); **Level** bard 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S, F (a bit of fleece)
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
-**Effect** visual figment that cannot extend beyond four 10-ft. cubes + one 10-ft. cube/level (S)
+**Effect** visual figment that cannot extend beyond four 10-ft. cubes + one 10-ft. cube_dir/level (S)
 
 **Duration** concentration
 

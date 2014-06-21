@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic/spells/rapidRepair
+title: ultimateMagic_dir/spells_dir/rapidRepair
 ---
 Rapid Repair
 
-**School** transmutation; **Level** cleric 5, sorcerer/wizard 5
+**School** transmutation; **Level** cleric 5, sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Rapid Repair
 
 **Target** construct touched
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

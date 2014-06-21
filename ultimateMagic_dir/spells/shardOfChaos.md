@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/shardOfChaos
+title: ultimateMagic_dir/spells_dir/shardOfChaos
 ---
 Shard of Chaos
 
@@ -10,7 +10,7 @@ Shard of Chaos
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** dart-shaped projectile of chaotic energy
 
@@ -20,5 +20,5 @@ Shard of Chaos
 
 You hurl a multicolored shard of congealed chaos from your holy symbol, affecting any one target in range as a ranged touch attack.
 
-A lawful creature struck by the shard takes 1d8 points of damage per two caster levels (maximum 5d8). A lawful outsider instead takes 1d6 points of damage per caster level (maximum 10d6) and is slowed (as _ [slow](spells/slow#_slow)_) for 1 round. A successful Will save reduces the damage to half and negates the slow effect. The bolt has no effect on chaotic creatures. This spell deals only half damage to creatures that are neither lawful nor chaotic, and they are not slowed.
+A lawful creature struck by the shard takes 1d8 points of damage per two caster levels (maximum 5d8). A lawful outsider instead takes 1d6 points of damage per caster level (maximum 10d6) and is slowed (as _ [slow](spells_dir/slow#_slow)_) for 1 round. A successful Will save reduces the damage to half and negates the slow effect. The bolt has no effect on chaotic creatures. This spell deals only half damage to creatures that are neither lawful nor chaotic, and they are not slowed.
 

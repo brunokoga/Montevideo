@@ -45,7 +45,7 @@ Some spells and abilities increase your ability scores. Ability score increases 
 
 Diseases, poisons, spells, and other abilities can all deal damage directly to your ability scores. This damage does not actually reduce an ability, but it does apply a penalty to the skills and statistics that are based on that ability.
 
-For every 2 points of damage you take to a single ability, apply a –1 penalty to skills and statistics listed with the relevant ability. If the amount of ability damage you have taken equals or exceeds your ability score, you immediately fall unconscious until the damage is less than your ability score. The only exception to this is your [Constitution](gettingStarted#_constitution) score. If the damage to your [Constitution](gettingStarted#_constitution) is equal to or greater than your [Constitution](gettingStarted#_constitution) score, you die. Unless otherwise noted, damage to your ability scores is healed at the rate of 1 per day to each ability score that has been damaged. Ability damage can be healed through the use of spells, such as _ [lesser restoration](spells/restoration#_restoration-lesser)_.
+For every 2 points of damage you take to a single ability, apply a –1 penalty to skills and statistics listed with the relevant ability. If the amount of ability damage you have taken equals or exceeds your ability score, you immediately fall unconscious until the damage is less than your ability score. The only exception to this is your [Constitution](gettingStarted#_constitution) score. If the damage to your [Constitution](gettingStarted#_constitution) is equal to or greater than your [Constitution](gettingStarted#_constitution) score, you die. Unless otherwise noted, damage to your ability scores is healed at the rate of 1 per day to each ability score that has been damaged. Ability damage can be healed through the use of spells, such as _ [lesser restoration](spells_dir/restoration#_restoration-lesser)_.
 
 Some spells and abilities cause you to take an ability penalty for a limited amount of time. While in effect, these penalties function just like ability damage, but they cannot cause you to fall unconscious or die. In essence, penalties cannot decrease your ability score to less than 1.
 
@@ -61,7 +61,7 @@ Some spells and abilities cause you to take an ability penalty for a limited amo
 
 **[Charisma](gettingStarted#_charisma-new)** : Damage to your [Charisma](gettingStarted#_charisma-new) score causes you to take penalties on [Charisma](gettingStarted#_charisma-new)-based skill checks. This penalty also applies to any spell DCs based off [Charisma](gettingStarted#_charisma-new) and the DC to resist your channeled energy.
 
-**Ability Drain** : Ability drain actually reduces the relevant ability score. Modify all skills and statistics related to that ability. This might cause you to lose skill points, [hit points](gettingStarted#_hit-points), and other bonuses. Ability drain can be healed through the use of spells such as _ [restoration](spells/restoration#_restoration)._
+**Ability Drain** : Ability drain actually reduces the relevant ability score. Modify all skills and statistics related to that ability. This might cause you to lose skill points, [hit points](gettingStarted#_hit-points), and other bonuses. Ability drain can be healed through the use of spells such as _ [restoration](spells_dir/restoration#_restoration)._
 
 ## Afflictions
 
@@ -73,23 +73,23 @@ Afflictions require a creature to make a saving throw after a period of time to 
 
 **Type** : This is the type of the affliction, such as curse, disease, or poison. It might also include the means by which it is contracted, such as contact, ingestion, inhalation, injury, spell, or trap.
 
-**Save** : This gives the type of save necessary to avoid contracting the affliction, as well as the DC of that save. Unless otherwise noted, this is also the save to avoid the affliction's effects once it is contracted, as well as the DC of any caster level checks needed to end the affliction through magic, such as _ [remove curse](spells/removeCurse#_remove-curse)_ or _ [neutralize poison](spells/neutralizePoison#_neutralize-poison)_.
+**Save** : This gives the type of save necessary to avoid contracting the affliction, as well as the DC of that save. Unless otherwise noted, this is also the save to avoid the affliction's effects once it is contracted, as well as the DC of any caster level checks needed to end the affliction through magic, such as _ [remove curse](spells_dir/removeCurse#_remove-curse)_ or _ [neutralize poison](spells_dir/neutralizePoison#_neutralize-poison)_.
 
 **Onset** : Some afflictions have a variable amount of time before they set in. Creatures that come in contact with an affliction with an onset time must make a saving throw immediately. Success means that the affliction is avoided and no further saving throws must be made. Failure means that the creature has contracted the affliction and must begin making additional saves after the onset period has elapsed. The affliction's effect does not occur until after the onset period has elapsed and then only if further saving throws are failed.
 
-**Frequency** : This is how often the periodic saving throw must be attempted after the affliction has been contracted (after the onset time, if the affliction has any). While some afflictions last until they are cured, others end prematurely, even if the character is not cured through other means. If an affliction ends after a set amount of time, it will be noted in the frequency. For example, a disease with a frequency of “1/day” lasts until cured, but a poison with a frequency of “1/round for 6 rounds” ends after 6 rounds have passed.
+**Frequency** : This is how often the periodic saving throw must be attempted after the affliction has been contracted (after the onset time, if the affliction has any). While some afflictions last until they are cured, others end prematurely, even if the character is not cured through other means. If an affliction ends after a set amount of time, it will be noted in the frequency. For example, a disease with a frequency of “1_dir/day” lasts until cured, but a poison with a frequency of “1_dir/round for 6 rounds” ends after 6 rounds have passed.
 
 Afflictions without a frequency occur only once, immediately upon contraction (or after the onset time if one is listed).
 
 **Effect** : This is the effect that the character suffers each time if he fails his saving throw against the affliction. Most afflictions cause ability damage or hit point damage. These effects are cumulative, but they can be cured normally. Other afflictions cause the creature to take penalties or other effects. These effects are sometimes cumulative, with the rest only affecting the creature if it failed its most recent save. Some afflictions have different effects after the first save is failed. These afflictions have an initial effect, which occurs when the first save is failed, and a secondary effect, when additional saves are failed, as noted in the text. Hit point and ability score damage caused by an affliction cannot be healed naturally while the affliction persists.
 
-**Cure** : This tells you how the affliction is cured. Commonly, this is a number of saving throws that must be made consecutively. Even if the affliction has a limited frequency, it might be cured prematurely if enough saving throws are made. Hit point damage and ability score damage is not removed when an affliction is cured. Such damage must be healed normally. Afflictions without a cure entry can only be cured through powerful spells, such as _ [neutralize poison](spells/neutralizePoison#_neutralize-poison)_ and _ [remove curse](spells/removeCurse#_remove-curse)_. No matter how many saving throws are made, these afflictions continue to affect the target.
+**Cure** : This tells you how the affliction is cured. Commonly, this is a number of saving throws that must be made consecutively. Even if the affliction has a limited frequency, it might be cured prematurely if enough saving throws are made. Hit point damage and ability score damage is not removed when an affliction is cured. Such damage must be healed normally. Afflictions without a cure entry can only be cured through powerful spells, such as _ [neutralize poison](spells_dir/neutralizePoison#_neutralize-poison)_ and _ [remove curse](spells_dir/removeCurse#_remove-curse)_. No matter how many saving throws are made, these afflictions continue to affect the target.
 
 He failed a DC 15 [Fortitude](combat#_fortitude) save to avoid contracting it, so after the onset period of 1d3 days has passed, he must make another DC 15 [Fortitude](combat#_fortitude) save to avoid taking 1d6 points of [Strength](gettingStarted#_strength) damage. From this point onward, he must make a DC 15 [Fortitude](combat#_fortitude) save each day (according to the disease's frequency) to avoid further [Strength](gettingStarted#_strength) damage. If, on two consecutive days, he makes his [Fortitude](combat#_fortitude) saves, he is cured of the disease and any damage it caused begins to heal as normal.
 
 ## Curses
 
-Careless rogues plundering a tomb, drunken heroes insulting a powerful wizard, and foolhardy adventurers who pick up ancient swords all might suffer from curses. These magic afflictions can have a wide variety of effects, from a simple penalty to certain checks to transforming the victim into a toad. Some even cause the afflicted to slowly rot away, leaving nothing behind but dust. Unlike other afflictions, most curses cannot be cured through a number of successful saving throws. Curses can be cured through magic, however, usually via spells such as _ [remove curse](spells/removeCurse#_remove-curse)_ and _break enchantment_. While some curses cause a progressive deterioration, others inflict a static penalty from the moment they are contracted, neither fading over time nor growing worse. In addition, there are a number of magic items that act like curses. See [Magic Items](magicItems) for a description of these cursed items.
+Careless rogues plundering a tomb, drunken heroes insulting a powerful wizard, and foolhardy adventurers who pick up ancient swords all might suffer from curses. These magic afflictions can have a wide variety of effects, from a simple penalty to certain checks to transforming the victim into a toad. Some even cause the afflicted to slowly rot away, leaving nothing behind but dust. Unlike other afflictions, most curses cannot be cured through a number of successful saving throws. Curses can be cured through magic, however, usually via spells such as _ [remove curse](spells_dir/removeCurse#_remove-curse)_ and _break enchantment_. While some curses cause a progressive deterioration, others inflict a static penalty from the moment they are contracted, neither fading over time nor growing worse. In addition, there are a number of magic items that act like curses. See [Magic Items](magicItems) for a description of these cursed items.
 
 The following samples present just some of the possibilities when creating curses.
 
@@ -97,7 +97,7 @@ The following samples present just some of the possibilities when creating curse
 
 **Type** curse, spell; **Save** [Fortitude](combat#_fortitude) DC 17 negates, [Will](combat#_will) DC 17 partial
 
-**Effect** transforms target into a lizard; see _ [baleful polymorph](spells/balefulPolymorph#_baleful-polymorph)_ description
+**Effect** transforms target into a lizard; see _ [baleful polymorph](spells_dir/balefulPolymorph#_baleful-polymorph)_ description
 
 **Bestow Curse Trap**
 
@@ -109,7 +109,7 @@ The following samples present just some of the possibilities when creating curse
 
 **Type** curse; **Save** [Will](combat#_will) DC 17
 
-**Frequency** 1/day
+**Frequency** 1_dir/day
 
 **Effect** age 1 year
 
@@ -117,15 +117,15 @@ The following samples present just some of the possibilities when creating curse
 
 **Type** curse, disease, injury; **Save** [Fortitude](combat#_fortitude) DC 16
 
-**Onset** 1 minute; **Frequency** 1/day
+**Onset** 1 minute; **Frequency** 1_dir/day
 
-**Effect** 1d6 [Con](gettingStarted#_constitution) damage and 1d6 [Cha](gettingStarted#_charisma-new) damage; **Cure** mummy rot can only be cured by successfully casting both _ [remove curse](spells/removeCurse#_remove-curse)_ and _ [remove disease](spells/removeDisease#_remove-disease)_ within 1 minute of each other.
+**Effect** 1d6 [Con](gettingStarted#_constitution) damage and 1d6 [Cha](gettingStarted#_charisma-new) damage; **Cure** mummy rot can only be cured by successfully casting both _ [remove curse](spells_dir/removeCurse#_remove-curse)_ and _ [remove disease](spells_dir/removeDisease#_remove-disease)_ within 1 minute of each other.
 
 **Unluck**
 
 **Type** curse; **Save** [Will](combat#_will) DC 20 negates, no save to avoid effects
 
-**Frequency** 1/hour
+**Frequency** 1_dir/hour
 
 **Effect** target must reroll any roll decided by the GM and take the worse result
 
@@ -139,7 +139,7 @@ The following samples present just some of the possibilities when creating curse
 
 ## Diseases
 
-From a widespread plague to the bite of a dire rat, disease is a serious threat to common folk and adventurers alike. Diseases rarely have a limited frequency, but most have a lengthy onset time. This onset time can also be variable. Most diseases can be cured by a number of consecutive saving throws or by spells such as _ [remove disease](spells/removeDisease#_remove-disease)_.
+From a widespread plague to the bite of a dire rat, disease is a serious threat to common folk and adventurers alike. Diseases rarely have a limited frequency, but most have a lengthy onset time. This onset time can also be variable. Most diseases can be cured by a number of consecutive saving throws or by spells such as _ [remove disease](spells_dir/removeDisease#_remove-disease)_.
 
 The following samples represent just some of the possibilities when creating diseases.
 
@@ -147,7 +147,7 @@ The following samples represent just some of the possibilities when creating dis
 
 **Type** disease, ingested; **Save** [Fortitude](combat#_fortitude) DC 16
 
-**Onset** 1d3 days; **Frequency** 1/day
+**Onset** 1d3 days; **Frequency** 1_dir/day
 
 **Effect** 1d4 [Str](gettingStarted#_strength) damage, if more than 2 [Str](gettingStarted#_strength) damage, target must make an additional Fort save or be permanently blinded; **Cure** 2 consecutive saves
 
@@ -155,7 +155,7 @@ The following samples represent just some of the possibilities when creating dis
 
 **Type** disease, injury or inhaled; **Save** [Fortitude](combat#_fortitude) DC 17
 
-**Onset** 1 day; **Frequency** 1/day
+**Onset** 1 day; **Frequency** 1_dir/day
 
 **Effect** 1d4 [Con](gettingStarted#_constitution) damage and 1 [Cha](gettingStarted#_charisma-new) damage and target is fatigued; **Cure** 2 consecutive saves
 
@@ -163,7 +163,7 @@ The following samples represent just some of the possibilities when creating dis
 
 **Type** disease, inhaled; **Save** [Fortitude](combat#_fortitude) DC 16
 
-**Onset** 1 day; **Frequency** 1/day
+**Onset** 1 day; **Frequency** 1_dir/day
 
 **Effect** 1d6 [Wis](gettingStarted#_wisdom) damage; **Cure** 2 consecutive saves
 
@@ -171,7 +171,7 @@ The following samples represent just some of the possibilities when creating dis
 
 **Type** disease, injury; **Save** [Fortitude](combat#_fortitude) DC 18
 
-**Onset** 1 day; **Frequency** 1/day
+**Onset** 1 day; **Frequency** 1_dir/day
 
 **Effect** 1d6 [Con](gettingStarted#_constitution) damage, target must make a second Fort save or 1 point of the damage is drain instead; **Cure** 2 consecutive saves
 
@@ -179,7 +179,7 @@ The following samples represent just some of the possibilities when creating dis
 
 **Type** disease, injury; **Save** [Fortitude](combat#_fortitude) DC 14
 
-**Onset** 1d4 days; **Frequency** 1/day
+**Onset** 1d4 days; **Frequency** 1_dir/day
 
 **Effect** 1d4 [Str](gettingStarted#_strength) damage; **Cure** 3 consecutive saves
 
@@ -187,7 +187,7 @@ The following samples represent just some of the possibilities when creating dis
 
 **Type** disease, injury; **Save** [Fortitude](combat#_fortitude) DC 12
 
-**Onset** 1d3 days; **Frequency** 1/day
+**Onset** 1d3 days; **Frequency** 1_dir/day
 
 **Effect** 1d3 [Dex](gettingStarted#_dexterity) damage and 1d3 [Con](gettingStarted#_constitution) damage; **Cure** 2 consecutive saves
 
@@ -195,7 +195,7 @@ The following samples represent just some of the possibilities when creating dis
 
 **Type** disease, contact, inhaled, or injury; **Save** [Fortitude](combat#_fortitude) DC 12 negates, [Fortitude](combat#_fortitude) DC 20 to avoid effects
 
-**Onset** 2d4 weeks; **Frequency** 1/week
+**Onset** 2d4 weeks; **Frequency** 1_dir/week
 
 **Effect** 1d2 [Cha](gettingStarted#_charisma-new) damage; **Cure** 2 consecutive saves
 
@@ -203,7 +203,7 @@ The following samples represent just some of the possibilities when creating dis
 
 **Type** disease, inhaled; **Save** [Fortitude](combat#_fortitude) DC 12
 
-**Onset** 1 day; **Frequency** 1/day
+**Onset** 1 day; **Frequency** 1_dir/day
 
 **Effect** 1d4 [Int](gettingStarted#_intelligence) damage; **Cure** 2 consecutive saves
 
@@ -211,7 +211,7 @@ The following samples represent just some of the possibilities when creating dis
 
 **Type** disease, injury; **Save** [Fortitude](combat#_fortitude) DC 15
 
-**Onset** 1d3 days; **Frequency** 1/day
+**Onset** 1d3 days; **Frequency** 1_dir/day
 
 **Effect** 1d6 [Str](gettingStarted#_strength) damage; **Cure** 2 consecutive saves
 
@@ -219,7 +219,7 @@ The following samples represent just some of the possibilities when creating dis
 
 **Type** disease, contact; **Save** [Fortitude](combat#_fortitude) DC 13
 
-**Onset** 1 day; **Frequency** 1/day
+**Onset** 1 day; **Frequency** 1_dir/day
 
 **Effect** 1d8 [Dex](gettingStarted#_dexterity) damage; **Cure** 2 consecutive saves
 
@@ -227,13 +227,13 @@ The following samples represent just some of the possibilities when creating dis
 
 **Type** disease, contact; **Save** [Fortitude](combat#_fortitude) DC 14
 
-**Onset** 1 day; **Frequency** 1/day
+**Onset** 1 day; **Frequency** 1_dir/day
 
 **Effect** 1d4 [Con](gettingStarted#_constitution) damage, target must make a second Fort save or 1 point of the damage is drain instead; **Cure** 2 consecutive saves
 
 ## Poison
 
-No other affliction is so prevalent as poison. From the fangs of a viper to the ichor-stained assassin's blade, poison is a constant threat. Poisons can be cured by successful saving throws and spells such as _ [neutralize poison](spells/neutralizePoison#_neutralize-poison)_.
+No other affliction is so prevalent as poison. From the fangs of a viper to the ichor-stained assassin's blade, poison is a constant threat. Poisons can be cured by successful saving throws and spells such as _ [neutralize poison](spells_dir/neutralizePoison#_neutralize-poison)_.
 
 Contact poisons are contracted the moment someone touches the poison with his bare skin. Such poisons can be used as injury poisons. Contact poisons usually have an onset time of 1 minute and a frequency of 1 minute. Ingested poisons are contracted when a creature eats or drinks the poison. Ingested poisons usually have an onset time of 10 minutes and a frequency of 1 minute. Injury poisons are primarily contracted through the attacks of certain creatures and through weapons coated in the toxin. Injury poisons do not usually have an onset time and have a frequency of 1 round. Inhaled poisons are contracted the moment a creature enters an area containing such poisons. Most inhaled poisons fill a volume equal to a 10-foot cube per dose. Creatures can attempt to hold their breaths while inside to avoid inhaling the toxin. Creatures holding their breaths receive a 50% chance of not having to make a [Fortitude](combat#_fortitude) save each round. See the rules for holding your breath and suffocation in [Environment](environment). Note that a character that would normally suffocate while attempting to hold its breath instead begins to breathe normally again.
 
@@ -241,54 +241,54 @@ Unlike other afflictions, multiple doses of the same poison stack. Poisons deliv
 
 Applying poison to a weapon or single piece of ammunition is a standard action. Whenever a character applies or readies a poison for use there is a 5% chance that he exposes himself to the poison and must save against the poison as normal. This does not consume the dose of poison. Whenever a character attacks with a poisoned weapon, if the attack roll results in a natural 1, he exposes himself to the poison. This poison is consumed when the weapon strikes a creature or is touched by the wielder. Characters with the poison use class feature do not risk accidentally poisoning themselves.
 
-Poisons can be made using [Craft](skills/craft#_craft) (alchemy). The DC to make a poison is equal to its [Fortitude](combat#_fortitude) save DC. Rolling a natural 1 on a [Craft](skills/craft#_craft) skill check while making a poison exposes the crafter to the poison. Crafters with the poison use class feature do not risk poisoning themselves when using [Craft](skills/craft#_craft) to make poison.
+Poisons can be made using [Craft](skills_dir/craft#_craft) (alchemy). The DC to make a poison is equal to its [Fortitude](combat#_fortitude) save DC. Rolling a natural 1 on a [Craft](skills_dir/craft#_craft) skill check while making a poison exposes the crafter to the poison. Crafters with the poison use class feature do not risk poisoning themselves when using [Craft](skills_dir/craft#_craft) to make poison.
 
 The following samples represent just some of the possibilities when creating poisons.
 
 [Table: Sample Poisons]
 | Name | Type | Fort DC | Onset | Frequency | Effect | Cure | Cost |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Arsenic | ingested | 13 | 10 min. | 1/min. for 4 min. | 1d2 [Con](gettingStarted#_constitution) | 1 save | 120 gp |
-| Belladonna | ingested | 14 | 10 min. | 1/min. for 6 min. | 1d2 [Str](gettingStarted#_strength), see text | 1 save | 100 gp |
-| Black adder venom | injury | 11 | — | 1/rd. for 6 rds. | 1d2 [Con](gettingStarted#_constitution) | 1 save | 120 gp |
-| Black lotus extract | contact | 20 | 1 min. | 1/rd. for 6 rds. | 1d6 [Con](gettingStarted#_constitution) | 2 saves | 4,500 gp |
-| Bloodroot | injury | 12 | 1 rd. | 1/rd. for 4 rds. | 1 [Con](gettingStarted#_constitution) and 1 [Wis](gettingStarted#_wisdom) | 1 save | 100 gp |
-| Blue whinnis | injury | 14 | — | 1/rd. for 2 rds | 1 [Con](gettingStarted#_constitution)/unconscious 1d3 hours | 1 save | 120 gp |
-| Burnt othur fumes | inhaled | 18 | — | 1/rd. for 6 rds. | 1 [Con](gettingStarted#_constitution) drain/1d3 [Con](gettingStarted#_constitution) | 2 saves | 2,100 gp |
-| Dark reaver powder | ingested | 18 | 10 min. | 1/min. for 6 min. | 1d3 [Con](gettingStarted#_constitution) and 1 [Str](gettingStarted#_strength) | 2 saves | 800 gp |
-| Deathblade | injury | 20 | — | 1/rd. for 6 rds. | 1d3 [Con](gettingStarted#_constitution) | 2 saves | 1,800 gp |
-| Dragon bile | contact | 26 | — | 1/rd. for 6 rds. | 1d3 [Str](gettingStarted#_strength) | — | 1,500 gp |
-| Drow poison | injury | 13 | — | 1/min. for 2 min. | unconscious 1 min./2d4 hours | 1 save | 75 gp |
-| Giant wasp poison | injury | 18 | — | 1/rd. for 6 rds. | 1d2 [Dex](gettingStarted#_dexterity) | 1 save | 210 gp |
-| Greenblood oil | injury | 13 | — | 1/rd. for 4 rds. | 1 [Con](gettingStarted#_constitution) | 1 save | 100 gp |
-| Green prismatic poison | spell | varies | — | 1/rd. | for 6 rds. Death/1 [Con](gettingStarted#_constitution) | 2 saves | — |
-| Hemlock | ingested | 18 | 10 min. | 1/min. for 6 min. | 1d6 [Dex](gettingStarted#_dexterity), see text | 2 saves | 2,500 gp |
-| Id moss | ingested | 14 | 10 min. | 1/min. for 6 min. | 1d3 [Int](gettingStarted#_intelligence) | 1 save | 125 gp |
-| Insanity mist | inhaled | 15 | — | 1/rd. for 6 rds. | 1d3 [Wis](gettingStarted#_wisdom) | 1 save | 1,500 gp |
-| King's sleep | ingested | 19 | 1 day | 1/day | 1 [Con](gettingStarted#_constitution) drain | 2 saves | 5,000 gp |
-| Large scorpion venom | injury | 17 | — | 1/rd. for 6 rds. | 1d2 [Str](gettingStarted#_strength) | 1 save | 200 gp |
-| Lich dust | ingested | 17 | 10 min. | 1/min. for 6 min. | 1d3 [Str](gettingStarted#_strength) | 2 saves | 400 gp |
-| Malyass root paste | contact | 16 | 1 min. | 1/min. for 6 min. | 1d2 [Dex](gettingStarted#_dexterity) | 1 save | 250 gp |
-| Medium spider venom | injury | 14 | — | 1/rd. for 4 rds. | 1d2 [Str](gettingStarted#_strength) | 1 save | 150 gp |
-| Nightmare vapor | inhaled | 20 | — | 1/rd. for 6 rds. | 1 [Wis](gettingStarted#_wisdom) and confused 1 round | 2 saves | 1,800 gp |
-| Nitharit | contact | 13 | 1 min. | 1/min. for 6 min. | 1d3 [Con](gettingStarted#_constitution) | 1 save | 650 gp |
+| Arsenic | ingested | 13 | 10 min. | 1_dir/min. for 4 min. | 1d2 [Con](gettingStarted#_constitution) | 1 save | 120 gp |
+| Belladonna | ingested | 14 | 10 min. | 1_dir/min. for 6 min. | 1d2 [Str](gettingStarted#_strength), see text | 1 save | 100 gp |
+| Black adder venom | injury | 11 | — | 1_dir/rd. for 6 rds. | 1d2 [Con](gettingStarted#_constitution) | 1 save | 120 gp |
+| Black lotus extract | contact | 20 | 1 min. | 1_dir/rd. for 6 rds. | 1d6 [Con](gettingStarted#_constitution) | 2 saves | 4,500 gp |
+| Bloodroot | injury | 12 | 1 rd. | 1_dir/rd. for 4 rds. | 1 [Con](gettingStarted#_constitution) and 1 [Wis](gettingStarted#_wisdom) | 1 save | 100 gp |
+| Blue whinnis | injury | 14 | — | 1_dir/rd. for 2 rds | 1 [Con](gettingStarted#_constitution)_dir/unconscious 1d3 hours | 1 save | 120 gp |
+| Burnt othur fumes | inhaled | 18 | — | 1_dir/rd. for 6 rds. | 1 [Con](gettingStarted#_constitution) drain_dir/1d3 [Con](gettingStarted#_constitution) | 2 saves | 2,100 gp |
+| Dark reaver powder | ingested | 18 | 10 min. | 1_dir/min. for 6 min. | 1d3 [Con](gettingStarted#_constitution) and 1 [Str](gettingStarted#_strength) | 2 saves | 800 gp |
+| Deathblade | injury | 20 | — | 1_dir/rd. for 6 rds. | 1d3 [Con](gettingStarted#_constitution) | 2 saves | 1,800 gp |
+| Dragon bile | contact | 26 | — | 1_dir/rd. for 6 rds. | 1d3 [Str](gettingStarted#_strength) | — | 1,500 gp |
+| Drow poison | injury | 13 | — | 1_dir/min. for 2 min. | unconscious 1 min._dir/2d4 hours | 1 save | 75 gp |
+| Giant wasp poison | injury | 18 | — | 1_dir/rd. for 6 rds. | 1d2 [Dex](gettingStarted#_dexterity) | 1 save | 210 gp |
+| Greenblood oil | injury | 13 | — | 1_dir/rd. for 4 rds. | 1 [Con](gettingStarted#_constitution) | 1 save | 100 gp |
+| Green prismatic poison | spell | varies | — | 1_dir/rd. | for 6 rds. Death_dir/1 [Con](gettingStarted#_constitution) | 2 saves | — |
+| Hemlock | ingested | 18 | 10 min. | 1_dir/min. for 6 min. | 1d6 [Dex](gettingStarted#_dexterity), see text | 2 saves | 2,500 gp |
+| Id moss | ingested | 14 | 10 min. | 1_dir/min. for 6 min. | 1d3 [Int](gettingStarted#_intelligence) | 1 save | 125 gp |
+| Insanity mist | inhaled | 15 | — | 1_dir/rd. for 6 rds. | 1d3 [Wis](gettingStarted#_wisdom) | 1 save | 1,500 gp |
+| King's sleep | ingested | 19 | 1 day | 1_dir/day | 1 [Con](gettingStarted#_constitution) drain | 2 saves | 5,000 gp |
+| Large scorpion venom | injury | 17 | — | 1_dir/rd. for 6 rds. | 1d2 [Str](gettingStarted#_strength) | 1 save | 200 gp |
+| Lich dust | ingested | 17 | 10 min. | 1_dir/min. for 6 min. | 1d3 [Str](gettingStarted#_strength) | 2 saves | 400 gp |
+| Malyass root paste | contact | 16 | 1 min. | 1_dir/min. for 6 min. | 1d2 [Dex](gettingStarted#_dexterity) | 1 save | 250 gp |
+| Medium spider venom | injury | 14 | — | 1_dir/rd. for 4 rds. | 1d2 [Str](gettingStarted#_strength) | 1 save | 150 gp |
+| Nightmare vapor | inhaled | 20 | — | 1_dir/rd. for 6 rds. | 1 [Wis](gettingStarted#_wisdom) and confused 1 round | 2 saves | 1,800 gp |
+| Nitharit | contact | 13 | 1 min. | 1_dir/min. for 6 min. | 1d3 [Con](gettingStarted#_constitution) | 1 save | 650 gp |
 | Oil of taggit | ingested | 15 | min. | — | unconscious 1d3 hours | 1 save | 90 gp |
-| Purple worm poison | injury | 24 | — | 1/rd. for 6 rds. | 1d3 [Str](gettingStarted#_strength) | 2 saves | 700 gp |
-| Sassone leaf residue | contact | 16 | 1 min. | 1/min. for 6 min. | 2d12 hp/1 [Con](gettingStarted#_constitution) | 1 save | 300 gp |
-| Shadow essence | injury | 17 | — | 1/rd. for 6 rds. | 1 [Str](gettingStarted#_strength) drain/1d2 [Str](gettingStarted#_strength) | 1 save | 250 gp |
-| Small centipede poison | injury | 11 | — | 1/rd. for 4 rds. | 1 [Dex](gettingStarted#_dexterity) | save | 90 gp |
-| Striped toadstool | ingested | 11 | 10 min. | 1/min. for 4 min. | 1d3 [Wis](gettingStarted#_wisdom) and 1 [Int](gettingStarted#_intelligence) | 1 save | 180 gp |
-| Tears of death | contact | 22 | 1 min. | 1/min. for 6 min. | 1d6 [Con](gettingStarted#_constitution) and paralyzed 1 min. | — | 6,500 gp |
-| Terinav root | contact | 16 | 1 min. | 1/min. for 6 min. | 1d3 [Dex](gettingStarted#_dexterity) | 1 save | 400 gp |
-| Ungol dust | inhaled | 15 | — | 1/rd. for 4 rds. | 1 [Cha](gettingStarted#_charisma-new) drain/1d2 [Cha](gettingStarted#_charisma-new) | 1 save | 1,000 gp |
-| Wolfsbane | ingested | 16 | 10 min. | 1/min. for 6 min. | 1d3 [Con](gettingStarted#_constitution) | 1 save | 500 gp |
-| Wyvern poison | injury | 17 | — | 1/rd. for 6 rds. | 1d4 [Con](gettingStarted#_constitution) | 2 saves | 3,000 gp |
+| Purple worm poison | injury | 24 | — | 1_dir/rd. for 6 rds. | 1d3 [Str](gettingStarted#_strength) | 2 saves | 700 gp |
+| Sassone leaf residue | contact | 16 | 1 min. | 1_dir/min. for 6 min. | 2d12 hp_dir/1 [Con](gettingStarted#_constitution) | 1 save | 300 gp |
+| Shadow essence | injury | 17 | — | 1_dir/rd. for 6 rds. | 1 [Str](gettingStarted#_strength) drain_dir/1d2 [Str](gettingStarted#_strength) | 1 save | 250 gp |
+| Small centipede poison | injury | 11 | — | 1_dir/rd. for 4 rds. | 1 [Dex](gettingStarted#_dexterity) | save | 90 gp |
+| Striped toadstool | ingested | 11 | 10 min. | 1_dir/min. for 4 min. | 1d3 [Wis](gettingStarted#_wisdom) and 1 [Int](gettingStarted#_intelligence) | 1 save | 180 gp |
+| Tears of death | contact | 22 | 1 min. | 1_dir/min. for 6 min. | 1d6 [Con](gettingStarted#_constitution) and paralyzed 1 min. | — | 6,500 gp |
+| Terinav root | contact | 16 | 1 min. | 1_dir/min. for 6 min. | 1d3 [Dex](gettingStarted#_dexterity) | 1 save | 400 gp |
+| Ungol dust | inhaled | 15 | — | 1_dir/rd. for 4 rds. | 1 [Cha](gettingStarted#_charisma-new) drain_dir/1d2 [Cha](gettingStarted#_charisma-new) | 1 save | 1,000 gp |
+| Wolfsbane | ingested | 16 | 10 min. | 1_dir/min. for 6 min. | 1d3 [Con](gettingStarted#_constitution) | 1 save | 500 gp |
+| Wyvern poison | injury | 17 | — | 1_dir/rd. for 6 rds. | 1d4 [Con](gettingStarted#_constitution) | 2 saves | 3,000 gp |
 
 **Arsenic**
 
 **Type** poison, ingested; **Save** [Fortitude](combat#_fortitude) DC 13
 
-**Onset** 10 minutes.; **Frequency** 1/minute for 4 minutes
+**Onset** 10 minutes.; **Frequency** 1_dir/minute for 4 minutes
 
 **Effect** 1d2 [Con](gettingStarted#_constitution) damage; **Cure** 1 save
 
@@ -296,7 +296,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, ingested; **Save** [Fortitude](combat#_fortitude) DC 14
 
-**Onset** 10 minutes; **Frequency** 1/minute for 6 minutes
+**Onset** 10 minutes; **Frequency** 1_dir/minute for 6 minutes
 
 **Effect** 1d2 [Str](gettingStarted#_strength) damage, target can attempt one save to cure a lycanthropy affliction contracted in the past hour; **Cure** 1 save
 
@@ -304,7 +304,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 11
 
-**Frequency** 1/round for 6 rounds
+**Frequency** 1_dir/round for 6 rounds
 
 **Effect** 1d2 [Con](gettingStarted#_constitution) damage; **Cure** 1 save
 
@@ -312,7 +312,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, contact; **Save** [Fortitude](combat#_fortitude) DC 20
 
-**Onset** 1 minute; **Frequency** 1/round for 6 rounds
+**Onset** 1 minute; **Frequency** 1_dir/round for 6 rounds
 
 **Effect** 1d6 [Con](gettingStarted#_constitution) damage; **Cure** 2 consecutive saves
 
@@ -320,7 +320,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 12
 
-**Onset** 1 round; **Frequency** 1/round for 4 rounds
+**Onset** 1 round; **Frequency** 1_dir/round for 4 rounds
 
 **Effect** 1 [Con](gettingStarted#_constitution) damage and 1 [Wis](gettingStarted#_wisdom) damage; **Cure** 1 save
 
@@ -328,7 +328,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 14
 
-**Frequency** 1/round for 2 rounds
+**Frequency** 1_dir/round for 2 rounds
 
 **Initial Effect** 1 [Con](gettingStarted#_constitution) damage; **Secondary Effect** unconsciousness for 1d3 hours; **Cure** 1 save
 
@@ -336,7 +336,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, inhaled; **Save** [Fortitude](combat#_fortitude) DC 18
 
-**Frequency** 1/round for 6 rounds
+**Frequency** 1_dir/round for 6 rounds
 
 **Initial Effect** 1 [Con](gettingStarted#_constitution) drain; **Secondary Effect** 1d3 [Con](gettingStarted#_constitution) damage; **Cure** 2 consecutive saves
 
@@ -344,7 +344,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, ingested; **Save** [Fortitude](combat#_fortitude) DC 18
 
-**Onset** 10 minutes; **Frequency** 1/minute for 6 minutes
+**Onset** 10 minutes; **Frequency** 1_dir/minute for 6 minutes
 
 **Effect** 1d3 [Con](gettingStarted#_constitution) damage and 1 [Str](gettingStarted#_strength) damage; **Cure** 2 consecutive saves
 
@@ -352,7 +352,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 20
 
-**Frequency** 1/round for 6 rounds
+**Frequency** 1_dir/round for 6 rounds
 
 **Effect** 1d3 [Con](gettingStarted#_constitution) damage; **Cure** 2 consecutive saves
 
@@ -360,7 +360,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, contact; **Save** [Fortitude](combat#_fortitude) DC 26
 
-**Frequency** 1/round for 6 rounds
+**Frequency** 1_dir/round for 6 rounds
 
 **Effect** 1d3 [Str](gettingStarted#_strength) damage
 
@@ -368,7 +368,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 13
 
-**Frequency** 1/minute for 2 minutes
+**Frequency** 1_dir/minute for 2 minutes
 
 **Initial Effect** unconsciousness for 1 minute; **Secondary Effect** unconsciousness for 2d4 hours; **Cure** 1 save
 
@@ -376,7 +376,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 18
 
-**Frequency** 1/round for 6 rounds
+**Frequency** 1_dir/round for 6 rounds
 
 **Effect** 1d2 [Dex](gettingStarted#_dexterity) damage; **Cure** 1 save
 
@@ -384,7 +384,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 13
 
-**Frequency** 1/round for 4 rounds
+**Frequency** 1_dir/round for 4 rounds
 
 **Effect** 1 [Con](gettingStarted#_constitution) damage; **Cure** 1 save
 
@@ -392,15 +392,15 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, spell; **Save** Fort DC varies by spell
 
-**Frequency** 1/round for 6 rounds
+**Frequency** 1_dir/round for 6 rounds
 
-**Initial Effect** death; **Secondary Effect** 1 [Con](gettingStarted#_constitution) damage; **Cure** 2 consecutive saves. See _ [prismatic sphere](spells/prismaticSphere#_prismatic-sphere), [prismatic spray](spells/prismaticSpray#_prismatic-spray), _or _ [prismatic wall](spells/prismaticWall#_prismatic-wall)_ for more details.
+**Initial Effect** death; **Secondary Effect** 1 [Con](gettingStarted#_constitution) damage; **Cure** 2 consecutive saves. See _ [prismatic sphere](spells_dir/prismaticSphere#_prismatic-sphere), [prismatic spray](spells_dir/prismaticSpray#_prismatic-spray), _or _ [prismatic wall](spells_dir/prismaticWall#_prismatic-wall)_ for more details.
 
 **Hemlock**
 
 **Type** poison, ingested; **Save** [Fortitude](combat#_fortitude) DC 18
 
-**Onset** 10 minutes; **Frequency** 1/minute for 6 minutes
+**Onset** 10 minutes; **Frequency** 1_dir/minute for 6 minutes
 
 **Effect** 1d6 [Dex](gettingStarted#_dexterity) damage, creatures reduced to 0 [Dexterity](gettingStarted#_dexterity) suffocate; **Cure** 2 consecutive saves
 
@@ -408,7 +408,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, ingested; **Save** [Fortitude](combat#_fortitude) DC 14
 
-**Onset** 10 minutes; **Frequency** 1/minute for 6 minutes
+**Onset** 10 minutes; **Frequency** 1_dir/minute for 6 minutes
 
 **Effect** 1d3 [Int](gettingStarted#_intelligence) damage; **Cure** 1 save
 
@@ -416,7 +416,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, inhaled; **Save** [Fortitude](combat#_fortitude) DC 15
 
-**Frequency** 1/rounds for 6 rounds
+**Frequency** 1_dir/rounds for 6 rounds
 
 **Effect** 1d3 [Wis](gettingStarted#_wisdom) damage; **Cure** 1 save
 
@@ -424,7 +424,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, ingested; **Save** [Fortitude](combat#_fortitude) DC 19
 
-**Onset** 1 day; **Frequency** 1/day
+**Onset** 1 day; **Frequency** 1_dir/day
 
 **Effect** 1 [Con](gettingStarted#_constitution) drain; **Cure** 2 consecutive saves
 
@@ -432,7 +432,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 17
 
-**Frequency** 1/round for 6 rounds
+**Frequency** 1_dir/round for 6 rounds
 
 **Effect** 1d2 [Str](gettingStarted#_strength) damage; **Cure** 1 save
 
@@ -440,7 +440,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, ingested; **Save** [Fortitude](combat#_fortitude) DC 17
 
-**Onset** 10 minutes; **Frequency** 1/minute for 6 minutes
+**Onset** 10 minutes; **Frequency** 1_dir/minute for 6 minutes
 
 **Effect** 1d3 [Str](gettingStarted#_strength) damage; **Cure** 2 consecutive saves
 
@@ -448,7 +448,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, contact; **Save** [Fortitude](combat#_fortitude) DC 16
 
-**Onset** 1 minute; **Frequency** 1/minute for 6 minutes
+**Onset** 1 minute; **Frequency** 1_dir/minute for 6 minutes
 
 **Effect** 1d2 [Dex](gettingStarted#_dexterity) damage; **Cure** 1 save
 
@@ -456,7 +456,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 14
 
-**Frequency** 1/round for 4 rounds
+**Frequency** 1_dir/round for 4 rounds
 
 **Effect** 1d2 [Str](gettingStarted#_strength) damage; **Cure** 1 save
 
@@ -464,7 +464,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, inhaled; **Save** [Fortitude](combat#_fortitude) DC 20
 
-**Frequency** 1/round for 6 rounds
+**Frequency** 1_dir/round for 6 rounds
 
 **Effect** 1 [Wis](gettingStarted#_wisdom) damage and confused for 1 round; **Cure** 2 consecutive saves
 
@@ -472,7 +472,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, contact; **Save** [Fortitude](combat#_fortitude) DC 13
 
-**Onset** 1 minute; **Frequency** 1/minute for 6 minutes
+**Onset** 1 minute; **Frequency** 1_dir/minute for 6 minutes
 
 **Effect** 1d3 [Con](gettingStarted#_constitution) damage; **Cure** 1 save
 
@@ -488,7 +488,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 24
 
-**Frequency** 1/round for 6 rounds
+**Frequency** 1_dir/round for 6 rounds
 
 **Effect** 1d3 [Str](gettingStarted#_strength) damage; **Cure** 2 consecutive saves
 
@@ -496,7 +496,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, contact; **Save** [Fortitude](combat#_fortitude) DC 16
 
-**Onset** 1 minute; **Frequency** 1/minute for 6 minutes
+**Onset** 1 minute; **Frequency** 1_dir/minute for 6 minutes
 
 **Initial Effect** 2d12 hit point damage; **Secondary Effect** 1 [Con](gettingStarted#_constitution) damage; **Cure** 1 save
 
@@ -504,7 +504,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 17
 
-**Frequency** 1/round for 6 rounds
+**Frequency** 1_dir/round for 6 rounds
 
 **Initial Effect** 1 [Str](gettingStarted#_strength) drain; **Secondary Effect** 1d2 [Str](gettingStarted#_strength) damage; **Cure** 1 save
 
@@ -512,7 +512,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 11
 
-**Frequency** 1/round for 4 rounds
+**Frequency** 1_dir/round for 4 rounds
 
 **Effect** 1 [Dex](gettingStarted#_dexterity) damage; **Cure** 1 save
 
@@ -520,7 +520,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, ingested; **Save** [Fortitude](combat#_fortitude) DC 11
 
-**Onset** 10 minutes; **Frequency** 1/minute for 4 minutes
+**Onset** 10 minutes; **Frequency** 1_dir/minute for 4 minutes
 
 **Effect** 1d3 [Wis](gettingStarted#_wisdom) damage and 1 [Int](gettingStarted#_intelligence) damage; **Cure** 1 save
 
@@ -528,7 +528,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, contact; **Save** [Fortitude](combat#_fortitude) DC 22
 
-**Onset** 1 minute; **Frequency** 1/minute for 6 minutes
+**Onset** 1 minute; **Frequency** 1_dir/minute for 6 minutes
 
 **Effect** 1d6 [Con](gettingStarted#_constitution) damage and paralyzed for 1 minute
 
@@ -536,7 +536,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, contact; **Save** [Fortitude](combat#_fortitude) DC 16
 
-**Onset** 1 minute; **Frequency** 1/minute for 6 minutes
+**Onset** 1 minute; **Frequency** 1_dir/minute for 6 minutes
 
 **Effect** 1d3 [Dex](gettingStarted#_dexterity) damage; **Cure** 1 save
 
@@ -544,7 +544,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, inhaled; **Save** [Fortitude](combat#_fortitude) DC 15
 
-**Frequency** 1/round for 4 rounds
+**Frequency** 1_dir/round for 4 rounds
 
 **Initial Effect** 1 [Cha](gettingStarted#_charisma-new) drain; **Secondary Effect** 1d2 [Cha](gettingStarted#_charisma-new) damage; **Cure** 1 save
 
@@ -552,7 +552,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, ingested; **Save** [Fortitude](combat#_fortitude) DC 16
 
-**Onset** 10 minute; **Frequency** 1/minute for 6 minutes
+**Onset** 10 minute; **Frequency** 1_dir/minute for 6 minutes
 
 **Effect** 1d3 [Con](gettingStarted#_constitution) damage; **Cure** 1 save
 
@@ -560,7 +560,7 @@ The following samples represent just some of the possibilities when creating poi
 
 **Type** poison, injury; **Save** [Fortitude](combat#_fortitude) DC 17
 
-**Frequency** 1/round for 6 rounds
+**Frequency** 1_dir/round for 6 rounds
 
 **Effect** 1d4 [Con](gettingStarted#_constitution) damage; **Cure** 2 consecutive saves
 
@@ -575,7 +575,7 @@ Some creatures possess blindsight, the extraordinary ability to use a nonvisual 
 - Blindsight works underwater but not in a vacuum.
 - Blindsight negates displacement and blur effects.
 
-**Blindsense** : Other creatures have blindsense, a lesser ability that lets the creature notice things it cannot see, but without the precision of blindsight. The creature with blindsense usually does not need to make [Perception](skills/perception#_perception) checks to notice and locate creatures within range of its blindsense ability, provided that it has line of effect to that creature. Any opponent that cannot be seen has total concealment (50% miss chance) against a creature with blindsense, and the blindsensing creature still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its [Dexterity](gettingStarted#_dexterity) bonus to [Armor Class](combat#_armor-class) against attacks from creatures it cannot see.
+**Blindsense** : Other creatures have blindsense, a lesser ability that lets the creature notice things it cannot see, but without the precision of blindsight. The creature with blindsense usually does not need to make [Perception](skills_dir/perception#_perception) checks to notice and locate creatures within range of its blindsense ability, provided that it has line of effect to that creature. Any opponent that cannot be seen has total concealment (50% miss chance) against a creature with blindsense, and the blindsensing creature still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its [Dexterity](gettingStarted#_dexterity) bonus to [Armor Class](combat#_armor-class) against attacks from creatures it cannot see.
 
 ## Channel Resistance
 
@@ -603,7 +603,7 @@ Regardless of whether a character is charmed or compelled, he does not volunteer
 
 Some magic creatures have the supernatural ability to instantly heal damage from weapons or ignore blows altogether as though they were invulnerable.
 
-The numerical part of a creature's damage reduction (or DR) is the amount of damage the creature ignores from normal attacks. Usually, a certain type of weapon can overcome this reduction (see Overcoming DR). This information is separated from the damage reduction number by a slash. For example, DR 5/magic means that a creature takes 5 less points of damage from all weapons that are not magic. If a dash follows the slash, then the damage reduction is effective against any attack that does not ignore damage reduction.
+The numerical part of a creature's damage reduction (or DR) is the amount of damage the creature ignores from normal attacks. Usually, a certain type of weapon can overcome this reduction (see Overcoming DR). This information is separated from the damage reduction number by a slash. For example, DR 5_dir/magic means that a creature takes 5 less points of damage from all weapons that are not magic. If a dash follows the slash, then the damage reduction is effective against any attack that does not ignore damage reduction.
 
 Whenever damage reduction completely negates the damage from an attack, it also negates most special effects that accompany the attack, such as injury poison, a monk's stunning, and injury-based disease. Damage reduction does not negate touch attacks, energy damage dealt along with an attack, or energy drains. Nor does it affect poisons or diseases delivered by inhalation, ingestion, or contact.
 
@@ -623,7 +623,7 @@ Weapons with an enhancement bonus of +3 or greater can ignore some types of dama
 
 | DR Type | Weapon Enhancement Bonus Equivalent |
 | --- | --- |
-| cold iron/silver | +3 |
+| cold iron_dir/silver | +3 |
 | adamantine\* | +4 |
 | alignment-based | +5 |
 
@@ -635,10 +635,10 @@ Darkvision is the extraordinary ability to see with no light source at all, out 
 
 In most cases, a death attack allows the victim a [Fortitude](combat#_fortitude) save to avoid the effect, but if the save fails, the creature takes a large amount of damage, which might cause it to die instantly.
 
-- _ [Raise dead](spells/raiseDead#_raise-dead) _doesn't work on someone killed by a death attack or effect.
+- _ [Raise dead](spells_dir/raiseDead#_raise-dead) _doesn't work on someone killed by a death attack or effect.
 - Death attacks slay instantly. A victim cannot be made stable and thereby kept alive.
 - In case it matters, a dead character, no matter how he died, has [hit points](gettingStarted#_hit-points) equal to or less than his negative [Constitution](gettingStarted#_constitution) score.
-- The spell _ [death ward](spells/deathWard#_death-ward) _protects against these attacks.
+- The spell _ [death ward](spells_dir/deathWard#_death-ward) _protects against these attacks.
 
 ## Energy Drain and Negative Levels
 
@@ -648,7 +648,7 @@ For each negative level a creature has, it takes a cumulative –1 penalty on al
 
 A creature with temporary negative levels receives a new saving throw to remove the negative level each day. The DC of this save is the same as the effect that caused the negative levels.
 
-Some abilities and spells (such as _ [raise dead](spells/raiseDead#_raise-dead)_) bestow permanent level drain on a creature. These are treated just like temporary negative levels, but they do not allow a new save each day to remove them. Level drain can be removed through spells like _restoration_. Permanent negative levels remain after a dead creature is restored to life. A creature whose permanent negative levels equal its Hit Dice cannot be brought back to life through spells like _ [raise dead](spells/raiseDead#_raise-dead)_ and _ [resurrection](spells/resurrection#_resurrection)_ without also receiving a _ [restoration](spells/restoration#_restoration) _spell, cast the round after it is restored to life.
+Some abilities and spells (such as _ [raise dead](spells_dir/raiseDead#_raise-dead)_) bestow permanent level drain on a creature. These are treated just like temporary negative levels, but they do not allow a new save each day to remove them. Level drain can be removed through spells like _restoration_. Permanent negative levels remain after a dead creature is restored to life. A creature whose permanent negative levels equal its Hit Dice cannot be brought back to life through spells like _ [raise dead](spells_dir/raiseDead#_raise-dead)_ and _ [resurrection](spells_dir/resurrection#_resurrection)_ without also receiving a _ [restoration](spells_dir/restoration#_restoration) _spell, cast the round after it is restored to life.
 
 ## Energy Immunity and Vulnerability
 
@@ -682,16 +682,16 @@ Invisibility makes a creature undetectable by vision, including darkvision.
 
 Invisibility does not, by itself, make a creature immune to critical hits, but it does make the creature immune to extra damage from being a ranger's favored enemy and from sneak attacks.
 
-A creature can generally notice the presence of an active invisible creature within 30 feet with a DC 20 [Perception](skills/perception#_perception) check. The observer gains a hunch that “something's there” but can't see it or target it accurately with an attack. It's practically impossible (+20 DC) to pinpoint an invisible creature's location with a [Perception](skills/perception#_perception) check. Even once a character has pinpointed the square that contains an invisible creature, the creature still benefits from total concealment (50% miss chance). There are a number of modifiers that can be applied to this DC if the invisible creature is moving or engaged in a noisy activity.
+A creature can generally notice the presence of an active invisible creature within 30 feet with a DC 20 [Perception](skills_dir/perception#_perception) check. The observer gains a hunch that “something's there” but can't see it or target it accurately with an attack. It's practically impossible (+20 DC) to pinpoint an invisible creature's location with a [Perception](skills_dir/perception#_perception) check. Even once a character has pinpointed the square that contains an invisible creature, the creature still benefits from total concealment (50% miss chance). There are a number of modifiers that can be applied to this DC if the invisible creature is moving or engaged in a noisy activity.
 
-| Invisible creature is... | [Perception](skills/perception#_perception) |
+| Invisible creature is... | [Perception](skills_dir/perception#_perception) |
 | --- | --- |
 | In combat or speaking | –20 |
 | Moving at half speed | –5 |
 | Moving at full speed | –10 |
 | Running or charging | –20 |
 | Not moving | +20 |
-| Using [Stealth](skills/stealth#_stealth) | [Stealth](skills/stealth#_stealth) check +20 |
+| Using [Stealth](skills_dir/stealth#_stealth) | [Stealth](skills_dir/stealth#_stealth) check +20 |
 | Some distance away | +1 per 10 feet |
 | Behind an obstacle (door) | +5 |
 | Behind an obstacle (stone wall) | +15 |
@@ -716,9 +716,9 @@ A creature with the [Blind-Fight](feats#_blind-fight) feat has a better chance t
 
 A creature with blindsight can attack (and otherwise interact with) creatures regardless of invisibility.
 
-An invisible burning torch still gives off light, as does an invisible object with a _ [light](spells/light#_light)_ or similar spell cast upon it.
+An invisible burning torch still gives off light, as does an invisible object with a _ [light](spells_dir/light#_light)_ or similar spell cast upon it.
 
-Ethereal creatures are invisible. Since ethereal creatures are not materially present, [Perception](skills/perception#_perception) checks, scent, Blind-Fight, and blindsight don't help locate them. Incorporeal creatures are often invisible. Scent, Blind-Fight, and blindsight don't help creatures find or attack invisible, incorporeal creatures, but [Perception](skills/perception#_perception) checks can help.
+Ethereal creatures are invisible. Since ethereal creatures are not materially present, [Perception](skills_dir/perception#_perception) checks, scent, Blind-Fight, and blindsight don't help locate them. Incorporeal creatures are often invisible. Scent, Blind-Fight, and blindsight don't help creatures find or attack invisible, incorporeal creatures, but [Perception](skills_dir/perception#_perception) checks can help.
 
 Invisible creatures cannot use gaze attacks.
 
@@ -748,7 +748,7 @@ A creature with the scent ability can detect opponents by sense of smell, genera
 
 The creature detects another creature's presence but not its specific location. Noting the direction of the scent is a move action. If the creature moves within 5 feet (1 square) of the scent's source, the creature can pinpoint the area that the source occupies, even if it cannot be seen.
 
-A creature with the [Survival](skills/survival#_survival) skill and the scent ability can follow tracks by smell, making a [Survival](skills/survival#_survival) check to find or follow a track. A creature with the scent ability can attempt to follow tracks using [Survival](skills/survival#_survival) untrained. The typical DC for a fresh trail is 10. The DC increases or decreases depending on how strong the quarry's odor is, the number of creatures, and the age of the trail. For each hour that the trail is cold, the DC increases by 2. The ability otherwise follows the rules for the [Survival](skills/survival#_survival) skill in regards to tracking. Creatures tracking by scent ignore the effects of surface conditions and poor visibility.
+A creature with the [Survival](skills_dir/survival#_survival) skill and the scent ability can follow tracks by smell, making a [Survival](skills_dir/survival#_survival) check to find or follow a track. A creature with the scent ability can attempt to follow tracks using [Survival](skills_dir/survival#_survival) untrained. The typical DC for a fresh trail is 10. The DC increases or decreases depending on how strong the quarry's odor is, the number of creatures, and the age of the trail. For each hour that the trail is cold, the DC increases by 2. The ability otherwise follows the rules for the [Survival](skills_dir/survival#_survival) skill in regards to tracking. Creatures tracking by scent ignore the effects of surface conditions and poor visibility.
 
 Creatures with the scent ability can identify familiar odors just as humans do familiar sights.
 
@@ -804,7 +804,7 @@ If more than one condition affects a character, apply them all. If effects can't
 
 **Bleed** : A creature that is taking bleed damage takes the listed amount of damage at the beginning of its turn. Bleeding can be stopped by a DC 15 Heal check or through the application of any spell that cures hit point damage (even if the bleed is ability damage). Some bleed effects cause ability damage or even ability drain. Bleed effects do not stack with each other unless they deal different kinds of damage. When two or more bleed effects deal the same kind of damage, take the worse effect. In this case, ability drain is worse than ability damage.
 
-**Blinded** : The creature cannot see. It takes a –2 penalty to [Armor Class](combat#_armor-class), loses its [Dexterity](gettingStarted#_dexterity) bonus to [AC](combat#_armor-class) (if any), and takes a –4 penalty on most [Strength](gettingStarted#_strength)- and [Dexterity](gettingStarted#_dexterity)-based skill checks and on opposed [Perception](skills/perception#_perception) skill checks. All checks and activities that rely on vision (such as reading and [Perception](skills/perception#_perception) checks based on sight) automatically fail. All opponents are considered to have total concealment (50% miss chance) against the blinded character. Blind creatures must make a DC 10 Acrobatics skill check to move faster than half speed. Creatures that fail this check fall prone. Characters who remain blinded for a long time grow accustomed to these drawbacks and can overcome some of them.
+**Blinded** : The creature cannot see. It takes a –2 penalty to [Armor Class](combat#_armor-class), loses its [Dexterity](gettingStarted#_dexterity) bonus to [AC](combat#_armor-class) (if any), and takes a –4 penalty on most [Strength](gettingStarted#_strength)- and [Dexterity](gettingStarted#_dexterity)-based skill checks and on opposed [Perception](skills_dir/perception#_perception) skill checks. All checks and activities that rely on vision (such as reading and [Perception](skills_dir/perception#_perception) checks based on sight) automatically fail. All opponents are considered to have total concealment (50% miss chance) against the blinded character. Blind creatures must make a DC 10 Acrobatics skill check to move faster than half speed. Creatures that fail this check fall prone. Characters who remain blinded for a long time grow accustomed to these drawbacks and can overcome some of them.
 
 **Broken** : Items that have taken damage in excess of half their total [hit points](gettingStarted#_hit-points) gain the broken condition, meaning they are less effective at their designated task. The broken condition has the following effects, depending upon the item.
 
@@ -812,7 +812,7 @@ If more than one condition affects a character, apply them all. If effects can't
 - If the item is a suit of armor or a shield, the bonus it grants to [AC](combat#_armor-class) is halved, rounding down. Broken armor doubles its armor check penalty on skills.
 - If the item is a tool needed for a skill, any skill check made with the item takes a –2 penalty.
 - If the item is a wand or staff, it uses up twice as many charges when used.
-- If the item does not fit into any of these categories, the broken condition has no effect on its use. Items with the broken condition, regardless of type, are worth 75% of their normal value. If the item is magical, it can only be repaired with a _ [mending](spells/mending#_mending)_ or _ [make whole](spells/makeWhole#_make-whole) _spell cast by a character with a caster level equal to or higher than the item's. Items lose the broken condition if the spell restores the object to half its original [hit points](gettingStarted#_hit-points) or higher_. _Non-magical items can be repaired in a similar fashion, or through the Craft skill used to create it. Generally speaking, this requires a DC 20 Craft check and 1 hour of work per point of damage to be repaired. Most craftsmen charge one-tenth the item's total cost to repair such damage (more if the item is badly damaged or ruined).
+- If the item does not fit into any of these categories, the broken condition has no effect on its use. Items with the broken condition, regardless of type, are worth 75% of their normal value. If the item is magical, it can only be repaired with a _ [mending](spells_dir/mending#_mending)_ or _ [make whole](spells_dir/makeWhole#_make-whole) _spell cast by a character with a caster level equal to or higher than the item's. Items lose the broken condition if the spell restores the object to half its original [hit points](gettingStarted#_hit-points) or higher_. _Non-magical items can be repaired in a similar fashion, or through the Craft skill used to create it. Generally speaking, this requires a DC 20 Craft check and 1 hour of work per point of damage to be repaired. Most craftsmen charge one-tenth the item's total cost to repair such damage (more if the item is badly damaged or ruined).
 
 **Confused** : A confused creature is mentally befuddled and cannot act normally. A confused creature cannot tell the difference between ally and foe, treating all creatures as enemies. Allies wishing to cast a beneficial spell that requires a touch on a confused creature must succeed on a melee touch attack. If a confused creature is attacked, it attacks the creature that last attacked it until that creature is dead or out of sight.
 
@@ -833,11 +833,11 @@ A confused creature who can't carry out the indicated action does nothing but ba
 
 A dazed condition typically lasts 1 round.
 
-**Dazzled** : The creature is unable to see well because of overstimulation of the eyes. A dazzled creature takes a –1 penalty on attack rolls and sight-based [Perception](skills/perception#_perception) checks.
+**Dazzled** : The creature is unable to see well because of overstimulation of the eyes. A dazzled creature takes a –1 penalty on attack rolls and sight-based [Perception](skills_dir/perception#_perception) checks.
 
 **Dead** : The character's [hit points](gettingStarted#_hit-points) are reduced to a negative amount equal to his [Constitution](gettingStarted#_constitution) score, his [Constitution](gettingStarted#_constitution) drops to 0, or he is killed outright by a spell or effect. The character's soul leaves his body. Dead characters cannot benefit from normal or magical healing, but they can be restored to life via magic. A dead body decays normally unless magically preserved, but magic that restores a dead character to life also restores the body either to full health or to its condition at the time of death (depending on the spell or device). Either way, resurrected characters need not worry about rigor mortis, decomposition, and other conditions that affect dead bodies.
 
-**Deafened** : A deafened character cannot hear. He takes a –4 penalty on initiative checks, automatically fails [Perception](skills/perception#_perception) checks based on sound, takes a –4 penalty on opposed [Perception](skills/perception#_perception) checks, and has a 20% chance of spell failure when casting spells with verbal components. Characters who remain deafened for a long time grow accustomed to these drawbacks and can overcome some of them.
+**Deafened** : A deafened character cannot hear. He takes a –4 penalty on initiative checks, automatically fails [Perception](skills_dir/perception#_perception) checks based on sound, takes a –4 penalty on opposed [Perception](skills_dir/perception#_perception) checks, and has a 20% chance of spell failure when casting spells with verbal components. Characters who remain deafened for a long time grow accustomed to these drawbacks and can overcome some of them.
 
 **Disabled** : A character with 0 [hit points](gettingStarted#_hit-points), or one who has negative [hit points](gettingStarted#_hit-points) but has become stable and conscious, is disabled. A disabled character may take a single [move action](combat#_move-action) or [standard action](combat#_standard-action) each round (but not both, nor can he take [full-round actions](combat#_full-round-action), but he can still take [swift](combat#_swift-action), [immediate](combat#_immediate-action), and [free actions](combat#_free-action)). He moves at half speed. Taking [move action](combat#_move-action)s doesn't risk further injury, but performing any [standard action](combat#_standard-action) (or any other action the GM deems strenuous, including some free actions such as casting a quickened spell) deals 1 point of damage after the completion of the act. Unless the action increased the disabled character's [hit points](gettingStarted#_hit-points), he is now in negative [hit points](gettingStarted#_hit-points) and dying.
 
@@ -851,7 +851,7 @@ A disabled character with negative [hit points](gettingStarted#_hit-points) reco
 
 **Exhausted** : An exhausted character moves at half speed, cannot run or charge, and takes a –6 penalty to [Strength](gettingStarted#_strength) and [Dexterity](gettingStarted#_dexterity). After 1 hour of complete rest, an exhausted character becomes fatigued. A fatigued character becomes exhausted by doing something else that would normally cause fatigue.
 
-**Fascinated** : A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a –4 penalty on skill checks made as reactions, such as [Perception](skills/perception#_perception) checks. Any potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature's ally may shake it free of the spell as a standard action.
+**Fascinated** : A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a –4 penalty on skill checks made as reactions, such as [Perception](skills_dir/perception#_perception) checks. Any potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature's ally may shake it free of the spell as a standard action.
 
 **Fatigued** : A fatigued character can neither run nor charge and takes a –2 penalty to [Strength](gettingStarted#_strength) and [Dexterity](gettingStarted#_dexterity). Doing anything that would normally cause fatigue causes the fatigued character to become exhausted. After 8 hours of complete rest, fatigued characters are no longer fatigued.
 
@@ -863,7 +863,7 @@ Frightened is like shaken, except that the creature must flee if possible. Panic
 
 **Grappled** : A grappled creature is restrained by a creature, trap, or effect. Grappled creatures cannot move and take a –4 penalty to [Dexterity](gettingStarted#_dexterity). A grappled creature takes a –2 penalty on all attack rolls and combat maneuver checks, except those made to grapple or escape a grapple. In addition, grappled creatures can take no action that requires two hands to perform. A grappled character who attempts to cast a spell or use a spell-like ability must make a [concentration check](magic#_concentration) (DC 10 + grappler's [CMB](combat#_combat-maneuver-bonus) + spell level), or lose the spell. Grappled creatures cannot make attacks of opportunity.
 
-A grappled creature cannot use [Stealth](skills/stealth#_stealth) to hide from the creature grappling it, even if a special ability, such as hide in plain sight, would normally allow it to do so. If a grappled creature becomes invisible, through a spell or other ability, it gains a +2 circumstance bonus on its [CMD](combat#_combat-maneuver-defense) to avoid being grappled, but receives no other benefit.
+A grappled creature cannot use [Stealth](skills_dir/stealth#_stealth) to hide from the creature grappling it, even if a special ability, such as hide in plain sight, would normally allow it to do so. If a grappled creature becomes invisible, through a spell or other ability, it gains a +2 circumstance bonus on its [CMD](combat#_combat-maneuver-defense) to avoid being grappled, but receives no other benefit.
 
 **Helpless** : A helpless character is paralyzed, held, bound, sleeping, unconscious, or otherwise completely at an opponent's mercy. A helpless target is treated as having a [Dexterity](gettingStarted#_dexterity) of 0 (–5 modifier). Melee attacks against a helpless target get a +4 bonus (equivalent to attacking a prone target). Ranged attacks get no special bonus against helpless targets. Rogues can sneak attack helpless targets.
 
@@ -883,7 +883,7 @@ Panicked is a more extreme state of fear than shaken or frightened.
 
 **Paralyzed** : A paralyzed character is frozen in place and unable to move or act. A paralyzed character has effective [Dexterity](gettingStarted#_dexterity) and [Strength](gettingStarted#_strength) scores of 0 and is helpless, but can take purely mental actions. A winged creature flying in the air at the time that it becomes paralyzed cannot flap its wings and falls. A paralyzed swimmer can't swim and may drown. A creature can move through a space occupied by a paralyzed creature—ally or not. Each square occupied by a paralyzed creature, however, counts as 2 squares to move through.
 
-**Petrified** : A petrified character has been turned to stone and is considered unconscious. If a petrified character cracks or breaks, but the broken pieces are joined with the body as he returns to flesh, he is unharmed. If the character's petrified body is incomplete when it returns to flesh, the body is likewise incomplete and there is some amount of permanent hit point loss and/or debilitation.
+**Petrified** : A petrified character has been turned to stone and is considered unconscious. If a petrified character cracks or breaks, but the broken pieces are joined with the body as he returns to flesh, he is unharmed. If the character's petrified body is incomplete when it returns to flesh, the body is likewise incomplete and there is some amount of permanent hit point loss and_dir/or debilitation.
 
 **Pinned** : A pinned creature is tightly bound and can take few actions. A pinned creature cannot move and is denied its Dexterity bonus.. A pinned character also takes an additional –4 penalty to his [Armor Class](combat#_armor-class). A pinned creature is limited in the actions that it can take. A pinned creature can always attempt to free itself, usually through a combat maneuver check or Escape Artist check. A pinned creature can take verbal and mental actions, but cannot cast any spells that require a somatic or material component. A pinned character who attempts to cast a spell or use a spell-like ability must make a [concentration check](magic#_concentration) (DC 10 + grappler's [CMB](combat#_combat-maneuver-bonus) + spell level) or lose the spell. Pinned is a more severe version of grappled, and their effects do not stack.
 

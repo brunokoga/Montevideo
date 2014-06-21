@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/illusoryWall
+title: spells_dir/illusoryWall
 ---
  **Illusory Wall**
 
-**School** illusion (figment); **Level** sorcerer/wizard 4
+**School** illusion (figment); **Level** sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** image 1 ft. by 10 ft. by 10 ft.
 

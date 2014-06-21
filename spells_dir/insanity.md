@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/insanity
+title: spells_dir/insanity
 ---
  **Insanity**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 7
+**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target** one living creature
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: mastery/nPCGallery/villagers
+title: mastery_dir/nPCGallery_dir/villagers
 ---
 # Villagers
 
 Living apart from the walled edifices of bustling cities or the politics and plots of lordly palaces, simple townsfolk work hard and live simply, depending on one another for survival in their secluded burgs. The pioneers of far-flung frontiers, the farmfolk of rural countrysides, and the everyday people of sleepy hamlets, most common folk seek only quiet lives among their families and neighbors and care little for excitement or danger. Suspicious of strangers and wary of threats, these country folk preserve the traditions of their communities but readily do business with those bringing gold and the promise of greater things.
 
-**Village Idiot CR 1/3**
+**Village Idiot CR 1_dir/3**
 
 **XP 135**
 
@@ -14,7 +14,7 @@ Human commoner 1
 
 N Medium humanoid
 
-**Init** +0; **Senses** [Perception](../../skills/perception#_perception) +3
+**Init** +0; **Senses** [Perception](../../skills_dir/perception#_perception) +3
 
 **Defense**
 
@@ -40,31 +40,31 @@ N Medium humanoid
 
 **Feats** [Catch Off-Guard](../../feats#_catch-off-guard), [Endurance](../../feats#_endurance)
 
-**Skills** [Climb](../../skills/climb#_climb) +5, [Perception](../../skills/perception#_perception) +3
+**Skills** [Climb](../../skills_dir/climb#_climb) +5, [Perception](../../skills_dir/perception#_perception) +3
 
 **Languages** Common
 
 **Gear** improvised club, sling with 10 stones, turnip
 
-**Boon** The village idiot can lead PCs to something secret or hidden inside the town that he has come across, granting a +5 bonus on one [Perception](../../skills/perception#_perception) check to search an area.
+**Boon** The village idiot can lead PCs to something secret or hidden inside the town that he has come across, granting a +5 bonus on one [Perception](../../skills_dir/perception#_perception) check to search an area.
 
 The village idiot is an amiable simpleton, eking out a meager existence through charity, begging, odd jobs, or occasionally bringing down small game with his sling. While usually a gentle soul, the village idiot is prone to anger if provoked, and may lash out blindly with whatever item is at hand.
 
-Giving a village idiot the [Skill Focus](../../feats#_skill-focus) feat in place of [Endurance](../../feats#_endurance) creates an idiot savant, displaying great knowledge in one specific area, usually a [Craft](../../skills/craft#_craft) or [Knowledge](../../skills/knowledge#_knowledge) skill. Switching an idiot savant's Constitution and Charisma scores, and giving him [Animal Affinity](../../feats#_animal-affinity), [Skill Focus](../../feats#_skill-focus) ( [Handle Animal](../../skills/handleAnimal#_handle-animal)), and the [Handle Animal](../../skills/handleAnimal#_handle-animal) skill instead of [Climb](../../skills/climb#_climb), creates a horse whisperer or someone who relates better to animals than to humans (hp 4, Fort +0, [Handle Animal](../../skills/handleAnimal#_handle-animal) +11). A village idiot might also carry a crude knife, or could have learned to defend himself from the taunts of cruel villagers with his fists (and the [Improved Unarmed Strike](../../feats#_improved-unarmed-strike) feat).
+Giving a village idiot the [Skill Focus](../../feats#_skill-focus) feat in place of [Endurance](../../feats#_endurance) creates an idiot savant, displaying great knowledge in one specific area, usually a [Craft](../../skills_dir/craft#_craft) or [Knowledge](../../skills_dir/knowledge#_knowledge) skill. Switching an idiot savant's Constitution and Charisma scores, and giving him [Animal Affinity](../../feats#_animal-affinity), [Skill Focus](../../feats#_skill-focus) ( [Handle Animal](../../skills_dir/handleAnimal#_handle-animal)), and the [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) skill instead of [Climb](../../skills_dir/climb#_climb), creates a horse whisperer or someone who relates better to animals than to humans (hp 4, Fort +0, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +11). A village idiot might also carry a crude knife, or could have learned to defend himself from the taunts of cruel villagers with his fists (and the [Improved Unarmed Strike](../../feats#_improved-unarmed-strike) feat).
 
-Village idiots can also be used as prisoners, galley slaves, or incarcerated lunatics in an asylum. A village idiot can also represent any simple commoner, by replacing his [Climb](../../skills/climb#_climb) skill with an appropriate [Craft](../../skills/craft#_craft) or [Profession](../../skills/profession#_profession) skill. A stableboy might have the [Ride](../../skills/ride#_ride) skill instead, while a dock rat may possess the [Swim](../../skills/swim#_swim) skill. An urchin runner might have the [Fleet](../../feats#_fleet) and [Run](../../feats#_run) feats instead.
+Village idiots can also be used as prisoners, galley slaves, or incarcerated lunatics in an asylum. A village idiot can also represent any simple commoner, by replacing his [Climb](../../skills_dir/climb#_climb) skill with an appropriate [Craft](../../skills_dir/craft#_craft) or [Profession](../../skills_dir/profession#_profession) skill. A stableboy might have the [Ride](../../skills_dir/ride#_ride) skill instead, while a dock rat may possess the [Swim](../../skills_dir/swim#_swim) skill. An urchin runner might have the [Fleet](../../feats#_fleet) and [Run](../../feats#_run) feats instead.
 
 A village idiot is usually encountered alone, but may also be found tagging along with an acolyte, drunkard, farmer, or shopkeep.
 
-**Farmer CR 1/2**
+**Farmer CR 1_dir/2**
 
 **XP 200**
 
-Human commoner 1/expert 1
+Human commoner 1_dir/expert 1
 
 N Medium humanoid
 
-**Init** +0; **Senses** [Perception](../../skills/perception#_perception) +1
+**Init** +0; **Senses** [Perception](../../skills_dir/perception#_perception) +1
 
 **Defense**
 
@@ -88,9 +88,9 @@ N Medium humanoid
 
 **Base Atk** +0; **CMB** +0; **CMD** 10
 
-**Feats** [Animal Affinity](../../feats#_animal-affinity), [Skill Focus](../../feats#_skill-focus) ( [Profession](../../skills/profession#_profession) [farmer])
+**Feats** [Animal Affinity](../../feats#_animal-affinity), [Skill Focus](../../feats#_skill-focus) ( [Profession](../../skills_dir/profession#_profession) [farmer])
 
-**Skills** [Craft](../../skills/craft#_craft) (carpentry) +5, [Handle Animal](../../skills/handleAnimal#_handle-animal) +6, [Heal](../../skills/heal#_heal) +5, [Knowledge](../../skills/knowledge#_knowledge) (local) +4, [Knowledge](../../skills/knowledge#_knowledge) (nature) +4, [Profession](../../skills/profession#_profession) (farmer) +9, [Ride](../../skills/ride#_ride) +7
+**Skills** [Craft](../../skills_dir/craft#_craft) (carpentry) +5, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +6, [Heal](../../skills_dir/heal#_heal) +5, [Knowledge](../../skills_dir/knowledge#_knowledge) (local) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (nature) +4, [Profession](../../skills_dir/profession#_profession) (farmer) +9, [Ride](../../skills_dir/ride#_ride) +7
 
 **Languages** Common
 
@@ -108,11 +108,11 @@ Farmers are usually found in families of two to six (CR 1 to 4). Outside, a farm
 
 **XP 4,800**
 
-Human aristocrat 3/expert 7
+Human aristocrat 3_dir/expert 7
 
 N Medium humanoid
 
-**Init** +0; **Senses** [Perception](../../skills/perception#_perception) +10
+**Init** +0; **Senses** [Perception](../../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -126,9 +126,9 @@ N Medium humanoid
 
 **Speed** 30 ft.
 
-**Melee** _+1 rapier_ +7/+2 (1d6/18–20) or dagger +6/+1 (1d4–1/19–20)
+**Melee** _+1 rapier_ +7_dir/+2 (1d6_dir/18–20) or dagger +6_dir/+1 (1d4–1_dir/19–20)
 
-**Ranged** dagger +7 (1d4–1/19–20)
+**Ranged** dagger +7 (1d4–1_dir/19–20)
 
 **Statistics**
 
@@ -136,13 +136,13 @@ N Medium humanoid
 
 **Base Atk** +7; **CMB** +6 (+10 disarm); **CMD** 16 (18 vs. disarm)
 
-**Feats** [Alertness](../../feats#_alertness), [Combat Expertise](../../feats#_combat-expertise), [Greater Disarm](../../feats#_greater-disarm), [Improved Disarm](../../feats#_improved-disarm), [Skill Focus](../../feats#_skill-focus) ( [Diplomacy](../../skills/diplomacy#_diplomacy)), [Skill Focus](../../feats#_skill-focus) ( [Knowledge](../../skills/knowledge#_knowledge) [local])
+**Feats** [Alertness](../../feats#_alertness), [Combat Expertise](../../feats#_combat-expertise), [Greater Disarm](../../feats#_greater-disarm), [Improved Disarm](../../feats#_improved-disarm), [Skill Focus](../../feats#_skill-focus) ( [Diplomacy](../../skills_dir/diplomacy#_diplomacy)), [Skill Focus](../../feats#_skill-focus) ( [Knowledge](../../skills_dir/knowledge#_knowledge) [local])
 
-**Skills** [Bluff](../../skills/bluff#_bluff) +15, [Diplomacy](../../skills/diplomacy#_diplomacy) +21, [Intimidate](../../skills/intimidate#_intimidate) +10, [Knowledge](../../skills/knowledge#_knowledge) (geography) +8, [Knowledge](../../skills/knowledge#_knowledge) (history) +8, [Knowledge](../../skills/knowledge#_knowledge) (local) +21, [Knowledge](../../skills/knowledge#_knowledge) (nobility) +15, [Linguistics](../../skills/linguistics#_linguistics) +8, [Perception](../../skills/perception#_perception) +10, [Perform](../../skills/perform#_perform) (oratory) +15, [Profession](../../skills/profession#_profession) (choose one) +13, [Ride](../../skills/ride#_ride) +8, [Sense Motive](../../skills/senseMotive#_sense-motive) +17
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +15, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +21, [Intimidate](../../skills_dir/intimidate#_intimidate) +10, [Knowledge](../../skills_dir/knowledge#_knowledge) (geography) +8, [Knowledge](../../skills_dir/knowledge#_knowledge) (history) +8, [Knowledge](../../skills_dir/knowledge#_knowledge) (local) +21, [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) +15, [Linguistics](../../skills_dir/linguistics#_linguistics) +8, [Perception](../../skills_dir/perception#_perception) +10, [Perform](../../skills_dir/perform#_perform) (oratory) +15, [Profession](../../skills_dir/profession#_profession) (choose one) +13, [Ride](../../skills_dir/ride#_ride) +8, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +17
 
 **Languages** Common, Dwarven, Elven, Gnome, Halfling, Sylvan
 
-**Gear** _+1 studded leather_, _+1 buckler_, _+1 rapier_, dagger, _ [feather token](../../magicItems/wondrousItems#_feather-token)_ (bird), _ [periapt of health](../../magicItems/wondrousItems#_periapt-of-health)_, _ [unguent of timelessness](../../magicItems/wondrousItems#_unguent-of-timelessness)_ (2), light horse with riding saddle
+**Gear** _+1 studded leather_, _+1 buckler_, _+1 rapier_, dagger, _ [feather token](../../magicItems_dir/wondrousItems#_feather-token)_ (bird), _ [periapt of health](../../magicItems_dir/wondrousItems#_periapt-of-health)_, _ [unguent of timelessness](../../magicItems_dir/wondrousItems#_unguent-of-timelessness)_ (2), light horse with riding saddle
 
 **Boon** Mayors can provide detailed information on their community, major power groups or individuals, and secret or hidden locations. They can also free PCs from legal trouble or arrest NPCs of up to 12th level and detain them for 24 hours.
 

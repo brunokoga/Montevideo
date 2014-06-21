@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/harpy
+title: monsters_dir/harpy
 ---
 # Harpy
 
@@ -12,7 +12,7 @@ _Save for the tattered wings and taloned feet, this creature resembles a feral w
 
 CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +7
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -26,7 +26,7 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Speed** 20 ft., fly 80 ft. (average)
 
-**Melee** morningstar +8/+3 (1d8+1), 2 talons +3 (1d6)
+**Melee** morningstar +8_dir/+3 (1d8+1), 2 talons +3 (1d6)
 
 **Special Attacks** captivating song
 
@@ -36,9 +36,9 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Base**  **Atk** +7; **CMB** +8; **CMD** 21
 
-**Feats** [Dodge](../feats#_dodge), [Flyby Attack](monsterFeats#_flyby-attack), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Bluff](../skills/bluff#_bluff))
+**Feats** [Dodge](../feats#_dodge), [Flyby Attack](monsterFeats#_flyby-attack), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Bluff](../skills_dir/bluff#_bluff))
 
-**Skills** [Bluff](../skills/bluff#_bluff) +7, [Fly](../skills/fly#_fly) +12, [Intimidate](../skills/intimidate#_intimidate) +7, [Perception](../skills/perception#_perception) +7, [Perform](../skills/perform#_perform) (song) +5
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +7, [Fly](../skills_dir/fly#_fly) +12, [Intimidate](../skills_dir/intimidate#_intimidate) +7, [Perception](../skills_dir/perception#_perception) +7, [Perform](../skills_dir/perform#_perform) (song) +5
 
 **Languages** Common
 

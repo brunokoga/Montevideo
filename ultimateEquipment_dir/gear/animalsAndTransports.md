@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateEquipment/gear/animalsAndTransports
+title: ultimateEquipment_dir/gear_dir/animalsAndTransports
 ---
 ## Animals, Mounts, and Related Gear
 
@@ -130,7 +130,7 @@ Animal Harness
 
 **Price** 2 gp; **Weight** 2 lbs.
 
-This leather or hemp harness allows a holder to restrain and control a domesticated animal. A harness is standard equipment for anyone trying to teach an animal tricks with the [Handle Animal](skills/handleAnimal#_handle-animal) skill. Ready-made harnesses are available in most markets for common domesticated animals such as cats, dogs, horses, and oxen, but harnesses can be made for nearly any creature.
+This leather or hemp harness allows a holder to restrain and control a domesticated animal. A harness is standard equipment for anyone trying to teach an animal tricks with the [Handle Animal](skills_dir/handleAnimal#_handle-animal) skill. Ready-made harnesses are available in most markets for common domesticated animals such as cats, dogs, horses, and oxen, but harnesses can be made for nearly any creature.
 
 Axe Beak (Combat TraineD)
 
@@ -154,13 +154,13 @@ Barding
 
 **Price** varies; **Weight** varies
 
-Barding is a type of armor that covers the head, neck, chest, body, and possibly legs of a horse or other mount. Barding made of medium or heavy armor provides better protection than light barding, but at the expense of speed. Barding can be made of any of the armor types found on the [Armor and Shields table](ultimateEquipment/armsAndArmor/armor#_armor-and-shields-table).
+Barding is a type of armor that covers the head, neck, chest, body, and possibly legs of a horse or other mount. Barding made of medium or heavy armor provides better protection than light barding, but at the expense of speed. Barding can be made of any of the armor types found on the [Armor and Shields table](ultimateEquipment_dir/armsAndArmor_dir/armor#_armor-and-shields-table).
 
-Armor for a horse (a Large non-humanoid creature) costs four times as much as armor for a human (a Medium humanoid creature) and also weighs twice as much (see the [Armor for Unusual Creatures table](ultimateEquipment/armsAndArmor/armor#_armor-for-unusual-creatures-table)). If the barding is for a pony or other Medium mount, the price is only double, and the weight is the same as for Medium armor worn by a humanoid. Medium or heavy barding slows a mount that wears it, as shown on the table below.
+Armor for a horse (a Large non-humanoid creature) costs four times as much as armor for a human (a Medium humanoid creature) and also weighs twice as much (see the [Armor for Unusual Creatures table](ultimateEquipment_dir/armsAndArmor_dir/armor#_armor-for-unusual-creatures-table)). If the barding is for a pony or other Medium mount, the price is only double, and the weight is the same as for Medium armor worn by a humanoid. Medium or heavy barding slows a mount that wears it, as shown on the table below.
 
 Flying mounts can't fly in medium or heavy barding.
 
-Removing and fitting barding takes five times as long as the figures given on the [Donning Armor table](ultimateEquipment/armsAndArmor/armor#_donning-armor-table). A barded animal cannot be used to carry any load other than a rider, and normal saddlebags.
+Removing and fitting barding takes five times as long as the figures given on the [Donning Armor table](ultimateEquipment_dir/armsAndArmor_dir/armor#_donning-armor-table). A barded animal cannot be used to carry any load other than a rider, and normal saddlebags.
 
 | Barding | (40 ft.) | Base Speed (50 ft.) | (60 ft.) |
 | --- | --- | --- | --- |
@@ -468,7 +468,7 @@ Saddle
 
 Saddles are used to support a rider or supplies on a mount.
 
-_Military Saddle_: This saddle braces the rider, providing a +2 circumstance bonus on [Ride](skills/ride#_ride) checks related to staying in the saddle. If the rider is knocked unconscious while in a military saddle, he has a 75% chance to stay in the saddle.
+_Military Saddle_: This saddle braces the rider, providing a +2 circumstance bonus on [Ride](skills_dir/ride#_ride) checks related to staying in the saddle. If the rider is knocked unconscious while in a military saddle, he has a 75% chance to stay in the saddle.
 
 _Pack Saddle_: A pack saddle holds gear and supplies, but not a rider. It holds as much gear as the mount can carry.
 
@@ -667,7 +667,7 @@ Rowboat
 
 **Price** 50 gp; **Passage** 2 CP
 
-This 8- to 12-foot-long boat with two oars holds two or three Medium passengers, and is either carried on the deck of a larger ship or moored to a dock onshore. A rowboat moves about 1-1/2 miles per hour.
+This 8- to 12-foot-long boat with two oars holds two or three Medium passengers, and is either carried on the deck of a larger ship or moored to a dock onshore. A rowboat moves about 1-1_dir/2 miles per hour.
 
 Sailing Ship
 
@@ -704,5 +704,5 @@ Warship
 
 **Price** 25,000 gp; **Passage** 2 SP
 
-This 100-foot-long ship has a single mast, although oars can also propel it. It has a crew of 60 to 80 rowers. This ship can carry 160 soldiers, but not for long distances, since there isn't room for supplies to support that many people. A warship cannot make sea voyages and sticks to the coast. It is not used for cargo. It moves about 2-1/2 miles per hour when being rowed or under sail.
+This 100-foot-long ship has a single mast, although oars can also propel it. It has a crew of 60 to 80 rowers. This ship can carry 160 soldiers, but not for long distances, since there isn't room for supplies to support that many people. A warship cannot make sea voyages and sticks to the coast. It is not used for cargo. It moves about 2-1_dir/2 miles per hour when being rowed or under sail.
 

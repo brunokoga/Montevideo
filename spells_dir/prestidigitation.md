@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/prestidigitation
+title: spells_dir/prestidigitation
 ---
  **Prestidigitation**
 
-**School** universal; **Level** bard 0, sorcerer/wizard 0
+**School** universal; **Level** bard 0, sorcerer_dir/wizard 0
 
 **Casting Time** 1 standard action
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/spectralHand
+title: spells_dir/spectralHand
 ---
  **Spectral Hand**
 
-**School** necromancy; **Level** sorcerer/wizard 2
+**School** necromancy; **Level** sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Effect** one spectral hand
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

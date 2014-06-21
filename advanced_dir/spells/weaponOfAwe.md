@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/weaponOfAwe
+title: advanced_dir/spells_dir/weaponOfAwe
 ---
  **Weapon of Awe**
 
@@ -14,7 +14,7 @@ title: advanced/spells/weaponOfAwe
 
 **Target** weapon touched
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic/spells/corrosiveConsumption
+title: ultimateMagic_dir/spells_dir/corrosiveConsumption
 ---
 Corrosive Consumption
 
-**School** conjuration (creation) [acid]; **Level** magus 5, sorcerer/wizard 5
+**School** conjuration (creation) [acid]; **Level** magus 5, sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 

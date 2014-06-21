@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/scorchingRay
+title: spells_dir/scorchingRay
 ---
  **Scorching Ray**
 
-**School** evocation [fire]; **Level** sorcerer/wizard 2
+**School** evocation [fire]; **Level** sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** one or more rays
 

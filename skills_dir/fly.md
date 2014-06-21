@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills/fly
+title: skills_dir/fly
 ---
 # Fly
 

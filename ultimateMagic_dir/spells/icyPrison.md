@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic/spells/icyPrison
+title: ultimateMagic_dir/spells_dir/icyPrison
 ---
 Icy Prison
 
-**School** evocation [cold]; **Level** sorcerer/wizard 5
+**School** evocation [cold]; **Level** sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (10 ft. + 10 ft./level)
+**Range** medium (10 ft. + 10 ft._dir/level)
 
 **Target** one creature
 
-**Duration** 1 minute/level; see text
+**Duration** 1 minute_dir/level; see text
 
 **Saving Throw** Reflex partial **Spell Resistance** yes
 
@@ -22,9 +22,9 @@ You trap the target in solid ice 1 inch thick per caster level. If the creature 
 
 Icy Prison, Mass
 
-**School** evocation [cold]; **Level** sorcerer/wizard 9
+**School** evocation [cold]; **Level** sorcerer_dir/wizard 9
 
-**Target** one creature/level, no two of which can be more than 30 ft. apart.
+**Target** one creature_dir/level, no two of which can be more than 30 ft. apart.
 
 This spell functions as _icy prison_, except as noted above.
 

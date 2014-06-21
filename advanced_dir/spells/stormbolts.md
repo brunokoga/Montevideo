@@ -1,14 +1,14 @@
 ---
 layout: default
-title: advanced/spells/stormbolts
+title: advanced_dir/spells_dir/stormbolts
 ---
  **Stormbolts**
 
-**School** evocation [electricity]; **Level** cleric 8, druid 8, sorcerer/wizard 8, witch 8
+**School** evocation [electricity]; **Level** cleric 8, druid 8, sorcerer_dir/wizard 8, witch 8
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (a copper rod)
+**Components** V, S, M_dir/DF (a copper rod)
 
 **Range** 30 ft.
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/continualFlame
+title: spells_dir/continualFlame
 ---
  **Continual Flame**
 
-**School** evocation [light]; **Level** cleric 3, sorcerer/wizard 2
+**School** evocation [light]; **Level** cleric 3, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 

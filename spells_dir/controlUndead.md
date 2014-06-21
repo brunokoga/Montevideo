@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/controlUndead
+title: spells_dir/controlUndead
 ---
  **Control Undead**
 
-**School** necromancy; **Level** sorcerer/wizard 7
+**School** necromancy; **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a piece of bone and a piece of raw meat)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Targets** up to 2 HD/level of undead creatures, no two of which can be more than 30 ft. apart
+**Targets** up to 2 HD_dir/level of undead creatures, no two of which can be more than 30 ft. apart
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

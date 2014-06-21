@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters/darkSlayer
+title: additionalMonsters_dir/darkSlayer
 ---
 # Dark Slayer
 
@@ -10,9 +10,9 @@ Dark SlayerCR 3
 
 **XP 800**
 
-CE Small [humanoid](monsters/creatureTypes#_humanoid) ( [dark folk](monsters/creatureTypes#_dark-folk-subtype))
+CE Small [humanoid](monsters_dir/creatureTypes#_humanoid) ( [dark folk](monsters_dir/creatureTypes#_dark-folk-subtype))
 
-**Init** +4; **Senses** _ [detect magic](additionalMonsters/../spells/detectMagic#_detect-magic)_, [see in darkness](monsters/universalMonsterRules#_see-in-darkness); [Perception](additionalMonsters/../skills/perception#_perception) +4
+**Init** +4; **Senses** _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, [see in darkness](monsters_dir/universalMonsterRules#_see-in-darkness); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -28,17 +28,17 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** kukri +8 (1d3–1/18–20 plus black smear [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** kukri +8 (1d3–1_dir/18–20 plus black smear [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
-**Special Attacks** death throes, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)) use, sneak attack +2d6, soul harvest
+**Special Attacks** death throes, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) use, sneak attack +2d6, soul harvest
 
 **Spell-Like Abilities** (CL 4th; concentration +6)
 
-Constant—_ [detect magic](additionalMonsters/../spells/detectMagic#_detect-magic)_
+Constant—_ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_
 
-At will—_ [bleed](additionalMonsters/../spells/bleed#_bleed)_ (DC 12), _ [chill touch](additionalMonsters/../spells/chillTouch#_chill-touch)_ (DC 13), _ [darkness](additionalMonsters/../spells/darkness#_darkness), [spectral hand](additionalMonsters/../spells/spectralHand#_spectral-hand)_
+At will—_ [bleed](additionalMonsters_dir/../spells_dir/bleed#_bleed)_ (DC 12), _ [chill touch](additionalMonsters_dir/../spells_dir/chillTouch#_chill-touch)_ (DC 13), _ [darkness](additionalMonsters_dir/../spells_dir/darkness#_darkness), [spectral hand](additionalMonsters_dir/../spells_dir/spectralHand#_spectral-hand)_
 
-3/day—_ [daze monster](additionalMonsters/../spells/dazeMonster#_daze-monster)_ (DC 14), _ [death knell](additionalMonsters/../spells/deathKnell#_death-knell) _(DC 14), _ [inflict moderate wounds](additionalMonsters/../spells/inflictModerateWounds#_inflict-moderate-wounds)_ (DC 14)
+3_dir/day—_ [daze monster](additionalMonsters_dir/../spells_dir/dazeMonster#_daze-monster)_ (DC 14), _ [death knell](additionalMonsters_dir/../spells_dir/deathKnell#_death-knell) _(DC 14), _ [inflict moderate wounds](additionalMonsters_dir/../spells_dir/inflictModerateWounds#_inflict-moderate-wounds)_ (DC 14)
 
 Statistics
 
@@ -46,11 +46,11 @@ Statistics
 
 **Base Atk** +3; **CMB** +1; **CMD** 15
 
-**Feats** [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device)), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device)), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +3, [Perception](additionalMonsters/../skills/perception#_perception) +4, [Spellcraft](additionalMonsters/../skills/spellcraft#_spellcraft) +7, [Stealth](additionalMonsters/../skills/stealth#_stealth) +12, [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device) +12; **Racial Modifiers** +4 [Climb](additionalMonsters/../skills/climb#_climb), +4 [Stealth](additionalMonsters/../skills/stealth#_stealth), +4 [Perception](additionalMonsters/../skills/perception#_perception)
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +3, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +7, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +12, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +12; **Racial Modifiers** +4 [Climb](additionalMonsters_dir/../skills_dir/climb#_climb), +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth), +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)
 
-**Languages** [Dark Folk](monsters/creatureTypes#_dark-folk-subtype)
+**Languages** [Dark Folk](monsters_dir/creatureTypes#_dark-folk-subtype)
 
 **SQ** magical knack
 
@@ -66,7 +66,7 @@ Special Abilities
 
 **Death Throes (Su)** When a dark slayer is slain, its body implodes violently into nothingness, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d8 points of sonic damage and must make a DC 13 Fortitude save or be deafened for 2d4 rounds. The save DC is Constitution-based.
 
-**Magical Knack (Ex)** [Spellcraft](additionalMonsters/../skills/spellcraft#_spellcraft) and [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device) are always class skills for dark slayers.
+**Magical Knack (Ex)** [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) and [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) are always class skills for dark slayers.
 
 **Soul Harvest (Su)** When a dark slayer damages a flat-footed foe or a foe it is flanking with a melee touch spell or spell-like ability that deals hit point damage, the spell does an additional 1d6 points of damage and the dark slayer gains an equal amount of temporary hit points. These temporary hit points last for a maximum of 1 hour.
 

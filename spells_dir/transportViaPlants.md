@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/transportViaPlants
+title: spells_dir/transportViaPlants
 ---
  **Transport via Plants**
 

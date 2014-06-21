@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/bomberSEye
+title: advanced_dir/spells_dir/bomberSEye
 ---
  **Bomber's Eye**
 
@@ -14,7 +14,7 @@ title: advanced/spells/bomberSEye
 
 **Target** you
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 This extract allows you to throw weapons farther and more accurately. While this extract is in effect, increase the range of any thrown weapon by 10 feet. In addition, you receive a +1 insight bonus on attack rolls made with thrown weapons.
 

@@ -1,18 +1,18 @@
 ---
 layout: default
-title: spells/polymorphAnyObject
+title: spells_dir/polymorphAnyObject
 ---
  **Polymorph Any Object**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 8
+**School** transmutation (polymorph); **Level** sorcerer_dir/wizard 8
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (mercury, gum arabic, and smoke)
+**Components** V, S, M_dir/DF (mercury, gum arabic, and smoke)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one creature, or one nonmagical object of up to 100 cu. ft./level
+**Target** one creature, or one nonmagical object of up to 100 cu. ft._dir/level
 
 **Duration** see text
 

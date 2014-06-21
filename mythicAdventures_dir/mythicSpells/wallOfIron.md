@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures/mythicSpells/wallOfIron
+title: mythicAdventures_dir/mythicSpells_dir/wallOfIron
 ---
 Wall of Iron
 
-**Source** [_wall of iron_](spells/wallOfIron#_wall-of-iron)
+**Source** [_wall of iron_](spells_dir/wallOfIron#_wall-of-iron)
 
 The wall is 1 inch thick per 2 caster levels. If you create an unattached wall, you can weight it so there is a 75% chance it falls on its own in the direction you want. Subtract 5 from the DC to push it in the direction you want, and add 5 to the DC to push the wall in the other direction.
 

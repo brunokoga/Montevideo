@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mastery/nPCGallery/cityWatch
+title: mastery_dir/nPCGallery_dir/cityWatch
 ---
 # City Watch
 
@@ -14,7 +14,7 @@ Human warrior 3
 
 LN Medium humanoid
 
-**Init** +0; **Senses** [Perception](../../skills/perception#_perception) +3
+**Init** +0; **Senses** [Perception](../../skills_dir/perception#_perception) +3
 
 **Defense**
 
@@ -28,9 +28,9 @@ LN Medium humanoid
 
 **Speed** 20 ft.
 
-**Melee** halberd +5 (1d10+3/×3) or heavy flail +5 (1d10+3/19–20) or sap +5 (1d6+2 nonlethal)
+**Melee** halberd +5 (1d10+3_dir/×3) or heavy flail +5 (1d10+3_dir/19–20) or sap +5 (1d6+2 nonlethal)
 
-**Ranged** heavy crossbow +3 (1d10/19–20)
+**Ranged** heavy crossbow +3 (1d10_dir/19–20)
 
 **Statistics**
 
@@ -40,11 +40,11 @@ LN Medium humanoid
 
 **Feats** [Alertness](../../feats#_alertness), [Improved Sunder](../../feats#_improved-sunder), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Intimidate](../../skills/intimidate#_intimidate) +5, [Perception](../../skills/perception#_perception) +3, [Ride](../../skills/ride#_ride) –3, [Sense Motive](../../skills/senseMotive#_sense-motive) +2
+**Skills** [Intimidate](../../skills_dir/intimidate#_intimidate) +5, [Perception](../../skills_dir/perception#_perception) +3, [Ride](../../skills_dir/ride#_ride) –3, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +2
 
 **Languages** Common
 
-**Combat Gear** _potions of [cure light wounds](../../spells/cureLightWounds#_cure-light-wounds) _(2); **Other Gear** half-plate, heavy crossbow with 10 bolts, halberd, heavy flail, sap, 5 gp
+**Combat Gear** _potions of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds) _(2); **Other Gear** half-plate, heavy crossbow with 10 bolts, halberd, heavy flail, sap, 5 gp
 
 **Boon** A guard can give accurate directions to any non-secret location in the city and can allow a PC to enter or leave through a gate after hours or without paying a gate tax.
 
@@ -62,7 +62,7 @@ Human fighter 4
 
 LN Medium humanoid
 
-**Init** +1; **Senses** [Perception](../../skills/perception#_perception) +3
+**Init** +1; **Senses** [Perception](../../skills_dir/perception#_perception) +3
 
 **Defense**
 
@@ -78,7 +78,7 @@ LN Medium humanoid
 
 **Speed** 20 ft.
 
-**Melee** mwk guisarme +9 (2d4+5/×3) or sap +7 (1d6+3 nonlethal)
+**Melee** mwk guisarme +9 (2d4+5_dir/×3) or sap +7 (1d6+3 nonlethal)
 
 **Ranged** net +5 ranged touch (entangle) or javelin +5 (1d6+2)
 
@@ -90,17 +90,17 @@ LN Medium humanoid
 
 **Base Atk** +4; **CMB** +7; **CMD** 18
 
-**Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Dazzling Display](../../feats#_dazzling-display), [Exotic Weapon Proficiency](../../feats#_exotic-weapon-proficiency) (net), [Skill Focus](../../feats#_skill-focus) ( [Intimidate](../../skills/intimidate#_intimidate)), [Weapon Focus](../../feats#_weapon-focus) (guisarme), [Weapon Specialization](../../feats#_weapon-specialization) (guisarme)
+**Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Dazzling Display](../../feats#_dazzling-display), [Exotic Weapon Proficiency](../../feats#_exotic-weapon-proficiency) (net), [Skill Focus](../../feats#_skill-focus) ( [Intimidate](../../skills_dir/intimidate#_intimidate)), [Weapon Focus](../../feats#_weapon-focus) (guisarme), [Weapon Specialization](../../feats#_weapon-specialization) (guisarme)
 
-**Skills** [Intimidate](../../skills/intimidate#_intimidate) +11, [Perception](../../skills/perception#_perception) +3, [Ride](../../skills/ride#_ride) +2, [Sense Motive](../../skills/senseMotive#_sense-motive) +2
+**Skills** [Intimidate](../../skills_dir/intimidate#_intimidate) +11, [Perception](../../skills_dir/perception#_perception) +3, [Ride](../../skills_dir/ride#_ride) +2, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +2
 
 **Languages** Common
 
 **SQ** armor training 1
 
-**Combat Gear** _potion of [cure light wounds](../../spells/cureLightWounds#_cure-light-wounds)_; **Other Gear** full plate, masterwork guisarme, javelin, nets (2), sap
+**Combat Gear** _potion of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** full plate, masterwork guisarme, javelin, nets (2), sap
 
-**Boon** A guard officer can alert the PCs to local customs, traditions, tricks, and suspicious activity, granting a +2 bonus for 24 hours on opposed [Perception](../../skills/perception#_perception) and [Sense Motive](../../skills/senseMotive#_sense-motive) checks within the city. She can also arrange a meeting with a watch captain for the PCs.
+**Boon** A guard officer can alert the PCs to local customs, traditions, tricks, and suspicious activity, granting a +2 bonus for 24 hours on opposed [Perception](../../skills_dir/perception#_perception) and [Sense Motive](../../skills_dir/senseMotive#_sense-motive) checks within the city. She can also arrange a meeting with a watch captain for the PCs.
 
 Guard officers supervise guards in their duties and respond to major disturbances, using their grim demeanors and skill at arms to quell conflict. They coordinate well in battle with the guards under their command, rounding up troublemakers and preventing their escape.
 
@@ -116,7 +116,7 @@ Human fighter 7
 
 LN Medium humanoid
 
-**Init** +1; **Senses** [Perception](../../skills/perception#_perception) +6
+**Init** +1; **Senses** [Perception](../../skills_dir/perception#_perception) +6
 
 **Defense**
 
@@ -132,9 +132,9 @@ LN Medium humanoid
 
 **Speed** 30 ft.
 
-**Melee** _+1 halberd_ +14/+9 (1d10+10/×3) or sap +11/+6 (1d6+4 nonlethal)
+**Melee** _+1 halberd_ +14_dir/+9 (1d10+10_dir/×3) or sap +11_dir/+6 (1d6+4 nonlethal)
 
-**Ranged** composite longbow +8/+3 (1d8+4/×3)
+**Ranged** composite longbow +8_dir/+3 (1d8+4_dir/×3)
 
 **Special Attacks** weapon training (pole arms +1)
 
@@ -146,13 +146,13 @@ LN Medium humanoid
 
 **Feats** [Alertness](../../feats#_alertness), [Combat Expertise](../../feats#_combat-expertise), [Dazzling Display](../../feats#_dazzling-display), [Greater Trip](../../feats#_greater-trip), [Improved Trip](../../feats#_improved-trip), [Iron Will](../../feats#_iron-will), [Persuasive](../../feats#_persuasive), [Weapon Focus](../../feats#_weapon-focus) (halberd), [Weapon Specialization](../../feats#_weapon-specialization) (halberd)
 
-**Skills** [Diplomacy](../../skills/diplomacy#_diplomacy) +5, [Handle Animal](../../skills/handleAnimal#_handle-animal) +4, [Intimidate](../../skills/intimidate#_intimidate) +12, [Knowledge](../../skills/knowledge#_knowledge) (engineering) +5, [Perception](../../skills/perception#_perception) +6, [Profession](../../skills/profession#_profession) (soldier) +5, [Ride](../../skills/ride#_ride) +2, [Sense Motive](../../skills/senseMotive#_sense-motive) +8
+**Skills** [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +5, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +4, [Intimidate](../../skills_dir/intimidate#_intimidate) +12, [Knowledge](../../skills_dir/knowledge#_knowledge) (engineering) +5, [Perception](../../skills_dir/perception#_perception) +6, [Profession](../../skills_dir/profession#_profession) (soldier) +5, [Ride](../../skills_dir/ride#_ride) +2, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +8
 
 **Languages** Common, Halfling
 
 **SQ** armor training 2
 
-**Combat Gear** _potions of [cure moderate wounds](../../spells/cureModerateWounds#_cure-moderate-wounds)_ (2), tanglefoot bags (2); **Other Gear** masterwork full plate, _+1 halberd_, composite longbow (+4 Str) with 20 arrows, sap,_ [cloak of resistance](../../magicItems/wondrousItems#_cloak-of-resistance) +1_, 35 gp
+**Combat Gear** _potions of [cure moderate wounds](../../spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (2), tanglefoot bags (2); **Other Gear** masterwork full plate, _+1 halberd_, composite longbow (+4 Str) with 20 arrows, sap,_ [cloak of resistance](../../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, 35 gp
 
 **Boon** A watch captain may detain an NPC of up to 9th level for 24 hours and allow a single PC access for questioning, or he could assign one patrol of guards to assist the PCs inside the city for up to 1 hour.
 

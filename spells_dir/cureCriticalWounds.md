@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/cureCriticalWounds
+title: spells_dir/cureCriticalWounds
 ---
  **Cure Critical Wounds**
 

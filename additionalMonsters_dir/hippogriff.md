@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters/hippogriff
+title: additionalMonsters_dir/hippogriff
 ---
 # Hippogriff
 
@@ -10,9 +10,9 @@ This large, brown, horse-like creature has a hawk's wings, talons, and hooked be
 
 **XP 600**
 
-N Large [magical beast](monsters/creatureTypes#_magical-beast)
+N Large [magical beast](monsters_dir/creatureTypes#_magical-beast)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +9
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +9
 
 Defense
 
@@ -36,15 +36,15 @@ Statistics
 
 **Base Atk** +3; **CMB** +6; **CMD** 19
 
-**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Wingover](additionalMonsters/../monsters/monsterFeats#_wingover)
+**Feats** [Dodge](additionalMonsters_dir/../feats#_dodge), [Wingover](additionalMonsters_dir/../monsters_dir/monsterFeats#_wingover)
 
-**Skills** [Fly](additionalMonsters/../skills/fly#_fly) +5, [Perception](additionalMonsters/../skills/perception#_perception) +9; **Racial Modifiers** +4 [Perception](additionalMonsters/../skills/perception#_perception)
+**Skills** [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +5, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +9; **Racial Modifiers** +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)
 
 Ecology
 
 **Environment** temperate hills or plains
 
-**Organization** solitary, pair, or [flight](monsters/universalMonsterRules#_flight-(ex,-sp,-or-su)) (7–12)
+**Organization** solitary, pair, or [flight](monsters_dir/universalMonsterRules#_flight-(ex,-sp,-or-su)) (7–12)
 
 **Treasure** none
 
@@ -54,7 +54,7 @@ A hippogriff's feathers bear coloration similar to those of a hawk or an eagle; 
 
 Territorial, hippogriffs fiercely protect the lands under their domain. Hippogriffs must also watch the skies for other predators, as they are a preferred meal of griffons, wyverns, and young dragons. Hippogriffs nest in sweeping grasslands, rugged hills, and flowing prairies. Exceptionally hardy hippogriffs make their home nestled into niches on canyon walls, from which they comb the rocky deserts for coyotes, deer, and the occasional humanoid. Hippogriffs prefer mammalian prey, yet they graze after every meal of flesh to aid their digestion. Their dietary habits can be dangerous to both ranchers and their livestock, so ranching communities often set bounties on them. Victims of these hunts are often taxidermied, and preserved hippogriffs frequently decorate frontier taverns and remote outposts.
 
-Far easier to train than griffons, yet easily as intelligent as horses, hippogriffs are trained as mounts by some elite companies of mounted soldiers, patrolling the skies and swooping down on unsuspecting enemies. Although they are magical beasts, if captured young, hippogriffs can be trained using [Handle Animal](additionalMonsters/../skills/handleAnimal#_handle-animal) as if they were animals. An adult hippogriff is more difficult to train, and attempts to do so follow the normal rules for training magical beasts using the skill. A hippogriff saddle must be specially crafted so as to not impact the movement of the creature's wings—these saddles are always exotic saddles.
+Far easier to train than griffons, yet easily as intelligent as horses, hippogriffs are trained as mounts by some elite companies of mounted soldiers, patrolling the skies and swooping down on unsuspecting enemies. Although they are magical beasts, if captured young, hippogriffs can be trained using [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) as if they were animals. An adult hippogriff is more difficult to train, and attempts to do so follow the normal rules for training magical beasts using the skill. A hippogriff saddle must be specially crafted so as to not impact the movement of the creature's wings—these saddles are always exotic saddles.
 
 Hippogriffs lay eggs rather than birthing live young—as a general rule, a hippogriff nest only contains one egg at a time. A hippogriff's egg is worth 200 gp, but a healthy young hippogriff is worth 500 gp. A fully trained hippogriff mount can command prices of up to 5,000 gp or more. A hippogriff can carry 198 pounds as a light load, 399 pounds as a medium load, and 600 pounds as a heavy load.
 

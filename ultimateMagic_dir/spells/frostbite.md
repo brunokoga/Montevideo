@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/frostbite
+title: ultimateMagic_dir/spells_dir/frostbite
 ---
 Frostbite
 

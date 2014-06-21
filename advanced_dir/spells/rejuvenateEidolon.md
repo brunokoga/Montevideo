@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/rejuvenateEidolon
+title: advanced_dir/spells_dir/rejuvenateEidolon
 ---
  **Rejuvenate Eidolon**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/hauntingChoir
+title: ultimateMagic_dir/spells_dir/hauntingChoir
 ---
 Haunting Choir
 
@@ -10,7 +10,7 @@ Haunting Choir
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Area** 30-ft.-radius emanation
 

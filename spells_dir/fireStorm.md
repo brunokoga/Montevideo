@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/fireStorm
+title: spells_dir/fireStorm
 ---
  **Fire Storm**
 
@@ -10,7 +10,7 @@ title: spells/fireStorm
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Area** two 10-ft. cubes per level (S)
 

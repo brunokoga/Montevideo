@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/clone
+title: spells_dir/clone
 ---
  **Clone**
 
-**School** necromancy; **Level** sorcerer/wizard 8
+**School** necromancy; **Level** sorcerer_dir/wizard 8
 
 **Casting Time** 10 minutes
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills/sleightOfHand
+title: skills_dir/sleightOfHand
 ---
 # Sleight of Hand
 

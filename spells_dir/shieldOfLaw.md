@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/shieldOfLaw
+title: spells_dir/shieldOfLaw
 ---
  **Shield of Law**
 
@@ -12,9 +12,9 @@ title: spells/shieldOfLaw
 
 **Range** 20 ft.
 
-**Targets** one creature/level in a 20-ft.-radius burst centered on you
+**Targets** one creature_dir/level in a 20-ft.-radius burst centered on you
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** see text; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

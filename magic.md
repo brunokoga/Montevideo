@@ -29,7 +29,7 @@ Once you've cast a prepared spell, you can't cast it again until you prepare it 
 | --- | --- |
 | Cast defensively | 15 + double spell level |
 | Injured while casting | 10 + damage dealt + spell level |
-| Continuous damage while casting | 10 + 1/2 damage dealt + spell level |
+| Continuous damage while casting | 10 + 1_dir/2 damage dealt + spell level |
 | Affected by a non-damaging spell while casting | DC of the spell + spell level |
 | Grappled or pinned while casting | 10 + grappler's CMB + spell level |
 | Vigorous motion while casting | 10 + spell level |
@@ -44,7 +44,7 @@ To cast a spell, you must concentrate. If something interrupts your concentratio
 
 **Injury** : If you take damage while trying to cast a spell, you must make a concentration check with a DC equal to 10 + the damage taken + the level of the spell you're casting. If you fail the check, you lose the spell without effect. The interrupting event strikes during spellcasting if it comes between the time you started and the time you complete a spell (for a spell with a casting time of 1 full round or more) or if it comes in response to your casting the spell (such as an attack of opportunity provoked by the spell or a contingent attack, such as a readied action).
 
-If you are taking continuous damage, such as from an _acid arrow_ or by standing in a lake of lava, half the damage is considered to take place while you are casting a spell. You must make a concentration check with a DC equal to 10 + 1/2 the damage that the continuous source last dealt + the level of the spell you're casting. If the last damage dealt was the last damage that the effect could deal, then the damage is over and does not distract you.
+If you are taking continuous damage, such as from an _acid arrow_ or by standing in a lake of lava, half the damage is considered to take place while you are casting a spell. You must make a concentration check with a DC equal to 10 + 1_dir/2 the damage that the continuous source last dealt + the level of the spell you're casting. If the last damage dealt was the last damage that the effect could deal, then the damage is over and does not distract you.
 
 **Spell** : If you are affected by a spell while attempting to cast a spell of your own, you must make a concentration check or lose the spell you are casting. If the spell affecting you deals damage, the DC is 10 + the damage taken + the level of the spell you're casting.
 
@@ -292,7 +292,7 @@ A spell's components explain what you must do or possess to cast the spell. The 
 
 **Divine Focus (DF)** : A divine focus component is an item of spiritual significance. The divine focus for a cleric or a paladin is a holy symbol appropriate to the character's faith. The divine focus for a druid or a ranger is a sprig of holly, or some other sacred plant.
 
-If the Components line includes F/DF or M/DF, the arcane version of the spell has a focus component or a material component (the abbreviation before the slash) and the divine version has a divine focus component (the abbreviation after the slash).
+If the Components line includes F_dir/DF or M_dir/DF, the arcane version of the spell has a focus component or a material component (the abbreviation before the slash) and the divine version has a divine focus component (the abbreviation after the slash).
 
 ## Casting Time
 
@@ -350,7 +350,7 @@ If a ray spell deals damage, you can score a critical hit just as if it were a w
 
 _Spread_: Some effects, notably clouds and fogs, spread out from a point of origin, which must be a grid intersection. The effect can extend around corners and into areas that you can't see. Figure distance by actual distance traveled, taking into account turns the spell effect takes. When determining distance for spread effects, count around walls, not through them. As with movement, do not trace diagonals across corners. You must designate the point of origin for such an effect, but you need not have line of effect (see below) to all portions of the effect.
 
-[SpellAreas]| ![](image/SpellAreas.jpg) |
+[SpellAreas]| ![](image_dir/SpellAreas.jpg) |
 
 **Area** : Some spells affect an area. Sometimes a spell description specifies a specially defined area, but usually an area falls into one of the categories defined below.
 
@@ -436,7 +436,7 @@ Usually a harmful spell allows a target to make a saving throw to avoid some or 
 
 **Disbelief** : A successful save lets the subject ignore the spell's effect.
 
-**(object)** : The spell can be cast on objects, which receive saving throws only if they are magical or if they are attended (held, worn, grasped, or the like) by a creature resisting the spell, in which case the object uses the creature's saving throw bonus unless its own bonus is greater. This notation does not mean that a spell can be cast only on objects. Some spells of this sort can be cast on creatures or objects. A magic item's saving throw bonuses are each equal to 2 + 1/2 the item's caster level.
+**(object)** : The spell can be cast on objects, which receive saving throws only if they are magical or if they are attended (held, worn, grasped, or the like) by a creature resisting the spell, in which case the object uses the creature's saving throw bonus unless its own bonus is greater. This notation does not mean that a spell can be cast only on objects. Some spells of this sort can be cast on creatures or objects. A magic item's saving throw bonuses are each equal to 2 + 1_dir/2 the item's caster level.
 
 **(harmless)** : The spell is usually beneficial, not harmful, but a targeted creature can attempt a saving throw if it desires.
 
@@ -490,7 +490,7 @@ A wizard's level limits the number of spells he can prepare and cast. His high [
 
 **Rest** : To prepare his daily spells, a wizard must first sleep for 8 hours. The wizard does not have to slumber for every minute of the time, but he must refrain from movement, combat, spellcasting, skill use, conversation, or any other fairly demanding physical or mental task during the rest period. If his rest is interrupted, each interruption adds 1 hour to the total amount of time he has to rest in order to clear his mind, and he must have at least 1 hour of uninterrupted rest immediately prior to preparing his spells. If the character does not need to sleep for some reason, he still must have 8 hours of restful calm before preparing any spells.
 
-**Recent Casting Limit/Rest Interruptions** : If a wizard has cast spells recently, the drain on his resources reduces his capacity to prepare new spells. When he prepares spells for the coming day, all the spells he has cast within the last 8 hours count against his daily limit.
+**Recent Casting Limit_dir/Rest Interruptions** : If a wizard has cast spells recently, the drain on his resources reduces his capacity to prepare new spells. When he prepares spells for the coming day, all the spells he has cast within the last 8 hours count against his daily limit.
 
 **Preparation Environment** : To prepare any spell, a wizard must have enough peace, quiet, and comfort to allow for proper concentration. The wizard's surroundings need not be luxurious, but they must be free from distractions. Exposure to inclement weather prevents the necessary concentration, as does any injury or failed saving throw the character might experience while studying. Wizards also must have access to their spellbooks to study from and sufficient light to read them. There is one major exception: a wizard can prepare a _read magic _spell even without a spellbook.
 

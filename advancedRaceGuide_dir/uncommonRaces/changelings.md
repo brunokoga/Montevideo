@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advancedRaceGuide/uncommonRaces/changelings
+title: advancedRaceGuide_dir/uncommonRaces_dir/changelings
 ---
 # Changelings
 
@@ -20,7 +20,7 @@ Changelings are the offspring of hags and their lovers taken through magic or ma
 
 > _Hulking Changeling (Annis Hag)_: The changeling gains a +1 racial bonus on melee damage.
 > 
-> _Green Widow (Green Hag)_: The changeling gains a +2 racial bonus on [Bluff](skills/bluff#_bluff) checks against creatures that are sexually attracted to her.
+> _Green Widow (Green Hag)_: The changeling gains a +2 racial bonus on [Bluff](skills_dir/bluff#_bluff) checks against creatures that are sexually attracted to her.
 > 
 > _Sea Lungs (Sea Hag)_: The changeling may hold her breath for a number of rounds equal to three times her Constitution before she risks drowning.
 
@@ -38,17 +38,17 @@ The following racial traits may be selected instead of existing changeling racia
 
 **Mist Child** : When the changeling has concealment or total concealment, the miss chance of attacks against her increases by 5%. This racial trait replaces hulking changeling.
 
-**Object of Desire** : The changeling adds +1 to her caster level when casting _ [charm person](spells/charmPerson#_charm-person)_ and _ [charm monster](spells/charmMonster#_charm-monster)_. This replaces green widow.
+**Object of Desire** : The changeling adds +1 to her caster level when casting _ [charm person](spells_dir/charmPerson#_charm-person)_ and _ [charm monster](spells_dir/charmMonster#_charm-monster)_. This replaces green widow.
 
-**Ocean's Daughter** : The changeling gains a +1 trait bonus on [Swim](skills/swim#_swim) checks. She automatically succeeds at [Swim](skills/swim#_swim) checks made to avoid nonlethal damage from swimming. This racial trait replaces sea lungs.
+**Ocean's Daughter** : The changeling gains a +1 trait bonus on [Swim](skills_dir/swim#_swim) checks. She automatically succeeds at [Swim](skills_dir/swim#_swim) checks made to avoid nonlethal damage from swimming. This racial trait replaces sea lungs.
 
 # Favored Class Options
 
 The following options are available to all changelings who have the listed favored class, and unless otherwise stated, the bonus applies each time you select the favored class reward.
 
-**Oracle** : Add +1/2 to the oracle's level for the purpose of determining the effects of the oracle's curse ability.
+**Oracle** : Add +1_dir/2 to the oracle's level for the purpose of determining the effects of the oracle's curse ability.
 
-**Rogue** : The rogue gains 1/6 of a new rogue talent.
+**Rogue** : The rogue gains 1_dir/6 of a new rogue talent.
 
 **Witch** : Add one spell from the witch spell list to the witch's familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
 
@@ -60,17 +60,17 @@ The following racial archetype is available to changelings.
 
 A changeling dreamweaver draws upon her hag heritage to ply the dream realms in order to touch mortal minds and souls, for good or ill. A dreamweaver witch has the following class features.
 
-**Class Skills** : The dreamweaver adds [Sense Motive](skills/senseMotive#_sense-motive) to her list of class skills and removes Healing from her list of class skills.
+**Class Skills** : The dreamweaver adds [Sense Motive](skills_dir/senseMotive#_sense-motive) to her list of class skills and removes Healing from her list of class skills.
 
 **Patron** : A dreamweaver's patron is normally portents or stars .
 
-**Spells** : A dreamweaver replaces some of her patron's spells with the following: 2nd—_sow thoughts_ (see below), 4th—_ [dust of twilight](advanced/spells/dustOfTwilight#_dust-of-twilight)_ , 6th—_ [deep slumber](spells/deepSlumber#_deep-slumber)_, 8th—_ [modify memory](spells/modifyMemory#_modify-memory)_, 10th—_ [dream](spells/dream#_dream)_, 12th—_ [cloak of dreams](advanced/spells/cloakOfDreams#_cloak-of-dreams)_ , 14th—_ [ethereal jaunt](spells/etherealJaunt#_ethereal-jaunt)_, 16th—_ [moment of prescience](spells/momentOfPrescience#_moment-of-prescience)_, 18th—_ [astral projection](spells/astralProjection#_astral-projection)_.
+**Spells** : A dreamweaver replaces some of her patron's spells with the following: 2nd—_sow thoughts_ (see below), 4th—_ [dust of twilight](advanced_dir/spells_dir/dustOfTwilight#_dust-of-twilight)_ , 6th—_ [deep slumber](spells_dir/deepSlumber#_deep-slumber)_, 8th—_ [modify memory](spells_dir/modifyMemory#_modify-memory)_, 10th—_ [dream](spells_dir/dream#_dream)_, 12th—_ [cloak of dreams](advanced_dir/spells_dir/cloakOfDreams#_cloak-of-dreams)_ , 14th—_ [ethereal jaunt](spells_dir/etherealJaunt#_ethereal-jaunt)_, 16th—_ [moment of prescience](spells_dir/momentOfPrescience#_moment-of-prescience)_, 18th—_ [astral projection](spells_dir/astralProjection#_astral-projection)_.
 
-**Dream Spinner (Su)** : At 2nd level, when a dreamweaver casts a mind-affecting spell on a target that is sleeping because of her slumber hex or a spell she cast, she adds +1 to the mind-affecting spell's DC. If the target succeeds at the saving throw against the spell, it does not wake up, nor does it have any recollection of having resisted a spell. If appropriate, the dreamweaver may incorporate elements of a mind-affecting spell (i.e., _sow thought_, _ [suggestion](spells/suggestion#_suggestion)_, and so on) into the target's subconscious so it believes the spell's effects originated in its dreams (the details of how these elements fit into the dream is up to the GM). This ability replaces the witch's hex gained at 2nd level.
+**Dream Spinner (Su)** : At 2nd level, when a dreamweaver casts a mind-affecting spell on a target that is sleeping because of her slumber hex or a spell she cast, she adds +1 to the mind-affecting spell's DC. If the target succeeds at the saving throw against the spell, it does not wake up, nor does it have any recollection of having resisted a spell. If appropriate, the dreamweaver may incorporate elements of a mind-affecting spell (i.e., _sow thought_, _ [suggestion](spells_dir/suggestion#_suggestion)_, and so on) into the target's subconscious so it believes the spell's effects originated in its dreams (the details of how these elements fit into the dream is up to the GM). This ability replaces the witch's hex gained at 2nd level.
 
-**Dream Thief (Su)** : At 6th level, a dreamweaver can alter the sleeping mind of any creature that is sleeping because of her slumber hex or a spell she cast. She can reshape one of the target's memories as if using _ [modify memory](spells/modifyMemory#_modify-memory)_. Alternatively, she may insert herself into the dreaming memories of the target, prompting the target's mind to show her some specific information; the dreamer's subconscious may resist, or try to deceive her with out-of-context memories, similar to the way a corpse can resist when questioned with _ [speak with dead](spells/speakWithDead#_speak-with-dead)_. A Will save negates either effect (DC equal to that of the witch's hex). Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day. This ability replaces the witch's hex gained at 6th level.
+**Dream Thief (Su)** : At 6th level, a dreamweaver can alter the sleeping mind of any creature that is sleeping because of her slumber hex or a spell she cast. She can reshape one of the target's memories as if using _ [modify memory](spells_dir/modifyMemory#_modify-memory)_. Alternatively, she may insert herself into the dreaming memories of the target, prompting the target's mind to show her some specific information; the dreamer's subconscious may resist, or try to deceive her with out-of-context memories, similar to the way a corpse can resist when questioned with _ [speak with dead](spells_dir/speakWithDead#_speak-with-dead)_. A Will save negates either effect (DC equal to that of the witch's hex). Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day. This ability replaces the witch's hex gained at 6th level.
 
-**Dream Possession (Su)** : At 10th level, a dreamweaver can take control of any creature that is sleeping because of her slumber hex or a spell she cast. This effect functions as _ [magic jar](spells/magicJar#_magic-jar)_, using the witch's familiar acting as the soul receptacle. A Will save negates either effect (DC equal to that of the witch's hex). Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day. This ability replaces the witch's hex gained at 10th level.
+**Dream Possession (Su)** : At 10th level, a dreamweaver can take control of any creature that is sleeping because of her slumber hex or a spell she cast. This effect functions as _ [magic jar](spells_dir/magicJar#_magic-jar)_, using the witch's familiar acting as the soul receptacle. A Will save negates either effect (DC equal to that of the witch's hex). Whether or not the save is successful, a creature cannot be the target of this hex again for 1 day. This ability replaces the witch's hex gained at 10th level.
 
 **Hexes** : The following hexes complement the dreamweaver archetype: charm, slumber ; beast of ill-omen .
 
@@ -98,7 +98,7 @@ _Hag Claws (Ex)_: You gain a +1 bonus on attack and damage rolls with your claws
 
 _Surprisingly Tough (Ex)_: Your natural armor bonus increases by +1.
 
-_Uncanny [Resistance](spells/resistance#_resistance) (Su)_: You gain spell resistance equal to 6 + your character level.
+_Uncanny [Resistance](spells_dir/resistance#_resistance) (Su)_: You gain spell resistance equal to 6 + your character level.
 
 **Special** : You can gain this feat up to three times. Its effects do not stack. Each time you take the feat, you must select a different manifestation.
 
@@ -108,13 +108,13 @@ Changelings have access to the following new spell.
 
 Sow Thought
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer/wizard 1, witch 1
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 

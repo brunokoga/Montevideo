@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/removeParalysis
+title: spells_dir/removeParalysis
 ---
  **Remove Paralysis**
 
@@ -10,7 +10,7 @@ title: spells/removeParalysis
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Targets** up to four creatures, no two of which can be more than 30 ft. apart
 

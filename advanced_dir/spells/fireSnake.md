@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advanced/spells/fireSnake
+title: advanced_dir/spells_dir/fireSnake
 ---
  **Fire Snake**
 
-**School** evocation [fire]; **Level** druid 5, sorcerer/wizard 5
+**School** evocation [fire]; **Level** druid 5, sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 

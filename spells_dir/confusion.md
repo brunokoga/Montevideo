@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/confusion
+title: spells_dir/confusion
 ---
  **Confusion**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, sorcerer/wizard 4
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (three nutshells)
+**Components** V, S, M_dir/DF (three nutshells)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Targets** all creatures in a 15-ft.-radius burst
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 
@@ -37,7 +37,7 @@ A confused character who can't carry out the indicated action does nothing but b
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one living creature
 

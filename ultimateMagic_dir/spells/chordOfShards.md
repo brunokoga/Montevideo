@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/chordOfShards
+title: ultimateMagic_dir/spells_dir/chordOfShards
 ---
 Chord of Shards
 

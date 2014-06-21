@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters/dragonfly
+title: additionalMonsters_dir/dragonfly
 ---
 # Dragonfly, Giant
 
@@ -10,9 +10,9 @@ Giant DragonflyCR 4
 
 **XP 1,200**
 
-N Medium [vermin](monsters/creatureTypes#_vermin)
+N Medium [vermin](monsters_dir/creatureTypes#_vermin)
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +1
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +1
 
 Defense
 
@@ -28,7 +28,7 @@ Offense
 
 **Speed** 20 ft., fly 80 ft. (perfect)
 
-**Melee** bite +9 (2d8+6 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** bite +9 (2d8+6 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Special Attack** darting charge
 
@@ -38,21 +38,21 @@ Statistics
 
 **Base Atk** +5; **CMB** +9 (+13 grappling, or +17 grappling on a charge); **CMD** 21 (29 vs. trip)
 
-**Feats** [Flyby Attack](additionalMonsters/../monsters/monsterFeats#_flyby-attack)B
+**Feats** [Flyby Attack](additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack)B
 
-**Skills** [Fly](additionalMonsters/../skills/fly#_fly) +10
+**Skills** [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +10
 
 Ecology
 
 **Environment** temperate or warm land
 
-**Organization** solitary or [flight](monsters/universalMonsterRules#_flight-(ex,-sp,-or-su)) (2–5)
+**Organization** solitary or [flight](monsters_dir/universalMonsterRules#_flight-(ex,-sp,-or-su)) (2–5)
 
 **Treasure** incidental
 
 Special Abilities
 
-**Darting Charge (Ex)** A giant dragonfly is adept at swooping in to attack prey with a powerful bite and then, just as quickly, swooping back up out of reach. As a result, a giant dragonfly gains [Flyby Attack](additionalMonsters/../monsters/monsterFeats#_flyby-attack) as a bonus feat. In addition, if a giant dragonfly charges while flying, it receives a +4 bonus on CMB checks made to grapple foes.
+**Darting Charge (Ex)** A giant dragonfly is adept at swooping in to attack prey with a powerful bite and then, just as quickly, swooping back up out of reach. As a result, a giant dragonfly gains [Flyby Attack](additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack) as a bonus feat. In addition, if a giant dragonfly charges while flying, it receives a +4 bonus on CMB checks made to grapple foes.
 
 Giant dragonflies are rare compared to other varieties of giant insects, and fortunately so, since they are voracious hunters of warm-blooded prey, including humanoids.
 
@@ -64,9 +64,9 @@ Giant Dragonfly NymphCR 3
 
 **XP 800**
 
-N Small [vermin](monsters/creatureTypes#_vermin) ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
+N Small [vermin](monsters_dir/creatureTypes#_vermin) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +1
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +1
 
 Defense
 
@@ -94,7 +94,7 @@ Statistics
 
 **Base Atk** +3; **CMB** +4; **CMD** 15 (23 vs. trip)
 
-**Skills** [Stealth](additionalMonsters/../skills/stealth#_stealth) +5 (+13 in shallow water) , [Swim](additionalMonsters/../skills/swim#_swim) +10; **Racial Modifiers** +8 [Stealth](additionalMonsters/../skills/stealth#_stealth) in shallow water
+**Skills** [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +5 (+13 in shallow water) , [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +10; **Racial Modifiers** +8 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) in shallow water
 
 Ecology
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/mohrg
+title: monsters_dir/mohrg
 ---
 # Mohrg
 
@@ -12,7 +12,7 @@ _A thick tangle of discolored entrails clings to this lurching skeleton's torso 
 
 CE Medium [undead](creatureTypes#_undead)
 
-**Init** +8; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +20
+**Init** +8; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +20
 
 **Defense**
 
@@ -38,9 +38,9 @@ CE Medium [undead](creatureTypes#_undead)
 
 **Base**  **Atk** +10; **CMB** +15 (+19 grapple); **CMD** 30
 
-**Feats** [Ability Focus](monsterFeats#_ability-focus) (paralysis), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Mobility](../feats#_mobility), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Spring Attack](../feats#_spring-attack)
+**Feats** [Ability Focus](monsterFeats#_ability-focus) (paralysis), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Mobility](../feats#_mobility), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Spring Attack](../feats#_spring-attack)
 
-**Skills** [Climb](../skills/climb#_climb) +22, [Perception](../skills/perception#_perception) +23, [Stealth](../skills/stealth#_stealth) +21, [Swim](../skills/swim#_swim) +19
+**Skills** [Climb](../skills_dir/climb#_climb) +22, [Perception](../skills_dir/perception#_perception) +23, [Stealth](../skills_dir/stealth#_stealth) +21, [Swim](../skills_dir/swim#_swim) +19
 
 **Ecology**
 

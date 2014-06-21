@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/eagleSSplendor
+title: spells_dir/eagleSSplendor
 ---
  **Eagle's Splendor**
 
-**School** transmutation; **Level** bard 2, cleric 2, paladin 2, sorcerer/wizard 2
+**School** transmutation; **Level** bard 2, cleric 2, paladin 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (feathers or droppings from an eagle)
+**Components** V, S, M_dir/DF (feathers or droppings from an eagle)
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes
 
@@ -22,11 +22,11 @@ The transmuted creature becomes more poised, articulate, and personally forceful
 
 **Eagle's Splendor, Mass**
 
-**School** transmutation; **Level** bard 6, cleric 6, sorcerer/wizard 6
+**School** transmutation; **Level** bard 6, cleric 6, sorcerer_dir/wizard 6
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** One creature/level, no two of which can be more than 30 ft. apart
+**Target** One creature_dir/level, no two of which can be more than 30 ft. apart
 
 This spell functions like _eagle's splendor_, except that it affects multiple creatures.
 

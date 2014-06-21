@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/heal
+title: spells_dir/heal
 ---
  **Heal**
 
@@ -28,7 +28,7 @@ If used against an undead creature, _heal _instead acts like _ [harm](harm#_harm
 
 **School** conjuration (healing); **Level** cleric 9
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Targets** one or more creatures, no two of which can be more than 30 ft. apart
 

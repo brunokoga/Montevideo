@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/locateObject
+title: spells_dir/locateObject
 ---
  **Locate Object**
 
-**School** divination; **Level** bard 2, cleric 3, sorcerer/wizard 2
+**School** divination; **Level** bard 2, cleric 3, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F/DF (a forked twig)
+**Components** V, S, F_dir/DF (a forked twig)
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
-**Area** circle, centered on you, with a radius of 400 ft. + 40 ft./level
+**Area** circle, centered on you, with a radius of 400 ft. + 40 ft._dir/level
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

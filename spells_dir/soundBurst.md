@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/soundBurst
+title: spells_dir/soundBurst
 ---
  **Sound Burst**
 
@@ -8,9 +8,9 @@ title: spells/soundBurst
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F/DF (a musical instrument)
+**Components** V, S, F_dir/DF (a musical instrument)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Area** 10-ft.-radius spread
 

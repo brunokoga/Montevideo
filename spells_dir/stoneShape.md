@@ -1,18 +1,18 @@
 ---
 layout: default
-title: spells/stoneShape
+title: spells_dir/stoneShape
 ---
  **Stone Shape**
 
-**School** transmutation [earth]; **Level** cleric 3, druid 3, sorcerer/wizard 4
+**School** transmutation [earth]; **Level** cleric 3, druid 3, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (soft clay)
+**Components** V, S, M_dir/DF (soft clay)
 
 **Range** touch
 
-**Target** stone or stone object touched, up to 10 cu. ft. + 1 cu. ft./level
+**Target** stone or stone object touched, up to 10 cu. ft. + 1 cu. ft._dir/level
 
 **Duration** instantaneous
 

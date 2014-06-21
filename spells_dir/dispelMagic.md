@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/dispelMagic
+title: spells_dir/dispelMagic
 ---
  **Dispel Magic**
 
-**School** abjuration; **Level** bard 3, cleric 3, druid 4, paladin 3, sorcerer/wizard 3
+**School** abjuration; **Level** bard 3, cleric 3, druid 4, paladin 3, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target or Area** one spellcaster, creature, or object
 
@@ -38,7 +38,7 @@ _Counterspell_: When _dispel magic _is used in this way, the spell targets a spe
 
 **Dispel Magic, Greater**
 
-**School** abjuration; **Level** bard 5, cleric 6, druid 6, sorcerer/wizard 6
+**School** abjuration; **Level** bard 5, cleric 6, druid 6, sorcerer_dir/wizard 6
 
 **Target or Area** one spellcaster, creature, or object; or a 20-ft.-radius burst
 

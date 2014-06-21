@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic/spells/burrow
+title: ultimateMagic_dir/spells_dir/burrow
 ---
 Burrow
 
-**School** transmutation; **Level** alchemist 3, druid 3, ranger 3, sorcerer/wizard 3
+**School** transmutation; **Level** alchemist 3, druid 3, ranger 3, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Burrow
 
 **Target** creature touched
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

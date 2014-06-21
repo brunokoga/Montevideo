@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ultimateCombat/spells/flashFire
+title: ultimateCombat_dir/spells_dir/flashFire
 ---
 Flash Fire
 
-**School** transmutation; **Level** sorcerer/wizard 3, witch 3
+**School** transmutation; **Level** sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a pinch of powdered fool's gold)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** 1 firearm
 

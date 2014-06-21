@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/forcedRepentance
+title: advanced_dir/spells_dir/forcedRepentance
 ---
  **Forced Repentance**
 
@@ -10,11 +10,11 @@ title: advanced/spells/forcedRepentance
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one evil creature without the evil subtype
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

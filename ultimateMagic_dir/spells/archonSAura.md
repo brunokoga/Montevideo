@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/archonSAura
+title: ultimateMagic_dir/spells_dir/archonSAura
 ---
 Archon's Aura
 
@@ -14,7 +14,7 @@ Archon's Aura
 
 **Area** 20-ft. radius centered on you
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

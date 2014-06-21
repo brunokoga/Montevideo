@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures/mythicSpells/nightmare
+title: mythicAdventures_dir/mythicSpells_dir/nightmare
 ---
 Nightmare
 
-**Source** [_nightmare_](spells/nightmare#_nightmare)
+**Source** [_nightmare_](spells_dir/nightmare#_nightmare)
 
 The spell's damage increases to 4d6 points of damage, and the target is also shaken for 24 hours.
 

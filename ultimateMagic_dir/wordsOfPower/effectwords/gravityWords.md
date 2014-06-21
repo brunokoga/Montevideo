@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/wordsOfPower/effectwords/gravityWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/gravityWords
 ---
 ## Gravity Words
 
@@ -8,7 +8,7 @@ Words from the gravity family use an unseen force to manipulate objects and crea
 
 Lift (Gravity)
 
-**School** transmutation; **Level** bard 0, magus 0, sorcerer/wizard 0, summoner 0
+**School** transmutation; **Level** bard 0, magus 0, sorcerer_dir/wizard 0, summoner 0
 
 **Duration** concentration
 
@@ -20,9 +20,9 @@ This effect word grants the caster the ability to lift and move nonmagical objec
 
 Unfetter (Gravity)
 
-**School** transmutation; **Level** druid 7, sorcerer/wizard 6
+**School** transmutation; **Level** druid 7, sorcerer_dir/wizard 6
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -32,15 +32,15 @@ This effect word makes the bonds of gravity work in reverse for the targets, cau
 
 Repulse (Gravity)
 
-**School** transmutation; **Level** cleric 9, druid 9, sorcerer/wizard 8, summoner 6, witch 8
+**School** transmutation; **Level** cleric 9, druid 9, sorcerer_dir/wizard 8, summoner 6, witch 8
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** yes
 
 **Target Restrictions** _burst_ (emanation)
 
-This effect word creates an area of impossible gravity, where all creatures and objects not securely fastened to the ground fall away from the center of the burst, to its exterior edge. Creatures inside the area when it forms are immediately moved toward its nearest edge. If, because of an obstacle, they cannot reach the edge, they strike the barrier and take falling damage. While a wordspell with this effect word persists, objects cannot enter the area unless they possess the ability to fly. Any flying creatures that rely on wings and enter the area must immediately make a DC 25 [Fly](skills/fly#_fly) skill check or be repelled by the area, unable to enter this turn. Missile weapons that pass through this area automatically miss their target. The caster is immune to this effect and may enter the area freely.
+This effect word creates an area of impossible gravity, where all creatures and objects not securely fastened to the ground fall away from the center of the burst, to its exterior edge. Creatures inside the area when it forms are immediately moved toward its nearest edge. If, because of an obstacle, they cannot reach the edge, they strike the barrier and take falling damage. While a wordspell with this effect word persists, objects cannot enter the area unless they possess the ability to fly. Any flying creatures that rely on wings and enter the area must immediately make a DC 25 [Fly](skills_dir/fly#_fly) skill check or be repelled by the area, unable to enter this turn. Missile weapons that pass through this area automatically miss their target. The caster is immune to this effect and may enter the area freely.
 
 **Boost** : The caster may designate a number of creatures equal to his level that are not affected by the wordspell.
 

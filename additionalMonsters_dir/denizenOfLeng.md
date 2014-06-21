@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters/denizenOfLeng
+title: additionalMonsters_dir/denizenOfLeng
 ---
 # Denizen of Leng
 
@@ -10,9 +10,9 @@ Denizen of LengCR 8
 
 **XP 4,800**
 
-CE Medium [outsider](monsters/creatureTypes#_outsider) ( [chaotic](monsters/creatureTypes#_chaotic-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+CE Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [chaotic](monsters_dir/creatureTypes#_chaotic-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +4; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +16
+**Init** +4; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +16
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +11, **Ref** +11, **Will** +6
 
-**Defensive Abilities** [no breath](monsters/universalMonsterRules#_no-breath), unusual anatomy; **Immune** [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters/creatureTypes#_cold-subtype) 30, electricity 30; **SR** 19
+**Defensive Abilities** [no breath](monsters_dir/universalMonsterRules#_no-breath), unusual anatomy; **Immune** [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 30, electricity 30; **SR** 19
 
 Offense
 
@@ -34,11 +34,11 @@ Offense
 
 **Spell-Like Abilities** (CL 10th; concentration +15)
 
-Constant—_ [tongues](additionalMonsters/../spells/tongues#_tongues)_
+Constant—_ [tongues](additionalMonsters_dir/../spells_dir/tongues#_tongues)_
 
-3/day—_ [detect thoughts](additionalMonsters/../spells/detectThoughts#_detect-thoughts)_ (DC 17), _ [hypnotic pattern](additionalMonsters/../spells/hypnoticPattern#_hypnotic-pattern)_ (DC 17), _ [levitate](additionalMonsters/../spells/levitate#_levitate)_, _ [minor image](additionalMonsters/../spells/minorImage#_minor-image)_ (DC 17)
+3_dir/day—_ [detect thoughts](additionalMonsters_dir/../spells_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [hypnotic pattern](additionalMonsters_dir/../spells_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 17), _ [levitate](additionalMonsters_dir/../spells_dir/levitate#_levitate)_, _ [minor image](additionalMonsters_dir/../spells_dir/minorImage#_minor-image)_ (DC 17)
 
-1/day—_ [locate object](additionalMonsters/../spells/locateObject#_locate-object)_, _ [plane shift](additionalMonsters/../spells/planeShift#_plane-shift)_ (DC 20, self only)
+1_dir/day—_ [locate object](additionalMonsters_dir/../spells_dir/locateObject#_locate-object)_, _ [plane shift](additionalMonsters_dir/../spells_dir/planeShift#_plane-shift)_ (DC 20, self only)
 
 Statistics
 
@@ -46,11 +46,11 @@ Statistics
 
 **Base Atk** +10; **CMB** +12; **CMD** 27
 
-**Feats** [Deceitful](additionalMonsters/../feats#_deceitful), [Dodge](additionalMonsters/../feats#_dodge), [Mobility](additionalMonsters/../feats#_mobility), [Persuasive](additionalMonsters/../feats#_persuasive), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Deceitful](additionalMonsters_dir/../feats#_deceitful), [Dodge](additionalMonsters_dir/../feats#_dodge), [Mobility](additionalMonsters_dir/../feats#_mobility), [Persuasive](additionalMonsters_dir/../feats#_persuasive), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Bluff](additionalMonsters/../skills/bluff#_bluff) +22, [Diplomacy](additionalMonsters/../skills/diplomacy#_diplomacy) +7, [Disable Device](additionalMonsters/../skills/disableDevice#_disable-device) +14, [Disguise](additionalMonsters/../skills/disguise#_disguise) +12 (+16 as [humanoid](monsters/creatureTypes#_humanoid)), [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +12, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (any one) +17, [Perception](additionalMonsters/../skills/perception#_perception) +16, [Profession](additionalMonsters/../skills/profession#_profession) (sailor) +8, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +16, [Sleight of Hand](additionalMonsters/../skills/sleightOfHand#_sleight-of-hand) +17, [Spellcraft](additionalMonsters/../skills/spellcraft#_spellcraft) +12, [Stealth](additionalMonsters/../skills/stealth#_stealth) +17, [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device) +18; **Racial Modifiers** +4 [Disguise](additionalMonsters/../skills/disguise#_disguise) when disguised as a Medium [humanoid](monsters/creatureTypes#_humanoid)
+**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +22, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +7, [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) +14, [Disguise](additionalMonsters_dir/../skills_dir/disguise#_disguise) +12 (+16 as [humanoid](monsters_dir/creatureTypes#_humanoid)), [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +12, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (any one) +17, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +16, [Profession](additionalMonsters_dir/../skills_dir/profession#_profession) (sailor) +8, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +16, [Sleight of Hand](additionalMonsters_dir/../skills_dir/sleightOfHand#_sleight-of-hand) +17, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +12, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +17, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +18; **Racial Modifiers** +4 [Disguise](additionalMonsters_dir/../skills_dir/disguise#_disguise) when disguised as a Medium [humanoid](monsters_dir/creatureTypes#_humanoid)
 
-**Languages** Aklo; _ [tongues](additionalMonsters/../spells/tongues#_tongues)_
+**Languages** Aklo; _ [tongues](additionalMonsters_dir/../spells_dir/tongues#_tongues)_
 
 Ecology
 
@@ -72,5 +72,5 @@ These eerie denizens travel the universe from their strange homeland of Leng, wa
 
 Many scholars have argued over where the otherworldly realm of Leng lies—some believe it can be found among the Outer Planes, while others are convinced it can only be reached via a dimension of dreams. The denizens of Leng can travel to other planes freely, and often do so in strange, black ships, constantly seeking new breeds of slaves or trading rubies for unusual services or magical treasures. At other times, their visits are much more violent, focusing on abducting victims for use as slaves or worse. On Leng, these denizens have long fought a war against that realm's monstrous spiders, a war that sometimes spills over into other worlds.
 
-A denizen of Leng weighs 200 pounds and stands roughly 5-1/2 feet tall.
+A denizen of Leng weighs 200 pounds and stands roughly 5-1_dir/2 feet tall.
 

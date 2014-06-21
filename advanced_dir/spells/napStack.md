@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/napStack
+title: advanced_dir/spells_dir/napStack
 ---
  **Nap Stack**
 

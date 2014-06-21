@@ -1,18 +1,18 @@
 ---
 layout: default
-title: spells/fabricate
+title: spells_dir/fabricate
 ---
  **Fabricate**
 
-**School** transmutation; **Level** sorcerer/wizard 5
+**School** transmutation; **Level** sorcerer_dir/wizard 5
 
 **Casting Time** see text
 
 **Components** V, S, M (the original material, which costs the same amount as the raw materials required to craft the item to be created)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** up to 10 cu. ft./level; see text
+**Target** up to 10 cu. ft._dir/level; see text
 
 **Duration** instantaneous
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateEquipment/gear/alchemicalRemedies
+title: ultimateEquipment_dir/gear_dir/alchemicalRemedies
 ---
 # Alchemical Remedies
 
-Alchemical remedies are substances used to overcome a negative condition or ward against a specific kind of attack. You use most remedies by drinking them or applying them to your skin or clothing. All of these substances can be made by a character with the [Craft](skills/craft#_craft) (alchemy) skill.
+Alchemical remedies are substances used to overcome a negative condition or ward against a specific kind of attack. You use most remedies by drinking them or applying them to your skin or clothing. All of these substances can be made by a character with the [Craft](skills_dir/craft#_craft) (alchemy) skill.
 
 [Alchemical Remedies]
 | Item | Price | Weight | Craft DC |
@@ -19,7 +19,7 @@ Alchemical remedies are substances used to overcome a negative condition or ward
 | Meditation tea | 30 gp | — | 20 |
 | Padzahr | 80 gp | — | 25 |
 | Smelling salts | 25 gp | — | 25 |
-| Soothe syrup | 25 gp | 1/2 lb. | 15 |
+| Soothe syrup | 25 gp | 1_dir/2 lb. | 15 |
 | Soul stimulant | 300 gp | — | 30 |
 | Troll oil | 50 gp | 1 lb. | 30 |
 | Twitch tonic | 45 gp | — | 25 |
@@ -30,7 +30,7 @@ Alchemical Grease
 
 **Price** 5 gp; **Weight** 1 lb.
 
-Each pot of this slick black goo has sufficient contents to cover one Medium creature or two Small ones. If you coat yourself in alchemical grease, you gain a +5 alchemical bonus on [Escape Artist](skills/escapeArtist#_escape-artist) checks, on combat maneuver checks made to escape a grapple, and to your CMD to avoid being grappled; this lasts 4 hours or until you wash it off.
+Each pot of this slick black goo has sufficient contents to cover one Medium creature or two Small ones. If you coat yourself in alchemical grease, you gain a +5 alchemical bonus on [Escape Artist](skills_dir/escapeArtist#_escape-artist) checks, on combat maneuver checks made to escape a grapple, and to your CMD to avoid being grappled; this lasts 4 hours or until you wash it off.
 
 Alchemist's Kindness
 
@@ -60,13 +60,13 @@ Fire Ward Gel
 
 **Price** 150 gp; **Weight** 1 lb.
 
-When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from fire or heat damage. You gain fire resistance 5. The gel burns away as it absorbs fire damage; when it absorbs a total of 20 points of fire damage, it is discharged. Fire ward gel counts as _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ for the purpose of stacking multiple fire protection effects. Applying fire ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of fire ward gel do not stack; applying more while a dose is active merely resets the potential amount of fire damage absorbed to 20 points.
+When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from fire or heat damage. You gain fire resistance 5. The gel burns away as it absorbs fire damage; when it absorbs a total of 20 points of fire damage, it is discharged. Fire ward gel counts as _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ for the purpose of stacking multiple fire protection effects. Applying fire ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of fire ward gel do not stack; applying more while a dose is active merely resets the potential amount of fire damage absorbed to 20 points.
 
 Frost Ward Gel
 
 **Price** 150 gp; **Weight** 1 lb.
 
-When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from cold damage. You gain cold resistance 5. The gel flakes away as it absorbs cold damage; when it absorbs a total of 20 points of cold damage, it is discharged. Frost ward gel counts as _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ for the purpose of stacking multiple cold protection effects. Applying frost ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of frost ward gel do not stack; applying more while a dose is active merely resets the potential amount of cold damage absorbed to 20 points.
+When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from cold damage. You gain cold resistance 5. The gel flakes away as it absorbs cold damage; when it absorbs a total of 20 points of cold damage, it is discharged. Frost ward gel counts as _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ for the purpose of stacking multiple cold protection effects. Applying frost ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of frost ward gel do not stack; applying more while a dose is active merely resets the potential amount of cold damage absorbed to 20 points.
 
 Meditation Tea
 
@@ -88,7 +88,7 @@ These sharply scented gray crystals cause people inhaling them to regain conscio
 
 Soothe Syrup
 
-**Price** 25 gp; **Weight** 1/2 lb.
+**Price** 25 gp; **Weight** 1_dir/2 lb.
 
 This sweet and wholesome-tasting blue liquid creates a sense of warmth and comfort. Soothe syrup coats your stomach and makes it much more difficult for you to succumb to queasiness. For 1 hour after drinking soothe syrup, you gain a +5 alchemical bonus on saving throws made to resist effects that would make you nauseated or sickened.
 

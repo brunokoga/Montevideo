@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/knowDirection
+title: spells_dir/knowDirection
 ---
  **Know Direction**
 

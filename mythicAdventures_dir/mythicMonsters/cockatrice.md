@@ -1,18 +1,18 @@
 ---
 layout: default
-title: mythicAdventures/mythicMonsters/cockatrice
+title: mythicAdventures_dir/mythicMonsters_dir/cockatrice
 ---
 # Cockatrice
 
 _This beast is an unsettling combination of chicken and lizard, and its claws, beak, and wattles seem made of stone. _
 
-Mythic Cockatrice CR 4/MR 1
+Mythic Cockatrice CR 4_dir/MR 1
 
 XP 1,200
 
-N Small magical beast ( [mythic](mythicAdventures/mythicMonsters#_mythic-subtype))
+N Small magical beast ( [mythic](mythicAdventures_dir/mythicMonsters#_mythic-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft., [low-light vision](monsters/universalMonsterRules#_low-light-vision); [Perception](skills/perception#_perception) +11
+**Init** +3; **Senses** darkvision 60 ft., [low-light vision](monsters_dir/universalMonsterRules#_low-light-vision); [Perception](skills_dir/perception#_perception) +11
 
 **Aura** petrification (30 feet)
 
@@ -24,7 +24,7 @@ Defense
 
 **Fort** +5, **Ref** +8, **Will** +3
 
-**Defensive Abilities** stone plumage; **DR** 5/epic
+**Defensive Abilities** stone plumage; **DR** 5_dir/epic
 
 Offense
 
@@ -32,7 +32,7 @@ Offense
 
 **Melee** bite +10 (1d4–2 plus petrification)
 
-**Special Attacks** mythic power (1/day, surge +1d6)
+**Special Attacks** mythic power (1_dir/day, surge +1d6)
 
 Statistics
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +3; **CMD** 17
 
-**Feats** [Dodge](mythicAdventures/mythicFeats#_dodge-mythic)M, [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Dodge](mythicAdventures_dir/mythicFeats#_dodge-mythic)M, [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Fly](skills/fly#_fly) +6, [Perception](skills/perception#_perception) +11
+**Skills** [Fly](skills_dir/fly#_fly) +6, [Perception](skills_dir/perception#_perception) +11
 
 Ecology
 
@@ -54,7 +54,7 @@ Ecology
 
 Special Abilities
 
-**Petrification (Su)** A mythic cockatrice's bite causes flesh to calcify and harden—multiple bites can cause a living creature to fossilize into stone. Each time a creature is damaged by a mythic cockatrice's bite attack, it must succeed at a DC 13 Fortitude save or take 1d6 points of Dexterity damage as its flesh and bones stiffen and harden. If a creature's Dexterity score is reduced to 0 by a cockatrice's bite, that creature immediately turns completely to stone, as if petrified by a _ [flesh to stone](spells/fleshToStone#_flesh-to-stone)_ spell. Every day, a creature petrified by a cockatrice in this manner can attempt a new DC 12 Fortitude save; if it succeeds, the victim recovers from the petrification with a Dexterity score of 1 (and thereafter can be restored to full Dexterity by natural healing or magic as normal). If a petrified creature fails three of these Fortitude saves in a row, the petrified state becomes permanent. A creature restored to flesh via magic has any Dexterity damage caused by cockatrice bites removed, but not any existing Dexterity damage from other sources. A cockatrice is immune to the petrification ability of itself and of other cockatrices, but other petrification attacks affect them normally. The save DC is Constitution-based.
+**Petrification (Su)** A mythic cockatrice's bite causes flesh to calcify and harden—multiple bites can cause a living creature to fossilize into stone. Each time a creature is damaged by a mythic cockatrice's bite attack, it must succeed at a DC 13 Fortitude save or take 1d6 points of Dexterity damage as its flesh and bones stiffen and harden. If a creature's Dexterity score is reduced to 0 by a cockatrice's bite, that creature immediately turns completely to stone, as if petrified by a _ [flesh to stone](spells_dir/fleshToStone#_flesh-to-stone)_ spell. Every day, a creature petrified by a cockatrice in this manner can attempt a new DC 12 Fortitude save; if it succeeds, the victim recovers from the petrification with a Dexterity score of 1 (and thereafter can be restored to full Dexterity by natural healing or magic as normal). If a petrified creature fails three of these Fortitude saves in a row, the petrified state becomes permanent. A creature restored to flesh via magic has any Dexterity damage caused by cockatrice bites removed, but not any existing Dexterity damage from other sources. A cockatrice is immune to the petrification ability of itself and of other cockatrices, but other petrification attacks affect them normally. The save DC is Constitution-based.
 
 **Petrification Aura (Su)** A creature within 30 feet of a mythic cockatrice on its turn must successfully save or be subjected by petrification as if it had been bitten.
 

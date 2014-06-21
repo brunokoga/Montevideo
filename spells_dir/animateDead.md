@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/animateDead
+title: spells_dir/animateDead
 ---
  **Animate Dead**
 
-**School** necromancy [evil]; **Level** cleric 3, sorcerer/wizard 4
+**School** necromancy [evil]; **Level** cleric 3, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 

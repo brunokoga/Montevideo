@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/reverseGravity
+title: spells_dir/reverseGravity
 ---
  **Reverse Gravity**
 
-**School** transmutation; **Level** druid 8, sorcerer/wizard 7
+**School** transmutation; **Level** druid 8, sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (lodestone and iron filings)
+**Components** V, S, M_dir/DF (lodestone and iron filings)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Area** up to one 10-ft. cube/level (S)
+**Area** up to one 10-ft. cube_dir/level (S)
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** none; see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

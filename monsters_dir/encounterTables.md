@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/encounterTables
+title: monsters_dir/encounterTables
 ---
 # Encounter Tables
 
@@ -147,7 +147,7 @@ At times during a game when you're looking to liven things up (perhaps during a 
 | 95–98 | 1d4 [shambling mound](shamblingMound#_shambling-mound)s | 8 |
 | 99–100 | 1 [treant](treant#_treant) | 8 |
 
-## Hill/Mountain CR 8
+## Hill_dir/Mountain CR 8
 
 | d% | Encounter | Avg. CR |
 | --- | --- | --- |

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateCombat/spells/tacticalAcumen
+title: ultimateCombat_dir/spells_dir/tacticalAcumen
 ---
 Tactical Acumen
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, inquisitor 2, magus 2, paladin 1, sorcerer/wizard 2
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, inquisitor 2, magus 2, paladin 1, sorcerer_dir/wizard 2
 
 **Casting time** 1 standard action
 
-**Components** V, S, M/DF (a small piece of a map)
+**Components** V, S, M_dir/DF (a small piece of a map)
 
 **Range** 30 ft.
 
 **Area** The caster and all allies within a 30-ft.-radius burst, centered on the caster
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

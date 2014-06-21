@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/animatePlants
+title: spells_dir/animatePlants
 ---
  **Animate Plants**
 
@@ -10,11 +10,11 @@ title: spells/animatePlants
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Targets** one Large plant per three caster levels or all plants within range; see text
 
-**Duration** 1 round/level or 1 hour/level; see text
+**Duration** 1 round_dir/level or 1 hour_dir/level; see text
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

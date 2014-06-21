@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ultimateCombat/spells/litanyOfRighteousness
+title: ultimateCombat_dir/spells_dir/litanyOfRighteousness
 ---
 Litany of Righteousness
 
-**School** evocation [[good](monsters/creatureTypes#_good-subtype), language dependent]; **Level** inquisitor 3, paladin 2
+**School** evocation [[good](monsters_dir/creatureTypes#_good-subtype), language dependent]; **Level** inquisitor 3, paladin 2
 
 **Casting Time** 1 swift action
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 

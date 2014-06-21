@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/castigate
+title: advanced_dir/spells_dir/castigate
 ---
  **Castigate**
 
@@ -10,11 +10,11 @@ title: advanced/spells/castigate
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one living creature
 
-**Duration** 1 round/level or 1 round; see text
+**Duration** 1 round_dir/level or 1 round; see text
 
 **Saving Throw** Will partial; **Spell Resistance** yes
 
@@ -24,9 +24,9 @@ You compel the target to beg for forgiveness. On a failed save, the target cower
 
 **School** enchantment (compulsion) [fear, language-dependent, mind-affecting]; **Level** inquisitor 5
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Targets** one creature/level, no two of which can be more than 30 ft. apart
+**Targets** one creature_dir/level, no two of which can be more than 30 ft. apart
 
 This spell functions as _castigate_, except it affects many creatures.
 

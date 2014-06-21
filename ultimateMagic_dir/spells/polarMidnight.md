@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/polarMidnight
+title: ultimateMagic_dir/spells_dir/polarMidnight
 ---
 Polar Midnight
 
@@ -10,13 +10,13 @@ Polar Midnight
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** 30-ft. spread
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 
-You plunge an area into the brutal chill of the arctic night. Illumination conditions are dropped by two steps (though only to darkness, not supernatural darkness), and all creatures in the area take 5d6 points of cold damage and 1d6 points of Dexterity damage per round. A successful Fortitude save each round negates the Dexterity damage but not the cold damage. Any creature that doesn't move on its turn becomes encased in a sheath of ice equivalent to _ [wall of ice](spells/wallOfIce#_wall-of-ice)_, is helpless, and cannot breathe. Corpses in the area for longer than 1 round are transmuted into solid ice; reviving the icy corpse requires _ [true resurrection](spells/trueResurrection#_true-resurrection)_, _ [miracle](spells/miracle#_miracle)_, or _ [wish](spells/wish#_wish)_. As a move action, you may move the area of effect up to 10 feet in any direction.
+You plunge an area into the brutal chill of the arctic night. Illumination conditions are dropped by two steps (though only to darkness, not supernatural darkness), and all creatures in the area take 5d6 points of cold damage and 1d6 points of Dexterity damage per round. A successful Fortitude save each round negates the Dexterity damage but not the cold damage. Any creature that doesn't move on its turn becomes encased in a sheath of ice equivalent to _ [wall of ice](spells_dir/wallOfIce#_wall-of-ice)_, is helpless, and cannot breathe. Corpses in the area for longer than 1 round are transmuted into solid ice; reviving the icy corpse requires _ [true resurrection](spells_dir/trueResurrection#_true-resurrection)_, _ [miracle](spells_dir/miracle#_miracle)_, or _ [wish](spells_dir/wish#_wish)_. As a move action, you may move the area of effect up to 10 feet in any direction.
 

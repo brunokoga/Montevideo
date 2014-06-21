@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/astralProjection
+title: spells_dir/astralProjection
 ---
  **Astral Projection**
 
-**School** necromancy; **Level** cleric 9, sorcerer/wizard 9
+**School** necromancy; **Level** cleric 9, sorcerer_dir/wizard 9
 
 **Casting Time** 30 minutes
 

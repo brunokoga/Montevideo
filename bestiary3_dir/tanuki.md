@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/tanuki
+title: bestiary3_dir/tanuki
 ---
 # Tanuki
 
@@ -10,9 +10,9 @@ Tanuki CR 4
 
 XP 1,200
 
-CN Medium monstrous humanoid ( [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
+CN Medium monstrous humanoid ( [shapechanger](monsters_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft., _ [detect poison](spells/detectPoison#_detect-poison)_, low-light vision; [Perception](skills/perception#_perception) +8
+**Init** +3; **Senses** darkvision 60 ft., _ [detect poison](spells_dir/detectPoison#_detect-poison)_, low-light vision; [Perception](skills_dir/perception#_perception) +8
 
 Defense
 
@@ -32,13 +32,13 @@ Offense
 
 **Spell-Like Abilities** (CL 7th; concentration +11)
 
-Constant—_ [detect poison](spells/detectPoison#_detect-poison)_
+Constant—_ [detect poison](spells_dir/detectPoison#_detect-poison)_
 
-At will—_ [purify food and drink](spells/purifyFoodAndDrink#_purify-food-and-drink)_
+At will—_ [purify food and drink](spells_dir/purifyFoodAndDrink#_purify-food-and-drink)_
 
-3/day—_ [magic stone](spells/magicStone#_magic-stone), [major creation](spells/majorCreation#_major-creation)_ (up to 1 cubic foot)
+3_dir/day—_ [magic stone](spells_dir/magicStone#_magic-stone), [major creation](spells_dir/majorCreation#_major-creation)_ (up to 1 cubic foot)
 
-1/day—_ [create food and water](spells/createFoodAndWater#_create-food-and-water)_, _ [shrink item](spells/shrinkItem#_shrink-item), [veil](spells/veil#_veil)_ (self only)
+1_dir/day—_ [create food and water](spells_dir/createFoodAndWater#_create-food-and-water)_, _ [shrink item](spells_dir/shrinkItem#_shrink-item), [veil](spells_dir/veil#_veil)_ (self only)
 
 Statistics
 
@@ -48,11 +48,11 @@ Statistics
 
 **Feats** Two-Weapon Defense, [Two-Weapon Fighting](feats#_two-weapon-fighting), [Weapon Focus](feats#_weapon-focus) (quarterstaff)
 
-**Skills** [Bluff](skills/bluff#_bluff) +7, [Diplomacy](skills/diplomacy#_diplomacy) +6, [Knowledge](skills/knowledge#_knowledge) (nature) +5, [Perception](skills/perception#_perception) +8, [Perform](skills/perform#_perform) (percussion) +8, [Sense Motive](skills/senseMotive#_sense-motive) +4, [Spellcraft](skills/spellcraft#_spellcraft) +4, [Stealth](skills/stealth#_stealth) +10
+**Skills** [Bluff](skills_dir/bluff#_bluff) +7, [Diplomacy](skills_dir/diplomacy#_diplomacy) +6, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +5, [Perception](skills_dir/perception#_perception) +8, [Perform](skills_dir/perform#_perform) (percussion) +8, [Sense Motive](skills_dir/senseMotive#_sense-motive) +4, [Spellcraft](skills_dir/spellcraft#_spellcraft) +4, [Stealth](skills_dir/stealth#_stealth) +10
 
 **Languages** Common, Tanuki
 
-**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (raccoon; _ [beast shape II](spells/beastShape#_beast-shape-ii)_), sake affinity
+**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (raccoon; _ [beast shape II](spells_dir/beastShape#_beast-shape-ii)_), sake affinity
 
 Ecology
 
@@ -64,7 +64,7 @@ Ecology
 
 Special Abilities
 
-**Sake Affinity (Su)** As a swift action, a tanuki can take a swig of sake from the gourd it always carries at its side. When it does so, it gains the effect of one of the following spells at caster level 7th: _ [divine favor](spells/divineFavor#_divine-favor)_, _ [false life](spells/falseLife#_false-life)_, _ [haste](spells/haste#_haste)_, or _ [rage](spells/rage#_rage)_. Unusual tanukis might have additional spell effect choices at the GM's discretion. Each time a tanuki takes a swig of sake, it becomes progressively drunker and takes a –1 penalty to its AC and on Reflex saves for 1 minute. These penalties stack.
+**Sake Affinity (Su)** As a swift action, a tanuki can take a swig of sake from the gourd it always carries at its side. When it does so, it gains the effect of one of the following spells at caster level 7th: _ [divine favor](spells_dir/divineFavor#_divine-favor)_, _ [false life](spells_dir/falseLife#_false-life)_, _ [haste](spells_dir/haste#_haste)_, or _ [rage](spells_dir/rage#_rage)_. Unusual tanukis might have additional spell effect choices at the GM's discretion. Each time a tanuki takes a swig of sake, it becomes progressively drunker and takes a –1 penalty to its AC and on Reflex saves for 1 minute. These penalties stack.
 
 Jolly tricksters, tanukis love deceiving humanoids and other intelligent creatures. This mischief is usually harmless, but can turn spiteful in some situations.   
 Popular folklore stories claim tanukis are the transformed souls of tools and housewares that were used for more than 100 years, a myth that probably results from tanukis' ability to magically create or alter objects.

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/protectionFromEnergy
+title: spells_dir/protectionFromEnergy
 ---
  **Protection from Energy**
 
-**School** abjuration; **Level** cleric 3, druid 3, ranger 2, sorcerer/wizard 3
+**School** abjuration; **Level** cleric 3, druid 3, ranger 2, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells/protectionFromEnergy
 
 **Target** creature touched
 
-**Duration** 10 min./level or until discharged
+**Duration** 10 min._dir/level or until discharged
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

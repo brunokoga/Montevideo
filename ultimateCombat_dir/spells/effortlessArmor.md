@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat/spells/effortlessArmor
+title: ultimateCombat_dir/spells_dir/effortlessArmor
 ---
 Effortless Armor
 
@@ -14,7 +14,7 @@ Effortless Armor
 
 **Target** you
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 Armor you wear no longer reduces your speed. You also reduce the armor's armor check penalty by 1 + 1 per five caster levels (maximum 5).
 

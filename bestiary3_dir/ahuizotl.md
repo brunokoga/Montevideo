@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/ahuizotl
+title: bestiary3_dir/ahuizotl
 ---
 # Ahuizotl
 
@@ -10,9 +10,9 @@ Ahuizotl CR 6
 
 XP 2,400
 
-NE Large magical beast ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
+NE Large magical beast ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](skills/perception#_perception) +2
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +2
 
 Defense
 
@@ -26,11 +26,11 @@ Offense
 
 **Speed** 30 ft., swim 50 ft.
 
-**Melee** bite +12 (2d6+5), claw +12 (1d8+5/19–20 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** bite +12 (2d6+5), claw +12 (1d8+5_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 5 ft. (10 ft. with tail)
 
-**Special Attacks** [rake](monsters/universalMonsterRules#_rake) (2 claws +5, 1d4+5)
+**Special Attacks** [rake](monsters_dir/universalMonsterRules#_rake) (2 claws +5, 1d4+5)
 
 Statistics
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +8; **CMB** +14 (+18 grapple); **CMD** 27 (31 vs. trip)
 
-**Feats** [Blinding Critical](feats#_blinding-critical)B, [Combat Reflexes](feats#_combat-reflexes), [Improved Critical](feats#_improved-critical) (claw)B, [Improved Initiative](feats#_improved-initiative), [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth)), [Stand Still](feats#_stand-still)
+**Feats** [Blinding Critical](feats#_blinding-critical)B, [Combat Reflexes](feats#_combat-reflexes), [Improved Critical](feats#_improved-critical) (claw)B, [Improved Initiative](feats#_improved-initiative), [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth)), [Stand Still](feats#_stand-still)
 
-**Skills** [Bluff](skills/bluff#_bluff) +9, [Stealth](skills/stealth#_stealth) +9, [Swim](skills/swim#_swim) +20; **Racial Modifiers** +6 [Bluff](skills/bluff#_bluff)
+**Skills** [Bluff](skills_dir/bluff#_bluff) +9, [Stealth](skills_dir/stealth#_stealth) +9, [Swim](skills_dir/swim#_swim) +20; **Racial Modifiers** +6 [Bluff](skills_dir/bluff#_bluff)
 
 **Languages** Common
 
@@ -58,7 +58,7 @@ Special Abilities
 
 **Tenacious Grapple (Ex)** An ahuizotl does not gain the grappled condition when it grapples a foe.
 
-**Voice Mimicry (Ex)** An ahuizotl can perfectly mimic the sound of humanoid sobbing and can even attempt to mimic voices it has heard. When mimicking a voice, an ahuizotl must make a [Bluff](skills/bluff#_bluff) check opposed by its listener's [Sense Motive](skills/senseMotive#_sense-motive) check. If the listener has never heard the voice the ahuizotl is attempting to mimic, the listener takes a –8 penalty on the [Sense Motive](skills/senseMotive#_sense-motive) check.
+**Voice Mimicry (Ex)** An ahuizotl can perfectly mimic the sound of humanoid sobbing and can even attempt to mimic voices it has heard. When mimicking a voice, an ahuizotl must make a [Bluff](skills_dir/bluff#_bluff) check opposed by its listener's [Sense Motive](skills_dir/senseMotive#_sense-motive) check. If the listener has never heard the voice the ahuizotl is attempting to mimic, the listener takes a –8 penalty on the [Sense Motive](skills_dir/senseMotive#_sense-motive) check.
 
 A carnage-hungry denizen of swamps, the ahuizotl is a ferocious-looking predator, even before one takes into consideration its most distinctive feature—a long tail that ends in a clawed but all-too-humanoid hand. Whether from the entrance of its aquatic home (typically a sunken mass of trees or a flooded cavern) or the thick reeds and flora that grow at the water's edge, an ahuizotl remains watchful for any intruder that might trespass into its territory. Upon sighting such prey, the beast uses its uncanny ability to mimic the sound of a humanoid in distress to lure victims near, so it can snatch them with its tail claw. Ahuizotls are particularly fond of feasting upon a victim's eyes, and their tail claws are particularly adept at swiping away such organs for the beasts to feed upon. Teeth and fingernails are another of the creature's favorite meals, and the appearance of mutilated bodies missing eyes, teeth, and nails along a river's banks is sure evidence of an ahuizotl attack.
 

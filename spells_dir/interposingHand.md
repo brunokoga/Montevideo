@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/interposingHand
+title: spells_dir/interposingHand
 ---
  **Interposing Hand**
 
-**School** evocation [force]; **Level** sorcerer/wizard 5
+**School** evocation [force]; **Level** sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S, F (a soft glove)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Effect** 10-ft. hand
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

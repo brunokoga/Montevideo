@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/magicMissile
+title: spells_dir/magicMissile
 ---
  **Magic Missile**
 
-**School** evocation [force]; **Level** sorcerer/wizard 1
+**School** evocation [force]; **Level** sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Targets** up to five creatures, no two of which can be more than 15 ft. apart
 

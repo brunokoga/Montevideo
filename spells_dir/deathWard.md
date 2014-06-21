@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/deathWard
+title: spells_dir/deathWard
 ---
  **Death Ward**
 
@@ -14,7 +14,7 @@ title: spells/deathWard
 
 **Target** living creature touched
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

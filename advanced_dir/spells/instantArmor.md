@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/instantArmor
+title: advanced_dir/spells_dir/instantArmor
 ---
  **Instant Armor**
 
@@ -14,7 +14,7 @@ title: advanced/spells/instantArmor
 
 **Target** you
 
-**Duration** 1 minute/level (D)
+**Duration** 1 minute_dir/level (D)
 
 You instantly wrap your body in a suit of armor made from opaque force. At your option, the armor can be decorated with your religion's holy symbol in a prominent place, such as upon the breastplate or helm. While it exists, this armor replaces any garments or other sort of armor worn, magical as well as mundane. You lose access to, and all benefits from, armor replaced by this spell until the spell ends and the instant armor disappears.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/cat
+title: monsters_dir/cat
 ---
 # Cat, Cheetah
 
@@ -12,7 +12,7 @@ _This large, sleek feline has a golden coat spotted with black. Its long and pow
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +8; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +5
+**Init** +8; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +5
 
 **Defense**
 
@@ -36,7 +36,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +8, [Perception](../skills/perception#_perception) +5, [Stealth](../skills/stealth#_stealth) +8 (+12 in tall grass); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) in tall grass
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +8, [Perception](../skills_dir/perception#_perception) +5, [Stealth](../skills_dir/stealth#_stealth) +8 (+12 in tall grass); **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth) in tall grass
 
 **Ecology**
 
@@ -52,7 +52,7 @@ N Medium [animal](creatureTypes#_animal)
 
 The cheetah is a swift and deadly predator capable of moving with incredible speed, allowing it to run down unsuspecting foes hundreds of feet away. The hunting cat avoids areas of dense and tangled undergrowth, but has great skill at lying in wait in tall grass.
 
-An adult cheetah is 4-1/2 feet long and weighs 140 pounds.
+An adult cheetah is 4-1_dir/2 feet long and weighs 140 pounds.
 
 # Cat, Leopard
 
@@ -64,7 +64,7 @@ _With each graceful step, this leopard's steely muscles ripple beneath its spott
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +4; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +5
+**Init** +4; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +5
 
 **Defense**
 
@@ -88,9 +88,9 @@ N Medium [animal](creatureTypes#_animal)
 
 **Base Atk** +2; **CMB** +5 (+9 grapple); **CMD** 19 (23 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills/stealth#_stealth)), [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth)), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +8, [Climb](../skills/climb#_climb) +11, [Perception](../skills/perception#_perception) +5, [Stealth](../skills/stealth#_stealth) +11 (+15 in undergrowth); **Racial Modifiers** +4 on [Stealth](../skills/stealth#_stealth) in undergrowth
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +8, [Climb](../skills_dir/climb#_climb) +11, [Perception](../skills_dir/perception#_perception) +5, [Stealth](../skills_dir/stealth#_stealth) +11 (+15 in undergrowth); **Racial Modifiers** +4 on [Stealth](../skills_dir/stealth#_stealth) in undergrowth
 
 **Ecology**
 

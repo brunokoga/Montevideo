@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/detectSecretDoors
+title: spells_dir/detectSecretDoors
 ---
  **Detect Secret Doors**
 
-**School** divination; **Level** bard 1, sorcerer/wizard 1
+**School** divination; **Level** bard 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells/detectSecretDoors
 
 **Area** cone-shaped emanation
 
-**Duration** concentration, up to 1 min./level (D)
+**Duration** concentration, up to 1 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

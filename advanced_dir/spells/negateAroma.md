@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/negateAroma
+title: advanced_dir/spells_dir/negateAroma
 ---
  **Negate Aroma**
 
@@ -8,13 +8,13 @@ title: advanced/spells/negateAroma
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (a pinch of alum)
+**Components** V, S, M_dir/DF (a pinch of alum)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one creature or object/level touched
+**Target** one creature or object_dir/level touched
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hour_dir/level (D)
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 

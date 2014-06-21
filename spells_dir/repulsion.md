@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/repulsion
+title: spells_dir/repulsion
 ---
  **Repulsion**
 
-**School** abjuration; **Level** cleric 7, sorcerer/wizard 6
+**School** abjuration; **Level** cleric 7, sorcerer_dir/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F/DF (a pair of canine statuettes worth 50 gp)
+**Components** V, S, F_dir/DF (a pair of canine statuettes worth 50 gp)
 
-**Range** up to 10 ft./level
+**Range** up to 10 ft._dir/level
 
-**Area** up to 10-ft.-radius/level emanation centered on you
+**Area** up to 10-ft.-radius_dir/level emanation centered on you
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

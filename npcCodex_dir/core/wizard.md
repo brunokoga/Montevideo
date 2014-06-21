@@ -1,10 +1,10 @@
 ---
 layout: default
-title: npcCodex/core/wizard
+title: npcCodex_dir/core_dir/wizard
 ---
 # Wizards
 
-Cautious Mage CR 1/2
+Cautious Mage CR 1_dir/2
 
 **XP** 200
 
@@ -28,21 +28,21 @@ Offense
 
 **Melee** quarterstaff +0 (1d6)
 
-**Special Attacks** hand of the apprentice (6/day)
+**Special Attacks** hand of the apprentice (6_dir/day)
 
 **Wizard Spells Prepared** (CL 1st; concentration +4)
 
-1st—_ [burning hands](spells/burningHands#_burning-hands)_ (DC 14), _ [mage armor](spells/mageArmor#_mage-armor)_
+1st—_ [burning hands](spells_dir/burningHands#_burning-hands)_ (DC 14), _ [mage armor](spells_dir/mageArmor#_mage-armor)_
 
-0 (at will)—_ [bleed](spells/bleed#_bleed)_ (DC 13), _ [detect magic](spells/detectMagic#_detect-magic)_, _ [resistance](spells/resistance#_resistance)_
+0 (at will)—_ [bleed](spells_dir/bleed#_bleed)_ (DC 13), _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [resistance](spells_dir/resistance#_resistance)_
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_.
 
-**During Combat** The wizard uses hand of the apprentice to throw her quarterstaff or casts _ [burning hands](spells/burningHands#_burning-hands)_. She offers to use her _scroll of [enlarge person](spells/enlargePerson#_enlarge-person)_ on an ally who'll protect her.
+**During Combat** The wizard uses hand of the apprentice to throw her quarterstaff or casts _ [burning hands](spells_dir/burningHands#_burning-hands)_. She offers to use her _scroll of [enlarge person](spells_dir/enlargePerson#_enlarge-person)_ on an ally who'll protect her.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 11, touch 11, flat-footed 10.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 11, touch 11, flat-footed 10.
 
 Statistics
 
@@ -52,13 +52,13 @@ Statistics
 
 **Feats** [Alertness](feats#_alertness), [Combat Casting](feats#_combat-casting), [Improved Initiative](feats#_improved-initiative), [Scribe Scroll](feats#_scribe-scroll)
 
-**Skills** [Knowledge](skills/knowledge#_knowledge) (arcana, history, planes) +7, [Linguistics](skills/linguistics#_linguistics) +7, Perception +4, [Sense Motive](skills/senseMotive#_sense-motive) +3, [Spellcraft](skills/spellcraft#_spellcraft) +7
+**Skills** [Knowledge](skills_dir/knowledge#_knowledge) (arcana, history, planes) +7, [Linguistics](skills_dir/linguistics#_linguistics) +7, Perception +4, [Sense Motive](skills_dir/senseMotive#_sense-motive) +3, [Spellcraft](skills_dir/spellcraft#_spellcraft) +7
 
 **Languages** Common, Draconic, Dwarven, Elven, Infernal
 
 **SQ** arcane bond (raven)
 
-**Combat Gear** _potions of [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_ (2), _potion of [shield of faith](spells/shieldOfFaith#_shield-of-faith)_, _scrolls of [comprehend languages](spells/comprehendLanguages#_comprehend-languages)_ (2), _scroll of [endure elements](spells/endureElements#_endure-elements)_, _scroll of [enlarge person](spells/enlargePerson#_enlarge-person)_, _scroll of [grease](spells/grease#_grease)_, _scroll of [mount](spells/mount#_mount)_, _scrolls of [shield](spells/shield#_shield)_ (2), smokesticks (2); **Other Gear** quarterstaff, antitoxin, spellbook, sunrods (5), 40 gp
+**Combat Gear** _potions of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [shield of faith](spells_dir/shieldOfFaith#_shield-of-faith)_, _scrolls of [comprehend languages](spells_dir/comprehendLanguages#_comprehend-languages)_ (2), _scroll of [endure elements](spells_dir/endureElements#_endure-elements)_, _scroll of [enlarge person](spells_dir/enlargePerson#_enlarge-person)_, _scroll of [grease](spells_dir/grease#_grease)_, _scroll of [mount](spells_dir/mount#_mount)_, _scrolls of [shield](spells_dir/shield#_shield)_ (2), smokesticks (2); **Other Gear** quarterstaff, antitoxin, spellbook, sunrods (5), 40 gp
 
 These mages are new adventurers looking for protectors.
 
@@ -90,31 +90,31 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** dagger +3 (1d3+1/19–20)
+**Melee** dagger +3 (1d3+1_dir/19–20)
 
-**Ranged** light crossbow +4 (1d6/19–20)
+**Ranged** light crossbow +4 (1d6_dir/19–20)
 
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids
 
 **Gnome Spell-Like Abilities** (CL 2nd; concentration +3)
 
-1/day—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [ghost sound](spells/ghostSound#_ghost-sound)_, _ [prestidigitation](spells/prestidigitation#_prestidigitation)_, _ [speak with animals](spells/speakWithAnimals#_speak-with-animals)_
+1_dir/day—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [ghost sound](spells_dir/ghostSound#_ghost-sound)_, _ [prestidigitation](spells_dir/prestidigitation#_prestidigitation)_, _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
 
 **Arcane School Spell-Like Abilities** (CL 2nd; concentration +4)
 
-5/day—dazing touch
+5_dir/day—dazing touch
 
 **Enchanter Spells Prepared** (CL 2nd; concentration +4)
 
-1st—_ [charm person](spells/charmPerson#_charm-person)_ (DC 13), _ [color spray](spells/colorSpray#_color-spray)_ (DC 14), _ [grease](spells/grease#_grease), [sleep](spells/sleep#_sleep)_ (DC 13)
+1st—_ [charm person](spells_dir/charmPerson#_charm-person)_ (DC 13), _ [color spray](spells_dir/colorSpray#_color-spray)_ (DC 14), _ [grease](spells_dir/grease#_grease), [sleep](spells_dir/sleep#_sleep)_ (DC 13)
 
-0 (at will)—_ [dancing lights](spells/dancingLights#_dancing-lights), [ghost sound](spells/ghostSound#_ghost-sound)_ (2, DC 13), _ [mage hand](spells/mageHand#_mage-hand)_
+0 (at will)—_ [dancing lights](spells_dir/dancingLights#_dancing-lights), [ghost sound](spells_dir/ghostSound#_ghost-sound)_ (2, DC 13), _ [mage hand](spells_dir/mageHand#_mage-hand)_
 
 **Opposition Schools** abjuration, necromancy
 
 Tactics
 
-**During Combat** The wizard casts _ [color spray](spells/colorSpray#_color-spray)_, then casts _ [grease](spells/grease#_grease)_ between himself and foes. If threatened, he drinks his _potion of [invisibility](spells/invisibility#_invisibility)_.
+**During Combat** The wizard casts _ [color spray](spells_dir/colorSpray#_color-spray)_, then casts _ [grease](spells_dir/grease#_grease)_ between himself and foes. If threatened, he drinks his _potion of [invisibility](spells_dir/invisibility#_invisibility)_.
 
 Statistics
 
@@ -124,13 +124,13 @@ Statistics
 
 **Feats** [Dodge](feats#_dodge), [Scribe Scroll](feats#_scribe-scroll)
 
-**Skills** [Bluff](skills/bluff#_bluff) +3, [Knowledge](skills/knowledge#_knowledge) (arcana, geography, history) +6, [Knowledge](skills/knowledge#_knowledge) (local) +7, Perception +2, [Spellcraft](skills/spellcraft#_spellcraft) +6
+**Skills** [Bluff](skills_dir/bluff#_bluff) +3, [Knowledge](skills_dir/knowledge#_knowledge) (arcana, geography, history) +6, [Knowledge](skills_dir/knowledge#_knowledge) (local) +7, Perception +2, [Spellcraft](skills_dir/spellcraft#_spellcraft) +6
 
 **Languages** Common, Dwarven, Gnome, Halfling
 
 **SQ** arcane bond (amulet), enchanting smile
 
-**Combat Gear** _potions of [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_ (2), _scrolls of [disguise self](spells/disguiseSelf#_disguise-self)_ (2), _scrolls of [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_ (2), _scroll of [invisibility](spells/invisibility#_invisibility)_, _scrolls of [obscuring mist](spells/obscuringMist#_obscuring-mist)_ (2), alchemist's fire (2), thunderstones (2); **Other Gear** dagger, light crossbow with 10 masterwork bolts, _ [brooch of shielding](magicItems/wondrousItems#_brooch-of-shielding)_ (10 charges), smokesticks (2), spellbook, 67 gp
+**Combat Gear** _potions of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _scrolls of [disguise self](spells_dir/disguiseSelf#_disguise-self)_ (2), _scrolls of [expeditious retreat](spells_dir/expeditiousRetreat#_expeditious-retreat)_ (2), _scroll of [invisibility](spells_dir/invisibility#_invisibility)_, _scrolls of [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_ (2), alchemist's fire (2), thunderstones (2); **Other Gear** dagger, light crossbow with 10 masterwork bolts, _ [brooch of shielding](magicItems_dir/wondrousItems#_brooch-of-shielding)_ (10 charges), smokesticks (2), spellbook, 67 gp
 
 The street magician uses his talents to make money.
 
@@ -158,27 +158,27 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** mwk rapier +3 (1d6/18–20)
+**Melee** mwk rapier +3 (1d6_dir/18–20)
 
-**Ranged** mwk longbow +4 (1d8+1/×3)
+**Ranged** mwk longbow +4 (1d8+1_dir/×3)
 
-**Special Attacks** hand of the apprentice (6/day)
+**Special Attacks** hand of the apprentice (6_dir/day)
 
 **Wizard Spells Prepared** (CL 3rd; concentration +6)
 
-2nd—_ [mirror image](spells/mirrorImage#_mirror-image)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_
+2nd—_ [mirror image](spells_dir/mirrorImage#_mirror-image)_, _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_
 
-1st—_ [magic missile](spells/magicMissile#_magic-missile)_, _ [shield](spells/shield#_shield)_, _ [shocking grasp](spells/shockingGrasp#_shocking-grasp)_
+1st—_ [magic missile](spells_dir/magicMissile#_magic-missile)_, _ [shield](spells_dir/shield#_shield)_, _ [shocking grasp](spells_dir/shockingGrasp#_shocking-grasp)_
 
-0 (at will)—_ [daze](spells/daze#_daze)_ (DC 13), _ [detect magic](spells/detectMagic#_detect-magic)_, _ [light](spells/light#_light)_, _ [resistance](spells/resistance#_resistance)_
+0 (at will)—_ [daze](spells_dir/daze#_daze)_ (DC 13), _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [light](spells_dir/light#_light)_, _ [resistance](spells_dir/resistance#_resistance)_
 
 Tactics
 
-**Before Combat** The wizard uses her wand to cast _ [mage armor](spells/mageArmor#_mage-armor)_.
+**Before Combat** The wizard uses her wand to cast _ [mage armor](spells_dir/mageArmor#_mage-armor)_.
 
-**During Combat** The wizard attacks with _ [scorching ray](spells/scorchingRay#_scorching-ray)_, her longbow, and hand of the apprentice. If forced into melee, she casts _ [mirror image](spells/mirrorImage#_mirror-image)_ and _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_.
+**During Combat** The wizard attacks with _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, her longbow, and hand of the apprentice. If forced into melee, she casts _ [mirror image](spells_dir/mirrorImage#_mirror-image)_ and _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 12, touch 12, flat-footed 10.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 12, touch 12, flat-footed 10.
 
 Statistics
 
@@ -188,13 +188,13 @@ Statistics
 
 **Feats** [Combat Casting](feats#_combat-casting), [Point-Blank Shot](feats#_point-blank-shot), [Scribe Scroll](feats#_scribe-scroll)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +4, [Climb](skills/climb#_climb) +2, [Knowledge](skills/knowledge#_knowledge) (arcana) +9, [Knowledge](skills/knowledge#_knowledge) (history) +7, Perception +5, [Spellcraft](skills/spellcraft#_spellcraft) +9 (+11 to identify magic item properties), [Stealth](skills/stealth#_stealth) +4
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +4, [Climb](skills_dir/climb#_climb) +2, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +9, [Knowledge](skills_dir/knowledge#_knowledge) (history) +7, Perception +5, [Spellcraft](skills_dir/spellcraft#_spellcraft) +9 (+11 to identify magic item properties), [Stealth](skills_dir/stealth#_stealth) +4
 
 **Languages** Common, Draconic, Elven, Orc, Sylvan
 
 **SQ** arcane bond (rapier), elven magic, weapon familiarity
 
-**Combat Gear** _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [glitterdust](spells/glitterdust#_glitterdust)_, _scroll of [invisibility](spells/invisibility#_invisibility)_, _scroll of [magic weapon](spells/magicWeapon#_magic-weapon)_, _scrolls of [mirror image](spells/mirrorImage#_mirror-image)_ (2), _scroll of [obscuring mist](spells/obscuringMist#_obscuring-mist)_, _scroll of [protection from evil](spells/protectionFromEvil#_protection-from-evil)_, _scroll of [scorching ray](spells/scorchingRay#_scorching-ray)_, _wand of [mage armor](spells/mageArmor#_mage-armor)_ (20 charges); **Other Gear** masterwork longbow with 20 arrows, masterwork rapier, spellbook, 113 gp
+**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [glitterdust](spells_dir/glitterdust#_glitterdust)_, _scroll of [invisibility](spells_dir/invisibility#_invisibility)_, _scroll of [magic weapon](spells_dir/magicWeapon#_magic-weapon)_, _scrolls of [mirror image](spells_dir/mirrorImage#_mirror-image)_ (2), _scroll of [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_, _scroll of [protection from evil](spells_dir/protectionFromEvil#_protection-from-evil)_, _scroll of [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, _wand of [mage armor](spells_dir/mageArmor#_mage-armor)_ (20 charges); **Other Gear** masterwork longbow with 20 arrows, masterwork rapier, spellbook, 113 gp
 
 These mercenary wizards are able to fill many roles, and demand a high fee for their versatility.
 
@@ -222,29 +222,29 @@ Offense
 
 **Melee** club +1 (1d6–1)
 
-**Ranged** light crossbow +4 (1d8/19–20)
+**Ranged** light crossbow +4 (1d8_dir/19–20)
 
 **Arcane School Spell-Like Abilities** (CL 4th; concentration +8)
 
-7/day—diviner's fortune (+2)
+7_dir/day—diviner's fortune (+2)
 
 **Diviner Spells Prepared** (CL 4th; concentration +8)
 
-2nd—_ [cat's grace](spells/catSGrace#_cat-s-grace)_, _ [detect thoughts](spells/detectThoughts#_detect-thoughts)_ (DC 16), _ [web](spells/web#_web)_ (2, DC 16)
+2nd—_ [cat's grace](spells_dir/catSGrace#_cat-s-grace)_, _ [detect thoughts](spells_dir/detectThoughts#_detect-thoughts)_ (DC 16), _ [web](spells_dir/web#_web)_ (2, DC 16)
 
-1st—_ [comprehend languages](spells/comprehendLanguages#_comprehend-languages)_, _ [feather fall](spells/featherFall#_feather-fall)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [magic missile](spells/magicMissile#_magic-missile) _(2)
+1st—_ [comprehend languages](spells_dir/comprehendLanguages#_comprehend-languages)_, _ [feather fall](spells_dir/featherFall#_feather-fall)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [magic missile](spells_dir/magicMissile#_magic-missile) _(2)
 
-0 (at will)—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [detect poison](spells/detectPoison#_detect-poison)_, _ [message](spells/message#_message)_
+0 (at will)—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [detect poison](spells_dir/detectPoison#_detect-poison)_, _ [message](spells_dir/message#_message)_
 
 **Opposition Schools** illusion, necromancy
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_.
 
-**During Combat** If surprised, the wizard uses forewarned to cast _ [cat's grace](spells/catSGrace#_cat-s-grace)_ in the surprise round. He uses _ [web](spells/web#_web)_, _ [color spray](spells/colorSpray#_color-spray),_ or _ [sleep](spells/sleep#_sleep)_ against targets he intends to capture.
+**During Combat** If surprised, the wizard uses forewarned to cast _ [cat's grace](spells_dir/catSGrace#_cat-s-grace)_ in the surprise round. He uses _ [web](spells_dir/web#_web)_, _ [color spray](spells_dir/colorSpray#_color-spray),_ or _ [sleep](spells_dir/sleep#_sleep)_ against targets he intends to capture.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 14, touch 14, flat-footed 11.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 14, touch 14, flat-footed 11.
 
 Statistics
 
@@ -254,13 +254,13 @@ Statistics
 
 **Feats** [Combat Casting](feats#_combat-casting), [Dodge](feats#_dodge), [Improved Initiative](feats#_improved-initiative), [Scribe Scroll](feats#_scribe-scroll)
 
-**Skills** [Diplomacy](skills/diplomacy#_diplomacy) +4, [Intimidate](skills/intimidate#_intimidate) +4, [Knowledge](skills/knowledge#_knowledge) (arcana, local) +10, [Knowledge](skills/knowledge#_knowledge) (geography, history, nobility, religion) +8, Perception +5, [Sense Motive](skills/senseMotive#_sense-motive) +5, [Spellcraft](skills/spellcraft#_spellcraft) +11
+**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +4, [Intimidate](skills_dir/intimidate#_intimidate) +4, [Knowledge](skills_dir/knowledge#_knowledge) (arcana, local) +10, [Knowledge](skills_dir/knowledge#_knowledge) (geography, history, nobility, religion) +8, Perception +5, [Sense Motive](skills_dir/senseMotive#_sense-motive) +5, [Spellcraft](skills_dir/spellcraft#_spellcraft) +11
 
 **Languages** Common, Draconic, Dwarven, Elven, Orc
 
-**SQ** arcane bond (_ [ring of protection](magicItems/rings#_ring-of-protection) +1_), forewarned
+**SQ** arcane bond (_ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_), forewarned
 
-**Combat Gear** _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [detect thoughts](spells/detectThoughts#_detect-thoughts)_, _scroll of [knock](spells/knock#_knock)_, _scroll of [locate object](spells/locateObject#_locate-object)_, _scrolls of [sleep](spells/sleep#_sleep)_ (2), _wand of [color spray](spells/colorSpray#_color-spray)_ (20 charges); **Other Gear** club, light crossbow with 20 bolts, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, manacles, spellbook, 125 gp
+**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [detect thoughts](spells_dir/detectThoughts#_detect-thoughts)_, _scroll of [knock](spells_dir/knock#_knock)_, _scroll of [locate object](spells_dir/locateObject#_locate-object)_, _scrolls of [sleep](spells_dir/sleep#_sleep)_ (2), _wand of [color spray](spells_dir/colorSpray#_color-spray)_ (20 charges); **Other Gear** club, light crossbow with 20 bolts, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, manacles, spellbook, 125 gp
 
 The investigator mage works with city guards to investigate crimes.
 
@@ -288,33 +288,33 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** mwk longsword +3 (1d8/19–20)
+**Melee** mwk longsword +3 (1d8_dir/19–20)
 
-**Ranged** shortbow +5 (1d6/×3)
+**Ranged** shortbow +5 (1d6_dir/×3)
 
 **Arcane School Spell-Like Abilities** (CL 5th; concentration +9)
 
-7/day—telekinetic fist (1d4+2 bludgeoning)
+7_dir/day—telekinetic fist (1d4+2 bludgeoning)
 
 **Transmuter Spells Prepared** (CL 5th; concentration +9)
 
-3rd—_ [beast shape I](spells/beastShape#_beast-shape-i)_, empowered_ [burning hands](spells/burningHands#_burning-hands)_ (DC 16), _ [displacement](spells/displacement#_displacement)_
+3rd—_ [beast shape I](spells_dir/beastShape#_beast-shape-i)_, empowered_ [burning hands](spells_dir/burningHands#_burning-hands)_ (DC 16), _ [displacement](spells_dir/displacement#_displacement)_
 
-2nd—_ [invisibility](spells/invisibility#_invisibility)_, _ [spider climb](spells/spiderClimb#_spider-climb), [summon swarm](spells/summonSwarm#_summon-swarm)_, _ [web](spells/web#_web)_ (DC 16)
+2nd—_ [invisibility](spells_dir/invisibility#_invisibility)_, _ [spider climb](spells_dir/spiderClimb#_spider-climb), [summon swarm](spells_dir/summonSwarm#_summon-swarm)_, _ [web](spells_dir/web#_web)_ (DC 16)
 
-1st—_ [burning hands](spells/burningHands#_burning-hands)_ (DC 16), _ [feather fall](spells/featherFall#_feather-fall)_, _ [grease](spells/grease#_grease)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_
+1st—_ [burning hands](spells_dir/burningHands#_burning-hands)_ (DC 16), _ [feather fall](spells_dir/featherFall#_feather-fall)_, _ [grease](spells_dir/grease#_grease)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_
 
-0 (at will)—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [ghost sound](spells/ghostSound#_ghost-sound)_ (DC 14), _ [mage hand](spells/mageHand#_mage-hand)_, _ [touch of fatigue](spells/touchOfFatigue#_touch-of-fatigue)_ (DC 14)
+0 (at will)—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [ghost sound](spells_dir/ghostSound#_ghost-sound)_ (DC 14), _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [touch of fatigue](spells_dir/touchOfFatigue#_touch-of-fatigue)_ (DC 14)
 
 **Opposition Schools** divination, enchantment
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_. When she prepares spells, she uses physical enhancement to increase her Constitution. She studies the combat area for the best places to use spells like _ [grease](spells/grease#_grease)_ and _ [web](spells/web#_web)_, then hides in ambush.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_. When she prepares spells, she uses physical enhancement to increase her Constitution. She studies the combat area for the best places to use spells like _ [grease](spells_dir/grease#_grease)_ and _ [web](spells_dir/web#_web)_, then hides in ambush.
 
-**During Combat** The wizard casts _ [web](spells/web#_web)_ on her opponents or in their path (especially if there is a pit or ravine present). She casts _ [summon swarm](spells/summonSwarm#_summon-swarm)_ into the web. If trapped opponents are escaping from the web, she casts empowered _ [burning hands](spells/burningHands#_burning-hands)_ on them.
+**During Combat** The wizard casts _ [web](spells_dir/web#_web)_ on her opponents or in their path (especially if there is a pit or ravine present). She casts _ [summon swarm](spells_dir/summonSwarm#_summon-swarm)_ into the web. If trapped opponents are escaping from the web, she casts empowered _ [burning hands](spells_dir/burningHands#_burning-hands)_ on them.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 14, touch 13, flat-footed 11.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 14, touch 13, flat-footed 11.
 
 Statistics
 
@@ -324,13 +324,13 @@ Statistics
 
 **Feats** [Empower Spell](feats#_empower-spell), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Scribe Scroll](feats#_scribe-scroll), [Spell Focus](feats#_spell-focus) (evocation)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +7, [Climb](skills/climb#_climb) +3, [Fly](skills/fly#_fly) +7, [Knowledge](skills/knowledge#_knowledge) (arcana) +12, [Knowledge](skills/knowledge#_knowledge) (geography) +10, [Knowledge](skills/knowledge#_knowledge) (history) +9, [Knowledge](skills/knowledge#_knowledge) (nature) +11, Perception +7, [Spellcraft](skills/spellcraft#_spellcraft) +12 (+14 to identify magic item properties), [Survival](skills/survival#_survival) +4, [Swim](skills/swim#_swim) +1
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +7, [Climb](skills_dir/climb#_climb) +3, [Fly](skills_dir/fly#_fly) +7, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +12, [Knowledge](skills_dir/knowledge#_knowledge) (geography) +10, [Knowledge](skills_dir/knowledge#_knowledge) (history) +9, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +11, Perception +7, [Spellcraft](skills_dir/spellcraft#_spellcraft) +12 (+14 to identify magic item properties), [Survival](skills_dir/survival#_survival) +4, [Swim](skills_dir/swim#_swim) +1
 
 **Languages** Common, Draconic, Elven, Gnoll, Goblin, Orc
 
 **SQ** arcane bond (monkey), elven magic, physical enhancement +2, weapon familiarity
 
-**Combat Gear** _ potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds), potions of [pass without trace](spells/passWithoutTrace#_pass-without-trace)_ (2), _scroll of [cat's grace](spells/catSGrace#_cat-s-grace)_, _scroll of [pyrotechnics](spells/pyrotechnics#_pyrotechnics)_, _scroll of [stinking cloud](spells/stinkingCloud#_stinking-cloud)_, _scroll of [web](spells/web#_web)_; **Other Gear** masterwork longsword, shortbow with 20 arrows, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, spellbook, 104 gp
+**Combat Gear** _ potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds), potions of [pass without trace](spells_dir/passWithoutTrace#_pass-without-trace)_ (2), _scroll of [cat's grace](spells_dir/catSGrace#_cat-s-grace)_, _scroll of [pyrotechnics](spells_dir/pyrotechnics#_pyrotechnics)_, _scroll of [stinking cloud](spells_dir/stinkingCloud#_stinking-cloud)_, _scroll of [web](spells_dir/web#_web)_; **Other Gear** masterwork longsword, shortbow with 20 arrows, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, spellbook, 104 gp
 
 Jungle wizards live in harmony with nature. They're frequently mistaken for druids, and often use such misunderstandings to their advantage. Many jungle wizards use natural materials for their magical gear, such as large leaves or hides for spellbooks and scrolls, unworked tree branches for wands, or grasses that can be knotted into the shapes of rings.
 
@@ -350,7 +350,7 @@ Tribal Seer CR 5
 
 N Medium humanoid (human, orc)
 
-**Init** +8; **Senses** darkvision 60 ft., _ [see invisibility](spells/seeInvisibility#_see-invisibility)_; Perception +7
+**Init** +8; **Senses** darkvision 60 ft., _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_; Perception +7
 
 Defense
 
@@ -366,33 +366,33 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** mwk falchion +3 (2d4–1/18–20)
+**Melee** mwk falchion +3 (2d4–1_dir/18–20)
 
-**Ranged** light crossbow +4 (1d8/19–20)
+**Ranged** light crossbow +4 (1d8_dir/19–20)
 
 **Arcane School Spell-Like Abilities** (CL 6th; concentration +10)
 
-7/day—diviner's fortune (+3)
+7_dir/day—diviner's fortune (+3)
 
 **Diviner Spells Prepared** (CL 6th; concentration +10)
 
-3rd—_ [clairaudience/clairvoyance](spells/clairaudienceClairvoyance#_clairaudience-clairvoyance)_, _ [deep slumber](spells/deepSlumber#_deep-slumber)_ (DC 18), _ [haste](spells/haste#_haste)_ (DC 17), _ [hold person](spells/holdPerson#_hold-person)_ (DC 18)
+3rd—_ [clairaudience_dir/clairvoyance](spells_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance)_, _ [deep slumber](spells_dir/deepSlumber#_deep-slumber)_ (DC 18), _ [haste](spells_dir/haste#_haste)_ (DC 17), _ [hold person](spells_dir/holdPerson#_hold-person)_ (DC 18)
 
-2nd—_ [flaming sphere](spells/flamingSphere#_flaming-sphere)_ (DC 16), _ [fox's cunning](spells/foxSCunning#_fox-s-cunning)_, _ [pyrotechnics](spells/pyrotechnics#_pyrotechnics)_ (DC 16), _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, _ [touch of idiocy](spells/touchOfIdiocy#_touch-of-idiocy)_
+2nd—_ [flaming sphere](spells_dir/flamingSphere#_flaming-sphere)_ (DC 16), _ [fox's cunning](spells_dir/foxSCunning#_fox-s-cunning)_, _ [pyrotechnics](spells_dir/pyrotechnics#_pyrotechnics)_ (DC 16), _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, _ [touch of idiocy](spells_dir/touchOfIdiocy#_touch-of-idiocy)_
 
-1st—_ [charm person](spells/charmPerson#_charm-person)_ (DC 16), _ [detect undead](spells/detectUndead#_detect-undead)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [shield](spells/shield#_shield)_
+1st—_ [charm person](spells_dir/charmPerson#_charm-person)_ (DC 16), _ [detect undead](spells_dir/detectUndead#_detect-undead)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [magic missile](spells_dir/magicMissile#_magic-missile)_, _ [shield](spells_dir/shield#_shield)_
 
-0 (at will)—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [detect poison](spells/detectPoison#_detect-poison)_, _ [message](spells/message#_message)_
+0 (at will)—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [detect poison](spells_dir/detectPoison#_detect-poison)_, _ [message](spells_dir/message#_message)_
 
 **Opposition Schools** illusion, necromancy
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_ and _ [see invisibility](spells/seeInvisibility#_see-invisibility)_. If she has a few rounds to prepare, she casts _ [fox's cunning](spells/foxSCunning#_fox-s-cunning)_ on herself and uses her _wand of [enlarge person](spells/enlargePerson#_enlarge-person)_ on her allies.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_ and _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_. If she has a few rounds to prepare, she casts _ [fox's cunning](spells_dir/foxSCunning#_fox-s-cunning)_ on herself and uses her _wand of [enlarge person](spells_dir/enlargePerson#_enlarge-person)_ on her allies.
 
-**During Combat** The wizard casts _ [haste](spells/haste#_haste)_ on her allies, _ [hold person](spells/holdPerson#_hold-person)_ on her most dangerous opponent, and _ [touch of idiocy](spells/touchOfIdiocy#_touch-of-idiocy)_ on a spellcaster.
+**During Combat** The wizard casts _ [haste](spells_dir/haste#_haste)_ on her allies, _ [hold person](spells_dir/holdPerson#_hold-person)_ on her most dangerous opponent, and _ [touch of idiocy](spells_dir/touchOfIdiocy#_touch-of-idiocy)_ on a spellcaster.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 12, touch 12, flat-footed 11.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 12, touch 12, flat-footed 11.
 
 Statistics
 
@@ -402,13 +402,13 @@ Statistics
 
 **Feats** [Brew Potion](feats#_brew-potion), [Combat Casting](feats#_combat-casting), [Improved Initiative](feats#_improved-initiative), [Scribe Scroll](feats#_scribe-scroll), [Spell Focus](feats#_spell-focus) (enchantment)
 
-**Skills** [Diplomacy](skills/diplomacy#_diplomacy) +3, [Heal](skills/heal#_heal) +5, [Intimidate](skills/intimidate#_intimidate) +6, [Knowledge](skills/knowledge#_knowledge) (arcana) +11, [Knowledge](skills/knowledge#_knowledge) (geography, history, local, nature) +8, [Knowledge](skills/knowledge#_knowledge) (religion) +9, Perception +7, [Sense Motive](skills/senseMotive#_sense-motive) +3, [Spellcraft](skills/spellcraft#_spellcraft) +12, [Survival](skills/survival#_survival) +3
+**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +3, [Heal](skills_dir/heal#_heal) +5, [Intimidate](skills_dir/intimidate#_intimidate) +6, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +11, [Knowledge](skills_dir/knowledge#_knowledge) (geography, history, local, nature) +8, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +9, Perception +7, [Sense Motive](skills_dir/senseMotive#_sense-motive) +3, [Spellcraft](skills_dir/spellcraft#_spellcraft) +12, [Survival](skills_dir/survival#_survival) +3
 
 **Languages** Auran, Common, Draconic, Dwarven, Giant, Orc
 
 **SQ** arcane bond (falchion), forewarned, orc blood, weapon familiarity
 
-**Combat Gear** _potions of [cat's grace](spells/catSGrace#_cat-s-grace)_ (2), _potions of [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_ (2), _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _potion of [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_, _scroll of [comprehend languages](spells/comprehendLanguages#_comprehend-languages)_, _scrolls of [mage armor](spells/mageArmor#_mage-armor)_ (2), _scroll of [mount](spells/mount#_mount)_, _wand of [enlarge person](spells/enlargePerson#_enlarge-person)_ (20 charges); **Other Gear** light crossbow with 20 bolts, masterwork falchion, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, spellbook, 239 gp
+**Combat Gear** _potions of [cat's grace](spells_dir/catSGrace#_cat-s-grace)_ (2), _potions of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [protection from arrows](spells_dir/protectionFromArrows#_protection-from-arrows)_, _scroll of [comprehend languages](spells_dir/comprehendLanguages#_comprehend-languages)_, _scrolls of [mage armor](spells_dir/mageArmor#_mage-armor)_ (2), _scroll of [mount](spells_dir/mount#_mount)_, _wand of [enlarge person](spells_dir/enlargePerson#_enlarge-person)_ (20 charges); **Other Gear** light crossbow with 20 bolts, masterwork falchion, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, spellbook, 239 gp
 
 The tribal seer speaks to hostile spirits and interprets omens that affect her tribe.
 
@@ -438,43 +438,43 @@ Defense
 
 **Fort** +5, **Ref** +7, **Will** +10; +2 vs. fear
 
-**DR** 10/magic (ranged weapon attack only; 30 points)
+**DR** 10_dir/magic (ranged weapon attack only; 30 points)
 
 Offense
 
 **Speed** 20 ft.
 
-**Melee** dagger +2 (1d3–2/19–20) or quarterstaff +2 (1d4–2)
+**Melee** dagger +2 (1d3–2_dir/19–20) or quarterstaff +2 (1d4–2)
 
-**Ranged** dagger +7 (1d3–2/19–20)
+**Ranged** dagger +7 (1d3–2_dir/19–20)
 
 **Special Attacks** intense spells (+3 damage)
 
 **Arcane School Spell-Like Abilities** (CL 7th; concentration +10)
 
-6/day—force missile (1d4+3)
+6_dir/day—force missile (1d4+3)
 
 **Evoker Spells Prepared** (CL 7th; concentration +10)
 
-4th—_ [black tentacles](spells/blackTentacles#_black-tentacles)_, _ [shout](spells/shout#_shout)_ (DC 17)
+4th—_ [black tentacles](spells_dir/blackTentacles#_black-tentacles)_, _ [shout](spells_dir/shout#_shout)_ (DC 17)
 
-3rd—_ [lightning bolt](spells/lightningBolt#_lightning-bolt)_ (2, DC 16), _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy), _empowered_ [shocking grasp](spells/shockingGrasp#_shocking-grasp)_
+3rd—_ [lightning bolt](spells_dir/lightningBolt#_lightning-bolt)_ (2, DC 16), _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy), _empowered_ [shocking grasp](spells_dir/shockingGrasp#_shocking-grasp)_
 
-2nd—_ [darkvision](spells/darkvision#_darkvision)_, _ [mirror image](spells/mirrorImage#_mirror-image)_, _ [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_ (2)
+2nd—_ [darkvision](spells_dir/darkvision#_darkvision)_, _ [mirror image](spells_dir/mirrorImage#_mirror-image)_, _ [protection from arrows](spells_dir/protectionFromArrows#_protection-from-arrows)_, _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_ (2)
 
-1st—_ [color spray](spells/colorSpray#_color-spray)_ (DC 14), _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells/featherFall#_feather-fall)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [shocking grasp](spells/shockingGrasp#_shocking-grasp)_ (2)
+1st—_ [color spray](spells_dir/colorSpray#_color-spray)_ (DC 14), _ [expeditious retreat](spells_dir/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells_dir/featherFall#_feather-fall)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [shocking grasp](spells_dir/shockingGrasp#_shocking-grasp)_ (2)
 
-0 (at will)—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [flare](spells/flare#_flare)_ (DC 13), _ [mage hand](spells/mageHand#_mage-hand)_, _ [mending](spells/mending#_mending)_
+0 (at will)—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [flare](spells_dir/flare#_flare)_ (DC 13), _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [mending](spells_dir/mending#_mending)_
 
 **Opposition Schools** divination, necromancy
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_ and _ [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_. If she has an ally who attacks in melee, she casts _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (electricity) on that ally to protect him from her _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_ spells; otherwise, she casts it on herself (warding against fire).
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_ and _ [protection from arrows](spells_dir/protectionFromArrows#_protection-from-arrows)_. If she has an ally who attacks in melee, she casts _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (electricity) on that ally to protect him from her _ [lightning bolt](spells_dir/lightningBolt#_lightning-bolt)_ spells; otherwise, she casts it on herself (warding against fire).
 
-**During Combat** The wizard tries to catch multiple opponents with _ [black tentacles](spells/blackTentacles#_black-tentacles)_, then follows up with a _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_ to hit as many targets as possible. She uses her imp to invisibly deliver _ [shocking grasp](spells/shockingGrasp#_shocking-grasp)_ and empowered _ [shocking grasp](spells/shockingGrasp#_shocking-grasp)_.
+**During Combat** The wizard tries to catch multiple opponents with _ [black tentacles](spells_dir/blackTentacles#_black-tentacles)_, then follows up with a _ [lightning bolt](spells_dir/lightningBolt#_lightning-bolt)_ to hit as many targets as possible. She uses her imp to invisibly deliver _ [shocking grasp](spells_dir/shockingGrasp#_shocking-grasp)_ and empowered _ [shocking grasp](spells_dir/shockingGrasp#_shocking-grasp)_.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 15, touch 15, flat-footed 12.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 15, touch 15, flat-footed 12.
 
 Statistics
 
@@ -484,13 +484,13 @@ Statistics
 
 **Feats** [Combat Casting](feats#_combat-casting), [Empower Spell](feats#_empower-spell), [Improved Familiar](feats#_improved-familiar), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Scribe Scroll](feats#_scribe-scroll)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +5 (+1 when jumping), [Bluff](skills/bluff#_bluff) +6, [Climb](skills/climb#_climb) +0, [Knowledge](skills/knowledge#_knowledge) (arcana) +13, [Knowledge](skills/knowledge#_knowledge) (dungeoneering) +9, [Knowledge](skills/knowledge#_knowledge) (engineering) +7, [Knowledge](skills/knowledge#_knowledge) (planes) +8, Perception +10, [Spellcraft](skills/spellcraft#_spellcraft) +13, [Stealth](skills/stealth#_stealth) +10, [Use Magic Device](skills/useMagicDevice#_use-magic-device) +5
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +5 (+1 when jumping), [Bluff](skills_dir/bluff#_bluff) +6, [Climb](skills_dir/climb#_climb) +0, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +13, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) +9, [Knowledge](skills_dir/knowledge#_knowledge) (engineering) +7, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +8, Perception +10, [Spellcraft](skills_dir/spellcraft#_spellcraft) +13, [Stealth](skills_dir/stealth#_stealth) +10, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +5
 
 **Languages** Common, Draconic, Dwarven, Goblin, Halfling, Infernal
 
 **SQ** arcane bond (imp)
 
-**Combat Gear** _ [pearl of power](magicItems/wondrousItems#_pearl-of-power)_ (1st), _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _potion of [lesser restoration](spells/restoration#_restoration-lesser)_, _scroll of [black tentacles](spells/blackTentacles#_black-tentacles)_, _scrolls of [invisibility](spells/invisibility#_invisibility)_ (2), _scrolls of [lightning bolt](spells/lightningBolt#_lightning-bolt)_ (2), _scrolls of [mirror image](spells/mirrorImage#_mirror-image)_ (2), _scroll of [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_; **Other Gear** dagger, quarterstaff, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, spellbook, 186 gp
+**Combat Gear** _ [pearl of power](magicItems_dir/wondrousItems#_pearl-of-power)_ (1st), _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [lesser restoration](spells_dir/restoration#_restoration-lesser)_, _scroll of [black tentacles](spells_dir/blackTentacles#_black-tentacles)_, _scrolls of [invisibility](spells_dir/invisibility#_invisibility)_ (2), _scrolls of [lightning bolt](spells_dir/lightningBolt#_lightning-bolt)_ (2), _scrolls of [mirror image](spells_dir/mirrorImage#_mirror-image)_ (2), _scroll of [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_; **Other Gear** dagger, quarterstaff, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, spellbook, 186 gp
 
 The thunder wizard manipulates sound and electricity to destroy her enemies.
 
@@ -526,37 +526,37 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** rapier +4 (1d6/18–20)
+**Melee** rapier +4 (1d6_dir/18–20)
 
-**Ranged** dagger +7 (1d4/19–20)
+**Ranged** dagger +7 (1d4_dir/19–20)
 
-**Special Attacks** aura of despair (8 rounds/day)
+**Special Attacks** aura of despair (8 rounds_dir/day)
 
 **Arcane School Spell-Like Abilities** (CL 8th; concentration +12)
 
-7/day—dazing touch
+7_dir/day—dazing touch
 
 **Enchanter Spells Prepared** (CL 8th; concentration +12)
 
-4th—_ [confusion](spells/confusion#_confusion)_ (DC 19), _ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [phantasmal killer](spells/phantasmalKiller#_phantasmal-killer)_ (DC 18)
+4th—_ [confusion](spells_dir/confusion#_confusion)_ (DC 19), _ [dimension door](spells_dir/dimensionDoor#_dimension-door)_, _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, _ [phantasmal killer](spells_dir/phantasmalKiller#_phantasmal-killer)_ (DC 18)
 
-3rd—_ [deep slumber](spells/deepSlumber#_deep-slumber)_ (DC 18), _ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [hold person](spells/holdPerson#_hold-person)_ (DC 18), _ [phantom steed](spells/phantomSteed#_phantom-steed)_, _ [suggestion](spells/suggestion#_suggestion)_ (DC 18)
+3rd—_ [deep slumber](spells_dir/deepSlumber#_deep-slumber)_ (DC 18), _ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_, _ [hold person](spells_dir/holdPerson#_hold-person)_ (DC 18), _ [phantom steed](spells_dir/phantomSteed#_phantom-steed)_, _ [suggestion](spells_dir/suggestion#_suggestion)_ (DC 18)
 
-2nd—_ [alter self](spells/alterSelf#_alter-self)_, _ [daze monster](spells/dazeMonster#_daze-monster)_ (DC 17), _ [hideous laughter](spells/hideousLaughter#_hideous-laughter)_ (DC 17), _ [invisibility](spells/invisibility#_invisibility)_, _ [resist energy](spells/resistEnergy#_resist-energy)_
+2nd—_ [alter self](spells_dir/alterSelf#_alter-self)_, _ [daze monster](spells_dir/dazeMonster#_daze-monster)_ (DC 17), _ [hideous laughter](spells_dir/hideousLaughter#_hideous-laughter)_ (DC 17), _ [invisibility](spells_dir/invisibility#_invisibility)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_
 
-1st—_ [charm person](spells/charmPerson#_charm-person)_ (2, DC 16), _ [color spray](spells/colorSpray#_color-spray)_ (DC 15), _ [mage armor](spells/mageArmor#_mage-armor)_, _ [shield](spells/shield#_shield)_, _ [ventriloquism](spells/ventriloquism#_ventriloquism)_ (DC 15)
+1st—_ [charm person](spells_dir/charmPerson#_charm-person)_ (2, DC 16), _ [color spray](spells_dir/colorSpray#_color-spray)_ (DC 15), _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [shield](spells_dir/shield#_shield)_, _ [ventriloquism](spells_dir/ventriloquism#_ventriloquism)_ (DC 15)
 
-0 (at will)—_ [daze](spells/daze#_daze)_ (DC 15), _ [mage hand](spells/mageHand#_mage-hand)_, _ [resistance](spells/resistance#_resistance)_, _ [touch of fatigue](spells/touchOfFatigue#_touch-of-fatigue)_ (DC 14)
+0 (at will)—_ [daze](spells_dir/daze#_daze)_ (DC 15), _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [resistance](spells_dir/resistance#_resistance)_, _ [touch of fatigue](spells_dir/touchOfFatigue#_touch-of-fatigue)_ (DC 14)
 
 **Opposition Schools** divination, necromancy
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_.
 
-**During Combat** The wizard uses _ [charm person](spells/charmPerson#_charm-person)_, _ [confusion](spells/confusion#_confusion)_, and _ [suggestion](spells/suggestion#_suggestion)_ to turn opponents against each other. By casting _ [greater invisibility](spells/invisibility#_invisibility-greater)_ on herself, she can remain hidden while she manipulates her targets. She uses her _wand of [touch of idiocy](spells/touchOfIdiocy#_touch-of-idiocy)_ against enemy spellcasters.
+**During Combat** The wizard uses _ [charm person](spells_dir/charmPerson#_charm-person)_, _ [confusion](spells_dir/confusion#_confusion)_, and _ [suggestion](spells_dir/suggestion#_suggestion)_ to turn opponents against each other. By casting _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_ on herself, she can remain hidden while she manipulates her targets. She uses her _wand of [touch of idiocy](spells_dir/touchOfIdiocy#_touch-of-idiocy)_ against enemy spellcasters.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 15, touch 14, flat-footed 12.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 15, touch 14, flat-footed 12.
 
 Statistics
 
@@ -566,13 +566,13 @@ Statistics
 
 **Feats** [Combat Casting](feats#_combat-casting), [Craft Wand](feats#_craft-wand), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Scribe Scroll](feats#_scribe-scroll), [Spell Focus](feats#_spell-focus) (enchantment)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +8, [Bluff](skills/bluff#_bluff) +9, [Diplomacy](skills/diplomacy#_diplomacy) +6, [Knowledge](skills/knowledge#_knowledge) (arcana) +15, [Knowledge](skills/knowledge#_knowledge) (local, nobility) +11, Perception +9, [Perform](skills/perform#_perform) (dance) +4, [Sense Motive](skills/senseMotive#_sense-motive) +3, [Spellcraft](skills/spellcraft#_spellcraft) +15 (+17 identify magic item properties)
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +8, [Bluff](skills_dir/bluff#_bluff) +9, [Diplomacy](skills_dir/diplomacy#_diplomacy) +6, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +15, [Knowledge](skills_dir/knowledge#_knowledge) (local, nobility) +11, Perception +9, [Perform](skills_dir/perform#_perform) (dance) +4, [Sense Motive](skills_dir/senseMotive#_sense-motive) +3, [Spellcraft](skills_dir/spellcraft#_spellcraft) +15 (+17 identify magic item properties)
 
 **Languages** Common, Draconic, Elven, Gnome, Orc, Sylvan
 
 **SQ** arcane bond (viper), elven magic, enchanting smile, weapon familiarity
 
-**Combat Gear** _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _potion of [invisibility](spells/invisibility#_invisibility)_, _scroll of [dispel magic](spells/dispelMagic#_dispel-magic)_, _scroll of [suggestion](spells/suggestion#_suggestion)_, _wand of [charm person](spells/charmPerson#_charm-person)_ (20 charges), _wand of [fox's cunning](spells/foxSCunning#_fox-s-cunning)_ (10 charges), _wand of [touch of idiocy](spells/touchOfIdiocy#_touch-of-idiocy)_ (10 charges); **Other Gear** dagger, rapier, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, spellbook, 303 gp
+**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_, _scroll of [dispel magic](spells_dir/dispelMagic#_dispel-magic)_, _scroll of [suggestion](spells_dir/suggestion#_suggestion)_, _wand of [charm person](spells_dir/charmPerson#_charm-person)_ (20 charges), _wand of [fox's cunning](spells_dir/foxSCunning#_fox-s-cunning)_ (10 charges), _wand of [touch of idiocy](spells_dir/touchOfIdiocy#_touch-of-idiocy)_ (10 charges); **Other Gear** dagger, rapier, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, spellbook, 303 gp
 
 Seductive enchanters use magic so they can enjoy mortal pleasures. This usually means influencing people to give them things. These wizards can be found anywhere they can get the finer things in life. Many of them become connoisseurs of one particular pleasure, going from place to place and scamming people into giving them the rarest gems or pieces from master artists, or coercing kisses from the most attractive nobles.
 
@@ -608,39 +608,39 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** battleaxe +5 (1d8+1/×3)
+**Melee** battleaxe +5 (1d8+1_dir/×3)
 
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, intense spells (+4 damage)
 
 **Arcane School Spell-Like Abilities** (CL 9th; concentration +13)
 
-At will—elemental wall (9 rounds/day)
+At will—elemental wall (9 rounds_dir/day)
 
-7/day—force missile (1d4+4)
+7_dir/day—force missile (1d4+4)
 
 **Evoker Spells Prepared** (CL 9th; concentration +13)
 
-5th—_ [cone of cold](spells/coneOfCold#_cone-of-cold)_ (DC 20), _ [transmute rock to mud](spells/transmuteRockToMud#_transmute-rock-to-mud)_
+5th—_ [cone of cold](spells_dir/coneOfCold#_cone-of-cold)_ (DC 20), _ [transmute rock to mud](spells_dir/transmuteRockToMud#_transmute-rock-to-mud)_
 
-4th—empowered _ [acid arrow](spells/acidArrow#_acid-arrow)_, _ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [resilient sphere](spells/resilientSphere#_resilient-sphere)_ (DC 19), _ [stone shape](spells/stoneShape#_stone-shape)_
+4th—empowered _ [acid arrow](spells_dir/acidArrow#_acid-arrow)_, _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, _ [resilient sphere](spells_dir/resilientSphere#_resilient-sphere)_ (DC 19), _ [stone shape](spells_dir/stoneShape#_stone-shape)_
 
-3rd—_ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [fireball](spells/fireball#_fireball)_ (DC 18), _ [gaseous form](spells/gaseousForm#_gaseous-form)_, _ [ray of exhaustion](spells/rayOfExhaustion#_ray-of-exhaustion)_ (DC 17), _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_ (DC 17)
+3rd—_ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_, _ [fireball](spells_dir/fireball#_fireball)_ (DC 18), _ [gaseous form](spells_dir/gaseousForm#_gaseous-form)_, _ [ray of exhaustion](spells_dir/rayOfExhaustion#_ray-of-exhaustion)_ (DC 17), _ [stinking cloud](spells_dir/stinkingCloud#_stinking-cloud)_ (DC 17)
 
-2nd—_ [acid arrow](spells/acidArrow#_acid-arrow)_, _ [bear's endurance](spells/bearSEndurance#_bear-s-endurance)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [spider climb](spells/spiderClimb#_spider-climb)_, _ [summon swarm](spells/summonSwarm#_summon-swarm)_
+2nd—_ [acid arrow](spells_dir/acidArrow#_acid-arrow)_, _ [bear's endurance](spells_dir/bearSEndurance#_bear-s-endurance)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_, _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, _ [spider climb](spells_dir/spiderClimb#_spider-climb)_, _ [summon swarm](spells_dir/summonSwarm#_summon-swarm)_
 
-1st—_ [burning hands](spells/burningHands#_burning-hands)_ (2, DC 16), _ [color spray](spells/colorSpray#_color-spray)_ (DC 15), _ [feather fall](spells/featherFall#_feather-fall)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 15)
+1st—_ [burning hands](spells_dir/burningHands#_burning-hands)_ (2, DC 16), _ [color spray](spells_dir/colorSpray#_color-spray)_ (DC 15), _ [feather fall](spells_dir/featherFall#_feather-fall)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [ray of enfeeblement](spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 15)
 
-0 (at will)—_ [acid splash](spells/acidSplash#_acid-splash)_, _ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [mage hand](spells/mageHand#_mage-hand)_
+0 (at will)—_ [acid splash](spells_dir/acidSplash#_acid-splash)_, _ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [mage hand](spells_dir/mageHand#_mage-hand)_
 
 **Opposition Schools** enchantment, necromancy
 
 Tactics
 
-**Before Combat** The wizard casts _ [bear's endurance](spells/bearSEndurance#_bear-s-endurance)_, _ [mage armor](spells/mageArmor#_mage-armor)_, and _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (fire).
+**Before Combat** The wizard casts _ [bear's endurance](spells_dir/bearSEndurance#_bear-s-endurance)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, and _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (fire).
 
-**During Combat** The wizard casts _ [greater invisibility](spells/invisibility#_invisibility-greater)_, then uses _ [transmute rock to mud](spells/transmuteRockToMud#_transmute-rock-to-mud)_ to trap foes. He casts area damage spells at trapped targets and uses _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_ and _ [resilient sphere](spells/resilientSphere#_resilient-sphere)_ to hinder those who escape the mud.
+**During Combat** The wizard casts _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, then uses _ [transmute rock to mud](spells_dir/transmuteRockToMud#_transmute-rock-to-mud)_ to trap foes. He casts area damage spells at trapped targets and uses _ [stinking cloud](spells_dir/stinkingCloud#_stinking-cloud)_ and _ [resilient sphere](spells_dir/resilientSphere#_resilient-sphere)_ to hinder those who escape the mud.
 
-**Base Statistics** Without _ [bear's endurance](spells/bearSEndurance#_bear-s-endurance)_, _ [mage armor](spells/mageArmor#_mage-armor)_, and _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (fire), the wizard's statistics are **AC** 11, touch 10, flat-footed 11; **hp** 74; **Fort** +6; **Immune** none; **Con** 16.
+**Base Statistics** Without _ [bear's endurance](spells_dir/bearSEndurance#_bear-s-endurance)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, and _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (fire), the wizard's statistics are **AC** 11, touch 10, flat-footed 11; **hp** 74; **Fort** +6; **Immune** none; **Con** 16.
 
 Statistics
 
@@ -650,13 +650,13 @@ Statistics
 
 **Feats** [Combat Casting](feats#_combat-casting), [Empower Spell](feats#_empower-spell), [Improved Initiative](feats#_improved-initiative), [Scribe Scroll](feats#_scribe-scroll), [Spell Focus](feats#_spell-focus) (evocation), [Spell Penetration](feats#_spell-penetration), [Toughness](feats#_toughness)
 
-**Skills** [Appraise](skills/appraise#_appraise) +15 (+17 to assess nonmagical metals or gemstones), [Climb](skills/climb#_climb) +4, [Craft](skills/craft#_craft) (alchemy) +12, [Fly](skills/fly#_fly) +6, [Knowledge](skills/knowledge#_knowledge) (arcana, dungeoneering) +16, [Knowledge](skills/knowledge#_knowledge) (engineering) +12, Perception +12 (+14 to notice unusual stonework), [Sense Motive](skills/senseMotive#_sense-motive) +4, [Spellcraft](skills/spellcraft#_spellcraft) +16
+**Skills** [Appraise](skills_dir/appraise#_appraise) +15 (+17 to assess nonmagical metals or gemstones), [Climb](skills_dir/climb#_climb) +4, [Craft](skills_dir/craft#_craft) (alchemy) +12, [Fly](skills_dir/fly#_fly) +6, [Knowledge](skills_dir/knowledge#_knowledge) (arcana, dungeoneering) +16, [Knowledge](skills_dir/knowledge#_knowledge) (engineering) +12, Perception +12 (+14 to notice unusual stonework), [Sense Motive](skills_dir/senseMotive#_sense-motive) +4, [Spellcraft](skills_dir/spellcraft#_spellcraft) +16
 
 **Languages** Common, Dwarven, Goblin, Terran, Undercommon
 
 **SQ** arcane bond (bat)
 
-**Combat Gear** _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [clairaudience/clairvoyance](spells/clairaudienceClairvoyance#_clairaudience-clairvoyance)_, _scroll of [solid fog](spells/solidFog#_solid-fog)_, _scroll of [stinking cloud](spells/stinkingCloud#_stinking-cloud)_, _scroll of [stone shape](spells/stoneShape#_stone-shape)_; **Other Gear** battleaxe, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +2_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, spellbook, 665 gp
+**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [clairaudience_dir/clairvoyance](spells_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance)_, _scroll of [solid fog](spells_dir/solidFog#_solid-fog)_, _scroll of [stinking cloud](spells_dir/stinkingCloud#_stinking-cloud)_, _scroll of [stone shape](spells_dir/stoneShape#_stone-shape)_; **Other Gear** battleaxe, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +2_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, spellbook, 665 gp
 
 The cave wizard manipulates the energy of deep rock.
 
@@ -688,45 +688,45 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** mwk dagger +5 (1d3–2/19–20)
+**Melee** mwk dagger +5 (1d3–2_dir/19–20)
 
-**Ranged** mwk dagger +9 (1d3–2/19–20)
+**Ranged** mwk dagger +9 (1d3–2_dir/19–20)
 
 **Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids
 
 **Gnome Spell-Like Abilities** (CL 10th; concentration +11)
 
-1/day—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [ghost sound](spells/ghostSound#_ghost-sound)_, _ [prestidigitation](spells/prestidigitation#_prestidigitation)_, _ [speak with animals](spells/speakWithAnimals#_speak-with-animals)_
+1_dir/day—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [ghost sound](spells_dir/ghostSound#_ghost-sound)_, _ [prestidigitation](spells_dir/prestidigitation#_prestidigitation)_, _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
 
 **Arcane School Spell-Like Abilities** (CL 10th; concentration +14)
 
-At will—invisibility field (10 rounds/day)
+At will—invisibility field (10 rounds_dir/day)
 
-7/day—blinding ray
+7_dir/day—blinding ray
 
 **Illusionist Spells Prepared** (CL 10th; concentration +14)
 
-5th—_ [cloudkill](spells/cloudkill#_cloudkill)_ (DC 19), _ [persistent image](spells/persistentImage#_persistent-image)_ (DC 21), _ [teleport](spells/teleport#_teleport)_
+5th—_ [cloudkill](spells_dir/cloudkill#_cloudkill)_ (DC 19), _ [persistent image](spells_dir/persistentImage#_persistent-image)_ (DC 21), _ [teleport](spells_dir/teleport#_teleport)_
 
-4th—_ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [phantasmal killer](spells/phantasmalKiller#_phantasmal-killer)_ (DC 20), empowered _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [solid fog](spells/solidFog#_solid-fog)_, _ [stone shape](spells/stoneShape#_stone-shape)_
+4th—_ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, _ [phantasmal killer](spells_dir/phantasmalKiller#_phantasmal-killer)_ (DC 20), empowered _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, _ [solid fog](spells_dir/solidFog#_solid-fog)_, _ [stone shape](spells_dir/stoneShape#_stone-shape)_
 
-3rd—_ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [displacement](spells/displacement#_displacement)_, _ [fly](spells/fly)_, _ [haste](spells/haste#_haste)_ (DC 17), _ [major image](spells/majorImage#_major-image)_ (DC 19)
+3rd—_ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_, _ [displacement](spells_dir/displacement#_displacement)_, _ [fly](spells_dir/fly)_, _ [haste](spells_dir/haste#_haste)_ (DC 17), _ [major image](spells_dir/majorImage#_major-image)_ (DC 19)
 
-2nd—_ [detect thoughts](spells/detectThoughts#_detect-thoughts)_ (DC 16), _ [glitterdust](spells/glitterdust#_glitterdust)_ (DC 16), _ [hypnotic pattern](spells/hypnoticPattern#_hypnotic-pattern)_ (DC 18), _ [magic mouth](spells/magicMouth#_magic-mouth)_, _ [mirror image](spells/mirrorImage#_mirror-image)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_
+2nd—_ [detect thoughts](spells_dir/detectThoughts#_detect-thoughts)_ (DC 16), _ [glitterdust](spells_dir/glitterdust#_glitterdust)_ (DC 16), _ [hypnotic pattern](spells_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 18), _ [magic mouth](spells_dir/magicMouth#_magic-mouth)_, _ [mirror image](spells_dir/mirrorImage#_mirror-image)_, _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_
 
-1st—_ [color spray](spells/colorSpray#_color-spray)_ (2, DC 17), _ [feather fall](spells/featherFall#_feather-fall)_, _ [grease](spells/grease#_grease)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [silent image](spells/silentImage#_silent-image)_ (DC 17)
+1st—_ [color spray](spells_dir/colorSpray#_color-spray)_ (2, DC 17), _ [feather fall](spells_dir/featherFall#_feather-fall)_, _ [grease](spells_dir/grease#_grease)_, _ [magic missile](spells_dir/magicMissile#_magic-missile)_, _ [silent image](spells_dir/silentImage#_silent-image)_ (DC 17)
 
-0 (at will)—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [ghost sound](spells/ghostSound#_ghost-sound)_ (DC 16), _ [mage hand](spells/mageHand#_mage-hand)_
+0 (at will)—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [ghost sound](spells_dir/ghostSound#_ghost-sound)_ (DC 16), _ [mage hand](spells_dir/mageHand#_mage-hand)_
 
 **Opposition Schools** enchantment, necromancy
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_ from her wand.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_ from her wand.
 
-**During Combat** The wizard prefers to prank others rather than cause deliberate harm. She casts _ [greater invisibility](spells/invisibility#_invisibility-greater)_, then harasses and annoys her targets with _ [glitterdust](spells/glitterdust#_glitterdust)_, _ [grease](spells/grease#_grease)_, _ [major image](spells/majorImage#_major-image)_, _ [persistent image](spells/persistentImage#_persistent-image)_, and _ [solid fog](spells/solidFog#_solid-fog)_. If attacked with lethal force, she retaliates with _ [cloudkill](spells/cloudkill#_cloudkill)_, empowered _ [scorching ray](spells/scorchingRay#_scorching-ray)_, and _ [magic missile](spells/magicMissile#_magic-missile)_.
+**During Combat** The wizard prefers to prank others rather than cause deliberate harm. She casts _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, then harasses and annoys her targets with _ [glitterdust](spells_dir/glitterdust#_glitterdust)_, _ [grease](spells_dir/grease#_grease)_, _ [major image](spells_dir/majorImage#_major-image)_, _ [persistent image](spells_dir/persistentImage#_persistent-image)_, and _ [solid fog](spells_dir/solidFog#_solid-fog)_. If attacked with lethal force, she retaliates with _ [cloudkill](spells_dir/cloudkill#_cloudkill)_, empowered _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, and _ [magic missile](spells_dir/magicMissile#_magic-missile)_.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 16, touch 15, flat-footed 13.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, the wizard's statistics are **AC** 16, touch 15, flat-footed 13.
 
 Statistics
 
@@ -736,13 +736,13 @@ Statistics
 
 **Feats** [Combat Casting](feats#_combat-casting), [Craft Wand](feats#_craft-wand), [Craft Wondrous Item](feats#_craft-wondrous-item), [Dodge](feats#_dodge), [Empower Spell](feats#_empower-spell), [Improved Initiative](feats#_improved-initiative), [Scribe Scroll](feats#_scribe-scroll), [Spell Focus](feats#_spell-focus) (illusion)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +7 (+3 when jumping), [Appraise](skills/appraise#_appraise) +12, [Craft](skills/craft#_craft) (sculptures) +14, [Fly](skills/fly#_fly) +12, [Knowledge](skills/knowledge#_knowledge) (arcana) +17, [Knowledge](skills/knowledge#_knowledge) (geography, local, nature) +10, Perception +9, [Perform](skills/perform#_perform) (oratory) +6, [Spellcraft](skills/spellcraft#_spellcraft) +17, [Stealth](skills/stealth#_stealth) +11
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +7 (+3 when jumping), [Appraise](skills_dir/appraise#_appraise) +12, [Craft](skills_dir/craft#_craft) (sculptures) +14, [Fly](skills_dir/fly#_fly) +12, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +17, [Knowledge](skills_dir/knowledge#_knowledge) (geography, local, nature) +10, Perception +9, [Perform](skills_dir/perform#_perform) (oratory) +6, [Spellcraft](skills_dir/spellcraft#_spellcraft) +17, [Stealth](skills_dir/stealth#_stealth) +11
 
 **Languages** Common, Draconic, Dwarven, Elven, Gnome, Sylvan
 
 **SQ** arcane bond (raven), extended illusions (+5 rounds)
 
-**Combat Gear** _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _potion of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_, _scroll of [displacement](spells/displacement#_displacement)_, _scroll of empowered [scorching ray](spells/scorchingRay#_scorching-ray)_, _scroll of [teleport](spells/teleport#_teleport)_, _wand of [burning hands](spells/burningHands#_burning-hands)_ (CL 5th, 20 charges), _wand of [invisibility](spells/invisibility#_invisibility)_ (20 charges), _wand of [mage armor](spells/mageArmor#_mage-armor)_ (20 charges); **Other Gear** masterwork dagger, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of mighty constitution](magicItems/wondrousItems#_belt-of-mighty-constitution) +2_, _cloak of [resistance](spells/resistance#_resistance) +1_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +2_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, spellbook, jade dust for _ [magic mouth](spells/magicMouth#_magic-mouth)_ (worth 50 gp), 998 gp
+**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potion of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _scroll of [displacement](spells_dir/displacement#_displacement)_, _scroll of empowered [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, _scroll of [teleport](spells_dir/teleport#_teleport)_, _wand of [burning hands](spells_dir/burningHands#_burning-hands)_ (CL 5th, 20 charges), _wand of [invisibility](spells_dir/invisibility#_invisibility)_ (20 charges), _wand of [mage armor](spells_dir/mageArmor#_mage-armor)_ (20 charges); **Other Gear** masterwork dagger, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of mighty constitution](magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +2_, _cloak of [resistance](spells_dir/resistance#_resistance) +1_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +2_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, spellbook, jade dust for _ [magic mouth](spells_dir/magicMouth#_magic-mouth)_ (worth 50 gp), 998 gp
 
 These irreverent illusionists are the bane of humorless adventurers. Their tricks are sometimes mistaken for enemy attacks, and even in dangerous situations, their own amusement comes first.
 
@@ -762,7 +762,7 @@ Undead Creator CR 10
 
 LN Medium humanoid (human)
 
-**Init** +5; **Senses** darkvision 60 ft., _ [see invisibility](spells/seeInvisibility#_see-invisibility)_; Perception +4
+**Init** +5; **Senses** darkvision 60 ft., _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_; Perception +4
 
 Defense
 
@@ -778,39 +778,39 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** mwk dagger +6 (1d4/19–20)
+**Melee** mwk dagger +6 (1d4_dir/19–20)
 
-**Special Attacks** channel negative energy (DC 17, 8/day)
+**Special Attacks** channel negative energy (DC 17, 8_dir/day)
 
 **Arcane School Spell-Like Abilities** (CL 11th; concentration +16)
 
-8/day—grave touch (5 rounds)
+8_dir/day—grave touch (5 rounds)
 
 **Necromancer Spells Prepared** (CL 11th; concentration +16)
 
-6th—_ [create undead](spells/createUndead#_create-undead)_, _ [eyebite](spells/eyebite#_eyebite)_ (DC 23)
+6th—_ [create undead](spells_dir/createUndead#_create-undead)_, _ [eyebite](spells_dir/eyebite#_eyebite)_ (DC 23)
 
-5th—_ [baleful polymorph](spells/balefulPolymorph#_baleful-polymorph)_ (DC 20), _ [magic jar](spells/magicJar#_magic-jar)_ (DC 22), _ [teleport](spells/teleport#_teleport)_, _ [waves of fatigue](spells/wavesOfFatigue#_waves-of-fatigue)_
+5th—_ [baleful polymorph](spells_dir/balefulPolymorph#_baleful-polymorph)_ (DC 20), _ [magic jar](spells_dir/magicJar#_magic-jar)_ (DC 22), _ [teleport](spells_dir/teleport#_teleport)_, _ [waves of fatigue](spells_dir/wavesOfFatigue#_waves-of-fatigue)_
 
-4th—_ [animate dead](spells/animateDead#_animate-dead)_, _ [enervation](spells/enervation#_enervation)_, _ [fear](spells/fear#_fear)_ (DC 21), _ [solid fog](spells/solidFog#_solid-fog)_, _ [wall of fire](spells/wallOfFire#_wall-of-fire)_
+4th—_ [animate dead](spells_dir/animateDead#_animate-dead)_, _ [enervation](spells_dir/enervation#_enervation)_, _ [fear](spells_dir/fear#_fear)_ (DC 21), _ [solid fog](spells_dir/solidFog#_solid-fog)_, _ [wall of fire](spells_dir/wallOfFire#_wall-of-fire)_
 
-3rd—_ [blink](spells/blink#_blink)_, _ [fireball](spells/fireball#_fireball)_ (DC 18), _ [fly](spells/fly)_, _ [ray of exhaustion](spells/rayOfExhaustion#_ray-of-exhaustion)_ (DC 20), _ [vampiric touch](spells/vampiricTouch#_vampiric-touch)_ (2)
+3rd—_ [blink](spells_dir/blink#_blink)_, _ [fireball](spells_dir/fireball#_fireball)_ (DC 18), _ [fly](spells_dir/fly)_, _ [ray of exhaustion](spells_dir/rayOfExhaustion#_ray-of-exhaustion)_ (DC 20), _ [vampiric touch](spells_dir/vampiricTouch#_vampiric-touch)_ (2)
 
-2nd—_ [blindness/deafness](spells/blindnessDeafness#_blindness-deafness)_ (DC 19), _ [false life](spells/falseLife#_false-life)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, _ [scare](spells/scare#_scare)_ (DC 19), _ [scorching ray](spells/scorchingRay#_scorching-ray)_
+2nd—_ [blindness_dir/deafness](spells_dir/blindnessDeafness#_blindness-deafness)_ (DC 19), _ [false life](spells_dir/falseLife#_false-life)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, _ [scare](spells_dir/scare#_scare)_ (DC 19), _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_
 
-1st—_ [alarm](spells/alarm#_alarm)_, _ [burning hands](spells/burningHands#_burning-hands)_ (DC 16), _ [cause fear](spells/causeFear#_cause-fear)_ (DC 18), _ [detect undead](spells/detectUndead#_detect-undead)_, _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [magic missile](spells/magicMissile#_magic-missile)_
+1st—_ [alarm](spells_dir/alarm#_alarm)_, _ [burning hands](spells_dir/burningHands#_burning-hands)_ (DC 16), _ [cause fear](spells_dir/causeFear#_cause-fear)_ (DC 18), _ [detect undead](spells_dir/detectUndead#_detect-undead)_, _ [expeditious retreat](spells_dir/expeditiousRetreat#_expeditious-retreat)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [magic missile](spells_dir/magicMissile#_magic-missile)_
 
-0 (at will)—_ [bleed](spells/bleed#_bleed)_ (DC 17), _ [detect magic](spells/detectMagic#_detect-magic)_, _ [read magic](spells/readMagic#_read-magic)_, _ [touch of fatigue](spells/touchOfFatigue#_touch-of-fatigue)_ (DC 17)
+0 (at will)—_ [bleed](spells_dir/bleed#_bleed)_ (DC 17), _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [read magic](spells_dir/readMagic#_read-magic)_, _ [touch of fatigue](spells_dir/touchOfFatigue#_touch-of-fatigue)_ (DC 17)
 
 **Opposition Schools** enchantment, illusion
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_, _ [false life](spells/falseLife#_false-life)_, _ [resist energy](spells/resistEnergy#_resist-energy)_ (fire), and _ [see invisibility](spells/seeInvisibility#_see-invisibility)_.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [false life](spells_dir/falseLife#_false-life)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (fire), and _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_.
 
-**During Combat** The wizard casts _ [solid fog](spells/solidFog#_solid-fog)_ on a group of enemies, then casts _ [wall of fire](spells/wallOfFire#_wall-of-fire)_ in a circle (focused inward) around the _ [solid fog](spells/solidFog#_solid-fog)_. As opponents leave the fog, he attacks them directly with _ [eyebite](spells/eyebite#_eyebite)_ and _ [enervation](spells/enervation#_enervation)_. He might cast _ [fear](spells/fear#_fear)_ to drive opponents through the _ [wall of fire](spells/wallOfFire#_wall-of-fire),_ or cast _ [fireball](spells/fireball#_fireball)_ on a group of opponents grouped together.
+**During Combat** The wizard casts _ [solid fog](spells_dir/solidFog#_solid-fog)_ on a group of enemies, then casts _ [wall of fire](spells_dir/wallOfFire#_wall-of-fire)_ in a circle (focused inward) around the _ [solid fog](spells_dir/solidFog#_solid-fog)_. As opponents leave the fog, he attacks them directly with _ [eyebite](spells_dir/eyebite#_eyebite)_ and _ [enervation](spells_dir/enervation#_enervation)_. He might cast _ [fear](spells_dir/fear#_fear)_ to drive opponents through the _ [wall of fire](spells_dir/wallOfFire#_wall-of-fire),_ or cast _ [fireball](spells_dir/fireball#_fireball)_ on a group of opponents grouped together.
 
-**Base Statistics** Without _ [false life](spells/falseLife#_false-life)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, and _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, the wizard's statistics are **Senses** darkvision 60 ft.; **AC** 12, touch 11, flat-footed 11; **hp** 85; **Resist** none.
+**Base Statistics** Without _ [false life](spells_dir/falseLife#_false-life)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, and _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, the wizard's statistics are **Senses** darkvision 60 ft.; **AC** 12, touch 11, flat-footed 11; **hp** 85; **Resist** none.
 
 Statistics
 
@@ -820,13 +820,13 @@ Statistics
 
 **Feats** [Brew Potion](feats#_brew-potion), [Combat Casting](feats#_combat-casting), [Command Undead](feats#_command-undead), [Craft Wondrous Item](feats#_craft-wondrous-item), Greater [Spell Focus](feats#_spell-focus) (necromancy), [Improved Channel](feats#_improved-channel), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Scribe Scroll](feats#_scribe-scroll), [Spell Focus](feats#_spell-focus) (necromancy), [Toughness](feats#_toughness)
 
-**Skills** [Craft](skills/craft#_craft) (alchemy) +19, [Fly](skills/fly#_fly) +5, [Heal](skills/heal#_heal) +4, [Intimidate](skills/intimidate#_intimidate) +7, [Knowledge](skills/knowledge#_knowledge) (arcana) +19, [Knowledge](skills/knowledge#_knowledge) (dungeoneering, engineering, geography, history, local, nature, nobility, planes) +13, [Knowledge](skills/knowledge#_knowledge) (religion) +18, Perception +4, [Spellcraft](skills/spellcraft#_spellcraft) +19
+**Skills** [Craft](skills_dir/craft#_craft) (alchemy) +19, [Fly](skills_dir/fly#_fly) +5, [Heal](skills_dir/heal#_heal) +4, [Intimidate](skills_dir/intimidate#_intimidate) +7, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +19, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering, engineering, geography, history, local, nature, nobility, planes) +13, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +18, Perception +4, [Spellcraft](skills_dir/spellcraft#_spellcraft) +19
 
 **Languages** Aklo, Common, Dwarven, Elven, Goblin, Infernal
 
-**SQ** arcane bond (rat), life sight (10 feet, 11 rounds/day)
+**SQ** arcane bond (rat), life sight (10 feet, 11 rounds_dir/day)
 
-**Combat Gear** _potions of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_ (2), _potion of [displacement](spells/displacement#_displacement)_, _potion of [invisibility](spells/invisibility#_invisibility)_, _ [robe of bones](magicItems/wondrousItems#_robe-of-bones)_; **Other Gear** masterwork dagger, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of mighty constitution](magicItems/wondrousItems#_belt-of-mighty-constitution) +2_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, _ [goggles of night](magicItems/wondrousItems#_goggles-of-night)_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +2_, spellbook, crystal for _ [magic jar](spells/magicJar#_magic-jar)_ (worth 100 gp), onyx gems (worth 300 gp), 623 gp
+**Combat Gear** _potions of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (2), _potion of [displacement](spells_dir/displacement#_displacement)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_, _ [robe of bones](magicItems_dir/wondrousItems#_robe-of-bones)_; **Other Gear** masterwork dagger, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of mighty constitution](magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [goggles of night](magicItems_dir/wondrousItems#_goggles-of-night)_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +2_, spellbook, crystal for _ [magic jar](spells_dir/magicJar#_magic-jar)_ (worth 100 gp), onyx gems (worth 300 gp), 623 gp
 
 The undead creator dispassionately crafts unlife out of dead flesh and bone.
 
@@ -846,7 +846,7 @@ Toothy Transmuter CR 11
 
 CE Medium humanoid (human, orc)
 
-**Init** +4; **Senses** darkvision 60 ft., _ [see invisibility](spells/seeInvisibility#_see-invisibility)_; Perception +11
+**Init** +4; **Senses** darkvision 60 ft., _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_; Perception +11
 
 Defense
 
@@ -856,45 +856,45 @@ Defense
 
 **Fort** +9, **Ref** +6, **Will** +11
 
-**Defensive Abilities** orc ferocity; **DR** 10/magic (ranged weapon attack only; 100 points); **Immune** fire (120 points)
+**Defensive Abilities** orc ferocity; **DR** 10_dir/magic (ranged weapon attack only; 100 points); **Immune** fire (120 points)
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 greataxe_ +11/+6 (1d12+5/×3)
+**Melee** _+1 greataxe_ +11_dir/+6 (1d12+5_dir/×3)
 
 **Arcane School Spell-Like Abilities** (CL 12th; concentration +18)
 
-At will—change shape (_ [beast shape III](spells/beastShape#_beast-shape-iii)/elemental body II_, 12 rounds/day)
+At will—change shape (_ [beast shape III](spells_dir/beastShape#_beast-shape-iii)_dir/elemental body II_, 12 rounds_dir/day)
 
-9/day—telekinetic fist (1d4+6 bludgeoning)
+9_dir/day—telekinetic fist (1d4+6 bludgeoning)
 
 **Transmuter Spells Prepared** (CL 12th; concentration +18)
 
-6th—_ [chain lightning](spells/chainLightning#_chain-lightning)_ (DC 22), _ [disintegrate](spells/disintegrate#_disintegrate)_ (2, DC 22), _ [transformation](spells/transformation#_transformation)_
+6th—_ [chain lightning](spells_dir/chainLightning#_chain-lightning)_ (DC 22), _ [disintegrate](spells_dir/disintegrate#_disintegrate)_ (2, DC 22), _ [transformation](spells_dir/transformation#_transformation)_
 
-5th—_ [cone of cold](spells/coneOfCold#_cone-of-cold)_ (DC 21), _ [telekinesis](spells/telekinesis#_telekinesis)_, _ [telepathic bond](spells/telepathicBond#_telepathic-bond)_, _ [teleport](spells/teleport#_teleport)_, _ [wall of stone](spells/wallOfStone#_wall-of-stone)_
+5th—_ [cone of cold](spells_dir/coneOfCold#_cone-of-cold)_ (DC 21), _ [telekinesis](spells_dir/telekinesis#_telekinesis)_, _ [telepathic bond](spells_dir/telepathicBond#_telepathic-bond)_, _ [teleport](spells_dir/teleport#_teleport)_, _ [wall of stone](spells_dir/wallOfStone#_wall-of-stone)_
 
-4th—_ [black tentacles](spells/blackTentacles#_black-tentacles)_, _ [fire shield](spells/fireShield#_fire-shield)_, _ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [ice storm](spells/iceStorm#_ice-storm)_, _ [mass enlarge person](spells/enlargePerson#_enlarge-person-mass)_ (DC 20)
+4th—_ [black tentacles](spells_dir/blackTentacles#_black-tentacles)_, _ [fire shield](spells_dir/fireShield#_fire-shield)_, _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, _ [ice storm](spells_dir/iceStorm#_ice-storm)_, _ [mass enlarge person](spells_dir/enlargePerson#_enlarge-person-mass)_ (DC 20)
 
-3rd—_ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [fly](spells/fly)_, _ [haste](spells/haste#_haste)_, _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_ (2, DC 19), _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_
+3rd—_ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_, _ [fly](spells_dir/fly)_, _ [haste](spells_dir/haste#_haste)_, _ [lightning bolt](spells_dir/lightningBolt#_lightning-bolt)_ (2, DC 19), _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_
 
-2nd—_ [blur](spells/blur#_blur)_, _ [bull's strength](spells/bullSStrength#_bull-s-strength)_, _ [invisibility](spells/invisibility#_invisibility)_, _ [levitate](spells/levitate#_levitate)_, _ [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_
+2nd—_ [blur](spells_dir/blur#_blur)_, _ [bull's strength](spells_dir/bullSStrength#_bull-s-strength)_, _ [invisibility](spells_dir/invisibility#_invisibility)_, _ [levitate](spells_dir/levitate#_levitate)_, _ [protection from arrows](spells_dir/protectionFromArrows#_protection-from-arrows)_, _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_
 
-1st—_ [burning hands](spells/burningHands#_burning-hands)_ (DC 17), _ [feather fall](spells/featherFall#_feather-fall)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [magic missile](spells/magicMissile#_magic-missile)_ (2), _ [reduce person](spells/reducePerson#_reduce-person)_ (DC 17), _ [true strike](spells/trueStrike#_true-strike)_
+1st—_ [burning hands](spells_dir/burningHands#_burning-hands)_ (DC 17), _ [feather fall](spells_dir/featherFall#_feather-fall)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [magic missile](spells_dir/magicMissile#_magic-missile)_ (2), _ [reduce person](spells_dir/reducePerson#_reduce-person)_ (DC 17), _ [true strike](spells_dir/trueStrike#_true-strike)_
 
-0 (at will)—_ [detect magic](spells/detectMagic#_detect-magic)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [message](spells/message#_message)_, _ [read magic](spells/readMagic#_read-magic)_
+0 (at will)—_ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [message](spells_dir/message#_message)_, _ [read magic](spells_dir/readMagic#_read-magic)_
 
 **Opposition Schools** enchantment, necromancy
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_, _ [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (fire), and _ [see invisibility](spells/seeInvisibility#_see-invisibility)_. He uses physical enhancement to increase his Constitution.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [protection from arrows](spells_dir/protectionFromArrows#_protection-from-arrows)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (fire), and _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_. He uses physical enhancement to increase his Constitution.
 
-**During Combat** The wizard casts _ [mass enlarge person](spells/enlargePerson#_enlarge-person-mass)_ on allies, then casts _ [black tentacles](spells/blackTentacles#_black-tentacles)_, _ [disintegrate](spells/disintegrate#_disintegrate)_, and area damage spells. If out of attack spells, he casts _ [transformation](spells/transformation#_transformation)_ and enters melee.
+**During Combat** The wizard casts _ [mass enlarge person](spells_dir/enlargePerson#_enlarge-person-mass)_ on allies, then casts _ [black tentacles](spells_dir/blackTentacles#_black-tentacles)_, _ [disintegrate](spells_dir/disintegrate#_disintegrate)_, and area damage spells. If out of attack spells, he casts _ [transformation](spells_dir/transformation#_transformation)_ and enters melee.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, _ [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (fire), and _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, the wizard's statistics are **Senses** darkvision 60 ft.; **AC** 11, touch 11, flat-footed 11; **DR** none; **Immune** none.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [protection from arrows](spells_dir/protectionFromArrows#_protection-from-arrows)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (fire), and _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, the wizard's statistics are **Senses** darkvision 60 ft.; **AC** 11, touch 11, flat-footed 11; **DR** none; **Immune** none.
 
 Statistics
 
@@ -904,13 +904,13 @@ Statistics
 
 **Feats** [Brew Potion](feats#_brew-potion), [Combat Casting](feats#_combat-casting), [Craft Wondrous Item](feats#_craft-wondrous-item), [Improved Initiative](feats#_improved-initiative), [Power Attack](feats#_power-attack), [Scribe Scroll](feats#_scribe-scroll), [Toughness](feats#_toughness), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (greataxe)
 
-**Skills** [Climb](skills/climb#_climb) +8, [Fly](skills/fly#_fly) +8, [Handle Animal](skills/handleAnimal#_handle-animal) +4, [Intimidate](skills/intimidate#_intimidate) +11, [Knowledge](skills/knowledge#_knowledge) (arcana) +19, [Knowledge](skills/knowledge#_knowledge) (dungeoneering, geography, history, local, nature) +14, Perception +11, [Sense Motive](skills/senseMotive#_sense-motive) +6, [Spellcraft](skills/spellcraft#_spellcraft) +19, [Stealth](skills/stealth#_stealth) +3, [Survival](skills/survival#_survival) +6, [Swim](skills/swim#_swim) +8
+**Skills** [Climb](skills_dir/climb#_climb) +8, [Fly](skills_dir/fly#_fly) +8, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +4, [Intimidate](skills_dir/intimidate#_intimidate) +11, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +19, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering, geography, history, local, nature) +14, Perception +11, [Sense Motive](skills_dir/senseMotive#_sense-motive) +6, [Spellcraft](skills_dir/spellcraft#_spellcraft) +19, [Stealth](skills_dir/stealth#_stealth) +3, [Survival](skills_dir/survival#_survival) +6, [Swim](skills_dir/swim#_swim) +8
 
 **Languages** Abyssal, Common, Draconic, Giant, Goblin, Infernal, Orc
 
 **SQ** arcane bond (amulet), orc blood, physical enhancement +3, weapon familiarity
 
-**Combat Gear** _potions of [bear's endurance](spells/bearSEndurance#_bear-s-endurance)_ (4), _potions of [bull's strength](spells/bullSStrength#_bull-s-strength)_ (4), _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _potions of [invisibility](spells/invisibility#_invisibility)_ (4), _scroll of [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_, _scroll of [transformation](spells/transformation#_transformation)_; **Other Gear** _+1 greataxe_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, _ [gloves of arrow snaring](magicItems/wondrousItems#_gloves-of-arrow-snaring)_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, spellbook, 930 gp
+**Combat Gear** _potions of [bear's endurance](spells_dir/bearSEndurance#_bear-s-endurance)_ (4), _potions of [bull's strength](spells_dir/bullSStrength#_bull-s-strength)_ (4), _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _potions of [invisibility](spells_dir/invisibility#_invisibility)_ (4), _scroll of [greater dispel magic](spells_dir/dispelMagic#_dispel-magic-greater)_, _scroll of [transformation](spells_dir/transformation#_transformation)_; **Other Gear** _+1 greataxe_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [gloves of arrow snaring](magicItems_dir/wondrousItems#_gloves-of-arrow-snaring)_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, spellbook, 930 gp
 
 A toothy transmuter leads savages to victory in battle.
 
@@ -942,43 +942,43 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** club +6/+1 (1d6)
+**Melee** club +6_dir/+1 (1d6)
 
 **Special Attacks** intense spells (+6 damage)
 
 **Arcane School Spell-Like Abilities** (CL 13th; concentration +19)
 
-At will—elemental wall (13 rounds/day)
+At will—elemental wall (13 rounds_dir/day)
 
-9/day—force missile (1d4+6)
+9_dir/day—force missile (1d4+6)
 
 **Evoker Spells Prepared** (CL 13th; concentration +19)
 
-7th—_ [delayed blast fireball](spells/delayedBlastFireball#_delayed-blast-fireball)_ (DC 25), _ [statue](spells/statue#_statue)_
+7th—_ [delayed blast fireball](spells_dir/delayedBlastFireball#_delayed-blast-fireball)_ (DC 25), _ [statue](spells_dir/statue#_statue)_
 
-6th—_ [elemental body III](spells/elementalBody#_elemental-body-iii)_, maximized_ [fireball](spells/fireball#_fireball)_ (2, DC 21),_ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_
+6th—_ [elemental body III](spells_dir/elementalBody#_elemental-body-iii)_, maximized_ [fireball](spells_dir/fireball#_fireball)_ (2, DC 21),_ [greater dispel magic](spells_dir/dispelMagic#_dispel-magic-greater)_
 
-5th—_ [passwall](spells/passwall#_passwall)_, maximized_ [scorching ray](spells/scorchingRay#_scorching-ray)_ (2), _ [telekinesis](spells/telekinesis#_telekinesis)_, _ [waves of fatigue](spells/wavesOfFatigue#_waves-of-fatigue)_
+5th—_ [passwall](spells_dir/passwall#_passwall)_, maximized_ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_ (2), _ [telekinesis](spells_dir/telekinesis#_telekinesis)_, _ [waves of fatigue](spells_dir/wavesOfFatigue#_waves-of-fatigue)_
 
-4th—maximized _ [burning hands](spells/burningHands#_burning-hands)_ (2, DC 19), _ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [phantasmal killer](spells/phantasmalKiller#_phantasmal-killer)_ (DC 20), _ [shout](spells/shout#_shout)_ (DC 22), _ [wall of fire](spells/wallOfFire#_wall-of-fire)_
+4th—maximized _ [burning hands](spells_dir/burningHands#_burning-hands)_ (2, DC 19), _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, _ [phantasmal killer](spells_dir/phantasmalKiller#_phantasmal-killer)_ (DC 20), _ [shout](spells_dir/shout#_shout)_ (DC 22), _ [wall of fire](spells_dir/wallOfFire#_wall-of-fire)_
 
-3rd—_ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [explosive runes](spells/explosiveRunes#_explosive-runes)_, _ [fireball](spells/fireball#_fireball)_ (DC 21), _ [flame arrow](spells/flameArrow#_flame-arrow)_, _ [fly](spells/fly)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_
+3rd—_ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_, _ [explosive runes](spells_dir/explosiveRunes#_explosive-runes)_, _ [fireball](spells_dir/fireball#_fireball)_ (DC 21), _ [flame arrow](spells_dir/flameArrow#_flame-arrow)_, _ [fly](spells_dir/fly)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_
 
-2nd—_ [flaming sphere](spells/flamingSphere#_flaming-sphere)_ (DC 20), _ [gust of wind](spells/gustOfWind#_gust-of-wind)_ (DC 20), _ [pyrotechnics](spells/pyrotechnics#_pyrotechnics)_ (2, DC 18), _ [resist energy](spells/resistEnergy#_resist-energy), [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [web](spells/web#_web)_ (DC 18)
+2nd—_ [flaming sphere](spells_dir/flamingSphere#_flaming-sphere)_ (DC 20), _ [gust of wind](spells_dir/gustOfWind#_gust-of-wind)_ (DC 20), _ [pyrotechnics](spells_dir/pyrotechnics#_pyrotechnics)_ (2, DC 18), _ [resist energy](spells_dir/resistEnergy#_resist-energy), [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, _ [web](spells_dir/web#_web)_ (DC 18)
 
-1st—_ [burning hands](spells/burningHands#_burning-hands)_ (DC 19), _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [grease](spells/grease#_grease)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [magic missile](spells/magicMissile#_magic-missile)_ (2), _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 17)
+1st—_ [burning hands](spells_dir/burningHands#_burning-hands)_ (DC 19), _ [expeditious retreat](spells_dir/expeditiousRetreat#_expeditious-retreat)_, _ [grease](spells_dir/grease#_grease)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [magic missile](spells_dir/magicMissile#_magic-missile)_ (2), _ [ray of enfeeblement](spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 17)
 
-0 (at will)—_ [bleed](spells/bleed#_bleed)_ (DC 16), _ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [open/close](spells/openClose#_open-close)_
+0 (at will)—_ [bleed](spells_dir/bleed#_bleed)_ (DC 16), _ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](spells_dir/openClose#_open-close)_
 
 **Opposition Schools** divination, enchantment
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (fire), _ [resist energy](spells/resistEnergy#_resist-energy)_ (fire), and _ [statue](spells/statue#_statue)_.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (fire), _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (fire), and _ [statue](spells_dir/statue#_statue)_.
 
-**During Combat** The wizard casts _ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [fly](spells/fly)_, and maximized _ [fireball](spells/fireball#_fireball)_. He follows up with _ [phantasmal killer](spells/phantasmalKiller#_phantasmal-killer)_, _ [shout](spells/shout#_shout)_, and necromantic rays.
+**During Combat** The wizard casts _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, _ [fly](spells_dir/fly)_, and maximized _ [fireball](spells_dir/fireball#_fireball)_. He follows up with _ [phantasmal killer](spells_dir/phantasmalKiller#_phantasmal-killer)_, _ [shout](spells_dir/shout#_shout)_, and necromantic rays.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_, and _ [resist energy](spells/resistEnergy#_resist-energy)_, the wizard's statistics are **AC** 15, touch 14, flat-footed 12; **Immune** none; **Resist** none.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_, and _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, the wizard's statistics are **AC** 15, touch 14, flat-footed 12; **Immune** none; **Resist** none.
 
 Statistics
 
@@ -988,13 +988,13 @@ Statistics
 
 **Feats** [Combat Casting](feats#_combat-casting), [Craft Wondrous Item](feats#_craft-wondrous-item), [Dodge](feats#_dodge), Greater [Spell Focus](feats#_spell-focus) (evocation), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Maximize Spell](feats#_maximize-spell), [Point-Blank Shot](feats#_point-blank-shot), [Scribe Scroll](feats#_scribe-scroll), [Spell Focus](feats#_spell-focus) (evocation)
 
-**Skills** [Climb](skills/climb#_climb) +5, [Craft](skills/craft#_craft) (alchemy) +19, [Fly](skills/fly#_fly) +18, [Knowledge](skills/knowledge#_knowledge) (arcana) +21, [Knowledge](skills/knowledge#_knowledge) (engineering, planes) +19, [Knowledge](skills/knowledge#_knowledge) (geography, history, local, religion) +14, Perception +12, [Sense Motive](skills/senseMotive#_sense-motive) +4, [Spellcraft](skills/spellcraft#_spellcraft) +19, [Stealth](skills/stealth#_stealth) +12, [Survival](skills/survival#_survival) +4
+**Skills** [Climb](skills_dir/climb#_climb) +5, [Craft](skills_dir/craft#_craft) (alchemy) +19, [Fly](skills_dir/fly#_fly) +18, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +21, [Knowledge](skills_dir/knowledge#_knowledge) (engineering, planes) +19, [Knowledge](skills_dir/knowledge#_knowledge) (geography, history, local, religion) +14, Perception +12, [Sense Motive](skills_dir/senseMotive#_sense-motive) +4, [Spellcraft](skills_dir/spellcraft#_spellcraft) +19, [Stealth](skills_dir/stealth#_stealth) +12, [Survival](skills_dir/survival#_survival) +4
 
 **Languages** Abyssal, Common, Draconic, Dwarven, Goblin, Ignan, Infernal
 
-**SQ** arcane bond (_ [ring of protection](magicItems/rings#_ring-of-protection) +1_)
+**SQ** arcane bond (_ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_)
 
-**Combat Gear** _ [elemental gem](magicItems/wondrousItems#_elemental-gem)_ (fire), _potions of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_ (2), _potion of [invisibility](spells/invisibility#_invisibility)_, _scrolls of [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (2), _scrolls of [resist energy](spells/resistEnergy#_resist-energy)_ (2), _wand of [burning hands](spells/burningHands#_burning-hands)_ (CL 5th, 20 charges), alchemist's fire (10); **Other Gear** club, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [boots of striding and springing](magicItems/wondrousItems#_boots-of-striding-and-springing)_, _ [bracers of armor](magicItems/wondrousItems#_bracers-of-armor) +3_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +3_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, spellbook, 1,100 gp
+**Combat Gear** _ [elemental gem](magicItems_dir/wondrousItems#_elemental-gem)_ (fire), _potions of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (2), _potion of [invisibility](spells_dir/invisibility#_invisibility)_, _scrolls of [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (2), _scrolls of [resist energy](spells_dir/resistEnergy#_resist-energy)_ (2), _wand of [burning hands](spells_dir/burningHands#_burning-hands)_ (CL 5th, 20 charges), alchemist's fire (10); **Other Gear** club, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [boots of striding and springing](magicItems_dir/wondrousItems#_boots-of-striding-and-springing)_, _ [bracers of armor](magicItems_dir/wondrousItems#_bracers-of-armor) +3_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +3_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, spellbook, 1,100 gp
 
 These mages love to cause collateral damage with fires.
 
@@ -1006,7 +1006,7 @@ Mage Sniper CR 13
 
 LN Medium humanoid (elf, human)
 
-**Init** +4; **Senses** darkvision 60 ft., low-light vision, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_; Perception +27
+**Init** +4; **Senses** darkvision 60 ft., low-light vision, _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_; Perception +27
 
 Defense
 
@@ -1016,51 +1016,51 @@ Defense
 
 **Fort** +7, **Ref** +10, **Will** +11; +2 vs. enchantments
 
-**Defensive Abilities** _ [nondetection](spells/nondetection#_nondetection), [spell turning](spells/spellTurning#_spell-turning)_; **Resist** electricity 30, fire 30
+**Defensive Abilities** _ [nondetection](spells_dir/nondetection#_nondetection), [spell turning](spells_dir/spellTurning#_spell-turning)_; **Resist** electricity 30, fire 30
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** dagger +8/+3 (1d4+1/19–20)
+**Melee** dagger +8_dir/+3 (1d4+1_dir/19–20)
 
-**Ranged** light crossbow +11 (1d8/19–20)
+**Ranged** light crossbow +11 (1d8_dir/19–20)
 
 **Special Attacks** intense spells (+7 damage)
 
 **Arcane School Spell-Like Abilities** (CL 14th; concentration +20)
 
-At will—elemental wall (14 rounds/day)
+At will—elemental wall (14 rounds_dir/day)
 
-9/day—_force missile_ (1d4+7)
+9_dir/day—_force missile_ (1d4+7)
 
 **Evoker Spells Prepared** (CL 14th; concentration +20)
 
-7th—enlarged maximized_ [fireball](spells/fireball#_fireball)_ (DC 21), _ [prismatic spray](spells/prismaticSpray#_prismatic-spray)_, _ [spell turning](spells/spellTurning#_spell-turning)_
+7th—enlarged maximized_ [fireball](spells_dir/fireball#_fireball)_ (DC 21), _ [prismatic spray](spells_dir/prismaticSpray#_prismatic-spray)_, _ [spell turning](spells_dir/spellTurning#_spell-turning)_
 
-6th—_ [disintegrate](spells/disintegrate#_disintegrate)_ (DC 23), _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_, enlarged maximized_ [scorching ray](spells/scorchingRay#_scorching-ray)_ (2), enlarged _ [telekinesis](spells/telekinesis#_telekinesis)_ (DC 22)
+6th—_ [disintegrate](spells_dir/disintegrate#_disintegrate)_ (DC 23), _ [greater dispel magic](spells_dir/dispelMagic#_dispel-magic-greater)_, enlarged maximized_ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_ (2), enlarged _ [telekinesis](spells_dir/telekinesis#_telekinesis)_ (DC 22)
 
-5th—maximized _ [acid arrow](spells/acidArrow#_acid-arrow)_, enlarged _ [black tentacles](spells/blackTentacles#_black-tentacles)_, maximized _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [teleport](spells/teleport#_teleport)_, _ [wall of force](spells/wallOfForce#_wall-of-force)_
+5th—maximized _ [acid arrow](spells_dir/acidArrow#_acid-arrow)_, enlarged _ [black tentacles](spells_dir/blackTentacles#_black-tentacles)_, maximized _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, _ [teleport](spells_dir/teleport#_teleport)_, _ [wall of force](spells_dir/wallOfForce#_wall-of-force)_
 
-4th—_ [arcane eye](spells/arcaneEye#_arcane-eye)_, _ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [greater invisibility](spells/invisibility#_invisibility-greater)_, enlarged _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_ (DC 21), maximized _ [magic missile](spells/magicMissile#_magic-missile)_, _ [shout](spells/shout#_shout)_ (DC 22)
+4th—_ [arcane eye](spells_dir/arcaneEye#_arcane-eye)_, _ [dimension door](spells_dir/dimensionDoor#_dimension-door)_, _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, enlarged _ [lightning bolt](spells_dir/lightningBolt#_lightning-bolt)_ (DC 21), maximized _ [magic missile](spells_dir/magicMissile#_magic-missile)_, _ [shout](spells_dir/shout#_shout)_ (DC 22)
 
-3rd—_ [clairaudience/clairvoyance](spells/clairaudienceClairvoyance#_clairaudience-clairvoyance)_ (2), _ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [fly](spells/fly)_, _ [nondetection](spells/nondetection#_nondetection)_, _ [wind wall](spells/windWall#_wind-wall)_
+3rd—_ [clairaudience_dir/clairvoyance](spells_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance)_ (2), _ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_, _ [fly](spells_dir/fly)_, _ [nondetection](spells_dir/nondetection#_nondetection)_, _ [wind wall](spells_dir/windWall#_wind-wall)_
 
-2nd—_ [acid arrow](spells/acidArrow#_acid-arrow)_, _ [darkness](spells/darkness#_darkness)_, _ [darkvision](spells/darkvision#_darkvision)_, _ [glitterdust](spells/glitterdust#_glitterdust)_ (DC 18), _ [resist energy](spells/resistEnergy#_resist-energy)_ (2), _ [see invisibility](spells/seeInvisibility#_see-invisibility)_
+2nd—_ [acid arrow](spells_dir/acidArrow#_acid-arrow)_, _ [darkness](spells_dir/darkness#_darkness)_, _ [darkvision](spells_dir/darkvision#_darkvision)_, _ [glitterdust](spells_dir/glitterdust#_glitterdust)_ (DC 18), _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (2), _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_
 
-1st—_ [endure elements](spells/endureElements#_endure-elements)_, _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [shield](spells/shield#_shield)_, _ [true strike](spells/trueStrike#_true-strike)_ (2)
+1st—_ [endure elements](spells_dir/endureElements#_endure-elements)_, _ [expeditious retreat](spells_dir/expeditiousRetreat#_expeditious-retreat)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [magic missile](spells_dir/magicMissile#_magic-missile)_, _ [shield](spells_dir/shield#_shield)_, _ [true strike](spells_dir/trueStrike#_true-strike)_ (2)
 
-0 (at will)—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [message](spells/message#_message)_
+0 (at will)—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [message](spells_dir/message#_message)_
 
 **Opposition Schools** enchantment, necromancy
 
 Tactics
 
-**Before Combat** The wizard casts _ [darkvision](spells/darkvision#_darkvision)_, _ [endure elements](spells/endureElements#_endure-elements)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [nondetection](spells/nondetection#_nondetection)_, _ [resist energy](spells/resistEnergy#_resist-energy)_ (electricity, fire), _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, and _ [spell turning](spells/spellTurning#_spell-turning)_.
+**Before Combat** The wizard casts _ [darkvision](spells_dir/darkvision#_darkvision)_, _ [endure elements](spells_dir/endureElements#_endure-elements)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [nondetection](spells_dir/nondetection#_nondetection)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (electricity, fire), _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, and _ [spell turning](spells_dir/spellTurning#_spell-turning)_.
 
-**During Combat** The wizard uses tactics specific to his quarry, choosing spells with saving throws that target his prey's weakest defenses. When facing a target he knows little about, he casts _ [greater invisibility](spells/invisibility#_invisibility-greater)_ and then enlarged _ [black tentacles](spells/blackTentacles#_black-tentacles)_ to give him time to find the perfect spell. Against single targets, he casts _ [disintegrate](spells/disintegrate#_disintegrate)_, enlarged maximized _ [scorching ray](spells/scorchingRay#_scorching-ray)_, or maximized _ [magic missile](spells/magicMissile#_magic-missile)_. He uses _ [telekinesis](spells/telekinesis#_telekinesis)_ to hurl boulders if the kill is supposed to look like an accident.
+**During Combat** The wizard uses tactics specific to his quarry, choosing spells with saving throws that target his prey's weakest defenses. When facing a target he knows little about, he casts _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_ and then enlarged _ [black tentacles](spells_dir/blackTentacles#_black-tentacles)_ to give him time to find the perfect spell. Against single targets, he casts _ [disintegrate](spells_dir/disintegrate#_disintegrate)_, enlarged maximized _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, or maximized _ [magic missile](spells_dir/magicMissile#_magic-missile)_. He uses _ [telekinesis](spells_dir/telekinesis#_telekinesis)_ to hurl boulders if the kill is supposed to look like an accident.
 
-**Base Statistics** Without _ [darkvision](spells/darkvision#_darkvision)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [resist energy](spells/resistEnergy#_resist-energy)_ (electricity, fire), and _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, the wizard's statistics are **AC** 17, touch 16, flat-footed 13; **Senses** low-light vision; **Defensive Abilities** none; **Resist** none.
+**Base Statistics** Without _ [darkvision](spells_dir/darkvision#_darkvision)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (electricity, fire), and _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, the wizard's statistics are **AC** 17, touch 16, flat-footed 13; **Senses** low-light vision; **Defensive Abilities** none; **Resist** none.
 
 Statistics
 
@@ -1070,13 +1070,13 @@ Statistics
 
 **Feats** [Craft Wondrous Item](feats#_craft-wondrous-item), [Enlarge Spell](feats#_enlarge-spell), Greater [Spell Focus](feats#_spell-focus) (evocation), [Maximize Spell](feats#_maximize-spell), [Point-Blank Shot](feats#_point-blank-shot), Precise Shot, [Scribe Scroll](feats#_scribe-scroll), [Skill Focus](feats#_skill-focus) (Perception), [Spell Focus](feats#_spell-focus) (evocation, transmutation), [Spell Penetration](feats#_spell-penetration)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +9, [Climb](skills/climb#_climb) +11, [Fly](skills/fly#_fly) +17, [Handle Animal](skills/handleAnimal#_handle-animal) +4, [Knowledge](skills/knowledge#_knowledge) (arcana) +23, [Knowledge](skills/knowledge#_knowledge) (geography) +14, [Knowledge](skills/knowledge#_knowledge) (local) +19, [Knowledge](skills/knowledge#_knowledge) (nature) +15, Perception +27, [Spellcraft](skills/spellcraft#_spellcraft) +23, [Stealth](skills/stealth#_stealth) +18, [Survival](skills/survival#_survival) +10, [Swim](skills/swim#_swim) +6
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +9, [Climb](skills_dir/climb#_climb) +11, [Fly](skills_dir/fly#_fly) +17, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +4, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +23, [Knowledge](skills_dir/knowledge#_knowledge) (geography) +14, [Knowledge](skills_dir/knowledge#_knowledge) (local) +19, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +15, Perception +27, [Spellcraft](skills_dir/spellcraft#_spellcraft) +23, [Stealth](skills_dir/stealth#_stealth) +18, [Survival](skills_dir/survival#_survival) +10, [Swim](skills_dir/swim#_swim) +6
 
 **Languages** Common, Draconic, Dwarven, Elven, Gnome, Halfling, Orc
 
-**SQ** arcane bond (_ [ring of protection](magicItems/rings#_ring-of-protection) +2_), elf blood
+**SQ** arcane bond (_ [ring of protection](magicItems_dir/rings#_ring-of-protection) +2_), elf blood
 
-**Combat Gear** _potion of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_ (2), _potion of [invisibility](spells/invisibility#_invisibility)_, _potion of [pass without trace](spells/passWithoutTrace#_pass-without-trace)_, _scrolls of [teleport](spells/teleport#_teleport)_ (2), _wand of [scorching ray](spells/scorchingRay#_scorching-ray)_ (CL 11th, 20 charges); **Other Gear** dagger, light crossbow with 10 bolts, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [bag of holding](magicItems/wondrousItems#_bag-of-holding) _(type II), _ [belt of incredible dexterity](magicItems/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, _ [eyes of the eagle](magicItems/wondrousItems#_eyes-of-the-eagle)_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of protection](magicItems/rings#_ring-of-protection) +2_, _ [ring of sustenance](magicItems/rings#_ring-of-sustenance)_, spellbook, 1,937 gp
+**Combat Gear** _potion of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _potion of [invisibility](spells_dir/invisibility#_invisibility)_, _potion of [pass without trace](spells_dir/passWithoutTrace#_pass-without-trace)_, _scrolls of [teleport](spells_dir/teleport#_teleport)_ (2), _wand of [scorching ray](spells_dir/scorchingRay#_scorching-ray)_ (CL 11th, 20 charges); **Other Gear** dagger, light crossbow with 10 bolts, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [bag of holding](magicItems_dir/wondrousItems#_bag-of-holding) _(type II), _ [belt of incredible dexterity](magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [eyes of the eagle](magicItems_dir/wondrousItems#_eyes-of-the-eagle)_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +2_, _ [ring of sustenance](magicItems_dir/rings#_ring-of-sustenance)_, spellbook, 1,937 gp
 
 The mage sniper kills with spells at extreme range.
 
@@ -1096,7 +1096,7 @@ Cruel Conjurer CR 14
 
 LE Medium humanoid (human)
 
-**Init** +6; **Senses** _ [see invisibility](spells/seeInvisibility#_see-invisibility)_; Perception +15
+**Init** +6; **Senses** _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_; Perception +15
 
 Defense
 
@@ -1106,49 +1106,49 @@ Defense
 
 **Fort** +11, **Ref** +10, **Will** +12
 
-**Defensive Abilities** _ [magic circle against good](spells/magicCircleAgainstGood#_magic-circle-against-good)_; **Immune** fire (120 points); **Resist** electricity 30
+**Defensive Abilities** _ [magic circle against good](spells_dir/magicCircleAgainstGood#_magic-circle-against-good)_; **Immune** fire (120 points); **Resist** electricity 30
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** mwk quarterstaff +7/+2 (1d6–1)
+**Melee** mwk quarterstaff +7_dir/+2 (1d6–1)
 
 **Arcane School Spell-Like Abilities** (CL 15th; concentration +21)
 
-At will—dimensional steps (450 feet/day)
+At will—dimensional steps (450 feet_dir/day)
 
-9/day—acid dart (1d6+7 acid)
+9_dir/day—acid dart (1d6+7 acid)
 
 **Conjurer Spells Prepared** (CL 15th; concentration +21)
 
-8th—_ [incendiary cloud](spells/incendiaryCloud#_incendiary-cloud)_ (DC 26), _ [summon monster VIII](spells/summonMonster#_summon-monster-viii)_
+8th—_ [incendiary cloud](spells_dir/incendiaryCloud#_incendiary-cloud)_ (DC 26), _ [summon monster VIII](spells_dir/summonMonster#_summon-monster-viii)_
 
-7th—extended_ [acid fog](spells/acidFog#_acid-fog)_, widened_ [black tentacles](spells/blackTentacles#_black-tentacles), [mass hold person](spells/holdPerson#_hold-person-mass)_ (DC 23)
+7th—extended_ [acid fog](spells_dir/acidFog#_acid-fog)_, widened_ [black tentacles](spells_dir/blackTentacles#_black-tentacles), [mass hold person](spells_dir/holdPerson#_hold-person-mass)_ (DC 23)
 
-6th—quickened_ [acid arrow](spells/acidArrow#_acid-arrow)_, _ [acid fog](spells/acidFog#_acid-fog)_, _ [disintegrate](spells/disintegrate#_disintegrate)_ (DC 22), quickened_ [invisibility](spells/invisibility#_invisibility)_, _ [summon monster VI](spells/summonMonster#_summon-monster-vi)_
+6th—quickened_ [acid arrow](spells_dir/acidArrow#_acid-arrow)_, _ [acid fog](spells_dir/acidFog#_acid-fog)_, _ [disintegrate](spells_dir/disintegrate#_disintegrate)_ (DC 22), quickened_ [invisibility](spells_dir/invisibility#_invisibility)_, _ [summon monster VI](spells_dir/summonMonster#_summon-monster-vi)_
 
-5th—_ [cloudkill](spells/cloudkill#_cloudkill)_ (DC 23), _ [dismissal](spells/dismissal#_dismissal)_ (DC 21), _ [shadow evocation](spells/shadowEvocation#_shadow-evocation)_ (DC 21), _ [summon monster V](spells/summonMonster#_summon-monster-v)_, _ [teleport](spells/teleport#_teleport)_, _widened [glitterdust](spells/glitterdust#_glitterdust)_ (DC 20)
+5th—_ [cloudkill](spells_dir/cloudkill#_cloudkill)_ (DC 23), _ [dismissal](spells_dir/dismissal#_dismissal)_ (DC 21), _ [shadow evocation](spells_dir/shadowEvocation#_shadow-evocation)_ (DC 21), _ [summon monster V](spells_dir/summonMonster#_summon-monster-v)_, _ [teleport](spells_dir/teleport#_teleport)_, _widened [glitterdust](spells_dir/glitterdust#_glitterdust)_ (DC 20)
 
-4th—_ [arcane eye](spells/arcaneEye#_arcane-eye)_, _ [confusion](spells/confusion#_confusion)_ (DC 20), _ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [phantasmal killer](spells/phantasmalKiller#_phantasmal-killer)_ (DC 20), _ [solid fog](spells/solidFog#_solid-fog)_
+4th—_ [arcane eye](spells_dir/arcaneEye#_arcane-eye)_, _ [confusion](spells_dir/confusion#_confusion)_ (DC 20), _ [dimension door](spells_dir/dimensionDoor#_dimension-door)_, _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, _ [phantasmal killer](spells_dir/phantasmalKiller#_phantasmal-killer)_ (DC 20), _ [solid fog](spells_dir/solidFog#_solid-fog)_
 
-3rd—_ [displacement](spells/displacement#_displacement)_, _ [magic circle against good](spells/magicCircleAgainstGood#_magic-circle-against-good)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_, _ [slow](spells/slow#_slow)_ (DC 19), _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_ (2, DC 21)
+3rd—_ [displacement](spells_dir/displacement#_displacement)_, _ [magic circle against good](spells_dir/magicCircleAgainstGood#_magic-circle-against-good)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_, _ [slow](spells_dir/slow#_slow)_ (DC 19), _ [stinking cloud](spells_dir/stinkingCloud#_stinking-cloud)_ (2, DC 21)
 
-2nd—_ [acid arrow](spells/acidArrow#_acid-arrow)_, _ [glitterdust](spells/glitterdust#_glitterdust)_ (DC 20), _ [knock](spells/knock#_knock)_, _ [mirror image](spells/mirrorImage#_mirror-image)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, _ [web](spells/web#_web)_ (DC 20)
+2nd—_ [acid arrow](spells_dir/acidArrow#_acid-arrow)_, _ [glitterdust](spells_dir/glitterdust#_glitterdust)_ (DC 20), _ [knock](spells_dir/knock#_knock)_, _ [mirror image](spells_dir/mirrorImage#_mirror-image)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, _ [web](spells_dir/web#_web)_ (DC 20)
 
-1st—_ [charm person](spells/charmPerson#_charm-person)_ (DC 17), _ [color spray](spells/colorSpray#_color-spray)_ (DC 17), _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells/featherFall#_feather-fall)_, _ [grease](spells/grease#_grease)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [mount](spells/mount#_mount)_
+1st—_ [charm person](spells_dir/charmPerson#_charm-person)_ (DC 17), _ [color spray](spells_dir/colorSpray#_color-spray)_ (DC 17), _ [expeditious retreat](spells_dir/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells_dir/featherFall#_feather-fall)_, _ [grease](spells_dir/grease#_grease)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [mount](spells_dir/mount#_mount)_
 
-0 (at will)—_ [acid splash](spells/acidSplash#_acid-splash)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [read magic](spells/readMagic#_read-magic)_
+0 (at will)—_ [acid splash](spells_dir/acidSplash#_acid-splash)_, _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [read magic](spells_dir/readMagic#_read-magic)_
 
 **Opposition Schools** evocation, necromancy
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_, _ [magic circle against good](spells/magicCircleAgainstGood#_magic-circle-against-good)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (fire), _ [resist energy](spells/resistEnergy#_resist-energy)_ (electricity), and _ [see invisibility](spells/seeInvisibility#_see-invisibility)_.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [magic circle against good](spells_dir/magicCircleAgainstGood#_magic-circle-against-good)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (fire), _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (electricity), and _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_.
 
-**During Combat** The wizard leads with _ [mass hold person](spells/holdPerson#_hold-person-mass)_, followed by widened _ [black tentacles](spells/blackTentacles#_black-tentacles)_ or _ [incendiary cloud](spells/incendiaryCloud#_incendiary-cloud)_ if opponents are immune to enchantments. He banishes creatures summoned by foes, charms enemies with his staff, summons allies to protect him, turns uncharmed enemies against each other with _ [confusion](spells/confusion#_confusion)_, and targets leaders with _ [disintegrate](spells/disintegrate#_disintegrate)_ or _ [phantasmal killer](spells/phantasmalKiller#_phantasmal-killer)_.
+**During Combat** The wizard leads with _ [mass hold person](spells_dir/holdPerson#_hold-person-mass)_, followed by widened _ [black tentacles](spells_dir/blackTentacles#_black-tentacles)_ or _ [incendiary cloud](spells_dir/incendiaryCloud#_incendiary-cloud)_ if opponents are immune to enchantments. He banishes creatures summoned by foes, charms enemies with his staff, summons allies to protect him, turns uncharmed enemies against each other with _ [confusion](spells_dir/confusion#_confusion)_, and targets leaders with _ [disintegrate](spells_dir/disintegrate#_disintegrate)_ or _ [phantasmal killer](spells_dir/phantasmalKiller#_phantasmal-killer)_.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor), [magic circle against good](spells/magicCircleAgainstGood#_magic-circle-against-good), [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (fire), _ [resist energy](spells/resistEnergy#_resist-energy)_ (electricity), and _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, the wizard's statistics are **Senses** normal; **AC** 18, touch 15, flat-footed 15; **Defensive Abilities** none; **Immune** none; **Resist** none.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor), [magic circle against good](spells_dir/magicCircleAgainstGood#_magic-circle-against-good), [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (fire), _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (electricity), and _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, the wizard's statistics are **Senses** normal; **AC** 18, touch 15, flat-footed 15; **Defensive Abilities** none; **Immune** none; **Resist** none.
 
 Statistics
 
@@ -1158,13 +1158,13 @@ Statistics
 
 **Feats** [Augment Summoning](feats#_augment-summoning), [Combat Casting](feats#_combat-casting), [Craft Wondrous Item](feats#_craft-wondrous-item), [Dodge](feats#_dodge), [Extend Spell](feats#_extend-spell), Greater [Spell Focus](feats#_spell-focus) (conjuration), [Improved Initiative](feats#_improved-initiative), [Quicken Spell](feats#_quicken-spell), [Scribe Scroll](feats#_scribe-scroll), [Spell Focus](feats#_spell-focus) (Conjuration), [Spell Penetration](feats#_spell-penetration), [Toughness](feats#_toughness), [Widen Spell](feats#_widen-spell)
 
-**Skills** [Bluff](skills/bluff#_bluff) +16, [Diplomacy](skills/diplomacy#_diplomacy) +16, [Fly](skills/fly#_fly) +10, [Knowledge](skills/knowledge#_knowledge) (arcana, planes) +24, [Knowledge](skills/knowledge#_knowledge) (dungeoneering, geography) +14, [Knowledge](skills/knowledge#_knowledge) (nature, religion) +19, Perception +15, [Ride](skills/ride#_ride) +7, [Sense Motive](skills/senseMotive#_sense-motive) +10, [Spellcraft](skills/spellcraft#_spellcraft) +24
+**Skills** [Bluff](skills_dir/bluff#_bluff) +16, [Diplomacy](skills_dir/diplomacy#_diplomacy) +16, [Fly](skills_dir/fly#_fly) +10, [Knowledge](skills_dir/knowledge#_knowledge) (arcana, planes) +24, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering, geography) +14, [Knowledge](skills_dir/knowledge#_knowledge) (nature, religion) +19, Perception +15, [Ride](skills_dir/ride#_ride) +7, [Sense Motive](skills_dir/senseMotive#_sense-motive) +10, [Spellcraft](skills_dir/spellcraft#_spellcraft) +24
 
 **Languages** Abyssal, Aquan, Auran, Common, Ignan, Infernal, Terran
 
 **SQ** arcane bond (staff), summoner's charm (7 rounds)
 
-**Combat Gear** _potion of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_, _potion of [invisibility](spells/invisibility#_invisibility)_, _scroll of [summon monster VIII](spells/summonMonster#_summon-monster-viii)_, _ [staff of charming](magicItems/staves#_staff-of-charming)_; **Other Gear** _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +3_, _ [belt of mighty constitution](magicItems/wondrousItems#_belt-of-mighty-constitution) +2_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +3_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of protection](magicItems/rings#_ring-of-protection) +2_, spellbook, 2,150 gp
+**Combat Gear** _potion of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_, _scroll of [summon monster VIII](spells_dir/summonMonster#_summon-monster-viii)_, _ [staff of charming](magicItems_dir/staves#_staff-of-charming)_; **Other Gear** _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +3_, _ [belt of mighty constitution](magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +3_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +2_, spellbook, 2,150 gp
 
 A cruel conjurer directs his minions as if they were pawns in a game.
 
@@ -1180,7 +1180,7 @@ Deep Marshal CR 15
 
 LN Medium humanoid (dwarf)
 
-**Init** +6; **Senses** darkvision 60 ft., _ [see invisibility](spells/seeInvisibility#_see-invisibility)_; Perception +17
+**Init** +6; **Senses** darkvision 60 ft., _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_; Perception +17
 
 Defense
 
@@ -1190,47 +1190,47 @@ Defense
 
 **Fort** +13, **Ref** +11, **Will** +18; +4 vs. mind-affecting, +2 vs. poison, spells, and spell-like abilities
 
-**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants), energy absorption (48/day), _ [mind blank](spells/mindBlank#_mind-blank)_; **DR** 10/adamantine (150 points); **Immune** fire (120 points); **Resist** cold 10, electricity 30
+**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants), energy absorption (48_dir/day), _ [mind blank](spells_dir/mindBlank#_mind-blank)_; **DR** 10_dir/adamantine (150 points); **Immune** fire (120 points); **Resist** cold 10, electricity 30
 
 Offense
 
 **Speed** 20 ft.
 
-**Melee** _+1 [spell storing](magicItems/weapons#_spell-storing) warhammer _+8/+3 (1d8/×3)
+**Melee** _+1 [spell storing](magicItems_dir/weapons#_spell-storing) warhammer _+8_dir/+3 (1d8_dir/×3)
 
-**Ranged** light crossbow +10 (1d8/19–20)
+**Ranged** light crossbow +10 (1d8_dir/19–20)
 
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids
 
 **Abjurer Spells Prepared** (CL 16th; concentration +22)
 
-8th—quickened_ [charm monster](spells/charmMonster#_charm-monster)_ (DC 23), _ [mind blank](spells/mindBlank#_mind-blank)_, _ [prismatic wall](spells/prismaticWall#_prismatic-wall)_
+8th—quickened_ [charm monster](spells_dir/charmMonster#_charm-monster)_ (DC 23), _ [mind blank](spells_dir/mindBlank#_mind-blank)_, _ [prismatic wall](spells_dir/prismaticWall#_prismatic-wall)_
 
-7th—_ [banishment](spells/banishment#_banishment)_ (DC 23), quickened_ [haste](spells/haste#_haste), [mass hold person](spells/holdPerson#_hold-person-mass)_ (DC 25), _ [phase door](spells/phaseDoor#_phase-door)_
+7th—_ [banishment](spells_dir/banishment#_banishment)_ (DC 23), quickened_ [haste](spells_dir/haste#_haste), [mass hold person](spells_dir/holdPerson#_hold-person-mass)_ (DC 25), _ [phase door](spells_dir/phaseDoor#_phase-door)_
 
-6th—_ [globe of invulnerability](spells/globeOfInvulnerability#_globe-of-invulnerability)_, _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_, _ [greater heroism](spells/heroism#_heroism-greater)_, _ [mass bull's strength](spells/bullSStrength#_bull-s-strength-mass)_, _ [mass suggestion](spells/suggestion#_suggestion-mass)_ (DC 24)
+6th—_ [globe of invulnerability](spells_dir/globeOfInvulnerability#_globe-of-invulnerability)_, _ [greater dispel magic](spells_dir/dispelMagic#_dispel-magic-greater)_, _ [greater heroism](spells_dir/heroism#_heroism-greater)_, _ [mass bull's strength](spells_dir/bullSStrength#_bull-s-strength-mass)_, _ [mass suggestion](spells_dir/suggestion#_suggestion-mass)_ (DC 24)
 
-5th—_ [break enchantment](spells/breakEnchantment#_break-enchantment)_, stilled _ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [dominate person](spells/dominatePerson#_dominate-person)_ (2, DC 23), _ [telepathic bond](spells/telepathicBond#_telepathic-bond)_, _ [wall of stone](spells/wallOfStone#_wall-of-stone)_
+5th—_ [break enchantment](spells_dir/breakEnchantment#_break-enchantment)_, stilled _ [dimension door](spells_dir/dimensionDoor#_dimension-door)_, _ [dominate person](spells_dir/dominatePerson#_dominate-person)_ (2, DC 23), _ [telepathic bond](spells_dir/telepathicBond#_telepathic-bond)_, _ [wall of stone](spells_dir/wallOfStone#_wall-of-stone)_
 
-4th—_ [arcane eye](spells/arcaneEye#_arcane-eye)_, _ [charm monster](spells/charmMonster#_charm-monster)_ (DC 22), _ [confusion](spells/confusion#_confusion)_ (DC 22), _ [remove curse](spells/removeCurse#_remove-curse)_, _ [solid fog](spells/solidFog#_solid-fog)_, _ [stoneskin](spells/stoneskin#_stoneskin)_
+4th—_ [arcane eye](spells_dir/arcaneEye#_arcane-eye)_, _ [charm monster](spells_dir/charmMonster#_charm-monster)_ (DC 22), _ [confusion](spells_dir/confusion#_confusion)_ (DC 22), _ [remove curse](spells_dir/removeCurse#_remove-curse)_, _ [solid fog](spells_dir/solidFog#_solid-fog)_, _ [stoneskin](spells_dir/stoneskin#_stoneskin)_
 
-3rd—_ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [haste](spells/haste#_haste)_ (DC 19), _ [hold person](spells/holdPerson#_hold-person)_ (2, DC 21), _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_, _ [wind wall](spells/windWall#_wind-wall)_
+3rd—_ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_, _ [haste](spells_dir/haste#_haste)_ (DC 19), _ [hold person](spells_dir/holdPerson#_hold-person)_ (2, DC 21), _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_, _ [wind wall](spells_dir/windWall#_wind-wall)_
 
-2nd—_ [acid arrow](spells/acidArrow#_acid-arrow)_, _ [hideous laughter](spells/hideousLaughter#_hideous-laughter)_ (DC 20), _ [invisibility](spells/invisibility#_invisibility)_, _ [levitate](spells/levitate#_levitate)_, _ [resist energy](spells/resistEnergy#_resist-energy)_ (2), _ [see invisibility](spells/seeInvisibility#_see-invisibility)_
+2nd—_ [acid arrow](spells_dir/acidArrow#_acid-arrow)_, _ [hideous laughter](spells_dir/hideousLaughter#_hideous-laughter)_ (DC 20), _ [invisibility](spells_dir/invisibility#_invisibility)_, _ [levitate](spells_dir/levitate#_levitate)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (2), _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_
 
-1st—_ [alarm](spells/alarm#_alarm)_, _ [charm person](spells/charmPerson#_charm-person)_ (DC 19), _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells/featherFall#_feather-fall)_, _ [grease](spells/grease#_grease)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [true strike](spells/trueStrike#_true-strike)_
+1st—_ [alarm](spells_dir/alarm#_alarm)_, _ [charm person](spells_dir/charmPerson#_charm-person)_ (DC 19), _ [expeditious retreat](spells_dir/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells_dir/featherFall#_feather-fall)_, _ [grease](spells_dir/grease#_grease)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [true strike](spells_dir/trueStrike#_true-strike)_
 
-0 (at will)—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [message](spells/message#_message)_, _ [resistance](spells/resistance#_resistance)_
+0 (at will)—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [message](spells_dir/message#_message)_, _ [resistance](spells_dir/resistance#_resistance)_
 
 **Opposition Schools** evocation, necromancy
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_, _ [mind blank](spells/mindBlank#_mind-blank)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (fire), _ [resist energy](spells/resistEnergy#_resist-energy)_ (electricity), _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, and _ [stoneskin](spells/stoneskin#_stoneskin)_. She casts _ [telepathic bond](spells/telepathicBond#_telepathic-bond)_ on allies.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [mind blank](spells_dir/mindBlank#_mind-blank)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (fire), _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (electricity), _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, and _ [stoneskin](spells_dir/stoneskin#_stoneskin)_. She casts _ [telepathic bond](spells_dir/telepathicBond#_telepathic-bond)_ on allies.
 
-**During Combat** The wizard's warhammer contains _ [hold person](spells/holdPerson#_hold-person)_.
+**During Combat** The wizard's warhammer contains _ [hold person](spells_dir/holdPerson#_hold-person)_.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, _ [mind blank](spells/mindBlank#_mind-blank)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, and _ [stoneskin](spells/stoneskin#_stoneskin)_, the wizard's statistics are **Senses** darkvision 60 ft.; **AC** 22, touch 17, flat-footed 19; **Fort** +13, **Ref** +11, **Will** +18; +2 vs. poison, spells, and spell-like abilities; **Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants), energy absorption (48/day); **DR** none; **Immune** none; **Resist** cold 10.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [mind blank](spells_dir/mindBlank#_mind-blank)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, and _ [stoneskin](spells_dir/stoneskin#_stoneskin)_, the wizard's statistics are **Senses** darkvision 60 ft.; **AC** 22, touch 17, flat-footed 19; **Fort** +13, **Ref** +11, **Will** +18; +2 vs. poison, spells, and spell-like abilities; **Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants), energy absorption (48_dir/day); **DR** none; **Immune** none; **Resist** cold 10.
 
 Statistics
 
@@ -1240,13 +1240,13 @@ Statistics
 
 **Feats** [Combat Casting](feats#_combat-casting), [Craft Wondrous Item](feats#_craft-wondrous-item), [Dodge](feats#_dodge), [Forge Ring](feats#_forge-ring), Greater [Spell Focus](feats#_spell-focus) (enchantment), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Quicken Spell](feats#_quicken-spell), [Scribe Scroll](feats#_scribe-scroll), [Spell Focus](feats#_spell-focus) (enchantment), [Spell Penetration](feats#_spell-penetration), [Still Spell](feats#_still-spell)
 
-**Skills** [Appraise](skills/appraise#_appraise) +14 (+16 to assess nonmagical metals or gemstones), [Climb](skills/climb#_climb) +2, [Craft](skills/craft#_craft) (sculpture) +14, [Knowledge](skills/knowledge#_knowledge) (arcana, dungeoneering, engineering) +24, [Knowledge](skills/knowledge#_knowledge) (geography, history, planes) +19, Perception +17 (+19 to notice unusual stonework), [Sense Motive](skills/senseMotive#_sense-motive) +12, [Spellcraft](skills/spellcraft#_spellcraft) +24, [Survival](skills/survival#_survival) +7, [Swim](skills/swim#_swim) +2
+**Skills** [Appraise](skills_dir/appraise#_appraise) +14 (+16 to assess nonmagical metals or gemstones), [Climb](skills_dir/climb#_climb) +2, [Craft](skills_dir/craft#_craft) (sculpture) +14, [Knowledge](skills_dir/knowledge#_knowledge) (arcana, dungeoneering, engineering) +24, [Knowledge](skills_dir/knowledge#_knowledge) (geography, history, planes) +19, Perception +17 (+19 to notice unusual stonework), [Sense Motive](skills_dir/senseMotive#_sense-motive) +12, [Spellcraft](skills_dir/spellcraft#_spellcraft) +24, [Survival](skills_dir/survival#_survival) +7, [Swim](skills_dir/swim#_swim) +2
 
 **Languages** Common, Dwarven, Giant, Gnome, Goblin, Orc, Terran, Undercommon
 
-**SQ** arcane bond (warhammer), protective ward (6 rounds, +4 deflection, 9/day)
+**SQ** arcane bond (warhammer), protective ward (6 rounds, +4 deflection, 9_dir/day)
 
-**Combat Gear** _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [maze](spells/maze#_maze)_,_ scroll of [summon monster VIII](spells/summonMonster#_summon-monster-viii)_; **Other Gear** _+1 [spell storing](magicItems/weapons#_spell-storing) warhammer, [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +3_, _ [bag of holding](magicItems/wondrousItems#_bag-of-holding)_ (type I), _ [belt of mighty constitution](magicItems/wondrousItems#_belt-of-mighty-constitution) +2_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +4_, _ [gloves of arrow snaring](magicItems/wondrousItems#_gloves-of-arrow-snaring)_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of force shield](magicItems/rings#_ring-of-force-shield)_, _ [ring of protection](magicItems/rings#_ring-of-protection) +4_, spellbook, diamond dust (worth 500 gp), 700 gp
+**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, _scroll of [maze](spells_dir/maze#_maze)_,_ scroll of [summon monster VIII](spells_dir/summonMonster#_summon-monster-viii)_; **Other Gear** _+1 [spell storing](magicItems_dir/weapons#_spell-storing) warhammer, [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +3_, _ [bag of holding](magicItems_dir/wondrousItems#_bag-of-holding)_ (type I), _ [belt of mighty constitution](magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +4_, _ [gloves of arrow snaring](magicItems_dir/wondrousItems#_gloves-of-arrow-snaring)_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of force shield](magicItems_dir/rings#_ring-of-force-shield)_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +4_, spellbook, diamond dust (worth 500 gp), 700 gp
 
 These wizards protect underground communities.
 
@@ -1268,45 +1268,45 @@ Defense
 
 **Fort** +10, **Ref** +12, **Will** +16; +2 vs. illusions
 
-**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants), _ [moment of prescience](spells/momentOfPrescience#_moment-of-prescience), [nondetection](spells/nondetection#_nondetection)_; **Immune** _ [detect thoughts](spells/detectThoughts#_detect-thoughts), [discern lies](spells/discernLies#_discern-lies)_, alignment detection
+**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants), _ [moment of prescience](spells_dir/momentOfPrescience#_moment-of-prescience), [nondetection](spells_dir/nondetection#_nondetection)_; **Immune** _ [detect thoughts](spells_dir/detectThoughts#_detect-thoughts), [discern lies](spells_dir/discernLies#_discern-lies)_, alignment detection
 
 Offense
 
 **Speed** 20 ft.
 
-**Melee** _+1 dagger_ +10/+5 (1d3+1/19–20)
+**Melee** _+1 dagger_ +10_dir/+5 (1d3+1_dir/19–20)
 
-**Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, hand of the apprentice (9/day), metamagic mastery (5/day)
+**Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, hand of the apprentice (9_dir/day), metamagic mastery (5_dir/day)
 
 **Wizard Spells Prepared** (CL 17th; concentration +23)
 
-9th—_ [power word kill](spells/powerWordKill#_power-word-kill)_
+9th—_ [power word kill](spells_dir/powerWordKill#_power-word-kill)_
 
-8th—_ [horrid wilting](spells/horridWilting#_horrid-wilting)_ (DC 24), _ [moment of prescience](spells/momentOfPrescience#_moment-of-prescience)_
+8th—_ [horrid wilting](spells_dir/horridWilting#_horrid-wilting)_ (DC 24), _ [moment of prescience](spells_dir/momentOfPrescience#_moment-of-prescience)_
 
-7th—quickened_ [hold person](spells/holdPerson#_hold-person)_ (DC 24), _ [insanity](spells/insanity#_insanity)_ (DC 24), _ [statue](spells/statue#_statue)_
+7th—quickened_ [hold person](spells_dir/holdPerson#_hold-person)_ (DC 24), _ [insanity](spells_dir/insanity#_insanity)_ (DC 24), _ [statue](spells_dir/statue#_statue)_
 
-6th—_ [chain lightning](spells/chainLightning#_chain-lightning)_ (DC 22), _ [disintegrate](spells/disintegrate#_disintegrate)_ (DC 23), _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_, _ [mass suggestion](spells/suggestion#_suggestion-mass)_ (DC 23), _ [true seeing](spells/trueSeeing#_true-seeing)_
+6th—_ [chain lightning](spells_dir/chainLightning#_chain-lightning)_ (DC 22), _ [disintegrate](spells_dir/disintegrate#_disintegrate)_ (DC 23), _ [greater dispel magic](spells_dir/dispelMagic#_dispel-magic-greater)_, _ [mass suggestion](spells_dir/suggestion#_suggestion-mass)_ (DC 23), _ [true seeing](spells_dir/trueSeeing#_true-seeing)_
 
-5th—_ [baleful polymorph](spells/balefulPolymorph#_baleful-polymorph)_ (DC 22), stilled _ [dimension door](spells/dimensionDoor#_dimension-door), [dominate person](spells/dominatePerson#_dominate-person)_ (DC 22), _ [passwall](spells/passwall#_passwall)_, _ [prying eyes](spells/pryingEyes#_prying-eyes)_
+5th—_ [baleful polymorph](spells_dir/balefulPolymorph#_baleful-polymorph)_ (DC 22), stilled _ [dimension door](spells_dir/dimensionDoor#_dimension-door), [dominate person](spells_dir/dominatePerson#_dominate-person)_ (DC 22), _ [passwall](spells_dir/passwall#_passwall)_, _ [prying eyes](spells_dir/pryingEyes#_prying-eyes)_
 
-4th—_ [bestow curse](spells/bestowCurse#_bestow-curse)_ (DC 20), _ [confusion](spells/confusion#_confusion)_ (DC 21), _ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [locate creature](spells/locateCreature#_locate-creature)_, _ [solid fog](spells/solidFog#_solid-fog)_
+4th—_ [bestow curse](spells_dir/bestowCurse#_bestow-curse)_ (DC 20), _ [confusion](spells_dir/confusion#_confusion)_ (DC 21), _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, _ [locate creature](spells_dir/locateCreature#_locate-creature)_, _ [solid fog](spells_dir/solidFog#_solid-fog)_
 
-3rd—_ [clairaudience/clairvoyance](spells/clairaudienceClairvoyance#_clairaudience-clairvoyance)_, _ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [hold person](spells/holdPerson#_hold-person)_ (DC 20), _ [nondetection](spells/nondetection#_nondetection)_, _ [slow](spells/slow#_slow)_ (DC 20)
+3rd—_ [clairaudience_dir/clairvoyance](spells_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance)_, _ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_, _ [hold person](spells_dir/holdPerson#_hold-person)_ (DC 20), _ [nondetection](spells_dir/nondetection#_nondetection)_, _ [slow](spells_dir/slow#_slow)_ (DC 20)
 
-2nd—_ [alter self](spells/alterSelf#_alter-self)_, _ [darkvision](spells/darkvision#_darkvision)_, _ [detect thoughts](spells/detectThoughts#_detect-thoughts)_ (DC 18), _ [invisibility](spells/invisibility#_invisibility)_ (2), _ [knock](spells/knock#_knock)_
+2nd—_ [alter self](spells_dir/alterSelf#_alter-self)_, _ [darkvision](spells_dir/darkvision#_darkvision)_, _ [detect thoughts](spells_dir/detectThoughts#_detect-thoughts)_ (DC 18), _ [invisibility](spells_dir/invisibility#_invisibility)_ (2), _ [knock](spells_dir/knock#_knock)_
 
-1st—_ [charm person](spells/charmPerson#_charm-person)_ (DC 18), _ [feather fall](spells/featherFall#_feather-fall)_, _ [grease](spells/grease#_grease)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_
+1st—_ [charm person](spells_dir/charmPerson#_charm-person)_ (DC 18), _ [feather fall](spells_dir/featherFall#_feather-fall)_, _ [grease](spells_dir/grease#_grease)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [magic missile](spells_dir/magicMissile#_magic-missile)_, _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_
 
-0 (at will)—_ [detect magic](spells/detectMagic#_detect-magic)_, _ [detect poison](spells/detectPoison#_detect-poison)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [open/close](spells/openClose#_open-close)_
+0 (at will)—_ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [detect poison](spells_dir/detectPoison#_detect-poison)_, _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [open_dir/close](spells_dir/openClose#_open-close)_
 
 Tactics
 
-**Before Combat** The wizard casts _ [darkvision](spells/darkvision#_darkvision)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [moment of prescience](spells/momentOfPrescience#_moment-of-prescience)_, _ [nondetection](spells/nondetection#_nondetection)_, and _ [statue](spells/statue#_statue)_.
+**Before Combat** The wizard casts _ [darkvision](spells_dir/darkvision#_darkvision)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [moment of prescience](spells_dir/momentOfPrescience#_moment-of-prescience)_, _ [nondetection](spells_dir/nondetection#_nondetection)_, and _ [statue](spells_dir/statue#_statue)_.
 
-**During Combat** The wizard prefers to evade combat by casting _ [dimension door](spells/dimensionDoor#_dimension-door)_ or _ [greater invisibility](spells/invisibility#_invisibility-greater)_.
+**During Combat** The wizard prefers to evade combat by casting _ [dimension door](spells_dir/dimensionDoor#_dimension-door)_ or _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_.
 
-**Base Statistics** Without _ [darkvision](spells/darkvision#_darkvision)_, _ [mage armor](spells/mageArmor#_mage-armor)_, and _ [moment of prescience](spells/momentOfPrescience#_moment-of-prescience),_ the wizard's statistics are **Senses** low-light vision; **AC** 20, touch 17, flat-footed 16; **Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants).
+**Base Statistics** Without _ [darkvision](spells_dir/darkvision#_darkvision)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, and _ [moment of prescience](spells_dir/momentOfPrescience#_moment-of-prescience),_ the wizard's statistics are **Senses** low-light vision; **AC** 20, touch 17, flat-footed 16; **Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants).
 
 Statistics
 
@@ -1316,13 +1316,13 @@ Statistics
 
 **Feats** [Combat Casting](feats#_combat-casting), [Combat Expertise](feats#_combat-expertise), [Craft Wondrous Item](feats#_craft-wondrous-item), [Dodge](feats#_dodge), [Extend Spell](feats#_extend-spell), [Improved Initiative](feats#_improved-initiative), [Quicken Spell](feats#_quicken-spell), [Scribe Scroll](feats#_scribe-scroll), [Silent Spell](feats#_silent-spell), [Spell Focus](feats#_spell-focus) (enchantment), [Spell Focus](feats#_spell-focus) (transmutation), [Spell Penetration](feats#_spell-penetration), [Still Spell](feats#_still-spell)
 
-**Skills** [Bluff](skills/bluff#_bluff) +15, [Climb](skills/climb#_climb) +5, [Craft](skills/craft#_craft) (alchemy) +14, [Diplomacy](skills/diplomacy#_diplomacy) +5, [Disguise](skills/disguise#_disguise) +10, [Fly](skills/fly#_fly) +13, [Knowledge](skills/knowledge#_knowledge) (arcana) +19, [Knowledge](skills/knowledge#_knowledge) (engineering, geography, history, local, nobility, religion) +14, Perception +19, [Sense Motive](skills/senseMotive#_sense-motive) +17, [Spellcraft](skills/spellcraft#_spellcraft) +19, [Stealth](skills/stealth#_stealth) +22, [Use Magic Device](skills/useMagicDevice#_use-magic-device) +13
+**Skills** [Bluff](skills_dir/bluff#_bluff) +15, [Climb](skills_dir/climb#_climb) +5, [Craft](skills_dir/craft#_craft) (alchemy) +14, [Diplomacy](skills_dir/diplomacy#_diplomacy) +5, [Disguise](skills_dir/disguise#_disguise) +10, [Fly](skills_dir/fly#_fly) +13, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +19, [Knowledge](skills_dir/knowledge#_knowledge) (engineering, geography, history, local, nobility, religion) +14, Perception +19, [Sense Motive](skills_dir/senseMotive#_sense-motive) +17, [Spellcraft](skills_dir/spellcraft#_spellcraft) +19, [Stealth](skills_dir/stealth#_stealth) +22, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +13
 
 **Languages** Common, Draconic, Dwarven, Elven, Gnome, Halfling, Infernal, Orc, Sylvan
 
 **SQ** arcane bond (lizard)
 
-**Combat Gear** _ [pearl of power](magicItems/wondrousItems#_pearl-of-power)_ (5th), _potions of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_ (2), _potions of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_ (2), _potions of [delay poison](spells/delayPoison#_delay-poison)_ (3), _potion of [glibness](spells/glibness#_glibness)_, _potions of [invisibility](spells/invisibility#_invisibility)_ (2), _scrolls of [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_ (2), _scroll of [dimension door](spells/dimensionDoor#_dimension-door)_, _scrolls of [fly](spells/fly)_ (2), _scroll of [greater invisibility](spells/invisibility#_invisibility-greater)_, _scrolls of [scorching ray](spells/scorchingRay#_scorching-ray)_ (2), _scrolls of [see invisibility](spells/seeInvisibility#_see-invisibility)_ (2), _scrolls of [teleport](spells/teleport#_teleport)_ (2), dark reaver powder (2), deathblade (2); **Other Gear** _+1 dagger_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +3_, _ [bag of holding](magicItems/wondrousItems#_bag-of-holding)_ (type I), _ [belt of incredible dexterity](magicItems/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +4_, _ [hat of disguise](magicItems/wondrousItems#_hat-of-disguise)_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of mind shielding](magicItems/rings#_ring-of-mind-shielding)_, _ [ring of protection](magicItems/rings#_ring-of-protection) +2_, _ [slippers of spider climbing](magicItems/wondrousItems#_slippers-of-spider-climbing)_, eye ointment for _ [true seeing](spells/trueSeeing#_true-seeing)_ (worth 500 gp), silver mirror (worth 1,000 gp), spellbook, 1,823 gp
+**Combat Gear** _ [pearl of power](magicItems_dir/wondrousItems#_pearl-of-power)_ (5th), _potions of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (2), _potions of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _potions of [delay poison](spells_dir/delayPoison#_delay-poison)_ (3), _potion of [glibness](spells_dir/glibness#_glibness)_, _potions of [invisibility](spells_dir/invisibility#_invisibility)_ (2), _scrolls of [detect secret doors](spells_dir/detectSecretDoors#_detect-secret-doors)_ (2), _scroll of [dimension door](spells_dir/dimensionDoor#_dimension-door)_, _scrolls of [fly](spells_dir/fly)_ (2), _scroll of [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, _scrolls of [scorching ray](spells_dir/scorchingRay#_scorching-ray)_ (2), _scrolls of [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_ (2), _scrolls of [teleport](spells_dir/teleport#_teleport)_ (2), dark reaver powder (2), deathblade (2); **Other Gear** _+1 dagger_, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +3_, _ [bag of holding](magicItems_dir/wondrousItems#_bag-of-holding)_ (type I), _ [belt of incredible dexterity](magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +4_, _ [hat of disguise](magicItems_dir/wondrousItems#_hat-of-disguise)_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +4_, _ [ring of mind shielding](magicItems_dir/rings#_ring-of-mind-shielding)_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +2_, _ [slippers of spider climbing](magicItems_dir/wondrousItems#_slippers-of-spider-climbing)_, eye ointment for _ [true seeing](spells_dir/trueSeeing#_true-seeing)_ (worth 500 gp), silver mirror (worth 1,000 gp), spellbook, 1,823 gp
 
 The mage spy is a diplomat and saboteur.
 
@@ -1334,7 +1334,7 @@ Grand Necromancer CR 17
 
 NE Medium humanoid (human)
 
-**Init** +5; **Senses** _ [see invisibility](spells/seeInvisibility#_see-invisibility)_; Perception +24
+**Init** +5; **Senses** _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_; Perception +24
 
 Defense
 
@@ -1344,51 +1344,51 @@ Defense
 
 **Fort** +14, **Ref** +11, **Will** +17; +4 vs. mind-affecting
 
-**Defensive Abilities** _ [mind blank](spells/mindBlank#_mind-blank), [spell turning](spells/spellTurning#_spell-turning)_; **Resist** cold 20, fire 30
+**Defensive Abilities** _ [mind blank](spells_dir/mindBlank#_mind-blank), [spell turning](spells_dir/spellTurning#_spell-turning)_; **Resist** cold 20, fire 30
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** mwk silver dagger +9/+4 (1d4–1/19–20)
+**Melee** mwk silver dagger +9_dir/+4 (1d4–1_dir/19–20)
 
-**Special Attacks** channel negative energy (DC 19, 11/day)
+**Special Attacks** channel negative energy (DC 19, 11_dir/day)
 
 **Arcane School Spell-Like Abilities** (CL 18th; concentration +26)
 
-11/day—grave touch (9 rounds)
+11_dir/day—grave touch (9 rounds)
 
 **Necromancer Spells Prepared** (CL 18th; concentration +26)
 
-9th—_ [energy drain](spells/energyDrain#_energy-drain)_ (DC 29), _ [time stop](spells/timeStop#_time-stop)_, _ [wail of the banshee](spells/wailOfTheBanshee#_wail-of-the-banshee)_ (DC 29)
+9th—_ [energy drain](spells_dir/energyDrain#_energy-drain)_ (DC 29), _ [time stop](spells_dir/timeStop#_time-stop)_, _ [wail of the banshee](spells_dir/wailOfTheBanshee#_wail-of-the-banshee)_ (DC 29)
 
-8th—_ [create greater undead](spells/createGreaterUndead#_create-greater-undead)_, _ [horrid wilting](spells/horridWilting#_horrid-wilting)_ (3, DC 28), _ [mind blank](spells/mindBlank#_mind-blank)_
+8th—_ [create greater undead](spells_dir/createGreaterUndead#_create-greater-undead)_, _ [horrid wilting](spells_dir/horridWilting#_horrid-wilting)_ (3, DC 28), _ [mind blank](spells_dir/mindBlank#_mind-blank)_
 
-7th—_ [ethereal jaunt](spells/etherealJaunt#_ethereal-jaunt)_, _ [finger of death](spells/fingerOfDeath#_finger-of-death)_ (DC 27), quickened_ [fireball](spells/fireball#_fireball)_ (DC 22), _ [spell turning](spells/spellTurning#_spell-turning)_, _ [waves of exhaustion](spells/wavesOfExhaustion#_waves-of-exhaustion)_
+7th—_ [ethereal jaunt](spells_dir/etherealJaunt#_ethereal-jaunt)_, _ [finger of death](spells_dir/fingerOfDeath#_finger-of-death)_ (DC 27), quickened_ [fireball](spells_dir/fireball#_fireball)_ (DC 22), _ [spell turning](spells_dir/spellTurning#_spell-turning)_, _ [waves of exhaustion](spells_dir/wavesOfExhaustion#_waves-of-exhaustion)_
 
-6th—_ [chain lightning](spells/chainLightning#_chain-lightning)_ (DC 25), _ [create undead](spells/createUndead#_create-undead)_, _ [disintegrate](spells/disintegrate#_disintegrate)_ (DC 24), _ [eyebite](spells/eyebite#_eyebite)_ (DC 26), maximized _ [vampiric touch](spells/vampiricTouch#_vampiric-touch) _(2)
+6th—_ [chain lightning](spells_dir/chainLightning#_chain-lightning)_ (DC 25), _ [create undead](spells_dir/createUndead#_create-undead)_, _ [disintegrate](spells_dir/disintegrate#_disintegrate)_ (DC 24), _ [eyebite](spells_dir/eyebite#_eyebite)_ (DC 26), maximized _ [vampiric touch](spells_dir/vampiricTouch#_vampiric-touch) _(2)
 
-5th—_ [cloudkill](spells/cloudkill#_cloudkill)_ (DC 23), quickened _ [magic missile](spells/magicMissile#_magic-missile)_, maximized _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [teleport](spells/teleport#_teleport)_, _ [wall of force](spells/wallOfForce#_wall-of-force)_, _ [waves of fatigue](spells/wavesOfFatigue#_waves-of-fatigue)_
+5th—_ [cloudkill](spells_dir/cloudkill#_cloudkill)_ (DC 23), quickened _ [magic missile](spells_dir/magicMissile#_magic-missile)_, maximized _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, _ [teleport](spells_dir/teleport#_teleport)_, _ [wall of force](spells_dir/wallOfForce#_wall-of-force)_, _ [waves of fatigue](spells_dir/wavesOfFatigue#_waves-of-fatigue)_
 
-4th—_ [animate dead](spells/animateDead#_animate-dead)_, _ [arcane eye](spells/arcaneEye#_arcane-eye)_, _ [bestow curse](spells/bestowCurse#_bestow-curse)_ (2, DC 24), _ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [fire shield](spells/fireShield#_fire-shield)_, maximized _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_
+4th—_ [animate dead](spells_dir/animateDead#_animate-dead)_, _ [arcane eye](spells_dir/arcaneEye#_arcane-eye)_, _ [bestow curse](spells_dir/bestowCurse#_bestow-curse)_ (2, DC 24), _ [dimension door](spells_dir/dimensionDoor#_dimension-door)_, _ [fire shield](spells_dir/fireShield#_fire-shield)_, maximized _ [ray of enfeeblement](spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_
 
-3rd—_ [blink](spells/blink#_blink)_, _ [dispel magic](spells/dispelMagic#_dispel-magic)_ (2), _ [fireball](spells/fireball#_fireball)_ (2, DC 22), _ [fly](spells/fly)_, _ [vampiric touch](spells/vampiricTouch#_vampiric-touch)_
+3rd—_ [blink](spells_dir/blink#_blink)_, _ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_ (2), _ [fireball](spells_dir/fireball#_fireball)_ (2, DC 22), _ [fly](spells_dir/fly)_, _ [vampiric touch](spells_dir/vampiricTouch#_vampiric-touch)_
 
-2nd—_ [blindness/deafness](spells/blindnessDeafness#_blindness-deafness)_ (DC 22), _ [darkvision](spells/darkvision#_darkvision)_, _ [false life](spells/falseLife#_false-life)_, _ [glitterdust](spells/glitterdust#_glitterdust)_ (DC 20), _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_
+2nd—_ [blindness_dir/deafness](spells_dir/blindnessDeafness#_blindness-deafness)_ (DC 22), _ [darkvision](spells_dir/darkvision#_darkvision)_, _ [false life](spells_dir/falseLife#_false-life)_, _ [glitterdust](spells_dir/glitterdust#_glitterdust)_ (DC 20), _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_, _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_
 
-1st—_ [cause fear](spells/causeFear#_cause-fear)_ (DC 21), _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells/featherFall#_feather-fall)_, _ [grease](spells/grease#_grease)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_
+1st—_ [cause fear](spells_dir/causeFear#_cause-fear)_ (DC 21), _ [expeditious retreat](spells_dir/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells_dir/featherFall#_feather-fall)_, _ [grease](spells_dir/grease#_grease)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [magic missile](spells_dir/magicMissile#_magic-missile)_, _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_
 
-0 (at will)—_ [bleed](spells/bleed#_bleed)_ (DC 20), _ [detect magic](spells/detectMagic#_detect-magic)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [read magic](spells/readMagic#_read-magic)_
+0 (at will)—_ [bleed](spells_dir/bleed#_bleed)_ (DC 20), _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [read magic](spells_dir/readMagic#_read-magic)_
 
 **Opposition Schools** enchantment, illusion
 
 Tactics
 
-**Before Combat** The wizard casts _ [false life](spells/falseLife#_false-life)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [mind blank](spells/mindBlank#_mind-blank)_, _ [resist energy](spells/resistEnergy#_resist-energy)_ (fire), _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, and _ [spell turning](spells/spellTurning#_spell-turning)_.
+**Before Combat** The wizard casts _ [false life](spells_dir/falseLife#_false-life)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [mind blank](spells_dir/mindBlank#_mind-blank)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (fire), _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, and _ [spell turning](spells_dir/spellTurning#_spell-turning)_.
 
-**During Combat** The wizard casts _ [time stop](spells/timeStop#_time-stop)_ and _ [energy drain](spells/energyDrain#_energy-drain)_ on the most dangerous-looking target, then thins out the ranks of his enemies with _ [chain lightning](spells/chainLightning#_chain-lightning)_.
+**During Combat** The wizard casts _ [time stop](spells_dir/timeStop#_time-stop)_ and _ [energy drain](spells_dir/energyDrain#_energy-drain)_ on the most dangerous-looking target, then thins out the ranks of his enemies with _ [chain lightning](spells_dir/chainLightning#_chain-lightning)_.
 
-**Base Statistics** Without _ [false life](spells/falseLife#_false-life)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [mind blank](spells/mindBlank#_mind-blank)_, _ [resist energy](spells/resistEnergy#_resist-energy)_ (fire), _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, and _ [spell turning](spells/spellTurning#_spell-turning)_, the wizard's statistics are **AC** 19, touch 16, flat-footed 18; **hp** 155; **Fort** +14, **Ref** +11, **Will** +17; **Defensive Abilities** none; **Resist** cold 20.
+**Base Statistics** Without _ [false life](spells_dir/falseLife#_false-life)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [mind blank](spells_dir/mindBlank#_mind-blank)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (fire), _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_, and _ [spell turning](spells_dir/spellTurning#_spell-turning)_, the wizard's statistics are **AC** 19, touch 16, flat-footed 18; **hp** 155; **Fort** +14, **Ref** +11, **Will** +17; **Defensive Abilities** none; **Resist** cold 20.
 
 Statistics
 
@@ -1398,13 +1398,13 @@ Statistics
 
 **Feats** [Alertness](feats#_alertness), [Combat Casting](feats#_combat-casting), [Command Undead](feats#_command-undead), [Craft Wondrous Item](feats#_craft-wondrous-item), [Extra Channel](feats#_extra-channel), [Forge Ring](feats#_forge-ring), Greater [Spell Focus](feats#_spell-focus) (necromancy), [Improved Channel](feats#_improved-channel), [Improved Initiative](feats#_improved-initiative), [Maximize Spell](feats#_maximize-spell), [Quicken Spell](feats#_quicken-spell), [Scribe Scroll](feats#_scribe-scroll), [Spell Focus](feats#_spell-focus) (evocation, necromancy), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (ray)
 
-**Skills** [Fly](skills/fly#_fly) +22, [Heal](skills/heal#_heal) +20, [Intimidate](skills/intimidate#_intimidate) +16, [Knowledge](skills/knowledge#_knowledge) (arcana, planes, religion) +29, [Knowledge](skills/knowledge#_knowledge) (history, local) +21, Perception +24, [Sense Motive](skills/senseMotive#_sense-motive) +24, [Spellcraft](skills/spellcraft#_spellcraft) +29, [Stealth](skills/stealth#_stealth) +19, [Use Magic Device](skills/useMagicDevice#_use-magic-device) +18
+**Skills** [Fly](skills_dir/fly#_fly) +22, [Heal](skills_dir/heal#_heal) +20, [Intimidate](skills_dir/intimidate#_intimidate) +16, [Knowledge](skills_dir/knowledge#_knowledge) (arcana, planes, religion) +29, [Knowledge](skills_dir/knowledge#_knowledge) (history, local) +21, Perception +24, [Sense Motive](skills_dir/senseMotive#_sense-motive) +24, [Spellcraft](skills_dir/spellcraft#_spellcraft) +29, [Stealth](skills_dir/stealth#_stealth) +19, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +18
 
 **Languages** Aklo, Common, Draconic, Dwarven, Elven, Gnome, Goblin, Orc, Undercommon
 
-**SQ** arcane bond (owl), life sight (30 feet, 18 rounds/day)
+**SQ** arcane bond (owl), life sight (30 feet, 18 rounds_dir/day)
 
-**Combat Gear** _potions of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_ (3), _scroll of [iron body](spells/ironBody#_iron-body)_, _scroll of [spell turning](spells/spellTurning#_spell-turning)_, _scroll of [wall of force](spells/wallOfForce#_wall-of-force)_, _wand of [inflict moderate wounds](spells/inflictModerateWounds#_inflict-moderate-wounds)_ (20 charges), _wand of [invisibility](spells/invisibility#_invisibility)_ (20 charges); **Other Gear** masterwork silver dagger, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +3_, _belt of mighty constitution +4_, _clear spindle [ioun stone](magicItems/wondrousItems#_ioun-stones)_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +4_, _dusty rose prism [ioun stone](magicItems/wondrousItems#_ioun-stones)_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +6_, _ [restorative ointment](magicItems/wondrousItems#_restorative-ointment)_, _ring of major [energy resistance](magicItems/armor#_armor-energy-resistance) _(cold), _ [ring of protection](magicItems/rings#_ring-of-protection) +4_, onyx gems (worth 2,000 gp), spellbook, 8,973 gp
+**Combat Gear** _potions of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (3), _scroll of [iron body](spells_dir/ironBody#_iron-body)_, _scroll of [spell turning](spells_dir/spellTurning#_spell-turning)_, _scroll of [wall of force](spells_dir/wallOfForce#_wall-of-force)_, _wand of [inflict moderate wounds](spells_dir/inflictModerateWounds#_inflict-moderate-wounds)_ (20 charges), _wand of [invisibility](spells_dir/invisibility#_invisibility)_ (20 charges); **Other Gear** masterwork silver dagger, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +3_, _belt of mighty constitution +4_, _clear spindle [ioun stone](magicItems_dir/wondrousItems#_ioun-stones)_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +4_, _dusty rose prism [ioun stone](magicItems_dir/wondrousItems#_ioun-stones)_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +6_, _ [restorative ointment](magicItems_dir/wondrousItems#_restorative-ointment)_, _ring of major [energy resistance](magicItems_dir/armor#_armor-energy-resistance) _(cold), _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +4_, onyx gems (worth 2,000 gp), spellbook, 8,973 gp
 
 These wizards are steeped in the evil of their profession.
 
@@ -1426,51 +1426,51 @@ Defense
 
 **Fort** +13, **Ref** +12, **Will** +17; +2 vs. enchantments, +4 vs. mind-affecting
 
-**Defensive Abilities** _ [mind blank](spells/mindBlank#_mind-blank), [misdirection](spells/misdirection#_misdirection), [spell turning](spells/spellTurning#_spell-turning)_; **Immune** electricity (120 points), fire (120 points); **Resist** cold 30
+**Defensive Abilities** _ [mind blank](spells_dir/mindBlank#_mind-blank), [misdirection](spells_dir/misdirection#_misdirection), [spell turning](spells_dir/spellTurning#_spell-turning)_; **Immune** electricity (120 points), fire (120 points); **Resist** cold 30
 
 Offense
 
 **Speed** 35 ft.
 
-**Melee** _+1 dagger_ +9/+4 (1d4/19–20)
+**Melee** _+1 dagger_ +9_dir/+4 (1d4_dir/19–20)
 
-**Special Attacks** aura of despair (19 rounds/day)
+**Special Attacks** aura of despair (19 rounds_dir/day)
 
 **Arcane School Spell-Like Abilities** (CL 19th; concentration +27)
 
-11/day—dazing touch
+11_dir/day—dazing touch
 
 **Enchanter Spells Prepared** (CL 19th; concentration +27)
 
-9th—_ [dominate monster](spells/dominateMonster#_dominate-monster)_ (DC 29), _ [power word kill](spells/powerWordKill#_power-word-kill)_, _ [summon monster IX](spells/summonMonster#_summon-monster-ix)_, _ [weird](spells/weird#_weird)_ (DC 27)
+9th—_ [dominate monster](spells_dir/dominateMonster#_dominate-monster)_ (DC 29), _ [power word kill](spells_dir/powerWordKill#_power-word-kill)_, _ [summon monster IX](spells_dir/summonMonster#_summon-monster-ix)_, _ [weird](spells_dir/weird#_weird)_ (DC 27)
 
-8th—_ [horrid wilting](spells/horridWilting#_horrid-wilting)_ (DC 26), _ [incendiary cloud](spells/incendiaryCloud#_incendiary-cloud)_ (DC 26), _ [irresistible dance](spells/irresistibleDance#_irresistible-dance)_, _ [mind blank](spells/mindBlank#_mind-blank)_, _ [polymorph any object](spells/polymorphAnyObject#_polymorph-any-object)_ (DC 26)
+8th—_ [horrid wilting](spells_dir/horridWilting#_horrid-wilting)_ (DC 26), _ [incendiary cloud](spells_dir/incendiaryCloud#_incendiary-cloud)_ (DC 26), _ [irresistible dance](spells_dir/irresistibleDance#_irresistible-dance)_, _ [mind blank](spells_dir/mindBlank#_mind-blank)_, _ [polymorph any object](spells_dir/polymorphAnyObject#_polymorph-any-object)_ (DC 26)
 
-7th—extended _ [acid fog](spells/acidFog#_acid-fog)_, quickened _ [hold person](spells/holdPerson#_hold-person)_ (2, DC 23), _ [mass hold person](spells/holdPerson#_hold-person-mass)_ (DC 27), project image (DC 25), _ [spell turning](spells/spellTurning#_spell-turning)_
+7th—extended _ [acid fog](spells_dir/acidFog#_acid-fog)_, quickened _ [hold person](spells_dir/holdPerson#_hold-person)_ (2, DC 23), _ [mass hold person](spells_dir/holdPerson#_hold-person-mass)_ (DC 27), project image (DC 25), _ [spell turning](spells_dir/spellTurning#_spell-turning)_
 
-6th—_ [disintegrate](spells/disintegrate#_disintegrate)_ (DC 24), _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_, _ [greater heroism](spells/heroism#_heroism-greater)_, _ [mass suggestion](spells/suggestion#_suggestion-mass)_ (DC 26), quickened _ [mirror image](spells/mirrorImage#_mirror-image)_, _ [repulsion](spells/repulsion#_repulsion)_ (DC 24)
+6th—_ [disintegrate](spells_dir/disintegrate#_disintegrate)_ (DC 24), _ [greater dispel magic](spells_dir/dispelMagic#_dispel-magic-greater)_, _ [greater heroism](spells_dir/heroism#_heroism-greater)_, _ [mass suggestion](spells_dir/suggestion#_suggestion-mass)_ (DC 26), quickened _ [mirror image](spells_dir/mirrorImage#_mirror-image)_, _ [repulsion](spells_dir/repulsion#_repulsion)_ (DC 24)
 
-5th—_ [cloudkill](spells/cloudkill#_cloudkill)_ (DC 23), _ [dominate person](spells/dominatePerson#_dominate-person)_ (DC 25), _ [feeblemind](spells/feeblemind#_feeblemind)_ (DC 25), _ [hold monster](spells/holdMonster#_hold-monster)_ (DC 25), _ [mind fog](spells/mindFog#_mind-fog)_ (DC 25), _ [teleport](spells/teleport#_teleport)_
+5th—_ [cloudkill](spells_dir/cloudkill#_cloudkill)_ (DC 23), _ [dominate person](spells_dir/dominatePerson#_dominate-person)_ (DC 25), _ [feeblemind](spells_dir/feeblemind#_feeblemind)_ (DC 25), _ [hold monster](spells_dir/holdMonster#_hold-monster)_ (DC 25), _ [mind fog](spells_dir/mindFog#_mind-fog)_ (DC 25), _ [teleport](spells_dir/teleport#_teleport)_
 
-4th—_ [bestow curse](spells/bestowCurse#_bestow-curse)_ (DC 22), _ [charm monster](spells/charmMonster#_charm-monster)_ (2, DC 24), _ [crushing despair](spells/crushingDespair#_crushing-despair)_ (DC 24), _ [enervation](spells/enervation#_enervation)_, _ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [phantasmal killer](spells/phantasmalKiller#_phantasmal-killer)_ (DC 22)
+4th—_ [bestow curse](spells_dir/bestowCurse#_bestow-curse)_ (DC 22), _ [charm monster](spells_dir/charmMonster#_charm-monster)_ (2, DC 24), _ [crushing despair](spells_dir/crushingDespair#_crushing-despair)_ (DC 24), _ [enervation](spells_dir/enervation#_enervation)_, _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, _ [phantasmal killer](spells_dir/phantasmalKiller#_phantasmal-killer)_ (DC 22)
 
-3rd—_ [displacement](spells/displacement#_displacement)_, _ [fly](spells/fly)_, _ [hold person](spells/holdPerson#_hold-person)_ (DC 23), _ [magic circle against good](spells/magicCircleAgainstGood#_magic-circle-against-good)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (2), slow (DC 21)
+3rd—_ [displacement](spells_dir/displacement#_displacement)_, _ [fly](spells_dir/fly)_, _ [hold person](spells_dir/holdPerson#_hold-person)_ (DC 23), _ [magic circle against good](spells_dir/magicCircleAgainstGood#_magic-circle-against-good)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (2), slow (DC 21)
 
-2nd—_ [acid arrow](spells/acidArrow#_acid-arrow)_ (2), _ [ghoul touch](spells/ghoulTouch#_ghoul-touch)_ (DC 20), _ [misdirection](spells/misdirection#_misdirection)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [touch of idiocy](spells/touchOfIdiocy#_touch-of-idiocy)_, _ [web](spells/web#_web)_ (DC 20)
+2nd—_ [acid arrow](spells_dir/acidArrow#_acid-arrow)_ (2), _ [ghoul touch](spells_dir/ghoulTouch#_ghoul-touch)_ (DC 20), _ [misdirection](spells_dir/misdirection#_misdirection)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, _ [touch of idiocy](spells_dir/touchOfIdiocy#_touch-of-idiocy)_, _ [web](spells_dir/web#_web)_ (DC 20)
 
-1st—_ [charm person](spells/charmPerson#_charm-person)_ (DC 21), _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells/featherFall#_feather-fall)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_, _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 19), _ [reduce person](spells/reducePerson#_reduce-person)_ (DC 19)
+1st—_ [charm person](spells_dir/charmPerson#_charm-person)_ (DC 21), _ [expeditious retreat](spells_dir/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells_dir/featherFall#_feather-fall)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_, _ [ray of enfeeblement](spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 19), _ [reduce person](spells_dir/reducePerson#_reduce-person)_ (DC 19)
 
-0 (at will)—_ [bleed](spells/bleed#_bleed)_ (DC 18), _ [daze](spells/daze#_daze)_ (DC 20), _ [mage hand](spells/mageHand#_mage-hand)_, _ [mending](spells/mending#_mending)_
+0 (at will)—_ [bleed](spells_dir/bleed#_bleed)_ (DC 18), _ [daze](spells_dir/daze#_daze)_ (DC 20), _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [mending](spells_dir/mending#_mending)_
 
 **Opposition Schools** divination, evocation
 
 Tactics
 
-**Before Combat** The wizard casts _ [mage armor](spells/mageArmor#_mage-armor)_, _ [mind blank](spells/mindBlank#_mind-blank)_, _ [misdirection](spells/misdirection#_misdirection)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (electricity, fire), _ [resist energy](spells/resistEnergy#_resist-energy)_ (cold), and _ [spell turning](spells/spellTurning#_spell-turning)_.
+**Before Combat** The wizard casts _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [mind blank](spells_dir/mindBlank#_mind-blank)_, _ [misdirection](spells_dir/misdirection#_misdirection)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (electricity, fire), _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (cold), and _ [spell turning](spells_dir/spellTurning#_spell-turning)_.
 
-**During Combat** The wizard uses _ [dominate monster](spells/dominateMonster#_dominate-monster)_, _ [weird](spells/weird#_weird)_, and _ [mass hold person](spells/holdPerson#_hold-person-mass)_ to control enemies, plus _ [incendiary cloud](spells/incendiaryCloud#_incendiary-cloud)_ and _ [horrid wilting](spells/horridWilting#_horrid-wilting)_ if they resist enchantments. She uses _ [polymorph any object](spells/polymorphAnyObject#_polymorph-any-object)_ to change the last survivor into a marionette for her collection.
+**During Combat** The wizard uses _ [dominate monster](spells_dir/dominateMonster#_dominate-monster)_, _ [weird](spells_dir/weird#_weird)_, and _ [mass hold person](spells_dir/holdPerson#_hold-person-mass)_ to control enemies, plus _ [incendiary cloud](spells_dir/incendiaryCloud#_incendiary-cloud)_ and _ [horrid wilting](spells_dir/horridWilting#_horrid-wilting)_ if they resist enchantments. She uses _ [polymorph any object](spells_dir/polymorphAnyObject#_polymorph-any-object)_ to change the last survivor into a marionette for her collection.
 
-**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, _ [mind blank](spells/mindBlank#_mind-blank)_, _ [misdirection](spells/misdirection#_misdirection)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, and _ [spell turning](spells/spellTurning#_spell-turning)_, the wizard's statistics are **AC** 20, touch 16, flat-footed 17; **Defensive Abilities** none; **Immune** none; **Resist** none.
+**Base Statistics** Without _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [mind blank](spells_dir/mindBlank#_mind-blank)_, _ [misdirection](spells_dir/misdirection#_misdirection)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, and _ [spell turning](spells_dir/spellTurning#_spell-turning)_, the wizard's statistics are **AC** 20, touch 16, flat-footed 17; **Defensive Abilities** none; **Immune** none; **Resist** none.
 
 Statistics
 
@@ -1480,13 +1480,13 @@ Statistics
 
 **Feats** [Combat Casting](feats#_combat-casting), [Craft Wand](feats#_craft-wand), [Craft Wondrous Item](feats#_craft-wondrous-item), [Dodge](feats#_dodge), [Extend Spell](feats#_extend-spell), [Fleet](feats#_fleet), [Forge Ring](feats#_forge-ring), Greater [Spell Focus](feats#_spell-focus) (enchantment), [Improved Initiative](feats#_improved-initiative), Improved [Iron Will](feats#_iron-will), [Iron Will](feats#_iron-will), [Quicken Spell](feats#_quicken-spell), [Scribe Scroll](feats#_scribe-scroll), [Skill Focus](feats#_skill-focus) (Perception), [Spell Focus](feats#_spell-focus) (enchantment)
 
-**Skills** [Bluff](skills/bluff#_bluff) +17, [Craft](skills/craft#_craft) (puppets) +16, [Diplomacy](skills/diplomacy#_diplomacy) +17, [Disguise](skills/disguise#_disguise) +12, [Fly](skills/fly#_fly) +15, [Handle Animal](skills/handleAnimal#_handle-animal) +7, [Intimidate](skills/intimidate#_intimidate) +17, [Knowledge](skills/knowledge#_knowledge) (arcana) +26, [Knowledge](skills/knowledge#_knowledge) (dungeoneering, engineering, geography, nature, nobility, planes, religion) +16, [Knowledge](skills/knowledge#_knowledge) (history, local) +21, Perception +24, [Perform](skills/perform#_perform) (comedy) +12, [Sense Motive](skills/senseMotive#_sense-motive) +15, [Spellcraft](skills/spellcraft#_spellcraft) +21
+**Skills** [Bluff](skills_dir/bluff#_bluff) +17, [Craft](skills_dir/craft#_craft) (puppets) +16, [Diplomacy](skills_dir/diplomacy#_diplomacy) +17, [Disguise](skills_dir/disguise#_disguise) +12, [Fly](skills_dir/fly#_fly) +15, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +7, [Intimidate](skills_dir/intimidate#_intimidate) +17, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +26, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering, engineering, geography, nature, nobility, planes, religion) +16, [Knowledge](skills_dir/knowledge#_knowledge) (history, local) +21, Perception +24, [Perform](skills_dir/perform#_perform) (comedy) +12, [Sense Motive](skills_dir/senseMotive#_sense-motive) +15, [Spellcraft](skills_dir/spellcraft#_spellcraft) +21
 
 **Languages** Common, Draconic, Dwarven, Elven, Giant, Goblin, Gnome, Halfling, Sylvan, Undercommon
 
-**SQ** arcane bond (_ [ring of protection](magicItems/rings#_ring-of-protection) +3_), elf blood, enchanting smile
+**SQ** arcane bond (_ [ring of protection](magicItems_dir/rings#_ring-of-protection) +3_), elf blood, enchanting smile
 
-**Combat Gear** _potions of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_ (3), _scrolls of [mage's private sanctum](spells/mageSPrivateSanctum#_mage-s-private-sanctum)_ (2), _scroll of [power word blind](spells/powerWordBlind#_power-word-blind)_, _scrolls of [summon monster VI](spells/summonMonster#_summon-monster-vi)_ (2), _wand of [displacement](spells/displacement#_displacement)_ (20 charges), _wand of [fly](spells/fly)_ (20 charges), _wand of [tongues](spells/tongues#_tongues)_ (20 charges); **Other Gear** _+1 dagger_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +4_, _ [belt of mighty constitution](magicItems/wondrousItems#_belt-of-mighty-constitution) +4_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +4_, _ [figurine of wondrous power](magicItems/wondrousItems#_figurines-of-wondrous-power)_ (obsidian steed), _headband of vast intelligence +6_, _ [pearl of power](magicItems/wondrousItems#_pearl-of-power)_ (7th), _ [pearl of power](magicItems/wondrousItems#_pearl-of-power)_ (4th), _ [ring of protection](magicItems/rings#_ring-of-protection) +3_, spellbook, 2,036 gp
+**Combat Gear** _potions of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_ (3), _scrolls of [mage's private sanctum](spells_dir/mageSPrivateSanctum#_mage-s-private-sanctum)_ (2), _scroll of [power word blind](spells_dir/powerWordBlind#_power-word-blind)_, _scrolls of [summon monster VI](spells_dir/summonMonster#_summon-monster-vi)_ (2), _wand of [displacement](spells_dir/displacement#_displacement)_ (20 charges), _wand of [fly](spells_dir/fly)_ (20 charges), _wand of [tongues](spells_dir/tongues#_tongues)_ (20 charges); **Other Gear** _+1 dagger_, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +4_, _ [belt of mighty constitution](magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +4_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +4_, _ [figurine of wondrous power](magicItems_dir/wondrousItems#_figurines-of-wondrous-power)_ (obsidian steed), _headband of vast intelligence +6_, _ [pearl of power](magicItems_dir/wondrousItems#_pearl-of-power)_ (7th), _ [pearl of power](magicItems_dir/wondrousItems#_pearl-of-power)_ (4th), _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +3_, spellbook, 2,036 gp
 
 The puppet master treats living minds like a child's toys.
 
@@ -1512,45 +1512,45 @@ Defense
 
 **Fort** +14, **Ref** +14, **Will** +18; +2 vs. enchantments, +4 vs. mind-affecting
 
-**Defensive Abilities** _ [mind blank](spells/mindBlank#_mind-blank), [moment of prescience](spells/momentOfPrescience#_moment-of-prescience)_, never surprised, _ [spell turning](spells/spellTurning#_spell-turning)_; **DR** 10/adamantine (150 points); **Immune** fire (120 points), sleep; **Resist** cold 30, electricity 30
+**Defensive Abilities** _ [mind blank](spells_dir/mindBlank#_mind-blank), [moment of prescience](spells_dir/momentOfPrescience#_moment-of-prescience)_, never surprised, _ [spell turning](spells_dir/spellTurning#_spell-turning)_; **DR** 10_dir/adamantine (150 points); **Immune** fire (120 points), sleep; **Resist** cold 30, electricity 30
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** quarterstaff +9/+4 (1d6–1)
+**Melee** quarterstaff +9_dir/+4 (1d6–1)
 
-**Special Attacks** hand of the apprentice (12/day), metamagic mastery (7/day)
+**Special Attacks** hand of the apprentice (12_dir/day), metamagic mastery (7_dir/day)
 
 **Wizard Spells Prepared** (CL 20th; concentration +29)
 
-9th—maximized_ [disintegrate](spells/disintegrate#_disintegrate)_ (DC 25), _ [foresight](spells/foresight#_foresight)_, _ [meteor swarm](spells/meteorSwarm#_meteor-swarm)_ (DC 28), _ [summon monster IX](spells/summonMonster#_summon-monster-ix)_, _ [time stop](spells/timeStop#_time-stop)_
+9th—maximized_ [disintegrate](spells_dir/disintegrate#_disintegrate)_ (DC 25), _ [foresight](spells_dir/foresight#_foresight)_, _ [meteor swarm](spells_dir/meteorSwarm#_meteor-swarm)_ (DC 28), _ [summon monster IX](spells_dir/summonMonster#_summon-monster-ix)_, _ [time stop](spells_dir/timeStop#_time-stop)_
 
-8th—_ [discern location](spells/discernLocation#_discern-location)_, _ [greater shout](spells/shout#_shout-greater)_ (DC 29), _ [mass charm monster](spells/charmMonster#_charm-monster-mass)_ (DC 27), _ [mind blank](spells/mindBlank#_mind-blank)_, _ [moment of prescience](spells/momentOfPrescience#_moment-of-prescience)_
+8th—_ [discern location](spells_dir/discernLocation#_discern-location)_, _ [greater shout](spells_dir/shout#_shout-greater)_ (DC 29), _ [mass charm monster](spells_dir/charmMonster#_charm-monster-mass)_ (DC 27), _ [mind blank](spells_dir/mindBlank#_mind-blank)_, _ [moment of prescience](spells_dir/momentOfPrescience#_moment-of-prescience)_
 
-7th—_ [forcecage](spells/forcecage#_forcecage)_ (2, DC 28), _ [prismatic spray](spells/prismaticSpray#_prismatic-spray)_ (2, DC 26), _ [spell turning](spells/spellTurning#_spell-turning)_
+7th—_ [forcecage](spells_dir/forcecage#_forcecage)_ (2, DC 28), _ [prismatic spray](spells_dir/prismaticSpray#_prismatic-spray)_ (2, DC 26), _ [spell turning](spells_dir/spellTurning#_spell-turning)_
 
-6th—_ [chain lightning](spells/chainLightning#_chain-lightning)_ (2, DC 27), _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater) _(2), _ [true seeing](spells/trueSeeing#_true-seeing)_
+6th—_ [chain lightning](spells_dir/chainLightning#_chain-lightning)_ (2, DC 27), _ [greater dispel magic](spells_dir/dispelMagic#_dispel-magic-greater) _(2), _ [true seeing](spells_dir/trueSeeing#_true-seeing)_
 
-5th—_ [baleful polymorph](spells/balefulPolymorph#_baleful-polymorph)_ (DC 24), _ [break enchantment](spells/breakEnchantment#_break-enchantment)_, _ [cloudkill](spells/cloudkill#_cloudkill)_ (DC 24), _ [feeblemind](spells/feeblemind#_feeblemind)_ (DC 24), _ [teleport](spells/teleport#_teleport)_, _ [wall of force](spells/wallOfForce#_wall-of-force)_
+5th—_ [baleful polymorph](spells_dir/balefulPolymorph#_baleful-polymorph)_ (DC 24), _ [break enchantment](spells_dir/breakEnchantment#_break-enchantment)_, _ [cloudkill](spells_dir/cloudkill#_cloudkill)_ (DC 24), _ [feeblemind](spells_dir/feeblemind#_feeblemind)_ (DC 24), _ [teleport](spells_dir/teleport#_teleport)_, _ [wall of force](spells_dir/wallOfForce#_wall-of-force)_
 
-4th—_ [dimension door](spells/dimensionDoor#_dimension-door) _(2), _ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [ice storm](spells/iceStorm#_ice-storm) _(2), _ [stoneskin](spells/stoneskin#_stoneskin)_
+4th—_ [dimension door](spells_dir/dimensionDoor#_dimension-door) _(2), _ [greater invisibility](spells_dir/invisibility#_invisibility-greater)_, _ [ice storm](spells_dir/iceStorm#_ice-storm) _(2), _ [stoneskin](spells_dir/stoneskin#_stoneskin)_
 
-3rd—_ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy), [stinking cloud](spells/stinkingCloud#_stinking-cloud)_ (DC 22),_ [suggestion](spells/suggestion#_suggestion)_ (DC 22), _ [tongues](spells/tongues#_tongues)_, _ [vampiric touch](spells/vampiricTouch#_vampiric-touch)_
+3rd—_ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy), [stinking cloud](spells_dir/stinkingCloud#_stinking-cloud)_ (DC 22),_ [suggestion](spells_dir/suggestion#_suggestion)_ (DC 22), _ [tongues](spells_dir/tongues#_tongues)_, _ [vampiric touch](spells_dir/vampiricTouch#_vampiric-touch)_
 
-2nd—_ [invisibility](spells/invisibility#_invisibility)_, _ [mirror image](spells/mirrorImage#_mirror-image)_, _ [resist energy](spells/resistEnergy#_resist-energy)_ (2), _ [shatter](spells/shatter#_shatter)_, _ [web](spells/web#_web)_ (DC 21)
+2nd—_ [invisibility](spells_dir/invisibility#_invisibility)_, _ [mirror image](spells_dir/mirrorImage#_mirror-image)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (2), _ [shatter](spells_dir/shatter#_shatter)_, _ [web](spells_dir/web#_web)_ (DC 21)
 
-1st—_ [charm person](spells/charmPerson#_charm-person)_ (2, DC 20), _ [mage armor](spells/mageArmor#_mage-armor) _(2), _ [magic missile](spells/magicMissile#_magic-missile)_ (3)
+1st—_ [charm person](spells_dir/charmPerson#_charm-person)_ (2, DC 20), _ [mage armor](spells_dir/mageArmor#_mage-armor) _(2), _ [magic missile](spells_dir/magicMissile#_magic-missile)_ (3)
 
-0 (at will)—_ [detect magic](spells/detectMagic#_detect-magic)_, _ [light](spells/light#_light)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [read magic](spells/readMagic#_read-magic)_
+0 (at will)—_ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [light](spells_dir/light#_light)_, _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [read magic](spells_dir/readMagic#_read-magic)_
 
 Tactics
 
-**Before Combat** The wizard casts _ [foresight](spells/foresight#_foresight)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [mind blank](spells/mindBlank#_mind-blank)_, _ [moment of prescience](spells/momentOfPrescience#_moment-of-prescience)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (fire), _ [resist energy](spells/resistEnergy#_resist-energy)_ (cold, electricity), _ [spell turning](spells/spellTurning#_spell-turning)_, and _ [stoneskin](spells/stoneskin#_stoneskin)_.
+**Before Combat** The wizard casts _ [foresight](spells_dir/foresight#_foresight)_, _ [mage armor](spells_dir/mageArmor#_mage-armor)_, _ [mind blank](spells_dir/mindBlank#_mind-blank)_, _ [moment of prescience](spells_dir/momentOfPrescience#_moment-of-prescience)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (fire), _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (cold, electricity), _ [spell turning](spells_dir/spellTurning#_spell-turning)_, and _ [stoneskin](spells_dir/stoneskin#_stoneskin)_.
 
-**During Combat** The wizard casts maximized _ [disintegrate](spells/disintegrate#_disintegrate), [meteor swarm](spells/meteorSwarm#_meteor-swarm), [mass charm monster](spells/charmMonster#_charm-monster-mass)_, and _ [prismatic spray](spells/prismaticSpray#_prismatic-spray)_.
+**During Combat** The wizard casts maximized _ [disintegrate](spells_dir/disintegrate#_disintegrate), [meteor swarm](spells_dir/meteorSwarm#_meteor-swarm), [mass charm monster](spells_dir/charmMonster#_charm-monster-mass)_, and _ [prismatic spray](spells_dir/prismaticSpray#_prismatic-spray)_.
 
-**Base Statistics** Without _ [foresight](spells/foresight#_foresight), [mage armor](spells/mageArmor#_mage-armor), [mind blank](spells/mindBlank#_mind-blank), [moment of prescience](spells/momentOfPrescience#_moment-of-prescience), [protection from energy](spells/protectionFromEnergy#_protection-from-energy), [resist energy](spells/resistEnergy#_resist-energy), [spell turning](spells/spellTurning#_spell-turning), _and_ [stoneskin](spells/stoneskin#_stoneskin)_, the wizard's base statistics are **AC** 20, touch 16, flat-footed 19; **Fort** +14, **Ref** +12, **Will** +18; +2 vs. enchantments; **Defensive Abilities** none; **DR** none; **Immune** sleep; **Resist** none; **CMD** 25.
+**Base Statistics** Without _ [foresight](spells_dir/foresight#_foresight), [mage armor](spells_dir/mageArmor#_mage-armor), [mind blank](spells_dir/mindBlank#_mind-blank), [moment of prescience](spells_dir/momentOfPrescience#_moment-of-prescience), [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy), [resist energy](spells_dir/resistEnergy#_resist-energy), [spell turning](spells_dir/spellTurning#_spell-turning), _and_ [stoneskin](spells_dir/stoneskin#_stoneskin)_, the wizard's base statistics are **AC** 20, touch 16, flat-footed 19; **Fort** +14, **Ref** +12, **Will** +18; +2 vs. enchantments; **Defensive Abilities** none; **DR** none; **Immune** sleep; **Resist** none; **CMD** 25.
 
 Statistics
 
@@ -1560,13 +1560,13 @@ Statistics
 
 **Feats** [Combat Casting](feats#_combat-casting), [Craft Staff](feats#_craft-staff), [Craft Wondrous Item](feats#_craft-wondrous-item), [Extend Spell](feats#_extend-spell), [Forge Ring](feats#_forge-ring), Greater [Spell Focus](feats#_spell-focus) (evocation), [Improved Initiative](feats#_improved-initiative), [Maximize Spell](feats#_maximize-spell), [Quicken Spell](feats#_quicken-spell), [Scribe Scroll](feats#_scribe-scroll), [Silent Spell](feats#_silent-spell), [Spell Focus](feats#_spell-focus) (evocation), [Spell Penetration](feats#_spell-penetration), [Still Spell](feats#_still-spell), [Toughness](feats#_toughness)
 
-**Skills** [Diplomacy](skills/diplomacy#_diplomacy) +16, [Fly](skills/fly#_fly) +14, [Intimidate](skills/intimidate#_intimidate) +11, [Knowledge](skills/knowledge#_knowledge) (arcana, history, planes) +32, [Knowledge](skills/knowledge#_knowledge) (geography, local, nature, nobility, religion) +22, Perception +18, [Sense Motive](skills/senseMotive#_sense-motive) +11, [Spellcraft](skills/spellcraft#_spellcraft) +32 (+34 to identify magic item properties), [Stealth](skills/stealth#_stealth) +11, [Use Magic Device](skills/useMagicDevice#_use-magic-device) +21
+**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +16, [Fly](skills_dir/fly#_fly) +14, [Intimidate](skills_dir/intimidate#_intimidate) +11, [Knowledge](skills_dir/knowledge#_knowledge) (arcana, history, planes) +32, [Knowledge](skills_dir/knowledge#_knowledge) (geography, local, nature, nobility, religion) +22, Perception +18, [Sense Motive](skills_dir/senseMotive#_sense-motive) +11, [Spellcraft](skills_dir/spellcraft#_spellcraft) +32 (+34 to identify magic item properties), [Stealth](skills_dir/stealth#_stealth) +11, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +21
 
 **Languages** Aklo, Celestial, Common, Draconic, Dwarf, Elven, Giant, Gnome, Halfling, Orc, Sylvan
 
-**SQ** arcane bond (_ [ring of protection](magicItems/rings#_ring-of-protection) +5_), elven magic, weapon familiarity
+**SQ** arcane bond (_ [ring of protection](magicItems_dir/rings#_ring-of-protection) +5_), elven magic, weapon familiarity
 
-**Combat Gear** _potion of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_, _wand of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_ (50 charges), _wand of [delay poison](spells/delayPoison#_delay-poison)_ (20 charges), _wand of [restoration](spells/restoration#_restoration)_ (20 charges), _ [staff of evocation](magicItems/staves#_staff-of-evocation)_; **Other Gear** _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +4_, _ [bag of holding](magicItems/wondrousItems#_bag-of-holding)_ (type IV), _ [belt of mighty constitution](magicItems/wondrousItems#_belt-of-mighty-constitution) +4_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +5_, _ [gloves of arrow snaring](magicItems/wondrousItems#_gloves-of-arrow-snaring)_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +_6, _ [pearl of power](magicItems/wondrousItems#_pearl-of-power)_ (5th), _ [ring of counterspells](magicItems/rings#_ring-of-counterspells)_, _ [ring of protection](magicItems/rings#_ring-of-protection) +5_, diamond dust (worth 1,000 gp), eye ointment for _ [true seeing](spells/trueSeeing#_true-seeing)_ (worth 500 gp), spellbook, 4,175 gp
+**Combat Gear** _potion of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _wand of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (50 charges), _wand of [delay poison](spells_dir/delayPoison#_delay-poison)_ (20 charges), _wand of [restoration](spells_dir/restoration#_restoration)_ (20 charges), _ [staff of evocation](magicItems_dir/staves#_staff-of-evocation)_; **Other Gear** _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +4_, _ [bag of holding](magicItems_dir/wondrousItems#_bag-of-holding)_ (type IV), _ [belt of mighty constitution](magicItems_dir/wondrousItems#_belt-of-mighty-constitution) +4_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +5_, _ [gloves of arrow snaring](magicItems_dir/wondrousItems#_gloves-of-arrow-snaring)_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +_6, _ [pearl of power](magicItems_dir/wondrousItems#_pearl-of-power)_ (5th), _ [ring of counterspells](magicItems_dir/rings#_ring-of-counterspells)_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +5_, diamond dust (worth 1,000 gp), eye ointment for _ [true seeing](spells_dir/trueSeeing#_true-seeing)_ (worth 500 gp), spellbook, 4,175 gp
 
 The master universalist draws power and knowledge from all schools of magic.
 

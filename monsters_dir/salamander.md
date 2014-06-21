@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/salamander
+title: monsters_dir/salamander
 ---
 # Salamander
 
@@ -12,7 +12,7 @@ _This snake-bodied humanoid hisses with anger. Spines of crackling flame dance a
 
 CE Medium [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype))
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +16
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +16
 
 **Defense**
 
@@ -22,7 +22,7 @@ CE Medium [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_ext
 
 **Fort** +10, **Ref** +7, **Will** +6
 
-**DR** 10/magic; **Immune** fire
+**DR** 10_dir/magic; **Immune** fire
 
 **Weaknesses** vulnerability to cold
 
@@ -30,7 +30,7 @@ CE Medium [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_ext
 
 **Speed** 20 ft.
 
-**Melee** spear +11/+6 (1d8+4/×3 plus 1d6 fire), tail slap +6 (2d6+1 plus 1d6 fire and [grab](universalMonsterRules#_grab))
+**Melee** spear +11_dir/+6 (1d8+4_dir/×3 plus 1d6 fire), tail slap +6 (2d6+1 plus 1d6 fire and [grab](universalMonsterRules#_grab))
 
 **Space** 5 ft.; **Reach** 5 ft. (10 ft. with tail)
 
@@ -42,9 +42,9 @@ CE Medium [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_ext
 
 **Base**  **Atk** +8; **CMB** +11 (+15 grapple); **CMD** 22 (can't be tripped)
 
-**Feats** [Cleave](../feats#_cleave), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Cleave](../feats#_cleave), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +12, [Bluff](../skills/bluff#_bluff) +12, [Craft](../skills/craft#_craft) (weaponsmithing) +17, [Intimidate](../skills/intimidate#_intimidate) +12, [Knowledge](../skills/knowledge#_knowledge) (planes) +13, [Perception](../skills/perception#_perception) +16, [Sense Motive](../skills/senseMotive#_sense-motive) +13, [Stealth](../skills/stealth#_stealth) +12; **Racial Modifiers** +4 [Craft](../skills/craft#_craft) (armorsmithing, blacksmithing, and weaponsmithing)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +12, [Bluff](../skills_dir/bluff#_bluff) +12, [Craft](../skills_dir/craft#_craft) (weaponsmithing) +17, [Intimidate](../skills_dir/intimidate#_intimidate) +12, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +13, [Perception](../skills_dir/perception#_perception) +16, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +13, [Stealth](../skills_dir/stealth#_stealth) +12; **Racial Modifiers** +4 [Craft](../skills_dir/craft#_craft) (armorsmithing, blacksmithing, and weaponsmithing)
 
 **Languages** Common, Ignan
 

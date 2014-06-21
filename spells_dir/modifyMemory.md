@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/modifyMemory
+title: spells_dir/modifyMemory
 ---
  **Modify Memory**
 
@@ -10,7 +10,7 @@ title: spells/modifyMemory
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one living creature
 
@@ -20,7 +20,7 @@ title: spells/modifyMemory
 
 You reach into the subject's mind and modify as many as 5 minutes of its memories in one of the following ways.
 
-- Eliminate all memory of an event the subject actually experienced. This spell cannot negate _charm, [geas/quest](geasQuest#_geas-quest), [suggestion](suggestion#_suggestion), _or similar spells.
+- Eliminate all memory of an event the subject actually experienced. This spell cannot negate _charm, [geas_dir/quest](geasQuest#_geas-quest), [suggestion](suggestion#_suggestion), _or similar spells.
 - Allow the subject to recall with perfect clarity an event it actually experienced.
 - Change the details of an event the subject actually experienced.
 - Implant a memory of an event the subject never experienced.

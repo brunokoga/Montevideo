@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/unholyBlight
+title: spells_dir/unholyBlight
 ---
  **Unholy Blight**
 
@@ -10,7 +10,7 @@ title: spells/unholyBlight
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Area** 20-ft.-radius spread
 

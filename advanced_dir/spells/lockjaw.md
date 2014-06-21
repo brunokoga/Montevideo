@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/lockjaw
+title: advanced_dir/spells_dir/lockjaw
 ---
  **Lockjaw**
 
@@ -14,7 +14,7 @@ title: advanced/spells/lockjaw
 
 **Target** creature touched
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

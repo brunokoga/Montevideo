@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/guidance
+title: spells_dir/guidance
 ---
  **Guidance**
 

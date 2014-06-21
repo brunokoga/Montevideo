@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/piedPiping
+title: advanced_dir/spells_dir/piedPiping
 ---
  **Pied Piping**
 
@@ -14,7 +14,7 @@ title: advanced/spells/piedPiping
 
 **Area** 90-ft.-radius emanation, centered on you
 
-**Duration** concentration + 1 round/level
+**Duration** concentration + 1 round_dir/level
 
 **Saving Throw** Will partial; see text; **Spell Resistance** yes
 
@@ -22,5 +22,5 @@ You call forth a melody so compelling and attractive that creatures belonging to
 
 Eligible creatures must make a saving throw each round spent within the area of the spell and, once they fail, approach you at their normal movement speed and stand as close to you as possible without actually entering an occupied square. If you move, they do their best to maintain their proximity to you and follow. Affected creatures can take no actions other than listening to your music and following you if you move. Those entering the area while the spell is in effect must also successfully save or be compelled to come to you.
 
-The attractive power of the spell does not cause affected creatures to put themselves in jeopardy and they have enough presence of mind to avoid or negotiate around obstacles and other perilous hazards. If unable to approach or follow you without endangering themselves, they simply wait, swaying to the music, until you pass out of range, at which point they regain their senses after 1 round/caster level. If circumstances change once you move out of range, making it possible for affected creatures to resume their attempts to get near you they do so, and, if they manage to return to within the area of the spell before it wears off, the spell continues as normal. If attacked, affected creatures can take defensive measures, even going so far as to avoid existing threats by moving out of the area of the spell, but cannot make attacks themselves or take any other actions until the effects of the spell wear off. The effects of the spell persist for 1 round/caster level even after you stop concentrating. Once the spell ceases, the affected creatures continue to stay near you until the effects of the spell wear off.
+The attractive power of the spell does not cause affected creatures to put themselves in jeopardy and they have enough presence of mind to avoid or negotiate around obstacles and other perilous hazards. If unable to approach or follow you without endangering themselves, they simply wait, swaying to the music, until you pass out of range, at which point they regain their senses after 1 round_dir/caster level. If circumstances change once you move out of range, making it possible for affected creatures to resume their attempts to get near you they do so, and, if they manage to return to within the area of the spell before it wears off, the spell continues as normal. If attacked, affected creatures can take defensive measures, even going so far as to avoid existing threats by moving out of the area of the spell, but cannot make attacks themselves or take any other actions until the effects of the spell wear off. The effects of the spell persist for 1 round_dir/caster level even after you stop concentrating. Once the spell ceases, the affected creatures continue to stay near you until the effects of the spell wear off.
 

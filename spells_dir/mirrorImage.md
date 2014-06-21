@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/mirrorImage
+title: spells_dir/mirrorImage
 ---
  **Mirror Image**
 
-**School** illusion (figment); **Level** bard 2, sorcerer/wizard 2
+**School** illusion (figment); **Level** bard 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells/mirrorImage
 
 **Target** you
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 This spell creates a number of illusory doubles of you that inhabit your square. These doubles make it difficult for enemies to precisely locate and attack you.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/monstersByType
+title: monsters_dir/monstersByType
 ---
 # Monsters by Type
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures/mythicSpells/disintegrate
+title: mythicAdventures_dir/mythicSpells_dir/disintegrate
 ---
 Disintegrate
 
-**Source** [_disintegrate_](spells/disintegrate#_disintegrate)
+**Source** [_disintegrate_](spells_dir/disintegrate#_disintegrate)
 
 The damage dealt increases to 3d6 points of damage per caster level (maximum 60d6) plus 1d4 points of Constitution damage. A creature that succeeds at its saving throw takes 5d8 points of damage plus 1 point of Constitution damage.
 

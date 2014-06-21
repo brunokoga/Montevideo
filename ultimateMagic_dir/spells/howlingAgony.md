@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic/spells/howlingAgony
+title: ultimateMagic_dir/spells_dir/howlingAgony
 ---
 Howling Agony
 
-**School** necromancy [death, pain]; **Level** inquisitor 2, sorcerer/wizard 3, witch 3
+**School** necromancy [death, pain]; **Level** inquisitor 2, sorcerer_dir/wizard 3, witch 3
 
 **Components** V, S, M (a needle and a dried eyeball)
 
 **Casting Time** 1 standard action
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one living creature/level, no two of which can be more than 30 ft. apart
+**Target** one living creature_dir/level, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 

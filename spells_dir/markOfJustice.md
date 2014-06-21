@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/markOfJustice
+title: spells_dir/markOfJustice
 ---
  **Mark of Justice**
 

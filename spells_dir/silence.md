@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/silence
+title: spells_dir/silence
 ---
  **Silence**
 
@@ -10,11 +10,11 @@ title: spells/silence
 
 **Components** V, S
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Area** 20-ft.-radius emanation centered on a creature, object, or point in space
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** : [Will](../combat#_will) negates; see text or none (object); **[Spell Resistance](../glossary#_spell-resistance)** : yes; see text or no (object)
 

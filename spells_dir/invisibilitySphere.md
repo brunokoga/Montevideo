@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/invisibilitySphere
+title: spells_dir/invisibilitySphere
 ---
  **Invisibility Sphere**
 
-**School** illusion (glamer); **Level** bard 3, sorcerer/wizard 3
+**School** illusion (glamer); **Level** bard 3, sorcerer_dir/wizard 3
 
 **Components** : V, S, M
 

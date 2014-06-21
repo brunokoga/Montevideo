@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/removeDisease
+title: spells_dir/removeDisease
 ---
  **Remove Disease**
 

@@ -1,18 +1,18 @@
 ---
 layout: default
-title: monsters/eagle
+title: monsters_dir/eagle
 ---
 # Eagle
 
 _This magnificent bird of prey has dark feathers save for those on its head, which are pure white._
 
-**Eagle CR 1/2**
+**Eagle CR 1_dir/2**
 
 **XP 200**
 
 N Small [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision; [Perception](../skills/perception#_perception) +10
+**Init** +2; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -36,7 +36,7 @@ N Small [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Fly](../skills/fly#_fly) +8, [Perception](../skills/perception#_perception) +10; **Racial Modifiers** +8 [Perception](../skills/perception#_perception)
+**Skills** [Fly](../skills_dir/fly#_fly) +8, [Perception](../skills_dir/perception#_perception) +10; **Racial Modifiers** +8 [Perception](../skills_dir/perception#_perception)
 
 **Ecology**
 
@@ -64,7 +64,7 @@ _This immense eagle's feathers are golden brown and shimmer in the light. Its sh
 
 NG Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +3; **Senses** low-light vision; [Perception](../skills/perception#_perception) +15
+**Init** +3; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +15
 
 **Defense**
 
@@ -92,7 +92,7 @@ NG Large [magical beast](creatureTypes#_magical-beast)
 
 **Feats** [Alertness](../feats#_alertness), [Flyby Attack](monsterFeats#_flyby-attack)
 
-**Skills** [Fly](../skills/fly#_fly) +8, [Perception](../skills/perception#_perception) +15, [Sense Motive](../skills/senseMotive#_sense-motive) +4; **Racial Modifiers** +4 [Perception](../skills/perception#_perception)
+**Skills** [Fly](../skills_dir/fly#_fly) +8, [Perception](../skills_dir/perception#_perception) +15, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +4; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception)
 
 **Languages** Auran (cannot speak)
 

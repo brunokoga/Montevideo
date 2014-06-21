@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateCombat/spells/healingThief
+title: ultimateCombat_dir/spells_dir/healingThief
 ---
 Healing Thief
 
-**School** necromancy **Level** sorcerer/wizard 3, witch 3
+**School** necromancy **Level** sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Healing Thief
 
 **Target** creature touched
 
-**Duration** 1 round/level or until discharged
+**Duration** 1 round_dir/level or until discharged
 
 **Saving Throw** none; **Spell Resistance** yes
 

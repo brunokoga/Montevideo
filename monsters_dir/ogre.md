@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/ogre
+title: monsters_dir/ogre
 ---
 # Ogre
 
@@ -12,7 +12,7 @@ _This lumbering giant's beady eyes are devoid of wit or kindness, and its puffy 
 
 CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
 
-**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +5
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +5
 
 **Defense**
 
@@ -40,7 +40,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Feats** [Iron Will](../feats#_iron-will), [Toughness](../feats#_toughness)
 
-**Skills** [Climb](../skills/climb#_climb) +7, [Perception](../skills/perception#_perception) +5
+**Skills** [Climb](../skills_dir/climb#_climb) +7, [Perception](../skills_dir/perception#_perception) +5
 
 **Languages** Giant
 

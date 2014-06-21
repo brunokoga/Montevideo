@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/wish
+title: spells_dir/wish
 ---
  **Wish**
 
-**School** universal; **Level** sorcerer/wizard 9
+**School** universal; **Level** sorcerer_dir/wizard 9
 
 **Casting Time** 1 standard action
 
@@ -20,11 +20,11 @@ title: spells/wish
 
 _Wish _is the mightiest spell a wizard or sorcerer can cast. By simply speaking aloud, you can alter reality to better suit you. Even _wish_, however, has its limits. A _wish _can produce any one of the following effects.
 
-- Duplicate any sorcerer/wizard spell of 8th level or lower, provided the spell does not belong to one of your opposition schools.
-- Duplicate any non-sorcerer/wizard spell of 7th level or lower, provided the spell does not belong to one of your opposition schools.
-- Duplicate any sorcerer/wizard spell of 7th level or lower, even if it belongs to one of your opposition schools.
-- Duplicate any non-sorcerer/wizard spell of 6th level or lower, even if it belongs to one of your opposition schools. 
-- Undo the harmful effects of many other spells, such as _ [geas/quest](geasQuest#_geas-quest) _or _ [insanity](insanity#_insanity)_.
+- Duplicate any sorcerer_dir/wizard spell of 8th level or lower, provided the spell does not belong to one of your opposition schools.
+- Duplicate any non-sorcerer_dir/wizard spell of 7th level or lower, provided the spell does not belong to one of your opposition schools.
+- Duplicate any sorcerer_dir/wizard spell of 7th level or lower, even if it belongs to one of your opposition schools.
+- Duplicate any non-sorcerer_dir/wizard spell of 6th level or lower, even if it belongs to one of your opposition schools. 
+- Undo the harmful effects of many other spells, such as _ [geas_dir/quest](geasQuest#_geas-quest) _or _ [insanity](insanity#_insanity)_.
 - Grant a creature a +1 inherent bonus to an ability score. Two to five _wish_ spells cast in immediate succession can grant a creature a +2 to +5 inherent bonus to an ability score (two _wishes_ for a +2 inherent bonus, three _wishes_ for a +3 inherent bonus, and so on). Inherent bonuses are instantaneous, so they cannot be dispelled. _Note_: An inherent bonus may not exceed +5 for a single ability score, and inherent bonuses to a particular ability score do not stack, so only the best one applies.
 - Remove injuries and afflictions. A single _wish _can aid one creature per caster level, and all subjects are cured of the same kind of affliction. For example, you could heal all the damage you and your companions have taken, or remove all poison effects from everyone in the party, but not do both with the same _wish_. 
 - Revive the dead. A _wish _can bring a dead creature back to life by duplicating a _ [resurrection](resurrection#_resurrection) _spell. A _wish _can revive a dead creature whose body has been destroyed, but the task takes two _wishes_: one to recreate the body and another to infuse the body with life again. A _wish _cannot prevent a character who was brought back to life from gaining a permanent negative level.

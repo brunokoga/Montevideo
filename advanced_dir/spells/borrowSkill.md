@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/borrowSkill
+title: advanced_dir/spells_dir/borrowSkill
 ---
  **Borrow Skill**
 
@@ -14,7 +14,7 @@ title: advanced/spells/borrowSkill
 
 **Target** creature touched
 
-**Duration** up to 1 round/level (see description)
+**Duration** up to 1 round_dir/level (see description)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

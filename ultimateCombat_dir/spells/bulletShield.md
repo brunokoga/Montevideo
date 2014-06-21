@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateCombat/spells/bulletShield
+title: ultimateCombat_dir/spells_dir/bulletShield
 ---
 Bullet Shield
 
-**School** abjuration; **Level** alchemist 2, sorcerer/wizard 2
+**School** abjuration; **Level** alchemist 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Bullet Shield
 
 **Target** creature touched
 
-**Duration** 10 minutes/level (D)
+**Duration** 10 minutes_dir/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

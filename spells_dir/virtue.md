@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/virtue
+title: spells_dir/virtue
 ---
  **Virtue**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/barkskin
+title: spells_dir/barkskin
 ---
  **Barkskin**
 
@@ -14,7 +14,7 @@ title: spells/barkskin
 
 **Target** living creature touched
 
-**Duration** 10 min./level
+**Duration** 10 min._dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

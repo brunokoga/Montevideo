@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures/mythicSpells/reverseGravity
+title: mythicAdventures_dir/mythicSpells_dir/reverseGravity
 ---
 Reverse Gravity
 
-**Source** [_reverse gravity_](spells/reverseGravity#_reverse-gravity)
+**Source** [_reverse gravity_](spells_dir/reverseGravity#_reverse-gravity)
 
 Creatures in the area or that enter the area must succeed at a Fortitude save or be nauseated.
 

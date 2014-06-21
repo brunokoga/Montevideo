@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/centaur
+title: monsters_dir/centaur
 ---
 # Centaur
 
@@ -12,7 +12,7 @@ _This creature has the sun-bronzed upper body of a seasoned warrior and the lowe
 
 N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +7
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -26,9 +26,9 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Speed** 50 ft. (35 ft. in armor)
 
-**Melee** longsword +5 (1d8+2/19–20), 2 hooves +0 (1d6+1)
+**Melee** longsword +5 (1d8+2_dir/19–20), 2 hooves +0 (1d6+1)
 
-**Ranged** spear +5 (1d8+2/×3)
+**Ranged** spear +5 (1d8+2_dir/×3)
 
 **Space** 10 ft., **Reach** 5 ft.
 
@@ -40,7 +40,7 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run)
 
-**Skills** [Diplomacy](../skills/diplomacy#_diplomacy) +5, [Intimidate](../skills/intimidate#_intimidate) +6, [Knowledge](../skills/knowledge#_knowledge) (nature) +4, [Perception](../skills/perception#_perception) +7, [Survival](../skills/survival#_survival) +9
+**Skills** [Diplomacy](../skills_dir/diplomacy#_diplomacy) +5, [Intimidate](../skills_dir/intimidate#_intimidate) +6, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +4, [Perception](../skills_dir/perception#_perception) +7, [Survival](../skills_dir/survival#_survival) +9
 
 **Languages** Common, Elven, Sylvan
 

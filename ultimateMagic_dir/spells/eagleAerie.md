@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/eagleAerie
+title: ultimateMagic_dir/spells_dir/eagleAerie
 ---
 Eagle Aerie
 
@@ -10,11 +10,11 @@ Eagle Aerie
 
 **Components** V, S, DF
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Effect** summoned eagles
 
-**Duration** 1 hour/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 

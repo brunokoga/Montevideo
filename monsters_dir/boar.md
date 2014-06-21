@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/boar
+title: monsters_dir/boar
 ---
 # Boar
 
@@ -12,7 +12,7 @@ _This ill-tempered beast's tiny, bloodshot eyes glare angrily above a mouth fill
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +0; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +6
+**Init** +0; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +6
 
 **Defense**
 
@@ -38,7 +38,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Feats** [Toughness](../feats#_toughness)
 
-**Skills** [Perception](../skills/perception#_perception) +6
+**Skills** [Perception](../skills_dir/perception#_perception) +6
 
 **Ecology**
 
@@ -64,7 +64,7 @@ _The back of this horse-sized boar rises in a steep slope. Its tiny red eyes are
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +4; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +12
+**Init** +4; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +12
 
 **Defense**
 
@@ -88,9 +88,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base**  **Atk** +3; **CMB** +10; **CMD** 20
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Toughness](../feats#_toughness)
 
-**Skills** [Perception](../skills/perception#_perception) +12
+**Skills** [Perception](../skills_dir/perception#_perception) +12
 
 **Ecology**
 

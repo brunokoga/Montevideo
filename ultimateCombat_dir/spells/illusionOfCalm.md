@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateCombat/spells/illusionOfCalm
+title: ultimateCombat_dir/spells_dir/illusionOfCalm
 ---
 Illusion of Calm
 
-**School** illusion (figment); **Level** alchemist 1, magus 1, sorcerer/wizard 1
+**School** illusion (figment); **Level** alchemist 1, magus 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Illusion of Calm
 
 **Target** you
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will disbelieve (on hit; see below); **Spell Resistance** no
 

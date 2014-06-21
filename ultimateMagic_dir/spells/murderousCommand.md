@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/murderousCommand
+title: ultimateMagic_dir/spells_dir/murderousCommand
 ---
 Murderous Command
 
@@ -10,7 +10,7 @@ Murderous Command
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one living creature
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/wordOfResolve
+title: ultimateMagic_dir/spells_dir/wordOfResolve
 ---
 Word of Resolve
 
@@ -10,7 +10,7 @@ Word of Resolve
 
 **Components** V, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one ally
 

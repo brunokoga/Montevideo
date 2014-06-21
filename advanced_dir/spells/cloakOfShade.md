@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/cloakOfShade
+title: advanced_dir/spells_dir/cloakOfShade
 ---
  **Cloak of Shade**
 
@@ -14,7 +14,7 @@ title: advanced/spells/cloakOfShade
 
 **Target** one creature per level
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hour_dir/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

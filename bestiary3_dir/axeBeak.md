@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/axeBeak
+title: bestiary3_dir/axeBeak
 ---
 # Axe Beak
 
@@ -12,7 +12,7 @@ XP 600
 
 N Large animal
 
-**Init** +3; **Senses** low-light vision; [Perception](skills/perception#_perception) +9
+**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +9
 
 Defense
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +7; **CMD** 20
 
-**Feats** [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
+**Feats** [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
 
-**Skills** [Perception](skills/perception#_perception) +9
+**Skills** [Perception](skills_dir/perception#_perception) +9
 
 Ecology
 
@@ -58,7 +58,7 @@ Keen-witted and powerful avian predators, axe beaks compete with wolves and hunt
 
 Mature axe beaks stand 9 feet tall and weigh as much as 500 pounds. Their plumage varies widely, from gray to brown to black in temperate climes, but taking on exotic shades of gold, red, blue, and other vibrant hues in more tropical environs. Axe beaks have lifespans of up to 50 years.
 
-An axe beak requires training before it will bear a rider. Taming an axe beak requires 6 weeks of work and a DC 25 [Handle Animal](skills/handleAnimal#_handle-animal) check, after which it can be taught tricks as normal. Riding an axe beak requires an exotic saddle. Axe beak eggs are worth 1,000 gp apiece on the open market, while young are worth 1,500 gp each. A light load for an axe beak is up to 200 pounds; a medium load, 201–400 pounds; and a heavy load, 401–600 pounds.
+An axe beak requires training before it will bear a rider. Taming an axe beak requires 6 weeks of work and a DC 25 [Handle Animal](skills_dir/handleAnimal#_handle-animal) check, after which it can be taught tricks as normal. Riding an axe beak requires an exotic saddle. Axe beak eggs are worth 1,000 gp apiece on the open market, while young are worth 1,500 gp each. A light load for an axe beak is up to 200 pounds; a medium load, 201–400 pounds; and a heavy load, 401–600 pounds.
 
 Other types of large, predatory flightless birds exist—the axe beak is but the most commonly encountered and well known of this breed of predator. Two less common variants of the axe beak are summarized below.
 

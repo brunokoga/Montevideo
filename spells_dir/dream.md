@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/dream
+title: spells_dir/dream
 ---
  **Dream**
 
-**School** illusion (phantasm) [mind-affecting]; **Level** bard 5, sorcerer/wizard 5
+**School** illusion (phantasm) [mind-affecting]; **Level** bard 5, sorcerer_dir/wizard 5
 
 **Casting Time** 1 minute
 

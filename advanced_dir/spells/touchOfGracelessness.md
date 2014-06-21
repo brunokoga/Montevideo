@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advanced/spells/touchOfGracelessness
+title: advanced_dir/spells_dir/touchOfGracelessness
 ---
  **Touch of Gracelessness**
 
-**School** transmutation; **Level** bard 1, sorcerer/wizard 1
+**School** transmutation; **Level** bard 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: advanced/spells/touchOfGracelessness
 
 **Target** creature touched
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 

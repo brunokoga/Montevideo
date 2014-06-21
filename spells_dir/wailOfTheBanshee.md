@@ -1,18 +1,18 @@
 ---
 layout: default
-title: spells/wailOfTheBanshee
+title: spells_dir/wailOfTheBanshee
 ---
  **Wail of the Banshee**
 
-**School** necromancy [death, sonic]; **Level** sorcerer/wizard 9
+**School** necromancy [death, sonic]; **Level** sorcerer_dir/wizard 9
 
 **Casting Time** 1 standard action
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one living creature/level within a 40-ft.-radius spread
+**Target** one living creature_dir/level within a 40-ft.-radius spread
 
 **Duration** instantaneous
 

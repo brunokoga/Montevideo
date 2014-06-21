@@ -1,30 +1,30 @@
 ---
 layout: default
-title: bestiary3/familiar
+title: bestiary3_dir/familiar
 ---
 # Small Familiars
 
-Small familiars threaten the areas around them like Small creatures, and can be used to flank enemies, though both familiars and their masters are often loath to use such tactics, as the result is often a dead familiar. Small familiars are also harder to keep on a master's person than Tiny or smaller familiars. Often they require some form of magic item, like a _ [bag of holding](magicItems/wondrousItems#_bag-of-holding)_, to remain truly out of sight.
+Small familiars threaten the areas around them like Small creatures, and can be used to flank enemies, though both familiars and their masters are often loath to use such tactics, as the result is often a dead familiar. Small familiars are also harder to keep on a master's person than Tiny or smaller familiars. Often they require some form of magic item, like a _ [bag of holding](magicItems_dir/wondrousItems#_bag-of-holding)_, to remain truly out of sight.
 
   
   
 
 | Familiar | Special Ability |
 | --- | --- |
-| Flying squirrel | Master gains a +3 bonus on [Fly](skills/fly#_fly) checks |
+| Flying squirrel | Master gains a +3 bonus on [Fly](skills_dir/fly#_fly) checks |
 | Fox | Master gains a +2 bonus on Reflex saves |
-| Goat | Master gains a +3 bonus on [Survival](skills/survival#_survival) checks |
-| Otter | Master gains a +3 bonus on [Swim](skills/swim#_swim) checks |
-| PigMaster | gains a +3 bonus on [Diplomacy](skills/diplomacy#_diplomacy) checks |
-| Raccoon | Master gains a +3 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks |
+| Goat | Master gains a +3 bonus on [Survival](skills_dir/survival#_survival) checks |
+| Otter | Master gains a +3 bonus on [Swim](skills_dir/swim#_swim) checks |
+| PigMaster | gains a +3 bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) checks |
+| Raccoon | Master gains a +3 bonus on [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) checks |
 
-Flying Squirrel CR 1/3
+Flying Squirrel CR 1_dir/3
 
 XP 135
 
 N Tiny animal
 
-**Init** +2; **Senses** low-light vision; [Perception](skills/perception#_perception) +1
+**Init** +2; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +1
 
 Defense
 
@@ -40,7 +40,7 @@ Offense
 
 **Melee** bite +4 (1d3–4)
 
-**Space** 2-1/2 ft.; **Reach** 0 ft.
+**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
 
 Statistics
 
@@ -50,7 +50,7 @@ Statistics
 
 **Feats** [Acrobatic](feats#_acrobatic)B, [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +8 (+12 when jumping), [Climb](skills/climb#_climb) +10, [Fly](skills/fly#_fly) +4; **Racial Modifiers** +11 [Acrobatics](skills/acrobatics#_acrobatics) (+8 when jumping), +8 [Climb](skills/climb#_climb)
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +8 (+12 when jumping), [Climb](skills_dir/climb#_climb) +10, [Fly](skills_dir/fly#_fly) +4; **Racial Modifiers** +11 [Acrobatics](skills_dir/acrobatics#_acrobatics) (+8 when jumping), +8 [Climb](skills_dir/climb#_climb)
 
 **SQ** glide
 
@@ -68,13 +68,13 @@ Special Abilities
 
 Although not capable of actual flight, a flying squirrel possesses a furry membrane stretching between its wrists and ankles, allowing it to glide for long distances.
 
-Fox CR 1/4
+Fox CR 1_dir/4
 
 XP 100
 
 N Tiny animal
 
-**Init** +2; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +8
 
 Defense
 
@@ -90,7 +90,7 @@ Offense
 
 **Melee** bite +1 (1d3–1)
 
-**Space** 2-1/2 ft.; **Reach** 0 ft.
+**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
 
 Statistics
 
@@ -98,9 +98,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 9 (13 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +2 (+10 when jumping), [Perception](skills/perception#_perception) +8, [Stealth](skills/stealth#_stealth) +10, [Survival](skills/survival#_survival) +1 (+5 [scent](monsters/universalMonsterRules#_scent) tracking); **Racial Modifiers** +4 [Acrobatics](skills/acrobatics#_acrobatics) when jumping, +4 [Survival](skills/survival#_survival) when tracking by [scent](monsters/universalMonsterRules#_scent)
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +2 (+10 when jumping), [Perception](skills_dir/perception#_perception) +8, [Stealth](skills_dir/stealth#_stealth) +10, [Survival](skills_dir/survival#_survival) +1 (+5 [scent](monsters_dir/universalMonsterRules#_scent) tracking); **Racial Modifiers** +4 [Acrobatics](skills_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](skills_dir/survival#_survival) when tracking by [scent](monsters_dir/universalMonsterRules#_scent)
 
 Ecology
 
@@ -112,13 +112,13 @@ Ecology
 
 This cunning yet wary animal pounces on live prey.
 
-Goat CR 1/3
+Goat CR 1_dir/3
 
 XP 135
 
 N Small animal
 
-**Init** +1; **Senses** low-light vision; [Perception](skills/perception#_perception) +0
+**Init** +1; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +0
 
 Defense
 
@@ -142,7 +142,7 @@ Statistics
 
 **Feats** [Nimble Moves](feats#_nimble-moves)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +1 (+5 when jumping), [Climb](skills/climb#_climb) +5, [Survival](skills/survival#_survival) +0 (+4 to find food); **Racial Modifiers** +4 [Acrobatics](skills/acrobatics#_acrobatics) when jumping, +4 [Survival](skills/survival#_survival) to find food
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +1 (+5 when jumping), [Climb](skills_dir/climb#_climb) +5, [Survival](skills_dir/survival#_survival) +0 (+4 to find food); **Racial Modifiers** +4 [Acrobatics](skills_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](skills_dir/survival#_survival) to find food
 
 Ecology
 
@@ -154,13 +154,13 @@ Ecology
 
 Goats are often ill-tempered and stubborn, but they have an uncanny knack for finding food in the strangest of places and can digest almost anything.
 
-Otter CR 1/4
+Otter CR 1_dir/4
 
 XP 100
 
 N Tiny animal
 
-**Init** +3; **Senses** low-light vision; [Perception](skills/perception#_perception) +1
+**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +1
 
 Defense
 
@@ -176,7 +176,7 @@ Offense
 
 **Melee** bite +5 (1d3–4)
 
-**Space** 2-1/2 ft.; **Reach** 0 ft.
+**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
 
 Statistics
 
@@ -186,11 +186,11 @@ Statistics
 
 **Feats** [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Escape Artist](skills/escapeArtist#_escape-artist) +4, [Swim](skills/swim#_swim) +10
+**Skills** [Escape Artist](skills_dir/escapeArtist#_escape-artist) +4, [Swim](skills_dir/swim#_swim) +10
 
 Ecology
 
-**Environment** any [water](monsters/creatureTypes#_water-subtype)
+**Environment** any [water](monsters_dir/creatureTypes#_water-subtype)
 
 **Organization** solitary or family (2–16)
 
@@ -198,13 +198,13 @@ Ecology
 
 Otters are curious and playful, and enjoy investigating new objects, sliding down wet rocks, and other simple games.
 
-Pig CR 1/3
+Pig CR 1_dir/3
 
 XP 135
 
 N Small animal
 
-**Init** +1; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +5
+**Init** +1; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +5
 
 Defense
 
@@ -228,7 +228,7 @@ Statistics
 
 **Feats** [Great Fortitude](feats#_great-fortitude)
 
-**Skills** [Perception](skills/perception#_perception) +5
+**Skills** [Perception](skills_dir/perception#_perception) +5
 
 Ecology
 
@@ -240,13 +240,13 @@ Ecology
 
 This clever, sociable animal may be trained to do many tasks.
 
-Raccoon CR 1/2
+Raccoon CR 1_dir/2
 
 XP 200
 
 N Tiny animal
 
-**Init** +2; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +3
+**Init** +2; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +3
 
 Defense
 
@@ -262,7 +262,7 @@ Offense
 
 **Melee** bite +4 (1d3–1)
 
-**Space** 2-1/2 ft.; **Reach** 0 ft.
+**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
 
 Statistics
 
@@ -272,13 +272,13 @@ Statistics
 
 **Feats** [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Climb](skills/climb#_climb) +7, [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) +3
+**Skills** [Climb](skills_dir/climb#_climb) +7, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +3
 
 Ecology
 
 **Environment** temperate forests
 
-**Organization** solitary or [gaze](monsters/universalMonsterRules#_gaze) (2–4)
+**Organization** solitary or [gaze](monsters_dir/universalMonsterRules#_gaze) (2–4)
 
 **Treasure** none
 

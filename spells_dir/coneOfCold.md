@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/coneOfCold
+title: spells_dir/coneOfCold
 ---
  **Cone of Cold**
 
-**School** evocation [cold]; **Level** sorcerer/wizard 5
+**School** evocation [cold]; **Level** sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 

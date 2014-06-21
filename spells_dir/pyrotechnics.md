@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/pyrotechnics
+title: spells_dir/pyrotechnics
 ---
  **Pyrotechnics**
 
-**School** transmutation; **Level** bard 2, sorcerer/wizard 2
+**School** transmutation; **Level** bard 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (one fire source)
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Target** one fire source, up to a 20-ft. cube
 

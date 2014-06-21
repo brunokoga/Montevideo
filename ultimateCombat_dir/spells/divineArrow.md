@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateCombat/spells/divineArrow
+title: ultimateCombat_dir/spells_dir/divineArrow
 ---
 Divine Arrow
 
-**School** transmutation [[good](monsters/creatureTypes#_good-subtype)]; **Level** paladin 2
+**School** transmutation [[good](monsters_dir/creatureTypes#_good-subtype)]; **Level** paladin 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Divine Arrow
 
 **Target** one projectile
 
-**Duration** 1 round/level or until discharged
+**Duration** 1 round_dir/level or until discharged
 
 **Saving Throw** none; **Spell Resistance** no
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: spells/wallOfForce
+title: spells_dir/wallOfForce
 ---
  **Wall of Force**
 
-**School** evocation [force]; **Level** sorcerer/wizard 5
+**School** evocation [force]; **Level** sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (powdered quartz)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Effect** wall whose area is up to one 10-ft. square/level
+**Effect** wall whose area is up to one 10-ft. square_dir/level
 
-**Duration** 1 round /level (D)
+**Duration** 1 round _dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 
-A _wall of force_ creates an invisible wall of pure force. The wall cannot move and is not easily destroyed. A _wall of force_ is immune to _ [dispel magic](dispelMagic#_dispel-magic), _although a _ [mage's disjunction](mageSDisjunction#_mage-s-disjunction)_ can still dispel it_. _A_ wall of force _can be damaged by spells as normal, except for_ [disintegrate](disintegrate#_disintegrate),_ which automatically destroys it. It can be damaged by weapons and supernatural abilities, but a _wall of force_ has hardness 30 and a number of hit points equal to 20 per caster level. Contact with a _ [sphere of annihilation](../magicItems/artifacts#_sphere-of-annihilation) _or _ [rod of cancellation](../magicItems/rods#_rod-of-cancellation)_ instantly destroys a _wall of force._
+A _wall of force_ creates an invisible wall of pure force. The wall cannot move and is not easily destroyed. A _wall of force_ is immune to _ [dispel magic](dispelMagic#_dispel-magic), _although a _ [mage's disjunction](mageSDisjunction#_mage-s-disjunction)_ can still dispel it_. _A_ wall of force _can be damaged by spells as normal, except for_ [disintegrate](disintegrate#_disintegrate),_ which automatically destroys it. It can be damaged by weapons and supernatural abilities, but a _wall of force_ has hardness 30 and a number of hit points equal to 20 per caster level. Contact with a _ [sphere of annihilation](../magicItems_dir/artifacts#_sphere-of-annihilation) _or _ [rod of cancellation](../magicItems_dir/rods#_rod-of-cancellation)_ instantly destroys a _wall of force._
 
 Breath weapons and spells cannot pass through a _wall of force_ in either direction, although _ [dimension door](dimensionDoor#_dimension-door)_, _ [teleport](teleport#_teleport)_, and similar effects can bypass the barrier. It blocks ethereal creatures as well as material ones (though ethereal creatures can usually circumvent the wall by going around it, through material floors and ceilings). Gaze attacks can operate through a _wall of force_.
 

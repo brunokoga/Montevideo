@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/irresistibleDance
+title: spells_dir/irresistibleDance
 ---
  **Irresistible Dance**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 6, sorcerer/wizard 8
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 6, sorcerer_dir/wizard 8
 
 **Casting Time** 1 standard action
 

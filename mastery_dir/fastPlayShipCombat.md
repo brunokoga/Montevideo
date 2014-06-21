@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mastery/fastPlayShipCombat
+title: mastery_dir/fastPlayShipCombat
 ---
 # Water
 
@@ -12,7 +12,7 @@ An aquatic adventure can take place anywhere that water is the primary terrain f
 
 ## Adapting to Aquatic Environments
 
-The rules presented in the _Pathfinder RPG Core Rulebook_ for underwater combat apply to creatures not native to this dangerous environment, such as most PCs. For extended aquatic adventures or for particularly deep explorations, PCs will doubtless need to use magic to continue their adventures. _ [Water breathing](../spells/waterBreathing#_water-breathing)_ is of obvious use, while _ [endure elements](../spells/endureElements#_endure-elements)_ can help with temperature. Pressure damage can be avoided entirely with effects such as _ [freedom of movement](../spells/freedomOfMovement#_freedom-of-movement)_. Polymorph spells are perhaps the most useful in water, though, if the form assumed is aquatic in nature.
+The rules presented in the _Pathfinder RPG Core Rulebook_ for underwater combat apply to creatures not native to this dangerous environment, such as most PCs. For extended aquatic adventures or for particularly deep explorations, PCs will doubtless need to use magic to continue their adventures. _ [Water breathing](../spells_dir/waterBreathing#_water-breathing)_ is of obvious use, while _ [endure elements](../spells_dir/endureElements#_endure-elements)_ can help with temperature. Pressure damage can be avoided entirely with effects such as _ [freedom of movement](../spells_dir/freedomOfMovement#_freedom-of-movement)_. Polymorph spells are perhaps the most useful in water, though, if the form assumed is aquatic in nature.
 
 **Natural Adaptation** : Any creature that has the aquatic subtype can breathe water easily and is unaffected by water temperature extremes that are found in that creature's typical environment. Aquatic creatures and creatures with the hold breath ability are much more resistant to pressure damage; they do not suffer damage from pressure unless they are moved instantaneously from one depth to another in the blink of an eye (in which case they adapt to the pressure change after successfully making five successive Fortitude saves against the pressure effects).
 
@@ -32,11 +32,11 @@ When ships themselves become a part of a combat, things get more unusual. The fo
 
 **Attacks** : Crewmembers in excess of the ship's minimum crew requirement can be allocated to man [siege engines](../environment#_siege-engines). Siege engines attack on the captain's initiative count.
 
-A ship can also attempt to ram a target if it has its minimum crew. To ram a target, the ship must move at least 30 feet and end with its bow in a square adjacent to the target. The ship's captain then makes a [Profession](../skills/profession#_profession) (sailor) check—if this check equals or exceeds the target's AC, the ship hits its target, inflicting damage as indicated on the ship statistics table to the target, as well as minimum damage to the ramming ship. A ship outfitted with an actual ram siege engine inflicts an additional 3d6 points of damage to the target (the ramming vessel suffers no additional damage).
+A ship can also attempt to ram a target if it has its minimum crew. To ram a target, the ship must move at least 30 feet and end with its bow in a square adjacent to the target. The ship's captain then makes a [Profession](../skills_dir/profession#_profession) (sailor) check—if this check equals or exceeds the target's AC, the ship hits its target, inflicting damage as indicated on the ship statistics table to the target, as well as minimum damage to the ramming ship. A ship outfitted with an actual ram siege engine inflicts an additional 3d6 points of damage to the target (the ramming vessel suffers no additional damage).
 
 ## Sinking
 
-A ship gains the sinking condition if its hit points are reduced to 0 or fewer. A sinking ship cannot move or attack, and it sinks completely 10 rounds after it gains the sinking condition. Each hit on a sinking ship that inflicts damage reduces the remaining time for it to sink by 1 round per 25 points of damage inflicted. Magic (such as _ [make whole](../spells/makeWhole#_make-whole)_) can repair a sinking ship if the ship's hit points are raised above 0, at which point the ship loses the sinking condition. Generally, nonmagical repairs take too long to save a ship from sinking once it begins to go down.
+A ship gains the sinking condition if its hit points are reduced to 0 or fewer. A sinking ship cannot move or attack, and it sinks completely 10 rounds after it gains the sinking condition. Each hit on a sinking ship that inflicts damage reduces the remaining time for it to sink by 1 round per 25 points of damage inflicted. Magic (such as _ [make whole](../spells_dir/makeWhole#_make-whole)_) can repair a sinking ship if the ship's hit points are raised above 0, at which point the ship loses the sinking condition. Generally, nonmagical repairs take too long to save a ship from sinking once it begins to go down.
 
 ## Ship Statistics
 
@@ -44,11 +44,11 @@ A vast variety of boats and ships exist in the real world, from small rafts and 
 
 **Ship Type** : This is a general category that lists the ship's basic type.
 
-**AC** : The ship's base Armor Class. To calculate a ship's actual AC, add the captain's [Profession](../skills/profession#_profession) (sailor) modifier to the ship's base AC. Touch attacks against a ship ignore the captain's modifier. A ship is never considered flat-footed.
+**AC** : The ship's base Armor Class. To calculate a ship's actual AC, add the captain's [Profession](../skills_dir/profession#_profession) (sailor) modifier to the ship's base AC. Touch attacks against a ship ignore the captain's modifier. A ship is never considered flat-footed.
 
 **hp** : The ship's total hit points. In addition, all ships have a hardness rating based on their construction material (hardness 5 for most wooden ships). At 0 or fewer hit points, a ship gains the sinking condition as described above.
 
-**Base Save** : The ship's base save modifier. All of a ship's saving throws (Fortitude, Reflex, and Will) have the same value. To determine a ship's actual saving throw modifiers, add the captain's [Profession](../skills/profession#_profession) (sailor) modifier to this base value.
+**Base Save** : The ship's base save modifier. All of a ship's saving throws (Fortitude, Reflex, and Will) have the same value. To determine a ship's actual saving throw modifiers, add the captain's [Profession](../skills_dir/profession#_profession) (sailor) modifier to this base value.
 
 **Maximum Speed** : The ship's maximum tactical speed in combat. An asterisk indicates the ship has sails, and can move at double speed when it moves in the same direction as the wind. A ship with only sails can only move if there is some wind.
 
@@ -58,14 +58,14 @@ A vast variety of boats and ships exist in the real world, from small rafts and 
 
 **Squares** : The number of squares the ship takes up on the battle mat. A ship's width is always considered to be one square.
 
-**Crew** : The first number lists the minimum crew complement the ship needs to function normally, excluding those needed to make use of the vessel's weapons. The second value lists the ship's maximum crew plus additional soldiers or passengers. A ship without its minimum crew complement can only move, change speed, change direction, or ram if its captain makes a DC 20 [Profession](../skills/profession#_profession) (sailor) check. Crew in excess of the minimum have no effect on movement, but they can replace fallen crewmembers or man additional weapons.
+**Crew** : The first number lists the minimum crew complement the ship needs to function normally, excluding those needed to make use of the vessel's weapons. The second value lists the ship's maximum crew plus additional soldiers or passengers. A ship without its minimum crew complement can only move, change speed, change direction, or ram if its captain makes a DC 20 [Profession](../skills_dir/profession#_profession) (sailor) check. Crew in excess of the minimum have no effect on movement, but they can replace fallen crewmembers or man additional weapons.
 
 [Table: Ship Statistics]
 | Ship Type | AC | hp | Base Save | Maximum Speed | Arms | Ram | Squares | Crew |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Keelboat | 8 | 60 | +4 | 30 feet\* | 1 | 2d6+6 | 2 | 4/15+100 |
-| Longship | 6 | 75 | +5 | 60 feet\* | 1 | 4d6+18 | 3 | 50/75+100 |
-| Sailing ship | 6 | 125 | +6 | 60 feet\* (sails only) | 2 | 3d6+12 | 3 | 20/50+120 |
-| Warship | 2 | 175 | +7 | 60 feet\* | 3 | 3d6+12 | 4 | 60/80+160 |
-| Galley | 2 | 200 | +8 | 90 feet\* | 4 | 6d6+24 | 4 | 200/250+200 |
+| Keelboat | 8 | 60 | +4 | 30 feet\* | 1 | 2d6+6 | 2 | 4_dir/15+100 |
+| Longship | 6 | 75 | +5 | 60 feet\* | 1 | 4d6+18 | 3 | 50_dir/75+100 |
+| Sailing ship | 6 | 125 | +6 | 60 feet\* (sails only) | 2 | 3d6+12 | 3 | 20_dir/50+120 |
+| Warship | 2 | 175 | +7 | 60 feet\* | 3 | 3d6+12 | 4 | 60_dir/80+160 |
+| Galley | 2 | 200 | +8 | 90 feet\* | 4 | 6d6+24 | 4 | 200_dir/250+200 |
 

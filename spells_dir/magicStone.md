@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/magicStone
+title: spells_dir/magicStone
 ---
  **Magic Stone**
 

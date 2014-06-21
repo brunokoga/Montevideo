@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/dragonne
+title: bestiary3_dir/dragonne
 ---
 # Dragonne
 
@@ -12,7 +12,7 @@ XP 3,200
 
 N Large magical beast
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +12
+**Init** +7; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +12
 
 Defense
 
@@ -30,7 +30,7 @@ Offense
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** roar, [pounce](monsters/universalMonsterRules#_pounce)
+**Special Attacks** roar, [pounce](monsters_dir/universalMonsterRules#_pounce)
 
 Statistics
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +15; **CMD** 28 (32 vs. trip)
 
-**Feats** [Blind-Fight](feats#_blind-fight), [Combat Reflexes](feats#_combat-reflexes), [Flyby Attack](monsters/monsterFeats#_flyby-attack), [Improved Initiative](feats#_improved-initiative), [Power Attack](feats#_power-attack)
+**Feats** [Blind-Fight](feats#_blind-fight), [Combat Reflexes](feats#_combat-reflexes), [Flyby Attack](monsters_dir/monsterFeats#_flyby-attack), [Improved Initiative](feats#_improved-initiative), [Power Attack](feats#_power-attack)
 
-**Skills** [Fly](skills/fly#_fly) +5, [Perception](skills/perception#_perception) +12; **Racial Modifiers** +4 [Perception](skills/perception#_perception)
+**Skills** [Fly](skills_dir/fly#_fly) +5, [Perception](skills_dir/perception#_perception) +12; **Racial Modifiers** +4 [Perception](skills_dir/perception#_perception)
 
 **Languages** Draconic
 

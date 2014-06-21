@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateEquipment/gear/entertainmentAndTradeGoods
+title: ultimateEquipment_dir/gear_dir/entertainmentAndTradeGoods
 ---
 # Entertainment
 
@@ -28,7 +28,7 @@ Many adventurers like to sit down and play a game now and then to pass the time�
 | Marked cards | 1 gp | 1 lb. |
 | Polo gear | 5 sp | 5 lbs. |
 | Puzzle box | 1 gp–1,000 gp | 1 lb.–5 lbs. |
-| Rounders gear | 1 sp | 1/2 lb. |
+| Rounders gear | 1 sp | 1_dir/2 lb. |
 | Tennis gear | 3 sp | 3 lbs. |
 
 Ball
@@ -107,13 +107,13 @@ Loaded Dice
 
 **Price** 10 GP–50 GP; **Weight** —
 
-Most loaded dice are weighted, with a heavier substance included opposite the desired number. You can spot this tampering with a DC 15 [Appraise](skills/appraise#_appraise) or [Perception](skills/perception#_perception) check. Superior dice (such as wooden dice carved around a naturally heavy point) have DCs ranging from 20 to 30.
+Most loaded dice are weighted, with a heavier substance included opposite the desired number. You can spot this tampering with a DC 15 [Appraise](skills_dir/appraise#_appraise) or [Perception](skills_dir/perception#_perception) check. Superior dice (such as wooden dice carved around a naturally heavy point) have DCs ranging from 20 to 30.
 
 Marked Cards
 
 **Price** 1 GP; **Weight** 1 lb.
 
-Whether bent, colored, or scratched, marked cards allow an informed user to know what's on the front of the card by viewing the mark on the back. Realizing that the cards are marked requires a DC 25 [Perception](skills/perception#_perception) check or DC 20 [Profession](skills/profession#_profession) (gambler) check. The listed price is for a common paper deck.
+Whether bent, colored, or scratched, marked cards allow an informed user to know what's on the front of the card by viewing the mark on the back. Realizing that the cards are marked requires a DC 25 [Perception](skills_dir/perception#_perception) check or DC 20 [Profession](skills_dir/profession#_profession) (gambler) check. The listed price is for a common paper deck.
 
 Polo Gear
 
@@ -125,11 +125,11 @@ Puzzle Box
 
 **Price** 1 gp–1,000 gp; **Weight** 1 lb.–5 lbs.
 
-This box features moving parts, secret panels, or unusual codes and locking mechanisms. Depending on the box, a [Disable Device](skills/disableDevice#_disable-device), [Knowledge](skills/knowledge#_knowledge) (engineering), [Linguistics](skills/linguistics#_linguistics), or simple Intelligence check might open it. The DC of the check varies with the complexity of the box, but is typically 15 or 20 (retry once per day). Multiple skill checks might be necessary for different stages of the puzzle. If the puzzle box was constructed with the intention that one specific person should be able to open it, that person gets a +5 circumstance bonus on the check.
+This box features moving parts, secret panels, or unusual codes and locking mechanisms. Depending on the box, a [Disable Device](skills_dir/disableDevice#_disable-device), [Knowledge](skills_dir/knowledge#_knowledge) (engineering), [Linguistics](skills_dir/linguistics#_linguistics), or simple Intelligence check might open it. The DC of the check varies with the complexity of the box, but is typically 15 or 20 (retry once per day). Multiple skill checks might be necessary for different stages of the puzzle. If the puzzle box was constructed with the intention that one specific person should be able to open it, that person gets a +5 circumstance bonus on the check.
 
 Rounders Gear
 
-**Price** 1 sp; **Weight** 1/2 lb.
+**Price** 1 sp; **Weight** 1_dir/2 lb.
 
 Players of this game divide into teams and alternate hitting a small, leather-encased ball with a wooden bat. They run around a field to various safe bases, scoring points when a player completes a circuit through all four bases. The set includes two balls, two bats, and four cloth-stuffed canvas bases.
 
@@ -151,7 +151,7 @@ Trade goods fall into several categories.
 
 **Raw Materials** : Raw materials have little use as-is but can be made into other useful or valuable items. Iron, stone, darkwood, leather, cloth, and fur pelts are raw materials. Metals are usually sold as ingots or rough nuggets, but can be transported or sold as ore.
 
-The value of metal ore depends on its grade—how much of it is valuable metal out of the total volume of common rock. For a typical fantasy campaign, an ore's grade may be as high as 60% (for some particularly rich iron deposits) or as low as 5% (any less than this and it's not cost-effective to mine it). For convenience, assume that typical ore is 25% grade. Multiply the pure metal's price per pound by this grade percentage to determine the best value of the ore. For example, gold is 50 gp per pound, so a 25% grade ore is worth about 50 gp × 25% = 12-1/2 gp per pound. Given the cost of smelting, ore is usually worth one-half to three-quarters this value (so the 25% grade gold ore is actually bought and sold for about 6 gp to 9 gp per pound).
+The value of metal ore depends on its grade—how much of it is valuable metal out of the total volume of common rock. For a typical fantasy campaign, an ore's grade may be as high as 60% (for some particularly rich iron deposits) or as low as 5% (any less than this and it's not cost-effective to mine it). For convenience, assume that typical ore is 25% grade. Multiply the pure metal's price per pound by this grade percentage to determine the best value of the ore. For example, gold is 50 gp per pound, so a 25% grade ore is worth about 50 gp × 25% = 12-1_dir/2 gp per pound. Given the cost of smelting, ore is usually worth one-half to three-quarters this value (so the 25% grade gold ore is actually bought and sold for about 6 gp to 9 gp per pound).
 
 **Spices** : Spices such as garlic, cumin, fennel, salt, and ginger are used to flavor other foods. They are usually sold in jars, bottles, or waxed-cloth packets.
 

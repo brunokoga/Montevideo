@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/troll
+title: bestiary3_dir/troll
 ---
 # Troll, Jotund
 
@@ -10,15 +10,15 @@ Jotund Troll CR 15
 
 XP 51,200
 
-CE Huge humanoid ( [giant](monsters/creatureTypes#_giant-subtype))
+CE Huge humanoid ( [giant](monsters_dir/creatureTypes#_giant-subtype))
 
-**Init** +3; **Senses** [all-around vision](monsters/universalMonsterRules#_all-around-vision), low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +26
+**Init** +3; **Senses** [all-around vision](monsters_dir/universalMonsterRules#_all-around-vision), low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +26
 
 Defense
 
 **AC** 30, touch 7, flat-footed 30 (–1 Dex, +23 natural, –2 size)
 
-**hp** 216 (16d8+144); regeneration 10 (acid or [fire](monsters/creatureTypes#_fire-subtype))
+**hp** 216 (16d8+144); regeneration 10 (acid or [fire](monsters_dir/creatureTypes#_fire-subtype))
 
 **Fort** +16, **Ref** +6, **Will** +13 (+17 vs. mind-affecting effects)
 
@@ -28,13 +28,13 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** club +20/+15/+10 (2d6+10/19–20), bite +15 (2d6+5 plus [grab](monsters/universalMonsterRules#_grab)), claw +15 (1d8+5 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** club +20_dir/+15_dir/+10 (2d6+10_dir/19–20), bite +15 (2d6+5 plus [grab](monsters_dir/universalMonsterRules#_grab)), claw +15 (1d8+5 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Ranged** rock +10 (2d8+15)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** all-seeing attacks, cacophonous roar, [fast swallow](monsters/universalMonsterRules#_fast-swallow), rock throwing (120 ft.), swallow whole (4d6+15 bludgeoning, AC 21, 21 hp)
+**Special Attacks** all-seeing attacks, cacophonous roar, [fast swallow](monsters_dir/universalMonsterRules#_fast-swallow), rock throwing (120 ft.), swallow whole (4d6+15 bludgeoning, AC 21, 21 hp)
 
 Statistics
 
@@ -42,16 +42,16 @@ Statistics
 
 **Base Atk** +12; **CMB** +24 (+28 grapple); **CMD** 33
 
-**Feats** [Awesome Blow](monsters/monsterFeats#_awesome-blow), [Great Fortitude](feats#_great-fortitude), Improved Bull Rush, [Improved Critical](feats#_improved-critical) (club), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Vital Strike](feats#_vital-strike)
+**Feats** [Awesome Blow](monsters_dir/monsterFeats#_awesome-blow), [Great Fortitude](feats#_great-fortitude), Improved Bull Rush, [Improved Critical](feats#_improved-critical) (club), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Vital Strike](feats#_vital-strike)
 
-**Skills** [Climb](skills/climb#_climb) +29, [Perception](skills/perception#_perception) +26; **Racial Modifiers**   
-+4 [Perception](skills/perception#_perception)
+**Skills** [Climb](skills_dir/climb#_climb) +29, [Perception](skills_dir/perception#_perception) +26; **Racial Modifiers**   
++4 [Perception](skills_dir/perception#_perception)
 
-**Languages** [Giant](monsters/creatureTypes#_giant-subtype)
+**Languages** [Giant](monsters_dir/creatureTypes#_giant-subtype)
 
 Ecology
 
-**Environment** [cold](monsters/creatureTypes#_cold-subtype) hills or mountains
+**Environment** [cold](monsters_dir/creatureTypes#_cold-subtype) hills or mountains
 
 **Organization** solitary or war party (1 jotund troll plus 2–5 hill giants or 3–12 ogres)
 
@@ -80,19 +80,19 @@ Moss Troll CR 3
 
 XP 800
 
-CE Large humanoid ( [giant](monsters/creatureTypes#_giant-subtype), [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
+CE Large humanoid ( [giant](monsters_dir/creatureTypes#_giant-subtype), [shapechanger](monsters_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +4 (+8 when climbing trees); **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +5
+**Init** +4 (+8 when climbing trees); **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +5
 
 Defense
 
 **AC** 15, touch 13, flat-footed 11 (+4 Dex, +2 natural, –1 size)
 
-**hp** 30 (4d8+12); regeneration 5 ( [fire](monsters/creatureTypes#_fire-subtype))
+**hp** 30 (4d8+12); regeneration 5 ( [fire](monsters_dir/creatureTypes#_fire-subtype))
 
 **Fort** +7, **Ref** +5, **Will** +4
 
-**Weaknesses** [fear](monsters/universalMonsterRules#_fear-(su-or-sp)) of [fire](monsters/creatureTypes#_fire-subtype), vulnerable to [fire](monsters/creatureTypes#_fire-subtype)
+**Weaknesses** [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) of [fire](monsters_dir/creatureTypes#_fire-subtype), vulnerable to [fire](monsters_dir/creatureTypes#_fire-subtype)
 
 Offense
 
@@ -110,15 +110,15 @@ Statistics
 
 **Feats** [Intimidating Prowess](feats#_intimidating-prowess), [Iron Will](feats#_iron-will)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +7, [Climb](skills/climb#_climb) +11, [Intimidate](skills/intimidate#_intimidate) +5, [Perception](skills/perception#_perception) +5, [Stealth](skills/stealth#_stealth) +5 (+9 in vegetation); **Racial Modifiers** +2 [Acrobatics](skills/acrobatics#_acrobatics), +4 [Stealth](skills/stealth#_stealth) (+8 in vegetation)
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +7, [Climb](skills_dir/climb#_climb) +11, [Intimidate](skills_dir/intimidate#_intimidate) +5, [Perception](skills_dir/perception#_perception) +5, [Stealth](skills_dir/stealth#_stealth) +5 (+9 in vegetation); **Racial Modifiers** +2 [Acrobatics](skills_dir/acrobatics#_acrobatics), +4 [Stealth](skills_dir/stealth#_stealth) (+8 in vegetation)
 
-**Languages** [Giant](monsters/creatureTypes#_giant-subtype)
+**Languages** [Giant](monsters_dir/creatureTypes#_giant-subtype)
 
-**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (mossy tree; _ [tree shape](spells/treeShape#_tree-shape)_), tree climber
+**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (mossy tree; _ [tree shape](spells_dir/treeShape#_tree-shape)_), tree climber
 
 Ecology
 
-**Environment** [cold](monsters/creatureTypes#_cold-subtype) or temperate forests
+**Environment** [cold](monsters_dir/creatureTypes#_cold-subtype) or temperate forests
 
 **Organization** solitary, gang (2–3), or troop (4–8)
 
@@ -126,7 +126,7 @@ Ecology
 
 Special Abilities
 
-**[Fear](monsters/universalMonsterRules#_fear-(su-or-sp)) of [Fire](monsters/creatureTypes#_fire-subtype) (Ex)** A moss troll is shaken as long as it is within 30 feet of a visible [fire](monsters/creatureTypes#_fire-subtype) or an open flame of at least torch size.
+**[Fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) of [Fire](monsters_dir/creatureTypes#_fire-subtype) (Ex)** A moss troll is shaken as long as it is within 30 feet of a visible [fire](monsters_dir/creatureTypes#_fire-subtype) or an open flame of at least torch size.
 
 **Tree Climber (Ex)** When climbing trees and other foliage, a moss troll's climb speed increases to 30 feet. If a moss troll falls while climbing in trees, it ignores the first 30 feet it falls for the purposes of calculating total damage from the fall. While climbing in trees, a moss troll gains a +4 racial bonus on initiative checks.
 

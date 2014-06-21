@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/detectAnimalsOrPlants
+title: spells_dir/detectAnimalsOrPlants
 ---
  **Detect Animals or Plants**
 
@@ -10,11 +10,11 @@ title: spells/detectAnimalsOrPlants
 
 **Components** V, S
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Area** cone-shaped emanation
 
-**Duration** concentration, up to 10 min./level (D)
+**Duration** concentration, up to 10 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

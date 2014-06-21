@@ -1,18 +1,18 @@
 ---
 layout: default
-title: additionalMonsters/locathah
+title: additionalMonsters_dir/locathah
 ---
 # Locathah
 
 This lean humanoid bears crested fins on its head and back, and has the wide-eyed and wide-lipped face of a fish.
 
-LocathahCR 1/2
+LocathahCR 1_dir/2
 
 **XP 200**
 
-N Medium [humanoid](monsters/creatureTypes#_humanoid) ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
+N Medium [humanoid](monsters_dir/creatureTypes#_humanoid) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +1; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +3
+**Init** +1; **Senses** low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +3
 
 Defense
 
@@ -26,9 +26,9 @@ Offense
 
 **Speed** 10 ft., swim 60 ft.
 
-**Melee** longspear +2 (1d8/×3)
+**Melee** longspear +2 (1d8_dir/×3)
 
-**Ranged** light crossbow +2 (1d8/19–20)
+**Ranged** light crossbow +2 (1d8_dir/19–20)
 
 Statistics
 
@@ -36,9 +36,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +1; **CMD** 12
 
-**Feats** [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (longspear)
+**Feats** [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (longspear)
 
-**Skills** [Craft](additionalMonsters/../skills/craft#_craft) (any one) +6, [Perception](additionalMonsters/../skills/perception#_perception) +3, [Survival](additionalMonsters/../skills/survival#_survival) +6, [Swim](additionalMonsters/../skills/swim#_swim) +8
+**Skills** [Craft](additionalMonsters_dir/../skills_dir/craft#_craft) (any one) +6, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +3, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +6, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +8
 
 **Languages** Aquan
 
@@ -46,7 +46,7 @@ Statistics
 
 Ecology
 
-**Environment** temperate or warm [aquatic](monsters/creatureTypes#_aquatic-subtype)
+**Environment** temperate or warm [aquatic](monsters_dir/creatureTypes#_aquatic-subtype)
 
 **Organization** solitary, band (2–10), or tribe (11–30 plus 2 fighter sergeants of 1st–3rd level and 1 cleric leader of 3rd–6th level)
 

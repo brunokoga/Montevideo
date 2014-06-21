@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCampaign/characterBackground/backgroundGenerator
+title: ultimateCampaign_dir/characterBackground_dir/backgroundGenerator
 ---
 # Background Generator
 
@@ -329,7 +329,7 @@ Most of the time, your parents both come from the same social stratum. It's unco
 | d% | Result |
 | --- | --- |
 | 01—05 | **Slaves** : You gain access to the Life of Toil social trait. |
-| 06—25 | **Serfs/Peasants** : You gain access to the Poverty- Stricken social trait. |
+| 06—25 | **Serfs_dir/Peasants** : You gain access to the Poverty- Stricken social trait. |
 | 26—30 | **Entertainers** : You gain access to the Talented social trait. |
 | 31—34 | **Soldiers** : You gain access to the Tactician combat trait. |
 | 35—37 | **Sailors** : You gain access to the Worldly social trait. |
@@ -393,7 +393,7 @@ During your childhood, you were influenced by a significant event that helped to
 | 61—65 | **Kidnapped** : You were kidnapped at some point in your childhood. The kidnappers might have been pirates, slavers, thieves looking for ransom, a powerful guild seeking to blackmail your parents, a cult, and so on else. Before you were released, were ransomed, or escaped, you picked up on various aspects of the criminal underworld. You gain access to the Canter social trait and the Liberator story feat. |
 | 66—70 | **Magical Gift** : When you were a child, you found, stole, or were given a magic item that gave you an extraordinary ability. You may have used this item for mischief, crime, or good. Since that time, magic items have always held a special fascination for you. You gain access to the Magical Talent magic trait. |
 | 71—75 | **Major Disaster** : You witnessed—and survived—a major disaster in your childhood years, such as a great fire, flood, earthquake, volcano, or storm. It obliterated the settlement where you lived, whether a small village, large city, or entire island. You gain access to the Resilient combat trait and the Unforgotten story feat. |
-| 76—80 | **Mentorship/Patronage** : A mentor or patron took an interest in your development and volunteered to train or sponsor you. This creature's motives might not be entirely clear, but without its influence you would not be who you are. You gain access to the Mentored social trait. |
+| 76—80 | **Mentorship_dir/Patronage** : A mentor or patron took an interest in your development and volunteered to train or sponsor you. This creature's motives might not be entirely clear, but without its influence you would not be who you are. You gain access to the Mentored social trait. |
 | 81—85 | **Met a Fantastic Creature** : When you were only a child, you made contact with a magical creature, such as a dragon, unicorn, genie, pixie, or similar creature. You learned a powerful lesson or a magic trick from that creature. This meeting changed your life and made you different from the other children. You gain access to the Gifted Adept magic trait. |
 | 86—90 | **Ordinary Childhood** : Your childhood was fairly ordinary, with no major blessing or catastrophe—a stark contrast to an adventuring life. You lived your life in anticipation of growing up so you could affect the dull backdrop upon which your mundane life was painted. Now that you've grown, it's easy to miss those tranquil days where nothing ever seemed to happen. You gain access to the Ordinary social trait. |
 | 91—95 | **Raiders** : A horde of raiders attacked your settlement and killed several of your people. This could have been a tribe of brutal humanoids or the conquering army of a civilized nation. As a result, you harbor deep resentment toward a particular faction, race, or country. You gain access to the Axe to Grind combat trait, the Foeslayer story feat, and the Vengeance story feat. |
@@ -533,7 +533,7 @@ Those who become fighters take up the sword for many reasons. Some fight for coi
 | 61—70 | **Mercenary** : Everyone needs to earn a living, and in your youth you were fast, strong, or tough enough to fight for pay. There are good causes and bad causes, but at the end of the day, it all comes down to money. Sometimes you got easy jobs, like guarding merchant caravans; other times the jobs are rough, like fighting in a rebel lord's private army. You gain access to the Mercenary social trait. |
 | 71—80 | **On the Street** : You spent adolescence in a seedy part of town. You learned to fight dirty and fight mean. Turns out you were good at it. Your skills drew the interest of gang and guild leaders, tavern keepers, and anyone else who needed hired muscle. You gain access to the Child of the Streets social trait. |
 | 81—90 | **Schooled** : You learned to fight in a structured environment where you were exposed to a variety of weapons, armor, strategies, and tactics. You learned to fight as part of a unit, how to follow orders and how to command a squad. You gain access to the Tactician combat trait. |
-| 91—100 | **[Survival](skills/survival#_survival)** : You spent some part of your life in the wild—in places that abide by the laws of nature rather than those of civilization. You survived by being stronger, faster, and more cunning than the predators. That meant you fought not for coin, honor, or principle, but for your very life. You gain access to the Resilient combat trait. |
+| 91—100 | **[Survival](skills_dir/survival#_survival)** : You spent some part of your life in the wild—in places that abide by the laws of nature rather than those of civilization. You survived by being stronger, faster, and more cunning than the predators. That meant you fought not for coin, honor, or principle, but for your very life. You gain access to the Resilient combat trait. |
 
 ## Gunslinger
 
@@ -745,7 +745,7 @@ Perhaps no other class exemplifies the acquisition of power through sheer focus 
 | 21—30 | **Fitting In** : You hail from a long line of sorcerers or from a community known for its natural affinity for magic. Your manifestation of wizardly talent, as opposed to blood-based sorcery, caused you to hide those talents at a young age, and then to disguise them as sorcery to the best of your ability later. You still retain some tricks from this early misdirection. You gain access to the Shrouded Casting magic trait. |
 | 31—40 | **Gifted Pride** : Your affinity for magic has made you somewhat crass and arrogant, though some find your blunt disposition charming or worthy of respect. The air of superiority surrounding you is palpable and allows you to use you intellect to cow others at times when lesser individuals might barely get a word in. You gain access to the Bruising Intellect social trait. |
 | 41—50 | **Mortality's Mirror** : Your childhood innocence ended the moment you realized that someday you would die. This revelation may have come to you at the deathbed of a beloved relative, during a bloody siege against your homeland, or via some other eye-opening event. You have spent the rest of your life trying to master magic in order to change this most universal fate from stealing your last breaths away. You now have a keen eye for the magic of death and for discerning answers to ancient riddles. You gain access to the Greater Purpose magic trait. |
-| 51—60 | **Righting a Wrong** : In your youth, you witnessed an event that changed the fate of many or of a tragic few, such as a natural disaster (like a flood, hurricane, or fire) or simply a friend's unfortunate accident during a childish game. You were burdened by the knowledge that magic— perhaps even a spell as simple as _ [feather fall](spells/featherFall#_feather-fall)_ **—** could have changed the course of lives. You've dedicated yourself to magic in an effort to make sure that you are never subject to the capricious whims of fate again. You gain access to the Desperate Resolve magic trait. |
+| 51—60 | **Righting a Wrong** : In your youth, you witnessed an event that changed the fate of many or of a tragic few, such as a natural disaster (like a flood, hurricane, or fire) or simply a friend's unfortunate accident during a childish game. You were burdened by the knowledge that magic— perhaps even a spell as simple as _ [feather fall](spells_dir/featherFall#_feather-fall)_ **—** could have changed the course of lives. You've dedicated yourself to magic in an effort to make sure that you are never subject to the capricious whims of fate again. You gain access to the Desperate Resolve magic trait. |
 | 61—70 | **Storied Lineage** : Your family name is synonymous with wizardry of the highest caliber. Magic was your destined path before you were even born, and both your family and those who know of your lineage have supported this notion your entire life, granting you an unwavering confidence in your talents. While the pursuit of arcane mastery is never easy, you are driven to live up to the expectations set forth for you. You gain access to the Resilient Caster magic trait. |
 | 71—80 | **The Way Things Work** : Magic came alive the first time you held a magic item. The notion of extraordinary magic resting within something as seemingly ordinary as a ring, amulet, or stoppered vial changed the way you viewed the world, and ever since you've possessed a sense of curiosity and awe for all magic items. You gain access to the Magic Crafter magic trait and the Eldritch Researcher story feat. |
 | 81—90 | **Unpaid Debt** : Someone saved your life at great cost. Whether through healing magic or basic heroism, your savior gave her life that you might live. Striving to repay this debt has led you to study magic, the only thing capable of making enough of a difference in the world to make you feel that you have earned the gift given to you. This sense of purpose has engendered an unshakable resolve in you. You gain access to the Principled faith trait. |
@@ -768,7 +768,7 @@ Influential associates are people who had (or continue to have) a strong influen
 | 36—40 | **The Liege Lord** : You became close with someone you were bound to serve, be it a minor lord or lady, master (in the case of a slave), prince or princess, king or queen. Though this person held power over you, she held you closer than a subject or servant. As a result, you're used to dealing with and being close to power, and your name is known among the ranks of the privileged. You gain access to the Influence social trait. |
 | 41—45 | **The Relative** : There is a relative you were especially close to. To you, this person was the meaning of family. He helped shepherd you into adulthood, teaching you everything you know about the world. You are bound to this person or his memory, and you strive to keep a promise, vow, or oath that you made to him. You gain access to the Oathbound faith trait. |
 | 46—50 | **The Boss** : You once gained employment under an organized and powerful individual with far- reaching influence. When the boss was present, everyone listened. This could have been a military commander, tribal chieftain, guild leader, or gang leader. From the boss, you learned how to make people listen, make them see reason, and keep them in line. You gain access to the Natural-Born Leader social trait. |
-| 51—55 | **The Academic** : One of your associates had such a lust for knowledge that she could never be satisfied with simple answers or obvious solutions. This desire for knowledge frequently exceeded her need for companionship, but you were the single exception. Through this association you developed a keen appreciation for numbers, geometry, logic, hard study, and problem solving. You gain access to the Mathematical [Prodigy](ultimateMagic/ultimateMagicFeats#prodigy) magic trait. |
+| 51—55 | **The Academic** : One of your associates had such a lust for knowledge that she could never be satisfied with simple answers or obvious solutions. This desire for knowledge frequently exceeded her need for companionship, but you were the single exception. Through this association you developed a keen appreciation for numbers, geometry, logic, hard study, and problem solving. You gain access to the Mathematical [Prodigy](ultimateMagic_dir/ultimateMagicFeats#prodigy) magic trait. |
 | 56—60 | **The Criminal** : One of your associates committed crimes regularly. He regaled you with many stories of daring robberies and break-ins—and perhaps even murders. You learned most of what you know of the criminal element from him, and he trusted you as a friend. You gain access to the Canter social trait. |
 | 61—65 | **The Seer** : You were close to a person who claimed to see the future—perhaps an oracle, seer, prophet, or merely some festival charlatan. Whether they're true or a trick, you've seen visions of distant places and of times that may come to pass. The seer's influence either made you into an optimist with a drive to change the future or a fatalist resigned to accept it. You gain access to the Scholar of the Great Beyond faith trait. |
 | 66—70 | **The Mystic** : You were especially close to a holy person in your community who fundamentally changed your life by opening your eyes to the incredible powers that exist beyond the natural world. Regardless of whether you follow a faith, certain religious artifacts, rituals, and texts played a large part in making you the person you are. You gain access to the Child of the Temple faith trait. |
@@ -906,7 +906,7 @@ If you have the Criminal social trait, roll on Table 1—30 to determine the cri
 | 31—40 | Heresy |
 | 41—50 | Minor offense (sumptuary law) |
 | 51—60 | Murder |
-| 61—70 | Rebellion/treason |
+| 61—70 | Rebellion_dir/treason |
 | 71—80 | Robbery |
 | 81—90 | Smuggling |
 | 91—100 | Unlawful use of magic |
@@ -1008,7 +1008,7 @@ If you end up with a result that makes no sense or isn't possible, reroll or jus
 [Relationship with Fellow Adventurers]
 | d% | Result |
 | --- | --- |
-| 01—05 | Family or close as family—close friends, close/distant relatives, relatives by marriage/adoption |
+| 01—05 | Family or close as family—close friends, close_dir/distant relatives, relatives by marriage_dir/adoption |
 | 06—10 | Friend of a friend |
 | 11—15 | Tavern buddies |
 | 16—20 | Hunting companions |

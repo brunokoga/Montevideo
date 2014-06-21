@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/plantGrowth
+title: spells_dir/plantGrowth
 ---
  **Plant Growth**
 

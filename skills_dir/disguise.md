@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills/disguise
+title: skills_dir/disguise
 ---
 # Disguise
 

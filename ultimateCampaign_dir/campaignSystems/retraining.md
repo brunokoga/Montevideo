@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCampaign/campaignSystems/retraining
+title: ultimateCampaign_dir/campaignSystems_dir/retraining
 ---
 # Retraining
 
@@ -56,9 +56,9 @@ Class features you can retrain are as follows (some entries also call out other 
 
 **Barbarian** : Retrain one rage power.
 
-**Bard** : Retrain one type of [Perform](skills/perform#_perform) skill associated with your versatile performance class feature. See also retraining skill ranks and retraining spells known.
+**Bard** : Retrain one type of [Perform](skills_dir/perform#_perform) skill associated with your versatile performance class feature. See also retraining skill ranks and retraining spells known.
 
-**Cavalier** : You can change your order; the rules for this are found [here](advanced/baseClasses/cavalier#_order). See also retraining feats.
+**Cavalier** : You can change your order; the rules for this are found [here](advanced_dir/baseClasses_dir/cavalier#_order). See also retraining feats.
 
 **Cleric** : Retrain one domain; the new domain must be one granted by your deity. Doing so replaces your list of domain spells and your domain granted powers. If you are a neutral cleric of a neutral deity, you can instead retrain whether you channel positive or negative energy, which also changes whether you spontaneously cast _cure_ spells or _inflict_ spells.
 
@@ -141,7 +141,7 @@ When you retrain a class level, you lose all the benefits of the highest level y
 
 This retraining does not allow you to reselect the feats your character gains at odd levels or the ability score increases your character gains every four levels (though you can retrain those options separately). If retraining a class level means you no longer qualify for a feat, prestige class, or other ability you have, you can't use that feat, prestige class, or ability until you meet the qualifications again. (You can still retrain that feat, prestige class, or other ability.)
 
-_Example_: Mark is playing a ranger 5/rogue 2, and has decided he'd like to retrain one of his ranger levels into a rogue level (so he has to find a 3rd-level rogue). When he completes the training, he immediately loses all benefits from taking ranger level 5 (base attack bonus, saving throw bonuses, Hit Dice, hit points, skill ranks, and class features), then gains 1 level in rogue, immediately gaining all the benefits of rogue level 3. Mark's character is now a ranger 4/rogue 3. This retraining did not change Mark's 7th-level feat.
+_Example_: Mark is playing a ranger 5_dir/rogue 2, and has decided he'd like to retrain one of his ranger levels into a rogue level (so he has to find a 3rd-level rogue). When he completes the training, he immediately loses all benefits from taking ranger level 5 (base attack bonus, saving throw bonuses, Hit Dice, hit points, skill ranks, and class features), then gains 1 level in rogue, immediately gaining all the benefits of rogue level 3. Mark's character is now a ranger 4_dir/rogue 3. This retraining did not change Mark's 7th-level feat.
 
 If you are retraining a level in an NPC class (adept, aristocrat, commoner, or expert) to a level in any other class, the training takes only 3 days. This allows an NPC soldier to begin her career as a warrior and eventually become an officer who is a single-classed fighter, and for a younger character to start out with one commoner or expert level and become a 1st-level adventurer with a PC class when he reaches adulthood.
 
@@ -163,7 +163,7 @@ _Example_: If you are a fighter 5 with Constitution 14 and you haven't allocated
 
 You can spend time to learn an additional language. It takes 20 days of training to gain a bonus language, and these days need not be consecutive. Each language requires a trainer who shares a language with you and knows the language you want to learn, or a book written in a language you know that explains the basics of the language you want to learn.
 
-The new language does not count toward your maximum number of languages (racial languages + bonus languages from Intelligence + [Linguistics](skills/linguistics#_linguistics) ranks). You can train this way only a number of times equal to 1 + your Intelligence bonus.
+The new language does not count toward your maximum number of languages (racial languages + bonus languages from Intelligence + [Linguistics](skills_dir/linguistics#_linguistics) ranks). You can train this way only a number of times equal to 1 + your Intelligence bonus.
 
 ## Racial Trait
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/spellstaff
+title: spells_dir/spellstaff
 ---
  **Spellstaff**
 

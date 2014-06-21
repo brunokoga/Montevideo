@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/detectGood
+title: spells_dir/detectGood
 ---
  **Detect Good**
 

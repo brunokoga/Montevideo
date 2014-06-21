@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/baseClasses/cavalier
+title: advanced_dir/baseClasses_dir/cavalier
 ---
 # Cavalier
 
@@ -14,33 +14,33 @@ While many warriors strive to perfect their art, spending all of their time honi
 
 # Class Skills
 
-The cavalier's class skills are [Bluff](../../skills/bluff#_bluff) (Cha), [Climb](../../skills/climb#_climb) (Str), [Craft](../../skills/craft#_craft) (Int), [Diplomacy](../../skills/diplomacy#_diplomacy) (Cha), [Handle Animal](../../skills/handleAnimal#_handle-animal) (Cha), [Intimidate](../../skills/intimidate#_intimidate) (Cha), [Profession](../../skills/profession#_profession) (Wis), [Ride](../../skills/ride#_ride) (Dex), [Sense Motive](../../skills/senseMotive#_sense-motive) (Wis), and [Swim](../../skills/swim#_swim) (Str).
+The cavalier's class skills are [Bluff](../../skills_dir/bluff#_bluff) (Cha), [Climb](../../skills_dir/climb#_climb) (Str), [Craft](../../skills_dir/craft#_craft) (Int), [Diplomacy](../../skills_dir/diplomacy#_diplomacy) (Cha), [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) (Cha), [Intimidate](../../skills_dir/intimidate#_intimidate) (Cha), [Profession](../../skills_dir/profession#_profession) (Wis), [Ride](../../skills_dir/ride#_ride) (Dex), [Sense Motive](../../skills_dir/senseMotive#_sense-motive) (Wis), and [Swim](../../skills_dir/swim#_swim) (Str).
 
 **Skill Ranks per Level** : 4 + Int modifier.
 
 [Table: Cavalier]
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 | --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +0 | +0 | Challenge 1/day, mount, order, tactician |
+| 1st | +1 | +2 | +0 | +0 | Challenge 1_dir/day, mount, order, tactician |
 | 2nd | +2 | +3 | +0 | +0 | Order ability |
 | 3rd | +3 | +3 | +1 | +1 | Cavalier's charge |
-| 4th | +4 | +4 | +1 | +1 | Challenge 2/day, expert trainer |
+| 4th | +4 | +4 | +1 | +1 | Challenge 2_dir/day, expert trainer |
 | 5th | +5 | +4 | +1 | +1 | Banner |
-| 6th | +6/+1 | +5 | +2 | +2 | Bonus feat |
-| 7th | +7/+2 | +5 | +2 | +2 | Challenge 3/day |
-| 8th | +8/+3 | +6 | +2 | +2 | Order ability |
-| 9th | +9/+4 | +6 | +3 | +3 | Greater tactician |
-| 10th | +10/+5 | +7 | +3 | +3 | Challenge 4/day |
-| 11th | +11/+6/+1 | +7 | +3 | +3 | Mighty charge |
-| 12th | +12/+7/+2 | +8 | +4 | +4 | Bonus feat, demanding challenge |
-| 13th | +13/+8/+3 | +8 | +4 | +4 | Challenge 5/day |
-| 14th | +14/+9/+4 | +9 | +4 | +4 | Greater banner |
-| 15th | +15/+10/+5 | +9 | +5 | +5 | Order ability |
-| 16th | +16/+11/+6/+1 | +10 | +5 | +5 | Challenge 6/day |
-| 17th | +17/+12/+7/+2 | +10 | +5 | +5 | Master tactician |
-| 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Bonus feat |
-| 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Challenge 7/day |
-| 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Supreme charge |
+| 6th | +6_dir/+1 | +5 | +2 | +2 | Bonus feat |
+| 7th | +7_dir/+2 | +5 | +2 | +2 | Challenge 3_dir/day |
+| 8th | +8_dir/+3 | +6 | +2 | +2 | Order ability |
+| 9th | +9_dir/+4 | +6 | +3 | +3 | Greater tactician |
+| 10th | +10_dir/+5 | +7 | +3 | +3 | Challenge 4_dir/day |
+| 11th | +11_dir/+6_dir/+1 | +7 | +3 | +3 | Mighty charge |
+| 12th | +12_dir/+7_dir/+2 | +8 | +4 | +4 | Bonus feat, demanding challenge |
+| 13th | +13_dir/+8_dir/+3 | +8 | +4 | +4 | Challenge 5_dir/day |
+| 14th | +14_dir/+9_dir/+4 | +9 | +4 | +4 | Greater banner |
+| 15th | +15_dir/+10_dir/+5 | +9 | +5 | +5 | Order ability |
+| 16th | +16_dir/+11_dir/+6_dir/+1 | +10 | +5 | +5 | Challenge 6_dir/day |
+| 17th | +17_dir/+12_dir/+7_dir/+2 | +10 | +5 | +5 | Master tactician |
+| 18th | +18_dir/+13_dir/+8_dir/+3 | +11 | +6 | +6 | Bonus feat |
+| 19th | +19_dir/+14_dir/+9_dir/+4 | +11 | +6 | +6 | Challenge 7_dir/day |
+| 20th | +20_dir/+15_dir/+10_dir/+5 | +12 | +6 | +6 | Supreme charge |
 
 # Class Features
 
@@ -56,7 +56,7 @@ The challenge remains in effect until the target is dead or unconscious or until
 
 **Mount (Ex)** : A cavalier gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid's animal companion, using the cavalier's level as his effective druid level. The creature must be one that he is capable of riding and is suitable as a mount. A Medium cavalier can select a camel or a horse. A Small cavalier can select a pony or wolf, but can also select a boar or a dog if he is at least 4th level. The GM might approve other animals as suitable mounts.
 
-A cavalier does not take an armor check penalty on [Ride](../../skills/ride#_ride) checks while riding his mount. The mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat. A cavalier's mount does not gain the share spells special ability.
+A cavalier does not take an armor check penalty on [Ride](../../skills_dir/ride#_ride) checks while riding his mount. The mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat. A cavalier's mount does not gain the share spells special ability.
 
 A cavalier's bond with his mount is strong, with the pair learning to anticipate each other's moods and moves. Should a cavalier's mount die, the cavalier may find another mount to serve him after 1 week of mourning. This new mount does not gain the link, evasion, devotion, or improved evasion special abilities until the next time the cavalier gains a level.
 
@@ -68,7 +68,7 @@ A cavalier cannot change his order without undertaking a lengthy process to dedi
 
 **Cavalier's Charge (Ex)** : At 3rd level, a cavalier learns to make more accurate charge attacks while mounted. The cavalier receives a +4 bonus on melee attack rolls on a charge while mounted (instead of the normal +2). In addition, the cavalier does not suffer any penalty to his AC after making a charge attack while mounted.
 
-**Expert Trainer (Ex)** : At 4th level, a cavalier learns to train mounts with speed and unsurpassed expertise. The cavalier receives a bonus equal to 1/2 his cavalier level whenever he uses [Handle Animal](../../skills/handleAnimal#_handle-animal) on an animal that serves as a mount. In addition, he can reduce the time needed to teach a mount a new trick or train a mount for a general purpose to 1 day per 1 week required by increasing the DC by +5. He can also train more than one mount at once, although each mount after the first adds +2 to the DC.
+**Expert Trainer (Ex)** : At 4th level, a cavalier learns to train mounts with speed and unsurpassed expertise. The cavalier receives a bonus equal to 1_dir/2 his cavalier level whenever he uses [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) on an animal that serves as a mount. In addition, he can reduce the time needed to teach a mount a new trick or train a mount for a general purpose to 1 day per 1 week required by increasing the DC by +5. He can also train more than one mount at once, although each mount after the first adds +2 to the DC.
 
 **Banner (Ex)** : At 5th level, a cavalier's banner becomes a symbol of inspiration to his allies and companions. As long as the cavalier's banner is clearly visible, all allies within 60 feet receive a +2 morale bonus on saving throws against fear and a +1 morale bonus on attack rolls made as part of a charge. At 10th level, and every five levels thereafter, these bonuses increase by +1. The banner must be at least Small or larger and must be carried or displayed by the cavalier or his mount to function.
 
@@ -98,7 +98,7 @@ A cavalier who belongs to this order serves only himself, working to further his
 
 **Challenge** : Whenever an order of the cockatrice cavalier issues a challenge, he receives a +1 morale bonus on all melee damage rolls made against the target of his challenge as long as he is the only creature threatening the target (not counting his mount). This bonus increases by +1 for every four levels the cavalier possesses.
 
-**Skills** : An order of the cockatrice cavalier adds [Appraise](../../skills/appraise#_appraise) (Int) and [Perform](../../skills/perform#_perform) (Cha) to his list of class skills. In addition, an order of the cockatrice cavalier adds his Charisma modifier to the DC on another creature's attempt to demoralize him through [Intimidate](../../skills/intimidate#_intimidate) (in addition to his Wisdom modifier, as normal).
+**Skills** : An order of the cockatrice cavalier adds [Appraise](../../skills_dir/appraise#_appraise) (Int) and [Perform](../../skills_dir/perform#_perform) (Cha) to his list of class skills. In addition, an order of the cockatrice cavalier adds his Charisma modifier to the DC on another creature's attempt to demoralize him through [Intimidate](../../skills_dir/intimidate#_intimidate) (in addition to his Wisdom modifier, as normal).
 
 **Order Abilities** : A cavalier that belongs to the order of the cockatrice gains the following abilities as he increases in level.
 
@@ -116,7 +116,7 @@ Cavaliers belonging to the order of the dragon dedicate themselves to a group of
 
 **Challenge** : Whenever an order of the dragon cavalier issues a challenge, his allies receive a +1 circumstance bonus on melee attack rolls against the target of his challenge whenever he is threatening the target. This bonus increases by +1 for every four levels the cavalier possesses.
 
-**Skills** : An order of the dragon cavalier adds [Perception](../../skills/perception#_perception) (Wis) and [Survival](../../skills/survival#_survival) (Wis) to his list of class skills. In addition, whenever an order of the dragon cavalier uses [Survival](../../skills/survival#_survival) to provide food and water for his allies or to protect his allies from harsh weather, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1).
+**Skills** : An order of the dragon cavalier adds [Perception](../../skills_dir/perception#_perception) (Wis) and [Survival](../../skills_dir/survival#_survival) (Wis) to his list of class skills. In addition, whenever an order of the dragon cavalier uses [Survival](../../skills_dir/survival#_survival) to provide food and water for his allies or to protect his allies from harsh weather, he receives a bonus on the check equal to 1_dir/2 his cavalier level (minimum +1).
 
 **Order Abilities** : A cavalier that belongs to the order of the dragon gains the following abilities as he increases in level.
 
@@ -134,7 +134,7 @@ A cavalier who belongs to this order has pledged himself to a sovereign; be it a
 
 **Challenge** : Whenever an order of the lion cavalier issues a challenge, he receives a +1 dodge bonus to his AC against attacks made by the target of his challenge. This bonus increases by +1 for every four levels the cavalier possesses.
 
-**Skills** : An order of the lion cavalier adds [Knowledge](../../skills/knowledge#_knowledge) (local) (Int) and [Knowledge](../../skills/knowledge#_knowledge) (nobility) (Int) to his list of class skills. An order of the lion cavalier can make [Knowledge](../../skills/knowledge#_knowledge) (nobility) skill checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1) as long as the check involves his sovereign.
+**Skills** : An order of the lion cavalier adds [Knowledge](../../skills_dir/knowledge#_knowledge) (local) (Int) and [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) (Int) to his list of class skills. An order of the lion cavalier can make [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) skill checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1_dir/2 his cavalier level (minimum +1) as long as the check involves his sovereign.
 
 **Order Abilities** : A cavalier belonging to the order of the lion gains the following abilities as he increases in level.
 
@@ -152,7 +152,7 @@ Cavaliers who join the order of the shield devote their lives to protecting the 
 
 **Challenge** : Whenever an order of the shield cavalier issues a challenge, he receives a +1 morale bonus on attack rolls made against the target of his challenge if the target makes an attack against a target other than the cavalier. This bonus lasts for 1 minute. The bonus increases by +1 for every four levels the cavalier possesses.
 
-**Skills** : An order of the shield cavalier adds [Heal](../../skills/heal#_heal) (Wis) and [Knowledge](../../skills/knowledge#_knowledge) (local) (Int) to his list of class skills. Whenever an order of the shield cavalier uses the [Heal](../../skills/heal#_heal) skill on a creature other than himself, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1).
+**Skills** : An order of the shield cavalier adds [Heal](../../skills_dir/heal#_heal) (Wis) and [Knowledge](../../skills_dir/knowledge#_knowledge) (local) (Int) to his list of class skills. Whenever an order of the shield cavalier uses the [Heal](../../skills_dir/heal#_heal) skill on a creature other than himself, he receives a bonus on the check equal to 1_dir/2 his cavalier level (minimum +1).
 
 **Order Abilities** : A cavalier belonging to the order of the shield gains the following abilities as he increases in level.
 
@@ -170,11 +170,11 @@ Cavaliers who join the order of the star dedicate themselves to the protection a
 
 **Challenge** : Whenever an order of the star cavalier issues a challenge, he receives a +1 morale bonus on all his saving throws as long as he is threatening the target of his challenge. This bonus increases by +1 for every four levels the cavalier possesses.
 
-**Skills** : An order of the star cavalier adds [Heal](../../skills/heal#_heal) (Wis) and [Knowledge](../../skills/knowledge#_knowledge) (religion) (Int) to his list of class skills. An order of the star cavalier can make [Knowledge](../../skills/knowledge#_knowledge) (religion) skill checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1) as long as the check involves his chosen faith.
+**Skills** : An order of the star cavalier adds [Heal](../../skills_dir/heal#_heal) (Wis) and [Knowledge](../../skills_dir/knowledge#_knowledge) (religion) (Int) to his list of class skills. An order of the star cavalier can make [Knowledge](../../skills_dir/knowledge#_knowledge) (religion) skill checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1_dir/2 his cavalier level (minimum +1) as long as the check involves his chosen faith.
 
 **Order Abilities** : An order of the star cavalier gains the following abilities as he increases in level.
 
-_Calling (Ex)_: At 2nd level, the cavalier can make a short prayer as a standard action, filling him with confidence in his abilities. At any point in the next minute, he can receive a competence bonus on an ability check, attack roll, saving throw, or skill check equal to his Charisma modifier. He must declare that he is using this bonus before the roll is made. He can use this ability up to four times per day, once for each type of check or roll. In addition, the cavalier adds 1/2 his cavalier level to any levels of paladin or cleric he might possess for the purposes of determining the effects of channel energy or lay on hands.
+_Calling (Ex)_: At 2nd level, the cavalier can make a short prayer as a standard action, filling him with confidence in his abilities. At any point in the next minute, he can receive a competence bonus on an ability check, attack roll, saving throw, or skill check equal to his Charisma modifier. He must declare that he is using this bonus before the roll is made. He can use this ability up to four times per day, once for each type of check or roll. In addition, the cavalier adds 1_dir/2 his cavalier level to any levels of paladin or cleric he might possess for the purposes of determining the effects of channel energy or lay on hands.
 
 _For the Faith (Ex)_: At 8th level, the cavalier can call upon his faith to bolster himself in combat. As a free action, the cavalier can call out the name of his deity, granting him a morale bonus on attack rolls equal to his Charisma modifier for 1 round. In addition, any allies within 30 feet that share his faith also receive half this bonus (minimum +1). The cavalier can use this ability once per day, plus one additional time per day at 12th level and every four levels thereafter.
 
@@ -188,13 +188,13 @@ Cavaliers who join the order of the sword dedicate their lives to the code of ch
 
 **Challenge** : Whenever an order of the sword cavalier issues a challenge, he receives a +1 morale bonus on attack rolls against the target of his challenge so long as he is astride his mount. The bonus increases by +1 for every four levels the cavalier possesses.
 
-**Skills** : An order of the sword cavalier adds [Knowledge](../../skills/knowledge#_knowledge) (nobility) (Int) and [Knowledge](../../skills/knowledge#_knowledge) (religion) (Int) to his list of class skills. Whenever the cavalier uses [Sense Motive](../../skills/senseMotive#_sense-motive) to oppose a [Bluff](../../skills/bluff#_bluff) check, he receives a competence bonus on the check equal to 1/2 his cavalier level (minimum +1).
+**Skills** : An order of the sword cavalier adds [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) (Int) and [Knowledge](../../skills_dir/knowledge#_knowledge) (religion) (Int) to his list of class skills. Whenever the cavalier uses [Sense Motive](../../skills_dir/senseMotive#_sense-motive) to oppose a [Bluff](../../skills_dir/bluff#_bluff) check, he receives a competence bonus on the check equal to 1_dir/2 his cavalier level (minimum +1).
 
 **Order Abilities** : An order of the sword cavalier receives the following abilities as he increases in level.
 
 _By My Honor (Ex)_: At 2nd level, the cavalier must select one alignment. As long as he maintains the selected alignment, he receives a +2 morale bonus to one saving throw of his choice.
 
-_Mounted Mastery (Ex)_: At 8th level, the cavalier ignores the armor check penalty when using the [Ride](../../skills/ride#_ride) skill, regardless of whether or not the creature he is riding is his mount. Whenever he makes a charge attack while mounted, he receives a +4 dodge bonus to his AC to avoid attacks set against his charge. When making such an attack, he can add his mount's Strength modifier to the damage roll, in addition to his own. He also receives a bonus feat, chosen from the following list: [Mounted Combat](../../feats#_mounted-combat), [Ride-By Attack](../../feats#_ride-by-attack), [Skill Focus](../../feats#_skill-focus) ( [Ride](../../skills/ride#_ride)), [Spirited Charge](../../feats#_spirited-charge), [Trample](../../feats#_trample), or [Unseat](../../feats#_unseat). He must qualify for the feat selected.
+_Mounted Mastery (Ex)_: At 8th level, the cavalier ignores the armor check penalty when using the [Ride](../../skills_dir/ride#_ride) skill, regardless of whether or not the creature he is riding is his mount. Whenever he makes a charge attack while mounted, he receives a +4 dodge bonus to his AC to avoid attacks set against his charge. When making such an attack, he can add his mount's Strength modifier to the damage roll, in addition to his own. He also receives a bonus feat, chosen from the following list: [Mounted Combat](../../feats#_mounted-combat), [Ride-By Attack](../../feats#_ride-by-attack), [Skill Focus](../../feats#_skill-focus) ( [Ride](../../skills_dir/ride#_ride)), [Spirited Charge](../../feats#_spirited-charge), [Trample](../../feats#_trample), or [Unseat](../../feats#_unseat). He must qualify for the feat selected.
 
 _Knight's Challenge (Ex)_: At 15th level, the cavalier can make a knight's challenge once per day. This functions like a normal challenge, but the cavalier adds his Charisma bonus on all attack rolls and damage rolls made against the target of his challenge. In addition, he receives a +4 circumstance bonus on attack rolls made to confirm critical hits against the target of his knight's challenge.
 

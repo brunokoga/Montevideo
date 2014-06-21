@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/divineFavor
+title: spells_dir/divineFavor
 ---
  **Divine Favor**
 

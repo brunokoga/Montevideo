@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters/draugr
+title: additionalMonsters_dir/draugr
 ---
 # Draugr
 
@@ -10,9 +10,9 @@ This barnacle-encrusted walking corpse looks like a zombie, but is dripping with
 
 **XP 600**
 
-CE Medium [undead](monsters/creatureTypes#_undead) (water)
+CE Medium [undead](monsters_dir/creatureTypes#_undead) (water)
 
-**Init** +0; **Senses** darkvision 60 ft., [Perception](additionalMonsters/../skills/perception#_perception) +6
+**Init** +0; **Senses** darkvision 60 ft., [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6
 
 Defense
 
@@ -22,13 +22,13 @@ Defense
 
 **Fort** +2, **Ref** +1, **Will** +3
 
-**DR** 5/bludgeoning or slashing; **Immune** [undead](monsters/creatureTypes#_undead) traits; **Resist** [fire](monsters/creatureTypes#_fire-subtype) 10
+**DR** 5_dir/bludgeoning or slashing; **Immune** [undead](monsters_dir/creatureTypes#_undead) traits; **Resist** [fire](monsters_dir/creatureTypes#_fire-subtype) 10
 
 Offense
 
 **Speed** 30 ft., swim 30 ft.
 
-**Melee** greataxe +5 (1d12+4/×3 plus nausea) or
+**Melee** greataxe +5 (1d12+4_dir/×3 plus nausea) or
 
 slam +5 (1d10+4 plus nausea)
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +5; **CMD** 15
 
-**Feats** [Power Attack](additionalMonsters/../feats#_power-attack), [Toughness](additionalMonsters/../feats#_toughness)
+**Feats** [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Toughness](additionalMonsters_dir/../feats#_toughness)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +9, [Perception](additionalMonsters/../skills/perception#_perception) +6, [Stealth](additionalMonsters/../skills/stealth#_stealth) +6, [Swim](additionalMonsters/../skills/swim#_swim) +11
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +9, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +6, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +11
 
 **Languages** Common (cannot speak)
 
@@ -64,5 +64,5 @@ In the case of draugr who manifest when an entire ship sinks, these undead usual
 
 Draugr captains have malevolent, burning red eyes. They may be more richly dressed than other draugr, though their clothes are always in a similar tattered condition.
 
-A draugr captain is a draugr with the advanced simple template. In addition to this, most draugr captains have additional class levels, usually as barbarians, fighters, or rogues. Draugr captains can also use _ [obscuring mist](additionalMonsters/../spells/obscuringMist#_obscuring-mist)_ as a spell-like ability (CL 5th, concentration +8) three times per day, and instead of causing nausea with a successful hit, they bestow 1 negative level on a hit. A draugr captain can even bestow a negative level via a weapon it wields, but if it gains multiple attacks with a weapon, it can only bestow 1 negative level per round in this manner.
+A draugr captain is a draugr with the advanced simple template. In addition to this, most draugr captains have additional class levels, usually as barbarians, fighters, or rogues. Draugr captains can also use _ [obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_ as a spell-like ability (CL 5th, concentration +8) three times per day, and instead of causing nausea with a successful hit, they bestow 1 negative level on a hit. A draugr captain can even bestow a negative level via a weapon it wields, but if it gains multiple attacks with a weapon, it can only bestow 1 negative level per round in this manner.
 

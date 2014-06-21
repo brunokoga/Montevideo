@@ -1,20 +1,20 @@
 ---
 layout: default
-title: advanced/spells/enemyHammer
+title: advanced_dir/spells_dir/enemyHammer
 ---
  **Enemy Hammer**
 
-**School** transmutation; **Level** sorcerer/wizard 6
+**School** transmutation; **Level** sorcerer_dir/wizard 6
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (puppet strings)
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Target** one creature
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 

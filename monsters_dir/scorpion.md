@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/scorpion
+title: monsters_dir/scorpion
 ---
 # Scorpion, Giant
 
@@ -12,7 +12,7 @@ _The sixteen-foot-long scorpion scrabbles forward, ferocious claws raised in cha
 
 N Large [vermin](creatureTypes#_vermin)
 
-**Init** +0; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skills/perception#_perception) +4
+**Init** +0; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -40,7 +40,7 @@ N Large [vermin](creatureTypes#_vermin)
 
 **Base Atk** +3; **CMB** +8 (+12 grapple); **CMD** 18 (30 vs. trip)
 
-**Skills** [Climb](../skills/climb#_climb) +8, [Perception](../skills/perception#_perception) +4, [Stealth](../skills/stealth#_stealth) +0; **Racial Modifiers** +4 [Climb](../skills/climb#_climb), +4 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth)
+**Skills** [Climb](../skills_dir/climb#_climb) +8, [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +0; **Racial Modifiers** +4 [Climb](../skills_dir/climb#_climb), +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -52,7 +52,7 @@ N Large [vermin](creatureTypes#_vermin)
 
 **Special Abilities**
 
-**Poison (Ex)** Sting—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Strength [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**Poison (Ex)** Sting—injury; _save_ Fort DC 17; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d2 Strength [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
 
 Giant scorpions are monstrous versions of the more common desert scorpion. They are likely to attack any creature that approaches. Giant scorpions usually charge when attacking, grabbing prey in their pincers, then lashing their segmented tails forward to kill their victim with injected venom.
 
@@ -70,8 +70,8 @@ Other species of scorpions exist as well, some smaller but most quite a bit larg
 
 | Species | CR | Size | HD |
 | --- | --- | --- | --- |
-| Greensting scorpion | 1/4 | Tiny | 1d8 |
-| Ghost scorpion | 1/2 | Small | 2d8 |
+| Greensting scorpion | 1_dir/4 | Tiny | 1d8 |
+| Ghost scorpion | 1_dir/2 | Small | 2d8 |
 | Cave scorpion | 1 | Medium | 3d8 |
 | Deadfall scorpion | 8 | Huge | 10d8 |
 | Giant emperor scorpion | 11 | Gargantuan | 16d8 |

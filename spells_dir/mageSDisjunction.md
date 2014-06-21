@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/mageSDisjunction
+title: spells_dir/mageSDisjunction
 ---
  **Mage's Disjunction**
 
-**School** abjuration; **Level** sorcerer/wizard 9
+**School** abjuration; **Level** sorcerer_dir/wizard 9
 
 **Casting Time** 1 standard action
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Area** all magical effects and magic items within a 40-ft.-radius burst, or one magic item (see text)
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** no
 

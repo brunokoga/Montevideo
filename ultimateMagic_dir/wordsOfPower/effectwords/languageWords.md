@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/wordsOfPower/effectwords/languageWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/languageWords
 ---
 ## Language Words
 
@@ -8,9 +8,9 @@ Words from this family deal with language and help with communication.
 
 Decipher (Language)
 
-**School** divination; **Level** alchemist 1, bard 0, cleric 0, druid 0, inquisitor 0, magus 0, paladin 1, ranger 1, sorcerer/wizard 0, summoner 0, witch 0
+**School** divination; **Level** alchemist 1, bard 0, cleric 0, druid 0, inquisitor 0, magus 0, paladin 1, ranger 1, sorcerer_dir/wizard 0, summoner 0, witch 0
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -22,9 +22,9 @@ The target of a wordspell with this effect word can read text written in one par
 
 Translate (Language)
 
-**School** divination; **Level** alchemist 3, bard 2, cleric 4, sorcerer/wizard 3, witch 3
+**School** divination; **Level** alchemist 3, bard 2, cleric 4, sorcerer_dir/wizard 3, witch 3
 
-**Duration** 10 minutes/level
+**Duration** 10 minutes_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -34,7 +34,7 @@ The target of a wordspell with this effect word can read, write, speak, and unde
 
 Far Casting (Language)
 
-**School** divination; **Level** bard 5, cleric 5, sorcerer/wizard 5, witch 5
+**School** divination; **Level** bard 5, cleric 5, sorcerer_dir/wizard 5, witch 5
 
 **Duration** concentration
 

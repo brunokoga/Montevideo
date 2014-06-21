@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/invisibility
+title: spells_dir/invisibility
 ---
  **Invisibility**
 
-**School** illusion (glamer); **Level** bard 2, sorcerer/wizard 2
+**School** illusion (glamer); **Level** bard 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (an eyelash encased in gum arabic)
+**Components** V, S, M_dir/DF (an eyelash encased in gum arabic)
 
 **Range** personal or touch
 
-**Target** you or a creature or object weighing no more than 100 lbs./level
+**Target** you or a creature or object weighing no more than 100 lbs._dir/level
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless) or [Will](../combat#_will) negates (harmless, object); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless) or yes (harmless, object)
 
@@ -28,13 +28,13 @@ _Invisibility _can be made permanent (on objects only) with a _ [permanency](per
 
 **Invisibility, Greater**
 
-**School** illusion (glamer); **Level** bard 4, sorcerer/wizard 4
+**School** illusion (glamer); **Level** bard 4, sorcerer_dir/wizard 4
 
 **Components** : V, S
 
 **Target** you or creature touched
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless)
 
@@ -42,9 +42,9 @@ This spell functions like _invisibility_, except that it doesn't end if the subj
 
 **Invisibility, Mass**
 
-**School** illusion (glamer); **Level** sorcerer/wizard 7
+**School** illusion (glamer); **Level** sorcerer_dir/wizard 7
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Targets** any number of creatures, no two of which can be more than 180 ft. apart
 

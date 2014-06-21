@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/alignWeapon
+title: spells_dir/alignWeapon
 ---
  **Align Weapon**
 
@@ -14,7 +14,7 @@ title: spells/alignWeapon
 
 **Target** weapon touched or 50 projectiles (all of which must be together at the time of casting)
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless, object); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless, object)
 

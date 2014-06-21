@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/wordsOfPower/effectwords/lifeWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/lifeWords
 ---
 ## Life Words
 

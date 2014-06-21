@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/genie
+title: monsters_dir/genie
 ---
 # Genie, Djinni
 
@@ -12,7 +12,7 @@ _This creature stands nearly twice as tall as a human, although its lower torso 
 
 CG Large [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
-**Init** +8; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +12
+**Init** +8; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +12
 
 **Defense**
 
@@ -28,17 +28,17 @@ CG Large [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype)
 
 **Speed** 20 ft., fly 60 ft. (perfect)
 
-**Melee** 2 slams +10 (1d8+4) or mwk scimitar +11/+6 (1d8+4/18–20)
+**Melee** 2 slams +10 (1d8+4) or mwk scimitar +11_dir/+6 (1d8+4_dir/18–20)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** air mastery, [whirlwind](universalMonsterRules#_whirlwind) (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 17)
+**Special Attacks** air mastery, [whirlwind](universalMonsterRules#_whirlwind) (1_dir/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 17)
 
 **Spell-Like Abilities** (CL 9th)
 
-At will—_ [invisibility](../spells/invisibility#_invisibility)_ (self only), _ [plane shift](../spells/planeShift#_plane-shift)_ (willing targets to elemental planes, Astral Plane, or Material Plane only)
+At will—_ [invisibility](../spells_dir/invisibility#_invisibility)_ (self only), _ [plane shift](../spells_dir/planeShift#_plane-shift)_ (willing targets to elemental planes, Astral Plane, or Material Plane only)
 
-1/day—_ [create food and water](../spells/createFoodAndWater#_create-food-and-water)_,_ create wine_ (as _ [create water](../spells/createWater#_create-water)_, but wine instead), _ [gaseous form](../spells/gaseousForm#_gaseous-form)_ (for up to 1 hour), _ [major creation](../spells/majorCreation#_major-creation)_ (created vegetable matter is permanent), _ [persistent image](../spells/persistentImage#_persistent-image)_ (DC 17), _ [wind walk](../spells/windWalk#_wind-walk)_
+1_dir/day—_ [create food and water](../spells_dir/createFoodAndWater#_create-food-and-water)_,_ create wine_ (as _ [create water](../spells_dir/createWater#_create-water)_, but wine instead), _ [gaseous form](../spells_dir/gaseousForm#_gaseous-form)_ (for up to 1 hour), _ [major creation](../spells_dir/majorCreation#_major-creation)_ (created vegetable matter is permanent), _ [persistent image](../spells_dir/persistentImage#_persistent-image)_ (DC 17), _ [wind walk](../spells_dir/windWalk#_wind-walk)_
 
 **Statistics**
 
@@ -48,7 +48,7 @@ At will—_ [invisibility](../spells/invisibility#_invisibility)_ (self only), _
 
 **Feats** [Combat Casting](../feats#_combat-casting), [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative)B, [Wind Stance](../feats#_wind-stance)
 
-**Skills** [Appraise](../skills/appraise#_appraise) +12, [Craft](../skills/craft#_craft) (any one) +12, [Fly](../skills/fly#_fly) +20, [Knowledge](../skills/knowledge#_knowledge) (planes) +12, [Perception](../skills/perception#_perception) +12, [Sense Motive](../skills/senseMotive#_sense-motive) +12, [Spellcraft](../skills/spellcraft#_spellcraft) +12, [Stealth](../skills/stealth#_stealth) +10
+**Skills** [Appraise](../skills_dir/appraise#_appraise) +12, [Craft](../skills_dir/craft#_craft) (any one) +12, [Fly](../skills_dir/fly#_fly) +20, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +12, [Perception](../skills_dir/perception#_perception) +12, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +12, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +12, [Stealth](../skills_dir/stealth#_stealth) +10
 
 **Languages** Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.
 
@@ -82,7 +82,7 @@ _This muscular giant has crimson skin, smoldering eyes, and small black horns. S
 
 LE Large [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., detect magic; [Perception](../skills/perception#_perception) +15
+**Init** +7; **Senses** darkvision 60 ft., detect magic; [Perception](../skills_dir/perception#_perception) +15
 
 **Defense**
 
@@ -98,7 +98,7 @@ LE Large [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_extr
 
 **Speed** 20 ft., fly 40 ft. (perfect)
 
-**Melee** 2 slams +15 (1d8+6 plus 1d6 fire) or mwk falchion +16/+11 (2d6+9/18–20)
+**Melee** 2 slams +15 (1d8+6 plus 1d6 fire) or mwk falchion +16_dir/+11 (2d6+9_dir/18–20)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -106,13 +106,13 @@ LE Large [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_extr
 
 **Spell-Like Abilities** (CL 11th)
 
-Constant—_ [detect magic](../spells/detectMagic#_detect-magic)_
+Constant—_ [detect magic](../spells_dir/detectMagic#_detect-magic)_
 
-At Will—_ [plane shift](../spells/planeShift#_plane-shift)_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _ [produce flame](../spells/produceFlame#_produce-flame)_, _ [pyrotechnics](../spells/pyrotechnics#_pyrotechnics)_ (DC 14), _ [scorching ray](../spells/scorchingRay#_scorching-ray)_
+At Will—_ [plane shift](../spells_dir/planeShift#_plane-shift)_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _ [produce flame](../spells_dir/produceFlame#_produce-flame)_, _ [pyrotechnics](../spells_dir/pyrotechnics#_pyrotechnics)_ (DC 14), _ [scorching ray](../spells_dir/scorchingRay#_scorching-ray)_
 
-3/day—_ [invisibility](../spells/invisibility#_invisibility),_ quickened _ [scorching ray](../spells/scorchingRay#_scorching-ray), [wall of fire](../spells/wallOfFire#_wall-of-fire)_ (DC 16)
+3_dir/day—_ [invisibility](../spells_dir/invisibility#_invisibility),_ quickened _ [scorching ray](../spells_dir/scorchingRay#_scorching-ray), [wall of fire](../spells_dir/wallOfFire#_wall-of-fire)_ (DC 16)
 
-1/day—grant up to 3 _wishes_ (to nongenies only), _ [gaseous form](../spells/gaseousForm#_gaseous-form)_, _ [permanent image](../spells/permanentImage#_permanent-image)_ (DC 18)
+1_dir/day—grant up to 3 _wishes_ (to nongenies only), _ [gaseous form](../spells_dir/gaseousForm#_gaseous-form)_, _ [permanent image](../spells_dir/permanentImage#_permanent-image)_ (DC 18)
 
 **Statistics**
 
@@ -120,13 +120,13 @@ At Will—_ [plane shift](../spells/planeShift#_plane-shift)_ (willing targets t
 
 **Base Atk** +10; **CMB** +17; **CMD** 31
 
-**Feats** [Combat Casting](../feats#_combat-casting), [Combat Reflexes](../feats#_combat-reflexes), [Deceitful](../feats#_deceitful), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative)B, [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [scorching ray](../spells/scorchingRay#_scorching-ray)_)
+**Feats** [Combat Casting](../feats#_combat-casting), [Combat Reflexes](../feats#_combat-reflexes), [Deceitful](../feats#_deceitful), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative)B, [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [scorching ray](../spells_dir/scorchingRay#_scorching-ray)_)
 
-**Skills** [Bluff](../skills/bluff#_bluff) +19, [Craft](../skills/craft#_craft) (any one) +14, [Disguise](../skills/disguise#_disguise) +10, [Fly](../skills/fly#_fly) +13, [Intimidate](../skills/intimidate#_intimidate) +15, [Perception](../skills/perception#_perception) +15, [Sense Motive](../skills/senseMotive#_sense-motive) +15, [Spellcraft](../skills/spellcraft#_spellcraft) +14, [Stealth](../skills/stealth#_stealth) +8
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +19, [Craft](../skills_dir/craft#_craft) (any one) +14, [Disguise](../skills_dir/disguise#_disguise) +10, [Fly](../skills_dir/fly#_fly) +13, [Intimidate](../skills_dir/intimidate#_intimidate) +15, [Perception](../skills_dir/perception#_perception) +15, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +15, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +14, [Stealth](../skills_dir/stealth#_stealth) +8
 
 **Languages** Auran, Aquan, Common, Ignan, Terran; telepathy 100 ft.
 
-**SQ** [change shape](universalMonsterRules#_change-shape) (humanoid or giant, _ [alter self](../spells/alterSelf#_alter-self)_ or _ [giant form I](../spells/giantForm#_giant-form-i)_)
+**SQ** [change shape](universalMonsterRules#_change-shape) (humanoid or giant, _ [alter self](../spells_dir/alterSelf#_alter-self)_ or _ [giant form I](../spells_dir/giantForm#_giant-form-i)_)
 
 **Ecology**
 
@@ -138,7 +138,7 @@ At Will—_ [plane shift](../spells/planeShift#_plane-shift)_ (willing targets t
 
 **Special Abilities**
 
-**Change Size**  **(Sp)** Twice per day, an efreeti can magically change a creature's size. This works just like an _ [enlarge person](../spells/enlargePerson#_enlarge-person) _or _ [reduce person](../spells/reducePerson#_reduce-person) _spell (the efreeti chooses when using the ability), except that the ability can work on the efreeti. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
+**Change Size**  **(Sp)** Twice per day, an efreeti can magically change a creature's size. This works just like an _ [enlarge person](../spells_dir/enlargePerson#_enlarge-person) _or _ [reduce person](../spells_dir/reducePerson#_reduce-person) _spell (the efreeti chooses when using the ability), except that the ability can work on the efreeti. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
 
 **Heat (Ex)** An efreeti's body deals 1d6 points of fire damage whenever it hits in melee, or in each round it grapples.
 
@@ -146,7 +146,7 @@ The efreet (singular efreeti) are genies from the Plane of Fire. An efreeti stan
 
 Efreet have few allies among geniekind. They certainly hate djinn, and attack them on sight. They hold an equally strong enmity for marids, and view the jann as frail and weak. Efreet often work closely with shaitans, yet even then alliances are temporary at best.
 
-A small percentage of efreet are noble. Noble efreet, often called maliks, have 13 Hit Dice and gain the following spell-like abilities: 3/day—_ [fireball](../spells/fireball#_fireball), [heat metal](../spells/heatMetal#_heat-metal)_; 1/day—_ [greater invisibility](../spells/invisibility#_invisibility-greater)_, _pyroclastic storm_ (as _ [ice storm](../spells/iceStorm#_ice-storm)_, with fire instead of cold damage). A noble efreeti's caster level for its spell-like abilities is 15th. Noble efreet are CR 10.
+A small percentage of efreet are noble. Noble efreet, often called maliks, have 13 Hit Dice and gain the following spell-like abilities: 3_dir/day—_ [fireball](../spells_dir/fireball#_fireball), [heat metal](../spells_dir/heatMetal#_heat-metal)_; 1_dir/day—_ [greater invisibility](../spells_dir/invisibility#_invisibility-greater)_, _pyroclastic storm_ (as _ [ice storm](../spells_dir/iceStorm#_ice-storm)_, with fire instead of cold damage). A noble efreeti's caster level for its spell-like abilities is 15th. Noble efreet are CR 10.
 
 # Genie, Janni
 
@@ -158,7 +158,7 @@ _This regal figure looks like a tall, well-proportioned human, save that its eye
 
 N Medium [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +11
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +11
 
 **Defense**
 
@@ -174,17 +174,17 @@ N Medium [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-su
 
 **Speed** 30 ft., fly 20 ft. (perfect); 20 ft., fly 15 ft. (perfect) in chainmail
 
-**Melee** scimitar +9/+4 (1d6+4/18–20)
+**Melee** scimitar +9_dir/+4 (1d6+4_dir/18–20)
 
-**Ranged** composite longbow +8/+3 (1d8+3/×3)
+**Ranged** composite longbow +8_dir/+3 (1d8+3_dir/×3)
 
 **Special Attacks** change size
 
 **Spell-Like Abilities** (CL 8th)
 
-3/day—_ [invisibility](../spells/invisibility#_invisibility)_ (self only)_,_ _ [plane shift](../spells/planeShift#_plane-shift)_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _ [speak with animals](../spells/speakWithAnimals#_speak-with-animals)_
+3_dir/day—_ [invisibility](../spells_dir/invisibility#_invisibility)_ (self only)_,_ _ [plane shift](../spells_dir/planeShift#_plane-shift)_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _ [speak with animals](../spells_dir/speakWithAnimals#_speak-with-animals)_
 
-1/day—_ [create food and water](../spells/createFoodAndWater#_create-food-and-water)_, _ [ethereal jaunt](../spells/etherealJaunt#_ethereal-jaunt)_ (for 1 hour)
+1_dir/day—_ [create food and water](../spells_dir/createFoodAndWater#_create-food-and-water)_, _ [ethereal jaunt](../spells_dir/etherealJaunt#_ethereal-jaunt)_ (for 1 hour)
 
 **Statistics**
 
@@ -194,7 +194,7 @@ N Medium [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-su
 
 **Feats** [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative)B, [Mobility](../feats#_mobility)
 
-**Skills** [Appraise](../skills/appraise#_appraise) +11, [Craft](../skills/craft#_craft) (any one—usually weaponsmith) +11, [Fly](../skills/fly#_fly) +14, [Perception](../skills/perception#_perception) +11, [Ride](../skills/ride#_ride) +6, [Sense Motive](../skills/senseMotive#_sense-motive) +11, [Spellcraft](../skills/spellcraft#_spellcraft) +11, [Stealth](../skills/stealth#_stealth) +6
+**Skills** [Appraise](../skills_dir/appraise#_appraise) +11, [Craft](../skills_dir/craft#_craft) (any one—usually weaponsmith) +11, [Fly](../skills_dir/fly#_fly) +14, [Perception](../skills_dir/perception#_perception) +11, [Ride](../skills_dir/ride#_ride) +6, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +11, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +11, [Stealth](../skills_dir/stealth#_stealth) +6
 
 **Languages** Common, one elemental language (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal); telepathy 100 ft.
 
@@ -210,19 +210,19 @@ N Medium [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-su
 
 **Special Abilities**
 
-**Change Size**  **(Sp)** Twice per day, a janni can magically change a creature's size. This works just like an _ [enlarge person](../spells/enlargePerson#_enlarge-person) _or _ [reduce person](../spells/reducePerson#_reduce-person) _spell (the janni chooses when using the ability), except that the ability can work on the janni. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
+**Change Size**  **(Sp)** Twice per day, a janni can magically change a creature's size. This works just like an _ [enlarge person](../spells_dir/enlargePerson#_enlarge-person) _or _ [reduce person](../spells_dir/reducePerson#_reduce-person) _spell (the janni chooses when using the ability), except that the ability can work on the janni. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
 
 **Elemental [Endurance](../feats#_endurance) (Ex)** Jann can remain on the Planes of Air, Earth, Fire, or Water for up to 48 hours at a time. Failure to return to the Material Plane before that time expires causes a janni to take 1 point of damage per additional hour spent on the elemental plane, until it dies or returns to the Material Plane.
 
 The jann (singular janni) are the weakest of the genies. Jann are formed out of all four elements and must therefore spend most of their time on the Material Plane. Some lore even casts the janni as the most “human” of the genie races, although most jann are quick to correct this insult, usually with the edge of a sword. A janni is human-sized, standing about 6 feet tall and weighing about 180 pounds.
 
-Jann are physically strong and courageous, and do not take kindly to insult or injury. Most are quite prone to seeing insult even when none is intended by the speaker. If overwhelmed in battle, they escape using flight and _ [invisibility](../spells/invisibility#_invisibility)_, returning later with reinforcements.
+Jann are physically strong and courageous, and do not take kindly to insult or injury. Most are quite prone to seeing insult even when none is intended by the speaker. If overwhelmed in battle, they escape using flight and _ [invisibility](../spells_dir/invisibility#_invisibility)_, returning later with reinforcements.
 
 Jann enjoy their privacy, preferring the solitude of the deep desert and isolated oases. They are usually suspicious of humans, but are often willing to give them the benefit of the doubt. Jann have a strong cultural tradition of hospitality, and will never turn away someone in need of food, water, or shelter, though they might expect payment in the form of a favor at some later date.
 
 Among the other genie races, jann generally have good relations with both djinn and shaitans. While not actively enemies, jann dislike the proud and aloof marids. Jann have a distinct aversion to the efreet, who often try to enslave them or conscript them into their armies.
 
-A small percentage of jann are noble. Noble jann, often called sheikhs or amirs, have 9 Hit Dice, Strength 19, and Intelligence 18, and gain the following spell-like abilities: 3/day—_ [augury](../spells/augury#_augury)_, _ [detect magic](../spells/detectMagic#_detect-magic)_, and _ [divination](../spells/divination#_divination)_. A noble janni's caster level for its spell-like abilities is 12th. Noble jann are CR 7.
+A small percentage of jann are noble. Noble jann, often called sheikhs or amirs, have 9 Hit Dice, Strength 19, and Intelligence 18, and gain the following spell-like abilities: 3_dir/day—_ [augury](../spells_dir/augury#_augury)_, _ [detect magic](../spells_dir/detectMagic#_detect-magic)_, and _ [divination](../spells_dir/divination#_divination)_. A noble janni's caster level for its spell-like abilities is 12th. Noble jann are CR 7.
 
 # Genie, Marid
 
@@ -234,7 +234,7 @@ _This being resembles a powerful giant with hairless blue-green skin, deep blue 
 
 CN Large [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_extraplanar-subtype), [water](creatureTypes#_water-subtype))
 
-**Init** +8; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +17
+**Init** +8; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +17
 
 **Defense**
 
@@ -248,25 +248,25 @@ CN Large [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_extr
 
 **Speed** 20 ft., swim 60 ft.
 
-**Melee** 2 slams +17 (2d6+6) or mwk trident +18/+13/+8 (2d6+9)
+**Melee** 2 slams +17 (2d6+6) or mwk trident +18_dir/+13_dir/+8 (2d6+9)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** vortex (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 22), water mastery, water's fury
+**Special Attacks** vortex (1_dir/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 22), water mastery, water's fury
 
 **Spell-Like Abilities** (CL 12th)
 
-Constant—_ [detect evil](../spells/detectEvil#_detect-evil), [detect good](../spells/detectGood#_detect-good), [detect magic](../spells/detectMagic#_detect-magic), [water walk](../spells/waterWalk#_water-walk)_
+Constant—_ [detect evil](../spells_dir/detectEvil#_detect-evil), [detect good](../spells_dir/detectGood#_detect-good), [detect magic](../spells_dir/detectMagic#_detect-magic), [water walk](../spells_dir/waterWalk#_water-walk)_
 
-At will—_ [create water](../spells/createWater#_create-water), [invisibility](../spells/invisibility#_invisibility),_ _ [plane shift](../spells/planeShift#_plane-shift)_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _ [purify food and drink](../spells/purifyFoodAndDrink#_purify-food-and-drink)_ (liquids only), _ [quench](../spells/quench#_quench)_
+At will—_ [create water](../spells_dir/createWater#_create-water), [invisibility](../spells_dir/invisibility#_invisibility),_ _ [plane shift](../spells_dir/planeShift#_plane-shift)_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _ [purify food and drink](../spells_dir/purifyFoodAndDrink#_purify-food-and-drink)_ (liquids only), _ [quench](../spells_dir/quench#_quench)_
 
-5/day—_ [control water](../spells/controlWater#_control-water), [gaseous form](../spells/gaseousForm#_gaseous-form), [obscuring mist](../spells/obscuringMist#_obscuring-mist), [water breathing](../spells/waterBreathing#_water-breathing)_
+5_dir/day—_ [control water](../spells_dir/controlWater#_control-water), [gaseous form](../spells_dir/gaseousForm#_gaseous-form), [obscuring mist](../spells_dir/obscuringMist#_obscuring-mist), [water breathing](../spells_dir/waterBreathing#_water-breathing)_
 
-3/day—_ [see invisibility](../spells/seeInvisibility#_see-invisibility)_
+3_dir/day—_ [see invisibility](../spells_dir/seeInvisibility#_see-invisibility)_
 
-1/day—_ [persistent image](../spells/persistentImage#_persistent-image)_ (DC 18)
+1_dir/day—_ [persistent image](../spells_dir/persistentImage#_persistent-image)_ (DC 18)
 
-1/year—grant 1 _ [wish](../spells/wish#_wish)_ (to nongenies only)
+1_dir/year—grant 1 _ [wish](../spells_dir/wish#_wish)_ (to nongenies only)
 
 **Statistics**
 
@@ -276,11 +276,11 @@ At will—_ [create water](../spells/createWater#_create-water), [invisibility](
 
 **Feats** [Combat Casting](../feats#_combat-casting), [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Great Fortitude](../feats#_great-fortitude), [Improved Initiative](../feats#_improved-initiative)B, [Improved Natural Attack](monsterFeats#_improved-natural-attack), [Power Attack](../feats#_power-attack)
 
-**Skills** [Craft](../skills/craft#_craft) (any one) +17, [Diplomacy](../skills/diplomacy#_diplomacy) +18, [Knowledge](../skills/knowledge#_knowledge) (planes) +17, [Perception](../skills/perception#_perception) +17, [Sense Motive](../skills/senseMotive#_sense-motive) +17, [Spellcraft](../skills/spellcraft#_spellcraft) +17, [Stealth](../skills/stealth#_stealth) +15, [Swim](../skills/swim#_swim) +29
+**Skills** [Craft](../skills_dir/craft#_craft) (any one) +17, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +18, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +17, [Perception](../skills_dir/perception#_perception) +17, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +17, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +17, [Stealth](../skills_dir/stealth#_stealth) +15, [Swim](../skills_dir/swim#_swim) +29
 
 **Languages** Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.
 
-**SQ** [change shape](universalMonsterRules#_change-shape) (water elemental, humanoid or giant, _ [alter self](../spells/alterSelf#_alter-self)_, _ [elemental body III](../spells/elementalBody#_elemental-body-iii)_, or _ [giant form I](../spells/giantForm#_giant-form-i)_)
+**SQ** [change shape](universalMonsterRules#_change-shape) (water elemental, humanoid or giant, _ [alter self](../spells_dir/alterSelf#_alter-self)_, _ [elemental body III](../spells_dir/elementalBody#_elemental-body-iii)_, or _ [giant form I](../spells_dir/giantForm#_giant-form-i)_)
 
 **Ecology**
 
@@ -302,7 +302,7 @@ Marids are genies from the Plane of Water. The most powerful of all the genie ra
 
 The marids are perhaps the most unpredictable and capricious of the genies, a quality that the others (particularly shaitans) find to be both aggravating and embarrassing to the entire genie culture. Many marids become dancers, storytellers, performers, or other types of artists, and often travel to the Material Plane in disguise to seek out new audiences.
 
-A small percentage of marids can lay claim to nobility. Noble marids, often called shahzadas, have 14 Hit Dice and gain the following spell-like abilities: 3/day—_ [cone of cold](../spells/coneOfCold#_cone-of-cold), [ice storm](../spells/iceStorm#_ice-storm)_; 1/day—_ [elemental swarm](../spells/elementalSwarm#_elemental-swarm)_ (water elementals only), _ [permanent image](../spells/permanentImage#_permanent-image)_. A noble marid's caster level for its spell-like abilities is 20th. Noble marids are CR 11.
+A small percentage of marids can lay claim to nobility. Noble marids, often called shahzadas, have 14 Hit Dice and gain the following spell-like abilities: 3_dir/day—_ [cone of cold](../spells_dir/coneOfCold#_cone-of-cold), [ice storm](../spells_dir/iceStorm#_ice-storm)_; 1_dir/day—_ [elemental swarm](../spells_dir/elementalSwarm#_elemental-swarm)_ (water elementals only), _ [permanent image](../spells_dir/permanentImage#_permanent-image)_. A noble marid's caster level for its spell-like abilities is 20th. Noble marids are CR 11.
 
 # Genie, Shaitan
 
@@ -314,7 +314,7 @@ _This being resembles a towering human with skin of polished stone and glitterin
 
 LN Large [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft., [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skills/perception#_perception) +14
+**Init** +5; **Senses** darkvision 60 ft., [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skills_dir/perception#_perception) +14
 
 **Defense**
 
@@ -330,7 +330,7 @@ LN Large [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subt
 
 **Speed** 20 ft., burrow 60 ft., climb 20 ft.
 
-**Melee** 2 slams +13 (2d6+5) or mwk scimitar +14/+9 (1d8+7/18–20)
+**Melee** 2 slams +13 (2d6+5) or mwk scimitar +14_dir/+9 (1d8+7_dir/18–20)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -338,11 +338,11 @@ LN Large [outsider](creatureTypes#_outsider) ( [earth](creatureTypes#_earth-subt
 
 **Spell-Like Abilities** (CL 9th)
 
-At will—_ [meld into stone](../spells/meldIntoStone#_meld-into-stone), [plane shift](../spells/planeShift#_plane-shift)_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _ [soften earth and stone](../spells/softenEarthAndStone#_soften-earth-and-stone), [stone shape](../spells/stoneShape#_stone-shape), [veil](../spells/veil#_veil) _(self only)
+At will—_ [meld into stone](../spells_dir/meldIntoStone#_meld-into-stone), [plane shift](../spells_dir/planeShift#_plane-shift)_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _ [soften earth and stone](../spells_dir/softenEarthAndStone#_soften-earth-and-stone), [stone shape](../spells_dir/stoneShape#_stone-shape), [veil](../spells_dir/veil#_veil) _(self only)
 
-3/day—quickened _ [glitterdust](../spells/glitterdust#_glitterdust)_ (DC 14), _ [stoneskin](../spells/stoneskin#_stoneskin)_, _ [rusting grasp](../spells/rustingGrasp#_rusting-grasp), [stone tell](../spells/stoneTell#_stone-tell), [wall of stone](../spells/wallOfStone#_wall-of-stone)_
+3_dir/day—quickened _ [glitterdust](../spells_dir/glitterdust#_glitterdust)_ (DC 14), _ [stoneskin](../spells_dir/stoneskin#_stoneskin)_, _ [rusting grasp](../spells_dir/rustingGrasp#_rusting-grasp), [stone tell](../spells_dir/stoneTell#_stone-tell), [wall of stone](../spells_dir/wallOfStone#_wall-of-stone)_
 
-1/day—_trans. mud to rock, trans. rock to mud_
+1_dir/day—_trans. mud to rock, trans. rock to mud_
 
 **Statistics**
 
@@ -350,9 +350,9 @@ At will—_ [meld into stone](../spells/meldIntoStone#_meld-into-stone), [plane 
 
 **Base Atk** +9; **CMB** +15; **CMD** 26
 
-**Feats** [Combat Casting](../feats#_combat-casting), [Greater Bull Rush](../feats#_greater-bull-rush), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Initiative](../feats#_improved-initiative)B, [Power Attack](../feats#_power-attack), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [glitterdust](../spells/glitterdust#_glitterdust)_)
+**Feats** [Combat Casting](../feats#_combat-casting), [Greater Bull Rush](../feats#_greater-bull-rush), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Initiative](../feats#_improved-initiative)B, [Power Attack](../feats#_power-attack), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [glitterdust](../spells_dir/glitterdust#_glitterdust)_)
 
-**Skills** [Appraise](../skills/appraise#_appraise) +14, [Bluff](../skills/bluff#_bluff) +14, [Climb](../skills/climb#_climb) +25, [Craft](../skills/craft#_craft) (gemcutting) +14, [Knowledge](../skills/knowledge#_knowledge) (engineering) +14, [Perception](../skills/perception#_perception) +14, [Sense Motive](../skills/senseMotive#_sense-motive) +14, [Spellcraft](../skills/spellcraft#_spellcraft) +14
+**Skills** [Appraise](../skills_dir/appraise#_appraise) +14, [Bluff](../skills_dir/bluff#_bluff) +14, [Climb](../skills_dir/climb#_climb) +25, [Craft](../skills_dir/craft#_craft) (gemcutting) +14, [Knowledge](../skills_dir/knowledge#_knowledge) (engineering) +14, [Perception](../skills_dir/perception#_perception) +14, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +14, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +14
 
 **Languages** Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.
 
@@ -372,11 +372,11 @@ At will—_ [meld into stone](../spells/meldIntoStone#_meld-into-stone), [plane 
 
 **Metalmorph (Su)** As a standard action, a shaitan may touch a single metal object of no more than 10 pounds and transform it into any other metal for 1 day.
 
-**Stone Curse (Su)** If a shaitan wins a bull rush check by 5 or more and pushes its target into a stone barrier, the target must make a DC 19 Reflex save or be forced into the barrier as if the target had cast _ [meld into stone](../spells/meldIntoStone#_meld-into-stone)_ until the victim makes a successful DC 19 Fortitude save as a full-round action to exit the stone. The save DCs are Strength-based.
+**Stone Curse (Su)** If a shaitan wins a bull rush check by 5 or more and pushes its target into a stone barrier, the target must make a DC 19 Reflex save or be forced into the barrier as if the target had cast _ [meld into stone](../spells_dir/meldIntoStone#_meld-into-stone)_ until the victim makes a successful DC 19 Fortitude save as a full-round action to exit the stone. The save DCs are Strength-based.
 
 **Stone Glide (Su)** This functions as the earth elemental's earth glide ability, except the shaitan can move through stone, dirt, crystal, or metal.
 
 Shaitans are boastful and proud genies from the Plane of Earth with flesh of metal, gems, or stone. A shaitan stands about 11 feet tall and weighs roughly 5,000 pounds.
 
-Some shaitans are noble. Often called pashas, they have 18 Hit Dice and gain the spell-like ability _ [earthquake](../spells/earthquake#_earthquake)_, usable once per day_, _as well as the ability to grant up to three _wishes _per day (nongenies only). A noble shaitan's caster level for its spell-like abilities is 18th. Noble shaitans are CR 13.
+Some shaitans are noble. Often called pashas, they have 18 Hit Dice and gain the spell-like ability _ [earthquake](../spells_dir/earthquake#_earthquake)_, usable once per day_, _as well as the ability to grant up to three _wishes _per day (nongenies only). A noble shaitan's caster level for its spell-like abilities is 18th. Noble shaitans are CR 13.
 

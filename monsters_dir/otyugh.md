@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/otyugh
+title: monsters_dir/otyugh
 ---
 # Otyugh
 
@@ -12,7 +12,7 @@ _This three-legged freak is mostly mouth. Three tentacles, two tipped with barbs
 
 N Large [aberration](creatureTypes#_aberration)
 
-**Init** +0; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +9
+**Init** +0; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +9
 
 **Defense**
 
@@ -42,13 +42,13 @@ N Large [aberration](creatureTypes#_aberration)
 
 **Feats** [Alertness](../feats#_alertness), [Toughness](../feats#_toughness), [Weapon Focus](../feats#_weapon-focus) (tentacle)
 
-**Skills** [Perception](../skills/perception#_perception) +9, [Stealth](../skills/stealth#_stealth) +2 (+10 in lair); **Racial Modifiers** +8 [Stealth](../skills/stealth#_stealth) in lair
+**Skills** [Perception](../skills_dir/perception#_perception) +9, [Stealth](../skills_dir/stealth#_stealth) +2 (+10 in lair); **Racial Modifiers** +8 [Stealth](../skills_dir/stealth#_stealth) in lair
 
 **Languages** Common
 
 **Special Abilities**
 
-**Disease (Ex)** _Filth fever_: Bite—injury; _save_ Fortitude DC 14; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain) and 1d3 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**Disease (Ex)** _Filth fever_: Bite—injury; _save_ Fortitude DC 14; _onset_ 1d3 days; _frequency_ 1_dir/day; _effect_ 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain) and 1d3 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 **Ecology**
 

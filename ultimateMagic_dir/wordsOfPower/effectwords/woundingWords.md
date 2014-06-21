@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/wordsOfPower/effectwords/woundingWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/woundingWords
 ---
 ## Wounding Words
 
@@ -8,7 +8,7 @@ Wounding words afflict the target with cuts and bruises, causing pain and tearin
 
 Bleeding Wounds (Wounding)
 
-**School** necromancy; **Level** cleric 0, inquisitor 0, sorcerer/wizard 0, witch 0
+**School** necromancy; **Level** cleric 0, inquisitor 0, sorcerer_dir/wizard 0, witch 0
 
 **Duration** instantaneous
 

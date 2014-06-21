@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/antilifeShell
+title: spells_dir/antilifeShell
 ---
  **Antilife Shell**
 
@@ -14,7 +14,7 @@ title: spells/antilifeShell
 
 **Area** 10-ft.-radius emanation, centered on you
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

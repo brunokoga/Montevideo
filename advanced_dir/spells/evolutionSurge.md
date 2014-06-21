@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/evolutionSurge
+title: advanced_dir/spells_dir/evolutionSurge
 ---
  **Evolution Surge**
 
@@ -26,7 +26,7 @@ This spell functions as _lesser evolution surge_, except that you can grant any 
 
 **Target** your eidolon
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 

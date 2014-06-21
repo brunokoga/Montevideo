@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/arcaneConcordance
+title: advanced_dir/spells_dir/arcaneConcordance
 ---
  **Arcane Concordance**
 
@@ -16,7 +16,7 @@ title: advanced/spells/arcaneConcordance
 
 **Area** 10-ft.-radius emanation centered on you
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 

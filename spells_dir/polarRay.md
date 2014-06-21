@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/polarRay
+title: spells_dir/polarRay
 ---
  **Polar Ray**
 
-**School** evocation [cold]; **Level** sorcerer/wizard 8
+**School** evocation [cold]; **Level** sorcerer_dir/wizard 8
 
 **Casting Time** 1 standard action
 
 **Components** V, S, F (a white ceramic cone or prism)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Effect** ray
 

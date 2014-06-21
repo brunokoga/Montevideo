@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters/grig
+title: additionalMonsters_dir/grig
 ---
 # Grig
 
@@ -10,9 +10,9 @@ Perched on the prickly legs of a cricket, this tiny creature has gossamer wings 
 
 **XP 400**
 
-NG Tiny [fey](monsters/creatureTypes#_fey)
+NG Tiny [fey](monsters_dir/creatureTypes#_fey)
 
-**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +5
+**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -22,23 +22,23 @@ Defense
 
 **Fort** +1, **Ref** +6, **Will** +3
 
-**DR** 5/cold iron; **SR** 16
+**DR** 5_dir/cold iron; **SR** 16
 
 Offense
 
 **Speed** 30 ft., fly 40 ft. (average)
 
-**Melee** short sword –1 (1d3–3/19–20)
+**Melee** short sword –1 (1d3–3_dir/19–20)
 
-**Ranged** longbow +6 (1d4–3/×3)
+**Ranged** longbow +6 (1d4–3_dir/×3)
 
-**Space** 2-1/2 ft.; **Reach** 0 ft.
+**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
 
 **Special Attacks** fiddle
 
 **Spell-Like Abilities** (CL 9th; concentration +11)
 
-3/day—_ [disguise self](additionalMonsters/../spells/disguiseSelf#_disguise-self)_, _ [entangle](additionalMonsters/../spells/entangle#_entangle)_ (DC 13), _ [invisibility](additionalMonsters/../spells/invisibility#_invisibility)_ (self only), _ [pyrotechnics](additionalMonsters/../spells/pyrotechnics#_pyrotechnics)_ (DC 14)
+3_dir/day—_ [disguise self](additionalMonsters_dir/../spells_dir/disguiseSelf#_disguise-self)_, _ [entangle](additionalMonsters_dir/../spells_dir/entangle#_entangle)_ (DC 13), _ [invisibility](additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_ (self only), _ [pyrotechnics](additionalMonsters_dir/../spells_dir/pyrotechnics#_pyrotechnics)_ (DC 14)
 
 Statistics
 
@@ -46,9 +46,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +2; **CMD** 10 (16 vs. trip)
 
-**Feats** [Dodge](additionalMonsters/../feats#_dodge)
+**Feats** [Dodge](additionalMonsters_dir/../feats#_dodge)
 
-**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +8 (+12 jump), [Escape Artist](additionalMonsters/../skills/escapeArtist#_escape-artist) +8, [Fly](additionalMonsters/../skills/fly#_fly) +12, [Perception](additionalMonsters/../skills/perception#_perception) +5, [Perform](additionalMonsters/../skills/perform#_perform) (string) +6, [Stealth](additionalMonsters/../skills/stealth#_stealth) +16; **Racial Modifiers** +4 Acrobatics when jumping
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +8 (+12 jump), [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +8, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +12, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5, [Perform](additionalMonsters_dir/../skills_dir/perform#_perform) (string) +6, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +16; **Racial Modifiers** +4 Acrobatics when jumping
 
 **Languages** Common, Sylvan
 
@@ -64,7 +64,7 @@ Special Abilities
 
 **Fiddle (Su)** Grigs are capable of rubbing their legs together like a cricket to create a surprisingly pleasant sound not unlike that of a tiny fiddle. As a standard action, a grig can create a catchy tune that compels any creature within a 20-foot spread to dance and caper. A creature can resist this compulsion by making a DC 12 Will save. Creatures that fail are compelled to dance and shuffle their feet, and are effectively staggered as long as the grig continues to fiddle. A grig can maintain this effect for up to 10 rounds per day by concentrating. Once a creature makes the save against a grig's fiddle, it is immune to further fiddle effects from that grig for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
 
-Grigs are tiny fey with the upper bodies of elf-like sprites and cricket bodies below. Their humanoid features vary wildly in individual appearance, but they usually wear their brown, silver, or green hair long and uncombed. In most cases, grigs' skin bears gold or green stripes or markings, and their legs are brightly colored. They prefer to eschew clothes entirely, wearing clothing only when such apparel has desirable magical effects. Grigs stand 1-1/2 feet tall, and weigh just under 10 pounds.
+Grigs are tiny fey with the upper bodies of elf-like sprites and cricket bodies below. Their humanoid features vary wildly in individual appearance, but they usually wear their brown, silver, or green hair long and uncombed. In most cases, grigs' skin bears gold or green stripes or markings, and their legs are brightly colored. They prefer to eschew clothes entirely, wearing clothing only when such apparel has desirable magical effects. Grigs stand 1-1_dir/2 feet tall, and weigh just under 10 pounds.
 
 Grigs make their homes in thick woods alongside rolling hills, often near bodies of water. In every grig community may be found a clearing where the group observes the moon during its many lunar holidays.
 

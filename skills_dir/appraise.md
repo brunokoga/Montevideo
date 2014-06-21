@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills/appraise
+title: skills_dir/appraise
 ---
 # Appraise
 

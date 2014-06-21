@@ -1,6 +1,10 @@
 ---
 layout: default
-title: _posts/2012-02-07-example-content
+title: _posts_dir/2012-02-07-example-content
+---
+---
+layout: default
+title: _posts_dir/2012-02-07-example-content
 ---
 ---
 layout: post
@@ -11,7 +15,7 @@ This blog post shows a few different types of content that's supported and style
 
 -----
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes<_dir/a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. **Nullam quis risus eget urna mollis** ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
@@ -26,14 +30,14 @@ Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis moll
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 {% highlight js %}
-// Example can be run directly in your JavaScript console
+_dir/ Example can be run directly in your JavaScript console
 
-// Create a function that takes two arguments and returns the sum of those arguments
+_dir/ Create a function that takes two arguments and returns the sum of those arguments
 var adder = new Function("a", "b", "return a + b");
 
-// Call the function
+_dir/ Call the function
 adder(2, 6);
-// > 8
+_dir/ > 8
 {% endhighlight %}
 
 Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
@@ -56,4 +60,4 @@ Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at
 
 -----
 
-Want to see something else added? <a href="https://github.com/mdo/hyde/issues/new">Open an issue.</a>
+Want to see something else added? <a href="https:_dir/github.com_dir/mdo_dir/hyde_dir/issues_dir/new">Open an issue.<_dir/a>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills/perception
+title: skills_dir/perception
 ---
 # Perception
 
@@ -33,9 +33,9 @@ Perception is also used to notice fine details in the environment. The DC to not
 | Identify the powers of a potion through taste | 15 + the potion's caster level |
 | Perception Modifiers | DC Modifier |
 | --- | --- |
-| Distance to the source, object, or creature | +1/10 feet |
+| Distance to the source, object, or creature | +1_dir/10 feet |
 | Through a closed door | +5 |
-| Through a wall | +10/foot of thickness |
+| Through a wall | +10_dir/foot of thickness |
 | Favorable conditionsⁱ | –2 |
 | Unfavorable conditionsⁱ | +2 |
 | Terrible conditions⁲ | +5 |

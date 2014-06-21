@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/holySmite
+title: spells_dir/holySmite
 ---
  **Holy Smite**
 
@@ -10,7 +10,7 @@ title: spells/holySmite
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Area** 20-ft.-radius burst
 

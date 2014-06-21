@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/elementalBody
+title: spells_dir/elementalBody
 ---
  **Elemental Body I**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 4
+**School** transmutation (polymorph); **Level** sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells/elementalBody
 
 **Target** you
 
-**Duration** 1 min/level (D)
+**Duration** 1 min_dir/level (D)
 
 When you cast this spell, you can assume the form of a Small air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. Elemental abilities based on size, such as burn, vortex, and whirlwind, use the size of the elemental you transform into to determine their effect.
 
@@ -28,7 +28,7 @@ _Water elemental_: If the form you take is that of a Small water elemental, you 
 
 **Elemental Body II**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 5
+**School** transmutation (polymorph); **Level** sorcerer_dir/wizard 5
 
 This spell functions as _elemental body I, _except that it also allows you to assume the form of a Medium air, earth, fire, or water elemental. The abilities you gain depend upon the elemental.
 
@@ -42,7 +42,7 @@ _Water elemental_: As _elemental body I_ except that you gain a +4 size bonus to
 
 **Elemental Body III**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 6
+**School** transmutation (polymorph); **Level** sorcerer_dir/wizard 6
 
 This spell functions as _elemental body II, _except that it also allows you to assume the form of a Large air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. You are also immune to bleed damage, critical hits, and sneak attacks while in elemental form.
 
@@ -56,9 +56,9 @@ _Water elemental_: As _elemental body I_ except that you gain a +2 size bonus to
 
 **Elemental Body IV**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 7
+**School** transmutation (polymorph); **Level** sorcerer_dir/wizard 7
 
-This spell functions as _elemental body III, _except that it also allows you to assume the form of a Huge air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. You are also immune to bleed damage, critical hits, and sneak attacks while in elemental form and gain [DR](../glossary#_damage-reduction) 5/—.
+This spell functions as _elemental body III, _except that it also allows you to assume the form of a Huge air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. You are also immune to bleed damage, critical hits, and sneak attacks while in elemental form and gain [DR](../glossary#_damage-reduction) 5_dir/—.
 
 _Air elemental_: As _elemental body I_ except that you gain a +4 size bonus to your [Strength](../gettingStarted#_strength), +6 size bonus to your [Dexterity](../gettingStarted#_dexterity), and a +4 natural armor bonus. You also gain fly 120 feet (perfect).
 

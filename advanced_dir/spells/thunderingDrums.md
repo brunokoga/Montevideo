@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/thunderingDrums
+title: advanced_dir/spells_dir/thunderingDrums
 ---
  **Thundering Drums**
 

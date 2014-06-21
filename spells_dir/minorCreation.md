@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/minorCreation
+title: spells_dir/minorCreation
 ---
  **Minor Creation**
 
-**School** conjuration (creation); **Level** sorcerer/wizard 4
+**School** conjuration (creation); **Level** sorcerer_dir/wizard 4
 
 **Casting Time** 1 minute
 
@@ -12,9 +12,9 @@ title: spells/minorCreation
 
 **Range** 0 ft.
 
-**Effect** unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
+**Effect** unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft._dir/level
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hour_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/antLion
+title: bestiary3_dir/antLion
 ---
 # Ant Lion, Giant
 
@@ -12,7 +12,7 @@ XP 1,600
 
 N Large vermin
 
-**Init** +0; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](skills/perception#_perception) +0
+**Init** +0; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](skills_dir/perception#_perception) +0
 
 Defense
 
@@ -28,7 +28,7 @@ Offense
 
 **Speed** 30 ft., burrow 10 ft.
 
-**Melee** bite +10 (2d8+7 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** bite +10 (2d8+7 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -50,7 +50,7 @@ Ecology
 
 Special Abilities
 
-**Sand Trap (Ex)** A [giant](monsters/creatureTypes#_giant-subtype) ant lion can create a 60-foot-diameter, 20-foot-deep pit in any sand or soft [earth](monsters/creatureTypes#_earth-subtype) surface. Creating a sand trap takes 1 hour. A DC 15 [Perception](skills/perception#_perception) check allows a creature to realize such a depression in the sand is in fact a trap. Any creature that steps into the trap slides to the center if it fails a DC 14 Reflex save—such victims take no damage, but they do fall prone. A [giant](monsters/creatureTypes#_giant-subtype) ant lion can make an attack of opportunity against any creature that falls to the bottom of its sand trap. These creatures can move across sand traps at their normal speed and are immune to the trap's effects. Other creatures can navigate the trap's walls with a DC 20 [Climb](skills/climb#_climb) check.
+**Sand Trap (Ex)** A [giant](monsters_dir/creatureTypes#_giant-subtype) ant lion can create a 60-foot-diameter, 20-foot-deep pit in any sand or soft [earth](monsters_dir/creatureTypes#_earth-subtype) surface. Creating a sand trap takes 1 hour. A DC 15 [Perception](skills_dir/perception#_perception) check allows a creature to realize such a depression in the sand is in fact a trap. Any creature that steps into the trap slides to the center if it fails a DC 14 Reflex save—such victims take no damage, but they do fall prone. A [giant](monsters_dir/creatureTypes#_giant-subtype) ant lion can make an attack of opportunity against any creature that falls to the bottom of its sand trap. These creatures can move across sand traps at their normal speed and are immune to the trap's effects. Other creatures can navigate the trap's walls with a DC 20 [Climb](skills_dir/climb#_climb) check.
 
 Perils of the desert depths, giant ant lions construct traps from the shifting sands. These beasts lurk at the base of these pits, half buried and patiently awaiting unwary prey.
 
@@ -64,7 +64,7 @@ XP 2,400
 
 N Huge vermin
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +0
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +0
 
 Defense
 
@@ -90,7 +90,7 @@ Statistics
 
 **Base Atk** +7; **CMB** +16; **CMD** 29 (37 vs. trip)
 
-**Skills** [Fly](skills/fly#_fly) +7
+**Skills** [Fly](skills_dir/fly#_fly) +7
 
 Ecology
 

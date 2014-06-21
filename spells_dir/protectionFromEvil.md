@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/protectionFromEvil
+title: spells_dir/protectionFromEvil
 ---
  **Protection from Evil**
 
-**School** abjuration [good]; **Level** cleric 1, paladin 1, sorcerer/wizard 1
+**School** abjuration [good]; **Level** cleric 1, paladin 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF
+**Components** V, S, M_dir/DF
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** no; see text
 

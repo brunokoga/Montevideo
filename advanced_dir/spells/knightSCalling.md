@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/knightSCalling
+title: advanced_dir/spells_dir/knightSCalling
 ---
  **Knight's Calling**
 
@@ -10,7 +10,7 @@ title: advanced/spells/knightSCalling
 
 **Components** V, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 

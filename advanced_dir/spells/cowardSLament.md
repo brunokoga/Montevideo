@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/cowardSLament
+title: advanced_dir/spells_dir/cowardSLament
 ---
  **Coward's Lament**
 
@@ -10,11 +10,11 @@ title: advanced/spells/cowardSLament
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one living creature
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** Will partial; **Spell Resistance** yes
 

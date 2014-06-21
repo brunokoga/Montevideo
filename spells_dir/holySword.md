@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/holySword
+title: spells_dir/holySword
 ---
  **Holy Sword**
 
@@ -14,7 +14,7 @@ title: spells/holySword
 
 **Target** melee weapon touched
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

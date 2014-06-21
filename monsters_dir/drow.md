@@ -1,12 +1,12 @@
 ---
 layout: default
-title: monsters/drow
+title: monsters_dir/drow
 ---
 # Drow
 
 _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless._
 
-**Drow CR 1/3**
+**Drow CR 1_dir/3**
 
 **XP 135**
 
@@ -14,7 +14,7 @@ Drow warrior 1
 
 CE Medium [humanoid](creatureTypes#_humanoid) ( [elf](creatureTypes#_elf-subtype))
 
-**Init** +2; **Senses** darkvision 120 ft.; [Perception](../skills/perception#_perception) +2
+**Init** +2; **Senses** darkvision 120 ft.; [Perception](../skills_dir/perception#_perception) +2
 
 **Defense**
 
@@ -32,13 +32,13 @@ CE Medium [humanoid](creatureTypes#_humanoid) ( [elf](creatureTypes#_elf-subtype
 
 **Speed** 30 ft.
 
-**Melee** rapier +2 (1d6/18–20)
+**Melee** rapier +2 (1d6_dir/18–20)
 
-**Ranged** hand crossbow +3 (1d4/19–20 plus poison)
+**Ranged** hand crossbow +3 (1d4_dir/19–20 plus poison)
 
 **Spell-Like Abilities** (CL 1st)
 
-1/day—_ [dancing lights](../spells/dancingLights#_dancing-lights), [darkness](../spells/darkness#_darkness), [faerie fire](../spells/faerieFire#_faerie-fire)_
+1_dir/day—_ [dancing lights](../spells_dir/dancingLights#_dancing-lights), [darkness](../spells_dir/darkness#_darkness), [faerie fire](../spells_dir/faerieFire#_faerie-fire)_
 
 **Statistics**
 
@@ -48,7 +48,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) ( [elf](creatureTypes#_elf-subtype
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Perception](../skills/perception#_perception) +2, [Stealth](../skills/stealth#_stealth) +2; **Racial Modifiers** +2 [Perception](../skills/perception#_perception)
+**Skills** [Perception](../skills_dir/perception#_perception) +2, [Stealth](../skills_dir/stealth#_stealth) +2; **Racial Modifiers** +2 [Perception](../skills_dir/perception#_perception)
 
 **Languages** Elven, Undercommon
 
@@ -64,7 +64,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) ( [elf](creatureTypes#_elf-subtype
 
 **Special Abilities**
 
-**Poison Use (Ex)** Drow are skilled in the use of poison and never risk accidentally poisoning themselves. Drow favor an insidious toxin that causes its victims to lapse into unconsciousness—this poison allows drow to capture slaves with great ease._Drow Poison_—injury; _save _Fort DC 13; _frequency _1/minute for 2 minutes; _initial effect_ unconsciousness for 1 minute; _secondary effect_ unconsciousness for 2d4 hours; _cure_ 1 save.
+**Poison Use (Ex)** Drow are skilled in the use of poison and never risk accidentally poisoning themselves. Drow favor an insidious toxin that causes its victims to lapse into unconsciousness—this poison allows drow to capture slaves with great ease._Drow Poison_—injury; _save _Fort DC 13; _frequency _1_dir/minute for 2 minutes; _initial effect_ unconsciousness for 1 minute; _secondary effect_ unconsciousness for 2d4 hours; _cure_ 1 save.
 
 Although related to the elves, the drow are a vile and evil cousin at best. Sometimes called dark elves, these cunning creatures prowl the caves and tunnels of the world below, ruling vast subterranean cities through fear and might. Worshiping demons and enslaving most races they encounter, the drow are among the underworld's most feared and hated denizens.
 
@@ -88,11 +88,11 @@ Drow are defined by their class levels—they do not possess racial Hit Dice. Al
 
 **Drow Immunities** : Drow are immune to magic sleep effects and get a +2 racial bonus to saves against enchantment spells.
 
-**Keen Senses** : Drow receive a +2 racial bonus on [Perception](../skills/perception#_perception) checks.
+**Keen Senses** : Drow receive a +2 racial bonus on [Perception](../skills_dir/perception#_perception) checks.
 
 **Spell Resistance** : Drow possess spell resistance equal to 6 plus their class levels.
 
-**Spell-Like Abilities** : A drow can cast _ [dancing lights](../spells/dancingLights#_dancing-lights)_, _ [darkness](../spells/darkness#_darkness)_, and _ [faerie fire](../spells/faerieFire#_faerie-fire)_ each once per day, using his total character level as his caster level.
+**Spell-Like Abilities** : A drow can cast _ [dancing lights](../spells_dir/dancingLights#_dancing-lights)_, _ [darkness](../spells_dir/darkness#_darkness)_, and _ [faerie fire](../spells_dir/faerieFire#_faerie-fire)_ each once per day, using his total character level as his caster level.
 
 **Light Blindness** : Abrupt exposure to bright light blinds drow for 1 round; on subsequent rounds, they are dazzled as long as they remain in the affected area.
 
@@ -114,7 +114,7 @@ Drow nobles are defined by their class levels—they do not possess racial Hit D
 
 **Spell Resistance:** Drow nobles have spell resistance equal to 11 + their character level.
 
-**Spell-Like Abilities** : Drow nobles can cast _ [dancing lights](../spells/dancingLights#_dancing-lights)_, [_deeper darkness_](../spells/deeperDarkness#_deeperDarkness), _ [faerie fire](../spells/faerieFire#_faerie-fire)_, _ [feather fall](../spells/featherFall#_feather-fall)_, and _ [levitate](../spells/levitate#_levitate)_ each at will, and have _ [detect magic](../spells/detectMagic#_detect-magic)_ as a constant spell-like ability. A drow noble can also cast _ [divine favor](../spells/divineFavor#_divine-favor)_, _ [dispel magic](../spells/dispelMagic#_dispel-magic)_, and _ [suggestion](../spells/suggestion#_suggestion)_ once per day each. In some cases, a drow noble's spell-like abilities might vary, although the level of a particular spell-like ability does not. A drow noble's caster level for her spell-like abilities is equal to her character level.
+**Spell-Like Abilities** : Drow nobles can cast _ [dancing lights](../spells_dir/dancingLights#_dancing-lights)_, [_deeper darkness_](../spells_dir/deeperDarkness#_deeperDarkness), _ [faerie fire](../spells_dir/faerieFire#_faerie-fire)_, _ [feather fall](../spells_dir/featherFall#_feather-fall)_, and _ [levitate](../spells_dir/levitate#_levitate)_ each at will, and have _ [detect magic](../spells_dir/detectMagic#_detect-magic)_ as a constant spell-like ability. A drow noble can also cast _ [divine favor](../spells_dir/divineFavor#_divine-favor)_, _ [dispel magic](../spells_dir/dispelMagic#_dispel-magic)_, and _ [suggestion](../spells_dir/suggestion#_suggestion)_ once per day each. In some cases, a drow noble's spell-like abilities might vary, although the level of a particular spell-like ability does not. A drow noble's caster level for her spell-like abilities is equal to her character level.
 
 **Drow Noble CR 3**
 
@@ -124,7 +124,7 @@ Female drow noble cleric 3
 
 CE Medium [humanoid](creatureTypes#_humanoid) ( [elf](creatureTypes#_elf-subtype))
 
-**Init** +3; **Senses** darkvision 120 ft.; [Perception](../skills/perception#_perception) +5
+**Init** +3; **Senses** darkvision 120 ft.; [Perception](../skills_dir/perception#_perception) +5
 
 **Defense**
 
@@ -142,27 +142,27 @@ CE Medium [humanoid](creatureTypes#_humanoid) ( [elf](creatureTypes#_elf-subtype
 
 **Speed** 20 ft.
 
-**Melee** mwk rapier +4 (1d6+1/18–20)
+**Melee** mwk rapier +4 (1d6+1_dir/18–20)
 
-**Ranged** hand crossbow +5 (1d4/19–20plus poison)
+**Ranged** hand crossbow +5 (1d4_dir/19–20plus poison)
 
-**Special Attacks** bleeding touch (6/day), channel negative energy (4/day, 2d6, DC 12), touch of chaos (6/day)
+**Special Attacks** bleeding touch (6_dir/day), channel negative energy (4_dir/day, 2d6, DC 12), touch of chaos (6_dir/day)
 
 **Spell-Like Abilities** (CL 3rd)
 
-Constant—_ [detect magic](../spells/detectMagic#_detect-magic)_
+Constant—_ [detect magic](../spells_dir/detectMagic#_detect-magic)_
 
-At will—_ [dancing lights](../spells/dancingLights#_dancing-lights), [deeper darkness](../spells/deeperDarkness#_deeper-darkness), [faerie fire](../spells/faerieFire#_faerie-fire), [feather fall](../spells/featherFall#_feather-fall), [levitate](../spells/levitate#_levitate)_
+At will—_ [dancing lights](../spells_dir/dancingLights#_dancing-lights), [deeper darkness](../spells_dir/deeperDarkness#_deeper-darkness), [faerie fire](../spells_dir/faerieFire#_faerie-fire), [feather fall](../spells_dir/featherFall#_feather-fall), [levitate](../spells_dir/levitate#_levitate)_
 
-1/day—_ [divine favor](../spells/divineFavor#_divine-favor), [dispel magic](../spells/dispelMagic#_dispel-magic), [suggestion](../spells/suggestion#_suggestion)_ (DC 14)
+1_dir/day—_ [divine favor](../spells_dir/divineFavor#_divine-favor), [dispel magic](../spells_dir/dispelMagic#_dispel-magic), [suggestion](../spells_dir/suggestion#_suggestion)_ (DC 14)
 
 **Spells Prepared** (CL 3rd)
 
-2nd—_ [death knell](../spells/deathKnell#_death-knell)_D (DC 15),_ [hold person](../spells/holdPerson#_hold-person) _(DC 15), _ [silence](../spells/silence#_silence)_ (DC 15)
+2nd—_ [death knell](../spells_dir/deathKnell#_death-knell)_D (DC 15),_ [hold person](../spells_dir/holdPerson#_hold-person) _(DC 15), _ [silence](../spells_dir/silence#_silence)_ (DC 15)
 
-1st—_ [bless](../spells/bless#_bless), [cause fear](../spells/causeFear#_cause-fear) _(DC 14)_, [cure light wounds](../spells/cureLightWounds#_cure-light-wounds), [protection from law](../spells/protectionFromLaw#_protection-from-law)_D
+1st—_ [bless](../spells_dir/bless#_bless), [cause fear](../spells_dir/causeFear#_cause-fear) _(DC 14)_, [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds), [protection from law](../spells_dir/protectionFromLaw#_protection-from-law)_D
 
-0—_ [bleed](../spells/bleed#_bleed) _(DC 13), _ [detect poison](../spells/detectPoison#_detect-poison), [read magic](../spells/readMagic#_read-magic), [resistance](../spells/resistance#_resistance)_
+0—_ [bleed](../spells_dir/bleed#_bleed) _(DC 13), _ [detect poison](../spells_dir/detectPoison#_detect-poison), [read magic](../spells_dir/readMagic#_read-magic), [resistance](../spells_dir/resistance#_resistance)_
 
 **D** domain spell; **Domains** Chaos, Death
 
@@ -174,11 +174,11 @@ At will—_ [dancing lights](../spells/dancingLights#_dancing-lights), [deeper d
 
 **Feats** [Channel Smite](../feats#_channel-smite), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Knowledge](../skills/knowledge#_knowledge) (religion) +6, [Sense Motive](../skills/senseMotive#_sense-motive) +9, [Spellcraft](../skills/spellcraft#_spellcraft) +6; **Racial Modifiers** +2 [Perception](../skills/perception#_perception)
+**Skills** [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +6, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +9, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +6; **Racial Modifiers** +2 [Perception](../skills_dir/perception#_perception)
 
 **Languages** Elven, Undercommon
 
 **SQ** poison use
 
-**Gear** masterwork breastplate, heavy steel shield, masterwork rapier, drow poison (4), _potion of [invisibility](../spells/invisibility#_invisibility)_, _scroll of [dispel magic](../spells/dispelMagic#_dispel-magic)_, _wand of [cure light wounds](../spells/cureLightWounds#_cure-light-wounds) _(CL 1st, 20 charges), 400 gp
+**Gear** masterwork breastplate, heavy steel shield, masterwork rapier, drow poison (4), _potion of [invisibility](../spells_dir/invisibility#_invisibility)_, _scroll of [dispel magic](../spells_dir/dispelMagic#_dispel-magic)_, _wand of [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds) _(CL 1st, 20 charges), 400 gp
 

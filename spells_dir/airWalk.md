@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/airWalk
+title: spells_dir/airWalk
 ---
  **Air Walk**
 
@@ -14,7 +14,7 @@ title: spells/airWalk
 
 **Target** creature (Gargantuan or smaller) touched
 
-**Duration** 10 min./level
+**Duration** 10 min._dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

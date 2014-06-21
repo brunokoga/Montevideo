@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/owlSWisdom
+title: spells_dir/owlSWisdom
 ---
  **Owl's Wisdom**
 
-**School** transmutation; **Level** cleric 2, druid 2, paladin 2, ranger 2, sorcerer/wizard 2
+**School** transmutation; **Level** cleric 2, druid 2, paladin 2, ranger 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (feathers or droppings from an owl)
+**Components** V, S, M_dir/DF (feathers or droppings from an owl)
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes
 
@@ -22,11 +22,11 @@ The transmuted creature becomes wiser. The spell grants a +4 enhancement bonus t
 
 **Owl's Wisdom, Mass**
 
-**School** transmutation; **Level** cleric 6, druid 6, sorcerer/wizard 6
+**School** transmutation; **Level** cleric 6, druid 6, sorcerer_dir/wizard 6
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one creature/level, no two of which can be more than 30 ft. apart
+**Target** one creature_dir/level, no two of which can be more than 30 ft. apart
 
 This spell functions like _owl's wisdom_, except that it affects multiple creatures.
 

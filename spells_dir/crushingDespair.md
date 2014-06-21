@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/crushingDespair
+title: spells_dir/crushingDespair
 ---
  **Crushing Despair**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, sorcerer/wizard 4
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells/crushingDespair
 
 **Area** cone-shaped burst
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

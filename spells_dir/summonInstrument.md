@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/summonInstrument
+title: spells_dir/summonInstrument
 ---
  **Summon Instrument**
 
@@ -14,7 +14,7 @@ title: spells/summonInstrument
 
 **Effect** one summoned handheld musical instrument
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

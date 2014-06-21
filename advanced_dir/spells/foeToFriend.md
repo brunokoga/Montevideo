@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/foeToFriend
+title: advanced_dir/spells_dir/foeToFriend
 ---
  **Foe to Friend**
 
@@ -10,7 +10,7 @@ title: advanced/spells/foeToFriend
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target** one living creature
 

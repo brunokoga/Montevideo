@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/darkmantle
+title: monsters_dir/darkmantle
 ---
 # Darkmantle
 
@@ -12,7 +12,7 @@ _As this creature falls from the cavern roof, it opens like a hideous octopus, i
 
 N Small [magical beast](creatureTypes#_magical-beast)
 
-**Init** +6; **Senses** [blindsight](universalMonsterRules#_blindsight) 90 ft., darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +4
+**Init** +6; **Senses** [blindsight](universalMonsterRules#_blindsight) 90 ft., darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -32,7 +32,7 @@ N Small [magical beast](creatureTypes#_magical-beast)
 
 **Spell-Like Abilities** (CL 5th)
 
-1/day—_ [darkness](../spells/darkness#_darkness)_
+1_dir/day—_ [darkness](../spells_dir/darkness#_darkness)_
 
 **Statistics**
 
@@ -42,7 +42,7 @@ N Small [magical beast](creatureTypes#_magical-beast)
 
 **Feats** [Improved Initiative](../feats#_improved-initiative)
 
-**Skills** [Fly](../skills/fly#_fly) +5, [Perception](../skills/perception#_perception) +4, [Stealth](../skills/stealth#_stealth) +10; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth)
+**Skills** [Fly](../skills_dir/fly#_fly) +5, [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +10; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth)
 
 **Ecology**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/magicVestment
+title: spells_dir/magicVestment
 ---
  **Magic Vestment**
 
@@ -14,7 +14,7 @@ title: spells/magicVestment
 
 **Target** armor or shield touched
 
-**Duration** 1 hour/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless, object); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless, object)
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic/spells/stranglingHair
+title: ultimateMagic_dir/spells_dir/stranglingHair
 ---
 Strangling Hair
 
-**School** transmutation; **Level** sorcerer/wizard 3, witch 3
+**School** transmutation; **Level** sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 
-**Duration** concentration, up to 1 round/level
+**Duration** concentration, up to 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** yes
 

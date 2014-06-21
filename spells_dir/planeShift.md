@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/planeShift
+title: spells_dir/planeShift
 ---
  **Plane Shift**
 
-**School** conjuration (teleportation); **Level** cleric 5, sorcerer/wizard 7
+**School** conjuration (teleportation); **Level** cleric 5, sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 

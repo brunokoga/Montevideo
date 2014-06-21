@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/wordsOfPower/effectwords/weatherWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/weatherWords
 ---
 ## Weather Words
 
@@ -8,9 +8,9 @@ Words from the weather family control the forces of nature, summoning wind, rain
 
 Fog Bank (Weather)
 
-**School** conjuration (creation); **Level** cleric 1, druid 1, sorcerer/wizard 1, witch 1
+**School** conjuration (creation); **Level** cleric 1, druid 1, sorcerer_dir/wizard 1, witch 1
 
-**Duration** 1 minute/level (D)
+**Duration** 1 minute_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -22,7 +22,7 @@ This effect word creates a thick fog in its area of effect. It obscures all sigh
 
 Wind Blast (Weather)
 
-**School** evocation [[air](monsters/creatureTypes#_air-subtype)]; **Level** druid 2, sorcerer/wizard 3
+**School** evocation [[air](monsters_dir/creatureTypes#_air-subtype)]; **Level** druid 2, sorcerer_dir/wizard 3
 
 **Duration** 1 round
 
@@ -34,23 +34,23 @@ This effect word creates a blast of air that can knock over or hinder those in i
 
 Blizzard (Weather)
 
-**School** conjuration (creation); **Level** druid 3, magus 3, sorcerer/wizard 3, witch 3
+**School** conjuration (creation); **Level** druid 3, magus 3, sorcerer_dir/wizard 3, witch 3
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
 **Target Restrictions** _burst_ (emanation)
 
-This effect word causes heavy snow to fall in the area of effect. This provides concealment as the _fog bank _effect word, but it cannot be removed by wind. In addition, the ground in the area of effect is treated as difficult terrain for the duration and as being very slippery for the purposes of [Acrobatics](skills/acrobatics#_acrobatics) and [Climb](skills/climb#_climb) skill checks.
+This effect word causes heavy snow to fall in the area of effect. This provides concealment as the _fog bank _effect word, but it cannot be removed by wind. In addition, the ground in the area of effect is treated as difficult terrain for the duration and as being very slippery for the purposes of [Acrobatics](skills_dir/acrobatics#_acrobatics) and [Climb](skills_dir/climb#_climb) skill checks.
 
 **Boost** : Each creature in the area of effect takes 2d6 points of cold damage each round at the end of its turn. Boosting this effect word increases its level by 1.
 
 Storm Master (Weather)
 
-**School** transmutation; **Level** cleric 7, druid 7, sorcerer/wizard 7, witch 7
+**School** transmutation; **Level** cleric 7, druid 7, sorcerer_dir/wizard 7, witch 7
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hour_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 

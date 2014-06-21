@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures/mythicSpells/ricochetShot
+title: mythicAdventures_dir/mythicSpells_dir/ricochetShot
 ---
 Ricochet Shot
 
-**Source** [_ricochet shot_](ultimateCombat/spells/ricochetShot#_ricochet-shot)
+**Source** [_ricochet shot_](ultimateCombat_dir/spells_dir/ricochetShot#_ricochet-shot)
 
 If the attack hits the secondary target, the wielder can select a tertiary target within 20 feet of the secondary target. This functions like a ricochet off the primary target. The tertiary target must be a different creature than the primary target.
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic/spells/causticEruption
+title: ultimateMagic_dir/spells_dir/causticEruption
 ---
 Caustic Eruption
 
-**School** conjuration (creation) [acid]; **Level** sorcerer/wizard 7
+**School** conjuration (creation) [acid]; **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 

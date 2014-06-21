@@ -1,6 +1,6 @@
 ---
 layout: default
-title: classes/monk
+title: classes_dir/monk
 ---
 # Monk
 
@@ -14,33 +14,33 @@ For the truly exemplary, martial skill transcends the battlefield—it is a life
 
 ## Class Skills
 
-The monk's class skills are [Acrobatics](../skills/acrobatics#_acrobatics) ( [Dex](../gettingStarted#_dexterity)), [Climb](../skills/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skills/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Escape Artist](../skills/escapeArtist#_escape-artist) ( [Dex](../gettingStarted#_dexterity)), [Intimidate](../skills/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skills/knowledge#_knowledge) (history) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills/knowledge#_knowledge) (religion) ( [Int](../gettingStarted#_intelligence)), [Perception](../skills/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Perform](../skills/perform#_perform) ( [Cha](../gettingStarted#_charisma-new)), [Profession](../skills/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skills/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Sense Motive](../skills/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)), [Stealth](../skills/stealth#_stealth) ( [Dex](../gettingStarted#_dexterity)), and [Swim](../skills/swim#_swim) ( [Str](../gettingStarted#_strength)).
+The monk's class skills are [Acrobatics](../skills_dir/acrobatics#_acrobatics) ( [Dex](../gettingStarted#_dexterity)), [Climb](../skills_dir/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skills_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Escape Artist](../skills_dir/escapeArtist#_escape-artist) ( [Dex](../gettingStarted#_dexterity)), [Intimidate](../skills_dir/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skills_dir/knowledge#_knowledge) (history) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills_dir/knowledge#_knowledge) (religion) ( [Int](../gettingStarted#_intelligence)), [Perception](../skills_dir/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Perform](../skills_dir/perform#_perform) ( [Cha](../gettingStarted#_charisma-new)), [Profession](../skills_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skills_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Sense Motive](../skills_dir/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)), [Stealth](../skills_dir/stealth#_stealth) ( [Dex](../gettingStarted#_dexterity)), and [Swim](../skills_dir/swim#_swim) ( [Str](../gettingStarted#_strength)).
 
 **Skill Ranks per Level** : 4 + [Int](../gettingStarted#_intelligence) modifier.
 
 [Table: Monk]
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Flurry of Blows Attack Bonus | Unarmed Damage | AC Bonus | Fast Movement |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +2 | +2 | Bonus feat, flurry of blows, stunning fist, unarmed strike | –1/–1 | 1d6 | +0 | +0 ft. |
-| 2nd | +1 | +3 | +3 | +3 | Bonus feat, evasion | +0/+0 | 1d6 | +0 | +0 ft. |
-| 3rd | +2 | +3 | +3 | +3 | Fast movement, maneuver training, still mind | +1/+1 | 1d6 | +0 | +10 ft. |
-| 4th | +3 | +4 | +4 | +4 | _Ki_ pool (magic), slow fall 20 ft. | +2/+2 | 1d8 | +1 | +10 ft. |
-| 5th | +3 | +4 | +4 | +4 | High jump, purity of body | +3/+3 | 1d8 | +1 | +10 ft. |
-| 6th | +4 | +5 | +5 | +5 | Bonus feat, slow fall 30 ft. | +4/+4/–1 | 1d8 | +1 | +20 ft. |
-| 7th | +5 | +5 | +5 | +5 | Ki pool (cold iron/silver), wholeness of body | +5/+5/+0 | 1d8 | +1 | +20 ft. |
-| 8th | +6/+1 | +6 | +6 | +6 | Slow fall 40 ft. | +6/+6/+1/+1 | 1d10 | +2 | +20 ft. |
-| 9th | +6/+1 | +6 | +6 | +6 | Improved evasion | +7/+7/+2/+2 | 1d10 | +2 | +30 ft. |
-| 10th | +7/+2 | +7 | +7 | +7 | Bonus feat, _ki_ pool (lawful), slow fall 50 ft. | +8/+8/+3/+3 | 1d10 | +2 | +30 ft. |
-| 11th | +8/+3 | +7 | +7 | +7 | Diamond body | +9/+9/+4/+4/–1 | 1d10 | +2 | +30 ft. |
-| 12th | +9/+4 | +8 | +8 | +8 | Abundant step, slow fall 60 ft. | +10/+10/+5/+5/+0 | 2d6 | +3 | +40 ft. |
-| 13th | +9/+4 | +8 | +8 | +8 | Diamond soul | +11/+11/+6/+6/+1 | 2d6 | +3 | +40 ft. |
-| 14th | +10/+5 | +9 | +9 | +9 | Bonus feat, slow fall 70 ft. | +12/+12/+7/+7/+2 | 2d6 | +3 | +40 ft. |
-| 15th | +11/+6/+1 | +9 | +9 | +9 | Quivering palm | +13/+13/+8/+8/+3/+3 | 2d6 | +3 | +50 ft. |
-| 16th | +12/+7/+2 | +10 | +10 | +10 | _Ki_ pool (adamantine), slow fall 80 ft. | +14/+14/+9/+9/+4/+4/–1 | 2d8 | +4 | +50 ft. |
-| 17th | +12/+7/+2 | +10 | +10 | +10 | Timeless body, tongue of the sun and moon | +15/+15/+10/+10/+5/+5/+0 | 2d8 | +4 | +50 ft. |
-| 18th | +13/+8/+3 | +11 | +11 | +11 | Bonus feat, slow fall 90 ft. | +16/+16/+11/+11/+6/+6/+1 | 2d8 | +4 | +60 ft. |
-| 19th | +14/+9/+4 | +11 | +11 | +11 | Empty body | +17/+17/+12/+12/+7/+7/+2 | 2d8 | +4 | +60 ft. |
-| 20th | +15/+10/+5 | +12 | +12 | +12 | Perfect self, slow fall any distance | +18/+18/+13/+13/+8/+8/+3 | 2d10 | +5 | +60 ft. |
+| 1st | +0 | +2 | +2 | +2 | Bonus feat, flurry of blows, stunning fist, unarmed strike | –1_dir/–1 | 1d6 | +0 | +0 ft. |
+| 2nd | +1 | +3 | +3 | +3 | Bonus feat, evasion | +0_dir/+0 | 1d6 | +0 | +0 ft. |
+| 3rd | +2 | +3 | +3 | +3 | Fast movement, maneuver training, still mind | +1_dir/+1 | 1d6 | +0 | +10 ft. |
+| 4th | +3 | +4 | +4 | +4 | _Ki_ pool (magic), slow fall 20 ft. | +2_dir/+2 | 1d8 | +1 | +10 ft. |
+| 5th | +3 | +4 | +4 | +4 | High jump, purity of body | +3_dir/+3 | 1d8 | +1 | +10 ft. |
+| 6th | +4 | +5 | +5 | +5 | Bonus feat, slow fall 30 ft. | +4_dir/+4_dir/–1 | 1d8 | +1 | +20 ft. |
+| 7th | +5 | +5 | +5 | +5 | Ki pool (cold iron_dir/silver), wholeness of body | +5_dir/+5_dir/+0 | 1d8 | +1 | +20 ft. |
+| 8th | +6_dir/+1 | +6 | +6 | +6 | Slow fall 40 ft. | +6_dir/+6_dir/+1_dir/+1 | 1d10 | +2 | +20 ft. |
+| 9th | +6_dir/+1 | +6 | +6 | +6 | Improved evasion | +7_dir/+7_dir/+2_dir/+2 | 1d10 | +2 | +30 ft. |
+| 10th | +7_dir/+2 | +7 | +7 | +7 | Bonus feat, _ki_ pool (lawful), slow fall 50 ft. | +8_dir/+8_dir/+3_dir/+3 | 1d10 | +2 | +30 ft. |
+| 11th | +8_dir/+3 | +7 | +7 | +7 | Diamond body | +9_dir/+9_dir/+4_dir/+4_dir/–1 | 1d10 | +2 | +30 ft. |
+| 12th | +9_dir/+4 | +8 | +8 | +8 | Abundant step, slow fall 60 ft. | +10_dir/+10_dir/+5_dir/+5_dir/+0 | 2d6 | +3 | +40 ft. |
+| 13th | +9_dir/+4 | +8 | +8 | +8 | Diamond soul | +11_dir/+11_dir/+6_dir/+6_dir/+1 | 2d6 | +3 | +40 ft. |
+| 14th | +10_dir/+5 | +9 | +9 | +9 | Bonus feat, slow fall 70 ft. | +12_dir/+12_dir/+7_dir/+7_dir/+2 | 2d6 | +3 | +40 ft. |
+| 15th | +11_dir/+6_dir/+1 | +9 | +9 | +9 | Quivering palm | +13_dir/+13_dir/+8_dir/+8_dir/+3_dir/+3 | 2d6 | +3 | +50 ft. |
+| 16th | +12_dir/+7_dir/+2 | +10 | +10 | +10 | _Ki_ pool (adamantine), slow fall 80 ft. | +14_dir/+14_dir/+9_dir/+9_dir/+4_dir/+4_dir/–1 | 2d8 | +4 | +50 ft. |
+| 17th | +12_dir/+7_dir/+2 | +10 | +10 | +10 | Timeless body, tongue of the sun and moon | +15_dir/+15_dir/+10_dir/+10_dir/+5_dir/+5_dir/+0 | 2d8 | +4 | +50 ft. |
+| 18th | +13_dir/+8_dir/+3 | +11 | +11 | +11 | Bonus feat, slow fall 90 ft. | +16_dir/+16_dir/+11_dir/+11_dir/+6_dir/+6_dir/+1 | 2d8 | +4 | +60 ft. |
+| 19th | +14_dir/+9_dir/+4 | +11 | +11 | +11 | Empty body | +17_dir/+17_dir/+12_dir/+12_dir/+7_dir/+7_dir/+2 | 2d8 | +4 | +60 ft. |
+| 20th | +15_dir/+10_dir/+5 | +12 | +12 | +12 | Perfect self, slow fall any distance | +18_dir/+18_dir/+13_dir/+13_dir/+8_dir/+8_dir/+3 | 2d10 | +5 | +60 ft. |
 
 ## Class Features
 
@@ -94,7 +94,7 @@ A monk also deals more damage with his unarmed strikes than a normal person woul
 
 **Still Mind [(Ex)](../glossary#_extraordinary-abilities-ex)** : A monk of 3rd level or higher gains a +2 bonus on [saving throws](../combat#_saving-throws) against enchantment spells and effects.
 
-**Ki Pool [(Su)](../glossary#_supernatural-abilities-su)** : At 4th level, a monk gains a pool of _ki _points, supernatural energy he can use to accomplish amazing feats. The number of points in a monk's ki pool is equal to 1/2 his monk level + his [Wisdom](../gettingStarted#_wisdom) modifier. As long as he has at least 1 point in his ki pool, he can make a ki strike. At 4th level, ki strike allows his unarmed attacks to be treated as magic weapons for the purpose of overcoming [damage reduction](../glossary#_damage-reduction). At 7th level, his unarmed attacks are also treated as cold iron and silver for the purpose of overcoming [damage reduction](../glossary#_damage-reduction). At 10th level, his unarmed attacks are also treated as lawful weapons for the purpose of overcoming [damage reduction](../glossary#_damage-reduction). At 16th level, his unarmed attacks are treated as adamantine weapons for the purpose of overcoming [damage reduction](../glossary#_damage-reduction) and bypassing hardness.
+**Ki Pool [(Su)](../glossary#_supernatural-abilities-su)** : At 4th level, a monk gains a pool of _ki _points, supernatural energy he can use to accomplish amazing feats. The number of points in a monk's ki pool is equal to 1_dir/2 his monk level + his [Wisdom](../gettingStarted#_wisdom) modifier. As long as he has at least 1 point in his ki pool, he can make a ki strike. At 4th level, ki strike allows his unarmed attacks to be treated as magic weapons for the purpose of overcoming [damage reduction](../glossary#_damage-reduction). At 7th level, his unarmed attacks are also treated as cold iron and silver for the purpose of overcoming [damage reduction](../glossary#_damage-reduction). At 10th level, his unarmed attacks are also treated as lawful weapons for the purpose of overcoming [damage reduction](../glossary#_damage-reduction). At 16th level, his unarmed attacks are treated as adamantine weapons for the purpose of overcoming [damage reduction](../glossary#_damage-reduction) and bypassing hardness.
 
 By spending 1 point from his ki pool, a monk can make one additional attack at his highest attack bonus when making a flurry of blows attack. In addition, he can spend 1 point to increase his speed by 20 feet for 1 round. Finally, a monk can spend 1 point from his ki pool to give himself a +4 [dodge bonus](../combat#_dodge-bonuses) to [AC](../combat#_armor-class) for 1 round. Each of these powers is activated as a swift action. A monk gains additional powers that consume points from his ki pool as he gains levels.
 
@@ -102,7 +102,7 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Slow Fall [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 4th level or higher, a monk within arm's reach of a wall can use it to slow his descent. When first gaining this ability, he takes damage as if the fall were 20 feet shorter than it actually is. The monk's ability to slow his fall (that is, to reduce the effective distance of the fall when next to a wall) improves with his monk level until at 20th level he can use a nearby wall to slow his descent and fall any distance without harm.
 
-**High Jump [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 5th level, a monk adds his level to all [Acrobatics](../skills/acrobatics#_acrobatics) checks made to jump, both for vertical jumps and horizontal jumps. In addition, he always counts as having a running start when making jump checks using [Acrobatics](../skills/acrobatics#_acrobatics). By spending 1 point from his ki pool as a swift action, a monk gains a +20 bonus on [Acrobatics](../skills/acrobatics#_acrobatics) checks made to jump for 1 round.
+**High Jump [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 5th level, a monk adds his level to all [Acrobatics](../skills_dir/acrobatics#_acrobatics) checks made to jump, both for vertical jumps and horizontal jumps. In addition, he always counts as having a running start when making jump checks using [Acrobatics](../skills_dir/acrobatics#_acrobatics). By spending 1 point from his ki pool as a swift action, a monk gains a +20 bonus on [Acrobatics](../skills_dir/acrobatics#_acrobatics) checks made to jump for 1 round.
 
 **Purity of Body [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 5th level, a monk gains immunity to all diseases, including supernatural and magical diseases.
 
@@ -112,19 +112,19 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Diamond Body [(Su)](../glossary#_supernatural-abilities-su)** : At 11th level, a monk gains immunity to poisons of all kinds.
 
-**Abundant Step [(Su)](../glossary#_supernatural-abilities-su)** : At 12th level or higher, a monk can slip magically between spaces, as if using the spell _ [dimension door](../spells/dimensionDoor#_dimension-door)_. Using this ability is a move action that consumes 2 points from his ki pool. His caster level for this effect is equal to his monk level. He cannot take other creatures with him when he uses this ability.
+**Abundant Step [(Su)](../glossary#_supernatural-abilities-su)** : At 12th level or higher, a monk can slip magically between spaces, as if using the spell _ [dimension door](../spells_dir/dimensionDoor#_dimension-door)_. Using this ability is a move action that consumes 2 points from his ki pool. His caster level for this effect is equal to his monk level. He cannot take other creatures with him when he uses this ability.
 
 **Diamond Soul [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 13th level, a monk gains spell resistance equal to his current monk level + 10. In order to affect the monk with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the monk's spell resistance.
 
-**Quivering Palm [(Su)](../glossary#_supernatural-abilities-su)** : Starting at 15th level, a monk can set up vibrations within the body of another creature that can thereafter be fatal if the monk so desires. He can use this quivering palm attack once per day, and he must announce his intent before making his attack roll. Creatures immune to critical hits cannot be affected. Otherwise, if the monk strikes successfully and the target takes damage from the blow, the quivering palm attack succeeds. Thereafter, the monk can try to slay the victim at any later time, as long as the attempt is made within a number of days equal to his monk level. To make such an attempt, the monk merely wills the target to die (a free action), and unless the target makes a [Fortitude](../combat#_fortitude) [saving throw](../combat#_saving-throws) (DC 10 + 1/2 the monk's level + the monk's [Wis](../gettingStarted#_wisdom) modifier), it dies. If the [saving throw](../combat#_saving-throws) is successful, the target is no longer in danger from that particular quivering palm attack, but it may still be affected by another one at a later time. A monk can have no more than 1 quivering palm in effect at one time. If a monk uses quivering palm while another is still in effect, the previous effect is negated.
+**Quivering Palm [(Su)](../glossary#_supernatural-abilities-su)** : Starting at 15th level, a monk can set up vibrations within the body of another creature that can thereafter be fatal if the monk so desires. He can use this quivering palm attack once per day, and he must announce his intent before making his attack roll. Creatures immune to critical hits cannot be affected. Otherwise, if the monk strikes successfully and the target takes damage from the blow, the quivering palm attack succeeds. Thereafter, the monk can try to slay the victim at any later time, as long as the attempt is made within a number of days equal to his monk level. To make such an attempt, the monk merely wills the target to die (a free action), and unless the target makes a [Fortitude](../combat#_fortitude) [saving throw](../combat#_saving-throws) (DC 10 + 1_dir/2 the monk's level + the monk's [Wis](../gettingStarted#_wisdom) modifier), it dies. If the [saving throw](../combat#_saving-throws) is successful, the target is no longer in danger from that particular quivering palm attack, but it may still be affected by another one at a later time. A monk can have no more than 1 quivering palm in effect at one time. If a monk uses quivering palm while another is still in effect, the previous effect is negated.
 
 **Timeless Body [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 17th level, a monk no longer takes penalties to his ability scores for aging and cannot be magically aged. Any such penalties that he has already taken, however, remain in place. Age bonuses still accrue, and the monk still dies of old age when his time is up.
 
 **Tongue of the Sun and Moon [(Ex)](../glossary#_extraordinary-abilities-ex)** : A monk of 17th level or higher can speak with any living creature.
 
-**Empty Body [(Su)](../glossary#_supernatural-abilities-su)** : At 19th level, a monk gains the ability to assume an ethereal state for 1 minute as though using the spell _ [etherealness](../spells/etherealness#_etherealness)._ Using this ability is a move action that consumes 3 points from his ki pool. This ability only affects the monk and cannot be used to make other creatures ethereal.
+**Empty Body [(Su)](../glossary#_supernatural-abilities-su)** : At 19th level, a monk gains the ability to assume an ethereal state for 1 minute as though using the spell _ [etherealness](../spells_dir/etherealness#_etherealness)._ Using this ability is a move action that consumes 3 points from his ki pool. This ability only affects the monk and cannot be used to make other creatures ethereal.
 
-**Perfect Self** : At 20th level, a monk becomes a magical creature. He is forevermore treated as an outsider rather than as a humanoid (or whatever the monk's creature type was) for the purpose of spells and magical effects. Additionally, the monk gains [damage reduction](../glossary#_damage-reduction) 10/chaotic, which allows him to ignore the first 10 points of damage from any attack made by a nonchaotic weapon or by any natural attack made by a creature that doesn't have similar [damage reduction](../glossary#_damage-reduction). Unlike other outsiders, the monk can still be brought back from the dead as if he were a member of his previous creature type.
+**Perfect Self** : At 20th level, a monk becomes a magical creature. He is forevermore treated as an outsider rather than as a humanoid (or whatever the monk's creature type was) for the purpose of spells and magical effects. Additionally, the monk gains [damage reduction](../glossary#_damage-reduction) 10_dir/chaotic, which allows him to ignore the first 10 points of damage from any attack made by a nonchaotic weapon or by any natural attack made by a creature that doesn't have similar [damage reduction](../glossary#_damage-reduction). Unlike other outsiders, the monk can still be brought back from the dead as if he were a member of his previous creature type.
 
 ## Ex-Monks
 

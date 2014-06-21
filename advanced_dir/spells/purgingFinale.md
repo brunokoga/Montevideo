@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/purgingFinale
+title: advanced_dir/spells_dir/purgingFinale
 ---
  **Purging Finale**
 
@@ -10,7 +10,7 @@ title: advanced/spells/purgingFinale
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one living creature
 

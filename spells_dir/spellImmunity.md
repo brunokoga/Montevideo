@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/spellImmunity
+title: spells_dir/spellImmunity
 ---
  **Spell Immunity**
 
@@ -14,7 +14,7 @@ title: spells/spellImmunity
 
 **Target** creature touched
 
-**Duration** 10 min./level
+**Duration** 10 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/antimagicField
+title: spells_dir/antimagicField
 ---
  **Antimagic Field**
 
-**School** abjuration; **Level** cleric 8, sorcerer/wizard 6
+**School** abjuration; **Level** cleric 8, sorcerer_dir/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (pinch of powdered iron or iron filings)
+**Components** V, S, M_dir/DF (pinch of powdered iron or iron filings)
 
 **Range** 10 ft.
 
 **Area** 10-ft.-radius emanation, centered on you
 
-**Duration** 10 min./level (D)
+**Duration** 10 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** see text
 

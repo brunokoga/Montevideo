@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/wordOfChaos
+title: spells_dir/wordOfChaos
 ---
  **Word of Chaos**
 

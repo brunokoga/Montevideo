@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/haltUndead
+title: spells_dir/haltUndead
 ---
  **Halt Undead**
 
-**School** necromancy; **Level** sorcerer/wizard 3
+**School** necromancy; **Level** sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a pinch of sulfur and powdered garlic)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Targets** up to three undead creatures, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (see text); **[Spell Resistance](../glossary#_spell-resistance)** yes
 

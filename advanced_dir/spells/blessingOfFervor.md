@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/blessingOfFervor
+title: advanced_dir/spells_dir/blessingOfFervor
 ---
  **Blessing of Fervor**
 
@@ -10,11 +10,11 @@ title: advanced/spells/blessingOfFervor
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Targets** one creature/level, no two of which can be more than 30 ft. apart
+**Targets** one creature_dir/level, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -26,5 +26,5 @@ With this blessing, you call your allies to move forth and empower them to conqu
 - Gain a +2 bonus on attack rolls and a +2 dodge bonus to AC and Reflex saves.
 - Cast a single spell of 2nd level or lower as if it were an enlarged, extended, silent, or still spell. 
 
-These effects are not cumulative with similar effects, such as those provided by _ [haste](../../spells/haste#_haste)_ or a _ [speed](../../magicItems/weapons#_weapons-speed)_ weapon, nor do they actually grant an extra action, so you can't use it to cast a second spell or otherwise take an extra action in the round. _Blessing of fervor_ does not stack with _ [haste](../../spells/haste#_haste)_.
+These effects are not cumulative with similar effects, such as those provided by _ [haste](../../spells_dir/haste#_haste)_ or a _ [speed](../../magicItems_dir/weapons#_weapons-speed)_ weapon, nor do they actually grant an extra action, so you can't use it to cast a second spell or otherwise take an extra action in the round. _Blessing of fervor_ does not stack with _ [haste](../../spells_dir/haste#_haste)_.
 

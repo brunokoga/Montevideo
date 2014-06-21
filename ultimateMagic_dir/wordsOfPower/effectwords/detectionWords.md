@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/wordsOfPower/effectwords/detectionWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/detectionWords
 ---
 ## Detection Words
 
@@ -8,21 +8,21 @@ Detection words are used to learn things that simple observation cannot. They re
 
 Sense Magic (Detection)
 
-**School** divination; **Level** bard 0, cleric 0, druid 0, inquisitor 0, magus 0, sorcerer/wizard 0, summoner 0, witch 0
+**School** divination; **Level** bard 0, cleric 0, druid 0, inquisitor 0, magus 0, sorcerer_dir/wizard 0, summoner 0, witch 0
 
-**Duration** concentration, up to 1 minute/level (D)
+**Duration** concentration, up to 1 minute_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
 **Target Restrictions** _cone_
 
-A wordspell with this effect word detects magic auras. By concentrating each round, the caster can determine the number and location of each aura in the target area. He can make a [Knowledge](skills/knowledge#_knowledge) (arcana) skill check to determine the school of each aura (one check per aura, the DC of this check is 15 + the spell level or 15 + 1/2 the caster level for a nonspell effect). If the aura radiates from a magic item, the caster can attempt to identify the item's properties as if using _ [detect magic](spells/detectMagic#_detect-magic)_ (see [Spellcraft](skills/spellcraft#_spellcraft)). If the aura emanates from a spell of 7th level or higher, or is a nonspell effect with a caster level of 12th or higher, the caster knows that the aura is strong, even if the [Knowledge](skills/knowledge#_knowledge) check to identify the school is unsuccessful.
+A wordspell with this effect word detects magic auras. By concentrating each round, the caster can determine the number and location of each aura in the target area. He can make a [Knowledge](skills_dir/knowledge#_knowledge) (arcana) skill check to determine the school of each aura (one check per aura, the DC of this check is 15 + the spell level or 15 + 1_dir/2 the caster level for a nonspell effect). If the aura radiates from a magic item, the caster can attempt to identify the item's properties as if using _ [detect magic](spells_dir/detectMagic#_detect-magic)_ (see [Spellcraft](skills_dir/spellcraft#_spellcraft)). If the aura emanates from a spell of 7th level or higher, or is a nonspell effect with a caster level of 12th or higher, the caster knows that the aura is strong, even if the [Knowledge](skills_dir/knowledge#_knowledge) check to identify the school is unsuccessful.
 
 Sense Alignment (Detection)
 
 **School** divination; **Level** cleric 1, inquisitor 1, paladin 1
 
-**Duration** concentration, up to 1 minute/level (D)
+**Duration** concentration, up to 1 minute_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -36,9 +36,9 @@ This effect word detects one or more alignments. When cast, the wordcaster selec
 
 Sense Thoughts (Detection)
 
-**School** divination; **Level** alchemist 2, bard 2, inquisitor 2, sorcerer/wizard 2, summoner 2, witch 2
+**School** divination; **Level** alchemist 2, bard 2, inquisitor 2, sorcerer_dir/wizard 2, summoner 2, witch 2
 
-**Duration** concentration, up to 1 minute/level (D)
+**Duration** concentration, up to 1 minute_dir/level (D)
 
 **Saving Throw** Will negates; **Spell Resistance** no
 
@@ -48,9 +48,9 @@ This effect word allows the caster to detect the surface thoughts of creatures i
 
 Sense Hidden (Detection)
 
-**School** divination; **Level** alchemist 2, bard 2, cleric 2, inquisitor 2, sorcerer/wizard 2, summoner 2, witch 2
+**School** divination; **Level** alchemist 2, bard 2, cleric 2, inquisitor 2, sorcerer_dir/wizard 2, summoner 2, witch 2
 
-**Duration** concentration, up to 1 minute/level (D)
+**Duration** concentration, up to 1 minute_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 

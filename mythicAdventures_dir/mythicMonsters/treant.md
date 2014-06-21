@@ -1,18 +1,18 @@
 ---
 layout: default
-title: mythicAdventures/mythicMonsters/treant
+title: mythicAdventures_dir/mythicMonsters_dir/treant
 ---
 # Treant
 
 _Standing upright and powerful, this mighty tree-person channels nature's fury into green energy in its gnarled hands. _
 
-Mythic Treant CR 10/MR 4
+Mythic Treant CR 10_dir/MR 4
 
 XP 9,600
 
-NG Huge plant ( [mythic](mythicAdventures/mythicMonsters#_mythic-subtype))
+NG Huge plant ( [mythic](mythicAdventures_dir/mythicMonsters#_mythic-subtype))
 
-**Init** –1; **Senses** [low-light vision](monsters/universalMonsterRules#_low-light-vision); [Perception](skills/perception#_perception) +17
+**Init** –1; **Senses** [low-light vision](monsters_dir/universalMonsterRules#_low-light-vision); [Perception](skills_dir/perception#_perception) +17
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +13, **Ref** +3, **Will** +10
 
-**DR** 10/epic and slashing; **Immune** plant traits
+**DR** 10_dir/epic and slashing; **Immune** plant traits
 
 **Weaknesses** vulnerable to fire
 
@@ -30,21 +30,21 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** 2 slams +19 (3d6+10/18–20)
+**Melee** 2 slams +19 (3d6+10_dir/18–20)
 
 **Ranged** rock +7 (2d6+15)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** mythic power (4/day, surge +1d8), [rock throwing](monsters/universalMonsterRules#_rock-throwing) (180 ft.), trample (3d6+15, DC 26), druidic magic
+**Special Attacks** mythic power (4_dir/day, surge +1d8), [rock throwing](monsters_dir/universalMonsterRules#_rock-throwing) (180 ft.), trample (3d6+15, DC 26), druidic magic
 
 **Spell-Like Abilities** (CL 10th; concentration +14; save DCs are Wisdom-based)
 
-7/day—_ [animal messenger](spells/animalMessenger#_animal-messenger)_, _ [calm animals](spells/calmAnimals#_calm-animals)_ (DC 15), _ [create water](spells/createWater#_create-water)_, _ [entangle](spells/entangle#_entangle)_ (DC 15), _ [magic fang](spells/magicFang#_magic-fang)_, _ [neutralize poison](spells/neutralizePoison#_neutralize-poison)_, _ [quench](spells/quench#_quench)_ (DC 17), _ [sleep](spells/sleep#_sleep)_ (DC 15), _ [wind wall](spells/windWall#_wind-wall)_, _ [wood shape](spells/woodShape#_wood-shape)_
+7_dir/day—_ [animal messenger](spells_dir/animalMessenger#_animal-messenger)_, _ [calm animals](spells_dir/calmAnimals#_calm-animals)_ (DC 15), _ [create water](spells_dir/createWater#_create-water)_, _ [entangle](spells_dir/entangle#_entangle)_ (DC 15), _ [magic fang](spells_dir/magicFang#_magic-fang)_, _ [neutralize poison](spells_dir/neutralizePoison#_neutralize-poison)_, _ [quench](spells_dir/quench#_quench)_ (DC 17), _ [sleep](spells_dir/sleep#_sleep)_ (DC 15), _ [wind wall](spells_dir/windWall#_wind-wall)_, _ [wood shape](spells_dir/woodShape#_wood-shape)_
 
-3/day—_ [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_, _ [darkness](spells/darkness#_darkness)_, _ [rusting grasp](spells/rustingGrasp#_rusting-grasp)_, _ [shout](spells/shout#_shout)_ (DC 18), _ [summon nature's ally IV](spells/summonNatureSAlly#_summon-nature-s-ally-iv)_
+3_dir/day—_ [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _ [darkness](spells_dir/darkness#_darkness)_, _ [rusting grasp](spells_dir/rustingGrasp#_rusting-grasp)_, _ [shout](spells_dir/shout#_shout)_ (DC 18), _ [summon nature's ally IV](spells_dir/summonNatureSAlly#_summon-nature-s-ally-iv)_
 
-1/day—_ [call lightning storm](spells/callLightningStorm#_call-lightning-storm)_ (DC 19)
+1_dir/day—_ [call lightning storm](spells_dir/callLightningStorm#_call-lightning-storm)_ (DC 19)
 
 Statistics
 
@@ -54,7 +54,7 @@ Statistics
 
 **Feats** [Alertness](feats#_alertness), [Improved Critical](feats#_improved-critical) M (slam), [Improved Sunder](feats#_improved_sunder), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) M (slam)
 
-**Skills** [Diplomacy](skills/diplomacy#_diplomacy) +9, [Intimidate](skills/intimidate#_intimidate) +9, [Knowledge](skills/knowledge#_knowledge) (nature) +9, [Perception](skills/perception#_perception) +17, [Sense Motive](skills/senseMotive#_sense-motive) +10, [Stealth](skills/stealth#_stealth) –9 (+7 in forests); **Racial Modifiers** +16 [Stealth](skills/stealth#_stealth) in forests
+**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +9, [Intimidate](skills_dir/intimidate#_intimidate) +9, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +9, [Perception](skills_dir/perception#_perception) +17, [Sense Motive](skills_dir/senseMotive#_sense-motive) +10, [Stealth](skills_dir/stealth#_stealth) –9 (+7 in forests); **Racial Modifiers** +16 [Stealth](skills_dir/stealth#_stealth) in forests
 
 **Languages** Common, Sylvan, Treant; treespeech
 
@@ -74,9 +74,9 @@ Special Abilities
 
 **Double Damage Against Objects (Ex)** A mythic treant or animated tree that makes a full attack against an object or structure deals double damage.
 
-**Drink Deep (Su)** A mythic treant can expend one use of mythic power to lose its vulnerability to [fire](monsters/creatureTypes#_fire-subtype) for 1 hour.
+**Drink Deep (Su)** A mythic treant can expend one use of mythic power to lose its vulnerability to [fire](monsters_dir/creatureTypes#_fire-subtype) for 1 hour.
 
-**Treespeech (Ex)** A treant has the ability to converse with plants as if subject to a continual _ [speak with plants](spells/speakWithPlants#_speak-with-plants)_ spell, and most plants greet it with an attitude of friendly or helpful.
+**Treespeech (Ex)** A treant has the ability to converse with plants as if subject to a continual _ [speak with plants](spells_dir/speakWithPlants#_speak-with-plants)_ spell, and most plants greet it with an attitude of friendly or helpful.
 
 **Druidic Magic (Su)** A mythic treant can expend one use of mythic power to cast any druid spell of 3rd level or lower, or two uses of mythic power to cast any druid spell of 5th level or lower. Its caster level for this spell is 10th.
 

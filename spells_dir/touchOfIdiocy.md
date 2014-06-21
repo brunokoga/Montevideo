@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/touchOfIdiocy
+title: spells_dir/touchOfIdiocy
 ---
  **Touch of Idiocy**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 2
+**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells/touchOfIdiocy
 
 **Target** living creature touched
 
-**Duration** 10 min./level
+**Duration** 10 min._dir/level
 
 **Saving Throw** no; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

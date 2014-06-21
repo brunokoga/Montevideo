@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures/mythicSpells/rayOfEnfeeblement
+title: mythicAdventures_dir/mythicSpells_dir/rayOfEnfeeblement
 ---
 Ray of Enfeeblement
 
-**Source** [_ray of enfeeblement_](spells/rayOfEnfeeblement#_ray-of-enfeeblement)
+**Source** [_ray of enfeeblement_](spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement)
 
 The Strength penalty increases to 1d8 + 1 per 2 caster levels (maximum +10). If the target fails its save, it's fatigued.
 

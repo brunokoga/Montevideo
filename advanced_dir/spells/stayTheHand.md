@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/stayTheHand
+title: advanced_dir/spells_dir/stayTheHand
 ---
  **Stay the Hand**
 
@@ -10,11 +10,11 @@ title: advanced/spells/stayTheHand
 
 **Components** V, S, DF
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target** one creature
 
-**Duration** 1 round/level and special; see text
+**Duration** 1 round_dir/level and special; see text
 
 **Saving Throw** Will partial; **Spell Resistance** yes
 

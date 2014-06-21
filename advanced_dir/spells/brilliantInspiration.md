@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/brilliantInspiration
+title: advanced_dir/spells_dir/brilliantInspiration
 ---
  **Brilliant Inspiration**
 
@@ -10,11 +10,11 @@ title: advanced/spells/brilliantInspiration
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one living creature
 
-**Duration** 1 round/level and special (see below)
+**Duration** 1 round_dir/level and special (see below)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

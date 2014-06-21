@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advanced/spells/elementalAura
+title: advanced_dir/spells_dir/elementalAura
 ---
  **Elemental Aura**
 
-**School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 3, sorcerer/wizard 3
+**School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 3, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: advanced/spells/elementalAura
 
 **Target** you
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** Reflex half; see text; **Spell Resistance** yes
 

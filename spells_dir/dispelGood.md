@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/dispelGood
+title: spells_dir/dispelGood
 ---
  **Dispel Good**
 

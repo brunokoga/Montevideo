@@ -220,9 +220,9 @@ A character can lift as much as double his maximum load off the ground, but he o
 
 A character can generally push or drag along the ground as much as five times his maximum load. Favorable conditions can double these numbers, and bad circumstances can reduce them by half or more.
 
-Bigger and Smaller Creatures: The figures on Table: Carrying Capacity are for Medium bipedal creatures. A larger bipedal creature can carry more weight depending on its size category, as follows: Large ×2, Huge ×4, Gargantuan ×8, Colossal ×16. A smaller creature can carry less weight depending on its size category, as follows: Small ×3/4, Tiny ×1/2, Diminutive ×1/4, Fine ×1/8.
+Bigger and Smaller Creatures: The figures on Table: Carrying Capacity are for Medium bipedal creatures. A larger bipedal creature can carry more weight depending on its size category, as follows: Large ×2, Huge ×4, Gargantuan ×8, Colossal ×16. A smaller creature can carry less weight depending on its size category, as follows: Small ×3_dir/4, Tiny ×1_dir/2, Diminutive ×1_dir/4, Fine ×1_dir/8.
 
-Quadrupeds can carry heavier loads than bipeds can. Multiply the values corresponding to the creature's Strength score from Table: Carrying Capacity by the appropriate modifier, as follows: Fine ×1/4, Diminutive ×1/2, Tiny ×3/4, Small ×1, Medium ×1-1/2, Large ×3, Huge ×6, Gargantuan ×12, Colossal ×24.
+Quadrupeds can carry heavier loads than bipeds can. Multiply the values corresponding to the creature's Strength score from Table: Carrying Capacity by the appropriate modifier, as follows: Fine ×1_dir/4, Diminutive ×1_dir/2, Tiny ×3_dir/4, Small ×1, Medium ×1-1_dir/2, Large ×3, Huge ×6, Gargantuan ×12, Colossal ×24.
 
 Tremendous Strength: For Strength scores not shown on Table: Carrying Capacity, find the Strength score between 20 and 29 that has the same number in the “ones” digit as the creature's Strength score does and multiply the numbers in that row by 4 for every 10 points the creature's Strength is above the score for that row.
 
@@ -284,7 +284,7 @@ Run (×4): Moving four times speed is a running pace for a character in light, m
 | Run (×4) | 600 ft. | 800 ft. | 1,200 ft. | 1,600 ft. |
 | One Hour (Overland) |
 | --- |
-| Walk | 1-1/2 miles | 2 miles | 3 miles | 4 miles |
+| Walk | 1-1_dir/2 miles | 2 miles | 3 miles | 4 miles |
 | Hustle | 3 miles | 4 miles | 6 miles | 8 miles |
 | Run | — | — | — | — |
 | One Day (Overland) |
@@ -326,15 +326,15 @@ Run: A character can run for a number of rounds equal to his [Constitution](gett
 [Table: Terrain and Overland Movement]
 | Terrain | Highway | Road or Trail | Trackless |
 | --- | --- | --- | --- |
-| Desert, sandy | ×1 | ×1/2 | ×1/2 |
-| Forest | ×1 | ×1 | ×1/2 |
-| Hills | ×1 | ×3/4 | ×1/2 |
-| Jungle | ×1 | ×3/4 | ×1/4 |
-| Moor | ×1 | ×1 | ×3/4 |
-| Mountains | ×3/4 | ×3/4 | ×1/2 |
-| Plains | ×1 | ×1 | ×3/4 |
-| Swamp | ×1 | ×3/4 | ×1/2 |
-| Tundra, frozen | ×1 | ×3/4 | ×3/4 |
+| Desert, sandy | ×1 | ×1_dir/2 | ×1_dir/2 |
+| Forest | ×1 | ×1 | ×1_dir/2 |
+| Hills | ×1 | ×3_dir/4 | ×1_dir/2 |
+| Jungle | ×1 | ×3_dir/4 | ×1_dir/4 |
+| Moor | ×1 | ×1 | ×3_dir/4 |
+| Mountains | ×3_dir/4 | ×3_dir/4 | ×1_dir/2 |
+| Plains | ×1 | ×1 | ×3_dir/4 |
+| Swamp | ×1 | ×3_dir/4 | ×1_dir/2 |
+| Tundra, frozen | ×1 | ×3_dir/4 | ×3_dir/4 |
 
 ## Overland Movement
 
@@ -361,14 +361,14 @@ See Table: Mounts and Vehicles: Mounts and Vehicles for mounted speeds and speed
 Waterborne Movement: See Table: Mounts and Vehicles: Mounts and Vehicles for speeds for water vehicles.
 
 [Table: Mounts and Vehicles]
-| Mount/Vehicle | Per Hour | Per Day |
+| Mount_dir/Vehicle | Per Hour | Per Day |
 | --- | --- | --- |
 | Mount (carrying load) |
 | --- |
 | Light horse | 5 miles | 40 miles |
-| Light horse (175–525 lbs.)ⁱ | 3 1/2 miles | 28 miles |
+| Light horse (175–525 lbs.)ⁱ | 3 1_dir/2 miles | 28 miles |
 | Heavy horse | 5 miles | 40 miles |
-| Heavy horse (229–690 lbs.)ⁱ | 3-1/2 miles | 28 miles |
+| Heavy horse (229–690 lbs.)ⁱ | 3-1_dir/2 miles | 28 miles |
 | Pony | 4 miles | 32 miles |
 | Pony (151–450 lbs.)ⁱ | 3 miles | 24 miles |
 | Dog, riding | 4 miles | 32 miles |
@@ -376,11 +376,11 @@ Waterborne Movement: See Table: Mounts and Vehicles: Mounts and Vehicles for spe
 | Cart or wagon | 2 miles | 16 miles |
 | Ship |
 | --- |
-| Raft or barge (poled or towed)⁲ | 1/2 mile | 5 miles |
+| Raft or barge (poled or towed)⁲ | 1_dir/2 mile | 5 miles |
 | Keelboat (rowed)⁲ | 1 mile | 10 miles |
-| Rowboat (rowed)⁲ | 1-1/2 miles | 15 miles |
+| Rowboat (rowed)⁲ | 1-1_dir/2 miles | 15 miles |
 | Sailing ship (sailed) | 2 miles | 48 miles |
-| Warship (sailed and rowed) | 2-1/2 miles | 60 miles |
+| Warship (sailed and rowed) | 2-1_dir/2 miles | 60 miles |
 | Longship (sailed and rowed) | 3 miles | 72 miles |
 | Galley (rowed and sailed) | 4 miles | 96 miles |
 
@@ -403,11 +403,11 @@ Dwarves and half-orcs have darkvision, but the other races presented in [Races](
 [Table: Light Sources and Illumination]
 | Object | Normal | Increased | Duration |
 | --- | --- | --- | --- |
-| Candle | n/aⁱ | 5 ft. | 1 hr. |
+| Candle | n_dir/aⁱ | 5 ft. | 1 hr. |
 | _Everburning torch_ | 20 ft. | 40 ft. | Permanent |
-| Lamp, common | 15 ft. | 30 ft. | 6 hr./pint |
-| Lantern, bullseye | 60-ft. cone | 120-ft. cone | 6 hr./pint |
-| Lantern, hooded | 30 ft. | 60 ft. | 6 hr./pint |
+| Lamp, common | 15 ft. | 30 ft. | 6 hr._dir/pint |
+| Lantern, bullseye | 60-ft. cone | 120-ft. cone | 6 hr._dir/pint |
+| Lantern, hooded | 30 ft. | 60 ft. | 6 hr._dir/pint |
 | Sunrod | 30 ft. | 60 ft. | 6 hr. |
 | Torch | 20 ft. | 40 ft. | 1 hr. |
 
@@ -415,8 +415,8 @@ Dwarves and half-orcs have darkvision, but the other races presented in [Races](
 | --- | --- | --- | --- |
 | _Continual flame_ | 20 ft. | 40 ft. | Permanent |
 | _Dancing lights_ (torches) | 20 ft. (each) | 40 ft. (each) | 1 min. |
-| _Daylight_ | 60 ft.⁲ | 120 ft. | 10 min./level |
-| _Light_ | 20 ft. | 40 ft. | 10 min./level |
+| _Daylight_ | 60 ft.⁲ | 120 ft. | 10 min._dir/level |
+| _Light_ | 20 ft. | 40 ft. | 10 min._dir/level |
 
 In an area of bright light, all characters can see clearly. Some creatures, such as those with light sensitivity and light blindness, take penalties while in areas of bright light. A creature can't use Stealth in an area of bright light unless it is invisible or has cover. Areas of bright light include outside in direct sunshine and inside the area of a daylight spell.
 
@@ -450,16 +450,16 @@ When attempting to break an object, you have two choices: smash it with a weapon
 [Table: Substance Hardness and Hit Points]
 | Substance | Hardness | Hit Points |
 | --- | --- | --- |
-| Glass | 1 | 1/in. of thickness |
-| Paper or cloth | 0 | 2/in. of thickness |
-| Rope | 0 | 2/in. of thickness |
-| Ice | 0 | 3/in. of thickness |
-| Leather or hide | 2 | 5/in. of thickness |
-| Wood | 5 | 10/in. of thickness |
-| Stone | 8 | 15/in. of thickness |
-| Iron or steel | 10 | 30/in. of thickness |
-| Mithral | 15 | 30/in. of thickness |
-| Adamantine | 20 | 40/in. of thickness |
+| Glass | 1 | 1_dir/in. of thickness |
+| Paper or cloth | 0 | 2_dir/in. of thickness |
+| Rope | 0 | 2_dir/in. of thickness |
+| Ice | 0 | 3_dir/in. of thickness |
+| Leather or hide | 2 | 5_dir/in. of thickness |
+| Wood | 5 | 10_dir/in. of thickness |
+| Stone | 8 | 15_dir/in. of thickness |
+| Iron or steel | 10 | 30_dir/in. of thickness |
+| Mithral | 15 | 30_dir/in. of thickness |
+| Adamantine | 20 | 40_dir/in. of thickness |
 
 [Table: Object Hardness and Hit Points]
 | Object | Hardness | Hit Points | break DC |

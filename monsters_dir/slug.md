@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/slug
+title: monsters_dir/slug
 ---
 # Slug, Giant
 
@@ -12,7 +12,7 @@ _This massive, gray-brown slug leaves a viscous trail of slime in its wake as a 
 
 N Huge [vermin](creatureTypes#_vermin)
 
-**Init** –4; **Senses** blindsight 60 ft.; [Perception](../skills/perception#_perception) +0
+**Init** –4; **Senses** blindsight 60 ft.; [Perception](../skills_dir/perception#_perception) +0
 
 **Defense**
 
@@ -22,7 +22,7 @@ N Huge [vermin](creatureTypes#_vermin)
 
 **Fort** +12, **Ref** +0, **Will** +4
 
-**DR** 10/slashing or piercing **Immune** acid, mind-affecting effects
+**DR** 10_dir/slashing or piercing **Immune** acid, mind-affecting effects
 
 **Weaknesses** susceptible to salt
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/heroSDefiance
+title: advanced_dir/spells_dir/heroSDefiance
 ---
  **Hero's Defiance**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/worg
+title: monsters_dir/worg
 ---
 # Worg
 
@@ -12,7 +12,7 @@ _This unusually large wolf has an evil, almost intelligent light shining in its 
 
 NE Medium [magical beast](creatureTypes#_magical-beast)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +11
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +11
 
 **Defense**
 
@@ -34,9 +34,9 @@ NE Medium [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +4; **CMB** +7; **CMD** 19 (23 vs. trip)
 
-**Feats** [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
 
-**Skills** [Perception](../skills/perception#_perception) +11, [Stealth](../skills/stealth#_stealth) +9, [Survival](../skills/survival#_survival) +5; **Racial Modifiers** +2 [Perception](../skills/perception#_perception), +2 [Stealth](../skills/stealth#_stealth), +2 [Survival](../skills/survival#_survival)
+**Skills** [Perception](../skills_dir/perception#_perception) +11, [Stealth](../skills_dir/stealth#_stealth) +9, [Survival](../skills_dir/survival#_survival) +5; **Racial Modifiers** +2 [Perception](../skills_dir/perception#_perception), +2 [Stealth](../skills_dir/stealth#_stealth), +2 [Survival](../skills_dir/survival#_survival)
 
 **Languages** Common, Goblin
 
@@ -62,7 +62,7 @@ _This bear-sized wolf has white fur and a rime of frost around its muzzle. Its e
 
 NE Large [magical beast](creatureTypes#_magical-beast) (cold)
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +11
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +11
 
 **Defense**
 
@@ -92,9 +92,9 @@ NE Large [magical beast](creatureTypes#_magical-beast) (cold)
 
 **Base Atk** +6; **CMB** +12; **CMD** 23 (27 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
 
-**Skills** [Perception](../skills/perception#_perception) +11, [Stealth](../skills/stealth#_stealth) +4 (+10 in snow), [Survival](../skills/survival#_survival) +5; **Racial Modifiers** +2 [Perception](../skills/perception#_perception), +2 [Stealth](../skills/stealth#_stealth) (+8 in snow), +2 [Survival](../skills/survival#_survival)
+**Skills** [Perception](../skills_dir/perception#_perception) +11, [Stealth](../skills_dir/stealth#_stealth) +4 (+10 in snow), [Survival](../skills_dir/survival#_survival) +5; **Racial Modifiers** +2 [Perception](../skills_dir/perception#_perception), +2 [Stealth](../skills_dir/stealth#_stealth) (+8 in snow), +2 [Survival](../skills_dir/survival#_survival)
 
 **Languages** Common, Giant
 
@@ -108,5 +108,5 @@ NE Large [magical beast](creatureTypes#_magical-beast) (cold)
 
 Winter wolves are larger, smarter, more ferocious variants of worgs with white fur and a deadly breath weapon.
 
-A typical winter wolf is 8 feet long, stands 4-1/2 feet tall at the shoulder, and weighs about 450 pounds. Winter wolves will often ally themselves with frost giants, hill giants, and other large humanoids, serving entire tribes of giants as both scouts and guards.
+A typical winter wolf is 8 feet long, stands 4-1_dir/2 feet tall at the shoulder, and weighs about 450 pounds. Winter wolves will often ally themselves with frost giants, hill giants, and other large humanoids, serving entire tribes of giants as both scouts and guards.
 

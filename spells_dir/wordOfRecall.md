@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/wordOfRecall
+title: spells_dir/wordOfRecall
 ---
  **Word of Recall**
 

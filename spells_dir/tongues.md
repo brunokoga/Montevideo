@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/tongues
+title: spells_dir/tongues
 ---
  **Tongues**
 
-**School** divination; **Level** bard 2, cleric 4, sorcerer/wizard 3
+**School** divination; **Level** bard 2, cleric 4, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, M/DF (a clay model of a ziggurat)
+**Components** V, M_dir/DF (a clay model of a ziggurat)
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 10 min./level
+**Duration** 10 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** no
 

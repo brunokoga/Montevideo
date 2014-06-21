@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/siyokoy
+title: bestiary3_dir/siyokoy
 ---
 # Siyokoy
 
@@ -10,9 +10,9 @@ Siyokoy CR 10
 
 XP 9,600
 
-N Medium aberration ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
+N Medium aberration ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +5; **Senses** [blindsight](monsters/universalMonsterRules#_blindsight) 60 ft., darkvision 60 ft., [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +22
+**Init** +5; **Senses** [blindsight](monsters_dir/universalMonsterRules#_blindsight) 60 ft., darkvision 60 ft., [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +22
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +10, **Ref** +9, **Will** +10
 
-**DR** 10/slashing; **Immune** [cold](monsters/creatureTypes#_cold-subtype), electricity, [poison](monsters/universalMonsterRules#_poison-(ex-or-su))
+**DR** 10_dir/slashing; **Immune** [cold](monsters_dir/creatureTypes#_cold-subtype), electricity, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))
 
 **Weaknesses** light sensitivity
 
@@ -30,11 +30,11 @@ Offense
 
 **Speed** 30 ft., swim 60 ft.
 
-**Melee** bite +18 (1d6+9/19–20 plus [grab](monsters/universalMonsterRules#_grab)), 2 claws +18 (1d6+9), tail slap +14 (1d6+4 plus stunning shock)
+**Melee** bite +18 (1d6+9_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab)), 2 claws +18 (1d6+9), tail slap +14 (1d6+4 plus stunning shock)
 
 **Space** 5 ft.; **Reach** 5 ft. (10 ft. with tail slap)
 
-**Special Attacks** [constrict](monsters/universalMonsterRules#_constrict) (2d6+4), stunning shock, swim-by attack
+**Special Attacks** [constrict](monsters_dir/universalMonsterRules#_constrict) (2d6+4), stunning shock, swim-by attack
 
 Statistics
 
@@ -44,7 +44,7 @@ Statistics
 
 **Feats** [Alertness](feats#_alertness), [Dodge](feats#_dodge), [Improved Critical](feats#_improved-critical) (bite), [Improved Grapple](feats#_improved-grapple), [Power Attack](feats#_power-attack), [Stealthy](feats#_stealthy), [Weapon Focus](feats#_weapon-focus) (tail slap)
 
-**Skills** [Disable Device](skills/disableDevice#_disable-device) +16, [Escape Artist](skills/escapeArtist#_escape-artist) +7, [Intimidate](skills/intimidate#_intimidate) +9, [Knowledge](skills/knowledge#_knowledge) (geography) +10, [Perception](skills/perception#_perception) +22, [Sense Motive](skills/senseMotive#_sense-motive) +4, [Stealth](skills/stealth#_stealth) +25, [Survival](skills/survival#_survival) +16, [Swim](skills/swim#_swim) +25
+**Skills** [Disable Device](skills_dir/disableDevice#_disable-device) +16, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +7, [Intimidate](skills_dir/intimidate#_intimidate) +9, [Knowledge](skills_dir/knowledge#_knowledge) (geography) +10, [Perception](skills_dir/perception#_perception) +22, [Sense Motive](skills_dir/senseMotive#_sense-motive) +4, [Stealth](skills_dir/stealth#_stealth) +25, [Survival](skills_dir/survival#_survival) +16, [Swim](skills_dir/swim#_swim) +25
 
 **Languages** Aquan
 
@@ -60,7 +60,7 @@ Special Abilities
 
 **Stunning Shock (Su)** A siyokoy can emit a strong electrical charge from its tail. When it hits a creature with its tail slap, the attack deals 3d6 points of electrical damage and the target must succeed at a DC 22 Fortitude save or be stunned for 1d4 rounds.
 
-**Swim-By Attack (Ex)** Extremely quick in the [water](monsters/creatureTypes#_water-subtype), a siyokoy gains Spring Attack as a bonus feat when swimming.
+**Swim-By Attack (Ex)** Extremely quick in the [water](monsters_dir/creatureTypes#_water-subtype), a siyokoy gains Spring Attack as a bonus feat when swimming.
 
 Siyokoys are eel-like aquatic creatures often mistaken for merfolk by sailors. On closer inspection, however, siyokoys' appearance might make one question the vision of said sailors, for apart from their humanoid arms, siyokoys are very much creatures of the sea.
 

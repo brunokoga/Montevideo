@@ -1,16 +1,16 @@
 ---
 layout: default
-title: advanced/spells/break
+title: advanced_dir/spells_dir/break
 ---
  **Break**
 
-**School** transmutation; **Level** sorcerer/wizard 1
+**School** transmutation; **Level** sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a twig)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one Medium or smaller object
 

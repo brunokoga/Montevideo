@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/wordsOfPower/effectwords/electricityWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/electricityWords
 ---
 ## Electricity Words
 
@@ -8,7 +8,7 @@ Spells using electricity words crackle with life and leap from target to target 
 
 Spark (Electricity)
 
-**School** evocation [electricity]; **Level** druid 0, magus 0, sorcerer/wizard 0, witch 0
+**School** evocation [electricity]; **Level** druid 0, magus 0, sorcerer_dir/wizard 0, witch 0
 
 **Duration** instantaneous
 
@@ -18,7 +18,7 @@ This effect word deals 1d4 points of electricity damage. If the wordspell with t
 
 Shock Arc (Electricity)
 
-**School** evocation [electricity]; **Level** magus 1, sorcerer/wizard 1, witch 1
+**School** evocation [electricity]; **Level** magus 1, sorcerer_dir/wizard 1, witch 1
 
 **Duration** instantaneous
 
@@ -28,7 +28,7 @@ This effect word deals 1d4 points of electricity damage per caster level (maximu
 
 Lightning Blast (Electricity)
 
-**School** evocation [electricity]; **Level** druid 3, magus 3, sorcerer/wizard 3, witch 3
+**School** evocation [electricity]; **Level** druid 3, magus 3, sorcerer_dir/wizard 3, witch 3
 
 **Duration** instantaneous
 
@@ -38,7 +38,7 @@ This effect word deals 1d6 points of electricity damage per caster level (maximu
 
 Ball Lightning (Electricity)
 
-**School** evocation [electricity]; **Level** druid 5, magus 5, sorcerer/wizard 5, witch 6
+**School** evocation [electricity]; **Level** druid 5, magus 5, sorcerer_dir/wizard 5, witch 6
 
 **Duration** instantaneous
 
@@ -46,11 +46,11 @@ Ball Lightning (Electricity)
 
 **Target Restrictions** _selected_
 
-This effect word deals 1d8 points of electricity damage per caster level (maximum 15d8 to one target + 1/2 that damage to any other targets included in the effect).
+This effect word deals 1d8 points of electricity damage per caster level (maximum 15d8 to one target + 1_dir/2 that damage to any other targets included in the effect).
 
 Thunder Strike (Electricity)
 
-**School** evocation [electricity]; **Level** druid 8, sorcerer/wizard 8, witch 9
+**School** evocation [electricity]; **Level** druid 8, sorcerer_dir/wizard 8, witch 9
 
 **Duration** instantaneous
 

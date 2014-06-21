@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/yeti
+title: monsters_dir/yeti
 ---
 # Yeti
 
@@ -12,7 +12,7 @@ _This creature stands like a man, yet is half again the height of most men and c
 
 N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid) (cold)
 
-**Init** +1; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +10
+**Init** +1; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -44,7 +44,7 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid) (cold)
 
 **Feats** [Cleave](../feats#_cleave), [Great Fortitude](../feats#_great-fortitude), [Power Attack](../feats#_power-attack)
 
-**Skills** [Climb](../skills/climb#_climb) +21, [Intimidate](../skills/intimidate#_intimidate) +9, [Perception](../skills/perception#_perception) +10, [Stealth](../skills/stealth#_stealth) +1 (+9 in snow); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) (+12 in snow)
+**Skills** [Climb](../skills_dir/climb#_climb) +21, [Intimidate](../skills_dir/intimidate#_intimidate) +9, [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +1 (+9 in snow); **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth) (+12 in snow)
 
 **Languages** Aklo
 

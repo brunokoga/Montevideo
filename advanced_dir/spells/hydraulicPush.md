@@ -1,16 +1,16 @@
 ---
 layout: default
-title: advanced/spells/hydraulicPush
+title: advanced_dir/spells_dir/hydraulicPush
 ---
  **Hydraulic Push**
 
-**School** evocation [water]; **Level** druid 1, sorcerer/wizard 1
+**School** evocation [water]; **Level** druid 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature or object
 

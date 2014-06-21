@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat/spells/litanyOfSight
+title: ultimateCombat_dir/spells_dir/litanyOfSight
 ---
 Litany of Sight
 

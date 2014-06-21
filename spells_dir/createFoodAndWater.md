@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/createFoodAndWater
+title: spells_dir/createFoodAndWater
 ---
  **Create Food and Water**
 
@@ -10,9 +10,9 @@ title: spells/createFoodAndWater
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Effect** food and water to sustain three humans or one horse/level for 24 hours
+**Effect** food and water to sustain three humans or one horse_dir/level for 24 hours
 
 **Duration** 24 hours; see text
 

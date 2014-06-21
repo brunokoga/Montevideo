@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/wordsOfPower/effectwords/coldWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/coldWords
 ---
 ## Cold Words
 
@@ -8,7 +8,7 @@ Spells using these words drain the warmth from the surrounding environment, leav
 
 Cold Snap (Cold)
 
-**School** evocation [[cold](monsters/creatureTypes#_cold-subtype)]; **Level** druid 0, magus 0, sorcerer/wizard 0
+**School** evocation [[cold](monsters_dir/creatureTypes#_cold-subtype)]; **Level** druid 0, magus 0, sorcerer_dir/wizard 0
 
 **Duration** instantaneous
 
@@ -18,7 +18,7 @@ A wordspell with this effect word deals 1d3 points of cold damage. If the wordsp
 
 Frost Fingers (Cold)
 
-**School** evocation [[cold](monsters/creatureTypes#_cold-subtype)]; **Level** druid 2, magus 2, sorcerer/wizard 2
+**School** evocation [[cold](monsters_dir/creatureTypes#_cold-subtype)]; **Level** druid 2, magus 2, sorcerer_dir/wizard 2
 
 **Duration** instantaneous
 
@@ -28,7 +28,7 @@ A wordspell with this effect word deals 1d6 points of cold damage per caster lev
 
 Ice Blast (Cold)
 
-**School** evocation [[cold](monsters/creatureTypes#_cold-subtype)]; **Level** druid 4, magus 4, sorcerer/wizard 4, witch 4
+**School** evocation [[cold](monsters_dir/creatureTypes#_cold-subtype)]; **Level** druid 4, magus 4, sorcerer_dir/wizard 4, witch 4
 
 **Duration** instantaneous
 
@@ -38,9 +38,9 @@ This effect deals 1d6 points of cold damage per caster level (maximum 10d6). A t
 
 Winter's Wrath (Cold)
 
-**School** evocation [[cold](monsters/creatureTypes#_cold-subtype)]; **Level** druid 8, sorcerer/wizard 8
+**School** evocation [[cold](monsters_dir/creatureTypes#_cold-subtype)]; **Level** druid 8, sorcerer_dir/wizard 8
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude half; **Spell Resistance** yes
 

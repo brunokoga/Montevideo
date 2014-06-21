@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/thriae
+title: bestiary3_dir/thriae
 ---
 # Thriae
 
@@ -28,7 +28,7 @@ XP 153,600
 
 LN Huge monstrous humanoid
 
-**Init** +4; **Senses** darkvision 60 ft., _ [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_, low-light vision, _ [true seeing](spells/trueSeeing#_true-seeing)_; [Perception](skills/perception#_perception) +37
+**Init** +4; **Senses** darkvision 60 ft., _ [detect secret doors](spells_dir/detectSecretDoors#_detect-secret-doors)_, low-light vision, _ [true seeing](spells_dir/trueSeeing#_true-seeing)_; [Perception](skills_dir/perception#_perception) +37
 
 Defense
 
@@ -38,13 +38,13 @@ Defense
 
 **Fort** +15, **Ref** +14, **Will** +21
 
-**Defensive Abilities** merope coat; **Immune** [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), sonic; **Resist** acid 20; **SR** 29
+**Defensive Abilities** merope coat; **Immune** [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), sonic; **Resist** acid 20; **SR** 29
 
 Offense
 
 **Speed** 30 ft., fly 50 ft. (good)
 
-**Melee** _+2 [axiomatic](magicItems/weapons#_weapons-axiomatic) [light](spells/light#_light) mace_ +35/+30/+25/+20 (2d6+11/19–20), sting +27 (2d8+4/19–20 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** _+2 [axiomatic](magicItems_dir/weapons#_weapons-axiomatic) [light](spells_dir/light#_light) mace_ +35_dir/+30_dir/+25_dir/+20 (2d6+11_dir/19–20), sting +27 (2d8+4_dir/19–20 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -52,14 +52,14 @@ Offense
 
 **Spell-Like Abilities** (CL 20th; concentration +29)
 
-Constant—_ [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_, _ [true seeing](spells/trueSeeing#_true-seeing)_
+Constant—_ [detect secret doors](spells_dir/detectSecretDoors#_detect-secret-doors)_, _ [true seeing](spells_dir/trueSeeing#_true-seeing)_
 
-At will—_ [daylight](spells/daylight#_daylight)_, _ [detect thoughts](spells/detectThoughts#_detect-thoughts)_ (DC 21), _ [greater scrying](spells/scrying#_scrying-greater)_ (DC 26), _ [neutralize poison](spells/neutralizePoison#_neutralize-poison)_, _ [remove disease](spells/removeDisease#_remove-disease)_, _ [speak with dead](spells/speakWithDead#_speak-with-dead)_ (DC 22)
+At will—_ [daylight](spells_dir/daylight#_daylight)_, _ [detect thoughts](spells_dir/detectThoughts#_detect-thoughts)_ (DC 21), _ [greater scrying](spells_dir/scrying#_scrying-greater)_ (DC 26), _ [neutralize poison](spells_dir/neutralizePoison#_neutralize-poison)_, _ [remove disease](spells_dir/removeDisease#_remove-disease)_, _ [speak with dead](spells_dir/speakWithDead#_speak-with-dead)_ (DC 22)
 
-3/day—_ [charm monster](spells/charmMonster#_charm-monster)_ (DC 23), _ [find the path](spells/findThePath#_find-the-path)_, _ [giant vermin](spells/giantVermin#_giant-vermin)_ (8 bees or 6 wasps), _ [mass cure critical wounds](spells/cureCriticalWounds#_cure-critical-wounds-mass)_, _ [poison](spells/poison#_poison)_   
-(DC 23), _ [restoration](spells/restoration#_restoration), [slow](spells/slow#_slow)_ (DC 22)
+3_dir/day—_ [charm monster](spells_dir/charmMonster#_charm-monster)_ (DC 23), _ [find the path](spells_dir/findThePath#_find-the-path)_, _ [giant vermin](spells_dir/giantVermin#_giant-vermin)_ (8 bees or 6 wasps), _ [mass cure critical wounds](spells_dir/cureCriticalWounds#_cure-critical-wounds-mass)_, _ [poison](spells_dir/poison#_poison)_   
+(DC 23), _ [restoration](spells_dir/restoration#_restoration), [slow](spells_dir/slow#_slow)_ (DC 22)
 
-1/day—_ [foresight](spells/foresight#_foresight)_, _ [mass heal](spells/heal#_heal-mass)_, quickened _ [regenerate](spells/regenerate#_regenerate)_
+1_dir/day—_ [foresight](spells_dir/foresight#_foresight)_, _ [mass heal](spells_dir/heal#_heal-mass)_, quickened _ [regenerate](spells_dir/regenerate#_regenerate)_
 
 Statistics
 
@@ -67,9 +67,9 @@ Statistics
 
 **Base Atk** +25; **CMB** +36; **CMD** 46
 
-**Feats** [Alertness](feats#_alertness), [Combat Casting](feats#_combat-casting), [Combat Expertise](feats#_combat-expertise), [Critical Focus](feats#_critical-focus), Greater [Spell Penetration](feats#_spell-penetration), [Improved Critical](feats#_improved-critical) (sting), [Improved Critical](feats#_improved-critical) (light mace), [Improved Initiative](feats#_improved-initiative), Improved [Iron Will](feats#_iron-will), [Iron Will](feats#_iron-will), [Quicken Spell-Like Ability](monsters/monsterFeats#_quicken-spell-like-ability) (_ [regenerate](spells/regenerate#_regenerate)_), [Spell Penetration](feats#_spell-penetration), [Weapon Focus](feats#_weapon-focus) (light mace)
+**Feats** [Alertness](feats#_alertness), [Combat Casting](feats#_combat-casting), [Combat Expertise](feats#_combat-expertise), [Critical Focus](feats#_critical-focus), Greater [Spell Penetration](feats#_spell-penetration), [Improved Critical](feats#_improved-critical) (sting), [Improved Critical](feats#_improved-critical) (light mace), [Improved Initiative](feats#_improved-initiative), Improved [Iron Will](feats#_iron-will), [Iron Will](feats#_iron-will), [Quicken Spell-Like Ability](monsters_dir/monsterFeats#_quicken-spell-like-ability) (_ [regenerate](spells_dir/regenerate#_regenerate)_), [Spell Penetration](feats#_spell-penetration), [Weapon Focus](feats#_weapon-focus) (light mace)
 
-**Skills** [Bluff](skills/bluff#_bluff) +34, [Diplomacy](skills/diplomacy#_diplomacy) +34, [Fly](skills/fly#_fly) +24, [Knowledge](skills/knowledge#_knowledge) (arcana) +30, [Knowledge](skills/knowledge#_knowledge) (religion) +30, [Perception](skills/perception#_perception) +37, [Sense Motive](skills/senseMotive#_sense-motive) +34, [Spellcraft](skills/spellcraft#_spellcraft) +30, [Use Magic Device](skills/useMagicDevice#_use-magic-device) +34
+**Skills** [Bluff](skills_dir/bluff#_bluff) +34, [Diplomacy](skills_dir/diplomacy#_diplomacy) +34, [Fly](skills_dir/fly#_fly) +24, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +30, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +30, [Perception](skills_dir/perception#_perception) +37, [Sense Motive](skills_dir/senseMotive#_sense-motive) +34, [Spellcraft](skills_dir/spellcraft#_spellcraft) +30, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +34
 
 **Languages** Common, Sylvan, Thriae; telepathy 300 ft.
 
@@ -79,17 +79,17 @@ Ecology
 
 **Organization** solitary or colony (1 queen, 3 seers, 11–20 soldiers, and 3–30 giant bees)
 
-**Treasure** double (_+2 [axiomatic](magicItems/weapons#_weapons-axiomatic) light mace_, other treasure)
+**Treasure** double (_+2 [axiomatic](magicItems_dir/weapons#_weapons-axiomatic) light mace_, other treasure)
 
 Special Abilities
 
 **Launch Merope (Su)** A thriae queen can launch a stream of merope from a gland in her lower body in a 60-foot line as a standard action. A thriae queen using this ability can control the purity of the merope she launches, which makes it either harm those it touches or heal them. If a thriae queen chooses to make her merope harmful, all creatures in the area of effect take 20d8 points of acid damage (Reflex DC 29 for half). In addition, any creature in the area of effect is also staggered for 1d4 rounds (or 1 round if it succeeds at its Reflex save). If she uses it to heal, the merope heals all living creatures in the area of effect for 10d8 points of damage. A thriae queen can use this ability once every 1d4 rounds. The save DC is Constitution-based.
 
-**Merope Coat (Su)** A thriae queen is covered in a thin layer of merope. This coating acts as a magical barrier between spells cast at the thriae queen, as though she were constantly under the effects of _ [spell turning](spells/spellTurning#_spell-turning)_. The coat affects a maximum of eight spell levels—when a spell effect is turned, this coating is depleted by a number of spell levels equal to the level of the spell reflected. The queen regenerates this coating at a rate of one spell level per round. A spell in excess of what the merope coat can currently reflect is not reflected, and reduces the merope coat to a score of 0. Spells that fail to penetrate the queen's spell [resistance](monsters/universalMonsterRules#_resistance) do not reduce the merope coat's efficiency in this manner.
+**Merope Coat (Su)** A thriae queen is covered in a thin layer of merope. This coating acts as a magical barrier between spells cast at the thriae queen, as though she were constantly under the effects of _ [spell turning](spells_dir/spellTurning#_spell-turning)_. The coat affects a maximum of eight spell levels—when a spell effect is turned, this coating is depleted by a number of spell levels equal to the level of the spell reflected. The queen regenerates this coating at a rate of one spell level per round. A spell in excess of what the merope coat can currently reflect is not reflected, and reduces the merope coat to a score of 0. Spells that fail to penetrate the queen's spell [resistance](monsters_dir/universalMonsterRules#_resistance) do not reduce the merope coat's efficiency in this manner.
 
 **Spawn Soldiers (Su)** Three times per day as a standard action, a thriae queen can spawn a large swarm of wasps. This functions as four separate wasp swarms (_Bestiary_ 275) that occupy all of the squares adjacent to the thriae queen. These swarms do not harm any thriae, and while they move with the queen as she moves, the swarms cannot leave her side. The swarms last until they are destroyed or 1 hour passes, at which point the swarms die on their own.
 
-**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Sting—injury; _save_ Fort DC 29; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Con plus staggered for 1 round; _cure_ 2 consecutive saves.
+**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Sting—injury; _save_ Fort DC 29; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d6 Con plus staggered for 1 round; _cure_ 2 consecutive saves.
 
 The most powerful individual within any given thriae colony, the queen is a divine soothsayer, a provider of life, and a destroyer of those would seek to disrupt the order of the colony. Viewed by her children as a benevolent matriarch rather than a mother, the thriae queen is the only fertile member of the colony, and thus the sole reproducer should the colony's population meet a devastating blow, whether through plague, famine, or war. A queen is revered by soldiers and seers alike, both for her physical might and her divine power, and she exemplifies the very best of thriae society in terms of strength, insight, and magnetism. While a queen is often too busy to entertain guests of a thriae hive, those intruders who do catch a glimpse of her are captured by her beauty and grace, and many would follow her if only to be by her side. But those who are allowed to enjoy the queen's company are few, and those few are carefully selected from among the hive's greatest warriors and priestesses, soldiers and seers whose powers have shown them to be skillful as well as loyal.
 
@@ -103,7 +103,7 @@ The mother queen teaches its successor in the ways of divining as well as ruling
 
 # Thriae Larvae
 
-Larvae who are fed regular merope become soldiers, seers, or other contributing members of thriae society. While more susceptible to harm in the larval stage, thriae larvae still pose a threat to unwary intruders who find themselves among the cells of numerous unhatched thriae. Creatures that succeed at a DC 15 [Perception](skills/perception#_perception) check or [Knowledge](skills/knowledge#_knowledge) (nature) check notice larvae embedded in the hive's waxy walls. Unhatched thriae larvae can detect disturbances outside their cell walls, and burst from the cells in order to prey upon the nutritious intruders. Any creature within 5 feet of a larval cell must make a DC 15 Reflex save to avoid becoming infested with the larvae. A creature that becomes infested must make a successful DC 15 Fortitude save each round to avoid taking 1d2 points of Constitution damage and falling asleep—additional Constitution damage from feeding larvae does not wake sleeping victims. Feeding larvae can be detached from the creature they cling to by cutting them off with a slashing weapon (which requires a DC 20 [Heal](skills/heal#_heal) check that deals 1d4 points of damage per larva attached) or by dealing cold damage to the larvae at any time, which also deals half damage to the creature the larvae are covering. _ [Remove disease](spells/removeDisease#_remove-disease)_ or a similar effect kills any thriae larvae on the host.
+Larvae who are fed regular merope become soldiers, seers, or other contributing members of thriae society. While more susceptible to harm in the larval stage, thriae larvae still pose a threat to unwary intruders who find themselves among the cells of numerous unhatched thriae. Creatures that succeed at a DC 15 [Perception](skills_dir/perception#_perception) check or [Knowledge](skills_dir/knowledge#_knowledge) (nature) check notice larvae embedded in the hive's waxy walls. Unhatched thriae larvae can detect disturbances outside their cell walls, and burst from the cells in order to prey upon the nutritious intruders. Any creature within 5 feet of a larval cell must make a DC 15 Reflex save to avoid becoming infested with the larvae. A creature that becomes infested must make a successful DC 15 Fortitude save each round to avoid taking 1d2 points of Constitution damage and falling asleep—additional Constitution damage from feeding larvae does not wake sleeping victims. Feeding larvae can be detached from the creature they cling to by cutting them off with a slashing weapon (which requires a DC 20 [Heal](skills_dir/heal#_heal) check that deals 1d4 points of damage per larva attached) or by dealing cold damage to the larvae at any time, which also deals half damage to the creature the larvae are covering. _ [Remove disease](spells_dir/removeDisease#_remove-disease)_ or a similar effect kills any thriae larvae on the host.
 
 # Thriae Seer
 
@@ -115,7 +115,7 @@ XP 12,800
 
 LN Medium monstrous humanoid
 
-**Init** +5; **Senses** darkvision 60 ft., _ [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_, low-light vision; [Perception](skills/perception#_perception) +27
+**Init** +5; **Senses** darkvision 60 ft., _ [detect secret doors](spells_dir/detectSecretDoors#_detect-secret-doors)_, low-light vision; [Perception](skills_dir/perception#_perception) +27
 
 Defense
 
@@ -125,25 +125,25 @@ Defense
 
 **Fort** +8, **Ref** +16, **Will** +15
 
-**Immune** [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), sonic; **Resist** acid 10; **SR** 22
+**Immune** [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), sonic; **Resist** acid 10; **SR** 22
 
 Offense
 
 **Speed** 30 ft., fly 60 ft. (good)
 
-**Melee** _+2 quarterstaff_ +16/+11/+6 (1d6+4),_ +2 quarterstaff_ +16/+11 (1d6+3), sting +11 (1d8+3 plus mind sting)
+**Melee** _+2 quarterstaff_ +16_dir/+11_dir/+6 (1d6+4),_ +2 quarterstaff_ +16_dir/+11 (1d6+3), sting +11 (1d8+3 plus mind sting)
 
 **Special Attacks** merope consumption
 
 **Spell-Like Abilities** (CL 14th; concentration +22)
 
-Constant—_ [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_
+Constant—_ [detect secret doors](spells_dir/detectSecretDoors#_detect-secret-doors)_
 
-At will—_ [calm emotions](spells/calmEmotions#_calm-emotions)_ (DC 20), _ [detect thoughts](spells/detectThoughts#_detect-thoughts)_ (DC 20), _ [sound burst](spells/soundBurst#_sound-burst)_ (DC 20)
+At will—_ [calm emotions](spells_dir/calmEmotions#_calm-emotions)_ (DC 20), _ [detect thoughts](spells_dir/detectThoughts#_detect-thoughts)_ (DC 20), _ [sound burst](spells_dir/soundBurst#_sound-burst)_ (DC 20)
 
-3/day—_ [divination](spells/divination#_divination)_, _ [invisibility purge](spells/invisibilityPurge#_invisibility-purge)_, _ [locate object](spells/locateObject#_locate-object)_, _ [misdirection](spells/misdirection#_misdirection)_ (DC 20), _ [symbol of sleep](spells/symbolOfSleep#_symbol-of-sleep)_ (DC 23)
+3_dir/day—_ [divination](spells_dir/divination#_divination)_, _ [invisibility purge](spells_dir/invisibilityPurge#_invisibility-purge)_, _ [locate object](spells_dir/locateObject#_locate-object)_, _ [misdirection](spells_dir/misdirection#_misdirection)_ (DC 20), _ [symbol of sleep](spells_dir/symbolOfSleep#_symbol-of-sleep)_ (DC 23)
 
-1/day—summon bees (level 5, 1d3 giant queen bees or 1d4 wasp swarms), _ [true seeing](spells/trueSeeing#_true-seeing)_
+1_dir/day—summon bees (level 5, 1d3 giant queen bees or 1d4 wasp swarms), _ [true seeing](spells_dir/trueSeeing#_true-seeing)_
 
 Statistics
 
@@ -153,7 +153,7 @@ Statistics
 
 **Feats** [Agile Maneuvers](feats#_agile-maneuvers), [Alertness](feats#_alertness), [Combat Casting](feats#_combat-casting), [Combat Reflexes](feats#_combat-reflexes), [Improved Two-Weapon Fighting](feats#_improved-two-weapon-fighting), [Lightning Reflexes](feats#_lightning-reflexes), [Two-Weapon Fighting](feats#_two-weapon-fighting)
 
-**Skills** [Bluff](skills/bluff#_bluff) +22, [Diplomacy](skills/diplomacy#_diplomacy) +22, [Fly](skills/fly#_fly) +26, [Knowledge](skills/knowledge#_knowledge) (arcana) +18, [Perception](skills/perception#_perception) +27, [Sense Motive](skills/senseMotive#_sense-motive) +24, [Spellcraft](skills/spellcraft#_spellcraft) +18, [Use Magic Device](skills/useMagicDevice#_use-magic-device) +22
+**Skills** [Bluff](skills_dir/bluff#_bluff) +22, [Diplomacy](skills_dir/diplomacy#_diplomacy) +22, [Fly](skills_dir/fly#_fly) +26, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +18, [Perception](skills_dir/perception#_perception) +27, [Sense Motive](skills_dir/senseMotive#_sense-motive) +24, [Spellcraft](skills_dir/spellcraft#_spellcraft) +18, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +22
 
 **Languages** Common, Sylvan, Thriae
 
@@ -189,7 +189,7 @@ XP 1,200
 
 LN Medium monstrous humanoid
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](skills/perception#_perception) +9
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +9
 
 Defense
 
@@ -199,15 +199,15 @@ Defense
 
 **Fort** +4, **Ref** +7, **Will** +5
 
-**Immune** [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), sonic
+**Immune** [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), sonic
 
 Offense
 
 **Speed** 30 ft., fly 60 ft. (good)
 
-**Melee** sting +10 (1d8+7 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** sting +10 (1d8+7 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
-**Ranged** composite longbow +8 (1d8+5/×3 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su))) or [Rapid Shot](feats#_rapid-shot) +6/+6 (1d8+5/×3 plus poison)
+**Ranged** composite longbow +8 (1d8+5_dir/×3 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))) or [Rapid Shot](feats#_rapid-shot) +6_dir/+6 (1d8+5_dir/×3 plus poison)
 
 **Special Attacks** merope consumption
 
@@ -219,7 +219,7 @@ Statistics
 
 **Feats** [Point-Blank Shot](feats#_point-blank-shot), [Precise Shot](feats#_precise-shot), [Rapid Shot](feats#_rapid-shot)
 
-**Skills** [Fly](skills/fly#_fly) +13, [Intimidate](skills/intimidate#_intimidate) +10, [Perception](skills/perception#_perception) +9, [Stealth](skills/stealth#_stealth) +9, [Survival](skills/survival#_survival) +9
+**Skills** [Fly](skills_dir/fly#_fly) +13, [Intimidate](skills_dir/intimidate#_intimidate) +10, [Perception](skills_dir/perception#_perception) +9, [Stealth](skills_dir/stealth#_stealth) +9, [Survival](skills_dir/survival#_survival) +9
 
 **Languages** Common, Sylvan
 
@@ -235,7 +235,7 @@ Special Abilities
 
 **Merope Consumption (Su)** Once per day as a standard action, a thriae soldier can consume a dose of merope in order to enhance her combat abilities for 1d6+3 rounds. Starting on the round after the merope is consumed, the thriae soldier gains a +2 insight bonus on attack rolls and saving throws, and gains fast healing 3.
 
-**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Sting or arrow—injury; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str; _cure_ 1 save. As a free action, a thriae soldier can apply her venom to an arrow as she fires the shot. The save DC is Constitution-based.
+**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Sting or arrow—injury; _save_ Fort DC 15; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d2 Str; _cure_ 1 save. As a free action, a thriae soldier can apply her venom to an arrow as she fires the shot. The save DC is Constitution-based.
 
 The guardians of the thriae colony and its treasures, thriae soldiers make up the backbone of a hive's defenses. Whether patrolling the perimeter of the hive or protecting its queen and seers from attackers, soldiers are a crucial asset ensuring a colony's survival, and so it makes sense that they compose the majority of thriae populations. While not as spiritually powerful as their seer and queen kin, soldiers possess remarkable agility and skill with the bow. Guards remain stationed in pairs outside doors to important areas, such as the meditation chambers of seers and the enormous private quarters of the queen, and when their duties take them outside the walls of the hive, they travel in large convoys.
 

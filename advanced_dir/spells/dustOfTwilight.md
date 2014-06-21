@@ -1,16 +1,16 @@
 ---
 layout: default
-title: advanced/spells/dustOfTwilight
+title: advanced_dir/spells_dir/dustOfTwilight
 ---
  **Dust of Twilight**
 
-**School** conjuration [darkness]; **Level** bard 2, sorcerer/wizard 2
+**School** conjuration [darkness]; **Level** bard 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (coal dust)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target** creatures and objects in a 10-ft. spread
 
@@ -18,5 +18,5 @@ title: advanced/spells/dustOfTwilight
 
 **Saving Throw** Fortitude negates (fatigue only); **Spell Resistance** no
 
-A shower of iridescent black particles clings to and extinguishes torches, lanterns, sunrods, and similar mundane light sources and dispels any spell of 2nd level or lower with the light descriptor (as _ [dispel magic](../../spells/dispelMagic#_dispel-magic)_). Creatures in the area must make a Fortitude save or become fatigued.
+A shower of iridescent black particles clings to and extinguishes torches, lanterns, sunrods, and similar mundane light sources and dispels any spell of 2nd level or lower with the light descriptor (as _ [dispel magic](../../spells_dir/dispelMagic#_dispel-magic)_). Creatures in the area must make a Fortitude save or become fatigued.
 

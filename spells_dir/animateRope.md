@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/animateRope
+title: spells_dir/animateRope
 ---
  **Animate Rope**
 
-**School** transmutation; **Level** bard 1, sorcerer/wizard 1
+**School** transmutation; **Level** bard 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Target** one rope-like object, length up to 50 ft. + 5 ft./level; see text
+**Target** one rope-like object, length up to 50 ft. + 5 ft._dir/level; see text
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

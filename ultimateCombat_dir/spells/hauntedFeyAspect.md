@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateCombat/spells/hauntedFeyAspect
+title: ultimateCombat_dir/spells_dir/hauntedFeyAspect
 ---
 Haunted Fey Aspect
 
-**School** illusion (glamer); **Level** bard 0, sorcerer/wizard 0
+**School** illusion (glamer); **Level** bard 0, sorcerer_dir/wizard 0
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Haunted Fey Aspect
 
 **Target** You
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
-You surround yourself with disturbing illusions, making you look and sound like a bizarre, insane fey creature. You gain DR 1/cold iron against a single opponent until the end of the spell, or until you take damage.
+You surround yourself with disturbing illusions, making you look and sound like a bizarre, insane fey creature. You gain DR 1_dir/cold iron against a single opponent until the end of the spell, or until you take damage.
 

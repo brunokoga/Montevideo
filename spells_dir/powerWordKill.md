@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/powerWordKill
+title: spells_dir/powerWordKill
 ---
  **Power Word Kill**
 
-**School** enchantment (compulsion) [death, mind-affecting]; **Level** sorcerer/wizard 9
+**School** enchantment (compulsion) [death, mind-affecting]; **Level** sorcerer_dir/wizard 9
 
 **Casting Time** 1 standard action
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one living creature with 100 hp or less
 

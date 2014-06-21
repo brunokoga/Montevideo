@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/rebuke
+title: advanced_dir/spells_dir/rebuke
 ---
  **Rebuke**
 

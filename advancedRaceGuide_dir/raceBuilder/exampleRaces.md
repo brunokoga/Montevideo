@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advancedRaceGuide/raceBuilder/exampleRaces
+title: advancedRaceGuide_dir/raceBuilder_dir/exampleRaces
 ---
 # Core Race Examples
 
@@ -84,7 +84,7 @@ Elven immunities2 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
 _Magical Racial Traits_
 
@@ -132,9 +132,9 @@ Illusion resistance1 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
-Skill bonus (choose one [Craft](skills/craft#_craft) or [Profession](skills/profession#_profession))2 rp
+Skill bonus (choose one [Craft](skills_dir/craft#_craft) or [Profession](skills_dir/profession#_profession))2 rp
 
 _Magical Racial Traits_
 
@@ -182,7 +182,7 @@ Elven immunities2 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
 Static bonus feat ( [Skill Focus](feats#_skill-focus))2 rp
 
@@ -228,7 +228,7 @@ Weapon familiarity2 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Intimidate](skills/intimidate#_intimidate)) 2 rp
+Skill bonus ( [Intimidate](skills_dir/intimidate#_intimidate)) 2 rp
 
 _Senses Racial Traits_
 
@@ -268,11 +268,11 @@ Lucky, lesser2 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Acrobatics](skills/acrobatics#_acrobatics))2 rp
+Skill bonus ( [Acrobatics](skills_dir/acrobatics#_acrobatics))2 rp
 
-Skill bonus ( [Climb](skills/climb#_climb))2 rp
+Skill bonus ( [Climb](skills_dir/climb#_climb))2 rp
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
 _Offense Racial Traits_
 
@@ -344,9 +344,9 @@ Celestial resistance 3 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Diplomacy](skills/diplomacy#_diplomacy))2 rp
+Skill bonus ( [Diplomacy](skills_dir/diplomacy#_diplomacy))2 rp
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
 _Magical Racial Traits_
 
@@ -388,11 +388,11 @@ Cat's luck1 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
-Skill bonus ( [Stealth](skills/stealth#_stealth))2 rp
+Skill bonus ( [Stealth](skills_dir/stealth#_stealth))2 rp
 
-Skill bonus ( [Survival](skills/survival#_survival))2 rp
+Skill bonus ( [Survival](skills_dir/survival#_survival))2 rp
 
 _Movement Racial Traits_
 
@@ -436,9 +436,9 @@ Undead resistance1 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Bluff](skills/bluff#_bluff))2 rp
+Skill bonus ( [Bluff](skills_dir/bluff#_bluff))2 rp
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
 _Magical Racial Traits_
 
@@ -490,7 +490,7 @@ Spell resistance, lesser2 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
 _Magical Racial Traits_
 
@@ -544,7 +544,7 @@ Spell resistance, greater3 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
 _Magical Racial Traits_
 
@@ -648,9 +648,9 @@ Shadowy resistance2 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Knowledge](skills/knowledge#_knowledge) [planes])2 rp
+Skill bonus ( [Knowledge](skills_dir/knowledge#_knowledge) [planes])2 rp
 
-Skill bonus ( [Stealth](skills/stealth#_stealth))2 rp
+Skill bonus ( [Stealth](skills_dir/stealth#_stealth))2 rp
 
 _Magical Racial Traits_
 
@@ -848,12 +848,12 @@ Natural armor2 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [craft](skills/craft#_craft) [trapmaking])2 rp
+Skill bonus ( [craft](skills_dir/craft#_craft) [trapmaking])2 rp
 
-Skill bonus ( [Profession](skills/profession#_profession) [miner])2 rp
+Skill bonus ( [Profession](skills_dir/profession#_profession) [miner])2 rp
 
-Skill training ( [craft](skills/craft#_craft) [trapmaking] and 1 rp  
- [Profession](skills/profession#_profession) [miner])
+Skill training ( [craft](skills_dir/craft#_craft) [trapmaking] and 1 rp  
+ [Profession](skills_dir/profession#_profession) [miner])
 
 _Senses Racial Traits_
 
@@ -971,11 +971,11 @@ Racial Traits
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [craft](skills/craft#_craft) [alchemy])2 rp
+Skill bonus ( [craft](skills_dir/craft#_craft) [alchemy])2 rp
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
-Skill bonus ( [Use Magic Device](skills/useMagicDevice#_use-magic-device))2 rp
+Skill bonus ( [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device))2 rp
 
 _Offense Racial Traits_
 
@@ -1021,9 +1021,9 @@ Energy resistance (all)4 rp
 
 _Feat and Skill Racial Trait_
 
-Skill bonus ( [Diplomacy](skills/diplomacy#_diplomacy))2 rp
+Skill bonus ( [Diplomacy](skills_dir/diplomacy#_diplomacy))2 rp
 
-Skill bonus ( [Sense Motive](skills/senseMotive#_sense-motive))2 rp
+Skill bonus ( [Sense Motive](skills_dir/senseMotive#_sense-motive))2 rp
 
 _Offense Racial Traits_
 
@@ -1071,9 +1071,9 @@ Spell resistance, greater3 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [craft](skills/craft#_craft) [alchemy])2 rp
+Skill bonus ( [craft](skills_dir/craft#_craft) [alchemy])2 rp
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
 Stonecunning1 rp
 
@@ -1161,9 +1161,9 @@ _Feat and Skill Racial Traits_
 
 Gifted linguist2 rp
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
-Skill bonus ( [Stealth](skills/stealth#_stealth))2 rp
+Skill bonus ( [Stealth](skills_dir/stealth#_stealth))2 rp
 
 _Offense Racial Traits_
 
@@ -1207,9 +1207,9 @@ Fiendish resistance3 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Bluff](skills/bluff#_bluff))2 rp
+Skill bonus ( [Bluff](skills_dir/bluff#_bluff))2 rp
 
-Skill bonus ( [Stealth](skills/stealth#_stealth))2 rp
+Skill bonus ( [Stealth](skills_dir/stealth#_stealth))2 rp
 
 _Magical Racial Traits_
 
@@ -1293,9 +1293,9 @@ Racial Traits
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Acrobatics](skills/acrobatics#_acrobatics))2 rp
+Skill bonus ( [Acrobatics](skills_dir/acrobatics#_acrobatics))2 rp
 
-Skill bonus ( [Stealth](skills/stealth#_stealth))2 rp
+Skill bonus ( [Stealth](skills_dir/stealth#_stealth))2 rp
 
 _Movement Racial Traits_
 
@@ -1341,11 +1341,11 @@ Poison resistance3 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus ( [Escape Artist](skills/escapeArtist#_escape-artist))2 rp
+Skill bonus ( [Escape Artist](skills_dir/escapeArtist#_escape-artist))2 rp
 
-Skill bonus ( [Perception](skills/perception#_perception))2 rp
+Skill bonus ( [Perception](skills_dir/perception#_perception))2 rp
 
-Skill bonus ( [Stealth](skills/stealth#_stealth))2 rp
+Skill bonus ( [Stealth](skills_dir/stealth#_stealth))2 rp
 
 _Offense Racial Traits_
 
@@ -1493,7 +1493,7 @@ Advanced Strength (+2)4 rp
 
 _Defense Racial Traits_
 
-Damage reduction (10/magic)6 rp
+Damage reduction (10_dir/magic)6 rp
 
 Improved natural armor (+3)6 rp
 
@@ -1501,7 +1501,7 @@ Natural armor2 rp
 
 _Feat and Skill Racial Traits_
 
-Skill bonus (+2 [Stealth](skills/stealth#_stealth))2 rp
+Skill bonus (+2 [Stealth](skills_dir/stealth#_stealth))2 rp
 
 _Movement Racial Traits_
 
@@ -1675,7 +1675,7 @@ Natural armor2 rp
 
 _Magical Racial Traits_
 
-Spell-like ability, lesser (_ [entangle](spells/entangle#_entangle)_, _ [feather step](advanced/spells/featherStep#_feather-step)_   
+Spell-like ability, lesser (_ [entangle](spells_dir/entangle#_entangle)_, _ [feather step](advanced_dir/spells_dir/featherStep#_feather-step)_   
 [_Advanced Player's Guide_ 221])2 rp
 
 _Movement Racial Traits_
@@ -1738,7 +1738,7 @@ Multi-armed (4 arms)8 rp
 
 ## Trox
 
-_These large and horrid burrowers are native to mountainsand highlands, but are often enslaved to serve as terrifying [shock](magicItems/weapons#_weapons-shock) troops in marauding armies or as gladiatorialspectacles. Some trox earn their [freedom](spells/freedom#_freedom) and findemployment as bodyguards, thugs, or even adventurers. _
+_These large and horrid burrowers are native to mountainsand highlands, but are often enslaved to serve as terrifying [shock](magicItems_dir/weapons#_weapons-shock) troops in marauding armies or as gladiatorialspectacles. Some trox earn their [freedom](spells_dir/freedom#_freedom) and findemployment as bodyguards, thugs, or even adventurers. _
 
 Type
 

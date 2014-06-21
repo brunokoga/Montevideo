@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateCombat/spells/fieryShuriken
+title: ultimateCombat_dir/spells_dir/fieryShuriken
 ---
 Fiery Shuriken
 
-**School** conjuration (creation) [[fire](monsters/creatureTypes#_fire-subtype)]; **Level** sorcerer/wizard 2
+**School** conjuration (creation) [[fire](monsters_dir/creatureTypes#_fire-subtype)]; **Level** sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a pinch of sulfur and a single shuriken worth 2 sp)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** Two or more fiery shuriken
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** yes
 

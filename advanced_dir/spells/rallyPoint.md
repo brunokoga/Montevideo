@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/rallyPoint
+title: advanced_dir/spells_dir/rallyPoint
 ---
  **Rally Point**
 
@@ -14,7 +14,7 @@ title: advanced/spells/rallyPoint
 
 **Area** one 5-ft. square
 
-**Duration** 1 minute/level (D)
+**Duration** 1 minute_dir/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat/classArchetypes/gunslinger
+title: ultimateCombat_dir/classArchetypes_dir/gunslinger
 ---
 # Gunslinger
 
@@ -16,7 +16,7 @@ Gunslingers usually don't use heavy armor, but there are a few who use and modif
 
 **Deeds** : A gun tank swaps a pair of deeds for the following. The new deed descriptions include information on which deeds from the gunslinger class feature these new deeds replace.
 
-_Gun Tank's Resolve (Ex)_: At 1st level, the gun tank can shrug off the most serious of attacks. When the gun tank is wearing medium or heavy armor and is subject to a critical hit or sneak attack, she can spend 1 grit point as an immediate action to attempt to negate the critical hit or sneak attack damage. At 1st level, she has a 25% chance of doing so. At 10th level, the chance increases to 50%. At 15th level, the chance increases to 75%. While a gun tank's resolve does not stack with the _ [fortification](magicItems/armor#_armor-fortification)_ armor special ability, it does work in concert with that armor special ability or similar effects, so a gun tank can use this ability even after the _armor of [fortification](magicItems/armor#_armor-fortification)_ has failed to negate the critical hit or sneak attack damage. This deed replaces the gunslinger's dodge deed.
+_Gun Tank's Resolve (Ex)_: At 1st level, the gun tank can shrug off the most serious of attacks. When the gun tank is wearing medium or heavy armor and is subject to a critical hit or sneak attack, she can spend 1 grit point as an immediate action to attempt to negate the critical hit or sneak attack damage. At 1st level, she has a 25% chance of doing so. At 10th level, the chance increases to 50%. At 15th level, the chance increases to 75%. While a gun tank's resolve does not stack with the _ [fortification](magicItems_dir/armor#_armor-fortification)_ armor special ability, it does work in concert with that armor special ability or similar effects, so a gun tank can use this ability even after the _armor of [fortification](magicItems_dir/armor#_armor-fortification)_ has failed to negate the critical hit or sneak attack damage. This deed replaces the gunslinger's dodge deed.
 
   
   

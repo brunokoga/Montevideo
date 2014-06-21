@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/fireOfVengeance
+title: advanced_dir/spells_dir/fireOfVengeance
 ---
  **Fire of Vengeance**
 

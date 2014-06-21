@@ -1,18 +1,18 @@
 ---
 layout: default
-title: monsters/beetle
+title: monsters_dir/beetle
 ---
 # Beetle, Fire
 
 _This housecat-sized beetle is a dull brown color brightened by two glowing green-yellow spots on its carapace._
 
-**Fire Beetle CR 1/3**
+**Fire Beetle CR 1_dir/3**
 
 **XP 135**
 
 N Small [vermin](creatureTypes#_vermin)
 
-**Init** +0; **Senses** low-light vision; [Perception](../skills/perception#_perception) +0
+**Init** +0; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +0
 
 **Defense**
 
@@ -36,7 +36,7 @@ N Small [vermin](creatureTypes#_vermin)
 
 **Base**  **Atk** +0; **CMB** –1; **CMD** 9 (17 vs. trip)
 
-**Skills** [Fly](../skills/fly#_fly) –2
+**Skills** [Fly](../skills_dir/fly#_fly) –2
 
 **SQ** luminescence
 
@@ -56,9 +56,9 @@ Although nocturnal, the fire beetle lacks darkvision—it relies on its own glow
 
 Other variations on the common fire beetle exist. The two most common variants are detailed below.
 
-**Mining Beetle (CR 1/2)** : A mining beetle is an advanced fire beetle with the advanced simple template and a burrowing speed of 20 feet.
+**Mining Beetle (CR 1_dir/2)** : A mining beetle is an advanced fire beetle with the advanced simple template and a burrowing speed of 20 feet.
 
-**Flash Beetle (CR 1/2)** : A flash beetle is an advanced fire beetle that can create a bright flash of light once an hour. When a flash beetle does so, all creatures in a 10-foot burst must make a DC 12 Fortitude save or be dazzled for 1d3 rounds. The save DC is Constitution-based.
+**Flash Beetle (CR 1_dir/2)** : A flash beetle is an advanced fire beetle that can create a bright flash of light once an hour. When a flash beetle does so, all creatures in a 10-foot burst must make a DC 12 Fortitude save or be dazzled for 1d3 rounds. The save DC is Constitution-based.
 
 # Beetle, Giant Stag
 
@@ -70,7 +70,7 @@ _With a sleek body and huge mandibles raised in a threatening pose, this large b
 
 N Large [vermin](creatureTypes#_vermin)
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +0
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +0
 
 **Defense**
 
@@ -98,7 +98,7 @@ N Large [vermin](creatureTypes#_vermin)
 
 **Base**  **Atk** +5; **CMB** +10; **CMD** 20 (28 vs. trip)
 
-**Skills** [Fly](../skills/fly#_fly) –6
+**Skills** [Fly](../skills_dir/fly#_fly) –6
 
 **Ecology**
 

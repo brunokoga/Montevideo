@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/ropeTrick
+title: spells_dir/ropeTrick
 ---
  **Rope Trick**
 
-**School** transmutation; **Level** sorcerer/wizard 2
+**School** transmutation; **Level** sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells/ropeTrick
 
 **Target** one touched piece of rope from 5 ft. to 30 ft. long
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hour_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

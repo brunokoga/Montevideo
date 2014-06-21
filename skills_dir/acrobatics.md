@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills/acrobatics
+title: skills_dir/acrobatics
 ---
 # Acrobatics
 

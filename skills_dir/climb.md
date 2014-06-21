@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills/climb
+title: skills_dir/climb
 ---
 # Climb
 

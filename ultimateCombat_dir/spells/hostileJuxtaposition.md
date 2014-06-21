@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateCombat/spells/hostileJuxtaposition
+title: ultimateCombat_dir/spells_dir/hostileJuxtaposition
 ---
 Hostile Juxtaposition
 
-**School** conjuration (teleportation); **Level** sorcerer/wizard 5, summoner 4, witch 5
+**School** conjuration (teleportation); **Level** sorcerer_dir/wizard 5, summoner 4, witch 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a coin)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature of your size or smaller
 
-**Duration** 1 round/level or until discharged
+**Duration** 1 round_dir/level or until discharged
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -22,9 +22,9 @@ You create a dimensional link to the target creature. When attacked or the subje
 
 Hostile Juxtaposition, Greater
 
-**Level** sorcerer/wizard 7, summoner 6, witch 7
+**Level** sorcerer_dir/wizard 7, summoner 6, witch 7
 
-**Target** one creature/4 levels
+**Target** one creature_dir/4 levels
 
 This spell functions like _hostile juxtaposition_, except you can target one creature for every four caster levels you have or you can target a single creature that is larger than you are. You can switch places with each target only once while the effect lasts. Once you have used it to teleport and switch places with each affected target, the spell is discharged.
 

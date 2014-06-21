@@ -1,6 +1,6 @@
 ---
 layout: default
-title: magicItems/armor
+title: magicItems_dir/armor
 ---
 # [Armor](magicItemCreation#_creating-magic-armor)
 
@@ -17,11 +17,11 @@ title: magicItems/armor
 | — | 56–57 | 28–38 | _+4 armor _ | 16,000 gp |
 | — | — | 39–49 | _+5 shield _ | 25,000 gp |
 | — | — | 50–57 | _+5 armor _ | 25,000 gp |
-| — | — | — | _+6 armor/shield_ⁱ | 36,000 gp |
-| — | — | — | _+7 armor/shield_ⁱ | 49,000 gp |
-| — | — | — | _+8 armor/shield_ⁱ | 64,000 gp |
-| — | — | — | _+9 armor/shield_ⁱ | 81,000 gp |
-| — | — | — | _+10 armor/shield_ⁱ | 100,000 gp |
+| — | — | — | _+6 armor_dir/shield_ⁱ | 36,000 gp |
+| — | — | — | _+7 armor_dir/shield_ⁱ | 49,000 gp |
+| — | — | — | _+8 armor_dir/shield_ⁱ | 64,000 gp |
+| — | — | — | _+9 armor_dir/shield_ⁱ | 81,000 gp |
+| — | — | — | _+10 armor_dir/shield_ⁱ | 100,000 gp |
 | 88–89 | 58–60 | 58–60 | Specific armor⁲ | — |
 | 90–91 | 61–63 | 61–63 | Specific shield⁳ | — |
 | 92–100 | 64–100 | 64–100 | Special ability and roll again⁲,⁳ | — |
@@ -131,39 +131,39 @@ Most magic armor and shields only have enhancement bonuses. Such items can also 
 
 **Animated** : As a move action, an _animated shield_ can be loosed to defend its wielder on its own. For the following 4 rounds, the shield grants its bonus to the one who loosed it and then drops. While animated, the shield provides its shield bonus and the bonuses from all of the other shield special abilities it possesses, but it cannot take actions on its own, such as those provided by the _bashing_ and _blinding_ abilities. It can, however, use special abilities that do not require an action to function, such as _arrow deflection_ and _reflecting_. While animated, a shield shares the same space as the activating character and accompanies the character who activated it, even if the character moves by magical means. A character with an _animated shield_ still takes any penalties associated with shield use, such as armor check penalty, arcane spell failure chance, and nonproficiency. If the wielder who loosed it has an unoccupied hand, she can grasp it to end its animation as a free action. Once a shield has been retrieved, it cannot be animated again for at least 4 rounds. This property cannot be added to a tower shield.
 
-Strong transmutation_; _CL 12th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [animate objects](../spells/animateObjects#_animate-objects); _Price +2 bonus.
+Strong transmutation_; _CL 12th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [animate objects](../spells_dir/animateObjects#_animate-objects); _Price +2 bonus.
 
 **Arrow Catching** : A shield with this ability attracts ranged weapons to it. It has a deflection bonus of +1 against ranged weapons because projectiles and thrown weapons veer toward it. Additionally, any projectile or thrown weapon aimed at a target within 5 feet of the shield's wearer diverts from its original target and targets the shield's bearer instead. If the wielder has total cover relative to the attacker, the projectile or thrown weapon is not diverted. Additionally, those attacking the wearer with ranged weapons ignore any miss chances that would normally apply. Projectiles and thrown weapons that have an enhancement bonus higher than the shield's base [AC](../combat#_armor-class) bonus are not diverted to the wearer (but the shield's deflection bonus still applies against these weapons). The wielder can activate or deactivate this ability with a command word.
 
-Moderate abjuration; CL 8th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [entropic shield](../spells/entropicShield#_entropic-shield)_; Price +1 bonus.
+Moderate abjuration; CL 8th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [entropic shield](../spells_dir/entropicShield#_entropic-shield)_; Price +1 bonus.
 
-**Arrow Deflection** : This shield protects the wielder as if he had the [Deflect Arrows](../feats#_deflect-arrows) feat. Once per round when he would normally be struck by a ranged weapon, he can make a DC 20 [Reflex](../combat#_reflex) save. If the ranged weapon (or piece of ammunition) has an enhancement bonus, the DC increases by that amount. If he succeeds, the shield deflects the weapon. He must be aware of the attack and not [flat-footed](../glossary#_flat-footed). Attempting to deflect a ranged weapon doesn't count as an action. Exceptional ranged weapons, such as boulders hurled by giants or _ [acid arrow](../spells/acidArrow#_acid-arrow)s_, can't be deflected.
+**Arrow Deflection** : This shield protects the wielder as if he had the [Deflect Arrows](../feats#_deflect-arrows) feat. Once per round when he would normally be struck by a ranged weapon, he can make a DC 20 [Reflex](../combat#_reflex) save. If the ranged weapon (or piece of ammunition) has an enhancement bonus, the DC increases by that amount. If he succeeds, the shield deflects the weapon. He must be aware of the attack and not [flat-footed](../glossary#_flat-footed). Attempting to deflect a ranged weapon doesn't count as an action. Exceptional ranged weapons, such as boulders hurled by giants or _ [acid arrow](../spells_dir/acidArrow#_acid-arrow)s_, can't be deflected.
 
-Faint abjuration_; _CL 5th_; _ [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [shield](../spells/shield#_shield); _Price +2 bonus.
+Faint abjuration_; _CL 5th_; _ [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [shield](../spells_dir/shield#_shield); _Price +2 bonus.
 
 **Bashing** : A shield with this special ability is designed to perform a shield bash. A _bashing shield_ deals damage as if it were a weapon of two size categories larger (a Medium light shield thus deals 1d6 points of damage and a Medium heavy shield deals 1d8 points of damage). The shield acts as a +1 weapon when used to bash. Only light and heavy shields can have this ability.
 
-Moderate transmutation_; _CL 8th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [bull's strength](../spells/bullSStrength#_bull-s-strength); _Price +1 bonus.
+Moderate transmutation_; _CL 8th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [bull's strength](../spells_dir/bullSStrength#_bull-s-strength); _Price +1 bonus.
 
 **Blinding** : A shield with this ability flashes with a brilliant light up to twice per day upon command of the wielder. Except for the wielder, anyone within 20 feet must make a DC 14 [Reflex](../combat#_reflex) save or be [blinded](../glossary#_blinded) for 1d4 rounds.
 
-Moderate evocation_; _CL 7th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [searing light](../spells/searingLight#_searing-light); _Price +1 bonus.
+Moderate evocation_; _CL 7th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [searing light](../spells_dir/searingLight#_searing-light); _Price +1 bonus.
 
-**Energy Resistance** : A suit of armor or a shield with this property protects against one type of energy (acid, cold, electricity, fire, or sonic) and is designed with patterns depicting the element it protects against. The armor absorbs the first 10 points of energy damage per attack that the wearer would normally take (similar to the _ [resist energy](../spells/resistEnergy#_resist-energy) _spell).
+**Energy Resistance** : A suit of armor or a shield with this property protects against one type of energy (acid, cold, electricity, fire, or sonic) and is designed with patterns depicting the element it protects against. The armor absorbs the first 10 points of energy damage per attack that the wearer would normally take (similar to the _ [resist energy](../spells_dir/resistEnergy#_resist-energy) _spell).
 
-Faint abjuration; CL 3rd; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [resist energy](../spells/resistEnergy#_resist-energy); _Price +18,000 gp.
+Faint abjuration; CL 3rd; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [resist energy](../spells_dir/resistEnergy#_resist-energy); _Price +18,000 gp.
 
 **[Energy Resistance](../glossary#_energy-resistance), Improved** : As _ [energy resistance](../glossary#_energy-resistance)_, except it absorbs the first 20 points of energy damage per attack.
 
-Moderate abjuration; CL 7th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [resist energy](../spells/resistEnergy#_resist-energy); _Price +42,000 gp.
+Moderate abjuration; CL 7th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [resist energy](../spells_dir/resistEnergy#_resist-energy); _Price +42,000 gp.
 
 **[Energy Resistance](../glossary#_energy-resistance), Greater** : As _ [energy resistance](../glossary#_energy-resistance)_, except it absorbs the first 30 points of energy damage per attack.
 
-Moderate abjuration; CL 11th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [resist energy](../spells/resistEnergy#_resist-energy); _Price +66,000 gp.
+Moderate abjuration; CL 11th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [resist energy](../spells_dir/resistEnergy#_resist-energy); _Price +66,000 gp.
 
-**Etherealness** : On command, this ability allows the wearer of the armor to become ethereal (as the _ [ethereal jaunt](../spells/etherealJaunt#_ethereal-jaunt) _spell) once per day. The character can remain ethereal for as long as desired, but once he returns to normal, he cannot become ethereal again that day.
+**Etherealness** : On command, this ability allows the wearer of the armor to become ethereal (as the _ [ethereal jaunt](../spells_dir/etherealJaunt#_ethereal-jaunt) _spell) once per day. The character can remain ethereal for as long as desired, but once he returns to normal, he cannot become ethereal again that day.
 
-Strong transmutation_; _CL 13th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [ethereal jaunt](../spells/etherealJaunt#_ethereal-jaunt); _Price +49,000 gp.
+Strong transmutation_; _CL 13th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [ethereal jaunt](../spells_dir/etherealJaunt#_ethereal-jaunt); _Price +49,000 gp.
 
 **Fortification** : This suit of armor or shield produces a magical force that protects vital areas of the wearer more effectively. When a critical hit or sneak attack is scored on the wearer, there is a chance that the critical hit or sneak attack is negated and damage is instead rolled normally.
 
@@ -173,59 +173,59 @@ Strong transmutation_; _CL 13th; [Craft Magic Arms and Armor](../feats#_craft-ma
 | Moderate | 50% | +3 bonus |
 | Heavy | 75% | +5 bonus |
 
-Strong abjuration_; _CL 13th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [limited wish](../spells/limitedWish#_limited-wish) _or _ [miracle](../spells/miracle#_miracle); _Price varies (see above).
+Strong abjuration_; _CL 13th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [limited wish](../spells_dir/limitedWish#_limited-wish) _or _ [miracle](../spells_dir/miracle#_miracle); _Price varies (see above).
 
 **Ghost Touch** : This armor or shield seems almost translucent. Both its enhancement bonus and its armor bonus count against the attacks of corporeal and [incorporeal](../glossary#_incorporeal) creatures. It can be picked up, moved, and worn by corporeal and [incorporeal](../glossary#_incorporeal) creatures alike. [Incorporeal](../glossary#_incorporeal) creatures gain the armor's or shield's enhancement bonus against both corporeal and [incorporeal](../glossary#_incorporeal) attacks, and they can still pass freely through solid objects.
 
-Strong transmutation_; _CL 15th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [etherealness](../spells/etherealness#_etherealness); _Price +3 bonus.
+Strong transmutation_; _CL 15th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [etherealness](../spells_dir/etherealness#_etherealness); _Price +3 bonus.
 
-**Glamered** : Upon command, a suit of _glamered armor_ changes shape and appearance to assume the form of a normal set of clothing. The armor retains all its properties (including weight) when it is so disguised. Only a _ [true seeing](../spells/trueSeeing#_true-seeing) _spell or similar magic reveals the true nature of the armor when disguised.
+**Glamered** : Upon command, a suit of _glamered armor_ changes shape and appearance to assume the form of a normal set of clothing. The armor retains all its properties (including weight) when it is so disguised. Only a _ [true seeing](../spells_dir/trueSeeing#_true-seeing) _spell or similar magic reveals the true nature of the armor when disguised.
 
-Moderate illusion_; _CL 10th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [disguise self](../spells/disguiseSelf#_disguise-self); _Price +2,700 gp.
+Moderate illusion_; _CL 10th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [disguise self](../spells_dir/disguiseSelf#_disguise-self); _Price +2,700 gp.
 
-**Invulnerability** : This suit of armor grants the wearer [damage reduction](../glossary#_damage-reduction) 5/magic.
+**Invulnerability** : This suit of armor grants the wearer [damage reduction](../glossary#_damage-reduction) 5_dir/magic.
 
-Strong abjuration and evocation (if _ [miracle](../spells/miracle#_miracle) _is used)_; _CL 18th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [stoneskin](../spells/stoneskin#_stoneskin), [wish](../spells/wish#_wish) _or _ [miracle](../spells/miracle#_miracle); _Price +3 bonus.
+Strong abjuration and evocation (if _ [miracle](../spells_dir/miracle#_miracle) _is used)_; _CL 18th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [stoneskin](../spells_dir/stoneskin#_stoneskin), [wish](../spells_dir/wish#_wish) _or _ [miracle](../spells_dir/miracle#_miracle); _Price +3 bonus.
 
-**Reflecting** : This shield seems like a highly polished mirror. Its surface is completely reflective. Once per day, it can be called on to reflect a spell back at its caster exactly like the _ [spell turning](../spells/spellTurning#_spell-turning) _spell_._
+**Reflecting** : This shield seems like a highly polished mirror. Its surface is completely reflective. Once per day, it can be called on to reflect a spell back at its caster exactly like the _ [spell turning](../spells_dir/spellTurning#_spell-turning) _spell_._
 
-Strong abjuration_; _CL 14th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [spell turning](../spells/spellTurning#_spell-turning); _Price +5 bonus.
+Strong abjuration_; _CL 14th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [spell turning](../spells_dir/spellTurning#_spell-turning); _Price +5 bonus.
 
 **Shadow** : This armor blurs the wearer whenever she tries to hide, while also dampening the sound around her, granting a +5 competence bonus on Stealth checks. The armor's armor check penalty still applies normally.
 
-Faint illusion_; _CL 5th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [invisibility](../spells/invisibility#_invisibility), silence; _Price +3,750 gp.
+Faint illusion_; _CL 5th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [invisibility](../spells_dir/invisibility#_invisibility), silence; _Price +3,750 gp.
 
 **Shadow, Improved** : As _shadow_, except it grants a +10 competence bonus on Stealth checks.
 
-Moderate illusion; CL 10th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [invisibility](../spells/invisibility#_invisibility), silence; _Price +15,000 gp.
+Moderate illusion; CL 10th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [invisibility](../spells_dir/invisibility#_invisibility), silence; _Price +15,000 gp.
 
 **Shadow, Greater** : As _shadow_, except it grants a +15 competence bonus on Stealth checks.
 
-Strong illusion; CL 15th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [invisibility](../spells/invisibility#_invisibility), silence; _Price +33,750 gp.
+Strong illusion; CL 15th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [invisibility](../spells_dir/invisibility#_invisibility), silence; _Price +33,750 gp.
 
 **Slick** : _Slick_ armor seems coated at all times with a slightly greasy oil. It provides a +5 competence bonus on its wearer's Escape Artist checks. The armor's armor check penalty still applies normally.
 
-Faint conjuration_; _CL 4th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [grease](../spells/grease#_grease); _Price +3,750 gp.
+Faint conjuration_; _CL 4th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [grease](../spells_dir/grease#_grease); _Price +3,750 gp.
 
 **Slick, Improved** : As _slick_, except it grants a +10 competence bonus on Escape Artist checks.
 
-Moderate conjuration; CL 10th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [grease](../spells/grease#_grease); _Price +15,000 gp.
+Moderate conjuration; CL 10th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [grease](../spells_dir/grease#_grease); _Price +15,000 gp.
 
 **Slick, Greater** : As _slick_, except it grants a +15 competence bonus on Escape Artist checks.
 
-Strong conjuration; CL 15th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [grease](../spells/grease#_grease); _Price +33,750 gp.
+Strong conjuration; CL 15th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [grease](../spells_dir/grease#_grease); _Price +33,750 gp.
 
 **[Spell Resistance](../glossary#_spell-resistance)** : This property grants the armor's wearer [spell resistance](../glossary#_spell-resistance) while the armor is worn. The [spell resistance](../glossary#_spell-resistance) can be 13, 15, 17, or 19, depending on the armor.
 
-Strong abjuration_; _CL 15th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [spell resistance](../spells/spellResistance#_spell-resistance); _Price +2 bonus (SR 13), +3 bonus (SR 15), +4 bonus (SR 17), or +5 bonus (SR 19).
+Strong abjuration_; _CL 15th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [spell resistance](../spells_dir/spellResistance#_spell-resistance); _Price +2 bonus (SR 13), +3 bonus (SR 15), +4 bonus (SR 17), or +5 bonus (SR 19).
 
-**Undead Controlling** : _Undead controlling armor_ or _shields_ often have skeletal or other grisly decorations or flourishes to their decor. They let the user control up to 26 HD of undead per day, as the _ [control undead](../spells/controlUndead#_control-undead) _spell. At dawn each day, the wearer loses control of any undead still under his sway. Armor or a shield with this ability appears to be made of bone; this feature is entirely decorative and has no other effect on the armor.
+**Undead Controlling** : _Undead controlling armor_ or _shields_ often have skeletal or other grisly decorations or flourishes to their decor. They let the user control up to 26 HD of undead per day, as the _ [control undead](../spells_dir/controlUndead#_control-undead) _spell. At dawn each day, the wearer loses control of any undead still under his sway. Armor or a shield with this ability appears to be made of bone; this feature is entirely decorative and has no other effect on the armor.
 
-Strong necromancy; CL 13th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [control undead](../spells/controlUndead#_control-undead)_; Price +49,000 gp.
+Strong necromancy; CL 13th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [control undead](../spells_dir/controlUndead#_control-undead)_; Price +49,000 gp.
 
 **Wild** : The wearer of a suit of armor or a shield with this ability preserves his armor bonus (and any enhancement bonus) while in a wild shape. Armor and shields with this ability usually appear to be covered in leaf patterns. While the wearer is in a wild shape, the armor cannot be seen.
 
-Moderate transmutation; CL 9th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [baleful polymorph](../spells/balefulPolymorph#_baleful-polymorph)_; Price +3 bonus.
+Moderate transmutation; CL 9th; [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [baleful polymorph](../spells_dir/balefulPolymorph#_baleful-polymorph)_; Price +3 bonus.
 
 ## Specific Armors
 
@@ -237,7 +237,7 @@ Moderate transmutation; CL 9th; [Craft Magic Arms and Armor](../feats#_craft-mag
 
 **Description**
 
-This nonmagical breastplate is made of [adamantine](../equipment#_adamantine), giving its wearer [damage reduction](../glossary#_damage-reduction) of 2/—.
+This nonmagical breastplate is made of [adamantine](../equipment#_adamantine), giving its wearer [damage reduction](../glossary#_damage-reduction) of 2_dir/—.
 
 **Banded Mail of Luck**
 
@@ -251,7 +251,7 @@ Ten 100-gp gems adorn this _+3 banded mail_. Once per week, the armor allows its
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [bless](../spells/bless#_bless)_; **Cost** 9,650 gp
+**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [bless](../spells_dir/bless#_bless)_; **Cost** 9,650 gp
 
 **Breastplate of Command**
 
@@ -265,7 +265,7 @@ This _+2 breastplate_ bestows a commanding aura upon its wearer. The wearer gain
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [mass charm monster](../spells/charmMonster#_charm-monster-mass)_; **Cost** 12,875 gp
+**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [mass charm monster](../spells_dir/charmMonster#_charm-monster-mass)_; **Cost** 12,875 gp
 
 **Celestial Armor**
 
@@ -289,13 +289,13 @@ This bright silver or gold _+3 chainmail_ is so fine and light that it can be wo
 
 **Description**
 
-This plate armor is fashioned to make the wearer appear to be a demon. The helmet is shaped to look like a horned demon head, and its wearer looks out of the open, tooth-filled mouth. This _+4 full plate_ allows the wearer to make claw attacks that deal 1d10 points of damage, strike as +1 weapons, and afflict the target as if she had been struck by a _ [contagion](../spells/contagion#_contagion)_ spell ( [Fortitude](../combat#_fortitude) DC 14 negates). Use of _ [contagion](../spells/contagion#_contagion)_ requires a normal melee attack with the claws. The “claws” are built into the armor's vambraces and gauntlets, and cannot be disarmed.
+This plate armor is fashioned to make the wearer appear to be a demon. The helmet is shaped to look like a horned demon head, and its wearer looks out of the open, tooth-filled mouth. This _+4 full plate_ allows the wearer to make claw attacks that deal 1d10 points of damage, strike as +1 weapons, and afflict the target as if she had been struck by a _ [contagion](../spells_dir/contagion#_contagion)_ spell ( [Fortitude](../combat#_fortitude) DC 14 negates). Use of _ [contagion](../spells_dir/contagion#_contagion)_ requires a normal melee attack with the claws. The “claws” are built into the armor's vambraces and gauntlets, and cannot be disarmed.
 
 A suit of _demon armor_ is infused with evil, and as a result it bestows one [negative level](../glossary#_energy-drain-and-negative-levels)on any nonevil creature wearing it. This [negative level](../glossary#_energy-drain-and-negative-levels)persists as long as the armor is worn and disappears when the armor is removed. The [negative level](../glossary#_energy-drain-and-negative-levels)cannot be overcome in any way (including _restoration_ spells) while the armor is worn.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [contagion](../spells/contagion#_contagion)_; **Cost** 26,955 gp
+**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [contagion](../spells_dir/contagion#_contagion)_; **Cost** 26,955 gp
 
 **Dwarven Plate**
 
@@ -305,7 +305,7 @@ A suit of _demon armor_ is infused with evil, and as a result it bestows one [ne
 
 **Description**
 
-This full plate is made of [adamantine](../equipment#_adamantine), giving its wearer [damage reduction](../glossary#_damage-reduction) of 3/—.
+This full plate is made of [adamantine](../equipment#_adamantine), giving its wearer [damage reduction](../glossary#_damage-reduction) of 3_dir/—.
 
 **Dragonhide Plate**
 
@@ -335,13 +335,13 @@ This extremely light chainmail is made of very fine [mithral](../equipment#_mith
 
 **Description**
 
-As a free action, the wearer of this fine set of _+1 [mithral](../equipment#_mithral) full plate_ can activate it, enabling him to act as though affected by a _ [haste](../spells/haste#_haste)_ spell for up to 10 rounds each day. The duration of the _ [haste](../spells/haste#_haste)_ effect need not be consecutive rounds.
+As a free action, the wearer of this fine set of _+1 [mithral](../equipment#_mithral) full plate_ can activate it, enabling him to act as though affected by a _ [haste](../spells_dir/haste#_haste)_ spell for up to 10 rounds each day. The duration of the _ [haste](../spells_dir/haste#_haste)_ effect need not be consecutive rounds.
 
 The armor has an arcane spell failure chance of 25%, a maximum [Dexterity](../gettingStarted#_dexterity) bonus of +3, and an armor check penalty of –3. It is considered medium armor, except that you must be proficient in heavy armor to avoid taking nonproficiency penalties.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [haste](../spells/haste#_haste)_; **Cost** 18,500 gp
+**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [haste](../spells_dir/haste#_haste)_; **Cost** 18,500 gp
 
 **Mithral Shirt**
 
@@ -365,7 +365,7 @@ This _+1 full plate_ is decorated with a wave and fish motif. Although the armor
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [freedom of movement](../spells/freedomOfMovement#_freedom-of-movement)_, _ [tongues](../spells/tongues#_tongues)_, _ [water breathing](../spells/waterBreathing#_water-breathing)_; **Cost** 13,150 gp
+**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [freedom of movement](../spells_dir/freedomOfMovement#_freedom-of-movement)_, _ [tongues](../spells_dir/tongues#_tongues)_, _ [water breathing](../spells_dir/waterBreathing#_water-breathing)_; **Cost** 13,150 gp
 
 **Rhino Hide**
 
@@ -379,7 +379,7 @@ This _+2 hide armor_ is made from rhinoceros hide. In addition to granting a +2 
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [bull's strength](../spells/bullSStrength#_bull-s-strength)_; **Cost** 2,665 gp
+**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [bull's strength](../spells_dir/bullSStrength#_bull-s-strength)_; **Cost** 2,665 gp
 
 ## Specific Shields
 
@@ -391,11 +391,11 @@ This _+2 hide armor_ is made from rhinoceros hide. In addition to granting a +2 
 
 **Description**
 
-This _+1 heavy steel shield_ is made of metal, but its color is flat black that seems to absorb light. Once every 2 days, on command, it can _ [disintegrate](../spells/disintegrate#_disintegrate)_ an object that it touches, as the spell but requiring a melee touch attack. This effect only functions as an attack—it can't be activated to target a creature or weapon as it strikes the shield.
+This _+1 heavy steel shield_ is made of metal, but its color is flat black that seems to absorb light. Once every 2 days, on command, it can _ [disintegrate](../spells_dir/disintegrate#_disintegrate)_ an object that it touches, as the spell but requiring a melee touch attack. This effect only functions as an attack—it can't be activated to target a creature or weapon as it strikes the shield.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [disintegrate](../spells/disintegrate#_disintegrate)_; **Cost** 25,170 gp
+**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [disintegrate](../spells_dir/disintegrate#_disintegrate)_; **Cost** 25,170 gp
 
 **Caster's Shield**
 
@@ -445,7 +445,7 @@ This _+2 heavy steel shield _is fashioned to appear to be a roaring lion's head.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [summon nature's ally IV](../spells/summonNatureSAlly#_summon-nature-s-ally-iv)_; **Cost** 4,670 gp
+**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [summon nature's ally IV](../spells_dir/summonNatureSAlly#_summon-nature-s-ally-iv)_; **Cost** 4,670 gp
 
 **Mithral Heavy Shield**
 
@@ -465,11 +465,11 @@ This heavy shield is made of [mithral](../equipment#_mithral) and thus is much l
 
 **Description**
 
-This _+1 heavy steel shield_ is covered in spines. It acts as a normal spiked shield. On command up to three times per day, the shield's wearer can fire one of the shield's spines. A fired spine has a +1 enhancement bonus, a range increment of 120 feet, and deals 1d10 points of damage (19–20/x2). Fired spines [regenerate](../spells/regenerate#_regenerate) each day.
+This _+1 heavy steel shield_ is covered in spines. It acts as a normal spiked shield. On command up to three times per day, the shield's wearer can fire one of the shield's spines. A fired spine has a +1 enhancement bonus, a range increment of 120 feet, and deals 1d10 points of damage (19–20_dir/x2). Fired spines [regenerate](../spells_dir/regenerate#_regenerate) each day.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [magic missile](../spells/magicMissile#_magic-missile)_; **Cost** 2,875 gp
+**Requirements** [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor), _ [magic missile](../spells_dir/magicMissile#_magic-missile)_; **Cost** 2,875 gp
 
 **Winged Shield**
 

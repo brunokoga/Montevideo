@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/hyena
+title: monsters_dir/hyena
 ---
 # Hyena
 
@@ -12,7 +12,7 @@ _This hyena is covered in shaggy, tan-colored fur with black and brown stripes._
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +7
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -36,7 +36,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Feats** [Skill Focus](../feats#_skill-focus) (Perception)
 
-**Skills** [Perception](../skills/perception#_perception) +8, [Stealth](../skills/stealth#_stealth) +6 (+10 in tall grass); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) in tall grass
+**Skills** [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +6 (+10 in tall grass); **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth) in tall grass
 
 **Ecology**
 
@@ -68,7 +68,7 @@ _This large hyena has a thick head, rheumy red eyes, and a mouth filled with sha
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +8
 
 **Defense**
 
@@ -92,9 +92,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base Atk** +3; **CMB** +8; **CMD** 20 (24 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception), [Stealth](../skills/stealth#_stealth))
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception), [Stealth](../skills_dir/stealth#_stealth))
 
-**Skills** [Perception](../skills/perception#_perception) +8, [Stealth](../skills/stealth#_stealth) +7 (+11 in tall grass or heavy undergrowth); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) in tall grass
+**Skills** [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +7 (+11 in tall grass or heavy undergrowth); **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth) in tall grass
 
 **Ecology**
 

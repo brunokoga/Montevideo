@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/disguiseSelf
+title: spells_dir/disguiseSelf
 ---
  **Disguise Self**
 
-**School** illusion (glamer); **Level** bard 1, sorcerer/wizard 1
+**School** illusion (glamer); **Level** bard 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells/disguiseSelf
 
 **Target** you
 
-**Duration** 10 min./level (D)
+**Duration** 10 min._dir/level (D)
 
 You make yourself—including clothing, armor, weapons, and equipment—look different. You can seem 1 foot shorter or taller, thin, fat, or in between. You cannot change your creature type (although you can appear as another subtype). Otherwise, the extent of the apparent change is up to you. You could add or obscure a minor feature or look like an entirely different person or gender.
 

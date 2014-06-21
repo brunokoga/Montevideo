@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/introduction
+title: monsters_dir/introduction
 ---
 # Introduction
 
@@ -24,7 +24,7 @@ This is where you'll find all of the information you need to run the monster in 
 
 **Alignment, Size, and Type** : While a monster's size and type remain constant (unless changed by the application of templates or other unusual modifiers), alignment is far more fluid. The alignments listed for each monster in this book represent the norm for those monsters—they can vary as you require them to in order to serve the needs of your campaign. Only in the case of relatively unintelligent monsters (creatures with an Intelligence of 2 or lower are almost never anything other than neutral) and planar monsters (outsiders with alignments other than those listed are unusual and typically outcasts from their kind) is the listed alignment relatively unchangeable.
 
-**Init and Senses** : The creature's initiative modifier followed by any special senses and its [Perception](../skills/perception#_perception) check modifier.
+**Init and Senses** : The creature's initiative modifier followed by any special senses and its [Perception](../skills_dir/perception#_perception) check modifier.
 
 **Aura** : If the creature has a particular magical or exceptional aura, it is listed here along with its radius from the creature and, as applicable, a save DC to resist the aura's effects.
 
@@ -34,7 +34,7 @@ This is where you'll find all of the information you need to run the monster in 
 
 **Saving Throws** : The creature's Fortitude, Reflex, and Will saves, followed by situational modifiers to those rolls.
 
-**Defensive Abilities/DR/Immune/Resist/SR** : All of the creature's unusual defensive abilities. Damage reduction, immunities, resistances, and spell resistance are called out separately as necessary.
+**Defensive Abilities_dir/DR_dir/Immune_dir/Resist_dir/SR** : All of the creature's unusual defensive abilities. Damage reduction, immunities, resistances, and spell resistance are called out separately as necessary.
 
 **Weaknesses** : All of the creature's unusual weaknesses are listed here.
 
@@ -44,17 +44,17 @@ This is where you'll find all of the information you need to run the monster in 
 
 **Ranged** : As Melee above, but for ranged attacks.
 
-**Space/Reach** : The creature's space and reach—if the creature's space and reach are standard (one 5-foot square and a reach of 5 feet), this line is omitted.
+**Space_dir/Reach** : The creature's space and reach—if the creature's space and reach are standard (one 5-foot square and a reach of 5 feet), this line is omitted.
 
 **Special Attacks** : The creature's special attacks. Full details for these attacks are given at the end of the stat block or in the universal monster rules section.
 
 **Spell-Like Abilities** : After listing the caster level of the creature's spell-like abilities, this section lists all of the creature's spell-like abilities, organized by how many times per day it can use the abilities. Constant spell-like abilities function at all times but can be dispelled. A creature can reactivate a constant spell-like ability as a swift action.
 
-**Spells Known/Prepared** : If the creature can actually cast spells, its caster level is indicated here followed by the spells it knows or typically has prepared. Unless otherwise indicated, a spellcasting creature does not receive any of a spellcasting class's other abilities, such as a cleric's ability to spontaneously convert prepared spells to cure or inflict spells.
+**Spells Known_dir/Prepared** : If the creature can actually cast spells, its caster level is indicated here followed by the spells it knows or typically has prepared. Unless otherwise indicated, a spellcasting creature does not receive any of a spellcasting class's other abilities, such as a cleric's ability to spontaneously convert prepared spells to cure or inflict spells.
 
 **Ability Scores** : The creature's ability scores are listed here. Unless otherwise indicated, a creature's ability scores represent the baseline of its racial modifiers applied to scores of 10 or 11. Creatures with NPC class levels have stats in the standard array (13, 12, 11, 10, 9, 8), while creatures with character class levels have the elite array (15, 14, 13, 12, 10, 8); in both cases, the creature's ability score modifiers are listed at the end of its description.
 
-**Base Atk/CMB/CMD** : These values give the creature's base attack, its Combat Maneuver Bonus, and its Combat Maneuver Defense score.
+**Base Atk_dir/CMB_dir/CMD** : These values give the creature's base attack, its Combat Maneuver Bonus, and its Combat Maneuver Defense score.
 
 **Feats** : The creature's feats are listed here. A bonus feat is indicated with a superscript “B.”
 

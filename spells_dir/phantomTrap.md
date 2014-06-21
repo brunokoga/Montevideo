@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/phantomTrap
+title: spells_dir/phantomTrap
 ---
  **Phantom Trap**
 
-**School** illusion (glamer); **Level** sorcerer/wizard 2
+**School** illusion (glamer); **Level** sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 

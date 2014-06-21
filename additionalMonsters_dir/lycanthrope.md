@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters/lycanthrope
+title: additionalMonsters_dir/lycanthrope
 ---
 # Lycanthrope, Werebear
 
@@ -12,9 +12,9 @@ Werebear (Human Form)CR 4
 
 Human natural werebear ranger 4
 
-LG Medium [humanoid](monsters/creatureTypes#_humanoid) (human, [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
+LG Medium [humanoid](monsters_dir/creatureTypes#_humanoid) (human, [shapechanger](monsters_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +2; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +8
 
 Defense
 
@@ -28,7 +28,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** mwk battleaxe +9 (1d8+4/×3)
+**Melee** mwk battleaxe +9 (1d8+4_dir/×3)
 
 **Ranged** mwk throwing axe +7 (1d6+3)
 
@@ -36,7 +36,7 @@ Offense
 
 **Ranger Spells Prepared** (CL 1st; concentration +2)
 
-1st—_ [detect poison](additionalMonsters/../spells/detectPoison#_detect-poison)_
+1st—_ [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_
 
 Statistics
 
@@ -44,13 +44,13 @@ Statistics
 
 **Base Atk** +4; **CMB** +7; **CMD** 19
 
-**Feats** [Endurance](additionalMonsters/../feats#_endurance), [Point-Blank Shot](additionalMonsters/../feats#_point-blank-shot), [Power Attack](additionalMonsters/../feats#_power-attack), [Run](additionalMonsters/../feats#_run), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (battleaxe)
+**Feats** [Endurance](additionalMonsters_dir/../feats#_endurance), [Point-Blank Shot](additionalMonsters_dir/../feats#_point-blank-shot), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Run](additionalMonsters_dir/../feats#_run), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (battleaxe)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +8, [Handle Animal](additionalMonsters/../skills/handleAnimal#_handle-animal) +6, [Heal](additionalMonsters/../skills/heal#_heal) +8, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (nature) +8, [Perception](additionalMonsters/../skills/perception#_perception) +8, [Stealth](additionalMonsters/../skills/stealth#_stealth) +7, [Survival](additionalMonsters/../skills/survival#_survival) +8, [Swim](additionalMonsters/../skills/swim#_swim) +8
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +8, [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) +6, [Heal](additionalMonsters_dir/../skills_dir/heal#_heal) +8, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (nature) +8, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +8, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +7, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +8, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +8
 
 **Languages** Common, Sylvan
 
-**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (human, hybrid, and grizzly bear; _ [polymorph](additionalMonsters/../spells/polymorph#_polymorph)_), favored terrain (forest +2), hunter's bond (companions), [lycanthropic empathy](monsters/universalMonsterRules#_lycanthropic-empathy) (bears and dire bears), track +2
+**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (human, hybrid, and grizzly bear; _ [polymorph](additionalMonsters_dir/../spells_dir/polymorph#_polymorph)_), favored terrain (forest +2), hunter's bond (companions), [lycanthropic empathy](monsters_dir/universalMonsterRules#_lycanthropic-empathy) (bears and dire bears), track +2
 
 Ecology
 
@@ -66,9 +66,9 @@ Werebear (Hybrid Form)
 
 Human natural werebear ranger 4
 
-LG Large [humanoid](monsters/creatureTypes#_humanoid) (human, [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
+LG Large [humanoid](monsters_dir/creatureTypes#_humanoid) (human, [shapechanger](monsters_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +2; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +8
 
 Defense
 
@@ -78,13 +78,13 @@ Defense
 
 **Fort** +6, **Ref** +6, **Will** +2
 
-**DR** 10/silver
+**DR** 10_dir/silver
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** mwk battleaxe +10 (2d6+5/x3), bite +3 (1d8+2 plus [curse of lycanthropy](monsters/universalMonsterRules#_curse-of-lycanthropy)), claw +3 (1d6+2 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** mwk battleaxe +10 (2d6+5_dir/x3), bite +3 (1d8+2 plus [curse of lycanthropy](monsters_dir/universalMonsterRules#_curse-of-lycanthropy)), claw +3 (1d6+2 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Ranged** mwk throwing axe +7 (1d6+5)
 
@@ -94,7 +94,7 @@ Offense
 
 **Ranger Spells Prepared** (CL 1st; concentration +2)
 
-1st—_ [detect poison](additionalMonsters/../spells/detectPoison#_detect-poison)_
+1st—_ [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_
 
 Statistics
 
@@ -102,13 +102,13 @@ Statistics
 
 **Base Atk** +4; **CMB** +10 (+14 grapple); **CMD** 22
 
-**Feats** [Endurance](additionalMonsters/../feats#_endurance), [Point-Blank Shot](additionalMonsters/../feats#_point-blank-shot), [Power Attack](additionalMonsters/../feats#_power-attack), [Run](additionalMonsters/../feats#_run), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (battleaxe)
+**Feats** [Endurance](additionalMonsters_dir/../feats#_endurance), [Point-Blank Shot](additionalMonsters_dir/../feats#_point-blank-shot), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Run](additionalMonsters_dir/../feats#_run), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (battleaxe)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +10, [Handle Animal](additionalMonsters/../skills/handleAnimal#_handle-animal) +6, [Heal](additionalMonsters/../skills/heal#_heal) +8, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (nature) +8, [Perception](additionalMonsters/../skills/perception#_perception) +8, [Stealth](additionalMonsters/../skills/stealth#_stealth) +3, [Survival](additionalMonsters/../skills/survival#_survival) +8, [Swim](additionalMonsters/../skills/swim#_swim) +10
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +10, [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) +6, [Heal](additionalMonsters_dir/../skills_dir/heal#_heal) +8, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (nature) +8, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +8, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +3, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +8, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +10
 
 **Languages** Common
 
-**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (human, hybrid, and bear; _ [polymorph](additionalMonsters/../spells/polymorph#_polymorph)_), favored terrain (forest +2), hunter's bond (companions), [lycanthropic empathy](monsters/universalMonsterRules#_lycanthropic-empathy) (bears and dire bears), track +2
+**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (human, hybrid, and bear; _ [polymorph](additionalMonsters_dir/../spells_dir/polymorph#_polymorph)_), favored terrain (forest +2), hunter's bond (companions), [lycanthropic empathy](monsters_dir/universalMonsterRules#_lycanthropic-empathy) (bears and dire bears), track +2
 
 In their humanoid forms, werebears tend to be muscular and broad-shouldered, with stark facial features and dark eyes. Their hair is usually red, brown, or black, and they look like they are used to a lifetime of hard work. Though by far the most benign of common lycanthropes, werebears are shunned by most normal folk, who fear and mistrust their animal transformations. Most live as recluses in forested areas or in small family units among their own kind. They avoid confrontations with strangers but do not hesitate to drive evil humanoids out of their territory.
 
@@ -124,9 +124,9 @@ Wereboar (Human Form)CR 2
 
 Human natural wereboar barbarian 2
 
-CN Medium [humanoid](monsters/creatureTypes#_humanoid) (human, [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
+CN Medium [humanoid](monsters_dir/creatureTypes#_humanoid) (human, [shapechanger](monsters_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +1; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +7
+**Init** +1; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7
 
 Defense
 
@@ -142,11 +142,11 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** dagger +6 (1d4+4/19–20), bite +1 (1d4+4)
+**Melee** dagger +6 (1d4+4_dir/19–20), bite +1 (1d4+4)
 
-**Ranged** dagger +4 (1d4+4/19–20)
+**Ranged** dagger +4 (1d4+4_dir/19–20)
 
-**Special Attacks** rage (8 rounds/day), rage powers ( [animal](monsters/creatureTypes#_animal) fury)
+**Special Attacks** rage (8 rounds_dir/day), rage powers ( [animal](monsters_dir/creatureTypes#_animal) fury)
 
 Statistics
 
@@ -154,13 +154,13 @@ Statistics
 
 **Base Atk** +2; **CMB** +6; **CMD** 17
 
-**Feats** [Power Attack](additionalMonsters/../feats#_power-attack), [Toughness](additionalMonsters/../feats#_toughness)
+**Feats** [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Toughness](additionalMonsters_dir/../feats#_toughness)
 
-**Skills** [Handle Animal](additionalMonsters/../skills/handleAnimal#_handle-animal) +4, [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +4, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (nature) +5, [Perception](additionalMonsters/../skills/perception#_perception) +7, [Profession](additionalMonsters/../skills/profession#_profession) (farmer) +4
+**Skills** [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) +4, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +4, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (nature) +5, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7, [Profession](additionalMonsters_dir/../skills_dir/profession#_profession) (farmer) +4
 
 **Languages** Common
 
-**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (human, hybrid, and boar; _ [polymorph](additionalMonsters/../spells/polymorph#_polymorph)_), fast movement, [lycanthropic empathy](monsters/universalMonsterRules#_lycanthropic-empathy) (boars and dire boars)
+**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (human, hybrid, and boar; _ [polymorph](additionalMonsters_dir/../spells_dir/polymorph#_polymorph)_), fast movement, [lycanthropic empathy](monsters_dir/universalMonsterRules#_lycanthropic-empathy) (boars and dire boars)
 
 Ecology
 
@@ -176,9 +176,9 @@ Wereboar (Hybrid Form)
 
 Human natural wereboar barbarian 2
 
-CN Medium [humanoid](monsters/creatureTypes#_humanoid) (human, [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
+CN Medium [humanoid](monsters_dir/creatureTypes#_humanoid) (human, [shapechanger](monsters_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +1; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +7
+**Init** +1; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7
 
 Defense
 
@@ -188,17 +188,17 @@ Defense
 
 **Fort** +8, **Ref** +1, **Will** +4
 
-**Defensive Abilities** ferocity; uncanny dodge, **DR** 10/silver
+**Defensive Abilities** ferocity; uncanny dodge, **DR** 10_dir/silver
 
 Offense
 
 **Speed** 40 ft.
 
-**Melee** dagger +8 (1d4+6/19–20), bite +3 (1d4+3/curse of lycanthropy), gore +3 (1d8+3)
+**Melee** dagger +8 (1d4+6_dir/19–20), bite +3 (1d4+3_dir/curse of lycanthropy), gore +3 (1d8+3)
 
-**Ranged** dagger +3 (1d4+3/19–20)
+**Ranged** dagger +3 (1d4+3_dir/19–20)
 
-**Special Attacks** rage (8 rounds/day), rage powers ( [animal](monsters/creatureTypes#_animal) fury)
+**Special Attacks** rage (8 rounds_dir/day), rage powers ( [animal](monsters_dir/creatureTypes#_animal) fury)
 
 Statistics
 
@@ -206,13 +206,13 @@ Statistics
 
 **Base Atk** +2; **CMB** +8; **CMD** 19
 
-**Feats** [Power Attack](additionalMonsters/../feats#_power-attack), [Toughness](additionalMonsters/../feats#_toughness)
+**Feats** [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Toughness](additionalMonsters_dir/../feats#_toughness)
 
-**Skills** [Handle Animal](additionalMonsters/../skills/handleAnimal#_handle-animal) +4, [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +4, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (nature) +5, [Perception](additionalMonsters/../skills/perception#_perception) +7, [Profession](additionalMonsters/../skills/profession#_profession) (farmer) +4
+**Skills** [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) +4, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +4, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (nature) +5, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7, [Profession](additionalMonsters_dir/../skills_dir/profession#_profession) (farmer) +4
 
 **Languages** Common
 
-**SQ** [lycanthropic empathy](monsters/universalMonsterRules#_lycanthropic-empathy) (boars and dire boars), fast movement, [change shape](monsters/universalMonsterRules#_change-shape) (human, hybrid, and boar; _ [polymorph](additionalMonsters/../spells/polymorph#_polymorph)_)
+**SQ** [lycanthropic empathy](monsters_dir/universalMonsterRules#_lycanthropic-empathy) (boars and dire boars), fast movement, [change shape](monsters_dir/universalMonsterRules#_change-shape) (human, hybrid, and boar; _ [polymorph](additionalMonsters_dir/../spells_dir/polymorph#_polymorph)_)
 
 In their humanoid forms, wereboars tend to be stout with upturned noses, bristly hair, and a noticeable overbite. They usually have red, brown, or black hair, though a few are golden blond, pale blond, or even bald. Chin whiskers are common, but males often can't grow full beards. Because they can be stubborn and aggressive when riled up, wereboars usually live in their own communities rather than mixing with non-lycanthropes; a wereboar's farm or ranch doesn't look out of the ordinary. Wereboars tend to have large families with many children.
 
@@ -230,9 +230,9 @@ Weretiger (Human Form)CR 4
 
 Human natural weretiger rogue 4
 
-NE Medium [humanoid](monsters/creatureTypes#_humanoid) (human, [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
+NE Medium [humanoid](monsters_dir/creatureTypes#_humanoid) (human, [shapechanger](monsters_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +7; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +10
+**Init** +7; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10
 
 Defense
 
@@ -248,9 +248,9 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** mwk short sword +5 (1d6+1/19–20)
+**Melee** mwk short sword +5 (1d6+1_dir/19–20)
 
-**Ranged** mwk dagger +6 (1d4+1/19–20)
+**Ranged** mwk dagger +6 (1d4+1_dir/19–20)
 
 **Special Attacks** sneak attack +2d6
 
@@ -260,13 +260,13 @@ Statistics
 
 **Base Atk** +3; **CMB** +4; **CMD** 17
 
-**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonsters/../skills/stealth#_stealth))
+**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth))
 
-**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +9, [Climb](additionalMonsters/../skills/climb#_climb) +7, [Handle Animal](additionalMonsters/../skills/handleAnimal#_handle-animal) +3, [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +6, [Perception](additionalMonsters/../skills/perception#_perception) +10, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +10, [Stealth](additionalMonsters/../skills/stealth#_stealth) +12, [Survival](additionalMonsters/../skills/survival#_survival) +7, [Swim](additionalMonsters/../skills/swim#_swim) +7
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +9, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +7, [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) +3, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +6, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +10, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +12, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +7, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +7
 
 **Languages** Common
 
-**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (human, hybrid, and tiger; _ [polymorph](additionalMonsters/../spells/polymorph#_polymorph)_), [lycanthropic empathy](monsters/universalMonsterRules#_lycanthropic-empathy) (tigers and dire tigers), rogue talents (bleeding attack +2, fast stealth), trapfinding +2
+**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (human, hybrid, and tiger; _ [polymorph](additionalMonsters_dir/../spells_dir/polymorph#_polymorph)_), [lycanthropic empathy](monsters_dir/universalMonsterRules#_lycanthropic-empathy) (tigers and dire tigers), rogue talents (bleeding attack +2, fast stealth), trapfinding +2
 
 Ecology
 
@@ -282,9 +282,9 @@ Weretiger (Hybrid Form)
 
 Human natural weretiger rogue 4
 
-NE Large [humanoid](monsters/creatureTypes#_humanoid) (human, [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
+NE Large [humanoid](monsters_dir/creatureTypes#_humanoid) (human, [shapechanger](monsters_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +7; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +10
+**Init** +7; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10
 
 Defense
 
@@ -296,7 +296,7 @@ Defense
 
 **Defensive Abilities** evasion, trap sense +1, uncanny dodge
 
-**DR** 10/silver
+**DR** 10_dir/silver
 
 Offense
 
@@ -304,7 +304,7 @@ Offense
 
 **Melee** bite +8 (2d6+6 plus grab and curse of lycanthropy), 2 claws +8 (1d8+6)
 
-**Ranged** mwk dagger +6 (1d6+6/19–20)
+**Ranged** mwk dagger +6 (1d6+6_dir/19–20)
 
 **Special Attacks** sneak attack +2d6, pounce, rake (2 claws +9, 1d8+6)
 
@@ -314,13 +314,13 @@ Statistics
 
 **Base Atk** +3; **CMB** +10 (+14 grapple); **CMD** 23
 
-**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonsters/../skills/stealth#_stealth))
+**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth))
 
-**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +9, [Climb](additionalMonsters/../skills/climb#_climb) +12, [Handle Animal](additionalMonsters/../skills/handleAnimal#_handle-animal) +3, [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +6, [Perception](additionalMonsters/../skills/perception#_perception) +10, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +10, [Stealth](additionalMonsters/../skills/stealth#_stealth) +8, [Survival](additionalMonsters/../skills/survival#_survival) +7, [Swim](additionalMonsters/../skills/swim#_swim) +2
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +9, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +12, [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) +3, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +6, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +10, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +8, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +7, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +2
 
 **Languages** Common
 
-**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (human, hybrid, and tiger; _ [polymorph](additionalMonsters/../spells/polymorph#_polymorph)_), [lycanthropic empathy](monsters/universalMonsterRules#_lycanthropic-empathy) (tigers and dire tigers), rogue talents (bleeding attack +2, fast stealth), trapfinding +2
+**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (human, hybrid, and tiger; _ [polymorph](additionalMonsters_dir/../spells_dir/polymorph#_polymorph)_), [lycanthropic empathy](monsters_dir/universalMonsterRules#_lycanthropic-empathy) (tigers and dire tigers), rogue talents (bleeding attack +2, fast stealth), trapfinding +2
 
 Weretigers in humanoid form have large eyes, long noses, and sharp cheekbones. Most have brown or red hair, though a few have white, black, or even blue-gray. Their movements appear careful yet casual, and a person observing one could easily assume he's watching a skilled pickpocket, graceful dancer, or sultry courtesan.
 

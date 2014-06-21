@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat/spells/burstOfSpeed
+title: ultimateCombat_dir/spells_dir/burstOfSpeed
 ---
 Burst of Speed
 

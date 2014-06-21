@@ -1,18 +1,18 @@
 ---
 layout: default
-title: ultimateEquipment/gear/alchemicalTools
+title: ultimateEquipment_dir/gear_dir/alchemicalTools
 ---
 # Alchemical Tools
 
-Alchemical tools are adventuring items that can prove extremely useful in a variety of situations, including battles, dungeon-delving, or crafting other alchemical items. All of these tools can be made by a character with the [Craft](skills/craft#_craft) (alchemy) skill.
+Alchemical tools are adventuring items that can prove extremely useful in a variety of situations, including battles, dungeon-delving, or crafting other alchemical items. All of these tools can be made by a character with the [Craft](skills_dir/craft#_craft) (alchemy) skill.
 
 [Alchemical Tools]
 | Item | Price | Weight | Craft DC |
 | --- | --- | --- | --- |
 | Alchemical cement | 5 gp | 2 lbs. | 15 |
-| Alchemical glue | 20 gp | 1/2 lb. | 20 |
+| Alchemical glue | 20 gp | 1_dir/2 lb. | 20 |
 | Alchemical glue accelerant | 25 gp | — | 25 |
-| Alchemical solvent | 20 gp | 1/2 lb. | 20 |
+| Alchemical solvent | 20 gp | 1_dir/2 lb. | 20 |
 | Armor ointment | 30 gp | 1 lb. | 15 |
 | Blackfire clay | 20 gp | 10 lbs. | 20 |
 | Bloodblock | 25 gp | — | 25 |
@@ -31,18 +31,18 @@ Alchemical tools are adventuring items that can prove extremely useful in a vari
 | Invisible ink (superior) | 75 gp | — | 25 |
 | Light detector | 1 gp | — | 10 |
 | Marker dye | 15 gp | 1 lb. | 15 |
-| Mending paste | 25 gp | 1/2 lb. | 25 |
+| Mending paste | 25 gp | 1_dir/2 lb. | 25 |
 | Nushadir | 10 gp | 1 lb. | 20 |
 | Rusting powder | 60 gp | — | 30 |
 | Scent cloak | 20 gp | 2 lbs. | 20 |
 | Smoke pellet | 25 gp | — | 20 |
-| Smokestick | 20 gp | 1/2 lb. | 20 |
+| Smokestick | 20 gp | 1_dir/2 lb. | 20 |
 | Sunrod | 2 gp | 1 lb. | 25 |
 | Tindertwig | 1 gp | — | 25 |
 | Water purification sponge | 25 gp | 1 lb. | 15 |
-| Weapon blanch (adamantine) | 100 gp | 1/2 lb. | 25 |
-| Weapon blanch (cold iron) | 20 gp | 1/2 lb. | 20 |
-| Weapon blanch (silver) | 5 gp | 1/2 lb. | 20 |
+| Weapon blanch (adamantine) | 100 gp | 1_dir/2 lb. | 25 |
+| Weapon blanch (cold iron) | 20 gp | 1_dir/2 lb. | 20 |
+| Weapon blanch (silver) | 5 gp | 1_dir/2 lb. | 20 |
 
 Alchemical Cement
 
@@ -52,7 +52,7 @@ You mix this fine gray powder with water and a cubic foot of sand or gravel to f
 
 Alchemical Glue
 
-**Price** 20 gp; **Weight** 1/2 lb.
+**Price** 20 gp; **Weight** 1_dir/2 lb.
 
 This glue is stored as two flasks of syrupy liquid. When mixed together and allowed to cure, they form a strong bond. The glue is sufficient to coat 1 square foot of surface, or (because of waste, spills, and inaccurate mixing) up to 20 smaller applications of approximately 2 square inches each. The glue is tacky after 1 minute and fully cured after 1 hour. Pulling apart a large glued surface (at least 1 square foot) requires a DC 20 Strength check for tacky glue or DC 25 for cured glue. Pulling apart a small glued surface (anything less than 1 square foot) is a DC 15 Strength check for tacky glue or DC 20 for cured glue.
 
@@ -64,9 +64,9 @@ This tiny dropper contains a liquid that speeds up the cure time of alchemical g
 
 Alchemical Solvent
 
-**Price** 20 gp; **Weight** 1/2 lb.
+**Price** 20 gp; **Weight** 1_dir/2 lb.
 
-This bubbling purple gel eats through adhesives. Each vial can cover a single 5-foot square. It destroys most normal adhesives (such as tar, tree sap, or glue) in a single round but takes 1d4+1 rounds to deal with more powerful adhesives (alchemical glue, tanglefoot bags, spider webbing, and so on). It has no affect on fully magical adhesives, such as _ [sovereign glue](magicItems/wondrousItems#_sovereign-glue)_.
+This bubbling purple gel eats through adhesives. Each vial can cover a single 5-foot square. It destroys most normal adhesives (such as tar, tree sap, or glue) in a single round but takes 1d4+1 rounds to deal with more powerful adhesives (alchemical glue, tanglefoot bags, spider webbing, and so on). It has no affect on fully magical adhesives, such as _ [sovereign glue](magicItems_dir/wondrousItems#_sovereign-glue)_.
 
 Armor Ointment
 
@@ -86,7 +86,7 @@ Bloodblock
 
 **Price** 25 gp; **Weight** —
 
-This gooey, pinkish substance helps treat wounds. Using a dose gives you a +5 alchemical bonus on [Heal](skills/heal#_heal) checks for providing first aid, treating wounds made by caltrops or similar objects, or treating deadly wounds. A dose of bloodblock ends a bleed effect as if you had made a DC 15 [Heal](skills/heal#_heal) check. When treating deadly wounds, using a dose of bloodblock counts as one use of a healer's kit (and grants the +5 bonus stated above).
+This gooey, pinkish substance helps treat wounds. Using a dose gives you a +5 alchemical bonus on [Heal](skills_dir/heal#_heal) checks for providing first aid, treating wounds made by caltrops or similar objects, or treating deadly wounds. A dose of bloodblock ends a bleed effect as if you had made a DC 15 [Heal](skills_dir/heal#_heal) check. When treating deadly wounds, using a dose of bloodblock counts as one use of a healer's kit (and grants the +5 bonus stated above).
 
 Buoyant Balloon
 
@@ -122,19 +122,19 @@ Embalming Fluid
 
 **Price** 50 gp; **Weight** 10 lbs.
 
-This fluid is used to preserve corpses, whether for later dissection, taxidermy, necromancy, or magic such as _ [raise dead](spells/raiseDead#_raise-dead)_. Embalming fluid is technically a poison, and using it makes a corpse unpalatable to most animals and vermin, though corpse-eating undead don't mind the taste. Treating a corpse with embalming fluid takes 1 hour and a successful DC 25 [Heal](skills/heal#_heal) check. The embalmed corpse decays at half the normal rate (each day dead counts as half a day for the purpose of _ [raise dead](spells/raiseDead#_raise-dead)_).
+This fluid is used to preserve corpses, whether for later dissection, taxidermy, necromancy, or magic such as _ [raise dead](spells_dir/raiseDead#_raise-dead)_. Embalming fluid is technically a poison, and using it makes a corpse unpalatable to most animals and vermin, though corpse-eating undead don't mind the taste. Treating a corpse with embalming fluid takes 1 hour and a successful DC 25 [Heal](skills_dir/heal#_heal) check. The embalmed corpse decays at half the normal rate (each day dead counts as half a day for the purpose of _ [raise dead](spells_dir/raiseDead#_raise-dead)_).
 
 Foaming Powder
 
 **Price** 10 gp; **Weight** 1 lb.
 
-When you add this 1-pound bag of green powder to a gallon of water, the two combine to form 50 cubic feet of thick green foam. Unless contained, in 1 round the foam fills a 5-foot-square to a depth of 2 feet. When multiple pounds of powder are used, the foam expands at a rate of one 5-foot square per round. Ground covered with the foam is treated as difficult terrain, but is otherwise harmless. After 1 hour, the foam hardens to form a buoyant material roughly the density of honeycomb. The cured foam is easy to cut, with hardness 0 and 5 hit points per foot of thickness. The cured foam breaks down over a few days, and even faster if exposed to water. Casting _ [transmute mud to rock](spells/transmuteMudToRock#_transmute-mud-to-rock)_ on uncured foam converts it into a soft, pumice-like stone (hardness 2, 5 hit points per inch of thickness).
+When you add this 1-pound bag of green powder to a gallon of water, the two combine to form 50 cubic feet of thick green foam. Unless contained, in 1 round the foam fills a 5-foot-square to a depth of 2 feet. When multiple pounds of powder are used, the foam expands at a rate of one 5-foot square per round. Ground covered with the foam is treated as difficult terrain, but is otherwise harmless. After 1 hour, the foam hardens to form a buoyant material roughly the density of honeycomb. The cured foam is easy to cut, with hardness 0 and 5 hit points per foot of thickness. The cured foam breaks down over a few days, and even faster if exposed to water. Casting _ [transmute mud to rock](spells_dir/transmuteMudToRock#_transmute-mud-to-rock)_ on uncured foam converts it into a soft, pumice-like stone (hardness 2, 5 hit points per inch of thickness).
 
 Glowing Ink
 
 **Price** 5 gp; **Weight** —
 
-Often extracted from phosphorescent insects, tiny marine plants, or subterranean fungi, glowing ink emits a faint but steady light (typically red or green) that allows you to read it in normal darkness—this includes darkness created by spells like _ [darkness](spells/darkness#_darkness)_, but not the supernatural darkness created by _ [deeper darkness](spells/deeperDarkness#_deeper-darkness)_. If there is glowing ink on an object, you have a +2 bonus on [Perception](skills/perception#_perception) checks to locate it. Mixing glowing ink with marker dye makes the dye glow in the dark until it fades.
+Often extracted from phosphorescent insects, tiny marine plants, or subterranean fungi, glowing ink emits a faint but steady light (typically red or green) that allows you to read it in normal darkness—this includes darkness created by spells like _ [darkness](spells_dir/darkness#_darkness)_, but not the supernatural darkness created by _ [deeper darkness](spells_dir/deeperDarkness#_deeper-darkness)_. If there is glowing ink on an object, you have a +2 bonus on [Perception](skills_dir/perception#_perception) checks to locate it. Mixing glowing ink with marker dye makes the dye glow in the dark until it fades.
 
 Impact Foam
 
@@ -151,7 +151,7 @@ Invisible Ink
 | Good | 25 gp | — |
 | Superior | 75 gp | — |
 
-Invisible ink is a staple of spies, rebels, and secret societies everywhere. Messages written with invisible ink only become visible under specific circumstances. Revealing the secret message with the proper triggering agent is a full-round action per page of text. A successful [Craft](skills/craft#_craft) (alchemy) check reveals the message without the proper trigger and takes 1 hour (the DC varies by ink quality).
+Invisible ink is a staple of spies, rebels, and secret societies everywhere. Messages written with invisible ink only become visible under specific circumstances. Revealing the secret message with the proper triggering agent is a full-round action per page of text. A successful [Craft](skills_dir/craft#_craft) (alchemy) check reveals the message without the proper trigger and takes 1 hour (the DC varies by ink quality).
 
 _Simple_: This ink is keyed to a single, fairly common trigger, such as heat or vinegar (DC 20 to reveal without the trigger).
 
@@ -175,9 +175,9 @@ This dye (available in several colors) creates an obvious stain wherever it is s
 
 Mending Paste
 
-**Price** 25 gp; **Weight** 1/2 lb.
+**Price** 25 gp; **Weight** 1_dir/2 lb.
 
-You can use this smelly, silvery paste to temporarily repair metal objects. It is sold in a sealed flask and reacts with air, turning solid in 1d6+4 minutes. You must make an appropriate DC 20 [Craft](skills/craft#_craft) check to repair a metal item with the broken condition; success means the object loses the broken condition but gains the fragile condition (see page 22). Increase the DC by +5 if the broken object is a magic item or by +5 if it is a firearm (add both modifiers if the item is a magical firearm). If the check fails, the mending paste is consumed but you may try again with another flask or conventional repair methods.
+You can use this smelly, silvery paste to temporarily repair metal objects. It is sold in a sealed flask and reacts with air, turning solid in 1d6+4 minutes. You must make an appropriate DC 20 [Craft](skills_dir/craft#_craft) check to repair a metal item with the broken condition; success means the object loses the broken condition but gains the fragile condition (see page 22). Increase the DC by +5 if the broken object is a magic item or by +5 if it is a firearm (add both modifiers if the item is a magical firearm). If the check fails, the mending paste is consumed but you may try again with another flask or conventional repair methods.
 
 Nushadir
 
@@ -189,7 +189,7 @@ Rusting Powder
 
 **Price** 60 gp; **Weight** —
 
-This flaky brown powder derived from rust monster fluids causes iron and similar metals to corrode and fall apart. If you apply a dose of rusting powder to a metal lock or trap as part of using the [Disable Device](skills/disableDevice#_disable-device) skill, you gain a +5 alchemical bonus to open the lock or disable the trap, but there is a 75% chance that the mechanism is destroyed and cannot be used afterward. If the check fails, the mechanism is destroyed. A destroyed lock cannot be unlocked (but still counts as locked for the purpose opening the locked object). A destroyed trap mechanism immediately triggers the trap. If you fail the DC by 5 or more, the powder also lands on an object in your square (including possibly your armor or weapon), dealing 5 hit points of damage to the object.
+This flaky brown powder derived from rust monster fluids causes iron and similar metals to corrode and fall apart. If you apply a dose of rusting powder to a metal lock or trap as part of using the [Disable Device](skills_dir/disableDevice#_disable-device) skill, you gain a +5 alchemical bonus to open the lock or disable the trap, but there is a 75% chance that the mechanism is destroyed and cannot be used afterward. If the check fails, the mechanism is destroyed. A destroyed lock cannot be unlocked (but still counts as locked for the purpose opening the locked object). A destroyed trap mechanism immediately triggers the trap. If you fail the DC by 5 or more, the powder also lands on an object in your square (including possibly your armor or weapon), dealing 5 hit points of damage to the object.
 
 Rusting powder is sold in a paper tube; you apply it by tearing the ends off the tube and blowing the flakes into the target device. Rusting powder does not affect gold, silver, copper, bronze, brass, or mithral, but easily affects iron, steel, and adamantine.
 
@@ -207,9 +207,9 @@ This small clay sphere contains two alchemical substances separated by a thin ba
 
 Smokestick
 
-**Price** 20 gp; **Weight** 1/2 lb.
+**Price** 20 gp; **Weight** 1_dir/2 lb.
 
-This alchemically treated wooden stick instantly creates thick, opaque smoke when burned. The smoke fills a 10-foot cube (treat the effect as a _ [fog cloud](spells/fogCloud)_ spell, except that a moderate or stronger wind dissipates the smoke in 1 round). The stick is consumed after 1 round, and the smoke dissipates naturally after 1 minute.
+This alchemically treated wooden stick instantly creates thick, opaque smoke when burned. The smoke fills a 10-foot cube (treat the effect as a _ [fog cloud](spells_dir/fogCloud)_ spell, except that a moderate or stronger wind dissipates the smoke in 1 round). The stick is consumed after 1 round, and the smoke dissipates naturally after 1 minute.
 
 Sunrod
 
@@ -233,9 +233,9 @@ Weapon Blanch
 
 | Type | Price | Weight |
 | --- | --- | --- |
-| Adamantine | 100 gp | 1/2 lb. |
-| Cold iron | 20 gp | 1/2 lb. |
-| Silver | 5 gp | 1/2 lb. |
+| Adamantine | 100 gp | 1_dir/2 lb. |
+| Cold iron | 20 gp | 1_dir/2 lb. |
+| Silver | 5 gp | 1_dir/2 lb. |
 
 These silver, alchemical powders have a gritty consistency, appearing at first glance to be simple metal shavings. When poured on a weapon and placed over a hot flame for a full round, however, they melt and form a temporary coating on the weapon. The blanching gives the weapon the ability to bypass one kind of material-based damage reduction, such as adamantine, cold iron, or silver. The blanching remains effective until you make a successful attack with the weapon. Each dose of blanching can coat one weapon or up to 10 pieces of ammunition. Only one kind of weapon blanch can be on a weapon at one time, though a weapon made of one special material (such as adamantine) can have a different material blanch (such as silver), and counts as both materials for the first successful hit.
 

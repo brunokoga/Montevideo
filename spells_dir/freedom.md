@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/freedom
+title: spells_dir/freedom
 ---
  **Freedom**
 
-**School** abjuration; **Level** sorcerer/wizard 9
+**School** abjuration; **Level** sorcerer_dir/wizard 9
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels) or see text
+**Range** close (25 ft. + 5 ft._dir/2 levels) or see text
 
 **Target** one creature
 

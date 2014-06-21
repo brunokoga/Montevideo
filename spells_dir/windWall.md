@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/windWall
+title: spells_dir/windWall
 ---
  **Wind Wall**
 
-**School** evocation [air]; **Level** cleric 3, druid 3, ranger 2, sorcerer/wizard 3
+**School** evocation [air]; **Level** cleric 3, druid 3, ranger 2, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (a tiny fan and an exotic feather)
+**Components** V, S, M_dir/DF (a tiny fan and an exotic feather)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Effect** wall up to 10 ft./level long and 5 ft./level high (S)
+**Effect** wall up to 10 ft._dir/level long and 5 ft._dir/level high (S)
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

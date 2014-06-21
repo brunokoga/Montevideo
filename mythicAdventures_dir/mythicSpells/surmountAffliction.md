@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures/mythicSpells/surmountAffliction
+title: mythicAdventures_dir/mythicSpells_dir/surmountAffliction
 ---
 Surmount Affliction
 
-**Source** [_surmount affliction_](ultimateMagic/spells/surmountAffliction#_surmount-affliction)
+**Source** [_surmount affliction_](ultimateMagic_dir/spells_dir/surmountAffliction#_surmount-affliction)
 
 You can cast this spell with no verbal or somatic component, and even if you're helpless (but not unconscious). You temporarily overcome a number of additional harmful conditions equal to half your tier.
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/instantSummons
+title: spells_dir/instantSummons
 ---
  **Instant Summons**
 
-**School** conjuration (summoning); **Level** sorcerer/wizard 7
+**School** conjuration (summoning); **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 

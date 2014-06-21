@@ -1,18 +1,18 @@
 ---
 layout: default
-title: additionalMonsters/turtle
+title: additionalMonsters_dir/turtle
 ---
 # Turtle, Snapping
 
 A thick shell encases this reptile's body, from which only its tail, its feet, and a head fitted with powerful jaws emerge.
 
-Snapping TurtleCR 1/3
+Snapping TurtleCR 1_dir/3
 
 **XP 135**
 
-N Tiny [animal](monsters/creatureTypes#_animal)
+N Tiny [animal](monsters_dir/creatureTypes#_animal)
 
-**Init** –1; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +5
+**Init** –1; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -28,7 +28,7 @@ Offense
 
 **Melee** bite +1 (1d3–3)
 
-**Space** 2-1/2 ft.; **Reach** 0 ft.
+**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
 
 Statistics
 
@@ -36,11 +36,11 @@ Statistics
 
 **Base Atk** +0; **CMB** –3; **CMD** 4 (8 vs. trip)
 
-**Feats** [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +5, [Swim](additionalMonsters/../skills/swim#_swim) +5
+**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +5
 
-**SQ** [hold breath](monsters/universalMonsterRules#_hold-breath), shell
+**SQ** [hold breath](monsters_dir/universalMonsterRules#_hold-breath), shell
 
 Ecology
 
@@ -54,7 +54,7 @@ Special Abilities
 
 **Shell (Ex)** As a move action, a snapping turtle can pull its extremities and head into its shell. It cannot move or attack as long as it remains in this state, but its armor bonus from natural armor increases by +4 as long as it does.
 
-Snapping turtles are water-dwelling reptiles known for their propensity to bite anyone they deem threatening. Adult snapping turtles are usually about 1-1/2 feet in diameter. A spellcaster who can acquire a familiar can choose a snapping turtle as a familiar. A snapping turtle familiar grants its master   
+Snapping turtles are water-dwelling reptiles known for their propensity to bite anyone they deem threatening. Adult snapping turtles are usually about 1-1_dir/2 feet in diameter. A spellcaster who can acquire a familiar can choose a snapping turtle as a familiar. A snapping turtle familiar grants its master   
 a +2 bonus on all Fortitude saves.
 
 ## Giant Snapping Turtle Companions
@@ -71,9 +71,9 @@ Giant Snapping TurtleCR 9
 
 XP 6,400
 
-N Gargantuan [animal](monsters/creatureTypes#_animal)
+N Gargantuan [animal](monsters_dir/creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +21
+**Init** +2; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +21
 
 Defense
 
@@ -87,7 +87,7 @@ Offense
 
 **Speed** 20 ft., swim 20 ft.
 
-**Melee** bite +16 (4d6+16 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** bite +16 (4d6+16 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Space** 20 ft.; **Reach** 15 ft.
 
@@ -99,11 +99,11 @@ Statistics
 
 **Base Atk** +8; **CMB** +23 (+27 grapple); **CMD** 31 (35 vs. trip)
 
-**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Lunge](additionalMonsters/../feats#_lunge), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skills/perception#_perception)), [Toughness](additionalMonsters/../feats#_toughness), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (bite)
+**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Lunge](additionalMonsters_dir/../feats#_lunge), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)), [Toughness](additionalMonsters_dir/../feats#_toughness), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +21, [Swim](additionalMonsters/../skills/swim#_swim) +19
+**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +21, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +19
 
-**SQ** armored stomach, [hold breath](monsters/universalMonsterRules#_hold-breath), shell
+**SQ** armored stomach, [hold breath](monsters_dir/universalMonsterRules#_hold-breath), shell
 
 Ecology
 

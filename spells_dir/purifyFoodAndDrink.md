@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/purifyFoodAndDrink
+title: spells_dir/purifyFoodAndDrink
 ---
  **Purify Food and Drink**
 
@@ -12,7 +12,7 @@ title: spells/purifyFoodAndDrink
 
 **Range** 10 ft.
 
-**Target** 1 cu. ft./level of contaminated food and water
+**Target** 1 cu. ft._dir/level of contaminated food and water
 
 **Duration** instantaneous
 

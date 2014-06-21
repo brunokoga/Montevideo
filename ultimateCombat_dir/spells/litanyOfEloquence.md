@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat/spells/litanyOfEloquence
+title: ultimateCombat_dir/spells_dir/litanyOfEloquence
 ---
 Litany of Eloquence
 
@@ -10,7 +10,7 @@ Litany of Eloquence
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 

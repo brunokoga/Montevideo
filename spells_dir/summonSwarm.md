@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/summonSwarm
+title: spells_dir/summonSwarm
 ---
  **Summon Swarm**
 
-**School** conjuration (summoning); **Level** bard 2, druid 2, sorcerer/wizard 2
+**School** conjuration (summoning); **Level** bard 2, druid 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 round
 
-**Components** V, S, M/DF (a square of red cloth)
+**Components** V, S, M_dir/DF (a square of red cloth)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** one swarm of bats, rats, or spiders
 

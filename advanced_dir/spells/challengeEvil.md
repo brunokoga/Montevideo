@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/challengeEvil
+title: advanced_dir/spells_dir/challengeEvil
 ---
  **Challenge Evil**
 
@@ -10,11 +10,11 @@ title: advanced/spells/challengeEvil
 
 **Components** V, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one evil creature
 
-**Duration** 1 minute/level (D)
+**Duration** 1 minute_dir/level (D)
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/blessWater
+title: spells_dir/blessWater
 ---
  **Bless Water**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/aspectOfTheBear
+title: advanced_dir/spells_dir/aspectOfTheBear
 ---
  **Aspect of the Bear**
 
@@ -14,7 +14,7 @@ title: advanced/spells/aspectOfTheBear
 
 **Target** you
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 You take on an aspect of a bear. You gain a +2 enhancement bonus to natural armor and a +2 enhancement bonus on CMB rolls. You can also perform bull rush, grapple, and overrun combat maneuvers without provoking attacks of opportunity.
 

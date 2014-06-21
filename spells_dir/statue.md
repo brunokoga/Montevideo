@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/statue
+title: spells_dir/statue
 ---
  **Statue**
 
-**School** transmutation; **Level** sorcerer/wizard 7
+**School** transmutation; **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 1 round
 
@@ -14,7 +14,7 @@ title: spells/statue
 
 **Target** creature touched
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hour_dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

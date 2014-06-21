@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/dispelLaw
+title: spells_dir/dispelLaw
 ---
  **Dispel Law**
 

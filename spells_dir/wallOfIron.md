@@ -1,18 +1,18 @@
 ---
 layout: default
-title: spells/wallOfIron
+title: spells_dir/wallOfIron
 ---
  **Wall of Iron**
 
-**School** conjuration (creation); **Level** sorcerer/wizard 6
+**School** conjuration (creation); **Level** sorcerer_dir/wizard 6
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a small iron sheet plus gold dust worth 50 gp)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Effect** iron wall whose area is up to one 5-ft. square/level; see text
+**Effect** iron wall whose area is up to one 5-ft. square_dir/level; see text
 
 **Duration** instantaneous
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat/spells/forestFriend
+title: ultimateCombat_dir/spells_dir/forestFriend
 ---
 Forest Friend
 
@@ -10,15 +10,15 @@ Forest Friend
 
 **Components** : V, S, M (a pinch of manure)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Targets** one willing living creature per three levels, no two of which may be more than 30 ft. apart.
 
-**Duration** : 1 minute/level
+**Duration** : 1 minute_dir/level
 
 **Saving Throw** : none; **Spell Resistance** : no
 
-While subject to this spell, the targets find that forested areas become helpful instead of hindering. The targets suffer no hindrances to movement and suffer no penalties on [Acrobatics](skills/acrobatics#_acrobatics) and [Stealth](skills/stealth#_stealth) checks from undergrowth in forested terrain. Furthermore, forested overgrowth imposes a miss chance 10% lower than normal.
+While subject to this spell, the targets find that forested areas become helpful instead of hindering. The targets suffer no hindrances to movement and suffer no penalties on [Acrobatics](skills_dir/acrobatics#_acrobatics) and [Stealth](skills_dir/stealth#_stealth) checks from undergrowth in forested terrain. Furthermore, forested overgrowth imposes a miss chance 10% lower than normal.
 
-When moving in and among trees, those subject to the spell gain a +5 circumstance bonus on [Acrobatics](skills/acrobatics#_acrobatics) checks and [Climb](skills/climb#_climb) checks. Rangers in their favored terrain can also add their favored terrain bonus on such [Acrobatics](skills/acrobatics#_acrobatics) and [Climb](skills/climb#_climb) checks.
+When moving in and among trees, those subject to the spell gain a +5 circumstance bonus on [Acrobatics](skills_dir/acrobatics#_acrobatics) checks and [Climb](skills_dir/climb#_climb) checks. Rangers in their favored terrain can also add their favored terrain bonus on such [Acrobatics](skills_dir/acrobatics#_acrobatics) and [Climb](skills_dir/climb#_climb) checks.
 

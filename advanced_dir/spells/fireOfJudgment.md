@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/fireOfJudgment
+title: advanced_dir/spells_dir/fireOfJudgment
 ---
  **Fire of Judgment**
 
@@ -14,7 +14,7 @@ title: advanced/spells/fireOfJudgment
 
 **Target** one creature
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will partial; **Spell Resistance** yes
 

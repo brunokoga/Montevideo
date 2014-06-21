@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/tojanida
+title: bestiary3_dir/tojanida
 ---
 # Tojanida
 
@@ -10,9 +10,9 @@ Tojanida CR 5
 
 XP 1,600
 
-N Medium outsider ( [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [water](monsters/creatureTypes#_water-subtype))
+N Medium outsider ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [water](monsters_dir/creatureTypes#_water-subtype))
 
-**Init** +1; **Senses** [all-around vision](monsters/universalMonsterRules#_all-around-vision), darkvision 60 ft.; [Perception](skills/perception#_perception) +14
+**Init** +1; **Senses** [all-around vision](monsters_dir/universalMonsterRules#_all-around-vision), darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +14
 
 Defense
 
@@ -42,13 +42,13 @@ Statistics
 
 **Feats** [Blind-Fight](feats#_blind-fight), [Dodge](feats#_dodge), [Power Attack](feats#_power-attack)
 
-**Skills** [Bluff](skills/bluff#_bluff) +5, [Escape Artist](skills/escapeArtist#_escape-artist) +10, [Knowledge](skills/knowledge#_knowledge) (planes) +9, [Perception](skills/perception#_perception) +14, [Perform](skills/perform#_perform) (act) +5, [Sense Motive](skills/senseMotive#_sense-motive) +10, [Stealth](skills/stealth#_stealth) +7, [Survival](skills/survival#_survival) +7, [Swim](skills/swim#_swim) +11; **Racial Modifiers** +4 [Perception](skills/perception#_perception)
+**Skills** [Bluff](skills_dir/bluff#_bluff) +5, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +10, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +9, [Perception](skills_dir/perception#_perception) +14, [Perform](skills_dir/perform#_perform) (act) +5, [Sense Motive](skills_dir/senseMotive#_sense-motive) +10, [Stealth](skills_dir/stealth#_stealth) +7, [Survival](skills_dir/survival#_survival) +7, [Swim](skills_dir/swim#_swim) +11; **Racial Modifiers** +4 [Perception](skills_dir/perception#_perception)
 
 **Languages** Aquan
 
 Ecology
 
-**Environment** any [water](monsters/creatureTypes#_water-subtype) (Plane of [Water](monsters/creatureTypes#_water-subtype))
+**Environment** any [water](monsters_dir/creatureTypes#_water-subtype) (Plane of [Water](monsters_dir/creatureTypes#_water-subtype))
 
 **Organization** solitary, pair, clutch (3–6), or cult (1 tojanida plus 2–12 humanoid followers)
 
@@ -56,7 +56,7 @@ Ecology
 
 Special Abilities
 
-**Ink Cloud (Ex)** A tojanida can emit a 30-foot-radius sphere of ink once per minute as a free action. The ink provides total concealment in water, and persists for 1 minute. If used out of the water, the [jet](monsters/universalMonsterRules#_jet) of ink is a line 30 feet long, and creatures in the area must succeed at a DC 16 Reflex save or be blinded for 1 round. The save DC is Constitution-based.
+**Ink Cloud (Ex)** A tojanida can emit a 30-foot-radius sphere of ink once per minute as a free action. The ink provides total concealment in water, and persists for 1 minute. If used out of the water, the [jet](monsters_dir/universalMonsterRules#_jet) of ink is a line 30 feet long, and creatures in the area must succeed at a DC 16 Reflex save or be blinded for 1 round. The save DC is Constitution-based.
 
 Tojanidas are bizarre natives from the Plane of Water that resemble mixes between monstrous crabs and enormous snapping turtles. Originally elemental beings of water, tojanidas were bound into their strange forms long ago for unclear reasons, and no longer know how they might eventually return to their pure and formless state. Determined to preserve their pride, the grotesque tojanidas ply the waters of the planes seeking hedonistic pleasures—especially culinary ones—and the adoration of other races. Loquacious when addressed with the proper respect, they make excellent heralds and emissaries for more powerful beings, and often enjoy posing as such even when operating on their own. When riled, however, tojanidas make fearsome opponents, violent and eager juggernauts with snapping jaws and clacking pincers.
 

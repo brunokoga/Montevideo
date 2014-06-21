@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/causeFear
+title: spells_dir/causeFear
 ---
  **Cause Fear**
 
-**School** necromancy [fear, mind-affecting]; **Level** bard 1, cleric 1, sorcerer/wizard 1
+**School** necromancy [fear, mind-affecting]; **Level** bard 1, cleric 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one living creature with 5 or fewer HD
 

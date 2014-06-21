@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/blindnessDeafness
+title: spells_dir/blindnessDeafness
 ---
- **Blindness/Deafness**
+ **Blindness_dir/Deafness**
 
-**School** necromancy; **Level** bard 2, cleric 3, sorcerer/wizard 2
+**School** necromancy; **Level** bard 2, cleric 3, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target** one living creature
 

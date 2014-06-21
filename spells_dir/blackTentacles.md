@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/blackTentacles
+title: spells_dir/blackTentacles
 ---
  **Black Tentacles**
 
-**School** conjuration (creation); **Level** sorcerer/wizard 4
+**School** conjuration (creation); **Level** sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (octopus or squid tentacle)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Area** 20-ft.-radius spread
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** : none; **[Spell Resistance](../glossary#_spell-resistance)** : no
 

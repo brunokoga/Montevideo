@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/chimera
+title: monsters_dir/chimera
 ---
 # Chimera
 
@@ -12,7 +12,7 @@ _This winged monster has the body of a lion, though two more heads flank its cen
 
 CE Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +10
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -38,9 +38,9 @@ CE Large [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +9; **CMB** +14; **CMD** 25 (29 vs. trip)
 
-**Feats** [Hover](monsterFeats#_hover), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Hover](monsterFeats#_hover), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Toughness](../feats#_toughness)
 
-**Skills** [Fly](../skills/fly#_fly) +2, [Perception](../skills/perception#_perception) +10, [Stealth](../skills/stealth#_stealth) +4 (+8 in scrubland or brush); **Racial Modifiers** +2 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth) in scrubland or brush
+**Skills** [Fly](../skills_dir/fly#_fly) +2, [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +4 (+8 in scrubland or brush); **Racial Modifiers** +2 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth) in scrubland or brush
 
 **Languages** Draconic
 

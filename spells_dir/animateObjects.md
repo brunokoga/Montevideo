@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/animateObjects
+title: spells_dir/animateObjects
 ---
  **Animate Objects**
 
@@ -10,11 +10,11 @@ title: spells/animateObjects
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Targets** one Small object per caster level; see text
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

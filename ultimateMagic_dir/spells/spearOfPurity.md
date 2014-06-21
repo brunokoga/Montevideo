@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/spearOfPurity
+title: ultimateMagic_dir/spells_dir/spearOfPurity
 ---
 Spear of Purity
 
@@ -10,7 +10,7 @@ Spear of Purity
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** spear-shaped projectile of good energy
 

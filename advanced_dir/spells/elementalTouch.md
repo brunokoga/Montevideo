@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advanced/spells/elementalTouch
+title: advanced_dir/spells_dir/elementalTouch
 ---
  **Elemental Touch**
 
-**School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 2, sorcerer/wizard 2
+**School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: advanced/spells/elementalTouch
 
 **Target** you
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** see text; **Spell Resistance** no
 

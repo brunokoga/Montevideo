@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/virtuosoPerformance
+title: ultimateMagic_dir/spells_dir/virtuosoPerformance
 ---
 Virtuoso Performance
 
@@ -14,7 +14,7 @@ Virtuoso Performance
 
 **Target** you
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 While this spell is active, you may start a second bardic performance while maintaining another. Starting the second performance costs 2 rounds of bardic performance instead of 1. Maintaining both performances costs a total of 3 rounds of bardic performance for each round they are maintained. When this spell ends, one of the performances ends immediately (your choice).
 

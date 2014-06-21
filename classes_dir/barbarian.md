@@ -1,6 +1,6 @@
 ---
 layout: default
-title: classes/barbarian
+title: classes_dir/barbarian
 ---
 # Barbarian
 
@@ -14,7 +14,7 @@ For some, there is only rage. In the ways of their people, in the fury of their 
 
 ## Class Skills
 
-The barbarian's class skills are [Acrobatics](../skills/acrobatics#_acrobatics) ( [Dex](../gettingStarted#_dexterity)), [Climb](../skills/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skills/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Handle Animal](../skills/handleAnimal#_handle-animal) ( [Cha](../gettingStarted#_charisma-new)), [Intimidate](../skills/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skills/knowledge#_knowledge) (nature) ( [Int](../gettingStarted#_intelligence)), [Perception](../skills/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skills/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Survival](../skills/survival#_survival) ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skills/swim#_swim) ( [Str](../gettingStarted#_strength)).
+The barbarian's class skills are [Acrobatics](../skills_dir/acrobatics#_acrobatics) ( [Dex](../gettingStarted#_dexterity)), [Climb](../skills_dir/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skills_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Handle Animal](../skills_dir/handleAnimal#_handle-animal) ( [Cha](../gettingStarted#_charisma-new)), [Intimidate](../skills_dir/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skills_dir/knowledge#_knowledge) (nature) ( [Int](../gettingStarted#_intelligence)), [Perception](../skills_dir/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skills_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Survival](../skills_dir/survival#_survival) ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skills_dir/swim#_swim) ( [Str](../gettingStarted#_strength)).
 
 **Skill Ranks per Level** : 4 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -26,21 +26,21 @@ The barbarian's class skills are [Acrobatics](../skills/acrobatics#_acrobatics) 
 | 3rd | +3 | +3 | +1 | +1 | Trap sense +1 |
 | 4th | +4 | +4 | +1 | +1 | Rage power |
 | 5th | +5 | +4 | +1 | +1 | Improved uncanny dodge |
-| 6th | +6/+1 | +5 | +2 | +2 | Rage power, Trap sense +2 |
-| 7th | +7/+2 | +5 | +2 | +2 | Damage reduction 1/— |
-| 8th | +8/+3 | +6 | +2 | +2 | Rage power |
-| 9th | +9/+4 | +6 | +3 | +3 | Trap sense +3 |
-| 10th | +10/+5 | +7 | +3 | +3 | Damage reduction 2/—, Rage power |
-| 11th | +11/+6/+1 | +7 | +3 | +3 | Greater rage |
-| 12th | +12/+7/+2 | +8 | +4 | +4 | Rage power, Trap sense +4 |
-| 13th | +13/+8/+3 | +8 | +4 | +4 | Damage reduction 3/— |
-| 14th | +14/+9/+4 | +9 | +4 | +4 | Indomitable will, Rage power |
-| 15th | +15/+10/+5 | +9 | +5 | +5 | Trap sense +5 |
-| 16th | +16/+11/+6/+1 | +10 | +5 | +5 | Damage reduction 4/—, Rage power |
-| 17th | +17/+12/+7/+2 | +10 | +5 | +5 | Tireless rage |
-| 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Rage power, Trap sense +6 |
-| 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Damage reduction 5/— |
-| 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Mighty rage, Rage power |
+| 6th | +6_dir/+1 | +5 | +2 | +2 | Rage power, Trap sense +2 |
+| 7th | +7_dir/+2 | +5 | +2 | +2 | Damage reduction 1_dir/— |
+| 8th | +8_dir/+3 | +6 | +2 | +2 | Rage power |
+| 9th | +9_dir/+4 | +6 | +3 | +3 | Trap sense +3 |
+| 10th | +10_dir/+5 | +7 | +3 | +3 | Damage reduction 2_dir/—, Rage power |
+| 11th | +11_dir/+6_dir/+1 | +7 | +3 | +3 | Greater rage |
+| 12th | +12_dir/+7_dir/+2 | +8 | +4 | +4 | Rage power, Trap sense +4 |
+| 13th | +13_dir/+8_dir/+3 | +8 | +4 | +4 | Damage reduction 3_dir/— |
+| 14th | +14_dir/+9_dir/+4 | +9 | +4 | +4 | Indomitable will, Rage power |
+| 15th | +15_dir/+10_dir/+5 | +9 | +5 | +5 | Trap sense +5 |
+| 16th | +16_dir/+11_dir/+6_dir/+1 | +10 | +5 | +5 | Damage reduction 4_dir/—, Rage power |
+| 17th | +17_dir/+12_dir/+7_dir/+2 | +10 | +5 | +5 | Tireless rage |
+| 18th | +18_dir/+13_dir/+8_dir/+3 | +11 | +6 | +6 | Rage power, Trap sense +6 |
+| 19th | +19_dir/+14_dir/+9_dir/+4 | +11 | +6 | +6 | Damage reduction 5_dir/— |
+| 20th | +20_dir/+15_dir/+10_dir/+5 | +12 | +6 | +6 | Mighty rage, Rage power |
 
 ## Class Features
 
@@ -50,9 +50,9 @@ All of the following are class features of the barbarian.
 
 **Fast Movement [(Ex)](../glossary#_extraordinary-abilities-ex)** : A barbarian's land speed is faster than the norm for her race by +10 feet. This benefit applies only when she is wearing no armor, light armor, or medium armor, and not carrying a heavy load. Apply this bonus before modifying the barbarian's speed because of any load carried or armor worn. This bonus stacks with any other bonuses to the barbarian's land speed.
 
-**Rage [(Ex)](../glossary#_extraordinary-abilities-ex)** : A barbarian can call upon inner reserves of strength and ferocity, granting her additional combat prowess. Starting at 1st level, a barbarian can rage for a number of rounds per day equal to 4 + her [Constitution](../gettingStarted#_constitution) modifier. At each level after 1st, she can rage for 2 additional rounds. Temporary increases to [Constitution](../gettingStarted#_constitution), such as those gained from rage and spells like _ [bear's endurance](../spells/bearSEndurance#_bear-s-endurance),_ do not increase the total number of rounds that a barbarian can rage per day. A barbarian can enter rage as a free action. The total number of rounds of rage per day is renewed after resting for 8 hours, although these hours do not need to be consecutive.
+**Rage [(Ex)](../glossary#_extraordinary-abilities-ex)** : A barbarian can call upon inner reserves of strength and ferocity, granting her additional combat prowess. Starting at 1st level, a barbarian can rage for a number of rounds per day equal to 4 + her [Constitution](../gettingStarted#_constitution) modifier. At each level after 1st, she can rage for 2 additional rounds. Temporary increases to [Constitution](../gettingStarted#_constitution), such as those gained from rage and spells like _ [bear's endurance](../spells_dir/bearSEndurance#_bear-s-endurance),_ do not increase the total number of rounds that a barbarian can rage per day. A barbarian can enter rage as a free action. The total number of rounds of rage per day is renewed after resting for 8 hours, although these hours do not need to be consecutive.
 
-While in rage, a barbarian gains a +4 morale bonus to her [Strength](../gettingStarted#_strength) and [Constitution](../gettingStarted#_constitution), as well as a +2 morale bonus on [Will saves](../combat#_will). In addition, she takes a –2 penalty to [Armor Class](../combat#_armor-class). The increase to [Constitution](../gettingStarted#_constitution) grants the barbarian 2 hit points per Hit Dice, but these disappear when the rage ends and are not lost first like [temporary hit points](../combat#_temporary-hit-points). While in rage, a barbarian cannot use any [Charisma](../gettingStarted#_charisma-new)-, [Dexterity](../gettingStarted#_dexterity)-, or [Intelligence](../gettingStarted#_intelligence)-based skills (except [Acrobatics](../skills/acrobatics#_acrobatics), [Fly](../skills/fly#_fly), [Intimidate](../skills/intimidate#_intimidate), and [Ride](../skills/ride#_ride)) or any ability that requires patience or concentration.
+While in rage, a barbarian gains a +4 morale bonus to her [Strength](../gettingStarted#_strength) and [Constitution](../gettingStarted#_constitution), as well as a +2 morale bonus on [Will saves](../combat#_will). In addition, she takes a –2 penalty to [Armor Class](../combat#_armor-class). The increase to [Constitution](../gettingStarted#_constitution) grants the barbarian 2 hit points per Hit Dice, but these disappear when the rage ends and are not lost first like [temporary hit points](../combat#_temporary-hit-points). While in rage, a barbarian cannot use any [Charisma](../gettingStarted#_charisma-new)-, [Dexterity](../gettingStarted#_dexterity)-, or [Intelligence](../gettingStarted#_intelligence)-based skills (except [Acrobatics](../skills_dir/acrobatics#_acrobatics), [Fly](../skills_dir/fly#_fly), [Intimidate](../skills_dir/intimidate#_intimidate), and [Ride](../skills_dir/ride#_ride)) or any ability that requires patience or concentration.
 
 A barbarian can end her rage as a free action and is [fatigued](../glossary#_fatigued) after rage for a number of rounds equal to 2 times the number of rounds spent in the rage. A barbarian cannot enter a new rage while [fatigued](../glossary#_fatigued) or [exhausted](../glossary#_exhausted) but can otherwise enter rage multiple times during a single encounter or combat. If a barbarian falls [unconscious](../glossary#_unconscious), her rage immediately ends, placing her in peril of death.
 
@@ -66,11 +66,11 @@ _Fearless Rage [(Ex)](../glossary#_extraordinary-abilities-ex)_: While raging, t
 
 _Guarded Stance_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: The barbarian gains a +1 [dodge bonus](../combat#_dodge-bonuses) to her [Armor Class](../combat#_armor-class) against melee attacks for a number of rounds equal to the barbarian's current [Constitution](../gettingStarted#_constitution) modifier (minimum 1). This bonus increases by +1 for every 6 levels the barbarian has attained. Activating this ability is a move action that does not provoke an [attack of opportunity](../combat#_attacks-of-opportunity).
 
-_Increased Damage Reduction_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: The barbarian's [damage reduction](../glossary#_damage-reduction) increases by 1/—. This increase is always active while the barbarian is raging. A barbarian can select this rage power up to three times. Its effects stack. A barbarian must be at least 8th level before selecting this rage power.
+_Increased Damage Reduction_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: The barbarian's [damage reduction](../glossary#_damage-reduction) increases by 1_dir/—. This increase is always active while the barbarian is raging. A barbarian can select this rage power up to three times. Its effects stack. A barbarian must be at least 8th level before selecting this rage power.
 
 _Internal Fortitude [(Ex)](../glossary#_extraordinary-abilities-ex)_: While raging, the barbarian is immune to the [sickened](../glossary#_sickened) and [nauseated](../glossary#_nauseated) conditions. A barbarian must be at least 8th level before selecting this rage power.
 
-_Intimidating Glare_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: The barbarian can make an [Intimidate](../skills/intimidate#_intimidate) check against one adjacent foe as a move action. If the barbarian successfully demoralizes her opponent, the foe is [shaken](../glossary#_shaken) for 1d4 rounds + 1 round for every 5 points by which the barbarian's check exceeds the DC.
+_Intimidating Glare_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: The barbarian can make an [Intimidate](../skills_dir/intimidate#_intimidate) check against one adjacent foe as a move action. If the barbarian successfully demoralizes her opponent, the foe is [shaken](../glossary#_shaken) for 1d4 rounds + 1 round for every 5 points by which the barbarian's check exceeds the DC.
 
 _Knockback_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: Once per round, the barbarian can make a [bull rush](../combat#_bull-rush) attempt against one target in place of a melee attack. If successful, the target takes damage equal to the barbarian's [Strength](../gettingStarted#_strength) modifier and is moved back as normal. The barbarian does not need to move with the target if successful. This does not provoke an [attack of opportunity](../combat#_attacks-of-opportunity).
 
@@ -88,11 +88,11 @@ _Powerful Blow [(Ex)](../glossary#_extraordinary-abilities-ex)_: The barbarian g
 
 _Quick Reflexes [(Ex)](../glossary#_extraordinary-abilities-ex)_: While raging, the barbarian can make one additional [attack of opportunity](../combat#_attacks-of-opportunity) per round.
 
-_Raging Climber [(Ex)](../glossary#_extraordinary-abilities-ex)_: When raging, the barbarian adds her level as an enhancement bonus on all [Climb](../skills/climb#_climb) [skill checks](../usingSkills#_skill-checks).
+_Raging Climber [(Ex)](../glossary#_extraordinary-abilities-ex)_: When raging, the barbarian adds her level as an enhancement bonus on all [Climb](../skills_dir/climb#_climb) [skill checks](../usingSkills#_skill-checks).
 
-_Raging Leaper [(Ex)](../glossary#_extraordinary-abilities-ex)_: When raging, the barbarian adds her level as an enhancement bonus on all [Acrobatics](../skills/acrobatics#_acrobatics) [skill checks](../usingSkills#_skill-checks) made to jump. When making a jump in this way, the barbarian is always considered to have a running start.
+_Raging Leaper [(Ex)](../glossary#_extraordinary-abilities-ex)_: When raging, the barbarian adds her level as an enhancement bonus on all [Acrobatics](../skills_dir/acrobatics#_acrobatics) [skill checks](../usingSkills#_skill-checks) made to jump. When making a jump in this way, the barbarian is always considered to have a running start.
 
-_Raging Swimmer [(Ex)](../glossary#_extraordinary-abilities-ex)_: When raging, the barbarian adds her level as an enhancement bonus on all [Swim](../skills/swim#_swim) [skill checks](../usingSkills#_skill-checks).
+_Raging Swimmer [(Ex)](../glossary#_extraordinary-abilities-ex)_: When raging, the barbarian adds her level as an enhancement bonus on all [Swim](../skills_dir/swim#_swim) [skill checks](../usingSkills#_skill-checks).
 
 _Renewed Vigor_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: As a standard action, the barbarian heals 1d8 points of damage + her [Constitution](../gettingStarted#_constitution) modifier. For every four levels the barbarian has attained above 4th, this amount of damage healed increases by 1d8, to a maximum of 5d8 at 20th level. A barbarian must be at least 4th level before selecting this power. This power can be used only once per day and only while raging.
 
@@ -110,7 +110,7 @@ _Surprise Accuracy_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: The barb
 
 _Swift Foot_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: The barbarian gains a 5-foot enhancement bonus to her speed. This increase is always active while the barbarian is raging. A barbarian can select this rage power up to three times. Its effects stack.
 
-_Terrifying Howl_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: The barbarian unleashes a terrifying howl as a standard action. All [shaken](../glossary#_shaken) enemies within 30 feet must make a [Will save](../combat#_will) (DC equal to 10 + 1/2 the barbarian's level + the barbarian's [Strength](../gettingStarted#_strength) modifier) or be [panicked](../glossary#_panicked) for 1d4+1 rounds. Once an enemy has made a save versus terrifying howl (successful or not), it is immune to this power for 24 hours. A barbarian must have the intimidating glare rage power to select this rage power. A barbarian must be at least 8th level before selecting this power.
+_Terrifying Howl_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: The barbarian unleashes a terrifying howl as a standard action. All [shaken](../glossary#_shaken) enemies within 30 feet must make a [Will save](../combat#_will) (DC equal to 10 + 1_dir/2 the barbarian's level + the barbarian's [Strength](../gettingStarted#_strength) modifier) or be [panicked](../glossary#_panicked) for 1d4+1 rounds. Once an enemy has made a save versus terrifying howl (successful or not), it is immune to this power for 24 hours. A barbarian must have the intimidating glare rage power to select this rage power. A barbarian must be at least 8th level before selecting this power.
 
 _Unexpected Strike [(Ex)](../glossary#_extraordinary-abilities-ex)_: The barbarian can make an [attack of opportunity](../combat#_attacks-of-opportunity) against a foe that moves into any square threatened by the barbarian, regardless of whether or not that movement would normally provoke an [attack of opportunity](../combat#_attacks-of-opportunity). This power can only be used once per rage. A barbarian must be at least 8th level before selecting this power.
 

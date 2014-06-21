@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/ant
+title: monsters_dir/ant
 ---
 # Army Ant Swarm
 
@@ -12,7 +12,7 @@ _A writhing carpet of ants seethes over the ground, consuming everything in its 
 
 N Fine [vermin](creatureTypes#_vermin) ( [swarm](creatureTypes#_swarm-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft., scent; [Perception](../skills/perception#_perception) +4
+**Init** +2; **Senses** darkvision 60 ft., scent; [Perception](../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -40,7 +40,7 @@ N Fine [vermin](creatureTypes#_vermin) ( [swarm](creatureTypes#_swarm-subtype))
 
 **Base**  **Atk** +8; **CMB** —; **CMD** —
 
-**Skills** [Climb](../skills/climb#_climb) +10, [Perception](../skills/perception#_perception) +4; **Racial Modifiers** +4 [Perception](../skills/perception#_perception)
+**Skills** [Climb](../skills_dir/climb#_climb) +10, [Perception](../skills_dir/perception#_perception) +4; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception)
 
 **Ecology**
 
@@ -68,7 +68,7 @@ _A thin, six-legged ant the size of a pony stands at the ready, its mandibles ch
 
 N Medium [vermin](creatureTypes#_vermin)
 
-**Init** +0; **Senses** darkvision 60 ft., scent; [Perception](../skills/perception#_perception) +5
+**Init** +0; **Senses** darkvision 60 ft., scent; [Perception](../skills_dir/perception#_perception) +5
 
 **Defense**
 
@@ -94,7 +94,7 @@ N Medium [vermin](creatureTypes#_vermin)
 
 **Feats** [Toughness](../feats#_toughness)B
 
-**Skills** [Climb](../skills/climb#_climb) +10, [Perception](../skills/perception#_perception) +5, [Survival](../skills/survival#_survival) +5; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Survival](../skills/survival#_survival)
+**Skills** [Climb](../skills_dir/climb#_climb) +10, [Perception](../skills_dir/perception#_perception) +5, [Survival](../skills_dir/survival#_survival) +5; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Survival](../skills_dir/survival#_survival)
 
 **Ecology**
 
@@ -106,7 +106,7 @@ N Medium [vermin](creatureTypes#_vermin)
 
 **Special Abilities**
 
-**Poison (Ex)** Sting—injury; _save_ Fort DC 14; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save
+**Poison (Ex)** Sting—injury; _save_ Fort DC 14; _frequency_ 1_dir/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save
 
 Giant ants are as industrious as their normal-sized kin. While their nests generally don't consist of thousands, their greatly increased size more than compensates.
 

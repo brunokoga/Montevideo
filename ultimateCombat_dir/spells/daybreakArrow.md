@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat/spells/daybreakArrow
+title: ultimateCombat_dir/spells_dir/daybreakArrow
 ---
 Daybreak Arrow
 
@@ -14,7 +14,7 @@ Daybreak Arrow
 
 **Target** up to 50 pieces of ammunition, all of which must be together at the time of casting
 
-**Duration** 10 minutes/level
+**Duration** 10 minutes_dir/level
 
 **Saving Throw** Fortitude negates (harmless, object); **Spell Resistance** yes (harmless, object)
 

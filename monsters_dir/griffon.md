@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/griffon
+title: monsters_dir/griffon
 ---
 # Griffon
 
@@ -12,7 +12,7 @@ _This majestic beast has the body of a lion, the head and forelegs of a great ea
 
 N Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +12
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +12
 
 **Defense**
 
@@ -38,9 +38,9 @@ N Large [magical beast](creatureTypes#_magical-beast)
 
 **Base**  **Atk** +5; **CMB** +9; **CMD** 21 (25 vs. trip)
 
-**Feats** [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +10, [Fly](../skills/fly#_fly) +6, [Perception](../skills/perception#_perception) +12; **Racial Modifiers** +4 [Acrobatics](../skills/acrobatics#_acrobatics), +4 [Perception](../skills/perception#_perception)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +10, [Fly](../skills_dir/fly#_fly) +6, [Perception](../skills_dir/perception#_perception) +12; **Racial Modifiers** +4 [Acrobatics](../skills_dir/acrobatics#_acrobatics), +4 [Perception](../skills_dir/perception#_perception)
 
 **Languages** Common (cannot speak)
 
@@ -58,7 +58,7 @@ Weighing in at over 500 pounds and measuring 8 feet long from hooked beak to tuf
 
 Griffons mate for life, and will often search for years to take vengeance over a slain mate or child. It was likely this innate stubbornness and fierce loyalty that first brought them into domestic use as mounts and guardians of treasure hoards. Despite the inherent danger, trade in captured griffons and stolen eggs is brisk, with their eggs worth up to 3,500 gp apiece and live young twice that. Characters eager for griffon mounts, however, should note that buying or forcibly domesticating intelligent creatures like griffons is still recognized as slavery by most good deities, and winning a griffon's allegiance of its own free will is no easy task. Reaching a mutually agreeable accord (or even a friendship) is a much more elegant and safe route to securing a griffon mount.
 
-Before it can be ridden in combat, a griffon requires practice bearing the weight of its rider. In order to be trained successfully, a griffon must first be helpful toward its trainer (possibly requiring a [Diplomacy](../skills/diplomacy#_diplomacy), [Intimidate](../skills/intimidate#_intimidate), or [Handle Animal](../skills/handleAnimal#_handle-animal) check). After that, 6 weeks of practice and a successful DC 20 [Handle Animal](../skills/handleAnimal#_handle-animal) check is sufficient for the beast to be comfortable with its burden, and due to their intelligence, trained griffons can be treated as knowing every trick listed in the [Handle Animal](../skills/handleAnimal#_handle-animal) skill description, possibly even responding to new, simple requests made in Common.
+Before it can be ridden in combat, a griffon requires practice bearing the weight of its rider. In order to be trained successfully, a griffon must first be helpful toward its trainer (possibly requiring a [Diplomacy](../skills_dir/diplomacy#_diplomacy), [Intimidate](../skills_dir/intimidate#_intimidate), or [Handle Animal](../skills_dir/handleAnimal#_handle-animal) check). After that, 6 weeks of practice and a successful DC 20 [Handle Animal](../skills_dir/handleAnimal#_handle-animal) check is sufficient for the beast to be comfortable with its burden, and due to their intelligence, trained griffons can be treated as knowing every trick listed in the [Handle Animal](../skills_dir/handleAnimal#_handle-animal) skill description, possibly even responding to new, simple requests made in Common.
 
 Griffons can carry up to 300 pounds as a light load, 600 pounds as a medium load, and 900 pounds as a heavy load. Riding a griffon requires an exotic saddle.
 

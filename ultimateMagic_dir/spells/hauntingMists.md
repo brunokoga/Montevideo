@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic/spells/hauntingMists
+title: ultimateMagic_dir/spells_dir/hauntingMists
 ---
 Haunting Mists
 
-**School** illusion (figment) [fear, shadow]; **Level** bard 2, sorcerer/wizard 2, witch 2
+**School** illusion (figment) [fear, shadow]; **Level** bard 2, sorcerer_dir/wizard 2, witch 2
 
 **Components** V, S
 
@@ -14,7 +14,7 @@ Haunting Mists
 
 **Effect** cloud spreads in 20-ft. radius, 20 ft. high
 
-**Duration** 1 minute/level (D)
+**Duration** 1 minute_dir/level (D)
 
 **Saving Throw** Will partial (see text); **Spell Resistance** no
 

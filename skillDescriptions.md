@@ -9,41 +9,41 @@ This section describes each skill, including common uses and typical modifiers. 
 [Table: Skill Summary]
 | **Skill** | Bbn | Brd | Clr | Drd | Ftr | Mnk | Pal | Rgr | Rog | Sor | Wiz | Untrained | Ability |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Acrobatics](skills/acrobatics#_acrobatics) | C | C | — | — | — | C | — | — | C | — | — | Yes | [Dex](gettingStarted#_dexterity)\* |
-| [Appraise](skills/appraise#_appraise) | — | C | C | — | — | — | — | — | C | C | C | Yes | [Int](gettingStarted#_intelligence) |
-| [Bluff](skills/bluff#_bluff) | — | C | — | — | — | — | — | — | C | C | — | Yes | [Cha](gettingStarted#_charisma-new) |
-| [Climb](skills/climb#_climb) | C | C | — | C | C | C | — | C | C | — | — | Yes | [Str](gettingStarted#_strength)\* |
-| [Craft](skills/craft#_craft) | C | C | C | C | C | C | C | C | C | C | C | Yes | [Int](gettingStarted#_intelligence) |
-| [Diplomacy](skills/diplomacy#_diplomacy) | — | C | C | — | — | — | C | — | C | — | — | Yes | [Cha](gettingStarted#_charisma-new) |
-| [Disable Device](skills/disableDevice#_disable-device) | — | — | — | — | — | — | — | — | C | — | — | No | [Dex](gettingStarted#_dexterity)\* |
-| [Disguise](skills/disguise#_disguise) | — | C | — | — | — | — | — | — | C | — | — | Yes | [Cha](gettingStarted#_charisma-new) |
-| [Escape Artist](skills/escapeArtist#_escape-artist) | — | C | — | — | — | C | — | — | C | — | — | Yes | [Dex](gettingStarted#_dexterity)\* |
-| [Fly](skills/fly#_fly) | — | — | — | C | — | — | — | — | — | C | C | Yes | [Dex](gettingStarted#_dexterity)\* |
-| [Handle Animal](skills/handleAnimal#_handle-animal) | C | — | — | C | C | — | C | C | — | — | — | No | [Cha](gettingStarted#_charisma-new) |
-| [Heal](skills/heal#_heal) | — | — | C | C | — | — | C | C | — | — | — | Yes | [Wis](gettingStarted#_wisdom) |
-| [Intimidate](skills/intimidate#_intimidate) | C | C | — | — | C | C | — | C | C | C | — | Yes | [Cha](gettingStarted#_charisma-new) |
-| [Knowledge](skills/knowledge#_knowledge) (arcana) | — | C | C | — | — | — | — | — | — | C | C | No | [Int](gettingStarted#_intelligence) |
-| [Knowledge](skills/knowledge#_knowledge) (dungeoneering) | — | C | — | — | C | — | — | C | C | — | C | No | [Int](gettingStarted#_intelligence) |
-| [Knowledge](skills/knowledge#_knowledge) (engineering) | — | C | — | — | C | — | — | — | — | — | C | No | [Int](gettingStarted#_intelligence) |
-| [Knowledge](skills/knowledge#_knowledge) (geography) | — | C | — | C | — | — | — | C | — | — | C | No | [Int](gettingStarted#_intelligence) |
-| [Knowledge](skills/knowledge#_knowledge) (history) | — | C | C | — | — | C | — | — | — | — | C | No | [Int](gettingStarted#_intelligence) |
-| [Knowledge](skills/knowledge#_knowledge) (local) | — | C | — | — | — | — | — | — | C | — | C | No | [Int](gettingStarted#_intelligence) |
-| [Knowledge](skills/knowledge#_knowledge) (nature) | C | C | — | C | — | — | — | C | — | — | C | No | [Int](gettingStarted#_intelligence) |
-| [Knowledge](skills/knowledge#_knowledge) (nobility) | — | C | C | — | — | — | C | — | — | — | C | No | [Int](gettingStarted#_intelligence) |
-| [Knowledge](skills/knowledge#_knowledge) (planes) | — | C | C | — | — | — | — | — | — | — | C | No | [Int](gettingStarted#_intelligence) |
-| [Knowledge](skills/knowledge#_knowledge) (religion) | — | C | C | — | — | C | C | — | — | — | C | No | [Int](gettingStarted#_intelligence) |
-| [Linguistics](skills/linguistics#_linguistics) | — | C | C | — | — | — | — | — | C | — | C | No | [Int](gettingStarted#_intelligence) |
-| [Perception](skills/perception#_perception) | C | C | — | C | — | C | — | C | C | — | — | Yes | [Wis](gettingStarted#_wisdom) |
-| [Perform](skills/perform#_perform) | — | C | — | — | — | C | — | — | C | — | — | Yes | [Cha](gettingStarted#_charisma-new) |
-| [Profession](skills/profession#_profession) | — | C | C | C | C | C | C | C | C | C | C | No | [Wis](gettingStarted#_wisdom) |
-| [Ride](skills/ride#_ride) | C | — | — | C | C | C | C | C | — | — | — | Yes | [Dex](gettingStarted#_dexterity)\* |
-| [Sense Motive](skills/senseMotive#_sense-motive) | — | C | C | — | — | C | C | — | C | — | — | Yes | [Wis](gettingStarted#_wisdom) |
-| [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) | — | C | — | — | — | — | — | — | C | — | — | No | [Dex](gettingStarted#_dexterity)\* |
-| [Spellcraft](skills/spellcraft#_spellcraft) | — | C | C | C | — | — | C | C | — | C | C | No | [Int](gettingStarted#_intelligence) |
-| [Stealth](skills/stealth#_stealth) | — | C | — | — | — | C | — | C | C | — | — | Yes | [Dex](gettingStarted#_dexterity)\* |
-| [Survival](skills/survival#_survival) | C | — | — | C | C | — | — | C | — | — | — | Yes | [Wis](gettingStarted#_wisdom) |
-| [Swim](skills/swim#_swim) | C | — | — | C | C | C | — | C | C | — | — | Yes | [Str](gettingStarted#_strength)\* |
-| [Use Magic Device](skills/useMagicDevice#_use-magic-device) | — | C | — | — | — | — | — | — | C | C | — | No | [Cha](gettingStarted#_charisma-new) |
+| [Acrobatics](skills_dir/acrobatics#_acrobatics) | C | C | — | — | — | C | — | — | C | — | — | Yes | [Dex](gettingStarted#_dexterity)\* |
+| [Appraise](skills_dir/appraise#_appraise) | — | C | C | — | — | — | — | — | C | C | C | Yes | [Int](gettingStarted#_intelligence) |
+| [Bluff](skills_dir/bluff#_bluff) | — | C | — | — | — | — | — | — | C | C | — | Yes | [Cha](gettingStarted#_charisma-new) |
+| [Climb](skills_dir/climb#_climb) | C | C | — | C | C | C | — | C | C | — | — | Yes | [Str](gettingStarted#_strength)\* |
+| [Craft](skills_dir/craft#_craft) | C | C | C | C | C | C | C | C | C | C | C | Yes | [Int](gettingStarted#_intelligence) |
+| [Diplomacy](skills_dir/diplomacy#_diplomacy) | — | C | C | — | — | — | C | — | C | — | — | Yes | [Cha](gettingStarted#_charisma-new) |
+| [Disable Device](skills_dir/disableDevice#_disable-device) | — | — | — | — | — | — | — | — | C | — | — | No | [Dex](gettingStarted#_dexterity)\* |
+| [Disguise](skills_dir/disguise#_disguise) | — | C | — | — | — | — | — | — | C | — | — | Yes | [Cha](gettingStarted#_charisma-new) |
+| [Escape Artist](skills_dir/escapeArtist#_escape-artist) | — | C | — | — | — | C | — | — | C | — | — | Yes | [Dex](gettingStarted#_dexterity)\* |
+| [Fly](skills_dir/fly#_fly) | — | — | — | C | — | — | — | — | — | C | C | Yes | [Dex](gettingStarted#_dexterity)\* |
+| [Handle Animal](skills_dir/handleAnimal#_handle-animal) | C | — | — | C | C | — | C | C | — | — | — | No | [Cha](gettingStarted#_charisma-new) |
+| [Heal](skills_dir/heal#_heal) | — | — | C | C | — | — | C | C | — | — | — | Yes | [Wis](gettingStarted#_wisdom) |
+| [Intimidate](skills_dir/intimidate#_intimidate) | C | C | — | — | C | C | — | C | C | C | — | Yes | [Cha](gettingStarted#_charisma-new) |
+| [Knowledge](skills_dir/knowledge#_knowledge) (arcana) | — | C | C | — | — | — | — | — | — | C | C | No | [Int](gettingStarted#_intelligence) |
+| [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) | — | C | — | — | C | — | — | C | C | — | C | No | [Int](gettingStarted#_intelligence) |
+| [Knowledge](skills_dir/knowledge#_knowledge) (engineering) | — | C | — | — | C | — | — | — | — | — | C | No | [Int](gettingStarted#_intelligence) |
+| [Knowledge](skills_dir/knowledge#_knowledge) (geography) | — | C | — | C | — | — | — | C | — | — | C | No | [Int](gettingStarted#_intelligence) |
+| [Knowledge](skills_dir/knowledge#_knowledge) (history) | — | C | C | — | — | C | — | — | — | — | C | No | [Int](gettingStarted#_intelligence) |
+| [Knowledge](skills_dir/knowledge#_knowledge) (local) | — | C | — | — | — | — | — | — | C | — | C | No | [Int](gettingStarted#_intelligence) |
+| [Knowledge](skills_dir/knowledge#_knowledge) (nature) | C | C | — | C | — | — | — | C | — | — | C | No | [Int](gettingStarted#_intelligence) |
+| [Knowledge](skills_dir/knowledge#_knowledge) (nobility) | — | C | C | — | — | — | C | — | — | — | C | No | [Int](gettingStarted#_intelligence) |
+| [Knowledge](skills_dir/knowledge#_knowledge) (planes) | — | C | C | — | — | — | — | — | — | — | C | No | [Int](gettingStarted#_intelligence) |
+| [Knowledge](skills_dir/knowledge#_knowledge) (religion) | — | C | C | — | — | C | C | — | — | — | C | No | [Int](gettingStarted#_intelligence) |
+| [Linguistics](skills_dir/linguistics#_linguistics) | — | C | C | — | — | — | — | — | C | — | C | No | [Int](gettingStarted#_intelligence) |
+| [Perception](skills_dir/perception#_perception) | C | C | — | C | — | C | — | C | C | — | — | Yes | [Wis](gettingStarted#_wisdom) |
+| [Perform](skills_dir/perform#_perform) | — | C | — | — | — | C | — | — | C | — | — | Yes | [Cha](gettingStarted#_charisma-new) |
+| [Profession](skills_dir/profession#_profession) | — | C | C | C | C | C | C | C | C | C | C | No | [Wis](gettingStarted#_wisdom) |
+| [Ride](skills_dir/ride#_ride) | C | — | — | C | C | C | C | C | — | — | — | Yes | [Dex](gettingStarted#_dexterity)\* |
+| [Sense Motive](skills_dir/senseMotive#_sense-motive) | — | C | C | — | — | C | C | — | C | — | — | Yes | [Wis](gettingStarted#_wisdom) |
+| [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) | — | C | — | — | — | — | — | — | C | — | — | No | [Dex](gettingStarted#_dexterity)\* |
+| [Spellcraft](skills_dir/spellcraft#_spellcraft) | — | C | C | C | — | — | C | C | — | C | C | No | [Int](gettingStarted#_intelligence) |
+| [Stealth](skills_dir/stealth#_stealth) | — | C | — | — | — | C | — | C | C | — | — | Yes | [Dex](gettingStarted#_dexterity)\* |
+| [Survival](skills_dir/survival#_survival) | C | — | — | C | C | — | — | C | — | — | — | Yes | [Wis](gettingStarted#_wisdom) |
+| [Swim](skills_dir/swim#_swim) | C | — | — | C | C | C | — | C | C | — | — | Yes | [Str](gettingStarted#_strength)\* |
+| [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) | — | C | — | — | — | — | — | — | C | C | — | No | [Cha](gettingStarted#_charisma-new) |
 
 Skill descriptions adhere to the following guidelines.
 

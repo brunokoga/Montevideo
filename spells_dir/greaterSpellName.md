@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/greaterSpellName
+title: spells_dir/greaterSpellName
 ---
  **Greater (Spell Name)**
 

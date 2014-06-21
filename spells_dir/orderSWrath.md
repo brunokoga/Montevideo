@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/orderSWrath
+title: spells_dir/orderSWrath
 ---
  **Order's Wrath**
 
@@ -10,7 +10,7 @@ title: spells/orderSWrath
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Area** nonlawful creatures within a burst that fills a 30-ft. cube
 

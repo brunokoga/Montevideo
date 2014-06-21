@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic/spells/forcePunch
+title: ultimateMagic_dir/spells_dir/forcePunch
 ---
 Force Punch
 
-**School** evocation [force]; **Level** magus 3, sorcerer/wizard 3
+**School** evocation [force]; **Level** magus 3, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 

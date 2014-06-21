@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/legendLore
+title: spells_dir/legendLore
 ---
  **Legend Lore**
 
-**School** divination; **Level** bard 4, sorcerer/wizard 6
+**School** divination; **Level** bard 4, sorcerer_dir/wizard 6
 
 **Casting Time** see text
 

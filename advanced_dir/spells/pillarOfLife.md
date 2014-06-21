@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/pillarOfLife
+title: advanced_dir/spells_dir/pillarOfLife
 ---
  **Pillar of Life**
 
@@ -10,11 +10,11 @@ title: advanced/spells/pillarOfLife
 
 **Components** V, S, DF
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Effect** 5-ft.-square pillar of positive energy, 20 ft. high
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 

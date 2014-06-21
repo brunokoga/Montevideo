@@ -1,20 +1,20 @@
 ---
 layout: default
-title: advanced/spells/devolution
+title: advanced_dir/spells_dir/devolution
 ---
  **Devolution**
 
-**School** transmutation; **Level** sorcerer/wizard 3, summoner 3
+**School** transmutation; **Level** sorcerer_dir/wizard 3, summoner 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a chameleon scale)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one eidolon
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

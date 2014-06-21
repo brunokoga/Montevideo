@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/mnemonicEnhancer
+title: spells_dir/mnemonicEnhancer
 ---
  **Mnemonic Enhancer**
 
@@ -18,7 +18,7 @@ title: spells/mnemonicEnhancer
 
 Casting this spell allows you to prepare additional spells or retain spells recently cast. Pick one of these two versions when the spell is cast.
 
-_Prepare_: You prepare up to three additional levels of spells. A cantrip counts as 1/2 level for this purpose. You prepare and cast these spells normally.
+_Prepare_: You prepare up to three additional levels of spells. A cantrip counts as 1_dir/2 level for this purpose. You prepare and cast these spells normally.
 
 _Retain_: You retain any spell of 3rd level or lower that you had cast up to 1 round before you started casting the _mnemonic enhancer_. This restores the previously cast spell to your mind.
 

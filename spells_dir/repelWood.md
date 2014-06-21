@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/repelWood
+title: spells_dir/repelWood
 ---
  **Repel Wood**
 
@@ -14,7 +14,7 @@ title: spells/repelWood
 
 **Area** 60-ft. line-shaped emanation from you
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

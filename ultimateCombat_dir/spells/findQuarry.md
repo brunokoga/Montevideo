@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat/spells/findQuarry
+title: ultimateCombat_dir/spells_dir/findQuarry
 ---
 Find Quarry
 

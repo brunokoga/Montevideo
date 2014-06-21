@@ -1,6 +1,6 @@
 ---
 layout: default
-title: prestigeClasses/arcaneArcher
+title: prestigeClasses_dir/arcaneArcher
 ---
 # Arcane Archer
 
@@ -26,7 +26,7 @@ To qualify to become an arcane archer, a character must fulfill all the followin
 
 ## Class Skills
 
-The arcane archer's class skills (and the key ability for each skill) are [Perception](../skills/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skills/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Stealth](../skills/stealth#_stealth) ( [Dex](../gettingStarted#_dexterity)), and [Survival](../skills/survival#_survival) ( [Wis](../gettingStarted#_wisdom)).
+The arcane archer's class skills (and the key ability for each skill) are [Perception](../skills_dir/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skills_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Stealth](../skills_dir/stealth#_stealth) ( [Dex](../gettingStarted#_dexterity)), and [Survival](../skills_dir/survival#_survival) ( [Wis](../gettingStarted#_wisdom)).
 
 **Skill Ranks at Each Level** : 4 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -56,13 +56,13 @@ All of the following are class features of the arcane archer prestige class.
 
 In addition, the arcane archer's arrows gain a number of additional qualities as he gains additional levels. The elemental, elemental burst, and aligned qualities can be changed once per day, when the arcane archer prepares spells or, in the case of spontaneous spellcasters, after 8 hours of rest.
 
-At 3rd level, every nonmagical arrow fired by an arcane archer gains one of the following elemental themed weapon qualities: _ [flaming](../magicItems/weapons#_weapons-flaming)_,_ [frost](../magicItems/weapons#_weapons-frost)_, or _ [shock](../magicItems/weapons#_weapons-shock)_.
+At 3rd level, every nonmagical arrow fired by an arcane archer gains one of the following elemental themed weapon qualities: _ [flaming](../magicItems_dir/weapons#_weapons-flaming)_,_ [frost](../magicItems_dir/weapons#_weapons-frost)_, or _ [shock](../magicItems_dir/weapons#_weapons-shock)_.
 
-At 5th level, every nonmagical arrow fired by an arcane archer gains the _ [distance](../magicItems/weapons#_weapons-distance)_ weapon quality.
+At 5th level, every nonmagical arrow fired by an arcane archer gains the _ [distance](../magicItems_dir/weapons#_weapons-distance)_ weapon quality.
 
-At 7th level, every nonmagical arrow fired by an arcane archer gains one of the following elemental burst weapon qualities: _ [flaming burst](../magicItems/weapons#_weapons-flaming-burst)_, _ [icy burst](../magicItems/weapons#_weapons-icy-burst)_, or _ [shocking burst](../magicItems/weapons#_weapons-shocking-burst)_. This ability replaces the ability gained at 3rd level.
+At 7th level, every nonmagical arrow fired by an arcane archer gains one of the following elemental burst weapon qualities: _ [flaming burst](../magicItems_dir/weapons#_weapons-flaming-burst)_, _ [icy burst](../magicItems_dir/weapons#_weapons-icy-burst)_, or _ [shocking burst](../magicItems_dir/weapons#_weapons-shocking-burst)_. This ability replaces the ability gained at 3rd level.
 
-At 9th level, every nonmagical arrow fired by an arcane archer gains one of the following aligned weapon qualities: _ [anarchic](../magicItems/weapons#_weapons-anarchic)_, _ [axiomatic](../magicItems/weapons#_weapons-axiomatic)_, _ [holy](../magicItems/weapons#_weapons-holy)_, or _ [unholy](../magicItems/weapons#_unholy)_. The arcane archer cannot choose an ability that is the opposite of his alignment (for example, a lawful good arcane archer could not choose _ [anarchic](../magicItems/weapons#_weapons-anarchic)_ or _ [unholy](../magicItems/weapons#_unholy)_ as his weapon quality).
+At 9th level, every nonmagical arrow fired by an arcane archer gains one of the following aligned weapon qualities: _ [anarchic](../magicItems_dir/weapons#_weapons-anarchic)_, _ [axiomatic](../magicItems_dir/weapons#_weapons-axiomatic)_, _ [holy](../magicItems_dir/weapons#_weapons-holy)_, or _ [unholy](../magicItems_dir/weapons#_unholy)_. The arcane archer cannot choose an ability that is the opposite of his alignment (for example, a lawful good arcane archer could not choose _ [anarchic](../magicItems_dir/weapons#_weapons-anarchic)_ or _ [unholy](../magicItems_dir/weapons#_unholy)_ as his weapon quality).
 
 The bonuses granted by a magic bow apply as normal to arrows that have been enhanced with this ability. Only the larger enhancement bonus applies. Duplicate abilities do not stack.
 
@@ -74,5 +74,5 @@ The bonuses granted by a magic bow apply as normal to arrows that have been enha
 
 **Hail of Arrows**  **(Su)** : In lieu of his regular attacks, once per day an arcane archer of 8th level or higher can fire an arrow at each and every target within range, to a maximum of one target for every arcane archer level she has earned. Each attack uses the archer's primary attack bonus, and each enemy may only be targeted by a single arrow.
 
-**Arrow of Death**  **(Su)** : At 10th level, an arcane archer can create a special type of_ [slaying arrow](../magicItems/weapons#_slaying-arrow) _that forces the target, if damaged by the arrow's attack, to make a [Fortitude](../combat#_fortitude) save or be slain immediately. The DC of this save is equal to 20 + the arcane archer's [Charisma](../gettingStarted#_charisma-new) modifier. It takes 1 day to make a _ [slaying arrow](../magicItems/weapons#_slaying-arrow)_, and the arrow only functions for the arcane archer who created it. The _ [slaying arrow](../magicItems/weapons#_slaying-arrow) _lasts no longer than 1 year, and the archer can only have one such arrow in existence at a time.
+**Arrow of Death**  **(Su)** : At 10th level, an arcane archer can create a special type of_ [slaying arrow](../magicItems_dir/weapons#_slaying-arrow) _that forces the target, if damaged by the arrow's attack, to make a [Fortitude](../combat#_fortitude) save or be slain immediately. The DC of this save is equal to 20 + the arcane archer's [Charisma](../gettingStarted#_charisma-new) modifier. It takes 1 day to make a _ [slaying arrow](../magicItems_dir/weapons#_slaying-arrow)_, and the arrow only functions for the arcane archer who created it. The _ [slaying arrow](../magicItems_dir/weapons#_slaying-arrow) _lasts no longer than 1 year, and the archer can only have one such arrow in existence at a time.
 

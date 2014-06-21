@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic/spells/terribleRemorse
+title: ultimateMagic_dir/spells_dir/terribleRemorse
 ---
 Terrible Remorse
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, cleric 4, inquisitor 3, sorcerer/wizard 4
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, cleric 4, inquisitor 3, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** 1 living creature
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will partial (see text); **Spell Resistance** yes
 

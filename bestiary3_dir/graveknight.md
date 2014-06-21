@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/graveknight
+title: bestiary3_dir/graveknight
 ---
 # Graveknight
 
@@ -10,11 +10,11 @@ Graveknight CR 11
 
 XP 12,800
 
-[Human](monsters/creatureTypes#_human-subtype) graveknight fighter 10
+[Human](monsters_dir/creatureTypes#_human-subtype) graveknight fighter 10
 
-LE Medium undead ( [augmented](monsters/creatureTypes#_augmented-subtype) humanoid)
+LE Medium undead ( [augmented](monsters_dir/creatureTypes#_augmented-subtype) humanoid)
 
-**Init** +5; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +19
+**Init** +5; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +19
 
 **Aura** sacrilegious aura (30 ft., DC 19)
 
@@ -24,17 +24,17 @@ Defense
 
 **hp** 139 (10d10+80)
 
-**Fort** +13, **Ref** +6, **Will** +6; +3 vs. [fear](monsters/universalMonsterRules#_fear-(su-or-sp))
+**Fort** +13, **Ref** +6, **Will** +6; +3 vs. [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp))
 
-**Defensive Abilities** bravery +3, channel [resistance](monsters/universalMonsterRules#_resistance) +4, rejuvenation; **DR** 10/magic; **Immune** acid, [cold](monsters/creatureTypes#_cold-subtype), electricity, undead traits; **SR** 22
+**Defensive Abilities** bravery +3, channel [resistance](monsters_dir/universalMonsterRules#_resistance) +4, rejuvenation; **DR** 10_dir/magic; **Immune** acid, [cold](monsters_dir/creatureTypes#_cold-subtype), electricity, undead traits; **SR** 22
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 greatsword_ +25/+20 (2d6+19 plus 2d6 acid)
+**Melee** _+1 greatsword_ +25_dir/+20 (2d6+19 plus 2d6 acid)
 
-**Ranged** composite longbow +14/+9 (1d8+11/×3)
+**Ranged** composite longbow +14_dir/+9 (1d8+11_dir/×3)
 
 **Special Attacks** channel destruction, devastating blast (6d6 acid, DC 19), undead mastery (DC 19), weapon training (heavy blades +2, bows +1)
 
@@ -46,7 +46,7 @@ Statistics
 
 **Feats** [Cleave](feats#_cleave), [Critical Focus](feats#_critical-focus), [Dazzling Display](feats#_dazzling-display), [Greater Weapon Focus](feats#_great-weapon-focus) (greatsword), [Improved Initiative](feats#_improved-initiative)B, [Mounted Combat](feats#_mounted-combat)B, [Power Attack](feats#_power-attack), [Ride-By AttackB,](feats#_ride-by-attack) [Shatter Defenses](feats#_shatter-defenses), [Spirited Charge](feats#_spirited-charge), [Toughness](feats#_toughness)B, [Trample](feats#_trample), [Unseat](feats#_unseat), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (greatsword), [Weapon Specialization](feats#_weapon-specialization) (greatsword)
 
-**Skills** [Climb](skills/climb#_climb) +13, [Intimidate](skills/intimidate#_intimidate) +25, [Knowledge](skills/knowledge#_knowledge) (nobility) +12, [Perception](skills/perception#_perception) +19, [Ride](skills/ride#_ride) +19, [Swim](skills/swim#_swim) +13; **Racial Modifiers** +8 [Intimidate](skills/intimidate#_intimidate), +8 [Perception](skills/perception#_perception), +8 [Ride](skills/ride#_ride)
+**Skills** [Climb](skills_dir/climb#_climb) +13, [Intimidate](skills_dir/intimidate#_intimidate) +25, [Knowledge](skills_dir/knowledge#_knowledge) (nobility) +12, [Perception](skills_dir/perception#_perception) +19, [Ride](skills_dir/ride#_ride) +19, [Swim](skills_dir/swim#_swim) +13; **Racial Modifiers** +8 [Intimidate](skills_dir/intimidate#_intimidate), +8 [Perception](skills_dir/perception#_perception), +8 [Ride](skills_dir/ride#_ride)
 
 **Languages** Common, Dwarven, Infernal
 
@@ -58,7 +58,7 @@ Ecology
 
 **Organization** solitary or troop (graveknight plus 12–24 skeletal champions)
 
-**Treasure** NPC gear (_+1 full plate_, _+1 greatsword_, composite longbow [+8 Str] with 20 arrows, _ [belt of](magicItems/wondrousItems#_belt-of-giant-strength) [giant](monsters/creatureTypes#_giant-subtype) strength +2_, other treasure)
+**Treasure** NPC gear (_+1 full plate_, _+1 greatsword_, composite longbow [+8 Str] with 20 arrows, _ [belt of](magicItems_dir/wondrousItems#_belt-of-giant-strength) [giant](monsters_dir/creatureTypes#_giant-subtype) strength +2_, other treasure)
 
 Undying tyrants and eternal champions of the undead, graveknights arise from the corpses of the most nefarious warlords and disgraced heroes—villains too merciless to submit to the shackles of death. They bear the same weapons and regalia they did in life, though warped or empowered by their profane resurrection. The legions they once held also flock to them in death, ready to serve their wicked ambitions once more. A graveknight's essence is fundamentally tied to its armor, the bloodstained trappings of its battle lust. This armor becomes an icon of its perverse natures, transforming into a monstrous second skin over the husk of desiccated flesh and scarred bone locked within.
 
@@ -76,13 +76,13 @@ Undying tyrants and eternal champions of the undead, graveknights arise from the
 
 **Aura** : A graveknight emanates the following aura.
 
-_Sacrilegious Aura (Su)_: A graveknight constantly exudes an aura of intense evil and negative energy in a 30-foot radius. This aura functions as the spell _ [desecrate](spells/desecrate#_desecrate)_ and uses the graveknight's armor as an altar of sorts to double the effects granted. The graveknight constantly gains the benefits of this effect (including the bonus hit points, as this aura is part of the graveknight's creation). In addition, this miasma of fell energies hinders the channeling of positive energy. Any creature that attempts to summon positive energy in this area—such as through a cleric's channel energy ability, a paladin's lay on hands, or any spell with the healing subtype—must make a concentration check with a DC equal to 10 + 1/2 the graveknight's Hit Dice + the graveknight's Charisma modifier. If the character fails, the effect is expended but does not function.
+_Sacrilegious Aura (Su)_: A graveknight constantly exudes an aura of intense evil and negative energy in a 30-foot radius. This aura functions as the spell _ [desecrate](spells_dir/desecrate#_desecrate)_ and uses the graveknight's armor as an altar of sorts to double the effects granted. The graveknight constantly gains the benefits of this effect (including the bonus hit points, as this aura is part of the graveknight's creation). In addition, this miasma of fell energies hinders the channeling of positive energy. Any creature that attempts to summon positive energy in this area—such as through a cleric's channel energy ability, a paladin's lay on hands, or any spell with the healing subtype—must make a concentration check with a DC equal to 10 + 1_dir/2 the graveknight's Hit Dice + the graveknight's Charisma modifier. If the character fails, the effect is expended but does not function.
 
 **Armor Class** : Natural armor improves by +4.
 
 **Hit Dice** : Change all racial Hit Dice to d8s. Class Hit Dice are unaffected. As an undead, a graveknight uses its Charisma modifier to determine bonus hit points.
 
-**Defensive Abilities** : A graveknight gains channel resistance +4; DR 10/magic; and immunity to cold, electricity, and any additional energy type noted by its ruinous revivification special quality. A graveknight also gains spell resistance equal to its augmented CR + 11.
+**Defensive Abilities** : A graveknight gains channel resistance +4; DR 10_dir/magic; and immunity to cold, electricity, and any additional energy type noted by its ruinous revivification special quality. A graveknight also gains spell resistance equal to its augmented CR + 11.
 
 The graveknight also gains the following ability.
 
@@ -90,25 +90,25 @@ _Rejuvenation (Su)_: One day after a graveknight is destroyed, its armor begins 
 
 **Attacks** : A graveknight gains a slam attack if the base creature didn't have one. Damage for the slam depends on the graveknight's size (see _Bestiary_ 302).
 
-**Special Attacks** : A graveknight gains the following special attacks. Save DCs are equal to 10 + 1/2 the graveknight's HD + the graveknight's Charisma modifier unless otherwise noted.
+**Special Attacks** : A graveknight gains the following special attacks. Save DCs are equal to 10 + 1_dir/2 the graveknight's HD + the graveknight's Charisma modifier unless otherwise noted.
 
-_Channel [Destruction](spells/destruction#_destruction) (Su)_: Any weapon a graveknight wields seethes with energy, and deals an additional 1d6 points of damage for every 4 Hit Dice the graveknight has. This additional damage is of the energy type determined by the ruinous revivification special quality.
+_Channel [Destruction](spells_dir/destruction#_destruction) (Su)_: Any weapon a graveknight wields seethes with energy, and deals an additional 1d6 points of damage for every 4 Hit Dice the graveknight has. This additional damage is of the energy type determined by the ruinous revivification special quality.
 
 _Devastating Blast (Su)_: Three times per day, the graveknight may unleash a 30-foot cone of energy as a standard action. This blast deals 2d6 points of damage for every 3 Hit Dice a graveknight has (Reflex for half). This damage is of the energy type determined by the graveknight's ruinous revivification special quality.
 
 _Undead Mastery (Su)_: As a standard action, a graveknight can attempt to bend any undead creature within 50 feet to its will. The targeted undead must succeed at a Will save or fall under the graveknight's control. This control is permanent for unintelligent undead; an undead with an Intelligence score is allowed an additional save every day to break free from the graveknight's control. A creature that successfully saves cannot be affected again by the same graveknight's undead mastery for 24 hours.
 
-A graveknight can control 5 Hit Dice of undead creatures for every Hit Die it has. If the graveknight exceeds this number, the excess from earlier uses of the ability becomes uncontrolled, as per _ [animate dead](spells/animateDead#_animate-dead)_.
+A graveknight can control 5 Hit Dice of undead creatures for every Hit Die it has. If the graveknight exceeds this number, the excess from earlier uses of the ability becomes uncontrolled, as per _ [animate dead](spells_dir/animateDead#_animate-dead)_.
 
 **Special Qualities** : A graveknight gains the following.
 
-_Phantom [Mount](spells/mount#_mount) (Su)_: Once per hour, a graveknight can summon a skeletal horse similar to a _ [phantom steed](spells/phantomSteed#_phantom-steed)_. This mount is more real than a typical _ [phantom steed](spells/phantomSteed#_phantom-steed)_, and can carry one additional rider. The mount's powers are based on the graveknight's total Hit Dice rather than caster level. A graveknight's mount looks distinctive and always appears the same each time it is summoned. If the mount is destroyed, it can be summoned again with full hit points 1 hour later.
+_Phantom [Mount](spells_dir/mount#_mount) (Su)_: Once per hour, a graveknight can summon a skeletal horse similar to a _ [phantom steed](spells_dir/phantomSteed#_phantom-steed)_. This mount is more real than a typical _ [phantom steed](spells_dir/phantomSteed#_phantom-steed)_, and can carry one additional rider. The mount's powers are based on the graveknight's total Hit Dice rather than caster level. A graveknight's mount looks distinctive and always appears the same each time it is summoned. If the mount is destroyed, it can be summoned again with full hit points 1 hour later.
 
 _Ruinous Revivification (Su)_: At the time of its creation, the graveknight chooses one of the following energy types: acid, cold, electricity, or fire. This energy type should be relevant to the graveknight's life or death, defaulting to fire if none are especially appropriate. This energy type influences the effects of several of a graveknight's special abilities.
 
 **Ability Scores** : Str +6, Int +2, Wis +4, Cha +4. As an undead creature, a graveknight has no Constitution score.
 
-**Skills** : Graveknights gain a +8 racial bonus on [Intimidate](skills/intimidate#_intimidate), [Perception](skills/perception#_perception), and [Ride](skills/ride#_ride) checks.
+**Skills** : Graveknights gain a +8 racial bonus on [Intimidate](skills_dir/intimidate#_intimidate), [Perception](skills_dir/perception#_perception), and [Ride](skills_dir/ride#_ride) checks.
 
 **Feats** : Graveknights gain [Improved Initiative](feats#_improved-initiative), [Mounted Combat](feats#_mounted-combat), Ride-By Attack, and [Toughness](feats#_toughness) as bonus feats.
 

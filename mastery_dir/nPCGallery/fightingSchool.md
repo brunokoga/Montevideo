@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mastery/nPCGallery/fightingSchool
+title: mastery_dir/nPCGallery_dir/fightingSchool
 ---
 # Fighting School
 
@@ -14,7 +14,7 @@ Human monk 2
 
 LN Medium humanoid
 
-**Init** +2; **Senses** [Perception](../../skills/perception#_perception) +7
+**Init** +2; **Senses** [Perception](../../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -30,11 +30,11 @@ LN Medium humanoid
 
 **Speed** 30 ft.
 
-**Melee** unarmed strike +3 (1d6+2) or unarmed strike flurry of blows +2/+2 (1d6+2) or mwk shortspear +4 (1d6+2)
+**Melee** unarmed strike +3 (1d6+2) or unarmed strike flurry of blows +2_dir/+2 (1d6+2) or mwk shortspear +4 (1d6+2)
 
-**Ranged** mwk light crossbow +4 (1d8/19–20) or mwk shortspear +4 (1d6+2)
+**Ranged** mwk light crossbow +4 (1d8_dir/19–20) or mwk shortspear +4 (1d6+2)
 
-**Special Attacks** flurry of blows, stunning fist (2/day, DC 13)
+**Special Attacks** flurry of blows, stunning fist (2_dir/day, DC 13)
 
 **Statistics**
 
@@ -44,11 +44,11 @@ LN Medium humanoid
 
 **Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Deflect Arrows](../../feats#_deflect-arrows), [Dodge](../../feats#_dodge), [Improved Unarmed Strike](../../feats#_improved-unarmed-strike), [Stand Still](../../feats#_stand-still), [Stunning Fist](../../feats#_stunning-fist)
 
-**Skills** [Acrobatics](../../skills/acrobatics#_acrobatics) +7, [Climb](../../skills/climb#_climb) +6, [Escape Artist](../../skills/escapeArtist#_escape-artist) +7, [Perception](../../skills/perception#_perception) +7, [Sense Motive](../../skills/senseMotive#_sense-motive) +7, [Stealth](../../skills/stealth#_stealth) +6
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +7, [Climb](../../skills_dir/climb#_climb) +6, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +7, [Perception](../../skills_dir/perception#_perception) +7, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +7, [Stealth](../../skills_dir/stealth#_stealth) +6
 
 **Languages** Common
 
-**Combat Gear** _oil of [magic fang](../../spells/magicFang#_magic-fang) +1_, _potion of [cure light wounds](../../spells/cureLightWounds#_cure-light-wounds)_, alchemist's fire (2); **Other Gear** masterwork light crossbow with 10 bolts, masterwork shortspear, 3 gp
+**Combat Gear** _oil of [magic fang](../../spells_dir/magicFang#_magic-fang) +1_, _potion of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_, alchemist's fire (2); **Other Gear** masterwork light crossbow with 10 bolts, masterwork shortspear, 3 gp
 
 **Boon** Initiates can assist the PCs in a single fight or offer the PCs free temporary lodging at their academy.
 
@@ -68,7 +68,7 @@ Human monk 5
 
 LN Medium humanoid
 
-**Init** +2; **Senses** [Perception](../../skills/perception#_perception) +12
+**Init** +2; **Senses** [Perception](../../skills_dir/perception#_perception) +12
 
 **Defense**
 
@@ -84,11 +84,11 @@ LN Medium humanoid
 
 **Speed** 40 ft.
 
-**Melee** unarmed strike +5 (1d8+1) or unarmed strike flurry of blows +5/+5 (1d8+1) or kama +5 (1d6+1) or kama flurry of blows +5/+5 (1d6+1)
+**Melee** unarmed strike +5 (1d8+1) or unarmed strike flurry of blows +5_dir/+5 (1d8+1) or kama +5 (1d6+1) or kama flurry of blows +5_dir/+5 (1d6+1)
 
-**Ranged** mwk light crossbow +6 (1d8/19–20)
+**Ranged** mwk light crossbow +6 (1d8_dir/19–20)
 
-**Special Attacks** flurry of blows, stunning fist (5/day, DC 16, fatigued)
+**Special Attacks** flurry of blows, stunning fist (5_dir/day, DC 16, fatigued)
 
 **Statistics**
 
@@ -98,13 +98,13 @@ LN Medium humanoid
 
 **Feats** [Blind-Fight](../../feats#_blind-fight), [Combat Reflexes](../../feats#_combat-reflexes), [Deflect Arrows](../../feats#_deflect-arrows), [Dodge](../../feats#_dodge), [Improved Unarmed Strike](../../feats#_improved-unarmed-strike), [Scorpion Style](../../feats#_scorpion-style), [Stunning Fist](../../feats#_stunning-fist), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../../skills/acrobatics#_acrobatics) +10 (+19 jump), [Climb](../../skills/climb#_climb) +7, [Escape Artist](../../skills/escapeArtist#_escape-artist) +7, [Perception](../../skills/perception#_perception) +12, [Sense Motive](../../skills/senseMotive#_sense-motive) +12, [Stealth](../../skills/stealth#_stealth) +10
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +10 (+19 jump), [Climb](../../skills_dir/climb#_climb) +7, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +7, [Perception](../../skills_dir/perception#_perception) +12, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +12, [Stealth](../../skills_dir/stealth#_stealth) +10
 
 **Languages** Common
 
 **SQ** fast movement, high jump, _ki_ pool (6 points, magic), maneuver training, slow fall 20 ft., high jump
 
-**Combat Gear** alchemist's fire, smokesticks (2); **Other Gear** masterwork light crossbow with 10 bolts, kama, _ [bracers of armor](../../magicItems/wondrousItems#_bracers-of-armor)_ +1, _ [cloak of resistance](../../magicItems/wondrousItems#_cloak-of-resistance) +1_
+**Combat Gear** alchemist's fire, smokesticks (2); **Other Gear** masterwork light crossbow with 10 bolts, kama, _ [bracers of armor](../../magicItems_dir/wondrousItems#_bracers-of-armor)_ +1, _ [cloak of resistance](../../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_
 
 **Boon** A battle monk can assist the PCs in a single fight (or send several initiates) if it serves the interest of her academy or her master. A battle monk could also introduce the PCs to the master of her academy or to a diplomat, merchant, or other NPC from the land where her martial art originated.
 
@@ -122,7 +122,7 @@ Human monk 15
 
 LN Medium humanoid
 
-**Init** +3; **Senses** [Perception](../../skills/perception#_perception) +23
+**Init** +3; **Senses** [Perception](../../skills_dir/perception#_perception) +23
 
 **Defense**
 
@@ -138,11 +138,11 @@ LN Medium humanoid
 
 **Speed** 80 ft.
 
-**Melee** unarmed +15/+10/+5 (2d10+3/19–20 plus 1d6 electricity) or unarmed flurry of blows +17/+17/+12/+12/+7/+7 (2d10+3/19–20 plus 1d6 electricity) or kama +14/+9/+4 (1d6+3) or kama flurry of blows +16/+16/+11/+11/+6/+6 (1d6+3)
+**Melee** unarmed +15_dir/+10_dir/+5 (2d10+3_dir/19–20 plus 1d6 electricity) or unarmed flurry of blows +17_dir/+17_dir/+12_dir/+12_dir/+7_dir/+7 (2d10+3_dir/19–20 plus 1d6 electricity) or kama +14_dir/+9_dir/+4 (1d6+3) or kama flurry of blows +16_dir/+16_dir/+11_dir/+11_dir/+6_dir/+6 (1d6+3)
 
 **Ranged** +1 sling +15 (1d4+4)
 
-**Special Attacks** flurry of blows, quivering palm (DC 22), stunning fist (16/day, DC 22, fatigued, sickened, staggered)
+**Special Attacks** flurry of blows, quivering palm (DC 22), stunning fist (16_dir/day, DC 22, fatigued, sickened, staggered)
 
 **Statistics**
 
@@ -150,15 +150,15 @@ LN Medium humanoid
 
 **Base Atk** +11; **CMB** +18 (+22 to trip); **CMD** 38 (40 vs. trip)
 
-**Feats** [Gorgon's Fist](../../feats#_gorgon-s-fist), [Greater Trip](../../feats#_greater-trip), [Improved Critical](../../feats#_improved-critical) (unarmed strike), [Improved Trip](../../feats#_improved-trip), [Improved Unarmed Strike](../../feats#_improved-unarmed-strike), [Improved Vital Strike](../../feats#_improved-vital-strike), [Lunge](../../feats#_lunge), [Medusa's Wrath](../../feats#_medusa-s-wrath), [Power Attack](../../feats#_power-attack), [Scorpion Style](../../feats#_scorpion-style), [Skill Focus](../../feats#_skill-focus) ( [Acrobatics](../../skills/acrobatics#_acrobatics)), [Snatch Arrows](../../feats#_snatch-arrows), [Spring Attack](../../feats#_spring-attack), [Stunning Fist](../../feats#_stunning-fist), [Vital Strike](../../feats#_vital-strike), [Weapon Focus](../../feats#_weapon-focus) (unarmed strike)
+**Feats** [Gorgon's Fist](../../feats#_gorgon-s-fist), [Greater Trip](../../feats#_greater-trip), [Improved Critical](../../feats#_improved-critical) (unarmed strike), [Improved Trip](../../feats#_improved-trip), [Improved Unarmed Strike](../../feats#_improved-unarmed-strike), [Improved Vital Strike](../../feats#_improved-vital-strike), [Lunge](../../feats#_lunge), [Medusa's Wrath](../../feats#_medusa-s-wrath), [Power Attack](../../feats#_power-attack), [Scorpion Style](../../feats#_scorpion-style), [Skill Focus](../../feats#_skill-focus) ( [Acrobatics](../../skills_dir/acrobatics#_acrobatics)), [Snatch Arrows](../../feats#_snatch-arrows), [Spring Attack](../../feats#_spring-attack), [Stunning Fist](../../feats#_stunning-fist), [Vital Strike](../../feats#_vital-strike), [Weapon Focus](../../feats#_weapon-focus) (unarmed strike)
 
-**Skills** [Acrobatics](../../skills/acrobatics#_acrobatics) +25 (+60 jump), [Climb](../../skills/climb#_climb) +10, [Escape Artist](../../skills/escapeArtist#_escape-artist) +10, [Heal](../../skills/heal#_heal) +10, [Knowledge](../../skills/knowledge#_knowledge) (history) +5, [Knowledge](../../skills/knowledge#_knowledge) (religion) +5, [Perception](../../skills/perception#_perception) +23, [Profession](../../skills/profession#_profession) (gardener) +10, [Sense Motive](../../skills/senseMotive#_sense-motive) +20, [Stealth](../../skills/stealth#_stealth) +20, [Survival](../../skills/survival#_survival) +6, [Swim](../../skills/swim#_swim) +10
+**Skills** [Acrobatics](../../skills_dir/acrobatics#_acrobatics) +25 (+60 jump), [Climb](../../skills_dir/climb#_climb) +10, [Escape Artist](../../skills_dir/escapeArtist#_escape-artist) +10, [Heal](../../skills_dir/heal#_heal) +10, [Knowledge](../../skills_dir/knowledge#_knowledge) (history) +5, [Knowledge](../../skills_dir/knowledge#_knowledge) (religion) +5, [Perception](../../skills_dir/perception#_perception) +23, [Profession](../../skills_dir/profession#_profession) (gardener) +10, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +20, [Stealth](../../skills_dir/stealth#_stealth) +20, [Survival](../../skills_dir/survival#_survival) +6, [Swim](../../skills_dir/swim#_swim) +10
 
 **Languages** Common
 
 **SQ** abundant step, fast movement, high jump, _ki_ pool (12 points, lawful, magic), maneuver training, slow fall 70 ft., wholeness of body
 
-**Combat Gear** _oil of [align weapon](../../spells/alignWeapon#_align-weapon)_ (2), _potion of [cure light wounds](../../spells/cureLightWounds#_cure-light-wounds)_ (2) **Other Gear** kama, _+1 sling_ with 10 bullets, _ [amulet of mighty fists](../../magicItems/wondrousItems#_amulet-of-mighty-fists)_ (shock), _ [belt of physical perfection](../../magicItems/wondrousItems#_belt-of-physical-perfection) +2_, _ [bracers of armor](../../magicItems/wondrousItems#_bracers-of-armor) +1_, _ [cloak of resistance](../../magicItems/wondrousItems#_cloak-of-resistance) +1_, _ [headband of inspired wisdom](../../magicItems/wondrousItems#_headband-of-inspired-wisdom) +2_, _monk's robe_, _ [ring of protection](../../magicItems/rings#_ring-of-protection) +1_
+**Combat Gear** _oil of [align weapon](../../spells_dir/alignWeapon#_align-weapon)_ (2), _potion of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_ (2) **Other Gear** kama, _+1 sling_ with 10 bullets, _ [amulet of mighty fists](../../magicItems_dir/wondrousItems#_amulet-of-mighty-fists)_ (shock), _ [belt of physical perfection](../../magicItems_dir/wondrousItems#_belt-of-physical-perfection) +2_, _ [bracers of armor](../../magicItems_dir/wondrousItems#_bracers-of-armor) +1_, _ [cloak of resistance](../../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [headband of inspired wisdom](../../magicItems_dir/wondrousItems#_headband-of-inspired-wisdom) +2_, _monk's robe_, _ [ring of protection](../../magicItems_dir/rings#_ring-of-protection) +1_
 
 **Boon** Masters can lend their own and their school's reputation to the PCs, granting a +2 bonus for 1 month on [Leadership](../../feats#_leadership) checks to attract followers or to attract a monk cohort.
 

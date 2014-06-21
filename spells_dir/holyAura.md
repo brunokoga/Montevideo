@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/holyAura
+title: spells_dir/holyAura
 ---
  **Holy Aura**
 
@@ -12,9 +12,9 @@ title: spells/holyAura
 
 **Range** 20 ft.
 
-**Targets** one creature/level in a 20-ft.-radius burst centered on you
+**Targets** one creature_dir/level in a 20-ft.-radius burst centered on you
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** see text; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 
@@ -26,5 +26,5 @@ Second, each warded creature gains [spell resistance](../glossary#_spell-resista
 
 Third, the abjuration protects the recipient from possession and mental influence, just as _ [protection from evil](protectionFromEvil#_protection-from-evil) _does.
 
-Finally, if an evil creature succeeds on a melee attack against a creature warded by a _holy aura_, the offending attacker is [blinded](../glossary#_blinded) ( [Fortitude](../combat#_fortitude) save negates, as _ [blindness/deafness](blindnessDeafness#_blindness-deafness)_, but against _holy aura's _save DC).
+Finally, if an evil creature succeeds on a melee attack against a creature warded by a _holy aura_, the offending attacker is [blinded](../glossary#_blinded) ( [Fortitude](../combat#_fortitude) save negates, as _ [blindness_dir/deafness](blindnessDeafness#_blindness-deafness)_, but against _holy aura's _save DC).
 

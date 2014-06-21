@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/speakWithDead
+title: spells_dir/speakWithDead
 ---
  **Speak with Dead**
 
@@ -14,7 +14,7 @@ title: spells/speakWithDead
 
 **Target** one dead creature
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

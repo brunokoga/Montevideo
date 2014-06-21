@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters/archon
+title: monsters_dir/archon
 ---
 # Archon
 
@@ -24,9 +24,9 @@ _This canine-headed humanoid's well-groomed appearance and polished greatsword s
 
 LG Medium [outsider](creatureTypes#_outsider) ( [archon](creatureTypes#_archon-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [good](creatureTypes#_good-subtype), [lawful](creatureTypes#_lawful-subtype))
 
-**Init** +4; **Senses** darkvision 60 ft., _ [detect evil](../spells/detectEvil#_detect-evil)_, low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +10
+**Init** +4; **Senses** darkvision 60 ft., _ [detect evil](../spells_dir/detectEvil#_detect-evil)_, low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
 
-**Aura** aura of menace (DC 16), _ [magic circle against evil](../spells/magicCircleAgainstEvil#_magic-circle-against-evil)_
+**Aura** aura of menace (DC 16), _ [magic circle against evil](../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_
 
 **Defense**
 
@@ -36,19 +36,19 @@ LG Medium [outsider](creatureTypes#_outsider) ( [archon](creatureTypes#_archon-s
 
 **Fort** +6, **Ref** +5, **Will** +5; +4 vs. poison, +2 resistance vs. evil
 
-**DR** 10/evil; **Immune** electricity, petrification; **SR** 15
+**DR** 10_dir/evil; **Immune** electricity, petrification; **SR** 15
 
 **Offense**
 
 **Speed** 40 ft.
 
-**Melee** bite +8 (1d8+3), slam +8 (1d4+1) or mwk greatsword +9/+4 (2d6+3), bite +3 (1d8+2)
+**Melee** bite +8 (1d8+3), slam +8 (1d4+1) or mwk greatsword +9_dir/+4 (2d6+3), bite +3 (1d8+2)
 
 **[Spell-Like Abilities](universalMonsterRules#_spell-like-abilities)** (CL 6th)
 
-Constant—_ [detect evil](../spells/detectEvil#_detect-evil), [magic circle against evil](../spells/magicCircleAgainstEvil#_magic-circle-against-evil)_
+Constant—_ [detect evil](../spells_dir/detectEvil#_detect-evil), [magic circle against evil](../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_
 
-At Will—_ [aid](../spells/aid#_aid)_, _ [continual flame](../spells/continualFlame#_continual-flame)_, _ [greater teleport](../spells/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [message](../spells/message#_message)_
+At Will—_ [aid](../spells_dir/aid#_aid)_, _ [continual flame](../spells_dir/continualFlame#_continual-flame)_, _ [greater teleport](../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [message](../spells_dir/message#_message)_
 
 **Statistics**
 
@@ -58,7 +58,7 @@ At Will—_ [aid](../spells/aid#_aid)_, _ [continual flame](../spells/continualF
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +9, [Intimidate](../skills/intimidate#_intimidate) +10, [Perception](../skills/perception#_perception) +10, [Sense Motive](../skills/senseMotive#_sense-motive) +10, [Stealth](../skills/stealth#_stealth) +13, [Survival](../skills/survival#_survival) +14; **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth), +4 [Survival](../skills/survival#_survival)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +9, [Intimidate](../skills_dir/intimidate#_intimidate) +10, [Perception](../skills_dir/perception#_perception) +10, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +10, [Stealth](../skills_dir/stealth#_stealth) +13, [Survival](../skills_dir/survival#_survival) +14; **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth), +4 [Survival](../skills_dir/survival#_survival)
 
 **Languages** Celestial, Draconic, Infernal; truespeech
 
@@ -74,7 +74,7 @@ At Will—_ [aid](../spells/aid#_aid)_, _ [continual flame](../spells/continualF
 
 **Special Abilities**
 
-**Change Shape (Su)** A hound archon can assume any canine form of Small to Large size, as if using _ [beast shape II](../spells/beastShape#_beast-shape-ii)_. While in canine form, the hound archon loses its bite, slam, and greatsword attacks, but gains the bite attack of the form it chooses. For the purposes of this ability, canines include any dog-like or wolf-like creature of the [animal](creatureTypes#_animal) type.
+**Change Shape (Su)** A hound archon can assume any canine form of Small to Large size, as if using _ [beast shape II](../spells_dir/beastShape#_beast-shape-ii)_. While in canine form, the hound archon loses its bite, slam, and greatsword attacks, but gains the bite attack of the form it chooses. For the purposes of this ability, canines include any dog-like or wolf-like creature of the [animal](creatureTypes#_animal) type.
 
 Hound archons look like well-muscled humans with canine heads typically resembling those of noble-looking wolves or dogs. Well trained, they prefer to make use of their greatswords in battle, though they are equally adept with their natural weapons. Hound archons loathe killing mortals and prefer to disarm or incapacitate even evil individuals when they can. Against fiends and the irredeemably corrupt, though, they show no mercy.
 
@@ -92,7 +92,7 @@ _Shedding a warm and calming radiance, this orb of light moves with a preternatu
 
 LG Small [outsider](creatureTypes#_outsider) ( [archon](creatureTypes#_archon-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [good](creatureTypes#_good-subtype), [lawful](creatureTypes#_lawful-subtype))
 
-**Init** +4; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +4
+**Init** +4; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +4
 
 **Aura** aura of menace (DC 13)
 
@@ -104,7 +104,7 @@ LG Small [outsider](creatureTypes#_outsider) ( [archon](creatureTypes#_archon-su
 
 **Fort** +4, **Ref** +3, **Will** +0; +4 vs. poison, +2 resistance vs. evil
 
-**DR** 10/evil; **Immune** electricity, petrification
+**DR** 10_dir/evil; **Immune** electricity, petrification
 
 **Offense**
 
@@ -114,7 +114,7 @@ LG Small [outsider](creatureTypes#_outsider) ( [archon](creatureTypes#_archon-su
 
 **[Spell-Like Abilities](universalMonsterRules#_spell-like-abilities)** (CL 3rd):
 
-At Will—_ [aid](../spells/aid#_aid)_, _ [continual flame](../spells/continualFlame#_continual-flame)_, _ [detect evil](../spells/detectEvil#_detect-evil), [greater teleport](../spells/teleport#_teleport-greater) _(self plus 50 lbs. of objects only)
+At Will—_ [aid](../spells_dir/aid#_aid)_, _ [continual flame](../spells_dir/continualFlame#_continual-flame)_, _ [detect evil](../spells_dir/detectEvil#_detect-evil), [greater teleport](../spells_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only)
 
 **Statistics**
 
@@ -124,7 +124,7 @@ At Will—_ [aid](../spells/aid#_aid)_, _ [continual flame](../spells/continualF
 
 **Feats** [Improved Initiative](../feats#_improved-initiative)
 
-**Skills** [Diplomacy](../skills/diplomacy#_diplomacy) +5, [Fly](../skills/fly#_fly) +14, [Knowledge](../skills/knowledge#_knowledge) (planes) +3, [Perception](../skills/perception#_perception) +4, [Sense Motive](../skills/senseMotive#_sense-motive) +5
+**Skills** [Diplomacy](../skills_dir/diplomacy#_diplomacy) +5, [Fly](../skills_dir/fly#_fly) +14, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +3, [Perception](../skills_dir/perception#_perception) +4, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +5
 
 **Languages** Celestial, Draconic, Infernal; truespeech
 
@@ -140,7 +140,7 @@ At Will—_ [aid](../spells/aid#_aid)_, _ [continual flame](../spells/continualF
 
 **Special Abilities**
 
-**Gestalt (Su)** Nine lantern archons can fuse together as a full-round action, becoming a single Large entity that is more powerful than the individual archons that make up its parts. Looking like a whirlwind of dancing firefly lights, the gestalt has all the powers and abilities of a Large air elemental plus the following: archon, good, and lawful subtypes; archon traits (aura of menace DC 16); 2 light rays (2d6); DR 5/evil and magic. The archons can remain in this form for 2d4 rounds. When the gestalt separates back into individual lantern archons, its remaining hit points are divided evenly among them; if it had less than 9 hit points, some of the component archons die when the gestalt ends.
+**Gestalt (Su)** Nine lantern archons can fuse together as a full-round action, becoming a single Large entity that is more powerful than the individual archons that make up its parts. Looking like a whirlwind of dancing firefly lights, the gestalt has all the powers and abilities of a Large air elemental plus the following: archon, good, and lawful subtypes; archon traits (aura of menace DC 16); 2 light rays (2d6); DR 5_dir/evil and magic. The archons can remain in this form for 2d4 rounds. When the gestalt separates back into individual lantern archons, its remaining hit points are divided evenly among them; if it had less than 9 hit points, some of the component archons die when the gestalt ends.
 
 **Light Ray (Ex)** A lantern archon can fire beams of light to damage foes. These light rays have a maximum range of 30 feet. This attack overcomes damage reduction of any type.
 
@@ -160,9 +160,9 @@ _Lithe and beautiful, with skin the color of marble, this being hovers upon powe
 
 LG Medium [outsider](creatureTypes#_outsider) ( [archon](creatureTypes#_archon-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [good](creatureTypes#_good-subtype), [lawful](creatureTypes#_lawful-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +22
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +22
 
-**Aura** aura of menace (DC 22), _ [magic circle against evil](../spells/magicCircleAgainstEvil#_magic-circle-against-evil)_
+**Aura** aura of menace (DC 22), _ [magic circle against evil](../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_
 
 **Defense**
 
@@ -172,39 +172,39 @@ LG Medium [outsider](creatureTypes#_outsider) ( [archon](creatureTypes#_archon-s
 
 **Fort** +16, **Ref** +9, **Will** +14; +4 vs. poison, +2 resistance vs. evil
 
-**DR** 10/evil; **Immune** electricity, petrification; **SR** 25
+**DR** 10_dir/evil; **Immune** electricity, petrification; **SR** 25
 
 **Offense**
 
 **Speed** 40 ft., fly 90 ft. (good)
 
-**Melee** _+4 greatsword_ +23/+18/+13 (2d6+11/19–20)
+**Melee** _+4 greatsword_ +23_dir/+18_dir/+13 (2d6+11_dir/19–20)
 
 **Special Attacks** trumpet
 
 **[Spell-Like Abilities](universalMonsterRules#_spell-like-abilities)** (CL 14th)
 
-Constant—_ [magic circle against evil](../spells/magicCircleAgainstEvil#_magic-circle-against-evil)_
+Constant—_ [magic circle against evil](../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_
 
-At will—_ [aid](../spells/aid#_aid)_, _ [continual flame](../spells/continualFlame#_continual-flame)_, _ [detect evil](../spells/detectEvil#_detect-evil)_, _ [greater teleport](../spells/teleport#_teleport-greater) _(self plus 50 lbs. of objects only), _ [message](../spells/message#_message)_
+At will—_ [aid](../spells_dir/aid#_aid)_, _ [continual flame](../spells_dir/continualFlame#_continual-flame)_, _ [detect evil](../spells_dir/detectEvil#_detect-evil)_, _ [greater teleport](../spells_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only), _ [message](../spells_dir/message#_message)_
 
 **Spells Prepared** (CL 14th)
 
-7th—_ [mass cure serious wounds](../spells/cureSeriousWounds#_cure-serious-wounds-mass)_ (2)
+7th—_ [mass cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds-mass)_ (2)
 
-6th—_ [banishment](../spells/banishment#_banishment)_ (DC 21), _ [heal](../spells/heal#_heal)_ (2)
+6th—_ [banishment](../spells_dir/banishment#_banishment)_ (DC 21), _ [heal](../spells_dir/heal#_heal)_ (2)
 
-5th—_ [dispel evil](../spells/dispelEvil#_dispel-evil)_ (DC 20), _ [mass cure light wounds](../spells/cureLightWounds#_cure-light-wounds-mass)_, _ [plane shift](../spells/planeShift#_plane-shift)_ (DC 20), _ [raise dead](../spells/raiseDead#_raise-dead)_
+5th—_ [dispel evil](../spells_dir/dispelEvil#_dispel-evil)_ (DC 20), _ [mass cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds-mass)_, _ [plane shift](../spells_dir/planeShift#_plane-shift)_ (DC 20), _ [raise dead](../spells_dir/raiseDead#_raise-dead)_
 
-4th—_ [dismissal](../spells/dismissal#_dismissal)_ (DC 19), _ [divine power](../spells/divinePower#_divine-power)_, _ [neutralize poison](../spells/neutralizePoison#_neutralize-poison)_ (DC 19), _ [spell immunity](../spells/spellImmunity#_spell-immunity)_
+4th—_ [dismissal](../spells_dir/dismissal#_dismissal)_ (DC 19), _ [divine power](../spells_dir/divinePower#_divine-power)_, _ [neutralize poison](../spells_dir/neutralizePoison#_neutralize-poison)_ (DC 19), _ [spell immunity](../spells_dir/spellImmunity#_spell-immunity)_
 
-3rd—_ [cure serious wounds](../spells/cureSeriousWounds#_cure-serious-wounds)_, _ [daylight](../spells/daylight#_daylight)_, _ [invisibility purge](../spells/invisibilityPurge#_invisibility-purge)_, _ [magic vestment](../spells/magicVestment#_magic-vestment)_, _ [protection from energy](../spells/protectionFromEnergy#_protection-from-energy)_
+3rd—_ [cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _ [daylight](../spells_dir/daylight#_daylight)_, _ [invisibility purge](../spells_dir/invisibilityPurge#_invisibility-purge)_, _ [magic vestment](../spells_dir/magicVestment#_magic-vestment)_, _ [protection from energy](../spells_dir/protectionFromEnergy#_protection-from-energy)_
 
-2nd—_ [bull's strength](../spells/bullSStrength#_bull-s-strength)_, _ [consecrate](../spells/consecrate#_consecrate)_, _ [cure moderate wounds](../spells/cureModerateWounds#_cure-moderate-wounds)_ (2), _ [lesser restoration](../spells/restoration#_restoration-lesser)_ (2), _ [owl's wisdom](../spells/owlSWisdom#_owl-s-wisdom)_
+2nd—_ [bull's strength](../spells_dir/bullSStrength#_bull-s-strength)_, _ [consecrate](../spells_dir/consecrate#_consecrate)_, _ [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds)_ (2), _ [lesser restoration](../spells_dir/restoration#_restoration-lesser)_ (2), _ [owl's wisdom](../spells_dir/owlSWisdom#_owl-s-wisdom)_
 
-1st—_ [bless](../spells/bless#_bless)_, _ [cure light wounds](../spells/cureLightWounds#_cure-light-wounds)_ (3), _ [divine favor](../spells/divineFavor#_divine-favor)_, _ [sanctuary](../spells/sanctuary#_sanctuary)_ (DC 16), _ [shield of faith](../spells/shieldOfFaith#_shield-of-faith)_
+1st—_ [bless](../spells_dir/bless#_bless)_, _ [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_ (3), _ [divine favor](../spells_dir/divineFavor#_divine-favor)_, _ [sanctuary](../spells_dir/sanctuary#_sanctuary)_ (DC 16), _ [shield of faith](../spells_dir/shieldOfFaith#_shield-of-faith)_
 
-0 (at will)—_ [detect magic](../spells/detectMagic#detect-magic)_, _ [purify food and drink](../spells/purifyFoodAndDrink#_purify-food-and-drink)_, _ [stabilize](../spells/stabilize#_stabilize)_, _ [virtue](../spells/virtue#_virtue)_
+0 (at will)—_ [detect magic](../spells_dir/detectMagic#detect-magic)_, _ [purify food and drink](../spells_dir/purifyFoodAndDrink#_purify-food-and-drink)_, _ [stabilize](../spells_dir/stabilize#_stabilize)_, _ [virtue](../spells_dir/virtue#_virtue)_
 
 **Statistics**
 
@@ -214,7 +214,7 @@ At will—_ [aid](../spells/aid#_aid)_, _ [continual flame](../spells/continualF
 
 **Feats** [Blind-Fight](../feats#_blind-fight), [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Persuasive](../feats#_persuasive), [Power Attack](../feats#_power-attack)
 
-**Skills** [Diplomacy](../skills/diplomacy#_diplomacy) +24, [Escape Artist](../skills/escapeArtist#_escape-artist) +17, [Fly](../skills/fly#_fly) +24, [Handle Animal](../skills/handleAnimal#_handle-animal) +20, [Knowledge](../skills/knowledge#_knowledge) (religion) +20, [Perception](../skills/perception#_perception) +22, [Perform](../skills/perform#_perform) (wind instruments) +20, [Sense Motive](../skills/senseMotive#_sense-motive) +24, [Stealth](../skills/stealth#_stealth) +20
+**Skills** [Diplomacy](../skills_dir/diplomacy#_diplomacy) +24, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +17, [Fly](../skills_dir/fly#_fly) +24, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +20, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +20, [Perception](../skills_dir/perception#_perception) +22, [Perform](../skills_dir/perform#_perform) (wind instruments) +20, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +24, [Stealth](../skills_dir/stealth#_stealth) +20
 
 **Languages** Celestial, Draconic, Infernal; truespeech
 

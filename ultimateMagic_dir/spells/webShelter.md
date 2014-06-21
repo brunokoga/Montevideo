@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic/spells/webShelter
+title: ultimateMagic_dir/spells_dir/webShelter
 ---
 Web Shelter
 
-**School** conjuration (creation); **Level** cleric 2, druid 2, ranger 2, sorcerer/wizard 2, summoner 2, witch 2
+**School** conjuration (creation); **Level** cleric 2, druid 2, ranger 2, sorcerer_dir/wizard 2, summoner 2, witch 2
 
 **Components** V, S, DF
 
 **Casting Time** 1 minute
 
-**Range** close (25 ft. + 5 ft./two levels)
+**Range** close (25 ft. + 5 ft._dir/two levels)
 
 **Effect** 5 ft.–10 ft. diameter web sphere or 5 ft.–20 ft. hemisphere
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hour_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 

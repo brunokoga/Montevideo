@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/sunbeam
+title: spells_dir/sunbeam
 ---
  **Sunbeam**
 
@@ -14,7 +14,7 @@ title: spells/sunbeam
 
 **Area** line from your hand
 
-**Duration** 1 round/level or until all beams are [exhausted](../glossary#_exhausted)
+**Duration** 1 round_dir/level or until all beams are [exhausted](../glossary#_exhausted)
 
 **Saving Throw** [Reflex](../combat#_reflex) negates and [Reflex](../combat#_reflex) half; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

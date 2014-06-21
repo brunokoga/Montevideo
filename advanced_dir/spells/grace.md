@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/grace
+title: advanced_dir/spells_dir/grace
 ---
  **Grace**
 

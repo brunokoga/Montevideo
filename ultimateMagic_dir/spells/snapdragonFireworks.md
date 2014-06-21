@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic/spells/snapdragonFireworks
+title: ultimateMagic_dir/spells_dir/snapdragonFireworks
 ---
 Snapdragon Fireworks
 
-**School** transmutation [fire, light]; **Level** bard 2, sorcerer/wizard 1
+**School** transmutation [fire, light]; **Level** bard 2, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
 **Components** S, V, M (a bundle of sulfur wrapped in cloth)
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Effect** dragon-shaped fireworks
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Reflex negates; **Spell Resistance** yes
 

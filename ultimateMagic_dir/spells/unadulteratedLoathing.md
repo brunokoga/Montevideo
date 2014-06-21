@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic/spells/unadulteratedLoathing
+title: ultimateMagic_dir/spells_dir/unadulteratedLoathing
 ---
 Unadulterated Loathing
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** antipaladin 2, bard 2, sorcerer/wizard 3, witch 3
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** antipaladin 2, bard 2, sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 
-**Duration** 1 day/level
+**Duration** 1 day_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/stoneToFlesh
+title: spells_dir/stoneToFlesh
 ---
  **Stone to Flesh**
 
-**School** transmutation; **Level** sorcerer/wizard 6
+**School** transmutation; **Level** sorcerer_dir/wizard 6
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a drop of blood mixed with earth)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target** one [petrified](../glossary#_petrified) creature or a cylinder of stone from 1 ft. to 3 ft. in diameter and up to 10 ft. long
 

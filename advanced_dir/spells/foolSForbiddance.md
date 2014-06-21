@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/foolSForbiddance
+title: advanced_dir/spells_dir/foolSForbiddance
 ---
  **Fool's Forbiddance**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/fester
+title: advanced_dir/spells_dir/fester
 ---
  **Fester**
 
@@ -10,11 +10,11 @@ title: advanced/spells/fester
 
 **Components** V, S, M (rotted meat)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one living creature
 
-**Duration** 1 round/level or 1 round; see text
+**Duration** 1 round_dir/level or 1 round; see text
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 
@@ -24,7 +24,7 @@ Necrotic energy permeates the target, blocking healing abilities. The subject ga
 
 **School** necromancy; **Level** inquisitor 6, witch 6
 
-**Target** one creature/level, no two of which can be more than 30 ft. apart
+**Target** one creature_dir/level, no two of which can be more than 30 ft. apart
 
 This spell functions as _fester_, except that it affects multiple foes.
 

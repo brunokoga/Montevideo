@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/changestaff
+title: spells_dir/changestaff
 ---
  **Changestaff**
 
@@ -14,7 +14,7 @@ title: spells/changestaff
 
 **Target** your touched staff
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hour_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

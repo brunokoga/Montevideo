@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters/solifugid
+title: additionalMonsters_dir/solifugid
 ---
 # Solifugid, Giant
 
@@ -10,9 +10,9 @@ Giant SolifugidCR 1
 
 **XP 400**
 
-N Small [vermin](monsters/creatureTypes#_vermin)
+N Small [vermin](monsters_dir/creatureTypes#_vermin)
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +4
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -38,7 +38,7 @@ Statistics
 
 **Base Atk** +1; **CMB** +1; **CMD** 13 (25 vs. trip)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +9, [Perception](additionalMonsters/../skills/perception#_perception) +4, [Stealth](additionalMonsters/../skills/stealth#_stealth) +10; **Racial Modifiers** +4 [Perception](additionalMonsters/../skills/perception#_perception), +4 [Stealth](additionalMonsters/../skills/stealth#_stealth)
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +9, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +10; **Racial Modifiers** +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception), +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
 
 Ecology
 
@@ -55,7 +55,7 @@ The following table lists the most common variants beyond the two presented abov
 [Table: Solifugid Variants]
 | Species | CR | Size | HD |
 | --- | --- | --- | --- |
-| Dog-eating solifugid | 1/2 | Tiny | 1 |
+| Dog-eating solifugid | 1_dir/2 | Tiny | 1 |
 | Yellow terror solifugid | 8 | Large | 10 |
 | Razormouth solifugid | 11 | Huge | 13 |
 | Banshee solifugid | 15 | Gargantuan | 16 |
@@ -72,9 +72,9 @@ Albino Cave SolifugidCR 4
 
 **XP 1,200**
 
-N Medium [vermin](monsters/creatureTypes#_vermin)
+N Medium [vermin](monsters_dir/creatureTypes#_vermin)
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +4
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -92,7 +92,7 @@ Offense
 
 **Melee** bite +7 (1d8+3), 2 claws +7 (1d4+3)
 
-**Special Attacks** [pounce](monsters/universalMonsterRules#_pounce), rend (2 claws, 1d6+4)
+**Special Attacks** [pounce](monsters_dir/universalMonsterRules#_pounce), rend (2 claws, 1d6+4)
 
 Statistics
 
@@ -100,7 +100,7 @@ Statistics
 
 **Base Atk** +4; **CMB** +7; **CMD** 18 (26 vs. trip)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +11, [Perception](additionalMonsters/../skills/perception#_perception) +4, [Stealth](additionalMonsters/../skills/stealth#_stealth) +5; **Racial Modifiers** +4 [Perception](additionalMonsters/../skills/perception#_perception), +4 [Stealth](additionalMonsters/../skills/stealth#_stealth)
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +11, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +5; **Racial Modifiers** +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception), +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
 
 Ecology
 

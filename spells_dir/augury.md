@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/augury
+title: spells_dir/augury
 ---
  **Augury**
 

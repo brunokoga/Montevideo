@@ -1,20 +1,20 @@
 ---
 layout: default
-title: mythicAdventures/mythicMonsters/lich
+title: mythicAdventures_dir/mythicMonsters_dir/lich
 ---
 # Lich
 
 _This armored undead human wields a heavy mace and wears the trappings of a devil-worshiper._
 
-Mythic Lich CR 17/MR 7
+Mythic Lich CR 17_dir/MR 7
 
 XP 102,400
 
-LE Medium undead ( [augmented](monsters/creatureTypes#_augmented-subtype) humanoid, [human](monsters/creatureTypes#_human-subtype), [mythic](mythicAdventures/mythicMonsters#_mythic-subtype))
+LE Medium undead ( [augmented](monsters_dir/creatureTypes#_augmented-subtype) humanoid, [human](monsters_dir/creatureTypes#_human-subtype), [mythic](mythicAdventures_dir/mythicMonsters#_mythic-subtype))
 
-**Init** +13M; **Senses** darkvision 60 ft., spell perception; [Perception](skills/perception#_perception) +29
+**Init** +13M; **Senses** darkvision 60 ft., spell perception; [Perception](skills_dir/perception#_perception) +29
 
-**Aura** [fear](monsters/universalMonsterRules#_fear) (60 ft., DC 28)
+**Aura** [fear](monsters_dir/universalMonsterRules#_fear) (60 ft., DC 28)
 
 Defense
 
@@ -24,39 +24,39 @@ Defense
 
 **Fort** +16, **Ref** +9, **Will** +21
 
-**Defensive Abilities** channel resistance +8, creeping paralysis; **DR** 15/bludgeoning and epic and magic; **Immune** cold, electricity, undead traits; **SR** 32
+**Defensive Abilities** channel resistance +8, creeping paralysis; **DR** 15_dir/bludgeoning and epic and magic; **Immune** cold, electricity, undead traits; **SR** 32
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 heavy mace_ +9/+4 (1d8), touch +3 (1d8+6 plus paralyzing touch)
+**Melee** _+1 heavy mace_ +9_dir/+4 (1d8), touch +3 (1d8+6 plus paralyzing touch)
 
-**Special Attacks** channel negative energy 10/day (DC 23, 7d6), hand of the acolyte (11/day), inspired spell, mythic power (7/day, surge +1d10), mythic spells 2/day, paralyzing touch (DC 28), scythe of evil (6 rounds, 2/day)
+**Special Attacks** channel negative energy 10_dir/day (DC 23, 7d6), hand of the acolyte (11_dir/day), inspired spell, mythic power (7_dir/day, surge +1d10), mythic spells 2_dir/day, paralyzing touch (DC 28), scythe of evil (6 rounds, 2_dir/day)
 
 **Domain Spell-Like Abilities** (CL 13th; concentration +21)
 
-11/day—touch of evil (6 rounds)
+11_dir/day—touch of evil (6 rounds)
 
-2/day—dispelling touch
+2_dir/day—dispelling touch
 
 **Cleric Spells Prepared** (CL 13th; concentration +21)
 
-7th—_ [blasphemy](spells/blasphemy#_blasphemy)_D (DC 25), _ [destruction](spells/destruction#_destruction)_ (DC 27), _ [ethereal jaunt](spells/etherealJaunt#_ethereal-jaunt)_
+7th—_ [blasphemy](spells_dir/blasphemy#_blasphemy)_D (DC 25), _ [destruction](spells_dir/destruction#_destruction)_ (DC 27), _ [ethereal jaunt](spells_dir/etherealJaunt#_ethereal-jaunt)_
 
-6th—_ [antimagic field](spells/antimagicField#_antimagic-field)_D, _ [blade barrier](spells/bladeBarrier#_blade-barrier)_M (DC 24), _ [harm](spells/harm#_harm)_M (2, DC 26)
+6th—_ [antimagic field](spells_dir/antimagicField#_antimagic-field)_D, _ [blade barrier](spells_dir/bladeBarrier#_blade-barrier)_M (DC 24), _ [harm](spells_dir/harm#_harm)_M (2, DC 26)
 
-5th—_ [dispel good](spells/dispelGood#_dispel-good)_D, _ [flame strike](spells/flameStrike#_flame-strike)_M (DC 23), _ [greater command](spells/command#_command-greater)_ (DC 23), _ [slay living](spells/slayLiving#_slay-living)_ (2, DC 25)
+5th—_ [dispel good](spells_dir/dispelGood#_dispel-good)_D, _ [flame strike](spells_dir/flameStrike#_flame-strike)_M (DC 23), _ [greater command](spells_dir/command#_command-greater)_ (DC 23), _ [slay living](spells_dir/slayLiving#_slay-living)_ (2, DC 25)
 
-4th—_ [chaos hammer](spells/chaosHammer#_chaos-hammer)_M (DC 22), _ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement)_, _ [poison](spells/poison#_poison)_ (DC 24), _ [spell immunity](spells/spellImmunity#_spell-immunity)_, _ [unholy blight](spells/unholyBlight#_unholy-blight)_D, M (2, DC 22)
+4th—_ [chaos hammer](spells_dir/chaosHammer#_chaos-hammer)_M (DC 22), _ [freedom of movement](spells_dir/freedomOfMovement#_freedom-of-movement)_, _ [poison](spells_dir/poison#_poison)_ (DC 24), _ [spell immunity](spells_dir/spellImmunity#_spell-immunity)_, _ [unholy blight](spells_dir/unholyBlight#_unholy-blight)_D, M (2, DC 22)
 
-3rd—_ [bestow curse](spells/bestowCurse#_bestow-curse)_ (2, DC 23), _ [contagion](spells/contagion#_contagion)_ (DC 23)M, _ [dispel magic](spells/dispelMagic#_dispel-magic)_D, _ [invisibility purge](spells/invisibilityPurge#_invisibility-purge)_, _ [meld into stone](spells/meldIntoStone#_meld-into-stone)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_
+3rd—_ [bestow curse](spells_dir/bestowCurse#_bestow-curse)_ (2, DC 23), _ [contagion](spells_dir/contagion#_contagion)_ (DC 23)M, _ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_D, _ [invisibility purge](spells_dir/invisibilityPurge#_invisibility-purge)_, _ [meld into stone](spells_dir/meldIntoStone#_meld-into-stone)_, _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_
 
-2nd—_ [align weapon](spells/alignWeapon#_align-weapon)_D (evil only), _ [calm emotions](spells/calmEmotions#_calm-emotions)_ (DC 20), _ [darkness](spells/darkness#_darkness)_, _ [desecrate](spells/desecrate#_desecrate)_, _ [hold person](spells/holdPerson#_hold-person)_ (DC 20), _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [spiritual weapon](spells/spiritualWeapon#_spiritual-weapon)_M
+2nd—_ [align weapon](spells_dir/alignWeapon#_align-weapon)_D (evil only), _ [calm emotions](spells_dir/calmEmotions#_calm-emotions)_ (DC 20), _ [darkness](spells_dir/darkness#_darkness)_, _ [desecrate](spells_dir/desecrate#_desecrate)_, _ [hold person](spells_dir/holdPerson#_hold-person)_ (DC 20), _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, _ [spiritual weapon](spells_dir/spiritualWeapon#_spiritual-weapon)_M
 
-1st—_ [bane](magicItems/weapons#_weapons-bane)_ (DC 19), _ [cause fear](spells/causeFear#_cause-fear)_ (DC 21), _ [deathwatch](spells/deathwatch#_deathwatch)_, _ [entropic shield](spells/entropicShield#_entropic-shield)_, _ [identify](spells/identify#_identify)_D, _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_ (2)
+1st—_ [bane](magicItems_dir/weapons#_weapons-bane)_ (DC 19), _ [cause fear](spells_dir/causeFear#_cause-fear)_ (DC 21), _ [deathwatch](spells_dir/deathwatch#_deathwatch)_, _ [entropic shield](spells_dir/entropicShield#_entropic-shield)_, _ [identify](spells_dir/identify#_identify)_D, _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_ (2)
 
-0 (at will)—_ [bleed](spells/bleed#_bleed)_ (DC 20), _ [detect magic](spells/detectMagic#_detect-magic)_, _ [purify food and drink](spells/purifyFoodAndDrink#_purify-food-and-drink)_, _ [read magic](spells/readMagic#_read-magic)_
+0 (at will)—_ [bleed](spells_dir/bleed#_bleed)_ (DC 20), _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [purify food and drink](spells_dir/purifyFoodAndDrink#_purify-food-and-drink)_, _ [read magic](spells_dir/readMagic#_read-magic)_
 
 **D** Domain spell; **Domains** Evil, Magic; **M** Mythic spell
 
@@ -66,9 +66,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +8; **CMD** 22
 
-**Feats** [Combat Casting](feats#_combat-casting), [Craft Wondrous Item](feats#_craft-wondrous-item), [Extra Channel](feats#_extra-channel), [Improved Channel](mythicAdventures/mythicFeats#_improved-channel-mythic)M, [Improved Initiative](mythicAdventures/mythicFeats#_improved-initiative-mythic)M, [Iron Will](feats#_iron-will), Mythic Spell LoreB, [Spell Focus](feats#_spell-focus) (necromancy)M, [Toughness](mythicAdventures/mythicFeats#_toughness-mythic)M
+**Feats** [Combat Casting](feats#_combat-casting), [Craft Wondrous Item](feats#_craft-wondrous-item), [Extra Channel](feats#_extra-channel), [Improved Channel](mythicAdventures_dir/mythicFeats#_improved-channel-mythic)M, [Improved Initiative](mythicAdventures_dir/mythicFeats#_improved-initiative-mythic)M, [Iron Will](feats#_iron-will), Mythic Spell LoreB, [Spell Focus](feats#_spell-focus) (necromancy)M, [Toughness](mythicAdventures_dir/mythicFeats#_toughness-mythic)M
 
-**Skills** [Heal](skills/heal#_heal) +16, [Intimidate](skills/intimidate#_intimidate) +18, [Knowledge](skills/knowledge#_knowledge) (arcana, religion) +18, [Perception](skills/perception#_perception) +29, [Sense Motive](skills/senseMotive#_sense-motive) +27, [Spellcraft](skills/spellcraft#_spellcraft) +26, [Stealth](skills/stealth#_stealth) +9; **Racial Modifiers** +8 [Perception](skills/perception#_perception), +8 [Sense Motive](skills/senseMotive#_sense-motive), +8 [Spellcraft](skills/spellcraft#_spellcraft), +8 [Stealth](skills/stealth#_stealth)
+**Skills** [Heal](skills_dir/heal#_heal) +16, [Intimidate](skills_dir/intimidate#_intimidate) +18, [Knowledge](skills_dir/knowledge#_knowledge) (arcana, religion) +18, [Perception](skills_dir/perception#_perception) +29, [Sense Motive](skills_dir/senseMotive#_sense-motive) +27, [Spellcraft](skills_dir/spellcraft#_spellcraft) +26, [Stealth](skills_dir/stealth#_stealth) +9; **Racial Modifiers** +8 [Perception](skills_dir/perception#_perception), +8 [Sense Motive](skills_dir/senseMotive#_sense-motive), +8 [Spellcraft](skills_dir/spellcraft#_spellcraft), +8 [Stealth](skills_dir/stealth#_stealth)
 
 **Languages** Abyssal, Common
 
@@ -82,7 +82,7 @@ Ecology
 
 **Organization** solitary
 
-**Treasure** NPC gear (_potions of [invisibility](spells/invisibility#_invisibility)_ [2], _+3 chain shirt_, _+1 heavy mace_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +3_, _ [belt of incredible dexterity](magicItems/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +3_, _ [headband of mental prowess](magicItems/wondrousItems#_headband-of-mental-prowess) +4_ [Wis, Cha], _ [ring of protection](magicItems/rings#_ring-of-protection) +2_, other treasure)
+**Treasure** NPC gear (_potions of [invisibility](spells_dir/invisibility#_invisibility)_ [2], _+3 chain shirt_, _+1 heavy mace_, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +3_, _ [belt of incredible dexterity](magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +3_, _ [headband of mental prowess](magicItems_dir/wondrousItems#_headband-of-mental-prowess) +4_ [Wis, Cha], _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +2_, other treasure)
 
 A mythic lich is an undead spellcaster who gave up standard mythic path abilities in favor of abilities that preserve her existence and enhance her unnatural power.
 
@@ -90,7 +90,7 @@ A mythic lich is an undead spellcaster who gave up standard mythic path abilitie
 
 "Mythic lich" is an acquired template that can be added to any creature with the lich template (referred to hereafter as the base lich). A mythic lich uses the base lich's stats and abilities except as noted here.
 
-[**Mythic Subtype**](mythicAdventures/mythicMonsters#_mythic-subtype): A mythic lich gains the mythic subtype, with a rank equal to half the CR of the base lich. A mythic lich gains additional abilities depending on the base lich's CR instead of the mythic abilities it would get for having a rank. The mythic lich gains all other benefits of having the mythic subtype: ability score bonuses, bonus hit points, mythic feats, mythic power, natural armor bonus, and spell resistance increase (if any).
+[**Mythic Subtype**](mythicAdventures_dir/mythicMonsters#_mythic-subtype): A mythic lich gains the mythic subtype, with a rank equal to half the CR of the base lich. A mythic lich gains additional abilities depending on the base lich's CR instead of the mythic abilities it would get for having a rank. The mythic lich gains all other benefits of having the mythic subtype: ability score bonuses, bonus hit points, mythic feats, mythic power, natural armor bonus, and spell resistance increase (if any).
 
 **CR** : Adjust the base lich's CR according to its mythic rank (this template doesn't increase the base lich's CR other than from the mythic rank). Note that a mythic lich's abilities on Table 6–1 depend on the base lich's CR, not the final CR of the mythic lich.
 
@@ -108,13 +108,13 @@ A mythic lich is an undead spellcaster who gave up standard mythic path abilitie
 
 **Spell Resistance (Su)** : A mythic lich gains spell resistance equal to 11 + the base lich's CR (before adding the lich's mythic rank to its SR from the mythic subtype).
 
-**Augmented Spellcasting (Su)** : At 7th rank, a mythic lich selects one of the following archmage or hierophant abilities: [arcane surge](mythicAdventures/mythicHeroes/archmage#_arcane-surge), [inspired spell](mythicAdventures/mythicHeroes/hierophant#_inspired-spell), [recalled blessing](mythicAdventures/mythicHeroes/hierophant#-recalled-blessing), or [wild arcana](mythicAdventures/mythicHeroes/archmage#_wild-arcana). Once chosen, this selection can't be changed.
+**Augmented Spellcasting (Su)** : At 7th rank, a mythic lich selects one of the following archmage or hierophant abilities: [arcane surge](mythicAdventures_dir/mythicHeroes_dir/archmage#_arcane-surge), [inspired spell](mythicAdventures_dir/mythicHeroes_dir/hierophant#_inspired-spell), [recalled blessing](mythicAdventures_dir/mythicHeroes_dir/hierophant#-recalled-blessing), or [wild arcana](mythicAdventures_dir/mythicHeroes_dir/archmage#_wild-arcana). Once chosen, this selection can't be changed.
 
 **Spell Perception (Su)** : At 7th rank, a mythic lich automatically notices spellcasting within 60 feet. The lich automatically pinpoints the location of the caster, identifies the spell being cast, and knows the intended target or area of the spell.
 
 **Immediate Counterspell (Su)** : At 8th rank, a mythic lich can expend one use of mythic power as an immediate action to attempt to counter a spell. The lich must use a spell, spell slot, or dispel magic to counterspell as normal. This ability allows the lich to counterspell without first readying an action.
 
-**Enhanced Spellcasting (Su)** : At 9th rank, a mythic lich gains the ability to treat its 1st-level spells like cantrips or orisons. If the mythic lich is a spontaneous caster, its 1st-level spells known don't consume spell slots and can be used again. If the mythic lich prepares spells, its 1st-level spell slots aren't expended when cast and can be used again. Using metamagic feats or other abilities that alter the spell slot of a spell aren't affected by this ability (for example, a quickened _ [magic missile](spells/magicMissile#_magic-missile)_ uses a 5th-level spell slot and is expended when cast).
+**Enhanced Spellcasting (Su)** : At 9th rank, a mythic lich gains the ability to treat its 1st-level spells like cantrips or orisons. If the mythic lich is a spontaneous caster, its 1st-level spells known don't consume spell slots and can be used again. If the mythic lich prepares spells, its 1st-level spell slots aren't expended when cast and can be used again. Using metamagic feats or other abilities that alter the spell slot of a spell aren't affected by this ability (for example, a quickened _ [magic missile](spells_dir/magicMissile#_magic-missile)_ uses a 5th-level spell slot and is expended when cast).
 
 **Sustained by Magic (Su)** At 9th rank, each time a mythic lich casts a spell it regains hit points equal to three times the level of the spell slot used to cast the spell.
 

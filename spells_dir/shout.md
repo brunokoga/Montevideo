@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/shout
+title: spells_dir/shout
 ---
  **Shout**
 
-**School** evocation [sonic]; **Level** bard 4, sorcerer/wizard 4
+**School** evocation [sonic]; **Level** bard 4, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -22,7 +22,7 @@ You emit an ear-splitting yell that deafens and damages creatures in its path. A
 
 **Shout, Greater**
 
-**School** evocation [sonic]; **Level** bard 6, sorcerer/wizard 8
+**School** evocation [sonic]; **Level** bard 6, sorcerer_dir/wizard 8
 
 **Components** : V, S, F (a metal or ivory horn)
 

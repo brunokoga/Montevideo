@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/rustingGrasp
+title: spells_dir/rustingGrasp
 ---
  **Rusting Grasp**
 

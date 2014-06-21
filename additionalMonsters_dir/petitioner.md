@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters/petitioner
+title: additionalMonsters_dir/petitioner
 ---
 # Petitioner
 
@@ -12,9 +12,9 @@ Something seems strange and disturbingly familiar about this wispy, ghostly huma
 
 Human petitioner
 
-Any alignment Medium [outsider](monsters/creatureTypes#_outsider) ( [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+Any alignment Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +0; **Senses** darkvision 60 ft., [Perception](additionalMonsters/../skills/perception#_perception) +5
+**Init** +0; **Senses** darkvision 60 ft., [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +2; **CMD** 12
 
-**Feats** [Toughness](additionalMonsters/../feats#_toughness)
+**Feats** [Toughness](additionalMonsters_dir/../feats#_toughness)
 
-**Skills** [Craft](additionalMonsters/../skills/craft#_craft) (any two) +5, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (planes) +5, [Perception](additionalMonsters/../skills/perception#_perception) +5, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +5, [Stealth](additionalMonsters/../skills/stealth#_stealth) +5
+**Skills** [Craft](additionalMonsters_dir/../skills_dir/craft#_craft) (any two) +5, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +5, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +5
 
 **Languages** Common
 
@@ -88,7 +88,7 @@ Creatures who die, become petitioners, and then return to life retain no memorie
 
 **Abilities** : Same as the base creature.
 
-**Feats** : Petitioners lose all feats. As a 2 HD outsider, a petitioner gains one feat—typically [Toughness](additionalMonsters/../feats#_toughness).
+**Feats** : Petitioners lose all feats. As a 2 HD outsider, a petitioner gains one feat—typically [Toughness](additionalMonsters_dir/../feats#_toughness).
 
 **Skills** : Petitioners lose all skill ranks they possessed as mortals. As a 2 HD outsider, a petitioner has 12 skill ranks it can spend on skills (with a maximum of 2 ranks in any one skill), and gains bonus skill ranks as appropriate for its Intelligence. Unlike most outsiders, petitioners do not gain an additional 4 class skills beyond those available to all outsiders.
 
@@ -98,7 +98,7 @@ Creatures who die, become petitioners, and then return to life retain no memorie
 
 A petitioner gains additional traits based on its home plane.
 
-**Abaddon (Neutral Evil)** : The “hunted” have bodies that are identical to what they had in life—these petitioners are doomed to be stalked and eventually consumed by the daemons that lust for souls. A hunted that survives long enough eventually warps and twists into a daemon. The hunted gain DR 5/— and fast healing 1 so that they provide a slightly more robust hunt for their daemonic predators.
+**Abaddon (Neutral Evil)** : The “hunted” have bodies that are identical to what they had in life—these petitioners are doomed to be stalked and eventually consumed by the daemons that lust for souls. A hunted that survives long enough eventually warps and twists into a daemon. The hunted gain DR 5_dir/— and fast healing 1 so that they provide a slightly more robust hunt for their daemonic predators.
 
 **Abyss (Chaotic Evil)** : “Larvae” are perhaps the most hideous of petitioners—they appear as pallid, maggot-like creatures with heads similar to those they possessed in life. Larvae that feed long enough on Abyssal filth eventually transform into demons. They have cold, electricity, and fire resistance 10, and instead of a slam attack gain a bite attack as appropriate for their size.
 
@@ -112,7 +112,7 @@ A petitioner gains additional traits based on its home plane.
 
 **Nirvana (Neutral Good)** : The “cleansed” take on the forms of animals that closely approximate their personalities. Upon achieving true enlightenment, they transform into agathions. The cleansed gain cold and sonic resistance 10 and a +2 bonus to Wisdom.
 
-**Purgatory (Neutral)** : The “dead” appear as animated skeletons but are not undead—in time, they can earn the right to become aeons. They gain DR 10/bludgeoning and immunity to cold.
+**Purgatory (Neutral)** : The “dead” appear as animated skeletons but are not undead—in time, they can earn the right to become aeons. They gain DR 10_dir/bludgeoning and immunity to cold.
 
 **Utopia (Lawful Neutral)** : The “remade” retain the same body shape but have milky white skin covered in dense black script, as if some strange scribe had used them for parchment. Upon deciphering the riddles posed by these complex lines of script, one of the remade can enter an axiomite forge to be transformed into an inevitable. The remade are immune to hostile transmutation effects and gain a +2 bonus to Intelligence.
 

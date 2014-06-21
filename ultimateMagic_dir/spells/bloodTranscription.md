@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic/spells/bloodTranscription
+title: ultimateMagic_dir/spells_dir/bloodTranscription
 ---
 Blood Transcription
 

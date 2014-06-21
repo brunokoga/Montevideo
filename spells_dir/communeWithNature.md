@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/communeWithNature
+title: spells_dir/communeWithNature
 ---
  **Commune with Nature**
 

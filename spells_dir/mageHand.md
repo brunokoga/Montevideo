@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells/mageHand
+title: spells_dir/mageHand
 ---
  **Mage Hand**
 
-**School** transmutation; **Level** bard 0, sorcerer/wizard 0
+**School** transmutation; **Level** bard 0, sorcerer_dir/wizard 0
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one nonmagical, unattended object weighing up to 5 lbs.
 

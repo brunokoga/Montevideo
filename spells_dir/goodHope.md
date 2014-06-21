@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/goodHope
+title: spells_dir/goodHope
 ---
  **Good Hope**
 
@@ -10,11 +10,11 @@ title: spells/goodHope
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Targets** one living creature/level, no two of which may be more than 30 ft. apart
+**Targets** one living creature_dir/level, no two of which may be more than 30 ft. apart
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

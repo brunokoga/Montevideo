@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced/spells/frozenNote
+title: advanced_dir/spells_dir/frozenNote
 ---
  **Frozen Note**
 
@@ -14,7 +14,7 @@ title: advanced/spells/frozenNote
 
 **Target** any number of creatures within area
 
-**Duration** concentration (up to 1 round/level); see text
+**Duration** concentration (up to 1 round_dir/level); see text
 
 **Saving Throw** Will partial; see text; **Spell Resistance** yes
 

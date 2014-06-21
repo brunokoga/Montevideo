@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mastery/nPCGallery/nobles
+title: mastery_dir/nPCGallery_dir/nobles
 ---
 # Nobles
 
@@ -14,7 +14,7 @@ Human aristocrat 4
 
 N Medium humanoid
 
-**Init** +1; **Senses** [Perception](../../skills/perception#_perception) +3
+**Init** +1; **Senses** [Perception](../../skills_dir/perception#_perception) +3
 
 **Defense**
 
@@ -28,9 +28,9 @@ N Medium humanoid
 
 **Speed** 30 ft.
 
-**Melee** mwk longsword +5 (1d8+1/19–20) or mwk lance +5 (1d8+1/×3) or dagger +4 (1d4+1/19–20)
+**Melee** mwk longsword +5 (1d8+1_dir/19–20) or mwk lance +5 (1d8+1_dir/×3) or dagger +4 (1d4+1_dir/19–20)
 
-**Ranged** shortbow +4 (1d6/×3) or dagger +4 (1d4+1/19–20)
+**Ranged** shortbow +4 (1d6_dir/×3) or dagger +4 (1d4+1_dir/19–20)
 
 **Statistics**
 
@@ -40,13 +40,13 @@ N Medium humanoid
 
 **Feats** [Mounted Combat](../../feats#_mounted-combat), [Ride-By Attack](../../feats#_ride-by-attack), [Trample](../../feats#_trample)
 
-**Skills** [Bluff](../../skills/bluff#_bluff) +5, [Diplomacy](../../skills/diplomacy#_diplomacy) +8, [Intimidate](../../skills/intimidate#_intimidate) +8, [Knowledge](../../skills/knowledge#_knowledge) (history) +4, [Knowledge](../../skills/knowledge#_knowledge) (local) +4, [Knowledge](../../skills/knowledge#_knowledge) (nobility) +5, [Linguistics](../../skills/linguistics#_linguistics) +5, [Perception](../../skills/perception#_perception) +3, [Perform](../../skills/perform#_perform) (dance) +5, [Ride](../../skills/ride#_ride) +6, [Sense Motive](../../skills/senseMotive#_sense-motive) +3
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +5, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +8, [Intimidate](../../skills_dir/intimidate#_intimidate) +8, [Knowledge](../../skills_dir/knowledge#_knowledge) (history) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (local) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) +5, [Linguistics](../../skills_dir/linguistics#_linguistics) +5, [Perception](../../skills_dir/perception#_perception) +3, [Perform](../../skills_dir/perform#_perform) (dance) +5, [Ride](../../skills_dir/ride#_ride) +6, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +3
 
 **Languages** Common
 
-**Combat Gear** _potion of [invisibility](../../spells/invisibility#_invisibility)_; **Other Gear** masterwork chain shirt, masterwork heavy steel shield, masterwork lance, masterwork longsword, dagger, shortbow with 20 arrows, noble outfit, light horse (combat trained) with military saddle and studded leather barding, 32 gp
+**Combat Gear** _potion of [invisibility](../../spells_dir/invisibility#_invisibility)_; **Other Gear** masterwork chain shirt, masterwork heavy steel shield, masterwork lance, masterwork longsword, dagger, shortbow with 20 arrows, noble outfit, light horse (combat trained) with military saddle and studded leather barding, 32 gp
 
-**Boon** A noble scion might pass on an especially juicy bit of palace gossip, granting a +5 bonus on a [Knowledge](../../skills/knowledge#_knowledge) (nobility) check or [Diplomacy](../../skills/diplomacy#_diplomacy) check to gather information, or could arrange a face-to-face meeting with a noble, prince, or princess.
+**Boon** A noble scion might pass on an especially juicy bit of palace gossip, granting a +5 bonus on a [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) check or [Diplomacy](../../skills_dir/diplomacy#_diplomacy) check to gather information, or could arrange a face-to-face meeting with a noble, prince, or princess.
 
 Noble scions are the haughty and proud offspring of aristocratic sires, full of the fresh vigor of youth and all the hauteur of those born in a manor. They have received fine education and know a modicum of social graces, but typically practice them only when other highborn are present. Noble scions are scornful of commoners and vagabonds, who return the sentiment toward these peacocks strutting in their finery.
 
@@ -58,11 +58,11 @@ A noble scion might be appointed to lead a lance of cavarly (CR 9). A pair of no
 
 **XP 3,200**
 
-Human aristocrat 2/paladin 6
+Human aristocrat 2_dir/paladin 6
 
 LG Medium humanoid
 
-**Init** +1; **Senses** [Perception](../../skills/perception#_perception) +5
+**Init** +1; **Senses** [Perception](../../skills_dir/perception#_perception) +5
 
 **Aura** courage (10 ft.)
 
@@ -80,19 +80,19 @@ LG Medium humanoid
 
 **Speed** 20 ft.
 
-**Melee** mwk lance +12/+7 (1d8+4/×3) or _+1 longsword_ +12/+7 (1d8+5/19–20) or dagger +11/+6 (1d4+4/19–20)
+**Melee** mwk lance +12_dir/+7 (1d8+4_dir/×3) or _+1 longsword_ +12_dir/+7 (1d8+5_dir/19–20) or dagger +11_dir/+6 (1d4+4_dir/19–20)
 
-**Ranged** dagger +8 (1d4+4/19–20)
+**Ranged** dagger +8 (1d4+4_dir/19–20)
 
-**Special Attacks** channel positive energy (DC 15, 3d6), smite evil 2/day (+2 attack and AC, +6 damage)
+**Special Attacks** channel positive energy (DC 15, 3d6), smite evil 2_dir/day (+2 attack and AC, +6 damage)
 
 **Spell-Like Abilities** (CL 6th; concentration +8)
 
-At will—_ [detect evil](../../spells/detectEvil#_detect-evil)_
+At will—_ [detect evil](../../spells_dir/detectEvil#_detect-evil)_
 
 **Spells Prepared** (CL 3rd; concentration +5)
 
-1st—_ [cure light wounds](../../spells/cureLightWounds#_cure-light-wounds)_, _ [divine favor](../../spells/divineFavor#_divine-favor)_
+1st—_ [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_, _ [divine favor](../../spells_dir/divineFavor#_divine-favor)_
 
 **Statistics**
 
@@ -102,15 +102,15 @@ At will—_ [detect evil](../../spells/detectEvil#_detect-evil)_
 
 **Feats** [Improved Bull Rush](../../feats#_improved-bull-rush), [Mounted Combat](../../feats#_mounted-combat), [Power Attack](../../feats#_power-attack), [Ride-By Attack](../../feats#_ride-by-attack), [Unseat](../../feats#_unseat)
 
-**Skills** [Diplomacy](../../skills/diplomacy#_diplomacy) +10, [Handle Animal](../../skills/handleAnimal#_handle-animal) +8, [Heal](../../skills/heal#_heal) +5, [Knowledge](../../skills/knowledge#_knowledge) (history) +5, [Knowledge](../../skills/knowledge#_knowledge) (nobility) +5, [Linguistics](../../skills/linguistics#_linguistics) +5, [Perception](../../skills/perception#_perception) +5, [Ride](../../skills/ride#_ride) +6, [Survival](../../skills/survival#_survival) +5
+**Skills** [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +10, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +8, [Heal](../../skills_dir/heal#_heal) +5, [Knowledge](../../skills_dir/knowledge#_knowledge) (history) +5, [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) +5, [Linguistics](../../skills_dir/linguistics#_linguistics) +5, [Perception](../../skills_dir/perception#_perception) +5, [Ride](../../skills_dir/ride#_ride) +6, [Survival](../../skills_dir/survival#_survival) +5
 
 **Languages** Celestial, Common, Sylvan
 
-**SQ** aura of good, divine bond (heavy horse), lay on hands (3d6, 5/day), mercies (fatigued, shaken)
+**SQ** aura of good, divine bond (heavy horse), lay on hands (3d6, 5_dir/day), mercies (fatigued, shaken)
 
 **Gear** _+1 full plate_, masterwork heavy steel shield, _+1 longsword_, masterwork lance, dagger, silver holy symbol, heavy horse (combat trained) with chain shirt barding and military saddle, 420 gp
 
-**Boon** A knight can vouch for a PC, the knight's sterling reputation enabling the character to avoid or lessen a punishment. The knight can also grant a character entry into a tourney or a meeting with his liege with a +5 bonus on one [Diplomacy](../../skills/diplomacy#_diplomacy) check.
+**Boon** A knight can vouch for a PC, the knight's sterling reputation enabling the character to avoid or lessen a punishment. The knight can also grant a character entry into a tourney or a meeting with his liege with a +5 bonus on one [Diplomacy](../../skills_dir/diplomacy#_diplomacy) check.
 
 Knights are noble warriors, proud of bearing and lineage and yet humble in service to their liege. Though merciful and generous of spirit, a true knight is always ready to level lance or bare steel in pursuit of justice and to protect the innocent. Knights may also serve as local lord-stewards, judges, or fortress commanders. Knights are usually found singly or accompanied by a squire, escorting a pair of pilgrims (CR 8), guarding two nobles (CR 11), or leading a lance of four cavalry (CR 10).
 
@@ -122,7 +122,7 @@ Human aristocrat 10
 
 N Medium humanoid
 
-**Init** +2; **Senses** [Perception](../../skills/perception#_perception) +5
+**Init** +2; **Senses** [Perception](../../skills_dir/perception#_perception) +5
 
 **Defense**
 
@@ -136,9 +136,9 @@ N Medium humanoid
 
 **Speed** 30 ft.
 
-**Melee** mwk rapier +10/+5 (1d6–1/18–20) or silver dagger +9/+4 (1d4–1/19–20)
+**Melee** mwk rapier +10_dir/+5 (1d6–1_dir/18–20) or silver dagger +9_dir/+4 (1d4–1_dir/19–20)
 
-**Ranged** _+1 longbow_ +10/+5 (1d8+1/×3)
+**Ranged** _+1 longbow_ +10_dir/+5 (1d8+1_dir/×3)
 
 **Statistics**
 
@@ -146,15 +146,15 @@ N Medium humanoid
 
 **Base Atk** +7; **CMB** +6; **CMD** 19
 
-**Feats** [Dodge](../../feats#_dodge), [Mobility](../../feats#_mobility), [Persuasive](../../feats#_persuasive), [Skill Focus](../../feats#_skill-focus) ( [Diplomacy](../../skills/diplomacy#_diplomacy)), [Vital Strike](../../feats#_vital-strike), [Weapon Finesse](../../feats#_weapon-finesse)
+**Feats** [Dodge](../../feats#_dodge), [Mobility](../../feats#_mobility), [Persuasive](../../feats#_persuasive), [Skill Focus](../../feats#_skill-focus) ( [Diplomacy](../../skills_dir/diplomacy#_diplomacy)), [Vital Strike](../../feats#_vital-strike), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Bluff](../../skills/bluff#_bluff) +16, [Diplomacy](../../skills/diplomacy#_diplomacy) +27, [Disguise](../../skills/disguise#_disguise) +10, [Intimidate](../../skills/intimidate#_intimidate) +10, [Knowledge](../../skills/knowledge#_knowledge) (history) +4, [Knowledge](../../skills/knowledge#_knowledge) (local) +4, [Knowledge](../../skills/knowledge#_knowledge) (nobility) +10, [Linguistics](../../skills/linguistics#_linguistics) +6, [Perception](../../skills/perception#_perception) +5, [Perform](../../skills/perform#_perform) (dance) +10, [Perform](../../skills/perform#_perform) (sing) +10, [Perform](../../skills/perform#_perform) (string) +10, [Ride](../../skills/ride#_ride) +6, [Sense Motive](../../skills/senseMotive#_sense-motive) +10
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +16, [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +27, [Disguise](../../skills_dir/disguise#_disguise) +10, [Intimidate](../../skills_dir/intimidate#_intimidate) +10, [Knowledge](../../skills_dir/knowledge#_knowledge) (history) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (local) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) +10, [Linguistics](../../skills_dir/linguistics#_linguistics) +6, [Perception](../../skills_dir/perception#_perception) +5, [Perform](../../skills_dir/perform#_perform) (dance) +10, [Perform](../../skills_dir/perform#_perform) (sing) +10, [Perform](../../skills_dir/perform#_perform) (string) +10, [Ride](../../skills_dir/ride#_ride) +6, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +10
 
 **Languages** Common, Elven, Gnome, Halfling
 
-**Combat Gear** _potion of [cure light wounds](../../spells/cureLightWounds#_cure-light-wounds)_, _potion of [invisibility](../../spells/invisibility#_invisibility)_; **Other Gear** _+1 [glamered](../../magicItems/armor#_armor-glamered) chain shirt_, masterwork buckler, _+1 longbow_ with 20 arrows, masterwork rapier, silver dagger, _ [circlet of persuasion](../../magicItems/wondrousItems#_circlet-of-persuasion)_, _ [cloak of resistance](../../magicItems/wondrousItems#_cloak-of-resistance) +1_, 17 gp
+**Combat Gear** _potion of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [invisibility](../../spells_dir/invisibility#_invisibility)_; **Other Gear** _+1 [glamered](../../magicItems_dir/armor#_armor-glamered) chain shirt_, masterwork buckler, _+1 longbow_ with 20 arrows, masterwork rapier, silver dagger, _ [circlet of persuasion](../../magicItems_dir/wondrousItems#_circlet-of-persuasion)_, _ [cloak of resistance](../../magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, 17 gp
 
-**Boon** A noble can arrange the loan of noble or royal outfits (and even make a gift of them if sufficiently impressed), or can make a [Diplomacy](../../skills/diplomacy#_diplomacy) check on behalf of the PCs.
+**Boon** A noble can arrange the loan of noble or royal outfits (and even make a gift of them if sufficiently impressed), or can make a [Diplomacy](../../skills_dir/diplomacy#_diplomacy) check on behalf of the PCs.
 
 A noble is a titled aristocrat of a noble house, whether a lesser branch or perhaps the high seat of the family line. A noble might also be a member of a royal family, probably not in line for the throne, but still with a high position in society. Whether baroness, countess, duchess, or margravine, a noble is proficient in all of the courtly arts (including with a fine blade) and is well acquainted with news, rumors, fashion, and etiquette in her lands and those that surround it.
 

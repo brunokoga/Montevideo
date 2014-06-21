@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/woodShape
+title: spells_dir/woodShape
 ---
  **Wood Shape**
 
@@ -12,7 +12,7 @@ title: spells/woodShape
 
 **Range** touch
 
-**Target** one touched piece of wood no larger than 10 cu. ft. + 1 cu. ft./level
+**Target** one touched piece of wood no larger than 10 cu. ft. + 1 cu. ft._dir/level
 
 **Duration** instantaneous
 

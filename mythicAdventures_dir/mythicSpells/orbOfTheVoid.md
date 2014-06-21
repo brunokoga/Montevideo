@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures/mythicSpells/orbOfTheVoid
+title: mythicAdventures_dir/mythicSpells_dir/orbOfTheVoid
 ---
 Orb of the Void
 
-**Source** [_orb of the void_](ultimateMagic/spells/orbOfTheVoid#_orb-of-the-void)
+**Source** [_orb of the void_](ultimateMagic_dir/spells_dir/orbOfTheVoid#_orb-of-the-void)
 
 A creature that fails its save against the orb gains 2 negative levels rather than 1. A successful Fortitude save reduces this to 1 negative level.
 

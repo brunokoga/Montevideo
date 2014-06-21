@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/whisperingWind
+title: spells_dir/whisperingWind
 ---
  **Whispering Wind**
 
-**School** transmutation [air]; **Level** bard 2, sorcerer/wizard 2
+**School** transmutation [air]; **Level** bard 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** 1 mile/level
+**Range** 1 mile_dir/level
 
 **Area** 10-ft.-radius spread
 
-**Duration** no more than 1 hour/level or until discharged (destination is reached)
+**Duration** no more than 1 hour_dir/level or until discharged (destination is reached)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

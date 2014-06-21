@@ -1,10 +1,10 @@
 ---
 layout: default
-title: magicItems/magicItemCreation
+title: magicItems_dir/magicItemCreation
 ---
 # Magic Item Creation
 
-To create magic items, spellcasters use special feats which allow them to invest time and money in an item's creation. At the end of this process, the spellcaster must make a single skill check (usually [Spellcraft](../skills/spellcraft#_spellcraft), but sometimes another skill) to finish the item. If an item type has multiple possible skills, you choose which skill to make the check with. The DC to create a magic item is 5 + the caster level for the item. Failing this check means that the item does not function and the materials and time are wasted. Failing this check by 5 or more results in a cursed item (see Cursed Items for more information).
+To create magic items, spellcasters use special feats which allow them to invest time and money in an item's creation. At the end of this process, the spellcaster must make a single skill check (usually [Spellcraft](../skills_dir/spellcraft#_spellcraft), but sometimes another skill) to finish the item. If an item type has multiple possible skills, you choose which skill to make the check with. The DC to create a magic item is 5 + the caster level for the item. Failing this check means that the item does not function and the materials and time are wasted. Failing this check by 5 or more results in a cursed item (see Cursed Items for more information).
 
 Note that all items have prerequisites in their descriptions. These prerequisites must be met for the item to be created. Most of the time, they take the form of spells that must be known by the item's creator (although access through another magic item or spellcaster is allowed). The DC to create a magic item increases by +5 for each prerequisite the caster does not meet. The only exception to this is the requisite item creation feat, which is mandatory. In addition, you cannot create potions, spell-trigger, or spell-completion magic items without meeting their spell prerequisites.
 
@@ -50,17 +50,17 @@ Many factors must be considered when determining the price of new magic items. T
 | Charges per day | Divide by (5 divided by charges per day) | _ [Boots of teleportation](wondrousItems#_boots-of-teleportation)_ |
 | No space limitation⁳ | Multiply entire cost by 2 | _ [Ioun stone](wondrousItems#_ioun-stones)_ |
 | Multiple different abilities | Multiply lower item cost by 1.5 | _ [Helm of brilliance](wondrousItems#_helm-of-brilliance)_ |
-| Charged (50 charges) | 1/2 unlimited use base price | _ [Ring of the ram](rings#_ring-of-the-ram)_ |
+| Charged (50 charges) | 1_dir/2 unlimited use base price | _ [Ring of the ram](rings#_ring-of-the-ram)_ |
 | Component | Extra Cost | Example |
 | --- | --- | --- |
 | Armor, shield, or weapon | Add cost of masterwork item | _+1 composite longbow_ |
 | Spell has material component cost | Add directly into price of item per charge⁴ | _Wand of stoneskin_ |
 
-**Multiple Similar Abilities** : For items with multiple similar abilities that don't take up space on a character's body, use the following formula: Calculate the price of the single most costly ability, then add 75% of the value of the next most costly ability, plus 1/2 the value of any other abilities.
+**Multiple Similar Abilities** : For items with multiple similar abilities that don't take up space on a character's body, use the following formula: Calculate the price of the single most costly ability, then add 75% of the value of the next most costly ability, plus 1_dir/2 the value of any other abilities.
 
 **Multiple Different Abilities** : Abilities such as an attack roll bonus or saving throw bonus and a spell-like function are not similar, and their values are simply added together to determine the cost. For items that take up a space on a character's body, each additional power not only has no discount but instead has a 50% increase in price.
 
-**0-Level Spells** : When multiplying spell levels to determine value, 0-level spells should be treated as 1/2 level.
+**0-Level Spells** : When multiplying spell levels to determine value, 0-level spells should be treated as 1_dir/2 level.
 
 **Other Considerations** : Once you have a cost figure, reduce that number if either of the following conditions applies:
 
@@ -88,7 +88,7 @@ Crafting magic armor requires one day for each 1,000 gp value of the base price.
 
 **Item Creation Feat Required** : [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft) or [Craft](../skills/craft#_craft) (armor).
+**Skill Used in Creation** : [Spellcraft](../skills_dir/spellcraft#_spellcraft) or [Craft](../skills_dir/craft#_craft) (armor).
 
 ## Creating Magic Weapons
 
@@ -108,7 +108,7 @@ Crafting a magic weapon requires 1 day for each 1,000 gp value of the base price
 
 **Item Creation Feat Required** : [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft), [Craft](../skills/craft#_craft) (bows) (for magic bows and arrows), or [Craft](../skills/craft#_craft) (weapons) (for all other weapons).
+**Skill Used in Creation** : [Spellcraft](../skills_dir/spellcraft#_spellcraft), [Craft](../skills_dir/craft#_craft) (bows) (for magic bows and arrows), or [Craft](../skills_dir/craft#_craft) (weapons) (for all other weapons).
 
 ## Creating Potions
 
@@ -132,7 +132,7 @@ Material components are consumed when he begins working, but a focus is not. (A 
 
 **Item Creation Feat Required** : [Brew Potion](../feats#_brew-potion).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft) or [Craft](../skills/craft#_craft) (alchemy)
+**Skill Used in Creation** : [Spellcraft](../skills_dir/spellcraft#_spellcraft) or [Craft](../skills_dir/craft#_craft) (alchemy)
 
 ## Creating Rings
 
@@ -146,7 +146,7 @@ Forging a ring requires 1 day for each 1,000 gp of the base price.
 
 **Item Creation Feat Required** : [Forge Ring](../feats#_forge-ring).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft) or [Craft](../skills/craft#_craft) (jewelry).
+**Skill Used in Creation** : [Spellcraft](../skills_dir/spellcraft#_spellcraft) or [Craft](../skills_dir/craft#_craft) (jewelry).
 
 ## Creating Rods
 
@@ -160,7 +160,7 @@ Crafting a rod requires 1 day for each 1,000 gp of the base price.
 
 **Item Creation Feat Required** : [Craft Rod](../feats#_craft-rod).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft), [Craft](../skills/craft#_craft) (jewelry), [Craft](../skills/craft#_craft) (sculptures), or [Craft](../skills/craft#_craft) (weapons).
+**Skill Used in Creation** : [Spellcraft](../skills_dir/spellcraft#_spellcraft), [Craft](../skills_dir/craft#_craft) (jewelry), [Craft](../skills_dir/craft#_craft) (sculptures), or [Craft](../skills_dir/craft#_craft) (weapons).
 
 ## Creating Scrolls
 
@@ -188,13 +188,13 @@ Scribing a scroll requires 1 day per 1,000 gp of the base price. Although an ind
 
 **Item Creation Feat Required** : [Scribe Scroll](../feats#_scribe-scroll).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft), [Craft](../skills/craft#_craft) (calligraphy), or [Profession](../skills/profession#_profession) (scribe).
+**Skill Used in Creation** : [Spellcraft](../skills_dir/spellcraft#_spellcraft), [Craft](../skills_dir/craft#_craft) (calligraphy), or [Profession](../skills_dir/profession#_profession) (scribe).
 
 ## Creating Staves
 
 To create a magic staff, a character needs a supply of materials, the most obvious being a staff or the pieces of the staff to be assembled.
 
-The materials cost is subsumed in the cost of creation: 400 gp × the level of the highest-level spell × the level of the caster, plus 75% of the value of the next most costly ability (300 gp × the level of the spell × the level of the caster), plus 1/2 the value of any other abilities (200 gp × the level of the spell × the level of the caster). Staves are always fully charged (10 charges) when created.
+The materials cost is subsumed in the cost of creation: 400 gp × the level of the highest-level spell × the level of the caster, plus 75% of the value of the next most costly ability (300 gp × the level of the spell × the level of the caster), plus 1_dir/2 the value of any other abilities (200 gp × the level of the spell × the level of the caster). Staves are always fully charged (10 charges) when created.
 
 If desired, a spell can be placed into the staff at less than the normal cost, but then activating that particular spell drains additional charges from the staff. Divide the cost of the spell by the number of charges it consumes to determine its final price. Note that this does not change the order in which the spells are priced (the highest level spell is still priced first, even if it requires more than one charge to activate). The caster level of all spells in a staff must be the same, and no staff can have a caster level of less than 8th, even if all the spells in the staff are low-level spells.
 
@@ -206,7 +206,7 @@ Crafting a staff requires 1 day for each 1,000 gp of the base price.
 
 **Item Creation Feat Required** : [Craft Staff](../feats#_craft-staff).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft), [Craft](../skills/craft#_craft) (jewelry), [Craft](../skills/craft#_craft) (sculptures), or [Profession](../skills/profession#_profession) (woodcutter).
+**Skill Used in Creation** : [Spellcraft](../skills_dir/spellcraft#_spellcraft), [Craft](../skills_dir/craft#_craft) (jewelry), [Craft](../skills_dir/craft#_craft) (sculptures), or [Profession](../skills_dir/profession#_profession) (woodcutter).
 
 ## Creating Wands
 
@@ -227,7 +227,7 @@ Crafting a wand requires 1 day per each 1,000 gp of the base price.
 
 **Item Creation Feat Required** : [Craft Wand](../feats#_craft-wand).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft), [Craft](../skills/craft#_craft) (jewelry), [Craft](../skills/craft#_craft) (sculptures), or [Profession](../skills/profession#_profession) (woodcutter).
+**Skill Used in Creation** : [Spellcraft](../skills_dir/spellcraft#_spellcraft), [Craft](../skills_dir/craft#_craft) (jewelry), [Craft](../skills_dir/craft#_craft) (sculptures), or [Profession](../skills_dir/profession#_profession) (woodcutter).
 
 ## Creating Wondrous Items
 
@@ -241,7 +241,7 @@ Crafting a wondrous item requires 1 day for each 1,000 gp of the base price.
 
 **Item Creation Feat Required** : Craft Wondrous Item.
 
-**Skill Used In Creation** : [Spellcraft](../skills/spellcraft#_spellcraft) or an applicable [Craft](../skills/craft#_craft) or [Profession](../skills/profession#_profession) skill check.
+**Skill Used In Creation** : [Spellcraft](../skills_dir/spellcraft#_spellcraft) or an applicable [Craft](../skills_dir/craft#_craft) or [Profession](../skills_dir/profession#_profession) skill check.
 
 ## Adding New Abilities
 

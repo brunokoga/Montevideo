@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills/craft
+title: skills_dir/craft
 ---
 # Craft
 
@@ -28,7 +28,7 @@ To determine how much time and money it takes to make an item, follow these step
 
 2. Find the item's DC from Table: Craft Skills.
 
-3. Pay 1/3 of the item's price for the raw material cost.
+3. Pay 1_dir/3 of the item's price for the raw material cost.
 
 4. Make an appropriate Craft check representing one week's worth of work. If the check succeeds, multiply your check result by the DC. If the result × the DC equals the price of the item in sp, then you have completed the item. (If the result × the DC equals double or triple the price of the item in silver pieces, then you've completed the task in one-half or one-third of the time. Other multiples of the DC reduce the time in the same manner.) If the result × the DC doesn't equal the price, then it represents the progress you've made this week. Record the result and make a new Craft check for the next week. Each week, you make more progress until your total reaches the price of the item in silver pieces.
 

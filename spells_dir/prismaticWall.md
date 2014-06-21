@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/prismaticWall
+title: spells_dir/prismaticWall
 ---
  **Prismatic Wall**
 
-**School** abjuration; **Level** sorcerer/wizard 8
+**School** abjuration; **Level** sorcerer_dir/wizard 8
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Effect** wall 4 ft./level wide, 2 ft./level high
+**Effect** wall 4 ft._dir/level wide, 2 ft._dir/level high
 
-**Duration** 10 min./level (D)
+**Duration** 10 min._dir/level (D)
 
 **Saving Throw** see text; **[Spell Resistance](../glossary#_spell-resistance)** see text
 
@@ -24,7 +24,7 @@ The wall's maximum proportions are 4 feet wide per caster level and 2 feet high 
 
 Each color in the wall has a special effect. The accompanying table shows the seven colors of the wall, the order in which they appear, their effects on creatures trying to attack you or pass through the wall, and the magic needed to negate each color.
 
-The wall can be destroyed, color by color, in consecutive order, by casting the specified spells on the wall; however, the first color must be brought down before the second can be affected, and so on. A _ [rod of cancellation](../magicItems/rods#_rod-of-cancellation) _or a _ [mage's disjunction](mageSDisjunction#_mage-s-disjunction) _spell destroys a _prismatic wall_, but an _ [antimagic field](antimagicField#_antimagic-field) _fails to penetrate it. _ [Dispel magic](dispelMagic#_dispel-magic) _and _greater dispel magic _can only be used on the wall once all the other colors have been destroyed. [Spell resistance](../glossary#_spell-resistance) is effective against a _prismatic wall_, but the caster level check must be repeated for each color present.
+The wall can be destroyed, color by color, in consecutive order, by casting the specified spells on the wall; however, the first color must be brought down before the second can be affected, and so on. A _ [rod of cancellation](../magicItems_dir/rods#_rod-of-cancellation) _or a _ [mage's disjunction](mageSDisjunction#_mage-s-disjunction) _spell destroys a _prismatic wall_, but an _ [antimagic field](antimagicField#_antimagic-field) _fails to penetrate it. _ [Dispel magic](dispelMagic#_dispel-magic) _and _greater dispel magic _can only be used on the wall once all the other colors have been destroyed. [Spell resistance](../glossary#_spell-resistance) is effective against a _prismatic wall_, but the caster level check must be repeated for each color present.
 
 _Prismatic wall _can be made permanent with a _ [permanency](permanency#_permanency) _spell.
 
@@ -38,7 +38,7 @@ Deals 40 points of acid damage ( [Reflex](../combat#_reflex) half). | _ [Gust of
 | 3rd | Yellow | Stops poisons, gases, and petrification.  
 Deals 80 points of electricity damage ( [Reflex](../combat#_reflex) half). | _ [Disintegrate](disintegrate#_disintegrate)_ |
 | 4th | Green | Stops breath weapons.  
-Poison (frequency: 1/rd. for 6 rd.; init. effect: death, sec. effect: 1 [Con](../gettingStarted#_constitution)/rd.; cure 2 consecutive [Fort](../combat#_fortitude) saves). | _ [Passwall](passwall#_passwall)_ |
+Poison (frequency: 1_dir/rd. for 6 rd.; init. effect: death, sec. effect: 1 [Con](../gettingStarted#_constitution)_dir/rd.; cure 2 consecutive [Fort](../combat#_fortitude) saves). | _ [Passwall](passwall#_passwall)_ |
 | 5th | Blue | Stops divination and mental attacks.  
 Turned to stone ( [Fortitude](../combat#_fortitude) negates). | _ [Magic missile](magicMissile#_magic-missile)_ |
 | 6th | Indigo | Stops all spells.  

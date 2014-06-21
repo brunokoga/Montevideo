@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters/spider
+title: additionalMonsters_dir/spider
 ---
 # Spider, Giant Black Widow
 
@@ -10,9 +10,9 @@ Giant Black Widow SpiderCR 3
 
 **XP 800**
 
-N Large [vermin](monsters/creatureTypes#_vermin)
+N Large [vermin](monsters_dir/creatureTypes#_vermin)
 
-**Init** +2; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +4
+**Init** +2; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -28,7 +28,7 @@ Offense
 
 **Speed** 30 ft., climb 30 ft.
 
-**Melee** bite +6 (1d8+6 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** bite +6 (1d8+6 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -40,7 +40,7 @@ Statistics
 
 **Base Atk** +3; **CMB** +8; **CMD** 20 (32 vs. trip)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +20, [Perception](additionalMonsters/../skills/perception#_perception) +4; **Racial Modifiers** +8 [Climb](additionalMonsters/../skills/climb#_climb), +4 [Perception](additionalMonsters/../skills/perception#_perception), +4 [Stealth](additionalMonsters/../skills/stealth#_stealth) (+8 webs)
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +20, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4; **Racial Modifiers** +8 [Climb](additionalMonsters_dir/../skills_dir/climb#_climb), +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception), +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) (+8 webs)
 
 **SQ** strong webs
 
@@ -54,7 +54,7 @@ Ecology
 
 Special Abilities
 
-**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con and staggered; _cure_ 2 saves. Save DC is Con-based with a +2 racial bonus.
+**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 17; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d3 Con and staggered; _cure_ 2 saves. Save DC is Con-based with a +2 racial bonus.
 
 **Strong Webs (Ex)** A black widow's webs gain a +4 bonus to the DC to break or escape.
 
@@ -68,9 +68,9 @@ Giant TarantulaCR 8
 
 **XP 4,800**
 
-N Gargantuan [vermin](monsters/creatureTypes#_vermin)
+N Gargantuan [vermin](monsters_dir/creatureTypes#_vermin)
 
-**Init** +1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +4
+**Init** +1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -86,7 +86,7 @@ Offense
 
 **Speed** 30 ft., climb 30 ft.
 
-**Melee** bite +15 (3d6+18 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** bite +15 (3d6+18 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Ranged** barbed hairs +4 touch (nausea)
 
@@ -98,7 +98,7 @@ Statistics
 
 **Base Atk** +7; **CMB** +23; **CMD** 34 (46 vs. trip)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +28, [Perception](additionalMonsters/../skills/perception#_perception) +4, [Stealth](additionalMonsters/../skills/stealth#_stealth) –7 (–3 in webs); **Racial Modifiers** +8 [Climb](additionalMonsters/../skills/climb#_climb)+4 [Perception](additionalMonsters/../skills/perception#_perception)+4 [Stealth](additionalMonsters/../skills/stealth#_stealth) (+8 in webs)
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +28, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) –7 (–3 in webs); **Racial Modifiers** +8 [Climb](additionalMonsters_dir/../skills_dir/climb#_climb)+4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)+4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) (+8 in webs)
 
 Ecology
 
@@ -112,5 +112,5 @@ Special Abilities
 
 **Barbed Hairs (Ex)** A tarantula can throw barbed hairs from its back at a creature as a ranged touch attack (range increment 20 feet). A creature struck by these hairs must make a DC 22 Fort save or be nauseated for 1d6 rounds. A creature that attacks a giant tarantula with a non-reach melee weapon must make a DC 22 Reflex save to avoid being struck by these hairs. The save DC is Con-based.
 
-**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 24; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Str; _cure_ 2 consecutive saves. Save DC is Con-based with a +2 racial bonus.
+**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 24; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d6 Str; _cure_ 2 consecutive saves. Save DC is Con-based with a +2 racial bonus.
 

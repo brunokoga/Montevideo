@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/controlPlants
+title: spells_dir/controlPlants
 ---
  **Control Plants**
 
@@ -10,11 +10,11 @@ title: spells/controlPlants
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Targets** up to 2 HD/level of plant creatures, no two of which can be more than 30 ft. apart
+**Targets** up to 2 HD_dir/level of plant creatures, no two of which can be more than 30 ft. apart
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** no
 

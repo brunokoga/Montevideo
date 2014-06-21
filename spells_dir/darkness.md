@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells/darkness
+title: spells_dir/darkness
 ---
  **Darkness**
 
-**School** evocation [darkness]; **Level** bard 2, cleric 2, sorcerer/wizard 2
+**School** evocation [darkness]; **Level** bard 2, cleric 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, M/DF (bat fur and a piece of coal)
+**Components** V, M_dir/DF (bat fur and a piece of coal)
 
 **Range** touch
 
 **Target** object touched
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

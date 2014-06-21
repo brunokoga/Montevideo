@@ -1,20 +1,20 @@
 ---
 layout: default
-title: mythicAdventures/mythicSpells/shareGlory
+title: mythicAdventures_dir/mythicSpells_dir/shareGlory
 ---
 Share Glory
 
-**School** transmutation; **Level** bard 2, cleric 3, druid 3, sorcerer/wizard 3, summoner 2, witch 3
+**School** transmutation; **Level** bard 2, cleric 3, druid 3, sorcerer_dir/wizard 3, summoner 2, witch 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one non-mythic creature/3 levels
+**Target** one non-mythic creature_dir/3 levels
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

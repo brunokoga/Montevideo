@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells/transmuteMetalToWood
+title: spells_dir/transmuteMetalToWood
 ---
  **Transmute Metal to Wood**
 
@@ -10,7 +10,7 @@ title: spells/transmuteMetalToWood
 
 **Components** V, S, DF
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Area** all metal objects within a 40-ft.-radius burst
 

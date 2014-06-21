@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters/rast
+title: additionalMonsters_dir/rast
 ---
 # Rast
 
@@ -10,9 +10,9 @@ This bulbous creature consists of many tangled legs, a bulging body of puffed fl
 
 **XP 1,600**
 
-N Medium [outsider](monsters/creatureTypes#_outsider) ( [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [fire](monsters/creatureTypes#_fire-subtype))
+N Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [fire](monsters_dir/creatureTypes#_fire-subtype))
 
-**Init** +5; Senses darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +10
+**Init** +5; Senses darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10
 
 Defense
 
@@ -22,17 +22,17 @@ Defense
 
 **Fort** +8, **Ref** +6, **Will** +3
 
-**Immune** [fire](monsters/creatureTypes#_fire-subtype)
+**Immune** [fire](monsters_dir/creatureTypes#_fire-subtype)
 
-**Weaknesses** vulnerability to [cold](monsters/creatureTypes#_cold-subtype)
+**Weaknesses** vulnerability to [cold](monsters_dir/creatureTypes#_cold-subtype)
 
 Offense
 
 **Speed** 5 ft., fly 60 ft. (good)
 
-**Melee** bite +8 (1d6+2 plus [grab](monsters/universalMonsterRules#_grab)), 4 claws +9 (1d4+2)
+**Melee** bite +8 (1d6+2 plus [grab](monsters_dir/universalMonsterRules#_grab)), 4 claws +9 (1d4+2)
 
-**Special Attacks** [blood drain](monsters/universalMonsterRules#_blood-drain) (1d2 Constitution), paralyzing [gaze](monsters/universalMonsterRules#_gaze)
+**Special Attacks** [blood drain](monsters_dir/universalMonsterRules#_blood-drain) (1d2 Constitution), paralyzing [gaze](monsters_dir/universalMonsterRules#_gaze)
 
 Statistics
 
@@ -40,15 +40,15 @@ Statistics
 
 **Base Atk** +6; **CMB** +8 (+12 grapple); **CMD** 19 (can't be tripped)
 
-**Feats** [Flyby Attack](additionalMonsters/../monsters/monsterFeats#_flyby-attack), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (claw)
+**Feats** [Flyby Attack](additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (claw)
 
-**Skills** [Fly](additionalMonsters/../skills/fly#_fly) +5, [Perception](additionalMonsters/../skills/perception#_perception) +10, [Stealth](additionalMonsters/../skills/stealth#_stealth) +10
+**Skills** [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +5, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +10
 
 **Languages** Ignan (cannot speak)
 
 Ecology
 
-**Environment** any (Plane of [Fire](monsters/creatureTypes#_fire-subtype))
+**Environment** any (Plane of [Fire](monsters_dir/creatureTypes#_fire-subtype))
 
 **Organization** solitary, pair, cluster (3–6), or pack (7–15)
 
@@ -56,7 +56,7 @@ Ecology
 
 Special Abilities
 
-**Paralyzing [Gaze](monsters/universalMonsterRules#_gaze) (Su)** Paralyzed for 1d6 rounds, 30 feet, Fortitude (DC 14) negates. The save DC is Charisma-based.
+**Paralyzing [Gaze](monsters_dir/universalMonsterRules#_gaze) (Su)** Paralyzed for 1d6 rounds, 30 feet, Fortitude (DC 14) negates. The save DC is Charisma-based.
 
 Hailing from the barren wastes of the Plane of Fire, the rast is as dangerous as it is bizarre. Its body is a single tumorous sack that bulges with hidden organs and veins and bears no sensory apparatus beyond two miniscule eyes almost lost in the folds and wattles of its flesh. Instead, its defining feature is a mouth of flesh-ripping teeth and a wriggling mass of tangled legs. The exact number of legs on a particular rast is seemingly a random trait. Strangely, these tangled limbs do not support the creature, but rather hang twitching and waving beneath it as the rast floats through the air with an easy grace, only reaching out to manipulate objects or—more often—to slash at its prey.
 

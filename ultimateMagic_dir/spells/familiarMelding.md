@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic/spells/familiarMelding
+title: ultimateMagic_dir/spells_dir/familiarMelding
 ---
 Familiar Melding
 
-**School** necromancy; **Level** sorcerer/wizard 4, witch 4
+**School** necromancy; **Level** sorcerer_dir/wizard 4, witch 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target** your familiar
 
-**Duration** 1 hour/level or until you return to your body
+**Duration** 1 hour_dir/level or until you return to your body
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 

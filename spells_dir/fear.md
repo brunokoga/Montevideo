@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/fear
+title: spells_dir/fear
 ---
  **Fear**
 
-**School** necromancy [fear, mind-affecting]; **Level** bard 3, sorcerer/wizard 4
+**School** necromancy [fear, mind-affecting]; **Level** bard 3, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells/fear
 
 **Area** cone-shaped burst
 
-**Duration** 1 round/level or 1 round; see text
+**Duration** 1 round_dir/level or 1 round; see text
 
 **Saving Throw** [Will](../combat#_will) partial; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

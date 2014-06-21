@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells/wavesOfFatigue
+title: spells_dir/wavesOfFatigue
 ---
  **Waves of Fatigue**
 
-**School** necromancy; **Level** sorcerer/wizard 5
+**School** necromancy; **Level** sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 
