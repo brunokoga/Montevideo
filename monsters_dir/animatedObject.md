@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/animatedObject
+title: monsters/animatedObject
 ---
 # Animated Object
 
@@ -12,7 +12,7 @@ _The skeleton locked within rattles as this animated cage lurches forward on cha
 
 N Medium [construct](creatureTypes#_construct)
 
-**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) –5
+**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) –5
 
 **DEFENSE**
 
@@ -66,11 +66,11 @@ _Stone (Ex, 1 CP)_: The object is made of stone or crystal. Its hardness increas
 
 _ [Trample](../feats#_trample) (Ex, 2 CP)_: The object gains the [trample](universalMonsterRules#_trample) special attack.
 
-An animated object is not simply one monster, but a whole category. The stats presented here are for a Medium animated object (with 2 CP that have not been spent to gain additional abilities), but any object can become animated, most commonly via the spell _ [animate objects](../spells_dir/animateObjects#_animate-objects)_. Permanent animated objects can be built using the [Craft Construct](monsterFeats#_craft-construct) feat. Unless an animated object uses a Construction Point to be made of another material, all animated objects are made of wood or material of equivalent hardness. Creating an animated object of a different size than Medium can be done simply by adjusting the object's size (and thus adjusting its Strength, Dexterity, natural armor bonus, and size modifier to attack and AC as detailed on page 296) and Hit Dice.
+An animated object is not simply one monster, but a whole category. The stats presented here are for a Medium animated object (with 2 CP that have not been spent to gain additional abilities), but any object can become animated, most commonly via the spell _ [animate objects](../spells/animateObjects#_animate-objects)_. Permanent animated objects can be built using the [Craft Construct](monsterFeats#_craft-construct) feat. Unless an animated object uses a Construction Point to be made of another material, all animated objects are made of wood or material of equivalent hardness. Creating an animated object of a different size than Medium can be done simply by adjusting the object's size (and thus adjusting its Strength, Dexterity, natural armor bonus, and size modifier to attack and AC as detailed on page 296) and Hit Dice.
 
 | Size | Sample Object | HD | CP | CR |
 | --- | --- | --- | --- | --- |
-| Tiny | Candelabra | 1d10 | 1 | 1_dir/2 |
+| Tiny | Candelabra | 1d10 | 1 | 1/2 |
 | Small | Chair | 2d10+10 | 1 | 2 |
 | Medium | Cage | 3d10+20 | 2 | 3 |
 | Large | Statue | 4d10+30 | 3 | 5 |

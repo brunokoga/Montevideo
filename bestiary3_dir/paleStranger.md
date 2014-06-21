@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/paleStranger
+title: bestiary3/paleStranger
 ---
 # Pale Stranger
 
@@ -12,9 +12,9 @@ XP 9,600
 
 NE Medium undead
 
-**Init** +9; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +22
+**Init** +9; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +22
 
-**Aura** [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) (10 ft., DC 21)
+**Aura** [fear](monsters/universalMonsterRules#_fear-(su-or-sp)) (10 ft., DC 21)
 
 Defense
 
@@ -24,13 +24,13 @@ Defense
 
 **Fort** +9, **Ref** +10, **Will** +13
 
-**Defensive Abilities** channel [resistance](monsters_dir/universalMonsterRules#_resistance) +4; **DR** 10_dir/bludgeoning and magic; **Immune** undead traits; **SR** 21
+**Defensive Abilities** channel [resistance](monsters/universalMonsterRules#_resistance) +4; **DR** 10/bludgeoning and magic; **Immune** undead traits; **SR** 21
 
 Offense
 
 **Speed** 30 ft.
 
-**Ranged** _+1 pistols_ +15_dir/+15_dir/+10_dir/+10_dir/+5_dir/+5 (1d8+1_dir/19–20_dir/×4)
+**Ranged** _+1 pistols_ +15/+15/+10/+10/+5/+5 (1d8+1/19–20/×4)
 
 **Special Attacks** pistols, stranger's shot
 
@@ -42,7 +42,7 @@ Statistics
 
 **Feats** [Deadly Aim](feats#_deadly-aim), [Dodge](feats#_dodge), [Improved Critical](feats#_improved-critical) (pistol), [Improved Initiative](feats#_improved-initiative), [Improved Two-Weapon Fighting](feats#_improved-two-weapon-fighting), [Point-Blank Shot](feats#_point-blank-shot), [Precise Shot](feats#_precise-shot), [Quick Draw](feats#_quick-draw), [Two-Weapon Fighting](feats#_two-weapon-fighting)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +13, [Climb](skills_dir/climb#_climb) +11, [Intimidate](skills_dir/intimidate#_intimidate) +22, [Perception](skills_dir/perception#_perception) +22, [Ride](skills_dir/ride#_ride) +15, [Stealth](skills_dir/stealth#_stealth) +13, [Swim](skills_dir/swim#_swim) +8
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +13, [Climb](skills/climb#_climb) +11, [Intimidate](skills/intimidate#_intimidate) +22, [Perception](skills/perception#_perception) +22, [Ride](skills/ride#_ride) +15, [Stealth](skills/stealth#_stealth) +13, [Swim](skills/swim#_swim) +8
 
 **Languages** Common
 
@@ -66,7 +66,7 @@ Special Abilities
 
 Sometimes death itself cannot come between a gunslinger and its final revenge. When a gunslinger is slain by a hated enemy, or murdered before it can achieve vengeance against a hated foe, the anger and wrath can animate its remains as a vengeful undead monstrosity. When a pale stranger first rises, it seeks out the source of its anger to finish the job—thereafter, it wanders the desolate parts of the world looking for new victims to vent its unending rage upon.
 
-A pale stranger appears much as it did in life, though desiccated and obviously undead. Rare pale strangers have the ability to hide their undead nature and appear as they did in life using _ [veil](spells_dir/veil#_veil)_ as a constant spell-like ability (CL equals their CR). These pale strangers are often more powerful and have class levels in gunslinger or ranger, and often attract large groups of adoring bandits and followers who may or may not realize that their murderous idol is in fact an unliving horror.
+A pale stranger appears much as it did in life, though desiccated and obviously undead. Rare pale strangers have the ability to hide their undead nature and appear as they did in life using _ [veil](spells/veil#_veil)_ as a constant spell-like ability (CL equals their CR). These pale strangers are often more powerful and have class levels in gunslinger or ranger, and often attract large groups of adoring bandits and followers who may or may not realize that their murderous idol is in fact an unliving horror.
 
-A pale stranger stands 6-1_dir/2 feet tall and weighs 130 pounds.
+A pale stranger stands 6-1/2 feet tall and weighs 130 pounds.
 

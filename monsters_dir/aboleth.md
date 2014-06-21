@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/aboleth
+title: monsters/aboleth
 ---
 # Aboleth
 
@@ -12,7 +12,7 @@ _Four long tentacles writhe from this three-eyed fish-like creature's flanks, an
 
 LE Huge [aberration](creatureTypes#_aberration) (aquatic)
 
-**Init** +5; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +14
+**Init** +5; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +14
 
 **Aura** mucus cloud (5 feet)
 
@@ -34,9 +34,9 @@ LE Huge [aberration](creatureTypes#_aberration) (aquatic)
 
 **[Spell-Like Abilities](universalMonsterRules#_spell-like-abilities)** (CL 16th)
 
-At will—_ [hypnotic pattern](../spells_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 15), _ [illusory wall](../spells_dir/illusoryWall#_illusory-wall)_ (DC 17), _ [mirage arcana](../spells_dir/mirageArcana#_mirage-arcana)_ (DC 18), _ [persistent image](../spells_dir/persistentImage#_persistent-image)_ (DC 18), _ [programmed image](../spells_dir/programmedImage#_programmed-image)_ (DC 19), _ [project image](../spells_dir/projectImage#_project-image)_ (DC 20), _ [veil](../spells_dir/veil#_veil)_ (DC 19)
+At will—_ [hypnotic pattern](../spells/hypnoticPattern#_hypnotic-pattern)_ (DC 15), _ [illusory wall](../spells/illusoryWall#_illusory-wall)_ (DC 17), _ [mirage arcana](../spells/mirageArcana#_mirage-arcana)_ (DC 18), _ [persistent image](../spells/persistentImage#_persistent-image)_ (DC 18), _ [programmed image](../spells/programmedImage#_programmed-image)_ (DC 19), _ [project image](../spells/projectImage#_project-image)_ (DC 20), _ [veil](../spells/veil#_veil)_ (DC 19)
 
-3_dir/day—_ [dominate monster](../spells_dir/dominateMonster#_dominate-monster)_ (DC 22)
+3/day—_ [dominate monster](../spells/dominateMonster#_dominate-monster)_ (DC 22)
 
 **Statistics**
 
@@ -46,7 +46,7 @@ At will—_ [hypnotic pattern](../spells_dir/hypnoticPattern#_hypnotic-pattern)_
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Weapon Focus](../feats#_weapon-focus) (tentacle)
 
-**Skills** [Bluff](../skills_dir/bluff#_bluff) +11, [Intimidate](../skills_dir/intimidate#_intimidate) +14, [Knowledge](../skills_dir/knowledge#_knowledge) (any one) +13, [Perception](../skills_dir/perception#_perception) +14, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +13, [Swim](../skills_dir/swim#_swim) +24
+**Skills** [Bluff](../skills/bluff#_bluff) +11, [Intimidate](../skills/intimidate#_intimidate) +14, [Knowledge](../skills/knowledge#_knowledge) (any one) +13, [Perception](../skills/perception#_perception) +14, [Spellcraft](../skills/spellcraft#_spellcraft) +13, [Swim](../skills/swim#_swim) +24
 
 **Languages** Aboleth, Aklo, Aquan, Undercommon
 

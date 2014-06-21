@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/overwhelmingGrief
+title: ultimateMagic/spells/overwhelmingGrief
 ---
 Overwhelming Grief
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, sorcerer_dir/wizard 4
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates (see text); **Spell Resistance** yes
 

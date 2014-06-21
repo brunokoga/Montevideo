@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/desecrate
+title: spells/desecrate
 ---
  **Desecrate**
 
@@ -10,11 +10,11 @@ title: spells_dir/desecrate
 
 **Component** V, S, M (a vial of unholy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area), DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Area** 20-ft.-radius emanation
 
-**Duration** 2 hours_dir/level
+**Duration** 2 hours/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

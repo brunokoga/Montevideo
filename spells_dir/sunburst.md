@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/sunburst
+title: spells/sunburst
 ---
  **Sunburst**
 
-**School** evocation [light]; **Level** druid 8, sorcerer_dir/wizard 8
+**School** evocation [light]; **Level** druid 8, sorcerer/wizard 8
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M_dir/DF (sunstone and fire source)
+**Components** V, S, M/DF (sunstone and fire source)
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Area** 80-ft.-radius burst
 

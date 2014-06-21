@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/fungalInfestation
+title: ultimateMagic/spells/fungalInfestation
 ---
 Fungal Infestation
 

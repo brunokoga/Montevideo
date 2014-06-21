@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/compelHostility
+title: ultimateCombat/spells/compelHostility
 ---
 Compel Hostility
 
@@ -14,7 +14,7 @@ Compel Hostility
 
 **Target** you
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** see text; **Spell Resistance** see text
 

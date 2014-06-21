@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures_dir/mythicSpells_dir/terraform
+title: mythicAdventures/mythicSpells/terraform
 ---
 Terraform
 
-**School** transmutation; **Level** cleric 7, druid 6, sorcerer_dir/wizard 7, witch 7
+**School** transmutation; **Level** cleric 7, druid 6, sorcerer/wizard 7, witch 7
 
 **Casting Time** 1 hour
 
@@ -14,7 +14,7 @@ Terraform
 
 **Area** 100-foot-radius emanation, centered on you
 
-**Duration** 1 day_dir/level (see text)
+**Duration** 1 day/level (see text)
 
 **Saving Throw** none; **Spell Resistance** no
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/controlWeather
+title: spells/controlWeather
 ---
  **Control Weather**
 
-**School** transmutation; **Level** cleric 7, druid 7, sorcerer_dir/wizard 7
+**School** transmutation; **Level** cleric 7, druid 7, sorcerer/wizard 7
 
 **Casting Time** 10 minutes; see text
 

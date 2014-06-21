@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/symbolOfPain
+title: spells/symbolOfPain
 ---
  **Symbol of Pain**
 
-**School** necromancy [evil]; **Level** cleric 5, sorcerer_dir/wizard 5
+**School** necromancy [evil]; **Level** cleric 5, sorcerer/wizard 5
 
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
 

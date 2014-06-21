@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/sanctuary
+title: spells/sanctuary
 ---
  **Sanctuary**
 
@@ -14,7 +14,7 @@ title: spells_dir/sanctuary
 
 **Target** creature touched
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/detectSnaresAndPits
+title: spells/detectSnaresAndPits
 ---
  **Detect Snares and Pits**
 
@@ -14,7 +14,7 @@ title: spells_dir/detectSnaresAndPits
 
 **Area** cone-shaped emanation
 
-**Duration** concentration, up to 10 min._dir/level (D)
+**Duration** concentration, up to 10 min./level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/nue
+title: bestiary3/nue
 ---
 # Nue
 
@@ -12,7 +12,7 @@ XP 9,600
 
 NE Large magical beast
 
-**Init** +9; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +10
+**Init** +9; **Senses** darkvision 60 ft., low-light vision; [Perception](skills/perception#_perception) +10
 
 Defense
 
@@ -26,17 +26,17 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** bite +17 (2d6+6 plus [energy drain](monsters_dir/universalMonsterRules#_energy-drain)), bite +17 (1d4+6 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))), 2 claws +17 (1d6+6)
+**Melee** bite +17 (2d6+6 plus [energy drain](monsters/universalMonsterRules#_energy-drain)), bite +17 (1d4+6 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su))), 2 claws +17 (1d6+6)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [energy drain](monsters_dir/universalMonsterRules#_energy-drain) (2 levels, DC 16), [pounce](monsters_dir/universalMonsterRules#_pounce)
+**Special Attacks** [energy drain](monsters/universalMonsterRules#_energy-drain) (2 levels, DC 16), [pounce](monsters/universalMonsterRules#_pounce)
 
 **Spell-Like Abilities** (CL 12th; concentration +12)
 
-3_dir/day—_ [contagion](spells_dir/contagion#_contagion)_ (DC 14), _ [hold person](spells_dir/holdPerson#_hold-person)_ (DC 13)
+3/day—_ [contagion](spells/contagion#_contagion)_ (DC 14), _ [hold person](spells/holdPerson#_hold-person)_ (DC 13)
 
-1_dir/day—_ [nightmare](spells_dir/nightmare#_nightmare)_ (DC 15), _ [shout](spells_dir/shout#_shout)_ (DC 14), _ [waves of fatigue](spells_dir/wavesOfFatigue#_waves-of-fatigue)_
+1/day—_ [nightmare](spells/nightmare#_nightmare)_ (DC 15), _ [shout](spells/shout#_shout)_ (DC 14), _ [waves of fatigue](spells/wavesOfFatigue#_waves-of-fatigue)_
 
 Statistics
 
@@ -44,9 +44,9 @@ Statistics
 
 **Base Atk** +12; **CMB** +19; **CMD** 35 (39 vs. trip)
 
-**Feats** [Combat Casting](feats#_combat-casting), [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Improved Initiative](feats#_improved-initiative), Mobility, [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth))
+**Feats** [Combat Casting](feats#_combat-casting), [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Improved Initiative](feats#_improved-initiative), Mobility, [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth))
 
-**Skills** [Climb](skills_dir/climb#_climb) +13, [Perception](skills_dir/perception#_perception) +10, [Stealth](skills_dir/stealth#_stealth) +11
+**Skills** [Climb](skills/climb#_climb) +13, [Perception](skills/perception#_perception) +10, [Stealth](skills/stealth#_stealth) +11
 
 **Languages** Common
 
@@ -62,9 +62,9 @@ Ecology
 
 Special Abilities
 
-**Cloud Form (Su)** A nue can change into the form of a 10-foot black cloud or back to its normal form as a standard action. A nue in cloud form is otherwise treated as if under the effects of _ [gaseous form](spells_dir/gaseousForm#_gaseous-form)_, except that it obscures vision like _ [fog cloud](spells_dir/fogCloud)_.
+**Cloud Form (Su)** A nue can change into the form of a 10-foot black cloud or back to its normal form as a standard action. A nue in cloud form is otherwise treated as if under the effects of _ [gaseous form](spells/gaseousForm#_gaseous-form)_, except that it obscures vision like _ [fog cloud](spells/fogCloud)_.
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 21; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d4 Strength damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 21; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Strength damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 This strange creature has the body of a tiger, the head of a fanged monkey, and a poisonous viper for a tail. Though some call it a chimera and treat it as an exotic specimen of that creature, it is a completely different breed of beast.
 

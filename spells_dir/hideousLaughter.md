@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/hideousLaughter
+title: spells/hideousLaughter
 ---
  **Hideous Laughter**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer_dir/wizard 2
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (tiny fruit tarts and a feather)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature; see text
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

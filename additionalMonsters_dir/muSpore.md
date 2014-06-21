@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters_dir/muSpore
+title: additionalMonsters/muSpore
 ---
 # Mu Spore
 
@@ -10,9 +10,9 @@ Mu SporeCR 21
 
 **XP 409,600**
 
-CN Colossal [plant](monsters_dir/creatureTypes#_plant)
+CN Colossal [plant](monsters/creatureTypes#_plant)
 
-**Init** +3; **Senses** [blindsight](monsters_dir/universalMonsterRules#_blindsight) 240 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +43
+**Init** +3; **Senses** [blindsight](monsters/universalMonsterRules#_blindsight) 240 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +43
 
 Defense
 
@@ -22,17 +22,17 @@ Defense
 
 **Fort** +26, **Ref** +11, **Will** +19
 
-**Defensive Abilities** grasping tendrils; **DR** 10_dir/epic; **Immune** [plant](monsters_dir/creatureTypes#_plant) traits; **Resist** acid 30
+**Defensive Abilities** grasping tendrils; **DR** 10/epic; **Immune** [plant](monsters/creatureTypes#_plant) traits; **Resist** acid 30
 
 Offense
 
 **Speed** 40 ft., fly 30 ft. (perfect)
 
-**Melee** bite +32 (6d6+16_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab)), 4 tentacles +27 (3d8+8_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** bite +32 (6d6+16/19–20 plus [grab](monsters/universalMonsterRules#_grab)), 4 tentacles +27 (3d8+8/19–20 plus [grab](monsters/universalMonsterRules#_grab))
 
 **Space** 30 ft.; **Reach** 30 ft. (60 ft. with tentacle)
 
-**Special Attacks** spore cough, [constrict](monsters_dir/universalMonsterRules#_constrict) (3d8+16), swallow whole (20d8 acid, AC 28, 41 hp)
+**Special Attacks** spore cough, [constrict](monsters/universalMonsterRules#_constrict) (3d8+16), swallow whole (20d8 acid, AC 28, 41 hp)
 
 Statistics
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +23; **CMB** +47 (+51 grapple); **CMD** 56 (can't be tripped)
 
-**Feats** [Awesome Blow](additionalMonsters_dir/../monsters_dir/monsterFeats#_awesome-blow), [Critical Focus](additionalMonsters_dir/../feats#_critical-focus), [Greater Bull Rush](additionalMonsters_dir/../feats#_greater-bull-rush), [Greater Vital Strike](additionalMonsters_dir/../feats#_greater-vital-strike), [Improved Bull Rush](additionalMonsters_dir/../feats#_improved-bull-rush), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (tentacles), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Improved Lightning Reflexes](additionalMonsters_dir/../feats#_improved-lightning-reflexes), [Improved Vital Strike](additionalMonsters_dir/../feats#_improved-vital-strike), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Staggering Critical](additionalMonsters_dir/../feats#_staggering-critical), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (tentacles)
+**Feats** [Awesome Blow](additionalMonsters/../monsters/monsterFeats#_awesome-blow), [Critical Focus](additionalMonsters/../feats#_critical-focus), [Greater Bull Rush](additionalMonsters/../feats#_greater-bull-rush), [Greater Vital Strike](additionalMonsters/../feats#_greater-vital-strike), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Improved Critical](additionalMonsters/../feats#_improved-critical) (bite), [Improved Critical](additionalMonsters/../feats#_improved-critical) (tentacles), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Improved Lightning Reflexes](additionalMonsters/../feats#_improved-lightning-reflexes), [Improved Vital Strike](additionalMonsters/../feats#_improved-vital-strike), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Power Attack](additionalMonsters/../feats#_power-attack), [Staggering Critical](additionalMonsters/../feats#_staggering-critical), [Vital Strike](additionalMonsters/../feats#_vital-strike), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (bite), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (tentacles)
 
-**Skills** [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +33, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (dungeoneering, geography, nature) +35, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +43, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +40
+**Skills** [Fly](additionalMonsters/../skills/fly#_fly) +33, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (dungeoneering, geography, nature) +35, [Perception](additionalMonsters/../skills/perception#_perception) +43, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +40
 
 **Languages** Aklo, Common, Terran, Undercommon
 
@@ -56,9 +56,9 @@ Ecology
 
 Special Abilities
 
-**Grasping Tendrils (Ex)** Sticky, arm-length tendrils cover a mu spore. A mu spore can use these tendrils to attempt a [grab](monsters_dir/universalMonsterRules#_grab) as an immediate action when an adjacent creature hits it with a melee attack. As it is only using the tendrils (instead of conducting the grapple normally), it takes a –20 penalty to its CMB to make and maintain the grapple (+31 CMB with tendrils). The mu spore does not gain the grappled condition while grappling a creature with its tendrils.
+**Grasping Tendrils (Ex)** Sticky, arm-length tendrils cover a mu spore. A mu spore can use these tendrils to attempt a [grab](monsters/universalMonsterRules#_grab) as an immediate action when an adjacent creature hits it with a melee attack. As it is only using the tendrils (instead of conducting the grapple normally), it takes a –20 penalty to its CMB to make and maintain the grapple (+31 CMB with tendrils). The mu spore does not gain the grappled condition while grappling a creature with its tendrils.
 
-**Spore Cough (Su)** Once every 1d4 rounds as a standard action, a mu spore can release a cloud of burrowing spores in a 100-foot cone. The burrowing spores deal 20d8 points of damage to all creatures and wooden structures in the area, or half damage to any creatures that make a DC 34 Reflex save. Plants and [plant](monsters_dir/creatureTypes#_plant) creatures are immune to this damage. The save DC is Constitution-based.
+**Spore Cough (Su)** Once every 1d4 rounds as a standard action, a mu spore can release a cloud of burrowing spores in a 100-foot cone. The burrowing spores deal 20d8 points of damage to all creatures and wooden structures in the area, or half damage to any creatures that make a DC 34 Reflex save. Plants and [plant](monsters/creatureTypes#_plant) creatures are immune to this damage. The save DC is Constitution-based.
 
 A mu spore is a thankfully rare plant of vast power and strange intellect. The smallest of mu spores (such as the one presented here) are never less than a hundred feet long from tentacle tip to tentacle tip, and weigh a minimum of 200,000 pounds. Yet despite their vast bulk, mu spores are capable of flying with an uncommon grace, venting jets of foul-smelling spores to guide their flight through the air.
 

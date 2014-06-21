@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/waterWalk
+title: ultimateCombat/spells/waterWalk
 ---
 Water Walk, Communal
 
@@ -8,5 +8,5 @@ Water Walk, Communal
 
 **Target** creatures touched
 
-This spell functions like _ [water walk](spells_dir/waterWalk#_water-walk)_, except you divide the duration in 10-minute intervals among the creatures touched.
+This spell functions like _ [water walk](spells/waterWalk#_water-walk)_, except you divide the duration in 10-minute intervals among the creatures touched.
 

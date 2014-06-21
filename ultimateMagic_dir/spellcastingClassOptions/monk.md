@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spellcastingClassOptions_dir/monk
+title: ultimateMagic/spellcastingClassOptions/monk
 ---
 # Monk
 
@@ -12,7 +12,7 @@ This section introduces monk vows, which any user of _ki_ can take to increase h
 
 A monk can discipline his body to hold more _ki_ by upholding the strict tenets of a vow. By adhering to his vow's tenets, the monk's _ki_ pool increases by the amount listed in the vow's description. Every vow comes with a penalty or limitation to offset this increase in _ki_. A monk can take a vow at any level, but it does not add to his _ki_ pool until he gains a _ki_ pool as a class feature. The ability to take these vows replaces the still mind class feature, even if the monk abandons all his vows.
 
-If a monk knowingly and willingly breaks his vow, his _ki_ pool is reduced to 0 (as if he had spent all of his _ki_ points) and he cannot replenish his pool or use abilities that require _ki_ or a _ki_ pool until he has redeemed himself. Redemption requires a recommitment to his vow accompanied by an _ [atonement](spells_dir/atonement#_atonement)_ spell. After the redemption, the monk's normal _ki_ pool (without the bonus from the vow) returns. If he upholds the previously broken vow for a full month, his _ki_ pool regains the additional points from taking the vow, and he can decide whether to continue with his vow or forgo his vow without penalty. Once a monk forgoes a vow in this fashion, she can never gain a _ki_ point bonus from that vow.
+If a monk knowingly and willingly breaks his vow, his _ki_ pool is reduced to 0 (as if he had spent all of his _ki_ points) and he cannot replenish his pool or use abilities that require _ki_ or a _ki_ pool until he has redeemed himself. Redemption requires a recommitment to his vow accompanied by an _ [atonement](spells/atonement#_atonement)_ spell. After the redemption, the monk's normal _ki_ pool (without the bonus from the vow) returns. If he upholds the previously broken vow for a full month, his _ki_ pool regains the additional points from taking the vow, and he can decide whether to continue with his vow or forgo his vow without penalty. Once a monk forgoes a vow in this fashion, she can never gain a _ki_ point bonus from that vow.
 
 A monk may have multiple vows. Their effects and increase to his _ki_ pool stack. If a monk violates a vow, he suffers the loss of _ki_ described above; redemption means the monk regains the extra _ki_ from his unbroken vows, but the extra _ki_ from the broken vow does not return until he finishes the month-long commitment (in effect, violating one vow does not have an effect on the other vows once the monk redeems himself).
 
@@ -52,7 +52,7 @@ _Spells_: These _ki_ powers duplicate the effects of a spell, and are spell-like
 
 **Activation** : Most _ki_ powers require the monk to spend _ki_ points; the exact amount is listed after the _ki_ power. _Ki_ powers that cost 0 _ki_ do not require the monk to have any _ki_ points in her _ki_ pool to use the ability.
 
-The saving throw against a monk's _ki_ power, if any, is equal to 10 + 1_dir/2 the monk's level + the monk's Wisdom bonus.
+The saving throw against a monk's _ki_ power, if any, is equal to 10 + 1/2 the monk's level + the monk's Wisdom bonus.
 
 Feats marked with a dagger (†) are _ki_ powers that can be activated as an immediate action.
 
@@ -60,21 +60,21 @@ Feats marked with a dagger (†) are _ki_ powers that can be activated as an imm
 
 [Acrobatic Steps](feats#_acrobatic-steps) (1_ ki _point)
 
-_ [augury](spells_dir/augury#_augury)_ (1_ ki _point)
+_ [augury](spells/augury#_augury)_ (1_ ki _point)
 
-_ [barkskin](spells_dir/barkskin#_barkskin)_ (self only, 1_ ki _point)
+_ [barkskin](spells/barkskin#_barkskin)_ (self only, 1_ ki _point)
 
-[Deny Death](ultimateMagic_dir/ultimateMagicFeats#_deny-death) † (0 _ki_ points)
+[Deny Death](ultimateMagic/ultimateMagicFeats#_deny-death) † (0 _ki_ points)
 
-_ [feather step](advanced_dir/spells_dir/featherStep#_feather-step)_ (self only, 1_ ki _point)
+_ [feather step](advanced/spells/featherStep#_feather-step)_ (self only, 1_ ki _point)
 
-_ [hydraulic push](advanced_dir/spells_dir/hydraulicPush#_hydraulic-push-)_ (1_ ki _point)
+_ [hydraulic push](advanced/spells/hydraulicPush#_hydraulic-push-)_ (1_ ki _point)
 
-_ [ki arrow](ultimateMagic_dir/spells_dir/kiArrow#_ki-arrow)_ (1_ ki _point)
+_ [ki arrow](ultimateMagic/spells/kiArrow#_ki-arrow)_ (1_ ki _point)
 
 _Ki_ Stand † (0 _ki_ points)
 
-_ [message](spells_dir/message#_message)_ (1_ ki _point)
+_ [message](spells/message#_message)_ (1_ ki _point)
 
 [Power Attack](feats#_power-attack) (1_ ki _point)
 
@@ -82,27 +82,27 @@ _ [message](spells_dir/message#_message)_ (1_ ki _point)
 
 slow fall (monk ability, 0 _ki_ points)
 
-_ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_ (2_ ki _points)
+_ [scorching ray](spells/scorchingRay#_scorching-ray)_ (2_ ki _points)
 
 [Throw Anything](feats#_throw-anything) (1_ ki _point)
 
-_ [true strike](spells_dir/trueStrike#_true-strike)_ (self only, 1_ ki _point)
+_ [true strike](spells/trueStrike#_true-strike)_ (self only, 1_ ki _point)
 
 **6th-Level Ki Powers**
 
-_ [cloak of winds](advanced_dir/spells_dir/cloakOfWinds#_cloak-of-winds)_ (self only, 2_ ki _points)
+_ [cloak of winds](advanced/spells/cloakOfWinds#_cloak-of-winds)_ (self only, 2_ ki _points)
 
-_ [gaseous form](spells_dir/gaseousForm#_gaseous-form)_ (self only, 1_ ki _point)
+_ [gaseous form](spells/gaseousForm#_gaseous-form)_ (self only, 1_ ki _point)
 
-[Heroic Recovery](advanced_dir/advancedFeats#_heroic-recovery) † (1_ ki _point)
+[Heroic Recovery](advanced/advancedFeats#_heroic-recovery) † (1_ ki _point)
 
-[high jump](classes_dir/monk#_high-jump) (1_ ki _point)
+[high jump](classes/monk#_high-jump) (1_ ki _point)
 
-_ [hydraulic torrent](advanced_dir/spells_dir/hydraulicTorrent#_hydraulic-torrent-)_ (2_ ki _points)
+_ [hydraulic torrent](advanced/spells/hydraulicTorrent#_hydraulic-torrent-)_ (2_ ki _points)
 
-_ [remove disease](spells_dir/removeDisease#_remove-disease)_ (2_ ki _points)
+_ [remove disease](spells/removeDisease#_remove-disease)_ (2_ ki _points)
 
-[Sidestep](advanced_dir/advancedFeats#_sidestep-(combat)) † (1_ ki _point)
+[Sidestep](advanced/advancedFeats#_sidestep-(combat)) † (1_ ki _point)
 
 [Snatch Arrows](feats#_snatch-arrows)† (1_ ki _point)
 
@@ -110,29 +110,29 @@ _ [remove disease](spells_dir/removeDisease#_remove-disease)_ (2_ ki _points)
 
 **8th-Level Ki Powers**
 
-_ [dragon's breath](advanced_dir/spells_dir/dragonSBreath#_dragon's-breath)_ (2_ ki _points)
+_ [dragon's breath](advanced/spells/dragonSBreath#_dragon's-breath)_ (2_ ki _points)
 
-[Gliding Steps](ultimateMagic_dir/ultimateMagicFeats#_gliding-steps) † (1 _ki_ point)
+[Gliding Steps](ultimateMagic/ultimateMagicFeats#_gliding-steps) † (1 _ki_ point)
 
-_ [neutralize poison](spells_dir/neutralizePoison#_neutralize-poison)_ (3_ ki _points)
+_ [neutralize poison](spells/neutralizePoison#_neutralize-poison)_ (3_ ki _points)
 
-_ [poison](spells_dir/poison#_poison)_ (2_ ki _points)
+_ [poison](spells/poison#_poison)_ (2_ ki _points)
 
-_ [restoration](spells_dir/restoration#_restoration)_ (self only, 2_ ki _points)
+_ [restoration](spells/restoration#_restoration)_ (self only, 2_ ki _points)
 
-_ [share memory](ultimateMagic_dir/spells_dir/shareMemory#_share-memory)_ (0 _ki_ points)
+_ [share memory](ultimateMagic/spells/shareMemory#_share-memory)_ (0 _ki_ points)
 
-_ [silk to steel](ultimateMagic_dir/spells_dir/silkToSteel#_silk-to-steel)_ (1_ ki _point)
+_ [silk to steel](ultimateMagic/spells/silkToSteel#_silk-to-steel)_ (1_ ki _point)
 
-[Spider Step](advanced_dir/advancedFeats#_spider-step) (1_ ki _point)
+[Spider Step](advanced/advancedFeats#_spider-step) (1_ ki _point)
 
 [Whirlwind Attack](feats#_whirlwind-attack) (2_ ki _points)
 
-[wholeness of body](classes_dir/monk#_wholeness-of-body) (monk ability, 2_ ki _points)
+[wholeness of body](classes/monk#_wholeness-of-body) (monk ability, 2_ ki _points)
 
 **10th-Level Ki Powers**
 
-_ [discordant blast](advanced_dir/spells_dir/discordantBlast#_discordant-blast)_ (2_ ki _points)
+_ [discordant blast](advanced/spells/discordantBlast#_discordant-blast)_ (2_ ki _points)
 
 [Greater Bull Rush](feats#_greater-bull-rush) (2_ ki _points)
 
@@ -142,15 +142,15 @@ _ [discordant blast](advanced_dir/spells_dir/discordantBlast#_discordant-blast)_
 
 [Greater Sunder](feats#_greater-sunder) (2_ ki _points)
 
-[Improved Blind-Fight](advanced_dir/advancedFeats#_improved-blind-fight-(combat)) † (1_ ki _point)
+[Improved Blind-Fight](advanced/advancedFeats#_improved-blind-fight-(combat)) † (1_ ki _point)
 
-_ [ki leech](ultimateMagic_dir/spells_dir/kiLeech#_ki-leech)_ (0 _ki_ points)
+_ [ki leech](ultimateMagic/spells/kiLeech#_ki-leech)_ (0 _ki_ points)
 
 [Lunge](feats#_lunge) (1_ ki _point)
 
-_ [shadow step](ultimateMagic_dir/spells_dir/shadowStep#_shadow-step)_ (1_ ki _point)
+_ [shadow step](ultimateMagic/spells/shadowStep#_shadow-step)_ (1_ ki _point)
 
-_ [spit venom](ultimateMagic_dir/spells_dir/spitVenom#_spit-venom)_ (2_ ki _points)
+_ [spit venom](ultimateMagic/spells/spitVenom#_spit-venom)_ (2_ ki _points)
 
 [Step Up](feats#_step-up) and Strike † (2_ ki _points)
 
@@ -158,45 +158,45 @@ _ [spit venom](ultimateMagic_dir/spells_dir/spitVenom#_spit-venom)_ (2_ ki _poin
 
 **12th-Level Ki Powers**
 
-[abundant step](classes_dir/monk#_abundant-step) (monk ability, 2_ ki _points)
+[abundant step](classes/monk#_abundant-step) (monk ability, 2_ ki _points)
 
-_ [battlemind link](ultimateMagic_dir/spells_dir/battlemindLink#_battlemind-link)_ (4_ ki _points)
+_ [battlemind link](ultimateMagic/spells/battlemindLink#_battlemind-link)_ (4_ ki _points)
 
-[diamond body](classes_dir/monk#_diamond-body) (monk ability)
+[diamond body](classes/monk#_diamond-body) (monk ability)
 
-[Elemental Fists](advanced_dir/coreClasses_dir/monk#_elemental-fist) (2_ ki _points)
+[Elemental Fists](advanced/coreClasses/monk#_elemental-fist) (2_ ki _points)
 
 [Improvised Weapon Mastery](feats#_improvised-weapon-mastery) (2_ ki _points)
 
-[_Ki_ Throw](advanced_dir/advancedFeats#_ki-throw-(combat)) (2_ ki _points)
+[_Ki_ Throw](advanced/advancedFeats#_ki-throw-(combat)) (2_ ki _points)
 
-[Punishing Kick](advanced_dir/advancedFeats#_punishing-kick-(combat)) (2_ ki _points)
+[Punishing Kick](advanced/advancedFeats#_punishing-kick-(combat)) (2_ ki _points)
 
-_ [shadow walk](spells_dir/shadowWalk#_shadow-walk)_ (3_ ki _points)
+_ [shadow walk](spells/shadowWalk#_shadow-walk)_ (3_ ki _points)
 
 **14th-Level Ki Powers**
 
-_ [blood crow strike](ultimateMagic_dir/spells_dir/bloodCrowStrike#_blood-crow-strike)_ (2_ ki _points)
+_ [blood crow strike](ultimateMagic/spells/bloodCrowStrike#_blood-crow-strike)_ (2_ ki _points)
 
-[Cloud Step](advanced_dir/advancedFeats#_cloud-step) (3_ ki _points)
+[Cloud Step](advanced/advancedFeats#_cloud-step) (3_ ki _points)
 
-_ [cold ice strike](ultimateMagic_dir/spells_dir/coldIceStrike#_cold-ice-strike)_ (3_ ki _points)
+_ [cold ice strike](ultimateMagic/spells/coldIceStrike#_cold-ice-strike)_ (3_ ki _points)
 
-[diamond soul](classes_dir/monk#_diamond-soul) (monk ability)
+[diamond soul](classes/monk#_diamond-soul) (monk ability)
 
-[Disarming Strike](advanced_dir/advancedFeats#_disarming-strike-(combat)) (2_ ki _points)
+[Disarming Strike](advanced/advancedFeats#_disarming-strike-(combat)) (2_ ki _points)
 
-[Improved _Ki_ Throw](advanced_dir/advancedFeats#_improved-ki-throw-(combat)) (2_ ki _points)
+[Improved _Ki_ Throw](advanced/advancedFeats#_improved-ki-throw-(combat)) (2_ ki _points)
 
-_ [ki shout](ultimateMagic_dir/spells_dir/kiShout#_ki-shout)_ (3_ ki _points)
+_ [ki shout](ultimateMagic/spells/kiShout#_ki-shout)_ (3_ ki _points)
 
-_ [sonic thrust](ultimateMagic_dir/spells_dir/sonicThrust#_sonic-thrust)_ (2_ ki _points)
+_ [sonic thrust](ultimateMagic/spells/sonicThrust#_sonic-thrust)_ (2_ ki _points)
 
 **16th-Level Ki Powers**
 
 [Bleeding Critical](feats#_bleeding-critical) (3_ ki _points)
 
-[Greater Blind-Fight](advanced_dir/advancedFeats#_greater-blind-fight-(combat)) † (2_ ki _points)
+[Greater Blind-Fight](advanced/advancedFeats#_greater-blind-fight-(combat)) † (2_ ki _points)
 
 [Improved Vital Strike](feats#_improved-vital-strike) (2_ ki _points)
 
@@ -204,29 +204,29 @@ _ [sonic thrust](ultimateMagic_dir/spells_dir/sonicThrust#_sonic-thrust)_ (2_ ki
 
 [Penetrating Strike](feats#_penetrating-strike) (2_ ki _points)
 
-[quivering palm](classes_dir/monk#_quivering-palm) (monk ability, 2_ ki _points)
+[quivering palm](classes/monk#_quivering-palm) (monk ability, 2_ ki _points)
 
-_ [strangling hair](ultimateMagic_dir/spells_dir/stranglingHair#_strangling-hair)_ (3_ ki _points)
+_ [strangling hair](ultimateMagic/spells/stranglingHair#_strangling-hair)_ (3_ ki _points)
 
 **18th-Level Ki Powers**
 
-[timeless body](classes_dir/monk#_timeless-body-monk) (monk ability, 0_ ki _points)
+[timeless body](classes/monk#_timeless-body-monk) (monk ability, 0_ ki _points)
 
-[tongue of the sun and moon](classes_dir/monk#_tongue-of-the-sun-and-moon) (monk ability, 0_ ki _points)
+[tongue of the sun and moon](classes/monk#_tongue-of-the-sun-and-moon) (monk ability, 0_ ki _points)
 
 **20th-Level Ki Powers**
 
 [Blinding Critical](feats#_blinding-critical) (3_ ki _points)
 
-[Crippling Critical](advanced_dir/advancedFeats#_crippling-critical-(combat,-critical)) (3_ ki _points)
+[Crippling Critical](advanced/advancedFeats#_crippling-critical-(combat,-critical)) (3_ ki _points)
 
 [Deafening Critical](feats#_deafening-critical) (3_ ki _points)
 
-[empty body](classes_dir/monk#_empty-body) (monk ability, 3_ ki _points)
+[empty body](classes/monk#_empty-body) (monk ability, 3_ ki _points)
 
 [Greater Penetrating Strike](feats#_greater-penetrating-strike) (3_ ki _points)
 
-[perfect self](classes_dir/monk#_perfect-self) (monk ability, level 20)
+[perfect self](classes/monk#_perfect-self) (monk ability, level 20)
 
 [Tiring Critical](feats#_tiring-critical) (3_ ki _points)
 

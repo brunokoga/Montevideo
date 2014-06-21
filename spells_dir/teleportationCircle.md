@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/teleportationCircle
+title: spells/teleportationCircle
 ---
  **Teleportation Circle**
 
-**School** conjuration (teleportation); **Level** sorcerer_dir/wizard 9
+**School** conjuration (teleportation); **Level** sorcerer/wizard 9
 
 **Casting Time** 10 minutes
 
@@ -14,7 +14,7 @@ title: spells_dir/teleportationCircle
 
 **Effect** 5-ft.-radius circle that teleports those who activate it
 
-**Duration** 10 min._dir/level (D)
+**Duration** 10 min./level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

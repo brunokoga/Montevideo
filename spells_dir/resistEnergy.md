@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/resistEnergy
+title: spells/resistEnergy
 ---
  **Resist Energy**
 
-**School** abjuration; **Level** cleric 2, druid 2, paladin 2, ranger 1, sorcerer_dir/wizard 2
+**School** abjuration; **Level** cleric 2, druid 2, paladin 2, ranger 1, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/resistEnergy
 
 **Target** creature touched
 
-**Duration** 10 min._dir/level
+**Duration** 10 min./level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

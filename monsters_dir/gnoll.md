@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/gnoll
+title: monsters/gnoll
 ---
 # Gnoll
 
@@ -12,7 +12,7 @@ _Hunched and feral, this furred, hyena-headed humanoid stands slightly taller th
 
 CE Medium [humanoid](creatureTypes#_humanoid) (gnoll)
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +2
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +2
 
 **Defense**
 
@@ -26,9 +26,9 @@ CE Medium [humanoid](creatureTypes#_humanoid) (gnoll)
 
 **Speed** 30 ft.
 
-**Melee** spear +3 (1d8+3_dir/×3)
+**Melee** spear +3 (1d8+3/×3)
 
-**Ranged** spear +1 (1d8+2_dir/×3)
+**Ranged** spear +1 (1d8+2/×3)
 
 **Statistics**
 
@@ -38,7 +38,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) (gnoll)
 
 **Feats** [Power Attack](../feats#_power-attack)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +2
+**Skills** [Perception](../skills/perception#_perception) +2
 
 **Languages** Gnoll
 

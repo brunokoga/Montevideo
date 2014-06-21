@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/sympatheticVibration
+title: spells/sympatheticVibration
 ---
  **Sympathetic Vibration**
 
@@ -14,7 +14,7 @@ title: spells_dir/sympatheticVibration
 
 **Target** one freestanding structure
 
-**Duration** up to 1 round_dir/level
+**Duration** up to 1 round/level
 
 **Saving Throw** none; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

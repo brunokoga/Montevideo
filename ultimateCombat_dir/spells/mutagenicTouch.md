@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/mutagenicTouch
+title: ultimateCombat/spells/mutagenicTouch
 ---
 Mutagenic Touch
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/detectThoughts
+title: spells/detectThoughts
 ---
  **Detect Thoughts**
 
-**School** divination [mind-affecting]; **Level** bard 2, sorcerer_dir/wizard 2
+**School** divination [mind-affecting]; **Level** bard 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F_dir/DF (a copper piece)
+**Components** V, S, F/DF (a copper piece)
 
 **Range** 60 ft.
 
 **Area** cone-shaped emanation
 
-**Duration** concentration, up to 1 min._dir/level (D)
+**Duration** concentration, up to 1 min./level (D)
 
 **Saving Throw** [Will](../combat#_will) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

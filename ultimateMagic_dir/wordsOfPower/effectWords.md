@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/wordsOfPower_dir/effectWords
+title: ultimateMagic/wordsOfPower/effectWords
 ---
 # Effect Words
 
@@ -26,73 +26,73 @@ Effect words determine the overall outcome of a wordspell. A wordspell can conta
 
 ## Effect Word Types
 
-[Acid Words](effectwords_dir/acidWords)
+[Acid Words](effectwords/acidWords)
 
-[Alignment Words](effectwords_dir/alignmentWords)
+[Alignment Words](effectwords/alignmentWords)
 
-[Animal Words](effectwords_dir/animalWords)
+[Animal Words](effectwords/animalWords)
 
-[Armor Words](effectwords_dir/armorWords)
+[Armor Words](effectwords/armorWords)
 
-[Binding Words](effectwords_dir/bindingWords)
+[Binding Words](effectwords/bindingWords)
 
-[Body Words](effectwords_dir/bodyWords)
+[Body Words](effectwords/bodyWords)
 
-[Change Words](effectwords_dir/changeWords)
+[Change Words](effectwords/changeWords)
 
-[Cold Words](effectwords_dir/coldWords)
+[Cold Words](effectwords/coldWords)
 
-[Command Words](effectwords_dir/commandWords)
+[Command Words](effectwords/commandWords)
 
-[Concealing Words](effectwords_dir/concealingWords)
+[Concealing Words](effectwords/concealingWords)
 
-[Death Words](effectwords_dir/deathWords)
+[Death Words](effectwords/deathWords)
 
-[Destruction Words](effectwords_dir/destructionWords)
+[Destruction Words](effectwords/destructionWords)
 
-[Detection Words](effectwords_dir/detectionWords)
+[Detection Words](effectwords/detectionWords)
 
-[Dispelling Words](effectwords_dir/dispellingWords)
+[Dispelling Words](effectwords/dispellingWords)
 
-[Divination Words](effectwords_dir/divinationWords)
+[Divination Words](effectwords/divinationWords)
 
-[Electricity Words](effectwords_dir/electricityWords)
+[Electricity Words](effectwords/electricityWords)
 
-[Fear Words](effectwords_dir/fearWords)
+[Fear Words](effectwords/fearWords)
 
-[Fire Words](effectwords_dir/fireWords)
+[Fire Words](effectwords/fireWords)
 
-[Flight Words](effectwords_dir/flightWords)
+[Flight Words](effectwords/flightWords)
 
-[Force Words](effectwords_dir/forceWords)
+[Force Words](effectwords/forceWords)
 
-[Gravity Words](effectwords_dir/gravityWords)
+[Gravity Words](effectwords/gravityWords)
 
-[Healing Words](effectwords_dir/healingWords)
+[Healing Words](effectwords/healingWords)
 
-[Illusion Words](effectwords_dir/illusionWords)
+[Illusion Words](effectwords/illusionWords)
 
-[Illumination Words](effectwords_dir/illuminationWords)
+[Illumination Words](effectwords/illuminationWords)
 
-[Language Words](effectwords_dir/languageWords)
+[Language Words](effectwords/languageWords)
 
-[Life Words](effectwords_dir/lifeWords)
+[Life Words](effectwords/lifeWords)
 
-[Pain Words](effectwords_dir/painWords)
+[Pain Words](effectwords/painWords)
 
-[Power Words](effectwords_dir/powerWords)
+[Power Words](effectwords/powerWords)
 
-[Sonic Words](effectwords_dir/sonicWords)
+[Sonic Words](effectwords/sonicWords)
 
-[Summoning Words](effectwords_dir/summoningWords)
+[Summoning Words](effectwords/summoningWords)
 
-[Teleportation Words](effectwords_dir/teleportationWords)
+[Teleportation Words](effectwords/teleportationWords)
 
-[Time Words](effectwords_dir/timeWords)
+[Time Words](effectwords/timeWords)
 
-[Wall Words](effectwords_dir/wallWords)
+[Wall Words](effectwords/wallWords)
 
-[Weather Words](effectwords_dir/weatherWords)
+[Weather Words](effectwords/weatherWords)
 
-[Wounding Words](effectwords_dir/woundingWords)
+[Wounding Words](effectwords/woundingWords)
 

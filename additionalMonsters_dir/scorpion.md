@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters_dir/scorpion
+title: additionalMonsters/scorpion
 ---
 # Scorpion, Black 
 
@@ -10,9 +10,9 @@ Black ScorpionCR 15
 
 **XP 51,200**
 
-N Colossal [vermin](monsters_dir/creatureTypes#_vermin)
+N Colossal [vermin](monsters/creatureTypes#_vermin)
 
-**Init** +0; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4
+**Init** +0; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +4
 
 Defense
 
@@ -28,11 +28,11 @@ Offense
 
 **Speed** 60 ft.
 
-**Melee** 2 claws +23 (2d8+13 plus [grab](monsters_dir/universalMonsterRules#_grab)), sting +23 (2d6+13 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** 2 claws +23 (2d8+13 plus [grab](monsters/universalMonsterRules#_grab)), sting +23 (2d6+13 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 30 ft.; **Reach** 30 ft.
 
-**Special Attacks** [constrict](monsters_dir/universalMonsterRules#_constrict) (2d8+19), rapid stinging
+**Special Attacks** [constrict](monsters/universalMonsterRules#_constrict) (2d8+19), rapid stinging
 
 Statistics
 
@@ -40,7 +40,7 @@ Statistics
 
 **Base Atk** +18; **CMB** +39 (+43 grapple); **CMD** 49 (61 vs. trip)
 
-**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +17, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) –12; **Racial Modifiers** +4 [Climb](additionalMonsters_dir/../skills_dir/climb#_climb), +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception), +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
+**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +17, [Perception](additionalMonsters/../skills/perception#_perception) +4, [Stealth](additionalMonsters/../skills/stealth#_stealth) –12; **Racial Modifiers** +4 [Climb](additionalMonsters/../skills/climb#_climb), +4 [Perception](additionalMonsters/../skills/perception#_perception), +4 [Stealth](additionalMonsters/../skills/stealth#_stealth)
 
 Ecology
 
@@ -52,7 +52,7 @@ Ecology
 
 Special Abilities
 
-**Poison (Ex)** Sting—injury; _save_ Fort DC 27; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d4 Str, 1d4 Dex, and 1d4 Con; _cure_ 3 saves.
+**Poison (Ex)** Sting—injury; _save_ Fort DC 27; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str, 1d4 Dex, and 1d4 Con; _cure_ 3 saves.
 
 **Rapid Stinging (Ex)** A black scorpion's stinger strikes with astounding speed; it can make one additional attack in a round with its sting as a swift action.
 
@@ -66,9 +66,9 @@ Cave ScorpionCR 1
 
 **XP 400**
 
-N Medium [vermin](monsters_dir/creatureTypes#_vermin)
+N Medium [vermin](monsters/creatureTypes#_vermin)
 
-**Init** +0; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4
+**Init** +0; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +4
 
 Defense
 
@@ -84,7 +84,7 @@ Offense
 
 **Speed** 60 ft., climb 40 ft.
 
-**Melee** 2 claws +2 (1d4), sting +2 (1d4 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** 2 claws +2 (1d4), sting +2 (1d4 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
 
 **Special Attacks** rend (2 claws, 2d4)
 
@@ -94,19 +94,19 @@ Statistics
 
 **Base Atk** +2; **CMB** +2; **CMD** 12 (24 vs. trip)
 
-**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +8, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +0 (+12 in caves); **Racial Modifiers** +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception), +12 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) in caves
+**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +8, [Perception](additionalMonsters/../skills/perception#_perception) +4, [Stealth](additionalMonsters/../skills/stealth#_stealth) +0 (+12 in caves); **Racial Modifiers** +4 [Perception](additionalMonsters/../skills/perception#_perception), +12 [Stealth](additionalMonsters/../skills/stealth#_stealth) in caves
 
 Ecology
 
 **Environment** any underground
 
-**Organization** solitary, pair, or [swarm](monsters_dir/creatureTypes#_swarm-subtype) (3–12)
+**Organization** solitary, pair, or [swarm](monsters/creatureTypes#_swarm-subtype) (3–12)
 
 **Treasure** none
 
 Special Abilities
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Sting—injury; _save_ Fort DC 12; _frequency_ 1_dir/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Sting—injury; _save_ Fort DC 12; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save.
 
 The squat cave scorpion is quite well suited for life in caves. With its bulky armor, a cave scorpion at rest looks like a pile of stones. The cave scorpion's favorite food is dwarven meat, and when a cave scorpion finds a working dwarven mine, it can quickly become a major inconvenience. Dwarven societies often post hefty bounties on cave scorpion stingers.
 

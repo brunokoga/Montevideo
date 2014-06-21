@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/dictum
+title: spells/dictum
 ---
  **Dictum**
 

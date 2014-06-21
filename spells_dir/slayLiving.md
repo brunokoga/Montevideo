@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/slayLiving
+title: spells/slayLiving
 ---
  **Slay Living**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters_dir/gremlin
+title: additionalMonsters/gremlin
 ---
 # Gremlin
 
@@ -24,9 +24,9 @@ Grimacing like a maniac, this lean little bat-eared horror displays a mouth full
 
 **XP 400**
 
-CE Tiny [fey](monsters_dir/creatureTypes#_fey)
+CE Tiny [fey](monsters/creatureTypes#_fey)
 
-**Init** +4; **Senses** darkvision 120 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6
+**Init** +4; **Senses** darkvision 120 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +6
 
 Defense
 
@@ -36,23 +36,23 @@ Defense
 
 **Fort** +0, **Ref** +6, **Will** +4
 
-**DR** 5_dir/cold iron; **SR** 12
+**DR** 5/cold iron; **SR** 12
 
 Offense
 
 **Speed** 40 ft.
 
-**Melee** short sword +6 (1d3–4_dir/19–20), bite +1 (1d2–4)
+**Melee** short sword +6 (1d3–4/19–20), bite +1 (1d2–4)
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 **Special Attacks** sneak attack +1d6, tinker
 
 **Spell-Like Abilities** (CL 1st; concentration +3)
 
-At will—_ [prestidigitation](additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_
+At will—_ [prestidigitation](additionalMonsters/../spells/prestidigitation#_prestidigitation)_
 
-1_dir/hour—_ [dimension door](additionalMonsters_dir/../spells_dir/dimensionDoor#_dimension-door)_ (self plus 5 lbs. only)
+1/hour—_ [dimension door](additionalMonsters/../spells/dimensionDoor#_dimension-door)_ (self plus 5 lbs. only)
 
 Statistics
 
@@ -60,9 +60,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +2; **CMD** 9
 
-**Feats** [Dodge](additionalMonsters_dir/../feats#_dodge), [Toughness](additionalMonsters_dir/../feats#_toughness)B, [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)B
+**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Toughness](additionalMonsters/../feats#_toughness)B, [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)B
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +6, [Craft](additionalMonsters_dir/../skills_dir/craft#_craft) (traps) +10, [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) +9, [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +8, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6, [Sleight of Hand](additionalMonsters_dir/../skills_dir/sleightOfHand#_sleight-of-hand) +8, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +16, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +6; **Racial Modifiers** +4 [Craft](additionalMonsters_dir/../skills_dir/craft#_craft) (traps), +4 [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device)
+**Skills** [Bluff](additionalMonsters/../skills/bluff#_bluff) +6, [Craft](additionalMonsters/../skills/craft#_craft) (traps) +10, [Disable Device](additionalMonsters/../skills/disableDevice#_disable-device) +9, [Escape Artist](additionalMonsters/../skills/escapeArtist#_escape-artist) +8, [Perception](additionalMonsters/../skills/perception#_perception) +6, [Sleight of Hand](additionalMonsters/../skills/sleightOfHand#_sleight-of-hand) +8, [Stealth](additionalMonsters/../skills/stealth#_stealth) +16, [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device) +6; **Racial Modifiers** +4 [Craft](additionalMonsters/../skills/craft#_craft) (traps), +4 [Disable Device](additionalMonsters/../skills/disableDevice#_disable-device)
 
 **Languages** Undercommon
 
@@ -76,9 +76,9 @@ Ecology
 
 Special Abilities
 
-**Tinker (Sp)** A group of six jinkins working together over the course of an hour can create an effect identical to _ [bestow curse](additionalMonsters_dir/../spells_dir/bestowCurse#_bestow-curse)_ on any living creature. This effect functions at CL 6th and has a range of 60 feet, and the target creature must be either willing or helpless (but still gets a saving throw to resist). The save is DC 14 + the Charisma modifier of the jinkin with the highest Charisma score (DC 16 for most groups of jinkins). Alternatively, the group of jinkins can attempt to infuse a magic item with a [curse](monsters_dir/universalMonsterRules#_curse). The nature of this [curse](monsters_dir/universalMonsterRules#_curse) is determined randomly; half of these curses make the magic item unreliable (each time the item is used, there is a 20% chance it does not function), while the other half give the item a random requirement. A jinkin can take part in a tinkering only once per day, and may only tinker with a creature or object that isn't already cursed. Once a tinkering [curse](monsters_dir/universalMonsterRules#_curse) is in place, it is permanent until removed via an effect like _ [remove curse](additionalMonsters_dir/../spells_dir/removeCurse#_remove-curse)_. All jinkin tinkerings function as a [curse](monsters_dir/universalMonsterRules#_curse) created by a 6th-level caster.
+**Tinker (Sp)** A group of six jinkins working together over the course of an hour can create an effect identical to _ [bestow curse](additionalMonsters/../spells/bestowCurse#_bestow-curse)_ on any living creature. This effect functions at CL 6th and has a range of 60 feet, and the target creature must be either willing or helpless (but still gets a saving throw to resist). The save is DC 14 + the Charisma modifier of the jinkin with the highest Charisma score (DC 16 for most groups of jinkins). Alternatively, the group of jinkins can attempt to infuse a magic item with a [curse](monsters/universalMonsterRules#_curse). The nature of this [curse](monsters/universalMonsterRules#_curse) is determined randomly; half of these curses make the magic item unreliable (each time the item is used, there is a 20% chance it does not function), while the other half give the item a random requirement. A jinkin can take part in a tinkering only once per day, and may only tinker with a creature or object that isn't already cursed. Once a tinkering [curse](monsters/universalMonsterRules#_curse) is in place, it is permanent until removed via an effect like _ [remove curse](additionalMonsters/../spells/removeCurse#_remove-curse)_. All jinkin tinkerings function as a [curse](monsters/universalMonsterRules#_curse) created by a 6th-level caster.
 
-Sneaky and sadistic, jinkins are hideous gremlins that inhabit the dark places underground. Well acclimated to the shadows, they hide in cramped quarters and attack larger creatures when they're strategically positioned. Jinkins commonly work with or near larger or more powerful creatures; these larger creatures provide cover for the jinkins' trickery. They use _ [dimension door](additionalMonsters_dir/../spells_dir/dimensionDoor#_dimension-door) _to exit any battle that goes badly, taking any stolen goods with them.
+Sneaky and sadistic, jinkins are hideous gremlins that inhabit the dark places underground. Well acclimated to the shadows, they hide in cramped quarters and attack larger creatures when they're strategically positioned. Jinkins commonly work with or near larger or more powerful creatures; these larger creatures provide cover for the jinkins' trickery. They use _ [dimension door](additionalMonsters/../spells/dimensionDoor#_dimension-door) _to exit any battle that goes badly, taking any stolen goods with them.
 
 Jinkins delight in leading larger creatures into dangerous caves or pits, usually by lunging out of the shadows to make a single sneak attack against a creature and then running away, taking care while “fleeing” to remain visible to their target so that they can lure the victim into a trap.
 
@@ -98,9 +98,9 @@ This hideous, hunchbacked creature has three glowing blue eyes. Oily hair grows 
 
 **XP 600**
 
-CE Small [fey](monsters_dir/creatureTypes#_fey)
+CE Small [fey](monsters/creatureTypes#_fey)
 
-**Init** +4; **Senses** darkvision 120 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +9
+**Init** +4; **Senses** darkvision 120 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +9
 
 Defense
 
@@ -110,19 +110,19 @@ Defense
 
 **Fort** +3, **Ref** +7, **Will** +2
 
-**DR** 5_dir/cold iron; **SR** 13
+**DR** 5/cold iron; **SR** 13
 
 Offense
 
 **Speed** 30 ft., climb 20 ft.
 
-**Melee** bite +3 (1d4+1 plus [grab](monsters_dir/universalMonsterRules#_grab)), 2 claws +4 (1d3+1 plus trip)
+**Melee** bite +3 (1d4+1 plus [grab](monsters/universalMonsterRules#_grab)), 2 claws +4 (1d3+1 plus trip)
 
 **Spell-Like Abilities** (CL 3rd; concentration +4)
 
-At will—_ [prestidigitation](additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_
+At will—_ [prestidigitation](additionalMonsters/../spells/prestidigitation#_prestidigitation)_
 
-1_dir/hour—_ [heat metal](additionalMonsters_dir/../spells_dir/heatMetal#_heat-metal)_ (DC 13), _ [shocking grasp](additionalMonsters_dir/../spells_dir/shockingGrasp#_shocking-grasp), [snare](additionalMonsters_dir/../spells_dir/snare#_snare)_
+1/hour—_ [heat metal](additionalMonsters/../spells/heatMetal#_heat-metal)_ (DC 13), _ [shocking grasp](additionalMonsters/../spells/shockingGrasp#_shocking-grasp), [snare](additionalMonsters/../spells/snare#_snare)_
 
 Statistics
 
@@ -130,9 +130,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +1 (+5 grapple and trip); **CMD** 15
 
-**Feats** [Step Up](additionalMonsters_dir/../feats#_step-up), [Toughness](additionalMonsters_dir/../feats#_toughness)B, [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (claw)
+**Feats** [Step Up](additionalMonsters/../feats#_step-up), [Toughness](additionalMonsters/../feats#_toughness)B, [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (claw)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +10, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +9, [Craft](additionalMonsters_dir/../skills_dir/craft#_craft) (traps) +9, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +8, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +9, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +14; **Racial Modifiers** +4 [Craft](additionalMonsters_dir/../skills_dir/craft#_craft) (traps), +4 [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate), +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)
+**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +10, [Climb](additionalMonsters/../skills/climb#_climb) +9, [Craft](additionalMonsters/../skills/craft#_craft) (traps) +9, [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +8, [Perception](additionalMonsters/../skills/perception#_perception) +9, [Stealth](additionalMonsters/../skills/stealth#_stealth) +14; **Racial Modifiers** +4 [Craft](additionalMonsters/../skills/craft#_craft) (traps), +4 [Intimidate](additionalMonsters/../skills/intimidate#_intimidate), +4 [Perception](additionalMonsters/../skills/perception#_perception)
 
 **Languages** Undercommon
 
@@ -152,25 +152,25 @@ Special Abilities
 
 Nuglub gremlins are deranged; they enjoy combat with a manic glee that other gremlins reserve for destroying devices or creating complex traps. Indeed, they spend long hours sharpening their claws, filing their teeth, and looking for the perfect ledge from which to leap into the fray. If combat doesn't come to them, they seek it out, entering villages and killing innocents by night. Their idea of a good time is murder so silent that the victim never wakes up, so the family members find the remains the next morning and accuse one another of the atrocity.
 
-Nuglubs jealously attack armored foes, as the gremlins' hunchbacked forms make it difficult to wear armor made for other humanoids. A group may use its _ [heat metal](additionalMonsters_dir/../spells_dir/heatMetal#_heat-metal)_ and _ [shocking grasp](additionalMonsters_dir/../spells_dir/shockingGrasp#_shocking-grasp)_ abilities to weaken an opponent before mobbing it and trying to knock the foe prone. As soon as an enemy falls to the ground, all nuglubs descend on that target in a frenzy of bloodlust, grappling and biting, holding on like perverse leeches until nothing remains.
+Nuglubs jealously attack armored foes, as the gremlins' hunchbacked forms make it difficult to wear armor made for other humanoids. A group may use its _ [heat metal](additionalMonsters/../spells/heatMetal#_heat-metal)_ and _ [shocking grasp](additionalMonsters/../spells/shockingGrasp#_shocking-grasp)_ abilities to weaken an opponent before mobbing it and trying to knock the foe prone. As soon as an enemy falls to the ground, all nuglubs descend on that target in a frenzy of bloodlust, grappling and biting, holding on like perverse leeches until nothing remains.
 
 Though less technically inclined than some of their kin, nuglubs like using traps. Unlike most gremlins, who prefer to sabotage existing machines, nuglubs delight in the stealthy construction of traps in areas their victims consider familiar, rigging these painful and often deadly surprises on front doors, around the floor of beds, or near cribs in nurseries.
 
 Nuglubs are the brutes of gremlin-kind. Groups of nuglubs remain small, as they tend to quarrel with each other and cannibalize those on the wrong side of an angry argument. Lone nuglubs often work with other gremlins, as they like proving they're the strongest, and aren't likely to kill and eat their smaller allies (though those slain by other enemies are fair game for a little snacking).
 
-Nuglubs typically stand 2-1_dir/2 feet tall and weigh approximately 25 pounds.
+Nuglubs typically stand 2-1/2 feet tall and weigh approximately 25 pounds.
 
 # Gremlin, Pugwampi
 
 As if the world's most revolting lapdog had somehow learned to walk on its back legs, this sickly creature slinks forward carefully.
 
-PugwampiCR 1_dir/2
+PugwampiCR 1/2
 
 **XP 200**
 
-NE Tiny [fey](monsters_dir/creatureTypes#_fey)
+NE Tiny [fey](monsters/creatureTypes#_fey)
 
-**Init** +5; **Senses** darkvision 120 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6
+**Init** +5; **Senses** darkvision 120 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +6
 
 **Aura** unluck (20 ft.)
 
@@ -182,23 +182,23 @@ Defense
 
 **Fort** +0, **Ref** +3, **Will** +4
 
-**DR** 2_dir/cold iron; **SR** 7
+**DR** 2/cold iron; **SR** 7
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** dagger +3 (1d2–4_dir/19–20)
+**Melee** dagger +3 (1d2–4/19–20)
 
-**Ranged** shortbow +3 (1d3–4_dir/×3)
+**Ranged** shortbow +3 (1d3–4/×3)
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 **Spell-Like Abilities** (CL 1st; concentration –1)
 
-At will—_ [prestidigitation](additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_, _ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_
+At will—_ [prestidigitation](additionalMonsters/../spells/prestidigitation#_prestidigitation)_, _ [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_
 
-1_dir/day—_ [shatter](additionalMonsters_dir/../spells_dir/shatter#_shatter)_ (DC 10)
+1/day—_ [shatter](additionalMonsters/../spells/shatter#_shatter)_ (DC 10)
 
 Statistics
 
@@ -206,9 +206,9 @@ Statistics
 
 **Base Atk** +0; **CMB** –1; **CMD** 5
 
-**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Toughness](additionalMonsters_dir/../feats#_toughness)B, [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)B
+**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Toughness](additionalMonsters/../feats#_toughness)B, [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)B
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +2, [Craft](additionalMonsters_dir/../skills_dir/craft#_craft) (traps) +4, [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) +2, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6 (+2 Listening), [Ride](additionalMonsters_dir/../skills_dir/ride#_ride) +2, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +17; **Racial Modifiers** +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth), –4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) when listening
+**Skills** [Bluff](additionalMonsters/../skills/bluff#_bluff) +2, [Craft](additionalMonsters/../skills/craft#_craft) (traps) +4, [Disable Device](additionalMonsters/../skills/disableDevice#_disable-device) +2, [Perception](additionalMonsters/../skills/perception#_perception) +6 (+2 Listening), [Ride](additionalMonsters/../skills/ride#_ride) +2, [Stealth](additionalMonsters/../skills/stealth#_stealth) +17; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skills/stealth#_stealth), –4 [Perception](additionalMonsters/../skills/perception#_perception) when listening
 
 **Languages** Gnoll, Undercommon
 
@@ -222,7 +222,7 @@ Ecology
 
 Special Abilities
 
-**Unluck Aura (Su)** A pugwampi radiates an aura of unluck to a radius of 20 feet. Any creature in this area must roll two d20s whenever a situation calls for a d20 roll (such as an attack roll, a skill check, or a saving throw) and must use the lower of the two results generated. This is a mind-affecting effect that does not work on animals, other gremlins, or gnolls. Any character who gains any sort of luck bonus (such as that granted by a [_luckstone_](additionalMonsters_dir/../magicItems_dir/wondrousItems#_stone-of-good-luck) or [_divine favor_](additionalMonsters_dir/../spells_dir/divineFavor#_divine-favor)) is immune to the pugwampi unluck aura.
+**Unluck Aura (Su)** A pugwampi radiates an aura of unluck to a radius of 20 feet. Any creature in this area must roll two d20s whenever a situation calls for a d20 roll (such as an attack roll, a skill check, or a saving throw) and must use the lower of the two results generated. This is a mind-affecting effect that does not work on animals, other gremlins, or gnolls. Any character who gains any sort of luck bonus (such as that granted by a [_luckstone_](additionalMonsters/../magicItems/wondrousItems#_stone-of-good-luck) or [_divine favor_](additionalMonsters/../spells/divineFavor#_divine-favor)) is immune to the pugwampi unluck aura.
 
 Mean, dog-faced, and cowardly, pugwampis are loved by no one—not even other gremlins. These gremlins take disproportionate amounts of enjoyment from the accidents and missteps of other creatures, often going to great lengths to manufacture the perfect deadfalls or stumbling blocks. They then wait nearby, both to laugh at the inevitable mishaps and to make sure their personal unluckiness is passed off on their victims.
 
@@ -238,9 +238,9 @@ With a head like an angry crustacean, this fierce little insectoid creature clac
 
 **XP 400**
 
-LE Tiny [fey](monsters_dir/creatureTypes#_fey)
+LE Tiny [fey](monsters/creatureTypes#_fey)
 
-**Init** +1; **Senses** darkvision 120 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
+**Init** +1; **Senses** darkvision 120 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +5
 
 Defense
 
@@ -250,23 +250,23 @@ Defense
 
 **Fort** +2, **Ref** +3, **Will** +3
 
-**DR** 5_dir/cold iron; **SR** 12
+**DR** 5/cold iron; **SR** 12
 
 Offense
 
 **Speed** 20 ft., climb 20 ft.
 
-**Melee** warhammer +0 (1d4–2_dir/×3), bite –2 (1d3–2)
+**Melee** warhammer +0 (1d4–2/×3), bite –2 (1d3–2)
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 **Special Attacks** speedy sabotage, wrecking crew
 
 **Spell-Like Abilities** (CL 1st; concentration +1)
 
-At will—_ [prestidigitation](additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_
+At will—_ [prestidigitation](additionalMonsters/../spells/prestidigitation#_prestidigitation)_
 
-1_dir/hour—_ [rusting grasp](additionalMonsters_dir/../spells_dir/rustingGrasp#_rusting-grasp), [snare](additionalMonsters_dir/../spells_dir/snare#_snare)_
+1/hour—_ [rusting grasp](additionalMonsters/../spells/rustingGrasp#_rusting-grasp), [snare](additionalMonsters/../spells/snare#_snare)_
 
 Statistics
 
@@ -274,9 +274,9 @@ Statistics
 
 **Base Atk** +0; **CMB** –1; **CMD** 7
 
-**Feats** [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device)), [Toughness](additionalMonsters_dir/../feats#_toughness)B, [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)B
+**Feats** [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Disable Device](additionalMonsters/../skills/disableDevice#_disable-device)), [Toughness](additionalMonsters/../feats#_toughness)B, [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)B
 
-**Skills** [Appraise](additionalMonsters_dir/../skills_dir/appraise#_appraise) +2, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +13, [Craft](additionalMonsters_dir/../skills_dir/craft#_craft) (traps) +5, [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) +9, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (engineering) +2, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +13 (+17 in metal or stony areas, +9 when moving); **Racial Modifiers** +4 [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device), +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) in metal or stony areas, –4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) when moving
+**Skills** [Appraise](additionalMonsters/../skills/appraise#_appraise) +2, [Climb](additionalMonsters/../skills/climb#_climb) +13, [Craft](additionalMonsters/../skills/craft#_craft) (traps) +5, [Disable Device](additionalMonsters/../skills/disableDevice#_disable-device) +9, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (engineering) +2, [Perception](additionalMonsters/../skills/perception#_perception) +5, [Stealth](additionalMonsters/../skills/stealth#_stealth) +13 (+17 in metal or stony areas, +9 when moving); **Racial Modifiers** +4 [Disable Device](additionalMonsters/../skills/disableDevice#_disable-device), +4 [Stealth](additionalMonsters/../skills/stealth#_stealth) in metal or stony areas, –4 [Stealth](additionalMonsters/../skills/stealth#_stealth) when moving
 
 **Languages** Undercommon
 
@@ -290,13 +290,13 @@ Ecology
 
 Special Abilities
 
-**Speedy Sabotage (Su)** Vexgits are adept at disassembling machinery, reducing even complex devices to trash with shocking speed. When using the [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) skill, these gremlins treat all devices as being one category simpler for the purposes of determining how long it takes to use the skill. Thus, difficult devices count as tricky, tricky devices count as simple, and simple devices can be dismantled as a free action.
+**Speedy Sabotage (Su)** Vexgits are adept at disassembling machinery, reducing even complex devices to trash with shocking speed. When using the [Disable Device](additionalMonsters/../skills/disableDevice#_disable-device) skill, these gremlins treat all devices as being one category simpler for the purposes of determining how long it takes to use the skill. Thus, difficult devices count as tricky, tricky devices count as simple, and simple devices can be dismantled as a free action.
 
-**Wrecking Crew (Su)** A group of up to six vexgits can work together to dismantle a device. This ability functions like the aid another action, but a single vexgit can receive help from up to five other vexgits, granting it up to a +10 bonus on its [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) check.
+**Wrecking Crew (Su)** A group of up to six vexgits can work together to dismantle a device. This ability functions like the aid another action, but a single vexgit can receive help from up to five other vexgits, granting it up to a +10 bonus on its [Disable Device](additionalMonsters/../skills/disableDevice#_disable-device) check.
 
 Maniacally destructive little brutes, vexgits delight in scrapping and sabotaging the works of larger races. The larger and more complicated the target, the better. While one of these spiteful gremlins might delight in trapping someone behind a door with a jammed lock, loosening the wheels on a carriage, or sneakily removing all the nails from a small boat, it's when groups of vexgits get together that they're truly dangerous. In such instances, the portcullis of a vexgit-infested gatehouse turns into a deadly weapon, while a clock tower becomes an avalanche of gears waiting to topple. Engineers warn apprentices of masterful constructions destroyed by these unruly gremlins, with many blaming their greatest failures on such tiny saboteurs.
 
 Like most gremlins, vexgits prefer to live underground, but cities and the devices they find there fascinate them, often drawing mobs of the dangerous fey to sewer tunnels and abandoned warehouses.
 
-Vexgits stand 1-1_dir/2 feet tall and weigh approximately 16 pounds.
+Vexgits stand 1-1/2 feet tall and weigh approximately 16 pounds.
 

@@ -1,18 +1,18 @@
 ---
 layout: default
-title: mythicAdventures_dir/mythicMonsters_dir/ogre
+title: mythicAdventures/mythicMonsters/ogre
 ---
 # Ogre
 
 _This immense, muscular giant wears heavy scale mail and wields a club adorned with a giant claw. _
 
-Mythic Ogre CR 4_dir/MR 1
+Mythic Ogre CR 4/MR 1
 
 XP 1,200
 
-CE Large humanoid ( [giant](monsters_dir/creatureTypes#_giant-subtype), [mythic](mythicAdventures_dir/mythicMonsters#_mythic-subtype))
+CE Large humanoid ( [giant](monsters/creatureTypes#_giant-subtype), [mythic](mythicAdventures/mythicMonsters#_mythic-subtype))
 
-**Init** –1; **Senses** darkvision 60 ft., [low-light vision](monsters_dir/universalMonsterRules#_low-light-vision); [Perception](skills_dir/perception#_perception) +6
+**Init** –1; **Senses** darkvision 60 ft., [low-light vision](monsters/universalMonsterRules#_low-light-vision); [Perception](skills/perception#_perception) +6
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +7, **Ref** +0, **Will** +3
 
-**Defensive Abilities** iron resilience; **DR** 5_dir/epic
+**Defensive Abilities** iron resilience; **DR** 5/epic
 
 Offense
 
@@ -34,7 +34,7 @@ Offense
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** mythic power (1_dir/day, surge +1d6), rising fury
+**Special Attacks** mythic power (1/day, surge +1d6), rising fury
 
 Statistics
 
@@ -42,15 +42,15 @@ Statistics
 
 **Base Atk** +3; **CMB** +9; **CMD** 18
 
-**Feats** [Iron Will](mythicAdventures_dir/mythicFeats#_iron-will-mythic)M, [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (greatclub)
+**Feats** [Iron Will](mythicAdventures/mythicFeats#_iron-will-mythic)M, [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (greatclub)
 
-**Skills** [Climb](skills_dir/climb#_climb) +7, [Perception](skills_dir/perception#_perception) +6
+**Skills** [Climb](skills/climb#_climb) +7, [Perception](skills/perception#_perception) +6
 
-**Languages** [Giant](monsters_dir/creatureTypes#_giant-subtype)
+**Languages** [Giant](monsters/creatureTypes#_giant-subtype)
 
 Ecology
 
-**Environment** temperate or [cold](monsters_dir/creatureTypes#_cold-subtype) hills
+**Environment** temperate or [cold](monsters/creatureTypes#_cold-subtype) hills
 
 **Organization** solitary, pair, gang (3–4), or family (5–16)
 

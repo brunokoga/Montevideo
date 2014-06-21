@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/gargoyle
+title: monsters/gargoyle
 ---
 # Gargoyle
 
@@ -12,7 +12,7 @@ _Seemingly carved from a dark gray stone, this sinister crouching humanoid resem
 
 CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [earth](creatureTypes#_earth-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +5
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +5
 
 **Defense**
 
@@ -22,7 +22,7 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [earth](crea
 
 **Fort** +4, **Ref** +6, **Will** +4
 
-**DR** 10_dir/magic
+**DR** 10/magic
 
 **Offense**
 
@@ -36,9 +36,9 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [earth](crea
 
 **Base Atk** +5; **CMB** +7; **CMD** 19
 
-**Feats** [Hover](monsterFeats#_hover), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Fly](../skills_dir/fly#_fly))
+**Feats** [Hover](monsterFeats#_hover), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Fly](../skills/fly#_fly))
 
-**Skills** [Fly](../skills_dir/fly#_fly) +12, [Perception](../skills_dir/perception#_perception) +5, [Stealth](../skills_dir/stealth#_stealth) +11 (+17 in stony areas); **Racial Modifiers** +2 [Stealth](../skills_dir/stealth#_stealth) (+6 in stony environs)
+**Skills** [Fly](../skills/fly#_fly) +12, [Perception](../skills/perception#_perception) +5, [Stealth](../skills/stealth#_stealth) +11 (+17 in stony areas); **Racial Modifiers** +2 [Stealth](../skills/stealth#_stealth) (+6 in stony environs)
 
 **Languages** Common, Terran
 
@@ -54,7 +54,7 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [earth](crea
 
 **Special Abilities**
 
-**Freeze (Ex)** A gargoyle can hold itself so still it appears to be a statue. A gargoyle that uses freeze can take 20 on its [Stealth](../skills_dir/stealth#_stealth) check to hide in plain sight as a stone statue.
+**Freeze (Ex)** A gargoyle can hold itself so still it appears to be a statue. A gargoyle that uses freeze can take 20 on its [Stealth](../skills/stealth#_stealth) check to hide in plain sight as a stone statue.
 
 Gargoyles often appear to be winged stone statues, for they can perch indefinitely without moving, allowing them to surprise their foes. Gargoyles tend toward obsessive-compulsive behaviors that are as varied as their kind is plentiful. Books, stolen trinkets, weapons, and grisly trophies harvested from fallen foes are just a few examples of the types of things a gargoyle might collect to decorate its lair and territory. Gargoyles tend toward a solitary lifestyle, though they sometimes form fearsome groups called “wings” for protection and sport. In certain conditions, a tribe of gargoyles might even ally with other creatures, but even the most stable alliances with a gargoyle tribe can collapse for the smallest of reasons—gargoyles are nothing if not treacherous, petty, and vindictive. Gargoyles have been known to dwell in the heart of the largest of cities, crouching amid the decorations of stone cathedrals and buildings where they hide in plain sight by day and swoop down to feed on vagabonds, beggars, and other unfortunates at night.
 

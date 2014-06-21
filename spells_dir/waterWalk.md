@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/waterWalk
+title: spells/waterWalk
 ---
  **Water Walk**
 
@@ -12,9 +12,9 @@ title: spells_dir/waterWalk
 
 **Range** touch
 
-**Targets** one touched creature_dir/level
+**Targets** one touched creature/level
 
-**Duration** 10 min._dir/level (D)
+**Duration** 10 min./level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

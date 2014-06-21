@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/disruptingWeapon
+title: spells/disruptingWeapon
 ---
  **Disrupting Weapon**
 
@@ -14,7 +14,7 @@ title: spells_dir/disruptingWeapon
 
 **Targets** one melee weapon
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless, object); see text; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless, object)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/bear
+title: monsters/bear
 ---
 # Bear, Grizzly
 
@@ -12,7 +12,7 @@ _Broad, powerful muscles move beneath this massive bear's brown fur, promising b
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent) ; [Perception](../skills_dir/perception#_perception) +6
+**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent) ; [Perception](../skills/perception#_perception) +6
 
 **Defense**
 
@@ -36,9 +36,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base**  **Atk** +3; **CMB** +9 (+13 grapple); **CMD** 20 (24 vs. trip)
 
-**Feats** [Endurance](../feats#_endurance), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Survival](../skills_dir/survival#_survival))
+**Feats** [Endurance](../feats#_endurance), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Survival](../skills/survival#_survival))
 
-**Skills** [Perception](../skills_dir/perception#_perception) +6, [Survival](../skills_dir/survival#_survival) +5, [Swim](../skills_dir/swim#_swim) +14; **Racial Modifiers** +4 [Swim](../skills_dir/swim#_swim)
+**Skills** [Perception](../skills/perception#_perception) +6, [Survival](../skills/survival#_survival) +5, [Swim](../skills/swim#_swim) +14; **Racial Modifiers** +4 [Swim](../skills/swim#_swim)
 
 **Ecology**
 
@@ -64,7 +64,7 @@ _Spittle drips from this feral bear's roaring maw, and its matted fur is broken 
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +5; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +12
+**Init** +5; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +12
 
 **Defense**
 
@@ -88,9 +88,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base**  **Atk** +7; **CMB** +15 (+19 grapple); **CMD** 26 (30 vs. trip)
 
-**Feats** [Endurance](../feats#_endurance), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Endurance](../feats#_endurance), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
 
-**Skills** [Perception](../skills_dir/perception#_perception) +12, [Swim](../skills_dir/swim#_swim) +19; **Racial Modifiers** +4 [Swim](../skills_dir/swim#_swim)
+**Skills** [Perception](../skills/perception#_perception) +12, [Swim](../skills/swim#_swim) +19; **Racial Modifiers** +4 [Swim](../skills/swim#_swim)
 
 **Ecology**
 

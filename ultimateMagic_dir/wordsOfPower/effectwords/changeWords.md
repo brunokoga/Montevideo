@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/changeWords
+title: ultimateMagic/wordsOfPower/effectwords/changeWords
 ---
 ## Change Words
 
@@ -8,9 +8,9 @@ Words from this family change the target's form, granting special attacks and po
 
 Altered Form (Change)
 
-**School** transmutation (polymorph); **Level** alchemist 3, druid 3, magus 3, sorcerer_dir/wizard 3, witch 3
+**School** transmutation (polymorph); **Level** alchemist 3, druid 3, magus 3, sorcerer/wizard 3, witch 3
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -24,9 +24,9 @@ The target of a wordspell with this effect word receives a +2 size bonus to Stre
 
 Bestial Form (Change)
 
-**School** transmutation (polymorph); **Level** alchemist 4, druid 4, magus 4, sorcerer_dir/wizard 4
+**School** transmutation (polymorph); **Level** alchemist 4, druid 4, magus 4, sorcerer/wizard 4
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -40,9 +40,9 @@ This effect word functions as _altered form _except that the target of this word
 
 Monstrous Form (Change)
 
-**School** transmutation (polymorph); **Level** alchemist 5, druid 5, magus 5, sorcerer_dir/wizard 5
+**School** transmutation (polymorph); **Level** alchemist 5, druid 5, magus 5, sorcerer/wizard 5
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

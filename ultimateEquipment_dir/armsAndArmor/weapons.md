@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateEquipment_dir/armsAndArmor_dir/weapons
+title: ultimateEquipment/armsAndArmor/weapons
 ---
 # Weapons
 
@@ -36,9 +36,9 @@ Although shuriken are thrown weapons, they are treated as ammunition for the pur
 
 An unarmed strike is always considered a light weapon.
 
-> _One-Handed:_ A one-handed weapon can be used in either the primary hand or the off hand. Add the wielder's Strength modifier to damage rolls for melee attacks with a one-handed weapon if it's used in the primary hand, or half his Strength modifier if it's used in the off hand. If a one-handed weapon is wielded with two hands during melee combat, add 1-1_dir/2 times the character's Strength modifier to damage rolls made with that weapon.
+> _One-Handed:_ A one-handed weapon can be used in either the primary hand or the off hand. Add the wielder's Strength modifier to damage rolls for melee attacks with a one-handed weapon if it's used in the primary hand, or half his Strength modifier if it's used in the off hand. If a one-handed weapon is wielded with two hands during melee combat, add 1-1/2 times the character's Strength modifier to damage rolls made with that weapon.
 > 
-> _Two-Handed:_ Two hands are required to use a two-handed melee weapon effectively. Apply 1-1_dir/2 times the character's Strength modifier to damage rolls for melee attacks with such a weapon.
+> _Two-Handed:_ Two hands are required to use a two-handed melee weapon effectively. Apply 1-1/2 times the character's Strength modifier to damage rolls for melee attacks with such a weapon.
 
 **Weapon Size** : Every weapon has a size category. This designation indicates the size of the creature for which the weapon was designed. A weapon's size category isn't the same as its size as an object. In general, a light weapon is an object two size categories smaller than the wielder, a one-handed weapon is an object one size category smaller than the wielder, and a two-handed weapon is an object of the same size category as the wielder.
 
@@ -62,9 +62,9 @@ Extra damage over and above a weapon's normal damage (such as sneak attack damag
 
 > _×2_: The weapon deals double damage on a critical hit. Some weapons deal triple or quadruple damage.
 > 
-> _×2_dir/×3_: One head of this double weapon deals double damage on a critical hit. The other head deals triple damage. Some double weapons' heads deal triple and quadruple damage on a critical hit.
+> _×2/×3_: One head of this double weapon deals double damage on a critical hit. The other head deals triple damage. Some double weapons' heads deal triple and quadruple damage on a critical hit.
 > 
-> _19–20_dir/×2_: The weapon scores a threat on a natural roll of 19 or 20 (instead of just 20) and deals double damage on a critical hit. Some weapons score a threat on a natural 18 as well, or deal triple instead of double damage on a critical hit.
+> _19–20/×2_: The weapon scores a threat on a natural roll of 19 or 20 (instead of just 20) and deals double damage on a critical hit. Some weapons score a threat on a natural 18 as well, or deal triple instead of double damage on a critical hit.
 
 **Range** : Any attack at more than this distance is penalized for range. Beyond this range, the attack takes a cumulative –2 penalty for each full range increment (or fraction thereof) of distance to the target. For example, a dagger (with a range of 10 feet) thrown at a target that is 25 feet away would incur a –4 penalty. A thrown weapon has a maximum range of five range increments. A projectile weapon can shoot up to 10 range increments.
 
@@ -86,13 +86,13 @@ In other cases, a weapon can deal either of two types of damage. In a situation 
 > 
 > _Disarm:_ When you use this weapon, you get a +2 bonus on combat maneuver checks to disarm an enemy.
 > 
-> _Distracting:_ You gain a +2 bonus on [Bluff](skills_dir/bluff#_bluff) skill checks to feint in combat while wielding this weapon.
+> _Distracting:_ You gain a +2 bonus on [Bluff](skills/bluff#_bluff) skill checks to feint in combat while wielding this weapon.
 > 
 > _Double:_ You can use a double weapon to fight as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. You can choose to wield one end of a double weapon two-handed, but it cannot be used as a double weapon when wielded in this way—only one end of the weapon can be used in any given round.
 > 
 > _Fragile:_ Fragile weapons cannot take the beating that sturdier weapons can. A fragile weapon gains the broken condition if the wielder rolls a natural 1 on an attack roll with the weapon. If a fragile weapon is already broken, the roll of a natural 1 destroys it instead. Masterwork and magical fragile weapons lack these flaws unless otherwise noted in the item description.
 
-If a weapon gains the broken condition in this way, that weapon is considered to have taken damage equal to half its hit points +1. This damage is repaired either by something that addresses the effect that granted the weapon the broken condition (like quick clear in the case of firearm misfires or the [Field Repair](ultimateCombat_dir/ultimateCombatFeats#_field-repair) feat) or by the repair methods described in the broken condition. When an effect that grants the broken condition is removed, the weapon regains the hit points it lost when the broken condition was applied. Damage done by an attack against a weapon (such as from a sunder combat maneuver) cannot be repaired by an effect that removes the broken condition.
+If a weapon gains the broken condition in this way, that weapon is considered to have taken damage equal to half its hit points +1. This damage is repaired either by something that addresses the effect that granted the weapon the broken condition (like quick clear in the case of firearm misfires or the [Field Repair](ultimateCombat/ultimateCombatFeats#_field-repair) feat) or by the repair methods described in the broken condition. When an effect that grants the broken condition is removed, the weapon regains the hit points it lost when the broken condition was applied. Damage done by an attack against a weapon (such as from a sunder combat maneuver) cannot be repaired by an effect that removes the broken condition.
 
 > _Grapple:_ On a successful critical hit with a weapon of this type, you can attempt a combat maneuver check to grapple your opponent as a free action. This grapple attempt does not provoke an attack of opportunity from the creature you are attempting to grapple if that creature is not threatening you. While you grapple the creature using a grappling weapon, you can only move or damage the creature on your turn. You are still considered grappled, though you do not have to be adjacent to the creature to continue the grapple. If you move far enough away that the creature you're grappling is no longer within the weapon's reach, you end the grapple with that action.
 > 
@@ -109,7 +109,7 @@ If a weapon gains the broken condition in this way, that weapon is considered to
 
 A masterwork weapon is a finely crafted version of a normal weapon. Wielding it provides a +1 enhancement bonus on attack rolls.
 
-Without using magic, you can't add the masterwork quality to a weapon after it is created; it must be crafted as a masterwork weapon (see the [Craft](skills_dir/craft#_craft) skill). The masterwork transformation spell transforms a non-masterwork weapon into a masterwork weapon.
+Without using magic, you can't add the masterwork quality to a weapon after it is created; it must be crafted as a masterwork weapon (see the [Craft](skills/craft#_craft) skill). The masterwork transformation spell transforms a non-masterwork weapon into a masterwork weapon.
 
 The masterwork quality adds 300 gp to the cost of a normal weapon (or 6 gp to the cost of a single unit of ammunition). Adding the masterwork quality to a double weapon costs twice the normal increase (+600 gp).
 
@@ -132,8 +132,8 @@ Weapons in this section are listed alphabetically by their full names. A few wea
 | --- |
 | Battle aspergillum | 5 gp | 1d4 | 1d6 | ×2 | — | 4 lbs. | B | See text |
 | Brass knuckles | 1 gp | 1d2 | 1d3 | ×2 | — | 1 lb. | B | Monk, see text |
-| Cestus | 5 gp | 1d3 | 1d4 | 19–20_dir/×2 | — | 1 lb. | B or P | Monk, see text |
-| Dagger | 2 gp | 1d3 | 1d4 | 19–20_dir/×2 | 10 ft. | 1 lb. | P or S | — |
+| Cestus | 5 gp | 1d3 | 1d4 | 19–20/×2 | — | 1 lb. | B or P | Monk, see text |
+| Dagger | 2 gp | 1d3 | 1d4 | 19–20/×2 | 10 ft. | 1 lb. | P or S | — |
 | Gauntlet | 2 gp | 1d2 | 1d3 | ×2 | — | 1 lb. | B | — |
 | Light mace | 5 gp | 1d4 | 1d6 | ×2 | — | 4 lbs. | B | — |
 | Punching dagger | 2 gp | 1d3 | 1d4 | ×3 | — | 1 lb. | P | — |
@@ -155,38 +155,38 @@ Weapons in this section are listed alphabetically by their full names. A few wea
 | Bayonet | 5 gp | 1d4 | 1d6 | ×2 | — | 1 lb. | P | — |
 | Boar spear | 5 gp | 1d6 | 1d8 | ×2 | — | 8 lbs. | P | Brace, see text |
 | Longspear | 5 gp | 1d6 | 1d8 | ×3 | — | 9 lbs. | P | Brace, reach |
-| Quarterstaff | — | 1d4_dir/1d4 | 1d6_dir/1d6 | ×2 | — | 4 lbs. | B | Double, monk |
+| Quarterstaff | — | 1d4/1d4 | 1d6/1d6 | ×2 | — | 4 lbs. | B | Double, monk |
 | Spear | 2 gp | 1d6 | 1d8 | ×3 | 20 ft. | 6 lbs. | P | Brace |
 
 | Ranged Weapons |
 | --- |
 | Blowgun | 2 gp | 1 | 1d2 | ×2 | 20 ft. | 1 lb. | P | — |
-| Dart | 5 sp | 1d3 | 1d4 | ×2 | 20 ft. | 1_dir/2 lb. | P | — |
-| Heavy crossbow | 50 gp | 1d8 | 1d10 | 19–20_dir/×2 | 120 ft. | 8 lbs. | P | — |
+| Dart | 5 sp | 1d3 | 1d4 | ×2 | 20 ft. | 1/2 lb. | P | — |
+| Heavy crossbow | 50 gp | 1d8 | 1d10 | 19–20/×2 | 120 ft. | 8 lbs. | P | — |
 | Javelin | 1 gp | 1d4 | 1d6 | ×2 | 30 ft. | 2 lbs. | P | — |
-| Light crossbow | 35 gp | 1d6 | 1d8 | 19–20_dir/×2 | 80 ft. | 4 lbs. | P | — |
+| Light crossbow | 35 gp | 1d6 | 1d8 | 19–20/×2 | 80 ft. | 4 lbs. | P | — |
 | Sling | — | 1d3 | 1d4 | ×2 | 50 ft. | — | B | — |
-| Underwater heavy crossbow | 100 gp | 1d8 | 1d10 | 19–20_dir/×2 | 120 ft. | 8 lbs. | P | — |
-| Underwater light crossbow | 70 gp | 1d6 | 1d8 | 19–20_dir/×2 | 80 ft. | 4 lbs. | P | — |
+| Underwater heavy crossbow | 100 gp | 1d8 | 1d10 | 19–20/×2 | 120 ft. | 8 lbs. | P | — |
+| Underwater light crossbow | 70 gp | 1d6 | 1d8 | 19–20/×2 | 80 ft. | 4 lbs. | P | — |
 
 [Martial Weapons]
 | Light Melee Weapons | Price | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Butterfly sword (2) | 20 gp | 1d3 | 1d4 | 19–20_dir/×2 | — | 1 lb. | S | Monk |
-| Dogslicer | 8 gp | 1d4 | 1d6 | 19–20_dir/×2 | — | 1 lb. | S | Fragile |
-| Gladius | 15 gp | 1d4 | 1d6 | 19–20_dir/×2 | — | 3 lbs. | P or S | Performance |
+| Butterfly sword (2) | 20 gp | 1d3 | 1d4 | 19–20/×2 | — | 1 lb. | S | Monk |
+| Dogslicer | 8 gp | 1d4 | 1d6 | 19–20/×2 | — | 1 lb. | S | Fragile |
+| Gladius | 15 gp | 1d4 | 1d6 | 19–20/×2 | — | 3 lbs. | P or S | Performance |
 | Handaxe | 6 gp | 1d4 | 1d6 | ×3 | — | 3 lbs. | S | — |
 | Iron brush | 2 gp | 1d2 | 1d3 | ×2 | 10 ft. | — | P | — |
 | Jutte | 8 gp | 1d4 | 1d6 | ×2 | — | 1 lb. | B | Disarm, monk |
 | Kerambit | 2 gp | 1d2 | 1d3 | ×3 | — | — | S | — |
-| Kukri | 8 gp | 1d3 | 1d4 | 18–20_dir/×2 | — | 2 lbs. | S | — |
+| Kukri | 8 gp | 1d3 | 1d4 | 18–20/×2 | — | 2 lbs. | S | — |
 | Light hammer | 1 gp | 1d3 | 1d4 | ×2 | 20 ft. | 2 lbs. | B | — |
 | Light pick | 4 gp | 1d3 | 1d4 | ×4 | — | 3 lbs. | P | — |
 | Light shield | 9 gp | 1d2 | 1d3 | ×2 | — | Special | B | — |
 | Lungchuan tamo | 5 gp | 1d3 | 1d4 | ×2 | 10 ft. | 1 lb. | P or S | Monk |
 | Sap | 1 gp | 1d4 | 1d6 | ×2 | — | 2 lbs. | B | Nonlethal |
 | Shang gou | 6 gp | 1d3 | 1d4 | ×2 | — | 1 lb. | S | Disarm or trip, monk |
-| Shortsword | 10 gp | 1d4 | 1d6 | 19–20_dir/×2 | — | 2 lbs. | P | — |
+| Shortsword | 10 gp | 1d4 | 1d6 | 19–20/×2 | — | 2 lbs. | P | — |
 | Spiked armor | +50 gp | 1d4 | 1d6 | ×2 | — | Special | P | — |
 | Spiked light shield | +50 gp | 1d3 | 1d4 | ×2 | — | Special | P | — |
 | Starknife | 24 gp | 1d3 | 1d4 | ×3 | 20 ft. | 3 lbs. | P | — |
@@ -197,52 +197,52 @@ Weapons in this section are listed alphabetically by their full names. A few wea
 | One-Handed Melee Weapons |
 | --- |
 | Battleaxe | 10 gp | 1d6 | 1d8 | ×3 | — | 6 lbs. | S | — |
-| Double chicken saber | 12 gp | 1d4 | 1d6 | 19–20_dir/×2 | — | 3 lbs. | S | Disarm, monk |
+| Double chicken saber | 12 gp | 1d4 | 1d6 | 19–20/×2 | — | 3 lbs. | S | Disarm, monk |
 | Heavy pick | 8 gp | 1d4 | 1d6 | ×4 | — | 6 lbs. | P | — |
-| Heavy shield | 7 gp_dir/20 gp | 1d3 | 1d4 | ×2 | — | Special | B | — |
+| Heavy shield | 7 gp/20 gp | 1d3 | 1d4 | ×2 | — | Special | B | — |
 | Klar | 12 gp | 1d4 | 1d6 | ×2 | — | 6 lbs. | S | See text |
 | Light flail | 8 gp | 1d6 | 1d8 | ×2 | — | 5 lbs. | B | Disarm, trip |
-| Longsword | 15 gp | 1d6 | 1d8 | 19–20_dir/×2 | — | 4 lbs. | S | — |
+| Longsword | 15 gp | 1d6 | 1d8 | 19–20/×2 | — | 4 lbs. | S | — |
 | Nine-ring broadsword | 15 gp | 1d6 | 1d8 | ×3 | — | 4 lbs. | S | Monk |
-| Rapier | 20 gp | 1d4 | 1d6 | 18–20_dir/×2 | — | 2 lbs. | P | — |
-| Scimitar | 15 gp | 1d4 | 1d6 | 18–20_dir/×2 | — | 4 lbs. | S | — |
+| Rapier | 20 gp | 1d4 | 1d6 | 18–20/×2 | — | 2 lbs. | P | — |
+| Scimitar | 15 gp | 1d4 | 1d6 | 18–20/×2 | — | 4 lbs. | S | — |
 | Scizore | 20 gp | 1d8 | 1d10 | ×2 | — | 3 lbs. | P | Performance |
 | Sibat | 2 gp | 1d4 | 1d6 | ×3 | 10 ft. | 2 lbs. | P or S | Grapple |
-| Spiked heavy shield | 57 gp_dir/70 gp | 1d4 | 1d6 | ×2 | — | Special | P | — |
+| Spiked heavy shield | 57 gp/70 gp | 1d4 | 1d6 | ×2 | — | Special | P | — |
 | Sword cane | 45 gp | 1d4 | 1d6 | ×2 | — | 4 lbs. | P | — |
-| Terbutje | 5 gp | 1d6 | 1d8 | 19–20_dir/×2 | — | 2 lbs. | S | Fragile |
+| Terbutje | 5 gp | 1d6 | 1d8 | 19–20/×2 | — | 2 lbs. | S | Fragile |
 | Trident | 15 gp | 1d6 | 1d8 | ×2 | 10 ft. | 4 lbs. | P | Brace |
 | Warhammer | 12 gp | 1d6 | 1d8 | ×3 | — | 5 lbs. | B | — |
 
 | Two-Handed Melee Weapons |
 | --- |
-| Bardiche | 13 gp | 1d8 | 1d10 | 19–20_dir/×2 | — | 14 lbs. | S | Brace, reach, see text |
+| Bardiche | 13 gp | 1d8 | 1d10 | 19–20/×2 | — | 14 lbs. | S | Brace, reach, see text |
 | Bec de corbin | 15 gp | 1d8 | 1d10 | ×3 | — | 12 lbs. | B or P | Brace, reach, see text |
 | Bill | 11 gp | 1d6 | 1d8 | ×3 | — | 11 lbs. | S | Brace, disarm, reach, see text |
 | Earth breaker | 40 gp | 1d10 | 2d6 | ×3 | — | 14 lbs. | B | — |
-| Falchion | 75 gp | 1d6 | 2d4 | 18–20_dir/×2 | — | 8 lbs. | S | — |
+| Falchion | 75 gp | 1d6 | 2d4 | 18–20/×2 | — | 8 lbs. | S | — |
 | Glaive | 8 gp | 1d8 | 1d10 | ×3 | — | 10 lbs. | S | Reach |
 | Glaive-guisarme | 12 gp | 1d8 | 1d10 | ×3 | — | 10 lbs. | S | Brace, reach, see text |
 | Greataxe | 20 gp | 1d10 | 1d12 | ×3 | — | 12 lbs. | S | — |
 | Greatclub | 5 gp | 1d8 | 1d10 | ×2 | — | 8 lbs. | B | — |
-| Greatsword | 50 gp | 1d10 | 2d6 | 19–20_dir/×2 | — | 8 lbs. | S | — |
+| Greatsword | 50 gp | 1d10 | 2d6 | 19–20/×2 | — | 8 lbs. | S | — |
 | Guisarme | 9 gp | 1d6 | 2d4 | ×3 | — | 12 lbs. | S | Reach, trip |
 | Halberd | 10 gp | 1d8 | 1d10 | ×3 | — | 12 lbs. | P or S | Brace, trip |
-| Heavy flail | 15 gp | 1d8 | 1d10 | 19–20_dir/×2 | — | 10 lbs. | B | Disarm, trip |
+| Heavy flail | 15 gp | 1d8 | 1d10 | 19–20/×2 | — | 10 lbs. | B | Disarm, trip |
 | Hooked lance | 3 gp | 1d6 | 1d8 | ×4 | — | 10 lbs. | P | Reach, trip |
 | Horsechopper | 10 gp | 1d8 | 1d10 | ×3 | — | 12 lbs. | P or S | Reach, trip |
 | Lance | 10 gp | 1d6 | 1d8 | ×3 | — | 10 lbs. | P | Reach |
 | Lucerne hammer | 15 gp | 1d10 | 1d12 | ×2 | — | 12 lbs. | B or P | Brace, reach, see text |
 | Mattock | 12 gp | 1d6 | 2d4 | ×4 | — | 12 lbs. | P | Fragile |
-| Monk's spade | 20 gp | 1d4_dir/1d4 | 1d6_dir/1d6 | ×2 | — | 12 lbs. | B or P or S | Double, monk |
+| Monk's spade | 20 gp | 1d4/1d4 | 1d6/1d6 | ×2 | — | 12 lbs. | B or P or S | Double, monk |
 | Naginata | 35 gp | 1d6 | 1d8 | ×4 | — | 9 lbs. | S | Reach |
-| Nodachi | 60 gp | 1d8 | 1d10 | 18–20_dir/×2 | — | 8 lbs. | S or P | Brace |
+| Nodachi | 60 gp | 1d8 | 1d10 | 18–20/×2 | — | 8 lbs. | S or P | Brace |
 | Ogre hook | 24 gp | 1d8 | 1d10 | ×3 | — | 10 lbs. | P | Trip |
 | Ranseur | 10 gp | 1d6 | 2d4 | ×3 | — | 12 lbs. | P | Disarm, reach |
 | Rhomphaia | 15 gp | 1d6 | 2d4 | ×3 | — | 10 lbs. | P or S | Brace, fragile, reach |
-| Sansetsukon | 8 gp | 1d8 | 1d10 | 19–20_dir/×2 | — | 3 lbs. | B | Blocking, disarm, monk |
+| Sansetsukon | 8 gp | 1d8 | 1d10 | 19–20/×2 | — | 3 lbs. | B | Blocking, disarm, monk |
 | Scythe | 18 gp | 1d6 | 2d4 | ×4 | — | 10 lbs. | P or S | Trip |
-| Tepoztopilli | 8 gp | 1d8 | 1d10 | 19–20_dir/×2 | — | 8 lbs. | P or S | Fragile, reach |
+| Tepoztopilli | 8 gp | 1d8 | 1d10 | 19–20/×2 | — | 8 lbs. | P or S | Fragile, reach |
 | Tiger fork | 5 gp | 1d6 | 1d8 | ×2 | — | 8 lbs. | P | Brace, monk |
 | Tri-point double-edged sword | 12 gp | 1d8 | 1d10 | ×3 | — | 14 lbs. | P | Reach |
 
@@ -258,85 +258,85 @@ Weapons in this section are listed alphabetically by their full names. A few wea
 | Pilum | 5 gp | 1d6 | 1d8 | ×2 | 20 ft. | 4 lbs. | P | See text |
 | Poisoned sand tube | 1 gp | Special | Special | — | — | 1 lb. | — | See text |
 | Shortbow | 30 gp | 1d4 | 1d6 | ×3 | 60 ft. | 2 lbs. | P | — |
-| Tube arrow shooter | 3 gp | 1d3 | 1d4 | ×2 | 40 ft. | 1_dir/2 lb. | P | — |
+| Tube arrow shooter | 3 gp | 1d3 | 1d4 | ×2 | 40 ft. | 1/2 lb. | P | — |
 
 [Exotic Weapons]
 | Light Melee Weapons | Price | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Aklys | 5 gp | 1d6 | 1d8 | ×2 | 20 ft. | 2 lbs. | B | Performance, trip |
-| Dan bong | 1 sp | 1d2 | 1d3 | 19–20_dir/×2 | 10 ft. | — | B | Blocking, monk, see text |
-| Emei piercer | 3 gp | 1d2 | 1d3 | 19–20_dir/×2 | — | — | P | See text |
+| Dan bong | 1 sp | 1d2 | 1d3 | 19–20/×2 | 10 ft. | — | B | Blocking, monk, see text |
+| Emei piercer | 3 gp | 1d2 | 1d3 | 19–20/×2 | — | — | P | See text |
 | Fighting fan | 5 gp | 1d3 | 1d4 | ×3 | — | — | P | Distracting, monk |
 | Kama | 2 gp | 1d4 | 1d6 | ×2 | — | 2 lbs. | S | Monk, trip |
 | Knuckle axe | 9 gp | 1d4 | 1d6 | ×3 | — | 2 lbs. | S | Monk, performance |
-| Madu (leather_dir/steel) | 40 gp_dir/50 gp | 1d3 | 1d4 | ×2 | — | 5 lbs._dir/6 lbs. | P | Performance |
+| Madu (leather/steel) | 40 gp/50 gp | 1d3 | 1d4 | ×2 | — | 5 lbs./6 lbs. | P | Performance |
 | Nunchaku | 2 gp | 1d4 | 1d6 | ×2 | — | 2 lbs. | B | Disarm, monk |
 | Pata | 14 gp | 1d4 | 1d6 | ×3 | — | 3 lbs. | P | Performance |
-| Quadrens | 8 gp | 1d4 | 1d6 | 19–20_dir/×2 | — | 2 lbs. | P | Performance |
+| Quadrens | 8 gp | 1d4 | 1d6 | 19–20/×2 | — | 2 lbs. | P | Performance |
 | Sai | 1 gp | 1d3 | 1d4 | ×2 | — | 1 lb. | B | Disarm, monk |
 | Scorpion whip | 5 gp | 1d3 | 1d4 | ×2 | — | 3 lbs. | S | Performance |
 | Siangham | 3 gp | 1d4 | 1d6 | ×2 | — | 1 lb. | P | Monk |
 | Sica | 10 gp | 1d4 | 1d6 | ×2 | — | 2 lbs. | S | Performance |
 | Swordbreaker dagger | 10 gp | 1d3 | 1d4 | ×2 | — | 3 lbs. | S | Disarm, see text |
 | Tekko-kagi | 2 gp | 1d2 | 1d3 | ×2 | — | — | P | Disarm, see text |
-| Wakizashi | 35 gp | 1d4 | 1d6 | 18–20_dir/×2 | — | 2 lbs. | P or S | Deadly |
+| Wakizashi | 35 gp | 1d4 | 1d6 | 18–20/×2 | — | 2 lbs. | P or S | Deadly |
 
 | One-Handed Melee Weapons |
 | --- |
-| Bastard sword | 35 gp | 1d8 | 1d10 | 19–20_dir/×2 | — | 6 lbs. | S | — |
+| Bastard sword | 35 gp | 1d8 | 1d10 | 19–20/×2 | — | 6 lbs. | S | — |
 | Dwarven waraxe | 30 gp | 1d8 | 1d10 | ×3 | — | 8 lbs. | S | — |
-| Falcata | 18 gp | 1d6 | 1d8 | 19–20_dir/×3 | — | 4 lbs. | S | — |
-| Great terbutje | 12 gp | 1d8 | 1d10 | 19–20_dir/×2 | — | 4 lbs. | S | Fragile |
+| Falcata | 18 gp | 1d6 | 1d8 | 19–20/×3 | — | 4 lbs. | S | — |
+| Great terbutje | 12 gp | 1d8 | 1d10 | 19–20/×2 | — | 4 lbs. | S | Fragile |
 | Hooked axe | 20 gp | 1d6 | 1d8 | ×3 | — | 7 lbs. | S | Disarm, performance, trip |
-| Katana | 50 gp | 1d6 | 1d8 | 18–20_dir/×2 | — | 6 lbs. | S | Deadly |
-| Khopesh | 20 gp | 1d6 | 1d8 | 19–20_dir/×2 | — | 8 lbs. | S | Trip |
-| Nine-section whip | 8 gp | 1d6 | 1d8 | 19–20_dir/×2 | — | 3 lbs. | B | Blocking, distracting, monk, trip |
-| Rhoka sword | 25 gp | 1d6 | 1d8 | 18–20_dir/×2 | — | 6 lbs. | S | — |
-| Sawtooth sabre | 35 gp | 1d6 | 1d8 | 19–20_dir/×2 | — | 2 lbs. | S | — |
+| Katana | 50 gp | 1d6 | 1d8 | 18–20/×2 | — | 6 lbs. | S | Deadly |
+| Khopesh | 20 gp | 1d6 | 1d8 | 19–20/×2 | — | 8 lbs. | S | Trip |
+| Nine-section whip | 8 gp | 1d6 | 1d8 | 19–20/×2 | — | 3 lbs. | B | Blocking, distracting, monk, trip |
+| Rhoka sword | 25 gp | 1d6 | 1d8 | 18–20/×2 | — | 6 lbs. | S | — |
+| Sawtooth sabre | 35 gp | 1d6 | 1d8 | 19–20/×2 | — | 2 lbs. | S | — |
 | Shotel | 30 gp | 1d6 | 1d8 | ×3 | — | 3 lbs. | P | Performance |
-| Taiaha | 10 gp | 1d8_dir/1d4 | 1d10_dir/1d6 | ×2_dir/×3 | — | 8 lbs. | B or P | Double |
-| Temple sword | 30 gp | 1d6 | 1d8 | 19–20_dir/×2 | — | 3 lbs. | S | Monk, trip |
-| Urumi | 30 gp | 1d6 | 1d8 | 18–20_dir/×2 | — | 6 lbs. | S | Distracting |
+| Taiaha | 10 gp | 1d8/1d4 | 1d10/1d6 | ×2/×3 | — | 8 lbs. | B or P | Double |
+| Temple sword | 30 gp | 1d6 | 1d8 | 19–20/×2 | — | 3 lbs. | S | Monk, trip |
+| Urumi | 30 gp | 1d6 | 1d8 | 18–20/×2 | — | 6 lbs. | S | Distracting |
 | Wahaika | 3 gp | 1d4 | 1d6 | ×2 | 10 ft. | 3 lbs. | B | Disarm |
 | Whip | 1 gp | 1d2 | 1d3 | ×2 | — | 2 lbs. | S | Disarm, nonlethal, reach, trip |
 
 | Two-Handed Melee Weapons |
 | --- |
 | Bo staff | 1 gp | 1d4 | 1d6 | ×2 | — | 3 lbs. | B | Blocking, double, monk |
-| Chain spear | 15 gp | 1d4_dir/1d4 | 1d6_dir/1d6 | ×2 | — | 13 lbs. | P and S | Trip |
-| Dire flail | 90 gp | 1d6_dir/1d6 | 1d8_dir/1d8 | ×2 | — | 10 lbs. | B | Disarm, double, trip |
-| Double walking stick katana | 50 gp | 1d4_dir/1d4 | 1d6_dir/1d6 | ×3 | — | 6 lbs. | B | Double |
-| Double-chained kama | 8 gp | 1d4_dir/1d4 | 1d6_dir/1d6 | ×2 | — | 4 lbs. | S | Double, monk, reach, trip |
-| Dwarven urgrosh | 50 gp | 1d6_dir/1d4 | 1d8_dir/1d6 | ×3 | — | 12 lbs. | P or S | Brace, double |
-| Elven curve blade | 80 gp | 1d8 | 1d10 | 18–20_dir/×2 | — | 7 lbs. | S | — |
+| Chain spear | 15 gp | 1d4/1d4 | 1d6/1d6 | ×2 | — | 13 lbs. | P and S | Trip |
+| Dire flail | 90 gp | 1d6/1d6 | 1d8/1d8 | ×2 | — | 10 lbs. | B | Disarm, double, trip |
+| Double walking stick katana | 50 gp | 1d4/1d4 | 1d6/1d6 | ×3 | — | 6 lbs. | B | Double |
+| Double-chained kama | 8 gp | 1d4/1d4 | 1d6/1d6 | ×2 | — | 4 lbs. | S | Double, monk, reach, trip |
+| Dwarven urgrosh | 50 gp | 1d6/1d4 | 1d8/1d6 | ×3 | — | 12 lbs. | P or S | Brace, double |
+| Elven curve blade | 80 gp | 1d8 | 1d10 | 18–20/×2 | — | 7 lbs. | S | — |
 | Flying blade | 40 gp | 1d10 | 1d12 | ×3 | — | 12 lbs. | S | Performance, reach |
-| Gnome hooked hammer | 20 gp | 1d6_dir/1d4 | 1d8_dir/1d6 | ×3_dir/×4 | — | 6 lbs. | B or P | Double, trip |
+| Gnome hooked hammer | 20 gp | 1d6/1d4 | 1d8/1d6 | ×3/×4 | — | 6 lbs. | B or P | Double, trip |
 | Harpoon | 5 gp | 1d6 | 1d8 | ×3 | 10 ft. | 16 lbs. | P | Grapple, see text |
-| Kusarigama | 12 gp | 1d2_dir/1d4 | 1d3_dir/1d6 | ×2 | — | 3 lbs. | S or B | Double, grapple, monk, reach, trip |
+| Kusarigama | 12 gp | 1d2/1d4 | 1d3/1d6 | ×2 | — | 3 lbs. | S or B | Double, grapple, monk, reach, trip |
 | Kyoketsu shoge | 6 gp | 1d3 | 1d4 | ×2 | 20 ft. | 1 lb. | S or P | Disarm, grapple, monk, reach |
 | Mancatcher | 15 gp | 1 | 1d2 | — | — | 10 lbs. | P | Reach, see text |
 | Meteor hammer | 10 gp | 1d6 | 1d8 | ×2 | — | 10 lbs. | B | Reach, trip |
-| Orc double axe | 60 gp | 1d6_dir/1d6 | 1d8_dir/1d8 | ×3 | — | 15 lbs. | S | Double |
+| Orc double axe | 60 gp | 1d6/1d6 | 1d8/1d8 | ×3 | — | 15 lbs. | S | Double |
 | Seven-branched sword | 50 gp | 1d8 | 1d10 | ×3 | — | 7 lbs. | S | Disarm, monk |
 | Spiked chain | 25 gp | 1d6 | 2d4 | ×2 | — | 10 lbs. | P | Disarm, trip |
 | Tetsubo | 20 gp | 1d8 | 1d10 | ×4 | — | 10 lbs. | B | — |
-| Two-bladed sword | 100 gp | 1d6_dir/1d6 | 1d8_dir/1d8 | 19–20_dir/×2 | — | 10 lbs. | S | Double |
+| Two-bladed sword | 100 gp | 1d6/1d6 | 1d8/1d8 | 19–20/×2 | — | 10 lbs. | S | Double |
 
 | Ranged Weapons |
 | --- |
 | Bolas | 5 gp | 1d3 | 1d4 | ×2 | 10 ft. | 2 lbs. | B | Nonlethal, trip |
 | Boomerang | 3 gp | 1d4 | 1d6 | ×2 | 30 ft. | 3 lbs. | B | See text |
-| Double crossbow | 300 gp | 1d6 | 1d8 | 19–20_dir/×2 | 80 ft. | 18 lbs. | P | See text |
+| Double crossbow | 300 gp | 1d6 | 1d8 | 19–20/×2 | 80 ft. | 18 lbs. | P | See text |
 | Halfling sling staff | 20 gp | 1d6 | 1d8 | ×3 | 80 ft. | 3 lbs. | B | — |
-| Hand crossbow | 100 gp | 1d3 | 1d4 | 19–20_dir/×2 | 30 ft. | 2 lbs. | P | — |
+| Hand crossbow | 100 gp | 1d3 | 1d4 | 19–20/×2 | 30 ft. | 2 lbs. | P | — |
 | Kestros | 1 gp | 1d6 | 1d8 | ×3 | 50 ft. | 1 lb. | P | — |
 | Lasso | 1 sp | — | — | — | — | 5 lbs. | — | See text |
 | Net | 20 gp | — | — | — | 10 ft. | 6 lbs. | — | See text |
-| Repeating hand crossbow | 800 gp | 1d3 | 1d4 | 19–20_dir/×2 | 30 ft. | 4 lbs. | P | — |
-| Repeating heavy crossbow | 400 gp | 1d8 | 1d10 | 19–20_dir/×2 | 120 ft. | 12 lbs. | P | — |
-| Repeating light crossbow | 250 gp | 1d6 | 1d8 | 19–20_dir/×2 | 80 ft. | 6 lbs. | P | — |
+| Repeating hand crossbow | 800 gp | 1d3 | 1d4 | 19–20/×2 | 30 ft. | 4 lbs. | P | — |
+| Repeating heavy crossbow | 400 gp | 1d8 | 1d10 | 19–20/×2 | 120 ft. | 12 lbs. | P | — |
+| Repeating light crossbow | 250 gp | 1d6 | 1d8 | 19–20/×2 | 80 ft. | 6 lbs. | P | — |
 | Rope dart | 1 gp | 1d3 | 1d4 | ×2 | 20 ft. | — | P | Blocking, distracting, monk |
-| Shuriken (5) | 1 gp | 1 | 1d2 | ×2 | 10 ft. | 1_dir/2 lb. | P | Monk |
+| Shuriken (5) | 1 gp | 1 | 1d2 | ×2 | 10 ft. | 1/2 lb. | P | Monk |
 | Snag net | 30 gp | — | — | — | 10 ft. | 10 lbs. | P | Trip, see text |
 | Throwing shield | +50 gp | 1d4 | 1d6 | ×2 | 20 ft. | — | B | Performance, trip |
 
@@ -345,7 +345,7 @@ Weapons in this section are listed alphabetically by their full names. A few wea
 | --- | --- | --- |
 | Arrows (20) | 1 gp | 3 lbs. |
 | Atlatl dart | 1 gp | 2 lbs. |
-| Bamboo shaft arrows (10) | 1 gp | 1_dir/2 lb. |
+| Bamboo shaft arrows (10) | 1 gp | 1/2 lb. |
 | Blowgun darts (10) | 5 sp | — |
 | Blunt arrows (20) | 2 gp | 3 lbs. |
 | Crossbow bolts (10) | 1 gp | 1 lb. |
@@ -401,7 +401,7 @@ Atlatl
 
 **Type** martial
 
-This Stone Age weapon is a thin piece of wood or antler used as a lever to hurl a specially fitted dart. An atlatl gives much greater range to a dart, but must be loaded like a projectile weapon. Your Strength modifier applies to damage rolls when you use an atlatl, just as it does for thrown weapons. You can fire—but not load—an atlatl with one hand. Loading an atlatl is a move action that requires two hands and provokes attacks of opportunity. The [Rapid Reload](ultimateCombat_dir/ultimateCombatFeats#_rapid-reload) feat can be taken for atlatls, allowing you to load a dart as a free action.
+This Stone Age weapon is a thin piece of wood or antler used as a lever to hurl a specially fitted dart. An atlatl gives much greater range to a dart, but must be loaded like a projectile weapon. Your Strength modifier applies to damage rolls when you use an atlatl, just as it does for thrown weapons. You can fire—but not load—an atlatl with one hand. Loading an atlatl is a move action that requires two hands and provokes attacks of opportunity. The [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat can be taken for atlatls, allowing you to load a dart as a free action.
 
 Atlatl Dart
 
@@ -473,7 +473,7 @@ bill
 
 **Type** martial
 
-The blade of this polearm is a curved or hooked chopping blade with a spiked projection on the back of the blade. The spike is commonly used to block and parry. When fighting defensively or with full defense, this weapon gives you a +1 shield bonus to AC. A mounted opponent hit by a bill takes a –1 penalty on his [Ride](skills_dir/ride#_ride) check to stay mounted.
+The blade of this polearm is a curved or hooked chopping blade with a spiked projection on the back of the blade. The spike is commonly used to block and parry. When fighting defensively or with full defense, this weapon gives you a +1 shield bonus to AC. A mounted opponent hit by a bill takes a –1 penalty on his [Ride](skills/ride#_ride) check to stay mounted.
 
 blowgun
 
@@ -613,7 +613,7 @@ dagger
 
 **Type** simple
 
-A dagger is a fighting knife. Its blade is usually less than 1 foot long, and can be curved or straight, with one edge or two. Dagger designs vary widely, and can have many different names (such as a thrusting dagger being called a "dirk"). You get a +2 bonus on [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) skill checks made to conceal a dagger on your body.
+A dagger is a fighting knife. Its blade is usually less than 1 foot long, and can be curved or straight, with one edge or two. Dagger designs vary widely, and can have many different names (such as a thrusting dagger being called a "dirk"). You get a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) skill checks made to conceal a dagger on your body.
 
 dan Bong
 
@@ -661,7 +661,7 @@ Double Crossbow
 
 **Type** exotic
 
-This heavy weapon fires a pair of iron-tipped bolts with a single squeeze of the trigger. Because of its size and weight, you take a –4 penalty on your attack roll if you're proficient with it, or –8 if you're not. If the attack hits, the target takes damage from both bolts. Critical hits, sneak attack damage, and other precision-based damage apply to only the first bolt. Reloading one bolt is a standard action; the [Rapid Reload](ultimateCombat_dir/ultimateCombatFeats#_rapid-reload) feat reduces this to a move action. [Crossbow Mastery](advanced_dir/advancedFeats#_crossbow-mastery) allows you to reload both bolts as a move action. A double crossbow fires crossbow bolts.
+This heavy weapon fires a pair of iron-tipped bolts with a single squeeze of the trigger. Because of its size and weight, you take a –4 penalty on your attack roll if you're proficient with it, or –8 if you're not. If the attack hits, the target takes damage from both bolts. Critical hits, sneak attack damage, and other precision-based damage apply to only the first bolt. Reloading one bolt is a standard action; the [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat reduces this to a move action. [Crossbow Mastery](advanced/advancedFeats#_crossbow-mastery) allows you to reload both bolts as a move action. A double crossbow fires crossbow bolts.
 
 double walking stick katana
 
@@ -791,7 +791,7 @@ glaive-guisarme
 
 **Type** martial
 
-This polearm combines the blade of a glaive with a wicked hook. A mounted opponent hit by a glaive-guisarme takes a –2 penalty on her [Ride](skills_dir/ride#_ride) check to stay mounted.
+This polearm combines the blade of a glaive with a wicked hook. A mounted opponent hit by a glaive-guisarme takes a –2 penalty on her [Ride](skills/ride#_ride) check to stay mounted.
 
 Gnome Hooked Hammer
 
@@ -923,7 +923,7 @@ This variant of the light pick has a longer handle and can be used with one or t
 
 heavy shield
 
-**Price** 7 GP_dir/20 gp
+**Price** 7 GP/20 gp
 
 **Type** martial
 
@@ -967,7 +967,7 @@ Iron Brush
 
 **Type** martial
 
-This is an iron-handled version of a scholar's brush with a sharpened handle. Though it does little damage, it is easily concealed (you gain a +2 bonus on [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) checks made to conceal an iron brush on your body) and can be thrown short distances, or used to jab at key nerve clusters and acupuncture points to surprisingly devastating effect.
+This is an iron-handled version of a scholar's brush with a sharpened handle. Though it does little damage, it is easily concealed (you gain a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks made to conceal an iron brush on your body) and can be thrown short distances, or used to jab at key nerve clusters and acupuncture points to surprisingly devastating effect.
 
 Javelin
 
@@ -1007,7 +1007,7 @@ kerambit
 
 **Type** martial
 
-This small, curved pull dagger has a metal loop at the base of its handle, allowing it to be secured with a pinky or worn on a string tied in the hair. While relatively small, the curved blade can create brutal wounds. Easily concealed (you gain a +2 bonus on [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) checks made to conceal a kerambit on your body), it is a favorite weapon of ninja and assassins.
+This small, curved pull dagger has a metal loop at the base of its handle, allowing it to be secured with a pinky or worn on a string tied in the hair. While relatively small, the curved blade can create brutal wounds. Easily concealed (you gain a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks made to conceal a kerambit on your body), it is a favorite weapon of ninja and assassins.
 
 Kestros
 
@@ -1087,7 +1087,7 @@ Lasso
 
 **Type** exotic
 
-This thrown weapon is a length of rope with a simple open knot on one end that allows you entangle a foe like you would using a net. The DC to cast a spell while entangled with a lasso is 10 + the spell level being cast. An entangled creature can slip free with a successful DC 15 [Escape Artist](skills_dir/escapeArtist#_escape-artist) check as a full-round action. The lasso has 2 hit points and AC 10, and requires a DC 23 Strength check to break it. On a successful hit, the lasso tightens; to use it again you must spend a standard action sliding the knot to enlarge the loop.
+This thrown weapon is a length of rope with a simple open knot on one end that allows you entangle a foe like you would using a net. The DC to cast a spell while entangled with a lasso is 10 + the spell level being cast. An entangled creature can slip free with a successful DC 15 [Escape Artist](skills/escapeArtist#_escape-artist) check as a full-round action. The lasso has 2 hit points and AC 10, and requires a DC 23 Strength check to break it. On a successful hit, the lasso tightens; to use it again you must spend a standard action sliding the knot to enlarge the loop.
 
 Light Crossbow
 
@@ -1161,7 +1161,7 @@ Longsword
 
 **Type** martial
 
-This sword is about 3-1_dir/2 feet in length.
+This sword is about 3-1/2 feet in length.
 
 Lucerne Hammer
 
@@ -1181,7 +1181,7 @@ What seems to be an ordinary baton sheaths a pair of matching slender-bladed dag
 
 Madu
 
-**Price** 40 GP_dir/50 gp
+**Price** 40 GP/50 gp
 
 **Type** exotic
 
@@ -1251,7 +1251,7 @@ net
 
 A net is used to entangle enemies. When you throw a net, you make a ranged touch attack against your target. A net's maximum range is 10 feet. If you hit, the target is entangled. An entangled creature takes a –2 penalty on attack rolls and a –4 penalty to Dexterity, can move at only half speed, and cannot charge or run. If you control the trailing rope by succeeding at an opposed Strength check while holding it, the entangled creature can move only within the limits that the rope allows. If the entangled creature attempts to cast a spell, it must succeed at a concentration check with a DC of 15 + the spell's level or be unable to cast the spell.
 
-An entangled creature can escape with a successful DC 20 [Escape Artist](skills_dir/escapeArtist#_escape-artist) check (a full-round action). The net has 5 hit points and can be burst with a successful DC 25 Strength check (also a full-round action). A net is useful only against creatures within one size category of you.
+An entangled creature can escape with a successful DC 20 [Escape Artist](skills/escapeArtist#_escape-artist) check (a full-round action). The net has 5 hit points and can be burst with a successful DC 25 Strength check (also a full-round action). A net is useful only against creatures within one size category of you.
 
 A net must be folded to be thrown effectively. The first time you throw your net in a fight, you make a normal ranged touch attack roll. After the net is unfolded, you take a –4 penalty on attack rolls with it. It takes 2 rounds for a proficient user to fold a net and twice that long for a nonproficient one to do so.
 
@@ -1325,7 +1325,7 @@ Poisoned Sand Tube
 
 **Type** martial
 
-Resembling a slim scroll case made of bamboo or metal, this tube is filled with fine sand that is soaked or coated with inhaled or contact poison. When loaded with 3 doses of these types of poison, you can blow into the tube to disperse the poisoned sand into your enemies' faces in a 15-foot cone. Each creature in the cone is affected as if afflicted with 1 dose of the poison. Even when loaded with unpoisoned sand, the tube lets loose a powerful irritant, and an opponent struck must succeed at a DC 12 Fortitude saving throw or be dazzled for 1 round. Once expended, the tube must be repacked before it can be used again. Repacking a tube requires a full-round action, or a standard action if you have the [Rapid Reload](ultimateCombat_dir/ultimateCombatFeats#_rapid-reload) feat.
+Resembling a slim scroll case made of bamboo or metal, this tube is filled with fine sand that is soaked or coated with inhaled or contact poison. When loaded with 3 doses of these types of poison, you can blow into the tube to disperse the poisoned sand into your enemies' faces in a 15-foot cone. Each creature in the cone is affected as if afflicted with 1 dose of the poison. Even when loaded with unpoisoned sand, the tube lets loose a powerful irritant, and an opponent struck must succeed at a DC 12 Fortitude saving throw or be dazzled for 1 round. Once expended, the tube must be repacked before it can be used again. Repacking a tube requires a full-round action, or a standard action if you have the [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat.
 
 Punching Dagger
 
@@ -1365,7 +1365,7 @@ rapier
 
 **Type** martial
 
-You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a rapier sized for you, even though it isn't a light weapon. You can't wield a rapier in two hands in order to apply 1-1_dir/2 times your Strength modifier to its damage.
+You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a rapier sized for you, even though it isn't a light weapon. You can't wield a rapier in two hands in order to apply 1-1/2 times your Strength modifier to its damage.
 
 Repeating crossbow bolts
 
@@ -1609,7 +1609,7 @@ Snag Net
 
 **Type** exotic
 
-This short, wide net is covered in barbed loops and slipknots. It works like a typical net, except it has the trip weapon special feature. If you entangle an opponent and hold the trailing rope, on your turn in place of a melee attack you may make a combat maneuver check to trip against that opponent; if you succeed, you may trip your opponent or deal 1 point of piercing damage to it. The concentration DC to cast while entangled in a snag net is 17 + the spell's level. The [Escape Artist](skills_dir/escapeArtist#_escape-artist) DC to escape a snag net is 22.
+This short, wide net is covered in barbed loops and slipknots. It works like a typical net, except it has the trip weapon special feature. If you entangle an opponent and hold the trailing rope, on your turn in place of a melee attack you may make a combat maneuver check to trip against that opponent; if you succeed, you may trip your opponent or deal 1 point of piercing damage to it. The concentration DC to cast while entangled in a snag net is 17 + the spell's level. The [Escape Artist](skills/escapeArtist#_escape-artist) DC to escape a snag net is 22.
 
 Spear
 
@@ -1645,7 +1645,7 @@ This is a gauntlet of thick leather or metal with blades or spikes protruding fr
 
 Spiked Heavy Shield
 
-**Price** 57 GP_dir/70 gp
+**Price** 57 GP/70 gp
 
 **Type** martial
 
@@ -1653,7 +1653,7 @@ Spiked shields are intimidating weapons, and can have a single protruding centra
 
 Spiked Light Shield
 
-**Price** 53 GP_dir/59 gp
+**Price** 53 GP/59 gp
 
 **Type** martial
 
@@ -1673,7 +1673,7 @@ Sword Cane
 
 **Type** martial
 
-This slender light blade lies within a wooden container that serves as both its scabbard and hiding place. You can draw the blade as a swift action (or a free action if you have the [Quick Draw](feats#_quick-draw) feat). An observer must succeed at a DC 20 [Perception](skills_dir/perception#_perception) check to realize an undrawn sword cane is a weapon rather than a walking stick; the DC decreases to 10 if the observer is able to handle the weapon. You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a sword cane sized for you, even though it isn't a light weapon. You can't wield a sword cane in two hands in order to apply 1-1_dir/2 times your Strength modifier to damage.
+This slender light blade lies within a wooden container that serves as both its scabbard and hiding place. You can draw the blade as a swift action (or a free action if you have the [Quick Draw](feats#_quick-draw) feat). An observer must succeed at a DC 20 [Perception](skills/perception#_perception) check to realize an undrawn sword cane is a weapon rather than a walking stick; the DC decreases to 10 if the observer is able to handle the weapon. You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a sword cane sized for you, even though it isn't a light weapon. You can't wield a sword cane in two hands in order to apply 1-1/2 times your Strength modifier to damage.
 
 Swordbreaker Dagger
 
@@ -1785,7 +1785,7 @@ Tube Arrow shooter
 
 **Type** martial
 
-This weapon consists of a small metal tube hidden within a sleeve; the tube holds a short, spring-loaded bamboo shaft. You gain a +2 bonus on [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) checks made to conceal a tube arrow shooter on your body. Releasing the fastener allows the spring to force the arrow out. Once a shaft is fired, the tube must be reloaded before it can be used again. Reloading a tube is a full-round action, or a standard action if the wielder has the [Rapid Reload](ultimateCombat_dir/ultimateCombatFeats#_rapid-reload) feat.
+This weapon consists of a small metal tube hidden within a sleeve; the tube holds a short, spring-loaded bamboo shaft. You gain a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks made to conceal a tube arrow shooter on your body. Releasing the fastener allows the spring to force the arrow out. Once a shaft is fired, the tube must be reloaded before it can be used again. Reloading a tube is a full-round action, or a standard action if the wielder has the [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat.
 
 Two-Bladed Sword
 
@@ -1863,7 +1863,7 @@ A whip deals no damage to any creature with an armor bonus of +1 or higher or a 
 
 Using a whip provokes an attack of opportunity, just as if you had used a ranged weapon.
 
-You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a whip sized for you, even though it isn't a light weapon. You can't wield a whip in two hands in order to apply 1-1_dir/2 times your Strength modifier to damage rolls.
+You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a whip sized for you, even though it isn't a light weapon. You can't wield a whip in two hands in order to apply 1-1/2 times your Strength modifier to damage rolls.
 
 Whistling arrow
 
@@ -1897,7 +1897,7 @@ What follows are additional rules for using firearms.
 
 **Firearm Proficiency** : The [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) (firearms) feat allows you to use all firearms without penalty. A nonproficient character takes the standard –4 penalty on attack rolls with firearms, and a nonproficient character who loads a firearm increases all misfire values by 4 for the shots he loads.
 
-Even though the [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) (firearms) feat grants you proficiency with all firearms, anytime you take a feat that modifies a single type of weapon (such as [Weapon Focus](feats#_weapon-focus) or [Rapid Reload](ultimateCombat_dir/ultimateCombatFeats#_rapid-reload)), you must still pick one specific type of firearm (such as musket, axe musket, blunderbuss, pistol, or double pistol) for that feat to affect.
+Even though the [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) (firearms) feat grants you proficiency with all firearms, anytime you take a feat that modifies a single type of weapon (such as [Weapon Focus](feats#_weapon-focus) or [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload)), you must still pick one specific type of firearm (such as musket, axe musket, blunderbuss, pistol, or double pistol) for that feat to affect.
 
 All firearms are part of the same weapon group for the purposes of the fighter's weapon training class feature.
 
@@ -1917,7 +1917,7 @@ All firearms are part of the same weapon group for the purposes of the fighter's
 
 **Loading a Firearm** : You need at least one hand free to load one-handed and two-handed firearms. In the case of two-handed firearms, you hold the weapon in one hand and load it with the other—you only need to hold it in two hands to aim and shoot the firearm.
 
-The [Rapid Reload](ultimateCombat_dir/ultimateCombatFeats#_rapid-reload) feat reduces the time required to load one-handed and two-handed firearms. Loading any firearm provokes attacks of opportunity. Other rules for loading a firearm depend on whether the firearm is an early firearm or an advanced firearm.
+The [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat reduces the time required to load one-handed and two-handed firearms. Loading any firearm provokes attacks of opportunity. Other rules for loading a firearm depend on whether the firearm is an early firearm or an advanced firearm.
 
 > _Early Firearms:_ Early firearms are all muzzle-loaded, requiring bullets or pellets and black powder to be rammed down the muzzle. If an early firearm has multiple barrels, each barrel must be loaded separately. It is a standard action to load each barrel of a one-handed early firearm and a full-round action to load each barrel of a two-handed early firearm.
 > 
@@ -1925,7 +1925,7 @@ The [Rapid Reload](ultimateCombat_dir/ultimateCombatFeats#_rapid-reload) feat re
 
 **Misfires** : If the natural result of your attack roll with a firearm is equal to or less than the firearm's misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition, it suffers the normal disadvantages that broken weapons do, and its misfire value increases by 4 unless the wielder has gun training in the particular type of firearm. In that case, the misfire value increases by 2 instead of 4.
 
-> _Early Firearms:_ If an early firearm with the broken condition misfires again, it explodes. When a nonmagical firearm explodes, the weapon is destroyed. Magical firearms are wrecked, which means they can't fire until they are fully restored (which requires either the make whole spell or the [Gunsmithing](ultimateCombat_dir/ultimateCombatFeats#_gunsmithing) feat). When a gun explodes, pick one corner of your square—the explosion creates a burst from that point of origin. Each early firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon—a DC 12 Reflex save halves this damage.
+> _Early Firearms:_ If an early firearm with the broken condition misfires again, it explodes. When a nonmagical firearm explodes, the weapon is destroyed. Magical firearms are wrecked, which means they can't fire until they are fully restored (which requires either the make whole spell or the [Gunsmithing](ultimateCombat/ultimateCombatFeats#_gunsmithing) feat). When a gun explodes, pick one corner of your square—the explosion creates a burst from that point of origin. Each early firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon—a DC 12 Reflex save halves this damage.
 > 
 > _Advanced Firearms:_ Advanced firearms can misfire, but when they do, they only gain the broken condition. A subsequent misfire does not cause advanced firearms to explode.
 
@@ -1939,7 +1939,7 @@ The [Rapid Reload](ultimateCombat_dir/ultimateCombatFeats#_rapid-reload) feat re
 
 **Firearms, Black Powder, and Water** : Black powder becomes useless when exposed to water, but powder horns and cartridges protect black powder from exposure. You cannot normally load an early firearm underwater or fire any firearm underwater without magical aid.
 
-**Deflecting and Snatching Bullets** : The Deflect Arrows feat and the [Snatch](monsters_dir/monsterFeats#_snatch) Arrows feat can be used to deflect bullets, but not pellets shot from a scatter weapon.
+**Deflecting and Snatching Bullets** : The Deflect Arrows feat and the [Snatch](monsters/monsterFeats#_snatch) Arrows feat can be used to deflect bullets, but not pellets shot from a scatter weapon.
 
 **Scatter (Weapon Quality)** : A weapon with the scatter weapon quality can shoot two different types of ammunition. It can fire normal bullets that target one creature, or it can make a scattering shot, attacking all creatures within a cone. Cannons with the scatter weapon quality only fire grapeshot, unless their descriptions state otherwise. When a scatter weapon attacks all creatures within a cone, it makes a separate attack roll against each creature within the cone. Each attack roll takes a –2 penalty, and its attack damage cannot be modified by precision damage or damage-increasing feats such as [Vital Strike](feats#_vital-strike). Effects that grant concealment, such as fog or smoke, or the blur, invisibility, or mirror image spells, do not foil a scatter attack. If any of the attack rolls threaten a critical, confirm the critical for that attack roll alone. A firearm that makes a scatter shot misfires only if all of the attack rolls are misfires. If a scatter weapon explodes on a misfire, it deals triple its damage to all creatures within the misfire radius.
 
@@ -1974,7 +1974,7 @@ _Dragon's Breath Cartridge_: This cartridge contains alchemical compounds that, 
 
 _Entangling Shot Cartridge_: This mix of black powder and an alchemically treated resin strong enough to survive the shot can only be loaded into a blunderbuss, a dragon pistol, or another scatter weapon. It deals half damage to those hit by a cone attack made with this weapon, but any creature hit by the shot must succeed at a DC 15 Reflex saving throw or become entangled for 2d4 rounds. An entangling shot cartridge increases the firearm's misfire value by 2.
 
-_ [Flare](spells_dir/flare#_flare) Cartridge_: When a flare cartridge hits its target, it deals only half the normal damage, but the creature struck is blinded for 1 round (Fortitude DC 15 reduces this to dazzled), and creatures within a 20-foot burst are dazzled for 1 round (Fortitude DC 15 negates the effect). Flare cartridges are also useful for sending up signal flares. Firing a flare cartridge increases the firearm's misfire value by 2 unless it is fired from a blunderbuss or a dragon pistol, in which case doing so only increases the firearm's misfire value by 1. Flares can be used only to attack single creatures; they do not work as a shot for a scatter weapon's cone attack.
+_ [Flare](spells/flare#_flare) Cartridge_: When a flare cartridge hits its target, it deals only half the normal damage, but the creature struck is blinded for 1 round (Fortitude DC 15 reduces this to dazzled), and creatures within a 20-foot burst are dazzled for 1 round (Fortitude DC 15 negates the effect). Flare cartridges are also useful for sending up signal flares. Firing a flare cartridge increases the firearm's misfire value by 2 unless it is fired from a blunderbuss or a dragon pistol, in which case doing so only increases the firearm's misfire value by 1. Flares can be used only to attack single creatures; they do not work as a shot for a scatter weapon's cone attack.
 
 _Paper Cartridge_: This simple mix of black powder and either pellets or a bullet increases the misfire value by 1.
 
@@ -2019,7 +2019,7 @@ Coat Pistol
 
 **Type** early
 
-Though less powerful than other, larger firearms, this pistol is small enough to be easily concealed in a jacket or coat. You get a +2 bonus on [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) checks made to conceal a coat pistol on your body. A coat pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. This is an early firearm.
+Though less powerful than other, larger firearms, this pistol is small enough to be easily concealed in a jacket or coat. You get a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks made to conceal a coat pistol on your body. A coat pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. This is an early firearm.
 
 Culverin
 
@@ -2035,7 +2035,7 @@ Dagger Pistol
 
 **Type** early
 
-A combination of a coat pistol and a blade, the dagger pistol can be used as both weapons. The awkwardness of the configuration means you do not gain the bonus on [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) checks that either of those stand-alone weapons grants. The dagger pistol is considered a double weapon for the purpose of creating masterwork or magical versions of this weapon. If this firearm gains the broken condition, both the firearm component and the dagger component are considered broken. A dagger pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. This is an early firearm.
+A combination of a coat pistol and a blade, the dagger pistol can be used as both weapons. The awkwardness of the configuration means you do not gain the bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks that either of those stand-alone weapons grants. The dagger pistol is considered a double weapon for the purpose of creating masterwork or magical versions of this weapon. If this firearm gains the broken condition, both the firearm component and the dagger component are considered broken. A dagger pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. This is an early firearm.
 
 Double Hackbut
 
@@ -2149,7 +2149,7 @@ Pitted Bullet
 
 **Type** ammunition
 
-This ammunition is pitted with a pattern of small pocks into which specially formulated poison compounds can be applied. A poison compound is a derivative of a standard toxin that is alchemically reduced to a solid form. These can be made from any standard injury or contact poison with a successful [Craft](skills_dir/craft#_craft) (poison) check equal to the poison's DC + 4. The cost of purchasing an already prepared poison compound for the purpose of treating pitted bullets is equal to the poison's base cost + 20 gp. Once crafted, the compound can be pasted into the ammunition's pitted design and allowed to harden. Upon completion, the bullet can be fired from an appropriate firearm, releasing the poison compound into its target upon impact, but the poison's DC is reduced by 2. A pitted bullet cannot be used with an alchemical cartridge. The listed cost does not include the cost of poison.
+This ammunition is pitted with a pattern of small pocks into which specially formulated poison compounds can be applied. A poison compound is a derivative of a standard toxin that is alchemically reduced to a solid form. These can be made from any standard injury or contact poison with a successful [Craft](skills/craft#_craft) (poison) check equal to the poison's DC + 4. The cost of purchasing an already prepared poison compound for the purpose of treating pitted bullets is equal to the poison's base cost + 20 gp. Once crafted, the compound can be pasted into the ammunition's pitted design and allowed to harden. Upon completion, the bullet can be fired from an appropriate firearm, releasing the poison compound into its target upon impact, but the poison's DC is reduced by 2. A pitted bullet cannot be used with an alchemical cartridge. The listed cost does not include the cost of poison.
 
 Revolver
 
@@ -2185,7 +2185,7 @@ sword cane Pistol
 
 **Type** early
 
-A combination weapon, this gun mixes a coat pistol with a sword cane. The sword cane pistol is considered a double weapon for the purpose of creating masterwork or magical versions of this weapon. The pistol attachment makes the nature of the weapon a little more difficult to hide. An observer must succeed at a DC 15 [Perception](skills_dir/perception#_perception) check to realize that an undrawn sword cane pistol is a weapon rather than a simple walking stick; the DC decreases to 5 if the observer is able to handle the weapon. A sword cane pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. The sword part of the weapon must be drawn in order to load the pistol part of the weapon. This is an early firearm.
+A combination weapon, this gun mixes a coat pistol with a sword cane. The sword cane pistol is considered a double weapon for the purpose of creating masterwork or magical versions of this weapon. The pistol attachment makes the nature of the weapon a little more difficult to hide. An observer must succeed at a DC 15 [Perception](skills/perception#_perception) check to realize that an undrawn sword cane pistol is a weapon rather than a simple walking stick; the DC decreases to 5 if the observer is able to handle the weapon. A sword cane pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. The sword part of the weapon must be drawn in order to load the pistol part of the weapon. This is an early firearm.
 
 Warhammer Musket
 

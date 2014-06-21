@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/delayedBlastFireball
+title: spells/delayedBlastFireball
 ---
  **Delayed Blast Fireball**
 
-**School** evocation [fire]; **Level** sorcerer_dir/wizard 7
+**School** evocation [fire]; **Level** sorcerer/wizard 7
 
 **Duration** 5 rounds or less; see text
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/browGasher
+title: ultimateCombat/spells/browGasher
 ---
 Brow Gasher
 
-**School** necromancer: **Level** inquisitor 2, magus 2, ranger 2, sorcerer_dir/wizard 2
+**School** necromancer: **Level** inquisitor 2, magus 2, ranger 2, sorcerer/wizard 2
 
 **Casting Time** : 1 standard action
 
@@ -14,7 +14,7 @@ Brow Gasher
 
 **Area** one slashing melee weapon touched
 
-**Duration** 1 round_dir/level or until discharged
+**Duration** 1 round/level or until discharged
 
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 

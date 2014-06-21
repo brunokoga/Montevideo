@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/repelMetalOrStone
+title: spells/repelMetalOrStone
 ---
  **Repel Metal or Stone**
 
@@ -14,7 +14,7 @@ title: spells_dir/repelMetalOrStone
 
 **Area** 60-ft. line from you
 
-**Duration** 1 round_dir/level (D)
+**Duration** 1 round/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters_dir/twigjack
+title: additionalMonsters/twigjack
 ---
 # Twigjack
 
@@ -10,9 +10,9 @@ This tiny, vaguely humanoid creature seems to be made completely of bundles of s
 
 **XP 800**
 
-CE Tiny [fey](monsters_dir/creatureTypes#_fey)
+CE Tiny [fey](monsters/creatureTypes#_fey)
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +10
 
 Defense
 
@@ -22,15 +22,15 @@ Defense
 
 **Fort** +3, **Ref** +7, **Will** +6
 
-**Weaknesses** vulnerable to [fire](monsters_dir/creatureTypes#_fire-subtype)
+**Weaknesses** vulnerable to [fire](monsters/creatureTypes#_fire-subtype)
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** spear +3 (1d4–1_dir/x3) or 2 claws +7 (1d4–1)
+**Melee** spear +3 (1d4–1/x3) or 2 claws +7 (1d4–1)
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft. (5 ft. with spear)
+**Space** 2-1/2 ft.; **Reach** 0 ft. (5 ft. with spear)
 
 **Special Attacks** sneak attack +2d6, splinterspray
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +3; **CMD** 12
 
-**Feats** [Agile Maneuvers](additionalMonsters_dir/../feats#_agile-maneuvers), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
+**Feats** [Agile Maneuvers](additionalMonsters/../feats#_agile-maneuvers), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonsters/../skills/stealth#_stealth)), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +11, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +7, [Disable Device](additionalMonsters_dir/../skills_dir/disableDevice#_disable-device) +8, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (nature) +8, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +22
+**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +11, [Climb](additionalMonsters/../skills/climb#_climb) +7, [Disable Device](additionalMonsters/../skills/disableDevice#_disable-device) +8, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (nature) +8, [Perception](additionalMonsters/../skills/perception#_perception) +10, [Stealth](additionalMonsters/../skills/stealth#_stealth) +22
 
 **Languages** Common, Sylvan
 
@@ -58,7 +58,7 @@ Ecology
 
 Special Abilities
 
-**Bramble Jump (Su)** A twigjack can travel short distances between brambles, shrubs, or thickets as if via _ [dimension door](additionalMonsters_dir/../spells_dir/dimensionDoor#_dimension-door)_ as part of a move action. The twigjack must begin and end this movement while in an area of at least light undergrowth. The twigjack can travel in this manner up to 60 feet per day. This movement must be used in 10-foot increments and does not provoke attacks of opportunity.
+**Bramble Jump (Su)** A twigjack can travel short distances between brambles, shrubs, or thickets as if via _ [dimension door](additionalMonsters/../spells/dimensionDoor#_dimension-door)_ as part of a move action. The twigjack must begin and end this movement while in an area of at least light undergrowth. The twigjack can travel in this manner up to 60 feet per day. This movement must be used in 10-foot increments and does not provoke attacks of opportunity.
 
 **Splinterspray (Ex)** A twigjack can eject a barrage of splinters and brambles from its body three times per day as a standard action. This effect creates a 15-foot conical burst of jagged splinters, dealing 4d6 points of piercing damage to all creatures in the area. A DC 14 Reflex saving throw halves this damage. The save DC is Constitution-based.
 

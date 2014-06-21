@@ -65,7 +65,7 @@ Masonry walls—stones piled on top of each other, usually but not always held i
 
 **Wooden Walls** : Wooden walls often exist as recent additions to older dungeons, used to create animal pens, storage bins, and temporary structures, or just to make a number of smaller rooms out of a larger one.
 
-**Magically Treated Walls** : These walls are stronger than average, with a greater hardness, more hit points, and a higher break DC. Magic can usually double the hardness and hit points of a wall and add up to 20 to the break DC. A magically treated wall also gains a saving throw against spells that could affect it, with the save bonus equaling 2 + 1_dir/2 the caster level of the magic reinforcing the wall. Creating a magic wall requires the [Craft Wondrous Item](feats#_craft-wondrous-item) feat and the expenditure of 1,500 gp for each 10-foot-by-10-foot wall section.
+**Magically Treated Walls** : These walls are stronger than average, with a greater hardness, more hit points, and a higher break DC. Magic can usually double the hardness and hit points of a wall and add up to 20 to the break DC. A magically treated wall also gains a saving throw against spells that could affect it, with the save bonus equaling 2 + 1/2 the caster level of the magic reinforcing the wall. Creating a magic wall requires the [Craft Wondrous Item](feats#_craft-wondrous-item) feat and the expenditure of 1,500 gp for each 10-foot-by-10-foot wall section.
 
 **Walls with Arrow Slits** : Walls with arrow slits can be made of any durable material but are most commonly masonry, hewn stone, or wood. Such a wall allows defenders to fire arrows or crossbow bolts at intruders from behind the safety of the wall. Archers behind arrow slits have improved cover that gives them a +8 bonus to [Armor Class](combat#_armor-class), a +4 bonus on [Reflex](combat#_reflex) saves, and the benefits of the improved evasion class feature.
 
@@ -111,7 +111,7 @@ Doors in dungeons are much more than mere entrances and exits. Often they can be
 | Stuck | Locked |
 | --- | --- |
 | Simple wooden | 1 in. | 5 | 10 hp | 13 | 15 |
-| Good wooden | 1-1_dir/2 in. | 5 | 15 hp | 16 | 18 |
+| Good wooden | 1-1/2 in. | 5 | 15 hp | 16 | 18 |
 | Strong wooden | 2 in. | 5 | 20 hp | 23 | 25 |
 | Stone | 4 in. | 8 | 60 hp | 28 | 28 |
 | Iron | 2 in. | 10 | 60 hp | 28 | 28 |
@@ -220,7 +220,7 @@ All traps—mechanical or magical—have the following elements: CR, type, Perce
 
 A trap can be either mechanical or magical in nature.
 
-**Mechanical** : Dungeons are frequently equipped with deadly mechanical (nonmagical) traps. A trap typically is defined by its location and triggering conditions, how hard it is to spot before it goes off, how much damage it deals, and whether or not the characters receive a saving throw to mitigate its effects. Traps that attack with arrows, sweeping blades, and other types of weaponry make normal attack rolls, with specific attack bonuses dictated by the trap's design. A mechanical trap can be constructed by a PC through successful use of the Craft (traps) skill (see Designing a Trap and the [Craft skill description](skills_dir/craft)).
+**Mechanical** : Dungeons are frequently equipped with deadly mechanical (nonmagical) traps. A trap typically is defined by its location and triggering conditions, how hard it is to spot before it goes off, how much damage it deals, and whether or not the characters receive a saving throw to mitigate its effects. Traps that attack with arrows, sweeping blades, and other types of weaponry make normal attack rolls, with specific attack bonuses dictated by the trap's design. A mechanical trap can be constructed by a PC through successful use of the Craft (traps) skill (see Designing a Trap and the [Craft skill description](skills/craft)).
 
 Creatures that succeed on a Perception check detect a trap before it is triggered. The DC of this check depends on the trap itself. Success generally indicates that the creature has detected the mechanism that activates the trap, such as a pressure plate, odd gears attached to a door handle, and the like. Beating this check by 5 or more also gives some indication of what the trap is designed to do.
 
@@ -366,7 +366,7 @@ The following sample traps represent just some of the possibilities when constru
 
 **Trigger** touch; **Reset** none
 
-**Effect** Atk +15 ranged (1d8+1_dir/×3)
+**Effect** Atk +15 ranged (1d8+1/×3)
 
 **Pit Trap CR 1**
 
@@ -396,7 +396,7 @@ The following sample traps represent just some of the possibilities when constru
 
 **Trigger** location; **Reset** manual
 
-**Effect** Atk +10 melee (1d8+1_dir/×3); multiple targets (all targets in a 10-ft. line)
+**Effect** Atk +10 melee (1d8+1/×3); multiple targets (all targets in a 10-ft. line)
 
 **Burning Hands Trap CR 2**
 
@@ -466,7 +466,7 @@ The following sample traps represent just some of the possibilities when constru
 
 **Trigger** location; **Reset** automatic reset
 
-**Effect** Atk +20 melee (2d4+6_dir/×4)
+**Effect** Atk +20 melee (2d4+6/×4)
 
 **Falling Block Trap CR 5**
 
@@ -506,7 +506,7 @@ The following sample traps represent just some of the possibilities when constru
 
 **Trigger** location; **Reset** none
 
-**Effect** Atk +15 ranged (1d6 plus wyvern poison_dir/×3)
+**Effect** Atk +15 ranged (1d6 plus wyvern poison/×3)
 
 **Frost Fangs Trap CR 7**
 
@@ -720,7 +720,7 @@ Designing new traps is a simple process. Start by deciding what type of trap you
 | +11 to +15 | +1 |
 | +16 to +20 | +2 |
 | Touch attack | +1 |
-| Damage_dir/Effect |
+| Damage/Effect |
 | Average damage | +1 per 10 points of average damage |
 | Miscellaneous Features |
 | Alchemical device | Level of spell mimicked |
@@ -1047,7 +1047,7 @@ High altitude travel can be extremely fatiguing—and sometimes deadly—to crea
 
 **Acclimated Characters** : Creatures accustomed to high altitude generally fare better than lowlanders. Any creature with an Environment entry that includes mountains is considered native to the area and acclimated to the high altitude. Characters can also acclimate themselves by living at high altitude for a month. Characters who spend more than two months away from the mountains must reacclimate themselves when they return. Undead, constructs, and other creatures that do not breathe are immune to altitude effects.
 
-**Altitude Zones** : In general, mountains present three possible altitude bands: low pass, low peak_dir/high pass, and high peak.
+**Altitude Zones** : In general, mountains present three possible altitude bands: low pass, low peak/high pass, and high peak.
 
 _Low Pass (lower than 5,000 feet)_: Most travel in low mountains takes place in low passes, a zone consisting largely of alpine meadows and forests. Travelers might find the going difficult (which is reflected in the movement modifiers for traveling through mountains), but the altitude itself has no game effect.
 
@@ -1144,15 +1144,15 @@ _Invisibility_: An [invisible](glossary#_invisible) creature displaces water and
 Land-based creatures can have considerable difficulty when fighting in water. Water affects a creature's attack rolls, damage, and movement. In some cases a creature's opponents might get a bonus on attacks. The effects are summarized on Table: Combat Adjustments Underwater. They apply whenever a character is swimming, walking in chest-deep water, or walking along the bottom of a body of water.
 
 [Table: Combat Adjustments Underwater]
-| Condition | Attack_dir/Damage | Movement | Off Balance?ⁱ |
+| Condition | Attack/Damage | Movement | Off Balance?ⁱ |
 | --- | --- | --- | --- |
 | Slashing or Bludgeoning | Piercing |
 | --- | --- |
-| _Freedom of movement_ | normal_dir/normal | normal_dir/normal | normal | No |
-| Has a swim speed | –2_dir/half | normal | normal | No |
-| Successful Swim check | –2_dir/half⁲ | normal | quarter or half⁳ | No |
-| Firm footing⁴ | –2_dir/half⁲ | normal | half | No |
-| None of the above | –2_dir/half⁲ | –2_dir/half | normal | Yes |
+| _Freedom of movement_ | normal/normal | normal/normal | normal | No |
+| Has a swim speed | –2/half | normal | normal | No |
+| Successful Swim check | –2/half⁲ | normal | quarter or half⁳ | No |
+| Firm footing⁴ | –2/half⁲ | normal | half | No |
+| None of the above | –2/half⁲ | –2/half | normal | Yes |
 
 **Ranged Attacks Underwater** : Thrown weapons are ineffective underwater, even when launched from land. Attacks with other ranged weapons take a –2 penalty on attack rolls for every 5 feet of water they pass through, in addition to the normal penalties for range.
 
@@ -1216,7 +1216,7 @@ A city typically has full-time military personnel equal to 1% of its adult popul
 
 A typical city guard force works on three 8-hour shifts, with 30% of the force on a day shift (8 a.m. to 4 p.m.), 35% on an evening shift (4 p.m. to 12 a.m.), and 35% on a night shift (12 a.m. to 8 a.m.). At any given time, 80% of the guards on duty are on the streets patrolling, while the remaining 20% are stationed at various posts throughout the city where they can respond to nearby alarms. At least one such guard post is present within each neighborhood of a city (each neighborhood consisting of several districts).
 
-The majority of a city guard force is made up of warriors, mostly 1st level. Officers include higher-level warriors, fighters, a fair number of clerics, and wizards or sorcerers, as well as multiclass fighter_dir/spellcasters.
+The majority of a city guard force is made up of warriors, mostly 1st level. Officers include higher-level warriors, fighters, a fair number of clerics, and wizards or sorcerers, as well as multiclass fighter/spellcasters.
 
 ### Siege Engines
 
@@ -1331,11 +1331,11 @@ Table: Random Weather can be used as a simple local weather table. Terms on that
 
 **Moderate** : Between 40° and 60° Fahrenheit during the day, 10 to 20 degrees colder at night.
 
-**Powerful Storm (Windstorm_dir/Blizzard_dir/Hurricane_dir/Tornado)** : Wind speeds are over 50 mph (see Table: Wind Effects). In addition, blizzards are accompanied by heavy snow (1d3 feet), and hurricanes are accompanied by downpours. Windstorms last for 1d6 hours. Blizzards last for 1d3 days. Hurricanes can last for up to a week, but their major impact on characters comes in a 24-to-48-hour period when the center of the storm moves through their area. Tornadoes are very short-lived (1d6 × 10 minutes), typically forming as part of a thunderstorm system.
+**Powerful Storm (Windstorm/Blizzard/Hurricane/Tornado)** : Wind speeds are over 50 mph (see Table: Wind Effects). In addition, blizzards are accompanied by heavy snow (1d3 feet), and hurricanes are accompanied by downpours. Windstorms last for 1d6 hours. Blizzards last for 1d3 days. Hurricanes can last for up to a week, but their major impact on characters comes in a 24-to-48-hour period when the center of the storm moves through their area. Tornadoes are very short-lived (1d6 × 10 minutes), typically forming as part of a thunderstorm system.
 
-**Precipitation** : Roll d% to determine whether the precipitation is fog (01–30), rain_dir/snow (31–90), or sleet_dir/hail (91–00). Snow and sleet occur only when the temperature is 30° Fahrenheit or below. Most precipitation lasts for 2d4 hours. By contrast, hail lasts for only 1d20 minutes but usually accompanies 1d4 hours of rain.
+**Precipitation** : Roll d% to determine whether the precipitation is fog (01–30), rain/snow (31–90), or sleet/hail (91–00). Snow and sleet occur only when the temperature is 30° Fahrenheit or below. Most precipitation lasts for 2d4 hours. By contrast, hail lasts for only 1d20 minutes but usually accompanies 1d4 hours of rain.
 
-**Storm (Duststorm_dir/Snowstorm_dir/Thunderstorm)** : Wind speeds are severe (30 to 50 mph) and visibility is cut by three-quarters. Storms last for 2d4–1 hours. See Storms, below, for more details.
+**Storm (Duststorm/Snowstorm/Thunderstorm)** : Wind speeds are severe (30 to 50 mph) and visibility is cut by three-quarters. Storms last for 2d4–1 hours. See Storms, below, for more details.
 
 **Warm** : Between 60° and 85° Fahrenheit during the day, 10 to 20 degrees colder at night.
 
@@ -1386,15 +1386,15 @@ Whether in the form of a low-lying cloud or a mist rising from the ground, fog o
 The wind can create a stinging spray of sand or dust, fan a large fire, keel over a small boat, and blow gases or vapors away. If powerful enough, it can even knock characters down (see Table: Wind Effects), interfere with ranged attacks, or impose penalties on some skill checks.
 
 [Table: Wind Effects]
-| Wind Force | Wind Speed | Ranged Attacks Normal_dir/Siege Weaponsⁱ | Checked Size⁲ | Blown Away Size | Fly Penalty |
+| Wind Force | Wind Speed | Ranged Attacks Normal/Siege Weaponsⁱ | Checked Size⁲ | Blown Away Size | Fly Penalty |
 | --- | --- | --- | --- | --- | --- |
-| Light | 0–10 mph | —_dir/— | — | — | — |
-| Moderate | 11–20 mph | —_dir/— | — | — | — |
-| Strong | 21–30 mph | –2_dir/— | Tiny | — | –2 |
-| Severe | 31–50 mph | –4_dir/— | Small | Tiny | –4 |
-| Windstorm | 51–74 mph | Impossible_dir/–4 | Medium | Small | –8 |
-| Hurricane | 75–174 mph | Impossible_dir/–8 | Large | Medium | –12 |
-| Tornado | 175–300 mph | Impossible_dir/impossible | Huge | Large | –16 |
+| Light | 0–10 mph | —/— | — | — | — |
+| Moderate | 11–20 mph | —/— | — | — | — |
+| Strong | 21–30 mph | –2/— | Tiny | — | –2 |
+| Severe | 31–50 mph | –4/— | Small | Tiny | –4 |
+| Windstorm | 51–74 mph | Impossible/–4 | Medium | Small | –8 |
+| Hurricane | 75–174 mph | Impossible/–8 | Large | Medium | –12 |
+| Tornado | 175–300 mph | Impossible/impossible | Huge | Large | –16 |
 
 _Light Wind_: A gentle breeze, having little or no game effect.
 

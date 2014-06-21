@@ -1,6 +1,6 @@
 ---
 layout: default
-title: magicItems_dir/potions
+title: magicItems/potions
 ---
 # Potions
 

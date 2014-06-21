@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/boilingBlood
+title: ultimateMagic/spells/boilingBlood
 ---
 Boiling Blood
 
-**School** transmutation; **Level** bard 2, cleric 2, sorcerer_dir/wizard 2, witch 2
+**School** transmutation; **Level** bard 2, cleric 2, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Targets** one creature per three levels, no two of which may be more than 30 ft. apart
 
-**Duration** concentration + 1 round_dir/level (D)
+**Duration** concentration + 1 round/level (D)
 
 **Saving Throw** Fortitude negates (see text); **Spell Resistance** yes
 

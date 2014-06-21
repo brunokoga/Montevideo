@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/symbolOfPersuasion
+title: spells/symbolOfPersuasion
 ---
  **Symbol of Persuasion**
 
-**School** enchantment (charm) [mind-affecting]; **Level** cleric 6, sorcerer_dir/wizard 6
+**School** enchantment (charm) [mind-affecting]; **Level** cleric 6, sorcerer/wizard 6
 
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
 

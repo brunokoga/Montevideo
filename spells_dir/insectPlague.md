@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/insectPlague
+title: spells/insectPlague
 ---
  **Insect Plague**
 
@@ -10,11 +10,11 @@ title: spells_dir/insectPlague
 
 **Components** V, S, DF
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Effect** one swarm of wasps per three levels, each of which must be adjacent to at least one other swarm
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

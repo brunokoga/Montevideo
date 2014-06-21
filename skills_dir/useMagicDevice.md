@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills_dir/useMagicDevice
+title: skills/useMagicDevice
 ---
 # Use Magic Device
 

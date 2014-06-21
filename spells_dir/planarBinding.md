@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/planarBinding
+title: spells/planarBinding
 ---
  **Planar Binding**
 
-**School** conjuration (calling) [see text for _lesser planar binding_]; **Level** sorcerer_dir/wizard 6
+**School** conjuration (calling) [see text for _lesser planar binding_]; **Level** sorcerer/wizard 6
 
 **Components** : V, S
 
@@ -14,7 +14,7 @@ This spell functions like _lesser planar binding, _except that you may call a si
 
 **Planar Binding, Greater**
 
-**School** conjuration (calling) [see text for _lesser planar binding_]; **Level** : sorcerer_dir/wizard 8
+**School** conjuration (calling) [see text for _lesser planar binding_]; **Level** : sorcerer/wizard 8
 
 **Components** : V, S
 
@@ -24,13 +24,13 @@ This spell functions like _lesser planar binding, _except that you may call a si
 
 **Planar Binding, Lesser**
 
-**School** conjuration (calling) [see text]; **Level** sorcerer_dir/wizard 5
+**School** conjuration (calling) [see text]; **Level** sorcerer/wizard 5
 
 **Casting Time** 10 minutes
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels); see text
+**Range** close (25 ft. + 5 ft./2 levels); see text
 
 **Target** one elemental or outsider with 6 HD or less
 
@@ -42,7 +42,7 @@ Casting this spell attempts a dangerous act: to lure a creature from another pla
 
 To create the trap, you must use a _magic circle _spell, focused inward. The kind of creature to be bound must be known and stated. If you wish to call a specific individual, you must use that individual's proper name in casting the spell.
 
-The target creature is allowed a [Will](../combat#_will) saving throw. If the saving throw succeeds, the creature resists the spell. If the saving throw fails, the creature is immediately drawn to the trap ( [spell resistance](../glossary#_spell-resistance) does not keep it from being called). The creature can escape from the trap by successfully pitting its [spell resistance](../glossary#_spell-resistance) against your caster level check, by dimensional travel, or with a successful [Charisma](../gettingStarted#_charisma-new) check (DC 15 + 1_dir/2 your caster level + your [Charisma](../gettingStarted#_charisma-new) modifier). It can try each method once per day. If it breaks loose, it can flee or attack you. A _ [dimensional anchor](dimensionalAnchor#_dimensional-anchor) _cast on the creature prevents its escape via dimensional travel. You can also employ a calling diagram (see _ [magic circle against evil](magicCircleAgainstEvil#_magic-circle-against-evil)_) to make the trap more secure.
+The target creature is allowed a [Will](../combat#_will) saving throw. If the saving throw succeeds, the creature resists the spell. If the saving throw fails, the creature is immediately drawn to the trap ( [spell resistance](../glossary#_spell-resistance) does not keep it from being called). The creature can escape from the trap by successfully pitting its [spell resistance](../glossary#_spell-resistance) against your caster level check, by dimensional travel, or with a successful [Charisma](../gettingStarted#_charisma-new) check (DC 15 + 1/2 your caster level + your [Charisma](../gettingStarted#_charisma-new) modifier). It can try each method once per day. If it breaks loose, it can flee or attack you. A _ [dimensional anchor](dimensionalAnchor#_dimensional-anchor) _cast on the creature prevents its escape via dimensional travel. You can also employ a calling diagram (see _ [magic circle against evil](magicCircleAgainstEvil#_magic-circle-against-evil)_) to make the trap more secure.
 
 If the creature does not break free of the trap, you can keep it bound for as long as you dare. You can attempt to compel the creature to perform a service by describing the service and perhaps offering some sort of reward. You make a [Charisma](../gettingStarted#_charisma-new) check opposed by the creature's [Charisma](../gettingStarted#_charisma-new) check. The check is assigned a bonus of +0 to +6 based on the nature of the service and the reward. If the creature wins the opposed check, it refuses service. New offers, bribes, and the like can be made or the old ones reoffered every 24 hours. This process can be repeated until the creature promises to serve, until it breaks free, or until you decide to get rid of it by means of some other spell. Impossible demands or unreasonable commands are never agreed to. If you ever roll a natural 1 on the [Charisma](../gettingStarted#_charisma-new) check, the creature breaks free of the spell's effect and can escape or attack you.
 

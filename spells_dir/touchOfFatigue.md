@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/touchOfFatigue
+title: spells/touchOfFatigue
 ---
  **Touch of Fatigue**
 
-**School** necromancy; **Level** sorcerer_dir/wizard 0
+**School** necromancy; **Level** sorcerer/wizard 0
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/touchOfFatigue
 
 **Target** creature touched
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

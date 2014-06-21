@@ -1,18 +1,18 @@
 ---
 layout: default
-title: additionalMonsters_dir/maggot
+title: additionalMonsters/maggot
 ---
 # Maggot, Giant
 
 This enormous maggot has greasy, pale flesh and a dripping, circular mouth filled with tiny, sharp teeth.
 
-Giant MaggotCR 1_dir/2
+Giant MaggotCR 1/2
 
 **XP 200**
 
-N Medium [vermin](monsters_dir/creatureTypes#_vermin)
+N Medium [vermin](monsters/creatureTypes#_vermin)
 
-**Init** –1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) –3
+**Init** –1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) –3
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +5, **Ref** –1, **Will** –3
 
-**Immune** [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), mind-affecting effects
+**Immune** [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), mind-affecting effects
 
 Offense
 

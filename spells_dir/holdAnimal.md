@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/holdAnimal
+title: spells/holdAnimal
 ---
  **Hold Animal**
 

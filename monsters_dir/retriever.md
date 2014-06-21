@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/retriever
+title: monsters/retriever
 ---
 # Retriever
 
@@ -12,7 +12,7 @@ _A spider the size of a bull elephant rears up on its back four legs in a violen
 
 CE Huge [construct](creatureTypes#_construct) ( [extraplanar](creatureTypes#_extraplanar-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision, [Perception](../skills_dir/perception#_perception) +15
+**Init** +7; **Senses** darkvision 60 ft., low-light vision, [Perception](../skills/perception#_perception) +15
 
 **Defense**
 
@@ -28,7 +28,7 @@ CE Huge [construct](creatureTypes#_construct) ( [extraplanar](creatureTypes#_ext
 
 **Speed** 50 ft.
 
-**Melee** bite +19 (1d8+6 plus [grab](universalMonsterRules#_grab)), 4 claws +19 (2d6+6_dir/19–20)
+**Melee** bite +19 (1d8+6 plus [grab](universalMonsterRules#_grab)), 4 claws +19 (2d6+6/19–20)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -36,7 +36,7 @@ CE Huge [construct](creatureTypes#_construct) ( [extraplanar](creatureTypes#_ext
 
 **Spell-Like Abilities** (CL 20th)
 
-At will—_ [discern location](../spells_dir/discernLocation#_discern-location)_
+At will—_ [discern location](../spells/discernLocation#_discern-location)_
 
 **Statistics**
 
@@ -46,7 +46,7 @@ At will—_ [discern location](../spells_dir/discernLocation#_discern-location)_
 
 **Feats** [Cleave](../feats#_cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Great Fortitude](../feats#_great-fortitude), [Improved Critical](../feats#_improved-critical) (claw), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack), [Toughness](../feats#_toughness)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +15
+**Skills** [Perception](../skills/perception#_perception) +15
 
 **Languages** Abyssal (cannot speak)
 
@@ -72,7 +72,7 @@ _Electricity_: Deals 12d6 electricity damage (Reflex half).
 
 _Petrification_: Target must succeed on a Fortitude save or turn to stone permanently.
 
-**Relentless (Su)** A retriever is constantly under the effects of _ [spider climb](../spells_dir/spiderClimb#_spider-climb)_ and _ [water walk](../spells_dir/waterWalk#_water-walk)_; these abilities cannot be dispelled.
+**Relentless (Su)** A retriever is constantly under the effects of _ [spider climb](../spells/spiderClimb#_spider-climb)_ and _ [water walk](../spells/waterWalk#_water-walk)_; these abilities cannot be dispelled.
 
 Not all constructs are formed from unliving matter like stone, wood, metal, or dead flesh. In the darkest corners of the Great Beyond, certain powerful demon lords have mastered the art of shaping the raw, protoplasmic flesh of the Abyss into hideous monstrosities devoid of life, emotion, and the will to resist control. The monstrous retriever is the best-known of such constructs, a huge spider-like creation capable of unleashing potent energy upon those it has been ordered to seek.
 
@@ -82,5 +82,5 @@ A retriever's body is the size of an elephant, and its legspan is nearly 30 feet
 
 ## Conjuring a Retriever
 
-Although a retriever is not an outsider, it may nonetheless be conjured by either _ [greater planar ally](../spells_dir/planarAlly#_planar-ally-greater)_ or _ [greater planar binding](../spells_dir/planarBinding#_planar-binding-greater)_. The spellcaster must take care to do so, however, using special rare incenses and complex diagrams inked on the floor and walls using expensive phosphorescent inks, lest the retriever attack the spellcaster upon completion of the spell. These components cost 25,000 gp and replace the usual costs associated with casting either spell (including _ [greater planar binding](../spells_dir/planarBinding#_planar-binding-greater)_‘s Charisma check requirement).
+Although a retriever is not an outsider, it may nonetheless be conjured by either _ [greater planar ally](../spells/planarAlly#_planar-ally-greater)_ or _ [greater planar binding](../spells/planarBinding#_planar-binding-greater)_. The spellcaster must take care to do so, however, using special rare incenses and complex diagrams inked on the floor and walls using expensive phosphorescent inks, lest the retriever attack the spellcaster upon completion of the spell. These components cost 25,000 gp and replace the usual costs associated with casting either spell (including _ [greater planar binding](../spells/planarBinding#_planar-binding-greater)_‘s Charisma check requirement).
 

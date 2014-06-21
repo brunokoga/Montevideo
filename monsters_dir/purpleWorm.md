@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/purpleWorm
+title: monsters/purpleWorm
 ---
 # Purple Worm
 
@@ -12,7 +12,7 @@ _This enormous worm is covered with dark purple plates of chitinous armor. Its g
 
 N Gargantuan [magical beast](creatureTypes#_magical-beast)
 
-**Init** –2; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skills_dir/perception#_perception) +18
+**Init** –2; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skills/perception#_perception) +18
 
 **Defense**
 
@@ -26,7 +26,7 @@ N Gargantuan [magical beast](creatureTypes#_magical-beast)
 
 **Speed** 20 ft., burrow 20 ft., swim 10 ft.
 
-**Melee** bite +25 (4d8+12_dir/19–20 plus [grab](universalMonsterRules#_grab)), sting +25 (2d8+12 plus [poison](universalMonsterRules#_poison))
+**Melee** bite +25 (4d8+12/19–20 plus [grab](universalMonsterRules#_grab)), sting +25 (2d8+12 plus [poison](universalMonsterRules#_poison))
 
 **Space** 20 ft.; **Reach** 15 ft.
 
@@ -40,7 +40,7 @@ N Gargantuan [magical beast](creatureTypes#_magical-beast)
 
 **Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Critical Focus](../feats#_critical-focus), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (bite), [Power Attack](../feats#_power-attack), [Staggering Critical](../feats#_staggering-critical), [Weapon Focus](../feats#_weapon-focus) (bite, sting)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +18, [Swim](../skills_dir/swim#_swim) +20
+**Skills** [Perception](../skills/perception#_perception) +18, [Swim](../skills/swim#_swim) +20
 
 **Ecology**
 
@@ -52,7 +52,7 @@ N Gargantuan [magical beast](creatureTypes#_magical-beast)
 
 **Special Abilities**
 
-**Poison (Ex)** Sting—injury; _save_ Fort DC 25; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d4 Strength [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 3 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex)** Sting—injury; _save_ Fort DC 25; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Strength [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 3 consecutive saves. The save DC is Constitution-based.
 
 Purple worms are giant scavengers that inhabit the deepest regions of the world, consuming any organic material that they encounter. They are notorious for swallowing their prey whole. It is not uncommon to hear of a group of adventurers vanishing down the ravenous maw of a purple worm, screaming as they disappear one by one.
 

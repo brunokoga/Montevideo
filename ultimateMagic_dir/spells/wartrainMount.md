@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/wartrainMount
+title: ultimateMagic/spells/wartrainMount
 ---
 Wartrain Mount
 
@@ -10,13 +10,13 @@ Wartrain Mount
 
 **Components** V, S, M (a swatch of black cloth)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one indifferent or friendly animal
 
-**Duration** 1 hour_dir/level
+**Duration** 1 hour/level
 
 **Saving Throw** none; **Spell Resistance** yes
 
-You instill the target animal with the combat training general purpose (see the [Handle Animal](skills_dir/handleAnimal#_handle-animal) skill). This supersedes the animal's previous trained purpose and any tricks it knows. When the spell ends, it reverts to its previous trained purpose and known tricks.
+You instill the target animal with the combat training general purpose (see the [Handle Animal](skills/handleAnimal#_handle-animal) skill). This supersedes the animal's previous trained purpose and any tricks it knows. When the spell ends, it reverts to its previous trained purpose and known tricks.
 

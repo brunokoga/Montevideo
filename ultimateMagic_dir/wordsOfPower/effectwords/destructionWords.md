@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/destructionWords
+title: ultimateMagic/wordsOfPower/effectwords/destructionWords
 ---
 ## Destruction Words
 
@@ -8,7 +8,7 @@ These words cause catastrophe when they are uttered, breaking and destroying all
 
 Damage (Destruction)
 
-**School** evocation; **Level** bard 3, cleric 3, sorcerer_dir/wizard 2
+**School** evocation; **Level** bard 3, cleric 3, sorcerer/wizard 2
 
 **Duration** instantaneous
 
@@ -20,7 +20,7 @@ This effect word causes one object within range to lose half of its maximum hit 
 
 Rumble (Destruction)
 
-**School** evocation [[earth](monsters_dir/creatureTypes#_earth-subtype)]; **Level** cleric 8, druid 8
+**School** evocation [[earth](monsters/creatureTypes#_earth-subtype)]; **Level** cleric 8, druid 8
 
 **Duration** 1 round
 
@@ -32,9 +32,9 @@ This effect word causes the ground within the area to shake and rumble, like an 
 
 Catastrophe (Destruction)
 
-**School** evocation [[air](monsters_dir/creatureTypes#_air-subtype)]; **Level** cleric 9, druid 9, witch 9
+**School** evocation [[air](monsters/creatureTypes#_air-subtype)]; **Level** cleric 9, druid 9, witch 9
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** see text; **Spell Resistance** no
 

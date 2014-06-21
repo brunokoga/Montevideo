@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/intellectDevourer
+title: monsters/intellectDevourer
 ---
 # Intellect Devourer
 
@@ -12,7 +12,7 @@ _Devoid of a head, or any features at all save for four short, clawed legs, this
 
 CE Small [aberration](creatureTypes#_aberration)
 
-**Init** +10; **Senses** blindsight 60 ft., _ [detect magic](../spells_dir/detectMagic#_detect-magic)_; [Perception](../skills_dir/perception#_perception) +19
+**Init** +10; **Senses** blindsight 60 ft., _ [detect magic](../spells/detectMagic#_detect-magic)_; [Perception](../skills/perception#_perception) +19
 
 **Defense**
 
@@ -22,9 +22,9 @@ CE Small [aberration](creatureTypes#_aberration)
 
 **Fort** +7, **Ref** +8, **Will** +8
 
-**DR** 10_dir/adamantine and magic; **Immune** fire, mind-affecting effects; **Resist** cold 20, electricity 20, sonic 20; **SR** 23
+**DR** 10/adamantine and magic; **Immune** fire, mind-affecting effects; **Resist** cold 20, electricity 20, sonic 20; **SR** 23
 
-**Weaknesses** vulnerability to _ [protection from evil](../spells_dir/protectionFromEvil#_protection-from-evil)_
+**Weaknesses** vulnerability to _ [protection from evil](../spells/protectionFromEvil#_protection-from-evil)_
 
 **Offense**
 
@@ -36,11 +36,11 @@ CE Small [aberration](creatureTypes#_aberration)
 
 **Spell-Lilke Abilities** (CL 8th)
 
-Constant—_ [detect magic](../spells_dir/detectMagic#_detect-magic)_
+Constant—_ [detect magic](../spells/detectMagic#_detect-magic)_
 
-At will—_ [confusion](../spells_dir/confusion#_confusion) _(DC 17, single target only)_, [daze monster](../spells_dir/dazeMonster#_daze-monster) _(DC 15, no HD limit), _ [inflict serious wounds](../spells_dir/inflictSeriousWounds#_inflict-serious-wounds)_ (DC 16), _ [invisibility](../spells_dir/invisibility#_invisibility), reduce size_ (as _ [reduce person](../spells_dir/reducePerson#_reduce-person)_ but self only)
+At will—_ [confusion](../spells/confusion#_confusion) _(DC 17, single target only)_, [daze monster](../spells/dazeMonster#_daze-monster) _(DC 15, no HD limit), _ [inflict serious wounds](../spells/inflictSeriousWounds#_inflict-serious-wounds)_ (DC 16), _ [invisibility](../spells/invisibility#_invisibility), reduce size_ (as _ [reduce person](../spells/reducePerson#_reduce-person)_ but self only)
 
-3_dir/day—_ [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds), [globe of invulnerability](../spells_dir/globeOfInvulnerability#_globe-of-invulnerability)_
+3/day—_ [cure moderate wounds](../spells/cureModerateWounds#_cure-moderate-wounds), [globe of invulnerability](../spells/globeOfInvulnerability#_globe-of-invulnerability)_
 
 **Statistics**
 
@@ -50,7 +50,7 @@ At will—_ [confusion](../spells_dir/confusion#_confusion) _(DC 17, single targ
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Toughness](../feats#_toughness), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Bluff](../skills_dir/bluff#_bluff) +19, [Disguise](../skills_dir/disguise#_disguise) +11, [Knowledge](../skills_dir/knowledge#_knowledge) (local) +14, [Perception](../skills_dir/perception#_perception) +19, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +8, [Stealth](../skills_dir/stealth#_stealth) +29, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +11; **Racial Modifiers** +8 [Bluff](../skills_dir/bluff#_bluff), +8 [Perception](../skills_dir/perception#_perception), +8 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Bluff](../skills/bluff#_bluff) +19, [Disguise](../skills/disguise#_disguise) +11, [Knowledge](../skills/knowledge#_knowledge) (local) +14, [Perception](../skills/perception#_perception) +19, [Sense Motive](../skills/senseMotive#_sense-motive) +8, [Stealth](../skills/stealth#_stealth) +29, [Use Magic Device](../skills/useMagicDevice#_use-magic-device) +11; **Racial Modifiers** +8 [Bluff](../skills/bluff#_bluff), +8 [Perception](../skills/perception#_perception), +8 [Stealth](../skills/stealth#_stealth)
 
 **Languages** Undercommon (cannot speak); [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
@@ -64,9 +64,9 @@ At will—_ [confusion](../spells_dir/confusion#_confusion) _(DC 17, single targ
 
 **Special Abilities**
 
-**Body Thief (Su)** As a full-round action that provokes an attack of opportunity, an intellect devourer can reduce its size, crawl into the mouth of a helpless or dead creature, and burrow into the victim's skull to devour its brain. This is a coup de grace attempt that inflicts 8d4+3d6+8 points of damage. If the victim is slain (or already dead), the intellect devourer usurps control of the body and may use it as its own, as if it controlled the target via a _ [dominate monster](../spells_dir/dominateMonster#_dominate-monster)_ spell. The intellect devourer has full access to all of the host's defensive and offensive abilities save for spellcasting and spell-like abilities (although the intellect devourer can still use its own spell-like abilities). A host body may not have been dead for longer than 1 day for this ability to function, and even successfully inhabited bodies decay to uselessness in 7 days (unless this time is extended via _ [gentle repose](../spells_dir/gentleRepose#_gentle-repose)_). As long as the intellect devourer occupies the body, it knows (and can speak) the languages known by the victim and basic information about the victim's identity and personality, yet has none of the victim's specific memories or knowledge. Damage done to a host body does not harm the intellect devourer, and if the host body is slain, the intellect devourer emerges and is dazed for 1 round. _Raise dead_ cannot restore a victim of body theft, but _ [resurrection](../spells_dir/resurrection#_resurrection)_ or more powerful magic can.
+**Body Thief (Su)** As a full-round action that provokes an attack of opportunity, an intellect devourer can reduce its size, crawl into the mouth of a helpless or dead creature, and burrow into the victim's skull to devour its brain. This is a coup de grace attempt that inflicts 8d4+3d6+8 points of damage. If the victim is slain (or already dead), the intellect devourer usurps control of the body and may use it as its own, as if it controlled the target via a _ [dominate monster](../spells/dominateMonster#_dominate-monster)_ spell. The intellect devourer has full access to all of the host's defensive and offensive abilities save for spellcasting and spell-like abilities (although the intellect devourer can still use its own spell-like abilities). A host body may not have been dead for longer than 1 day for this ability to function, and even successfully inhabited bodies decay to uselessness in 7 days (unless this time is extended via _ [gentle repose](../spells/gentleRepose#_gentle-repose)_). As long as the intellect devourer occupies the body, it knows (and can speak) the languages known by the victim and basic information about the victim's identity and personality, yet has none of the victim's specific memories or knowledge. Damage done to a host body does not harm the intellect devourer, and if the host body is slain, the intellect devourer emerges and is dazed for 1 round. _Raise dead_ cannot restore a victim of body theft, but _ [resurrection](../spells/resurrection#_resurrection)_ or more powerful magic can.
 
-**Vulnerable to _Protection from Evil_ (Ex)** An intellect devourer is treated as a summoned creature for the purpose of determining how it is affected by a _ [protection from evil](../spells_dir/protectionFromEvil#_protection-from-evil)_ spell.
+**Vulnerable to _Protection from Evil_ (Ex)** An intellect devourer is treated as a summoned creature for the purpose of determining how it is affected by a _ [protection from evil](../spells/protectionFromEvil#_protection-from-evil)_ spell.
 
 Thought by some to be invaders from another dimension or planet, the sinister intellect devourers are certainly one of the world's cruelest races. Incapable of experiencing emotions or wallowing in the sins of physical pleasure on their own, intellect devourers are forced to steal bodies in order to indulge their gluttony, lust, and cruelty. Stories tell of entire cities of these creatures deep underground, where host bodies are worn like clothes to hideous orgies and vile feasts. Lone intellect devourers often dwell in ruins or caves on the edge of a civilized region so they can make periodic forays into town to “shop” for an attractive new body.
 

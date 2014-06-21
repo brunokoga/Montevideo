@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/cacklingSkull
+title: ultimateMagic/spells/cacklingSkull
 ---
 Cackling Skull
 
@@ -10,7 +10,7 @@ Cackling Skull
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one skull
 
@@ -18,5 +18,5 @@ Cackling Skull
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions as _ [magic mouth](spells_dir/magicMouth#_magic-mouth)_, except rather than creating an illusory mouth on any surface, it affects a skull. In addition, when the skull's magic is triggered, it releases wild and unnerving cackles before speaking its message. All creatures that can hear the cackles must save or become shaken for 1d4 rounds.
+This spell functions as _ [magic mouth](spells/magicMouth#_magic-mouth)_, except rather than creating an illusory mouth on any surface, it affects a skull. In addition, when the skull's magic is triggered, it releases wild and unnerving cackles before speaking its message. All creatures that can hear the cackles must save or become shaken for 1d4 rounds.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/bloodyClaws
+title: advanced/spells/bloodyClaws
 ---
  **Bloody Claws**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/bloodyClaws
 
 **Target** living creature touched
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

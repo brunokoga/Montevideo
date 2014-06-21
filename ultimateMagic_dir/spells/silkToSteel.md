@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/silkToSteel
+title: ultimateMagic/spells/silkToSteel
 ---
 Silk To Steel
 
-**School** transmutation; **Level** bard 2, sorcerer_dir/wizard 2, witch 2
+**School** transmutation; **Level** bard 2, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Silk To Steel
 
 **Target** one scarf
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** none; **Spell Resistance** no
 

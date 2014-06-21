@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/glibness
+title: spells/glibness
 ---
  **Glibness**
 
@@ -14,7 +14,7 @@ title: spells_dir/glibness
 
 **Target** you
 
-**Duration** 10 min._dir/level (D)
+**Duration** 10 min./level (D)
 
 Your speech becomes fluent and more believable, causing those who hear you to believe every word you say. You gain a +20 bonus on Bluff checks made to convince another of the truth of your words. This bonus doesn't apply to other uses of the Bluff skill, such as feinting in combat, creating a diversion to hide, or communicating a hidden message via innuendo.
 

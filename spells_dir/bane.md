@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/bane
+title: spells/bane
 ---
  **Bane**
 
@@ -14,7 +14,7 @@ title: spells_dir/bane
 
 **Area** 50-ft.-radius burst, centered on you
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

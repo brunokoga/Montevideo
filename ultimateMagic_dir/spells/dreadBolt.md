@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/dreadBolt
+title: ultimateMagic/spells/dreadBolt
 ---
 Dread Bolt
 
@@ -10,7 +10,7 @@ Dread Bolt
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** arrow-shaped projectile of evil energy
 

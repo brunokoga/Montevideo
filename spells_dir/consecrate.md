@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/consecrate
+title: spells/consecrate
 ---
  **Consecrate**
 
@@ -10,11 +10,11 @@ title: spells_dir/consecrate
 
 **Components** V, S, M (a vial of holy water and 25 gp worth of silver dust), DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Area** 20-ft.-radius emanation
 
-**Duration** 2 hours_dir/level
+**Duration** 2 hours/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

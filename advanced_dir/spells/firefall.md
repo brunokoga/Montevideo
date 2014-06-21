@@ -1,16 +1,16 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/firefall
+title: advanced/spells/firefall
 ---
  **Firefall**
 
-**School** transmutation [fire]; **Level** sorcerer_dir/wizard 4
+**School** transmutation [fire]; **Level** sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (one fire source)
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Target** one fire source, up to a 20-foot cube
 

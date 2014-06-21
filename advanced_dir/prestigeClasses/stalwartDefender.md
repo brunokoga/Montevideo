@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/prestigeClasses_dir/stalwartDefender
+title: advanced/prestigeClasses/stalwartDefender
 ---
 # Stalwart Defender
 
@@ -26,7 +26,7 @@ To qualify to become a stalwart defender, a character must fulfill all the follo
 
 # Class Skills
 
-The stalwart defender's class skills are [Acrobatics](../../skills_dir/acrobatics#_acrobatics) (Dex), [Climb](../../skills_dir/climb#_climb) (Str), [Intimidate](../../skills_dir/intimidate#_intimidate) (Cha), [Perception](../../skills_dir/perception#_perception) (Wis), and [Sense Motive](../../skills_dir/senseMotive#_sense-motive) (Wis).
+The stalwart defender's class skills are [Acrobatics](../../skills/acrobatics#_acrobatics) (Dex), [Climb](../../skills/climb#_climb) (Str), [Intimidate](../../skills/intimidate#_intimidate) (Cha), [Perception](../../skills/perception#_perception) (Wis), and [Sense Motive](../../skills/senseMotive#_sense-motive) (Wis).
 
 **Skill Ranks per Level** : 2 + Int modifier.
 
@@ -37,12 +37,12 @@ The stalwart defender's class skills are [Acrobatics](../../skills_dir/acrobatic
 | 2nd | +2 | +1 | +1 | +1 | +1 | Defensive power |
 | 3rd | +3 | +2 | +1 | +2 | +1 | Uncanny dodge |
 | 4th | +4 | +2 | +1 | +2 | +2 | Defensive power |
-| 5th | +5 | +3 | +2 | +3 | +2 | Damage reduction 1_dir/— |
+| 5th | +5 | +3 | +2 | +3 | +2 | Damage reduction 1/— |
 | 6th | +6 | +3 | +2 | +3 | +2 | Defensive power |
-| 7th | +7 | +4 | +2 | +4 | +3 | Damage reduction 3_dir/—, improved uncanny dodge |
+| 7th | +7 | +4 | +2 | +4 | +3 | Damage reduction 3/—, improved uncanny dodge |
 | 8th | +8 | +4 | +3 | +4 | +3 | Defensive power |
 | 9th | +9 | +5 | +3 | +5 | +3 | Mobile defense |
-| 10th | +10 | +5 | +3 | +5 | +4 | Damage reduction 5_dir/—, defensive power, last word |
+| 10th | +10 | +5 | +3 | +5 | +4 | Damage reduction 5/—, defensive power, last word |
 
 # Class Features
 
@@ -52,17 +52,17 @@ The following are class features of the stalwart defender prestige class.
 
 **AC Bonus (Ex)** : A stalwart defender receives a dodge bonus to AC that starts at +1 and improves as the defender gains levels, until it reaches +4 at 10th level.
 
-**Defensive Stance (Ex)** : At 1st level, a stalwart defender can enter a defensive stance, a position of readiness and trancelike determination. A stalwart defender can maintain this stance for a number of rounds per day equal to 4 + his Constitution modifier. At each level after 1st, he can maintain the stance for 2 additional rounds per day. Temporary increases to Constitution, such as those gained from the defensive stance and spells like _ [bear's endurance](../../spells_dir/bearSEndurance#_bear-s-endurance)_, do not increase the total number of rounds that the stalwart defender can maintain a defensive stance per day. The stalwart defender can enter a defensive stance as a free action. The total number of rounds of defensive stance per day is renewed after resting for 8 hours, although these hours do not need to be consecutive.
+**Defensive Stance (Ex)** : At 1st level, a stalwart defender can enter a defensive stance, a position of readiness and trancelike determination. A stalwart defender can maintain this stance for a number of rounds per day equal to 4 + his Constitution modifier. At each level after 1st, he can maintain the stance for 2 additional rounds per day. Temporary increases to Constitution, such as those gained from the defensive stance and spells like _ [bear's endurance](../../spells/bearSEndurance#_bear-s-endurance)_, do not increase the total number of rounds that the stalwart defender can maintain a defensive stance per day. The stalwart defender can enter a defensive stance as a free action. The total number of rounds of defensive stance per day is renewed after resting for 8 hours, although these hours do not need to be consecutive.
 
-While in a defensive stance, the stalwart defender gains a +2 dodge bonus to AC, a +4 morale bonus to his Strength and Constitution, as well as a +2 morale bonus on Will saves. The increase to Constitution grants the stalwart defender 2 hit points per Hit Die, but these hit points disappear when the defensive stance ends and are not lost first like temporary hit points. While in a defensive stance, a stalwart defender cannot willingly move from his current position through any means (including normal movement, riding a mount, teleportation, or willingly allowing allies to carry him). If he enters a defensive stance while on a moving vehicle he does not control (such as a wagon or ship), he can maintain the stance even if the vehicle moves. If the stalwart defender moves under his own power as a result of an enemy's successful use of the [Bluff](../../skills_dir/bluff#_bluff) skill or an enchantment spell, his stance ends.
+While in a defensive stance, the stalwart defender gains a +2 dodge bonus to AC, a +4 morale bonus to his Strength and Constitution, as well as a +2 morale bonus on Will saves. The increase to Constitution grants the stalwart defender 2 hit points per Hit Die, but these hit points disappear when the defensive stance ends and are not lost first like temporary hit points. While in a defensive stance, a stalwart defender cannot willingly move from his current position through any means (including normal movement, riding a mount, teleportation, or willingly allowing allies to carry him). If he enters a defensive stance while on a moving vehicle he does not control (such as a wagon or ship), he can maintain the stance even if the vehicle moves. If the stalwart defender moves under his own power as a result of an enemy's successful use of the [Bluff](../../skills/bluff#_bluff) skill or an enchantment spell, his stance ends.
 
 The stalwart defender can end his defensive stance as a free action; after ending the stance, he is fatigued for a number of rounds equal to 2 times the number of rounds spent in the stance. A stalwart defender cannot enter a new defensive stance while fatigued or exhausted but can otherwise enter a stance multiple times during a single encounter or combat. If a stalwart defender falls unconscious, his defensive stance immediately ends, placing him in peril of death.
 
-A defensive stance requires a level of emotional calm, and it may not be maintained by a character in a rage (such as from the rage class feature or the _ [rage](../../spells_dir/rage#_rage)_ spell).
+A defensive stance requires a level of emotional calm, and it may not be maintained by a character in a rage (such as from the rage class feature or the _ [rage](../../spells/rage#_rage)_ spell).
 
 **Defensive Powers (Ex)** : As a stalwart defender gains levels, he augments his defensive stance. Starting at 2nd level, the stalwart defender gains a defensive power. He gains another defensive power for every two levels of stalwart defender attained after 2nd level. The stalwart defender gains the benefits of defensive powers only while in a defensive stance, and some of these powers require him to take an action first. Unless otherwise noted, he cannot select an individual power more than once.
 
-_Bulwark (Ex)_: The defender adds his armor check penalty as a bonus to the DC of opponents attempting to [Bluff](../../skills_dir/bluff#_bluff) him and [Acrobatics](../../skills_dir/acrobatics#_acrobatics) checks to pass by him without provoking an attack of opportunity for moving through spaces he threatens.
+_Bulwark (Ex)_: The defender adds his armor check penalty as a bonus to the DC of opponents attempting to [Bluff](../../skills/bluff#_bluff) him and [Acrobatics](../../skills/acrobatics#_acrobatics) checks to pass by him without provoking an attack of opportunity for moving through spaces he threatens.
 
 _Clear Mind (Ex)_: The stalwart defender may reroll a failed Will save. This power is used as an immediate action after the first save is attempted, but before the results are revealed by the GM. The stalwart defender must take the second result, even if it is worse. This power can only be used once per defensive stance.
 
@@ -72,7 +72,7 @@ _Halting Blow (Ex)_: If a foe's movement in the defender's threatened area provo
 
 _Immobile (Ex)_: While in a defensive stance, the stalwart defender adds his class level to his CMD against any bull rush, overrun, pull, and push combat maneuvers, as well as grapple attempts to move him. The stalwart defender must be at least 4th level to select this power.
 
-_Increased Damage Reduction (Ex)_: The stalwart defender's damage reduction from this class increases by 1_dir/—. This increase is always active while the stalwart defender is in a defensive stance. He can select this power up to two times. Its effects stack. The stalwart defender must be at least 6th level before selecting this defensive power.
+_Increased Damage Reduction (Ex)_: The stalwart defender's damage reduction from this class increases by 1/—. This increase is always active while the stalwart defender is in a defensive stance. He can select this power up to two times. Its effects stack. The stalwart defender must be at least 6th level before selecting this defensive power.
 
 _Intercept (Ex)_: Once a round as an immediate action, when a melee or ranged weapon would successfully strike an adjacent ally, the stalwart defender can choose to have the weapon strike him instead of the intended target. The attack automatically hits the stalwart defender, regardless his AC or any miss chance in effect, and he suffers the normal consequences of the attack.
 
@@ -92,7 +92,7 @@ _Unexpected Strike (Ex)_: The stalwart defender can make an attack of opportunit
 
 If the character gains uncanny dodge from a second class, he automatically gains improved uncanny dodge (see below).
 
-**Damage Reduction (Ex)** : At 5th level, a stalwart defender gains DR 1_dir/—. At 7th level, this DR increases to 3_dir/—, and at 10th level it increases to 5_dir/—. Damage reduction from different sources does not stack; however, a stalwart defender of 5th or higher level that gains DR from armor (but not from any other source) increases his class-based DR by the value of the armor's DR. Thus a 7th-level stalwart defender wearing adamantine full plate (DR 3_dir/—) has DR 6_dir/—.
+**Damage Reduction (Ex)** : At 5th level, a stalwart defender gains DR 1/—. At 7th level, this DR increases to 3/—, and at 10th level it increases to 5/—. Damage reduction from different sources does not stack; however, a stalwart defender of 5th or higher level that gains DR from armor (but not from any other source) increases his class-based DR by the value of the armor's DR. Thus a 7th-level stalwart defender wearing adamantine full plate (DR 3/—) has DR 6/—.
 
 **Improved Uncanny [Dodge](../../feats#_dodge) (Ex)** : At 7th level, a stalwart defender can no longer be flanked. This defense denies rogues the ability to use flank attacks to sneak attack the stalwart defender. The exception to this defense is that a rogue at least four levels higher than the stalwart defender can flank him (and thus sneak attack him).
 

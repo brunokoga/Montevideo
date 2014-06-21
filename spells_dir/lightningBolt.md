@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/lightningBolt
+title: spells/lightningBolt
 ---
  **Lightning Bolt**
 
-**School** evocation [electricity]; **Level** sorcerer_dir/wizard 3
+**School** evocation [electricity]; **Level** sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 

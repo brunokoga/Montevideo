@@ -1,18 +1,18 @@
 ---
 layout: default
-title: spells_dir/mageSPrivateSanctum
+title: spells/mageSPrivateSanctum
 ---
  **Mage's Private Sanctum**
 
-**School** abjuration; **Level** sorcerer_dir/wizard 5
+**School** abjuration; **Level** sorcerer/wizard 5
 
 **Casting Time** 10 minutes
 
 **Components** V, S, M (a sheet of lead, a piece of glass, a wad of cotton, and powdered chrysolite)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
-**Area** 30-ft. cube_dir/level (S)
+**Area** 30-ft. cube/level (S)
 
 **Duration** 24 hours (D)
 

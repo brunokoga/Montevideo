@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/ceratioidi
+title: bestiary3/ceratioidi
 ---
 # Ceratioidi
 
@@ -10,9 +10,9 @@ Ceratioidi CR 3
 
 XP 800
 
-N Medium monstrous humanoid ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+N Medium monstrous humanoid ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
 
-**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +9
+**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](skills/perception#_perception) +9
 
 Defense
 
@@ -41,9 +41,9 @@ Statistics
 
 **Base Atk** +4; **CMB** +7; **CMD** 17
 
-**Feats** [Ability Focus](monsters_dir/monsterFeats#_ability-focus) (lure), [Weapon Focus](feats#_weapon-focus) (shortspear)
+**Feats** [Ability Focus](monsters/monsterFeats#_ability-focus) (lure), [Weapon Focus](feats#_weapon-focus) (shortspear)
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +5, [Intimidate](skills_dir/intimidate#_intimidate) +8, [Perception](skills_dir/perception#_perception) +9, [Sense Motive](skills_dir/senseMotive#_sense-motive) +6, [Stealth](skills_dir/stealth#_stealth) +7, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Bluff](skills/bluff#_bluff) +5, [Intimidate](skills/intimidate#_intimidate) +8, [Perception](skills/perception#_perception) +9, [Sense Motive](skills/senseMotive#_sense-motive) +6, [Stealth](skills/stealth#_stealth) +7, [Swim](skills/swim#_swim) +10
 
 **Languages** Aquan, Common
 
@@ -63,7 +63,7 @@ Special Abilities
 
 **Lure (Su)** As a free action, a ceratioidi can light the dangling lure on its forehead, forcing all non-ceratioidi within a 20-foot radius to make a DC 15 Will save or become fascinated for 1 round. Regardless of the preceding interaction between the ceratioidi and its target, a creature affected by this ability does not view the ceratioidi who has fascinated it as a potential threat until that ceratioidi actually attacks—allowing it to approach without breaking the fascination. Once a creature successfully saves against this effect, it is immune to the same ceratioidi's lure ability for 24 hours. The save DC is Charisma-based.
 
-**Primitive Amphibian (Ex)** Ceratioidi have rudimentary lungs capable of breathing [air](monsters_dir/creatureTypes#_air-subtype) indefinitely, but their skin must be bathed in salt [water](monsters_dir/creatureTypes#_water-subtype) regularly or it begins drying out painfully. They can go for a number of hours equal to twice their Constitution score (30 hours for most ceratioidi) before they need to be bathed in salt [water](monsters_dir/creatureTypes#_water-subtype)—if they don't, they take 1 point of Constitution damage per hour. Any Constitution damage accrued is reversed after they spend at least 10 minutes immersed in salt [water](monsters_dir/creatureTypes#_water-subtype).
+**Primitive Amphibian (Ex)** Ceratioidi have rudimentary lungs capable of breathing [air](monsters/creatureTypes#_air-subtype) indefinitely, but their skin must be bathed in salt [water](monsters/creatureTypes#_water-subtype) regularly or it begins drying out painfully. They can go for a number of hours equal to twice their Constitution score (30 hours for most ceratioidi) before they need to be bathed in salt [water](monsters/creatureTypes#_water-subtype)—if they don't, they take 1 point of Constitution damage per hour. Any Constitution damage accrued is reversed after they spend at least 10 minutes immersed in salt [water](monsters/creatureTypes#_water-subtype).
 
 Rulers of deep ocean trenches, ceratioidi share several unusual traits with the aquatic predators of the ceratiidae family, also known as angler fish. From their strange, spired cities beneath the waves, ceratioidi cast their nets of influence far and wide.
 

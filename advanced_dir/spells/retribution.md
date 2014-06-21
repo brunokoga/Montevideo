@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/retribution
+title: advanced/spells/retribution
 ---
  **Retribution**
 
@@ -10,11 +10,11 @@ title: advanced_dir/spells_dir/retribution
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature who has just struck you with an attack
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 

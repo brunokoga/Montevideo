@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/animalMessenger
+title: spells/animalMessenger
 ---
  **Animal Messenger**
 
@@ -10,11 +10,11 @@ title: spells_dir/animalMessenger
 
 **Components** V, S, M (a morsel of food the animal likes)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one Tiny animal
 
-**Duration** 1 day_dir/level
+**Duration** 1 day/level
 
 **Saving Throw** none; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/savingFinale
+title: advanced/spells/savingFinale
 ---
  **Saving Finale**
 
@@ -10,7 +10,7 @@ title: advanced_dir/spells_dir/savingFinale
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one living creature
 

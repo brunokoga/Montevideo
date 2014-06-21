@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/targetedBombAdmixture
+title: ultimateCombat/spells/targetedBombAdmixture
 ---
 Targeted Bomb Admixture
 
@@ -14,7 +14,7 @@ Targeted Bomb Admixture
 
 **Target** you
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 Upon drinking an extract created with this formula, you make a significant change to your magical reserve that modifies the nature of all bombs you create and throw during this extract's duration. This effect on your magical reserve has no effect on any discoveries that you use to modify your bombs, but you can only have one admixture effect (formula with the word “bomb admixture” in its title) active at a time. If you drink another bomb admixture, the effects of the former bomb admixture end and the new one becomes active.
 

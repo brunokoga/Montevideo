@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/kingSCastle
+title: advanced/spells/kingSCastle
 ---
  **King's Castle**
 
@@ -10,7 +10,7 @@ title: advanced_dir/spells_dir/kingSCastle
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature
 

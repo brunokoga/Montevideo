@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/dispellingWords
+title: ultimateMagic/wordsOfPower/effectwords/dispellingWords
 ---
 ## Dispelling Words
 
@@ -8,9 +8,9 @@ Dispelling words have the power to unmake magic or suppress its effects.
 
 Suppress (Dispelling)
 
-**School** abjuration; **Level** bard 2, cleric 2, druid 2, inquisitor 2, magus 2, paladin 2, sorcerer_dir/wizard 2, summoner 2, witch 2
+**School** abjuration; **Level** bard 2, cleric 2, druid 2, inquisitor 2, magus 2, paladin 2, sorcerer/wizard 2, summoner 2, witch 2
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -22,9 +22,9 @@ The caster of a wordspell with this effect word selects one spell effect that af
 
 Resist Arcana (Dispelling)
 
-**School** abjuration; **Level** alchemist 5, cleric 5, inquisitor 5, sorcerer_dir/wizard 6, summoner 6
+**School** abjuration; **Level** alchemist 5, cleric 5, inquisitor 5, sorcerer/wizard 6, summoner 6
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -34,7 +34,7 @@ The target of a wordspell with this effect word gains spell resistance equal to 
 
 Unmake (Dispelling)
 
-**School** abjuration; **Level** bard 5, cleric 5, druid 5, inquisitor 6, magus 6, sorcerer_dir/wizard 5, summoner 6, witch 5
+**School** abjuration; **Level** bard 5, cleric 5, druid 5, inquisitor 6, magus 6, sorcerer/wizard 5, summoner 6, witch 5
 
 **Duration** instantaneous
 
@@ -46,9 +46,9 @@ The caster of a wordspell with this effect word unravels all of the magic effect
 
 Negation (Dispelling)
 
-**School** abjuration; **Level** cleric 8, sorcerer_dir/wizard 6
+**School** abjuration; **Level** cleric 8, sorcerer/wizard 6
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** none; **Spell Resistance** no
 

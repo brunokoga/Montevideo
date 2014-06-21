@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/absorbingTouch
+title: advanced/spells/absorbingTouch
 ---
  **Absorbing Touch**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/absorbingTouch
 
 **Target** object touched
 
-**Duration** 1 day_dir/level (D)
+**Duration** 1 day/level (D)
 
 **Saving Throw** Fortitude negates (object); **Spell Resistance** no
 

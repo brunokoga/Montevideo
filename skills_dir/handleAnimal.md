@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills_dir/handleAnimal
+title: skills/handleAnimal
 ---
 # Handle Animal
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/alterSelf
+title: spells/alterSelf
 ---
  **Alter Self**
 
-**School** transmutation (polymorph); **Level** bard 2, sorcerer_dir/wizard 2
+**School** transmutation (polymorph); **Level** bard 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/alterSelf
 
 **Target** you
 
-**Duration** 1 min._dir/level (D)
+**Duration** 1 min./level (D)
 
 When you cast this spell, you can assume the form of any Small or Medium creature of the humanoid type. If the form you assume has any of the following abilities, you gain the listed ability: [darkvision](../glossary#_darkvision) 60 feet, [low-light vision](../glossary#_low-light-vision), [scent](../glossary#_scent), and swim 30 feet.
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/kiArrow
+title: ultimateMagic/spells/kiArrow
 ---
 Ki Arrow
 
-**School** conjuration; **Level** bard 1, sorcerer_dir/wizard 1, witch 1
+**School** conjuration; **Level** bard 1, sorcerer/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 

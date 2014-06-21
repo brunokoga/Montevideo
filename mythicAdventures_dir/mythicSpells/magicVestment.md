@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures_dir/mythicSpells_dir/magicVestment
+title: mythicAdventures/mythicSpells/magicVestment
 ---
 Magic Vestment
 
-**Source** [_magic vestment_](spells_dir/magicVestment#_magic-vestment)
+**Source** [_magic vestment_](spells/magicVestment#_magic-vestment)
 
 You can add one armor special ability to the target if it's armor or one shield special ability if it's a shield. The special ability must have a base price modifier no greater than a +1 enhancement bonus or 4,000 gp.
 

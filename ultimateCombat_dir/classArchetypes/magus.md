@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/classArchetypes_dir/magus
+title: ultimateCombat/classArchetypes/magus
 ---
 # Magus
 
@@ -12,7 +12,7 @@ As he gains levels, a magus masters arcane secrets that supplement his magical a
 
 _Accurate Strike (Ex)_: The magus can expend 2 points from his arcane pool as a swift action to resolve all of his melee weapon attacks until the end of his turn as melee touch attacks. The magus must be at least 9th level before selecting this arcana.
 
-_Arcane Cloak (Su)_: The magus can expend 1 point from his arcane pool to add his Intelligence bonus to [Stealth](skills_dir/stealth#_stealth) checks and [Bluff](skills_dir/bluff#_bluff) checks to create a diversion in order to hide. This bonus lasts for 1 minute.
+_Arcane Cloak (Su)_: The magus can expend 1 point from his arcane pool to add his Intelligence bonus to [Stealth](skills/stealth#_stealth) checks and [Bluff](skills/bluff#_bluff) checks to create a diversion in order to hide. This bonus lasts for 1 minute.
 
 _Arcane Edge (Su)_: The magus can expend 1 point from his arcane pool as an immediate action after hitting a target with a slashing or piercing weapon in order to deal an amount of bleed damage equal to his Intelligence modifier (minimum 0). The magus must be at least 9th level before he selects this arcana.
 
@@ -20,15 +20,15 @@ _Arcane Redoubt (Su)_: As a swift action, the magus can expend 1 point from his 
 
 _Arcane Redoubt, Greater (Su)_: Whenever the magus uses his arcane redoubt magus arcana, he may spend an additional point from his arcane pool in order to apply his shield bonus to AC (including any enhancement bonus) as a bonus on Reflex saves until the beginning of his next turn. If he is targeted with an effect requiring a Reflex save while using this power, he may spend 2 points from his arcane pool as an immediate action to grant himself evasion, or 4 points to grant himself improved evasion. The magus must have the arcane redoubt magus arcana and be at least 12th level to select this magus arcana.
 
-_Bane Blade (Su)_: Whenever the magus enhances his weapon using his arcane pool, he may spend 1 additional point from his arcane pool to add the _ [bane](magicItems_dir/weapons#_weapons-bane)_ special ability to the weapon. The magus must be at least 15th level before selecting this arcana.
+_Bane Blade (Su)_: Whenever the magus enhances his weapon using his arcane pool, he may spend 1 additional point from his arcane pool to add the _ [bane](magicItems/weapons#_weapons-bane)_ special ability to the weapon. The magus must be at least 15th level before selecting this arcana.
 
-_Devoted Blade (Su)_: Whenever the magus enhances his weapon using his arcane pool, he may spend 1 additional point from his arcane pool to add either the _ [anarchic](magicItems_dir/weapons#_weapons-anarchic)_, _ [axiomatic](magicItems_dir/weapons#_weapons-axiomatic)_, _ [holy](magicItems_dir/weapons#_weapons-holy)_, or _ [unholy](magicItems_dir/weapons#_unholy)_ special ability to the list of available options. A magus may only add one of these abilities if it matches his own alignment. The magus must be at least 12th level before selecting this arcana.
+_Devoted Blade (Su)_: Whenever the magus enhances his weapon using his arcane pool, he may spend 1 additional point from his arcane pool to add either the _ [anarchic](magicItems/weapons#_weapons-anarchic)_, _ [axiomatic](magicItems/weapons#_weapons-axiomatic)_, _ [holy](magicItems/weapons#_weapons-holy)_, or _ [unholy](magicItems/weapons#_unholy)_ special ability to the list of available options. A magus may only add one of these abilities if it matches his own alignment. The magus must be at least 12th level before selecting this arcana.
 
 _Disruptive (Ex)_: The magus gains [Disruptive](feats#_disruptive) as a bonus feat. The magus must be at least 6th level before selecting this arcana.
 
 _Enduring Blade (Su)_: Whenever the magus enchants his weapon using his arcane pool, he may spend 1 additional point from his arcane pool to increase the duration to 1 minute per magus level. The magus must be at least 6th level before selecting this arcana.
 
-_Ghost Blade (Su)_: Whenever the magus enchants his weapon using his arcane pool, he may spend 1 additional point from his arcane pool to add the _ [brilliant energy](magicItems_dir/weapons#_weapons-brilliant-energy)_ and _ [ghost touch](magicItems_dir/weapons#_weapons-ghost-touch)_ special abilities to the list of available options. The magus must be at least 9th level before selecting this arcana.
+_Ghost Blade (Su)_: Whenever the magus enchants his weapon using his arcane pool, he may spend 1 additional point from his arcane pool to add the _ [brilliant energy](magicItems/weapons#_weapons-brilliant-energy)_ and _ [ghost touch](magicItems/weapons#_weapons-ghost-touch)_ special abilities to the list of available options. The magus must be at least 9th level before selecting this arcana.
 
 _Lingering Pain (Su)_: The magus can expend 1 point from his arcane pool as an immediate action after hitting a target with a weapon attack. All damage from that attack (including damage from a spell cast using the spellstrike ability) is considered continuous damage for the purposes of any concentration checks made by the target prior to the beginning of the magus's next turn.
 
@@ -36,7 +36,7 @@ _Pool Strike, Arcing (Su)_: The magus can expend 1 additional point from his arc
 
 _Pool Strike, Clinging (Su)_: The magus can expend 1 additional point from his arcane pool when making a pool strike. A single target of his pool strike takes energy damage as normal from the pool strike and also takes half this amount of damage at the beginning of its turn on the following round. The magus must be at least 9th level and must have the pool strike magus arcana before selecting this magus arcana.
 
-_Pool Strike, Thunderous (Su)_: The magus can expend 1 additional point from his arcane pool when making a pool strike. His pool strike deals sonic damage and deafens a single target for 1 round (DC 10 + 1_dir/2 magus level + Intelligence modifier). The magus must be at least 6th level and must have the pool strike magus arcana before selecting this magus arcana.
+_Pool Strike, Thunderous (Su)_: The magus can expend 1 additional point from his arcane pool when making a pool strike. His pool strike deals sonic damage and deafens a single target for 1 round (DC 10 + 1/2 magus level + Intelligence modifier). The magus must be at least 6th level and must have the pool strike magus arcana before selecting this magus arcana.
 
 _Prescient Attack (Su)_: The magus can expend 1 point from his arcane pool as an immediate action after hitting a target with a weapon attack, allowing him to anticipate his opponent's defenses. The target is denied its Dexterity bonus against the magus's attacks until the end of the magus's next turn. The magus must be at least 6th level before selecting this arcana.
 
@@ -97,7 +97,7 @@ spell recall.
 
 **Armor Training (Ex)** : At 8th level, a myrmidarch gains armor training, as the fighter ability. At 14th level, he gains armor training 2. This ability replaces improved spell combat and greater spell combat.
 
-**Armor Mastery (Ex)** : At 20th level, a myrmidarch gains DR 5_dir/– when wearing armor. This ability replaces true magus.
+**Armor Mastery (Ex)** : At 20th level, a myrmidarch gains DR 5/– when wearing armor. This ability replaces true magus.
 
 **Magus Arcana** : The following magus arcana complement the myrmidarch archetype: accurate strike, arcane edge, lingering pain, prescient attack, prescient defense, spell shield, spellbreaker.
 
@@ -109,7 +109,7 @@ Sometimes called a shield-vassal or shieldmaiden, the skirnir has learned to inf
 
 **Arcane Bond (Su)** : At 1st level, a skirnir gains a shield (except for a tower shield) as an arcane bond item. This is identical to the wizard class ability, but the skirnir may only bond with a shield, not a familiar or other item.
 
-**Arcane Pool** : At 1st level, a skirnir can use his arcane pool to grant an enhancement bonus to a weapon as normal, as well as to his shield, paying the arcane pool cost separately for each. At 5th level and above, he can also add the following shield special abilities: _ [animated](magicItems_dir/armor#_armor-animated)_, _ [arrow catching](magicItems_dir/armor#_armor-arrow-catching)_, _ [arrow deflection](magicItems_dir/armor#_armor-arrow-deflection)_, _ [bashing](magicItems_dir/armor#_armor-bashing)_, _ [blinding](magicItems_dir/armor#_armor-blinding)_, _ [fortification](magicItems_dir/armor#_armor-fortification)_ (any), _ [reflecting](magicItems_dir/armor#_armor-reflecting)_, _ [spell resistance](magicItems_dir/armor#_armor-spell-resistance)_ (any).
+**Arcane Pool** : At 1st level, a skirnir can use his arcane pool to grant an enhancement bonus to a weapon as normal, as well as to his shield, paying the arcane pool cost separately for each. At 5th level and above, he can also add the following shield special abilities: _ [animated](magicItems/armor#_armor-animated)_, _ [arrow catching](magicItems/armor#_armor-arrow-catching)_, _ [arrow deflection](magicItems/armor#_armor-arrow-deflection)_, _ [bashing](magicItems/armor#_armor-bashing)_, _ [blinding](magicItems/armor#_armor-blinding)_, _ [fortification](magicItems/armor#_armor-fortification)_ (any), _ [reflecting](magicItems/armor#_armor-reflecting)_, _ [spell resistance](magicItems/armor#_armor-spell-resistance)_ (any).
 
 **Sorcerous Shield (Ex)** : At 1st level, skirnirs are proficient with all types of shields, including tower shields, and do not suffer an arcane spell failure chance when casting magus spells while using a shield. They treat their magus levels as their fighter levels for the purpose of qualifying for shield-related feats. This ability replaces spell combat.
 
@@ -117,7 +117,7 @@ Sometimes called a shield-vassal or shieldmaiden, the skirnir has learned to inf
 
 **Shield Pool (Ex)** : At 4th level, as a free action, a skirnir may spend 1 point from his arcane pool to add his shield bonus to AC (not including enhancement bonuses) on a concentration check to cast defensively. He may also use a touch attack or shield bash with his shield in conjunction with any pool strike magus arcana. This ability replaces spell recall.
 
-**Spellshield (Su)** : At 7th level, as a standard action, a skirnir may store a magus spell in his shield by spending 1 point from his arcane pool per level of the spell. This functions as the _ [spell storing](magicItems_dir/weapons#_spell-storing)_ weapon special ability, but activates only on a successful shield bash by the skirnir and is not limited to spells of 3rd level or less. This ability replaces knowledge pool.
+**Spellshield (Su)** : At 7th level, as a standard action, a skirnir may store a magus spell in his shield by spending 1 point from his arcane pool per level of the spell. This functions as the _ [spell storing](magicItems/weapons#_spell-storing)_ weapon special ability, but activates only on a successful shield bash by the skirnir and is not limited to spells of 3rd level or less. This ability replaces knowledge pool.
 
 **Shielded Spell Combat (Su)** : At 8th level, a skirnir gains the spell combat ability, but only when wielding his bonded shield. A skirnir may use his shield hand to perform somatic components for magus spells, forfeiting the shield's bonus to AC until the beginning of his next turn; if the bonded shield is a buckler, he retains its bonus to AC. At 14th level, he gains the benefits of improved spell combat.
 
@@ -139,13 +139,13 @@ The soul forger has learned the skill of infusing the raw magical essence of his
 
 **Spellstrike (Su)** : A soul forger may use this ability only when wielding his bonded weapon.
 
-**Master Smith (Ex)** : A soul forger adds his magus class level on [Craft](skills_dir/craft#_craft) checks to manufacture armor, shields, and weapons. This bonus applies on skill checks required when using [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor).
+**Master Smith (Ex)** : A soul forger adds his magus class level on [Craft](skills/craft#_craft) checks to manufacture armor, shields, and weapons. This bonus applies on skill checks required when using [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor).
 
-At 7th level, a soul forger uses the 1_dir/10 gp value of armor, shields, and weapons to determine how much time it takes to craft mundane items, and he requires only half the normal amount of time to enchant magical arms and armor. This ability replaces knowledge pool.
+At 7th level, a soul forger uses the 1/10 gp value of armor, shields, and weapons to determine how much time it takes to craft mundane items, and he requires only half the normal amount of time to enchant magical arms and armor. This ability replaces knowledge pool.
 
 **Fortify Bond (Su)** : At 4th level, a soul forger may spend 1 point from his arcane pool to increase the hardness and hit points of his bonded item by an amount equal to his magus level. These hit points last until expended or until the soul forger next prepares spells. Multiple uses of this ability overlap and do not stack. This ability replaces spell recall.
 
-**Reforge (Su)** : At 11th level, as a standard action, a soul forger can restore a number of hit points equal to his magus level to a damaged object by touching it and spending 1 point from his arcane pool. Repairing a destroyed object takes 1 minute and materials equal to 1_dir/4 the item's sale value, and restores the object to 1 hit point.
+**Reforge (Su)** : At 11th level, as a standard action, a soul forger can restore a number of hit points equal to his magus level to a damaged object by touching it and spending 1 point from his arcane pool. Repairing a destroyed object takes 1 minute and materials equal to 1/4 the item's sale value, and restores the object to 1 hit point.
 
 Restoring the enchantments of a destroyed magical item requires additional points from the soul forger's arcane pool equal to the item's caster level. The soul forger gains one temporary negative level if the item's caster level is lower than his own, two negative levels if equal or greater (or none if the item is his bonded weapon); the save DC to remove these negative levels is equal to 10 + the item's caster level. This ability replaces improved spell recall.
 

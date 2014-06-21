@@ -1,18 +1,18 @@
 ---
 layout: default
-title: spells_dir/obscureObject
+title: spells/obscureObject
 ---
  **Obscure Object**
 
-**School** abjuration; **Level** bard 1, cleric 3, sorcerer_dir/wizard 2
+**School** abjuration; **Level** bard 1, cleric 3, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M_dir/DF (chameleon skin)
+**Components** V, S, M/DF (chameleon skin)
 
 **Range** touch
 
-**Target** one object touched of up to 100 lbs._dir/level
+**Target** one object touched of up to 100 lbs./level
 
 **Duration** 8 hours (D)
 

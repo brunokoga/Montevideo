@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/raiseDead
+title: spells/raiseDead
 ---
  **Raise Dead**
 

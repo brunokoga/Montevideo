@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/goodberry
+title: spells/goodberry
 ---
  **Goodberry**
 
@@ -14,7 +14,7 @@ title: spells_dir/goodberry
 
 **Targets** 2d4 fresh berries touched
 
-**Duration** 1 day_dir/level
+**Duration** 1 day/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

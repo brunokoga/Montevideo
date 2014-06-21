@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/litanyOfEscape
+title: ultimateCombat/spells/litanyOfEscape
 ---
 Litany of Escape
 
@@ -10,7 +10,7 @@ Litany of Escape
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one willing creature that is grappled
 

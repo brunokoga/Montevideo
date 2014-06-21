@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/ettin
+title: monsters/ettin
 ---
 # Ettin
 
@@ -12,7 +12,7 @@ _This lumbering, filthy, two-headed giant wears tattered remnants of leather arm
 
 CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
 
-**Init** +3; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +12
+**Init** +3; **Senses** low-light vision; [Perception](../skills/perception#_perception) +12
 
 **Defense**
 
@@ -26,7 +26,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Speed** 40 ft.
 
-**Melee** 2 flails +12_dir/+7 (2d6+6)
+**Melee** 2 flails +12/+7 (2d6+6)
 
 **Ranged** 2 javelins +5 (1d8+6)
 
@@ -42,7 +42,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Feats** [Cleave](../feats#_cleave), [Improved Initiative](../feats#_improved-initiative), [Improved Overrun](../feats#_improved-overrun), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack)
 
-**Skills** [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +8, [Perception](../skills_dir/perception#_perception) +12; **Racial Modifiers** +4 on [Perception](../skills_dir/perception#_perception)
+**Skills** [Handle Animal](../skills/handleAnimal#_handle-animal) +8, [Perception](../skills/perception#_perception) +12; **Racial Modifiers** +4 on [Perception](../skills/perception#_perception)
 
 **Languages** pidgin of Giant, Goblin, and Orc
 

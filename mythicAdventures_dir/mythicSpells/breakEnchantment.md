@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures_dir/mythicSpells_dir/breakEnchantment
+title: mythicAdventures/mythicSpells/breakEnchantment
 ---
 Break Enchantment
 
-**Source** [_break enchantment_](spells_dir/breakEnchantment#_break-enchantment)
+**Source** [_break enchantment_](spells/breakEnchantment#_break-enchantment)
 
 Against non-mythic effects, the spell automatically succeeds without requiring a caster level check. Against mythic effects, add your tier to your caster level check. The maximum level of spell this spell can remove is 5 + half your tier.
 

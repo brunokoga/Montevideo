@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/kineticReverberation
+title: ultimateCombat/spells/kineticReverberation
 ---
 Kinetic Reverberation
 
-**School** transmutation; **Level** alchemist 2, sorcerer_dir/wizard 2
+**School** transmutation; **Level** alchemist 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Kinetic Reverberation
 
 **Target** creature touched
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Fortitude negates (object); **Spell Resistance** yes (object)
 

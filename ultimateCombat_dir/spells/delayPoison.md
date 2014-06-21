@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/delayPoison
+title: ultimateCombat/spells/delayPoison
 ---
 Delay Poison, Communal
 
@@ -8,5 +8,5 @@ Delay Poison, Communal
 
 **Target** creatures touched
 
-This spell functions like _ [delay poison](spells_dir/delayPoison#_delay-poison)_, except you divide the duration in 1-hour intervals among the creatures touched.
+This spell functions like _ [delay poison](spells/delayPoison#_delay-poison)_, except you divide the duration in 1-hour intervals among the creatures touched.
 

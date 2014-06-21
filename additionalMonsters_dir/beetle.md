@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters_dir/beetle
+title: additionalMonsters/beetle
 ---
 # Beetle, Goliath Stag
 
@@ -10,9 +10,9 @@ Goliath Stag BeetleCR 8
 
 **XP 4,800**
 
-N Huge [vermin](monsters_dir/creatureTypes#_vermin)
+N Huge [vermin](monsters/creatureTypes#_vermin)
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +0
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +0
 
 Defense
 
@@ -40,7 +40,7 @@ Statistics
 
 **Base Atk** +8; **CMB** +21; **CMD** 31 (39 vs. trip)
 
-**Skills** [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) –8
+**Skills** [Fly](additionalMonsters/../skills/fly#_fly) –8
 
 Ecology
 
@@ -62,9 +62,9 @@ Slicer BeetleCR 4
 
 **XP 1,200**
 
-N Large [vermin](monsters_dir/creatureTypes#_vermin)
+N Large [vermin](monsters/creatureTypes#_vermin)
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +0
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +0
 
 Defense
 
@@ -80,7 +80,7 @@ Offense
 
 **Speed** 40 ft., fly 20 ft. (poor)
 
-**Melee** bite +8 (2d6+7_dir/19–20)
+**Melee** bite +8 (2d6+7/19–20)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -92,9 +92,9 @@ Statistics
 
 **Base Atk** +4; **CMB** +10; **CMD** 20 (28 vs. trip)
 
-**Skills** [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) –6
+**Skills** [Fly](additionalMonsters/../skills/fly#_fly) –6
 
-**SQ** [compression](monsters_dir/universalMonsterRules#_compression)
+**SQ** [compression](monsters/universalMonsterRules#_compression)
 
 Ecology
 
@@ -106,7 +106,7 @@ Ecology
 
 Special Abilities
 
-**Crippling Bite (Ex)** A slicer beetle's bite attack threatens a critical hit on a roll of 19–20. If a slicer beetle scores a critical hit on a target, its mandibles cut deep, resulting in a wound that causes 1d6 [bleed](monsters_dir/universalMonsterRules#_bleed) and leaving its foe staggered for 1d3 rounds from the tremendous pain dealt.
+**Crippling Bite (Ex)** A slicer beetle's bite attack threatens a critical hit on a roll of 19–20. If a slicer beetle scores a critical hit on a target, its mandibles cut deep, resulting in a wound that causes 1d6 [bleed](monsters/universalMonsterRules#_bleed) and leaving its foe staggered for 1d3 rounds from the tremendous pain dealt.
 
 The slicer beetle sports specialized mouthparts that scissor apart flesh for easier consumption. Each side of its horizontally closing mandibles fits into the other with barely a hair's breadth to spare. These creatures prefer to dwell in compact caves or warrens. A typical slicer beetle measures 10 feet long and weighs 800 pounds.
 

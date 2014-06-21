@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/stormOfVengeance
+title: spells/stormOfVengeance
 ---
  **Storm of Vengeance**
 
@@ -10,7 +10,7 @@ title: spells_dir/stormOfVengeance
 
 **Components** V, S
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Effect** 360-ft.-radius storm cloud
 

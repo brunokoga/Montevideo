@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/bestowGrace
+title: advanced/spells/bestowGrace
 ---
  **Bestow Grace**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/bestowGrace
 
 **Target** one good creature touched
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will (harmless); **Spell Resistance** yes (harmless)
 

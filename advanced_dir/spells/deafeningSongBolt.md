@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/deafeningSongBolt
+title: advanced/spells/deafeningSongBolt
 ---
  **Deafening Song Bolt**
 
@@ -10,7 +10,7 @@ title: advanced_dir/spells_dir/deafeningSongBolt
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** up to 3 creatures, no two of which can be more than 30 ft. apart
 

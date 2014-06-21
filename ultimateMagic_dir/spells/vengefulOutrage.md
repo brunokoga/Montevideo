@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/vengefulOutrage
+title: ultimateMagic/spells/vengefulOutrage
 ---
 Vengeful Outrage
 
-**School** enchantment (compulsion) [emotion, language-dependent, mind-affecting]; **Level** bard 5, sorcerer_dir/wizard 6, witch 6
+**School** enchantment (compulsion) [emotion, language-dependent, mind-affecting]; **Level** bard 5, sorcerer/wizard 6, witch 6
 
 **Casting Time** 1 round
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

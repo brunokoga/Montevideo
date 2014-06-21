@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/shambler
+title: spells/shambler
 ---
  **Shambler**
 
@@ -10,7 +10,7 @@ title: spells_dir/shambler
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Effect** three or more shambling mounds, no two of which can be more than 30 ft. apart; see text
 

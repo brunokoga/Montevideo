@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/secretPage
+title: spells/secretPage
 ---
  **Secret Page**
 
-**School** transmutation; **Level** bard 3, sorcerer_dir/wizard 3
+**School** transmutation; **Level** bard 3, sorcerer/wizard 3
 
 **Casting Time** 10 minutes
 

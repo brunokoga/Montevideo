@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/wrathfulMantle
+title: advanced/spells/wrathfulMantle
 ---
  **Wrathful Mantle**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/wrathfulMantle
 
 **Target** creature touched or all creatures within 5 ft.; see text
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

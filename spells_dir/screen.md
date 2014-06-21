@@ -1,18 +1,18 @@
 ---
 layout: default
-title: spells_dir/screen
+title: spells/screen
 ---
  **Screen**
 
-**School** illusion (glamer); **Level** sorcerer_dir/wizard 8
+**School** illusion (glamer); **Level** sorcerer/wizard 8
 
 **Casting Time** 10 minutes
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
-**Area** 30-ft. cube_dir/level (S)
+**Area** 30-ft. cube/level (S)
 
 **Duration** 24 hours
 

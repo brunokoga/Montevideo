@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/holyShield
+title: ultimateMagic/spells/holyShield
 ---
 Holy Shield
 
@@ -14,7 +14,7 @@ Holy Shield
 
 **Target** you
 
-**Duration** 10 minutes_dir/level
+**Duration** 10 minutes/level
 
 **Saving Throw** none; **Spell Resistance** no
 

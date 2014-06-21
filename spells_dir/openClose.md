@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/openClose
+title: spells/openClose
 ---
- **Open_dir/Close**
+ **Open/Close**
 
-**School** transmutation; **Level** bard 0, sorcerer_dir/wizard 0
+**School** transmutation; **Level** bard 0, sorcerer/wizard 0
 
 **Casting Time** 1 standard action
 
 **Components** V, S, F (a brass key)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** object weighing up to 30 lbs. or portal that can be opened or closed
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/curseOfMagicNegation
+title: ultimateMagic/spells/curseOfMagicNegation
 ---
 Curse of Magic Negation
 
-**School** abjuration [curse]; **Level** cleric 5, inquisitor 4, sorcerer_dir/wizard 4, witch 4
+**School** abjuration [curse]; **Level** cleric 5, inquisitor 4, sorcerer/wizard 4, witch 4
 
 **Casting Time** 1 round
 
 **Components** V, S, M (powdered lead and platinum worth 250 gp)
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Target** one creature
 
-**Duration** 10 minute_dir/level
+**Duration** 10 minute/level
 
 **Saving Throw** Will negates; **Spell Resistance** no
 

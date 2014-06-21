@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/detectAberration
+title: advanced/spells/detectAberration
 ---
  **Detect Aberration**
 
@@ -10,13 +10,13 @@ title: advanced_dir/spells_dir/detectAberration
 
 **Component** V, S
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Area** cone-shaped emanation
 
-**Duration** concentration, up to 10 minutes_dir/level (D)
+**Duration** concentration, up to 10 minutes/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions like _ [detect animals or plants](../../spells_dir/detectAnimalsOrPlants#_detect-animals-or-plants),_ except it detects creatures of the aberration type.
+This spell functions like _ [detect animals or plants](../../spells/detectAnimalsOrPlants#_detect-animals-or-plants),_ except it detects creatures of the aberration type.
 

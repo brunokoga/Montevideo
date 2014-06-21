@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/lullaby
+title: spells/lullaby
 ---
  **Lullaby**
 
@@ -10,11 +10,11 @@ title: spells_dir/lullaby
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Area** living creatures within a 10-ft.-radius burst
 
-**Duration** concentration + 1 round_dir/level (D)
+**Duration** concentration + 1 round/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

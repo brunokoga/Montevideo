@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/jesterSJaunt
+title: advanced/spells/jesterSJaunt
 ---
  **Jester's Jaunt**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advancedRaceGuide_dir/featuredRaces_dir/goblins
+title: advancedRaceGuide/featuredRaces/goblins
 ---
 # Goblins
 
@@ -32,13 +32,13 @@ Goblin babies are almost completely self-sufficient not long after birth, and su
 
 **Goblinoid** : Goblins are humanoids with the goblinoid subtype.
 
-**Small** : Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](skills_dir/stealth#_stealth) checks.
+**Small** : Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](skills/stealth#_stealth) checks.
 
 **Fast** : Goblins are fast for their size, and have a base speed of 30 feet.
 
 **Darkvision** : Goblins can see in the dark up to 60 feet.
 
-**Skilled** : +4 racial bonus on [Ride](skills_dir/ride#_ride) and [Stealth](skills_dir/stealth#_stealth) checks.
+**Skilled** : +4 racial bonus on [Ride](skills/ride#_ride) and [Stealth](skills/stealth#_stealth) checks.
 
 **Languages** : Goblins begin play speaking Goblin. Goblins with high Intelligence scores can choose from the following: Common, Draconic, Dwarven, Gnoll, Gnome, Halfling, and Orc.
 
@@ -46,17 +46,17 @@ Goblin babies are almost completely self-sufficient not long after birth, and su
 
 The following racial traits may be selected instead of existing goblin racial traits. Consult your GM before selecting any of these new options.
 
-**Cave Crawler** : Some goblins are born and raised in caves and rarely see the light of day. Goblins with this trait gain a climb speed of 10 feet and the +8 racial bonus on [Climb](skills_dir/climb#_climb) checks associated with having a climb speed. Goblins with this racial trait have a base speed of 20 feet and lose the fast movement racial trait.
+**Cave Crawler** : Some goblins are born and raised in caves and rarely see the light of day. Goblins with this trait gain a climb speed of 10 feet and the +8 racial bonus on [Climb](skills/climb#_climb) checks associated with having a climb speed. Goblins with this racial trait have a base speed of 20 feet and lose the fast movement racial trait.
 
-**City Scavenger** : Goblins who live within the boundaries of human cities survive by scavenging for refuse and hunting stray animals. Goblins with this trait gain a +2 racial bonus on [Perception](skills_dir/perception#_perception) and [Survival](skills_dir/survival#_survival) checks, and can use [Survival](skills_dir/survival#_survival) to forage for food while in a city. This racial trait replaces skilled.
+**City Scavenger** : Goblins who live within the boundaries of human cities survive by scavenging for refuse and hunting stray animals. Goblins with this trait gain a +2 racial bonus on [Perception](skills/perception#_perception) and [Survival](skills/survival#_survival) checks, and can use [Survival](skills/survival#_survival) to forage for food while in a city. This racial trait replaces skilled.
 
-**Eat Anything** : Raised with little or no proper food, many goblins have learned to survive by eating whatever they happen across and can digest nearly anything without getting sick. Goblins with this trait gain a +4 on [Survival](skills_dir/survival#_survival) checks to forage for food and a +4 racial bonus on saves versus effects that cause the nauseated or sickened conditions. This racial trait replaces skilled.
+**Eat Anything** : Raised with little or no proper food, many goblins have learned to survive by eating whatever they happen across and can digest nearly anything without getting sick. Goblins with this trait gain a +4 on [Survival](skills/survival#_survival) checks to forage for food and a +4 racial bonus on saves versus effects that cause the nauseated or sickened conditions. This racial trait replaces skilled.
 
 **Hard Head, Big Teeth** : Goblins are known for their balloonlike heads and enormous maws, but some have even more exaggeratedly large heads filled with razor-sharp teeth. Goblins with this trait gain a bite attack as a primary natural attack that deals 1d4 points of damage. This racial trait replaces skilled.
 
-**Over-Sized Ears** : While goblins' ears are never dainty, these goblins have freakishly large ears capable of picking up even the smallest sounds. Goblins with this racial trait gain a +4 bonus on [Perception](skills_dir/perception#_perception) checks. This racial trait replaces skilled.
+**Over-Sized Ears** : While goblins' ears are never dainty, these goblins have freakishly large ears capable of picking up even the smallest sounds. Goblins with this racial trait gain a +4 bonus on [Perception](skills/perception#_perception) checks. This racial trait replaces skilled.
 
-**Tree Runner** : In trackless rain forests and marshes, it can be difficult to find dry ground to build on. Goblin tribes living in such areas have learned to live in the treetops. These goblins gain a +4 racial bonus on [Acrobatics](skills_dir/acrobatics#_acrobatics) and [Climb](skills_dir/climb#_climb) checks. This racial trait replaces skilled.
+**Tree Runner** : In trackless rain forests and marshes, it can be difficult to find dry ground to build on. Goblin tribes living in such areas have learned to live in the treetops. These goblins gain a +4 racial bonus on [Acrobatics](skills/acrobatics#_acrobatics) and [Climb](skills/climb#_climb) checks. This racial trait replaces skilled.
 
 **Weapon Familiarity** : Goblins' traditional weapons are the dogslicer and the horsechopper, weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the dogslicer and the horsechopper, and treat any weapon with the word "goblin" in it as martial weapons. This racial trait replaces skilled.
 
@@ -66,7 +66,7 @@ The following options are available to any goblins that have the listed favored 
 
 **Alchemist** : The alchemist gains fire resistance 1. Each time this reward is selected, increase fire resistance by +1. This fire resistance does not stack with fire resistance gained from other sources.
 
-**Barbarian** : Add +1_dir/2 on critical hit confirmation rolls for attacks made with unarmed strikes or natural weapons (maximum bonus of +4). This bonus does not stack with [Critical Focus](feats#_critical-focus).
+**Barbarian** : Add +1/2 on critical hit confirmation rolls for attacks made with unarmed strikes or natural weapons (maximum bonus of +4). This bonus does not stack with [Critical Focus](feats#_critical-focus).
 
 **Bard** : Add +1 to the bard's total number of bardic performance rounds per day.
 
@@ -74,17 +74,17 @@ The following options are available to any goblins that have the listed favored 
 
 **Druid** : Add +1 hit points to the druid's animal companion. If the druid ever replaces her animal companion, the new animal companion gains these bonus hit points.
 
-**Gunslinger** : Add +1_dir/3 on critical hit confirmation rolls made with firearms (maximum bonus of +5). This bonus does not stack with [Critical Focus](feats#_critical-focus).
+**Gunslinger** : Add +1/3 on critical hit confirmation rolls made with firearms (maximum bonus of +5). This bonus does not stack with [Critical Focus](feats#_critical-focus).
 
 **Oracle** : Add +1 on concentration checks made when casting spells with the fire descriptor.
 
-**Ranger** : Gain a +1_dir/2 bonus on damage dealt to dogs (and doglike creatures) and horses (and horselike creatures).
+**Ranger** : Gain a +1/2 bonus on damage dealt to dogs (and doglike creatures) and horses (and horselike creatures).
 
 **Rogue** : Add a +1 bonus on the rogue's sneak attack damage rolls during the surprise round or before the target has acted in combat.
 
 **Sorcerer** : Add +1 spell known from the sorcerer spell list. This spell must be at least one level below the highest spell level the sorcerer can cast, and must have the fire descriptor.
 
-**Summoner** : Add +1_dir/4 evolution point to the eidolon's evolution pool. These bonus evolution points must be spent on evolutions that deal fire damage or protect the eidolon from fire (for example, resistance, energy attacks, immunity, breath weapon, and so on).
+**Summoner** : Add +1/4 evolution point to the eidolon's evolution pool. These bonus evolution points must be spent on evolutions that deal fire damage or protect the eidolon from fire (for example, resistance, energy attacks, immunity, breath weapon, and so on).
 
 **Witch** : Add +1 spell from the witch spell list to the witch's familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
 
@@ -126,11 +126,11 @@ Fire bombers are exceptionally good at using bombs to burn creatures and blow th
 
 **Fiery Cocktail (Su)** : At 4th level, whenever a fire bomber uses a discovery that deals damage other than fire damage, he can split the damage dice evenly between the bomb's primary damage type and 1d6 points of fire damage; when there is an odd number of damage dice, the odd die of damage comes from the primary damage type. For example, an 8th-level fire bomber could throw a concussive bomb that deals 2d6 points of fire damage and 3d4 points of sonic damage. Additional effects from the bomb still apply, but the save DC for admixture bombs is reduced by 2. This replaces the alchemist's 4th-level discovery.
 
-**Fire Body (Ex)** : At 8th level, a fire bomber adds _ [elemental body I](spells_dir/elementalBody#_elemental-body-i)_ to his extract list as a 3rd-level extract. _Elemental body_ extracts prepared using fire body are limited to fire elementals only. This ability replaces poison resistance +6.
+**Fire Body (Ex)** : At 8th level, a fire bomber adds _ [elemental body I](spells/elementalBody#_elemental-body-i)_ to his extract list as a 3rd-level extract. _Elemental body_ extracts prepared using fire body are limited to fire elementals only. This ability replaces poison resistance +6.
 
-**Improved Fire Body (Ex)** : At 10th level, fire bombers add _ [elemental body II](spells_dir/elementalBody#_elemental-body-ii)_ to their spell list as a 4th-level extract. _Elemental body_ extracts prepared using improved fire body are limited to fire elementals only. This ability replaces poison immunity.
+**Improved Fire Body (Ex)** : At 10th level, fire bombers add _ [elemental body II](spells/elementalBody#_elemental-body-ii)_ to their spell list as a 4th-level extract. _Elemental body_ extracts prepared using improved fire body are limited to fire elementals only. This ability replaces poison immunity.
 
-**Greater Fire Body (Ex)** : At 14th level, fire bombers add _ [elemental body IV](spells_dir/elementalBody#_elemental-body-iv)_ to their spell list as a 5th-level extract._ Elemental body_ extracts prepared using greater fire body are limited to fire elementals only. This ability replaces persistent mutagen.
+**Greater Fire Body (Ex)** : At 14th level, fire bombers add _ [elemental body IV](spells/elementalBody#_elemental-body-iv)_ to their spell list as a 5th-level extract._ Elemental body_ extracts prepared using greater fire body are limited to fire elementals only. This ability replaces persistent mutagen.
 
 **Discoveries** : The following discoveries complement the fire bomber archetype: fire brand, rocket bomb ; explosive bombs, fast bombs, inferno bomb, precise bombs breath weapon bomb, explosive missile, immolation bomb ; bottled ooze, confusion bomb, strafe bomb .
 
@@ -138,9 +138,9 @@ Fire bombers are exceptionally good at using bombs to burn creatures and blow th
 
 The following discoveries are available to goblin alchemists.
 
-_Fire [Brand](advanced_dir/spells_dir/brand#_brand) (Su)_: An alchemist with this discovery can expend one daily bomb use to apply the bomb reagents to his weapon as a swift action. A weapon treated this way deals fire damage as if it had the _ [flaming](magicItems_dir/weapons#_weapons-flaming)_ weapon special ability. At 10th level, the weapon is treated as if it had the _ [flaming burst](magicItems_dir/weapons#_weapons-flaming-burst)_ weapon special ability. The bomb reagents continue burning for 1 minute or until extinguished by dousing the weapon in water. An alchemist can use this ability with natural weapons, but he takes 1d6 points of fire damage per round for each natural weapon treated.
+_Fire [Brand](advanced/spells/brand#_brand) (Su)_: An alchemist with this discovery can expend one daily bomb use to apply the bomb reagents to his weapon as a swift action. A weapon treated this way deals fire damage as if it had the _ [flaming](magicItems/weapons#_weapons-flaming)_ weapon special ability. At 10th level, the weapon is treated as if it had the _ [flaming burst](magicItems/weapons#_weapons-flaming-burst)_ weapon special ability. The bomb reagents continue burning for 1 minute or until extinguished by dousing the weapon in water. An alchemist can use this ability with natural weapons, but he takes 1d6 points of fire damage per round for each natural weapon treated.
 
-_Rag Doll Mutagen (Su)_: When the alchemist imbibes a mutagen, his body and bones become rubbery and easy to contort. The alchemist gains a bonus equal to his class level on [Escape Artist](skills_dir/escapeArtist#_escape-artist) checks, can squeeze through places as if he were one size category smaller, and can make a Reflex save (DC equal to 15 + 1 for every 10 feet fallen) to take half damage from falling. At 10th level, all falling damage is considered nonlethal damage, and the alchemist can squeeze through places as if he were two size categories smaller than his size while under the effects of this mutagen.
+_Rag Doll Mutagen (Su)_: When the alchemist imbibes a mutagen, his body and bones become rubbery and easy to contort. The alchemist gains a bonus equal to his class level on [Escape Artist](skills/escapeArtist#_escape-artist) checks, can squeeze through places as if he were one size category smaller, and can make a Reflex save (DC equal to 15 + 1 for every 10 feet fallen) to take half damage from falling. At 10th level, all falling damage is considered nonlethal damage, and the alchemist can squeeze through places as if he were two size categories smaller than his size while under the effects of this mutagen.
 
 _Rocket Bomb (Su)_: Alchemists with this discovery can prepare special rockets to deliver their bombs. Rocket bombs travel farther and explode bigger than normal bombs, but cannot target individual creatures. Rocket bombs explode in a 20-foot radius, and all creatures in that area take the alchemist's normal splash damage. The range increment on a rocket bomb is 50 feet. Rocket bombs cannot be used with the precise bomb or fast bomb discoveries. An alchemist must be at least 6th level before selecting this discovery.
 
@@ -167,7 +167,7 @@ The following items are just some of the pieces of equipment used by goblins.
 [Goblin Equipment]
 | Items | Cost | Weight | Craft DC |
 | --- | --- | --- | --- |
-| Bomb launcher | 10 gp | 1_dir/2 lb. | 25 |
+| Bomb launcher | 10 gp | 1/2 lb. | 25 |
 | Mellowroot (vial) | 25 gp | — | 20 |
 | Stillgut (vial) | 50 gp | — | 25 |
 
@@ -179,7 +179,7 @@ Goblins have access to the following feats.
 
 You take the goblin love of arson and fire play to a whole new level.
 
-**Prerequisites** : [Disable Device](skills_dir/disableDevice#_disable-device) 1 rank, goblin.
+**Prerequisites** : [Disable Device](skills/disableDevice#_disable-device) 1 rank, goblin.
 
 **Benefit** : You deal an extra 1d4 points of fire damage when you attack with fire from an alchemical or nonmagical source (such as with alchemical fire or torches) and gain a +4 competence bonus on Reflex saving throws made to avoid catching on fire or to put yourself out when on fire. Additional damage caused by this feat does not apply to magical attacks (such as an alchemist's bomb) or to splash damage.
 
@@ -197,7 +197,7 @@ You know your way around even magical fire.
 
 **Prerequisite** : Goblin.
 
-**Benefit** : You gain a +2 bonus on saves against spells with the fire descriptor. Additionally, your scars mark you as a talented fire tamer, granting you a +2 circumstance bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) and [Intimidate](skills_dir/intimidate#_intimidate) checks when dealing with other goblins.
+**Benefit** : You gain a +2 bonus on saves against spells with the fire descriptor. Additionally, your scars mark you as a talented fire tamer, granting you a +2 circumstance bonus on [Diplomacy](skills/diplomacy#_diplomacy) and [Intimidate](skills/intimidate#_intimidate) checks when dealing with other goblins.
 
 ### Flame Heart
 
@@ -221,9 +221,9 @@ You have learned how to fire the big guns.
 
 Creatures who cross your path find themselves tripping over their own feet.
 
-**Prerequisites** : [Dodge](feats#_dodge), Mobility, [Underfoot](advanced_dir/advancedFeats#_underfoot) , goblin, Small size or smaller.
+**Prerequisites** : [Dodge](feats#_dodge), Mobility, [Underfoot](advanced/advancedFeats#_underfoot) , goblin, Small size or smaller.
 
-**Benefit** : When you successfully make an [Acrobatics](skills_dir/acrobatics#_acrobatics) check to avoid provoking an attack of opportunity from a larger opponent when you move through its threatened area or its space, you can make that opponent lose its balance until the end of its next turn as a free action. While that creature's balance is lost, if it attempts to move, it must make a successful DC 15 [Acrobatics](skills_dir/acrobatics#_acrobatics) check or fall prone, wasting the move action. You can only affect one creature with this effect each round.
+**Benefit** : When you successfully make an [Acrobatics](skills/acrobatics#_acrobatics) check to avoid provoking an attack of opportunity from a larger opponent when you move through its threatened area or its space, you can make that opponent lose its balance until the end of its next turn as a free action. While that creature's balance is lost, if it attempts to move, it must make a successful DC 15 [Acrobatics](skills/acrobatics#_acrobatics) check or fall prone, wasting the move action. You can only affect one creature with this effect each round.
 
 ## Goblin Magic Items
 
@@ -241,7 +241,7 @@ This rough-looking cloak covered in coarse animal hair is greatly prized by gobl
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [alter self](spells_dir/alterSelf#_alter-self)_, _ [resistance](spells_dir/resistance#_resistance)_; **Cost** 1,250 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [alter self](spells/alterSelf#_alter-self)_, _ [resistance](spells/resistance#_resistance)_; **Cost** 1,250 gp
 
 ## Goblin Spells
 
@@ -249,7 +249,7 @@ Goblins have access to the following spells.
 
 Fire Trail
 
-**School** transmutation [fire]; **Level** alchemist 3, magus 3, sorcerer_dir/wizard 3
+**School** transmutation [fire]; **Level** alchemist 3, magus 3, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -259,7 +259,7 @@ Fire Trail
 
 **Effect** trail of flame that follows the caster's movements; see text
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** none; **Spell Resistance** yes
 
@@ -269,13 +269,13 @@ Creatures that start their turn adjacent to the flame trail take 1d6 points of f
 
 Mudball
 
-**School** conjuration [earth]; **Level** druid 1, magus 1, sorcerer_dir/wizard 1, witch 1
+**School** conjuration [earth]; **Level** druid 1, magus 1, sorcerer/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** single fist-sized blob of sticky mud
 
@@ -287,7 +287,7 @@ When you cast this spell, you conjure a single ball of sticky mud and launch it 
 
 Vomit Twin
 
-**School** conjuration (creation, teleportation); **Level** alchemist 3, magus 3, sorcerer_dir/wizard 4, summoner 3
+**School** conjuration (creation, teleportation); **Level** alchemist 3, magus 3, sorcerer/wizard 4, summoner 3
 
 **Casting Time** 1 standard action
 
@@ -297,17 +297,17 @@ Vomit Twin
 
 **Effect** creates one ooze duplicate of the caster
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
-Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square. As long as the twin exists, whenever you take a move action to move, the twin can move as well, although it does not need to follow you and cannot take any other actions. On subsequent rounds, at the start of your turn, you can instantaneously exchange places with your twin, as if using _ [teleport](spells_dir/teleport#_teleport)_. This is not an action and does not provoke an attack of opportunity.
+Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square. As long as the twin exists, whenever you take a move action to move, the twin can move as well, although it does not need to follow you and cannot take any other actions. On subsequent rounds, at the start of your turn, you can instantaneously exchange places with your twin, as if using _ [teleport](spells/teleport#_teleport)_. This is not an action and does not provoke an attack of opportunity.
 
-The twin has a speed of 30 feet and provokes attacks of opportunity from movement as normal. It has an AC equal to 10 + 1_dir/2 your caster level and a number of hit points equal to your caster level. If the twin is reduced to 0 hit points, it is destroyed, although you can create a new one on your turn as a standard action as long as the duration persists. You cannot have more than one vomit twin at a time.
+The twin has a speed of 30 feet and provokes attacks of opportunity from movement as normal. It has an AC equal to 10 + 1/2 your caster level and a number of hit points equal to your caster level. If the twin is reduced to 0 hit points, it is destroyed, although you can create a new one on your turn as a standard action as long as the duration persists. You cannot have more than one vomit twin at a time.
 
 [Goblin Weapons]
 | Martial Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | _Light Melee Weapons_ |
-| Dogslicer | 8 gp | 1d4 | 1d6 | 19–20_dir/×2 | — | 1 lb. | S | fragile\* |
+| Dogslicer | 8 gp | 1d4 | 1d6 | 19–20/×2 | — | 1 lb. | S | fragile\* |
 | _Two-Handed Melee Weapons_ |
 | Horsechopper | 10 gp | 1d8 | 1d10 | ×3 | — | 12 lbs. | P or S | reach, trip |
 

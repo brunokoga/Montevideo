@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/monsterAdvancement
+title: monsters/monsterAdvancement
 ---
 # Monster Advancement
 
@@ -24,75 +24,75 @@ All simple templates have two categories of changes. The “quick rules” prese
 
 Creatures with the advanced template are fiercer and more powerful than their ordinary cousins.
 
-**Quick Rules** : +2 on all rolls (including damage rolls) and special ability DCs; +4 to AC and CMD; +2 hp_dir/HD.
+**Quick Rules** : +2 on all rolls (including damage rolls) and special ability DCs; +4 to AC and CMD; +2 hp/HD.
 
 **Rebuild Rules** : **AC** increase natural armor by +2; **Ability Scores** +4 to all ability scores (except Int scores of 2 or less).
 
 ## Celestial Creature (CR +0 or +1)
 
-Celestial creatures dwell in the higher planes, but can be summoned using spells such as _summon monster_ and _ [planar ally](../spells_dir/planarAlly#_planar-ally)_. A celestial creature's CR increases by +1 only if the base creature has 5 or more HD. A celestial creature's quick and rebuild rules are the same.
+Celestial creatures dwell in the higher planes, but can be summoned using spells such as _summon monster_ and _ [planar ally](../spells/planarAlly#_planar-ally)_. A celestial creature's CR increases by +1 only if the base creature has 5 or more HD. A celestial creature's quick and rebuild rules are the same.
 
-**Rebuild Rules** : **Senses** gains darkvision 60 ft.; **Defensive Abilities** gains DR and energy resistance as noted on the table; **SR** gains SR equal to new CR +5; **Special Attacks** smite evil 1_dir/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against evil foes; smite persists until target is dead or the celestial creature rests).
+**Rebuild Rules** : **Senses** gains darkvision 60 ft.; **Defensive Abilities** gains DR and energy resistance as noted on the table; **SR** gains SR equal to new CR +5; **Special Attacks** smite evil 1/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against evil foes; smite persists until target is dead or the celestial creature rests).
 
 [Celestial Creature Defenses]
 | Hit Dice | Resist Cold, Acid, and Electricity | DR |
 | --- | --- | --- |
 | 1–4 | 5 | — |
-| 5–10 | 10 | 5_dir/evil |
-| 11+ | 15 | 10_dir/evil |
+| 5–10 | 10 | 5/evil |
+| 11+ | 15 | 10/evil |
 
 ## Entropic Creature (CR +0 or +1)
 
-Creatures with the entropic template live in planes where chaos is paramount. They can be summoned using spells such as [_summon monster_](../advanced_dir/baseClasses_dir/summoner#_summon-monster-i) and _ [planar ally](../spells_dir/planarAlly#_planar-ally)_. An entropic creature's CR increases by +1 only if the base creature has 5 or more HD. An entropic creature's quick and rebuild rules are the same.
+Creatures with the entropic template live in planes where chaos is paramount. They can be summoned using spells such as [_summon monster_](../advanced/baseClasses/summoner#_summon-monster-i) and _ [planar ally](../spells/planarAlly#_planar-ally)_. An entropic creature's CR increases by +1 only if the base creature has 5 or more HD. An entropic creature's quick and rebuild rules are the same.
 
-**Rebuild Rules** : **Senses** gains darkvision 60 ft.; **Defensive Abilities** gains DR and energy resistance as noted on the table; **SR** gains SR equal to new CR +5; **Special Attacks** smite law 1_dir/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against lawful foes; smite persists until the target is dead or the entropic creature rests).
+**Rebuild Rules** : **Senses** gains darkvision 60 ft.; **Defensive Abilities** gains DR and energy resistance as noted on the table; **SR** gains SR equal to new CR +5; **Special Attacks** smite law 1/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against lawful foes; smite persists until the target is dead or the entropic creature rests).
 
 [Entropic Creature Defenses]
 | Hit Dice | Resist Acid and Fire | DR |
 | --- | --- | --- |
 | 1–4 | 5 | — |
-| 5–10 | 10 | 5_dir/lawful |
-| 11+ | 15 | 10_dir/lawful |
+| 5–10 | 10 | 5/lawful |
+| 11+ | 15 | 10/lawful |
 
 ## Fiendish Creature (CR +0 or +1)
 
-Creatures with the fiendish template live in the Lower Planes, such as the Abyss and Hell, but can be summoned using spells such as _summon monster_ and _ [planar ally](../spells_dir/planarAlly#_planar-ally)_. A fiendish creature's CR increases by +1 only if the base creature has 5 or more HD. A fiendish creature's quick and rebuild rules are the same.
+Creatures with the fiendish template live in the Lower Planes, such as the Abyss and Hell, but can be summoned using spells such as _summon monster_ and _ [planar ally](../spells/planarAlly#_planar-ally)_. A fiendish creature's CR increases by +1 only if the base creature has 5 or more HD. A fiendish creature's quick and rebuild rules are the same.
 
-**Rebuild Rules** : **Senses** gains darkvision 60 ft.; **Defensive Abilities** gains DR and energy resistance as noted on the table; **SR** gains SR equal to new CR +5; **Special Attacks** smite good 1_dir/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against good foes; smite persists until target is dead or the fiendish creature rests).
+**Rebuild Rules** : **Senses** gains darkvision 60 ft.; **Defensive Abilities** gains DR and energy resistance as noted on the table; **SR** gains SR equal to new CR +5; **Special Attacks** smite good 1/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against good foes; smite persists until target is dead or the fiendish creature rests).
 
 [Fiendish Creature Defenses]
 | Hit Dice | Resist Cold and Fire | DR |
 | --- | --- | --- |
 | 1–4 | 5 | — |
-| 5–10 | 10 | 5_dir/good |
-| 11+ | 15 | 10_dir/good |
+| 5–10 | 10 | 5/good |
+| 11+ | 15 | 10/good |
 
 ## Giant Creature (+1)
 
 Creatures with the giant template are larger and stronger than their normal-sized kin. This template cannot be applied to creatures that are Colossal.
 
-**Quick Rules** : +2 to all rolls based on Str or Con, +2 hp_dir/HD, –1 penalty on all rolls based on Dex.
+**Quick Rules** : +2 to all rolls based on Str or Con, +2 hp/HD, –1 penalty on all rolls based on Dex.
 
 **Rebuild Rules** : **Size** increase by one category; **AC** increase natural armor by +3; **Attacks** increase dice rolled by 1 step; **Ability Scores** +4 size bonus to Str and Con, –2 Dex.
 
 ## Resolute Creature (CR +0 or +1)
 
-Creatures with the resolute template live in planes where law is paramount. They can be summoned using spells such as [_summon monster_](../advanced_dir/baseClasses_dir/summoner#_summon-monster-i) and _ [planar ally](../spells_dir/planarAlly#_planar-ally)_. A resolute creature's CR increases by +1 only if the base creature has 5 or more HD. A resolute creature's quick and rebuild rules are the same.
+Creatures with the resolute template live in planes where law is paramount. They can be summoned using spells such as [_summon monster_](../advanced/baseClasses/summoner#_summon-monster-i) and _ [planar ally](../spells/planarAlly#_planar-ally)_. A resolute creature's CR increases by +1 only if the base creature has 5 or more HD. A resolute creature's quick and rebuild rules are the same.
 
-**Rebuild Rules** : **Senses** gains darkvision 60 ft.; **Defensive Abilities** gains DR and energy resistance as noted on the table; **SR** gains SR equal to new CR +5; **Special Attacks** smite chaos 1_dir/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against chaotic foes; smite persists until target is dead or the resolute creature rests).
+**Rebuild Rules** : **Senses** gains darkvision 60 ft.; **Defensive Abilities** gains DR and energy resistance as noted on the table; **SR** gains SR equal to new CR +5; **Special Attacks** smite chaos 1/day as a swift action (adds Cha bonus to attack rolls and damage bonus equal to HD against chaotic foes; smite persists until target is dead or the resolute creature rests).
 
 [Resolute Creature Defenses]
 | Hit Dice | Resist Acid, Cold and Fire | DR |
 | --- | --- | --- |
 | 1–4 | 5 | — |
-| 5–10 | 10 | 5_dir/chaotic |
-| 11+ | 15 | 10_dir/chaotic |
+| 5–10 | 10 | 5/chaotic |
+| 11+ | 15 | 10/chaotic |
 
 ## Young Creature (CR –1)
 
 Creatures with the young template are immature specimens of the base creature. You can also use this simple template to easily create a smaller variant of a monster. This template cannot be applied to creatures that increase in power through aging or feeding (such as dragons or barghests) or creatures that are Fine-sized.
 
-**Quick Rules** : +2 to all Dex-based rolls, –2 to all other rolls, –2 hp_dir/HD.
+**Quick Rules** : +2 to all Dex-based rolls, –2 to all other rolls, –2 hp/HD.
 
 **Rebuild Rules** : **Size** decrease by one category; **AC** reduce natural armor by –2 (minimum +0); **Attacks** decrease damage dice by 1 step; **Ability Scores** –4 Strength, –4 Con, +4 size bonus to Dex.
 
@@ -148,7 +148,7 @@ These values are not absolute. Some monsters have fewer hit points than normal f
 | Gargantuan | Colossal | +8 | Same | +4 | +5 |
 
 [Table: Size Bonuses and Penalties]
-| Size | AC_dir/Attack | CMB_dir/CMD | Fly Skill | Stealth Skill |
+| Size | AC/Attack | CMB/CMD | Fly Skill | Stealth Skill |
 | --- | --- | --- | --- | --- |
 | Fine | +8 | –8 | +8 | +16 |
 | Diminutive | +4 | –4 | +6 | +12 |
@@ -166,7 +166,7 @@ Once you have determined the number of additional Hit Dice possessed by the crea
 
 ## Step 4: Skills and Feats
 
-When adding skills, check to see if the creature's Int modifier changed. If it is unchanged, simply multiply the total number of ranks per Hit Dice gained by a monster of its type times the total number of added Hit Dice and add that number of ranks to its existing skills. If its Intelligence modifier has increased, perform the same calculation as if it had not increased and then multiply the change in its Intelligence modifier times its new total number of Hit Dice and add that number of additional ranks as well (adding new skills as needed to spend all of the ranks). If the creature changed size, make sure to adjust its [Fly](../skills_dir/fly#_fly) skill and [Stealth](../skills_dir/stealth#_stealth) skill bonuses (if any) as noted on Table: Size Bonuses and Penalties.
+When adding skills, check to see if the creature's Int modifier changed. If it is unchanged, simply multiply the total number of ranks per Hit Dice gained by a monster of its type times the total number of added Hit Dice and add that number of ranks to its existing skills. If its Intelligence modifier has increased, perform the same calculation as if it had not increased and then multiply the change in its Intelligence modifier times its new total number of Hit Dice and add that number of additional ranks as well (adding new skills as needed to spend all of the ranks). If the creature changed size, make sure to adjust its [Fly](../skills/fly#_fly) skill and [Stealth](../skills/stealth#_stealth) skill bonuses (if any) as noted on Table: Size Bonuses and Penalties.
 
 Next, give the creature additional feats. Creatures gain one feat at 1 Hit Die and one additional feat for every 2 Hit Dice above 1. Most additional feats should be focused on increasing the creature's combat abilities, but metamagic feats and skill feats are also possible choices depending on the creature's role.
 
@@ -194,7 +194,7 @@ Most animals, constructs, dragons, humanoids, magical beasts, monstrous humanoid
 
 Most dragons and outsiders fall into this role, but any creature that has a list of spells prepared or spells known likely falls under this heading as well.
 
-**Skill** : Creatures of this type rely on skills (usually [Stealth](../skills_dir/stealth#_stealth)) to ambush or take down their prey. This also includes creatures who take advantage of the environment or spells, such as fog or _ [invisibility](../spells_dir/invisibility#_invisibility)_.
+**Skill** : Creatures of this type rely on skills (usually [Stealth](../skills/stealth#_stealth)) to ambush or take down their prey. This also includes creatures who take advantage of the environment or spells, such as fog or _ [invisibility](../spells/invisibility#_invisibility)_.
 
 Some aberrations, fey, magical beasts, monstrous humanoids, and outsiders fall into this role.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/implosion
+title: spells/implosion
 ---
  **Implosion**
 
@@ -10,9 +10,9 @@ title: spells_dir/implosion
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** one corporeal creature_dir/round
+**Target** one corporeal creature/round
 
 **Duration** concentration (up to 1 round per 2 levels)
 

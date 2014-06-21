@@ -1,14 +1,14 @@
 ---
 layout: default
-title: spells_dir/makeWhole
+title: spells/makeWhole
 ---
  **Make Whole**
 
-**School** transmutation; **Level** cleric 2, sorcerer_dir/wizard 2
+**School** transmutation; **Level** cleric 2, sorcerer/wizard 2
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** one object of up to 10 cu. ft._dir/level or one construct creature of any size
+**Target** one object of up to 10 cu. ft./level or one construct creature of any size
 
 This spell functions as _mending_, except that it repairs 1d6 points of damage per level when cast on a construct creature (maximum 5d6).
 

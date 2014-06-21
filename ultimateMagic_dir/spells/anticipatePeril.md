@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/anticipatePeril
+title: ultimateMagic/spells/anticipatePeril
 ---
 Anticipate Peril
 
-**School** divination; **Level** alchemist 1, bard 1, ranger 1, sorcerer_dir/wizard 1
+**School** divination; **Level** alchemist 1, bard 1, ranger 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Anticipate Peril
 
 **Target** creature touched
 
-**Duration** 1 minute_dir/level or until activated
+**Duration** 1 minute/level or until activated
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

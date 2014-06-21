@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/holyWord
+title: spells/holyWord
 ---
  **Holy Word**
 

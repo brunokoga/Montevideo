@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/arcaneMark
+title: spells/arcaneMark
 ---
  **Arcane Mark**
 
-**School** universal; **Level** sorcerer_dir/wizard 0
+**School** universal; **Level** sorcerer/wizard 0
 
 **Casting Time** 1 standard action
 

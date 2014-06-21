@@ -1,20 +1,20 @@
 ---
 layout: default
-title: mythicAdventures_dir/mythicSpells_dir/ascension
+title: mythicAdventures/mythicSpells/ascension
 ---
 Ascension
 
-**School** universal; **Level** cleric 9, druid 9, sorcerer_dir/wizard 9, witch 9
+**School** universal; **Level** cleric 9, druid 9, sorcerer/wizard 9, witch 9
 
 **Casting Time** 1 hour
 
 **Components** V, S, F (minor artifact), M (10,000 gp in rare herbs, gems, and other exotic materials)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** one non-mythic creature_dir/3 levels
+**Target** one non-mythic creature/3 levels
 
-**Duration** 2 hours_dir/level; see text
+**Duration** 2 hours/level; see text
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

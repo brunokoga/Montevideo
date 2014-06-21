@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/judgmentLight
+title: ultimateCombat/spells/judgmentLight
 ---
 Judgment Light
 
@@ -18,7 +18,7 @@ Judgment Light
 
 An inquisitor may only cast this spell while she has a judgment active. When she does cast this spell, it causes one or more of the following effects based on the inquisitor's active judgments.
 
-_ [Destruction](spells_dir/destruction#_destruction)_: Red light erupts from the caster. Enemies in the area take 4d8 points of damage and become shaken for 1d4 rounds. A successful Will saving throw halves the damage and negates the shaken effect.
+_ [Destruction](spells/destruction#_destruction)_: Red light erupts from the caster. Enemies in the area take 4d8 points of damage and become shaken for 1d4 rounds. A successful Will saving throw halves the damage and negates the shaken effect.
 
   
   
@@ -28,7 +28,7 @@ _Healing_: Green light erupts from the caster. Allies in the area regain a numbe
   
   
 
-_Justice_: Blue light erupts from the caster, revealing hidden and invisible creatures to all. The light outlines such creatures for 1 round per caster level, imposing a –20 penalty on [Stealth](skills_dir/stealth#_stealth) checks on those creatures.
+_Justice_: Blue light erupts from the caster, revealing hidden and invisible creatures to all. The light outlines such creatures for 1 round per caster level, imposing a –20 penalty on [Stealth](skills/stealth#_stealth) checks on those creatures.
 
   
   
@@ -48,12 +48,12 @@ _Purity_: White light erupts from the caster, allowing each ally within the burs
   
   
 
-_Resiliency_: Golden light erupts from the caster, granting allies within the burst DR 3_dir/magic or the alignment your judgment allows for 1 round per caster level.
+_Resiliency_: Golden light erupts from the caster, granting allies within the burst DR 3/magic or the alignment your judgment allows for 1 round per caster level.
 
   
   
 
-_ [Resistance](spells_dir/resistance#_resistance)_: Copper light erupts from the caster, granting allies within the burst resistance 5 against the energy the judgment protects the inquisitor against when she casts this spell for 1 round per caster level.
+_ [Resistance](spells/resistance#_resistance)_: Copper light erupts from the caster, granting allies within the burst resistance 5 against the energy the judgment protects the inquisitor against when she casts this spell for 1 round per caster level.
 
   
   

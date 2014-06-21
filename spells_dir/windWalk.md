@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/windWalk
+title: spells/windWalk
 ---
  **Wind Walk**
 
@@ -14,7 +14,7 @@ title: spells_dir/windWalk
 
 **Targets** you and one touched creature per three levels
 
-**Duration** 1 hour_dir/level (D); see text
+**Duration** 1 hour/level (D); see text
 
 **Saving Throw** no and [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** no and yes (harmless)
 

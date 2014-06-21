@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/ironwood
+title: spells/ironwood
 ---
  **Ironwood**
 
 **School** transmutation; **Level** druid 6
 
-**Casting Time** 1 minute_dir/lb. created
+**Casting Time** 1 minute/lb. created
 
 **Components** V, S, F (wood to be transformed)
 
 **Range** 0 ft.
 
-**Effect** an _ironwood _object weighing up to 5 lbs._dir/level
+**Effect** an _ironwood _object weighing up to 5 lbs./level
 
-**Duration** 1 day_dir/level (D)
+**Duration** 1 day/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

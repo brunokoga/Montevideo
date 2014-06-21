@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/oracleSVessel
+title: ultimateMagic/spells/oracleSVessel
 ---
 Oracle's Vessel
 
@@ -10,11 +10,11 @@ Oracle's Vessel
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

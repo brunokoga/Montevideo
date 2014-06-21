@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/command
+title: spells/command
 ---
  **Command**
 
@@ -10,7 +10,7 @@ title: spells_dir/command
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one living creature
 
@@ -36,9 +36,9 @@ If the subject can't carry out your command on its next turn, the spell automati
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 5
 
-**Targets** one creature_dir/level, no two of which can be more than 30 ft. apart
+**Targets** one creature/level, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 This spell functions like _command, _except that up to one creature per level may be affected, and the activities continue beyond 1 round. At the start of each commanded creature's action after the first, it gets another [Will](../combat#_will) save to attempt to break free from the spell. Each creature must receive the same command.
 

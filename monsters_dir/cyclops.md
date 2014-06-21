@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/cyclops
+title: monsters/cyclops
 ---
 # Cyclops
 
@@ -12,7 +12,7 @@ _A single huge eye stares from the forehead of this nine-foot-tall giant. Below 
 
 NE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
 
-**Init** –1; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +11
+**Init** –1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +11
 
 **Defense**
 
@@ -28,9 +28,9 @@ NE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Speed** 30 ft.
 
-**Melee** greataxe +11_dir/+6 (3d6+7_dir/×3)
+**Melee** greataxe +11/+6 (3d6+7/×3)
 
-**Ranged** heavy crossbow +5 (2d8_dir/19–20)
+**Ranged** heavy crossbow +5 (2d8/19–20)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -42,7 +42,7 @@ NE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Feats** [Alertness](../feats#_alertness), [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Power Attack](../feats#_power-attack)
 
-**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +9, [Perception](../skills_dir/perception#_perception) +11, [Profession](../skills_dir/profession#_profession) (soothsayer) +10 [Sense Motive](../skills_dir/senseMotive#_sense-motive) +5, [Survival](../skills_dir/survival#_survival) +6; **Racial Modifiers** +8 [Perception](../skills_dir/perception#_perception)
+**Skills** [Intimidate](../skills/intimidate#_intimidate) +9, [Perception](../skills/perception#_perception) +11, [Profession](../skills/profession#_profession) (soothsayer) +10 [Sense Motive](../skills/senseMotive#_sense-motive) +5, [Survival](../skills/survival#_survival) +6; **Racial Modifiers** +8 [Perception](../skills/perception#_perception)
 
 **Languages** Common, Cyclops, Giant
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills_dir/bluff
+title: skills/bluff
 ---
 # Bluff
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/planarAlly
+title: spells/planarAlly
 ---
  **Planar Ally**
 
@@ -30,7 +30,7 @@ This spell functions like _lesser planar ally_, except that you may call a singl
 
 **Components** V, S, M (offerings worth 500 gp plus payment, see text), DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** one called outsider of 6 HD or less
 

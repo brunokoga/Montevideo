@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/vision
+title: spells/vision
 ---
  **Vision**
 
-**School** divination; **Level** sorcerer_dir/wizard 7
+**School** divination; **Level** sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 

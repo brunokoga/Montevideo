@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/languidBombAdmixture
+title: ultimateCombat/spells/languidBombAdmixture
 ---
 Languid Bomb Admixture
 
@@ -14,7 +14,7 @@ Languid Bomb Admixture
 
 **Target** you
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates (special, see below); **Spell Resistance** yes
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advancedRaceGuide_dir/uncommonRaces_dir/vishkanyas
+title: advancedRaceGuide/uncommonRaces/vishkanyas
 ---
 # Vishkanyas
 
@@ -18,17 +18,17 @@ Vishkanyas are a race of exotic humanoids with poisonous blood. Possessed of an 
 
 **Low-Light Vision** : Vishkanyas can see twice as far as humans in conditions of dim light.
 
-**Keen Senses** : Vishkanyas receive a +2 racial bonus on [Perception](skills_dir/perception#_perception) checks.
+**Keen Senses** : Vishkanyas receive a +2 racial bonus on [Perception](skills/perception#_perception) checks.
 
-**Limber** : Vishkanyas receive a +2 racial bonus on [Escape Artist](skills_dir/escapeArtist#_escape-artist) and [Stealth](skills_dir/stealth#_stealth) checks.
+**Limber** : Vishkanyas receive a +2 racial bonus on [Escape Artist](skills/escapeArtist#_escape-artist) and [Stealth](skills/stealth#_stealth) checks.
 
 **Poison Resistance** : A vishkanya has a racial bonus on saving throws against poison equal to its Hit Dice.
 
 **Poison Use** : Vishkanyas are skilled in the use of poison and never accidentally poison themselves when using or applying poison.
 
-**Toxic** : A number of times per day equal to his Constitution modifier (minimum 1_dir/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in this way is a swift action.
+**Toxic** : A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in this way is a swift action.
 
-> _Vishkanya Venom_: Injury; _save_ Fort DC 10 + 1_dir/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 save.
+> _Vishkanya Venom_: Injury; _save_ Fort DC 10 + 1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 save.
 
 **Weapon Familiarity** : Vishkanyas are always proficient with blowguns, kukri, and shuriken.
 
@@ -39,9 +39,9 @@ and Undercommon.
 
 The following racial traits may be selected instead of existing vishkanya racial traits. Consult your GM before selecting any of these new options.
 
-**Sensual** : You are trained in drawing attention to yourself. You gain a +2 bonus on any one [Perform](skills_dir/perform#_perform) skill. This racial trait replaces keen senses.
+**Sensual** : You are trained in drawing attention to yourself. You gain a +2 bonus on any one [Perform](skills/perform#_perform) skill. This racial trait replaces keen senses.
 
-**Subtle Appearance** : You have normal (humanlike) eyes, and your beauty is more conventional. You gain a +4 bonus on [Disguise](skills_dir/disguise#_disguise) checks to look fully human. This racial trait replaces low-light vision.
+**Subtle Appearance** : You have normal (humanlike) eyes, and your beauty is more conventional. You gain a +4 bonus on [Disguise](skills/disguise#_disguise) checks to look fully human. This racial trait replaces low-light vision.
 
 # Favored Class Options
 
@@ -51,7 +51,7 @@ The following options are available to all vishkanyas who have the listed favore
 
 **Rogue** : Add +1 to the rogue's CMD when resisting a grapple or reposition attempt.
 
-**Sorcerer** : Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer's Charisma modifier. The sorcerer adds +1_dir/2 to the number of uses per day of that bloodline power.
+**Sorcerer** : Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer's Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
 
 # Racial Archetypes
 
@@ -61,13 +61,13 @@ The following racial archetype is available to vishkanyas.
 
 Skilled at manipulation and diversion, the deadly courtesan builds up those around her and periodically takes them down. She can be a spy, entertainer, assassin, bodyguard, or just an intimate to someone who needs it most. A deadly courtesan has the following class features.
 
-**Class Skills** : At 1st level, a deadly courtesan adds [Knowledge](skills_dir/knowledge#_knowledge) (history) and [Knowledge](skills_dir/knowledge#_knowledge) (nobility) to her list of class skills and removes [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) from her list of class skills.
+**Class Skills** : At 1st level, a deadly courtesan adds [Knowledge](skills/knowledge#_knowledge) (history) and [Knowledge](skills/knowledge#_knowledge) (nobility) to her list of class skills and removes [Knowledge](skills/knowledge#_knowledge) (dungeoneering) from her list of class skills.
 
-**Bardic Performance (Su)** : At 2nd level, a deadly courtesan gains the bardic performance ability and the fascinate bardic performance. Her fascinate DC is 10 + 1_dir/2 her rogue level + her Charisma modifier. She can use this bardic performance for a number of rounds per day equal to 1 + her Charisma modifier. At each level after 2nd, she can use bardic performance for 1 additional round per day. If the courtesan also has bard levels, she may use these rounds for either class's fascinate bardic performance, and her bard and rogue levels stack for determining her fascinate DC. This ability replaces the rogue trick gained at 2nd level.
+**Bardic Performance (Su)** : At 2nd level, a deadly courtesan gains the bardic performance ability and the fascinate bardic performance. Her fascinate DC is 10 + 1/2 her rogue level + her Charisma modifier. She can use this bardic performance for a number of rounds per day equal to 1 + her Charisma modifier. At each level after 2nd, she can use bardic performance for 1 additional round per day. If the courtesan also has bard levels, she may use these rounds for either class's fascinate bardic performance, and her bard and rogue levels stack for determining her fascinate DC. This ability replaces the rogue trick gained at 2nd level.
 
 **Inspire Competence (Su)** : At 3rd level, a deadly courtesan can use her bardic performance to inspire competence. The bonus begins at +2 and increases by +1 for every six levels the courtesan has attained beyond 3rd (+3 at 9th and +4 at 15th). This ability replaces all levels of trap sense.
 
-**Performance Strike (Sp)** : At 8th level, as a swift action, a deadly courtesan may expend rounds of bardic performance to gain a morale bonus on one attack roll. The amount of the bonus is equal to the number of bardic performance rounds expended (maximum bonus equal to 1_dir/2 her deadly courtesan level). This ability replaces improved uncanny dodge.
+**Performance Strike (Sp)** : At 8th level, as a swift action, a deadly courtesan may expend rounds of bardic performance to gain a morale bonus on one attack roll. The amount of the bonus is equal to the number of bardic performance rounds expended (maximum bonus equal to 1/2 her deadly courtesan level). This ability replaces improved uncanny dodge.
 
 **Rogue Talents** : The following rogue talents complement the deadly courtesan archetype: finesse rogue, stand up (_Core Rulebook_); charmer, coax information, fast fingers, honeyed words ; convincing lie, deft palm.
 
@@ -114,11 +114,11 @@ Corset of the Vishkanya
 
 Description
 
-This black corset fits neatly beneath armor. As a free action, the wearer can compress herself to fit through tight spaces as though affected by a _squeeze_ spell for up to 10 rounds per day. While using the corset's magic, she gains a +5 bonus on [Escape Artist](skills_dir/escapeArtist#_escape-artist) checks.
+This black corset fits neatly beneath armor. As a free action, the wearer can compress herself to fit through tight spaces as though affected by a _squeeze_ spell for up to 10 rounds per day. While using the corset's magic, she gains a +5 bonus on [Escape Artist](skills/escapeArtist#_escape-artist) checks.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [grease](spells_dir/grease#_grease)_, _squeeze_ (see below); **Cost** 1,500 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [grease](spells/grease#_grease)_, _squeeze_ (see below); **Cost** 1,500 gp
 
 ## Vishkanya Spells
 
@@ -126,7 +126,7 @@ Vishkanyas have access to the following spell.
 
 Squeeze
 
-**School** transmutation (polymorph); **Level** alchemist 2, sorcerer_dir/wizard 2, witch 2
+**School** transmutation (polymorph); **Level** alchemist 2, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -136,7 +136,7 @@ Squeeze
 
 **Target** creature touched
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Save** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/ballLightning
+title: advanced/spells/ballLightning
 ---
  **Ball Lightning**
 
-**School** evocation [air, electricity]; **Level** druid 4, sorcerer_dir/wizard 4
+**School** evocation [air, electricity]; **Level** druid 4, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M_dir/DF (a small iron ring)
+**Components** V, S, M/DF (a small iron ring)
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Effect** two or more 5-ft.-diameter spheres
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Reflex negates; **Spell Resistance** yes
 

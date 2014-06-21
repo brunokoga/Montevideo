@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/hollowSerpent
+title: bestiary3/hollowSerpent
 ---
 # Hollow Serpent
 
@@ -12,7 +12,7 @@ XP 76,800
 
 NE Large undead
 
-**Init** +9; **Senses** darkvision 60 ft., [lifesense](monsters_dir/universalMonsterRules#_lifesense); [Perception](skills_dir/perception#_perception) +17
+**Init** +9; **Senses** darkvision 60 ft., [lifesense](monsters/universalMonsterRules#_lifesense); [Perception](skills/perception#_perception) +17
 
 **Aura** desiccation aura (30 ft., DC 16)
 
@@ -24,24 +24,24 @@ Defense
 
 **Fort** +14, **Ref** +17, **Will** +18
 
-**Defensive Abilities** channel [resistance](monsters_dir/universalMonsterRules#_resistance) +4, _ [freedom of movement](spells_dir/freedomOfMovement#_freedom-of-movement)_; **DR** 10_dir/magic and silver; **Immune** undead traits; **SR** 27
+**Defensive Abilities** channel [resistance](monsters/universalMonsterRules#_resistance) +4, _ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement)_; **DR** 10/magic and silver; **Immune** undead traits; **SR** 27
 
 Offense
 
 **Speed** 50 ft., climb 50 ft.
 
-**Melee** 2 bites +23 (4d10+10 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** 2 bites +23 (4d10+10 plus [grab](monsters/universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
 **Special Attacks** channel negative energy (8d6, DC 24,   
-9_dir/day), [constrict](monsters_dir/universalMonsterRules#_constrict) (4d10+10 plus [energy drain](monsters_dir/universalMonsterRules#_energy-drain)), [energy drain](monsters_dir/universalMonsterRules#_energy-drain) (1 level, DC 26), life-draining coils
+9/day), [constrict](monsters/universalMonsterRules#_constrict) (4d10+10 plus [energy drain](monsters/universalMonsterRules#_energy-drain)), [energy drain](monsters/universalMonsterRules#_energy-drain) (1 level, DC 26), life-draining coils
 
 **Spell-Like Abilities** (CL 16th; concentration +22)
 
-Constant—_ [freedom of movement](spells_dir/freedomOfMovement#_freedom-of-movement)_
+Constant—_ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement)_
 
-1_dir/day—_ [horrid wilting](spells_dir/horridWilting#_horrid-wilting)_ (DC 24), _ [waves of exhaustion](spells_dir/wavesOfExhaustion#_waves-of-exhaustion)_
+1/day—_ [horrid wilting](spells/horridWilting#_horrid-wilting)_ (DC 24), _ [waves of exhaustion](spells/wavesOfExhaustion#_waves-of-exhaustion)_
 
 Statistics
 
@@ -51,8 +51,8 @@ Statistics
 
 **Feats** [Agile Maneuvers](feats#_agile-maneuvers), [Channel Smite](feats#_channel-smite), [Dodge](feats#_dodge), [Great Fortitude](feats#_great-fortitude), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Lunge](feats#_lunge), [Toughness](feats#_toughness), [Vital Strike](feats#_vital-strike), [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Climb](skills_dir/climb#_climb) +28, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +19,   
- [Perception](skills_dir/perception#_perception) +17, [Stealth](skills_dir/stealth#_stealth) +18
+**Skills** [Climb](skills/climb#_climb) +28, [Escape Artist](skills/escapeArtist#_escape-artist) +19,   
+ [Perception](skills/perception#_perception) +17, [Stealth](skills/stealth#_stealth) +18
 
 **Languages** Aklo; telepathy 100 ft.
 
@@ -68,13 +68,13 @@ Ecology
 
 Special Abilities
 
-**Channel Negative Energy (Su)** As a standard action, a hollow serpent can channel negative energy in a 30-foot burst as a 16th-level [evil](monsters_dir/creatureTypes#_evil-subtype) cleric. This ability requires no divine focus. The save DC is Charisma-based.
+**Channel Negative Energy (Su)** As a standard action, a hollow serpent can channel negative energy in a 30-foot burst as a 16th-level [evil](monsters/creatureTypes#_evil-subtype) cleric. This ability requires no divine focus. The save DC is Charisma-based.
 
-**Desiccation Aura (Su)** A cloud of moisture-draining dust fills the [air](monsters_dir/creatureTypes#_air-subtype) in a 30-foot radius around a hollow serpent. Living creatures within this area must make a DC 26 Fortitude save or take 1d6 points of Strength damage as [water](monsters_dir/creatureTypes#_water-subtype) is leached from their flesh. Whether or not the save is successful, a creature cannot be affected again by the same hollow serpent's desiccation aura for 24 hours. Creatures without fleshy bodies are immune to this aura, while creatures with the [aquatic](monsters_dir/creatureTypes#_aquatic-subtype) or [water](monsters_dir/creatureTypes#_water-subtype) subtypes take a –4 penalty on the saving throw. The save DC is Constitution-based.
+**Desiccation Aura (Su)** A cloud of moisture-draining dust fills the [air](monsters/creatureTypes#_air-subtype) in a 30-foot radius around a hollow serpent. Living creatures within this area must make a DC 26 Fortitude save or take 1d6 points of Strength damage as [water](monsters/creatureTypes#_water-subtype) is leached from their flesh. Whether or not the save is successful, a creature cannot be affected again by the same hollow serpent's desiccation aura for 24 hours. Creatures without fleshy bodies are immune to this aura, while creatures with the [aquatic](monsters/creatureTypes#_aquatic-subtype) or [water](monsters/creatureTypes#_water-subtype) subtypes take a –4 penalty on the saving throw. The save DC is Constitution-based.
 
 **Life-Draining Coils (Su)** A hollow serpent seethes with negative energy capable of sapping the life force of creatures trapped within its coils. Every time a creature takes constriction damage from a hollow serpent, it gains one negative level. The hollow serpent also gains 5 temporary hit points for each negative level it bestows.
 
-**[Lifesense](monsters_dir/universalMonsterRules#_lifesense) (Su)** A hollow serpent notices and locates living creatures within 60 feet, just as if it possessed the [blindsight](monsters_dir/universalMonsterRules#_blindsight) ability.
+**[Lifesense](monsters/universalMonsterRules#_lifesense) (Su)** A hollow serpent notices and locates living creatures within 60 feet, just as if it possessed the [blindsight](monsters/universalMonsterRules#_blindsight) ability.
 
 **Swift Strike (Ex)** When a hollow serpent takes a full-attack action, it can make two bite attacks instead of just one.
 

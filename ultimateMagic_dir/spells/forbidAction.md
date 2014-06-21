@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/forbidAction
+title: ultimateMagic/spells/forbidAction
 ---
 Forbid Action
 
@@ -10,7 +10,7 @@ Forbid Action
 
 **Component** V
 
-**Range** close (25 ft. +5 ft._dir/2 levels)
+**Range** close (25 ft. +5 ft./2 levels)
 
 **Target** one creature
 
@@ -24,7 +24,7 @@ _Attack_: The target cannot take any action that involves an attack roll, or use
 
 _Cast_: Target cannot cast spells or use spell-like abilities.
 
-_Communicate_: The target cannot take any actions that allow it to communicate with anyone. This includes such acts as speaking, [Bluff](skills_dir/bluff#_bluff) checks to pass secret messages, writing, and using telepathy. It does not prevent verbalizations made for purposes other than communication, such as command words or the verbal component of spellcasting.
+_Communicate_: The target cannot take any actions that allow it to communicate with anyone. This includes such acts as speaking, [Bluff](skills/bluff#_bluff) checks to pass secret messages, writing, and using telepathy. It does not prevent verbalizations made for purposes other than communication, such as command words or the verbal component of spellcasting.
 
 _Draw_: Target cannot ready or prepare any item, weapon, component, or equipment.
 
@@ -36,9 +36,9 @@ Forbid Action, Greater
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 5, inquisitor 5
 
-**Targets** one creature_dir/level, no two of which can be more than 30 ft. apart
+**Targets** one creature/level, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 This spell functions as _forbid action_, except up to one creature per level may be affected. Each creature must receive the same forbidden action.
 

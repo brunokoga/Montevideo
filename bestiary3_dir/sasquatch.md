@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/sasquatch
+title: bestiary3/sasquatch
 ---
 # Sasquatch
 
@@ -12,7 +12,7 @@ XP 600
 
 N Medium humanoid (sasquatch)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +5
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +5
 
 Defense
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +8; **CMD** 20
 
-**Feats** [Self-Sufficient](feats#_self-sufficient), [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth))
+**Feats** [Self-Sufficient](feats#_self-sufficient), [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth))
 
-**Skills** [Heal](skills_dir/heal#_heal) +2, [Perception](skills_dir/perception#_perception) +5, [Stealth](skills_dir/stealth#_stealth) +10 (+14 in forested areas), [Survival](skills_dir/survival#_survival) +10; **Racial Modifiers** +4 [Perception](skills_dir/perception#_perception), +4 [Stealth](skills_dir/stealth#_stealth) (+8 in forested areas), +4 [Survival](skills_dir/survival#_survival)
+**Skills** [Heal](skills/heal#_heal) +2, [Perception](skills/perception#_perception) +5, [Stealth](skills/stealth#_stealth) +10 (+14 in forested areas), [Survival](skills/survival#_survival) +10; **Racial Modifiers** +4 [Perception](skills/perception#_perception), +4 [Stealth](skills/stealth#_stealth) (+8 in forested areas), +4 [Survival](skills/survival#_survival)
 
 **Languages** sasquatch
 
@@ -50,7 +50,7 @@ Statistics
 
 Ecology
 
-**Environment** temperate or [cold](monsters_dir/creatureTypes#_cold-subtype) forests
+**Environment** temperate or [cold](monsters/creatureTypes#_cold-subtype) forests
 
 **Organization** solitary, pair, or family (3–7)
 
@@ -58,7 +58,7 @@ Ecology
 
 Special Abilities
 
-**Pungency (Ex)** A sasquatch's odor is quite powerful, and can be detected at twice the normal distance by [scent](monsters_dir/universalMonsterRules#_scent).
+**Pungency (Ex)** A sasquatch's odor is quite powerful, and can be detected at twice the normal distance by [scent](monsters/universalMonsterRules#_scent).
 
 **Woodland Stride (Ex)** A sasquatch can move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at normal speed and without taking damage or suffering any other impairment. Undergrowth that has been magically manipulated to impede movement still affects the sasquatch.
 

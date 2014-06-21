@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/unseenServant
+title: spells/unseenServant
 ---
  **Unseen Servant**
 
-**School** conjuration (creation); **Level** bard 1, sorcerer_dir/wizard 1
+**School** conjuration (creation); **Level** bard 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a piece of string and a bit of wood)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** one invisible, mindless, shapeless servant
 
-**Duration** 1 hour_dir/level
+**Duration** 1 hour/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/breakEnchantment
+title: spells/breakEnchantment
 ---
  **Break Enchantment**
 
-**School** abjuration; **Level** bard 4, cleric 5, paladin 4, sorcerer_dir/wizard 5
+**School** abjuration; **Level** bard 4, cleric 5, paladin 4, sorcerer/wizard 5
 
 **Casting Time** 1 minute
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Targets** up to one creature per level, all within 30 ft. of each other
 

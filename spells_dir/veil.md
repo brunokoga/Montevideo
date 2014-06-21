@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/veil
+title: spells/veil
 ---
  **Veil**
 
-**School** illusion (glamer); **Level** bard 6, sorcerer_dir/wizard 6
+**School** illusion (glamer); **Level** bard 6, sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Targets** one or more creatures, no two of which can be more than 30 ft. apart
 
-**Duration** concentration + 1 hour_dir/level (D)
+**Duration** concentration + 1 hour/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes; see text
 

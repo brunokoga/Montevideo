@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/searingLight
+title: spells/searingLight
 ---
  **Searing Light**
 
@@ -10,7 +10,7 @@ title: spells_dir/searingLight
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Effect** ray
 

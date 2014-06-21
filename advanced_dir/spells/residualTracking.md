@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/residualTracking
+title: advanced/spells/residualTracking
 ---
  **Residual Tracking**
 

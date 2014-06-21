@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/animalTrance
+title: spells/animalTrance
 ---
  **Animal Trance**
 
@@ -10,7 +10,7 @@ title: spells_dir/animalTrance
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Targets** animals or magical beasts with [Intelligence](../gettingStarted#_intelligence) 1 or 2
 

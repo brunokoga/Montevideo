@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/giant
+title: monsters/giant
 ---
 # Giant, Cloud
 
@@ -12,7 +12,7 @@ _This towering giant has finely chiseled features. Her skin is pale and smooth, 
 
 NG or NE Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
 
-**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +17
+**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +17
 
 **Defense**
 
@@ -28,7 +28,7 @@ NG or NE Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant
 
 **Speed** 50 ft.
 
-**Melee** morningstar +22_dir/+17_dir/+12 (4d6+18) or 2 slams +22 (2d6+12)
+**Melee** morningstar +22/+17/+12 (4d6+18) or 2 slams +22 (2d6+12)
 
 **Ranged** rock +12 (2d6+18)
 
@@ -38,9 +38,9 @@ NG or NE Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant
 
 **Spell-Like Abilities** (CL 16th)
 
-At will—_ [levitate](../spells_dir/levitate#_levitate)_ (self plus 2,000 lbs.), _ [obscuring mist](../spells_dir/obscuringMist#_obscuring-mist)_
+At will—_ [levitate](../spells/levitate#_levitate)_ (self plus 2,000 lbs.), _ [obscuring mist](../spells/obscuringMist#_obscuring-mist)_
 
-1_dir/day—_ [fog cloud](../spells_dir/fogCloud)_
+1/day—_ [fog cloud](../spells/fogCloud)_
 
 **Statistics**
 
@@ -50,7 +50,7 @@ At will—_ [levitate](../spells_dir/levitate#_levitate)_ (self plus 2,000 lbs.)
 
 **Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Overrun](../feats#_improved-overrun), [Intimidating Prowess](../feats#_intimidating-prowess), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +19, [Craft](../skills_dir/craft#_craft) (any one) +10, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +9, [Intimidate](../skills_dir/intimidate#_intimidate) +26, [Perception](../skills_dir/perception#_perception) +17, [Perform](../skills_dir/perform#_perform) (string instruments) +8
+**Skills** [Climb](../skills/climb#_climb) +19, [Craft](../skills/craft#_craft) (any one) +10, [Diplomacy](../skills/diplomacy#_diplomacy) +9, [Intimidate](../skills/intimidate#_intimidate) +26, [Perception](../skills/perception#_perception) +17, [Perform](../skills/perform#_perform) (string instruments) +8
 
 **Languages** Common, Giant
 
@@ -84,7 +84,7 @@ _This lumbering giant has short stumpy legs and powerful, muscular arms. Its hai
 
 LE Large [humanoid](creatureTypes#_humanoid) ( [fire](creatureTypes#_fire-subtype), [giant](creatureTypes#_giant-type))
 
-**Init** –1; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +14
+**Init** –1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +14
 
 **Defense**
 
@@ -102,7 +102,7 @@ LE Large [humanoid](creatureTypes#_humanoid) ( [fire](creatureTypes#_fire-subtyp
 
 **Speed** 40 ft. (30 ft. in armor)
 
-**Melee** greatsword +21_dir/+16_dir/+11 (3d6+15) or 2 slams +20 (1d8+10)
+**Melee** greatsword +21/+16/+11 (3d6+15) or 2 slams +20 (1d8+10)
 
 **Ranged** rock +10 (1d8+15 plus 1d6 fire)
 
@@ -118,7 +118,7 @@ LE Large [humanoid](creatureTypes#_humanoid) ( [fire](creatureTypes#_fire-subtyp
 
 **Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Overrun](../feats#_improved-overrun), [Improved Sunder](../feats#_improved-sunder), [Iron Will](../feats#_iron-will), [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greatsword), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (greatsword)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +14, [Craft](../skills_dir/craft#_craft) (any one) +8, [Intimidate](../skills_dir/intimidate#_intimidate) +11, [Perception](../skills_dir/perception#_perception) +14
+**Skills** [Climb](../skills/climb#_climb) +14, [Craft](../skills/craft#_craft) (any one) +8, [Intimidate](../skills/intimidate#_intimidate) +11, [Perception](../skills/perception#_perception) +14
 
 **Languages** Common, Giant
 
@@ -152,7 +152,7 @@ _This giant looks like a thick, muscular human. It has frost-white skin and long
 
 CE Large [humanoid](creatureTypes#_humanoid) ( [cold](creatureTypes#_cold-subtype), [giant](creatureTypes#_giant-type))
 
-**Init** –1; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +10
+**Init** –1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +10
 
 **Defense**
 
@@ -170,7 +170,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [cold](creatureTypes#_cold-subtyp
 
 **Speed** 40 ft.
 
-**Melee** greataxe +18_dir/+13 (3d6+13) or 2 slams +18 (1d8+9)
+**Melee** greataxe +18/+13 (3d6+13) or 2 slams +18 (1d8+9)
 
 **Ranged** rock +9 (1d8+13)
 
@@ -184,9 +184,9 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [cold](creatureTypes#_cold-subtyp
 
 **Base Atk** +10; **CMB** +20; **CMD** 29
 
-**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Overrun](../feats#_improved-overrun), [Improved Sunder](../feats#_improved-sunder), [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greataxe), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth))
+**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Overrun](../feats#_improved-overrun), [Improved Sunder](../feats#_improved-sunder), [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greataxe), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills/stealth#_stealth))
 
-**Skills** [Climb](../skills_dir/climb#_climb) +13, [Craft](../skills_dir/craft#_craft) (any one) +7, [Intimidate](../skills_dir/intimidate#_intimidate) +7, [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +2 (+6 in snow); **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth) in snow
+**Skills** [Climb](../skills/climb#_climb) +13, [Craft](../skills/craft#_craft) (any one) +7, [Intimidate](../skills/intimidate#_intimidate) +7, [Perception](../skills/perception#_perception) +10, [Stealth](../skills/stealth#_stealth) +2 (+6 in snow); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) in snow
 
 **Languages** Common, Giant
 
@@ -216,7 +216,7 @@ _This hunched giant exudes power and a crude, stupid anger, its filthy fur cloth
 
 CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
 
-**Init** –1; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +6
+**Init** –1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +6
 
 **Defense**
 
@@ -232,7 +232,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Speed** 40 ft. (30 ft. in armor)
 
-**Melee** greatclub +14_dir/+9 (2d8+10) or 2 slams +13 (1d8+7)
+**Melee** greatclub +14/+9 (2d8+10) or 2 slams +13 (1d8+7)
 
 **Ranged** rock +6 (1d8+10)
 
@@ -248,7 +248,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Feats** [Cleave](../feats#_cleave), [Intimidating Prowess](../feats#_intimidating-prowess), [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greatclub), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (greatclub)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +10, [Intimidate](../skills_dir/intimidate#_intimidate) +12, [Perception](../skills_dir/perception#_perception) +6
+**Skills** [Climb](../skills/climb#_climb) +10, [Intimidate](../skills/intimidate#_intimidate) +12, [Perception](../skills/perception#_perception) +6
 
 **Languages** Giant
 
@@ -278,7 +278,7 @@ _This giant has chiseled, muscular features and a flat, forward-sloping head, lo
 
 N Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +12
+**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +12
 
 **Defense**
 
@@ -294,9 +294,9 @@ N Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
 
 **Speed** 40 ft.
 
-**Melee** greatclub +16_dir/+11 (2d8+12) or 2 slams +16 (1d8+8)
+**Melee** greatclub +16/+11 (2d8+12) or 2 slams +16 (1d8+8)
 
-**Ranged** rock +11_dir/+6 (1d8+12)
+**Ranged** rock +11/+6 (1d8+12)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -310,7 +310,7 @@ N Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
 
 **Feats** [Iron Will](../feats#_iron-will), [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greatclub), [Point-Blank Shot](../feats#_point-blank-shot), [Power Attack](../feats#_power-attack), [Precise Shot](../feats#_precise-shot), [Quick Draw](../feats#_quick-draw)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +12, [Intimidate](../skills_dir/intimidate#_intimidate) +12, [Perception](../skills_dir/perception#_perception) +12, [Stealth](../skills_dir/stealth#_stealth) +4 (+12 in rocky terrain); **Racial Modifiers** +8 [Stealth](../skills_dir/stealth#_stealth) in rocky terrain
+**Skills** [Climb](../skills/climb#_climb) +12, [Intimidate](../skills/intimidate#_intimidate) +12, [Perception](../skills/perception#_perception) +12, [Stealth](../skills/stealth#_stealth) +4 (+12 in rocky terrain); **Racial Modifiers** +8 [Stealth](../skills/stealth#_stealth) in rocky terrain
 
 **Languages** Common, Giant
 
@@ -334,7 +334,7 @@ Stone giants prefer living in enormous caves in high-altitude, rocky peaks. They
 
 ## Stone Giant Elders
 
-Some stone giants develop special abilities related to their environment. Called elders, these stone giants have Charisma scores of at least 15 and three spell-like abilities (CL 10th). Once per day they can use _ [stone shape](../spells_dir/stoneShape#_stone-shape)_, _ [stone tell](../spells_dir/stoneTell#_stone-tell)_, and either _ [transmute rock to mud](../spells_dir/transmuteRockToMud#_transmute-rock-to-mud)_ or _ [transmute mud to rock](../spells_dir/transmuteMudToRock#_transmute-mud-to-rock)_ (DC 17). The save DC is Charisma-based. One in 10 elders is a sorcerer, usually of 3rd to 6th level. Stone giant elders add +1 to their CR.
+Some stone giants develop special abilities related to their environment. Called elders, these stone giants have Charisma scores of at least 15 and three spell-like abilities (CL 10th). Once per day they can use _ [stone shape](../spells/stoneShape#_stone-shape)_, _ [stone tell](../spells/stoneTell#_stone-tell)_, and either _ [transmute rock to mud](../spells/transmuteRockToMud#_transmute-rock-to-mud)_ or _ [transmute mud to rock](../spells/transmuteMudToRock#_transmute-mud-to-rock)_ (DC 17). The save DC is Charisma-based. One in 10 elders is a sorcerer, usually of 3rd to 6th level. Stone giant elders add +1 to their CR.
 
 # Giant, Storm
 
@@ -346,7 +346,7 @@ _This giant is a towering, muscular human of heroic proportions, with bronze ski
 
 CG Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
 
-**Init** +2; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +27
+**Init** +2; **Senses** low-light vision; [Perception](../skills/perception#_perception) +27
 
 **Defense**
 
@@ -362,19 +362,19 @@ CG Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
 
 **Speed** 50 ft., swim 40 ft. (35 ft., swim 30 ft. in armor)
 
-**Melee** mwk greatsword +27_dir/+22_dir/+17 (4d6+21_dir/17–20) or 2 slams +26 (2d6+14)
+**Melee** mwk greatsword +27/+22/+17 (4d6+21/17–20) or 2 slams +26 (2d6+14)
 
-**Ranged** mwk composite longbow +15_dir/+10_dir/+5 (3d6+14_dir/×3)
+**Ranged** mwk composite longbow +15/+10/+5 (3d6+14/×3)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
 **Spell-Like Abilities** (CL 15th)
 
-Constant—_ [freedom of movement](../spells_dir/freedomOfMovement#_freedom-of-movement)_
+Constant—_ [freedom of movement](../spells/freedomOfMovement#_freedom-of-movement)_
 
-2_dir/day—_ [control weather](../spells_dir/controlWeather#_control-weather)_, _ [levitate](../spells_dir/levitate#_levitate)_
+2/day—_ [control weather](../spells/controlWeather#_control-weather)_, _ [levitate](../spells/levitate#_levitate)_
 
-1_dir/day—_ [call lightning](../spells_dir/callLightning#_call-lightning)_ (DC 15), _ [chain lightning](../spells_dir/chainLightning#_chain-lightning)_ (DC 18)
+1/day—_ [call lightning](../spells/callLightning#_call-lightning)_ (DC 15), _ [chain lightning](../spells/chainLightning#_chain-lightning)_ (DC 18)
 
 **Statistics**
 
@@ -384,7 +384,7 @@ Constant—_ [freedom of movement](../spells_dir/freedomOfMovement#_freedom-of-m
 
 **Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (greatsword), [Improved Sunder](../feats#_improved-sunder), [Improved Vital Strike](../feats#_improved-vital-strike), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Vital Strike](../feats#_vital-strike)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +18, [Climb](../skills_dir/climb#_climb) +17, [Craft](../skills_dir/craft#_craft) (any one) +13, [Intimidate](../skills_dir/intimidate#_intimidate) +20, [Perception](../skills_dir/perception#_perception) +27, [Perform](../skills_dir/perform#_perform) (sing) +12, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +24, [Swim](../skills_dir/swim#_swim) +22
+**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +18, [Climb](../skills/climb#_climb) +17, [Craft](../skills/craft#_craft) (any one) +13, [Intimidate](../skills/intimidate#_intimidate) +20, [Perception](../skills/perception#_perception) +27, [Perform](../skills/perform#_perform) (sing) +12, [Sense Motive](../skills/senseMotive#_sense-motive) +24, [Swim](../skills/swim#_swim) +22
 
 **Languages** Auran, Common, Draconic, Giant
 

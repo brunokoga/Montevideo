@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/etherealness
+title: spells/etherealness
 ---
  **Etherealness**
 
-**School** transmutation; **Level** cleric 9, sorcerer_dir/wizard 9
+**School** transmutation; **Level** cleric 9, sorcerer/wizard 9
 
 **Range** touch; see text
 
 **Targets** you and one other touched creature per three levels
 
-**Duration** 1 min._dir/level (D)
+**Duration** 1 min./level (D)
 
 **[Spell Resistance](../glossary#_spell-resistance)** yes
 

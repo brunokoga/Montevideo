@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/protectionFromSpells
+title: spells/protectionFromSpells
 ---
  **Protection from Spells**
 
-**School** abjuration; **Level** sorcerer_dir/wizard 8
+**School** abjuration; **Level** sorcerer/wizard 8
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/protectionFromSpells
 
 **Targets** up to one creature touched per four levels
 
-**Duration** 10 min._dir/level
+**Duration** 10 min./level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

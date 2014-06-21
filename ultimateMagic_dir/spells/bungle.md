@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/bungle
+title: ultimateMagic/spells/bungle
 ---
 Bungle
 
-**School** enchantment (compulsion); **Level** sorcerer_dir/wizard 1, witch 1
+**School** enchantment (compulsion); **Level** sorcerer/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one humanoid
 

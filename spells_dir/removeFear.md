@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/removeFear
+title: spells/removeFear
 ---
  **Remove Fear**
 
@@ -10,7 +10,7 @@ title: spells_dir/removeFear
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Targets** one creature plus one additional creature per four levels, no two of which can be more than 30 ft. apart
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/fieryBody
+title: advanced/spells/fieryBody
 ---
  **Fiery Body**
 
-**School** transmutation [fire]; **Level** sorcerer_dir/wizard 9
+**School** transmutation [fire]; **Level** sorcerer/wizard 9
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/fieryBody
 
 **Target** you
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 This spell transforms your body into living flame. You and your equipment are immune to fire damage. In fact, every time you would normally take damage from fire, you are instead healed of damage at a rate of 1 point per 3 points of damage the fire attack would have normally inflicted. You are immune to blindness, critical hits, ability score damage, deafness, disease, drowning, electricity, poison, stunning, and all spells that affect your physiology or respiration. You take only half damage from acid or electricity. You take 150% as much damage from cold than normal.
 

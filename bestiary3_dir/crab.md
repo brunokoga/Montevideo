@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/crab
+title: bestiary3/crab
 ---
 # Crab, Shark-Eating
 
@@ -10,9 +10,9 @@ Shark-Eating Crab CR 7
 
 XP 3,200
 
-N Huge vermin ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+N Huge vermin ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +5
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +5
 
 Defense
 
@@ -28,11 +28,11 @@ Offense
 
 **Speed** 30 ft., swim 60 ft.
 
-**Melee** 2 claws +13 (1d8+9 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** 2 claws +13 (1d8+9 plus [grab](monsters/universalMonsterRules#_grab))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [constrict](monsters_dir/universalMonsterRules#_constrict) (1d8+9), darting claw
+**Special Attacks** [constrict](monsters/universalMonsterRules#_constrict) (1d8+9), darting claw
 
 Statistics
 
@@ -40,13 +40,13 @@ Statistics
 
 **Base Atk** +6; **CMB** +17 (+21 grapple); **CMD** 29 (41 vs. trip)
 
-**Skills** [Perception](skills_dir/perception#_perception) +5, [Swim](skills_dir/swim#_swim) +17; **Racial Modifiers** +4 [Perception](skills_dir/perception#_perception)
+**Skills** [Perception](skills/perception#_perception) +5, [Swim](skills/swim#_swim) +17; **Racial Modifiers** +4 [Perception](skills/perception#_perception)
 
-**SQ** [water](monsters_dir/creatureTypes#_water-subtype) dependency
+**SQ** [water](monsters/creatureTypes#_water-subtype) dependency
 
 Ecology
 
-**Environment** any [water](monsters_dir/creatureTypes#_water-subtype)
+**Environment** any [water](monsters/creatureTypes#_water-subtype)
 
 **Organization** solitary or cast (2–8)
 
@@ -68,9 +68,9 @@ Shipwrecker Crab CR 13
 
 XP 25,600
 
-N Colossal vermin ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+N Colossal vermin ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +10
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +10
 
 Defense
 
@@ -86,11 +86,11 @@ Offense
 
 **Speed** 30 ft., swim 40 ft.
 
-**Melee** 2 claws +16 (2d8+21 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** 2 claws +16 (2d8+21 plus [grab](monsters/universalMonsterRules#_grab))
 
 **Space** 30 ft.; **Reach** 30 ft.
 
-**Special Attacks** [constrict](monsters_dir/universalMonsterRules#_constrict) (2d8+21)
+**Special Attacks** [constrict](monsters/universalMonsterRules#_constrict) (2d8+21)
 
 Statistics
 
@@ -98,13 +98,13 @@ Statistics
 
 **Base Atk** +10; **CMB** +32 (+36 grapple); **CMD** 45 (61 vs. trip)
 
-**Skills** [Perception](skills_dir/perception#_perception) +10, [Swim](skills_dir/swim#_swim) +22
+**Skills** [Perception](skills/perception#_perception) +10, [Swim](skills/swim#_swim) +22
 
 **SQ** powerful claws
 
 Ecology
 
-**Environment** any [water](monsters_dir/creatureTypes#_water-subtype)
+**Environment** any [water](monsters/creatureTypes#_water-subtype)
 
 **Organization** solitary or cast (2–12)
 
@@ -112,7 +112,7 @@ Ecology
 
 Special Abilities
 
-**Powerful Claws (Ex)** A shipwrecker crab's claw attacks deal damage equal to 1-1_dir/2 times its Strength modifier. In addition, a shipwrecker crab ignores up to 5 points of hardness when damaging objects.
+**Powerful Claws (Ex)** A shipwrecker crab's claw attacks deal damage equal to 1-1/2 times its Strength modifier. In addition, a shipwrecker crab ignores up to 5 points of hardness when damaging objects.
 
 A bane to all vessels traveling the seas, shipwrecker crabs can ruin the career of a merchant captain in minutes, destroying her ship, dumping its cargo into the waters below, and plucking her drowning crew from the wreckage for food.
 

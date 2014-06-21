@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/coordinatedEffort
+title: advanced/spells/coordinatedEffort
 ---
  **Coordinated Effort**
 
@@ -10,11 +10,11 @@ title: advanced_dir/spells_dir/coordinatedEffort
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Targets** you plus one willing creature per 3 levels, no two of which can be more than 30 ft. part
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** none; **Spell Resistance** no
 

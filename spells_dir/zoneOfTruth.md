@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/zoneOfTruth
+title: spells/zoneOfTruth
 ---
  **Zone of Truth**
 
@@ -10,11 +10,11 @@ title: spells_dir/zoneOfTruth
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Area** 20-ft.-radius emanation
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

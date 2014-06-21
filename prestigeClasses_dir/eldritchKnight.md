@@ -1,12 +1,12 @@
 ---
 layout: default
-title: prestigeClasses_dir/eldritchKnight
+title: prestigeClasses/eldritchKnight
 ---
 # Eldritch Knight
 
 Fearsome warriors and spellcasters, eldritch knights are rare among magic-users in their ability to wade into battle alongside fighters, barbarians, and other martial classes. Those who must face eldritch knights in combat fear them greatly, for their versatility on the battlefield is tremendous; against heavily armed and armored opponents they may level crippling spells, while opposing spellcasters meet their ends on an eldritch knight's blade.
 
-Because the road to becoming an eldritch knight requires both martial prowess and arcane power, eldritch knights almost always begin their paths as multiclassed characters, such as fighter_dir/wizards or ranger_dir/sorcerers. They may be found wherever studies of the arcane are as prevalent as martial training.
+Because the road to becoming an eldritch knight requires both martial prowess and arcane power, eldritch knights almost always begin their paths as multiclassed characters, such as fighter/wizards or ranger/sorcerers. They may be found wherever studies of the arcane are as prevalent as martial training.
 
 **Role** : Eldritch knights blend the abilities of fighting classes and spellcasters, hurling magic at the enemy one moment and hewing down their opponents with steel the next. They are just as comfortable fighting in the thick of combat as they are casting spells at foes while remaining safely behind their compatriots. Their versatility makes them valuable allies when the nature of an upcoming battle is unclear.
 
@@ -24,7 +24,7 @@ To qualify to become an eldritch knight, a character must fulfill all the follow
 
 ## Class Skills
 
-The eldritch knight's class skills (and the key ability for each skill) are [Climb](../skills_dir/climb#_climb) ( [Str](../gettingStarted#_strength)), [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills_dir/knowledge#_knowledge) (nobility) ( [Int](../gettingStarted#_intelligence)), [Linguistics](../skills_dir/linguistics#_linguistics) ( [Int](../gettingStarted#_intelligence)), [Ride](../skills_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Sense Motive](../skills_dir/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)), [Spellcraft](../skills_dir/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)), and [Swim](../skills_dir/swim#_swim) ( [Str](../gettingStarted#_strength)).
+The eldritch knight's class skills (and the key ability for each skill) are [Climb](../skills/climb#_climb) ( [Str](../gettingStarted#_strength)), [Knowledge](../skills/knowledge#_knowledge) (arcana) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills/knowledge#_knowledge) (nobility) ( [Int](../gettingStarted#_intelligence)), [Linguistics](../skills/linguistics#_linguistics) ( [Int](../gettingStarted#_intelligence)), [Ride](../skills/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Sense Motive](../skills/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)), [Spellcraft](../skills/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)), and [Swim](../skills/swim#_swim) ( [Str](../gettingStarted#_strength)).
 
 **Skill Ranks at Each Level** : 2 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -50,7 +50,7 @@ All of the following are features of the eldritch knight prestige class.
 
 **Bonus Feat** : At 1st level, an eldritch knight may choose a bonus [combat feat](../feats#_combat-feats). This is in addition to the feats that a character of any class normally gets from advancing levels. The character must still meet any prerequisites for these bonus feats. An eldritch knight gains an additional [combat feat](../feats#_combat-feats) at 5th and 9th level.
 
-**Diverse Training** : An eldritch knight adds his level to any levels of [fighter](../classes_dir/fighter#_fighter) he might have for the purpose of meeting the prerequisites for feats (if he has no fighter levels, treat his eldritch knight levels as levels of fighter). He also adds his level to any levels in an arcane spellcasting class for the purpose of meeting the prerequisites for feats.
+**Diverse Training** : An eldritch knight adds his level to any levels of [fighter](../classes/fighter#_fighter) he might have for the purpose of meeting the prerequisites for feats (if he has no fighter levels, treat his eldritch knight levels as levels of fighter). He also adds his level to any levels in an arcane spellcasting class for the purpose of meeting the prerequisites for feats.
 
 **Spells per Day** : At the indicated levels, an eldritch knight gains new spells per day as if he had also gained a level in an arcane spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one arcane spellcasting class before becoming an eldritch knight, he must decide to which class he adds the new level for purposes of determining spells per day.
 

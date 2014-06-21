@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/enviousUrge
+title: ultimateMagic/spells/enviousUrge
 ---
 Envious Urge
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 4, sorcerer_dir/wizard 6
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 4, sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
-**Targets** one creature_dir/level, no two of which can be more than 30 ft. apart
+**Targets** one creature/level, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

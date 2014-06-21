@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/skeletalChampion
+title: monsters/skeletalChampion
 ---
 # Skeletal Champion
 
@@ -14,7 +14,7 @@ Human skeletal champion warrior 1
 
 NE Medium [undead](creatureTypes#_undead)
 
-**Init** +5; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +6
+**Init** +5; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +6
 
 **Defense**
 
@@ -24,13 +24,13 @@ NE Medium [undead](creatureTypes#_undead)
 
 **Fort** +3 **Ref** +1 **Will** +3; [channel resistance](universalMonsterRules#_channel-resistance) +4
 
-**DR** 5_dir/bludgeoning; **Immune** cold, [undead traits](universalMonsterRules#_undead-traits)
+**DR** 5/bludgeoning; **Immune** cold, [undead traits](universalMonsterRules#_undead-traits)
 
 **Offense**
 
 **Speed** 30 ft.
 
-**Melee** mwk longsword +7 (1d8+3_dir/19–20)
+**Melee** mwk longsword +7 (1d8+3/19–20)
 
 **Statistics**
 
@@ -40,7 +40,7 @@ NE Medium [undead](creatureTypes#_undead)
 
 **Feats** [Cleave](../feats#_cleave), [Improved Initiative](../feats#_improved-initiative)B, [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (longsword)
 
-**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +7, [Perception](../skills_dir/perception#_perception) +6, [Stealth](../skills_dir/stealth#_stealth) –1
+**Skills** [Intimidate](../skills/intimidate#_intimidate) +7, [Perception](../skills/perception#_perception) +6, [Stealth](../skills/stealth#_stealth) –1
 
 **Ecology**
 
@@ -66,7 +66,7 @@ Some skeletons retain their intelligence and cunning, making them formidable war
 
 **Hit Dice:** Change all of the creature's racial HD to d8s, then add 2 racial Hit Dice to this total (creatures without racial HD gain 2). HD from class levels are unchanged.
 
-**Defensive Abilities** : A skeletal champion gains DR 5_dir/bludgeoning, channel resistance +4, and immunity to cold. It also gains all of the standard undead traits.
+**Defensive Abilities** : A skeletal champion gains DR 5/bludgeoning, channel resistance +4, and immunity to cold. It also gains all of the standard undead traits.
 
 **Speed** : As [standard skeleton](skeleton).
 
@@ -74,11 +74,11 @@ Some skeletons retain their intelligence and cunning, making them formidable war
 
 **Abilities** : Str +2, Dex +2. As undead, it has no Constitution score.
 
-**BAB** : Its BAB for racial HD equals 3_dir/4 of its HD.
+**BAB** : Its BAB for racial HD equals 3/4 of its HD.
 
-**Skills** : Gains skill ranks per racial Hit Die equal to 4 + its Int modifier. Class skills for racial HD are [Climb](../skills_dir/climb#_climb), [Disguise](../skills_dir/disguise#_disguise), [Fly](../skills_dir/fly#_fly), [Intimidate](../skills_dir/intimidate#_intimidate), [Knowledge](../skills_dir/knowledge#_knowledge) (arcana), [Knowledge](../skills_dir/knowledge#_knowledge) (religion), [Perception](../skills_dir/perception#_perception), [Sense Motive](../skills_dir/senseMotive#_sense-motive), [Spellcraft](../skills_dir/spellcraft#_spellcraft), and [Stealth](../skills_dir/stealth#_stealth). Skills gained from class levels remain unchanged.
+**Skills** : Gains skill ranks per racial Hit Die equal to 4 + its Int modifier. Class skills for racial HD are [Climb](../skills/climb#_climb), [Disguise](../skills/disguise#_disguise), [Fly](../skills/fly#_fly), [Intimidate](../skills/intimidate#_intimidate), [Knowledge](../skills/knowledge#_knowledge) (arcana), [Knowledge](../skills/knowledge#_knowledge) (religion), [Perception](../skills/perception#_perception), [Sense Motive](../skills/senseMotive#_sense-motive), [Spellcraft](../skills/spellcraft#_spellcraft), and [Stealth](../skills/stealth#_stealth). Skills gained from class levels remain unchanged.
 
 **Feats** : A skeletal champion gains [Improved Initiative](../feats#_improved-initiative) as a bonus feat.
 
-**Saves** : Base save bonuses for racial Hit Dice are Fort +1_dir/3 HD, Ref +1_dir/3 HD, and Will +1_dir/2 HD + 2.
+**Saves** : Base save bonuses for racial Hit Dice are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
 

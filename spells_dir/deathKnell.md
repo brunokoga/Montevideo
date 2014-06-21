@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/deathKnell
+title: spells/deathKnell
 ---
  **Death Knell**
 
@@ -14,7 +14,7 @@ title: spells_dir/deathKnell
 
 **Target** living creature touched
 
-**Duration** instantaneous_dir/10 minutes per HD of subject; see text
+**Duration** instantaneous/10 minutes per HD of subject; see text
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

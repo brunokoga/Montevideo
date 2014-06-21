@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/stinkingCloud
+title: spells/stinkingCloud
 ---
  **Stinking Cloud**
 
-**School** conjuration (creation); **Level** sorcerer_dir/wizard 3
+**School** conjuration (creation); **Level** sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a rotten egg or cabbage leaves)
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Effect** cloud spreads in 20-ft. radius, 20 ft. high
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

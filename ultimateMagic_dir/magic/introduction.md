@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/magic_dir/introduction
+title: ultimateMagic/magic/introduction
 ---
 # Introduction
 

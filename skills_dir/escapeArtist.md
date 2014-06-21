@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills_dir/escapeArtist
+title: skills/escapeArtist
 ---
 # Escape Artist
 
@@ -20,7 +20,7 @@ _Grappler_: You can make an Escape Artist check in place of a combat maneuver ch
 
 | Restraint | Escape Artist DC |
 | --- | --- |
-| Rope_dir/bindings | Binder's CMB +20 |
+| Rope/bindings | Binder's CMB +20 |
 | Net, _animate rope_, _command plants_, _control plants_, or _entangle_ | 20 |
 | _Snare_ spell | 23 |
 | Manacles | 30 |

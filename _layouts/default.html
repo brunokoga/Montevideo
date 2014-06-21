@@ -1,187 +1,33 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width; initial-scale=1.0, maximum-scale=1">
 
-    <link href="/public/favicon.png" rel="shortcut icon" type="image/png">
-    <link href="http://gmpg.org/xfn/11" rel="profile">
+  {% include head.html %}
 
-    <title>
-      {% if page.title %}{{ page.title }} &middot; {% endif %}
-      Bruno Koga
-    </title>
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="/public/css/hyde.css">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,700|Abril+Fatface">
-
-    <!-- Icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/touch-icon-144-precomposed.png">
-    <link rel="shortcut icon" href="/public/favicon.png">
-
-    <!-- RSS -->
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-  </head>
   <body>
+
     <header class="masthead">
-    <div class="masthead-inner">
-      <!--
-        <h1>Bruno Koga</h1>  
-        <p class="lead">Lead iOS software engineer, columnist, appsterdamer and knowledge sharer.
-        -->
+      <div class="masthead-inner">
+        <h1>{{ site.title }}</h1>
+        <p class="lead">{{ site.description }}</p>
+
         <div class="colophon">
           <ul class="colophon-links">
-              <li><strong>Core Rulebook</strong></li>
-              <li><a href="gettingStarted">Getting Started</a></li>
-              <li><a href="races">Races</a></li>
-              <li><a href="classes">Classes</a></li>
-              <li><a href="usingSkills">Using Skills</a></li>
-              <li><a href="skillDescriptions">Skill Descriptions</a></li>
-              <li><a href="feats">Feats</a></li>
-              <li><a href="equipment">Equipment</a></li>
-              <li><a href="additionalRules">Additional Rules</a></li>
-              <li><a href="combat">Combat</a></li>
-              <li><a href="magic">Magic</a></li>
-              <li><a href="spellLists">Spell Lists</a></li>
-              <li><a href="spellIndex">Spell Index</a></li>
-              <li><a href="prestigeClasses">Prestige Classes</a></li>
-              <li><a href="gamemastering">Gamemastering</a></li>
-              <li><a href="environment">Environment</a></li>
-              <li><a href="nPCClasses">NPC Classes</a></li>
-              <li><a href="creatingNPCs">Creating NPCs</a></li>
-              <li><a href="magicItems">Magic Items</a></li>
-              <li><a href="glossary">Glossary</a></li>
-            </ul>
-            <ul>
-              <li><strong>Advanced Player&#39;s Guide</strong></li>
-              <li><a href="advanced_dir/advancedRaces">Races</a></li>
-              <li><a href="advanced_dir/advancedBaseClasses">Base Classes</a></li>
-              <li><a href="advanced_dir/advancedCoreClasses">Core Classes</a></li>
-              <li><a href="advanced_dir/advancedPrestigeClasses">Prestige Classes</a></li>
-              <li><a href="advanced_dir/advancedFeats">Feats</a></li>
-              <li><a href="advanced_dir/advancedGear">Gear</a></li>
-              <li><a href="advanced_dir/advancedSpellLists">Spell Lists</a></li>
-              <li><a href="advanced_dir/advancedSpellIndex">Spell Index</a></li>
-              <li><a href="advanced_dir/advancedMagicItems">Magic Items</a></li>
-              <li><a href="advanced_dir/advancedNewRules">New Rules</a>
-              | </li>
-              <li><strong>Advanced Race Guide</strong></li>
-              <li><a href="advancedRaceGuide_dir/coreRaces">Core Races</a></li>
-              <li><a href="advancedRaceGuide_dir/featuredRaces">Featured Races</a></li>
-              <li><a href="advancedRaceGuide_dir/uncommonRaces">Uncommon Races</a></li>
-              <li><a href="advancedRaceGuide_dir/raceBuilder">Race Builder</a></li>
-              <li><a href="advancedRaceGuide_dir/ageHeightWeight">Age, Height &amp; Weight</a></li>
-              <li><a href="advancedRaceGuide_dir/spellLists">Spell Lists</a></li>
-            </ul>
-            <ul>
-              <li><strong>Ultimate Combat</strong></li>
-              <li><a href="ultimateCombat_dir/classes_dir/gunslinger">Gunslinger</a></li>
-              <li><a href="ultimateCombat_dir/classes_dir/ninja">Ninja</a></li>
-              <li><a href="ultimateCombat_dir/classes_dir/samurai">Samurai</a></li>
-              <li><a href="ultimateCombat_dir/classArchetypes">Class Archetypes</a></li>
-              <li><a href="ultimateCombat_dir/ultimateCombatFeats">Feats</a></li>
-              <li><a href="ultimateCombat_dir/combat_dir/introduction">Mastering Combat</a></li>
-              <li><a href="ultimateCombat_dir/ultimateCombatVehicles">Vehicles</a></li>
-              <li><a href="ultimateCombat_dir/variants_dir/introduction">Variant Rules</a></li>
-              <li><a href="ultimateCombat_dir/ultimateCombatSpellIndex">Spell Index</a></li>
-              <li><a href="ultimateCombat_dir/ultimateCombatSpellLists">Spell Lists</a></li>
-            </ul>
-            <ul>
-              <li><strong>Ultimate Magic</strong></li>
-              <li><a href="ultimateMagic_dir/spellcasters_dir/magus">Magus</a></li>
-              <li><a href="ultimateMagic_dir/spellcastingClassOptions">Spellcasting Class Options</a></li>
-              <li><a href="ultimateMagic_dir/magic_dir/introduction">Mastering Magic</a></li>
-              <li><a href="ultimateMagic_dir/ultimateMagicFeats">Feats</a></li>
-              <li><a href="ultimateMagic_dir/ultimateMagicWordsOfPower">Words of Power</a></li>
-              <li><a href="ultimateMagic_dir/ultimateMagicSpellIndex">Spells</a></li>
-              <li><a href="ultimateMagic_dir/ultimateMagicSpellLists">Spell Lists</a></li>
-              <li><a href="ultimateMagic_dir/ultimateMagicAppendices">Updates</a>
-              | </li>
-              <li><strong>Ultimate Equipment</strong></li>
-              <li><a href="ultimateEquipment_dir/armsAndArmor_dir/index">Arms and Armor</a></li>
-              <li><a href="ultimateEquipment_dir/gear_dir/index">Gear</a></li>
-              <li><a href="ultimateEquipment_dir/magicArmsAndArmor_dir/index">Magic Arms and Armor</a></li>
-              <li><a href="ultimateEquipment_dir/ringsRodsStaves_dir/index">Rings, Rods, and Staves</a></li>
-              <li><a href="ultimateEquipment_dir/wondrousItems_dir/index">Wondrous Items</a></li>
-              <li><a href="ultimateEquipment_dir/artifactsAndOthers_dir/index">Artifacts and Other Items</a></li>
-              <li><a href="ultimateEquipment_dir/appendix">Appendix</a></li>
-            </ul>
-            <ul>
-              <li><strong>Game Mastery Guide</strong></li>
-              <li><a href="mastery_dir/planarAdventures">Planar Adventures</a></li>
-              <li><a href="mastery_dir/settlements">Settlements</a></li>
-              <li><a href="mastery_dir/fastPlayShipCombat">Fast Play Ship Combat</a></li>
-              <li><a href="mastery_dir/chases">Chases</a></li>
-              <li><a href="mastery_dir/disasters">Disasters</a></li>
-              <li><a href="mastery_dir/drugsAndAddiction">Drugs and Addiction</a></li>
-              <li><a href="mastery_dir/haunts">Haunts</a></li>
-              <li><a href="mastery_dir/hazards">Hazards</a></li>
-              <li><a href="mastery_dir/sanityAndMadness">Sanity and Madness</a></li>
-              <li><a href="mastery_dir/npcBoons">NPC Boons</a></li>
-              <li><a href="mastery_dir/npcGallery">NPC Gallery</a></li>
-            </ul>
-            <ul>
-              <li><strong>Ultimate Campaign</strong></li>
-              <li><a href="ultimateCampaign_dir/characterBackground">Character Background</a></li>
-              <li><a href="ultimateCampaign_dir/downtime">Downtime</a></li>
-              <li><a href="ultimateCampaign_dir/campaignSystems">Campaign Systems</a></li>
-              <li><a href="ultimateCampaign_dir/kingdomsAndWar">Kingdoms and War</a>
-              | </li>
-              <li><strong>Mythic Adventures</strong></li>
-              <li><a href="mythicAdventures_dir/Glossary">Glossary</a></li>
-              <li><a href="mythicAdventures_dir/mythicHeroes">Mythic Heroes</a></li>
-              <li><a href="mythicAdventures_dir/mythicFeats">Mythic Feats</a></li>
-              <li><a href="mythicAdventures_dir/mythicSpells">Mythic Spells</a></li>
-              <li><a href="mythicAdventures_dir/mythicSpells_dir/spellIndex">Mythic Spell Index</a></li>
-              <li><a href="mythicAdventures_dir/mythicSpells_dir/spellLists">Mythic Spell Lists</a></li>
-              <li><a href="mythicAdventures_dir/mythicGame">Running a Mythic Game</a></li>
-              <li><a href="mythicAdventures_dir/mythicItems">Mythic Magic Items</a></li>
-              <li><a href="mythicAdventures_dir/mythicMonsters">Mythic Monsters</a></li>
-            </ul>
-            <ul>
-              <li><strong>NPC Codex</strong></li>
-              <li><a href="npcCodex_dir/core_dir/index">Core Classes</a></li>
-              <li><a href="npcCodex_dir/prestige_dir/index">Prestige Classes</a></li>
-              <li><a href="npcCodex_dir/npc_dir/index">NPC Classes</a></li>
-              <li><a href="npcCodex_dir/appendix">Appendix</a>
-              | </li>
-              <li><strong>Bestiaries</strong></li>
-              <li><a href="monsters_dir/introduction">Monster Introduction</a></li>
-              <li><a href="monsters_dir/monsterIndex"><em>Bestiary</em> Monster Index</a></li>
-              <li><a href="additionalMonsters_dir/additionalMoells</a></li>
-              <li><a href="mythicAdventures_dir/mythicSpells_ href="bestiary3_dir/monsterIndex"><em>Bestiary 3</em> Monster Index</a></li>
-              <li><a href="monsters_dir/variantMonsterIndex">Variant Monster Index</a></li>
-              <li><a href="monsters_dir/monsterCohorts">Monster Cohorts</a></li>
-              <li><a href="monsters_dir/animalCompanions">Animal Companions</a></li>
-              <li><a href="monsters_dir/monstersAsPCs">Monsters as PCs</a></li>
-              <li><a href="monsters_dir/monsterRoles">Monster Roles</a></li>
-              <li><a href="monsters_dir/encounterTables"><em>Bestiary</em> Encounter Tables</a></li>
-              <li><a href="monsters_dir/monsterCreation">Monster Creation</a></li>
-              <li><a href="monsters_dir/monsterAdvancement">Monster Advancement</a></li>
-              <li><a href="monsters_dir/universalMonsterRules">Universal Monster Rules</a></li>
-              <li><a href="monsters_ion</a></li>
-              <li><a href="monsters_dir/monsterIndex"><em>Besters_dir/monsterFeats">Monster Feats</a></li>
-                <li><a href="monsters_dir/monstersByType"><em>Bestiary</em> Monsters by Type</a></li>
-                <li><a href="monsters_dir/monstersByCR"><em>Bestiary</em> Monsters by CR</a></li>
-                <li><a href="monsters_dir/monstersByTerrain"><em>Bestiary</em> Monsters by Terrain</a></li>
-              </ul>
-              <ul>
-                <li><strong>Index</strong></li>
-                <li><a href="indices_dir/feats">Feats Index</a></li>
-                <li><a href="indices_dir/magicitems">Magic Item Index</a></li>
-                <li><a href="indices_dir/spells">Spell Index</a></li>
-                <li><a href="indices_dir/spelllists">Spell List Index</a>
-                </li>
-              </ul>
+            <li>
+              <a href="https://github.com/mdo/hyde/archive/v{{ site.version }}.zip">Download</a>
+            </li>
+            <li>
+              <a href="https://github.com/mdo/hyde">GitHub project</a>
+            </li>
+            <li>Currently v{{ site.version }}</li>
+          </ul>
+          <p>&copy; 2014. {{ site.author.name }} All rights reserved.</p>
         </div>
-
       </div>
     </header>
 
     <div class="content container">
       {{ content }}
     </div>
-<script type="text/javascript" src="/_js/retina.js"></script>
+
   </body>
 </html>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/troll
+title: monsters/troll
 ---
 # Troll
 
@@ -12,7 +12,7 @@ _This tall creature has rough, green hide. Its hands end in claws, and its besti
 
 CE Large [humanoid](creatureTypes#_humanoid) (giant)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +8
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +8
 
 **Defense**
 
@@ -38,9 +38,9 @@ CE Large [humanoid](creatureTypes#_humanoid) (giant)
 
 **Base**  **Atk** +4; **CMB** +10; **CMD** 22
 
-**Feats** [Intimidating Prowess](../feats#_intimidating-prowess), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Intimidating Prowess](../feats#_intimidating-prowess), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
 
-**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +9, [Perception](../skills_dir/perception#_perception) +8
+**Skills** [Intimidate](../skills/intimidate#_intimidate) +9, [Perception](../skills/perception#_perception) +8
 
 **Languages** Giant
 

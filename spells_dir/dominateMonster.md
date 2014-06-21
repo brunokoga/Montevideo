@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/dominateMonster
+title: spells/dominateMonster
 ---
  **Dominate Monster**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer_dir/wizard 9
+**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 9
 
 **Target** one creature
 

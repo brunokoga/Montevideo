@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/produceFlame
+title: spells/produceFlame
 ---
  **Produce Flame**
 
@@ -14,7 +14,7 @@ title: spells_dir/produceFlame
 
 **Effect** flame in your palm
 
-**Duration** 1 min._dir/level (D)
+**Duration** 1 min./level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

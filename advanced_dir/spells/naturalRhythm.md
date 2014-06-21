@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/naturalRhythm
+title: advanced/spells/naturalRhythm
 ---
  **Natural Rhythm**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/naturalRhythm
 
 **Target** creature touched
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

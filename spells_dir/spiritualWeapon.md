@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/spiritualWeapon
+title: spells/spiritualWeapon
 ---
  **Spiritual Weapon**
 
@@ -10,11 +10,11 @@ title: spells_dir/spiritualWeapon
 
 **Components** V, S, DF
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Effect** magic weapon of force
 
-**Duration** 1 round_dir/level (D)
+**Duration** 1 round/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 
@@ -22,7 +22,7 @@ A weapon made of force appears and attacks foes at a distance, as you direct it,
 
 Each round after the first, you can use a move action to redirect the weapon to a new target. If you do not, the weapon continues to attack the previous round's target. On any round that the weapon switches targets, it gets one attack. Subsequent rounds of attacking that target allow the weapon to make multiple attacks if your base attack bonus would allow it to. Even if the _spiritual weapon _is a ranged weapon, use the spell's range, not the weapon's normal range increment, and switching targets still is a move action.
 
-A _spiritual weapon _cannot be attacked or harmed by physical attacks, but _ [dispel magic](dispelMagic#_dispel-magic)_, _ [disintegrate](disintegrate#_disintegrate)_, a _ [sphere of annihilation](../magicItems_dir/artifacts#_sphere-of-annihilation)_, or a _ [rod of cancellation](../magicItems_dir/rods#_rod-of-cancellation) _affects it. A _spiritual weapon_'s [AC](../combat#_armor-class) against touch attacks is 12 (10 + size bonus for Tiny object).
+A _spiritual weapon _cannot be attacked or harmed by physical attacks, but _ [dispel magic](dispelMagic#_dispel-magic)_, _ [disintegrate](disintegrate#_disintegrate)_, a _ [sphere of annihilation](../magicItems/artifacts#_sphere-of-annihilation)_, or a _ [rod of cancellation](../magicItems/rods#_rod-of-cancellation) _affects it. A _spiritual weapon_'s [AC](../combat#_armor-class) against touch attacks is 12 (10 + size bonus for Tiny object).
 
 If an attacked creature has [spell resistance](../glossary#_spell-resistance), you make a caster level check (1d20 + caster level) against that [spell resistance](../glossary#_spell-resistance) the first time the _spiritual weapon _strikes it. If the weapon is successfully resisted, the spell is dispelled. If not, the weapon has its normal full effect on that creature for the duration of the spell.
 

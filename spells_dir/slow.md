@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/slow
+title: spells/slow
 ---
  **Slow**
 
-**School** transmutation; **Level** bard 3, sorcerer_dir/wizard 3
+**School** transmutation; **Level** bard 3, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a drop of molasses)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
-**Targets** one creature_dir/level, no two of which can be more than 30 ft. apart
+**Targets** one creature/level, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

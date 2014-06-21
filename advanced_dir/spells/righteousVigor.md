@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/righteousVigor
+title: advanced/spells/righteousVigor
 ---
  **Righteous Vigor**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/righteousVigor
 
 **Target** creature touched
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

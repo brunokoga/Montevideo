@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/oracleSBurden
+title: advanced/spells/oracleSBurden
 ---
  **Oracle's Burden**
 
@@ -10,11 +10,11 @@ title: advanced_dir/spells_dir/oracleSBurden
 
 **Components** V
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Target** one creature
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

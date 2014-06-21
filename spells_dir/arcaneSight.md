@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/arcaneSight
+title: spells/arcaneSight
 ---
  **Arcane Sight**
 
-**School** divination; **Level** sorcerer_dir/wizard 3
+**School** divination; **Level** sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/arcaneSight
 
 **Target** you
 
-**Duration** 1 min._dir/level (D)
+**Duration** 1 min./level (D)
 
 This spell makes your eyes glow blue and allows you to see magical auras within 120 feet of you. The effect is similar to that of a _ [detect magic](detectMagic#_detect-magic) _spell, but _arcane sight _does not require concentration and discerns aura location and power more quickly.
 
@@ -28,7 +28,7 @@ _Arcane sight _can be made permanent with a _ [permanency](permanency#_permanenc
 
 **Arcane Sight, Greater**
 
-**School** divination; **Level** sorcerer_dir/wizard 7
+**School** divination; **Level** sorcerer/wizard 7
 
 This spell functions like _arcane sight, _except that you automatically know which spells or magical effects are active upon any individual or object you see.
 

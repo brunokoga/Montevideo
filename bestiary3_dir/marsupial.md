@@ -1,18 +1,18 @@
 ---
 layout: default
-title: bestiary3_dir/marsupial
+title: bestiary3/marsupial
 ---
 # Marsupial, Kangaroo
 
 As tall as a grown human, this mouse-faced creature stands on powerful hind legs and has a stout tail trailing behind.
 
-Kangaroo CR 1_dir/2
+Kangaroo CR 1/2
 
 XP 200
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +4
+**Init** +3; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +4
 
 Defense
 
@@ -34,9 +34,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +1; **CMD** 14
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Acrobatics](skills_dir/acrobatics#_acrobatics))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Acrobatics](skills/acrobatics#_acrobatics))
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +14 (+18 when jumping), [Perception](skills_dir/perception#_perception) +4
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +14 (+18 when jumping), [Perception](skills/perception#_perception) +4
 
 Ecology
 
@@ -50,19 +50,19 @@ These strange-looking animals have long pointy ears and pronounced muzzles, and 
 
 While not particularly dangerous, a kangaroo is more than capable of defending itself if cornered or when forced to protect its young, striking out at foes with a powerful kick capable of knocking unwary antagonists off their feet.
 
-A kangaroo stands over 6-1_dir/2 feet tall and weighs upward of 200 pounds. To represent a smaller species standing about 4 feet tall and weighing 110 pounds, apply the young simple template or manually reduce the size from Medium to Small. Kangaroos reach maturity in less than a year and can live up to 20 years, but most individuals in the wild are hunted by predators within their first decade.
+A kangaroo stands over 6-1/2 feet tall and weighs upward of 200 pounds. To represent a smaller species standing about 4 feet tall and weighing 110 pounds, apply the young simple template or manually reduce the size from Medium to Small. Kangaroos reach maturity in less than a year and can live up to 20 years, but most individuals in the wild are hunted by predators within their first decade.
 
 # Marsupial, Thylacine
 
 This catlike creature has a striped pelt and whiskers that jut from a long muzzle filled with sharp teeth.
 
-Thylacine CR 1_dir/2
+Thylacine CR 1/2
 
 XP 200
 
 N Small animal
 
-**Init** +2; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision; [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -76,7 +76,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** bite +2 (1d4+1_dir/19–20)
+**Melee** bite +2 (1d4+1/19–20)
 
 Statistics
 
@@ -84,9 +84,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 12 (16 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Perception](skills_dir/perception#_perception) +8
+**Skills** [Perception](skills/perception#_perception) +8
 
 **SQ** powerful jaws
 

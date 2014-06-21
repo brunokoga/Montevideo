@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/arcaneLock
+title: spells/arcaneLock
 ---
  **Arcane Lock**
 
-**School** abjuration; **Level** sorcerer_dir/wizard 2
+**School** abjuration; **Level** sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -12,7 +12,7 @@ title: spells_dir/arcaneLock
 
 **Range** touch
 
-**Target** door, chest, or portal touched, up to 30 sq. ft._dir/level in size
+**Target** door, chest, or portal touched, up to 30 sq. ft./level in size
 
 **Duration** permanent
 

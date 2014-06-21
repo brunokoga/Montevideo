@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/timeStop
+title: spells/timeStop
 ---
  **Time Stop**
 
-**School** transmutation; **Level** sorcerer_dir/wizard 9
+**School** transmutation; **Level** sorcerer/wizard 9
 
 **Casting Time** 1 standard action
 

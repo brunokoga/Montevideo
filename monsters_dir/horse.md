@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/horse
+title: monsters/horse
 ---
 # Horse
 
@@ -12,7 +12,7 @@ _This proud horse thunders across the grassy plain with fluid grace, wind tuggin
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +6
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +6
 
 **Defense**
 
@@ -38,7 +38,7 @@ N Large [animal](creatureTypes#_animal)
 
 **Feats** [Endurance](../feats#_endurance), [Run](../feats#_run)B
 
-**Skills** [Perception](../skills_dir/perception#_perception) +6
+**Skills** [Perception](../skills/perception#_perception) +6
 
 **SQ** docile
 
@@ -52,25 +52,25 @@ N Large [animal](creatureTypes#_animal)
 
 **Special Abilities**
 
-**Docile (Ex)** Unless specifically trained for combat (see the [Handle Animal](../skills_dir/handleAnimal#_handle-animal) skill, a horse's hooves are treated as secondary attacks.
+**Docile (Ex)** Unless specifically trained for combat (see the [Handle Animal](../skills/handleAnimal#_handle-animal) skill, a horse's hooves are treated as secondary attacks.
 
 Horses stand 5 to 6 feet tall at the shoulder and weigh between 1,000 and 1,500 pounds.
 
 The statistics above are for a typical riding horse, called by some a “light horse.” Some horses are larger and heartier, bred for labor such as pulling plows or carriages. These horses are called “heavy horses” and gain the following adjustments to the base statistics detailed above.
 
-**Heavy Horse** : A heavy horse gains the advanced simple template. In addition, it also gains a bite attack that inflicts 1d4 damage, and its hoof damage increases to 1d6. As with a light horse, a heavy horse can be specifically trained for combat with the [Handle Animal](../skills_dir/handleAnimal#_handle-animal) skill.
+**Heavy Horse** : A heavy horse gains the advanced simple template. In addition, it also gains a bite attack that inflicts 1d4 damage, and its hoof damage increases to 1d6. As with a light horse, a heavy horse can be specifically trained for combat with the [Handle Animal](../skills/handleAnimal#_handle-animal) skill.
 
 # Horse, Pony
 
 _This squat equine plods forward with large, curious eyes. As it nears, it extends its muzzle, clearly expecting a treat._
 
-**Pony CR 1_dir/2**
+**Pony CR 1/2**
 
 **XP 200**
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +5
+**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +5
 
 **Defense**
 
@@ -94,7 +94,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Feats** [Endurance](../feats#_endurance), [Run](../feats#_run)B
 
-**Skills** [Perception](../skills_dir/perception#_perception) +5
+**Skills** [Perception](../skills/perception#_perception) +5
 
 **SQ** docile (see horse)
 
@@ -110,5 +110,5 @@ Ponies are smaller breeds of horses better suited to halflings, gnomes, and dwar
 
 A light load for a pony is up to 100 pounds, a medium load is 101–200 pounds, and a heavy load is 201–300 pounds. A pony can drag 1,500 pounds.
 
-The statistics presented above are for a typical pony. Tougher ponies with the advanced simple template exist, but are relatively uncommon and, unlike horses, these creatures are not generally called “heavy ponies.” Like horses, ponies can be trained for combat with the [Handle Animal](../skills_dir/handleAnimal#_handle-animal) skill, and such mounts often serve halflings, gnomes, and other small races as steeds in combat.
+The statistics presented above are for a typical pony. Tougher ponies with the advanced simple template exist, but are relatively uncommon and, unlike horses, these creatures are not generally called “heavy ponies.” Like horses, ponies can be trained for combat with the [Handle Animal](../skills/handleAnimal#_handle-animal) skill, and such mounts often serve halflings, gnomes, and other small races as steeds in combat.
 

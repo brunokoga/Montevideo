@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/chillTouch
+title: spells/chillTouch
 ---
  **Chill Touch**
 
-**School** necromancy; **Level** sorcerer_dir/wizard 1
+**School** necromancy; **Level** sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -12,7 +12,7 @@ title: spells_dir/chillTouch
 
 **Range** touch
 
-**Targets** creature or creatures touched (up to one_dir/level)
+**Targets** creature or creatures touched (up to one/level)
 
 **Duration** instantaneous
 

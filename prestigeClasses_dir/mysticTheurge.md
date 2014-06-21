@@ -1,6 +1,6 @@
 ---
 layout: default
-title: prestigeClasses_dir/mysticTheurge
+title: prestigeClasses/mysticTheurge
 ---
 # Mystic Theurge
 
@@ -18,38 +18,38 @@ Mystic theurges are drawn from multiclass spellcasters who can already cast both
 
 To qualify to become a mystic theurge, a character must fulfill all the following criteria.
 
-**Skills** : [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) 3 ranks, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) 3 ranks.
+**Skills** : [Knowledge](../skills/knowledge#_knowledge) (arcana) 3 ranks, [Knowledge](../skills/knowledge#_knowledge) (religion) 3 ranks.
 
 **Spells** : Able to cast 2nd-level divine spells and 2nd-level arcane spells.
 
 ## Class Skills
 
-The mystic theurge's class skills (and the key ability for each skill) are [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills_dir/knowledge#_knowledge) (religion) ( [Int](../gettingStarted#_intelligence)), [Sense Motive](../skills_dir/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)), and [Spellcraft](../skills_dir/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)).
+The mystic theurge's class skills (and the key ability for each skill) are [Knowledge](../skills/knowledge#_knowledge) (arcana) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills/knowledge#_knowledge) (religion) ( [Int](../gettingStarted#_intelligence)), [Sense Motive](../skills/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)), and [Spellcraft](../skills/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)).
 
 **Skill Ranks at Each Level** : 2 + [Int](../gettingStarted#_intelligence) modifier.
 
 [Table: Mystic Theurge]
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +1 | Combined spells (1st) | +1 level of existing arcane spellcasting class_dir/  
+| 1st | +0 | +0 | +0 | +1 | Combined spells (1st) | +1 level of existing arcane spellcasting class/  
 +1 level of existing divine spellcasting class |
-| 2nd | +1 | +1 | +1 | +1 | | +1 level of existing arcane spellcasting class_dir/  
+| 2nd | +1 | +1 | +1 | +1 | | +1 level of existing arcane spellcasting class/  
 +1 level of existing divine spellcasting class |
-| 3rd | +1 | +1 | +1 | +2 | Combined spells (2nd) | +1 level of existing arcane spellcasting class_dir/  
+| 3rd | +1 | +1 | +1 | +2 | Combined spells (2nd) | +1 level of existing arcane spellcasting class/  
 +1 level of existing divine spellcasting class |
-| 4th | +2 | +1 | +1 | +2 | | +1 level of existing arcane spellcasting class_dir/  
+| 4th | +2 | +1 | +1 | +2 | | +1 level of existing arcane spellcasting class/  
 +1 level of existing divine spellcasting class |
-| 5th | +2 | +2 | +2 | +3 | Combined spells (3rd) | +1 level of existing arcane spellcasting class_dir/  
+| 5th | +2 | +2 | +2 | +3 | Combined spells (3rd) | +1 level of existing arcane spellcasting class/  
 +1 level of existing divine spellcasting class |
-| 6th | +3 | +2 | +2 | +3 | | +1 level of existing arcane spellcasting class_dir/  
+| 6th | +3 | +2 | +2 | +3 | | +1 level of existing arcane spellcasting class/  
 +1 level of existing divine spellcasting class |
-| 7th | +3 | +2 | +2 | +4 | Combined spells (4th) | +1 level of existing arcane spellcasting class_dir/  
+| 7th | +3 | +2 | +2 | +4 | Combined spells (4th) | +1 level of existing arcane spellcasting class/  
 +1 level of existing divine spellcasting class |
-| 8th | +4 | +3 | +3 | +4 | | +1 level of existing arcane spellcasting class_dir/  
+| 8th | +4 | +3 | +3 | +4 | | +1 level of existing arcane spellcasting class/  
 +1 level of existing divine spellcasting class |
-| 9th | +4 | +3 | +3 | +5 | Combined spells (5th) | +1 level of existing arcane spellcasting class_dir/  
+| 9th | +4 | +3 | +3 | +5 | Combined spells (5th) | +1 level of existing arcane spellcasting class/  
 +1 level of existing divine spellcasting class |
-| 10th | +5 | +3 | +3 | +5 | Spell synthesis | +1 level of existing arcane spellcasting class_dir/  
+| 10th | +5 | +3 | +3 | +5 | Spell synthesis | +1 level of existing arcane spellcasting class/  
 +1 level of existing divine spellcasting class |
 
 ## Class Features
@@ -62,7 +62,7 @@ All of the following are features of the mystic theurge prestige class.
 
 **Combined Spells (Su)** : A mystic theurge can prepare and cast spells from one of his spellcasting classes using the available slots from any of his other spellcasting classes. Spells prepared or cast in this way take up a slot one level higher than they originally occupied. This ability cannot be used to cast a spell at a lower level if that spell exists on both spell lists. At 1st level, a mystic theurge can prepare 1st-level spells from one of his spellcasting classes using the 2nd-level slots of the other spellcasting class. Every two levels thereafter, the level of spells that can be cast in this way increases by one, to a maximum of 5th-level spells at 9th level (these spells would take up 6th-level spell slots). The components of these spells do not change, but they otherwise follow the rules for the spellcasting class used to cast the spell.
 
-Spontaneous spellcasters can only select spells that they have prepared that day using non-spontaneous classes for this ability, even if the spells have already been cast. For example, a cleric_dir/sorcerer_dir/mystic theurge can use this ability to spontaneously cast a _ [bless](../spells_dir/bless#_bless)_ spell using a 2nd-level sorcerer spell slot, if the character had a prepared _ [bless](../spells_dir/bless#_bless) _spell using a 1st-level cleric spell slot, even if that spell had already been cast that day.
+Spontaneous spellcasters can only select spells that they have prepared that day using non-spontaneous classes for this ability, even if the spells have already been cast. For example, a cleric/sorcerer/mystic theurge can use this ability to spontaneously cast a _ [bless](../spells/bless#_bless)_ spell using a 2nd-level sorcerer spell slot, if the character had a prepared _ [bless](../spells/bless#_bless) _spell using a 1st-level cleric spell slot, even if that spell had already been cast that day.
 
 **Spell Synthesis (Su)** : At 10th level, a mystic theurge can cast two spells, one from each of his spellcasting classes, using one action. Both of the spells must have the same casting time. The mystic theurge can make any decisions concerning the spells independently. Any target affected by both of the spells takes a –2 penalty on saves made against each spell. The mystic theurge receives a +2 bonus on caster level checks made to overcome spell resistance with these two spells. A mystic theurge may use this ability once per day.
 

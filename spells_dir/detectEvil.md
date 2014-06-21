@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/detectEvil
+title: spells/detectEvil
 ---
  **Detect Evil**
 
@@ -14,7 +14,7 @@ title: spells_dir/detectEvil
 
 **Area** cone-shaped emanation
 
-**Duration** concentration, up to 10 min._dir/ level (D)
+**Duration** concentration, up to 10 min./ level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 
@@ -43,8 +43,8 @@ Animals, traps, poisons, and other potential perils are not evil, and as such th
 
 Each round, you can turn to detect evil in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 
-[Detect Chaos_dir/Evil_dir/Good_dir/Law]
-| Creature_dir/Object | Aura Power |
+[Detect Chaos/Evil/Good/Law]
+| Creature/Object | Aura Power |
 | --- | --- |
 | None | Faint | Moderate | Strong | Overwhelming |
 | --- | --- | --- | --- | --- |

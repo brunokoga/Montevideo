@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/blasphemy
+title: spells/blasphemy
 ---
  **Blasphemy**
 

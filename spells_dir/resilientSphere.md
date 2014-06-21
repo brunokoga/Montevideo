@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/resilientSphere
+title: spells/resilientSphere
 ---
  **Resilient Sphere**
 
-**School** evocation [force]; **Level** sorcerer_dir/wizard 4
+**School** evocation [force]; **Level** sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S, F (a crystal sphere)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
-**Effect** 1-ft.-diameter_dir/level sphere, centered around a creature
+**Effect** 1-ft.-diameter/level sphere, centered around a creature
 
-**Duration** 1 min._dir/level (D)
+**Duration** 1 min./level (D)
 
 **Saving Throw** [Reflex](../combat#_reflex) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/vampiricTouch
+title: spells/vampiricTouch
 ---
  **Vampiric touch**
 
-**School** necromancy; **Level** sorcerer_dir/wizard 3
+**School** necromancy; **Level** sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/vampiricTouch
 
 **Target** living creature touched
 
-**Duration** instantaneous_dir/1 hour; see text
+**Duration** instantaneous/1 hour; see text
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

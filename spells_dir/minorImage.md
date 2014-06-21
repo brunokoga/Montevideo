@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/minorImage
+title: spells/minorImage
 ---
  **Minor Image**
 
-**School** illusion (figment); **Level** bard 2, sorcerer_dir/wizard 2
+**School** illusion (figment); **Level** bard 2, sorcerer/wizard 2
 
 **Duration** concentration + 2 rounds
 

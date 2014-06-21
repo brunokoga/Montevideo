@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/unhallow
+title: spells/unhallow
 ---
  **Unhallow**
 
@@ -26,7 +26,7 @@ Second, the DC to resist negative channeled energy within the spell's area of ef
 
 Finally, you may choose to fix a single spell effect to the _unhallowed _site. The spell effect lasts for 1 year and functions throughout the entire site, regardless of its normal duration and area or effect. You may designate whether the effect applies to all creatures, creatures that share your faith or alignment, or creatures that adhere to another faith or alignment. At the end of the year, the chosen effect lapses, but it can be renewed or replaced simply by casting _unhallow _again.
 
-Spell effects that may be tied to an _unhallowed _site include _ [aid](aid#_aid), [bane](bane#_bane), [bless](bless#_bless), [cause fear](spells_dir/causeFear#_cause-fear), [darkness](darkness#_darkness), [daylight](daylight#_daylight), [death ward](deathWard#_death-ward), [deeper darkness](deeperDarkness#_deeper-darkness), [detect magic](detectMagic#_detect-magic), [detect good](detectGood#_detect-good), [dimensional anchor](dimensionalAnchor#_dimensional-anchor), [discern lies](discernLies#_discern-lies), [dispel magic](dispelMagic#_dispel-magic), [endure elements](endureElements#_endure-elements), [freedom of movement](freedomOfMovement#_freedom-of-movement), [invisibility purge](invisibilityPurge#_invisibility-purge), [protection from energy](protectionFromEnergy#_protection-from-energy), [remove fear](spells_dir/removeFear#_remove-fear), [resist energy](resistEnergy#_resist-energy), [silence](silence#_silence), [tongues](tongues#_tongues), _and _ [zone of truth](zoneOfTruth#_zone-of-truth)_.
+Spell effects that may be tied to an _unhallowed _site include _ [aid](aid#_aid), [bane](bane#_bane), [bless](bless#_bless), [cause fear](spells/causeFear#_cause-fear), [darkness](darkness#_darkness), [daylight](daylight#_daylight), [death ward](deathWard#_death-ward), [deeper darkness](deeperDarkness#_deeper-darkness), [detect magic](detectMagic#_detect-magic), [detect good](detectGood#_detect-good), [dimensional anchor](dimensionalAnchor#_dimensional-anchor), [discern lies](discernLies#_discern-lies), [dispel magic](dispelMagic#_dispel-magic), [endure elements](endureElements#_endure-elements), [freedom of movement](freedomOfMovement#_freedom-of-movement), [invisibility purge](invisibilityPurge#_invisibility-purge), [protection from energy](protectionFromEnergy#_protection-from-energy), [remove fear](spells/removeFear#_remove-fear), [resist energy](resistEnergy#_resist-energy), [silence](silence#_silence), [tongues](tongues#_tongues), _and _ [zone of truth](zoneOfTruth#_zone-of-truth)_.
 
 Saving throws and [spell resistance](../glossary#_spell-resistance) might apply to these spells' effects. (See the individual spell descriptions for details.)
 

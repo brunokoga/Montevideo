@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/owlbear
+title: monsters/owlbear
 ---
 # Owlbear
 
@@ -12,7 +12,7 @@ _An amalgam of fur and feathers, this bizarre half-bear, half-owl monstrosity ra
 
 N Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +12
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +12
 
 **Defense**
 
@@ -36,9 +36,9 @@ N Large [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +5; **CMB** +10 (+14 grapple); **CMD** 21 (25 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
 
-**Skills** [Perception](../skills_dir/perception#_perception) +12
+**Skills** [Perception](../skills/perception#_perception) +12
 
 **Ecology**
 

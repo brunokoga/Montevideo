@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters_dir/catoblepas
+title: additionalMonsters/catoblepas
 ---
 # Catoblepas
 
@@ -10,9 +10,9 @@ This ugly creature has a boar-like head with short antlers, a thick bullish body
 
 **XP 19,200**
 
-N Large [magical beast](monsters_dir/creatureTypes#_magical-beast)
+N Large [magical beast](monsters/creatureTypes#_magical-beast)
 
-**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +25
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +25
 
 **Aura** stench (30 ft., DC 23, 10 rounds)
 
@@ -30,11 +30,11 @@ Offense
 
 **Speed** 40 ft., swim 20 ft.
 
-**Melee** bite +18 (3d6+5), gore +18 (2d8+5_dir/19–20), 2 hooves +16 (1d8+2)
+**Melee** bite +18 (3d6+5), gore +18 (2d8+5/19–20), 2 hooves +16 (1d8+2)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (60-ft. cone, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), Fortitude DC 23, usable every 1d4 rounds), trample (4d6+7, DC 22)
+**Special Attacks** [breath weapon](monsters/universalMonsterRules#_breath-weapon) (60-ft. cone, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), Fortitude DC 23, usable every 1d4 rounds), trample (4d6+7, DC 22)
 
 Statistics
 
@@ -42,9 +42,9 @@ Statistics
 
 **Base Atk** +14; **CMB** +20; **CMD** 29 (33 vs. trip)
 
-**Feats** [Diehard](additionalMonsters_dir/../feats#_diehard), [Endurance](additionalMonsters_dir/../feats#_endurance), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (gore), [Improved Iron Will](additionalMonsters_dir/../feats#_improved-iron-will), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception))
+**Feats** [Diehard](additionalMonsters/../feats#_diehard), [Endurance](additionalMonsters/../feats#_endurance), [Improved Critical](additionalMonsters/../feats#_improved-critical) (gore), [Improved Iron Will](additionalMonsters/../feats#_improved-iron-will), [Iron Will](additionalMonsters/../feats#_iron-will), [Multiattack](additionalMonsters/../monsters/monsterFeats#_multiattack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skills/perception#_perception))
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +25, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +13
+**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +25, [Swim](additionalMonsters/../skills/swim#_swim) +13
 
 **Languages** Aklo
 
@@ -58,7 +58,7 @@ Ecology
 
 Special Abilities
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) Breath (Ex)** A catoblepas's horrid, stinking breath is 60-foot cone of [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) gas. Breath—contact; _save_ Fort DC 23; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d6 Con damage; _cure_ 3 consecutive saves. The save DC is Constitution-based.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) Breath (Ex)** A catoblepas's horrid, stinking breath is 60-foot cone of [poison](monsters/universalMonsterRules#_poison-(ex-or-su)) gas. Breath—contact; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Con damage; _cure_ 3 consecutive saves. The save DC is Constitution-based.
 
 The catoblepas is an aggressive beast at the best of times, willing to knock down trees, fences, even small houses to eat whatever it finds interesting, be that meal plant or animal or human being. Though it prefers swamps, the catoblepas has been known to forage in plains and forests for short periods before returning to the buoyant support of water and mud. Few creatures linger near a catoblepas's feeding ground because of the monster's bad temper and poisonous breath, and only rot-loving predators such as oozes or exceptionally large otyughs have any interest in hunting them.
 

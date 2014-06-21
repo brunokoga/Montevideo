@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/commandWords
+title: ultimateMagic/wordsOfPower/effectwords/commandWords
 ---
 ## Command Words
 
@@ -8,9 +8,9 @@ These words demand action from those that hear them, with near-irresistible forc
 
 Friendship (Command)
 
-**School** enchantment (charm) [mind-affecting]; **Level** bard 1, sorcerer_dir/wizard 1, witch 1
+**School** enchantment (charm) [mind-affecting]; **Level** bard 1, sorcerer/wizard 1, witch 1
 
-**Duration** 10 minutes_dir/level
+**Duration** 10 minutes/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -20,7 +20,7 @@ The target of a wordspell with this effect word treats the caster as a trusted a
 
 Simple Order (Command)
 
-**School** enchantment (compulsion) [language-dependent, mind affecting]; **Level** bard 1, cleric 1, inquisitor 1, sorcerer_dir/wizard 1,   
+**School** enchantment (compulsion) [language-dependent, mind affecting]; **Level** bard 1, cleric 1, inquisitor 1, sorcerer/wizard 1,   
 witch 1
 
 **Duration** 1 round
@@ -45,9 +45,9 @@ _Halt_: The target does not move and takes no other action on its turn, although
 
 Complex Order (Command)
 
-**School** enchantment (compulsion) [language-dependent, mind affecting]; **Level** bard 3, sorcerer_dir/wizard 3, witch 4
+**School** enchantment (compulsion) [language-dependent, mind affecting]; **Level** bard 3, sorcerer/wizard 3, witch 4
 
-**Duration** 10 minutes_dir/level
+**Duration** 10 minutes/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -57,9 +57,9 @@ The target of a wordspell with this effect word must follow the wordcaster's ins
 
 Crush Will (Command)
 
-**School** enchantment (compulsion) [language-dependant, mind-affecting]; **Level** bard 4, sorcerer_dir/wizard 5, witch 5
+**School** enchantment (compulsion) [language-dependant, mind-affecting]; **Level** bard 4, sorcerer/wizard 5, witch 5
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

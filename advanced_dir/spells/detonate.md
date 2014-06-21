@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/detonate
+title: advanced/spells/detonate
 ---
  **Detonate**
 
-**School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 4, sorcerer_dir/wizard 4
+**School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 4, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 

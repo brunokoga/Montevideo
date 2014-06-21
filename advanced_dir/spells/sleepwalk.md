@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/sleepwalk
+title: advanced/spells/sleepwalk
 ---
  **Sleepwalk**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/sleepwalk
 
 **Target** unconscious creature touched
 
-**Duration** 1 hour_dir/level (D)
+**Duration** 1 hour/level (D)
 
 **Saving Throw** Will negates; see text; **Spell Resistance** yes
 

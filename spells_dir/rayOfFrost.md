@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/rayOfFrost
+title: spells/rayOfFrost
 ---
  **Ray of Frost**
 
-**School** evocation [cold]; **Level** sorcerer_dir/wizard 0
+**School** evocation [cold]; **Level** sorcerer/wizard 0
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** ray
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/prestigeClasses_dir/battleHerald
+title: advanced/prestigeClasses/battleHerald
 ---
 # Battle Herald
 
@@ -16,11 +16,11 @@ To qualify to become a battle herald, a character must fulfill all the following
 
 **Special** : Challenge and inspire courage class features.
 
-**Skills** : [Diplomacy](../../skills_dir/diplomacy#_diplomacy) 5 ranks, [Intimidate](../../skills_dir/intimidate#_intimidate) 5 ranks, [Perform](../../skills_dir/perform#_perform) (oratory) 5 ranks, [Profession](../../skills_dir/profession#_profession) (soldier) 2 ranks.
+**Skills** : [Diplomacy](../../skills/diplomacy#_diplomacy) 5 ranks, [Intimidate](../../skills/intimidate#_intimidate) 5 ranks, [Perform](../../skills/perform#_perform) (oratory) 5 ranks, [Profession](../../skills/profession#_profession) (soldier) 2 ranks.
 
 # Class Skills
 
-The battle herald's class skills are [Bluff](../../skills_dir/bluff#_bluff) (Cha), [Craft](../../skills_dir/craft#_craft) (Int), [Diplomacy](../../skills_dir/diplomacy#_diplomacy) (Cha), [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) (Cha), [Heal](../../skills_dir/heal#_heal) (Wis), [Intimidate](../../skills_dir/intimidate#_intimidate) (Cha), [Knowledge](../../skills_dir/knowledge#_knowledge) (engineering) (Int), [Knowledge](../../skills_dir/knowledge#_knowledge) (history) (Int), [Knowledge](../../skills_dir/knowledge#_knowledge) (local) (Int), [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) (Int), [Perception](../../skills_dir/perception#_perception) (Wis), [Profession](../../skills_dir/profession#_profession) (Wis), [Ride](../../skills_dir/ride#_ride) (Dex), and [Sense Motive](../../skills_dir/senseMotive#_sense-motive) (Wis).
+The battle herald's class skills are [Bluff](../../skills/bluff#_bluff) (Cha), [Craft](../../skills/craft#_craft) (Int), [Diplomacy](../../skills/diplomacy#_diplomacy) (Cha), [Handle Animal](../../skills/handleAnimal#_handle-animal) (Cha), [Heal](../../skills/heal#_heal) (Wis), [Intimidate](../../skills/intimidate#_intimidate) (Cha), [Knowledge](../../skills/knowledge#_knowledge) (engineering) (Int), [Knowledge](../../skills/knowledge#_knowledge) (history) (Int), [Knowledge](../../skills/knowledge#_knowledge) (local) (Int), [Knowledge](../../skills/knowledge#_knowledge) (nobility) (Int), [Perception](../../skills/perception#_perception) (Wis), [Profession](../../skills/profession#_profession) (Wis), [Ride](../../skills/ride#_ride) (Dex), and [Sense Motive](../../skills/senseMotive#_sense-motive) (Wis).
 
 **Skill Ranks per Level** : 4 + Int modifier.
 
@@ -54,7 +54,7 @@ Issuing an inspiring command is a move action. At 5th level, this becomes a swif
 
 _Battle Magic\*_: One ally gains a bonus on caster level checks and concentration checks equal to the battle herald's command bonus.
 
-_Inspire Hardiness_: Allies gain DR_dir/— equal to the battle herald's inspiring command bonus.
+_Inspire Hardiness_: Allies gain DR/— equal to the battle herald's inspiring command bonus.
 
 _Inspired Tactics_: Allies apply the battle herald's inspiring command bonus on critical hit confirmation rolls, on combat maneuver checks, and as a dodge bonus to AC against any attacks of opportunity provoked by combat maneuvers.
 
@@ -80,11 +80,11 @@ _Stand Firm_: Allies apply the battle herald's inspiring command bonus to CMD an
 
 _Teamwork_: Allies add the battle herald's inspiring command bonus on skill checks or attack rolls made when using the aid another action, and if successful, the assisted ally increases the aid another bonus by an amount equal to the battle herald's inspiring command bonus.
 
-_Tuck and Roll_: Allies apply the battle herald's inspiring command bonus on Reflex saves and [Acrobatics](../../skills_dir/acrobatics#_acrobatics) checks.
+_Tuck and Roll_: Allies apply the battle herald's inspiring command bonus on Reflex saves and [Acrobatics](../../skills/acrobatics#_acrobatics) checks.
 
 **Improved [Leadership](../../feats#_leadership) (Ex)** : A battle herald with the [Leadership](../../feats#_leadership) feat adds her inspiring command bonus to her leadership score.
 
-**Voice of Authority (Ex)** : A battle herald is skilled at shouting commands over the din of the battlefield and signaling allies when speech is impossible. She gains a +2 bonus on [Diplomacy](../../skills_dir/diplomacy#_diplomacy) and [Intimidate](../../skills_dir/intimidate#_intimidate) checks with creatures with which she shares a language. In addition, her allies gain a bonus equal to the battle herald's class level on [Perception](../../skills_dir/perception#_perception) or [Sense Motive](../../skills_dir/senseMotive#_sense-motive) checks to hear her commands or interpret her secret messages conveyed with [Bluff](../../skills_dir/bluff#_bluff). The battle herald's levels stack with cavalier levels for the purpose of the cavalier's tactician ability.
+**Voice of Authority (Ex)** : A battle herald is skilled at shouting commands over the din of the battlefield and signaling allies when speech is impossible. She gains a +2 bonus on [Diplomacy](../../skills/diplomacy#_diplomacy) and [Intimidate](../../skills/intimidate#_intimidate) checks with creatures with which she shares a language. In addition, her allies gain a bonus equal to the battle herald's class level on [Perception](../../skills/perception#_perception) or [Sense Motive](../../skills/senseMotive#_sense-motive) checks to hear her commands or interpret her secret messages conveyed with [Bluff](../../skills/bluff#_bluff). The battle herald's levels stack with cavalier levels for the purpose of the cavalier's tactician ability.
 
 **Easy March (Ex)** : At 2nd level, allies within 60 feet of the battle herald can hustle or force march during overland travel without ill effects for a number of hours per day equal to 1 hour times her inspiring command bonus.
 

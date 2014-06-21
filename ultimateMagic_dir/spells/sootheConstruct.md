@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/sootheConstruct
+title: ultimateMagic/spells/sootheConstruct
 ---
 Soothe Construct
 
-**School** abjuration; **Level** cleric 4, sorcerer_dir/wizard 5
+**School** abjuration; **Level** cleric 4, sorcerer/wizard 5
 
 **Casting Time** 1 round
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one construct
 

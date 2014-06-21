@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/elementalSwarm
+title: spells/elementalSwarm
 ---
  **Elemental Swarm**
 
@@ -10,11 +10,11 @@ title: spells_dir/elementalSwarm
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Effect** two or more summoned creatures, no two of which can be more than 30 ft. apart
 
-**Duration** 10 min._dir/level (D)
+**Duration** 10 min./level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

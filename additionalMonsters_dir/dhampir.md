@@ -1,20 +1,20 @@
 ---
 layout: default
-title: additionalMonsters_dir/dhampir
+title: additionalMonsters/dhampir
 ---
 # Dhampir 
 
 This unnaturally graceful man moves without a sound, his gaze just as piercing as the needle-sharp blade he effortlessly wields.
 
-DhampirCR 1_dir/2
+DhampirCR 1/2
 
 **XP 200**
 
 Dhampir fighter 1
 
-CE Medium [humanoid](monsters_dir/creatureTypes#_humanoid) (dhampir)
+CE Medium [humanoid](monsters/creatureTypes#_humanoid) (dhampir)
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +1
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +1
 
 Defense
 
@@ -22,9 +22,9 @@ Defense
 
 **hp** 13 (1d10+3)
 
-**Fort** +2, **Ref** +3, **Will** –1 (+2 vs. [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)) and mind-affecting effects)
+**Fort** +2, **Ref** +3, **Will** –1 (+2 vs. [disease](monsters/universalMonsterRules#_disease-(ex-or-su)) and mind-affecting effects)
 
-**Defensive Abilities** [negative energy affinity](monsters_dir/universalMonsterRules#_negative-energy-affinity), resist level drain
+**Defensive Abilities** [negative energy affinity](monsters/universalMonsterRules#_negative-energy-affinity), resist level drain
 
 **Weakness** light sensitivity
 
@@ -32,11 +32,11 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** rapier +4 (1d6+1_dir/18–20)
+**Melee** rapier +4 (1d6+1/18–20)
 
 **Spell-Like Abilities** (CL 1st)
 
-3_dir/day—_ [detect undead](additionalMonsters_dir/../spells_dir/detectUndead#_detect-undead)_
+3/day—_ [detect undead](additionalMonsters/../spells/detectUndead#_detect-undead)_
 
 Statistics
 
@@ -44,9 +44,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +2; **CMD** 15
 
-**Feats** [Toughness](additionalMonsters_dir/../feats#_toughness), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
+**Feats** [Toughness](additionalMonsters/../feats#_toughness), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +5, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +7, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +1, [Ride](additionalMonsters_dir/../skills_dir/ride#_ride) +5, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +3; **Racial Modifiers** +2 [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff), +2 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)
+**Skills** [Bluff](additionalMonsters/../skills/bluff#_bluff) +5, [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +7, [Perception](additionalMonsters/../skills/perception#_perception) +1, [Ride](additionalMonsters/../skills/ride#_ride) +5, [Survival](additionalMonsters/../skills/survival#_survival) +3; **Racial Modifiers** +2 [Bluff](additionalMonsters/../skills/bluff#_bluff), +2 [Perception](additionalMonsters/../skills/perception#_perception)
 
 **Languages** Common
 
@@ -72,13 +72,13 @@ Dhampirs are defined by class levels—they don't possess racial Hit Dice. All d
 
 **Senses** : Low-light vision and darkvision 60 feet.
 
-**Manipulative** : +2 racial bonus on [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) and [Perception](additionalMonsters_dir/../skills_dir/perception#_perception).
+**Manipulative** : +2 racial bonus on [Bluff](additionalMonsters/../skills/bluff#_bluff) and [Perception](additionalMonsters/../skills/perception#_perception).
 
 **Undead Resistance** : Dhampirs gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
 
 **Light Sensitivity, Negative Energy Affinity** : See universal monster rules.
 
-**Spell-Like Ability** : A dhampir can use_ [detect undead](additionalMonsters_dir/../spells_dir/detectUndead#_detect-undead)_ three times per day as a spell-like ability. The caster level for this ability equals the dhampir's class level.
+**Spell-Like Ability** : A dhampir can use_ [detect undead](additionalMonsters/../spells/detectUndead#_detect-undead)_ three times per day as a spell-like ability. The caster level for this ability equals the dhampir's class level.
 
 **Resist Level Drain** : See above.
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/wavesOfExhaustion
+title: spells/wavesOfExhaustion
 ---
  **Waves of Exhaustion**
 
-**School** necromancy; **Level** sorcerer_dir/wizard 7
+**School** necromancy; **Level** sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 

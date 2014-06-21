@@ -1,20 +1,20 @@
 ---
 layout: default
-title: additionalMonsters_dir/oread
+title: additionalMonsters/oread
 ---
 # Oread 
 
 This large warrior appears heavy and solid, with chiseled, angular features that make her look almost like a statue brought to life.
 
-OreadCR 1_dir/2
+OreadCR 1/2
 
 **XP 200**
 
 Oread fighter 1
 
-N Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [native](monsters_dir/creatureTypes#_native-subtype))
+N Medium [outsider](monsters/creatureTypes#_outsider) ( [native](monsters/creatureTypes#_native-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +2
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +2
 
 Defense
 
@@ -30,13 +30,13 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** longsword +3 (1d8+3_dir/19–20)
+**Melee** longsword +3 (1d8+3/19–20)
 
-**Ranged** composite longbow +4 (1d8+2_dir/×3)
+**Ranged** composite longbow +4 (1d8+2/×3)
 
 **Spell-Like Abilities** (CL 1st; concentration +0)
 
-1_dir/day—_ [magic stone](additionalMonsters_dir/../spells_dir/magicStone#_magic-stone)_
+1/day—_ [magic stone](additionalMonsters/../spells/magicStone#_magic-stone)_
 
 Statistics
 
@@ -44,13 +44,13 @@ Statistics
 
 **Base Atk** +1; **CMB** +3; **CMD** 15
 
-**Feats** [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (longbow)
+**Feats** [Iron Will](additionalMonsters/../feats#_iron-will), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (longbow)
 
-**Skills** [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +4
+**Skills** [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +4
 
 **Languages** Common, Terran
 
-**SQ** [elemental](monsters_dir/creatureTypes#_elemental-subtype) affinity
+**SQ** [elemental](monsters/creatureTypes#_elemental-subtype) affinity
 
 Ecology
 
@@ -62,7 +62,7 @@ Ecology
 
 Special Abilities
 
-**Earth Affinity (Ex)** Oread sorcerers with the [Elemental](monsters_dir/creatureTypes#_elemental-subtype) ( [earth](monsters_dir/creatureTypes#_earth-subtype)) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread clerics with the [Earth](monsters_dir/creatureTypes#_earth-subtype) domain cast their domain powers and spells at +1 caster level.
+**Earth Affinity (Ex)** Oread sorcerers with the [Elemental](monsters/creatureTypes#_elemental-subtype) ( [earth](monsters/creatureTypes#_earth-subtype)) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread clerics with the [Earth](monsters/creatureTypes#_earth-subtype) domain cast their domain powers and spells at +1 caster level.
 
 Oreads are humans whose ancestry includes the touch of an elemental being of earth somewhere along its line, often that of a shaitan genie. Oreads are strong and solidly built, and prefer wearing earth tones that match the coloration of their flesh and hair—shades of gray, brown, black, or white. In rare cases, oreads' stone-like traits are so strong as to leave no question as to their nature, with growths like rocky outcroppings protruding from their skin or hair like crystalline spikes.
 
@@ -76,7 +76,7 @@ Oreads are defined by class levels—they do not possess racial Hit Dice. Oreads
 
 **Darkvision** : Oreads can see in the dark up to 60 feet.
 
-**Spell-Like Ability** : _ [Magic stone](additionalMonsters_dir/../spells_dir/magicStone#_magic-stone)_ 1_dir/day (caster level equals the oread's total Hit Dice).
+**Spell-Like Ability** : _ [Magic stone](additionalMonsters/../spells/magicStone#_magic-stone)_ 1/day (caster level equals the oread's total Hit Dice).
 
 **Energy Resistance** : Oreads have acid resistance 5.
 

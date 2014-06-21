@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures_dir/mythicSpells_dir/faerieFire
+title: mythicAdventures/mythicSpells/faerieFire
 ---
 Faerie Fire
 
-**Source** [_faerie fire_](spells_dir/faerieFire#_faerie-fire)
+**Source** [_faerie fire_](spells/faerieFire#_faerie-fire)
 
 Outlined creatures are dazzled. The spell outlines figment illusions in the burst, revealing them as such. This effect applies only to figments with a caster level equal to or less than your tier.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/instantEnemy
+title: advanced/spells/instantEnemy
 ---
  **Instant Enemy**
 
@@ -10,11 +10,11 @@ title: advanced_dir/spells_dir/instantEnemy
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature that is not your favored enemy.
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** none; **Spell Resistance** no
 

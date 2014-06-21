@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/programmedImage
+title: spells/programmedImage
 ---
  **Programmed Image**
 
-**School** illusion (figment); **Level** bard 6, sorcerer_dir/wizard 6
+**School** illusion (figment); **Level** bard 6, sorcerer/wizard 6
 
 **Components** V, S, M (fleece and jade dust worth 25 gp)
 
-**Effect** visual figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube_dir/level (S)
+**Effect** visual figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)
 
-**Duration** permanent until triggered, then 1 round_dir/level
+**Duration** permanent until triggered, then 1 round/level
 
 This spell functions like _ [silent image](silentImage#_silent-image), _except that this spell's figment activates when a specific condition occurs. The figment includes visual, auditory, olfactory, and thermal elements, including intelligible speech.
 

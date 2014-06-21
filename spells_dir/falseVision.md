@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/falseVision
+title: spells/falseVision
 ---
  **False Vision**
 
-**School** illusion (glamer); **Level** bard 5, sorcerer_dir/wizard 5
+**School** illusion (glamer); **Level** bard 5, sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/falseVision
 
 **Area** 40-ft.-radius emanation
 
-**Duration** 1 hour_dir/level (D)
+**Duration** 1 hour/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

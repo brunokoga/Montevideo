@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/sanctifyArmor
+title: advanced/spells/sanctifyArmor
 ---
  **Sanctify Armor**
 
@@ -14,11 +14,11 @@ title: advanced_dir/spells_dir/sanctifyArmor
 
 **Target** armor touched
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-You imbue your armor with a righteous aura. It gains a +1 enhancement bonus per four caster levels (maximum +5 at 20th level). When using your judgment or smite ability, you gain DR 5_dir/evil.
+You imbue your armor with a righteous aura. It gains a +1 enhancement bonus per four caster levels (maximum +5 at 20th level). When using your judgment or smite ability, you gain DR 5/evil.
 
 An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell.
 

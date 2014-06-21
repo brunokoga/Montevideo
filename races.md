@@ -28,7 +28,7 @@ Dwarves are a stoic but stern race, ensconced in cities carved from the hearts o
 
 **Defensive Training** : Dwarves get a +4 [dodge bonus](combat#_dodge-bonuses) to AC against monsters of the giant subtype.
 
-**Greed** : Dwarves receive a +2 racial bonus on [Appraise](skills_dir/appraise#_appraise) skill checks made to determine the price of nonmagical goods that contain precious metals or gemstones.
+**Greed** : Dwarves receive a +2 racial bonus on [Appraise](skills/appraise#_appraise) skill checks made to determine the price of nonmagical goods that contain precious metals or gemstones.
 
 **Hatred** : Dwarves receive a +1 bonus on [attack rolls](combat#_attack-bonus) against humanoid creatures of the orc and goblinoid subtypes due to special training against these hated foes.
 
@@ -36,7 +36,7 @@ Dwarves are a stoic but stern race, ensconced in cities carved from the hearts o
 
 **Stability** : Dwarves receive a +4 racial bonus to their [Combat Maneuver Defense](combat#_combat-maneuver-defense) when resisting a [bull rush](combat#_bull-rush) or [trip](combat#_trip) attempt while standing on the ground.
 
-**Stonecunning** : Dwarves receive a +2 bonus on [Perception](skills_dir/perception#_perception) checks to potentially notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
+**Stonecunning** : Dwarves receive a +2 bonus on [Perception](skills/perception#_perception) checks to potentially notice unusual stonework, such as traps and hidden doors located in stone walls or floors. They receive a check to notice such features whenever they pass within 10 feet of them, whether or not they are actively looking.
 
 **Weapon Familiarity** : Dwarves are proficient with battleaxes, heavy picks, and warhammers, and treat any weapon with the word “dwarven” in its name as a martial weapon.
 
@@ -68,9 +68,9 @@ The long-lived elves are children of the natural world, similar in many superfic
 
 **Elven Immunities** : Elves are immune to magic sleep effects and get a +2 racial [saving throw](combat#_saving-throws) bonus against [enchantment](magic#_enchantment) spells and effects.
 
-**Elven Magic** : Elves receive a +2 racial bonus on [caster level checks](magic#_caster-level) made to overcome spell resistance. In addition, elves receive a +2 racial bonus on [Spellcraft](skills_dir/spellcraft#_spellcraft) skill checks made to identify the properties of magic items.
+**Elven Magic** : Elves receive a +2 racial bonus on [caster level checks](magic#_caster-level) made to overcome spell resistance. In addition, elves receive a +2 racial bonus on [Spellcraft](skills/spellcraft#_spellcraft) skill checks made to identify the properties of magic items.
 
-**Keen Senses** : Elves receive a +2 racial bonus on [Perception](skills_dir/perception#_perception) skill checks.
+**Keen Senses** : Elves receive a +2 racial bonus on [Perception](skills/perception#_perception) skill checks.
 
 **Weapon Familiarity** : Elves are proficient with longbows (including composite longbows), longswords, rapiers, and shortbows (including composite shortbows), and treat any weapon with the word “elven” in its name as a martial weapon.
 
@@ -94,7 +94,7 @@ Gnomes trace their lineage back to the mysterious realm of the fey, a place wher
 
 **+2 [Constitution](gettingStarted#_constitution), +2 [Charisma](gettingStarted#_charisma-new), –2 [Strength](gettingStarted#_strength)** : Gnomes are physically weak but surprisingly hardy, and their attitude makes them naturally agreeable.
 
-**Small** : Gnomes are Small creatures and gain a +1 size bonus to their [AC](combat#_armor-class), a +1 size bonus on [attack rolls](combat#_attack-roll), a –1 penalty to their [Combat Maneuver Bonus](combat#_combat-maneuver-bonus) and [Combat Maneuver Defense](combat#_combat-maneuver-defense), and a +4 size bonus on [Stealth](skills_dir/stealth#_stealth) checks.
+**Small** : Gnomes are Small creatures and gain a +1 size bonus to their [AC](combat#_armor-class), a +1 size bonus on [attack rolls](combat#_attack-roll), a –1 penalty to their [Combat Maneuver Bonus](combat#_combat-maneuver-bonus) and [Combat Maneuver Defense](combat#_combat-maneuver-defense), and a +4 size bonus on [Stealth](skills/stealth#_stealth) checks.
 
 **Slow Speed** : Gnomes have a base speed of 20 feet.
 
@@ -102,15 +102,15 @@ Gnomes trace their lineage back to the mysterious realm of the fey, a place wher
 
 **Defensive Training** : Gnomes get a +4 [dodge bonus](combat#_dodge-bonuses) to AC against monsters of the giant type.
 
-**Gnome Magic** : Gnomes add +1 to the DC of any [saving throws](magic#_saving-throw) against [illusion](magic#_illusion) spells that they cast. Gnomes with a [Charisma](gettingStarted#_charisma-new) of 11 or higher also gain the following spell-like abilities: 1_dir/day—_ [dancing lights](spells_dir/dancingLights#_dancing-lights), [ghost sound](spells_dir/ghostSound#_ghost-sound)_,_ [prestidigitation](spells_dir/prestidigitation#_prestidigitation),_ and _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals). _The [caster level](magic#_caster-level) for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's [Charisma](gettingStarted#_charisma-new) modifier.
+**Gnome Magic** : Gnomes add +1 to the DC of any [saving throws](magic#_saving-throw) against [illusion](magic#_illusion) spells that they cast. Gnomes with a [Charisma](gettingStarted#_charisma-new) of 11 or higher also gain the following spell-like abilities: 1/day—_ [dancing lights](spells/dancingLights#_dancing-lights), [ghost sound](spells/ghostSound#_ghost-sound)_,_ [prestidigitation](spells/prestidigitation#_prestidigitation),_ and _ [speak with animals](spells/speakWithAnimals#_speak-with-animals). _The [caster level](magic#_caster-level) for these effects is equal to the gnome's level. The DC for these spells is equal to 10 + the spell's level + the gnome's [Charisma](gettingStarted#_charisma-new) modifier.
 
 **Hatred** : Gnomes receive a +1 bonus on [attack rolls](combat#_attack-bonus) against humanoid creatures of the reptilian and goblinoid subtypes due to special training against these hated foes.
 
 **Illusion Resistance** : Gnomes get a +2 racial [saving throw](combat#_saving-throws) bonus against [illusion](magic#_illusion) spells or effects.
 
-**Keen Senses** : Gnomes receive a +2 racial bonus on [Perception](skills_dir/perception#_perception) skill checks.
+**Keen Senses** : Gnomes receive a +2 racial bonus on [Perception](skills/perception#_perception) skill checks.
 
-**Obsessive** : Gnomes receive a +2 racial bonus on a [Craft](skills_dir/craft#_craft) or [Profession](skills_dir/profession#_profession) skill of their choice.
+**Obsessive** : Gnomes receive a +2 racial bonus on a [Craft](skills/craft#_craft) or [Profession](skills/profession#_profession) skill of their choice.
 
 **Weapon Familiarity** : Gnomes treat any weapon with the word “gnome” in its name as a martial weapon.
 
@@ -148,7 +148,7 @@ Sometimes this mutual infatuation leads to romantic relationships. Though usuall
 
 **Elven Immunities** : Half-elves are immune to magic sleep effects and get a +2 racial [saving throw](combat#_saving-throws) bonus against [enchantment](magic#_enchantment) spells and effects.
 
-**Keen Senses** : Half-elves receive a +2 racial bonus on [Perception](skills_dir/perception#_perception) skill checks.
+**Keen Senses** : Half-elves receive a +2 racial bonus on [Perception](skills/perception#_perception) skill checks.
 
 **Multitalented** : Half-elves choose two [favored classes](classes#_favored-class) at first level and gain +1 hit point or +1 skill point whenever they take a level in either one of those classes. See [Classes](classes) for more information about favored classes.
 
@@ -178,7 +178,7 @@ Half-orcs are monstrosities, their tragic births the result of perversion and vi
 
 **[Darkvision](glossary#_darkvision)** : Half-orcs can see in the dark up to 60 feet.
 
-**Intimidating** : Half-orcs receive a +2 racial bonus on [Intimidate](skills_dir/intimidate#_intimidate) skill checks due to their fearsome nature.
+**Intimidating** : Half-orcs receive a +2 racial bonus on [Intimidate](skills/intimidate#_intimidate) skill checks due to their fearsome nature.
 
 **Orc Blood** : Half-orcs count as both humans and orcs for any effect related to race.
 
@@ -210,7 +210,7 @@ Though their curiosity drives them to travel and seek new places and experiences
 
 **+2 [Dexterity](gettingStarted#_dexterity), +2 [Charisma](gettingStarted#_charisma-new), –2 [Strength](gettingStarted#_strength)** : Halflings are nimble and strong-willed, but their small stature makes them weaker than other races.
 
-**Small** : Halflings are Small creatures and gain a +1 size bonus to their [AC](combat#_armor-class), a +1 size bonus on [attack rolls](combat#_attack-roll), a –1 penalty to their [Combat Maneuver Bonus](combat#_combat-maneuver-bonus) and [Combat Maneuver Defense](combat#_combat-maneuver-defense), and a +4 size bonus on [Stealth](skills_dir/stealth#_stealth) checks.
+**Small** : Halflings are Small creatures and gain a +1 size bonus to their [AC](combat#_armor-class), a +1 size bonus on [attack rolls](combat#_attack-roll), a –1 penalty to their [Combat Maneuver Bonus](combat#_combat-maneuver-bonus) and [Combat Maneuver Defense](combat#_combat-maneuver-defense), and a +4 size bonus on [Stealth](skills/stealth#_stealth) checks.
 
 **Slow Speed** : Halflings have a base speed of 20 feet.
 
@@ -218,9 +218,9 @@ Though their curiosity drives them to travel and seek new places and experiences
 
 **Halfling Luck** : Halflings receive a +1 racial bonus on all [saving throw](combat#_saving-throws)s.
 
-**Keen Senses** : Halflings receive a +2 racial bonus on [Perception](skills_dir/perception#_perception) skill checks.
+**Keen Senses** : Halflings receive a +2 racial bonus on [Perception](skills/perception#_perception) skill checks.
 
-**Sure-Footed:** Halflings receive a +2 racial bonus on [Acrobatics](skills_dir/acrobatics#_acrobatics) and [Climb](skills_dir/climb#_climb) skill checks.
+**Sure-Footed:** Halflings receive a +2 racial bonus on [Acrobatics](skills/acrobatics#_acrobatics) and [Climb](skills/climb#_climb) skill checks.
 
 **Weapon Familiarity** : Halflings are proficient with slings and treat any weapon with the word “halfling” in its name as a martial weapon.
 

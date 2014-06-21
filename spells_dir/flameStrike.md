@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/flameStrike
+title: spells/flameStrike
 ---
  **Flame Strike**
 
@@ -10,7 +10,7 @@ title: spells_dir/flameStrike
 
 **Components** V, S, DF
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Area** cylinder (10-ft. radius, 40-ft. high)
 

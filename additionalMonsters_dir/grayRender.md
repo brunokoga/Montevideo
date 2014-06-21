@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters_dir/grayRender
+title: additionalMonsters/grayRender
 ---
 # Gray Render
 
@@ -10,9 +10,9 @@ Gray RenderCR 8
 
 **XP 4,800**
 
-N Large [magical beast](monsters_dir/creatureTypes#_magical-beast)
+N Large [magical beast](monsters/creatureTypes#_magical-beast)
 
-**Init** +1; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13
+**Init** +1; **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +13
 
 Defense
 
@@ -26,7 +26,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** bite +14 (2d6+7), 2 claws +15 (1d8+7 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** bite +14 (2d6+7), 2 claws +15 (1d8+7 plus [grab](monsters/universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +8; **CMB** +16 (+20 grapple); **CMD** 27
 
-**Feats** [Awesome Blow](additionalMonsters_dir/../monsters_dir/monsterFeats#_awesome-blow), [Improved Bull Rush](additionalMonsters_dir/../feats#_improved-bull-rush), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (claw)
+**Feats** [Awesome Blow](additionalMonsters/../monsters/monsterFeats#_awesome-blow), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (claw)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +6; **Racial Modifiers** +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)
+**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +13, [Survival](additionalMonsters/../skills/survival#_survival) +6; **Racial Modifiers** +4 [Perception](additionalMonsters/../skills/perception#_perception)
 
 **SQ** double damage against objects
 

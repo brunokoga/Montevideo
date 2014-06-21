@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/symbolOfStunning
+title: spells/symbolOfStunning
 ---
  **Symbol of Stunning**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 7, sorcerer_dir/wizard 7
+**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 7, sorcerer/wizard 7
 
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
 

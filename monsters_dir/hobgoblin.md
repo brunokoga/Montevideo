@@ -1,12 +1,12 @@
 ---
 layout: default
-title: monsters_dir/hobgoblin
+title: monsters/hobgoblin
 ---
 # Hobgoblin
 
 _Standing as tall as a human, this muscular, gray-skinned creature peers about with tiny, observant eyes._
 
-**Hobgoblin CR 1_dir/2**
+**Hobgoblin CR 1/2**
 
 **XP 200**
 
@@ -14,7 +14,7 @@ Hobgoblin fighter 1
 
 LE Medium [humanoid](creatureTypes#_humanoid) (goblinoid)
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +2
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +2
 
 **Defense**
 
@@ -28,9 +28,9 @@ LE Medium [humanoid](creatureTypes#_humanoid) (goblinoid)
 
 **Speed** 30 ft.
 
-**Melee** longsword +4 (1d8+2_dir/19–20)
+**Melee** longsword +4 (1d8+2/19–20)
 
-**Ranged** longbow +3 (1d8_dir/×3)
+**Ranged** longbow +3 (1d8/×3)
 
 **Statistics**
 
@@ -40,7 +40,7 @@ LE Medium [humanoid](creatureTypes#_humanoid) (goblinoid)
 
 **Feats** [Toughness](../feats#_toughness), [Weapon Focus](../feats#_weapon-focus) (longsword)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +2, [Stealth](../skills_dir/stealth#_stealth) +5; **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Perception](../skills/perception#_perception) +2, [Stealth](../skills/stealth#_stealth) +5; **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth)
 
 **Languages** Common, Goblin
 
@@ -70,7 +70,7 @@ Hobgoblins are defined by their class levels—they do not possess racial Hit Di
 
 **Darkvision** : Hobgoblins can see in the dark up to 60 feet.
 
-**Sneaky** : Hobgoblins gain a +4 racial bonus on [Stealth](../skills_dir/stealth#_stealth) checks.
+**Sneaky** : Hobgoblins gain a +4 racial bonus on [Stealth](../skills/stealth#_stealth) checks.
 
 **Languages** : All hobgoblins begin play speaking Common and Goblin. Hobgoblins with high Intelligence scores can choose any of the following bonus languages: Draconic, Dwarven, Infernal, Giant, Orc.
 

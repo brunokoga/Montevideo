@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/animalShapes
+title: spells/animalShapes
 ---
  **Animal Shapes**
 
@@ -10,11 +10,11 @@ title: spells_dir/animalShapes
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Targets** up to one willing creature per level, all within 30 ft. of each other.
 
-**Duration** 1 hour_dir/level (D)
+**Duration** 1 hour/level (D)
 
 **Saving Throw** none, see text; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

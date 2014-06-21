@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/cureSeriousWounds
+title: spells/cureSeriousWounds
 ---
  **Cure Serious Wounds**
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/mageArmor
+title: spells/mageArmor
 ---
  **Mage Armor**
 
-**School** conjuration (creation) [force]; **Level** sorcerer_dir/wizard 1
+**School** conjuration (creation) [force]; **Level** sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/mageArmor
 
 **Target** creature touched
 
-**Duration** 1 hour_dir/level (D)
+**Duration** 1 hour/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** no
 

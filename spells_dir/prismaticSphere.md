@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/prismaticSphere
+title: spells/prismaticSphere
 ---
  **Prismatic Sphere**
 
-**School** abjuration; **Level** sorcerer_dir/wizard 9
+**School** abjuration; **Level** sorcerer/wizard 9
 
 **Components** : V
 

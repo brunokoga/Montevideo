@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/flameBlade
+title: spells/flameBlade
 ---
  **Flame Blade**
 
@@ -14,7 +14,7 @@ title: spells_dir/flameBlade
 
 **Effect** sword-like beam
 
-**Duration** 1 min._dir/level (D)
+**Duration** 1 min./level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/rusalka
+title: bestiary3/rusalka
 ---
 # Rusalka 
 
@@ -10,9 +10,9 @@ Rusalka CR 12
 
 XP 19,200
 
-NE Medium fey ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+NE Medium fey ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
 
-**Init** +10; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +22
+**Init** +10; **Senses** low-light vision; [Perception](skills/perception#_perception) +22
 
 Defense
 
@@ -22,27 +22,27 @@ Defense
 
 **Fort** +12, **Ref** +18, **Will** +15
 
-**DR** 15_dir/cold iron; **Immune** [fire](monsters_dir/creatureTypes#_fire-subtype); **SR** 23
+**DR** 15/cold iron; **Immune** [fire](monsters/creatureTypes#_fire-subtype); **SR** 23
 
 Offense
 
 **Speed** 30 ft., swim 60 ft.
 
-**Melee** staggering touch +16 (stagger), 4 tresses +16 (2d6+5 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** staggering touch +16 (stagger), 4 tresses +16 (2d6+5 plus [grab](monsters/universalMonsterRules#_grab))
 
 **Space** 5 ft.; **Reach** 5 ft. (15 ft. with tresses)
 
-**Special Attacks** beckoning call, [constrict](monsters_dir/universalMonsterRules#_constrict) (2d6+7), tresses
+**Special Attacks** beckoning call, [constrict](monsters/universalMonsterRules#_constrict) (2d6+7), tresses
 
 **Spell-Like Abilities** (CL 20th; concentration +27)
 
-Constant—_ [blur](spells_dir/blur#_blur)_, _ [water walk](spells_dir/waterWalk#_water-walk)_
+Constant—_ [blur](spells/blur#_blur)_, _ [water walk](spells/waterWalk#_water-walk)_
 
-At will—_ [entangle](spells_dir/entangle#_entangle)_ (DC 18), _ [fog cloud](spells_dir/fogCloud), [invisibility](spells_dir/invisibility#_invisibility)_
+At will—_ [entangle](spells/entangle#_entangle)_ (DC 18), _ [fog cloud](spells/fogCloud), [invisibility](spells/invisibility#_invisibility)_
 
-3_dir/day—quickened _ [charm monster](spells_dir/charmMonster#_charm-monster)_ (DC 21), _ [control water](spells_dir/controlWater#_control-water)_
+3/day—quickened _ [charm monster](spells/charmMonster#_charm-monster)_ (DC 21), _ [control water](spells/controlWater#_control-water)_
 
-1_dir/day—_ [summon nature's ally VI](spells_dir/summonNatureSAlly#_summon-nature-s-ally-vi)_ (water elementals only)
+1/day—_ [summon nature's ally VI](spells/summonNatureSAlly#_summon-nature-s-ally-vi)_ (water elementals only)
 
 Statistics
 
@@ -50,9 +50,9 @@ Statistics
 
 **Base Atk** +10; **CMB** +16 (+20 when using tresses); **CMD** 32
 
-**Feats** [Agile Maneuvers](feats#_agile-maneuvers), [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Quicken Spell-Like Ability](monsters_dir/monsterFeats#_quicken-spell-like-ability) (_ [charm monster](spells_dir/charmMonster#_charm-monster)_), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth)), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Agile Maneuvers](feats#_agile-maneuvers), [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Quicken Spell-Like Ability](monsters/monsterFeats#_quicken-spell-like-ability) (_ [charm monster](spells/charmMonster#_charm-monster)_), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth)), [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +14, [Bluff](skills_dir/bluff#_bluff) +24, [Diplomacy](skills_dir/diplomacy#_diplomacy) +15, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +18, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +6, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +18, [Perception](skills_dir/perception#_perception) +22, [Perform](skills_dir/perform#_perform) (dance) +14, [Perform](skills_dir/perform#_perform) (sing) +27, [Sense Motive](skills_dir/senseMotive#_sense-motive) +15, [Spellcraft](skills_dir/spellcraft#_spellcraft) +18, [Stealth](skills_dir/stealth#_stealth) +27, [Swim](skills_dir/swim#_swim) +31
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +14, [Bluff](skills/bluff#_bluff) +24, [Diplomacy](skills/diplomacy#_diplomacy) +15, [Escape Artist](skills/escapeArtist#_escape-artist) +18, [Knowledge](skills/knowledge#_knowledge) (arcana) +6, [Knowledge](skills/knowledge#_knowledge) (nature) +18, [Perception](skills/perception#_perception) +22, [Perform](skills/perform#_perform) (dance) +14, [Perform](skills/perform#_perform) (sing) +27, [Sense Motive](skills/senseMotive#_sense-motive) +15, [Spellcraft](skills/spellcraft#_spellcraft) +18, [Stealth](skills/stealth#_stealth) +27, [Swim](skills/swim#_swim) +31
 
 **Languages** Common, Sylvan
 
@@ -60,7 +60,7 @@ Statistics
 
 Ecology
 
-**Environment** any [water](monsters_dir/creatureTypes#_water-subtype)
+**Environment** any [water](monsters/creatureTypes#_water-subtype)
 
 **Organization** solitary, pair, or eddy (3–6)
 
@@ -68,7 +68,7 @@ Ecology
 
 Special Abilities
 
-**Beckoning Call (Su)** As a standard action, a rusalka can sing or speak, causing all non-fey creatures within a 300-foot spread to approach its position as if compelled to do so via a _ [suggestion](spells_dir/suggestion#_suggestion)_ spell (DC 27 Will negates). A creature that successfully saves is not subject to the same rusalka's beckoning call for 24 hours. When an affected creature begins its turn adjacent to the rusalka, it is dazed for that round. These effects continue as long as the rusalka takes a standard action to maintain the effect, plus 1 additional round. This is a mind-affecting effect. The save DC is Charisma-based.
+**Beckoning Call (Su)** As a standard action, a rusalka can sing or speak, causing all non-fey creatures within a 300-foot spread to approach its position as if compelled to do so via a _ [suggestion](spells/suggestion#_suggestion)_ spell (DC 27 Will negates). A creature that successfully saves is not subject to the same rusalka's beckoning call for 24 hours. When an affected creature begins its turn adjacent to the rusalka, it is dazed for that round. These effects continue as long as the rusalka takes a standard action to maintain the effect, plus 1 additional round. This is a mind-affecting effect. The save DC is Charisma-based.
 
 **Staggering Touch (Su)** A creature touched by a rusalka must make a DC 27 Fortitude save or be staggered for 1 round by overwhelming feelings of desire and shame. This is a mind-affecting effect. The save DC is Charisma-based.
 

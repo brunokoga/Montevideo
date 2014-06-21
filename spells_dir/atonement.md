@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/atonement
+title: spells/atonement
 ---
  **Atonement**
 

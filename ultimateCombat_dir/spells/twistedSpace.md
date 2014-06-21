@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/twistedSpace
+title: ultimateCombat/spells/twistedSpace
 ---
 Twisted Space
 
-**School** transmutation; **Level** magus 2, sorcerer_dir/wizard 2, summoner 2
+**School** transmutation; **Level** magus 2, sorcerer/wizard 2, summoner 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a length of wire bent into a circle)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature
 

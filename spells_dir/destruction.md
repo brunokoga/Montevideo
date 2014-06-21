@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/destruction
+title: spells/destruction
 ---
  **Destruction**
 
@@ -10,7 +10,7 @@ title: spells_dir/destruction
 
 **Components** V, S, F (holy or unholy symbol costing 500 gp)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature
 

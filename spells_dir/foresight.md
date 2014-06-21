@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/foresight
+title: spells/foresight
 ---
  **Foresight**
 
-**School** divination; **Level** druid 9, sorcerer_dir/wizard 9
+**School** divination; **Level** druid 9, sorcerer/wizard 9
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M_dir/DF (a hummingbird's feather)
+**Components** V, S, M/DF (a hummingbird's feather)
 
 **Range** personal or touch
 
 **Target** see text
 
-**Duration** 10 min._dir/level
+**Duration** 10 min./level
 
 **Saving Throw** none or [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** no or yes (harmless)
 

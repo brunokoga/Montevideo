@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/quench
+title: spells/quench
 ---
  **Quench**
 
@@ -10,9 +10,9 @@ title: spells_dir/quench
 
 **Components** V, S, DF
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
-**Area or Target** one 20-ft. cube_dir/level (S) or one fire-based magic item
+**Area or Target** one 20-ft. cube/level (S) or one fire-based magic item
 
 **Duration** instantaneous
 

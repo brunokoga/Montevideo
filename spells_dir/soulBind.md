@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/soulBind
+title: spells/soulBind
 ---
  **Soul Bind**
 
-**School** necromancy; **Level** cleric 9, sorcerer_dir/wizard 9
+**School** necromancy; **Level** cleric 9, sorcerer/wizard 9
 
 **Casting Time** 1 standard action
 
 **Components** V, S, F (see text)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** corpse
 

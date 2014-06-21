@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/mending
+title: spells/mending
 ---
  **Mending**
 
-**School** transmutation; **Level** bard 0, cleric 0, druid 0, sorcerer_dir/wizard 0
+**School** transmutation; **Level** bard 0, cleric 0, druid 0, sorcerer/wizard 0
 
 **Casting Time** 10 minutes
 
@@ -12,7 +12,7 @@ title: spells_dir/mending
 
 **Range** 10 ft.
 
-**Target** one object of up to 1 lb._dir/level
+**Target** one object of up to 1 lb./level
 
 **Duration** instantaneous
 

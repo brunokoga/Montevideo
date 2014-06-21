@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/doom
+title: spells/doom
 ---
  **Doom**
 
@@ -10,11 +10,11 @@ title: spells_dir/doom
 
 **Components** V, S, DF
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Target** one living creature
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

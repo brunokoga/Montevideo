@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/demand
+title: spells/demand
 ---
  **Demand**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer_dir/wizard 8
+**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 8
 
 **Saving Throw** [Will](../combat#_will) partial; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters_dir/bodak
+title: additionalMonsters/bodak
 ---
 # Bodak
 
@@ -10,9 +10,9 @@ The flesh of this emaciated creature appears charred or dried, and its empty eye
 
 **XP 4,800**
 
-CE Medium [undead](monsters_dir/creatureTypes#_undead) ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
+CE Medium [undead](monsters/creatureTypes#_undead) ( [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +14
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +14
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +6, **Ref** +5, **Will** +8
 
-**DR** 10_dir/cold iron; **Immune** electricity, [undead](monsters_dir/creatureTypes#_undead) traits; **Resist** acid 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10
+**DR** 10/cold iron; **Immune** electricity, [undead](monsters/creatureTypes#_undead) traits; **Resist** acid 10, [fire](monsters/creatureTypes#_fire-subtype) 10
 
 **Weaknesses** vulnerability to sunlight
 
@@ -32,7 +32,7 @@ Offense
 
 **Melee** 2 slams +9 (1d8+1)
 
-**Special Attacks** death [gaze](monsters_dir/universalMonsterRules#_gaze)
+**Special Attacks** death [gaze](monsters/universalMonsterRules#_gaze)
 
 Statistics
 
@@ -40,15 +40,15 @@ Statistics
 
 **Base Atk** +7; **CMB** +8; **CMD** 21
 
-**Feats** [Dodge](additionalMonsters_dir/../feats#_dodge), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Mobility](additionalMonsters_dir/../feats#_mobility), [Toughness](additionalMonsters_dir/../feats#_toughness), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (slam)
+**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Mobility](additionalMonsters/../feats#_mobility), [Toughness](additionalMonsters/../feats#_toughness), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (slam)
 
-**Skills** [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +11, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +14, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +10
+**Skills** [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +11, [Perception](additionalMonsters/../skills/perception#_perception) +14, [Stealth](additionalMonsters/../skills/stealth#_stealth) +10
 
 **Languages** Common
 
 Ecology
 
-**Environment** any land ( [evil](monsters_dir/creatureTypes#_evil-subtype) Outer Plane)
+**Environment** any land ( [evil](monsters/creatureTypes#_evil-subtype) Outer Plane)
 
 **Organization** solitary, pair, or gang (3–4)
 
@@ -56,7 +56,7 @@ Ecology
 
 Special Abilities
 
-**Death [Gaze](monsters_dir/universalMonsterRules#_gaze) (Su)** 1d4 negative levels, 30 feet; Fortitude DC 18 negates. The save DC is Charisma-based. A [humanoid](monsters_dir/creatureTypes#_humanoid) slain by a bodak's death [gaze](monsters_dir/universalMonsterRules#_gaze) rises as a bodak 24 hours later. This is a death effect.
+**Death [Gaze](monsters/universalMonsterRules#_gaze) (Su)** 1d4 negative levels, 30 feet; Fortitude DC 18 negates. The save DC is Charisma-based. A [humanoid](monsters/creatureTypes#_humanoid) slain by a bodak's death [gaze](monsters/universalMonsterRules#_gaze) rises as a bodak 24 hours later. This is a death effect.
 
 **Vulnerability to Sunlight (Ex)** Bodaks loathe sunlight, for its merest touch burns their impure flesh. Each round of exposure to direct sunlight deals 2d6 points of damage to a bodak.
 
@@ -68,5 +68,5 @@ Bodaks vehemently despise all living creatures and immediately seek to destroy a
 
 Bodaks are rarely encountered outside of the Abyss. As they are slow-witted, powerful evil creatures such as liches and nabasu demons sometimes use bodaks as thralls, assassins, or guardians. Bodaks encountered on the Material Plane exude extreme malevolence when forced to confront the realization of their abhorrent transformations. So great is their desire to inflict their fate upon others that many attempt to drag off the bodies of their slain victims and guard them until they rise as undead.
 
-A 20th-level spellcaster can use _ [create greater undead](additionalMonsters_dir/../spells_dir/createGreaterUndead#_create-greater-undead)_ to create a bodak, but only if the spell is cast while the spellcaster is located on one of the evil outer planes (traditionally the Abyss).
+A 20th-level spellcaster can use _ [create greater undead](additionalMonsters/../spells/createGreaterUndead#_create-greater-undead)_ to create a bodak, but only if the spell is cast while the spellcaster is located on one of the evil outer planes (traditionally the Abyss).
 

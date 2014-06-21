@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/shamblingMound
+title: monsters/shamblingMound
 ---
 # Shambling Mound
 
@@ -12,7 +12,7 @@ _A mass of tangled vines and dripping slime rises on two trunk-like legs, reekin
 
 N Large [plant](creatureTypes#_plant)
 
-**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +11
+**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +11
 
 **Defense**
 
@@ -42,7 +42,7 @@ N Large [plant](creatureTypes#_plant)
 
 **Feats** [Cleave](../feats#_cleave), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (slam)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +11, [Stealth](../skills_dir/stealth#_stealth) +8 (+16 in swamps or forest), [Swim](../skills_dir/swim#_swim) +13; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth) (+12 in swamps or forests)
+**Skills** [Perception](../skills/perception#_perception) +11, [Stealth](../skills/stealth#_stealth) +8 (+16 in swamps or forest), [Swim](../skills/swim#_swim) +13; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth) (+12 in swamps or forests)
 
 **Languages** Common, Sylvan (cannot speak)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters_dir/dinosaur
+title: additionalMonsters/dinosaur
 ---
 # Dinosaur, Allosaurus
 
@@ -10,9 +10,9 @@ This bipedal dinosaur has a mouth filled with sharp teeth and short, powerful ar
 
 **XP 3,200**
 
-N Huge [animal](monsters_dir/creatureTypes#_animal)
+N Huge [animal](monsters/creatureTypes#_animal)
 
-**Init** +5; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +28
+**Init** +5; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +28
 
 Defense
 
@@ -26,11 +26,11 @@ Offense
 
 **Speed** 50 ft.
 
-**Melee** bite +14 (2d6+8_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab)), 2 claws +14 (1d8+8)
+**Melee** bite +14 (2d6+8/19–20 plus [grab](monsters/universalMonsterRules#_grab)), 2 claws +14 (1d8+8)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [pounce](monsters_dir/universalMonsterRules#_pounce), [rake](monsters_dir/universalMonsterRules#_rake) (2 talons +14, 1d8+8)
+**Special Attacks** [pounce](monsters/universalMonsterRules#_pounce), [rake](monsters/universalMonsterRules#_rake) (2 talons +14, 1d8+8)
 
 Statistics
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +8; **CMB** +18; **CMD** 29
 
-**Feats** [Alertness](additionalMonsters_dir/../feats#_alertness), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Nimble Moves](additionalMonsters_dir/../feats#_nimble-moves), [Run](additionalMonsters_dir/../feats#_run)
+**Feats** [Alertness](additionalMonsters/../feats#_alertness), [Improved Critical](additionalMonsters/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Nimble Moves](additionalMonsters/../feats#_nimble-moves), [Run](additionalMonsters/../feats#_run)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +30; **Racial Modifiers** +8 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)
+**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +30; **Racial Modifiers** +8 [Perception](additionalMonsters/../skills/perception#_perception)
 
 Ecology
 
@@ -62,13 +62,13 @@ A huge, swift hunter, the allosaurus measures 30 feet in length and weighs 10,00
 
 This small reptile has a snake-like neck and head, a bird-like body with strong legs for running, and a whip-like tail.
 
-CompsognathusCR 1_dir/2
+CompsognathusCR 1/2
 
 **XP 200**
 
-N Tiny [animal](monsters_dir/creatureTypes#_animal)
+N Tiny [animal](monsters/creatureTypes#_animal)
 
-**Init** +6; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4
+**Init** +6; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +4
 
 Defense
 
@@ -82,9 +82,9 @@ Offense
 
 **Speed** 40 ft., swim 20 ft.
 
-**Melee** bite +1 (1d3–1 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** bite +1 (1d3–1 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 Statistics
 
@@ -92,9 +92,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 9
 
-**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative)
+**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +10
+**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +4, [Swim](additionalMonsters/../skills/swim#_swim) +10
 
 Ecology
 
@@ -106,7 +106,7 @@ Ecology
 
 Special Abilities
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 12; _frequency_ 1_dir/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 12; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save.
 
 The compsognathus is a small dinosaur that moves in swift, darting motions. Its bite injects a venom that causes numbness and weakness, a trait that the animal uses to bring down larger prey. A compsognathus measures 3 feet long and weighs 15 pounds.
 
@@ -120,9 +120,9 @@ This thick-bodied dinosaur has a whip-like tail and a long neck, its head topped
 
 **XP 1,200**
 
-N Huge [animal](monsters_dir/creatureTypes#_animal)
+N Huge [animal](monsters/creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13
+**Init** +2; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +13
 
 Defense
 
@@ -148,9 +148,9 @@ Statistics
 
 **Base Atk** +4; **CMB** +12; **CMD** 24 (28 vs. trip)
 
-**Feats** [Improved Bull Rush](additionalMonsters_dir/../feats#_improved-bull-rush), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception))
+**Feats** [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skills/perception#_perception))
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13
+**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +13
 
 Ecology
 
@@ -176,9 +176,9 @@ Surging out of the water, this massive lizard is shaped like a giant fish with a
 
 **XP 4,800**
 
-N Gargantuan [animal](monsters_dir/creatureTypes#_animal)
+N Gargantuan [animal](monsters/creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +14
+**Init** +1; **Senses** low-light vision, darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +14
 
 Defense
 
@@ -192,7 +192,7 @@ Offense
 
 **Speed** 20 ft., swim 50 ft.
 
-**Melee** bite +15 (2d8+18 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** bite +15 (2d8+18 plus [grab](monsters/universalMonsterRules#_grab))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -204,13 +204,13 @@ Statistics
 
 **Base Atk** +7; **CMB** +23 (+27 grapple); **CMD** 35 (39 vs. trip)
 
-**Feats** [Dodge](additionalMonsters_dir/../feats#_dodge), [Cleave](additionalMonsters_dir/../feats#_cleave), [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Mobility](additionalMonsters_dir/../feats#_mobility), [Power Attack](additionalMonsters_dir/../feats#_power-attack)
+**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Cleave](additionalMonsters/../feats#_cleave), [Great Fortitude](additionalMonsters/../feats#_great-fortitude), [Mobility](additionalMonsters/../feats#_mobility), [Power Attack](additionalMonsters/../feats#_power-attack)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +14, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +20
+**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +14, [Swim](additionalMonsters/../skills/swim#_swim) +20
 
 Ecology
 
-**Environment** warm [aquatic](monsters_dir/creatureTypes#_aquatic-subtype)
+**Environment** warm [aquatic](monsters/creatureTypes#_aquatic-subtype)
 
 **Organization** solitary, pair, or school (3–6)
 

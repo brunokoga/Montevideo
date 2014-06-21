@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/mirrorStrike
+title: ultimateCombat/spells/mirrorStrike
 ---
 Mirror Strike
 
-**School** transmutation; **Level** magus 1, sorcerer_dir/wizard 1
+**School** transmutation; **Level** magus 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 

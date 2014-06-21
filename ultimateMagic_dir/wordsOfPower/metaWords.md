@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/wordsOfPower_dir/metaWords
+title: ultimateMagic/wordsOfPower/metaWords
 ---
 # Meta Words
 
@@ -28,7 +28,7 @@ Distant
 
 **Level** 0
 
-This word increases a wordspell's range, as determined by its target word. If the word has a close range, it increases to medium (100 ft. + 10 ft._dir/level). If the word has a medium range, it increases to long (400 ft. + 40 ft._dir/level). This word has no effect on target words with a range other than close or medium.
+This word increases a wordspell's range, as determined by its target word. If the word has a close range, it increases to medium (100 ft. + 10 ft./level). If the word has a medium range, it increases to long (400 ft. + 40 ft./level). This word has no effect on target words with a range other than close or medium.
 
 Irresistible
 

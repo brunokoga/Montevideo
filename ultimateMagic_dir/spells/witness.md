@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/witness
+title: ultimateMagic/spells/witness
 ---
 Witness
 
@@ -10,11 +10,11 @@ Witness
 
 **Components** V, S
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Target** one living creature
 
-**Duration** 1 minute_dir/level (D)
+**Duration** 1 minute/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

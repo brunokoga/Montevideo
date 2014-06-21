@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills_dir/linguistics
+title: skills/linguistics
 ---
 # Linguistics
 

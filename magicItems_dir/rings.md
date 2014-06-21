@@ -1,6 +1,6 @@
 ---
 layout: default
-title: magicItems_dir/rings
+title: magicItems/rings
 ---
 # Rings
 
@@ -72,11 +72,11 @@ A character can only effectively wear two magic rings. A third magic ring doesn'
 
 **Description**
 
-A _ring of animal friendship_ always bears some sort of animal-like design in its craftsmanship. On command, this ring affects an animal as if the wearer had cast _ [charm animal](../spells_dir/charmAnimal#_charm-animal)_.
+A _ring of animal friendship_ always bears some sort of animal-like design in its craftsmanship. On command, this ring affects an animal as if the wearer had cast _ [charm animal](../spells/charmAnimal#_charm-animal)_.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [charm animal](../spells_dir/charmAnimal#_charm-animal)_; **Cost** 5,400 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [charm animal](../spells/charmAnimal#_charm-animal)_; **Cost** 5,400 gp
 
 **Ring of Blinking**
 
@@ -86,11 +86,11 @@ A _ring of animal friendship_ always bears some sort of animal-like design in it
 
 **Description**
 
-On command, this ring makes the wearer blink, as the _ [blink](../spells_dir/blink#_blink) _spell.
+On command, this ring makes the wearer blink, as the _ [blink](../spells/blink#_blink) _spell.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [blink](../spells_dir/blink#_blink)_; **Cost** 13,500 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [blink](../spells/blink#_blink)_; **Cost** 13,500 gp
 
 **Ring of Chameleon Power**
 
@@ -100,11 +100,11 @@ On command, this ring makes the wearer blink, as the _ [blink](../spells_dir/bli
 
 **Description**
 
-As a free action, the wearer of this ring can gain the ability to magically blend in with the surroundings. This provides a +10 competence bonus on her [Stealth](../skills_dir/stealth#_stealth) checks. As a standard action, she can also use the spell _ [disguise self](../spells_dir/disguiseSelf#_disguise-self) _as often as she wants.
+As a free action, the wearer of this ring can gain the ability to magically blend in with the surroundings. This provides a +10 competence bonus on her [Stealth](../skills/stealth#_stealth) checks. As a standard action, she can also use the spell _ [disguise self](../spells/disguiseSelf#_disguise-self) _as often as she wants.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [disguise self](../spells_dir/disguiseSelf#_disguise-self), [invisibility](../spells_dir/invisibility#_invisibility)_; **Cost** 6,350 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [disguise self](../spells/disguiseSelf#_disguise-self), [invisibility](../spells/invisibility#_invisibility)_; **Cost** 6,350 gp
 
 **Ring of Climbing**
 
@@ -114,11 +114,11 @@ As a free action, the wearer of this ring can gain the ability to magically blen
 
 **Description**
 
-This ring is actually a magic leather cord that ties around a finger. It continually grants the wearer a +5 competence bonus on [Climb](../skills_dir/climb#_climb) checks.
+This ring is actually a magic leather cord that ties around a finger. It continually grants the wearer a +5 competence bonus on [Climb](../skills/climb#_climb) checks.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 5 ranks in the [Climb](../skills_dir/climb#_climb) skill; **Cost** 1,250 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 5 ranks in the [Climb](../skills/climb#_climb) skill; **Cost** 1,250 gp
 
 **Ring of Climbing, Improved**
 
@@ -128,11 +128,11 @@ This ring is actually a magic leather cord that ties around a finger. It continu
 
 **Description**
 
-As a _ring of climbing_, except it grants a +10 competence bonus on its wearer's [Climb](../skills_dir/climb#_climb) checks.
+As a _ring of climbing_, except it grants a +10 competence bonus on its wearer's [Climb](../skills/climb#_climb) checks.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 10 ranks in the [Climb](../skills_dir/climb#_climb) skill; **Cost** 5,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 10 ranks in the [Climb](../skills/climb#_climb) skill; **Cost** 5,000 gp
 
 **Ring of Counterspells**
 
@@ -146,7 +146,7 @@ This ring might seem to be a _ring of spell storing _upon first examination. How
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [imbue with spell ability](../spells_dir/imbueWithSpellAbility#_imbue-with-spell-ability)_; **Cost** 2,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [imbue with spell ability](../spells/imbueWithSpellAbility#_imbue-with-spell-ability)_; **Cost** 2,000 gp
 
 **Ring of Djinni Calling**
 
@@ -156,11 +156,11 @@ This ring might seem to be a _ring of spell storing _upon first examination. How
 
 **Description**
 
-One of the many rings of fable, this “genie” ring is useful indeed. It serves as a special _ [gate](../spells_dir/gate#_gate) _by means of which a specific djinni can be called from the Plane of Air. When the ring is rubbed (a standard action), the call goes out, and the djinni appears on the next round. The djinni faithfully obeys and serves the wearer of the ring, but never for more than 1 hour per day. If the djinni of the ring is ever killed, the ring becomes nonmagical and worthless.
+One of the many rings of fable, this “genie” ring is useful indeed. It serves as a special _ [gate](../spells/gate#_gate) _by means of which a specific djinni can be called from the Plane of Air. When the ring is rubbed (a standard action), the call goes out, and the djinni appears on the next round. The djinni faithfully obeys and serves the wearer of the ring, but never for more than 1 hour per day. If the djinni of the ring is ever killed, the ring becomes nonmagical and worthless.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [gate](../spells_dir/gate#_gate)_; **Cost** 62,500 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [gate](../spells/gate#_gate)_; **Cost** 62,500 gp
 
 **Ring of Elemental Command**
 
@@ -172,7 +172,7 @@ One of the many rings of fable, this “genie” ring is useful indeed. It serve
 
 All four kinds of _elemental command _rings are very powerful. Each appears to be nothing more than a lesser magic ring until fully activated (by meeting a special condition, such as single-handedly slaying an elemental of the appropriate type or exposure to a sacred material of the appropriate element), but each has certain other powers as well as the following common properties.
 
-Elementals of the plane to which the ring is attuned can't attack the wearer, or even approach within 5 feet of him. If the wearer desires, he may forego this protection and instead attempt to charm the elemental (as _ [charm monster](../spells_dir/charmMonster#_charm-monster), _ [Will](../combat#_will) DC 17 negates). If the charm attempt fails, however, absolute protection is lost and no further attempt at charming can be made.
+Elementals of the plane to which the ring is attuned can't attack the wearer, or even approach within 5 feet of him. If the wearer desires, he may forego this protection and instead attempt to charm the elemental (as _ [charm monster](../spells/charmMonster#_charm-monster), _ [Will](../combat#_will) DC 17 negates). If the charm attempt fails, however, absolute protection is lost and no further attempt at charming can be made.
 
 Creatures from the plane to which the ring is attuned who attack the wearer take a –1 penalty on their attack rolls. The ring wearer makes applicable saving throws against the extraplanar creature's attacks with a +2 resistance bonus. He gains a +4 morale bonus on all attack rolls against such creatures. Any weapon he uses bypasses the [damage reduction](../glossary#_damage-reduction) of such creatures, regardless of any qualities the weapon may or may not have.
 
@@ -191,51 +191,51 @@ In addition to the powers described above, each specific ring gives its wearer t
 
 _Ring of Elemental Command (Air)_
 
-- _ [Feather fall](../spells_dir/featherFall#_feather-fall) _(unlimited use, wearer only)
-- _ [Resist energy](../spells_dir/resistEnergy#_resist-energy) (electricity) _(unlimited use, wearer only)
-- _ [Gust of wind](../spells_dir/gustOfWind#_gust-of-wind) _(twice per day)
-- _ [Wind wall](../spells_dir/windWall#_wind-wall) _(unlimited use)
-- _ [Air walk](../spells_dir/airWalk#_air-walk) _(once per day, wearer only)
-- _ [Chain lightning](../spells_dir/chainLightning#_chain-lightning) _(once per week)
+- _ [Feather fall](../spells/featherFall#_feather-fall) _(unlimited use, wearer only)
+- _ [Resist energy](../spells/resistEnergy#_resist-energy) (electricity) _(unlimited use, wearer only)
+- _ [Gust of wind](../spells/gustOfWind#_gust-of-wind) _(twice per day)
+- _ [Wind wall](../spells/windWall#_wind-wall) _(unlimited use)
+- _ [Air walk](../spells/airWalk#_air-walk) _(once per day, wearer only)
+- _ [Chain lightning](../spells/chainLightning#_chain-lightning) _(once per week)
 
 The ring appears to be a _ring of feather falling _until a certain condition is met to activate its full potential. It must be reactivated each time a new wearer acquires it.
 
 _Ring of Elemental Command (Earth)_
 
-- _ [Meld into stone](../spells_dir/meldIntoStone#_meld-into-stone) _(unlimited use, wearer only) 
-- _ [Soften earth and stone](../spells_dir/softenEarthAndStone#_soften-earth-and-stone) _(unlimited use)
-- _ [Stone shape](../spells_dir/stoneShape#_stone-shape) _(twice per day)
-- _ [Stoneskin](../spells_dir/stoneskin#_stoneskin) _(once per week, wearer only)
-- _ [Passwall](../spells_dir/passwall#_passwall) _(twice per week)
-- _ [Wall of stone](../spells_dir/wallOfStone#_wall-of-stone) _(once per day)
+- _ [Meld into stone](../spells/meldIntoStone#_meld-into-stone) _(unlimited use, wearer only) 
+- _ [Soften earth and stone](../spells/softenEarthAndStone#_soften-earth-and-stone) _(unlimited use)
+- _ [Stone shape](../spells/stoneShape#_stone-shape) _(twice per day)
+- _ [Stoneskin](../spells/stoneskin#_stoneskin) _(once per week, wearer only)
+- _ [Passwall](../spells/passwall#_passwall) _(twice per week)
+- _ [Wall of stone](../spells/wallOfStone#_wall-of-stone) _(once per day)
 
-The ring appears to be a _ring of meld into stone _(allowing the wearer to cast _ [meld into stone](../spells_dir/meldIntoStone#_meld-into-stone) _at will) until the established condition is met.
+The ring appears to be a _ring of meld into stone _(allowing the wearer to cast _ [meld into stone](../spells/meldIntoStone#_meld-into-stone) _at will) until the established condition is met.
 
 _Ring of Elemental Command (Fire)_
 
-- _ [Resist energy](../spells_dir/resistEnergy#_resist-energy) (fire) _(as a _major ring of energy resistance [fire]_)
-- _ [Burning hands](../spells_dir/burningHands#_burning-hands) _(unlimited use)
-- _ [Flaming sphere](../spells_dir/flamingSphere#_flaming-sphere) _(twice per day)
-- _ [Pyrotechnics](../spells_dir/pyrotechnics#_pyrotechnics) _(twice per day)
-- _ [Wall of fire](../spells_dir/wallOfFire#_wall-of-fire) _(once per day)
-- _ [Flame strike](../spells_dir/flameStrike#_flame-strike) _(twice per week)
+- _ [Resist energy](../spells/resistEnergy#_resist-energy) (fire) _(as a _major ring of energy resistance [fire]_)
+- _ [Burning hands](../spells/burningHands#_burning-hands) _(unlimited use)
+- _ [Flaming sphere](../spells/flamingSphere#_flaming-sphere) _(twice per day)
+- _ [Pyrotechnics](../spells/pyrotechnics#_pyrotechnics) _(twice per day)
+- _ [Wall of fire](../spells/wallOfFire#_wall-of-fire) _(once per day)
+- _ [Flame strike](../spells/flameStrike#_flame-strike) _(twice per week)
 
 The ring appears to be a _major ring of energy resistance (fire) _until the established condition is met.
 
 _Ring of Elemental Command (Water)_
 
-- _ [Water walk](../spells_dir/waterWalk#_water-walk) _(unlimited use)
-- _ [Create water](../spells_dir/createWater#_create-water) _(unlimited use)
-- _ [Water breathing](../spells_dir/waterBreathing#_water-breathing) _(unlimited use)
-- _ [Wall of ice](../spells_dir/wallOfIce#_wall-of-ice) _(once per day)
-- _ [Ice storm](../spells_dir/iceStorm#_ice-storm) _(twice per week)
-- _ [Control water](../spells_dir/controlWater#_control-water)_ (twice per week)
+- _ [Water walk](../spells/waterWalk#_water-walk) _(unlimited use)
+- _ [Create water](../spells/createWater#_create-water) _(unlimited use)
+- _ [Water breathing](../spells/waterBreathing#_water-breathing) _(unlimited use)
+- _ [Wall of ice](../spells/wallOfIce#_wall-of-ice) _(once per day)
+- _ [Ice storm](../spells/iceStorm#_ice-storm) _(twice per week)
+- _ [Control water](../spells/controlWater#_control-water)_ (twice per week)
 
 The ring appears to be a _ring of water walking _until the established condition is met.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [summon monster VI](../spells_dir/summonMonster#_summon-monster-vi)_, all appropriate spells; **Cost** 100,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [summon monster VI](../spells/summonMonster#_summon-monster-vi)_, all appropriate spells; **Cost** 100,000 gp
 
 **Ring of Energy Resistance**
 
@@ -251,7 +251,7 @@ A _minor ring of energy resistance_ grants 10 points of [resistance](../glossary
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [resist energy](../spells_dir/resistEnergy#_resist-energy)_; **Cost** 6,000 gp (minor), 14,000 gp (major), 22,000 gp (greater)
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [resist energy](../spells/resistEnergy#_resist-energy)_; **Cost** 6,000 gp (minor), 14,000 gp (major), 22,000 gp (greater)
 
 **Ring of Evasion**
 
@@ -265,7 +265,7 @@ This ring continually grants the wearer the ability to avoid damage as if she ha
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [jump](../spells_dir/jump#_jump)_; **Cost** 12,500 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [jump](../spells/jump#_jump)_; **Cost** 12,500 gp
 
 **Ring of Feather Falling**
 
@@ -275,11 +275,11 @@ This ring continually grants the wearer the ability to avoid damage as if she ha
 
 **Description**
 
-This ring is crafted with a feather pattern all around its edge. It acts exactly like a _ [feather fall](../spells_dir/featherFall#_feather-fall) _spell, activated immediately if the wearer falls more than 5 feet.
+This ring is crafted with a feather pattern all around its edge. It acts exactly like a _ [feather fall](../spells/featherFall#_feather-fall) _spell, activated immediately if the wearer falls more than 5 feet.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [feather fall](../spells_dir/featherFall#_feather-fall)_; **Cost** 1,100 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [feather fall](../spells/featherFall#_feather-fall)_; **Cost** 1,100 gp
 
 **Ring of Force Shield**
 
@@ -289,11 +289,11 @@ This ring is crafted with a feather pattern all around its edge. It acts exactly
 
 **Description**
 
-An iron band, this simple ring generates a shield-sized (and shield-shaped) _ [wall of force](../spells_dir/wallOfForce#_wall-of-force) _that stays with the ring and can be wielded by the wearer as if it were a heavy shield (+2 [AC](../combat#_armor-class)). This special creation has no armor check penalty or arcane spell failure chance since it is weightless and encumbrance-free. It can be activated and deactivated at will as a free action.
+An iron band, this simple ring generates a shield-sized (and shield-shaped) _ [wall of force](../spells/wallOfForce#_wall-of-force) _that stays with the ring and can be wielded by the wearer as if it were a heavy shield (+2 [AC](../combat#_armor-class)). This special creation has no armor check penalty or arcane spell failure chance since it is weightless and encumbrance-free. It can be activated and deactivated at will as a free action.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [wall of force](../spells_dir/wallOfForce#_wall-of-force)_; **Cost** 4,250 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [wall of force](../spells/wallOfForce#_wall-of-force)_; **Cost** 4,250 gp
 
 **Ring of Freedom of Movement**
 
@@ -303,11 +303,11 @@ An iron band, this simple ring generates a shield-sized (and shield-shaped) _ [w
 
 **Description**
 
-This gold ring allows the wearer to act as if continually under the effect of a _ [freedom of movement](../spells_dir/freedomOfMovement#_freedom-of-movement) _spell.
+This gold ring allows the wearer to act as if continually under the effect of a _ [freedom of movement](../spells/freedomOfMovement#_freedom-of-movement) _spell.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [freedom of movement](../spells_dir/freedomOfMovement#_freedom-of-movement)_; **Cost** 20,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [freedom of movement](../spells/freedomOfMovement#_freedom-of-movement)_; **Cost** 20,000 gp
 
 **Ring of Friend Shield**
 
@@ -317,11 +317,11 @@ This gold ring allows the wearer to act as if continually under the effect of a 
 
 **Description**
 
-These curious rings always come in pairs. A _friend shield _ring without its mate is useless. Either wearer of one of a pair of the rings can, at any time, command his ring to cast a _ [shield other](../spells_dir/shieldOther#_shield-other) _spell with the wearer of the mated ring as the recipient. This effect has no range limitation.
+These curious rings always come in pairs. A _friend shield _ring without its mate is useless. Either wearer of one of a pair of the rings can, at any time, command his ring to cast a _ [shield other](../spells/shieldOther#_shield-other) _spell with the wearer of the mated ring as the recipient. This effect has no range limitation.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [shield other](../spells_dir/shieldOther#_shield-other)_; **Cost** 25,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [shield other](../spells/shieldOther#_shield-other)_; **Cost** 25,000 gp
 
 **Ring of Invisibility**
 
@@ -331,11 +331,11 @@ These curious rings always come in pairs. A _friend shield _ring without its mat
 
 **Description**
 
-By activating this simple silver ring, the wearer can benefit from _ [invisibility](../spells_dir/invisibility#_invisibility)_, as the spell.
+By activating this simple silver ring, the wearer can benefit from _ [invisibility](../spells/invisibility#_invisibility)_, as the spell.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [invisibility](../spells_dir/invisibility#_invisibility)_; **Cost** 10,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [invisibility](../spells/invisibility#_invisibility)_; **Cost** 10,000 gp
 
 **Ring of Jumping**
 
@@ -345,11 +345,11 @@ By activating this simple silver ring, the wearer can benefit from _ [invisibili
 
 **Description**
 
-This ring continually allows the wearer to leap about, providing a +5 competence bonus on all his [Acrobatics](../skills_dir/acrobatics#_acrobatics) checks made to make high or long jumps.
+This ring continually allows the wearer to leap about, providing a +5 competence bonus on all his [Acrobatics](../skills/acrobatics#_acrobatics) checks made to make high or long jumps.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 5 ranks in the [Acrobatics](../skills_dir/acrobatics#_acrobatics) skill; **Cost** 1,250 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 5 ranks in the [Acrobatics](../skills/acrobatics#_acrobatics) skill; **Cost** 1,250 gp
 
 **Ring of Jumping, Improved**
 
@@ -359,11 +359,11 @@ This ring continually allows the wearer to leap about, providing a +5 competence
 
 **Description**
 
-As a _ring of jumping_, except it grants a +10 competence bonus on its wearer's [Acrobatics](../skills_dir/acrobatics#_acrobatics) checks made to make high or long jumps.
+As a _ring of jumping_, except it grants a +10 competence bonus on its wearer's [Acrobatics](../skills/acrobatics#_acrobatics) checks made to make high or long jumps.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 10 ranks in the [Acrobatics](../skills_dir/acrobatics#_acrobatics) skill; **Cost** 5,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 10 ranks in the [Acrobatics](../skills/acrobatics#_acrobatics) skill; **Cost** 5,000 gp
 
 **Ring of Mind Shielding**
 
@@ -373,11 +373,11 @@ As a _ring of jumping_, except it grants a +10 competence bonus on its wearer's 
 
 **Description**
 
-This ring is usually of fine workmanship and wrought from heavy gold. The wearer is continually immune to _ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts), [discern lies](../spells_dir/discernLies#_discern-lies), _and any attempt to magically discern her alignment_._
+This ring is usually of fine workmanship and wrought from heavy gold. The wearer is continually immune to _ [detect thoughts](../spells/detectThoughts#_detect-thoughts), [discern lies](../spells/discernLies#_discern-lies), _and any attempt to magically discern her alignment_._
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [nondetection](../spells_dir/nondetection#_nondetection)_; **Cost** 4,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [nondetection](../spells/nondetection#_nondetection)_; **Cost** 4,000 gp
 
 **Ring of Protection**
 
@@ -391,7 +391,7 @@ This ring offers continual magical protection in the form of a deflection bonus 
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [shield of faith](../spells_dir/shieldOfFaith#_shield-of-faith),_ caster must be of a level at least three times the bonus of the ring; **Cost** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5)
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [shield of faith](../spells/shieldOfFaith#_shield-of-faith),_ caster must be of a level at least three times the bonus of the ring; **Cost** 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5)
 
 **Ring of the Ram**
 
@@ -411,7 +411,7 @@ A newly created ring has 50 charges. When all the charges are expended, the ring
 
 **CONSTRUCTION**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [bull's strength](../spells_dir/bullSStrength#_bull-s-strength), [telekinesis](../spells_dir/telekinesis#_telekinesis)_; **Cost** 4,300 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [bull's strength](../spells/bullSStrength#_bull-s-strength), [telekinesis](../spells/telekinesis#_telekinesis)_; **Cost** 4,300 gp
 
 **Ring of Regeneration**
 
@@ -425,7 +425,7 @@ This white gold ring is generally set with a large green sapphire. When worn, th
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [regenerate](../spells_dir/regenerate#_regenerate)_; **Cost** 45,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [regenerate](../spells/regenerate#_regenerate)_; **Cost** 45,000 gp
 
 **Ring of Shooting Stars**
 
@@ -439,12 +439,12 @@ This ring has two modes of operation: one for being in dim light or outdoors at 
 
 During the night, under the open sky or in areas of shadow or darkness, the _ring of shooting stars _can perform the following functions on command.
 
-- _ [Dancing lights](../spells_dir/dancingLights#_dancing-lights)_ (once per hour)
-- _ [Light](../spells_dir/light#_light)_ (twice per night)
+- _ [Dancing lights](../spells/dancingLights#_dancing-lights)_ (once per hour)
+- _ [Light](../spells/light#_light)_ (twice per night)
 - Ball lightning (special, once per night)
 - Shooting stars (special, three per week)
 
-The first special function, ball lightning_, _releases one to four balls of lightning (ring wearer's choice). These glowing globes resemble _ [dancing lights](../spells_dir/dancingLights#_dancing-lights)_, and the ring wearer controls them similarly (see the _ [dancing lights](../spells_dir/dancingLights#_dancing-lights) _spell description). The spheres have a 120-foot range and a duration of 4 rounds. They can be moved at 120 feet per round. Each sphere is about 3 feet in diameter, and any creature who comes within 5 feet of one causes its charge to dissipate, taking electricity damage in the process according to the number of balls created.
+The first special function, ball lightning_, _releases one to four balls of lightning (ring wearer's choice). These glowing globes resemble _ [dancing lights](../spells/dancingLights#_dancing-lights)_, and the ring wearer controls them similarly (see the _ [dancing lights](../spells/dancingLights#_dancing-lights) _spell description). The spheres have a 120-foot range and a duration of 4 rounds. They can be moved at 120 feet per round. Each sphere is about 3 feet in diameter, and any creature who comes within 5 feet of one causes its charge to dissipate, taking electricity damage in the process according to the number of balls created.
 
 | Number of Balls | Damage per Ball |
 | --- | --- |
@@ -455,20 +455,20 @@ The first special function, ball lightning_, _releases one to four balls of ligh
 
 Once the ball lightning function is activated, the balls can be released at any time before the sun rises. Multiple balls can be released in the same round.
 
-The second special function produces three shooting stars that can be released from the ring each week, simultaneously or one at a time. They impact for 12 points of damage and spread (as a _ [fireball](../spells_dir/fireball#_fireball)_) in a 5-foot-radius sphere for 24 points of fire damage.
+The second special function produces three shooting stars that can be released from the ring each week, simultaneously or one at a time. They impact for 12 points of damage and spread (as a _ [fireball](../spells/fireball#_fireball)_) in a 5-foot-radius sphere for 24 points of fire damage.
 
 Any creature struck by a shooting star takes full damage from impact plus full fire damage from the spread unless it makes a DC 13 [Reflex](../combat#_reflex) save. Creatures not struck but within the spread ignore the impact damage and take only half damage from the fire spread on a successful DC 13 [Reflex](../combat#_reflex) save. Range is 70 feet, at the end of which the shooting star explodes unless it strikes a creature or object before that. A shooting star always follows a straight line, and any creature in its path must make a save or be hit by the projectile.
 
 Indoors at night, or underground, the _ring of shooting stars _has the following properties.
 
-- _ [Faerie fire](../spells_dir/faerieFire#_faerie-fire)_ (twice per day)
+- _ [Faerie fire](../spells/faerieFire#_faerie-fire)_ (twice per day)
 - Spark shower (special, once per day)
 
-The spark shower is a flying cloud of sizzling purple sparks that fan out from the ring for a distance of 20 feet in an arc 10 feet wide. Creatures within this area take 2d8 points of damage each if not wearing metal armor or carrying a metal weapon. Those wearing metal armor and_dir/or carrying a metal weapon take 4d8 points of damage.
+The spark shower is a flying cloud of sizzling purple sparks that fan out from the ring for a distance of 20 feet in an arc 10 feet wide. Creatures within this area take 2d8 points of damage each if not wearing metal armor or carrying a metal weapon. Those wearing metal armor and/or carrying a metal weapon take 4d8 points of damage.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring)_, [faerie fire](../spells_dir/faerieFire#_faerie-fire), [fireball](../spells_dir/fireball#_fireball)_, _ [light](../spells_dir/light#_light), [lightning bolt](../spells_dir/lightningBolt#_lightning-bolt)_; **Cost** 25,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring)_, [faerie fire](../spells/faerieFire#_faerie-fire), [fireball](../spells/fireball#_fireball)_, _ [light](../spells/light#_light), [lightning bolt](../spells/lightningBolt#_lightning-bolt)_; **Cost** 25,000 gp
 
 **Ring of Spell Storing, Minor**
 
@@ -488,7 +488,7 @@ The ring magically imparts to the wearer the names of all spells currently store
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [imbue with spell ability](../spells_dir/imbueWithSpellAbility#_imbue-with-spell-ability)_; **Cost** 9,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [imbue with spell ability](../spells/imbueWithSpellAbility#_imbue-with-spell-ability)_; **Cost** 9,000 gp
 
 **Ring of Spell Storing**
 
@@ -502,7 +502,7 @@ As the _minor ring of spell storing, _except it holds up to 5 levels of spells.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [imbue with spell ability](../spells_dir/imbueWithSpellAbility#_imbue-with-spell-ability)_; **Cost** 25,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [imbue with spell ability](../spells/imbueWithSpellAbility#_imbue-with-spell-ability)_; **Cost** 25,000 gp
 
 **Ring of Spell Storing, Major**
 
@@ -516,7 +516,7 @@ As the _minor ring of spell storing, _except it holds up to 10 levels of spells.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [imbue with spell ability](../spells_dir/imbueWithSpellAbility#_imbue-with-spell-ability)_; **Cost** 100,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [imbue with spell ability](../spells/imbueWithSpellAbility#_imbue-with-spell-ability)_; **Cost** 100,000 gp
 
 **Ring of Spell Turning**
 
@@ -526,11 +526,11 @@ As the _minor ring of spell storing, _except it holds up to 10 levels of spells.
 
 **Description**
 
-Up to three times per day on command, this simple platinum band automatically reflects the next nine levels of spells cast at the wearer, exactly as if _ [spell turning](../spells_dir/spellTurning#_spell-turning) _had been cast upon him.
+Up to three times per day on command, this simple platinum band automatically reflects the next nine levels of spells cast at the wearer, exactly as if _ [spell turning](../spells/spellTurning#_spell-turning) _had been cast upon him.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [spell turning](../spells_dir/spellTurning#_spell-turning)_; **Cost** 50,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [spell turning](../spells/spellTurning#_spell-turning)_; **Cost** 50,000 gp
 
 **Ring of Sustenance**
 
@@ -544,7 +544,7 @@ This ring continually provides its wearer with life-sustaining nourishment. The 
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [create food and water](../spells_dir/createFoodAndWater#_create-food-and-water)_; **Cost** 1,250 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [create food and water](../spells/createFoodAndWater#_create-food-and-water)_; **Cost** 1,250 gp
 
 **Ring of Swimming**
 
@@ -554,11 +554,11 @@ This ring continually provides its wearer with life-sustaining nourishment. The 
 
 **Description**
 
-This silver ring usually has fish-like designs and motifs etched into the band. It continually grants the wearer a +5 competence bonus on [Swim](../skills_dir/swim#_swim) checks.
+This silver ring usually has fish-like designs and motifs etched into the band. It continually grants the wearer a +5 competence bonus on [Swim](../skills/swim#_swim) checks.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 5 ranks in the [Swim](../skills_dir/swim#_swim) skill; **Cost** 1,250 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 5 ranks in the [Swim](../skills/swim#_swim) skill; **Cost** 1,250 gp
 
 **Ring of Swimming, Improved**
 
@@ -568,11 +568,11 @@ This silver ring usually has fish-like designs and motifs etched into the band. 
 
 **Description**
 
-As a _ring of swimming_, except it grants a +10 competence bonus on its wearer's [Swim](../skills_dir/swim#_swim) checks.
+As a _ring of swimming_, except it grants a +10 competence bonus on its wearer's [Swim](../skills/swim#_swim) checks.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 10 ranks in the [Swim](../skills_dir/swim#_swim) skill; **Cost** 5,000 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), creator must have 10 ranks in the [Swim](../skills/swim#_swim) skill; **Cost** 5,000 gp
 
 **Ring of Telekinesis**
 
@@ -582,25 +582,25 @@ As a _ring of swimming_, except it grants a +10 competence bonus on its wearer's
 
 **Description**
 
-This ring allows the caster to use the spell _ [telekinesis](../spells_dir/telekinesis#_telekinesis) _on command.
+This ring allows the caster to use the spell _ [telekinesis](../spells/telekinesis#_telekinesis) _on command.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [telekinesis](../spells_dir/telekinesis#_telekinesis)_; **Cost** 37,500 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [telekinesis](../spells/telekinesis#_telekinesis)_; **Cost** 37,500 gp
 
 **Ring of Three Wishes**
 
-**Aura** strong universal or evocation (if _ [miracle](../spells_dir/miracle#_miracle) _is used); **CL** 20th
+**Aura** strong universal or evocation (if _ [miracle](../spells/miracle#_miracle) _is used); **CL** 20th
 
 **Slot** ring; **Price** 120,000 gp; **Weight** —
 
 **Description**
 
-This ring is set with three rubies. Each ruby stores a _ [wish](../spells_dir/wish#_wish) _spell, activated by the ring. When a _ [wish](../spells_dir/wish#_wish) _is used, that ruby disappears. For a randomly generated ring, roll 1d3 to determine the remaining number of rubies. When all the _ [wishes](../spells_dir/wish#_wish) _are used, the ring becomes a nonmagical item.
+This ring is set with three rubies. Each ruby stores a _ [wish](../spells/wish#_wish) _spell, activated by the ring. When a _ [wish](../spells/wish#_wish) _is used, that ruby disappears. For a randomly generated ring, roll 1d3 to determine the remaining number of rubies. When all the _ [wishes](../spells/wish#_wish) _are used, the ring becomes a nonmagical item.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [wish](../spells_dir/wish#_wish)_ or _ [miracle](../spells_dir/miracle#_miracle)_; **Cost** 97,500 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [wish](../spells/wish#_wish)_ or _ [miracle](../spells/miracle#_miracle)_; **Cost** 97,500 gp
 
 **Ring of Water Walking**
 
@@ -610,11 +610,11 @@ This ring is set with three rubies. Each ruby stores a _ [wish](../spells_dir/wi
 
 **Description**
 
-This ring is often made of coral or bluish metal decorated with wave motifs. It allows the wearer to continually utilize the effects of the spell _ [water walk](../spells_dir/waterWalk#_water-walk)_.
+This ring is often made of coral or bluish metal decorated with wave motifs. It allows the wearer to continually utilize the effects of the spell _ [water walk](../spells/waterWalk#_water-walk)_.
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [water walk](../spells_dir/waterWalk#_water-walk)_; **Cost** 7,500 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [water walk](../spells/waterWalk#_water-walk)_; **Cost** 7,500 gp
 
 **Ring of Wizardry**
 
@@ -628,7 +628,7 @@ This special ring comes in four kinds (_ring of wizardry I, ring of wizardry II,
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [limited wish](../spells_dir/limitedWish#_limited-wish)_; **Cost** 10,000 gp (I), 20,000 gp (II), 35,000 gp (III), 50,000 gp (IV)
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [limited wish](../spells/limitedWish#_limited-wish)_; **Cost** 10,000 gp (I), 20,000 gp (II), 35,000 gp (III), 50,000 gp (IV)
 
 **Ring of X-Ray Vision**
 
@@ -644,5 +644,5 @@ Using the ring is exhausting, causing the wearer 1 point of [Constitution](../ge
 
 **Construction**
 
-**Requirements** [Forge Ring](../feats#_forge-ring), _ [true seeing](../spells_dir/trueSeeing#_true-seeing)_; **Cost** 12,500 gp
+**Requirements** [Forge Ring](../feats#_forge-ring), _ [true seeing](../spells/trueSeeing#_true-seeing)_; **Cost** 12,500 gp
 

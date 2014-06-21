@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/dancingLights
+title: spells/dancingLights
 ---
  **Dancing Lights**
 
-**School** evocation [light]; **Level** bard 0, sorcerer_dir/wizard 0
+**School** evocation [light]; **Level** bard 0, sorcerer/wizard 0
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Effect** Up to four lights, all within a 10-ft.-radius area
 

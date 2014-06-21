@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/delayPoison
+title: spells/delayPoison
 ---
  **Delay Poison**
 
@@ -14,7 +14,7 @@ title: spells_dir/delayPoison
 
 **Target** creature touched
 
-**Duration** 1 hour_dir/level
+**Duration** 1 hour/level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

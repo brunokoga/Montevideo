@@ -1,10 +1,10 @@
 ---
 layout: default
-title: monsters_dir/shadow
+title: monsters/shadow
 ---
 # Shadow
 
-_Barely seen out of the corner of the eye, this wisp of [shadow](../magicItems_dir/armor#_armor-shadow) is vaguely humanoid in outline and writhes with unholy life._
+_Barely seen out of the corner of the eye, this wisp of [shadow](../magicItems/armor#_armor-shadow) is vaguely humanoid in outline and writhes with unholy life._
 
 **Shadow CR 3**
 
@@ -12,7 +12,7 @@ _Barely seen out of the corner of the eye, this wisp of [shadow](../magicItems_d
 
 CE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorporeal-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +8
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +8
 
 **Defense**
 
@@ -38,9 +38,9 @@ CE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorpo
 
 **Base Atk** +2; **CMB** +4; **CMD** 17
 
-**Feats** [Dodge](../feats#_dodge), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Dodge](../feats#_dodge), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
 
-**Skills** [Fly](../skills_dir/fly#_fly) +11, [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +8 (+12 in dim light, +4 in bright light); **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth) in dim light (–4 in bright light)
+**Skills** [Fly](../skills/fly#_fly) +11, [Perception](../skills/perception#_perception) +8, [Stealth](../skills/stealth#_stealth) +8 (+12 in dim light, +4 in bright light); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) in dim light (–4 in bright light)
 
 **Ecology**
 
@@ -68,7 +68,7 @@ _This shadowy figure sways and moves with an erratic grace, as if lit by an unse
 
 CE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorporeal-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +13
+**Init** +5; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +13
 
 **Defense**
 
@@ -94,9 +94,9 @@ CE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorpo
 
 **Base Atk** +6; **CMB** +11; **CMD** 24
 
-**Feats** [Dodge](../feats#_dodge), [Flyby Attack](monsterFeats#_flyby-attack), [Mobility](../feats#_mobility), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception), [Stealth](../skills_dir/stealth#_stealth))
+**Feats** [Dodge](../feats#_dodge), [Flyby Attack](monsterFeats#_flyby-attack), [Mobility](../feats#_mobility), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception), [Stealth](../skills/stealth#_stealth))
 
-**Skills** [Fly](../skills_dir/fly#_fly) +15, [Perception](../skills_dir/perception#_perception) +13, [Stealth](../skills_dir/stealth#_stealth) +20 (+24 in dim light, +16 in bright light); **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth) in dim light (–4 in bright light)
+**Skills** [Fly](../skills/fly#_fly) +15, [Perception](../skills/perception#_perception) +13, [Stealth](../skills/stealth#_stealth) +20 (+24 in dim light, +16 in bright light); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) in dim light (–4 in bright light)
 
 **Ecology**
 

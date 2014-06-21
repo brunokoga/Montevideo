@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/surmountAffliction
+title: ultimateMagic/spells/surmountAffliction
 ---
 Surmount Affliction
 
@@ -14,7 +14,7 @@ Surmount Affliction
 
 **Target** personal
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 You temporarily overcome one harmful condition. This does not end the effect causing the condition; it just suspends that condition's effect for the duration of the spell. You can surmount any one of the following conditions: blinded, confused, dazed, dazzled, deafened, fatigued, frightened, paralyzed, shaken, or sickened.
 

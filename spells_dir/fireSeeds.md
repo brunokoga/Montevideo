@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/fireSeeds
+title: spells/fireSeeds
 ---
  **Fire Seeds**
 
@@ -14,7 +14,7 @@ title: spells_dir/fireSeeds
 
 **Targets** up to four acorns or up to eight holly berries
 
-**Duration** 10 min._dir/level or until used
+**Duration** 10 min./level or until used
 
 **Saving Throw** none or [Reflex](../combat#_reflex) half; see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

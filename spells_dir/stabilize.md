@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/stabilize
+title: spells/stabilize
 ---
  **Stabilize**
 
@@ -10,7 +10,7 @@ title: spells_dir/stabilize
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one living creature
 

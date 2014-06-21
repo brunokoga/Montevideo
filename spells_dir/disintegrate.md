@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/disintegrate
+title: spells/disintegrate
 ---
  **Disintegrate**
 
-**School** transmutation; **Level** sorcerer_dir/wizard 6
+**School** transmutation; **Level** sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M_dir/DF (a lodestone and a pinch of dust)
+**Components** V, S, M/DF (a lodestone and a pinch of dust)
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Effect** ray
 

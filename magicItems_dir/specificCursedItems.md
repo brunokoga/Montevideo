@@ -1,6 +1,6 @@
 ---
 layout: default
-title: magicItems_dir/specificCursedItems
+title: magicItems/specificCursedItems
 ---
 # Specific Cursed Items
 
@@ -45,11 +45,11 @@ Cursed suits of armor and weapons can come in many forms, and the examples liste
 
 **Aura** moderate abjuration; **CL** 10th
 
-**Slot** neck; **Weight** 1_dir/2 lb.
+**Slot** neck; **Weight** 1/2 lb.
 
 **Description**
 
-This device appears to prevent location, scrying and detection, or influence by _ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts) _or telepathy, as per an _ [amulet of proof against detection and location](wondrousItems#_amulet-of-proof-against-detection-and-location)_. Actually, the amulet gives the wearer a –10 penalty on all saves against divination spells.
+This device appears to prevent location, scrying and detection, or influence by _ [detect thoughts](../spells/detectThoughts#_detect-thoughts) _or telepathy, as per an _ [amulet of proof against detection and location](wondrousItems#_amulet-of-proof-against-detection-and-location)_. Actually, the amulet gives the wearer a –10 penalty on all saves against divination spells.
 
 **Creation**
 
@@ -95,7 +95,7 @@ This bag appears to be an ordinary sack. Detection for magical properties makes 
 
 Any substance of animal or vegetable nature is subject to “swallowing'' if thrust within the bag. The _bag of devouring _is 90% likely to ignore any initial intrusion, but anytime thereafter that it senses living flesh within (such as if someone reaches into the bag to pull something out), it is 60% likely to close around the offending member and attempt to draw the whole victim in. The bag has a +8 bonus on combat maneuver checks made to grapple. If it pins a creature, it pulls them inside as a free action. The bag has [CMD](../combat#_combat-maneuver-defense) of 18 for those attempting to break free.
 
-The bag can hold up to 30 cubic feet of matter. It acts as a _ [bag of holding](wondrousItems#_bag-of-holding) type I_, but each hour it has a 5% cumulative chance of swallowing the contents and then spitting the stuff out in some nonspace or on some other plane. Creatures drawn within are consumed in 1 round. The bag destroys the victim's body and prevents any form of raising or [resurrection](../spells_dir/resurrection#_resurrection) that requires part of the corpse. There is a 50% chance that a _ [wish](../spells_dir/wish#_wish)_, _ [miracle](../spells_dir/miracle#_miracle)_, or _true [resurrection](../spells_dir/resurrection#_resurrection)_ spell can restore a devoured victim to life. Check once for each destroyed creature. If the check fails, the creature cannot be brought back to life by mortal magic.
+The bag can hold up to 30 cubic feet of matter. It acts as a _ [bag of holding](wondrousItems#_bag-of-holding) type I_, but each hour it has a 5% cumulative chance of swallowing the contents and then spitting the stuff out in some nonspace or on some other plane. Creatures drawn within are consumed in 1 round. The bag destroys the victim's body and prevents any form of raising or [resurrection](../spells/resurrection#_resurrection) that requires part of the corpse. There is a 50% chance that a _ [wish](../spells/wish#_wish)_, _ [miracle](../spells/miracle#_miracle)_, or _true [resurrection](../spells/resurrection#_resurrection)_ spell can restore a devoured victim to life. Check once for each destroyed creature. If the check fails, the creature cannot be brought back to life by mortal magic.
 
 **Creation**
 
@@ -109,7 +109,7 @@ The bag can hold up to 30 cubic feet of matter. It acts as a _ [bag of holding](
 
 **Description**
 
-These boots appear and function as one of the other kinds of magic boots. When the wearer is in (or fleeing from) melee combat, _boots of dancing _impede movement, making him behave as if _ [irresistible dance](../spells_dir/irresistibleDance#_irresistible-dance) _had been cast upon him. Only a _ [remove curse](../spells_dir/removeCurse#_remove-curse) _spell enables the wearer to be rid of the boots once their true nature is revealed.
+These boots appear and function as one of the other kinds of magic boots. When the wearer is in (or fleeing from) melee combat, _boots of dancing _impede movement, making him behave as if _ [irresistible dance](../spells/irresistibleDance#_irresistible-dance) _had been cast upon him. Only a _ [remove curse](../spells/removeCurse#_remove-curse) _spell enables the wearer to be rid of the boots once their true nature is revealed.
 
 **Creation**
 
@@ -123,7 +123,7 @@ These boots appear and function as one of the other kinds of magic boots. When t
 
 **Description**
 
-These bejeweled and shining bracers initially appear to be _ [bracers of armor](wondrousItems#_bracers-of-armor) +5 _and actually serve as such until the wearer is attacked in anger by an enemy with a Challenge Rating equal to or greater than her level. At that moment and thereafter, the bracers cause a –5 penalty to [AC](../combat#_armor-class). Once their curse is activated, _bracers of defenselessness _can be removed only by means of a _ [remove curse](../spells_dir/removeCurse#_remove-curse) _spell.
+These bejeweled and shining bracers initially appear to be _ [bracers of armor](wondrousItems#_bracers-of-armor) +5 _and actually serve as such until the wearer is attacked in anger by an enemy with a Challenge Rating equal to or greater than her level. At that moment and thereafter, the bracers cause a –5 penalty to [AC](../combat#_armor-class). Once their curse is activated, _bracers of defenselessness _can be removed only by means of a _ [remove curse](../spells/removeCurse#_remove-curse) _spell.
 
 **Creation**
 
@@ -153,7 +153,7 @@ If a creature attempts to fly using the broom, the broom does a loop-the-loop wi
 
 **Description**
 
-This cursed scrying device is indistinguishable, at first glance, from a normal _ [crystal ball](wondrousItems#_crystal-ball). _However, anyone attempting to use the scrying device becomes [fascinated](../glossary#_fascinated) for 1d6 minutes, and a telepathic _ [suggestion](../spells_dir/suggestion#_suggestion) _is implanted in his mind ( [Will](../combat#_will) DC 19 negates).
+This cursed scrying device is indistinguishable, at first glance, from a normal _ [crystal ball](wondrousItems#_crystal-ball). _However, anyone attempting to use the scrying device becomes [fascinated](../glossary#_fascinated) for 1d6 minutes, and a telepathic _ [suggestion](../spells/suggestion#_suggestion) _is implanted in his mind ( [Will](../combat#_will) DC 19 negates).
 
 The user of the device believes that the desired creature or scene was viewed, but actually he came under the influence of a powerful wizard, lich, or even some power or being from another plane. Each further use brings the _crystal hypnosis ball_ gazer deeper under the influence of the controller, either as a servant or a tool. Note that throughout this time, the user remains unaware of his subjugation.
 
@@ -183,7 +183,7 @@ This fine dust appears to be _ [dust of appearance](wondrousItems#_dust-of-appea
 
 **Description**
 
-This item looks like an ordinary beaker, bottle, container, decanter, flask, or jug. It may contain a liquid, or it may emit smoke. When the flask is first unstoppered, all within 30 feet must make a DC 17 [Will](../combat#_will) save or be cursed, taking a –2 penalty on attack rolls, saving throws, and skill checks until a _ [remove curse](../spells_dir/removeCurse#_remove-curse) _spell is cast upon them.
+This item looks like an ordinary beaker, bottle, container, decanter, flask, or jug. It may contain a liquid, or it may emit smoke. When the flask is first unstoppered, all within 30 feet must make a DC 17 [Will](../combat#_will) save or be cursed, taking a –2 penalty on attack rolls, saving throws, and skill checks until a _ [remove curse](../spells/removeCurse#_remove-curse) _spell is cast upon them.
 
 **Creation**
 
@@ -197,7 +197,7 @@ This item looks like an ordinary beaker, bottle, container, decanter, flask, or 
 
 **Description**
 
-These gauntlets perform according to their appearance until the wearer finds herself under attack or in a life-and-death situation. At that time, the curse is activated. The wearer becomes fumble-fingered, with a 50% chance each round of dropping anything held in either hand. The gauntlets also lower [Dexterity](../gettingStarted#_dexterity) by 2 points. Once the curse is activated, the gloves can be removed only by means of a _ [remove curse](../spells_dir/removeCurse#_remove-curse) _spell, a _ [wish](../spells_dir/wish#_wish), _or a _ [miracle](../spells_dir/miracle#_miracle)._
+These gauntlets perform according to their appearance until the wearer finds herself under attack or in a life-and-death situation. At that time, the curse is activated. The wearer becomes fumble-fingered, with a 50% chance each round of dropping anything held in either hand. The gauntlets also lower [Dexterity](../gettingStarted#_dexterity) by 2 points. Once the curse is activated, the gloves can be removed only by means of a _ [remove curse](../spells/removeCurse#_remove-curse) _spell, a _ [wish](../spells/wish#_wish), _or a _ [miracle](../spells/miracle#_miracle)._
 
 **Creation**
 
@@ -213,7 +213,7 @@ These gauntlets perform according to their appearance until the wearer finds her
 
 When placed upon the head, this item's curse immediately takes effect ( [Will](../combat#_will) DC 15 negates). On a failed save, the alignment of the wearer is radically altered to an alignment as different as possible from the former alignment—good to evil, chaotic to lawful, neutral to some extreme commitment (LE, LG, CE, or CG). Alteration in alignment is mental as well as moral, and the individual changed by the magic thoroughly enjoys his new outlook. A character who succeeds on his save can continue to wear the helmet without suffering the effect of the curse, but if he takes it off and later puts it on again, another save is required.
 
-Only a _ [wish](../spells_dir/wish#_wish)_ or a _ [miracle](../spells_dir/miracle#_miracle)_ can restore a character's former alignment, and the affected individual does not make any attempt to return to the former alignment. In fact, he views the prospect with horror and avoids it in any way possible. If a character of a class with an alignment requirement is affected, an _ [atonement](../spells_dir/atonement#_atonement)_ spell is needed as well if the curse is to be obliterated. When a _helm of opposite alignment_ has functioned once, it loses its magical properties.
+Only a _ [wish](../spells/wish#_wish)_ or a _ [miracle](../spells/miracle#_miracle)_ can restore a character's former alignment, and the affected individual does not make any attempt to return to the former alignment. In fact, he views the prospect with horror and avoids it in any way possible. If a character of a class with an alignment requirement is affected, an _ [atonement](../spells/atonement#_atonement)_ spell is needed as well if the curse is to be obliterated. When a _helm of opposite alignment_ has functioned once, it loses its magical properties.
 
 **Creation**
 
@@ -269,7 +269,7 @@ This device seems like a _ [medallion of thoughts](wondrousItems#_medallion-of-t
 
 **Description**
 
-A _necklace of strangulation _appears to be a wondrous piece of magical jewelry. When placed on the neck, the necklace immediately tightens, dealing 6 points of damage per round. It cannot be removed by any means short of a _ [limited wish](../spells_dir/limitedWish#_limited-wish), [wish](../spells_dir/wish#_wish), _or _ [miracle](../spells_dir/miracle#_miracle) _and remains clasped around the victim's throat even after his death. Only when he has decayed to a dry skeleton (after approximately 1 month) does the necklace loosen, ready for another victim.
+A _necklace of strangulation _appears to be a wondrous piece of magical jewelry. When placed on the neck, the necklace immediately tightens, dealing 6 points of damage per round. It cannot be removed by any means short of a _ [limited wish](../spells/limitedWish#_limited-wish), [wish](../spells/wish#_wish), _or _ [miracle](../spells/miracle#_miracle) _and remains clasped around the victim's throat even after his death. Only when he has decayed to a dry skeleton (after approximately 1 month) does the necklace loosen, ready for another victim.
 
 **Creation**
 
@@ -297,7 +297,7 @@ This net provides a +3 bonus on attack rolls but can only be used underwater. Un
 
 **Description**
 
-This engraved gem appears to be of little value. If any character keeps the periapt in her possession for more than 24 hours, she contracts a terrible rotting affliction that permanently drains 1 point of [Dexterity](../gettingStarted#_dexterity), [Constitution](../gettingStarted#_constitution), and [Charisma](../gettingStarted#_charisma-new) every week. The periapt (and the affliction) can be removed only by application of a _ [remove curse](../spells_dir/removeCurse#_remove-curse) _spell followed by a _cure disease _and then a _ [heal](../spells_dir/heal#_heal), [miracle](../spells_dir/miracle#_miracle), [limited wish](../spells_dir/limitedWish#_limited-wish)_, or _ [wish](../spells_dir/wish#_wish) _spell. The rotting can also be countered by crushing a _ [periapt of health](wondrousItems#_periapt-of-health) _and sprinkling its dust upon the afflicted character (a full-round action), whereupon the _periapt of foul rotting_ likewise crumbles to dust.
+This engraved gem appears to be of little value. If any character keeps the periapt in her possession for more than 24 hours, she contracts a terrible rotting affliction that permanently drains 1 point of [Dexterity](../gettingStarted#_dexterity), [Constitution](../gettingStarted#_constitution), and [Charisma](../gettingStarted#_charisma-new) every week. The periapt (and the affliction) can be removed only by application of a _ [remove curse](../spells/removeCurse#_remove-curse) _spell followed by a _cure disease _and then a _ [heal](../spells/heal#_heal), [miracle](../spells/miracle#_miracle), [limited wish](../spells/limitedWish#_limited-wish)_, or _ [wish](../spells/wish#_wish) _spell. The rotting can also be countered by crushing a _ [periapt of health](wondrousItems#_periapt-of-health) _and sprinkling its dust upon the afflicted character (a full-round action), whereupon the _periapt of foul rotting_ likewise crumbles to dust.
 
 **Creation**
 
@@ -313,7 +313,7 @@ This engraved gem appears to be of little value. If any character keeps the peri
 
 This cloak is usually made of a wool, although it can be made of leather. A _detect poison _spell can reveal the presence of poison in the cloak's fabric. The garment can be handled without harm, but as soon as it is actually donned, the wearer takes 4d6 points of [Constitution](../gettingStarted#_constitution) damage unless she succeeds on a DC 28 [Fortitude](../combat#_fortitude) save.
 
-Once donned, a _poisonous cloak_ can be removed only with a _ [remove curse](../spells_dir/removeCurse#_remove-curse)_ spell; doing this destroys the magical property of the cloak. If a _ [neutralize poison](../spells_dir/neutralizePoison#_neutralize-poison)_ spell is then used, it is possible to revive a dead victim with a _ [raise dead](../spells_dir/raiseDead#_raise-dead)_ or _ [resurrection](../spells_dir/resurrection#_resurrection) spell_.
+Once donned, a _poisonous cloak_ can be removed only with a _ [remove curse](../spells/removeCurse#_remove-curse)_ spell; doing this destroys the magical property of the cloak. If a _ [neutralize poison](../spells/neutralizePoison#_neutralize-poison)_ spell is then used, it is possible to revive a dead victim with a _ [raise dead](../spells/raiseDead#_raise-dead)_ or _ [resurrection](../spells/resurrection#_resurrection) spell_.
 
 **Creation**
 
@@ -341,7 +341,7 @@ This potion has lost its beneficial abilities and become a potent poison. This p
 
 **Description**
 
-A _robe of powerlessness _appears to be a magic robe of another sort. As soon as a character dons this garment, she takes a –10 penalty to Strength, as well as to [Intelligence](../gettingStarted#_intelligence), [Wisdom](../gettingStarted#_wisdom), or [Charisma](../gettingStarted#_charisma-new), forgetting spells and magic knowledge accordingly. If the character is a spellcaster, the robe targets the character's primary spellcasting score, otherwise it targets [Intelligence](../gettingStarted#_intelligence). The robe can be removed easily, but in order to restore mind and body, the character must receive a _ [remove curse](../spells_dir/removeCurse#_remove-curse) _spell followed by _ [heal](../spells_dir/heal#_heal)_.
+A _robe of powerlessness _appears to be a magic robe of another sort. As soon as a character dons this garment, she takes a –10 penalty to Strength, as well as to [Intelligence](../gettingStarted#_intelligence), [Wisdom](../gettingStarted#_wisdom), or [Charisma](../gettingStarted#_charisma-new), forgetting spells and magic knowledge accordingly. If the character is a spellcaster, the robe targets the character's primary spellcasting score, otherwise it targets [Intelligence](../gettingStarted#_intelligence). The robe can be removed easily, but in order to restore mind and body, the character must receive a _ [remove curse](../spells/removeCurse#_remove-curse) _spell followed by _ [heal](../spells/heal#_heal)_.
 
 **Creation**
 
@@ -413,7 +413,7 @@ This is a _+2 shortspear, _but each time it is used in melee against a foe and t
 
 **Description**
 
-This dark, polished stone reduces the possessor's base land speed to half of normal. Once picked up, the stone cannot be disposed of by any nonmagical means—if it is thrown away or smashed, it reappears somewhere upon the possessor's person. If a _ [remove curse](../spells_dir/removeCurse#_remove-curse) _spell is cast upon a _loadstone, _the item may be discarded normally and no longer haunts the individual.
+This dark, polished stone reduces the possessor's base land speed to half of normal. Once picked up, the stone cannot be disposed of by any nonmagical means—if it is thrown away or smashed, it reappears somewhere upon the possessor's person. If a _ [remove curse](../spells/removeCurse#_remove-curse) _spell is cast upon a _loadstone, _the item may be discarded normally and no longer haunts the individual.
 
 **Creation**
 
@@ -457,7 +457,7 @@ This sword appears to be a _+2 greatsword. _However, whenever it is used in batt
 
 **Description**
 
-A book of this sort looks like a normal one on some mildly interesting topic. Any character who opens the work and reads so much as a single word therein must make two DC 15 [Will](../combat#_will) saves. The first is to determine if the reader takes 1 point of permanent [Intelligence](../gettingStarted#_intelligence) and [Charisma](../gettingStarted#_charisma-new) drain. The second is to find out if the reader takes 2 points of permanent [Wisdom](../gettingStarted#_wisdom) drain. To destroy the book, it must be burned while _ [remove curse](../spells_dir/removeCurse#_remove-curse)_ is being cast. If the grimoire is placed with other books, its appearance instantly alters to conform to the look of those other works.
+A book of this sort looks like a normal one on some mildly interesting topic. Any character who opens the work and reads so much as a single word therein must make two DC 15 [Will](../combat#_will) saves. The first is to determine if the reader takes 1 point of permanent [Intelligence](../gettingStarted#_intelligence) and [Charisma](../gettingStarted#_charisma-new) drain. The second is to find out if the reader takes 2 points of permanent [Wisdom](../gettingStarted#_wisdom) drain. To destroy the book, it must be burned while _ [remove curse](../spells/removeCurse#_remove-curse)_ is being cast. If the grimoire is placed with other books, its appearance instantly alters to conform to the look of those other works.
 
 **Creation**
 

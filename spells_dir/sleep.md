@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/sleep
+title: spells/sleep
 ---
  **Sleep**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer_dir/wizard 1
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer/wizard 1
 
 **Casting Time** 1 round
 
 **Components** V, S, M (fine sand, rose petals, or a live cricket)
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Area** one or more living creatures within a 10-ft.-radius burst
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

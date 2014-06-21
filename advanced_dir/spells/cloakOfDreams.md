@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/cloakOfDreams
+title: advanced/spells/cloakOfDreams
 ---
  **Cloak of Dreams**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, sorcerer_dir/wizard 6, witch 6
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, sorcerer/wizard 6, witch 6
 
 **Casting Time** 1 round
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/cloakOfDreams
 
 **Area** 5-ft.-radius emanation centered on you
 
-**Duration** 1 round_dir/level (D)
+**Duration** 1 round/level (D)
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

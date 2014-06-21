@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/giantVermin
+title: spells/giantVermin
 ---
  **Giant Vermin**
 
@@ -10,11 +10,11 @@ title: spells_dir/giantVermin
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Targets** 1 or more vermin, no two of which can be more than 30 ft. apart
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

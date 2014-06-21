@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/aid
+title: spells/aid
 ---
  **Aid**
 
@@ -14,7 +14,7 @@ title: spells_dir/aid
 
 **Target** living creature touched
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

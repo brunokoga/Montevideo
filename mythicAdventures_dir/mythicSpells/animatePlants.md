@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures_dir/mythicSpells_dir/animatePlants
+title: mythicAdventures/mythicSpells/animatePlants
 ---
 Animate Plants
 
-**Source** [_animate plants_](spells_dir/animatePlants#_animate-plants)
+**Source** [_animate plants_](spells/animatePlants#_animate-plants)
 
-As _ [animate objects](mythicAdventures_dir/mythicSpells_dir/animateObjects#_animate-objects-mythic)_.
+As _ [animate objects](mythicAdventures/mythicSpells/animateObjects#_animate-objects-mythic)_.
 

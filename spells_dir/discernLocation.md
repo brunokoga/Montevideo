@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/discernLocation
+title: spells/discernLocation
 ---
  **Discern Location**
 
-**School** divination; **Level** cleric 8, sorcerer_dir/wizard 8
+**School** divination; **Level** cleric 8, sorcerer/wizard 8
 
 **Casting Time** 10 minutes
 

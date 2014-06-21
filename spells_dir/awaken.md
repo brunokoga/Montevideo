@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/awaken
+title: spells/awaken
 ---
  **Awaken**
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/touchInjection
+title: ultimateCombat/spells/touchInjection
 ---
 Touch Injection
 
-**School** transmutation; **Level** alchemist 2, sorcerer_dir/wizard 3
+**School** transmutation; **Level** alchemist 2, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Touch Injection
 
 **Target** you
 
-**Duration** 1 hour_dir/level
+**Duration** 1 hour/level
 
 **Saving Throw** none; **Spell Resistance** no
 

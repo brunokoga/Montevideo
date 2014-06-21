@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/magicAura
+title: spells/magicAura
 ---
  **Magic Aura**
 
-**School** illusion (glamer); **Level** bard 1, sorcerer_dir/wizard 1
+**School** illusion (glamer); **Level** bard 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -12,9 +12,9 @@ title: spells_dir/magicAura
 
 **Range** touch
 
-**Target** one touched object weighing up to 5 lbs._dir/level
+**Target** one touched object weighing up to 5 lbs./level
 
-**Duration** 1 day_dir/level (D)
+**Duration** 1 day/level (D)
 
 **Saving Throw** none; see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/darkvision
+title: spells/darkvision
 ---
  **Darkvision**
 
-**School** transmutation; **Level** ranger 3, sorcerer_dir/wizard 2
+**School** transmutation; **Level** ranger 3, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/darkvision
 
 **Target** creature touched
 
-**Duration** 1 hour_dir/level
+**Duration** 1 hour/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

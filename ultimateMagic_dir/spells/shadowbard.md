@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/shadowbard
+title: ultimateMagic/spells/shadowbard
 ---
 Shadowbard
 
@@ -10,11 +10,11 @@ School illusion (shadow) [shadow]; **Level** bard 5
 
 **Components** V, S, M
 
-**Range** close (25 ft. +5 ft._dir/2 levels)
+**Range** close (25 ft. +5 ft./2 levels)
 
 **Effect** phantom singer
 
-**Duration** 1 round_dir/level (D)
+**Duration** 1 round/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 

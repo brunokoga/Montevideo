@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/daylight
+title: spells/daylight
 ---
  **Daylight**
 
-**School** evocation [light]; **Level** bard 3, cleric 3, druid 3, paladin 3, sorcerer_dir/wizard 3
+**School** evocation [light]; **Level** bard 3, cleric 3, druid 3, paladin 3, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/daylight
 
 **Target** object touched
 
-**Duration** 10 min._dir/level (D)
+**Duration** 10 min./level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

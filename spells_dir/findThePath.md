@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/findThePath
+title: spells/findThePath
 ---
  **Find the Path**
 
@@ -14,7 +14,7 @@ title: spells_dir/findThePath
 
 **Target** you or creature touched
 
-**Duration** 10 min._dir/level
+**Duration** 10 min./level
 
 **Saving Throw** none or [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** no or yes (harmless)
 

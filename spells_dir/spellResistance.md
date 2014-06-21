@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/spellResistance
+title: spells/spellResistance
 ---
  **Spell Resistance**
 
@@ -14,7 +14,7 @@ title: spells_dir/spellResistance
 
 **Target** creature touched
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

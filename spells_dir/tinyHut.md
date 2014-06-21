@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/tinyHut
+title: spells/tinyHut
 ---
  **Tiny Hut**
 
-**School** evocation [force]; **Level** bard 3, sorcerer_dir/wizard 3
+**School** evocation [force]; **Level** bard 3, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/tinyHut
 
 **Effect** 20-ft.-radius sphere centered on your location
 
-**Duration** 2 hours_dir/level (D)
+**Duration** 2 hours/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

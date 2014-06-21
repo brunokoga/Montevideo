@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/perniciousPoison
+title: ultimateMagic/spells/perniciousPoison
 ---
 Pernicious Poison
 
-**School** necromancy [poison]; **Level** antipaladin 2, druid 2, sorcerer_dir/wizard 2, witch 2
+**School** necromancy [poison]; **Level** antipaladin 2, druid 2, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Pernicious Poison
 
 **Target** creature touched
 
-**Duration** 10 minute_dir/level
+**Duration** 10 minute/level
 
 **Saving Throw** none; **Spell Resistance** yes
 

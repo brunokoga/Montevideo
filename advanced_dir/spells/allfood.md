@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/allfood
+title: advanced/spells/allfood
 ---
  **Allfood**
 
@@ -12,7 +12,7 @@ title: advanced_dir/spells_dir/allfood
 
 **Range** touch
 
-**Target** object touched, weighing up to 5 lbs._dir/level
+**Target** object touched, weighing up to 5 lbs./level
 
 **Duration** instantaneous
 

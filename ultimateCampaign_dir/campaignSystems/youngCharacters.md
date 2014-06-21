@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCampaign_dir/campaignSystems_dir/youngCharacters
+title: ultimateCampaign/campaignSystems/youngCharacters
 ---
 # Young Characters
 
@@ -16,7 +16,7 @@ When a young character reaches adulthood, she loses these ability score adjustme
 
 **Available Classes** : A young character does not have access to the same classes as adult characters. Not yet trained in the advanced techniques of war, arcana, faith, and varied other pursuits, a young character is a squire, apprentice, acolyte, or student on the path to expertise. As such, you can select only NPC classes while in this age category, beginning play and advancing in level as an adept, aristocrat, commoner, expert, or warrior, according to your interests and social background. As soon as you reach adulthood, though, you may retrain those NPC class levels as levels in any base classes of your choosing.
 
-**Traits** : Because character traits represent your character's background before becoming an adventurer, the GM might limit you to selecting only one trait at 1st level instead of the normal two traits allowed. When your character reaches adulthood, you select your second trait. Note that normally you can select a new trait after 1st level only if your character takes the [Additional Traits](advanced_dir/advancedFeats#additional-traits) feat, so this option allows you more flexibility in choosing your second trait, as recent events in the campaign might make some of your trait options more valuable than they originally appeared when the campaign started.
+**Traits** : Because character traits represent your character's background before becoming an adventurer, the GM might limit you to selecting only one trait at 1st level instead of the normal two traits allowed. When your character reaches adulthood, you select your second trait. Note that normally you can select a new trait after 1st level only if your character takes the [Additional Traits](advanced/advancedFeats#additional-traits) feat, so this option allows you more flexibility in choosing your second trait, as recent events in the campaign might make some of your trait options more valuable than they originally appeared when the campaign started.
 
 [Random Young Starting Ages]
 | Race | Youthⁱ | Aristocrat, Commoner, Expert | Adept, Warrior | Adulthood⁲ |

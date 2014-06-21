@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/detectMagic
+title: spells/detectMagic
 ---
  **Detect Magic**
 
-**School** divination; **Level** bard 0, cleric 0, druid 0, sorcerer_dir/wizard 0
+**School** divination; **Level** bard 0, cleric 0, druid 0, sorcerer/wizard 0
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/detectMagic
 
 **Area** cone-shaped emanation
 
-**Duration** concentration, up to 1 min._dir/level (D)
+**Duration** concentration, up to 1 min./level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 
@@ -24,7 +24,7 @@ _1st Round_: Presence or absence of magical auras.
 
 _2nd Round_: Number of different magical auras and the power of the most potent aura.
 
-_3rd Round_: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make Knowledge (arcana) skill checks to determine the school of magic involved in each. (Make one check per aura: DC 15 + spell level, or 15 + 1_dir/2 caster level for a nonspell effect.) If the aura eminates from a magic item, you can attempt to identify its properties (see Spellcraft).
+_3rd Round_: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make Knowledge (arcana) skill checks to determine the school of magic involved in each. (Make one check per aura: DC 15 + spell level, or 15 + 1/2 caster level for a nonspell effect.) If the aura eminates from a magic item, you can attempt to identify its properties (see Spellcraft).
 
 Magical areas, multiple types of magic, or strong local magical emanations may distort or conceal weaker auras.
 

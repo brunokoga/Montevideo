@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/createTreasureMap
+title: advanced/spells/createTreasureMap
 ---
  **Create Treasure Map**
 
-**School** divination; **Level** bard 2, druid 3, ranger 2, sorcerer_dir/wizard 2
+**School** divination; **Level** bard 2, druid 3, ranger 2, sorcerer/wizard 2
 
 **Casting Time** 1 hour
 

@@ -1,18 +1,18 @@
 ---
 layout: default
-title: monsters_dir/dog
+title: monsters/dog
 ---
 # Dog
 
 _This small dog has a rough coat and a hungry look in its dark brown eyes._
 
-**Dog CR 1_dir/3**
+**Dog CR 1/3**
 
 **XP 135**
 
 N Small [animal](creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +8
+**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +8
 
 **Defense**
 
@@ -34,9 +34,9 @@ N Small [animal](creatureTypes#_animal)
 
 **Base Atk** +0; **CMB** +0; **CMD** 11 (15 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +1 (+9 jumping), [Perception](../skills_dir/perception#_perception) +8, [Survival](../skills_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Acrobatics](../skills_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](../skills_dir/survival#_survival) when tracking by scent
+**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +1 (+9 jumping), [Perception](../skills/perception#_perception) +8, [Survival](../skills/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Acrobatics](../skills/acrobatics#_acrobatics) when jumping, +4 [Survival](../skills/survival#_survival) when tracking by scent
 
 **Ecology**
 
@@ -56,7 +56,7 @@ A rabid creature can transmit rabies to a victim with a bite. Its CR increases b
 
 **Type** disease, injury; **Save** Fortitude DC 14
 
-**Onset** 2d6 weeks; **Frequency** 1_dir/day
+**Onset** 2d6 weeks; **Frequency** 1/day
 
 **Effect** 1 Con damage plus 1d3 Wis damage (minimum reduction to 1 Wis); **Cure** 2 consecutive saves
 
@@ -70,7 +70,7 @@ _This burly dog is fitted with a small saddle. A low, menacing growl rumbles up 
 
 N Medium [Animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +8
 
 **Defense**
 
@@ -92,9 +92,9 @@ N Medium [Animal](creatureTypes#_animal)
 
 **Base Atk** +1; **CMB** +3; **CMD** 15 (19 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +6 (+14 jumping), [Perception](../skills_dir/perception#_perception) +8, [Survival](../skills_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Acrobatics](../skills_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](../skills_dir/survival#_survival) when tracking by scent
+**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +6 (+14 jumping), [Perception](../skills/perception#_perception) +8, [Survival](../skills/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Acrobatics](../skills/acrobatics#_acrobatics) when jumping, +4 [Survival](../skills/survival#_survival) when tracking by scent
 
 **Ecology**
 
@@ -104,5 +104,5 @@ N Medium [Animal](creatureTypes#_animal)
 
 **Treasure** none
 
-Larger dogs (known to Small races like halflings and gnomes as riding dogs) include hardier breeds such as huskies, mastiffs, and wolfhounds. A riding dog can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a DC 10 [Ride](../skills_dir/ride#_ride) check.
+Larger dogs (known to Small races like halflings and gnomes as riding dogs) include hardier breeds such as huskies, mastiffs, and wolfhounds. A riding dog can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a DC 10 [Ride](../skills/ride#_ride) check.
 

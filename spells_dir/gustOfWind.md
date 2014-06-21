@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/gustOfWind
+title: spells/gustOfWind
 ---
  **Gust of Wind**
 
-**School** evocation [air]; **Level** druid 2, sorcerer_dir/wizard 2
+**School** evocation [air]; **Level** druid 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 

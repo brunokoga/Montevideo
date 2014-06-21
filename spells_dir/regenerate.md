@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/regenerate
+title: spells/regenerate
 ---
  **Regenerate**
 

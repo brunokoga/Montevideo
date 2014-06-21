@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/windsOfVengeance
+title: advanced/spells/windsOfVengeance
 ---
  **Winds of Vengeance**
 
-**School** evocation [air]; **Level** cleric 9, druid 9, sorcerer_dir/wizard 9
+**School** evocation [air]; **Level** cleric 9, druid 9, sorcerer/wizard 9
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/windsOfVengeance
 
 **Target** you
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 You surround yourself with a buffeting shroud of supernatural, tornado-force winds. These winds grant you a fly speed of 60 feet with perfect maneuverability. Neither your armor nor your load affects this fly speed. The winds shield you from any other wind effects, and form a shell of breathable air around you, allowing you to fly and breathe underwater or in outer space. Ranged weapons (including giant-thrown boulders, siege weapon projectiles, and other massive ranged weapons) passing through the winds are deflected by the winds and automatically miss you. Gases and most gaseous breath weapons cannot pass though the winds.
 

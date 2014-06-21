@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/advancedFeats
+title: advanced/advancedFeats
 ---
 # Feats
 
@@ -50,13 +50,13 @@ The following format is used for all feat descriptions.
 | Bloody Assault\* | [Power Attack](../feats#_power-attack), base attack bonus +6 | Trade melee attack bonus for bleed damage |
 | Bodyguard\* | [Combat Reflexes](../feats#_combat-reflexes) | Use attack of opportunity to add a bonus to adjacent ally's AC |
 | In Harm's Way\* | Bodyguard | Take the damage of a successful attack upon an adjacent ally |
-| Breadth of Experience | Dwarf, elf, or gnome; 100+ years old | +2 bonus on all [Knowledge](../skills_dir/knowledge#_knowledge) and [Profession](../skills_dir/profession#_profession) checks |
+| Breadth of Experience | Dwarf, elf, or gnome; 100+ years old | +2 bonus on all [Knowledge](../skills/knowledge#_knowledge) and [Profession](../skills/profession#_profession) checks |
 | Bull Rush Strike\* | [Improved Bull Rush](../feats#_improved-bull-rush), base attack bonus +9 | Attempt a bull rush on a successful critical hit |
 | Charge Through\* | [Improved Overrun](../feats#_improved-overrun), base attack bonus +1 | Make overrun as free action while charging |
-| Childlike | Cha 13, halfling | +2 on [Disguise](../skills_dir/disguise#_disguise) checks to look like human child, take 10 on [Bluff](../skills_dir/bluff#_bluff) checks |
+| Childlike | Cha 13, halfling | +2 on [Disguise](../skills/disguise#_disguise) checks to look like human child, take 10 on [Bluff](../skills/bluff#_bluff) checks |
 | Cockatrice Strike\* | [Medusa's Wrath](../feats#_medusa-s-wrath), base attack bonus +16 | Turn a target to stone with a critical hit |
 | Combat Patrol\* | [Combat Reflexes](../feats#_combat-reflexes), [Mobility](../feats#_mobility), base attack bonus +5 | Increase threatened area for attack of opportunity |
-| Cooperative Crafting | 1 rank in any [Craft](../skills_dir/craft#_craft) skill, any item creation feat | +2 bonus on [Craft](../skills_dir/craft#_craft) or [Spellcraft](../skills_dir/spellcraft#_spellcraft) checks while workingtogether |
+| Cooperative Crafting | 1 rank in any [Craft](../skills/craft#_craft) skill, any item creation feat | +2 bonus on [Craft](../skills/craft#_craft) or [Spellcraft](../skills/spellcraft#_spellcraft) checks while workingtogether |
 | Cosmopolitan | — | Read and speak two additional languages |
 | Covering Defense\* | [Shield Focus](../feats#_shield-focus), base attack bonus +6 | Provide cover to an ally with total defense |
 | Crippling Critical\* | [Critical Focus](../feats#_critical-focus), base attack bonus +13 | Whenever you score a critical hit, the target's speed is halved |
@@ -68,14 +68,14 @@ The following format is used for all feat descriptions.
 | Disarming Strike\* | [Improved Disarm](../feats#_improved-disarm), base attack bonus +9 | Attempt a disarm on a successful critical hit |
 | Disrupting Shot\* | Dex 13, [Point-Blank Shot](../feats#_point-blank-shot), 6th-level fighter | Ranged attacks increase enemy's DC to cast spells |
 | Diviner's Delving | [Spell Focus](../feats#_spell-focus) (divination) | +2 bonus on caster level checks with divinations |
-| Eagle Eyes | Wis 13, keen senses racial trait | Ignore up to –5 due to distance on visual [Perception](../skills_dir/perception#_perception) checks |
+| Eagle Eyes | Wis 13, keen senses racial trait | Ignore up to –5 due to distance on visual [Perception](../skills/perception#_perception) checks |
 | Eclectic | Human | Gain an additional favored class |
 | Eldritch Claws | Str 15, natural weapons, base attack bonus +6 | Natural weapons treated as magic and silver |
 | Elemental Fist\* | Con 13, Wis 13, [Improved Unarmed Strike](../feats#_improved-unarmed-strike), base attack bonus +8 | Deal 1d6 energy damage with an unarmed strike |
 | Elemental Focus | — | +1 bonus on save DCs for one energy type |
 | Greater Elemental Focus | Elemental Focus | +1 bonus on save DCs for one energy type |
 | Elven Accuracy\* | Elf | Reroll miss chance due to concealment when using a bow |
-| Enforcer\* | [Intimidate](../skills_dir/intimidate#_intimidate) 1 rank | Demoralize opponent as free action when you inflict nonlethal damage |
+| Enforcer\* | [Intimidate](../skills/intimidate#_intimidate) 1 rank | Demoralize opponent as free action when you inflict nonlethal damage |
 | Expanded Arcana | Caster level 1st, see feat | Add one or two spells to list of spells known |
 | Extra Bombs | Bomb class feature | Throw two additional bombs per day |
 | Extra Discovery | Discovery class feature | Gain one additional discovery |
@@ -91,31 +91,31 @@ The following format is used for all feat descriptions.
 | Following Step\* | Dex 13, [Step Up](../feats#_step-up) | Move up to 10 feet as an immediate action |
 | Step Up and Strike\* | Following Step, base attack bonus +6 | Follow adjacent creature and attack as an immediate action |
 | Furious Focus\* | Str 13, [Power Attack](../feats#_power-attack), base attack bonus +1 | Do not take the [Power Attack](../feats#_power-attack) penalty on the first attack each round |
-| Dreadful Carnage\* | Str 15, Furious Focus, base attack bonus +11 | Make a free [Intimidate](../skills_dir/intimidate#_intimidate) check when you knock down a foe |
+| Dreadful Carnage\* | Str 15, Furious Focus, base attack bonus +11 | Make a free [Intimidate](../skills/intimidate#_intimidate) check when you knock down a foe |
 | Gang Up\* | [Combat Expertise](../feats#_combat-expertise) | Flank an opponent if at least two allies are adjacent to it |
 | Team Up\* | Gang-Up, base attack bonus +6 | Aid another as a move action with two adjacent allies |
-| Gnome Trickster | Cha 13, gnome, gnome magic racial trait | Use _ [mage hand](../spells_dir/mageHand#_mage-hand)_ and _ [prestidigitation](../spells_dir/prestidigitation#_prestidigitation)_ once per day |
-| Go Unnoticed | Dex 13, Small size or smaller | Make [Stealth](../skills_dir/stealth#_stealth) check against flat-footed opponents during first round of combat |
+| Gnome Trickster | Cha 13, gnome, gnome magic racial trait | Use _ [mage hand](../spells/mageHand#_mage-hand)_ and _ [prestidigitation](../spells/prestidigitation#_prestidigitation)_ once per day |
+| Go Unnoticed | Dex 13, Small size or smaller | Make [Stealth](../skills/stealth#_stealth) check against flat-footed opponents during first round of combat |
 | Groundling | Cha 13, gnome, gnome magic racial trait | Speak with burrowing animals as spell-like ability |
 | Heroic Defiance | [Diehard](../feats#_diehard), base Fortitude save +8 | Once per day, delay onset of harmful condition for 1 round |
 | Heroic Recovery | [Diehard](../feats#_diehard), base Fortitude save +4 | Once per day, gain new saving throw against harmful condition requiring Fort save |
-| Improved Blind-Fight\* | [Perception](../skills_dir/perception#_perception) 10 ranks, [Blind-Fight](../feats#_blind-fight) | Ignore miss chance for less than total concealment |
-| Greater Blind-Fight\* | [Perception](../skills_dir/perception#_perception) 15 ranks, Improved [Blind-Fight](../feats#_blind-fight) | Total concealment is considered normal concealment |
+| Improved Blind-Fight\* | [Perception](../skills/perception#_perception) 10 ranks, [Blind-Fight](../feats#_blind-fight) | Ignore miss chance for less than total concealment |
+| Greater Blind-Fight\* | [Perception](../skills/perception#_perception) 15 ranks, Improved [Blind-Fight](../feats#_blind-fight) | Total concealment is considered normal concealment |
 | Improved Dirty Trick\* | [Combat Expertise](../feats#_combat-expertise) | +2 bonus on dirty trick attempts, no attack of opportunity |
 | Greater Dirty Trick\* | Improved Dirty Trick, base attack bonus +6 | Dirty trick penalty lasts 1d4 rounds |
 | Improved Drag\* | [Power Attack](../feats#_power-attack) | +2 bonus on drag attempts, no attack of opportunity |
 | Greater Drag\* | Improved Drag, base attack bonus +6 | Enemies you drag provoke attacks of opportunity |
 | Improved Reposition\* | [Combat Expertise](../feats#_combat-expertise) | +2 bonus on reposition attempts, no attack of opportunity |
 | Greater Reposition\* | Improved Reposition, base attack bonus +6 | Enemies you reposition provoke attacks of opportunity |
-| Improved Share Spells | [Spellcraft](../skills_dir/spellcraft#_spellcraft) 10 ranks, see feat | Spells affect both you and your bonded creature |
+| Improved Share Spells | [Spellcraft](../skills/spellcraft#_spellcraft) 10 ranks, see feat | Spells affect both you and your bonded creature |
 | Improved Steal\* | [Combat Expertise](../feats#_combat-expertise) | +2 bonus on steal attempts, no attack of opportunity |
 | Greater Steal\* | Improved Steal, base attack bonus +6 | Enemies don't notice theft until after combat |
-| Improved Stonecunning | Wis 13, dwarf, stonecunning racial trait | +4 bonus on [Perception](../skills_dir/perception#_perception) checks to notice unusual stonework |
-| Stone Sense | [Perception](../skills_dir/perception#_perception) 10 ranks, Improved Stonecunning | Gain tremorsense 10 ft. |
+| Improved Stonecunning | Wis 13, dwarf, stonecunning racial trait | +4 bonus on [Perception](../skills/perception#_perception) checks to notice unusual stonework |
+| Stone Sense | [Perception](../skills/perception#_perception) 10 ranks, Improved Stonecunning | Gain tremorsense 10 ft. |
 | Ironguts | Con 13; dwarf, half-orc, or orc | +2 on saves against nausea, sickening, and ingested poisons |
 | Ironhide | Con 13; dwarf, half-orc, or orc | +1 natural armor bonus to AC |
 | Keen Scent | Wis 13, half-orc or orc | Gain the scent special ability |
-| Smell Fear | Keen Scent, half-orc or orc | +4 on [Perception](../skills_dir/perception#_perception) checks to detect frightened creatures |
+| Smell Fear | Keen Scent, half-orc or orc | +4 on [Perception](../skills/perception#_perception) checks to detect frightened creatures |
 | _Ki_ Throw\* | [Improved Trip](../feats#_improved-trip), [Improved Unarmed Strike](../feats#_improved-unarmed-strike) | Throw opponent into adjacent square with a trip attack |
 | Improved _Ki_ Throw\* | [Improved Bull Rush](../feats#_improved-bull-rush), Ki Throw | Throw opponent into occupied square as a bull rush |
 | Leaf Singer | Cha 13, bardic performance, elf or half-elf | Gain benefits to bardic performance in forests and against fey |
@@ -123,19 +123,19 @@ The following format is used for all feat descriptions.
 | Lingering Performance | Bardic performance class ability | Bardic performance continues for 2 rounds after you stop performing |
 | Low Profile\* | Dex 13, Small size or smaller | +1 dodge bonus to AC against ranged attacks |
 | Lucky Halfling | Halfling | You may roll saving throw for an ally once per day |
-| Master Alchemist | [Craft](../skills_dir/craft#_craft) (alchemy) 5 ranks | +2 on [Craft](../skills_dir/craft#_craft) (alchemy) checks, and you can create alchemical items and poisons faster |
-| Minor Spell Expertise | Cast 4th-level spells | Cast 1st-level spell as spell-like ability 2_dir/day |
-| Major Spell Expertise | Minor Spell Expertise, cast 9th-level spells | Cast 5th-level or lower spell as spell-like ability 2_dir/day |
+| Master Alchemist | [Craft](../skills/craft#_craft) (alchemy) 5 ranks | +2 on [Craft](../skills/craft#_craft) (alchemy) checks, and you can create alchemical items and poisons faster |
+| Minor Spell Expertise | Cast 4th-level spells | Cast 1st-level spell as spell-like ability 2/day |
+| Major Spell Expertise | Minor Spell Expertise, cast 9th-level spells | Cast 5th-level or lower spell as spell-like ability 2/day |
 | Missile Shield\* | Dex 13, [Shield Focus](../feats#_shield-focus) | Deflect one ranged attack per round with shield |
 | Ray Shield\* | Dex 15, Missile Shield, [Spellbreaker](../feats#_spellbreaker) | Deflect one ranged touch attack per round with shield |
 | Mounted Shield\* | [Mounted Combat](../feats#_mounted-combat), [Shield Focus](../feats#_shield-focus) | Apply shield bonus to mount's AC |
-| Parry Spell | [Spellcraft](../skills_dir/spellcraft#_spellcraft) 15 ranks, [Improved Counterspell](../feats#_improved-counterspell) | Reflect a counterspelled spell back on its caster |
+| Parry Spell | [Spellcraft](../skills/spellcraft#_spellcraft) 15 ranks, [Improved Counterspell](../feats#_improved-counterspell) | Reflect a counterspelled spell back on its caster |
 | Parting Shot\* | [Shot on the Run](../feats#_shot-on-the-run), base attack bonus +6 | Make a ranged attack when withdrawing |
-| Pass for Human | Half-elf, half-orc, or halfling | +10 on [Disguise](../skills_dir/disguise#_disguise) checks to look like a human |
+| Pass for Human | Half-elf, half-orc, or halfling | +10 on [Disguise](../skills/disguise#_disguise) checks to look like a human |
 | Perfect Strike\* | Dex 13, Wis 13, [Improved Unarmed Strike](../feats#_improved-unarmed-strike), base attack bonus +8 | Roll twice for attacks with monk weapons and take the better roll |
 | Point-Blank Master\* | [Weapon Specialization](../feats#_weapon-specialization) with a ranged weapon | Do not provoke attacks of opportunity while firing one ranged weapon |
 | Practiced Tactician | Tactician class feature | Use tactician ability one additional time per day |
-| Preferred Spell | [Spellcraft](../skills_dir/spellcraft#_spellcraft) 5 ranks, [Heighten Spell](../feats#_heighten-spell) | Spontaneously cast a specific spell |
+| Preferred Spell | [Spellcraft](../skills/spellcraft#_spellcraft) 5 ranks, [Heighten Spell](../feats#_heighten-spell) | Spontaneously cast a specific spell |
 | Punishing Kick\* | Con 13, Wis 13, [Improved Unarmed Strike](../feats#_improved-unarmed-strike), base attack bonus +8 | Knock down or push back foes with unarmed strikes |
 | Pushing Assault\* | Str 15, [Power Attack](../feats#_power-attack), base attack bonus +1 | Push a foe back with a two-handed weapon |
 | Racial Heritage | Human | Affected as though both human and another race |
@@ -147,35 +147,35 @@ The following format is used for all feat descriptions.
 | Second Chance\* | [Combat Expertise](../feats#_combat-expertise), base attack bonus +6 | Exchange later attacks to reroll missed first attack |
 | Improved Second Chance\* | Second Chance, base attack bonus +11 | Take a –5 penalty on later attacks to reroll missed attack |
 | Shadow Strike\* | Base attack bonus +1 | Deal precision damage against targets with concealment |
-| Shared Insight | Wis 13, half-elf | Grant friendly creatures a +2 bonus on [Perception](../skills_dir/perception#_perception) checks |
-| Sharp Senses | Keen senses racial trait | +4 racial bonus on [Perception](../skills_dir/perception#_perception) checks |
+| Shared Insight | Wis 13, half-elf | Grant friendly creatures a +2 bonus on [Perception](../skills/perception#_perception) checks |
+| Sharp Senses | Keen senses racial trait | +4 racial bonus on [Perception](../skills/perception#_perception) checks |
 | Shield of Swings\* | Str 13, [Power Attack](../feats#_power-attack), base attack bonus +1 | Reduce damage with a two handed weapon to gain a +4 shield bonus |
 | Shield Specialization\* | [Shield Focus](../feats#_shield-focus), 4th-level fighter | +2 bonus to AC against criticals with one type of shield |
 | Greater Shield Specialization\* | [Greater Shield Focus](../feats#_greater-shield-focus), Shield Specialization, 12th-level fighter | +2 bonus to AC against criticals, and negate critical hit once per day |
 | Sidestep\* | Dex 13, [Dodge](../feats#_dodge), [Mobility](../feats#_mobility) | Make 5-foot step immediately after an opponent misses |
 | Improved Sidestep\* | Dex 15, Sidestep | Sidestep without using your 5-foot step on your next turn |
 | Smash\* | [Power Attack](../feats#_power-attack), half-orc | Ignore 5 points of hardness when breaking an object |
-| Sociable | Cha 13, half-elf | Grant friendly creatures a +2 bonus on [Diplomacy](../skills_dir/diplomacy#_diplomacy) checks |
-| Spell Perfection | [Spellcraft](../skills_dir/spellcraft#_spellcraft) 15 ranks, 3 metamagic feats | Apply any metamagic feat to one spell without penalty, up to 9th level |
-| Spider Step | [Acrobatics](../skills_dir/acrobatics#_acrobatics) 6 ranks, [Climb](../skills_dir/climb#_climb) 6 ranks, 6th-level monk | Walk on walls or ceilings for half your slow fall distance |
-| Cloud Step | Spider Step, 12th-level monk | _ [Air walk](../spells_dir/airWalk#_air-walk)_ for half your slow fall distance |
+| Sociable | Cha 13, half-elf | Grant friendly creatures a +2 bonus on [Diplomacy](../skills/diplomacy#_diplomacy) checks |
+| Spell Perfection | [Spellcraft](../skills/spellcraft#_spellcraft) 15 ranks, 3 metamagic feats | Apply any metamagic feat to one spell without penalty, up to 9th level |
+| Spider Step | [Acrobatics](../skills/acrobatics#_acrobatics) 6 ranks, [Climb](../skills/climb#_climb) 6 ranks, 6th-level monk | Walk on walls or ceilings for half your slow fall distance |
+| Cloud Step | Spider Step, 12th-level monk | _ [Air walk](../spells/airWalk#_air-walk)_ for half your slow fall distance |
 | Stabbing Shot\* | [Rapid Shot](../feats#_rapid-shot), elf | Use arrow as a melee attack to push enemies back |
 | Steel Soul | Dwarf, hardy racial trait | +4 racial bonus on saves against spells and spell-like abilities |
-| Stone-Faced | Dwarf | +4 bonus on [Bluff](../skills_dir/bluff#_bluff) checks to lie or conceal motives |
+| Stone-Faced | Dwarf | +4 bonus on [Bluff](../skills/bluff#_bluff) checks to lie or conceal motives |
 | Stone Singer | Cha 13, bardic performance, dwarf | Gain benefits to bardic performance underground and against earth creatures |
 | Stunning Assault\* | [Power Attack](../feats#_power-attack), base attack bonus +16 | Trade melee attack bonus to stun opponents |
 | Summoner's Call | Eidolon class feature | Your eidolon gets a bonus when summoned |
 | Sundering Strike\* | [Improved Sunder](../feats#_improved-sunder), base attack bonus | +9 Attempt a sunder attack on a successful critical hit |
 | Swift Aid\* | [Combat Expertise](../feats#_combat-expertise), base attack bonus | +6 Attempt to aid another as a swift action |
-| Taunt | Cha 13, Small size or smaller | Demoralize opponents with [Bluff](../skills_dir/bluff#_bluff) instead of [Intimidate](../skills_dir/intimidate#_intimidate) |
+| Taunt | Cha 13, Small size or smaller | Demoralize opponents with [Bluff](../skills/bluff#_bluff) instead of [Intimidate](../skills/intimidate#_intimidate) |
 | Teleport Tactician\* | [Combat Reflexes](../feats#_combat-reflexes), [Disruptive](../feats#_disruptive), [Spellbreaker](../feats#_spellbreaker) | Teleporting creatures provoke attacks of opportunity |
 | Tenacious Transmutation | [Spell Focus](../feats#_spell-focus) (transmutation) | +2 to DC to dispel your transmutations |
 | Touch of Serenity\* | Wis 18, [Improved Unarmed Strike](../feats#_improved-unarmed-strike), base attack bonus +8 | Foes hit by unarmed strikes cannot attack or cast spells |
-| Trick Riding\* | [Ride](../skills_dir/ride#_ride) rank 9, [Mounted Combat](../feats#_mounted-combat) | Automatically pass simple [Ride](../skills_dir/ride#_ride) skill checks |
-| Mounted Skirmisher\* | [Ride](../skills_dir/ride#_ride) rank 14, Trick Riding | Make a full attack if mount moves its speed or less |
+| Trick Riding\* | [Ride](../skills/ride#_ride) rank 9, [Mounted Combat](../feats#_mounted-combat) | Automatically pass simple [Ride](../skills/ride#_ride) skill checks |
+| Mounted Skirmisher\* | [Ride](../skills/ride#_ride) rank 14, Trick Riding | Make a full attack if mount moves its speed or less |
 | Tripping Strike\* | [Improved Trip](../feats#_improved-trip), base attack bonus +9 | Attempt a trip attack on a successful critical hit |
 | Under and Over\* | [Agile Maneuvers](../feats#_agile-maneuvers), Small size or smaller | Failed grapples against you cause attacker to fall prone |
-| Underfoot\* | [Dodge](../feats#_dodge), [Mobility](../feats#_mobility), Small size or smaller | +4 on [Acrobatics](../skills_dir/acrobatics#_acrobatics) checks to move past larger opponents |
+| Underfoot\* | [Dodge](../feats#_dodge), [Mobility](../feats#_mobility), Small size or smaller | +4 on [Acrobatics](../skills/acrobatics#_acrobatics) checks to move past larger opponents |
 | Vermin Heart | Wild empathy class feature | Target vermin with spells as if they were animals |
 | War Singer | Cha 13, bardic performance, half-orc or orc | Gain benefits to bardic performance on battlefields and against orcs |
 | Well-Prepared | Halfling | Retrieve a specific mundane item from your person |
@@ -192,7 +192,7 @@ The following format is used for all feat descriptions.
 | Merciful Spell | — | Spell inflicts nonlethal damage instead of lethal |
 | Persistent Spell | — | Creatures who saved against a spell must save again |
 | Reach Spell | — | Increase spell range to higher range category |
-| Selective Spell | [Spellcraft](../skills_dir/spellcraft#_spellcraft) 10 ranks | Exclude targets from an area effect spell |
+| Selective Spell | [Spellcraft](../skills/spellcraft#_spellcraft) 10 ranks | Exclude targets from an area effect spell |
 | Sickening Spell | — | Sicken creature with spell damage |
 | Thundering Spell | — | Deafen creature with spell damage |
 | Teamwork Feats | Prerequisites | Benefits |
@@ -248,7 +248,7 @@ Magic is in your blood, and at your fingertips.
 
 **Prerequisites:** Cha 10; elf, half-elf, or gnome.
 
-**Benefit:** Choose a 0-level spell from the sorcerer_dir/wizard spell list. You can cast this spell three times per day as a spell-like ability. The caster level is equal to your character level. The save DC is 10 + your Charisma modifier.
+**Benefit:** Choose a 0-level spell from the sorcerer/wizard spell list. You can cast this spell three times per day as a spell-like ability. The caster level is equal to your character level. The save DC is 10 + your Charisma modifier.
 
 ## Aspect of the Beast
 
@@ -264,7 +264,7 @@ _Claws of the Beast (Ex)_: You grow a pair of claws. These claws are primary att
 
 _Predator's Leap (Ex)_: You can make a running jump without needing to run 10 feet before you jump.
 
-_Wild Instinct (Ex)_: You gain a +2 bonus on initiative checks and a +2 bonus on [Survival](../skills_dir/survival#_survival) skill checks.
+_Wild Instinct (Ex)_: You gain a +2 bonus on initiative checks and a +2 bonus on [Survival](../skills/survival#_survival) skill checks.
 
 **Special:** A character that has contracted lycanthropy can take this feat without having to meet the prerequisites. A ranger who selects the natural weapon combat style can take this feat without having to meet the prerequisites (even if he does not select Aspect of the Beast as a bonus feat).
 
@@ -282,7 +282,7 @@ Sacrificing accuracy, you can inflict bloody wounds that are slow to heal.
 
 **Prerequisites:** Str 13, [Power Attack](../feats#_power-attack), base attack bonus +6.
 
-**Benefit:** You can choose to take a –5 penalty on all melee attack rolls and combat maneuver checks to inflict 1d4 points of bleed damage with your weapon melee attacks, in addition to the normal damage dealt by the weapon. A creature continues to take bleed damage every round at the start of its turn. Bleed damage can be stopped by a DC 15 [Heal](../skills_dir/heal#_heal) check or through any magical healing. Bleed damage from this feat does not stack with itself. You must choose to use this feat before making the attack roll, and its effects last until your next turn (although the bleeding lasts until healed, as normal).
+**Benefit:** You can choose to take a –5 penalty on all melee attack rolls and combat maneuver checks to inflict 1d4 points of bleed damage with your weapon melee attacks, in addition to the normal damage dealt by the weapon. A creature continues to take bleed damage every round at the start of its turn. Bleed damage can be stopped by a DC 15 [Heal](../skills/heal#_heal) check or through any magical healing. Bleed damage from this feat does not stack with itself. You must choose to use this feat before making the attack roll, and its effects last until your next turn (although the bleeding lasts until healed, as normal).
 
 ## Bodyguard (Combat)
 
@@ -306,7 +306,7 @@ Although still young for your kind, you have a lifetime of knowledge and trainin
 
 **Prerequisites:** Dwarf, elf, or gnome; 100+ years old.
 
-**Benefit:** You get a +2 bonus on all [Knowledge](../skills_dir/knowledge#_knowledge) and [Profession](../skills_dir/profession#_profession) skill checks, and can make checks with those skills untrained.
+**Benefit:** You get a +2 bonus on all [Knowledge](../skills/knowledge#_knowledge) and [Profession](../skills/profession#_profession) skill checks, and can make checks with those skills untrained.
 
 ## Bull Rush Strike (Combat)
 
@@ -336,7 +336,7 @@ Your resemblance to a human child tends to make others trust you, perhaps more t
 
 **Prerequisites:** Cha 13, halfling.
 
-**Benefit:** You can take 10 on [Bluff](../skills_dir/bluff#_bluff) checks to convince others you are telling the truth, so long as your story makes you appear innocent. You gain a +2 bonus on [Disguise](../skills_dir/disguise#_disguise) skill checks to pose as a human child, and ignore the check penalties for disguising yourself as a different race and age category while doing so.
+**Benefit:** You can take 10 on [Bluff](../skills/bluff#_bluff) checks to convince others you are telling the truth, so long as your story makes you appear innocent. You gain a +2 bonus on [Disguise](../skills/disguise#_disguise) skill checks to pose as a human child, and ignore the check penalties for disguising yourself as a different race and age category while doing so.
 
 ## Cloud Step
 
@@ -344,7 +344,7 @@ Your tread is of unearthly lightness.
 
 **Prerequisites:** Spider Step, monk level 12th.
 
-**Benefit:** As a move action, you can _ [air walk](../spells_dir/airWalk#_air-walk)_ (as the spell) up to half your slow fall distance, maximum 50 feet. You must reach a solid, level surface by the end of your turn or you will fall.
+**Benefit:** As a move action, you can _ [air walk](../spells/airWalk#_air-walk)_ (as the spell) up to half your slow fall distance, maximum 50 feet. You must reach a solid, level surface by the end of your turn or you will fall.
 
 ## Cockatrice Strike (Combat)
 
@@ -352,7 +352,7 @@ With a single strike, you transmute flesh to stone.
 
 **Prerequisites:** [Improved Unarmed Strike](../feats#_improved-unarmed-strike), [Gorgon's Fist](../feats#_gorgon-s-fist), [Medusa's Wrath](../feats#_medusa-s-wrath), base attack bonus +16.
 
-**Benefit:** As a full-round action, you can make a single unarmed strike against a dazed, flat-footed, paralyzed, staggered, stunned, or unconscious foe. If that attack is a critical hit, the target is petrified unless it succeeds on a Fortitude saving throw with a DC of 10 + 1_dir/2 your character level + your Wisdom modifier. This is a supernatural polymorph effect.
+**Benefit:** As a full-round action, you can make a single unarmed strike against a dazed, flat-footed, paralyzed, staggered, stunned, or unconscious foe. If that attack is a critical hit, the target is petrified unless it succeeds on a Fortitude saving throw with a DC of 10 + 1/2 your character level + your Wisdom modifier. This is a supernatural polymorph effect.
 
 ## Combat Patrol (Combat)
 
@@ -366,9 +366,9 @@ You range across the battlefield, dealing with threats wherever they arise.
 
 Your assistance makes item crafting far more efficient.
 
-**Prerequisites:** 1 rank in any [Craft](../skills_dir/craft#_craft) skill, any item creation feat.
+**Prerequisites:** 1 rank in any [Craft](../skills/craft#_craft) skill, any item creation feat.
 
-**Benefit:** You can assist another character in crafting mundane and magical items. You must both possess the relevant [Craft](../skills_dir/craft#_craft) skill or item creation feat, but either one of you can fulfill any other prerequisites for crafting the item. You provide a +2 circumstance bonus on any [Craft](../skills_dir/craft#_craft) or [Spellcraft](../skills_dir/spellcraft#_spellcraft) checks related to making an item, and your assistance doubles the gp value of items that can be crafted each day.
+**Benefit:** You can assist another character in crafting mundane and magical items. You must both possess the relevant [Craft](../skills/craft#_craft) skill or item creation feat, but either one of you can fulfill any other prerequisites for crafting the item. You provide a +2 circumstance bonus on any [Craft](../skills/craft#_craft) or [Spellcraft](../skills/spellcraft#_spellcraft) checks related to making an item, and your assistance doubles the gp value of items that can be crafted each day.
 
 ## Coordinated Defense (Combat, Teamwork)
 
@@ -402,7 +402,7 @@ You are able to maim a target and hinder its movement.
 
 **Prerequisites:** [Critical Focus](../feats#_critical-focus), base attack bonus +13.
 
-**Benefit:** Whenever you score a critical hit against an opponent, its speed is halved for 1 minute. A successful Fortitude save reduces this duration to 1d4 rounds. The DC of this save is equal to 10 + your base attack bonus. Against creatures with multiple types of movement, you must choose which movement type to affect. A flying creature hit by this attack must make a DC 10 [Fly](../skills_dir/fly#_fly) check to remain airborne, and has its maneuverability reduced by one step.
+**Benefit:** Whenever you score a critical hit against an opponent, its speed is halved for 1 minute. A successful Fortitude save reduces this duration to 1d4 rounds. The DC of this save is equal to 10 + your base attack bonus. Against creatures with multiple types of movement, you must choose which movement type to affect. A flying creature hit by this attack must make a DC 10 [Fly](../skills/fly#_fly) check to remain airborne, and has its maneuverability reduced by one step.
 
 **Special:** You can only apply the effects of one critical feat to a given critical hit unless you possess [Critical Mastery](../feats#_critical-mastery).
 
@@ -490,7 +490,7 @@ Your keen magical intuition makes reading signs, portents, and mystical clues qu
 
 **Prerequisite:** [Spell Focus](../feats#_spell-focus) (divination).
 
-**Benefit:** You gain a +2 bonus on caster level checks with divinations to overcome spell resistance or effects that impede divination (for example, _ [nondetection](../spells_dir/nondetection#_nondetection)_). When using a divination spell that requires concentration, you gain information from the spell 1 round sooner than normal (so you gain information from the first 2 rounds with 1 round of concentration, and information from the third round in the second round of concentration).
+**Benefit:** You gain a +2 bonus on caster level checks with divinations to overcome spell resistance or effects that impede divination (for example, _ [nondetection](../spells/nondetection#_nondetection)_). When using a divination spell that requires concentration, you gain information from the spell 1 round sooner than normal (so you gain information from the first 2 rounds with 1 round of concentration, and information from the third round in the second round of concentration).
 
 ## Dreadful Carnage (Combat)
 
@@ -498,7 +498,7 @@ Slaying an enemy demoralizes your other nearby foes.
 
 **Prerequisites:** Str 15, [Power Attack](../feats#_power-attack), Furious Focus, base attack bonus +11.
 
-**Benefit:** Whenever you reduce an enemy to 0 or fewer hit points, you can make an [Intimidate](../skills_dir/intimidate#_intimidate) check to demoralize all enemies within 30 feet as a free action. Enemies that cannot see both you and the enemy you reduced to 0 or fewer hit points are unaffected.
+**Benefit:** Whenever you reduce an enemy to 0 or fewer hit points, you can make an [Intimidate](../skills/intimidate#_intimidate) check to demoralize all enemies within 30 feet as a free action. Enemies that cannot see both you and the enemy you reduced to 0 or fewer hit points are unaffected.
 
 ## Duck and Cover (Teamwork)
 
@@ -512,7 +512,7 @@ Your vision is especially keen.
 
 **Prerequisites:** Wis 13, keen senses racial trait.
 
-**Benefit:** You ignore up to –5 in penalties due to distance on visual [Perception](../skills_dir/perception#_perception) checks, allowing you to see accurately at much greater distances than most.
+**Benefit:** You ignore up to –5 in penalties due to distance on visual [Perception](../skills/perception#_perception) checks, allowing you to see accurately at much greater distances than most.
 
 ## Eclectic
 
@@ -574,9 +574,9 @@ Your sharp eyesight makes difficult shots easier.
 
 You are skilled at causing fear in those you brutalize.
 
-**Prerequisite:** [Intimidate](../skills_dir/intimidate#_intimidate) 1 rank.
+**Prerequisite:** [Intimidate](../skills/intimidate#_intimidate) 1 rank.
 
-**Benefit:** Whenever you deal nonlethal damage with a melee weapon, you can make an [Intimidate](../skills_dir/intimidate#_intimidate) check to demoralize your target as a free action. If you are successful, the target is shaken for a number of rounds equal to the damage dealt. If your attack was a critical hit, your target is frightened for 1 round with a successful [Intimidate](../skills_dir/intimidate#_intimidate) check, as well as being shaken for a number of rounds equal to the damage dealt.
+**Benefit:** Whenever you deal nonlethal damage with a melee weapon, you can make an [Intimidate](../skills/intimidate#_intimidate) check to demoralize your target as a free action. If you are successful, the target is shaken for a number of rounds equal to the damage dealt. If your attack was a critical hit, your target is frightened for 1 round with a successful [Intimidate](../skills/intimidate#_intimidate) check, as well as being shaken for a number of rounds equal to the damage dealt.
 
 ## Expanded Arcana
 
@@ -736,7 +736,7 @@ Your arcane talents go beyond the illusory.
 
 **Prerequisites:** Cha 13, gnome, gnome magic racial trait.
 
-**Benefit:** In addition to your normal gnome spell-like abilities, you also gain the following spell-like abilities: 1_dir/day—_ [mage hand](../spells_dir/mageHand#_mage-hand)_ and _ [prestidigitation](../spells_dir/prestidigitation#_prestidigitation)_.
+**Benefit:** In addition to your normal gnome spell-like abilities, you also gain the following spell-like abilities: 1/day—_ [mage hand](../spells/mageHand#_mage-hand)_ and _ [prestidigitation](../spells/prestidigitation#_prestidigitation)_.
 
 ## Go Unnoticed
 
@@ -744,19 +744,19 @@ Your small size lets you quickly duck out of sight.
 
 **Prerequisites:** Dex 13, Small size or smaller.
 
-**Benefit:** During the first round of combat, flat-footed opponents are considered not to have noticed you yet for the purposes of [Stealth](../skills_dir/stealth#_stealth) skill checks, allowing you to make a [Stealth](../skills_dir/stealth#_stealth) check that round to hide from them.
+**Benefit:** During the first round of combat, flat-footed opponents are considered not to have noticed you yet for the purposes of [Stealth](../skills/stealth#_stealth) skill checks, allowing you to make a [Stealth](../skills/stealth#_stealth) check that round to hide from them.
 
 ## Greater Blind-Fight (Combat)
 
 Your enemies cannot hide from you.
 
-**Prerequisites:** [Perception](../skills_dir/perception#_perception) 15 ranks, Improved [Blind-Fight](../feats#_blind-fight).
+**Prerequisites:** [Perception](../skills/perception#_perception) 15 ranks, Improved [Blind-Fight](../feats#_blind-fight).
 
 **Benefit:** Your melee attacks ignore the miss chance for less than total concealment, and you treat opponents with total concealment as if they had normal concealment (20% miss chance instead of 50%). You may still reroll a miss chance percentile roll as normal.
 
 If you successfully pinpoint an invisible or hidden attacker, that attacker gets no advantages related to hitting you with ranged attacks, regardless of the range. That is, you don't lose your Dexterity bonus to Armor Class, and the attacker doesn't get the usual +2 bonus for being invisible.
 
-**Special:** The Greater [Blind-Fight](../feats#_blind-fight) feat is of no use against a character who is the subject of a _ [blink](../spells_dir/blink#_blink)_ spell.
+**Special:** The Greater [Blind-Fight](../feats#_blind-fight) feat is of no use against a character who is the subject of a _ [blink](../spells/blink#_blink)_ spell.
 
 ## Greater Dirty Trick (Combat)
 
@@ -824,7 +824,7 @@ You can speak with burrowing animals.
 
 **Prerequisites:** Cha 13, gnome, gnome magic racial trait.
 
-**Benefit:** You can use _ [speak with animals](../spells_dir/speakWithAnimals#_speak-with-animals)_ as a spell-like ability at will, but only to communicate with burrowing animals like gophers, moles, and the like. You can still use your gnome _ [speak with animals](../spells_dir/speakWithAnimals#_speak-with-animals)_ ability once per day to speak with any animal, as usual.
+**Benefit:** You can use _ [speak with animals](../spells/speakWithAnimals#_speak-with-animals)_ as a spell-like ability at will, but only to communicate with burrowing animals like gophers, moles, and the like. You can still use your gnome _ [speak with animals](../spells/speakWithAnimals#_speak-with-animals)_ ability once per day to speak with any animal, as usual.
 
 ## Heroic Defiance
 
@@ -846,13 +846,13 @@ You can throw off the effects of crippling conditions.
 
 Your keen senses guide your hand against hidden foes.
 
-**Prerequisites:** [Perception](../skills_dir/perception#_perception) 10 ranks, [Blind-Fight](../feats#_blind-fight).
+**Prerequisites:** [Perception](../skills/perception#_perception) 10 ranks, [Blind-Fight](../feats#_blind-fight).
 
 **Benefit:** Your melee attacks ignore the miss chance for less than total concealment. You may still reroll your miss chance percentile roll for total concealment.
 
 If you successfully pinpoint an invisible or hidden attacker within 30 feet, that attacker gets no advantages related to hitting you with ranged attacks. That is, you don't lose your Dexterity bonus to Armor Class, and the attacker doesn't get the usual +2 bonus for being invisible.
 
-**Special:** The Improved Blind-Fight feat is of no use against a character who is the subject of a _ [blink](../spells_dir/blink#_blink)_ spell.
+**Special:** The Improved Blind-Fight feat is of no use against a character who is the subject of a _ [blink](../spells/blink#_blink)_ spell.
 
 ## Improved Dirty Trick (Combat)
 
@@ -910,7 +910,7 @@ You can turn a missed strike into a second chance without sacrificing later atta
 
 You can share spells with those you have a magical connection with.
 
-**Prerequisites:** [Spellcraft](../skills_dir/spellcraft#_spellcraft) 10 ranks, ability to acquire an animal companion, eidolon, familiar, or special mount.
+**Prerequisites:** [Spellcraft](../skills/spellcraft#_spellcraft) 10 ranks, ability to acquire an animal companion, eidolon, familiar, or special mount.
 
 **Benefit:** Any non-instantaneous spell (but not any spell-like ability) you cast on yourself can also affect a creature bonded to you (such as an animal companion, eidolon, familiar, or special mount). The creature must be within 5 feet of you at the time of casting to receive the benefit. The spell's duration is halved between you and your bonded creature (for example, a spell with a duration of 1 hour has a duration of 30 minutes for both you and your bonded creature).
 
@@ -946,7 +946,7 @@ Your sense for stonework is uncanny.
 
 **Prerequisites:** Wis 13, dwarf, stonecunning racial trait.
 
-**Benefit:** You receive a +4 bonus on [Perception](../skills_dir/perception#_perception) checks to notice unusual stonework. This bonus replaces the stonecunning ability's normal bonus on [Perception](../skills_dir/perception#_perception) checks.
+**Benefit:** You receive a +4 bonus on [Perception](../skills/perception#_perception) checks to notice unusual stonework. This bonus replaces the stonecunning ability's normal bonus on [Perception](../skills/perception#_perception) checks.
 
 ## Intensified Spell (Metamagic)
 
@@ -968,7 +968,7 @@ You have an especially strong stomach.
 
 **Prerequisites:** Con 13; dwarf, half-orc, or orc.
 
-**Benefit:** You gain a +2 racial bonus on saving throws against any effect causing the nauseated or sickened conditions and against all ingested poisons (but not other poisons). In addition, you receive a +2 bonus on [Survival](../skills_dir/survival#_survival) skill checks to find food for yourself (and only yourself).
+**Benefit:** You gain a +2 racial bonus on saving throws against any effect causing the nauseated or sickened conditions and against all ingested poisons (but not other poisons). In addition, you receive a +2 bonus on [Survival](../skills/survival#_survival) skill checks to find food for yourself (and only yourself).
 
 ## Ironhide
 
@@ -1064,11 +1064,11 @@ You can cast a single low-level spell as a spell-like ability.
 
 Your mastery of alchemy is nearly supernatural.
 
-**Prerequisite:** [Craft](../skills_dir/craft#_craft) (alchemy) 5 ranks.
+**Prerequisite:** [Craft](../skills/craft#_craft) (alchemy) 5 ranks.
 
-**Benefit:** You receive a +2 bonus on [Craft](../skills_dir/craft#_craft) (alchemy) checks, and you may create mundane alchemical items much more quickly than normal. When making poisons, you can create a number of doses equal to your Intelligence modifier (minimum 1) at one time. These additional doses do not increase the time required, but they do increase the raw material cost.
+**Benefit:** You receive a +2 bonus on [Craft](../skills/craft#_craft) (alchemy) checks, and you may create mundane alchemical items much more quickly than normal. When making poisons, you can create a number of doses equal to your Intelligence modifier (minimum 1) at one time. These additional doses do not increase the time required, but they do increase the raw material cost.
 
-In addition, whenever you make alchemical items or poisons using [Craft](../skills_dir/craft#_craft) (alchemy), use the item's gp value as its sp value when determining your progress (do not multiply the item's gp cost by 10 to determine its sp cost).
+In addition, whenever you make alchemical items or poisons using [Craft](../skills/craft#_craft) (alchemy), use the item's gp value as its sp value when determining your progress (do not multiply the item's gp cost by 10 to determine its sp cost).
 
 ## Merciful Spell (Metamagic)
 
@@ -1100,13 +1100,13 @@ Your defensive tactics defend both you and your mount.
 
 **Prerequisites:** [Mounted Combat](../feats#_mounted-combat), [Shield Focus](../feats#_shield-focus).
 
-**Benefit:** You may add your base shield bonus (including the bonus from [Shield Focus](../feats#_shield-focus) but not including enhancement bonuses) to your mount's AC. In addition, you may add this bonus when making a [Ride](../skills_dir/ride#_ride) check to negate a hit against your mount using the [Mounted Combat](../feats#_mounted-combat) feat.
+**Benefit:** You may add your base shield bonus (including the bonus from [Shield Focus](../feats#_shield-focus) but not including enhancement bonuses) to your mount's AC. In addition, you may add this bonus when making a [Ride](../skills/ride#_ride) check to negate a hit against your mount using the [Mounted Combat](../feats#_mounted-combat) feat.
 
 ## Mounted Skirmisher (Combat)
 
 You are adept at attacking from upon a swift moving steed.
 
-**Prerequisites:** [Ride](../skills_dir/ride#_ride) rank 14, [Mounted Combat](../feats#_mounted-combat), Trick Riding.
+**Prerequisites:** [Ride](../skills/ride#_ride) rank 14, [Mounted Combat](../feats#_mounted-combat), Trick Riding.
 
 **Benefit:** If your mount moves its speed or less, you can still take a full-attack action.
 
@@ -1130,9 +1130,9 @@ You know how to make an enemy pay for lax defenses.
 
 You can throw an enemy spell back at its caster.
 
-**Prerequisites:** [Spellcraft](../skills_dir/spellcraft#_spellcraft) 15 ranks, [Improved Counterspell](../feats#_improved-counterspell) .
+**Prerequisites:** [Spellcraft](../skills/spellcraft#_spellcraft) 15 ranks, [Improved Counterspell](../feats#_improved-counterspell) .
 
-**Benefit:** Whenever you successfully counter a spell, it returns back to its caster. This works exactly like the _ [spell turning](../spells_dir/spellTurning#_spell-turning)_ spell.
+**Benefit:** Whenever you successfully counter a spell, it returns back to its caster. This works exactly like the _ [spell turning](../spells/spellTurning#_spell-turning)_ spell.
 
 ## Parting Shot (Combat)
 
@@ -1152,7 +1152,7 @@ You're easily mistaken for a human rather than a member of your own race.
 
 **Prerequisite:** Half-elf, half-orc, or halfling (see Special).
 
-**Benefit:** You receive a +10 bonus on [Disguise](../skills_dir/disguise#_disguise) checks to disguise yourself as a human, and do not receive the penalty for disguising yourself as a member of another race when you do so. In areas largely populated or settled by humans, you can take 10 on your [Disguise](../skills_dir/disguise#_disguise) check, meaning most people tend to assume you are human unless given a reason to think otherwise.
+**Benefit:** You receive a +10 bonus on [Disguise](../skills/disguise#_disguise) checks to disguise yourself as a human, and do not receive the penalty for disguising yourself as a member of another race when you do so. In areas largely populated or settled by humans, you can take 10 on your [Disguise](../skills/disguise#_disguise) check, meaning most people tend to assume you are human unless given a reason to think otherwise.
 
 **Special:** A halfling may take this feat, but must have the Childlike feat as a prerequisite. The benefits of the two feats stack.
 
@@ -1208,7 +1208,7 @@ You are skilled at striking where it counts, as long as an ally distracts your f
 
 You find it very easy to cast one particular spell.
 
-**Prerequisites:** [Spellcraft](../skills_dir/spellcraft#_spellcraft) 5 ranks, [Heighten Spell](../feats#_heighten-spell).
+**Prerequisites:** [Spellcraft](../skills/spellcraft#_spellcraft) 5 ranks, [Heighten Spell](../feats#_heighten-spell).
 
 **Benefit:** Choose one spell which you have the ability to cast. You can cast that spell spontaneously by sacrificing a prepared spell or spell slot of equal or higher level. You can apply any metamagic feats you possess to this spell when you cast it. This increases the minimum level of the prepared spell or spell slot you must sacrifice in order to cast it but does not affect the casting time.
 
@@ -1220,7 +1220,7 @@ Your kicks are so powerful you use them to push or knock back your foes.
 
 **Prerequisites:** Con 13, Wis 13, [Improved Unarmed Strike](../feats#_improved-unarmed-strike), base attack bonus +8.
 
-**Benefit:** You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). On a successful hit, the attack deals damage normally and you can choose to push your target 5 feet or attempt to knock them prone. If you decide to push the target, it is moved 5 feet directly away from you. This movement does not provoke attacks of opportunity, and the target must end this move in a safe space it can stand in. If you decide to attempt to knock the target prone, the target receives a Fortitude saving throw with a DC of 10 + 1_dir/2 your character level + your Wisdom modifier to avoid the effect. You may attempt a punishing kick attack once per day for every four levels you have attained (but see Special), and no more than once per round.
+**Benefit:** You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). On a successful hit, the attack deals damage normally and you can choose to push your target 5 feet or attempt to knock them prone. If you decide to push the target, it is moved 5 feet directly away from you. This movement does not provoke attacks of opportunity, and the target must end this move in a safe space it can stand in. If you decide to attempt to knock the target prone, the target receives a Fortitude saving throw with a DC of 10 + 1/2 your character level + your Wisdom modifier to avoid the effect. You may attempt a punishing kick attack once per day for every four levels you have attained (but see Special), and no more than once per round.
 
 **Special:** A hungry ghost monk receives Punishing Kick as a bonus feat at 1st level, even if he does not meet the prerequisites. A monk may attempt a punishing kick attack a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk.
 
@@ -1312,7 +1312,7 @@ Quick reflexes turn missed strikes into second chances.
 
 Your allies need not fear friendly fire.
 
-**Prerequisite:** [Spellcraft](../skills_dir/spellcraft#_spellcraft) 10 ranks.
+**Prerequisite:** [Spellcraft](../skills/spellcraft#_spellcraft) 10 ranks.
 
 **Benefit:** When casting a selective spell with an area effect and a duration of instantaneous, you can choose a number of targets in the area equal to the ability score modifier used to determine bonus spells of the same type (Charisma for bards, oracles, paladins, sorcerers, and summoners; Intelligence for witches and wizards; Wisdom for clerics, druids, inquisitors, and rangers). These targets are excluded from the effects of your spell. A selective spell uses up a spell slot one level higher than the spell's actual level.
 
@@ -1332,7 +1332,7 @@ You deftly direct others' attentions where you wish.
 
 **Prerequisites:** Wis 13, half-elf.
 
-**Benefit:** As a move action, you can grant all friendly creatures within 30 feet who can see or hear you a +2 bonus on [Perception](../skills_dir/perception#_perception) checks for a number of rounds equal to your Wisdom modifier (minimum 1 round).
+**Benefit:** As a move action, you can grant all friendly creatures within 30 feet who can see or hear you a +2 bonus on [Perception](../skills/perception#_perception) checks for a number of rounds equal to your Wisdom modifier (minimum 1 round).
 
 ## Sharp Senses
 
@@ -1340,9 +1340,9 @@ Your senses are especially sharp, even for your kind.
 
 **Prerequisite:** Keen senses racial trait.
 
-**Benefit:** You receive a +4 racial bonus on [Perception](../skills_dir/perception#_perception) skill checks. This replaces the normal bonus from the keen senses racial trait.
+**Benefit:** You receive a +4 racial bonus on [Perception](../skills/perception#_perception) skill checks. This replaces the normal bonus from the keen senses racial trait.
 
-**Normal:** The keen senses trait normally grants a +2 racial bonus on [Perception](../skills_dir/perception#_perception) skill checks.
+**Normal:** The keen senses trait normally grants a +2 racial bonus on [Perception](../skills/perception#_perception) skill checks.
 
 ## Shield of Swings (Combat)
 
@@ -1350,7 +1350,7 @@ A wild frenzy of attacks serves to bolster your defenses.
 
 **Prerequisites:** Str 13, [Power Attack](../feats#_power-attack), base attack bonus +1.
 
-**Benefit:** When you take a full-attack action while wielding a two-handed weapon, you can choose to reduce the damage by 1_dir/2 to gain a +4 shield bonus to AC and CMD until the beginning of your next turn. The reduction in damage applies until the beginning of your next turn.
+**Benefit:** When you take a full-attack action while wielding a two-handed weapon, you can choose to reduce the damage by 1/2 to gain a +4 shield bonus to AC and CMD until the beginning of your next turn. The reduction in damage applies until the beginning of your next turn.
 
 ## Shield Specialization (Combat)
 
@@ -1408,7 +1408,7 @@ You can catch the sour scent of fear on the wind.
 
 **Prerequisites:** Keen Scent, half-orc or orc.
 
-**Benefit:** You receive a +4 bonus on [Perception](../skills_dir/perception#_perception) checks to detect creatures with the shaken, frightened, or panicked conditions using scent. You can substitute your [Perception](../skills_dir/perception#_perception) skill for [Sense Motive](../skills_dir/senseMotive#_sense-motive) skill checks if the subject has one of the previous conditions or is attempting to cover up their fear in some way.
+**Benefit:** You receive a +4 bonus on [Perception](../skills/perception#_perception) checks to detect creatures with the shaken, frightened, or panicked conditions using scent. You can substitute your [Perception](../skills/perception#_perception) skill for [Sense Motive](../skills/senseMotive#_sense-motive) skill checks if the subject has one of the previous conditions or is attempting to cover up their fear in some way.
 
 ## Sociable
 
@@ -1416,13 +1416,13 @@ You have a way of helping others to get along.
 
 **Prerequisites:** Cha 13, half-elf.
 
-**Benefit:** As a move action, you grant all friendly creatures within 30 feet who can see or hear you (including yourself) a +2 bonus on [Diplomacy](../skills_dir/diplomacy#_diplomacy) checks for a number of rounds equal to your Charisma modifier (minimum 1 round).
+**Benefit:** As a move action, you grant all friendly creatures within 30 feet who can see or hear you (including yourself) a +2 bonus on [Diplomacy](../skills/diplomacy#_diplomacy) checks for a number of rounds equal to your Charisma modifier (minimum 1 round).
 
 ## Spell Perfection
 
 You are unequaled at the casting of one particular spell.
 
-**Prerequisites:** [Spellcraft](../skills_dir/spellcraft#_spellcraft) 15 ranks, at least three metamagic feats.
+**Prerequisites:** [Spellcraft](../skills/spellcraft#_spellcraft) 15 ranks, at least three metamagic feats.
 
 **Benefit:** Pick one spell which you have the ability to cast. Whenever you cast that spell you may apply any one metamagic feat you have to that spell without affecting its level or casting time, as long as the total modified level of the spell does not use a spell slot above 9th level. In addition, if you have other feats which allow you to apply a set numerical bonus to any aspect of this spell (such as [Spell Focus](../feats#_spell-focus), [Spell Penetration](../feats#_spell-penetration), [Weapon Focus](../feats#_weapon-focus) [ray], and so on), double the bonus granted by that feat when applied to this spell.
 
@@ -1430,7 +1430,7 @@ You are unequaled at the casting of one particular spell.
 
 Your physical mastery grants you an impossible stride.
 
-**Prerequisites:** [Acrobatics](../skills_dir/acrobatics#_acrobatics) 6 ranks, [Climb](../skills_dir/climb#_climb) 6 ranks, monk level 6th.
+**Prerequisites:** [Acrobatics](../skills/acrobatics#_acrobatics) 6 ranks, [Climb](../skills/climb#_climb) 6 ranks, monk level 6th.
 
 **Benefit:** As a move action, you can move up to half your slow fall distance across a wall or ceiling or across ropes, branches, or even water or other surfaces that cannot support your weight. You must reach a solid, level surface by the end of your turn or you will fall.
 
@@ -1468,13 +1468,13 @@ Rocks show more expression than you.
 
 **Prerequisite:** Dwarf.
 
-**Benefit:** You receive a +4 bonus on [Bluff](../skills_dir/bluff#_bluff) checks to lie or conceal your feelings or true motives, but not to feint in combat or deliver secret messages. In addition, the DC for [Sense Motive](../skills_dir/senseMotive#_sense-motive) checks to get a hunch about you is 25 rather than 20.
+**Benefit:** You receive a +4 bonus on [Bluff](../skills/bluff#_bluff) checks to lie or conceal your feelings or true motives, but not to feint in combat or deliver secret messages. In addition, the DC for [Sense Motive](../skills/senseMotive#_sense-motive) checks to get a hunch about you is 25 rather than 20.
 
 ## Stone Sense
 
 You can feel movement in the very earth and stones around you.
 
-**Prerequisites:** Improved Stonecunning, [Perception](../skills_dir/perception#_perception) 10 ranks.
+**Prerequisites:** Improved Stonecunning, [Perception](../skills/perception#_perception) 10 ranks.
 
 **Benefit:** You gain tremorsense to a range of 10 feet.
 
@@ -1536,7 +1536,7 @@ You may be small, but your remarks cut others down to size.
 
 **Prerequisites:** Cha 13, Small size or smaller.
 
-**Benefit:** You can demoralize opponents using [Bluff](../skills_dir/bluff#_bluff) rather than [Intimidate](../skills_dir/intimidate#_intimidate) (see the [Intimidate](../skills_dir/intimidate#_intimidate) skill description for details) and take no skill check penalty for being smaller than your target.
+**Benefit:** You can demoralize opponents using [Bluff](../skills/bluff#_bluff) rather than [Intimidate](../skills/intimidate#_intimidate) (see the [Intimidate](../skills/intimidate#_intimidate) skill description for details) and take no skill check penalty for being smaller than your target.
 
 ## Team Up (Combat)
 
@@ -1578,7 +1578,7 @@ With a single touch you can reduce the threat of even the most savage of foes.
 
 **Prerequisites:** Wis 18, [Improved Unarmed Strike](../feats#_improved-unarmed-strike), base attack bonus +8.
 
-**Benefit:** You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). On a successful hit, the attack deals no damage and bestows no other effect or condition, but the target cannot cast spells or attack (including attacks of opportunity and attacks as immediate actions) for 1 round unless it succeeds on a Will saving throw with a DC of 10 + 1_dir/2 your character level + your Wisdom modifier. You may attempt a touch of serenity once per day for every four levels you have attained (but see Special), and no more than once per round.
+**Benefit:** You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). On a successful hit, the attack deals no damage and bestows no other effect or condition, but the target cannot cast spells or attack (including attacks of opportunity and attacks as immediate actions) for 1 round unless it succeeds on a Will saving throw with a DC of 10 + 1/2 your character level + your Wisdom modifier. You may attempt a touch of serenity once per day for every four levels you have attained (but see Special), and no more than once per round.
 
 **Special:** A monk of the lotus receives Touch of Serenity as a bonus feat at 1st level, even if he does not meet the prerequisites. A monk may attempt a touch of serenity a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk.
 
@@ -1586,9 +1586,9 @@ With a single touch you can reduce the threat of even the most savage of foes.
 
 You are not only skilled at controlling a horse in combat; you can make it look like art.
 
-**Prerequisites:** [Ride](../skills_dir/ride#_ride) 9 ranks, [Mounted Combat](../feats#_mounted-combat).
+**Prerequisites:** [Ride](../skills/ride#_ride) 9 ranks, [Mounted Combat](../feats#_mounted-combat).
 
-**Benefit:** While wearing light or no armor, you do not need to make [Ride](../skills_dir/ride#_ride) skill checks for any task listed in the [Ride](../skills_dir/ride#_ride) skill with a DC of 15 or lower. You do not take a –5 penalty for riding a mount bareback. You can make a check using [Mounted Combat](../feats#_mounted-combat) to negate a hit on your mount twice per round instead of just once.
+**Benefit:** While wearing light or no armor, you do not need to make [Ride](../skills/ride#_ride) skill checks for any task listed in the [Ride](../skills/ride#_ride) skill with a DC of 15 or lower. You do not take a –5 penalty for riding a mount bareback. You can make a check using [Mounted Combat](../feats#_mounted-combat) to negate a hit on your mount twice per round instead of just once.
 
 ## Tripping Strike (Combat)
 
@@ -1616,7 +1616,7 @@ You slip under and around your larger foes.
 
 **Prerequisites:** [Dodge](../feats#_dodge), [Mobility](../feats#_mobility), Small size or smaller.
 
-**Benefit:** You receive a +4 dodge bonus on [Acrobatics](../skills_dir/acrobatics#_acrobatics) checks to move past opponents without provoking attacks of opportunity, so long as they are larger than you. In addition, you gain a +2 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a larger opponent's threatened area (this stacks with the +4 bonus provided by [Mobility](../feats#_mobility), for a total bonus of +6).
+**Benefit:** You receive a +4 dodge bonus on [Acrobatics](../skills/acrobatics#_acrobatics) checks to move past opponents without provoking attacks of opportunity, so long as they are larger than you. In addition, you gain a +2 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a larger opponent's threatened area (this stacks with the +4 bonus provided by [Mobility](../feats#_mobility), for a total bonus of +6).
 
 ## Vermin Heart
 
@@ -1640,7 +1640,7 @@ Somehow, you always seem to have the right tools or supplies close at hand.
 
 **Prerequisite:** Halfling.
 
-**Benefit:** Once per day, when confronted with a situation that calls for a particular mundane item of equipment, you may make a [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) check with a DC of 10 plus the item's cost in gold pieces to “happen” to have such an item on your person. For example, having a crowbar would be DC 12, whereas a flask of acid would be DC 20. The item must be something you can easily carry—if you are on foot and have only a backpack, for example, you could not have a large iron cauldron. You cannot have magical items using this feat, nor can you have specific items, such as the key to a particular door. If you are stripped of your equipment or possessions, you lose the benefits of this feat until you have at least a day to resupply and “acquire” new items. You must pay for these items normally.
+**Benefit:** Once per day, when confronted with a situation that calls for a particular mundane item of equipment, you may make a [Sleight of Hand](../skills/sleightOfHand#_sleight-of-hand) check with a DC of 10 plus the item's cost in gold pieces to “happen” to have such an item on your person. For example, having a crowbar would be DC 12, whereas a flask of acid would be DC 20. The item must be something you can easily carry—if you are on foot and have only a backpack, for example, you could not have a large iron cauldron. You cannot have magical items using this feat, nor can you have specific items, such as the key to a particular door. If you are stripped of your equipment or possessions, you lose the benefits of this feat until you have at least a day to resupply and “acquire” new items. You must pay for these items normally.
 
-**Special:** At the GM's option, a character can substitute the [Survival](../skills_dir/survival#_survival) skill for [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) with this feat. Such a choice is permanent.
+**Special:** At the GM's option, a character can substitute the [Survival](../skills/survival#_survival) skill for [Sleight of Hand](../skills/sleightOfHand#_sleight-of-hand) with this feat. Such a choice is permanent.
 

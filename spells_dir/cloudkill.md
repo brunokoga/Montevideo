@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/cloudkill
+title: spells/cloudkill
 ---
  **Cloudkill**
 
-**School** conjuration (creation); **Level** sorcerer_dir/wizard 5
+**School** conjuration (creation); **Level** sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Effect** cloud spreads in 20-ft. radius, 20 ft. high
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) partial; see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

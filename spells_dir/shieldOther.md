@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/shieldOther
+title: spells/shieldOther
 ---
  **Shield Other**
 
@@ -10,11 +10,11 @@ title: spells_dir/shieldOther
 
 **Components** V, S, F (a pair of platinum rings worth 50 gp worn by both you and the target)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature
 
-**Duration** 1 hour_dir/level (D)
+**Duration** 1 hour/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mythicAdventures_dir/Glossary
+title: mythicAdventures/Glossary
 ---
 # Glossary
 
@@ -10,7 +10,7 @@ _Mythic Adventures_ uses several terms that are new to the Pathfinder Roleplayin
 
 **Boon** : When a mythic character completes a particularly difficult task, the GM might reward that character with a boon. A boon represents having earned the favor of the source of the character's power. Once acquired, a boon allows the character to draw upon mythic power one additional time that day. A mythic character might be rewarded with a boon several times in a single session, but no more than once per encounter.
 
-**DR_dir/Epic** : A type of damage reduction, DR_dir/epic can be overcome only by a weapon with an enhancement bonus of +6 or greater. Weapons with special abilities also count as epic for the purposes of overcoming damage reduction if the total bonus value of all of their abilities (including the enhancement bonus) is +6 or greater.
+**DR/Epic** : A type of damage reduction, DR/epic can be overcome only by a weapon with an enhancement bonus of +6 or greater. Weapons with special abilities also count as epic for the purposes of overcoming damage reduction if the total bonus value of all of their abilities (including the enhancement bonus) is +6 or greater.
 
 **Mythic** : With abilities seemingly beyond the those of ordinary mortals, a mythic character or mythic monster becomes part of a story that plays out on a greater scale than ordinary people can understand. An attack, spell, or other effect is considered mythic if it originates from a mythic source, such as a character or creature with a mythic tier or rank.
 

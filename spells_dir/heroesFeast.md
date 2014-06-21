@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/heroesFeast
+title: spells/heroesFeast
 ---
  **Heroes' Feast**
 
@@ -10,9 +10,9 @@ title: spells_dir/heroesFeast
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
-**Effect** feast for one creature_dir/level
+**Effect** feast for one creature/level
 
 **Duration** 1 hour plus 12 hours; see text
 

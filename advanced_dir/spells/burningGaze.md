@@ -1,20 +1,20 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/burningGaze
+title: advanced/spells/burningGaze
 ---
  **Burning Gaze**
 
-**School** evocation [fire]; **Level** druid 2, sorcerer_dir/wizard 2, witch 2
+**School** evocation [fire]; **Level** druid 2, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M_dir/DF (eye of a mundane salamander)
+**Components** V, S, M/DF (eye of a mundane salamander)
 
 **Range** personal
 
 **Target** you
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Fortitude negates (see text); **Spell Resistance** yes
 

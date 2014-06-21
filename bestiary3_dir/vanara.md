@@ -1,20 +1,20 @@
 ---
 layout: default
-title: bestiary3_dir/vanara
+title: bestiary3/vanara
 ---
 # Vanara
 
 This lean, simian humanoid is covered in a layer of soft, lightly colored fur and has a long, prehensile tail.
 
-Vanara CR 1_dir/2
+Vanara CR 1/2
 
 XP 200
 
-[Vanara](monsters_dir/creatureTypes#_vanara-subtype) monk 1
+[Vanara](monsters/creatureTypes#_vanara-subtype) monk 1
 
-LG Medium humanoid ( [vanara](monsters_dir/creatureTypes#_vanara-subtype))
+LG Medium humanoid ( [vanara](monsters/creatureTypes#_vanara-subtype))
 
-**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +7
+**Init** +3; **Senses** low-light vision; [Perception](skills/perception#_perception) +7
 
 Defense
 
@@ -29,9 +29,9 @@ Offense
 **Speed** 30 ft., climb 20 ft.
 
 **Melee** quarterstaff +1 (1d6+1) or  
-flurry of blows +0_dir/+0 (1d6+1)
+flurry of blows +0/+0 (1d6+1)
 
-**Special Attacks** flurry of blows, stunning fist (1_dir/day, DC 13)
+**Special Attacks** flurry of blows, stunning fist (1/day, DC 13)
 
 Statistics
 
@@ -39,9 +39,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +1; **CMD** 18
 
-**Feats** [Combat Reflexes](feats#_combat-reflexes)B, [Dodge](feats#_dodge), [Improved Unarmed Strike](feats#_improved-unarmed-strike)B, [Stunning Fist](classes_dir/monk#_stunning-fist)B
+**Feats** [Combat Reflexes](feats#_combat-reflexes)B, [Dodge](feats#_dodge), [Improved Unarmed Strike](feats#_improved-unarmed-strike)B, [Stunning Fist](classes/monk#_stunning-fist)B
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +9, [Climb](skills_dir/climb#_climb) +13, [Perception](skills_dir/perception#_perception) +7, [Sense Motive](skills_dir/senseMotive#_sense-motive) +7, [Stealth](skills_dir/stealth#_stealth) +9; **Racial Modifiers** +2 [Acrobatics](skills_dir/acrobatics#_acrobatics), +2 [Stealth](skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +9, [Climb](skills/climb#_climb) +13, [Perception](skills/perception#_perception) +7, [Sense Motive](skills/senseMotive#_sense-motive) +7, [Stealth](skills/stealth#_stealth) +9; **Racial Modifiers** +2 [Acrobatics](skills/acrobatics#_acrobatics), +2 [Stealth](skills/stealth#_stealth)
 
 **Languages** Common, Sylvan, Vanaran
 
@@ -73,7 +73,7 @@ Vanaras are defined by their class levels—they do not possess racial Hit Dice.
 
 **Low-Light Vision** : Vanaras can see twice as far as a human in conditions of dim light.
 
-**Nimble** : Vanaras have a +2 racial bonus on [Acrobatics](skills_dir/acrobatics#_acrobatics) and [Stealth](skills_dir/stealth#_stealth) checks.
+**Nimble** : Vanaras have a +2 racial bonus on [Acrobatics](skills/acrobatics#_acrobatics) and [Stealth](skills/stealth#_stealth) checks.
 
 **Prehensile Tail** : See above.
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/iceStorm
+title: spells/iceStorm
 ---
  **Ice Storm**
 
-**School** evocation [cold]; **Level** druid 4, sorcerer_dir/wizard 4
+**School** evocation [cold]; **Level** druid 4, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M_dir/DF (dust and water)
+**Components** V, S, M/DF (dust and water)
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Area** cylinder (20-ft. radius, 40 ft. high)
 
-**Duration** 1 round_dir/level (D)
+**Duration** 1 round/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

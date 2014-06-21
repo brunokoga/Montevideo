@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/litanyOfWarding
+title: ultimateCombat/spells/litanyOfWarding
 ---
 Litany of Warding
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/festrog
+title: bestiary3/festrog
 ---
 # Festrog
 
@@ -12,7 +12,7 @@ XP 400
 
 NE Medium undead
 
-**Init** +1; **Senses** darkvision 60 ft., [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +6
+**Init** +1; **Senses** darkvision 60 ft., [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +6
 
 Defense
 
@@ -40,7 +40,7 @@ Statistics
 
 **Feats** [Weapon Focus](feats#_weapon-focus) (claw)
 
-**Skills** [Climb](skills_dir/climb#_climb) +8, [Perception](skills_dir/perception#_perception) +6, [Stealth](skills_dir/stealth#_stealth) +6, [Survival](skills_dir/survival#_survival) +3
+**Skills** [Climb](skills/climb#_climb) +8, [Perception](skills/perception#_perception) +6, [Stealth](skills/stealth#_stealth) +6, [Survival](skills/survival#_survival) +3
 
 **Languages** Common
 
@@ -57,9 +57,9 @@ Special Abilities
 **Charging Trip (Ex)** A festrog that hits with its bite after making a charge attack on all fours can attempt to trip its opponent (+4 bonus). This trip does not provoke attacks   
 of opportunity.
 
-**Diseased Pustules (Ex)** When a festrog takes damage from a piercing or slashing weapon, some of its boils rupture, squirting the attacker with puslike fluids. The noxious secretions carry a potent contact [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)) that causes those infected to break out into painful necrotic boils.
+**Diseased Pustules (Ex)** When a festrog takes damage from a piercing or slashing weapon, some of its boils rupture, squirting the attacker with puslike fluids. The noxious secretions carry a potent contact [disease](monsters/universalMonsterRules#_disease-(ex-or-su)) that causes those infected to break out into painful necrotic boils.
 
-_Necrotic Boils_: Disease—contact; _save_ Fort DC 11; _onset_ 1 day; _frequency_ 1_dir/day; _effect_ 1d4 Con; _cure_ 1 save.
+_Necrotic Boils_: Disease—contact; _save_ Fort DC 11; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d4 Con; _cure_ 1 save.
 
 **Feed (Su)** Every time a festrog makes a successful bite attack, it feeds on its opponent's flesh and gains 5 temporary hit points. The festrog cannot have more than 5 temporary hit points gained by this ability at one time.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/bindingWords
+title: ultimateMagic/wordsOfPower/effectwords/bindingWords
 ---
 ## Binding Words
 
@@ -8,7 +8,7 @@ Words from this family cause objects to become stationary and creatures to becom
 
 Lock Ward (Binding)
 
-**School** abjuration; **Level** sorcerer_dir/wizard 1
+**School** abjuration; **Level** sorcerer/wizard 1
 
 **Duration** permanent
 
@@ -20,9 +20,9 @@ This effect word causes one unattended object to close, such as a door, chest, o
 
 Paralyze Humanoid (Binding)
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, cleric 2, inquisitor 2, sorcerer_dir/wizard 3, witch 2
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, cleric 2, inquisitor 2, sorcerer/wizard 3, witch 2
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -33,10 +33,10 @@ The target of a wordspell with this effect word is paralyzed and cannot move. It
 Paralyze Creature (Binding)
 
 **School** enchantment (compulsion) [mind-affecting]; **Level   
-**bard 4, druid 4, inquisitor 4, sorcerer_dir/wizard 5, summoner 5,   
+**bard 4, druid 4, inquisitor 4, sorcerer/wizard 5, summoner 5,   
 witch 5
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -46,7 +46,7 @@ This effect word functions as the _paralyze humanoid _word except that it can af
 
 Permanent Paralysis (Binding)
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer_dir/wizard 8, summoner 6, witch 8
+**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 8, summoner 6, witch 8
 
 **Duration** permanent
 
@@ -54,5 +54,5 @@ Permanent Paralysis (Binding)
 
 **Target Restrictions** _selected_
 
-This effect word functions as the _paralyze humanoid _word except that it can affect creatures of any type and the duration is permanent. A creature affected by a wordspell with this effect word receives one additional Will saving throw at the end of its first turn after initially failing the save. This saving throw is made to relieve this word's effects, not any others included in the original wordspell. If this save fails as well, the effect of this word can only be undone with _ [greater dispel magic](spells_dir/dispelMagic#_dispel-magic-greater)_, _ [miracle](spells_dir/miracle#_miracle)_, or _ [wish](spells_dir/wish#_wish)_.
+This effect word functions as the _paralyze humanoid _word except that it can affect creatures of any type and the duration is permanent. A creature affected by a wordspell with this effect word receives one additional Will saving throw at the end of its first turn after initially failing the save. This saving throw is made to relieve this word's effects, not any others included in the original wordspell. If this save fails as well, the effect of this word can only be undone with _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_, _ [miracle](spells/miracle#_miracle)_, or _ [wish](spells/wish#_wish)_.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills_dir/disableDevice
+title: skills/disableDevice
 ---
 # Disable Device
 

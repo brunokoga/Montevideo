@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advancedRaceGuide_dir/raceBuilder
+title: advancedRaceGuide/raceBuilder
 ---
 # Race Builder
 
@@ -69,13 +69,13 @@ Because they have powerful racial traits and abilities, advanced and monstrous r
 | 30 | +2 level | +1 level | +0 level | +0 level |
 | 40 | +3 level | +2 level | +1 level | +0 level |
 
-# [Step 2: Racial Qualities](advancedRaceGuide_dir/raceBuilder_dir/racialQualities)
+# [Step 2: Racial Qualities](advancedRaceGuide/raceBuilder/racialQualities)
 
 The next step is to choose your race's qualities. You must select an option from each of the following quality categories. Qualities or aspects of qualities often serve as prerequisites for racial traits.
 
-[Type](advancedRaceGuide_dir/raceBuilder_dir/racialQualities#_type-quality)   [Size](advancedRaceGuide_dir/raceBuilder_dir/racialQualities#_size-quality)   [Base Speed](advancedRaceGuide_dir/raceBuilder_dir/racialQualities#_base-speed-quality)   [Ability Score Modifier](advancedRaceGuide_dir/raceBuilder_dir/racialQualities#_ability-score-modifier-quality)   [Language](advancedRaceGuide_dir/raceBuilder_dir/racialQualities#_language-quality)
+[Type](advancedRaceGuide/raceBuilder/racialQualities#_type-quality)   [Size](advancedRaceGuide/raceBuilder/racialQualities#_size-quality)   [Base Speed](advancedRaceGuide/raceBuilder/racialQualities#_base-speed-quality)   [Ability Score Modifier](advancedRaceGuide/raceBuilder/racialQualities#_ability-score-modifier-quality)   [Language](advancedRaceGuide/raceBuilder/racialQualities#_language-quality)
 
-# [Step 3: Racial Traits](advancedRaceGuide_dir/raceBuilder_dir/racialTraits)
+# [Step 3: Racial Traits](advancedRaceGuide/raceBuilder/racialTraits)
 
 Once you have chosen all your racial qualities, you may then choose your racial traits with your remaining RP.
 
@@ -93,9 +93,9 @@ The following format is used for all racial traits.
 > 
 > _Special_: This includes additional facts about the racial trait.
 
-[Ability Score](advancedRaceGuide_dir/raceBuilder_dir/racialTraits#_ability-score-racial-traits)   [Defense](advancedRaceGuide_dir/raceBuilder_dir/racialTraits#_defense-racial-traits)   [Feats and Skills](advancedRaceGuide_dir/raceBuilder_dir/racialTraits#_feat-and-skill-racial-traits)   [Magic](advancedRaceGuide_dir/raceBuilder_dir/racialTraits#_magical-racial-traits)   [Movement](advancedRaceGuide_dir/raceBuilder_dir/racialTraits#_movement-racial-traits)   [Offense](advancedRaceGuide_dir/raceBuilder_dir/racialTraits#_offense-racial-traits)   [Senses](advancedRaceGuide_dir/raceBuilder_dir/racialTraits#_senses-racial-traits)   [Weakness](advancedRaceGuide_dir/raceBuilder_dir/racialTraits#_weakness-racial-traits)   [Other](advancedRaceGuide_dir/raceBuilder_dir/racialTraits#_other-racial-traits)
+[Ability Score](advancedRaceGuide/raceBuilder/racialTraits#_ability-score-racial-traits)   [Defense](advancedRaceGuide/raceBuilder/racialTraits#_defense-racial-traits)   [Feats and Skills](advancedRaceGuide/raceBuilder/racialTraits#_feat-and-skill-racial-traits)   [Magic](advancedRaceGuide/raceBuilder/racialTraits#_magical-racial-traits)   [Movement](advancedRaceGuide/raceBuilder/racialTraits#_movement-racial-traits)   [Offense](advancedRaceGuide/raceBuilder/racialTraits#_offense-racial-traits)   [Senses](advancedRaceGuide/raceBuilder/racialTraits#_senses-racial-traits)   [Weakness](advancedRaceGuide/raceBuilder/racialTraits#_weakness-racial-traits)   [Other](advancedRaceGuide/raceBuilder/racialTraits#_other-racial-traits)
 
-# [Example Races](advancedRaceGuide_dir/raceBuilder_dir/exampleRaces)
+# [Example Races](advancedRaceGuide/raceBuilder/exampleRaces)
 
-[Core Races](advancedRaceGuide_dir/raceBuilder_dir/exampleRaces#_core-race-examples)   [Expanded Races](advancedRaceGuide_dir/raceBuilder_dir/exampleRaces#_expanded-race-examples)   [Other Races](advancedRaceGuide_dir/raceBuilder_dir/exampleRaces#_other-race-examples)
+[Core Races](advancedRaceGuide/raceBuilder/exampleRaces#_core-race-examples)   [Expanded Races](advancedRaceGuide/raceBuilder/exampleRaces#_expanded-race-examples)   [Other Races](advancedRaceGuide/raceBuilder/exampleRaces#_other-race-examples)
 

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/flare
+title: spells/flare
 ---
  **Flare**
 
-**School** evocation [light]; **Level** bard 0, druid 0, sorcerer_dir/wizard 0
+**School** evocation [light]; **Level** bard 0, druid 0, sorcerer/wizard 0
 
 **Casting Time** 1 standard action
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** burst of light
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/phantomDriver
+title: ultimateCombat/spells/phantomDriver
 ---
 Phantom Driver
 
-**School** conjuration (creation); **Level** bard 3, sorcerer_dir/wizard 3
+**School** conjuration (creation); **Level** bard 3, sorcerer/wizard 3
 
 **Casting Time** 10 minutes
 
@@ -14,7 +14,7 @@ Phantom Driver
 
 **Effect** one quasi-real, humanlike creature
 
-**Duration** 1 hour_dir/level (D)
+**Duration** 1 hour/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 

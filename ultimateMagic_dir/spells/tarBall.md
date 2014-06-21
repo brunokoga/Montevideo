@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/tarBall
+title: ultimateMagic/spells/tarBall
 ---
 Tar Ball
 
@@ -10,7 +10,7 @@ Tar Ball
 
 **Components** V, S, M (a tiny ball of bitumen)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** ranged attack
 

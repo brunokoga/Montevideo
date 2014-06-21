@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/bless
+title: spells/bless
 ---
  **Bless**
 
@@ -14,7 +14,7 @@ title: spells_dir/bless
 
 **Area** The caster and all allies within a 50-ft. burst, centered on the caster
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

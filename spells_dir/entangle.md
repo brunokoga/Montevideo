@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/entangle
+title: spells/entangle
 ---
  **Entangle**
 
@@ -10,11 +10,11 @@ title: spells_dir/entangle
 
 **Components** V, S, DF
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Area** plants in a 40-ft.-radius spread
 
-**Duration** 1 min._dir/level (D)
+**Duration** 1 min./level (D)
 
 **Saving Throw** : [Reflex](../combat#_reflex) partial; see text; **[Spell Resistance](../glossary#_spell-resistance)** : no
 

@@ -1,38 +1,38 @@
 ---
 layout: default
-title: ultimateMagic_dir/magic_dir/newFamiliars
+title: ultimateMagic/magic/newFamiliars
 ---
 # New Familiars
 
-The following are statistics for several new animals that can serve as familiars, in addition to a number of familiars [for the Witch Class](advanced_dir/baseClasses_dir/witch#_witch's-familiar). These familiars can be taken by anyone gaining a familiar, and utilize all the standard rules for familiars [for Wizard familiars](classes_dir/wizard#_familiars). Tiny or smaller familiars in this section use Dexterity to modify [Climb](skills_dir/climb#_climb) and [Swim](skills_dir/swim#_swim) skill checks.
+The following are statistics for several new animals that can serve as familiars, in addition to a number of familiars [for the Witch Class](advanced/baseClasses/witch#_witch's-familiar). These familiars can be taken by anyone gaining a familiar, and utilize all the standard rules for familiars [for Wizard familiars](classes/wizard#_familiars). Tiny or smaller familiars in this section use Dexterity to modify [Climb](skills/climb#_climb) and [Swim](skills/swim#_swim) skill checks.
 
 ## Small and Vermin Familiars
 
-Small-sized familiars threaten the areas around them like Small creatures, and can be used to flank enemies, though both familiars and their masters are often loath to use such tactics, as the result is often a dead familiar. Small-sized familiars are also harder to keep on a master's person than Tiny or smaller familiars. Often they require some form of magic item, like a _ [bag of holding](magicItems_dir/wondrousItems#_bag-of-holding)_, for such a feat to work. The process of making a vermin into a familiar grants it an Intelligence score and removes the mindless trait. Vermin familiars communicate with their masters and other vermin of their kind (greensting scorpions with other scorpions, house centipedes with other centipedes, and scarlet spiders with other spiders) by way of a strange combination of behaviors, slight changes in coloration, and even the excretion of scents, subtle and otherwise. As with other types of familiars, other creatures cannot understand this communication without magical aid.
+Small-sized familiars threaten the areas around them like Small creatures, and can be used to flank enemies, though both familiars and their masters are often loath to use such tactics, as the result is often a dead familiar. Small-sized familiars are also harder to keep on a master's person than Tiny or smaller familiars. Often they require some form of magic item, like a _ [bag of holding](magicItems/wondrousItems#_bag-of-holding)_, for such a feat to work. The process of making a vermin into a familiar grants it an Intelligence score and removes the mindless trait. Vermin familiars communicate with their masters and other vermin of their kind (greensting scorpions with other scorpions, house centipedes with other centipedes, and scarlet spiders with other spiders) by way of a strange combination of behaviors, slight changes in coloration, and even the excretion of scents, subtle and otherwise. As with other types of familiars, other creatures cannot understand this communication without magical aid.
 
 [Table: Familiars]
 | Familiar | Special Ability |
 | --- | --- |
-| Blue-ringed octopus | Master gains a +3 bonus on [Swim](skills_dir/swim#_swim) checks |
+| Blue-ringed octopus | Master gains a +3 bonus on [Swim](skills/swim#_swim) checks |
 | Donkey rat | Master gains a +2 bonus on [Fortitude](combat#_fortitude) saves |
 | Fox | Master gains a +2 bonus on [Reflex](combat#_reflex) saves |
-| Goat | Master gains a +3 bonus on [Survival](skills_dir/survival#_survival) checks |
+| Goat | Master gains a +3 bonus on [Survival](skills/survival#_survival) checks |
 | Greensting scorpion | Master gains a +4 bonus on [Initiative](combat#_initiative) checks |
 | Hedgehog | Master gains a +2 bonus on [Will](combat#_will) saves |
-| House centipede | Master gains a +3 bonus on [Stealth](skills_dir/stealth#_stealth) checks |
+| House centipede | Master gains a +3 bonus on [Stealth](skills/stealth#_stealth) checks |
 | King Crab | Master gains a +2 bonus on [CMB](gettingStarted#_cmb) checks to start and maintain a grapple |
-| Pig | Master gains a +3 bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) checks |
-| Scarlet | spiderMaster gains a +3 bonus on [Climb](skills_dir/climb#_climb) checks |
-| Thrush\* | Master gains a +3 bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) checks |
+| Pig | Master gains a +3 bonus on [Diplomacy](skills/diplomacy#_diplomacy) checks |
+| Scarlet | spiderMaster gains a +3 bonus on [Climb](skills/climb#_climb) checks |
+| Thrush\* | Master gains a +3 bonus on [Diplomacy](skills/diplomacy#_diplomacy) checks |
 | Turtle | Master gains a +1 natural armor bonus to [AC](combat#_armor-class) |
 
-Blue-Ringed OctopusCR 1_dir/2
+Blue-Ringed OctopusCR 1/2
 
 XP 200
 
 N Tiny animal (aquatic)
 
-**Init** +5; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +1
+**Init** +5; **Senses** low-light vision; [Perception](skills/perception#_perception) +1
 
 Defense
 
@@ -50,7 +50,7 @@ Offense
 
 **Melee** bite +7 (1d2–1 plus poison), tentacles +5 (grab)
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 Statistics
 
@@ -58,9 +58,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +3 (+7 grapple); **CMD** 12 (can_'_t be tripped)
 
-**Feats** [Multiattack](monsters_dir/monsterFeats#_multiattack)B, [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Multiattack](monsters/monsterFeats#_multiattack)B, [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Escape Artist](skills_dir/escapeArtist#_escape-artist) +15, [Stealth](skills_dir/stealth#_stealth) +25, [Swim](skills_dir/swim#_swim) +13; **Racial Modifiers** +10 [Escape Artist](skills_dir/escapeArtist#_escape-artist), +8 [Stealth](skills_dir/stealth#_stealth)
+**Skills** [Escape Artist](skills/escapeArtist#_escape-artist) +15, [Stealth](skills/stealth#_stealth) +25, [Swim](skills/swim#_swim) +13; **Racial Modifiers** +10 [Escape Artist](skills/escapeArtist#_escape-artist), +8 [Stealth](skills/stealth#_stealth)
 
 **Special Attacks** poison
 
@@ -78,17 +78,17 @@ Special Abilities
 
 **Jet (Ex)** The octopus can jet 60 feet in a straight line as a full-round action. This does not provoke attacks of opportunity.
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 10; _frequency_ 1_dir/round for 6 rounds; _effect_ 1 Str; _cure_ 1 save.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 10; _frequency_ 1/round for 6 rounds; _effect_ 1 Str; _cure_ 1 save.
 
 Blue-ringed octopuses are aquatic animals capable of a surprising amount of cunning. They cannot survive out of water.
 
-Donkey RatCR 1_dir/4
+Donkey RatCR 1/4
 
 XP 100
 
 N Small animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +4
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +4
 
 Defense
 
@@ -110,9 +110,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +1; **CMD** 9 (13 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Perception](skills_dir/perception#_perception) +4, [Stealth](skills_dir/stealth#_stealth) +15, [Swim](skills_dir/swim#_swim) +11
+**Skills** [Perception](skills/perception#_perception) +4, [Stealth](skills/stealth#_stealth) +15, [Swim](skills/swim#_swim) +11
 
 Ecology
 
@@ -124,13 +124,13 @@ Ecology
 
 Donkey rats are brown or snowy white rodents the size of small dogs, with long legs and short, furry tails. These statistics can also be used for capybaras.
 
-FoxCR 1_dir/4
+FoxCR 1/4
 
 XP 100
 
 N Tiny animal
 
-**Init** +2; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -146,7 +146,7 @@ Offense
 
 **Melee** bite +1 (1d3–1)
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 Statistics
 
@@ -154,9 +154,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 9 (13 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +2 (+10 jumping), [Perception](skills_dir/perception#_perception) +8, [Stealth](skills_dir/stealth#_stealth) +10, [Survival](skills_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Acrobatics](skills_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](skills_dir/survival#_survival) when tracking by scent
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +2 (+10 jumping), [Perception](skills/perception#_perception) +8, [Stealth](skills/stealth#_stealth) +10, [Survival](skills/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Acrobatics](skills/acrobatics#_acrobatics) when jumping, +4 [Survival](skills/survival#_survival) when tracking by scent
 
 Ecology
 
@@ -168,13 +168,13 @@ Ecology
 
 Foxes are small, doglike carnivores with narrow snouts and bushy tails.
 
-GoatCR 1_dir/3
+GoatCR 1/3
 
 XP 135
 
 N Small animal
 
-**Init** +1; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +0
+**Init** +1; **Senses** low-light vision; [Perception](skills/perception#_perception) +0
 
 Defense
 
@@ -198,8 +198,8 @@ Statistics
 
 **Feats** [Nimble Moves](feats#_nimble-moves)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +1 (+5 when jumping), [Climb](skills_dir/climb#_climb) +5, [Survival](skills_dir/survival#_survival) +0   
-(+4 to find food); **Racial Modifiers** +4 [Acrobatics](skills_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](skills_dir/survival#_survival) to find food
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +1 (+5 when jumping), [Climb](skills/climb#_climb) +5, [Survival](skills/survival#_survival) +0   
+(+4 to find food); **Racial Modifiers** +4 [Acrobatics](skills/acrobatics#_acrobatics) when jumping, +4 [Survival](skills/survival#_survival) to find food
 
 Ecology
 
@@ -211,13 +211,13 @@ Ecology
 
 Goats eat almost anything that can be digested, and are determined in their pursuit of tempting foodstuffs such as leather armor and rope. They can provide milk and wool.
 
-Greensting ScorpionCR 1_dir/4
+Greensting ScorpionCR 1/4
 
 XP 100
 
 N Tiny vermin
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +4
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +4
 
 Defense
 
@@ -235,7 +235,7 @@ Offense
 
 **Melee** sting +5 (1d2–4 plus poison)
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 **Special Attacks** poison
 
@@ -247,7 +247,7 @@ Statistics
 
 **Feats** [Weapon Finesse](feats#_weapon-finesse)B
 
-**Skills** [Climb](skills_dir/climb#_climb) +7, [Perception](skills_dir/perception#_perception) +4, [Stealth](skills_dir/stealth#_stealth) +15; **Racial Modifiers** +4 [Climb](skills_dir/climb#_climb), +4 [Perception](skills_dir/perception#_perception), +4 [Stealth](skills_dir/stealth#_stealth)
+**Skills** [Climb](skills/climb#_climb) +7, [Perception](skills/perception#_perception) +4, [Stealth](skills/stealth#_stealth) +15; **Racial Modifiers** +4 [Climb](skills/climb#_climb), +4 [Perception](skills/perception#_perception), +4 [Stealth](skills/stealth#_stealth)
 
 Ecology
 
@@ -259,17 +259,17 @@ Ecology
 
 Special Abilities
 
-**Poison (Ex)** Sting—injury; _save_ Fort DC 10; _frequency_ 1_dir/round for 6 rounds; _effect_ sickened for 1 round; _cure_ 1 save.
+**Poison (Ex)** Sting—injury; _save_ Fort DC 10; _frequency_ 1/round for 6 rounds; _effect_ sickened for 1 round; _cure_ 1 save.
 
 Greensting scorpions normally live in forests, but can be found almost anywhere. Their pincers are too small to be dangerous to anything but other insects, but they have a poisonous sting that sickens even larger creatures.
 
-HedgehogCR 1_dir/8
+HedgehogCR 1/8
 
 XP 50
 
 N Diminutive animal
 
-**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +1
+**Init** +3; **Senses** low-light vision; [Perception](skills/perception#_perception) +1
 
 Defense
 
@@ -293,7 +293,7 @@ Statistics
 
 **Feats** [Athletic](feats#_athletic)
 
-**Skills** [Climb](skills_dir/climb#_climb) +5, [Stealth](skills_dir/stealth#_stealth) +19, [Swim](skills_dir/swim#_swim) +5
+**Skills** [Climb](skills/climb#_climb) +5, [Stealth](skills/stealth#_stealth) +19, [Swim](skills/swim#_swim) +5
 
 Ecology
 
@@ -309,13 +309,13 @@ Special Abilities
 
 Hedgehogs are spiny, insectivorous mammals. When threatened, a hedgehog rolls up into a spiny ball as a defense mechanism.
 
-House CentipedeCR 1_dir/8
+House CentipedeCR 1/8
 
 XP 50
 
 N Tiny vermin
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +4
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +4
 
 Defense
 
@@ -333,7 +333,7 @@ Offense
 
 **Melee** bite +5 (1d3–5 plus poison)
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 **Special Attacks** poison
 
@@ -345,7 +345,7 @@ Statistics
 
 **Feats** [Weapon Finesse](feats#_weapon-finesse)B
 
-**Skills** [Climb](skills_dir/climb#_climb) +11, [Perception](skills_dir/perception#_perception) +4, [Stealth](skills_dir/stealth#_stealth) +19; **Racial Modifiers** +4 [Perception](skills_dir/perception#_perception), +8 [Stealth](skills_dir/stealth#_stealth)
+**Skills** [Climb](skills/climb#_climb) +11, [Perception](skills/perception#_perception) +4, [Stealth](skills/stealth#_stealth) +19; **Racial Modifiers** +4 [Perception](skills/perception#_perception), +8 [Stealth](skills/stealth#_stealth)
 
 Ecology
 
@@ -357,17 +357,17 @@ Ecology
 
 Special Abilities
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 10; _frequency_ 1_dir/round for 2 rounds; _effect_ daze 1 round; _cure_ 1 save.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 10; _frequency_ 1/round for 2 rounds; _effect_ daze 1 round; _cure_ 1 save.
 
 Multi-legged house centipedes can be found almost anywhere, and can have from 20 to more than 300 legs. Their bites are poisonous, and can daze the unwary.
 
-King CrabCR 1_dir/4
+King CrabCR 1/4
 
 XP 100
 
 N Tiny vermin (aquatic)
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +4
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +4
 
 Defense
 
@@ -385,7 +385,7 @@ Offense
 
 **Melee** 2 claws +0 (1d2–2 plus grab)
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 **Special Attacks** constrict (1d2–2)
 
@@ -395,7 +395,7 @@ Statistics
 
 **Base Atk** +0; **CMB** +0 (+4 grapple); **CMD** 8 (20 vs. trip)
 
-**Skills** [Perception](skills_dir/perception#_perception) +4, [Swim](skills_dir/swim#_swim) +10; **Racial Modifiers** +4 [Perception](skills_dir/perception#_perception)
+**Skills** [Perception](skills/perception#_perception) +4, [Swim](skills/swim#_swim) +10; **Racial Modifiers** +4 [Perception](skills/perception#_perception)
 
 **SQ** water dependency
 
@@ -413,13 +413,13 @@ Special Abilities
 
 King crabs are small crustaceans with eight legs and two pincers or claws. Aquatic scavengers, crabs can also survive on land for some time, but must return to the water or suffocate.
 
-PigCR 1_dir/3
+PigCR 1/3
 
 XP 100
 
 N Small animal
 
-**Init** +1; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +5
+**Init** +1; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +5
 
 Defense
 
@@ -443,7 +443,7 @@ Statistics
 
 **Feats** [Great Fortitude](feats#_great-fortitude)
 
-**Skills** [Perception](skills_dir/perception#_perception) +5
+**Skills** [Perception](skills/perception#_perception) +5
 
 Ecology
 
@@ -455,13 +455,13 @@ Ecology
 
 Smaller than wild boars, domestic pigs are omnivorous.
 
-Scarlet SpiderCR 1_dir/4
+Scarlet SpiderCR 1/4
 
 XP 100
 
 N Tiny vermin
 
-**Init** +5; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +4
+**Init** +5; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +4
 
 Defense
 
@@ -479,7 +479,7 @@ Offense
 
 **Melee** bite +7 (1d3–4 plus poison)
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 **Special Attacks** poison
 
@@ -491,7 +491,7 @@ Statistics
 
 **Feats** [Weapon Finesse](feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +13, [Climb](skills_dir/climb#_climb) +21, [Perception](skills_dir/perception#_perception) +4, [Stealth](skills_dir/stealth#_stealth) +17; **Racial Modifiers** +8 [Acrobatics](skills_dir/acrobatics#_acrobatics), +8 [Climb](skills_dir/climb#_climb), +4 [Perception](skills_dir/perception#_perception), +4 [Stealth](skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +13, [Climb](skills/climb#_climb) +21, [Perception](skills/perception#_perception) +4, [Stealth](skills/stealth#_stealth) +17; **Racial Modifiers** +8 [Acrobatics](skills/acrobatics#_acrobatics), +8 [Climb](skills/climb#_climb), +4 [Perception](skills/perception#_perception), +4 [Stealth](skills/stealth#_stealth)
 
 Ecology
 
@@ -503,17 +503,17 @@ Ecology
 
 Special Abilities
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 10; _frequency_ 1_dir/round for 4 rounds; _effect_ 1 Str; _cure_ 1 save.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 10; _frequency_ 1/round for 4 rounds; _effect_ 1 Str; _cure_ 1 save.
 
 Scarlet spiders are small arachnids with bright red bodies and black legs. Because they are hunting spiders, scarlet spiders don't have a web attack.
 
-ThrushCR 1_dir/3
+ThrushCR 1/3
 
 XP 135
 
 N Diminutive animal
 
-**Init** +2; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +5
+**Init** +2; **Senses** low-light vision; [Perception](skills/perception#_perception) +5
 
 Defense
 
@@ -537,9 +537,9 @@ Statistics
 
 **Base Atk** +0; **CMB** –2; **CMD** 3
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Fly](skills_dir/fly#_fly) +12, [Perception](skills_dir/perception#_perception) +5
+**Skills** [Fly](skills/fly#_fly) +12, [Perception](skills/perception#_perception) +5
 
 Ecology
 
@@ -551,13 +551,13 @@ Ecology
 
 Thrushes are small, plump birds that eat fruit and insects. All thrushes are known for their beautiful songs, but thrush familiars are also capable of actual speech.
 
-TurtleCR 1_dir/6
+TurtleCR 1/6
 
 XP 65
 
 N Tiny animal
 
-**Init** –2; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +4
+**Init** –2; **Senses** low-light vision; [Perception](skills/perception#_perception) +4
 
 Defense
 
@@ -573,7 +573,7 @@ Offense
 
 **Melee** bite –2 (1d3–4)
 
-**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
+**Space** 2-1/2 ft.; **Reach** 0 ft.
 
 Statistics
 
@@ -581,9 +581,9 @@ Statistics
 
 **Base Atk** +0; **CMB** –4; **CMD** 2 (6 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Perception](skills_dir/perception#_perception) +4, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Perception](skills/perception#_perception) +4, [Swim](skills/swim#_swim) +10
 
 Ecology
 

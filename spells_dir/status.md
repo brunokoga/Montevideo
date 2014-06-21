@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/status
+title: spells/status
 ---
  **Status**
 
@@ -14,7 +14,7 @@ title: spells_dir/status
 
 **Targets** one living creature touched per three levels
 
-**Duration** 1 hour_dir/level
+**Duration** 1 hour/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

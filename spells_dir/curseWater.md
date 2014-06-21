@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/curseWater
+title: spells/curseWater
 ---
  **Curse Water**
 

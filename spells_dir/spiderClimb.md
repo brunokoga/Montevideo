@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/spiderClimb
+title: spells/spiderClimb
 ---
  **Spider Climb**
 
-**School** transmutation; **Level** druid 2, sorcerer_dir/wizard 2
+**School** transmutation; **Level** druid 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/spiderClimb
 
 **Target** creature touched
 
-**Duration** 10 min._dir/level
+**Duration** 10 min./level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

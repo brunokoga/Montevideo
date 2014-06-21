@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/ankheg
+title: monsters/ankheg
 ---
 # Ankheg
 
@@ -12,7 +12,7 @@ _This burrowing, bug-like monster scuttles about on six legs, drooling noxious g
 
 N Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +0; **Senses** darkvision 60 ft., low-light vision, [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skills_dir/perception#_perception) +8
+**Init** +0; **Senses** darkvision 60 ft., low-light vision, [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skills/perception#_perception) +8
 
 **DEFENSE**
 
@@ -38,9 +38,9 @@ N Large [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +3; **CMB** +7 (+11 grapple); **CMD** 17 (25 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Toughness](../feats#_toughness)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +8, [Perception](../skills_dir/perception#_perception) +8
+**Skills** [Climb](../skills/climb#_climb) +8, [Perception](../skills/perception#_perception) +8
 
 **ECOLOGY**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/terraCottaSoldier
+title: bestiary3/terraCottaSoldier
 ---
 # Terra-Cotta Soldier
 
@@ -12,7 +12,7 @@ XP 2,400
 
 N Medium construct
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +8
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -22,13 +22,13 @@ Defense
 
 **Fort** +2, **Ref** +5, **Will** +2
 
-**DR** 5_dir/bludgeoning; **Immune** construct traits, [fire](monsters_dir/creatureTypes#_fire-subtype); **SR** 17
+**DR** 5/bludgeoning; **Immune** construct traits, [fire](monsters/creatureTypes#_fire-subtype); **SR** 17
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** longsword +10_dir/+5 (1d8+3_dir/19–20), short sword +10 (1d6+1_dir/19–20) or 2 slams +11 (1d6+3)
+**Melee** longsword +10/+5 (1d8+3/19–20), short sword +10 (1d6+1/19–20) or 2 slams +11 (1d6+3)
 
 **Special Attacks** keen weapons, rank fighting
 
@@ -40,7 +40,7 @@ Statistics
 
 **Feats** [Improved Initiative](feats#_improved-initiative), [Two Weapon Fighting](feats#_two-weapon-fighting), [Weapon Focus](feats#_weapon-focus) (longsword, shortsword)
 
-**Skills** [Perception](skills_dir/perception#_perception) +8
+**Skills** [Perception](skills/perception#_perception) +8
 
 Ecology
 
@@ -52,7 +52,7 @@ Ecology
 
 Special Abilities
 
-**Keen Weapons (Su)** After it has engaged in at least 1 round of combat, a terra-cotta soldier's weapons automatically gain the benefits of _ [keen](magicItems_dir/weapons#_weapons-keen) weapon_ (CL 6th). This effect persists until the end of the battle.
+**Keen Weapons (Su)** After it has engaged in at least 1 round of combat, a terra-cotta soldier's weapons automatically gain the benefits of _ [keen](magicItems/weapons#_weapons-keen) weapon_ (CL 6th). This effect persists until the end of the battle.
 
 **Rank Fighting (Ex)** Whenever a terra-cotta soldier is adjacent to another terra-cotta soldier, it gains a +2 dodge bonus to its AC and a +2 bonus on saving throws, attack rolls, and damage rolls.
 
@@ -74,5 +74,5 @@ Terra-cotta Soldier
 
 Construction
 
-**Requirements** [Craft Construct](monsters_dir/monsterFeats#_craft-construct), _ [animate objects](spells_dir/animateObjects#_animate-objects)_, _ [cat's grace](spells_dir/catSGrace#_cat-s-grace)_, _ [geas_dir/quest](spells_dir/geasQuest#_geas-quest)_, _ [keen edge](spells_dir/keenEdge#_keen-edge)_, creator must be caster level 9th; **Skill** [Craft](skills_dir/craft#_craft) (pottery) or [Craft](skills_dir/craft#_craft) (sculptures) DC 14; **Cost** 10,000 gp
+**Requirements** [Craft Construct](monsters/monsterFeats#_craft-construct), _ [animate objects](spells/animateObjects#_animate-objects)_, _ [cat's grace](spells/catSGrace#_cat-s-grace)_, _ [geas/quest](spells/geasQuest#_geas-quest)_, _ [keen edge](spells/keenEdge#_keen-edge)_, creator must be caster level 9th; **Skill** [Craft](skills/craft#_craft) (pottery) or [Craft](skills/craft#_craft) (sculptures) DC 14; **Cost** 10,000 gp
 

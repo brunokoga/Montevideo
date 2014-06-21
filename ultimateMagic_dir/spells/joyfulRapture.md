@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/joyfulRapture
+title: ultimateMagic/spells/joyfulRapture
 ---
 Joyful Rapture
 
-**School** conjuration (healing) [emotion]; **Level** bard 5, cleric 6, sorcerer_dir/wizard 7
+**School** conjuration (healing) [emotion]; **Level** bard 5, cleric 6, sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 

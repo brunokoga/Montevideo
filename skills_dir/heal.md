@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills_dir/heal
+title: skills/heal
 ---
 # Heal
 

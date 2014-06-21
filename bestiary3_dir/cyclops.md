@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/cyclops
+title: bestiary3/cyclops
 ---
 # Cyclops, Great
 
@@ -10,9 +10,9 @@ Great Cyclops CR 12
 
 XP 19,200
 
-CE Huge humanoid ( [giant](monsters_dir/creatureTypes#_giant-subtype))
+CE Huge humanoid ( [giant](monsters/creatureTypes#_giant-subtype))
 
-**Init** +1; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +22
+**Init** +1; **Senses** low-light vision; [Perception](skills/perception#_perception) +22
 
 Defense
 
@@ -26,14 +26,14 @@ Offense
 
 **Speed** 50 ft.
 
-**Melee** mwk greatclub +24_dir/+19_dir/+14 (3d8+19), gore +17 (1d8+6) or   
+**Melee** mwk greatclub +24/+19/+14 (3d8+19), gore +17 (1d8+6) or   
 gore +23 (1d8+13), 2 slams +23 (2d6+13)
 
 **Ranged** rock +11 (2d6+19)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [powerful charge](monsters_dir/universalMonsterRules#_powerful-charge) (gore, 4d8+24), rock throwing (120 ft.)
+**Special Attacks** [powerful charge](monsters/universalMonsterRules#_powerful-charge) (gore, 4d8+24), rock throwing (120 ft.)
 
 Statistics
 
@@ -42,11 +42,11 @@ Statistics
 
 **Base Atk** +12; **CMB** +27; **CMD** 38
 
-**Feats** [Awesome Blow](monsters_dir/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Critical Focus](feats#_critical-focus), [Diehard](feats#_diehard), [Endurance](feats#_endurance), [Improved Bull Rush](feats#_improved-bull-rush), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Staggering Critical](feats#_staggering-critical)
+**Feats** [Awesome Blow](monsters/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Critical Focus](feats#_critical-focus), [Diehard](feats#_diehard), [Endurance](feats#_endurance), [Improved Bull Rush](feats#_improved-bull-rush), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Staggering Critical](feats#_staggering-critical)
 
-**Skills** [Perception](skills_dir/perception#_perception) +22
+**Skills** [Perception](skills/perception#_perception) +22
 
-**Languages** Common, Cyclops, [Giant](monsters_dir/creatureTypes#_giant-subtype)
+**Languages** Common, Cyclops, [Giant](monsters/creatureTypes#_giant-subtype)
 
 **SQ** flash of brutality
 

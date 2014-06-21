@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mastery_dir/planarAdventures
+title: mastery/planarAdventures
 ---
 # Planar
 
@@ -42,9 +42,9 @@ The direction of gravity's pull may be unusual, and it might even change directi
 
 **Normal Gravity** : Most planes have gravity similar to that of the Material Plane. The usual rules for ability scores, carrying capacity, and encumbrance apply. Unless otherwise noted in a plane's description, assume that it has the normal gravity trait.
 
-**Heavy Gravity** : The gravity on a plane with this trait is much more intense than on the Material Plane. As a result, [Acrobatics](../skills_dir/acrobatics#_acrobatics), [Climb](../skills_dir/climb#_climb), [Ride](../skills_dir/ride#_ride), and [Swim](../skills_dir/swim#_swim) checks incur a –2 circumstance penalty, as do all attack rolls. All item weights are effectively doubled, which might affect a character's speed. Weapon ranges are halved. A character's Strength and Dexterity scores are not affected. Characters that fall on a heavy gravity plane take 1d10 points of damage for each 10 feet fallen, to a maximum of 20d10 points of damage.
+**Heavy Gravity** : The gravity on a plane with this trait is much more intense than on the Material Plane. As a result, [Acrobatics](../skills/acrobatics#_acrobatics), [Climb](../skills/climb#_climb), [Ride](../skills/ride#_ride), and [Swim](../skills/swim#_swim) checks incur a –2 circumstance penalty, as do all attack rolls. All item weights are effectively doubled, which might affect a character's speed. Weapon ranges are halved. A character's Strength and Dexterity scores are not affected. Characters that fall on a heavy gravity plane take 1d10 points of damage for each 10 feet fallen, to a maximum of 20d10 points of damage.
 
-**Light Gravity** : The gravity on a plane with this trait is less intense than on the Material Plane. As a result, creatures find that they can lift more. Characters on a plane with the light gravity trait take a +2 circumstance bonus on attack rolls and on [Acrobatics](../skills_dir/acrobatics#_acrobatics) and [Ride](../skills_dir/ride#_ride) checks. All items weigh half as much, and weapon ranges double. Strength and Dexterity don't change as a result of light gravity, but what you can do with such scores does change. These advantages apply to travelers from other planes as well as natives. Falling characters on a light gravity plane take 1d4 points of damage for each 10 feet fallen (maximum 20d4).
+**Light Gravity** : The gravity on a plane with this trait is less intense than on the Material Plane. As a result, creatures find that they can lift more. Characters on a plane with the light gravity trait take a +2 circumstance bonus on attack rolls and on [Acrobatics](../skills/acrobatics#_acrobatics) and [Ride](../skills/ride#_ride) checks. All items weigh half as much, and weapon ranges double. Strength and Dexterity don't change as a result of light gravity, but what you can do with such scores does change. These advantages apply to travelers from other planes as well as natives. Falling characters on a light gravity plane take 1d4 points of damage for each 10 feet fallen (maximum 20d4).
 
 **No Gravity** : Individuals on a plane with this trait merely float in space, unless other resources are available to provide a direction for gravity's pull.
 
@@ -118,7 +118,7 @@ Unprotected wood, paper, cloth, and other flammable materials catch fire almost 
 
 **Negative-Dominant** : Planes with this trait are vast, empty reaches that suck the life out of travelers who cross them. They tend to be lonely, haunted planes, drained of color and filled with winds bearing the soft moans of those who died within them. There are two kinds of negative-dominant traits: minor negative-dominant and major negative-dominant. On minor negative-dominant planes, living creatures take 1d6 points of damage per round. At 0 hit points or lower, they crumble into ash.
 
-Major negative-dominant planes are even more dangerous. Each round, those within must make a DC 25 Fortitude save or gain a negative level. A creature whose negative levels equal its current levels or Hit Dice is slain, becoming a wraith. The _ [death ward](../spells_dir/deathWard#_death-ward)_ spell protects a traveler from the damage and energy drain of a negative-dominant plane.
+Major negative-dominant planes are even more dangerous. Each round, those within must make a DC 25 Fortitude save or gain a negative level. A creature whose negative levels equal its current levels or Hit Dice is slain, becoming a wraith. The _ [death ward](../spells/deathWard#_death-ward)_ spell protects a traveler from the damage and energy drain of a negative-dominant plane.
 
 **Positive-Dominant** : An abundance of life characterizes planes with this trait. Like negative-dominant planes, positive-dominant planes can be either minor or major. A minor positive-dominant plane is a riotous explosion of life in all its forms. Colors are brighter, fires are hotter, noises are louder, and sensations are more intense as a result of the positive energy swirling through the plane. All individuals in a positive-dominant plane gain fast healing 2 as an extraordinary ability.
 
@@ -130,9 +130,9 @@ Some planes have a predisposition to a certain alignment. Most of the inhabitant
 
 Alignment traits have multiple components. First are the moral (good or evil) and ethical (lawful or chaotic) components; a plane can have a moral component, an ethical component, or one of each. Second, the specific alignment trait indicates whether each moral or ethical component is mildly or strongly evident. Many planes have no alignment traits; these traits are noted in a plane's description only when they are present.
 
-**Good-Aligned_dir/Evil-Aligned** : These planes have chosen a side in the battle of good versus evil. No plane can be both good-aligned and evil-aligned.
+**Good-Aligned/Evil-Aligned** : These planes have chosen a side in the battle of good versus evil. No plane can be both good-aligned and evil-aligned.
 
-**Law-Aligned_dir/Chaos-Aligned** : Law versus chaos is the key struggle for these planes and their residents. No plane can be both law-aligned and chaos-aligned.
+**Law-Aligned/Chaos-Aligned** : Law versus chaos is the key struggle for these planes and their residents. No plane can be both law-aligned and chaos-aligned.
 
 **Neutral-Aligned** : These planes stand outside the conflicts between good and evil and law and chaos.
 
@@ -140,7 +140,7 @@ Alignment traits have multiple components. First are the moral (good or evil) an
 
 **Strongly Aligned** : On planes that are strongly aligned, a –2 circumstance penalty applies on all Intelligence-, Wisdom-, and Charisma-based checks made by all creatures not of the plane's alignment. The penalties for the moral and ethical components of the alignment trait stack.
 
-A strongly neutral-aligned plane stands in opposition to all other moral and ethical principles: good, evil, law, and chaos. Such a plane may be more concerned with the balance of the alignments than with accommodating and accepting alternate points of view. In the same fashion as for other strongly aligned planes, strongly neutral-aligned planes apply a –2 circumstance penalty on Intelligence-, Wisdom-, or Charisma-based checks made by any creature that isn't neutral. The penalty is applied twice (once for law_dir/chaos, and once for good_dir/evil), so neutral good, neutral evil, lawful neutral, and chaotic neutral creatures take a –2 penalty and lawful good, chaotic good, chaotic evil, and lawful evil creatures take a –4 penalty.
+A strongly neutral-aligned plane stands in opposition to all other moral and ethical principles: good, evil, law, and chaos. Such a plane may be more concerned with the balance of the alignments than with accommodating and accepting alternate points of view. In the same fashion as for other strongly aligned planes, strongly neutral-aligned planes apply a –2 circumstance penalty on Intelligence-, Wisdom-, or Charisma-based checks made by any creature that isn't neutral. The penalty is applied twice (once for law/chaos, and once for good/evil), so neutral good, neutral evil, lawful neutral, and chaotic neutral creatures take a –2 penalty and lawful good, chaotic good, chaotic evil, and lawful evil creatures take a –4 penalty.
 
 ## Magic Traits
 
@@ -148,7 +148,7 @@ A plane's magic trait describes how magic works on that plane compared to how it
 
 **Normal Magic** : This magic trait means that all spells and supernatural abilities function as written. Unless otherwise noted in a plane's description, assume that it has the normal magic trait.
 
-**Dead Magic** : These planes have no magic at all. A plane with the dead magic trait functions in all respects like an _ [antimagic field](../spells_dir/antimagicField#_antimagic-field)_ spell. Divination spells cannot detect subjects within a dead magic plane, nor can a spellcaster use _ [teleport](../spells_dir/teleport#_teleport)_ or another spell to move in or out. The only exception to the “no magic” rule is permanent planar portals, which still function normally.
+**Dead Magic** : These planes have no magic at all. A plane with the dead magic trait functions in all respects like an _ [antimagic field](../spells/antimagicField#_antimagic-field)_ spell. Divination spells cannot detect subjects within a dead magic plane, nor can a spellcaster use _ [teleport](../spells/teleport#_teleport)_ or another spell to move in or out. The only exception to the “no magic” rule is permanent planar portals, which still function normally.
 
 **Enhanced Magic** : Particular spells and spell-like abilities are easier to use or more powerful in effect on planes with this trait than they are on the Material Plane. Natives of a plane with the enhanced magic trait are aware of which spells and spell-like abilities are enhanced, but planar travelers may have to discover this on their own. If a spell is enhanced, it functions as if its caster level was 2 higher than normal.
 
@@ -166,10 +166,10 @@ A plane's magic trait describes how magic works on that plane compared to how it
 | 24–27 | The spell fails, but the target or targets of the spell are pelted with a rain of small objects (anything from flowers to rotten fruit), which disappear upon striking. The barrage continues for 1 round. During this time the targets are blinded and must make concentration checks (DC 15 + spell level) to cast spells. |
 | 28–31 | The spell affects a random target or area. Randomly choose a different target from among those in range of the spell or center the spell at a random place within range of the spell. To generate direction randomly, roll 1d8 and count clockwise around the compass, starting with south. To generate range randomly, roll 3d6. Multiply the result by 5 feet for close-range spells, 20 feet for medium-range spells, or 80 feet for long-range spells. |
 | 32–35 | The spell functions normally, but any material components are not consumed. The spell is not expended from the caster's mind (the spell slot or prepared spell can be used again). Similarly, an item does not lose charges, and the effect does not count against an item's or spell-like ability's use limit. |
-| 36–39 | The spell does not function. Instead, everyone (friend or foe) within 30 feet of the caster receives the effect of a _ [heal](../spells_dir/heal#_heal)_ spell. |
-| 40–43 | The spell does not function. Instead, a _ [deeper darkness](../spells_dir/deeperDarkness#_deeper-darkness)_ effect and a _ [silence](../spells_dir/silence#_silence)_ effect cover a 30-foot radius around the caster for 2d4 rounds. |
-| 44–47 | The spell does not function. Instead, a _ [reverse gravity](../spells_dir/reverseGravity#_reverse-gravity)_ effect covers a 30-foot radius around the caster for 1 round. |
-| 48–51 | The spell functions, but shimmering colors swirl around the caster for 1d4 rounds. Treat this as a _ [glitterdust](../spells_dir/glitterdust#_glitterdust)_ effect with a save DC of 10 + the level of the spell that generated this result. |
+| 36–39 | The spell does not function. Instead, everyone (friend or foe) within 30 feet of the caster receives the effect of a _ [heal](../spells/heal#_heal)_ spell. |
+| 40–43 | The spell does not function. Instead, a _ [deeper darkness](../spells/deeperDarkness#_deeper-darkness)_ effect and a _ [silence](../spells/silence#_silence)_ effect cover a 30-foot radius around the caster for 2d4 rounds. |
+| 44–47 | The spell does not function. Instead, a _ [reverse gravity](../spells/reverseGravity#_reverse-gravity)_ effect covers a 30-foot radius around the caster for 1 round. |
+| 48–51 | The spell functions, but shimmering colors swirl around the caster for 1d4 rounds. Treat this as a _ [glitterdust](../spells/glitterdust#_glitterdust)_ effect with a save DC of 10 + the level of the spell that generated this result. |
 | 52–59 | Nothing happens. The spell does not function. Any material components are used up. The spell or spell slot is used up, an item loses charges, and the effect counts against an item's or spell-like ability's use limit. |
 | 60–71 | Nothing happens. The spell does not function. Any material components are not consumed. The spell is not expended from the caster's mind (a spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item's or spell-like ability's use limit. |
 | 72–98 | The spell functions normally. |
@@ -200,9 +200,9 @@ The Shadow Plane is a dimly lit dimension that is both coterminous to and coexis
 
 The Shadow Plane has the following traits:
 
-- **Magically Morphic** : Parts of the Shadow Plane continually flow onto other planes. As a result, creating a precise map of the plane is next to impossible, despite the presence of landmarks. In addition, certain spells, such as _ [shadow conjuration](../spells_dir/shadowConjuration#_shadow-conjuration)_ and _ [shadow evocation](../spells_dir/shadowEvocation#_shadow-evocation)_, modify the base material of the Shadow Plane. The utility and power of these spells within the Shadow Plane make them particularly useful for explorers and natives alike. 
+- **Magically Morphic** : Parts of the Shadow Plane continually flow onto other planes. As a result, creating a precise map of the plane is next to impossible, despite the presence of landmarks. In addition, certain spells, such as _ [shadow conjuration](../spells/shadowConjuration#_shadow-conjuration)_ and _ [shadow evocation](../spells/shadowEvocation#_shadow-evocation)_, modify the base material of the Shadow Plane. The utility and power of these spells within the Shadow Plane make them particularly useful for explorers and natives alike. 
 - **Mildly Neutral-Aligned**
-- **Enhanced Magic** : Spells with the shadow descriptor are enhanced on the Shadow Plane. Furthermore, specific spells become more powerful on the Shadow Plane. _ [Shadow conjuration](../spells_dir/shadowConjuration#_shadow-conjuration)_ and _ [shadow evocation](../spells_dir/shadowEvocation#_shadow-evocation)_ spells are 30% as powerful as the conjurations and evocations they mimic (as opposed to 20%). _ [Greater](../spells_dir/shadowConjuration#_shadow-conjuration-greater) [shadow](../magicItems_dir/armor#_armor-shadow) conjuration_ and _ [greater](../spells_dir/shadowEvocation#_shadow-evocation-greater) [shadow](../magicItems_dir/armor#_armor-shadow) evocation_ are 70% as powerful (not 60%), and a _ [shades](../spells_dir/shades#_shades)_ spell conjures at 90% of the power of the original (not 80%). Despite the dark nature of the Shadow Plane, spells that produce, use, or manipulate darkness are unaffected by the plane.
+- **Enhanced Magic** : Spells with the shadow descriptor are enhanced on the Shadow Plane. Furthermore, specific spells become more powerful on the Shadow Plane. _ [Shadow conjuration](../spells/shadowConjuration#_shadow-conjuration)_ and _ [shadow evocation](../spells/shadowEvocation#_shadow-evocation)_ spells are 30% as powerful as the conjurations and evocations they mimic (as opposed to 20%). _ [Greater](../spells/shadowConjuration#_shadow-conjuration-greater) [shadow](../magicItems/armor#_armor-shadow) conjuration_ and _ [greater](../spells/shadowEvocation#_shadow-evocation-greater) [shadow](../magicItems/armor#_armor-shadow) evocation_ are 70% as powerful (not 60%), and a _ [shades](../spells/shades#_shades)_ spell conjures at 90% of the power of the original (not 80%). Despite the dark nature of the Shadow Plane, spells that produce, use, or manipulate darkness are unaffected by the plane.
 - **Impeded Magic** : Spells with the light descriptor or that use or generate light or fire are impeded on the Shadow Plane. Spells that produce light are less effective in general, because all light sources have their ranges halved on the Shadow Plane. 
 
 ## Negative Energy Plane
@@ -293,7 +293,7 @@ The Astral Plane has the following traits:
 - **Subjective Directional Gravity**
 - **Timeless** : Age, hunger, thirst, afflictions (such as diseases, curses, and poisons), and natural healing don't function in the Astral Plane, though they resume functioning when the traveler leaves the Astral Plane.
 - **Mildly Neutral-Aligned**
-- **Enhanced Magic** : All spells and spell-like abilities used within the Astral Plane may be employed as if they were improved by the [Quicken Spell](../feats#_quicken-spell) or [Quicken Spell-Like Ability](../monsters_dir/monsterFeats#_quicken-spell-like-ability) feats. Already quickened spells and spell-like abilities are unaffected, as are spells from magic items. Spells so quickened are still prepared and cast at their unmodified level. As with the [Quicken Spell](../feats#_quicken-spell) feat, only one quickened spell or spell-like ability can be cast per round.
+- **Enhanced Magic** : All spells and spell-like abilities used within the Astral Plane may be employed as if they were improved by the [Quicken Spell](../feats#_quicken-spell) or [Quicken Spell-Like Ability](../monsters/monsterFeats#_quicken-spell-like-ability) feats. Already quickened spells and spell-like abilities are unaffected, as are spells from magic items. Spells so quickened are still prepared and cast at their unmodified level. As with the [Quicken Spell](../feats#_quicken-spell) feat, only one quickened spell or spell-like ability can be cast per round.
 
 ## Abaddon (Neutral Evil)
 

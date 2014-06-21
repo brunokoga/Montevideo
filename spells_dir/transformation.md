@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/transformation
+title: spells/transformation
 ---
  **Transformation**
 
-**School** transmutation; **Level** sorcerer_dir/wizard 6
+**School** transmutation; **Level** sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/transformation
 
 **Target** you
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 You become a fighting machine—stronger, tougher, faster, and more skilled in combat. Your mindset changes so that you relish combat and you can't cast spells, even from magic items.
 

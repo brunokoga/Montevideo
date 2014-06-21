@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures_dir/mythicSpells_dir/lendPath
+title: mythicAdventures/mythicSpells/lendPath
 ---
 Lend Path
 
-**School** transmutation; **Level** bard 4, cleric 5, druid 5, magus 4, sorcerer_dir/wizard 5, summoner 4, witch 5
+**School** transmutation; **Level** bard 4, cleric 5, druid 5, magus 4, sorcerer/wizard 5, summoner 4, witch 5
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Lend Path
 
 **Target** creature touched
 
-**Duration** 10 minutes_dir/level (D)
+**Duration** 10 minutes/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

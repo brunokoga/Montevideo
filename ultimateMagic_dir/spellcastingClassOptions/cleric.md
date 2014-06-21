@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spellcastingClassOptions_dir/cleric
+title: ultimateMagic/spellcastingClassOptions/cleric
 ---
 # Cleric
 
@@ -24,35 +24,35 @@ A character who has the channel energy ability from a class other than cleric ma
 
 The following is a list of example portfolios and the variant channeling abilities available to each.
 
-**Air_dir/Sky_dir/Wind** : _Heal_—Creatures gain a channel bonus on [Acrobatics](skills_dir/acrobatics#_acrobatics) and [Fly](skills_dir/fly#_fly) checks, saving throws against wind effects, and effects with the air descriptor until the end of your next turn. _Harm_—Creatures are buffeted with wind until the end of your next turn; this wind gives them a channel penalty on ranged attacks, and their movement is halved if they move toward you.
+**Air/Sky/Wind** : _Heal_—Creatures gain a channel bonus on [Acrobatics](skills/acrobatics#_acrobatics) and [Fly](skills/fly#_fly) checks, saving throws against wind effects, and effects with the air descriptor until the end of your next turn. _Harm_—Creatures are buffeted with wind until the end of your next turn; this wind gives them a channel penalty on ranged attacks, and their movement is halved if they move toward you.
 
-**Ale_dir/Wine** : _Heal_—Creatures ignore the nauseated and sickened conditions, as well as ability damage and drain from poison, until the end of your next turn. This does not bring back to life creatures killed by Constitution damage. _Harm_—Creatures are nauseated for 1 round.
+**Ale/Wine** : _Heal_—Creatures ignore the nauseated and sickened conditions, as well as ability damage and drain from poison, until the end of your next turn. This does not bring back to life creatures killed by Constitution damage. _Harm_—Creatures are nauseated for 1 round.
 
-**Art_dir/Music** : _Heal_—Creatures gain a channel bonus on [Perform](skills_dir/perform#_perform) checks and on saving throws against illusions, sonic effects, and language-dependent effects for 1 minute. _Harm_—Creatures take a channel penalty on saving throws against illusions, sonic effects, and language-dependent effects for 1 minute.
+**Art/Music** : _Heal_—Creatures gain a channel bonus on [Perform](skills/perform#_perform) checks and on saving throws against illusions, sonic effects, and language-dependent effects for 1 minute. _Harm_—Creatures take a channel penalty on saving throws against illusions, sonic effects, and language-dependent effects for 1 minute.
 
-**Battle_dir/Wrath** : _Heal_—Creatures gain a channel bonus on weapon damage and critical hit confirmation rolls until the end of your next turn. _Harm_—Creatures take a channel penalty on weapon damage and critical hit confirmation rolls until the end of your next turn.
+**Battle/Wrath** : _Heal_—Creatures gain a channel bonus on weapon damage and critical hit confirmation rolls until the end of your next turn. _Harm_—Creatures take a channel penalty on weapon damage and critical hit confirmation rolls until the end of your next turn.
 
-**Beauty_dir/Love_dir/Lust** : _Heal_—Creatures gain a channel bonus on saving throws against charm effects and abilities based on fascination or physical attractiveness (such as a nymph's blinding beauty and stunning glance abilities) for 1 minute. _Harm_—Creatures gain a channel penalty on saving throws against charm effects and effects that fascinate for 1 minute.
+**Beauty/Love/Lust** : _Heal_—Creatures gain a channel bonus on saving throws against charm effects and abilities based on fascination or physical attractiveness (such as a nymph's blinding beauty and stunning glance abilities) for 1 minute. _Harm_—Creatures gain a channel penalty on saving throws against charm effects and effects that fascinate for 1 minute.
 
-**Bravery_dir/Valor** : _Heal_—Creatures affected by fear may attempt another saving throw and receive a channel bonus on the roll. A creature unaffected by fear gains a channel bonus to its Armor Class until the end of your next turn and on its attack roll if it makes a charge attack before your next turn. _Harm_—This works like a standard channel (not halved).
+**Bravery/Valor** : _Heal_—Creatures affected by fear may attempt another saving throw and receive a channel bonus on the roll. A creature unaffected by fear gains a channel bonus to its Armor Class until the end of your next turn and on its attack roll if it makes a charge attack before your next turn. _Harm_—This works like a standard channel (not halved).
 
-**Cities** : _Heal_—Creatures gain a channel bonus on attack rolls when flanking and to Armor Class when flanked until the end of your next turn. _Harm_—All creatures' squares and threatened areas are treated as difficult terrain until the start of your next turn (these areas move with the creatures rather than being fixed in place at the time of the channeling). Until the end of your next turn, creatures gain a channel penalty on [Acrobatics](skills_dir/acrobatics#_acrobatics) checks and overrun attempts to move through these squares.
+**Cities** : _Heal_—Creatures gain a channel bonus on attack rolls when flanking and to Armor Class when flanked until the end of your next turn. _Harm_—All creatures' squares and threatened areas are treated as difficult terrain until the start of your next turn (these areas move with the creatures rather than being fixed in place at the time of the channeling). Until the end of your next turn, creatures gain a channel penalty on [Acrobatics](skills/acrobatics#_acrobatics) checks and overrun attempts to move through these squares.
 
-**Contracts_dir/Oaths** : _Heal_—Creatures gain a channel bonus on saves against compulsion effects until the end of your next turn. _Harm_—Creatures gain a channel penalty on saving throws against compulsions until the end of your next turn.
+**Contracts/Oaths** : _Heal_—Creatures gain a channel bonus on saves against compulsion effects until the end of your next turn. _Harm_—Creatures gain a channel penalty on saving throws against compulsions until the end of your next turn.
 
-**Darkness** : _Heal_—Creatures gain low-light vision until the end of your next turn. At cleric level 5, they gain darkvision 30 feet as well, increasing this range by 30 feet for every 5 cleric levels thereafter. _Harm_—The illumination level in the area drops by 1 step, as _ [darkness](spells_dir/darkness#_darkness)_, for 1 minute. At cleric level 10, the light level drops by 2 steps. At cleric level 15, it drops by 3 steps, and areas of dim light or darkness become supernaturally dark (even creatures with darkvision cannot see within it).
+**Darkness** : _Heal_—Creatures gain low-light vision until the end of your next turn. At cleric level 5, they gain darkvision 30 feet as well, increasing this range by 30 feet for every 5 cleric levels thereafter. _Harm_—The illumination level in the area drops by 1 step, as _ [darkness](spells/darkness#_darkness)_, for 1 minute. At cleric level 10, the light level drops by 2 steps. At cleric level 15, it drops by 3 steps, and areas of dim light or darkness become supernaturally dark (even creatures with darkvision cannot see within it).
 
 **Death** : _Heal_—Creatures gain a channel bonus on stabilization checks when dying and on saves against death effects for 1 minute. _Harm_—Creatures gain a channel penalty on stabilization checks when dying for 1 minute, and subtract the channel penalty from all healing magic, fast healing, and regeneration.
 
 **Destruction** : _Heal_—Creatures gain a channel bonus on attack and damage rolls against objects, CMB for sunder attempts, and Strength checks to break objects until the end of your next turn. _Harm_—Unattended objects take full channel damage (not half).
 
-**Disease** : _Heal_—Creatures heal a number of points of ability damage to one ability score (your choice) equal to your channel bonus. _Harm_—Creatures are sickened until the end of your next turn, plus a number of rounds equal to your channel penalty. At cleric level 10, you may select one creature as the target of a _ [contagion](spells_dir/contagion#_contagion)_ in addition to the effects of the channeled energy. At cleric level 20, all creatures in the area are subject to _ [contagion](spells_dir/contagion#_contagion)_ in addition to the effects of the channeled energy.
+**Disease** : _Heal_—Creatures heal a number of points of ability damage to one ability score (your choice) equal to your channel bonus. _Harm_—Creatures are sickened until the end of your next turn, plus a number of rounds equal to your channel penalty. At cleric level 10, you may select one creature as the target of a _ [contagion](spells/contagion#_contagion)_ in addition to the effects of the channeled energy. At cleric level 20, all creatures in the area are subject to _ [contagion](spells/contagion#_contagion)_ in addition to the effects of the channeled energy.
 
-**Dreams** : _Heal_—Creatures affected by sleep effects may attempt another saving throw and apply the channel bonus on the roll. Willingly sleeping creatures gain a channel bonus on saving throws and [Perception](skills_dir/perception#_perception) checks for up to 8 hours (this bonus ends if the creature awakens). _Harm_—Creatures gain a channel penalty on [Perception](skills_dir/perception#_perception) checks and saving throws against exhaustion, fatigue, and sleep effects for 1 minute.
+**Dreams** : _Heal_—Creatures affected by sleep effects may attempt another saving throw and apply the channel bonus on the roll. Willingly sleeping creatures gain a channel bonus on saving throws and [Perception](skills/perception#_perception) checks for up to 8 hours (this bonus ends if the creature awakens). _Harm_—Creatures gain a channel penalty on [Perception](skills/perception#_perception) checks and saving throws against exhaustion, fatigue, and sleep effects for 1 minute.
 
-**Earth** : _Heal_—Creatures gain a DR 1_dir/adamantine until the end of your next turn. This DR improves by 1 at 5th level and every 5 levels thereafter. This does not allow recipients to overcome DR_dir/adamantine with their own attacks. _Harm_—All squares in the area are treated as difficult terrain for 1 minute.
+**Earth** : _Heal_—Creatures gain a DR 1/adamantine until the end of your next turn. This DR improves by 1 at 5th level and every 5 levels thereafter. This does not allow recipients to overcome DR/adamantine with their own attacks. _Harm_—All squares in the area are treated as difficult terrain for 1 minute.
 
-**Envy** : _Heal_—Creatures gain a channel bonus on disarm and steal combat maneuvers, [Bluff](skills_dir/bluff#_bluff) checks, and [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) checks for 1 minute. _Harm_—Creatures must attempt a steal combat maneuver on their next turn against an adjacent enemy. This is a compulsion effect.
+**Envy** : _Heal_—Creatures gain a channel bonus on disarm and steal combat maneuvers, [Bluff](skills/bluff#_bluff) checks, and [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks for 1 minute. _Harm_—Creatures must attempt a steal combat maneuver on their next turn against an adjacent enemy. This is a compulsion effect.
 
 **Farming** : _Heal_—Creatures ignore fatigue (but not exhaustion) for 1 minute. The healing effect is enhanced for plant creatures. _Harm_—The damage effect is enhanced for plant creatures. Creatures are fatigued, as if experiencing starvation.
 
@@ -62,13 +62,13 @@ The following is a list of example portfolios and the variant channeling abiliti
 
 **Forge** : _Heal_—Creatures in metal armor gain a channel bonus to Armor Class until the end of your next turn. Alternatively, you may repair damage to metal objects and metal constructs as if they were creatures, and this healing is enhanced. _Harm_—The damage effect is enhanced against metal constructs and unattended metal objects.
 
-**Freedom** : _Heal_—Creatures gain a channel bonus on [Escape Artist](skills_dir/escapeArtist#_escape-artist) checks, CMB checks to escape a grapple, and saving throws against becoming entangled, paralyzed, or slowed. _Harm_—Creatures are slowed (as _ [slow](spells_dir/slow#_slow)_) until the end of your next turn.
+**Freedom** : _Heal_—Creatures gain a channel bonus on [Escape Artist](skills/escapeArtist#_escape-artist) checks, CMB checks to escape a grapple, and saving throws against becoming entangled, paralyzed, or slowed. _Harm_—Creatures are slowed (as _ [slow](spells/slow#_slow)_) until the end of your next turn.
 
-**Hunting** : _Heal_—Creatures gain a channel bonus on [Survival](skills_dir/survival#_survival) checks and ranged attack rolls until the end of your next turn. _Harm_—Creatures gain a –5 penalty on [Stealth](skills_dir/stealth#_stealth) checks for 1 minute and temporarily lose effects or special abilities that reduce or negate tracks for that duration.
+**Hunting** : _Heal_—Creatures gain a channel bonus on [Survival](skills/survival#_survival) checks and ranged attack rolls until the end of your next turn. _Harm_—Creatures gain a –5 penalty on [Stealth](skills/stealth#_stealth) checks for 1 minute and temporarily lose effects or special abilities that reduce or negate tracks for that duration.
 
-**Justice_dir/Law** : _Heal_—Lawful creatures gain a channel bonus on [Perception](skills_dir/perception#_perception) and [Sense Motive](skills_dir/senseMotive#_sense-motive) checks, attack rolls, and saving throws until the end of your next turn. _Harm_—Creatures are affected by _ [zone of truth](spells_dir/zoneOfTruth#_zone-of-truth)_ until the end of your next turn.
+**Justice/Law** : _Heal_—Lawful creatures gain a channel bonus on [Perception](skills/perception#_perception) and [Sense Motive](skills/senseMotive#_sense-motive) checks, attack rolls, and saving throws until the end of your next turn. _Harm_—Creatures are affected by _ [zone of truth](spells/zoneOfTruth#_zone-of-truth)_ until the end of your next turn.
 
-**Knowledge** : _Heal_—Creatures gain a channel bonus on Knowledge and [Perception](skills_dir/perception#_perception) checks until the end of your next turn. _Harm_—Sentient creatures (Intelligence 3+) who fail their saves take 1d2 points of Intelligence damage. A successful save negates this Intelligence damage.
+**Knowledge** : _Heal_—Creatures gain a channel bonus on Knowledge and [Perception](skills/perception#_perception) checks until the end of your next turn. _Harm_—Sentient creatures (Intelligence 3+) who fail their saves take 1d2 points of Intelligence damage. A successful save negates this Intelligence damage.
 
 **Luck** : _Heal_—Creatures gain a channel bonus or a luck bonus (creature's choice) on one roll (attack roll, CMB check, saving throw, or skill check) made before the end of your next turn. _Harm_—Creatures take a channel penalty on all d20 rolls until the end of your next turn.
 
@@ -80,7 +80,7 @@ The following is a list of example portfolios and the variant channeling abiliti
 
 **Murder** : _Heal_—Creatures that critically hit before the end of your next turn add a bleed effect equal to your channel bonus. _Harm_—Creatures gain a bleed effect equal to your channel penalty.
 
-**Nature** : _Heal_—The healing effect is enhanced for animals and fey. Creatures gain a channel bonus on [Handle Animal](skills_dir/handleAnimal#_handle-animal) and wild empathy checks for 1 minute. _Harm_—The harmful effect is enhanced for animals and fey.
+**Nature** : _Heal_—The healing effect is enhanced for animals and fey. Creatures gain a channel bonus on [Handle Animal](skills/handleAnimal#_handle-animal) and wild empathy checks for 1 minute. _Harm_—The harmful effect is enhanced for animals and fey.
 
 **Nightmares** : _Heal_—Creatures gain a channel bonus on charm and compulsion saves for 1 minute. _Harm_—Creatures gain a channel penalty on concentration checks and saves against fear and phantasms.
 
@@ -90,17 +90,17 @@ The following is a list of example portfolios and the variant channeling abiliti
 
 **Protection** : _Heal_—Creatures gain a channel bonus to Armor Class until the end of your next turn. _Harm_—Creatures gain a channel penalty to Armor Class until the end of your next turn.
 
-**Revenge_dir/Vengeance** : _Heal_—This works like a standard channel (not halved). _Harm_—Creatures gain a channel penalty on attack rolls until the end of your next turn.
+**Revenge/Vengeance** : _Heal_—This works like a standard channel (not halved). _Harm_—Creatures gain a channel penalty on attack rolls until the end of your next turn.
 
-**Rulership** : _Heal_—Creatures gain a channel bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) checks and to the DC of their language-dependent and charm effects until the end of your next turn. _Harm_—Creatures are dazed for 1 round.
+**Rulership** : _Heal_—Creatures gain a channel bonus on [Diplomacy](skills/diplomacy#_diplomacy) checks and to the DC of their language-dependent and charm effects until the end of your next turn. _Harm_—Creatures are dazed for 1 round.
 
-**Ocean_dir/Sea_dir/Water** : _Heal_—Creatures gain a channel bonus on [Climb](skills_dir/climb#_climb) and [Swim](skills_dir/swim#_swim) checks and Constitution checks to hold their breath; this bonus lasts for 1 minute. Creatures ignore fatigue from thirst and pressure damage from deep water for 1 minute. _Harm_—The harming effect is enhanced for creatures with the aquatic or water subtypes.
+**Ocean/Sea/Water** : _Heal_—Creatures gain a channel bonus on [Climb](skills/climb#_climb) and [Swim](skills/swim#_swim) checks and Constitution checks to hold their breath; this bonus lasts for 1 minute. Creatures ignore fatigue from thirst and pressure damage from deep water for 1 minute. _Harm_—The harming effect is enhanced for creatures with the aquatic or water subtypes.
 
-**Secrets** : _Heal_—Creatures gain a channel bonus on [Sense Motive](skills_dir/senseMotive#_sense-motive) checks and caster level checks and to save DCs of their divination spells until the end of your next turn. _Harm_—Creatures gain a channel penalty on saving throws against divinations for 1 minute. Creatures using [Sense Motive](skills_dir/senseMotive#_sense-motive) against affected creatures for the next minute gain a channel bonus on [Sense Motive](skills_dir/senseMotive#_sense-motive) checks.
+**Secrets** : _Heal_—Creatures gain a channel bonus on [Sense Motive](skills/senseMotive#_sense-motive) checks and caster level checks and to save DCs of their divination spells until the end of your next turn. _Harm_—Creatures gain a channel penalty on saving throws against divinations for 1 minute. Creatures using [Sense Motive](skills/senseMotive#_sense-motive) against affected creatures for the next minute gain a channel bonus on [Sense Motive](skills/senseMotive#_sense-motive) checks.
 
 **Self-Perfection** : _Heal_—Creatures may ignore one temporary condition of their choice until the end of your next turn. _Harm_—Creatures gain a channel penalty on attempts to dispel, remove, or make additional saving throws against all ongoing conditions for 1 minute (this does not apply to any initial saving throw allowed against such an effect but does apply to effects that begin during this duration).
 
-**Slavery_dir/Tyranny** : _Heal_—Creatures ignore fatigue and exhaustion for 1 minute. _Harm_—Creatures gain a channel penalty on saves against compulsions, pain, and stun for 1 minute.
+**Slavery/Tyranny** : _Heal_—Creatures ignore fatigue and exhaustion for 1 minute. _Harm_—Creatures gain a channel penalty on saves against compulsions, pain, and stun for 1 minute.
 
 **Strategy** : _Heal_—Until your next turn, creatures using aid another add your channel bonus to the aided creature's roll in addition to the normal aid another bonus. _Harm_—Creatures may not take attacks of opportunity until the end of your next turn.
 
@@ -108,7 +108,7 @@ The following is a list of example portfolios and the variant channeling abiliti
 
 **Sun** : _Heal_—The illumination level in the area increases by one step, and creatures gain a channel bonus on saves against blindness and light-based effects. _Harm_—Creatures are dazzled for 1 minute; creatures with light blindness or light sensitivity are blinded instead of dazzled.
 
-**Trickery** : _Heal_—Creatures gain a channel bonus on [Bluff](skills_dir/bluff#_bluff), [Disguise](skills_dir/disguise#_disguise), [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand), and [Stealth](skills_dir/stealth#_stealth) checks for 1 minute. _Harm_—Creatures gain a channel penalty on [Perception](skills_dir/perception#_perception) and [Sense Motive](skills_dir/senseMotive#_sense-motive) checks for 1 minute.
+**Trickery** : _Heal_—Creatures gain a channel bonus on [Bluff](skills/bluff#_bluff), [Disguise](skills/disguise#_disguise), [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand), and [Stealth](skills/stealth#_stealth) checks for 1 minute. _Harm_—Creatures gain a channel penalty on [Perception](skills/perception#_perception) and [Sense Motive](skills/senseMotive#_sense-motive) checks for 1 minute.
 
 **Undeath** : _Heal_—This works like a standard channel (not halved). _Harm_—The healing effect is enhanced for undead creatures and those with negative energy affinity.
 
@@ -122,7 +122,7 @@ Cloistered clerics typically live in a temple and rarely interact with the outsi
 
 **Weapon and Armor Proficiency** : Cloistered clerics are proficient with light armor and with the following weapons: club, heavy mace, light mace, quarterstaff, and sling. They are not proficient with shields.
 
-**Class Skills** : The cloistered cleric's class skills are [Appraise](skills_dir/appraise#_appraise) (Int), [Craft](skills_dir/craft#_craft) (Int), [Diplomacy](skills_dir/diplomacy#_diplomacy) (Cha), Heal (Wis), Knowledge (all) (Int), [Linguistics](skills_dir/linguistics#_linguistics) (Int), [Profession](skills_dir/profession#_profession) (Wis), [Sense Motive](skills_dir/senseMotive#_sense-motive) (Wis), and [Spellcraft](skills_dir/spellcraft#_spellcraft) (Int).
+**Class Skills** : The cloistered cleric's class skills are [Appraise](skills/appraise#_appraise) (Int), [Craft](skills/craft#_craft) (Int), [Diplomacy](skills/diplomacy#_diplomacy) (Cha), Heal (Wis), Knowledge (all) (Int), [Linguistics](skills/linguistics#_linguistics) (Int), [Profession](skills/profession#_profession) (Wis), [Sense Motive](skills/senseMotive#_sense-motive) (Wis), and [Spellcraft](skills/spellcraft#_spellcraft) (Int).
 
 **Skill Ranks per Level** : 4 + Int modifier.
 
@@ -156,7 +156,7 @@ A theologian is an expert on one particular area of her religion. She is so focu
 
 A theologian can prepare domain spells using her non-domain slots. She cannot use her spontaneous casting ability on domain spells, even if they are prepared in non-domain slots. In all other respects, this works like and replaces the standard cleric domain ability.
 
-**Domain Secret (Ex)** : At 5th level, the theologian chooses one domain spell. That spell becomes permanently modified with one of the following metamagic feats: [Bouncing Spell](advanced_dir/advancedFeats#_bouncing-spell-(metamagic)), [Disruptive Spell](advanced_dir/advancedFeats#_disruptive-spell-(metamagic)), [Ectoplasmic Spell](advanced_dir/advancedFeats#_ectoplasmic-spell-(metamagic)), [Enlarge Spell](feats#_enlarge-spell), [Extend Spell](feats#_extend-spell), [Focused Spell](advanced_dir/advancedFeats#_focused-spell-(metamagic)), [Intensified Spell](advanced_dir/advancedFeats#_intensified-spell-(metamagic)), [Silent Spell](feats#_silent-spell), [Still Spell](feats#_still-spell). This metamagic feat does not increase the level of the spell. Once chosen, this modification cannot be changed. The domain specialist need not have the metamagic feat to apply it to a spell using this ability. At every 5 levels after 5th, the domain specialist may choose an additional domain spell to modify in this way. She cannot modify the same spell more than once.
+**Domain Secret (Ex)** : At 5th level, the theologian chooses one domain spell. That spell becomes permanently modified with one of the following metamagic feats: [Bouncing Spell](advanced/advancedFeats#_bouncing-spell-(metamagic)), [Disruptive Spell](advanced/advancedFeats#_disruptive-spell-(metamagic)), [Ectoplasmic Spell](advanced/advancedFeats#_ectoplasmic-spell-(metamagic)), [Enlarge Spell](feats#_enlarge-spell), [Extend Spell](feats#_extend-spell), [Focused Spell](advanced/advancedFeats#_focused-spell-(metamagic)), [Intensified Spell](advanced/advancedFeats#_intensified-spell-(metamagic)), [Silent Spell](feats#_silent-spell), [Still Spell](feats#_still-spell). This metamagic feat does not increase the level of the spell. Once chosen, this modification cannot be changed. The domain specialist need not have the metamagic feat to apply it to a spell using this ability. At every 5 levels after 5th, the domain specialist may choose an additional domain spell to modify in this way. She cannot modify the same spell more than once.
 
 # Undead Lord (Archetype)
 
@@ -168,7 +168,7 @@ A cleric cannot take the undead lord archetype unless her deity's portfolio incl
 
 **Corpse Companion (Su)** : With a ritual requiring 8 hours, an undead lord can animate a single skeleton or zombie whose Hit Dice do not exceed her cleric level. This corpse companion automatically follows her commands and does not need to be controlled by her. She cannot have more than one corpse companion at a time. It does not count against the number of Hit Dice of undead controlled by other methods. She can use this ability to create a variant skeleton such as a bloody or burning skeleton, but its Hit Dice cannot exceed half her cleric level. She can dismiss her companion as a standard action, which destroys it.
 
-**Bonus Feats** : All undead lords gain [Command Undead](feats#_command-undead) as a bonus feat. In addition, at 10th level, she may select one of the following as a bonus feat: [Channel Smite](feats#_channel-smite), [Extra Channel](feats#_extra-channel), [Improved Channel](feats#_improved-channel), [Quick Channel](ultimateMagic_dir/ultimateMagicFeats#_quick-channel), [Skeleton Summoner](ultimateMagic_dir/ultimateMagicFeats#_skeleton-summoner), [Undead Master](ultimateMagic_dir/ultimateMagicFeats#_undead-master).
+**Bonus Feats** : All undead lords gain [Command Undead](feats#_command-undead) as a bonus feat. In addition, at 10th level, she may select one of the following as a bonus feat: [Channel Smite](feats#_channel-smite), [Extra Channel](feats#_extra-channel), [Improved Channel](feats#_improved-channel), [Quick Channel](ultimateMagic/ultimateMagicFeats#_quick-channel), [Skeleton Summoner](ultimateMagic/ultimateMagicFeats#_skeleton-summoner), [Undead Master](ultimateMagic/ultimateMagicFeats#_undead-master).
 
 **Unlife Healer (Su)** : At 8th level, the undead lord's spells, spell-like abilities, and supernatural abilities used to heal undead heal an extra 50% damage. At 16th level, these effects automatically heal the maximum possible damage for the effect + the extra 50%. This does not stack with abilities or feats such as [Empower Spell](feats#_empower-spell) or [Maximize Spell](feats#_maximize-spell).
 

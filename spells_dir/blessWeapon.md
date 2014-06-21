@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/blessWeapon
+title: spells/blessWeapon
 ---
  **Bless Weapon**
 
@@ -14,7 +14,7 @@ title: spells_dir/blessWeapon
 
 **Target** weapon touched
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

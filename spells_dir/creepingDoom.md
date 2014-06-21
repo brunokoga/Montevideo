@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/creepingDoom
+title: spells/creepingDoom
 ---
  **Creeping Doom**
 
@@ -10,11 +10,11 @@ title: spells_dir/creepingDoom
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)_dir/100 ft.; see text
+**Range** close (25 ft. + 5 ft./2 levels)/100 ft.; see text
 
 **Effect** four swarms of insects
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) partial, see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

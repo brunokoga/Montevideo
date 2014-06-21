@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills_dir/intimidate
+title: skills/intimidate
 ---
 # Intimidate
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/bloodMist
+title: ultimateMagic/spells/bloodMist
 ---
 Blood Mist
 
@@ -10,11 +10,11 @@ Blood Mist
 
 **Components** V, S, M (a pinch of dried red algae)
 
-**Range** medium (100ft. +10ft._dir/level)
+**Range** medium (100ft. +10ft./level)
 
 **Area** 60-ft. radius
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Fortitude negates (see text); **Spell Resistance** yes
 

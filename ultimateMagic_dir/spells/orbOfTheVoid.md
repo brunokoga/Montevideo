@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/orbOfTheVoid
+title: ultimateMagic/spells/orbOfTheVoid
 ---
 Orb of the Void
 
-**School** necromancy; **Level** cleric 8, sorcerer_dir/wizard 8
+**School** necromancy; **Level** cleric 8, sorcerer/wizard 8
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a black gemstone of any kind worth 50 gp)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** 1-ft.-diameter sphere
 
-**Duration** 1 round_dir/level (D)
+**Duration** 1 round/level (D)
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 

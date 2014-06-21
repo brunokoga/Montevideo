@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/gibberingMouther
+title: monsters/gibberingMouther
 ---
 # Gibbering Mouther
 
@@ -12,7 +12,7 @@ _This horrid mass of eyes, mouths, and formless flesh stares in all directions, 
 
 N Medium [aberration](creatureTypes#_aberration)
 
-**Init** +3; **Senses** all-around vision, darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +12
+**Init** +3; **Senses** all-around vision, darkvision 60 ft.; [Perception](../skills/perception#_perception) +12
 
 **Defense**
 
@@ -22,7 +22,7 @@ N Medium [aberration](creatureTypes#_aberration)
 
 **Fort** +8, **Ref** +4, **Will** +5
 
-**Defensive Abilities** amorphous; **DR** 5_dir/bludgeoning; **Immune** critical hits, precision damage
+**Defensive Abilities** amorphous; **DR** 5/bludgeoning; **Immune** critical hits, precision damage
 
 **Offense**
 
@@ -40,7 +40,7 @@ N Medium [aberration](creatureTypes#_aberration)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +12, [Swim](../skills_dir/swim#_swim) +8; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception)
+**Skills** [Perception](../skills/perception#_perception) +12, [Swim](../skills/swim#_swim) +8; **Racial Modifiers** +4 [Perception](../skills/perception#_perception)
 
 **Language** Aklo
 

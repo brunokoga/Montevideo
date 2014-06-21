@@ -1,6 +1,6 @@
 ---
 layout: default
-title: classes_dir/rogue
+title: classes/rogue
 ---
 # Rogue
 
@@ -14,7 +14,7 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 
 ## Class Skills
 
-The rogue's class skills are [Acrobatics](../skills_dir/acrobatics#_acrobatics) ( [Dex](../gettingStarted#_dexterity)), [Appraise](../skills_dir/appraise#_appraise) ( [Int](../gettingStarted#_intelligence)), [Bluff](../skills_dir/bluff#_bluff) ( [Cha](../gettingStarted#_charisma-new)), [Climb](../skills_dir/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skills_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Diplomacy](../skills_dir/diplomacy#_diplomacy) ( [Cha](../gettingStarted#_charisma-new)), [Disable Device](../skills_dir/disableDevice#_disable-device) ( [Dex](../gettingStarted#_dexterity)), [Disguise](../skills_dir/disguise#_disguise) ( [Cha](../gettingStarted#_charisma-new)), [Escape Artist](../skills_dir/escapeArtist#_escape-artist) ( [Dex](../gettingStarted#_dexterity)), [Intimidate](../skills_dir/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills_dir/knowledge#_knowledge) (local) ( [Int](../gettingStarted#_intelligence)), [Linguistics](../skills_dir/linguistics#_linguistics) ( [Int](../gettingStarted#_intelligence)), [Perception](../skills_dir/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Perform](../skills_dir/perform#_perform) ( [Cha](../gettingStarted#_charisma-new)), [Profession](../skills_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Sense Motive](../skills_dir/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)), [Sleight of Hand](../skills_dir/sleightOfHand#_sleight-of-hand) ( [Dex](../gettingStarted#_dexterity)), [Stealth](../skills_dir/stealth#_stealth) ( [Dex](../gettingStarted#_dexterity)), [Swim](../skills_dir/swim#_swim) ( [Str](../gettingStarted#_strength)), and [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) ( [Cha](../gettingStarted#_charisma-new)).
+The rogue's class skills are [Acrobatics](../skills/acrobatics#_acrobatics) ( [Dex](../gettingStarted#_dexterity)), [Appraise](../skills/appraise#_appraise) ( [Int](../gettingStarted#_intelligence)), [Bluff](../skills/bluff#_bluff) ( [Cha](../gettingStarted#_charisma-new)), [Climb](../skills/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skills/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Diplomacy](../skills/diplomacy#_diplomacy) ( [Cha](../gettingStarted#_charisma-new)), [Disable Device](../skills/disableDevice#_disable-device) ( [Dex](../gettingStarted#_dexterity)), [Disguise](../skills/disguise#_disguise) ( [Cha](../gettingStarted#_charisma-new)), [Escape Artist](../skills/escapeArtist#_escape-artist) ( [Dex](../gettingStarted#_dexterity)), [Intimidate](../skills/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skills/knowledge#_knowledge) (dungeoneering) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills/knowledge#_knowledge) (local) ( [Int](../gettingStarted#_intelligence)), [Linguistics](../skills/linguistics#_linguistics) ( [Int](../gettingStarted#_intelligence)), [Perception](../skills/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Perform](../skills/perform#_perform) ( [Cha](../gettingStarted#_charisma-new)), [Profession](../skills/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Sense Motive](../skills/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)), [Sleight of Hand](../skills/sleightOfHand#_sleight-of-hand) ( [Dex](../gettingStarted#_dexterity)), [Stealth](../skills/stealth#_stealth) ( [Dex](../gettingStarted#_dexterity)), [Swim](../skills/swim#_swim) ( [Str](../gettingStarted#_strength)), and [Use Magic Device](../skills/useMagicDevice#_use-magic-device) ( [Cha](../gettingStarted#_charisma-new)).
 
 **Skill Ranks per Level** : 8 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -28,19 +28,19 @@ The rogue's class skills are [Acrobatics](../skills_dir/acrobatics#_acrobatics) 
 | 5th | +3 | +1 | +4 | +1 | Sneak attack +3d6 |
 | 6th | +4 | +2 | +5 | +2 | Rogue talent, trap sense +2 |
 | 7th | +5 | +2 | +5 | +2 | Sneak attack +4d6 |
-| 8th | +6_dir/+1 | +2 | +6 | +2 | Improved uncanny dodge, rogue talent |
-| 9th | +6_dir/+1 | +3 | +6 | +3 | Sneak attack +5d6, trap sense +3 |
-| 10th | +7_dir/+2 | +3 | +7 | +3 | Advanced talents, rogue talent |
-| 11th | +8_dir/+3 | +3 | +7 | +3 | Sneak attack +6d6 |
-| 12th | +9_dir/+4 | +4 | +8 | +4 | Rogue talent, trap sense +4 |
-| 13th | +9_dir/+4 | +4 | +8 | +4 | Sneak attack +7d6 |
-| 14th | +10_dir/+5 | +4 | +9 | +4 | Rogue talent |
-| 15th | +11_dir/+6_dir/+1 | +5 | +9 | +5 | Sneak attack +8d6, trap sense +5 |
-| 16th | +12_dir/+7_dir/+2 | +5 | +10 | +5 | Rogue talent |
-| 17th | +12_dir/+7_dir/+2 | +5 | +10 | +5 | Sneak attack +9d6 |
-| 18th | +13_dir/+8_dir/+3 | +6 | +11 | +6 | Rogue talent, trap sense +6 |
-| 19th | +14_dir/+9_dir/+4 | +6 | +11 | +6 | Sneak attack +10d6 |
-| 20th | +15_dir/+10_dir/+5 | +6 | +12 | +6 | Master strike, rogue talent |
+| 8th | +6/+1 | +2 | +6 | +2 | Improved uncanny dodge, rogue talent |
+| 9th | +6/+1 | +3 | +6 | +3 | Sneak attack +5d6, trap sense +3 |
+| 10th | +7/+2 | +3 | +7 | +3 | Advanced talents, rogue talent |
+| 11th | +8/+3 | +3 | +7 | +3 | Sneak attack +6d6 |
+| 12th | +9/+4 | +4 | +8 | +4 | Rogue talent, trap sense +4 |
+| 13th | +9/+4 | +4 | +8 | +4 | Sneak attack +7d6 |
+| 14th | +10/+5 | +4 | +9 | +4 | Rogue talent |
+| 15th | +11/+6/+1 | +5 | +9 | +5 | Sneak attack +8d6, trap sense +5 |
+| 16th | +12/+7/+2 | +5 | +10 | +5 | Rogue talent |
+| 17th | +12/+7/+2 | +5 | +10 | +5 | Sneak attack +9d6 |
+| 18th | +13/+8/+3 | +6 | +11 | +6 | Rogue talent, trap sense +6 |
+| 19th | +14/+9/+4 | +6 | +11 | +6 | Sneak attack +10d6 |
+| 20th | +15/+10/+5 | +6 | +12 | +6 | Master strike, rogue talent |
 
 ## Class Features
 
@@ -56,7 +56,7 @@ With a weapon that deals nonlethal damage (like a sap, whip, or an unarmed strik
 
 The rogue must be able to see the target well enough to pick out a vital spot and must be able to reach such a spot. A rogue cannot sneak attack while striking a creature with concealment.
 
-**Trapfinding** : A rogue adds 1_dir/2 her level to [Perception](../skills_dir/perception#_perception) [skill checks](../usingSkills#_skill-checks) made to locate traps and to [Disable Device](../skills_dir/disableDevice#_disable-device) [skill checks](../usingSkills#_skill-checks) (minimum +1). A rogue can use [Disable Device](../skills_dir/disableDevice#_disable-device) to disarm magic traps.
+**Trapfinding** : A rogue adds 1/2 her level to [Perception](../skills/perception#_perception) [skill checks](../usingSkills#_skill-checks) made to locate traps and to [Disable Device](../skills/disableDevice#_disable-device) [skill checks](../usingSkills#_skill-checks) (minimum +1). A rogue can use [Disable Device](../skills/disableDevice#_disable-device) to disarm magic traps.
 
 **Evasion [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 2nd level and higher, a rogue can avoid even magical and unusual attacks with great agility. If she makes a successful [Reflex](../combat#_reflex) [saving throw](../combat#_saving-throws) against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the rogue is wearing light armor or no armor. A [helpless](../glossary#_helpless) rogue does not gain the benefit of evasion.
 
@@ -64,21 +64,21 @@ The rogue must be able to see the target well enough to pick out a vital spot an
 
 Talents marked with an asterisk add effects to a rogue's sneak attack. Only one of these talents can be applied to an individual attack and the decision must be made before the attack roll is made.
 
-_Bleeding Attack\* [(Ex)](../glossary#_extraordinary-abilities-ex)_: A rogue with this ability can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the rogue's sneak attack (e.g., 4d6 equals 4 points of [bleed](../glossary#_bleed)). Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a DC 15 [Heal](../skills_dir/heal#_heal) check or the application of any effect that heals hit point damage. Bleeding damage from this ability does not stack with itself. Bleeding damage bypasses any [damage reduction](../glossary#_damage-reduction) the creature might possess.
+_Bleeding Attack\* [(Ex)](../glossary#_extraordinary-abilities-ex)_: A rogue with this ability can cause living opponents to bleed by hitting them with a sneak attack. This attack causes the target to take 1 additional point of damage each round for each die of the rogue's sneak attack (e.g., 4d6 equals 4 points of [bleed](../glossary#_bleed)). Bleeding creatures take that amount of damage every round at the start of each of their turns. The bleeding can be stopped by a DC 15 [Heal](../skills/heal#_heal) check or the application of any effect that heals hit point damage. Bleeding damage from this ability does not stack with itself. Bleeding damage bypasses any [damage reduction](../glossary#_damage-reduction) the creature might possess.
 
 _Combat Trick_: A rogue that selects this talent gains a bonus [combat feat](../feats#_combat-feats) (see [Feats](../feats)).
 
-_Fast Stealth [(Ex)](../glossary#_extraordinary-abilities-ex)_: This ability allows a rogue to move at full speed using the [Stealth](../skills_dir/stealth#_stealth) skill without penalty.
+_Fast Stealth [(Ex)](../glossary#_extraordinary-abilities-ex)_: This ability allows a rogue to move at full speed using the [Stealth](../skills/stealth#_stealth) skill without penalty.
 
 _Finesse Rogue_: A rogue that selects this talent gains [Weapon Finesse](../feats#_weapon-finesse) as a bonus feat.
 
-_Ledge Walker [(Ex)](../glossary#_extraordinary-abilities-ex)_: This ability allows a rogue to move along narrow surfaces at full speed using the [Acrobatics](../skills_dir/acrobatics#_acrobatics) skill without penalty. In addition, a rogue with this talent is not [flat-footed](../glossary#_flat-footed) when using [Acrobatics](../skills_dir/acrobatics#_acrobatics) to move along narrow surfaces.
+_Ledge Walker [(Ex)](../glossary#_extraordinary-abilities-ex)_: This ability allows a rogue to move along narrow surfaces at full speed using the [Acrobatics](../skills/acrobatics#_acrobatics) skill without penalty. In addition, a rogue with this talent is not [flat-footed](../glossary#_flat-footed) when using [Acrobatics](../skills/acrobatics#_acrobatics) to move along narrow surfaces.
 
-_Major Magic_ _ [(Sp)](../glossary#_spell-like-abilities-sp)_: A rogue with this talent gains the ability to cast a 1st-level spell from the sorcerer_dir/wizard spell list two times a day as a [spell-like ability](../glossary#_spell-like-abilities-sp). The caster level for this ability is equal to the rogue's level. The save DC for this spell is 11 + the rogue's [Intelligence](../gettingStarted#_intelligence) modifier. The rogue must have an [Intelligence](../gettingStarted#_intelligence) of at least 11 to select this talent. A rogue must have the minor magic rogue talent before choosing this talent.
+_Major Magic_ _ [(Sp)](../glossary#_spell-like-abilities-sp)_: A rogue with this talent gains the ability to cast a 1st-level spell from the sorcerer/wizard spell list two times a day as a [spell-like ability](../glossary#_spell-like-abilities-sp). The caster level for this ability is equal to the rogue's level. The save DC for this spell is 11 + the rogue's [Intelligence](../gettingStarted#_intelligence) modifier. The rogue must have an [Intelligence](../gettingStarted#_intelligence) of at least 11 to select this talent. A rogue must have the minor magic rogue talent before choosing this talent.
 
-_Minor Magic_ _ [(Sp)](../glossary#_spell-like-abilities-sp)_: A rogue with this talent gains the ability to cast a 0-level spell from the sorcerer_dir/wizard spell list. This spell can be cast three times a day as a [spell-like ability](../glossary#_spell-like-abilities-sp). The caster level for this ability is equal to the rogue's level. The save DC for this spell is 10 + the rogue's [Intelligence](../gettingStarted#_intelligence) modifier. The rogue must have an [Intelligence](../gettingStarted#_intelligence) of at least 10 to select this talent.
+_Minor Magic_ _ [(Sp)](../glossary#_spell-like-abilities-sp)_: A rogue with this talent gains the ability to cast a 0-level spell from the sorcerer/wizard spell list. This spell can be cast three times a day as a [spell-like ability](../glossary#_spell-like-abilities-sp). The caster level for this ability is equal to the rogue's level. The save DC for this spell is 10 + the rogue's [Intelligence](../gettingStarted#_intelligence) modifier. The rogue must have an [Intelligence](../gettingStarted#_intelligence) of at least 10 to select this talent.
 
-_Quick Disable [(Ex)](../glossary#_extraordinary-abilities-ex)_: It takes a rogue with this ability half the normal amount of time to disable a trap using the [Disable Device](../skills_dir/disableDevice#_disable-device) skill (minimum 1 round).
+_Quick Disable [(Ex)](../glossary#_extraordinary-abilities-ex)_: It takes a rogue with this ability half the normal amount of time to disable a trap using the [Disable Device](../skills/disableDevice#_disable-device) skill (minimum 1 round).
 
 _Resiliency [(Ex)](../glossary#_extraordinary-abilities-ex)_: Once per day, a rogue with this ability can gain a number of [temporary hit points](../combat#_temporary-hit-points) equal to the rogue's level. Activating this ability is an immediate action that can only be performed when she is brought to below 0 hit points. This ability can be used to prevent her from [dying](../glossary#_dying). These [temporary hit points](../combat#_temporary-hit-points) last for 1 minute. If the rogue's hit points drop below 0 due to the loss of these [temporary hit points](../combat#_temporary-hit-points), she falls [unconscious](../glossary#_unconscious) and is [dying](../glossary#_dying) as normal.
 
@@ -90,7 +90,7 @@ _Stand Up [(Ex)](../glossary#_extraordinary-abilities-ex)_: A rogue with this ab
 
 _Surprise Attack [(Ex)](../glossary#_extraordinary-abilities-ex)_: During the surprise round, opponents are always considered [flat-footed](../glossary#_flat-footed) to a rogue with this ability, even if they have already acted.
 
-_Trap Spotter [(Ex)](../glossary#_extraordinary-abilities-ex)_: Whenever a rogue with this talent comes within 10 feet of a trap, she receives an immediate [Perception](../skills_dir/perception#_perception) skill check to notice the trap. This check should be made in secret by the GM.
+_Trap Spotter [(Ex)](../glossary#_extraordinary-abilities-ex)_: Whenever a rogue with this talent comes within 10 feet of a trap, she receives an immediate [Perception](../skills/perception#_perception) skill check to notice the trap. This check should be made in secret by the GM.
 
 _Weapon Training_: A rogue that selects this talent gains [Weapon Focus](../feats#_weapon-focus) as a bonus feat.
 
@@ -114,7 +114,7 @@ _Crippling Strike\*_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: A rogue
 
 _Defensive Roll_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: With this advanced talent, the rogue can roll with a potentially lethal blow to take less damage from it than she otherwise would. Once per day, when she would be reduced to 0 or fewer hit points by damage in combat (from a weapon or other blow, not a spell or special ability), the rogue can attempt to roll with the damage. To use this ability, the rogue must attempt a [Reflex](../combat#_reflex) [saving throw](../combat#_saving-throws) (DC = damage dealt). If the save succeeds, she takes only half damage from the blow; if it fails, she takes full damage. She must be aware of the attack and able to react to it in order to execute her defensive roll—if she is denied her [Dexterity](../gettingStarted#_dexterity) bonus to [AC](../combat#_armor-class), she can't use this ability. Since this effect would not normally allow a character to make a [Reflex](../combat#_reflex) save for half damage, the rogue's evasion ability does not apply to the defensive roll.
 
-_Dispelling Attack\* [(Su)](../glossary#_supernatural-abilities-su)_: Opponents that are dealt sneak attack damage by a rogue with this ability are affected by a targeted _ [dispel magic](../spells_dir/dispelMagic#_dispel-magic)_, targeting the lowest-level spell effect active on the target. The caster level for this ability is equal to the rogue's level. A rogue must have the major magic rogue talent before choosing dispelling attack.
+_Dispelling Attack\* [(Su)](../glossary#_supernatural-abilities-su)_: Opponents that are dealt sneak attack damage by a rogue with this ability are affected by a targeted _ [dispel magic](../spells/dispelMagic#_dispel-magic)_, targeting the lowest-level spell effect active on the target. The caster level for this ability is equal to the rogue's level. A rogue must have the major magic rogue talent before choosing dispelling attack.
 
 _Improved Evasion_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: This works like evasion, except that while the rogue still takes no damage on a successful [Reflex](../combat#_reflex) saving throw against attacks, she henceforth takes only half damage on a failed save. A [helpless](../glossary#_helpless) rogue does not gain the benefit of improved evasion.
 
@@ -128,5 +128,5 @@ _Slippery Mind_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: This ability
 
 _Feat_: A rogue may gain any feat that she qualifies for in place of a rogue talent.
 
-**Master Strike** _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: Upon reaching 20th level, a rogue becomes incredibly deadly when dealing sneak attack damage. Each time the rogue deals sneak attack damage, she can choose one of the following three effects: the target can be put to sleep for 1d4 hours, [paralyzed](../glossary#_paralyzed) for 2d6 rounds, or slain. Regardless of the effect chosen, the target receives a [Fortitude](../combat#_fortitude) save to negate the additional effect. The DC of this save is equal to 10 + 1_dir/2 the rogue's level + the rogue's [Intelligence](../gettingStarted#_intelligence) modifier. Once a creature has been the target of a master strike, regardless of whether or not the save is made, that creature is immune to that rogue's master strike for 24 hours. Creatures that are immune to sneak attack damage are also immune to this ability.
+**Master Strike** _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: Upon reaching 20th level, a rogue becomes incredibly deadly when dealing sneak attack damage. Each time the rogue deals sneak attack damage, she can choose one of the following three effects: the target can be put to sleep for 1d4 hours, [paralyzed](../glossary#_paralyzed) for 2d6 rounds, or slain. Regardless of the effect chosen, the target receives a [Fortitude](../combat#_fortitude) save to negate the additional effect. The DC of this save is equal to 10 + 1/2 the rogue's level + the rogue's [Intelligence](../gettingStarted#_intelligence) modifier. Once a creature has been the target of a master strike, regardless of whether or not the save is made, that creature is immune to that rogue's master strike for 24 hours. Creatures that are immune to sneak attack damage are also immune to this ability.
 

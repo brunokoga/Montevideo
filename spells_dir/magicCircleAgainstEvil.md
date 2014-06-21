@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/magicCircleAgainstEvil
+title: spells/magicCircleAgainstEvil
 ---
  **Magic Circle against Evil**
 
-**School** abjuration [good]; **Level** cleric 3, paladin 3, sorcerer_dir/wizard 3
+**School** abjuration [good]; **Level** cleric 3, paladin 3, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M_dir/DF (a 3-ft.-diameter circle of powdered silver)
+**Components** V, S, M/DF (a 3-ft.-diameter circle of powdered silver)
 
 **Range** touch
 
 **Area** 10-ft.-radius emanation from touched creature
 
-**Duration** 10 min._dir/level
+**Duration** 10 min./level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** no; see text
 

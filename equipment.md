@@ -30,9 +30,9 @@ The standard coin weighs about a third of an ounce (50 to the pound).
 [Table: Coins]
 | Exchange Value | cp | sp | gp | pp |
 | --- | --- | --- | --- | --- |
-| Copper piece (cp) | 1 | 1_dir/10 | 1_dir/100 | 1_dir/1,000 |
-| Silver piece (sp) | 10 | 1 | 1_dir/10 | 1_dir/100 |
-| Gold piece (gp) | 100 | 10 | 1 | 1_dir/10 |
+| Copper piece (cp) | 1 | 1/10 | 1/100 | 1/1,000 |
+| Silver piece (sp) | 10 | 1 | 1/10 | 1/100 |
+| Gold piece (gp) | 100 | 10 | 1 | 1/10 |
 | Platinum piece (pp) | 1,000 | 100 | 10 | 1 |
 
 ## Other Wealth
@@ -94,9 +94,9 @@ _Light_: A light weapon is used in one hand. It is easier to use in one's off ha
 
 An unarmed strike is always considered a light weapon.
 
-_One-Handed_: A one-handed weapon can be used in either the primary hand or the off hand. Add the wielder's [Strength](gettingStarted#_strength) bonus to damage rolls for melee attacks with a one-handed weapon if it's used in the primary hand, or 1_dir/2 his [Strength](gettingStarted#_strength) bonus if it's used in the off hand. If a one-handed weapon is wielded with two hands during melee combat, add 1-1_dir/2 times the character's [Strength](gettingStarted#_strength) bonus to damage rolls.
+_One-Handed_: A one-handed weapon can be used in either the primary hand or the off hand. Add the wielder's [Strength](gettingStarted#_strength) bonus to damage rolls for melee attacks with a one-handed weapon if it's used in the primary hand, or 1/2 his [Strength](gettingStarted#_strength) bonus if it's used in the off hand. If a one-handed weapon is wielded with two hands during melee combat, add 1-1/2 times the character's [Strength](gettingStarted#_strength) bonus to damage rolls.
 
-_Two-Handed_: Two hands are required to use a two-handed melee weapon effectively. Apply 1-1_dir/2 times the character's [Strength](gettingStarted#_strength) bonus to damage rolls for melee attacks with such a weapon.
+_Two-Handed_: Two hands are required to use a two-handed melee weapon effectively. Apply 1-1/2 times the character's [Strength](gettingStarted#_strength) bonus to damage rolls for melee attacks with such a weapon.
 
 **Weapon Size** : Every weapon has a size category. This designation indicates the size of the creature for which the weapon was designed.
 
@@ -144,13 +144,13 @@ Extra damage over and above a weapon's normal damage is not multiplied when you 
 
 ×_3_: The weapon deals triple damage on a critical hit.
 
-×_3_dir/_×_4_: One head of this double weapon deals triple damage on a critical hit. The other head deals quadruple damage on a critical hit.
+×_3/_×_4_: One head of this double weapon deals triple damage on a critical hit. The other head deals quadruple damage on a critical hit.
 
 ×_4_: The weapon deals quadruple damage on a critical hit.
 
-_19–20_dir/_×_2_: The weapon scores a threat on a natural roll of 19 or 20 (instead of just 20) and deals double damage on a critical hit.
+_19–20/_×_2_: The weapon scores a threat on a natural roll of 19 or 20 (instead of just 20) and deals double damage on a critical hit.
 
-_18–20_dir/_×_2_: The weapon scores a threat on a natural roll of 18, 19, or 20 (instead of just 20) and deals double damage on a critical hit.
+_18–20/_×_2_: The weapon scores a threat on a natural roll of 18, 19, or 20 (instead of just 20) and deals double damage on a critical hit.
 
 **Range** : Any attack at more than this distance is penalized for range. Beyond this range, the attack takes a cumulative –2 penalty for each full range increment (or fraction thereof) of distance to the target. For example, a dagger (with a range of 10 feet) thrown at a target that is 25 feet away would incur a –4 penalty. A thrown weapon has a maximum range of five range increments. A projectile weapon can shoot to 10 range increments.
 
@@ -187,7 +187,7 @@ _Trip_: You can use a trip weapon to make trip attacks. If you are tripped durin
 | Gauntlet | 2 gp | 1d2 | 1d3 | ×2 | — | 1 lb. | B | — |
 | Unarmed strike | — | 1d2 | 1d3 | ×2 | — | — | B | nonlethal |
 | _Light Melee Weapons_ |
-| Dagger | 2 gp | 1d3 | 1d4 | 19–20_dir/×2 | 10 ft. | 1 lb. | P or S | — |
+| Dagger | 2 gp | 1d3 | 1d4 | 19–20/×2 | 10 ft. | 1 lb. | P or S | — |
 | Dagger, punching | 2 gp | 1d3 | 1d4 | ×3 | — | 1 lb. | P | — |
 | Gauntlet, spiked | 5 gp | 1d3 | 1d4 | ×2 | — | 1 lb. | P | — |
 | Mace, light | 5 gp | 1d4 | 1d6 | ×2 | — | 4 lbs. | B | — |
@@ -199,16 +199,16 @@ _Trip_: You can use a trip weapon to make trip attacks. If you are tripped durin
 | Shortspear | 1 gp | 1d4 | 1d6 | ×2 | 20 ft. | 3 lbs. | P | — |
 | _Two-Handed Melee Weapons_ |
 | Longspear | 5 gp | 1d6 | 1d8 | ×3 | — | 9 lbs. | P | brace, reach |
-| Quarterstaff | — | 1d4_dir/1d4 | 1d6_dir/1d6 | ×2 | — | 4 lbs. | B | double, monk |
+| Quarterstaff | — | 1d4/1d4 | 1d6/1d6 | ×2 | — | 4 lbs. | B | double, monk |
 | Spear | 2 gp | 1d6 | 1d8 | ×3 | 20 ft. | 6 lbs. | P | brace |
 | _Ranged Weapons_ |
 | Blowgun | 2 gp | 1 | 1d2 | ×2 | 20 ft. | 1 lb. | P | — |
 | Darts, blowgun (10) | 5 sp | — | — | — | — | — | — | — |
-| Crossbow, heavy | 50 gp | 1d8 | 1d10 | 19–20_dir/×2 | 120 ft. | 8 lbs. | P | — |
+| Crossbow, heavy | 50 gp | 1d8 | 1d10 | 19–20/×2 | 120 ft. | 8 lbs. | P | — |
 | Bolts, crossbow (10) | 1 gp | — | — | — | — | 1 lb. | — | — |
-| Crossbow, light | 35 gp | 1d6 | 1d8 | 19–20_dir/×2 | 80 ft. | 4 lbs. | P | — |
+| Crossbow, light | 35 gp | 1d6 | 1d8 | 19–20/×2 | 80 ft. | 4 lbs. | P | — |
 | Bolts, crossbow (10) | 1 gp | — | — | — | — | 1 lb. | — | — |
-| Dart | 5 sp | 1d3 | 1d4 | ×2 | 20 ft. | 1_dir/2 lb. | P | — |
+| Dart | 5 sp | 1d3 | 1d4 | ×2 | 20 ft. | 1/2 lb. | P | — |
 | Javelin | 1 gp | 1d4 | 1d6 | ×2 | 30 ft. | 2 lbs. | P | — |
 | Sling | — | 1d3 | 1d4 | ×2 | 50 ft. | — | B | — |
 | Bullets, sling (10) | 1 sp | — | — | — | — | 5 lbs. | — | — |
@@ -218,32 +218,32 @@ _Trip_: You can use a trip weapon to make trip attacks. If you are tripped durin
 | Axe, throwing | 8 gp | 1d4 | 1d6 | ×2 | 10 ft. | 2 lbs. | S | — |
 | Hammer, light | 1 gp | 1d3 | 1d4 | ×2 | 20 ft. | 2 lbs. | B | — |
 | Handaxe | 6 gp | 1d4 | 1d6 | ×3 | — | 3 lbs. | S | — |
-| Kukri | 8 gp | 1d3 | 1d4 | 18–20_dir/×2 | — | 2 lbs. | S | — |
+| Kukri | 8 gp | 1d3 | 1d4 | 18–20/×2 | — | 2 lbs. | S | — |
 | Pick, light | 4 gp | 1d3 | 1d4 | ×4 | — | 3 lbs. | P | — |
 | Sap | 1 gp | 1d4 | 1d6 | ×2 | — | 2 lbs. | B | nonlethal |
 | Shield, light | special | 1d2 | 1d3 | ×2 | — | special | B | — |
 | Spiked armor | special | 1d4 | 1d6 | ×2 | — | special | P | — |
 | Spiked shield, light | special | 1d3 | 1d4 | ×2 | — | special | P | — |
 | Starknife | 24 gp | 1d3 | 1d4 | ×3 | 20 ft. | 3 lbs. | P | — |
-| Sword, short | 10 gp | 1d4 | 1d6 | 19–20_dir/×2 | — | 2 lbs. | P | — |
+| Sword, short | 10 gp | 1d4 | 1d6 | 19–20/×2 | — | 2 lbs. | P | — |
 | _One-Handed Melee Weapons_ |
 | Battleaxe | 10 gp | 1d6 | 1d8 | ×3 | — | 6 lbs. | S | — |
 | Flail | 8 gp | 1d6 | 1d8 | ×2 | — | 5 lbs. | B | disarm, trip |
-| Longsword | 15 gp | 1d6 | 1d8 | 19–20_dir/×2 | — | 4 lbs. | S | — |
+| Longsword | 15 gp | 1d6 | 1d8 | 19–20/×2 | — | 4 lbs. | S | — |
 | Pick, heavy | 8 gp | 1d4 | 1d6 | ×4 | — | 6 lbs. | P | — |
-| Rapier | 20 gp | 1d4 | 1d6 | 18–20_dir/×2 | — | 2 lbs. | P | — |
-| Scimitar | 15 gp | 1d4 | 1d6 | 18–20_dir/×2 | — | 4 lbs. | S | — |
+| Rapier | 20 gp | 1d4 | 1d6 | 18–20/×2 | — | 2 lbs. | P | — |
+| Scimitar | 15 gp | 1d4 | 1d6 | 18–20/×2 | — | 4 lbs. | S | — |
 | Shield, heavy | special | 1d3 | 1d4 | ×2 | — | special | B | — |
 | Spiked shield, heavy | special | 1d4 | 1d6 | ×2 | — | special | P | — |
 | Trident | 15 gp | 1d6 | 1d8 | ×2 | 10 ft. | 4 lbs. | P | brace |
 | Warhammer | 12 gp | 1d6 | 1d8 | ×3 | — | 5 lbs. | B | — |
 | _Two-Handed Melee Weapons_ |
-| Falchion | 75 gp | 1d6 | 2d4 | 18–20_dir/×2 | — | 8 lbs. | S | — |
+| Falchion | 75 gp | 1d6 | 2d4 | 18–20/×2 | — | 8 lbs. | S | — |
 | Glaive | 8 gp | 1d8 | 1d10 | ×3 | — | 10 lbs. | S | reach |
 | Greataxe | 20 gp | 1d10 | 1d12 | ×3 | — | 12 lbs. | S | — |
 | Greatclub | 5 gp | 1d8 | 1d10 | ×2 | — | 8 lbs. | B | — |
-| Flail, heavy | 15 gp | 1d8 | 1d10 | 19–20_dir/×2 | — | 10 lbs. | B | disarm, trip |
-| Greatsword | 50 gp | 1d10 | 2d6 | 19–20_dir/×2 | — | 8 lbs. | S | — |
+| Flail, heavy | 15 gp | 1d8 | 1d10 | 19–20/×2 | — | 10 lbs. | B | disarm, trip |
+| Greatsword | 50 gp | 1d10 | 2d6 | 19–20/×2 | — | 8 lbs. | S | — |
 | Guisarme | 9 gp | 1d6 | 2d4 | ×3 | — | 12 lbs. | S | reach, trip |
 | Halberd | 10 gp | 1d8 | 1d10 | ×3 | — | 12 lbs. | P or S | brace, trip |
 | Lance | 10 gp | 1d6 | 1d8 | ×3 | — | 10 lbs. | P | reach |
@@ -267,27 +267,27 @@ _Trip_: You can use a trip weapon to make trip attacks. If you are tripped durin
 | Sai | 1 gp | 1d3 | 1d4 | ×2 | — | 1 lb. | B | disarm, monk |
 | Siangham | 3 gp | 1d4 | 1d6 | ×2 | — | 1 lb. | P | monk |
 | _One-Handed Melee Weapons_ |
-| Sword, bastard | 35 gp | 1d8 | 1d10 | 19–20_dir/×2 | — | 6 lbs. | S | — |
+| Sword, bastard | 35 gp | 1d8 | 1d10 | 19–20/×2 | — | 6 lbs. | S | — |
 | Waraxe, dwarven | 30 gp | 1d8 | 1d10 | ×3 | — | 8 lbs. | S | — |
 | Whip | 1 gp | 1d2 | 1d3 | ×2 | — | 2 lbs. | S | disarm, nonlethal, reach, trip |
 | _Two-Handed Melee Weapons_ |
-| Axe, orc double | 60 gp | 1d6_dir/1d6 | 1d8_dir/1d8 | ×3 | — | 15 lbs. | S | double |
+| Axe, orc double | 60 gp | 1d6/1d6 | 1d8/1d8 | ×3 | — | 15 lbs. | S | double |
 | Chain, spiked | 25 gp | 1d6 | 2d4 | ×2 | — | 10 lbs. | P | disarm, trip |
-| Curve blade, elven | 80 gp | 1d8 | 1d10 | 18–20_dir/×2 | — | 7 lbs. | S | — |
-| Flail, dire | 90 gp | 1d6_dir/1d6 | 1d8_dir/1d8 | ×2 | — | 10 lbs. | B | disarm, double, trip |
-| Hammer, gnome hooked | 20 gp | 1d6_dir/1d4 | 1d8_dir/1d6 | ×3_dir/×4 | — | 6 lbs. | B or P | double, trip |
-| Sword, two-bladed | 100 gp | 1d6_dir/1d6 | 1d8_dir/1d8 | 19–20_dir/×2 | — | 10 lbs. | S | double |
-| Urgrosh, dwarven | 50 gp | 1d6_dir/1d4 | 1d8_dir/1d6 | ×3 | — | 12 lbs. | P or S | brace, double |
+| Curve blade, elven | 80 gp | 1d8 | 1d10 | 18–20/×2 | — | 7 lbs. | S | — |
+| Flail, dire | 90 gp | 1d6/1d6 | 1d8/1d8 | ×2 | — | 10 lbs. | B | disarm, double, trip |
+| Hammer, gnome hooked | 20 gp | 1d6/1d4 | 1d8/1d6 | ×3/×4 | — | 6 lbs. | B or P | double, trip |
+| Sword, two-bladed | 100 gp | 1d6/1d6 | 1d8/1d8 | 19–20/×2 | — | 10 lbs. | S | double |
+| Urgrosh, dwarven | 50 gp | 1d6/1d4 | 1d8/1d6 | ×3 | — | 12 lbs. | P or S | brace, double |
 | _Ranged Weapons_ |
 | Bolas | 5 gp | 1d3 | 1d4 | ×2 | 10 ft. | 2 lbs. | B | nonlethal, trip |
-| Crossbow, hand | 100 gp | 1d3 | 1d4 | 19–20_dir/×2 | 30 ft. | 2 lbs. | P | — |
+| Crossbow, hand | 100 gp | 1d3 | 1d4 | 19–20/×2 | 30 ft. | 2 lbs. | P | — |
 | Bolts (10) | 1 gp | — | — | — | — | 1 lb. | — | — |
-| Crossbow, repeating heavy | 400 gp | 1d8 | 1d10 | 19–20_dir/×2 | 120 ft. | 12 lbs. | P | — |
+| Crossbow, repeating heavy | 400 gp | 1d8 | 1d10 | 19–20/×2 | 120 ft. | 12 lbs. | P | — |
 | Bolts (5) | 1 gp | — | — | — | — | 1 lb. | — | — |
-| Crossbow, repeating light | 250 gp | 1d6 | 1d8 | 19–20_dir/×2 | 80 ft. | 6 lbs. | P | — |
+| Crossbow, repeating light | 250 gp | 1d6 | 1d8 | 19–20/×2 | 80 ft. | 6 lbs. | P | — |
 | Bolts (5) | 1 gp | — | — | — | — | 1 lb. | — | — |
 | Net | 20 gp | — | — | — | 10 ft. | 6 lbs. | — | — |
-| Shuriken (5) | 1 gp | 1 | 1d2 | ×2 | 10 ft. | 1_dir/2 lb. | P | monk |
+| Shuriken (5) | 1 gp | 1 | 1d2 | ×2 | 10 ft. | 1/2 lb. | P | monk |
 | Sling staff, halfling | 20 gp | 1d6 | 1d8 | ×3 | 80 ft. | 3 lbs. | B | — |
 | Bullets, sling (10) | 1 sp | — | — | — | — | 5 lbs. | — | — |
 
@@ -367,7 +367,7 @@ For purposes of Weapon Proficiency and similar feats, a composite longbow is tre
 
 **Longspear** : A longspear is about 8 feet in length.
 
-**Longsword** : This sword is about 3-1_dir/2 feet in length.
+**Longsword** : This sword is about 3-1/2 feet in length.
 
 **Mace** : A mace is made up of an ornate metal head attached to a simple wooden or metal shaft.
 
@@ -387,7 +387,7 @@ A net must be folded to be thrown effectively. The first time you throw your net
 
 **Ranseur** : Similar in appearance to a trident, a ranseur has a single spear at its tip, flanked by a pair of short, curving blades.
 
-**Rapier** : You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your [Dexterity](gettingStarted#_dexterity) modifier instead of your [Strength](gettingStarted#_strength) modifier to attack rolls with a rapier sized for you, even though it isn't a light weapon. You can't wield a rapier in two hands in order to apply 1-1_dir/2 times your [Strength](gettingStarted#_strength) bonus to damage.
+**Rapier** : You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your [Dexterity](gettingStarted#_dexterity) modifier instead of your [Strength](gettingStarted#_strength) modifier to attack rolls with a rapier sized for you, even though it isn't a light weapon. You can't wield a rapier in two hands in order to apply 1-1/2 times your [Strength](gettingStarted#_strength) bonus to damage.
 
 **Sai** : A sai is a metal spike flanked by a pair of prongs used to trap an enemy's weapon. With a sai, you get a +2 bonus on Combat Maneuver Checks to sunder an enemy's weapon. Though pointed, a sai is used primarily to bludgeon foes and to disarm weapons.
 
@@ -465,7 +465,7 @@ Here is the format for armor entries (given as column headings on Table: Armor a
 
 **Cost** : The cost in gold pieces of the armor for Small or Medium humanoid creatures. See Table: Armor for Unusual Creatures for armor prices for other creatures.
 
-**Armor_dir/Shield Bonus** : Each type of armor grants an armor bonus to [AC](combat#_armor-class), while shields grant a shield bonus to [AC](combat#_armor-class). The armor bonus from a suit of armor doesn't stack with other effects or items that grant an armor bonus. Similarly, the shield bonus from a shield doesn't stack with other effects that grant a shield bonus.
+**Armor/Shield Bonus** : Each type of armor grants an armor bonus to [AC](combat#_armor-class), while shields grant a shield bonus to [AC](combat#_armor-class). The armor bonus from a suit of armor doesn't stack with other effects or items that grant an armor bonus. Similarly, the shield bonus from a shield doesn't stack with other effects that grant a shield bonus.
 
 **Maximum [Dex](gettingStarted#_dexterity) Bonus** : This number is the maximum [Dexterity](gettingStarted#_dexterity) bonus to [AC](combat#_armor-class) that this type of armor allows. [Dexterity](gettingStarted#_dexterity) bonuses in excess of this number are reduced to this number for the purposes of determining the wearer's [AC](combat#_armor-class). Heavier armors limit mobility, reducing the wearer's ability to dodge blows. This restriction doesn't affect any other [Dexterity](gettingStarted#_dexterity)-related abilities.
 
@@ -479,7 +479,7 @@ _Shields_: Shields do not affect a character's maximum [Dexterity](gettingStarte
 
 _Shields_: If a character is wearing armor and using a shield, both armor check penalties apply.
 
-_Nonproficient with Armor Worn_: A character who wears armor and_dir/or uses a shield with which he is not proficient takes the armor's (and_dir/or shield's) armor check penalty on attack rolls as well as on all [Dexterity](gettingStarted#_dexterity)- and [Strength](gettingStarted#_strength)-based ability and skill checks. The penalty for nonproficiency with armor stacks with the penalty for shields.
+_Nonproficient with Armor Worn_: A character who wears armor and/or uses a shield with which he is not proficient takes the armor's (and/or shield's) armor check penalty on attack rolls as well as on all [Dexterity](gettingStarted#_dexterity)- and [Strength](gettingStarted#_strength)-based ability and skill checks. The penalty for nonproficiency with armor stacks with the penalty for shields.
 
 _Sleeping in Armor_: A character who sleeps in medium or heavy armor is automatically fatigued the next day. He takes a –2 penalty on [Strength](gettingStarted#_strength) and [Dexterity](gettingStarted#_dexterity) and can't charge or run. Sleeping in light armor does not cause fatigue.
 
@@ -498,7 +498,7 @@ _Shields_: Shields do not affect a character's speed.
 ## Armor Descriptions
 
 [Table: Armor and Shields]
-| Armor | Cost | Armor_dir/Shield Bonus | Maximum [Dex](gettingStarted#_dexterity) Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed | Weightⁱ |
+| Armor | Cost | Armor/Shield Bonus | Maximum [Dex](gettingStarted#_dexterity) Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed | Weightⁱ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 30 ft. | 20 ft. |
 | --- | --- |
@@ -526,7 +526,7 @@ _Shields_: Shields do not affect a character's speed.
 | Shield, tower | 30 gp | +4⁳ | +2 | –10 | 50% | — | — | 45 lbs. |
 | _Extras _ |
 | Armor spikes | +50 gp | — | — | — | — | — | — | +10 lbs. |
-| Gauntlet, locked | 8 gp | — | — | special | n_dir/a⁴ | — | — | +5 lbs. |
+| Gauntlet, locked | 8 gp | — | — | special | n/a⁴ | — | — | +5 lbs. |
 | Shield spikes | +10 gp | — | — | — | — | — | — | +5 lbs. |
 
 Any special benefits or accessories to the types of armor found on Table: Armor and Shields are described below.
@@ -606,8 +606,8 @@ You can't add the masterwork quality to armor or a shield after it is created; i
 | --- | --- | --- |
 | Cost | Weight | Cost | Weight |
 | --- | --- | --- | --- |
-| Tiny or smaller\* | ×1_dir/2 | ×1_dir/10 | ×1 | ×1_dir/10 |
-| Small | ×1 | ×1_dir/2 | ×2 | ×1_dir/2 |
+| Tiny or smaller\* | ×1/2 | ×1/10 | ×1 | ×1/10 |
+| Small | ×1 | ×1/2 | ×2 | ×1/2 |
 | Medium | ×1 | ×1 | ×2 | ×1 |
 | Large | ×2 | ×2 | ×4 | ×2 |
 | Huge | ×4 | ×5 | ×8 | ×5 |
@@ -629,7 +629,7 @@ The time required to don armor depends on its type; see Table: Donning Armor.
 [Table: Donning Armor]
 | Armor Type | Don | Don Hastily | Remove |
 | --- | --- | --- | --- |
-| Shield (any) | 1 move action | n_dir/a | 1 move action |
+| Shield (any) | 1 move action | n/a | 1 move action |
 | Padded, leather, hide, studded leather, or chain shirt | 1 minute | 5 rounds | 1 minuteⁱ |
 | Breastplate, scale mail, chainmail, banded mail, or splint mail | 4 minutesⁱ | 1 minute | 1 minuteⁱ |
 | Half-plate or full plate | 4 minutes⁲ | 4 minutesⁱ | 1d4+1 minutesⁱ |
@@ -640,7 +640,7 @@ Weapons and armor can be crafted using materials that possess innate special pro
 
 Each of the special materials described below has a definite game effect. Some creatures have damage reduction making them resistant to all but a special type of damage, such as that dealt by evil-aligned weapons or bludgeoning weapons. Others are vulnerable to weapons of a particular material. Characters may choose to carry several different types of weapons, depending upon the types of creatures they most commonly encounter.
 
-**Adamantine** : Mined from rocks that fell from the heavens, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons fashioned from adamantine have a natural ability to bypass hardness when sundering weapons or attacking objects, ignoring hardness less than 20 (see [Additional Rules](additionalRules)). Armor made from adamantine grants its wearer damage reduction of 1_dir/— if it's light armor, 2_dir/— if it's medium armor, and 3_dir/— if it's heavy armor. Adamantine is so costly that weapons and armor made from it are always of masterwork quality; the masterwork cost is included in the prices given below. Thus, adamantine weapons and ammunition have a +1 enhancement bonus on attack rolls, and the armor check penalty of adamantine armor is lessened by 1 compared to ordinary armor of its type. Items without metal parts cannot be made from adamantine. An arrow could be made of adamantine, but a quarterstaff could not.
+**Adamantine** : Mined from rocks that fell from the heavens, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons fashioned from adamantine have a natural ability to bypass hardness when sundering weapons or attacking objects, ignoring hardness less than 20 (see [Additional Rules](additionalRules)). Armor made from adamantine grants its wearer damage reduction of 1/— if it's light armor, 2/— if it's medium armor, and 3/— if it's heavy armor. Adamantine is so costly that weapons and armor made from it are always of masterwork quality; the masterwork cost is included in the prices given below. Thus, adamantine weapons and ammunition have a +1 enhancement bonus on attack rolls, and the armor check penalty of adamantine armor is lessened by 1 compared to ordinary armor of its type. Items without metal parts cannot be made from adamantine. An arrow could be made of adamantine, but a quarterstaff could not.
 
 Weapons and armor normally made of steel that are made of adamantine have one-third more hit points than normal. Adamantine has 40 hit points per inch of thickness and hardness 20.
 
@@ -662,7 +662,7 @@ Because dragonhide armor isn't made of metal, druids can wear it without penalty
 
 Dragonhide armor costs twice as much as masterwork armor of that type, but it takes no longer to make than ordinary armor of that type (double all Craft results).
 
-Dragonhide has 10 hit points per inch of thickness and hardness 10. The hide of a dragon is typically between 1_dir/2 inch and 1 inch thick.
+Dragonhide has 10 hit points per inch of thickness and hardness 10. The hide of a dragon is typically between 1/2 inch and 1 inch thick.
 
 **Iron, Cold** : This iron, mined deep underground and known for its effectiveness against demons and fey creatures, is forged at a lower temperature to preserve its delicate properties. Weapons made of cold iron cost twice as much to make as their normal counterparts. Also, adding any magical enhancements to a cold iron weapon increases its price by 2,000 gp. This increase is applied the first time the item is enhanced, not once per ability added.
 
@@ -684,7 +684,7 @@ Mithral has 30 hit points per inch of thickness and hardness 15.
 | Medium armor | +4,000 gp |
 | Heavy armor | +9,000 gp |
 | Shield | +1,000 gp |
-| Other items | +500 gp_dir/lb. |
+| Other items | +500 gp/lb. |
 
 **Silver, Alchemical** : A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as lycanthropes.
 
@@ -718,7 +718,7 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 | Caltrops | 1 gp | 2 lbs. |
 | Candle | 1 cp | — |
 | Canvas (sq. yd.) | 1 sp | 1 lb. |
-| Case, map or scroll | 1 gp | 1_dir/2 lb. |
+| Case, map or scroll | 1 gp | 1/2 lb. |
 | Chain (10 ft.) | 30 gp | 2 lbs. |
 | Chalk, 1 piece | 1 cp | — |
 | Chest (empty) | 2 gp | 25 lbs. |
@@ -726,7 +726,7 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 | Firewood (per day) | 1 cp | 20 lbs. |
 | Fishhook | 1 sp | — |
 | Fishing net, 25 sq. ft. | 4 gp | 5 lbs. |
-| Flask (empty) | 3 cp | 1-1_dir/2 lbs. |
+| Flask (empty) | 3 cp | 1-1/2 lbs. |
 | Flint and steel | 1 gp | — |
 | Grappling hook | 1 gp | 4 lbs. |
 | Hammer | 5 sp | 2 lbs. |
@@ -745,22 +745,22 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 | Superior | 150 gp | 1 lb. |
 | Manacles | 15 gp | 2 lbs. |
 | Manacles, masterwork | 50 gp | 2 lbs. |
-| Mirror, small steel | 10 gp | 1_dir/2 lb. |
-| Mug_dir/Tankard, clay | 2 cp | 1 lb. |
+| Mirror, small steel | 10 gp | 1/2 lb. |
+| Mug/Tankard, clay | 2 cp | 1 lb. |
 | Oil (1-pint flask) | 1 sp | 1 lb. |
 | Paper (sheet) | 4 sp | — |
 | Parchment (sheet) | 2 sp | — |
 | Pick, miner's | 3 gp | 10 lbs. |
 | Pitcher, clay | 2 cp | 5 lbs. |
-| Piton | 1 sp | 1_dir/2 lb. |
+| Piton | 1 sp | 1/2 lb. |
 | Pole, 10-foot | 5 cp | 8 lbs. |
 | Pot, iron | 8 sp | 4 lbs. |
-| Pouch, belt (empty) | 1 gp | 1_dir/2 lb.ⁱ |
+| Pouch, belt (empty) | 1 gp | 1/2 lb.ⁱ |
 | Ram, portable | 10 gp | 20 lbs. |
 | Rations, trail (per day) | 5 sp | 1 lb.ⁱ |
 | Rope, hemp (50 ft.) | 1 gp | 10 lbs. |
 | Rope, silk (50 ft.) | 10 gp | 5 lbs. |
-| Sack (empty) | 1 sp | 1_dir/2 lb.ⁱ |
+| Sack (empty) | 1 sp | 1/2 lb.ⁱ |
 | Sealing wax | 1 gp | 1 lb. |
 | Sewing needle | 5 sp | — |
 | Shovel or spade | 2 gp | 8 lbs. |
@@ -784,7 +784,7 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 | Antitoxin (vial) | 50 gp | — |
 | Everburning torch | 110 gp | 1 lb. |
 | Holy water (flask) | 25 gp | 1 lb. |
-| Smokestick | 20 gp | 1_dir/2 lb. |
+| Smokestick | 20 gp | 1/2 lb. |
 | Sunrod | 2 gp | 1 lb. |
 | Tanglefoot bag | 50 gp | 4 lbs. |
 | Thunderstone | 30 gp | 1 lb. |
@@ -835,8 +835,8 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 | Gallon | 2 sp | 8 lbs. |
 | Mug | 4 cp | 1 lb. |
 | Banquet (per person) | 10 gp | — |
-| Bread, loaf of | 2 cp | 1_dir/2 lb. |
-| Cheese, hunk of | 1 sp | 1_dir/2 lb. |
+| Bread, loaf of | 2 cp | 1/2 lb. |
+| Cheese, hunk of | 1 sp | 1/2 lb. |
 | Inn stay (per day) |
 | Good | 2 gp | — |
 | Common | 5 sp | — |
@@ -845,10 +845,10 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 | Good | 5 sp | — |
 | Common | 3 sp | — |
 | Poor | 1 sp | — |
-| Meat, chunk of | 3 sp | 1_dir/2 lb. |
+| Meat, chunk of | 3 sp | 1/2 lb. |
 | Wine |
 | Common (pitcher) | 2 sp | 6 lbs. |
-| Fine (bottle) | 10 gp | 1-1_dir/2 lbs. |
+| Fine (bottle) | 10 gp | 1-1/2 lbs. |
 | _ **Mounts and Related Gear** _ |
 | --- |
 | Item | Cost | Weight |
@@ -1130,7 +1130,7 @@ The prices listed are to purchase the vehicle. These prices generally exclude cr
 
 **Longship** : This 75-foot-long ship with 40 oars requires a total crew of 50. It has a single mast and a square sail, and it can carry 50 tons of cargo or 120 soldiers. A longship can make sea voyages. It moves about 3 miles per hour when being rowed or under sail.
 
-**Rowboat** : This 8- to 12-foot-long boat with two oars holds two or three Medium passengers. It moves about 1-1_dir/2 miles per hour.
+**Rowboat** : This 8- to 12-foot-long boat with two oars holds two or three Medium passengers. It moves about 1-1/2 miles per hour.
 
 **Sailing Ship** : This large, seaworthy ship is 75 to 90 feet long and 20 feet wide, and has a crew of 20. It can carry 150 tons of cargo. It has square sails on its two masts and can make sea voyages. It moves about 2 miles per hour.
 
@@ -1138,7 +1138,7 @@ The prices listed are to purchase the vehicle. These prices generally exclude cr
 
 **Wagon** : A four-wheeled, open vehicle for transporting heavy loads. Two horses (or other beasts of burden) must draw it. A wagon comes with the harness needed to pull it.
 
-**Warship** : This 100-foot-long ship has a single mast, although oars can also propel it. It has a crew of 60 to 80 rowers. This ship can carry 160 soldiers, but not for long distances, since there isn't room for supplies to support that many people. The warship cannot make sea voyages and sticks to the coast. It is not used for cargo. It moves about 2-1_dir/2 miles per hour when being rowed or under sail.
+**Warship** : This 100-foot-long ship has a single mast, although oars can also propel it. It has a crew of 60 to 80 rowers. This ship can carry 160 soldiers, but not for long distances, since there isn't room for supplies to support that many people. The warship cannot make sea voyages and sticks to the coast. It is not used for cargo. It moves about 2-1/2 miles per hour when being rowed or under sail.
 
 ## Spellcasting and Services
 
@@ -1158,7 +1158,7 @@ Sometimes the best solution to a problem is to hire someone else to take care of
 
 **Spellcasting** : The indicated amount is how much it costs to get a spellcaster to cast a spell for you. This cost assumes that you can go to the spellcaster and have the spell cast at his convenience (generally at least 24 hours later, so that the spellcaster has time to prepare the spell in question). If you want to bring the spellcaster somewhere to cast a spell you need to negotiate with him, and the default answer is no.
 
-The cost given is for any spell that does not require a costly material component. If the spell includes a material component, add the cost of that component to the cost of the spell. If the spell has a focus component (other than a divine focus), add 1_dir/10 the cost of that focus to the cost of the spell.
+The cost given is for any spell that does not require a costly material component. If the spell includes a material component, add the cost of that component to the cost of the spell. If the spell has a focus component (other than a divine focus), add 1/10 the cost of that focus to the cost of the spell.
 
 Furthermore, if a spell has dangerous consequences, the spellcaster will certainly require proof that you can and will pay for dealing with any such consequences (that is, assuming that the spellcaster even agrees to cast such a spell, which isn't certain). In the case of spells that transport the caster and characters over a distance, you will likely have to pay for two castings of the spell, even if you aren't returning with the caster.
 

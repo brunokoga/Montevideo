@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/repelVermin
+title: spells/repelVermin
 ---
  **Repel Vermin**
 
@@ -14,7 +14,7 @@ title: spells_dir/repelVermin
 
 **Area** 10-ft.-radius emanation centered on you
 
-**Duration** 10 min._dir/level (D)
+**Duration** 10 min./level (D)
 
 **Saving Throw** none or [Will](../combat#_will) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/controlWinds
+title: spells/controlWinds
 ---
  **Control Winds**
 
@@ -10,11 +10,11 @@ title: spells_dir/controlWinds
 
 **Components** V, S
 
-**Range** 40 ft._dir/level
+**Range** 40 ft./level
 
-**Area** 40 ft._dir/level radius cylinder 40 ft. high
+**Area** 40 ft./level radius cylinder 40 ft. high
 
-**Duration** 10 min._dir/level
+**Duration** 10 min./level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates; **[Spell Resistance](../glossary#_spell-resistance)** no
 

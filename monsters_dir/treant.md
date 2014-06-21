@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/treant
+title: monsters/treant
 ---
 # Treant
 
@@ -12,7 +12,7 @@ _This animated tree's bark is knotted into vaguely humanoid features, with branc
 
 NG Huge [plant](creatureTypes#_plant)
 
-**Init** –1; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +12
+**Init** –1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +12
 
 **Defense**
 
@@ -22,7 +22,7 @@ NG Huge [plant](creatureTypes#_plant)
 
 **Fort** +13, **Ref** +3, **Will** +9
 
-**Immune** [plant traits](universalMonsterRules#_plant-traits); **DR** 10_dir/slashing
+**Immune** [plant traits](universalMonsterRules#_plant-traits); **DR** 10/slashing
 
 **Weaknesses** vulnerability to fire
 
@@ -30,7 +30,7 @@ NG Huge [plant](creatureTypes#_plant)
 
 **Speed** 30 ft.
 
-**Melee** 2 slams +17 (2d6+9_dir/19–20)
+**Melee** 2 slams +17 (2d6+9/19–20)
 
 **Ranged** rock +7 (2d6+13)
 
@@ -46,7 +46,7 @@ NG Huge [plant](creatureTypes#_plant)
 
 **Feats** [Alertness](../feats#_alertness), [Improved Critical](../feats#_improved-critical) (slam), [Improved Sunder](../feats#_improved-sunder), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (slam)
 
-**Skills** [Diplomacy](../skills_dir/diplomacy#_diplomacy) +9, [Intimidate](../skills_dir/intimidate#_intimidate) +9, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +9, [Perception](../skills_dir/perception#_perception) +12, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +9, [Stealth](../skills_dir/stealth#_stealth) –9 (+7 in forests); **Racial Modifiers** +16 [Stealth](../skills_dir/stealth#_stealth) in forests
+**Skills** [Diplomacy](../skills/diplomacy#_diplomacy) +9, [Intimidate](../skills/intimidate#_intimidate) +9, [Knowledge](../skills/knowledge#_knowledge) (nature) +9, [Perception](../skills/perception#_perception) +12, [Sense Motive](../skills/senseMotive#_sense-motive) +9, [Stealth](../skills/stealth#_stealth) –9 (+7 in forests); **Racial Modifiers** +16 [Stealth](../skills/stealth#_stealth) in forests
 
 **Languages** Common, Sylvan, Treant
 
@@ -66,7 +66,7 @@ NG Huge [plant](creatureTypes#_plant)
 
 **Double Damage Against Objects (Ex)** A treant or animated tree that makes a full attack against an object or structure deals double damage.
 
-**Treespeech (Ex)** A treant has the ability to converse with plants as if subject to a continual _ [speak with plants](../spells_dir/speakWithPlants#_speak-with-plants)_ spell, and most plants greet them with an attitude of friendly or helpful.
+**Treespeech (Ex)** A treant has the ability to converse with plants as if subject to a continual _ [speak with plants](../spells/speakWithPlants#_speak-with-plants)_ spell, and most plants greet them with an attitude of friendly or helpful.
 
 Treants are guardians of the forest and speakers for the trees. As long-lived as the forests themselves, and seeing themselves as parents and shepherds rather than gardeners, treants are slow and methodical in most things but terrifying when forced to fight in defense of their flock. Though they rarely seek out the companionship of the short-lived races, and have an inherent distrust of change, they have been known to tolerate those who seek to learn from their long, rambling monologues, especially if the pupils express a desire to help protect the wildlands. Yet against those who would threaten the forest, especially loggers who seek to harvest wood for lumber or those who try to clearcut a section of forest in order to build a fort or establish a town, the treants' wrath is swift and devastating. They are particularly gifted at tearing down what others build—a trait that serves angry treants well.
 

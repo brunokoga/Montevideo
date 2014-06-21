@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/acidFog
+title: spells/acidFog
 ---
  **Acid Fog**
 
-**School** conjuration (creation) [acid]; **Level** sorcerer_dir/wizard 6
+**School** conjuration (creation) [acid]; **Level** sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (powdered peas and an animal hoof)
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Effect** fog spreads in 20-ft. radius, 20 ft. high
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

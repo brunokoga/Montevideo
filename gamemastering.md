@@ -36,11 +36,11 @@ Step 1—Determine APL: Determine the average level of your player characters—
 | --- | --- | --- |
 | 1-3 | 4-5 | 6+ |
 | --- | --- | --- |
-| 1_dir/8 | 50 | 15 | 15 | 10 |
-| 1_dir/6 | 65 | 20 | 15 | 10 |
-| 1_dir/4 | 100 | 35 | 25 | 15 |
-| 1_dir/3 | 135 | 45 | 35 | 25 |
-| 1_dir/2 | 200 | 65 | 50 | 35 |
+| 1/8 | 50 | 15 | 15 | 10 |
+| 1/6 | 65 | 20 | 15 | 10 |
+| 1/4 | 100 | 35 | 25 | 15 |
+| 1/3 | 135 | 45 | 35 | 25 |
+| 1/2 | 200 | 65 | 50 | 35 |
 | 1 | 400 | 135 | 100 | 65 |
 | 2 | 600 | 200 | 150 | 100 |
 | 3 | 800 | 265 | 200 | 135 |
@@ -73,7 +73,7 @@ Step 3—Build the Encounter: Determine the total XP award for the encounter by 
 
 For example, let's say you want your group of six 8th-level PCs to face a challenging encounter against a group of gargoyles (each CR 4) and their stone giant boss (CR 8). The PCs have an APL of 9, and table 12–1 tells you that a challenging encounter for your APL 9 group is a CR 10 encounter—worth 9,600 XP according to Table: Experience Point Awards. At CR 8, the stone giant is worth 4,800 XP, leaving you with another 4,800 points in your XP budget for the gargoyles. Gargoyles are CR 4 each, and thus worth 1,200 XP apiece, meaning that the encounter can support four gargoyles in its XP budget. You could further refine the encounter by including only three gargoyles, leaving you with 1,200 XP to spend on a trio of Small earth elemental servants (at CR 1, each is worth 400 XP) to further aid the stone giant.
 
-Adding NPCs: Creatures whose Hit Dice are solely a factor of their class levels and not a feature of their race, such as all of the PC races detailed in [Races](races), are factored into combats a little differently than normal monsters or monsters with class levels. A creature that possesses class levels, but does not have any racial Hit Dice, is factored in as a creature with a CR equal to its class levels –1. A creature that only possesses [non-player class](nPCClasses) levels (such as a warrior or adept) is factored in as a creature with a CR equal to its class levels –2. If this reduction would reduce a creature's CR to below 1, its CR drops one step on the following progression for each step below 1 this reduction would make: 1_dir/2, 1_dir/3, 1_dir/4, 1_dir/6, 1_dir/8.
+Adding NPCs: Creatures whose Hit Dice are solely a factor of their class levels and not a feature of their race, such as all of the PC races detailed in [Races](races), are factored into combats a little differently than normal monsters or monsters with class levels. A creature that possesses class levels, but does not have any racial Hit Dice, is factored in as a creature with a CR equal to its class levels –1. A creature that only possesses [non-player class](nPCClasses) levels (such as a warrior or adept) is factored in as a creature with a CR equal to its class levels –2. If this reduction would reduce a creature's CR to below 1, its CR drops one step on the following progression for each step below 1 this reduction would make: 1/2, 1/3, 1/4, 1/6, 1/8.
 
 High CR Encounters: The XP values for high-CR encounters can seem quite daunting. Table: CR Equivalencies provides some simple formulas to help you manage these large numbers. When using a large number of identical creatures, this chart can help simplify the math by combining them into one CR, making it easier to find their total XP value. For example, using this chart, four CR 8 creatures (worth 4,800 XP each) are equivalent to a CR 12 creature (worth 19,200 XP).
 
@@ -210,15 +210,15 @@ An adventurer's primary source of income is treasure, and his primary purchases 
 
 You can certainly handle these minor expenditures in detail during play, but tracking every time a PC pays for a room, buys water, or pays a gate tax can swiftly become obnoxious and tiresome. If you're not really into tracking these minor costs of living, you can choose to simply ignore these small payments. A more realistic and easier-to-use method is to have PCs pay a recurring cost of living tax. At the start of every game month, a PC must pay an amount of gold equal to the lifestyle bracket he wishes to live in—if he can't afford his desired bracket, he drops down to the first one he can afford.
 
-Destitute (0 gp_dir/month): The PC is homeless and lives in the wilderness or on the streets. A destitute character must track every purchase, and may need to resort to Survival checks or theft to feed himself.
+Destitute (0 gp/month): The PC is homeless and lives in the wilderness or on the streets. A destitute character must track every purchase, and may need to resort to Survival checks or theft to feed himself.
 
-Poor (3 gp_dir/month): The PC lives in common rooms of taverns, with his parents, or in some other communal situation—this is the lifestyle of most untrained laborers and commoners. He need not track purchases of meals or taxes that cost 1 sp or less.
+Poor (3 gp/month): The PC lives in common rooms of taverns, with his parents, or in some other communal situation—this is the lifestyle of most untrained laborers and commoners. He need not track purchases of meals or taxes that cost 1 sp or less.
 
-Average (10 gp_dir/month): The PC lives in his own apartment, small house, or similar location—this is the lifestyle of most trained or skilled experts or warriors. He can secure any nonmagical item worth 1 gp or less from his home in 1d10 minutes, and need not track purchases of common meals or taxes that cost 1 gp or less.
+Average (10 gp/month): The PC lives in his own apartment, small house, or similar location—this is the lifestyle of most trained or skilled experts or warriors. He can secure any nonmagical item worth 1 gp or less from his home in 1d10 minutes, and need not track purchases of common meals or taxes that cost 1 gp or less.
 
-Wealthy (100 gp_dir/month): The PC has a sizable home or a nice suite of rooms in a fine inn. He can secure any nonmagical item worth 5 gp or less from his belongings in his home in 1d10 minutes, and need only track purchases of meals or taxes in excess of 10 gp.
+Wealthy (100 gp/month): The PC has a sizable home or a nice suite of rooms in a fine inn. He can secure any nonmagical item worth 5 gp or less from his belongings in his home in 1d10 minutes, and need only track purchases of meals or taxes in excess of 10 gp.
 
-Extravagant (1,000 gp_dir/month): The PC lives in a mansion, castle, or other extravagant home—he might even own the building in question. This is the lifestyle of most aristocrats. He can secure any nonmagical item worth 25 gp or less from his belongings in his home in 1d10 minutes. He need only track purchases of meals or taxes in excess of 100 gp.
+Extravagant (1,000 gp/month): The PC lives in a mansion, castle, or other extravagant home—he might even own the building in question. This is the lifestyle of most aristocrats. He can secure any nonmagical item worth 25 gp or less from his belongings in his home in 1d10 minutes. He need only track purchases of meals or taxes in excess of 100 gp.
 
 # Beyond 20th Level
 
@@ -238,5 +238,5 @@ Spellcasters who have a limited number of spells known (such as bards and sorcer
 
 You might want to further adjust the rate of spell level gain for classes (like paladins and rangers) who gain spells more slowly than more dedicated spellcaster classes.
 
-Multiclassing_dir/Prestige Classes: The simplest way to progress beyond 20th level is to simply multiclass or take levels in a prestige class, in which case you gain all of the abilities of the new class level normally. This effectively treats 20th level as a hard limit for class level, but not as a hard limit for total character level.
+Multiclassing/Prestige Classes: The simplest way to progress beyond 20th level is to simply multiclass or take levels in a prestige class, in which case you gain all of the abilities of the new class level normally. This effectively treats 20th level as a hard limit for class level, but not as a hard limit for total character level.
 

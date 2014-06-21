@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/dispelChaos
+title: spells/dispelChaos
 ---
  **Dispel Chaos**
 

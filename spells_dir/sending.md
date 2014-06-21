@@ -1,14 +1,14 @@
 ---
 layout: default
-title: spells_dir/sending
+title: spells/sending
 ---
  **Sending**
 
-**School** evocation; **Level** cleric 4, sorcerer_dir/wizard 5
+**School** evocation; **Level** cleric 4, sorcerer/wizard 5
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M_dir/DF (fine copper wire)
+**Components** V, S, M/DF (fine copper wire)
 
 **Range** see text
 

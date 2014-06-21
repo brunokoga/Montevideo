@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/solidNote
+title: advanced/spells/solidNote
 ---
  **Solid Note**
 
@@ -10,11 +10,11 @@ title: advanced_dir/spells_dir/solidNote
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** one solidified musical note
 
-**Duration** concentration + 1 round_dir/level
+**Duration** concentration + 1 round/level
 
 **Saving Throw** none; **Spell Resistance** no
 

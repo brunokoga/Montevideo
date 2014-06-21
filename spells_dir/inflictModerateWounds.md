@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/inflictModerateWounds
+title: spells/inflictModerateWounds
 ---
  **Inflict Moderate Wounds**
 

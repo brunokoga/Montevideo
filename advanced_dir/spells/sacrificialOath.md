@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/sacrificialOath
+title: advanced/spells/sacrificialOath
 ---
  **Sacrificial Oath**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/sacrificialOath
 
 **Target** creature touched
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

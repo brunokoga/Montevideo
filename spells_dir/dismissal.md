@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/dismissal
+title: spells/dismissal
 ---
  **Dismissal**
 
-**School** abjuration; **Level** cleric 4, sorcerer_dir/wizard 5
+**School** abjuration; **Level** cleric 4, sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one extraplanar creature
 

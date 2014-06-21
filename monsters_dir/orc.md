@@ -1,12 +1,12 @@
 ---
 layout: default
-title: monsters_dir/orc
+title: monsters/orc
 ---
 # Orc
 
 _This savage creature looks like a bestial version of a savage human, with green-gray skin and greasy black hair._
 
-**Orc CR 1_dir/3**
+**Orc CR 1/3**
 
 **XP 135**
 
@@ -14,7 +14,7 @@ Orc warrior 1
 
 CE Medium [humanoid](creatureTypes#_humanoid)
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) –1
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) –1
 
 **Defense**
 
@@ -32,7 +32,7 @@ CE Medium [humanoid](creatureTypes#_humanoid)
 
 **Speed** 30 ft.
 
-**Melee** falchion +5 (2d4+4_dir/18–20)
+**Melee** falchion +5 (2d4+4/18–20)
 
 **Ranged** javelin +1 (1d6+3)
 
@@ -44,7 +44,7 @@ CE Medium [humanoid](creatureTypes#_humanoid)
 
 **Feats** [Weapon Focus](../feats#_weapon-focus) (falchion)
 
-**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +2
+**Skills** [Intimidate](../skills/intimidate#_intimidate) +2
 
 **Languages** Common, Orc
 

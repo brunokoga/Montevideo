@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/blessingOfCourageAndLife
+title: advanced/spells/blessingOfCourageAndLife
 ---
  **Blessing of Courage and Life**
 
@@ -10,11 +10,11 @@ title: advanced_dir/spells_dir/blessingOfCourageAndLife
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one living creature
 
-**Duration** 1 minute_dir/level (see below)
+**Duration** 1 minute/level (see below)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

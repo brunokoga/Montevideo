@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/hideFromUndead
+title: spells/hideFromUndead
 ---
  **Hide from Undead**
 
@@ -12,9 +12,9 @@ title: spells_dir/hideFromUndead
 
 **Range** touch
 
-**Targets** one touched creature_dir/level
+**Targets** one touched creature/level
 
-**Duration** 10 min._dir/level (D)
+**Duration** 10 min./level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

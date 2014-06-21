@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/hypnotism
+title: spells/hypnotism
 ---
  **Hypnotism**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer_dir/wizard 1
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer/wizard 1
 
 **Casting Time** 1 round
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Area** several living creatures, no two of which may be more than 30 ft. apart
 

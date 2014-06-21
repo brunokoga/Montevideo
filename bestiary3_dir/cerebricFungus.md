@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/cerebricFungus
+title: bestiary3/cerebricFungus
 ---
 # Cerebric Fungus
 
@@ -12,7 +12,7 @@ XP 800
 
 N Medium plant
 
-**Init** +4; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +12
+**Init** +4; **Senses** darkvision 60 ft., low-light vision; [Perception](skills/perception#_perception) +12
 
 **Aura** unsettling appearance (60 ft., DC 14)
 
@@ -24,7 +24,7 @@ Defense
 
 **Fort** +7, **Ref** +1, **Will** +6
 
-**Defensive Abilities** otherworldly mind; **Immune** plant traits, **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 5
+**Defensive Abilities** otherworldly mind; **Immune** plant traits, **Resist** [cold](monsters/creatureTypes#_cold-subtype) 5
 
 **Weaknesses** vulnerable to sonic
 
@@ -40,11 +40,11 @@ Offense
 
 **Spell-Like Abilities** (CL 4th; concentration +6)
 
-Constant—_ [detect thoughts](spells_dir/detectThoughts#_detect-thoughts)_ (DC 14)
+Constant—_ [detect thoughts](spells/detectThoughts#_detect-thoughts)_ (DC 14)
 
 At will—touch of madness (DC 14)
 
-3_dir/day—_ [calm emotions](spells_dir/calmEmotions#_calm-emotions)_ (DC 14), _ [touch of idiocy](spells_dir/touchOfIdiocy#_touch-of-idiocy)_ (DC 14)
+3/day—_ [calm emotions](spells/calmEmotions#_calm-emotions)_ (DC 14), _ [touch of idiocy](spells/touchOfIdiocy#_touch-of-idiocy)_ (DC 14)
 
 Statistics
 
@@ -52,9 +52,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +5; **CMD** 15 (21 vs. trip)
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Multiattack](monsters_dir/monsterFeats#_multiattack)
+**Feats** [Improved Initiative](feats#_improved-initiative), [Multiattack](monsters/monsterFeats#_multiattack)
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +6, [Diplomacy](skills_dir/diplomacy#_diplomacy) +6, [Perception](skills_dir/perception#_perception) +12, [Stealth](skills_dir/stealth#_stealth) +7
+**Skills** [Bluff](skills/bluff#_bluff) +6, [Diplomacy](skills/diplomacy#_diplomacy) +6, [Perception](skills/perception#_perception) +12, [Stealth](skills/stealth#_stealth) +7
 
 **Languages** telepathy 100 ft.
 

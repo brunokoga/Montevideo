@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/ape
+title: monsters/ape
 ---
 # Ape, Gorilla
 
@@ -12,7 +12,7 @@ _Large, deep-set eyes peer from beneath this great ape's thick brow as it lumber
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, scent; [Perception](../skills_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, scent; [Perception](../skills/perception#_perception) +8
 
 **Defense**
 
@@ -36,9 +36,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base**  **Atk** +2; **CMB** +5; **CMD** 17
 
-**Feats** [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +6, [Climb](../skills_dir/climb#_climb) +14, [Perception](../skills_dir/perception#_perception) +8
+**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +6, [Climb](../skills/climb#_climb) +14, [Perception](../skills/perception#_perception) +8
 
 **Ecology**
 
@@ -62,7 +62,7 @@ _Sharp teeth fill this large, feral ape's mouth, and its long, muscular arms str
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, scent; [Perception](../skills_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, scent; [Perception](../skills/perception#_perception) +8
 
 **Defense**
 
@@ -88,9 +88,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base Atk** +3; **CMB** +8; **CMD** 20
 
-**Feats** [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +6, [Climb](../skills_dir/climb#_climb) +16, [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +2
+**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +6, [Climb](../skills/climb#_climb) +16, [Perception](../skills/perception#_perception) +8, [Stealth](../skills/stealth#_stealth) +2
 
 **Ecology**
 

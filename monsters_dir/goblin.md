@@ -1,12 +1,12 @@
 ---
 layout: default
-title: monsters_dir/goblin
+title: monsters/goblin
 ---
 # Goblin
 
 _This creature stands barely three feet tall, its scrawny, humanoid body dwarfed by its wide, ungainly head._
 
-**Goblin CR 1_dir/3**
+**Goblin CR 1/3**
 
 **XP 135**
 
@@ -14,7 +14,7 @@ Goblin warrior 1
 
 NE Small [humanoid](creatureTypes#_humanoid) (goblinoid)
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) –1
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) –1
 
 **Defense**
 
@@ -28,9 +28,9 @@ NE Small [humanoid](creatureTypes#_humanoid) (goblinoid)
 
 **Speed** 30 ft.
 
-**Melee** short sword +2 (1d4_dir/19–20)
+**Melee** short sword +2 (1d4/19–20)
 
-**Ranged** short bow +4 (1d4_dir/×3)
+**Ranged** short bow +4 (1d4/×3)
 
 **Statistics**
 
@@ -40,7 +40,7 @@ NE Small [humanoid](creatureTypes#_humanoid) (goblinoid)
 
 **Feats** [Improved Initiative](../feats#_improved-initiative)
 
-**Skills** [Ride](../skills_dir/ride#_ride) +10, [Stealth](../skills_dir/stealth#_stealth) +10, [Swim](../skills_dir/swim#_swim) +4; **Racial Modifiers** +4 [Ride](../skills_dir/ride#_ride), +4 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Ride](../skills/ride#_ride) +10, [Stealth](../skills/stealth#_stealth) +10, [Swim](../skills/swim#_swim) +4; **Racial Modifiers** +4 [Ride](../skills/ride#_ride), +4 [Stealth](../skills/stealth#_stealth)
 
 **Languages** Goblin
 
@@ -66,13 +66,13 @@ Goblins are defined by their class levels—they do not possess racial Hit Dice.
 
 **–2 Strength, +4 Dexterity, –2 Charisma** : Goblins are fast, but weak and unpleasant to be around.
 
-**Small** : Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](../skills_dir/stealth#_stealth) checks.
+**Small** : Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](../skills/stealth#_stealth) checks.
 
 **Fast** : Goblins are fast for their size, and have a base speed of 30 feet.
 
 **Darkvision** : Goblins can see in the dark up to 60 feet.
 
-**Skilled** : +4 racial bonus on [Ride](../skills_dir/ride#_ride) and [Stealth](../skills_dir/stealth#_stealth) checks.
+**Skilled** : +4 racial bonus on [Ride](../skills/ride#_ride) and [Stealth](../skills/stealth#_stealth) checks.
 
 **Languages** : Goblins begin play speaking Goblin. Goblins with high Intelligence scores can choose any of these bonus languages: Common, Draconic, Dwarven, Gnoll, Gnome, Halfling, Orc.
 

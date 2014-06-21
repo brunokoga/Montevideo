@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/kappa
+title: bestiary3/kappa
 ---
 # Kappa
 
@@ -10,9 +10,9 @@ Kappa CR 2
 
 XP 600
 
-CN Small monstrous humanoid ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
+CN Small monstrous humanoid ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +2
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +2
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +4, **Ref** +6, **Will** +5
 
-**Resist** acid 5, [cold](monsters_dir/creatureTypes#_cold-subtype) 5
+**Resist** acid 5, [cold](monsters/creatureTypes#_cold-subtype) 5
 
 **Weaknesses** head bowl
 
@@ -30,9 +30,9 @@ Offense
 
 **Speed** 20 ft., swim 40 ft.
 
-**Melee** 2 claws +5 (1d3+1 plus [grab](monsters_dir/universalMonsterRules#_grab))
+**Melee** 2 claws +5 (1d3+1 plus [grab](monsters/universalMonsterRules#_grab))
 
-**Special Attacks** [grab](monsters_dir/universalMonsterRules#_grab) (Medium), [rake](monsters_dir/universalMonsterRules#_rake) (2 claws +5, 1d3+1)
+**Special Attacks** [grab](monsters/universalMonsterRules#_grab) (Medium), [rake](monsters/universalMonsterRules#_rake) (2 claws +5, 1d3+1)
 
 Statistics
 
@@ -42,7 +42,7 @@ Statistics
 
 **Feats** [Great Fortitude](feats#_great-fortitude), [Nimble Moves](feats#_nimble-moves)
 
-**Skills** [Escape Artist](skills_dir/escapeArtist#_escape-artist) +10, [Heal](skills_dir/heal#_heal) +5, [Sense Motive](skills_dir/senseMotive#_sense-motive) +5, [Swim](skills_dir/swim#_swim) +9; **Racial Modifiers** +4 [Escape Artist](skills_dir/escapeArtist#_escape-artist)
+**Skills** [Escape Artist](skills/escapeArtist#_escape-artist) +10, [Heal](skills/heal#_heal) +5, [Sense Motive](skills/senseMotive#_sense-motive) +5, [Swim](skills/swim#_swim) +9; **Racial Modifiers** +4 [Escape Artist](skills/escapeArtist#_escape-artist)
 
 **Languages** Aquan, Common
 

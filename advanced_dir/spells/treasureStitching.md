@@ -1,20 +1,20 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/treasureStitching
+title: advanced/spells/treasureStitching
 ---
  **Treasure Stitching**
 
-**School** transmutation; **Level** bard 4, cleric 5, sorcerer_dir/wizard 5
+**School** transmutation; **Level** bard 4, cleric 5, sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a piece of embroidered cloth no larger than 10-ft. square worth 100 gp)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Targets** all objects on cloth
 
-**Duration** 1 day_dir/level (D)
+**Duration** 1 day/level (D)
 
 **Saving Throw** Fortitude negates (object); **Spell Resistance** yes (object)
 

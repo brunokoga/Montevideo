@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/purifiedCalling
+title: advanced/spells/purifiedCalling
 ---
  **Purified Calling**
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/colorSpray
+title: spells/colorSpray
 ---
  **Color Spray**
 
-**School** illusion (pattern) [mind-affecting]; **Level** sorcerer_dir/wizard 1
+**School** illusion (pattern) [mind-affecting]; **Level** sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCampaign_dir/campaignSystems_dir/investment
+title: ultimateCampaign/campaignSystems/investment
 ---
 # Investment
 
@@ -38,7 +38,7 @@ This list of investments is not meant to be exhaustive; NPC ingenuity could open
 
 **Exploration** : An explorer ends up being unreliable, greedy, or incautious, accidentally releasing ancient evils on an unsuspecting populace.
 
-**Granary_dir/Mill** : The building catches on fire, either from a simple accident or deliberate arson, and the aerosolized grain causes a massive explosion.
+**Granary/Mill** : The building catches on fire, either from a simple accident or deliberate arson, and the aerosolized grain causes a massive explosion.
 
 **Guild** : A rival guild targets the investor's employees, friends, family, or buildings.
 
@@ -68,7 +68,7 @@ This list of investments is not meant to be exhaustive; NPC ingenuity could open
 | Magical | 5% | 01—30 | 31—95 | 96—00 | 1d8+1 |
 | Military | 5% | 01—15 | 16—90 | 91—00 | 1d6+1 |
 | Exploration | 2% | 01—40 | 41—85 | 86—00 | 2d8+1 |
-| Granary_dir/Mill | 3% | 01—10 | 11—98 | 99—00 | 1d3+1 |
+| Granary/Mill | 3% | 01—10 | 11—98 | 99—00 | 1d3+1 |
 | _Guild_ |
 | Assassins' | 5% | 01—30 | 31—95 | 96—00 | 2d4+1 |
 | Crafting | 2% | 01—05 | 06—98 | 99—00 | 1d3+1 |

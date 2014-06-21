@@ -1,14 +1,14 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/sharedWrath
+title: advanced/spells/sharedWrath
 ---
  **Shared Wrath**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** inquisitor 4
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
-**Targets** up to one creature_dir/level, no two of which can be more than 30 ft. apart
+**Targets** up to one creature/level, no two of which can be more than 30 ft. apart
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/monsterCreation
+title: monsters/monsterCreation
 ---
 # Monster Creation
 
@@ -19,7 +19,7 @@ The first step in creating a new monster is to define its concept and role in th
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | High | Low |
 | --- | --- |
-| 1_dir/2 | 10 | 11 | 1 | 0 | 4 | 3 | 11 | 8 | 3 | 0 |
+| 1/2 | 10 | 11 | 1 | 0 | 4 | 3 | 11 | 8 | 3 | 0 |
 | 1 | 15 | 12 | 2 | 1 | 7 | 5 | 12 | 9 | 4 | 1 |
 | 2 | 20 | 14 | 4 | 3 | 10 | 7 | 13 | 9 | 5 | 1 |
 | 3 | 30 | 15 | 6 | 4 | 13 | 9 | 14 | 10 | 6 | 2 |
@@ -88,7 +88,7 @@ A creature's total number of Hit Dice depends on a number of factors, but the tw
 [Table: Creature Hit Dice]
 | Creature Type | Challenge Rating |
 | --- | --- |
-| 1_dir/2 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| 1/2 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Aberration](monstersByType#_appendix-8-monsters-by-type) | 1 | 2 | 3 | 4 | 5 | 7 | 9 | 10 | 12 | 14 | 15 | 16 | 17 | 19 | 20 | 22 | 24 | 26 | 28 | 30 | 34 |
 | [Animal](creatureTypes#_animal) | 1 | 2 | 3 | 4 | 5 | 7 | 9 | 10 | 12 | 14 | 15 | 16 | 17 | 19 | 20 | 22 | 24 | 26 | 28 | 30 | 34 |
@@ -121,7 +121,7 @@ A creature's total number of Hit Dice depends on a number of factors, but the tw
 
 Now that you have the creature's average statistics, it's time to pick its size. Most creatures range in size from Small to Huge, but other sizes are not uncommon. A creature's size sets a baseline for its physical ability scores and its natural weapon damage (as noted in the Natural Attacks description in the Universal Monster Rules—see Appendix 3, pages 297–306). You should pick a size that fits well with the creature's intended role in the game and Challenge Rating. If you decide to give a creature an unusual size for its CR or HD, you should justify the unusual choice in the monster's description to account for the discrepancy—in most cases, such unusually sized monsters should be highly magical in nature. See Table: Size for more information on creature sizes and expected scores.
 
-**Minimum_dir/Maximum CR** : These values list the minimum and the maximum challenge ratings a creature of the indicated size should fall between.
+**Minimum/Maximum CR** : These values list the minimum and the maximum challenge ratings a creature of the indicated size should fall between.
 
 **Base Str, Base Dex, Base Con** : These list the average scores for a creature of this size. Your specific monster's Strength, Dexterity, or Constitution might vary greatly from these numbers, but if they do, you should pay close attention to how these variances affect its other statistics.
 
@@ -190,36 +190,36 @@ When determining a creature's speed, first decide if it has any alternative mode
 [Table: Creature Statistics by Type]
 | Type | Hit Die | Base Attack Bonus (BAB) | Good Saving Throws | Skill Ranks\* |
 | --- | --- | --- | --- | --- |
-| [Aberration](monstersByType#_appendix-8-monsters-by-type) | d8 | HD × 3_dir/4 (Medium BAB) | Will | 4 + Int mod per HD |
-| [Animal](creatureTypes#_animal) | d8 | HD × 3_dir/4 (Medium BAB) | Fort, Ref | 2 + Int mod per HD |
+| [Aberration](monstersByType#_appendix-8-monsters-by-type) | d8 | HD × 3/4 (Medium BAB) | Will | 4 + Int mod per HD |
+| [Animal](creatureTypes#_animal) | d8 | HD × 3/4 (Medium BAB) | Fort, Ref | 2 + Int mod per HD |
 | [Construct](creatureTypes#_construct) | d10 | HD (Fast BAB) | — | 2 + Int mod per HD |
 | [Dragon](creatureTypes#_dragon) | d12 | HD (Fast BAB) | Fort, Ref, Will | 6 + Int mod per HD |
-| [Fey](creatureTypes#_fey) | d6 | HD × 1_dir/2 (Slow BAB) | Ref, Will | 6 + Int mod per HD |
-| [Humanoid](creatureTypes#_humanoid) | d8 | HD × 3_dir/4 (Medium BAB) | Varies (any one) | 2 + Int mod per HD |
+| [Fey](creatureTypes#_fey) | d6 | HD × 1/2 (Slow BAB) | Ref, Will | 6 + Int mod per HD |
+| [Humanoid](creatureTypes#_humanoid) | d8 | HD × 3/4 (Medium BAB) | Varies (any one) | 2 + Int mod per HD |
 | [Magical beast](creatureTypes#_magical-beast) | d10 | HD (Fast BAB) | Fort, Ref | 2 + Int mod per HD |
 | [Monstrous humanoid](creatureTypes#_monstrous-humanoid) | d10 | HD (Fast BAB) | Ref, Will | 4 + Int mod per HD |
-| [Ooze](creatureTypes#_ooze) | d8 | HD × 3_dir/4 (Medium BAB) | — | 2 + Int mod per HD |
+| [Ooze](creatureTypes#_ooze) | d8 | HD × 3/4 (Medium BAB) | — | 2 + Int mod per HD |
 | [Outsider](creatureTypes#_outsider) | d10 | HD (Fast BAB) | Varies (any two) | 6 + Int mod per HD |
-| [Plant](creatureTypes#_plant) | d8 | HD × 3_dir/4 (Medium BAB) | Fort | 2 + Int mod per HD |
-| [Undead](creatureTypes#_undead) | d8 | HD × 3_dir/4 (Medium BAB) | Will | 4 + Int mod per HD |
-| [Vermin](creatureTypes#_vermin) | d8 | HD × 3_dir/4 (Medium BAB) | Fort | 2 + Int mod per HD |
+| [Plant](creatureTypes#_plant) | d8 | HD × 3/4 (Medium BAB) | Fort | 2 + Int mod per HD |
+| [Undead](creatureTypes#_undead) | d8 | HD × 3/4 (Medium BAB) | Will | 4 + Int mod per HD |
+| [Vermin](creatureTypes#_vermin) | d8 | HD × 3/4 (Medium BAB) | Fort | 2 + Int mod per HD |
 
 ## Step 8: Special Abilities and Qualities
 
 Monsters are different from characters in that they can have all sorts of different special abilities and qualities. Each of these is tied closely to the creature's concept, allowing it to fill a specific role in the game. For examples, look at monsters in this book. Monsters should use abilities from the Universal Monster Rules whenever possible, instead of creating new yet similar abilities—when you do create new abilities, use the Universal Monster Rules as a template for how to present and create the new abilities.
 
-Most special abilities that cause damage, such as breath weapons, give a save (Fortitude, Reflex, or Will depending on the ability). The DC for almost all special abilities is equal to 10 + 1_dir/2 the creature's Hit Dice + a relevant ability modifier (usually Constitution or Charisma depending on the ability). Special abilities that add to melee and ranged attacks generally do not allow a save, as they rely on the attacks hitting to be useful.
+Most special abilities that cause damage, such as breath weapons, give a save (Fortitude, Reflex, or Will depending on the ability). The DC for almost all special abilities is equal to 10 + 1/2 the creature's Hit Dice + a relevant ability modifier (usually Constitution or Charisma depending on the ability). Special abilities that add to melee and ranged attacks generally do not allow a save, as they rely on the attacks hitting to be useful.
 
 Special senses and resistances to certain energy types are common in creatures of CR 5 and lower. Damage reduction, energy immunities, and regeneration are more common in creatures above CR 5. Spell resistance and immunities become more common above CR 10. As a general rule a creature's spell resitance should equal its CR + 11.
 
 [Table: XP and GP Values by CR]
 | CR | XP | Slow GP | Medium GP | Fast GP |
 | --- | --- | --- | --- | --- |
-| 1_dir/8 | 50 XP | 20 gp | 35 gp | 50 gp |
-| 1_dir/6 | 65 XP | 30 gp | 45 gp | 65 gp |
-| 1_dir/4 | 100 XP | 40 gp | 65 gp | 100 gp |
-| 1_dir/3 | 135 XP | 55 gp | 85 gp | 135 gp |
-| 1_dir/2 | 200 XP | 85 gp | 130 gp | 200 gp |
+| 1/8 | 50 XP | 20 gp | 35 gp | 50 gp |
+| 1/6 | 65 XP | 30 gp | 45 gp | 65 gp |
+| 1/4 | 100 XP | 40 gp | 65 gp | 100 gp |
+| 1/3 | 135 XP | 55 gp | 85 gp | 135 gp |
+| 1/2 | 200 XP | 85 gp | 130 gp | 200 gp |
 | 1 | 400 XP | 170 gp | 260 gp | 400 gp |
 | 2 | 600 XP | 350 gp | 550 gp | 800 gp |
 | 3 | 800 XP | 550 gp | 800 gp | 1,200 gp |

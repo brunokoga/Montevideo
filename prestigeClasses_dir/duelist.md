@@ -1,6 +1,6 @@
 ---
 layout: default
-title: prestigeClasses_dir/duelist
+title: prestigeClasses/duelist
 ---
 # Duelist
 
@@ -20,13 +20,13 @@ To qualify to become a duelist, a character must fulfill all the following crite
 
 **Base Attack Bonus** : +6.
 
-**Skills** : [Acrobatics](../skills_dir/acrobatics#_acrobatics) 2 ranks, [Perform](../skills_dir/perform#_perform) 2 ranks.
+**Skills** : [Acrobatics](../skills/acrobatics#_acrobatics) 2 ranks, [Perform](../skills/perform#_perform) 2 ranks.
 
 **Feats** : [Dodge](../feats#_dodge), [Mobility](../feats#_mobility), [Weapon Finesse](../feats#_weapon-finesse).
 
 ## Class Skills
 
-The duelist's class skills (and the key ability for each skill) are [Acrobatics](../skills_dir/acrobatics#_acrobatics) ( [Dex](../gettingStarted#_dexterity)), [Bluff](../skills_dir/bluff#_bluff) ( [Cha](../gettingStarted#_charisma-new)), [Escape Artist](../skills_dir/escapeArtist#_escape-artist) ( [Dex](../gettingStarted#_dexterity)), [Perception](../skills_dir/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Perform](../skills_dir/perform#_perform) ( [Cha](../gettingStarted#_charisma-new)), and [Sense Motive](../skills_dir/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)).
+The duelist's class skills (and the key ability for each skill) are [Acrobatics](../skills/acrobatics#_acrobatics) ( [Dex](../gettingStarted#_dexterity)), [Bluff](../skills/bluff#_bluff) ( [Cha](../gettingStarted#_charisma-new)), [Escape Artist](../skills/escapeArtist#_escape-artist) ( [Dex](../gettingStarted#_dexterity)), [Perception](../skills/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Perform](../skills/perform#_perform) ( [Cha](../gettingStarted#_charisma-new)), and [Sense Motive](../skills/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)).
 
 **Skill Ranks at Each Level** : 4 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -76,5 +76,5 @@ When making a precise strike, a duelist cannot attack with a weapon in her other
 
 **No Retreat (Ex)** : At 9th level, enemies adjacent to the duelist that take a withdraw action provoke an attack of opportunity from the duelist.
 
-**Crippling Critical (Ex)** : When you confirm a [critical hit](../combat#_critical-hits) using a light or one-handed piercing weapon, you can apply one of the following penalties in addition to the damage dealt: reduce all of the target's speeds by 10 feet (minimum 5 feet), 1d4 points of Strength or [Dexterity](../gettingStarted#_dexterity) damage, –4 penalty on all saving throws, –4 penalty to [Armor Class](../combat#_armor-class), or 2d6 points of bleed damage. These penalties last for 1 minute, except for ability damage, which must be healed normally, and bleed damage, which continues until the target receives magic healing or a DC 15 [Heal](../skills_dir/heal#_heal) skill check.
+**Crippling Critical (Ex)** : When you confirm a [critical hit](../combat#_critical-hits) using a light or one-handed piercing weapon, you can apply one of the following penalties in addition to the damage dealt: reduce all of the target's speeds by 10 feet (minimum 5 feet), 1d4 points of Strength or [Dexterity](../gettingStarted#_dexterity) damage, –4 penalty on all saving throws, –4 penalty to [Armor Class](../combat#_armor-class), or 2d6 points of bleed damage. These penalties last for 1 minute, except for ability damage, which must be healed normally, and bleed damage, which continues until the target receives magic healing or a DC 15 [Heal](../skills/heal#_heal) skill check.
 

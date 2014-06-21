@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateEquipment_dir/gear_dir/adventuringGear
+title: ultimateEquipment/gear/adventuringGear
 ---
 ## Adventuring Gear
 
@@ -11,9 +11,9 @@ _Kits_: this section includes several kits of preselected gear for each characte
 [Adventuring Gear]
 | Item | Price | Weight |
 | --- | --- | --- |
-| Air bladder | 1 sp | 1_dir/2 lb. |
+| Air bladder | 1 sp | 1/2 lb. |
 | Alchemist's kit | 40 gp | 24 lbs.⁲ |
-| Animal glue | 5 sp | 1_dir/2 lb. |
+| Animal glue | 5 sp | 1/2 lb. |
 | Area map | 50 gp | 2 lbs. |
 | Astrolabe | 1,000 gp | 6 lbs. |
 | Backpack, common | 2 gp | 2 lbs.ⁱ |
@@ -22,13 +22,13 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Banner | 1–20 gp | 2 lbs. |
 | Barbarian's kit | 9 gp | 26 lbs.⁲ |
 | Barbed vest | 10 gp | 4 lbs. |
-| Bard's kit | 41 gp | 33-1_dir/2 lbs.⁲ |
+| Bard's kit | 41 gp | 33-1/2 lbs.⁲ |
 | Barrel | 2 gp | 30 lbs. |
 | Basket | 4 sp | 1 lb. |
 | Bedroll | 1 sp | 5 lbs.ⁱ |
 | Bell | 1 gp | — |
 | Bell net | 2 gp | 2 lbs. |
-| Belt pouch | 1 gp | 1_dir/2 lb.ⁱ |
+| Belt pouch | 1 gp | 1/2 lb.ⁱ |
 | Blanket | 5 sp | 3 lbs.ⁱ |
 | Block and tackle | 5 gp | 5 lbs. |
 | Blue book | 5 gp | 1 lb. |
@@ -45,11 +45,11 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Campsite kit | 12 gp | 80 lbs. |
 | Candle | 1 cp | — |
 | Candle lamp | 5 gp | 1 lb. |
-| Candlestick | 1 cp | 1_dir/2 lb. |
+| Candlestick | 1 cp | 1/2 lb. |
 | Canteen | 2 gp | 1 lb. |
 | Canvas (sq. yd.) | 1 sp | 1 lb. |
 | Cauldron | 1 gp | 5 lbs. |
-| Cauldron, mithral | 1,251 gp | 2-1_dir/2 lbs. |
+| Cauldron, mithral | 1,251 gp | 2-1/2 lbs. |
 | Cavalier's kit | 23 gp | 112 lbs.⁲ |
 | Chain (10 ft.) | 30 gp | 2 lbs. |
 | Chalk | 1 cp | — |
@@ -59,7 +59,7 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Chest, large | 10 gp | 100 lbs. |
 | Chest, huge | 25 gp | 250 lbs. |
 | Chirurgeon's kit | 400 gp | 4 lbs. |
-| Chronicler's kit | 40 gp | 4-1_dir/2 lbs. |
+| Chronicler's kit | 40 gp | 4-1/2 lbs. |
 | Clay | 1 sp | 1 lb. |
 | Cleric's kit | 16 gp | 32 lbs.⁲ |
 | Coffee pot | 3 gp | 4 lbs. |
@@ -67,7 +67,7 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Coffin, ornate | 100 gp | 50 lbs.ⁱ |
 | Collapsible bathtub | 15 gp | 20 lbs.ⁱ |
 | Collapsible plank | 4 sp | 10 lbs. |
-| Compass | 10 gp | 1_dir/2 lb. |
+| Compass | 10 gp | 1/2 lb. |
 | Cooking kit | 3 gp | 16 lbs. |
 | Cot | 1 gp | 30 lbs.ⁱ |
 | Crowbar | 2 gp | 5 lbs. |
@@ -93,7 +93,7 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Fishhook | 1 sp | — |
 | Fishing kit | 5 sp | 3 lbs. |
 | Fishing net | 4 gp | 5 lbs. |
-| Flask | 3 cp | 1-1_dir/2 lbs. |
+| Flask | 3 cp | 1-1/2 lbs. |
 | Flint and steel | 1 gp | — |
 | Folding chair | 2 gp | 10 lbs.ⁱ |
 | Folding ladder | 2 gp | 16 lbs. |
@@ -104,7 +104,7 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Gear maintenance kit | 5 gp | 2 lbs. |
 | Glass cutter | 5 gp | — |
 | Glue paper | 1 sp | — |
-| Grappling arrow | 1 gp | 1_dir/2 lb. |
+| Grappling arrow | 1 gp | 1/2 lb. |
 | Grappling hook, common | 1 gp | 4 lbs. |
 | Grappling hook, mithral | 1,001 gp | 2 lbs. |
 | Grooming kit | 1 gp | 2 lbs.ⁱ |
@@ -115,7 +115,7 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Harrow deck | 100 gp | — |
 | Helmet candle | 2 gp | 4 lbs |
 | Heritage book | 50 gp | 2 lbs. |
-| Hip flask | 1 gp | 1_dir/2 lb.ⁱ |
+| Hip flask | 1 gp | 1/2 lb.ⁱ |
 | Hollowed pommel | 5 gp | — |
 | Holy symbol, wooden | 1 gp | — |
 | Holy symbol, iron | 5 gp | 1 lb. |
@@ -128,7 +128,7 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Holy text | 1–100 gp | 1–20 lbs. |
 | Hooded lantern | 7 gp | 2 lbs. |
 | Hourglass (6 seconds) | 10 gp | — |
-| Hourglass (1 minute) | 20 gp | 1_dir/2 lb. |
+| Hourglass (1 minute) | 20 gp | 1/2 lb. |
 | Hourglass (1 hour) | 25 gp | 1 lb. |
 | Ink | 8 gp | — |
 | Inkpen | 1 sp | — |
@@ -143,7 +143,7 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Lock, average | 40 gp | 1 lb. |
 | Lock, good | 80 gp | 1 lb. |
 | Lock, superior | 150 gp | 1 lb. |
-| Magnet | 5 sp | 1_dir/2 lb. |
+| Magnet | 5 sp | 1/2 lb. |
 | Magnifying glass | 100 gp | — |
 | Magus's kit | 22 gp | 31 lbs.⁲ |
 | Manacles, common | 15 gp | 2 lbs. |
@@ -152,20 +152,20 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Marbles | 1 sp | 2 lbs. |
 | Mess kit | 2 sp | 1 lb. |
 | Miner's pick | 3 gp | 10 lbs. |
-| Mirror | 10 gp | 1_dir/2 lb. |
+| Mirror | 10 gp | 1/2 lb. |
 | Mock armor | 90 gp | 10 lbs.ⁱ |
 | Monk's kit | 8 gp | 22 lbs.⁲ |
-| Mug_dir/tankard | 2 cp | 1 lb. |
+| Mug/tankard | 2 cp | 1 lb. |
 | Oil | 1 sp | 1 lb. |
 | Oracle's kit | 9 gp | 29 lbs.⁲ |
 | Paladin's kit | 11 gp | 30 lbs.⁲ |
 | Paper (sheet) | 4 sp | — |
 | Parchment (sheet) | 2 sp | — |
 | Pathfinder's kit | 12 gp | 22 lbs. |
-| Perfume_dir/cologne | 5 gp | — |
+| Perfume/cologne | 5 gp | — |
 | Periscope | 20 gp | 4 lbs. |
 | Pitcher | 2 cp | 5 lbs. |
-| Piton | 1 sp | 1_dir/2 lb. |
+| Piton | 1 sp | 1/2 lb. |
 | Poison pill ring | +20 gp | — |
 | Poisoning sheath | 50 gp | 1 lb.ⁱ |
 | Pole | 5 cp | 8 lbs. |
@@ -173,7 +173,7 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Portable ram | 10 gp | 20 lbs. |
 | Pot, common | 8 sp | 4 lbs. |
 | Pot, mithral | 1,001 gp | 2 lbs. |
-| Powder | 1 cp | 1_dir/2 lb. |
+| Powder | 1 cp | 1/2 lb. |
 | Powder horn | 3 gp | 1 lb. |
 | Prosthetic (arm) | 10 gp | 3 lbs.ⁱ |
 | Prosthetic (foot) | 1 gp | 2 lbs.ⁱ |
@@ -186,18 +186,18 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Riding kit, exotic mount | 36 gp | 59 lbs. |
 | Rogue's kit | 50 gp | 37 lbs.⁲ |
 | Rope (50 ft.) | 1 gp | 10 lbs. |
-| Sack | 1 sp | 1_dir/2 lb.ⁱ |
+| Sack | 1 sp | 1/2 lb.ⁱ |
 | Saw | 4 cp | 2 lbs. |
 | Sawback sword | +5 gp | — |
 | Scrivener's kit | 2 gp | 1 lb. |
 | Scroll box | 5 gp | 1 lb. |
-| Scroll case | 1 gp | 1_dir/2 lb. |
+| Scroll case | 1 gp | 1/2 lb. |
 | Sealing wax | 1 gp | 1 lb. |
 | Sentry mannequin | 30 gp | 35 lbs.ⁱ |
 | Sewing needle | 5 sp | — |
 | Sextant | 500 gp | 2 lbs. |
-| Shaving kit | 15 sp | 1_dir/2 lb. |
-| Shield sconce | 1 gp | 1_dir/2 lb. |
+| Shaving kit | 15 sp | 1/2 lb. |
+| Shield sconce | 1 gp | 1/2 lb. |
 | Shovel, common | 2 gp | 8 lbs. |
 | Shovel, folding | 10 gp | 12 lbs. |
 | Signal horn | 1 gp | 2 lbs.ⁱ |
@@ -212,7 +212,7 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Smoked goggles | 10 gp | — |
 | Snorkel, common | 5 sp | — |
 | Snorkel, masterwork | 5 gp | — |
-| Soap | 1 cp | 1_dir/2 lb. |
+| Soap | 1 cp | 1/2 lb. |
 | Sorcerer's kit | 8 gp | 19 lbs.⁲ |
 | Spelunking kit | 174 gp | 32 lbs. |
 | Spider's silk rope (50 ft.) | 100 gp | 4 lbs. |
@@ -221,7 +221,7 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Stilts, common | 2 sp | 10 lbs.ⁱ |
 | Stilts, masterwork | 5 gp | 10 lbs.ⁱ |
 | Stove can | 10 gp | 1 lb. |
-| String or twine (50 ft.) | 1 cp | 1_dir/2 lb. |
+| String or twine (50 ft.) | 1 cp | 1/2 lb. |
 | Summoner's kit | 8 gp | 19 lbs.⁲ |
 | Survival kit, common | 5 gp | 4 lbs. ⁴ |
 | Survival kit, masterwork | 50 gp | 5 lbs. |
@@ -239,15 +239,15 @@ _Kits_: this section includes several kits of preselected gear for each characte
 | Undead slayer's kit | 402 gp | 7 lbs. |
 | Vial | 1 gp | — |
 | Waffle iron, common | 1 gp | 5 lbs. |
-| Waffle iron, mithral | 1,260 gp | 2-1_dir/2 lbs. |
+| Waffle iron, mithral | 1,260 gp | 2-1/2 lbs. |
 | Water clock | 1,000 gp | 200 lbs. |
-| Waterproof bag | 5 sp | 1_dir/2 lb. |
+| Waterproof bag | 5 sp | 1/2 lb. |
 | Waterproof lantern | +5 gp | — |
 | Waterskin | 1 gp | 4 lbs.ⁱ |
-| Wax key blank | 15 gp | 1_dir/2 lb. |
+| Wax key blank | 15 gp | 1/2 lb. |
 | Weapon cord | 1 sp | — |
 | Whetstone | 2 cp | 1 lb. |
-| Wire | 5 gp | 1_dir/2 lb. |
+| Wire | 5 gp | 1/2 lb. |
 | Wire saw, common | 30 gp | — |
 | Wire saw, adamantine | 150 gp | — |
 | Witch's kit | 21 gp | 21 lbs.⁲ |
@@ -256,7 +256,7 @@ _Kits_: this section includes several kits of preselected gear for each characte
 
 Air Bladder
 
-**Price** 1 sp; **Weight** 1_dir/2 lb.
+**Price** 1 sp; **Weight** 1/2 lb.
 
 Used by swimmers for longer dives, this bladder is similar to a waterskin, but is relatively airtight. If inflated, it holds enough air to sustain a Medium creature for 1 round or a Small creature for 2 rounds.
 
@@ -268,7 +268,7 @@ This kit includes an alchemy crafting kit, a backpack, a bedroll, a belt pouch, 
 
 Animal Glue
 
-**Price** 5 sp; **Weight** 1_dir/2 lb.
+**Price** 5 sp; **Weight** 1/2 lb.
 
 This simple glue is created by extensively boiling animal skin, bones, hooves, horn, and tendons until they turn into a ochre syrup that cools when it hardens. Before you use animal glue, you must heat it until it liquefies. You normally apply it with a brush and hold the pieces together for a minute, at which point it is cooled and hardened. The glue is sufficient to coat 1 square foot of surface, or (because of waste and spills) up to 40 smaller applications of approximately 2 square inches each. Pulling apart a large glued surface (at least 1 square foot) requires a DC 15 Strength check. Pulling apart a small glued surface (anything less than 1 square foot) requires a DC 10 Strength check. Animal glue slowly dissolves in water, reducing the Strength DC needed to break it by 1 per 10 minutes. It softens if heated, even with steam, reducing the Strength DC needed to break it by 1 per minute.
 
@@ -276,13 +276,13 @@ Area Map
 
 **Price** 50 gp; **Weight** 2 lbs.
 
-A geographically relevant map grants a user a +1 circumstance bonus on [Survival](skills_dir/survival#_survival) checks made to navigate in the wilderness. It also can be used to grant the same bonus on [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) checks made to navigate underground.
+A geographically relevant map grants a user a +1 circumstance bonus on [Survival](skills/survival#_survival) checks made to navigate in the wilderness. It also can be used to grant the same bonus on [Knowledge](skills/knowledge#_knowledge) (dungeoneering) checks made to navigate underground.
 
 Astrolabe
 
 **Price** 1,000 gp; **Weight** 6 lbs.
 
-This device consists of a flat disc upon which two other discs are mounted. The mounted discs can rotate on a central axis, allowing them to spin and move as days pass. The bottom disc represents the latitude of the user; an astrolabe is useless if the user is outside the preset latitude. The upper disc represents the sky, and is filled with astronomical features. Anyone can be shown how to use an astrolabe at night to determine the date and time (which takes 1 minute). When using an astrolabe, you can make a [Survival](skills_dir/survival#_survival) check using your Intelligence modifier instead of your Wisdom modifier to avoid becoming lost.
+This device consists of a flat disc upon which two other discs are mounted. The mounted discs can rotate on a central axis, allowing them to spin and move as days pass. The bottom disc represents the latitude of the user; an astrolabe is useless if the user is outside the preset latitude. The upper disc represents the sky, and is filled with astronomical features. Anyone can be shown how to use an astrolabe at night to determine the date and time (which takes 1 minute). When using an astrolabe, you can make a [Survival](skills/survival#_survival) check using your Intelligence modifier instead of your Wisdom modifier to avoid becoming lost.
 
 Backpack
 
@@ -321,7 +321,7 @@ Thin leather flaps keep the hundreds of tiny, fishhook-like needles dotting the 
 
 Bard's kit
 
-**Price** 41 gp; **Weight** 33-1_dir/2 lbs.
+**Price** 41 gp; **Weight** 33-1/2 lbs.
 
 This includes a backpack, a bedroll, a belt pouch, a common musical instrument, a flint and steel, ink, an inkpen, an iron pot, a journal, a mess kit, a mirror, rope, soap, torches (10), trail rations (5 days), and a waterskin.
 
@@ -353,11 +353,11 @@ bell net
 
 **Price** 2 gp; **Weight** 2 lbs.
 
-Copper bells hang at each the corners of this 5-foot-by-5-foot wire net. A bell net is designed to blanket gear while you sleep, hunt, cook, or otherwise can't give it your full attention, rasing an alarm if your possessions are disturbed. Creatures attempting to access gear protected by a bell net must succeed at a DC 25 [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) check to avoid chiming the bells. Hearing the chiming bells of a bell net requires a DC 0 [Perception](skills_dir/perception#_perception) check. Because the many bells chime when you move, traveling with a bell net gives you a –2 penalty on [Stealth](skills_dir/stealth#_stealth) checks.
+Copper bells hang at each the corners of this 5-foot-by-5-foot wire net. A bell net is designed to blanket gear while you sleep, hunt, cook, or otherwise can't give it your full attention, rasing an alarm if your possessions are disturbed. Creatures attempting to access gear protected by a bell net must succeed at a DC 25 [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) check to avoid chiming the bells. Hearing the chiming bells of a bell net requires a DC 0 [Perception](skills/perception#_perception) check. Because the many bells chime when you move, traveling with a bell net gives you a –2 penalty on [Stealth](skills/stealth#_stealth) checks.
 
 belt Pouch
 
-**Price** 1 gp; **Weight** 1_dir/2 lb.
+**Price** 1 gp; **Weight** 1/2 lb.
 
 A typical leather or cloth belt pouch has a leather cord to cinch it shut and another to tie it to your belt. It is large enough to hold 100–200 coins or two apples.
 
@@ -377,13 +377,13 @@ blue book
 
 **Price** 5 gp; **Weight** 1 lb.
 
-This book details the seedier entertainment establishments in one major city. It contains the names of brothels, burlesque houses, and gambling halls in that city. By consulting the book for 1 hour, for the next 24 hours you gain a +2 circumstance bonus on [Knowledge](skills_dir/knowledge#_knowledge) (local), [Bluff](skills_dir/bluff#_bluff), and [Diplomacy](skills_dir/diplomacy#_diplomacy) checks to gather or use information in that city. At the GM's discretion, you can use it in settlements near that city for a +1 bonus.
+This book details the seedier entertainment establishments in one major city. It contains the names of brothels, burlesque houses, and gambling halls in that city. By consulting the book for 1 hour, for the next 24 hours you gain a +2 circumstance bonus on [Knowledge](skills/knowledge#_knowledge) (local), [Bluff](skills/bluff#_bluff), and [Diplomacy](skills/diplomacy#_diplomacy) checks to gather or use information in that city. At the GM's discretion, you can use it in settlements near that city for a +1 bonus.
 
 book of letters
 
 **Price** 50 gp; **Weight** 3 lbs.
 
-This portfolio contains examples of official letters along with proper forms of address, etiquette, and turns of phrase. Used by bureaucrats, diplomats, and clerks, it's also useful for counterfeiting official correspondence. It provides a +2 circumstance bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) checks when dealing with city officials and a +2 circumstance bonus on [Linguistics](skills_dir/linguistics#_linguistics) checks when creating forgeries. A book of letters is only accurate for a particular region, such as a country or even a town, and only provides its bonus relating to that region.
+This portfolio contains examples of official letters along with proper forms of address, etiquette, and turns of phrase. Used by bureaucrats, diplomats, and clerks, it's also useful for counterfeiting official correspondence. It provides a +2 circumstance bonus on [Diplomacy](skills/diplomacy#_diplomacy) checks when dealing with city officials and a +2 circumstance bonus on [Linguistics](skills/linguistics#_linguistics) checks when creating forgeries. A book of letters is only accurate for a particular region, such as a country or even a town, and only provides its bonus relating to that region.
 
 bottle
 
@@ -395,7 +395,7 @@ breakaway chains
 
 **Price** 65 gp; **Weight** 2 lbs.
 
-These masterwork chains are easy to break, even though they look like normal chains ( [Perception](skills_dir/perception#_perception) DC 25 to notice the difference). A DC 10 Strength check breaks them instantly.
+These masterwork chains are easy to break, even though they look like normal chains ( [Perception](skills/perception#_perception) DC 25 to notice the difference). A DC 10 Strength check breaks them instantly.
 
 bucket
 
@@ -430,7 +430,7 @@ caltrops
 
 A caltrop is a four-pronged metal spike crafted so that one prong always faces up no matter how the caltrop comes to rest. You scatter caltrops on the ground in the hope that your enemies step on them or are at least forced to slow down to avoid them. One 2-pound bag of caltrops covers an area 5 feet square.
 
-Each time a creature moves into an area covered by caltrops (or spends a round fighting while standing in such an area), it runs the risk of stepping on one. Make an attack roll for the caltrops (base attack bonus +0) against the creature. For this attack, the creature's shield, armor, and deflection bonuses do not count. If the creature is wearing shoes or other footwear, it gets a +2 armor bonus to AC. If the attack succeeds, the creature has stepped on a caltrop. The caltrop deals 1 point of damage, and the creature's speed is reduced by half because its foot is wounded. This movement penalty lasts for 24 hours, until the creature is successfully treated with a DC 15 [Heal](skills_dir/heal#_heal) check, or until it receives at least 1 point of magical healing. A charging or running creature must immediately stop if it steps on a caltrop. Any creature moving at half speed or slower can pick its way through a bed of caltrops with no trouble.
+Each time a creature moves into an area covered by caltrops (or spends a round fighting while standing in such an area), it runs the risk of stepping on one. Make an attack roll for the caltrops (base attack bonus +0) against the creature. For this attack, the creature's shield, armor, and deflection bonuses do not count. If the creature is wearing shoes or other footwear, it gets a +2 armor bonus to AC. If the attack succeeds, the creature has stepped on a caltrop. The caltrop deals 1 point of damage, and the creature's speed is reduced by half because its foot is wounded. This movement penalty lasts for 24 hours, until the creature is successfully treated with a DC 15 [Heal](skills/heal#_heal) check, or until it receives at least 1 point of magical healing. A charging or running creature must immediately stop if it steps on a caltrop. Any creature moving at half speed or slower can pick its way through a bed of caltrops with no trouble.
 
 Caltrops may not work against unusual opponents.
 
@@ -438,11 +438,11 @@ camouflage netting
 
 **Price** 20 gp; **Weight** 5 lbs.
 
-This loose mesh of twine and varicolored cloth is used to disguise the presence of creatures or large objects. Camouflage netting must be manufactured to provide camouflage in a single type of terrain, such as snow, sand, forest, grass, swamp, urban, or water. When you hide under the netting in the appropriate terrain, you gain a +4 circumstance bonus on [Stealth](skills_dir/stealth#_stealth) checks as long as you remain immobile and prone. Covering up with camouflage netting is a full-round action requiring a DC 10 [Survival](skills_dir/survival#_survival) check (failure means you do not cover yourself correctly with the netting and do not gain its bonus on [Stealth](skills_dir/stealth#_stealth) checks). You have the entangled condition when using the netting, except your Dexterity penalty does not affect your initiative or [Stealth](skills_dir/stealth#_stealth) checks. Taking off camouflage netting is a move action, or a swift action if combined with a move action to stand up from a prone position.
+This loose mesh of twine and varicolored cloth is used to disguise the presence of creatures or large objects. Camouflage netting must be manufactured to provide camouflage in a single type of terrain, such as snow, sand, forest, grass, swamp, urban, or water. When you hide under the netting in the appropriate terrain, you gain a +4 circumstance bonus on [Stealth](skills/stealth#_stealth) checks as long as you remain immobile and prone. Covering up with camouflage netting is a full-round action requiring a DC 10 [Survival](skills/survival#_survival) check (failure means you do not cover yourself correctly with the netting and do not gain its bonus on [Stealth](skills/stealth#_stealth) checks). You have the entangled condition when using the netting, except your Dexterity penalty does not affect your initiative or [Stealth](skills/stealth#_stealth) checks. Taking off camouflage netting is a move action, or a swift action if combined with a move action to stand up from a prone position.
 
-You may spend 1 minute covering an object with camouflage netting. Make a [Survival](skills_dir/survival#_survival) check with a –10 penalty and use the total as the [Stealth](skills_dir/stealth#_stealth) check result for the object. Creatures who fail a [Perception](skills_dir/perception#_perception) check against this [Stealth](skills_dir/stealth#_stealth) DC do not recognize what the object is and usually treat it as a natural part of the terrain. For example, you can conceal a wagon as a rock or patch of brush. Covering a Large object requires two nets. Covering a Huge or Gargantuan object requires five nets and takes 10 minutes of work, and the [Survival](skills_dir/survival#_survival) check penalty is –20 instead of –10. Camouflaging a Colossal object depends on its shape but generally requires at least 10 camouflage nets and takes 1 hour of work, and the [Survival](skills_dir/survival#_survival) check penalty is –30 instead of –10.
+You may spend 1 minute covering an object with camouflage netting. Make a [Survival](skills/survival#_survival) check with a –10 penalty and use the total as the [Stealth](skills/stealth#_stealth) check result for the object. Creatures who fail a [Perception](skills/perception#_perception) check against this [Stealth](skills/stealth#_stealth) DC do not recognize what the object is and usually treat it as a natural part of the terrain. For example, you can conceal a wagon as a rock or patch of brush. Covering a Large object requires two nets. Covering a Huge or Gargantuan object requires five nets and takes 10 minutes of work, and the [Survival](skills/survival#_survival) check penalty is –20 instead of –10. Camouflaging a Colossal object depends on its shape but generally requires at least 10 camouflage nets and takes 1 hour of work, and the [Survival](skills/survival#_survival) check penalty is –30 instead of –10.
 
-A creature with the scent ability ignores the effect of camouflage netting and makes checks against your actual [Stealth](skills_dir/stealth#_stealth) roll when in scent range. Any creature within 10 feet of a Large or larger object hidden by camouflage netting automatically recognizes it as an object covered in camouflage.
+A creature with the scent ability ignores the effect of camouflage netting and makes checks against your actual [Stealth](skills/stealth#_stealth) roll when in scent range. Any creature within 10 feet of a Large or larger object hidden by camouflage netting automatically recognizes it as an object covered in camouflage.
 
 campsite Kit
 
@@ -464,7 +464,7 @@ A candle lamp is a small lanternlike device with glass panels and a slot to hold
 
 candlestick
 
-**Price** 1 cp; **Weight** 1_dir/2 lb.
+**Price** 1 cp; **Weight** 1/2 lb.
 
 This saucerlike object has a flat bottom, a handle, and a spike on top. You can affix a candle onto the spike (up to 3 inches in diameter) and hold the candlestick by the handle. The flat bottom means you're able to set it down and not worry about the candle falling over and extinguishing itself. A typical candlestick is crafted from baked clay or a cheap metal such as copper, but elaborate and expensive ones exist.
 
@@ -485,7 +485,7 @@ Cauldron
 | Type | Price | Weight |
 | --- | --- | --- |
 | Common | 1 gp | 5 lbs. |
-| Mithral | 1,251 gp | 2-1_dir/2 lbs. |
+| Mithral | 1,251 gp | 2-1/2 lbs. |
 
 This larger version of an iron pot holds approximately 1 gallon—enough to fill the bellies of four hungry humans for one meal. It can also be used for potion-making and similar activities. A mithral cauldron is lighter, and food rarely sticks to it.
 
@@ -528,11 +528,11 @@ chirurgeon's kit
 
 **Price** 400 gp; **Weight** 4 lbs.
 
-This sturdy leather case straps to the waist or thigh, or can be slung over a shoulder. It consists of a leather pouch, a healer's kit, a bottle of strong brandy, a _potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, a vial of smelling salts, and 2 doses each of alchemist's kindness, antiplague, antitoxin, bloodblock, and soothe syrup.
+This sturdy leather case straps to the waist or thigh, or can be slung over a shoulder. It consists of a leather pouch, a healer's kit, a bottle of strong brandy, a _potion of [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_, a vial of smelling salts, and 2 doses each of alchemist's kindness, antiplague, antitoxin, bloodblock, and soothe syrup.
 
 chronicler's kit
 
-**Price** 40 gp; **Weight** 4-1_dir/2 lbs.
+**Price** 40 gp; **Weight** 4-1/2 lbs.
 
 This bundle contains a map case, two vials of ink, two inkpens, 10 sheets of paper, two blank journals, a pound of fine powder for drying ink, and a 20-foot measuring cord. The supplies usually suffice for chronicling a single expedition of not more than 2 months' duration.
 
@@ -577,9 +577,9 @@ Hinged in two places, collapsible planks can hold 250 pounds before breaking. Th
 
 Compass
 
-**Price** 10 gp; **Weight** 1_dir/2 lb.
+**Price** 10 gp; **Weight** 1/2 lb.
 
-An ordinary compass that points to the magnetic north pole grants you a +2 circumstance bonus on [Survival](skills_dir/survival#_survival) checks made to avoid becoming lost. You can also use it to grant the same bonus on [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) checks made to navigate underground.
+An ordinary compass that points to the magnetic north pole grants you a +2 circumstance bonus on [Survival](skills/survival#_survival) checks made to avoid becoming lost. You can also use it to grant the same bonus on [Knowledge](skills/knowledge#_knowledge) (dungeoneering) checks made to navigate underground.
 
 cooking kit
 
@@ -591,7 +591,7 @@ copy of a key
 
 **Price** 1 gp; **Weight** —
 
-An artisan can make a working copy of a key in an hour (making a duplicate that looks exactly like the original requires a skilled smith, a DC 25 [Craft](skills_dir/craft#_craft) check, and 1 day).
+An artisan can make a working copy of a key in an hour (making a duplicate that looks exactly like the original requires a skilled smith, a DC 25 [Craft](skills/craft#_craft) check, and 1 day).
 
 cot
 
@@ -615,13 +615,13 @@ dragonslayer's kit
 
 **Price** 485 gp; **Weight** 64 lbs.
 
-Aimed more at hired blades than seasoned adventurers, this kit provides supplemental equipment for outfitting hirelings to hunt dragons. It includes a _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_, oil of bless weapon (1 application), a longspear, a backpack, three large sacks, a sunrod, a tower shield, and 5 vials of alchemist's fire. For hunting dragons that are immune to fire, the alchemist's fire can be replaced with acid at the time of purchase, for a savings of 50 gp.
+Aimed more at hired blades than seasoned adventurers, this kit provides supplemental equipment for outfitting hirelings to hunt dragons. It includes a _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, oil of bless weapon (1 application), a longspear, a backpack, three large sacks, a sunrod, a tower shield, and 5 vials of alchemist's fire. For hunting dragons that are immune to fire, the alchemist's fire can be replaced with acid at the time of purchase, for a savings of 50 gp.
 
 Drill
 
 **Price** 5 SP; **Weight** 1 lb.
 
-A drill can create a 1-inch-diameter hole in stone, wood, or metal as a standard action. Harder materials wear down or break the drill more quickly. Hearing the sound of drilling requires a DC 15 [Perception](skills_dir/perception#_perception) check.
+A drill can create a 1-inch-diameter hole in stone, wood, or metal as a standard action. Harder materials wear down or break the drill more quickly. Hearing the sound of drilling requires a DC 15 [Perception](skills/perception#_perception) check.
 
 druid's kit
 
@@ -648,7 +648,7 @@ earplugs
 
 **Price** 3 cp; **Weight** —
 
-Made of waxed cotton or cork, earplugs give you a +2 circumstance bonus on saves against effects that require hearing, but also cause a –5 penalty on hearing-based [Perception](skills_dir/perception#_perception) checks.
+Made of waxed cotton or cork, earplugs give you a +2 circumstance bonus on saves against effects that require hearing, but also cause a –5 penalty on hearing-based [Perception](skills/perception#_perception) checks.
 
 entertainer's kit
 
@@ -660,37 +660,37 @@ everburning torch
 
 **Price** 110 gp; **Weight** 1 lb.
 
-This otherwise normal torch has a _ [continual flame](spells_dir/continualFlame#_continual-flame)_ spell cast on it. This causes it to shed light like an ordinary torch, but it does not emit heat or deal fire damage if used as a weapon.
+This otherwise normal torch has a _ [continual flame](spells/continualFlame#_continual-flame)_ spell cast on it. This causes it to shed light like an ordinary torch, but it does not emit heat or deal fire damage if used as a weapon.
 
 fake footprint shoes
 
 **Price** 5 gp; **Weight** 2 lbs.
 
-These oversized shoes are worn over normal footwear. They create footprints or bootprints that look like those left by another creature. Each pair creates a specific type of footprint, such as tiger, orc, goblin, or ogre. When walking with these shoes, you may make a [Survival](skills_dir/survival#_survival) check; the check result is the [Survival](skills_dir/survival#_survival) DC for anyone trying to determine whether the tracks are what they appear to be.
+These oversized shoes are worn over normal footwear. They create footprints or bootprints that look like those left by another creature. Each pair creates a specific type of footprint, such as tiger, orc, goblin, or ogre. When walking with these shoes, you may make a [Survival](skills/survival#_survival) check; the check result is the [Survival](skills/survival#_survival) DC for anyone trying to determine whether the tracks are what they appear to be.
 
 false manacles
 
 **Price** 65 gp; **Weight** 2 lbs.
 
-These manacles are nearly indistinguishable from standard manacles upon inspection ( [Perception](skills_dir/perception#_perception) DC 25). A wearer who knows the location of the secret catch can open them as a standard action; otherwise they act like masterwork manacles. Some appear to be of common quality, though false manacles are always masterwork.
+These manacles are nearly indistinguishable from standard manacles upon inspection ( [Perception](skills/perception#_perception) DC 25). A wearer who knows the location of the secret catch can open them as a standard action; otherwise they act like masterwork manacles. Some appear to be of common quality, though false manacles are always masterwork.
 
 false-bottomed chest
 
 **Price** 52 gp; **Weight** 25 lbs.
 
-These chests are typically used by smugglers transporting contraband or those with treasures they would prefer to keep hidden. The secret compartment in this chest is approximately 1 inch deep. Different styles open from the inside, from the underside, or through the back. Detecting the compartment requires a DC 20 [Perception](skills_dir/perception#_perception) check.
+These chests are typically used by smugglers transporting contraband or those with treasures they would prefer to keep hidden. The secret compartment in this chest is approximately 1 inch deep. Different styles open from the inside, from the underside, or through the back. Detecting the compartment requires a DC 20 [Perception](skills/perception#_perception) check.
 
 false-bottomed cup
 
 **Price** 1 gp; **Weight** —
 
-The tiny compartment in the thick bottom of this cup is an excellent place to store a small item or substance. The most insidious are designed with a weighted catch that opens when the cup is tilted back, releasing the hidden substance into the contents of the cup. Spotting the secret compartment in an empty cup requires a DC 15 [Perception](skills_dir/perception#_perception) check.
+The tiny compartment in the thick bottom of this cup is an excellent place to store a small item or substance. The most insidious are designed with a weighted catch that opens when the cup is tilted back, releasing the hidden substance into the contents of the cup. Spotting the secret compartment in an empty cup requires a DC 15 [Perception](skills/perception#_perception) check.
 
 False-bottomed scabbard
 
 **Price** 45 gp; **Weight** 1 lb.
 
-The space at the bottom of this sword scabbard is just large enough to hold a potion flask. Some are accessed from the outside; others open on the inside with a secret catch at the top end. Finding the secret compartment requires a DC 25 [Perception](skills_dir/perception#_perception) check, or DC 20 if you can compare the sword's length to that of the scabbard.
+The space at the bottom of this sword scabbard is just large enough to hold a potion flask. Some are accessed from the outside; others open on the inside with a secret catch at the top end. Finding the secret compartment requires a DC 25 [Perception](skills/perception#_perception) check, or DC 20 if you can compare the sword's length to that of the scabbard.
 
 familiar satchel
 
@@ -708,7 +708,7 @@ filter hood
 
 **Price** 10 gp; **Weight** 4 lbs.
 
-This snug leather hood has built-in goggles and a filtration tube containing sponges. A filter hood uses your helm slot and imposes a –2 penalty on hearing- and sight-based [Perception](skills_dir/perception#_perception) checks. While the sponges are moist, the hood grants you a +2 resistance bonus on saving throws against inhaled poisons and other airborne attacks that require you to breathe them. Moistening the sponges with water is a standard action. The sponges dry out after 1d4 × 10 minutes and should be thoroughly rinsed after each use.
+This snug leather hood has built-in goggles and a filtration tube containing sponges. A filter hood uses your helm slot and imposes a –2 penalty on hearing- and sight-based [Perception](skills/perception#_perception) checks. While the sponges are moist, the hood grants you a +2 resistance bonus on saving throws against inhaled poisons and other airborne attacks that require you to breathe them. Moistening the sponges with water is a standard action. The sponges dry out after 1d4 × 10 minutes and should be thoroughly rinsed after each use.
 
 firewood (per day)
 
@@ -736,7 +736,7 @@ This net measures 5 feet by 5 feet, and can be used to cover a pit or to block T
 
 flask
 
-**Price** 3 cp; **Weight** 1-1_dir/2 lbs.
+**Price** 3 cp; **Weight** 1-1/2 lbs.
 
 This glass bottle holds 1 pint. It is relatively fragile and breaks if thrown at a creature or hard surface. Flasks may be simple blown glass, or they may be elaborate affairs embossed with family crests and other artwork.
 
@@ -777,7 +777,7 @@ Gambler's Kit
 | Common | 75 gp | 5 lbs. |
 | Cheating | 300 gp | 5 lbs. |
 
-Particularly useful for travelers moving through areas too small or remote to support a full-time place for gambling, this small, tightly packed suitcase holds decks of cards, a betting wheel, numbered cloths, colored wooden chips, and a wide variety of other sorts of specialized equipment necessary for many different games of chance. A cheating gambler's kit is very similar, except its cards are marked and its games are rigged, giving a knowledgeable user a +4 circumstance bonus on [Profession](skills_dir/profession#_profession) (gambler) checks when using these materials. A DC 25 [Perception](skills_dir/perception#_perception) or DC 20 [Profession](skills_dir/profession#_profession) (gambler) check exposes the ruse.
+Particularly useful for travelers moving through areas too small or remote to support a full-time place for gambling, this small, tightly packed suitcase holds decks of cards, a betting wheel, numbered cloths, colored wooden chips, and a wide variety of other sorts of specialized equipment necessary for many different games of chance. A cheating gambler's kit is very similar, except its cards are marked and its games are rigged, giving a knowledgeable user a +4 circumstance bonus on [Profession](skills/profession#_profession) (gambler) checks when using these materials. A DC 25 [Perception](skills/perception#_perception) or DC 20 [Profession](skills/profession#_profession) (gambler) check exposes the ruse.
 
 Gear Maintenance Kit
 
@@ -789,7 +789,7 @@ glass cutter
 
 **Price** 5 gp; **Weight** —
 
-This small metal rod has a tiny sharp wheel on one end and a bulb on the other. You score the glass with the wheel and tap it with the bulb to break it. If you succeed at a DC 15 [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) check, you can break the glass very quietly (DC 15 [Perception](skills_dir/perception#_perception) check to hear). Most thieves use glue paper with a glass cutter to reduce noise and capture glass fragments.
+This small metal rod has a tiny sharp wheel on one end and a bulb on the other. You score the glass with the wheel and tap it with the bulb to break it. If you succeed at a DC 15 [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) check, you can break the glass very quietly (DC 15 [Perception](skills/perception#_perception) check to hear). Most thieves use glue paper with a glass cutter to reduce noise and capture glass fragments.
 
 glue paper
 
@@ -799,7 +799,7 @@ This 1-foot-square piece of paper is coated on one side with a weak glue or stic
 
 grappling arrow
 
-**Price** 1 gp; **Weight** 1_dir/2 lb.
+**Price** 1 gp; **Weight** 1/2 lb.
 
 This small grappling hook is designed to be tied to a silk rope and fired from a bow. When fired, it has a range increment of 30 feet. An equivalent item exists for crossbows.
 
@@ -858,11 +858,11 @@ heritage book
 
 **Price** 50 gp; **Weight** 2 lbs.
 
-This collection of genealogical tables, descriptions of common traits found in particular noble families, heraldry, scurrilous rumors, and ancestral deeds provides readers with a great deal of insight into the aristocracy. Consulting this book grants a +2 circumstance bonus on [Knowledge](skills_dir/knowledge#_knowledge) (nobility) checks.
+This collection of genealogical tables, descriptions of common traits found in particular noble families, heraldry, scurrilous rumors, and ancestral deeds provides readers with a great deal of insight into the aristocracy. Consulting this book grants a +2 circumstance bonus on [Knowledge](skills/knowledge#_knowledge) (nobility) checks.
 
 hip flask
 
-**Price** 1 gp; **Weight** 1_dir/2 lb.
+**Price** 1 gp; **Weight** 1/2 lb.
 
 This metal canteen has a flattened, curved shape so you can easily conceal it in a pocket or against your body. A typical hip flask holds 8 ounces, and like a regular flask may be little more than a plain canteen or a decorative work of art.
 
@@ -870,7 +870,7 @@ hollowed pommel
 
 **Price** 5 gp; **Weight** —
 
-Depending on the weapon, a hollow pommel may hold something as large as a flask or as small as a rolled piece of paper. Detecting a hollow pommel requires a DC 15 [Perception](skills_dir/perception#_perception) check.
+Depending on the weapon, a hollow pommel may hold something as large as a flask or as small as a rolled piece of paper. Detecting a hollow pommel requires a DC 15 [Perception](skills/perception#_perception) check.
 
 Holy Symbol
 
@@ -890,13 +890,13 @@ Holy symbol, compartment
 
 **Price** +5 gp; **Weight** —
 
-Designed and approved by a member of the appropriate religion, this modification to a holy symbol creates a secret compartment large enough to hold a potion vial. Detecting the compartment requires a DC 20 [Perception](skills_dir/perception#_perception) check.
+Designed and approved by a member of the appropriate religion, this modification to a holy symbol creates a secret compartment large enough to hold a potion vial. Detecting the compartment requires a DC 20 [Perception](skills/perception#_perception) check.
 
 holy symbol, flask
 
 **Price** +10 gp; **Weight** —
 
-This version of a standard holy symbol is oversized and has a watertight compartment that can hold 1 pint (the same volume as a flask of holy water). Adventurers normally use the compartment to hold holy water or alcohol. A holy symbol flask is not meant for you to throw at enemies and is not fragile like a flask or vial. Like using holy water on incorporeal opponent, you unstopper the flask and pour the contents onto an adjacent target. Detecting the compartment requires a successful DC 10 [Perception](skills_dir/perception#_perception) check.
+This version of a standard holy symbol is oversized and has a watertight compartment that can hold 1 pint (the same volume as a flask of holy water). Adventurers normally use the compartment to hold holy water or alcohol. A holy symbol flask is not meant for you to throw at enemies and is not fragile like a flask or vial. Like using holy water on incorporeal opponent, you unstopper the flask and pour the contents onto an adjacent target. Detecting the compartment requires a successful DC 10 [Perception](skills/perception#_perception) check.
 
 holy symbol, tattoo
 
@@ -921,7 +921,7 @@ Hourglass
 | Type | Price | Weight |
 | --- | --- | --- |
 | 6 seconds | 10 gp | — |
-| 1 minute | 20 gp | 1_dir/2 lb. |
+| 1 minute | 20 gp | 1/2 lb. |
 | 1 hour | 25 gp | 1 lb. |
 
 The standard hourglass takes 1 hour to empty the sand from the upper chamber; smaller ones that mark time more precisely are also readily available, in 1-minute and 6-second sizes. Hourglasses tracking more than an hour are rare.
@@ -948,7 +948,7 @@ Iron Spike
 
 **Price** 5 cp; **Weight** 1 lb.
 
-This foot-long iron spike is used to keep doors open or closed and to secure ropes for climbing. Hearing a spike being hammered in requires a DC 5 [Perception](skills_dir/perception#_perception) check.
+This foot-long iron spike is used to keep doors open or closed and to secure ropes for climbing. Hearing a spike being hammered in requires a DC 5 [Perception](skills/perception#_perception) check.
 
 Iron Vial
 
@@ -966,7 +966,7 @@ jug
 
 **Price** 3 cp; **Weight** 9 lbs.
 
-This basic clay jug is fitted with a stopper and holds 1 gallon of liquid. The listed weight is for a jug filled with water, wine, or ale; when empty, it weighs about 1_dir/2 pound.
+This basic clay jug is fitted with a stopper and holds 1 gallon of liquid. The listed weight is for a jug filled with water, wine, or ale; when empty, it weighs about 1/2 pound.
 
 ladder
 
@@ -989,11 +989,11 @@ Lock
 | Good | 80 gp | 1 lb. |
 | Superior | 150 gp | 1 lb. |
 
-This can be a padlock, an inset lock in a door or chest, or any other type of keyed lock. The DC to open a lock with the [Disable Device](skills_dir/disableDevice#_disable-device) skill depends on the lock's quality: simple (DC 20), average (DC 25), good (DC 30), or superior (DC 40).
+This can be a padlock, an inset lock in a door or chest, or any other type of keyed lock. The DC to open a lock with the [Disable Device](skills/disableDevice#_disable-device) skill depends on the lock's quality: simple (DC 20), average (DC 25), good (DC 30), or superior (DC 40).
 
 Magnet
 
-**Price** 5 sp; **Weight** 1_dir/2 lb.
+**Price** 5 sp; **Weight** 1/2 lb.
 
 Handheld magnets are relatively weak and are mainly used to detect or pull iron, mithral, or adamantine at a short range. They are not powerful enough to tug metal over significant distances or aid in disarming creatures wielding metal weapons. This hand-sized horseshoe magnet can lift up to a 3-pound iron weight.
 
@@ -1001,7 +1001,7 @@ Magnifying Glass
 
 **Price** 100 gp; **Weight** —
 
-This simple lens allows a closer look at small objects. It is also useful as a substitute for a flint and steel when starting fires. Lighting a fire with a magnifying glass requires bright light, such as sunlight to focus, tinder to ignite, and at least a full-round action. A magnifying glass grants a +2 circumstance bonus on [Appraise](skills_dir/appraise#_appraise) checks involving any item that is small or highly detailed.
+This simple lens allows a closer look at small objects. It is also useful as a substitute for a flint and steel when starting fires. Lighting a fire with a magnifying glass requires bright light, such as sunlight to focus, tinder to ignite, and at least a full-round action. A magnifying glass grants a +2 circumstance bonus on [Appraise](skills/appraise#_appraise) checks involving any item that is small or highly detailed.
 
 magus's kit
 
@@ -1017,7 +1017,7 @@ manacles
 | Masterwork | 50 gp | 2 lbs. |
 | Mithral | 1,000 gp | 2 lbs. |
 
-Manacles can bind a Medium creature. A manacled creature can use the [Escape Artist](skills_dir/escapeArtist#_escape-artist) skill to slip free (DC 30, or DC 35 for masterwork manacles). Breaking the manacles requires a Strength check (DC 26, or DC 28 for masterwork manacles). Manacles have hardness 10 and 10 hit points.
+Manacles can bind a Medium creature. A manacled creature can use the [Escape Artist](skills/escapeArtist#_escape-artist) skill to slip free (DC 30, or DC 35 for masterwork manacles). Breaking the manacles requires a Strength check (DC 26, or DC 28 for masterwork manacles). Manacles have hardness 10 and 10 hit points.
 
 Most manacles have locks; add the cost of the lock you want to the price of the manacles.
 
@@ -1045,7 +1045,7 @@ If a miner's pick is used in combat, treat it as a two-handed improvised weapon 
 
 mirror
 
-**Price** 10 gp; **Weight** 1_dir/2 lb.
+**Price** 10 gp; **Weight** 1/2 lb.
 
 This hand-held mirror is about a foot across. Unlike many higher-quality glass mirrors, this one is made out of polished steel and sturdy enough that you can drop it without risk of breakage.
 
@@ -1053,7 +1053,7 @@ Mock Armor
 
 **Price** 90 gp; **Weight** 10 lbs.
 
-When an arcane caster needs a disguise, she might don a suit of mock armor. Made from leather or thin wood such as balsa or bamboo and painted to look like metal, a suit of mock armor passes as full plate under all but the closest scrutiny. A character inspecting someone in mock armor must succeed at a DC 20 [Perception](skills_dir/perception#_perception) check to identify it as fake. Mock armor gives you no Armor Class bonus, doesn't affect your maximum Dexterity bonus, and has no armor check penalty, arcane spell failure chance, or speed reduction. It cannot be given magical armor abilities, whether enhancement bonuses or properties like _ [fortification](magicItems_dir/armor#_armor-fortification)_ or _ [ghost touch](magicItems_dir/weapons#_weapons-ghost-touch)_. When wearing mock armor, you gain a +4 circumstance bonus on [Bluff](skills_dir/bluff#_bluff) checks to conceal your identity or allegiance as a spellcaster (for example, in cities where arcane spellcasting is illegal). The [Craft](skills_dir/craft#_craft) (carpentry) or [Craft](skills_dir/craft#_craft) (leather) DC to create mock armor is 25.
+When an arcane caster needs a disguise, she might don a suit of mock armor. Made from leather or thin wood such as balsa or bamboo and painted to look like metal, a suit of mock armor passes as full plate under all but the closest scrutiny. A character inspecting someone in mock armor must succeed at a DC 20 [Perception](skills/perception#_perception) check to identify it as fake. Mock armor gives you no Armor Class bonus, doesn't affect your maximum Dexterity bonus, and has no armor check penalty, arcane spell failure chance, or speed reduction. It cannot be given magical armor abilities, whether enhancement bonuses or properties like _ [fortification](magicItems/armor#_armor-fortification)_ or _ [ghost touch](magicItems/weapons#_weapons-ghost-touch)_. When wearing mock armor, you gain a +4 circumstance bonus on [Bluff](skills/bluff#_bluff) checks to conceal your identity or allegiance as a spellcaster (for example, in cities where arcane spellcasting is illegal). The [Craft](skills/craft#_craft) (carpentry) or [Craft](skills/craft#_craft) (leather) DC to create mock armor is 25.
 
 monk's kit
 
@@ -1061,7 +1061,7 @@ monk's kit
 
 This kit includes a backpack, a belt pouch, a blanket, rope, soap, torches (10), trail rations (5 days), and a waterskin.
 
-Mug_dir/Tankard
+Mug/Tankard
 
 **Price** 2 cp; **Weight** 1 lbs.
 
@@ -1103,9 +1103,9 @@ pathfinder's kit
 
 **Price** 12 gp; **Weight** 22 lbs.
 
-This kit consists of a backpack, a bedroll, a belt pouch, a clay mug, a dagger, two fishhooks, a flint and steel, a sewing needle, a signal whistle, 50 feet of string, 50 feet of thread, a waterskin, a week's worth of trail rations, and a whetstone. For Small creatures, the weight of a Pathfinder's kit is 7-1_dir/2 pounds. Leaving the bedroll and rations at camp or on a mount reduces the weight by 12 pounds for Medium creatures and by 3 pounds for Small creatures.
+This kit consists of a backpack, a bedroll, a belt pouch, a clay mug, a dagger, two fishhooks, a flint and steel, a sewing needle, a signal whistle, 50 feet of string, 50 feet of thread, a waterskin, a week's worth of trail rations, and a whetstone. For Small creatures, the weight of a Pathfinder's kit is 7-1/2 pounds. Leaving the bedroll and rations at camp or on a mount reduces the weight by 12 pounds for Medium creatures and by 3 pounds for Small creatures.
 
-Perfume_dir/Cologne
+Perfume/Cologne
 
 **Price** 5 gp; **Weight** —
 
@@ -1115,17 +1115,17 @@ periscope
 
 **Price** 20 gp; **Weight** 4 lbs.
 
-This 2-foot-long metal tube has right angles at each end with mirrors inside; if you look in one end, you can see out the other end, allowing you safely peer over obstacles, around corners, or into small spaces your head where wouldn't fit. When using a periscope, the end of the tube counts as a Diminutive object, making it much less likely that an observed creature notices you; if you have total concealment from the creature except for the end of the periscope, use the tube's Diminutive size modifier on your [Stealth](skills_dir/stealth#_stealth) check instead of your own size modifier. Distortion from the mirrors gives you a –4 penalty on [Perception](skills_dir/perception#_perception) checks while looking through the periscope. Though the tube is fairly sturdy (hardness 5, 2 hit points), the mirrors inside are fragile (hardness 1, 1 hit point), and any damage that gets through the tube's hardness applies to the tube and the mirrors.
+This 2-foot-long metal tube has right angles at each end with mirrors inside; if you look in one end, you can see out the other end, allowing you safely peer over obstacles, around corners, or into small spaces your head where wouldn't fit. When using a periscope, the end of the tube counts as a Diminutive object, making it much less likely that an observed creature notices you; if you have total concealment from the creature except for the end of the periscope, use the tube's Diminutive size modifier on your [Stealth](skills/stealth#_stealth) check instead of your own size modifier. Distortion from the mirrors gives you a –4 penalty on [Perception](skills/perception#_perception) checks while looking through the periscope. Though the tube is fairly sturdy (hardness 5, 2 hit points), the mirrors inside are fragile (hardness 1, 1 hit point), and any damage that gets through the tube's hardness applies to the tube and the mirrors.
 
 pitcher
 
 **Price** 2 cp; **Weight** 5 lbs.
 
-This basic clay pitcher has a handle and an open top with a groove for easy pouring. It holds 1_dir/2 gallon of liquid. The listed weight is for a pitcher filled with water, wine, or ale; empty, it weighs about 1_dir/2 pound.
+This basic clay pitcher has a handle and an open top with a groove for easy pouring. It holds 1/2 gallon of liquid. The listed weight is for a pitcher filled with water, wine, or ale; empty, it weighs about 1/2 pound.
 
 Piton
 
-**Price** 1 sp; **Weight** 1_dir/2 lb.
+**Price** 1 sp; **Weight** 1/2 lb.
 
 A piton is an iron spike with a loop or ring on the end so you can tie a rope to it.
 
@@ -1133,7 +1133,7 @@ Poison Pill Ring
 
 **Price** +20 gp; **Weight** —
 
-This ring has a tiny compartment under the setting, typically used to hold poison. Opening and closing a ring is a move action; doing so unseen requires a DC 20 [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) check.
+This ring has a tiny compartment under the setting, typically used to hold poison. Opening and closing a ring is a move action; doing so unseen requires a DC 20 [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) check.
 
 poisoning sheath
 
@@ -1170,7 +1170,7 @@ This 8-inch-diameter iron pot is sturdy and has feet, a lid, and a rounded handl
 
 Powder
 
-**Price** 1 CP; **Weight** 1_dir/2 lb.
+**Price** 1 CP; **Weight** 1/2 lb.
 
 Powdered chalk, flour, and similar materials are popular with adventurers for their utility in pinpointing invisible creatures. Throwing a bag of powder into a square is an attack against AC 5, and momentarily reveals whether an invisible creature is there. A much more effective method is to spread powder on a surface (which takes 1 full round) and look for footprints.
 
@@ -1232,7 +1232,7 @@ This 50-foot length of hemp rope has 2 hit points and can be burst with a DC 23 
 
 sack
 
-**Price** 1 sp; **Weight** 1_dir/2 lb.
+**Price** 1 sp; **Weight** 1/2 lb.
 
 This heavy canvas sack, useful for carrying adventuring gear and other supplies, holds about 4 cubic feet. A leather thong threaded through loops at the bag's end allows it to be tied shut easily.
 
@@ -1240,7 +1240,7 @@ Saw
 
 **Price** 4 CP; **Weight** 2 lbs.
 
-Saws can take many different shapes, from small carpentry saws to the long, two-handled saws used by lumberjacks. You can insert a saw between a door and its frame to cut through wooden bolts or bars, dealing 5 hit points per round plus your Strength modifier to the sawed object as a full-round action. Hearing the sawing requires a successful DC 10 [Perception](skills_dir/perception#_perception) check. Saws used to cut ice on rivers have a point on the end to break through the ice before cutting.
+Saws can take many different shapes, from small carpentry saws to the long, two-handled saws used by lumberjacks. You can insert a saw between a door and its frame to cut through wooden bolts or bars, dealing 5 hit points per round plus your Strength modifier to the sawed object as a full-round action. Hearing the sawing requires a successful DC 10 [Perception](skills/perception#_perception) check. Saws used to cut ice on rivers have a point on the end to break through the ice before cutting.
 
 Sawback Sword
 
@@ -1262,7 +1262,7 @@ This wooden box easily holds 10 scrolls and has small clips or bookmarks for eas
 
 Scroll Case
 
-**Price** 1 gp; **Weight** 1_dir/2 lb.
+**Price** 1 gp; **Weight** 1/2 lb.
 
 A leather or wooden scroll case easily holds four scrolls; you can cram more inside, but retrieving any of them becomes a full-round action rather than a move action. You must destroy the scroll case to damage its contents (hardness 2 for leather or 5 for wood, 2 hit points, break DC 15). A scroll case is not watertight, and must still be protected from the elements.
 
@@ -1276,7 +1276,7 @@ Sentry Mannequin
 
 **Price** 30 gp; **Weight** 35 lbs.
 
-After 5 minutes of assembly and coverage with the included loose hood and baggy clothing, this wooden frame looks like a vigilant humanoid figure. Creatures more than 30 feet distant from it must succeed at a DC 10 [Perception](skills_dir/perception#_perception) check in order to realize it is not someone standing watch.
+After 5 minutes of assembly and coverage with the included loose hood and baggy clothing, this wooden frame looks like a vigilant humanoid figure. Creatures more than 30 feet distant from it must succeed at a DC 10 [Perception](skills/perception#_perception) check in order to realize it is not someone standing watch.
 
 Sewing Needle
 
@@ -1288,17 +1288,17 @@ Sextant
 
 **Price** 500 gp; **Weight** 2 lbs.
 
-A sextant is used to determine your latitude. Using a sextant with an astrolabe gives you a +4 circumstance bonus on [Survival](skills_dir/survival#_survival) checks made to prevent getting lost.
+A sextant is used to determine your latitude. Using a sextant with an astrolabe gives you a +4 circumstance bonus on [Survival](skills/survival#_survival) checks made to prevent getting lost.
 
 SHAVING KIT
 
-**Price** 15 gp; **Weight** 1_dir/2 lb.
+**Price** 15 gp; **Weight** 1/2 lb.
 
 A shaving kit contains a straight razor, a whetstone, a small mirror, a brush, a cup, and enough shaving powder to last a Medium humanoid 50 shaves.
 
 shield Sconce
 
-**Price** 1 gp; **Weight** 1_dir/2 lb.
+**Price** 1 gp; **Weight** 1/2 lb.
 
 This metal frame holds a torch and is designed to be strapped to the front of a light, heavy, or tower shield, allowing you to carry a torch without giving up your shield or occupying your weapon hand.
 
@@ -1317,13 +1317,13 @@ signal horn
 
 **Price** 1 gp; **Weight** 2 lbs.
 
-Sounding a horn requires a DC 10 [Perform](skills_dir/perform#_perform) (wind instruments) check and can convey concepts such as "Attack!", "Help!", "Advance!", "Retreat!", "Fire!", and "Alarm!" The report of a signal horn can be clearly heard ( [Perception](skills_dir/perception#_perception) DC 0) up to a half-mile distant. For each quarter-mile beyond, [Perception](skills_dir/perception#_perception) checks to hear the horn take a –1 penalty.
+Sounding a horn requires a DC 10 [Perform](skills/perform#_perform) (wind instruments) check and can convey concepts such as "Attack!", "Help!", "Advance!", "Retreat!", "Fire!", and "Alarm!" The report of a signal horn can be clearly heard ( [Perception](skills/perception#_perception) DC 0) up to a half-mile distant. For each quarter-mile beyond, [Perception](skills/perception#_perception) checks to hear the horn take a –1 penalty.
 
 Signal Whistle
 
 **Price** 8 sp; **Weight** —
 
-With a DC 5 [Perform](skills_dir/perform#_perform) (wind instruments) check, you can use a whistle to signal the same sorts of situations as signal horns. A whistle's piercing report can be clearly heard ( [Perception](skills_dir/perception#_perception) DC 0) up to a quarter-mile away. For each quarter-mile beyond, [Perception](skills_dir/perception#_perception) checks to hear a whistle take a –2 penalty. Silent whistles that only animals and other creatures with keen hearing can hear also exist.
+With a DC 5 [Perform](skills/perform#_perform) (wind instruments) check, you can use a whistle to signal the same sorts of situations as signal horns. A whistle's piercing report can be clearly heard ( [Perception](skills/perception#_perception) DC 0) up to a quarter-mile away. For each quarter-mile beyond, [Perception](skills/perception#_perception) checks to hear a whistle take a –2 penalty. Silent whistles that only animals and other creatures with keen hearing can hear also exist.
 
 Signet Ring
 
@@ -1347,7 +1347,7 @@ Skeleton Key
 
 **Price** 85 gp; **Weight** —
 
-Many door locks have a similar design and thus can be unlocked by a similar key. A skeleton key may be tried on any standard door lock that uses a key, even if you don't have the [Disable Device](skills_dir/disableDevice#_disable-device) skill. You use the key's [Disable Device](skills_dir/disableDevice#_disable-device) bonus of +10 rather than your own total; you cannot take 10 when using a skeleton key. The key only gets one roll for any particular lock. If the roll fails, the key is unable to open or close that lock. Inferior skeleton keys may only have a +5 bonus.
+Many door locks have a similar design and thus can be unlocked by a similar key. A skeleton key may be tried on any standard door lock that uses a key, even if you don't have the [Disable Device](skills/disableDevice#_disable-device) skill. You use the key's [Disable Device](skills/disableDevice#_disable-device) bonus of +10 rather than your own total; you cannot take 10 when using a skeleton key. The key only gets one roll for any particular lock. If the roll fails, the key is unable to open or close that lock. Inferior skeleton keys may only have a +5 bonus.
 
 Skillet
 
@@ -1368,7 +1368,7 @@ Smoked Goggles
 
 **Price** 10 gp; **Weight** —
 
-These spectacles have lenses made of smoked glass that help protect against creatures with gaze attacks. You are always treated as averting your gaze when dealing with gaze attacks, and you gain a +8 circumstance bonus on saving throws against visual-based attacks (any attack that a blind creature would be immune to). You take a –4 penalty on [Perception](skills_dir/perception#_perception) checks while wearing the goggles, and all opponents are treated as having concealment (20% miss chance).
+These spectacles have lenses made of smoked glass that help protect against creatures with gaze attacks. You are always treated as averting your gaze when dealing with gaze attacks, and you gain a +8 circumstance bonus on saving throws against visual-based attacks (any attack that a blind creature would be immune to). You take a –4 penalty on [Perception](skills/perception#_perception) checks while wearing the goggles, and all opponents are treated as having concealment (20% miss chance).
 
 snorkel
 
@@ -1383,7 +1383,7 @@ _Masterwork Snorkel_: This snorkel has a valve at the top to keep out of the wat
 
 soap
 
-**Price** 1 cp; **Weight** 1_dir/2 lb.
+**Price** 1 cp; **Weight** 1/2 lb.
 
 Most soap is made from animal fat and lye derived from ashes. You can use this thick block of soap to scrub clothes, pots, linens, adventurers, or anything else that might be dirty. A bar of soap has approximately 50 uses.
 
@@ -1409,7 +1409,7 @@ Spyglass
 
 **Price** 1,000 gp; **Weight** 1 lb.
 
-Objects viewed through a spyglass are magnified to twice their size. Characters using a spyglass take a –1 penalty on [Perception](skills_dir/perception#_perception) skill checks per 20 feet of distance to the target, if the target is visible.
+Objects viewed through a spyglass are magnified to twice their size. Characters using a spyglass take a –1 penalty on [Perception](skills/perception#_perception) skill checks per 20 feet of distance to the target, if the target is visible.
 
 Stationery
 
@@ -1424,13 +1424,13 @@ Stilts
 | Common | 2 sp | 10 lbs. |
 | Masterwork | 5 gp | 10 lbs. |
 
-This item consists of a pair of wooden poles with a footrest halfway up. By standing on the footrests and holding the tops of the poles you can avoid certain ground-based threats to your feet. For example, you can use stilts to cross water without getting wet, but you would still activate a trap that triggers when you walk in a certain area. Using stilts reduces your base speed from 30 feet to 20 feet, or from 20 feet to 15 feet. You can hop off your stilts as a move action, or as a free action with a successful DC 10 [Acrobatics](skills_dir/acrobatics#_acrobatics) check.
+This item consists of a pair of wooden poles with a footrest halfway up. By standing on the footrests and holding the tops of the poles you can avoid certain ground-based threats to your feet. For example, you can use stilts to cross water without getting wet, but you would still activate a trap that triggers when you walk in a certain area. Using stilts reduces your base speed from 30 feet to 20 feet, or from 20 feet to 15 feet. You can hop off your stilts as a move action, or as a free action with a successful DC 10 [Acrobatics](skills/acrobatics#_acrobatics) check.
 
-You must use both your hands to walk with stilts. Walking with stilts requires a DC 5 [Acrobatics](skills_dir/acrobatics#_acrobatics) check for each move. Failing this check means you do not move for that move action; failing by 5 or more means you fall off the stilts. If you want to use one hand for something else while standing on stilts, you must succeed at a DC 10 [Acrobatics](skills_dir/acrobatics#_acrobatics) check or lose the action; if you want to use two hands, the DC increases to 20.
+You must use both your hands to walk with stilts. Walking with stilts requires a DC 5 [Acrobatics](skills/acrobatics#_acrobatics) check for each move. Failing this check means you do not move for that move action; failing by 5 or more means you fall off the stilts. If you want to use one hand for something else while standing on stilts, you must succeed at a DC 10 [Acrobatics](skills/acrobatics#_acrobatics) check or lose the action; if you want to use two hands, the DC increases to 20.
 
-Stilts for a Medium creature raise you 2 feet above the ground; stilts for a Small creature raise you 1 foot from the ground. You can use taller stilts, but each additional foot of elevation increases the [Acrobatics](skills_dir/acrobatics#_acrobatics) DCs of using stilts by +5. A stilt has hardness 5 and 10 hit points. If you only have one stilt, your speed drops to 5 feet because you can only hop rather than walk.
+Stilts for a Medium creature raise you 2 feet above the ground; stilts for a Small creature raise you 1 foot from the ground. You can use taller stilts, but each additional foot of elevation increases the [Acrobatics](skills/acrobatics#_acrobatics) DCs of using stilts by +5. A stilt has hardness 5 and 10 hit points. If you only have one stilt, your speed drops to 5 feet because you can only hop rather than walk.
 
-_Masterwork Stilts_: These stilts strap to your feet and legs, allowing you to use your hands for other tasks without penalty. Walking on masterwork stilts requires a DC 10 [Acrobatics](skills_dir/acrobatics#_acrobatics) check. Attaching or removing a masterwork stilt is a full-round action.
+_Masterwork Stilts_: These stilts strap to your feet and legs, allowing you to use your hands for other tasks without penalty. Walking on masterwork stilts requires a DC 10 [Acrobatics](skills/acrobatics#_acrobatics) check. Attaching or removing a masterwork stilt is a full-round action.
 
 Stove Can
 
@@ -1440,7 +1440,7 @@ This little metal container holds a waxy fuel that creates enough heat to cook w
 
 String or Twine
 
-**Price** 1 cp; **Weight** 1_dir/2 lb.
+**Price** 1 cp; **Weight** 1/2 lb.
 
 Sold in balls or spools of 50 feet, string and twine are useful for rigging traps and alarms and are a vital component of grappling bolts and arrows. String or twine has hardness 0, 1 hit point, and a break DC of 14.
 
@@ -1459,13 +1459,13 @@ survival Kit
 
 A survival kit provides the necessary tools for day-to-day existence in a temperate wilderness. It typically contains a flint and steel, a mess kit, two waterskins (enough to hold water for 1 person for 1 day), very basic maps showing major landmarks, and a small utility knife.
 
-A masterwork survival kit contains higher quality gear and a guide to identifying flora and fauna. It grants you a +2 circumstance bonus on [Survival](skills_dir/survival#_survival) checks to get along in the wild, deal with severe weather, keep from getting lost, avoid natural hazards such as quicksand, and predict the weather.
+A masterwork survival kit contains higher quality gear and a guide to identifying flora and fauna. It grants you a +2 circumstance bonus on [Survival](skills/survival#_survival) checks to get along in the wild, deal with severe weather, keep from getting lost, avoid natural hazards such as quicksand, and predict the weather.
 
 Swarmsuit
 
 **Price** 20 gp; **Weight** 10 lbs.
 
-These heavy and overlapping layers of clothing, coupled with a wide hat outfitted with a dense, veil-like netting around its brim, makes it all but impossible for Diminutive and Fine creatures to make physical contact with your body. Wearing a swarmsuit cuts your speed in half, but gives you DR 10_dir/— against swarms of Fine creatures and DR 5_dir/— against swarms of Diminutive creatures.
+These heavy and overlapping layers of clothing, coupled with a wide hat outfitted with a dense, veil-like netting around its brim, makes it all but impossible for Diminutive and Fine creatures to make physical contact with your body. Wearing a swarmsuit cuts your speed in half, but gives you DR 10/— against swarms of Fine creatures and DR 5/— against swarms of Diminutive creatures.
 
 tattoo
 
@@ -1531,7 +1531,7 @@ waffle Iron
 | Type | Price | Weight |
 | --- | --- | --- |
 | Common | 1 gp | 5 lbs. |
-| Mithral | 1,001 gp | 2-1_dir/2 lbs. |
+| Mithral | 1,001 gp | 2-1/2 lbs. |
 
 This pair of hinged metal plates is decorated with studs to add texture to the pastry cakes you cook with it. You pour batter on it, close it, and place it on a fire or stove to cook. Some waffle irons have plates that imprint the waffle with a noble's coat of arms, a religious symbol, or a country's flag. A mithral waffle iron almost always bears a specific insignia rather than the generic waffle pattern. As with other mithral cookware, food rarely sticks to a mithral waffle iron.
 
@@ -1543,7 +1543,7 @@ This large, bulky contrivance gives the time accurately to within half an hour p
 
 waterproof bag
 
-**Price** 5 sp; **Weight** 1_dir/2 lb.
+**Price** 5 sp; **Weight** 1/2 lb.
 
 This leather sack sealed with tar or pitch keeps delicate items from being ruined by water. Items kept inside remain relatively dry, making the bag ideal for carrying maps, scrolls, spellbooks, and the like, although the bag is not impervious and can only be completely immersed for 10 rounds before enough water seeps in to ruin such items.
 
@@ -1557,13 +1557,13 @@ waterskin
 
 **Price** 1 gp; **Weight** 4 lbs.
 
-This bag is made of an animal bladder or treated leather. It is watertight and holds about 1_dir/2 gallon of liquid. The listed weight is for a waterskin full of water; empty, it weighs about 2 pounds.
+This bag is made of an animal bladder or treated leather. It is watertight and holds about 1/2 gallon of liquid. The listed weight is for a waterskin full of water; empty, it weighs about 2 pounds.
 
 Wax Key Blank
 
-**Price** 15 gp; **Weight** 1_dir/2 lb.
+**Price** 15 gp; **Weight** 1/2 lb.
 
-This two-sided case contains a soft wax that readily takes and keeps an impression of an object pressed between the two halves, creating an excellent mold of the item. A skilled artisan may then make a copy of the item from the mold (destroying the mold in the process). Making an impression surreptitiously requires a DC 25 [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) check.
+This two-sided case contains a soft wax that readily takes and keeps an impression of an object pressed between the two halves, creating an excellent mold of the item. A skilled artisan may then make a copy of the item from the mold (destroying the mold in the process). Making an impression surreptitiously requires a DC 25 [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) check.
 
 Weapon Cord
 
@@ -1579,13 +1579,13 @@ A whetstone allows you to sharpen a blade by sliding it against the stone at a p
 
 Wire
 
-**Price** 5 gp; **Weight** 1_dir/2 lb.
+**Price** 5 gp; **Weight** 1/2 lb.
 
 This 6-foot length of copper wire is strong and flexible. By attaching it to two pitons or iron spikes across an area, you can create a simple tripwire trap.
 
-Tripwire Trap CR 1_dir/3
+Tripwire Trap CR 1/3
 
-**Type** mechanical; **[Perception](skills_dir/perception#_perception)** DC 15; **[Disable Device](skills_dir/disableDevice#_disable-device)** DC 10
+**Type** mechanical; **[Perception](skills/perception#_perception)** DC 15; **[Disable Device](skills/disableDevice#_disable-device)** DC 10
 
 Effects
 
@@ -1620,5 +1620,5 @@ wrist sheath
 
 **Price** 1 gp; **Weight** 1 lb.
 
-This is a sheath designed to be strapped to your forearm and hidden under a long sleeve. The sheath can hold one forearm-length item, such as a dagger, dart, or wand, or up to five arrows or crossbow bolts. As a move action, you can bend your wrist to cause some or all of these items to drop into your hand (provoking attacks of opportunity as normal). You have a +2 bonus on [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) checks made to oppose the [Perception](skills_dir/perception#_perception) check of someone observing or frisking you to determine items in the sheath. You can only wear one wrist sheath per arm.
+This is a sheath designed to be strapped to your forearm and hidden under a long sleeve. The sheath can hold one forearm-length item, such as a dagger, dart, or wand, or up to five arrows or crossbow bolts. As a move action, you can bend your wrist to cause some or all of these items to drop into your hand (provoking attacks of opportunity as normal). You have a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks made to oppose the [Perception](skills/perception#_perception) check of someone observing or frisking you to determine items in the sheath. You can only wear one wrist sheath per arm.
 

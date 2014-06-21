@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters_dir/blinkDog
+title: additionalMonsters/blinkDog
 ---
 # Blink Dog
 
@@ -10,9 +10,9 @@ Blink DogCR 2
 
 **XP 600**
 
-LG Medium [magical beast](monsters_dir/creatureTypes#_magical-beast)
+LG Medium [magical beast](monsters/creatureTypes#_magical-beast)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +7
 
 Defense
 
@@ -30,9 +30,9 @@ Offense
 
 **Spell-Like Abilities** (CL 7th; concentration +7)
 
-Constant—_ [blink](additionalMonsters_dir/../spells_dir/blink#_blink)_
+Constant—_ [blink](additionalMonsters/../spells/blink#_blink)_
 
-At will—quickened _ [dimension door](additionalMonsters_dir/../spells_dir/dimensionDoor#_dimension-door)_ (self only)
+At will—quickened _ [dimension door](additionalMonsters/../spells/dimensionDoor#_dimension-door)_ (self only)
 
 Statistics
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +4; **CMD** 16 (20 vs. trip)
 
-**Feats** [Combat Reflexes](additionalMonsters_dir/../feats#_combat-reflexes), [Iron Will](additionalMonsters_dir/../feats#_iron-will)
+**Feats** [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Iron Will](additionalMonsters/../feats#_iron-will)
 
-**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +7, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +2 (+6 [scent](monsters_dir/universalMonsterRules#_scent) tracking)
+**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +7, [Stealth](additionalMonsters/../skills/stealth#_stealth) +7, [Survival](additionalMonsters/../skills/survival#_survival) +2 (+6 [scent](monsters/universalMonsterRules#_scent) tracking)
 
 **Languages** Sylvan
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/variants_dir/introduction
+title: ultimateCombat/variants/introduction
 ---
 # Variant Rules
 

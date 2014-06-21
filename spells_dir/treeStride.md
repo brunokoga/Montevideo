@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/treeStride
+title: spells/treeStride
 ---
  **Tree Stride**
 
@@ -14,7 +14,7 @@ title: spells_dir/treeStride
 
 **Target** you
 
-**Duration** 1 hour_dir/level or until expended; see text
+**Duration** 1 hour/level or until expended; see text
 
 When you cast this spell, you gain the ability to step into a tree, magically infusing yourself with the plant. Once within a tree, you can teleport from that particular tree to another tree. The trees you enter must be of the same kind, must be living, and must have girth at least equal to yours. By moving into an oak tree (for example), you instantly know the location of all other oak trees within transport range (see below) and may choose whether you want to pass into one or simply step back out of the tree you moved into. You may choose to pass to any tree of the appropriate kind within the transport range as shown on the following table.
 

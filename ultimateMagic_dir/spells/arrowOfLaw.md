@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/arrowOfLaw
+title: ultimateMagic/spells/arrowOfLaw
 ---
 Arrow of Law
 
@@ -10,7 +10,7 @@ Arrow of Law
 
 **Components** V, S, DF (a holy symbol)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** arrow-shaped projectile of lawful energy
 

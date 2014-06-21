@@ -1,14 +1,14 @@
 ---
 layout: default
-title: spells_dir/resistance
+title: spells/resistance
 ---
  **Resistance**
 
-**School** abjuration; **Level** bard 0, cleric 0, druid 0, paladin 1, sorcerer_dir/wizard 0
+**School** abjuration; **Level** bard 0, cleric 0, druid 0, paladin 1, sorcerer/wizard 0
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M_dir/DF (a miniature cloak)
+**Components** V, S, M/DF (a miniature cloak)
 
 **Range** touch
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/crab
+title: monsters/crab
 ---
 # Crab, Giant
 
@@ -12,7 +12,7 @@ _This lumbering hard-shelled crab stands as tall as a dwarf, its massive pincers
 
 N Medium [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subtype))
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +4
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +4
 
 **Defense**
 
@@ -38,7 +38,7 @@ N Medium [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subt
 
 **Base**  **Atk** +2; **CMB** +4 (+8 grapple); **CMD** 15 (27 vs. trip)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +4, [Swim](../skills_dir/swim#_swim) +10; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception)
+**Skills** [Perception](../skills/perception#_perception) +4, [Swim](../skills/swim#_swim) +10; **Racial Modifiers** +4 [Perception](../skills/perception#_perception)
 
 **SQ** water dependency
 
@@ -60,8 +60,8 @@ Other species of giant crab exist as well, some smaller but most quite a bit lar
 
 | Species | CR | Size | HD |
 | --- | --- | --- | --- |
-| King crab | 1_dir/4 | Tiny | 1d8 |
-| Coconut crab | 1_dir/2 | Small | 1d8 |
+| King crab | 1/4 | Tiny | 1d8 |
+| Coconut crab | 1/2 | Small | 1d8 |
 | Rock crab | 4 | Large | 5d8 |
 | Shark-eating crab | 7 | Huge | 8d8 |
 | Great reef crab | 10 | Gargantuan | 11d8 |
@@ -77,7 +77,7 @@ _A writhing mass of clacking shells and snapping pincers rushes from the surf, t
 
 N Diminutive [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subtype), [swarm](creatureTypes#_swarm-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +0
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +0
 
 **Defense**
 
@@ -105,7 +105,7 @@ N Diminutive [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-
 
 **Base**  **Atk** +5; **CMB** —; **CMD** —
 
-**Skills** [Swim](../skills_dir/swim#_swim) +10; **Racial Modifiers** uses Dex to modify [Swim](../skills_dir/swim#_swim)
+**Skills** [Swim](../skills/swim#_swim) +10; **Racial Modifiers** uses Dex to modify [Swim](../skills/swim#_swim)
 
 **Ecology**
 

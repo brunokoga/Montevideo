@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/massSpellName
+title: spells/massSpellName
 ---
  **Mass (Spell Name)**
 

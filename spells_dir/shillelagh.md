@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/shillelagh
+title: spells/shillelagh
 ---
  **Shillelagh**
 
@@ -14,7 +14,7 @@ title: spells_dir/shillelagh
 
 **Target** one touched nonmagical oak club or quarterstaff
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
 

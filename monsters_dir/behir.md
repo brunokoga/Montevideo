@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/behir
+title: monsters/behir
 ---
 # Behir
 
@@ -12,7 +12,7 @@ _This slithering, multilegged blue reptile has a fearsome head crowned with two 
 
 N Huge [magical beast](creatureTypes#_magical-beast)
 
-**Init** +1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +6
+**Init** +1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +6
 
 **Defense**
 
@@ -42,7 +42,7 @@ N Huge [magical beast](creatureTypes#_magical-beast)
 
 **Feats** [Alertness](../feats#_alertness), [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Climb](../skills_dir/climb#_climb) +14, [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +5
+**Skills** [Climb](../skills/climb#_climb) +14, [Perception](../skills/perception#_perception) +8, [Stealth](../skills/stealth#_stealth) +5
 
 **Languages** Common
 

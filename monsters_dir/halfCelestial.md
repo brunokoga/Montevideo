@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/halfCelestial
+title: monsters/halfCelestial
 ---
 # Half-Celestial
 
@@ -12,9 +12,9 @@ _A winged unicorn rises into the air on ivory pinions, a paragon of grace and be
 
 CG Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-subtype))
 
-**Init** +4; **Senses** darkvison 60 ft., low-light vision, scent; [Perception](../skills_dir/perception#_perception) +14
+**Init** +4; **Senses** darkvison 60 ft., low-light vision, scent; [Perception](../skills/perception#_perception) +14
 
-**Aura** _ [magic circle against evil](../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_\*
+**Aura** _ [magic circle against evil](../spells/magicCircleAgainstEvil#_magic-circle-against-evil)_\*
 
 **Defense**
 
@@ -24,7 +24,7 @@ CG Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-su
 
 **Fort** +9, **Ref** +8, **Will** +8; +4 vs. poison
 
-**DR** 5_dir/magic; **Immune** charm, compulsion, disease, poison; **Resist** acid 10, cold 10, electricity 10; **SR** 15
+**DR** 5/magic; **Immune** charm, compulsion, disease, poison; **Resist** acid 10, cold 10, electricity 10; **SR** 15
 
 **Offense**
 
@@ -34,15 +34,15 @@ CG Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-su
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** smite evil 1_dir/day (+7 attack, +4 damage), [powerful charge](universalMonsterRules#_powerful-charge) (gore, 2d8+12)
+**Special Attacks** smite evil 1/day (+7 attack, +4 damage), [powerful charge](universalMonsterRules#_powerful-charge) (gore, 2d8+12)
 
 **Spell-Like Abilities** (CL 9th)
 
-At will—_ [detect evil](../spells_dir/detectEvil#_detect-evil)_, _ [light](../spells_dir/light#_light)_
+At will—_ [detect evil](../spells/detectEvil#_detect-evil)_, _ [light](../spells/light#_light)_
 
-3_dir/day—_ [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds), [protection from evil](../spells_dir/protectionFromEvil#_protection-from-evil)_
+3/day—_ [cure light wounds](../spells/cureLightWounds#_cure-light-wounds), [protection from evil](../spells/protectionFromEvil#_protection-from-evil)_
 
-1_dir/day—_ [aid](../spells_dir/aid#_aid), [bless](../spells_dir/bless#_bless),_ _ [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds), [greater teleport](../spells_dir/teleport#_teleport-greater)_ (within its territory\*), _ [neutralize poison](../spells_dir/neutralizePoison#_neutralize-poison)_
+1/day—_ [aid](../spells/aid#_aid), [bless](../spells/bless#_bless),_ _ [cure moderate wounds](../spells/cureModerateWounds#_cure-moderate-wounds), [greater teleport](../spells/teleport#_teleport-greater)_ (within its territory\*), _ [neutralize poison](../spells/neutralizePoison#_neutralize-poison)_
 
 **Statistics**
 
@@ -52,7 +52,7 @@ At will—_ [detect evil](../spells_dir/detectEvil#_detect-evil)_, _ [light](../
 
 **Feats** [Multiattack](monsterFeats#_multiattack), [Weapon Focus](../feats#_weapon-focus) (horn)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +11, [Fly](../skills_dir/fly#_fly) +13, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](../skills_dir/perception#_perception) +14, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +14, [Stealth](../skills_dir/stealth#_stealth) +11, [Survival](../skills_dir/survival#_survival) +14 (+17 forests); **Racial Modifiers** +3 [Survival](../skills_dir/survival#_survival) in forests, +4 [Stealth](../skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +11, [Fly](../skills/fly#_fly) +13, [Knowledge](../skills/knowledge#_knowledge) (planes) +5, [Perception](../skills/perception#_perception) +14, [Sense Motive](../skills/senseMotive#_sense-motive) +14, [Stealth](../skills/stealth#_stealth) +11, [Survival](../skills/survival#_survival) +14 (+17 forests); **Racial Modifiers** +3 [Survival](../skills/survival#_survival) in forests, +4 [Stealth](../skills/stealth#_stealth)
 
 **Languages** Common, Sylvan
 
@@ -82,7 +82,7 @@ Most half-celestials are born of a mortal who loved a good outsider, but powerfu
 
 **Armor Class** : Natural armor improves by +1.
 
-**Defenses_dir/Qualities** : It gains darkvision 60 feet; immunity to disease; +4 racial bonus on saves vs. poison; acid, cold, and electricity resist 10; DR 5_dir/magic (if HD 11 or less) or 10_dir/magic (if HD 12 or more); and SR equal to CR + 11 (maximum 35).
+**Defenses/Qualities** : It gains darkvision 60 feet; immunity to disease; +4 racial bonus on saves vs. poison; acid, cold, and electricity resist 10; DR 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more); and SR equal to CR + 11 (maximum 35).
 
 **Speed** : Unless the base creature flies better, the half-celestial flies at twice the base creature's land speed (good maneuverability).
 
@@ -94,16 +94,16 @@ _Spell-Like Abilities_: A half-celestial with an Int or Wis score of 8 or higher
 
 | HD | Abilities |
 | --- | --- |
-| 1–2 | _ [Protection from evil](../spells_dir/protectionFromEvil#_protection-from-evil)_ 3_dir/day, _ [bless](../spells_dir/bless#_bless)_ |
-| 3–4 | _ [Aid](../spells_dir/aid#_aid), [Detect evil](../spells_dir/detectEvil#_detect-evil) _ |
-| 5–6 | _ [Cure serious wounds](../spells_dir/cureSeriousWounds#_cure-serious-wounds), [Neutralize poison](../spells_dir/neutralizePoison#_neutralize-poison) _ |
-| 7–8 | _ [Holy smite](../spells_dir/holySmite#_holy-smite), [Remove disease](../spells_dir/removeDisease#_remove-disease)_ |
-| 9–10 | _ [Dispel evil](../spells_dir/dispelEvil#_dispel-evil)_ |
-| 11–12 | _ [Holy word](../spells_dir/holyWord#_holy-word)_ |
-| 13–14 | _ [Holy aura](../spells_dir/holyAura#_holy-aura)_ 3_dir/day, _ [Hallow](../spells_dir/hallow#_hallow)_ |
-| 15–16 | _ [Mass charm monster](../spells_dir/charmMonster#_charm-monster-mass)_ |
-| 17–18 | _ [Summon monster IX](../spells_dir/summonMonster#_summon-monster-ix)_ (celestials only) |
-| 19–20 | _ [Resurrection](../spells_dir/resurrection#_resurrection)_ |
+| 1–2 | _ [Protection from evil](../spells/protectionFromEvil#_protection-from-evil)_ 3/day, _ [bless](../spells/bless#_bless)_ |
+| 3–4 | _ [Aid](../spells/aid#_aid), [Detect evil](../spells/detectEvil#_detect-evil) _ |
+| 5–6 | _ [Cure serious wounds](../spells/cureSeriousWounds#_cure-serious-wounds), [Neutralize poison](../spells/neutralizePoison#_neutralize-poison) _ |
+| 7–8 | _ [Holy smite](../spells/holySmite#_holy-smite), [Remove disease](../spells/removeDisease#_remove-disease)_ |
+| 9–10 | _ [Dispel evil](../spells/dispelEvil#_dispel-evil)_ |
+| 11–12 | _ [Holy word](../spells/holyWord#_holy-word)_ |
+| 13–14 | _ [Holy aura](../spells/holyAura#_holy-aura)_ 3/day, _ [Hallow](../spells/hallow#_hallow)_ |
+| 15–16 | _ [Mass charm monster](../spells/charmMonster#_charm-monster-mass)_ |
+| 17–18 | _ [Summon monster IX](../spells/summonMonster#_summon-monster-ix)_ (celestials only) |
+| 19–20 | _ [Resurrection](../spells/resurrection#_resurrection)_ |
 
 **Abilities** : A half-celestial gains a +4 bonus on three ability scores of its choice and a +2 bonus on the other three.
 

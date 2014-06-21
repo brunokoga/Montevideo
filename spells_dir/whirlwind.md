@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/whirlwind
+title: spells/whirlwind
 ---
  **Whirlwind**
 
@@ -10,11 +10,11 @@ title: spells_dir/whirlwind
 
 **Components** V, S, DF
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Effect** cyclone 10 ft. wide at base, 30 ft. wide at top, and 30 ft. tall
 
-**Duration** 1 round_dir/level (D)
+**Duration** 1 round/level (D)
 
 **Saving Throw** [Reflex](../combat#_reflex) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

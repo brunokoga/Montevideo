@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/bestowCurse
+title: spells/bestowCurse
 ---
  **Bestow Curse**
 
-**School** necromancy; **Level** cleric 3, sorcerer_dir/wizard 4
+**School** necromancy; **Level** cleric 3, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 

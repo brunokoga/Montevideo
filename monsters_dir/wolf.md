@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/wolf
+title: monsters/wolf
 ---
 # Wolf
 
@@ -12,7 +12,7 @@ _This powerful canine watches its prey with piercing yellow eyes, darting its to
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +8
 
 **Defense**
 
@@ -34,9 +34,9 @@ N Medium [animal](creatureTypes#_animal)
 
 **Base Atk** +1; **CMB** +2; **CMD** 14 (18 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
 
-**Skills** [Perception](../skills_dir/perception#_perception) +8, [Stealth](../skills_dir/stealth#_stealth) +6, [Survival](../skills_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Survival](../skills_dir/survival#_survival) when tracking by scent
+**Skills** [Perception](../skills/perception#_perception) +8, [Stealth](../skills/stealth#_stealth) +6, [Survival](../skills/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Survival](../skills/survival#_survival) when tracking by scent
 
 **Ecology**
 
@@ -46,7 +46,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Treasure** none
 
-Wandering alone or in packs, wolves sit at the top of the food chain. Ferociously territorial and exceptionally wide-ranging in their hunting, wolf packs cover broad areas. A wolf's wide paws contain slight webbing between the toes that assists in moving over snow, and its fur is a thick, water-resistant coat ranging in color from gray to brown and even black in some species. Its paws contain scent glands that mark the ground as it travels, assisting in navigation as well as broadcasting its whereabouts to fellow pack members. Generally, a wolf stands from 2-1_dir/2 to 3 feet tall at the shoulder and weighs between 45 and 150 pounds, with females being slightly smaller.
+Wandering alone or in packs, wolves sit at the top of the food chain. Ferociously territorial and exceptionally wide-ranging in their hunting, wolf packs cover broad areas. A wolf's wide paws contain slight webbing between the toes that assists in moving over snow, and its fur is a thick, water-resistant coat ranging in color from gray to brown and even black in some species. Its paws contain scent glands that mark the ground as it travels, assisting in navigation as well as broadcasting its whereabouts to fellow pack members. Generally, a wolf stands from 2-1/2 to 3 feet tall at the shoulder and weighs between 45 and 150 pounds, with females being slightly smaller.
 
 # Wolf, Dire
 
@@ -58,7 +58,7 @@ _This immense black wolf is the size of a horse, its fangs as large and sharp as
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +10
 
 **Defense**
 
@@ -82,9 +82,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base Atk** +3; **CMB** +8; **CMD** 20 (24 vs. trip)
 
-**Feats** [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +3, [Survival](../skills_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Survival](../skills_dir/survival#_survival) when tracking by scent
+**Skills** [Perception](../skills/perception#_perception) +10, [Stealth](../skills/stealth#_stealth) +3, [Survival](../skills/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Survival](../skills/survival#_survival) when tracking by scent
 
 **Ecology**
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/blur
+title: spells/blur
 ---
  **Blur**
 
-**School** illusion (glamer); **Level** bard 2, sorcerer_dir/wizard 2
+**School** illusion (glamer); **Level** bard 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/blur
 
 **Target** creature touched
 
-**Duration** 1 min._dir/level (D)
+**Duration** 1 min./level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

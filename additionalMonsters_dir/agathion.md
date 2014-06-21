@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonsters_dir/agathion
+title: additionalMonsters/agathion
 ---
 # Agathion
 
@@ -20,17 +20,17 @@ Agathions serving a particular deity or empyreal lord may have additional abilit
 
 Though agathions lack an organized hierarchy, each type of agathion has a few individuals invested with power by the gods of Nirvana or the plane itself. Common agathions look to these exceptional examples for leadership, wisdom, and inspiration; these enlightened folk do not openly claim any responsibilities or rank over their fellows, but welcome the obligations this added power places upon them and do not deny their status or shirk their duties. Part of a category of powerful outsiders known collectively as empyreal lords, these leaders are often significantly larger than common agathions (up to double the normal size, in some cases), and have unusual coloration (such as iron-gray fur) or unique sensory manifestations associated with their presence (such as illusory birds, a constant melody, the scent of oranges, or a calming aura). No agathion fails to recognize their presence when not disguised. Agathion leaders can serve as heralds for deities, although they tend not to encourage religions based on their teachings. The following is but a selection of notable agathion leaders.
 
-Chavod Broken-Spear [(cetaceal)](additionalMonsters_dir/#agathion,-cetaceal)
+Chavod Broken-Spear [(cetaceal)](additionalMonsters/#agathion,-cetaceal)
 
-Kelumarion the King Over the Mountain ( [leonal](additionalMonsters_dir/#agathion,-leonal))
+Kelumarion the King Over the Mountain ( [leonal](additionalMonsters/#agathion,-leonal))
 
-Korada of the Dream Lotus ( [avoral](additionalMonsters_dir/#agathion,-avoral))
+Korada of the Dream Lotus ( [avoral](additionalMonsters/#agathion,-avoral))
 
-Lady Taramyth the Singing Flame ( [vulpinal](additionalMonsters_dir/#agathion,-vulpinal))
+Lady Taramyth the Singing Flame ( [vulpinal](additionalMonsters/#agathion,-vulpinal))
 
-Sixlife the Violet Fury ( [silvanshee](additionalMonsters_dir/#agathion,-silvanshee))
+Sixlife the Violet Fury ( [silvanshee](additionalMonsters/#agathion,-silvanshee))
 
-Walks with Golden Stars ( [draconal](additionalMonsters_dir/#agathion,-draconal))
+Walks with Golden Stars ( [draconal](additionalMonsters/#agathion,-draconal))
 
 # Agathion, Avoral
 
@@ -40,11 +40,11 @@ Great feathers sweep back from this fierce bird-man's brow, and long, clawed han
 
 **XP 6,400**
 
-NG Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [agathion](monsters_dir/creatureTypes#_agathion-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [good](monsters_dir/creatureTypes#_good-subtype))
+NG Medium [outsider](monsters/creatureTypes#_outsider) ( [agathion](monsters/creatureTypes#_agathion-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [good](monsters/creatureTypes#_good-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, low-light vision, _ [see invisibility](additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_, _true seeing_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +23
+**Init** +6; **Senses** darkvision 60 ft., _ [detect magic](additionalMonsters/../spells/detectMagic#_detect-magic)_, low-light vision, _ [see invisibility](additionalMonsters/../spells/seeInvisibility#_see-invisibility)_, _true seeing_; [Perception](additionalMonsters/../skills/perception#_perception) +23
 
-**Aura** [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) aura (20 ft., DC 17)
+**Aura** [fear](monsters/universalMonsterRules#_fear-(su-or-sp)) aura (20 ft., DC 17)
 
 Defense
 
@@ -52,9 +52,9 @@ Defense
 
 **hp** 94 (9d10+45)
 
-**Fort** +11, **Ref** +12, **Will** +6; +4 vs. [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))
+**Fort** +11, **Ref** +12, **Will** +6; +4 vs. [poison](monsters/universalMonsterRules#_poison-(ex-or-su))
 
-**DR** 10_dir/evil or silver; **Immune** electricity, petrification; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, sonic 10; **SR** 20
+**DR** 10/evil or silver; **Immune** electricity, petrification; **Resist** [cold](monsters/creatureTypes#_cold-subtype) 10, sonic 10; **SR** 20
 
 Offense
 
@@ -64,11 +64,11 @@ Offense
 
 **Spell-Like Abilities** (CL 9th; concentration +12)
 
-Constant—_ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_, _ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_
+Constant—_ [detect magic](additionalMonsters/../spells/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters/../spells/seeInvisibility#_see-invisibility)_, _ [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_
 
-At will—_ [aid](additionalMonsters_dir/../spells_dir/aid#_aid)_, _ [blur](additionalMonsters_dir/../spells_dir/blur#_blur)_ (self only), _ [command](additionalMonsters_dir/../spells_dir/command#_command)_ (DC 14), _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [dimension door](additionalMonsters_dir/../spells_dir/dimensionDoor#_dimension-door)_, _ [dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic)_, _ [gust of wind](additionalMonsters_dir/../spells_dir/gustOfWind#_gust-of-wind) _(DC 15), _ [hold person](additionalMonsters_dir/../spells_dir/holdPerson#_hold-person)_ (DC 16), _ [light](additionalMonsters_dir/../spells_dir/light#_light)_, _ [magic circle against evil](additionalMonsters_dir/../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_ (self only)
+At will—_ [aid](additionalMonsters/../spells/aid#_aid)_, _ [blur](additionalMonsters/../spells/blur#_blur)_ (self only), _ [command](additionalMonsters/../spells/command#_command)_ (DC 14), _ [detect magic](additionalMonsters/../spells/detectMagic#_detect-magic)_, _ [dimension door](additionalMonsters/../spells/dimensionDoor#_dimension-door)_, _ [dispel magic](additionalMonsters/../spells/dispelMagic#_dispel-magic)_, _ [gust of wind](additionalMonsters/../spells/gustOfWind#_gust-of-wind) _(DC 15), _ [hold person](additionalMonsters/../spells/holdPerson#_hold-person)_ (DC 16), _ [light](additionalMonsters/../spells/light#_light)_, _ [magic circle against evil](additionalMonsters/../spells/magicCircleAgainstEvil#_magic-circle-against-evil)_ (self only)
 
-3_dir/day—_ [lightning bolt](additionalMonsters_dir/../spells_dir/lightningBolt#_lightning-bolt)_ (DC 16), empowered _ [magic missile](additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile)_
+3/day—_ [lightning bolt](additionalMonsters/../spells/lightningBolt#_lightning-bolt)_ (DC 16), empowered _ [magic missile](additionalMonsters/../spells/magicMissile#_magic-missile)_
 
 Statistics
 
@@ -76,17 +76,17 @@ Statistics
 
 **Base Atk** +9; **CMB** +12; **CMD** 29
 
-**Feats** [Dodge](additionalMonsters_dir/../feats#_dodge), [Empower Spell-Like Ability](additionalMonsters_dir/../monsters_dir/monsterFeats#_empower-spell-like-ability) (_ [magic missile](additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile)_), [Flyby Attack](additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (claw)
+**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Empower Spell-Like Ability](additionalMonsters/../monsters/monsterFeats#_empower-spell-like-ability) (_ [magic missile](additionalMonsters/../spells/magicMissile#_magic-missile)_), [Flyby Attack](additionalMonsters/../monsters/monsterFeats#_flyby-attack), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (claw)
 
-**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +10, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +7, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +22, [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) +9, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +15, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (any one) +14, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +23, [Ride](additionalMonsters_dir/../skills_dir/ride#_ride) +7, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +15, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +11, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +18; **Racial Modifiers** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +8
+**Skills** [Bluff](additionalMonsters/../skills/bluff#_bluff) +10, [Diplomacy](additionalMonsters/../skills/diplomacy#_diplomacy) +7, [Fly](additionalMonsters/../skills/fly#_fly) +22, [Handle Animal](additionalMonsters/../skills/handleAnimal#_handle-animal) +9, [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +15, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (any one) +14, [Perception](additionalMonsters/../skills/perception#_perception) +23, [Ride](additionalMonsters/../skills/ride#_ride) +7, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +15, [Spellcraft](additionalMonsters/../skills/spellcraft#_spellcraft) +11, [Stealth](additionalMonsters/../skills/stealth#_stealth) +18; **Racial Modifiers** [Perception](additionalMonsters/../skills/perception#_perception) +8
 
-**Languages** Celestial, Draconic, Infernal; _ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_, truespeech
+**Languages** Celestial, Draconic, Infernal; _ [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_, truespeech
 
-**SQ** lay on hands (4d6, 7_dir/day, as a 9th-level paladin)
+**SQ** lay on hands (4d6, 7/day, as a 9th-level paladin)
 
 Ecology
 
-**Environment** any [air](monsters_dir/creatureTypes#_air-subtype) (Nirvana)
+**Environment** any [air](monsters/creatureTypes#_air-subtype) (Nirvana)
 
 **Organization** solitary, pair, or squad (3–6)
 
@@ -110,41 +110,41 @@ This mermaid-like creature has the torso and head of a long-haired woman and the
 
 **XP 51,200**
 
-NG Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [agathion](monsters_dir/creatureTypes#_agathion-subtype), [aquatic](monsters_dir/creatureTypes#_aquatic-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [good](monsters_dir/creatureTypes#_good-subtype))
+NG Medium [outsider](monsters/creatureTypes#_outsider) ( [agathion](monsters/creatureTypes#_agathion-subtype), [aquatic](monsters/creatureTypes#_aquatic-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [good](monsters/creatureTypes#_good-subtype))
 
-**Init** +8; **Senses** [blindsense](monsters_dir/universalMonsterRules#_blindsense) 60 ft., darkvision 60 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +28
+**Init** +8; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 60 ft., darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +28
 
 **Aura** protective aura (20 ft.)
 
 Defense
 
-**AC** 30, touch 15, flat-footed 25 (+4 Dex, +1 dodge, +15 natural; +4 deflection vs. [evil](monsters_dir/creatureTypes#_evil-subtype))
+**AC** 30, touch 15, flat-footed 25 (+4 Dex, +1 dodge, +15 natural; +4 deflection vs. [evil](monsters/creatureTypes#_evil-subtype))
 
-**hp** 212 (17d10+119); regeneration 5 ( [evil](monsters_dir/creatureTypes#_evil-subtype) weapons and spells)
+**hp** 212 (17d10+119); regeneration 5 ( [evil](monsters/creatureTypes#_evil-subtype) weapons and spells)
 
-**Fort** +17, **Ref** +16, **Will** +9; +4 vs. [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), +4 [resistance](monsters_dir/universalMonsterRules#_resistance) vs. [evil](monsters_dir/creatureTypes#_evil-subtype)
+**Fort** +17, **Ref** +16, **Will** +9; +4 vs. [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), +4 [resistance](monsters/universalMonsterRules#_resistance) vs. [evil](monsters/creatureTypes#_evil-subtype)
 
-**DR** 10_dir/evil and silver; **Immune** [cold](monsters_dir/creatureTypes#_cold-subtype), electricity, petrification; **Resist** sonic 10; **SR** 26
+**DR** 10/evil and silver; **Immune** [cold](monsters/creatureTypes#_cold-subtype), electricity, petrification; **Resist** sonic 10; **SR** 26
 
 Offense
 
 **Speed** 10 ft., swim 80 ft.
 
-**Melee** _+1 [shocking burst](additionalMonsters_dir/../magicItems_dir/weapons#_weapons-shocking-burst) shortspear_ +28_dir/+23_dir/+18_dir/+13 (1d6+14 plus 1d6 electricity), tail slap +22 (1d6+4 plus push and stun)
+**Melee** _+1 [shocking burst](additionalMonsters/../magicItems/weapons#_weapons-shocking-burst) shortspear_ +28/+23/+18/+13 (1d6+14 plus 1d6 electricity), tail slap +22 (1d6+4 plus push and stun)
 
 **Special Attacks** shockwave, push (tail slap, 10 ft.)
 
 **Spell-Like Abilities** (CL 15th; concentration +18)
 
-Constant—_ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_
+Constant—_ [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_
 
-At will—_ [detect thoughts](additionalMonsters_dir/../spells_dir/detectThoughts#_detect-thoughts)_ (DC 15), _ [light](additionalMonsters_dir/../spells_dir/light#_light)_, _ [lightning bolt](additionalMonsters_dir/../spells_dir/lightningBolt#_lightning-bolt)_ (DC 16), _ [hold monster](additionalMonsters_dir/../spells_dir/holdMonster#_hold-monster)_ (DC 18), _ [message](additionalMonsters_dir/../spells_dir/message#_message), [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only),
+At will—_ [detect thoughts](additionalMonsters/../spells/detectThoughts#_detect-thoughts)_ (DC 15), _ [light](additionalMonsters/../spells/light#_light)_, _ [lightning bolt](additionalMonsters/../spells/lightningBolt#_lightning-bolt)_ (DC 16), _ [hold monster](additionalMonsters/../spells/holdMonster#_hold-monster)_ (DC 18), _ [message](additionalMonsters/../spells/message#_message), [greater teleport](additionalMonsters/../spells/teleport#_teleport-greater) _(self plus 50 lbs. of objects only),
 
-7_dir/day—_ [break enchantment](additionalMonsters_dir/../spells_dir/breakEnchantment#_break-enchantment)_, _ [cure serious wounds](additionalMonsters_dir/../spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _ [neutralize poison](additionalMonsters_dir/../spells_dir/neutralizePoison#_neutralize-poison)_, _ [remove disease](additionalMonsters_dir/../spells_dir/removeDisease#_remove-disease)_
+7/day—_ [break enchantment](additionalMonsters/../spells/breakEnchantment#_break-enchantment)_, _ [cure serious wounds](additionalMonsters/../spells/cureSeriousWounds#_cure-serious-wounds)_, _ [neutralize poison](additionalMonsters/../spells/neutralizePoison#_neutralize-poison)_, _ [remove disease](additionalMonsters/../spells/removeDisease#_remove-disease)_
 
-3_dir/day—_ [cone of cold](additionalMonsters_dir/../spells_dir/coneOfCold#_cone-of-cold)_ (DC 18), _ [cure critical wounds](additionalMonsters_dir/../spells_dir/cureCriticalWounds#_cure-critical-wounds)_, _ [greater restoration](additionalMonsters_dir/../spells_dir/restoration#_restoration-greater)_, _ [heal](additionalMonsters_dir/../spells_dir/heal#_heal)_
+3/day—_ [cone of cold](additionalMonsters/../spells/coneOfCold#_cone-of-cold)_ (DC 18), _ [cure critical wounds](additionalMonsters/../spells/cureCriticalWounds#_cure-critical-wounds)_, _ [greater restoration](additionalMonsters/../spells/restoration#_restoration-greater)_, _ [heal](additionalMonsters/../spells/heal#_heal)_
 
-1_dir/day—_ [awaken](additionalMonsters_dir/../spells_dir/awaken#_awaken)_, _ [summon monster VIII](additionalMonsters_dir/../spells_dir/summonMonster#_summon-monster-viii)_ (water elementals only)
+1/day—_ [awaken](additionalMonsters/../spells/awaken#_awaken)_, _ [summon monster VIII](additionalMonsters/../spells/summonMonster#_summon-monster-viii)_ (water elementals only)
 
 Statistics
 
@@ -152,13 +152,13 @@ Statistics
 
 **Base Atk** +17; **CMB** +26; **CMD** 41 (can't be tripped)
 
-**Feats** [Combat Casting](additionalMonsters_dir/../feats#_combat-casting), [Dodge](additionalMonsters_dir/../feats#_dodge), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Mobility](additionalMonsters_dir/../feats#_mobility), [Spell Penetration](additionalMonsters_dir/../feats#_spell-penetration), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (shortspear, tail slap), [Wind Stance](additionalMonsters_dir/../feats#_wind-stance)
+**Feats** [Combat Casting](additionalMonsters/../feats#_combat-casting), [Dodge](additionalMonsters/../feats#_dodge), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Mobility](additionalMonsters/../feats#_mobility), [Spell Penetration](additionalMonsters/../feats#_spell-penetration), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (shortspear, tail slap), [Wind Stance](additionalMonsters/../feats#_wind-stance)
 
-**Skills** [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +12, [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) +14, [Heal](additionalMonsters_dir/../skills_dir/heal#_heal) +21, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana) +22, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (nature) +19, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +22, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +28, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +24, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +24, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +17; **Racial Modifiers** +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)
+**Skills** [Diplomacy](additionalMonsters/../skills/diplomacy#_diplomacy) +12, [Handle Animal](additionalMonsters/../skills/handleAnimal#_handle-animal) +14, [Heal](additionalMonsters/../skills/heal#_heal) +21, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (arcana) +22, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (nature) +19, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (planes) +22, [Perception](additionalMonsters/../skills/perception#_perception) +28, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +24, [Stealth](additionalMonsters/../skills/stealth#_stealth) +24, [Swim](additionalMonsters/../skills/swim#_swim) +17; **Racial Modifiers** +4 [Perception](additionalMonsters/../skills/perception#_perception)
 
-**Languages** Celestial, Draconic, Infernal; _ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_, truespeech
+**Languages** Celestial, Draconic, Infernal; _ [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_, truespeech
 
-**SQ** amphibious, lay on hands (8d6, 11_dir/day, as a 17th-level paladin)
+**SQ** amphibious, lay on hands (8d6, 11/day, as a 17th-level paladin)
 
 Ecology
 
@@ -166,13 +166,13 @@ Ecology
 
 **Organization** solitary, pair, or pod (3–6)
 
-**Treasure** double (_+1 [shocking burst](additionalMonsters_dir/../magicItems_dir/weapons#_weapons-shocking-burst) shortspear_, other treasure)
+**Treasure** double (_+1 [shocking burst](additionalMonsters/../magicItems/weapons#_weapons-shocking-burst) shortspear_, other treasure)
 
 Special Abilities
 
-**Protective Aura (Su)** Against attacks made or effects created by [evil](monsters_dir/creatureTypes#_evil-subtype) creatures, this ability provides a +4 deflection bonus to AC and a +4 [resistance](monsters_dir/universalMonsterRules#_resistance) bonus on saving throws to anyone within 20 feet of the cetaceal. Otherwise, it functions as a _ [magic circle against evil](additionalMonsters_dir/../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_ effect and a _ [lesser globe of invulnerability](additionalMonsters_dir/../spells_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, both with a radius of 20 feet (caster level equals cetaceal's HD). The defensive benefits from the circle are not included in the above stat block.
+**Protective Aura (Su)** Against attacks made or effects created by [evil](monsters/creatureTypes#_evil-subtype) creatures, this ability provides a +4 deflection bonus to AC and a +4 [resistance](monsters/universalMonsterRules#_resistance) bonus on saving throws to anyone within 20 feet of the cetaceal. Otherwise, it functions as a _ [magic circle against evil](additionalMonsters/../spells/magicCircleAgainstEvil#_magic-circle-against-evil)_ effect and a _ [lesser globe of invulnerability](additionalMonsters/../spells/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, both with a radius of 20 feet (caster level equals cetaceal's HD). The defensive benefits from the circle are not included in the above stat block.
 
-**Shockwave (Su)** Once per day, a cetaceal can release a 100-foot-radius burst of energy. All creatures in the area take 17d6 damage; half of this damage is [cold](monsters_dir/creatureTypes#_cold-subtype), and half is electricity (DC 25 Reflex save halves). The save DC is Constitution-based.
+**Shockwave (Su)** Once per day, a cetaceal can release a 100-foot-radius burst of energy. All creatures in the area take 17d6 damage; half of this damage is [cold](monsters/creatureTypes#_cold-subtype), and half is electricity (DC 25 Reflex save halves). The save DC is Constitution-based.
 
 **Stun (Ex)** Any creature moved by a cetaceal's push attack must make a DC 25 Fortitude saving throw or be stunned for 1 round. The DC is Constitution-based.
 
@@ -188,21 +188,21 @@ This noble creature seems to be part serpent, part humanoid, and part dragon, wi
 
 **XP 307,200**
 
-NG Large [outsider](monsters_dir/creatureTypes#_outsider) ( [agathion](monsters_dir/creatureTypes#_agathion-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [good](monsters_dir/creatureTypes#_good-subtype))
+NG Large [outsider](monsters/creatureTypes#_outsider) ( [agathion](monsters/creatureTypes#_agathion-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [good](monsters/creatureTypes#_good-subtype))
 
-**Init** +6; **Senses** [blindsense](monsters_dir/universalMonsterRules#_blindsense) 60 ft., darkvision 120 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +48
+**Init** +6; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 60 ft., darkvision 120 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +48
 
 **Aura** protective aura (20 ft.)
 
 Defense
 
-**AC** 36, touch 18, flat-footed 33 (+2 Dex, +1 dodge, +6 insight, +18 natural, –1 size) (+4 deflection vs. [evil](monsters_dir/creatureTypes#_evil-subtype))
+**AC** 36, touch 18, flat-footed 33 (+2 Dex, +1 dodge, +6 insight, +18 natural, –1 size) (+4 deflection vs. [evil](monsters/creatureTypes#_evil-subtype))
 
-**hp** 324 (24d10+192); regeneration 10 ( [evil](monsters_dir/creatureTypes#_evil-subtype) weapons and spells)
+**hp** 324 (24d10+192); regeneration 10 ( [evil](monsters/creatureTypes#_evil-subtype) weapons and spells)
 
-**Fort** +22, **Ref** +16, **Will** +17; +4 vs. [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), +4 [resistance](monsters_dir/universalMonsterRules#_resistance) vs. [evil](monsters_dir/creatureTypes#_evil-subtype),
+**Fort** +22, **Ref** +16, **Will** +17; +4 vs. [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), +4 [resistance](monsters/universalMonsterRules#_resistance) vs. [evil](monsters/creatureTypes#_evil-subtype),
 
-**DR** 15_dir/evil and silver; **Immune** one energy type (see Celestial Focus), electricity, petrification; **Resist** cold 10, sonic 10; **SR** 31
+**DR** 15/evil and silver; **Immune** one energy type (see Celestial Focus), electricity, petrification; **Resist** cold 10, sonic 10; **SR** 31
 
 Offense
 
@@ -212,41 +212,41 @@ Offense
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (120-ft. line, 20d6 energy damage, Reflex DC 30 half, usable once every 1d4 rounds)
+**Special Attacks** [breath weapon](monsters/universalMonsterRules#_breath-weapon) (120-ft. line, 20d6 energy damage, Reflex DC 30 half, usable once every 1d4 rounds)
 
 **Cleric Spells Prepared** (CL 17th; concentration +23)
 
-9th—_ [implosion](additionalMonsters_dir/../spells_dir/implosion#_implosion)_ (DC 26), _ [storm of vengeance](additionalMonsters_dir/../spells_dir/stormOfVengeance#_storm-of-vengeance)_D (DC 26)
+9th—_ [implosion](additionalMonsters/../spells/implosion#_implosion)_ (DC 26), _ [storm of vengeance](additionalMonsters/../spells/stormOfVengeance#_storm-of-vengeance)_D (DC 26)
 
-8th—_ [demand](additionalMonsters_dir/../spells_dir/demand#_demand)_D, _ [earthquake](additionalMonsters_dir/../spells_dir/earthquake#_earthquake)_, quickened _ [holy smite](additionalMonsters_dir/../spells_dir/holySmite#_holy-smite)_ (DC 21)
+8th—_ [demand](additionalMonsters/../spells/demand#_demand)_D, _ [earthquake](additionalMonsters/../spells/earthquake#_earthquake)_, quickened _ [holy smite](additionalMonsters/../spells/holySmite#_holy-smite)_ (DC 21)
 
-7th—empowered _ [breath of life](additionalMonsters_dir/../spells_dir/breathOfLife#_breath-of-life)_, empowered _ [flame strike](additionalMonsters_dir/../spells_dir/flameStrike#_flame-strike)_ (DC 22), _ [holy word](additionalMonsters_dir/../spells_dir/holyWord#_holy-word)_ (DC 24), quickened _ [invisibility purge](additionalMonsters_dir/../spells_dir/invisibilityPurge#_invisibility-purge)_, _ [repulsion](additionalMonsters_dir/../spells_dir/repulsion#_repulsion)_D (DC 24)
+7th—empowered _ [breath of life](additionalMonsters/../spells/breathOfLife#_breath-of-life)_, empowered _ [flame strike](additionalMonsters/../spells/flameStrike#_flame-strike)_ (DC 22), _ [holy word](additionalMonsters/../spells/holyWord#_holy-word)_ (DC 24), quickened _ [invisibility purge](additionalMonsters/../spells/invisibilityPurge#_invisibility-purge)_, _ [repulsion](additionalMonsters/../spells/repulsion#_repulsion)_D (DC 24)
 
-6th—_ [animate objects](additionalMonsters_dir/../spells_dir/animateObjects#_animate-objects)_, _ [blade barrier](additionalMonsters_dir/../spells_dir/bladeBarrier#_blade-barrier)_D (DC 23), _ [find the path](additionalMonsters_dir/../spells_dir/findThePath#_find-the-path)_, _ [heal](additionalMonsters_dir/../spells_dir/heal#_heal)_, _ [heroes' feast](additionalMonsters_dir/../spells_dir/heroesFeast#_heroes-feast)_, quickened_ [remove paralysis](additionalMonsters_dir/../spells_dir/removeParalysis#_remove-paralysis)_
+6th—_ [animate objects](additionalMonsters/../spells/animateObjects#_animate-objects)_, _ [blade barrier](additionalMonsters/../spells/bladeBarrier#_blade-barrier)_D (DC 23), _ [find the path](additionalMonsters/../spells/findThePath#_find-the-path)_, _ [heal](additionalMonsters/../spells/heal#_heal)_, _ [heroes' feast](additionalMonsters/../spells/heroesFeast#_heroes-feast)_, quickened_ [remove paralysis](additionalMonsters/../spells/removeParalysis#_remove-paralysis)_
 
-5th—_ [breath of life](additionalMonsters_dir/../spells_dir/breathOfLife#_breath-of-life)_, _ [dispel evil](additionalMonsters_dir/../spells_dir/dispelEvil#_dispel-evil)D_, _ [flame strike](additionalMonsters_dir/../spells_dir/flameStrike#_flame-strike)_ (DC 22), _ [greater command](additionalMonsters_dir/../spells_dir/command#_command-greater)_ (DC 22), _ [spell resistance](additionalMonsters_dir/../magicItems_dir/armor#_armor-spell-resistance)_, _ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_
+5th—_ [breath of life](additionalMonsters/../spells/breathOfLife#_breath-of-life)_, _ [dispel evil](additionalMonsters/../spells/dispelEvil#_dispel-evil)D_, _ [flame strike](additionalMonsters/../spells/flameStrike#_flame-strike)_ (DC 22), _ [greater command](additionalMonsters/../spells/command#_command-greater)_ (DC 22), _ [spell resistance](additionalMonsters/../magicItems/armor#_armor-spell-resistance)_, _ [true seeing](additionalMonsters/../spells/trueSeeing#_true-seeing)_
 
-4th—_ [cure critical wounds](additionalMonsters_dir/../spells_dir/cureCriticalWounds#_cure-critical-wounds)_ (3), _ [freedom of movement](additionalMonsters_dir/../spells_dir/freedomOfMovement#_freedom-of-movement)_, _ [holy smite](additionalMonsters_dir/../spells_dir/holySmite#_holy-smite)_D (DC 21), _ [repel vermin](additionalMonsters_dir/../spells_dir/repelVermin#_repel-vermin)_ (DC 21)
+4th—_ [cure critical wounds](additionalMonsters/../spells/cureCriticalWounds#_cure-critical-wounds)_ (3), _ [freedom of movement](additionalMonsters/../spells/freedomOfMovement#_freedom-of-movement)_, _ [holy smite](additionalMonsters/../spells/holySmite#_holy-smite)_D (DC 21), _ [repel vermin](additionalMonsters/../spells/repelVermin#_repel-vermin)_ (DC 21)
 
-3rd—_ [bestow curse](additionalMonsters_dir/../spells_dir/bestowCurse#_bestow-curse)_ (DC 20), _ [daylight](additionalMonsters_dir/../spells_dir/daylight#_daylight)_, _ [dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic)_, _ [helping hand](additionalMonsters_dir/../spells_dir/helpingHand#_helping-hand)_, _ [magic vestment](additionalMonsters_dir/../spells_dir/magicVestment#_magic-vestment)_D, _ [prayer](additionalMonsters_dir/../spells_dir/prayer#_prayer)_, _ [protection from energy](additionalMonsters_dir/../spells_dir/protectionFromEnergy#_protection-from-energy)_
+3rd—_ [bestow curse](additionalMonsters/../spells/bestowCurse#_bestow-curse)_ (DC 20), _ [daylight](additionalMonsters/../spells/daylight#_daylight)_, _ [dispel magic](additionalMonsters/../spells/dispelMagic#_dispel-magic)_, _ [helping hand](additionalMonsters/../spells/helpingHand#_helping-hand)_, _ [magic vestment](additionalMonsters/../spells/magicVestment#_magic-vestment)_D, _ [prayer](additionalMonsters/../spells/prayer#_prayer)_, _ [protection from energy](additionalMonsters/../spells/protectionFromEnergy#_protection-from-energy)_
 
-2nd—_ [align weapon](additionalMonsters_dir/../spells_dir/alignWeapon#_align-weapon)_D (good only), _ [calm emotions](additionalMonsters_dir/../spells_dir/calmEmotions#_calm-emotions)_ (DC 19), _ [enthrall](additionalMonsters_dir/../spells_dir/enthrall#_enthrall)_, _ [hold person](additionalMonsters_dir/../spells_dir/holdPerson#_hold-person) _(DC 19), _ [lesser restoration](additionalMonsters_dir/../spells_dir/restoration#_restoration-lesser) _(2), _ [shield other](additionalMonsters_dir/../spells_dir/shieldOther#_shield-other)_
+2nd—_ [align weapon](additionalMonsters/../spells/alignWeapon#_align-weapon)_D (good only), _ [calm emotions](additionalMonsters/../spells/calmEmotions#_calm-emotions)_ (DC 19), _ [enthrall](additionalMonsters/../spells/enthrall#_enthrall)_, _ [hold person](additionalMonsters/../spells/holdPerson#_hold-person) _(DC 19), _ [lesser restoration](additionalMonsters/../spells/restoration#_restoration-lesser) _(2), _ [shield other](additionalMonsters/../spells/shieldOther#_shield-other)_
 
-1st—_ [bless](additionalMonsters_dir/../spells_dir/bless#_bless)_, _ [detect undead](additionalMonsters_dir/../spells_dir/detectUndead#_detect-undead)_, _ [divine favor](additionalMonsters_dir/../spells_dir/divineFavor#_divine-favor)_D, _ [obscuring mist](additionalMonsters_dir/../spells_dir/obscuringMist#_obscuring-mist)_, _ [remove fear](additionalMonsters_dir/../spells_dir/removeFear#_remove-fear)_, _ [sanctuary](additionalMonsters_dir/../spells_dir/sanctuary#_sanctuary)_ (DC 18), _ [shield of faith](additionalMonsters_dir/../spells_dir/shieldOfFaith#_shield-of-faith)_
+1st—_ [bless](additionalMonsters/../spells/bless#_bless)_, _ [detect undead](additionalMonsters/../spells/detectUndead#_detect-undead)_, _ [divine favor](additionalMonsters/../spells/divineFavor#_divine-favor)_D, _ [obscuring mist](additionalMonsters/../spells/obscuringMist#_obscuring-mist)_, _ [remove fear](additionalMonsters/../spells/removeFear#_remove-fear)_, _ [sanctuary](additionalMonsters/../spells/sanctuary#_sanctuary)_ (DC 18), _ [shield of faith](additionalMonsters/../spells/shieldOfFaith#_shield-of-faith)_
 
-0—_ [detect poison](additionalMonsters_dir/../spells_dir/detectPoison#_detect-poison)_, _ [guidance](additionalMonsters_dir/../spells_dir/guidance#_guidance)_, _ [purify food and drink](additionalMonsters_dir/../spells_dir/purifyFoodAndDrink#_purify-food-and-drink)_, _ [stabilize](additionalMonsters_dir/../spells_dir/stabilize#_stabilize)_
+0—_ [detect poison](additionalMonsters/../spells/detectPoison#_detect-poison)_, _ [guidance](additionalMonsters/../spells/guidance#_guidance)_, _ [purify food and drink](additionalMonsters/../spells/purifyFoodAndDrink#_purify-food-and-drink)_, _ [stabilize](additionalMonsters/../spells/stabilize#_stabilize)_
 
 **D** domain spell; **Domains** Good, Nobility
 
 **Spell-Like Abilities** (CL 24th; concentration +30)
 
-Constant—_ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_
+Constant—_ [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_
 
-At will—_ [beast shape II](additionalMonsters_dir/../spells_dir/beastShape#_beast-shape-ii)_, _ [command](additionalMonsters_dir/../spells_dir/command#_command)_ (DC 17), _ [detect thoughts](additionalMonsters_dir/../spells_dir/detectThoughts#_detect-thoughts)_, _ [elemental body III](additionalMonsters_dir/../spells_dir/elementalBody#_elemental-body-iii)_ (air or water elementals only), _ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only), _ [gust of wind](additionalMonsters_dir/../spells_dir/gustOfWind#_gust-of-wind)_, _ [hold monster](additionalMonsters_dir/../spells_dir/holdMonster#_hold-monster)_ (DC 20), _ [identify](additionalMonsters_dir/../spells_dir/identify#_identify)_, _ [light](additionalMonsters_dir/../spells_dir/light#_light)_, _ [lightning bolt](additionalMonsters_dir/../spells_dir/lightningBolt#_lightning-bolt)_ (DC 19), _ [mage hand](additionalMonsters_dir/../spells_dir/mageHand#_mage-hand)_, _ [message](additionalMonsters_dir/../spells_dir/message#_message)_
+At will—_ [beast shape II](additionalMonsters/../spells/beastShape#_beast-shape-ii)_, _ [command](additionalMonsters/../spells/command#_command)_ (DC 17), _ [detect thoughts](additionalMonsters/../spells/detectThoughts#_detect-thoughts)_, _ [elemental body III](additionalMonsters/../spells/elementalBody#_elemental-body-iii)_ (air or water elementals only), _ [greater teleport](additionalMonsters/../spells/teleport#_teleport-greater) _(self plus 50 lbs. of objects only), _ [gust of wind](additionalMonsters/../spells/gustOfWind#_gust-of-wind)_, _ [hold monster](additionalMonsters/../spells/holdMonster#_hold-monster)_ (DC 20), _ [identify](additionalMonsters/../spells/identify#_identify)_, _ [light](additionalMonsters/../spells/light#_light)_, _ [lightning bolt](additionalMonsters/../spells/lightningBolt#_lightning-bolt)_ (DC 19), _ [mage hand](additionalMonsters/../spells/mageHand#_mage-hand)_, _ [message](additionalMonsters/../spells/message#_message)_
 
-7_dir/day—_ [break enchantment](additionalMonsters_dir/../spells_dir/breakEnchantment#_break-enchantment)_, _ [cure serious wounds](additionalMonsters_dir/../spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _ [neutralize poison](additionalMonsters_dir/../spells_dir/neutralizePoison#_neutralize-poison)_, _ [remove disease](additionalMonsters_dir/../spells_dir/removeDisease#_remove-disease)_
+7/day—_ [break enchantment](additionalMonsters/../spells/breakEnchantment#_break-enchantment)_, _ [cure serious wounds](additionalMonsters/../spells/cureSeriousWounds#_cure-serious-wounds)_, _ [neutralize poison](additionalMonsters/../spells/neutralizePoison#_neutralize-poison)_, _ [remove disease](additionalMonsters/../spells/removeDisease#_remove-disease)_
 
-3_dir/day—_ [control water](additionalMonsters_dir/../spells_dir/controlWater#_control-water)_, _ [control weather](additionalMonsters_dir/../spells_dir/controlWeather#_control-weather)_, _ [control winds](additionalMonsters_dir/../spells_dir/controlWinds#_control-winds)_, _ [heal](additionalMonsters_dir/../spells_dir/heal#_heal)_, _ [plane shift](additionalMonsters_dir/../spells_dir/planeShift#_plane-shift) _(DC 23)
+3/day—_ [control water](additionalMonsters/../spells/controlWater#_control-water)_, _ [control weather](additionalMonsters/../spells/controlWeather#_control-weather)_, _ [control winds](additionalMonsters/../spells/controlWinds#_control-winds)_, _ [heal](additionalMonsters/../spells/heal#_heal)_, _ [plane shift](additionalMonsters/../spells/planeShift#_plane-shift) _(DC 23)
 
 Statistics
 
@@ -254,31 +254,31 @@ Statistics
 
 **Base Atk** +24; **CMB** +38; **CMD** 57 (can't be tripped)
 
-**Feats** [Alertness](additionalMonsters_dir/../feats#_alertness), [Combat Casting](additionalMonsters_dir/../feats#_combat-casting), [Dodge](additionalMonsters_dir/../feats#_dodge), [Empower Spell](additionalMonsters_dir/../feats#_empower-spell), [Greater Spell Penetration](additionalMonsters_dir/../feats#_greater-spell-penetration), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Mobility](additionalMonsters_dir/../feats#_mobility), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Quicken Spell](additionalMonsters_dir/../feats#_quicken-spell), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)), [Spell Penetration](additionalMonsters_dir/../feats#_spell-penetration)
+**Feats** [Alertness](additionalMonsters/../feats#_alertness), [Combat Casting](additionalMonsters/../feats#_combat-casting), [Dodge](additionalMonsters/../feats#_dodge), [Empower Spell](additionalMonsters/../feats#_empower-spell), [Greater Spell Penetration](additionalMonsters/../feats#_greater-spell-penetration), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Mobility](additionalMonsters/../feats#_mobility), [Power Attack](additionalMonsters/../feats#_power-attack), [Quicken Spell](additionalMonsters/../feats#_quicken-spell), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skills/perception#_perception)), [Spell Penetration](additionalMonsters/../feats#_spell-penetration)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +25, [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +29, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +26, [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +22, [Heal](additionalMonsters_dir/../skills_dir/heal#_heal) +27, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +29, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana) +30, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (nature) +27, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +34, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (religion) +31, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +48, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +34, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +27, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +21, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +26; **Racial Modifiers** +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)
+**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +25, [Bluff](additionalMonsters/../skills/bluff#_bluff) +29, [Diplomacy](additionalMonsters/../skills/diplomacy#_diplomacy) +26, [Escape Artist](additionalMonsters/../skills/escapeArtist#_escape-artist) +22, [Heal](additionalMonsters/../skills/heal#_heal) +27, [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +29, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (arcana) +30, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (nature) +27, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (planes) +34, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (religion) +31, [Perception](additionalMonsters/../skills/perception#_perception) +48, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +34, [Spellcraft](additionalMonsters/../skills/spellcraft#_spellcraft) +27, [Stealth](additionalMonsters/../skills/stealth#_stealth) +21, [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device) +26; **Racial Modifiers** +4 [Perception](additionalMonsters/../skills/perception#_perception)
 
-**Languages** Celestial, Draconic, Infernal; _ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_, truespeech
+**Languages** Celestial, Draconic, Infernal; _ [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_, truespeech
 
-**SQ** celestial focus, divine insight, lay on hands (10d6, 16_dir/day, as a 20th-level paladin)
+**SQ** celestial focus, divine insight, lay on hands (10d6, 16/day, as a 20th-level paladin)
 
 Ecology
 
-**Environment** any [air](monsters_dir/creatureTypes#_air-subtype) (Nirvana)
+**Environment** any [air](monsters/creatureTypes#_air-subtype) (Nirvana)
 
-**Organization** solitary, pair, or [flight](monsters_dir/universalMonsterRules#_flight-(ex,-sp,-or-su)) (3–6)
+**Organization** solitary, pair, or [flight](monsters/universalMonsterRules#_flight-(ex,-sp,-or-su)) (3–6)
 
 **Treasure** double
 
 Special Abilities
 
-**Celestial Focus (Ex)** A draconal's color indicates aspects of its power and attunement to the powers of the [good](monsters_dir/creatureTypes#_good-subtype) planes. These determine the draconal's [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon), the additional energy damage of its claw and bite attacks, additional resistances and immunities, and its additional domain choices (see Spells, below).
+**Celestial Focus (Ex)** A draconal's color indicates aspects of its power and attunement to the powers of the [good](monsters/creatureTypes#_good-subtype) planes. These determine the draconal's [breath weapon](monsters/universalMonsterRules#_breath-weapon), the additional energy damage of its claw and bite attacks, additional resistances and immunities, and its additional domain choices (see Spells, below).
 
 **Divine Insight (Su)** A draconal adds its Charisma bonus as an insight bonus to Armor Class.
 
-**Protective Aura (Su)** Against attacks made or effects created by [evil](monsters_dir/creatureTypes#_evil-subtype) creatures, this ability provides a +4 deflection bonus to AC and a +4 [resistance](monsters_dir/universalMonsterRules#_resistance) bonus on saving throws to anyone within 20 feet of the draconal. Otherwise, it functions as a _ [magic circle against evil](additionalMonsters_dir/../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_ effect and a _ [lesser globe of invulnerability](additionalMonsters_dir/../spells_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, both with a radius of 20 feet (caster level equals draconal's HD). (The defensive benefits from the circle are not included in a draconal's stat block.)
+**Protective Aura (Su)** Against attacks made or effects created by [evil](monsters/creatureTypes#_evil-subtype) creatures, this ability provides a +4 deflection bonus to AC and a +4 [resistance](monsters/universalMonsterRules#_resistance) bonus on saving throws to anyone within 20 feet of the draconal. Otherwise, it functions as a _ [magic circle against evil](additionalMonsters/../spells/magicCircleAgainstEvil#_magic-circle-against-evil)_ effect and a _ [lesser globe of invulnerability](additionalMonsters/../spells/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, both with a radius of 20 feet (caster level equals draconal's HD). (The defensive benefits from the circle are not included in a draconal's stat block.)
 
-**Spells** Draconals cast spells as 17th-level clerics. Like clerics, they have access to two domains, selecting from the following list: [Air](monsters_dir/creatureTypes#_air-subtype), [Good](monsters_dir/creatureTypes#_good-subtype), Nobility, Weather, and two additional domain options based on their color (see facing page). The majority of draconals choose [Good](monsters_dir/creatureTypes#_good-subtype) and Nobility as their domains (as represented by this stat block). Draconals have a domain spell slot at each spell level but do not gain the granted powers of their chosen domains, nor do they gain access to other cleric abilities.
+**Spells** Draconals cast spells as 17th-level clerics. Like clerics, they have access to two domains, selecting from the following list: [Air](monsters/creatureTypes#_air-subtype), [Good](monsters/creatureTypes#_good-subtype), Nobility, Weather, and two additional domain options based on their color (see facing page). The majority of draconals choose [Good](monsters/creatureTypes#_good-subtype) and Nobility as their domains (as represented by this stat block). Draconals have a domain spell slot at each spell level but do not gain the granted powers of their chosen domains, nor do they gain access to other cleric abilities.
 
 Draconals are mighty agathion lords, few in number and greatly removed from mortal affairs. They watch over powerful magic and are direct agents of the gods and the needs of the good planes. Patient and ageless, they plan for the long term, which often frustrates mortal creatures who seek to gain their assistance with a threat in the here and now. A draconal would rather support or enhance a group of heroes than tackle a problem directly, maintaining its focus on planar matters.
 
@@ -306,39 +306,39 @@ This lion-headed humanoid has golden fur, sharp teeth, and long cat-like claws o
 
 **XP 19,200**
 
-NG Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [agathion](monsters_dir/creatureTypes#_agathion-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [good](monsters_dir/creatureTypes#_good-subtype))
+NG Medium [outsider](monsters/creatureTypes#_outsider) ( [agathion](monsters/creatureTypes#_agathion-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [good](monsters/creatureTypes#_good-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +19
+**Init** +7; **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +19
 
 **Aura** protective aura (20 ft.)
 
 Defense
 
-**AC** 27, touch 14, flat-footed 23 (+3 Dex, +1 dodge, +13 natural) (+4 deflection vs. [evil](monsters_dir/creatureTypes#_evil-subtype))
+**AC** 27, touch 14, flat-footed 23 (+3 Dex, +1 dodge, +13 natural) (+4 deflection vs. [evil](monsters/creatureTypes#_evil-subtype))
 
 **hp** 147 (14d10+70)
 
-**Fort** +14, **Ref** +12, **Will** +6; +4 vs. [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), +4 [resistance](monsters_dir/universalMonsterRules#_resistance) vs. [evil](monsters_dir/creatureTypes#_evil-subtype)
+**Fort** +14, **Ref** +12, **Will** +6; +4 vs. [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), +4 [resistance](monsters/universalMonsterRules#_resistance) vs. [evil](monsters/creatureTypes#_evil-subtype)
 
-**DR** 10_dir/evil and silver; **Immune** electricity, petrification; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, sonic 10; **SR** 23
+**DR** 10/evil and silver; **Immune** electricity, petrification; **Resist** [cold](monsters/creatureTypes#_cold-subtype) 10, sonic 10; **SR** 23
 
 Offense
 
 **Speed** 60 ft.
 
-**Melee** bite +23 (1d8+8 plus [grab](monsters_dir/universalMonsterRules#_grab)), 2 claws +23 (1d6+8)
+**Melee** bite +23 (1d8+8 plus [grab](monsters/universalMonsterRules#_grab)), 2 claws +23 (1d6+8)
 
-**Special Attacks** roar, [pounce](monsters_dir/universalMonsterRules#_pounce), [rake](monsters_dir/universalMonsterRules#_rake) (2 claws +23, 1d6+8)
+**Special Attacks** roar, [pounce](monsters/universalMonsterRules#_pounce), [rake](monsters/universalMonsterRules#_rake) (2 claws +23, 1d6+8)
 
 **Spell-Like Abilities** (CL 14th; concentration +16)
 
-Constant—_ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_
+Constant—_ [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_
 
-At will—_ [detect thoughts](additionalMonsters_dir/../spells_dir/detectThoughts#_detect-thoughts)_, _ [fireball](additionalMonsters_dir/../spells_dir/fireball#_fireball)_ (DC 15), _ [hold monster](additionalMonsters_dir/../spells_dir/holdMonster#_hold-monster)_ (DC 7)
+At will—_ [detect thoughts](additionalMonsters/../spells/detectThoughts#_detect-thoughts)_, _ [fireball](additionalMonsters/../spells/fireball#_fireball)_ (DC 15), _ [hold monster](additionalMonsters/../spells/holdMonster#_hold-monster)_ (DC 7)
 
-3_dir/day—_ [cure critical wounds](additionalMonsters_dir/../spells_dir/cureCriticalWounds#_cure-critical-wounds)_, _ [neutralize poison](additionalMonsters_dir/../spells_dir/neutralizePoison#_neutralize-poison)_, _ [remove disease](additionalMonsters_dir/../spells_dir/removeDisease#_remove-disease), [wall of force](additionalMonsters_dir/../spells_dir/wallOfForce#_wall-of-force)_
+3/day—_ [cure critical wounds](additionalMonsters/../spells/cureCriticalWounds#_cure-critical-wounds)_, _ [neutralize poison](additionalMonsters/../spells/neutralizePoison#_neutralize-poison)_, _ [remove disease](additionalMonsters/../spells/removeDisease#_remove-disease), [wall of force](additionalMonsters/../spells/wallOfForce#_wall-of-force)_
 
-1_dir/day—_ [heal](additionalMonsters_dir/../spells_dir/heal#_heal)_
+1/day—_ [heal](additionalMonsters/../spells/heal#_heal)_
 
 Statistics
 
@@ -346,13 +346,13 @@ Statistics
 
 **Base Atk** +14; **CMB** +22 (+26 grapple); **CMD** 36
 
-**Feats** [Ability Focus](additionalMonsters_dir/../monsters_dir/monsterFeats#_ability-focus) (roar), [Dodge](additionalMonsters_dir/../feats#_dodge), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Mobility](additionalMonsters_dir/../feats#_mobility), [Spring Attack](additionalMonsters_dir/../feats#_spring-attack), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite, claw)
+**Feats** [Ability Focus](additionalMonsters/../monsters/monsterFeats#_ability-focus) (roar), [Dodge](additionalMonsters/../feats#_dodge), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Mobility](additionalMonsters/../feats#_mobility), [Spring Attack](additionalMonsters/../feats#_spring-attack), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (bite, claw)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +24 (+36 jump), [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) +19, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +19, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (any one) +19, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +19, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +19, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +16, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +24; **Racial Modifiers** +4 Acrobatics, +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +24 (+36 jump), [Handle Animal](additionalMonsters/../skills/handleAnimal#_handle-animal) +19, [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +19, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (any one) +19, [Perception](additionalMonsters/../skills/perception#_perception) +19, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +19, [Spellcraft](additionalMonsters/../skills/spellcraft#_spellcraft) +16, [Stealth](additionalMonsters/../skills/stealth#_stealth) +24; **Racial Modifiers** +4 Acrobatics, +4 [Stealth](additionalMonsters/../skills/stealth#_stealth)
 
-**Languages** Celestial, Draconic, Infernal; _ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_, truespeech
+**Languages** Celestial, Draconic, Infernal; _ [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_, truespeech
 
-**SQ** lay on hands (7d6, 9_dir/day, as a 14th-level paladin)
+**SQ** lay on hands (7d6, 9/day, as a 14th-level paladin)
 
 Ecology
 
@@ -364,9 +364,9 @@ Ecology
 
 Special Abilities
 
-**Protective Aura (Su)** Against attacks made or effects created by [evil](monsters_dir/creatureTypes#_evil-subtype) creatures, this ability provides a +4 deflection bonus to AC and a +4 [resistance](monsters_dir/universalMonsterRules#_resistance) bonus on saving throws to anyone within 20 feet of the leonal. Otherwise, it functions as a _ [magic circle against evil](additionalMonsters_dir/../spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_ effect and a _ [lesser globe of invulnerability](additionalMonsters_dir/../spells_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, both with a radius of 20 feet (caster level equals leonal's HD). The defensive benefits from the circle are not included in a leonal's stat block.
+**Protective Aura (Su)** Against attacks made or effects created by [evil](monsters/creatureTypes#_evil-subtype) creatures, this ability provides a +4 deflection bonus to AC and a +4 [resistance](monsters/universalMonsterRules#_resistance) bonus on saving throws to anyone within 20 feet of the leonal. Otherwise, it functions as a _ [magic circle against evil](additionalMonsters/../spells/magicCircleAgainstEvil#_magic-circle-against-evil)_ effect and a _ [lesser globe of invulnerability](additionalMonsters/../spells/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, both with a radius of 20 feet (caster level equals leonal's HD). The defensive benefits from the circle are not included in a leonal's stat block.
 
-**Roar (Su)** Up to three times per day, a leonal can emit a powerful roar as a standard action. Each roar affects a 60-foot cone with the effects of a _ [holy word](additionalMonsters_dir/../spells_dir/holyWord#_holy-word)_ spell and also deals 2d6 points of sonic damage to all creatures in the area (DC 21 Fortitude negates). This is a sonic effect. The save DC is Charisma-based.
+**Roar (Su)** Up to three times per day, a leonal can emit a powerful roar as a standard action. Each roar affects a 60-foot cone with the effects of a _ [holy word](additionalMonsters/../spells/holyWord#_holy-word)_ spell and also deals 2d6 points of sonic damage to all creatures in the area (DC 21 Fortitude negates). This is a sonic effect. The save DC is Charisma-based.
 
 A leonal is a lion-like agathion, noble and fierce. Though gentle with their families and patient with strangers on their home plane, in battle leonals are deadly foes of evil and cruelty. They hunt fiends and other evil monsters, silently tailing their prey until they find the right time to leap and slash. Leonals pride themselves on their hunting prowess, and few land creatures can match their speed. Although capable of using weapons, the majority of leonals prefer to battle evil with tooth and claw.
 
@@ -382,9 +382,9 @@ This black cat has gray stripes, violet eyes, and an unusual white blaze on its 
 
 **XP 600**
 
-NG Tiny [outsider](monsters_dir/creatureTypes#_outsider) ( [agathion](monsters_dir/creatureTypes#_agathion-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [good](monsters_dir/creatureTypes#_good-subtype))
+NG Tiny [outsider](monsters/creatureTypes#_outsider) ( [agathion](monsters/creatureTypes#_agathion-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [good](monsters/creatureTypes#_good-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10
+**Init** +6; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +10
 
 Defense
 
@@ -392,9 +392,9 @@ Defense
 
 **hp** 13 (2d10+2)
 
-**Fort** +5, **Ref** +6, **Will** +2; +4 vs. [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))
+**Fort** +5, **Ref** +6, **Will** +2; +4 vs. [poison](monsters/universalMonsterRules#_poison-(ex-or-su))
 
-**DR** 5_dir/evil or silver; **Immune** electricity, petrification; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, sonic 10; **SR** 13
+**DR** 5/evil or silver; **Immune** electricity, petrification; **Resist** [cold](monsters/creatureTypes#_cold-subtype) 10, sonic 10; **SR** 13
 
 Offense
 
@@ -402,17 +402,17 @@ Offense
 
 **Melee** bite +6 (1d3–4), 2 claws +6 (1d2–4)
 
-**Special Attacks** heroic strength, [pounce](monsters_dir/universalMonsterRules#_pounce)
+**Special Attacks** heroic strength, [pounce](monsters/universalMonsterRules#_pounce)
 
 **Spell-Like Abilities** (CL 2nd; concentration +3)
 
-Constant—_ [know direction](additionalMonsters_dir/../spells_dir/knowDirection#_know-direction), [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_
+Constant—_ [know direction](additionalMonsters/../spells/knowDirection#_know-direction), [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_
 
-At will—_ [dancing lights](additionalMonsters_dir/../spells_dir/dancingLights#_dancing-lights)_, _ [prestidigitation](additionalMonsters_dir/../spells_dir/prestidigitation#_prestidigitation)_, _ [stabilize](additionalMonsters_dir/../spells_dir/stabilize#_stabilize)_
+At will—_ [dancing lights](additionalMonsters/../spells/dancingLights#_dancing-lights)_, _ [prestidigitation](additionalMonsters/../spells/prestidigitation#_prestidigitation)_, _ [stabilize](additionalMonsters/../spells/stabilize#_stabilize)_
 
-1_dir/day—_ [dimension door](additionalMonsters_dir/../spells_dir/dimensionDoor#_dimension-door)_ (self plus 5 lbs. of objects only)
+1/day—_ [dimension door](additionalMonsters/../spells/dimensionDoor#_dimension-door)_ (self plus 5 lbs. of objects only)
 
-1_dir/week—_ [commune](additionalMonsters_dir/../spells_dir/commune#_commune)_ (6 questions, CL 12th)
+1/week—_ [commune](additionalMonsters/../spells/commune#_commune)_ (6 questions, CL 12th)
 
 Statistics
 
@@ -420,13 +420,13 @@ Statistics
 
 **Base Atk** +2; **CMB** +2; **CMD** 8 (12 vs. trip)
 
-**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)B
+**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +11, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +7, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +6, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana) +5, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +19; **Racial Modifiers** +4 [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics), +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception), +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +11, [Climb](additionalMonsters/../skills/climb#_climb) +7, [Fly](additionalMonsters/../skills/fly#_fly) +6, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (arcana) +5, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (planes) +5, [Perception](additionalMonsters/../skills/perception#_perception) +10, [Stealth](additionalMonsters/../skills/stealth#_stealth) +19; **Racial Modifiers** +4 [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics), +4 [Perception](additionalMonsters/../skills/perception#_perception), +4 [Stealth](additionalMonsters/../skills/stealth#_stealth)
 
-**Languages** Celestial, Draconic, Infernal; _ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_, truespeech
+**Languages** Celestial, Draconic, Infernal; _ [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_, truespeech
 
-**SQ** cat's luck, [flight](monsters_dir/universalMonsterRules#_flight-(ex,-sp,-or-su)), lay on hands (1d6, 1_dir/day, always as a 2nd-level paladin), spectral mist
+**SQ** cat's luck, [flight](monsters/universalMonsterRules#_flight-(ex,-sp,-or-su)), lay on hands (1d6, 1/day, always as a 2nd-level paladin), spectral mist
 
 Ecology
 
@@ -442,9 +442,9 @@ Special Abilities
 
 **Heroic Strength (Su)** Once per day, a silvanshee can grant itself a +8 enhancement bonus to Strength for 1 minute.
 
-**Spectral Mist (Su)** A silvanshee can assume an eerie, mist-like form roughly the size and shape of a cat. This ability has the same effect as a _ [gaseous form](additionalMonsters_dir/../spells_dir/gaseousForm#_gaseous-form)_ spell, except the silvanshee retains its own DR and supernatural abilities and can move at its normal speed. It can remain in mist form up to 5 minutes per day. This duration does not have to be consecutive, but it must be used in 1-minute increments.
+**Spectral Mist (Su)** A silvanshee can assume an eerie, mist-like form roughly the size and shape of a cat. This ability has the same effect as a _ [gaseous form](additionalMonsters/../spells/gaseousForm#_gaseous-form)_ spell, except the silvanshee retains its own DR and supernatural abilities and can move at its normal speed. It can remain in mist form up to 5 minutes per day. This duration does not have to be consecutive, but it must be used in 1-minute increments.
 
-Silvanshees are curious but reclusive cat agathions. Unobtrusive and able to blend in among normal animals (unlike the more anthropomorphic agathions), they are the eyes and ears of the good planes in the mortal world. Most roam hills, forests, and plains, keeping an eye out for evil influences. They can be taken as familiars by 7th-level good spellcasters who utilize the [Improved Familiar](additionalMonsters_dir/../feats#_improved-familiar) feat and meet the proper prerequisites. As familiars, silvanshees act as moral guides and steer their mortal allies toward corruptive forces that must be eliminated. In some mortal lands, they are called cat sìth or cath sidhe, and are believed to be disguised witches or fairies—and not necessarily benign creatures, which only encourages silvanshees to avoid strangers.
+Silvanshees are curious but reclusive cat agathions. Unobtrusive and able to blend in among normal animals (unlike the more anthropomorphic agathions), they are the eyes and ears of the good planes in the mortal world. Most roam hills, forests, and plains, keeping an eye out for evil influences. They can be taken as familiars by 7th-level good spellcasters who utilize the [Improved Familiar](additionalMonsters/../feats#_improved-familiar) feat and meet the proper prerequisites. As familiars, silvanshees act as moral guides and steer their mortal allies toward corruptive forces that must be eliminated. In some mortal lands, they are called cat sìth or cath sidhe, and are believed to be disguised witches or fairies—and not necessarily benign creatures, which only encourages silvanshees to avoid strangers.
 
 Silvanshees are not fond of open combat, even against demons, devils, or other fiendish threats, and they're likely to run away if confronted. When they must fight, they prefer greater numbers and the element of surprise, using their magic to temporarily overcome their physical weaknesses, and melting away into mist if the battle turns against them.
 
@@ -458,9 +458,9 @@ Agathion, VulpinalCR 6
 
 **XP 2,400**
 
-NG Small [outsider](monsters_dir/creatureTypes#_outsider) ( [agathion](monsters_dir/creatureTypes#_agathion-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [good](monsters_dir/creatureTypes#_good-subtype))
+NG Small [outsider](monsters/creatureTypes#_outsider) ( [agathion](monsters/creatureTypes#_agathion-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [good](monsters/creatureTypes#_good-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., _ [detect evil](additionalMonsters_dir/../spells_dir/detectEvil#_detect-evil)_, low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +12
+**Init** +7; **Senses** darkvision 60 ft., _ [detect evil](additionalMonsters/../spells/detectEvil#_detect-evil)_, low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +12
 
 **Aura** calm emotions (30 ft.)
 
@@ -470,9 +470,9 @@ Defense
 
 **hp** 59 (7d10+21)
 
-**Fort** +5, **Ref** +10, **Will** +7; +4 vs. [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))
+**Fort** +5, **Ref** +10, **Will** +7; +4 vs. [poison](monsters/universalMonsterRules#_poison-(ex-or-su))
 
-**DR** 10_dir/evil or silver; **Immune** electricity, petrification; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, sonic 10; **SR** 17
+**DR** 10/evil or silver; **Immune** electricity, petrification; **Resist** [cold](monsters/creatureTypes#_cold-subtype) 10, sonic 10; **SR** 17
 
 Offense
 
@@ -480,17 +480,17 @@ Offense
 
 **Melee** bite +11 (1d4+1), 2 claws +11 (1d3+1)
 
-**Special Attacks** [pounce](monsters_dir/universalMonsterRules#_pounce)
+**Special Attacks** [pounce](monsters/universalMonsterRules#_pounce)
 
 **Spell-Like Abilities** (CL 7th; concentration +10)
 
-Constant—_ [detect evil](additionalMonsters_dir/../spells_dir/detectEvil#_detect-evil)_, _ [mage armor](additionalMonsters_dir/../spells_dir/mageArmor#_mage-armor), [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_
+Constant—_ [detect evil](additionalMonsters/../spells/detectEvil#_detect-evil)_, _ [mage armor](additionalMonsters/../spells/mageArmor#_mage-armor), [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_
 
-At will—_ [invisibility](additionalMonsters_dir/../spells_dir/invisibility#_invisibility)_ (self only)
+At will—_ [invisibility](additionalMonsters/../spells/invisibility#_invisibility)_ (self only)
 
-3_dir/day—_ [charm monster](additionalMonsters_dir/../spells_dir/charmMonster#_charm-monster)_ (DC 17), _ [dispel evil](additionalMonsters_dir/../spells_dir/dispelEvil#_dispel-evil)_ (DC 18), _ [flame arrow](additionalMonsters_dir/../spells_dir/flameArrow#_flame-arrow)_, _ [holy smite](additionalMonsters_dir/../spells_dir/holySmite#_holy-smite)_ (DC 17), _ [dimension door](additionalMonsters_dir/../spells_dir/dimensionDoor#_dimension-door)_ (self plus 50 lbs. of objects only), _ [remove disease](additionalMonsters_dir/../spells_dir/removeDisease#_remove-disease)_
+3/day—_ [charm monster](additionalMonsters/../spells/charmMonster#_charm-monster)_ (DC 17), _ [dispel evil](additionalMonsters/../spells/dispelEvil#_dispel-evil)_ (DC 18), _ [flame arrow](additionalMonsters/../spells/flameArrow#_flame-arrow)_, _ [holy smite](additionalMonsters/../spells/holySmite#_holy-smite)_ (DC 17), _ [dimension door](additionalMonsters/../spells/dimensionDoor#_dimension-door)_ (self plus 50 lbs. of objects only), _ [remove disease](additionalMonsters/../spells/removeDisease#_remove-disease)_
 
-1_dir/day—_ [major image](additionalMonsters_dir/../spells_dir/majorImage#_major-image)_ (DC 16)
+1/day—_ [major image](additionalMonsters/../spells/majorImage#_major-image)_ (DC 16)
 
 Statistics
 
@@ -498,13 +498,13 @@ Statistics
 
 **Base Atk** +7; **CMB** +7; **CMD** 20
 
-**Feats** [Combat Reflexes](additionalMonsters_dir/../feats#_combat-reflexes), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
+**Feats** [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +10 (+18 jump), [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +13, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (any one) +21, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana) +21, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +21, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +12, [Perform](additionalMonsters_dir/../skills_dir/perform#_perform) (any one) +13, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +14, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +17, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +10; **Racial Modifiers** +8 [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) when jumping
+**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +10 (+18 jump), [Bluff](additionalMonsters/../skills/bluff#_bluff) +13, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (any one) +21, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (arcana) +21, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (planes) +21, [Perception](additionalMonsters/../skills/perception#_perception) +12, [Perform](additionalMonsters/../skills/perform#_perform) (any one) +13, [Spellcraft](additionalMonsters/../skills/spellcraft#_spellcraft) +14, [Stealth](additionalMonsters/../skills/stealth#_stealth) +17, [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device) +10; **Racial Modifiers** +8 [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) when jumping
 
-**Languages** Celestial, Common, Draconic, Infernal; _ [speak with animals](additionalMonsters_dir/../spells_dir/speakWithAnimals#_speak-with-animals)_, truespeech
+**Languages** Celestial, Common, Draconic, Infernal; _ [speak with animals](additionalMonsters/../spells/speakWithAnimals#_speak-with-animals)_, truespeech
 
-**SQ** bardic knowledge +7, lay on hands (3d6, 6_dir/day, as a 7th-level paladin)
+**SQ** bardic knowledge +7, lay on hands (3d6, 6/day, as a 7th-level paladin)
 
 Ecology
 
@@ -516,7 +516,7 @@ Ecology
 
 Special Abilities
 
-**Calm Emotions Aura (Su)** A vulpinal's aura acts like a _ [calm emotions](additionalMonsters_dir/../spells_dir/calmEmotions#_calm-emotions)_ spell with a radius of 30 feet. Any creature entering this area must make a Will save (DC 16) to resist the effect. A creature that makes its save is immune to that vulpinal's aura for 24 hours. The save DC is Charisma-based.
+**Calm Emotions Aura (Su)** A vulpinal's aura acts like a _ [calm emotions](additionalMonsters/../spells/calmEmotions#_calm-emotions)_ spell with a radius of 30 feet. Any creature entering this area must make a Will save (DC 16) to resist the effect. A creature that makes its save is immune to that vulpinal's aura for 24 hours. The save DC is Charisma-based.
 
 Among the smallest of the agathions, vulpinals tend to be the most outspoken and friendly of their kind, and also the most far-ranging across the planes. A vulpinal looks like a humanoid fox, often with brilliantly colored fur (usually red or red-brown, though silver is not uncommon) and a tail as long as its height. As the bards and sages of the agathions, they dress in functional clothing, typically embellishing a single article to show their creativity and personality. Most appear to be adults, though others look more like fox kits (with shorter stature and larger eyes) while some look much older (leaner, with gray fur on the muzzle, chest, and tail). Their hands are humanoid in shape, with tiny clawed fingers.
 

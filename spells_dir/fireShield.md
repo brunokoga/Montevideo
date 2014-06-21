@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/fireShield
+title: spells/fireShield
 ---
  **Fire Shield**
 
-**School** evocation [fire or cold]; **Level** sorcerer_dir/wizard 4
+**School** evocation [fire or cold]; **Level** sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/fireShield
 
 **Target** you
 
-**Duration** 1 round_dir/level (D)
+**Duration** 1 round/level (D)
 
 This spell wreathes you in flame and causes damage to each creature that attacks you in melee. The flames also protect you from either cold-based or fire-based attacks, depending on if you choose cool or warm flames for your _fire shield_.
 

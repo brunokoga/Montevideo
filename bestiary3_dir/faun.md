@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/faun
+title: bestiary3/faun
 ---
 # Faun
 
@@ -12,7 +12,7 @@ XP 400
 
 CG Medium fey
 
-**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +8
+**Init** +3; **Senses** low-light vision; [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -22,23 +22,23 @@ Defense
 
 **Fort** +2, **Ref** +6, **Will** +5
 
-**DR** 2_dir/cold iron
+**DR** 2/cold iron
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** dagger +4 (1d4+2_dir/19–20)
+**Melee** dagger +4 (1d4+2/19–20)
 
-**Ranged** shortbow +4 (1d6_dir/×3)
+**Ranged** shortbow +4 (1d6/×3)
 
 **Special Attacks** panpipes
 
 **Spell-Like Abilities** (CL 3rd; concentration +6)
 
-At will—_ [ghost sound](spells_dir/ghostSound#_ghost-sound)_ (DC 13)
+At will—_ [ghost sound](spells/ghostSound#_ghost-sound)_ (DC 13)
 
-1_dir/day—_ [hideous laughter](spells_dir/hideousLaughter#_hideous-laughter)_ (DC 14), _ [sleep](spells_dir/sleep#_sleep)_ (DC 14)
+1/day—_ [hideous laughter](spells/hideousLaughter#_hideous-laughter)_ (DC 14), _ [sleep](spells/sleep#_sleep)_ (DC 14)
 
 Statistics
 
@@ -48,7 +48,7 @@ Statistics
 
 **Feats** [Point-Blank Shot](feats#_point-blank-shot), [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +8, [Bluff](skills_dir/bluff#_bluff) +9, [Perception](skills_dir/perception#_perception) +8, [Perform](skills_dir/perform#_perform) (wind) +9, [Sense Motive](skills_dir/senseMotive#_sense-motive) +7, [Stealth](skills_dir/stealth#_stealth) +9, [Survival](skills_dir/survival#_survival) +4
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +8, [Bluff](skills/bluff#_bluff) +9, [Perception](skills/perception#_perception) +8, [Perform](skills/perform#_perform) (wind) +9, [Sense Motive](skills/senseMotive#_sense-motive) +7, [Stealth](skills/stealth#_stealth) +9, [Survival](skills/survival#_survival) +4
 
 **Languages** Common, Sylvan
 

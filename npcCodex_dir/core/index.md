@@ -1,6 +1,6 @@
 ---
 layout: default
-title: npcCodex_dir/core_dir/index
+title: npcCodex/core/index
 ---
 # Core Classes
 
@@ -10,7 +10,7 @@ This section gives you useful and interesting NPCs at levels 1–20 for each of 
 
 All of the NPCs in this section use the "heroic" set of base ability scores (15, 14, 13, 12, 10, 8) and have gear according to the Heroic Level column of the [NPC Gear table](creatingNPCs#_table-14-9-npc-gear).
 
-In general, the NPCs do not list mundane gear such as rope, torches, belt pouches, and so on unless it is vital to the character (clerics have a holy symbol, rogues with [Disable Device](skills_dir/disableDevice#_disable-device) have thieves' tools, and so on). You can assume that an NPC is geared appropriately for his or her profession or adventuring career, and if cost is ever a factor, you can mark off some of the character's extra gear for this purpose or for expendable items such as potions, nearly expended wands, and so on.
+In general, the NPCs do not list mundane gear such as rope, torches, belt pouches, and so on unless it is vital to the character (clerics have a holy symbol, rogues with [Disable Device](skills/disableDevice#_disable-device) have thieves' tools, and so on). You can assume that an NPC is geared appropriately for his or her profession or adventuring career, and if cost is ever a factor, you can mark off some of the character's extra gear for this purpose or for expendable items such as potions, nearly expended wands, and so on.
 
 The three most common uses for NPCs in this section are as antagonists, allies, and player characters.
 
@@ -38,47 +38,47 @@ Depending on the nature of the alteration, you might not need to adjust the stat
 
 The remainder of this section explains specific choices for each of the classes in this chapter.
 
-## [Barbarian](npcCodex_dir/core_dir/barbarian)
+## [Barbarian](npcCodex/core/barbarian)
 
 The barbarian stat blocks are presented with the assumption that the barbarian is raging. Use the Base Statistics line for the barbarian's non-raging statistics.
 
-## [Bard](npcCodex_dir/core_dir/bard)
+## [Bard](npcCodex/core/bard)
 
-Other than spells, bards have few class ability choices that have a significant impact on the stat block. The type of [Perform](skills_dir/perform#_perform) skill the bard uses is mostly cosmetic, and changing the versatile performance skill selection is just a matter of replacing the new skill's bonus with the bard's [Perform](skills_dir/perform#_perform) skill bonus.
+Other than spells, bards have few class ability choices that have a significant impact on the stat block. The type of [Perform](skills/perform#_perform) skill the bard uses is mostly cosmetic, and changing the versatile performance skill selection is just a matter of replacing the new skill's bonus with the bard's [Perform](skills/perform#_perform) skill bonus.
 
-## [Cleric](npcCodex_dir/core_dir/cleric)
+## [Cleric](npcCodex/core/cleric)
 
 Each cleric worships one of the 20 deities, and has two domains and channels positive or negative energy appropriate to that deity. You can use these clerics as worshipers of a similar deity or as clerics of divine concepts (godless clerics). You may instead change the cleric's listed domains, energy channeling, and prepared spells to suit your campaign; for example, you could change the alignment of the noble crusader (cleric 5) to lawful evil, her deity to an evil war deity, and her channel energy from positive to negative to create an evil priest-general.
 
-## [Druid](npcCodex_dir/core_dir/druid)
+## [Druid](npcCodex/core/druid)
 
 Each druid is built with the nature bond (domain) class ability instead of an animal companion. If you need a druid with an animal companion, ignore the domain spells and granted powers listed in the druid's stat block and select an animal companion of the appropriate level.
 
-## [Fighter](npcCodex_dir/core_dir/fighter)
+## [Fighter](npcCodex/core/fighter)
 
 Other than feats, the only fighter class ability that significantly affects the stat block is the character's choices for weapon training. As most fighters choose their best weapons for this ability, if you swap the fighter's weapon for different one with the same enhancement bonus (such as a +1 battleaxe for a +1 longsword), you can use the listed attack bonus for the new weapon.
 
-## [Monk](npcCodex_dir/core_dir/monk)
+## [Monk](npcCodex/core/monk)
 
 Each monk is presented with a normal attack routine (with a weapon or unarmed strike) and a flurry of blows attack routine. You can swap monk weapons or unarmed strikes with the same enhancement bonus (such as a +1 kama for an unarmed strike with a +1 amulet of mighty fists) without changing the math on the stat block.
 
-## [Paladin](npcCodex_dir/core_dir/paladin)
+## [Paladin](npcCodex/core/paladin)
 
 The divine bond and mercy paladin class abilities don't have much effect on the character's stat block. You can easily swap out the paladin's mercies for other mercies. If the paladin's divine bond is with a weapon and you want to change it to be with a mount, consider spending some of the character's wealth on barding for the mount. If the divine bond is with a mount and you change it to be with a weapon, allocate any wealth for barding or other mount-related items to abilities on the paladin's weapon.
 
-## [Ranger](npcCodex_dir/core_dir/ranger)
+## [Ranger](npcCodex/core/ranger)
 
 Each ranger is built with the hunter's bond (companion) class ability instead of an animal companion. If you need a ranger with an animal companion, select an animal companion of the appropriate level (ranger level–3).
 
-## [Rogue](npcCodex_dir/core_dir/rogue)
+## [Rogue](npcCodex/core/rogue)
 
 Many rogue talents —especially talents that modify sneak attack—don't change any numbers in the character's stat block, and they are easy swaps when customizing an NPC. Watch out for combat trick, finesse rogue, and weapon training, which affect the rogue's feats and could alter the character's melee or ranged attacks—or even invalidate the use of a particular weapon.
 
-## [Sorcerer](npcCodex_dir/core_dir/sorcerer)
+## [Sorcerer](npcCodex/core/sorcerer)
 
 A sorcerer's bloodline has a significant impact on the character's stat block, affecting spells known, a class skill, feats, and providing one or more bloodline arcana and bloodline powers. Changing a sorcerer's bloodline is not a simple matter unless you're just altering the type of dragon or elemental for the draconic and elemental bloodlines. Fortunately, by using colorful descriptions for the special abilities, your players probably won't notice the difference, so you can use these stat blocks for multiple purposes without rebuilding them.
 
-## [Wizard](npcCodex_dir/core_dir/wizard)
+## [Wizard](npcCodex/core/wizard)
 
 A wizard's school specialization affects the character's special abilities and spells prepared, and could have an impact on which feats are useful. You can easily change a wizard's focus as long as you don't change the oppositional schools. Some of the wizards in this chapter have familiars; you can replace the familiar with an arcane bonded item. This book does not include stat blocks for familiars because a familiar's abilities are very dependent on the wizard's statistics. The wizard's spellbook is included in his gear; assume the spellbook holds all the spells the wizard has prepared, plus spells from any scrolls the wizard has that he is high enough level to cast. Most level-appropriate scrolls carried are priced as if the wizard had scribed them.
 

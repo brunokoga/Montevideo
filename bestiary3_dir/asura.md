@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/asura
+title: bestiary3/asura
 ---
 # Asura
 
@@ -46,9 +46,9 @@ Adhukait CR 7
 
 XP 3,200
 
-LE Medium outsider ( [asura](monsters_dir/creatureTypes#_asura-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](monsters_dir/creatureTypes#_lawful-subtype))
+LE Medium outsider ( [asura](monsters/creatureTypes#_asura-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [lawful](monsters/creatureTypes#_lawful-subtype))
 
-**Init** +3; **Senses** [all-around vision](monsters_dir/universalMonsterRules#_all-around-vision), darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +19
+**Init** +3; **Senses** [all-around vision](monsters/universalMonsterRules#_all-around-vision), darkvision 60 ft.; [Perception](skills/perception#_perception) +19
 
 **Aura** elusive (30 ft.)
 
@@ -56,27 +56,27 @@ Defense
 
 **AC** 20, touch 14, flat-footed 16 (+3 Dex, +1 dodge, +6 natural)
 
-**hp** 76 (9d10+27); regeneration 5 ( [good](monsters_dir/creatureTypes#_good-subtype) weapons, [good](monsters_dir/creatureTypes#_good-subtype) spells)
+**hp** 76 (9d10+27); regeneration 5 ( [good](monsters/creatureTypes#_good-subtype) weapons, [good](monsters/creatureTypes#_good-subtype) spells)
 
 **Fort** +6, **Ref** +11, **Will** +9; dual mind, +2 vs. enchantments
 
-**DR** 5_dir/good; **Immune** [curse](monsters_dir/universalMonsterRules#_curse) effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), flanking, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 18
+**DR** 5/good; **Immune** [curse](monsters/universalMonsterRules#_curse) effects, [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), flanking, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 18
 
 Offense
 
 **Speed** 40 ft.
 
-**Melee** 2 mwk kukris +15_dir/+10 (1d4+5_dir/18–20), 2 claws +9 (1d4+2)
+**Melee** 2 mwk kukris +15/+10 (1d4+5/18–20), 2 claws +9 (1d4+2)
 
 **Special Attacks** dance of disaster
 
 **Spell-Like Abilities** (CL 6th; concentration +9)
 
-At will— _ [feather fall](spells_dir/featherFall#_feather-fall), [greater teleport](spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [spider climb](spells_dir/spiderClimb#_spider-climb)_
+At will— _ [feather fall](spells/featherFall#_feather-fall), [greater teleport](spells/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [spider climb](spells/spiderClimb#_spider-climb)_
 
-3_dir/day—_ [blink](spells_dir/blink#_blink), [blur](spells_dir/blur#_blur), [mirror image](spells_dir/mirrorImage#_mirror-image), [spike growth](spells_dir/spikeGrowth#_spike-growth)_
+3/day—_ [blink](spells/blink#_blink), [blur](spells/blur#_blur), [mirror image](spells/mirrorImage#_mirror-image), [spike growth](spells/spikeGrowth#_spike-growth)_
 
-1_dir/day—summon (level 4, 1 adhukait 35%)
+1/day—summon (level 4, 1 adhukait 35%)
 
 Statistics
 
@@ -86,7 +86,7 @@ Statistics
 
 **Feats** [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Lightning Reflexes](feats#_lightning-reflexes), [Mobility](feats#_mobility), [Nimble Moves](feats#_nimble-moves)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +15 (+19 when jumping), [Bluff](skills_dir/bluff#_bluff) +15, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +21, [Intimidate](skills_dir/intimidate#_intimidate) +11, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +9, [Perception](skills_dir/perception#_perception) +19, [Perform](skills_dir/perform#_perform) (dance) +14, [Stealth](skills_dir/stealth#_stealth) +15; **Racial Modifiers** [Acrobatics](skills_dir/acrobatics#_acrobatics) (+4 when jumping), +6 [Escape Artist](skills_dir/escapeArtist#_escape-artist), +4 [Perception](skills_dir/perception#_perception)
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +15 (+19 when jumping), [Bluff](skills/bluff#_bluff) +15, [Escape Artist](skills/escapeArtist#_escape-artist) +21, [Intimidate](skills/intimidate#_intimidate) +11, [Knowledge](skills/knowledge#_knowledge) (planes) +9, [Perception](skills/perception#_perception) +19, [Perform](skills/perform#_perform) (dance) +14, [Stealth](skills/stealth#_stealth) +15; **Racial Modifiers** [Acrobatics](skills/acrobatics#_acrobatics) (+4 when jumping), +6 [Escape Artist](skills/escapeArtist#_escape-artist), +4 [Perception](skills/perception#_perception)
 
 **Languages** Common, Infernal; telepathy 100 ft.
 
@@ -120,9 +120,9 @@ Aghasura CR 11
 
 XP 12,800
 
-LE Huge outsider ( [asura](monsters_dir/creatureTypes#_asura-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](monsters_dir/creatureTypes#_lawful-subtype))
+LE Huge outsider ( [asura](monsters/creatureTypes#_asura-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [lawful](monsters/creatureTypes#_lawful-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft., [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +19
+**Init** +3; **Senses** darkvision 60 ft., [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +19
 
 **Aura** attraction (50 ft.), elusive (75 ft.)
 
@@ -130,17 +130,17 @@ Defense
 
 **AC** 23, touch 11, flat-footed 20 (+6 armor, +3 Dex, +6 natural, –2 size)
 
-**hp** 161 (14d10+84); regeneration 5 ( [good](monsters_dir/creatureTypes#_good-subtype) weapons, [good](monsters_dir/creatureTypes#_good-subtype) spells)
+**hp** 161 (14d10+84); regeneration 5 ( [good](monsters/creatureTypes#_good-subtype) weapons, [good](monsters/creatureTypes#_good-subtype) spells)
 
 **Fort** +15, **Ref** +9, **Will** +11; +2 vs. enchantment spells
 
-**DR** 10_dir/good; **Immune** [curse](monsters_dir/universalMonsterRules#_curse) effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 22
+**DR** 10/good; **Immune** [curse](monsters/universalMonsterRules#_curse) effects, [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 22
 
 Offense
 
 **Speed** 35 ft., swim 20 ft.
 
-**Melee** 2 mwk scimitars +26 (2d6+12_dir/15–20 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))), bite +19 (2d8+6 plus [grab](monsters_dir/universalMonsterRules#_grab) and [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** 2 mwk scimitars +26 (2d6+12/15–20 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su))), bite +19 (2d8+6 plus [grab](monsters/universalMonsterRules#_grab) and [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -148,11 +148,11 @@ Offense
 
 **Spell-Like Abilities** (CL 11th; concentration +15)
 
-At will—_ [greater teleport](spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
+At will—_ [greater teleport](spells/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
 
-3_dir/day—_ [deeper darkness](spells_dir/deeperDarkness#_deeper-darkness)_
+3/day—_ [deeper darkness](spells/deeperDarkness#_deeper-darkness)_
 
-1_dir/day—_ [cloudkill](spells_dir/cloudkill#_cloudkill) _(DC 19), summon (level 4, 1d4+1 adhukaits, 45%, or 1 aghasura, 20%)
+1/day—_ [cloudkill](spells/cloudkill#_cloudkill) _(DC 19), summon (level 4, 1d4+1 adhukaits, 45%, or 1 aghasura, 20%)
 
 Statistics
 
@@ -162,7 +162,7 @@ Statistics
 
 **Feats** [Cleave](feats#_cleave), [Critical Focus](feats#_critical-focus), [Great Cleave](feats#_great-cleave), [Improved Critical](feats#_improved-critical) (scimitar), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) (scimitar)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +17, [Bluff](skills_dir/bluff#_bluff) +19, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +6, [Intimidate](skills_dir/intimidate#_intimidate) +17, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +13, [Perception](skills_dir/perception#_perception) +19, [Sense Motive](skills_dir/senseMotive#_sense-motive) +19, [Stealth](skills_dir/stealth#_stealth) +9, [Swim](skills_dir/swim#_swim) +17; **Racial Modifiers** +6 [Escape Artist](skills_dir/escapeArtist#_escape-artist), +4 [Perception](skills_dir/perception#_perception)
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +17, [Bluff](skills/bluff#_bluff) +19, [Escape Artist](skills/escapeArtist#_escape-artist) +6, [Intimidate](skills/intimidate#_intimidate) +17, [Knowledge](skills/knowledge#_knowledge) (planes) +13, [Perception](skills/perception#_perception) +19, [Sense Motive](skills/senseMotive#_sense-motive) +19, [Stealth](skills/stealth#_stealth) +9, [Swim](skills/swim#_swim) +17; **Racial Modifiers** +6 [Escape Artist](skills/escapeArtist#_escape-artist), +4 [Perception](skills/perception#_perception)
 
 **Languages** Common, Infernal; telepathy 100 ft.
 
@@ -181,9 +181,9 @@ Special Abilities
 
 **Dual Wielder (Ex)** An aghasura does not take a penalty on attack or damage rolls when attacking with two weapons.
 
-**Infused Weapons (Su)** Weapons an aghasura wields are considered to be magic for the purposes of overcoming [damage reduction](monsters_dir/universalMonsterRules#_damage-reduction-(ex-or-su)). In addition, such weapons gain the ability to deliver the aghasura's [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) on a successful attack.
+**Infused Weapons (Su)** Weapons an aghasura wields are considered to be magic for the purposes of overcoming [damage reduction](monsters/universalMonsterRules#_damage-reduction-(ex-or-su)). In addition, such weapons gain the ability to deliver the aghasura's [poison](monsters/universalMonsterRules#_poison-(ex-or-su)) on a successful attack.
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite or weapon—injury; _save_ Fort DC 23; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d4 Con damage; _cure _2 consecutive saves.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite or weapon—injury; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con damage; _cure _2 consecutive saves.
 
 Aghasuras, or the poison ones, are massive fiends who have perfected the art of ambush and hold to duties of guardianship and butchery. It is said that these frightful ophidian monsters came into being when a deity granted free will to her favorite serpent pets, but when these pets were left to their own devices, they slipped into the deity's favored temple and slew all of her greatest priests. The serpents who survived the deity's wrath became the first aghasuras.
 
@@ -197,41 +197,41 @@ Asurendra CR 20
 
 XP 307,200
 
-LE Huge outsider ( [asura](monsters_dir/creatureTypes#_asura-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](monsters_dir/creatureTypes#_lawful-subtype))
+LE Huge outsider ( [asura](monsters/creatureTypes#_asura-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [lawful](monsters/creatureTypes#_lawful-subtype))
 
-**Init** +12; **Senses** [all-around vision](monsters_dir/universalMonsterRules#_all-around-vision), darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent), _ [true seeing](spells_dir/trueSeeing#_true-seeing);_ [Perception](skills_dir/perception#_perception) +34
+**Init** +12; **Senses** [all-around vision](monsters/universalMonsterRules#_all-around-vision), darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent), _ [true seeing](spells/trueSeeing#_true-seeing);_ [Perception](skills/perception#_perception) +34
 
-**Aura** _ [dimensional lock](spells_dir/dimensionalLock#_dimensional-lock)_ (20 ft., enemies only), elusive (100 ft.)
+**Aura** _ [dimensional lock](spells/dimensionalLock#_dimensional-lock)_ (20 ft., enemies only), elusive (100 ft.)
 
 Defense
 
 **AC** 35, touch 25, flat-footed 26 (+5 deflection, +8 Dex, +1 dodge, +3 insight, +10 natural, –2 size)
 
-**hp** 385 (22d10+264); regeneration 10 ( [good](monsters_dir/creatureTypes#_good-subtype) weapons, [good](monsters_dir/creatureTypes#_good-subtype) spells)
+**hp** 385 (22d10+264); regeneration 10 ( [good](monsters/creatureTypes#_good-subtype) weapons, [good](monsters/creatureTypes#_good-subtype) spells)
 
 **Fort** +25, **Ref** +17, **Will** +20; +2 vs. enchantment spells,
 
-**DR** 15_dir/chaotic and [good](monsters_dir/creatureTypes#_good-subtype); **Immune** [curse](monsters_dir/universalMonsterRules#_curse) effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), flanking, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), polymorph; **Resist** acid 10, electricity 10; **SR** 31
+**DR** 15/chaotic and [good](monsters/creatureTypes#_good-subtype); **Immune** [curse](monsters/universalMonsterRules#_curse) effects, [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), flanking, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), polymorph; **Resist** acid 10, electricity 10; **SR** 31
 
 Offense
 
 **Speed** 50 ft., climb 50 ft., fly 50 ft. (perfect), swim 50 ft.
 
-**Melee** bite +28 (2d6+6 plus [grab](monsters_dir/universalMonsterRules#_grab) and [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))), 6 claws +33 (2d6+13 plus [curse](monsters_dir/universalMonsterRules#_curse))
+**Melee** bite +28 (2d6+6 plus [grab](monsters/universalMonsterRules#_grab) and [poison](monsters/universalMonsterRules#_poison-(ex-or-su))), 6 claws +33 (2d6+13 plus [curse](monsters/universalMonsterRules#_curse))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [curse](monsters_dir/universalMonsterRules#_curse) of false wisdom, spirit blades (+27, 3d6+7_dir/19–20), swallow whole (4d6+19 bludgeoning plus 4d8+12 acid damage, AC 15, 34 hp)
+**Special Attacks** [curse](monsters/universalMonsterRules#_curse) of false wisdom, spirit blades (+27, 3d6+7/19–20), swallow whole (4d6+19 bludgeoning plus 4d8+12 acid damage, AC 15, 34 hp)
 
 **Spell-Like Abilities** (CL 20th; concentration +30)
 
-Constant—_ [dimensional lock](spells_dir/dimensionalLock#_dimensional-lock)_ (enemies only), _ [freedom of movement](spells_dir/freedomOfMovement#_freedom-of-movement), [tongues](spells_dir/tongues#_tongues), [true seeing](spells_dir/trueSeeing#_true-seeing)_
+Constant—_ [dimensional lock](spells/dimensionalLock#_dimensional-lock)_ (enemies only), _ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement), [tongues](spells/tongues#_tongues), [true seeing](spells/trueSeeing#_true-seeing)_
 
-At will—_ [death knell](spells_dir/deathKnell#_death-knell)_ (DC 22), _greater [dispel magic, greater](spells_dir/dispelMagic#_dispel-magic-greater) [scrying](spells_dir/scrying#_scrying), [greater teleport](spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
+At will—_ [death knell](spells/deathKnell#_death-knell)_ (DC 22), _greater [dispel magic, greater](spells/dispelMagic#_dispel-magic-greater) [scrying](spells/scrying#_scrying), [greater teleport](spells/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
 
-3_dir/day—quickened_ [baleful polymorph](spells_dir/balefulPolymorph#_baleful-polymorph) _(DC 25), quickened_ [blade barrier](spells_dir/bladeBarrier#_blade-barrier)_ (DC 26), _ [blasphemy](spells_dir/blasphemy#_blasphemy)_ (DC 27), quickened _ [death knell](spells_dir/deathKnell#_death-knell)_ (DC 22), _ [deeper darkness](spells_dir/deeperDarkness#_deeper-darkness), [demand](spells_dir/demand#_demand)_ (DC 28)
+3/day—quickened_ [baleful polymorph](spells/balefulPolymorph#_baleful-polymorph) _(DC 25), quickened_ [blade barrier](spells/bladeBarrier#_blade-barrier)_ (DC 26), _ [blasphemy](spells/blasphemy#_blasphemy)_ (DC 27), quickened _ [death knell](spells/deathKnell#_death-knell)_ (DC 22), _ [deeper darkness](spells/deeperDarkness#_deeper-darkness), [demand](spells/demand#_demand)_ (DC 28)
 
-1_dir/day—_ [power word stun](spells_dir/powerWordStun#_power-word-stun)_, summon (level 9, any 1 CR 19 or lower asura 100%), _ [time stop](spells_dir/timeStop#_time-stop)_
+1/day—_ [power word stun](spells/powerWordStun#_power-word-stun)_, summon (level 9, any 1 CR 19 or lower asura 100%), _ [time stop](spells/timeStop#_time-stop)_
 
 Statistics
 
@@ -239,12 +239,12 @@ Statistics
 
 **Base Atk** +22; **CMB** +37 (+41 grapple); **CMD** 61
 
-**Feats** [Awesome Blow](monsters_dir/monsterFeats#_awesome-blow), Cleave, [Combat Reflexes](feats#_combat-reflexes)B, [Critical Focus](feats#_critical-focus), Deflect ArrowsB, [Dodge](feats#_dodge)B, Great Cleave, Improved Bull Rush, [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), MobilityB, [Power Attack](feats#_power-attack), [Quicken Spell-Like Ability](monsters_dir/monsterFeats#_quicken-spell-like-ability) (_ [baleful polymorph](spells_dir/balefulPolymorph#_baleful-polymorph), [blade barrier](spells_dir/bladeBarrier#_blade-barrier), [death knell](spells_dir/deathKnell#_death-knell)_), [Snatch](monsters_dir/monsterFeats#_snatch) ArrowsB, Spring AttackB
+**Feats** [Awesome Blow](monsters/monsterFeats#_awesome-blow), Cleave, [Combat Reflexes](feats#_combat-reflexes)B, [Critical Focus](feats#_critical-focus), Deflect ArrowsB, [Dodge](feats#_dodge)B, Great Cleave, Improved Bull Rush, [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), MobilityB, [Power Attack](feats#_power-attack), [Quicken Spell-Like Ability](monsters/monsterFeats#_quicken-spell-like-ability) (_ [baleful polymorph](spells/balefulPolymorph#_baleful-polymorph), [blade barrier](spells/bladeBarrier#_blade-barrier), [death knell](spells/deathKnell#_death-knell)_), [Snatch](monsters/monsterFeats#_snatch) ArrowsB, Spring AttackB
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +31 (+39 when jumping), [Bluff](skills_dir/bluff#_bluff) +33, [Climb](skills_dir/climb#_climb) +21, [Diplomacy](skills_dir/diplomacy#_diplomacy) +30, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +14, [Fly](skills_dir/fly#_fly) +35, [Intimidate](skills_dir/intimidate#_intimidate) +33,  
-  [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +27, [Knowledge](skills_dir/knowledge#_knowledge) (history) +13, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +30, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +27, [Perception](skills_dir/perception#_perception) +34, [Perform](skills_dir/perform#_perform) (dance) +33, [Sense Motive](skills_dir/senseMotive#_sense-motive) +30, [Spellcraft](skills_dir/spellcraft#_spellcraft) +27, [Stealth](skills_dir/stealth#_stealth) +23, [Swim](skills_dir/swim#_swim) +21, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +30; **Racial Modifiers** [Acrobatics](skills_dir/acrobatics#_acrobatics) (+8 when jumping), +6 [Escape Artist](skills_dir/escapeArtist#_escape-artist), +4 [Perception](skills_dir/perception#_perception)
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +31 (+39 when jumping), [Bluff](skills/bluff#_bluff) +33, [Climb](skills/climb#_climb) +21, [Diplomacy](skills/diplomacy#_diplomacy) +30, [Escape Artist](skills/escapeArtist#_escape-artist) +14, [Fly](skills/fly#_fly) +35, [Intimidate](skills/intimidate#_intimidate) +33,  
+  [Knowledge](skills/knowledge#_knowledge) (arcana) +27, [Knowledge](skills/knowledge#_knowledge) (history) +13, [Knowledge](skills/knowledge#_knowledge) (planes) +30, [Knowledge](skills/knowledge#_knowledge) (religion) +27, [Perception](skills/perception#_perception) +34, [Perform](skills/perform#_perform) (dance) +33, [Sense Motive](skills/senseMotive#_sense-motive) +30, [Spellcraft](skills/spellcraft#_spellcraft) +27, [Stealth](skills/stealth#_stealth) +23, [Swim](skills/swim#_swim) +21, [Use Magic Device](skills/useMagicDevice#_use-magic-device) +30; **Racial Modifiers** [Acrobatics](skills/acrobatics#_acrobatics) (+8 when jumping), +6 [Escape Artist](skills/escapeArtist#_escape-artist), +4 [Perception](skills/perception#_perception)
 
-**Languages** Common, Infernal; _ [tongues](spells_dir/tongues#_tongues),_ telepathy 100 ft.
+**Languages** Common, Infernal; _ [tongues](spells/tongues#_tongues),_ telepathy 100 ft.
 
 Ecology
 
@@ -256,11 +256,11 @@ Ecology
 
 Special Abilities
 
-**[Curse](monsters_dir/universalMonsterRules#_curse) of False Wisdom (Su)** Claw—contact; _save_ Will DC 31; _frequency_ 1 day; _effect_ 1d6 Wis drain.
+**[Curse](monsters/universalMonsterRules#_curse) of False Wisdom (Su)** Claw—contact; _save_ Will DC 31; _frequency_ 1 day; _effect_ 1d6 Wis drain.
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 33; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d6 Con; _cure_ 2 consecutive saves.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 33; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Con; _cure_ 2 consecutive saves.
 
-**Spirit Blades (Su)** As a swift action, an asurendra can call forth up to six longsword-shaped force effects that float near the asurendra until directed. The asurendra can use a standard action to direct one blade to attack a target up to a distance of 50 feet away, or use a full-attack action to cause all six blades to attack up to six different targets up to a distance of 50 feet away, each to a different location if desired. Once an asurendra directs a spirit blade to attack a foe, the blade continues to make a single attack against that foe each round on the asurendra's turn until directed otherwise by the asurendra and as long as the foe remains within 50 feet of the asurendra. As a move action, the asurendra can direct all currently attacking blades to switch targets to new foes within 50 feet. These weapons attack using the asurendra's base attack bonus modified by its Wisdom modifier (+29 for most asurendras), and deal 3d6 points of damage plus an amount of force damage equal to the asurendra's Wisdom modifier (3d6+7 for most asurendras). Physical attacks do no affect these blades, but _ [disintegrate](spells_dir/disintegrate#_disintegrate),_ a _sphere of annihilation,_ or a _ [rod of cancellation](magicItems_dir/rods#_rod-of-cancellation)_ (touch AC 25) causes them to vanish. If a spirit blade's target dies or moves beyond a 50-foot range and the asurendra does not retarget that blade by the end of its turn, the blade vanishes. Likewise, any blades that are not within 50 feet of the asurendra at the end of its turn also vanish.
+**Spirit Blades (Su)** As a swift action, an asurendra can call forth up to six longsword-shaped force effects that float near the asurendra until directed. The asurendra can use a standard action to direct one blade to attack a target up to a distance of 50 feet away, or use a full-attack action to cause all six blades to attack up to six different targets up to a distance of 50 feet away, each to a different location if desired. Once an asurendra directs a spirit blade to attack a foe, the blade continues to make a single attack against that foe each round on the asurendra's turn until directed otherwise by the asurendra and as long as the foe remains within 50 feet of the asurendra. As a move action, the asurendra can direct all currently attacking blades to switch targets to new foes within 50 feet. These weapons attack using the asurendra's base attack bonus modified by its Wisdom modifier (+29 for most asurendras), and deal 3d6 points of damage plus an amount of force damage equal to the asurendra's Wisdom modifier (3d6+7 for most asurendras). Physical attacks do no affect these blades, but _ [disintegrate](spells/disintegrate#_disintegrate),_ a _sphere of annihilation,_ or a _ [rod of cancellation](magicItems/rods#_rod-of-cancellation)_ (touch AC 25) causes them to vanish. If a spirit blade's target dies or moves beyond a 50-foot range and the asurendra does not retarget that blade by the end of its turn, the blade vanishes. Likewise, any blades that are not within 50 feet of the asurendra at the end of its turn also vanish.
 
 With the notable exception of the unique asura ranas, asurendras are the mightiest of their kind. Although few asurendras possess anything resembling an extended realm, in Hell or elsewhere, these asuras are the “wise ones” of asura kind. Most dwell within shrinelike fortresses in which they can practice their ruinous mysticism and command lesser asuras who seek their teachings. To most asuras, an asurendra's order is something akin to a deific edict.
 
@@ -274,9 +274,9 @@ In battle, an asurendra does its best to destroy all enemies, taking a moment to
 
 Each asurendra follows its own bliss toward a specific method of vengeance against the divine. Like philosophers dispensing wisdom, they teach their ways to others so that more asuras might ascend into perfection. Listed here are some ideas of the vile ways asurendras might use their “enlightened” hatred.
 
-**Death** : All living things can die. Instead of war, an asurendra can focus on the aftermath of war. Such an asurendra replaces quickened _ [baleful polymorph](spells_dir/balefulPolymorph#_baleful-polymorph)_ with quickened _ [slay living](spells_dir/slayLiving#_slay-living)_ and quickened _ [blade barrier](spells_dir/bladeBarrier#_blade-barrier)_ with quickened _ [circle of death](spells_dir/circleOfDeath#_circle-of-death)_. Its spirit blades deal negative energy damage, not force damage, and can thus be used to heal allied undead creatures as easily as they can serve as weapons against the living.
+**Death** : All living things can die. Instead of war, an asurendra can focus on the aftermath of war. Such an asurendra replaces quickened _ [baleful polymorph](spells/balefulPolymorph#_baleful-polymorph)_ with quickened _ [slay living](spells/slayLiving#_slay-living)_ and quickened _ [blade barrier](spells/bladeBarrier#_blade-barrier)_ with quickened _ [circle of death](spells/circleOfDeath#_circle-of-death)_. Its spirit blades deal negative energy damage, not force damage, and can thus be used to heal allied undead creatures as easily as they can serve as weapons against the living.
 
-**Sacrilege** : Blasphemy is joy to any asura, but truly impious asurendras learn talents that mimic divine miracles. Cults to these asurendras, which almost always seem benevolent on first glance, turn people from the worship of real deities. These asurendras do not possess a spirit blade special attack, but can use _ [miracle](spells_dir/miracle#_miracle)_ as a spell-like ability once per day as long as the miracle granted is in keeping with their blasphemous design.
+**Sacrilege** : Blasphemy is joy to any asura, but truly impious asurendras learn talents that mimic divine miracles. Cults to these asurendras, which almost always seem benevolent on first glance, turn people from the worship of real deities. These asurendras do not possess a spirit blade special attack, but can use _ [miracle](spells/miracle#_miracle)_ as a spell-like ability once per day as long as the miracle granted is in keeping with their blasphemous design.
 
 **Shaping** : Some asurendras like to remake what the gods have created. Nothing escapes a shaper's vision, and its enemies find their bodies, minds, and souls are like clay in a shaper's hands. An asurendra sage of shaping lacks a spirit blade special attack, but gains the following special ability.
 
@@ -290,9 +290,9 @@ Tripurasura CR 2
 
 XP 600
 
-LE Tiny outsider ( [asura](monsters_dir/creatureTypes#_asura-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](monsters_dir/creatureTypes#_lawful-subtype))
+LE Tiny outsider ( [asura](monsters/creatureTypes#_asura-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [lawful](monsters/creatureTypes#_lawful-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft., _ [detect magic](spells_dir/detectMagic#_detect-magic)_; [Perception](skills_dir/perception#_perception) +10
+**Init** +2; **Senses** darkvision 60 ft., _ [detect magic](spells/detectMagic#_detect-magic)_; [Perception](skills/perception#_perception) +10
 
 Defense
 
@@ -302,23 +302,23 @@ Defense
 
 **Fort** +4, **Ref** +3, **Will** +5, +2 vs. enchantments
 
-**DR** 5_dir/cold iron or [good](monsters_dir/creatureTypes#_good-subtype); **Immune** [curse](monsters_dir/universalMonsterRules#_curse) effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10
+**DR** 5/cold iron or [good](monsters/creatureTypes#_good-subtype); **Immune** [curse](monsters/universalMonsterRules#_curse) effects, [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10
 
 Offense
 
 **Speed** 20 ft.
 
-**Melee** sting +8 (1d4–1 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** sting +8 (1d4–1 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
 
 **Spell-Like Abilities** (CL 6th; concentration +7)
 
-Constant—_ [detect magic](spells_dir/detectMagic#_detect-magic)_
+Constant—_ [detect magic](spells/detectMagic#_detect-magic)_
 
-At will—_ [feather fall](spells_dir/featherFall#_feather-fall)_
+At will—_ [feather fall](spells/featherFall#_feather-fall)_
 
-3_dir/day—_ [levitate](spells_dir/levitate#_levitate), [locate object](spells_dir/locateObject#_locate-object), [spider climb](spells_dir/spiderClimb#_spider-climb)_
+3/day—_ [levitate](spells/levitate#_levitate), [locate object](spells/locateObject#_locate-object), [spider climb](spells/spiderClimb#_spider-climb)_
 
-1_dir/week—_ [commune](spells_dir/commune#_commune)_ (6 questions, CL 12th)
+1/week—_ [commune](spells/commune#_commune)_ (6 questions, CL 12th)
 
 Statistics
 
@@ -328,11 +328,11 @@ Statistics
 
 **Feats** [Dodge](feats#_dodge), [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +8 (+4 when jumping), [Appraise](skills_dir/appraise#_appraise) +4, [Bluff](skills_dir/bluff#_bluff) +7, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +8, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +4, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +7, [Perception](skills_dir/perception#_perception) +10, [Perform](skills_dir/perform#_perform) (dance) +5, [Spellcraft](skills_dir/spellcraft#_spellcraft) +4, [Stealth](skills_dir/stealth#_stealth) +14; **Racial Modifiers** –4 [Acrobatics](skills_dir/acrobatics#_acrobatics) when jumping, +6 [Escape Artist](skills_dir/escapeArtist#_escape-artist), +4 [Perception](skills_dir/perception#_perception)
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +8 (+4 when jumping), [Appraise](skills/appraise#_appraise) +4, [Bluff](skills/bluff#_bluff) +7, [Escape Artist](skills/escapeArtist#_escape-artist) +8, [Knowledge](skills/knowledge#_knowledge) (arcana) +4, [Knowledge](skills/knowledge#_knowledge) (planes) +7, [Perception](skills/perception#_perception) +10, [Perform](skills/perform#_perform) (dance) +5, [Spellcraft](skills/spellcraft#_spellcraft) +4, [Stealth](skills/stealth#_stealth) +14; **Racial Modifiers** –4 [Acrobatics](skills/acrobatics#_acrobatics) when jumping, +6 [Escape Artist](skills/escapeArtist#_escape-artist), +4 [Perception](skills/perception#_perception)
 
 **Languages** Common, Infernal
 
-**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (any Small humanoid; _ [alter self](spells_dir/alterSelf#_alter-self)_), elusive
+**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (any Small humanoid; _ [alter self](spells/alterSelf#_alter-self)_), elusive
 
 Ecology
 
@@ -344,11 +344,11 @@ Ecology
 
 Special Abilities
 
-**[Change Shape](monsters_dir/universalMonsterRules#_change-shape) (Su)** The tripurasura has only one alternative form—when it uses [change shape](monsters_dir/universalMonsterRules#_change-shape), it always appears as the same Small humanoid. Most take the form of gnomes or [human](monsters_dir/creatureTypes#_human-subtype) children.
+**[Change Shape](monsters/universalMonsterRules#_change-shape) (Su)** The tripurasura has only one alternative form—when it uses [change shape](monsters/universalMonsterRules#_change-shape), it always appears as the same Small humanoid. Most take the form of gnomes or [human](monsters/creatureTypes#_human-subtype) children.
 
-**Elusive (Su)** The tripurasura and items it carries are considered to be under the effects of a _ [nondetection](spells_dir/nondetection#_nondetection)_ spell. A caster must succeed at a DC 14 caster level check to overcome this effect.
+**Elusive (Su)** The tripurasura and items it carries are considered to be under the effects of a _ [nondetection](spells/nondetection#_nondetection)_ spell. A caster must succeed at a DC 14 caster level check to overcome this effect.
 
-**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Tongue—injury; _save_ Fort DC 12; _frequency _1_dir/round for 6 rounds; _effect_ 1d2 Wis damage; _cure_ 1 save.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Tongue—injury; _save_ Fort DC 12; _frequency _1/round for 6 rounds; _effect_ 1d2 Wis damage; _cure_ 1 save.
 
 Tripurasuras, or sly ones, are among the weakest asuras, manifestations not of divine mistakes but instead creations of the most powerful of asuras exhibiting their loathing of the gods by creating blasphemous mockeries of their creations. A newly created tripurasura most commonly exists for one of two reasons: to give an asurendra sage the raw materials it needs to create more powerful asuras, or to seek out mortals—especially mortal spellcasters—to recruit into the asura cause.
 
@@ -364,9 +364,9 @@ Upasunda CR 9
 
 XP 6,400
 
-LE Medium outsider ( [asura](monsters_dir/creatureTypes#_asura-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](monsters_dir/creatureTypes#_lawful-subtype))
+LE Medium outsider ( [asura](monsters/creatureTypes#_asura-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [lawful](monsters/creatureTypes#_lawful-subtype))
 
-**Init** +7; **Senses** [all-around vision](monsters_dir/universalMonsterRules#_all-around-vision), darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +23
+**Init** +7; **Senses** [all-around vision](monsters/universalMonsterRules#_all-around-vision), darkvision 60 ft.; [Perception](skills/perception#_perception) +23
 
 **Aura** elusive (50 ft.)
 
@@ -374,27 +374,27 @@ Defense
 
 **AC** 24, touch 21, flat-footed 16 (+7 Dex, +1 dodge, +3 insight, +3 natural)
 
-**hp** 114 (12d10+48); regeneration 5 ( [good](monsters_dir/creatureTypes#_good-subtype) weapons, [good](monsters_dir/creatureTypes#_good-subtype) spells)
+**hp** 114 (12d10+48); regeneration 5 ( [good](monsters/creatureTypes#_good-subtype) weapons, [good](monsters/creatureTypes#_good-subtype) spells)
 
 **Fort** +12, **Ref** +11, **Will** +15
 
-**Defensive Abilities** improved evasion; **DR** 10_dir/good; **Immune** [curse](monsters_dir/universalMonsterRules#_curse) effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), flanking, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 20
+**Defensive Abilities** improved evasion; **DR** 10/good; **Immune** [curse](monsters/universalMonsterRules#_curse) effects, [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), flanking, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 20
 
 Offense
 
 **Speed** 50 ft.
 
-**Melee** mwk longsword +20_dir/+15_dir/+10 (1d8+6_dir/19–20), mwk spear +19 (1d8+6_dir/×3), mwk kukri +19 (1d4+6_dir/18–20) or 6 slams +18 (1d4+6)
+**Melee** mwk longsword +20/+15/+10 (1d8+6/19–20), mwk spear +19 (1d8+6/×3), mwk kukri +19 (1d4+6/18–20) or 6 slams +18 (1d4+6)
 
-**Special Attacks** infused weapons, [multiweapon mastery](monsters_dir/universalMonsterRules#_multiweapon-mastery)
+**Special Attacks** infused weapons, [multiweapon mastery](monsters/universalMonsterRules#_multiweapon-mastery)
 
 **Spell-Like Abilities** (CL 9th; concentration +13)
 
-At will—_ [disguise self](spells_dir/disguiseSelf#_disguise-self), [greater teleport](spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [feather fall](spells_dir/featherFall#_feather-fall), [see invisibility](spells_dir/seeInvisibility#_see-invisibility), [spider climb](spells_dir/spiderClimb#_spider-climb)_
+At will—_ [disguise self](spells/disguiseSelf#_disguise-self), [greater teleport](spells/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [feather fall](spells/featherFall#_feather-fall), [see invisibility](spells/seeInvisibility#_see-invisibility), [spider climb](spells/spiderClimb#_spider-climb)_
 
-3_dir/day—_ [deeper darkness](spells_dir/deeperDarkness#_deeper-darkness)_, _ [levitate](spells_dir/levitate#_levitate), [rainbow pattern](spells_dir/rainbowPattern#_rainbow-pattern)_ (DC 18)
+3/day—_ [deeper darkness](spells/deeperDarkness#_deeper-darkness)_, _ [levitate](spells/levitate#_levitate), [rainbow pattern](spells/rainbowPattern#_rainbow-pattern)_ (DC 18)
 
-1_dir/day—_ [haste](spells_dir/haste#_haste)_, _ [hold monster](spells_dir/holdMonster#_hold-monster)_ (DC 18), summon (level 4,   
+1/day—_ [haste](spells/haste#_haste)_, _ [hold monster](spells/holdMonster#_hold-monster)_ (DC 18), summon (level 4,   
 2 adhukaits 45% or 1 upasunda 20%)
 
 Statistics
@@ -405,7 +405,7 @@ Statistics
 
 **Feats** Cleave, [Combat Reflexes](feats#_combat-reflexes)B, Deflect ArrowsB, [Dodge](feats#_dodge), Great Cleave, Improved GrappleB, Mobility, [Power Attack](feats#_power-attack), Spring Attack
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +19 (+27 when jumping), [Bluff](skills_dir/bluff#_bluff) +16, [Diplomacy](skills_dir/diplomacy#_diplomacy) +13, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +25, [Intimidate](skills_dir/intimidate#_intimidate) +16, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +8, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +14, [Perception](skills_dir/perception#_perception) +23, [Perform](skills_dir/perform#_perform) (dance) +16, [Sense Motive](skills_dir/senseMotive#_sense-motive) +19, [Stealth](skills_dir/stealth#_stealth) +19; **Racial Modifiers** +8 [Acrobatics](skills_dir/acrobatics#_acrobatics) when jumping, +6 [Escape Artist](skills_dir/escapeArtist#_escape-artist), +4 [Perception](skills_dir/perception#_perception)
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +19 (+27 when jumping), [Bluff](skills/bluff#_bluff) +16, [Diplomacy](skills/diplomacy#_diplomacy) +13, [Escape Artist](skills/escapeArtist#_escape-artist) +25, [Intimidate](skills/intimidate#_intimidate) +16, [Knowledge](skills/knowledge#_knowledge) (arcana) +8, [Knowledge](skills/knowledge#_knowledge) (planes) +14, [Perception](skills/perception#_perception) +23, [Perform](skills/perform#_perform) (dance) +16, [Sense Motive](skills/senseMotive#_sense-motive) +19, [Stealth](skills/stealth#_stealth) +19; **Racial Modifiers** +8 [Acrobatics](skills/acrobatics#_acrobatics) when jumping, +6 [Escape Artist](skills/escapeArtist#_escape-artist), +4 [Perception](skills/perception#_perception)
 
 **Languages** Common, Infernal; telepathy 100 ft.
 
@@ -419,9 +419,9 @@ Ecology
 
 Special Abilities
 
-**Infused Weapons (Su)** In addition to being [evil](monsters_dir/creatureTypes#_evil-subtype) and [lawful](monsters_dir/creatureTypes#_lawful-subtype), weapons an upasunda wields are considered to be magic for the purposes of overcoming [damage reduction](monsters_dir/universalMonsterRules#_damage-reduction-(ex-or-su)).
+**Infused Weapons (Su)** In addition to being [evil](monsters/creatureTypes#_evil-subtype) and [lawful](monsters/creatureTypes#_lawful-subtype), weapons an upasunda wields are considered to be magic for the purposes of overcoming [damage reduction](monsters/universalMonsterRules#_damage-reduction-(ex-or-su)).
 
-**[Multiweapon Mastery](monsters_dir/universalMonsterRules#_multiweapon-mastery) (Ex)** An upasunda takes no penalties when fighting with multiple weapons.
+**[Multiweapon Mastery](monsters/universalMonsterRules#_multiweapon-mastery) (Ex)** An upasunda takes no penalties when fighting with multiple weapons.
 
 Upasundas, also called beatific ones, are asuras who devote themselves to martial meditations and physical perfection. Upasundas seek monklike poise and skill, and through it, the ability to deal flawless destruction wherever they go. Their nickname suggests purity, and indeed, each beatific one is an expression of asura purity through devotion to the ideal of annihilation. It is believed that the first upasundas were created from the jealous followers of a man who achieved divinity through his own force of will. Those of his followers who felt abandoned when this new deity ascended to the Great Beyond sought other ways to achieve immortality, and fell pray to one of the asura ranas, who granted them their desire by transforming them into beatific ones.
 

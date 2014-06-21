@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/snake
+title: monsters/snake
 ---
 # Snake, Constrictor
 
@@ -12,7 +12,7 @@ _This large snake has a thick, muscular body and dull green scales decorated wit
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +3; **Senses** scent; [Perception](../skills_dir/perception#_perception) +12
+**Init** +3; **Senses** scent; [Perception](../skills/perception#_perception) +12
 
 **Defense**
 
@@ -36,9 +36,9 @@ N Medium [animal](creatureTypes#_animal)
 
 **Base Atk** +2; **CMB** +5 (+9 grapple); **CMD** 18 (can't be tripped)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Toughness](../feats#_toughness)
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +15, [Climb](../skills_dir/climb#_climb) +11, [Perception](../skills_dir/perception#_perception) +12, [Stealth](../skills_dir/stealth#_stealth) +11, [Swim](../skills_dir/swim#_swim) +11; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth),+8 [Acrobatics](../skills_dir/acrobatics#_acrobatics)
+**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +15, [Climb](../skills/climb#_climb) +11, [Perception](../skills/perception#_perception) +12, [Stealth](../skills/stealth#_stealth) +11, [Swim](../skills/swim#_swim) +11; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth),+8 [Acrobatics](../skills/acrobatics#_acrobatics)
 
 **Ecology**
 
@@ -62,7 +62,7 @@ _This brightly colored snake assumes an aggressive posture, its hissing mouth op
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +5; **Senses** low-light vision, scent; [Perception](../skills_dir/perception#_perception) +9
+**Init** +5; **Senses** low-light vision, scent; [Perception](../skills/perception#_perception) +9
 
 **Defense**
 
@@ -86,7 +86,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Weapon Finesse](../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +9, [Climb](../skills_dir/climb#_climb) +9, [Perception](../skills_dir/perception#_perception) +9, [Stealth](../skills_dir/stealth#_stealth) +9, [Swim](../skills_dir/swim#_swim) +9; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Stealth](../skills_dir/stealth#_stealth), +8 [Acrobatics](../skills_dir/acrobatics#_acrobatics); modifies [Climb](../skills_dir/climb#_climb) and [Swim](../skills_dir/swim#_swim) with Dexterity
+**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +9, [Climb](../skills/climb#_climb) +9, [Perception](../skills/perception#_perception) +9, [Stealth](../skills/stealth#_stealth) +9, [Swim](../skills/swim#_swim) +9; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth), +8 [Acrobatics](../skills/acrobatics#_acrobatics); modifies [Climb](../skills/climb#_climb) and [Swim](../skills/swim#_swim) with Dexterity
 
 **Ecology**
 
@@ -98,7 +98,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Special Abilities**
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 13; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d2 Con; _cure_ 1 save.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 1 save.
 
 Countless species of poisonous snakes dwell in the wild, their bites capable of bringing down creatures much larger than themselves. Snakes of the size presented here are thankfully rarer than their smaller kin, but many species of rattlesnake, cobra, and similar reptiles can grow to this size.
 

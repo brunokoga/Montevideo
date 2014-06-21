@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/fearWords
+title: ultimateMagic/wordsOfPower/effectwords/fearWords
 ---
 ## Fear Words
 
@@ -8,7 +8,7 @@ These words conjure a primal terror in all that hear them.
 
 Spook (Fear)
 
-**School** necromancy [[fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)), mind-affecting]; **Level** bard 1, cleric 1, inquisitor 1, sorcerer_dir/wizard 1, witch 1
+**School** necromancy [[fear](monsters/universalMonsterRules#_fear-(su-or-sp)), mind-affecting]; **Level** bard 1, cleric 1, inquisitor 1, sorcerer/wizard 1, witch 1
 
 **Duration** 1d4 rounds
 
@@ -20,9 +20,9 @@ This effect word causes the target to become frightened for the duration. This w
 
 Terror (Fear)
 
-**School** necromancy [[fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)), mind-affecting]; **Level** bard 3, inquisitor 4, sorcerer_dir/wizard 4, witch 4
+**School** necromancy [[fear](monsters/universalMonsterRules#_fear-(su-or-sp)), mind-affecting]; **Level** bard 3, inquisitor 4, sorcerer/wizard 4, witch 4
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates; **Spell Resistance** Yes
 
@@ -30,7 +30,7 @@ This effect word causes the targets to become frightened for the duration. A tar
 
 Horror (Fear)
 
-**School** necromancy [[fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)), mind-affecting]; **Level** sorcerer_dir/wizard 7, witch 7
+**School** necromancy [[fear](monsters/universalMonsterRules#_fear-(su-or-sp)), mind-affecting]; **Level** sorcerer/wizard 7, witch 7
 
 **Duration** instantaneous
 

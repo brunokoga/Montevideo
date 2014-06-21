@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/choker
+title: monsters/choker
 ---
 # Choker
 
@@ -12,7 +12,7 @@ _This hunched-over wretch has long, pliable arms like tentacles capped with five
 
 CE Small [aberration](creatureTypes#_aberration)
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +1
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +1
 
 **Defense**
 
@@ -38,9 +38,9 @@ CE Small [aberration](creatureTypes#_aberration)
 
 **Base**  **Atk** +2; **CMB** +4 (+8 grappling); **CMD** 16
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth))
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills/stealth#_stealth))
 
-**Skills** [Climb](../skills_dir/climb#_climb) +16, [Stealth](../skills_dir/stealth#_stealth) +13
+**Skills** [Climb](../skills/climb#_climb) +16, [Stealth](../skills/stealth#_stealth) +13
 
 **Language** Undercommon
 

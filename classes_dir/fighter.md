@@ -1,6 +1,6 @@
 ---
 layout: default
-title: classes_dir/fighter
+title: classes/fighter
 ---
 # Fighter
 
@@ -14,7 +14,7 @@ Some take up arms for glory, wealth, or revenge. Others do battle to prove thems
 
 ## Class Skills
 
-The fighter's class skills are [Climb](../skills_dir/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skills_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Handle Animal](../skills_dir/handleAnimal#_handle-animal) ( [Cha](../gettingStarted#_charisma-new)), [Intimidate](../skills_dir/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills_dir/knowledge#_knowledge) (engineering) ( [Int](../gettingStarted#_intelligence)), [Profession](../skills_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skills_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Survival](../skills_dir/survival#_survival) ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skills_dir/swim#_swim) ( [Str](../gettingStarted#_strength)).
+The fighter's class skills are [Climb](../skills/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skills/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Handle Animal](../skills/handleAnimal#_handle-animal) ( [Cha](../gettingStarted#_charisma-new)), [Intimidate](../skills/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skills/knowledge#_knowledge) (dungeoneering) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills/knowledge#_knowledge) (engineering) ( [Int](../gettingStarted#_intelligence)), [Profession](../skills/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skills/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Survival](../skills/survival#_survival) ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skills/swim#_swim) ( [Str](../gettingStarted#_strength)).
 
 **Skill Ranks per Level** : 2 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -26,21 +26,21 @@ The fighter's class skills are [Climb](../skills_dir/climb#_climb) ( [Str](../ge
 | 3rd | +3 | +3 | +1 | +1 | Armor training 1 |
 | 4th | +4 | +4 | +1 | +1 | Bonus feat |
 | 5th | +5 | +4 | +1 | +1 | Weapon training 1 |
-| 6th | +6_dir/+1 | +5 | +2 | +2 | Bonus feat, bravery +2 |
-| 7th | +7_dir/+2 | +5 | +2 | +2 | Armor training 2 |
-| 8th | +8_dir/+3 | +6 | +2 | +2 | Bonus feat |
-| 9th | +9_dir/+4 | +6 | +3 | +3 | Weapon training 2 |
-| 10th | +10_dir/+5 | +7 | +3 | +3 | Bonus feat, bravery +3 |
-| 11th | +11_dir/+6_dir/+1 | +7 | +3 | +3 | Armor training 3 |
-| 12th | +12_dir/+7_dir/+2 | +8 | +4 | +4 | Bonus feat |
-| 13th | +13_dir/+8_dir/+3 | +8 | +4 | +4 | Weapon training 3 |
-| 14th | +14_dir/+9_dir/+4 | +9 | +4 | +4 | Bonus feat, bravery +4 |
-| 15th | +15_dir/+10_dir/+5 | +9 | +5 | +5 | Armor training 4 |
-| 16th | +16_dir/+11_dir/+6_dir/+1 | +10 | +5 | +5 | Bonus feat |
-| 17th | +17_dir/+12_dir/+7_dir/+2 | +10 | +5 | +5 | Weapon training 4 |
-| 18th | +18_dir/+13_dir/+8_dir/+3 | +11 | +6 | +6 | Bonus feat, bravery +5 |
-| 19th | +19_dir/+14_dir/+9_dir/+4 | +11 | +6 | +6 | Armor mastery |
-| 20th | +20_dir/+15_dir/+10_dir/+5 | +12 | +6 | +6 | Bonus feat, weapon mastery |
+| 6th | +6/+1 | +5 | +2 | +2 | Bonus feat, bravery +2 |
+| 7th | +7/+2 | +5 | +2 | +2 | Armor training 2 |
+| 8th | +8/+3 | +6 | +2 | +2 | Bonus feat |
+| 9th | +9/+4 | +6 | +3 | +3 | Weapon training 2 |
+| 10th | +10/+5 | +7 | +3 | +3 | Bonus feat, bravery +3 |
+| 11th | +11/+6/+1 | +7 | +3 | +3 | Armor training 3 |
+| 12th | +12/+7/+2 | +8 | +4 | +4 | Bonus feat |
+| 13th | +13/+8/+3 | +8 | +4 | +4 | Weapon training 3 |
+| 14th | +14/+9/+4 | +9 | +4 | +4 | Bonus feat, bravery +4 |
+| 15th | +15/+10/+5 | +9 | +5 | +5 | Armor training 4 |
+| 16th | +16/+11/+6/+1 | +10 | +5 | +5 | Bonus feat |
+| 17th | +17/+12/+7/+2 | +10 | +5 | +5 | Weapon training 4 |
+| 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Bonus feat, bravery +5 |
+| 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Armor mastery |
+| 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Bonus feat, weapon mastery |
 
 ## Class Features
 
@@ -94,7 +94,7 @@ _Spears_: javelin, lance, longspear, shortspear, spear, and trident.
 
 _Thrown_: blowgun, bolas, club, dagger, dart, halfling sling staff, javelin, light hammer, net, shortspear, shuriken, sling, spear, starknife, throwing axe, and trident.
 
-**Armor Mastery [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 19th level, a fighter gains [DR](../glossary#_damage-reduction) 5_dir/— whenever he is wearing armor or using a shield.
+**Armor Mastery [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 19th level, a fighter gains [DR](../glossary#_damage-reduction) 5/— whenever he is wearing armor or using a shield.
 
 **Weapon Mastery [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 20th level, a fighter chooses one weapon, such as the longsword, greataxe, or longbow. Any attacks made with that weapon automatically confirm all critical threats and have their damage multiplier increased by 1 (×2 becomes ×3, for example). In addition, he cannot be disarmed while wielding a weapon of this type.
 

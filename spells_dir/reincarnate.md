@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/reincarnate
+title: spells/reincarnate
 ---
  **Reincarnate**
 

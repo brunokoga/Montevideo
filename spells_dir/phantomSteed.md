@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/phantomSteed
+title: spells/phantomSteed
 ---
  **Phantom Steed**
 
-**School** conjuration (creation); **Level** bard 3, sorcerer_dir/wizard 3
+**School** conjuration (creation); **Level** bard 3, sorcerer/wizard 3
 
 **Casting Time** 10 minutes
 
@@ -14,7 +14,7 @@ title: spells_dir/phantomSteed
 
 **Effect** one quasi-real, horselike creature
 
-**Duration** 1 hour_dir/level (D)
+**Duration** 1 hour/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

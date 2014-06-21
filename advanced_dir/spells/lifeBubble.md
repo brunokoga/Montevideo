@@ -1,24 +1,24 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/lifeBubble
+title: advanced/spells/lifeBubble
 ---
  **Life Bubble**
 
-**School** abjuration; **Level** cleric 5, druid 4, ranger 3, sorcerer_dir/wizard 5
+**School** abjuration; **Level** cleric 5, druid 4, ranger 3, sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M_dir/DF (a bit of eggshell)
+**Components** V, S, M/DF (a bit of eggshell)
 
 **Range** touch
 
-**Target** creatures touched, up to one_dir/level
+**Target** creatures touched, up to one/level
 
-**Duration** 2 hours_dir/level; see text
+**Duration** 2 hours/level; see text
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-You surround the touched creatures with a constant and moveable 1-inch shell of tolerable living conditions. This shell enables the subjects to breathe freely, even underwater or in a vacuum, as well as making them immune to harmful gases and vapors, including inhaled diseases and poisons and spells like _ [cloudkill](../../spells_dir/cloudkill#_cloudkill)_ and _ [stinking cloud](../../spells_dir/stinkingCloud#_stinking-cloud)_. In addition, the shell protects subjects from extremes of temperature (per _ [endure elements](../../spells_dir/endureElements#_endure-elements)_) as well as extremes of pressure.
+You surround the touched creatures with a constant and moveable 1-inch shell of tolerable living conditions. This shell enables the subjects to breathe freely, even underwater or in a vacuum, as well as making them immune to harmful gases and vapors, including inhaled diseases and poisons and spells like _ [cloudkill](../../spells/cloudkill#_cloudkill)_ and _ [stinking cloud](../../spells/stinkingCloud#_stinking-cloud)_. In addition, the shell protects subjects from extremes of temperature (per _ [endure elements](../../spells/endureElements#_endure-elements)_) as well as extremes of pressure.
 
 _Life bubble_ does not provide protection from negative or positive energy (such as found on the Negative and Positive Energy planes), the ability to see in conditions of poor visibility (such as in smoke or fog), nor the ability to move or act normally in conditions that impede movement (such as underwater).
 

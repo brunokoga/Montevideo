@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/magicItems_dir/rods
+title: advanced/magicItems/rods
 ---
 # Rods
 

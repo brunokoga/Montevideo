@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/strongJaw
+title: advanced/spells/strongJaw
 ---
  **Strong Jaw**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/strongJaw
 
 **Target** creature touched
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

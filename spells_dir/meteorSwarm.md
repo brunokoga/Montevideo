@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/meteorSwarm
+title: spells/meteorSwarm
 ---
  **Meteor Swarm**
 
-**School** evocation [fire]; **Level** sorcerer_dir/wizard 9
+**School** evocation [fire]; **Level** sorcerer/wizard 9
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Area** four 40-ft.-radius spreads, see text
 

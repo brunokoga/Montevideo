@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/gallantInspiration
+title: advanced/spells/gallantInspiration
 ---
  **Gallant Inspiration**
 
@@ -10,7 +10,7 @@ title: advanced_dir/spells_dir/gallantInspiration
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one living creature
 

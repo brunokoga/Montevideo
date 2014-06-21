@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/symbolOfWeakness
+title: spells/symbolOfWeakness
 ---
  **Symbol of Weakness**
 
-**School** necromancy; **Level** cleric 7, sorcerer_dir/wizard 7
+**School** necromancy; **Level** cleric 7, sorcerer/wizard 7
 
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
 

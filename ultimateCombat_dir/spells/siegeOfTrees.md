@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/siegeOfTrees
+title: ultimateCombat/spells/siegeOfTrees
 ---
 Siege of Trees
 
@@ -10,11 +10,11 @@ Siege of Trees
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
-**Targets** one Large [plant](monsters_dir/creatureTypes#_plant) per three caster levels
+**Targets** one Large [plant](monsters/creatureTypes#_plant) per three caster levels
 
-**Duration** 1 hour_dir/level (D)
+**Duration** 1 hour/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -24,9 +24,9 @@ Siege of Trees, Greater
 
 **School** transmutation; **Level** druid 9
 
-**Targets** one Gargantuan, Huge, or Large [plant](monsters_dir/creatureTypes#_plant) per three caster levels
+**Targets** one Gargantuan, Huge, or Large [plant](monsters/creatureTypes#_plant) per three caster levels
 
-**Duration** 1 hour_dir/level (D)
+**Duration** 1 hour/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/ghoulTouch
+title: spells/ghoulTouch
 ---
  **Ghoul touch**
 
-**School** necromancy; **Level** sorcerer_dir/wizard 2
+**School** necromancy; **Level** sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 

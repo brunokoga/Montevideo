@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/seeInvisibility
+title: spells/seeInvisibility
 ---
  **See Invisibility**
 
-**School** divination; **Level** bard 3, sorcerer_dir/wizard 2
+**School** divination; **Level** bard 3, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/seeInvisibility
 
 **Target** you
 
-**Duration** 10 min._dir/level (D)
+**Duration** 10 min./level (D)
 
 You can see any objects or beings that are [invisible](../glossary#_invisible) within your range of vision, as well as any that are ethereal, as if they were normally visible. Such creatures are visible to you as translucent shapes, allowing you easily to discern the difference between visible, [invisible](../glossary#_invisible), and ethereal creatures.
 

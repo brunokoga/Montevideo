@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/chaosHammer
+title: spells/chaosHammer
 ---
  **Chaos Hammer**
 
@@ -10,7 +10,7 @@ title: spells_dir/chaosHammer
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Area** 20-ft.-radius burst
 

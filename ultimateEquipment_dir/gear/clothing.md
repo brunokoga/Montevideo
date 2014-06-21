@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateEquipment_dir/gear_dir/clothing
+title: ultimateEquipment/gear/clothing
 ---
 # Clothing
 
@@ -24,7 +24,7 @@ All characters begin play with one outfit valued at 10 gp or less. Additional ou
 | Explorer's outfit | 10 gp | 8 lbs.\* |
 | Fire-resistant boots | 20 gp | 2 lbs.\* |
 | Furs | 12 gp | 5 lbs.\* |
-| Hat | 1 sp–50 gp | 1_dir/2 lb.–2 lbs.\* |
+| Hat | 1 sp–50 gp | 1/2 lb.–2 lbs.\* |
 | Hennin | 10–100­ gp | 1 lb.\* |
 | Hot weather outfit | 8 gp | 4 lbs.\* |
 | Ice skates | 1 gp | 2 lbs.\* |
@@ -34,15 +34,15 @@ All characters begin play with one outfit valued at 10 gp or less. Additional ou
 | Monk's outfit | 5 gp | 2 lbs.\* |
 | Monster mask | 5–10 gp | 1 lb.\* |
 | Noble's outfit | 75 gp | 10 lbs.\* |
-| Patchwork cloak | 5 gp | 1_dir/2 lb.\* |
+| Patchwork cloak | 5 gp | 1/2 lb.\* |
 | Peasant's outfit | 1 sp | 2 lbs.\* |
 | Pickpocket's outfit | 5 gp | 3 lbs.\* |
-| Pocketed scarf | 8 gp | 1_dir/2 lb.\* |
+| Pocketed scarf | 8 gp | 1/2 lb.\* |
 | Poncho | 5 sp | 2 lbs.\* |
 | Reinforced scarf | 10 gp | 1 lb.\* |
 | Reversible cloak | 2 sp–100 gp | 1 lb.\* |
 | Royal outfit | 200 gp | 15 lbs.\* |
-| Scarf | 1 sp–5 gp | 1_dir/2 lb.\* |
+| Scarf | 1 sp–5 gp | 1/2 lb.\* |
 | Scholar's outfit | 5 gp | 6 lbs.\* |
 | Skis | 5 gp | 20 lbs.\* |
 | Snowshoes | 5 gp | 4 lbs.\* |
@@ -50,7 +50,7 @@ All characters begin play with one outfit valued at 10 gp or less. Additional ou
 | Tabard | 5 gp | 1 lb.\* |
 | Tear-away clothing | +5 gp | — |
 | Traveler's outfit | 1 gp | 5 lbs.\* |
-| Wig | 5 gp–500 gp | 1_dir/2 lb.–4 lbs.\* |
+| Wig | 5 gp–500 gp | 1/2 lb.–4 lbs.\* |
 
 Artisan's Outfit
 
@@ -104,7 +104,7 @@ Diving Suit
 
 **Price** 10 gp; **Weight** 2 lbs.
 
-This one-piece suit of clothing reduces one's drag in the water, making swimming easier. It provides a +1 circumstance bonus on [Swim](skills_dir/swim#_swim) checks. The suit only grants this bonus if it is the outermost garment, and has no effect if worn over bulky clothes or armor or with cumbersome gear (such as a backpack, large weapons, and so on). Damage to the suit (such as from several rounds of combat against slashing and piercing attacks) negates the suit's bonus until it is repaired.
+This one-piece suit of clothing reduces one's drag in the water, making swimming easier. It provides a +1 circumstance bonus on [Swim](skills/swim#_swim) checks. The suit only grants this bonus if it is the outermost garment, and has no effect if worn over bulky clothes or armor or with cumbersome gear (such as a backpack, large weapons, and so on). Damage to the suit (such as from several rounds of combat against slashing and piercing attacks) negates the suit's bonus until it is repaired.
 
 Entertainer's Outfit
 
@@ -129,11 +129,11 @@ Furs
 
 **Price** 12 gp; **Weight** 5 lbs.
 
-The most basic of cold-weather gear, animal furs serve to keep their wearers warm. Wearing enough fur to cover the body provides a +2 bonus on Fortitude saves to resist cold weather. This does not stack with any bonuses gained from the [Survival](skills_dir/survival#_survival) skill. Furs may supplement another outfit.
+The most basic of cold-weather gear, animal furs serve to keep their wearers warm. Wearing enough fur to cover the body provides a +2 bonus on Fortitude saves to resist cold weather. This does not stack with any bonuses gained from the [Survival](skills/survival#_survival) skill. Furs may supplement another outfit.
 
 Hat
 
-**Price** varies; **Weight** 1_dir/2 lb.–2 lbs.
+**Price** varies; **Weight** 1/2 lb.–2 lbs.
 
 Hats of various styles appear in all cultures. Ranging from the turban to the tricorne to the furred cap, a hat can be a simple covering for the head. Particular hats are sometimes mandatory for social or religious sects. A utilitarian hat such as a tricorne typically costs 2 sp.
 
@@ -147,13 +147,13 @@ Hot Weather Outfit
 
 **Price** 8 gp; **Weight** 4 lbs.
 
-Covering your body from head to foot in light, airy cloth keeps you cooler than baring your skin to the sun. This outfit typically consists of a loose linen robe and either a turban or loose head covering and veil. The outfit provides a +2 bonus on Fortitude saves to resist warm or hot weather. This does not stack with any bonuses gained from the [Survival](skills_dir/survival#_survival) skill.
+Covering your body from head to foot in light, airy cloth keeps you cooler than baring your skin to the sun. This outfit typically consists of a loose linen robe and either a turban or loose head covering and veil. The outfit provides a +2 bonus on Fortitude saves to resist warm or hot weather. This does not stack with any bonuses gained from the [Survival](skills/survival#_survival) skill.
 
 Ice Skates
 
 **Price** 1 gp; **Weight** 2 lbs.
 
-Each of these calf-high boots bears a vertical blade on the bottom, allowing you to travel swiftly on ice. Wearing ice skates allows you to move on ice at normal speed with a successful DC 5 [Acrobatics](skills_dir/acrobatics#_acrobatics) check (including running and charging), but your movement is reduced to half speed on all other terrain. Donning or removing an ice skate is a full-round action. Skating with only one is possible, but the DC of the [Acrobatics](skills_dir/acrobatics#_acrobatics) check rises to 15.
+Each of these calf-high boots bears a vertical blade on the bottom, allowing you to travel swiftly on ice. Wearing ice skates allows you to move on ice at normal speed with a successful DC 5 [Acrobatics](skills/acrobatics#_acrobatics) check (including running and charging), but your movement is reduced to half speed on all other terrain. Donning or removing an ice skate is a full-round action. Skating with only one is possible, but the DC of the [Acrobatics](skills/acrobatics#_acrobatics) check rises to 15.
 
 Jewelry
 
@@ -183,7 +183,7 @@ Monster Mask
 
 **Price** varies; **Weight** 1 lb.
 
-This articulated mask resembles a specific type of humanoid monster, such as a bugbear, goblin, orc, or hobgoblin. The mouth opens and closes when you move your jaw and its skin is actually carefully-painted cloth. Though such masks are usually intended for theater performances where an actor plays the role of a monster, adventurers have been known to use them to help blend in with monsters of the appropriate type. The mask negates the –2 [Disguise](skills_dir/disguise#_disguise) DC for disguising yourself as a different race, but only at a distance of at least 20 feet or when you have concealment; closer than this distance or in clearer circumstances, the mask is obviously a false representation. It only covers your face and is normally worn with a wig or helmet to disguise or cover the rest of your head. Each mask is most suitable for a wearer of a particular size, though some size and monster combinations are less believable than others (a Small creature in an orc mask may be able to pass as an orc child, but a Medium creature in a goblin mask at best looks like a deformed hobgoblin).
+This articulated mask resembles a specific type of humanoid monster, such as a bugbear, goblin, orc, or hobgoblin. The mouth opens and closes when you move your jaw and its skin is actually carefully-painted cloth. Though such masks are usually intended for theater performances where an actor plays the role of a monster, adventurers have been known to use them to help blend in with monsters of the appropriate type. The mask negates the –2 [Disguise](skills/disguise#_disguise) DC for disguising yourself as a different race, but only at a distance of at least 20 feet or when you have concealment; closer than this distance or in clearer circumstances, the mask is obviously a false representation. It only covers your face and is normally worn with a wig or helmet to disguise or cover the rest of your head. Each mask is most suitable for a wearer of a particular size, though some size and monster combinations are less believable than others (a Small creature in an orc mask may be able to pass as an orc child, but a Medium creature in a goblin mask at best looks like a deformed hobgoblin).
 
 Noble's Outfit
 
@@ -193,7 +193,7 @@ These clothes are designed specifically to be expensive and gaudy, letting every
 
 Patchwork Cloak
 
-**Price** 5 gp; **Weight** 1_dir/2 lb.
+**Price** 5 gp; **Weight** 1/2 lb.
 
 These cloaks are popular among traveling bards, and each patchwork cloak is unique. The patches represent where the traveler has been, and often the performer uses them to recall specific stories from his repertoire. When a bard retires or dies, he often bequeaths his cloak to a young entertainer he mentored or admired.
 
@@ -211,9 +211,9 @@ Outfitted with concealed pockets, this clothing gives you a +2 bonus when hiding
 
 Pocketed Scarf
 
-**Price** 8 gp; **Weight** 1_dir/2 lb.
+**Price** 8 gp; **Weight** 1/2 lb.
 
-An elaborate design disguises several small pockets on one side of this scarf. This scarf grants you a +4 bonus on [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) checks made to hide objects on your body. This bonus does not stack with the bonus wearing heavy clothing provides but does stack with bonuses for attempting to hide small objects.
+An elaborate design disguises several small pockets on one side of this scarf. This scarf grants you a +4 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks made to hide objects on your body. This bonus does not stack with the bonus wearing heavy clothing provides but does stack with bonuses for attempting to hide small objects.
 
 Poncho
 
@@ -241,7 +241,7 @@ Royal clothes are ostentatious, with gems, gold, silk, and fur in abundance. A r
 
 Scarf
 
-**Price** varies; **Weight** 1_dir/2 lb.
+**Price** varies; **Weight** 1/2 lb.
 
 Entertainers often employ seductive garb and entrancing props in their performances. Scarves of colorful cloth or transparent silk, often embroidered with elaborate scenes or motifs, are favorite accessories.
 
@@ -289,7 +289,7 @@ This set of clothes consists of boots, a wool skirt or breeches, a sturdy belt, 
 
 Wig
 
-**Price** varies; **Weight** 1_dir/2 lb.–4 lbs.
+**Price** varies; **Weight** 1/2 lb.–4 lbs.
 
 False hair comes in many forms, from the severe coif of a judge to the towering confection adorning a noble to the simple curls worn by a housewife whose hair is thinning. Wigs can be found for sale in any major city and can be special-ordered in most towns. As they are usually made of hair, the available colors are likely limited by the locally predominant hair color, but others can be obtained by applying dye.
 

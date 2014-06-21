@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/blessingOfTheSalamander
+title: advanced/spells/blessingOfTheSalamander
 ---
  **Blessing of the Salamander**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/blessingOfTheSalamander
 
 **Target** creature touched
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

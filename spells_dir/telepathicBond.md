@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/telepathicBond
+title: spells/telepathicBond
 ---
  **Telepathic Bond**
 
-**School** divination; **Level** sorcerer_dir/wizard 5
+**School** divination; **Level** sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (two eggshells from two different creatures)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Targets** you plus one willing creature per three levels, no two of which can be more than 30 ft. apart
 
-**Duration** 10 min._dir/level (D)
+**Duration** 10 min./level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

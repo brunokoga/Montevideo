@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/trueStrike
+title: spells/trueStrike
 ---
  **True Strike**
 
-**School** divination; **Level** sorcerer_dir/wizard 1
+**School** divination; **Level** sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 

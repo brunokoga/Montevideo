@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/enlargePerson
+title: spells/enlargePerson
 ---
  **Enlarge Person**
 
-**School** transmutation; **Level** sorcerer_dir/wizard 1
+**School** transmutation; **Level** sorcerer/wizard 1
 
 **Casting Time** 1 round
 
 **Components** V, S, M (powdered iron)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one humanoid creature
 
-**Duration** 1 min._dir/level (D)
+**Duration** 1 min./level (D)
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 
@@ -34,9 +34,9 @@ _Enlarge person _can be made permanent with a _ [permanency](permanency#_permane
 
 **Enlarge Person, Mass**
 
-**School** transmutation; **Level** sorcerer_dir/wizard 4
+**School** transmutation; **Level** sorcerer/wizard 4
 
-**Target** One humanoid creature_dir/level, no two of which can be more than 30 ft. apart
+**Target** One humanoid creature/level, no two of which can be more than 30 ft. apart
 
 This spell functions like _enlarge person_, except that it affects multiple creatures.
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/telekinesis
+title: spells/telekinesis
 ---
  **Telekinesis**
 
-**School** transmutation; **Level** sorcerer_dir/wizard 5
+**School** transmutation; **Level** sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** long (400 ft. + 40 ft._dir/level)
+**Range** long (400 ft. + 40 ft./level)
 
 **Target or Targets** see text
 
-**Duration** concentration (up to 1 round_dir/level) or instantaneous; see text
+**Duration** concentration (up to 1 round/level) or instantaneous; see text
 
 **Saving Throw** [Will](../combat#_will) negates (object) or none; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes (object); see text
 

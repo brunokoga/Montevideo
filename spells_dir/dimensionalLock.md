@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/dimensionalLock
+title: spells/dimensionalLock
 ---
  **Dimensional Lock**
 
-**School** abjuration; **Level** cleric 8, sorcerer_dir/wizard 8
+**School** abjuration; **Level** cleric 8, sorcerer/wizard 8
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Area** 20-ft.-radius emanation centered on a point in space
 
-**Duration** 1 day_dir/level
+**Duration** 1 day/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/protectivePenumbra
+title: ultimateMagic/spells/protectivePenumbra
 ---
 Protective Penumbra
 
-**School** evocation [darkness]; **Level** cleric 2, sorcerer_dir/wizard 2, witch 2
+**School** evocation [darkness]; **Level** cleric 2, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Protective Penumbra
 
 **Target** creature touched
 
-**Duration** 10 minutes_dir/level
+**Duration** 10 minutes/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes
 

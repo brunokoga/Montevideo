@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures_dir/mythicSpells_dir/murderousCommand
+title: mythicAdventures/mythicSpells/murderousCommand
 ---
 Murderous Command
 
-**Source** [_murderous command_](ultimateMagic_dir/spells_dir/murderousCommand#_murderous-command)
+**Source** [_murderous command_](ultimateMagic/spells/murderousCommand#_murderous-command)
 
 This spell lasts for a number of rounds equal to your tier. Each round after the first, the target can attempt a new saving throw at the beginning of its turn to break free of the spell.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCampaign_dir/characterBackground_dir/adulthood
+title: ultimateCampaign/characterBackground/adulthood
 ---
 # Adulthood
 

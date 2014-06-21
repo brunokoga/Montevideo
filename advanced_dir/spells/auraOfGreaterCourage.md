@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/auraOfGreaterCourage
+title: advanced/spells/auraOfGreaterCourage
 ---
  **Aura of Greater Courage**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/auraOfGreaterCourage
 
 **Area** 10-ft.-radius emanation centered on you
 
-**Duration** 10 minutes_dir/level
+**Duration** 10 minutes/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

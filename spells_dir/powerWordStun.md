@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/powerWordStun
+title: spells/powerWordStun
 ---
  **Power Word Stun**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer_dir/wizard 8
+**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 8
 
 **Casting Time** 1 standard action
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature with 150 hp or less
 

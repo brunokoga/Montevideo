@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spells_dir/enervation
+title: spells/enervation
 ---
  **Enervation**
 
-**School** necromancy; **Level** sorcerer_dir/wizard 4
+**School** necromancy; **Level** sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** ray of negative energy
 

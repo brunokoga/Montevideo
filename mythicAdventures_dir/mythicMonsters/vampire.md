@@ -1,20 +1,20 @@
 ---
 layout: default
-title: mythicAdventures_dir/mythicMonsters_dir/vampire
+title: mythicAdventures/mythicMonsters/vampire
 ---
 # Vampire
 
 _This aristocratic figure could easily pass for human if not for the grave-pale skin, red eyes, and long fangs. _
 
-Mythic Vampire CR 10_dir/MR 4
+Mythic Vampire CR 10/MR 4
 
 XP 9,600
 
 Human vampire fighter 7
 
-NE Medium undead ( [augmented](monsters_dir/creatureTypes#_augmented-subtype) humanoid, [human](monsters_dir/creatureTypes#_human-subtype), [mythic](mythicAdventures_dir/mythicMonsters#_mythic-subtype))
+NE Medium undead ( [augmented](monsters/creatureTypes#_augmented-subtype) humanoid, [human](monsters/creatureTypes#_human-subtype), [mythic](mythicAdventures/mythicMonsters#_mythic-subtype))
 
-**Init** +12M; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +17
+**Init** +12M; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +17
 
 Defense
 
@@ -22,9 +22,9 @@ Defense
 
 **hp** 117 (7d10+74); fast healing 5
 
-**Fort** +11, **Ref** +10, **Will** +4 (+2 vs. [fear](monsters_dir/universalMonsterRules#_fear))
+**Fort** +11, **Ref** +10, **Will** +4 (+2 vs. [fear](monsters/universalMonsterRules#_fear))
 
-**Defensive Abilities** bravery +2; channel [resistance](monsters_dir/universalMonsterRules#_resistance) +8; **DR** 10_dir/epic and magic and silver; **Immune** undead traits; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10
+**Defensive Abilities** bravery +2; channel [resistance](monsters/universalMonsterRules#_resistance) +8; **DR** 10/epic and magic and silver; **Immune** undead traits; **Resist** [cold](monsters/creatureTypes#_cold-subtype) 10, electricity 10
 
 **Weaknesses** vampire weaknesses
 
@@ -32,11 +32,11 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 longsword_ +19_dir/+14 (1d8+12_dir/19–20 plus energy drain), slam +15 (1d4+4 plus energy drain)
+**Melee** _+1 longsword_ +19/+14 (1d8+12/19–20 plus energy drain), slam +15 (1d4+4 plus energy drain)
 
-**Ranged** mwk light crossbow +12 (1d8_dir/19–20)
+**Ranged** mwk light crossbow +12 (1d8/19–20)
 
-**Special Attacks** [blood drain](monsters_dir/universalMonsterRules#_blood-drain), children of the night (ghouls or shadows), create spawn, dominate (DC 17), energy drain (2 levels, DC 17), mythic power (4_dir/day, surge +1d8), negative energy focus, scabrous claws, weapon training (heavy blades +1)
+**Special Attacks** [blood drain](monsters/universalMonsterRules#_blood-drain), children of the night (ghouls or shadows), create spawn, dominate (DC 17), energy drain (2 levels, DC 17), mythic power (4/day, surge +1d8), negative energy focus, scabrous claws, weapon training (heavy blades +1)
 
 Statistics
 
@@ -44,13 +44,13 @@ Statistics
 
 **Base Atk** +7; **CMB** +15; **CMD** 31
 
-**Feats** [Alertness](feats#_alertness)B, [Combat Reflexes](feats#_combat-reflexes)B, [Deceitful](feats#_deceitful), [Disruptive](mythicAdventures_dir/mythicFeats#_disruptive-mythic)M, [Dodge](feats#_dodge)B, Greater [Weapon Focus](feats#_weapon-focus) (longsword), [Improved Initiative](feats#_improved-initiative)B, M, [Lightning Reflexes](feats#_lightning-reflexes)B, [Mobility](feats#_mobility), [Power Attack](feats#_power-attack), [Quick Draw](feats#_quick-draw), [Toughness](feats#_toughness)B, [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (longsword), Weapon Specialization (longsword)
+**Feats** [Alertness](feats#_alertness)B, [Combat Reflexes](feats#_combat-reflexes)B, [Deceitful](feats#_deceitful), [Disruptive](mythicAdventures/mythicFeats#_disruptive-mythic)M, [Dodge](feats#_dodge)B, Greater [Weapon Focus](feats#_weapon-focus) (longsword), [Improved Initiative](feats#_improved-initiative)B, M, [Lightning Reflexes](feats#_lightning-reflexes)B, [Mobility](feats#_mobility), [Power Attack](feats#_power-attack), [Quick Draw](feats#_quick-draw), [Toughness](feats#_toughness)B, [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (longsword), Weapon Specialization (longsword)
 
-**Skills** [Bluff](skills_dir/bluff#_bluff) +21, [Climb](skills_dir/climb#_climb) +14, [Disguise](skills_dir/disguise#_disguise) +6, [Intimidate](skills_dir/intimidate#_intimidate) +14, [Perception](skills_dir/perception#_perception) +17, [Ride](skills_dir/ride#_ride) +8, [Sense Motive](skills_dir/senseMotive#_sense-motive) +17, [Stealth](skills_dir/stealth#_stealth) +15; **Racial Modifiers** +8 [Bluff](skills_dir/bluff#_bluff), +8 [Perception](skills_dir/perception#_perception), +8 [Sense Motive](skills_dir/senseMotive#_sense-motive), +8 [Stealth](skills_dir/stealth#_stealth)
+**Skills** [Bluff](skills/bluff#_bluff) +21, [Climb](skills/climb#_climb) +14, [Disguise](skills/disguise#_disguise) +6, [Intimidate](skills/intimidate#_intimidate) +14, [Perception](skills/perception#_perception) +17, [Ride](skills/ride#_ride) +8, [Sense Motive](skills/senseMotive#_sense-motive) +17, [Stealth](skills/stealth#_stealth) +15; **Racial Modifiers** +8 [Bluff](skills/bluff#_bluff), +8 [Perception](skills/perception#_perception), +8 [Sense Motive](skills/senseMotive#_sense-motive), +8 [Stealth](skills/stealth#_stealth)
 
 **Languages** Common, Draconic, Undercommon
 
-**SQ** armor training 2, [change shape](monsters_dir/universalMonsterRules#_change-shape) (dire bat or wolf, _ [beast shape II](spells_dir/beastShape#_beast-shape-ii)_), gaseous form, overcome weakness (garlic, sunlight), shadowless, _ [spider climb](spells_dir/spiderClimb#_spider-climb)_
+**SQ** armor training 2, [change shape](monsters/universalMonsterRules#_change-shape) (dire bat or wolf, _ [beast shape II](spells/beastShape#_beast-shape-ii)_), gaseous form, overcome weakness (garlic, sunlight), shadowless, _ [spider climb](spells/spiderClimb#_spider-climb)_
 
 Ecology
 
@@ -58,7 +58,7 @@ Ecology
 
 **Organization** solitary or family (vampire plus 2–8 spawn)
 
-**Treasure** NPC gear (_potion of [inflict serious wounds](spells_dir/inflictSeriousWounds#_inflict-serious-wounds)_, _+1 bolts_ (10), _+1 leather armor_, _+1 longsword_, mwk light crossbow, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, other treasure)
+**Treasure** NPC gear (_potion of [inflict serious wounds](spells/inflictSeriousWounds#_inflict-serious-wounds)_, _+1 bolts_ (10), _+1 leather armor_, _+1 longsword_, mwk light crossbow, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, other treasure)
 
 A mythic vampire has ties to the earliest of its kind, being either one of the first vampires or the offspring of such ancient creatures.
 
@@ -82,19 +82,19 @@ A mythic vampire has ties to the earliest of its kind, being either one of the f
 
 **Children of the Eclipse (Su)** : At 4th rank, a mythic vampire can use its children of the night ability to call forth bat swarms, rat swarms, or wolves once per hour instead of once per day. Once per day, the mythic vampire can use children of the night to call forth 2d6 ghouls or 1d6+1 shadows. At 7th rank, once per day the mythic vampire can use children of the night to call forth 1d6 wraiths or mohrgs.
 
-**Mist Shapes (Su)** : At 5th rank, a mythic vampire can summon and sculpt mist into realistic shapes as the _ [major image](spells_dir/majorImage#_major-image)_ spell. A shape created in this way lasts for as long as the mythic vampire can see and concentrate upon it. In areas of particularly dense mist, this ability functions as _ [mirage arcana](spells_dir/mirageArcana#_mirage-arcana)_ instead of _ [major image](spells_dir/majorImage#_major-image)_.
+**Mist Shapes (Su)** : At 5th rank, a mythic vampire can summon and sculpt mist into realistic shapes as the _ [major image](spells/majorImage#_major-image)_ spell. A shape created in this way lasts for as long as the mythic vampire can see and concentrate upon it. In areas of particularly dense mist, this ability functions as _ [mirage arcana](spells/mirageArcana#_mirage-arcana)_ instead of _ [major image](spells/majorImage#_major-image)_.
 
 **Mastermind (Su)** : At 6th rank, as a standard action a mythic vampire can see, hear, and speak through the body of a creature it has dominated. The mythic vampire can use this ability indefinitely on one creature at a time, as long as it and the creature under its control remain on the same plane. A mythic vampire using this ability can't move, but is still aware of its surroundings and can end this ability as a free action.
 
-**Telekinesis (Sp)** : At 6th rank, a mythic vampire can expend one use of mythic power to use the spell _ [telekinesis](spells_dir/telekinesis#_telekinesis)_ with a caster level equal to the mythic vampire's CR.
+**Telekinesis (Sp)** : At 6th rank, a mythic vampire can expend one use of mythic power to use the spell _ [telekinesis](spells/telekinesis#_telekinesis)_ with a caster level equal to the mythic vampire's CR.
 
-**Flight (Su)** : At 7th rank, a mythic vampire can expend one use of mythic power as an immediate action to gain a fly speed equal to double its base speed (perfect maneuverability) for 1 hour. When it activates this ability, the vampire chooses whether to manifest bat-like wings or to float unnaturally. If it manifests wings, it gains a bonus on [Intimidate](skills_dir/intimidate#_intimidate) checks equal to its rank. If it chooses to float, it gains a bonus on [Stealth](skills_dir/stealth#_stealth) checks equal to its rank.
+**Flight (Su)** : At 7th rank, a mythic vampire can expend one use of mythic power as an immediate action to gain a fly speed equal to double its base speed (perfect maneuverability) for 1 hour. When it activates this ability, the vampire chooses whether to manifest bat-like wings or to float unnaturally. If it manifests wings, it gains a bonus on [Intimidate](skills/intimidate#_intimidate) checks equal to its rank. If it chooses to float, it gains a bonus on [Stealth](skills/stealth#_stealth) checks equal to its rank.
 
 **Create Mythic Spawn** : At 8th rank, a mythic vampire can expend one use of mythic power when using create spawn to cause the victim to rise as undead in 1 hour instead of 1d4 days. The mythic vampire can expend two uses of mythic power when using create spawn to create a mythic vampire instead of a vampire spawn or non-mythic vampire.
 
-**Blood Omen (Su)** : At 9th rank, a mythic vampire can expend two uses of mythic power as a standard action to drain blood from all creatures within 30 feet. Each creature must succeed at a Fortitude saving throw (DC 10 + 1_dir/2 the vampire's HD + the vampire's Cha modifier) or be affected by the vampire's blood drain ability. The mythic vampire gains the normal benefits of all blood drained in this manner.
+**Blood Omen (Su)** : At 9th rank, a mythic vampire can expend two uses of mythic power as a standard action to drain blood from all creatures within 30 feet. Each creature must succeed at a Fortitude saving throw (DC 10 + 1/2 the vampire's HD + the vampire's Cha modifier) or be affected by the vampire's blood drain ability. The mythic vampire gains the normal benefits of all blood drained in this manner.
 
-**Eclipse (Su)** : At 10th rank, a mythic vampire can expend one use of its mythic power to blot out the power of the sun in a 1-mile radius. This entire area is affected by the spell _ [deeper darkness](spells_dir/deeperDarkness#_deeper-darkness)_ for 1 hour. The mythic vampire's can see through this darkness.
+**Eclipse (Su)** : At 10th rank, a mythic vampire can expend one use of its mythic power to blot out the power of the sun in a 1-mile radius. This entire area is affected by the spell _ [deeper darkness](spells/deeperDarkness#_deeper-darkness)_ for 1 hour. The mythic vampire's can see through this darkness.
 
 [Mythic Vampire Abilities]
 | Base Vampire's CR | Mythic Rank | Mythic Abilities |

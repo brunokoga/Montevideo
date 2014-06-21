@@ -1,6 +1,6 @@
 ---
 layout: default
-title: npcCodex_dir/appendix
+title: npcCodex/appendix
 ---
 # Appendix 1: Animal Companions
 
@@ -14,7 +14,7 @@ Dinosaur\*
 
 N Small animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +8
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -36,9 +36,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +0; **CMD** 13
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +7 (+19 when jumping), [Perception](skills_dir/perception#_perception) +8
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +7 (+19 when jumping), [Perception](skills/perception#_perception) +8
 
 **SQ** tricks (attack, come, defend, down, fetch, guard, seek)
 
@@ -48,7 +48,7 @@ Pony
 
 N Medium animal
 
-**Init** +1; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +8
+**Init** +1; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -70,9 +70,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +2; **CMD** 13 (17 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Perception](skills_dir/perception#_perception) +8
+**Skills** [Perception](skills/perception#_perception) +8
 
 **SQ** tricks (attack, come, defend, down, guard, heel, work)
 
@@ -82,7 +82,7 @@ Small Cat
 
 N Small animal
 
-**Init** +5; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +5
+**Init** +5; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +5
 
 Defense
 
@@ -106,7 +106,7 @@ Statistics
 
 **Feats** [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Perception](skills_dir/perception#_perception) +5, [Stealth](skills_dir/stealth#_stealth) +13
+**Skills** [Perception](skills/perception#_perception) +5, [Stealth](skills/stealth#_stealth) +13
 
 **SQ** tricks (attack [all creatures], come, defend, down, guard, heel)
 
@@ -116,7 +116,7 @@ Bird
 
 N Small animal
 
-**Init** +2; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +7
+**Init** +2; **Senses** low-light vision; [Perception](skills/perception#_perception) +7
 
 Defense
 
@@ -140,7 +140,7 @@ Statistics
 
 **Feats** [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (talons)
 
-**Skills** [Fly](skills_dir/fly#_fly) +8, [Perception](skills_dir/perception#_perception) +7
+**Skills** [Fly](skills/fly#_fly) +8, [Perception](skills/perception#_perception) +7
 
 **SQ** tricks (attack, come, down, fetch, heel, seek, stay)
 
@@ -150,7 +150,7 @@ Boar\*
 
 N Small animal
 
-**Init** +1; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +10
+**Init** +1; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +10
 
 Defense
 
@@ -172,9 +172,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +2; **CMD** 13 (17 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness)
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness)
 
-**Skills** [Perception](skills_dir/perception#_perception) +10
+**Skills** [Perception](skills/perception#_perception) +10
 
 **SQ** tricks (attack, come, defend, guard, heel, perform, stay)
 
@@ -184,7 +184,7 @@ Constrictor Snake
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +8
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -206,9 +206,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +4 (+8 grapple); **CMD** 17 (can't be tripped)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness)
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +7 (+3 when jumping), [Climb](skills_dir/climb#_climb) +10, [Perception](skills_dir/perception#_perception) +8, [Stealth](skills_dir/stealth#_stealth) +7, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +7 (+3 when jumping), [Climb](skills/climb#_climb) +10, [Perception](skills/perception#_perception) +8, [Stealth](skills/stealth#_stealth) +7, [Swim](skills/swim#_swim) +10
 
 **SQ** tricks (attack, come, defend, down)
 
@@ -218,7 +218,7 @@ Bear\*
 
 N Small animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +5
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +5
 
 Defense
 
@@ -244,7 +244,7 @@ Statistics
 
 **Feats** [Endurance](feats#_endurance), [Run](feats#_run)
 
-**Skills** [Perception](skills_dir/perception#_perception) +5, [Survival](skills_dir/survival#_survival) +2, [Swim](skills_dir/swim#_swim) +7
+**Skills** [Perception](skills/perception#_perception) +5, [Survival](skills/survival#_survival) +2, [Swim](skills/swim#_swim) +7
 
 **SQ** tricks (attack, come, defend, down, guard, heel, perform, stay)
 
@@ -254,7 +254,7 @@ Camel
 
 N Large animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +6
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +6
 
 Defense
 
@@ -284,7 +284,7 @@ Statistics
 
 **Feats** [Endurance](feats#_endurance), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +6
+**Skills** [Perception](skills/perception#_perception) +6
 
 **SQ** tricks (attack, come, down, fetch, guard, heel, stay, work)
 
@@ -294,7 +294,7 @@ Dog
 
 N Small animal
 
-**Init** +4; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +8
+**Init** +4; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -318,9 +318,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +3; **CMD** 17 (21 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +8, [Survival](skills_dir/survival#_survival) +3
+**Skills** [Perception](skills/perception#_perception) +8, [Survival](skills/survival#_survival) +3
 
 **SQ** tricks (attack, come, defend, fetch, guard, heel, stay, track)
 
@@ -330,7 +330,7 @@ Badger
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +8
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -358,7 +358,7 @@ Statistics
 
 **Feats** [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Climb](skills_dir/climb#_climb) +11, [Perception](skills_dir/perception#_perception) +8
+**Skills** [Climb](skills/climb#_climb) +11, [Perception](skills/perception#_perception) +8
 
 **SQ** tricks (attack [all creatures], come, defend, fetch, guard, heel, stay)
 
@@ -370,7 +370,7 @@ Shark
 
 N Medium animal
 
-**Init** +2; **Senses** blindsense, low-light vision, scent; [Perception](skills_dir/perception#_perception) +8
+**Init** +2; **Senses** blindsense, low-light vision, scent; [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -396,7 +396,7 @@ Statistics
 
 **Feats** [Great Fortitude](feats#_great-fortitude), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +8, [Swim](skills_dir/swim#_swim) +12
+**Skills** [Perception](skills/perception#_perception) +8, [Swim](skills/swim#_swim) +12
 
 **SQ** tricks (attack [any creature], guard, seek, track)
 
@@ -406,7 +406,7 @@ Viper Snake
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +9
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +9
 
 Defense
 
@@ -430,15 +430,15 @@ Statistics
 
 **Base Atk** +3; **CMB** +5; **CMD** 18 (can't be tripped)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +7 (+3 when jumping), [Climb](skills_dir/climb#_climb) +10, [Perception](skills_dir/perception#_perception) +9, [Stealth](skills_dir/stealth#_stealth) +7, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +7 (+3 when jumping), [Climb](skills/climb#_climb) +10, [Perception](skills/perception#_perception) +9, [Stealth](skills/stealth#_stealth) +7, [Swim](skills/swim#_swim) +10
 
 **SQ** tricks (attack [any creature], come, defend, down)
 
 Special Abilities
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 13; _frequency_ 1_dir/round for 6 rounds; _effect_ 1 Con; _cure_ 1 save.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1 Con; _cure_ 1 save.
 
 Big Cat\*
 
@@ -446,7 +446,7 @@ Big Cat\*
 
 N Medium animal
 
-**Init** +4; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +9
+**Init** +4; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +9
 
 Defense
 
@@ -472,9 +472,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +5; **CMD** 19 (23 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (bite, claws)
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (bite, claws)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +8 (+12 when jumping), [Perception](skills_dir/perception#_perception) +9, [Stealth](skills_dir/stealth#_stealth) +9, [Swim](skills_dir/swim#_swim) +6
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +8 (+12 when jumping), [Perception](skills/perception#_perception) +9, [Stealth](skills/stealth#_stealth) +9, [Swim](skills/swim#_swim) +6
 
 **SQ** tricks (attack [any creature], defend, down, guard, heel, seek, stay)
 
@@ -484,7 +484,7 @@ Pony
 
 N Medium animal
 
-**Init** +2; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +9
+**Init** +2; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +9
 
 Defense
 
@@ -508,9 +508,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +6; **CMD** 18 (22 vs. trip)
 
-**Feats** [Endurance](feats#_endurance), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Endurance](feats#_endurance), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +6 (+10 when jumping), [Perception](skills_dir/perception#_perception) +9, [Swim](skills_dir/swim#_swim) +7
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +6 (+10 when jumping), [Perception](skills/perception#_perception) +9, [Swim](skills/swim#_swim) +7
 
 **SQ** combat trained, tricks (attack [all creatures], come, defend, down, guard, heel, work)
 
@@ -520,7 +520,7 @@ Wolf
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +10
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +10
 
 Defense
 
@@ -544,9 +544,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +5; **CMD** 18 (22 vs. trip)
 
-**Feats** [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +10, [Survival](skills_dir/survival#_survival) +3
+**Skills** [Perception](skills/perception#_perception) +10, [Survival](skills/survival#_survival) +3
 
 **SQ** tricks (attack, come, defend, fetch, guard, heel, stay, track)
 
@@ -556,7 +556,7 @@ Ape\*
 
 N Large animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +10
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +10
 
 Defense
 
@@ -582,9 +582,9 @@ Statistics
 
 **Base Atk** +4; **CMB** +12; **CMD** 25
 
-**Feats** [Great Fortitude](feats#_great-fortitude), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness)
+**Feats** [Great Fortitude](feats#_great-fortitude), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +8, [Climb](skills_dir/climb#_climb) +15, [Perception](skills_dir/perception#_perception) +10, [Stealth](skills_dir/stealth#_stealth) +3
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +8, [Climb](skills/climb#_climb) +15, [Perception](skills/perception#_perception) +10, [Stealth](skills/stealth#_stealth) +3
 
 **SQ** tricks (attack, come, defend, down, fetch, guard, seek, stay, work)
 
@@ -594,7 +594,7 @@ Horse
 
 N Large animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +11
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +11
 
 Defense
 
@@ -620,9 +620,9 @@ Statistics
 
 **Base Atk** +4; **CMB** +10; **CMD** 23 (27 vs. trip)
 
-**Feats** [Endurance](feats#_endurance), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Endurance](feats#_endurance), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +7 (+15 when jumping), [Perception](skills_dir/perception#_perception) +11, [Swim](skills_dir/swim#_swim) +9
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +7 (+15 when jumping), [Perception](skills/perception#_perception) +11, [Swim](skills/swim#_swim) +9
 
 **SQ** combat trained, tricks (attack [all creatures], come, defend, down, guard, heel, stay, work)
 
@@ -632,7 +632,7 @@ Camel
 
 N Large animal
 
-**Init** +4; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +9
+**Init** +4; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +9
 
 Defense
 
@@ -662,7 +662,7 @@ Statistics
 
 **Feats** [Endurance](feats#_endurance), [Run](feats#_run), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +9
+**Skills** [Perception](skills/perception#_perception) +9
 
 **SQ** tricks (attack [any creature], come, down, fetch, guard, heel, stay, work)
 
@@ -672,7 +672,7 @@ Crocodile\*
 
 N Medium animal
 
-**Init** +2; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +9
+**Init** +2; **Senses** low-light vision; [Perception](skills/perception#_perception) +9
 
 Defense
 
@@ -700,9 +700,9 @@ Statistics
 
 **Base Atk** +4; **CMB** +10 (+14 grapple); **CMD** 22 (26 vs. trip)
 
-**Feats** [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception), [Stealth](skills_dir/stealth#_stealth))
+**Feats** [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception), [Stealth](skills/stealth#_stealth))
 
-**Skills** [Perception](skills_dir/perception#_perception) +9, [Stealth](skills_dir/stealth#_stealth) +12, [Swim](skills_dir/swim#_swim) +14
+**Skills** [Perception](skills/perception#_perception) +9, [Stealth](skills/stealth#_stealth) +12, [Swim](skills/swim#_swim) +14
 
 **SQ** hold breath, tricks (attack [any creature], come, defend, guard, seek)
 
@@ -712,7 +712,7 @@ Small Cat
 
 N Medium animal
 
-**Init** +6; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +6
+**Init** +6; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +6
 
 Defense
 
@@ -736,9 +736,9 @@ Statistics
 
 **Base Atk** +4; **CMB** +8; **CMD** 24 (28 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth)), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (claws)
+**Feats** [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth)), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (claws)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +10 (+18 when jumping), [Climb](skills_dir/climb#_climb) +9, [Perception](skills_dir/perception#_perception) +6, [Stealth](skills_dir/stealth#_stealth) +13
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +10 (+18 when jumping), [Climb](skills/climb#_climb) +9, [Perception](skills/perception#_perception) +6, [Stealth](skills/stealth#_stealth) +13
 
 **SQ** sprint, tricks (attack [all creatures], come, defend, down, fetch, guard, heel, stay)
 
@@ -748,7 +748,7 @@ Bird
 
 N Small animal
 
-**Init** +4; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +10
+**Init** +4; **Senses** low-light vision; [Perception](skills/perception#_perception) +10
 
 Defense
 
@@ -774,7 +774,7 @@ Statistics
 
 **Feats** [Dodge](feats#_dodge), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (bite, talons)
 
-**Skills** [Fly](skills_dir/fly#_fly) +11, [Perception](skills_dir/perception#_perception) +10
+**Skills** [Fly](skills/fly#_fly) +11, [Perception](skills/perception#_perception) +10
 
 **SQ** tricks (attack [any creature], come, down, fetch, guard, heel, seek, stay)
 
@@ -784,7 +784,7 @@ Constrictor Snake
 
 N Large animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +10
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +10
 
 Defense
 
@@ -812,9 +812,9 @@ Statistics
 
 **Base Atk** +5; **CMB** +14 (+18 grapple); **CMD** 28 (can't be tripped)
 
-**Feats** [Dodge](feats#_dodge), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Dodge](feats#_dodge), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +7 (+3 when jumping), [Climb](skills_dir/climb#_climb) +20, [Perception](skills_dir/perception#_perception) +10, [Stealth](skills_dir/stealth#_stealth) +4, [Swim](skills_dir/swim#_swim) +16
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +7 (+3 when jumping), [Climb](skills/climb#_climb) +20, [Perception](skills/perception#_perception) +10, [Stealth](skills/stealth#_stealth) +4, [Swim](skills/swim#_swim) +16
 
 **SQ** tricks (attack [any creature], come, defend, down, guard)
 
@@ -824,7 +824,7 @@ Badger
 
 N Medium animal
 
-**Init** +4; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +15
+**Init** +4; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +15
 
 Defense
 
@@ -840,7 +840,7 @@ Offense
 
 **Speed** 30 ft., burrow 10 ft., climb 10 ft.
 
-**Melee** bite +11_dir/+6 (1d6+4), 2 claws +11 (1d4+4)
+**Melee** bite +11/+6 (1d6+4), 2 claws +11 (1d4+4)
 
 **Special Attacks** rage (as barbarian for 6 rounds per day)
 
@@ -850,9 +850,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +10; **CMD** 24 (28 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite), [Weapon Focus](feats#_weapon-focus) (claws)
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite), [Weapon Focus](feats#_weapon-focus) (claws)
 
-**Skills** [Climb](skills_dir/climb#_climb) +12, [Perception](skills_dir/perception#_perception) +15
+**Skills** [Climb](skills/climb#_climb) +12, [Perception](skills/perception#_perception) +15
 
 **SQ** tricks (attack [all creatures], come, defend, down, fetch, guard, heel, seek, stay)
 
@@ -864,7 +864,7 @@ Pony
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +11
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +11
 
 Defense
 
@@ -880,7 +880,7 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** hoof +11_dir/+6_dir/+11 (1d3+5)
+**Melee** hoof +11/+6/+11 (1d3+5)
 
 Statistics
 
@@ -888,9 +888,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +11; **CMD** 24 (28 vs. trip)
 
-**Feats** [Endurance](feats#_endurance), [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Endurance](feats#_endurance), [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +8 (+12 when jumping), [Perception](skills_dir/perception#_perception) +11, [Swim](skills_dir/swim#_swim) +9
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +8 (+12 when jumping), [Perception](skills/perception#_perception) +11, [Swim](skills/swim#_swim) +9
 
 **SQ** combat trained, tricks (attack [any creature], come, defend, down, guard, heel, seek, stay, work)
 
@@ -900,7 +900,7 @@ Dog
 
 N Medium animal
 
-**Init** +4; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +11
+**Init** +4; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +11
 
 Defense
 
@@ -916,7 +916,7 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** bite +12_dir/+7 (1d6+7)
+**Melee** bite +12/+7 (1d6+7)
 
 Statistics
 
@@ -924,9 +924,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +11; **CMD** 25 (29 vs. trip)
 
-**Feats** [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception), [Survival](skills_dir/survival#_survival)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception), [Survival](skills/survival#_survival)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +11, [Survival](skills_dir/survival#_survival) +8, [Swim](skills_dir/swim#_swim) +9
+**Skills** [Perception](skills/perception#_perception) +11, [Survival](skills/survival#_survival) +8, [Swim](skills/swim#_swim) +9
 
 **SQ** tricks (attack [any creature], come, defend, down, fetch, guard, heel, stay, track)
 
@@ -936,7 +936,7 @@ Horse
 
 N Large animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +13
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +13
 
 Defense
 
@@ -962,9 +962,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +13 (+15 overrun); **CMD** 26 (28 vs. overrun, 30 vs. trip)
 
-**Feats** [Endurance](feats#_endurance), Improved Overrun, [Multiattack](monsters_dir/monsterFeats#multiattack), [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
+**Feats** [Endurance](feats#_endurance), Improved Overrun, [Multiattack](monsters/monsterFeats#multiattack), [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +8 (+16 when jumping), [Perception](skills_dir/perception#_perception) +13, [Swim](skills_dir/swim#_swim) +10
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +8 (+16 when jumping), [Perception](skills/perception#_perception) +13, [Swim](skills/swim#_swim) +10
 
 **SQ** combat trained, tricks (attack [any creature], come, defend, down, guard, heel, seek, stay, work)
 
@@ -974,7 +974,7 @@ Viper Snake
 
 N Medium animal
 
-**Init** +4; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +10
+**Init** +4; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +10
 
 Defense
 
@@ -990,7 +990,7 @@ Offense
 
 **Speed** 20 ft., climb 20 ft., swim 20 ft.
 
-**Melee** bite +11_dir/+6 (1d6+4 plus poison)
+**Melee** bite +11/+6 (1d6+4 plus poison)
 
 Statistics
 
@@ -998,15 +998,15 @@ Statistics
 
 **Base Atk** +6; **CMB** +9; **CMD** 23 (can't be tripped)
 
-**Feats** [Improved Natural Attack](monsters_dir/monsterFeats#improved-natural-attack) (bite), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Improved Natural Attack](monsters/monsterFeats#improved-natural-attack) (bite), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +9 (+5 when jumping), [Climb](skills_dir/climb#_climb) +15, [Perception](skills_dir/perception#_perception) +10, [Stealth](skills_dir/stealth#_stealth) +10, [Swim](skills_dir/swim#_swim) +11
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +9 (+5 when jumping), [Climb](skills/climb#_climb) +15, [Perception](skills/perception#_perception) +10, [Stealth](skills/stealth#_stealth) +10, [Swim](skills/swim#_swim) +11
 
 **SQ** tricks (attack [any creature], come, defend, down, guard, seek)
 
 Special Abilities
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 16; _frequency_ 1_dir/round for 6 rounds; _effect_ 1 Con; _cure_ 1 save.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 16; _frequency_ 1/round for 6 rounds; _effect_ 1 Con; _cure_ 1 save.
 
 Wolf
 
@@ -1014,7 +1014,7 @@ Wolf
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +10
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +10
 
 Defense
 
@@ -1030,7 +1030,7 @@ Offense
 
 **Speed** 50 ft.
 
-**Melee** bite +13_dir/+8 (1d8+10 plus trip)
+**Melee** bite +13/+8 (1d8+10 plus trip)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -1040,9 +1040,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +14; **CMD** 28 (32 vs. trip)
 
-**Feats** [Blind-Fight](feats#_blind-fight), [Dodge](feats#_dodge), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Blind-Fight](feats#_blind-fight), [Dodge](feats#_dodge), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +10, [Stealth](skills_dir/stealth#_stealth) +5, [Survival](skills_dir/survival#_survival) +4
+**Skills** [Perception](skills/perception#_perception) +10, [Stealth](skills/stealth#_stealth) +5, [Survival](skills/survival#_survival) +4
 
 **SQ** tricks (attack [any creature], come, defend, fetch, guard, heel, seek, stay, track)
 
@@ -1052,7 +1052,7 @@ Boar\*
 
 N Medium animal
 
-**Init** +2; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +12
+**Init** +2; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +12
 
 Defense
 
@@ -1068,7 +1068,7 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** gore +14_dir/+9 (1d8+9)
+**Melee** gore +14/+9 (1d8+9)
 
 **Special Attacks** ferocity
 
@@ -1078,9 +1078,9 @@ Statistics
 
 **Base Atk** +7; **CMB** +13; **CMD** 25 (29 vs. trip)
 
-**Feats** Improved Bull Rush, [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (gore)
+**Feats** Improved Bull Rush, [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (gore)
 
-**Skills** [Perception](skills_dir/perception#_perception) +12, [Survival](skills_dir/survival#_survival) +3, [Swim](skills_dir/swim#_swim) +12
+**Skills** [Perception](skills/perception#_perception) +12, [Survival](skills/survival#_survival) +3, [Swim](skills/swim#_swim) +12
 
 **SQ** tricks (attack [any creature], come, defend, down, guard, heel, perform, seek, stay, track)
 
@@ -1090,7 +1090,7 @@ Small Cat
 
 N Medium animal
 
-**Init** +7; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +7
+**Init** +7; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +7
 
 Defense
 
@@ -1106,7 +1106,7 @@ Offense
 
 **Speed** 50 ft.
 
-**Melee** bite +14_dir/+9 (1d6+5 plus trip), 2 claws +15 (1d3+5)
+**Melee** bite +14/+9 (1d6+5 plus trip), 2 claws +15 (1d3+5)
 
 Statistics
 
@@ -1114,9 +1114,9 @@ Statistics
 
 **Base Atk** +7; **CMB** +12; **CMD** 29 (33 vs. trip)
 
-**Feats** [Blind-Fight](feats#_blind-fight), [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth)), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (claws)
+**Feats** [Blind-Fight](feats#_blind-fight), [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth)), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (claws)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +12 (+20 when jumping), [Climb](skills_dir/climb#_climb) +11, [Perception](skills_dir/perception#_perception) +7, [Stealth](skills_dir/stealth#_stealth) +15
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +12 (+20 when jumping), [Climb](skills/climb#_climb) +11, [Perception](skills/perception#_perception) +7, [Stealth](skills/stealth#_stealth) +15
 
 **SQ** sprint, tricks (attack [all creatures], come, defend, down, fetch, guard, heel, perform, seek, stay)
 
@@ -1126,7 +1126,7 @@ Bear\*
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +12
+**Init** +3; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +12
 
 Defense
 
@@ -1142,7 +1142,7 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** bite +15_dir/+10 (1d6+7), 2 claws +15 (1d4+7)
+**Melee** bite +15/+10 (1d6+7), 2 claws +15 (1d4+7)
 
 Statistics
 
@@ -1150,9 +1150,9 @@ Statistics
 
 **Base Atk** +8; **CMB** +15; **CMD** 28 (32 vs. trip)
 
-**Feats** [Endurance](feats#_endurance), Improved Bull Rush, [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception), [Survival](skills_dir/survival#_survival))
+**Feats** [Endurance](feats#_endurance), Improved Bull Rush, [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception), [Survival](skills/survival#_survival))
 
-**Skills** [Climb](skills_dir/climb#_climb) +11, [Perception](skills_dir/perception#_perception) +12, [Survival](skills_dir/survival#_survival) +6, [Swim](skills_dir/swim#_swim) +13
+**Skills** [Climb](skills/climb#_climb) +11, [Perception](skills/perception#_perception) +12, [Survival](skills/survival#_survival) +6, [Swim](skills/swim#_swim) +13
 
 **SQ** tricks (attack [any creature], come, defend, down, guard, heel, perform, seek, stay, track)
 
@@ -1162,7 +1162,7 @@ Camel
 
 N Large animal
 
-**Init** +5; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +14
+**Init** +5; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +14
 
 Defense
 
@@ -1178,7 +1178,7 @@ Offense
 
 **Speed** 50 ft.
 
-**Melee** bite +16_dir/+11 (1d4+12)
+**Melee** bite +16/+11 (1d4+12)
 
 **Ranged** spit +12 ranged touch (sickened for 1d4 rounds)
 
@@ -1192,7 +1192,7 @@ Statistics
 
 **Feats** [Blind-Fight](feats#_blind-fight), [Endurance](feats#_endurance), [Power Attack](feats#_power-attack), [Run](feats#_run), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +14
+**Skills** [Perception](skills/perception#_perception) +14
 
 **SQ** tricks (attack [all creatures], come, defend, down, fetch, guard, heel, perform, stay, work)
 
@@ -1202,7 +1202,7 @@ Badger
 
 N Medium animal
 
-**Init** +4; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +22
+**Init** +4; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +22
 
 Defense
 
@@ -1218,7 +1218,7 @@ Offense
 
 **Speed** 30 ft., burrow 10 ft., climb 10 ft.
 
-**Melee** bite +15_dir/+10 (1d6+5), 2 claws +15 (1d4+5)
+**Melee** bite +15/+10 (1d6+5), 2 claws +15 (1d4+5)
 
 **Special Attacks** rage (as barbarian for 6 rounds per day)
 
@@ -1228,9 +1228,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +14; **CMD** 29 (33 vs. trip)
 
-**Feats** [Blind-Fight](feats#_blind-fight), [Dodge](feats#_dodge), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite, claws)
+**Feats** [Blind-Fight](feats#_blind-fight), [Dodge](feats#_dodge), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite, claws)
 
-**Skills** [Climb](skills_dir/climb#_climb) +13, [Perception](skills_dir/perception#_perception) +22
+**Skills** [Climb](skills/climb#_climb) +13, [Perception](skills/perception#_perception) +22
 
 **SQ** tricks (attack [any creature], come, defend, down, fetch, guard, heel, seek, stay, work)
 
@@ -1242,7 +1242,7 @@ Bird
 
 N Small animal
 
-**Init** +5; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +14
+**Init** +5; **Senses** low-light vision; [Perception](skills/perception#_perception) +14
 
 Defense
 
@@ -1258,7 +1258,7 @@ Offense
 
 **Speed** 10 ft., fly 80 ft. (average)
 
-**Melee** bite +16_dir/+11 (1d4+4), 2 talons +16 (1d4+4)
+**Melee** bite +16/+11 (1d4+4), 2 talons +16 (1d4+4)
 
 Statistics
 
@@ -1268,7 +1268,7 @@ Statistics
 
 **Feats** [Dodge](feats#_dodge), [Power Attack](feats#_power-attack), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (talons, bite)
 
-**Skills** [Fly](skills_dir/fly#_fly) +13, [Perception](skills_dir/perception#_perception) +14
+**Skills** [Fly](skills/fly#_fly) +13, [Perception](skills/perception#_perception) +14
 
 **SQ** tricks (attack [all creatures], come, defend, down, fetch, guard, heel, perform, seek, stay)
 
@@ -1278,7 +1278,7 @@ Crocodile\*
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +15
+**Init** +3; **Senses** low-light vision; [Perception](skills/perception#_perception) +15
 
 Defense
 
@@ -1294,7 +1294,7 @@ Offense
 
 **Speed** 20 ft., swim 30 ft.
 
-**Melee** bite +16_dir/+11 (2d6+10) or
+**Melee** bite +16/+11 (2d6+10) or
 
 tail slap +16 (1d12+10)
 
@@ -1306,9 +1306,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +16 (+20 grapple); **CMD** 30 (34 vs. trip)
 
-**Feats** [Dodge](feats#_dodge), [Improved Natural Attack](monsters_dir/monsterFeats#improved-natural-attack) (bite), [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception), [Stealth](skills_dir/stealth#_stealth))
+**Feats** [Dodge](feats#_dodge), [Improved Natural Attack](monsters/monsterFeats#improved-natural-attack) (bite), [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception), [Stealth](skills/stealth#_stealth))
 
-**Skills** [Perception](skills_dir/perception#_perception) +15, [Stealth](skills_dir/stealth#_stealth) +13, [Swim](skills_dir/swim#_swim) +15
+**Skills** [Perception](skills/perception#_perception) +15, [Stealth](skills/stealth#_stealth) +13, [Swim](skills/swim#_swim) +15
 
 **SQ** hold breath, tricks (attack [any creature], come, defend, down, guard, seek, stay)
 
@@ -1318,7 +1318,7 @@ Dog
 
 N Medium animal
 
-**Init** +5; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +12
+**Init** +5; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +12
 
 Defense
 
@@ -1334,7 +1334,7 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** bite +17_dir/+12 (1d6+10)
+**Melee** bite +17/+12 (1d6+10)
 
 Statistics
 
@@ -1342,9 +1342,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +16; **CMD** 31 (35 vs. trip)
 
-**Feats** [Intimidating Prowess](feats#_intimidating-prowess), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception), [Survival](skills_dir/survival#_survival)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Intimidating Prowess](feats#_intimidating-prowess), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception), [Survival](skills/survival#_survival)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Intimidate](skills_dir/intimidate#_intimidate) +6, [Perception](skills_dir/perception#_perception) +12, [Survival](skills_dir/survival#_survival) +9, [Swim](skills_dir/swim#_swim) +11
+**Skills** [Intimidate](skills/intimidate#_intimidate) +6, [Perception](skills/perception#_perception) +12, [Survival](skills/survival#_survival) +9, [Swim](skills/swim#_swim) +11
 
 **SQ** tricks (attack [all creatures], come, defend, down, fetch, guard, heel, seek, stay, track, work)
 
@@ -1354,7 +1354,7 @@ Shark
 
 N Medium animal
 
-**Init** +4; **Senses** blindsense, low-light vision, scent; [Perception](skills_dir/perception#_perception) +22
+**Init** +4; **Senses** blindsense, low-light vision, scent; [Perception](skills/perception#_perception) +22
 
 Defense
 
@@ -1370,7 +1370,7 @@ Offense
 
 **Speed** 0 ft., swim 60 ft.
 
-**Melee** bite +17_dir/+12 (1d8+10)
+**Melee** bite +17/+12 (1d8+10)
 
 Statistics
 
@@ -1378,9 +1378,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +16; **CMD** 31
 
-**Feats** [Dodge](feats#_dodge), [Great Fortitude](feats#_great-fortitude), [Improved Natural Attack](monsters_dir/monsterFeats#improved-natural-attack) (bite), [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Dodge](feats#_dodge), [Great Fortitude](feats#_great-fortitude), [Improved Natural Attack](monsters/monsterFeats#improved-natural-attack) (bite), [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +22, [Swim](skills_dir/swim#_swim) +15
+**Skills** [Perception](skills/perception#_perception) +22, [Swim](skills/swim#_swim) +15
 
 **SQ** tricks (attack [any creature], defend, down, guard, heel, seek, stay, track)
 
@@ -1390,7 +1390,7 @@ Big Cat\*
 
 N Large animal
 
-**Init** +5; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +12
+**Init** +5; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +12
 
 Defense
 
@@ -1406,7 +1406,7 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** bite +18_dir/+13 (1d8+9), 2 claws +18 (1d6+9)
+**Melee** bite +18/+13 (1d8+9), 2 claws +18 (1d6+9)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -1418,9 +1418,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +19; **CMD** 35 (39 vs. trip)
 
-**Feats** [Dodge](feats#_dodge), [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception), [Stealth](skills_dir/stealth#_stealth)), [Weapon Focus](feats#_weapon-focus) (bite, claws)
+**Feats** [Dodge](feats#_dodge), [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception), [Stealth](skills/stealth#_stealth)), [Weapon Focus](feats#_weapon-focus) (bite, claws)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +9 (+13 when jumping), [Perception](skills_dir/perception#_perception) +12, [Stealth](skills_dir/stealth#_stealth) +13, [Swim](skills_dir/swim#_swim) +14
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +9 (+13 when jumping), [Perception](skills/perception#_perception) +12, [Stealth](skills/stealth#_stealth) +13, [Swim](skills/swim#_swim) +14
 
 **SQ** tricks (attack [any creature], come, defend, down, fetch, guard, heel, perform, seek, stay, track)
 
@@ -1430,7 +1430,7 @@ Horse
 
 N Large animal
 
-**Init** +5; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +15
+**Init** +5; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +15
 
 Defense
 
@@ -1456,9 +1456,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +17 (+19 overrun); **CMD** 33 (35 vs. overrun, 37 vs. trip)
 
-**Feats** [Dodge](feats#_dodge), [Endurance](feats#_endurance), Improved Overrun, [Multiattack](monsters_dir/monsterFeats#multiattack)B, [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness)
+**Feats** [Dodge](feats#_dodge), [Endurance](feats#_endurance), Improved Overrun, [Multiattack](monsters/monsterFeats#multiattack)B, [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +12 (+20 when jumping), [Perception](skills_dir/perception#_perception) +15, [Swim](skills_dir/swim#_swim) +11
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +12 (+20 when jumping), [Perception](skills/perception#_perception) +15, [Swim](skills/swim#_swim) +11
 
 **SQ** combat trained, tricks (attack [all creatures], come, defend, down, fetch, guard, heel, perform, seek, stay, work)
 
@@ -1468,7 +1468,7 @@ Constrictor Snake
 
 N Large animal
 
-**Init** +5; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +13
+**Init** +5; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +13
 
 Defense
 
@@ -1484,7 +1484,7 @@ Offense
 
 **Speed** 20 ft., climb 20 ft., swim 20 ft.
 
-**Melee** bite +20_dir/+15 (1d6+15 plus grab)
+**Melee** bite +20/+15 (1d6+15 plus grab)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -1496,9 +1496,9 @@ Statistics
 
 **Base Atk** +10; **CMB** +21 (+25 grapple); **CMD** 37 (can't be tripped)
 
-**Feats** [Blind-Fight](feats#_blind-fight), Diehard, [Dodge](feats#_dodge), [Improved Natural Attack](monsters_dir/monsterFeats#improved-natural-attack) (bite), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Blind-Fight](feats#_blind-fight), Diehard, [Dodge](feats#_dodge), [Improved Natural Attack](monsters/monsterFeats#improved-natural-attack) (bite), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +9 (+5 when jumping), [Climb](skills_dir/climb#_climb) +22, [Perception](skills_dir/perception#_perception) +13, [Stealth](skills_dir/stealth#_stealth) +10, [Swim](skills_dir/swim#_swim) +18
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +9 (+5 when jumping), [Climb](skills/climb#_climb) +22, [Perception](skills/perception#_perception) +13, [Stealth](skills/stealth#_stealth) +10, [Swim](skills/swim#_swim) +18
 
 **SQ** tricks (attack [any creature], come, defend, down, guard, heel, seek, stay)
 
@@ -1508,7 +1508,7 @@ Dinosaur\*
 
 N Medium animal
 
-**Init** +6; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +13
+**Init** +6; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +13
 
 Defense
 
@@ -1524,7 +1524,7 @@ Offense
 
 **Speed** 60 ft.
 
-**Melee** bite +17_dir/+12 (1d6+6), 2 claws +17 (1d4+6), 2 talons +18 (2d6+6)
+**Melee** bite +17/+12 (1d6+6), 2 claws +17 (1d4+6), 2 talons +18 (2d6+6)
 
 **Special Attacks** pounce
 
@@ -1534,9 +1534,9 @@ Statistics
 
 **Base Atk** +11; **CMB** +17; **CMD** 34
 
-**Feats** Diehard, [Dodge](feats#_dodge), [Endurance](feats#_endurance), [Improved Natural Attack](monsters_dir/monsterFeats#improved-natural-attack) (talons), Mobility, [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (talons)
+**Feats** Diehard, [Dodge](feats#_dodge), [Endurance](feats#_endurance), [Improved Natural Attack](monsters/monsterFeats#improved-natural-attack) (talons), Mobility, [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Weapon Focus](feats#_weapon-focus) (talons)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +14 (+26 when jumping), [Perception](skills_dir/perception#_perception) +13, [Stealth](skills_dir/stealth#_stealth) +13
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +14 (+26 when jumping), [Perception](skills/perception#_perception) +13, [Stealth](skills/stealth#_stealth) +13
 
 **SQ** tricks (attack [any creature], come, defend, down, fetch, guard, heel, perform, seek, stay, track, work)
 
@@ -1546,7 +1546,7 @@ Viper Snake
 
 N Medium animal
 
-**Init** +5; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +13
+**Init** +5; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +13
 
 Defense
 
@@ -1562,7 +1562,7 @@ Offense
 
 **Speed** 20 ft., climb 20 ft., swim 20 ft.
 
-**Melee** bite +17_dir/+12 (1d6+7 plus poison)
+**Melee** bite +17/+12 (1d6+7 plus poison)
 
 Statistics
 
@@ -1570,15 +1570,15 @@ Statistics
 
 **Base Atk** +11; **CMB** +16; **CMD** 32 (can't be tripped)
 
-**Feats** [Dodge](feats#_dodge), [Improved Natural Attack](monsters_dir/monsterFeats#improved-natural-attack) (bite), Mobility, [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth)), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Dodge](feats#_dodge), [Improved Natural Attack](monsters/monsterFeats#improved-natural-attack) (bite), Mobility, [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth)), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +10 (+6 when jumping), [Climb](skills_dir/climb#_climb) +17, [Perception](skills_dir/perception#_perception) +13, [Stealth](skills_dir/stealth#_stealth) +17, [Swim](skills_dir/swim#_swim) +13
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +10 (+6 when jumping), [Climb](skills/climb#_climb) +17, [Perception](skills/perception#_perception) +13, [Stealth](skills/stealth#_stealth) +17, [Swim](skills/swim#_swim) +13
 
 **SQ** tricks (attack [any creature], come, defend, down, fetch, guard, heel, seek, stay)
 
 Special Abilities
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 19; _frequency_ 1_dir/round for 6 rounds; _effect_ 1 Con; _cure_ 1 save.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1 Con; _cure_ 1 save.
 
 Wolf
 
@@ -1586,7 +1586,7 @@ Wolf
 
 N Large animal
 
-**Init** +5; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +13
+**Init** +5; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +13
 
 Defense
 
@@ -1602,7 +1602,7 @@ Offense
 
 **Speed** 50 ft.
 
-**Melee** bite +20_dir/+15 (2d6+13 plus trip)
+**Melee** bite +20/+15 (2d6+13 plus trip)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -1612,9 +1612,9 @@ Statistics
 
 **Base Atk** +11; **CMB** +21; **CMD** 37 (41 vs. trip)
 
-**Feats** [Blind-Fight](feats#_blind-fight), [Dodge](feats#_dodge), [Improved Natural Attack](monsters_dir/monsterFeats#improved-natural-attack) (bite), Mobility, [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Blind-Fight](feats#_blind-fight), [Dodge](feats#_dodge), [Improved Natural Attack](monsters/monsterFeats#improved-natural-attack) (bite), Mobility, [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skills_dir/perception#_perception) +13, [Stealth](skills_dir/stealth#_stealth) +10, [Survival](skills_dir/survival#_survival) +4
+**Skills** [Perception](skills/perception#_perception) +13, [Stealth](skills/stealth#_stealth) +10, [Survival](skills/survival#_survival) +4
 
 **SQ** tricks (attack [any creature], come, defend, down, fetch, guard, heel, perform, seek, stay, track, work)
 
@@ -1624,7 +1624,7 @@ Ape\*
 
 N Large animal
 
-**Init** +6; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +12
+**Init** +6; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +12
 
 Defense
 
@@ -1640,7 +1640,7 @@ Offense
 
 **Speed** 30 ft., climb 30 ft.
 
-**Melee** bite +22_dir/+17 (1d6+10), 2 claws +22 (1d6+10)
+**Melee** bite +22/+17 (1d6+10), 2 claws +22 (1d6+10)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -1650,9 +1650,9 @@ Statistics
 
 **Base Atk** +12; **CMB** +23; **CMD** 39
 
-**Feats** [Blind-Fight](feats#_blind-fight), [Combat Reflexes](feats#_combat-reflexes), [Great Fortitude](feats#_great-fortitude), Improved Bull Rush, [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite, claws)
+**Feats** [Blind-Fight](feats#_blind-fight), [Combat Reflexes](feats#_combat-reflexes), [Great Fortitude](feats#_great-fortitude), Improved Bull Rush, [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite, claws)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +14, [Climb](skills_dir/climb#_climb) +18, [Perception](skills_dir/perception#_perception) +12, [Stealth](skills_dir/stealth#_stealth) +11
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +14, [Climb](skills/climb#_climb) +18, [Perception](skills/perception#_perception) +12, [Stealth](skills/stealth#_stealth) +11
 
 **SQ** tricks (attack [any creature], come, defend, down, fetch, guard, heel, perform, seek, stay, track, work)
 
@@ -1662,7 +1662,7 @@ Small Cat
 
 N Medium animal
 
-**Init** +8; **Senses** low-light vision, scent; [Perception](skills_dir/perception#_perception) +13
+**Init** +8; **Senses** low-light vision, scent; [Perception](skills/perception#_perception) +13
 
 Defense
 
@@ -1678,7 +1678,7 @@ Offense
 
 **Speed** 50 ft.
 
-**Melee** bite +21_dir/+16 (1d6+7 plus trip), 2 claws +21 (1d3+7)
+**Melee** bite +21/+16 (1d6+7 plus trip), 2 claws +21 (1d3+7)
 
 Statistics
 
@@ -1686,9 +1686,9 @@ Statistics
 
 **Base Atk** +12; **CMB** +19; **CMD** 38 (42 vs. trip)
 
-**Feats** [Blind-Fight](feats#_blind-fight), [Dodge](feats#_dodge), Mobility, [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth)), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (bite, claws)
+**Feats** [Blind-Fight](feats#_blind-fight), [Dodge](feats#_dodge), Mobility, [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth)), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (bite, claws)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +13 (+21 when jumping), [Climb](skills_dir/climb#_climb) +13, [Perception](skills_dir/perception#_perception) +13, [Stealth](skills_dir/stealth#_stealth) +16
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +13 (+21 when jumping), [Climb](skills/climb#_climb) +13, [Perception](skills/perception#_perception) +13, [Stealth](skills/stealth#_stealth) +16
 
 **SQ** sprint, tricks (attack [all creatures], come, defend, down, fetch, guard, heel, perform, seek, stay, track, work)
 
@@ -1704,21 +1704,21 @@ Not all masters of the arcane arts are wizened scholars poring over books of eso
 
 These two mages are not afraid to dive into melee when the need arises.
 
-1 [battle mage](npcCodex_dir/core_dir/wizard#_battle-mage) (elf wizard 3)  
-1 [gem sorcerer](npcCodex_dir/core_dir/sorcerer#_gem-sorcerer) (dwarf sorcerer 2)
+1 [battle mage](npcCodex/core/wizard#_battle-mage) (elf wizard 3)  
+1 [gem sorcerer](npcCodex/core/sorcerer#_gem-sorcerer) (dwarf sorcerer 2)
 
 ### Mid-Level (CR 8)
 
 This wandering pair doesn't look for trouble, but doesn't shrink from it either.  
-1 [queen of staves](npcCodex_dir/prestige_dir/eldritchKnight#_queen-of-staves) (elf fighter 2_dir/abjurer 5_dir/eldritch knight 2)  
-1 [storm prophet](npcCodex_dir/prestige_dir/dragonDisciple#_storm-prophet) (dwarf sorcerer 7_dir/dragon disciple 2)
+1 [queen of staves](npcCodex/prestige/eldritchKnight#_queen-of-staves) (elf fighter 2/abjurer 5/eldritch knight 2)  
+1 [storm prophet](npcCodex/prestige/dragonDisciple#_storm-prophet) (dwarf sorcerer 7/dragon disciple 2)
 
 ### High-Level (CR 22)
 
 Tricky and dangerous, these arcane warriors stalk the land looking for challenges to overcome and evil to work.  
-1 [chaos arrow](npcCodex_dir/prestige_dir/arcaneArcher#_chaos-arrow) (gnome rogue 6_dir/sorcerer 4_dir/arcane archer 10)  
-1 [god stealer](npcCodex_dir/prestige_dir/arcaneTrickster#_god-stealer) (elf rogue 3_dir/enchanter 7_dir/arcane trickster 10)  
-1 [ice maiden](npcCodex_dir/prestige_dir/dragonDisciple#_ice-maiden) (elf sorcerer 10_dir/dragon disciple 10)
+1 [chaos arrow](npcCodex/prestige/arcaneArcher#_chaos-arrow) (gnome rogue 6/sorcerer 4/arcane archer 10)  
+1 [god stealer](npcCodex/prestige/arcaneTrickster#_god-stealer) (elf rogue 3/enchanter 7/arcane trickster 10)  
+1 [ice maiden](npcCodex/prestige/dragonDisciple#_ice-maiden) (elf sorcerer 10/dragon disciple 10)
 
 ## Archer Bands
 
@@ -1728,22 +1728,22 @@ Many warriors know that the best kind of offense is the kind made from a distanc
 
 These stealthy archers fire off shots from hiding.
 
-2 [novice scouts](npcCodex_dir/core_dir/ranger#_novice-scout) (half-elf rangers 1)  
-1 [skilled sniper](npcCodex_dir/core_dir/ranger#_skilled-sniper) (half-elf rogue 3)
+2 [novice scouts](npcCodex/core/ranger#_novice-scout) (half-elf rangers 1)  
+1 [skilled sniper](npcCodex/core/ranger#_skilled-sniper) (half-elf rogue 3)
 
 ### Mid-Level (CR 11)
 
 These woodland scouts mix archery with magic and melee might.
 
-1 [fastidious sharpshooter](npcCodex_dir/core_dir/fighter#_fastidious-sharpshooter) (gnome fighter 8)  
-3 [forest guardians](npcCodex_dir/core_dir/barbarian#_forest-guardian) (elf barbarians 6)  
-1 [green warden](npcCodex_dir/prestige_dir/arcaneArcher#_green-warden) (elf fighter 5_dir/conjurer 2_dir/arcane archer 2)
+1 [fastidious sharpshooter](npcCodex/core/fighter#_fastidious-sharpshooter) (gnome fighter 8)  
+3 [forest guardians](npcCodex/core/barbarian#_forest-guardian) (elf barbarians 6)  
+1 [green warden](npcCodex/prestige/arcaneArcher#_green-warden) (elf fighter 5/conjurer 2/arcane archer 2)
 
 ### High-Level (CR 18)
 
 These archers hunt down undead, but can also handle anyone else who gets in their way.  
-1 [undead bane](npcCodex_dir/prestige_dir/arcaneArcher#_undead-bane) (ranger 9_dir/sorcerer 1_dir/arcane archer 7)  
-2 [undead slayers](npcCodex_dir/core_dir/ranger#_undead-slayer) (rangers 16)
+1 [undead bane](npcCodex/prestige/arcaneArcher#_undead-bane) (ranger 9/sorcerer 1/arcane archer 7)  
+2 [undead slayers](npcCodex/core/ranger#_undead-slayer) (rangers 16)
 
 ## Aristocratic Courts
 
@@ -1753,27 +1753,27 @@ Though aristocrats often shun battle or get others to do their dirty work, they 
 
 A princess and her paladin guard pass out coins to the poor.
 
-6 [beggars](npcCodex_dir/npc_dir/commoner#_beggar) (half-elf commoners 1)  
-1 [callous rake](npcCodex_dir/core_dir/paladin#_callous-rake) (human paladin 1)  
-1 [princess](npcCodex_dir/npc_dir/aristocrat#_princess) (human aristocrat 2)
+6 [beggars](npcCodex/npc/commoner#_beggar) (half-elf commoners 1)  
+1 [callous rake](npcCodex/core/paladin#_callous-rake) (human paladin 1)  
+1 [princess](npcCodex/npc/aristocrat#_princess) (human aristocrat 2)
 
 ### Mid-Level (CR 11)
 
 The local mayor is constantly surrounded by a group of lawyers and merchants vying for his favor. He is also protected by a pair of personal bodyguards.
 
-3 [cutthroat lawyers](npcCodex_dir/npc_dir/expert#_cutthroat-lawyer) (half-elf experts 9)  
-2 [expert bodyguards](npcCodex_dir/npc_dir/warrior#_expert-bodyguard) (human warriors 7)  
-1 [mayor](npcCodex_dir/npc_dir/aristocrat#_mayor) (human aristocrat 7)  
-2 [successful merchants](npcCodex_dir/npc_dir/expert#_successful-merchant) (human experts 7)
+3 [cutthroat lawyers](npcCodex/npc/expert#_cutthroat-lawyer) (half-elf experts 9)  
+2 [expert bodyguards](npcCodex/npc/warrior#_expert-bodyguard) (human warriors 7)  
+1 [mayor](npcCodex/npc/aristocrat#_mayor) (human aristocrat 7)  
+2 [successful merchants](npcCodex/npc/expert#_successful-merchant) (human experts 7)
 
 ### High-Level (CR 18)
 
 A cadre of paladins and a court historian serve in the retinue of this young king.
 
-1 [king](npcCodex_dir/npc_dir/aristocrat#_king) (human aristocrat 10)  
-1 [master historian](npcCodex_dir/prestige_dir/loremaster#_master-historian) (dwarf bard 10_dir/loremaster 7)  
-1 [mounted paragon](npcCodex_dir/core_dir/paladin#_mounted-paragon) (human paladin 16)  
-4 [pious guards](npcCodex_dir/core_dir/paladin#_pious-guard) (human paladins 10)
+1 [king](npcCodex/npc/aristocrat#_king) (human aristocrat 10)  
+1 [master historian](npcCodex/prestige/loremaster#_master-historian) (dwarf bard 10/loremaster 7)  
+1 [mounted paragon](npcCodex/core/paladin#_mounted-paragon) (human paladin 16)  
+4 [pious guards](npcCodex/core/paladin#_pious-guard) (human paladins 10)
 
 ## Barbarian Warbands
 
@@ -1783,24 +1783,24 @@ Barbarian warriors are the scourge of wilderness and the high seas; their action
 
 These sea-going mercenaries can be found in a small boat or raiding a coastal settlement.
 
-1 [sail master](npcCodex_dir/core_dir/druid#_sail-master) (human druid 2)  
-2 [savage mercenaries](npcCodex_dir/core_dir/barbarian#_savage-mercenaries) (human barbarians 1)
+1 [sail master](npcCodex/core/druid#_sail-master) (human druid 2)  
+2 [savage mercenaries](npcCodex/core/barbarian#_savage-mercenaries) (human barbarians 1)
 
 ### Mid-Level (CR 10)
 
 Dwarven barbarians sometimes recruit the aid of gnome spellcasters to empower their bands.
 
-1 [cave stalker](npcCodex_dir/core_dir/rogue#_cave-stalker) (dwarf rogue 6)  
-2 [sundering axes](npcCodex_dir/core_dir/barbarian#_sundering-axes) (dwarf barbarians 7)  
-1 [trickster mage](npcCodex_dir/core_dir/sorcerer#_trickster-mage) (gnome sorcerer 8)
+1 [cave stalker](npcCodex/core/rogue#_cave-stalker) (dwarf rogue 6)  
+2 [sundering axes](npcCodex/core/barbarian#_sundering-axes) (dwarf barbarians 7)  
+1 [trickster mage](npcCodex/core/sorcerer#_trickster-mage) (gnome sorcerer 8)
 
 ### High-Level (CR 16)
 
 Charismatic tribal leaders are able to coax hidden powers from some of their tribe members.
 
-1 [acid terror](npcCodex_dir/prestige_dir/dragonDisciple#_acid-terror) (human sorcerer 9_dir/dragon disciple 4)  
-2 [savage riders](npcCodex_dir/core_dir/barbarian#_save-rider) (human barbarians 13)  
-1 [tribal leader](npcCodex_dir/core_dir/bard#_tribal-leader) (human bard 13)
+1 [acid terror](npcCodex/prestige/dragonDisciple#_acid-terror) (human sorcerer 9/dragon disciple 4)  
+2 [savage riders](npcCodex/core/barbarian#_save-rider) (human barbarians 13)  
+1 [tribal leader](npcCodex/core/bard#_tribal-leader) (human bard 13)
 
 ## Bardic Troupes
 Often these groups are content with entertaining the masses. Other times they have clandestine motivations. 
@@ -1808,25 +1808,25 @@ Often these groups are content with entertaining the masses. Other times they ha
 
 Bards sometimes hire sorcerers or wizards to supplement their performances with flashy magic.
 
-1 [mercenary magician](npcCodex_dir/core_dir/sorcerer#_mercenary-magician) (human sorcerer 1)  
-2 [tavern singers](npcCodex_dir/core_dir/bard#_tavern-singer) (half-elf bards 1)
+1 [mercenary magician](npcCodex/core/sorcerer#_mercenary-magician) (human sorcerer 1)  
+2 [tavern singers](npcCodex/core/bard#_tavern-singer) (half-elf bards 1)
 
 ### Mid-Level (CR 11)
 
 Sometimes bards ply their trade while a thief skulks about, pickpocketing members of the crowd.
 
-1 [freelance thieves](npcCodex_dir/core_dir/rogue#_freelance-thieve) (human rogue 7)  
-1 [seance medium](npcCodex_dir/core_dir/bard#_seance-medium) (human bard 10)   
-1 [street artist](npcCodex_dir/core_dir/bard#_street-artist) (elf bard 8)
+1 [freelance thieves](npcCodex/core/rogue#_freelance-thieve) (human rogue 7)  
+1 [seance medium](npcCodex/core/bard#_seance-medium) (human bard 10)   
+1 [street artist](npcCodex/core/bard#_street-artist) (elf bard 8)
 
 ### High-Level (CR 16)
 
 The wandering troupes of circus performers who dazzle and entertain crowds also have many dangerous talents.
 
-1 [courtesan](npcCodex_dir/core_dir/bard#_courtesan) (human bard 12)   
-1 [lion tamer](npcCodex_dir/core_dir/bard#_lion-tamer) (gnome bard 15)  
-2 [poisonous performers](npcCodex_dir/core_dir/monk#_poisonous-performer) (human monks 11)  
-1 [prankster illusionist](npcCodex_dir/core_dir/wizard#_prankster-illusionist) (gnome illusionist 10)
+1 [courtesan](npcCodex/core/bard#_courtesan) (human bard 12)   
+1 [lion tamer](npcCodex/core/bard#_lion-tamer) (gnome bard 15)  
+2 [poisonous performers](npcCodex/core/monk#_poisonous-performer) (human monks 11)  
+1 [prankster illusionist](npcCodex/core/wizard#_prankster-illusionist) (gnome illusionist 10)
 
 ## Burglars
 
@@ -1836,24 +1836,24 @@ These skilled thieves and adventurers are adept at breaking, entering, and larce
 
 While the street performer distracts a crowd outside a building, two cutpurses pilfer the loot within.
 
-2 [cutpurses](npcCodex_dir/core_dir/rogue#_cutpurse) (human rogues 1)  
-1 [street performer](npcCodex_dir/core_dir/bard#_street-performer) (human bard 2)
+2 [cutpurses](npcCodex/core/rogue#_cutpurse) (human rogues 1)  
+1 [street performer](npcCodex/core/bard#_street-performer) (human bard 2)
 
 ### Mid-Level (CR 11)
 
 A pair of gnomes is backed up by a bit of muscle and a drunken cleric who is just along for the new experience.
 
-1 [blackstrike](npcCodex_dir/prestige_dir/shadowdancer#_blackstrike) (human fighter 7_dir/shadowdancer 2)  
-1 [carousing champion](npcCodex_dir/core_dir/cleric#_carousing-champion) (halfling cleric 6)  
-2 [trapsmiths](npcCodex_dir/core_dir/rogue#_trapsmith) (gnome rogues 8)
+1 [blackstrike](npcCodex/prestige/shadowdancer#_blackstrike) (human fighter 7/shadowdancer 2)  
+1 [carousing champion](npcCodex/core/cleric#_carousing-champion) (halfling cleric 6)  
+2 [trapsmiths](npcCodex/core/rogue#_trapsmith) (gnome rogues 8)
 
 ### High-Level (CR 19)
 
 A wealth of academic knowledge and a good sword arm can be useful during break-ins.
 
-1 [graceful slayer](npcCodex_dir/core_dir/barbarian#_graceful-slayer) (elf barbarian 17)  
-1 [master historian](npcCodex_dir/prestige_dir/loremaster#_master-historian) (dwarf bard 10_dir/loremaster 7)  
-1 [vaultbreaker](npcCodex_dir/prestige_dir/arcaneTrickster#_vaultbreaker) (human rogue 6_dir/transmuter 4_dir/arcane trickster 7)
+1 [graceful slayer](npcCodex/core/barbarian#_graceful-slayer) (elf barbarian 17)  
+1 [master historian](npcCodex/prestige/loremaster#_master-historian) (dwarf bard 10/loremaster 7)  
+1 [vaultbreaker](npcCodex/prestige/arcaneTrickster#_vaultbreaker) (human rogue 6/transmuter 4/arcane trickster 7)
 
 ## Caravan Defenders
 
@@ -1863,25 +1863,25 @@ Tasked with making sure that traders and their goods reach their desired destina
 
 A daring merchant and a somewhat reluctant carpenter come to the aid of the caravan guards.
 
-4 [guards](npcCodex_dir/npc_dir/warrior#_guard) (human warriors 3)  
-1 [journeyman carpenter](npcCodex_dir/npc_dir/expert#_journeyman-carpenter) (half-orc expert 4)  
-1 [successful merchant](npcCodex_dir/npc_dir/expert#_successful-merchant) (human expert 7)
+4 [guards](npcCodex/npc/warrior#_guard) (human warriors 3)  
+1 [journeyman carpenter](npcCodex/npc/expert#_journeyman-carpenter) (half-orc expert 4)  
+1 [successful merchant](npcCodex/npc/expert#_successful-merchant) (human expert 7)
 
 ### Mid-Level (CR 12)
 
 A well-defended diplomat is traveling with this caravan. When threatened, she and her entourage take up the caravan's defense.
 
-4 [cavalry soldiers](npcCodex_dir/npc_dir/warrior#_calvary-soldiers) (half-elf warriors 9)  
-1 [diplomat](npcCodex_dir/npc_dir/aristocrat#_diplomat) (half-elf aristocrat 8)  
-1 [griffon rider](npcCodex_dir/core_dir/fighter#_griffon-rider) (elf fighter 10)
+4 [cavalry soldiers](npcCodex/npc/warrior#_calvary-soldiers) (half-elf warriors 9)  
+1 [diplomat](npcCodex/npc/aristocrat#_diplomat) (half-elf aristocrat 8)  
+1 [griffon rider](npcCodex/core/fighter#_griffon-rider) (elf fighter 10)
 
 ### High-Level (CR 18)
 
 Traveling though the dangerous high desert, this rich caravan is defended by stalkers and spellcasters.
 
-4 [desert stalkers](npcCodex_dir/core_dir/ranger#_desert-stalker) (half-orc rangers 14)  
-1 [fury of flame](npcCodex_dir/core_dir/druid#_fury-of-flame) (human druid 14)  
-1 [natural arcanist](npcCodex_dir/core_dir/sorcerer#_natural-arcanist) (halfling sorcerer 16)
+4 [desert stalkers](npcCodex/core/ranger#_desert-stalker) (half-orc rangers 14)  
+1 [fury of flame](npcCodex/core/druid#_fury-of-flame) (human druid 14)  
+1 [natural arcanist](npcCodex/core/sorcerer#_natural-arcanist) (halfling sorcerer 16)
 
 ## City Defenders
 
@@ -1891,22 +1891,22 @@ Civil peace and prosperity must often be defended with force of arms. These men 
 
 A veteran guard leads a cadre of raw recruits on a patrol through lower-class sections of the city to show them the ropes and toughen them up for future challenges.
 
-1 [guard](npcCodex_dir/npc_dir/warrior#_guard) (human warrior 3)  
-6 [recruits](npcCodex_dir/npc_dir/warrior#_recruit) (dwarf warriors 1)
+1 [guard](npcCodex/npc/warrior#_guard) (human warrior 3)  
+6 [recruits](npcCodex/npc/warrior#_recruit) (dwarf warriors 1)
 
 ### Mid-Level (CR 11)
 
 A paladin leads a group of cavalry soldiers patrolling the lands just outside the city walls.
 
-4 [cavalry soldiers](npcCodex_dir/npc_dir/warrior#_calvary-soldiers) (half-elf warriors 9)  
-1 [saintly knight](npcCodex_dir/core_dir/paladin#_saintly-knight) (half-orc paladin 9)
+4 [cavalry soldiers](npcCodex/npc/warrior#_calvary-soldiers) (half-elf warriors 9)  
+1 [saintly knight](npcCodex/core/paladin#_saintly-knight) (half-orc paladin 9)
 
 ### High-Level (CR 20)
 
 When a city is threatened, its paladins rally to defend it.
 
-1 [mithral master](npcCodex_dir/core_dir/paladin#_mithral-master) (half-elf paladin 19)  
-4 [mounted paragons](npcCodex_dir/core_dir/paladin#_mounted-paragons) (human paladins 16)
+1 [mithral master](npcCodex/core/paladin#_mithral-master) (half-elf paladin 19)  
+4 [mounted paragons](npcCodex/core/paladin#_mounted-paragons) (human paladins 16)
 
 ## Divine Crusaders
 
@@ -1916,25 +1916,25 @@ Religious missionaries, driven by their fervor, often treat any resistance to th
 
 Dangers to the faithful can bring crusaders of different religious mind-sets together to fight for a common purpose.
 
-1 [haughty avenger](npcCodex_dir/core_dir/paladin#_haughty-avenger) (half-elf paladin 3)  
-1 [initiate of flame](npcCodex_dir/core_dir/druid#_initiate-of-flame) (dwarf druid 1)  
-1 [war priest](npcCodex_dir/core_dir/cleric#_war-priest) (dwarf cleric 2)
+1 [haughty avenger](npcCodex/core/paladin#_haughty-avenger) (half-elf paladin 3)  
+1 [initiate of flame](npcCodex/core/druid#_initiate-of-flame) (dwarf druid 1)  
+1 [war priest](npcCodex/core/cleric#_war-priest) (dwarf cleric 2)
 
 ### Mid-Level (CR 9)
 
 Not all religions help people. Some calls to divine action bring only slaughter.
 
-4 [axe warriors](npcCodex_dir/core_dir/barbarian#_axe-warrior) (half-orc barbarians 3)  
-1 [axe dancer](npcCodex_dir/core_dir/monk#_axe-dancer) (half-orc monk 8)  
-1 [wrath priest](npcCodex_dir/core_dir/cleric#_wrath-priest) (half-orc cleric 8)
+4 [axe warriors](npcCodex/core/barbarian#_axe-warrior) (half-orc barbarians 3)  
+1 [axe dancer](npcCodex/core/monk#_axe-dancer) (half-orc monk 8)  
+1 [wrath priest](npcCodex/core/cleric#_wrath-priest) (half-orc cleric 8)
 
 ### High-Level (CR 20)
 
 When dwarven holds are threatened, their holy defenders can rally truly awesome divine responses.
 
-1 [axe lord](npcCodex_dir/core_dir/paladin#_axe-lord) (dwarf paladin 17)  
-2 [dwarven arbalesters](npcCodex_dir/core_dir/fighter#_dwarven-arbalester) (dwarf fighters 16)  
-1 [holy battle mage](npcCodex_dir/prestige_dir/mysticTheurge#_holy-battle-mage) (dwarf cleric 5_dir/wizard 5_dir/mystic theurge 10)
+1 [axe lord](npcCodex/core/paladin#_axe-lord) (dwarf paladin 17)  
+2 [dwarven arbalesters](npcCodex/core/fighter#_dwarven-arbalester) (dwarf fighters 16)  
+1 [holy battle mage](npcCodex/prestige/mysticTheurge#_holy-battle-mage) (dwarf cleric 5/wizard 5/mystic theurge 10)
 
 ## Draconic Ravagers
 
@@ -1944,21 +1944,21 @@ Draconic blood often breeds arrogance and an intolerance for those seen as lesse
 
 With a majesty to match her arrogance, this sorcerer always keeps her monastic bodyguard nearby.
 
-1 [vigilant bodyguard](npcCodex_dir/core_dir/monk#_vigilant-bodyguard) (human monk 3)  
-1 [whiteclaw sorcerer](npcCodex_dir/core_dir/sorcerer#_whiteclaw-sorcerer) (elf sorcerer 3)
+1 [vigilant bodyguard](npcCodex/core/monk#_vigilant-bodyguard) (human monk 3)  
+1 [whiteclaw sorcerer](npcCodex/core/sorcerer#_whiteclaw-sorcerer) (elf sorcerer 3)
 
 ### Mid-Level (CR 14)
 
 These blackscale sorcerers revere their acid terror leader as a deity.
 
-1 [acid terror](npcCodex_dir/prestige_dir/dragonDisciple#_acid-terror) (human sorcerer 9_dir/dragon disciple 4)  
-3 [blackscale sorcerers](npcCodex_dir/core_dir/sorcerer#_blackscale-sorcerer) (half-orc sorcerers 10)
+1 [acid terror](npcCodex/prestige/dragonDisciple#_acid-terror) (human sorcerer 9/dragon disciple 4)  
+3 [blackscale sorcerers](npcCodex/core/sorcerer#_blackscale-sorcerer) (half-orc sorcerers 10)
 
 ### High-Level (CR 19)
 
 In times of great danger, dragon chieftains rally the most powerful warriors from their tribes.  
-1 [dragon chieftain](npcCodex_dir/prestige_dir/dragonDisciple#_dragon-chieftain) (half-orc bard 10_dir/dragondisciple 7)  
-4 [undead hunters](npcCodex_dir/core_dir/barbarian#_undead-hunter) (half-orc barbarians 16)
+1 [dragon chieftain](npcCodex/prestige/dragonDisciple#_dragon-chieftain) (half-orc bard 10/dragondisciple 7)  
+4 [undead hunters](npcCodex/core/barbarian#_undead-hunter) (half-orc barbarians 16)
 
 ## Druid Circles
 
@@ -1968,23 +1968,23 @@ Protectors of sacred wilderness sites, these priests and their allies respond to
 
 Even druid circles filled with small folk can be deadly when roused.
 
-1 [evasive slip](npcCodex_dir/core_dir/druid#_evasive-slip) (halfling druid 6)  
-2 [sylvan protectors](npcCodex_dir/core_dir/druid#_sylvan-protector) (gnome druids 3)  
-1 [town watcher](npcCodex_dir/core_dir/ranger#_town-watcher) (halfling ranger 2)
+1 [evasive slip](npcCodex/core/druid#_evasive-slip) (halfling druid 6)  
+2 [sylvan protectors](npcCodex/core/druid#_sylvan-protector) (gnome druids 3)  
+1 [town watcher](npcCodex/core/ranger#_town-watcher) (halfling ranger 2)
 
 ### Mid-Level (CR 12)
 
 Being stranded on a remote island necessitates strange druidic fellowships with the indigenous population.
 
-1 [castaway](npcCodex_dir/core_dir/druid#_castaway) (half-orc druid 12)   
-2 [mud shamans](npcCodex_dir/core_dir/druid#_mud-shaman) (human druids 9)
+1 [castaway](npcCodex/core/druid#_castaway) (half-orc druid 12)   
+2 [mud shamans](npcCodex/core/druid#_mud-shaman) (human druids 9)
 
 ### High-Level (CR 18)
 
 Lone and dangerous druids often select champions from local barbarian tribes to serve them.
 
-1 [hateful scourge](npcCodex_dir/core_dir/druid#_hateful-scourge) (half-elf druid 17)  
-2 [life stealers](npcCodex_dir/core_dir/barbarian#_life-stealer) (human barbarians 15)
+1 [hateful scourge](npcCodex/core/druid#_hateful-scourge) (half-elf druid 17)  
+2 [life stealers](npcCodex/core/barbarian#_life-stealer) (human barbarians 15)
 
 ## Guild Associations
 
@@ -1994,24 +1994,24 @@ Larger cities give rise to many guilds. Each is filled with specialists more int
 
 Human apprentice jewelers are lucky when they can learn the craft from a dwarven master.
 
-3 [apprentice jewelers](npcCodex_dir/npc_dir/expert#_apprentice-jeweler) (human experts 1)  
-1 [gem sorcerer](npcCodex_dir/core_dir/sorcerer#_gem-sorcerer) (dwarf sorcerer 2)
+3 [apprentice jewelers](npcCodex/npc/expert#_apprentice-jeweler) (human experts 1)  
+1 [gem sorcerer](npcCodex/core/sorcerer#_gem-sorcerer) (dwarf sorcerer 2)
 
 ### Mid-Level (CR 11)
 
 Members of the Solicitors' Guild sometimes seek out academics to assist with important cases.
 
-1 [cruel instructor](npcCodex_dir/core_dir/bard#_cruel-instructor) (human bard 9)  
+1 [cruel instructor](npcCodex/core/bard#_cruel-instructor) (human bard 9)  
 4 cutthroat lawyers (half-elf experts 9)
 
 ### High-Level (CR 19)
 
 The Drama and Actors' Guild hires a few adventurers to act in plays. Typically, a master storycrafter teaches them how to convert their talents into drama.
 
-1 [improvised hurler](npcCodex_dir/core_dir/monk#_improvised-hurler) (dwarf monk 15)  
-1 [masked lord](npcCodex_dir/core_dir/rogue#_maksed-lord) (human rogue 17)  
-1 [master storycrafter](npcCodex_dir/prestige_dir/pathfinderChronicler#_master-storycrafter) (half-elf sorcerer 10_dir/Pathfinder chronicler 7)  
-1 [spellsword](npcCodex_dir/core_dir/bard#_spellsword) (elf bard 16)
+1 [improvised hurler](npcCodex/core/monk#_improvised-hurler) (dwarf monk 15)  
+1 [masked lord](npcCodex/core/rogue#_maksed-lord) (human rogue 17)  
+1 [master storycrafter](npcCodex/prestige/pathfinderChronicler#_master-storycrafter) (half-elf sorcerer 10/Pathfinder chronicler 7)  
+1 [spellsword](npcCodex/core/bard#_spellsword) (elf bard 16)
 
 ## Local Adventurers
 
@@ -2021,28 +2021,28 @@ Most settlements support their own bands of adventurers who don't look kindly on
 
 This group of misfits scours the countryside looking for threats to overcome and treasure to accumulate.
 
-1 [daring bravo](npcCodex_dir/core_dir/fighter#_daring-bravo) (gnome fighter 2)  
-1 [skilled sniper](npcCodex_dir/core_dir/rogue#_skilled-sniper) (half-elf rogue 3)  
-1 [street magician](npcCodex_dir/core_dir/wizard#_street-magician) (gnome enchanter 2)  
-1 [war priest](npcCodex_dir/core_dir/cleric#_war-priest) (dwarf cleric 2)
+1 [daring bravo](npcCodex/core/fighter#_daring-bravo) (gnome fighter 2)  
+1 [skilled sniper](npcCodex/core/rogue#_skilled-sniper) (half-elf rogue 3)  
+1 [street magician](npcCodex/core/wizard#_street-magician) (gnome enchanter 2)  
+1 [war priest](npcCodex/core/cleric#_war-priest) (dwarf cleric 2)
 
 ### Mid-Level (CR 9)
 
 Having adventured with each other for a number of seasons, the members of this group fight well together and have a few tricks up their collective sleeves.
 
-1 [adventuring blacksmith](npcCodex_dir/core_dir/fighter#_adventuring-blacksmith) (half-elf fighter 6)  
-1 [carousing champion](npcCodex_dir/core_dir/cleric#_carousing-champion) (halfling cleric 6)  
-1 [freelance thief](npcCodex_dir/core_dir/rogue#_freelance-thief) (human rogue 7)  
-1 [thunder wizard](npcCodex_dir/core_dir/wizard#_thunder-wizard) (halfling evoker 7)
+1 [adventuring blacksmith](npcCodex/core/fighter#_adventuring-blacksmith) (half-elf fighter 6)  
+1 [carousing champion](npcCodex/core/cleric#_carousing-champion) (halfling cleric 6)  
+1 [freelance thief](npcCodex/core/rogue#_freelance-thief) (human rogue 7)  
+1 [thunder wizard](npcCodex/core/wizard#_thunder-wizard) (halfling evoker 7)
 
 ### High-Level (CR 18)
 
 These local champions are very protective of their community, and know each other's tactics like the backs of their hands.
 
 1 [cruel conjurer (human conjurer 15)  
-1 ](npcCodex_dir/core_dir/wizard#_cruel-conjurer) [dwarven arbalester](npcCodex_dir/core_dir/fighter#_dwarven-arbalester) (dwarf fighter 16)  
-1 [elemental priest](npcCodex_dir/core_dir/cleric#_elemental-priest) (halfling cleric 16)  
-1 [mage slayer](npcCodex_dir/core_dir/rogue#_mage-slayer) (half-orc rogue 16)
+1 ](npcCodex/core/wizard#_cruel-conjurer) [dwarven arbalester](npcCodex/core/fighter#_dwarven-arbalester) (dwarf fighter 16)  
+1 [elemental priest](npcCodex/core/cleric#_elemental-priest) (halfling cleric 16)  
+1 [mage slayer](npcCodex/core/rogue#_mage-slayer) (half-orc rogue 16)
 
 ## Monastic Band
 
@@ -2052,23 +2052,23 @@ Bands of monks roam the areas around their monastery to protect the people in th
 
 A cruel master shows initiates how to strike hard and go for the kill.
 
-3 [careful initiates](npcCodex_dir/core_dir/monk#_careful-initiates) (human monks 1)  
-1 [cruel devotee](npcCodex_dir/core_dir/monk#_cruel-devotee) (human monk 5)
+3 [careful initiates](npcCodex/core/monk#_careful-initiates) (human monks 1)  
+1 [cruel devotee](npcCodex/core/monk#_cruel-devotee) (human monk 5)
 
 ### Mid-Level (CR 10)
 
 These monks protect their sacred charge.
 
-1 [sacred sorcerer](npcCodex_dir/core_dir/sorcerer#_scared-sorcerer) (human sorcerer 9)   
-3 [spry ambushers](npcCodex_dir/core_dir/monk#_spry-ambusher) (gnome monks 4)  
-1 [steadfast defender](npcCodex_dir/core_dir/monk#_steadfast-defender) (dwarf monk 9)
+1 [sacred sorcerer](npcCodex/core/sorcerer#_scared-sorcerer) (human sorcerer 9)   
+3 [spry ambushers](npcCodex/core/monk#_spry-ambusher) (gnome monks 4)  
+1 [steadfast defender](npcCodex/core/monk#_steadfast-defender) (dwarf monk 9)
 
 ### High-Level (CR 18)
 
 These strange fellows defend a cave sacred to their order.
 
-2 [improvised hurlers](npcCodex_dir/core_dir/monk#_improvised-hurler) (dwarf monks 15)  
-1 [warren chief](npcCodex_dir/core_dir/monk#_warren-chief) (gnome monk 17)
+2 [improvised hurlers](npcCodex/core/monk#_improvised-hurler) (dwarf monks 15)  
+1 [warren chief](npcCodex/core/monk#_warren-chief) (gnome monk 17)
 
 ## Mysterious Adventurers
 
@@ -2078,28 +2078,28 @@ Keeping their goals and motivations to themselves, these adventurers can serve a
 
 Just recently formed, this group is still learning how to work together effectively.
 
-1 [initiate of flame](npcCodex_dir/core_dir/druid#_initiate-of-flame) (dwarf druid 1)  
-1 [mercenary magician](npcCodex_dir/core_dir/sorcerer#_mercenary-magician) (human sorcerer 1)  
-1 [novice scout](npcCodex_dir/core_dir/ranger#_novice-scout) (half-elf ranger 1)  
-1 [tavern singer](npcCodex_dir/core_dir/bard#_tavern-singer) (half-elf bard 1)
+1 [initiate of flame](npcCodex/core/druid#_initiate-of-flame) (dwarf druid 1)  
+1 [mercenary magician](npcCodex/core/sorcerer#_mercenary-magician) (human sorcerer 1)  
+1 [novice scout](npcCodex/core/ranger#_novice-scout) (half-elf ranger 1)  
+1 [tavern singer](npcCodex/core/bard#_tavern-singer) (half-elf bard 1)
 
 ### Mid-Level (CR 8)
 
 These ragtag adventurers care only about accumulating treasure, though they claim loftier goals when asked.
 
-1 [bramble sorcerer](npcCodex_dir/core_dir/sorcerer#_bramble-sorcerer) (half-elf sorcerer 5)  
-1 [cavern defender](npcCodex_dir/core_dir/druid#_cavern-defender) (half-elf druid 5)  
-1 [gambler](npcCodex_dir/core_dir/bard#_gambler) (dwarf bard 7)  
-1 [mounted archer](npcCodex_dir/core_dir/ranger#_mounted-archer) (human ranger 5)
+1 [bramble sorcerer](npcCodex/core/sorcerer#_bramble-sorcerer) (half-elf sorcerer 5)  
+1 [cavern defender](npcCodex/core/druid#_cavern-defender) (half-elf druid 5)  
+1 [gambler](npcCodex/core/bard#_gambler) (dwarf bard 7)  
+1 [mounted archer](npcCodex/core/ranger#_mounted-archer) (human ranger 5)
 
 ### High-Level (CR 13)
 
 Searching for a group of artifacts for a mysterious master, this group goes to great lengths to guard its secrets.
 
-1 [blackscale sorcerer](npcCodex_dir/core_dir/sorcerer#_blackscale-sorcerer) (half-orc sorcerer 10)  
-1 [chameleon](npcCodex_dir/core_dir/bard#_chameleon) (half-orc bard 11)  
-1 [giant killer](npcCodex_dir/core_dir/ranger#_giant-killer) (gnome ranger 11)  
-1 [mistress of high places](npcCodex_dir/core_dir/druid#_mistress-of-high-places) (half-elf druid 11)
+1 [blackscale sorcerer](npcCodex/core/sorcerer#_blackscale-sorcerer) (half-orc sorcerer 10)  
+1 [chameleon](npcCodex/core/bard#_chameleon) (half-orc bard 11)  
+1 [giant killer](npcCodex/core/ranger#_giant-killer) (gnome ranger 11)  
+1 [mistress of high places](npcCodex/core/druid#_mistress-of-high-places) (half-elf druid 11)
 
 ## Pirate Crews
 
@@ -2109,26 +2109,26 @@ Roaming the open sea and river networks, these raiders care for little besides g
 
 This small crew of novice pirates raids settlements nestled along riverbanks.
 
-1 [old sailor](npcCodex_dir/npc_dir/expert#_old-sailor) (elf expert 2)  
-1 [sail master](npcCodex_dir/core_dir/druid#_sail-master) (human druid 2)  
-3 [superstitious mercenaries](npcCodex_dir/core_dir/fighter#_superstitious-mercenary) (human fighters 1)
+1 [old sailor](npcCodex/npc/expert#_old-sailor) (elf expert 2)  
+1 [sail master](npcCodex/core/druid#_sail-master) (human druid 2)  
+3 [superstitious mercenaries](npcCodex/core/fighter#_superstitious-mercenary) (human fighters 1)
 
 ### Mid-Level (CR 10)
 
 The terror of coastal communities, this crew is led by a daring woman who has claimed the rank of pirate queen.
 
-1 [bloodfire sorcerer](npcCodex_dir/core_dir/sorcerer#_bloodfire-sorcerer) (half-orc sorcerer 7)  
-1 [pirate queen](npcCodex_dir/core_dir/ranger#_pirate-queen) (human ranger 10)  
-6 [veteran buccaneers](npcCodex_dir/npc_dir/warrior#_veteran-buccaneers) (human warriors 4)
+1 [bloodfire sorcerer](npcCodex/core/sorcerer#_bloodfire-sorcerer) (half-orc sorcerer 7)  
+1 [pirate queen](npcCodex/core/ranger#_pirate-queen) (human ranger 10)  
+6 [veteran buccaneers](npcCodex/npc/warrior#_veteran-buccaneers) (human warriors 4)
 
 ### High-Level (CR 17)
 
 Raiding ships on the high seas, this seasoned crew is supported by a fire mage.
 
-1 [life stealer](npcCodex_dir/core_dir/barbarian#_life-stealer) (human barbarian 15)  
-1 [pirate king](npcCodex_dir/core_dir/fighter#_pirate-king) (half-elf fighter 15)   
-1 [pyromaniac mage](npcCodex_dir/core_dir/wizard#_pyromaniac-mage) (human evoker 13)  
-4 [scheming fencers](npcCodex_dir/core_dir/fighter#_scheming-fencer) (human fighters 11)
+1 [life stealer](npcCodex/core/barbarian#_life-stealer) (human barbarian 15)  
+1 [pirate king](npcCodex/core/fighter#_pirate-king) (half-elf fighter 15)   
+1 [pyromaniac mage](npcCodex/core/wizard#_pyromaniac-mage) (human evoker 13)  
+4 [scheming fencers](npcCodex/core/fighter#_scheming-fencer) (human fighters 11)
 
 ## Questing Paladins
 
@@ -2138,22 +2138,22 @@ Unyielding in their goals, a group of paladins on a sacred mission can be frustr
 
 This group's unorthodox tactics surprise the enemies of law and good.
 
-1 [holy archer](npcCodex_dir/core_dir/paladin#_holy-archer) (elf paladin 6)  
-2 [skirmishing crusaders](npcCodex_dir/core_dir/paladin#_skirmishing-crusader) (gnome paladins 4)
+1 [holy archer](npcCodex/core/paladin#_holy-archer) (elf paladin 6)  
+2 [skirmishing crusaders](npcCodex/core/paladin#_skirmishing-crusader) (gnome paladins 4)
 
 ### Mid-Level (CR 10)
 
 A cadre of clerics follow around a paladin they consider a living saint.
 
-4 [noble crusaders](npcCodex_dir/core_dir/cleric#_noble-crusader) (human clerics 5)   
-1 [saintly knight](npcCodex_dir/core_dir/paladin#_saintly-knight) (half-orc paladin 9)
+4 [noble crusaders](npcCodex/core/cleric#_noble-crusader) (human clerics 5)   
+1 [saintly knight](npcCodex/core/paladin#_saintly-knight) (half-orc paladin 9)
 
 ### High-Level (CR 20)
 
 This group is on a quest to purge the world of both demons and undead.
 
-1 [demon hunter](npcCodex_dir/core_dir/paladin#_demon-hunter) (human paladin 20)  
-3 [undead slayers](npcCodex_dir/core_dir/ranger#_undead-slayers) (human rangers 16)
+1 [demon hunter](npcCodex/core/paladin#_demon-hunter) (human paladin 20)  
+3 [undead slayers](npcCodex/core/ranger#_undead-slayers) (human rangers 16)
 
 ## Sage Circle
 
@@ -2163,25 +2163,25 @@ Purveyors of knowledge are good at keeping secrets unless they are paid to share
 
 This sage has taken on a wizard who is too afraid to go adventuring, and is plagued by the endless pessimism-laced questions of the local doom prophet.
 
-1 [cautious mage](npcCodex_dir/core_dir/wizard#_cautious-mage) (human wizard 1)  
-1 [doom prophet](npcCodex_dir/npc_dir/adept#_doom-prophet) (half-orc adept 4)  
-1 [wise sage](npcCodex_dir/npc_dir/expert#_wise-sage) (human expert 8)
+1 [cautious mage](npcCodex/core/wizard#_cautious-mage) (human wizard 1)  
+1 [doom prophet](npcCodex/npc/adept#_doom-prophet) (half-orc adept 4)  
+1 [wise sage](npcCodex/npc/expert#_wise-sage) (human expert 8)
 
 ### Mid-Level (CR 10)
 
 These sages are usually found in the back of one smoky tavern or another, arguing about minutiae and eager to acquire rare books from adventurers.
 
-1 [aloof scholar](npcCodex_dir/prestige_dir/pathfinderChronicler#_aloof-scholar) (elf bard 7_dir/Pathfinder chronicler 2)  
-1 [divine loremaster](npcCodex_dir/prestige_dir/loremaster#_divine-loremaster) (halfling cleric 7_dir/loremaster 2)  
-1 [wise sage](npcCodex_dir/npc_dir/expert#_wise-sage) (human expert 8)
+1 [aloof scholar](npcCodex/prestige/pathfinderChronicler#_aloof-scholar) (elf bard 7/Pathfinder chronicler 2)  
+1 [divine loremaster](npcCodex/prestige/loremaster#_divine-loremaster) (halfling cleric 7/loremaster 2)  
+1 [wise sage](npcCodex/npc/expert#_wise-sage) (human expert 8)
 
 ### High-Level (CR 18)
 
 Masters of dwarven lore, these sages share their vast knowledge only in return for payment made in fine gems, mithral items, and platinum coins.
 
-1 [deep marshal](npcCodex_dir/core_dir/wizard#_deep-marshal) (dwarf abjurer 16)  
-1 [master historian](npcCodex_dir/prestige_dir/loremaster#_master-historian) (dwarf bard 10_dir/loremaster 7)  
-1 [tunnel drummer](npcCodex_dir/core_dir/bard#_tunnel-drummer) (dwarf bard 14)
+1 [deep marshal](npcCodex/core/wizard#_deep-marshal) (dwarf abjurer 16)  
+1 [master historian](npcCodex/prestige/loremaster#_master-historian) (dwarf bard 10/loremaster 7)  
+1 [tunnel drummer](npcCodex/core/bard#_tunnel-drummer) (dwarf bard 14)
 
 ## Sellswords
 
@@ -2191,22 +2191,22 @@ Those plagued by pesky adventurers often hire skilled mercenaries to defend them
 
 Brigands often team up with rogues to bring down foes with deadly efficiency.
 
-2 [skulking brutes](npcCodex_dir/core_dir/rogue#_skulking-brute) (half-orc rogues 2)  
-3 [traitorous brigands](npcCodex_dir/core_dir/fighter#_traitorous-brigand) (half-orc fighters 3)
+2 [skulking brutes](npcCodex/core/rogue#_skulking-brute) (half-orc rogues 2)  
+3 [traitorous brigands](npcCodex/core/fighter#_traitorous-brigand) (half-orc fighters 3)
 
 ### Mid-Level (CR 12)
 
 This fencer keeps a couple of slingers to watch his back during a fight.
 
-2 [halfling slingers](npcCodex_dir/core_dir/fighter#_halfling-slinger) (halfling fighters 9)  
-1 [scheming fencer](npcCodex_dir/core_dir/fighter#_scheming-fencer) (human fighter 11)
+2 [halfling slingers](npcCodex/core/fighter#_halfling-slinger) (halfling fighters 9)  
+1 [scheming fencer](npcCodex/core/fighter#_scheming-fencer) (human fighter 11)
 
 ### High-Level (CR 19)
 
 This unconventional duo defeats its foes with bold, even ostentatious flourishes.
 
-1 [failed disciple](npcCodex_dir/core_dir/fighter#_failed-disciple) (half-orc fighter 18)  
-1 [sword savant](npcCodex_dir/core_dir/monk#_sword-savant) (elf monk 19)
+1 [failed disciple](npcCodex/core/fighter#_failed-disciple) (half-orc fighter 18)  
+1 [sword savant](npcCodex/core/monk#_sword-savant) (elf monk 19)
 
 ## Slayers
 
@@ -2216,25 +2216,25 @@ When adventurers thwart their plans, governments, churches, and criminals have a
 
 This group specializes in bringing down marks in a fast and bloody fashion.
 
-2 [savage mercenaries](npcCodex_dir/core_dir/barbarian#_savage-mercenary) (human barbarians 1)  
-1 [skulking brute](npcCodex_dir/core_dir/rogue#_skulking-brute) (half-orc rogue 2)
+2 [savage mercenaries](npcCodex/core/barbarian#_savage-mercenary) (human barbarians 1)  
+1 [skulking brute](npcCodex/core/rogue#_skulking-brute) (half-orc rogue 2)
 
 ### Mid-Level (CR 11)
 
 With unholy purpose, this group stalks its prey and leaves no one standing.
 
-2 [spell hunters](npcCodex_dir/core_dir/fighter#_spell-hunter) (dwarf fighters 7)  
-1 [death priest](npcCodex_dir/core_dir/cleric#_death-priest) (human cleric 9)  
-1 [sacred killer](npcCodex_dir/prestige_dir/assassin#_sacred-killer) (half-orc cleric 1_dir/rogue 6_dir/assassin 2)
+2 [spell hunters](npcCodex/core/fighter#_spell-hunter) (dwarf fighters 7)  
+1 [death priest](npcCodex/core/cleric#_death-priest) (human cleric 9)  
+1 [sacred killer](npcCodex/prestige/assassin#_sacred-killer) (half-orc cleric 1/rogue 6/assassin 2)
 
 ### High-Level (CR 23)
 
 This fellowship of despicable villains will eventually turn on one another, but until then they are a danger to all they encounter.
 
-1 [fatal axe](npcCodex_dir/prestige_dir/assassin#_fatal-axe) (dwarf rogue 10_dir/assassin 10)  
-1 [fire diabolist](npcCodex_dir/core_dir/cleric#_fire-diabolist) (human cleric 20)  
-1 [infernal champion](npcCodex_dir/core_dir/fighter#_infernal-champion) (human fighter 20)  
-1 [mithral wizard](npcCodex_dir/prestige_dir/eldritchKnight#_mithral-wizard) (human fighter 2_dir/evoker 8_dir/eldritch knight 10)
+1 [fatal axe](npcCodex/prestige/assassin#_fatal-axe) (dwarf rogue 10/assassin 10)  
+1 [fire diabolist](npcCodex/core/cleric#_fire-diabolist) (human cleric 20)  
+1 [infernal champion](npcCodex/core/fighter#_infernal-champion) (human fighter 20)  
+1 [mithral wizard](npcCodex/prestige/eldritchKnight#_mithral-wizard) (human fighter 2/evoker 8/eldritch knight 10)
 
 ## Small Rovers
 
@@ -2244,24 +2244,24 @@ Never judge a book by its cover, and never underestimate enemies because of thei
 
 Patrolling the areas around hidden settlements, these protective wardens make sure their communities stay secret and safe.
 
-1 [dog rider](npcCodex_dir/core_dir/barbarian#_dog-rider) (halfling barbarian 4)  
-1 [sylvan protector](npcCodex_dir/core_dir/druid#_sylvan-proctector) (gnome druid 3)  
-3 [town watchers](npcCodex_dir/core_dir/ranger#_town-watchers) (halfling rangers 2)
+1 [dog rider](npcCodex/core/barbarian#_dog-rider) (halfling barbarian 4)  
+1 [sylvan protector](npcCodex/core/druid#_sylvan-proctector) (gnome druid 3)  
+3 [town watchers](npcCodex/core/ranger#_town-watchers) (halfling rangers 2)
 
 ### Mid-Level (CR 12)
 
 These small raiders wander the coasts and rivers, looking for easy prey.
 
-1 [pirate queen](npcCodex_dir/core_dir/ranger#_pirate-queen) (halfling ranger 10)   
-2 [halfling slingers](npcCodex_dir/core_dir/fighter#_halfling-slinger) (fighters 9)  
-1 [sea captain](npcCodex_dir/core_dir/druid#_sea-captain) (halfling druid 8)
+1 [pirate queen](npcCodex/core/ranger#_pirate-queen) (halfling ranger 10)   
+2 [halfling slingers](npcCodex/core/fighter#_halfling-slinger) (fighters 9)  
+1 [sea captain](npcCodex/core/druid#_sea-captain) (halfling druid 8)
 
 ### High-Level (CR 17)
 
 Mixing natural magic with natural attacks, these little folk pack a surprisingly hard punch.
 
-2 [little fists](npcCodex_dir/core_dir/monk#_little-fist) (halfling monks 14)  
-1 [natural arcanist](npcCodex_dir/core_dir/sorcerer#_natural-arcanist) (halfling sorcerer 16)
+2 [little fists](npcCodex/core/monk#_little-fist) (halfling monks 14)  
+1 [natural arcanist](npcCodex/core/sorcerer#_natural-arcanist) (halfling sorcerer 16)
 
 ## Sorcerer Fellowships
 
@@ -2271,22 +2271,22 @@ Sorcerers band together for mutual protection and to increase the amount of carn
 
 This pair ruthlessly patrols the land, unfailingly attacking all who trespass.
 
-1 [border guard](npcCodex_dir/core_dir/ranger#_border-guard) (half-orc ranger 4)  
-1 [bramble sorcerer](npcCodex_dir/core_dir/sorcerer#_bramble-sorcerer) (half-elf sorcerer 5)
+1 [border guard](npcCodex/core/ranger#_border-guard) (half-orc ranger 4)  
+1 [bramble sorcerer](npcCodex/core/sorcerer#_bramble-sorcerer) (half-elf sorcerer 5)
 
 ### Mid-Level (CR 11)
 
 A pair of monks wielding large and wicked blades protects this powerful sorcerer.
 
-2 [axe dancers](npcCodex_dir/core_dir/monk#_axe-dancer) (half-orc monks 8)  
-1 [blackscale sorcerer](npcCodex_dir/core_dir/sorcerer#_blackscale-sorcerer) (half-orc sorcerer 10)
+2 [axe dancers](npcCodex/core/monk#_axe-dancer) (half-orc monks 8)  
+1 [blackscale sorcerer](npcCodex/core/sorcerer#_blackscale-sorcerer) (half-orc sorcerer 10)
 
 ### High-Level (CR 15)
 
 With a mix of ice and lightning magic, this fellowship of sorcerers takes on all who threaten its members.
 
-2 [azure bolt sorcerers](npcCodex_dir/core_dir/sorcerer#_azure-bolt-sorcerer) (human sorcerers 13)  
-1 [ice mage](npcCodex_dir/core_dir/sorcerer#_ice-mage) (half-elf sorcerer 14)
+2 [azure bolt sorcerers](npcCodex/core/sorcerer#_azure-bolt-sorcerer) (human sorcerers 13)  
+1 [ice mage](npcCodex/core/sorcerer#_ice-mage) (half-elf sorcerer 14)
 
 ## Swashbucklers
 
@@ -2296,24 +2296,24 @@ With daring and panache, these warriors challenge others to duels just to increa
 
 This pair of bumbling gnome swordfighters has attracted the attention of a poet wishing to lampoon their exploits.
 
-1 [court poet](npcCodex_dir/core_dir/bard#_court-poet) (human bard 5)  
-2 [daring bravos](npcCodex_dir/core_dir/fighter#_daring-bravo) (gnome fighters 2)
+1 [court poet](npcCodex/core/bard#_court-poet) (human bard 5)  
+2 [daring bravos](npcCodex/core/fighter#_daring-bravo) (gnome fighters 2)
 
 ### Mid-Level (CR 13)
 
 Their courtesan companion spurs on these swashbucklers to greater deeds of daring.
 
-1 [contract killer](npcCodex_dir/core_dir/rogue#_contract-killer) (elf rogue 11)  
-1 [courtesan](npcCodex_dir/core_dir/bard#_courtesan) (human bard 12)  
-1 [scheming fencer](npcCodex_dir/core_dir/fighter#_scheming-fencer) (human fighter 11)
+1 [contract killer](npcCodex/core/rogue#_contract-killer) (elf rogue 11)  
+1 [courtesan](npcCodex/core/bard#_courtesan) (human bard 12)  
+1 [scheming fencer](npcCodex/core/fighter#_scheming-fencer) (human fighter 11)
 
 ### High-Level (CR 18)
 
 This celebrated duelist of the dwarven people is supported by elemental might and a driving drumbeat to urge him on.
 
-1 [elemental priest](npcCodex_dir/core_dir/cleric#_elemental-priest) (halfling cleric 16)  
-1 [iron duelist](npcCodex_dir/prestige_dir/duelist#_iron-duelist) (dwarf fighter 10_dir/duelist 7)  
-1 [tunnel drummer](npcCodex_dir/core_dir/bard#_tunnel-drummer) (dwarf bard 14)
+1 [elemental priest](npcCodex/core/cleric#_elemental-priest) (halfling cleric 16)  
+1 [iron duelist](npcCodex/prestige/duelist#_iron-duelist) (dwarf fighter 10/duelist 7)  
+1 [tunnel drummer](npcCodex/core/bard#_tunnel-drummer) (dwarf bard 14)
 
 ## Thieves' Guild Bravos
 
@@ -2323,23 +2323,23 @@ Whether committing crimes or enforcing the will of their guild, these bravos are
 
 A sniper often backs up a guild initiate during the first few missions of his career.
 
-1 [guild initiate](npcCodex_dir/core_dir/rogue#_guild-initiate) (halfling rogue 5)  
-1 [skilled sniper](npcCodex_dir/core_dir/rogue#_skilled-sniper) (half-elf rogue 3)
+1 [guild initiate](npcCodex/core/rogue#_guild-initiate) (halfling rogue 5)  
+1 [skilled sniper](npcCodex/core/rogue#_skilled-sniper) (half-elf rogue 3)
 
 ### Mid-Level (CR 8)
 
 When a guild needs to make a show of strength, it sends in an impressive bruiser retained for just that purpose, with support from lesser guild members.
 
-1 [spell hunter](npcCodex_dir/core_dir/fighter#_spell-hunter) (dwarf fighter 7)  
-3 [guild initiates](npcCodex_dir/core_dir/rogue#_guild-initiates) (halfling rogues 5)
+1 [spell hunter](npcCodex/core/fighter#_spell-hunter) (dwarf fighter 7)  
+3 [guild initiates](npcCodex/core/rogue#_guild-initiates) (halfling rogues 5)
 
 ### High-Level (CR 14)
 
 When push comes to shove, guildmasters take matters into their own hands, perhaps with the support of necromancers, to ensure troublemakers stay eternally silent.
 
-2 [contract killers](npcCodex_dir/core_dir/rogue#_contract-killers) (elf rogues 11)  
-1 [guildmaster](npcCodex_dir/core_dir/rogue#_guildmaster) (dwarf rogue 13)  
-1 [undead creator](npcCodex_dir/core_dir/wizard#_undead-creator) (human necromancer 11)
+2 [contract killers](npcCodex/core/rogue#_contract-killers) (elf rogues 11)  
+1 [guildmaster](npcCodex/core/rogue#_guildmaster) (dwarf rogue 13)  
+1 [undead creator](npcCodex/core/wizard#_undead-creator) (human necromancer 11)
 
 ## Unholy Pilgrims
 
@@ -2349,25 +2349,25 @@ On nefarious quests for dark gods, these unholy travelers are a danger to all th
 
 A group of initiates follows a doom prophet and his bodyguards to an unholy oracle site.
 
-2 [axe warriors](npcCodex_dir/core_dir/barbarian#_axe-warrior) (half-orc barbarians 3)  
-1 [doom prophet](npcCodex_dir/npc_dir/adept#_doom-prophet) (half-orc adept 4)  
-3 [initiates](npcCodex_dir/npc_dir/adept#_initiate) (human adepts 3)
+2 [axe warriors](npcCodex/core/barbarian#_axe-warrior) (half-orc barbarians 3)  
+1 [doom prophet](npcCodex/npc/adept#_doom-prophet) (half-orc adept 4)  
+3 [initiates](npcCodex/npc/adept#_initiate) (human adepts 3)
 
 ### Mid-Level (CR 12)
 
 A pair of evil priests and their companions wander the byways spreading death.
 
-1 [cautious hunter](npcCodex_dir/core_dir/monk#_cautious-hunter) (half-orc monk 10)  
-1 [deadly spy](npcCodex_dir/core_dir/rogue#_deadly-spy) (elf rogue 9)  
-2 [death priests](npcCodex_dir/core_dir/cleric#_death-priest) (human clerics 9)
+1 [cautious hunter](npcCodex/core/monk#_cautious-hunter) (half-orc monk 10)  
+1 [deadly spy](npcCodex/core/rogue#_deadly-spy) (elf rogue 9)  
+2 [death priests](npcCodex/core/cleric#_death-priest) (human clerics 9)
 
 ### High-Level (CR 19)
 
 This deadly group escorts sacred relics to unholy sites with the goal of heralding the world's end.
 
-3 [death initiates](npcCodex_dir/prestige_dir/assassin#_death-initiate) (human monks 9_dir/assassins 4)  
-1 [death master](npcCodex_dir/prestige_dir/mysticTheurge#_death-master) (half-elf cleric 5_dir/evoker 6_dir/mystic theurge 7)  
-1 [herald of armageddon](npcCodex_dir/core_dir/cleric#_herald-orarmageddon) (human cleric 17)
+3 [death initiates](npcCodex/prestige/assassin#_death-initiate) (human monks 9/assassins 4)  
+1 [death master](npcCodex/prestige/mysticTheurge#_death-master) (half-elf cleric 5/evoker 6/mystic theurge 7)  
+1 [herald of armageddon](npcCodex/core/cleric#_herald-orarmageddon) (human cleric 17)
 
 ## Visiting Adventurers
 
@@ -2377,31 +2377,31 @@ Entering new lands to make their names, adventurers often come into conflict wit
 
 A local celebrity has thrown in with the new adventuring band in town.
 
-1 [battle mage](npcCodex_dir/core_dir/wizard#_battle-mage) (elf wizard 3)  
-1 [charlatan](npcCodex_dir/core_dir/rogue#_charlatan) (human rogue 4)  
-1 [local celebrity](npcCodex_dir/core_dir/bard#_local-celebrity) (human bard 3)  
-1 [scholar priest](npcCodex_dir/core_dir/cleric#_scholar-priest) (human cleric 3)  
-1 [traitorous brigand](npcCodex_dir/core_dir/fighter#_traitorous-brigand) (half-orc fighter 3)
+1 [battle mage](npcCodex/core/wizard#_battle-mage) (elf wizard 3)  
+1 [charlatan](npcCodex/core/rogue#_charlatan) (human rogue 4)  
+1 [local celebrity](npcCodex/core/bard#_local-celebrity) (human bard 3)  
+1 [scholar priest](npcCodex/core/cleric#_scholar-priest) (human cleric 3)  
+1 [traitorous brigand](npcCodex/core/fighter#_traitorous-brigand) (half-orc fighter 3)
 
 ### Mid-Level (CR 10)
 
 This ambitious group spies on other adventurers and attempts to beat them to adventuring sites.
 
-1 [spell hunter](npcCodex_dir/core_dir/fighter#_spell-hunter) (dwarf fighter 7)  
-1 [cave stalker](npcCodex_dir/core_dir/rogue#_cave-stalker) (dwarf rogue 6)  
-1 [con artist](npcCodex_dir/core_dir/bard#_con-artist) (half-elf bard 6)  
-1 [tribal seer](npcCodex_dir/core_dir/wizard#_tribal-seer) (half-orc diviner 6)  
-1 [vivisectionist cleric](npcCodex_dir/core_dir/cleric#_vivisectionist-cleric) (human cleric 7)
+1 [spell hunter](npcCodex/core/fighter#_spell-hunter) (dwarf fighter 7)  
+1 [cave stalker](npcCodex/core/rogue#_cave-stalker) (dwarf rogue 6)  
+1 [con artist](npcCodex/core/bard#_con-artist) (half-elf bard 6)  
+1 [tribal seer](npcCodex/core/wizard#_tribal-seer) (half-orc diviner 6)  
+1 [vivisectionist cleric](npcCodex/core/cleric#_vivisectionist-cleric) (human cleric 7)
 
 ### High-Level (CR 21)
 
 Working toward nothing less than overthrow of the status quo, this group attempts to thwart other adventuring groups whenever possible.
 
-1 [dagger master](npcCodex_dir/core_dir/rogue#_dagger-master) (halfling rogue 18)  
-1 [failed disciple](npcCodex_dir/core_dir/fighter#_failed-disciple) (half-orc fighter 18)  
-1 [grand necromancer](npcCodex_dir/core_dir/wizard#_grand-necromancer) (human necromancer 18)  
-1 [rival explorer](npcCodex_dir/core_dir/bard#_rival-explorerer) (half-orc bard 18)  
-1 [shadow cleric](npcCodex_dir/core_dir/cleric#_shadow-cleric) (elf cleric 18)
+1 [dagger master](npcCodex/core/rogue#_dagger-master) (halfling rogue 18)  
+1 [failed disciple](npcCodex/core/fighter#_failed-disciple) (half-orc fighter 18)  
+1 [grand necromancer](npcCodex/core/wizard#_grand-necromancer) (human necromancer 18)  
+1 [rival explorer](npcCodex/core/bard#_rival-explorerer) (half-orc bard 18)  
+1 [shadow cleric](npcCodex/core/cleric#_shadow-cleric) (elf cleric 18)
 
 ## Wilderness Hunters
 
@@ -2411,22 +2411,22 @@ Sometimes stalking game, sometimes pursuing those who dare enter their domain, h
 
 A poacher takes a trio of apprentice hunters to steal game from the local nobility.
 
-3 [novice scouts](npcCodex_dir/core_dir/ranger#_novice-scout) (half-elf rangers 1)  
-1 [poacher](npcCodex_dir/core_dir/ranger#_poacher) (human ranger 3)
+3 [novice scouts](npcCodex/core/ranger#_novice-scout) (half-elf rangers 1)  
+1 [poacher](npcCodex/core/ranger#_poacher) (human ranger 3)
 
 ### Mid-Level (CR 11)
 
 Stalking the mire, these hunters do not take kindly to any interference or competition.
 
-[1 mud shaman](npcCodex_dir/core_dir/druid#_mud-shaman) (human druid 9)  
-2 [swampwalkers](npcCodex_dir/core_dir/ranger#_swampwalker) (half-elf rangers 9)
+[1 mud shaman](npcCodex/core/druid#_mud-shaman) (human druid 9)  
+2 [swampwalkers](npcCodex/core/ranger#_swampwalker) (half-elf rangers 9)
 
 ### High-Level (CR 14)
 
 This unlikely trio stalks the hills and mountains to rid the land of giants and their thralls.
 
-2 [giant-killers](npcCodex_dir/core_dir/ranger#_giant-killers) (gnome rangers 11)  
-1 [monastic sniper](npcCodex_dir/core_dir/monk#_monastic-sniper) (elf monk 13)
+2 [giant-killers](npcCodex/core/ranger#_giant-killers) (gnome rangers 11)  
+1 [monastic sniper](npcCodex/core/monk#_monastic-sniper) (elf monk 13)
 
 ## Wizards' Guild Agents
 
@@ -2436,22 +2436,22 @@ Arcane spellcasters are often the masterminds behind seats of power, and defend 
 
 When the guild investigates, it typically sends a pair of battle mages for support.
 
-2 [battle mages](npcCodex_dir/core_dir/wizard#_battle-mage) (elf wizards 3)  
-1 [investigator wizard](npcCodex_dir/core_dir/wizard#_investigator-wizard) (human diviner 4)
+2 [battle mages](npcCodex/core/wizard#_battle-mage) (elf wizards 3)  
+1 [investigator wizard](npcCodex/core/wizard#_investigator-wizard) (human diviner 4)
 
 ### Mid-Level (CR 10)
 
 Sometimes guild business requires a subtle hand. These agents find solutions to guild problems with quiet finesse.
 
-1 [con artist](npcCodex_dir/core_dir/bard#_con-artist) (half-elf bard 6)   
-1 [deadly spy](npcCodex_dir/core_dir/rogue#_deadly-spy) (elf rogue 9)   
-1 [seductive enchanter](npcCodex_dir/core_dir/wizard#_seductive-enchanter) (elf enchanter 8)
+1 [con artist](npcCodex/core/bard#_con-artist) (half-elf bard 6)   
+1 [deadly spy](npcCodex/core/rogue#_deadly-spy) (elf rogue 9)   
+1 [seductive enchanter](npcCodex/core/wizard#_seductive-enchanter) (elf enchanter 8)
 
 ### High-Level (CR 17)
 
 When threatened, a guild is quick to respond with powerful casters and melee support.
 
-1 [arcane pretender](npcCodex_dir/core_dir/fighter#_arcane-pretender) (halfling fighter 14)  
-1 [cruel conjurer](npcCodex_dir/core_dir/wizard#_cruel-conjurer) (human conjurer 15)  
-2 [pyromaniac mages](npcCodex_dir/core_dir/wizard#_pyromaniac-mages) (human evokers 13)
+1 [arcane pretender](npcCodex/core/fighter#_arcane-pretender) (halfling fighter 14)  
+1 [cruel conjurer](npcCodex/core/wizard#_cruel-conjurer) (human conjurer 15)  
+2 [pyromaniac mages](npcCodex/core/wizard#_pyromaniac-mages) (human evokers 13)
 

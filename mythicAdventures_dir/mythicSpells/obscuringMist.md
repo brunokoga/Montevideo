@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventures_dir/mythicSpells_dir/obscuringMist
+title: mythicAdventures/mythicSpells/obscuringMist
 ---
 Obscuring Mist
 
-**Source** [_obscuring mist_](spells_dir/obscuringMist#_obscuring-mist)
+**Source** [_obscuring mist_](spells/obscuringMist#_obscuring-mist)
 
 The range increases to 50 feet, and the cloud's radius and height both increase to 50 feet.
 

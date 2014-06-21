@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/fogCloud
+title: spells/fogCloud
 ---
  **Fog Cloud**
 
-**School** conjuration (creation); **Level** druid 2, sorcerer_dir/wizard 2
+**School** conjuration (creation); **Level** druid 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/fogCloud
 
 **Effect** fog spreads in 20-ft. radius
 
-**Duration** 10 min._dir/level
+**Duration** 10 min./level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

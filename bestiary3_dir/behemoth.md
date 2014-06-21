@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/behemoth
+title: bestiary3/behemoth
 ---
 # Behemoth
 
@@ -30,9 +30,9 @@ Tempest Behemoth CR 22
 
 XP 614,400
 
-N Colossal magical beast ( [air](monsters_dir/creatureTypes#_air-subtype), behemoth)
+N Colossal magical beast ( [air](monsters/creatureTypes#_air-subtype), behemoth)
 
-**Init** +9; **Senses** [blindsense](monsters_dir/universalMonsterRules#_blindsense) 60 ft., darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +31
+**Init** +9; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 60 ft., darkvision 60 ft.; [Perception](skills/perception#_perception) +31
 
 Defense
 
@@ -42,7 +42,7 @@ Defense
 
 **Fort** +26, **Ref** +23, **Will** +16
 
-**Defensive Abilities** unstoppable; **DR** 15_dir/epic; **Immune** ability damage, aging, [bleed](monsters_dir/universalMonsterRules#_bleed), [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), electricity, [energy drain](monsters_dir/universalMonsterRules#_energy-drain), [fire](monsters_dir/creatureTypes#_fire-subtype), mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), polymorph; **SR** 33
+**Defensive Abilities** unstoppable; **DR** 15/epic; **Immune** ability damage, aging, [bleed](monsters/universalMonsterRules#_bleed), [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), electricity, [energy drain](monsters/universalMonsterRules#_energy-drain), [fire](monsters/creatureTypes#_fire-subtype), mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), polymorph; **SR** 33
 
 **Weaknesses** vulnerable to miracles and wishes
 
@@ -50,17 +50,17 @@ Offense
 
 **Speed** 40 ft., fly 200 ft. (good)
 
-**Melee** bite +41 (4d6+16_dir/19–20 plus [bleed](monsters_dir/universalMonsterRules#_bleed)), 2 talons (2d8+16 plus [bleed](monsters_dir/universalMonsterRules#_bleed)), wings +36 (8d8+8)
+**Melee** bite +41 (4d6+16/19–20 plus [bleed](monsters/universalMonsterRules#_bleed)), 2 talons (2d8+16 plus [bleed](monsters/universalMonsterRules#_bleed)), wings +36 (8d8+8)
 
-**Ranged** 6 scales +31 (1d10+16_dir/19–20 plus [bleed](monsters_dir/universalMonsterRules#_bleed))
+**Ranged** 6 scales +31 (1d10+16/19–20 plus [bleed](monsters/universalMonsterRules#_bleed))
 
 **Space** 30 ft.; **Reach** 30 ft.
 
-**Special Attacks** [bleed](monsters_dir/universalMonsterRules#_bleed) (2d6), gale, ruinous, thunderbolt
+**Special Attacks** [bleed](monsters/universalMonsterRules#_bleed) (2d6), gale, ruinous, thunderbolt
 
 **Spell-Like Abilities** (CL 20th; concentration +22)
 
-3_dir/day—_ [storm of vengeance](spells_dir/stormOfVengeance#_storm-of-vengeance)_ (DC 21)
+3/day—_ [storm of vengeance](spells/stormOfVengeance#_storm-of-vengeance)_ (DC 21)
 
 Statistics
 
@@ -68,15 +68,15 @@ Statistics
 
 **Base Atk** +33; **CMB** +57; **CMD** 73
 
-**Feats** [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Flyby Attack](monsters_dir/monsterFeats#_flyby-attack), [Greater Vital Strike](feats#_greater-vital-strike), [Hover](monsters_dir/monsterFeats#_hover), [Improved Critical](feats#_improved-critical) (feathers), [Improved Critical](feats#_improved-critical) (bite), [Improved Initiative](feats#_improved-initiative), [Improved Vital Strike](feats#_improved-vital-strike), [Iron Will](feats#_iron-will), [Lightning Stance](feats#_lightning-stance), [Mobility](feats#_mobility), [Power Attack](feats#_power-attack), [Snatch](monsters_dir/monsterFeats#_snatch), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (feathers), Wind Stance
+**Feats** [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Flyby Attack](monsters/monsterFeats#_flyby-attack), [Greater Vital Strike](feats#_greater-vital-strike), [Hover](monsters/monsterFeats#_hover), [Improved Critical](feats#_improved-critical) (feathers), [Improved Critical](feats#_improved-critical) (bite), [Improved Initiative](feats#_improved-initiative), [Improved Vital Strike](feats#_improved-vital-strike), [Iron Will](feats#_iron-will), [Lightning Stance](feats#_lightning-stance), [Mobility](feats#_mobility), [Power Attack](feats#_power-attack), [Snatch](monsters/monsterFeats#_snatch), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (feathers), Wind Stance
 
-**Skills** [Fly](skills_dir/fly#_fly) +29, [Perception](skills_dir/perception#_perception) +31, [Stealth](skills_dir/stealth#_stealth) –7, [Survival](skills_dir/survival#_survival) +15; **Racial Modifiers** +20 [Fly](skills_dir/fly#_fly), +10 [Perception](skills_dir/perception#_perception)
+**Skills** [Fly](skills/fly#_fly) +29, [Perception](skills/perception#_perception) +31, [Stealth](skills/stealth#_stealth) –7, [Survival](skills/survival#_survival) +15; **Racial Modifiers** +20 [Fly](skills/fly#_fly), +10 [Perception](skills/perception#_perception)
 
 **Language** Aklo (cannot speak)
 
 Ecology
 
-**Environment** any [air](monsters_dir/creatureTypes#_air-subtype)
+**Environment** any [air](monsters/creatureTypes#_air-subtype)
 
 **Organization** solitary or pair
 
@@ -104,19 +104,19 @@ Thalassic Behemoth CR 20
 
 XP 307,200
 
-N Colossal magical beast ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype), behemoth, [water](monsters_dir/creatureTypes#_water-subtype))
+N Colossal magical beast ( [aquatic](monsters/creatureTypes#_aquatic-subtype), behemoth, [water](monsters/creatureTypes#_water-subtype))
 
-**Init** –1; **Senses** [blindsense](monsters_dir/universalMonsterRules#_blindsense) 60 ft., darkvision 60 ft..; [Perception](skills_dir/perception#_perception) +34
+**Init** –1; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 60 ft., darkvision 60 ft..; [Perception](skills/perception#_perception) +34
 
 Defense
 
 **AC** 37, touch 1, flat-footed 37 (–1 Dex, +36 natural, –8 size)
 
-**hp** 391 (29d10+232); regeneration 20 ( [fire](monsters_dir/creatureTypes#_fire-subtype))
+**hp** 391 (29d10+232); regeneration 20 ( [fire](monsters/creatureTypes#_fire-subtype))
 
 **Fort** +24, **Ref** +17, **Will** +14
 
-**Defensive Abilities** unstoppable; **DR** 15_dir/epic; **Immune** ability damage, aging, [bleed](monsters_dir/universalMonsterRules#_bleed), [cold](monsters_dir/creatureTypes#_cold-subtype), [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [energy drain](monsters_dir/universalMonsterRules#_energy-drain), [fire](monsters_dir/creatureTypes#_fire-subtype), mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), polymorph; **SR** 31
+**Defensive Abilities** unstoppable; **DR** 15/epic; **Immune** ability damage, aging, [bleed](monsters/universalMonsterRules#_bleed), [cold](monsters/creatureTypes#_cold-subtype), [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), [energy drain](monsters/universalMonsterRules#_energy-drain), [fire](monsters/creatureTypes#_fire-subtype), mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), polymorph; **SR** 31
 
 **Weaknesses** vulnerable to miracles and wishes
 
@@ -124,17 +124,17 @@ Offense
 
 **Speed** 20 ft., swim 200 ft.
 
-**Melee** bite +39 (6d6+18_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab)), 2 claws +39 (3d6+18), tail slap +34 (4d6+9 plus trip)
+**Melee** bite +39 (6d6+18/19–20 plus [grab](monsters/universalMonsterRules#_grab)), 2 claws +39 (3d6+18), tail slap +34 (4d6+9 plus trip)
 
-**Ranged** [water](monsters_dir/creatureTypes#_water-subtype) [jet](monsters_dir/universalMonsterRules#_jet) +20 (4d8+18_dir/19–20 plus stun and push)
+**Ranged** [water](monsters/creatureTypes#_water-subtype) [jet](monsters/universalMonsterRules#_jet) +20 (4d8+18/19–20 plus stun and push)
 
 **Space** 30 ft.; **Reach** 20 ft.
 
 **Spell-Like Abilities** (CL 20th; concentration +22)
 
-3_dir/day—_ [tsunami](advanced_dir/spells_dir/tsunami#_tsunami)_ (DC 21)
+3/day—_ [tsunami](advanced/spells/tsunami#_tsunami)_ (DC 21)
 
-**Special Attacks** capsize (DC 25), [fast swallow](monsters_dir/universalMonsterRules#_fast-swallow), push ( [water](monsters_dir/creatureTypes#_water-subtype) [jet](monsters_dir/universalMonsterRules#_jet), 20 ft.), rend (claws, 3d6+18), ruinous, swallow whole (4d6+27 bludgeoning, AC 28, 39 hp)
+**Special Attacks** capsize (DC 25), [fast swallow](monsters/universalMonsterRules#_fast-swallow), push ( [water](monsters/creatureTypes#_water-subtype) [jet](monsters/universalMonsterRules#_jet), 20 ft.), rend (claws, 3d6+18), ruinous, swallow whole (4d6+27 bludgeoning, AC 28, 39 hp)
 
 Statistics
 
@@ -142,9 +142,9 @@ Statistics
 
 **Base Atk** +29; **CMB** +55 (+59 grapple); **CMD** 64
 
-**Feats** [Ability Focus](monsters_dir/monsterFeats#_ability-focus) ( [water](monsters_dir/creatureTypes#_water-subtype) [jet](monsters_dir/universalMonsterRules#_jet)), [Cleave](feats#_cleave), [Great Cleave](feats#_great-cleave), [Greater Sunder](feats#_greater-sunder), [Greater Vital Strike](feats#_greater-vital-strike), [Improved Critical](feats#_improved-critical) (bite, [water](monsters_dir/creatureTypes#_water-subtype) [jet](monsters_dir/universalMonsterRules#_jet)), [Improved Iron Will](feats#_improved-iron-will), [Improved Sunder](feats#_improved-sunder), [Improved Vital Strike](feats#_improved-vital-strike), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Vital Strike](feats#_vital-strike)
+**Feats** [Ability Focus](monsters/monsterFeats#_ability-focus) ( [water](monsters/creatureTypes#_water-subtype) [jet](monsters/universalMonsterRules#_jet)), [Cleave](feats#_cleave), [Great Cleave](feats#_great-cleave), [Greater Sunder](feats#_greater-sunder), [Greater Vital Strike](feats#_greater-vital-strike), [Improved Critical](feats#_improved-critical) (bite, [water](monsters/creatureTypes#_water-subtype) [jet](monsters/universalMonsterRules#_jet)), [Improved Iron Will](feats#_improved-iron-will), [Improved Sunder](feats#_improved-sunder), [Improved Vital Strike](feats#_improved-vital-strike), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Vital Strike](feats#_vital-strike)
 
-**Skills** [Perception](skills_dir/perception#_perception) +34, [Stealth](skills_dir/stealth#_stealth) –13, [Survival](skills_dir/survival#_survival) +18, [Swim](skills_dir/swim#_swim) +30; **Racial Modifiers** +10 [Perception](skills_dir/perception#_perception)
+**Skills** [Perception](skills/perception#_perception) +34, [Stealth](skills/stealth#_stealth) –13, [Survival](skills/survival#_survival) +18, [Swim](skills/swim#_swim) +30; **Racial Modifiers** +10 [Perception](skills/perception#_perception)
 
 **SQ** amphibious
 
@@ -152,7 +152,7 @@ Statistics
 
 Ecology
 
-**Environment** any [water](monsters_dir/creatureTypes#_water-subtype)
+**Environment** any [water](monsters/creatureTypes#_water-subtype)
 
 **Organization** solitary or pair
 
@@ -160,7 +160,7 @@ Ecology
 
 Special Abilities
 
-**[Water](monsters_dir/creatureTypes#_water-subtype) [Jet](monsters_dir/universalMonsterRules#_jet) (Su)** A thalassic behemoth can blast [water](monsters_dir/creatureTypes#_water-subtype) from its blowhole with surprising force and accuracy. This [water](monsters_dir/creatureTypes#_water-subtype) [jet](monsters_dir/universalMonsterRules#_jet) has a range of 240 feet with no range penalties. A target hit by the [water](monsters_dir/creatureTypes#_water-subtype) [jet](monsters_dir/universalMonsterRules#_jet) is subject to the behemoth's push ability and must succeed at a DC 32 Fortitude save or be stunned for 1d4+1 rounds. The save DC is Constitution-based.
+**[Water](monsters/creatureTypes#_water-subtype) [Jet](monsters/universalMonsterRules#_jet) (Su)** A thalassic behemoth can blast [water](monsters/creatureTypes#_water-subtype) from its blowhole with surprising force and accuracy. This [water](monsters/creatureTypes#_water-subtype) [jet](monsters/universalMonsterRules#_jet) has a range of 240 feet with no range penalties. A target hit by the [water](monsters/creatureTypes#_water-subtype) [jet](monsters/universalMonsterRules#_jet) is subject to the behemoth's push ability and must succeed at a DC 32 Fortitude save or be stunned for 1d4+1 rounds. The save DC is Constitution-based.
 
 Sent by the gods to punish those who dwell near the sea, thalassic behemoths scourge ships and other vessels from the waters before turning their attention toward structures and survivors on land. Despite their massive bulk, thalassic behemoths swim incredibly fast and can easily outpace all but the fleetest of ships. On land, they can be more readily escaped, at least by those willing and able to leave homes and belongings behind. Though capable of surviving indefinitely on land and employing a clumsy, seal-like locomotion, thalassic behemoths soon weary of gravity's never-ending drag. They rarely venture more than a mile or two from shore before returning to the comforting buoyancy of the seas.
 
@@ -176,9 +176,9 @@ Thunder Behemoth CR 18
 
 XP 153,600
 
-N Colossal magical beast (behemoth, [earth](monsters_dir/creatureTypes#_earth-subtype))
+N Colossal magical beast (behemoth, [earth](monsters/creatureTypes#_earth-subtype))
 
-**Init** –2; **Senses** [blindsense](monsters_dir/universalMonsterRules#_blindsense) 60 ft., darkvision 60 ft., tremorsense 60 ft.; [Perception](skills_dir/perception#_perception) +27
+**Init** –2; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 60 ft., darkvision 60 ft., tremorsense 60 ft.; [Perception](skills/perception#_perception) +27
 
 Defense
 
@@ -188,7 +188,7 @@ Defense
 
 **Fort** +22, **Ref** +12, **Will** +12
 
-**Defensive Abilities** unstoppable; **DR** 15_dir/epic; **Immune** ability damage, acid, aging, [bleed](monsters_dir/universalMonsterRules#_bleed), [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [energy drain](monsters_dir/universalMonsterRules#_energy-drain), [fire](monsters_dir/creatureTypes#_fire-subtype), mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), polymorph; **SR** 29
+**Defensive Abilities** unstoppable; **DR** 15/epic; **Immune** ability damage, acid, aging, [bleed](monsters/universalMonsterRules#_bleed), [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), [energy drain](monsters/universalMonsterRules#_energy-drain), [fire](monsters/creatureTypes#_fire-subtype), mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), polymorph; **SR** 29
 
 **Weaknesses** vulnerable to miracles and wishes
 
@@ -196,7 +196,7 @@ Offense
 
 **Speed** 30 ft., burrow 30 ft.
 
-**Melee** bite +33 (4d6+16 plus [grab](monsters_dir/universalMonsterRules#_grab)), gore +33 (4d6+16), 2 stomps +28 (2d8+8 plus trip)
+**Melee** bite +33 (4d6+16 plus [grab](monsters/universalMonsterRules#_grab)), gore +33 (4d6+16), 2 stomps +28 (2d8+8 plus trip)
 
 **Ranged** 4 rocks +15 (3d6+24 plus stun)
 
@@ -204,9 +204,9 @@ Offense
 
 **Spell-Like Abilities** (CL 20th; concentration +22)
 
-3_dir/day—_ [earthquake](spells_dir/earthquake#_earthquake)_ (DC 20)
+3/day—_ [earthquake](spells/earthquake#_earthquake)_ (DC 20)
 
-**Special Attacks** [fast swallow](monsters_dir/universalMonsterRules#_fast-swallow), mighty roar, rock spitting, ruinous, swallow whole (4d6+24 bludgeoning and 4d6 [fire](monsters_dir/creatureTypes#_fire-subtype) damage, AC 27, 33 hp), [trample](monsters_dir/universalMonsterRules#_trample) (2d8+24, DC 38)
+**Special Attacks** [fast swallow](monsters/universalMonsterRules#_fast-swallow), mighty roar, rock spitting, ruinous, swallow whole (4d6+24 bludgeoning and 4d6 [fire](monsters/creatureTypes#_fire-subtype) damage, AC 27, 33 hp), [trample](monsters/universalMonsterRules#_trample) (2d8+24, DC 38)
 
 Statistics
 
@@ -214,9 +214,9 @@ Statistics
 
 **Base Atk** +25; **CMB** +49 (+53 grapple); **CMD** 57 (61 vs. trip)
 
-**Feats** [Awesome Blow](monsters_dir/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Great Cleave](feats#_great-cleave), [Greater Bull Rush](feats#_greater-bull-rush), [Greater Overrun](feats#_greater-overrun), [Greater Sunder](feats#_greater-sunder), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Overrun](feats#_improved-overrun), [Improved Sunder](feats#_improved-sunder), [Iron Will](feats#_iron-will), [Lunge](feats#_lunge), [Power Attack](feats#_power-attack), [Snatch](monsters_dir/monsterFeats#_snatch)
+**Feats** [Awesome Blow](monsters/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Great Cleave](feats#_great-cleave), [Greater Bull Rush](feats#_greater-bull-rush), [Greater Overrun](feats#_greater-overrun), [Greater Sunder](feats#_greater-sunder), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Overrun](feats#_improved-overrun), [Improved Sunder](feats#_improved-sunder), [Iron Will](feats#_iron-will), [Lunge](feats#_lunge), [Power Attack](feats#_power-attack), [Snatch](monsters/monsterFeats#_snatch)
 
-**Skills** [Perception](skills_dir/perception#_perception) +27, [Survival](skills_dir/survival#_survival) +14, [Swim](skills_dir/swim#_swim) +28; **Racial Modifiers** +10 [Perception](skills_dir/perception#_perception)
+**Skills** [Perception](skills/perception#_perception) +27, [Survival](skills/survival#_survival) +14, [Swim](skills/swim#_swim) +28; **Racial Modifiers** +10 [Perception](skills/perception#_perception)
 
 **Language** Aklo (cannot speak)
 
@@ -230,7 +230,7 @@ Ecology
 
 Special Abilities
 
-**Mighty Roar (Su)** Every 1d4 rounds as a standard action, a thunder behemoth can issue a mighty roar in a 60-foot cone that duplicates the effect of an empowered_ [greater shout](spells_dir/shout#_shout-greater)_ (Fortitude DC 30 for half damage). This is a sonic effect. The save DC is Constitution-based.
+**Mighty Roar (Su)** Every 1d4 rounds as a standard action, a thunder behemoth can issue a mighty roar in a 60-foot cone that duplicates the effect of an empowered_ [greater shout](spells/shout#_shout-greater)_ (Fortitude DC 30 for half damage). This is a sonic effect. The save DC is Constitution-based.
 
 **Rock Spitting (Ex)** A thunder behemoth can spit rocks from the essentially inexhaustible store in its gizzard. It can spit up to four rocks as a standard action, with a range increment of 60 feet. A creature that is critically hit by one of these rocks must make a DC 38 Fortitude save to resist being stunned for 1 round. The save DC is Strength-based.
 

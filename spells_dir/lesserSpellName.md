@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/lesserSpellName
+title: spells/lesserSpellName
 ---
  **Lesser (Spell Name)**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/innocence
+title: advanced/spells/innocence
 ---
  **Innocence**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/innocence
 
 **Target** you
 
-**Duration** 1 minute_dir/level (D)
+**Duration** 1 minute/level (D)
 
-You surround yourself with an aura of innocence and trustworthiness. You gain a +10 competence bonus on [Bluff](../../skills_dir/bluff#_bluff) skill checks to convince others of your innocence. They find it difficult to believe you capable of any wrongdoing. This bonus does not apply to other uses of the [Bluff](../../skills_dir/bluff#_bluff) skill, such as feinting in combat, creating a diversion to hide, or communicating secret messages via innuendo, nor does it apply to any use of the skill to convince anyone of anything other than your complete innocence and blamelessness.
+You surround yourself with an aura of innocence and trustworthiness. You gain a +10 competence bonus on [Bluff](../../skills/bluff#_bluff) skill checks to convince others of your innocence. They find it difficult to believe you capable of any wrongdoing. This bonus does not apply to other uses of the [Bluff](../../skills/bluff#_bluff) skill, such as feinting in combat, creating a diversion to hide, or communicating secret messages via innuendo, nor does it apply to any use of the skill to convince anyone of anything other than your complete innocence and blamelessness.
 

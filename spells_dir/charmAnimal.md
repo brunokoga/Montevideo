@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/charmAnimal
+title: spells/charmAnimal
 ---
  **Charm Animal**
 

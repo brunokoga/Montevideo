@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/stoneskin
+title: spells/stoneskin
 ---
  **Stoneskin**
 
-**School** abjuration; **Level** druid 5, sorcerer_dir/wizard 4
+**School** abjuration; **Level** druid 5, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -14,9 +14,9 @@ title: spells_dir/stoneskin
 
 **Target** creature touched
 
-**Duration** 10 min._dir/level or until discharged
+**Duration** 10 min./level or until discharged
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 
-The warded creature gains resistance to blows, cuts, stabs, and slashes. The subject gains [DR](../glossary#_damage-reduction) 10_dir/adamantine. It ignores the first 10 points of damage each time it takes damage from a weapon, though an adamantine weapon bypasses the reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 150 points), it is discharged.
+The warded creature gains resistance to blows, cuts, stabs, and slashes. The subject gains [DR](../glossary#_damage-reduction) 10/adamantine. It ignores the first 10 points of damage each time it takes damage from a weapon, though an adamantine weapon bypasses the reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 150 points), it is discharged.
 

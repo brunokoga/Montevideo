@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3_dir/vampire
+title: bestiary3/vampire
 ---
 # Vampire, Jiang-Shi
 
@@ -10,11 +10,11 @@ Jiang-shi CR 6
 
 XP 2,400
 
-[Human](monsters_dir/creatureTypes#_human-subtype) jiang-shi monk 5
+[Human](monsters/creatureTypes#_human-subtype) jiang-shi monk 5
 
-LE Medium undead ( [augmented](monsters_dir/creatureTypes#_augmented-subtype) humanoid)
+LE Medium undead ( [augmented](monsters/creatureTypes#_augmented-subtype) humanoid)
 
-**Init** +10; **Senses** [blindsight](monsters_dir/universalMonsterRules#_blindsight) 60 ft. (breathing creatures only), darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +22
+**Init** +10; **Senses** [blindsight](monsters/universalMonsterRules#_blindsight) 60 ft. (breathing creatures only), darkvision 60 ft.; [Perception](skills/perception#_perception) +22
 
 Defense
 
@@ -24,7 +24,7 @@ Defense
 
 **Fort** +8, **Ref** +11, **Will** +9; +2 vs. enchantment
 
-**Defensive Abilities** channel [resistance](monsters_dir/universalMonsterRules#_resistance) +4, evasion, prayer scroll; **DR** 10_dir/magic and slashing; **Immune** [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), spell completion and spell trigger effects, undead traits; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 20
+**Defensive Abilities** channel [resistance](monsters/universalMonsterRules#_resistance) +4, evasion, prayer scroll; **DR** 10/magic and slashing; **Immune** [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), spell completion and spell trigger effects, undead traits; **Resist** [cold](monsters/creatureTypes#_cold-subtype) 20
 
 **Weaknesses** jiang-shi weaknesses
 
@@ -32,9 +32,9 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** flurry of blows +9_dir/+9 (1d8+3_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab)), bite +4 (1d6+4)
+**Melee** flurry of blows +9/+9 (1d8+3/19–20 plus [grab](monsters/universalMonsterRules#_grab)), bite +4 (1d6+4)
 
-**Special Attacks** brutal claws, drain chi (DC 15), flurry of blows, stunning fist (5_dir/day, DC 16)
+**Special Attacks** brutal claws, drain chi (DC 15), flurry of blows, stunning fist (5/day, DC 16)
 
 Statistics
 
@@ -42,9 +42,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +8 (+12 grapple); **CMD** 28 (can't be tripped)
 
-**Feats** [Alertness](feats#_alertness)B, [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge)B, [Improved Initiative](feats#_improved-initiative), [Improved Unarmed Strike](feats#_improved-unarmed-strike), [Mobility](feats#_mobility)B, [Skill Focus](feats#_skill-focus) ( [Acrobatics](skills_dir/acrobatics#_acrobatics))B, [Spring Attack](feats#_spring-attack)B, [Stunning Fist](classes_dir/monk#_stunning-fist), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Alertness](feats#_alertness)B, [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge)B, [Improved Initiative](feats#_improved-initiative), [Improved Unarmed Strike](feats#_improved-unarmed-strike), [Mobility](feats#_mobility)B, [Skill Focus](feats#_skill-focus) ( [Acrobatics](skills/acrobatics#_acrobatics))B, [Spring Attack](feats#_spring-attack)B, [Stunning Fist](classes/monk#_stunning-fist), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +25 (+30 when jumping), [Escape Artist](skills_dir/escapeArtist#_escape-artist) +14, [Perception](skills_dir/perception#_perception) +22, [Sense Motive](skills_dir/senseMotive#_sense-motive) +14, [Stealth](skills_dir/stealth#_stealth) +22, [Swim](skills_dir/swim#_swim) +11; **Racial Modifiers** +8 [Acrobatics](skills_dir/acrobatics#_acrobatics), +8 [Perception](skills_dir/perception#_perception), +8 [Stealth](skills_dir/stealth#_stealth)
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +25 (+30 when jumping), [Escape Artist](skills/escapeArtist#_escape-artist) +14, [Perception](skills/perception#_perception) +22, [Sense Motive](skills/senseMotive#_sense-motive) +14, [Stealth](skills/stealth#_stealth) +22, [Swim](skills/swim#_swim) +11; **Racial Modifiers** +8 [Acrobatics](skills/acrobatics#_acrobatics), +8 [Perception](skills/perception#_perception), +8 [Stealth](skills/stealth#_stealth)
 
 **Languages** Common
 
@@ -56,7 +56,7 @@ Ecology
 
 **Organization** solitary or brotherhood (2–8)
 
-**Treasure** NPC gear (_ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _potion of invisibility_, alchemist's fire [6])
+**Treasure** NPC gear (_ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, _potion of invisibility_, alchemist's fire [6])
 
 Jiang-shis (often known as “hopping vampires”) are undead humanoid creatures that feed on the exhaled life energy of the living. A jiang-shi's appearance is based on the state of the creature's corpse at the time of its reanimation. Regardless of the state of decay, most jiang-shis wear clothing or armor that is at least one generation out of style. Additionally, each has a short parchment prayer scroll affixed to its brow by stitches; originally intended to protect the body from restless spirits, this scroll grants a jiang-shi immunity to magical effects unleashed by items like scrolls and wands.
 
@@ -78,7 +78,7 @@ A jiang-shi is created when a restless spirit does not leave its corpse at the t
 
 **Hit Dice** : Change all racial Hit Dice to d8s. Class Hit Dice are unaffected. As undead, jiang-shis use their Charisma modifier to determine bonus hit points (instead of Constitution).
 
-**Defensive Abilities** : A jiang-shi gains channel resistance +4, DR 10_dir/magic and slashing, and resistance to cold 20, in addition to all of the defensive abilities granted by the undead type. A jiang-shi also gains fast healing 5. In addition, all jiang-shis gain the following defensive ability.
+**Defensive Abilities** : A jiang-shi gains channel resistance +4, DR 10/magic and slashing, and resistance to cold 20, in addition to all of the defensive abilities granted by the undead type. A jiang-shi also gains fast healing 5. In addition, all jiang-shis gain the following defensive ability.
 
 _Prayer Scroll (Su)_: The scroll attached to the brow of a jiang-shi grants immunity to any effects generated from spell-completion or spell-trigger magic items, such as scrolls and wands. Such magical effects treat the jiang-shi as if it had unbeatable spell resistance. A jiang-shi‘s prayer scroll can be removed with a successful steal combat maneuver (_Advanced Player's Guide_ 322), which immediately ends the jiang-shi's immunity to these effects. If a jiang-shi's prayer scroll is destroyed (a standard action), the vampire also loses its fast healing ability. A jiang-shi may create a replacement prayer scroll by using any strip of parchment and a writing instrument, but doing so requires 10 minutes of uninterrupted work.
 
@@ -90,7 +90,7 @@ _Destroying a Jiang-Shi_: If reduced to 0 hit points, a jiang-shi vampire crumbl
 
 **Melee** : A jiang-shi gains a bite attack and 2 claw attacks if the base creature didn't have them. Damage for the bite attack depends on the jiang-shi's size, but its claw attacks do damage as a creature two size categories larger. For a Medium jiang-shi, a bite attack deals 1d6 points of damage and a claw attack deals 1d8 points of damage. A jiang-shi's claws are even more dangerous than this, though—see the “brutal claws” special attack below. A jiang-shi's natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-**Special Attacks** : A jiang-shi gains several special attacks. Save DCs are equal to 10 + 1_dir/2 the jiang-shi's Hit Dice + the jiang-shi's Charisma modifier unless otherwise noted.
+**Special Attacks** : A jiang-shi gains several special attacks. Save DCs are equal to 10 + 1/2 the jiang-shi's Hit Dice + the jiang-shi's Charisma modifier unless otherwise noted.
 
 _Brutal Claws (Ex)_: A jiang-shi's nails are brutally sharp and can extend and retract at will. They threaten a critical hit on a roll of 19–20 and grant the grab ability. A jiang-shi with monk levels gains this enhanced critical threat range and grab ability with its unarmed attacks, and uses its unarmed monk damage or its claw damage, whichever is higher, when making such attacks.
 
@@ -98,7 +98,7 @@ _Drain Chi (Su)_: Instead of draining blood, a jiang-shi vampire drains “chi,�
 
 **Ability Scores** : Str +4, Dex +6, Int +2, Wis +4, Cha +2. As an undead creature, a jiang-shi has no Constitution score.
 
-**Feats** : Jiang-shis gain [Alertness](feats#_alertness), [Dodge](feats#_dodge), [Mobility](feats#_mobility), [Skill Focus](feats#_skill-focus) ( [Acrobatics](skills_dir/acrobatics#_acrobatics)), and [Spring Attack](feats#_spring-attack) as bonus feats.
+**Feats** : Jiang-shis gain [Alertness](feats#_alertness), [Dodge](feats#_dodge), [Mobility](feats#_mobility), [Skill Focus](feats#_skill-focus) ( [Acrobatics](skills/acrobatics#_acrobatics)), and [Spring Attack](feats#_spring-attack) as bonus feats.
 
-**Skills** : Jiang-shis gain a +8 racial bonus on [Acrobatics](skills_dir/acrobatics#_acrobatics), [Perception](skills_dir/perception#_perception), and [Stealth](skills_dir/stealth#_stealth) checks.
+**Skills** : Jiang-shis gain a +8 racial bonus on [Acrobatics](skills/acrobatics#_acrobatics), [Perception](skills/perception#_perception), and [Stealth](skills/stealth#_stealth) checks.
 

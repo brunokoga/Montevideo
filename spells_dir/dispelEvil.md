@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/dispelEvil
+title: spells/dispelEvil
 ---
  **Dispel Evil**
 
@@ -14,7 +14,7 @@ title: spells_dir/dispelEvil
 
 **Target or Targets** you and a touched evil creature from another plane, or you and an enchantment or evil spell on a touched creature or object
 
-**Duration** 1 round_dir/level or until discharged, whichever comes first
+**Duration** 1 round/level or until discharged, whichever comes first
 
 **Saving Throw** see text; **[Spell Resistance](../glossary#_spell-resistance)** see text
 

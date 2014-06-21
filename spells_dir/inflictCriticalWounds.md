@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spells_dir/inflictCriticalWounds
+title: spells/inflictCriticalWounds
 ---
  **Inflict Critical Wounds**
 

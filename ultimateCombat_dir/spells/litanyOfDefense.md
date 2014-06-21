@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCombat_dir/spells_dir/litanyOfDefense
+title: ultimateCombat/spells/litanyOfDefense
 ---
 Litany of Defense
 

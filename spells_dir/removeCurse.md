@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/removeCurse
+title: spells/removeCurse
 ---
  **Remove Curse**
 
-**School** abjuration; **Level** bard 3, cleric 3, paladin 3, sorcerer_dir/wizard 4
+**School** abjuration; **Level** bard 3, cleric 3, paladin 3, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 

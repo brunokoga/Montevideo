@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/arcaneEye
+title: spells/arcaneEye
 ---
  **Arcane Eye**
 
-**School** divination (scrying); **Level** sorcerer_dir/wizard 4
+**School** divination (scrying); **Level** sorcerer/wizard 4
 
 **Casting Time** 10 minutes
 
@@ -14,7 +14,7 @@ title: spells_dir/arcaneEye
 
 **Effect** magical sensor
 
-**Duration** 1 min._dir/level (D)
+**Duration** 1 min./level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/forceHookCharge
+title: ultimateMagic/spells/forceHookCharge
 ---
 Force Hook Charge
 
@@ -10,7 +10,7 @@ Force Hook Charge
 
 **Components** V, S
 
-**Range** close (25 feet + 5 feet_dir/2 levels)
+**Range** close (25 feet + 5 feet/2 levels)
 
 **Target** one creature or object within range and you
 

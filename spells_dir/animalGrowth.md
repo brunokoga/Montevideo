@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spells_dir/animalGrowth
+title: spells/animalGrowth
 ---
  **Animal Growth**
 
-**School** transmutation; **Level** druid 5, ranger 4, sorcerer_dir/wizard 5
+**School** transmutation; **Level** druid 5, ranger 4, sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Target** one animal (Gargantuan or smaller)
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

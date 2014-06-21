@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spells_dir/magicWeapon
+title: spells/magicWeapon
 ---
  **Magic Weapon**
 
-**School** transmutation; **Level** cleric 1, paladin 1, sorcerer_dir/wizard 1
+**School** transmutation; **Level** cleric 1, paladin 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spells_dir/magicWeapon
 
 **Target** weapon touched
 
-**Duration** 1 min._dir/level
+**Duration** 1 min./level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless, object); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless, object)
 
@@ -24,17 +24,17 @@ You can't cast this spell on a natural weapon, such as an unarmed strike (instea
 
 **Magic Weapon, Greater**
 
-**School** transmutation; **Level** cleric 4, paladin 3, sorcerer_dir/wizard 3
+**School** transmutation; **Level** cleric 4, paladin 3, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M_dir/DF (powdered lime and carbon)
+**Components** V, S, M/DF (powdered lime and carbon)
 
-**Range** close (25 ft. + 5 ft._dir/2 levels)
+**Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one weapon or 50 projectiles (all of which must be together at the time of casting)
 
-**Duration** 1 hour_dir/level
+**Duration** 1 hour/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless, object); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless, object)
 

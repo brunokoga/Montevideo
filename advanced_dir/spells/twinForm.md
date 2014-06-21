@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/twinForm
+title: advanced/spells/twinForm
 ---
  **Twin Form**
 
@@ -14,7 +14,7 @@ title: advanced_dir/spells_dir/twinForm
 
 **Target** you
 
-**Duration** 1 round_dir/level or until discharged (D)
+**Duration** 1 round/level or until discharged (D)
 
 This extract splits a perfect double of yourself from your body, dressed and equipped exactly as you are. You are able to shift your consciousness from one body to the other once each round as a free action. This shift takes place either immediately before your turn or immediately after it, but not during the round. You may act normally in the body you inhabit. Your other self is treated as though dazed, except it may take a single move action each round during your turn. Your twin cannot speak while you are in your other body, and cannot flank, make attacks of opportunity, or otherwise threaten enemies.
 
@@ -22,5 +22,5 @@ Both you and your twin have the same statistics and start with the number of hit
 
 The body you do not inhabit crumbles into dust when the extract's duration expires or is dismissed. If the body you inhabit is destroyed, you immediately shift to your surviving self and the extract immediately ends. The body you left behind crumbles into dust, and you are stunned until the start of your next turn. If the body you do not inhabit is destroyed, the extract also ends immediately, but you suffer no ill effects.
 
-You have no special ability to sense what your second body is experiencing, though you immediately know if it has been destroyed. You may switch between bodies at any distance on the same plane. If your bodies cross into separate planes (including through the use of _ [teleport](../../spells_dir/teleport#_teleport)_ or _ [blink](../../spells_dir/blink#_blink)_), the body you inhabit survives, while your other body is destroyed.
+You have no special ability to sense what your second body is experiencing, though you immediately know if it has been destroyed. You may switch between bodies at any distance on the same plane. If your bodies cross into separate planes (including through the use of _ [teleport](../../spells/teleport#_teleport)_ or _ [blink](../../spells/blink#_blink)_), the body you inhabit survives, while your other body is destroyed.
 

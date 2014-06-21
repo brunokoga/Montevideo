@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/bodyWords
+title: ultimateMagic/wordsOfPower/effectwords/bodyWords
 ---
 ## Body Words
 
@@ -8,9 +8,9 @@ Body words enhance the form of their targets, making them stronger, more agile, 
 
 Fortify (Body)
 
-**School** abjuration; **Level** alchemist 1, cleric 1, inquisitor 1, paladin 1, ranger 1, sorcerer_dir/wizard 1, summoner 1
+**School** abjuration; **Level** alchemist 1, cleric 1, inquisitor 1, paladin 1, ranger 1, sorcerer/wizard 1, summoner 1
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -20,9 +20,9 @@ The target of a wordspell with this effect word receives a +1 resistance bonus o
 
 Energy Resistance (Body)
 
-**School** abjuration; **Level** alchemist 2, cleric 2, druid 2, inquisitor 2, paladin 2, ranger 1, sorcerer_dir/wizard 2, summoner 2
+**School** abjuration; **Level** alchemist 2, cleric 2, druid 2, inquisitor 2, paladin 2, ranger 1, sorcerer/wizard 2, summoner 2
 
-**Duration** 10 minutes_dir/level
+**Duration** 10 minutes/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -34,9 +34,9 @@ The target of a wordspell with this effect word gains resistance 10 to one energ
 
 Enhance Form (Body)
 
-**School** transmutation; **Level** alchemist 2, bard 2, cleric 2, druid 2, magus 2, paladin 2, ranger 2, sorcerer_dir/wizard 2, summoner 2
+**School** transmutation; **Level** alchemist 2, bard 2, cleric 2, druid 2, magus 2, paladin 2, ranger 2, sorcerer/wizard 2, summoner 2
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -46,9 +46,9 @@ The target of a wordspell with this effect receives a +4 enhancement bonus to ei
 
 Perfect Form (Body)
 
-**School** transmutation; **Level** alchemist 4, bard 4, cleric 4, druid 4, magus 4, sorcerer_dir/wizard 4, summoner 4
+**School** transmutation; **Level** alchemist 4, bard 4, cleric 4, druid 4, magus 4, sorcerer/wizard 4, summoner 4
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -58,9 +58,9 @@ The target of a wordspell with this effect word receives a +4 enhancement to Str
 
 Energy Immunity (Body)
 
-**School** abjuration; **Level** alchemist 6, cleric 6, druid 6, inquisitor 6, sorcerer_dir/wizard 6, summoner 6
+**School** abjuration; **Level** alchemist 6, cleric 6, druid 6, inquisitor 6, sorcerer/wizard 6, summoner 6
 
-**Duration** 1 round_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

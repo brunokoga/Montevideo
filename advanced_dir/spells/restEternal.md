@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advanced_dir/spells_dir/restEternal
+title: advanced/spells/restEternal
 ---
  **Rest Eternal**
 
@@ -8,7 +8,7 @@ title: advanced_dir/spells_dir/restEternal
 
 **Casting Time** 1 round
 
-**Components** V, S, M_dir/DF (ashes and a vial of holy or unholy water)
+**Components** V, S, M/DF (ashes and a vial of holy or unholy water)
 
 **Range** touch
 
@@ -18,5 +18,5 @@ title: advanced_dir/spells_dir/restEternal
 
 **Saving Throw** none; **Spell Resistance** no
 
-You place a curse upon a dead creature that bars its spirit from returning. Anyone casting a spell that would communicate with the dead creature, return it to life, or turn it into an undead creature must succeed on a caster level check with a DC of 11 plus your caster level. _Rest eternal_ cannot be dispelled, but it can be negated with _ [remove curse](../../spells_dir/removeCurse#_remove-curse)_ or _ [break enchantment](../../spells_dir/breakEnchantment#_break-enchantment)_.
+You place a curse upon a dead creature that bars its spirit from returning. Anyone casting a spell that would communicate with the dead creature, return it to life, or turn it into an undead creature must succeed on a caster level check with a DC of 11 plus your caster level. _Rest eternal_ cannot be dispelled, but it can be negated with _ [remove curse](../../spells/removeCurse#_remove-curse)_ or _ [break enchantment](../../spells/breakEnchantment#_break-enchantment)_.
 

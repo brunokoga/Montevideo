@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monsters_dir/flytrap
+title: monsters/flytrap
 ---
 # Flytrap, Giant
 
@@ -12,7 +12,7 @@ _This towering plant is a mass of vines and barbs. Several stalks are horribly m
 
 N Huge [plant](creatureTypes#_plant)
 
-**Init** +8; **Senses** low-light vision, [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skills_dir/perception#_perception) +10
+**Init** +8; **Senses** low-light vision, [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skills/perception#_perception) +10
 
 **Defense**
 
@@ -40,9 +40,9 @@ N Huge [plant](creatureTypes#_plant)
 
 **Base Atk** +9; **CMB** +18 (+22 grapple); **CMD** 32 (can't be tripped)
 
-**Feats** [Cleave](../feats#_cleave), [Great Fortitude](../feats#_great-fortitude), [Improved Initiative](../feats#_improved-initiative), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth)), [Vital Strike](../feats#_vital-strike), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Cleave](../feats#_cleave), [Great Fortitude](../feats#_great-fortitude), [Improved Initiative](../feats#_improved-initiative), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills/stealth#_stealth)), [Vital Strike](../feats#_vital-strike), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +9 (+17 in undergrowth); **Racial Modifiers** +8 [Stealth](../skills_dir/stealth#_stealth) in undergrowth
+**Skills** [Perception](../skills/perception#_perception) +10, [Stealth](../skills/stealth#_stealth) +9 (+17 in undergrowth); **Racial Modifiers** +8 [Stealth](../skills/stealth#_stealth) in undergrowth
 
 **Ecology**
 

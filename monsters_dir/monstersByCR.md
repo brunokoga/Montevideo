@@ -1,28 +1,28 @@
 ---
 layout: default
-title: monsters_dir/monstersByCR
+title: monsters/monstersByCR
 ---
 # Monsters by CR
 
 The following section lists all monsters included in this book, alphabetically by CR. Variant monsters (such as the alternate versions of iron cobras and the various giant vermin of alternate sizes) are not included in this list—an index of these monsters appears instead in [the Variant Monster List](variantMonsterIndex). In the case of templates, like skeletons and ghosts, only the sample creature presented with a full stat block at the start of the template's entry in this book are included. Similarly, for dragons, only those that have full stat blocks presented in this book are listed on the following tables (young, adult, and ancient dragons)—dragons of other age categories are not included on these lists.
 
-**CR 1_dir/8**
+**CR 1/8**
 
 [bat](familiar#_bat), [toad](familiar#_toad)
 
-**CR 1_dir/6**
+**CR 1/6**
 
 [lizard](familiar#_lizard), [raven](familiar#_raven)
 
-**CR 1_dir/4**
+**CR 1/4**
 
 [cat](familiar#_cat), [kobold](kobold#_kobold), [mite](mite#_mite), [monkey](familiar#_monkey), [rat](familiar#_rat)
 
-**CR 1_dir/3**
+**CR 1/3**
 
 [dire rat](rat#_rat-dire), [dog](dog#_dog), [drow](drow#_drow), [duergar](duergar#_duergar), [fire beetle](beetle#_beetle-fire), [goblin](goblin#_goblin), [hawk](familiar#_hawk), [merfolk](merfolk#_merfolk), [orc](orc#_orc), [owl](familiar#_owl), [skeleton](skeleton#_skeleton) (human)
 
-**CR 1_dir/2**
+**CR 1/2**
 
 [aasimar](aasimar#_aasimar), [dolphin](dolphin#_dolphin), [eagle](eagle#_eagle), [giant centipede](centipede#_centipede-giant), [hobgoblin](hobgoblin#_hobgoblin), [poison frog](frog#_frog-poison), [pony](horse#_horse-pony), [riding dog](dog#_dog-riding), [stirge](stirge#_stirge), [tengu](tengu#_tengu), [tiefling](tiefling#_tiefling), [vegepygmy](vegepygmy#_vegepygmy), [viper](familiar#_viper), [weasel](familiar#_weasel), [zombie](zombie#_zombie) (human)
 

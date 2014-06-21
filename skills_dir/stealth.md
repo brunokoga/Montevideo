@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skills_dir/stealth
+title: skills/stealth
 ---
 # Stealth
 

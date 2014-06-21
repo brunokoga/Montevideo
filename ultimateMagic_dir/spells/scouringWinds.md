@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagic_dir/spells_dir/scouringWinds
+title: ultimateMagic/spells/scouringWinds
 ---
 Scouring Winds
 
-**School** evocation [air, earth]; **Level** druid 7, sorcerer_dir/wizard 7, witch 7
+**School** evocation [air, earth]; **Level** druid 7, sorcerer/wizard 7, witch 7
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft._dir/level)
+**Range** medium (100 ft. + 10 ft./level)
 
 **Effect** sandstorm in 20-ft. radius, 20 ft. high
 
-**Duration** 1 round_dir/level (D)
+**Duration** 1 round/level (D)
 
 **Saving Throw** none; **Spell Resistance** yes (see text)
 
