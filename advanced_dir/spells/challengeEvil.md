@@ -1,9 +1,9 @@
 ---
-title: advanced/spell_dir/challengeEvil
+title: advance_dir/spells/challengeEvil
 ---
  **Challenge Evil**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** paladin 1
+**School** enchantment (compulsion) [mind-affecting]; **Level** paladin 1
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: advanced/spell_dir/challengeEvil
 
 **Target** one evil creature
 
-**Duration** 1 minut_dir/level (D
+**Duration** 1 minut_dir/level (D)
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

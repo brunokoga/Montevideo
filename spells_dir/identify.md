@@ -1,19 +1,19 @@
 ---
-title: spells/identify
+title: spell_dir/identify
 ---
  **Identify**
 
-**School** divination; **Level** bard 1, sorcere_dir/wizard 1
+**School** divination; **Level** bard 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (wine stirred with an owl's feather
+**Components** V, S, M (wine stirred with an owl's feather)
 
 **Range** 60 ft.
 
 **Area** cone-shaped emanation
 
-**Duration** 3 round_dir/level (D
+**Duration** 3 round_dir/level (D)
 
 **Saving Throw** : none; **[Spell Resistance](../glossary#_spell-resistance)** : no
 

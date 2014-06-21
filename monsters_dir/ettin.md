@@ -9,7 +9,7 @@ _This lumbering, filthy, two-headed giant wears tattered remnants of leather arm
 
 **XP 2,400**
 
-CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
+CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
 
 **Init** +3; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +12
 
@@ -17,7 +17,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **AC** 18, touch 8, flat-footed 18; (+2 armor, –1 Dex, +8 natural, –1 size)
 
-**hp** 65 (10d8+20
+**hp** 65 (10d8+20)
 
 **Fort** +9, **Ref** +2, **Will** +5
 
@@ -41,7 +41,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Feats** [Cleave](../feats#_cleave), [Improved Initiative](../feats#_improved-initiative), [Improved Overrun](../feats#_improved-overrun), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack)
 
-**Skills** [Handle Animal](../skill_dir/handleAnimal#_handle-animal +8, [Perception](../skill_dir/perception#_perception +12; **Racial Modifiers** +4 on [Perception](../skill_dir/perception#_perception)
+**Skills** [Handle Animal](../skill_dir/handleAnimal#_handle-animal) +8, [Perception](../skill_dir/perception#_perception) +12; **Racial Modifiers** +4 on [Perception](../skill_dir/perception#_perception)
 
 **Languages** pidgin of Giant, Goblin, and Orc
 
@@ -51,7 +51,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Organization** solitary, pair, gang (3–6), troupe (1–2 plus 1–2 brown bears), band (3–6 plus 1–2 brown bears), or colony (3–6 plus 1–2 brown bears and 7–12 orcs or 9–16 goblins)
 
-**Treasure** standard (leather armor, 2 flails, 4 javelins, other treasure
+**Treasure** standard (leather armor, 2 flails, 4 javelins, other treasure)
 
 **Special Abilities**
 

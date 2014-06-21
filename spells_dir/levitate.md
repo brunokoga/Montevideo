@@ -1,13 +1,13 @@
 ---
-title: spells/levitate
+title: spell_dir/levitate
 ---
  **Levitate**
 
-**School** transmutation; **Level** sorcere_dir/wizard 2
+**School** transmutation; **Level** sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a leather loop or golden wire bent into a cup shape
+**Components** V, S, F (a leather loop or golden wire bent into a cup shape)
 
 **Range** personal or close (25 ft. + 5 ft./2 levels)
 

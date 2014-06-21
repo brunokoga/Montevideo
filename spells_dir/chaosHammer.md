@@ -1,5 +1,5 @@
 ---
-title: spells/chaosHammer
+title: spell_dir/chaosHammer
 ---
  **Chaos Hammer**
 

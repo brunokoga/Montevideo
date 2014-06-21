@@ -11,7 +11,7 @@ _This giant, furry bat is nearly the size of an ox, with dark leathery wings tha
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** [blindsense](universalMonsterRules#_blindsense 40 ft.; **[Perception](../skill_dir/perception#_perception)** +12
+**Init** +2; **Senses** [blindsense](universalMonsterRules#_blindsense) 40 ft.; **[Perception](../skill_dir/perception#_perception)** +12
 
 **Defense**
 
@@ -25,7 +25,7 @@ N Large [animal](creatureTypes#_animal)
 
 **Speed** 20 ft., fly 40 ft. (good)
 
-**Melee** bite +5 (1d8+4
+**Melee** bite +5 (1d8+4)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -37,7 +37,7 @@ N Large [animal](creatureTypes#_animal)
 
 **Feats** [Alertness](../feats#_alertness), [Stealthy](../feats#_stealthy)
 
-**Skills** [Fly](../skill_dir/fly#_fly +9, [Perception](../skill_dir/perception#_perception +12, [Stealth](../skill_dir/stealth#_stealth +4; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception) when using [blindsense](universalMonsterRules#_blindsense)
+**Skills** [Fly](../skill_dir/fly#_fly) +9, [Perception](../skill_dir/perception#_perception) +12, [Stealth](../skill_dir/stealth#_stealth) +4; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception) when using [blindsense](universalMonsterRules#_blindsense)
 
 **Ecology**
 
@@ -74,7 +74,7 @@ _Hundreds of high-pitched squeaks fill the air as a mass of small, carnivorous b
 
 N Diminutive [animal](creatureTypes#_animal) ( [swarm](creatureTypes#_swarm-subtype))
 
-**Init** +2; **Senses** [blindsense](universalMonsterRules#_blindsense 20 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +15
+**Init** +2; **Senses** [blindsense](universalMonsterRules#_blindsense) 20 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +15
 
 **Defense**
 
@@ -94,7 +94,7 @@ N Diminutive [animal](creatureTypes#_animal) ( [swarm](creatureTypes#_swarm-subt
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** distraction (DC 11, wounding
+**Special Attacks** distraction (DC 11), wounding
 
 **Statistics**
 
@@ -102,9 +102,9 @@ N Diminutive [animal](creatureTypes#_animal) ( [swarm](creatureTypes#_swarm-subt
 
 **Base Atk** +2; **CMB** —; **CMD** —
 
-**Feats** [Lightning Reflexes](../feats#_lightning-reflexes), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Lightning Reflexes](../feats#_lightning-reflexes), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Fly](../skill_dir/fly#_fly +12, [Perception](../skill_dir/perception#_perception +15; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception) when using [blindsense](universalMonsterRules#_blindsense)
+**Skills** [Fly](../skill_dir/fly#_fly) +12, [Perception](../skill_dir/perception#_perception) +15; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception) when using [blindsense](universalMonsterRules#_blindsense)
 
 **SQ** swarm traits
 
@@ -118,7 +118,7 @@ N Diminutive [animal](creatureTypes#_animal) ( [swarm](creatureTypes#_swarm-subt
 
 **Special Features**
 
-**Wounding (Ex)** Any living creature damaged by a bat swarm continues to [bleed](universalMonsterRules#_bleed, losing 1 hit point per round thereafter. Multiple wounds do not result in cumulative bleeding loss. The bleeding can be stopped by a DC 10 [Heal](../skill_dir/heal#_heal check or the application of a cure spell or some other healing magic.
+**Wounding (Ex)** Any living creature damaged by a bat swarm continues to [bleed](universalMonsterRules#_bleed), losing 1 hit point per round thereafter. Multiple wounds do not result in cumulative bleeding loss. The bleeding can be stopped by a DC 10 [Heal](../skill_dir/heal#_heal) check or the application of a cure spell or some other healing magic.
 
 Bat swarms dwell in large caves, ruins, or even city sewers—anywhere they can find darkness to hide in during the day and a supply of food to feast upon at night. They are only encountered outside in a group at dawn or dusk, or when they have been startled and forced to flee their lairs.
 

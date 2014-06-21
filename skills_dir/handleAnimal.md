@@ -1,5 +1,5 @@
 ---
-title: skills/handleAnimal
+title: skill_dir/handleAnimal
 ---
 # Handle Animal
 

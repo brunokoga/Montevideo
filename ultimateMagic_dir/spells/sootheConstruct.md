@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/sootheConstruct
+title: ultimateMagi_dir/spells/sootheConstruct
 ---
 Soothe Construct
 
-**School** abjuration; **Level** cleric 4, sorcerer/wizard 5
+**School** abjuration; **Level** cleric 4, sorcere_dir/wizard 5
 
 **Casting Time** 1 round
 

@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/twigjack
+title: additionalMonster_dir/twigjack
 ---
 # Twigjack
 
@@ -9,19 +9,19 @@ This tiny, vaguely humanoid creature seems to be made completely of bundles of s
 
 **XP 800**
 
-CE Tiny [fey](monster_dir/creatureTypes#_fey
+CE Tiny [fey](monsters/creatureTypes#_fey)
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +10
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +10
 
 Defense
 
 **AC** 17, touch 15, flat-footed 14 (+3 Dex, +2 natural, +2 size)
 
-**hp** 27 (5d6+10
+**hp** 27 (5d6+10)
 
 **Fort** +3, **Ref** +7, **Will** +6
 
-**Weaknesses** vulnerable to [fire](monster_dir/creatureTypes#_fire-subtype
+**Weaknesses** vulnerable to [fire](monsters/creatureTypes#_fire-subtype)
 
 Offense
 
@@ -39,9 +39,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +3; **CMD** 12
 
-**Feats** [Agile Maneuvers](additionalMonsters/../feats#_agile-maneuvers), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonsters/../skill_dir/stealth#_stealth), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Agile Maneuvers](additionalMonster_dir/../feats#_agile-maneuvers), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Stealth](additionalMonster_dir/../skill_dir/stealth#_stealth)), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics +11, [Climb](additionalMonsters/../skill_dir/climb#_climb +7, [Disable Device](additionalMonsters/../skill_dir/disableDevice#_disable-device +8, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (nature +8, [Perception](additionalMonsters/../skill_dir/perception#_perception +10, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +22
+**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +11, [Climb](additionalMonsters/../skill_dir/climb#_climb) +7, [Disable Device](additionalMonsters/../skill_dir/disableDevice#_disable-device) +8, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (nature) +8, [Perception](additionalMonsters/../skill_dir/perception#_perception) +10, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +22
 
 **Languages** Common, Sylvan
 
@@ -57,9 +57,9 @@ Ecology
 
 Special Abilities
 
-**Bramble Jump (Su** A twigjack can travel short distances between brambles, shrubs, or thickets as if via _ [dimension door](additionalMonsters/../spell_dir/dimensionDoor#_dimension-door)_ as part of a move action. The twigjack must begin and end this movement while in an area of at least light undergrowth. The twigjack can travel in this manner up to 60 feet per day. This movement must be used in 10-foot increments and does not provoke attacks of opportunity.
+**Bramble Jump (Su)** A twigjack can travel short distances between brambles, shrubs, or thickets as if via _ [dimension door](additionalMonsters/../spell_dir/dimensionDoor#_dimension-door)_ as part of a move action. The twigjack must begin and end this movement while in an area of at least light undergrowth. The twigjack can travel in this manner up to 60 feet per day. This movement must be used in 10-foot increments and does not provoke attacks of opportunity.
 
-**Splinterspray (Ex** A twigjack can eject a barrage of splinters and brambles from its body three times per day as a standard action. This effect creates a 15-foot conical burst of jagged splinters, dealing 4d6 points of piercing damage to all creatures in the area. A DC 14 Reflex saving throw halves this damage. The save DC is Constitution-based.
+**Splinterspray (Ex)** A twigjack can eject a barrage of splinters and brambles from its body three times per day as a standard action. This effect creates a 15-foot conical burst of jagged splinters, dealing 4d6 points of piercing damage to all creatures in the area. A DC 14 Reflex saving throw halves this damage. The save DC is Constitution-based.
 
 Deep in old-growth forests, twigjacks spend their time tormenting intruders and wreaking havoc on settlers. Maladjusted protectors of the wood, these malicious fey constantly threaten any attempts to civilize the wild. Twigjacks delight in breaking wagon wheels from expansionists' caravans, snapping hunters' bows, and sabotaging isolated cabins and villages. Although they possess a keen intellect, few creatures, even other fey, can tolerate these twig-born creatures for long. Treants especially find twigjacks bothersome, and resent any suggestion that they are related. Equally,   
 twigjacks resent being considered plants, and are proud   

@@ -1,5 +1,5 @@
 ---
-title: monsters/vegepygmy
+title: monster_dir/vegepygmy
 ---
 # Vegepygmy
 
@@ -17,7 +17,7 @@ N Small [plant](creatureTypes#_plant)
 
 **AC** 16, touch 13, flat-footed 14; (+2 Dex, +3 natural, +1 size)
 
-**hp** 5 (1d8+1
+**hp** 5 (1d8+1)
 
 **Fort** +3, **Ref** +2, **Will** +0
 
@@ -35,9 +35,9 @@ N Small [plant](creatureTypes#_plant)
 
 **Base**  **Atk** +0; **CMB** –1; **CMD** 11
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception +7, [Stealth](../skill_dir/stealth#_stealth) +10 (+18 in vegetation; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) (+12 in vegetation)
+**Skills** [Perception](../skill_dir/perception#_perception) +7, [Stealth](../skill_dir/stealth#_stealth) +10 (+18 in vegetation); **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) (+12 in vegetation)
 
 **Languages** Undercommon, Vegepygmy (cannot speak)
 
@@ -57,9 +57,9 @@ Approximately 1 in 20 vegepymies are chieftains. A vegepygmy chieftain is an adv
 
 ## Russet Mold (CR 6)
 
-This hazardous fungus can be found in dark, wet areas, and often grows in great abundance at the heart of a vegepygmy lair. When a creature approaches within 5 feet of a patch of russet mold, the fungus releases a cloud of spores in a 5-foot radius burst. Everyone in the area must make a DC 15 Fortitude save or the spores quickly take root in their victims, inflicting 2 points of Constitution [damage](universalMonsterRules#_ability-damage-and-drain per round. A new Fortitude save can be attempted each round to halt the growth. Although immunity to disease won't protect against russet mold spores, the growth can be halted by _ [remove disease](../spell_dir/removeDisease#_remove-disease_ and similar effects. Exposure to sunlight also halts the spores' growth. Plants are immune to russet mold spores.
+This hazardous fungus can be found in dark, wet areas, and often grows in great abundance at the heart of a vegepygmy lair. When a creature approaches within 5 feet of a patch of russet mold, the fungus releases a cloud of spores in a 5-foot radius burst. Everyone in the area must make a DC 15 Fortitude save or the spores quickly take root in their victims, inflicting 2 points of Constitution [damage](universalMonsterRules#_ability-damage-and-drain) per round. A new Fortitude save can be attempted each round to halt the growth. Although immunity to disease won't protect against russet mold spores, the growth can be halted by _ [remove disease](../spell_dir/removeDisease#_remove-disease)_ and similar effects. Exposure to sunlight also halts the spores' growth. Plants are immune to russet mold spores.
 
 After 24 hours, a fully grown vegepygmy bursts from the body of any creature slain by russet mold, provided the creature was Small or larger. For each size category larger than Small, the body produces one additional vegepygmy.
 
-A patch of russet mold is unharmed by all effects save for acid, alcohol, or _ [remove disease](../spell_dir/removeDisease#_remove-disease_ (or a similar magical effect, such as _ [heal](../spell_dir/heal#_heal)_, all of which can kill a single patch of russet mold on contact. Sunlight doesn't kill the mold, but does render it dormant and harmless as long as the sunlight persists.
+A patch of russet mold is unharmed by all effects save for acid, alcohol, or _ [remove disease](../spell_dir/removeDisease#_remove-disease)_ (or a similar magical effect, such as _ [heal](../spell_dir/heal#_heal)_), all of which can kill a single patch of russet mold on contact. Sunlight doesn't kill the mold, but does render it dormant and harmless as long as the sunlight persists.
 

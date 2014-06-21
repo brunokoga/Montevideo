@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/mercane
+title: additionalMonster_dir/mercane
 ---
 # Mercane
 
@@ -9,7 +9,7 @@ The tall, blue-skinned humanoid is clad in loose, flowing robes. Its alien face 
 
 **XP 1,600**
 
-LN Large [outsider](monster_dir/creatureTypes#_outsider ( [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+LN Large [outsider](monsters/creatureTypes#_outsider) ( [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
 **Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +12
 
@@ -17,7 +17,7 @@ Defense
 
 **AC** 16, touch 12, flat-footed 13 (+2 Dex, +1 dodge, +4 natural, –1 size)
 
-**hp** 51 (6d10+18
+**hp** 51 (6d10+18)
 
 **Fort** +8, **Ref** +4, **Will** +8
 
@@ -33,9 +33,9 @@ Offense
 
 **Spell-Like Abilities** (CL 9th; concentration +11)
 
-3/day—_ [dimension door](additionalMonsters/../spell_dir/dimensionDoor#_dimension-door_, _ [invisibility](additionalMonsters/../spell_dir/invisibility#_invisibility)_ (self only
+3/day—_ [dimension door](additionalMonster_dir/../spell_dir/dimensionDoor#_dimension-door)_, _ [invisibility](additionalMonsters/../spell_dir/invisibility#_invisibility)_ (self only)
 
-1/day—_ [plane shift](additionalMonsters/../spell_dir/planeShift#_plane-shift)_ (DC 17
+1/day—_ [plane shift](additionalMonster_dir/../spell_dir/planeShift#_plane-shift)_ (DC 17)
 
 Statistics
 
@@ -43,9 +43,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +9; **CMD** 22
 
-**Feats** [Combat Casting](additionalMonsters/../feats#_combat-casting), [Combat Expertise](additionalMonsters/../feats#_combat-expertise), [Dodge](additionalMonsters/../feats#_dodge)
+**Feats** [Combat Casting](additionalMonsters/../feats#_combat-casting), [Combat Expertise](additionalMonster_dir/../feats#_combat-expertise), [Dodge](additionalMonster_dir/../feats#_dodge)
 
-**Skills** [Appraise](additionalMonsters/../skill_dir/appraise#_appraise +14, [Bluff](additionalMonsters/../skill_dir/bluff#_bluff +11, [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy +8, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +8, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (arcana +14, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +14, [Perception](additionalMonsters/../skill_dir/perception#_perception +12, [Profession](additionalMonsters/../skill_dir/profession#_profession) (merchant +9, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive +12, [Sleight of Hand](additionalMonsters/../skill_dir/sleightOfHand#_sleight-of-hand +11, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft +14
+**Skills** [Appraise](additionalMonster_dir/../skill_dir/appraise#_appraise) +14, [Bluff](additionalMonsters/../skill_dir/bluff#_bluff) +11, [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy) +8, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +8, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (arcana) +14, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +14, [Perception](additionalMonsters/../skill_dir/perception#_perception) +12, [Profession](additionalMonsters/../skill_dir/profession#_profession) (merchant) +9, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +12, [Sleight of Hand](additionalMonsters/../skill_dir/sleightOfHand#_sleight-of-hand) +11, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft) +14
 
 **Languages** Abyssal, Celestial, Common, Draconic, Infernal; telepathy 100 ft.
 
@@ -61,11 +61,11 @@ Ecology
 
 Special Abilities
 
-**Secret Chest (Sp** A mercane can retrieve or hide an extradimensional storage chest, as the _ [secret chest](additionalMonsters/../spell_dir/secretChest#_secret-chest) _spell (caster level 5th. The mercane does not need an expensive replica chest to use this ability; any chest will do. It can only use this ability on one chest at a time.
+**Secret Chest (Sp)** A mercane can retrieve or hide an extradimensional storage chest, as the _ [secret chest](additionalMonsters/../spell_dir/secretChest#_secret-chest) _spell (caster level 5th). The mercane does not need an expensive replica chest to use this ability; any chest will do. It can only use this ability on one chest at a time.
 
 Mysterious merchants of all things magical, mercanes are relatively weak and noncombative for creatures of their size. They prefer to bargain and haggle rather than to fight, but because they wander the planes seeking and trading magical goods, they typically travel with an entourage of hired bodyguards. Mercanes are capable of defending themselves, and often carry masterwork Large falchions. Yet these weapons are primarily for show, as mercanes prefer to let their bodyguards deal with violent opponents. If a situation turns ugly, mercanes typically use their magical abilities to flee, abandoning their hirelings if necessary.
 
-Mercanes are known throughout the planes as traders in magical items. Each has a _ [secret chest](additionalMonsters/../spell_dir/secretChest#_secret-chest)_ filled with wares stashed away, ready to be pulled out when it's time to haggle and close a deal (or to bribe a potential obstacle. Mercanes are therefore not easily robbed, and they only surrender the contents of a _ [secret chest](additionalMonsters/../spell_dir/secretChest#_secret-chest_ when they have no other choice. Mercanes have no interest in mundane goods, no matter how fine or rare. Only magical objects earn their attention and their coin. They_'_re known for driving hard, but fair, bargains, and for hiring adventurers from time to time to recover certain goods of interest for a fair price. Although they are not particularly brave, they hold contracts sacrosanct and keep their agreements.
+Mercanes are known throughout the planes as traders in magical items. Each has a _ [secret chest](additionalMonsters/../spell_dir/secretChest#_secret-chest)_ filled with wares stashed away, ready to be pulled out when it's time to haggle and close a deal (or to bribe a potential obstacle). Mercanes are therefore not easily robbed, and they only surrender the contents of a _ [secret chest](additionalMonsters/../spell_dir/secretChest#_secret-chest)_ when they have no other choice. Mercanes have no interest in mundane goods, no matter how fine or rare. Only magical objects earn their attention and their coin. They_'_re known for driving hard, but fair, bargains, and for hiring adventurers from time to time to recover certain goods of interest for a fair price. Although they are not particularly brave, they hold contracts sacrosanct and keep their agreements.
 
 Rumors and legends abound as to the origins of the mercanes and their reasons for seeking out and buying magical items. Their home plane is unknown, and they have wandered between the worlds for as long as any can recall. Stories claim the mercanes feed on the magic items they acquire, or even need them in order to reproduce. There are also tales of a war in a far corner of the planes, with the mercanes serving the roles of arms merchants, aggressors, or defenders, depending on who tells the story.
 

@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/painStrike
+title: advance_dir/spells/painStrike
 ---
  **Pain Strike**
 
-**School** evocation [evil]; **Level** sorcerer/wizard 3, witch 3
+**School** evocation [evil]; **Level** sorcere_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
@@ -17,13 +17,13 @@ title: advanced/spells/painStrike
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-_Pain strike _racks the targeted creature with agony, inflicting 1d6 points of nonlethal damage per round for 1 round per level (maximum 10 rounds. Additionally, the affected creature is sickened for the spell's duration, and the caster gains a +4 circumstance bonus on [Intimidate](../../skill_dir/intimidate#_intimidate checks against the target.
+_Pain strike _racks the targeted creature with agony, inflicting 1d6 points of nonlethal damage per round for 1 round per level (maximum 10 rounds). Additionally, the affected creature is sickened for the spell's duration, and the caster gains a +4 circumstance bonus on [Intimidate](../../skill_dir/intimidate#_intimidate) checks against the target.
 
 **Pain Strike, Mass**
 
 **School** evocation [evil]; **Level** sorcerer/wizard 5, witch 5
 
-**Targets** one living creature/level, no two of which can be more than 30 ft. apart
+**Targets** one living creatur_dir/level, no two of which can be more than 30 ft. apart
 
 This spell works like _pain strike, _except as noted above.
 

@@ -1,5 +1,5 @@
 ---
-title: advancedRaceGuide/uncommonRace_dir/samsarans
+title: advancedRaceGuid_dir/uncommonRaces/samsarans
 ---
 # Samsarans
 
@@ -21,7 +21,7 @@ All samsarans are humanoids with the samsaran subtype. They have the following r
 
 **Lifebound (Ex)** : Samsarans gain a +2 racial bonus on all saving throws made to resist death effects, saving throws against negative energy effects, Fortitude saves made to remove negative levels, and Constitution checks made to stabilize if reduced to negative hit points.
 
-**Samsaran Magic (Sp** : Samsarans with a Charisma score of 11 or higher gain the following spell-like abilities: 1/day—_ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_, _ [deathwatch](spell_dir/deathwatch#_deathwatch_, and _ [stabilize](spell_dir/stabilize#_stabilize)_. The caster level for these effects is equal to the samsaran's level.
+**Samsaran Magic (Sp)** : Samsarans with a Charisma score of 11 or higher gain the following spell-like abilities: 1/day—_ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages)_, _ [deathwatch](spells/deathwatch#_deathwatch)_, and _ [stabilize](spell_dir/stabilize#_stabilize)_. The caster level for these effects is equal to the samsaran's level.
 
 **Shards of the Past (Ex)** : A samsaran's past lives grant her bonuses on two particular skills. A samsaran chooses two skills—she gains a +2 racial bonus on both of these skills, and they are treated as class skills regardless of what class she actually takes.
 
@@ -31,7 +31,7 @@ All samsarans are humanoids with the samsaran subtype. They have the following r
 
 The following racial trait may be selected instead of existing samsaran racial traits. Consult your GM before selecting this new options.
 
-**Mystic Past Life (Su)** : You can add spells from another spellcasting class to the spell list of your current spellcasting class. You add a number of spells equal to 1 + your spellcasting class's key ability score bonus (Wisdom for clerics, and so on). The spells must be the same type (arcane or divine as the spellcasting class you're adding them to. For example, you could add _ [divine power](spell_dir/divinePower#_divine-power_ to your druid class spell list, but not to your wizard class spell list because _ [divine power](spell_dir/divinePower#_divine-power_ is a divine spell. These spells do not have to be spells you can cast as a 1st-level character. The number of spells granted by this ability is set at 1st level. Changes to your ability score do not change the number of spells gained. This racial trait replaces shards of the past.
+**Mystic Past Life (Su)** : You can add spells from another spellcasting class to the spell list of your current spellcasting class. You add a number of spells equal to 1 + your spellcasting class's key ability score bonus (Wisdom for clerics, and so on). The spells must be the same type (arcane or divine) as the spellcasting class you're adding them to. For example, you could add _ [divine power](spells/divinePower#_divine-power)_ to your druid class spell list, but not to your wizard class spell list because _ [divine power](spell_dir/divinePower#_divine-power)_ is a divine spell. These spells do not have to be spells you can cast as a 1st-level character. The number of spells granted by this ability is set at 1st level. Changes to your ability score do not change the number of spells gained. This racial trait replaces shards of the past.
 
 # Favored Class Options
 
@@ -57,13 +57,13 @@ A reincarnated oracle draws her knowledge and power from the experiences of her 
 
 **Oracle's Curse** : A reincarnated oracle must choose the haunted or tongues curse at 1st level.
 
-**Bonus Spells** : _ [see alignment](ultimateCombat/spell_dir/seeAlignment#_see-alignment)_ (2nd, _ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (4th, _ [contact other plane](spell_dir/contactOtherPlane#_contact-other-plane)_ (10th, _ [moment of prescience](spell_dir/momentOfPrescience#_moment-of-prescience)_ (16th, _ [overwhelming presence](ultimateMagic/spell_dir/overwhelmingPresence#_overwhelming-presence)_ (18th). These spells replace the oracle's mystery bonus spells at these levels.
+**Bonus Spells** : _ [see alignment](ultimateComba_dir/spells/seeAlignment#_see-alignment)_ (2nd), _ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (4th), _ [contact other plane](spells/contactOtherPlane#_contact-other-plane)_ (10th), _ [moment of prescience](spell_dir/momentOfPrescience#_moment-of-prescience)_ (16th), _ [overwhelming presence](ultimateMagic/spell_dir/overwhelmingPresence#_overwhelming-presence)_ (18th). These spells replace the oracle's mystery bonus spells at these levels.
 
 **Revelations** : A reincarnated oracle must take the following revelations at one of the listed levels.
 
-_Location Memories (Su_: As a swift action, you may search your past lives for memories of or insight about your current location. This grants you the scent ability, low-light vision, and a +2 insight bonus on [Perception](skill_dir/perception#_perception and [Survival](skill_dir/survival#_survival) checks for 1 minute. You can use this ability a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st level or 3rd level.
+_Location Memories (Su)_: As a swift action, you may search your past lives for memories of or insight about your current location. This grants you the scent ability, low-light vision, and a +2 insight bonus on [Perception](skills/perception#_perception) and [Survival](skill_dir/survival#_survival) checks for 1 minute. You can use this ability a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st level or 3rd level.
 
-_Spirit Memories (Su_: Once per day, you call upon the unfulfilled desires and goals of your past lives and project their frustration and despair through your eyes at a target. This is a gaze attack affecting one creature. The target must make a Will save (DC 10 + 1/2 your oracle level + your Charisma modifier) or be sickened and staggered for 1 round. This is a mind-affecting compulsion effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st, 3rd, or 7th level.
+_Spirit Memories (Su)_: Once per day, you call upon the unfulfilled desires and goals of your past lives and project their frustration and despair through your eyes at a target. This is a gaze attack affecting one creature. The target must make a Will save (DC 10 + 1/2 your oracle level + your Charisma modifier) or be sickened and staggered for 1 round. This is a mind-affecting compulsion effect. You can use this ability a number of times per day equal to 3 + your Charisma modifier. You must take this revelation at 1st, 3rd, or 7th level.
 
 # New Racial Rules
 
@@ -73,7 +73,7 @@ The following options are available to samsarans. At the GM's discretion, other 
 
 Samsarans have access to the following equipment.
 
-**Samsaran Life Wheel** : This handheld wooden spool spins freely within a boxlike housing. Inscribed upon the exterior of the spool are dozens of samsaran prayers along with names or symbols associated with a samsaran's past lives. Samsarans believe that spinning the wheel during meditation strengthens the spiritual connections between their former lives. If a samsaran meditates with her wheel for at least 10 minutes about a [Knowledge](skill_dir/knowledge#_knowledge) (history question relating to her own history or the histories of her past lives, she gains a +1 insight bonus on the check.
+**Samsaran Life Wheel** : This handheld wooden spool spins freely within a boxlike housing. Inscribed upon the exterior of the spool are dozens of samsaran prayers along with names or symbols associated with a samsaran's past lives. Samsarans believe that spinning the wheel during meditation strengthens the spiritual connections between their former lives. If a samsaran meditates with her wheel for at least 10 minutes about a [Knowledge](skill_dir/knowledge#_knowledge) (history) question relating to her own history or the histories of her past lives, she gains a +1 insight bonus on the check.
 
 [Samsaran Equipment]
 | Item | Cost | Weight |
@@ -108,7 +108,7 @@ When used during meditation, this incense allows a samsaran's consciousness to p
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [legend lore](spell_dir/legendLore#_legend-lore_; **Cost** 1,650 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [legend lore](spells/legendLore#_legend-lore)_; **Cost** 1,650 gp
 
 ## Samsaran Spells
 
@@ -116,7 +116,7 @@ Samsarans have access to the following spell.
 
 Karmic Blessing
 
-**School** divination [[good](monster_dir/creatureTypes#_good-subtype]; **Level** cleric 1, witch 1
+**School** divination [[good](monster_dir/creatureTypes#_good-subtype)]; **Level** cleric 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -126,9 +126,9 @@ Karmic Blessing
 
 **Target** creature touched
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round/level
 
-**Save** Will negates (harmless); **Spell Resistance** yes (harmless
+**Save** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 The target treats one skill of your choice as a class skill.
 

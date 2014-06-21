@@ -11,7 +11,7 @@ _This immense, three-eyed frog-like creature rears up on powerful hind legs. In 
 
 N Huge [aberration](creatureTypes#_aberration)
 
-**Init** +5; **Senses** all-around vision, [blindsight](universalMonsterRules#_blindsight 30 ft., darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +16
+**Init** +5; **Senses** all-around vision, [blindsight](universalMonsterRules#_blindsight) 30 ft., darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +16
 
 **Defense**
 
@@ -21,7 +21,7 @@ N Huge [aberration](creatureTypes#_aberration)
 
 **Fort** +12, **Ref** +8, **Will** +11
 
-**Immune** electricity (partial; **Resist** fire 10
+**Immune** electricity (partial); **Resist** fire 10
 
 **Weaknesses** slowed by electricity
 
@@ -41,9 +41,9 @@ N Huge [aberration](creatureTypes#_aberration)
 
 **Base Atk** +12; **CMB** +24 (+28 grapple); **CMD** 35
 
-**Feats** [Cleave](../feats#_cleave), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Lunge](../feats#_lunge), [Multiattack](monsterFeats#_multiattack), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth)
+**Feats** [Cleave](../feats#_cleave), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Lunge](../feats#_lunge), [Multiattack](monsterFeats#_multiattack), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth))
 
-**Skills** [Perception](../skill_dir/perception#_perception +16, [Stealth](../skill_dir/stealth#_stealth) +14 (+22 in marshes, [Swim](../skill_dir/swim#_swim +18; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception, +8 [Stealth](../skill_dir/stealth#_stealth) in marshes
+**Skills** [Perception](../skill_dir/perception#_perception) +16, [Stealth](../skill_dir/stealth#_stealth) +14 (+22 in marshes), [Swim](../skill_dir/swim#_swim) +18; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception), +8 [Stealth](../skill_dir/stealth#_stealth) in marshes
 
 **Ecology**
 
@@ -57,7 +57,7 @@ N Huge [aberration](creatureTypes#_aberration)
 
 **All-Around Vision (Ex)** A froghemoth's stalked eyes allow it to see in all directions at once. It cannot be flanked.
 
-**Slowed by Electricity (Ex** Although a froghemoth is immune to damage from electricity, whenever it would otherwise take such damage it is instead slowed for 1 round.
+**Slowed by Electricity (Ex)** Although a froghemoth is immune to damage from electricity, whenever it would otherwise take such damage it is instead slowed for 1 round.
 
 Thankfully rare, the froghemoth is one of the deep swampland's most ferocious and monstrous predators. Capable of catching and eating dinosaurs and even dragons, the froghemoth is a frighteningly effective ambush hunter. When lying in wait for prey, the immense creature secrets itself in deep marsh pools and mud so that only the top of its eyestalk emerges from the surface. The froghemoth's eyes are incredibly keen, but even more impressive is the monster's tongue. Like a snake, a froghemoth can “taste” its surroundings with extraordinary accuracy.
 

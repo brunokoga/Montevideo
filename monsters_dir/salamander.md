@@ -9,7 +9,7 @@ _This snake-bodied humanoid hisses with anger. Spines of crackling flame dance a
 
 **XP 2,400**
 
-CE Medium [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype)
+CE Medium [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype))
 
 **Init** +1; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +16
 
@@ -17,7 +17,7 @@ CE Medium [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_ext
 
 **AC** 18, touch 11, flat-footed 17 (+1 Dex, +7 natural)
 
-**hp** 76 (8d10+32
+**hp** 76 (8d10+32)
 
 **Fort** +10, **Ref** +7, **Will** +6
 
@@ -41,9 +41,9 @@ CE Medium [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_ext
 
 **Base**  **Atk** +8; **CMB** +11 (+15 grapple); **CMD** 22 (can't be tripped)
 
-**Feats** [Cleave](../feats#_cleave), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Cleave](../feats#_cleave), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +12, [Bluff](../skill_dir/bluff#_bluff +12, [Craft](../skill_dir/craft#_craft) (weaponsmithing +17, [Intimidate](../skill_dir/intimidate#_intimidate +12, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +13, [Perception](../skill_dir/perception#_perception +16, [Sense Motive](../skill_dir/senseMotive#_sense-motive +13, [Stealth](../skill_dir/stealth#_stealth +12; **Racial Modifiers** +4 [Craft](../skill_dir/craft#_craft) (armorsmithing, blacksmithing, and weaponsmithing)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +12, [Bluff](../skill_dir/bluff#_bluff) +12, [Craft](../skill_dir/craft#_craft) (weaponsmithing) +17, [Intimidate](../skill_dir/intimidate#_intimidate) +12, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +13, [Perception](../skill_dir/perception#_perception) +16, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +13, [Stealth](../skill_dir/stealth#_stealth) +12; **Racial Modifiers** +4 [Craft](../skill_dir/craft#_craft) (armorsmithing, blacksmithing, and weaponsmithing)
 
 **Languages** Common, Ignan
 
@@ -61,7 +61,7 @@ CE Medium [outsider](creatureTypes#_outsider) ( [extraplanar](creatureTypes#_ext
 
 Salamanders are native to the Plane of Fire, where their legions of fierce warriors are much feared by the other inhabitants of the plane. Because some of the stronger elemental fire races enslave salamanders for their metalworking skill and fighting prowess, the salamanders hate the efreet and other inhabitants with a passion.
 
-Though their lairs typically hover in temperatures of 500 degrees F or more, salamanders can tolerate lower temperatures. They generally do so only when forced, and are even surlier and more short-tempered than normal in such environments. Although they hail from the Plane of Fire, the salamander race identifies more with the Abyss, and they hold demons (particularly those associated with fire, like balors and certain fire-themed demon lords in great esteem. It's not unusual to encounter large groups of salamanders in the Abyss as a result.
+Though their lairs typically hover in temperatures of 500 degrees F or more, salamanders can tolerate lower temperatures. They generally do so only when forced, and are even surlier and more short-tempered than normal in such environments. Although they hail from the Plane of Fire, the salamander race identifies more with the Abyss, and they hold demons (particularly those associated with fire, like balors and certain fire-themed demon lords) in great esteem. It's not unusual to encounter large groups of salamanders in the Abyss as a result.
 
 Salamanders are often conjured to the Material Plane to serve as guardians or, more commonly, to craft weapons, armor, and other metalwork, for their skill in these areas is legendary. Salamanders also infest areas of the Material Plane where the boundaries between this world and the Plane of Fire have worn thin, such as in and near volcanoes.
 

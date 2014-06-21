@@ -1,5 +1,5 @@
 ---
-title: spells/wallOfFire
+title: spell_dir/wallOfFire
 ---
  **Wall of Fire**
 
@@ -11,9 +11,9 @@ title: spells/wallOfFire
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Effect** opaque sheet of flame up to 20 ft. long/level or a ring of fire with a radius of up to 5 ft./two levels; either form 20 ft. high
+**Effect** opaque sheet of flame up to 20 ft. lon_dir/level or a ring of fire with a radius of up to 5 ft./two levels; either form 20 ft. high
 
-**Duration** concentration + 1 round/level
+**Duration** concentration + 1 roun_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

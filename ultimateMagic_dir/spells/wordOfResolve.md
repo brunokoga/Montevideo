@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/wordOfResolve
+title: ultimateMagi_dir/spells/wordOfResolve
 ---
 Word of Resolve
 

@@ -1,9 +1,9 @@
 ---
-title: monsters/familiar
+title: monster_dir/familiar
 ---
 # Familiar
 
-Presented here are the base animal statistics for all of the most commonly used familiars—of course, these statistics can also be used for normal animals as well. Small animals like these use Dexterity to modify [Climb](../skill_dir/climb#_climb and [Swim](../skill_dir/swim#_swim checks.
+Presented here are the base animal statistics for all of the most commonly used familiars—of course, these statistics can also be used for normal animals as well. Small animals like these use Dexterity to modify [Climb](../skill_dir/climb#_climb) and [Swim](../skill_dir/swim#_swim) checks.
 
 **Bat CR 1/8**
 
@@ -25,7 +25,7 @@ N Diminutive [animal](creatureTypes#_animal)
 
 **Speed** 5 ft., fly 40 ft. (good)
 
-**Melee** bite +6 (1d3–5
+**Melee** bite +6 (1d3–5)
 
 **Space** 1 ft.; **Reach** 0 ft.
 
@@ -37,13 +37,13 @@ N Diminutive [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Fly](../skill_dir/fly#_fly +16, [Perception](../skill_dir/perception#_perception +6; **Racial Modifier** +4 [Perception](../skill_dir/perception#_perception)
+**Skills** [Fly](../skill_dir/fly#_fly) +16, [Perception](../skill_dir/perception#_perception) +6; **Racial Modifier** +4 [Perception](../skill_dir/perception#_perception)
 
 **Ecology**
 
 **Environment** temperate and hot forests and deserts
 
-**Organization** colony (10–400
+**Organization** colony (10–400)
 
 **Treasure** none
 
@@ -69,7 +69,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Speed** 30 ft.
 
-**Melee** 2 claws +4 (1d2–4), bite +4 (1d3–4
+**Melee** 2 claws +4 (1d2–4), bite +4 (1d3–4)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -81,13 +81,13 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Climb](../skill_dir/climb#_climb +6, [Perception](../skill_dir/perception#_perception +5, [Stealth](../skill_dir/stealth#_stealth +14; **Racial Modifiers** +4 [Climb](../skill_dir/climb#_climb, +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Climb](../skill_dir/climb#_climb) +6, [Perception](../skill_dir/perception#_perception) +5, [Stealth](../skill_dir/stealth#_stealth) +14; **Racial Modifiers** +4 [Climb](../skill_dir/climb#_climb), +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
 **Environment** temperate and hot plains or urban
 
-**Organization** solitary, pair, or pack (3–12
+**Organization** solitary, pair, or pack (3–12)
 
 **Treasure** none
 
@@ -113,7 +113,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Speed** 10 ft., fly 60 ft. (average)
 
-**Melee** 2 talons +5 (1d4–2
+**Melee** 2 talons +5 (1d4–2)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -125,7 +125,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Fly](../skill_dir/fly#_fly +7, [Perception](../skill_dir/perception#_perception +14; **Racial Modifier** +8 [Perception](../skill_dir/perception#_perception
+**Skills** [Fly](../skill_dir/fly#_fly) +7, [Perception](../skill_dir/perception#_perception) +14; **Racial Modifier** +8 [Perception](../skill_dir/perception#_perception)
 
 **Ecology**
 
@@ -157,7 +157,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Speed** 20 ft., climb 20 ft.
 
-**Melee** bite +4 (1d4–4
+**Melee** bite +4 (1d4–4)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -169,13 +169,13 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +10, [Climb](../skill_dir/climb#_climb +10, [Stealth](../skill_dir/stealth#_stealth +14; **Racial Modifiers** +8 [Acrobatics](../skill_dir/acrobatics#_acrobatics)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +10, [Climb](../skill_dir/climb#_climb) +10, [Stealth](../skill_dir/stealth#_stealth) +14; **Racial Modifiers** +8 [Acrobatics](../skill_dir/acrobatics#_acrobatics)
 
 **Ecology**
 
 **Environment** any temperate or warm
 
-**Organization** solitary, pair, or nest (3–8
+**Organization** solitary, pair, or nest (3–8)
 
 **Treasure** none
 
@@ -201,7 +201,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Speed** 30 ft., climb 30 ft.
 
-**Melee** bite +4 melee (1d3–4
+**Melee** bite +4 melee (1d3–4)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -213,13 +213,13 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +10, [Climb](../skill_dir/climb#_climb +10, [Perception](../skill_dir/perception#_perception +5; **Racial Modifiers** +8 [Acrobatics](../skill_dir/acrobatics#_acrobatics)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +10, [Climb](../skill_dir/climb#_climb) +10, [Perception](../skill_dir/perception#_perception) +5; **Racial Modifiers** +8 [Acrobatics](../skill_dir/acrobatics#_acrobatics)
 
 **Ecology**
 
 **Environment** warm forests
 
-**Organization** solitary, pair, band (3–9), or troop (10–40
+**Organization** solitary, pair, band (3–9), or troop (10–40)
 
 **Treasure** none
 
@@ -245,7 +245,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Speed** 10 ft., fly 60 ft. (average)
 
-**Melee** 2 talons +5 (1d4–2
+**Melee** 2 talons +5 (1d4–2)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -257,7 +257,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Fly](../skill_dir/fly#_fly +7, [Perception](../skill_dir/perception#_perception +10, [Stealth](../skill_dir/stealth#_stealth +15; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +4 [Stealth](../skill_dir/stealth#_stealth
+**Skills** [Fly](../skill_dir/fly#_fly) +7, [Perception](../skill_dir/perception#_perception) +10, [Stealth](../skill_dir/stealth#_stealth) +15; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception), +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -289,7 +289,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Speed** 15 ft., climb 15 ft., swim 15 ft.
 
-**Melee** bite +4 (1d3–4
+**Melee** bite +4 (1d3–4)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -301,13 +301,13 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Climb](../skill_dir/climb#_climb +10, [Stealth](../skill_dir/stealth#_stealth +18, [Swim](../skill_dir/swim#_swim +10; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Climb](../skill_dir/climb#_climb) +10, [Stealth](../skill_dir/stealth#_stealth) +18, [Swim](../skill_dir/swim#_swim) +10; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
 **Environment** any temperate
 
-**Organization** solitary, pair, nest (3–12), or plague (13–100
+**Organization** solitary, pair, nest (3–12), or plague (13–100)
 
 **Treasure** none
 
@@ -333,7 +333,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Speed** 10 ft., fly 40 ft. (average)
 
-**Melee** bite +4 (1d3–4
+**Melee** bite +4 (1d3–4)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -345,13 +345,13 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Feats** Skill Focus (Perception), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Fly](../skill_dir/fly#_fly +6, [Perception](../skill_dir/perception#_perception) +3
+**Skills** [Fly](../skill_dir/fly#_fly) +6, [Perception](../skill_dir/perception#_perception) +3
 
 **Ecology**
 
 **Environment** any temperate
 
-**Organization** solitary, pair, flock (3–12), or unkindness (13–100
+**Organization** solitary, pair, flock (3–12), or unkindness (13–100)
 
 **Treasure** none
 
@@ -383,17 +383,17 @@ N Diminutive [animal](creatureTypes#_animal)
 
 **Str** 1, **Dex** 12, **Con** 6, **Int** 1, **Wis** 15, **Cha** 4
 
-**Base Atk** +0; **CMB** –3; **CMD** 2 (6 vs. trip
+**Base Atk** +0; **CMB** –3; **CMD** 2 (6 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception +5, [Stealth](../skill_dir/stealth#_stealth +21; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Perception](../skill_dir/perception#_perception) +5, [Stealth](../skill_dir/stealth#_stealth) +21; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
 **Environment** temperate and warm forests
 
-**Organization** solitary, pair, or knot (3–100
+**Organization** solitary, pair, or knot (3–100)
 
 **Treasure** none
 
@@ -419,7 +419,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Speed** 20 ft., climb 20 ft., swim 20 ft.
 
-**Melee** bite +5 (1d2–2 plus poison
+**Melee** bite +5 (1d2–2 plus poison)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -431,7 +431,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Climb](../skill_dir/climb#_climb +11, [Perception](../skill_dir/perception#_perception +9, [Stealth](../skill_dir/stealth#_stealth +15, [Swim](../skill_dir/swim#_swim +11; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Climb](../skill_dir/climb#_climb) +11, [Perception](../skill_dir/perception#_perception) +9, [Stealth](../skill_dir/stealth#_stealth) +15, [Swim](../skill_dir/swim#_swim) +11; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception), +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -443,7 +443,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Special Abilities**
 
-**Poison (Ex** Bite—injury; _save_ Fort DC 9; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 1 save.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 9; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 1 save.
 
 Vipers are not particularly aggressive snakes, but their poisonous bite can be deadly.
 
@@ -467,7 +467,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Speed** 20 ft., climb 20 ft.
 
-**Melee** bite +4 (1d3–4 plus attach
+**Melee** bite +4 (1d3–4 plus attach)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -479,7 +479,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +10, [Climb](../skill_dir/climb#_climb +10, [Escape Artist](../skill_dir/escapeArtist#_escape-artist +3, [Stealth](../skill_dir/stealth#_stealth +14; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth, +8 [Acrobatics](../skill_dir/acrobatics#_acrobatics)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +10, [Climb](../skill_dir/climb#_climb) +10, [Escape Artist](../skill_dir/escapeArtist#_escape-artist) +3, [Stealth](../skill_dir/stealth#_stealth) +14; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth), +8 [Acrobatics](../skill_dir/acrobatics#_acrobatics)
 
 **Ecology**
 
@@ -491,7 +491,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Special Abilities**
 
-**Attach (Ex** When a weasel hits with a bite attack, it automatically grapples its foe, inflicting automatic bite damage each round.
+**Attach (Ex)** When a weasel hits with a bite attack, it automatically grapples its foe, inflicting automatic bite damage each round.
 
 Weasels are predators content with raiding chicken coops or attacking pets when they encounter civilization.
 

@@ -1,5 +1,5 @@
 ---
-title: spells/spectralHand
+title: spell_dir/spectralHand
 ---
  **Spectral Hand**
 

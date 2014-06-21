@@ -1,19 +1,19 @@
 ---
-title: spells/protectionFromArrows
+title: spell_dir/protectionFromArrows
 ---
  **Protection from Arrows**
 
-**School** abjuration; **Level** sorcere_dir/wizard 2
+**School** abjuration; **Level** sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a piece of tortoiseshell or turtle shell
+**Components** V, S, F (a piece of tortoiseshell or turtle shell)
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 1 hour/level or until discharged
+**Duration** 1 hou_dir/level or until discharged
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

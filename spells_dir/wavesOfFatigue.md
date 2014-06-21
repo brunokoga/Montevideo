@@ -1,5 +1,5 @@
 ---
-title: spells/wavesOfFatigue
+title: spell_dir/wavesOfFatigue
 ---
  **Waves of Fatigue**
 

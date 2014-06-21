@@ -1,5 +1,5 @@
 ---
-title: spells/glibness
+title: spell_dir/glibness
 ---
  **Glibness**
 

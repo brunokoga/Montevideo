@@ -25,7 +25,7 @@ Offense
 
 **Speed** 10 ft., fly 30 ft. (perfect)
 
-**Melee** bite +1 (1d4–1), tentacle +1 (1d4–1
+**Melee** bite +1 (1d4–1), tentacle +1 (1d4–1)
 
 **Space** 2-1/2 ft.; **Reach** 2-1/2 ft.
 
@@ -39,11 +39,11 @@ Statistics
 
 **Feats** [Lightning Reflexes](feats#_lightning-reflexes)
 
-**Skills** [Fly](skill_dir/fly#_fly +10, [Perception](skill_dir/perception#_perception +4, [Stealth](skill_dir/stealth#_stealth +14
+**Skills** [Fly](skill_dir/fly#_fly) +10, [Perception](skills/perception#_perception) +4, [Stealth](skill_dir/stealth#_stealth) +14
 
 **Languages** Aklo
 
-**SQ** [flight](monster_dir/universalMonsterRules#_flight-(ex,-sp,-or-su))
+**SQ** [flight](monsters/universalMonsterRules#_flight-(ex,-sp,-or-su))
 
 Ecology
 
@@ -55,11 +55,11 @@ Ecology
 
 Special Abilities
 
-**Baleful Whinny (Su** As a standard action, a sagari can emit a monstrous whinny. Any creature within 60 feet must succeed at a DC 12 Will save or become sickened for 1d4 rounds by the hideous sound. This is a sonic, mind-affecting effect. Whether or not the save is successful, the affected creature is immune to the same sagari's baleful whinny for 24 hours. The save DC is Charisma-based.
+**Baleful Whinny (Su)** As a standard action, a sagari can emit a monstrous whinny. Any creature within 60 feet must succeed at a DC 12 Will save or become sickened for 1d4 rounds by the hideous sound. This is a sonic, mind-affecting effect. Whether or not the save is successful, the affected creature is immune to the same sagari's baleful whinny for 24 hours. The save DC is Charisma-based.
 
-**[Flight](monster_dir/universalMonsterRules#_flight-(ex,-sp,-or-su)) (Su** A sagari's [flight](monster_dir/universalMonsterRules#_flight-(ex,-sp,-or-su)) is supernatural in nature.
+**[Flight](monster_dir/universalMonsterRules#_flight-(ex,-sp,-or-su)) (Su)** A sagari's [flight](monsters/universalMonsterRules#_flight-(ex,-sp,-or-su)) is supernatural in nature.
 
-**Lashing Strike (Ex** Although a sagari is Tiny, it does not provoke attacks of opportunity when it makes melee attacks. In addition, its tentacle attack is a primary attack.
+**Lashing Strike (Ex)** Although a sagari is Tiny, it does not provoke attacks of opportunity when it makes melee attacks. In addition, its tentacle attack is a primary attack.
 
 Sagaris haunt forest trails, hanging upside-down from tree branches by the grotesque tentacles that make up their necks. Unexpectedly intelligent, these cruel aberrations swoop down from their perches to attack unsuspecting travelers wandering through the forests. Their piercing whinny causes sickness within those who hear it, the sound waves reverberating within the victims' chests and causing them to feel unwell. Groups of sagaris are particularly dangerous, filling the air with their terrifying neighs and diving upon utterly helpless, nauseated victims in a rush.
 

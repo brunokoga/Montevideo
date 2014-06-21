@@ -1,5 +1,5 @@
 ---
-title: spells/slayLiving
+title: spell_dir/slayLiving
 ---
  **Slay Living**
 

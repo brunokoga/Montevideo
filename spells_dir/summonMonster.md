@@ -1,123 +1,123 @@
 ---
-title: spells/summonMonster
+title: spell_dir/summonMonster
 ---
  **Summon Monster I**
 
 [Table: Summon Monster]| 1st Level | Subtype |
 | --- | --- |
-| [Dire rat\*](../monster_dir/rat#_rat-dire | — |
+| [Dire rat\*](../monster_dir/rat#_rat-dire) | — |
 | Dog\* | — |
-| [Dolphin\*](../monster_dir/dolphin#_dolphin | — |
-| [Eagle\*](../monster_dir/eagle#_eagle | — |
-| [Fire beetle\*](../monster_dir/beetle#_beetle-fire | — |
+| [Dolphin\*](../monster_dir/dolphin#_dolphin) | — |
+| [Eagle\*](../monster_dir/eagle#_eagle) | — |
+| [Fire beetle\*](../monster_dir/beetle#_beetle-fire) | — |
 | [Poisonous frog\*](../monster_dir/frog#_frog-poison) | — |
-| [Pony (horse\*](../monster_dir/horse#_horse-pony) | — |
-| [Viper (snake\*](../monster_dir/familiar#_viper) | — |
+| [Pony (horse)\*](../monster_dir/horse#_horse-pony) | — |
+| [Viper (snake)\*](../monster_dir/familiar#_viper) | — |
 | 2nd Level | Subtype |
 | --- | --- |
-| [Ant, giant (worker\*](../monster_dir/ant#_ant-giant) | — |
-| [Elemental (Small](../monster_dir/elemental | Elemental |
-| [Giant centipede\*](../monster_dir/centipede#_centipede-giant | — |
-| [Giant frog\*](../monster_dir/frog#_frog-giant | — |
-| [Giant spider\*](../monster_dir/spider#_spider-giant | — |
-| [Goblin dog\*](../monster_dir/goblinDog#_goblin-dog | — |
-| [Horse\*](../monster_dir/horse#_ | — |
+| [Ant, giant (worker)\*](../monster_dir/ant#_ant-giant) | — |
+| [Elemental (Small)](../monster_dir/elemental) | Elemental |
+| [Giant centipede\*](../monster_dir/centipede#_centipede-giant) | — |
+| [Giant frog\*](../monster_dir/frog#_frog-giant) | — |
+| [Giant spider\*](../monster_dir/spider#_spider-giant) | — |
+| [Goblin dog\*](../monster_dir/goblinDog#_goblin-dog) | — |
+| [Horse\*](../monster_dir/horse#_) | — |
 | [Hyena\*](../monster_dir/hyena#_hyena) | — |
-| [Lemure (devil](../monster_dir/devil#_devil-lemure | Evil, Lawful |
-| [Octopus\*](../monster_dir/octopus#_octopus | — |
-| [Squid\*](../monster_dir/squid#_squid | — |
+| [Lemure (devil)](../monster_dir/devil#_devil-lemure) | Evil, Lawful |
+| [Octopus\*](../monster_dir/octopus#_octopus) | — |
+| [Squid\*](../monster_dir/squid#_squid) | — |
 | [Wolf\*](../monster_dir/wolf#_wolf) | — |
 | 3rd Level | Subtype |
 | --- | --- |
-| [Ant, giant (soldier\*](../monster_dir/ant#_ant-giant | — |
+| [Ant, giant (soldier)\*](../monster_dir/ant#_ant-giant) | — |
 | [Ape\*](../monster_dir/ape#_ape) | — |
-| [Aurochs (herd animal\*](../monster_dir/herdAnimal#_herd-animal-aurochs | — |
-| [Boar\*](../monster_dir/boar#_boar | — |
-| [Cheetah\*](../monster_dir/cat#_cat-cheetah | — |
-| [Constrictor snake\*](../monster_dir/snake#_snake-constrictor | — |
-| [Crocodile\*](../monster_dir/crocodile#_crocodile | — |
+| [Aurochs (herd animal)\*](../monster_dir/herdAnimal#_herd-animal-aurochs) | — |
+| [Boar\*](../monster_dir/boar#_boar) | — |
+| [Cheetah\*](../monster_dir/cat#_cat-cheetah) | — |
+| [Constrictor snake\*](../monster_dir/snake#_snake-constrictor) | — |
+| [Crocodile\*](../monster_dir/crocodile#_crocodile) | — |
 | [Dire bat\*](../monster_dir/bat#_bat-dire) | — |
-| [Dretch (demon](../monster_dir/demon#_demon-dretch | Chaotic, Evil |
-| [Electric eel\*](../monster_dir/eel#_ell-electric | — |
+| [Dretch (demon)](../monster_dir/demon#_demon-dretch) | Chaotic, Evil |
+| [Electric eel\*](../monster_dir/eel#_ell-electric) | — |
 | [Lantern archon](../monster_dir/archon#_archon-lantern) | Good, Lawful |
-| [Leopard (cat\*](../monster_dir/cat#_cat-leopard | — |
-| [Monitor lizard\*](../monster_dir/lizard#_lizard-giant | — |
-| [Shark\*](../monster_dir/shark#_shark | — |
+| [Leopard (cat)\*](../monster_dir/cat#_cat-leopard) | — |
+| [Monitor lizard\*](../monster_dir/lizard#_lizard-giant) | — |
+| [Shark\*](../monster_dir/shark#_shark) | — |
 | [Wolverine\*](../monster_dir/wolverine#_wolverine) | — |
 | 4th Level | Subtype |
 | --- | --- |
-| [Ant, giant (drone\*](../monster_dir/ant#_ant-giant) | — |
-| [Bison (herd animal\*](../monster_dir/herdAnimal#_herd-animal-bison) | — |
-| [Deinonychus (dinosaur\*](../monster_dir/dinosaur#_dinosaur-deinonychus | — |
-| [Dire ape\*](../monster_dir/ape#_ape-dire | — |
-| [Dire boar\*](../monster_dir/boar#_boar-dire | — |
+| [Ant, giant (drone)\*](../monster_dir/ant#_ant-giant) | — |
+| [Bison (herd animal)\*](../monster_dir/herdAnimal#_herd-animal-bison) | — |
+| [Deinonychus (dinosaur)\*](../monster_dir/dinosaur#_dinosaur-deinonychus) | — |
+| [Dire ape\*](../monster_dir/ape#_ape-dire) | — |
+| [Dire boar\*](../monster_dir/boar#_boar-dire) | — |
 | [Dire wolf\*](../monster_dir/wolf#_wolf-dire) | — |
-| [Elemental (Medium](../monster_dir/elemental#_ | Elemental |
-| [Giant scorpion\*](../monster_dir/scorpion#_scorpion-giant | — |
-| [Giant wasp\*](../monster_dir/wasp#_wasp-giant | — |
-| [Grizzly bear\*](../monster_dir/bear#_bear-grizzly | — |
-| [Hell hound](../monster_dir/hellHound#_hell-hound | Evil, Lawful |
-| [Hound archon](../monster_dir/archon#_archon-hound | Good, Lawful |
+| [Elemental (Medium)](../monster_dir/elemental#_) | Elemental |
+| [Giant scorpion\*](../monster_dir/scorpion#_scorpion-giant) | — |
+| [Giant wasp\*](../monster_dir/wasp#_wasp-giant) | — |
+| [Grizzly bear\*](../monster_dir/bear#_bear-grizzly) | — |
+| [Hell hound](../monster_dir/hellHound#_hell-hound) | Evil, Lawful |
+| [Hound archon](../monster_dir/archon#_archon-hound) | Good, Lawful |
 | [Lion\*](../monster_dir/lion#_lion) | — |
-| [Mephit (any](../monster_dir/mephit#_) | Elemental |
-| [Pteranodon (dinosaur\*](../monster_dir/dinosaur#_dinosaur-pteranodon | — |
+| [Mephit (any)](../monster_dir/mephit#_) | Elemental |
+| [Pteranodon (dinosaur)\*](../monster_dir/dinosaur#_dinosaur-pteranodon) | — |
 | [Rhinoceros\*](../monster_dir/rhinoceros#_rhinoceros) | — |
 | 5th Level | Subtype |
 | --- | --- |
-| [Ankylosaurus (dinosaur\*](../monster_dir/dinosaur#_dinosaur-ankylosaurus) | — |
-| [Babau (demon](../monster_dir/demon#_demon-babau | Chaotic, Evil |
-| [Bearded devil](../monster_dir/devil#_devil-bearded | Evil, Lawful |
-| [Bralani azata](../monster_dir/azata#_azata-bralani | Chaotic, Good |
+| [Ankylosaurus (dinosaur)\*](../monster_dir/dinosaur#_dinosaur-ankylosaurus) | — |
+| [Babau (demon)](../monster_dir/demon#_demon-babau) | Chaotic, Evil |
+| [Bearded devil](../monster_dir/devil#_devil-bearded) | Evil, Lawful |
+| [Bralani azata](../monster_dir/azata#_azata-bralani) | Chaotic, Good |
 | [Dire lion\*](../monster_dir/lion#_lion-dire) | — |
-| [Elemental (Large](../monster_dir/elemental#_ | Elemental |
-| [Giant moray eel\*](../monster_dir/eel#_eel-giant-moray | — |
+| [Elemental (Large)](../monster_dir/elemental#_) | Elemental |
+| [Giant moray eel\*](../monster_dir/eel#_eel-giant-moray) | — |
 | [Kyton](../monster_dir/kyton#_kyton) | Evil, Lawful |
-| [Orca (dolphin\*](../monster_dir/dolphin#_dolphin-orca | — |
-| [Salamander](../monster_dir/salamander#_salamander | Evil |
-| [Woolly rhinoceros\*](../monster_dir/rhinoceros#_rhinoceros-wooly | — |
-| [Xill](../monster_dir/xill#_xill | Evil, Lawful |
+| [Orca (dolphin)\*](../monster_dir/dolphin#_dolphin-orca) | — |
+| [Salamander](../monster_dir/salamander#_salamander) | Evil |
+| [Woolly rhinoceros\*](../monster_dir/rhinoceros#_rhinoceros-wooly) | — |
+| [Xill](../monster_dir/xill#_xill) | Evil, Lawful |
 | 6th Level | Subtype |
 | --- | --- |
-| [Dire bear\*](../monster_dir/bear#_bear-dire | — |
+| [Dire bear\*](../monster_dir/bear#_bear-dire) | — |
 | [Dire tiger\*](../monster_dir/tiger#_tiger-dire) | — |
-| [Elasmosaurus (dinosaur\*](../monster_dir/dinosaur#_dinosaur-elasmosaurus) | — |
-| [Elemental (Huge](../monster_dir/elemental#_ | Elemental |
+| [Elasmosaurus (dinosaur)\*](../monster_dir/dinosaur#_dinosaur-elasmosaurus) | — |
+| [Elemental (Huge)](../monster_dir/elemental#_) | Elemental |
 | [Elephant\*](../monster_dir/elephant#_elephant) | — |
-| [Erinyes (devil](../monster_dir/devil#_devil-erinyes | Evil, Lawful |
-| [Giant octopus\*](../monster_dir/octopus#_octopus-giant | — |
-| [Invisible stalker](../monster_dir/invisibleStalker#_invisible-stalker | Air |
-| [Lillend azata](../monster_dir/azata#_azata-lillend | Chaotic, Good |
+| [Erinyes (devil)](../monster_dir/devil#_devil-erinyes) | Evil, Lawful |
+| [Giant octopus\*](../monster_dir/octopus#_octopus-giant) | — |
+| [Invisible stalker](../monster_dir/invisibleStalker#_invisible-stalker) | Air |
+| [Lillend azata](../monster_dir/azata#_azata-lillend) | Chaotic, Good |
 | [Shadow demon](../monster_dir/demon#_demon-shadow) | Chaotic, Evil |
-| [Succubus (demon](../monster_dir/demon#_demon-succubus) | Chaotic, Evil |
-| [Triceratops (dinosaur\*](../monster_dir/dinosaur#_triceratops | — |
+| [Succubus (demon)](../monster_dir/demon#_demon-succubus) | Chaotic, Evil |
+| [Triceratops (dinosaur)\*](../monster_dir/dinosaur#_triceratops) | — |
 | 7th Level | Subtype |
 | --- | --- |
-| [Bebelith](../monster_dir/bebilith#_bebilith | Chaotic, Evil |
+| [Bebelith](../monster_dir/bebilith#_bebilith) | Chaotic, Evil |
 | [Bone devil](../monster_dir/devil#_devil-bone) | Evil, Lawful |
-| [Brachiosaurus (dinosaur\*](../monster_dir/dinosaur#_dinosaur-brachiosaurus | — |
-| [Dire crocodile\*](../monster_dir/crocodile#_crocodile-dire | — |
+| [Brachiosaurus (dinosaur)\*](../monster_dir/dinosaur#_dinosaur-brachiosaurus) | — |
+| [Dire crocodile\*](../monster_dir/crocodile#_crocodile-dire) | — |
 | [Dire shark\*](../monster_dir/shark#_shark-dire) | — |
-| [Elemental (greater](../monster_dir/elemental#_ | Elemental |
+| [Elemental (greater)](../monster_dir/elemental#_) | Elemental |
 | [Giant squid\*](../monster_dir/squid#_squid-giant) | — |
-| [Mastadon (elephant\*](../monster_dir/elephant#_elephant-mastodon | — |
+| [Mastadon (elephant)\*](../monster_dir/elephant#_elephant-mastodon) | — |
 | [Roc\*](../monster_dir/roc#_roc) | — |
-| [Tyrannosaurus (dinosaur\*](../monster_dir/dinosaur#_dinosaur-tyrannosaurus) | — |
-| [Vrock (demon](../monster_dir/demon#_demon-vrock | Chaotic, Evil |
+| [Tyrannosaurus (dinosaur)\*](../monster_dir/dinosaur#_dinosaur-tyrannosaurus) | — |
+| [Vrock (demon)](../monster_dir/demon#_demon-vrock) | Chaotic, Evil |
 | 8th Level | Subtype |
 | --- | --- |
 | [Barbed devil](../monster_dir/devil#_devil-barbed) | Evil, Lawful |
-| [Elemental (elder](../monster_dir/elemental#_) | Elemental |
-| [Hezrou (demon](../monster_dir/demon#_demon-hezrou) | Chaotic, Evil |
+| [Elemental (elder)](../monster_dir/elemental#_) | Elemental |
+| [Hezrou (demon)](../monster_dir/demon#_demon-hezrou) | Chaotic, Evil |
 | 9th Level | Subtype |
 | --- | --- |
-| [Astral Deva (angel](../monster_dir/angel#_angel-astral-deva | Good |
+| [Astral Deva (angel)](../monster_dir/angel#_angel-astral-deva) | Good |
 | [Ghaele azata](../monster_dir/azata#_azata-ghaele) | Chaotic, Good |
-| [Glabrezu (demon](../monster_dir/demon#_demon-glabrezu | Chaotic, Evil |
+| [Glabrezu (demon)](../monster_dir/demon#_demon-glabrezu) | Chaotic, Evil |
 | [Ice devil](../monster_dir/devil#_devil-ice) | Evil, Lawful |
-| [Nalfeshnee (demon](../monster_dir/demon#_demon-nalfeshnee | Chaotic, Evil |
+| [Nalfeshnee (demon)](../monster_dir/demon#_demon-nalfeshnee) | Chaotic, Evil |
 | [Trumpet archon](../monster_dir/archon#_archon-trumpet) | Good, Lawful |
 
-**School** conjuration (summoning [see text]; **Level** bard 1, cleric 1, sorcerer/wizard 1
+**School** conjuration (summoning) [see text]; **Level** bard 1, cleric 1, sorcerer/wizard 1
 
 **Casting Time** 1 round
 
@@ -127,7 +127,7 @@ title: spells/summonMonster
 
 **Effect** one summoned creature
 
-**Duration** 1 roun_dir/level (D
+**Duration** 1 roun_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 
@@ -145,43 +145,43 @@ This spell functions like _summon monster I, _except that you can summon one cre
 
 **Summon Monster III**
 
-**School** conjuration (summoning; **Level** bard 3, cleric 3, sorcere_dir/wizard 3
+**School** conjuration (summoning); **Level** bard 3, cleric 3, sorcerer/wizard 3
 
 This spell functions like _summon monster I, _except that you can summon one creature from the 3rd-level list, 1d3 creatures of the same kind from the 2nd-level list, or 1d4+1 creatures of the same kind from the 1st-level list.
 
 **Summon Monster IV**
 
-**School** conjuration (summoning; **Level** bard 4, cleric 4, sorcere_dir/wizard 4
+**School** conjuration (summoning); **Level** bard 4, cleric 4, sorcere_dir/wizard 4
 
 This spell functions like _summon monster I, _except that you can summon one creature from the 4th-level list, 1d3 creatures of the same kind from the 3rd-level list, or 1d4+1 creatures of the same kind from a lower-level list.
 
 **Summon Monster V**
 
-**School** conjuration (summoning; **Level** bard 5, cleric 5, sorcere_dir/wizard 5
+**School** conjuration (summoning); **Level** bard 5, cleric 5, sorcerer/wizard 5
 
 This spell functions like _summon monster I, _except that you can summon one creature from the 5th-level list, 1d3 creatures of the same kind from the 4th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
 
 **Summon Monster VI**
 
-**School** conjuration (summoning; **Level** bard 6, cleric 6, sorcere_dir/wizard 6
+**School** conjuration (summoning); **Level** bard 6, cleric 6, sorcere_dir/wizard 6
 
 This spell functions like _summon monster I, _except you can summon one creature from the 6th-level list, 1d3 creatures of the same kind from the 5th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
 
 **Summon Monster VII**
 
-**School** conjuration (summoning; **Level** cleric 7, sorcere_dir/wizard 7
+**School** conjuration (summoning); **Level** cleric 7, sorcerer/wizard 7
 
 This spell functions like _summon monster I, _except that you can summon one creature from the 7th-level list, 1d3 creatures of the same kind from the 6th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
 
 **Summon Monster VIII**
 
-**School** conjuration (summoning; **Level** cleric 8, sorcere_dir/wizard 8
+**School** conjuration (summoning); **Level** cleric 8, sorcere_dir/wizard 8
 
 This spell functions like _summon monster I, _except that you can summon one creature from the 8th-level list, 1d3 creatures of the same kind from the 7th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
 
 **Summon Monster IX**
 
-**School** conjuration (summoning; **Level** cleric 9, sorcerer/wizard 9
+**School** conjuration (summoning); **Level** cleric 9, sorcerer/wizard 9
 
 This spell functions like _summon monster I, _except that you can summon one creature from the 9th-level list, 1d3 creatures of the same kind from the 8th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
 

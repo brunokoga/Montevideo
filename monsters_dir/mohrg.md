@@ -9,7 +9,7 @@ _A thick tangle of discolored entrails clings to this lurching skeleton's torso 
 
 **XP 4,800**
 
-CE Medium [undead](creatureTypes#_undead
+CE Medium [undead](creatureTypes#_undead)
 
 **Init** +8; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +20
 
@@ -37,9 +37,9 @@ CE Medium [undead](creatureTypes#_undead
 
 **Base**  **Atk** +10; **CMB** +15 (+19 grapple); **CMD** 30
 
-**Feats** [Ability Focus](monsterFeats#_ability-focus) (paralysis, [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Mobility](../feats#_mobility), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Spring Attack](../feats#_spring-attack)
+**Feats** [Ability Focus](monsterFeats#_ability-focus) (paralysis), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Mobility](../feats#_mobility), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)), [Spring Attack](../feats#_spring-attack)
 
-**Skills** [Climb](../skill_dir/climb#_climb +22, [Perception](../skill_dir/perception#_perception +23, [Stealth](../skill_dir/stealth#_stealth +21, [Swim](../skill_dir/swim#_swim) +19
+**Skills** [Climb](../skill_dir/climb#_climb) +22, [Perception](../skill_dir/perception#_perception) +23, [Stealth](../skill_dir/stealth#_stealth) +21, [Swim](../skill_dir/swim#_swim) +19
 
 **Ecology**
 
@@ -51,7 +51,7 @@ CE Medium [undead](creatureTypes#_undead
 
 **Special Abilities**
 
-**Create Spawn (Su** Humanoid creatures killed by a mohrg rise immediately as fast zombies under the mohrg's control. The sudden bloom of unlife when a mohrg's victim dies and becomes a zombie causes a surge of negative energy to flow through the mohrg. Whenever a mohrg creates a zombie in this manner, it is healed 1d6 hit points per HD possessed by the slain creature and acts as if hasted for the round immediately following the spawn's creation.
+**Create Spawn (Su)** Humanoid creatures killed by a mohrg rise immediately as fast zombies under the mohrg's control. The sudden bloom of unlife when a mohrg's victim dies and becomes a zombie causes a surge of negative energy to flow through the mohrg. Whenever a mohrg creates a zombie in this manner, it is healed 1d6 hit points per HD possessed by the slain creature and acts as if hasted for the round immediately following the spawn's creation.
 
 Those who slay many over the course of their lifetimes, be they serial killers, mass-murderers, warmongering soldiers, or battle-driven berserkers, become marked and tainted by the sheer weight of their murderous deeds. When such killers are brought to justice and publicly executed for their heinous crimes before they have a chance to atone, the remains sometimes return to unlife to continue their dark work as a mohrg.
 

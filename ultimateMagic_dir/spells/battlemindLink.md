@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/battlemindLink
+title: ultimateMagi_dir/spells/battlemindLink
 ---
 Battlemind Link
 
-**School** divination [mind-affecting]; **Level** inquisitor 4, sorcerer/wizard 6
+**School** divination [mind-affecting]; **Level** inquisitor 4, sorcere_dir/wizard 6
 
 **Casting Time** 1 standard action
 
@@ -21,7 +21,7 @@ You fuse your thoughts with an ally's, allowing the two of you to fight in tande
 
 _Melee_: If you both make melee attacks against the same creature, you both make attack rolls and both use the higher of the two dice for your attack rolls (plus bonuses).
 
-_Ranged_: If you both make ranged attacks against the same creature, you both make attack rolls and both use the higher of the two dice for your attack roll (plus bonuses.
+_Ranged_: If you both make ranged attacks against the same creature, you both make attack rolls and both use the higher of the two dice for your attack roll (plus bonuses).
 
 _Spell_: If you both cast spells and target the same area or same creature, affected creatures take a –2 penalty on their saving throw against the spells.
 

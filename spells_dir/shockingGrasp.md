@@ -1,5 +1,5 @@
 ---
-title: spells/shockingGrasp
+title: spell_dir/shockingGrasp
 ---
  **Shocking Grasp**
 

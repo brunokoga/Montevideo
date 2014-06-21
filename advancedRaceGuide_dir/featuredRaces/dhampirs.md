@@ -1,9 +1,9 @@
 ---
-title: advancedRaceGuide/featuredRace_dir/dhampirs
+title: advancedRaceGuid_dir/featuredRaces/dhampirs
 ---
 # Dhampirs
 
-The half-living children of vampires birthed by human females, dhampirs are progenies of both horror and tragedy. The circumstances of a dhampir's conception are often called into question but scarcely understood, as few mortal mothers survive the childbirth. Those who do often abandon their monstrous children and refuse to speak of the matter. While some speculate that dhampirs result when mortal women couple with vampires, others claim that they form when a pregnant woman suffers a vampire bite. Some particularly zealous scholars even contest dhampirs' status as a unique race, instead viewing them as humans suffering from an unholy affliction. Indeed, this hypothesis is strengthened by dhampirs' seeming inability to reproduce, their offspring inevitably humans (usually sorcerers with the undead bloodline. Regardless, they live and die just like any other mortal creatures, despite possessing a supernatural longevity akin to that of elves.
+The half-living children of vampires birthed by human females, dhampirs are progenies of both horror and tragedy. The circumstances of a dhampir's conception are often called into question but scarcely understood, as few mortal mothers survive the childbirth. Those who do often abandon their monstrous children and refuse to speak of the matter. While some speculate that dhampirs result when mortal women couple with vampires, others claim that they form when a pregnant woman suffers a vampire bite. Some particularly zealous scholars even contest dhampirs' status as a unique race, instead viewing them as humans suffering from an unholy affliction. Indeed, this hypothesis is strengthened by dhampirs' seeming inability to reproduce, their offspring inevitably humans (usually sorcerers with the undead bloodline). Regardless, they live and die just like any other mortal creatures, despite possessing a supernatural longevity akin to that of elves.
 
 Hardship and suffering fill a dhampir's formative years. Most grow up as orphans, and despite their exquisite features and innate charm, they face a lifetime of prejudice, mistrust, fear, and persecution. Humans who witness the seemingly sinister nature of a dhampir child's supernatural powers or sensitivity to daylight display an array of reactions ranging from awe to terror to outright hatred. Eventually, a dhampir must learn to cope with these difficulties in order to find his place in the world. While most dhampirs succumb to the innate evil of their undead heritage and devolve into the monstrous fiends depicted by society, a few reject their unholy conceptions, instead vowing to avenge their mothers by hunting the very creatures that sired them.
 
@@ -39,19 +39,19 @@ Almost universally, those inclined toward magic pursue the field of necromancy, 
 
 **Senses** : Low-light vision and darkvision 60 feet.
 
-**Manipulative** : +2 racial bonus on [Bluff](skill_dir/bluff#_bluff and [Perception](skill_dir/perception#_perception.
+**Manipulative** : +2 racial bonus on [Bluff](skill_dir/bluff#_bluff) and [Perception](skills/perception#_perception).
 
 **Undead Resistance** : Dhampirs gain a +2 racial bonus on saving throws against disease and mind-affecting effects.
 
-**Light Sensitivity** : Dhampirs are dazzled in areas of bright sunlight or within the radius of a _ [daylight](spell_dir/daylight#_daylight _spell.
+**Light Sensitivity** : Dhampirs are dazzled in areas of bright sunlight or within the radius of a _ [daylight](spell_dir/daylight#_daylight) _spell.
 
 **Negative Energy Affinity** : Though a living creature, a dhampir reacts to positive and negative energy as if it were undead—positive energy harms it, while negative energy heals it.
 
-**Spell-Like Ability** : A dhampir can use _ [detect undead](spell_dir/detectUndead#_detect-undead)_ three times per day as a spell-like ability. The caster level for this ability equals the dhampir's class level.
+**Spell-Like Ability** : A dhampir can use _ [detect undead](spells/detectUndead#_detect-undead)_ three times per day as a spell-like ability. The caster level for this ability equals the dhampir's class level.
 
 **Resist Level Drain (Ex)** : A dhampir takes no penalties from energy drain effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw.
 
-**Languages** : Dhampirs begin play speaking Common. Those with high Intelligence scores can choose any language it wants (except secret languages, such as Druidic.
+**Languages** : Dhampirs begin play speaking Common. Those with high Intelligence scores can choose any language it wants (except secret languages, such as Druidic).
 
 # Alternate Racial Traits
 
@@ -61,7 +61,7 @@ The following racial traits may be selected instead of existing dhampir racial t
 
 **Fangs** : On occasion, a dhampir may inherit his father's lengthy canines. Whenever the dhampir makes a grapple combat maneuver check to damage an opponent, he can choose to bite his opponent, dealing 1d3 points of damage as if using a natural bite attack. As a standard action, the dhampir can bite a creature that is bound, helpless, paralyzed, or similarly unable to defend itself. This racial trait replaces the spell-like ability racial trait.
 
-**Vampiric Empathy** : Though dhampirs often relate poorly to humanoids, some share an affinity with baser creatures. These dhampirs gain the ability to communicate with bats, rats, and wolves as if under the effects of a _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals _spell (caster level equal to 1/2 the dhampir's Hit Dice). In addition, they gain a +2 racial bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy checks when dealing with these animals. Whenever these dhampirs initiate an exchange, animals begin with a starting attitude of indifferent. This is a supernatural ability. This racial trait replaces manipulative.
+**Vampiric Empathy** : Though dhampirs often relate poorly to humanoids, some share an affinity with baser creatures. These dhampirs gain the ability to communicate with bats, rats, and wolves as if under the effects of a _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals) _spell (caster level equal to 1/2 the dhampir's Hit Dice). In addition, they gain a +2 racial bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy) checks when dealing with these animals. Whenever these dhampirs initiate an exchange, animals begin with a starting attitude of indifferent. This is a supernatural ability. This racial trait replaces manipulative.
 
 # Favored Class Options
 
@@ -73,9 +73,9 @@ The following options are available to all dhampirs who have the listed favored 
 
 **Fighter** : Add a +2 bonus on rolls to stabilize when dying.
 
-**Inquisitor** : Add a +1/2 bonus on [Intimidate](skill_dir/intimidate#_intimidate checks to demoralize humanoids.
+**Inquisitor** : Add a +1/2 bonus on [Intimidate](skill_dir/intimidate#_intimidate) checks to demoralize humanoids.
 
-**Rogue** : Add a +1/2 bonus on [Stealth](skill_dir/stealth#_stealth checks and [Perception](skill_dir/perception#_perception checks made in dim light or darkness.
+**Rogue** : Add a +1/2 bonus on [Stealth](skill_dir/stealth#_stealth) checks and [Perception](skills/perception#_perception) checks made in dim light or darkness.
 
 **Sorcerer** : Add +1/2 point of negative energy damage to spells that deal negative energy damage.
 
@@ -97,17 +97,17 @@ To those who know how to manipulate it, the blood of a dhampir can be a powerful
 > 
 > This ability replaces arcane bond.
 
-**Blood Command (Su)** : At 5th level, a cruoromancer can control up to 5 Hit Dice worth of undead creatures per caster level instead of the normal 4 Hit Dice of undead when casting the _ [animate dead](spell_dir/animateDead#_animate-dead_ spell. He also gains the following blood infusion ability.
+**Blood Command (Su)** : At 5th level, a cruoromancer can control up to 5 Hit Dice worth of undead creatures per caster level instead of the normal 4 Hit Dice of undead when casting the _ [animate dead](spell_dir/animateDead#_animate-dead)_ spell. He also gains the following blood infusion ability.
 
-> _Commanding Infusion_: When using this infusion with _ [animate dead](spell_dir/animateDead#_animate-dead)_, the cruoromancer can create a number of Hit Dice of undead equal to three times his caster level instead of twice his caster level.
+> _Commanding Infusion_: When using this infusion with _ [animate dead](spells/animateDead#_animate-dead)_, the cruoromancer can create a number of Hit Dice of undead equal to three times his caster level instead of twice his caster level.
 > 
 > This ability replaces the 5th-level wizard bonus feat.
 
-**Blood Desecration (Su** : At 10th level, a cruoromancer gains the following blood infusion.
+**Blood Desecration (Su)** : At 10th level, a cruoromancer gains the following blood infusion.
 
-> _Desecrating Infusion_: When the cruoromancer uses this infusion, he can choose to center a _ [desecrate](spell_dir/desecrate#_desecrate)_ effect on himself or a single target of the spell modified by this infusion (he chooses upon casting. This effect is like the _ [desecrate](spell_dir/desecrate#_desecrate_ spell, but lasts for 1 minute per caster level of the cruoromancer, and does not interact with altars, shrines, or permanent fixtures that boost the _ [desecrate](spell_dir/desecrate#_desecrate)_ effect. This ability replaces the 10th-level wizard bonus feat.
+> _Desecrating Infusion_: When the cruoromancer uses this infusion, he can choose to center a _ [desecrate](spell_dir/desecrate#_desecrate)_ effect on himself or a single target of the spell modified by this infusion (he chooses upon casting). This effect is like the _ [desecrate](spells/desecrate#_desecrate)_ spell, but lasts for 1 minute per caster level of the cruoromancer, and does not interact with altars, shrines, or permanent fixtures that boost the _ [desecrate](spell_dir/desecrate#_desecrate)_ effect. This ability replaces the 10th-level wizard bonus feat.
 
-**Blood Ability (Su** : At 15th level, a cruoromancer can choose to scry through a single undead creature he created with a spell modified by a commanding infusion. The undead creature is treated as if imbued with an _ [arcane eye](spell_dir/arcaneEye#_arcane-eye)_ spell (caster level equal to the cruoromancer's wizard level). This ability replaces the 15th-level wizard bonus feat.
+**Blood Ability (Su)** : At 15th level, a cruoromancer can choose to scry through a single undead creature he created with a spell modified by a commanding infusion. The undead creature is treated as if imbued with an _ [arcane eye](spells/arcaneEye#_arcane-eye)_ spell (caster level equal to the cruoromancer's wizard level). This ability replaces the 15th-level wizard bonus feat.
 
 **Perfect Infusion (Su)** : At 20th level, a cruoromancer can use his blood infusions without taking damage. This ability replaces the 20th-level wizard bonus spell.
 
@@ -117,27 +117,27 @@ Appalled and guilt-ridden by the horrific circumstances of her birth, a kinslaye
 
 **Judgment (Su)** : At 1st level, a kinslayer gains the following judgment.
 
-> _Slayer's Brand (Su_: When using this judgment, the kinslayer gains the ability to brand undead creatures with positive energy. To do so, she must make a successful melee touch attack against the undead creature. This attack deals an amount of positive energy damage equal to 1d6 + the kinslayer's Charisma score, and burns her personal symbol into the undead creature's flesh, bone, or even its incorporeal form. From that point onward, the kinslayer can sense the existence of the branded creature as if it were the target of a _ [locate creature](spell_dir/locateCreature#_locate-creature_ spell (caster level equal to 1/2 the kinslayer's inquisitor level). A slayer's brand lasts until the undead creature is destroyed or until the kinslayer uses this ability on another creature. This ability replaces the destruction judgment.
+> _Slayer's Brand (Su)_: When using this judgment, the kinslayer gains the ability to brand undead creatures with positive energy. To do so, she must make a successful melee touch attack against the undead creature. This attack deals an amount of positive energy damage equal to 1d6 + the kinslayer's Charisma score, and burns her personal symbol into the undead creature's flesh, bone, or even its incorporeal form. From that point onward, the kinslayer can sense the existence of the branded creature as if it were the target of a _ [locate creature](spell_dir/locateCreature#_locate-creature)_ spell (caster level equal to 1/2 the kinslayer's inquisitor level). A slayer's brand lasts until the undead creature is destroyed or until the kinslayer uses this ability on another creature. This ability replaces the destruction judgment.
 
 **Greater Brand (Su)** : A 1st level, a kinslayer learns to modify her slayer's brand judgment as she gains levels. Whenever she gains the ability to learn a teamwork feat, she can instead opt to learn one of the following modifications to her slayer's brand judgment.
 
 > _Branding Ray_: The slayer's brand judgment can be used as a ranged touch attack with a range of 20 feet. A kinslayer can take this modification more than once. Whenever she does, she increases the range of her brand by 20 feet.
 > 
-> _Debilitating [Brand](advanced/spell_dir/brand#_brand_: A creature currently affected by the slayer's brand judgment takes a –2 penalty on attack rolls against the kinslayer who placed the brand.
+> _Debilitating [Brand](advance_dir/spells/brand#_brand)_: A creature currently affected by the slayer's brand judgment takes a –2 penalty on attack rolls against the kinslayer who placed the brand.
 > 
-> _Devastating [Brand](advanced/spell_dir/brand#_brand_: When the kinslayer attacks a creature that she has branded with her slayer's brand, she threatens a critical hit on a roll of 19–20. If the kinslayer is good, she also gains a +2 sacred bonus on all rolls to confirm critical hits on a branded creature.
+> _Devastating [Brand](advance_dir/spells/brand#_brand)_: When the kinslayer attacks a creature that she has branded with her slayer's brand, she threatens a critical hit on a roll of 19–20. If the kinslayer is good, she also gains a +2 sacred bonus on all rolls to confirm critical hits on a branded creature.
 > 
-> _Dual [Brand](advanced/spell_dir/brand#_brand_: The kinslayer can have up to two creatures branded at a time.
+> _Dual [Brand](advance_dir/spells/brand#_brand)_: The kinslayer can have up to two creatures branded at a time.
 > 
-> _ [Holy](magicItem_dir/weapons#_weapons-holy [Brand](advanced/spell_dir/brand#_brand_: The kinslayer can use her brand on creatures with the evil subtype as well as undead.
+> _ [Holy](magicItem_dir/weapons#_weapons-holy) [Brand](advanced/spell_dir/brand#_brand)_: The kinslayer can use her brand on creatures with the evil subtype as well as undead.
 > 
-> _Searing [Brand](advanced/spell_dir/brand#_brand:_ The kinslayer's slayer's brand deals an additional 1d6 points of damage for every five inquisitor levels she has. If the creature hit with the slayer's brand is particularly vulnerable to bright light, the damage dice of her slayer's brand increases to d8s. A kinslayer must be at least 6th level to take this modification.
+> _Searing [Brand](advanced/spell_dir/brand#_brand):_ The kinslayer's slayer's brand deals an additional 1d6 points of damage for every five inquisitor levels she has. If the creature hit with the slayer's brand is particularly vulnerable to bright light, the damage dice of her slayer's brand increases to d8s. A kinslayer must be at least 6th level to take this modification.
 > 
 > _Silver [Brand](advanced/spell_dir/brand#_brand)_: The kinslayer can use her brand on lycanthropes and creatures with vulnerability to silver as well as undead.
 
 Each time the kinslayer opts to take a greater brand, it replaces her ability to gain a teamwork feat at that level.
 
-**Undead Sense (Sp** : At 2nd level, a kinslayer gains the ability to use _ [detect undead](spell_dir/detectUndead#_detect-undead)_ as a spell-like ability (caster level equal to the kinslayer's inquisitor level at will. If she detects the presence of undead, she can use her monster lore ability to attempt to determine the type of undead detected as well as to reveal any strengths or weaknesses the undead might have. If any of the detected undead are vampires, she gains a bonus on the check equal to her inquisitor level to immediately identify them as such.
+**Undead Sense (Sp)** : At 2nd level, a kinslayer gains the ability to use _ [detect undead](spells/detectUndead#_detect-undead)_ as a spell-like ability (caster level equal to the kinslayer's inquisitor level) at will. If she detects the presence of undead, she can use her monster lore ability to attempt to determine the type of undead detected as well as to reveal any strengths or weaknesses the undead might have. If any of the detected undead are vampires, she gains a bonus on the check equal to her inquisitor level to immediately identify them as such.
 
 This ability replaces _detect alignment_.
 
@@ -160,7 +160,7 @@ A heartstake bolt deals normal damage for the crossbow of its type.
 [Dhampir Equipment]
 | Item | Cost | Weight |
 | --- | --- | --- |
-| Heartstake bolts (5 | 100 gp | 3 lbs. |
+| Heartstake bolts (5) | 100 gp | 3 lbs. |
 | Neck guard | 10 gp | 1/4 lb. |
 | Vampire slayer's kit | 500 gp | 8 lbs. |
 
@@ -250,7 +250,7 @@ Crafted from a dark-colored crystalline material and infused with magical darkne
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [darkness](spell_dir/darkness#_darkness)_; **Cost** 6,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [darkness](spells/darkness#_darkness)_; **Cost** 6,000 gp
 
 Symbol of Unholy Command
 
@@ -260,13 +260,13 @@ Symbol of Unholy Command
 
 Description
 
-This unholy symbol is carved entirely from human bone. When the wielder uses this unholy symbol as a focus for the [Command Undead](feats#_command-undead feat, he gains a +1 profane bonus to the DC of that feat.
+This unholy symbol is carved entirely from human bone. When the wielder uses this unholy symbol as a focus for the [Command Undead](feats#_command-undead) feat, he gains a +1 profane bonus to the DC of that feat.
 
-Good creatures of 5 Hit Dice or less that attempt to touch the symbol must make a DC 15 Will save or be shaken for 1 round. Deliberate use of a _symbol of [unholy](magicItem_dir/weapons#_unholy [command](spell_dir/command#_command)_ is an evil act.
+Good creatures of 5 Hit Dice or less that attempt to touch the symbol must make a DC 15 Will save or be shaken for 1 round. Deliberate use of a _symbol of [unholy](magicItem_dir/weapons#_unholy) [command](spells/command#_command)_ is an evil act.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), [Command Undead](feats#_command-undead or _ [command undead](spell_dir/commandUndead#_command-undead_; **Cost** 4,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), [Command Undead](feats#_command-undead) or _ [command undead](spell_dir/commandUndead#_command-undead)_; **Cost** 4,000 gp
 
 ## Dhampir Spells
 
@@ -274,7 +274,7 @@ Dhampirs have access to the following spells.
 
 Blinding Ray
 
-**School** evocation [[good](monster_dir/creatureTypes#_good-subtype, light]; **Level** cleric 2, inquisitor 3, paladin 2
+**School** evocation [[good](monsters/creatureTypes#_good-subtype), light]; **Level** cleric 2, inquisitor 3, paladin 2
 
 **Casting Time** 1 standard action
 
@@ -300,13 +300,13 @@ Life Channel
 
 **Range** touch
 
-**Target** one touched creature with [negative energy affinity](monster_dir/universalMonsterRules#_negative-energy-affinity
+**Target** one touched creature with [negative energy affinity](monster_dir/universalMonsterRules#_negative-energy-affinity)
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute/level
 
-**Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-When cast on a creature with negative energy affinity, the target is able to convert channeled positive energy into temporary hit points. When subject to an effect that heals hit points only to living creatures (such as _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_ or channel positive energy, the target gains a number of temporary hit points equal to half the number of hit points that the positive energy would normally heal. These temporary hit points go away at the end of this spell's duration.
+When cast on a creature with negative energy affinity, the target is able to convert channeled positive energy into temporary hit points. When subject to an effect that heals hit points only to living creatures (such as _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_ or channel positive energy), the target gains a number of temporary hit points equal to half the number of hit points that the positive energy would normally heal. These temporary hit points go away at the end of this spell's duration.
 
 Spawn Ward
 
@@ -320,11 +320,11 @@ Spawn Ward
 
 **Target** creature touched
 
-**Duration** 10 minute_dir/level
+**Duration** 10 minutes/level
 
 **Save** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
 The target becomes resistant to the effects of energy drain and blood drain attacks made by undead creatures, and cannot be made into undead spawn if killed while the spell is in effect.
 
-If the attacking undead's Hit Dice is less than or equal to your caster level, the blood drain or energy drain has no effect. If the attacking undead's Hit Dice are greater than your caster level, the undead must make a Fortitude save (against the DC of the spell with each attack for those special abilities to have any effect. The spell only prevents the Constitution damage from blood drain and negative levels from energy drain, but not any other effects of these attacks.
+If the attacking undead's Hit Dice is less than or equal to your caster level, the blood drain or energy drain has no effect. If the attacking undead's Hit Dice are greater than your caster level, the undead must make a Fortitude save (against the DC of the spell) with each attack for those special abilities to have any effect. The spell only prevents the Constitution damage from blood drain and negative levels from energy drain, but not any other effects of these attacks.
 

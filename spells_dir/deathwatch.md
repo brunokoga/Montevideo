@@ -1,5 +1,5 @@
 ---
-title: spells/deathwatch
+title: spell_dir/deathwatch
 ---
  **Deathwatch**
 

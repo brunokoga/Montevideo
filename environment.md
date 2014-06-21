@@ -351,7 +351,7 @@ Some traps include optional features that can make them considerably more deadly
 
 **Pit Bottom** : If something other than spikes waits at the bottom of a pit, it's best to treat that as a separate trap (see Multiple Traps) with a location trigger that activates on any significant impact, such as a falling character.
 
-**Touch Attack** : This feature applies to any trap that needs only a successful touch attack (melee or ranged to hit.
+**Touch Attack** : This feature applies to any trap that needs only a successful touch attack (melee or ranged) to hit.
 
 # Sample Traps
 
@@ -712,14 +712,14 @@ Designing new traps is a simple process. Start by deciding what type of trap you
 | 21–25 | +1 |
 | 26–29 | +2 |
 | 30 or higher | +3 |
-| Attack Bonus (Melee or Ranged Attack Trap |
+| Attack Bonus (Melee or Ranged Attack Trap) |
 | +0 or lower | –2 |
 | +1 to +5 | –1 |
 | +6 to +10 | — |
 | +11 to +15 | +1 |
 | +16 to +20 | +2 |
 | Touch attack | +1 |
-| Damag_dir/Effect |
+| Damage/Effect |
 | Average damage | +1 per 10 points of average damage |
 | Miscellaneous Features |
 | Alchemical device | Level of spell mimicked |
@@ -1034,7 +1034,7 @@ An avalanche can be spotted from as far away as 1d10 × 500 feet by a character 
 
 A landslide or avalanche consists of two distinct areas: the bury zone (in the direct path of the falling debris) and the slide zone (the area the debris spreads out to encompass). Characters in the bury zone always take damage from the avalanche; characters in the slide zone might be able to get out of the way. Characters in the bury zone take 8d6 points of damage, or half that amount if they make a DC 15 [Reflex](combat#_reflex) save. They are subsequently buried. Characters in the slide zone take 3d6 points of damage, or no damage if they make a DC 15 [Reflex](combat#_reflex) save. Those who fail their saves are buried.
 
-Buried characters take 1d6 points of nonlethal damage per minute. If a buried character falls [unconscious](glossary#_unconscious), he must make a DC 15 [Constitution](gettingStarted#_constitution check or take 1d6 points of lethal damage each minute thereafter until freed or dead. See Cave-Ins and Collapses for rules on digging out buried creatures.
+Buried characters take 1d6 points of nonlethal damage per minute. If a buried character falls [unconscious](glossary#_unconscious), he must make a DC 15 [Constitution](gettingStarted#_constitution) check or take 1d6 points of lethal damage each minute thereafter until freed or dead. See Cave-Ins and Collapses for rules on digging out buried creatures.
 
 The typical avalanche has a width of 1d6 × 100 feet, from one edge of the slide zone to the opposite edge. The bury zone in the center of the avalanche is half as wide as the avalanche's full width.
 
@@ -1136,7 +1136,7 @@ _Swept Away_: Characters swept away by a river moving 60 feet per round or faste
 
 It's hard to find cover or concealment to hide underwater (except along the sea floor).
 
-_Invisibility_: An [invisible](glossary#_invisible) creature displaces water and leaves a visible, body-shaped “bubble” where the water was displaced. The creature still has concealment (20% miss chance), but not total concealment (50% miss chance.
+_Invisibility_: An [invisible](glossary#_invisible) creature displaces water and leaves a visible, body-shaped “bubble” where the water was displaced. The creature still has concealment (20% miss chance), but not total concealment (50% miss chance).
 
 ### Underwater Combat
 
@@ -1147,7 +1147,7 @@ Land-based creatures can have considerable difficulty when fighting in water. Wa
 | --- | --- | --- | --- |
 | Slashing or Bludgeoning | Piercing |
 | --- | --- |
-| _Freedom of movement_ | normal/normal | normal/normal | normal | No |
+| _Freedom of movement_ | norma_dir/normal | normal/normal | normal | No |
 | Has a swim speed | –2/half | normal | normal | No |
 | Successful Swim check | –2/half⁲ | normal | quarter or half⁳ | No |
 | Firm footing⁴ | –2/half⁲ | normal | half | No |
@@ -1322,7 +1322,7 @@ Table: Random Weather can be used as a simple local weather table. Terms on that
 
 **Cold Snap** : Lowers temperature by –10° F.
 
-**Downpour** : Treat as rain (see Precipitation, below, but conceals as fog. Can create floods. A downpour lasts for 2d4 hours.
+**Downpour** : Treat as rain (see Precipitation, below), but conceals as fog. Can create floods. A downpour lasts for 2d4 hours.
 
 **Heat Wave** : Raises temperature by +10° F.
 
@@ -1330,11 +1330,11 @@ Table: Random Weather can be used as a simple local weather table. Terms on that
 
 **Moderate** : Between 40° and 60° Fahrenheit during the day, 10 to 20 degrees colder at night.
 
-**Powerful Storm (Windstorm/Blizzard/Hurrican_dir/Tornado)** : Wind speeds are over 50 mph (see Table: Wind Effects). In addition, blizzards are accompanied by heavy snow (1d3 feet), and hurricanes are accompanied by downpours. Windstorms last for 1d6 hours. Blizzards last for 1d3 days. Hurricanes can last for up to a week, but their major impact on characters comes in a 24-to-48-hour period when the center of the storm moves through their area. Tornadoes are very short-lived (1d6 × 10 minutes), typically forming as part of a thunderstorm system.
+**Powerful Storm (Windstorm/Blizzar_dir/Hurricane/Tornado)** : Wind speeds are over 50 mph (see Table: Wind Effects). In addition, blizzards are accompanied by heavy snow (1d3 feet), and hurricanes are accompanied by downpours. Windstorms last for 1d6 hours. Blizzards last for 1d3 days. Hurricanes can last for up to a week, but their major impact on characters comes in a 24-to-48-hour period when the center of the storm moves through their area. Tornadoes are very short-lived (1d6 × 10 minutes), typically forming as part of a thunderstorm system.
 
-**Precipitation** : Roll d% to determine whether the precipitation is fog (01–30, rai_dir/snow (31–90, or slee_dir/hail (91–00. Snow and sleet occur only when the temperature is 30° Fahrenheit or below. Most precipitation lasts for 2d4 hours. By contrast, hail lasts for only 1d20 minutes but usually accompanies 1d4 hours of rain.
+**Precipitation** : Roll d% to determine whether the precipitation is fog (01–30), rai_dir/snow (31–90), or sleet/hail (91–00). Snow and sleet occur only when the temperature is 30° Fahrenheit or below. Most precipitation lasts for 2d4 hours. By contrast, hail lasts for only 1d20 minutes but usually accompanies 1d4 hours of rain.
 
-**Storm (Duststorm/Snowstor_dir/Thunderstorm)** : Wind speeds are severe (30 to 50 mph) and visibility is cut by three-quarters. Storms last for 2d4–1 hours. See Storms, below, for more details.
+**Storm (Duststor_dir/Snowstorm/Thunderstorm)** : Wind speeds are severe (30 to 50 mph) and visibility is cut by three-quarters. Storms last for 2d4–1 hours. See Storms, below, for more details.
 
 **Warm** : Between 60° and 85° Fahrenheit during the day, 10 to 20 degrees colder at night.
 
@@ -1382,16 +1382,16 @@ Whether in the form of a low-lying cloud or a mist rising from the ground, fog o
 
 ### Winds
 
-The wind can create a stinging spray of sand or dust, fan a large fire, keel over a small boat, and blow gases or vapors away. If powerful enough, it can even knock characters down (see Table: Wind Effects, interfere with ranged attacks, or impose penalties on some skill checks.
+The wind can create a stinging spray of sand or dust, fan a large fire, keel over a small boat, and blow gases or vapors away. If powerful enough, it can even knock characters down (see Table: Wind Effects), interfere with ranged attacks, or impose penalties on some skill checks.
 
 [Table: Wind Effects]
-| Wind Force | Wind Speed | Ranged Attacks Normal/Siege Weaponsⁱ | Checked Size⁲ | Blown Away Size | Fly Penalty |
+| Wind Force | Wind Speed | Ranged Attacks Norma_dir/Siege Weaponsⁱ | Checked Size⁲ | Blown Away Size | Fly Penalty |
 | --- | --- | --- | --- | --- | --- |
 | Light | 0–10 mph | —/— | — | — | — |
 | Moderate | 11–20 mph | —/— | — | — | — |
 | Strong | 21–30 mph | –2/— | Tiny | — | –2 |
 | Severe | 31–50 mph | –4/— | Small | Tiny | –4 |
-| Windstorm | 51–74 mph | Impossible/–4 | Medium | Small | –8 |
+| Windstorm | 51–74 mph | Impossibl_dir/–4 | Medium | Small | –8 |
 | Hurricane | 75–174 mph | Impossible/–8 | Large | Medium | –12 |
 | Tornado | 175–300 mph | Impossibl_dir/impossible | Huge | Large | –16 |
 
@@ -1601,7 +1601,7 @@ Any character can hold her breath for a number of rounds equal to twice her [Con
 
 When the character finally fails her [Constitution](gettingStarted#_constitution) check, she begins to drown. In the first round, she falls [unconscious](glossary#_unconscious) (0 hp). In the following round, she drops to –1 hit points and is [dying](glossary#_dying). In the third round, she drowns.
 
-[Unconscious](glossary#_unconscious) characters must begin making [Constitution](gettingStarted#_constitution) checks immediately upon being submerged (or upon becoming [unconscious](glossary#_unconscious) if the character was conscious when submerged). Once she fails one of these checks, she immediately drops to –1 (or loses 1 additional hit point, if her total is below –1. On the following round, she drowns.
+[Unconscious](glossary#_unconscious) characters must begin making [Constitution](gettingStarted#_constitution) checks immediately upon being submerged (or upon becoming [unconscious](glossary#_unconscious) if the character was conscious when submerged). Once she fails one of these checks, she immediately drops to –1 (or loses 1 additional hit point, if her total is below –1). On the following round, she drowns.
 
 It is possible to drown in substances other than water, such as sand, quicksand, fine dust, and silos full of grain.
 

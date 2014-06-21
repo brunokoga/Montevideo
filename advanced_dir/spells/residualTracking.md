@@ -1,5 +1,5 @@
 ---
-title: advanced/spell_dir/residualTracking
+title: advance_dir/spells/residualTracking
 ---
  **Residual Tracking**
 
@@ -7,7 +7,7 @@ title: advanced/spell_dir/residualTracking
 
 **Casting Time** 1 minute
 
-**Components** V, S, M (a bit of plaster
+**Components** V, S, M (a bit of plaster)
 
 **Range** touch
 

@@ -1,5 +1,5 @@
 ---
-title: spells/meldIntoStone
+title: spell_dir/meldIntoStone
 ---
  **Meld into Stone**
 

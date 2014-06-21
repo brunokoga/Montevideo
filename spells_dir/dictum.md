@@ -1,5 +1,5 @@
 ---
-title: spells/dictum
+title: spell_dir/dictum
 ---
  **Dictum**
 

@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/hauntingChoir
+title: ultimateMagi_dir/spells/hauntingChoir
 ---
 Haunting Choir
 

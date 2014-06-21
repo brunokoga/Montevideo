@@ -1,9 +1,9 @@
 ---
-title: mythicAdventures/mythicSpells/sunMetal
+title: mythicAdventure_dir/mythicSpells/sunMetal
 ---
 Sun Metal
 
-**Source** [_sun metal_](ultimateCombat/spell_dir/sunMetal#_sun-metal)
+**Source** [_sun metal_](ultimateComba_dir/spells/sunMetal#_sun-metal)
 
-The additional damage dealt by the weapon increases to 1d6 points of fire damage. Any creature struck by the weapon is dazzled for 1 round (no saving throw). On a critical hit, the target is blinded for 1 round (Fortitude negates, DC equal to the DC of the spell.
+The additional damage dealt by the weapon increases to 1d6 points of fire damage. Any creature struck by the weapon is dazzled for 1 round (no saving throw). On a critical hit, the target is blinded for 1 round (Fortitude negates, DC equal to the DC of the spell).
 

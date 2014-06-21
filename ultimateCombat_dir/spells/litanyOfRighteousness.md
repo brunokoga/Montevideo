@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/litanyOfRighteousness
+title: ultimateComba_dir/spells/litanyOfRighteousness
 ---
 Litany of Righteousness
 
-**School** evocation [[good](monster_dir/creatureTypes#_good-subtype, language dependent]; **Level** inquisitor 3, paladin 2
+**School** evocation [[good](monster_dir/creatureTypes#_good-subtype), language dependent]; **Level** inquisitor 3, paladin 2
 
 **Casting Time** 1 swift action
 

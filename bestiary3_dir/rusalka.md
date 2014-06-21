@@ -9,15 +9,15 @@ Rusalka CR 12
 
 XP 19,200
 
-NE Medium fey ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
+NE Medium fey ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +10; **Senses** low-light vision; [Perception](skill_dir/perception#_perception) +22
+**Init** +10; **Senses** low-light vision; [Perception](skills/perception#_perception) +22
 
 Defense
 
 **AC** 25, touch 17, flat-footed 18 (+6 Dex, +1 dodge, +8 natural)
 
-**hp** 150 (20d6+80
+**hp** 150 (20d6+80)
 
 **Fort** +12, **Ref** +18, **Will** +15
 
@@ -27,19 +27,19 @@ Offense
 
 **Speed** 30 ft., swim 60 ft.
 
-**Melee** staggering touch +16 (stagger, 4 tresses +16 (2d6+5 plus [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** staggering touch +16 (stagger), 4 tresses +16 (2d6+5 plus [grab](monsters/universalMonsterRules#_grab))
 
-**Space** 5 ft.; **Reach** 5 ft. (15 ft. with tresses
+**Space** 5 ft.; **Reach** 5 ft. (15 ft. with tresses)
 
 **Special Attacks** beckoning call, [constrict](monster_dir/universalMonsterRules#_constrict) (2d6+7), tresses
 
-**Spell-Like Abilities** (CL 20th; concentration +27
+**Spell-Like Abilities** (CL 20th; concentration +27)
 
-Constant—_ [blur](spell_dir/blur#_blur_, _ [water walk](spell_dir/waterWalk#_water-walk_
+Constant—_ [blur](spells/blur#_blur)_, _ [water walk](spell_dir/waterWalk#_water-walk)_
 
-At will—_ [entangle](spell_dir/entangle#_entangle)_ (DC 18, _ [fog cloud](spell_dir/fogCloud, [invisibility](spell_dir/invisibility#_invisibility_
+At will—_ [entangle](spells/entangle#_entangle)_ (DC 18), _ [fog cloud](spell_dir/fogCloud), [invisibility](spells/invisibility#_invisibility)_
 
-3/day—quickened _ [charm monster](spell_dir/charmMonster#_charm-monster)_ (DC 21, _ [control water](spell_dir/controlWater#_control-water_
+3/day—quickened _ [charm monster](spell_dir/charmMonster#_charm-monster)_ (DC 21), _ [control water](spells/controlWater#_control-water)_
 
 1/day—_ [summon nature's ally VI](spell_dir/summonNatureSAlly#_summon-nature-s-ally-vi)_ (water elementals only)
 
@@ -49,9 +49,9 @@ Statistics
 
 **Base Atk** +10; **CMB** +16 (+20 when using tresses); **CMD** 32
 
-**Feats** [Agile Maneuvers](feats#_agile-maneuvers), [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will, [Quicken Spell-Like Ability](monster_dir/monsterFeats#_quicken-spell-like-ability (_ [charm monster](spell_dir/charmMonster#_charm-monster)_), [Skill Focus](feats#_skill-focus ( [Perception](skill_dir/perception#_perception)), [Skill Focus](feats#_skill-focus ( [Stealth](skill_dir/stealth#_stealth)), [Weapon Finesse](feats#_weapon-finesse
+**Feats** [Agile Maneuvers](feats#_agile-maneuvers), [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Quicken Spell-Like Ability](monsters/monsterFeats#_quicken-spell-like-ability) (_ [charm monster](spell_dir/charmMonster#_charm-monster)_), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Skill Focus](feats#_skill-focus) ( [Stealth](skill_dir/stealth#_stealth)), [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics +14, [Bluff](skill_dir/bluff#_bluff +24, [Diplomacy](skill_dir/diplomacy#_diplomacy +15, [Escape Artist](skill_dir/escapeArtist#_escape-artist +18, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +6, [Knowledge](skill_dir/knowledge#_knowledge) (nature +18, [Perception](skill_dir/perception#_perception +22, [Perform](skill_dir/perform#_perform) (dance +14, [Perform](skill_dir/perform#_perform) (sing +27, [Sense Motive](skill_dir/senseMotive#_sense-motive +15, [Spellcraft](skill_dir/spellcraft#_spellcraft +18, [Stealth](skill_dir/stealth#_stealth +27, [Swim](skill_dir/swim#_swim +31
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +14, [Bluff](skill_dir/bluff#_bluff) +24, [Diplomacy](skills/diplomacy#_diplomacy) +15, [Escape Artist](skill_dir/escapeArtist#_escape-artist) +18, [Knowledge](skills/knowledge#_knowledge) (arcana) +6, [Knowledge](skill_dir/knowledge#_knowledge) (nature) +18, [Perception](skills/perception#_perception) +22, [Perform](skill_dir/perform#_perform) (dance) +14, [Perform](skills/perform#_perform) (sing) +27, [Sense Motive](skill_dir/senseMotive#_sense-motive) +15, [Spellcraft](skills/spellcraft#_spellcraft) +18, [Stealth](skill_dir/stealth#_stealth) +27, [Swim](skills/swim#_swim) +31
 
 **Languages** Common, Sylvan
 
@@ -67,11 +67,11 @@ Ecology
 
 Special Abilities
 
-**Beckoning Call (Su** As a standard action, a rusalka can sing or speak, causing all non-fey creatures within a 300-foot spread to approach its position as if compelled to do so via a _ [suggestion](spell_dir/suggestion#_suggestion)_ spell (DC 27 Will negates). A creature that successfully saves is not subject to the same rusalka's beckoning call for 24 hours. When an affected creature begins its turn adjacent to the rusalka, it is dazed for that round. These effects continue as long as the rusalka takes a standard action to maintain the effect, plus 1 additional round. This is a mind-affecting effect. The save DC is Charisma-based.
+**Beckoning Call (Su)** As a standard action, a rusalka can sing or speak, causing all non-fey creatures within a 300-foot spread to approach its position as if compelled to do so via a _ [suggestion](spells/suggestion#_suggestion)_ spell (DC 27 Will negates). A creature that successfully saves is not subject to the same rusalka's beckoning call for 24 hours. When an affected creature begins its turn adjacent to the rusalka, it is dazed for that round. These effects continue as long as the rusalka takes a standard action to maintain the effect, plus 1 additional round. This is a mind-affecting effect. The save DC is Charisma-based.
 
 **Staggering Touch (Su)** A creature touched by a rusalka must make a DC 27 Fortitude save or be staggered for 1 round by overwhelming feelings of desire and shame. This is a mind-affecting effect. The save DC is Charisma-based.
 
-**Tresses (Su** A rusalka's long hair is strong and capable of making powerful primary natural attacks. When it uses its tresses to grapple an opponent, a rusalka does not gain the grappled condition itself. In addition, a rusalka uses its Charisma modifier in addition to its Strength modifier for all combat maneuver checks made with its tresses.
+**Tresses (Su)** A rusalka's long hair is strong and capable of making powerful primary natural attacks. When it uses its tresses to grapple an opponent, a rusalka does not gain the grappled condition itself. In addition, a rusalka uses its Charisma modifier in addition to its Strength modifier for all combat maneuver checks made with its tresses.
 
 Rusalkas are cruel and bitter fey who inhabit waterways near humanoid settlements. Although rusalkas are not undead, some persist in believing that these fey form from the spirits of those who met a sinister end in the water. Rusalkas do little to dissuade such rumors. Rusalkas are fond of keeping a few charmed monsters or powerful humanoids nearby to aid in their defense or for other forms of cruel and humiliating entertainment, but quickly grow bored with such pets. When this occurs, rusalkas generally murder the creatures and seek more interesting replacement pets.
 

@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/enemyHammer
+title: advance_dir/spells/enemyHammer
 ---
  **Enemy Hammer**
 
@@ -7,7 +7,7 @@ title: advanced/spells/enemyHammer
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (puppet strings
+**Components** V, S, M (puppet strings)
 
 **Range** long (400 ft. + 40 ft./level)
 
@@ -17,7 +17,7 @@ title: advanced/spells/enemyHammer
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 
-You grab a creature with telekinesis and use it to batter nearby opponents or objects. You must target a specific creature when casting this spell and once you select that creature you cannot switch to another. Each round, as a standard action, you can attempt to hurl the target at any creature or object within 30 feet of it. You must make an attack roll whenever you use the target as a weapon. The attack bonus for this attack is equal to your caster level plus either your Intelligence or Charisma modifier (whichever is higher. If you successfully hit the new target with the creature both it and the creature take damage based on the creature's size.
+You grab a creature with telekinesis and use it to batter nearby opponents or objects. You must target a specific creature when casting this spell and once you select that creature you cannot switch to another. Each round, as a standard action, you can attempt to hurl the target at any creature or object within 30 feet of it. You must make an attack roll whenever you use the target as a weapon. The attack bonus for this attack is equal to your caster level plus either your Intelligence or Charisma modifier (whichever is higher). If you successfully hit the new target with the creature both it and the creature take damage based on the creature's size.
 
 **Creature Size Damage Dealt**
 

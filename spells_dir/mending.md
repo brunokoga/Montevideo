@@ -1,5 +1,5 @@
 ---
-title: spells/mending
+title: spell_dir/mending
 ---
  **Mending**
 

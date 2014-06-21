@@ -3,7 +3,7 @@ title: spell_dir/majorCreation
 ---
  **Major Creation**
 
-**School** conjuration (creation; **Level** sorcerer/wizard 5
+**School** conjuration (creation); **Level** sorcerer/wizard 5
 
 **Casting Time** : 10 minutes
 
@@ -19,5 +19,5 @@ This spell functions like _ [minor creation](minorCreation#_minor-creation), _ex
 | Stone, crystal, base metals | 1 hr./level |
 | Precious metals | 20 min./level |
 | Gems | 10 min./level |
-| Rare metal\* | 1 round/level |
+| Rare metal\* | 1 roun_dir/level |
 

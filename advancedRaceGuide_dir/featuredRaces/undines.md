@@ -1,5 +1,5 @@
 ---
-title: advancedRaceGuide/featuredRaces/undines
+title: advancedRaceGuid_dir/featuredRaces/undines
 ---
 # Undines
 
@@ -35,11 +35,11 @@ Undines get along quite well with elves and gnomes. Often these races share prot
 
 **Medium** : Undines are Medium creatures and receive no bonuses or penalties due to their size.
 
-**Normal Speed** : Undines have a base speed of 30 feet on land. They also have a swim speed of 30 feet, can move in water without making [Swim](skill_dir/swim#_swim checks, and always treat [Swim](skill_dir/swim#_swim as a class skill.
+**Normal Speed** : Undines have a base speed of 30 feet on land. They also have a swim speed of 30 feet, can move in water without making [Swim](skill_dir/swim#_swim) checks, and always treat [Swim](skills/swim#_swim) as a class skill.
 
 **Darkvision** : Undines can see in the dark up to 60 feet.
 
-**Spell-Like Ability** : _ [Hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_ 1/day (caster level equals the undine's level).
+**Spell-Like Ability** : _ [Hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_ 1/day (caster level equals the undine's level).
 
 **Energy Resistance** : Undines have cold resistance 5.
 
@@ -55,17 +55,17 @@ The following racial traits might be selected instead of existing undine racial 
 
 **Amphibious** : Some undines are born with a permanent bond to water. Undines with this racial trait gain the aquatic subtype and amphibious special quality. This racial trait replaces the spell-like ability racial trait.
 
-**[Deepsight](advance_dir/advancedFeats#_deepsight** : The eyes of some undines are especially adapted to the lightless depths of the oceans, but not to air-filled environments. An undine with this racial trait has darkvision 120 feet when underwater, but otherwise has no darkvision at all. This racial trait replaces darkvision.
+**[Deepsight](advance_dir/advancedFeats#_deepsight)** : The eyes of some undines are especially adapted to the lightless depths of the oceans, but not to air-filled environments. An undine with this racial trait has darkvision 120 feet when underwater, but otherwise has no darkvision at all. This racial trait replaces darkvision.
 
-**Flesh Chameleon** : Some undines can change their coloration to match human skin tones. As a standard action, an undine with this racial trait can change her natural blue hue to match any normal human skin tone, and can revert to normal as a free action. This grants a +4 racial bonus on [Disguise](skill_dir/disguise#_disguise checks to appear human. This racial trait replaces energy resistance.
+**Flesh Chameleon** : Some undines can change their coloration to match human skin tones. As a standard action, an undine with this racial trait can change her natural blue hue to match any normal human skin tone, and can revert to normal as a free action. This grants a +4 racial bonus on [Disguise](skills/disguise#_disguise) checks to appear human. This racial trait replaces energy resistance.
 
-**Hydrated Vitality** : An undine with this racial trait gains fast healing 2 for 1 round anytime she submerges completely within a body of natural salt water, fresh water, or brackish water. Stagnant, poisoned, or trapped water (such as an artificial pit or a _ [bag of holding](magicItem_dir/wondrousItems#_bag-of-holding)_ does not activate this ability. The undine can heal up to 2 hit points per level per day with this ability, after which it ceases to function. This racial trait replaces water affinity.
+**Hydrated Vitality** : An undine with this racial trait gains fast healing 2 for 1 round anytime she submerges completely within a body of natural salt water, fresh water, or brackish water. Stagnant, poisoned, or trapped water (such as an artificial pit or a _ [bag of holding](magicItem_dir/wondrousItems#_bag-of-holding)_) does not activate this ability. The undine can heal up to 2 hit points per level per day with this ability, after which it ceases to function. This racial trait replaces water affinity.
 
 **Nereid Fascination** : Some undines can trace their ancestry to nereids as well as to outsiders. Once per day as a standard action, such an undine can create a 20-foot-radius aura that causes humanoids within the aura's range to become fascinated with her for a number of rounds equal to 1/2 the undine's character level (minimum 1). Targets may resist with a Will save (DC 10 + 1/2 the undine's level + the undine's Charisma modifier). This is a supernatural ability. This racial trait replaces the spell-like ability racial trait.
 
 **Ooze Breath** : Some undines' outsider heritage can be traced to ooze mephits. These undines have a breath weapon that is a 5-foot cone of slime usable once per day. The slime deals 1d4 points of acid damage per two character levels (maximum 5d4) and sickens creatures in the area for 3 rounds. A successful Reflex saving throw (DC 10 + 1/2 the undine's level + the undine's Constitution modifier) halves the damage and negates the sickened effect. This racial trait replaces the spell-like ability racial trait.
 
-**Terrain Chameleon** : Some undines can change their coloration to blend in with underwater terrain, mixing browns, grays, and greens to resemble kelp or other natural water plants. As a standard action, an undine with this racial trait can change her coloration, gaining a +4 bonus on [Stealth](skill_dir/stealth#_stealth checks in underwater environments. She can return to normal as a free action. This racial trait replaces energy resistance.
+**Terrain Chameleon** : Some undines can change their coloration to blend in with underwater terrain, mixing browns, grays, and greens to resemble kelp or other natural water plants. As a standard action, an undine with this racial trait can change her coloration, gaining a +4 bonus on [Stealth](skill_dir/stealth#_stealth) checks in underwater environments. She can return to normal as a free action. This racial trait replaces energy resistance.
 
 **Water Sense** : Undines with this racial trait can sense vibrations in water, granting them blindsense 30 feet against creatures in contact with the same body of water. This racial trait replaces energy resistance.
 
@@ -73,7 +73,7 @@ The following racial traits might be selected instead of existing undine racial 
 
 The following options are available to all undines who have the listed favored class, and unless otherwise stated, the bonus applies each time you select the class reward.
 
-**Bard** : Add a +1 bonus on [Perform](skill_dir/perform#_perform checks to use the countersong bardic performance against creatures with the aquatic or water subtypes.
+**Bard** : Add a +1 bonus on [Perform](skills/perform#_perform) checks to use the countersong bardic performance against creatures with the aquatic or water subtypes.
 
 **Cleric** : Add a +1 bonus on caster level checks to overcome the spell resistance of creatures with the aquatic or water subtype.
 
@@ -113,13 +113,13 @@ The watersinger's song reaches from the depths of his soul into the elemental wa
 
 **Bardic Performance** : A watersinger has some unique bardic performances, which replace some of the standard bardic performances as listed in each entry. These bardic performances follow all the general rules and restrictions of a bard's bardic performances.
 
-> _Watersong (Su_: At 1st level, a watersinger can use bardic performance to manipulate and control the shape of water within 30 feet. A successful [Perform](skill_dir/perform#_perform) check allows the bard to animate and control a 5-foot-cube of water. The watersinger can command the water to take various forms, bend, rise, fall, or sustain a shape, and can make it support weight as if it were solid ice. For example, the watersinger could create a pillar of water (to provide cover), ladder, channel, bridge, stairs, slide, and so on. The manipulated water is as slippery as normal ice. This ability cannot create forms more fragile or complex than what could be carved in normal ice. While under the bard's control, the water has hardness 0 and 3 hit points per inch of thickness. At level 3, the manipulated water gains hardness 1, and this increases by +1 for every 3 bard levels beyond that. At 5th, 10th, 15th, and 20th level, the volume affected increases by an additional 5-foot cube (these cubes must be adjacent to each other). The manipulated water retains its shape for 1 round after the bard stops spending bardic performance rounds to maintain it. This ability replaces fascinate, suggestion, and mass suggestion.
+> _Watersong (Su)_: At 1st level, a watersinger can use bardic performance to manipulate and control the shape of water within 30 feet. A successful [Perform](skills/perform#_perform) check allows the bard to animate and control a 5-foot-cube of water. The watersinger can command the water to take various forms, bend, rise, fall, or sustain a shape, and can make it support weight as if it were solid ice. For example, the watersinger could create a pillar of water (to provide cover), ladder, channel, bridge, stairs, slide, and so on. The manipulated water is as slippery as normal ice. This ability cannot create forms more fragile or complex than what could be carved in normal ice. While under the bard's control, the water has hardness 0 and 3 hit points per inch of thickness. At level 3, the manipulated water gains hardness 1, and this increases by +1 for every 3 bard levels beyond that. At 5th, 10th, 15th, and 20th level, the volume affected increases by an additional 5-foot cube (these cubes must be adjacent to each other). The manipulated water retains its shape for 1 round after the bard stops spending bardic performance rounds to maintain it. This ability replaces fascinate, suggestion, and mass suggestion.
 > 
 > _Waterstrike (Su)_: At 3rd level, the watersinger can spend 1 round of bardic performance to command any water he is currently manipulating with his watersong performance to lash out and strike an opponent with a slam attack. The watersinger uses his base attack bonus and Charisma bonus to make this attack, and deals 1d6 points of bludgeoning damage plus his Charisma bonus. The attack can originate from any square of water the bard is manipulating, and the water can get a flanking bonus or help a combatant get one, but cannot make attacks of opportunity. The water can make multiple attacks per round if your base attack bonus allows you to do so. At 10th level, the water's slam damage increases to 1d8 points and the water gains a reach of 10 feet. At 15th level, the water's slam damage increases to 2d6 points. At 20th level, the water's slam damage increases to 2d8 points. This performance replaces inspire competence.
 > 
-> _Lifewater (Su)_: At 5th level, the watersinger can spend 1 round of bardic performance as a standard action to manipulate the water, blood, and other fluids within a creature's body, causing the target to become sickened for 1d4 rounds. Alternatively, he may use this ability to attempt a reposition combat maneuver , using his base attack bonus and his Charisma modifier as his CMB. This ability has a range of 30 feet, only works on creatures whose bodies contain fluid, and does not affect creatures that are immune to critical hits. This performance replaces the use of lore master gained at 5th level (though a watersinger still gains the use of lore master once per day at 11th level and twice per day at 17th.
+> _Lifewater (Su)_: At 5th level, the watersinger can spend 1 round of bardic performance as a standard action to manipulate the water, blood, and other fluids within a creature's body, causing the target to become sickened for 1d4 rounds. Alternatively, he may use this ability to attempt a reposition combat maneuver , using his base attack bonus and his Charisma modifier as his CMB. This ability has a range of 30 feet, only works on creatures whose bodies contain fluid, and does not affect creatures that are immune to critical hits. This performance replaces the use of lore master gained at 5th level (though a watersinger still gains the use of lore master once per day at 11th level and twice per day at 17th).
 
-**Watersinger Spells** : A watersinger adds certain water-themed spells to his spell list. He adds these abilities to his spell list as soon as his bard level allows him to cast spells of that spell level. 0—_ [create water](spell_dir/createWater#_create-water_; 1st—_ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_ , _ [slipstream](advanced/spell_dir/slipstream#_slipstream_ 2nd—_ [aqueous orb](advanced/spell_dir/aqueousOrb#_aqueous-orb_ , _ [hydraulic torrent](advanced/spell_dir/hydraulicTorrent#_hydraulic-torrent-_ , _ [water walk](spell_dir/waterWalk#_water-walk_; 3rd—_ [fluid form](advanced/spell_dir/fluidForm#_fluid-form_ , _ [ride the waves](ultimateMagic/spell_dir/rideTheWaves#_ride-the-waves_ ; 4th—_ [control water](spell_dir/controlWater#_control-water_, _ [communal water walk](ultimateCombat/spell_dir/waterWalk#_water-walk,-communal_ ; 5th—_ [vortex](advanced/spell_dir/vortex#_vortex_ 6th—_ [seamantle](advanced/spell_dir/seamantle#_seamantle)_.
+**Watersinger Spells** : A watersinger adds certain water-themed spells to his spell list. He adds these abilities to his spell list as soon as his bard level allows him to cast spells of that spell level. 0—_ [create water](spell_dir/createWater#_create-water)_; 1st—_ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-)_ , _ [slipstream](advanced/spell_dir/slipstream#_slipstream)_ 2nd—_ [aqueous orb](advanced/spell_dir/aqueousOrb#_aqueous-orb)_ , _ [hydraulic torrent](advanced/spell_dir/hydraulicTorrent#_hydraulic-torrent-)_ , _ [water walk](spells/waterWalk#_water-walk)_; 3rd—_ [fluid form](advance_dir/spells/fluidForm#_fluid-form)_ , _ [ride the waves](ultimateMagi_dir/spells/rideTheWaves#_ride-the-waves)_ ; 4th—_ [control water](spell_dir/controlWater#_control-water)_, _ [communal water walk](ultimateCombat/spell_dir/waterWalk#_water-walk,-communal)_ ; 5th—_ [vortex](advanced/spell_dir/vortex#_vortex)_ 6th—_ [seamantle](advanced/spell_dir/seamantle#_seamantle)_.
 
 # New Racial Rules
 
@@ -131,9 +131,9 @@ Undines have access to the following equipment.
 
 **Chain Belts** : While undines dress sparingly, they often wear 10-foot-long belts of fine linked chain about their waists. The belts contain hinged links to which the wearer can affix various objects such as tools, small weapons, and other valuables, including links of silver and platinum, or small hammered plates of gold set with gems. If worn properly, the belt can hold up to 30 pounds of small items. A swimming undine can unwrap the belt as swift action if she needs to remove it to decrease her weight load.
 
-**Potion Sponge** : This egg-sized sponge is covered in a layer of waterproof edible wax, designed to absorb 1 dose of a potion. Chewing a potion sponge and swallowing its liquid contents is a full-round action. A creature of at least Large size can swallow the sponge in its entirely; other creatures must spit out the sponge once it's depleted (a free action). Unlike a potion that is drunk from a vial, a potion sponge can be used underwater. A potion can be poured from a vial into a sponge potion (or squeezed from a sponge into a vial as a full-round action. The potion sponge is immune to attacks that specifically target crystal, glass, ceramic, or porcelain, such as _ [shatter](spell_dir/shatter#_shatter_. It otherwise works like a potion vial.
+**Potion Sponge** : This egg-sized sponge is covered in a layer of waterproof edible wax, designed to absorb 1 dose of a potion. Chewing a potion sponge and swallowing its liquid contents is a full-round action. A creature of at least Large size can swallow the sponge in its entirely; other creatures must spit out the sponge once it's depleted (a free action). Unlike a potion that is drunk from a vial, a potion sponge can be used underwater. A potion can be poured from a vial into a sponge potion (or squeezed from a sponge into a vial) as a full-round action. The potion sponge is immune to attacks that specifically target crystal, glass, ceramic, or porcelain, such as _ [shatter](spells/shatter#_shatter)_. It otherwise works like a potion vial.
 
-**Undine Weaponshaft** : Undines incorporate a unique design when crafting shafted weapons such as quarterstaves, spears, and tridents. Instead of a solid shaft, the weapon is built around a pipe of wood or metal, with the butt end sealed and the front end left open. As a full-round action, an undine can make a single melee attack with the weapon and use her _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-)_ spell-like ability against the target of that melee attack. The weapon otherwise functions like a standard weapon of its type, and can be made of special materials (such as mithral or adamantine and masterwork quality.
+**Undine Weaponshaft** : Undines incorporate a unique design when crafting shafted weapons such as quarterstaves, spears, and tridents. Instead of a solid shaft, the weapon is built around a pipe of wood or metal, with the butt end sealed and the front end left open. As a full-round action, an undine can make a single melee attack with the weapon and use her _ [hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_ spell-like ability against the target of that melee attack. The weapon otherwise functions like a standard weapon of its type, and can be made of special materials (such as mithral or adamantine) and masterwork quality.
 
 [Undine Equipment]
 | Item | Cost | Weight | Craft DC |
@@ -156,13 +156,13 @@ You favor your outsider ancestry and are better adapted to life in the water.
 
 ### Hydraulic Maneuver
 
-You can use your _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_ to disarm or trip.
+You can use your _ [hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_ to disarm or trip.
 
-**Prerequisites** : _ [Hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_ spell-like ability, undine.
+**Prerequisites** : _ [Hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_ spell-like ability, undine.
 
-**Benefit** : You may use _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-)_ to attempt a bull rush, disarm, dirty trick (blind or dazzle, see , or trip combat maneuver. Each time you use _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_, you must decide which of the allowed combat maneuvers you want to perform. You may use this feat with your _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_ racial spell-like ability, your class-granted use of _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_, or any _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_ spells you cast, but not with magic items or other external sources that use that spell.
+**Benefit** : You may use _ [hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_ to attempt a bull rush, disarm, dirty trick (blind or dazzle, see ), or trip combat maneuver. Each time you use _ [hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_, you must decide which of the allowed combat maneuvers you want to perform. You may use this feat with your _ [hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_ racial spell-like ability, your class-granted use of _ [hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_, or any _ [hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_ spells you cast, but not with magic items or other external sources that use that spell.
 
-**Normal** : _ [Hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-)_ can only be used to make a bull rush combat maneuver.
+**Normal** : _ [Hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_ can only be used to make a bull rush combat maneuver.
 
 ### Steam Caster 
 
@@ -170,15 +170,15 @@ You imbue your fire spells with elemental water, transforming them into powerful
 
 **Prerequisite** : Undine.
 
-**Benefit** : You may increase the casting time of a fire spell to a full-round action, infusing it with elemental power (spells with a casting time of 1 full-round action or longer do not have an increased casting time. The spell is treated as if it had the water descriptor. All fire effects of the altered spell instead manifest as superheated steam. The altered spell works normally underwater without requiring a caster level check. Unlike fire, the steam cannot ignite objects or set creatures on fire. As the spell still deals fire damage, fire resistance or immunity still applies to the spell's effects.
+**Benefit** : You may increase the casting time of a fire spell to a full-round action, infusing it with elemental power (spells with a casting time of 1 full-round action or longer do not have an increased casting time). The spell is treated as if it had the water descriptor. All fire effects of the altered spell instead manifest as superheated steam. The altered spell works normally underwater without requiring a caster level check. Unlike fire, the steam cannot ignite objects or set creatures on fire. As the spell still deals fire damage, fire resistance or immunity still applies to the spell's effects.
 
 ### Triton Portal 
 
 You can channel your inner magic to summon allies.
 
-**Prerequisites** : Character level 5th, _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_ spell-like ability, undine.
+**Prerequisites** : Character level 5th, _ [hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_ spell-like ability, undine.
 
-**Benefit** : Once per day, you may expend your racial _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_ ability to instead cast _ [summon nature's ally III](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iii)_ as a spell-like ability with a caster level equal to your character level. This use of the ability can only summon a Small water elemental or 1d3 dolphins. Using this ability is a full-round action.
+**Benefit** : Once per day, you may expend your racial _ [hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_ ability to instead cast _ [summon nature's ally III](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iii)_ as a spell-like ability with a caster level equal to your character level. This use of the ability can only summon a Small water elemental or 1d3 dolphins. Using this ability is a full-round action.
 
 ### Water Skinned 
 
@@ -204,7 +204,7 @@ This amulet is crafted of a single massive petrified shark tooth suspended on ke
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [touch of the sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea_ , the crafter must be an undine or have the [water](monster_dir/creatureTypes#_water-subtype) subtype; **Cost** 4,500 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [touch of the sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea)_ , the crafter must be an undine or have the [water](monsters/creatureTypes#_water-subtype) subtype; **Cost** 4,500 gp
 
 Shawl of Life-Keeping
 
@@ -220,7 +220,7 @@ While the shawl is storing a creature's life energy, it retains a connection to 
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item,_ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds_, _ [stabilize](spell_dir/stabilize#_stabilize)_; **Cost** 500 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item),_ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_, _ [stabilize](spells/stabilize#_stabilize)_; **Cost** 500 gp
 
 Slippers of the Triton
 
@@ -234,7 +234,7 @@ Once they are slipped on, these web-toed slippers allow the wearer to breathe wa
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [ride the waves](ultimateMagic/spell_dir/rideTheWaves#_ride-the-waves _; **Cost** 28,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [ride the waves](ultimateMagi_dir/spells/rideTheWaves#_ride-the-waves) _; **Cost** 28,000 gp
 
 ## Undine Spells
 
@@ -242,7 +242,7 @@ Undines have access to the following spells.
 
 Marid's Mastery
 
-**School** transmutation [water]; **Level** cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1
+**School** transmutation [water]; **Level** cleric 1, druid 1, ranger 1, sorcere_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -252,7 +252,7 @@ Marid's Mastery
 
 **Target** creature touched
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -260,7 +260,7 @@ The target gains a +1 bonus on attack and damage rolls if it and its opponent ar
 
 Nereid's Grace
 
-**School** enchantment (charm [mind-affecting]; **Level** druid 1, witch 1
+**School** enchantment (charm) [mind-affecting]; **Level** druid 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -270,13 +270,13 @@ Nereid's Grace
 
 **Target** you
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
-You radiate the unearthly grace of a nereid. If you are not wearing armor (or your armor is not visible, such as when using _ [glamered](magicItem_dir/armor#_armor-glamered)_ armor), you gain a deflection bonus to your Armor Class and CMD equal to your Charisma bonus.
+You radiate the unearthly grace of a nereid. If you are not wearing armor (or your armor is not visible, such as when using _ [glamered](magicItems/armor#_armor-glamered)_ armor), you gain a deflection bonus to your Armor Class and CMD equal to your Charisma bonus.
 
 Nixie's Lure
 
-**School** enchantment (charm [mind-affecting, sonic]; **Level** bard 4, druid 3, sorcerer/wizard 3, summoner 4, witch 3
+**School** enchantment (charm) [mind-affecting, sonic]; **Level** bard 4, druid 3, sorcere_dir/wizard 3, summoner 4, witch 3
 
 **Casting Time** 1 standard action
 
@@ -286,7 +286,7 @@ Nixie's Lure
 
 **Target** all creatures within a 300-ft.-radius burst centered on you
 
-**Duration** concentration + 1 roun_dir/level (D
+**Duration** concentration + 1 round/level (D)
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -294,7 +294,7 @@ This spell creates an unearthly and infectious song that seductively summons all
 
 Undine's Curse
 
-**School** necromancy [evil]; **Level** sorcerer/wizard 1, witch 1
+**School** necromancy [evil]; **Level** sorcere_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -308,5 +308,5 @@ Undine's Curse
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The target loses its body's natural ability to breathe automatically. As long as it remains conscious and is able to take physical actions, it keeps breathing and is able to function normally. If it is ever unconscious (including sleeping or unable to take physical actions, it stops breathing and begins to suffocate. Creatures that do not have to breathe are immune to this spell.
+The target loses its body's natural ability to breathe automatically. As long as it remains conscious and is able to take physical actions, it keeps breathing and is able to function normally. If it is ever unconscious (including sleeping) or unable to take physical actions, it stops breathing and begins to suffocate. Creatures that do not have to breathe are immune to this spell.
 

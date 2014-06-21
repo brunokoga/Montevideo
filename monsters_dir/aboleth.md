@@ -9,7 +9,7 @@ _Four long tentacles writhe from this three-eyed fish-like creature's flanks, an
 
 **XP 3,200**
 
-LE Huge [aberration](creatureTypes#_aberration) (aquatic
+LE Huge [aberration](creatureTypes#_aberration) (aquatic)
 
 **Init** +5; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +14
 
@@ -31,9 +31,9 @@ LE Huge [aberration](creatureTypes#_aberration) (aquatic
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**[Spell-Like Abilities](universalMonsterRules#_spell-like-abilities)** (CL 16th
+**[Spell-Like Abilities](universalMonsterRules#_spell-like-abilities)** (CL 16th)
 
-At will—_ [hypnotic pattern](../spell_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 15, _ [illusory wall](../spell_dir/illusoryWall#_illusory-wall)_ (DC 17, _ [mirage arcana](../spell_dir/mirageArcana#_mirage-arcana)_ (DC 18, _ [persistent image](../spell_dir/persistentImage#_persistent-image)_ (DC 18, _ [programmed image](../spell_dir/programmedImage#_programmed-image)_ (DC 19, _ [project image](../spell_dir/projectImage#_project-image)_ (DC 20, _ [veil](../spell_dir/veil#_veil)_ (DC 19
+At will—_ [hypnotic pattern](../spell_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 15), _ [illusory wall](../spell_dir/illusoryWall#_illusory-wall)_ (DC 17), _ [mirage arcana](../spell_dir/mirageArcana#_mirage-arcana)_ (DC 18), _ [persistent image](../spell_dir/persistentImage#_persistent-image)_ (DC 18), _ [programmed image](../spell_dir/programmedImage#_programmed-image)_ (DC 19), _ [project image](../spell_dir/projectImage#_project-image)_ (DC 20), _ [veil](../spell_dir/veil#_veil)_ (DC 19)
 
 3/day—_ [dominate monster](../spell_dir/dominateMonster#_dominate-monster)_ (DC 22)
 
@@ -41,11 +41,11 @@ At will—_ [hypnotic pattern](../spell_dir/hypnoticPattern#_hypnotic-pattern)_ 
 
 **Str** 20, **Dex** 12, **Con** 22, **Int** 15, **Wis** 17, **Cha** 17
 
-**Base**  **Atk** +6; **CMB** +13; **CMD** 24 (can't be tripped
+**Base**  **Atk** +6; **CMB** +13; **CMD** 24 (can't be tripped)
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Weapon Focus](../feats#_weapon-focus) (tentacle)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +11, [Intimidate](../skill_dir/intimidate#_intimidate +14, [Knowledge](../skill_dir/knowledge#_knowledge) (any one +13, [Perception](../skill_dir/perception#_perception +14, [Spellcraft](../skill_dir/spellcraft#_spellcraft +13, [Swim](../skill_dir/swim#_swim) +24
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +11, [Intimidate](../skill_dir/intimidate#_intimidate) +14, [Knowledge](../skill_dir/knowledge#_knowledge) (any one) +13, [Perception](../skill_dir/perception#_perception) +14, [Spellcraft](../skill_dir/spellcraft#_spellcraft) +13, [Swim](../skill_dir/swim#_swim) +24
 
 **Languages** Aboleth, Aklo, Aquan, Undercommon
 
@@ -61,7 +61,7 @@ At will—_ [hypnotic pattern](../spell_dir/hypnoticPattern#_hypnotic-pattern)_ 
 
 **Mucus Cloud (Ex)** While underwater, an aboleth exudes a cloud of transparent slime. All creatures adjacent to an aboleth must succeed on a DC 20 Fortitude save each round or lose the ability to breathe air (but gain the ability to breathe water) for 3 hours. Renewed contact with an aboleth's mucus cloud and failing another save extends the effect for another 3 hours. The save DC is Constitution-based.
 
-**Slime (Ex** A creature hit by an aboleth's tentacle must succeed on a DC 20 Fortitude save or his skin and flesh transform into a clear, slimy membrane over the course of 1d4 rounds. The creature's new “flesh” is soft and tender, reducing its Constitution score by 4 as long as it persists. If the creature's flesh isn't kept moist, it dries quickly and the victim takes 1d12 points of damage every 10 minutes. _Remove disease_ and similar effects can restore an afflicted creature to normal, but immunity to disease offers no protection from this attack. The save DC is Constitution-based.
+**Slime (Ex)** A creature hit by an aboleth's tentacle must succeed on a DC 20 Fortitude save or his skin and flesh transform into a clear, slimy membrane over the course of 1d4 rounds. The creature's new “flesh” is soft and tender, reducing its Constitution score by 4 as long as it persists. If the creature's flesh isn't kept moist, it dries quickly and the victim takes 1d12 points of damage every 10 minutes. _Remove disease_ and similar effects can restore an afflicted creature to normal, but immunity to disease offers no protection from this attack. The save DC is Constitution-based.
 
 As befits their hideous primeval appearance, the hermaphroditic aboleths are among the world's oldest forms of life. Ancient even when the gods first turned their eyes to the Material Plane, the aboleths have always existed apart from other mortal life, alien and cold and endlessly plotting. They once ruled the world with vast empires, and today view most other forms of life as either food or slaves—and sometimes both. They disdain the gods and see themselves as the true masters of creation. An aboleth is 25 feet long and weighs 6,500 pounds.
 

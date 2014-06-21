@@ -9,7 +9,7 @@ _This horrid mass of eyes, mouths, and formless flesh stares in all directions, 
 
 **XP 1,600**
 
-N Medium [aberration](creatureTypes#_aberration
+N Medium [aberration](creatureTypes#_aberration)
 
 **Init** +3; **Senses** all-around vision, darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +12
 
@@ -17,7 +17,7 @@ N Medium [aberration](creatureTypes#_aberration
 
 **AC** 19, touch 13, flat-footed 16 (+3 Dex, +6 natural)
 
-**hp** 46 (4d8+28
+**hp** 46 (4d8+28)
 
 **Fort** +8, **Ref** +4, **Will** +5
 
@@ -39,7 +39,7 @@ N Medium [aberration](creatureTypes#_aberration
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](../skill_dir/perception#_perception +12, [Swim](../skill_dir/swim#_swim +8; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception)
+**Skills** [Perception](../skill_dir/perception#_perception) +12, [Swim](../skill_dir/swim#_swim) +8; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception)
 
 **Language** Aklo
 
@@ -65,7 +65,7 @@ N Medium [aberration](creatureTypes#_aberration
 
 **Ground Manipulation (Su)** At will as a standard action, a gibbering mouther can cause stone and earth under its body to grow soft and muddy. The ground remains muddy for 1 minute after the mouther moves off of the location. A gibbering mouther can move through these areas with ease, but other creatures treat them as difficult terrain.
 
-**Spittle (Ex** Each round as a free action, a gibbering mouther can emit a stream of acidic spittle at one target within 30 feet. On a successful attack, the target is blinded for 1d4 rounds unless he succeeds on a DC 18 Fortitude save. The save DC is Constitution-based.
+**Spittle (Ex)** Each round as a free action, a gibbering mouther can emit a stream of acidic spittle at one target within 30 feet. On a successful attack, the target is blinded for 1d4 rounds unless he succeeds on a DC 18 Fortitude save. The save DC is Constitution-based.
 
 Disgusting, loathsome, and hungry—these are the only words that properly describe the gibbering mouther. A foul beast that lurks in underground caves, sewers, and nightmares, mouthers have no societal, ecological or religious significance other than their ability to drive those that listen to them mad. Some scholars believe that gibbering mouthers are a lesser variant of the much more dangerous shoggoth, while others theorize they are a punishment by some powerful being or deity inflicted on those who have offended it.
 

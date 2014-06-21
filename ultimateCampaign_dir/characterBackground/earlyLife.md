@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/characterBackgroun_dir/earlyLife
+title: ultimateCampaig_dir/characterBackground/earlyLife
 ---
 # Early Life
 
@@ -27,7 +27,7 @@ Think about the family dynamics. If you have siblings, are you close to them? We
 
 **Adoption, Illegitimacy, and Orphanhood** : Growing up adopted, separated from your parents, as an illegitimate child, or on your own as an orphan may have a large effect on your mind-set, prompting questions of identity, driving you to establish yourself in the world, or plaguing you with questions about the circumstances of your birth.
 
-Were you born of two committed parents, the result of a chance tryst, or something else? Were you reared by your birth parents or by someone else, and was that better or worse than the alternative? Did parents of a different race (including wild beasts or monsters bring you up?
+Were you born of two committed parents, the result of a chance tryst, or something else? Were you reared by your birth parents or by someone else, and was that better or worse than the alternative? Did parents of a different race (including wild beasts or monsters) bring you up?
 
 **Parents' Professions** : Your parents' professions were a backdrop against the environment you grew up in, and it's likely you were assigned tasks and chores related to their trades, and expected to learn associated skills.
 

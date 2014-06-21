@@ -1,5 +1,5 @@
 ---
-title: advanced/magicItem_dir/wondrousItems
+title: advance_dir/magicItems/wondrousItems
 ---
 [Table: Minor Wondrous Items]
 | d% | Item | Market Price |
@@ -77,7 +77,7 @@ title: advanced/magicItem_dir/wondrousItems
 
 # Wondrous Items
 
-Wondrous items is a catchall category for anything that doesn't fall into the other groups of magic items. Any creature can use a wondrous item (unless specified otherwise in the description, such as requiring a particular class feature.
+Wondrous items is a catchall category for anything that doesn't fall into the other groups of magic items. Any creature can use a wondrous item (unless specified otherwise in the description, such as requiring a particular class feature).
 
 **All Tools Vest**
 
@@ -87,7 +87,7 @@ Wondrous items is a catchall category for anything that doesn't fall into the ot
 
 **Description**
 
-The stitching along the many pockets of this light leather vest depicts cheerful laborers going about their daily work. Once per day, as a standard action, the wearer can speak its command word and order it to bring forth all the standard tools required to make checks for any one [Craft](../../skill_dir/craft#_craft skill. These tools appear in the countless pockets of the vest or, if too heavy, on the floor, on a nearby shelf, on a workbench, or in a toolbox or cupboard that appears nearby. Once summoned, they remain for 24 hours or until another creature touches them, whichever comes first.
+The stitching along the many pockets of this light leather vest depicts cheerful laborers going about their daily work. Once per day, as a standard action, the wearer can speak its command word and order it to bring forth all the standard tools required to make checks for any one [Craft](../../skill_dir/craft#_craft) skill. These tools appear in the countless pockets of the vest or, if too heavy, on the floor, on a nearby shelf, on a workbench, or in a toolbox or cupboard that appears nearby. Once summoned, they remain for 24 hours or until another creature touches them, whichever comes first.
 
 **Construction**
 
@@ -101,11 +101,11 @@ The stitching along the many pockets of this light leather vest depicts cheerful
 
 **Description**
 
-Each silver link that makes up this heavy necklace represents a well-known concept of arcane theory. A universalist wizard who selects the necklace as his bonded object (which counts as an amulet may choose one school of spells each day when he prepares spells. He then can use the necklace to spontaneously convert any prepared wizard spell of that school into any other wizard spell of that school he knows; the desired spell must be of the same level or lower than the prepared spell. For example, if the wizard chose “evocation” when he prepared his spells that morning, until the next time he prepares spells, he can spontaneously convert a prepared _ [fireball](../../spell_dir/fireball#_fireball_ into any other evocation wizard spell of 3rd level or lower that he knows.
+Each silver link that makes up this heavy necklace represents a well-known concept of arcane theory. A universalist wizard who selects the necklace as his bonded object (which counts as an amulet) may choose one school of spells each day when he prepares spells. He then can use the necklace to spontaneously convert any prepared wizard spell of that school into any other wizard spell of that school he knows; the desired spell must be of the same level or lower than the prepared spell. For example, if the wizard chose “evocation” when he prepared his spells that morning, until the next time he prepares spells, he can spontaneously convert a prepared _ [fireball](../../spell_dir/fireball#_fireball)_ into any other evocation wizard spell of 3rd level or lower that he knows.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [permanency](../../spell_dir/permanency#_permanency_, creator must be a universalist; **Cost** 10,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [permanency](../../spell_dir/permanency#_permanency)_, creator must be a universalist; **Cost** 10,000 gp
 
 **Amulet of Spell Cunning**
 
@@ -119,7 +119,7 @@ This silver locket only has power when used as a wizard's bonded object. It allo
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [mnemonic enhancer](../../spell_dir/mnemonicEnhancer#_mnemonic-enhancer_; **Cost** 5,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [mnemonic enhancer](../../spell_dir/mnemonicEnhancer#_mnemonic-enhancer)_; **Cost** 5,000 gp
 
 **Annihilation Spectacles**
 
@@ -129,7 +129,7 @@ This silver locket only has power when used as a wizard's bonded object. It allo
 
 **Description**
 
-Creatures viewed through these darkly tinted glasses sometimes seem, ever so briefly, to flicker in and out of existence. A transmuter can use these spectacles to spontaneously convert any prepared wizard transmutation spell into any other wizard transmutation spell he knows; the desired spell must be of the same level or lower than the prepared spell. Once per day, he may use the spectacles to spontaneously cast _ [disintegrate](../../spell_dir/disintegrate#_disintegrate_ in place of one of his prepared transmutation wizard spells of 6th level or higher, even if he doesn't know that spell.
+Creatures viewed through these darkly tinted glasses sometimes seem, ever so briefly, to flicker in and out of existence. A transmuter can use these spectacles to spontaneously convert any prepared wizard transmutation spell into any other wizard transmutation spell he knows; the desired spell must be of the same level or lower than the prepared spell. Once per day, he may use the spectacles to spontaneously cast _ [disintegrate](../../spell_dir/disintegrate#_disintegrate)_ in place of one of his prepared transmutation wizard spells of 6th level or higher, even if he doesn't know that spell.
 
 **Construction**
 
@@ -143,7 +143,7 @@ Creatures viewed through these darkly tinted glasses sometimes seem, ever so bri
 
 **Description**
 
-This beautiful, ripe red apple appears fresh and tempting. Should anyone bite into it (even a small taste, he must make an immediate DC 19 Will saving throw or be stricken by [eternal sleep](../baseClasse_dir/witch#_eternal-slumber, the same as the witch's hex of that name. The victim can only be awakened by a casting of _ [break enchantment](../../spell_dir/breakEnchantment#_break-enchantment_, _ [limited wish](../../spell_dir/limitedWish#_limited-wish_, _ [wish](../../spell_dir/wish#_wish_, or _ [miracle](../../spell_dir/miracle#_miracle_, or by a kiss from someone of royal blood.
+This beautiful, ripe red apple appears fresh and tempting. Should anyone bite into it (even a small taste), he must make an immediate DC 19 Will saving throw or be stricken by [eternal sleep](../baseClasse_dir/witch#_eternal-slumber), the same as the witch's hex of that name. The victim can only be awakened by a casting of _ [break enchantment](../../spell_dir/breakEnchantment#_break-enchantment)_, _ [limited wish](../../spell_dir/limitedWish#_limited-wish)_, _ [wish](../../spell_dir/wish#_wish)_, or _ [miracle](../../spell_dir/miracle#_miracle)_, or by a kiss from someone of royal blood.
 
 **Construction**
 
@@ -161,7 +161,7 @@ The wearer of this simple glove can speak a command word to transform it into a 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [mage hand](../../spell_dir/mageHand#_mage-hand_, _ [unseen servant](../../spell_dir/unseenServant#_unseen-servant)_; **Cost** 90 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [mage hand](../../spell_dir/mageHand#_mage-hand)_, _ [unseen servant](../../spell_dir/unseenServant#_unseen-servant)_; **Cost** 90 gp
 
 **Bandages of Rapid Recovery**
 
@@ -171,11 +171,11 @@ The wearer of this simple glove can speak a command word to transform it into a 
 
 **Description**
 
-These linen bandages have the same color and softness as the feathers of a dove, but their antiseptic smell suggests a less natural origin. Any creature wrapped in these bandages recovers from wounds and ability damage each day as if receiving complete bed rest regardless of activity (_Pathfinder RPG Core Rulebook _191. A creature actually receiving long-term care (from the [Heal](../../skill_dir/heal#_heal) skill or complete bed rest while wearing the bandages gains a +4 bonus to its effective level or Hit Dice when determining how many hit points it recovers each day. The bandages are destroyed once removed or when the wearer recovers all hit points and ability damage, whichever comes first.
+These linen bandages have the same color and softness as the feathers of a dove, but their antiseptic smell suggests a less natural origin. Any creature wrapped in these bandages recovers from wounds and ability damage each day as if receiving complete bed rest regardless of activity (_Pathfinder RPG Core Rulebook _191). A creature actually receiving long-term care (from the [Heal](../../skill_dir/heal#_heal) skill) or complete bed rest while wearing the bandages gains a +4 bonus to its effective level or Hit Dice when determining how many hit points it recovers each day. The bandages are destroyed once removed or when the wearer recovers all hit points and ability damage, whichever comes first.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_, _ [lesser restoration](../../spell_dir/restoration#_restoration-lesser_, _ [stabilize](../../spell_dir/stabilize#_stabilize_; **Cost** 100 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_, _ [lesser restoration](../../spell_dir/restoration#_restoration-lesser)_, _ [stabilize](../../spell_dir/stabilize#_stabilize)_; **Cost** 100 gp
 
 **Book of the Loremaster**
 
@@ -185,11 +185,11 @@ These linen bandages have the same color and softness as the feathers of a dove,
 
 **Description**
 
-This digest-sized book contains a seemingly random collection of words, phrases, and strange mnemonic aids. Three times each day, a bard can consult it while using the lore master class feature in order to gain a +5 competence bonus when taking 10 or taking 20 on a [Knowledge](../../skill_dir/knowledge#_knowledge check.
+This digest-sized book contains a seemingly random collection of words, phrases, and strange mnemonic aids. Three times each day, a bard can consult it while using the lore master class feature in order to gain a +5 competence bonus when taking 10 or taking 20 on a [Knowledge](../../skill_dir/knowledge#_knowledge) check.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [clairaudience/clairvoyance](../../spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance)_; **Cost** 7,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [clairaudienc_dir/clairvoyance](../../spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance)_; **Cost** 7,500 gp
 
 **Boots of Friendly Terrain**
 
@@ -199,7 +199,7 @@ This digest-sized book contains a seemingly random collection of words, phrases,
 
 **Description**
 
-Each pair of these supple leather boots corresponds to a specific sort of environment as defined by the ranger's favored terrain class feature (jungle, plains, and so on. A ranger wearing the boots can treat the corresponding environment of the boots as one of his favored terrains, granting him a +2 bonus. If he already has that particular environment as one of his favored terrains, his bonus for that terrain increases by +2.
+Each pair of these supple leather boots corresponds to a specific sort of environment as defined by the ranger's favored terrain class feature (jungle, plains, and so on). A ranger wearing the boots can treat the corresponding environment of the boots as one of his favored terrains, granting him a +2 bonus. If he already has that particular environment as one of his favored terrains, his bonus for that terrain increases by +2.
 
 **Construction**
 
@@ -213,7 +213,7 @@ Each pair of these supple leather boots corresponds to a specific sort of enviro
 
 **Description**
 
-This green glass bottle has a tiny winding key on its elongated stem that, if turned, causes a shadowy cork to slowly become substantial over a 1-round period. Anything the owner of the bottle speaks into the bottle during this time (up to 25 words gets trapped inside it once the cork fully manifests. As soon as the cork is removed or the bottle is smashed, this message is released exactly as if the owner had spoken the words at that moment. Once the bottle releases its message, it shatters.
+This green glass bottle has a tiny winding key on its elongated stem that, if turned, causes a shadowy cork to slowly become substantial over a 1-round period. Anything the owner of the bottle speaks into the bottle during this time (up to 25 words) gets trapped inside it once the cork fully manifests. As soon as the cork is removed or the bottle is smashed, this message is released exactly as if the owner had spoken the words at that moment. Once the bottle releases its message, it shatters.
 
 **Construction**
 
@@ -221,7 +221,7 @@ This green glass bottle has a tiny winding key on its elongated stem that, if tu
 
 **Bracelet of Mercy**
 
-**Aura** faint conjuration (healing; **CL** 5th
+**Aura** faint conjuration (healing); **CL** 5th
 
 **Slot** wrist; **Price** 15,000 gp; **Weight** —
 
@@ -241,7 +241,7 @@ Each gem in this metal bracelet has a tiny inscription from a holy book. If the 
 
 **Description**
 
-This tiny glass bead transforms itself into a small (2-foot-tall pile of burning logs whenever its command word is spoken. The fire burns for 8 hours or until extinguished, at which point it turns back into a bead. The owner of the item must wait twice as long as the fire burned before he can order the bead to become a campfire again.
+This tiny glass bead transforms itself into a small (2-foot-tall) pile of burning logs whenever its command word is spoken. The fire burns for 8 hours or until extinguished, at which point it turns back into a bead. The owner of the item must wait twice as long as the fire burned before he can order the bead to become a campfire again.
 
 **Construction**
 
@@ -255,7 +255,7 @@ This tiny glass bead transforms itself into a small (2-foot-tall pile of burning
 
 **Description**
 
-This silvery cape furls and ripples like a flag with every step its owner takes. The wearer can, as a swift action, order the cape to transform into a faint sphere of force that surrounds him on all sides. The field grants the wearer a concealment (20% miss chance against ranged attacks and lasts for 1 minute or until the wearer is missed by a ranged attack due to the power of the cloak, whichever comes first. When the field ends, all magic is lost from the cloak, leaving only a mundane silvery garment.
+This silvery cape furls and ripples like a flag with every step its owner takes. The wearer can, as a swift action, order the cape to transform into a faint sphere of force that surrounds him on all sides. The field grants the wearer a concealment (20% miss chance) against ranged attacks and lasts for 1 minute or until the wearer is missed by a ranged attack due to the power of the cloak, whichever comes first. When the field ends, all magic is lost from the cloak, leaving only a mundane silvery garment.
 
 **Construction**
 
@@ -269,11 +269,11 @@ This silvery cape furls and ripples like a flag with every step its owner takes.
 
 **Description**
 
-A _cauldron of brewing_ looks like a fine cooking pot with four stout legs. The cauldron is capable of heating any liquid placed in it to a precise temperature (anywhere from just above room temperature to hot enough to boil salt water and maintaining it indefinitely while still remaining only slightly warm to the touch on the outside. A _cauldron of brewing_ provides a +5 competence bonus on [Craft](../../skill_dir/craft#_craft) (alchemy skill checks.
+A _cauldron of brewing_ looks like a fine cooking pot with four stout legs. The cauldron is capable of heating any liquid placed in it to a precise temperature (anywhere from just above room temperature to hot enough to boil salt water) and maintaining it indefinitely while still remaining only slightly warm to the touch on the outside. A _cauldron of brewing_ provides a +5 competence bonus on [Craft](../../skill_dir/craft#_craft) (alchemy) skill checks.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), trained in [Craft](../../skill_dir/craft#_craft) (Alchemy; **Cost** 1,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), trained in [Craft](../../skill_dir/craft#_craft) (Alchemy); **Cost** 1,500 gp
 
 **Cauldron of Flying**
 
@@ -283,11 +283,11 @@ A _cauldron of brewing_ looks like a fine cooking pot with four stout legs. The 
 
 **Description**
 
-This iron pot is large enough for two Medium humanoids to stand in comfortably. Upon command, the cauldron and up to 500 pounds of additional weight can fly as if using _ [overland flight](../../spell_dir/overlandFlight#_overland-flight_. The cauldron moves under the direction of the person who spoke the activating command word. It can carry up to double its capacity, but doing so reduces its speed to 30 feet. It can hover in place without the need for a [Fly](../../skill_dir/fly#_fly skill check. The cauldron provides partial cover for anyone standing in it. It has a hardness of 10 and 60 hit points.
+This iron pot is large enough for two Medium humanoids to stand in comfortably. Upon command, the cauldron and up to 500 pounds of additional weight can fly as if using _ [overland flight](../../spell_dir/overlandFlight#_overland-flight)_. The cauldron moves under the direction of the person who spoke the activating command word. It can carry up to double its capacity, but doing so reduces its speed to 30 feet. It can hover in place without the need for a [Fly](../../skill_dir/fly#_fly) skill check. The cauldron provides partial cover for anyone standing in it. It has a hardness of 10 and 60 hit points.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [overland flight](../../spell_dir/overlandFlight#_overland-flight_; **Cost** 20,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [overland flight](../../spell_dir/overlandFlight#_overland-flight)_; **Cost** 20,000 gp
 
 **Cauldron of Plenty**
 
@@ -297,25 +297,25 @@ This iron pot is large enough for two Medium humanoids to stand in comfortably. 
 
 **Description**
 
-This enchanted iron pot can produce nourishing, simple fare sufficient to feed up to 36 people per day upon command. Once per week it can also be commanded to create a _ [heroes' feast](../../spell_dir/heroesFeast#_heroes-feast_ for up to 12 people. The cauldron needs neither fire nor ingredients to produce food; it does so instantly upon command.
+This enchanted iron pot can produce nourishing, simple fare sufficient to feed up to 36 people per day upon command. Once per week it can also be commanded to create a _ [heroes' feast](../../spell_dir/heroesFeast#_heroes-feast)_ for up to 12 people. The cauldron needs neither fire nor ingredients to produce food; it does so instantly upon command.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [create food and water](../../spell_dir/createFoodAndWater#_create-food-and-water_, _ [heroes' feast](../../spell_dir/heroesFeast#_heroes-feast)_; **Cost** 7,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [create food and water](../../spell_dir/createFoodAndWater#_create-food-and-water)_, _ [heroes' feast](../../spell_dir/heroesFeast#_heroes-feast)_; **Cost** 7,500 gp
 
 **Cauldron of Resurrection**
 
-**Aura** strong conjuration (healing; **CL** 13th
+**Aura** strong conjuration (healing); **CL** 13th
 
 **Slot** none; **Price** 33,000 gp; **Weight** 35 lbs.
 
 **Description**
 
-The mouth of this heavy, dark iron cauldron is shaped like a monstrous maw and is large enough to accommodate a single Medium creature. When the cauldron is filled with pure water and certain rare and sacred herbs, and a deceased creature is placed inside it, the cauldron can restore the creature to life as if from a _ [raise dead](../../spell_dir/raiseDead#_raise-dead_ or _ [resurrection](../../spell_dir/resurrection#_resurrection_ spell. The spell effect depends on the components used: _ [raise dead](../../spell_dir/raiseDead#_raise-dead_ costs 5,000 gp worth of materials, while _ [resurrection](../../spell_dir/resurrection#_resurrection_ costs 10,000 gp worth of materials. The cauldron can function once per day.
+The mouth of this heavy, dark iron cauldron is shaped like a monstrous maw and is large enough to accommodate a single Medium creature. When the cauldron is filled with pure water and certain rare and sacred herbs, and a deceased creature is placed inside it, the cauldron can restore the creature to life as if from a _ [raise dead](../../spell_dir/raiseDead#_raise-dead)_ or _ [resurrection](../../spell_dir/resurrection#_resurrection)_ spell. The spell effect depends on the components used: _ [raise dead](../../spell_dir/raiseDead#_raise-dead)_ costs 5,000 gp worth of materials, while _ [resurrection](../../spell_dir/resurrection#_resurrection)_ costs 10,000 gp worth of materials. The cauldron can function once per day.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [resurrection](../../spell_dir/resurrection#_resurrection_; **Cost** 16,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [resurrection](../../spell_dir/resurrection#_resurrection)_; **Cost** 16,500 gp
 
 **Cauldron of Seeing**
 
@@ -325,11 +325,11 @@ The mouth of this heavy, dark iron cauldron is shaped like a monstrous maw and i
 
 **Description**
 
-When filled with liquid, this small cauldron allows the user to see over virtually any distance as if using the _ [scrying](../../spell_dir/scrying#_scrying_ spell. It may have additional powers like those of a _ [crystal ball](../../magicItem_dir/wondrousItems#_crystal-ball_ for the same prices.
+When filled with liquid, this small cauldron allows the user to see over virtually any distance as if using the _ [scrying](../../spell_dir/scrying#_scrying)_ spell. It may have additional powers like those of a _ [crystal ball](../../magicItem_dir/wondrousItems#_crystal-ball)_ for the same prices.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [scrying](../../spell_dir/scrying#_scrying_; **Cost** 21,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [scrying](../../spell_dir/scrying#_scrying)_; **Cost** 21,000 gp
 
 **Cauldron of the Dead**
 
@@ -339,7 +339,7 @@ When filled with liquid, this small cauldron allows the user to see over virtual
 
 **Description**
 
-This cauldron of dark iron is large enough to accommodate a single Medium creature. When filled with a mixture of water and rare herbs, the cauldron transforms any dead body placed in it into a zombie as if animated by an _ [animate dead](../../spell_dir/animateDead#_animate-dead_ spell. Each corpse animated uses up 25 gp in materials per Hit Die, and the cauldron can animate one corpse per round. The user of the cauldron commands the undead so created—up to 12 HD, unless the user can cast the _ [animate dead](../../spell_dir/animateDead#_animate-dead_ spell, in which case that spell's limit is used; animating more beyond this limit causes earlier specimens to become uncontrolled.
+This cauldron of dark iron is large enough to accommodate a single Medium creature. When filled with a mixture of water and rare herbs, the cauldron transforms any dead body placed in it into a zombie as if animated by an _ [animate dead](../../spell_dir/animateDead#_animate-dead)_ spell. Each corpse animated uses up 25 gp in materials per Hit Die, and the cauldron can animate one corpse per round. The user of the cauldron commands the undead so created—up to 12 HD, unless the user can cast the _ [animate dead](../../spell_dir/animateDead#_animate-dead)_ spell, in which case that spell's limit is used; animating more beyond this limit causes earlier specimens to become uncontrolled.
 
 **Construction**
 
@@ -353,11 +353,11 @@ This cauldron of dark iron is large enough to accommodate a single Medium creatu
 
 **Description**
 
-This delicate tin music box can produce a great volume of noise at a specific time determined by its owner. Four command words determine what sorts of sounds it is to play (battle, fire, massacre, or riot), and a fifth determines the delay (anywhere from 1 round to 20 minutes until the box begins to produce the desired sound. The noise from the box is as loud as 40 people. The sound persists for 2d6 rounds.
+This delicate tin music box can produce a great volume of noise at a specific time determined by its owner. Four command words determine what sorts of sounds it is to play (battle, fire, massacre, or riot), and a fifth determines the delay (anywhere from 1 round to 20 minutes) until the box begins to produce the desired sound. The noise from the box is as loud as 40 people. The sound persists for 2d6 rounds.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [ghost sound](../../spell_dir/ghostSound#_ghost-sound_; **Cost** 1,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [ghost sound](../../spell_dir/ghostSound#_ghost-sound)_; **Cost** 1,000 gp
 
 **Construct Channel Brick**
 
@@ -371,7 +371,7 @@ This solid red brick changes its shape to match its bearer's holy symbol. If the
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [make whole](../../spell_dir/makeWhole#_make-whole_; **Cost** 5,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [make whole](../../spell_dir/makeWhole#_make-whole)_; **Cost** 5,000 gp
 
 **Cowardly Crouching Cloak**
 
@@ -381,7 +381,7 @@ This solid red brick changes its shape to match its bearer's holy symbol. If the
 
 **Description**
 
-This nondescript gray cloak has a hood that can fit over the wearer's entire face. The wearer can, as a move action, cover his face and drop to a huddling crouch. Any creature seeking to directly attack him while he does this must make a DC 11 Will save to do so (as the _ [sanctuary](../../spell_dir/sanctuary#_sanctuary)_ spell. The wearer cannot see or take any actions while crouching. This makes him effectively blind, with all the normal penalties, but not helpless. The wearer can end his crouch simply by standing up or moving.
+This nondescript gray cloak has a hood that can fit over the wearer's entire face. The wearer can, as a move action, cover his face and drop to a huddling crouch. Any creature seeking to directly attack him while he does this must make a DC 11 Will save to do so (as the _ [sanctuary](../../spell_dir/sanctuary#_sanctuary)_ spell). The wearer cannot see or take any actions while crouching. This makes him effectively blind, with all the normal penalties, but not helpless. The wearer can end his crouch simply by standing up or moving.
 
 **Construction**
 
@@ -389,7 +389,7 @@ This nondescript gray cloak has a hood that can fit over the wearer's entire fac
 
 **Crystal of Healing Hands**
 
-**Aura** moderate conjuration (healing; **CL** 10th
+**Aura** moderate conjuration (healing); **CL** 10th
 
 **Slot** neck; **Price** 12,000 gp; **Weight** 1 lb.
 
@@ -399,7 +399,7 @@ A simple cotton cord holds this glittering prism in place. A person with the lay
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_, creator must be a paladin; **Cost** 6,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_, creator must be a paladin; **Cost** 6,000 gp
 
 **Defoliant Polish**
 
@@ -413,7 +413,7 @@ This container of sickly gray paste can coat the armor of one Medium or two Smal
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [diminish plants](../../spell_dir/diminishPlants#_diminish-plants_; **Cost** 400 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [diminish plants](../../spell_dir/diminishPlants#_diminish-plants)_; **Cost** 400 gp
 
 **Doomharp**
 
@@ -427,7 +427,7 @@ Made from bone and sun-dried sinew, this masterwork harp produces a vague sense 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cause fear](../../spell_dir/causeFear#_cause-fear_; **Cost** 5,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cause fear](../../spell_dir/causeFear#_cause-fear)_; **Cost** 5,000 gp
 
 **Dust of Emulation**
 
@@ -437,7 +437,7 @@ Made from bone and sun-dried sinew, this masterwork harp produces a vague sense 
 
 **Description**
 
-A creature coated with this glittering golden dust can interact with any one item or object as if she had successfully used the [Use Magic Device](../../skill_dir/useMagicDevice#_use-magic-device) skill to emulate a class feature or race (if the exact result of the check matters, treat the character's result as a 25. If the user of the dust does not mentally select the intended item or object while coating herself with the dust, the magic of the dust applies to the first eligible object she encounters. She can apply the result of this automatic check when dealing with the item or object for 1 hour after exposure to the dust.
+A creature coated with this glittering golden dust can interact with any one item or object as if she had successfully used the [Use Magic Device](../../skill_dir/useMagicDevice#_use-magic-device) skill to emulate a class feature or race (if the exact result of the check matters, treat the character's result as a 25). If the user of the dust does not mentally select the intended item or object while coating herself with the dust, the magic of the dust applies to the first eligible object she encounters. She can apply the result of this automatic check when dealing with the item or object for 1 hour after exposure to the dust.
 
 **Construction**
 
@@ -451,11 +451,11 @@ A creature coated with this glittering golden dust can interact with any one ite
 
 **Description**
 
-This preparation of herbs includes belladonna, mandrake, and foxglove (also known as “witch's glove” in a base of rendered fats. When rubbed over the skin, the ointment grants the subject the ability to fly (as the_ [overland flight](../../spell_dir/overlandFlight#_overland-flight)_ spell for up to 9 hours.
+This preparation of herbs includes belladonna, mandrake, and foxglove (also known as “witch's glove”) in a base of rendered fats. When rubbed over the skin, the ointment grants the subject the ability to fly (as the_ [overland flight](../../spell_dir/overlandFlight#_overland-flight)_ spell) for up to 9 hours.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [overland flight](../../spell_dir/overlandFlight#_overland-flight_; **Cost** 1,125 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [overland flight](../../spell_dir/overlandFlight#_overland-flight)_; **Cost** 1,125 gp
 
 **Gloves of Dueling**
 
@@ -465,11 +465,11 @@ This preparation of herbs includes belladonna, mandrake, and foxglove (also know
 
 **Description**
 
-These supple leather gloves grant the wearer gains a +4 bonus to his CMD against disarm attacks, attempts to sunder his wielded weapons, and effects that cause him to lose his grip on his weapons (such as _ [grease](../../spell_dir/grease#_grease)_. The wearer doesn't drop held weapons when panicked or stunned. If the wearer has the weapon training class feature and is using an appropriate weapon, his weapon training bonus increases by +2.
+These supple leather gloves grant the wearer gains a +4 bonus to his CMD against disarm attacks, attempts to sunder his wielded weapons, and effects that cause him to lose his grip on his weapons (such as _ [grease](../../spell_dir/grease#_grease)_). The wearer doesn't drop held weapons when panicked or stunned. If the wearer has the weapon training class feature and is using an appropriate weapon, his weapon training bonus increases by +2.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [greater magic weapon](../../spell_dir/magicWeapon#_magic-weapon-greater_; **Cost** 7,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [greater magic weapon](../../spell_dir/magicWeapon#_magic-weapon-greater)_; **Cost** 7,500 gp
 
 **Glowing Glove**
 
@@ -483,7 +483,7 @@ The wearer of this slender white leather glove may, as a standard action, press 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [arcane mark](../../spell_dir/arcaneMark#_arcane-mark_; **Cost** 1,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [arcane mark](../../spell_dir/arcaneMark#_arcane-mark)_; **Cost** 1,000 gp
 
 **Grappler's Mask**
 
@@ -497,7 +497,7 @@ This mask, fashioned from dark leather, also covers the back of the wearer's hea
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [bull's strength](../../spell_dir/bullSStrength#_bull-s-strength_, _ [cat's grace](../../spell_dir/catSGrace#_cat-s-grace_, _ [expeditious retreat](../../spell_dir/expeditiousRetreat#_expeditious-retreat)_; **Cost** 2,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [bull's strength](../../spell_dir/bullSStrength#_bull-s-strength)_, _ [cat's grace](../../spell_dir/catSGrace#_cat-s-grace)_, _ [expeditious retreat](../../spell_dir/expeditiousRetreat#_expeditious-retreat)_; **Cost** 2,500 gp
 
 **Helm of Fearsome Mien**
 
@@ -507,7 +507,7 @@ This mask, fashioned from dark leather, also covers the back of the wearer's hea
 
 **Description**
 
-This metal helm is made to look like the wearer has horns, tusks, and other features resembling a fearsome predator. If the wearer is a barbarian, she can use the intimidating glare rage power whenever she rages. The helm has no effect if the wearer is not a barbarian (or another class with the rage class feature.
+This metal helm is made to look like the wearer has horns, tusks, and other features resembling a fearsome predator. If the wearer is a barbarian, she can use the intimidating glare rage power whenever she rages. The helm has no effect if the wearer is not a barbarian (or another class with the rage class feature).
 
 **Construction**
 
@@ -521,7 +521,7 @@ This metal helm is made to look like the wearer has horns, tusks, and other feat
 
 **Description**
 
-Carved from the bone of some giant beast, this large horn emits an eerie, heart-lurching moan when sounded. A person with the favored enemy class feature may blow the horn as a standard action to daze one type of favored enemy within 90 feet for 1d4 rounds (DC 13 Will save negates. Creatures suffer a penalty on this save equal to the ranger's favored enemy bonus against that type of creature. This is a sonic, mind-affecting effect; creatures that cannot hear the horn are immune to its magic. The horn's magic works once per day.
+Carved from the bone of some giant beast, this large horn emits an eerie, heart-lurching moan when sounded. A person with the favored enemy class feature may blow the horn as a standard action to daze one type of favored enemy within 90 feet for 1d4 rounds (DC 13 Will save negates). Creatures suffer a penalty on this save equal to the ranger's favored enemy bonus against that type of creature. This is a sonic, mind-affecting effect; creatures that cannot hear the horn are immune to its magic. The horn's magic works once per day.
 
 **Construction**
 
@@ -535,11 +535,11 @@ Carved from the bone of some giant beast, this large horn emits an eerie, heart-
 
 **Description**
 
-This elongated horn curves sharply at the end, almost making it seem more like an enormous pipe than a tool for the hunt. Once each day, a person with the hunter's bond (companions) class feature may blow the horn as a standard action; this grants his full favored enemy bonus (instead of half against a single target to all allies within 30 feet who can see and hear him. The effect lasts for 1 minute.
+This elongated horn curves sharply at the end, almost making it seem more like an enormous pipe than a tool for the hunt. Once each day, a person with the hunter's bond (companions) class feature may blow the horn as a standard action; this grants his full favored enemy bonus (instead of half) against a single target to all allies within 30 feet who can see and hear him. The effect lasts for 1 minute.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [greater heroism](../../spell_dir/heroism#_heroism-greater_; **Cost** 2,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [greater heroism](../../spell_dir/heroism#_heroism-greater)_; **Cost** 2,500 gp
 
 **Ioun Torch**
 
@@ -549,11 +549,11 @@ This elongated horn curves sharply at the end, almost making it seem more like a
 
 **Description**
 
-This item is merely a burned out, dull gray _ [ioun stone](../../magicItem_dir/wondrousItems#_ioun-stones_ with a _ [continual flame](../../spell_dir/continualFlame#_continual-flame)_ spell cast upon it. It retains the ability to float and orbit, and allows the bearer to carry light and still have his hands free. It may be in any crystalline shape common to _ioun stones_ (ellipsoid, prism, sphere, and so on.
+This item is merely a burned out, dull gray _ [ioun stone](../../magicItem_dir/wondrousItems#_ioun-stones)_ with a _ [continual flame](../../spell_dir/continualFlame#_continual-flame)_ spell cast upon it. It retains the ability to float and orbit, and allows the bearer to carry light and still have his hands free. It may be in any crystalline shape common to _ioun stones_ (ellipsoid, prism, sphere, and so on).
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [continual flame](../../spell_dir/continualFlame#_continual-flame_, creator must be 12th level; **Cost** 62 gp, 5 sp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [continual flame](../../spell_dir/continualFlame#_continual-flame)_, creator must be 12th level; **Cost** 62 gp, 5 sp
 
 **Key of Lock Jamming**
 
@@ -577,7 +577,7 @@ This ornate brass key automatically reshapes itself to fit any standard keyhole 
 
 **Description**
 
-This humble pad of woven river reeds allows its owner to recover his mental fortitude and _ki_ pool by practicing breathing exercises and other forms of meditation. Each hour its owner spends sitting on the mat without taking any other action, he can attempt to center himself by making a Wisdom check with a DC of 10 plus the monk's current number of _ki_ points (note that ability checks, like skill checks, do not automatically succeed on a 20. If the check is successful, the monk regains 1 _ki_ point.
+This humble pad of woven river reeds allows its owner to recover his mental fortitude and _ki_ pool by practicing breathing exercises and other forms of meditation. Each hour its owner spends sitting on the mat without taking any other action, he can attempt to center himself by making a Wisdom check with a DC of 10 plus the monk's current number of _ki_ points (note that ability checks, like skill checks, do not automatically succeed on a 20). If the check is successful, the monk regains 1 _ki_ point.
 
 **Construction**
 
@@ -587,21 +587,21 @@ This humble pad of woven river reeds allows its owner to recover his mental fort
 
 **Aura** moderate abjuration or transmutation; **CL** 6th
 
-**Slot** none; **Price** 4,500 gp (battle), 2,200 gp (honor), 4,500 (parley; **Weight** 1 lb.
+**Slot** none; **Price** 4,500 gp (battle), 2,200 gp (honor), 4,500 (parley); **Weight** 1 lb.
 
 **Description**
 
 This narrow cloth flag is made to attach to the end a knight's lance, though it can be flown from a spear, polearm, or even a staff. It has no effect if not mounted appropriately. A _knight's pennon_ grants different benefits depending on its color and design.
 
-_Battle_: The red _knight's pennon of battle_ allows its bearer to benefit from _ [heroism](../../spell_dir/heroism#_heroism_ once per day.
+_Battle_: The red _knight's pennon of battle_ allows its bearer to benefit from _ [heroism](../../spell_dir/heroism#_heroism)_ once per day.
 
-_Honor_: The gold _knight's pennon of honor_ bestows _ [protection from evil](../../spell_dir/protectionFromEvil#_protection-from-evil_ upon the bearer once per day.
+_Honor_: The gold _knight's pennon of honor_ bestows _ [protection from evil](../../spell_dir/protectionFromEvil#_protection-from-evil)_ upon the bearer once per day.
 
-_Parley_: The white _knight's pennon of parley_, when displayed approaching a negotiation, grants the bearer a +4 enhancement bonus on [Bluff](../../skill_dir/bluff#_bluff, [Diplomacy](../../skill_dir/diplomacy#_diplomacy, [Intimidate](../../skill_dir/intimidate#_intimidate, and [Sense Motive](../../skill_dir/senseMotive#_sense-motive checks for 1 hour, so long as the bearer does not initiate any hostile action.
+_Parley_: The white _knight's pennon of parley_, when displayed approaching a negotiation, grants the bearer a +4 enhancement bonus on [Bluff](../../skill_dir/bluff#_bluff), [Diplomacy](../../skill_dir/diplomacy#_diplomacy), [Intimidate](../../skill_dir/intimidate#_intimidate), and [Sense Motive](../../skill_dir/senseMotive#_sense-motive) checks for 1 hour, so long as the bearer does not initiate any hostile action.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [heroism](../../spell_dir/heroism#_heroism)_ (battle, _ [protection from evil](../../spell_dir/protectionFromEvil#_protection-from-evil) _(honor, _ [eagle's splendor](../../spell_dir/eagleSSplendor#_eagle-s-splendor)_ (parley); **Cost** 2,250 gp (battle), 1,100 gp (honor), 2,250 (parley)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [heroism](../../spell_dir/heroism#_heroism)_ (battle), _ [protection from evil](../../spell_dir/protectionFromEvil#_protection-from-evil) _(honor), _ [eagle's splendor](../../spell_dir/eagleSSplendor#_eagle-s-splendor)_ (parley); **Cost** 2,250 gp (battle), 1,100 gp (honor), 2,250 (parley)
 
 **Lord's Banner**
 
@@ -613,23 +613,23 @@ _Parley_: The white _knight's pennon of parley_, when displayed approaching a ne
 
 A _lord's banner_ is a cloth flag or standard, typically at least 2 feet wide and 4 feet long (though some are up to twice that size), meant to be carried and displayed on a lance, polearm, frame, or staff. It has no effect when not mounted properly or when laying on the ground. It normally depicts the insignia or heraldic symbol of a particular noble.
 
-A _lord's banner_ may be carried (on foot or mounted or planted. In the latter case, the banner does not need a bearer, but if it is toppled or touched by an enemy, it loses its effectiveness until reclaimed and replanted by allies of its owner.
+A _lord's banner_ may be carried (on foot or mounted) or planted. In the latter case, the banner does not need a bearer, but if it is toppled or touched by an enemy, it loses its effectiveness until reclaimed and replanted by allies of its owner.
 
 _Crusades_: A noble-looking _lord's banner of crusades_ emits a _ [hallow](../../spell_dir/hallow#_hallow)_ effect in a 40-foot radius around it, so long as it is borne by one true to the religion of the person whose crest is on the banner (these sorts of banners usually have a holy symbol or other religious insignia worked into the design). The banner displays the faith's holy symbol along with the owner's crest.
 
 _Swiftness_: A group or army that are traveling under a _lord's banner of swiftness_ can make a forced march without needing Constitution checks or suffering any nonlethal damage from doing so, allowing them to cover great distances while still arriving ready to do battle. This ability affects all allied creatures within 1 mile as long as they are able to see the banner at least once a day.
 
-_Terror_: Enemies of the bearer of a _lord's banner of terror_, while within 30 feet and able to see the banner, must make a Will saving throw (DC 16 or become panicked, fleeing as quickly as possible for as long as they can see the banner. Those that succeed on the save are shaken. A creature that makes its saving throw cannot be panicked by the banner for 1 day.
+_Terror_: Enemies of the bearer of a _lord's banner of terror_, while within 30 feet and able to see the banner, must make a Will saving throw (DC 16) or become panicked, fleeing as quickly as possible for as long as they can see the banner. Those that succeed on the save are shaken. A creature that makes its saving throw cannot be panicked by the banner for 1 day.
 
 _Victory_: Allies of the owner of a _lord's banner of victory_ gain a +2 morale bonus on attack rolls, saves, and skill checks for as long as they can see the banner.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [eagle's splendor](../../spell_dir/eagleSSplendor)_ (leadership, _ [hallow](../../spell_dir/hallow#_hallow)_ (crusades, _ [freedom of movement](../../spell_dir/freedomOfMovement#_freedom-of-movement)_ (swiftness, _ [fear](../../spell_dir/fear#_fear)_ (terror, _ [heroism](../../spell_dir/heroism#_heroism)_ (victory); **Cost** 50,000 gp (crusades), 5,000 gp (swiftness), 28,000 gp (terror), 37,500 gp (victory)
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [eagle's splendor](../../spell_dir/eagleSSplendor)_ (leadership), _ [hallow](../../spell_dir/hallow#_hallow)_ (crusades), _ [freedom of movement](../../spell_dir/freedomOfMovement#_freedom-of-movement)_ (swiftness), _ [fear](../../spell_dir/fear#_fear)_ (terror), _ [heroism](../../spell_dir/heroism#_heroism)_ (victory); **Cost** 50,000 gp (crusades), 5,000 gp (swiftness), 28,000 gp (terror), 37,500 gp (victory)
 
 **Manacles of Cooperation**
 
-**Aura** faint enchantment (charm; **CL** 1st
+**Aura** faint enchantment (charm); **CL** 1st
 
 **Slot** wrist; **Price** 2,000 gp; **Weight** 2 lbs.
 
@@ -651,7 +651,7 @@ These tight iron cuffs can fit over the wrists of any Large or smaller humanoid.
 
 This wooden mask depicts a leering humanoid with an oversized nose and ears. If the wearer has the wild shape class feature, the mask allows her to use wild shape to take the form of a humanoid with the giant subtype. The forms allowed by a _lesser mask of giants_ are ogre, troll, fire giant, frost giant, or stone giant. If the form has any of the following abilities, the wearer gains the listed ability: darkvision 60 feet, low-light vision, scent. In giant form, the wearer gains a +4 size bonus to Strength, a –2 penalty to Dexterity, and a +1 natural armor bonus.
 
-A _greater mask of giants_ has all the powers of a lesser mask, plus additional abilities in giant form. If the form has any of the following abilities, the wearer gains the listed ability: rend (2d6 damage), regeneration 5 (acid or fire), rock catching, rock throwing (range 60 feet, 2d6 damage. If the chosen giant form has immunity or resistance to any energy type, the wearer gains resistance 20 to that energy type when in giant form. If the giant form has vulnerability to an energy type, the wearer gains that vulnerability when in giant form. In giant form, the wearer gains a +6 size bonus to Strength, a –2 penalty to Dexterity, a +4 size bonus to Constitution, and a +4 natural armor bonus.
+A _greater mask of giants_ has all the powers of a lesser mask, plus additional abilities in giant form. If the form has any of the following abilities, the wearer gains the listed ability: rend (2d6 damage), regeneration 5 (acid or fire), rock catching, rock throwing (range 60 feet, 2d6 damage). If the chosen giant form has immunity or resistance to any energy type, the wearer gains resistance 20 to that energy type when in giant form. If the giant form has vulnerability to an energy type, the wearer gains that vulnerability when in giant form. In giant form, the wearer gains a +6 size bonus to Strength, a –2 penalty to Dexterity, a +4 size bonus to Constitution, and a +4 natural armor bonus.
 
 **Construction**
 
@@ -669,11 +669,11 @@ This fine silver circlet typically has a carved moonstone inset on the front or 
 
 During the waxing moon, the wearer's caster level is considered one higher for purposes of caster level checks and spell effects; during the three nights of the full moon, this benefit increases to two levels higher than normal. However, this additional power comes with a price. During the waning moon, the wearer's caster level is considered one lower for purposes of caster level checks and spell effects, and during the three nights of the new moon, this penalty increases to two levels lower.
 
-Removing a _moon circlet_ imposes 2 negative levels on the wearer until the next full moon (or until the _circlet_ is worn again, whichever comes first. These negative levels cannot be restored by any means short of a _ [limited wish](../../spell_dir/limitedWish#_limited-wish_, _ [wish](../../spell_dir/wish#_wish_, or _ [miracle](../../spell_dir/miracle#_miracle_.
+Removing a _moon circlet_ imposes 2 negative levels on the wearer until the next full moon (or until the _circlet_ is worn again, whichever comes first). These negative levels cannot be restored by any means short of a _ [limited wish](../../spell_dir/limitedWish#_limited-wish)_, _ [wish](../../spell_dir/wish#_wish)_, or _ [miracle](../../spell_dir/miracle#_miracle)_.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [darkvision](../../spell_dir/darkvision#_darkvision_, _ [light](../../spell_dir/light#_light_; **Cost** 10,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [darkvision](../../spell_dir/darkvision#_darkvision)_, _ [light](../../spell_dir/light#_light)_; **Cost** 10,000 gp
 
 **Muleback Cords**
 
@@ -697,11 +697,11 @@ These thick leather cords wrap around the wearer's biceps and shoulders; when wo
 
 **Description**
 
-This simple leather cord is tightly knotted at even intervals and gives its wearer a sense of inner calmness and connection with the larger world. The wearer gains a +4 bonus to his effective level when determining the size of his _ki_ pool and the level-based effects of his _ki_ pool ability (such as bypassing damage reduction.
+This simple leather cord is tightly knotted at even intervals and gives its wearer a sense of inner calmness and connection with the larger world. The wearer gains a +4 bonus to his effective level when determining the size of his _ki_ pool and the level-based effects of his _ki_ pool ability (such as bypassing damage reduction).
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [calm emotions](../../spell_dir/calmEmotions#_calm-emotions, [owl's wisdom](../../spell_dir/owlSWisdom#_owl-s-wisdom_; **Cost** 8,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [calm emotions](../../spell_dir/calmEmotions#_calm-emotions), [owl's wisdom](../../spell_dir/owlSWisdom#_owl-s-wisdom)_; **Cost** 8,000 gp
 
 **Necromancer's Athame**
 
@@ -715,7 +715,7 @@ This pallid length of sharpened thighbone is carved into the shape of a dagger, 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [create undead](../../spell_dir/createUndead#_create-undead_, creator must be a necromancer; **Cost** 10,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [create undead](../../spell_dir/createUndead#_create-undead)_, creator must be a necromancer; **Cost** 10,000 gp
 
 **Philter of Love**
 
@@ -725,11 +725,11 @@ This pallid length of sharpened thighbone is carved into the shape of a dagger, 
 
 **Description**
 
-This potent preparation causes a creature who drinks it to fall madly in love with the first creature he or she perceives after consuming it. The drinker's attitude toward that creature becomes helpful. If a romantic attraction is possible toward the first person viewed, the drinker falls in love with that person. Otherwise, the drinker's love is a platonic adoration. The effects of the philter are permanent unless removed by a _ [break enchantment](../../spell_dir/breakEnchantment#_break-enchantment_, _ [dispel magic](../../spell_dir/dispelMagic#_dispel-magic_, _ [limited wish](../../spell_dir/limitedWish#_limited-wish_, _ [miracle](../../spell_dir/miracle#_miracle_, _ [remove curse](../../spell_dir/removeCurse#_remove-curse_, or _ [wish](../../spell_dir/wish#_wish_.
+This potent preparation causes a creature who drinks it to fall madly in love with the first creature he or she perceives after consuming it. The drinker's attitude toward that creature becomes helpful. If a romantic attraction is possible toward the first person viewed, the drinker falls in love with that person. Otherwise, the drinker's love is a platonic adoration. The effects of the philter are permanent unless removed by a _ [break enchantment](../../spell_dir/breakEnchantment#_break-enchantment)_, _ [dispel magic](../../spell_dir/dispelMagic#_dispel-magic)_, _ [limited wish](../../spell_dir/limitedWish#_limited-wish)_, _ [miracle](../../spell_dir/miracle#_miracle)_, _ [remove curse](../../spell_dir/removeCurse#_remove-curse)_, or _ [wish](../../spell_dir/wish#_wish)_.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [charm monster](../../spell_dir/charmMonster#_charm-monster_, _ [permanency](../../spell_dir/permanency#_permanency_; **Cost** 1,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [charm monster](../../spell_dir/charmMonster#_charm-monster)_, _ [permanency](../../spell_dir/permanency#_permanency)_; **Cost** 1,500 gp
 
 **Robes of Arcane Heritage**
 
@@ -743,7 +743,7 @@ These elegant, dark purple and royal blue robes are usually decorated with gold 
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [speak with dead](../../spell_dir/speakWithDead#_speak-with-dead_, creator must be a sorcerer; **Cost** 8,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [speak with dead](../../spell_dir/speakWithDead#_speak-with-dead)_, creator must be a sorcerer; **Cost** 8,000 gp
 
 **Sash of the War Champion**
 
@@ -757,21 +757,21 @@ This bright red strip of cloth, stitched with images of a cheering crowd throwin
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cat's grace](../../spell_dir/catSGrace#_cat-s-grace_, _ [remove fear](../../spell_dir/removeFear#_remove-fear)_; **Cost** 2,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cat's grace](../../spell_dir/catSGrace#_cat-s-grace)_, _ [remove fear](../../spell_dir/removeFear#_remove-fear)_; **Cost** 2,000 gp
 
 **Scabbard of Stanching**
 
-**Aura** faint conjuration (healing; **CL** 5th
+**Aura** faint conjuration (healing); **CL** 5th
 
 **Slot** belt; **Price** 5,000 gp; **Weight** 2 lbs.
 
 **Description**
 
-This fine, red leather sheath is decorated with gold filigree. It fits any bladed slashing weapon. While worn, a _scabbard of stanching_ protects against bleed damage. Anytime the wearer suffers a bleed effect, the scabbard automatically stanches it. It has no effect on bleed damage from effects that require a DC 16 or higher caster level or [Heal](../../skill_dir/heal#_heal check.
+This fine, red leather sheath is decorated with gold filigree. It fits any bladed slashing weapon. While worn, a _scabbard of stanching_ protects against bleed damage. Anytime the wearer suffers a bleed effect, the scabbard automatically stanches it. It has no effect on bleed damage from effects that require a DC 16 or higher caster level or [Heal](../../skill_dir/heal#_heal) check.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_; **Cost** 2,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_; **Cost** 2,500 gp
 
 **Scabbard of Vigor**
 
@@ -792,7 +792,7 @@ Once per day, as part of the action of drawing forth the weapon held by the scab
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [greater magic weapon](../../spell_dir/magicWeapon#_magic-weapon-greater_; **Cost** 900 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [greater magic weapon](../../spell_dir/magicWeapon#_magic-weapon-greater)_; **Cost** 900 gp
 
 **Sheath of Bladestealth**
 
@@ -802,11 +802,11 @@ Once per day, as part of the action of drawing forth the weapon held by the scab
 
 **Description**
 
-This mundane-looking but serviceable sheath fits any bladed slashing weapon, from a dagger to a greatsword. When a weapon is placed into the _sheath of bladestealth_, both it and the weapon become invisible (as the _ [invisibility](../../spell_dir/invisibility#_invisibility)_ spell until the weapon is drawn, at which point it and the sheath become visible again. The invisible sheathed weapon can still be detected by touch, but the bearer gains a +5 bonus on [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand checks to conceal the weapon, and casual inspection does not reveal it at all. Other effects that detect or reveal invisible things work normally on the sheathed weapon.
+This mundane-looking but serviceable sheath fits any bladed slashing weapon, from a dagger to a greatsword. When a weapon is placed into the _sheath of bladestealth_, both it and the weapon become invisible (as the _ [invisibility](../../spell_dir/invisibility#_invisibility)_ spell) until the weapon is drawn, at which point it and the sheath become visible again. The invisible sheathed weapon can still be detected by touch, but the bearer gains a +5 bonus on [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) checks to conceal the weapon, and casual inspection does not reveal it at all. Other effects that detect or reveal invisible things work normally on the sheathed weapon.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [invisibility](../../spell_dir/invisibility#_invisibility_; **Cost** 2,500 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [invisibility](../../spell_dir/invisibility#_invisibility)_; **Cost** 2,500 gp
 
 **Silver Smite Bracelet**
 
@@ -820,7 +820,7 @@ This heavy silver bracelet is etched with icons of purity, fidelity, chastity, a
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [align weapon](../../spell_dir/alignWeapon#_align-weapon_, creator must be a paladin; **Cost** 8,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [align weapon](../../spell_dir/alignWeapon#_align-weapon)_, creator must be a paladin; **Cost** 8,000 gp
 
 **Sniper Goggles**
 
@@ -834,7 +834,7 @@ The leather strap attached to these bulbous lenses allows their wearer to fit th
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [true strike](../../spell_dir/trueStrike#_true-strike_; **Cost** 10,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [true strike](../../spell_dir/trueStrike#_true-strike)_; **Cost** 10,000 gp
 
 **Soul Soap**
 
@@ -848,7 +848,7 @@ This small bar of coarse gray soap has tiny pieces of ash, coal, or hard earth e
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [resistance](../../spell_dir/resistance#_resistance_; **Cost** 100 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [resistance](../../spell_dir/resistance#_resistance)_; **Cost** 100 gp
 
 **Torc of Lionheart Fury**
 
@@ -862,7 +862,7 @@ Each end of this heavy copper neckwear bears the image of a snarling lion. The w
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [remove fear](../../spell_dir/removeFear#_remove-fear_; **Cost** 4,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [remove fear](../../spell_dir/removeFear#_remove-fear)_; **Cost** 4,000 gp
 
 **Vest of the Cockroach**
 
@@ -876,7 +876,7 @@ This padded and slightly bulky vest, made from dyed, red-brown cloth, causes its
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [false life](../../spell_dir/falseLife#_false-life_; **Cost** 8,000 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [false life](../../spell_dir/falseLife#_false-life)_; **Cost** 8,000 gp
 
 **War Paint of the Terrible Visage**
 
@@ -886,9 +886,9 @@ This padded and slightly bulky vest, made from dyed, red-brown cloth, causes its
 
 **Description**
 
-This thimble-sized clay container of thick, moist face paint has enough material to paint streaks and whorls of any color on one creature's face. Once applied, the wearer can, as a swift action, make the paint rearrange itself into a ghastly mélange of colors, making his appearance momentarily disturbing and hideous. The wearer chooses one creature who can see his painted face within 30 feet to be affected by_ [cause fear](../../spell_dir/causeFear#_cause-fear)_ (DC 11. Once the paint is used in this fashion, it loses all magic and becomes normal face paint. Once applied, the wearer has 24 hours to use the paint's magic; otherwise it fades away.
+This thimble-sized clay container of thick, moist face paint has enough material to paint streaks and whorls of any color on one creature's face. Once applied, the wearer can, as a swift action, make the paint rearrange itself into a ghastly mélange of colors, making his appearance momentarily disturbing and hideous. The wearer chooses one creature who can see his painted face within 30 feet to be affected by_ [cause fear](../../spell_dir/causeFear#_cause-fear)_ (DC 11). Once the paint is used in this fashion, it loses all magic and becomes normal face paint. Once applied, the wearer has 24 hours to use the paint's magic; otherwise it fades away.
 
 **Construction**
 
-**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cause fear](../../spell_dir/causeFear#_cause-fear_; **Cost** 50 gp
+**Requirements** [Craft Wondrous Item](../../feats#_craft-wondrous-item), _ [cause fear](../../spell_dir/causeFear#_cause-fear)_; **Cost** 50 gp
 

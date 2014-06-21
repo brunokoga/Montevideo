@@ -11,7 +11,7 @@ _This creature stands like a man, yet is half again the height of most men and c
 
 N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid) (cold)
 
-**Init** +1; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +10
+**Init** +1; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +10
 
 **Defense**
 
@@ -33,7 +33,7 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid) (cold)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** frightful gaze, [rend](universalMonsterRules#_rend) (2 claws, 1d6+6 plus 1d6 cold
+**Special Attacks** frightful gaze, [rend](universalMonsterRules#_rend) (2 claws, 1d6+6 plus 1d6 cold)
 
 **Statistics**
 
@@ -43,7 +43,7 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid) (cold)
 
 **Feats** [Cleave](../feats#_cleave), [Great Fortitude](../feats#_great-fortitude), [Power Attack](../feats#_power-attack)
 
-**Skills** [Climb](../skill_dir/climb#_climb +21, [Intimidate](../skill_dir/intimidate#_intimidate +9, [Perception](../skill_dir/perception#_perception +10, [Stealth](../skill_dir/stealth#_stealth) +1 (+9 in snow; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) (+12 in snow)
+**Skills** [Climb](../skill_dir/climb#_climb) +21, [Intimidate](../skill_dir/intimidate#_intimidate) +9, [Perception](../skill_dir/perception#_perception) +10, [Stealth](../skill_dir/stealth#_stealth) +1 (+9 in snow); **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) (+12 in snow)
 
 **Languages** Aklo
 
@@ -61,7 +61,7 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid) (cold)
 
 **Frightful Gaze (Su)** Creatures within 30 feet that meet a yeti's gaze must succeed on a DC 13 Will save or stand paralyzed in fear for 1 round. This is a mind-affecting fear paralysis effect. A creature that successfully saves cannot be affected again by the frightful gaze of that yeti for 1 day. The save DC is Charisma-based.
 
-Mysterious and rarely seen (save by victims, the yeti is a towering denizen of the loneliest and tallest mountain peaks. Those who dwell upon the lower reaches of such storied slopes whisper tales of “abominable snowmen” who come down from the heights to raid, taking livestock or even humans as prey and leaving behind only monstrous barefoot tracks in the bloodstained snow.
+Mysterious and rarely seen (save by victims), the yeti is a towering denizen of the loneliest and tallest mountain peaks. Those who dwell upon the lower reaches of such storied slopes whisper tales of “abominable snowmen” who come down from the heights to raid, taking livestock or even humans as prey and leaving behind only monstrous barefoot tracks in the bloodstained snow.
 
 Although yeti stories are accurate in their portrayals of fierce, stealthy, and immensely strong creatures, they are not when it comes to ascribing the yeti's temperament and source. They dwell in small tribes atop their distant mountains, where they are sheltered from contact with most other races. Those with violent or cruel natures are usually forced out of tribes to live lonely lives as exiles, and without the support of a tribe such yeti are often driven to raiding lowlander settlements, thus perpetuating the myth of the yeti as a demon made flesh.
 

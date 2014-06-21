@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/variant_dir/armorAsDamageReduction
+title: ultimateComba_dir/variants/armorAsDamageReduction
 ---
 # Armor as Damage Reduction
 
@@ -25,7 +25,7 @@ Defense represents how easy or difficult it is to hit a creature. The shield bon
 
 ## Armor as Damage Reduction
 
-Armor in this system keeps all of its normal statistics and qualities, but its armor bonus (including any enhancement bonus added to armor bonus and natural armor bonus is converted to DR/armor. The DR an armor provides is equal to its total armor bonus with a +1 bonus at 5th level or at 5 Hit Dice, with an increase to that bonus of +1 for every five levels above 5th level, or every 5 Hit Dice over 5 Hit Dice (to a maximum of +4 to DR at 20th level or at 20 or more Hit Dice), provided that the creature wearing the armor is also proficient with the armor.
+Armor in this system keeps all of its normal statistics and qualities, but its armor bonus (including any enhancement bonus added to armor bonus and natural armor bonus) is converted to DR/armor. The DR an armor provides is equal to its total armor bonus with a +1 bonus at 5th level or at 5 Hit Dice, with an increase to that bonus of +1 for every five levels above 5th level, or every 5 Hit Dice over 5 Hit Dice (to a maximum of +4 to DR at 20th level or at 20 or more Hit Dice), provided that the creature wearing the armor is also proficient with the armor.
 
 **Using Armor without Proficiency** : Creatures using armor they are not proficient with do not gain the bonus per level or Hit Dice to the DR, on top of any of the other normal penalties for using armor without proficiency.
 
@@ -33,7 +33,7 @@ Armor in this system keeps all of its normal statistics and qualities, but its a
 
 **Natural Armor Bonus and DR** : Like a creature's armor bonus, a natural armor bonus is also converted into damage reduction. If a creature is wearing armor and has a natural armor bonus, the creature adds its armor bonus to its natural armor bonus to determine the amount of DR/armor that it has (see Table 5–2).
 
-For instance, if a creature wearing a _+2 chain shirt_ has DR 6/armor is then subject to a _ [barkskin](spell_dir/barkskin#_barkskin) _spell cast by a 6th-level druid (gaining a +3 natural armor bonus, its DR becomes DR 9/armor for the duration of the spell. This DR is bypassed by adamantine, or the attacks of Huge or larger creatures.
+For instance, if a creature wearing a _+2 chain shirt_ has DR 6/armor is then subject to a _ [barkskin](spell_dir/barkskin#_barkskin) _spell cast by a 6th-level druid (gaining a +3 natural armor bonus), its DR becomes DR 9/armor for the duration of the spell. This DR is bypassed by adamantine, or the attacks of Huge or larger creatures.
 
 A creature that has both DR from a source other than armor and a natural armor bonus gains the effects of an enhanced form of DR, similar to how the composition of the armor grants special DR/armor defenses (see Table 5–1). If a creature has magical armor, natural armor, and DR, it takes the best form of the special protection provided by both its armor and its mix of DR and natural armor to its DR/armor.
 
@@ -47,7 +47,7 @@ In this alternative system, when a creature threatens a critical hit, it does no
 
 **Critical defense check bonus = creature's DR + Dexterity modifier + shield bonus to Defense + deflection bonus**
 
-The DC of the check is based on the die roll for the critical threat. It is further modified by the base attack bonus of the attacking creature, how many critical feats the attacking creature has (if any; 10 maximum, and a bonus relationship between the size of the attacking creature and the target of the critical hit, if the attacking creature is larger than the creature it attacked.
+The DC of the check is based on the die roll for the critical threat. It is further modified by the base attack bonus of the attacking creature, how many critical feats the attacking creature has (if any; 10 maximum), and a bonus relationship between the size of the attacking creature and the target of the critical hit, if the attacking creature is larger than the creature it attacked.
 
 **Critical defense DC = critical hit roll + 1/2 attacker's base attack bonus + 1 for each critical feat + 1 for each size category larger attacker is than target**
 
@@ -55,7 +55,7 @@ For instance, if a Medium creature is hit with a crossbow fired by a Medium 6th-
 
 On a failed critical defense check, the target of the critical hit takes the damage for the critical hit. That damage is still reduced by the target of the critical hit's DR.
 
-**Fortification Special Armor Quality** : The _ [fortification](magicItem_dir/armor#_armor-fortification_ special armor quality acts in concert with the check, coming into play if the armor check fails.
+**Fortification Special Armor Quality** : The _ [fortification](magicItem_dir/armor#_armor-fortification)_ special armor quality acts in concert with the check, coming into play if the armor check fails.
 
 [Table: Armor Composition and DR]
 | Material | Dr Provided | Attacker Size to Bypass DR |
@@ -68,12 +68,12 @@ On a failed critical defense check, the target of the critical hit takes the dam
   
 
 [Table: Natural Armor Conversion to DR]
-| Natural Armor/DR | DR Provided | Attacker Size to Bypass DR |
+| Natural Armo_dir/DR | DR Provided | Attacker Size to Bypass DR |
 | --- | --- | --- |
 | Natural armor with | DR/adamantine | Huge DR/magic |
 | Natural armor with | DR/— | Gargantuan DR/adamantine |
 | Natural armor with DR/— | DR/—ⁱ | Colossal |
-| Natural armor with DR/epic | DR/epicⁱ | n/a |
+| Natural armor with DR/epic | DR/epicⁱ | _dir/a |
 
   
   
@@ -82,7 +82,7 @@ On a failed critical defense check, the target of the critical hit takes the dam
 | Attacking Creature Type | DR Modifier |
 | --- | --- |
 | Amorphousⁱ | ×1/2 |
-| Incorporeal | ×0 (×1 if DR is from a force effect or _ [ghost touch](magicItem_dir/weapons#_weapons-ghost-touch)_ armor |
+| Incorporeal | ×0 (×1 if DR is from a force effect or _ [ghost touch](magicItem_dir/weapons#_weapons-ghost-touch)_ armor) |
 | Swarm of Tiny creatures | ×1/2 |
 | Swarm of Diminutive creatures | ×1/4 |
 | Swarm of Fine creatures | ×0 |

@@ -1,5 +1,5 @@
 ---
-title: skills/appraise
+title: skill_dir/appraise
 ---
 # Appraise
 

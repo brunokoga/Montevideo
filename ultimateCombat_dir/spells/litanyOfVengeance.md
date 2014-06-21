@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/litanyOfVengeance
+title: ultimateComba_dir/spells/litanyOfVengeance
 ---
 Litany of Vengeance
 

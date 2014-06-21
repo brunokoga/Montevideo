@@ -1,5 +1,5 @@
 ---
-title: spells/disintegrate
+title: spell_dir/disintegrate
 ---
  **Disintegrate**
 

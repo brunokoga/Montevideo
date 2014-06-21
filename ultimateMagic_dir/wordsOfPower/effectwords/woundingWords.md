@@ -1,13 +1,13 @@
 ---
-title: ultimateMagic/wordsOfPower/effectword_dir/woundingWords
+title: ultimateMagi_dir/wordsOfPower/effectword_dir/woundingWords
 ---
 ## Wounding Words
 
 Wounding words afflict the target with cuts and bruises, causing pain and tearing at its flesh.
 
-Bleeding Wounds (Wounding
+Bleeding Wounds (Wounding)
 
-**School** necromancy; **Level** cleric 0, inquisitor 0, sorcere_dir/wizard 0, witch 0
+**School** necromancy; **Level** cleric 0, inquisitor 0, sorcerer/wizard 0, witch 0
 
 **Duration** instantaneous
 
@@ -73,5 +73,5 @@ Elder Wound (Wounding)
 
 The target of a wordspell with this effect word takes 4d6 points of damage + 1 point per wordcaster level (maximum +20). Undead are instead healed by this effect and do not receive a saving throw or spell resistance.
 
-**Boost** : The target takes of 4d8 points of damage + 1 point per caster level (maximum +20.
+**Boost** : The target takes of 4d8 points of damage + 1 point per caster level (maximum +20).
 

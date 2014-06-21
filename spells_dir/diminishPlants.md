@@ -1,5 +1,5 @@
 ---
-title: spells/diminishPlants
+title: spell_dir/diminishPlants
 ---
  **Diminish Plants**
 

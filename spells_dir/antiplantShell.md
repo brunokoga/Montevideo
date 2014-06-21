@@ -1,5 +1,5 @@
 ---
-title: spells/antiplantShell
+title: spell_dir/antiplantShell
 ---
  **Antiplant Shell**
 

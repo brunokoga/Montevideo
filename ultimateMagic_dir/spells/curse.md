@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/curse
+title: ultimateMagi_dir/spells/curse
 ---
 Curse, Major
 
-**School** necromancy [curse]; **Level** cleric 5, sorcerer/wizard 6, witch 5
+**School** necromancy [curse]; **Level** cleric 5, sorcere_dir/wizard 6, witch 5
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ Curse, Major
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell functions as _ [bestow curse](spell_dir/bestowCurse#_bestow-curse_, except the DC to remove the curse is equal to the save DC + 5.
+This spell functions as _ [bestow curse](spell_dir/bestowCurse#_bestow-curse)_, except the DC to remove the curse is equal to the save DC + 5.
 

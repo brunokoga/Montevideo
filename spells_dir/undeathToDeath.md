@@ -1,5 +1,5 @@
 ---
-title: spells/undeathToDeath
+title: spell_dir/undeathToDeath
 ---
  **Undeath to Death**
 

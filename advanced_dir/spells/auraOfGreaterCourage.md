@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/auraOfGreaterCourage
+title: advance_dir/spells/auraOfGreaterCourage
 ---
  **Aura of Greater Courage**
 
@@ -17,5 +17,5 @@ title: advanced/spells/auraOfGreaterCourage
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-When you cast this spell you strengthen your paladin's aura of courage. Until the end of its duration, all allies within that aura are immune to fear (magical or otherwise. If you do not have the aura of courage class feature, _aura of greater courage_ has no effect.
+When you cast this spell you strengthen your paladin's aura of courage. Until the end of its duration, all allies within that aura are immune to fear (magical or otherwise). If you do not have the aura of courage class feature, _aura of greater courage_ has no effect.
 

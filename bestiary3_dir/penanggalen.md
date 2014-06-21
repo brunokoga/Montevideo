@@ -9,9 +9,9 @@ Penanggalen CR 5
 
 XP 1,600
 
-[Human](monster_dir/creatureTypes#_human-subtype penanggalen witch 5
+[Human](monster_dir/creatureTypes#_human-subtype) penanggalen witch 5
 
-NE Medium undead ( [augmented](monster_dir/creatureTypes#_augmented-subtype) humanoid
+NE Medium undead ( [augmented](monsters/creatureTypes#_augmented-subtype) humanoid)
 
 **Init** +4; **Senses** darkvision 60 ft.; [Perception](skill_dir/perception#_perception) +16
 
@@ -19,31 +19,31 @@ Defense
 
 **AC** 21, touch 15, flat-footed 16 (+4 Dex, +1 dodge, +6 natural)
 
-**hp** 35 (5d6+15; fast healing 5
+**hp** 35 (5d6+15); fast healing 5
 
 **Fort** +4, **Ref** +5, **Will** +7
 
-**Defensive Abilities** channel [resistance](monster_dir/universalMonsterRules#_resistance +4; **DR** 5/silver and slashing; **Immune** undead traits; **Resist** [cold](monster_dir/creatureTypes#_cold-subtype 10, [fire](monster_dir/creatureTypes#_fire-subtype) 10
+**Defensive Abilities** channel [resistance](monsters/universalMonsterRules#_resistance) +4; **DR** 5/silver and slashing; **Immune** undead traits; **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, [fire](monsters/creatureTypes#_fire-subtype) 10
 
 **Weaknesses** light sensitivity, penanggalen weaknesses
 
 Offense
 
-**Speed** fly 60 ft. (good
+**Speed** fly 60 ft. (good)
 
-**Melee** bite +6 (1d6+4 plus [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), slam +6 (1d4+4 plus [grab](monster_dir/universalMonsterRules#_grab) and wither
+**Melee** bite +6 (1d6+4 plus [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su))), slam +6 (1d4+4 plus [grab](monsters/universalMonsterRules#_grab) and wither)
 
-**Special Attacks** [blood drain](monster_dir/universalMonsterRules#_blood-drain) (1d4 Constitution, create spawn, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)) (filth fever, DC 15, hexes (cackle, [evil](monster_dir/creatureTypes#_evil-subtype) eye, misfortune)
+**Special Attacks** [blood drain](monster_dir/universalMonsterRules#_blood-drain) (1d4 Constitution), create spawn, [disease](monsters/universalMonsterRules#_disease-(ex-or-su)) (filth fever, DC 15), hexes (cackle, [evil](monster_dir/creatureTypes#_evil-subtype) eye, misfortune)
 
-**Witch Spells Prepared** (CL 5th; concentration +8
+**Witch Spells Prepared** (CL 5th; concentration +8)
 
-3rd—_ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud)_ (DC 16
+3rd—_ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_ (DC 16)
 
-2nd—_ [glitterdust](spell_dir/glitterdust#_glitterdust)_ (DC 15, _ [hold person](spell_dir/holdPerson#_hold-person)_ (DC 16, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_
+2nd—_ [glitterdust](spell_dir/glitterdust#_glitterdust)_ (DC 15), _ [hold person](spells/holdPerson#_hold-person)_ (DC 16), _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_
 
-1st—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 15, _ [command](spell_dir/command#_command)_ (DC 15, _ [mage armor](spell_dir/mageArmor#_mage-armor_, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist)_
+1st—_ [charm person](spells/charmPerson#_charm-person)_ (DC 15), _ [command](spell_dir/command#_command)_ (DC 15), _ [mage armor](spells/mageArmor#_mage-armor)_, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist)_
 
-0 (at will—_ [bleed](spell_dir/bleed#_bleed)_ (DC 13, _ [dancing lights](spell_dir/dancingLights#_dancing-lights_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [read magic](spell_dir/readMagic#_read-magic_, _ [touch of fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue) _(DC 13)
+0 (at will)—_ [bleed](spells/bleed#_bleed)_ (DC 13), _ [dancing lights](spell_dir/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [read magic](spell_dir/readMagic#_read-magic)_, _ [touch of fatigue](spells/touchOfFatigue#_touch-of-fatigue) _(DC 13)
 
 **Patron** Plague
 
@@ -53,10 +53,10 @@ Statistics
 
 **Base Atk** +2; **CMB** +6 (+10 grapple); **CMD** 21
 
-**Feats** [Dodge](feats#_dodge), [Eschew Materials](feats#_eschew-materials), [Spell Focus](feats#_spell-focus) (enchantment
+**Feats** [Dodge](feats#_dodge), [Eschew Materials](feats#_eschew-materials), [Spell Focus](feats#_spell-focus) (enchantment)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +11, [Fly](skill_dir/fly#_fly +16, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +19, [Knowledge](skill_dir/knowledge#_knowledge) (nature +7, [Perception](skill_dir/perception#_perception +16, [Sense Motive](skill_dir/senseMotive#_sense-motive +14, [Spellcraft](skill_dir/spellcraft#_spellcraft +11,   
- [Stealth](skill_dir/stealth#_stealth +17, [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device +11; **Racial Modifiers** +8 [Bluff](skill_dir/bluff#_bluff, +8 [Fly](skill_dir/fly#_fly, +8 [Knowledge](skill_dir/knowledge#_knowledge) (arcana, +8 [Perception](skill_dir/perception#_perception, +8 [Sense Motive](skill_dir/senseMotive#_sense-motive, +8 [Stealth](skill_dir/stealth#_stealth)
+**Skills** [Bluff](skill_dir/bluff#_bluff) +11, [Fly](skills/fly#_fly) +16, [Knowledge](skill_dir/knowledge#_knowledge) (arcana) +19, [Knowledge](skills/knowledge#_knowledge) (nature) +7, [Perception](skill_dir/perception#_perception) +16, [Sense Motive](skills/senseMotive#_sense-motive) +14, [Spellcraft](skill_dir/spellcraft#_spellcraft) +11,   
+ [Stealth](skills/stealth#_stealth) +17, [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device) +11; **Racial Modifiers** +8 [Bluff](skills/bluff#_bluff), +8 [Fly](skill_dir/fly#_fly), +8 [Knowledge](skills/knowledge#_knowledge) (arcana), +8 [Perception](skill_dir/perception#_perception), +8 [Sense Motive](skills/senseMotive#_sense-motive), +8 [Stealth](skill_dir/stealth#_stealth)
 
 **Languages** Common, Draconic, Gnoll, Infernal
 
@@ -104,7 +104,7 @@ The penanggalen presented above was a witch in life. The witch class is presente
 
 **Armor Class** : Natural armor improves by +6.
 
-**Hit Dice** : Change the base creature's racial HD to d8s. All HD derived from class levels remain unchanged. As undead, a penanggalen uses her Charisma modifier to determine bonus hit points (instead of Constitution.
+**Hit Dice** : Change the base creature's racial HD to d8s. All HD derived from class levels remain unchanged. As undead, a penanggalen uses her Charisma modifier to determine bonus hit points (instead of Constitution).
 
 **Defensive Abilities** : A penanggalen gains channel resistance +4, DR 5/silver and slashing, resistance to cold 10 and fire 10, and all of the defensive abilities granted by the undead type. A penanggalen also gains fast healing 5.
 
@@ -126,9 +126,9 @@ _Wither (Su)_: A penanggalen's entrails drip with a foul bile that blisters and 
 
 **Ability Scores** : Str +6, Dex +4, Int +2, Wis +2, Cha +4. As an undead creature, a penanggalen has no Constitution score.
 
-**Skills** : A penanggalen gains a +8 racial bonus on [Bluff](skill_dir/bluff#_bluff, [Fly](skill_dir/fly#_fly, [Knowledge](skill_dir/knowledge#_knowledge) (arcana, [Perception](skill_dir/perception#_perception, [Sense Motive](skill_dir/senseMotive#_sense-motive, and [Stealth](skill_dir/stealth#_stealth) checks.
+**Skills** : A penanggalen gains a +8 racial bonus on [Bluff](skill_dir/bluff#_bluff), [Fly](skills/fly#_fly), [Knowledge](skill_dir/knowledge#_knowledge) (arcana), [Perception](skills/perception#_perception), [Sense Motive](skill_dir/senseMotive#_sense-motive), and [Stealth](skills/stealth#_stealth) checks.
 
 **Special Qualities** : A penanggalen gains the following special quality.
 
-_Separate (Su)_: During the day, a penanggalen has the same appearance as she did in life, and does not detect as undead (though she is still an undead creature). At night, she can detach her head and entrails as a full-round action. Her physical but now hollow body exists as dead flesh, but can be destroyed if it suffers damage equal to the penanggalen's normal hit point total. Before a penanggalen can return to her body, she must soak her entrails in vinegar for 1 hour—she can then reattach to her body, at which point any damage done to the body immediately heals (although damage the penanggalen herself suffered remains). A penanggalen whose body is destroyed can never again walk the day in living form, but is otherwise unharmed (save for no longer having a safe way to travel in direct sunlight. When a penanggalen wears her body, she cannot use her natural attacks, her fly speed, or any of her special penanggalen attacks.
+_Separate (Su)_: During the day, a penanggalen has the same appearance as she did in life, and does not detect as undead (though she is still an undead creature). At night, she can detach her head and entrails as a full-round action. Her physical but now hollow body exists as dead flesh, but can be destroyed if it suffers damage equal to the penanggalen's normal hit point total. Before a penanggalen can return to her body, she must soak her entrails in vinegar for 1 hour—she can then reattach to her body, at which point any damage done to the body immediately heals (although damage the penanggalen herself suffered remains). A penanggalen whose body is destroyed can never again walk the day in living form, but is otherwise unharmed (save for no longer having a safe way to travel in direct sunlight). When a penanggalen wears her body, she cannot use her natural attacks, her fly speed, or any of her special penanggalen attacks.
 

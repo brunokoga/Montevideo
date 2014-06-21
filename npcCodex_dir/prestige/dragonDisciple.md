@@ -1,5 +1,5 @@
 ---
-title: npcCodex/prestig_dir/dragonDisciple
+title: npcCode_dir/prestige/dragonDisciple
 ---
 # Dragon Disciples
 
@@ -23,7 +23,7 @@ Defense
 
 **Fort** +9, **Ref** +5, **Will** +7; +2 vs. poison, spells, and spell-like abilities; **Resist** electricity 5
 
-**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants
+**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants)
 
 Offense
 
@@ -33,27 +33,27 @@ Offense
 
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, dragon bite, claws (2, 1d4+4, magic, 5 round_dir/day)
 
-**Sorcerer Spells Known** (CL 8th; concentration +10
+**Sorcerer Spells Known** (CL 8th; concentration +10)
 
-4th (3/day)—_ [greater invisibility](spell_dir/invisibility#_invisibility-greater_
+4th (3/day)—_ [greater invisibility](spell_dir/invisibility#_invisibility-greater)_
 
-3rd (5/day)—_ [fly](spell_dir/fly_, _ [heroism](spell_dir/heroism#_heroism_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt) _(DC 15
+3rd (5/day)—_ [fly](spell_dir/fly)_, _ [heroism](spells/heroism#_heroism)_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt) _(DC 15)
 
-2nd (7/day)—_ [false life](spell_dir/falseLife#_false-life_, _ [protection from arrows](spell_dir/protectionFromArrows#_protection-from-arrows_, _ [resist energy](spell_dir/resistEnergy#_resist-energy, [scorching ray](spell_dir/scorchingRay#_scorching-ray_
+2nd (7/day)—_ [false life](spell_dir/falseLife#_false-life)_, _ [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_, _ [resist energy](spell_dir/resistEnergy#_resist-energy), [scorching ray](spells/scorchingRay#_scorching-ray)_
 
-1st (7/day)—_ [enlarge person](spell_dir/enlargePerson#_enlarge-person)_ (DC 13, _ [mage armor](spell_dir/mageArmor#_mage-armor, [magic missile](spell_dir/magicMissile#_magic-missile_, _ [magic weapon](spell_dir/magicWeapon#_magic-weapon_, _ [shield](spell_dir/shield#_shield_, _ [shocking grasp](spell_dir/shockingGrasp#_shocking-grasp)_
+1st (7/day)—_ [enlarge person](spell_dir/enlargePerson#_enlarge-person)_ (DC 13), _ [mage armor](spells/mageArmor#_mage-armor), [magic missile](spell_dir/magicMissile#_magic-missile)_, _ [magic weapon](spells/magicWeapon#_magic-weapon)_, _ [shield](spell_dir/shield#_shield)_, _ [shocking grasp](spells/shockingGrasp#_shocking-grasp)_
 
-0 (at will—_ [arcane mark](spell_dir/arcaneMark#_arcane-mark_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [detect poison](spell_dir/detectPoison#_detect-poison_, _ [ghost sound](spell_dir/ghostSound#_ghost-sound)_ (DC 12, _ [light](spell_dir/light#_light_, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [message](spell_dir/message#_message_, _ [resistance](spell_dir/resistance#_resistance)_
+0 (at will)—_ [arcane mark](spell_dir/arcaneMark#_arcane-mark)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [detect poison](spell_dir/detectPoison#_detect-poison)_, _ [ghost sound](spells/ghostSound#_ghost-sound)_ (DC 12), _ [light](spell_dir/light#_light)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [message](spell_dir/message#_message)_, _ [resistance](spells/resistance#_resistance)_
 
-**Bloodline** draconic (blue
+**Bloodline** draconic (blue)
 
 Tactics
 
-**Before Combat** The dragon disciple drinks his _potion of [bull's strength](spell_dir/bullSStrength#_bull-s-strength_, and casts _ [false life](spell_dir/falseLife#_false-life_ and _ [mage armor](spell_dir/mageArmor#_mage-armor_.
+**Before Combat** The dragon disciple drinks his _potion of [bull's strength](spell_dir/bullSStrength#_bull-s-strength)_, and casts _ [false life](spells/falseLife#_false-life)_ and _ [mage armor](spell_dir/mageArmor#_mage-armor)_.
 
-**During Combat** At range, the dragon disciple casts _lighting bolt _and _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_. If forced into melee, he casts_ [heroism](spell_dir/heroism#_heroism _and _ [greater invisibility](spell_dir/invisibility#_invisibility-greater_ first.
+**During Combat** At range, the dragon disciple casts _lighting bolt _and _ [scorching ray](spells/scorchingRay#_scorching-ray)_. If forced into melee, he casts_ [heroism](spell_dir/heroism#_heroism) _and _ [greater invisibility](spells/invisibility#_invisibility-greater)_ first.
 
-**Base Statistics** Without _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_, _ [false life](spell_dir/falseLife#_false-life_, and _mage armor,_ the dragon disciple's statistics are **AC** 15, touch 12, flat-footed 14; **hp** no temporary hit points; **Melee** _+1 warhammer_ +9 (1d8+5/×3) or bite +8 (1d6+6), 2 claws +9 (1d6+4); **Str** 18; **CMB** +8; **CMD** 20 (24 vs. bull rush or trip); **Skills** [Climb](skill_dir/climb#_climb) +4.
+**Base Statistics** Without _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength)_, _ [false life](spells/falseLife#_false-life)_, and _mage armor,_ the dragon disciple's statistics are **AC** 15, touch 12, flat-footed 14; **hp** no temporary hit points; **Melee** _+1 warhammer_ +9 (1d8+5/×3) or bite +8 (1d6+6), 2 claws +9 (1d6+4); **Str** 18; **CMB** +8; **CMD** 20 (24 vs. bull rush or trip); **Skills** [Climb](skill_dir/climb#_climb) +4.
 
 Statistics
 
@@ -61,15 +61,15 @@ Statistics
 
 **Base Atk** +4; **CMB** +10; **CMD** 22 (26 vs. bull rush or trip)
 
-**Feats** Arcane Armor Mastery, [Arcane Armor Training](feats#_arcane-armor-training), [Combat Casting](feats#_combat-casting), [Eschew Materials](feats#_eschew-materials), [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) (claws
+**Feats** Arcane Armor Mastery, [Arcane Armor Training](feats#_arcane-armor-training), [Combat Casting](feats#_combat-casting), [Eschew Materials](feats#_eschew-materials), [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) (claws)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +7, [Climb](skill_dir/climb#_climb +6, [Diplomacy](skill_dir/diplomacy#_diplomacy +5, [Intimidate](skill_dir/intimidate#_intimidate +6, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +8, [Knowledge](skill_dir/knowledge#_knowledge) (geography +1, [Knowledge](skill_dir/knowledge#_knowledge) (nature +1, [Linguistics](skill_dir/linguistics#_linguistics) +1, Perception +10 (+12 to notice unusual stonework, [Perform](skill_dir/perform#_perform) (oratory +3, [Survival](skill_dir/survival#_survival) +2
+**Skills** [Bluff](skills/bluff#_bluff) +7, [Climb](skill_dir/climb#_climb) +6, [Diplomacy](skills/diplomacy#_diplomacy) +5, [Intimidate](skill_dir/intimidate#_intimidate) +6, [Knowledge](skills/knowledge#_knowledge) (arcana) +8, [Knowledge](skill_dir/knowledge#_knowledge) (geography) +1, [Knowledge](skills/knowledge#_knowledge) (nature) +1, [Linguistics](skill_dir/linguistics#_linguistics) +1, Perception +10 (+12 to notice unusual stonework), [Perform](skills/perform#_perform) (oratory) +3, [Survival](skill_dir/survival#_survival) +2
 
 **Languages** Common, Draconic, Dwarven
 
-**SQ** blood of dragons, bloodline arcana (electricity spells deal +1 damage per die
+**SQ** blood of dragons, bloodline arcana (electricity spells deal +1 damage per die)
 
-**Combat Gear** _potion of [bull's strength](spell_dir/bullSStrength#_bull-s-strength_, _potion of [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds_; **Other Gear** _+1 warhammer_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +1_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +1_, _ [headband of alluring charisma](magicItem_dir/wondrousItems#_headband-of-alluring-charisma +2_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +1_, 138 gp
+**Combat Gear** _potion of [bull's strength](spells/bullSStrength#_bull-s-strength)_, _potion of [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds)_; **Other Gear** _+1 warhammer_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, _ [headband of alluring charisma](magicItems/wondrousItems#_headband-of-alluring-charisma) +2_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +1_, 138 gp
 
 Storm prophets are as terrible as thunderheads and as capricious as tornados.
 
@@ -101,35 +101,35 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** 2 claws +10 (1d6+3 plus 1d6 acid), bite +10 (1d6+4 or quarterstaff +10/+5 (1d6+3)
+**Melee** 2 claws +10 (1d6+3 plus 1d6 acid), bite +10 (1d6+4) or quarterstaff +10/+5 (1d6+3)
 
 **Special Attacks** breath weapon (30-foot cone, 13d6 acid, DC 22, 2/day), claws (2, 1d6+3 plus 1d6 acid, magic, 9 round_dir/day), dragon bite
 
-**Sorcerer Spells Known** (CL 12th; concentration +18
+**Sorcerer Spells Known** (CL 12th; concentration +18)
 
-6th (4/day)—_ [acid fog](spell_dir/acidFog#_acid-fog, [form of the dragon I](spell_dir/formOfTheDragon#_form-of-the-dragon-i_
+6th (4/day)—_ [acid fog](spell_dir/acidFog#_acid-fog), [form of the dragon I](spells/formOfTheDragon#_form-of-the-dragon-i)_
 
-5th (6/day)—_ [cloudkill](spell_dir/cloudkill#_cloudkill)_ (DC 23, _ [feeblemind](spell_dir/feeblemind#_feeblemind)_ (DC 22, _ [spell resistance](magicItem_dir/armor#_armor-spell-resistance_
+5th (6/day)—_ [cloudkill](spell_dir/cloudkill#_cloudkill)_ (DC 23), _ [feeblemind](spells/feeblemind#_feeblemind)_ (DC 22), _ [spell resistance](magicItem_dir/armor#_armor-spell-resistance)_
 
-4th (7/day)—_ [black tentacles](spell_dir/blackTentacles#_black-tentacles_, _ [confusion](spell_dir/confusion#_confusion)_ (DC 21, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [fear](spell_dir/fear#_fear)_ (DC 20
+4th (7/day)—_ [black tentacles](spell_dir/blackTentacles#_black-tentacles)_, _ [confusion](spells/confusion#_confusion)_ (DC 21), _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_, _ [fear](spells/fear#_fear)_ (DC 20)
 
-3rd (7/day)—_ [displacement](spell_dir/displacement#_displacement_, _ [fly](spell_dir/fly_, _ [hold person](spell_dir/holdPerson#_hold-person)_ (DC 20, _ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud)_ (DC 21, _ [suggestion](spell_dir/suggestion#_suggestion)_ (DC 20
+3rd (7/day)—_ [displacement](spell_dir/displacement#_displacement)_, _ [fly](spells/fly)_, _ [hold person](spell_dir/holdPerson#_hold-person)_ (DC 20), _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_ (DC 21), _ [suggestion](spell_dir/suggestion#_suggestion)_ (DC 20)
 
-2nd (8/day)—_ [acid arrow](spell_dir/acidArrow#_acid-arrow_, _ [glitterdust](spell_dir/glitterdust#_glitterdust)_ (DC 20, _ [hideous laughter](spell_dir/hideousLaughter#_hideous-laughter)_ (DC 19, _ [invisibility](spell_dir/invisibility#_invisibility_, _resist energy_,_ [web](spell_dir/web#_web)_ (DC 20
+2nd (8/day)—_ [acid arrow](spell_dir/acidArrow#_acid-arrow)_, _ [glitterdust](spells/glitterdust#_glitterdust)_ (DC 20), _ [hideous laughter](spell_dir/hideousLaughter#_hideous-laughter)_ (DC 19), _ [invisibility](spells/invisibility#_invisibility)_, _resist energy_,_ [web](spell_dir/web#_web)_ (DC 20)
 
-1st (8/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 18, _ [color spray](spell_dir/colorSpray#_color-spray)_ (DC 17, _ [mage armor](spell_dir/mageArmor#_mage-armor_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [reduce person](spell_dir/reducePerson#_reduce-person)_ (DC 17, _ [silent image](spell_dir/silentImage#_silent-image)_ (DC 17)
+1st (8/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 18), _ [color spray](spells/colorSpray#_color-spray)_ (DC 17), _ [mage armor](spell_dir/mageArmor#_mage-armor)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [reduce person](spell_dir/reducePerson#_reduce-person)_ (DC 17), _ [silent image](spells/silentImage#_silent-image)_ (DC 17)
 
-0 (at will—_ [acid splash](spell_dir/acidSplash#_acid-splash_, _ [dancing lights](spell_dir/dancingLights#_dancing-lights_, _ [daze](spell_dir/daze#_daze)_ (DC 17, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [message](spell_dir/message#_message_, _ [open/close](spell_dir/openClose#_open-close_, _ [ray of frost](spell_dir/rayOfFrost#_ray-of-frost_, _ [read magic](spell_dir/readMagic#_read-magic)_
+0 (at will)—_ [acid splash](spell_dir/acidSplash#_acid-splash)_, _ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [daze](spell_dir/daze#_daze)_ (DC 17), _ [detect magic](spells/detectMagic#_detect-magic)_, _ [mage hand](spell_dir/mageHand#_mage-hand)_, _ [message](spells/message#_message)_, _ [ope_dir/close](spells/openClose#_open-close)_, _ [ray of frost](spell_dir/rayOfFrost#_ray-of-frost)_, _ [read magic](spells/readMagic#_read-magic)_
 
-**Bloodline** draconic (green
+**Bloodline** draconic (green)
 
 Tactics
 
-**Before Combat** As soon as she suspects combat is imminent, the dragon disciple casts _ [mage armor](spell_dir/mageArmor#_mage-armor_ and _ [spell resistance](magicItem_dir/armor#_armor-spell-resistance_.
+**Before Combat** As soon as she suspects combat is imminent, the dragon disciple casts _ [mage armor](spell_dir/mageArmor#_mage-armor)_ and _ [spell resistance](magicItems/armor#_armor-spell-resistance)_.
 
-**During Combat** The dragon disciple prefers to keep her distance, and starts combat by casting quickened_ [web](spell_dir/web#_web_ followed by _ [acid fog](spell_dir/acidFog#_acid-fog_. She then casts _ [fly](spell_dir/fly,_ _ [black tentacles](spell_dir/blackTentacles#_black-tentacles_, _ [acid arrow](spell_dir/acidArrow#_acid-arrow_, _ [feeblemind](spell_dir/feeblemind#_feeblemind_, and _ [cloudkill](spell_dir/cloudkill#_cloudkill_, with judicious uses of Quickened Spell.
+**During Combat** The dragon disciple prefers to keep her distance, and starts combat by casting quickened_ [web](spell_dir/web#_web)_ followed by _ [acid fog](spells/acidFog#_acid-fog)_. She then casts _ [fly](spell_dir/fly),_ _ [black tentacles](spells/blackTentacles#_black-tentacles)_, _ [acid arrow](spell_dir/acidArrow#_acid-arrow)_, _ [feeblemind](spells/feeblemind#_feeblemind)_, and _ [cloudkill](spell_dir/cloudkill#_cloudkill)_, with judicious uses of Quickened Spell.
 
-**Base Statistics** Without _ [mage armor](spell_dir/mageArmor#_mage-armor)_, the dragon disciple's statistics are **AC** 20, touch 15, flat-footed 17.
+**Base Statistics** Without _ [mage armor](spells/mageArmor#_mage-armor)_, the dragon disciple's statistics are **AC** 20, touch 15, flat-footed 17.
 
 Statistics
 
@@ -137,15 +137,15 @@ Statistics
 
 **Base Atk** +7; **CMB** +10; **CMD** 25
 
-**Feats** [Combat Casting](feats#_combat-casting), [Dodge](feats#_dodge), [Eschew Materials](feats#_eschew-materials), Greater [Spell Focus](feats#_spell-focus) (conjuration), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Quicken Spell](feats#_quicken-spell), [Spell Focus](feats#_spell-focus) (conjuration, enchantment), [Toughness](feats#_toughness
+**Feats** [Combat Casting](feats#_combat-casting), [Dodge](feats#_dodge), [Eschew Materials](feats#_eschew-materials), Greater [Spell Focus](feats#_spell-focus) (conjuration), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Quicken Spell](feats#_quicken-spell), [Spell Focus](feats#_spell-focus) (conjuration, enchantment), [Toughness](feats#_toughness)
 
-**Skills** [Climb](skill_dir/climb#_climb +4, [Fly](skill_dir/fly#_fly +6, [Intimidate](skill_dir/intimidate#_intimidate +19, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +8, [Linguistics](skill_dir/linguistics#_linguistics +1, Perception +12, [Spellcraft](skill_dir/spellcraft#_spellcraft +7, [Stealth](skill_dir/stealth#_stealth) +9
+**Skills** [Climb](skill_dir/climb#_climb) +4, [Fly](skills/fly#_fly) +6, [Intimidate](skill_dir/intimidate#_intimidate) +19, [Knowledge](skills/knowledge#_knowledge) (arcana) +8, [Linguistics](skill_dir/linguistics#_linguistics) +1, Perception +12, [Spellcraft](skills/spellcraft#_spellcraft) +7, [Stealth](skill_dir/stealth#_stealth) +9
 
 **Languages** Common, Draconic
 
-**SQ** blood of dragons, bloodline arcana (acid spells deal +1 damage per die
+**SQ** blood of dragons, bloodline arcana (acid spells deal +1 damage per die)
 
-**Combat Gear** _potion of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds_, _potion of [delay poison](spell_dir/delayPoison#_delay-poison_, _wand of [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (15 charges; **Other Gear** quarterstaff, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +1_, _ [belt of mighty constitution](magicItem_dir/wondrousItems#_belt-of-mighty-constitution +2_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +2, [hat of disguise](magicItem_dir/wondrousItems#_hat-of-disguise_, _ [headband of alluring charisma](magicItem_dir/wondrousItems#_headband-of-alluring-charisma +2_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +2_, 800 gp
+**Combat Gear** _potion of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_, _potion of [delay poison](spell_dir/delayPoison#_delay-poison)_, _wand of [detect thoughts](spells/detectThoughts#_detect-thoughts)_ (15 charges); **Other Gear** quarterstaff, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of mighty constitution](magicItems/wondrousItems#_belt-of-mighty-constitution) +2_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +2, [hat of disguise](magicItems/wondrousItems#_hat-of-disguise)_, _ [headband of alluring charisma](magicItem_dir/wondrousItems#_headband-of-alluring-charisma) +2_, _ [ring of protection](magicItems/rings#_ring-of-protection) +2_, 800 gp
 
 Cunning and manipulative, these dragon disciples trap their foes with schemes and spells before showering them with deadly acid.
 
@@ -183,33 +183,33 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** bite +19 (1d6+9 plus 1d6 fire), 2 claws +19 (1d6+6 or
+**Melee** bite +19 (1d6+9 plus 1d6 fire), 2 claws +19 (1d6+6) or
 
 _+1 heavy mace_ +19/+14/+9 (1d8+10)
 
-**Special Attacks** bardic performance 26 round_dir/day (move action; countersong, dirge of doom, distraction, fascinate, inspire competence +3, inspire courage +2, inspire greatness, suggestion, breath weapon (30-foot cone, 7d6 fire, DC 17, 1/day), claws (2, 1d6+6, magic, 7 round_dir/day), dragon bite
+**Special Attacks** bardic performance 26 round_dir/day (move action; countersong, dirge of doom, distraction, fascinate, inspire competence +3, inspire courage +2, inspire greatness, suggestion), breath weapon (30-foot cone, 7d6 fire, DC 17, 1/day), claws (2, 1d6+6, magic, 7 round_dir/day), dragon bite
 
-**Dragon Disciple Spell-Like Abilities** (CL 7th; concentration +11
+**Dragon Disciple Spell-Like Abilities** (CL 7th; concentration +11)
 
 1/day—_ [form of the dragon I](spell_dir/formOfTheDragon#_form-of-the-dragon-i)_ (red dragon only)
 
-**Bard Spells Known** (CL 15th; concentration +19
+**Bard Spells Known** (CL 15th; concentration +19)
 
-5th (3/day)—_ [greater heroism](spell_dir/heroism#_heroism-greater_, _ [mass cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds-mass_, _ [shadow walk](spell_dir/shadowWalk#_shadow-walk)_ (DC 19, _ [song of discord](spell_dir/songOfDiscord#_song-of-discord) _(DC 20
+5th (3/day)—_ [greater heroism](spell_dir/heroism#_heroism-greater)_, _ [mass cure light wounds](spells/cureLightWounds#_cure-light-wounds-mass)_, _ [shadow walk](spell_dir/shadowWalk#_shadow-walk)_ (DC 19), _ [song of discord](spells/songOfDiscord#_song-of-discord) _(DC 20)
 
-4th (5/day)—_ [cure critical wounds](spell_dir/cureCriticalWounds#_cure-critical-wounds_, _ [dominate person](spell_dir/dominatePerson#_dominate-person)_ (DC 19, _ [neutralize poison](spell_dir/neutralizePoison#_neutralize-poison_, _ [shout](spell_dir/shout#_shout)_ (DC 18
+4th (5/day)—_ [cure critical wounds](spell_dir/cureCriticalWounds#_cure-critical-wounds)_, _ [dominate person](spells/dominatePerson#_dominate-person)_ (DC 19), _ [neutralize poison](spell_dir/neutralizePoison#_neutralize-poison)_, _ [shout](spells/shout#_shout)_ (DC 18)
 
-3rd (6/day)—_ [clairaudience/clairvoyance](spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance_, _ [fear](spell_dir/fear#_fear)_ (DC 17, _ [haste](spell_dir/haste#_haste_, _ [invisibility sphere](spell_dir/invisibilitySphere#_invisibility-sphere_, _ [phantom steed](spell_dir/phantomSteed#_phantom-steed_
+3rd (6/day)—_ [clairaudienc_dir/clairvoyance](spells/clairaudienceClairvoyance#_clairaudience-clairvoyance)_, _ [fear](spell_dir/fear#_fear)_ (DC 17), _ [haste](spells/haste#_haste)_, _ [invisibility sphere](spell_dir/invisibilitySphere#_invisibility-sphere)_, _ [phantom steed](spells/phantomSteed#_phantom-steed)_
 
-2nd (6/day)—_ [blur](spell_dir/blur#_blur_, _ [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds_, _ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (DC 16, _ [silence](spell_dir/silence#_silence)_ (DC 16, _ [summon swarm](spell_dir/summonSwarm#_summon-swarm_, _ [whispering wind](spell_dir/whisperingWind#_whispering-wind_
+2nd (6/day)—_ [blur](spell_dir/blur#_blur)_, _ [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (DC 16), _ [silence](spells/silence#_silence)_ (DC 16), _ [summon swarm](spell_dir/summonSwarm#_summon-swarm)_, _ [whispering wind](spells/whisperingWind#_whispering-wind)_
 
-1st (6/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 16, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds_, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [feather fall](spell_dir/featherFall#_feather-fall_, _ [remove fear](spell_dir/removeFear#_remove-fear_, _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_
+1st (6/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 16), _ [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells/featherFall#_feather-fall)_, _ [remove fear](spell_dir/removeFear#_remove-fear)_, _ [unseen servant](spells/unseenServant#_unseen-servant)_
 
-0 (at will—_ [dancing lights](spell_dir/dancingLights#_dancing-lights_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [flare](spell_dir/flare#_flare)_ (DC 14, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [message](spell_dir/message#_message_, _ [resistance](spell_dir/resistance#_resistance_
+0 (at will)—_ [dancing lights](spell_dir/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [flare](spell_dir/flare#_flare)_ (DC 14), _ [mage hand](spells/mageHand#_mage-hand)_, _ [message](spell_dir/message#_message)_, _ [resistance](spells/resistance#_resistance)_
 
 Tactics
 
-**During Combat** The dragon disciple casts _ [greater heroism](spell_dir/heroism#_heroism-greater _and _ [haste](spell_dir/haste#_haste_, then uses _ [dominate person](spell_dir/dominatePerson#_dominate-person_ and _ [charm person](spell_dir/charmPerson#_charm-person)_ to create allies among his enemies. In melee, he uses his breath weapon and Dazzling Display.
+**During Combat** The dragon disciple casts _ [greater heroism](spell_dir/heroism#_heroism-greater) _and _ [haste](spells/haste#_haste)_, then uses _ [dominate person](spell_dir/dominatePerson#_dominate-person)_ and _ [charm person](spells/charmPerson#_charm-person)_ to create allies among his enemies. In melee, he uses his breath weapon and Dazzling Display.
 
 Statistics
 
@@ -217,15 +217,15 @@ Statistics
 
 **Base Atk** +12; **CMB** +18; **CMD** 30
 
-**Feats** Arcane Armor Mastery, [Arcane Armor Training](feats#_arcane-armor-training), [Combat Casting](feats#_combat-casting), Dazzling Display, [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Power Attack](feats#_power-attack), [Spell Focus](feats#_spell-focus) (enchantment), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite, claws
+**Feats** Arcane Armor Mastery, [Arcane Armor Training](feats#_arcane-armor-training), [Combat Casting](feats#_combat-casting), Dazzling Display, [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Power Attack](feats#_power-attack), [Spell Focus](feats#_spell-focus) (enchantment), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (bite, claws)
 
-**Skills** [Climb](skill_dir/climb#_climb +12, [Intimidate](skill_dir/intimidate#_intimidate +6, [Knowledge](skill_dir/knowledge#_knowledge) (arcana, dungeoneering +14, [Knowledge](skill_dir/knowledge#_knowledge) (geography, history, local, nature, religion +10, [Linguistics](skill_dir/linguistics#_linguistics +5, Perception +18, [Perform](skill_dir/perform#_perform) (oratory, percussion, sing +17, [Ride](skill_dir/ride#_ride +2, [Spellcraft](skill_dir/spellcraft#_spellcraft +9, [Stealth](skill_dir/stealth#_stealth +10, [Swim](skill_dir/swim#_swim) +9
+**Skills** [Climb](skill_dir/climb#_climb) +12, [Intimidate](skills/intimidate#_intimidate) +6, [Knowledge](skill_dir/knowledge#_knowledge) (arcana, dungeoneering) +14, [Knowledge](skills/knowledge#_knowledge) (geography, history, local, nature, religion) +10, [Linguistics](skill_dir/linguistics#_linguistics) +5, Perception +18, [Perform](skills/perform#_perform) (oratory, percussion, sing) +17, [Ride](skill_dir/ride#_ride) +2, [Spellcraft](skills/spellcraft#_spellcraft) +9, [Stealth](skill_dir/stealth#_stealth) +10, [Swim](skills/swim#_swim) +9
 
 **Languages** Common, Draconic, Goblin, Orc
 
-**SQ** bardic knowledge +5, blood of dragons, jack-of-all-trades (use any skill, lore master 1/day, orc blood, versatile performance (oratory, percussion, sing), weapon familiarity
+**SQ** bardic knowledge +5, blood of dragons, jack-of-all-trades (use any skill), lore master 1/day, orc blood, versatile performance (oratory, percussion, sing), weapon familiarity
 
-**Combat Gear** _potions of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_ (2, _potion of [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor_; **Other Gear** _+5 hide armor_, _+1 heavy mace_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +2_, _ [belt of physical might](magicItem_dir/wondrousItems#_belt-of-physical-might) +2_ (Str, Con, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +3_, _dusty rose prism [ioun stone](magicItem_dir/wondrousItems#_ioun-stones_, _ [headband of alluring charisma](magicItem_dir/wondrousItems#_headband-of-alluring-charisma +2_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +2_, 1,723 gp
+**Combat Gear** _potions of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_ (2), _potion of [eagle's splendor](spells/eagleSSplendor#_eagle-s-splendor)_; **Other Gear** _+5 hide armor_, _+1 heavy mace_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of physical might](magicItems/wondrousItems#_belt-of-physical-might) +2_ (Str, Con), _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +3_, _dusty rose prism [ioun stone](magicItems/wondrousItems#_ioun-stones)_, _ [headband of alluring charisma](magicItem_dir/wondrousItems#_headband-of-alluring-charisma) +2_, _ [ring of protection](magicItems/rings#_ring-of-protection) +2_, 1,723 gp
 
 These half-orcs become chieftains of savage tribes by brutally and publicly assassinating the former chieftains.
 
@@ -245,7 +245,7 @@ Defense
 
 **AC** 32, touch 18, flat-footed 28 (+4 armor, +3 deflection, +3 Dex, +1 dodge, +1 insight, +10 natural)
 
-**hp** 222 (10d6+10d12+120
+**hp** 222 (10d6+10d12+120)
 
 **Fort** +18, **Ref** +12, **Will** +17; +2 vs. enchantments; **DR** 10/adamantine (150 points); **Immune** cold, paralysis, sleep
 
@@ -259,37 +259,37 @@ Offense
 
 **Special Attacks** breath weapon (30-foot cone, 20d6 cold, DC 27, 4/day), claws (2, 1d6+1 plus 1d6 cold, magic, 10 round_dir/day), dragon bite
 
-**Dragon Disciple Spell-Like Abilities** (CL 20th; concentration +27
+**Dragon Disciple Spell-Like Abilities** (CL 20th; concentration +27)
 
 2/day—_ [form of the dragon II](spell_dir/formOfTheDragon#_form-of-the-dragon-ii)_ (white dragon only)
 
-**Sorcerer Spells Known** (CL 17th; concentration +24
+**Sorcerer Spells Known** (CL 17th; concentration +24)
 
-8th (4/day)—_ [form of the dragon III](spell_dir/formOfTheDragon#_form-of-the-dragon-iii_, _ [polar ray](spell_dir/polarRay#_polar-ray_, _ [sunburst](spell_dir/sunburst#_sunburst)_ (DC 27
+8th (4/day)—_ [form of the dragon III](spell_dir/formOfTheDragon#_form-of-the-dragon-iii)_, _ [polar ray](spells/polarRay#_polar-ray)_, _ [sunburst](spell_dir/sunburst#_sunburst)_ (DC 27)
 
-7th (7/day)—_ [delayed blast fireball](spell_dir/delayedBlastFireball#_delayed-blast-fireball)_ (DC 26, _ [form of the dragon II](spell_dir/formOfTheDragon#_form-of-the-dragon-ii_, _ [mass hold person](spell_dir/holdPerson#_hold-person-mass)_ (DC 24, _ [prismatic spray](spell_dir/prismaticSpray#_prismatic-spray_
+7th (7/day)—_ [delayed blast fireball](spell_dir/delayedBlastFireball#_delayed-blast-fireball)_ (DC 26), _ [form of the dragon II](spells/formOfTheDragon#_form-of-the-dragon-ii)_, _ [mass hold person](spell_dir/holdPerson#_hold-person-mass)_ (DC 24), _ [prismatic spray](spells/prismaticSpray#_prismatic-spray)_
 
-6th (7/day)—_ [control water](spell_dir/controlWater#_control-water_, _ [disintegrate](spell_dir/disintegrate#_disintegrate)_ (DC 23, _ [form of the dragon I](spell_dir/formOfTheDragon#_form-of-the-dragon-i, [freezing sphere](spell_dir/freezingSphere#_freezing-sphere)_ (DC 25
+6th (7/day)—_ [control water](spell_dir/controlWater#_control-water)_, _ [disintegrate](spells/disintegrate#_disintegrate)_ (DC 23), _ [form of the dragon I](spell_dir/formOfTheDragon#_form-of-the-dragon-i), [freezing sphere](spells/freezingSphere#_freezing-sphere)_ (DC 25)
 
-5th (7/day)—_ [blight](spell_dir/blight#_blight)_ (DC 22, _ [cone of cold](spell_dir/coneOfCold#_cone-of-cold)_ (DC 24, _ [dream](spell_dir/dream#_dream_, _ [spell resistance](magicItem_dir/armor#_armor-spell-resistance_, _ [wall of force](spell_dir/wallOfForce#_wall-of-force_
+5th (7/day)—_ [blight](spell_dir/blight#_blight)_ (DC 22), _ [cone of cold](spells/coneOfCold#_cone-of-cold)_ (DC 24), _ [dream](spell_dir/dream#_dream)_, _ [spell resistance](magicItems/armor#_armor-spell-resistance)_, _ [wall of force](spell_dir/wallOfForce#_wall-of-force)_
 
-4th (7/day)—_ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [fear](spell_dir/fear#_fear)_ (DC 21, _ [ice storm](spell_dir/iceStorm#_ice-storm_, _ [stoneskin](spell_dir/stoneskin#_stoneskin_, _ [wall of ice](spell_dir/wallOfIce#_wall-of-ice)_ (DC 23
+4th (7/day)—_ [dimension door](spell_dir/dimensionDoor#_dimension-door)_, _ [fear](spells/fear#_fear)_ (DC 21), _ [ice storm](spell_dir/iceStorm#_ice-storm)_, _ [stoneskin](spells/stoneskin#_stoneskin)_, _ [wall of ice](spell_dir/wallOfIce#_wall-of-ice)_ (DC 23)
 
-3rd (8/day)—_ [displacement](spell_dir/displacement#_displacement_, _ [fly](spell_dir/fly_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt)_ (DC 22, _ [sleet storm](spell_dir/sleetStorm#_sleet-storm_, _ [vampiric touch](spell_dir/vampiricTouch#_vampiric-touch_
+3rd (8/day)—_ [displacement](spell_dir/displacement#_displacement)_, _ [fly](spells/fly)_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt)_ (DC 22), _ [sleet storm](spells/sleetStorm#_sleet-storm)_, _ [vampiric touch](spell_dir/vampiricTouch#_vampiric-touch)_
 
-2nd (8/day)—_ [darkvision](spell_dir/darkvision#_darkvision_, _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind)_ (DC 21, _ [invisibility](spell_dir/invisibility#_invisibility_, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_, _ [web](spell_dir/web#_web)_ (DC 19
+2nd (8/day)—_ [darkvision](spell_dir/darkvision#_darkvision)_, _ [gust of wind](spells/gustOfWind#_gust-of-wind)_ (DC 21), _ [invisibility](spell_dir/invisibility#_invisibility)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_, _ [web](spells/web#_web)_ (DC 19)
 
-1st (8/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 18, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [mage armor](spell_dir/mageArmor#_mage-armor_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [shield](spell_dir/shield#_shield_, _ [silent image](spell_dir/silentImage#_silent-image)_ (DC 18)
+1st (8/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 18), _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [mage armor](spell_dir/mageArmor#_mage-armor)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [shield](spell_dir/shield#_shield)_, _ [silent image](spells/silentImage#_silent-image)_ (DC 18)
 
-0 (at will—_ [dancing lights](spell_dir/dancingLights#_dancing-lights_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [disrupt undead](spell_dir/disruptUndead#_disrupt-undead_, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [mending](spell_dir/mending#_mending_, _ [ray of frost](spell_dir/rayOfFrost#_ray-of-frost_, _ [read magic](spell_dir/readMagic#_read-magic_, _ [resistance](spell_dir/resistance#_resistance_, _ [touch of fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue)_ (DC 17)
+0 (at will)—_ [dancing lights](spell_dir/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [disrupt undead](spell_dir/disruptUndead#_disrupt-undead)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [mending](spell_dir/mending#_mending)_, _ [ray of frost](spells/rayOfFrost#_ray-of-frost)_, _ [read magic](spell_dir/readMagic#_read-magic)_, _ [resistance](spells/resistance#_resistance)_, _ [touch of fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue)_ (DC 17)
 
-**Bloodline** draconic (white
+**Bloodline** draconic (white)
 
 Tactics
 
-**Before Combat** The dragon disciple casts _ [stoneskin](spell_dir/stoneskin#_stoneskin_.
+**Before Combat** The dragon disciple casts _ [stoneskin](spells/stoneskin#_stoneskin)_.
 
-**During Combat** The dragon disciple casts _ [shield](spell_dir/shield#_shield_ and _ [spell resistance](magicItem_dir/armor#_armor-spell-resistance)_ on herself, then takes flight and rains down destructive spells augmented with [Empower Spell](feats#_empower-spell.
+**During Combat** The dragon disciple casts _ [shield](spell_dir/shield#_shield)_ and _ [spell resistance](magicItems/armor#_armor-spell-resistance)_ on herself, then takes flight and rains down destructive spells augmented with [Empower Spell](feats#_empower-spell).
 
 **Base Statistics** Without _ [stoneskin](spell_dir/stoneskin#_stoneskin)_, the dragon disciple's statistics are **DR** none.
 
@@ -299,15 +299,15 @@ Statistics
 
 **Base Atk** +12; **CMB** +13; **CMD** 31
 
-**Feats** [Combat Casting](feats#_combat-casting), [Dodge](feats#_dodge), [Empower Spell](feats#_empower-spell), [Eschew Materials](feats#_eschew-materials), [Great Fortitude](feats#_great-fortitude), Greater [Spell Focus](feats#_spell-focus) (evocation), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), Mobility, [Nimble Moves](feats#_nimble-moves), [Quicken Spell](feats#_quicken-spell), [Spell Focus](feats#_spell-focus) (evocation), [Spell Penetration](feats#_spell-penetration), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse
+**Feats** [Combat Casting](feats#_combat-casting), [Dodge](feats#_dodge), [Empower Spell](feats#_empower-spell), [Eschew Materials](feats#_eschew-materials), [Great Fortitude](feats#_great-fortitude), Greater [Spell Focus](feats#_spell-focus) (evocation), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), Mobility, [Nimble Moves](feats#_nimble-moves), [Quicken Spell](feats#_quicken-spell), [Spell Focus](feats#_spell-focus) (evocation), [Spell Penetration](feats#_spell-penetration), [Toughness](feats#_toughness), [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Climb](skill_dir/climb#_climb +6, [Diplomacy](skill_dir/diplomacy#_diplomacy +12, [Fly](skill_dir/fly#_fly +11, [Heal](skill_dir/heal#_heal +5, [Intimidate](skill_dir/intimidate#_intimidate +15, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +11, [Knowledge](skill_dir/knowledge#_knowledge) (geography, local, nature, nobility, planes +8, Perception +20, [Sense Motive](skill_dir/senseMotive#_sense-motive +5, [Spellcraft](skill_dir/spellcraft#_spellcraft) +11 (+13 to identify magic item properties, [Stealth](skill_dir/stealth#_stealth +13, [Survival](skill_dir/survival#_survival +5, [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device) +15
+**Skills** [Climb](skills/climb#_climb) +6, [Diplomacy](skill_dir/diplomacy#_diplomacy) +12, [Fly](skills/fly#_fly) +11, [Heal](skill_dir/heal#_heal) +5, [Intimidate](skills/intimidate#_intimidate) +15, [Knowledge](skill_dir/knowledge#_knowledge) (arcana) +11, [Knowledge](skills/knowledge#_knowledge) (geography, local, nature, nobility, planes) +8, Perception +20, [Sense Motive](skill_dir/senseMotive#_sense-motive) +5, [Spellcraft](skills/spellcraft#_spellcraft) +11 (+13 to identify magic item properties), [Stealth](skill_dir/stealth#_stealth) +13, [Survival](skills/survival#_survival) +5, [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device) +15
 
 **Languages** Auran, Common, Draconic, Elven, Goblin
 
-**SQ** blood of dragons, bloodline arcana (cold spells deal +1 damage per die, elven magic, weapon familiarity, wings
+**SQ** blood of dragons, bloodline arcana (cold spells deal +1 damage per die), elven magic, weapon familiarity, wings
 
-**Combat Gear** _wand of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_ (10 charges, _wand of [lightning bolt](spell_dir/lightningBolt#_lightning-bolt)_ (10 charges); **Other Gear** _+1 composite longbow_ (+1 Str with 20 arrows, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +3_, _ [belt of mighty constitution](magicItem_dir/wondrousItems#_belt-of-mighty-constitution +6_, _ [boots of the winterlands](magicItem_dir/wondrousItems#_boots-of-the-winterlands_, _ [bracers of armor](magicItem_dir/wondrousItems#_bracers-of-armor +4_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +3_, _dusty rose prism [ioun stone](magicItem_dir/wondrousItems#_ioun-stones_, _ [headband of alluring charisma](magicItem_dir/wondrousItems#_headband-of-alluring-charisma +6_, _ [ring of force shield](magicItem_dir/rings#_ring-of-force-shield_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection +3_, 3,099 gp
+**Combat Gear** _wand of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_ (10 charges), _wand of [lightning bolt](spell_dir/lightningBolt#_lightning-bolt)_ (10 charges); **Other Gear** _+1 composite longbow_ (+1 Str) with 20 arrows, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +3_, _ [belt of mighty constitution](magicItem_dir/wondrousItems#_belt-of-mighty-constitution) +6_, _ [boots of the winterlands](magicItems/wondrousItems#_boots-of-the-winterlands)_, _ [bracers of armor](magicItem_dir/wondrousItems#_bracers-of-armor) +4_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +3_, _dusty rose prism [ioun stone](magicItem_dir/wondrousItems#_ioun-stones)_, _ [headband of alluring charisma](magicItems/wondrousItems#_headband-of-alluring-charisma) +6_, _ [ring of force shield](magicItem_dir/rings#_ring-of-force-shield)_, _ [ring of protection](magicItems/rings#_ring-of-protection) +3_, 3,099 gp
 
 With the patience of elves and the majesty of dragons, ice maidens are masters of subtle machinations—and of the battlefield.
 

@@ -1,5 +1,5 @@
 ---
-title: spells/blight
+title: spell_dir/blight
 ---
  **Blight**
 

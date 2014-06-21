@@ -1,5 +1,5 @@
 ---
-title: spells/bestowCurse
+title: spell_dir/bestowCurse
 ---
  **Bestow Curse**
 

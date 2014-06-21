@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/recoilFire
+title: ultimateComba_dir/spells/recoilFire
 ---
 Recoil Fire
 
@@ -7,7 +7,7 @@ Recoil Fire
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (hoof shavings from a mule
+**Components** V, S, M (hoof shavings from a mule)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

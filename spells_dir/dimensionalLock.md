@@ -1,5 +1,5 @@
 ---
-title: spells/dimensionalLock
+title: spell_dir/dimensionalLock
 ---
  **Dimensional Lock**
 
@@ -13,7 +13,7 @@ title: spells/dimensionalLock
 
 **Area** 20-ft.-radius emanation centered on a point in space
 
-**Duration** 1 day/level
+**Duration** 1 da_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/rideTheWaves
+title: ultimateMagi_dir/spells/rideTheWaves
 ---
 Ride The Waves
 
-**School** transmutation [water]; **Level** cleric 4, druid 4, sorcerer/wizard 4, witch 4
+**School** transmutation [water]; **Level** cleric 4, druid 4, sorcere_dir/wizard 4, witch 4
 
 **Casting Time** 1 standard action
 
@@ -13,9 +13,9 @@ Ride The Waves
 
 **Target** creature touched
 
-**Duration** 1 hou_dir/level (D)
+**Duration** 1 hour/level (D)
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The target gains the ability to breathe water and a swim speed of 30 feet. This swim speed means the target also gains the standard +8 bonus on [Swim](skill_dir/swim#_swim checks and the ability to take 10 on [Swim](skill_dir/swim#_swim checks even while distracted or endangered. The target can use the run action while swimming, provided it swims in a straight line. The spell does not make the target unable to breathe air.
+The target gains the ability to breathe water and a swim speed of 30 feet. This swim speed means the target also gains the standard +8 bonus on [Swim](skill_dir/swim#_swim) checks and the ability to take 10 on [Swim](skills/swim#_swim) checks even while distracted or endangered. The target can use the run action while swimming, provided it swims in a straight line. The spell does not make the target unable to breathe air.
 

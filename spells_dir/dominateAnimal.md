@@ -3,7 +3,7 @@ title: spell_dir/dominateAnimal
 ---
  **Dominate Animal**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** druid 3
+**School** enchantment (compulsion) [mind-affecting]; **Level** druid 3
 
 **Casting Time** 1 round
 
@@ -13,7 +13,7 @@ title: spell_dir/dominateAnimal
 
 **Target** one animal
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

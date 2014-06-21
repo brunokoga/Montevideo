@@ -11,7 +11,7 @@ XP 400
 
 NE Medium undead
 
-**Init** +1; **Senses** darkvision 60 ft., [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +6
+**Init** +1; **Senses** darkvision 60 ft., [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +6
 
 Defense
 
@@ -37,9 +37,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +4; **CMD** 15 (19 vs. trip)
 
-**Feats** [Weapon Focus](feats#_weapon-focus) (claw
+**Feats** [Weapon Focus](feats#_weapon-focus) (claw)
 
-**Skills** [Climb](skill_dir/climb#_climb +8, [Perception](skill_dir/perception#_perception +6, [Stealth](skill_dir/stealth#_stealth +6, [Survival](skill_dir/survival#_survival) +3
+**Skills** [Climb](skill_dir/climb#_climb) +8, [Perception](skills/perception#_perception) +6, [Stealth](skill_dir/stealth#_stealth) +6, [Survival](skills/survival#_survival) +3
 
 **Languages** Common
 
@@ -56,7 +56,7 @@ Special Abilities
 **Charging Trip (Ex)** A festrog that hits with its bite after making a charge attack on all fours can attempt to trip its opponent (+4 bonus). This trip does not provoke attacks   
 of opportunity.
 
-**Diseased Pustules (Ex** When a festrog takes damage from a piercing or slashing weapon, some of its boils rupture, squirting the attacker with puslike fluids. The noxious secretions carry a potent contact [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su) that causes those infected to break out into painful necrotic boils.
+**Diseased Pustules (Ex)** When a festrog takes damage from a piercing or slashing weapon, some of its boils rupture, squirting the attacker with puslike fluids. The noxious secretions carry a potent contact [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)) that causes those infected to break out into painful necrotic boils.
 
 _Necrotic Boils_: Disease—contact; _save_ Fort DC 11; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d4 Con; _cure_ 1 save.
 

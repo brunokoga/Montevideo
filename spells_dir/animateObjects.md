@@ -1,5 +1,5 @@
 ---
-title: spells/animateObjects
+title: spell_dir/animateObjects
 ---
  **Animate Objects**
 
@@ -13,7 +13,7 @@ title: spells/animateObjects
 
 **Targets** one Small object per caster level; see text
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

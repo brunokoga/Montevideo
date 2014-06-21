@@ -7,7 +7,7 @@ title: spell_dir/curseWater
 
 **Casting Time** 1 minute
 
-**Components** V, S, M (5 lbs. of powdered silver worth 25 gp
+**Components** V, S, M (5 lbs. of powdered silver worth 25 gp)
 
 **Range** touch
 

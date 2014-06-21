@@ -1,5 +1,5 @@
 ---
-title: spells/repulsion
+title: spell_dir/repulsion
 ---
  **Repulsion**
 
@@ -11,9 +11,9 @@ title: spells/repulsion
 
 **Range** up to 10 ft./level
 
-**Area** up to 10-ft.-radius/level emanation centered on you
+**Area** up to 10-ft.-radiu_dir/level emanation centered on you
 
-**Duration** 1 roun_dir/level (D
+**Duration** 1 round/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

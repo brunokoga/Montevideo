@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/litanyOfWeakness
+title: ultimateComba_dir/spells/litanyOfWeakness
 ---
 Litany of Weakness
 

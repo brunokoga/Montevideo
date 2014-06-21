@@ -1,5 +1,5 @@
 ---
-title: spells/prestidigitation
+title: spell_dir/prestidigitation
 ---
  **Prestidigitation**
 

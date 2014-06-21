@@ -1,5 +1,5 @@
 ---
-title: spells/protectionFromEvil
+title: spell_dir/protectionFromEvil
 ---
  **Protection from Evil**
 

@@ -1,5 +1,5 @@
 ---
-title: spells/etherealness
+title: spell_dir/etherealness
 ---
  **Etherealness**
 

@@ -15,7 +15,7 @@ Minor artifacts are not necessarily unique items. Even so, they are magic items 
 
 **Book of Infinite Spells**
 
-**Aura** strong (all schools; **CL** 18th
+**Aura** strong (all schools); **CL** 18th
 
 **Slot** none; **Weight** 3 lbs.
 
@@ -96,7 +96,7 @@ _Euryale_: The medusa-like visage of this card brings a curse that only the Fate
 
 _The Fates_: This card enables the character to avoid even an instantaneous occurrence if so desired, for the fabric of reality is unraveled and respun. Note that it does not enable something to happen. It can only stop something from happening or reverse a past occurrence. The reversal is only for the character who drew the card; other party members may have to endure the situation.
 
-_Flames_: Hot anger, jealousy, and envy are but a few of the possible motivational forces for the enmity. The enmity of the outsider can't be ended until one of the parties has been slain. Determine the outsider randomly, and assume that it attacks the character (or plagues her life in some way within 1d20 days.
+_Flames_: Hot anger, jealousy, and envy are but a few of the possible motivational forces for the enmity. The enmity of the outsider can't be ended until one of the parties has been slain. Determine the outsider randomly, and assume that it attacks the character (or plagues her life in some way) within 1d20 days.
 
 _Fool_: The payment of XP and the redraw are mandatory. This card is always discarded when drawn, unlike all others except the Jester.
 
@@ -116,7 +116,7 @@ _Rogue_: When this card is drawn, one of the character's NPC friends (preferably
 
 _Ruin_: As implied by its name, when this card is drawn, all nonmagical possessions of the drawer are lost.
 
-_Skull_: A dread wraith appears. The character must fight it alone—if others help, they get dread wraiths to fight as well. If the character is slain, she is slain forever and cannot be revived, even with a _ [wish](../spell_dir/wish#_wish _or a _ [miracle](../spell_dir/miracle#_miracle)_.
+_Skull_: A dread wraith appears. The character must fight it alone—if others help, they get dread wraiths to fight as well. If the character is slain, she is slain forever and cannot be revived, even with a _ [wish](../spell_dir/wish#_wish) _or a _ [miracle](../spell_dir/miracle#_miracle)_.
 
 _Star_: The 2 points are added to any ability the character chooses. They cannot be divided among two abilities.
 
@@ -124,11 +124,11 @@ _Sun_: Roll for a medium wondrous item until a useful item is indicated.
 
 _Talons_: When this card is drawn, every magic item owned or possessed by the character is instantly and irrevocably lost, except for the deck.
 
-_Throne_: The character becomes a true leader in people's eyes. The castle gained appears in any open area she wishes (but the decision where to place it must be made within 1 hour.
+_Throne_: The character becomes a true leader in people's eyes. The castle gained appears in any open area she wishes (but the decision where to place it must be made within 1 hour).
 
 _Vizier_: This card empowers the character drawing it with the one-time ability to call upon a source of wisdom to solve any single problem or answer fully any question upon her request. The query or request must be made within 1 year. Whether the information gained can be successfully acted upon is another matter entirely.
 
-_The Void_: This black card spells instant disaster. The character's body continues to function, as though comatose, but her psyche is trapped in a prison somewhere—in an object on a far plane or planet, possibly in the possession of an outsider. A _ [wish](../spell_dir/wish#_wish _or a _ [miracle](../spell_dir/miracle#_miracle) _does not bring the character back, instead merely revealing the plane of entrapment. Draw no more cards.
+_The Void_: This black card spells instant disaster. The character's body continues to function, as though comatose, but her psyche is trapped in a prison somewhere—in an object on a far plane or planet, possibly in the possession of an outsider. A _ [wish](../spell_dir/wish#_wish) _or a _ [miracle](../spell_dir/miracle#_miracle) _does not bring the character back, instead merely revealing the plane of entrapment. Draw no more cards.
 
 **Destruction**
 
@@ -142,9 +142,9 @@ The _deck of many things_ can be destroyed by losing it in a wager with a deity 
 
 **Description**
 
-This rare substance appears to be an ordinary, sooty piece of blackish rock. If the stone is broken open (break DC 20, a cavity is revealed at the stone's heart. This cavity is lined with a magical type of quicksilver that enables any character with at least 10 ranks in [Craft](../skill_dir/craft#_craft) (alchemy) to transmute base metals (iron and lead) into silver and gold. A single _philosopher's stone _can turn up to 5,000 pounds of iron into silver (worth 25,000 gp), or up to 1,000 pounds of lead into gold (worth 50,000 gp. However, the quicksilver becomes unstable once the stone is opened and loses its potency within 24 hours, so all transmutations must take place within that period.
+This rare substance appears to be an ordinary, sooty piece of blackish rock. If the stone is broken open (break DC 20), a cavity is revealed at the stone's heart. This cavity is lined with a magical type of quicksilver that enables any character with at least 10 ranks in [Craft](../skill_dir/craft#_craft) (alchemy) to transmute base metals (iron and lead) into silver and gold. A single _philosopher's stone _can turn up to 5,000 pounds of iron into silver (worth 25,000 gp), or up to 1,000 pounds of lead into gold (worth 50,000 gp). However, the quicksilver becomes unstable once the stone is opened and loses its potency within 24 hours, so all transmutations must take place within that period.
 
-The quicksilver found in the center of the stone may also be put to another use. If mixed with any cure potion while the substance is still potent, it creates a special oil of life that acts as a _ [true resurrection](../spell_dir/trueResurrection#_true-resurrection_ spell for any dead body it is sprinkled upon.
+The quicksilver found in the center of the stone may also be put to another use. If mixed with any cure potion while the substance is still potent, it creates a special oil of life that acts as a _ [true resurrection](../spell_dir/trueResurrection#_true-resurrection)_ spell for any dead body it is sprinkled upon.
 
 **Destruction**
 
@@ -160,7 +160,7 @@ The philosopher's stone can be destroyed by being placed in the heel of a titan'
 
 A _sphere of annihilation _is a globe of absolute blackness 2 feet in diameter. Any matter that comes in contact with a sphere is instantly sucked into the void and utterly destroyed. Only the direct intervention of a deity can restore an annihilated character.
 
-A _sphere of annihilation_ is static, resting in some spot as if it were a normal hole. It can be caused to move, however, by mental effort (think of this as a mundane form of _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_, too weak to move actual objects but a force to which the sphere, being weightless, is sensitive). A character's ability to gain control of a _sphere of annihilation_ (or to keep controlling one) is based on the result of a control check against DC 30 (a move action. A control check is 1d20 + character level + character [Int](../gettingStarted#_intelligence) modifier. If the check succeeds, the character can move the sphere (perhaps to bring it into contact with an enemy) as a free action.
+A _sphere of annihilation_ is static, resting in some spot as if it were a normal hole. It can be caused to move, however, by mental effort (think of this as a mundane form of _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_, too weak to move actual objects but a force to which the sphere, being weightless, is sensitive). A character's ability to gain control of a _sphere of annihilation_ (or to keep controlling one) is based on the result of a control check against DC 30 (a move action). A control check is 1d20 + character level + character [Int](../gettingStarted#_intelligence) modifier. If the check succeeds, the character can move the sphere (perhaps to bring it into contact with an enemy) as a free action.
 
 Control of a sphere can be established from as far away as 40 feet (the character need not approach too closely). Once control is established, it must be maintained by continuing to make control checks (all DC 30) each round. For as long as a character maintains control (does not fail a check) in subsequent rounds, he can control the sphere from a distance of 40 feet + 10 feet per character level. The sphere's speed in a round is 10 feet + 5 feet for every 5 points by which the character's control check result in that round exceeded 30.
 
@@ -170,11 +170,11 @@ See also _talisman of the sphere_.
 
 **Destruction**
 
-Should a _ [gate](../spell_dir/gate#_gate)_ spell be cast upon a _sphere of annihilation_, there is a 50% chance (01–50 on d%) that the spell destroys it, a 35% chance (51–85) that the spell does nothing, and a 15% chance (86–100 that a gap is torn in the spatial fabric, catapulting everything within a 180-foot radius into another plane. If a _rod of cancellation_ touches a _sphere of annihilation_, they negate each other in a tremendous explosion. Everything within a 60-foot radius takes 2d6 × 10 points of damage. _ [Dispel magic](../spell_dir/dispelMagic#_dispel-magic_ and _ [mage's disjunction](../spell_dir/mageSDisjunction#_mage-s-disjunction)_ have no effect on a sphere.
+Should a _ [gate](../spell_dir/gate#_gate)_ spell be cast upon a _sphere of annihilation_, there is a 50% chance (01–50 on d%) that the spell destroys it, a 35% chance (51–85) that the spell does nothing, and a 15% chance (86–100) that a gap is torn in the spatial fabric, catapulting everything within a 180-foot radius into another plane. If a _rod of cancellation_ touches a _sphere of annihilation_, they negate each other in a tremendous explosion. Everything within a 60-foot radius takes 2d6 × 10 points of damage. _ [Dispel magic](../spell_dir/dispelMagic#_dispel-magic)_ and _ [mage's disjunction](../spell_dir/mageSDisjunction#_mage-s-disjunction)_ have no effect on a sphere.
 
 **Staff of the Magi**
 
-**Aura** strong (all schools; **CL** 20th
+**Aura** strong (all schools); **CL** 20th
 
 **Slot** none; **Weight** 5 lbs.
 
@@ -182,31 +182,31 @@ Should a _ [gate](../spell_dir/gate#_gate)_ spell be cast upon a _sphere of anni
 
 A long wooden staff, shod in iron and inscribed with sigils and runes of all types, this potent artifact contains many spell powers and other functions. Unlike a normal staff, a _staff of the magi_ holds 50 charges and cannot be recharged normally. Some of its powers use charges, while others don't. A _staff of the magi_ does not lose its powers if it runs out of charges. The following powers do not use charges:
 
-- _ [Detect magic](../spell_dir/detectMagic#_detect-magic_
-- _ [Enlarge person](../spell_dir/enlargePerson#_enlarge-person_ ( [Fortitude](../combat#_fortitude) DC 15 negates)
-- _ [Hold portal](../spell_dir/holdPortal#_hold-portal_
-- _ [Light](../spell_dir/light#_light_
-- _ [Mage armor](../spell_dir/mageArmor#_mage-armor_
-- _ [Mage hand](../spell_dir/mageHand#_mage-hand_
+- _ [Detect magic](../spell_dir/detectMagic#_detect-magic)_
+- _ [Enlarge person](../spell_dir/enlargePerson#_enlarge-person)_ ( [Fortitude](../combat#_fortitude) DC 15 negates)
+- _ [Hold portal](../spell_dir/holdPortal#_hold-portal)_
+- _ [Light](../spell_dir/light#_light)_
+- _ [Mage armor](../spell_dir/mageArmor#_mage-armor)_
+- _ [Mage hand](../spell_dir/mageHand#_mage-hand)_
 
 The following powers drain 1 charge per usage:
 
-- _ [Dispel magic](../spell_dir/dispelMagic#_dispel-magic_
-- _ [Fireball](../spell_dir/fireball#_fireball_ (10d6 damage, [Reflex](../combat#_reflex) DC 17 half)
-- _ [Ice storm](../spell_dir/iceStorm#_ice-storm_
-- _ [Invisibility](../spell_dir/invisibility#_invisibility_
-- _ [Knock](../spell_dir/knock#_knock_
-- _ [Lightning bolt](../spell_dir/lightningBolt#_lightning-bolt_ (10d6 damage, [Reflex](../combat#_reflex) DC 17 half)
-- _ [Passwall](../spell_dir/passwall#_passwall_
-- _ [Pyrotechnics](../spell_dir/pyrotechnics#_pyrotechnics_ ( [Will](../combat#_will) or [Fortitude](../combat#_fortitude) DC 16 negates)
-- _ [Wall of fire](../spell_dir/wallOfFire#_wall-of-fire_
-- _ [Web](../spell_dir/web#_web_
+- _ [Dispel magic](../spell_dir/dispelMagic#_dispel-magic)_
+- _ [Fireball](../spell_dir/fireball#_fireball)_ (10d6 damage, [Reflex](../combat#_reflex) DC 17 half)
+- _ [Ice storm](../spell_dir/iceStorm#_ice-storm)_
+- _ [Invisibility](../spell_dir/invisibility#_invisibility)_
+- _ [Knock](../spell_dir/knock#_knock)_
+- _ [Lightning bolt](../spell_dir/lightningBolt#_lightning-bolt)_ (10d6 damage, [Reflex](../combat#_reflex) DC 17 half)
+- _ [Passwall](../spell_dir/passwall#_passwall)_
+- _ [Pyrotechnics](../spell_dir/pyrotechnics#_pyrotechnics)_ ( [Will](../combat#_will) or [Fortitude](../combat#_fortitude) DC 16 negates)
+- _ [Wall of fire](../spell_dir/wallOfFire#_wall-of-fire)_
+- _ [Web](../spell_dir/web#_web)_
 
 These powers drain 2 charges per usage:
 
-- _ [Monster summoning IX](../spell_dir/summonMonster#_summon-monster-ix_
-- _ [Plane shift](../spell_dir/planeShift#_plane-shift_ ( [Will](../combat#_will) DC 21 negates)
-- _ [Telekinesis](../spell_dir/telekinesis#_telekinesis_ (400 lbs. maximum weight; [Will](../combat#_will) DC 19 negates)
+- _ [Monster summoning IX](../spell_dir/summonMonster#_summon-monster-ix)_
+- _ [Plane shift](../spell_dir/planeShift#_plane-shift)_ ( [Will](../combat#_will) DC 21 negates)
+- _ [Telekinesis](../spell_dir/telekinesis#_telekinesis)_ (400 lbs. maximum weight; [Will](../combat#_will) DC 19 negates)
 
 A _staff of the magi_ gives the wielder [spell resistance](../glossary#_spell-resistance) 23. If this is willingly lowered, however, the staff can also be used to absorb arcane spell energy directed at its wielder, as a _rod of absorption_ does. Unlike the rod, this staff converts spell levels into charges rather than retaining them as spell energy usable by a spellcaster. If the staff absorbs enough spell levels to exceed its limit of 50 charges, it explodes as if a retributive strike had been performed (see below). The wielder has no idea how many spell levels are cast at her, for the staff does not communicate this knowledge as a _ [rod of absorption](rods#_rod-of-absorption)_ does. (Thus, absorbing spells can be risky.)
 
@@ -276,7 +276,7 @@ Major artifacts are unique items—only one of each such item exists. These are 
 
 **Description**
 
-This is a +_6 keen throwing goblinoid bane dwarven waraxe_. Any dwarf who holds it doubles the range of his or her [darkvision](../glossary#_darkvision). Any nondwarf who grasps the _Axe _takes 4 points of temporary [Charisma](../gettingStarted#_charisma-new) damage; these points cannot be healed or restored in any way while the _Axe _is held. The current owner of the _Axe _gains a +10 bonus on [Craft](../skill_dir/craft#_craft) (armor, jewelry, stonemasonry, traps, and weapons checks. The wielder of the _Axe _can summon an elder earth elemental (as _ [summon monster IX](../spell_dir/summonMonster#_summon-monster-ix); _duration 20 rounds once per week.
+This is a +_6 keen throwing goblinoid bane dwarven waraxe_. Any dwarf who holds it doubles the range of his or her [darkvision](../glossary#_darkvision). Any nondwarf who grasps the _Axe _takes 4 points of temporary [Charisma](../gettingStarted#_charisma-new) damage; these points cannot be healed or restored in any way while the _Axe _is held. The current owner of the _Axe _gains a +10 bonus on [Craft](../skill_dir/craft#_craft) (armor, jewelry, stonemasonry, traps, and weapons) checks. The wielder of the _Axe _can summon an elder earth elemental (as _ [summon monster IX](../spell_dir/summonMonster#_summon-monster-ix); _duration 20 rounds) once per week.
 
 **Destruction**
 
@@ -290,14 +290,14 @@ The _Axe of the Dwarvish Lords _rusts away to nothing if it is ever used by a go
 
 **Description**
 
-The _Codex_ is enormous—supposedly, it requires two strong men to lift it. No matter how many pages are turned, another always remains. Anyone opening the _Codex _for the first time is utterly annihilated, as with a _ [destruction](../spell_dir/destruction#_destruction _spell ( [Fortitude](../combat#_fortitude) DC 30). Those who survive can peruse its pages and learn its powers, though not without risk. Each day spent studying the _Codex _allows the reader to make a [Spellcraft](../skill_dir/spellcraft#_spellcraft) check (DC 50) to learn one of its powers (choose the power learned randomly; add a +1 circumstance bonus on the check per additional day spent reading until a power is learned. However, each day of study also forces the reader to make a [Will](../combat#_will) save (DC 30 + 1 per day of study) to avoid being driven insane (as the _ [insanity](../spell_dir/insanity#_insanity) _spell. The powers of the _Codex of the Infinite Planes _are as follows: _ [astral projection](../spell_dir/astralProjection#_astral-projection, [banishment](../spell_dir/banishment#_banishment, [elemental swarm](../spell_dir/elementalSwarm#_elemental-swarm, [gate](../spell_dir/gate#_gate, [greater planar ally](../spell_dir/planarAlly#_planar-ally-greater, [greater planar binding](../spell_dir/planarBinding#_planar-binding-greater, [plane shift](../spell_dir/planeShift#_plane-shift, _and _ [soul bind](../spell_dir/soulBind#_soul-bind). _Each of these spell-like abilities are usable at will by the owner of the _Codex _(assuming that he or she has learned how to access the power. The _Codex of the Infinite Planes _has a caster level of 30th for the purposes of all powers and catastrophes, and all saving throw DCs are 20 + spell level. Activating any power requires a [Spellcraft](../skill_dir/spellcraft#_spellcraft) check (DC 40 + twice the spell level of the power; the character can't take 10 on this check). Any failure on either check indicates that a catastrophe befalls the user (roll on the table below for the effect. A character can only incur one catastrophe per power use.
+The _Codex_ is enormous—supposedly, it requires two strong men to lift it. No matter how many pages are turned, another always remains. Anyone opening the _Codex _for the first time is utterly annihilated, as with a _ [destruction](../spell_dir/destruction#_destruction) _spell ( [Fortitude](../combat#_fortitude) DC 30). Those who survive can peruse its pages and learn its powers, though not without risk. Each day spent studying the _Codex _allows the reader to make a [Spellcraft](../skill_dir/spellcraft#_spellcraft) check (DC 50) to learn one of its powers (choose the power learned randomly; add a +1 circumstance bonus on the check per additional day spent reading until a power is learned). However, each day of study also forces the reader to make a [Will](../combat#_will) save (DC 30 + 1 per day of study) to avoid being driven insane (as the _ [insanity](../spell_dir/insanity#_insanity) _spell). The powers of the _Codex of the Infinite Planes _are as follows: _ [astral projection](../spell_dir/astralProjection#_astral-projection), [banishment](../spell_dir/banishment#_banishment), [elemental swarm](../spell_dir/elementalSwarm#_elemental-swarm), [gate](../spell_dir/gate#_gate), [greater planar ally](../spell_dir/planarAlly#_planar-ally-greater), [greater planar binding](../spell_dir/planarBinding#_planar-binding-greater), [plane shift](../spell_dir/planeShift#_plane-shift), _and _ [soul bind](../spell_dir/soulBind#_soul-bind). _Each of these spell-like abilities are usable at will by the owner of the _Codex _(assuming that he or she has learned how to access the power). The _Codex of the Infinite Planes _has a caster level of 30th for the purposes of all powers and catastrophes, and all saving throw DCs are 20 + spell level. Activating any power requires a [Spellcraft](../skill_dir/spellcraft#_spellcraft) check (DC 40 + twice the spell level of the power; the character can't take 10 on this check). Any failure on either check indicates that a catastrophe befalls the user (roll on the table below for the effect). A character can only incur one catastrophe per power use.
 
 | d% | Catastrophe |
 | --- | --- |
-| 01–25 | **Natural Fury** : An _earthquake _spell centered on the reader strikes every round for 1 minute, and an intensified _ [storm of vengeance](../spell_dir/stormOfVengeance#_storm-of-vengeance _spell is centered and targeted on the reader. |
-| 26–50 | **Fiendish Vengeance** : A _ [gate](../spell_dir/gate#_gate _opens and 1d3+1 balors, pit fiends, or similar evil outsiders step through and attempt to destroy the owner of the _Codex. _ |
-| 51–75 | **Ultimate Imprisonment** : Reader's soul is captured (as _ [trap the soul](../spell_dir/trapTheSoul#_trap-the-soul); _no save allowed in a random gem somewhere on the plane while his or her body is entombed beneath the earth (as _ [imprisonmen](../spell_dir/imprisonment#_imprisonment_ [t](../spell_dir/imprisonment#_imprisonment). |
-| 76–100 | **Death** : The reader utters a _ [wail of the banshee](../spell_dir/wailOfTheBanshee#_wail-of-the-banshee _and then is subject to a _ [destruction](../spell_dir/destruction#_destruction) _spell. This repeats every round for 10 rounds until the reader is dead. |
+| 01–25 | **Natural Fury** : An _earthquake _spell centered on the reader strikes every round for 1 minute, and an intensified _ [storm of vengeance](../spell_dir/stormOfVengeance#_storm-of-vengeance) _spell is centered and targeted on the reader. |
+| 26–50 | **Fiendish Vengeance** : A _ [gate](../spell_dir/gate#_gate) _opens and 1d3+1 balors, pit fiends, or similar evil outsiders step through and attempt to destroy the owner of the _Codex. _ |
+| 51–75 | **Ultimate Imprisonment** : Reader's soul is captured (as _ [trap the soul](../spell_dir/trapTheSoul#_trap-the-soul); _no save allowed) in a random gem somewhere on the plane while his or her body is entombed beneath the earth (as _ [imprisonmen](../spell_dir/imprisonment#_imprisonment)_ [t](../spell_dir/imprisonment#_imprisonment)). |
+| 76–100 | **Death** : The reader utters a _ [wail of the banshee](../spell_dir/wailOfTheBanshee#_wail-of-the-banshee) _and then is subject to a _ [destruction](../spell_dir/destruction#_destruction) _spell. This repeats every round for 10 rounds until the reader is dead. |
 
 **Destruction**
 
@@ -311,20 +311,20 @@ The _Codex of the Infinite Planes _is destroyed if one page is torn out and left
 
 **Description**
 
-Each of these fabled _Orbs_ contains the essence and personality of an ancient dragon of a different variety (one for each of the major ten different chromatic and metallic dragons). The bearer of an _Orb _can, as a standard action, dominate dragons of its particular variety within 500 feet (as _dominate monster_, the dragon being forced to make a DC 25 [Will](../combat#_will) save to resist. [Spell resistance](../glossary#_spell-resistance) is not useful against this effect. Each _Orb of Dragonkind _bestows upon the wielder the [AC](../combat#_armor-class) and saving throw bonuses of the dragon within. These values replace whatever values the character would otherwise have, whether they are better or worse. These values cannot be modified by any means short of ridding the character of the _Orb. _A character possessing an _Orb of Dragonkind _is immune to the breath weapon—but only the breath weapon—of the dragon variety keyed to the _Orb. _Finally, a character possessing an _Orb _can herself use the breath weapon of the dragon in the _Orb _three times per day.
+Each of these fabled _Orbs_ contains the essence and personality of an ancient dragon of a different variety (one for each of the major ten different chromatic and metallic dragons). The bearer of an _Orb _can, as a standard action, dominate dragons of its particular variety within 500 feet (as _dominate monster_), the dragon being forced to make a DC 25 [Will](../combat#_will) save to resist. [Spell resistance](../glossary#_spell-resistance) is not useful against this effect. Each _Orb of Dragonkind _bestows upon the wielder the [AC](../combat#_armor-class) and saving throw bonuses of the dragon within. These values replace whatever values the character would otherwise have, whether they are better or worse. These values cannot be modified by any means short of ridding the character of the _Orb. _A character possessing an _Orb of Dragonkind _is immune to the breath weapon—but only the breath weapon—of the dragon variety keyed to the _Orb. _Finally, a character possessing an _Orb _can herself use the breath weapon of the dragon in the _Orb _three times per day.
 
 All _Orbs of Dragonkind_ can be used to communicate verbally and visually with the possessors of the other _Orbs_. The owner of an _Orb_ knows if there are dragons within 10 miles at all times. For dragons of the _Orb's_ particular variety, the range is 100 miles. If within 1 mile of a dragon of the _Orb's_ variety, the wielder can determine the dragon's exact location and age. The bearer of one of these _Orbs_ earns the enmity of dragonkind forever for profiting by draconic enslavement, even if she later loses the item. Each _Orb_ also has an individual power that can be invoked once per round at caster level 10th.
 
 - _Black Dragon Orb_: _Fly_.
-- _Blue Dragon Orb_: _ [Haste](../spell_dir/haste#_haste_.
-- _Brass Dragon Orb_: _ [Teleport](../spell_dir/teleport#_teleport_.
-- _Bronze Dragon Orb_: _ [Scrying](../spell_dir/scrying#_scrying_ ( [Will](../combat#_will) DC 18 negates).
-- _Copper Dragon Orb_: _ [Suggestion](../spell_dir/suggestion#_suggestion_ ( [Will](../combat#_will) DC 17 negates).
+- _Blue Dragon Orb_: _ [Haste](../spell_dir/haste#_haste)_.
+- _Brass Dragon Orb_: _ [Teleport](../spell_dir/teleport#_teleport)_.
+- _Bronze Dragon Orb_: _ [Scrying](../spell_dir/scrying#_scrying)_ ( [Will](../combat#_will) DC 18 negates).
+- _Copper Dragon Orb_: _ [Suggestion](../spell_dir/suggestion#_suggestion)_ ( [Will](../combat#_will) DC 17 negates).
 - _Gold Dragon Orb_: The owner of the gold _Orb_ can call upon any power possessed by one of the other _Orbs_—including the dominate and breath weapon abilities but not [AC](../combat#_armor-class), save bonuses, or breath weapon immunity—but can only use an individual power once per day. She can dominate any other possessor of an _Orb_ within 1 mile ( [Will](../combat#_will) DC 23 negates).
-- _Green Dragon Orb_: _ [Spectral hand](../spell_dir/spectralHand#_spectral-hand_.
-- _Red Dragon Orb_: _ [Wall of fire](../spell_dir/wallOfFire#_wall-of-fire_.
-- _Silver Dragon Orb_: _ [Cure critical wounds](../spell_dir/cureCriticalWounds#_cure-critical-wounds_ ( [Will](../combat#_will) DC 18 half).
-- _White Dragon Orb_: _ [Protection from energy](../spell_dir/protectionFromEnergy#_protection-from-energy) (cold_ ( [Fortitude](../combat#_fortitude) DC 17 negates)
+- _Green Dragon Orb_: _ [Spectral hand](../spell_dir/spectralHand#_spectral-hand)_.
+- _Red Dragon Orb_: _ [Wall of fire](../spell_dir/wallOfFire#_wall-of-fire)_.
+- _Silver Dragon Orb_: _ [Cure critical wounds](../spell_dir/cureCriticalWounds#_cure-critical-wounds)_ ( [Will](../combat#_will) DC 18 half).
+- _White Dragon Orb_: _ [Protection from energy](../spell_dir/protectionFromEnergy#_protection-from-energy) (cold)_ ( [Fortitude](../combat#_fortitude) DC 17 negates)
 
 **Destruction**
 
@@ -340,9 +340,9 @@ An _orb of dragonkind_ immediately shatters if it is caught in the breath weapon
 
 This artifact was crafted ages ago, weaving together wispy strands of shadow into a twisted black staff. The _Shadowstaff _makes the wielder slightly shadowy and [incorporeal](../glossary#_incorporeal), granting him a +4 bonus to [AC](../combat#_armor-class) and on [Reflex](../combat#_reflex) saves (which stacks with any other bonuses). However, in bright light (such as that of the sun, but not a torch) or in absolute darkness, the wielder takes a –2 penalty on all attack rolls, saves, and checks. The _Shadowstaff_ also has these powers.
 
-- _Summon Shadows_: Three times per day the staff may summon 2d4 shadows. Immune to turning, they serve the wielder as if called by a _ [summon monster V](../spell_dir/summonMonster#_summon-monster-v _spell cast at 20th level.
-- _Summon Nightshade_: Once per month, the staff can summon an advanced shadow demon that serves the wielder as if called by a _ [summon monster IX](../spell_dir/summonMonster#_summon-monster-ix_ spell cast at 20th level.
-- _Shadow Form_: Three times per day the wielder can become a living shadow, with all the movement powers granted by _ [gaseous form](../spell_dir/gaseousForm#_gaseous-form_. 
+- _Summon Shadows_: Three times per day the staff may summon 2d4 shadows. Immune to turning, they serve the wielder as if called by a _ [summon monster V](../spell_dir/summonMonster#_summon-monster-v) _spell cast at 20th level.
+- _Summon Nightshade_: Once per month, the staff can summon an advanced shadow demon that serves the wielder as if called by a _ [summon monster IX](../spell_dir/summonMonster#_summon-monster-ix)_ spell cast at 20th level.
+- _Shadow Form_: Three times per day the wielder can become a living shadow, with all the movement powers granted by _ [gaseous form](../spell_dir/gaseousForm#_gaseous-form)_. 
 - _Shadow Bolt_: Three times per day the staff can project a ray attack that deals 10d6 points of cold damage to a single target. The shadow bolt has a range of 100 feet. 
 
 **Destruction**

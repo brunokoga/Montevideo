@@ -1,5 +1,5 @@
 ---
-title: spells/detectUndead
+title: spell_dir/detectUndead
 ---
  **Detect Undead**
 
@@ -13,7 +13,7 @@ title: spells/detectUndead
 
 **Area** cone-shaped emanation
 
-**Duration** concentration, up to 1 minut_dir/ level (D
+**Duration** concentration, up to 1 minut_dir/ level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,17 +1,17 @@
 ---
-title: spells/chainLightning
+title: spell_dir/chainLightning
 ---
  **Chain Lightning**
 
-**School** evocation [electricity]; **Level** sorcere_dir/wizard 6
+**School** evocation [electricity]; **Level** sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a bit of fur; a piece of amber, glass, or a crystal rod; plus one silver pin per caster level
+**Components** V, S, F (a bit of fur; a piece of amber, glass, or a crystal rod; plus one silver pin per caster level)
 
 **Range** long (400 ft. + 40 ft./level)
 
-**Targets** one primary target, plus one secondary targe_dir/level (each of which must be within 30 ft. of the primary target
+**Targets** one primary target, plus one secondary targe_dir/level (each of which must be within 30 ft. of the primary target)
 
 **Duration** instantaneous
 

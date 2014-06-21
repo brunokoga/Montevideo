@@ -3,7 +3,7 @@ title: spell_dir/shadowWalk
 ---
  **Shadow Walk**
 
-**School** illusion (shadow; **Level** bard 5, sorcerer/wizard 6
+**School** illusion (shadow); **Level** bard 5, sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
@@ -11,9 +11,9 @@ title: spell_dir/shadowWalk
 
 **Range** touch
 
-**Targets** up to one touched creature/level
+**Targets** up to one touched creatur_dir/level
 
-**Duration** 1 hou_dir/level (D
+**Duration** 1 hour/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

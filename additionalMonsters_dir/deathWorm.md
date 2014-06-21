@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/deathWorm
+title: additionalMonster_dir/deathWorm
 ---
 # Death Worm
 
@@ -9,19 +9,19 @@ Death WormCR 6
 
 **XP 2,400**
 
-N Large [magical beast](monster_dir/creatureTypes#_magical-beast
+N Large [magical beast](monsters/creatureTypes#_magical-beast)
 
-**Init** +1; **Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +11
+**Init** +1; **Senses** darkvision 60 ft., low-light vision, tremorsense 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +11
 
 Defense
 
 **AC** 19, touch 10, flat-footed 18 (+1 Dex, +9 natural, –1 size)
 
-**hp** 68 (8d10+24
+**hp** 68 (8d10+24)
 
 **Fort** +9, **Ref** +7, **Will** +4
 
-**Defensive Abilities** corrosive blood, venomous skin; **Immune** acid, electricity, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)
+**Defensive Abilities** corrosive blood, venomous skin; **Immune** acid, electricity, [poison](monsters/universalMonsterRules#_poison-(ex-or-su))
 
 Offense
 
@@ -29,11 +29,11 @@ Offense
 
 **Melee** bite +11 (2d8+6 plus [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)))
 
-**Ranged** electrical jolt +8 ranged touch (4d6 electricity
+**Ranged** electrical jolt +8 ranged touch (4d6 electricity)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [breath weapon](monster_dir/universalMonsterRules#_breath-weapon) (30-ft. line, 8d6 acid damage, Reflex DC 17 for half, usable every 1d4 rounds
+**Special Attacks** [breath weapon](monsters/universalMonsterRules#_breath-weapon) (30-ft. line, 8d6 acid damage, Reflex DC 17 for half, usable every 1d4 rounds)
 
 Statistics
 
@@ -41,9 +41,9 @@ Statistics
 
 **Base Atk** +8; **CMB** +13; **CMD** 24
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Improved Overrun](additionalMonsters/../feats#_improved-overrun), [Iron Will](additionalMonsters/../feats#_iron-will), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Cleave](additionalMonster_dir/../feats#_cleave), [Improved Overrun](additionalMonster_dir/../feats#_improved-overrun), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +11, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) –3 (+13 in deserts; **Racial Modifiers** +16 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in deserts or rocky areas
+**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +11, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) –3 (+13 in deserts); **Racial Modifiers** +16 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in deserts or rocky areas
 
 **Languages** Terran
 
@@ -59,9 +59,9 @@ Special Abilities
 
 **Corrosive Blood (Ex)** A death worm's blood can corrode metal on contact. If a creature damages a death worm with a piercing or slashing weapon made of metal, the creature's blood deals 3d6 points of acid damage to the metal weapon (unlike most forms of energy damage, this damage is not halved when applied to a metal object, although it does still have to penetrate the metal's hardness). The weapon's wielder can halve the damage the weapon takes by making a successful DC 17 Reflex save. Creatures made of metal that deal slashing or piercing damage to a death worm with a natural attack take 3d6 points of acid damage (a DC 17 Reflex save halves this damage). The corrosive elements of the blood fade 1 round after it leaves the worm's body or the worm dies. The save DC is Constitution-based.
 
-**Electrical Jolt (Su** A death worm can [fire](monster_dir/creatureTypes#_fire-subtype a jolt of electricity from its mouth as a standard action. The range increment for this ranged touch attack is 60 feet.
+**Electrical Jolt (Su)** A death worm can [fire](monsters/creatureTypes#_fire-subtype) a jolt of electricity from its mouth as a standard action. The range increment for this ranged touch attack is 60 feet.
 
-**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex** Bite—injury, or skin—contact; save Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 2 saves.
+**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury, or skin—contact; save Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 2 saves.
 
 **Venomous Skin (Ex)** A death worm's skin secretes a noxious, waxy substance. This venomous sheen poisons any creature that touches a death worm, either by making a successful attack with an unarmed strike or natural weapon or with a touch attack. A creature that grapples a death worm is also exposed to the creature's venomous skin.
 

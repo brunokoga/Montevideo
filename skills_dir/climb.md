@@ -1,5 +1,5 @@
 ---
-title: skills/climb
+title: skill_dir/climb
 ---
 # Climb
 

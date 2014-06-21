@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/comba_dir/gladiatorWeapons
+title: ultimateComba_dir/combat/gladiatorWeapons
 ---
 # Gladiator Weapons
 
@@ -16,7 +16,7 @@ _Performance_: When wielding this weapon, if an attack or combat maneuver made w
 # Gladiator Weapon Descriptions
 
 [Table: Gladiator Weapons]
-| Martial | Cost | Dmg (S) | Dmg (M | Critical | Range | Weightⁱ | Type⁲ | Special |
+| Martial | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weightⁱ | Type⁲ | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | _Light Melee Weapons_ |
 | Gladius | 15 gp | 1d4 | 1d6 | 19–20/×2 | — | 3 lbs. | P or S | performance |

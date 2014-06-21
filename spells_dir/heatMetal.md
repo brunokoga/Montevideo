@@ -1,5 +1,5 @@
 ---
-title: spells/heatMetal
+title: spell_dir/heatMetal
 ---
  **Heat Metal**
 
@@ -11,7 +11,7 @@ title: spells/heatMetal
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lbs. of metal/level, all of which must be within a 30-ft. circle
+**Target** metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lbs. of meta_dir/level, all of which must be within a 30-ft. circle
 
 **Duration** 7 rounds
 

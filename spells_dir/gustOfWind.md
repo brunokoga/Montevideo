@@ -1,5 +1,5 @@
 ---
-title: spells/gustOfWind
+title: spell_dir/gustOfWind
 ---
  **Gust of Wind**
 

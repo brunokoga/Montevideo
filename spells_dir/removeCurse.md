@@ -1,5 +1,5 @@
 ---
-title: spells/removeCurse
+title: spell_dir/removeCurse
 ---
  **Remove Curse**
 

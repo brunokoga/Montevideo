@@ -1,5 +1,5 @@
 ---
-title: spells/guidance
+title: spell_dir/guidance
 ---
  **Guidance**
 

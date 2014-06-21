@@ -1,5 +1,5 @@
 ---
-title: spells/findTraps
+title: spell_dir/findTraps
 ---
  **Find Traps**
 

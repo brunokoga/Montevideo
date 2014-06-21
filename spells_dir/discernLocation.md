@@ -1,5 +1,5 @@
 ---
-title: spells/discernLocation
+title: spell_dir/discernLocation
 ---
  **Discern Location**
 

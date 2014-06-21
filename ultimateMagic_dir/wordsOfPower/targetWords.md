@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/wordsOfPower/targetWords
+title: ultimateMagi_dir/wordsOfPower/targetWords
 ---
 # Target Words
 

@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/stormbolts
+title: advance_dir/spells/stormbolts
 ---
  **Stormbolts**
 
-**School** evocation [electricity]; **Level** cleric 8, druid 8, sorcerer/wizard 8, witch 8
+**School** evocation [electricity]; **Level** cleric 8, druid 8, sorcere_dir/wizard 8, witch 8
 
 **Casting Time** 1 standard action
 

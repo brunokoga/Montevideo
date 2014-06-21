@@ -1,13 +1,13 @@
 ---
-title: spells/rayOfExhaustion
+title: spell_dir/rayOfExhaustion
 ---
  **Ray of Exhaustion**
 
-**School** necromancy; **Level** sorcere_dir/wizard 3
+**School** necromancy; **Level** sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a drop of sweat
+**Components** V, S, M (a drop of sweat)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

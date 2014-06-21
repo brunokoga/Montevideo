@@ -3,7 +3,7 @@ title: spell_dir/geasQuest
 ---
  **Geas, Lesser**
 
-**School** enchantment (compulsion [language-dependent, mind-affecting]; **Level** bard 3, sorcerer/wizard 4
+**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** bard 3, sorcerer/wizard 4
 
 **Casting Time** 1 round
 
@@ -13,7 +13,7 @@ title: spell_dir/geasQuest
 
 **Target** one living creature with 7 HD or less
 
-**Duration** 1 da_dir/level or until discharged (D
+**Duration** 1 da_dir/level or until discharged (D)
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 
@@ -29,7 +29,7 @@ A _lesser geas _(and all ability score penalties) can be ended by _ [break encha
 
 **Gea_dir/Quest**
 
-**School** enchantment (compulsion [language-dependent, mind-affecting]; **Level** bard 6, cleric 6, sorcerer/wizard 6
+**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** bard 6, cleric 6, sorcerer/wizard 6
 
 **Casting Time** 10 minutes
 
@@ -39,9 +39,9 @@ A _lesser geas _(and all ability score penalties) can be ended by _ [break encha
 
 This spell functions similarly to _lesser geas, _except that it affects a creature of any HD and allows no saving throw.
 
-If the subject is prevented from obeying the _geas/quest _for 24 hours, it takes a –3 penalty to each of its ability scores. Each day, another –3 penalty accumulates, up to a total of –12. No ability score can be reduced to less than 1 by this effect. The ability score penalties are removed 24 hours after the subject resumes obeying the _gea_dir/quest._
+If the subject is prevented from obeying the _gea_dir/quest _for 24 hours, it takes a –3 penalty to each of its ability scores. Each day, another –3 penalty accumulates, up to a total of –12. No ability score can be reduced to less than 1 by this effect. The ability score penalties are removed 24 hours after the subject resumes obeying the _geas/quest._
 
-A _ [remove curse](removeCurse#_remove-curse _spell ends a _gea_dir/quest _spell only if its caster level is at least two higher than your caster level. _ [Break enchantment](breakEnchantment#_break-enchantment _does not end a _gea_dir/quest_, but _ [limited wish](limitedWish#_limited-wish)_, _ [miracle](miracle#_miracle)_, and _ [wish](wish#_wish _do.
+A _ [remove curse](removeCurse#_remove-curse) _spell ends a _gea_dir/quest _spell only if its caster level is at least two higher than your caster level. _ [Break enchantment](breakEnchantment#_break-enchantment) _does not end a _geas/quest_, but _ [limited wish](limitedWish#_limited-wish)_, _ [miracle](miracle#_miracle)_, and _ [wish](wish#_wish) _do.
 
 Bards, sorcerers, and wizards usually refer to this spell as _geas, _while clerics call the same spell _quest_.
 

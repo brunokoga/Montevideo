@@ -1,5 +1,5 @@
 ---
-title: advancedRaceGuide/uncommonRaces/vishkanyas
+title: advancedRaceGuid_dir/uncommonRaces/vishkanyas
 ---
 # Vishkanyas
 
@@ -17,9 +17,9 @@ Vishkanyas are a race of exotic humanoids with poisonous blood. Possessed of an 
 
 **Low-Light Vision** : Vishkanyas can see twice as far as humans in conditions of dim light.
 
-**Keen Senses** : Vishkanyas receive a +2 racial bonus on [Perception](skill_dir/perception#_perception checks.
+**Keen Senses** : Vishkanyas receive a +2 racial bonus on [Perception](skill_dir/perception#_perception) checks.
 
-**Limber** : Vishkanyas receive a +2 racial bonus on [Escape Artist](skill_dir/escapeArtist#_escape-artist and [Stealth](skill_dir/stealth#_stealth checks.
+**Limber** : Vishkanyas receive a +2 racial bonus on [Escape Artist](skills/escapeArtist#_escape-artist) and [Stealth](skill_dir/stealth#_stealth) checks.
 
 **Poison Resistance** : A vishkanya has a racial bonus on saving throws against poison equal to its Hit Dice.
 
@@ -40,7 +40,7 @@ The following racial traits may be selected instead of existing vishkanya racial
 
 **Sensual** : You are trained in drawing attention to yourself. You gain a +2 bonus on any one [Perform](skill_dir/perform#_perform) skill. This racial trait replaces keen senses.
 
-**Subtle Appearance** : You have normal (humanlike eyes, and your beauty is more conventional. You gain a +4 bonus on [Disguise](skill_dir/disguise#_disguise checks to look fully human. This racial trait replaces low-light vision.
+**Subtle Appearance** : You have normal (humanlike) eyes, and your beauty is more conventional. You gain a +4 bonus on [Disguise](skills/disguise#_disguise) checks to look fully human. This racial trait replaces low-light vision.
 
 # Favored Class Options
 
@@ -60,9 +60,9 @@ The following racial archetype is available to vishkanyas.
 
 Skilled at manipulation and diversion, the deadly courtesan builds up those around her and periodically takes them down. She can be a spy, entertainer, assassin, bodyguard, or just an intimate to someone who needs it most. A deadly courtesan has the following class features.
 
-**Class Skills** : At 1st level, a deadly courtesan adds [Knowledge](skill_dir/knowledge#_knowledge) (history and [Knowledge](skill_dir/knowledge#_knowledge) (nobility to her list of class skills and removes [Knowledge](skill_dir/knowledge#_knowledge) (dungeoneering) from her list of class skills.
+**Class Skills** : At 1st level, a deadly courtesan adds [Knowledge](skill_dir/knowledge#_knowledge) (history) and [Knowledge](skills/knowledge#_knowledge) (nobility) to her list of class skills and removes [Knowledge](skill_dir/knowledge#_knowledge) (dungeoneering) from her list of class skills.
 
-**Bardic Performance (Su** : At 2nd level, a deadly courtesan gains the bardic performance ability and the fascinate bardic performance. Her fascinate DC is 10 + 1/2 her rogue level + her Charisma modifier. She can use this bardic performance for a number of rounds per day equal to 1 + her Charisma modifier. At each level after 2nd, she can use bardic performance for 1 additional round per day. If the courtesan also has bard levels, she may use these rounds for either class's fascinate bardic performance, and her bard and rogue levels stack for determining her fascinate DC. This ability replaces the rogue trick gained at 2nd level.
+**Bardic Performance (Su)** : At 2nd level, a deadly courtesan gains the bardic performance ability and the fascinate bardic performance. Her fascinate DC is 10 + 1/2 her rogue level + her Charisma modifier. She can use this bardic performance for a number of rounds per day equal to 1 + her Charisma modifier. At each level after 2nd, she can use bardic performance for 1 additional round per day. If the courtesan also has bard levels, she may use these rounds for either class's fascinate bardic performance, and her bard and rogue levels stack for determining her fascinate DC. This ability replaces the rogue trick gained at 2nd level.
 
 **Inspire Competence (Su)** : At 3rd level, a deadly courtesan can use her bardic performance to inspire competence. The bonus begins at +2 and increases by +1 for every six levels the courtesan has attained beyond 3rd (+3 at 9th and +4 at 15th). This ability replaces all levels of trap sense.
 
@@ -117,7 +117,7 @@ This black corset fits neatly beneath armor. As a free action, the wearer can co
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [grease](spell_dir/grease#_grease)_, _squeeze_ (see below); **Cost** 1,500 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [grease](spells/grease#_grease)_, _squeeze_ (see below); **Cost** 1,500 gp
 
 ## Vishkanya Spells
 
@@ -125,7 +125,7 @@ Vishkanyas have access to the following spell.
 
 Squeeze
 
-**School** transmutation (polymorph; **Level** alchemist 2, sorcerer/wizard 2, witch 2
+**School** transmutation (polymorph); **Level** alchemist 2, sorcere_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -135,9 +135,9 @@ Squeeze
 
 **Target** creature touched
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute/level
 
-**Save** Fortitude negates (harmless); **Spell Resistance** yes (harmless
+**Save** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
 The target becomes flexible regardless of its actual size and mass. It can move through areas at least half its size with no penalty for squeezing. It can move through a space at least one-quarter its width using the penalties for squeezing through a space at least half its width.
 

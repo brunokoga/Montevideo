@@ -1,19 +1,19 @@
 ---
-title: spells/commandUndead
+title: spell_dir/commandUndead
 ---
  **Command Undead**
 
-**School** necromancy; **Level** sorcere_dir/wizard 2
+**School** necromancy; **Level** sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a shred of raw meat and a splinter of bone
+**Components** V, S, M (a shred of raw meat and a splinter of bone)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Targets** one undead creature
 
-**Duration** 1 day/level
+**Duration** 1 da_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

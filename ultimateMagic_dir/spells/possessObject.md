@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/possessObject
+title: ultimateMagi_dir/spells/possessObject
 ---
 Possess Object
 
-**School** necromancy; **Level** sorcerer/wizard 5, witch 5
+**School** necromancy; **Level** sorcere_dir/wizard 5, witch 5
 
 **Casting Time** 1 standard action
 
@@ -11,5 +11,5 @@ Possess Object
 
 **Duration** 1 hour/level or until you return to your body
 
-This spell functions as _ [magic jar](spell_dir/magicJar#_magic-jar_, except you transfer your mind to a single object, animating it as if using _ [animate objects](spell_dir/animateObjects#_animate-objects_, except your mind controls the object as if it were your own body. You cannot speak or cast spells while possessing the object. Because your original body is effectively dead while under the effect of this spell, this temporarily suspends disease, poisons, and other afflictions affecting you.
+This spell functions as _ [magic jar](spell_dir/magicJar#_magic-jar)_, except you transfer your mind to a single object, animating it as if using _ [animate objects](spells/animateObjects#_animate-objects)_, except your mind controls the object as if it were your own body. You cannot speak or cast spells while possessing the object. Because your original body is effectively dead while under the effect of this spell, this temporarily suspends disease, poisons, and other afflictions affecting you.
 

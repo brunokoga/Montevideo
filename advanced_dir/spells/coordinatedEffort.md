@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/coordinatedEffort
+title: advance_dir/spells/coordinatedEffort
 ---
  **Coordinated Effort**
 
@@ -13,7 +13,7 @@ title: advanced/spells/coordinatedEffort
 
 **Targets** you plus one willing creature per 3 levels, no two of which can be more than 30 ft. part
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 

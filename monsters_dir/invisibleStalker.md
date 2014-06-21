@@ -9,7 +9,7 @@ _No true form can be detected, yet a sense of force and hulking malevolence is u
 
 **XP 3,200**
 
-N Medium [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype)
+N Medium [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype), [elemental](creatureTypes#_elemental-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
 **Init** +8; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +12
 
@@ -27,7 +27,7 @@ N Medium [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype)
 
 **Speed** 30 ft., fly 30 (perfect)
 
-**Melee** 2 slams +12 (2d6+4
+**Melee** 2 slams +12 (2d6+4)
 
 **Statistics**
 
@@ -37,7 +37,7 @@ N Medium [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype)
 
 **Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Weapon Focus](../feats#_weapon-focus) (slam)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +14, [Bluff](../skill_dir/bluff#_bluff +10, [Fly](../skill_dir/fly#_fly +22, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +12, [Perception](../skill_dir/perception#_perception +12, [Sense Motive](../skill_dir/senseMotive#_sense-motive +12, [Stealth](../skill_dir/stealth#_stealth +14, [Survival](../skill_dir/survival#_survival) +12
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +14, [Bluff](../skill_dir/bluff#_bluff) +10, [Fly](../skill_dir/fly#_fly) +22, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +12, [Perception](../skill_dir/perception#_perception) +12, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +12, [Stealth](../skill_dir/stealth#_stealth) +14, [Survival](../skill_dir/survival#_survival) +12
 
 **Languages** Auran, Common
 
@@ -53,9 +53,9 @@ N Medium [outsider](creatureTypes#_outsider) ( [air](creatureTypes#_air-subtype)
 
 **Special Abilities**
 
-**Improved Tracking (Ex** An invisible stalker takes no penalty to [Survival](../skill_dir/survival#_survival) checks when tracking and moving at any speed.
+**Improved Tracking (Ex)** An invisible stalker takes no penalty to [Survival](../skill_dir/survival#_survival) checks when tracking and moving at any speed.
 
-**Natural Invisibility (Ex** This ability is constant—an invisible stalker remains invisible at all times, even when attacking. As this ability is inherent, it is not subject to the _ [invisibility purge](../spell_dir/invisibilityPurge#_invisibility-purge_ spell. Against foes that cannot pinpoint it, the invisible stalker gains a +20 bonus on [Stealth](../skill_dir/stealth#_stealth checks when moving, or +40 when standing still—these bonuses are not included in the statistics above.
+**Natural Invisibility (Ex)** This ability is constant—an invisible stalker remains invisible at all times, even when attacking. As this ability is inherent, it is not subject to the _ [invisibility purge](../spell_dir/invisibilityPurge#_invisibility-purge)_ spell. Against foes that cannot pinpoint it, the invisible stalker gains a +20 bonus on [Stealth](../skill_dir/stealth#_stealth) checks when moving, or +40 when standing still—these bonuses are not included in the statistics above.
 
 Very little is known about these enigmatic and mysterious creatures, as their very nature makes details of their true form difficult to discern. Brought to this world from the Plane of Air, these creatures fulfill tasks for those who conjure them. Invisible stalkers act as guardians, assassins, and trackers, occupations in which they excel. Their natural invisibility and skill at stealth allow them to follow their quarry without detection and give them the upper hand when it comes to exterminating a mark.
 

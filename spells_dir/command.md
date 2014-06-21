@@ -3,7 +3,7 @@ title: spell_dir/command
 ---
  **Command**
 
-**School** enchantment (compulsion [language-dependent, mind-affecting]; **Level** cleric 1
+**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 1
 
 **Casting Time** 1 standard action
 
@@ -35,7 +35,7 @@ If the subject can't carry out your command on its next turn, the spell automati
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 5
 
-**Targets** one creature/level, no two of which can be more than 30 ft. apart
+**Targets** one creatur_dir/level, no two of which can be more than 30 ft. apart
 
 **Duration** 1 round/level
 

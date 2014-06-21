@@ -1,9 +1,9 @@
 ---
-title: mythicAdventures/mythicSpells/divinePursuit
+title: mythicAdventure_dir/mythicSpells/divinePursuit
 ---
 Divine Pursuit
 
-**Source** [_divine pursuit_](ultimateMagic/spell_dir/divinePursuit#_divine-pursuit
+**Source** [_divine pursuit_](ultimateMagi_dir/spells/divinePursuit#_divine-pursuit)
 
-The speed of the movement form provided by the spell increases by 30 feet. This adjustment is treated as an enhancement bonus. You gain a bonus on [Perception](skill_dir/perception#_perception and [Survival](skill_dir/survival#_survival skill checks attempted against the selected creature. This is a sacred bonus if you're good or a profane bonus if you're evil; if you're neutral, choose either the sacred or profane bonus.
+The speed of the movement form provided by the spell increases by 30 feet. This adjustment is treated as an enhancement bonus. You gain a bonus on [Perception](skill_dir/perception#_perception) and [Survival](skills/survival#_survival) skill checks attempted against the selected creature. This is a sacred bonus if you're good or a profane bonus if you're evil; if you're neutral, choose either the sacred or profane bonus.
 

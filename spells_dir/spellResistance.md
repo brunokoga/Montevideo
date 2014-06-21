@@ -1,5 +1,5 @@
 ---
-title: spells/spellResistance
+title: spell_dir/spellResistance
 ---
  **Spell Resistance**
 

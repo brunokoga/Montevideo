@@ -1,5 +1,5 @@
 ---
-title: spells/expeditiousRetreat
+title: spell_dir/expeditiousRetreat
 ---
  **Expeditious Retreat**
 

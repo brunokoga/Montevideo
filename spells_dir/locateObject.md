@@ -1,5 +1,5 @@
 ---
-title: spells/locateObject
+title: spell_dir/locateObject
 ---
  **Locate Object**
 

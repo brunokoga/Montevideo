@@ -1,5 +1,5 @@
 ---
-title: spells/imprisonment
+title: spell_dir/imprisonment
 ---
  **Imprisonment**
 

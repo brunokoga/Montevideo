@@ -3,15 +3,15 @@ title: spell_dir/secretChest
 ---
  **Secret Chest**
 
-**School** conjuration (summoning; **Level** sorcere_dir/wizard 5
+**School** conjuration (summoning); **Level** sorcerer/wizard 5
 
 **Casting Time** 10 minutes
 
-**Components** V, S, F (the chest and its replica
+**Components** V, S, F (the chest and its replica)
 
 **Range** see text
 
-**Target** one chest and up to 1 cu. ft. of goods/caster level
+**Target** one chest and up to 1 cu. ft. of good_dir/caster level
 
 **Duration** 60 days or until discharged
 

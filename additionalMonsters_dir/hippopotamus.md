@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/hippopotamus
+title: additionalMonster_dir/hippopotamus
 ---
 # Hippopotamus
 
@@ -9,9 +9,9 @@ This lumbering bull hippopotamus lunges out of the water and yawns wide, display
 
 **XP 1,600**
 
-N Large [animal](monster_dir/creatureTypes#_animal
+N Large [animal](monsters/creatureTypes#_animal)
 
-**Init** +4; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +8
+**Init** +4; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +8
 
 Defense
 
@@ -37,13 +37,13 @@ Statistics
 
 **Str** 19, **Dex** 10, **Con** 16, **Int** 2, **Wis** 13, **Cha** 5
 
-**Base Atk** +6; **CMB** +10; **CMD** 20 (24 vs. trip
+**Base Atk** +6; **CMB** +10; **CMD** 20 (24 vs. trip)
 
-**Feats** [Endurance](additionalMonsters/../feats#_endurance), Imp. Initiative, [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skill_dir/perception#_perception)
+**Feats** [Endurance](additionalMonsters/../feats#_endurance), Imp. Initiative, [Power Attack](additionalMonster_dir/../feats#_power-attack), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception))
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +8, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +1 (+11 underwater, [Swim](additionalMonsters/../skill_dir/swim#_swim +11; **Racial Modifiers** +10 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth underwater
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception) +8, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +1 (+11 underwater), [Swim](additionalMonsters/../skill_dir/swim#_swim) +11; **Racial Modifiers** +10 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) underwater
 
-**SQ** [hold breath](monster_dir/universalMonsterRules#_hold-breath)
+**SQ** [hold breath](monsters/universalMonsterRules#_hold-breath)
 
 Ecology
 
@@ -55,9 +55,9 @@ Ecology
 
 Special Abilities
 
-**Capsize (Ex** A hippopotamus can overturn a boat of its size or smaller by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's [Profession](additionalMonsters/../skill_dir/profession#_profession) (sailor) check, whichever is higher.
+**Capsize (Ex)** A hippopotamus can overturn a boat of its size or smaller by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's [Profession](additionalMonster_dir/../skill_dir/profession#_profession) (sailor) check, whichever is higher.
 
-**Sweat (Ex** A hippo's reddish sweat protects it from nonlethal damage from hot environments, and grants it a +2 racial bonus on saving throws against nonmagical [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)).
+**Sweat (Ex)** A hippo's reddish sweat protects it from nonlethal damage from hot environments, and grants it a +2 racial bonus on saving throws against nonmagical [disease](monsters/universalMonsterRules#_disease-(ex-or-su)).
 
 The ill-tempered “river horse” has a well-earned reputation for hostility, despite the fact that it is a herbivore.
 
@@ -65,7 +65,7 @@ The ill-tempered “river horse” has a well-earned reputation for hostility, d
 
 **Starting Statistics** : **Size** Medium; **Speed** 40 ft.; **AC** +6 natural armor; **Attack** bite (1d8); **Ability Scores** Str 11, Dex 12, Con 12, Int 2, Wis 13, Cha 5; **Special Qualities** low-light vision, scent, sweat.
 
-**7th-Level Advancement** : **Size** Large; **AC** +2 nat. arm.; **Attack** bite (2d8; **Ability Scores** Str +8, **Dex** –2, **Con** +4; **Special Ability** trample.
+**7th-Level Advancement** : **Size** Large; **AC** +2 nat. arm.; **Attack** bite (2d8); **Ability Scores** Str +8, **Dex** –2, **Con** +4; **Special Ability** trample.
 
 # Hippopotamus, Behemoth
 
@@ -75,7 +75,7 @@ Behemoth Hippopotamus CR 10
 
 **XP 9,600**
 
-N Huge [animal](monster_dir/creatureTypes#_animal
+N Huge [animal](monster_dir/creatureTypes#_animal)
 
 **Init** +3; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +12
 
@@ -83,9 +83,9 @@ Defense
 
 **AC** 23, touch 7, flat-footed 23 (–1 Dex, +16 natural, –2 size)
 
-**hp** 133 (14d8+70
+**hp** 133 (14d8+70)
 
-**Fort** +14 (+16 vs. nonmagical [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), **Ref** +8, **Will** +7
+**Fort** +14 (+16 vs. nonmagical [disease](monsters/universalMonsterRules#_disease-(ex-or-su))), **Ref** +8, **Will** +7
 
 **Defensive Abilities** sweat
 
@@ -103,19 +103,19 @@ Statistics
 
 **Str** 29, **Dex** 8, **Con** 20, **Int** 2, **Wis** 13, **Cha** 5
 
-**Base Atk** +10; **CMB** +21 (+25 grapple); **CMD** 30 (34 vs. trip
+**Base Atk** +10; **CMB** +21 (+25 grapple); **CMD** 30 (34 vs. trip)
 
-**Feats** [Diehard](additionalMonsters/../feats#_diehard), [Endurance](additionalMonsters/../feats#_endurance), [Improved Critical](additionalMonsters/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skill_dir/perception#_perception)
+**Feats** [Diehard](additionalMonsters/../feats#_diehard), [Endurance](additionalMonster_dir/../feats#_endurance), [Improved Critical](additionalMonster_dir/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception))
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +12, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +2 (+12 underwater, [Swim](additionalMonsters/../skill_dir/swim#_swim +13; **Racial Modifiers** +10 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth underwater
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception) +12, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +2 (+12 underwater), [Swim](additionalMonsters/../skill_dir/swim#_swim) +13; **Racial Modifiers** +10 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) underwater
 
-**SQ** [hold breath](monster_dir/universalMonsterRules#_hold-breath)
+**SQ** [hold breath](monsters/universalMonsterRules#_hold-breath)
 
 Ecology
 
 **Environment** warm rivers
 
-**Organization** solitary or bloat (2–8
+**Organization** solitary or bloat (2–8)
 
 **Treasure** none
 

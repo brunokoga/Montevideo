@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/reinforceArmaments
+title: ultimateComba_dir/spells/reinforceArmaments
 ---
 Reinforce Armaments
 
-**School** transmutation; **Level** cleric 1, magus 1, sorcerer/wizard 1, witch 1
+**School** transmutation; **Level** cleric 1, magus 1, sorcere_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -17,7 +17,7 @@ Reinforce Armaments
 **Duration** 10 minute_dir/level
 
 **Saving Throw** Will negates (harmless, object);   
-**Spell Resistance** yes (harmless, object
+**Spell Resistance** yes (harmless, object)
 
 You reinforce a weapon or armor suit to give it a temporarily upgrade or mitigate the fragile quality. A suit of armor or weapon touched that has the fragile quality is not considered to have the fragile quality for the spell's duration. Normal armor suits or weapons subjected to this spell instead gain the masterwork quality for the spell's duration and their hardness is doubled. If this spell is cast on masterwork or magical armor or weapons, their hardness is doubled for the duration of the spell.
 

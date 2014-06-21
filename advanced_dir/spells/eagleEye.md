@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/eagleEye
+title: advance_dir/spells/eagleEye
 ---
  **Eagle Eye**
 
@@ -13,7 +13,7 @@ title: advanced/spells/eagleEye
 
 **Effect** magical sensor
 
-**Duration** 1 minut_dir/level (D
+**Duration** 1 minut_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 

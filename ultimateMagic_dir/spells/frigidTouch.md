@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/frigidTouch
+title: ultimateMagi_dir/spells/frigidTouch
 ---
 Frigid Touch
 
-**School** evocation [cold]; **Level** druid 2, magus 2, sorcerer/wizard 2
+**School** evocation [cold]; **Level** druid 2, magus 2, sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 

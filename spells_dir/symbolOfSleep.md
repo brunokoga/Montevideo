@@ -3,9 +3,9 @@ title: spell_dir/symbolOfSleep
 ---
  **Symbol of Sleep**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** cleric 5, sorcere_dir/wizard 5
+**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 5, sorcerer/wizard 5
 
-**Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp
+**Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
 
 **Saving Throw** [Will](../combat#_will) negates
 

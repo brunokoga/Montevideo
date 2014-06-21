@@ -1,5 +1,5 @@
 ---
-title: spells/goodberry
+title: spell_dir/goodberry
 ---
  **Goodberry**
 

@@ -1,5 +1,5 @@
 ---
-title: skills/diplomacy
+title: skill_dir/diplomacy
 ---
 # Diplomacy
 

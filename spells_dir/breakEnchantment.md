@@ -1,5 +1,5 @@
 ---
-title: spells/breakEnchantment
+title: spell_dir/breakEnchantment
 ---
  **Break Enchantment**
 

@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/ballLightning
+title: advance_dir/spells/ballLightning
 ---
  **Ball Lightning**
 
-**School** evocation [air, electricity]; **Level** druid 4, sorcerer/wizard 4
+**School** evocation [air, electricity]; **Level** druid 4, sorcere_dir/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -21,5 +21,5 @@ You create two globes of lightning that fly in whichever direction you indicate.
 
 If a globe enters a space with a creature, it stops moving for the round and deals 3d6 points of electricity damage to that creature, though a successful Reflex save negates the damage. Creatures wearing metal armor take a –4 penalty on this saving throw.
 
-Each globe moves as long as you actively direct it (it's a move action for you to direct all the spheres created by a single casting of this spell; otherwise they stay at rest. These globes have no mass and cannot push aside unwilling creatures or move solid objects. A _ball lightning_ globe winks out if it exceeds the spell's range.
+Each globe moves as long as you actively direct it (it's a move action for you to direct all the spheres created by a single casting of this spell); otherwise they stay at rest. These globes have no mass and cannot push aside unwilling creatures or move solid objects. A _ball lightning_ globe winks out if it exceeds the spell's range.
 

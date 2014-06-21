@@ -1,5 +1,5 @@
 ---
-title: spells/entangle
+title: spell_dir/entangle
 ---
  **Entangle**
 

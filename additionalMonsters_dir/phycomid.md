@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/phycomid
+title: additionalMonster_dir/phycomid
 ---
 # Phycomid
 
@@ -9,19 +9,19 @@ This tangle of purple-capped mushrooms growing out of a nasty green sludge shudd
 
 **XP 1,200**
 
-N Small [plant](monster_dir/creatureTypes#_plant
+N Small [plant](monsters/creatureTypes#_plant)
 
-**Init** +0; **Senses** tremorsense 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +0
+**Init** +0; **Senses** tremorsense 30 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +0
 
 Defense
 
 **AC** 17, touch 11, flat-footed 17 (+6 natural, +1 size)
 
-**hp** 39 (6d8+12
+**hp** 39 (6d8+12)
 
 **Fort** +7, **Ref** +2, **Will** +2
 
-**Immune** acid, [plant](monster_dir/creatureTypes#_plant) traits
+**Immune** acid, [plant](monsters/creatureTypes#_plant) traits
 
 Offense
 
@@ -45,9 +45,9 @@ Ecology
 
 Special Abilities
 
-**Acid Pellet (Ex** A phycomid attacks by firing a glob of acid from one of its several mushroom-like stalks. This attack has a range increment of 10 feet. A phycomid can [fire](monster_dir/creatureTypes#_fire-subtype) up to six acid pellets per minute—during rounds in which the fungus has no acid pellets, it has no method of attacking at all and must wait until its acid stores replenish in 4 rounds before continuing a battle.
+**Acid Pellet (Ex)** A phycomid attacks by firing a glob of acid from one of its several mushroom-like stalks. This attack has a range increment of 10 feet. A phycomid can [fire](monster_dir/creatureTypes#_fire-subtype) up to six acid pellets per minute—during rounds in which the fungus has no acid pellets, it has no method of attacking at all and must wait until its acid stores replenish in 4 rounds before continuing a battle.
 
-**Spores (Ex)** Any creature that takes damage from a phycomid's acid pellet (or consumes even a small portion of the fungus becomes exposed to the fungus's spores. These spores grow quickly in living creatures. This affliction is a [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su) effect, although its course runs much faster than most diseases and is more poison-like in its speed, and like a [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su), the spores “burn out” after a short period. A creature that is slain by a phycomid spore infestation bursts open in 1d4 rounds as a fully grown new phycomid emerges.
+**Spores (Ex)** Any creature that takes damage from a phycomid's acid pellet (or consumes even a small portion of the fungus) becomes exposed to the fungus's spores. These spores grow quickly in living creatures. This affliction is a [disease](monsters/universalMonsterRules#_disease-(ex-or-su)) effect, although its course runs much faster than most diseases and is more poison-like in its speed, and like a [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)), the spores “burn out” after a short period. A creature that is slain by a phycomid spore infestation bursts open in 1d4 rounds as a fully grown new phycomid emerges.
 
 _Phycomid Spores_: Disease—injury or ingested; _save _Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure _1 save. The save DC is Constitution-based.
 

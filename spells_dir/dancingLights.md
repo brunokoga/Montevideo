@@ -1,5 +1,5 @@
 ---
-title: spells/dancingLights
+title: spell_dir/dancingLights
 ---
  **Dancing Lights**
 

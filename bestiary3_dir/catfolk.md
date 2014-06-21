@@ -19,7 +19,7 @@ Defense
 
 **AC** 16, touch 13, flat-footed 13 (+3 armor, +3 Dex)
 
-**hp** 12 (1d10+2
+**hp** 12 (1d10+2)
 
 **Fort** +3, **Ref** +5, **Will** +0
 
@@ -41,7 +41,7 @@ Statistics
 
 **Feats** [Weapon Focus](feats#_weapon-focus) (longbow)
 
-**Skills** [Climb](skill_dir/climb#_climb +5, [Handle Animal](skill_dir/handleAnimal#_handle-animal +5, [Knowledge](skill_dir/knowledge#_knowledge) (nature +3, [Perception](skill_dir/perception#_perception +2, [Stealth](skill_dir/stealth#_stealth +8, [Survival](skill_dir/survival#_survival +6; **Racial Modifiers** +2 [Perception](skill_dir/perception#_perception, +2 [Stealth](skill_dir/stealth#_stealth, +2 [Survival](skill_dir/survival#_survival)
+**Skills** [Climb](skill_dir/climb#_climb) +5, [Handle Animal](skills/handleAnimal#_handle-animal) +5, [Knowledge](skill_dir/knowledge#_knowledge) (nature) +3, [Perception](skills/perception#_perception) +2, [Stealth](skill_dir/stealth#_stealth) +8, [Survival](skills/survival#_survival) +6; **Racial Modifiers** +2 [Perception](skill_dir/perception#_perception), +2 [Stealth](skills/stealth#_stealth), +2 [Survival](skill_dir/survival#_survival)
 
 **Languages** Catfolk, Common
 
@@ -61,7 +61,7 @@ Special Abilities
 
 **Sprinter (Ex)** A catfolk gains a 10-foot racial bonus to its speed when using the charge, run, or withdraw actions.
 
-Most catfolk are tribal hunter-gatherers who dwell in harmony with nature, though some tribes have acclimated well to urban environments. As a culture, catfolk are loyal, generous, and amiable. They like belonging to and being at harmony with a group whose members work together to accomplish their needs and wants. Tribal catfolk prefer for the most capable societal members to lead, so every tribe has a council of elevated subchiefs. A tribe's chief is usually the most competent (and magically talented member of that tribe.
+Most catfolk are tribal hunter-gatherers who dwell in harmony with nature, though some tribes have acclimated well to urban environments. As a culture, catfolk are loyal, generous, and amiable. They like belonging to and being at harmony with a group whose members work together to accomplish their needs and wants. Tribal catfolk prefer for the most capable societal members to lead, so every tribe has a council of elevated subchiefs. A tribe's chief is usually the most competent (and magically talented) member of that tribe.
 
 Personal growth is part of catfolk culture, as is expression as a means of personal exploration. Catfolk have few taboos, and often exhibit harmless but strange eccentricities. Individuals cultivate a wide range of pursuits and self-expression, taking risks others might label unwise. Most individual catfolk like to be the center of attention, but not at the cost of group cohesion.
 
@@ -77,7 +77,7 @@ Catfolk have no racial Hit Dice, gaining their capabilities from class levels. A
 
 **Sprinter** : See above.
 
-**Natural Hunter** : Catfolk receive a +2 racial bonus on [Perception](skill_dir/perception#_perception, [Stealth](skill_dir/stealth#_stealth, and [Survival](skill_dir/survival#_survival checks.
+**Natural Hunter** : Catfolk receive a +2 racial bonus on [Perception](skills/perception#_perception), [Stealth](skill_dir/stealth#_stealth), and [Survival](skills/survival#_survival) checks.
 
 **Languages** : Catfolk speak Catfolk and Common. A catfolk who has a high Intelligence score can choose from the following bonus languages: Elven, Gnoll, Gnome, Goblin, Halfling, Orc, and Sylvan.
 

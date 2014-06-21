@@ -27,33 +27,33 @@ While GMs might want to make concessions for players who didn't have these alter
 
 # Spellcaster Class Archetypes
 
-Archetypes are a quick and easy way to specialize characters of a given class, adding fun and flavorful new abilities to already established adventurers. The class archetypes (and corresponding new abilities listed below are all included in this chapter. Characters may take more than one archetype if they meet the requirements.
+Archetypes are a quick and easy way to specialize characters of a given class, adding fun and flavorful new abilities to already established adventurers. The class archetypes (and corresponding new abilities) listed below are all included in this chapter. Characters may take more than one archetype if they meet the requirements.
 
-[**Alchemist**](spellcastingClassOption_dir/alchemist: This section includes the chirurgeon, clone master, internal alchemist, mindchemist, preservationist, psychonaut, reanimator, and vivisectionist archetypes.
+[**Alchemist**](spellcastingClassOptions/alchemist): This section includes the chirurgeon, clone master, internal alchemist, mindchemist, preservationist, psychonaut, reanimator, and vivisectionist archetypes.
 
-[**Bard**](spellcastingClassOption_dir/bard: This section introduces masterpieces—unusual bardic performances with special requirements—and includes the animal speaker, celebrity, demagogue, dirge bard, geisha, songhealer, and sound striker archetypes.
+[**Bard**](spellcastingClassOption_dir/bard): This section introduces masterpieces—unusual bardic performances with special requirements—and includes the animal speaker, celebrity, demagogue, dirge bard, geisha, songhealer, and sound striker archetypes.
 
-[**Cleric**](spellcastingClassOption_dir/cleric: This section introduces variant abilities for channeled energy, as well as the cloistered cleric, separatist, theologian, and undead lord cleric archetypes.
+[**Cleric**](spellcastingClassOptions/cleric): This section introduces variant abilities for channeled energy, as well as the cloistered cleric, separatist, theologian, and undead lord cleric archetypes.
 
-[**Druid**](spellcastingClassOption_dir/druid: This section introduces new animal and terrain domains, and rules and base statistics for vermin companions. It also includes the dragon shaman, menhir savant, mooncaller, pack lord, reincarnated druid, saurian shaman, shark shaman, and storm druid archetypes.
+[**Druid**](spellcastingClassOption_dir/druid): This section introduces new animal and terrain domains, and rules and base statistics for vermin companions. It also includes the dragon shaman, menhir savant, mooncaller, pack lord, reincarnated druid, saurian shaman, shark shaman, and storm druid archetypes.
 
-[**Inquisitor**](spellcastingClassOption_dir/inquisitor: This section introduces domainlike inquisitions, and includes the exorcist, heretic, infiltrator, preacher, and sin eater archetypes.
+[**Inquisitor**](spellcastingClassOptions/inquisitor): This section introduces domainlike inquisitions, and includes the exorcist, heretic, infiltrator, preacher, and sin eater archetypes.
 
-[**Magus**](spellcastingClassOption_dir/magus: This section includes the bladebound, hexcrafter, spellblade, and staff magus archetypes.
+[**Magus**](spellcastingClassOption_dir/magus): This section includes the bladebound, hexcrafter, spellblade, and staff magus archetypes.
 
-[**Monk**](spellcastingClassOption_dir/monk: This section features monk vows and the high-fantasy qinggong monk archetype.
+[**Monk**](spellcastingClassOptions/monk): This section features monk vows and the high-fantasy qinggong monk archetype.
 
-[**Oracle**](spellcastingClassOption_dir/oracle: In addition to new mysteries, this section also includes the dual-cursed oracle, enlightened philosopher, planar oracle, possessed oracle, seer, and stargazer archetypes.
+[**Oracle**](spellcastingClassOption_dir/oracle): In addition to new mysteries, this section also includes the dual-cursed oracle, enlightened philosopher, planar oracle, possessed oracle, seer, and stargazer archetypes.
 
-[**Paladin**](spellcastingClassOption_dir/paladin: This section presents the oathbound paladin archetype, along with many oaths that customize the archetype's abilities.
+[**Paladin**](spellcastingClassOptions/paladin): This section presents the oathbound paladin archetype, along with many oaths that customize the archetype's abilities.
 
-[**Ranger**](spellcastingClassOption_dir/ranger: This section presents a category of simple magical traps that characters can easily build, as well as the trapper archetype.
+[**Ranger**](spellcastingClassOption_dir/ranger): This section presents a category of simple magical traps that characters can easily build, as well as the trapper archetype.
 
-[**Sorcerer**](spellcastingClassOption_dir/sorcerer: In addition to new bloodlines, this section also includes the crossblooded and wildblooded archetypes.
+[**Sorcerer**](spellcastingClassOptions/sorcerer): In addition to new bloodlines, this section also includes the crossblooded and wildblooded archetypes.
 
-[**Summoner**](spellcastingClassOption_dir/summoner: This section presents the aquatic eidolon base form, eidolon models to quickly build thematic creatures, and new evolutions. It also includes the broodmaster, evolutionist, master summoner, and synthesist archetypes.
+[**Summoner**](spellcastingClassOption_dir/summoner): This section presents the aquatic eidolon base form, eidolon models to quickly build thematic creatures, and new evolutions. It also includes the broodmaster, evolutionist, master summoner, and synthesist archetypes.
 
-[**Witch**](spellcastingClassOption_dir/witch: This section presents new hexes and new patron themes, as well as the beast-bonded, gravewalker, hedge witch, and sea witch archetypes.
+[**Witch**](spellcastingClassOptions/witch): This section presents new hexes and new patron themes, as well as the beast-bonded, gravewalker, hedge witch, and sea witch archetypes.
 
-[**Wizard**](spellcastingClassOption_dir/wizard: This section introduces arcane discoveries—special magical abilities wizards can discover—as well as the metal elementalist and wood elementalist wizard schools and the scrollmaster wizard archetype.
+[**Wizard**](spellcastingClassOption_dir/wizard): This section introduces arcane discoveries—special magical abilities wizards can discover—as well as the metal elementalist and wood elementalist wizard schools and the scrollmaster wizard archetype.
 

@@ -1,5 +1,5 @@
 ---
-title: mythicAdventures/mythicMonsters/manticore
+title: mythicAdventure_dir/mythicMonsters/manticore
 ---
 # Manticore
 
@@ -9,15 +9,15 @@ Mythic Manticore CR 6/MR 2
 
 XP 2,400
 
-LE Large magical beast ( [mythic](mythicAdventure_dir/mythicMonsters#_mythic-subtype)
+LE Large magical beast ( [mythic](mythicAdventure_dir/mythicMonsters#_mythic-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft., [low-light vision](monster_dir/universalMonsterRules#_low-light-vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +9
+**Init** +2; **Senses** darkvision 60 ft., [low-light vision](monsters/universalMonsterRules#_low-light-vision), [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +9
 
 Defense
 
 **AC** 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, –1 size)
 
-**hp** 77 (6d10+44
+**hp** 77 (6d10+44)
 
 **Fort** +9, **Ref** +7, **Will** +3
 
@@ -29,21 +29,21 @@ Offense
 
 **Melee** bite +11 (1d8+6), 2 claws +11 (2d4+6)
 
-**Ranged** 4 spikes +9 (1d6+6 plus [poison](monster_dir/universalMonsterRules#_poison)
+**Ranged** 4 spikes +9 (1d6+6 plus [poison](monster_dir/universalMonsterRules#_poison))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** mythic power (2/day, surge +1d6), [poison](monster_dir/universalMonsterRules#_poison, [pounce](monster_dir/universalMonsterRules#_pounce), skewer
+**Special Attacks** mythic power (2/day, surge +1d6), [poison](monster_dir/universalMonsterRules#_poison), [pounce](monsters/universalMonsterRules#_pounce), skewer
 
 Statistics
 
 **Str** 22, **Dex** 15, **Con** 18, **Int** 7, **Wis** 12, **Cha** 9
 
-**Base Atk** +6; **CMB** +13; **CMD** 25 (29 vs. trip
+**Base Atk** +6; **CMB** +13; **CMD** 25 (29 vs. trip)
 
-**Feats** [Flyby Attack](monster_dir/monsterFeats#_flyby-attack, [Hover](monster_dir/monsterFeats#_hover), [Weapon Focus](feats#_weapon-focus) (spikesM
+**Feats** [Flyby Attack](monster_dir/monsterFeats#_flyby-attack), [Hover](monsters/monsterFeats#_hover), [Weapon Focus](feats#_weapon-focus) (spikes)M
 
-**Skills** [Fly](skill_dir/fly#_fly –3, [Perception](skill_dir/perception#_perception +9, [Survival](skill_dir/survival#_survival) +4 (+8 when tracking; **Racial Modifiers** +4 [Perception](skill_dir/perception#_perception, +4 [Survival](skill_dir/survival#_survival) when tracking
+**Skills** [Fly](skill_dir/fly#_fly) –3, [Perception](skills/perception#_perception) +9, [Survival](skill_dir/survival#_survival) +4 (+8 when tracking); **Racial Modifiers** +4 [Perception](skills/perception#_perception), +4 [Survival](skill_dir/survival#_survival) when tracking
 
 **Languages** Common
 
@@ -57,7 +57,7 @@ Ecology
 
 Special Abilities
 
-**Poison (Ex** Spike—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str; _cure_ 2 consecutive saves.
+**Poison (Ex)** Spike—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str; _cure_ 2 consecutive saves.
 
 **Skewer (Ex)** If a mythic manticore confirms a critical hit with a spike, the spike pins the target to the ground or a nearby surface. If the target is using winged flight, the spike snares its wings. The target is considered grappled by the manticore (though the manticore is not considered to be grappling) and must escape the grapple to move from its square. A flying creature must escape on its turn or plummet to the ground. As a swift action, a mythic manticore can expend one use of mythic power to skewer all targets hit by its spikes that turn, even if the attacks weren't critical hits.
 

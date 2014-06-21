@@ -1,5 +1,5 @@
 ---
-title: spells/rayOfEnfeeblement
+title: spell_dir/rayOfEnfeeblement
 ---
  **Ray of Enfeeblement**
 
@@ -13,7 +13,7 @@ title: spells/rayOfEnfeeblement
 
 **Effect** ray
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) half; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

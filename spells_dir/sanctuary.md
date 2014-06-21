@@ -1,5 +1,5 @@
 ---
-title: spells/sanctuary
+title: spell_dir/sanctuary
 ---
  **Sanctuary**
 

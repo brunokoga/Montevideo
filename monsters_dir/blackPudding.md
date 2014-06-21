@@ -11,7 +11,7 @@ _This black, amorphous blob piles up on itself, a quivering mound of midnight sl
 
 N Huge [ooze](creatureTypes#_ooze)
 
-**Init** –5; **Senses** [blindsight](universalMonsterRules#_blindsight 60 ft.; [Perception](../skill_dir/perception#_perception) –5
+**Init** –5; **Senses** [blindsight](universalMonsterRules#_blindsight) 60 ft.; [Perception](../skill_dir/perception#_perception) –5
 
 **Defense**
 
@@ -37,7 +37,7 @@ N Huge [ooze](creatureTypes#_ooze)
 
 **Str** 16, **Dex** 1, **Con** 22, **Int** —, **Wis** 1, **Cha** 1
 
-**Base**  **Atk** +7; **CMB** +12 (+16 grapple); **CMD** 17 (27 vs. bull rush, can't be tripped
+**Base**  **Atk** +7; **CMB** +12 (+16 grapple); **CMD** 17 (27 vs. bull rush, can't be tripped)
 
 **Skills** [Climb](../skill_dir/climb#_climb) +11
 
@@ -59,7 +59,7 @@ N Huge [ooze](creatureTypes#_ooze)
 
 **Split (Ex)** Slashing and piercing weapons deal no damage to a black pudding. Instead, the creature splits into two identical puddings, each with half of the original's current hit points (round down). A pudding with 10 hit points or less cannot be further split and dies if reduced to 0 hit points.
 
-**Suction (Ex** The black pudding can create powerful suction against any surface as it climbs, allowing it to cling to inverted surfaces with ease. A black pudding can establish or release suction as a swift action, and as long as it is using suction, it moves at half speed. Because of the suction, a black pudding's CMD score gets a +10 circumstance bonus to resist bull rush, awesome blows, and other attacks and effects that attempt to physically move it from its location.
+**Suction (Ex)** The black pudding can create powerful suction against any surface as it climbs, allowing it to cling to inverted surfaces with ease. A black pudding can establish or release suction as a swift action, and as long as it is using suction, it moves at half speed. Because of the suction, a black pudding's CMD score gets a +10 circumstance bonus to resist bull rush, awesome blows, and other attacks and effects that attempt to physically move it from its location.
 
 Black puddings are the scavengers of the underworld, constantly on the lookout for a meal. They can sense organic or metallic objects within 60 feet and mindlessly attack such items or beings until they are dissolved or the ooze is killed. A black pudding reproduces by breaking off a piece of its body and forming a new, smaller black pudding, which grows to full size in 1 month's time. Some of the more intelligent creatures in the underworld use black puddings as natural garbage disposals, creating stone pits to house the pudding and throwing organic refuse or foes in as needed.
 

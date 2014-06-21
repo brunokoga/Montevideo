@@ -1,9 +1,9 @@
 ---
-title: advanced/spell_dir/knightSCalling
+title: advance_dir/spells/knightSCalling
 ---
  **Knight's Calling**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** paladin 1
+**School** enchantment (compulsion) [mind-affecting]; **Level** paladin 1
 
 **Casting Time** 1 standard action
 

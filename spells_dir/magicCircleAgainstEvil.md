@@ -1,5 +1,5 @@
 ---
-title: spells/magicCircleAgainstEvil
+title: spell_dir/magicCircleAgainstEvil
 ---
  **Magic Circle against Evil**
 

@@ -33,9 +33,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +2; **CMD** 14 (18 vs. trip)
 
-**Feats** [Improved Initiative](feats#_improved-initiative
+**Feats** [Improved Initiative](feats#_improved-initiative)
 
-**Skills** [Climb](skill_dir/climb#_climb +21, [Perception](skill_dir/perception#_perception +6; **Racial Modifiers** +8 [Climb](skill_dir/climb#_climb)
+**Skills** [Climb](skills/climb#_climb) +21, [Perception](skill_dir/perception#_perception) +6; **Racial Modifiers** +8 [Climb](skills/climb#_climb)
 
 **SQ** expert climber
 
@@ -49,11 +49,11 @@ Ecology
 
 Special Abilities
 
-**Expert Climber (Ex** A gecko's feet allow it to climb virtually any surface, no matter how slick or sheer. In effect, geckos are treated as constantly being under a natural version of the spell _ [spider climb](spell_dir/spiderClimb#_spider-climb)_.
+**Expert Climber (Ex)** A gecko's feet allow it to climb virtually any surface, no matter how slick or sheer. In effect, geckos are treated as constantly being under a natural version of the spell _ [spider climb](spell_dir/spiderClimb#_spider-climb)_.
 
 These lizards are mostly docile and shy away from attacking creatures larger than a cat or dog. Despite their shyness, they are ultimately curious creatures, and often approach bigger creatures simply to investigate. Of course, a giant gecko is more than capable of defending itself, biting creatures that react violently to the lizard when fleeing is not an option.
 
-Some humanoids train giant geckos as bestial guardians. Smaller humanoids (in particular, goblins can even use the creatures as mounts, taking advantage of their superior climbing skills to attack from seemingly impossible positions and angles. A giant gecko measures 8 feet from nose to tail and weighs 120 pounds. Coloration among giant geckos can vary wildly, though most are some shade of green.
+Some humanoids train giant geckos as bestial guardians. Smaller humanoids (in particular, goblins) can even use the creatures as mounts, taking advantage of their superior climbing skills to attack from seemingly impossible positions and angles. A giant gecko measures 8 feet from nose to tail and weighs 120 pounds. Coloration among giant geckos can vary wildly, though most are some shade of green.
 
 # Lizard, Giant Chameleon
 
@@ -65,7 +65,7 @@ XP 800
 
 N Large animal
 
-**Init** +6; **Senses** low-light vision; [Perception](skill_dir/perception#_perception) +4
+**Init** +6; **Senses** low-light vision; [Perception](skills/perception#_perception) +4
 
 Defense
 
@@ -79,7 +79,7 @@ Offense
 
 **Speed** 40 ft., climb 40 ft.
 
-**Melee** bite +6 (2d6+4 or tongue +5 touch ( [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** bite +6 (2d6+4) or tongue +5 touch ( [grab](monster_dir/universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 10 ft. (15 ft. with tongue)
 
@@ -91,9 +91,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +7 (+11 grapple); **CMD** 19
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Skill Focus](feats#_skill-focus ( [Stealth](skill_dir/stealth#_stealth)
+**Feats** [Improved Initiative](feats#_improved-initiative), [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth))
 
-**Skills** [Climb](skill_dir/climb#_climb +15, [Perception](skill_dir/perception#_perception +4, [Stealth](skill_dir/stealth#_stealth) +18 (+28 when still; **Racial Modifiers** +12 [Stealth](skill_dir/stealth#_stealth) (+22 when still)
+**Skills** [Climb](skill_dir/climb#_climb) +15, [Perception](skills/perception#_perception) +4, [Stealth](skill_dir/stealth#_stealth) +18 (+28 when still); **Racial Modifiers** +12 [Stealth](skills/stealth#_stealth) (+22 when still)
 
 Ecology
 
@@ -105,7 +105,7 @@ Ecology
 
 Special Abilities
 
-**Tongue (Ex** A [giant](monster_dir/creatureTypes#_giant-subtype chameleon can [grab](monster_dir/universalMonsterRules#_grab a foe with its tongue and draw the victim to its mouth. This tongue attack has a reach of 15 feet. The attack does no damage, but allows the creature to [grab](monster_dir/universalMonsterRules#_grab. A [giant](monster_dir/creatureTypes#_giant-subtype chameleon does not gain the grappled condition while using its tongue in this manner.
+**Tongue (Ex)** A [giant](monster_dir/creatureTypes#_giant-subtype) chameleon can [grab](monsters/universalMonsterRules#_grab) a foe with its tongue and draw the victim to its mouth. This tongue attack has a reach of 15 feet. The attack does no damage, but allows the creature to [grab](monster_dir/universalMonsterRules#_grab). A [giant](monsters/creatureTypes#_giant-subtype) chameleon does not gain the grappled condition while using its tongue in this manner.
 
 These large lizards have the ability to shift the pigments in their skin to match their surroundings. A giant chameleon is typically 11 feet long and weighs 160 pounds.
 

@@ -1,5 +1,5 @@
 ---
-title: spells/whisperingWind
+title: spell_dir/whisperingWind
 ---
  **Whispering Wind**
 
@@ -9,11 +9,11 @@ title: spells/whisperingWind
 
 **Components** V, S
 
-**Range** 1 mile/level
+**Range** 1 mil_dir/level
 
 **Area** 10-ft.-radius spread
 
-**Duration** no more than 1 hou_dir/level or until discharged (destination is reached
+**Duration** no more than 1 hour/level or until discharged (destination is reached)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

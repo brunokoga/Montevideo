@@ -1,5 +1,5 @@
 ---
-title: spells/spellImmunity
+title: spell_dir/spellImmunity
 ---
  **Spell Immunity**
 

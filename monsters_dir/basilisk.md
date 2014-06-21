@@ -9,7 +9,7 @@ _This squat, reptilian monster has eight legs, bony spurs jutting from its back,
 
 **XP 1,600**
 
-N Medium [magical beast](creatureTypes#_magical-beast
+N Medium [magical beast](creatureTypes#_magical-beast)
 
 **Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +10
 
@@ -33,11 +33,11 @@ N Medium [magical beast](creatureTypes#_magical-beast
 
 **Str** 16, **Dex** 8, **Con** 15, **Int** 2, **Wis** 13, **Cha** 11
 
-**Base**  **Atk** +7; **CMB** +10; **CMD** 19 (31 vs. trip
+**Base**  **Atk** +7; **CMB** +10; **CMD** 19 (31 vs. trip)
 
-**Feats** [Blind-Fight](../feats#_blind-fight), [Great Fortitude](../feats#_great-fortitude), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Blind-Fight](../feats#_blind-fight), [Great Fortitude](../feats#_great-fortitude), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception +10, [Stealth](../skill_dir/stealth#_stealth +10; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Perception](../skill_dir/perception#_perception) +10, [Stealth](../skill_dir/stealth#_stealth) +10; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -49,7 +49,7 @@ N Medium [magical beast](creatureTypes#_magical-beast
 
 **Special Abilities**
 
-**Gaze (Ex** Turn to stone permanently (as _ [flesh to stone](../spell_dir/fleshToStone#_flesh-to-stone)_), range 30 feet, Fortitude DC 15 negates. A creature petrified in this matter that is then coated (not just splashed) with fresh basilisk blood (taken from a basilisk no more than 1 hour dead is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 Medium creatures in this manner. The save DC is Constitution-based.
+**Gaze (Ex)** Turn to stone permanently (as _ [flesh to stone](../spell_dir/fleshToStone#_flesh-to-stone)_), range 30 feet, Fortitude DC 15 negates. A creature petrified in this matter that is then coated (not just splashed) with fresh basilisk blood (taken from a basilisk no more than 1 hour dead) is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 Medium creatures in this manner. The save DC is Constitution-based.
 
 The basilisk, often called the “King of Serpents,” is in fact not a serpent at all, but rather an eight-legged reptile with a nasty disposition and the ability to turn creatures to stone with its gaze. Folklore holds that, much like the cockatrice, the first basilisks hatched from eggs laid by snakes and incubated by roosters, but little in the basilisk's physiology lends any credence to this claim.
 

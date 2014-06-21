@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/peacebond
+title: ultimateComba_dir/spells/peacebond
 ---
 Peacebond
 
-**School** abjuration; **Level** inquisitor 1, sorcerer/wizard 1, witch 1
+**School** abjuration; **Level** inquisitor 1, sorcere_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ Peacebond
 
 **Saving Throw** Will negates (object); **Spell Resistance** yes (object)
 
-You lock a weapon in place on its owner's body, or within the weapon's sheath or holster. Anyone who then tries to draw the weapon must spend a standard action and succeed at a Strength check (DC equal to the saving throw DC to do so, provoking attacks of opportunity whether the attempt succeeds or fails.
+You lock a weapon in place on its owner's body, or within the weapon's sheath or holster. Anyone who then tries to draw the weapon must spend a standard action and succeed at a Strength check (DC equal to the saving throw DC) to do so, provoking attacks of opportunity whether the attempt succeeds or fails.
 

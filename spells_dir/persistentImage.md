@@ -3,7 +3,7 @@ title: spell_dir/persistentImage
 ---
  **Persistent Image**
 
-**School** illusion (figment; **Level** bard 5, sorcerer/wizard 5
+**School** illusion (figment); **Level** bard 5, sorcerer/wizard 5
 
 **Duration** 1 min./level (D)
 

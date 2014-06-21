@@ -1,5 +1,5 @@
 ---
-title: spells/removeFear
+title: spell_dir/removeFear
 ---
  **Remove Fear**
 

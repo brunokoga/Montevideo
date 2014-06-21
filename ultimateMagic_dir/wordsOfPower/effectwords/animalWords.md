@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/wordsOfPower/effectword_dir/animalWords
+title: ultimateMagi_dir/wordsOfPower/effectword_dir/animalWords
 ---
 ## Animal Words
 
@@ -7,9 +7,9 @@ Words from this family speak directly to wild creatures, soothing and controllin
 
 Nature's Calm (Animal)
 
-**School** enchantment (charm [mind-affecting]; **Level** druid 1, ranger 1, witch 1
+**School** enchantment (charm) [mind-affecting]; **Level** druid 1, ranger 1, witch 1
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -19,7 +19,7 @@ The target of a wordspell with this effect word becomes calm and docile. Though 
 
 Wild Lure (Animal)
 
-**School** enchantment (charm [mind-affecting]; **Level** druid 2, ranger 2, witch 2
+**School** enchantment (charm) [mind-affecting]; **Level** druid 2, ranger 2, witch 2
 
 **Duration** 1 minut_dir/level
 
@@ -31,7 +31,7 @@ The target of a wordspell with this effect word treats the caster as a trusted a
 
 Nature's Command (Animal)
 
-**School** enchantment (compulsion [mind-affecting]; **Level** druid 4, ranger 4, summoner 5, witch 4
+**School** enchantment (compulsion) [mind-affecting]; **Level** druid 4, ranger 4, summoner 5, witch 4
 
 **Duration** 1 round/level
 

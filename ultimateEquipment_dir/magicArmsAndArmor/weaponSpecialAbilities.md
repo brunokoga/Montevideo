@@ -1,5 +1,5 @@
 ---
-title: ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities
+title: ultimateEquipmen_dir/magicArmsAndArmor/weaponSpecialAbilities
 ---
 # Weapon Special Abilities
 
@@ -299,13 +299,13 @@ Adaptive
 
 **Price** +1,000 gp; **Aura** faint transmutation; **CL** 1st; **Weight** —
 
-This ability can only be placed on composite bows. An _adaptive_ bow responds to the strength of its wielder, acting as a bow with a strength rating equal to its wielder's Strength bonus. The wielder can fire it with a lesser Strength bonus (and cause less damage if desired.
+This ability can only be placed on composite bows. An _adaptive_ bow responds to the strength of its wielder, acting as a bow with a strength rating equal to its wielder's Strength bonus. The wielder can fire it with a lesser Strength bonus (and cause less damage) if desired.
 
 Construction Requirements
 
 **Cost** +500 gp
 
-Craft Magic Arms and Armor, _ [warp wood](spell_dir/warpWood#_warp-wood_
+Craft Magic Arms and Armor, _ [warp wood](spell_dir/warpWood#_warp-wood)_
 
 Advancing
 
@@ -323,49 +323,49 @@ Allying
 
 **Price** +1 bonus; **Aura** faint transmutation; **CL** 5th; **Weight** —
 
-An _allying _weapon allows the wielder to transfer some or all of the weapon's enhancement bonus to one weapon being used by an ally of the wielder. The wielder must have line of sight to the intended ally. As a free action, at the start of her turn before using her weapon, the wielder chooses how to allocate her weapon's enhancement bonus. The bonus to the ally's weapon lasts until the _allying _weapon's wielder's next turn. The enhancement bonus from the _allying _weapon does not stack with the enhancement bonus on the ally's weapon (if any.
+An _allying _weapon allows the wielder to transfer some or all of the weapon's enhancement bonus to one weapon being used by an ally of the wielder. The wielder must have line of sight to the intended ally. As a free action, at the start of her turn before using her weapon, the wielder chooses how to allocate her weapon's enhancement bonus. The bonus to the ally's weapon lasts until the _allying _weapon's wielder's next turn. The enhancement bonus from the _allying _weapon does not stack with the enhancement bonus on the ally's weapon (if any).
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [magic weapon](spell_dir/magicWeapon#_magic-weapon)_
+Craft Magic Arms and Armor, _ [magic weapon](spells/magicWeapon#_magic-weapon)_
 
 Anarchic
 
 **Price** +2 bonus; **Aura** moderate evocation; **CL** 7th; **Weight** —
 
-An _anarchic_ weapon is infused with the power of chaos. It makes the weapon chaotically aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of lawful alignment. It bestows one permanent negative level (_Core Rulebook_ 562 on any lawful creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including _ [restoration](spell_dir/restoration#_restoration)_ spells while the weapon is wielded.
+An _anarchic_ weapon is infused with the power of chaos. It makes the weapon chaotically aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of lawful alignment. It bestows one permanent negative level (_Core Rulebook_ 562) on any lawful creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including _ [restoration](spell_dir/restoration#_restoration)_ spells) while the weapon is wielded.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [chaos hammer](spell_dir/chaosHammer#_chaos-hammer_, creator must be chaotic
+Craft Magic Arms and Armor, _ [chaos hammer](spells/chaosHammer#_chaos-hammer)_, creator must be chaotic
 
 Anchoring
 
 **Price** +2 bonus; **Aura** moderate transmutation; **CL** 10th; **Weight** —
 
-This special ability can only be added to a melee weapon or a thrown weapon. An _anchoring _weapon pins a target in place and prevents it from moving. As a swift action, the weapon can be fixed in place in a point in space, functioning as an _ [immovable rod](magicItem_dir/rods#_immovable-rod. _This ability can also be used when the wielder hits a creature with a melee attack using an _anchoring_ weapon. This anchors the target to the weapon, preventing it from moving away from the weapon. The target is not entangled or paralyzed; it simply cannot move from its location without first destroying the weapon or making a successful DC 30 Strength check as a full-round action to move with the weapon up to 10 feet. An _anchoring _weapon remains motionless and cannot be used to attack while it is anchoring a creature. An _anchoring _weapon has no effect on amorphous creatures, including elementals, oozes, and creatures in gaseous or liquid form. It also cannot anchor incorporeal creatures unless the weapon also has the _ghost touch _special ability.
+This special ability can only be added to a melee weapon or a thrown weapon. An _anchoring _weapon pins a target in place and prevents it from moving. As a swift action, the weapon can be fixed in place in a point in space, functioning as an _ [immovable rod](magicItem_dir/rods#_immovable-rod). _This ability can also be used when the wielder hits a creature with a melee attack using an _anchoring_ weapon. This anchors the target to the weapon, preventing it from moving away from the weapon. The target is not entangled or paralyzed; it simply cannot move from its location without first destroying the weapon or making a successful DC 30 Strength check as a full-round action to move with the weapon up to 10 feet. An _anchoring _weapon remains motionless and cannot be used to attack while it is anchoring a creature. An _anchoring _weapon has no effect on amorphous creatures, including elementals, oozes, and creatures in gaseous or liquid form. It also cannot anchor incorporeal creatures unless the weapon also has the _ghost touch _special ability.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [levitate](spell_dir/levitate#_levitate)_
+Craft Magic Arms and Armor, _ [levitate](spells/levitate#_levitate)_
 
 Axiomatic
 
 **Price** +2 bonus; **Aura** moderate evocation; **CL** 7th; **Weight** —
 
-An _axiomatic_ weapon is infused with lawful power. It makes the weapon law-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against chaotic creatures. It bestows one permanent negative level (_Core Rulebook_ 562 on any chaotic creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including _ [restoration](spell_dir/restoration#_restoration)_ spells while the weapon is wielded.
+An _axiomatic_ weapon is infused with lawful power. It makes the weapon law-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against chaotic creatures. It bestows one permanent negative level (_Core Rulebook_ 562) on any chaotic creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including _ [restoration](spell_dir/restoration#_restoration)_ spells) while the weapon is wielded.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [order's wrath](spell_dir/orderSWrath#_order-s-wrath)_, creator must be lawful
+Craft Magic Arms and Armor, _ [order's wrath](spells/orderSWrath#_order-s-wrath)_, creator must be lawful
 
 Bane
 
@@ -384,7 +384,7 @@ A _bane_ weapon excels against certain foes. Against a designated foe, the weapo
 | 61–65 | Magical beasts |
 | 66–70 | Monstrous humanoids |
 | 71–72 | Oozes |
-| 73–88 | Outsiders (pick one subtype |
+| 73–88 | Outsiders (pick one subtype) |
 | 89–90 | Plants |
 | 91–98 | Undead |
 | 99–100 | Vermin |
@@ -393,7 +393,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [summon monster I](spell_dir/summonMonster#_summon-monster-i_
+Craft Magic Arms and Armor, _ [summon monster I](spell_dir/summonMonster#_summon-monster-i)_
 
 Benevolent
 
@@ -405,19 +405,19 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [aid](spell_dir/aid#_aid)_
+Craft Magic Arms and Armor, _ [aid](spells/aid#_aid)_
 
 Brilliant Energy
 
 **Price** +4 bonus; **Aura** strong transmutation; **CL** 16th; **Weight** —
 
-A _brilliant energy_ weapon has its significant portion transformed into light, although this does not modify the item's weight. It always gives off light as a torch (20-foot radius). A _brilliant energy_ weapon ignores nonliving matter. Armor and shield bonuses to AC (including any enhancement bonuses to that armor) do not count against it because the weapon passes through armor. (Dexterity, deflection, dodge, natural armor, and other such bonuses still apply. A _brilliant energy_ weapon cannot harm undead, constructs, or objects.
+A _brilliant energy_ weapon has its significant portion transformed into light, although this does not modify the item's weight. It always gives off light as a torch (20-foot radius). A _brilliant energy_ weapon ignores nonliving matter. Armor and shield bonuses to AC (including any enhancement bonuses to that armor) do not count against it because the weapon passes through armor. (Dexterity, deflection, dodge, natural armor, and other such bonuses still apply.) A _brilliant energy_ weapon cannot harm undead, constructs, or objects.
 
 Construction Requirements
 
 **Cost** +4 bonus
 
-Craft Magic Arms and Armor, _ [gaseous form](spell_dir/gaseousForm#_gaseous-form_, _ [continual flame](spell_dir/continualFlame#_continual-flame_
+Craft Magic Arms and Armor, _ [gaseous form](spell_dir/gaseousForm#_gaseous-form)_, _ [continual flame](spells/continualFlame#_continual-flame)_
 
 Called
 
@@ -435,13 +435,13 @@ Conductive
 
 **Price** +1 bonus; **Aura** moderate necromancy; **CL** 8th; **Weight** —
 
-A _conductive_ weapon is able to channel the energy of a spell-like or supernatural ability that relies on a melee or ranged touch attack to hit its target (such as from a cleric's domain granted power, sorcerer's bloodline power, oracle's mystery revelation, or wizard's arcane school power). When the wielder makes a successful attack of the appropriate type, he may choose to expend two uses of his magical ability to channel it through the weapon to the struck opponent, which suffers the effects of both the weapon attack and the special ability. (If the wielder has unlimited uses of a special ability, she may channel through the weapon every round.) For example, a paladin who strikes an undead opponent with her _conductive greatsword_ can expend two uses of her lay on hands ability (a supernatural melee touch attack) to deal both greatsword damage and damage from one use of lay on hands. This weapon special ability can only be used once per round, and only works with magical abilities of the same type as the weapon (melee or ranged.
+A _conductive_ weapon is able to channel the energy of a spell-like or supernatural ability that relies on a melee or ranged touch attack to hit its target (such as from a cleric's domain granted power, sorcerer's bloodline power, oracle's mystery revelation, or wizard's arcane school power). When the wielder makes a successful attack of the appropriate type, he may choose to expend two uses of his magical ability to channel it through the weapon to the struck opponent, which suffers the effects of both the weapon attack and the special ability. (If the wielder has unlimited uses of a special ability, she may channel through the weapon every round.) For example, a paladin who strikes an undead opponent with her _conductive greatsword_ can expend two uses of her lay on hands ability (a supernatural melee touch attack) to deal both greatsword damage and damage from one use of lay on hands. This weapon special ability can only be used once per round, and only works with magical abilities of the same type as the weapon (melee or ranged).
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [spectral hand](spell_dir/spectralHand#_spectral-hand_
+Craft Magic Arms and Armor, _ [spectral hand](spells/spectralHand#_spectral-hand)_
 
 Conserving
 
@@ -453,7 +453,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [abundant ammunition](ultimateCombat/spell_dir/abundantAmmunition#_abundant-ammunition)_ (_Ultimate Combat_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_
+Craft Magic Arms and Armor, _ [abundant ammunition](ultimateComba_dir/spells/abundantAmmunition#_abundant-ammunition)_ (_Ultimate Combat_), _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_
 
 Corrosive
 
@@ -465,7 +465,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [acid arrow](spell_dir/acidArrow#_acid-arrow_
+Craft Magic Arms and Armor, _ [acid arrow](spells/acidArrow#_acid-arrow)_
 
 Corrosive Burst
 
@@ -491,19 +491,19 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Combat Reflexes, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace)_
+Combat Reflexes, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [cat's grace](spells/catSGrace#_cat-s-grace)_
 
 Courageous
 
 **Price** +1 bonus; **Aura** faint enchantment; **CL** 3rd; **Weight** —
 
-This special ability can only be added to a melee weapon. A _courageous _weapon fortifies the wielder's courage and morale in battle. The wielder gains a morale bonus on saving throws against fear equal to the weapon's enhancement bonus. In addition, any morale bonus the wielder gains from any other source is increased by half the weapon's enhancement bonus (minimum 1.
+This special ability can only be added to a melee weapon. A _courageous _weapon fortifies the wielder's courage and morale in battle. The wielder gains a morale bonus on saving throws against fear equal to the weapon's enhancement bonus. In addition, any morale bonus the wielder gains from any other source is increased by half the weapon's enhancement bonus (minimum 1).
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [heroism](spell_dir/heroism#_heroism, [remove fear](spell_dir/removeFear#_remove-fear_
+Craft Magic Arms and Armor, _ [heroism](spell_dir/heroism#_heroism), [remove fear](spells/removeFear#_remove-fear)_
 
 Cruel
 
@@ -515,13 +515,13 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [cause fear](spell_dir/causeFear#_cause-fear_, _ [death knell](spell_dir/deathKnell#_death-knell_
+Craft Magic Arms and Armor, _ [cause fear](spell_dir/causeFear#_cause-fear)_, _ [death knell](spells/deathKnell#_death-knell)_
 
 Cunning
 
 **Price** +1 bonus; **Aura** moderate divination; **CL** 6th; **Weight** —
 
-This special ability allows a weapon to find chinks in a foe's defenses using the wielder's knowledge of the target. Whenever the weapon's attack is a critical threat, the wielder gains a +2 bonus on the confirmation roll if she has 5 or more ranks in a [Knowledge](skill_dir/knowledge#_knowledge skill that is related to the target's creature type (such as [Knowledge](skill_dir/knowledge#_knowledge) [planes] for an outsider opponent.
+This special ability allows a weapon to find chinks in a foe's defenses using the wielder's knowledge of the target. Whenever the weapon's attack is a critical threat, the wielder gains a +2 bonus on the confirmation roll if she has 5 or more ranks in a [Knowledge](skill_dir/knowledge#_knowledge) skill that is related to the target's creature type (such as [Knowledge](skills/knowledge#_knowledge) [planes] for an outsider opponent).
 
 Construction Requirements
 
@@ -533,25 +533,25 @@ Dancing
 
 **Price** +4 bonus; **Aura** strong transmutation; **CL** 15th; **Weight** —
 
-As a standard action, a _dancing_ weapon can be loosed to attack on its own. It fights for 4 rounds using the base attack bonus of the one who loosed it and then drops. While dancing, it cannot make attacks of opportunity, and the activating character it is not considered armed with the weapon. The weapon is considered wielded or attended by the activating character for all maneuvers and effects that target items. While dancing, the weapon shares the same space as the activating character and can attack adjacent foes (weapons with reach can attack opponents up to 10 feet away). The _dancing_ weapon accompanies the activating character everywhere, whether she moves by physical or magical means. If the activating character has an unoccupied hand, she can grasp it while it is attacking on its own as a free action; when so retrieved, the weapon can't dance (attack on its own again for 4 rounds. This special ability can only be placed on melee weapons.
+As a standard action, a _dancing_ weapon can be loosed to attack on its own. It fights for 4 rounds using the base attack bonus of the one who loosed it and then drops. While dancing, it cannot make attacks of opportunity, and the activating character it is not considered armed with the weapon. The weapon is considered wielded or attended by the activating character for all maneuvers and effects that target items. While dancing, the weapon shares the same space as the activating character and can attack adjacent foes (weapons with reach can attack opponents up to 10 feet away). The _dancing_ weapon accompanies the activating character everywhere, whether she moves by physical or magical means. If the activating character has an unoccupied hand, she can grasp it while it is attacking on its own as a free action; when so retrieved, the weapon can't dance (attack on its own) again for 4 rounds. This special ability can only be placed on melee weapons.
 
 Construction Requirements
 
 **Cost** +4 bonus
 
-Craft Magic Arms and Armor, _ [animate objects](spell_dir/animateObjects#_animate-objects)_
+Craft Magic Arms and Armor, _ [animate objects](spells/animateObjects#_animate-objects)_
 
 Deadly
 
 **Price** +1 bonus; **Aura** faint necromancy; **CL** 5th; **Weight** —
 
-This special ability can only be placed on melee weapons that normally deal nonlethal damage, such as whips and saps. All damage a _deadly_ weapon deals is normal (lethal) damage. A whip (or similar weapon that is not normally able to damage creatures with armor or natural armor bonuses with this special ability deals damage even to creatures with armor or natural armor. On command, the weapon suppresses this ability until the wielder commands it to resume.
+This special ability can only be placed on melee weapons that normally deal nonlethal damage, such as whips and saps. All damage a _deadly_ weapon deals is normal (lethal) damage. A whip (or similar weapon that is not normally able to damage creatures with armor or natural armor bonuses) with this special ability deals damage even to creatures with armor or natural armor. On command, the weapon suppresses this ability until the wielder commands it to resume.
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [inflict light wounds](spell_dir/inflictLightWounds#_inflict-light-wounds_
+Craft Magic Arms and Armor, _ [inflict light wounds](spell_dir/inflictLightWounds#_inflict-light-wounds)_
 
 Defending
 
@@ -563,19 +563,19 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [shield](spell_dir/shield#_shield_ or _ [shield of faith](spell_dir/shieldOfFaith#_shield-of-faith_
+Craft Magic Arms and Armor, _ [shield](spells/shield#_shield)_ or _ [shield of faith](spell_dir/shieldOfFaith#_shield-of-faith)_
 
 Defiant
 
 **Price** +2 bonus; **Aura** strong abjuration; **CL** 10th; **Weight** —
 
-This special ability can only be placed on melee weapons. A _defiant _weapon helps its wielder stay alive in desperate conditions. It stays in its wielder's hand even if she is panicked, stunned, or unconscious. She adds the weapon's enhancement bonus as a bonus on checks to stabilize when dying and on saving throws to end ongoing conditions such as disease, poison, and _ [hold person](spell_dir/holdPerson#_hold-person_. If the wielder possesses [Heroic Defiance](advance_dir/advancedFeats#_heroic-defiance, [Heroic Recovery](advance_dir/advancedFeats#_heroic-recovery), Improved [Great Fortitude](feats#_great-fortitude), Improved [Iron Will](feats#_iron-will), or Improved [Lightning Reflexes](feats#_lightning-reflexes, she gains a number of additional daily uses equal to the weapon's enhancement bonus that can be used on any of these feats.
+This special ability can only be placed on melee weapons. A _defiant _weapon helps its wielder stay alive in desperate conditions. It stays in its wielder's hand even if she is panicked, stunned, or unconscious. She adds the weapon's enhancement bonus as a bonus on checks to stabilize when dying and on saving throws to end ongoing conditions such as disease, poison, and _ [hold person](spells/holdPerson#_hold-person)_. If the wielder possesses [Heroic Defiance](advance_dir/advancedFeats#_heroic-defiance), [Heroic Recovery](advanced/advancedFeats#_heroic-recovery), Improved [Great Fortitude](feats#_great-fortitude), Improved [Iron Will](feats#_iron-will), or Improved [Lightning Reflexes](feats#_lightning-reflexes), she gains a number of additional daily uses equal to the weapon's enhancement bonus that can be used on any of these feats.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, [Heroic Defiance](advance_dir/advancedFeats#_heroic-defiance, _ [break enchantment](spell_dir/breakEnchantment#_break-enchantment, [stabilize](spell_dir/stabilize#_stabilize_
+Craft Magic Arms and Armor, [Heroic Defiance](advance_dir/advancedFeats#_heroic-defiance), _ [break enchantment](spells/breakEnchantment#_break-enchantment), [stabilize](spell_dir/stabilize#_stabilize)_
 
 Designating, Greater
 
@@ -587,7 +587,7 @@ Construction Requirements
 
 **Cost** +4 bonus
 
-Craft Magic Arms and Armor, _ [instant enemy](advanced/spell_dir/instantEnemy#_instant-enemy)_ (_Advanced Player's Guide_
+Craft Magic Arms and Armor, _ [instant enemy](advanced/spell_dir/instantEnemy#_instant-enemy)_ (_Advanced Player's Guide_)
 
 Designating, Lesser
 
@@ -599,33 +599,33 @@ Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [instant enemy](advanced/spell_dir/instantEnemy#_instant-enemy)_ (_Advanced Player's Guide_
+Craft Magic Arms and Armor, _ [instant enemy](advanced/spell_dir/instantEnemy#_instant-enemy)_ (_Advanced Player's Guide_)
 
 Dispelling
 
 **Price** +1 bonus; **Aura** strong abjuration; **CL** 10th; **Weight** —
 
-A _dispelling _weapon functions like a _spell storing _weapon, but it may only store _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_; however, the caster level check to dispel gains an additional bonus equal to the weapon's enhancement bonus. This bonus also applies to a magus's dispelling strike arcana or a barbarian's spell sunder or sunder enchantment combat maneuver check.
+A _dispelling _weapon functions like a _spell storing _weapon, but it may only store _ [dispel magic](spells/dispelMagic#_dispel-magic)_; however, the caster level check to dispel gains an additional bonus equal to the weapon's enhancement bonus. This bonus also applies to a magus's dispelling strike arcana or a barbarian's spell sunder or sunder enchantment combat maneuver check.
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic, _creator must be a caster of at least 10th level
+Craft Magic Arms and Armor, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic), _creator must be a caster of at least 10th level
 
 Dispelling Burst
 
 **Price** +2 bonus; **Aura** strong abjuration; **CL** 12th; **Weight** —
 
-A _dispelling burst _weapon functions like a _dispelling _weapon but may store _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_ or _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater)_. In addition, these spells can be discharged as a free action when the wielder of a _dispelling burst _weapon confirms a critical hit. When the wielder does so, the bonus to the check made to dispel (including from dispelling strike, spell sunder, or sunder enchantment) increases by an amount equal to the weapon's enhancement bonus or the weapon's critical multiplier (whichever is higher.
+A _dispelling burst _weapon functions like a _dispelling _weapon but may store _ [dispel magic](spells/dispelMagic#_dispel-magic)_ or _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater)_. In addition, these spells can be discharged as a free action when the wielder of a _dispelling burst _weapon confirms a critical hit. When the wielder does so, the bonus to the check made to dispel (including from dispelling strike, spell sunder, or sunder enchantment) increases by an amount equal to the weapon's enhancement bonus or the weapon's critical multiplier (whichever is higher).
 
-If a _dispelling burst _weapon confirms a critical hit while it is not currently storing a _ [dispel magic](spell_dir/dispelMagic#_dispel-magic _or _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater) _spell, yet if the wielder has either spell prepared (or is a spontaneous caster able to cast either spell, she may cast either spell into the weapon as a swift action and then immediately discharge it into the target as a free action.
+If a _dispelling burst _weapon confirms a critical hit while it is not currently storing a _ [dispel magic](spells/dispelMagic#_dispel-magic) _or _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater) _spell, yet if the wielder has either spell prepared (or is a spontaneous caster able to cast either spell), she may cast either spell into the weapon as a swift action and then immediately discharge it into the target as a free action.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater, _creator must be a caster of at least 12th level
+Craft Magic Arms and Armor, _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater), _creator must be a caster of at least 12th level
 
 Disruption
 
@@ -637,7 +637,7 @@ Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [heal](spell_dir/heal#_heal_
+Craft Magic Arms and Armor, _ [heal](spell_dir/heal#_heal)_
 
 Distance
 
@@ -649,7 +649,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [clairaudience/clairvoyance](spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance_
+Craft Magic Arms and Armor, _ [clairaudience/clairvoyance](spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance)_
 
 Dry Load
 
@@ -671,13 +671,13 @@ Dueling
 
 **Price** +14,000 gp; **Aura** faint transmutation; **CL** 5th; **Weight** —
 
-This special ability can only be placed on melee weapons. A _dueling_ weapon (which must be a weapon that can be used with the [Weapon Finesse](feats#_weapon-finesse) feat gives the wielder a +4 enhancement bonus on initiative checks, provided the weapon is drawn and in hand when the Initiative check is made. It provides a +2 bonus on disarm checks and feint checks, a +2 bonus to CMD to resist disarm attempts, and a +2 to the DC to perform a feint against the wielder.
+This special ability can only be placed on melee weapons. A _dueling_ weapon (which must be a weapon that can be used with the [Weapon Finesse](feats#_weapon-finesse) feat) gives the wielder a +4 enhancement bonus on initiative checks, provided the weapon is drawn and in hand when the Initiative check is made. It provides a +2 bonus on disarm checks and feint checks, a +2 bonus to CMD to resist disarm attempts, and a +2 to the DC to perform a feint against the wielder.
 
 Construction Requirements
 
 **Cost** +7,000 gp
 
-Craft Magic Arms and Armor, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_
+Craft Magic Arms and Armor, _ [cat's grace](spells/catSGrace#_cat-s-grace)_
 
 endless ammunition
 
@@ -691,7 +691,7 @@ Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor,_ [minor creation](spell_dir/minorCreation#_minor-creation_
+Craft Magic Arms and Armor,_ [minor creation](spell_dir/minorCreation#_minor-creation)_
 
 Flaming
 
@@ -703,13 +703,13 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor and _ [fireball](spell_dir/fireball#_fireball_,_ [flame blade](spell_dir/flameBlade#_flame-blade_, or _ [flame strike](spell_dir/flameStrike#_flame-strike)_
+Craft Magic Arms and Armor and _ [fireball](spells/fireball#_fireball)_,_ [flame blade](spell_dir/flameBlade#_flame-blade)_, or _ [flame strike](spells/flameStrike#_flame-strike)_
 
 Flaming Burst
 
 **Price** +2 bonus; **Aura** strong evocation; **CL** 12th; **Weight** —
 
-A _flaming burst_ weapon functions as a _flaming_ weapon that also explodes with flame upon striking a successful critical hit. The fire does not harm the wielder. In addition to the extra fire damage from the _flaming_ ability (see above, a _flaming burst_ weapon deals an extra 1d10 points of fire damage on a successful critical hit. If the weapon's critical multiplier is ×3, add an extra 2d10 points of fire damage instead, and if the multiplier is ×4, add an extra 3d10 points of fire damage.
+A _flaming burst_ weapon functions as a _flaming_ weapon that also explodes with flame upon striking a successful critical hit. The fire does not harm the wielder. In addition to the extra fire damage from the _flaming_ ability (see above), a _flaming burst_ weapon deals an extra 1d10 points of fire damage on a successful critical hit. If the weapon's critical multiplier is ×3, add an extra 2d10 points of fire damage instead, and if the multiplier is ×4, add an extra 3d10 points of fire damage.
 
 Even if the _flaming_ ability is not active, the weapon still deals its extra fire damage on a successful critical hit.
 
@@ -717,7 +717,7 @@ Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor and _ [fireball](spell_dir/fireball#_fireball_,_ [flame blade](spell_dir/flameBlade#_flame-blade_, or _ [flame strike](spell_dir/flameStrike#_flame-strike_
+Craft Magic Arms and Armor and _ [fireball](spell_dir/fireball#_fireball)_,_ [flame blade](spells/flameBlade#_flame-blade)_, or _ [flame strike](spell_dir/flameStrike#_flame-strike)_
 
 Frost
 
@@ -729,31 +729,31 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [chill metal](spell_dir/chillMetal#_chill-metal_ or _ [ice storm](spell_dir/iceStorm#_ice-storm)_
+Craft Magic Arms and Armor, _ [chill metal](spells/chillMetal#_chill-metal)_ or _ [ice storm](spell_dir/iceStorm#_ice-storm)_
 
 Furious
 
 **Price** +1 bonus; **Aura** moderate enchantment; **CL** 8th; **Weight** —
 
-This special ability can only be placed on melee weapons. A furious weapon serves as a focus for its wielder's anger. When the wielder is raging or under the effect of a rage spell, the weapon's enhancement bonus is +2 better than normal. If the wielder has a rage power that gives a skill bonus while raging (such as raging climber, raging leaper, or raging swimmer), the wielder gains an enhancement bonus to that skill whenever the weapon is wielded or held in her hand, even when she is not raging. This bonus is equal to the enhancement bonus of the weapon (and also includes the +2 if the wielder is raging.
+This special ability can only be placed on melee weapons. A furious weapon serves as a focus for its wielder's anger. When the wielder is raging or under the effect of a rage spell, the weapon's enhancement bonus is +2 better than normal. If the wielder has a rage power that gives a skill bonus while raging (such as raging climber, raging leaper, or raging swimmer), the wielder gains an enhancement bonus to that skill whenever the weapon is wielded or held in her hand, even when she is not raging. This bonus is equal to the enhancement bonus of the weapon (and also includes the +2 if the wielder is raging).
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [rage](spell_dir/rage#_rage)_
+Craft Magic Arms and Armor, _ [rage](spells/rage#_rage)_
 
 Furyborn
 
 **Price** +2 bonus; **Aura** moderate enchantment; **CL** 7th; **Weight** —
 
-This special ability can only be placed on melee weapons. A _furyborn_ weapon draws power from the anger and frustration the wielder feels when battling foes that refuse to die. Each time the wielder damages an opponent with the weapon, its enhancement bonus increases by +1 when making attacks against that opponent (to a maximum total enhancement bonus of +5. This extra enhancement bonus goes away if the opponent dies, the wielder uses the weapon to attack a different creature, or 1 hour passes.
+This special ability can only be placed on melee weapons. A _furyborn_ weapon draws power from the anger and frustration the wielder feels when battling foes that refuse to die. Each time the wielder damages an opponent with the weapon, its enhancement bonus increases by +1 when making attacks against that opponent (to a maximum total enhancement bonus of +5). This extra enhancement bonus goes away if the opponent dies, the wielder uses the weapon to attack a different creature, or 1 hour passes.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [rage](spell_dir/rage#_rage_
+Craft Magic Arms and Armor, _ [rage](spell_dir/rage#_rage)_
 
 Ghost Touch
 
@@ -765,31 +765,31 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [plane shift](spell_dir/planeShift#_plane-shift_
+Craft Magic Arms and Armor, _ [plane shift](spells/planeShift#_plane-shift)_
 
 Glamered
 
 **Price** +4,000 gp; **Aura** moderate illusion; **CL** 10th; **Weight** —
 
-A _ [glamered](magicItem_dir/armor#_armor-glamered) _weapon can be commanded to change its shape and appearance to assume the form of another object of similar size. The weapon retains all its properties (including weight when so disguised but does not radiate magic. Only _ [true seeing](spell_dir/trueSeeing#_true-seeing _or similar magic reveals the true nature of a _ [glamered](magicItem_dir/armor#_armor-glamered _weapon while it is disguised. After a _ [glamered](magicItem_dir/armor#_armor-glamered _weapon is used to attack, this special ability is suppressed for 1 minute.
+A _ [glamered](magicItem_dir/armor#_armor-glamered) _weapon can be commanded to change its shape and appearance to assume the form of another object of similar size. The weapon retains all its properties (including weight) when so disguised but does not radiate magic. Only _ [true seeing](spells/trueSeeing#_true-seeing) _or similar magic reveals the true nature of a _ [glamered](magicItem_dir/armor#_armor-glamered) _weapon while it is disguised. After a _ [glamered](magicItems/armor#_armor-glamered) _weapon is used to attack, this special ability is suppressed for 1 minute.
 
 Construction Requirements
 
 **Cost** +2,000 gp
 
-Craft Magic Arms and Armor, _ [disguise self](spell_dir/disguiseSelf#_disguise-self, [magic aura](spell_dir/magicAura#_magic-aura_
+Craft Magic Arms and Armor, _ [disguise self](spell_dir/disguiseSelf#_disguise-self), [magic aura](spells/magicAura#_magic-aura)_
 
 Glorious
 
 **Price** +2 bonus; **Aura** moderate evocation; **CL** 5th; **Weight** —
 
-A _glorious _weapon glows with a dazzling light equal to a _ [daylight](spell_dir/daylight#_daylight _spell when drawn. The wielder cannot suppress this light, though it can be temporarily suppressed by any effect that can suppress _ [daylight](spell_dir/daylight#_daylight)_. A _glorious _weapon flashes with light, and any creature the wielder attacks in melee is automatically dazzled until the beginning of the wielder's next turn. When a _glorious _weapon confirms a critical hit, the target is blinded until the beginning of the wielder's next turn (DC 14 Will negates; if the weapon's critical multiplier is greater than ×2, this blindness lasts 1 additional round per multiple over ×2. Only a melee weapon can have the _glorious_ ability.
+A _glorious _weapon glows with a dazzling light equal to a _ [daylight](spell_dir/daylight#_daylight) _spell when drawn. The wielder cannot suppress this light, though it can be temporarily suppressed by any effect that can suppress _ [daylight](spells/daylight#_daylight)_. A _glorious _weapon flashes with light, and any creature the wielder attacks in melee is automatically dazzled until the beginning of the wielder's next turn. When a _glorious _weapon confirms a critical hit, the target is blinded until the beginning of the wielder's next turn (DC 14 Will negates); if the weapon's critical multiplier is greater than ×2, this blindness lasts 1 additional round per multiple over ×2. Only a melee weapon can have the _glorious_ ability.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [blindness/deafness](spell_dir/blindnessDeafness#_blindness-deafness, [daylight](spell_dir/daylight#_daylight, [flare](spell_dir/flare#_flare_
+Craft Magic Arms and Armor, _ [blindnes_dir/deafness](spells/blindnessDeafness#_blindness-deafness), [daylight](spell_dir/daylight#_daylight), [flare](spells/flare#_flare)_
 
 Grayflame
 
@@ -801,7 +801,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, [Channel Smite](feats#_channel-smite, _ [align weapon](spell_dir/alignWeapon#_align-weapon_
+Craft Magic Arms and Armor, [Channel Smite](feats#_channel-smite), _ [align weapon](spells/alignWeapon#_align-weapon)_
 
 Grounding
 
@@ -813,13 +813,13 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [shocking grasp](spell_dir/shockingGrasp#_shocking-grasp_
+Craft Magic Arms and Armor, _ [shocking grasp](spell_dir/shockingGrasp#_shocking-grasp)_
 
 Guardian
 
 **Price** +1 bonus; **Aura** moderate abjuration; **CL** 8th; **Weight** —
 
-This special ability can only be placed on melee weapons. A _guardian _weapon allows the wielder to transfer some or all of the weapon's enhancement bonus to his saving throws as a bonus that stacks with all others. As a free action, the wielder chooses how to allocate the weapon's enhancement bonus at the start of his turn before using the weapon. The bonus on saving throws lasts until his next turn. Only the weapon's own enhancement bonus can be sacrificed, not any enhancement bonus provided by other effects such as a _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater_ spell. However, the total of such effects is still diminished by the amount allocated to improving saving throws.
+This special ability can only be placed on melee weapons. A _guardian _weapon allows the wielder to transfer some or all of the weapon's enhancement bonus to his saving throws as a bonus that stacks with all others. As a free action, the wielder chooses how to allocate the weapon's enhancement bonus at the start of his turn before using the weapon. The bonus on saving throws lasts until his next turn. Only the weapon's own enhancement bonus can be sacrificed, not any enhancement bonus provided by other effects such as a _ [greater magic weapon](spells/magicWeapon#_magic-weapon-greater)_ spell. However, the total of such effects is still diminished by the amount allocated to improving saving throws.
 
 If a weapon has both the _defending_ and _guardian_ abilities, allocating a single point of enhancement bonus increases either AC or saving throws, but not both.
 
@@ -827,7 +827,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [resistance](spell_dir/resistance#_resistance_
+Craft Magic Arms and Armor, _ [resistance](spell_dir/resistance#_resistance)_
 
 Heartseeker
 
@@ -839,31 +839,31 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [death knell](spell_dir/deathKnell#_death-knell_
+Craft Magic Arms and Armor, _ [death knell](spells/deathKnell#_death-knell)_
 
 Holy
 
 **Price** +2 bonus; **Aura** moderate evocation; **CL** 7th; **Weight** —
 
-A _holy_ weapon is imbued with holy power. This power makes the weapon good-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of evil alignment. It bestows one permanent negative level on any evil creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including by _ [restoration](spell_dir/restoration#_restoration)_ spells while the weapon is wielded.
+A _holy_ weapon is imbued with holy power. This power makes the weapon good-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of evil alignment. It bestows one permanent negative level on any evil creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including by _ [restoration](spell_dir/restoration#_restoration)_ spells) while the weapon is wielded.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [holy smite](spell_dir/holySmite#_holy-smite_, creator must be good
+Craft Magic Arms and Armor, _ [holy smite](spells/holySmite#_holy-smite)_, creator must be good
 
 Huntsman
 
 **Price** +1 bonus; **Aura** moderate divination; **CL** 7th; **Weight** —
 
-A _huntsman_ weapon helps its wielder locate and capture quarry. When the weapon is held in hand, the wielder gains an enhancement bonus on [Survival](skill_dir/survival#_survival checks made to track any creature the weapon has damaged in the past day. It also deals +1d6 points of damage to creatures the wielder has tracked with [Survival](skill_dir/survival#_survival in the past day.
+A _huntsman_ weapon helps its wielder locate and capture quarry. When the weapon is held in hand, the wielder gains an enhancement bonus on [Survival](skill_dir/survival#_survival) checks made to track any creature the weapon has damaged in the past day. It also deals +1d6 points of damage to creatures the wielder has tracked with [Survival](skills/survival#_survival) in the past day.
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [detect animals or plants](spell_dir/detectAnimalsOrPlants#_detect-animals-or-plants_
+Craft Magic Arms and Armor, _ [detect animals or plants](spell_dir/detectAnimalsOrPlants#_detect-animals-or-plants)_
 
 Icy Burst
 
@@ -877,31 +877,31 @@ Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [chill metal](spell_dir/chillMetal#_chill-metal_ or _ [ice storm](spell_dir/iceStorm#_ice-storm)_
+Craft Magic Arms and Armor, _ [chill metal](spells/chillMetal#_chill-metal)_ or _ [ice storm](spell_dir/iceStorm#_ice-storm)_
 
 Igniting
 
 **Price** +2 bonus; **Aura** strong evocation; **CL** 12th; **Weight** —
 
-An _igniting_ weapon functions as a _flaming_ weapon that also causes the target to catch fire (_Core Rulebook _444 upon striking it with a successful critical hit. The target does not get a saving throw to avoid catching fire, but can make a save each round on its turn to put out the fire. The _flaming_ ability must be active for the weapon to set enemies on fire.
+An _igniting_ weapon functions as a _flaming_ weapon that also causes the target to catch fire (_Core Rulebook _444) upon striking it with a successful critical hit. The target does not get a saving throw to avoid catching fire, but can make a save each round on its turn to put out the fire. The _flaming_ ability must be active for the weapon to set enemies on fire.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [flame blade](spell_dir/flameBlade#_flame-blade_, _ [flame strike](spell_dir/flameStrike#_flame-strike_, or _ [fireball](spell_dir/fireball#_fireball_
+Craft Magic Arms and Armor, _ [flame blade](spells/flameBlade#_flame-blade)_, _ [flame strike](spell_dir/flameStrike#_flame-strike)_, or _ [fireball](spells/fireball#_fireball)_
 
 Impact
 
 **Price** +2 bonus; **Aura** moderate transmutation; **CL** 9th; **Weight** —
 
-This special ability can only be placed on melee weapons that are not light weapons. An _impact_ weapon delivers a potent kinetic jolt when it strikes, dealing damage as if the weapon were one size category larger. In addition, any bull rush combat maneuver the wielder attempts while wielding the weapon gains a bonus equal to the weapon's enhancement bonus; this includes all bull rush attempts, not only those in which a weapon is used, such as [Bull Rush Strike](advance_dir/advancedFeats#_bull-rush-strike, Shield Slam, or Unseat.
+This special ability can only be placed on melee weapons that are not light weapons. An _impact_ weapon delivers a potent kinetic jolt when it strikes, dealing damage as if the weapon were one size category larger. In addition, any bull rush combat maneuver the wielder attempts while wielding the weapon gains a bonus equal to the weapon's enhancement bonus; this includes all bull rush attempts, not only those in which a weapon is used, such as [Bull Rush Strike](advance_dir/advancedFeats#_bull-rush-strike), Shield Slam, or Unseat.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength, [lead blades](advanced/spell_dir/leadBlades#_lead-blades-) _(_Advanced Player's Guide__, [righteous might](spell_dir/righteousMight#_righteous-might _or _ [giant form I](spell_dir/giantForm#_giant-form-i_
+Craft Magic Arms and Armor, _ [bull's strength](spells/bullSStrength#_bull-s-strength), [lead blades](advance_dir/spells/leadBlades#_lead-blades-) _(_Advanced Player's Guide_)_, [righteous might](spell_dir/righteousMight#_righteous-might) _or _ [giant form I](spells/giantForm#_giant-form-i)_
 
 Impervious
 
@@ -913,37 +913,37 @@ Construction Requirements
 
 **Cost** +1,500 gp
 
-Craft Magic Arms and Armor, _ [fabricate](spell_dir/fabricate#_fabricate, [make whole](spell_dir/makeWhole#_make-whole)_
+Craft Magic Arms and Armor, _ [fabricate](spell_dir/fabricate#_fabricate), [make whole](spells/makeWhole#_make-whole)_
 
 Invigorating
 
 **Price** +2 bonus; **Aura** faint enchantment; **CL** 5th; **Weight** —
 
-This special ability can only be placed on melee weapons. After an attack with this weapon drops a living foe (kills it or drops it to negative hit points, the weapon infuses its wielder with vigor. If its wielder is fatigued, the weapon removes the fatigue. If exhausted, the wielder becomes fatigued instead. If neither exhausted nor fatigued, the wielder gains a +2 morale bonus on attack rolls and a +10 foot enhancement bonus to all modes of movement possessed until the end of the wielder's next turn.
+This special ability can only be placed on melee weapons. After an attack with this weapon drops a living foe (kills it or drops it to negative hit points), the weapon infuses its wielder with vigor. If its wielder is fatigued, the weapon removes the fatigue. If exhausted, the wielder becomes fatigued instead. If neither exhausted nor fatigued, the wielder gains a +2 morale bonus on attack rolls and a +10 foot enhancement bonus to all modes of movement possessed until the end of the wielder's next turn.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [good hope](spell_dir/goodHope#_good-hope_
+Craft Magic Arms and Armor, _ [good hope](spell_dir/goodHope#_good-hope)_
 
 Jurist
 
 **Price** +1 bonus; **Aura** faint transmutation; **CL** 4th; **Weight** —
 
-When an inquisitor wielder uses her judgment class ability while wielding a _jurist _weapon, it grants her an enhancement bonus on her [Perception](skill_dir/perception#_perception checks and to CMD. The bonus is +1 on the first round of her judgment, and increases by +1 each round, to a maximum of +3 on the third and following rounds.
+When an inquisitor wielder uses her judgment class ability while wielding a _jurist _weapon, it grants her an enhancement bonus on her [Perception](skills/perception#_perception) checks and to CMD. The bonus is +1 on the first round of her judgment, and increases by +1 each round, to a maximum of +3 on the third and following rounds.
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [owl's wisdom](spell_dir/owlSWisdom#_owl-s-wisdom_
+Craft Magic Arms and Armor, _ [owl's wisdom](spell_dir/owlSWisdom#_owl-s-wisdom)_
 
 Keen
 
 **Price** +1 bonus; **Aura** moderate transmutation; **CL** 10th; **Weight** —
 
-This ability doubles the threat range of a weapon. Only piercing or slashing melee weapons can be _keen_. If you roll this special ability randomly for an inappropriate weapon, reroll. This benefit doesn't stack with any other effects that expand the threat range of a weapon (such as the _ [keen edge](spell_dir/keenEdge#_keen-edge)_ spell or the [Improved Critical](feats#_improved-critical) feat.
+This ability doubles the threat range of a weapon. Only piercing or slashing melee weapons can be _keen_. If you roll this special ability randomly for an inappropriate weapon, reroll. This benefit doesn't stack with any other effects that expand the threat range of a weapon (such as the _ [keen edge](spells/keenEdge#_keen-edge)_ spell or the [Improved Critical](feats#_improved-critical) feat).
 
 Construction Requirements
 
@@ -991,13 +991,13 @@ Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, [Channel Smite](feats#_channel-smite_, [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds, [death ward](spell_dir/deathWard#_death-ward, [disrupt undead](spell_dir/disruptUndead#_disrupt-undead_
+Craft Magic Arms and Armor, [Channel Smite](feats#_channel-smite)_, [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds), [death ward](spell_dir/deathWard#_death-ward), [disrupt undead](spells/disruptUndead#_disrupt-undead)_
 
 Limning
 
 **Price** +1 bonus; **Aura** faint evocation; **CL** 5th; **Weight** —
 
-When a _liming_ weapon is wielded, a pale glow outlines it. On a successful strike against a creature affected by a means of magical concealment, the weapon outlines the creature in _ [faerie fire](spell_dir/faerieFire#_faerie-fire)_ (as the spell for 1 round. Magical means of concealment include _ [blur](spell_dir/blur#_blur_, _ [displacement](spell_dir/displacement#_displacement_, _ [invisibility](spell_dir/invisibility#_invisibility)_, and similar effects, whether from a spell, spell-like ability, or supernatural means, but not those provided by extraordinary abilities. A _liming_ weapon has no special effect against creatures merely hiding or concealed by nonmagical means, or those hidden by environmental conditions (even magical such as darkness or fog.
+When a _liming_ weapon is wielded, a pale glow outlines it. On a successful strike against a creature affected by a means of magical concealment, the weapon outlines the creature in _ [faerie fire](spell_dir/faerieFire#_faerie-fire)_ (as the spell) for 1 round. Magical means of concealment include _ [blur](spells/blur#_blur)_, _ [displacement](spell_dir/displacement#_displacement)_, _ [invisibility](spells/invisibility#_invisibility)_, and similar effects, whether from a spell, spell-like ability, or supernatural means, but not those provided by extraordinary abilities. A _liming_ weapon has no special effect against creatures merely hiding or concealed by nonmagical means, or those hidden by environmental conditions (even magical) such as darkness or fog.
 
 Construction Requirements
 
@@ -1009,13 +1009,13 @@ Lucky
 
 **Price** +1 bonus; **Aura** moderate transmutation; **CL** 8th; **Weight** —
 
-This special ability can only be placed on one-handed or two-handed firearms. A _lucky _firearm has its own magical reservoir of grit (see _Ultimate Combat_). Usually this grit is stored within the marks of an engraving or in a trinket that hangs from the firearm. Often these marks take the form of holy symbols or fetishes, but such a reservoir can take just about any form. This reservoir holds 1 grit point, which is refreshed at the start of each day. Whether or not the wielder of a _lucky_ firearm has any deeds (see _Ultimate Combat_, she can always spend 1 grit point from the _lucky_ firearm to reroll an attack from it that would result in a misfire. When the wielder does so, she must take the second result, even if that attack roll also results in a misfire.
+This special ability can only be placed on one-handed or two-handed firearms. A _lucky _firearm has its own magical reservoir of grit (see _Ultimate Combat_). Usually this grit is stored within the marks of an engraving or in a trinket that hangs from the firearm. Often these marks take the form of holy symbols or fetishes, but such a reservoir can take just about any form. This reservoir holds 1 grit point, which is refreshed at the start of each day. Whether or not the wielder of a _lucky_ firearm has any deeds (see _Ultimate Combat_), she can always spend 1 grit point from the _lucky_ firearm to reroll an attack from it that would result in a misfire. When the wielder does so, she must take the second result, even if that attack roll also results in a misfire.
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [heroism](spell_dir/heroism#_heroism_, creator must be a grit user
+Craft Magic Arms and Armor, _ [heroism](spells/heroism#_heroism)_, creator must be a grit user
 
 Lucky, Greater
 
@@ -1027,7 +1027,7 @@ Construction Requirements
 
 **Cost** +3 bonus
 
-Craft Magic Arms and Armor, _ [greater heroism](spell_dir/heroism#_heroism-greater_, creator must be a grit user
+Craft Magic Arms and Armor, _ [greater heroism](spell_dir/heroism#_heroism-greater)_, creator must be a grit user
 
 Menacing
 
@@ -1039,19 +1039,19 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [phantasmal killer](spell_dir/phantasmalKiller#_phantasmal-killer)_
+Craft Magic Arms and Armor, _ [phantasmal killer](spells/phantasmalKiller#_phantasmal-killer)_
 
 Merciful
 
 **Price** +1 bonus; **Aura** faint conjuration; **CL** 5th; **Weight** —
 
-A _merciful_ weapon deals an extra 1d6 points of damage, but all damage it deals is nonlethal damage. On command, the weapon suppresses this ability until told to resume it (allowing it to deal lethal damage, but without any bonus damage from this ability.
+A _merciful_ weapon deals an extra 1d6 points of damage, but all damage it deals is nonlethal damage. On command, the weapon suppresses this ability until told to resume it (allowing it to deal lethal damage, but without any bonus damage from this ability).
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds_
+Craft Magic Arms and Armor, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_
 
 Mighty Cleaving
 
@@ -1063,19 +1063,19 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [divine power](spell_dir/divinePower#_divine-power)_
+Craft Magic Arms and Armor, _ [divine power](spells/divinePower#_divine-power)_
 
 Mimetic
 
 **Price** +1 bonus; **Aura** faint abjuration; **CL** 5th; **Weight** —
 
-This special ability can only be placed on melee weapons. Each time the wielder damages a creature using a _mimetic _weapon, he gains resistance 10 to one energy type that the creature is resistant or immune to for 1 round (if the creature damaged has multiple types of resistance, the wielder chooses one of those resistances to take. This resistance stacks with itself, to a maximum of 30 points of resistance against a given energy type, but not with other sources of energy resistance. The creature's own resistances and immunities are unaffected.
+This special ability can only be placed on melee weapons. Each time the wielder damages a creature using a _mimetic _weapon, he gains resistance 10 to one energy type that the creature is resistant or immune to for 1 round (if the creature damaged has multiple types of resistance, the wielder chooses one of those resistances to take). This resistance stacks with itself, to a maximum of 30 points of resistance against a given energy type, but not with other sources of energy resistance. The creature's own resistances and immunities are unaffected.
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [resist energy](spell_dir/resistEnergy#_resist-energy_
+Craft Magic Arms and Armor, _ [resist energy](spell_dir/resistEnergy#_resist-energy)_
 
 Negating
 
@@ -1087,7 +1087,7 @@ Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [dispel chaos](spell_dir/dispelChaos#_dispel-chaos_, _evil_, _good_, or _law_
+Craft Magic Arms and Armor, _ [dispel chaos](spell_dir/dispelChaos#_dispel-chaos)_, _evil_, _good_, or _law_
 
 Neutralizing
 
@@ -1099,7 +1099,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [purify food and drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink_
+Craft Magic Arms and Armor, _ [purify food and drink](spells/purifyFoodAndDrink#_purify-food-and-drink)_
 
 Nimble Shot
 
@@ -1111,7 +1111,7 @@ Construction Requirements
 
 **Cost** +4 bonus
 
-Craft Magic Arms and Armor, _ [bow spirit](advanced/spell_dir/bowSpirit#_bow-spirit) _(_Advanced Player's Guide_
+Craft Magic Arms and Armor, _ [bow spirit](advance_dir/spells/bowSpirit#_bow-spirit) _(_Advanced Player's Guide_)
 
 Nullifying
 
@@ -1123,31 +1123,31 @@ Construction Requirements
 
 **Cost** +3 bonus
 
-Craft Magic Arms and Armor, _ [antimagic field](spell_dir/antimagicField#_antimagic-field_
+Craft Magic Arms and Armor, _ [antimagic field](spell_dir/antimagicField#_antimagic-field)_
 
 Ominous
 
 **Price** +1 bonus; **Aura** faint evocation; **CL** 5th; **Weight** —
 
-This special ability can only be placed on melee weapons. An _ominous _weapon trails a shadowy haze behind every stroke, and moans a menacing dirge in battle. An _ominous _weapon adds its enhancement bonus on [Intimidate](skill_dir/intimidate#_intimidate) checks made by the wielder. In addition, when an _ominous _weapon confirms a critical hit, the target is shaken for 1 minute (DC 13 Will negates; if the weapon's critical multiplier is greater than ×2, this condition lasts 1 additional minute per multiple over ×2. A creature that gains the shaken condition from an _ominous_ weapon cannot gain that condition again from the same weapon for 24 hours.
+This special ability can only be placed on melee weapons. An _ominous _weapon trails a shadowy haze behind every stroke, and moans a menacing dirge in battle. An _ominous _weapon adds its enhancement bonus on [Intimidate](skills/intimidate#_intimidate) checks made by the wielder. In addition, when an _ominous _weapon confirms a critical hit, the target is shaken for 1 minute (DC 13 Will negates); if the weapon's critical multiplier is greater than ×2, this condition lasts 1 additional minute per multiple over ×2. A creature that gains the shaken condition from an _ominous_ weapon cannot gain that condition again from the same weapon for 24 hours.
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [doom](spell_dir/doom#_doom _or _ [scare](spell_dir/scare#_scare_
+Craft Magic Arms and Armor, _ [doom](spell_dir/doom#_doom) _or _ [scare](spells/scare#_scare)_
 
 Phase Locking
 
 **Price** +2 bonus; **Aura** moderate abjuration; **CL** 7th; **Weight** —
 
-A _phase locking _weapon interferes with dimensional travel. A creature damaged by a _phase locking_ weapon is affected as though by the _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional_ spell for 1 round.
+A _phase locking _weapon interferes with dimensional travel. A creature damaged by a _phase locking_ weapon is affected as though by the _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional)_ spell for 1 round.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional_
+Craft Magic Arms and Armor, _ [dimensional anchor](spells/dimensionalAnchor#_dimensional)_
 
 Planar
 
@@ -1159,7 +1159,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [plane shift](spell_dir/planeShift#_plane-shift_
+Craft Magic Arms and Armor, _ [plane shift](spell_dir/planeShift#_plane-shift)_
 
 Quenching
 
@@ -1171,13 +1171,13 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [chill metal](spell_dir/chillMetal#_chill-metal)_
+Craft Magic Arms and Armor, _ [chill metal](spells/chillMetal#_chill-metal)_
 
 Reliable
 
 **Price** +1 bonus; **Aura** moderate transmutation; **CL** 8th; **Weight** —
 
-This special ability can only be placed on firearms. A _reliable _firearm is enchanted so that it is less likely to jam than other firearms. This enchantment reduces the misfire value of the affected firearm by 1 (minimum 0. This reduction occurs after any increases are calculated for firing with the broken condition, or for any other effect that might increase the misfire value of a firearm.
+This special ability can only be placed on firearms. A _reliable _firearm is enchanted so that it is less likely to jam than other firearms. This enchantment reduces the misfire value of the affected firearm by 1 (minimum 0). This reduction occurs after any increases are calculated for firing with the broken condition, or for any other effect that might increase the misfire value of a firearm.
 
 Construction Requirements
 
@@ -1189,19 +1189,19 @@ Reliable, Greater
 
 **Price** +3 bonus; **Aura** strong enchantment; **CL** 12th; **Weight** —
 
-This special ability can only be placed on firearms. A _greater reliable_ firearm is enchanted so as to be less likely to jam than other firearms. The _greater reliable _special ability reduces the misfire value of the affected firearm by 4 (minimum 0. This reduction occurs after any increases are calculated for firing with the broken condition, or for any other effect that might increase the misfire value of a firearm. A firearm with the _greater reliable_ special ability cannot have the _reliable_ special ability.
+This special ability can only be placed on firearms. A _greater reliable_ firearm is enchanted so as to be less likely to jam than other firearms. The _greater reliable _special ability reduces the misfire value of the affected firearm by 4 (minimum 0). This reduction occurs after any increases are calculated for firing with the broken condition, or for any other effect that might increase the misfire value of a firearm. A firearm with the _greater reliable_ special ability cannot have the _reliable_ special ability.
 
 Construction Requirements
 
 **Cost** +3 bonus
 
-Craft Magic Arms and Armor, _ [make whole](spell_dir/makeWhole#_make-whole)_
+Craft Magic Arms and Armor, _ [make whole](spells/makeWhole#_make-whole)_
 
 Repositioning
 
 **Price** +3 bonus; **Aura** moderate enchantment; **CL** 10th; **Weight** —
 
-This special ability can only be placed on melee weapons. A _repositioning_ weapon grants the wielder a +2 enhancement bonus on combat maneuver checks to reposition a foe (_Advanced Player's Guide_ 322. If the wielder confirms a critical hit with the weapon, he can attempt to reposition his opponent as a free action. These reposition attempts still provoke attacks of opportunity as normal. A weapon cannot have both the _anchoring_ and _repositioning_ special abilities.
+This special ability can only be placed on melee weapons. A _repositioning_ weapon grants the wielder a +2 enhancement bonus on combat maneuver checks to reposition a foe (_Advanced Player's Guide_ 322). If the wielder confirms a critical hit with the weapon, he can attempt to reposition his opponent as a free action. These reposition attempts still provoke attacks of opportunity as normal. A weapon cannot have both the _anchoring_ and _repositioning_ special abilities.
 
 Construction Requirements
 
@@ -1213,25 +1213,25 @@ Returning
 
 **Price** +1 bonus; **Aura** moderate transmutation; **CL** 7th; **Weight** —
 
-This special ability can only be placed on a weapon that can be thrown. A _returning_ weapon flies through the air back to the creature that threw it. It returns to the thrower just before the creature's next turn (and is therefore ready to use again in that turn. Catching a _returning_ weapon when it comes back is a free action. If the character can't catch it, or if the character has moved since throwing it, the weapon drops to the ground in the square from which it was thrown.
+This special ability can only be placed on a weapon that can be thrown. A _returning_ weapon flies through the air back to the creature that threw it. It returns to the thrower just before the creature's next turn (and is therefore ready to use again in that turn). Catching a _returning_ weapon when it comes back is a free action. If the character can't catch it, or if the character has moved since throwing it, the weapon drops to the ground in the square from which it was thrown.
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [telekinesis](spell_dir/telekinesis#_telekinesis_
+Craft Magic Arms and Armor, _ [telekinesis](spells/telekinesis#_telekinesis)_
 
 Seaborne
 
 **Price** +1 bonus; **Aura** moderate transmutation; **CL** 7th; **Weight** —
 
-This special ability can only be placed on melee weapons. A _seaborne _weapon functions easily in watery environments. With the weapon in hand, the wielder gains a bonus on [Swim](skill_dir/swim#_swim checks equal to twice the weapon's enhancement bonus. In addition, the wielder does not take the normal penalties to attack and damage rolls imposed by being underwater, as if he were subject to the spell _ [freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement._
+This special ability can only be placed on melee weapons. A _seaborne _weapon functions easily in watery environments. With the weapon in hand, the wielder gains a bonus on [Swim](skill_dir/swim#_swim) checks equal to twice the weapon's enhancement bonus. In addition, the wielder does not take the normal penalties to attack and damage rolls imposed by being underwater, as if he were subject to the spell _ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement)._
 
 Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement, [touch of the sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea)_ (_Advanced Player's Guide_
+Craft Magic Arms and Armor, _ [freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement), [touch of the sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea)_ (_Advanced Player's Guide_)
 
 Second Chance
 
@@ -1243,7 +1243,7 @@ Construction Requirements
 
 **Cost** +4 bonus
 
-Craft Magic Arms and Armor, _ [ricochet shot](ultimateCombat/spell_dir/ricochetShot#_ricochet-shot)_ (_Ultimate Combat_
+Craft Magic Arms and Armor, _ [ricochet shot](ultimateCombat/spell_dir/ricochetShot#_ricochet-shot)_ (_Ultimate Combat_)
 
 Seeking
 
@@ -1255,7 +1255,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [true seeing](spell_dir/trueSeeing#_true-seeing_
+Craft Magic Arms and Armor, _ [true seeing](spells/trueSeeing#_true-seeing)_
 
 Shock
 
@@ -1267,7 +1267,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [call lightning](spell_dir/callLightning#_call-lightning_ or _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_
+Craft Magic Arms and Armor, _ [call lightning](spell_dir/callLightning#_call-lightning)_ or _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_
 
 Shocking Burst
 
@@ -1281,19 +1281,19 @@ Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [call lightning](spell_dir/callLightning#_call-lightning_ or _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_
+Craft Magic Arms and Armor, _ [call lightning](spell_dir/callLightning#_call-lightning)_ or _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_
 
 Speed
 
 **Price** +3 bonus; **Aura** moderate transmutation; **CL** 7th; **Weight** —
 
-When making a full-attack action, the wielder of a _speed_ weapon may make one extra attack with it. The attack uses the wielder's full base attack bonus, plus any modifiers appropriate to the situation. (This benefit is not cumulative with similar effects, such as a _ [haste](spell_dir/haste#_haste)_ spell.
+When making a full-attack action, the wielder of a _speed_ weapon may make one extra attack with it. The attack uses the wielder's full base attack bonus, plus any modifiers appropriate to the situation. (This benefit is not cumulative with similar effects, such as a _ [haste](spell_dir/haste#_haste)_ spell.)
 
 Construction Requirements
 
 **Cost** +3 bonus
 
-Craft Magic Arms and Armor, _ [haste](spell_dir/haste#_haste)_
+Craft Magic Arms and Armor, _ [haste](spells/haste#_haste)_
 
 Spell Storing
 
@@ -1313,13 +1313,13 @@ Spellstealing
 
 **Price** +3 bonus; **Aura** strong divination; **CL** 13th; **Weight** —
 
-This special ability can only be placed on melee weapons. A _spellstealing _weapon allows its wielder to siphon protective magic from a target and transfer it to herself. When the wielder rolls a critical threat against a target, she can forgo confirming the critical hit and instead automatically learn which spells or magical effects are active upon the target. The wielder may then make a caster level check to steal her choice of one of those effects, using the _spellstealing_ weapon's caster level plus its enhancement bonus, against a DC of 11 + the caster level of the effect. If the check succeeds, the target immediately loses the benefits of that effect and the wielder gains the effect for 1 minute (or until the effect expires, whichever comes first). If the _spellstealing _weapon has a critical multiplier greater than ×2, the wielder may attempt to steal one additional spell effect per additional multiple beyond ×2 (two effects for ×3, and so on.
+This special ability can only be placed on melee weapons. A _spellstealing _weapon allows its wielder to siphon protective magic from a target and transfer it to herself. When the wielder rolls a critical threat against a target, she can forgo confirming the critical hit and instead automatically learn which spells or magical effects are active upon the target. The wielder may then make a caster level check to steal her choice of one of those effects, using the _spellstealing_ weapon's caster level plus its enhancement bonus, against a DC of 11 + the caster level of the effect. If the check succeeds, the target immediately loses the benefits of that effect and the wielder gains the effect for 1 minute (or until the effect expires, whichever comes first). If the _spellstealing _weapon has a critical multiplier greater than ×2, the wielder may attempt to steal one additional spell effect per additional multiple beyond ×2 (two effects for ×3, and so on).
 
 Construction Requirements
 
 **Cost** +3 bonus
 
-Craft Magic Arms and Armor, _ [greater arcane sight](spell_dir/arcaneSight#_arcane-sight-greater, [limited wish](spell_dir/limitedWish#_limited-wish_
+Craft Magic Arms and Armor, _ [greater arcane sight](spell_dir/arcaneSight#_arcane-sight-greater), [limited wish](spells/limitedWish#_limited-wish)_
 
 Stalking
 
@@ -1333,7 +1333,7 @@ Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [hunter's eye](advanced/spell_dir/hunterSEye#_hunter's-eye_, _ [true strike](spell_dir/trueStrike#_true-strike_
+Craft Magic Arms and Armor, _ [hunter's eye](advance_dir/spells/hunterSEye#_hunter's-eye)_, _ [true strike](spell_dir/trueStrike#_true-strike)_
 
 Thawing
 
@@ -1345,7 +1345,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [heat metal](spell_dir/heatMetal#_heat-metal_
+Craft Magic Arms and Armor, _ [heat metal](spells/heatMetal#_heat-metal)_
 
 Throwing
 
@@ -1357,7 +1357,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [magic stone](spell_dir/magicStone#_magic-stone_
+Craft Magic Arms and Armor, _ [magic stone](spell_dir/magicStone#_magic-stone)_
 
 Thundering
 
@@ -1375,25 +1375,25 @@ Transformative
 
 **Price** +10,000 gp; **Aura** moderate transmutation; **CL** 10th; **Weight** —
 
-This special ability can only be placed on melee weapons. A _transformative_ weapon alters its shape at its wielder's command, becoming any other melee weapon of the same general shape and handedness; the weapon's categorization as simple, martial, or exotic is irrelevant. For example, a Medium _transformative longsword_ can take the shape of any other Medium one-handed melee weapon, such as a scimitar, flail, or trident, but not a Medium light or two-handed melee weapon (such as a Medium short sword or a Medium greatsword. It can even take the shape of comparable weapons of different size categories. For example, a Small greatsword is a two-handed slashing weapon for a Small character, but is a one-handed slashing weapon for a Medium character, which is very similar to a Medium longsword; a Small _transformative greatsword_ can thus become an actual Medium longsword, usable by a Medium creature without the –2 penalty for using a weapon of the wrong size. The weapon retains all of its abilities, including enhancement bonuses and weapon special abilities, except those prohibited by its current shape. For example, a _keen transformative_ weapon functions normally in the form of a piercing or slashing weapon, but cannot use the _keen_ special ability when in the shape of a bludgeoning weapon. When unattended, the weapon reverts to its true shape.
+This special ability can only be placed on melee weapons. A _transformative_ weapon alters its shape at its wielder's command, becoming any other melee weapon of the same general shape and handedness; the weapon's categorization as simple, martial, or exotic is irrelevant. For example, a Medium _transformative longsword_ can take the shape of any other Medium one-handed melee weapon, such as a scimitar, flail, or trident, but not a Medium light or two-handed melee weapon (such as a Medium short sword or a Medium greatsword). It can even take the shape of comparable weapons of different size categories. For example, a Small greatsword is a two-handed slashing weapon for a Small character, but is a one-handed slashing weapon for a Medium character, which is very similar to a Medium longsword; a Small _transformative greatsword_ can thus become an actual Medium longsword, usable by a Medium creature without the –2 penalty for using a weapon of the wrong size. The weapon retains all of its abilities, including enhancement bonuses and weapon special abilities, except those prohibited by its current shape. For example, a _keen transformative_ weapon functions normally in the form of a piercing or slashing weapon, but cannot use the _keen_ special ability when in the shape of a bludgeoning weapon. When unattended, the weapon reverts to its true shape.
 
 Construction Requirements
 
 **Cost** +5,000 gp
 
-Craft Magic Arms and Armor, _ [major creation](spell_dir/majorCreation#_major-creation_
+Craft Magic Arms and Armor, _ [major creation](spells/majorCreation#_major-creation)_
 
 Unholy
 
 **Price** +2 bonus; **Aura** moderate evocation; **CL** 7th; **Weight** —
 
-An _unholy_ weapon is imbued with unholy power. This power makes the weapon evil-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of good alignment. It bestows one permanent negative level on any good creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including _ [restoration](spell_dir/restoration#_restoration)_ spells while the weapon is wielded.
+An _unholy_ weapon is imbued with unholy power. This power makes the weapon evil-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2d6 points of damage against all creatures of good alignment. It bestows one permanent negative level on any good creature attempting to wield it. The negative level remains as long as the weapon is in hand and disappears when the weapon is no longer wielded. This negative level cannot be overcome in any way (including _ [restoration](spell_dir/restoration#_restoration)_ spells) while the weapon is wielded.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [unholy blight](spell_dir/unholyBlight#_unholy-blight_, creator must be evil
+Craft Magic Arms and Armor, _ [unholy blight](spells/unholyBlight#_unholy-blight)_, creator must be evil
 
 Valiant
 
@@ -1405,7 +1405,7 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [true strike](spell_dir/trueStrike#_true-strike_
+Craft Magic Arms and Armor, _ [true strike](spell_dir/trueStrike#_true-strike)_
 
 Vicious
 
@@ -1417,29 +1417,29 @@ Construction Requirements
 
 **Cost** +1 bonus
 
-Craft Magic Arms and Armor, _ [enervation](spell_dir/enervation#_enervation)_
+Craft Magic Arms and Armor, _ [enervation](spells/enervation#_enervation)_
 
 Vorpal
 
 **Price** +5 bonus; **Aura** strong necromancy and transmutation; **CL** 18th; **Weight** —
 
-This potent and feared ability allows the weapon to sever the heads of those it strikes. Upon a roll of natural 20 (followed by a successful roll to confirm the critical hit), the weapon severs the opponent's head (if it has one from its body. Some creatures, such as many aberrations and all oozes, have no heads. Others, such as golems and undead creatures other than vampires, are not affected by the loss of their heads. Most other creatures, however, die when their heads are cut off. A _vorpal_ weapon must be a slashing melee weapon. If you roll this special ability randomly for an inappropriate weapon, reroll.
+This potent and feared ability allows the weapon to sever the heads of those it strikes. Upon a roll of natural 20 (followed by a successful roll to confirm the critical hit), the weapon severs the opponent's head (if it has one) from its body. Some creatures, such as many aberrations and all oozes, have no heads. Others, such as golems and undead creatures other than vampires, are not affected by the loss of their heads. Most other creatures, however, die when their heads are cut off. A _vorpal_ weapon must be a slashing melee weapon. If you roll this special ability randomly for an inappropriate weapon, reroll.
 
 Construction Requirements
 
 **Cost** +5 bonus
 
-Craft Magic Arms and Armor, _ [circle of death](spell_dir/circleOfDeath#_circle-of-death_, _ [keen edge](spell_dir/keenEdge#_keen-edge_
+Craft Magic Arms and Armor, _ [circle of death](spell_dir/circleOfDeath#_circle-of-death)_, _ [keen edge](spells/keenEdge#_keen-edge)_
 
 Wounding
 
 **Price** +2 bonus; **Aura** moderate evocation; **CL** 10th; **Weight** —
 
-This special ability can only be placed on melee weapons. A _wounding_ weapon deals 1 point of bleed damage when it hits a creature. Multiple hits from a _wounding_ weapon increase the bleed damage. Bleeding creatures take the bleed damage at the start of their turns. Bleeding can be stopped by a successful DC 15 [Heal](skill_dir/heal#_heal check or through the application of any spell that cures hit point damage. A critical hit does not multiply the bleed damage. Creatures immune to critical hits are immune to the bleed damage dealt by this weapon.
+This special ability can only be placed on melee weapons. A _wounding_ weapon deals 1 point of bleed damage when it hits a creature. Multiple hits from a _wounding_ weapon increase the bleed damage. Bleeding creatures take the bleed damage at the start of their turns. Bleeding can be stopped by a successful DC 15 [Heal](skill_dir/heal#_heal) check or through the application of any spell that cures hit point damage. A critical hit does not multiply the bleed damage. Creatures immune to critical hits are immune to the bleed damage dealt by this weapon.
 
 Construction Requirements
 
 **Cost** +2 bonus
 
-Craft Magic Arms and Armor, _ [bleed](spell_dir/bleed#_bleed_
+Craft Magic Arms and Armor, _ [bleed](spells/bleed#_bleed)_
 

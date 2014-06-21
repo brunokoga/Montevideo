@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/kingdomsAndWar/kingdomBuilding
+title: ultimateCampaig_dir/kingdomsAndWar/kingdomBuilding
 ---
 # Kingdom Building
 
@@ -15,10 +15,10 @@ The key parts of the kingdom-building rules that you'll be referencing are as fo
 
 - Explanation of the kingdom terminology used throughout this section.
 - Step-by-step instructions for founding a kingdom.
-- The [turn sequence](ultimateCampaign/kingdomsAndWa_dir/kingdomTurnSequence for an established kingdom.
-- The game statistics for [terrain improvements](ultimateCampaign/kingdomsAndWa_dir/kingdomTurnSequence#_terrain-improvements.
-- Step-by-step instructions on how to [found your first settlement](ultimateCampaign/kingdomsAndWa_dir/kingdomTurnSequence#_founding-a-settlement.
-- The game [statistics for the types of buildings](ultimateCampaign/kingdomsAndWa_dir/kingdomTurnSequence#_building-descriptions).
+- The [turn sequence](ultimateCampaig_dir/kingdomsAndWar/kingdomTurnSequence) for an established kingdom.
+- The game statistics for [terrain improvements](ultimateCampaig_dir/kingdomsAndWar/kingdomTurnSequence#_terrain-improvements).
+- Step-by-step instructions on how to [found your first settlement](ultimateCampaig_dir/kingdomsAndWar/kingdomTurnSequence#_founding-a-settlement).
+- The game [statistics for the types of buildings](ultimateCampaig_dir/kingdomsAndWar/kingdomTurnSequence#_building-descriptions).
 
 Following the main rules and the types of buildings are several optional rules for kingdom building, such as modifying the effect of religious buildings based on alignment or deity portfolio, tracking Fame and Infamy scores for your kingdom, rules for different types of government, and special edicts you can declare during the turn sequence.
 
@@ -36,21 +36,21 @@ Kingdoms have attributes that describe and define them. These are tracked on a k
 
 **Economy** : This attribute measures the productivity of your kingdom's workers and the vibrancy of its trade, both in terms of money and in terms of information, innovation, and technology. Your kingdom's initial Economy is 0 plus your kingdom's alignment and leadership modifiers.
 
-**Kingdom Check** : A kingdom has three attributes: Economy, Loyalty, and Stability. Your kingdom's initial scores in each of these attributes is 0, plus modifiers for kingdom alignment, bonuses provided by the leaders, and any other modifiers. Many kingdom actions and events require you to attempt a kingdom check, either using your Economy, Loyalty, or Stability attribute (1d20 + the appropriate attribute + other modifiers. You cannot take 10 or take 20 on a kingdom check. Kingdom checks automatically fail on a natural 1 and automatically succeed on a natural 20.
+**Kingdom Check** : A kingdom has three attributes: Economy, Loyalty, and Stability. Your kingdom's initial scores in each of these attributes is 0, plus modifiers for kingdom alignment, bonuses provided by the leaders, and any other modifiers. Many kingdom actions and events require you to attempt a kingdom check, either using your Economy, Loyalty, or Stability attribute (1d20 + the appropriate attribute + other modifiers). You cannot take 10 or take 20 on a kingdom check. Kingdom checks automatically fail on a natural 1 and automatically succeed on a natural 20.
 
 **Loyalty** : Loyalty refers to the sense of goodwill among your people, their ability to live peaceably together even in times of crisis, and to fight for one another when needed. Your kingdom's initial Loyalty is 0 plus your kingdom's alignment and any modifiers from your kingdom's leadership role.
 
-**Population** : Actual population numbers don't factor into your kingdom's statistics, but can be fun to track anyway. The population of each settlement is described in [Settlements and Districts](ultimateCampaign/kingdomsAndWa_dir/kingdomTurnSequence#_settlements-and-districts).
+**Population** : Actual population numbers don't factor into your kingdom's statistics, but can be fun to track anyway. The population of each settlement is described in [Settlements and Districts](ultimateCampaig_dir/kingdomsAndWar/kingdomTurnSequence#_settlements-and-districts).
 
 **Size** : This is how many hexes the kingdom claims. A new kingdom's Size is 1.
 
 **Stability** : Stability refers to the physical and social well-being of the kingdom, from the health and security of its citizenry to the vitality of its natural resources and its ability to maximize their use. Your kingdom's initial Stability is 0 plus your kingdom's alignment and leadership modifiers.
 
-**Treasury** : The Treasury is the amount of BP your kingdom has saved and can spend on activities (much in the same way that your character has gold and other valuables you can spend on gear). Your Treasury can fall below 0 (meaning your kingdom's costs exceed its savings and it is operating in debt, but this increases Unrest (see [Upkeep Phase](ultimateCampaign/kingdomsAndWa_dir/kingdomTurnSequence#_upkeep-phase)).
+**Treasury** : The Treasury is the amount of BP your kingdom has saved and can spend on activities (much in the same way that your character has gold and other valuables you can spend on gear). Your Treasury can fall below 0 (meaning your kingdom's costs exceed its savings and it is operating in debt), but this increases Unrest (see [Upkeep Phase](ultimateCampaig_dir/kingdomsAndWar/kingdomTurnSequence#_upkeep-phase)).
 
 **Turn** : A kingdom turn spans 1 month of game time. You make your kingdom checks and other decisions about running your kingdom at the end of each month.
 
-**Unrest** : Your kingdom's Unrest indicates how rebellious your citizens are. Your kingdom's initial Unrest is 0. Unrest can never fall below 0 (anything that would modify it to less than 0 is wasted. Subtract your kingdom's Unrest from all Economy, Loyalty, and Stability checks. If your kingdom's Unrest is 11 or higher, the kingdom begins to lose control of hexes it has claimed. If your kingdom's Unrest ever reaches 20, the kingdom falls into anarchy (see [Upkeep Phase](ultimateCampaign/kingdomsAndWa_dir/kingdomTurnSequence#_upkeep-phase)).
+**Unrest** : Your kingdom's Unrest indicates how rebellious your citizens are. Your kingdom's initial Unrest is 0. Unrest can never fall below 0 (anything that would modify it to less than 0 is wasted). Subtract your kingdom's Unrest from all Economy, Loyalty, and Stability checks. If your kingdom's Unrest is 11 or higher, the kingdom begins to lose control of hexes it has claimed. If your kingdom's Unrest ever reaches 20, the kingdom falls into anarchy (see [Upkeep Phase](ultimateCampaig_dir/kingdomsAndWar/kingdomTurnSequence#_upkeep-phase)).
 
 ## Kingdom Building Quick Reference
 
@@ -74,13 +74,13 @@ Once you have your first settlement, you have the start of a kingdom. You'll nee
 
 **Start Your Treasury** . The build points you have left over from starting your first settlement make up your initial Treasury.
 
-**Determine Your Kingdom's Attributes** . Your initial Economy, Loyalty, and Stability scores are based on the kingdom's alignment and the buildings your settlement has. (If you start with more than one settlement, include all the settlements in this reckoning.
+**Determine Your Kingdom's Attributes** . Your initial Economy, Loyalty, and Stability scores are based on the kingdom's alignment and the buildings your settlement has. (If you start with more than one settlement, include all the settlements in this reckoning.)
 
-Once you've completed these steps, move on to [Kingdom Turn Sequence](ultimateCampaign/kingdomsAndWa_dir/kingdomTurnSequence.
+Once you've completed these steps, move on to [Kingdom Turn Sequence](ultimateCampaig_dir/kingdomsAndWar/kingdomTurnSequence).
 
 ## Capital City
 
-A kingdom should have a capital city—the seat of your power. Your first settlement is your capital. If you want to designate a different settlement as the capital, you may do so in Step 7 of the [Edict phase](ultimateCampaign/kingdomsAndWa_dir/kingdomTurnSequence#_edict-phase). Your capital city primarily comes into play if your kingdom loses hexes. If you change the capital city, attempt a Stability check. Success means Unrest increases by 1; failure means Unrest increases by 1d6.
+A kingdom should have a capital city—the seat of your power. Your first settlement is your capital. If you want to designate a different settlement as the capital, you may do so in Step 7 of the [Edict phase](ultimateCampaig_dir/kingdomsAndWar/kingdomTurnSequence#_edict-phase). Your capital city primarily comes into play if your kingdom loses hexes. If you change the capital city, attempt a Stability check. Success means Unrest increases by 1; failure means Unrest increases by 1d6.
 
 ## Leadership Roles
 
@@ -106,7 +106,7 @@ If you are not the Ruler and are leaving one leadership role to take a different
 
 _Benefit_: This explains the benefit to your kingdom if you have a character in this role. If you have the [Leadership](feats#_leadership) feat, increase this benefit by 1. If this section gives you a choice of two ability scores, use whichever is highest.
 
-Most benefits are constant and last as long as there is a character in that role, but don't stack with themselves. For example, a General increases Loyalty by 2, so the General provides a constant +2 to the kingdom's Loyalty (not a stacking +2 increase every turn, which goes away if she dies or resigns. If a benefit mentions a particular phase in kingdom building, that benefit applies every turn during that phase. For example, the Royal [Enforcer](advance_dir/advancedFeats#enforcer) decreases Unrest by 1 at every Upkeep phase.
+Most benefits are constant and last as long as there is a character in that role, but don't stack with themselves. For example, a General increases Loyalty by 2, so the General provides a constant +2 to the kingdom's Loyalty (not a stacking +2 increase every turn), which goes away if she dies or resigns. If a benefit mentions a particular phase in kingdom building, that benefit applies every turn during that phase. For example, the Royal [Enforcer](advance_dir/advancedFeats#enforcer) decreases Unrest by 1 at every Upkeep phase.
 
 _Vacancy Penalty_: This line explains the penalty to your kingdom if no character fills this role, or if the leader fails to spend the necessary time fulfilling his responsibilities. Some roles have no vacancy penalty. If a character in a role is killed or permanently incapacitated during a turn and not restored to health by the start of the next kingdom turn, that role counts as vacant for that next turn, after which a replacement can be appointed to the role.
 
@@ -120,7 +120,7 @@ The Ruler is the highest-ranking person in the kingdom, above even the other kin
 
 If you have the [Leadership](feats#_leadership) feat, the bonus from the feat applies to all kingdom attributes you affect (one, two, or three attributes, depending on the kingdom's Size).
 
-If you marry someone of equal station, you both can act as Ruler. You both add your Charisma modifiers to the kingdom attribute (or attributes, if the kingdom is large enough. As long as one of you is present for 1 week per month, you avoid the vacancy penalty.
+If you marry someone of equal station, you both can act as Ruler. You both add your Charisma modifiers to the kingdom attribute (or attributes, if the kingdom is large enough). As long as one of you is present for 1 week per month, you avoid the vacancy penalty.
 
 In a typical campaign where the kingdom leaders have no ties to actual nobility, "someone of equal station" is irrelevant and your marriage is between two Rulers. In a campaign where the leaders are nobles or royals, marrying someone of lesser station means the spouse becomes a Consort rather than a Ruler.
 
@@ -162,7 +162,7 @@ The Grand Diplomat is in charge of the kingdom's foreign policy—how it interac
 
 ### Heir
 
-The Heir is usually the Ruler's eldest son or daughter, though some kingdoms may designate a significant advisor (such as a seneschal as Heir. The Heir's time is mostly spent learning to become a ruler—pursuing academic and martial training, touring the kingdom to get to the know the land and its people, experiencing the intrigues of courtly life, and so on.
+The Heir is usually the Ruler's eldest son or daughter, though some kingdoms may designate a significant advisor (such as a seneschal) as Heir. The Heir's time is mostly spent learning to become a ruler—pursuing academic and martial training, touring the kingdom to get to the know the land and its people, experiencing the intrigues of courtly life, and so on.
 
 Because the Heir carries the potential of being the next Ruler, the Heir's role is similar to the Consort in that the Heir may act on behalf of the Ruler.
 
@@ -194,9 +194,9 @@ The Marshal ensures that the kingdom's laws are being enforced in the remote par
 
 **Vacancy Penalty** : Economy decreases by 4.
 
-### Royal [Enforcer](advance_dir/advancedFeats#enforcer
+### Royal [Enforcer](advanced/advancedFeats#enforcer)
 
-The Royal [Enforcer](advance_dir/advancedFeats#enforcer deals with punishing criminals, working with the Councilor to make sure the citizens feel the government is adequately dealing with wrongdoers, and working with the Marshal to capture fugitives from the law. The Royal [Enforcer](advance_dir/advancedFeats#enforcer) may grant civilians the authority to kill in the name of the law.
+The Royal [Enforcer](advance_dir/advancedFeats#enforcer) deals with punishing criminals, working with the Councilor to make sure the citizens feel the government is adequately dealing with wrongdoers, and working with the Marshal to capture fugitives from the law. The Royal [Enforcer](advanced/advancedFeats#enforcer) may grant civilians the authority to kill in the name of the law.
 
 **Benefit** : Add your Dexterity modifier or Strength modifier to Loyalty. During the Upkeep phase, you may decrease Unrest by 1 (this is not affected by having the [Leadership](feats#_leadership) feat); if you do so, you must succeed at a Loyalty check or Loyalty decreases by 1.
 
@@ -206,7 +206,7 @@ The Royal [Enforcer](advance_dir/advancedFeats#enforcer deals with punishing cri
 
 The Spymaster observes the kingdom's criminal elements and underworld and spies on other kingdoms. The Spymaster always has a finger on the pulse of the kingdom's underbelly, and uses acquired information to protect the interests of the kingdom at home and elsewhere through a network of spies and informants.
 
-**Benefit** : During the Edict phase, choose one kingdom attribute (Economy, Loyalty or Stability. Add your Dexterity modifier or Intelligence modifier to this attribute.
+**Benefit** : During the Edict phase, choose one kingdom attribute (Economy, Loyalty or Stability). Add your Dexterity modifier or Intelligence modifier to this attribute.
 
 **Vacancy Penalty** : Economy decreases by 4. During the Upkeep phase, Unrest increases by 1.
 
@@ -220,7 +220,7 @@ The Treasurer monitors the state of the kingdom's Treasury and citizens' confide
 
 ### Viceroy
 
-The Viceroy represents the Ruler's interests on an ongoing basis in a specific location such as a colony or vassal state (see the optional [Vassalage edict](ultimateCampaign/kingdomsAndWa_dir/optionalKingdomRules#_vassalage-edicts)). The Viceroy is in effect the Ruler for that territory; her orders are superceded only by direct commands from the Ruler.
+The Viceroy represents the Ruler's interests on an ongoing basis in a specific location such as a colony or vassal state (see the optional [Vassalage edict](ultimateCampaig_dir/kingdomsAndWar/optionalKingdomRules#_vassalage-edicts)). The Viceroy is in effect the Ruler for that territory; her orders are superceded only by direct commands from the Ruler.
 
 **Benefit** : Add half your Intelligence or Wisdom modifier to Economy. You may assume any leadership role (including Ruler) for your colony or vassal state, but any benefit you provide in this role is 1 less than normal; if you do so, you must spend 7 days that month performing duties appropriate to that leadership role in addition to the 7 days spent for Viceroy duties.
 
@@ -293,5 +293,5 @@ This improved rate depends on the Size of your kingdom, as shown in the followin
 | 51—100 | 3,000 gp | 1,500 gp |
 | 101+ | 4,000 gp | 2,000 gp |
 
-The GM may also allow you to discover a cache of goods worth BP (instead of gp as a reward for adventuring, giving you the seed money to found or support your kingdom.
+The GM may also allow you to discover a cache of goods worth BP (instead of gp) as a reward for adventuring, giving you the seed money to found or support your kingdom.
 

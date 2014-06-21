@@ -1,5 +1,5 @@
 ---
-title: skills/bluff
+title: skill_dir/bluff
 ---
 # Bluff
 

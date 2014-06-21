@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/thunderFire
+title: ultimateComba_dir/spells/thunderFire
 ---
 Thunder Fire
 
@@ -7,7 +7,7 @@ Thunder Fire
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a piece of spent thunderstone
+**Components** V, S, M (a piece of spent thunderstone)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

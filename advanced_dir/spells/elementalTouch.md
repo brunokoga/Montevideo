@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/elementalTouch
+title: advance_dir/spells/elementalTouch
 ---
  **Elemental Touch**
 
@@ -7,13 +7,13 @@ title: advanced/spells/elementalTouch
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a bit of the chosen element: earth, water, air, or fire
+**Components** V, S, M (a bit of the chosen element: earth, water, air, or fire)
 
 **Range** personal
 
 **Target** you
 
-**Duration** 1 roun_dir/level (D)
+**Duration** 1 round/level (D)
 
 **Saving Throw** see text; **Spell Resistance** no
 
@@ -25,7 +25,7 @@ Upon completing the casting of this spell, elemental energy infuses your hands. 
 
 **Electricity** : The target must make a Fortitude save or be staggered for 1 round.
 
-**Fire** : Your hands ignite and shed light as a torch. Your touch may cause targets to catch on fire (_Core Rulebook_ 444.
+**Fire** : Your hands ignite and shed light as a torch. Your touch may cause targets to catch on fire (_Core Rulebook_ 444).
 
 Subsequent attacks inflict the normal damage, but the additional effects do not stack. This spell grants no special protection to anything held in or worn on your hands. When you cast this spell to deal acid, cold, electricity, or fire damage, it is a spell of that type.
 

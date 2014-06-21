@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/blessingOfTheMole
+title: ultimateMagi_dir/spells/blessingOfTheMole
 ---
 Blessing of the Mole
 
@@ -11,11 +11,11 @@ Blessing of the Mole
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Area** 1 creature/level
+**Area** 1 creatur_dir/level
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute/level
 
-**Saving Throw** none (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** none (harmless); **Spell Resistance** yes (harmless)
 
-The targets gain darkvision 30 feet and a +2 competence bonus on [Stealth](skill_dir/stealth#_stealth checks.
+The targets gain darkvision 30 feet and a +2 competence bonus on [Stealth](skill_dir/stealth#_stealth) checks.
 

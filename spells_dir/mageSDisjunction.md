@@ -1,5 +1,5 @@
 ---
-title: spells/mageSDisjunction
+title: spell_dir/mageSDisjunction
 ---
  **Mage's Disjunction**
 
@@ -13,7 +13,7 @@ title: spells/mageSDisjunction
 
 **Area** all magical effects and magic items within a 40-ft.-radius burst, or one magic item (see text)
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** no
 

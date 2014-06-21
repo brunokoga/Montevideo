@@ -1,13 +1,13 @@
 ---
-title: spells/telepathicBond
+title: spell_dir/telepathicBond
 ---
  **Telepathic Bond**
 
-**School** divination; **Level** sorcere_dir/wizard 5
+**School** divination; **Level** sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (two eggshells from two different creatures
+**Components** V, S, M (two eggshells from two different creatures)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

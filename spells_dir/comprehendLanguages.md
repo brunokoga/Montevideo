@@ -1,5 +1,5 @@
 ---
-title: spells/comprehendLanguages
+title: spell_dir/comprehendLanguages
 ---
  **Comprehend Languages**
 

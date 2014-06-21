@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/magi_dir/introduction
+title: ultimateMagi_dir/magic/introduction
 ---
 # Introduction
 
@@ -37,5 +37,5 @@ As with all scholarly practices, wizards and other arcane casters who follow an 
 
 ## [Designing Spells](designingSpells)
 
-While this book contains a host of new spells, you can never have enough variety in your magical arsenal, and one of the great joys of playing a spellcaster (or Game Mastering for one! is designing new spells unique to a given character or situation. This section takes a detailed look at the design process for spells, a delicate balancing act that is as much art as science. How much damage should a spell of a given level do? Is a spell that kills or controls more powerful? Which bonus type should a given spell grant? What spells are good benchmarks to compare your new creation against?
+While this book contains a host of new spells, you can never have enough variety in your magical arsenal, and one of the great joys of playing a spellcaster (or Game Mastering for one!) is designing new spells unique to a given character or situation. This section takes a detailed look at the design process for spells, a delicate balancing act that is as much art as science. How much damage should a spell of a given level do? Is a spell that kills or controls more powerful? Which bonus type should a given spell grant? What spells are good benchmarks to compare your new creation against?
 

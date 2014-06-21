@@ -1,11 +1,11 @@
 ---
-title: ultimateMagic/wordsOfPower/effectword_dir/dispellingWords
+title: ultimateMagi_dir/wordsOfPower/effectword_dir/dispellingWords
 ---
 ## Dispelling Words
 
 Dispelling words have the power to unmake magic or suppress its effects.
 
-Suppress (Dispelling
+Suppress (Dispelling)
 
 **School** abjuration; **Level** bard 2, cleric 2, druid 2, inquisitor 2, magus 2, paladin 2, sorcerer/wizard 2, summoner 2, witch 2
 
@@ -19,7 +19,7 @@ The caster of a wordspell with this effect word selects one spell effect that af
 
 **Boost** : The caster can target creatures that are not willing. The targets receive a saving throw to negate this effect word, and the caster must overcome the target's spell resistance. Boosting this effect word increases its level by 1.
 
-Resist Arcana (Dispelling
+Resist Arcana (Dispelling)
 
 **School** abjuration; **Level** alchemist 5, cleric 5, inquisitor 5, sorcerer/wizard 6, summoner 6
 
@@ -31,9 +31,9 @@ Resist Arcana (Dispelling
 
 The target of a wordspell with this effect word gains spell resistance equal to 12 + the caster's level.
 
-Unmake (Dispelling
+Unmake (Dispelling)
 
-**School** abjuration; **Level** bard 5, cleric 5, druid 5, inquisitor 6, magus 6, sorcere_dir/wizard 5, summoner 6, witch 5
+**School** abjuration; **Level** bard 5, cleric 5, druid 5, inquisitor 6, magus 6, sorcerer/wizard 5, summoner 6, witch 5
 
 **Duration** instantaneous
 
@@ -43,9 +43,9 @@ Unmake (Dispelling
 
 The caster of a wordspell with this effect word unravels all of the magic effects affecting the target of the wordspell with this effect word. The caster must make a caster level check. The result of this check is compared to the caster level + 11 of every spell affecting the target. If successful, that spell effect immediately ends. The target can make a Will saving throw. If successful, this wordspell only attempts to unmake the highest-level spell affecting the target.
 
-Negation (Dispelling
+Negation (Dispelling)
 
-**School** abjuration; **Level** cleric 8, sorcerer/wizard 6
+**School** abjuration; **Level** cleric 8, sorcere_dir/wizard 6
 
 **Duration** 1 round/level
 

@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/break
+title: advance_dir/spells/break
 ---
  **Break**
 
@@ -7,7 +7,7 @@ title: advanced/spells/break
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a twig
+**Components** V, S, M (a twig)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

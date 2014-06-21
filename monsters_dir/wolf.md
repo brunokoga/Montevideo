@@ -11,7 +11,7 @@ _This powerful canine watches its prey with piercing yellow eyes, darting its to
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
@@ -31,17 +31,17 @@ N Medium [animal](creatureTypes#_animal)
 
 **Str** 13, **Dex** 15, **Con** 15, **Int** 2, **Wis** 12, **Cha** 6
 
-**Base Atk** +1; **CMB** +2; **CMD** 14 (18 vs. trip
+**Base Atk** +1; **CMB** +2; **CMD** 14 (18 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth +6, [Survival](../skill_dir/survival#_survival) +1 (+5 scent tracking; **Racial Modifiers** +4 [Survival](../skill_dir/survival#_survival) when tracking by scent
+**Skills** [Perception](../skill_dir/perception#_perception) +8, [Stealth](../skill_dir/stealth#_stealth) +6, [Survival](../skill_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Survival](../skill_dir/survival#_survival) when tracking by scent
 
 **Ecology**
 
 **Environment** cold or temperate forests
 
-**Organization** solitary, pair, or pack (3–12
+**Organization** solitary, pair, or pack (3–12)
 
 **Treasure** none
 
@@ -79,17 +79,17 @@ N Large [animal](creatureTypes#_animal)
 
 **Str** 19, **Dex** 15, **Con** 17, **Int** 2, **Wis** 12, **Cha** 10
 
-**Base Atk** +3; **CMB** +8; **CMD** 20 (24 vs. trip
+**Base Atk** +3; **CMB** +8; **CMD** 20 (24 vs. trip)
 
-**Feats** [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](../skill_dir/perception#_perception +10, [Stealth](../skill_dir/stealth#_stealth +3, [Survival](../skill_dir/survival#_survival) +1 (+5 scent tracking; **Racial Modifiers** +4 [Survival](../skill_dir/survival#_survival) when tracking by scent
+**Skills** [Perception](../skill_dir/perception#_perception) +10, [Stealth](../skill_dir/stealth#_stealth) +3, [Survival](../skill_dir/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Survival](../skill_dir/survival#_survival) when tracking by scent
 
 **Ecology**
 
 **Environment** cold or temperate forests
 
-**Organization** solitary, pair, or pack (3–8
+**Organization** solitary, pair, or pack (3–8)
 
 **Treasure** none
 

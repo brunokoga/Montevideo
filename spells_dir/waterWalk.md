@@ -1,5 +1,5 @@
 ---
-title: spells/waterWalk
+title: spell_dir/waterWalk
 ---
  **Water Walk**
 

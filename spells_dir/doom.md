@@ -1,5 +1,5 @@
 ---
-title: spells/doom
+title: spell_dir/doom
 ---
  **Doom**
 

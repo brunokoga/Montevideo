@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/utterContempt
+title: ultimateMagi_dir/spells/utterContempt
 ---
 Utter Contempt
 
@@ -7,13 +7,13 @@ Utter Contempt
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (spittle
+**Components** V, S, M (spittle)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

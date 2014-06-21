@@ -1,5 +1,5 @@
 ---
-title: monsters/beetle
+title: monster_dir/beetle
 ---
 # Beetle, Fire
 
@@ -33,7 +33,7 @@ N Small [vermin](creatureTypes#_vermin)
 
 **Str** 10, **Dex** 11, **Con** 11, **Int** —, **Wis** 10, **Cha** 7
 
-**Base**  **Atk** +0; **CMB** –1; **CMD** 9 (17 vs. trip
+**Base**  **Atk** +0; **CMB** –1; **CMD** 9 (17 vs. trip)
 
 **Skills** [Fly](../skill_dir/fly#_fly) –2
 
@@ -49,7 +49,7 @@ N Small [vermin](creatureTypes#_vermin)
 
 **Special Abilities**
 
-**Luminescence (Ex** A fire beetle's glowing glands provide light in a 10-foot radius. A dead fire beetle's luminescent glands continue to glow for 1d6 days after its death.
+**Luminescence (Ex)** A fire beetle's glowing glands provide light in a 10-foot radius. A dead fire beetle's luminescent glands continue to glow for 1d6 days after its death.
 
 Although nocturnal, the fire beetle lacks darkvision—it relies on its own glowing glands for illumination. Caged fire beetles are a popular source of long-lasting illumination among eccentrics and miners.
 
@@ -95,7 +95,7 @@ N Large [vermin](creatureTypes#_vermin)
 
 **Str** 19, **Dex** 10, **Con** 15, **Int** —, **Wis** 10, **Cha** 9
 
-**Base**  **Atk** +5; **CMB** +10; **CMD** 20 (28 vs. trip
+**Base**  **Atk** +5; **CMB** +10; **CMD** 20 (28 vs. trip)
 
 **Skills** [Fly](../skill_dir/fly#_fly) –6
 
@@ -113,5 +113,5 @@ Variant species of these giant beetles exist as well. The two detailed below are
 
 **Bombardier Beetle (CR 2)** : This giant stag beetle has only 2 Hit Dice and is Medium sized, but can spray acid once per round in a 10-foot cone. Those in the cone must make a DC 11 Fortitude save or take 1d4+2 points of acid damage. The save DC is Constitution-based.
 
-**Goliath Beetle (CR 8:** The immense goliath beetle is a Huge stag beetle with 12 HD and the trample special ability.
+**Goliath Beetle (CR 8):** The immense goliath beetle is a Huge stag beetle with 12 HD and the trample special ability.
 

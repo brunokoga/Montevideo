@@ -1,7 +1,7 @@
 ---
-title: mythicAdventures/mythicHeroes
+title: mythicAdventure_dir/mythicHeroes
 ---
-[Archmage](mythicAdventures/mythicHeroe_dir/archmage [Champion](mythicAdventures/mythicHeroe_dir/champion [Guardian](mythicAdventures/mythicHeroe_dir/guardian [Heirophant](mythicAdventures/mythicHeroe_dir/hierophant [Marshal](mythicAdventures/mythicHeroe_dir/marshal [Trickster](mythicAdventures/mythicHeroe_dir/trickster)
+[Archmage](mythicAdventures/mythicHeroe_dir/archmage) [Champion](mythicAdventures/mythicHeroe_dir/champion) [Guardian](mythicAdventures/mythicHeroe_dir/guardian) [Heirophant](mythicAdventures/mythicHeroe_dir/hierophant) [Marshal](mythicAdventures/mythicHeroe_dir/marshal) [Trickster](mythicAdventures/mythicHeroe_dir/trickster)
 
 # Mythic Heroes
 
@@ -23,9 +23,9 @@ In either case, there will be a moment in the campaign when you gain mythic powe
 
 ## Mythic Ascension
 
-The moment a character gains her first mythic tier is called the moment of ascension (or simply ascension and is usually concurrent with an extraordinary event. Generally speaking, the GM determines this event, which has many implications on the story of the character. Ascension determines the source of a mythic character's power, and though this doesn't affect the types of abilities she gains, it can influence future choices and roleplaying decisions.
+The moment a character gains her first mythic tier is called the moment of ascension (or simply ascension) and is usually concurrent with an extraordinary event. Generally speaking, the GM determines this event, which has many implications on the story of the character. Ascension determines the source of a mythic character's power, and though this doesn't affect the types of abilities she gains, it can influence future choices and roleplaying decisions.
 
-The GM is free to invent any sort of event to serve as the moment of ascension, as required by the needs of the campaign. [Running a Mythic Game](mythicAdventure_dir/mythicGame) includes more information for GMs to consider when designing the moment of ascension. The following ideas represent some of the most common means of ascension.
+The GM is free to invent any sort of event to serve as the moment of ascension, as required by the needs of the campaign. [Running a Mythic Game](mythicAdventures/mythicGame) includes more information for GMs to consider when designing the moment of ascension. The following ideas represent some of the most common means of ascension.
 
 _Artifact_: The character comes into contact with an unstable artifact that unleashes some of its power into her, granting her mythic power. The mythic character might need to protect the artifact, as it is the source of her power.
 
@@ -41,23 +41,23 @@ _Passed On_: The character is present at the death of a powerful—perhaps even 
 
 Once you gain mythic power, you select a mythic path, which is much like an additional class. It determines the majority of your mythic abilities. But instead of gaining levels in a mythic path, you gain tiers that grant additional abilities and bonuses. Gaining a tier in a path doesn't replace gaining experience and character levels. You still receive experience points for defeating challenges, but these apply only to your class levels. You gain additional mythic tiers by completing a number of trials; see Gaining Tiers.
 
-Each path grants a number of specific abilities. In addition, all mythic characters have certain mythic abilities in common (see the Base Mythic Abilities table. As soon as your mythic character achieves a new tier, you must select all of the new powers that come with that tier.
+Each path grants a number of specific abilities. In addition, all mythic characters have certain mythic abilities in common (see the Base Mythic Abilities table). As soon as your mythic character achieves a new tier, you must select all of the new powers that come with that tier.
 
 # Mythic Paths
 
 Every mythic character belongs to a mythic path. Each path represents a journey into legend, and each tier in that path grants abilities and features related to that pursuit. Upon achieving his 1st mythic tier, a character must choose one mythic path to follow. Characters can choose from the following mythic paths.
 
-[**Archmage**](mythicAdventures/mythicHeroe_dir/archmage: A master of arcane magic, the archmage casts powerful spells with great skill and ease, and shapes reality at whim. The powers of the archmage allow her to alter her spells, penetrate foes' defenses, and master nearly any subject. While many of the archmage's abilities are most valuable to a character with a high Intelligence score, those with high Charisma scores will also find a wide variety of powerful options. The path of the archmage is suitable for arcane spellcasters.
+[**Archmage**](mythicAdventure_dir/mythicHeroes/archmage): A master of arcane magic, the archmage casts powerful spells with great skill and ease, and shapes reality at whim. The powers of the archmage allow her to alter her spells, penetrate foes' defenses, and master nearly any subject. While many of the archmage's abilities are most valuable to a character with a high Intelligence score, those with high Charisma scores will also find a wide variety of powerful options. The path of the archmage is suitable for arcane spellcasters.
 
-[**Champion**](mythicAdventures/mythicHeroe_dir/champion: Unparalleled in combat, the champion stands triumphant on the battlefield, surrounded by bruised and broken foes. The abilities of the champion allow him to deliver strikes more accurately, perform astounding combat maneuvers, and move effortlessly around the battlefield. Characters with a high Strength score will find this path extremely useful, as will those with a high Constitution score. The path of the champion is suitable for characters who rely on martial arms and combat maneuvers.
+[**Champion**](mythicAdventure_dir/mythicHeroes/champion): Unparalleled in combat, the champion stands triumphant on the battlefield, surrounded by bruised and broken foes. The abilities of the champion allow him to deliver strikes more accurately, perform astounding combat maneuvers, and move effortlessly around the battlefield. Characters with a high Strength score will find this path extremely useful, as will those with a high Constitution score. The path of the champion is suitable for characters who rely on martial arms and combat maneuvers.
 
-[**Guardian**](mythicAdventures/mythicHeroe_dir/guardian: None can get past the impervious guardian—those who threaten this devout hero's charges are doomed to fail. The powers of the guardian allow her to hold her ground, protect her allies, prevent enemies from moving past her, and survive hits that would defeat lesser heroes. Characters that have a high Constitution score and frequently find themselves in the middle of combat gain valuable powers by becoming a guardian. The path of the guardian is suitable for those who routinely sustain massive amounts of damage.
+[**Guardian**](mythicAdventure_dir/mythicHeroes/guardian): None can get past the impervious guardian—those who threaten this devout hero's charges are doomed to fail. The powers of the guardian allow her to hold her ground, protect her allies, prevent enemies from moving past her, and survive hits that would defeat lesser heroes. Characters that have a high Constitution score and frequently find themselves in the middle of combat gain valuable powers by becoming a guardian. The path of the guardian is suitable for those who routinely sustain massive amounts of damage.
 
-[**Hierophant**](mythicAdventures/mythicHeroe_dir/hierophant: Drawing on power that goes beyond the gods, the hierophant is an inviolate vessel for the divine. The abilities of the hierophant allow him to enhance the power of his spells, heal others with greater potency, and commune with the gods. Most characters that become hierophants have a high Wisdom score, although many also have an above-average Charisma score. The path of the hierophant is suitable for divine spellcasters.
+[**Hierophant**](mythicAdventure_dir/mythicHeroes/hierophant): Drawing on power that goes beyond the gods, the hierophant is an inviolate vessel for the divine. The abilities of the hierophant allow him to enhance the power of his spells, heal others with greater potency, and commune with the gods. Most characters that become hierophants have a high Wisdom score, although many also have an above-average Charisma score. The path of the hierophant is suitable for divine spellcasters.
 
-[**Marshal**](mythicAdventures/mythicHeroe_dir/marshal: Inspiration and courage make the marshal the greatest leader, capable of leading troops to victory over any challenge. The powers of the marshal allow her to inspire others, which grants bonuses and additional opportunities to all of her comrades. Characters with a high Charisma score and an above-average Intelligence score will gain a variety of useful abilities by becoming marshals. The path of the marshal is suitable for those who continually aid others.
+[**Marshal**](mythicAdventure_dir/mythicHeroes/marshal): Inspiration and courage make the marshal the greatest leader, capable of leading troops to victory over any challenge. The powers of the marshal allow her to inspire others, which grants bonuses and additional opportunities to all of her comrades. Characters with a high Charisma score and an above-average Intelligence score will gain a variety of useful abilities by becoming marshals. The path of the marshal is suitable for those who continually aid others.
 
-[**Trickster**](mythicAdventures/mythicHeroe_dir/trickster): Skill, training, and savvy make the trickster the master of the impossible—defying unbeatable obstacles and traps, tricking the wise, and hitting otherwise unattainable targets. The trickster's abilities allow him to change his appearance, manipulate others, and strike with deadly accuracy. Characters with high Dexterity and Charisma scores have a lot to gain from becoming tricksters. The path of the trickster is suitable for those who rely on subterfuge and cunning.
+[**Trickster**](mythicAdventure_dir/mythicHeroes/trickster): Skill, training, and savvy make the trickster the master of the impossible—defying unbeatable obstacles and traps, tricking the wise, and hitting otherwise unattainable targets. The trickster's abilities allow him to change his appearance, manipulate others, and strike with deadly accuracy. Characters with high Dexterity and Charisma scores have a lot to gain from becoming tricksters. The path of the trickster is suitable for those who rely on subterfuge and cunning.
 
 [Base Mythic Abilities]
 | Mythic Tier | Ability Score | Mythic Feat | Base Mythic Abilities |
@@ -83,7 +83,7 @@ Every mythic PC gains a number of base abilities common to all mythic characters
 
 **Hard to Kill (Ex)** : Whenever you're below 0 hit points, you automatically stabilize without needing to attempt a Constitution check. If you have an ability that allows you to act while below 0 hit points, you still lose hit points for taking actions, as specified by that ability. Bleed damage still causes you to lose hit points when below 0 hit points. In addition, you don't die until your total number of negative hit points is equal to or greater than double your Constitution score.
 
-**Mythic Power (Su** : Mythic characters can draw upon a wellspring of power to accomplish amazing deeds and cheat fate. This power is used by a number of different abilities. Each day, you can expend an amount of mythic power equal to 3 plus double your mythic tier (5/day at 1st tier, 7/day at 2nd, etc.). This amount is your maximum amount of mythic power. If an ability allows you to regain uses of your mythic power, you can never have more than this amount.
+**Mythic Power (Su)** : Mythic characters can draw upon a wellspring of power to accomplish amazing deeds and cheat fate. This power is used by a number of different abilities. Each day, you can expend an amount of mythic power equal to 3 plus double your mythic tier (5/day at 1st tier, 7/day at 2nd, etc.). This amount is your maximum amount of mythic power. If an ability allows you to regain uses of your mythic power, you can never have more than this amount.
 
 **Surge (Su)** : You can call upon your mythic power to overcome difficult challenges. You can expend one use of mythic power to increase any d20 roll you just made by rolling 1d6 and adding it to the result. Using this ability is an immediate action taken after the result of the original roll is revealed. This can change the outcome of the roll. The bonus die gained by using this ability increases to 1d8 at 4th tier, 1d10 at 7th tier, and 1d12 at 10th tier.
 
@@ -133,7 +133,7 @@ In addition to the abilities granted to specific paths, mythic characters can se
 
 You can select these path abilities at any tier.
 
-**Commune with Power (Su** : You can tap into your mythic nature to seek answers to the quandaries you encounter in your adventures. Once per day, in a special ritual that requires you to spend 1 hour of uninterrupted meditation, you can commune with the source of your power. This acts as the _ [commune](spell_dir/commune#_commune)_ spell, using your tier as your caster level. The source of your power may be limited in the knowledge it possesses or can deliver, as decided upon by the GM.
+**Commune with Power (Su)** : You can tap into your mythic nature to seek answers to the quandaries you encounter in your adventures. Once per day, in a special ritual that requires you to spend 1 hour of uninterrupted meditation, you can commune with the source of your power. This acts as the _ [commune](spells/commune#_commune)_ spell, using your tier as your caster level. The source of your power may be limited in the knowledge it possesses or can deliver, as decided upon by the GM.
 
 **Display of Charisma (Su)** : As a free action, you can expend one use of mythic power to attempt a feat of Charisma, gaining a +20 circumstance bonus on one Charisma-based skill check or Charisma ability check.
 
@@ -151,11 +151,11 @@ You can select these path abilities at any tier.
 
 **Extra Mythic Power (Su)** : You can call upon your mythic power two additional times per day. You can select this ability up to three times.
 
-**Legendary Item (Ex** : You gain a [legendary item](mythicAdventures/mythicItem_dir/legendaryItems#_legendary-items). This item grants a number of abilities equal to your tier (maximum 3). At 3rd tier, you can select this ability again, increasing the maximum to six abilities and causing the item to become a lesser artifact. At 6th tier, you can select this ability again, increasing the maximum to 10 abilities; the item then becomes a greater artifact.
+**Legendary Item (Ex)** : You gain a [legendary item](mythicAdventure_dir/mythicItems/legendaryItems#_legendary-items). This item grants a number of abilities equal to your tier (maximum 3). At 3rd tier, you can select this ability again, increasing the maximum to six abilities and causing the item to become a lesser artifact. At 6th tier, you can select this ability again, increasing the maximum to 10 abilities; the item then becomes a greater artifact.
 
 **Longevity (Su)** : Upon taking this ability, you can no longer die from old age. If you have penalties to your physical ability scores due to aging, you no longer take those penalties. You still continue to age, and you gain all the benefits to your mental ability scores.
 
-**Mythic Craft (Ex** : When you use the [Craft](skill_dir/craft#_craft) skill to create an item, you double the progress each check provides. In addition, you can make an item masterwork simply by paying for the cost, and don't need to increase the time to create the item or attempt additional checks. Add your tier to any skill checks associated with making magic items.
+**Mythic Craft (Ex)** : When you use the [Craft](skill_dir/craft#_craft) skill to create an item, you double the progress each check provides. In addition, you can make an item masterwork simply by paying for the cost, and don't need to increase the time to create the item or attempt additional checks. Add your tier to any skill checks associated with making magic items.
 
 **Mythic Spellcasting (Ex)** : You can learn a number of mythic spells equal to your tier and can expend mythic power when casting them to enhance the results. To select a mythic spell, you must be able to cast the non-mythic version or have it on your list of spells known. Every time you gain a new tier, you can select an additional mythic spell. You can take this ability up to three times. Each additional time you take it, you can select an additional number of spells equal to your tier and you gain one additional mythic spell whenever you gain a tier.
 
@@ -191,11 +191,11 @@ You must be at least 3rd tier to select these path abilities.
 
 You must be at least 6th tier to select these path abilities.
 
-**Farwalker (Sp** : The boundaries of the Material Plane mean little to you. You can _ [plane shift](spell_dir/planeShift#_plane-shift) _once per day, using double your tier as your caster level. You can take this ability twice. When you take it a second time, you can use this ability three times per day.
+**Farwalker (Sp)** : The boundaries of the Material Plane mean little to you. You can _ [plane shift](spells/planeShift#_plane-shift) _once per day, using double your tier as your caster level. You can take this ability twice. When you take it a second time, you can use this ability three times per day.
 
 **Mythic Presence (Su)** : Your power unnerves ordinary mortals. By expending one use of mythic power, you gain an effect similar to frightful presence, except that creatures are affected according to their tier (or rank, in the case of monsters) instead of their Hit Dice. Non-mythic creatures that fail their saves are panicked for 1 minute, and those that succeed are shaken for 1 minute. Creatures with a mythic tier or rank equal to or less than your tier are unaffected if they succeed, and are shaken for 1 minute if they fail. Creatures with a mythic tier or rank higher than yours are unaffected by your mythic presence. The Will save against your mythic presence equals 10 + your tier + your Charisma modifier. This ability lasts for 1 minute and has a range of 30 feet.
 
-**Mythic Sight (Sp** : When you take this ability, you gain blindsense out to a range of 30 feet. You can take this ability twice. The second time you take it, you can see illusions and magical deceptions for what they truly are, as if using _ [true seeing](spell_dir/trueSeeing#_true-seeing)_. This ability doesn't apply to illusions and magical effects that were cast by other mythic creatures or that are affecting other mythic creatures. If this ability is dispelled, you can resume it as a free action.
+**Mythic Sight (Sp)** : When you take this ability, you gain blindsense out to a range of 30 feet. You can take this ability twice. The second time you take it, you can see illusions and magical deceptions for what they truly are, as if using _ [true seeing](spell_dir/trueSeeing#_true-seeing)_. This ability doesn't apply to illusions and magical effects that were cast by other mythic creatures or that are affecting other mythic creatures. If this ability is dispelled, you can resume it as a free action.
 
-**Tongues (Sp** : You can understand and speak any language, as the _ [tongues](spell_dir/tongues#_tongues_ spell. If this ability is dispelled, you can resume it as a free action.
+**Tongues (Sp)** : You can understand and speak any language, as the _ [tongues](spells/tongues#_tongues)_ spell. If this ability is dispelled, you can resume it as a free action.
 

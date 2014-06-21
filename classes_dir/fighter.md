@@ -1,5 +1,5 @@
 ---
-title: classes/fighter
+title: classe_dir/fighter
 ---
 # Fighter
 
@@ -13,7 +13,7 @@ Some take up arms for glory, wealth, or revenge. Others do battle to prove thems
 
 ## Class Skills
 
-The fighter's class skills are [Climb](../skill_dir/climb#_climb ( [Str](../gettingStarted#_strength)), [Craft](../skill_dir/craft#_craft ( [Int](../gettingStarted#_intelligence)), [Handle Animal](../skill_dir/handleAnimal#_handle-animal ( [Cha](../gettingStarted#_charisma-new)), [Intimidate](../skill_dir/intimidate#_intimidate ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skill_dir/knowledge#_knowledge) (dungeoneering ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skill_dir/knowledge#_knowledge) (engineering ( [Int](../gettingStarted#_intelligence)), [Profession](../skill_dir/profession#_profession ( [Wis](../gettingStarted#_wisdom)), [Ride](../skill_dir/ride#_ride ( [Dex](../gettingStarted#_dexterity)), [Survival](../skill_dir/survival#_survival ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skill_dir/swim#_swim ( [Str](../gettingStarted#_strength)).
+The fighter's class skills are [Climb](../skill_dir/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skill_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Handle Animal](../skill_dir/handleAnimal#_handle-animal) ( [Cha](../gettingStarted#_charisma-new)), [Intimidate](../skill_dir/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skill_dir/knowledge#_knowledge) (dungeoneering) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skill_dir/knowledge#_knowledge) (engineering) ( [Int](../gettingStarted#_intelligence)), [Profession](../skill_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skill_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Survival](../skill_dir/survival#_survival) ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skill_dir/swim#_swim) ( [Str](../gettingStarted#_strength)).
 
 **Skill Ranks per Level** : 2 + [Int](../gettingStarted#_intelligence) modifier.
 

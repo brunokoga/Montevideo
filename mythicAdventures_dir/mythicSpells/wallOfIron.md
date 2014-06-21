@@ -1,5 +1,5 @@
 ---
-title: mythicAdventures/mythicSpells/wallOfIron
+title: mythicAdventure_dir/mythicSpells/wallOfIron
 ---
 Wall of Iron
 
@@ -11,5 +11,5 @@ The wall is 1 inch thick per 2 caster levels. If you create an unattached wall, 
 
 The wall's CMB is equal to your caster level plus your tier. If the combat maneuver succeeds, the creature is pulled 5 feet closer to the wall. The wall gains a +5 bonus on its combat maneuver check if the creature is within 5 feet. If the wall succeeds at its check against a creature within 5 feet, the creature is pulled up against the wall and is treated as grappled.
 
-Dropping metal items or removing metal armor allows a creature to free itself from the wall. The magnetic charge fades after 1 hour per tier. Wrenching an item away from the wall requires a successful Strength check (DC 10 + the wall's CMB.
+Dropping metal items or removing metal armor allows a creature to free itself from the wall. The magnetic charge fades after 1 hour per tier. Wrenching an item away from the wall requires a successful Strength check (DC 10 + the wall's CMB).
 

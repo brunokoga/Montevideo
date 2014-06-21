@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/fireOfVengeance
+title: advance_dir/spells/fireOfVengeance
 ---
  **Fire of Vengeance**
 

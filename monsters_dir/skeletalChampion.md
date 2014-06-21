@@ -11,7 +11,7 @@ _This armored skeleton stands in a battle-ready pose, its weapon held high as co
 
 Human skeletal champion warrior 1
 
-NE Medium [undead](creatureTypes#_undead
+NE Medium [undead](creatureTypes#_undead)
 
 **Init** +5; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +6
 
@@ -21,7 +21,7 @@ NE Medium [undead](creatureTypes#_undead
 
 **hp** 17 (3 HD; 2d8+1d10+3)
 
-**Fort** +3 **Ref** +1 **Will** +3; [channel resistance](universalMonsterRules#_channel-resistance +4
+**Fort** +3 **Ref** +1 **Will** +3; [channel resistance](universalMonsterRules#_channel-resistance) +4
 
 **DR** 5/bludgeoning; **Immune** cold, [undead traits](universalMonsterRules#_undead-traits)
 
@@ -39,7 +39,7 @@ NE Medium [undead](creatureTypes#_undead
 
 **Feats** [Cleave](../feats#_cleave), [Improved Initiative](../feats#_improved-initiative)B, [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (longsword)
 
-**Skills** [Intimidate](../skill_dir/intimidate#_intimidate +7, [Perception](../skill_dir/perception#_perception +6, [Stealth](../skill_dir/stealth#_stealth) –1
+**Skills** [Intimidate](../skill_dir/intimidate#_intimidate) +7, [Perception](../skill_dir/perception#_perception) +6, [Stealth](../skill_dir/stealth#_stealth) –1
 
 **Ecology**
 
@@ -63,7 +63,7 @@ Some skeletons retain their intelligence and cunning, making them formidable war
 
 **Armor Class** : Natural armor as [per skeleton](skeleton).
 
-**Hit Dice:** Change all of the creature's racial HD to d8s, then add 2 racial Hit Dice to this total (creatures without racial HD gain 2. HD from class levels are unchanged.
+**Hit Dice:** Change all of the creature's racial HD to d8s, then add 2 racial Hit Dice to this total (creatures without racial HD gain 2). HD from class levels are unchanged.
 
 **Defensive Abilities** : A skeletal champion gains DR 5/bludgeoning, channel resistance +4, and immunity to cold. It also gains all of the standard undead traits.
 
@@ -75,7 +75,7 @@ Some skeletons retain their intelligence and cunning, making them formidable war
 
 **BAB** : Its BAB for racial HD equals 3/4 of its HD.
 
-**Skills** : Gains skill ranks per racial Hit Die equal to 4 + its Int modifier. Class skills for racial HD are [Climb](../skill_dir/climb#_climb, [Disguise](../skill_dir/disguise#_disguise, [Fly](../skill_dir/fly#_fly, [Intimidate](../skill_dir/intimidate#_intimidate, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana, [Knowledge](../skill_dir/knowledge#_knowledge) (religion, [Perception](../skill_dir/perception#_perception, [Sense Motive](../skill_dir/senseMotive#_sense-motive, [Spellcraft](../skill_dir/spellcraft#_spellcraft, and [Stealth](../skill_dir/stealth#_stealth. Skills gained from class levels remain unchanged.
+**Skills** : Gains skill ranks per racial Hit Die equal to 4 + its Int modifier. Class skills for racial HD are [Climb](../skill_dir/climb#_climb), [Disguise](../skill_dir/disguise#_disguise), [Fly](../skill_dir/fly#_fly), [Intimidate](../skill_dir/intimidate#_intimidate), [Knowledge](../skill_dir/knowledge#_knowledge) (arcana), [Knowledge](../skill_dir/knowledge#_knowledge) (religion), [Perception](../skill_dir/perception#_perception), [Sense Motive](../skill_dir/senseMotive#_sense-motive), [Spellcraft](../skill_dir/spellcraft#_spellcraft), and [Stealth](../skill_dir/stealth#_stealth). Skills gained from class levels remain unchanged.
 
 **Feats** : A skeletal champion gains [Improved Initiative](../feats#_improved-initiative) as a bonus feat.
 

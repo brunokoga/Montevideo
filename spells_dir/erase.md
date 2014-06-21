@@ -1,5 +1,5 @@
 ---
-title: spells/erase
+title: spell_dir/erase
 ---
  **Erase**
 

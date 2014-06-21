@@ -25,7 +25,7 @@ Offense
 
 **Speed** 40 ft., climb 20 ft.
 
-**Melee** bite +5 (1d6+1), 2 claws +5 (1d4+1
+**Melee** bite +5 (1d6+1), 2 claws +5 (1d4+1)
 
 **Ranged** longbow +6 (1d8/×3)
 
@@ -41,9 +41,9 @@ Statistics
 
 **Base Atk** +4; **CMB** +5; **CMD** 18
 
-**Feats** [Dodge](feats#_dodge), [Mobility](feats#_mobility
+**Feats** [Dodge](feats#_dodge), [Mobility](feats#_mobility)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +9 (+13 when jumping, [Climb](skill_dir/climb#_climb +16, [Perception](skill_dir/perception#_perception +10, [Stealth](skill_dir/stealth#_stealth) +13 (+19 in forests and jungles; **Racial Modifiers** +2 [Perception](skill_dir/perception#_perception, +4 [Stealth](skill_dir/stealth#_stealth) (+10 in forests and jungles)
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +9 (+13 when jumping), [Climb](skill_dir/climb#_climb) +16, [Perception](skills/perception#_perception) +10, [Stealth](skill_dir/stealth#_stealth) +13 (+19 in forests and jungles); **Racial Modifiers** +2 [Perception](skills/perception#_perception), +4 [Stealth](skill_dir/stealth#_stealth) (+10 in forests and jungles)
 
 **Languages** Kech
 
@@ -53,7 +53,7 @@ Ecology
 
 **Organization** solitary, pair, or tribe (3–36 plus 2–6 dire apes)
 
-**Treasure** standard (longbow with 20 arrows, other treasure
+**Treasure** standard (longbow with 20 arrows, other treasure)
 
 Not quite man nor ape, the kech is a hairless primate that dwells in the deepest jungles. There they live in sizable tribes, relying upon their uncanny coloration and skill with bows to hunt prey. The green-and-brown camouflage coloration of a kech's flesh shifts and adapts to all surroundings to aid in stealth, but works particularly well in forests or jungles. This, combined with its uncanny ability to move through any terrain and leave no trace of its passage, makes the kech a masterful ambush hunter. A kech is 6 feet tall and weighs 240 pounds.
 

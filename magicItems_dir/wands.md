@@ -12,7 +12,7 @@ title: magicItem_dir/wands
 | — | 61–100 | 01–60 | 3rd | 5th |
 | — | — | 61–100 | 4th | 7th |
 
-A wand is a thin baton that contains a single spell of 4th level or lower. A wand has 50 charges when created—each charge allows the use of the wand's spell one time. A wand that runs out of charges is just a stick. The price of a wand is equal to the level of the spell × the creator's caster level × 750 gp. If the wand has a material component cost, it is added to the base price and cost to create once for each charge (50 × material component cost. Table: Wands gives sample prices for wands created at the lowest possible caster level for each spellcasting class. Note that some spells appear at different levels for different casters. The level of such spells depends on the caster crafting the wand.
+A wand is a thin baton that contains a single spell of 4th level or lower. A wand has 50 charges when created—each charge allows the use of the wand's spell one time. A wand that runs out of charges is just a stick. The price of a wand is equal to the level of the spell × the creator's caster level × 750 gp. If the wand has a material component cost, it is added to the base price and cost to create once for each charge (50 × material component cost). Table: Wands gives sample prices for wands created at the lowest possible caster level for each spellcasting class. Note that some spells appear at different levels for different casters. The level of such spells depends on the caster crafting the wand.
 
 [Wand Costs]
 | Spell Level | Cleric, Druid, Wizard | Sorcerer | Bard | Paladin, Ranger |

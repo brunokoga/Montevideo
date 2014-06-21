@@ -1,13 +1,13 @@
 ---
-title: spells/circleOfDeath
+title: spell_dir/circleOfDeath
 ---
  **Circle of Death**
 
-**School** necromancy [death]; **Level** sorcere_dir/wizard 6
+**School** necromancy [death]; **Level** sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a crushed black pearl worth 500 gp
+**Components** V, S, M (a crushed black pearl worth 500 gp)
 
 **Range** medium (100 ft. + 10 ft./level)
 

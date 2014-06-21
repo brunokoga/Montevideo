@@ -1,5 +1,5 @@
 ---
-title: spells/spikeGrowth
+title: spell_dir/spikeGrowth
 ---
  **Spike Growth**
 
@@ -11,9 +11,9 @@ title: spells/spikeGrowth
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Area** one 20-ft. square/level
+**Area** one 20-ft. squar_dir/level
 
-**Duration** 1 hou_dir/level (D
+**Duration** 1 hour/level (D)
 
 **Saving Throw** [Reflex](../combat#_reflex) partial; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

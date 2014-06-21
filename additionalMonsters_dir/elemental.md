@@ -19,51 +19,51 @@ Ecology
 
 Special Abilities
 
-**Ice Glide (Su** A burrowing ice [elemental](monster_dir/creatureTypes#_elemental-subtype can pass through nonmagical ice and snow as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A _ [control water](additionalMonsters/../spell_dir/controlWater#_control-water_ spell cast on an area containing a burrowing ice [elemental](monster_dir/creatureTypes#_elemental-subtype flings the [elemental](monster_dir/creatureTypes#_elemental-subtype) back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+**Ice Glide (Su)** A burrowing ice [elemental](monsters/creatureTypes#_elemental-subtype) can pass through nonmagical ice and snow as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A _ [control water](additionalMonster_dir/../spell_dir/controlWater#_control-water)_ spell cast on an area containing a burrowing ice [elemental](monsters/creatureTypes#_elemental-subtype) flings the [elemental](monster_dir/creatureTypes#_elemental-subtype) back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
 
-**Icewalking (Ex** This ability works like the _ [spider climb](additionalMonsters/../spell_dir/spiderClimb#_spider-climb_ spell, but the surfaces the [elemental](monster_dir/creatureTypes#_elemental-subtype climbs must be icy. The [elemental](monster_dir/creatureTypes#_elemental-subtype can move across icy surfaces without penalty and does not need to make [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics checks to run or charge on ice.
+**Icewalking (Ex)** This ability works like the _ [spider climb](additionalMonsters/../spell_dir/spiderClimb#_spider-climb)_ spell, but the surfaces the [elemental](monsters/creatureTypes#_elemental-subtype) climbs must be icy. The [elemental](monster_dir/creatureTypes#_elemental-subtype) can move across icy surfaces without penalty and does not need to make [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics) checks to run or charge on ice.
 
-**Numbing [Cold](monster_dir/creatureTypes#_cold-subtype) (Su** When an ice [elemental](monster_dir/creatureTypes#_elemental-subtype deals [cold](monster_dir/creatureTypes#_cold-subtype damage to a creature, that creature must succeed on a Fortitude save or be staggered for 1 round. The save DC is listed in the [elemental](monster_dir/creatureTypes#_elemental-subtype)'s stat block and is Constitution-based.
+**Numbing [Cold](monsters/creatureTypes#_cold-subtype) (Su)** When an ice [elemental](monster_dir/creatureTypes#_elemental-subtype) deals [cold](monsters/creatureTypes#_cold-subtype) damage to a creature, that creature must succeed on a Fortitude save or be staggered for 1 round. The save DC is listed in the [elemental](monster_dir/creatureTypes#_elemental-subtype)'s stat block and is Constitution-based.
 
-**Snow Vision (Ex** An ice [elemental](monster_dir/creatureTypes#_elemental-subtype can see perfectly well in snowy conditions and does not take any penalties on [Perception](additionalMonsters/../skill_dir/perception#_perception checks while in snow.
+**Snow Vision (Ex)** An ice [elemental](monsters/creatureTypes#_elemental-subtype) can see perfectly well in snowy conditions and does not take any penalties on [Perception](additionalMonster_dir/../skill_dir/perception#_perception) checks while in snow.
 
 Small Ice ElementalCR 1
 
 **XP 400**
 
-N Small [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Small [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [cold](monsters/creatureTypes#_cold-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), water)
 
-**Init** –1; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
+**Init** –1; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +5
 
 Defense
 
 **AC** 16, touch 10, flat-footed 16 (–1 Dex, +6 natural, +1 size)
 
-**hp** 13 (2d10+2
+**hp** 13 (2d10+2)
 
 **Fort** +4, **Ref** +2, **Will** +0
 
-**Immune** [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**Immune** [cold](monsters/creatureTypes#_cold-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype) traits
 
-**Weaknesses** vulnerable to [fire](monster_dir/creatureTypes#_fire-subtype)
+**Weaknesses** vulnerable to [fire](monsters/creatureTypes#_fire-subtype)
 
 Offense
 
-**Speed** 20 ft., burrow (ice and snow only 20 ft., swim 60 ft.
+**Speed** 20 ft., burrow (ice and snow only) 20 ft., swim 60 ft.
 
-**Melee** slam +4 (1d4+1 plus 1d3 [cold](monster_dir/creatureTypes#_cold-subtype)
+**Melee** slam +4 (1d4+1 plus 1d3 [cold](monster_dir/creatureTypes#_cold-subtype))
 
-**Special Attacks** numbing [cold](monster_dir/creatureTypes#_cold-subtype) (DC 12)
+**Special Attacks** numbing [cold](monsters/creatureTypes#_cold-subtype) (DC 12)
 
 Statistics
 
 **Str** 12, **Dex** 8, **Con** 13, **Int** 4, **Wis** 11, **Cha** 11
 
-**Base Atk** +2; **CMB** +2; **CMD** 11 (can't be tripped
+**Base Atk** +2; **CMB** +2; **CMD** 11 (can't be tripped)
 
-**Feats** [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +2, [Perception](additionalMonsters/../skill_dir/perception#_perception +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +8, [Swim](additionalMonsters/../skill_dir/swim#_swim +9
+**Skills** [Knowledge](additionalMonster_dir/../skill_dir/knowledge#_knowledge) (planes) +2, [Perception](additionalMonsters/../skill_dir/perception#_perception) +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +8, [Swim](additionalMonsters/../skill_dir/swim#_swim) +9
 
 **SQ** ice glide, icewalking
 
@@ -71,39 +71,39 @@ Medium Ice ElementalCR 3
 
 **XP 800**
 
-N Medium [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Medium [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [cold](monsters/creatureTypes#_cold-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), water)
 
-**Init** +0; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
+**Init** +0; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +7
 
 Defense
 
 **AC** 16, touch 10, flat-footed 16 (+6 natural)
 
-**hp** 30 (4d10+8
+**hp** 30 (4d10+8)
 
 **Fort** +6, **Ref** +4, **Will** +1
 
-**Immune** [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**Immune** [cold](monsters/creatureTypes#_cold-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype) traits
 
-**Weaknesses** vulnerable to [fire](monster_dir/creatureTypes#_fire-subtype)
+**Weaknesses** vulnerable to [fire](monsters/creatureTypes#_fire-subtype)
 
 Offense
 
-**Speed** 20 ft., burrow (ice and snow only 20 ft., swim 60 ft.
+**Speed** 20 ft., burrow (ice and snow only) 20 ft., swim 60 ft.
 
-**Melee** slam +7 (1d6+4 plus 1d4 [cold](monster_dir/creatureTypes#_cold-subtype)
+**Melee** slam +7 (1d6+4 plus 1d4 [cold](monster_dir/creatureTypes#_cold-subtype))
 
-**Special Attacks** numbing [cold](monster_dir/creatureTypes#_cold-subtype) (DC 14)
+**Special Attacks** numbing [cold](monsters/creatureTypes#_cold-subtype) (DC 14)
 
 Statistics
 
 **Str** 16, **Dex** 10, **Con** 15, **Int** 4, **Wis** 11, **Cha** 11
 
-**Base Atk** +4; **CMB** +7; **CMD** 17 (can't be tripped
+**Base Atk** +4; **CMB** +7; **CMD** 17 (can't be tripped)
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Cleave](additionalMonster_dir/../feats#_cleave), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +4, [Perception](additionalMonsters/../skill_dir/perception#_perception +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +7, [Swim](additionalMonsters/../skill_dir/swim#_swim +11
+**Skills** [Knowledge](additionalMonster_dir/../skill_dir/knowledge#_knowledge) (planes) +4, [Perception](additionalMonsters/../skill_dir/perception#_perception) +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +7, [Swim](additionalMonsters/../skill_dir/swim#_swim) +11
 
 **SQ** ice glide, icewalking
 
@@ -111,27 +111,27 @@ Large Ice ElementalCR 5
 
 **XP 1,600**
 
-N Large [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Large [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [cold](monsters/creatureTypes#_cold-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), water)
 
-**Init** +5; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +11
+**Init** +5; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +11
 
 Defense
 
 **AC** 17, touch 10, flat-footed 16 (+1 Dex, +7 natural, –1 size)
 
-**hp** 68 (8d10+24
+**hp** 68 (8d10+24)
 
 **Fort** +9, **Ref** +7, **Will** +2
 
-**DR** 5/—; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 5/—; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype), [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
 **Weaknesses** vulnerable to [fire](monster_dir/creatureTypes#_fire-subtype)
 
 Offense
 
-**Speed** 20 ft., burrow (ice and snow only 20 ft., swim 60 ft.
+**Speed** 20 ft., burrow (ice and snow only) 20 ft., swim 60 ft.
 
-**Melee** 2 slams +12 (1d8+5 plus 1d6 [cold](monster_dir/creatureTypes#_cold-subtype)
+**Melee** 2 slams +12 (1d8+5 plus 1d6 [cold](monsters/creatureTypes#_cold-subtype))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -141,11 +141,11 @@ Statistics
 
 **Str** 20, **Dex** 12, **Con** 17, **Int** 6, **Wis** 11, **Cha** 11
 
-**Base Atk** +8; **CMB** +14; **CMD** 25 (can't be tripped
+**Base Atk** +8; **CMB** +14; **CMD** 25 (can't be tripped)
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Great Cleave](additionalMonsters/../feats#_great-cleave), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Great Cleave](additionalMonster_dir/../feats#_great-cleave), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +11, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +9, [Perception](additionalMonsters/../skill_dir/perception#_perception +11, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +8, [Swim](additionalMonsters/../skill_dir/swim#_swim +13
+**Skills** [Intimidate](additionalMonster_dir/../skill_dir/intimidate#_intimidate) +11, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +9, [Perception](additionalMonsters/../skill_dir/perception#_perception) +11, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +8, [Swim](additionalMonsters/../skill_dir/swim#_swim) +13
 
 **SQ** ice glide, icewalking
 
@@ -153,27 +153,27 @@ Huge Ice ElementalCR 7
 
 **XP 3,200**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [cold](monsters/creatureTypes#_cold-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), water)
 
-**Init** +7; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
+**Init** +7; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +13
 
 Defense
 
 **AC** 20, touch 12, flat-footed 16 (+3 Dex, +1 dodge, +8 natural, –2 size)
 
-**hp** 95 (10d10+40
+**hp** 95 (10d10+40)
 
 **Fort** +11, **Ref** +10, **Will** +3
 
-**DR** 5/—; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 5/—; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype), [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
 **Weaknesses** vulnerable to [fire](monster_dir/creatureTypes#_fire-subtype)
 
 Offense
 
-**Speed** 20 ft., burrow (ice and snow only 20 ft., swim 60 ft.
+**Speed** 20 ft., burrow (ice and snow only) 20 ft., swim 60 ft.
 
-**Melee** 2 slams +15 (2d6+7 plus 1d8 [cold](monster_dir/creatureTypes#_cold-subtype)
+**Melee** 2 slams +15 (2d6+7 plus 1d8 [cold](monsters/creatureTypes#_cold-subtype))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -183,11 +183,11 @@ Statistics
 
 **Str** 24, **Dex** 16, **Con** 19, **Int** 6, **Wis** 11, **Cha** 11
 
-**Base Atk** +10; **CMB** +19; **CMD** 33 (can't be tripped
+**Base Atk** +10; **CMB** +19; **CMD** 33 (can't be tripped)
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Dodge](additionalMonsters/../feats#_dodge), [Great Cleave](additionalMonsters/../feats#_great-cleave), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Dodge](additionalMonster_dir/../feats#_dodge), [Great Cleave](additionalMonster_dir/../feats#_great-cleave), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +13, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +11, [Perception](additionalMonsters/../skill_dir/perception#_perception +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +8, [Swim](additionalMonsters/../skill_dir/swim#_swim +15
+**Skills** [Intimidate](additionalMonster_dir/../skill_dir/intimidate#_intimidate) +13, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +11, [Perception](additionalMonsters/../skill_dir/perception#_perception) +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +8, [Swim](additionalMonsters/../skill_dir/swim#_swim) +15
 
 **SQ** ice glide, icewalking
 
@@ -195,27 +195,27 @@ Greater Ice ElementalCR 9
 
 **XP 6,400**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [cold](monsters/creatureTypes#_cold-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), water)
 
-**Init** +8; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +16
+**Init** +8; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +16
 
 Defense
 
 **AC** 23, touch 13, flat-footed 18 (+4 Dex, +1 dodge, +10 natural, –2 size)
 
-**hp** 123 (13d10+52
+**hp** 123 (13d10+52)
 
 **Fort** +12, **Ref** +14, **Will** +4
 
-**DR** 10/—; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 10/—; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype), [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
 **Weaknesses** vulnerable to [fire](monster_dir/creatureTypes#_fire-subtype)
 
 Offense
 
-**Speed** 20 ft., burrow (ice and snow only 20 ft., swim 60 ft.
+**Speed** 20 ft., burrow (ice and snow only) 20 ft., swim 60 ft.
 
-**Melee** 2 slams +20 (2d8+9 plus 2d6 [cold](monster_dir/creatureTypes#_cold-subtype)
+**Melee** 2 slams +20 (2d8+9 plus 2d6 [cold](monsters/creatureTypes#_cold-subtype))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -225,11 +225,11 @@ Statistics
 
 **Str** 28, **Dex** 18, **Con** 19, **Int** 8, **Wis** 11, **Cha** 11
 
-**Base Atk** +13; **CMB** +24; **CMD** 39 (can't be tripped
+**Base Atk** +13; **CMB** +24; **CMD** 39 (can't be tripped)
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Dodge](additionalMonsters/../feats#_dodge), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Power Attack](additionalMonsters/../feats#_power-attack), [Vital Strike](additionalMonsters/../feats#_vital-strike)
+**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Combat Reflexes](additionalMonster_dir/../feats#_combat-reflexes), [Dodge](additionalMonster_dir/../feats#_dodge), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Lightning Reflexes](additionalMonster_dir/../feats#_lightning-reflexes), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Vital Strike](additionalMonster_dir/../feats#_vital-strike)
 
-**Skills** [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +20, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +16, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +15, [Perception](additionalMonsters/../skill_dir/perception#_perception +16, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +12, [Swim](additionalMonsters/../skill_dir/swim#_swim +17
+**Skills** [Escape Artist](additionalMonster_dir/../skill_dir/escapeArtist#_escape-artist) +20, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +16, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +15, [Perception](additionalMonsters/../skill_dir/perception#_perception) +16, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +12, [Swim](additionalMonsters/../skill_dir/swim#_swim) +17
 
 **SQ** ice glide, icewalking
 
@@ -237,41 +237,41 @@ Elder Ice ElementalCR 11
 
 **XP 12,800**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [cold](monsters/creatureTypes#_cold-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), water)
 
-**Init** +9; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +19
+**Init** +9; **Senses** darkvision 60 ft., snow vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +19
 
 Defense
 
 **AC** 24, touch 14, flat-footed 18 (+5 Dex, +1 dodge, +10 natural, –2 size)
 
-**hp** 152 (16d10+64
+**hp** 152 (16d10+64)
 
 **Fort** +14, **Ref** +17, **Will** +5
 
-**DR** 10/—; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 10/—; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype), [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
 **Weaknesses** vulnerable to [fire](monster_dir/creatureTypes#_fire-subtype)
 
 Offense
 
-**Speed** 20 ft., burrow (ice and snow only 20 ft., swim 60 ft.
+**Speed** 20 ft., burrow (ice and snow only) 20 ft., swim 60 ft.
 
-**Melee** 2 slams +24 (2d10+10/19–20 plus 2d8 [cold](monster_dir/creatureTypes#_cold-subtype)
+**Melee** 2 slams +24 (2d10+10/19–20 plus 2d8 [cold](monster_dir/creatureTypes#_cold-subtype))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** numbing [cold](monster_dir/creatureTypes#_cold-subtype) (DC 22)
+**Special Attacks** numbing [cold](monsters/creatureTypes#_cold-subtype) (DC 22)
 
 Statistics
 
 **Str** 30, **Dex** 20, **Con** 19, **Int** 10, **Wis** 11, **Cha** 11
 
-**Base Atk** +16; **CMB** +28; **CMD** 44 (can't be tripped
+**Base Atk** +16; **CMB** +28; **CMD** 44 (can't be tripped)
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Dodge](additionalMonsters/../feats#_dodge), [Improved Critical](additionalMonsters/../feats#_improved-critical) (slam), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Power Attack](additionalMonsters/../feats#_power-attack), [Vital Strike](additionalMonsters/../feats#_vital-strike)
+**Feats** [Cleave](additionalMonster_dir/../feats#_cleave), [Combat Reflexes](additionalMonster_dir/../feats#_combat-reflexes), [Dodge](additionalMonster_dir/../feats#_dodge), [Improved Critical](additionalMonster_dir/../feats#_improved-critical) (slam), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Lightning Reflexes](additionalMonster_dir/../feats#_lightning-reflexes), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Vital Strike](additionalMonster_dir/../feats#_vital-strike)
 
-**Skills** [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +24, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +19, [Perception](additionalMonsters/../skill_dir/perception#_perception +19, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +16, [Swim](additionalMonsters/../skill_dir/swim#_swim +37
+**Skills** [Escape Artist](additionalMonster_dir/../skill_dir/escapeArtist#_escape-artist) +24, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +19, [Perception](additionalMonsters/../skill_dir/perception#_perception) +19, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +16, [Swim](additionalMonsters/../skill_dir/swim#_swim) +37
 
 **SQ** ice glide, icewalking
 
@@ -287,7 +287,7 @@ Lightning Elemental
 
 Ecology
 
-**Environment** any (Plane of [Air](monster_dir/creatureTypes#_air-subtype))
+**Environment** any (Plane of [Air](monsters/creatureTypes#_air-subtype))
 
 **Organization** solitary, pair, or gang (3–8)
 
@@ -295,33 +295,33 @@ Ecology
 
 Special Abilities
 
-**Metal Mastery (Ex** A lightning [elemental](monster_dir/creatureTypes#_elemental-subtype) gains a +3 bonus on attack rolls if its opponent is wearing metal armor, is wielding a metal weapon, or is made of metal (such as an iron golem).
+**Metal Mastery (Ex)** A lightning [elemental](monster_dir/creatureTypes#_elemental-subtype) gains a +3 bonus on attack rolls if its opponent is wearing metal armor, is wielding a metal weapon, or is made of metal (such as an iron golem).
 
-**Spark Leap (Ex** A lightning [elemental](monster_dir/creatureTypes#_elemental-subtype gains a +10 bonus on bull rush, disarm, overrun, and trip attacks when it charges a creature against whom its metal mastery ability applies.
+**Spark Leap (Ex)** A lightning [elemental](monsters/creatureTypes#_elemental-subtype) gains a +10 bonus on bull rush, disarm, overrun, and trip attacks when it charges a creature against whom its metal mastery ability applies.
 
 Small Lightning ElementalCR 1
 
 **XP 400**
 
-N Small [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+N Small [outsider](monster_dir/creatureTypes#_outsider) ( [air](monsters/creatureTypes#_air-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +5
 
 Defense
 
 **AC** 14, touch 13, flat-footed 12 (+2 Dex, +1 natural, +1 size)
 
-**hp** 11 (2d10
+**hp** 11 (2d10)
 
 **Fort** +3, **Ref** +5, **Will** +0
 
-**Immune** electricity, [elemental](monster_dir/creatureTypes#_elemental-subtype) traits
+**Immune** electricity, [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
 Offense
 
 **Speed** fly 100 ft. (perfect)
 
-**Melee** slam +5 (1d4 plus 1d3 electricity
+**Melee** slam +5 (1d4 plus 1d3 electricity)
 
 **Special Attacks** metal mastery, spark leap
 
@@ -331,15 +331,15 @@ Statistics
 
 **Base Atk** +2; **CMB** +1; **CMD** 13
 
-**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics +7, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +6, [Fly](additionalMonsters/../skill_dir/fly#_fly +12, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +1, [Perception](additionalMonsters/../skill_dir/perception#_perception +5
+**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +7, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +6, [Fly](additionalMonsters/../skill_dir/fly#_fly) +12, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +1, [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
 
 Medium Lightning ElementalCR 3
 
 **XP 800**
 
-N Medium [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+N Medium [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
 **Init** +8; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
 
@@ -347,17 +347,17 @@ Defense
 
 **AC** 16, touch 15, flat-footed 11 (+4 Dex, +1 dodge, +1 natural)
 
-**hp** 26 (4d10+4
+**hp** 26 (4d10+4)
 
 **Fort** +5, **Ref** +8, **Will** +1
 
-**Immune** electricity, [elemental](monster_dir/creatureTypes#_elemental-subtype) traits
+**Immune** electricity, [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
 Offense
 
 **Speed** fly 100 ft. (perfect)
 
-**Melee** slam +8 (1d6+3 plus 1d4 electricity
+**Melee** slam +8 (1d6+3 plus 1d4 electricity)
 
 **Special Attacks** metal mastery, spark leap
 
@@ -367,15 +367,15 @@ Statistics
 
 **Base Atk** +4; **CMB** +6; **CMD** 21
 
-**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Dodge](additionalMonster_dir/../feats#_dodge), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics +11, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +9, [Fly](additionalMonsters/../skill_dir/fly#_fly +12, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +2, [Perception](additionalMonsters/../skill_dir/perception#_perception +7
+**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +11, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +9, [Fly](additionalMonsters/../skill_dir/fly#_fly) +12, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +2, [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
 
 Large Lightning ElementalCR 5
 
 **XP 1,600**
 
-N Large [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+N Large [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
 **Init** +10; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +11
 
@@ -383,7 +383,7 @@ Defense
 
 **AC** 18, touch 16, flat-footed 11 (+6 Dex, +1 dodge, +2 natural, –1 size)
 
-**hp** 60 (8d10+16
+**hp** 60 (8d10+16)
 
 **Fort** +8, **Ref** +12, **Will** +2
 
@@ -393,7 +393,7 @@ Offense
 
 **Speed** fly 100 ft. (perfect)
 
-**Melee** 2 slams +13 (1d8+3 plus 1d6 electricity
+**Melee** 2 slams +13 (1d8+3 plus 1d6 electricity)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -405,15 +405,15 @@ Statistics
 
 **Base Atk** +8; **CMB** +12; **CMD** 29
 
-**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Flyby Attack](additionalMonsters/../monster_dir/monsterFeats#_flyby-attack, [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Mobility](additionalMonsters/../feats#_mobility), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Flyby Attack](additionalMonster_dir/../monster_dir/monsterFeats#_flyby-attack), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Mobility](additionalMonster_dir/../feats#_mobility), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics +17, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +17, [Fly](additionalMonsters/../skill_dir/fly#_fly +12, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +9, [Perception](additionalMonsters/../skill_dir/perception#_perception +11
+**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +17, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +17, [Fly](additionalMonsters/../skill_dir/fly#_fly) +12, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +9, [Perception](additionalMonsters/../skill_dir/perception#_perception) +11
 
 Huge Lightning ElementalCR 7
 
 **XP 3,200**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
 **Init** +12; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
 
@@ -421,7 +421,7 @@ Defense
 
 **AC** 19, touch 17, flat-footed 10 (+8 Dex, +1 dodge, +2 natural, –2 size)
 
-**hp** 85 (10d10+30
+**hp** 85 (10d10+30)
 
 **Fort** +10, **Ref** +15, **Will** +5
 
@@ -431,7 +431,7 @@ Offense
 
 **Speed** fly 100 ft. (perfect)
 
-**Melee** 2 slams +16 (2d6+5 plus 1d8 electricity
+**Melee** 2 slams +16 (2d6+5 plus 1d8 electricity)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -443,15 +443,15 @@ Statistics
 
 **Base Atk** +10; **CMB** +17; **CMD** 36
 
-**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Flyby Attack](additionalMonsters/../monster_dir/monsterFeats#_flyby-attack, [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Mobility](additionalMonsters/../feats#_mobility), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Flyby Attack](additionalMonster_dir/../monster_dir/monsterFeats#_flyby-attack), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Mobility](additionalMonster_dir/../feats#_mobility), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics +21, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +21, [Fly](additionalMonsters/../skill_dir/fly#_fly +12, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +11, [Perception](additionalMonsters/../skill_dir/perception#_perception +13
+**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +21, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +21, [Fly](additionalMonsters/../skill_dir/fly#_fly) +12, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +11, [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
 
 Greater Lightning ElementalCR 9
 
 **XP 6,400**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
 **Init** +13; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +16
 
@@ -459,7 +459,7 @@ Defense
 
 **AC** 22, touch 18, flat-footed 12 (+9 Dex, +1 dodge, +4 natural, –2 size)
 
-**hp** 110 (13d10+39
+**hp** 110 (13d10+39)
 
 **Fort** +11, **Ref** +17, **Will** +6
 
@@ -469,7 +469,7 @@ Offense
 
 **Speed** fly 100 ft. (perfect)
 
-**Melee** 2 slams +20 (2d8+6 plus 2d6 electricity
+**Melee** 2 slams +20 (2d8+6 plus 2d6 electricity)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -481,15 +481,15 @@ Statistics
 
 **Base Atk** +13; **CMB** +21; **CMD** 41
 
-**Feats** [Blind-Fight](additionalMonsters/../feats#_blind-fight), [Dodge](additionalMonsters/../feats#_dodge), [Flyby Attack](additionalMonsters/../monster_dir/monsterFeats#_flyby-attack, [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Mobility](additionalMonsters/../feats#_mobility), [Power Attack](additionalMonsters/../feats#_power-attack), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Blind-Fight](additionalMonsters/../feats#_blind-fight), [Dodge](additionalMonster_dir/../feats#_dodge), [Flyby Attack](additionalMonster_dir/../monster_dir/monsterFeats#_flyby-attack), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Mobility](additionalMonster_dir/../feats#_mobility), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics +25, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +25, [Fly](additionalMonsters/../skill_dir/fly#_fly +13, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +16, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +15, [Perception](additionalMonsters/../skill_dir/perception#_perception +16
+**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +25, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +25, [Fly](additionalMonsters/../skill_dir/fly#_fly) +13, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +16, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +15, [Perception](additionalMonsters/../skill_dir/perception#_perception) +16
 
 Elder Lightning ElementalCR 11
 
 **XP 12,800**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [air](monster_dir/creatureTypes#_air-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
 **Init** +14; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +19
 
@@ -497,7 +497,7 @@ Defense
 
 **AC** 25, touch 19, flat-footed 14 (+10 Dex, +1 dodge, +6 natural, –2 size)
 
-**hp** 136 (16d10+48
+**hp** 136 (16d10+48)
 
 **Fort** +13, **Ref** +20, **Will** +7
 
@@ -507,7 +507,7 @@ Offense
 
 **Speed** fly 100 ft. (perfect)
 
-**Melee** 2 slams +24 (2d8+8 plus 2d8 electricity
+**Melee** 2 slams +24 (2d8+8 plus 2d8 electricity)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -519,13 +519,13 @@ Statistics
 
 **Base Atk** +16; **CMB** +26; **CMD** 47
 
-**Feats** [Blind-Fight](additionalMonsters/../feats#_blind-fight), [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Dodge](additionalMonsters/../feats#_dodge), [Flyby Attack](additionalMonsters/../monster_dir/monsterFeats#_flyby-attack, [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Mobility](additionalMonsters/../feats#_mobility), [Power Attack](additionalMonsters/../feats#_power-attack), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Blind-Fight](additionalMonsters/../feats#_blind-fight), [Combat Reflexes](additionalMonster_dir/../feats#_combat-reflexes), [Dodge](additionalMonster_dir/../feats#_dodge), [Flyby Attack](additionalMonster_dir/../monster_dir/monsterFeats#_flyby-attack), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Mobility](additionalMonster_dir/../feats#_mobility), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics +29, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +29, [Fly](additionalMonsters/../skill_dir/fly#_fly +14, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +19, [Perception](additionalMonsters/../skill_dir/perception#_perception +19, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +21
+**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +29, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +29, [Fly](additionalMonsters/../skill_dir/fly#_fly) +14, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +19, [Perception](additionalMonsters/../skill_dir/perception#_perception) +19, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +21
 
 Though most think of the Plane of Air as a vast expanse of clear sky, that plane also holds the power of the storm, including monstrous hurricanes larger than entire worlds and thunderstorms whose peals and claps can shatter stone. Whether lightning elementals are the by-product of common air elementals spending too much time near these electrically charged storms or are merely calved off like forgotten flurries, they are aggressive and almost suicidal in their willingness to leap into battle. They particularly enjoy attacking creatures that are made of metal and creatures that wear metal armor or wield metal weapons.
 
-Many lightning elementals have a roughly humanoid shape, but some prefer animalistic shapes (particularly birds and dragons, and a few appear to be nothing more than large disembodied heads made of dark clouds with flickering lightning tongues. Regardless of the shape a lightning elemental takes, the air around the creature hums and throbs with the promise of electrocution and the tangy stink of ozone.
+Many lightning elementals have a roughly humanoid shape, but some prefer animalistic shapes (particularly birds and dragons), and a few appear to be nothing more than large disembodied heads made of dark clouds with flickering lightning tongues. Regardless of the shape a lightning elemental takes, the air around the creature hums and throbs with the promise of electrocution and the tangy stink of ozone.
 
 # Elemental, Magma
 
@@ -537,7 +537,7 @@ Magma Elemental
 
 Ecology
 
-**Environment** any (Plane of [Fire](monster_dir/creatureTypes#_fire-subtype))
+**Environment** any (Plane of [Fire](monsters/creatureTypes#_fire-subtype))
 
 **Organization** solitary, pair, or gang (3–8)
 
@@ -545,31 +545,31 @@ Ecology
 
 Special Abilities
 
-**Burn (Ex** A magma [elemental](monster_dir/creatureTypes#_elemental-subtype's burn DC includes a –2 racial penalty, as their fires don't burn quite as hot as true [elemental](monster_dir/creatureTypes#_elemental-subtype flames.
+**Burn (Ex)** A magma [elemental](monster_dir/creatureTypes#_elemental-subtype)'s burn DC includes a –2 racial penalty, as their fires don't burn quite as hot as true [elemental](monsters/creatureTypes#_elemental-subtype) flames.
 
-**[Earth Glide](monster_dir/universalMonsterRules#_earth-glide) (Ex** A burrowing magma [elemental](monster_dir/creatureTypes#_elemental-subtype can pass through stone, dirt, lava, or almost any other sort of [earth](monster_dir/creatureTypes#_earth-subtype except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple, though the area it passes through feels warm for 1 round afterward and often retains a strangely smooth texture, as if the stone had been polished. A_ [move earth](additionalMonsters/../spell_dir/moveEarth#_move-earth_ spell cast on an area containing a burrowing magma [elemental](monster_dir/creatureTypes#_elemental-subtype flings the [elemental](monster_dir/creatureTypes#_elemental-subtype) back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+**[Earth Glide](monster_dir/universalMonsterRules#_earth-glide) (Ex)** A burrowing magma [elemental](monsters/creatureTypes#_elemental-subtype) can pass through stone, dirt, lava, or almost any other sort of [earth](monster_dir/creatureTypes#_earth-subtype) except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple, though the area it passes through feels warm for 1 round afterward and often retains a strangely smooth texture, as if the stone had been polished. A_ [move earth](additionalMonsters/../spell_dir/moveEarth#_move-earth)_ spell cast on an area containing a burrowing magma [elemental](monsters/creatureTypes#_elemental-subtype) flings the [elemental](monster_dir/creatureTypes#_elemental-subtype) back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
 
-**Lava Puddle (Su** Once per day as a full-round action, a magma [elemental](monster_dir/creatureTypes#_elemental-subtype can vomit forth a puddle of lava that fills its space to a depth of 2–3 inches and counts as difficult terrain. Any creature that moves through this puddle of lava takes 2d6 points of [fire](monster_dir/creatureTypes#_fire-subtype damage. This damage continues for 1d3 rounds after the creature leaves the lava pool, although then it only inflicts 1d6 points of [fire](monster_dir/creatureTypes#_fire-subtype damage per round. The lava puddle solidifies and is safe to touch after a number of rounds equal to the [elemental](monster_dir/creatureTypes#_elemental-subtype's Hit Dice. At the GM's discretion, this puddle of lava could start secondary fires.
+**Lava Puddle (Su)** Once per day as a full-round action, a magma [elemental](monsters/creatureTypes#_elemental-subtype) can vomit forth a puddle of lava that fills its space to a depth of 2–3 inches and counts as difficult terrain. Any creature that moves through this puddle of lava takes 2d6 points of [fire](monster_dir/creatureTypes#_fire-subtype) damage. This damage continues for 1d3 rounds after the creature leaves the lava pool, although then it only inflicts 1d6 points of [fire](monsters/creatureTypes#_fire-subtype) damage per round. The lava puddle solidifies and is safe to touch after a number of rounds equal to the [elemental](monster_dir/creatureTypes#_elemental-subtype)'s Hit Dice. At the GM's discretion, this puddle of lava could start secondary fires.
 
 Small Magma ElementalCR 1
 
 **XP 400**
 
-N Small [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype, [fire](monster_dir/creatureTypes#_fire-subtype)
+N Small [outsider](monsters/creatureTypes#_outsider) ( [earth](monster_dir/creatureTypes#_earth-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), [fire](monsters/creatureTypes#_fire-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +5
 
 Defense
 
 **AC** 15, touch 10, flat-footed 15 (–1 Dex, +5 natural, +1 size)
 
-**hp** 11 (2d10
+**hp** 11 (2d10)
 
 **Fort** +3, **Ref** +2, **Will** +0
 
-**Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**Immune** [fire](monsters/creatureTypes#_fire-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype) traits
 
-**Weaknesses** vulnerable to [cold](monster_dir/creatureTypes#_cold-subtype
+**Weaknesses** vulnerable to [cold](monsters/creatureTypes#_cold-subtype)
 
 Offense
 
@@ -577,7 +577,7 @@ Offense
 
 **Melee** slam +3 (1d3 plus burn)
 
-**Special Attacks** burn (1d4, DC 9, lava puddle
+**Special Attacks** burn (1d4, DC 9), lava puddle
 
 Statistics
 
@@ -587,15 +587,15 @@ Statistics
 
 **Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative)
 
-**Skills** [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering +2, [Perception](additionalMonsters/../skill_dir/perception#_perception +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +8
+**Skills** [Knowledge](additionalMonster_dir/../skill_dir/knowledge#_knowledge) (dungeoneering) +2, [Perception](additionalMonsters/../skill_dir/perception#_perception) +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +8
 
-**SQ** [earth glide](monster_dir/universalMonsterRules#_earth-glide
+**SQ** [earth glide](monsters/universalMonsterRules#_earth-glide)
 
 Medium Magma ElementalCR 3
 
 **XP 800**
 
-N Medium [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype, [fire](monster_dir/creatureTypes#_fire-subtype)
+N Medium [outsider](monster_dir/creatureTypes#_outsider) ( [earth](monsters/creatureTypes#_earth-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [fire](monster_dir/creatureTypes#_fire-subtype))
 
 **Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
 
@@ -603,13 +603,13 @@ Defense
 
 **AC** 16, touch 9, flat-footed 16 (–1 Dex, +7 natural)
 
-**hp** 30 (4d10+8
+**hp** 30 (4d10+8)
 
 **Fort** +6, **Ref** +3, **Will** +1
 
-**Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**Immune** [fire](monsters/creatureTypes#_fire-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype) traits
 
-**Weaknesses** vulnerable to [cold](monster_dir/creatureTypes#_cold-subtype
+**Weaknesses** vulnerable to [cold](monsters/creatureTypes#_cold-subtype)
 
 Offense
 
@@ -617,7 +617,7 @@ Offense
 
 **Melee** slam +6 (1d6+3 plus burn)
 
-**Special Attacks** burn (1d4, DC 12, lava puddle
+**Special Attacks** burn (1d4, DC 12), lava puddle
 
 Statistics
 
@@ -625,39 +625,39 @@ Statistics
 
 **Base Atk** +4; **CMB** +6; **CMD** 15
 
-**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering +4, [Perception](additionalMonsters/../skill_dir/perception#_perception +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +6
+**Skills** [Knowledge](additionalMonster_dir/../skill_dir/knowledge#_knowledge) (dungeoneering) +4, [Perception](additionalMonsters/../skill_dir/perception#_perception) +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +6
 
 Large Magma ElementalCR 5
 
 **XP 1,600**
 
-N Large [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype, [fire](monster_dir/creatureTypes#_fire-subtype)
+N Large [outsider](monsters/creatureTypes#_outsider) ( [earth](monster_dir/creatureTypes#_earth-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), [fire](monsters/creatureTypes#_fire-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +11
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +11
 
 Defense
 
 **AC** 16, touch 8, flat-footed 16 (–1 Dex, +8 natural, –1 size)
 
-**hp** 60 (8d10+16
+**hp** 60 (8d10+16)
 
 **Fort** +8, **Ref** +5, **Will** +2
 
-**DR** 5/—; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 5/—; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype), [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
-**Weaknesses** vulnerable to [cold](monster_dir/creatureTypes#_cold-subtype
+**Weaknesses** vulnerable to [cold](monster_dir/creatureTypes#_cold-subtype)
 
 Offense
 
-**Speed** 20 ft., burrow 20 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide)
+**Speed** 20 ft., burrow 20 ft.; [earth glide](monsters/universalMonsterRules#_earth-glide)
 
 **Melee** 2 slams +11 (1d8+4 plus burn)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** burn (1d6, DC 14, lava puddle
+**Special Attacks** burn (1d6, DC 14), lava puddle
 
 Statistics
 
@@ -665,39 +665,39 @@ Statistics
 
 **Base Atk** +8; **CMB** +13; **CMD** 22
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Cleave](additionalMonster_dir/../feats#_cleave), [Improved Bull Rush](additionalMonster_dir/../feats#_improved-bull-rush), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +15, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering +9, [Perception](additionalMonsters/../skill_dir/perception#_perception +11, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +6
+**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +15, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering) +9, [Perception](additionalMonsters/../skill_dir/perception#_perception) +11, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +6
 
 Huge Magma ElementalCR 7
 
 **XP 3,200**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype, [fire](monster_dir/creatureTypes#_fire-subtype)
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [earth](monster_dir/creatureTypes#_earth-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), [fire](monsters/creatureTypes#_fire-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +13
 
 Defense
 
 **AC** 17, touch 7, flat-footed 17 (–1 Dex, +10 natural, –2 size)
 
-**hp** 85 (10d10+30
+**hp** 85 (10d10+30)
 
 **Fort** +10, **Ref** +6, **Will** +3
 
-**DR** 5/­—; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 5/­—; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype), [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
-**Weaknesses** vulnerable to [cold](monster_dir/creatureTypes#_cold-subtype
+**Weaknesses** vulnerable to [cold](monster_dir/creatureTypes#_cold-subtype)
 
 Offense
 
-**Speed** 20 ft., burrow 20 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide)
+**Speed** 20 ft., burrow 20 ft.; [earth glide](monsters/universalMonsterRules#_earth-glide)
 
 **Melee** 2 slams +14 (2d6+6 plus burn)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** burn (1d8, DC 16, lava puddle
+**Special Attacks** burn (1d8, DC 16), lava puddle
 
 Statistics
 
@@ -705,39 +705,39 @@ Statistics
 
 **Base Atk** +10; **CMB** +18; **CMD** 27
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Greater Bull Rush](additionalMonsters/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Cleave](additionalMonster_dir/../feats#_cleave), [Greater Bull Rush](additionalMonster_dir/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonster_dir/../feats#_improved-bull-rush), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering +11, [Perception](additionalMonsters/../skill_dir/perception#_perception +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +4
+**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering) +11, [Perception](additionalMonsters/../skill_dir/perception#_perception) +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +4
 
 Greater Magma ElementalCR 9
 
 **XP 6,400**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype, [fire](monster_dir/creatureTypes#_fire-subtype)
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [earth](monster_dir/creatureTypes#_earth-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), [fire](monsters/creatureTypes#_fire-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +16
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +16
 
 Defense
 
 **AC** 19, touch 7, flat-footed 19 (–1 Dex, +12 natural, –2 size)
 
-**hp** 123 (13d10+52
+**hp** 123 (13d10+52)
 
 **Fort** +12, **Ref** +7, **Will** +4
 
-**DR** 10/—; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 10/—; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype), [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
-**Weaknesses** vulnerable to [cold](monster_dir/creatureTypes#_cold-subtype
+**Weaknesses** vulnerable to [cold](monster_dir/creatureTypes#_cold-subtype)
 
 Offense
 
-**Speed** 20 ft., burrow 20 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide)
+**Speed** 20 ft., burrow 20 ft.; [earth glide](monsters/universalMonsterRules#_earth-glide)
 
 **Melee** 2 slams +18 (2d8+7 plus burn)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** burn (2d6, DC 18, lava puddle
+**Special Attacks** burn (2d6, DC 18), lava puddle
 
 Statistics
 
@@ -745,39 +745,39 @@ Statistics
 
 **Base Atk** +13; **CMB** +22; **CMD** 31
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Greater Bull Rush](additionalMonsters/../feats#_greater-bull-rush), [Greater Overrun](additionalMonsters/../feats#_greater-overrun), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Improved Overrun](additionalMonsters/../feats#_improved-overrun), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Cleave](additionalMonster_dir/../feats#_cleave), [Greater Bull Rush](additionalMonster_dir/../feats#_greater-bull-rush), [Greater Overrun](additionalMonster_dir/../feats#_greater-overrun), [Improved Bull Rush](additionalMonster_dir/../feats#_improved-bull-rush), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Improved Overrun](additionalMonster_dir/../feats#_improved-overrun), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +23, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +16, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering +15, [Perception](additionalMonsters/../skill_dir/perception#_perception +16, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +7
+**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +23, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +16, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering) +15, [Perception](additionalMonsters/../skill_dir/perception#_perception) +16, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +7
 
 Elder Magma ElementalCR 11
 
 **XP 12,800**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype, [fire](monster_dir/creatureTypes#_fire-subtype)
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [earth](monster_dir/creatureTypes#_earth-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), [fire](monsters/creatureTypes#_fire-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +19
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +19
 
 Defense
 
 **AC** 25, touch 7, flat-footed 25 (–1 Dex, +18 natural, –2 size)
 
-**hp** 152 (16d10+64
+**hp** 152 (16d10+64)
 
 **Fort** +14, **Ref** +9, **Will** +5
 
-**DR** 10/—; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 10/—; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype), [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
-**Weaknesses** vulnerable to [cold](monster_dir/creatureTypes#_cold-subtype
+**Weaknesses** vulnerable to [cold](monster_dir/creatureTypes#_cold-subtype)
 
 Offense
 
-**Speed** 20 ft., burrow 20 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide)
+**Speed** 20 ft., burrow 20 ft.; [earth glide](monsters/universalMonsterRules#_earth-glide)
 
 **Melee** 2 slams +22 (3d6+8 plus burn)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** burn (3d6, DC 20, lava puddle
+**Special Attacks** burn (3d6, DC 20), lava puddle
 
 Statistics
 
@@ -785,9 +785,9 @@ Statistics
 
 **Base Atk** +16; **CMB** +26; **CMD** 35
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Greater Bull Rush](additionalMonsters/../feats#_greater-bull-rush), [Greater Overrun](additionalMonsters/../feats#_greater-overrun), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Improved Overrun](additionalMonsters/../feats#_improved-overrun), [Power Attack](additionalMonsters/../feats#_power-attack), [Vital Strike](additionalMonsters/../feats#_vital-strike)
+**Feats** [Cleave](additionalMonster_dir/../feats#_cleave), [Greater Bull Rush](additionalMonster_dir/../feats#_greater-bull-rush), [Greater Overrun](additionalMonster_dir/../feats#_greater-overrun), [Improved Bull Rush](additionalMonster_dir/../feats#_improved-bull-rush), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Improved Overrun](additionalMonster_dir/../feats#_improved-overrun), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Vital Strike](additionalMonster_dir/../feats#_vital-strike)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +27, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +19, [Perception](additionalMonsters/../skill_dir/perception#_perception +19, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +10
+**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +27, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering) +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +19, [Perception](additionalMonsters/../skill_dir/perception#_perception) +19, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +10
 
 In the border areas between the Plane of Earth and Plane of Fire, volcanoes and continent-sized lava flows are commonplace. Elementals in this area tend to have aspects of both planes, and the typical sort is the magma elemental, an earth elemental with a core of liquid fire. Magma elementals generally have a somewhat feral or bestial appearance.
 
@@ -801,43 +801,43 @@ Mud Elemental
 
 Ecology
 
-**Environment** any land or water (Plane of [Earth](monster_dir/creatureTypes#_earth-subtype))
+**Environment** any land or water (Plane of [Earth](monsters/creatureTypes#_earth-subtype))
 
-**Organization** solitary, pair, or gang (3–8
+**Organization** solitary, pair, or gang (3–8)
 
 **Treasure** none
 
 Special Abilities
 
-**[Earth Glide](monster_dir/universalMonsterRules#_earth-glide) (Ex** A burrowing mud [elemental](monster_dir/creatureTypes#_elemental-subtype can pass through dirt, gravel, or other loose or porous solid matter as easily as a fish swims through water. It cannot use this ability to pass through a solid barrier such as a stone or brick wall. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A _ [move earth](additionalMonsters/../spell_dir/moveEarth#_move-earth_ spell cast on an area containing a burrowing mud [elemental](monster_dir/creatureTypes#_elemental-subtype flings the [elemental](monster_dir/creatureTypes#_elemental-subtype back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+**[Earth Glide](monster_dir/universalMonsterRules#_earth-glide) (Ex)** A burrowing mud [elemental](monsters/creatureTypes#_elemental-subtype) can pass through dirt, gravel, or other loose or porous solid matter as easily as a fish swims through water. It cannot use this ability to pass through a solid barrier such as a stone or brick wall. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A _ [move earth](additionalMonster_dir/../spell_dir/moveEarth#_move-earth)_ spell cast on an area containing a burrowing mud [elemental](monsters/creatureTypes#_elemental-subtype) flings the [elemental](monster_dir/creatureTypes#_elemental-subtype) back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
 
-**[Entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)) (Ex** The mud from an [elemental](monster_dir/creatureTypes#_elemental-subtype's [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su) ability can be washed away in 1d3 rounds of immersion in water.
+**[Entrap](monsters/universalMonsterRules#_entrap-(ex-or-su)) (Ex)** The mud from an [elemental](monster_dir/creatureTypes#_elemental-subtype)'s [entrap](monsters/universalMonsterRules#_entrap-(ex-or-su)) ability can be washed away in 1d3 rounds of immersion in water.
 
 Small Mud ElementalCR 1
 
 **XP 400**
 
-N Small [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Small [outsider](monster_dir/creatureTypes#_outsider) ( [earth](monsters/creatureTypes#_earth-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), water)
 
-**Init** –1; **Senses** darkvision 60 ft., tremorsense 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
+**Init** –1; **Senses** darkvision 60 ft., tremorsense 30 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +5
 
 Defense
 
 **AC** 16, touch 10, flat-footed 16 (–1 Dex, +6 natural, +1 size)
 
-**hp** 13 (2d10+2
+**hp** 13 (2d10+2)
 
 **Fort** +4, **Ref** +2, **Will** +0
 
-**Immune** acid, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**Immune** acid, [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
 Offense
 
-**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide
+**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide)
 
-**Melee** slam +5 (1d4+3 plus [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su))
+**Melee** slam +5 (1d4+3 plus [entrap](monsters/universalMonsterRules#_entrap-(ex-or-su)))
 
-**Special Attacks** [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)) (DC 12, 10 minutes, hardness 5, hp 5
+**Special Attacks** [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)) (DC 12, 10 minutes, hardness 5, hp 5)
 
 Statistics
 
@@ -845,15 +845,15 @@ Statistics
 
 **Base Atk** +2; **CMB** +3; **CMD** 12
 
-**Feats** [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +6, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +3, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +1, [Perception](additionalMonsters/../skill_dir/perception#_perception +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +7, [Swim](additionalMonsters/../skill_dir/swim#_swim +10
+**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +6, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +3, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +1, [Perception](additionalMonsters/../skill_dir/perception#_perception) +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +7, [Swim](additionalMonsters/../skill_dir/swim#_swim) +10
 
 Medium Mud ElementalCR 3
 
 **XP 800**
 
-N Medium [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Medium [outsider](monsters/creatureTypes#_outsider) ( [earth](monster_dir/creatureTypes#_earth-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water)
 
 **Init** +0; **Senses** darkvision 60 ft., tremorsense 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
 
@@ -861,19 +861,19 @@ Defense
 
 **AC** 16, touch 10, flat-footed 16 (+6 natural)
 
-**hp** 30 (4d10+8
+**hp** 30 (4d10+8)
 
 **Fort** +6, **Ref** +4, **Will** +1
 
-**Immune** acid, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**Immune** acid, [elemental](monsters/creatureTypes#_elemental-subtype) traits
 
 Offense
 
-**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide
+**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide)
 
-**Melee** slam +7 (1d6+4 plus [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su))
+**Melee** slam +7 (1d6+4 plus [entrap](monsters/universalMonsterRules#_entrap-(ex-or-su)))
 
-**Special Attacks** [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)) (DC 14, 10 minutes, hardness 5, hp 5
+**Special Attacks** [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)) (DC 14, 10 minutes, hardness 5, hp 5)
 
 Statistics
 
@@ -881,15 +881,15 @@ Statistics
 
 **Base Atk** +4; **CMB** +7; **CMD** 17
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Improved Bull Rush](additionalMonster_dir/../feats#_improved-bull-rush), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +8, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +5, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +2, [Perception](additionalMonsters/../skill_dir/perception#_perception +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +5, [Swim](additionalMonsters/../skill_dir/swim#_swim +11
+**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +8, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +5, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +2, [Perception](additionalMonsters/../skill_dir/perception#_perception) +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +5, [Swim](additionalMonsters/../skill_dir/swim#_swim) +11
 
 Large Mud ElementalCR 5
 
 **XP 1,600**
 
-N Large [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Large [outsider](monsters/creatureTypes#_outsider) ( [earth](monster_dir/creatureTypes#_earth-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water)
 
 **Init** +1; **Senses** darkvision 60 ft., tremorsense 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +11
 
@@ -897,21 +897,21 @@ Defense
 
 **AC** 17, touch 10, flat-footed 16 (+1 Dex, +7 natural, –1 size)
 
-**hp** 68 (8d10+24
+**hp** 68 (8d10+24)
 
 **Fort** +9, **Ref** +7, **Will** +2
 
-**DR** 5/—; **Immune** acid, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 5/—; **Immune** acid, [elemental](monster_dir/creatureTypes#_elemental-subtype) traits
 
 Offense
 
-**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide
+**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monsters/universalMonsterRules#_earth-glide)
 
-**Melee** 2 slams +12 (1d8+5 plus [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su))
+**Melee** 2 slams +12 (1d8+5 plus [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)) (DC 17, 10 minutes, hardness 10, hp 10
+**Special Attacks** [entrap](monsters/universalMonsterRules#_entrap-(ex-or-su)) (DC 17, 10 minutes, hardness 10, hp 10)
 
 Statistics
 
@@ -919,15 +919,15 @@ Statistics
 
 **Base Atk** +8; **CMB** +14; **CMD** 25
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Great Cleave](additionalMonsters/../feats#_great-cleave), [Greater Bull Rush](additionalMonsters/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Cleave](additionalMonster_dir/../feats#_cleave), [Great Cleave](additionalMonster_dir/../feats#_great-cleave), [Greater Bull Rush](additionalMonster_dir/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonster_dir/../feats#_improved-bull-rush), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +12, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +8, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +4, [Perception](additionalMonsters/../skill_dir/perception#_perception +11, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +4, [Swim](additionalMonsters/../skill_dir/swim#_swim +13
+**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +12, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +8, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +4, [Perception](additionalMonsters/../skill_dir/perception#_perception) +11, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +4, [Swim](additionalMonsters/../skill_dir/swim#_swim) +13
 
 Huge Mud ElementalCR 7
 
 **XP 3,200**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [earth](monster_dir/creatureTypes#_earth-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water)
 
 **Init** +3; **Senses** darkvision 60 ft., tremorsense 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
 
@@ -935,21 +935,21 @@ Defense
 
 **AC** 20, touch 12, flat-footed 16 (+3 Dex, +1 dodge, +8 natural, –2 size)
 
-**hp** 95 (10d10+40
+**hp** 95 (10d10+40)
 
 **Fort** +11, **Ref** +10, **Will** +3
 
-**DR** 5/—; **Immune** acid, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 5/—; **Immune** acid, [elemental](monster_dir/creatureTypes#_elemental-subtype) traits
 
 Offense
 
-**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide
+**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monsters/universalMonsterRules#_earth-glide)
 
-**Melee** 2 slams +15 (2d6+7 plus [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su))
+**Melee** 2 slams +15 (2d6+7 plus [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)) (DC 19, 10 minutes, hardness 5, hp 15
+**Special Attacks** [entrap](monsters/universalMonsterRules#_entrap-(ex-or-su)) (DC 19, 10 minutes, hardness 5, hp 15)
 
 Statistics
 
@@ -957,15 +957,15 @@ Statistics
 
 **Base Atk** +10; **CMB** +19; **CMD** 33
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Dodge](additionalMonsters/../feats#_dodge), [Great Cleave](additionalMonsters/../feats#_great-cleave), [Greater Bull Rush](additionalMonsters/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Cleave](additionalMonster_dir/../feats#_cleave), [Dodge](additionalMonster_dir/../feats#_dodge), [Great Cleave](additionalMonster_dir/../feats#_great-cleave), [Greater Bull Rush](additionalMonster_dir/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonster_dir/../feats#_improved-bull-rush), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +17, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +13, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +7, [Perception](additionalMonsters/../skill_dir/perception#_perception +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +8, [Swim](additionalMonsters/../skill_dir/swim#_swim +15
+**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +17, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +13, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +7, [Perception](additionalMonsters/../skill_dir/perception#_perception) +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +8, [Swim](additionalMonsters/../skill_dir/swim#_swim) +15
 
 Greater Mud ElementalCR 9
 
 **XP 6,400**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [earth](monster_dir/creatureTypes#_earth-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water)
 
 **Init** +4; **Senses** darkvision 60 ft., tremorsense 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +16
 
@@ -973,21 +973,21 @@ Defense
 
 **AC** 22, touch 13, flat-footed 17 (+4 Dex, +1 dodge, +9 natural, –2 size)
 
-**hp** 123 (13d10+52
+**hp** 123 (13d10+52)
 
 **Fort** +12, **Ref** +14, **Will** +4
 
-**DR** 10/—; **Immune** acid, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 10/—; **Immune** acid, [elemental](monster_dir/creatureTypes#_elemental-subtype) traits
 
 Offense
 
-**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide
+**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monsters/universalMonsterRules#_earth-glide)
 
-**Melee** 2 slams +20 (2d8+9 plus [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su))
+**Melee** 2 slams +20 (2d8+9 plus [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)) (DC 20, 10 minutes, hardness 10, hp 15
+**Special Attacks** [entrap](monsters/universalMonsterRules#_entrap-(ex-or-su)) (DC 20, 10 minutes, hardness 10, hp 15)
 
 Statistics
 
@@ -995,15 +995,15 @@ Statistics
 
 **Base Atk** +13; **CMB** +24; **CMD** 39
 
-**Feats** [Awesome Blow](additionalMonsters/../monster_dir/monsterFeats#_awesome-blow, [Cleave](additionalMonsters/../feats#_cleave), [Dodge](additionalMonsters/../feats#_dodge), [Great Cleave](additionalMonsters/../feats#_great-cleave), [Greater Bull Rush](additionalMonsters/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Awesome Blow](additionalMonster_dir/../monster_dir/monsterFeats#_awesome-blow), [Cleave](additionalMonsters/../feats#_cleave), [Dodge](additionalMonster_dir/../feats#_dodge), [Great Cleave](additionalMonster_dir/../feats#_great-cleave), [Greater Bull Rush](additionalMonster_dir/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonster_dir/../feats#_improved-bull-rush), [Lightning Reflexes](additionalMonster_dir/../feats#_lightning-reflexes), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +25, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +20, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +15, [Perception](additionalMonsters/../skill_dir/perception#_perception +16, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +12, [Swim](additionalMonsters/../skill_dir/swim#_swim +17
+**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +25, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +20, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +15, [Perception](additionalMonsters/../skill_dir/perception#_perception) +16, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +12, [Swim](additionalMonsters/../skill_dir/swim#_swim) +17
 
 Elder Mud ElementalCR 11
 
 **XP 12,800**
 
-N Huge [outsider](monster_dir/creatureTypes#_outsider ( [earth](monster_dir/creatureTypes#_earth-subtype, [elemental](monster_dir/creatureTypes#_elemental-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water
+N Huge [outsider](monsters/creatureTypes#_outsider) ( [earth](monster_dir/creatureTypes#_earth-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), water)
 
 **Init** +5; **Senses** darkvision 60 ft., tremorsense 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +19
 
@@ -1011,21 +1011,21 @@ Defense
 
 **AC** 23, touch 14, flat-footed 17 (+5 Dex, +1 dodge, +9 natural, –2 size)
 
-**hp** 152 (16d10+64
+**hp** 152 (16d10+64)
 
 **Fort** +14, **Ref** +17, **Will** +5
 
-**DR** 10/—; **Immune** acid, [elemental](monster_dir/creatureTypes#_elemental-subtype traits
+**DR** 10/—; **Immune** acid, [elemental](monster_dir/creatureTypes#_elemental-subtype) traits
 
 Offense
 
-**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monster_dir/universalMonsterRules#_earth-glide
+**Speed** 20 ft., burrow 10 ft., swim 30 ft.; [earth glide](monsters/universalMonsterRules#_earth-glide)
 
-**Melee** 2 slams +24 (2d10+10/19–20 plus [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su))
+**Melee** 2 slams +24 (2d10+10/19–20 plus [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [entrap](monster_dir/universalMonsterRules#_entrap-(ex-or-su)) (DC 22, 10 minutes, hardness 5, hp 15
+**Special Attacks** [entrap](monsters/universalMonsterRules#_entrap-(ex-or-su)) (DC 22, 10 minutes, hardness 5, hp 15)
 
 Statistics
 
@@ -1033,9 +1033,9 @@ Statistics
 
 **Base Atk** +16; **CMB** +28; **CMD** 44
 
-**Feats** [Awesome Blow](additionalMonsters/../monster_dir/monsterFeats#_awesome-blow, [Cleave](additionalMonsters/../feats#_cleave), [Dodge](additionalMonsters/../feats#_dodge), [Great Cleave](additionalMonsters/../feats#_great-cleave), [Greater Bull Rush](additionalMonsters/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Improved Critical](additionalMonsters/../feats#_improved-critical) (slams), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Awesome Blow](additionalMonster_dir/../monster_dir/monsterFeats#_awesome-blow), [Cleave](additionalMonsters/../feats#_cleave), [Dodge](additionalMonster_dir/../feats#_dodge), [Great Cleave](additionalMonster_dir/../feats#_great-cleave), [Greater Bull Rush](additionalMonster_dir/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonster_dir/../feats#_improved-bull-rush), [Improved Critical](additionalMonster_dir/../feats#_improved-critical) (slams), [Lightning Reflexes](additionalMonster_dir/../feats#_lightning-reflexes), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +29, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +24, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +19, [Perception](additionalMonsters/../skill_dir/perception#_perception +19, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +16, [Swim](additionalMonsters/../skill_dir/swim#_swim +18
+**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +29, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +24, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +19, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +19, [Perception](additionalMonsters/../skill_dir/perception#_perception) +19, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +16, [Swim](additionalMonsters/../skill_dir/swim#_swim) +18
 
 Where the Plane of Earth borders the Plane of Water, a mixing of the fundamental elements occurs—it is in this borderland that the mud elementals dwell. Scorned by earth and water elementals, mud elementals usually look like vaguely recognizable blobs of mud in the shape of a Material Plane creature, whether a humanoid, an animal, or even an immense insect. The exact density of their muddy bodies varies—some might be composed of silty water, while others are thick, like river clay. Large and powerful mud elementals tend to have worm-like, reptilian, or frog-like forms.
 

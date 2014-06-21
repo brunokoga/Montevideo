@@ -1,5 +1,5 @@
 ---
-title: spells/eyebite
+title: spell_dir/eyebite
 ---
  **Eyebite**
 
@@ -13,7 +13,7 @@ title: spells/eyebite
 
 **Target** one living creature
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** : [Fortitude](../combat#_fortitude) negates; **[Spell Resistance](../glossary#_spell-resistance)** : yes
 

@@ -9,19 +9,19 @@ Dybbuk CR 15
 
 XP 51,200
 
-NE Medium undead ( [incorporeal](monster_dir/creatureTypes#_incorporeal-subtype)
+NE Medium undead ( [incorporeal](monster_dir/creatureTypes#_incorporeal-subtype))
 
-**Init** +15; **Senses** darkvision 60 ft.; [Perception](skill_dir/perception#_perception) +29
+**Init** +15; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +29
 
 Defense
 
 **AC** 28, touch 28, flat-footed 17 (+7 deflection, +11 Dex)
 
-**hp** 207 (18d8+126
+**hp** 207 (18d8+126)
 
 **Fort** +13, **Ref** +17, **Will** +17
 
-**Defensive Abilities** [incorporeal](monster_dir/creatureTypes#_incorporeal-subtype, channel [resistance](monster_dir/universalMonsterRules#_resistance +4; **DR** 10/good; **Immune** undead traits; **SR** 26
+**Defensive Abilities** [incorporeal](monster_dir/creatureTypes#_incorporeal-subtype), channel [resistance](monsters/universalMonsterRules#_resistance) +4; **DR** 10/good; **Immune** undead traits; **SR** 26
 
 Offense
 
@@ -33,11 +33,11 @@ Offense
 
 **Spell-Like Abilities** (CL 18th; concentration +25)
 
-At will—_ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (DC 19, _ [telekinesis](spell_dir/telekinesis#_telekinesis)_ (DC 22
+At will—_ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (DC 19), _ [telekinesis](spells/telekinesis#_telekinesis)_ (DC 22)
 
-3/day—_ [dominate monster](spell_dir/dominateMonster#_dominate-monster)_ (DC 22, _ [feeblemind](spell_dir/feeblemind#_feeblemind)_ (DC 22, _ [inflict serious wounds](spell_dir/inflictSeriousWounds#_inflict-serious-wounds)_ (DC 20
+3/day—_ [dominate monster](spell_dir/dominateMonster#_dominate-monster)_ (DC 22), _ [feeblemind](spells/feeblemind#_feeblemind)_ (DC 22), _ [inflict serious wounds](spell_dir/inflictSeriousWounds#_inflict-serious-wounds)_ (DC 20)
 
-1/day—_ [greater heroism](spell_dir/heroism#_heroism-greater_, _ [modify memory](spell_dir/modifyMemory#_modify-memory)_ (DC 21, _ [tongues](spell_dir/tongues#_tongues)_
+1/day—_ [greater heroism](spell_dir/heroism#_heroism-greater)_, _ [modify memory](spells/modifyMemory#_modify-memory)_ (DC 21), _ [tongues](spell_dir/tongues#_tongues)_
 
 Statistics
 
@@ -45,9 +45,9 @@ Statistics
 
 **Base Atk** +13; **CMB** +24; **CMD** 41
 
-**Feats** [Alertness](feats#_alertness), [Blind-Fight](feats#_blind-fight), [Combat Reflexes](feats#_combat-reflexes, [Flyby Attack](monster_dir/monsterFeats#_flyby-attack), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lunge](feats#_lunge), [Step Up](feats#_step-up), [Weapon Finesse](feats#_weapon-finesse
+**Feats** [Alertness](feats#_alertness), [Blind-Fight](feats#_blind-fight), [Combat Reflexes](feats#_combat-reflexes), [Flyby Attack](monsters/monsterFeats#_flyby-attack), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lunge](feats#_lunge), [Step Up](feats#_step-up), [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +25, [Diplomacy](skill_dir/diplomacy#_diplomacy +25, [Fly](skill_dir/fly#_fly +19, [Intimidate](skill_dir/intimidate#_intimidate +28, [Perception](skill_dir/perception#_perception +29, [Sense Motive](skill_dir/senseMotive#_sense-motive +29, [Stealth](skill_dir/stealth#_stealth) +32
+**Skills** [Bluff](skill_dir/bluff#_bluff) +25, [Diplomacy](skills/diplomacy#_diplomacy) +25, [Fly](skill_dir/fly#_fly) +19, [Intimidate](skills/intimidate#_intimidate) +28, [Perception](skill_dir/perception#_perception) +29, [Sense Motive](skills/senseMotive#_sense-motive) +29, [Stealth](skill_dir/stealth#_stealth) +32
 
 **Languages** Abyssal, Celestial, Common
 
@@ -61,11 +61,11 @@ Ecology
 
 Special Abilities
 
-**Malevolence (Su** Once per round, a dybbuk can merge itself with a creature on the Material Plane. This ability is similar to a _ [magic jar](spell_dir/magicJar#_magic-jar)_ spell (caster level 18th), except that it does not require a receptacle. To use this ability, the dybbuk must be adjacent to the target. The target can resist the attack with a successful DC 26 Will save. A creature that successfully saves is immune to that same dybbuk's malevolence for 24 hours. The save DC is Charisma-based.
+**Malevolence (Su)** Once per round, a dybbuk can merge itself with a creature on the Material Plane. This ability is similar to a _ [magic jar](spells/magicJar#_magic-jar)_ spell (caster level 18th), except that it does not require a receptacle. To use this ability, the dybbuk must be adjacent to the target. The target can resist the attack with a successful DC 26 Will save. A creature that successfully saves is immune to that same dybbuk's malevolence for 24 hours. The save DC is Charisma-based.
 
 **Pain Touch (Su)** With a successful touch attack, a dybbuk causes painful spasms throughout the target's body, dealing 7d6 points of damage. Creatures that are immune to pain take no damage from this touch.
 
-**Possess Object (Su** A dybbuk can use its malevolence ability to possess a Large or smaller unattended object, animating it as if using _ [animate objects](spell_dir/animateObjects#_animate-objects_, except the dybbuk merges with and controls the object as if it were a living creature. The dybbuk cannot speak or use its other special abilities while possessing the object.
+**Possess Object (Su)** A dybbuk can use its malevolence ability to possess a Large or smaller unattended object, animating it as if using _ [animate objects](spell_dir/animateObjects#_animate-objects)_, except the dybbuk merges with and controls the object as if it were a living creature. The dybbuk cannot speak or use its other special abilities while possessing the object.
 
 A dybbuk is a misplaced soul who has eluded judgment because of a some great transgression or a pitiful suicide. Like a ghost, it lingers on in the mortal world, either trying to fulfill an insane need to right some great failure that has marked its soul for eternity or merely to spread the torment it is condemned to face for eternity. Bodiless and left to wander, dybbuks grow increasingly bitter and resentful over the loss of their bodies and endlessly seek mortal or even inanimate forms to steal and use to sow suffering. Vile manipulators, they seek bodies that have the greatest potential to cause pain in those closest to their victims, taking pleasure in shifting a leader's agenda toward the destruction of her followers or torturing an innocent from within. Dybbuks also often animate unliving things to spread fear, reveling in the chaos resulting from manipulating corpses to confuse and terrify. Most also realize they have all of eternity to torment their chosen victims, and might lurk quietly near a living target for weeks or months, waiting for the right moment to act and begin their terrors anew.
 

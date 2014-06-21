@@ -11,7 +11,7 @@ _This magnificent beast looks like a white horse, but with a goat's beard and a 
 
 CG Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +10
+**Init** +3; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +10
 
 **Aura** magic circle against evil
 
@@ -35,13 +35,13 @@ CG Large [magical beast](creatureTypes#_magical-beast)
 
 **Special Attacks** [powerful charge](universalMonsterRules#_powerful-charge) (gore, 2d8+8)
 
-**Spell-Like Abilities** (CL 9th
+**Spell-Like Abilities** (CL 9th)
 
-At will—_ [detect evil](../spell_dir/detectEvil#_detect-evil)_ (as free action, _ [light](../spell_dir/light#_light_
+At will—_ [detect evil](../spell_dir/detectEvil#_detect-evil)_ (as free action), _ [light](../spell_dir/light#_light)_
 
-3/day—_ [cure light wounds](../spell_dir/cureLightWounds#_cure-light-wounds_
+3/day—_ [cure light wounds](../spell_dir/cureLightWounds#_cure-light-wounds)_
 
-1/day—_ [cure moderate wounds](../spell_dir/cureModerateWounds#_cure-moderate-wounds, [greater teleport](../spell_dir/teleport#_teleport-greater)_ (within its forest territory, _ [neutralize poison](../spell_dir/neutralizePoison#_neutralize-poison)_ (DC 21)
+1/day—_ [cure moderate wounds](../spell_dir/cureModerateWounds#_cure-moderate-wounds), [greater teleport](../spell_dir/teleport#_teleport-greater)_ (within its forest territory), _ [neutralize poison](../spell_dir/neutralizePoison#_neutralize-poison)_ (DC 21)
 
 **Statistics**
 
@@ -49,9 +49,9 @@ At will—_ [detect evil](../spell_dir/detectEvil#_detect-evil)_ (as free action
 
 **Base**  **Atk** +4; **CMB** +9; **CMD** 22 (26 vs. trip)
 
-**Feats** [Multiattack](monsterFeats#_multiattack, [Weapon Focus](../feats#_weapon-focus) (horn)
+**Feats** [Multiattack](monsterFeats#_multiattack), [Weapon Focus](../feats#_weapon-focus) (horn)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +8, [Perception](../skill_dir/perception#_perception +10, [Stealth](../skill_dir/stealth#_stealth +8, [Survival](../skill_dir/survival#_survival) +7 (+10 in forests; **Racial Modifiers** +3 [Survival](../skill_dir/survival#_survival in forests, +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +8, [Perception](../skill_dir/perception#_perception) +10, [Stealth](../skill_dir/stealth#_stealth) +8, [Survival](../skill_dir/survival#_survival) +7 (+10 in forests); **Racial Modifiers** +3 [Survival](../skill_dir/survival#_survival) in forests, +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Languages** Common, Sylvan
 
@@ -75,7 +75,7 @@ At will—_ [detect evil](../spell_dir/detectEvil#_detect-evil)_ (as free action
 
 Unicorns are fierce, intelligent creatures of the forest, noble beasts who keep their own counsel and typically appear only to defend their homes against evil. They universally shun all creatures except for good-aligned fey, good-aligned humanoid women, and the woodlands' native animals, though they may fight alongside other good creatures against common enemies. A typical unicorn is 8 feet long and 5 feet tall at the shoulder, weighing 1,200 pounds.
 
-Unicorns mate for life, and the pairs generally make their homes in specific glades or dells within the vast forests they protect (these regions can cover anywhere from a few dozen square miles to hundreds. They allow good and neutral creatures to pass through, hunt for food, or reside in their woods unharmed, but evil creatures and those who damage the local ecosystem more than necessary through sport hunting or commercial logging are swiftly driven out or killed. On rare occasions, lone unicorns without mates or whose partners have been slain have been known to adopt young women of exceptionally pure virtue as surrogates, allowing the women to ride on their backs and becoming their guardians and protectors for life. This bond generally ends amiably if the woman becomes more committed to someone else—such as a lover or child—giving rise to the myth that unicorns only befriend virgins.
+Unicorns mate for life, and the pairs generally make their homes in specific glades or dells within the vast forests they protect (these regions can cover anywhere from a few dozen square miles to hundreds). They allow good and neutral creatures to pass through, hunt for food, or reside in their woods unharmed, but evil creatures and those who damage the local ecosystem more than necessary through sport hunting or commercial logging are swiftly driven out or killed. On rare occasions, lone unicorns without mates or whose partners have been slain have been known to adopt young women of exceptionally pure virtue as surrogates, allowing the women to ride on their backs and becoming their guardians and protectors for life. This bond generally ends amiably if the woman becomes more committed to someone else—such as a lover or child—giving rise to the myth that unicorns only befriend virgins.
 
 A unicorn's horn is the focus for its powers, and in order to use its spell-like abilities on other creatures the unicorn must touch them with it. Evil creatures greatly value unicorn horns as reagents for healing potions and other dark rites, and a single powdered unicorn horn counts as 1,600 gp when used as a component for crafting healing magic.
 

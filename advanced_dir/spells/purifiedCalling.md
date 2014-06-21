@@ -1,5 +1,5 @@
 ---
-title: advanced/spell_dir/purifiedCalling
+title: advance_dir/spells/purifiedCalling
 ---
  **Purified Calling**
 
@@ -7,7 +7,7 @@ title: advanced/spell_dir/purifiedCalling
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a stick of incense
+**Components** V, S, M (a stick of incense)
 
 **Range** personal
 

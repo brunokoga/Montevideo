@@ -7,7 +7,7 @@ title: spell_dir/awaken
 
 **Casting Time** 24 hours
 
-**Components** V, S, M (herbs and oils worth 2,000 gp, DF
+**Components** V, S, M (herbs and oils worth 2,000 gp), DF
 
 **Range** touch
 

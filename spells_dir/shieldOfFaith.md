@@ -7,7 +7,7 @@ title: spell_dir/shieldOfFaith
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (parchment with a holy text written on it
+**Components** V, S, M (parchment with a holy text written on it)
 
 **Range** touch
 

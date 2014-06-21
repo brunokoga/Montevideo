@@ -365,7 +365,7 @@ Waterborne Movement: See Table: Mounts and Vehicles: Mounts and Vehicles for spe
 | Mount (carrying load) |
 | --- |
 | Light horse | 5 miles | 40 miles |
-| Light horse (175–525 lbs.ⁱ | 3 1/2 miles | 28 miles |
+| Light horse (175–525 lbs.)ⁱ | 3 1/2 miles | 28 miles |
 | Heavy horse | 5 miles | 40 miles |
 | Heavy horse (229–690 lbs.)ⁱ | 3-1/2 miles | 28 miles |
 | Pony | 4 miles | 32 miles |
@@ -402,7 +402,7 @@ Dwarves and half-orcs have darkvision, but the other races presented in [Races](
 [Table: Light Sources and Illumination]
 | Object | Normal | Increased | Duration |
 | --- | --- | --- | --- |
-| Candle | n/aⁱ | 5 ft. | 1 hr. |
+| Candle | _dir/aⁱ | 5 ft. | 1 hr. |
 | _Everburning torch_ | 20 ft. | 40 ft. | Permanent |
 | Lamp, common | 15 ft. | 30 ft. | 6 hr./pint |
 | Lantern, bullseye | 60-ft. cone | 120-ft. cone | 6 hr./pint |

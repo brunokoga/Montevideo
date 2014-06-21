@@ -1,5 +1,5 @@
 ---
-title: skills/intimidate
+title: skill_dir/intimidate
 ---
 # Intimidate
 

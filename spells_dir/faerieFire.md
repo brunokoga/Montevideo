@@ -1,5 +1,5 @@
 ---
-title: spells/faerieFire
+title: spell_dir/faerieFire
 ---
  **Faerie Fire**
 

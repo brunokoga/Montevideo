@@ -1,5 +1,5 @@
 ---
-title: advancedRaceGuide/featuredRace_dir/tengus
+title: advancedRaceGuid_dir/featuredRaces/tengus
 ---
 # Tengus
 
@@ -15,7 +15,7 @@ Most tengu communities tend to follow a tribal structure. Tribal rules remain lo
 
 **Relations** : Few races easily tolerate tengus. Of the most common races, only humans allow them to settle within their cities with any regularity. When this occurs, tengus inevitably form their own ghettos and ramshackle communities, typically in the most wretched neighborhoods. Regardless of their tolerance, most humans maintain as little contact with tengus as possible. Tengus occasionally make friends with halflings and gnomes, but only when they share mutual interests. Conversely, most dwarves have no patience for tengus whatsoever. Other races tend to view tengus in a similar fashion to humans, though many actively discourage them from settling in their realms.
 
-**Alignment and Religion** : Tengus tend to be neutral, though those who allow their impulsiveness to get the better of them lean toward chaotic neutral. Religious beliefs vary from tribe to tribe; some worship the traditional tengu gods (most of which are aspects of better-known deities, while others take to the worship of human gods or celestial spirits. Tengus can be fickle with regard to their patrons, quickly abandoning religious customs when they cease to provide any tangible benefit. Many embrace polytheism, picking and choosing to uphold the tenets of whatever deities best suit them at the time.
+**Alignment and Religion** : Tengus tend to be neutral, though those who allow their impulsiveness to get the better of them lean toward chaotic neutral. Religious beliefs vary from tribe to tribe; some worship the traditional tengu gods (most of which are aspects of better-known deities), while others take to the worship of human gods or celestial spirits. Tengus can be fickle with regard to their patrons, quickly abandoning religious customs when they cease to provide any tangible benefit. Many embrace polytheism, picking and choosing to uphold the tenets of whatever deities best suit them at the time.
 
 **Adventurers** : With little at home to leave behind, many tengus turn to a life of adventure seeking fame, fortune, and glory. A common tengu belief portrays a life on the road as a series of experiences and trials that form a path to enlightenment. Some take this to mean a path of spiritual empowerment; others view it as a way to perfect their arts or swordsmanship. Perhaps in spite of the prejudices upheld by outsiders, many tengu adventurers embrace their stereotypes. These individuals seek to succeed by epitomizing tengu racial qualities, and proudly flaunt their heritage. Despite their avian frailty, with their quick reflexes and quicker wits, tengus make excellent rogues and rangers, while those with a strong connection to the spirit world often become oracles. Those disciplined in the practice of martial arts take jobs as mercenaries and bodyguards in order to profit from their talents.
 
@@ -35,9 +35,9 @@ Most tengu communities tend to follow a tribal structure. Tribal rules remain lo
 
 **Senses** : Tengus have low-light vision.
 
-**Sneaky** : Tengus gain a +2 racial bonus on [Perception](skill_dir/perception#_perception and [Stealth](skill_dir/stealth#_stealth checks.
+**Sneaky** : Tengus gain a +2 racial bonus on [Perception](skill_dir/perception#_perception) and [Stealth](skills/stealth#_stealth) checks.
 
-**Gifted Linguist** : Tengus gain a +4 racial bonus on [Linguistics](skill_dir/linguistics#_linguistics checks, and learn 2 languages each time they gain a rank in [Linguistics](skill_dir/linguistics#_linguistics) rather than 1 language.
+**Gifted Linguist** : Tengus gain a +4 racial bonus on [Linguistics](skill_dir/linguistics#_linguistics) checks, and learn 2 languages each time they gain a rank in [Linguistics](skills/linguistics#_linguistics) rather than 1 language.
 
 **Swordtrained** : Tengus are trained from birth in swordplay, and as a result are automatically proficient with swordlike weapons (including bastard swords, daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short swords, and two-bladed swords).
 
@@ -51,11 +51,11 @@ The following racial traits may be selected instead of existing tengu racial tra
 
 **Carrion Sense** : Many tengus have a natural ability to sniff out carrion. While their sense of smell isn't as keen as that of other species, it is particularly attuned to the scent of injuries or death. Tengus with this racial trait have a limited scent ability, which only functions for corpses and badly wounded creatures (50% or fewer hit points). This racial trait replaces gifted linguist.
 
-**Claw Attack** : Tengus with this racial trait have learned to use their claws as natural weapons. They gain two claw attacks as primary natural attacks that deal 1d3 points of damage, and are treated as having the [Improved Unarmed Strike](feats#_improved-unarmed-strike feat for the purpose of qualifying for other feats. This racial trait replaces swordtrained.
+**Claw Attack** : Tengus with this racial trait have learned to use their claws as natural weapons. They gain two claw attacks as primary natural attacks that deal 1d3 points of damage, and are treated as having the [Improved Unarmed Strike](feats#_improved-unarmed-strike) feat for the purpose of qualifying for other feats. This racial trait replaces swordtrained.
 
 **Exotic Weapon Training** : Instead of swords, some tengus are trained in exotic weaponry. Such tengus choose a number of eastern weapons equal to 3 + their Intelligence bonus, and gain proficiency with these weapons. This racial trait replaces swordtrained.
 
-**Glide** : Some tengus can use their feathered arms and legs to glide. Tengus with this racial trait can make a DC 15 [Fly](skill_dir/fly#_fly check to fall safely from any height without taking falling damage, as if using _ [feather fall](spell_dir/featherFall#_feather-fall_. When falling safely, a tengu may make an additional DC 15 [Fly](skill_dir/fly#_fly check to glide, moving 5 feet laterally for every 20 feet he falls. This racial trait replaces gifted linguist.
+**Glide** : Some tengus can use their feathered arms and legs to glide. Tengus with this racial trait can make a DC 15 [Fly](skill_dir/fly#_fly) check to fall safely from any height without taking falling damage, as if using _ [feather fall](spells/featherFall#_feather-fall)_. When falling safely, a tengu may make an additional DC 15 [Fly](skill_dir/fly#_fly) check to glide, moving 5 feet laterally for every 20 feet he falls. This racial trait replaces gifted linguist.
 
 # Favored Class Options
 
@@ -83,15 +83,15 @@ The following racial archetypes are available to tengus.
 
 The shigenjo walks the path of enlightenment and transcendence by seeking oneness with the celestial spirits. In doing so, she unlocks the martial potential of her own spiritual power. A shigenjo has the following class features.
 
-**Class Skills** : A shigenjo adds [Knowledge](skill_dir/knowledge#_knowledge) (nature, [Knowledge](skill_dir/knowledge#_knowledge) (religion, [Knowledge](skill_dir/knowledge#_knowledge) (planes, and [Survival](skill_dir/survival#_survival to her list of class skills. These replace the additional class skills from her mystery.
+**Class Skills** : A shigenjo adds [Knowledge](skill_dir/knowledge#_knowledge) (nature), [Knowledge](skills/knowledge#_knowledge) (religion), [Knowledge](skill_dir/knowledge#_knowledge) (planes), and [Survival](skills/survival#_survival) to her list of class skills. These replace the additional class skills from her mystery.
 
 **Alignment** : Any neutral.
 
 **Recommended Mysteries** : ancestor, battle, fire, heavens, lore, metal, nature, stone, time, waves, wood.
 
-**Bonus Spells** : _ [true strike](spell_dir/trueStrike#_true-strike)_ (2nd, _ [alter self](spell_dir/alterSelf#_alter-self)_ (4th, _ [divine power](spell_dir/divinePower#_divine-power)_ (8th, _ [magic jar](spell_dir/magicJar#_magic-jar)_ (12th, _ [ki shout](ultimateMagic/spell_dir/kiShout#_ki-shout)_ (14th, , _ [moment of prescience](spell_dir/momentOfPrescience#_moment-of-prescience)_ (16th). These bonus spells replace the shigenjo's mystery bonus spells at these levels.
+**Bonus Spells** : _ [true strike](spell_dir/trueStrike#_true-strike)_ (2nd), _ [alter self](spells/alterSelf#_alter-self)_ (4th), _ [divine power](spell_dir/divinePower#_divine-power)_ (8th), _ [magic jar](spells/magicJar#_magic-jar)_ (12th), _ [ki shout](ultimateMagi_dir/spells/kiShout#_ki-shout)_ (14th, ), _ [moment of prescience](spell_dir/momentOfPrescience#_moment-of-prescience)_ (16th). These bonus spells replace the shigenjo's mystery bonus spells at these levels.
 
-**Ki Pool (Su** : At 7th level, a shigenjo gains a pool of _ki_ points, supernatural energy she can use to accomplish amazing feats. The number of points in the shigenjo's _ki_ pool is equal to 1/3 her oracle level + her Charisma modifier. The _ki_ pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. If the shigenjo possesses levels in another class that grants points to a _ki_ pool, _ki_ points gained from the shigenjo class stack with those gained from the other class to determine the total number of _ki_ points in the combined pool, but only one ability score modifier is added to the total. The choice of which score to use is made when the second class ability is gained, and once made, the choice is permanent. The shigenjo can use _ki_ points from this pool to power the abilities of every class she possesses that grants a _ki_ pool.
+**Ki Pool (Su)** : At 7th level, a shigenjo gains a pool of _ki_ points, supernatural energy she can use to accomplish amazing feats. The number of points in the shigenjo's _ki_ pool is equal to 1/3 her oracle level + her Charisma modifier. The _ki_ pool is replenished each morning after 8 hours of rest or meditation; these hours do not need to be consecutive. If the shigenjo possesses levels in another class that grants points to a _ki_ pool, _ki_ points gained from the shigenjo class stack with those gained from the other class to determine the total number of _ki_ points in the combined pool, but only one ability score modifier is added to the total. The choice of which score to use is made when the second class ability is gained, and once made, the choice is permanent. The shigenjo can use _ki_ points from this pool to power the abilities of every class she possesses that grants a _ki_ pool.
 
 As long as she has at least 1 point in her _ki_ pool, a shigenjo can make a _ki_ strike as a monk whose level is equal to her oracle level – 3. As a swift action, she may spend 1 point of _ki_ to gain one of the following benefits.
 
@@ -103,15 +103,15 @@ As long as she has at least 1 point in her _ki_ pool, a shigenjo can make a _ki_
 > 
 > This ability replaces the shigenjo's 7th-level revelation.
 
-**Quivering Palm (Su** : At 15th level, a shigenjo may learn quivering palm as the monk ability of the same name in place of a revelation. She treats her oracle level as her monk level for this ability, and the DC is based on her Charisma bonus instead of her Wisdom bonus.
+**Quivering Palm (Su)** : At 15th level, a shigenjo may learn quivering palm as the monk ability of the same name in place of a revelation. She treats her oracle level as her monk level for this ability, and the DC is based on her Charisma bonus instead of her Wisdom bonus.
 
-**Final Revelation** : Upon reaching 20th level, you achieve true enlightenment and becomes one with the celestial spirits. You gain the ability to speak with any creature that uses a language. For a number of days equal to your Wisdom score, you can ignore the negative effects of extreme weather, starvation, thirst, and exhaustion. If you die, your powerful connection to the celestial realm allows you to be reborn 3 days later (as _ [reincarnate](spell_dir/reincarnate#_reincarnate)_). This replaces the final revelation of the shigenjo's mystery.
+**Final Revelation** : Upon reaching 20th level, you achieve true enlightenment and becomes one with the celestial spirits. You gain the ability to speak with any creature that uses a language. For a number of days equal to your Wisdom score, you can ignore the negative effects of extreme weather, starvation, thirst, and exhaustion. If you die, your powerful connection to the celestial realm allows you to be reborn 3 days later (as _ [reincarnate](spells/reincarnate#_reincarnate)_). This replaces the final revelation of the shigenjo's mystery.
 
-## Swordmaster (Rogue
+## Swordmaster (Rogue)
 
 A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances. A swordmaster has the following class features.
 
-**Class Skills** : The swordmaster adds [Knowledge](skill_dir/knowledge#_knowledge) (nature and [Survival](skill_dir/survival#_survival to her list of class skills and removes [Disguise](skill_dir/disguise#_disguise and [Knowledge](skill_dir/knowledge#_knowledge) (dungeoneering) from her list of class skills.
+**Class Skills** : The swordmaster adds [Knowledge](skill_dir/knowledge#_knowledge) (nature) and [Survival](skills/survival#_survival) to her list of class skills and removes [Disguise](skill_dir/disguise#_disguise) and [Knowledge](skills/knowledge#_knowledge) (dungeoneering) from her list of class skills.
 
 **Trance (Ex)** : At 3rd level, a swordmaster learns to focus her martial prowess using an intense meditative trance. Under the influence of a trance, the swordmaster can perform fantastic martial feats. Entering a trance is a full-round action that provokes attacks of opportunity. The swordmaster can maintain the trance for a number of rounds per day equal to 4 + her Wisdom modifier. At each level beyond 3rd, she can remain in the trance for 1 additional round. She can end her trance as a free action. Following a trance, the swordmaster is fatigued for a number of rounds equal to 2 × the number of rounds she spent in the trance. A swordmaster cannot enter a new trance while fatigued but can otherwise enter a trance multiple times during a single encounter or combat. If a swordmaster falls unconscious, her trance immediately ends.
 
@@ -123,11 +123,11 @@ At 3rd level, the swordmaster chooses one trance from the list below. She choose
 > 
 > _Leopard Trance (Ex):_ Using the swiftness of the leopard, a swordmaster's evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the Mobility feat.
 > 
-> _Monkey Trance (Ex:_ As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster can make an [Acrobatics](skill_dir/acrobatics#_acrobatics) check opposed by an opponent's CMD. If she succeeds, she may move 5 feet as a swift action within the opponent's threatened area; this movement does not provoke attacks of opportunity and does not count as a 5-foot step.
+> _Monkey Trance (Ex):_ As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster can make an [Acrobatics](skill_dir/acrobatics#_acrobatics) check opposed by an opponent's CMD. If she succeeds, she may move 5 feet as a swift action within the opponent's threatened area; this movement does not provoke attacks of opportunity and does not count as a 5-foot step.
 > 
-> _Serpent Trance (Ex:_ Like the serpent, the swordmaster's quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster receives a +4 bonus on [Bluff](skill_dir/bluff#_bluff) checks made to feint during combat.
+> _Serpent Trance (Ex):_ Like the serpent, the swordmaster's quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster receives a +4 bonus on [Bluff](skills/bluff#_bluff) checks made to feint during combat.
 > 
-> _Tiger Trance (Ex:_ The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster can make a combat maneuver check against an opponent within charge range. If she succeeds, she may charge that opponent and make a full attack against that opponent.
+> _Tiger Trance (Ex):_ The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster can make a combat maneuver check against an opponent within charge range. If she succeeds, she may charge that opponent and make a full attack against that opponent.
 > 
 > This ability replaces all increments of trap sense.
 
@@ -176,7 +176,7 @@ Like many scavengers, you can stomach foods that would make weaker creatures ill
 
 **Prerequisite** : Tengu.
 
-**Benefit** : You gain a +2 racial bonus on saving throws against diseases and ingested poisons (but not other poisons. You receive a +2 bonus on [Survival](skill_dir/survival#_survival) skill checks to find food for yourself (and only yourself.
+**Benefit** : You gain a +2 racial bonus on saving throws against diseases and ingested poisons (but not other poisons). You receive a +2 bonus on [Survival](skills/survival#_survival) skill checks to find food for yourself (and only yourself).
 
 ### Long-Nose Form 
 
@@ -184,7 +184,7 @@ You can shift into the form of a human with an unusually long nose.
 
 **Prerequisites** : Character level 3rd, tengu.
 
-**Benefit** : Once per day, you can assume the form of a human whose nose is the length of your beak. This spell-like ability functions as _ [alter self](spell_dir/alterSelf#_alter-self_ with a caster level equal to your level. While in this form you gain the scent ability and a +2 bonus to your Strength score. Because your long nose in this form clearly indicates you are not fully human, you do not gain the normal bonus to [Disguise](skill_dir/disguise#_disguise) checks for using a polymorph effect (however, you could possibly explain the nose as an unfortunate curse or deformity, or hide it with an item such as a plague doctor's mask.
+**Benefit** : Once per day, you can assume the form of a human whose nose is the length of your beak. This spell-like ability functions as _ [alter self](spell_dir/alterSelf#_alter-self)_ with a caster level equal to your level. While in this form you gain the scent ability and a +2 bonus to your Strength score. Because your long nose in this form clearly indicates you are not fully human, you do not gain the normal bonus to [Disguise](skills/disguise#_disguise) checks for using a polymorph effect (however, you could possibly explain the nose as an unfortunate curse or deformity, or hide it with an item such as a plague doctor's mask).
 
 ### Scavenger's Eye
 
@@ -192,7 +192,7 @@ Your gaze is naturally drawn to valuable glittering objects.
 
 **Prerequisite** : Tengu.
 
-**Benefit** : You gain a +2 bonus on [Appraise](skill_dir/appraise#_appraise checks. You may determine the most valuable item in a hoard as a standard action and gain an additional +2 bonus on the [Appraise](skill_dir/appraise#_appraise check to do so. In addition, if you fail an [Appraise](skill_dir/appraise#_appraise) check by 5 or more, you treat the check as if you had failed by less than 5.
+**Benefit** : You gain a +2 bonus on [Appraise](skill_dir/appraise#_appraise) checks. You may determine the most valuable item in a hoard as a standard action and gain an additional +2 bonus on the [Appraise](skills/appraise#_appraise) check to do so. In addition, if you fail an [Appraise](skill_dir/appraise#_appraise) check by 5 or more, you treat the check as if you had failed by less than 5.
 
 **Normal** : Determining the most valuable object in a treasure hoard takes 1 full-round action.
 
@@ -202,7 +202,7 @@ You can shift into the form of a giant black raven.
 
 **Prerequisites** : Tengu Wings, character level 7th, tengu.
 
-**Benefit** : Once per day, you can take the form of a Large black bird resembling a raven, granting you a fly speed of 60 feet (good maneuverability, a +4 size bonus to your Strength, a –2 penalty to your Dexterity, and a +4 natural armor bonus. This spell-like ability otherwise functions as _ [beast shape II](spell_dir/beastShape#_beast-shape-ii)_ with a caster level equal to your level.
+**Benefit** : Once per day, you can take the form of a Large black bird resembling a raven, granting you a fly speed of 60 feet (good maneuverability), a +4 size bonus to your Strength, a –2 penalty to your Dexterity, and a +4 natural armor bonus. This spell-like ability otherwise functions as _ [beast shape II](spells/beastShape#_beast-shape-ii)_ with a caster level equal to your level.
 
 ### Tengu Wings 
 
@@ -210,7 +210,7 @@ You can grow wings that allow you to fly.
 
 **Prerequisites** : Character level 5th, tengu.
 
-**Benefit** : Once per day, you can sprout a pair of giant black crow's wings, granting you a fly speed of 30 feet (average maneuverability. This spell-like ability otherwise functions as _ [beast shape I](spell_dir/beastShape#_beast-shape-i)_ (though you do not gain any other benefits of that spell with a caster level equal to your level.
+**Benefit** : Once per day, you can sprout a pair of giant black crow's wings, granting you a fly speed of 30 feet (average maneuverability). This spell-like ability otherwise functions as _ [beast shape I](spell_dir/beastShape#_beast-shape-i)_ (though you do not gain any other benefits of that spell) with a caster level equal to your level.
 
 ## Tengu Magic Items
 
@@ -224,11 +224,11 @@ Black Feather Fan
 
 Description
 
-This elaborate fan is made with a dozen black feathers set into a metal handle embossed with a stylized crest. The bearer can use it to create a _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind_, _ [whispering wind](spell_dir/whisperingWind#_whispering-wind_, or _ [wind wall](spell_dir/windWall#_wind-wall)_. The fan's effects can be used 3 times per day, in any combination.
+This elaborate fan is made with a dozen black feathers set into a metal handle embossed with a stylized crest. The bearer can use it to create a _ [gust of wind](spells/gustOfWind#_gust-of-wind)_, _ [whispering wind](spell_dir/whisperingWind#_whispering-wind)_, or _ [wind wall](spells/windWall#_wind-wall)_. The fan's effects can be used 3 times per day, in any combination.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind_, _ [whispering wind](spell_dir/whisperingWind#_whispering-wind_, _ [wind wall](spell_dir/windWall#_wind-wall)_; **Cost** 5,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind)_, _ [whispering wind](spells/whisperingWind#_whispering-wind)_, _ [wind wall](spell_dir/windWall#_wind-wall)_; **Cost** 5,000 gp
 
 Black Jade Raven (Figurine Of Wondrous Power)
 
@@ -238,13 +238,13 @@ Black Jade Raven (Figurine Of Wondrous Power)
 
 Description
 
-This fist-sized piece of black jade is exquisitely tooled into the shape of a raven with outstretched wings. Upon command, it transforms into a black raven (use the stats for an eagle) or a giant black raven (use the stats for a giant eagle. Both forms of the raven have [Improved Steal](advance_dir/advancedFeats#_improved-steal) as a bonus feat. The raven understands Common but cannot speak. It can answer questions related to its abilities or what it has seen by cawing once for "yes" and twice for "no."
+This fist-sized piece of black jade is exquisitely tooled into the shape of a raven with outstretched wings. Upon command, it transforms into a black raven (use the stats for an eagle) or a giant black raven (use the stats for a giant eagle). Both forms of the raven have [Improved Steal](advanced/advancedFeats#_improved-steal) as a bonus feat. The raven understands Common but cannot speak. It can answer questions related to its abilities or what it has seen by cawing once for "yes" and twice for "no."
 
 The raven can maintain its non-figurine status for only 24 hours per week. This duration need not be continuous, but it must be used in 1-hour increments. After three transformations into its giant raven form (though not its smaller version), the statuette loses all magical properties.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [animate objects](spell_dir/animateObjects#_animate-objects_; **Cost** 4,550 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [animate objects](spell_dir/animateObjects#_animate-objects)_; **Cost** 4,550 gp
 
 Red Feather Fan
 
@@ -254,11 +254,11 @@ Red Feather Fan
 
 Description
 
-This fan is made of copper fashioned into a dozen small feathers mounted on a ring-shaped bone handle. Once per day, the bearer can hold it and speak a command word to counterspell a darkness effect (as if using _ [daylight](spell_dir/daylight#_daylight)_ or counterspell a light effect (as if using _ [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness)_). If activated in an area of overlapping light and darkness effects, the fan randomly counterspells one of them, leaving the other intact.
+This fan is made of copper fashioned into a dozen small feathers mounted on a ring-shaped bone handle. Once per day, the bearer can hold it and speak a command word to counterspell a darkness effect (as if using _ [daylight](spells/daylight#_daylight)_) or counterspell a light effect (as if using _ [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness)_). If activated in an area of overlapping light and darkness effects, the fan randomly counterspells one of them, leaving the other intact.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [daylight](spell_dir/daylight#_daylight_, _ [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness_; **Cost** 2,500 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [daylight](spells/daylight#_daylight)_, _ [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness)_; **Cost** 2,500 gp
 
 Tengu Drinking Jug
 
@@ -268,11 +268,11 @@ Tengu Drinking Jug
 
 Description
 
-This looks like a one-gallon stoneware jug with white glaze, black birds painted around the middle, and a cork stopper tied about the neck with a hemp cord. Any liquid placed within the jug becomes safe to drink, as though affected by _ [purify food and drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink)_ (though the jug only affects liquids). Three times per day, the bearer can command the jug to alter the temperature of its contents so that it ranges anywhere from ice cold to boiling hot. Once per day, the bearer can command water placed into the jug to transform into plum liquor, sake, or tea. A tengu jug holds up to 1 gallon of any liquid.
+This looks like a one-gallon stoneware jug with white glaze, black birds painted around the middle, and a cork stopper tied about the neck with a hemp cord. Any liquid placed within the jug becomes safe to drink, as though affected by _ [purify food and drink](spells/purifyFoodAndDrink#_purify-food-and-drink)_ (though the jug only affects liquids). Three times per day, the bearer can command the jug to alter the temperature of its contents so that it ranges anywhere from ice cold to boiling hot. Once per day, the bearer can command water placed into the jug to transform into plum liquor, sake, or tea. A tengu jug holds up to 1 gallon of any liquid.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation_, _ [purify food and drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink_; **Cost** 500 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation)_, _ [purify food and drink](spells/purifyFoodAndDrink#_purify-food-and-drink)_; **Cost** 500 gp
 
 ## Tengu Spells
 
@@ -280,7 +280,7 @@ Tengus have access to the following spells.
 
 Commune with Birds
 
-**School** divination; **Level** bard 2, druid 1, ranger 1, sorcerer/wizard 2, witch 2
+**School** divination; **Level** bard 2, druid 1, ranger 1, sorcere_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -292,9 +292,9 @@ Commune with Birds
 
 **Duration** 10 minutes; see text
 
-You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can understand the responses given by birds in the area. Over the next 10 minutes, the birds reply as if you had asked them the question using _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals_, giving you a general consensus answer to the question based on their knowledge. For example, you could ask if there is drinkable water in the area, the location of predators or other creatures, directions to a mountaintop or other natural feature, and so on, and the local bird communities would answer to the best of their ability.
+You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can understand the responses given by birds in the area. Over the next 10 minutes, the birds reply as if you had asked them the question using _ [speak with animals](spells/speakWithAnimals#_speak-with-animals)_, giving you a general consensus answer to the question based on their knowledge. For example, you could ask if there is drinkable water in the area, the location of predators or other creatures, directions to a mountaintop or other natural feature, and so on, and the local bird communities would answer to the best of their ability.
 
-If there are no birds in range, the spell has no effect and you do not get a response. Any creature using _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals)_ (or a similar ability who hears this bird call can understand your question, though it may not be able to reply in a way you can hear.
+If there are no birds in range, the spell has no effect and you do not get a response. Any creature using _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals)_ (or a similar ability) who hears this bird call can understand your question, though it may not be able to reply in a way you can hear.
 
 Theft Ward
 
@@ -310,11 +310,11 @@ Theft Ward
 
 **Duration** 1 day
 
-You ward a single object in your possession against theft. You gain a +10 bonus on [Perception](skill_dir/perception#_perception checks to notice someone trying to take the object from you.
+You ward a single object in your possession against theft. You gain a +10 bonus on [Perception](skill_dir/perception#_perception) checks to notice someone trying to take the object from you.
 
 Winter Feathers
 
-**School** abjuration; **Level** cleric 1, druid 1, inquisitor 1, ranger 1, sorcere_dir/wizard 1
+**School** abjuration; **Level** cleric 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -328,7 +328,7 @@ Winter Feathers
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The target's feathers thicken and fluff up to ward against winter's chill. The target suffers no harm from being in a cold environment, and can exist comfortably in conditions as low as –50 degrees Fahrenheit without having to make Fortitude saves. The creature's equipment is likewise protected. This spell doesn't provide any protection from cold damage, nor does it protect against other environmental hazards associated with cold weather (such as slipping on ice, blindness from snow, and so on.
+The target's feathers thicken and fluff up to ward against winter's chill. The target suffers no harm from being in a cold environment, and can exist comfortably in conditions as low as –50 degrees Fahrenheit without having to make Fortitude saves. The creature's equipment is likewise protected. This spell doesn't provide any protection from cold damage, nor does it protect against other environmental hazards associated with cold weather (such as slipping on ice, blindness from snow, and so on).
 
-When you cast this spell, you may have the target's feathers turn white for the duration, granting it a +4 circumstance bonus on [Stealth](skill_dir/stealth#_stealth checks to hide in ice and snow.
+When you cast this spell, you may have the target's feathers turn white for the duration, granting it a +4 circumstance bonus on [Stealth](skill_dir/stealth#_stealth) checks to hide in ice and snow.
 

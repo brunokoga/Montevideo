@@ -3,17 +3,17 @@ title: spell_dir/polymorph
 ---
  **Polymorph**
 
-**School** transmutation (polymorph; **Level** sorcere_dir/wizard 5
+**School** transmutation (polymorph); **Level** sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a piece of the creature whose form you choose
+**Components** V, S, M (a piece of the creature whose form you choose)
 
 **Range** touch
 
 **Target** living creature touched
 
-**Duration** 1 mi_dir/level (D
+**Duration** 1 mi_dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 
@@ -25,5 +25,5 @@ If you use this spell to cause the target to take on the form of an animal, the 
 
 **School** transmutation (polymorph); **Level** sorcere_dir/wizard 7
 
-This spell functions as _polymorph_ except that it allows the creature to take on the form of a dragon or plant creature. If you use this spell to cause the target to take on the form of an animal or magical beast, it functions as _ [beast shape IV](beastShape#_beast-shape-iv)_. If the form is that of an elemental, the spell functions as _ [elemental body III](elementalBody#_elemental-body-iii). _If the form is that of a humanoid, the spell functions as _ [alter self](alterSelf#_alter-self)_. If the form is that of a plant, the spell functions as _ [plant shape II](plantShape#_plant-shape-ii). _If the form is that of a dragon, the spell functions as _ [form of the dragon I](formOfTheDragon#_form-of-the-dragon-i. _The subject may choose to resume its normal form as a full-round action; doing so ends the spell.
+This spell functions as _polymorph_ except that it allows the creature to take on the form of a dragon or plant creature. If you use this spell to cause the target to take on the form of an animal or magical beast, it functions as _ [beast shape IV](beastShape#_beast-shape-iv)_. If the form is that of an elemental, the spell functions as _ [elemental body III](elementalBody#_elemental-body-iii). _If the form is that of a humanoid, the spell functions as _ [alter self](alterSelf#_alter-self)_. If the form is that of a plant, the spell functions as _ [plant shape II](plantShape#_plant-shape-ii). _If the form is that of a dragon, the spell functions as _ [form of the dragon I](formOfTheDragon#_form-of-the-dragon-i). _The subject may choose to resume its normal form as a full-round action; doing so ends the spell.
 

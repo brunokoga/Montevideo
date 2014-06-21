@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/classArchetype_dir/cavalier
+title: ultimateComba_dir/classArchetypes/cavalier
 ---
 # Cavalier
 
@@ -15,9 +15,9 @@ The cavaliers of the order of the blue rose dedicate themselves to promoting pea
 
 **Edicts** : The cavalier must guard against needless violence, protecting both the land and its people from wars they neither started nor wish to fight. He must seek to stop conflict with a minimum of bloodshed, to encourage peaceful resolutions to disagreements between intelligent creatures, and to mend the wounds opened by battle. He must also honor quarter when he gives it, protecting captives who have surrendered from his own allies if need be.
 
-**Challenge** : Whenever an order of the blue rose cavalier issues a challenge, he receives a +1 morale bonus on attack rolls made against the target of his challenge, if the target is an intelligent creature to whom the cavalier offered the chance to surrender (by taking a standard action to offer terms). This bonus increases by +1 for every four levels the cavalier possesses (to a maximum of +5 at 17th level.
+**Challenge** : Whenever an order of the blue rose cavalier issues a challenge, he receives a +1 morale bonus on attack rolls made against the target of his challenge, if the target is an intelligent creature to whom the cavalier offered the chance to surrender (by taking a standard action to offer terms). This bonus increases by +1 for every four levels the cavalier possesses (to a maximum of +5 at 17th level).
 
-**Skills** : An order of the blue rose cavalier adds [Knowledge](skill_dir/knowledge#_knowledge) (history) (Int and [Knowledge](skill_dir/knowledge#_knowledge) (nobility) (Int to his list of class skills. Whenever an order of the blue rose cavalier uses [Diplomacy](skill_dir/diplomacy#_diplomacy to try to mediate a dispute between two parties that do not include him, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1).
+**Skills** : An order of the blue rose cavalier adds [Knowledge](skill_dir/knowledge#_knowledge) (history) (Int) and [Knowledge](skills/knowledge#_knowledge) (nobility) (Int) to his list of class skills. Whenever an order of the blue rose cavalier uses [Diplomacy](skill_dir/diplomacy#_diplomacy) to try to mediate a dispute between two parties that do not include him, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1).
 
 **Order Abilities** : A cavalier belonging to the order of the blue rose gains the following abilities as he increases in level.
 
@@ -35,13 +35,13 @@ _ [Shield](spell_dir/shield#_shield) of Blades (Ex)_: At 15th level, the cavalie
 
 ## Order of the Seal
 
-Cavaliers of the order of the seal are a secretive order, each charged with the protection of a specific object (such as a dangerous magic item), place (a lost temple), or secret (that a certain peasant is actually the last descendant of the royal line. Such cavaliers are the defenders of ancient traditions or the servants of rulers with important secrets to hide, sometimes having to search out such secrets in order to properly protect and preserve them.
+Cavaliers of the order of the seal are a secretive order, each charged with the protection of a specific object (such as a dangerous magic item), place (a lost temple), or secret (that a certain peasant is actually the last descendant of the royal line). Such cavaliers are the defenders of ancient traditions or the servants of rulers with important secrets to hide, sometimes having to search out such secrets in order to properly protect and preserve them.
 
 **Edicts** : The cavalier must guard his sworn charge with all he has: his health, his honor, and his very life. If his charge is a place, he must keep intruders out. If it is a thing, he must keep it safe from thieves—and restore the item to its rightful place if taken.
 
 **Challenge** : An order of the seal cavalier can make a free bull rush or trip combat maneuver anytime he takes the full-attack action against the target of his challenge. This free combat maneuver does not provoke an attack of opportunity.
 
-**Skills** : An order of the seal cavalier adds [Disable Device](skill_dir/disableDevice#_disable-device) (Dex and [Linguistics](skill_dir/linguistics#_linguistics) (Int to his list of class skills. Whenever the cavalier uses [Bluff](skill_dir/bluff#_bluff to conceal information about his sworn charge, he receives a competence bonus equal to 1/2 his cavalier level (minimum +1).
+**Skills** : An order of the seal cavalier adds [Disable Device](skills/disableDevice#_disable-device) (Dex) and [Linguistics](skill_dir/linguistics#_linguistics) (Int) to his list of class skills. Whenever the cavalier uses [Bluff](skills/bluff#_bluff) to conceal information about his sworn charge, he receives a competence bonus equal to 1/2 his cavalier level (minimum +1).
 
 **Order Abilities** : A cavalier belonging to the order of the seal gains the following abilities as he increases in level.
 
@@ -61,25 +61,25 @@ _Staggering Assault (Ex)_: At 15th level, the cavalier can drive opponents back 
 
 [Knowledge](skill_dir/knowledge#_knowledge) is the stepping stone of both truth and power. The members of this order devote themselves to the preservation of knowledge. Most would protect written knowledge at all costs, but there are members that believe there is such thing as knowledge too dangerous to be allowed to exist, and seek to destroy it.
 
-**Edicts** : An order of the tome cavalier must protect written knowledge (or at least approved knowledge at all costs. Some are also devoted to the destruction of proscribed knowledge and are equally zealous in the pursuit of its destruction. Most of these cavaliers believe that the preservation of a written work is more important than a single life, even their own, as it ensures future generations benefit from its wisdom.
+**Edicts** : An order of the tome cavalier must protect written knowledge (or at least approved knowledge) at all costs. Some are also devoted to the destruction of proscribed knowledge and are equally zealous in the pursuit of its destruction. Most of these cavaliers believe that the preservation of a written work is more important than a single life, even their own, as it ensures future generations benefit from its wisdom.
 
-**Challenge** : Whenever an order of the tome cavalier issues a challenge, he receives a +2 bonus on all saving throws against spells or spell-like abilities cast by the subject of his challenge and a +2 bonus on all [Bluff](skill_dir/bluff#_bluff and Sense motive checks involving the subject of his challenge.
+**Challenge** : Whenever an order of the tome cavalier issues a challenge, he receives a +2 bonus on all saving throws against spells or spell-like abilities cast by the subject of his challenge and a +2 bonus on all [Bluff](skills/bluff#_bluff) and Sense motive checks involving the subject of his challenge.
 
-**Skills** : An order of the tome cavalier adds [Knowledge](skill_dir/knowledge#_knowledge) (arcana, [Knowledge](skill_dir/knowledge#_knowledge) (religion, and [Linguistics](skill_dir/linguistics#_linguistics to his list of class skills. Furthermore, he can use [Linguistics](skill_dir/linguistics#_linguistics untrained. If he has ranks in [Linguistics](skill_dir/linguistics#_linguistics, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1).
+**Skills** : An order of the tome cavalier adds [Knowledge](skill_dir/knowledge#_knowledge) (arcana), [Knowledge](skills/knowledge#_knowledge) (religion), and [Linguistics](skill_dir/linguistics#_linguistics) to his list of class skills. Furthermore, he can use [Linguistics](skills/linguistics#_linguistics) untrained. If he has ranks in [Linguistics](skill_dir/linguistics#_linguistics), he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1).
 
 **Order Abilities** : A cavalier belonging to the order of the tome gains the following abilities as he increases in level.
 
-_Specialized Knowledge (Ex)_: At 2nd level, an order of the tome cavalier chooses either [Knowledge](skill_dir/knowledge#_knowledge) (arcana or [Knowledge](skill_dir/knowledge#_knowledge) (religion. He can make the chosen skill checks untrained. He cannot change his chosen skill later. If he has ranks in his chosen skill, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1) as long as that check involves a book, tome, scroll, or any other form of written knowledge.
+_Specialized Knowledge (Ex)_: At 2nd level, an order of the tome cavalier chooses either [Knowledge](skill_dir/knowledge#_knowledge) (arcana) or [Knowledge](skills/knowledge#_knowledge) (religion). He can make the chosen skill checks untrained. He cannot change his chosen skill later. If he has ranks in his chosen skill, he receives a bonus on the check equal to 1/2 his cavalier level (minimum +1) as long as that check involves a book, tome, scroll, or any other form of written knowledge.
 
   
   
 
-_Powerful Knowledge (Ex)_: At 8th level, the cavalier gains the ability to read scrolls and cast arcane or divine spells from a scroll as if he had a caster level of his cavalier level –4. He can decipher all scrolls, using his [Linguistics](skill_dir/linguistics#_linguistics skill in place of [Spellcraft](skill_dir/spellcraft#_spellcraft, and does not need to cast _ [read magic](spell_dir/readMagic#_read-magic_ in order to decipher a scroll. Which type of spell the cavalier can cast is based on the [Knowledge](skill_dir/knowledge#_knowledge skill he chose for specialized knowledge. If he chose [Knowledge](skill_dir/knowledge#_knowledge) (arcana, he can cast any arcane spells from a scroll. If he chose [Knowledge](skill_dir/knowledge#_knowledge) (religion), he can cast any divine spells from a scroll. Furthermore, he gains a +1 bonus to an ability score for purposes of determining the level of spells he can cast from a scroll, and this bonus increases by +1 at 10th level and every 5 levels thereafter (to a maximum of +4 at 20th level. The ability score that gains the bonus is dependent on which skill the cavalier picked for his specialized knowledge ability. If the cavalier picked [Knowledge](skill_dir/knowledge#_knowledge) (arcana, he gains the bonus to Intelligence. If he picked [Knowledge](skill_dir/knowledge#_knowledge) (religion), he gains the bonus to Wisdom.
+_Powerful Knowledge (Ex)_: At 8th level, the cavalier gains the ability to read scrolls and cast arcane or divine spells from a scroll as if he had a caster level of his cavalier level –4. He can decipher all scrolls, using his [Linguistics](skill_dir/linguistics#_linguistics) skill in place of [Spellcraft](skills/spellcraft#_spellcraft), and does not need to cast _ [read magic](spell_dir/readMagic#_read-magic)_ in order to decipher a scroll. Which type of spell the cavalier can cast is based on the [Knowledge](skills/knowledge#_knowledge) skill he chose for specialized knowledge. If he chose [Knowledge](skill_dir/knowledge#_knowledge) (arcana), he can cast any arcane spells from a scroll. If he chose [Knowledge](skills/knowledge#_knowledge) (religion), he can cast any divine spells from a scroll. Furthermore, he gains a +1 bonus to an ability score for purposes of determining the level of spells he can cast from a scroll, and this bonus increases by +1 at 10th level and every 5 levels thereafter (to a maximum of +4 at 20th level). The ability score that gains the bonus is dependent on which skill the cavalier picked for his specialized knowledge ability. If the cavalier picked [Knowledge](skill_dir/knowledge#_knowledge) (arcana), he gains the bonus to Intelligence. If he picked [Knowledge](skills/knowledge#_knowledge) (religion), he gains the bonus to Wisdom.
 
   
   
 
-_Defensive Knowledge (Ex)_: At 15th level, an order of the tome cavalier can grant nearby allies some of the boons of his cavalier challenge. While allies are adjacent to the cavalier, they gain a +2 bonus on all saving throws against spells or spell-like abilities cast by the subject of the cavalier's challenge. In addition, as an immediate action, a number of times per day equal to the cavalier's Intelligence modifier (minimum 1) or Wisdom modifier (minimum 1, the cavalier can allow an ally adjacent to him to reroll a single failed saving throw against a spell or spell-like ability from the target of his challenge. The ally must be able to see and hear the cavalier in order to gain this reroll. The ability score that determines how many times per day a cavalier can use this ability depends on which [Knowledge](skill_dir/knowledge#_knowledge skill the cavalier picked for specialized knowledge. If the cavalier picked [Knowledge](skill_dir/knowledge#_knowledge) (arcana, the number of times per day this ability can be used is based on Intelligence. If he picked [Knowledge](skill_dir/knowledge#_knowledge) (religion) it is based on Wisdom.
+_Defensive Knowledge (Ex)_: At 15th level, an order of the tome cavalier can grant nearby allies some of the boons of his cavalier challenge. While allies are adjacent to the cavalier, they gain a +2 bonus on all saving throws against spells or spell-like abilities cast by the subject of the cavalier's challenge. In addition, as an immediate action, a number of times per day equal to the cavalier's Intelligence modifier (minimum 1) or Wisdom modifier (minimum 1), the cavalier can allow an ally adjacent to him to reroll a single failed saving throw against a spell or spell-like ability from the target of his challenge. The ally must be able to see and hear the cavalier in order to gain this reroll. The ability score that determines how many times per day a cavalier can use this ability depends on which [Knowledge](skill_dir/knowledge#_knowledge) skill the cavalier picked for specialized knowledge. If the cavalier picked [Knowledge](skills/knowledge#_knowledge) (arcana), the number of times per day this ability can be used is based on Intelligence. If he picked [Knowledge](skill_dir/knowledge#_knowledge) (religion) it is based on Wisdom.
 
 # Cavalier Archetypes
 
@@ -91,9 +91,9 @@ The cavalier is defined not only by his dedication to his order or his skill on 
 
 **Armor Proficiency** : A beast rider is proficient with light and medium armor, and with shields (with the exception of tower shields).
 
-**Exotic Mount (Ex)** : At 1st level, a beast rider forms a bond with a strong, loyal companion that permits him to ride it as a mount. This mount functions as a druid's animal companion, using the beast rider's level as his effective druid level. The animal chosen as a mount must be large enough to carry the beast rider (Medium or Large for a Small character; Large or Huge for a Medium character.
+**Exotic Mount (Ex)** : At 1st level, a beast rider forms a bond with a strong, loyal companion that permits him to ride it as a mount. This mount functions as a druid's animal companion, using the beast rider's level as his effective druid level. The animal chosen as a mount must be large enough to carry the beast rider (Medium or Large for a Small character; Large or Huge for a Medium character).
 
-The beast rider does not take an armor check penalty on [Ride](skill_dir/ride#_ride) checks while riding his mount. The mount is always considered combat trained, and begins play with [Endurance](feats#_endurance) as a bonus feat. A beast rider's mount does not gain the share spells special ability.
+The beast rider does not take an armor check penalty on [Ride](skills/ride#_ride) checks while riding his mount. The mount is always considered combat trained, and begins play with [Endurance](feats#_endurance) as a bonus feat. A beast rider's mount does not gain the share spells special ability.
 
 Each time the beast rider increases in level, he can choose to select a new, more impressive mount better suited to his increased power.
 
@@ -119,9 +119,9 @@ Cavaliers serve many roles on the battlefield, from bold leaders and shock troop
 
 **Battlefield Agility (Ex)** : At 5th level, an emissary learns to be more aware of the threats that surround him in combat, and shares this awareness with his loyal steed. Both the emissary and his mount gain [Mobility](feats#_mobility) as a bonus feat. This ability replaces banner.
 
-**Mounted Acrobatics (Ex** : At 9th level, an emissary is even more adept at hopping on and off his steed, and even dropping alongside its flanks mid-gallop. He gains [Trick Riding](advance_dir/advancedFeats#_trick-riding-(combat)) as a bonus feat, even if he does not meet the prerequisites. The emissary can employ this feat even when wearing medium armor. This ability replaces greater tactician.
+**Mounted Acrobatics (Ex)** : At 9th level, an emissary is even more adept at hopping on and off his steed, and even dropping alongside its flanks mid-gallop. He gains [Trick Riding](advance_dir/advancedFeats#_trick-riding-(combat)) as a bonus feat, even if he does not meet the prerequisites. The emissary can employ this feat even when wearing medium armor. This ability replaces greater tactician.
 
-**Mounted Dervish (Ex** : At 14th level, an emissary becomes a fearsome, mobile foe on the battlefield. He gains [Mounted Skirmisher](advance_dir/advancedFeats#_mounted-skirmisher-(combat)) as a bonus feat, even if he does not meet the prerequisites. In addition, whenever the emissary is mounted and takes the charge action, he adds 10 feet to his mount's speed. This ability replaces greater banner.
+**Mounted Dervish (Ex)** : At 14th level, an emissary becomes a fearsome, mobile foe on the battlefield. He gains [Mounted Skirmisher](advanced/advancedFeats#_mounted-skirmisher-(combat)) as a bonus feat, even if he does not meet the prerequisites. In addition, whenever the emissary is mounted and takes the charge action, he adds 10 feet to his mount's speed. This ability replaces greater banner.
 
 **Erratic Charge (Ex)** : At 17th level, an emissary learns to ride through the thick of combat, striking and then moving away with blinding speed. Whenever the emissary is mounted and takes the charge action, he can first move 10 feet and make a melee attack. This first attack is not a charge, but a regular melee attack, and the movement counts toward the total allowed movement for the round. After making this attack, the emissary must still move in a straight line to reach the target of his charge, and he takes a –5 penalty on the attack roll for the attack at the end of his charge. This ability replaces supreme charge.
 
@@ -139,7 +139,7 @@ Certain cavaliers are trained not as advance combatants, but as loyal guards, st
 
 **Sworn Defense (Ex)** : At 1st level, whenever an honor guard issues a challenge, he can select one ally as his ward for the duration of the challenge. Whenever the honor guard is adjacent to his ward, he takes a –1 penalty to Armor Class, and the ward receives a +1 dodge bonus to AC. This modifies the challenge ability
 
-**Intercept (Ex** : At 3rd level, an honor guard learns to better disrupt the attacks of his enemies. He gains [Bodyguard](advance_dir/advancedFeats#_bodyguard-(combat)) (_Advanced Player's Guide_ 151) as a bonus feat, even if he does not meet the prerequisite. In addition, whenever the honor guard uses the aid another action to increase an ally's Armor Class, the bonus to Armor Class granted by the aid another action increases by +1. This ability replaces cavalier's charge.
+**Intercept (Ex)** : At 3rd level, an honor guard learns to better disrupt the attacks of his enemies. He gains [Bodyguard](advance_dir/advancedFeats#_bodyguard-(combat)) (_Advanced Player's Guide_ 151) as a bonus feat, even if he does not meet the prerequisite. In addition, whenever the honor guard uses the aid another action to increase an ally's Armor Class, the bonus to Armor Class granted by the aid another action increases by +1. This ability replaces cavalier's charge.
 
 **Warding Charge (Ex)** : At 11th level, an honor guard can flash across the battlefield to protect his ward against the target of his challenge. Whenever the target of the honor guard's challenge makes an attack against his ward, the honor guard can move up to his speed and make a single melee attack against the target of his challenge as an immediate action. This movement and attack can be made as a charge if the movement qualifies. This ability replaces mighty charge.
 
@@ -169,7 +169,7 @@ Some cavaliers are entrusted by their masters with the care and use of expensive
 
 **Weapon and Armor Proficiency** : A musketeer does not gain proficiency in heavy armor. Musketeers are proficient with all simple and martial weapons, and with firearms. A cavalier's levels stack with any fighter levels he possesses for the purpose of meeting the level prerequisite for feats that specifically select a firearm, such as [Weapon Specialization](feats#_weapon-specialization).
 
-**Gifted Firearm (Ex)** : At 1st level, a musketeer is gifted by his order with a firearm (either a pistol or a musket. This weapon is both a symbol of the cavalier's duty and a focus for much of his talent. He cannot sell this weapon. He also gains the [Gunsmithing](../ultimateCombatFeats#_gunsmithing) feat.
+**Gifted Firearm (Ex)** : At 1st level, a musketeer is gifted by his order with a firearm (either a pistol or a musket). This weapon is both a symbol of the cavalier's duty and a focus for much of his talent. He cannot sell this weapon. He also gains the [Gunsmithing](../ultimateCombatFeats#_gunsmithing) feat.
 
 Beginning at 8th level, the musketeer can focus himself when wielding his gifted weapon. As a standard action, he can focus himself to gain a number of benefits for 1 minute per cavalier level. The musketeer can use this ability twice per day, plus one additional time per day for every four levels beyond 8th, to a total of five times per day at 20th level.
 
@@ -179,7 +179,7 @@ Finally, at 20th level, during a period of such focus, the musketeer can engage 
 
 If the musketeer's gifted firearm is destroyed, the cavalier loses this ability for 30 days while a replacement weapon is crafted for him. During this 30-day period, the musketeer takes a –1 penalty on weapon and damage rolls. This ability replaces the standard cavalier's mount ability.
 
-**Swift Powder (Ex** : At 4th level, the musketeer gains [Rapid Reload](../ultimateCombatFeats#_rapid-reload-(combat)) (musket) or [Rapid Reload](../ultimateCombatFeats#_rapid-reload-(combat)) (pistol) as a bonus feat. At 14th level, each time the musketeer issues a challenge, he may reload a wielded firearm as a free action. This ability replaces expert trainer.
+**Swift Powder (Ex)** : At 4th level, the musketeer gains [Rapid Reload](../ultimateCombatFeats#_rapid-reload-(combat)) (musket) or [Rapid Reload](../ultimateCombatFeats#_rapid-reload-(combat)) (pistol) as a bonus feat. At 14th level, each time the musketeer issues a challenge, he may reload a wielded firearm as a free action. This ability replaces expert trainer.
 
 ## Standard Bearer (Archetype)
 

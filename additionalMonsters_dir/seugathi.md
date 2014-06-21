@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/seugathi
+title: additionalMonster_dir/seugathi
 ---
 # Seugathi
 
@@ -9,9 +9,9 @@ This worm-like monster has a hideous face of eyes and hooked jaws. It wields a w
 
 **XP 2,400**
 
-CE Large [aberration](monster_dir/creatureTypes#_aberration
+CE Large [aberration](monsters/creatureTypes#_aberration)
 
-**Init** +9; **Senses** darkvision 120 ft., _ [detect thoughts](additionalMonsters/../spell_dir/detectThoughts#_detect-thoughts_, tremorsense 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +15
+**Init** +9; **Senses** darkvision 120 ft., _ [detect thoughts](additionalMonster_dir/../spell_dir/detectThoughts#_detect-thoughts)_, tremorsense 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +15
 
 **Aura** madness (30 ft.)
 
@@ -19,11 +19,11 @@ Defense
 
 **AC** 19, touch 14, flat-footed 14 (+4 armor, +5 Dex, +1 natural, –1 size)
 
-**hp** 67 (9d8+27; fast healing 5
+**hp** 67 (9d8+27); fast healing 5
 
 **Fort** +6, **Ref** +8, **Will** +9
 
-**DR** 10/slashing or piercing; **Immune** mind-affecting effects, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su); **SR** 17
+**DR** 10/slashing or piercing; **Immune** mind-affecting effects, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **SR** 17
 
 Offense
 
@@ -35,25 +35,25 @@ Offense
 
 **Special Attacks** confusion command
 
-**Spell-Like Abilities** (CL 6th; concentration +10
+**Spell-Like Abilities** (CL 6th; concentration +10)
 
-Constant—_ [mage armor](additionalMonsters/../spell_dir/mageArmor#_mage-armor_
+Constant—_ [mage armor](additionalMonsters/../spell_dir/mageArmor#_mage-armor)_
 
-At will—_ [detect thoughts](additionalMonsters/../spell_dir/detectThoughts#_detect-thoughts)_ (DC 16, _ [levitate](additionalMonsters/../spell_dir/levitate#_levitate_
+At will—_ [detect thoughts](additionalMonsters/../spell_dir/detectThoughts#_detect-thoughts)_ (DC 16), _ [levitate](additionalMonsters/../spell_dir/levitate#_levitate)_
 
-3/day—_ [confusion](additionalMonsters/../spell_dir/confusion#_confusion)_ (DC 18, _ [dispel magic](additionalMonsters/../spell_dir/dispelMagic#_dispel-magic_, _ [suggestion](additionalMonsters/../spell_dir/suggestion#_suggestion)_ (DC 17
+3/day—_ [confusion](additionalMonster_dir/../spell_dir/confusion#_confusion)_ (DC 18), _ [dispel magic](additionalMonsters/../spell_dir/dispelMagic#_dispel-magic)_, _ [suggestion](additionalMonsters/../spell_dir/suggestion#_suggestion)_ (DC 17)
 
-1/day—_ [mind fog](additionalMonsters/../spell_dir/mindFog#_mind-fog)_ (DC 19, _ [phantasmal killer](additionalMonsters/../spell_dir/phantasmalKiller#_phantasmal-killer)_ (DC 18)
+1/day—_ [mind fog](additionalMonster_dir/../spell_dir/mindFog#_mind-fog)_ (DC 19), _ [phantasmal killer](additionalMonsters/../spell_dir/phantasmalKiller#_phantasmal-killer)_ (DC 18)
 
 Statistics
 
 **Str** 16, **Dex** 20, **Con** 17, **Int** 14, **Wis** 17, **Cha** 19
 
-**Base Atk** +6; **CMB** +10; **CMD** 25 (can't be tripped
+**Base Atk** +6; **CMB** +10; **CMD** 25 (can't be tripped)
 
-**Feats** [Ability Focus](additionalMonsters/../monster_dir/monsterFeats#_ability-focus) (aura of madness, [Combat Casting](additionalMonsters/../feats#_combat-casting), [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Ability Focus](additionalMonsters/../monster_dir/monsterFeats#_ability-focus) (aura of madness), [Combat Casting](additionalMonsters/../feats#_combat-casting), [Combat Reflexes](additionalMonster_dir/../feats#_combat-reflexes), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
 
-**Skills** [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +17, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (religion +14, [Perception](additionalMonsters/../skill_dir/perception#_perception +15, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive +12, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +13, [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device) +16
+**Skills** [Escape Artist](additionalMonster_dir/../skill_dir/escapeArtist#_escape-artist) +17, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (religion) +14, [Perception](additionalMonsters/../skill_dir/perception#_perception) +15, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +12, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +13, [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device) +16
 
 **Languages** Aklo, Undercommon; telepathy 100 ft.
 
@@ -63,19 +63,19 @@ Ecology
 
 **Environment** any underground
 
-**Organization** single, pair, or expedition (3–8
+**Organization** single, pair, or expedition (3–8)
 
 **Treasure** double (masterwork short sword, _wand of [magic missile](additionalMonsters/../spell_dir/magicMissile#_magic-missile)_ [CL 5th, 1d20+30 charges])
 
 Special Abilities
 
-**Aura of Madness (Su** Any sane being within 30 feet of a conscious seugathi must make a DC 20 Will save each round or become confused for 1 round. A creature that fails 5 saves in a row becomes permanently insane, as per the _ [insanity](additionalMonsters/../spell_dir/insanity#_insanity)_ spell. A seugathi can suppress or activate this aura as a free action. This is a mind-affecting effect. The save DC is Charisma-based.
+**Aura of Madness (Su)** Any sane being within 30 feet of a conscious seugathi must make a DC 20 Will save each round or become confused for 1 round. A creature that fails 5 saves in a row becomes permanently insane, as per the _ [insanity](additionalMonsters/../spell_dir/insanity#_insanity)_ spell. A seugathi can suppress or activate this aura as a free action. This is a mind-affecting effect. The save DC is Charisma-based.
 
 **Confusion Command (Su)** As an immediate action, a seugathi can issue a telepathic command to a confused creature within 30 feet. This allows the seugathi to pick a result from the confusion behavior table, rather than the confused creature rolling randomly for its actions that round.
 
-**Item Use (Ex** A seugathi can utilize spell trigger devices as if it were a spellcaster of the appropriate class. As a free action by touch, it can identify all spell trigger properties an item has. [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device is a class skill for seugathis.
+**Item Use (Ex)** A seugathi can utilize spell trigger devices as if it were a spellcaster of the appropriate class. As a free action by touch, it can identify all spell trigger properties an item has. [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device) is a class skill for seugathis.
 
-**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex** Bite—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Wis and deafness; _cure_ 2 consecutive saves. Deafness persists as long as the ability damage caused by the [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su) lasts. The save DC is Constitution-based.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Wis and deafness; _cure_ 2 consecutive saves. Deafness persists as long as the ability damage caused by the [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) lasts. The save DC is Constitution-based.
 
 Seugathi are spawned by the hundreds by a single neothelid that has performed rituals to impregnate itself. As part of the strange process of being spawned in such rituals, the seugathi assimilates an extensive list of missions from its parent—once the seugathi completes these missions, it perishes. No single seugathi knows the purpose of these commands, but they trust that their neothelid masters have a reason for sending them on these diverse and usually cruel missions. A seugathi is 14 feet long and weighs 650 pounds.
 

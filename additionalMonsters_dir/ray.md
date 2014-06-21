@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/ray
+title: additionalMonster_dir/ray
 ---
 # Ray, Manta
 
@@ -9,9 +9,9 @@ Manta RayCR 1
 
 **XP 400**
 
-N Large [animal](monster_dir/creatureTypes#_animal ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
+N Large [animal](monsters/creatureTypes#_animal) ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +1; **Senses** [blindsense](monster_dir/universalMonsterRules#_blindsense 30 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +6
+**Init** +1; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 30 ft., low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +6
 
 Defense
 
@@ -25,7 +25,7 @@ Offense
 
 **Speed** swim 60 ft.
 
-**Melee** tail slap +4 (1d6+4
+**Melee** tail slap +4 (1d6+4)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -35,15 +35,15 @@ Statistics
 
 **Base Atk** +2; **CMB** +6; **CMD** 17
 
-**Feats** [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +6, [Swim](additionalMonsters/../skill_dir/swim#_swim +15
+**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +6, [Swim](additionalMonsters/../skill_dir/swim#_swim) +15
 
 Ecology
 
 **Environment** warm oceans
 
-**Organization** solitary, pair, or [flight](monster_dir/universalMonsterRules#_flight-(ex,-sp,-or-su)) (3–12)
+**Organization** solitary, pair, or [flight](monsters/universalMonsterRules#_flight-(ex,-sp,-or-su)) (3–12)
 
 **Treasure** none
 
@@ -51,7 +51,7 @@ Ecology
 
 **Starting Statistics** : **Size** Medium; **Speed** swim 60 ft.; **AC** +1 natural; **Attack** tail slap (1d4); **Ability Scores** Str 8, Dex 15, Con 11, Int 1, Wis 13, Cha 2; **Special Qualities** low-light vision.
 
-**4th-Level Advancement: Size:** Large; **AC** +2 natural armor; **Attack** tail slap (1d6; **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** blindsense 30 ft.
+**4th-Level Advancement: Size:** Large; **AC** +2 natural armor; **Attack** tail slap (1d6); **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** blindsense 30 ft.
 
 # Ray, Stingray
 
@@ -61,15 +61,15 @@ StingrayCR 1/2
 
 **XP 200**
 
-N Medium [animal](monster_dir/creatureTypes#_animal ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
+N Medium [animal](monster_dir/creatureTypes#_animal) ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
 
-**Init** +1; **Senses** [blindsense](monster_dir/universalMonsterRules#_blindsense 30 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +8
+**Init** +1; **Senses** [blindsense](monster_dir/universalMonsterRules#_blindsense) 30 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +8
 
 Defense
 
 **AC** 12, touch 11, flat-footed 11 (+1 Dex, +1 natural)
 
-**hp** 13 (2d8+4
+**hp** 13 (2d8+4)
 
 **Fort** +5, **Ref** +4, **Will** +1
 
@@ -77,7 +77,7 @@ Offense
 
 **Speed** swim 40 ft.
 
-**Melee** sting +1 (1d4 plus [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su))
+**Melee** sting +1 (1d4 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
 
 Statistics
 
@@ -85,21 +85,21 @@ Statistics
 
 **Base Atk** +1; **CMB** +1; **CMD** 12
 
-**Feats** [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skill_dir/perception#_perception)
+**Feats** [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception))
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +8, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +5 (+13 in sand or mud, [Swim](additionalMonsters/../skill_dir/swim#_swim +8; **Racial Modifier** +8 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth in sand or mud
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception) +8, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +5 (+13 in sand or mud), [Swim](additionalMonsters/../skill_dir/swim#_swim) +8; **Racial Modifier** +8 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in sand or mud
 
 Ecology
 
 **Environment** warm oceans
 
-**Organization** solitary, pair, or [flight](monster_dir/universalMonsterRules#_flight-(ex,-sp,-or-su)) (3–12
+**Organization** solitary, pair, or [flight](monsters/universalMonsterRules#_flight-(ex,-sp,-or-su)) (3–12)
 
 **Treasure** none
 
 Special Abilities
 
-**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex** Sting—injury; _save _Fort DC 13; _frequency _1/round for 4 rounds; _effect _1d2 Dex and 1 Con; _cure _1 save. The save DC is Constitution-based.
+**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Sting—injury; _save _Fort DC 13; _frequency _1/round for 4 rounds; _effect _1d2 Dex and 1 Con; _cure _1 save. The save DC is Constitution-based.
 
 Often found buried in mud, sand, or sea grass, this normally passive creature raises its tail above its body like a scorpion when cornered or injured. Its stinger is a barbed spine with two grooves allowing the toxin to enter the wound. While often found in bays and estuaries, some breeds of stingray can make their home in rivers far upstream from salt water. Stingrays, like their larger manta ray cousins, use a form of electrolocation to find prey in the silt-laden waters.
 

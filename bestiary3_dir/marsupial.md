@@ -11,7 +11,7 @@ XP 200
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +4
+**Init** +3; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +4
 
 Defense
 
@@ -33,9 +33,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +1; **CMD** 14
 
-**Feats** [Skill Focus](feats#_skill-focus ( [Acrobatics](skill_dir/acrobatics#_acrobatics)
+**Feats** [Skill Focus](feats#_skill-focus) ( [Acrobatics](skill_dir/acrobatics#_acrobatics))
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +14 (+18 when jumping, [Perception](skill_dir/perception#_perception) +4
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +14 (+18 when jumping), [Perception](skill_dir/perception#_perception) +4
 
 Ecology
 
@@ -45,7 +45,7 @@ Ecology
 
 **Treasure** none
 
-These strange-looking animals have long pointy ears and pronounced muzzles, and their strong legs carry them about in amazing leaps. Like all marsupials, kangaroos give birth to live young (“joeys” that are relatively undeveloped at birth and completely helpless, and must remain within a protective pouch on the mother's belly for months before safely emerging.
+These strange-looking animals have long pointy ears and pronounced muzzles, and their strong legs carry them about in amazing leaps. Like all marsupials, kangaroos give birth to live young (“joeys”) that are relatively undeveloped at birth and completely helpless, and must remain within a protective pouch on the mother's belly for months before safely emerging.
 
 While not particularly dangerous, a kangaroo is more than capable of defending itself if cornered or when forced to protect its young, striking out at foes with a powerful kick capable of knocking unwary antagonists off their feet.
 
@@ -67,7 +67,7 @@ Defense
 
 **AC** 13, touch 13, flat-footed 11 (+2 Dex, +1 size)
 
-**hp** 7 (1d8+3
+**hp** 7 (1d8+3)
 
 **Fort** +5, **Ref** +4, **Will** +1
 
@@ -83,9 +83,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 12 (16 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skill_dir/perception#_perception)
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skill_dir/perception#_perception))
 
-**Skills** [Perception](skill_dir/perception#_perception) +8
+**Skills** [Perception](skills/perception#_perception) +8
 
 **SQ** powerful jaws
 
@@ -99,7 +99,7 @@ Ecology
 
 Special Abilities
 
-**Powerful Jaws (Ex** A thylacine's muscular jaws threaten a critical hit on a natural roll of 19 or 20.
+**Powerful Jaws (Ex)** A thylacine's muscular jaws threaten a critical hit on a natural roll of 19 or 20.
 
 These carnivorous, wide-jawed marsupials typically hunt at night and have a reputation for savagery. By day, they nest in hollow trees or clusters of bushes.
 

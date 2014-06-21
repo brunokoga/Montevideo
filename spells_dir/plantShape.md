@@ -3,11 +3,11 @@ title: spell_dir/plantShape
 ---
  **Plant Shape I**
 
-**School** transmutation (polymorph; **Level** sorcere_dir/wizard 5
+**School** transmutation (polymorph); **Level** sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a piece of the creature whose form you plan to assume
+**Components** V, S, M (a piece of the creature whose form you plan to assume)
 
 **Range** personal
 
@@ -23,7 +23,7 @@ _Medium plant_: If the form you take is that of a Medium plant, you gain a +2 si
 
 **Plant Shape II**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 6
+**School** transmutation (polymorph); **Level** sorcere_dir/wizard 6
 
 This spell functions as _plant shape I_ except that it also allows you to assume the form of a Large creature of the plant type. If the creature has immunity or resistance to any elements, you gain resistance 20 to those elements. If the creature has vulnerability to an element, you gain that vulnerability.
 
@@ -31,7 +31,7 @@ _Large plant_: If the form you take is that of a Large plant, you gain a +4 size
 
 **Plant Shape III**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 7
+**School** transmutation (polymorph); **Level** sorcere_dir/wizard 7
 
 This spell functions as _plant shape II_ except that it also allows you to assume the form of a Huge creature of the plant type. If the form you assume has any of the following abilities, you gain the listed ability: [DR](../glossary#_damage-reduction), regeneration 5, and trample.
 

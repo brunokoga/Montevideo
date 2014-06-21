@@ -1,5 +1,5 @@
 ---
-title: mastery/nPCGallery/criminalsII
+title: master_dir/nPCGallery/criminalsII
 ---
 # Criminals II
 
@@ -19,7 +19,7 @@ NE Medium humanoid
 
 **AC** 15, touch 12, flat-footed 13 (+3 armor, +2 Dex)
 
-**hp** 30 (4d10+8
+**hp** 30 (4d10+8)
 
 **Fort** +8, **Ref** +5, **Will** +1; +1 vs. fear
 
@@ -45,13 +45,13 @@ NE Medium humanoid
 
 **Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Exotic Weapon Proficiency](../../feats#_exotic-weapon-proficiency) (bolas), [Precise Shot](../../feats#_precise-shot), [Step Up](../../feats#_step-up), [Weapon Focus](../../feats#_weapon-focus) (bolas), [Weapon Focus](../../feats#_weapon-focus) (guisarme)
 
-**Skills** [Climb](../../skill_dir/climb#_climb +12, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +3, [Knowledge](../../skill_dir/knowledge#_knowledge) (geography +4, [Perception](../../skill_dir/perception#_perception +8, [Ride](../../skill_dir/ride#_ride +7, [Stealth](../../skill_dir/stealth#_stealth +9, [Survival](../../skill_dir/survival#_survival) +8 (+9 to follow tracks, [Swim](../../skill_dir/swim#_swim +8
+**Skills** [Climb](../../skill_dir/climb#_climb) +12, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +3, [Knowledge](../../skill_dir/knowledge#_knowledge) (geography) +4, [Perception](../../skill_dir/perception#_perception) +8, [Ride](../../skill_dir/ride#_ride) +7, [Stealth](../../skill_dir/stealth#_stealth) +9, [Survival](../../skill_dir/survival#_survival) +8 (+9 to follow tracks), [Swim](../../skill_dir/swim#_swim) +8
 
 **Languages** Common
 
 **SQ** track +1, wild empathy +1
 
-**Combat Gear** _ [feather token](../../magicItem_dir/wondrousItems#_feather-token)_ (whip), tanglefoot bags (2); **Other Gear** masterwork studded leather, bolas (3), masterwork guisarme, masterwork sap, spiked gauntlet, climber's kit, drow poison (2 doses, manacles
+**Combat Gear** _ [feather token](../../magicItem_dir/wondrousItems#_feather-token)_ (whip), tanglefoot bags (2); **Other Gear** masterwork studded leather, bolas (3), masterwork guisarme, masterwork sap, spiked gauntlet, climber's kit, drow poison (2 doses), manacles
 
 **Boon** Slavers can provide information on slave-trading routes, major customers, and the likely location of specific enslaved individuals, providing a +2 circumstance bonus on [Diplomacy](../../skill_dir/diplomacy#_diplomacy) checks to gather information about such topics.
 
@@ -59,7 +59,7 @@ Slavers are the scourge of free societies, sneaking into towns and villages by n
 
 Slavers can also be used as riot police, low-level bounty hunters, exotic gladiators, or any kind of guard or soldier who prefers to capture opponents rather than kill them.
 
-Slavers will sometimes employ a pair of prostitutes to inveigle their victims into a compromising position (CR 5) or a pair of street thugs to help overpower victims (CR 5. Slavers might also be found with captured slaves; these slaves could be any of the NPCs in this chapter, such as commoners or aristocrats.
+Slavers will sometimes employ a pair of prostitutes to inveigle their victims into a compromising position (CR 5) or a pair of street thugs to help overpower victims (CR 5). Slavers might also be found with captured slaves; these slaves could be any of the NPCs in this chapter, such as commoners or aristocrats.
 
 **Slayer CR 8**
 
@@ -75,7 +75,7 @@ NE Medium humanoid
 
 **AC** 18, touch 14, flat-footed 14 (+4 armor, +4 Dex)
 
-**hp** 63 (9 HD; 5d10+4d8+18
+**hp** 63 (9 HD; 5d10+4d8+18)
 
 **Fort** +7, **Ref** +10, **Will** +1; +2 vs. poison
 
@@ -99,19 +99,19 @@ NE Medium humanoid
 
 **Feats** [Deadly Aim](../../feats#_deadly-aim), [Endurance](../../feats#_endurance), [Improved Critical](../../feats#_improved-critical) (kukri), [Improved Initiative](../../feats#_improved-initiative), [Improved Two-Weapon Fighting](../../feats#_improved-two-weapon-fighting), Point Blank Shot, [Two-Weapon Fighting](../../feats#_two-weapon-fighting), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics +15, [Bluff](../../skill_dir/bluff#_bluff +5, [Climb](../../skill_dir/climb#_climb +15, [Craft](../../skill_dir/craft#_craft) (alchemy +5, [Disable Device](../../skill_dir/disableDevice#_disable-device +10, [Disguise](../../skill_dir/disguise#_disguise +10, [Escape Artist](../../skill_dir/escapeArtist#_escape-artist +10, [Intimidate](../../skill_dir/intimidate#_intimidate +10, [Perception](../../skill_dir/perception#_perception +10, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +15 (+19 to hide weapons, [Stealth](../../skill_dir/stealth#_stealth +21, [Survival](../../skill_dir/survival#_survival) +10 (+12 to follow tracks, [Swim](../../skill_dir/swim#_swim) +6
+**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +15, [Bluff](../../skill_dir/bluff#_bluff) +5, [Climb](../../skill_dir/climb#_climb) +15, [Craft](../../skill_dir/craft#_craft) (alchemy) +5, [Disable Device](../../skill_dir/disableDevice#_disable-device) +10, [Disguise](../../skill_dir/disguise#_disguise) +10, [Escape Artist](../../skill_dir/escapeArtist#_escape-artist) +10, [Intimidate](../../skill_dir/intimidate#_intimidate) +10, [Perception](../../skill_dir/perception#_perception) +10, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +15 (+19 to hide weapons), [Stealth](../../skill_dir/stealth#_stealth) +21, [Survival](../../skill_dir/survival#_survival) +10 (+12 to follow tracks), [Swim](../../skill_dir/swim#_swim) +6
 
 **Languages** Common, Elven
 
-**SQ** favored terrain (urban +2), hidden weapons, hunter's bond (allies, poison use, track +2, wild empathy +5
+**SQ** favored terrain (urban +2), hidden weapons, hunter's bond (allies), poison use, track +2, wild empathy +5
 
-**Combat Gear** _potions of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_ (2, _potion of [gaseous form](../../spell_dir/gaseousForm#_gaseous-form_, _potion of [jump](../../spell_dir/jump#_jump)_; **Other Gear** _+1 studded leather_, _+1 kukri_, _+1 composite shortbow_ (+2 Str) with 20 arrows, masterwork kukri, shuriken (20, _ [cloak of elvenkind](../../magicItem_dir/wondrousItems#_cloak-of-elvenkind)_, climber's kit, disguise kit, giant wasp poison (2), large scorpion venom (2), masterwork thieves' tools
+**Combat Gear** _potions of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_ (2), _potion of [gaseous form](../../spell_dir/gaseousForm#_gaseous-form)_, _potion of [jump](../../spell_dir/jump#_jump)_; **Other Gear** _+1 studded leather_, _+1 kukri_, _+1 composite shortbow_ (+2 Str) with 20 arrows, masterwork kukri, shuriken (20), _ [cloak of elvenkind](../../magicItem_dir/wondrousItems#_cloak-of-elvenkind)_, climber's kit, disguise kit, giant wasp poison (2), large scorpion venom (2), masterwork thieves' tools
 
 **Boon** Slayers can obtain poisons for the PCs at a 20% discount. They can also arrange to kill or capture targets for the PCs' for 20% less than their usual fee (as determined by the GM).
 
 Slayers are cold-blooded killers, assassins for hire. They are cunning tricksters, deadly snipers, masters of the knife in the back and the storm of shuriken whistling from either hand. Slayers may also be used as ninjas, spies, or particularly deadly enforcers.
 
-Slayers often work alone, sometimes as chief enforcer for a guild master (CR 11), but many work with accomplices, such as three burglars (CR 9), a pair of highwaymen (CR 10), or a half-dozen slavers (CR 10.
+Slayers often work alone, sometimes as chief enforcer for a guild master (CR 11), but many work with accomplices, such as three burglars (CR 9), a pair of highwaymen (CR 10), or a half-dozen slavers (CR 10).
 
 **Guild Master CR 10**
 
@@ -127,7 +127,7 @@ N Medium humanoid
 
 **AC** 22, **touch** 15, **flat-footed** 17 (+5 armor, +5 Dex, +2 shield)
 
-**hp** 60 (11d8+11
+**hp** 60 (11d8+11)
 
 **Fort** +5, **Ref** +13, **Will** +8
 
@@ -139,7 +139,7 @@ N Medium humanoid
 
 **Melee** _+1 rapier_ +14/+9 (1d6/18–20) or sap +13/+8 (1d6–1 nonlethal)
 
-**Ranged** _+1 [light](../../spell_dir/light#_light crossbow_ +14/+9 (1d8+1/19–20)
+**Ranged** _+1 [light](../../spell_dir/light#_light) crossbow_ +14/+9 (1d8+1/19–20)
 
 **Special Attacks** sneak attack +6d6 plus 6 bleed
 
@@ -151,17 +151,17 @@ N Medium humanoid
 
 **Feats** [Agile Maneuvers](../../feats#_agile-maneuvers), [Deadly Aim](../../feats#_deadly-aim), [Deceitful](../../feats#_deceitful), [Iron Will](../../feats#_iron-will), [Rapid Reload](../../feats#_rapid-reload), [Stealthy](../../feats#_stealthy), [Vital Strike](../../feats#_vital-strike), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics +19, [Bluff](../../skill_dir/bluff#_bluff +20, [Diplomacy](../../skill_dir/diplomacy#_diplomacy +15, [Disable Device](../../skill_dir/disableDevice#_disable-device +30, [Disguise](../../skill_dir/disguise#_disguise +22, [Escape Artist](../../skill_dir/escapeArtist#_escape-artist +22, [Intimidate](../../skill_dir/intimidate#_intimidate +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +10, [Linguistics](../../skill_dir/linguistics#_linguistics +5, [Perception](../../skill_dir/perception#_perception) +15 (+20 to find traps, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +15, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand +10, [Stealth](../../skill_dir/stealth#_stealth) +23
+**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +19, [Bluff](../../skill_dir/bluff#_bluff) +20, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +15, [Disable Device](../../skill_dir/disableDevice#_disable-device) +30, [Disguise](../../skill_dir/disguise#_disguise) +22, [Escape Artist](../../skill_dir/escapeArtist#_escape-artist) +22, [Intimidate](../../skill_dir/intimidate#_intimidate) +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +10, [Linguistics](../../skill_dir/linguistics#_linguistics) +5, [Perception](../../skill_dir/perception#_perception) +15 (+20 to find traps), [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +15, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +10, [Stealth](../../skill_dir/stealth#_stealth) +23
 
 **Languages** Common, Halfling, Undercommon
 
-**SQ** rogue talent (bleeding attack, finesse rogue, resiliency, slippery mind, trap spotter, trapfinding +5
+**SQ** rogue talent (bleeding attack, finesse rogue, resiliency, slippery mind, trap spotter), trapfinding +5
 
-**Combat Gear** _ [feather token](../../magicItem_dir/wondrousItems#_feather-token)_ (whip; **Other Gear** _+1 mithral chain shirt_, _+1 buckler_, _+1 [light](../../spell_dir/light#_light crossbow_ with 10 bolts, _+1 rapier_, sap, _ [belt of incredible dexterity](../../magicItem_dir/wondrousItems#_belt-of-incredible-dexterity +2_, _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance +1_, _ [elixir of truth](../../magicItem_dir/wondrousItems#_elixir-of-truth_,_ [goggles of minute seeing](../../magicItem_dir/wondrousItems#_goggles-of-minute-seeing)_, disguise kit, masterwork thieves' tools
+**Combat Gear** _ [feather token](../../magicItem_dir/wondrousItems#_feather-token)_ (whip); **Other Gear** _+1 mithral chain shirt_, _+1 buckler_, _+1 [light](../../spell_dir/light#_light) crossbow_ with 10 bolts, _+1 rapier_, sap, _ [belt of incredible dexterity](../../magicItem_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, _ [elixir of truth](../../magicItem_dir/wondrousItems#_elixir-of-truth)_,_ [goggles of minute seeing](../../magicItem_dir/wondrousItems#_goggles-of-minute-seeing)_, disguise kit, masterwork thieves' tools
 
 **Boon** A guild master can arrange to smuggle people or items into or out of secured areas, can command a robbery, break-in, or assault on a target, or can arrange to buy or sell illegal items (treat gp limit as that of a community one size category larger).
 
 Guild masters are crime lords par excellence. They are masters of every criminal art and have worked their way up from being common hoods to become cunning masterminds of their own organization. Guild masters can serve as spies, assassins, or master safecrackers, or as bandit lords or shady merchant princes.
 
-A guild master often keeps a slayer or two as bodyguards and enforcers (CR 11 or 12), but some with more flamboyance prefer to keep a gladiatorial champion and sellsword (CR 12) or half a dozen sellswords (CR 13). A guild master may also be found in the company of a pair of nobles or merchant princes of uncertain morals (CR 11.
+A guild master often keeps a slayer or two as bodyguards and enforcers (CR 11 or 12), but some with more flamboyance prefer to keep a gladiatorial champion and sellsword (CR 12) or half a dozen sellswords (CR 13). A guild master may also be found in the company of a pair of nobles or merchant princes of uncertain morals (CR 11).
 

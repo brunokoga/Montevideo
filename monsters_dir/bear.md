@@ -11,7 +11,7 @@ _Broad, powerful muscles move beneath this massive bear's brown fur, promising b
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent ; [Perception](../skill_dir/perception#_perception) +6
+**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent) ; [Perception](../skill_dir/perception#_perception) +6
 
 **Defense**
 
@@ -33,11 +33,11 @@ N Large [animal](creatureTypes#_animal)
 
 **Str** 21, **Dex** 13, **Con** 19, **Int** 2, **Wis** 12, **Cha** 6
 
-**Base**  **Atk** +3; **CMB** +9 (+13 grapple); **CMD** 20 (24 vs. trip
+**Base**  **Atk** +3; **CMB** +9 (+13 grapple); **CMD** 20 (24 vs. trip)
 
-**Feats** [Endurance](../feats#_endurance), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Survival](../skill_dir/survival#_survival)
+**Feats** [Endurance](../feats#_endurance), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Survival](../skill_dir/survival#_survival))
 
-**Skills** [Perception](../skill_dir/perception#_perception +6, [Survival](../skill_dir/survival#_survival +5, [Swim](../skill_dir/swim#_swim +14; **Racial Modifiers** +4 [Swim](../skill_dir/swim#_swim)
+**Skills** [Perception](../skill_dir/perception#_perception) +6, [Survival](../skill_dir/survival#_survival) +5, [Swim](../skill_dir/swim#_swim) +14; **Racial Modifiers** +4 [Swim](../skill_dir/swim#_swim)
 
 **Ecology**
 
@@ -63,7 +63,7 @@ _Spittle drips from this feral bear's roaring maw, and its matted fur is broken 
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +5; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +12
+**Init** +5; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +12
 
 **Defense**
 
@@ -85,11 +85,11 @@ N Large [animal](creatureTypes#_animal)
 
 **Str** 25, **Dex** 13, **Con** 21, **Int** 2, **Wis** 12, **Cha** 10
 
-**Base**  **Atk** +7; **CMB** +15 (+19 grapple); **CMD** 26 (30 vs. trip
+**Base**  **Atk** +7; **CMB** +15 (+19 grapple); **CMD** 26 (30 vs. trip)
 
-**Feats** [Endurance](../feats#_endurance), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Endurance](../feats#_endurance), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception +12, [Swim](../skill_dir/swim#_swim +19; **Racial Modifiers** +4 [Swim](../skill_dir/swim#_swim)
+**Skills** [Perception](../skill_dir/perception#_perception) +12, [Swim](../skill_dir/swim#_swim) +19; **Racial Modifiers** +4 [Swim](../skill_dir/swim#_swim)
 
 **Ecology**
 
@@ -101,5 +101,5 @@ N Large [animal](creatureTypes#_animal)
 
 Larger, more aggressive, and far more deadly than its lesser cousins, the dire bear (known to barbarian tribes variously as the cave bear or the short-faced bear) is a primeval menace indeed. This behemoth avoids more civilized reaches of the world, preferring to dwell in remote wilderness locations. A dire bear is a rare and terrifying sight—especially to those not used to normal bears.
 
-Unlike most bears, a dire bear is short-tempered and swift to anger when confronted with intruders in its territory. Like a grizzly, a dire bear attempts to subdue or kill with its claws. However, a dire bear is far more likely (and willing to begin biting a grabbed foe.
+Unlike most bears, a dire bear is short-tempered and swift to anger when confronted with intruders in its territory. Like a grizzly, a dire bear attempts to subdue or kill with its claws. However, a dire bear is far more likely (and willing) to begin biting a grabbed foe.
 

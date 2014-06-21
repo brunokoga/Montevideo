@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/dinosaur
+title: additionalMonster_dir/dinosaur
 ---
 # Dinosaur, Allosaurus
 
@@ -9,15 +9,15 @@ This bipedal dinosaur has a mouth filled with sharp teeth and short, powerful ar
 
 **XP 3,200**
 
-N Huge [animal](monster_dir/creatureTypes#_animal
+N Huge [animal](monsters/creatureTypes#_animal)
 
-**Init** +5; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +28
+**Init** +5; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +28
 
 Defense
 
 **AC** 19, touch 9, flat-footed 18 (+1 Dex, +10 natural, –2 size)
 
-**hp** 93 (11d8+44
+**hp** 93 (11d8+44)
 
 **Fort** +11, **Ref** +8, **Will** +7
 
@@ -25,11 +25,11 @@ Offense
 
 **Speed** 50 ft.
 
-**Melee** bite +14 (2d6+8/19–20 plus [grab](monster_dir/universalMonsterRules#_grab)), 2 claws +14 (1d8+8
+**Melee** bite +14 (2d6+8/19–20 plus [grab](monster_dir/universalMonsterRules#_grab)), 2 claws +14 (1d8+8)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [pounce](monster_dir/universalMonsterRules#_pounce, [rake](monster_dir/universalMonsterRules#_rake) (2 talons +14, 1d8+8
+**Special Attacks** [pounce](monsters/universalMonsterRules#_pounce), [rake](monster_dir/universalMonsterRules#_rake) (2 talons +14, 1d8+8)
 
 Statistics
 
@@ -37,9 +37,9 @@ Statistics
 
 **Base Atk** +8; **CMB** +18; **CMD** 29
 
-**Feats** [Alertness](additionalMonsters/../feats#_alertness), [Improved Critical](additionalMonsters/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Nimble Moves](additionalMonsters/../feats#_nimble-moves), [Run](additionalMonsters/../feats#_run)
+**Feats** [Alertness](additionalMonsters/../feats#_alertness), [Improved Critical](additionalMonster_dir/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Nimble Moves](additionalMonster_dir/../feats#_nimble-moves), [Run](additionalMonster_dir/../feats#_run)
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +30; **Racial Modifiers** +8 [Perception](additionalMonsters/../skill_dir/perception#_perception)
+**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +30; **Racial Modifiers** +8 [Perception](additionalMonsters/../skill_dir/perception#_perception)
 
 Ecology
 
@@ -55,7 +55,7 @@ A huge, swift hunter, the allosaurus measures 30 feet in length and weighs 10,00
 
 **Starting Statistics** : **Size** Medium, **Speed** 40 ft.; **AC** +4 natural armor; **Attack** bite (1d6), 2 claws (1d4); **Ability Scores** Str 14, Dex 16, Con 10, Int 2, Wis 15, Cha 10; **Special Qualities** low-light vision, scent.
 
-**7th-Level Advancement** : **Size** Large; **AC** +2 natural armor; **Attack** bite (1d8), 2 claws (1d6; **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** grab, pounce.
+**7th-Level Advancement** : **Size** Large; **AC** +2 natural armor; **Attack** bite (1d8), 2 claws (1d6); **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** grab, pounce.
 
 # Dinosaur, Compsognathus
 
@@ -65,15 +65,15 @@ CompsognathusCR 1/2
 
 **XP 200**
 
-N Tiny [animal](monster_dir/creatureTypes#_animal
+N Tiny [animal](monster_dir/creatureTypes#_animal)
 
-**Init** +6; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +4
+**Init** +6; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +4
 
 Defense
 
 **AC** 15, touch 14, flat-footed 13 (+2 Dex, +1 natural, +2 size)
 
-**hp** 6 (1d8+2
+**hp** 6 (1d8+2)
 
 **Fort** +4, **Ref** +4, **Will** +0
 
@@ -81,7 +81,7 @@ Offense
 
 **Speed** 40 ft., swim 20 ft.
 
-**Melee** bite +1 (1d3–1 plus [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su))
+**Melee** bite +1 (1d3–1 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -91,21 +91,21 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 9
 
-**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative)
+**Feats** [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative)
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +4, [Swim](additionalMonsters/../skill_dir/swim#_swim) +10
+**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +4, [Swim](additionalMonsters/../skill_dir/swim#_swim) +10
 
 Ecology
 
 **Environment** temperate or warm forests or plains
 
-**Organization** solitary, pair, or pack (5–20
+**Organization** solitary, pair, or pack (5–20)
 
 **Treasure** none
 
 Special Abilities
 
-**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex** Bite—injury; _save_ Fort DC 12; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 12; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save.
 
 The compsognathus is a small dinosaur that moves in swift, darting motions. Its bite injects a venom that causes numbness and weakness, a trait that the animal uses to bring down larger prey. A compsognathus measures 3 feet long and weighs 15 pounds.
 
@@ -119,9 +119,9 @@ This thick-bodied dinosaur has a whip-like tail and a long neck, its head topped
 
 **XP 1,200**
 
-N Huge [animal](monster_dir/creatureTypes#_animal
+N Huge [animal](monster_dir/creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
+**Init** +2; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +13
 
 Defense
 
@@ -145,9 +145,9 @@ Statistics
 
 **Str** 23, **Dex** 14, **Con** 17, **Int** 2, **Wis** 13, **Cha** 10
 
-**Base Atk** +4; **CMB** +12; **CMD** 24 (28 vs. trip
+**Base Atk** +4; **CMB** +12; **CMD** 24 (28 vs. trip)
 
-**Feats** [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skill_dir/perception#_perception)
+**Feats** [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception))
 
 **Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
 
@@ -165,7 +165,7 @@ This herbivore is 30 feet long and weighs 10,500 pounds. It is notable for the l
 
 **Starting Stats** : **Size** Medium; **Speed** 30 ft.; **AC** +2 natural armor; **Attack** tail (1d6); **Ability Scores** Str 11, Dex 18, Con 9, Int 2, Wis 13, Cha 10; **SQ** low-light vision, scent.
 
-**7th-level Advancement** : **Size** Large; **AC** +2 natural armor; **Attack** tail (1d8); **Ability Scores** Str +8, Dex –2, Con +4; **SQ** trample (1d8.
+**7th-level Advancement** : **Size** Large; **AC** +2 natural armor; **Attack** tail (1d8); **Ability Scores** Str +8, Dex –2, Con +4; **SQ** trample (1d8).
 
 # Dinosaur, Tylosaurus
 
@@ -175,15 +175,15 @@ Surging out of the water, this massive lizard is shaped like a giant fish with a
 
 **XP 4,800**
 
-N Gargantuan [animal](monster_dir/creatureTypes#_animal
+N Gargantuan [animal](monsters/creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +14
+**Init** +1; **Senses** low-light vision, darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +14
 
 Defense
 
 **AC** 20, touch 8, flat-footed 18 (+1 Dex, +1 dodge, +12 natural, –4 size)
 
-**hp** 105 (10d8+60
+**hp** 105 (10d8+60)
 
 **Fort** +15, **Ref** +8, **Will** +4
 
@@ -191,7 +191,7 @@ Offense
 
 **Speed** 20 ft., swim 50 ft.
 
-**Melee** bite +15 (2d8+18 plus [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** bite +15 (2d8+18 plus [grab](monsters/universalMonsterRules#_grab))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -201,15 +201,15 @@ Statistics
 
 **Str** 34, **Dex** 13, **Con** 22, **Int** 2, **Wis** 13, **Cha** 9
 
-**Base Atk** +7; **CMB** +23 (+27 grapple); **CMD** 35 (39 vs. trip
+**Base Atk** +7; **CMB** +23 (+27 grapple); **CMD** 35 (39 vs. trip)
 
-**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Cleave](additionalMonsters/../feats#_cleave), [Great Fortitude](additionalMonsters/../feats#_great-fortitude), [Mobility](additionalMonsters/../feats#_mobility), [Power Attack](additionalMonsters/../feats#_power-attack)
+**Feats** [Dodge](additionalMonster_dir/../feats#_dodge), [Cleave](additionalMonster_dir/../feats#_cleave), [Great Fortitude](additionalMonster_dir/../feats#_great-fortitude), [Mobility](additionalMonster_dir/../feats#_mobility), [Power Attack](additionalMonster_dir/../feats#_power-attack)
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +14, [Swim](additionalMonsters/../skill_dir/swim#_swim +20
+**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +14, [Swim](additionalMonsters/../skill_dir/swim#_swim) +20
 
 Ecology
 
-**Environment** warm [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
+**Environment** warm [aquatic](monsters/creatureTypes#_aquatic-subtype)
 
 **Organization** solitary, pair, or school (3–6)
 
@@ -221,5 +221,5 @@ This predatory marine lizard swims with four flippered limbs and a powerful, flu
 
 **Starting Stats** : **Size** Medium; **Speed** 20 ft., swim 50 ft.; **AC** +3 natural armor; **Attack** bite (1d6); **Ability Scores** Str 10, Dex 17, Con 10, Int 2, Wis 13, Cha 9; **SQ** low-light vision, scent.
 
-**7th-level Adv.** : **Size** Large; **AC** +2 natural armor; **Attack** bite (1d8; **Ability Scores** Str +8, Dex –2, Con +4; **SQ** grab.
+**7th-level Adv.** : **Size** Large; **AC** +2 natural armor; **Attack** bite (1d8); **Ability Scores** Str +8, Dex –2, Con +4; **SQ** grab.
 

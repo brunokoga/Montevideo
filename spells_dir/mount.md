@@ -3,17 +3,17 @@ title: spell_dir/mount
 ---
  **Mount**
 
-**School** conjuration (summoning; **Level** sorcere_dir/wizard 1
+**School** conjuration (summoning); **Level** sorcerer/wizard 1
 
 **Casting Time** 1 round
 
-**Components** V, S, M (a bit of horse hair
+**Components** V, S, M (a bit of horse hair)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** one mount
 
-**Duration** 2 hour_dir/level (D
+**Duration** 2 hour_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/kiShout
+title: ultimateMagi_dir/spells/kiShout
 ---
 Ki Shout
 
-**School** evocation [sonic]; **Level** bard 5, sorcerer/wizard 7
+**School** evocation [sonic]; **Level** bard 5, sorcere_dir/wizard 7
 
 **Casting Time** 1 standard action
 

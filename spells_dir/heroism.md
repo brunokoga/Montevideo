@@ -3,7 +3,7 @@ title: spell_dir/heroism
 ---
  **Heroism**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 2, sorcerer/wizard 3
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -21,7 +21,7 @@ This spell imbues a single creature with great bravery and morale in battle. The
 
 **Heroism, Greater**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, sorcerer/wizard 6
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, sorcere_dir/wizard 6
 
 **Duration** 1 min./level
 

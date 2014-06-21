@@ -3,7 +3,7 @@ title: spell_dir/nightmare
 ---
  **Nightmare**
 
-**School** illusion (phantasm [mind-affecting, evil]; **Level** bard 5, sorcerer/wizard 5
+**School** illusion (phantasm) [mind-affecting, evil]; **Level** bard 5, sorcerer/wizard 5
 
 **Casting Time** 10 minutes
 

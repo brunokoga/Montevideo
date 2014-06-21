@@ -1,5 +1,5 @@
 ---
-title: spells/sunbeam
+title: spell_dir/sunbeam
 ---
  **Sunbeam**
 

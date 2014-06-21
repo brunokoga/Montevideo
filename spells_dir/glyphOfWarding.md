@@ -7,7 +7,7 @@ title: spell_dir/glyphOfWarding
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M (powdered diamond worth 200 gp
+**Components** V, S, M (powdered diamond worth 200 gp)
 
 **Range** touch
 

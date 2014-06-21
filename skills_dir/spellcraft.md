@@ -1,5 +1,5 @@
 ---
-title: skills/spellcraft
+title: skill_dir/spellcraft
 ---
 # Spellcraft
 

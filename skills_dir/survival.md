@@ -1,5 +1,5 @@
 ---
-title: skills/survival
+title: skill_dir/survival
 ---
 # Survival
 

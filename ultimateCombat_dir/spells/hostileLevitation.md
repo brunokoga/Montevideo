@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/hostileLevitation
+title: ultimateComba_dir/spells/hostileLevitation
 ---
 Hostile Levitation
 
@@ -7,13 +7,13 @@ Hostile Levitation
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a leather loop studded with lodestones
+**Components** V, S, M (a leather loop studded with lodestones)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

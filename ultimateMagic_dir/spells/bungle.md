@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spell_dir/bungle
+title: ultimateMagi_dir/spells/bungle
 ---
 Bungle
 
-**School** enchantment (compulsion; **Level** sorcerer/wizard 1, witch 1
+**School** enchantment (compulsion); **Level** sorcere_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 

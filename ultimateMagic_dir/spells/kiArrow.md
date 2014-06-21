@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/kiArrow
+title: ultimateMagi_dir/spells/kiArrow
 ---
 Ki Arrow
 
@@ -17,5 +17,5 @@ Ki Arrow
 
 **Saving Throw** Fortitude (object); **Spell Resistance** yes (object)
 
-You imbue an arrow with your power and throw it at a target up to 100 feet away. Make a ranged attack roll. If it hits, the target takes damage from the arrow as if you had hit it with a single unarmed strike (including your Strength bonus.
+You imbue an arrow with your power and throw it at a target up to 100 feet away. Make a ranged attack roll. If it hits, the target takes damage from the arrow as if you had hit it with a single unarmed strike (including your Strength bonus).
 

@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/curseOfMagicNegation
+title: ultimateMagi_dir/spells/curseOfMagicNegation
 ---
 Curse of Magic Negation
 
@@ -7,7 +7,7 @@ Curse of Magic Negation
 
 **Casting Time** 1 round
 
-**Components** V, S, M (powdered lead and platinum worth 250 gp
+**Components** V, S, M (powdered lead and platinum worth 250 gp)
 
 **Range** medium (100 ft. + 10 ft./level)
 
@@ -17,5 +17,5 @@ Curse of Magic Negation
 
 **Saving Throw** Will negates; **Spell Resistance** no
 
-You disrupt the target creature's ability to draw upon magical energies. For the duration of the spell, it gains the negated spellblight (see page 97. Dispel checks to remove the spellblight take a –5 penalty due to this spell's interference with magical energies.
+You disrupt the target creature's ability to draw upon magical energies. For the duration of the spell, it gains the negated spellblight (see page 97). Dispel checks to remove the spellblight take a –5 penalty due to this spell's interference with magical energies.
 

@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/burningGaze
+title: advance_dir/spells/burningGaze
 ---
  **Burning Gaze**
 
-**School** evocation [fire]; **Level** druid 2, sorcerer/wizard 2, witch 2
+**School** evocation [fire]; **Level** druid 2, sorcere_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -15,7 +15,7 @@ title: advanced/spells/burningGaze
 
 **Duration** 1 roun_dir/level
 
-**Saving Throw** Fortitude negates (see text; **Spell Resistance** yes
+**Saving Throw** Fortitude negates (see text); **Spell Resistance** yes
 
 Your eyes burn like hot coals, allowing you to set objects or foes alight with a glance.
 

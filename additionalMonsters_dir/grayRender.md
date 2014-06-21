@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/grayRender
+title: additionalMonster_dir/grayRender
 ---
 # Gray Render
 
@@ -9,9 +9,9 @@ Gray RenderCR 8
 
 **XP 4,800**
 
-N Large [magical beast](monster_dir/creatureTypes#_magical-beast
+N Large [magical beast](monsters/creatureTypes#_magical-beast)
 
-**Init** +1; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
+**Init** +1; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
 
 Defense
 
@@ -25,7 +25,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** bite +14 (2d6+7, 2 claws +15 (1d8+7 plus [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** bite +14 (2d6+7), 2 claws +15 (1d8+7 plus [grab](monsters/universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -35,11 +35,11 @@ Statistics
 
 **Str** 25, **Dex** 13, **Con** 24, **Int** 3, **Wis** 14, **Cha** 8
 
-**Base Atk** +8; **CMB** +16 (+20 grapple; **CMD** 27
+**Base Atk** +8; **CMB** +16 (+20 grapple); **CMD** 27
 
-**Feats** [Awesome Blow](additionalMonsters/../monster_dir/monsterFeats#_awesome-blow, [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (claw)
+**Feats** [Awesome Blow](additionalMonster_dir/../monster_dir/monsterFeats#_awesome-blow), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Weapon Focus](additionalMonster_dir/../feats#_weapon-focus) (claw)
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +13, [Survival](additionalMonsters/../skill_dir/survival#_survival +6; **Racial Modifiers** +4 [Perception](additionalMonsters/../skill_dir/perception#_perception)
+**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +13, [Survival](additionalMonsters/../skill_dir/survival#_survival) +6; **Racial Modifiers** +4 [Perception](additionalMonsters/../skill_dir/perception#_perception)
 
 **SQ** double damage against objects
 
@@ -55,7 +55,7 @@ Ecology
 
 Special Abilities
 
-**Double Damage Against Objects (Ex** A gray render that makes a full attack against an object or structure deals double damage.
+**Double Damage Against Objects (Ex)** A gray render that makes a full attack against an object or structure deals double damage.
 
 Standing over 9 feet tall and weighing in excess of 4,000 pounds, a gray render is a solitary and savage predator. Renders are gifted with immense strength, and some reports claim to have witnessed a gray render uprooting a fully grown tree and tearing it to splinters in order to catch prey hiding within. Gray renders actively avoid forming groups or communities with their own kind, and perhaps only tolerate the presence of other renders when it is time to mate. Some sages claim they are asexual, but it is more likely they are hermaphrodites able to self-fertilize, and reproduce only rarely.
 

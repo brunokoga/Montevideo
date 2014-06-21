@@ -3,7 +3,7 @@ title: spell_dir/creepingDoom
 ---
  **Creeping Doom**
 
-**School** conjuration (summoning; **Level** druid 7
+**School** conjuration (summoning); **Level** druid 7
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spell_dir/creepingDoom
 
 **Effect** four swarms of insects
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) partial, see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

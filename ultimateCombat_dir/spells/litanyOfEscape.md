@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spell_dir/litanyOfEscape
+title: ultimateComba_dir/spells/litanyOfEscape
 ---
 Litany of Escape
 
-**School** conjuration (teleportation [language dependent]; **Level** antipaladin 3, inquisitor 4, paladin 3
+**School** conjuration (teleportation) [language dependent]; **Level** antipaladin 3, inquisitor 4, paladin 3
 
 **Casting Time** 1 swift action
 

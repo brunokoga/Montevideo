@@ -7,13 +7,13 @@ title: spell_dir/desecrate
 
 **Casting Time** 1 standard action
 
-**Component** V, S, M (a vial of unholy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area, DF
+**Component** V, S, M (a vial of unholy water and 25 gp worth (5 pounds) of silver dust, all of which must be sprinkled around the area), DF
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Area** 20-ft.-radius emanation
 
-**Duration** 2 hours/level
+**Duration** 2 hour_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

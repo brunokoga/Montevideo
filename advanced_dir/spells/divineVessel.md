@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/divineVessel
+title: advance_dir/spells/divineVessel
 ---
  **Divine Vessel**
 
@@ -19,7 +19,7 @@ You accept otherworldly energies into your body and transform. Your size increas
 
 If insufficient room is available for the desired growth, you attain the maximum possible size and may make a Strength check (using your increased Strength) to burst any enclosures in the process. If you fail, you are constrained without harm by the materials enclosing you—the spell cannot crush you by increasing your size.
 
-All equipment you wear or carry is similarly enlarged by this spell. Melee weapons deal more damage. Other magical properties are not affected by this spell. Any enlarged item that leaves your possession (including a projectile or thrown weapon instantly returns to its normal size. This means that thrown and projectile weapons deal their normal damage. Magical effects that increase size do not stack.
+All equipment you wear or carry is similarly enlarged by this spell. Melee weapons deal more damage. Other magical properties are not affected by this spell. Any enlarged item that leaves your possession (including a projectile or thrown weapon) instantly returns to its normal size. This means that thrown and projectile weapons deal their normal damage. Magical effects that increase size do not stack.
 
 You gain additional abilities as noted below.
 

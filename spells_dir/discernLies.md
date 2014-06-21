@@ -1,5 +1,5 @@
 ---
-title: spells/discernLies
+title: spell_dir/discernLies
 ---
  **Discern Lies**
 
@@ -11,7 +11,7 @@ title: spells/discernLies
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Targets** one creature/level, no two of which can be more than 30 ft. apart
+**Targets** one creatur_dir/level, no two of which can be more than 30 ft. apart
 
 **Duration** concentration, up to 1 round/level
 

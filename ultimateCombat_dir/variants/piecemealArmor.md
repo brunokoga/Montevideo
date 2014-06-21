@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/variant_dir/piecemealArmor
+title: ultimateComba_dir/variants/piecemealArmor
 ---
 # Piecemeal Armor
 
@@ -51,7 +51,7 @@ For instance, if a character does not wear a torso or leg armor piece, but wears
 
 In order for the armor to gain the benefits of a special material, all armor pieces worn must be made of the same special material. Because of this, armor pieces constructed of special materials can be constructed at a decreased cost based on which pieces are made of the special material. Constructing a whole suit of armor with the same special materials uses the standard costs.
 
-In the case of chain shirts, breastplates, agile breastplates, and any other armor pieces that are treated as a category lighter when worn alone, to determine the cost of creating that piece of armor from a special material, use the base armor category (medium in the case of a chain torso armor piece, and heavy in the case of a plate torso armor piece when pricing the item, but in the case of adamantine and similar armors, the item gains the material benefit of the lighter category (damage reduction 1/— in the case of the chain torso armor piece worn as a chain shirt, or damage reduction 2/— in the case of plate torso armor piece worn as a breastplate).
+In the case of chain shirts, breastplates, agile breastplates, and any other armor pieces that are treated as a category lighter when worn alone, to determine the cost of creating that piece of armor from a special material, use the base armor category (medium in the case of a chain torso armor piece, and heavy in the case of a plate torso armor piece) when pricing the item, but in the case of adamantine and similar armors, the item gains the material benefit of the lighter category (damage reduction 1/— in the case of the chain torso armor piece worn as a chain shirt, or damage reduction 2/— in the case of plate torso armor piece worn as a breastplate).
 
 ## Adamantine
 
@@ -163,7 +163,7 @@ Failure Chance | Speed
 
 With the smallest area to protect, arm armor pieces tend to have the lowest armor value of all the piecemeal armor types, with light armor pieces offering little to no protection unless they are part of a complete suit. Because arm armor pieces tend to interfere with hand movements needed for somatic components, they offer the highest spell failure chance.
 
-**Agile Plate Arm Armor Piece** : This armor piece consists of pauldrons, gardbraces, rerebraces, vambraces, and gauntlets all cunningly designed to increase the maneuverability of the wearer. When worn alone, with an agile plate torso armor piece, or with an agile plate torso armor piece and a chain leg armor piece (or lighter armor), the armor check penalty for [Climb](skill_dir/climb#_climb) skill and jump checks is only –4 (masterwork and mithral versions of this armor and the above armor piece combination reduce this penalty as well as the normal penalty.
+**Agile Plate Arm Armor Piece** : This armor piece consists of pauldrons, gardbraces, rerebraces, vambraces, and gauntlets all cunningly designed to increase the maneuverability of the wearer. When worn alone, with an agile plate torso armor piece, or with an agile plate torso armor piece and a chain leg armor piece (or lighter armor), the armor check penalty for [Climb](skill_dir/climb#_climb) skill and jump checks is only –4 (masterwork and mithral versions of this armor and the above armor piece combination reduce this penalty as well as the normal penalty).
 
 **Banded Arm Armor Piece** : These overlapping strips of metal on leather usually take the form of long sleeves connected to pauldrons of the same material at the top of the sleeves and a pair of metal gauntlets at the hands of the armor piece.
 
@@ -333,11 +333,11 @@ The torso armor piece provides the most protection, but also usually provides th
 
 **Agile Plate Torso Armor Piece** : This breastplate is designed to allow its wearer extra flexibility. When worn alone, the wearer's armor check penalty for the [Climb](skill_dir/climb#_climb) and jump checks is only –1 (masterwork and mithral versions of this armor reduce this penalty as well as the normal penalty).
 
-Alternatively, when worn with an agile lamellar arm armor piece and a chain leg armor piece (or lighter armor, the armor check penalty for [Climb](skill_dir/climb#_climb) and jump checks is only –4 (masterwork and mithral versions of this armor and the above armor piece combination reduce this penalty as well as the normal penalty).
+Alternatively, when worn with an agile lamellar arm armor piece and a chain leg armor piece (or lighter armor), the armor check penalty for [Climb](skills/climb#_climb) and jump checks is only –4 (masterwork and mithral versions of this armor and the above armor piece combination reduce this penalty as well as the normal penalty).
 
 Furthermore, when an agile plate torso armor piece is worn alone, it is considered to be medium armor instead of heavy armor except when creating special material versions of this armor.
 
-**Armored Coat** : This sturdy leather coat is reinforced with metal plates sewn into the lining. While more cumbersome than other torso armor pieces, and less effective, it can be donned or removed with a move action (there is no “don hastily” option for the armored coat. This torso armor piece can be worn with other armors, but the wearer takes the best armor bonus instead of adding up all the armor bonuses.
+**Armored Coat** : This sturdy leather coat is reinforced with metal plates sewn into the lining. While more cumbersome than other torso armor pieces, and less effective, it can be donned or removed with a move action (there is no “don hastily” option for the armored coat). This torso armor piece can be worn with other armors, but the wearer takes the best armor bonus instead of adding up all the armor bonuses.
 
 **Banded Torso Armor Piece** : This armor piece is a shirt of overlapping metal plates reinforcing leather.
 

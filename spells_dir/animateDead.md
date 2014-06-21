@@ -1,13 +1,13 @@
 ---
-title: spells/animateDead
+title: spell_dir/animateDead
 ---
  **Animate Dead**
 
-**School** necromancy [evil]; **Level** cleric 3, sorcere_dir/wizard 4
+**School** necromancy [evil]; **Level** cleric 3, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (an onyx gem worth at least 25 gp per Hit Die of the undead
+**Components** V, S, M (an onyx gem worth at least 25 gp per Hit Die of the undead)
 
 **Range** touch
 

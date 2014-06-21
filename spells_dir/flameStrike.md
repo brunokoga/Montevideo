@@ -1,5 +1,5 @@
 ---
-title: spells/flameStrike
+title: spell_dir/flameStrike
 ---
  **Flame Strike**
 

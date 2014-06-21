@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/juryRig
+title: ultimateComba_dir/spells/juryRig
 ---
 Jury-Rig
 
@@ -7,7 +7,7 @@ Jury-Rig
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a pinch of tree resin
+**Components** V, S, M (a pinch of tree resin)
 
 **Range** touch
 
@@ -15,7 +15,7 @@ Jury-Rig
 
 **Duration** 1 roun_dir/level
 
-**Saving Throw** : Will negates (harmless, object); **Spell Resistance** : yes (harmless, object
+**Saving Throw** : Will negates (harmless, object); **Spell Resistance** : yes (harmless, object)
 
 When you cast this spell, a spectral force binds a broken weapon together, relieving the broken condition for a short time. While under the effects of this spell, an item with the broken condition suffers no adverse effects from that condition, and is treated as if it is not broken. The object regains no hit points, and damage can still destroy the object.
 

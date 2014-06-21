@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/fungalInfestation
+title: ultimateMagi_dir/spells/fungalInfestation
 ---
 Fungal Infestation
 

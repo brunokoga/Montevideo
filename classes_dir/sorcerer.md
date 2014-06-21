@@ -1,5 +1,5 @@
 ---
-title: classes/sorcerer
+title: classe_dir/sorcerer
 ---
 # Sorcerer
 
@@ -13,7 +13,7 @@ Scions of innately magical bloodlines, the chosen of deities, the spawn of monst
 
 ## Class Skills
 
-The sorcerer's class skills are [Appraise](../skill_dir/appraise#_appraise ( [Int](../gettingStarted#_intelligence)), [Bluff](../skill_dir/bluff#_bluff ( [Cha](../gettingStarted#_charisma-new)), [Craft](../skill_dir/craft#_craft ( [Int](../gettingStarted#_intelligence)), [Fly](../skill_dir/fly#_fly ( [Dex](../gettingStarted#_dexterity)), [Intimidate](../skill_dir/intimidate#_intimidate ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skill_dir/knowledge#_knowledge) (arcana ( [Int](../gettingStarted#_intelligence)), [Profession](../skill_dir/profession#_profession ( [Wis](../gettingStarted#_wisdom)), [Spellcraft](../skill_dir/spellcraft#_spellcraft ( [Int](../gettingStarted#_intelligence)), and [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device ( [Cha](../gettingStarted#_charisma-new)).
+The sorcerer's class skills are [Appraise](../skill_dir/appraise#_appraise) ( [Int](../gettingStarted#_intelligence)), [Bluff](../skill_dir/bluff#_bluff) ( [Cha](../gettingStarted#_charisma-new)), [Craft](../skill_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Fly](../skill_dir/fly#_fly) ( [Dex](../gettingStarted#_dexterity)), [Intimidate](../skill_dir/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skill_dir/knowledge#_knowledge) (arcana) ( [Int](../gettingStarted#_intelligence)), [Profession](../skill_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Spellcraft](../skill_dir/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)), and [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device) ( [Cha](../gettingStarted#_charisma-new)).
 
 **Skill Ranks per Level** : 2 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -75,13 +75,13 @@ All of the following are class features of the sorcerer.
 
 **Weapon and Armor Proficiency** : Sorcerers are proficient with all [simple](../equipment#_simple-martial-and-exotic-weapons) weapons. They are not proficient with any type of armor or shield. Armor interferes with a sorcerer's gestures, which can cause her spells with somatic components to fail (see [Arcane Spells and Armor](wizard#_arcane-spells-and-armor)).
 
-**Spells** : A sorcerer casts arcane spells drawn primarily from the sorcerer/wizard spell list presented in [Spell Lists](../spellLists). She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a sorcerer must have a [Charisma](../gettingStarted#_charisma-new) score equal to at least 10 + the spell level. The Difficulty Class for a [saving throw](../magic#_saving-throw) against a sorcerer's spell is 10 + the spell level + the sorcerer's [Charisma](../gettingStarted#_charisma-new) modifier.
+**Spells** : A sorcerer casts arcane spells drawn primarily from the sorcere_dir/wizard spell list presented in [Spell Lists](../spellLists). She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a sorcerer must have a [Charisma](../gettingStarted#_charisma-new) score equal to at least 10 + the spell level. The Difficulty Class for a [saving throw](../magic#_saving-throw) against a sorcerer's spell is 10 + the spell level + the sorcerer's [Charisma](../gettingStarted#_charisma-new) modifier.
 
 Like other spellcasters, a sorcerer can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table: Sorcerer. In addition, she receives bonus spells per day if she has a high [Charisma](../gettingStarted#_charisma-new) score (see [Table: Ability Modifiers and Bonus Spells](../gettingStarted#_table-1-3-ability-modifiers-and-bonus-spells)).
 
 A sorcerer's selection of spells is extremely limited. A sorcerer begins play knowing four 0-level spells and two 1st-level spells of her choice. At each new sorcerer level, she gains one or more new spells, as indicated on Table: Sorcerer Spells Known. (Unlike spells per day, the number of spells a sorcerer knows is not affected by her [Charisma](../gettingStarted#_charisma-new) score; the numbers on Table: Sorcerer Spells Known are fixed.) These new spells can be common spells chosen from the sorcere_dir/wizard spell list, or they can be unusual spells that the sorcerer has gained some understanding of through study.
 
-Upon reaching 4th level, and at every even-numbered sorcerer level after that (6th, 8th, and so on, a sorcerer can choose to learn a new spell in place of one she already knows. In effect, the sorcerer loses the old spell in exchange for the new one. The new spell's level must be the same as that of the spell being exchanged. A sorcerer may swap only a single spell at any given level, and must choose whether or not to swap the spell at the same time that she gains new spells known for the level.
+Upon reaching 4th level, and at every even-numbered sorcerer level after that (6th, 8th, and so on), a sorcerer can choose to learn a new spell in place of one she already knows. In effect, the sorcerer loses the old spell in exchange for the new one. The new spell's level must be the same as that of the spell being exchanged. A sorcerer may swap only a single spell at any given level, and must choose whether or not to swap the spell at the same time that she gains new spells known for the level.
 
 Unlike a wizard or a cleric, a sorcerer need not prepare her spells in advance. She can cast any spell she knows at any time, assuming she has not yet used up her spells per day for that spell level.
 
@@ -103,11 +103,11 @@ The following bloodlines represent only some of the possible sources of power th
 
 There is a taint in your blood, one that is alien and bizarre. You tend to think in odd ways, approaching problems from an angle that most would not expect. Over time, this taint manifests itself in your physical form.
 
-**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (dungeoneering.
+**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (dungeoneering).
 
-**Bonus Spells** : _ [enlarge person](../spell_dir/enlargePerson#_enlarge-person)_ (3rd, _ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility)_ (5th, _ [tongues](../spell_dir/tongues#_tongues)_ (7th, _ [black tentacles](../spell_dir/blackTentacles#_black-tentacles)_ (9th, _ [feeblemind](../spell_dir/feeblemind#_feeblemind)_ (11th, _ [veil](../spell_dir/veil#_veil) _(13th, _ [plane shift](../spell_dir/planeShift#_plane-shift)_ (15th, _ [mind blank](../spell_dir/mindBlank#_mind-blank)_ (17th, _ [shapechange](../spell_dir/shapechange#_shapechange) _(19th.
+**Bonus Spells** : _ [enlarge person](../spell_dir/enlargePerson#_enlarge-person)_ (3rd), _ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility)_ (5th), _ [tongues](../spell_dir/tongues#_tongues)_ (7th), _ [black tentacles](../spell_dir/blackTentacles#_black-tentacles)_ (9th), _ [feeblemind](../spell_dir/feeblemind#_feeblemind)_ (11th), _ [veil](../spell_dir/veil#_veil) _(13th), _ [plane shift](../spell_dir/planeShift#_plane-shift)_ (15th), _ [mind blank](../spell_dir/mindBlank#_mind-blank)_ (17th), _ [shapechange](../spell_dir/shapechange#_shapechange) _(19th).
 
-**Bonus Feats** : [Combat Casting](../feats#_combat-casting), [Improved Disarm](../feats#_improved-disarm), [Improved Grapple](../feats#_improved-grapple), [Improved Initiative](../feats#_improved-initiative), [Improved Unarmed Strike](../feats#_improved-unarmed-strike), [Iron Will](../feats#_iron-will), [Silent Spell](../feats#_silent-spell), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [dungeoneering].
+**Bonus Feats** : [Combat Casting](../feats#_combat-casting), [Improved Disarm](../feats#_improved-disarm), [Improved Grapple](../feats#_improved-grapple), [Improved Initiative](../feats#_improved-initiative), [Improved Unarmed Strike](../feats#_improved-unarmed-strike), [Iron Will](../feats#_iron-will), [Silent Spell](../feats#_silent-spell), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [dungeoneering]).
 
 **Bloodline Arcana** : Whenever you cast a spell of the [polymorph](../magic#_polymorph) subschool, increase the duration of the spell by 50% (minimum 1 round). This bonus does not stack with the increase granted by the [Extend Spell](../feats#_extend-spell) feat.
 
@@ -127,11 +127,11 @@ _Aberrant Form [(Ex)](../glossary#_extraordinary-abilities-ex)_: At 20th level, 
 
 Generations ago, a demon spread its filth into your heritage. While it does not manifest in all of your kin, for you it is particularly strong. You might sometimes have urges to chaos or evil, but your destiny (and [alignment](../additionalRules#_alignment)) is up to you.
 
-**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (planes.
+**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (planes).
 
-**Bonus Spells** : _ [cause fear](../spell_dir/causeFear#_cause-fear)_ (3rd, _ [bull's strength](../spell_dir/bullSStrength#_bull-s-strength)_ (5th, _ [rage](../spell_dir/rage#_rage)_ (7th, _ [stoneskin](../spell_dir/stoneskin#_stoneskin)_ (9th, _ [dismissal](../spell_dir/dismissal#_dismissal)_ (11th, _ [transformation](../spell_dir/transformation#_transformation)_ (13th, _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (15th, _ [unholy aura](../spell_dir/unholyAura#_unholy-aura)_ (17th, _ [summon monster IX](../spell_dir/summonMonster#_summon-monster-ix)_ (19th.
+**Bonus Spells** : _ [cause fear](../spell_dir/causeFear#_cause-fear)_ (3rd), _ [bull's strength](../spell_dir/bullSStrength#_bull-s-strength)_ (5th), _ [rage](../spell_dir/rage#_rage)_ (7th), _ [stoneskin](../spell_dir/stoneskin#_stoneskin)_ (9th), _ [dismissal](../spell_dir/dismissal#_dismissal)_ (11th), _ [transformation](../spell_dir/transformation#_transformation)_ (13th), _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (15th), _ [unholy aura](../spell_dir/unholyAura#_unholy-aura)_ (17th), _ [summon monster IX](../spell_dir/summonMonster#_summon-monster-ix)_ (19th).
 
-**Bonus Feats** : [Augment Summoning](../feats#_augment-summoning), [Cleave](../feats#_cleave), [Empower Spell](../feats#_empower-spell), [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Sunder](../feats#_improved-sunder), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [planes].
+**Bonus Feats** : [Augment Summoning](../feats#_augment-summoning), [Cleave](../feats#_cleave), [Empower Spell](../feats#_empower-spell), [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Sunder](../feats#_improved-sunder), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [planes]).
 
 **Bloodline Arcana** : Whenever you cast a spell of the [summoning](../magic#_summoning) subschool, the creatures summoned gain [DR](../glossary#_damage-reduction)/good equal to 1/2 your sorcerer level (minimum 1). This does not stack with any [DR](../glossary#_damage-reduction) the creature might have.
 
@@ -145,17 +145,17 @@ _Strength of the Abyss [(Ex)](../glossary#_extraordinary-abilities-ex)_: At 9th 
 
 _Added Summonings [(Su)](../glossary#_supernatural-abilities-su)_: At 15th level, whenever you summon a creature with the demon subtype or the fiendish template using a _ [summon monster](../spell_dir/summonMonster#_summon-monster-i)_ spell, you summon one additional creature of the same kind.
 
-_Demonic Might_ _ [(Su](../glossary#_supernatural-abilities-su)_: At 20th level, the power of the Abyss flows through you. You gain immunity to electricity and poison. You also gain resistance to acid 10, cold 10, and fire 10, and gain telepathy with a range of 60 feet (allowing you to communicate with any creature that can speak a language).
+_Demonic Might_ _ [(Su)](../glossary#_supernatural-abilities-su)_: At 20th level, the power of the Abyss flows through you. You gain immunity to electricity and poison. You also gain resistance to acid 10, cold 10, and fire 10, and gain telepathy with a range of 60 feet (allowing you to communicate with any creature that can speak a language).
 
 ## Arcane
 
 Your family has always been skilled in the eldritch art of magic. While many of your relatives were accomplished wizards, your powers developed without the need for study and practice.
 
-**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (any one.
+**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (any one).
 
-**Bonus Spells** : _ [identify](../spell_dir/identify#_identify)_ (3rd, _ [invisibility](../spell_dir/invisibility#_invisibility)_ (5th, _ [dispel magic](../spell_dir/dispelMagic#_dispel-magic)_ (7th, _ [dimension door](../spell_dir/dimensionDoor#_dimension-door) _(9th, _ [overland flight](../spell_dir/overlandFlight#_overland-flight) _(11th, _ [true seeing](../spell_dir/trueSeeing#_true-seeing)_ (13th, _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (15th, _ [power word stun](../spell_dir/powerWordStun#_power-word-stun)_ (17th, _ [wish](../spell_dir/wish#_wish)_ (19th.
+**Bonus Spells** : _ [identify](../spell_dir/identify#_identify)_ (3rd), _ [invisibility](../spell_dir/invisibility#_invisibility)_ (5th), _ [dispel magic](../spell_dir/dispelMagic#_dispel-magic)_ (7th), _ [dimension door](../spell_dir/dimensionDoor#_dimension-door) _(9th), _ [overland flight](../spell_dir/overlandFlight#_overland-flight) _(11th), _ [true seeing](../spell_dir/trueSeeing#_true-seeing)_ (13th), _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (15th), _ [power word stun](../spell_dir/powerWordStun#_power-word-stun)_ (17th), _ [wish](../spell_dir/wish#_wish)_ (19th).
 
-**Bonus Feats** : [Combat Casting](../feats#_combat-casting), [Improved Counterspell](../feats#_improved-counterspell), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Scribe Scroll](../feats#_scribe-scroll), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [arcana], [Spell Focus](../feats#_spell-focus), [Still Spell](../feats#_still-spell).
+**Bonus Feats** : [Combat Casting](../feats#_combat-casting), [Improved Counterspell](../feats#_improved-counterspell), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Scribe Scroll](../feats#_scribe-scroll), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [arcana]), [Spell Focus](../feats#_spell-focus), [Still Spell](../feats#_still-spell).
 
 **Bloodline Arcana** : Whenever you apply a [metamagic feat](../feats#_metamagic-feats) to a spell that increases the slot used by at least one level, increase the spell's DC by +1. This bonus does not stack with itself and does not apply to spells modified by the [Heighten Spell](../feats#_heighten-spell) feat.
 
@@ -167,7 +167,7 @@ _Metamagic Adept [(Ex)](../glossary#_extraordinary-abilities-ex)_: At 3rd level,
 
 _New Arcana [(Ex)](../glossary#_extraordinary-abilities-ex)_: At 9th level, you can add any one spell from the sorcere_dir/wizard spell list to your list of spells known. This spell must be of a level that you are capable of casting. You can also add one additional spell at 13th level and 17th level.
 
-_School Power [(Ex](../glossary#_extraordinary-abilities-ex)_: At 15th level, pick one school of magic. The DC for any spells you cast from that school increases by +2. This bonus stacks with the bonus granted by [Spell Focus](../feats#_spell-focus).
+_School Power [(Ex)](../glossary#_extraordinary-abilities-ex)_: At 15th level, pick one school of magic. The DC for any spells you cast from that school increases by +2. This bonus stacks with the bonus granted by [Spell Focus](../feats#_spell-focus).
 
 _Arcane Apotheosis [(Ex)](../glossary#_extraordinary-abilities-ex)_: At 20th level, your body surges with arcane power. You can add any [metamagic feats](../feats#_metamagic-feats) that you know to your spells without increasing their casting time, although you must still expend higher-level spell slots. Whenever you use magic items that require charges, you can instead expend spell slots to power the item. For every three levels of spell slots that you expend, you consume one less charge when using a magic item that expends charges.
 
@@ -177,9 +177,9 @@ Your bloodline is blessed by a celestial power, either from a celestial ancestor
 
 **Class Skill** : Heal.
 
-**Bonus Spells** : _ [bless](../spell_dir/bless#_bless)_ (3rd, _ [resist energy](../spell_dir/resistEnergy#_resist-energy) _(5th, _ [magic circle against evil](../spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_ (7th, _ [remove curse](../spell_dir/removeCurse#_remove-curse)_ (9th,_ [flame strike](../spell_dir/flameStrike#_flame-strike)_ (11th, _ [greater dispel magic](../spell_dir/dispelMagic#_dispel-magic-greater)_ (13th, _ [banishment](../spell_dir/banishment#_banishment)_ (15th, _ [sunburst](../spell_dir/sunburst#_sunburst)_ (17th,_ [gate](../spell_dir/gate#_gate) _(19th.
+**Bonus Spells** : _ [bless](../spell_dir/bless#_bless)_ (3rd), _ [resist energy](../spell_dir/resistEnergy#_resist-energy) _(5th), _ [magic circle against evil](../spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_ (7th), _ [remove curse](../spell_dir/removeCurse#_remove-curse)_ (9th),_ [flame strike](../spell_dir/flameStrike#_flame-strike)_ (11th), _ [greater dispel magic](../spell_dir/dispelMagic#_dispel-magic-greater)_ (13th), _ [banishment](../spell_dir/banishment#_banishment)_ (15th), _ [sunburst](../spell_dir/sunburst#_sunburst)_ (17th),_ [gate](../spell_dir/gate#_gate) _(19th).
 
-**Bonus Feats** : [Dodge](../feats#_dodge), [Extend Spell](../feats#_extend-spell), [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Mounted Combat](../feats#_mounted-combat), [Ride-By Attack](../feats#_ride-by-attack), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [religion], [Weapon Finesse](../feats#_weapon-finesse).
+**Bonus Feats** : [Dodge](../feats#_dodge), [Extend Spell](../feats#_extend-spell), [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Mounted Combat](../feats#_mounted-combat), [Ride-By Attack](../feats#_ride-by-attack), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [religion]), [Weapon Finesse](../feats#_weapon-finesse).
 
 **Bloodline Arcana** : Whenever you cast a spell of the [summoning](../magic#_summoning) subschool, the creatures summoned gain [DR](../glossary#_damage-reduction)/evil equal to 1/2 your sorcerer level (minimum 1). This does not stack with any [DR](../glossary#_damage-reduction) the creature might have.
 
@@ -193,17 +193,17 @@ _Wings of Heaven [(Su)](../glossary#_supernatural-abilities-su)_: At 9th level, 
 
 _Conviction [(Su)](../glossary#_supernatural-abilities-su)_: At 15th level, you can reroll any one ability check, attack roll, skill check, or [saving throw](../combat#_saving-throws) you just made. You must decide to use this ability after the die is rolled, but before the results are revealed by the GM. You must take the second result, even if it is worse. You can use this ability once per day.
 
-_Ascension [(Su)](../glossary#_supernatural-abilities-su)_: At 20th level, you become infused with the power of the heavens. You gain immunity to acid, cold, and petrification. You also gain resist electricity 10, resist fire 10, and a +4 racial bonus on saves against poison. Finally, you gain unlimited use of the wings of heaven ability. Finally, you gain the ability to speak with any creature that has a language (as per the _ [tongues](../spell_dir/tongues#_tongues) _spell.
+_Ascension [(Su)](../glossary#_supernatural-abilities-su)_: At 20th level, you become infused with the power of the heavens. You gain immunity to acid, cold, and petrification. You also gain resist electricity 10, resist fire 10, and a +4 racial bonus on saves against poison. Finally, you gain unlimited use of the wings of heaven ability. Finally, you gain the ability to speak with any creature that has a language (as per the _ [tongues](../spell_dir/tongues#_tongues) _spell).
 
 ## Destined
 
 Your family is destined for greatness in some way. Your birth could have been foretold in prophecy, or perhaps it occurred during an especially auspicious event, such as a solar eclipse. Regardless of your bloodline's origin, you have a great future ahead.
 
-**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (history.
+**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (history).
 
-**Bonus Spells** :_ [alarm](../spell_dir/alarm#_alarm)_ (3rd, _ [blur](../spell_dir/blur#_blur)_ (5th, _ [protection from energy](../spell_dir/protectionFromEnergy#_protection-from-energy)_ (7th, _ [freedom of movement](../spell_dir/freedomOfMovement#_freedom-of-movement)_ (9th, _ [break enchantment](../spell_dir/breakEnchantment#_break-enchantment) _(11th, _ [mislead](../spell_dir/mislead#_mislead)_ (13th, _ [spell turning](../spell_dir/spellTurning#_spell-turning)_ (15th, _ [moment of prescience](../spell_dir/momentOfPrescience#_moment-of-prescience) _(17th, _ [foresight](../spell_dir/foresight#_foresight)_ (19th.
+**Bonus Spells** :_ [alarm](../spell_dir/alarm#_alarm)_ (3rd), _ [blur](../spell_dir/blur#_blur)_ (5th), _ [protection from energy](../spell_dir/protectionFromEnergy#_protection-from-energy)_ (7th), _ [freedom of movement](../spell_dir/freedomOfMovement#_freedom-of-movement)_ (9th), _ [break enchantment](../spell_dir/breakEnchantment#_break-enchantment) _(11th), _ [mislead](../spell_dir/mislead#_mislead)_ (13th), _ [spell turning](../spell_dir/spellTurning#_spell-turning)_ (15th), _ [moment of prescience](../spell_dir/momentOfPrescience#_moment-of-prescience) _(17th), _ [foresight](../spell_dir/foresight#_foresight)_ (19th).
 
-**Bonus Feats** : [Arcane Strike](../feats#_arcane-strike), [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Leadership](../feats#_leadership), [Lightning Reflexes](../feats#_lightning-reflexes), [Maximize Spell](../feats#_maximize-spell), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [history], [Weapon Focus](../feats#_weapon-focus).
+**Bonus Feats** : [Arcane Strike](../feats#_arcane-strike), [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Leadership](../feats#_leadership), [Lightning Reflexes](../feats#_lightning-reflexes), [Maximize Spell](../feats#_maximize-spell), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [history]), [Weapon Focus](../feats#_weapon-focus).
 
 **Bloodline Arcana** : Whenever you cast a spell with a range of “personal,” you gain a luck bonus equal to the spell's level on all your [saving throws](../combat#_saving-throws) for 1 round.
 
@@ -223,11 +223,11 @@ _Destiny Realized_ _ [(Su)](../glossary#_supernatural-abilities-su)_: At 20th le
 
 At some point in your family's history, a dragon interbred with your bloodline, and now its ancient power flows through your veins.
 
-**Class Skill** : [Perception](../skill_dir/perception#_perception.
+**Class Skill** : [Perception](../skill_dir/perception#_perception).
 
-**Bonus Spells** : _ [mage armor](../spell_dir/mageArmor#_mage-armor)_ (3rd, _ [resist energy](../spell_dir/resistEnergy#_resist-energy)_ (5th, _ [fly](../spell_dir/fly#_fly)_ (7th, _ [fear](../spell_dir/fear#_fear)_ (9th, _ [spell resistance](../spell_dir/spellResistance#_spell-resistance)_ (11th, _ [form of the dragon I](../spell_dir/formOfTheDragon#_form-of-the-dragon-i) _(13th, _ [form of the dragon II](../spell_dir/formOfTheDragon#_form-of-the-dragon-ii)_ (15th, _ [form of the dragon III](../spell_dir/formOfTheDragon#_form-of-the-dragon-iii) _(17th, _ [wish](../spell_dir/wish#_wish)_ (19th.
+**Bonus Spells** : _ [mage armor](../spell_dir/mageArmor#_mage-armor)_ (3rd), _ [resist energy](../spell_dir/resistEnergy#_resist-energy)_ (5th), _ [fly](../spell_dir/fly#_fly)_ (7th), _ [fear](../spell_dir/fear#_fear)_ (9th), _ [spell resistance](../spell_dir/spellResistance#_spell-resistance)_ (11th), _ [form of the dragon I](../spell_dir/formOfTheDragon#_form-of-the-dragon-i) _(13th), _ [form of the dragon II](../spell_dir/formOfTheDragon#_form-of-the-dragon-ii)_ (15th), _ [form of the dragon III](../spell_dir/formOfTheDragon#_form-of-the-dragon-iii) _(17th), _ [wish](../spell_dir/wish#_wish)_ (19th).
 
-**Bonus Feats** : [Blind-Fight](../feats#_blind-fight), [Great Fortitude](../feats#_great-fortitude), [Improved Initiative](../feats#_improved-initiative), [Power Attack](../feats#_power-attack), [Quicken Spell](../feats#_quicken-spell), [Skill Focus](../feats#_skill-focus) ( [Fly](../skill_dir/fly#_fly), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [arcana], [Toughness](../feats#_toughness).
+**Bonus Feats** : [Blind-Fight](../feats#_blind-fight), [Great Fortitude](../feats#_great-fortitude), [Improved Initiative](../feats#_improved-initiative), [Power Attack](../feats#_power-attack), [Quicken Spell](../feats#_quicken-spell), [Skill Focus](../feats#_skill-focus) ( [Fly](../skill_dir/fly#_fly)), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [arcana]), [Toughness](../feats#_toughness).
 
 **Bloodline Arcana** : Whenever you cast a spell with an energy descriptor that matches your draconic bloodline's energy type, that spell deals +1 point of damage per die rolled.
 
@@ -260,13 +260,13 @@ _Power of Wyrms_ _ [(Su)](../glossary#_supernatural-abilities-su)_: At 20th leve
 
 The power of the elements resides in you, and at times you can hardly control its fury. This influence comes from an elemental outsider in your family history or a time when you or your relatives were exposed to a powerful elemental force.
 
-**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (planes.
+**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (planes).
 
-**Bonus Spells** : _ [burning hands](../spell_dir/burningHands#_burning-hands)_\* (3rd, _ [scorching ray](../spell_dir/scorchingRay#_scorching-ray)_\* (5th, _ [protection from energy](../spell_dir/protectionFromEnergy#_protection-from-energy)_ (7th, _ [elemental body I](../spell_dir/elementalBody#_elemental-body-i)_ (9th, _ [elemental body II](../spell_dir/elementalBody#_elemental-body-ii)_ (11th, _ [elemental body III](../spell_dir/elementalBody#_elemental-body-iii)_ (13th, _ [elemental body IV](../spell_dir/elementalBody#_elemental-body-iv)_ (15th, _ [summon monster VIII](../spell_dir/summonMonster#_summon-monster-viii)_ (elementals only) (17th, _ [elemental swarm](../spell_dir/elementalSwarm#_elemental-swarm)_ (19th.
+**Bonus Spells** : _ [burning hands](../spell_dir/burningHands#_burning-hands)_\* (3rd), _ [scorching ray](../spell_dir/scorchingRay#_scorching-ray)_\* (5th), _ [protection from energy](../spell_dir/protectionFromEnergy#_protection-from-energy)_ (7th), _ [elemental body I](../spell_dir/elementalBody#_elemental-body-i)_ (9th), _ [elemental body II](../spell_dir/elementalBody#_elemental-body-ii)_ (11th), _ [elemental body III](../spell_dir/elementalBody#_elemental-body-iii)_ (13th), _ [elemental body IV](../spell_dir/elementalBody#_elemental-body-iv)_ (15th), _ [summon monster VIII](../spell_dir/summonMonster#_summon-monster-viii)_ (elementals only) (17th), _ [elemental swarm](../spell_dir/elementalSwarm#_elemental-swarm)_ (19th).
 
 \*These spells always deal a type of damage determined by your element. In addition, the subtype of these spells changes to match the energy type of your element.
 
-**Bonus Feats** : [Dodge](../feats#_dodge), [Empower Spell](../feats#_empower-spell), [Great Fortitude](../feats#_great-fortitude), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [planes], [Weapon Finesse](../feats#_weapon-finesse).
+**Bonus Feats** : [Dodge](../feats#_dodge), [Empower Spell](../feats#_empower-spell), [Great Fortitude](../feats#_great-fortitude), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [planes]), [Weapon Finesse](../feats#_weapon-finesse).
 
 **Bloodline Arcana** : Whenever you cast a spell that deals energy damage, you can change the type of damage to match the type of your bloodline. This also changes the spell's type to match the type of your bloodline.
 
@@ -293,11 +293,11 @@ _Elemental Body [(Su)](../glossary#_supernatural-abilities-su)_: At 20th level, 
 
 The capricious nature of the fey runs in your family due to some intermingling of fey blood or magic. You are more emotional than most, prone to bouts of joy and rage.
 
-**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (nature.
+**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (nature).
 
-**Bonus Spells** : _ [entangle](../spell_dir/entangle#_entangle) _(3rd, _ [hideous laughter](../spell_dir/hideousLaughter#_hideous-laughter)_ (5th, _ [deep slumber](../spell_dir/deepSlumber#_deep-slumber)_ (7th, _ [poison](../spell_dir/poison#_poison)_ (9th, _ [tree stride](../spell_dir/treeStride#_tree-stride)_ (11th, _ [mislead](../spell_dir/mislead#_mislead)_ (13th, _ [phase door](../spell_dir/phaseDoor#_phase-door)_ (15th, _ [irresistible dance](../spell_dir/irresistibleDance#_irresistible-dance)_ (17th, _ [shapechange](../spell_dir/shapechange#_shapechange) _(19th.
+**Bonus Spells** : _ [entangle](../spell_dir/entangle#_entangle) _(3rd), _ [hideous laughter](../spell_dir/hideousLaughter#_hideous-laughter)_ (5th), _ [deep slumber](../spell_dir/deepSlumber#_deep-slumber)_ (7th), _ [poison](../spell_dir/poison#_poison)_ (9th), _ [tree stride](../spell_dir/treeStride#_tree-stride)_ (11th), _ [mislead](../spell_dir/mislead#_mislead)_ (13th), _ [phase door](../spell_dir/phaseDoor#_phase-door)_ (15th), _ [irresistible dance](../spell_dir/irresistibleDance#_irresistible-dance)_ (17th), _ [shapechange](../spell_dir/shapechange#_shapechange) _(19th).
 
-**Bonus Feats** : [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Mobility](../feats#_mobility), [Point Blank Shot](../feats#_point-blank-shot), [Precise Shot](../feats#_precise-shot), [Quicken Spell](../feats#_quicken-spell), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [nature].
+**Bonus Feats** : [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Mobility](../feats#_mobility), [Point Blank Shot](../feats#_point-blank-shot), [Precise Shot](../feats#_precise-shot), [Quicken Spell](../feats#_quicken-spell), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [nature]).
 
 **Bloodline Arcana** : Whenever you cast a spell of the [compulsion](../magic#_compulsion) subschool, increase the spell's DC by +2.
 
@@ -309,25 +309,25 @@ _Woodland Stride_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: At 3rd lev
 
 _Fleeting Glance_ _ [(Sp)](../glossary#_spell-like-abilities-sp)_: At 9th level, you can turn [invisible](../glossary#_invisible) for a number of rounds per day equal to your sorcerer level. This ability functions as _ [greater invisibility](../spell_dir/invisibility#_invisibility-greater). _These rounds need not be consecutive.
 
-_Fey Magic [(Su](../glossary#_supernatural-abilities-su)_: At 15th level, you may reroll any caster level check made to overcome spell resistance. You must decide to use this ability before the results are revealed by the GM. You must take the second result, even if it is worse. You can use this ability at will.
+_Fey Magic [(Su)](../glossary#_supernatural-abilities-su)_: At 15th level, you may reroll any caster level check made to overcome spell resistance. You must decide to use this ability before the results are revealed by the GM. You must take the second result, even if it is worse. You can use this ability at will.
 
-_Soul of the Fey_ _ [(Su)](../glossary#_supernatural-abilities-su)_: At 20th level, your soul becomes one with the world of the fey. You gain immunity to poison and [DR](../glossary#_damage-reduction) 10/cold iron. Creatures of the animal type do not attack you unless compelled to do so through magic. Once per day, you can cast _ [shadow walk](../spell_dir/shadowWalk#_shadow-walk_ as a spell-like ability using your sorcerer level as your caster level.
+_Soul of the Fey_ _ [(Su)](../glossary#_supernatural-abilities-su)_: At 20th level, your soul becomes one with the world of the fey. You gain immunity to poison and [DR](../glossary#_damage-reduction) 10/cold iron. Creatures of the animal type do not attack you unless compelled to do so through magic. Once per day, you can cast _ [shadow walk](../spell_dir/shadowWalk#_shadow-walk)_ as a spell-like ability using your sorcerer level as your caster level.
 
 ## Infernal
 
 Somewhere in your family's history, a relative made a deal with a devil, and that pact has influenced your family line ever since. In you, it manifests in direct and obvious ways, granting you powers and abilities. While your fate is still your own, you can't help but wonder if your ultimate reward is bound to the Pit.
 
-**Class Skill** : [Diplomacy](../skill_dir/diplomacy#_diplomacy.
+**Class Skill** : [Diplomacy](../skill_dir/diplomacy#_diplomacy).
 
-**Bonus Spells** : _ [protection from good](../spell_dir/protectionFromGood#_protection-from-good)_ (3rd, _ [scorching ray](../spell_dir/scorchingRay#_scorching-ray)_ (5th, _ [suggestion](../spell_dir/suggestion#_suggestion)_ (7th, _ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (9th, _ [dominate person](../spell_dir/dominatePerson#_dominate-person) _(11th, _ [planar binding](../spell_dir/planarBinding#_planar-binding)_ (devils and creatures with the fiendish template only) (13th, _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (15th, _ [power word stun](../spell_dir/powerWordStun#_power-word-stun)_ (17th, _ [meteor swarm](../spell_dir/meteorSwarm#_meteor-swarm)_ (19th.
+**Bonus Spells** : _ [protection from good](../spell_dir/protectionFromGood#_protection-from-good)_ (3rd), _ [scorching ray](../spell_dir/scorchingRay#_scorching-ray)_ (5th), _ [suggestion](../spell_dir/suggestion#_suggestion)_ (7th), _ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (9th), _ [dominate person](../spell_dir/dominatePerson#_dominate-person) _(11th), _ [planar binding](../spell_dir/planarBinding#_planar-binding)_ (devils and creatures with the fiendish template only) (13th), _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (15th), _ [power word stun](../spell_dir/powerWordStun#_power-word-stun)_ (17th), _ [meteor swarm](../spell_dir/meteorSwarm#_meteor-swarm)_ (19th).
 
-**Bonus Feats** : [Blind-Fight](../feats#_blind-fight), [Combat Expertise](../feats#_combat-expertise), [Deceitful](../feats#_deceitful), [Extend Spell](../feats#_extend-spell), [Improved Disarm](../feats#_improved-disarm), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [planes], [Spell Penetration](../feats#_spell-penetration).
+**Bonus Feats** : [Blind-Fight](../feats#_blind-fight), [Combat Expertise](../feats#_combat-expertise), [Deceitful](../feats#_deceitful), [Extend Spell](../feats#_extend-spell), [Improved Disarm](../feats#_improved-disarm), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [planes]), [Spell Penetration](../feats#_spell-penetration).
 
 **Bloodline Arcana** : Whenever you cast a spell of the [charm](../magic#_charm) subschool, increase the spell's DC by +2.
 
 **Bloodline Powers** : You can draw upon the power of Hell, although you must be wary of its corrupting influence. Such power does not come without a price.
 
-_Corrupting Touch_ _ [(Sp)](../glossary#_spell-like-abilities-sp)_: At 1st level, you can cause a creature to become [shaken](../glossary#_shaken) as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures [shaken](../glossary#_shaken) by this ability radiate an aura of evil, as if they were an evil outsider (see _ [detect evil](../spell_dir/detectEvil#_detect-evil)_. Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your [Charisma](../gettingStarted#_charisma-new) modifier.
+_Corrupting Touch_ _ [(Sp)](../glossary#_spell-like-abilities-sp)_: At 1st level, you can cause a creature to become [shaken](../glossary#_shaken) as a melee touch attack. This effect persists for a number of rounds equal to 1/2 your sorcerer level (minimum 1). Creatures [shaken](../glossary#_shaken) by this ability radiate an aura of evil, as if they were an evil outsider (see _ [detect evil](../spell_dir/detectEvil#_detect-evil)_). Multiple touches do not stack, but they do add to the duration. You can use this ability a number of times per day equal to 3 + your [Charisma](../gettingStarted#_charisma-new) modifier.
 
 _Infernal Resistances_ _ [(Ex)](../glossary#_extraordinary-abilities-ex)_: At 3rd level, you gain resist fire 5 and a +2 bonus on [saving throws](../combat#_saving-throws) made against poison. At 9th level, your resistance to fire increases to 10 and your bonus on poison [saving throws](../combat#_saving-throws) increases to +4.
 
@@ -341,11 +341,11 @@ _Power of the Pit_ _ [(Su)](../glossary#_supernatural-abilities-su)_: At 20th le
 
 The taint of the grave runs through your family. Perhaps one of your ancestors became a powerful lich or vampire, or maybe you were born dead before suddenly returning to life. Either way, the forces of death move through you and touch your every action.
 
-**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (religion.
+**Class Skill** : [Knowledge](../skill_dir/knowledge#_knowledge) (religion).
 
-**Bonus Spells** : _ [chill touch](../spell_dir/chillTouch#_chill-touch)_ (3rd, _ [false life](../spell_dir/falseLife#_false-life)_ (5th, _ [vampiric touch](../spell_dir/vampiricTouch#_vampiric-touch)_ (7th, _ [animate dead](../spell_dir/animateDead#_animate-dead)_ (9th, _ [waves of fatigue](../spell_dir/wavesOfFatigue#_waves-of-fatigue)_ (11th, _ [undeath to death](../spell_dir/undeathToDeath#_undeath-to-death)_ (13th, _ [finger of death](../spell_dir/fingerOfDeath#_finger-of-death)_ (15th, _ [horrid wilting](../spell_dir/horridWilting#_horrid-wilting)_ (17th, _ [energy drain](../spell_dir/energyDrain#_energy-drain)_ (19th.
+**Bonus Spells** : _ [chill touch](../spell_dir/chillTouch#_chill-touch)_ (3rd), _ [false life](../spell_dir/falseLife#_false-life)_ (5th), _ [vampiric touch](../spell_dir/vampiricTouch#_vampiric-touch)_ (7th), _ [animate dead](../spell_dir/animateDead#_animate-dead)_ (9th), _ [waves of fatigue](../spell_dir/wavesOfFatigue#_waves-of-fatigue)_ (11th), _ [undeath to death](../spell_dir/undeathToDeath#_undeath-to-death)_ (13th), _ [finger of death](../spell_dir/fingerOfDeath#_finger-of-death)_ (15th), _ [horrid wilting](../spell_dir/horridWilting#_horrid-wilting)_ (17th), _ [energy drain](../spell_dir/energyDrain#_energy-drain)_ (19th).
 
-**Bonus Feats** : [Combat Casting](../feats#_combat-casting), [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [religion], [Spell Focus](../feats#_spell-focus), [Still Spell](../feats#_still-spell), [Toughness](../feats#_toughness).
+**Bonus Feats** : [Combat Casting](../feats#_combat-casting), [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Knowledge](../skill_dir/knowledge#_knowledge) [religion]), [Spell Focus](../feats#_spell-focus), [Still Spell](../feats#_still-spell), [Toughness](../feats#_toughness).
 
 **Bloodline Arcana** : Some undead are susceptible to your mind-affecting spells. Corporeal undead that were once humanoids are treated as humanoids for the purposes of determining which spells affect them.
 

@@ -3,7 +3,7 @@ title: spell_dir/regenerate
 ---
  **Regenerate**
 
-**School** conjuration (healing; **Level** cleric 7, druid 9
+**School** conjuration (healing); **Level** cleric 7, druid 9
 
 **Casting Time** 3 full rounds
 

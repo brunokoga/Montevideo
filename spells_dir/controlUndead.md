@@ -1,13 +1,13 @@
 ---
-title: spells/controlUndead
+title: spell_dir/controlUndead
 ---
  **Control Undead**
 
-**School** necromancy; **Level** sorcere_dir/wizard 7
+**School** necromancy; **Level** sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a piece of bone and a piece of raw meat
+**Components** V, S, M (a piece of bone and a piece of raw meat)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

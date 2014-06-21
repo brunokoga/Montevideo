@@ -1,5 +1,5 @@
 ---
-title: monsters/orc
+title: monster_dir/orc
 ---
 # Orc
 
@@ -25,7 +25,7 @@ CE Medium [humanoid](creatureTypes#_humanoid)
 
 **Defensive Abilities** ferocity
 
-**Weaknesses** [light sensitivity](universalMonsterRules#_light-sensitivity
+**Weaknesses** [light sensitivity](universalMonsterRules#_light-sensitivity)
 
 **Offense**
 
@@ -71,7 +71,7 @@ Orcs are defined by their class levels—they do not possess racial Hit Dice. Al
 
 **[Ferocity](universalMonsterRules#_ferocity)**
 
-**[Light Sensitivity](universalMonsterRules#_light-sensitivity**
+**[Light Sensitivity](universalMonsterRules#_light-sensitivity)**
 
 **Weapon Familiarity** : Orcs are always proficient with greataxes and falchions, and treat any weapon with the word “orc” in its name as a martial weapon.
 

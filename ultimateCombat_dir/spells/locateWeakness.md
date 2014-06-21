@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/locateWeakness
+title: ultimateComba_dir/spells/locateWeakness
 ---
 Locate Weakness
 
-**School** divination; **Level** inquisitor 3, magus 3, ranger 2, sorcerer/wizard 3, witch 3
+**School** divination; **Level** inquisitor 3, magus 3, ranger 2, sorcere_dir/wizard 3, witch 3
 
 **Casting time** 1 standard action
 
@@ -15,5 +15,5 @@ Locate Weakness
 
 **Duration** 1 minut_dir/level
 
-You can sense your foes' weak points, granting you greater damage with critical hits. Whenever you score a critical hit, roll the attack's damage dice (but not extra or precision damage dice twice and take the highest result.
+You can sense your foes' weak points, granting you greater damage with critical hits. Whenever you score a critical hit, roll the attack's damage dice (but not extra or precision damage dice) twice and take the highest result.
 

@@ -17,17 +17,17 @@ Defense
 
 **AC** 29, touch 11, flat-footed 26 (+3 Dex, +18 natural, –2 size)
 
-**hp** 261 (18d12+144
+**hp** 261 (18d12+144)
 
 **Fort** +19, **Ref** +16, **Will** +13
 
-**DR** 10/magic; **Immune** magic paralysis and sleep; **Resist** acid 10, [cold](monster_dir/creatureTypes#_cold-subtype 10, electricity 10, [fire](monster_dir/creatureTypes#_fire-subtype) 10; **SR** 26
+**DR** 10/magic; **Immune** magic paralysis and sleep; **Resist** acid 10, [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 26
 
 Offense
 
 **Speed** 40 ft., fly 160 ft. (average)
 
-**Melee** bite +28 (2d6+2), 2 claws +28 (1d8+12), tail slap +26 (2d6+6), 2 wings +26 (1d8+6
+**Melee** bite +28 (2d6+2), 2 claws +28 (1d8+12), tail slap +26 (2d6+6), 2 wings +26 (1d8+6)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -37,15 +37,15 @@ Statistics
 
 **Str** 34, **Dex** 17, **Con** 26, **Int** 9, **Wis** 14, **Cha** 17
 
-**Base Atk** +18; **CMB** +32; **CMD** 45 (49 vs. trip
+**Base Atk** +18; **CMB** +32; **CMD** 45 (49 vs. trip)
 
-**Feats** [Flyby Attack](monster_dir/monsterFeats#_flyby-attack, [Hover](monster_dir/monsterFeats#_hover), [Improved Initiative](feats#_improved-initiative), [Improved Sunder](feats#_improved-sunder), [Lightning Reflexes](feats#_lightning-reflexes, [Multiattack](monster_dir/monsterFeats#_multiattack), [Power Attack](feats#_power-attack, [Snatch](monster_dir/monsterFeats#_snatch, [Wingover](monster_dir/monsterFeats#_wingover
+**Feats** [Flyby Attack](monsters/monsterFeats#_flyby-attack), [Hover](monster_dir/monsterFeats#_hover), [Improved Initiative](feats#_improved-initiative), [Improved Sunder](feats#_improved-sunder), [Lightning Reflexes](feats#_lightning-reflexes), [Multiattack](monsters/monsterFeats#_multiattack), [Power Attack](feats#_power-attack), [Snatch](monster_dir/monsterFeats#_snatch), [Wingover](monsters/monsterFeats#_wingover)
 
-**Skills** [Climb](skill_dir/climb#_climb +19, [Fly](skill_dir/fly#_fly +20, [Intimidate](skill_dir/intimidate#_intimidate +16, [Perception](skill_dir/perception#_perception +23, [Sense Motive](skill_dir/senseMotive#_sense-motive +15, [Stealth](skill_dir/stealth#_stealth +13, [Survival](skill_dir/survival#_survival +20
+**Skills** [Climb](skill_dir/climb#_climb) +19, [Fly](skills/fly#_fly) +20, [Intimidate](skill_dir/intimidate#_intimidate) +16, [Perception](skills/perception#_perception) +23, [Sense Motive](skill_dir/senseMotive#_sense-motive) +15, [Stealth](skills/stealth#_stealth) +13, [Survival](skill_dir/survival#_survival) +20
 
 **Languages** Draconic
 
-**SQ** [compression](monster_dir/universalMonsterRules#_compression), piercing beak
+**SQ** [compression](monsters/universalMonsterRules#_compression), piercing beak
 
 Ecology
 
@@ -59,7 +59,7 @@ Special Abilities
 
 **Piercing Beak (Ex)** A kongamato's beak is extremely hard and adept at breaking objects. When attempting to damage an item, a kongamato's beak attack does double damage and is treated as if it were adamantine for the purposes of overcoming the object's hardness.
 
-**Wailing Dive (Su** When a kongamato makes a charge while flying or uses its [Flyby Attack](monster_dir/monsterFeats#_flyby-attack feat, the creature's body becomes infused with energy, causing its bite to deal an extra +1d6 points of sonic damage on that attack.
+**Wailing Dive (Su)** When a kongamato makes a charge while flying or uses its [Flyby Attack](monster_dir/monsterFeats#_flyby-attack) feat, the creature's body becomes infused with energy, causing its bite to deal an extra +1d6 points of sonic damage on that attack.
 
 Kongamatos are primeval dragons that hunt the deep jungles of the world. Although not as intelligent or magically adept as their “true” cousins, kongamatos are respected and feared for their resilience and awesome strength. While the kongamato's body is clearly draconic—squat and dense with sharp claws capping each of its four limbs—the creature's head is distinctly avian, with a long, toothless beak and a pronounced crest. A kongamato's hide is a rich emerald hue, with an ash-colored underbelly and crimson webbing on its broad wings. Females have smaller head-crests than males, and a rosy hue colors both the undersides of their wings and their underbellies.
 

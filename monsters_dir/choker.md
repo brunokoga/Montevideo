@@ -9,7 +9,7 @@ _This hunched-over wretch has long, pliable arms like tentacles capped with five
 
 **XP 600**
 
-CE Small [aberration](creatureTypes#_aberration
+CE Small [aberration](creatureTypes#_aberration)
 
 **Init** +6; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +1
 
@@ -35,11 +35,11 @@ CE Small [aberration](creatureTypes#_aberration
 
 **Str** 16, **Dex** 14, **Con** 13, **Int** 4, **Wis** 13, **Cha** 7
 
-**Base**  **Atk** +2; **CMB** +4 (+8 grappling; **CMD** 16
+**Base**  **Atk** +2; **CMB** +4 (+8 grappling); **CMD** 16
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth))
 
-**Skills** [Climb](../skill_dir/climb#_climb +16, [Stealth](../skill_dir/stealth#_stealth) +13
+**Skills** [Climb](../skill_dir/climb#_climb) +16, [Stealth](../skill_dir/stealth#_stealth) +13
 
 **Language** Undercommon
 
@@ -63,7 +63,7 @@ Underground predators that often dwell on the outskirts of subterranean ruins or
 
 Chokers walk with a disturbing, almost comical gait due to their extremely limber legs. Weighing only 35 pounds and standing no taller than a halfling, chokers have no problem skittering across walls and ceilings, often lodging themselves into shadowy corners, tunnel intersections, walls, or staircases. A choker will attempt to grasp creatures of almost any size, but prefers lone prey of its size or smaller.
 
-Chokers appear to have little culture of their own, gathering only briefly to mate before their wanderlust and hunger spurs them again to a solitary existence. Their just-better-than-animalistic intelligence grants them a fascination with the trappings of society even if they do not truly understand it. Accordingly, the grubby lair of a choker (often situated in a difficult-to-reach nook or cranny usually contains valuable objects such as rings, brooches, cloak clasps, and loose coins gathered from devoured victims.
+Chokers appear to have little culture of their own, gathering only briefly to mate before their wanderlust and hunger spurs them again to a solitary existence. Their just-better-than-animalistic intelligence grants them a fascination with the trappings of society even if they do not truly understand it. Accordingly, the grubby lair of a choker (often situated in a difficult-to-reach nook or cranny) usually contains valuable objects such as rings, brooches, cloak clasps, and loose coins gathered from devoured victims.
 
 This fascination occasionally compels a choker to abandon its subterranean home for a closer study of the sunlit world's many civilizations. These chokers feel most at home in the darkened narrow alleyways of human cities, squeezing themselves into sewers, forgotten alcoves, barrels, and similar cramped, overlooked spaces. Chokers prefer to keep hidden during the light of day, emerging from their hidey-holes under cover of darkness to hunt for food and cruel pleasure. Favorite tactics include using their long arms to scoop prey off the street from the safety of a nearby rooftop, attacking sleeping families by squeezing through an open chimney, or tapping on a window to bring their curious food within grasping distance.
 

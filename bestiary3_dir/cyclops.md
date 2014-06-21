@@ -9,15 +9,15 @@ Great Cyclops CR 12
 
 XP 19,200
 
-CE Huge humanoid ( [giant](monster_dir/creatureTypes#_giant-subtype)
+CE Huge humanoid ( [giant](monster_dir/creatureTypes#_giant-subtype))
 
-**Init** +1; **Senses** low-light vision; [Perception](skill_dir/perception#_perception) +22
+**Init** +1; **Senses** low-light vision; [Perception](skills/perception#_perception) +22
 
 Defense
 
 **AC** 26, touch 9, flat-footed 25 (+4 armor, +1 Dex, +13 natural, –2 size)
 
-**hp** 195 (17d8+119
+**hp** 195 (17d8+119)
 
 **Fort** +12, **Ref** +6, **Will** +14
 
@@ -32,7 +32,7 @@ gore +23 (1d8+13), 2 slams +23 (2d6+13)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [powerful charge](monster_dir/universalMonsterRules#_powerful-charge) (gore, 4d8+24), rock throwing (120 ft.
+**Special Attacks** [powerful charge](monster_dir/universalMonsterRules#_powerful-charge) (gore, 4d8+24), rock throwing (120 ft.)
 
 Statistics
 
@@ -41,11 +41,11 @@ Statistics
 
 **Base Atk** +12; **CMB** +27; **CMD** 38
 
-**Feats** [Awesome Blow](monster_dir/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Critical Focus](feats#_critical-focus), [Diehard](feats#_diehard), [Endurance](feats#_endurance), [Improved Bull Rush](feats#_improved-bull-rush), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Staggering Critical](feats#_staggering-critical
+**Feats** [Awesome Blow](monsters/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Critical Focus](feats#_critical-focus), [Diehard](feats#_diehard), [Endurance](feats#_endurance), [Improved Bull Rush](feats#_improved-bull-rush), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Staggering Critical](feats#_staggering-critical)
 
-**Skills** [Perception](skill_dir/perception#_perception +22
+**Skills** [Perception](skill_dir/perception#_perception) +22
 
-**Languages** Common, Cyclops, [Giant](monster_dir/creatureTypes#_giant-subtype)
+**Languages** Common, Cyclops, [Giant](monsters/creatureTypes#_giant-subtype)
 
 **SQ** flash of brutality
 
@@ -59,7 +59,7 @@ Ecology
 
 Special Abilities
 
-**Flash of Brutality (Su** Once per day as a swift action, a great cyclops can gain a burst of savage of inspiration. When it does, it doubles the threat range of all weapons, natural attacks, and rock attacks it makes until the start of its next turn. Furthermore, once per day, when the great cyclops reaches 0 or fewer hit points and is conscious because of its Diehard feat, this ability recharges, allowing it to use the ability a second time that same day.
+**Flash of Brutality (Su)** Once per day as a swift action, a great cyclops can gain a burst of savage of inspiration. When it does, it doubles the threat range of all weapons, natural attacks, and rock attacks it makes until the start of its next turn. Furthermore, once per day, when the great cyclops reaches 0 or fewer hit points and is conscious because of its Diehard feat, this ability recharges, allowing it to use the ability a second time that same day.
 
 Degenerate giants of cyclops-kind, the legendary great cyclopes embody the rage and dark doom of this race of uncanny seers. In their eyes blaze endless possibilities for bloodshed and terror, their myopic gazes seeming to witness the potential for infinite deaths and devastations hidden within each moment. Gigantic but dull-witted, these massive savages are usually loners, but occasionally either need or fate drives them to rampages from which few are safe. Such undeniable force brings with it a dread that, in many instances, grows to reverence, giving rise to strange cults that cloak these cyclopes with veils of menace and dark legends.
 

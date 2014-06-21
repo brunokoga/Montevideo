@@ -1,5 +1,5 @@
 ---
-title: spells/warpWood
+title: spell_dir/warpWood
 ---
  **Warp Wood**
 
@@ -11,7 +11,7 @@ title: spells/warpWood
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** 1 Small wooden object/level, all within a 20-ft. radius
+**Target** 1 Small wooden objec_dir/level, all within a 20-ft. radius
 
 **Duration** instantaneous
 

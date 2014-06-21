@@ -1,5 +1,5 @@
 ---
-title: spells/detectAnimalsOrPlants
+title: spell_dir/detectAnimalsOrPlants
 ---
  **Detect Animals or Plants**
 

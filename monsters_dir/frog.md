@@ -11,7 +11,7 @@ _This creature looks like a normal frog, with moist, mottled, blackish-green ski
 
 N Medium [Animal](creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +3
+**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +3
 
 **Defense**
 
@@ -35,11 +35,11 @@ N Medium [Animal](creatureTypes#_animal)
 
 **Str** 15, **Dex** 13, **Con** 16, **Int** 1, **Wis** 8, **Cha** 6
 
-**Base Atk** +1; **CMB** +3 (+7 grapple); **CMD** 14 (18 vs. trip
+**Base Atk** +1; **CMB** +3 (+7 grapple); **CMD** 14 (18 vs. trip)
 
 **Feats** [Lightning Reflexes](../feats#_lightning-reflexes)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +9 (+13 jumping, [Perception](../skill_dir/perception#_perception +3, [Stealth](../skill_dir/stealth#_stealth +5, [Swim](../skill_dir/swim#_swim +10; **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics) (+8 jumping, +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +9 (+13 jumping), [Perception](../skill_dir/perception#_perception) +3, [Stealth](../skill_dir/stealth#_stealth) +5, [Swim](../skill_dir/swim#_swim) +10; **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics) (+8 jumping), +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -57,7 +57,7 @@ Giant frogs have razor-sharp teeth lining their mouths. They are 6 feet long and
 
 ## Frog Companions
 
-**Starting Statistics** : **Size** Medium; **Speed** 30 ft., swim 30 ft.; **AC** +1 natural armor; **Attack** bite (1d6; **Ability Scores** Str 15, Dex 13, Con 16, Int 1, Wis 9, Cha 6; **Special Qualities** low-light vision, scent, tongue, pull.
+**Starting Statistics** : **Size** Medium; **Speed** 30 ft., swim 30 ft.; **AC** +1 natural armor; **Attack** bite (1d6); **Ability Scores** Str 15, Dex 13, Con 16, Int 1, Wis 9, Cha 6; **Special Qualities** low-light vision, scent, tongue, pull.
 
 **4th–Level Adv.** : **Ability Scores** Str +2, Dex +2; **Special Qualities** swallow whole.
 
@@ -85,7 +85,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Speed** 10 ft., swim 20 ft.
 
-**Melee** bite +3 (1 plus [poison](universalMonsterRules#_poison)
+**Melee** bite +3 (1 plus [poison](universalMonsterRules#_poison))
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -97,7 +97,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +5 (+1 jumping, [Perception](../skill_dir/perception#_perception +3, [Stealth](../skill_dir/stealth#_stealth +13, [Swim](../skill_dir/swim#_swim + 9; **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics) (+8 jumping, +4 [Stealth](../skill_dir/stealth#_stealth); uses Dex to swim
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +5 (+1 jumping), [Perception](../skill_dir/perception#_perception) +3, [Stealth](../skill_dir/stealth#_stealth) +13, [Swim](../skill_dir/swim#_swim) + 9; **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics) (+8 jumping), +4 [Stealth](../skill_dir/stealth#_stealth); uses Dex to swim
 
 **Ecology**
 
@@ -109,7 +109,7 @@ N Tiny [animal](creatureTypes#_animal)
 
 **Special Abilities**
 
-**Poison (Ex** Injury; _save_ Fort DC 10; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure _1 save
+**Poison (Ex)** Injury; _save_ Fort DC 10; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure _1 save
 
 Poisonous frogs are a bright green color, with additional bright yellow, red, or blue markings. They are just over a foot long and weigh 10 pounds. The poison of poisonous frogs is often gathered by primitive tribes and used to coat darts and arrows for hunting.
 

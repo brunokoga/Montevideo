@@ -1,5 +1,5 @@
 ---
-title: advancedRaceGuide/coreRaces/halflings
+title: advancedRaceGuid_dir/coreRaces/halflings
 ---
 # Halflings 
 
@@ -37,7 +37,7 @@ Other such vagabonds often put up with this curious race in hopes that some of t
 
 **+2 Dexterity, +2 Charisma, –2 Strength** : Halflings are nimble and strong-willed, but their small stature makes them weaker than other races.
 
-**Small** : Halflings are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](skill_dir/stealth#_stealth checks.
+**Small** : Halflings are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](skill_dir/stealth#_stealth) checks.
 
 **Slow Speed** : Halflings have a base speed of 20 feet.
 
@@ -45,9 +45,9 @@ Other such vagabonds often put up with this curious race in hopes that some of t
 
 **Halfling Luck** : Halflings receive a +1 racial bonus on all saving throws.
 
-**Keen Senses** : Halflings receive a +2 racial bonus on [Perception](skill_dir/perception#_perception checks.
+**Keen Senses** : Halflings receive a +2 racial bonus on [Perception](skills/perception#_perception) checks.
 
-**Sure-Footed** : Halflings receive a +2 racial bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics and [Climb](skill_dir/climb#_climb checks.
+**Sure-Footed** : Halflings receive a +2 racial bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics) and [Climb](skills/climb#_climb) checks.
 
 **Weapon Familiarity** : Halflings are proficient with slings and treat any weapon with the word "halfling" in its name as a martial weapon.
 
@@ -67,23 +67,23 @@ The following racial traits may be selected instead of existing halfling racial 
 
 **Fleet of Foot** : Some halflings are quicker than their kin but less cautious. Halflings with this racial trait move at normal speed and have a base speed of 30 feet. This racial trait replaces slow speed and sure-footed.
 
-**Ingratiating** : Halflings often survive at the whims of larger, more aggressive races. Because of this, they go out of their way to make themselves more useful, or at least entertaining, to larger folk. Halflings with this racial trait gain a +2 bonus on skill checks for a single [Perform](skill_dir/perform#_perform skill of their choice, and [Perform](skill_dir/perform#_perform is always a class skill for them. They also gain a +2 bonus on [Craft](skill_dir/craft#_craft and [Profession](skill_dir/profession#_profession checks. This racial trait replaces keen senses and sure-footed.
+**Ingratiating** : Halflings often survive at the whims of larger, more aggressive races. Because of this, they go out of their way to make themselves more useful, or at least entertaining, to larger folk. Halflings with this racial trait gain a +2 bonus on skill checks for a single [Perform](skill_dir/perform#_perform) skill of their choice, and [Perform](skills/perform#_perform) is always a class skill for them. They also gain a +2 bonus on [Craft](skill_dir/craft#_craft) and [Profession](skills/profession#_profession) checks. This racial trait replaces keen senses and sure-footed.
 
 **Low Blow** : Some halflings train extensively in the art of attacking larger creatures. Halflings with this racial trait gain a +1 bonus on critical confirmation rolls against opponents larger than themselves. This racial trait replaces keen senses.
 
-**Outrider** : Some halflings specialize in mounted combat. Halflings with this racial trait gain a +2 bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal and [Ride](skill_dir/ride#_ride checks. This racial trait replaces sure-footed.
+**Outrider** : Some halflings specialize in mounted combat. Halflings with this racial trait gain a +2 bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal) and [Ride](skills/ride#_ride) checks. This racial trait replaces sure-footed.
 
-**Polyglot** : Some halflings, especially those who spend a lot of time traveling, develop a talent for learning new languages. These halflings gain a +2 racial bonus on [Linguistics](skill_dir/linguistics#_linguistics) checks, and it is always a class skill for them. Halflings with this racial trait also begin play with the ability to speak Common, Halfling, and any one other language of their choice (except for secret languages, such as Druidic in addition to bonus languages due to high Intelligence. They still gain the normal list of halfling bonus languages. This racial trait replaces keen senses and alters the halfling language racial trait.
+**Polyglot** : Some halflings, especially those who spend a lot of time traveling, develop a talent for learning new languages. These halflings gain a +2 racial bonus on [Linguistics](skill_dir/linguistics#_linguistics) checks, and it is always a class skill for them. Halflings with this racial trait also begin play with the ability to speak Common, Halfling, and any one other language of their choice (except for secret languages, such as Druidic) in addition to bonus languages due to high Intelligence. They still gain the normal list of halfling bonus languages. This racial trait replaces keen senses and alters the halfling language racial trait.
 
-**Practicality** : Halflings value hard work and common sense. Halflings with this racial trait gain a +2 bonus on any one [Craft](skill_dir/craft#_craft or [Profession](skill_dir/profession#_profession skill, as well as on [Sense Motive](skill_dir/senseMotive#_sense-motive checks and saves against illusions. This racial trait replaces fearless and sure-footed.
+**Practicality** : Halflings value hard work and common sense. Halflings with this racial trait gain a +2 bonus on any one [Craft](skills/craft#_craft) or [Profession](skill_dir/profession#_profession) skill, as well as on [Sense Motive](skills/senseMotive#_sense-motive) checks and saves against illusions. This racial trait replaces fearless and sure-footed.
 
-**Shiftless** : Halflings have a reputation for larceny and guile—and sometimes it's well deserved. Halflings with this racial trait gain a +2 racial bonus on [Bluff](skill_dir/bluff#_bluff and [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand checks, and [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand is always a class skill for them. This racial trait replaces sure-footed.
+**Shiftless** : Halflings have a reputation for larceny and guile—and sometimes it's well deserved. Halflings with this racial trait gain a +2 racial bonus on [Bluff](skill_dir/bluff#_bluff) and [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks, and [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) is always a class skill for them. This racial trait replaces sure-footed.
 
-**Swift as Shadows** : Halflings possess incredible stealth even while moving through obstructed areas. Halflings with this racial trait reduce the penalty for using [Stealth](skill_dir/stealth#_stealth while moving by 5, and reduce the [Stealth](skill_dir/stealth#_stealth check penalty for sniping by 10. This racial trait replaces sure-footed.
+**Swift as Shadows** : Halflings possess incredible stealth even while moving through obstructed areas. Halflings with this racial trait reduce the penalty for using [Stealth](skills/stealth#_stealth) while moving by 5, and reduce the [Stealth](skill_dir/stealth#_stealth) check penalty for sniping by 10. This racial trait replaces sure-footed.
 
 **Underfoot** : Halflings must train hard to effectively fight bigger opponents. Halflings with this racial trait gain a +1 dodge bonus to AC against foes larger than themselves and a +1 bonus on Reflex saving throws to avoid trample attacks. This racial trait replaces halfling luck.
 
-**Wanderlust** : Halflings love travel and maps. Halflings with this racial trait receive a +2 bonus on [Knowledge](skill_dir/knowledge#_knowledge) (geography and [Survival](skill_dir/survival#_survival checks. When casting spells or using abilities that provide or enhance movement, halflings treat their caster level as +1 higher than normal. This racial trait replaces fearless and halfling luck.
+**Wanderlust** : Halflings love travel and maps. Halflings with this racial trait receive a +2 bonus on [Knowledge](skills/knowledge#_knowledge) (geography) and [Survival](skill_dir/survival#_survival) checks. When casting spells or using abilities that provide or enhance movement, halflings treat their caster level as +1 higher than normal. This racial trait replaces fearless and halfling luck.
 
 **Warslinger** : Halflings are experts at the use of the sling. Halflings with this racial trait can reload a sling as a free action. Reloading a sling still requires two hands and provokes attacks of opportunity. This racial trait replaces sure-footed.
 
@@ -105,7 +105,7 @@ The following favored options are available to all halflings who have the listed
 
 **Barbarian** : Add a +1/2 bonus to trap sense or +1/3 to the bonus from the surprise accuracy rage power.
 
-**Bard** : Add +1/2 on [Bluff](skill_dir/bluff#_bluff checks to pass secret messages, +1/2 on [Diplomacy](skill_dir/diplomacy#_diplomacy checks to gather information, and +1/2 on [Disguise](skill_dir/disguise#_disguise checks to appear as an elven, half-elven, or human child.
+**Bard** : Add +1/2 on [Bluff](skill_dir/bluff#_bluff) checks to pass secret messages, +1/2 on [Diplomacy](skill_dir/diplomacy#_diplomacy) checks to gather information, and +1/2 on [Disguise](skill_dir/disguise#_disguise) checks to appear as an elven, half-elven, or human child.
 
 **Cavalier** : Add +1/2 to the cavalier's effective class level for the purposes of determining the damage he deals when making an attack of opportunity against a challenged foe.
 
@@ -151,9 +151,9 @@ The community guardian is chosen to protect and succor the weak and innocent wit
 
 **Recommended Mysteries** : ancestor, life, lore, nature.
 
-**Class Skills** : A community guardian adds [Knowledge](skill_dir/knowledge#_knowledge) (local, [Linguistics](skill_dir/linguistics#_linguistics, [Perception](skill_dir/perception#_perception, and [Survival](skill_dir/survival#_survival to her list of class skills. These replace the additional class skills from her mystery.
+**Class Skills** : A community guardian adds [Knowledge](skill_dir/knowledge#_knowledge) (local), [Linguistics](skills/linguistics#_linguistics), [Perception](skill_dir/perception#_perception), and [Survival](skills/survival#_survival) to her list of class skills. These replace the additional class skills from her mystery.
 
-**Bonus Spells** : _ [bless water](spell_dir/blessWater#_bless-water)_ (2nd, _ [consecrate](spell_dir/consecrate#_consecrate)_ (4th, _ [remove disease](spell_dir/removeDisease#_remove-disease)_ (6th, _ [hallow](spell_dir/hallow#_hallow)_ (10th, _ [heroes' feast](spell_dir/heroesFeast#_heroes-feast)_ (12th). These bonus spells replace the oracle's mystery bonus spells from these levels.
+**Bonus Spells** : _ [bless water](spell_dir/blessWater#_bless-water)_ (2nd), _ [consecrate](spells/consecrate#_consecrate)_ (4th), _ [remove disease](spell_dir/removeDisease#_remove-disease)_ (6th), _ [hallow](spells/hallow#_hallow)_ (10th), _ [heroes' feast](spell_dir/heroesFeast#_heroes-feast)_ (12th). These bonus spells replace the oracle's mystery bonus spells from these levels.
 
 **Revelations** : A community guardian must take the following revelations at the listed levels.
 
@@ -164,21 +164,21 @@ The community guardian is chosen to protect and succor the weak and innocent wit
 
 A filcher steals valuables without their owners even realizing it. Whether cutting purses in the midst of combat or replacing prized items with fakes under the noses of their owners, the filcher is the master of the quick and quiet steal. A filcher has the following class features.
 
-**Quicker than the Eye (Ex** : At 2nd level, a filcher develops an amazingly swift and delicate touch. When she uses [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand, creatures take a penalty on their [Perception](skill_dir/perception#_perception checks to notice the attempt equal to half the filcher's class level. The filcher also subtracts her class level from the normal –20 penalty when attempting to make a [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) check as a move action instead of as a standard action. Lastly, the filcher can withdraw an object hidden on her person, including a weapon, as a move action instead of the usual standard action. This ability replaces evasion.
+**Quicker than the Eye (Ex)** : At 2nd level, a filcher develops an amazingly swift and delicate touch. When she uses [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand), creatures take a penalty on their [Perception](skill_dir/perception#_perception) checks to notice the attempt equal to half the filcher's class level. The filcher also subtracts her class level from the normal –20 penalty when attempting to make a [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) check as a move action instead of as a standard action. Lastly, the filcher can withdraw an object hidden on her person, including a weapon, as a move action instead of the usual standard action. This ability replaces evasion.
 
-**Rummage (Ex** : At 3rd level, a filcher learns how to assess the value of items at the quickest glance. She can even make startlingly accurate guesses about particular items merely by observing the bulges they make in pouches, backpacks, or similar containers. She gains a +1 bonus on [Appraise](skill_dir/appraise#_appraise checks and an additional +1 bonus every three levels thereafter.
+**Rummage (Ex)** : At 3rd level, a filcher learns how to assess the value of items at the quickest glance. She can even make startlingly accurate guesses about particular items merely by observing the bulges they make in pouches, backpacks, or similar containers. She gains a +1 bonus on [Appraise](skill_dir/appraise#_appraise) checks and an additional +1 bonus every three levels thereafter.
 
-As a swift action, a filcher can make an [Appraise](skill_dir/appraise#_appraise) check in order to determine the relative value of each object carried by her target (DC = 10 + 1 for every object the filcher is trying to ascertain the relative value of). Though she never learns the actual prices of items when using rummage, she does gain enough information to list these items in order, from the most valuable to the least valuable. She can, by taking a –20 penalty on the check, add to this assessment any items carried by her target that she cannot see. This ability replaces trap sense +1, +2, +3, +4, +5, and +6.
+As a swift action, a filcher can make an [Appraise](skills/appraise#_appraise) check in order to determine the relative value of each object carried by her target (DC = 10 + 1 for every object the filcher is trying to ascertain the relative value of). Though she never learns the actual prices of items when using rummage, she does gain enough information to list these items in order, from the most valuable to the least valuable. She can, by taking a –20 penalty on the check, add to this assessment any items carried by her target that she cannot see. This ability replaces trap sense +1, +2, +3, +4, +5, and +6.
 
-**Filch (Ex** : At 4th level, a filcher learns how pluck items off her opponents even in combat. She gains [Improved Steal](advance_dir/advancedFeats#_improved-steal as a bonus feat and can use her [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand bonus instead of her CMB when performing a steal combat maneuver. If the filcher gains bonuses on combat maneuver checks from any feats, spells, magic items, or similar effects, they are added to the [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) bonus when using the steal maneuver. This ability replaces uncanny dodge.
+**Filch (Ex)** : At 4th level, a filcher learns how pluck items off her opponents even in combat. She gains [Improved Steal](advance_dir/advancedFeats#_improved-steal) as a bonus feat and can use her [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) bonus instead of her CMB when performing a steal combat maneuver. If the filcher gains bonuses on combat maneuver checks from any feats, spells, magic items, or similar effects, they are added to the [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) bonus when using the steal maneuver. This ability replaces uncanny dodge.
 
-**Superior Filching (Ex** : At 8th level, a filcher becomes a master at separating owners from their property. She gains [Greater Steal](advance_dir/advancedFeats#_greater-steal) as a bonus feat, and opponents do not gain a +5 bonus to their CMD when she tries to remove items fastened to them. This ability replaces improved uncanny dodge.
+**Superior Filching (Ex)** : At 8th level, a filcher becomes a master at separating owners from their property. She gains [Greater Steal](advanced/advancedFeats#_greater-steal) as a bonus feat, and opponents do not gain a +5 bonus to their CMD when she tries to remove items fastened to them. This ability replaces improved uncanny dodge.
 
 **Rogue Talents** : The following rogue talents complement the filcher archetype: fast stealth, slow reactions; fast fingers, fast getaway ; black market connections, deft palm.
 
 **Advanced Talents** : The following advanced rogue talents complement the filcher archetype: skill mastery; fast tumble ; weapon snatcher.
 
-## Order of the Paw (Cavalier
+## Order of the Paw (Cavalier)
 
 Only dog- or wolf-riding halflings are eligible to join this order of cavaliers. When they do, they pledge to defend halflings, halfling settlements, and other innocent folks by patrolling the wilderness and seeking out possible threats to both individuals and whole communities. These cavaliers hunt down potential danger with a ruthless efficiency and determination that non-halflings find surprising and even somewhat alarming.
 
@@ -186,15 +186,15 @@ Only dog- or wolf-riding halflings are eligible to join this order of cavaliers.
 
 **Challenge** : Whenever an order of the paw cavalier issues a challenge, his mount gains a +1 dodge bonus to AC as long it is threatening the target of the cavalier's challenge and the cavalier is riding the mount. This bonus increases by +1 for every four levels the cavalier possesses.
 
-**Skills** : An order of the paw cavalier adds [Knowledge](skill_dir/knowledge#_knowledge) (nature and [Survival](skill_dir/survival#_survival to his list of class skills. He can make [Knowledge](skill_dir/knowledge#_knowledge) (nature) checks untrained. Also, an order of the paw cavalier is adept at following tracks while mounted, using his mount's speed rather than his own to determine the penalty for tracking while moving, whether he is mounted or not.
+**Skills** : An order of the paw cavalier adds [Knowledge](skill_dir/knowledge#_knowledge) (nature) and [Survival](skills/survival#_survival) to his list of class skills. He can make [Knowledge](skill_dir/knowledge#_knowledge) (nature) checks untrained. Also, an order of the paw cavalier is adept at following tracks while mounted, using his mount's speed rather than his own to determine the penalty for tracking while moving, whether he is mounted or not.
 
 **Order Abilities** : A cavalier belonging to the order of the paw gains the following abilities as he increases in level.
 
 > _Danger Ward (Ex)_: At 2nd level, the cavalier can ready his allies for impending danger. As a standard action, he can ready all allies within 30 feet of the danger ahead, granting a bonus on a single type of saving throw (Fortitude, Reflex or Will) that he chooses when he grants this boon. At any point in the next minute, when these allies fail a saving throw of that type, they can choose to reroll the saving throw with a +4 competence bonus as an immediate action, but must take the results of the reroll even if it is worse. He can use this ability up to three times per day, once for each type of saving throw.
 > 
-> _Canine Ferocity (Ex)_: At 8th level, when the cavalier uses his wolf or dog mount to perform a bull rush or overrun maneuver, the mount is considered to be one size category larger for the purposes of determining the size of creature it is maneuvering against and the mount's CMB. He also receives a bonus feat, chosen from the following list: [Mounted Combat](feats#_mounted-combat), Ride-By Attack, [Skill Focus](feats#_skill-focus ( [Ride](skill_dir/ride#_ride)), Spirited Charge, Trample, or Unseat. He must qualify for the feat selected.
+> _Canine Ferocity (Ex)_: At 8th level, when the cavalier uses his wolf or dog mount to perform a bull rush or overrun maneuver, the mount is considered to be one size category larger for the purposes of determining the size of creature it is maneuvering against and the mount's CMB. He also receives a bonus feat, chosen from the following list: [Mounted Combat](feats#_mounted-combat), Ride-By Attack, [Skill Focus](feats#_skill-focus) ( [Ride](skills/ride#_ride)), Spirited Charge, Trample, or Unseat. He must qualify for the feat selected.
 > 
-> _Giant Slayer (Ex_: At 15th level, when the cavalier hits the target of his challenge with a melee attack, and that target is at least two size categories larger than the cavalier, he gains a bonus on damage rolls equal to 1/2 his cavalier level. This damage is multiplied on a critical hit.
+> _Giant Slayer (Ex)_: At 15th level, when the cavalier hits the target of his challenge with a melee attack, and that target is at least two size categories larger than the cavalier, he gains a bonus on damage rolls equal to 1/2 his cavalier level. This damage is multiplied on a critical hit.
 ## Underfoot Adept (Monk)
 
 An underfoot adept turns his diminutive stature and unorthodox footwork into a powerful weapon. Effortlessly moving across the battlefield, he ducks under the legs of larger creatures and then topples them with surprising attacks. An underfoot adept has the following class features.
@@ -203,7 +203,7 @@ An underfoot adept turns his diminutive stature and unorthodox footwork into a p
 
 **Underfoot Trip (Ex)** : At 1st level, an underfoot adept learns a number of maneuvers and grabs that can cause even the largest opponents to stumble and fall. He gains Improved Trip as a bonus feat, even if he does not meet the requirements. At 4th level, and every four levels thereafter, he acts as if he is one size larger for the purposes of determining the maximum size of creatures he can trip and when determining his CMB and CMD for purposes of a trip combat maneuver. This ability replaces stunning fist.
 
-**Improved Underfoot Grace (Ex** : At 5th level, an underfoot adept's ability to avoid attacks of opportunity against those he passes improves. When using the [Acrobatics](skill_dir/acrobatics#_acrobatics skill to avoid attacks of opportunity, while moving through a threatened area or through an enemy's space, he takes no penalty when doing so at full speed. This ability replaces high jump.
+**Improved Underfoot Grace (Ex)** : At 5th level, an underfoot adept's ability to avoid attacks of opportunity against those he passes improves. When using the [Acrobatics](skills/acrobatics#_acrobatics) skill to avoid attacks of opportunity, while moving through a threatened area or through an enemy's space, he takes no penalty when doing so at full speed. This ability replaces high jump.
 
 # New Racial Rules
 
@@ -215,11 +215,11 @@ Halflings have access to the following equipment.
 
 **Alchemical Preserves** : Each small tin of this specially treated jam contains just enough of the gooey stuff to provide a halfling with a single serving of revitalizing nourishment. While any creature can eat these preserves as a standard action, it only affects halflings in a beneficial way. Halflings who eat the preserves recover from fatigue. Non-halflings who eat alchemical preserves become sickened for 1 round.
 
-**Billow Cape** : This silk cape is constructed of many carefully arranged overlapping layers that are loosely stitched together. When exposed to a sudden influx of air, like that caused by falling, the cloak unfolds like a crude parachute. When falling, a creature wearing a billow cape is treated as if he had deliberately jumped from the height. When worn in areas of strong wind or greater, a billow cape hampers movement. In such wind conditions, the wearer treats all terrain as difficult terrain and takes a –4 penalty on [Fly](skill_dir/fly#_fly checks. Because of the strange and somewhat fragile construction of this cape, only Small or smaller billow capes function properly. Larger billow capes take all the penalties resulting from high winds, but grant none of the benefits when the wearer falls.
+**Billow Cape** : This silk cape is constructed of many carefully arranged overlapping layers that are loosely stitched together. When exposed to a sudden influx of air, like that caused by falling, the cloak unfolds like a crude parachute. When falling, a creature wearing a billow cape is treated as if he had deliberately jumped from the height. When worn in areas of strong wind or greater, a billow cape hampers movement. In such wind conditions, the wearer treats all terrain as difficult terrain and takes a –4 penalty on [Fly](skill_dir/fly#_fly) checks. Because of the strange and somewhat fragile construction of this cape, only Small or smaller billow capes function properly. Larger billow capes take all the penalties resulting from high winds, but grant none of the benefits when the wearer falls.
 
-**Halfling Jugglesticks** : This group of four brightly colored sticks is adorned with colorful streamers that can be juggled and manipulated to create displays and patterns. Halflings use them to even greater effect, gaining a +2 circumstance bonus on [Perform](skill_dir/perform#_perform) (comedy checks.
+**Halfling Jugglesticks** : This group of four brightly colored sticks is adorned with colorful streamers that can be juggled and manipulated to create displays and patterns. Halflings use them to even greater effect, gaining a +2 circumstance bonus on [Perform](skills/perform#_perform) (comedy) checks.
 
-**Roar Cord** : This thin length of rope has many oddly shaped bits of hollow metal fixed along its length. As a standard action, a creature can swing a roar cord over its head to generate a variety of eerie noises. For the next round, any creature within 60 feet of the roar cord takes a –2 penalty on [Perception](skill_dir/perception#_perception) checks that rely on sound and a –1 penalty on saving throws against fear effects. The roar cord can be used as a bardic instrument (string instrument that grants the bard a +2 bonus on [Perform](skill_dir/perform#_perform) checks when using the countersong bardic performance.
+**Roar Cord** : This thin length of rope has many oddly shaped bits of hollow metal fixed along its length. As a standard action, a creature can swing a roar cord over its head to generate a variety of eerie noises. For the next round, any creature within 60 feet of the roar cord takes a –2 penalty on [Perception](skill_dir/perception#_perception) checks that rely on sound and a –1 penalty on saving throws against fear effects. The roar cord can be used as a bardic instrument (string instrument) that grants the bard a +2 bonus on [Perform](skills/perform#_perform) checks when using the countersong bardic performance.
 
 [Halfling Equipment]
 | Item | Cost | Weight | Craft DC |
@@ -241,7 +241,7 @@ Your luck takes on almost legendary proportions.
 
 **Benefit** : Increase the number of times per day you can use the adaptable luck racial trait by 1. Furthermore, when you use adaptable luck, increase the luck bonus for each type of use by 2.
 
-### Blundering Defense (Combat
+### Blundering Defense (Combat)
 
 Your feverish and sometimes comical defensive techniques offer enough distraction to aid allies.
 
@@ -319,7 +319,7 @@ You are both fast and careful.
 
 **Prerequisites** : [Fleet](feats#_fleet) of foot racial trait, halfling.
 
-**Benefit** : You gain a +2 racial bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics and [Climb](skill_dir/climb#_climb) checks.
+**Benefit** : You gain a +2 racial bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics) and [Climb](skills/climb#_climb) checks.
 
 ### Surprise Strike (Combat) 
 
@@ -329,7 +329,7 @@ You actually seem to do more damage when frantically trying to avoid your enemie
 
 **Benefit** : Once per day, when fighting defensively or making an attack of opportunity while taking the total defense action with the Desperate Swing feat, you take no penalty on the attack roll.
 
-### Uncanny Defense (Combat
+### Uncanny Defense (Combat)
 
 Your instinct for self-preservation gives you many advantages.
 
@@ -349,13 +349,13 @@ Book of Marvelous Recipes
 
 Description
 
-The pages of this thick and travel-worn leather book visibly rewrite themselves as a reader flips through them, creating a number of delicious recipes that seem to anticipate the current craving or culinary desires of the reader. The recipes can aid the reader in creating such dishes, allowing him to use the [Profession](skill_dir/profession#_profession) (cook skill untrained, or granting a +4 competence bonus on such checks if the reader is trained in that skill.
+The pages of this thick and travel-worn leather book visibly rewrite themselves as a reader flips through them, creating a number of delicious recipes that seem to anticipate the current craving or culinary desires of the reader. The recipes can aid the reader in creating such dishes, allowing him to use the [Profession](skill_dir/profession#_profession) (cook) skill untrained, or granting a +4 competence bonus on such checks if the reader is trained in that skill.
 
-Furthermore, once per day, this book can be used to enhance a meal the reader is cooking. When used in this way, it grants the meal being cooked the effects of a _ [heroes' feast](spell_dir/heroesFeast#_heroes-feast)_ spell (caster level 11th).
+Furthermore, once per day, this book can be used to enhance a meal the reader is cooking. When used in this way, it grants the meal being cooked the effects of a _ [heroes' feast](spells/heroesFeast#_heroes-feast)_ spell (caster level 11th).
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [heroes' feast](spell_dir/heroesFeast#_heroes-feast_, the creator must have at least 4 ranks in [Profession](skill_dir/profession#_profession) (cook); **Cost** 14,400 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [heroes' feast](spell_dir/heroesFeast#_heroes-feast)_, the creator must have at least 4 ranks in [Profession](skills/profession#_profession) (cook); **Cost** 14,400 gp
 
 Escape Dust
 
@@ -369,7 +369,7 @@ When a handful of this coarse, crystalline powder is thrown at a single creature
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [glitterdust](spell_dir/glitterdust#_glitterdust_; **Cost** 150 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [glitterdust](spell_dir/glitterdust#_glitterdust)_; **Cost** 150 gp
 
 Quickfingers Gloves
 
@@ -379,11 +379,11 @@ Quickfingers Gloves
 
 Description
 
-These dark-colored, skin-tight gloves are typically made of either supple calfskin or silk. A wearer of these gloves with at least 1 rank in [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) can perform such a check as a move action by taking a –10 penalty on the check rather than the normal –20. Both gloves must be worn for the magic to be effective.
+These dark-colored, skin-tight gloves are typically made of either supple calfskin or silk. A wearer of these gloves with at least 1 rank in [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) can perform such a check as a move action by taking a –10 penalty on the check rather than the normal –20. Both gloves must be worn for the magic to be effective.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_,_ [haste](spell_dir/haste#_haste_; **Cost** 1,250 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [cat's grace](spell_dir/catSGrace#_cat-s-grace)_,_ [haste](spells/haste#_haste)_; **Cost** 1,250 gp
 
 Solidsmoke Pipeweed
 
@@ -401,7 +401,7 @@ This smoke is caustic and chokes non-halflings. It grants non-halflings no benef
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [minor creation](spell_dir/minorCreation#_minor-creation)_, creator must be a halfling; **Cost** 500 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [minor creation](spells/minorCreation#_minor-creation)_, creator must be a halfling; **Cost** 500 gp
 
 Symbol of Luck
 
@@ -415,7 +415,7 @@ This translucent sphere of iron-hard glass changes shape to match its bearer's h
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [divine favor](spell_dir/divineFavor#_divine-favor)_, the creator must be a halfling; **Cost** 3,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [divine favor](spell_dir/divineFavor#_divine-favor)_, the creator must be a halfling; **Cost** 3,000 gp
 
 ## Halfling Spells
 
@@ -423,7 +423,7 @@ Halflings have access to the following spells.
 
 Blessing of Luck and Resolve
 
-**School** enchantment (compulsion [mind-affecting]; **Level** cleric 2, inquisitor 2, paladin 2
+**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 2, inquisitor 2, paladin 2
 
 **Casting Time** 1 standard action
 
@@ -433,17 +433,17 @@ Blessing of Luck and Resolve
 
 **Target** one living creature touched
 
-**Duration** 1 minut_dir/level (D), special see below
+**Duration** 1 minute/level (D), special see below
 
 A favored blessing of halfling clerics, this spell grants its target a +2 morale bonus on saving throws against fear effects. If the target has the fearless racial trait, it is immune to fear instead. If the target fails a saving throw against fear, it can end the spell as an immediate action to reroll the save with a +4 morale bonus, and must take the new result, even if it is worse.
 
 Blessing of Luck and Resolve, Mass
 
-**School** enchantment (compulsion [mind-affecting]; **Level** cleric 6, inquisitor 6, paladin 4
+**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 6, inquisitor 6, paladin 4
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Targets** one creature/level, no two of which can be more than 30 ft. apart
+**Targets** one creatur_dir/level, no two of which can be more than 30 ft. apart
 
 This spell functions like _blessing of luck and resolve_, except that it affects multiple creatures.
 
@@ -465,7 +465,7 @@ This ward grants you extra maneuverability when you avoid attacks against larger
 
 Fearsome Duplicate
 
-**School** illusion (figment; **Level** bard 3, inquisitor 3, sorcerer/wizard 3, witch 3
+**School** illusion (figment); **Level** bard 3, inquisitor 3, sorcerer/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
@@ -477,11 +477,11 @@ Fearsome Duplicate
 
 **Duration** 1 minut_dir/level (D)
 
-**Saving Throw** Will disbelief (if interacted with; **Spell Resistance** yes
+**Saving Throw** Will disbelief (if interacted with); **Spell Resistance** yes
 
-You create a larger and far more menacing version of yourself that you can send forth, manipulate like a puppet, and use to interact with others. You can make the duplicate up to two size categories larger than you are and determine a theme as to how it alters your original appearance. However, this duplicate always retains some vestiges of your actual appearance. Creatures who already know you gain a +2 bonus on saving throws made to disbelieve this spell. Your duplicate has no actual substance, and you cannot use it to alter its surroundings or to attack or otherwise harm creatures it encounters. You can use the duplicate to speak, and interact verbally with creatures using the [Bluff](skill_dir/bluff#_bluff, [Diplomacy](skill_dir/diplomacy#_diplomacy, and [Intimidate](skill_dir/intimidate#_intimidate skills, and you gain a +2 competence bonus on [Intimidate](skill_dir/intimidate#_intimidate checks when using that skill through the duplicate.
+You create a larger and far more menacing version of yourself that you can send forth, manipulate like a puppet, and use to interact with others. You can make the duplicate up to two size categories larger than you are and determine a theme as to how it alters your original appearance. However, this duplicate always retains some vestiges of your actual appearance. Creatures who already know you gain a +2 bonus on saving throws made to disbelieve this spell. Your duplicate has no actual substance, and you cannot use it to alter its surroundings or to attack or otherwise harm creatures it encounters. You can use the duplicate to speak, and interact verbally with creatures using the [Bluff](skills/bluff#_bluff), [Diplomacy](skill_dir/diplomacy#_diplomacy), and [Intimidate](skills/intimidate#_intimidate) skills, and you gain a +2 competence bonus on [Intimidate](skill_dir/intimidate#_intimidate) checks when using that skill through the duplicate.
 
-You can see, hear, taste, and smell your duplicate's surroundings as if you are actually present using your [Perception](skill_dir/perception#_perception skill. While you also remain aware of your own immediate surroundings when controlling your duplicate, controlling it does take a toll on your senses. You take a –4 penalty on [Perception](skill_dir/perception#_perception) checks while you control your duplicate.
+You can see, hear, taste, and smell your duplicate's surroundings as if you are actually present using your [Perception](skills/perception#_perception) skill. While you also remain aware of your own immediate surroundings when controlling your duplicate, controlling it does take a toll on your senses. You take a –4 penalty on [Perception](skill_dir/perception#_perception) checks while you control your duplicate.
 
 The duplicate moves under your mental command, and while you need not act out its movements, you must take a standard action to control your duplicate for 1 round (concentrating on the spell) or it winks out of existence. You can maintain control of your duplicate even if you have no line of sight or line of effect to it.
 
@@ -489,7 +489,7 @@ The duplicate immediately winks out of existence if it is hit by an attack or in
 
 Village Veil
 
-**School** illusion (figment [mind-affecting]; **Level** bard 5, cleric 5, sorcerer/wizard 5, witch 5
+**School** illusion (figment) [mind-affecting]; **Level** bard 5, cleric 5, sorcerer/wizard 5, witch 5
 
 **Casting Time** 1 standard action
 
@@ -503,7 +503,7 @@ Village Veil
 
 **Saving Throw** Will disbelief; **Spell Resistance** yes
 
-You throw an illusion over an area to make creatures that view or interact with it believe it has suffered some great catastrophe or calamity that renders it utterly worthless for their needs. You must set a few general guidelines when casting the spell as to the nature of this disaster (fire, tornado, bandit raid, plague, etc.), after which the illusion fills in the remaining details to make it seem realistic. When casting the spell, you can grant creatures with particular, clearly identifiable physical traits (race, gender, age category, etc. immunity to this spell. This allows all such eligible creatures to perceive the true nature of the affected area instead of its illusory appearance. Creatures without this immunity that fail their saving throws always perceive the affected area as having absolutely nothing of interest or worth to them. Unless they have reason for suspicion, they always move on without closely investigating the area. Creatures with sufficient reasons for suspicion who do choose to investigate the area gain another saving throw, this one with a +2 bonus, as they enter the village and directly interact with the illusion.
+You throw an illusion over an area to make creatures that view or interact with it believe it has suffered some great catastrophe or calamity that renders it utterly worthless for their needs. You must set a few general guidelines when casting the spell as to the nature of this disaster (fire, tornado, bandit raid, plague, etc.), after which the illusion fills in the remaining details to make it seem realistic. When casting the spell, you can grant creatures with particular, clearly identifiable physical traits (race, gender, age category, etc.) immunity to this spell. This allows all such eligible creatures to perceive the true nature of the affected area instead of its illusory appearance. Creatures without this immunity that fail their saving throws always perceive the affected area as having absolutely nothing of interest or worth to them. Unless they have reason for suspicion, they always move on without closely investigating the area. Creatures with sufficient reasons for suspicion who do choose to investigate the area gain another saving throw, this one with a +2 bonus, as they enter the village and directly interact with the illusion.
 
 You can expand the area of this spell by casting it multiple times. Each time you do, you must effectively "attach" the spell to the existing area by using the same disaster and granting the same sorts of creatures immunity to its effects. If you fail to do this, the entire illusion, no matter how large, disappears.
 

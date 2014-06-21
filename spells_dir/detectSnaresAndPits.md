@@ -1,5 +1,5 @@
 ---
-title: spells/detectSnaresAndPits
+title: spell_dir/detectSnaresAndPits
 ---
  **Detect Snares and Pits**
 

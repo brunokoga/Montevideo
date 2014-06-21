@@ -1,5 +1,5 @@
 ---
-title: spells/dispelEvil
+title: spell_dir/dispelEvil
 ---
  **Dispel Evil**
 

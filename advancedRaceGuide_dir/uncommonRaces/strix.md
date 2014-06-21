@@ -1,5 +1,5 @@
 ---
-title: advancedRaceGuide/uncommonRace_dir/strix
+title: advancedRaceGuid_dir/uncommonRaces/strix
 ---
 # Strix
 
@@ -13,7 +13,7 @@ Human neighbors tell horrific tales of slaughter woven with frightened suspicion
 
 **Medium** : Strix are Medium creatures and have no bonuses or penalties due to their size.
 
-**Normal Speed** : Strix have a base speed of 30 feet on land. They also have a fly speed of 60 feet (average.
+**Normal Speed** : Strix have a base speed of 30 feet on land. They also have a fly speed of 60 feet (average).
 
 **Low-Light Vision** : Strix can see twice as far as humans in conditions of dim light.
 
@@ -21,7 +21,7 @@ Human neighbors tell horrific tales of slaughter woven with frightened suspicion
 
 **Hatred** : Strix receive a +1 racial bonus on attack rolls against humanoid creatures with the human subtype because of their special training against these hated foes.
 
-**Nocturnal** : Strix gain a +2 racial bonus on [Perception](skill_dir/perception#_perception and [Stealth](skill_dir/stealth#_stealth checks in dim light or darkness.
+**Nocturnal** : Strix gain a +2 racial bonus on [Perception](skill_dir/perception#_perception) and [Stealth](skills/stealth#_stealth) checks in dim light or darkness.
 
 **Suspicious** : Strix receive a +2 racial bonus on saving throws against illusion spells and effects.
 
@@ -31,7 +31,7 @@ Human neighbors tell horrific tales of slaughter woven with frightened suspicion
 
 The following racial traits may be selected instead of existing strix racial traits. Consult your GM before selecting any of these new options.
 
-**Dayguard** : Familiar with watching over its tribe during the day, the strix gains a +2 racial bonus on [Perception](skill_dir/perception#_perception checks and treats [Perception](skill_dir/perception#_perception as a class skill. This racial trait replaces nocturnal.
+**Dayguard** : Familiar with watching over its tribe during the day, the strix gains a +2 racial bonus on [Perception](skill_dir/perception#_perception) checks and treats [Perception](skills/perception#_perception) as a class skill. This racial trait replaces nocturnal.
 
 **Frightening** : The strix looks particularly menacing and use this to its advantage, gaining a +2 racial bonus on [Intimidate](skill_dir/intimidate#_intimidate) checks. This racial trait replaces nocturnal.
 
@@ -39,7 +39,7 @@ The following racial traits may be selected instead of existing strix racial tra
 
 **Tough** : The strix receives a +1 racial bonus on Fortitude saves. This racial trait replaces suspicious.
 
-**Wing-Clipped** : The flight of wing-clipped strix is weaker than normal, whether from deformity or injury. Their fly speed is 20 feet (poor instead of the normal fly speed, and they must make a DC 30 [Fly](skill_dir/fly#_fly check to fly upward. Ostracized by their tribes and forced to deal with other races, these strix compensate for their weakness by gaining a +2 racial bonus on [Bluff](skill_dir/bluff#_bluff, [Climb](skill_dir/climb#_climb, and [Diplomacy](skill_dir/diplomacy#_diplomacy checks.
+**Wing-Clipped** : The flight of wing-clipped strix is weaker than normal, whether from deformity or injury. Their fly speed is 20 feet (poor) instead of the normal fly speed, and they must make a DC 30 [Fly](skills/fly#_fly) check to fly upward. Ostracized by their tribes and forced to deal with other races, these strix compensate for their weakness by gaining a +2 racial bonus on [Bluff](skill_dir/bluff#_bluff), [Climb](skills/climb#_climb), and [Diplomacy](skill_dir/diplomacy#_diplomacy) checks.
 
 # Favored Class Options
 
@@ -63,15 +63,15 @@ Driven by suspicion and hatred, strix doggedly guard their territories, making d
 
 **Weapon and Armor Proficiency** : An airborne ambusher is not proficient with heavy armor or tower shields.
 
-**Class Skills** : An airborne ambusher adds [Fly](skill_dir/fly#_fly to his list of class skills and removes [Climb](skill_dir/climb#_climb) from his list of class skills.
+**Class Skills** : An airborne ambusher adds [Fly](skill_dir/fly#_fly) to his list of class skills and removes [Climb](skills/climb#_climb) from his list of class skills.
 
-**Combat Flyer (Ex** : At 2nd level, an airborne ambusher may use his fighter bonus feats to select [Flyby Attack](monster_dir/monsterFeats#_flyby-attack and [Hover](monster_dir/monsterFeats#_hover). This replaces bravery.
+**Combat Flyer (Ex)** : At 2nd level, an airborne ambusher may use his fighter bonus feats to select [Flyby Attack](monster_dir/monsterFeats#_flyby-attack) and [Hover](monsters/monsterFeats#_hover). This replaces bravery.
 
-**Aerobatics (Ex** : At 5th level, an airborne ambusher may make a [Fly](skill_dir/fly#_fly check instead of an [Acrobatics](skill_dir/acrobatics#_acrobatics) check to move through a threatened area or an enemy's space. This replaces weapon training 1.
+**Aerobatics (Ex)** : At 5th level, an airborne ambusher may make a [Fly](skill_dir/fly#_fly) check instead of an [Acrobatics](skills/acrobatics#_acrobatics) check to move through a threatened area or an enemy's space. This replaces weapon training 1.
 
 **Flying Dodger (Ex)** : At 9th level, when an airborne ambusher flies at least half its fly speed on its turn, it gains a +1 dodge bonus to AC for 1 round. This bonus increases to +2 at 11th level and +4 at 17th level. This ability replaces weapon training 2.
 
-**Plummeting Charge (Ex)** : At 13th level, if an airborne ambusher flies at least half its fly speed as part of a charge, it gains a +2 racial bonus on the attack roll (in addition to the normal charge bonus and a +4 bonus on its critical confirmation roll. These bonuses improve to +4 and +6 at 17th level. This replaces weapon training 3 and 4.
+**Plummeting Charge (Ex)** : At 13th level, if an airborne ambusher flies at least half its fly speed as part of a charge, it gains a +2 racial bonus on the attack roll (in addition to the normal charge bonus) and a +4 bonus on its critical confirmation roll. These bonuses improve to +4 and +6 at 17th level. This replaces weapon training 3 and 4.
 
 # New Racial Rules
 
@@ -96,9 +96,9 @@ Strix have access to the following feat.
 
 You strengthen your crippled wings.
 
-**Prerequisites** : Str 13, [Skill Focus](feats#_skill-focus ( [Fly](skill_dir/fly#_fly)), strix, wing-clipped racial trait.
+**Prerequisites** : Str 13, [Skill Focus](feats#_skill-focus) ( [Fly](skills/fly#_fly)), strix, wing-clipped racial trait.
 
-**Benefit** : Your strix racial fly speed increases to 60 feet (average. You ignore the wing-clipped trait's [Fly](skill_dir/fly#_fly) check requirement to fly upward.
+**Benefit** : Your strix racial fly speed increases to 60 feet (average). You ignore the wing-clipped trait's [Fly](skill_dir/fly#_fly) check requirement to fly upward.
 
 ## Strix Magic Items
 
@@ -106,17 +106,17 @@ Strix have a fondness for magic items like this one.
 
 Stonemist Cloak
 
-**Aura** faint conjuration (creation and illusion; **CL** 3rd
+**Aura** faint conjuration (creation) and illusion; **CL** 3rd
 
 **Slot** shoulders; **Price** 3,500 gp; **Weight** 1 lb.
 
 Description
 
-In rocky or mountainous areas, when this stone-gray cloak is worn with the hood drawn up around the head, the wearer gains a +5 competence bonus on [Stealth](skill_dir/stealth#_stealth checks. Once per day, the wearer can create an area of fog equivalent to _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist)_.
+In rocky or mountainous areas, when this stone-gray cloak is worn with the hood drawn up around the head, the wearer gains a +5 competence bonus on [Stealth](skills/stealth#_stealth) checks. Once per day, the wearer can create an area of fog equivalent to _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist)_.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [invisibility](spell_dir/invisibility#_invisibility_, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist_; **Cost** 1,750 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [invisibility](spells/invisibility#_invisibility)_, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist)_; **Cost** 1,750 gp
 
 ## Strix Spells
 
@@ -138,5 +138,5 @@ Strong Wings
 
 **Save** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-The target's wings grow more powerful, causing its fly speed to increase by +10 feet and its maneuverability to improve by one category (to a maximum of good. This increase counts as an enhancement bonus. This spell has no effect on wingless creatures or winged creatures that cannot fly.
+The target's wings grow more powerful, causing its fly speed to increase by +10 feet and its maneuverability to improve by one category (to a maximum of good). This increase counts as an enhancement bonus. This spell has no effect on wingless creatures or winged creatures that cannot fly.
 

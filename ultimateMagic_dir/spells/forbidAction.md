@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spell_dir/forbidAction
+title: ultimateMagi_dir/spells/forbidAction
 ---
 Forbid Action
 
-**School** enchantment (compulsion [language-dependent, mind-affecting]; **Level** cleric 1, inquisitor 1
+**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 1, inquisitor 1
 
 **Casting Time** 1 standard action
 
@@ -33,11 +33,11 @@ The target is free to take any actions not forbidden by the caster. For example,
 
 Forbid Action, Greater
 
-**School** enchantment (compulsion [language-dependent, mind-affecting]; **Level** cleric 5, inquisitor 5
+**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 5, inquisitor 5
 
 **Targets** one creature/level, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 This spell functions as _forbid action_, except up to one creature per level may be affected. Each creature must receive the same forbidden action.
 

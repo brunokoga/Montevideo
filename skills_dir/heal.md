@@ -1,5 +1,5 @@
 ---
-title: skills/heal
+title: skill_dir/heal
 ---
 # Heal
 

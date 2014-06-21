@@ -1,5 +1,5 @@
 ---
-title: spells/protectionFromEnergy
+title: spell_dir/protectionFromEnergy
 ---
  **Protection from Energy**
 

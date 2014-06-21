@@ -11,7 +11,7 @@ _This unusually large wolf has an evil, almost intelligent light shining in its 
 
 NE Medium [magical beast](creatureTypes#_magical-beast)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +11
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +11
 
 **Defense**
 
@@ -31,11 +31,11 @@ NE Medium [magical beast](creatureTypes#_magical-beast)
 
 **Str** 17, **Dex** 15, **Con** 13, **Int** 6, **Wis** 14, **Cha** 10
 
-**Base Atk** +4; **CMB** +7; **CMD** 19 (23 vs. trip
+**Base Atk** +4; **CMB** +7; **CMD** 19 (23 vs. trip)
 
-**Feats** [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception +11, [Stealth](../skill_dir/stealth#_stealth +9, [Survival](../skill_dir/survival#_survival +5; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception, +2 [Stealth](../skill_dir/stealth#_stealth, +2 [Survival](../skill_dir/survival#_survival)
+**Skills** [Perception](../skill_dir/perception#_perception) +11, [Stealth](../skill_dir/stealth#_stealth) +9, [Survival](../skill_dir/survival#_survival) +5; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception), +2 [Stealth](../skill_dir/stealth#_stealth), +2 [Survival](../skill_dir/survival#_survival)
 
 **Languages** Common, Goblin
 
@@ -61,7 +61,7 @@ _This bear-sized wolf has white fur and a rime of frost around its muzzle. Its e
 
 NE Large [magical beast](creatureTypes#_magical-beast) (cold)
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +11
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +11
 
 **Defense**
 
@@ -89,11 +89,11 @@ NE Large [magical beast](creatureTypes#_magical-beast) (cold)
 
 **Str** 20, **Dex** 13, **Con** 18, **Int** 9, **Wis** 13, **Cha** 10
 
-**Base Atk** +6; **CMB** +12; **CMD** 23 (27 vs. trip
+**Base Atk** +6; **CMB** +12; **CMD** 23 (27 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception +11, [Stealth](../skill_dir/stealth#_stealth) +4 (+10 in snow, [Survival](../skill_dir/survival#_survival +5; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception, +2 [Stealth](../skill_dir/stealth#_stealth) (+8 in snow, +2 [Survival](../skill_dir/survival#_survival)
+**Skills** [Perception](../skill_dir/perception#_perception) +11, [Stealth](../skill_dir/stealth#_stealth) +4 (+10 in snow), [Survival](../skill_dir/survival#_survival) +5; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception), +2 [Stealth](../skill_dir/stealth#_stealth) (+8 in snow), +2 [Survival](../skill_dir/survival#_survival)
 
 **Languages** Common, Giant
 
@@ -101,7 +101,7 @@ NE Large [magical beast](creatureTypes#_magical-beast) (cold)
 
 **Environment** cold forests and plains
 
-**Organization** solitary, pair, or pack (6–11
+**Organization** solitary, pair, or pack (6–11)
 
 **Treasure** standard
 

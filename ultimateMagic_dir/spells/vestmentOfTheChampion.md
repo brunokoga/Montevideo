@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/vestmentOfTheChampion
+title: ultimateMagi_dir/spells/vestmentOfTheChampion
 ---
 Vestment of the Champion
 
@@ -13,9 +13,9 @@ Vestment of the Champion
 
 **Target** armor or shield touched
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
-This functions as _ [magic vestment](spell_dir/magicVestment#_magic-vestment_, except it only affects armor or a shield you are wearing or carrying. If the armor or shield is worn or carried by anyone other than you, the spell has no effect, but resumes its effect when you are wearing or carrying it again.
+This functions as _ [magic vestment](spells/magicVestment#_magic-vestment)_, except it only affects armor or a shield you are wearing or carrying. If the armor or shield is worn or carried by anyone other than you, the spell has no effect, but resumes its effect when you are wearing or carrying it again.
 

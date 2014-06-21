@@ -1,5 +1,5 @@
 ---
-title: mythicAdventures/mythicSpells/levitate
+title: mythicAdventure_dir/mythicSpells/levitate
 ---
 Levitate
 
@@ -9,5 +9,5 @@ Instead of affecting one creature, you can affect a number of targets up to your
 
 **Augmented (8th)** : If you expend 10 uses of mythic power, you permanently levitate a 5-foot cube of rock, which you can move 20 feet vertically or horizontally as a move action.
 
-If you have created multiple cubes and they are physically touching each other, you can direct them all as a single move action (as if they were one object, even if some of them are out of range. Each levitating cube can support approximately 1,000 pounds of weight, allowing you to use it as a portion of the foundation for a bridge, floating castle, or similar construction project.
+If you have created multiple cubes and they are physically touching each other, you can direct them all as a single move action (as if they were one object), even if some of them are out of range. Each levitating cube can support approximately 1,000 pounds of weight, allowing you to use it as a portion of the foundation for a bridge, floating castle, or similar construction project.
 

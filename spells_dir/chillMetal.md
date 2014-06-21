@@ -1,5 +1,5 @@
 ---
-title: spells/chillMetal
+title: spell_dir/chillMetal
 ---
  **Chill Metal**
 
@@ -11,7 +11,7 @@ title: spells/chillMetal
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lbs. of metal/level, none of which can be more than 30 ft. away from any of the rest
+**Target** metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lbs. of meta_dir/level, none of which can be more than 30 ft. away from any of the rest
 
 **Duration** 7 rounds
 

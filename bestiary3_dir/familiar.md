@@ -3,19 +3,19 @@ title: bestiary3/familiar
 ---
 # Small Familiars
 
-Small familiars threaten the areas around them like Small creatures, and can be used to flank enemies, though both familiars and their masters are often loath to use such tactics, as the result is often a dead familiar. Small familiars are also harder to keep on a master's person than Tiny or smaller familiars. Often they require some form of magic item, like a _ [bag of holding](magicItem_dir/wondrousItems#_bag-of-holding_, to remain truly out of sight.
+Small familiars threaten the areas around them like Small creatures, and can be used to flank enemies, though both familiars and their masters are often loath to use such tactics, as the result is often a dead familiar. Small familiars are also harder to keep on a master's person than Tiny or smaller familiars. Often they require some form of magic item, like a _ [bag of holding](magicItem_dir/wondrousItems#_bag-of-holding)_, to remain truly out of sight.
 
   
   
 
 | Familiar | Special Ability |
 | --- | --- |
-| Flying squirrel | Master gains a +3 bonus on [Fly](skill_dir/fly#_fly checks |
+| Flying squirrel | Master gains a +3 bonus on [Fly](skills/fly#_fly) checks |
 | Fox | Master gains a +2 bonus on Reflex saves |
-| Goat | Master gains a +3 bonus on [Survival](skill_dir/survival#_survival checks |
-| Otter | Master gains a +3 bonus on [Swim](skill_dir/swim#_swim checks |
-| PigMaster | gains a +3 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy checks |
-| Raccoon | Master gains a +3 bonus on [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand checks |
+| Goat | Master gains a +3 bonus on [Survival](skill_dir/survival#_survival) checks |
+| Otter | Master gains a +3 bonus on [Swim](skills/swim#_swim) checks |
+| PigMaster | gains a +3 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy) checks |
+| Raccoon | Master gains a +3 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks |
 
 Flying Squirrel CR 1/3
 
@@ -37,7 +37,7 @@ Offense
 
 **Speed** 20 ft., fly 40 ft. (clumsy)
 
-**Melee** bite +4 (1d3–4
+**Melee** bite +4 (1d3–4)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -49,7 +49,7 @@ Statistics
 
 **Feats** [Acrobatic](feats#_acrobatic)B, [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +8 (+12 when jumping, [Climb](skill_dir/climb#_climb +10, [Fly](skill_dir/fly#_fly +4; **Racial Modifiers** +11 [Acrobatics](skill_dir/acrobatics#_acrobatics) (+8 when jumping, +8 [Climb](skill_dir/climb#_climb)
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +8 (+12 when jumping), [Climb](skills/climb#_climb) +10, [Fly](skill_dir/fly#_fly) +4; **Racial Modifiers** +11 [Acrobatics](skills/acrobatics#_acrobatics) (+8 when jumping), +8 [Climb](skill_dir/climb#_climb)
 
 **SQ** glide
 
@@ -63,7 +63,7 @@ Ecology
 
 Special Abilities
 
-**Glide (Ex** A flying squirrel cannot use its fly speed to hover. When flying, a flying squirrel must end its movement at least 5 feet lower in elevation than where it started.
+**Glide (Ex)** A flying squirrel cannot use its fly speed to hover. When flying, a flying squirrel must end its movement at least 5 feet lower in elevation than where it started.
 
 Although not capable of actual flight, a flying squirrel possesses a furry membrane stretching between its wrists and ankles, allowing it to glide for long distances.
 
@@ -73,7 +73,7 @@ XP 100
 
 N Tiny animal
 
-**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -87,7 +87,7 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** bite +1 (1d3–1
+**Melee** bite +1 (1d3–1)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -97,15 +97,15 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 9 (13 vs. trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skill_dir/perception#_perception)
+**Feats** [Skill Focus](feats#_skill-focus) ( [Perception](skill_dir/perception#_perception))
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +2 (+10 when jumping, [Perception](skill_dir/perception#_perception +8, [Stealth](skill_dir/stealth#_stealth +10, [Survival](skill_dir/survival#_survival +1 (+5 [scent](monster_dir/universalMonsterRules#_scent) tracking; **Racial Modifiers** +4 [Acrobatics](skill_dir/acrobatics#_acrobatics when jumping, +4 [Survival](skill_dir/survival#_survival when tracking by [scent](monster_dir/universalMonsterRules#_scent)
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +2 (+10 when jumping), [Perception](skill_dir/perception#_perception) +8, [Stealth](skills/stealth#_stealth) +10, [Survival](skill_dir/survival#_survival) +1 (+5 [scent](monsters/universalMonsterRules#_scent) tracking); **Racial Modifiers** +4 [Acrobatics](skill_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](skills/survival#_survival) when tracking by [scent](monster_dir/universalMonsterRules#_scent)
 
 Ecology
 
 **Environment** any
 
-**Organization** solitary, pair, or skulk (3–12
+**Organization** solitary, pair, or skulk (3–12)
 
 **Treasure** none
 
@@ -139,15 +139,15 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 11 (15 vs. trip)
 
-**Feats** [Nimble Moves](feats#_nimble-moves
+**Feats** [Nimble Moves](feats#_nimble-moves)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +1 (+5 when jumping, [Climb](skill_dir/climb#_climb +5, [Survival](skill_dir/survival#_survival) +0 (+4 to find food; **Racial Modifiers** +4 [Acrobatics](skill_dir/acrobatics#_acrobatics when jumping, +4 [Survival](skill_dir/survival#_survival) to find food
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +1 (+5 when jumping), [Climb](skill_dir/climb#_climb) +5, [Survival](skills/survival#_survival) +0 (+4 to find food); **Racial Modifiers** +4 [Acrobatics](skill_dir/acrobatics#_acrobatics) when jumping, +4 [Survival](skills/survival#_survival) to find food
 
 Ecology
 
 **Environment** any
 
-**Organization** solitary, pair, or herd (3–12
+**Organization** solitary, pair, or herd (3–12)
 
 **Treasure** none
 
@@ -173,7 +173,7 @@ Offense
 
 **Speed** 20 ft., swim 30 ft.
 
-**Melee** bite +5 (1d3–4
+**Melee** bite +5 (1d3–4)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -185,13 +185,13 @@ Statistics
 
 **Feats** [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Escape Artist](skill_dir/escapeArtist#_escape-artist +4, [Swim](skill_dir/swim#_swim +10
+**Skills** [Escape Artist](skill_dir/escapeArtist#_escape-artist) +4, [Swim](skills/swim#_swim) +10
 
 Ecology
 
 **Environment** any [water](monster_dir/creatureTypes#_water-subtype)
 
-**Organization** solitary or family (2–16
+**Organization** solitary or family (2–16)
 
 **Treasure** none
 
@@ -203,7 +203,7 @@ XP 135
 
 N Small animal
 
-**Init** +1; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +5
+**Init** +1; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +5
 
 Defense
 
@@ -225,7 +225,7 @@ Statistics
 
 **Base Atk** +0; **CMB** –1; **CMD** 10 (14 vs. trip)
 
-**Feats** [Great Fortitude](feats#_great-fortitude
+**Feats** [Great Fortitude](feats#_great-fortitude)
 
 **Skills** [Perception](skill_dir/perception#_perception) +5
 
@@ -233,7 +233,7 @@ Ecology
 
 **Environment** any
 
-**Organization** solitary, pair, or herd (3–12
+**Organization** solitary, pair, or herd (3–12)
 
 **Treasure** none
 
@@ -245,7 +245,7 @@ XP 200
 
 N Tiny animal
 
-**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +3
+**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +3
 
 Defense
 
@@ -259,7 +259,7 @@ Offense
 
 **Speed** 20 ft., climb 20 ft.
 
-**Melee** bite +4 (1d3–1
+**Melee** bite +4 (1d3–1)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -271,13 +271,13 @@ Statistics
 
 **Feats** [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Climb](skill_dir/climb#_climb +7, [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand +3
+**Skills** [Climb](skill_dir/climb#_climb) +7, [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) +3
 
 Ecology
 
 **Environment** temperate forests
 
-**Organization** solitary or [gaze](monster_dir/universalMonsterRules#_gaze) (2–4
+**Organization** solitary or [gaze](monster_dir/universalMonsterRules#_gaze) (2–4)
 
 **Treasure** none
 

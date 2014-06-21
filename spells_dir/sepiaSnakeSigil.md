@@ -3,17 +3,17 @@ title: spell_dir/sepiaSnakeSigil
 ---
  **Sepia Snake Sigil**
 
-**School** conjuration (creation [force]; **Level** bard 3, sorcere_dir/wizard 3
+**School** conjuration (creation) [force]; **Level** bard 3, sorcerer/wizard 3
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M (powdered amber worth 500 gp and a snake scale
+**Components** V, S, M (powdered amber worth 500 gp and a snake scale)
 
 **Range** touch
 
 **Target** one touched book or written work
 
-**Duration** permanent or until discharged; until released or 1d4 days + 1 day/level; see text
+**Duration** permanent or until discharged; until released or 1d4 days + 1 da_dir/level; see text
 
 **Saving Throw** [Reflex](../combat#_reflex) negates; **[Spell Resistance](../glossary#_spell-resistance)** no
 

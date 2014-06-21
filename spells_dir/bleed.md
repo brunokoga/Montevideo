@@ -1,5 +1,5 @@
 ---
-title: spells/bleed
+title: spell_dir/bleed
 ---
  **Bleed**
 

@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/deafeningSongBolt
+title: advance_dir/spells/deafeningSongBolt
 ---
  **Deafening Song Bolt**
 

@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/boilingBlood
+title: ultimateMagi_dir/spells/boilingBlood
 ---
 Boiling Blood
 
-**School** transmutation; **Level** bard 2, cleric 2, sorcerer/wizard 2, witch 2
+**School** transmutation; **Level** bard 2, cleric 2, sorcere_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -15,7 +15,7 @@ Boiling Blood
 
 **Duration** concentration + 1 roun_dir/level (D)
 
-**Saving Throw** Fortitude negates (see text; **Spell Resistance** yes
+**Saving Throw** Fortitude negates (see text); **Spell Resistance** yes
 
 The blood of the targeted creatures begins to boil. If a target fails its save, it takes 1 point of fire damage per round. This spell has no effect on creatures that don't have blood.
 

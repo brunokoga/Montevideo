@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/siren
+title: additionalMonster_dir/siren
 ---
 # Siren
 
@@ -9,9 +9,9 @@ This creature has the body of a hawk and the head of a beautiful woman with long
 
 **XP 1,600**
 
-CN Medium [magical beast](monster_dir/creatureTypes#_magical-beast
+CN Medium [magical beast](monsters/creatureTypes#_magical-beast)
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +15
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +15
 
 Defense
 
@@ -31,9 +31,9 @@ Offense
 
 **Special Attacks** bardic performance, siren's song, sneak attack +2d6
 
-**Spell-Like Abilities** (CL 7th; concentration +12
+**Spell-Like Abilities** (CL 7th; concentration +12)
 
-3/day—_ [cause fear](additionalMonsters/../spell_dir/causeFear#_cause-fear)_ (DC 16, _ [charm person](additionalMonsters/../spell_dir/charmPerson#_charm-person)_ (DC 16, _ [deep slumber](additionalMonsters/../spell_dir/deepSlumber#_deep-slumber)_ (DC 18, _ [shout](additionalMonsters/../spell_dir/shout#_shout)_ (DC 19
+3/day—_ [cause fear](additionalMonster_dir/../spell_dir/causeFear#_cause-fear)_ (DC 16), _ [charm person](additionalMonsters/../spell_dir/charmPerson#_charm-person)_ (DC 16), _ [deep slumber](additionalMonsters/../spell_dir/deepSlumber#_deep-slumber)_ (DC 18), _ [shout](additionalMonsters/../spell_dir/shout#_shout)_ (DC 19)
 
 Statistics
 
@@ -41,9 +41,9 @@ Statistics
 
 **Base Atk** +8; **CMB** +8; **CMD** 22
 
-**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Flyby Attack](additionalMonsters/../monster_dir/monsterFeats#_flyby-attack, [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Flyby Attack](additionalMonster_dir/../monster_dir/monsterFeats#_flyby-attack), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
 
-**Skills** [Fly](additionalMonsters/../skill_dir/fly#_fly +7, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (history +10, [Perception](additionalMonsters/../skill_dir/perception#_perception +15, [Perform](additionalMonsters/../skill_dir/perform#_perform) (sing +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +14
+**Skills** [Fly](additionalMonster_dir/../skill_dir/fly#_fly) +7, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (history) +10, [Perception](additionalMonsters/../skill_dir/perception#_perception) +15, [Perform](additionalMonsters/../skill_dir/perform#_perform) (sing) +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +14
 
 **Languages** Auran, Common
 
@@ -51,17 +51,17 @@ Ecology
 
 **Environment** temperate or warm hills
 
-**Organization** solitary or [flight](monster_dir/universalMonsterRules#_flight-(ex,-sp,-or-su)) (2–7)
+**Organization** solitary or [flight](monsters/universalMonsterRules#_flight-(ex,-sp,-or-su)) (2–7)
 
 **Treasure** standard
 
 Special Abilities
 
-**Bardic Performance (Su** A siren may use bardic performance as a 4th-level bard (9 round_dir/day, and can use countersong, [distraction](monster_dir/universalMonsterRules#_distraction), fascinate, inspire competence, and inspire courage. Levels in the bard class stack with this ability.
+**Bardic Performance (Su)** A siren may use bardic performance as a 4th-level bard (9 round_dir/day), and can use countersong, [distraction](monsters/universalMonsterRules#_distraction), fascinate, inspire competence, and inspire courage. Levels in the bard class stack with this ability.
 
-**Siren Song (Su)** When a siren sings, all non-sirens within a 300-foot spread must succeed on a DC 19 Will save or become enthralled (see below. The effect depends on the type of song the siren chooses, and continues for as long as the siren sings and for 1 round thereafter. A creature that successfully saves cannot be affected again by any of that siren's songs for 1 hour. These are sonic, mind-affecting effects. The save DC is Charisma-based. Enthralled creatures behave in one of the following four ways, which the siren chooses when she begins singing.
+**Siren Song (Su)** When a siren sings, all non-sirens within a 300-foot spread must succeed on a DC 19 Will save or become enthralled (see below). The effect depends on the type of song the siren chooses, and continues for as long as the siren sings and for 1 round thereafter. A creature that successfully saves cannot be affected again by any of that siren's songs for 1 hour. These are sonic, mind-affecting effects. The save DC is Charisma-based. Enthralled creatures behave in one of the following four ways, which the siren chooses when she begins singing.
 
-_•Captivation_: This functions exactly like a [harpy's captivating song](additionalMonsters/../monster_dir/harpy#_harpy.
+_•Captivation_: This functions exactly like a [harpy's captivating song](additionalMonster_dir/../monster_dir/harpy#_harpy).
 
 _•Fascination_: Affected creatures are fascinated.
 

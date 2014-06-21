@@ -3,17 +3,17 @@ title: spell_dir/secureShelter
 ---
  **Secure Shelter**
 
-**School** conjuration (creation; **Level** bard 4, sorcere_dir/wizard 4
+**School** conjuration (creation); **Level** bard 4, sorcerer/wizard 4
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M (a chip of stone, sand, a drop of water, and a wood splinter
+**Components** V, S, M (a chip of stone, sand, a drop of water, and a wood splinter)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** 20-ft.-square structure
 
-**Duration** 2 hour_dir/level (D
+**Duration** 2 hour_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

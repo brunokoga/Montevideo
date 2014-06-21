@@ -1,5 +1,5 @@
 ---
-title: spells/gentleRepose
+title: spell_dir/gentleRepose
 ---
  **Gentle Repose**
 
@@ -13,7 +13,7 @@ title: spells/gentleRepose
 
 **Target** corpse touched
 
-**Duration** 1 day/level
+**Duration** 1 da_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
 

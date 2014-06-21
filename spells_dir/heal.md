@@ -3,7 +3,7 @@ title: spell_dir/heal
 ---
  **Heal**
 
-**School** conjuration (healing; **Level** cleric 6, druid 7
+**School** conjuration (healing); **Level** cleric 6, druid 7
 
 **Casting Time** 1 standard action
 

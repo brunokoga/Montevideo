@@ -1,23 +1,23 @@
 ---
-title: mythicAdventures/mythicSpells/spellIndex
+title: mythicAdventure_dir/mythicSpells/spellIndex
 ---
 # New Mythic Spells
 
 The following are new spells that affect the mythic rules or mythic creatures in some way. You don't need a mythic tier to cast most of these spells.
 
-**Mythic** : Some of these spells have mythic versions just as preexisting spells like _ [animate dead](spell_dir/animateDead#_animate-dead_ and _ [fireball](spell_dir/fireball#_fireball_ do. The information for the mythic version is included in the new spell's description.
+**Mythic** : Some of these spells have mythic versions just as preexisting spells like _ [animate dead](spell_dir/animateDead#_animate-dead)_ and _ [fireball](spells/fireball#_fireball)_ do. The information for the mythic version is included in the new spell's description.
 
 **Augmented** : If a spell has an augmented version, it's listed in the spell description.
 
-- [Ascension](mythicAdventures/mythicSpell_dir/ascension
-- [Bleed Glory](mythicAdventures/mythicSpell_dir/bleedGlory
-- [Deathless](mythicAdventures/mythicSpell_dir/deathless
-- [Lend Path](mythicAdventures/mythicSpell_dir/lendPath
-- [Mythic Severance](mythicAdventures/mythicSpell_dir/mythicSeverance
-- [Restore Mythic Power](mythicAdventures/mythicSpell_dir/restoreMythicPower
-- [Share Glory](mythicAdventures/mythicSpell_dir/shareGlory
-- [Steal Power](mythicAdventures/mythicSpell_dir/stealPower
-- [Terraform](mythicAdventures/mythicSpell_dir/terraform
+- [Ascension](mythicAdventure_dir/mythicSpells/ascension)
+- [Bleed Glory](mythicAdventure_dir/mythicSpells/bleedGlory)
+- [Deathless](mythicAdventure_dir/mythicSpells/deathless)
+- [Lend Path](mythicAdventure_dir/mythicSpells/lendPath)
+- [Mythic Severance](mythicAdventure_dir/mythicSpells/mythicSeverance)
+- [Restore Mythic Power](mythicAdventure_dir/mythicSpells/restoreMythicPower)
+- [Share Glory](mythicAdventure_dir/mythicSpells/shareGlory)
+- [Steal Power](mythicAdventure_dir/mythicSpells/stealPower)
+- [Terraform](mythicAdventure_dir/mythicSpells/terraform)
 
 # Enchanced Spells
 
@@ -25,280 +25,280 @@ The following are enhanced versions of existing spells.
 
 A B C D E F G H I J K L M N O PR S T U V W
 
-- [Ablative Barrier](mythicAdventures/mythicSpell_dir/ablativeBarrier
-- [Animal Aspect](mythicAdventures/mythicSpell_dir/animalAspect
-- [Animate Dead](mythicAdventures/mythicSpell_dir/animateDead
-- [Animate Objects](mythicAdventures/mythicSpell_dir/animateObjects
-- [Animate Plants](mythicAdventures/mythicSpell_dir/animatePlants
-- [Anticipate Peril](mythicAdventures/mythicSpell_dir/anticipatePeril
-- [Antimagic Field](mythicAdventures/mythicSpell_dir/antimagicField
-- [Arboreal Hammer](mythicAdventures/mythicSpell_dir/arborealHammer
-- [Arcane Cannon](mythicAdventures/mythicSpell_dir/arcaneCannon
+- [Ablative Barrier](mythicAdventure_dir/mythicSpells/ablativeBarrier)
+- [Animal Aspect](mythicAdventure_dir/mythicSpells/animalAspect)
+- [Animate Dead](mythicAdventure_dir/mythicSpells/animateDead)
+- [Animate Objects](mythicAdventure_dir/mythicSpells/animateObjects)
+- [Animate Plants](mythicAdventure_dir/mythicSpells/animatePlants)
+- [Anticipate Peril](mythicAdventure_dir/mythicSpells/anticipatePeril)
+- [Antimagic Field](mythicAdventure_dir/mythicSpells/antimagicField)
+- [Arboreal Hammer](mythicAdventure_dir/mythicSpells/arborealHammer)
+- [Arcane Cannon](mythicAdventure_dir/mythicSpells/arcaneCannon)
 
-- [Baleful Polymorph](mythicAdventures/mythicSpell_dir/balefulPolymorph
-- [Bane](mythicAdventures/mythicSpell_dir/bane
-- [Barkskin](mythicAdventures/mythicSpell_dir/barkskin
-- [Battlemind Link](mythicAdventures/mythicSpell_dir/battlemindLink
-- [Battle Trance](mythicAdventures/mythicSpell_dir/battleTrance
-- [Beast Shape](mythicAdventures/mythicSpell_dir/beastShape
-- [Black Mark](mythicAdventures/mythicSpell_dir/blackMark
-- [Black Tentacles](mythicAdventures/mythicSpell_dir/blackTentacles
-- [Blade Barrier](mythicAdventures/mythicSpell_dir/bladeBarrier
-- [Blasphemy](mythicAdventures/mythicSpell_dir/blasphemy
-- [Bless](mythicAdventures/mythicSpell_dir/bless
-- [Blessing of Fervor](mythicAdventures/mythicSpell_dir/blessingOfFervor
-- [Blinding Ray](mythicAdventures/mythicSpell_dir/blindingRay
-- [Blindess/Deafness](mythicAdventures/mythicSpell_dir/blindnessDeafness
-- [Blink](mythicAdventures/mythicSpell_dir/blink
-- [Blistering Invective](mythicAdventures/mythicSpell_dir/blisteringInvective
-- [Blood Crow Strike](mythicAdventures/mythicSpell_dir/bloodCrowStrike
-- [Boiling Blood](mythicAdventures/mythicSpell_dir/boilingBlood
-- [Break](mythicAdventures/mythicSpell_dir/break
-- [Break Enchantment](mythicAdventures/mythicSpell_dir/breakEnchantment
-- [Breath of Life](mythicAdventures/mythicSpell_dir/breathOfLife
-- [Burning Gaze](mythicAdventures/mythicSpell_dir/burningGaze
-- [Burning Hands](mythicAdventures/mythicSpell_dir/burningHands
-- [Burrow](mythicAdventures/mythicSpell_dir/burrow
+- [Baleful Polymorph](mythicAdventure_dir/mythicSpells/balefulPolymorph)
+- [Bane](mythicAdventure_dir/mythicSpells/bane)
+- [Barkskin](mythicAdventure_dir/mythicSpells/barkskin)
+- [Battlemind Link](mythicAdventure_dir/mythicSpells/battlemindLink)
+- [Battle Trance](mythicAdventure_dir/mythicSpells/battleTrance)
+- [Beast Shape](mythicAdventure_dir/mythicSpells/beastShape)
+- [Black Mark](mythicAdventure_dir/mythicSpells/blackMark)
+- [Black Tentacles](mythicAdventure_dir/mythicSpells/blackTentacles)
+- [Blade Barrier](mythicAdventure_dir/mythicSpells/bladeBarrier)
+- [Blasphemy](mythicAdventure_dir/mythicSpells/blasphemy)
+- [Bless](mythicAdventure_dir/mythicSpells/bless)
+- [Blessing of Fervor](mythicAdventure_dir/mythicSpells/blessingOfFervor)
+- [Blinding Ray](mythicAdventure_dir/mythicSpells/blindingRay)
+- [Blindes_dir/Deafness](mythicAdventures/mythicSpell_dir/blindnessDeafness)
+- [Blink](mythicAdventures/mythicSpell_dir/blink)
+- [Blistering Invective](mythicAdventures/mythicSpell_dir/blisteringInvective)
+- [Blood Crow Strike](mythicAdventures/mythicSpell_dir/bloodCrowStrike)
+- [Boiling Blood](mythicAdventures/mythicSpell_dir/boilingBlood)
+- [Break](mythicAdventures/mythicSpell_dir/break)
+- [Break Enchantment](mythicAdventures/mythicSpell_dir/breakEnchantment)
+- [Breath of Life](mythicAdventures/mythicSpell_dir/breathOfLife)
+- [Burning Gaze](mythicAdventures/mythicSpell_dir/burningGaze)
+- [Burning Hands](mythicAdventures/mythicSpell_dir/burningHands)
+- [Burrow](mythicAdventures/mythicSpell_dir/burrow)
 
-- [Call Animal](mythicAdventures/mythicSpell_dir/callAnimal
-- [Call Lightning](mythicAdventures/mythicSpell_dir/callLightning
-- [Cape of Wasps](mythicAdventures/mythicSpell_dir/capeOfWasps
-- [Chain Lightning](mythicAdventures/mythicSpell_dir/chainLightning
-- [Changestaff](mythicAdventures/mythicSpell_dir/changestaff
-- [Chaos Hammer](mythicAdventures/mythicSpell_dir/chaosHammer
-- [Chill Metal](mythicAdventures/mythicSpell_dir/chillMetal
-- [Chord of Shards](mythicAdventures/mythicSpell_dir/chordOfShards
-- [Circle of Death](mythicAdventures/mythicSpell_dir/circleOfDeath
-- [Cloudkill](mythicAdventures/mythicSpell_dir/cloudkill
-- [Color Spray](mythicAdventures/mythicSpell_dir/colorSpray
-- [Command](mythicAdventures/mythicSpell_dir/command
-- [Companion Mind Link](mythicAdventures/mythicSpell_dir/companionMindLink
-- [Cone of Cold](mythicAdventures/mythicSpell_dir/coneOfCold
-- [Confusion](mythicAdventures/mythicSpell_dir/confusion
-- [Conjure Black Pudding](mythicAdventures/mythicSpell_dir/conjureBlackPudding
-- [Consecrate](mythicAdventures/mythicSpell_dir/consecrate
-- [Contagion](mythicAdventures/mythicSpell_dir/contagion
-- [Contingency](mythicAdventures/mythicSpell_dir/contingency
-- [Control Weather](mythicAdventures/mythicSpell_dir/controlWeather
-- [Cup of Dust](mythicAdventures/mythicSpell_dir/cupOfDust
-- [Cure Critical Wounds](mythicAdventures/mythicSpell_dir/cureCriticalWounds
-- [Cure Light Wounds](mythicAdventures/mythicSpell_dir/cureLightWounds
-- [Cure Moderate Wounds](mythicAdventures/mythicSpell_dir/cureModerateWounds
-- [Cure Serious Wounds](mythicAdventures/mythicSpell_dir/cureSeriousWounds
+- [Call Animal](mythicAdventures/mythicSpell_dir/callAnimal)
+- [Call Lightning](mythicAdventures/mythicSpell_dir/callLightning)
+- [Cape of Wasps](mythicAdventures/mythicSpell_dir/capeOfWasps)
+- [Chain Lightning](mythicAdventures/mythicSpell_dir/chainLightning)
+- [Changestaff](mythicAdventures/mythicSpell_dir/changestaff)
+- [Chaos Hammer](mythicAdventures/mythicSpell_dir/chaosHammer)
+- [Chill Metal](mythicAdventures/mythicSpell_dir/chillMetal)
+- [Chord of Shards](mythicAdventures/mythicSpell_dir/chordOfShards)
+- [Circle of Death](mythicAdventures/mythicSpell_dir/circleOfDeath)
+- [Cloudkill](mythicAdventures/mythicSpell_dir/cloudkill)
+- [Color Spray](mythicAdventures/mythicSpell_dir/colorSpray)
+- [Command](mythicAdventures/mythicSpell_dir/command)
+- [Companion Mind Link](mythicAdventures/mythicSpell_dir/companionMindLink)
+- [Cone of Cold](mythicAdventures/mythicSpell_dir/coneOfCold)
+- [Confusion](mythicAdventures/mythicSpell_dir/confusion)
+- [Conjure Black Pudding](mythicAdventures/mythicSpell_dir/conjureBlackPudding)
+- [Consecrate](mythicAdventures/mythicSpell_dir/consecrate)
+- [Contagion](mythicAdventures/mythicSpell_dir/contagion)
+- [Contingency](mythicAdventures/mythicSpell_dir/contingency)
+- [Control Weather](mythicAdventures/mythicSpell_dir/controlWeather)
+- [Cup of Dust](mythicAdventures/mythicSpell_dir/cupOfDust)
+- [Cure Critical Wounds](mythicAdventures/mythicSpell_dir/cureCriticalWounds)
+- [Cure Light Wounds](mythicAdventures/mythicSpell_dir/cureLightWounds)
+- [Cure Moderate Wounds](mythicAdventures/mythicSpell_dir/cureModerateWounds)
+- [Cure Serious Wounds](mythicAdventures/mythicSpell_dir/cureSeriousWounds)
 
-- [Damnation Stride](mythicAdventures/mythicSpell_dir/damnationStride
-- [Darkness](mythicAdventures/mythicSpell_dir/darkness
-- [Daybreak Arrow](mythicAdventures/mythicSpell_dir/daybreakArrow
-- [Daylight](mythicAdventures/mythicSpell_dir/daylight
-- [Death Knell](mythicAdventures/mythicSpell_dir/deathKnell
-- [Deep Slumber](mythicAdventures/mythicSpell_dir/deepSlumber
-- [Defile Armor](mythicAdventures/mythicSpell_dir/defileArmor
-- [Desecrate](mythicAdventures/mythicSpell_dir/desecrate
-- [Detect Scrying](mythicAdventures/mythicSpell_dir/detectScrying
-- [Devolution](mythicAdventures/mythicSpell_dir/devolution
-- [Dictum](mythicAdventures/mythicSpell_dir/dictum
-- [Dimensional Lock](mythicAdventures/mythicSpell_dir/dimensionalLock
-- [Dimension Door](mythicAdventures/mythicSpell_dir/dimensionDoor
-- [Discordant Blast](mythicAdventures/mythicSpell_dir/discordantBlast
-- [Disfiguring Touch](mythicAdventures/mythicSpell_dir/disfiguringTouch
-- [Disintegrate](mythicAdventures/mythicSpell_dir/disintegrate
-- [Dispel Magic](mythicAdventures/mythicSpell_dir/dispelMagic
-- [Divine Favor](mythicAdventures/mythicSpell_dir/divineFavor
-- [Divine Pursuit](mythicAdventures/mythicSpell_dir/divinePursuit
-- [Dominate Person](mythicAdventures/mythicSpell_dir/dominatePerson
-- [Draconic Reservoir](mythicAdventures/mythicSpell_dir/draconicReservoir
-- [Dragon's Breath](mythicAdventures/mythicSpell_dir/dragonsBreath
-- [Dream](mythicAdventures/mythicSpell_dir/dream
-- [Dust of Twilight](mythicAdventures/mythicSpell_dir/dustOfTwilight
+- [Damnation Stride](mythicAdventures/mythicSpell_dir/damnationStride)
+- [Darkness](mythicAdventures/mythicSpell_dir/darkness)
+- [Daybreak Arrow](mythicAdventures/mythicSpell_dir/daybreakArrow)
+- [Daylight](mythicAdventures/mythicSpell_dir/daylight)
+- [Death Knell](mythicAdventures/mythicSpell_dir/deathKnell)
+- [Deep Slumber](mythicAdventures/mythicSpell_dir/deepSlumber)
+- [Defile Armor](mythicAdventures/mythicSpell_dir/defileArmor)
+- [Desecrate](mythicAdventures/mythicSpell_dir/desecrate)
+- [Detect Scrying](mythicAdventures/mythicSpell_dir/detectScrying)
+- [Devolution](mythicAdventures/mythicSpell_dir/devolution)
+- [Dictum](mythicAdventures/mythicSpell_dir/dictum)
+- [Dimensional Lock](mythicAdventures/mythicSpell_dir/dimensionalLock)
+- [Dimension Door](mythicAdventures/mythicSpell_dir/dimensionDoor)
+- [Discordant Blast](mythicAdventures/mythicSpell_dir/discordantBlast)
+- [Disfiguring Touch](mythicAdventures/mythicSpell_dir/disfiguringTouch)
+- [Disintegrate](mythicAdventures/mythicSpell_dir/disintegrate)
+- [Dispel Magic](mythicAdventures/mythicSpell_dir/dispelMagic)
+- [Divine Favor](mythicAdventures/mythicSpell_dir/divineFavor)
+- [Divine Pursuit](mythicAdventures/mythicSpell_dir/divinePursuit)
+- [Dominate Person](mythicAdventures/mythicSpell_dir/dominatePerson)
+- [Draconic Reservoir](mythicAdventures/mythicSpell_dir/draconicReservoir)
+- [Dragon's Breath](mythicAdventures/mythicSpell_dir/dragonsBreath)
+- [Dream](mythicAdventures/mythicSpell_dir/dream)
+- [Dust of Twilight](mythicAdventures/mythicSpell_dir/dustOfTwilight)
 
-- [Ear-Piercing Scream](mythicAdventures/mythicSpell_dir/earPiercingScream
-- [Earthquake](mythicAdventures/mythicSpell_dir/earthquake
-- [Elemental Body](mythicAdventures/mythicSpell_dir/elementalBody
-- [Endure Elements](mythicAdventures/mythicSpell_dir/endureElements
-- [Enemy Hammer](mythicAdventures/mythicSpell_dir/enemyHammer
-- [Enervation](mythicAdventures/mythicSpell_dir/enervation
-- [Enlarge Person](mythicAdventures/mythicSpell_dir/enlargePerson
-- [Entangle](mythicAdventures/mythicSpell_dir/entangle
-- [Entropic Shield](mythicAdventures/mythicSpell_dir/entropicShield
-- [Expeditious Retreat](mythicAdventures/mythicSpell_dir/expeditiousRetreat
+- [Ear-Piercing Scream](mythicAdventures/mythicSpell_dir/earPiercingScream)
+- [Earthquake](mythicAdventures/mythicSpell_dir/earthquake)
+- [Elemental Body](mythicAdventures/mythicSpell_dir/elementalBody)
+- [Endure Elements](mythicAdventures/mythicSpell_dir/endureElements)
+- [Enemy Hammer](mythicAdventures/mythicSpell_dir/enemyHammer)
+- [Enervation](mythicAdventures/mythicSpell_dir/enervation)
+- [Enlarge Person](mythicAdventures/mythicSpell_dir/enlargePerson)
+- [Entangle](mythicAdventures/mythicSpell_dir/entangle)
+- [Entropic Shield](mythicAdventures/mythicSpell_dir/entropicShield)
+- [Expeditious Retreat](mythicAdventures/mythicSpell_dir/expeditiousRetreat)
 
-- [Faerie Fire](mythicAdventures/mythicSpell_dir/faerieFire
-- [False Life](mythicAdventures/mythicSpell_dir/falseLife
-- [Feast of Ashes](mythicAdventures/mythicSpell_dir/feastOfAshes
-- [Feather Fall](mythicAdventures/mythicSpell_dir/featherFall
-- [Finger of Death](mythicAdventures/mythicSpell_dir/fingerOfDeath
-- [Fireball](mythicAdventures/mythicSpell_dir/fireball
-- [Fire Seeds](mythicAdventures/mythicSpell_dir/fireSeeds
-- [Fire Shield](mythicAdventures/mythicSpell_dir/fireShield
-- [Fire Snake](mythicAdventures/mythicSpell_dir/fireSnake
-- [Fire Storm](mythicAdventures/mythicSpell_dir/fireStorm
-- [Firestream](mythicAdventures/mythicSpell_dir/firestream
-- [Flame Blade](mythicAdventures/mythicSpell_dir/flameBlade
-- [Flames of the Faithful](mythicAdventures/mythicSpell_dir/flamesOfTheFaithful
-- [Flame Strike](mythicAdventures/mythicSpell_dir/flameStrike
-- [Flesh to Stone](mythicAdventures/mythicSpell_dir/fleshToStone
-- [Floating Disk](mythicAdventures/mythicSpell_dir/floatingDisk
-- [Fly](mythicAdventures/mythicSpell_dir/fly
-- [Fog Cloud](mythicAdventures/mythicSpell_dir/fogCloud
-- [Force Punch](mythicAdventures/mythicSpell_dir/forcePunch
-- [Foresight](mythicAdventures/mythicSpell_dir/foresight
-- [Form of the Dragon](mythicAdventures/mythicSpell_dir/formOfTheDragon
+- [Faerie Fire](mythicAdventures/mythicSpell_dir/faerieFire)
+- [False Life](mythicAdventures/mythicSpell_dir/falseLife)
+- [Feast of Ashes](mythicAdventures/mythicSpell_dir/feastOfAshes)
+- [Feather Fall](mythicAdventures/mythicSpell_dir/featherFall)
+- [Finger of Death](mythicAdventures/mythicSpell_dir/fingerOfDeath)
+- [Fireball](mythicAdventures/mythicSpell_dir/fireball)
+- [Fire Seeds](mythicAdventures/mythicSpell_dir/fireSeeds)
+- [Fire Shield](mythicAdventures/mythicSpell_dir/fireShield)
+- [Fire Snake](mythicAdventures/mythicSpell_dir/fireSnake)
+- [Fire Storm](mythicAdventures/mythicSpell_dir/fireStorm)
+- [Firestream](mythicAdventures/mythicSpell_dir/firestream)
+- [Flame Blade](mythicAdventures/mythicSpell_dir/flameBlade)
+- [Flames of the Faithful](mythicAdventures/mythicSpell_dir/flamesOfTheFaithful)
+- [Flame Strike](mythicAdventures/mythicSpell_dir/flameStrike)
+- [Flesh to Stone](mythicAdventures/mythicSpell_dir/fleshToStone)
+- [Floating Disk](mythicAdventures/mythicSpell_dir/floatingDisk)
+- [Fly](mythicAdventures/mythicSpell_dir/fly)
+- [Fog Cloud](mythicAdventures/mythicSpell_dir/fogCloud)
+- [Force Punch](mythicAdventures/mythicSpell_dir/forcePunch)
+- [Foresight](mythicAdventures/mythicSpell_dir/foresight)
+- [Form of the Dragon](mythicAdventures/mythicSpell_dir/formOfTheDragon)
 
-- [Gaseous Form](mythicAdventures/mythicSpell_dir/gaseousForm
-- [Giant Vermin](mythicAdventures/mythicSpell_dir/giantVermin
-- [Globe of Invulnerability](mythicAdventures/mythicSpell_dir/globeOfInvulnerability
-- [Glyph of Warding](mythicAdventures/mythicSpell_dir/glyphOfWarding
-- [Goodberry](mythicAdventures/mythicSpell_dir/goodberry
-- [Grease](mythicAdventures/mythicSpell_dir/grease
-- [Guards and Wards](mythicAdventures/mythicSpell_dir/guardsAndWards
-- [Gust of Winds](mythicAdventures/mythicSpell_dir/gustOfWind
+- [Gaseous Form](mythicAdventures/mythicSpell_dir/gaseousForm)
+- [Giant Vermin](mythicAdventures/mythicSpell_dir/giantVermin)
+- [Globe of Invulnerability](mythicAdventures/mythicSpell_dir/globeOfInvulnerability)
+- [Glyph of Warding](mythicAdventures/mythicSpell_dir/glyphOfWarding)
+- [Goodberry](mythicAdventures/mythicSpell_dir/goodberry)
+- [Grease](mythicAdventures/mythicSpell_dir/grease)
+- [Guards and Wards](mythicAdventures/mythicSpell_dir/guardsAndWards)
+- [Gust of Winds](mythicAdventures/mythicSpell_dir/gustOfWind)
 
-- [Harm](mythicAdventures/mythicSpell_dir/harm
-- [Haste](mythicAdventures/mythicSpell_dir/haste
-- [Heal](mythicAdventures/mythicSpell_dir/heal
-- [Healing Thief](mythicAdventures/mythicSpell_dir/healingThief
-- [Heat Metal](mythicAdventures/mythicSpell_dir/heatMetal
-- [Heroism](mythicAdventures/mythicSpell_dir/heroism
-- [Hex Ward](mythicAdventures/mythicSpell_dir/hexWard
-- [Hideous Laughter](mythicAdventures/mythicSpell_dir/hideousLaughter
-- [Hold Portal](mythicAdventures/mythicSpell_dir/holdPortal
-- [Holy Smite](mythicAdventures/mythicSpell_dir/holySmite
-- [Holy Word](mythicAdventures/mythicSpell_dir/holyWord
-- [Hydraulic Push](mythicAdventures/mythicSpell_dir/hydraulicPush
-- [Hydraulic Torrent](mythicAdventures/mythicSpell_dir/hydraulicTorrent
+- [Harm](mythicAdventures/mythicSpell_dir/harm)
+- [Haste](mythicAdventures/mythicSpell_dir/haste)
+- [Heal](mythicAdventures/mythicSpell_dir/heal)
+- [Healing Thief](mythicAdventures/mythicSpell_dir/healingThief)
+- [Heat Metal](mythicAdventures/mythicSpell_dir/heatMetal)
+- [Heroism](mythicAdventures/mythicSpell_dir/heroism)
+- [Hex Ward](mythicAdventures/mythicSpell_dir/hexWard)
+- [Hideous Laughter](mythicAdventures/mythicSpell_dir/hideousLaughter)
+- [Hold Portal](mythicAdventures/mythicSpell_dir/holdPortal)
+- [Holy Smite](mythicAdventures/mythicSpell_dir/holySmite)
+- [Holy Word](mythicAdventures/mythicSpell_dir/holyWord)
+- [Hydraulic Push](mythicAdventures/mythicSpell_dir/hydraulicPush)
+- [Hydraulic Torrent](mythicAdventures/mythicSpell_dir/hydraulicTorrent)
 
-- [Ice Storm](mythicAdventures/mythicSpell_dir/iceStorm
-- [Ill Omen](mythicAdventures/mythicSpell_dir/illOmen
-- [Inflict Critical Wounds](mythicAdventures/mythicSpell_dir/inflictCriticalWounds
-- [Inflict Light Wounds](mythicAdventures/mythicSpell_dir/inflictLightWounds
-- [Inflict Moderate Wounds](mythicAdventures/mythicSpell_dir/inflictModerateWounds
-- [Inflict Serious Wounds](mythicAdventures/mythicSpell_dir/inflictSeriousWounds
-- [Invisibility](mythicAdventures/mythicSpell_dir/invisibility
-- [Irresistible Dance](mythicAdventures/mythicSpell_dir/irresistibleDance
+- [Ice Storm](mythicAdventures/mythicSpell_dir/iceStorm)
+- [Ill Omen](mythicAdventures/mythicSpell_dir/illOmen)
+- [Inflict Critical Wounds](mythicAdventures/mythicSpell_dir/inflictCriticalWounds)
+- [Inflict Light Wounds](mythicAdventures/mythicSpell_dir/inflictLightWounds)
+- [Inflict Moderate Wounds](mythicAdventures/mythicSpell_dir/inflictModerateWounds)
+- [Inflict Serious Wounds](mythicAdventures/mythicSpell_dir/inflictSeriousWounds)
+- [Invisibility](mythicAdventures/mythicSpell_dir/invisibility)
+- [Irresistible Dance](mythicAdventures/mythicSpell_dir/irresistibleDance)
 
-- [Jitterbugs](mythicAdventures/mythicSpell_dir/jitterbugs
+- [Jitterbugs](mythicAdventures/mythicSpell_dir/jitterbugs)
 
-- [Knock](mythicAdventures/mythicSpell_dir/knock
-- [Know the Enemy](mythicAdventures/mythicSpell_dir/knowTheEnemy
+- [Knock](mythicAdventures/mythicSpell_dir/knock)
+- [Know the Enemy](mythicAdventures/mythicSpell_dir/knowTheEnemy)
 
-- [Levitate](mythicAdventures/mythicSpell_dir/levitate
-- [Lightning Arc](mythicAdventures/mythicSpell_dir/lightningArc
-- [Limited Wish](mythicAdventures/mythicSpell_dir/limitedWish
+- [Levitate](mythicAdventures/mythicSpell_dir/levitate)
+- [Lightning Arc](mythicAdventures/mythicSpell_dir/lightningArc)
+- [Limited Wish](mythicAdventures/mythicSpell_dir/limitedWish)
 
-- [Mage Armor](mythicAdventures/mythicSpell_dir/mageArmor
-- [Mage's Disjunction](mythicAdventures/mythicSpell_dir/magesDisjunction
-- [Magic Fang](mythicAdventures/mythicSpell_dir/magicFang
-- [Magic Missle](mythicAdventures/mythicSpell_dir/magicMissle
-- [Magic Vestment](mythicAdventures/mythicSpell_dir/magicVestment
-- [Magic Weapon, Greater](mythicAdventures/mythicSpell_dir/magicWeaponGreater
-- [Make Whole](mythicAdventures/mythicSpell_dir/makeWhole
-- [Maze](mythicAdventures/mythicSpell_dir/maze
-- [Memory Lapse](mythicAdventures/mythicSpell_dir/memoryLapse
-- [Meteor Swarm](mythicAdventures/mythicSpell_dir/meteorSwarm
-- [Mighty Fist of the Earth](mythicAdventures/mythicSpell_dir/mightyFistOfTheEarth
-- [Mirror Image](mythicAdventures/mythicSpell_dir/mirrorImage
-- [Mislead](mythicAdventures/mythicSpell_dir/mislead
-- [Modify Memory](mythicAdventures/mythicSpell_dir/modifyMemory
-- [Monstrous Physique](mythicAdventures/mythicSpell_dir/monstrousPhysique
-- [Move Earth](mythicAdventures/mythicSpell_dir/moveEarth
-- [Murderous Command](mythicAdventures/mythicSpell_dir/murderousCommand
+- [Mage Armor](mythicAdventures/mythicSpell_dir/mageArmor)
+- [Mage's Disjunction](mythicAdventures/mythicSpell_dir/magesDisjunction)
+- [Magic Fang](mythicAdventures/mythicSpell_dir/magicFang)
+- [Magic Missle](mythicAdventures/mythicSpell_dir/magicMissle)
+- [Magic Vestment](mythicAdventures/mythicSpell_dir/magicVestment)
+- [Magic Weapon, Greater](mythicAdventures/mythicSpell_dir/magicWeaponGreater)
+- [Make Whole](mythicAdventures/mythicSpell_dir/makeWhole)
+- [Maze](mythicAdventures/mythicSpell_dir/maze)
+- [Memory Lapse](mythicAdventures/mythicSpell_dir/memoryLapse)
+- [Meteor Swarm](mythicAdventures/mythicSpell_dir/meteorSwarm)
+- [Mighty Fist of the Earth](mythicAdventures/mythicSpell_dir/mightyFistOfTheEarth)
+- [Mirror Image](mythicAdventures/mythicSpell_dir/mirrorImage)
+- [Mislead](mythicAdventures/mythicSpell_dir/mislead)
+- [Modify Memory](mythicAdventures/mythicSpell_dir/modifyMemory)
+- [Monstrous Physique](mythicAdventures/mythicSpell_dir/monstrousPhysique)
+- [Move Earth](mythicAdventures/mythicSpell_dir/moveEarth)
+- [Murderous Command](mythicAdventures/mythicSpell_dir/murderousCommand)
 
-- [Named Bullet](mythicAdventures/mythicSpell_dir/namedBullet
-- [Nightmare](mythicAdventures/mythicSpell_dir/nightmare
+- [Named Bullet](mythicAdventures/mythicSpell_dir/namedBullet)
+- [Nightmare](mythicAdventures/mythicSpell_dir/nightmare)
 
-- [Oath of Peace](mythicAdventures/mythicSpell_dir/oathOfPeace
-- [Obscuring Mist](mythicAdventures/mythicSpell_dir/obscuringMist
-- [Orb of the Void](mythicAdventures/mythicSpell_dir/orbOfTheVoid
-- [Order's Wrath](mythicAdventures/mythicSpell_dir/ordersWrath
+- [Oath of Peace](mythicAdventures/mythicSpell_dir/oathOfPeace)
+- [Obscuring Mist](mythicAdventures/mythicSpell_dir/obscuringMist)
+- [Orb of the Void](mythicAdventures/mythicSpell_dir/orbOfTheVoid)
+- [Order's Wrath](mythicAdventures/mythicSpell_dir/ordersWrath)
 
-- [Pernicious Poison](mythicAdventures/mythicSpell_dir/perniciousPoison
-- [Phantasmal Killer](mythicAdventures/mythicSpell_dir/phantasmalKiller
-- [Phantom Steed](mythicAdventures/mythicSpell_dir/phantomSteed
-- [Pillar of Life](mythicAdventures/mythicSpell_dir/pillarOfLife
-- [Plane Shift](mythicAdventures/mythicSpell_dir/planeShift
-- [Polar Ray](mythicAdventures/mythicSpell_dir/polarRay
-- [Power Word Blind](mythicAdventures/mythicSpell_dir/powerWordBlind
-- [Power Word Kill](mythicAdventures/mythicSpell_dir/powerWordKill
-- [Power Word Stun](mythicAdventures/mythicSpell_dir/powerWordStun
-- [Pox Pustules](mythicAdventures/mythicSpell_dir/poxPustules
-- [Prayer](mythicAdventures/mythicSpell_dir/prayer
-- [Prismatic Sphere](mythicAdventures/mythicSpell_dir/prismaticSphere
-- [Prismatic Spray](mythicAdventures/mythicSpell_dir/prismaticSpray
-- [Protection from Chaos](mythicAdventures/mythicSpell_dir/protectionFrom#_protection-from-chaos-mythic
-- [Protection from Evil](mythicAdventures/mythicSpell_dir/protectionFrom#_protection-from-evil-mythic
-- [Protection from Good](mythicAdventures/mythicSpell_dir/protectionFrom#_protection-from-good-mythic
-- [Protection from Law](mythicAdventures/mythicSpell_dir/protectionFrom#_protection-from-law-mythic
-- [Protection from Arrows](mythicAdventures/mythicSpell_dir/protectionFromArrows
+- [Pernicious Poison](mythicAdventures/mythicSpell_dir/perniciousPoison)
+- [Phantasmal Killer](mythicAdventures/mythicSpell_dir/phantasmalKiller)
+- [Phantom Steed](mythicAdventures/mythicSpell_dir/phantomSteed)
+- [Pillar of Life](mythicAdventures/mythicSpell_dir/pillarOfLife)
+- [Plane Shift](mythicAdventures/mythicSpell_dir/planeShift)
+- [Polar Ray](mythicAdventures/mythicSpell_dir/polarRay)
+- [Power Word Blind](mythicAdventures/mythicSpell_dir/powerWordBlind)
+- [Power Word Kill](mythicAdventures/mythicSpell_dir/powerWordKill)
+- [Power Word Stun](mythicAdventures/mythicSpell_dir/powerWordStun)
+- [Pox Pustules](mythicAdventures/mythicSpell_dir/poxPustules)
+- [Prayer](mythicAdventures/mythicSpell_dir/prayer)
+- [Prismatic Sphere](mythicAdventures/mythicSpell_dir/prismaticSphere)
+- [Prismatic Spray](mythicAdventures/mythicSpell_dir/prismaticSpray)
+- [Protection from Chaos](mythicAdventures/mythicSpell_dir/protectionFrom#_protection-from-chaos-mythic)
+- [Protection from Evil](mythicAdventures/mythicSpell_dir/protectionFrom#_protection-from-evil-mythic)
+- [Protection from Good](mythicAdventures/mythicSpell_dir/protectionFrom#_protection-from-good-mythic)
+- [Protection from Law](mythicAdventures/mythicSpell_dir/protectionFrom#_protection-from-law-mythic)
+- [Protection from Arrows](mythicAdventures/mythicSpell_dir/protectionFromArrows)
 
-- [Ray of Enfeeblement](mythicAdventures/mythicSpell_dir/rayOfEnfeeblement
-- [Reduce Person](mythicAdventures/mythicSpell_dir/reducePerson
-- [Regenerate](mythicAdventures/mythicSpell_dir/regenerate
-- [Repel Wood](mythicAdventures/mythicSpell_dir/repelWood
-- [Resist Energy](mythicAdventures/mythicSpell_dir/resistEnergy
-- [Resonating Word](mythicAdventures/mythicSpell_dir/resonatingWord
-- [Reverse Gravity](mythicAdventures/mythicSpell_dir/reverseGravity
-- [Ricochet Shot](mythicAdventures/mythicSpell_dir/ricochetShot
+- [Ray of Enfeeblement](mythicAdventures/mythicSpell_dir/rayOfEnfeeblement)
+- [Reduce Person](mythicAdventures/mythicSpell_dir/reducePerson)
+- [Regenerate](mythicAdventures/mythicSpell_dir/regenerate)
+- [Repel Wood](mythicAdventures/mythicSpell_dir/repelWood)
+- [Resist Energy](mythicAdventures/mythicSpell_dir/resistEnergy)
+- [Resonating Word](mythicAdventures/mythicSpell_dir/resonatingWord)
+- [Reverse Gravity](mythicAdventures/mythicSpell_dir/reverseGravity)
+- [Ricochet Shot](mythicAdventures/mythicSpell_dir/ricochetShot)
 
-- [Sacred Bond](mythicAdventures/mythicSpell_dir/sacredBond
-- [Sanctify Armor](mythicAdventures/mythicSpell_dir/sanctifyArmor
-- [Sanctuary](mythicAdventures/mythicSpell_dir/sanctuary
-- [Sands of Time](mythicAdventures/mythicSpell_dir/sandsOfTime
-- [Saving Finale](mythicAdventures/mythicSpell_dir/savingFinale
-- [Scorching Ash Form](mythicAdventures/mythicSpell_dir/scorchingAshForm
-- [Scorching Ray](mythicAdventures/mythicSpell_dir/scorchingRay
-- [Scouring Winds](mythicAdventures/mythicSpell_dir/scouringWinds
-- [Searing Light](mythicAdventures/mythicSpell_dir/searingLight
-- [Searing](mythicAdventures/mythicSpell_dir/sending
-- [Shadow Anchor](mythicAdventures/mythicSpell_dir/shadowAnchor
-- [Shadow Weapon](mythicAdventures/mythicSpell_dir/shadowWeapon
-- [Shatter](mythicAdventures/mythicSpell_dir/shatter
-- [Shield of Faith](mythicAdventures/mythicSpell_dir/shieldOfFaith
-- [Shield Other](mythicAdventures/mythicSpell_dir/shieldOther
-- [Shocking Grasp](mythicAdventures/mythicSpell_dir/shockingGrasp
-- [Shout](mythicAdventures/mythicSpell_dir/shout
-- [Silence](mythicAdventures/mythicSpell_dir/silence
-- [Silent Image](mythicAdventures/mythicSpell_dir/silentImage
-- [Sleep](mythicAdventures/mythicSpell_dir/sleep
-- [Slow](mythicAdventures/mythicSpell_dir/slow
-- [Solid Fog](mythicAdventures/mythicSpell_dir/solidFog
-- [Spider Climb](mythicAdventures/mythicSpell_dir/spiderClimb
-- [Spike Stones](mythicAdventures/mythicSpell_dir/spikeStones
-- [Spiritual Weapon](mythicAdventures/mythicSpell_dir/spiritualWeapon
-- [Stinking Cloud](mythicAdventures/mythicSpell_dir/stinkingCloud
-- [Stone Shape](mythicAdventures/mythicSpell_dir/stoneShape
-- [Stoneskin](mythicAdventures/mythicSpell_dir/stoneskin
-- [Storm of Vengeance](mythicAdventures/mythicSpell_dir/stormOfVengeance
-- [Strangling Hair](mythicAdventures/mythicSpell_dir/stranglingHair
-- [Suggestion](mythicAdventures/mythicSpell_dir/suggestion
-- [Summon Swarm](mythicAdventures/mythicSpell_dir/summonSwarm
-- [Sunbeam](mythicAdventures/mythicSpell_dir/sunbeam
-- [Sun Metal](mythicAdventures/mythicSpell_dir/sunMetal
-- [Surmount Affliction](mythicAdventures/mythicSpell_dir/surmountAffliction
+- [Sacred Bond](mythicAdventures/mythicSpell_dir/sacredBond)
+- [Sanctify Armor](mythicAdventures/mythicSpell_dir/sanctifyArmor)
+- [Sanctuary](mythicAdventures/mythicSpell_dir/sanctuary)
+- [Sands of Time](mythicAdventures/mythicSpell_dir/sandsOfTime)
+- [Saving Finale](mythicAdventures/mythicSpell_dir/savingFinale)
+- [Scorching Ash Form](mythicAdventures/mythicSpell_dir/scorchingAshForm)
+- [Scorching Ray](mythicAdventures/mythicSpell_dir/scorchingRay)
+- [Scouring Winds](mythicAdventures/mythicSpell_dir/scouringWinds)
+- [Searing Light](mythicAdventures/mythicSpell_dir/searingLight)
+- [Searing](mythicAdventures/mythicSpell_dir/sending)
+- [Shadow Anchor](mythicAdventures/mythicSpell_dir/shadowAnchor)
+- [Shadow Weapon](mythicAdventures/mythicSpell_dir/shadowWeapon)
+- [Shatter](mythicAdventures/mythicSpell_dir/shatter)
+- [Shield of Faith](mythicAdventures/mythicSpell_dir/shieldOfFaith)
+- [Shield Other](mythicAdventures/mythicSpell_dir/shieldOther)
+- [Shocking Grasp](mythicAdventures/mythicSpell_dir/shockingGrasp)
+- [Shout](mythicAdventures/mythicSpell_dir/shout)
+- [Silence](mythicAdventures/mythicSpell_dir/silence)
+- [Silent Image](mythicAdventures/mythicSpell_dir/silentImage)
+- [Sleep](mythicAdventures/mythicSpell_dir/sleep)
+- [Slow](mythicAdventures/mythicSpell_dir/slow)
+- [Solid Fog](mythicAdventures/mythicSpell_dir/solidFog)
+- [Spider Climb](mythicAdventures/mythicSpell_dir/spiderClimb)
+- [Spike Stones](mythicAdventures/mythicSpell_dir/spikeStones)
+- [Spiritual Weapon](mythicAdventures/mythicSpell_dir/spiritualWeapon)
+- [Stinking Cloud](mythicAdventures/mythicSpell_dir/stinkingCloud)
+- [Stone Shape](mythicAdventures/mythicSpell_dir/stoneShape)
+- [Stoneskin](mythicAdventures/mythicSpell_dir/stoneskin)
+- [Storm of Vengeance](mythicAdventures/mythicSpell_dir/stormOfVengeance)
+- [Strangling Hair](mythicAdventures/mythicSpell_dir/stranglingHair)
+- [Suggestion](mythicAdventures/mythicSpell_dir/suggestion)
+- [Summon Swarm](mythicAdventures/mythicSpell_dir/summonSwarm)
+- [Sunbeam](mythicAdventures/mythicSpell_dir/sunbeam)
+- [Sun Metal](mythicAdventures/mythicSpell_dir/sunMetal)
+- [Surmount Affliction](mythicAdventures/mythicSpell_dir/surmountAffliction)
 
-- [Telekinesis](mythicAdventures/mythicSpell_dir/telekinesis
-- [Theft Ward](mythicAdventures/mythicSpell_dir/theftWard
-- [Time Stop](mythicAdventures/mythicSpell_dir/timeStop
-- [Touch Injection](mythicAdventures/mythicSpell_dir/touchInjection
-- [Transformation](mythicAdventures/mythicSpell_dir/transformation
-- [True Form](mythicAdventures/mythicSpell_dir/trueForm
-- [True Strike](mythicAdventures/mythicSpell_dir/trueStrike
-- [Tsunami](mythicAdventures/mythicSpell_dir/tsunami
+- [Telekinesis](mythicAdventures/mythicSpell_dir/telekinesis)
+- [Theft Ward](mythicAdventures/mythicSpell_dir/theftWard)
+- [Time Stop](mythicAdventures/mythicSpell_dir/timeStop)
+- [Touch Injection](mythicAdventures/mythicSpell_dir/touchInjection)
+- [Transformation](mythicAdventures/mythicSpell_dir/transformation)
+- [True Form](mythicAdventures/mythicSpell_dir/trueForm)
+- [True Strike](mythicAdventures/mythicSpell_dir/trueStrike)
+- [Tsunami](mythicAdventures/mythicSpell_dir/tsunami)
 
-- [Unholy Blight](mythicAdventures/mythicSpell_dir/unholyBlight
-- [Unshakable Chill](mythicAdventures/mythicSpell_dir/unshakableChill
+- [Unholy Blight](mythicAdventures/mythicSpell_dir/unholyBlight)
+- [Unshakable Chill](mythicAdventures/mythicSpell_dir/unshakableChill)
 
-- [Vampiric Touch](mythicAdventures/mythicSpell_dir/vampiricTouch
-- [Vomit Twin](mythicAdventures/mythicSpell_dir/vomitTwin
+- [Vampiric Touch](mythicAdventures/mythicSpell_dir/vampiricTouch)
+- [Vomit Twin](mythicAdventures/mythicSpell_dir/vomitTwin)
 
-- [Walk Through Space](mythicAdventures/mythicSpell_dir/walkThroughSpace
-- [Wall of Fire](mythicAdventures/mythicSpell_dir/wallOfFire
-- [Wall of Force](mythicAdventures/mythicSpell_dir/wallOfForce
-- [Wall of Ice](mythicAdventures/mythicSpell_dir/wallOfIce
-- [Wall of Iron](mythicAdventures/mythicSpell_dir/wallOfIron
-- [Wall of Stone](mythicAdventures/mythicSpell_dir/wallOfStone
-- [Wall of Thorns](mythicAdventures/mythicSpell_dir/wallOfThorns
-- [Web](mythicAdventures/mythicSpell_dir/web
-- [Whirlwind](mythicAdventures/mythicSpell_dir/whirlwind
-- [Wish](mythicAdventures/mythicSpell_dir/wish
-- [Word of Chaos](mythicAdventures/mythicSpell_dir/wordOfChaos
+- [Walk Through Space](mythicAdventures/mythicSpell_dir/walkThroughSpace)
+- [Wall of Fire](mythicAdventures/mythicSpell_dir/wallOfFire)
+- [Wall of Force](mythicAdventures/mythicSpell_dir/wallOfForce)
+- [Wall of Ice](mythicAdventures/mythicSpell_dir/wallOfIce)
+- [Wall of Iron](mythicAdventures/mythicSpell_dir/wallOfIron)
+- [Wall of Stone](mythicAdventures/mythicSpell_dir/wallOfStone)
+- [Wall of Thorns](mythicAdventures/mythicSpell_dir/wallOfThorns)
+- [Web](mythicAdventures/mythicSpell_dir/web)
+- [Whirlwind](mythicAdventures/mythicSpell_dir/whirlwind)
+- [Wish](mythicAdventures/mythicSpell_dir/wish)
+- [Word of Chaos](mythicAdventures/mythicSpell_dir/wordOfChaos)
 

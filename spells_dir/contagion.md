@@ -1,5 +1,5 @@
 ---
-title: spells/contagion
+title: spell_dir/contagion
 ---
  **Contagion**
 

@@ -1,5 +1,5 @@
 ---
-title: mastery/nPCGallery/royalty
+title: master_dir/nPCGallery/royalty
 ---
 # Royalty
 
@@ -19,7 +19,7 @@ N Medium humanoid
 
 **AC** 20, touch 14, flat-footed 16 (+5 armor, +3 Dex, +1 dodge, +1 shield)
 
-**hp** 40 (8d8+4
+**hp** 40 (8d8+4)
 
 **Fort** +3, **Ref** +6, **Will** +6
 
@@ -39,19 +39,19 @@ N Medium humanoid
 
 **Feats** [Dodge](../../feats#_dodge), [Mobility](../../feats#_mobility), [Two-Weapon Defense](../../feats#_two-weapon-defense), [Two-Weapon Fighting](../../feats#_two-weapon-fighting), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Bluff](../../skill_dir/bluff#_bluff +13, [Diplomacy](../../skill_dir/diplomacy#_diplomacy +13, [Disguise](../../skill_dir/disguise#_disguise +13, [Escape Artist](../../skill_dir/escapeArtist#_escape-artist +4, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +8, [Intimidate](../../skill_dir/intimidate#_intimidate +13, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility +10, [Perception](../../skill_dir/perception#_perception +8, [Perform](../../skill_dir/perform#_perform) (dance +10, [Perform](../../skill_dir/perform#_perform) (string +10, [Ride](../../skill_dir/ride#_ride +8, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +5, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand +4, [Stealth](../../skill_dir/stealth#_stealth +4
+**Skills** [Bluff](../../skill_dir/bluff#_bluff) +13, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +13, [Disguise](../../skill_dir/disguise#_disguise) +13, [Escape Artist](../../skill_dir/escapeArtist#_escape-artist) +4, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +8, [Intimidate](../../skill_dir/intimidate#_intimidate) +13, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) +10, [Perception](../../skill_dir/perception#_perception) +8, [Perform](../../skill_dir/perform#_perform) (dance) +10, [Perform](../../skill_dir/perform#_perform) (string) +10, [Ride](../../skill_dir/ride#_ride) +8, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +5, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +4, [Stealth](../../skill_dir/stealth#_stealth) +4
 
 **Languages** Common, Elven
 
-**Gear** _+1 chain shirt_, masterwork rapier, masterwork dagger, _ [circlet of persuasion](../../magicItem_dir/wondrousItems#_circlet-of-persuasion_, _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance +1_, disguise kit
+**Gear** _+1 chain shirt_, masterwork rapier, masterwork dagger, _ [circlet of persuasion](../../magicItem_dir/wondrousItems#_circlet-of-persuasion)_, _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, disguise kit
 
-**Boon** A princess can make a gift to PCs of up to a 300 gp value or get PCs out of minor legal trouble. A princess can also arrange a meeting with her royal parent, a knight, a noble, a minstrel or celebrity bard, or a merchant prince whose favor she has, with a +5 circumstance bonus on [Diplomacy](../../skill_dir/diplomacy#_diplomacy checks with them.
+**Boon** A princess can make a gift to PCs of up to a 300 gp value or get PCs out of minor legal trouble. A princess can also arrange a meeting with her royal parent, a knight, a noble, a minstrel or celebrity bard, or a merchant prince whose favor she has, with a +5 circumstance bonus on [Diplomacy](../../skill_dir/diplomacy#_diplomacy) checks with them.
 
-A princess is occasionally a ruler in her own right but is most often the daughter of a king an_dir/or queen. In many societies, princesses come behind any princely brothers in the line of succession, and may even be treated like a commodity to be brokered between noble houses through marriage alliances. Small wonder, then, that princesses often find ways of sneaking away from their gilded homes and out into the world to find a taste of adventure.
+A princess is occasionally a ruler in her own right but is most often the daughter of a king and/or queen. In many societies, princesses come behind any princely brothers in the line of succession, and may even be treated like a commodity to be brokered between noble houses through marriage alliances. Small wonder, then, that princesses often find ways of sneaking away from their gilded homes and out into the world to find a taste of adventure.
 
 Naturally, a princess's stats can also be used to model any high-level noble, male or female. Princesses also make good aristocratic duelists, perhaps joining together in a noble “gangs” of four members (CR 10).
 
-A princess may be accompanied by four female noble scions as her ladies-in waiting or noble-born friends (CR 8), or by her mother and father, the king and queen (CR 15). Alone, a princess may keep a guard officer bodyguard (CR 7) or battle monk for protection (CR 8), possibly adding a minstrel as well for the company (CR 8 or 9.
+A princess may be accompanied by four female noble scions as her ladies-in waiting or noble-born friends (CR 8), or by her mother and father, the king and queen (CR 15). Alone, a princess may keep a guard officer bodyguard (CR 7) or battle monk for protection (CR 8), possibly adding a minstrel as well for the company (CR 8 or 9).
 
 **Queen CR 10**
 
@@ -67,7 +67,7 @@ N Medium humanoid
 
 **AC** 12, touch 11, flat-footed 11 (+1 armor, +1 Dex)
 
-**hp** 54 (12d8
+**hp** 54 (12d8)
 
 **Fort** +6, **Ref** +7, **Will** +14
 
@@ -85,13 +85,13 @@ N Medium humanoid
 
 **Base Atk** +9; **CMB** +8; **CMD** 22
 
-**Feats** [Alertness](../../feats#_alertness), [Defensive Combat Training](../../feats#_defensive-combat-training), [Improved Initiative](../../feats#_improved-initiative), [Improved Iron Will](../../feats#_improved-iron-will), [Iron Will](../../feats#_iron-will), [Persuasive](../../feats#_persuasive), [Skill Focus](../../feats#_skill-focus) ( [Sense Motive](../../skill_dir/senseMotive#_sense-motive)
+**Feats** [Alertness](../../feats#_alertness), [Defensive Combat Training](../../feats#_defensive-combat-training), [Improved Initiative](../../feats#_improved-initiative), [Improved Iron Will](../../feats#_improved-iron-will), [Iron Will](../../feats#_iron-will), [Persuasive](../../feats#_persuasive), [Skill Focus](../../feats#_skill-focus) ( [Sense Motive](../../skill_dir/senseMotive#_sense-motive))
 
-**Skills** [Bluff](../../skill_dir/bluff#_bluff +14, [Diplomacy](../../skill_dir/diplomacy#_diplomacy +22, [Intimidate](../../skill_dir/intimidate#_intimidate +22, [Knowledge](../../skill_dir/knowledge#_knowledge) (history +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility +16, [Linguistics](../../skill_dir/linguistics#_linguistics +5, [Perception](../../skill_dir/perception#_perception +19, [Perform](../../skill_dir/perform#_perform) (dance +9, [Perform](../../skill_dir/perform#_perform) (sing +9, [Perform](../../skill_dir/perform#_perform) (string +9, [Ride](../../skill_dir/ride#_ride +6, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +27
+**Skills** [Bluff](../../skill_dir/bluff#_bluff) +14, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +22, [Intimidate](../../skill_dir/intimidate#_intimidate) +22, [Knowledge](../../skill_dir/knowledge#_knowledge) (history) +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) +16, [Linguistics](../../skill_dir/linguistics#_linguistics) +5, [Perception](../../skill_dir/perception#_perception) +19, [Perform](../../skill_dir/perform#_perform) (dance) +9, [Perform](../../skill_dir/perform#_perform) (sing) +9, [Perform](../../skill_dir/perform#_perform) (string) +9, [Ride](../../skill_dir/ride#_ride) +6, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +27
 
 **Languages** Common, Draconic, Elven
 
-**Gear** masterwork dagger, _ [bracers of armor](../../magicItem_dir/wondrousItems#_bracers-of-armor +1_, _ [brooch of shielding](../../magicItem_dir/wondrousItems#_brooch-of-shielding_, _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance +2_,_ [elixir of truth](../../magicItem_dir/wondrousItems#_elixir-of-truth_, _ [elixir of vision](../../magicItem_dir/wondrousItems#_elixir-of-vision_, _ [figurine of wondrous power](../../magicItem_dir/wondrousItems#_figurines-of-wondrous-power)_ (silver raven, _ [headband of mental prowess](../../magicItem_dir/wondrousItems#_headband-of-mental-prowess) +2 _(Wis, Cha
+**Gear** masterwork dagger, _ [bracers of armor](../../magicItem_dir/wondrousItems#_bracers-of-armor) +1_, _ [brooch of shielding](../../magicItem_dir/wondrousItems#_brooch-of-shielding)_, _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance) +2_,_ [elixir of truth](../../magicItem_dir/wondrousItems#_elixir-of-truth)_, _ [elixir of vision](../../magicItem_dir/wondrousItems#_elixir-of-vision)_, _ [figurine of wondrous power](../../magicItem_dir/wondrousItems#_figurines-of-wondrous-power)_ (silver raven), _ [headband of mental prowess](../../magicItem_dir/wondrousItems#_headband-of-mental-prowess) +2 _(Wis, Cha)
 
 **Boon** A queen can arrange an audience with any noble in her land, including the king, and her favor provides a +10 bonus on [Diplomacy](../../skill_dir/diplomacy#_diplomacy) checks with them. A queen who rules in her own name can also grant knighthoods, lordships, and dispense royal justice as a king.
 
@@ -99,7 +99,7 @@ A queen may be a monarch in her own right, or may be the wife of a king. Even in
 
 In countries or empires with a large number of titled families, a queen could simply be a duchess, baroness, or head of a great noble house, without royal privilege. A queen might also be used as a spymistress or the conniving seductress who holds the reins of power behind the throne.
 
-Queens are often accompanied by a knight or sellsword bodyguard (CR 11), or four princesses or two nobles serving as their ladies-in-waiting (CR 12). A queen might also have a celebrity bard with her, or a priest and noble as her advisors (CR 12). A queen may often be found with her husband, the king, along with their royal guardsmen, either eight guards or four guard officers (CR 15.
+Queens are often accompanied by a knight or sellsword bodyguard (CR 11), or four princesses or two nobles serving as their ladies-in-waiting (CR 12). A queen might also have a celebrity bard with her, or a priest and noble as her advisors (CR 12). A queen may often be found with her husband, the king, along with their royal guardsmen, either eight guards or four guard officers (CR 15).
 
 **King CR 14**
 
@@ -115,7 +115,7 @@ N Medium humanoid
 
 **AC** 20, touch 10, flat-footed 20 (+10 armor)
 
-**hp** 80 (16d8+8
+**hp** 80 (16d8+8)
 
 **Fort** +7, **Ref** +5, **Will** +10
 
@@ -133,13 +133,13 @@ N Medium humanoid
 
 **Base Atk** +12; **CMB** +13; **CMD** 27
 
-**Feats** [Alertness](../../feats#_alertness), [Defensive Combat Training](../../feats#_defensive-combat-training), [Great Fortitude](../../feats#_great-fortitude), [Improved Great Fortitude](../../feats#_improved-great-fortitude), [Improved Vital Strike](../../feats#_improved-vital-strike), [Mounted Combat](../../feats#_mounted-combat), [Persuasive](../../feats#_persuasive), [Skill Focus](../../feats#_skill-focus) ( [Diplomacy](../../skill_dir/diplomacy#_diplomacy), [Vital Strike](../../feats#_vital-strike)
+**Feats** [Alertness](../../feats#_alertness), [Defensive Combat Training](../../feats#_defensive-combat-training), [Great Fortitude](../../feats#_great-fortitude), [Improved Great Fortitude](../../feats#_improved-great-fortitude), [Improved Vital Strike](../../feats#_improved-vital-strike), [Mounted Combat](../../feats#_mounted-combat), [Persuasive](../../feats#_persuasive), [Skill Focus](../../feats#_skill-focus) ( [Diplomacy](../../skill_dir/diplomacy#_diplomacy)), [Vital Strike](../../feats#_vital-strike)
 
-**Skills** [Bluff](../../skill_dir/bluff#_bluff +15, [Diplomacy](../../skill_dir/diplomacy#_diplomacy +32, [Intimidate](../../skill_dir/intimidate#_intimidate +26, [Knowledge](../../skill_dir/knowledge#_knowledge) (geography +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility +15, [Linguistics](../../skill_dir/linguistics#_linguistics +8, [Perception](../../skill_dir/perception#_perception +13, [Perform](../../skill_dir/perform#_perform) (oratory +22, [Ride](../../skill_dir/ride#_ride +14, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +23
+**Skills** [Bluff](../../skill_dir/bluff#_bluff) +15, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +32, [Intimidate](../../skill_dir/intimidate#_intimidate) +26, [Knowledge](../../skill_dir/knowledge#_knowledge) (geography) +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) +15, [Linguistics](../../skill_dir/linguistics#_linguistics) +8, [Perception](../../skill_dir/perception#_perception) +13, [Perform](../../skill_dir/perform#_perform) (oratory) +22, [Ride](../../skill_dir/ride#_ride) +14, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +23
 
 **Languages** Common, Dwarven, Elven, Gnome, Halfling, Sylvan
 
-**Combat Gear** smokestick; **Other Gear** _+1 [glamered](../../magicItem_dir/armor#_armor-glamered full plate of [light](../../spell_dir/light#_light [fortification](../../magicItem_dir/armor#_armor-fortification_, _+1 longsword_, masterwork dagger, _ [cape of the mountebank](../../magicItem_dir/wondrousItems#_cape-of-the-mountebank_, _ [medallion of thoughts](../../magicItem_dir/wondrousItems#_medallion-of-thoughts_, _ [rod of splendor](../../magicItem_dir/rods#_rod-of-splendor)_
+**Combat Gear** smokestick; **Other Gear** _+1 [glamered](../../magicItem_dir/armor#_armor-glamered) full plate of [light](../../spell_dir/light#_light) [fortification](../../magicItem_dir/armor#_armor-fortification)_, _+1 longsword_, masterwork dagger, _ [cape of the mountebank](../../magicItem_dir/wondrousItems#_cape-of-the-mountebank)_, _ [medallion of thoughts](../../magicItem_dir/wondrousItems#_medallion-of-thoughts)_, _ [rod of splendor](../../magicItem_dir/rods#_rod-of-splendor)_
 
 **Boon** A king can grant knighthood or even lordship, along with lands and titles, if sufficient service is rendered to the kingdom. A king may also pardon criminals or order the exile or execution of the guilty. He can grant a monetary reward of up to 1,000 gp to PCs.
 
@@ -147,5 +147,5 @@ A king is the ruler of a nation, usually a hereditary monarch schooled in the ar
 
 A king can also be used as a high-ranking general or powerful warlord, or even a wealthy and influential captain of industry.
 
-A king usually has a retinue of four knights (CR 15) but may travel with a dozen knights in times of war (CR 16). Kings may also be found in the company of a general, two noble advisors, and a high priest (CR 16). At court, a group of 10 nobles and a merchant prince might try to gain the favor of a king and his queen (CR 17). A king who fears for his safety while traveling in disguise might have two champions with him as bodyguards (CR 15.
+A king usually has a retinue of four knights (CR 15) but may travel with a dozen knights in times of war (CR 16). Kings may also be found in the company of a general, two noble advisors, and a high priest (CR 16). At court, a group of 10 nobles and a merchant prince might try to gain the favor of a king and his queen (CR 17). A king who fears for his safety while traveling in disguise might have two champions with him as bodyguards (CR 15).
 

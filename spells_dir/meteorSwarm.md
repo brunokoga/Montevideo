@@ -1,5 +1,5 @@
 ---
-title: spells/meteorSwarm
+title: spell_dir/meteorSwarm
 ---
  **Meteor Swarm**
 

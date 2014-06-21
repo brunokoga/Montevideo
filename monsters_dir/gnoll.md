@@ -9,7 +9,7 @@ _Hunched and feral, this furred, hyena-headed humanoid stands slightly taller th
 
 **XP 400**
 
-CE Medium [humanoid](creatureTypes#_humanoid) (gnoll
+CE Medium [humanoid](creatureTypes#_humanoid) (gnoll)
 
 **Init** +0; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +2
 
@@ -17,7 +17,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) (gnoll
 
 **AC** 15, touch 10, flat-footed 15 (+2 armor, +1 natural, +2 shield)
 
-**hp** 11 (2d8+2
+**hp** 11 (2d8+2)
 
 **Fort** +4, **Ref** +0, **Will** +0
 
@@ -47,7 +47,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) (gnoll
 
 **Organization** solitary, pair, hunting party (2–5 gnolls and 1–2 hyenas), band (10–100 adults plus 50% noncombatant children, 1 sergeant of 3rd level per 20 adults, 1 leader of 4th–6th level, and 5–8 hyenas), or tribe (20–200 plus 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th–8th level, 7–12 hyenas, and 4–7 hyaenodons)
 
-**Treasure** NPC Gear (leather armor, heavy wooden shield, battleaxe, longbow with 20 arrows, other treasure
+**Treasure** NPC Gear (leather armor, heavy wooden shield, battleaxe, longbow with 20 arrows, other treasure)
 
 Gnolls are a race of hulking, humanoids that resemble hyenas in more than mere appearance; they show a striking affinity with the scavenging animals, to the point of keeping them as pets, and reflect many of the lesser creatures' behaviors.
 

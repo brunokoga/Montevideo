@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/stealVoice
+title: ultimateMagi_dir/spells/stealVoice
 ---
 Steal Voice
 
-**School** necromancy; **Level** bard 2, sorcerer/wizard 2, witch 2
+**School** necromancy; **Level** bard 2, sorcere_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ Steal Voice
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-The target's throat constricts, giving it the [caster croak spellblight](../magi_dir/spellblights#_caster-croak.
+The target's throat constricts, giving it the [caster croak spellblight](../magi_dir/spellblights#_caster-croak).
 

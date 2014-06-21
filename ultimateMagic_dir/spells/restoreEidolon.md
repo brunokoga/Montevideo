@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spell_dir/restoreEidolon
+title: ultimateMagi_dir/spells/restoreEidolon
 ---
 Restore Eidolon
 
@@ -15,7 +15,7 @@ Restore Eidolon
 
 **Duration** instantaneous
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 This spell functions as _ [restoration](spell_dir/restoration#_restoration)_, except it only affects an eidolon.
 
@@ -33,7 +33,7 @@ Restore Eidolon, Lesser
 
 **Duration** instantaneous
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as _ [lesser restoration](spell_dir/restoration#_restoration-lesser_, except it only affects an eidolon.
+This spell functions as _ [lesser restoration](spells/restoration#_restoration-lesser)_, except it only affects an eidolon.
 

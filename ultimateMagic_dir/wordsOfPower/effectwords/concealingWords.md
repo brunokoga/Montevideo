@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/wordsOfPower/effectword_dir/concealingWords
+title: ultimateMagi_dir/wordsOfPower/effectword_dir/concealingWords
 ---
 ## Concealing Words
 
@@ -7,7 +7,7 @@ Words from this family hide creatures and objects from observation and detection
 
 Fade (Concealing)
 
-**School** illusion (glamer; **Level** alchemist 1, bard 1, inquisitor 1, magus 1, sorcere_dir/wizard 1, summoner 1, witch 1
+**School** illusion (glamer); **Level** alchemist 1, bard 1, inquisitor 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1
 
 **Duration** 1 round
 
@@ -21,9 +21,9 @@ The target of a wordspell with this effect word becomes invisible until the begi
 
 Disappear (Concealing)
 
-**School** illusion (glamer; **Level** alchemist 2, bard 2, inquisitor 2, magus 2, sorcerer/wizard 2, summoner 2, witch 2
+**School** illusion (glamer); **Level** alchemist 2, bard 2, inquisitor 2, magus 2, sorcere_dir/wizard 2, summoner 2, witch 2
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -35,13 +35,13 @@ This effect word functions as _fade_, but with a longer duration.
 
 Unseen Shell (Concealing)
 
-**School** illusion (glamer; **Level** bard 4, sorcerer/wizard 4, witch 4
+**School** illusion (glamer); **Level** bard 4, sorcere_dir/wizard 4, witch 4
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-**Target Restrictions** _burst_ (emanation
+**Target Restrictions** _burst_ (emanation)
 
 When cast, a wordspell with this effect word makes any objects or creatures designated by the caster within the area invisible so long as they remain in the area and do not attack or otherwise take offensive actions. All possessions carried by the creatures remain invisible as long as they remain in the area, so an arrow fired from a bow would become visible when it leaves the area.
 

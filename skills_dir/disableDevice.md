@@ -1,5 +1,5 @@
 ---
-title: skills/disableDevice
+title: skill_dir/disableDevice
 ---
 # Disable Device
 

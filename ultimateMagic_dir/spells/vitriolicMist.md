@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/vitriolicMist
+title: ultimateMagi_dir/spells/vitriolicMist
 ---
 Vitriolic Mist
 
@@ -7,13 +7,13 @@ Vitriolic Mist
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a piece of lemon rind
+**Components** V, S, M (a piece of lemon rind)
 
 **Range** personal
 
 **Target** you
 
-**Duration** 1 roun_dir/level (D
+**Duration** 1 round/level (D)
 
-This functions as _ [fire shield](spell_dir/fireShield#_fire-shield_, except it wreathes you in yellow or green acidic mist instead of hot or cold flames. The spell deals acid damage to attackers and protects you against acid damage. This spell does not shed light.
+This functions as _ [fire shield](spell_dir/fireShield#_fire-shield)_, except it wreathes you in yellow or green acidic mist instead of hot or cold flames. The spell deals acid damage to attackers and protects you against acid damage. This spell does not shed light.
 

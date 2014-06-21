@@ -1,5 +1,5 @@
 ---
-title: spells/miracle
+title: spell_dir/miracle
 ---
  **Miracle**
 

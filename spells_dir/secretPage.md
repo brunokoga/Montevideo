@@ -1,13 +1,13 @@
 ---
-title: spells/secretPage
+title: spell_dir/secretPage
 ---
  **Secret Page**
 
-**School** transmutation; **Level** bard 3, sorcere_dir/wizard 3
+**School** transmutation; **Level** bard 3, sorcerer/wizard 3
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M (powdered herring scales and a vial of will-o'-wisp essence
+**Components** V, S, M (powdered herring scales and a vial of will-o'-wisp essence)
 
 **Range** touch
 

@@ -1,5 +1,5 @@
 ---
-title: mastery/nPCGallery/nobles
+title: master_dir/nPCGallery/nobles
 ---
 # Nobles
 
@@ -19,7 +19,7 @@ N Medium humanoid
 
 **AC** 17, touch 11, flat-footed 16 (+4 armor, +1 Dex, +2 shield)
 
-**hp** 20 (4d8+2
+**hp** 20 (4d8+2)
 
 **Fort** +1, **Ref** +2, **Will** +3
 
@@ -39,19 +39,19 @@ N Medium humanoid
 
 **Feats** [Mounted Combat](../../feats#_mounted-combat), [Ride-By Attack](../../feats#_ride-by-attack), [Trample](../../feats#_trample)
 
-**Skills** [Bluff](../../skill_dir/bluff#_bluff +5, [Diplomacy](../../skill_dir/diplomacy#_diplomacy +8, [Intimidate](../../skill_dir/intimidate#_intimidate +8, [Knowledge](../../skill_dir/knowledge#_knowledge) (history +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility +5, [Linguistics](../../skill_dir/linguistics#_linguistics +5, [Perception](../../skill_dir/perception#_perception +3, [Perform](../../skill_dir/perform#_perform) (dance +5, [Ride](../../skill_dir/ride#_ride +6, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +3
+**Skills** [Bluff](../../skill_dir/bluff#_bluff) +5, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +8, [Intimidate](../../skill_dir/intimidate#_intimidate) +8, [Knowledge](../../skill_dir/knowledge#_knowledge) (history) +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) +5, [Linguistics](../../skill_dir/linguistics#_linguistics) +5, [Perception](../../skill_dir/perception#_perception) +3, [Perform](../../skill_dir/perform#_perform) (dance) +5, [Ride](../../skill_dir/ride#_ride) +6, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +3
 
 **Languages** Common
 
-**Combat Gear** _potion of [invisibility](../../spell_dir/invisibility#_invisibility)_; **Other Gear** masterwork chain shirt, masterwork heavy steel shield, masterwork lance, masterwork longsword, dagger, shortbow with 20 arrows, noble outfit, light horse (combat trained with military saddle and studded leather barding, 32 gp
+**Combat Gear** _potion of [invisibility](../../spell_dir/invisibility#_invisibility)_; **Other Gear** masterwork chain shirt, masterwork heavy steel shield, masterwork lance, masterwork longsword, dagger, shortbow with 20 arrows, noble outfit, light horse (combat trained) with military saddle and studded leather barding, 32 gp
 
-**Boon** A noble scion might pass on an especially juicy bit of palace gossip, granting a +5 bonus on a [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility check or [Diplomacy](../../skill_dir/diplomacy#_diplomacy) check to gather information, or could arrange a face-to-face meeting with a noble, prince, or princess.
+**Boon** A noble scion might pass on an especially juicy bit of palace gossip, granting a +5 bonus on a [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) check or [Diplomacy](../../skill_dir/diplomacy#_diplomacy) check to gather information, or could arrange a face-to-face meeting with a noble, prince, or princess.
 
 Noble scions are the haughty and proud offspring of aristocratic sires, full of the fresh vigor of youth and all the hauteur of those born in a manor. They have received fine education and know a modicum of social graces, but typically practice them only when other highborn are present. Noble scions are scornful of commoners and vagabonds, who return the sentiment toward these peacocks strutting in their finery.
 
 If used as minor court functionaries and sycophants, noble scions can be sources of palace gossip and intrigue. They can also be used as experienced squires who have not yet risen to the knighthood, or as aristocratic cavalry.
 
-A noble scion might be appointed to lead a lance of cavarly (CR 9). A pair of noble scions might dog the footsteps of a princess (CR 7), three noble scions could make up a knight's entourage (CR 8), or eight noble scions can form a gang of rakes with a noble (CR 10.
+A noble scion might be appointed to lead a lance of cavarly (CR 9). A pair of noble scions might dog the footsteps of a princess (CR 7), three noble scions could make up a knight's entourage (CR 8), or eight noble scions can form a gang of rakes with a noble (CR 10).
 
 **Knight CR 7**
 
@@ -69,7 +69,7 @@ LG Medium humanoid
 
 **AC** 23, touch 11, flat-footed 22 (+10 armor, +1 Dex, +2 shield)
 
-**hp** 61 (8 HD; 2d8+6d10+19
+**hp** 61 (8 HD; 2d8+6d10+19)
 
 **Fort** +9, **Ref** +5, **Will** +9;
 
@@ -89,9 +89,9 @@ LG Medium humanoid
 
 At will—_ [detect evil](../../spell_dir/detectEvil#_detect-evil)_
 
-**Spells Prepared** (CL 3rd; concentration +5
+**Spells Prepared** (CL 3rd; concentration +5)
 
-1st—_ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_, _ [divine favor](../../spell_dir/divineFavor#_divine-favor_
+1st—_ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_, _ [divine favor](../../spell_dir/divineFavor#_divine-favor)_
 
 **Statistics**
 
@@ -101,17 +101,17 @@ At will—_ [detect evil](../../spell_dir/detectEvil#_detect-evil)_
 
 **Feats** [Improved Bull Rush](../../feats#_improved-bull-rush), [Mounted Combat](../../feats#_mounted-combat), [Power Attack](../../feats#_power-attack), [Ride-By Attack](../../feats#_ride-by-attack), [Unseat](../../feats#_unseat)
 
-**Skills** [Diplomacy](../../skill_dir/diplomacy#_diplomacy +10, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +8, [Heal](../../skill_dir/heal#_heal +5, [Knowledge](../../skill_dir/knowledge#_knowledge) (history +5, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility +5, [Linguistics](../../skill_dir/linguistics#_linguistics +5, [Perception](../../skill_dir/perception#_perception +5, [Ride](../../skill_dir/ride#_ride +6, [Survival](../../skill_dir/survival#_survival) +5
+**Skills** [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +10, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +8, [Heal](../../skill_dir/heal#_heal) +5, [Knowledge](../../skill_dir/knowledge#_knowledge) (history) +5, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) +5, [Linguistics](../../skill_dir/linguistics#_linguistics) +5, [Perception](../../skill_dir/perception#_perception) +5, [Ride](../../skill_dir/ride#_ride) +6, [Survival](../../skill_dir/survival#_survival) +5
 
 **Languages** Celestial, Common, Sylvan
 
-**SQ** aura of good, divine bond (heavy horse, lay on hands (3d6, 5/day), mercies (fatigued, shaken)
+**SQ** aura of good, divine bond (heavy horse), lay on hands (3d6, 5/day), mercies (fatigued, shaken)
 
 **Gear** _+1 full plate_, masterwork heavy steel shield, _+1 longsword_, masterwork lance, dagger, silver holy symbol, heavy horse (combat trained) with chain shirt barding and military saddle, 420 gp
 
 **Boon** A knight can vouch for a PC, the knight's sterling reputation enabling the character to avoid or lessen a punishment. The knight can also grant a character entry into a tourney or a meeting with his liege with a +5 bonus on one [Diplomacy](../../skill_dir/diplomacy#_diplomacy) check.
 
-Knights are noble warriors, proud of bearing and lineage and yet humble in service to their liege. Though merciful and generous of spirit, a true knight is always ready to level lance or bare steel in pursuit of justice and to protect the innocent. Knights may also serve as local lord-stewards, judges, or fortress commanders. Knights are usually found singly or accompanied by a squire, escorting a pair of pilgrims (CR 8), guarding two nobles (CR 11), or leading a lance of four cavalry (CR 10.
+Knights are noble warriors, proud of bearing and lineage and yet humble in service to their liege. Though merciful and generous of spirit, a true knight is always ready to level lance or bare steel in pursuit of justice and to protect the innocent. Knights may also serve as local lord-stewards, judges, or fortress commanders. Knights are usually found singly or accompanied by a squire, escorting a pair of pilgrims (CR 8), guarding two nobles (CR 11), or leading a lance of four cavalry (CR 10).
 
 **Noble CR 8**
 
@@ -127,7 +127,7 @@ N Medium humanoid
 
 **AC** 19, touch 13, flat-footed 16 (+5 armor, +2 Dex, +1 dodge, +1 shield)
 
-**hp** 60 (10d8+15
+**hp** 60 (10d8+15)
 
 **Fort** +5, **Ref** +6, **Will** +8
 
@@ -145,19 +145,19 @@ N Medium humanoid
 
 **Base Atk** +7; **CMB** +6; **CMD** 19
 
-**Feats** [Dodge](../../feats#_dodge), [Mobility](../../feats#_mobility), [Persuasive](../../feats#_persuasive), [Skill Focus](../../feats#_skill-focus) ( [Diplomacy](../../skill_dir/diplomacy#_diplomacy), [Vital Strike](../../feats#_vital-strike), [Weapon Finesse](../../feats#_weapon-finesse)
+**Feats** [Dodge](../../feats#_dodge), [Mobility](../../feats#_mobility), [Persuasive](../../feats#_persuasive), [Skill Focus](../../feats#_skill-focus) ( [Diplomacy](../../skill_dir/diplomacy#_diplomacy)), [Vital Strike](../../feats#_vital-strike), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Bluff](../../skill_dir/bluff#_bluff +16, [Diplomacy](../../skill_dir/diplomacy#_diplomacy +27, [Disguise](../../skill_dir/disguise#_disguise +10, [Intimidate](../../skill_dir/intimidate#_intimidate +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (history +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility +10, [Linguistics](../../skill_dir/linguistics#_linguistics +6, [Perception](../../skill_dir/perception#_perception +5, [Perform](../../skill_dir/perform#_perform) (dance +10, [Perform](../../skill_dir/perform#_perform) (sing +10, [Perform](../../skill_dir/perform#_perform) (string +10, [Ride](../../skill_dir/ride#_ride +6, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +10
+**Skills** [Bluff](../../skill_dir/bluff#_bluff) +16, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +27, [Disguise](../../skill_dir/disguise#_disguise) +10, [Intimidate](../../skill_dir/intimidate#_intimidate) +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (history) +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) +10, [Linguistics](../../skill_dir/linguistics#_linguistics) +6, [Perception](../../skill_dir/perception#_perception) +5, [Perform](../../skill_dir/perform#_perform) (dance) +10, [Perform](../../skill_dir/perform#_perform) (sing) +10, [Perform](../../skill_dir/perform#_perform) (string) +10, [Ride](../../skill_dir/ride#_ride) +6, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +10
 
 **Languages** Common, Elven, Gnome, Halfling
 
-**Combat Gear** _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_, _potion of [invisibility](../../spell_dir/invisibility#_invisibility_; **Other Gear** _+1 [glamered](../../magicItem_dir/armor#_armor-glamered chain shirt_, masterwork buckler, _+1 longbow_ with 20 arrows, masterwork rapier, silver dagger, _ [circlet of persuasion](../../magicItem_dir/wondrousItems#_circlet-of-persuasion_, _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, 17 gp
+**Combat Gear** _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_, _potion of [invisibility](../../spell_dir/invisibility#_invisibility)_; **Other Gear** _+1 [glamered](../../magicItem_dir/armor#_armor-glamered) chain shirt_, masterwork buckler, _+1 longbow_ with 20 arrows, masterwork rapier, silver dagger, _ [circlet of persuasion](../../magicItem_dir/wondrousItems#_circlet-of-persuasion)_, _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, 17 gp
 
-**Boon** A noble can arrange the loan of noble or royal outfits (and even make a gift of them if sufficiently impressed, or can make a [Diplomacy](../../skill_dir/diplomacy#_diplomacy) check on behalf of the PCs.
+**Boon** A noble can arrange the loan of noble or royal outfits (and even make a gift of them if sufficiently impressed), or can make a [Diplomacy](../../skill_dir/diplomacy#_diplomacy) check on behalf of the PCs.
 
 A noble is a titled aristocrat of a noble house, whether a lesser branch or perhaps the high seat of the family line. A noble might also be a member of a royal family, probably not in line for the throne, but still with a high position in society. Whether baroness, countess, duchess, or margravine, a noble is proficient in all of the courtly arts (including with a fine blade) and is well acquainted with news, rumors, fashion, and etiquette in her lands and those that surround it.
 
 Nobles may serve as diplomats, high courtiers, appointed castellans or seneschals of royal castles, or even spies.
 
-A noble may often be found with a knight bodyguard and three noble scions to show off at court (CR 10). A noble might also accompany two princesses in disguise (CR 10), while two nobles may be present at a celebrity bard's concert (CR 12). A traveling noble could be accompanied by a battle mage or minstrel (CR 9), or two watch captain bodyguards (CR 10.
+A noble may often be found with a knight bodyguard and three noble scions to show off at court (CR 10). A noble might also accompany two princesses in disguise (CR 10), while two nobles may be present at a celebrity bard's concert (CR 12). A traveling noble could be accompanied by a battle mage or minstrel (CR 9), or two watch captain bodyguards (CR 10).
 

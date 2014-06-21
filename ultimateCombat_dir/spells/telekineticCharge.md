@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/telekineticCharge
+title: ultimateComba_dir/spells/telekineticCharge
 ---
 Telekinetic Charge
 
-**School** evocation [force]; **Level** sorcerer/wizard 4
+**School** evocation [force]; **Level** sorcere_dir/wizard 4
 
 **Casting Time** 1 standard action
 

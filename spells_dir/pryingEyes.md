@@ -1,19 +1,19 @@
 ---
-title: spells/pryingEyes
+title: spell_dir/pryingEyes
 ---
  **Prying Eyes**
 
-**School** divination; **Level** sorcere_dir/wizard 5
+**School** divination; **Level** sorcerer/wizard 5
 
 **Casting Time** 1 minute
 
-**Components** V, S, M (a handful of crystal marbles
+**Components** V, S, M (a handful of crystal marbles)
 
 **Range** 1 mile
 
 **Effect** 10 or more levitating eyes
 
-**Duration** 1 hou_dir/level; see text (D
+**Duration** 1 hou_dir/level; see text (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 
@@ -33,5 +33,5 @@ The eyes exist for up to 1 hour per caster level or until they return to you. _ 
 
 **School** divination; **Level** sorcere_dir/wizard 8
 
-This spell functions like _prying eyes, _except that the eyes can see all things as they actually are, just as if they had _ [true seeing](trueSeeing#_true-seeing _with a range of 120 feet. Thus, they can navigate darkened areas at normal speed. Also, a _greater prying eye_'s maximum Perception modifier is +25 instead of +15.
+This spell functions like _prying eyes, _except that the eyes can see all things as they actually are, just as if they had _ [true seeing](trueSeeing#_true-seeing) _with a range of 120 feet. Thus, they can navigate darkened areas at normal speed. Also, a _greater prying eye_'s maximum Perception modifier is +25 instead of +15.
 

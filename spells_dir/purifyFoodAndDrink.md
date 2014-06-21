@@ -1,5 +1,5 @@
 ---
-title: spells/purifyFoodAndDrink
+title: spell_dir/purifyFoodAndDrink
 ---
  **Purify Food and Drink**
 

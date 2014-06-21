@@ -11,9 +11,9 @@ XP 4,800
 
 LG Large magical beast
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision; [Perception](skill_dir/perception#_perception +15
+**Init** +5; **Senses** darkvision 60 ft., low-light vision; [Perception](skill_dir/perception#_perception) +15
 
-**Aura** magic circle against [evil](monster_dir/creatureTypes#_evil-subtype) (20 ft.)
+**Aura** magic circle against [evil](monsters/creatureTypes#_evil-subtype) (20 ft.)
 
 Defense
 
@@ -27,27 +27,27 @@ Offense
 
 **Speed** 30 ft., fly 60 ft. (average)
 
-**Melee** 2 claws +14 (1d8+6), 2 wings +9 (1d6+3
+**Melee** 2 claws +14 (1d8+6), 2 wings +9 (1d6+3)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [pounce](monster_dir/universalMonsterRules#_pounce, [rake](monster_dir/universalMonsterRules#_rake) (2 claws +14; 1d8+6)
+**Special Attacks** [pounce](monster_dir/universalMonsterRules#_pounce), [rake](monsters/universalMonsterRules#_rake) (2 claws +14; 1d8+6)
 
-**Spell-Like Abilities** (CL 9th; concentration +11
+**Spell-Like Abilities** (CL 9th; concentration +11)
 
-3/day—_ [greater invisibility](spell_dir/invisibility#_invisibility-greater_
+3/day—_ [greater invisibility](spell_dir/invisibility#_invisibility-greater)_
 
 1/day—_ [dimension door](spell_dir/dimensionDoor#_dimension-door)_
 
-**Spells Known** (CL 7th; concentration +9
+**Spells Known** (CL 7th; concentration +9)
 
-3rd (4/day)—_ [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds_, _ [searing light](spell_dir/searingLight#_searing-light_
+3rd (4/day)—_ [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_, _ [searing light](spells/searingLight#_searing-light)_
 
-2nd (7/day)—_ [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds, [lesser restoration](spell_dir/restoration#_restoration-lesser_, _ [resist energy](spell_dir/resistEnergy#_resist-energy_
+2nd (7/day)—_ [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds), [lesser restoration](spells/restoration#_restoration-lesser)_, _ [resist energy](spell_dir/resistEnergy#_resist-energy)_
 
-1st (7/day)—_ [bless](spell_dir/bless#_bless_, _ [command](spell_dir/command#_command)_ (DC 13, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds_, _ [detect evil](spell_dir/detectEvil#_detect-evil_, _ [divine favor](spell_dir/divineFavor#_divine-favor)_
+1st (7/day)—_ [bless](spell_dir/bless#_bless)_, _ [command](spells/command#_command)_ (DC 13), _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_, _ [detect evil](spells/detectEvil#_detect-evil)_, _ [divine favor](spell_dir/divineFavor#_divine-favor)_
 
-0 (at will—_ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [detect poison](spell_dir/detectPoison#_detect-poison_, _ [guidance](spell_dir/guidance#_guidance_, _ [mending](spell_dir/mending#_mending_, _ [purify food and drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink_, _ [resistance](spell_dir/resistance#_resistance_, _ [stabilize](spell_dir/stabilize#_stabilize)_
+0 (at will)—_ [detect magic](spells/detectMagic#_detect-magic)_, _ [detect poison](spell_dir/detectPoison#_detect-poison)_, _ [guidance](spells/guidance#_guidance)_, _ [mending](spell_dir/mending#_mending)_, _ [purify food and drink](spells/purifyFoodAndDrink#_purify-food-and-drink)_, _ [resistance](spell_dir/resistance#_resistance)_, _ [stabilize](spells/stabilize#_stabilize)_
 
 Statistics
 
@@ -55,9 +55,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +16; **CMD** 27 (31 vs. trip)
 
-**Feats** [Blind-Fight](feats#_blind-fight), [Eschew Materials](feats#_eschew-materials)B, [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack
+**Feats** [Blind-Fight](feats#_blind-fight), [Eschew Materials](feats#_eschew-materials)B, [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack)
 
-**Skills** [Diplomacy](skill_dir/diplomacy#_diplomacy +11, [Fly](skill_dir/fly#_fly +11, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +12, [Perception](skill_dir/perception#_perception +15, [Sense Motive](skill_dir/senseMotive#_sense-motive +12
+**Skills** [Diplomacy](skill_dir/diplomacy#_diplomacy) +11, [Fly](skills/fly#_fly) +11, [Knowledge](skill_dir/knowledge#_knowledge) (arcana) +12, [Perception](skills/perception#_perception) +15, [Sense Motive](skill_dir/senseMotive#_sense-motive) +12
 
 **Languages** Celestial, Common
 

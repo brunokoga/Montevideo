@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/forcedQuiet
+title: ultimateMagi_dir/spells/forcedQuiet
 ---
 Forced Quiet
 
-**School** transmutation [sonic]; **Level** bard 1, inquisitor 1, sorcerer/wizard 1, witch 1
+**School** transmutation [sonic]; **Level** bard 1, inquisitor 1, sorcere_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -13,9 +13,9 @@ Forced Quiet
 
 **Target** one creature
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-With a gesture, you muffle sound around the target, making it unable to yell or otherwise make loud noises. This does not affect spellcasting by the target. The target can still use sonic effects, but the DC of these effects decreases by 2. The target gains a +2 bonus on saving throws against sonic effects. The target gains a +4 circumstance bonus on [Stealth](skill_dir/stealth#_stealth checks.
+With a gesture, you muffle sound around the target, making it unable to yell or otherwise make loud noises. This does not affect spellcasting by the target. The target can still use sonic effects, but the DC of these effects decreases by 2. The target gains a +2 bonus on saving throws against sonic effects. The target gains a +4 circumstance bonus on [Stealth](skills/stealth#_stealth) checks.
 

@@ -3,7 +3,7 @@ title: spell_dir/confusion
 ---
  **Confusion**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 3, sorcerer/wizard 4
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spell_dir/confusion
 
 **Targets** all creatures in a 15-ft.-radius burst
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

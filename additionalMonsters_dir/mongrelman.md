@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/mongrelman
+title: additionalMonster_dir/mongrelman
 ---
 # Mongrelman
 
@@ -9,9 +9,9 @@ Ivory tusks, insect chitin, matted fur, scaly flesh, and more combine to form a 
 
 **XP 400**
 
-LN Medium [monstrous humanoid](monster_dir/creatureTypes#_monstrous-humanoid
+LN Medium [monstrous humanoid](monsters/creatureTypes#_monstrous-humanoid)
 
-**Init** +1; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +6
+**Init** +1; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +6
 
 Defense
 
@@ -27,7 +27,7 @@ Offense
 
 **Melee** club +4 (1d6+3) or
 
-slam +4 (1d4+3
+slam +4 (1d4+3)
 
 Statistics
 
@@ -35,13 +35,13 @@ Statistics
 
 **Base Atk** +2; **CMB** +4; **CMD** 15
 
-**Feats** [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
+**Feats** [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonster_dir/../skill_dir/stealth#_stealth))
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +6, [Perception](additionalMonsters/../skill_dir/perception#_perception +6, [Sleight of Hand](additionalMonsters/../skill_dir/sleightOfHand#_sleight-of-hand +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +13, [Survival](additionalMonsters/../skill_dir/survival#_survival +5; **Racial Modifiers** +4 [Sleight of Hand](additionalMonsters/../skill_dir/sleightOfHand#_sleight-of-hand, +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb) +6, [Perception](additionalMonsters/../skill_dir/perception#_perception) +6, [Sleight of Hand](additionalMonsters/../skill_dir/sleightOfHand#_sleight-of-hand) +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +13, [Survival](additionalMonsters/../skill_dir/survival#_survival) +5; **Racial Modifiers** +4 [Sleight of Hand](additionalMonsters/../skill_dir/sleightOfHand#_sleight-of-hand), +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
 
 **Languages** Common, Undercommon
 
-**SQ** [sound mimicry](monster_dir/universalMonsterRules#_sound-mimicry) (voices)
+**SQ** [sound mimicry](monsters/universalMonsterRules#_sound-mimicry) (voices)
 
 Ecology
 
@@ -53,7 +53,7 @@ Ecology
 
 Despite their monstrous appearances, mongrelmen are generally hardworking and peaceful creatures. A mongrelman can produce offspring with any humanoid, mixing bloodlines in strange ways to create hardier crossbreeds. No two mongrelmen look the same. One may have a face that is half hobgoblin, half lizardfolk, with one human-like foot and one cloven hoof, while his sister may have elven ears, a dwarven beard, orc tusks, and clawed hands. Each mongrelman usually has characteristics from at least a half-dozen different races. This strange mixture enforces mongrelmen_'_s place in the edges of the world, for they are shunned by all who fear their twisted appearance. Mistaken as enemies by all, mongrelmen prefer to be left alone.
 
-Most mongrelmen live below the surface of the world in hidden caves far from civilization. These creatures pride themselves on their survival skills, for the bowels of the earth are no place for weaklings. Other foul and intelligent races who claim dominion in the underworld take mongrelmen as slaves (particularly morlocks, finding this deformed race_'_s docile nature and hardworking attitude makes them extremely useful as tools of labor. In this role, mongrelmen still fall back on their pride of survival, slow to rebel and patiently waiting for the overthrow of their masters.
+Most mongrelmen live below the surface of the world in hidden caves far from civilization. These creatures pride themselves on their survival skills, for the bowels of the earth are no place for weaklings. Other foul and intelligent races who claim dominion in the underworld take mongrelmen as slaves (particularly morlocks), finding this deformed race_'_s docile nature and hardworking attitude makes them extremely useful as tools of labor. In this role, mongrelmen still fall back on their pride of survival, slow to rebel and patiently waiting for the overthrow of their masters.
 
 Mongrelmen dwelling on the surface sometimes live amid the hustle and bustle of cities, sequestering themselves in ghettos and sewers to avoid notice. Urban mongrelmen may rely on begging and pickpocketing to get by, but most form rural communities near trading routes.
 

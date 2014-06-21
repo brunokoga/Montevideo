@@ -1,5 +1,5 @@
 ---
-title: advanced/spell_dir/fester
+title: advance_dir/spells/fester
 ---
  **Fester**
 
@@ -7,7 +7,7 @@ title: advanced/spell_dir/fester
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (rotted meat
+**Components** V, S, M (rotted meat)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
@@ -17,7 +17,7 @@ title: advanced/spell_dir/fester
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 
-Necrotic energy permeates the target, blocking healing abilities. The subject gains spell resistance equal to 12 + your caster level against effects that restore hit points or grant temporary hit points. In addition, any healing provided by effects that ignore spell resistance (such as fast healing, regeneration, and some spells are halved. If the target succeeds on a Fortitude saving throw, _fester_ lasts only a single round.
+Necrotic energy permeates the target, blocking healing abilities. The subject gains spell resistance equal to 12 + your caster level against effects that restore hit points or grant temporary hit points. In addition, any healing provided by effects that ignore spell resistance (such as fast healing, regeneration, and some spells) are halved. If the target succeeds on a Fortitude saving throw, _fester_ lasts only a single round.
 
 **Fester, Mass**
 

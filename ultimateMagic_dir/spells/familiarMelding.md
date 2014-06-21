@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/familiarMelding
+title: ultimateMagi_dir/spells/familiarMelding
 ---
 Familiar Melding
 
-**School** necromancy; **Level** sorcerer/wizard 4, witch 4
+**School** necromancy; **Level** sorcere_dir/wizard 4, witch 4
 
 **Casting Time** 1 standard action
 
@@ -19,7 +19,7 @@ Familiar Melding
 
 You project your soul into your familiar, taking over its body while leaving its consciousness intact. When you transfer your soul upon casting, your body is, as near as anyone can tell, dead.
 
-While possessing your familiar, you can communicate with it telepathically. You keep your Intelligence, Wisdom, Charisma, level, class, base attack bonus, base save bonuses, alignment, and mental abilities. The familiar's body retains its own Strength, Dexterity, Constitution, hit points, natural abilities, and automatic abilities. A body with extra limbs does not allow you to make more attacks (or more advantageous two-weapon attacks than normal. You may use any abilities the familiar has, including spells and spell-like abilities. You cannot speak unless your familiar has the ability to speak a language. You cannot cast spells with somatic components if your familiar does not have anthropomorphic limbs that can perform the appropriate motions.
+While possessing your familiar, you can communicate with it telepathically. You keep your Intelligence, Wisdom, Charisma, level, class, base attack bonus, base save bonuses, alignment, and mental abilities. The familiar's body retains its own Strength, Dexterity, Constitution, hit points, natural abilities, and automatic abilities. A body with extra limbs does not allow you to make more attacks (or more advantageous two-weapon attacks) than normal. You may use any abilities the familiar has, including spells and spell-like abilities. You cannot speak unless your familiar has the ability to speak a language. You cannot cast spells with somatic components if your familiar does not have anthropomorphic limbs that can perform the appropriate motions.
 
 As a standard action, you can return to your body as long as it is within range. If your familiar is slain while your soul is in it and your body is within range, your soul returns to your own body, unharmed. If your familiar is out of range when slain, you die. The spell ends when you shift from the familiar to your own body.
 

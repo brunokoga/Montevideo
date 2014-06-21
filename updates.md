@@ -27,7 +27,7 @@ The Pathfinder Roleplaying Game Reference Document contains all errata to the Ro
 
 10/5/11 - Fixed broken links and made minor style changes. Lists for Bestiary and Bestiary 2 were updated to match Index format. All Spell Indexes for all books were updated to match Index format. Also added links in Spell Lists to each of the lists by class.
 
-9/13/11 - Addition of _Ultimate Combat_ Open Game Content and Bestiary third printing updates. Layout images and styles were updated. Stat block styles were added to a number of sections (including feats and Bestiary entries). iPhone/iPad support specific layouts and features added.
+9/13/11 - Addition of _Ultimate Combat_ Open Game Content and Bestiary third printing updates. Layout images and styles were updated. Stat block styles were added to a number of sections (including feats and Bestiary entries). iPhon_dir/iPad support specific layouts and features added.
 
 7/5/11 - Cleanup of broken and extraneous links
 
@@ -39,7 +39,7 @@ The Pathfinder Roleplaying Game Reference Document contains all errata to the Ro
 
 3/30/11 - Formatting cleanup for Golems and Dragons. Correction of minor typos. Removal of some extraneous links in wondrous item names. Navigation links for Advanced Spells and Magic Items corrected.
 
-1/25/11 - APG Second Printing Errata. Minor formatting and link cleanup. Consolidate _lesser geas_ and _geas/quest_.
+1/25/11 - APG Second Printing Errata. Minor formatting and link cleanup. Consolidate _lesser geas_ and _gea_dir/quest_.
 
 12/17/10 - Formatting cleanup. Links repaired for Advanced Feats. Removal of extraneous tags.
 

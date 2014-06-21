@@ -1,9 +1,9 @@
 ---
-title: advanced/spell_dir/stoneCall
+title: advance_dir/spells/stoneCall
 ---
  **Stone Call**
 
-**School** conjuration (creation [earth]; **Level** druid 2, ranger 2, sorcerer/wizard 2
+**School** conjuration (creation) [earth]; **Level** druid 2, ranger 2, sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ title: advanced/spell_dir/stoneCall
 
 **Saving Throw** none; **Spell Resistance** no
 
-A rain of dirt, gravel, and small pebbles fills the area, dealing 2d6 points of bludgeoning damage to every creature in the area. This damage only occurs once, when the spell is cast. For the remaining duration of the spell, this debris covers the ground, making the entire area difficult terrain. At the end of the duration, the rocks disappear, leaving no aftereffects (other than the damage dealt.
+A rain of dirt, gravel, and small pebbles fills the area, dealing 2d6 points of bludgeoning damage to every creature in the area. This damage only occurs once, when the spell is cast. For the remaining duration of the spell, this debris covers the ground, making the entire area difficult terrain. At the end of the duration, the rocks disappear, leaving no aftereffects (other than the damage dealt).
 

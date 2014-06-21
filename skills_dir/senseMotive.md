@@ -1,5 +1,5 @@
 ---
-title: skills/senseMotive
+title: skill_dir/senseMotive
 ---
 # Sense Motive
 

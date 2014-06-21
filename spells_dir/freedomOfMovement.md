@@ -7,7 +7,7 @@ title: spell_dir/freedomOfMovement
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a leather strip bound to the target, DF
+**Components** V, S, M (a leather strip bound to the target), DF
 
 **Range** personal or touch
 

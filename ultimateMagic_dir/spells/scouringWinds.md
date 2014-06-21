@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/scouringWinds
+title: ultimateMagi_dir/spells/scouringWinds
 ---
 Scouring Winds
 
-**School** evocation [air, earth]; **Level** druid 7, sorcerer/wizard 7, witch 7
+**School** evocation [air, earth]; **Level** druid 7, sorcere_dir/wizard 7, witch 7
 
 **Casting Time** 1 standard action
 
@@ -15,7 +15,7 @@ Scouring Winds
 
 **Duration** 1 roun_dir/level (D)
 
-**Saving Throw** none; **Spell Resistance** yes (see text
+**Saving Throw** none; **Spell Resistance** yes (see text)
 
 This spell brings forth a windstorm of stinging sand that blocks all vision. You can move the storm up to 30 feet each round as a move action.
 

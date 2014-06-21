@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/stabilizePowder
+title: ultimateComba_dir/spells/stabilizePowder
 ---
 Stabilize Powder
 
@@ -7,7 +7,7 @@ Stabilize Powder
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a few drops of liquor
+**Components** V, S, M (a few drops of liquor)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

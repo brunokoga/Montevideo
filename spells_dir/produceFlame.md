@@ -1,5 +1,5 @@
 ---
-title: spells/produceFlame
+title: spell_dir/produceFlame
 ---
  **Produce Flame**
 

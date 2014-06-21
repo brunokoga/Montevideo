@@ -1,5 +1,5 @@
 ---
-title: spells/detectEvil
+title: spell_dir/detectEvil
 ---
  **Detect Evil**
 
@@ -42,8 +42,8 @@ Animals, traps, poisons, and other potential perils are not evil, and as such th
 
 Each round, you can turn to detect evil in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
 
-[Detect Chaos/Evil/Good/Law]
-| Creatur_dir/Object | Aura Power |
+[Detect Chao_dir/Evil/Goo_dir/Law]
+| Creature/Object | Aura Power |
 | --- | --- |
 | None | Faint | Moderate | Strong | Overwhelming |
 | --- | --- | --- | --- | --- |
@@ -51,5 +51,5 @@ Each round, you can turn to detect evil in a new area. The spell can penetrate b
 | Aligned Undead (HD) | — | 2 or lower | 3–8 | 9–20 | 21 or higher |
 | Aligned outsider (HD) | — | 1 or lower | 2–4 | 5–10 | 11 or higher |
 | Cleric or paladin of an aligned deity⁲ (class levels) | — | 1 | 2–4 | 5–10 | 11 or higher |
-| Aligned magic item or spell (caster level | 5th or lower | 6th–10th | 11th–15th | 16th–20th | 21st or higher |
+| Aligned magic item or spell (caster level) | 5th or lower | 6th–10th | 11th–15th | 16th–20th | 21st or higher |
 

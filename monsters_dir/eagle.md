@@ -1,5 +1,5 @@
 ---
-title: monsters/eagle
+title: monster_dir/eagle
 ---
 # Eagle
 
@@ -25,7 +25,7 @@ N Small [animal](creatureTypes#_animal)
 
 **Speed** 10 ft., fly 80 ft. (average)
 
-**Melee** 2 talons +3 (1d4), bite +3 (1d4
+**Melee** 2 talons +3 (1d4), bite +3 (1d4)
 
 **Statistics**
 
@@ -35,7 +35,7 @@ N Small [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Fly](../skill_dir/fly#_fly +8, [Perception](../skill_dir/perception#_perception +10; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
+**Skills** [Fly](../skill_dir/fly#_fly) +8, [Perception](../skill_dir/perception#_perception) +10; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
 
 **Ecology**
 
@@ -61,7 +61,7 @@ _This immense eagle's feathers are golden brown and shimmer in the light. Its sh
 
 **XP 800**
 
-NG Large [magical beast](creatureTypes#_magical-beast
+NG Large [magical beast](creatureTypes#_magical-beast)
 
 **Init** +3; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +15
 
@@ -79,7 +79,7 @@ NG Large [magical beast](creatureTypes#_magical-beast
 
 **Speed** 10 ft., fly 80 ft. (average)
 
-**Melee** 2 claws +7 (1d8+4), bite +7 (1d6+4
+**Melee** 2 claws +7 (1d8+4), bite +7 (1d6+4)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -91,7 +91,7 @@ NG Large [magical beast](creatureTypes#_magical-beast
 
 **Feats** [Alertness](../feats#_alertness), [Flyby Attack](monsterFeats#_flyby-attack)
 
-**Skills** [Fly](../skill_dir/fly#_fly +8, [Perception](../skill_dir/perception#_perception +15, [Sense Motive](../skill_dir/senseMotive#_sense-motive +4; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception)
+**Skills** [Fly](../skill_dir/fly#_fly) +8, [Perception](../skill_dir/perception#_perception) +15, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +4; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception)
 
 **Languages** Auran (cannot speak)
 
@@ -99,7 +99,7 @@ NG Large [magical beast](creatureTypes#_magical-beast
 
 **Environment** temperate mountains
 
-**Organization** solitary, pair, or eyrie (3–12
+**Organization** solitary, pair, or eyrie (3–12)
 
 **Treasure** none
 

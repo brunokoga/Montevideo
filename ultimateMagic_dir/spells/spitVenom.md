@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/spitVenom
+title: ultimateMagi_dir/spells/spitVenom
 ---
 Spit Venom
 

@@ -1,13 +1,13 @@
 ---
-title: spells/stoneskin
+title: spell_dir/stoneskin
 ---
  **Stoneskin**
 
-**School** abjuration; **Level** druid 5, sorcere_dir/wizard 4
+**School** abjuration; **Level** druid 5, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (granite and diamond dust worth 250 gp
+**Components** V, S, M (granite and diamond dust worth 250 gp)
 
 **Range** touch
 

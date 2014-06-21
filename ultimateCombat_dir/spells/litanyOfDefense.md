@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/litanyOfDefense
+title: ultimateComba_dir/spells/litanyOfDefense
 ---
 Litany of Defense
 

@@ -1,5 +1,5 @@
 ---
-title: spells/barkskin
+title: spell_dir/barkskin
 ---
  **Barkskin**
 

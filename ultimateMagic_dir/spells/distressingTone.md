@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/distressingTone
+title: ultimateMagi_dir/spells/distressingTone
 ---
 Distressing Tone
 
@@ -13,7 +13,7 @@ Distressing Tone
 
 **Target** 1d4 living creatures
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 

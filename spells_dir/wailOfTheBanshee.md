@@ -1,5 +1,5 @@
 ---
-title: spells/wailOfTheBanshee
+title: spell_dir/wailOfTheBanshee
 ---
  **Wail of the Banshee**
 
@@ -11,7 +11,7 @@ title: spells/wailOfTheBanshee
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** one living creature/level within a 40-ft.-radius spread
+**Target** one living creatur_dir/level within a 40-ft.-radius spread
 
 **Duration** instantaneous
 

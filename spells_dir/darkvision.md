@@ -1,19 +1,19 @@
 ---
-title: spells/darkvision
+title: spell_dir/darkvision
 ---
  **Darkvision**
 
-**School** transmutation; **Level** ranger 3, sorcere_dir/wizard 2
+**School** transmutation; **Level** ranger 3, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (either a pinch of dried carrot or an agate
+**Components** V, S, M (either a pinch of dried carrot or an agate)
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 1 hour/level
+**Duration** 1 hou_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

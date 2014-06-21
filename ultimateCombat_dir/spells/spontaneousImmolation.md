@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/spontaneousImmolation
+title: ultimateComba_dir/spells/spontaneousImmolation
 ---
 Spontaneous Immolation
 
@@ -7,7 +7,7 @@ Spontaneous Immolation
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (pinch of saltpeter
+**Components** V, S, M (pinch of saltpeter)
 
 **Range** medium (100 ft. + 10 ft./level)
 

@@ -1,5 +1,5 @@
 ---
-title: spells/tongues
+title: spell_dir/tongues
 ---
  **Tongues**
 

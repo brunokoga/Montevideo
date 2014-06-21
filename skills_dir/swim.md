@@ -1,5 +1,5 @@
 ---
-title: skills/swim
+title: skill_dir/swim
 ---
 # Swim
 

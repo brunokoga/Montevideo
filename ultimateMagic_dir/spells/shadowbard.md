@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spell_dir/shadowbard
+title: ultimateMagi_dir/spells/shadowbard
 ---
 Shadowbard
 
-School illusion (shadow [shadow]; **Level** bard 5
+School illusion (shadow) [shadow]; **Level** bard 5
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ School illusion (shadow [shadow]; **Level** bard 5
 
 **Effect** phantom singer
 
-**Duration** 1 roun_dir/level (D
+**Duration** 1 roun_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 

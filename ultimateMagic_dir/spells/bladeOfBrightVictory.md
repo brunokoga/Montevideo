@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/bladeOfBrightVictory
+title: ultimateMagi_dir/spells/bladeOfBrightVictory
 ---
 Blade of Bright Victory
 
@@ -15,7 +15,7 @@ Blade of Bright Victory
 
 **Duration** 1 minut_dir/level
 
-**Saving Throw** Will negates (harmless; **Spell Resistance** no
+**Saving Throw** Will negates (harmless); **Spell Resistance** no
 
-You strengthen the bond between your divine bond weapon and its celestial spirit. The weapon gains the _ [ghost touch](magicItem_dir/weapons#_weapons-ghost-touch)_ property. You may change your weapon's damage type (bludgeoning, piercing, slashing as a swift action. You gain a sacred bonus to your CMD against disarm and sunder attacks directed at your bonded weapon; this bonus is equal to half your caster level.
+You strengthen the bond between your divine bond weapon and its celestial spirit. The weapon gains the _ [ghost touch](magicItems/weapons#_weapons-ghost-touch)_ property. You may change your weapon's damage type (bludgeoning, piercing, slashing) as a swift action. You gain a sacred bonus to your CMD against disarm and sunder attacks directed at your bonded weapon; this bonus is equal to half your caster level.
 

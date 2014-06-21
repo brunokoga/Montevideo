@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/magi_dir/spellbooks
+title: ultimateMagi_dir/magic/spellbooks
 ---
 # Spellbooks 
 
@@ -23,7 +23,7 @@ Defensive Primer (Level 1 Abjurer)
 
 _This surprisingly ornate and heavy volume is more than three-quarters empty. Tightly written notes on the precepts of arcane defense and the vulnerabilities of supernatural entities fill the first two pages._
 
-**Protection** Average lock (DC 25
+**Protection** Average lock (DC 25)
 
 **Opposition Schools** Conjuration, enchantment
 
@@ -31,9 +31,9 @@ _This surprisingly ornate and heavy volume is more than three-quarters empty. Ti
 
 Spells
 
-1st—_ [burning hands](spell_dir/burningHands#_burning-hands_, _ [detect undead](spell_dir/detectUndead#_detect-undead_, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil_S, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_, _ [shield](spell_dir/shield#_shield)_S
+1st—_ [burning hands](spell_dir/burningHands#_burning-hands)_, _ [detect undead](spells/detectUndead#_detect-undead)_, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil)_S, _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_, _ [shield](spell_dir/shield#_shield)_S
 
-Apprentice Chapbook of Rul Thaven (Level 2 Diviner
+Apprentice Chapbook of Rul Thaven (Level 2 Diviner)
 
 _This slim book is carefully but amateurishly bound, with leather stretched tight across thin boards. The writing inside is fussy and crammed together, with words that are occasionally illegible. Eight of its pages contain spells; the final 10 pages are blank. A portrait of a plain woman, unsmiling, has been bound into the inside front cover._
 
@@ -43,9 +43,9 @@ _This slim book is carefully but amateurishly bound, with leather stretched tigh
 
 Spells
 
-1st—_ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_S, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors_S, _ [detect undead](spell_dir/detectUndead#_detect-undead_S, _ [identify](spell_dir/identify#_identify_S, _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil_, _ [protection from law](spell_dir/protectionFromLaw#_protection-from-law_, _ [summon monster I](spell_dir/summonMonster#_summon-monster-i_, _ [true strike](spell_dir/trueStrike#_true-strike)_S
+1st—_ [comprehend languages](spells/comprehendLanguages#_comprehend-languages)_S, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors)_S, _ [detect undead](spells/detectUndead#_detect-undead)_S, _ [identify](spell_dir/identify#_identify)_S, _ [protection from evil](spells/protectionFromEvil#_protection-from-evil)_, _ [protection from law](spell_dir/protectionFromLaw#_protection-from-law)_, _ [summon monster I](spells/summonMonster#_summon-monster-i)_, _ [true strike](spell_dir/trueStrike#_true-strike)_S
 
-Unnamed Journal (Level 3 Universalist
+Unnamed Journal (Level 3 Universalist)
 
 _This is a simple, unadorned spellbook. Notes on improving the efficiency of each spell crowd the margins, most of them hopelessly misguided._
 
@@ -53,15 +53,15 @@ _This is a simple, unadorned spellbook. Notes on improving the efficiency of eac
 
 Spells
 
-2nd—_ [fox's cunning](spell_dir/foxSCunning#_fox-s-cunning_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_
+2nd—_ [fox's cunning](spells/foxSCunning#_fox-s-cunning)_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray)_
 
-1st—_ [alarm](spell_dir/alarm#_alarm_, _ [feather fall](spell_dir/featherFall#_feather-fall_, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist_, _ [mount](spell_dir/mount#_mount_, _ [shield](spell_dir/shield#_shield_, _ [shocking grasp](spell_dir/shockingGrasp#_shocking-grasp_, _ [silent image](spell_dir/silentImage#_silent-image_, _ [sleep](spell_dir/sleep#_sleep)_
+1st—_ [alarm](spells/alarm#_alarm)_, _ [feather fall](spell_dir/featherFall#_feather-fall)_, _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_, _ [mount](spell_dir/mount#_mount)_, _ [shield](spells/shield#_shield)_, _ [shocking grasp](spell_dir/shockingGrasp#_shocking-grasp)_, _ [silent image](spells/silentImage#_silent-image)_, _ [sleep](spell_dir/sleep#_sleep)_
 
 Traveler's Tome (Level 4 Transmuter)
 
 _This small book, no larger than a pocket notebook, is bound between wooden covers, and is clearly a copy meant to withstand the rigors of adventuring. The arrowhead lodged in the cover can't be removed without magic._
 
-**Protection** Simple lock (DC 20
+**Protection** Simple lock (DC 20)
 
 **Opposition Schools** Conjuration, enchantment
 
@@ -69,27 +69,27 @@ _This small book, no larger than a pocket notebook, is bound between wooden cove
 
 Spells
 
-2nd—_ [glide](advanced/spell_dir/glide#_glide-_S, , _ [knock](spell_dir/knock#_knock_S, _ [levitate](spell_dir/levitate#_levitate_S, _ [rope trick](spell_dir/ropeTrick#_rope-trick_S
+2nd—_ [glide](advanced/spell_dir/glide#_glide-)_S, , _ [knock](spells/knock#_knock)_S, _ [levitate](spell_dir/levitate#_levitate)_S, _ [rope trick](spells/ropeTrick#_rope-trick)_S
 
-1st—_ [ant haul](advanced/spell_dir/antHaul#_ant-haul-_S, , _ [enlarge person](spell_dir/enlargePerson#_enlarge-person_S, _ [erase](spell_dir/erase#_erase_S, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_S, _ [gravity bow](advanced/spell_dir/gravityBow#_gravity-bow-_S, , _ [hold portal](spell_dir/holdPortal#_hold-portal_, _ [jump](spell_dir/jump#_jump_S, _ [magic weapon](spell_dir/magicWeapon#_magic-weapon_S, _ [shield](spell_dir/shield#_shield)_
+1st—_ [ant haul](advance_dir/spells/antHaul#_ant-haul-)_S, , _ [enlarge person](spell_dir/enlargePerson#_enlarge-person)_S, _ [erase](spells/erase#_erase)_S, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat)_S, _ [gravity bow](advanced/spell_dir/gravityBow#_gravity-bow-)_S, , _ [hold portal](spells/holdPortal#_hold-portal)_, _ [jump](spell_dir/jump#_jump)_S, _ [magic weapon](spells/magicWeapon#_magic-weapon)_S, _ [shield](spell_dir/shield#_shield)_
 
-Book of Harms (Level 5 Evoker
+Book of Harms (Level 5 Evoker)
 
-_The leather wrapping of this book is of an indeterminate type, and gives off a faint and unpleasant scent, as of charred meat. The writing inside is in a jagged hand, and many notes on the ash-smudged pages indicate its previous owner sought ever more damaging magic. A glittering rune in the cover's center is shaped vaguely like a [lightning bolt](spell_dir/lightningBolt#_lightning-bolt). _
+_The leather wrapping of this book is of an indeterminate type, and gives off a faint and unpleasant scent, as of charred meat. The writing inside is in a jagged hand, and many notes on the ash-smudged pages indicate its previous owner sought ever more damaging magic. A glittering rune in the cover's center is shaped vaguely like a [lightning bolt](spells/lightningBolt#_lightning-bolt). _
 
 **Protection** Average lock (DC 25)
 
 **Oppositional Schools** Divination, transmutation
 
-**Value** 535 gp (900 gp with preparation ritual
+**Value** 535 gp (900 gp with preparation ritual)
 
 Spells
 
-3rd—_ [fireball](spell_dir/fireball#_fireball_S, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_S
+3rd—_ [fireball](spell_dir/fireball#_fireball)_S, _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_S
 
-2nd—_ [acid arrow](spell_dir/acidArrow#_acid-arrow_, _ [darkness](spell_dir/darkness#_darkness_S, _ [ghoul touch](spell_dir/ghoulTouch#_ghoul-touch_, _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind_S
+2nd—_ [acid arrow](spell_dir/acidArrow#_acid-arrow)_, _ [darkness](spells/darkness#_darkness)_S, _ [ghoul touch](spell_dir/ghoulTouch#_ghoul-touch)_, _ [gust of wind](spells/gustOfWind#_gust-of-wind)_S
 
-1st—_ [burning hands](spell_dir/burningHands#_burning-hands_S, _ [color spray](spell_dir/colorSpray#_color-spray_, _ [corrosive touch](ultimateMagic/spell_dir/corrosiveTouch#corrosive-touch_S, , _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_S, , _ [hypnotism](spell_dir/hypnotism#_hypnotism_, _ [magic missile](spell_dir/magicMissile#_magic-missile_S, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_, _ [shocking grasp](spell_dir/shockingGrasp#_shocking-grasp)_S
+1st—_ [burning hands](spell_dir/burningHands#_burning-hands)_S, _ [color spray](spells/colorSpray#_color-spray)_, _ [corrosive touch](ultimateMagi_dir/spells/corrosiveTouch#corrosive-touch)_S, , _ [hydraulic push](advance_dir/spells/hydraulicPush#_hydraulic-push-)_S, , _ [hypnotism](spell_dir/hypnotism#_hypnotism)_, _ [magic missile](spells/magicMissile#_magic-missile)_S, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_, _ [shocking grasp](spells/shockingGrasp#_shocking-grasp)_S
 
 Preparation Ritual
 
@@ -99,19 +99,19 @@ Lab Journal of Constance Inflix (Level 5 Alchemist)
 
 _The steel cover of this slim journal has taken its fair share of abuse; acid scars and minor slag spots show where the journal was subjected to intense working conditions. Equations, balances, and chemical notations mark the margins of the pages—with some formulae, it is difficult to tell where the notes end and the formula begins._
 
-**Value** 395 gp (770 gp with preparation ritual
+**Value** 395 gp (770 gp with preparation ritual)
 
 Formula
 
-2nd—_ [blur](spell_dir/blur#_blur_, _ [delay poison](spell_dir/delayPoison#_delay-poison_, _ [fire breath](advanced/spell_dir/fireBreath#_fire-breath_, _ [transmute potion to poison](advanced/spell_dir/transmutePotionToPoison#_transmute-potion-to-poison_, _ [vomit swarm](advanced/spell_dir/vomitSwarm#_vomit-swarm_
+2nd—_ [blur](spell_dir/blur#_blur)_, _ [delay poison](spells/delayPoison#_delay-poison)_, _ [fire breath](advance_dir/spells/fireBreath#_fire-breath)_, _ [transmute potion to poison](advance_dir/spells/transmutePotionToPoison#_transmute-potion-to-poison)_, _ [vomit swarm](advance_dir/spells/vomitSwarm#_vomit-swarm)_
 
-1st—_ [bomber's eye](advanced/spell_dir/bomberSEye#_bomber's-eye_, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds_, _ [jump](spell_dir/jump#_jump_, _ [keen senses](advanced/spell_dir/keenSenses#_keen-senses_, _ [negate aroma](advanced/spell_dir/negateAroma#_negate-aroma_, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [touch of the sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea)_
+1st—_ [bomber's eye](advance_dir/spells/bomberSEye#_bomber's-eye)_, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages)_, _ [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_, _ [jump](spell_dir/jump#_jump)_, _ [keen senses](advanced/spell_dir/keenSenses#_keen-senses)_, _ [negate aroma](advanced/spell_dir/negateAroma#_negate-aroma)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [touch of the sea](advance_dir/spells/touchOfTheSea#_touch-of-the-sea)_
 
 Preparation Ritual
 
 **Alchemical Protection (Su)** The alchemical knowledge granted by this book protects you from poisons and alchemical items. Spend this boon's effect as an immediate action when you make a saving throw against poison or an alchemical item but before rolling the saving throw. You gain a +4 bonus on that saving throw.
 
-Book of the Grave (Level 6 Necromancer
+Book of the Grave (Level 6 Necromancer)
 
 _This tome reeks of decomposing flesh or some even fouler stench. Grave mold clings to the worm-eaten cover, and dirt stains the pages. Some pages have been torn out._
 
@@ -123,35 +123,35 @@ _This tome reeks of decomposing flesh or some even fouler stench. Grave mold cli
 
 Spells
 
-3rd—_ [blood biography](advanced/spell_dir/bloodBiography#_blood-biography-_, _ [ray of exhaustion](spell_dir/rayOfExhaustion#_ray-of-exhaustion_S, _ [vampiric touch](spell_dir/vampiricTouch#_vampiric-touch_S, _vitriol_
+3rd—_ [blood biography](advance_dir/spells/bloodBiography#_blood-biography-)_, _ [ray of exhaustion](spell_dir/rayOfExhaustion#_ray-of-exhaustion)_S, _ [vampiric touch](spells/vampiricTouch#_vampiric-touch)_S, _vitriol_
 
-2nd—_ [command undead](spell_dir/commandUndead#_command-undead_S, _ [create treasure map](advanced/spell_dir/createTreasureMap#_create-treasure-map-_, _ [ghoul touch](spell_dir/ghoulTouch#_ghoul-touch_S, _ [spectral hand](spell_dir/spectralHand#_spectral-hand_S, _ [stone call](advanced/spell_dir/stoneCall#_stone-call_, _ [web](spell_dir/web#_web_
+2nd—_ [command undead](spell_dir/commandUndead#_command-undead)_S, _ [create treasure map](advanced/spell_dir/createTreasureMap#_create-treasure-map-)_, _ [ghoul touch](spells/ghoulTouch#_ghoul-touch)_S, _ [spectral hand](spell_dir/spectralHand#_spectral-hand)_S, _ [stone call](advanced/spell_dir/stoneCall#_stone-call)_, _ [web](spells/web#_web)_
 
-1st—_ [burning hands](spell_dir/burningHands#_burning-hands_, _ [chill touch](spell_dir/chillTouch#_chill-touch_S, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_, _ [mage armor](spell_dir/mageArmor#_mage-armor_, _ [protection from good](spell_dir/protectionFromGood#_protection-from-good_, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_S, _ [sculpt corpse](advanced/spell_dir/sculptCorpse#_sculpt-corpse-_S, , _ [shield](spell_dir/shield#_shield_, _ [true strike](spell_dir/trueStrike#_true-strike_, _ [ventriloquism](spell_dir/ventriloquism#_ventriloquism)_
+1st—_ [burning hands](spell_dir/burningHands#_burning-hands)_, _ [chill touch](spells/chillTouch#_chill-touch)_S, _ [disguise self](spell_dir/disguiseSelf#_disguise-self)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [protection from good](spell_dir/protectionFromGood#_protection-from-good)_, _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_S, _ [sculpt corpse](advance_dir/spells/sculptCorpse#_sculpt-corpse-)_S, , _ [shield](spell_dir/shield#_shield)_, _ [true strike](spells/trueStrike#_true-strike)_, _ [ventriloquism](spell_dir/ventriloquism#_ventriloquism)_
 
 Preparation Ritual
 
-**Breath of the Grave (Su)** As a swift action, spend this boon's effect to breathe a 15-foot cone of rotting stench. Creatures within the cone must succeed at a Fortitude saving throw (DC 10 + your highest caster level in a class that prepares spells or be sickened for 1 round. This spends the boon. After this boon has been spent, you take a –4 penalty on [Diplomacy](skill_dir/diplomacy#_diplomacy and [Stealth](skill_dir/stealth#_stealth) checks until you prepare spells again.
+**Breath of the Grave (Su)** As a swift action, spend this boon's effect to breathe a 15-foot cone of rotting stench. Creatures within the cone must succeed at a Fortitude saving throw (DC 10 + your highest caster level in a class that prepares spells) or be sickened for 1 round. This spends the boon. After this boon has been spent, you take a –4 penalty on [Diplomacy](skills/diplomacy#_diplomacy) and [Stealth](skill_dir/stealth#_stealth) checks until you prepare spells again.
 
-Grimoire of Glittering Eyes (Level 7 Illusionist
+Grimoire of Glittering Eyes (Level 7 Illusionist)
 
-_The title of this book is embossed into the scaly cover. Inside, the pages sparkle and gleam in even the faintest [light](spell_dir/light#_light, and the handwriting looks preternaturally clean._
+_The title of this book is embossed into the scaly cover. Inside, the pages sparkle and gleam in even the faintest [light](spells/light#_light), and the handwriting looks preternaturally clean._
 
 **Protection** The entire book is warded with_ [illusory script](spell_dir/illusoryScript#_illusory-script)_ (Will DC 16; on failure, the suggestion is for the reader to “Close the book and leave”).
 
 **Opposition Schools** Evocation, necromancy
 
-**Value** 1,055 gp (1,755 gp with preparation ritual
+**Value** 1,055 gp (1,755 gp with preparation ritual)
 
 Spells
 
-4th—_ [phantasmal killer](spell_dir/phantasmalKiller#_phantasmal-killer_S, _ [wandering star motes](advanced/spell_dir/wanderingStarMotes#_wandering-star-motes_S,
+4th—_ [phantasmal killer](spells/phantasmalKiller#_phantasmal-killer)_S, _ [wandering star motes](advance_dir/spells/wanderingStarMotes#_wandering-star-motes)_S,
 
-3rd—_ [illusory script](spell_dir/illusoryScript#_illusory-script_S, _ [invisibility sphere](spell_dir/invisibilitySphere#_invisibility-sphere_S, _madness_S, , _ [major image](spell_dir/majorImage#_major-image_S
+3rd—_ [illusory script](spell_dir/illusoryScript#_illusory-script)_S, _ [invisibility sphere](spells/invisibilitySphere#_invisibility-sphere)_S, _madness_S, , _ [major image](spell_dir/majorImage#_major-image)_S
 
-2nd—_ [magic mouth](spell_dir/magicMouth#_magic-mouth_S, _ [misdirection](spell_dir/misdirection#_misdirection_S, _ [phantom trap](spell_dir/phantomTrap#_phantom-trap_S, _ [scare](spell_dir/scare#_scare_OP
+2nd—_ [magic mouth](spells/magicMouth#_magic-mouth)_S, _ [misdirection](spell_dir/misdirection#_misdirection)_S, _ [phantom trap](spells/phantomTrap#_phantom-trap)_S, _ [scare](spell_dir/scare#_scare)_OP
 
-1st—_ [alarm](spell_dir/alarm#_alarm_, _ [animate rope](spell_dir/animateRope#_animate-rope_, _ [color spray](spell_dir/colorSpray#_color-spray_S, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_S, _ [hypnotism](spell_dir/hypnotism#_hypnotism_, _ [magic aura](spell_dir/magicAura#_magic-aura_S, _ [magic weapon](spell_dir/magicWeapon#_magic-weapon_, _ [shield](spell_dir/shield#_shield_, _ [sleep](spell_dir/sleep#_sleep)_
+1st—_ [alarm](spells/alarm#_alarm)_, _ [animate rope](spell_dir/animateRope#_animate-rope)_, _ [color spray](spells/colorSpray#_color-spray)_S, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages)_, _ [disguise self](spells/disguiseSelf#_disguise-self)_S, _ [hypnotism](spell_dir/hypnotism#_hypnotism)_, _ [magic aura](spells/magicAura#_magic-aura)_S, _ [magic weapon](spell_dir/magicWeapon#_magic-weapon)_, _ [shield](spells/shield#_shield)_, _ [sleep](spell_dir/sleep#_sleep)_
 
 Preparation Ritual
 
@@ -161,21 +161,21 @@ Tome of the Transmuter (Level 8 Transmuter)
 
 _This simple book is bound in white leather with a silver clasp. Careful notes on economic theory in a crisp and precise hand occupy the last few written pages, after which there is a page stained with a dark reddish-brown smear. The rest of the pages are blank._
 
-**Protection** Good lock (DC 30, _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes)_ (Reflex DC 16)
+**Protection** Good lock (DC 30), _ [explosive runes](spells/explosiveRunes#_explosive-runes)_ (Reflex DC 16)
 
 **Opposition Schools** Illusion, necromancy
 
-**Value** 1,835 gp (2,635 gp with the preparation ritual
+**Value** 1,835 gp (2,635 gp with the preparation ritual)
 
 Spells
 
-4th—_ [beast shape II](spell_dir/beastShape#_beast-shape-ii_S, _ [calcific touch](advanced/spell_dir/calcificTouch#_calcific-touch_S, , _ [confusion](spell_dir/confusion#_confusion_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [stone shape](spell_dir/stoneShape#_stone-shape_S
+4th—_ [beast shape II](spell_dir/beastShape#_beast-shape-ii)_S, _ [calcific touch](advanced/spell_dir/calcificTouch#_calcific-touch)_S, , _ [confusion](spells/confusion#_confusion)_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_, _ [stone shape](spells/stoneShape#_stone-shape)_S
 
-3rd—_ [arcane sight](spell_dir/arcaneSight#_arcane-sight_, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_, _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater_S, _ [slow](spell_dir/slow#_slow_S
+3rd—_ [arcane sight](spell_dir/arcaneSight#_arcane-sight)_, _ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes)_, _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_, _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_S, _ [slow](spells/slow#_slow)_S
 
-2nd—_ [alter self](spell_dir/alterSelf#_alter-self_S, _ [flaming sphere](spell_dir/flamingSphere#_flaming-sphere_, _ [knock](spell_dir/knock#_knock_S, _ [pyrotechnics](spell_dir/pyrotechnics#_pyrotechnics_S, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_, _ [whispering wind](spell_dir/whisperingWind#_whispering-wind_S
+2nd—_ [alter self](spell_dir/alterSelf#_alter-self)_S, _ [flaming sphere](spells/flamingSphere#_flaming-sphere)_, _ [knock](spell_dir/knock#_knock)_S, _ [pyrotechnics](spells/pyrotechnics#_pyrotechnics)_S, _ [resist energy](spell_dir/resistEnergy#_resist-energy)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, _ [whispering wind](spell_dir/whisperingWind#_whispering-wind)_S
 
-1st—_ [animate rope](spell_dir/animateRope#_animate-rope_S, _ [charm person](spell_dir/charmPerson#_charm-person_, _ [color spray](spell_dir/colorSpray#_color-spray_OP, _ [erase](spell_dir/erase#_erase_S, _ [floating disk](spell_dir/floatingDisk#_floating-disk_, _hush_, _ [mage armor](spell_dir/mageArmor#_mage-armor_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [protection from chaos](spell_dir/protectionFromChaos#_protection-from-chaos_, _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_
+1st—_ [animate rope](spells/animateRope#_animate-rope)_S, _ [charm person](spell_dir/charmPerson#_charm-person)_, _ [color spray](spells/colorSpray#_color-spray)_OP, _ [erase](spell_dir/erase#_erase)_S, _ [floating disk](spells/floatingDisk#_floating-disk)_, _hush_, _ [mage armor](spell_dir/mageArmor#_mage-armor)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [protection from chaos](spell_dir/protectionFromChaos#_protection-from-chaos)_, _ [unseen servant](spells/unseenServant#_unseen-servant)_
 
 Preparation Ritual
 
@@ -185,91 +185,91 @@ Journeyman Book of Rul Thaven (Level 9 Diviner)
 
 _This medium-sized book has a creased spine and supple gray leather covers. The leather has rubbed away in certain spots, tiny pinhole burns pock the surface, and a brass lock holds the book shut. A woman's portrait has been bound into the front cover, and text covers almost all of the image except her face: text in circles, with arrows pointing to new circles with suppositions. Underneath the woman's chin are the words “Diabolist sacrifice?”_
 
-**Protection** Average lock (DC 25, and the 5th-level spells are hidden with _ [secret page](spell_dir/secretPage#_secret-page)_. The special word is “reveal.”
+**Protection** Average lock (DC 25), and the 5th-level spells are hidden with _ [secret page](spell_dir/secretPage#_secret-page)_. The special word is “reveal.”
 
 **Opposition Schools** Illusion, transmutation
 
-**Value** 2,195 gp (3,320 gp with the preparation ritual
+**Value** 2,195 gp (3,320 gp with the preparation ritual)
 
 Spells
 
-5th—_ [contact other plane](spell_dir/contactOtherPlane#_contact-other-plane_S, _ [major creation](spell_dir/majorCreation#_major-creation_, _ [telepathic bond](spell_dir/telepathicBond#_telepathic-bond_S,
+5th—_ [contact other plane](spells/contactOtherPlane#_contact-other-plane)_S, _ [major creation](spell_dir/majorCreation#_major-creation)_, _ [telepathic bond](spells/telepathicBond#_telepathic-bond)_S,
 
-4th—_ [detect scrying](spell_dir/detectScrying#_detect-scrying_S, _ [locate creature](spell_dir/locateCreature#_locate-creature_S, _ [remove curse](spell_dir/removeCurse#_remove-curse_, _ [scrying](spell_dir/scrying#_scrying_S
+4th—_ [detect scrying](spell_dir/detectScrying#_detect-scrying)_S, _ [locate creature](spells/locateCreature#_locate-creature)_S, _ [remove curse](spell_dir/removeCurse#_remove-curse)_, _ [scrying](spells/scrying#_scrying)_S
 
-3rd—_ [arcane sight](spell_dir/arcaneSight#_arcane-sight_S, _ [clairaudience/clairvoyance](spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance_S, _ [secret page](spell_dir/secretPage#_secret-page_OP, _ [tongues](spell_dir/tongues#_tongues_S
+3rd—_ [arcane sight](spell_dir/arcaneSight#_arcane-sight)_S, _ [clairaudience/clairvoyance](spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance)_S, _ [secret page](spells/secretPage#_secret-page)_OP, _ [tongues](spell_dir/tongues#_tongues)_S
 
-2nd—_ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts_S, _ [flaming sphere](spell_dir/flamingSphere#_flaming-sphere_, _ [locate object](spell_dir/locateObject#_locate-object_S, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_S, _ [summon monster II](spell_dir/summonMonster#_summon-monster-ii_
+2nd—_ [detect thoughts](spells/detectThoughts#_detect-thoughts)_S, _ [flaming sphere](spell_dir/flamingSphere#_flaming-sphere)_, _ [locate object](spells/locateObject#_locate-object)_S, _ [resist energy](spell_dir/resistEnergy#_resist-energy)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_S, _ [summon monster II](spell_dir/summonMonster#_summon-monster-ii)_
 
-1st—_ [cause fear](spell_dir/causeFear#_cause-fear_, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_S, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors_S, _ [detect undead](spell_dir/detectUndead#_detect-undead_S, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_OP, _ [identify](spell_dir/identify#_identify_S, _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil_, _ [protection from law](spell_dir/protectionFromLaw#_protection-from-law_, _ [true strike](spell_dir/trueStrike#_true-strike)_S
+1st—_ [cause fear](spells/causeFear#_cause-fear)_, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages)_S, _ [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_S, _ [detect undead](spell_dir/detectUndead#_detect-undead)_S, _ [disguise self](spells/disguiseSelf#_disguise-self)_OP, _ [identify](spell_dir/identify#_identify)_S, _ [protection from evil](spells/protectionFromEvil#_protection-from-evil)_, _ [protection from law](spell_dir/protectionFromLaw#_protection-from-law)_, _ [true strike](spells/trueStrike#_true-strike)_S
 
 Preparation Ritual
 
-**Eyes of Rul Thaven (Su** You use a trick perfected by Rul Thaven to ferret out invisible creatures. Spend this boon's effect as a swift action. You gain the effects of _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_ for 1 round.
+**Eyes of Rul Thaven (Su)** You use a trick perfected by Rul Thaven to ferret out invisible creatures. Spend this boon's effect as a swift action. You gain the effects of _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_ for 1 round.
 
 Journal of the Beast Within (Level 10 Alchemist)
 
 _This ragged collection of scorched and stained notes is tied with cheap twine between wooden covers. A few formulae appear to have been deliberately obliterated, scratched through so thoroughly that the paper is torn in places._
 
-**Value** 915 gp (2,165 gp with the preparation ritual
+**Value** 915 gp (2,165 gp with the preparation ritual)
 
 Formula
 
-4th—_ [dragon's breath](advanced/spell_dir/dragonSBreath#_dragon's-breath_
+4th—_ [dragon's breath](advanced/spell_dir/dragonSBreath#_dragon's-breath)_
 
-3rd—_ [beast shape I](spell_dir/beastShape#_beast-shape-i_, _ [rage](spell_dir/rage#_rage_, _ [tongues](spell_dir/tongues#_tongues_, _ [water breathing](spell_dir/waterBreathing#_water-breathing_
+3rd—_ [beast shape I](spells/beastShape#_beast-shape-i)_, _ [rage](spell_dir/rage#_rage)_, _ [tongues](spells/tongues#_tongues)_, _ [water breathing](spell_dir/waterBreathing#_water-breathing)_
 
-2nd—_ [barkskin](spell_dir/barkskin#_barkskin_, _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_, _ [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds_, _ [elemental touch](advanced/spell_dir/elementalTouch#_elemental-touch_, _ [resist energy](spell_dir/resistEnergy#_resist-energy_
+2nd—_ [barkskin](spells/barkskin#_barkskin)_, _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength)_, _ [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _ [elemental touch](advance_dir/spells/elementalTouch#_elemental-touch)_, _ [resist energy](spell_dir/resistEnergy#_resist-energy)_
 
-1st—_ [bomber's eye](advanced/spell_dir/bomberSEye#_bomber's-eye_, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_, _ [crafter's fortune](advanced/spell_dir/crafterSFortune#_crafter's-fortune_, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds_, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_, _ [enlarge person](spell_dir/enlargePerson#_enlarge-person_, _ [identify](spell_dir/identify#_identify_, _ [shield](spell_dir/shield#_shield)_
+1st—_ [bomber's eye](advanced/spell_dir/bomberSEye#_bomber's-eye)_, _ [comprehend languages](spells/comprehendLanguages#_comprehend-languages)_, _ [crafter's fortune](advance_dir/spells/crafterSFortune#_crafter's-fortune)_, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_, _ [disguise self](spells/disguiseSelf#_disguise-self)_, _ [enlarge person](spell_dir/enlargePerson#_enlarge-person)_, _ [identify](spells/identify#_identify)_, _ [shield](spell_dir/shield#_shield)_
 
 Preparation Ritual
 
 **Beastly Concoction (Su)** This journal grants you the ability to make an extremely potent and savage mutagen. Spend this boon when you imbibe your mutagen. The mutagen grants you a +6 alchemical bonus to your selected ability score instead of the normal +4; you take a –2 penalty to all of your mental ability scores (Intelligence, Wisdom, and Charisma) while the mutagen is in effect.
 
-Manuscript of Jack Were-Son (Level 10 Universalist
+Manuscript of Jack Were-Son (Level 10 Universalist)
 
 _Blood, dirt, wine, and more stain this white leather book. The owner's name, Jack Were-son, is stamped into the cover in peeling gold, yet no more information about the author is immediately evident. Several of the pages contain careful diagrams and illustrations done by a competent but uninspiring artist._
 
-**Protection** Average lock with _ [arcane lock](spell_dir/arcaneLock#_arcane-lock)_ (DC 35 and _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes) _(Reflex DC 16
+**Protection** Average lock with _ [arcane lock](spells/arcaneLock#_arcane-lock)_ (DC 35) and _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes) _(Reflex DC 16)
 
 **Value** 2,835 gp
 
 Spells
 
-5th—_ [break enchantment](spell_dir/breakEnchantment#_break-enchantment_, _ [mage's private sanctum](spell_dir/mageSPrivateSanctum#_mage-s-private-sanctum_, _ [polymorph](spell_dir/polymorph#_polymorph_, _ [treasure stitching](advanced/spell_dir/treasureStitching#_treasure-stitching-_
+5th—_ [break enchantment](spells/breakEnchantment#_break-enchantment)_, _ [mage's private sanctum](spell_dir/mageSPrivateSanctum#_mage-s-private-sanctum)_, _ [polymorph](spells/polymorph#_polymorph)_, _ [treasure stitching](advance_dir/spells/treasureStitching#_treasure-stitching-)_
 
-4th—_ [charm monster](spell_dir/charmMonster#_charm-monster_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [greater invisibility](spell_dir/invisibility#_invisibility-greater_, _ [moonstruck](advanced/spell_dir/moonstruck#_moonstruck_, _ [true form](advanced/spell_dir/trueForm#_true-form_
+4th—_ [charm monster](spell_dir/charmMonster#_charm-monster)_, _ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [greater invisibility](spell_dir/invisibility#_invisibility-greater)_, _ [moonstruck](advanced/spell_dir/moonstruck#_moonstruck)_, _ [true form](advanced/spell_dir/trueForm#_true-form)_
 
-3rd—_ [cloak of winds](advanced/spell_dir/cloakOfWinds#_cloak-of-winds_, _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes_, _ [haste](spell_dir/haste#_haste_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_, _ [nondetection](spell_dir/nondetection#_nondetection_, _ [twilight knife](advanced/spell_dir/twilightKnife#_twilight-knife-_
+3rd—_ [cloak of winds](advanced/spell_dir/cloakOfWinds#_cloak-of-winds)_, _ [explosive runes](spells/explosiveRunes#_explosive-runes)_, _ [haste](spell_dir/haste#_haste)_, _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_, _ [nondetection](spell_dir/nondetection#_nondetection)_, _ [twilight knife](advanced/spell_dir/twilightKnife#_twilight-knife-)_
 
-2nd—_ [acid arrow](spell_dir/acidArrow#_acid-arrow_, _ [burning gaze](advanced/spell_dir/burningGaze#_burning-gaze_, _ [dust of twilight](advanced/spell_dir/dustOfTwilight#_dust-of-twilight_, _ [fog cloud](spell_dir/fogCloud_, _metabolize_, _ [protection from arrows](spell_dir/protectionFromArrows#_protection-from-arrows_, _ [spider climb](spell_dir/spiderClimb#_spider-climb_
+2nd—_ [acid arrow](spells/acidArrow#_acid-arrow)_, _ [burning gaze](advance_dir/spells/burningGaze#_burning-gaze)_, _ [dust of twilight](advance_dir/spells/dustOfTwilight#_dust-of-twilight)_, _ [fog cloud](spell_dir/fogCloud)_, _metabolize_, _ [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_, _ [spider climb](spell_dir/spiderClimb#_spider-climb)_
 
-1st—_ [alter winds](advanced/spell_dir/alterWinds#_alter-winds_, _ [ant haul](advanced/spell_dir/antHaul#_ant-haul-_, _ [burning hands](spell_dir/burningHands#_burning-hands_, _ [cause fear](spell_dir/causeFear#_cause-fear_, _ [hold portal](spell_dir/holdPortal#_hold-portal_, _ [identify](spell_dir/identify#_identify_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [sleep](spell_dir/sleep#_sleep_, _ [stone fist](advanced/spell_dir/stoneFist#_stone-fist_, _ [vanish](advanced/spell_dir/vanish#_vanish)_
+1st—_ [alter winds](advanced/spell_dir/alterWinds#_alter-winds)_, _ [ant haul](advanced/spell_dir/antHaul#_ant-haul-)_, _ [burning hands](spells/burningHands#_burning-hands)_, _ [cause fear](spell_dir/causeFear#_cause-fear)_, _ [hold portal](spells/holdPortal#_hold-portal)_, _ [identify](spell_dir/identify#_identify)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [sleep](spell_dir/sleep#_sleep)_, _ [stone fist](advanced/spell_dir/stoneFist#_stone-fist)_, _ [vanish](advanced/spell_dir/vanish#_vanish)_
 
-Arctic Call (Level 11 Evoker
+Arctic Call (Level 11 Evoker)
 
 _Fine vellum sheets fill these two well-worn books. Beautiful illustrations depict the effects of each spell, many with a distinctly arctic theme. Though the pages and their wintry illustrations are of high quality, the protective leather case that encloses both books smells and feels greasy, as if the hide has been crudely waterproofed with animal fat. _
 
-**Protection** _ [fire trap](spell_dir/fireTrap#_fire-trap)_ modified to inflict cold damage (Reflex DC 17)
+**Protection** _ [fire trap](spells/fireTrap#_fire-trap)_ modified to inflict cold damage (Reflex DC 17)
 
 **Opposition Schools** Illusion, necromancy
 
-**Value** 4,335 gp (5,985 gp with the preparation ritual
+**Value** 4,335 gp (5,985 gp with the preparation ritual)
 
 Spells
 
-6th—_ [contingency](spell_dir/contingency#_contingency_S, _ [freezing sphere](spell_dir/freezingSphere#_freezing-sphere_S, _ [repulsion](spell_dir/repulsion#_repulsion_
+6th—_ [contingency](spell_dir/contingency#_contingency)_S, _ [freezing sphere](spells/freezingSphere#_freezing-sphere)_S, _ [repulsion](spell_dir/repulsion#_repulsion)_
 
-5th—_ [cone of cold](spell_dir/coneOfCold#_cone-of-cold_S, _ [mage's private sanctum](spell_dir/mageSPrivateSanctum#_mage-s-private-sanctum_, _ [permanency](spell_dir/permanency#_permanency_, _ [teleport](spell_dir/teleport#_teleport_, _ [wall of force](spell_dir/wallOfForce#_wall-of-force_S
+5th—_ [cone of cold](spells/coneOfCold#_cone-of-cold)_S, _ [mage's private sanctum](spell_dir/mageSPrivateSanctum#_mage-s-private-sanctum)_, _ [permanency](spells/permanency#_permanency)_, _ [teleport](spell_dir/teleport#_teleport)_, _ [wall of force](spells/wallOfForce#_wall-of-force)_S
 
-4th—_ [ice storm](spell_dir/iceStorm#_ice-storm_S, _ [shout](spell_dir/shout#_shout_S, _ [stoneskin](spell_dir/stoneskin#_stoneskin_, _ [symbol of revelation](../spell_dir/symbolOfRevelation#_symbol-of-revelation_, _ [wall of ice](spell_dir/wallOfIce#_wall-of-ice_S
+4th—_ [ice storm](spell_dir/iceStorm#_ice-storm)_S, _ [shout](spells/shout#_shout)_S, _ [stoneskin](spell_dir/stoneskin#_stoneskin)_, _ [symbol of revelation](../spell_dir/symbolOfRevelation#_symbol-of-revelation)_, _ [wall of ice](spells/wallOfIce#_wall-of-ice)_S
 
-3rd—_ [arcane sight](spell_dir/arcaneSight#_arcane-sight_, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [elemental aura](advanced/spell_dir/elementalAura#_elemental-aura_S, , _ [fire trap](spell_dir/fireTrap#_fire-trap_, _ [heroism](spell_dir/heroism#_heroism_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_S, _ [phantom steed](spell_dir/phantomSteed#_phantom-steed_, _ [seek thoughts](advanced/spell_dir/seekThoughts#_seek-thoughts_
+3rd—_ [arcane sight](spell_dir/arcaneSight#_arcane-sight)_, _ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [elemental aura](advance_dir/spells/elementalAura#_elemental-aura)_S, , _ [fire trap](spell_dir/fireTrap#_fire-trap)_, _ [heroism](spells/heroism#_heroism)_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt)_S, _ [phantom steed](spells/phantomSteed#_phantom-steed)_, _ [seek thoughts](advance_dir/spells/seekThoughts#_seek-thoughts)_
 
-2nd—_ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_, _ [false life](spell_dir/falseLife#_false-life_OP, _ [glitterdust](spell_dir/glitterdust#_glitterdust_, _ [hideous laughter](spell_dir/hideousLaughter#_hideous-laughter_, _ [make whole](spell_dir/makeWhole#_make-whole_, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [rope trick](spell_dir/ropeTrick#_rope-trick_
+2nd—_ [bull's strength](spell_dir/bullSStrength#_bull-s-strength)_, _ [false life](spells/falseLife#_false-life)_OP, _ [glitterdust](spell_dir/glitterdust#_glitterdust)_, _ [hideous laughter](spells/hideousLaughter#_hideous-laughter)_, _ [make whole](spell_dir/makeWhole#_make-whole)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [rope trick](spell_dir/ropeTrick#_rope-trick)_
 
-1st—_ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors_, _ [endure elements](spell_dir/endureElements#_endure-elements_, _ [enlarge person](spell_dir/enlargePerson#_enlarge-person_, _ [feather fall](spell_dir/featherFall#_feather-fall_, _ [mage armor](spell_dir/mageArmor#_mage-armor_, _ [magic missile](spell_dir/magicMissile#_magic-missile_S, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist_, _ [shield](spell_dir/shield#_shield_, _ [shocking grasp](spell_dir/shockingGrasp#_shocking-grasp)_S
+1st—_ [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_, _ [endure elements](spell_dir/endureElements#_endure-elements)_, _ [enlarge person](spells/enlargePerson#_enlarge-person)_, _ [feather fall](spell_dir/featherFall#_feather-fall)_, _ [mage armor](spells/mageArmor#_mage-armor)_, _ [magic missile](spell_dir/magicMissile#_magic-missile)_S, _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_, _ [shield](spell_dir/shield#_shield)_, _ [shocking grasp](spells/shockingGrasp#_shocking-grasp)_S
 
 Preparation Ritual
 
@@ -283,21 +283,21 @@ _These two books are part of a set held together with a leather strap. The cover
 
 **Opposition Schools** Divination, necromancy
 
-**Value** 4,555 gp (6,355 gp with the preparation ritual
+**Value** 4,555 gp (6,355 gp with the preparation ritual)
 
 Spells
 
-6th—_ [getaway](advanced/spell_dir/getaway#_getaway-_S, , _ [planar binding](spell_dir/planarBinding#_planar-binding_S, _ [summon monster VI](spell_dir/summonMonster#_summon-monster-vi_S, _ [wall of iron](spell_dir/wallOfIron#_wall-of-iron_S
+6th—_ [getaway](advance_dir/spells/getaway#_getaway-)_S, , _ [planar binding](spell_dir/planarBinding#_planar-binding)_S, _ [summon monster VI](spells/summonMonster#_summon-monster-vi)_S, _ [wall of iron](spell_dir/wallOfIron#_wall-of-iron)_S
 
-5th—_life bubble_S, , _ [contact other plane](spell_dir/contactOtherPlane#_contact-other-plane_OP, _overland flight_S, , _ [teleport](spell_dir/teleport#_teleport_S
+5th—_life bubble_S, , _ [contact other plane](spells/contactOtherPlane#_contact-other-plane)_OP, _overland flight_S, , _ [teleport](spell_dir/teleport#_teleport)_S
 
-4th—_ [acid pit](advanced/spell_dir/acidPit#_acid-pit-_S, , _ [black tentacles](spell_dir/blackTentacles#_black-tentacles_S, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional_, _ [lesser geas](spell_dir/geasQuest#_geas-lesser_, _ [phantasmal killer](spell_dir/phantasmalKiller#_phantasmal-killer_, _ [solid fog](spell_dir/solidFog#_solid-fog_S
+4th—_ [acid pit](advanced/spell_dir/acidPit#_acid-pit-)_S, , _ [black tentacles](spells/blackTentacles#_black-tentacles)_S, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional)_, _ [lesser geas](spells/geasQuest#_geas-lesser)_, _ [phantasmal killer](spell_dir/phantasmalKiller#_phantasmal-killer)_, _ [solid fog](spells/solidFog#_solid-fog)_S
 
-3rd—_ [gaseous form](spell_dir/gaseousForm#_gaseous-form_, _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater_, _ [magic circle against evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil_, _sepia snake sigil_S, _ [spiked pit](advanced/spell_dir/spikedPit#_spiked-pit_S, , _ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud_, _ [tiny hut](spell_dir/tinyHut#_tiny-hut_
+3rd—_ [gaseous form](spell_dir/gaseousForm#_gaseous-form)_, _ [greater magic weapon](spells/magicWeapon#_magic-weapon-greater)_, _ [magic circle against evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_, _sepia snake sigil_S, _ [spiked pit](advanced/spell_dir/spikedPit#_spiked-pit)_S, , _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_, _ [tiny hut](spell_dir/tinyHut#_tiny-hut)_
 
-2nd—_ [arrow eruption](advanced/spell_dir/arrowEruption#_arrow-eruption-_S, , _ [daze monster](spell_dir/dazeMonster#_daze-monster_, _ [dust of twilight](advanced/spell_dir/dustOfTwilight#_dust-of-twilight_S, , _fantastic reach_, _ [glitterdust](spell_dir/glitterdust#_glitterdust_S, _metabolize_S, , _ [shatter](spell_dir/shatter#_shatter_, _ [stone call](advanced/spell_dir/stoneCall#_stone-call_S,
+2nd—_ [arrow eruption](advanced/spell_dir/arrowEruption#_arrow-eruption-)_S, , _ [daze monster](spells/dazeMonster#_daze-monster)_, _ [dust of twilight](advance_dir/spells/dustOfTwilight#_dust-of-twilight)_S, , _fantastic reach_, _ [glitterdust](spell_dir/glitterdust#_glitterdust)_S, _metabolize_S, , _ [shatter](spells/shatter#_shatter)_, _ [stone call](advance_dir/spells/stoneCall#_stone-call)_S,
 
-1st—_ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_OP, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_, _ [jump](spell_dir/jump#_jump_, _ [mage armor](spell_dir/mageArmor#_mage-armor_S, _ [magic aura](spell_dir/magicAura#_magic-aura_, _ [mount](spell_dir/mount#_mount_S, _ [sleep](spell_dir/sleep#_sleep_, _ [stumble gap](advanced/spell_dir/stumbleGap#_stumble-gap-_S, , _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_S
+1st—_ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages)_OP, _ [disguise self](spells/disguiseSelf#_disguise-self)_, _ [jump](spell_dir/jump#_jump)_, _ [mage armor](spells/mageArmor#_mage-armor)_S, _ [magic aura](spell_dir/magicAura#_magic-aura)_, _ [mount](spells/mount#_mount)_S, _ [sleep](spell_dir/sleep#_sleep)_, _ [stumble gap](advanced/spell_dir/stumbleGap#_stumble-gap-)_S, , _ [unseen servant](spells/unseenServant#_unseen-servant)_S
 
 Preparation Ritual
 
@@ -309,33 +309,33 @@ _Stuffed between the pages of these two well-worn volumes are all manner of ridd
 
 **Opposition Schools** Conjuration, transmutation
 
-**Value** 6,475 gp (8,395 gp with the preparation ritual
+**Value** 6,475 gp (8,395 gp with the preparation ritual)
 
 Spells
 
-7th—_ [greater arcane sight](spell_dir/arcaneSight#_arcane-sight-greater_S, _ [greater scrying](spell_dir/scrying#_scrying-greater_S, _ [prismatic spray](spell_dir/prismaticSpray#_prismatic-spray_
+7th—_ [greater arcane sight](spell_dir/arcaneSight#_arcane-sight-greater)_S, _ [greater scrying](spells/scrying#_scrying-greater)_S, _ [prismatic spray](spell_dir/prismaticSpray#_prismatic-spray)_
 
-6th—_ [chain lightning](spell_dir/chainLightning#_chain-lightning_, _ [contingency](spell_dir/contingency#_contingency_, _ [eyebite](spell_dir/eyebite#_eyebite_, _ [legend lore](spell_dir/legendLore#_legend-lore_S, _ [true seeing](spell_dir/trueSeeing#_true-seeing_S
+6th—_ [chain lightning](spells/chainLightning#_chain-lightning)_, _ [contingency](spell_dir/contingency#_contingency)_, _ [eyebite](spells/eyebite#_eyebite)_, _ [legend lore](spell_dir/legendLore#_legend-lore)_S, _ [true seeing](spells/trueSeeing#_true-seeing)_S
 
-5th—_ [dominate person](spell_dir/dominatePerson#_dominate-person_, _ [fire snake](advanced/spell_dir/fireSnake#_fire-snake_, _ [prying eyes](spell_dir/pryingEyes#_prying-eyes_S, _ [teleport](spell_dir/teleport#_teleport_OP, _ [telepathic bond](spell_dir/telepathicBond#_telepathic-bond_S
+5th—_ [dominate person](spell_dir/dominatePerson#_dominate-person)_, _ [fire snake](advanced/spell_dir/fireSnake#_fire-snake)_, _ [prying eyes](spells/pryingEyes#_prying-eyes)_S, _ [teleport](spell_dir/teleport#_teleport)_OP, _ [telepathic bond](spells/telepathicBond#_telepathic-bond)_S
 
-4th—_ [arcane eye](spell_dir/arcaneEye#_arcane-eye_S, _ [confusion](spell_dir/confusion#_confusion_, _ [detect scrying](spell_dir/detectScrying#_detect-scrying_S, _ [fear](spell_dir/fear#_fear_, _ [ice storm](spell_dir/iceStorm#_ice-storm_, _ [wall of fire](spell_dir/wallOfFire#_wall-of-fire_
+4th—_ [arcane eye](spell_dir/arcaneEye#_arcane-eye)_S, _ [confusion](spells/confusion#_confusion)_, _ [detect scrying](spell_dir/detectScrying#_detect-scrying)_S, _ [fear](spells/fear#_fear)_, _ [ice storm](spell_dir/iceStorm#_ice-storm)_, _ [wall of fire](spells/wallOfFire#_wall-of-fire)_
 
-3rd—_clairaudience_/_clairvoyance_S, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [displacement](spell_dir/displacement#_displacement_, _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater_OP, _ [hydraulic torrent](advanced/spell_dir/hydraulicTorrent#_hydraulic-torrent-_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_, _ [seek thoughts](advanced/spell_dir/seekThoughts#_seek-thoughts_, _ [tongues](spell_dir/tongues#_tongues_S
+3rd—_clairaudience_/_clairvoyance_S, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic)_, _ [displacement](spells/displacement#_displacement)_, _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_OP, _ [hydraulic torrent](advanced/spell_dir/hydraulicTorrent#_hydraulic-torrent-)_, _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_, _ [seek thoughts](advance_dir/spells/seekThoughts#_seek-thoughts)_, _ [tongues](spell_dir/tongues#_tongues)_S
 
-2nd—_ [arcane lock](spell_dir/arcaneLock#_arcane-lock_, _ [false life](spell_dir/falseLife#_false-life_, _ [fox's cunning](spell_dir/foxSCunning#_fox-s-cunning_OP, _ [locate object](spell_dir/locateObject#_locate-object_S, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_S, _ [touch of idiocy](spell_dir/touchOfIdiocy#_touch-of-idiocy_
+2nd—_ [arcane lock](spells/arcaneLock#_arcane-lock)_, _ [false life](spell_dir/falseLife#_false-life)_, _ [fox's cunning](spells/foxSCunning#_fox-s-cunning)_OP, _ [locate object](spell_dir/locateObject#_locate-object)_S, _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_S, _ [touch of idiocy](spell_dir/touchOfIdiocy#_touch-of-idiocy)_
 
-1st—_ [alarm](spell_dir/alarm#_alarm_, _ [charm person](spell_dir/charmPerson#_charm-person_, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_S, _ [color spray](spell_dir/colorSpray#_color-spray_, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors_S, _ [expeditious excavation](advanced/spell_dir/expeditiousExcavation#_expeditious-excavation_OP, , _ [floating disk](spell_dir/floatingDisk#_floating-disk_, _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil_, _ [shield](spell_dir/shield#_shield_, _ [true strike](spell_dir/trueStrike#_true-strike_S, _ [ventriloquism](spell_dir/ventriloquism#_ventriloquism)_
+1st—_ [alarm](spells/alarm#_alarm)_, _ [charm person](spell_dir/charmPerson#_charm-person)_, _ [comprehend languages](spells/comprehendLanguages#_comprehend-languages)_S, _ [color spray](spell_dir/colorSpray#_color-spray)_, _ [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_S, _ [expeditious excavation](advance_dir/spells/expeditiousExcavation#_expeditious-excavation)_OP, , _ [floating disk](spell_dir/floatingDisk#_floating-disk)_, _ [protection from evil](spells/protectionFromEvil#_protection-from-evil)_, _ [shield](spell_dir/shield#_shield)_, _ [true strike](spells/trueStrike#_true-strike)_S, _ [ventriloquism](spell_dir/ventriloquism#_ventriloquism)_
 
 Preparation Ritual
 
-**Travel Sage (Su** There is nothing like a magic book to enhance the memory. Unlike other boons, you do not spend this one. Until you prepare spells again, you are considered trained in [Knowledge](skill_dir/knowledge#_knowledge) (geography. If you are already trained in [Knowledge](skill_dir/knowledge#_knowledge) (geography), you gain a +2 circumstance bonus on those checks instead.
+**Travel Sage (Su)** There is nothing like a magic book to enhance the memory. Unlike other boons, you do not spend this one. Until you prepare spells again, you are considered trained in [Knowledge](skills/knowledge#_knowledge) (geography). If you are already trained in [Knowledge](skill_dir/knowledge#_knowledge) (geography), you gain a +2 circumstance bonus on those checks instead.
 
-Grandfather's Legacy (Level 14 Necromancer
+Grandfather's Legacy (Level 14 Necromancer)
 
 _This pair of lexicons is covered in excellently preserved human skin, with an intricate lace of fingerbones forming the locks on the cover. A family seal has been embossed on the lower center of the cover, but flecks of gold leaf have begun to peel away, revealing that the embossed pattern in fact follows a faded tattoo on the skin itself._
 
-**Protection** A series of three superior locks each augmented with _ [arcane lock](spell_dir/arcaneLock#_arcane-lock)_ (DC 50 and a _ [symbol of weakness](spell_dir/symbolOfWeakness#_symbol-of-weakness)_ (Fortitude DC 20 on the second page of each book.
+**Protection** A series of three superior locks each augmented with _ [arcane lock](spells/arcaneLock#_arcane-lock)_ (DC 50) and a _ [symbol of weakness](spell_dir/symbolOfWeakness#_symbol-of-weakness)_ (Fortitude DC 20) on the second page of each book.
 
 **Opposition Schools** Enchantment, illusion
 
@@ -343,169 +343,169 @@ _This pair of lexicons is covered in excellently preserved human skin, with an i
 
 Spells
 
-7th—_ [control undead](spell_dir/controlUndead#_control-undead_S, _ [finger of death](spell_dir/fingerOfDeath#_finger-of-death_S, _ [symbol of weakness](spell_dir/symbolOfWeakness#_symbol-of-weakness_S, _ [temporary resurrection](../spell_dir/temporaryResurrection#_temporary-resurrection_S,
+7th—_ [control undead](spells/controlUndead#_control-undead)_S, _ [finger of death](spell_dir/fingerOfDeath#_finger-of-death)_S, _ [symbol of weakness](spells/symbolOfWeakness#_symbol-of-weakness)_S, _ [temporary resurrection](../spell_dir/temporaryResurrection#_temporary-resurrection)_S,
 
-6th—_ [acid fog](spell_dir/acidFog#_acid-fog_, _chain lightning_S, , _ [circle of death](spell_dir/circleOfDeath#_circle-of-death_S, _ [create undead](spell_dir/createUndead#_create-undead_S, _ [unwilling shield](advanced/spell_dir/unwillingShield#_unwilling-shield_S,
+6th—_ [acid fog](spells/acidFog#_acid-fog)_, _chain lightning_S, , _ [circle of death](spell_dir/circleOfDeath#_circle-of-death)_S, _ [create undead](spells/createUndead#_create-undead)_S, _ [unwilling shield](advance_dir/spells/unwillingShield#_unwilling-shield)_S,
 
-5th—_ [dismissal](spell_dir/dismissal#_dismissal_, _ [hold monster](spell_dir/holdMonster#_hold-monster_, _ [magic jar](spell_dir/magicJar#_magic-jar_S, _possess object_S, , _ [wall of force](spell_dir/wallOfForce#_wall-of-force_, _ [waves of fatigue](spell_dir/wavesOfFatigue#_waves-of-fatigue_S
+5th—_ [dismissal](spell_dir/dismissal#_dismissal)_, _ [hold monster](spells/holdMonster#_hold-monster)_, _ [magic jar](spell_dir/magicJar#_magic-jar)_S, _possess object_S, , _ [wall of force](spells/wallOfForce#_wall-of-force)_, _ [waves of fatigue](spell_dir/wavesOfFatigue#_waves-of-fatigue)_S
 
-4th—_ [animate dead](spell_dir/animateDead#_animate-dead_S, _ [bestow curse](spell_dir/bestowCurse#_bestow-curse_S, _ [contagion](spell_dir/contagion#_contagion_S, _ [enervation](spell_dir/enervation#_enervation_S, _ [shadow projection](advanced/spell_dir/shadowProjection#_shadow-projection_S, , _ [shout](spell_dir/shout#_shout_, _ [wall of ice](spell_dir/wallOfIce#_wall-of-ice_
+4th—_ [animate dead](spells/animateDead#_animate-dead)_S, _ [bestow curse](spell_dir/bestowCurse#_bestow-curse)_S, _ [contagion](spells/contagion#_contagion)_S, _ [enervation](spell_dir/enervation#_enervation)_S, _ [shadow projection](advanced/spell_dir/shadowProjection#_shadow-projection)_S, , _ [shout](spells/shout#_shout)_, _ [wall of ice](spell_dir/wallOfIce#_wall-of-ice)_
 
-3rd—_ [gentle repose](spell_dir/gentleRepose#_gentle-repose_S, _ [halt undead](spell_dir/haltUndead#_halt-undead-copy_S, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_, _ [magic circle against good](spell_dir/magicCircleAgainstGood#_magic-circle-against-good_, _ [nondetection](spell_dir/nondetection#_nondetection_, _ [ray of exhaustion](spell_dir/rayOfExhaustion#_ray-of-exhaustion_S, _ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud_, _ [vampiric touch](spell_dir/vampiricTouch#_vampiric-touch_S
+3rd—_ [gentle repose](spells/gentleRepose#_gentle-repose)_S, _ [halt undead](spell_dir/haltUndead#_halt-undead-copy)_S, _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_, _ [magic circle against good](spell_dir/magicCircleAgainstGood#_magic-circle-against-good)_, _ [nondetection](spells/nondetection#_nondetection)_, _ [ray of exhaustion](spell_dir/rayOfExhaustion#_ray-of-exhaustion)_S, _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_, _ [vampiric touch](spell_dir/vampiricTouch#_vampiric-touch)_S
 
-2nd—_ [arcane lock](spell_dir/arcaneLock#_arcane-lock_, _blindness_S, _ [darkness](spell_dir/darkness#_darkness_, _ [false life](spell_dir/falseLife#_false-life_S, _ [obscure object](spell_dir/obscureObject#_obscure-object_, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [scare](spell_dir/scare#_scare_S, _ [summon swarm](spell_dir/summonSwarm#_summon-swarm_
+2nd—_ [arcane lock](spells/arcaneLock#_arcane-lock)_, _blindness_S, _ [darkness](spell_dir/darkness#_darkness)_, _ [false life](spells/falseLife#_false-life)_S, _ [obscure object](spell_dir/obscureObject#_obscure-object)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [scare](spell_dir/scare#_scare)_S, _ [summon swarm](spells/summonSwarm#_summon-swarm)_
 
-1st—_ [cause fear](spell_dir/causeFear#_cause-fear_S, _ [chill touch](spell_dir/chillTouch#_chill-touch_S, _ [floating disk](spell_dir/floatingDisk#_floating-disk_, _restore corpse_S, , _ [hypnotism](spell_dir/hypnotism#_hypnotism_, _obscuring fog_, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_S, _ [sculpt corpse](advanced/spell_dir/sculptCorpse#_sculpt-corpse-_S, , _ [shield](spell_dir/shield#_shield_, _ [sleep](spell_dir/sleep#_sleep)_
+1st—_ [cause fear](spell_dir/causeFear#_cause-fear)_S, _ [chill touch](spells/chillTouch#_chill-touch)_S, _ [floating disk](spell_dir/floatingDisk#_floating-disk)_, _restore corpse_S, , _ [hypnotism](spells/hypnotism#_hypnotism)_, _obscuring fog_, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_S, _ [sculpt corpse](advanced/spell_dir/sculptCorpse#_sculpt-corpse-)_S, , _ [shield](spells/shield#_shield)_, _ [sleep](spell_dir/sleep#_sleep)_
 
 Chymist's Guidebook (Level 15 Alchemist)
 
 _The pages of this formula book are carefully varnished. Sprinkled among the formulae are details and diagrams of alchemical devices, many of which seem to defy the normal conventions of alchemy and physics. The last page contains incomplete notes on the preparation of experimental mutagens._
 
-**Protection** Good lock (DC 30
+**Protection** Good lock (DC 30)
 
 **Value** 2,545 gp
 
 Formula
 
-5th—_ [delayed consumption](advanced/spell_dir/delayedConsumption#_delayed-consumption_, _ [magic jar](spell_dir/magicJar#_magic-jar_, _ [spell resistance](magicItem_dir/armor#_armor-spell-resistance_
+5th—_ [delayed consumption](advanced/spell_dir/delayedConsumption#_delayed-consumption)_, _ [magic jar](spells/magicJar#_magic-jar)_, _ [spell resistance](magicItem_dir/armor#_armor-spell-resistance)_
 
-4th—_ [detonate](advanced/spell_dir/detonate#_detonate_, _ [freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement_, _ [greater invisibility](spell_dir/invisibility#_invisibility-greater_, _ [restoration](spell_dir/restoration#_restoration_, _ [stoneskin](spell_dir/stoneskin#_stoneskin_
+4th—_ [detonate](advanced/spell_dir/detonate#_detonate)_, _ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement)_, _ [greater invisibility](spell_dir/invisibility#_invisibility-greater)_, _ [restoration](spells/restoration#_restoration)_, _ [stoneskin](spell_dir/stoneskin#_stoneskin)_
 
-3rd—_ [amplify elixir](advanced/spell_dir/amplifyElixir#_amplify-elixir_, _ [arcane sight](spell_dir/arcaneSight#_arcane-sight_, _ [haste](spell_dir/haste#_haste_, _ [heroism](spell_dir/heroism#_heroism_, _ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy_, _ [thorn body](advanced/spell_dir/thornBody#_thorn-body_
+3rd—_ [amplify elixir](advanced/spell_dir/amplifyElixir#_amplify-elixir)_, _ [arcane sight](spells/arcaneSight#_arcane-sight)_, _ [haste](spell_dir/haste#_haste)_, _ [heroism](spells/heroism#_heroism)_, _ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy)_, _ [thorn body](advanced/spell_dir/thornBody#_thorn-body)_
 
-2nd—_ [alter self](spell_dir/alterSelf#_alter-self_, _ [bear's endurance](spell_dir/bearSEndurance#_bear-s-endurance_, _ [false life](spell_dir/falseLife#_false-life_, _ [fire breath](advanced/spell_dir/fireBreath#_fire-breath_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_, _ [transmute potion to poison](advanced/spell_dir/transmutePotionToPoison#_transmute-potion-to-poison_
+2nd—_ [alter self](spells/alterSelf#_alter-self)_, _ [bear's endurance](spell_dir/bearSEndurance#_bear-s-endurance)_, _ [false life](spells/falseLife#_false-life)_, _ [fire breath](advance_dir/spells/fireBreath#_fire-breath)_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_, _ [transmute potion to poison](advanced/spell_dir/transmutePotionToPoison#_transmute-potion-to-poison)_
 
-1st—_ [ant haul](advanced/spell_dir/antHaul#_ant-haul-_, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds_, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors_, _ [enlarge person](spell_dir/enlargePerson#_enlarge-person_, _ [jump](spell_dir/jump#_jump_, _ [keen senses](advanced/spell_dir/keenSenses#_keen-senses_, _ [negate aroma](advanced/spell_dir/negateAroma#_negate-aroma_, _ [shield](spell_dir/shield#_shield_, _ [true strike](spell_dir/trueStrike#_true-strike)_
+1st—_ [ant haul](advanced/spell_dir/antHaul#_ant-haul-)_, _ [comprehend languages](spells/comprehendLanguages#_comprehend-languages)_, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_, _ [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_, _ [enlarge person](spell_dir/enlargePerson#_enlarge-person)_, _ [jump](spells/jump#_jump)_, _ [keen senses](advance_dir/spells/keenSenses#_keen-senses)_, _ [negate aroma](advance_dir/spells/negateAroma#_negate-aroma)_, _ [shield](spell_dir/shield#_shield)_, _ [true strike](spells/trueStrike#_true-strike)_
 
-Guardian Grimoire (Level 15 Abjurer
+Guardian Grimoire (Level 15 Abjurer)
 
 _These three well-made books are covered with runes of warding against outsiders and undead. The pages inside show water damage along the edges._
 
-**Protection** _ [Explosive runes](spell_dir/explosiveRunes#_explosive-runes) _(Reflex DC 16 and _ [fire trap](spell_dir/fireTrap#_fire-trap)_ (Reflex DC 17)
+**Protection** _ [Explosive runes](spell_dir/explosiveRunes#_explosive-runes) _(Reflex DC 16) and _ [fire trap](spells/fireTrap#_fire-trap)_ (Reflex DC 17)
 
 **Opposition Schools** Illusion, necromancy
 
-**Value** 10,055 gp (13,055 gp with the preparation ritual
+**Value** 10,055 gp (13,055 gp with the preparation ritual)
 
 Spells
 
-8th—_ [binding](spell_dir/binding#_binding_, _ [maze](spell_dir/maze#_maze_, _ [protection from spells](spell_dir/protectionFromSpells#_protection-from-spells_S
+8th—_ [binding](spell_dir/binding#_binding)_, _ [maze](spells/maze#_maze)_, _ [protection from spells](spell_dir/protectionFromSpells#_protection-from-spells)_S
 
-7th—_ [banishment](spell_dir/banishment#_banishment_S, _ [delayed blast fireball](spell_dir/delayedBlastFireball#_delayed-blast-fireball_, _ [expend](advanced/spell_dir/expend#_expend-_S, , _ [form of the dragon II](spell_dir/formOfTheDragon#_form-of-the-dragon-ii_, _ [grasping hand](spell_dir/graspingHand#_grasping-hand_
+7th—_ [banishment](spells/banishment#_banishment)_S, _ [delayed blast fireball](spell_dir/delayedBlastFireball#_delayed-blast-fireball)_, _ [expend](advanced/spell_dir/expend#_expend-)_S, , _ [form of the dragon II](spells/formOfTheDragon#_form-of-the-dragon-ii)_, _ [grasping hand](spell_dir/graspingHand#_grasping-hand)_
 
-6th—_ [analyze dweomer](spell_dir/analyzeDweomer#_analyze-dweomer_, _ [antimagic field](spell_dir/antimagicField#_antimagic-field_S, _ [chain lightning](spell_dir/chainLightning#_chain-lightning_, _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater_S, _ [true seeing](spell_dir/trueSeeing#_true-seeing_
+6th—_ [analyze dweomer](spells/analyzeDweomer#_analyze-dweomer)_, _ [antimagic field](spell_dir/antimagicField#_antimagic-field)_S, _ [chain lightning](spells/chainLightning#_chain-lightning)_, _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater)_S, _ [true seeing](spells/trueSeeing#_true-seeing)_
 
-5th—_ [break enchantment](spell_dir/breakEnchantment#_break-enchantment_S, _ [cone of cold](spell_dir/coneOfCold#_cone-of-cold_, _ [dismissal](spell_dir/dismissal#_dismissal_S, _ [polymorph](spell_dir/polymorph#_polymorph_, _ [summon monster V](spell_dir/summonMonster#_summon-monster-v_, _ [wall of force](spell_dir/wallOfForce#_wall-of-force_
+5th—_ [break enchantment](spell_dir/breakEnchantment#_break-enchantment)_S, _ [cone of cold](spells/coneOfCold#_cone-of-cold)_, _ [dismissal](spell_dir/dismissal#_dismissal)_S, _ [polymorph](spells/polymorph#_polymorph)_, _ [summon monster V](spell_dir/summonMonster#_summon-monster-v)_, _ [wall of force](spells/wallOfForce#_wall-of-force)_
 
-4th—_ [confusion](spell_dir/confusion#_confusion_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional_S, _ [fire trap](spell_dir/fireTrap#_fire-trap_S, _ [mass enlarge person](spell_dir/enlargePerson#_enlarge-person-mass_, _ [secure shelter](spell_dir/secureShelter#_secure-shelter_, _ [true form](advanced/spell_dir/trueForm#_true-form_S,
+4th—_ [confusion](spell_dir/confusion#_confusion)_, _ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional)_S, _ [fire trap](spells/fireTrap#_fire-trap)_S, _ [mass enlarge person](spell_dir/enlargePerson#_enlarge-person-mass)_, _ [secure shelter](spells/secureShelter#_secure-shelter)_, _ [true form](advance_dir/spells/trueForm#_true-form)_S,
 
-3rd—_ [cloak of winds](advanced/spell_dir/cloakOfWinds#_cloak-of-winds_S, , _ [daylight](spell_dir/daylight#_daylight_, _ [enter image](advanced/spell_dir/enterImage#_enter-image-_, _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes_S, _ [haste](spell_dir/haste#_haste_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_, _ [magic circle against evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil_S, _ [water breathing](spell_dir/waterBreathing#_water-breathing_
+3rd—_ [cloak of winds](advance_dir/spells/cloakOfWinds#_cloak-of-winds)_S, , _ [daylight](spell_dir/daylight#_daylight)_, _ [enter image](advanced/spell_dir/enterImage#_enter-image-)_, _ [explosive runes](spells/explosiveRunes#_explosive-runes)_S, _ [haste](spell_dir/haste#_haste)_, _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_, _ [magic circle against evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_S, _ [water breathing](spells/waterBreathing#_water-breathing)_
 
-2nd—_ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts_, _ [glitterdust](spell_dir/glitterdust#_glitterdust_, _ [knock](spell_dir/knock#_knock_, _ [protection from arrows](spell_dir/protectionFromArrows#_protection-from-arrows_S, _cushioning bands_, _ [resist energy](spell_dir/resistEnergy#_resist-energy_S, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_, _ [whispering wind](spell_dir/whisperingWind#_whispering-wind_
+2nd—_ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_, _ [glitterdust](spells/glitterdust#_glitterdust)_, _ [knock](spell_dir/knock#_knock)_, _ [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_S, _cushioning bands_, _ [resist energy](spell_dir/resistEnergy#_resist-energy)_S, _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [whispering wind](spell_dir/whisperingWind#_whispering-wind)_
 
-1st—_ [animate rope](spell_dir/animateRope#_animate-rope_, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors_, _ [detect undead](spell_dir/detectUndead#_detect-undead_, _ [endure elements](spell_dir/endureElements#_endure-elements_S, _ [feather fall](spell_dir/featherFall#_feather-fall_, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist_, _ [protection from chaos](spell_dir/protectionFromChaos#_protection-from-chaos_S, _ [shadow](magicItem_dir/armor#_armor-shadow blade_S, , _ [shield](spell_dir/shield#_shield_S, _ [shocking grasp](spell_dir/shockingGrasp#_shocking-grasp_, _ [touch of gracelessness](advanced/spell_dir/touchOfGracelessness#_touch-of-gracelessness_
+1st—_ [animate rope](spells/animateRope#_animate-rope)_, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors)_, _ [detect undead](spells/detectUndead#_detect-undead)_, _ [endure elements](spell_dir/endureElements#_endure-elements)_S, _ [feather fall](spells/featherFall#_feather-fall)_, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist)_, _ [protection from chaos](spells/protectionFromChaos#_protection-from-chaos)_S, _ [shadow](magicItem_dir/armor#_armor-shadow) blade_S, , _ [shield](spells/shield#_shield)_S, _ [shocking grasp](spell_dir/shockingGrasp#_shocking-grasp)_, _ [touch of gracelessness](advanced/spell_dir/touchOfGracelessness#_touch-of-gracelessness)_
 
-0—standard plus _ [disrupt undead](spell_dir/disruptUndead#_disrupt-undead)_OP
+0—standard plus _ [disrupt undead](spells/disruptUndead#_disrupt-undead)_OP
 
 Preparation Ritual
 
 **Guardian Trick (Su)** With a quick phrase of power, you attempt to foil an attack. Spend this boon's effect as an immediate action when an undead or outsider hits you with an attack. The attacking creature must reroll the attack, taking the second roll even if it is lower.
 
-Mysteries of Shadow (Level 16 Illusionist
+Mysteries of Shadow (Level 16 Illusionist)
 
-_Each volume of this three-book set is written in gold ink on jet-black paper. [Illusory script](spell_dir/illusoryScript#_illusory-script hides descriptions of the geography and denizens of the [Shadow](magicItem_dir/armor#_armor-shadow Plane._
+_Each volume of this three-book set is written in gold ink on jet-black paper. [Illusory script](spell_dir/illusoryScript#_illusory-script) hides descriptions of the geography and denizens of the [Shadow](magicItems/armor#_armor-shadow) Plane._
 
-**Protection** _ [illusory script](spell_dir/illusoryScript#_illusory-script)_ (Will DC 16; on failure the suggestion is “Forget the existence of the descriptions and notes”, _ [phantom trap](spell_dir/phantomTrap#_phantom-trap) _(opening any of the books seems to set off a trap)
+**Protection** _ [illusory script](spell_dir/illusoryScript#_illusory-script)_ (Will DC 16; on failure the suggestion is “Forget the existence of the descriptions and notes”), _ [phantom trap](spells/phantomTrap#_phantom-trap) _(opening any of the books seems to set off a trap)
 
 **Opposition Schools** divination, evocation
 
-**Value** 11,865 gp (15,065 gp with the preparation ritual
+**Value** 11,865 gp (15,065 gp with the preparation ritual)
 
 Spells
 
-8th—_ [greater](spell_dir/shadowEvocation#_shadow-evocation-greater [shadow](magicItem_dir/armor#_armor-shadow evocation_S, _ [mind blank](spell_dir/mindBlank#_mind-blank_, _ [scintillating pattern](spell_dir/scintillatingPattern#_scintillating-pattern_S, _ [temporal stasis](spell_dir/temporalStasis#_temporal-stasis_
+8th—_ [greater](spell_dir/shadowEvocation#_shadow-evocation-greater) [shadow](magicItems/armor#_armor-shadow) evocation_S, _ [mind blank](spell_dir/mindBlank#_mind-blank)_, _ [scintillating pattern](spells/scintillatingPattern#_scintillating-pattern)_S, _ [temporal stasis](spell_dir/temporalStasis#_temporal-stasis)_
 
-7th—_ [finger of death](spell_dir/fingerOfDeath#_finger-of-death_, _ [greater](spell_dir/shadowConjuration#_shadow-conjuration-greater [shadow](magicItem_dir/armor#_armor-shadow conjuration_S, _ [project image](spell_dir/projectImage#_project-image_S, _ [simulacrum](spell_dir/simulacrum#_simulacrum_S, _ [spell turning](spell_dir/spellTurning#_spell-turning_
+7th—_ [finger of death](spells/fingerOfDeath#_finger-of-death)_, _ [greater](spell_dir/shadowConjuration#_shadow-conjuration-greater) [shadow](magicItems/armor#_armor-shadow) conjuration_S, _ [project image](spell_dir/projectImage#_project-image)_S, _ [simulacrum](spells/simulacrum#_simulacrum)_S, _ [spell turning](spell_dir/spellTurning#_spell-turning)_
 
-6th—_ [eyebite](spell_dir/eyebite#_eyebite_, _ [guards and wards](spell_dir/guardsAndWards#_guards-and-wards_, _ [limited wish](spell_dir/limitedWish#_limited-wish_, _ [permanent image](spell_dir/permanentImage#_permanent-image_S, _ [programmed image](spell_dir/programmedImage#_programmed-image_S, _ [shadow walk](spell_dir/shadowWalk#_shadow-walk_S, _ [symbol of persuasion](spell_dir/symbolOfPersuasion#_symbol-of-persuasion_
+6th—_ [eyebite](spells/eyebite#_eyebite)_, _ [guards and wards](spell_dir/guardsAndWards#_guards-and-wards)_, _ [limited wish](spells/limitedWish#_limited-wish)_, _ [permanent image](spell_dir/permanentImage#_permanent-image)_S, _ [programmed image](spells/programmedImage#_programmed-image)_S, _ [shadow walk](spell_dir/shadowWalk#_shadow-walk)_S, _ [symbol of persuasion](spells/symbolOfPersuasion#_symbol-of-persuasion)_
 
-5th—_ [cloudkill](spell_dir/cloudkill#_cloudkill_, _ [mirage arcana](spell_dir/mirageArcana#_mirage-arcana_S, _ [mind fog](spell_dir/mindFog#_mind-fog_, _ [nightmare](spell_dir/nightmare#_nightmare_S, _ [seeming](spell_dir/seeming#_seeming_S, _ [shadow evocation](spell_dir/shadowEvocation#_shadow-evocation_S, _ [telekinesis](spell_dir/telekinesis#_telekinesis_
+5th—_ [cloudkill](spell_dir/cloudkill#_cloudkill)_, _ [mirage arcana](spells/mirageArcana#_mirage-arcana)_S, _ [mind fog](spell_dir/mindFog#_mind-fog)_, _ [nightmare](spells/nightmare#_nightmare)_S, _ [seeming](spell_dir/seeming#_seeming)_S, _ [shadow evocation](spells/shadowEvocation#_shadow-evocation)_S, _ [telekinesis](spell_dir/telekinesis#_telekinesis)_
 
-4th—_ [black tentacles](spell_dir/blackTentacles#_black-tentacles_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [greater invisibility](spell_dir/invisibility#_invisibility-greater_S, _ [lesser globe of invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser_, _ [phantasmal killer](spell_dir/phantasmalKiller#_phantasmal-killer_S, _ [remove curse](spell_dir/removeCurse#_remove-curse_, _ [scrying](spell_dir/scrying#_scrying_OP, _ [shadow conjuration](spell_dir/shadowConjuration#_shadow-conjuration_S
+4th—_ [black tentacles](spells/blackTentacles#_black-tentacles)_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_, _ [greater invisibility](spells/invisibility#_invisibility-greater)_S, _ [lesser globe of invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, _ [phantasmal killer](spells/phantasmalKiller#_phantasmal-killer)_S, _ [remove curse](spell_dir/removeCurse#_remove-curse)_, _ [scrying](spells/scrying#_scrying)_OP, _ [shadow conjuration](spell_dir/shadowConjuration#_shadow-conjuration)_S
 
-3rd—_ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [heroism](spell_dir/heroism#_heroism_, _ [illusory script](spell_dir/illusoryScript#_illusory-script_S, _ [magic circle against good](spell_dir/magicCircleAgainstGood#_magic-circle-against-good_, _ [major image](spell_dir/majorImage#_major-image_S, _ [phantom steed](spell_dir/phantomSteed#_phantom-steed_, _ [shrink item](spell_dir/shrinkItem#_shrink-item_, _ [slow](spell_dir/slow#_slow_
+3rd—_ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [heroism](spell_dir/heroism#_heroism)_, _ [illusory script](spells/illusoryScript#_illusory-script)_S, _ [magic circle against good](spell_dir/magicCircleAgainstGood#_magic-circle-against-good)_, _ [major image](spells/majorImage#_major-image)_S, _ [phantom steed](spell_dir/phantomSteed#_phantom-steed)_, _ [shrink item](spells/shrinkItem#_shrink-item)_, _ [slow](spell_dir/slow#_slow)_
 
-2nd—_ [arcane lock](spell_dir/arcaneLock#_arcane-lock_, _ [darkness](spell_dir/darkness#_darkness_OP, _ [false life](spell_dir/falseLife#_false-life_, _ [glitterdust](spell_dir/glitterdust#_glitterdust_, _ [magic mouth](spell_dir/magicMouth#_magic-mouth_S, _ [mirror image](spell_dir/mirrorImage#_mirror-image_S, _ [obscure object](spell_dir/obscureObject#_obscure-object_, _ [phantom trap](spell_dir/phantomTrap#_phantom-trap_S, _ [whispering wind](spell_dir/whisperingWind#_whispering-wind_
+2nd—_ [arcane lock](spells/arcaneLock#_arcane-lock)_, _ [darkness](spell_dir/darkness#_darkness)_OP, _ [false life](spells/falseLife#_false-life)_, _ [glitterdust](spell_dir/glitterdust#_glitterdust)_, _ [magic mouth](spells/magicMouth#_magic-mouth)_S, _ [mirror image](spell_dir/mirrorImage#_mirror-image)_S, _ [obscure object](spells/obscureObject#_obscure-object)_, _ [phantom trap](spell_dir/phantomTrap#_phantom-trap)_S, _ [whispering wind](spells/whisperingWind#_whispering-wind)_
 
-1st—_ [color spray](spell_dir/colorSpray#_color-spray_S, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_S, _ [endure elements](spell_dir/endureElements#_endure-elements_, _ [feather fall](spell_dir/featherFall#_feather-fall_, _ [grease](spell_dir/grease#_grease_, _ [magic aura](spell_dir/magicAura#_magic-aura_S, _ [minor image](spell_dir/minorImage#_minor-image_S, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist_, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_, _ [silent image](spell_dir/silentImage#_silent-image_S, _ [ventriloquism](spell_dir/ventriloquism#_ventriloquism)_S
+1st—_ [color spray](spell_dir/colorSpray#_color-spray)_S, _ [disguise self](spells/disguiseSelf#_disguise-self)_S, _ [endure elements](spell_dir/endureElements#_endure-elements)_, _ [feather fall](spells/featherFall#_feather-fall)_, _ [grease](spell_dir/grease#_grease)_, _ [magic aura](spells/magicAura#_magic-aura)_S, _ [minor image](spell_dir/minorImage#_minor-image)_S, _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_, _ [silent image](spells/silentImage#_silent-image)_S, _ [ventriloquism](spell_dir/ventriloquism#_ventriloquism)_S
 
 Preparation Ritual
 
-**Shadow Knowledge (Su** The knowledge in this book clings to your consciousness like the Shadow Plane itself. Unlike other boons, you do not spend this one. Until you prepare spells again, you are considered trained in all [Knowledge](skill_dir/knowledge#_knowledge skills as long as the check pertains to the geography and denizens of the Shadow Plane. If you are already trained in the appropriate [Knowledge](skill_dir/knowledge#_knowledge) skill, you gain a +2 circumstance bonus on these checks instead.
+**Shadow Knowledge (Su)** The knowledge in this book clings to your consciousness like the Shadow Plane itself. Unlike other boons, you do not spend this one. Until you prepare spells again, you are considered trained in all [Knowledge](skills/knowledge#_knowledge) skills as long as the check pertains to the geography and denizens of the Shadow Plane. If you are already trained in the appropriate [Knowledge](skill_dir/knowledge#_knowledge) skill, you gain a +2 circumstance bonus on these checks instead.
 
 Master Books of Rul Thaven (Level 17 Diviner)
 
 _This trio of books is bound in leather as black as a starless night, clasped together with gleaming silver. The pages are filled with notes and errata. The handwriting becomes more hurried toward the end of the trilogy, and the final page says, “I have found her!” _
 
-**Protection** Each book features a superior lock (DC 40; _ [secret page](spell_dir/secretPage#_secret-page_ hides the 9th- and 7th-level spells, and the first book is warded with _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes)_ (Reflex DC 17).
+**Protection** Each book features a superior lock (DC 40); _ [secret page](spells/secretPage#_secret-page)_ hides the 9th- and 7th-level spells, and the first book is warded with _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes)_ (Reflex DC 17).
 
 **Opposition Schools** Illusion, transmutation
 
-**Value** 12,725 gp (16,550 gp with the preparation ritual
+**Value** 12,725 gp (16,550 gp with the preparation ritual)
 
 SPELLS
 
-9th—_ [foresight](spell_dir/foresight#_foresight_S, _ [freedom](spell_dir/freedom#_freedom_
+9th—_ [foresight](spells/foresight#_foresight)_S, _ [freedom](spell_dir/freedom#_freedom)_
 
-8th—_ [demand](spell_dir/demand#_demand_, _ [discern location](spell_dir/discernLocation#_discern-location_S, _ [greater prying eyes](spell_dir/pryingEyes#_prying-eyes-greater_S, _ [trap the soul](spell_dir/trapTheSoul#_trap-the-soul_
+8th—_ [demand](spells/demand#_demand)_, _ [discern location](spell_dir/discernLocation#_discern-location)_S, _ [greater prying eyes](spells/pryingEyes#_prying-eyes-greater)_S, _ [trap the soul](spell_dir/trapTheSoul#_trap-the-soul)_
 
-7th—_ [instant summons](spell_dir/instantSummons#_instant-summons_, _ [greater arcane sight](spell_dir/arcaneSight#_arcane-sight-greater_S, _ [greater scrying](spell_dir/scrying#_scrying-greater_S, _ [plane shift](spell_dir/planeShift#_plane-shift_, _ [vision](spell_dir/vision#_vision_S
+7th—_ [instant summons](spells/instantSummons#_instant-summons)_, _ [greater arcane sight](spell_dir/arcaneSight#_arcane-sight-greater)_S, _ [greater scrying](spells/scrying#_scrying-greater)_S, _ [plane shift](spell_dir/planeShift#_plane-shift)_, _ [vision](spells/vision#_vision)_S
 
-6th—_ [analyze dweomer](spell_dir/analyzeDweomer#_analyze-dweomer_S, _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater_, _ [guards and wards](spell_dir/guardsAndWards#_guards-and-wards_, _ [legend lore](spell_dir/legendLore#_legend-lore_S, _ [repulsion](spell_dir/repulsion#_repulsion_, _ [true seeing](spell_dir/trueSeeing#_true-seeing_S
+6th—_ [analyze dweomer](spell_dir/analyzeDweomer#_analyze-dweomer)_S, _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_, _ [guards and wards](spell_dir/guardsAndWards#_guards-and-wards)_, _ [legend lore](spells/legendLore#_legend-lore)_S, _ [repulsion](spell_dir/repulsion#_repulsion)_, _ [true seeing](spells/trueSeeing#_true-seeing)_S
 
-5th—_ [contact other plane](spell_dir/contactOtherPlane#_contact-other-plane_S, _ [major creation](spell_dir/majorCreation#_major-creation_, _ [secret chest](spell_dir/secretChest#_secret-chest_, _ [sending](spell_dir/sending#_sending_, _ [telepathic bond](spell_dir/telepathicBond#_telepathic-bond_S, _ [planar adaptation](advanced/spell_dir/planarAdaptation#_planar-adaptation_OP
+5th—_ [contact other plane](spell_dir/contactOtherPlane#_contact-other-plane)_S, _ [major creation](spells/majorCreation#_major-creation)_, _ [secret chest](spell_dir/secretChest#_secret-chest)_, _ [sending](spells/sending#_sending)_, _ [telepathic bond](spell_dir/telepathicBond#_telepathic-bond)_S, _ [planar adaptation](advanced/spell_dir/planarAdaptation#_planar-adaptation)_OP
 
-4th—_ [bestow curse](spell_dir/bestowCurse#_bestow-curse_, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional_, _ [lesser geas](spell_dir/geasQuest#_geas-lesser_, _ [lesser globe of invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser_, _locate creatur_eS, _ [remove curse](spell_dir/removeCurse#_remove-curse_, _ [secure shelter](spell_dir/secureShelter#_secure-shelter_, _ [share senses](advanced/spell_dir/shareSenses#_share-senses_S,
+4th—_ [bestow curse](spells/bestowCurse#_bestow-curse)_, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional)_, _ [lesser geas](spells/geasQuest#_geas-lesser)_, _ [lesser globe of invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, _locate creatur_eS, _ [remove curse](spells/removeCurse#_remove-curse)_, _ [secure shelter](spell_dir/secureShelter#_secure-shelter)_, _ [share senses](advanced/spell_dir/shareSenses#_share-senses)_S,
 
-3rd—_ [arcane sight](spell_dir/arcaneSight#_arcane-sight_S, _ [blood biography](advanced/spell_dir/bloodBiography#_blood-biography-_S, , _clairaudience_/_clairvoyanc_eS, _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes_, _ [secret page](spell_dir/secretPage#_secret-page_OP, _seek senses_S, , _ [tongues](spell_dir/tongues#_tongues_S
+3rd—_ [arcane sight](spells/arcaneSight#_arcane-sight)_S, _ [blood biography](advance_dir/spells/bloodBiography#_blood-biography-)_S, , _clairaudience_/_clairvoyanc_eS, _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes)_, _ [secret page](spells/secretPage#_secret-page)_OP, _seek senses_S, , _ [tongues](spell_dir/tongues#_tongues)_S
 
-2nd—_ [continual flame](spell_dir/continualFlame#_continual-flame_, _ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts_S, _ [flaming sphere](spell_dir/flamingSphere#_flaming-sphere_, _ [hold person](spell_dir/holdPerson#_hold-person_, _ [locate object](spell_dir/locateObject#_locate-object_S, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_S, _ [summon monster II](spell_dir/summonMonster#_summon-monster-ii_
+2nd—_ [continual flame](spells/continualFlame#_continual-flame)_, _ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_S, _ [flaming sphere](spells/flamingSphere#_flaming-sphere)_, _ [hold person](spell_dir/holdPerson#_hold-person)_, _ [locate object](spells/locateObject#_locate-object)_S, _ [resist energy](spell_dir/resistEnergy#_resist-energy)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_S, _ [summon monster II](spell_dir/summonMonster#_summon-monster-ii)_
 
-1st—_ [cause fear](spell_dir/causeFear#_cause-fear_, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_S, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors_S, _ [detect undead](spell_dir/detectUndead#_detect-undead_S, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_OP, _ [identify](spell_dir/identify#_identify_S, _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil_, _ [protection from law](spell_dir/protectionFromLaw#_protection-from-law_, _ [true strike](spell_dir/trueStrike#_true-strike)_S
+1st—_ [cause fear](spells/causeFear#_cause-fear)_, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages)_S, _ [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_S, _ [detect undead](spell_dir/detectUndead#_detect-undead)_S, _ [disguise self](spells/disguiseSelf#_disguise-self)_OP, _ [identify](spell_dir/identify#_identify)_S, _ [protection from evil](spells/protectionFromEvil#_protection-from-evil)_, _ [protection from law](spell_dir/protectionFromLaw#_protection-from-law)_, _ [true strike](spells/trueStrike#_true-strike)_S
 
 Preparation Ritual
 
-**Improved Eyes of Rul Thaven (Su** This improved boon allows you to see invisible creatures. You can activate the boon's effect as a swift action to gain the effects of _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_ for up to 10 rounds. The rounds need not be consecutive, but you must spend a swift action each time you activate the boon's effect. The boon's effect is only spent when all 10 rounds of _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_ are used up, or the next time you prepare wizard spells.
+**Improved Eyes of Rul Thaven (Su)** This improved boon allows you to see invisible creatures. You can activate the boon's effect as a swift action to gain the effects of _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_ for up to 10 rounds. The rounds need not be consecutive, but you must spend a swift action each time you activate the boon's effect. The boon's effect is only spent when all 10 rounds of _ [see invisibility](spells/seeInvisibility#_see-invisibility)_ are used up, or the next time you prepare wizard spells.
 
-Manual of Binding (Level 18 Conjurer
+Manual of Binding (Level 18 Conjurer)
 
 _The three volumes of this set are bound in black sharkskin, the spells inscribed in purple ink on fine paper. Spells conceal extensive notes on constructing a lich's phylactery._
 
-**Protection** _ [magic aura](spell_dir/magicAura#_magic-aura)_ (spellbook appears nonmagical, _ [secret page](spell_dir/secretPage#_secret-page_ hides the notes on constructing a lich's phylactery, _ [sepia snake sigil](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil) (_Reflex DC 17)
+**Protection** _ [magic aura](spell_dir/magicAura#_magic-aura)_ (spellbook appears nonmagical), _ [secret page](spells/secretPage#_secret-page)_ hides the notes on constructing a lich's phylactery, _ [sepia snake sigil](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil) (_Reflex DC 17)
 
 **Opposition Schools** Abjuration, enchantment
 
-**Value** 17,165 gp (21,215 gp with the preparation ritual
+**Value** 17,165 gp (21,215 gp with the preparation ritual)
 
 Spells
 
-9th—_ [gate](spell_dir/gate#_gate_S, _ [soul bind](spell_dir/soulBind#_soul-bind_, _ [summon monster IX](spell_dir/summonMonster#_summon-monster-ix_S, _ [time stop](spell_dir/timeStop#_time-stop_, _ [wish](spell_dir/wish#_wish_
+9th—_ [gate](spells/gate#_gate)_S, _ [soul bind](spell_dir/soulBind#_soul-bind)_, _ [summon monster IX](spells/summonMonster#_summon-monster-ix)_S, _ [time stop](spell_dir/timeStop#_time-stop)_, _ [wish](spells/wish#_wish)_
 
-8th—_ [create greater undead](spell_dir/createGreaterUndead#_create-greater-undead_, _ [horrid wilting](spell_dir/horridWilting#_horrid-wilting_, _ [greater planar binding](spell_dir/planarBinding#_planar-binding-greater_S, _ [maze](spell_dir/maze#_maze_S, _ [screen](spell_dir/screen#_screen_
+8th—_ [create greater undead](spell_dir/createGreaterUndead#_create-greater-undead)_, _ [horrid wilting](spells/horridWilting#_horrid-wilting)_, _ [greater planar binding](spell_dir/planarBinding#_planar-binding-greater)_S, _ [maze](spells/maze#_maze)_S, _ [screen](spell_dir/screen#_screen)_
 
-7th—_ [banishment](spell_dir/banishment#_banishment_OP, _ [finger of death](spell_dir/fingerOfDeath#_finger-of-death_, _ [grasping hand](spell_dir/graspingHand#_grasping-hand_, _ [greater teleport](spell_dir/teleport#_teleport-greater_S, _ [reverse gravity](spell_dir/reverseGravity#_reverse-gravity_, _ [summon monster VII](spell_dir/summonMonster#_summon-monster-vii_S
+7th—_ [banishment](spells/banishment#_banishment)_OP, _ [finger of death](spell_dir/fingerOfDeath#_finger-of-death)_, _ [grasping hand](spells/graspingHand#_grasping-hand)_, _ [greater teleport](spell_dir/teleport#_teleport-greater)_S, _ [reverse gravity](spells/reverseGravity#_reverse-gravity)_, _ [summon monster VII](spell_dir/summonMonster#_summon-monster-vii)_S
 
-6th—_contagious flames_, _ [disintegrate](spell_dir/disintegrate#_disintegrate_, _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater_OP, _ [legend lore](spell_dir/legendLore#_legend-lore_, _ [planar binding](spell_dir/planarBinding#_planar-binding_S, _ [wall of iron](spell_dir/wallOfIron#_wall-of-iron_S
+6th—_contagious flames_, _ [disintegrate](spells/disintegrate#_disintegrate)_, _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater)_OP, _ [legend lore](spells/legendLore#_legend-lore)_, _ [planar binding](spell_dir/planarBinding#_planar-binding)_S, _ [wall of iron](spells/wallOfIron#_wall-of-iron)_S
 
-5th—_ [cloudkill](spell_dir/cloudkill#_cloudkill_S, _ [cone of cold](spell_dir/coneOfCold#_cone-of-cold_, _ [contact other plane](spell_dir/contactOtherPlane#_contact-other-plane_, _ [hungry pit](advanced/spell_dir/hungryPit#_hungry-pit-_S, , _ [magic jar](spell_dir/magicJar#_magic-jar_, _ [overland flight](spell_dir/overlandFlight#_overland-flight_, _ [permanency](spell_dir/permanency#_permanency_, _ [secret chest](spell_dir/secretChest#_secret-chest_S, _ [symbol of pain](spell_dir/symbolOfPain#_symbol-of-pain_
+5th—_ [cloudkill](spell_dir/cloudkill#_cloudkill)_S, _ [cone of cold](spells/coneOfCold#_cone-of-cold)_, _ [contact other plane](spell_dir/contactOtherPlane#_contact-other-plane)_, _ [hungry pit](advanced/spell_dir/hungryPit#_hungry-pit-)_S, , _ [magic jar](spells/magicJar#_magic-jar)_, _ [overland flight](spell_dir/overlandFlight#_overland-flight)_, _ [permanency](spells/permanency#_permanency)_, _ [secret chest](spell_dir/secretChest#_secret-chest)_S, _ [symbol of pain](spells/symbolOfPain#_symbol-of-pain)_
 
-4th—_ [ball lightning](advanced/spell_dir/ballLightning#_ball-lightning_, _ [black tentacles](spell_dir/blackTentacles#_black-tentacles_S, _ [detect scrying](spell_dir/detectScrying#_detect-scrying_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_S, _ [enervation](spell_dir/enervation#_enervation_, _ [greater invisibility](spell_dir/invisibility#_invisibility-greater_, _ [resilient sphere](spell_dir/resilientSphere#_resilient-sphere_, _ [remove curse](spell_dir/removeCurse#_remove-curse_OP
+4th—_ [ball lightning](advance_dir/spells/ballLightning#_ball-lightning)_, _ [black tentacles](spell_dir/blackTentacles#_black-tentacles)_S, _ [detect scrying](spells/detectScrying#_detect-scrying)_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_S, _ [enervation](spells/enervation#_enervation)_, _ [greater invisibility](spell_dir/invisibility#_invisibility-greater)_, _ [resilient sphere](spells/resilientSphere#_resilient-sphere)_, _ [remove curse](spell_dir/removeCurse#_remove-curse)_OP
 
-3rd—_ [blink](spell_dir/blink#_blink_, _ [daylight](spell_dir/daylight#_daylight_, _ [enter image](advanced/spell_dir/enterImage#_enter-image-_, _ [fireball](spell_dir/fireball#_fireball_, _ [gentle repose](spell_dir/gentleRepose#_gentle-repose_, _ [secret page](spell_dir/secretPage#_secret-page_, _ [sepia snake sigil](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil_S, _ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud_S
+3rd—_ [blink](spells/blink#_blink)_, _ [daylight](spell_dir/daylight#_daylight)_, _ [enter image](advanced/spell_dir/enterImage#_enter-image-)_, _ [fireball](spells/fireball#_fireball)_, _ [gentle repose](spell_dir/gentleRepose#_gentle-repose)_, _ [secret page](spells/secretPage#_secret-page)_, _ [sepia snake sigil](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil)_S, _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_S
 
-2nd—_ [darkvision](spell_dir/darkvision#_darkvision_, _ [false life](spell_dir/falseLife#_false-life_, _ [glitterdust](spell_dir/glitterdust#_glitterdust_S, _ [make whole](spell_dir/makeWhole#_make-whole_, _ [mirror image](spell_dir/mirrorImage#_mirror-image_, _ [resist energy](spell_dir/resistEnergy#_resist-energy_OP, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_, _ [summon swarm](spell_dir/summonSwarm#_summon-swarm_S, _ [web](spell_dir/web#_web_S
+2nd—_ [darkvision](spell_dir/darkvision#_darkvision)_, _ [false life](spells/falseLife#_false-life)_, _ [glitterdust](spell_dir/glitterdust#_glitterdust)_S, _ [make whole](spells/makeWhole#_make-whole)_, _ [mirror image](spell_dir/mirrorImage#_mirror-image)_, _ [resist energy](spells/resistEnergy#_resist-energy)_OP, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_, _ [summon swarm](spells/summonSwarm#_summon-swarm)_S, _ [web](spell_dir/web#_web)_S
 
-1st—_ [burning hands](spell_dir/burningHands#_burning-hands_, _ [detect undead](spell_dir/detectUndead#_detect-undead_, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_, _ [grease](spell_dir/grease#_grease_S, _ [mage armor](spell_dir/mageArmor#_mage-armor_S, _ [magic aura](spell_dir/magicAura#_magic-aura_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, r_ay of enfeeblement_, _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_S
+1st—_ [burning hands](spells/burningHands#_burning-hands)_, _ [detect undead](spell_dir/detectUndead#_detect-undead)_, _ [disguise self](spells/disguiseSelf#_disguise-self)_, _ [grease](spell_dir/grease#_grease)_S, _ [mage armor](spells/mageArmor#_mage-armor)_S, _ [magic aura](spell_dir/magicAura#_magic-aura)_, _ [magic missile](spells/magicMissile#_magic-missile)_, r_ay of enfeeblement_, _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_S
 
 Preparation Ritual
 
@@ -515,33 +515,33 @@ Library of the Dancer of Skins (Level 19 Universalist)
 
 _This quartet of books is held together by a shining silver strand wound around the four tomes and tied in an intricate knot. Inside, the writing is expansive and sloppy, filled with marginalia; the author's notes indicate clear excitement about her discoveries, and while the thinker is obviously brilliant, she is also apparently undisciplined._
 
-**Value** 16,435 gp (20,710 gp with the preparation ritual
+**Value** 16,435 gp (20,710 gp with the preparation ritual)
 
 Spells
 
-9th—_weird_, _ [shapechange](spell_dir/shapechange#_shapechange_, _ [wish](spell_dir/wish#_wish_, _ [world wave](advanced/spell_dir/worldWave#_world-wave-_
+9th—_weird_, _ [shapechange](spells/shapechange#_shapechange)_, _ [wish](spell_dir/wish#_wish)_, _ [world wave](advanced/spell_dir/worldWave#_world-wave-)_
 
-8th—_ [giant form II](spell_dir/giantForm#_giant-form-ii_, _ [polar ray](spell_dir/polarRay#_polar-ray_, _ [scintillating pattern](spell_dir/scintillatingPattern#_scintillating-pattern_, _ [seamantle](advanced/spell_dir/seamantle#_seamantle_, _ [trap the soul](spell_dir/trapTheSoul#_trap-the-soul_
+8th—_ [giant form II](spells/giantForm#_giant-form-ii)_, _ [polar ray](spell_dir/polarRay#_polar-ray)_, _ [scintillating pattern](spells/scintillatingPattern#_scintillating-pattern)_, _ [seamantle](advance_dir/spells/seamantle#_seamantle)_, _ [trap the soul](spell_dir/trapTheSoul#_trap-the-soul)_
 
-7th—_ [control weather](spell_dir/controlWeather#_control-weather_, _ [elemental body IV](spell_dir/elementalBody#_elemental-body-iv_, _ [phantasmal revenge](advanced/spell_dir/phantasmalRevenge#_phantasmal-revenge_, _ [power word blind](spell_dir/powerWordBlind#_power-word-blind_, _ [rampart](advanced/spell_dir/rampart#_rampart_, _ [spell turning](spell_dir/spellTurning#_spell-turning_
+7th—_ [control weather](spells/controlWeather#_control-weather)_, _ [elemental body IV](spell_dir/elementalBody#_elemental-body-iv)_, _ [phantasmal revenge](advanced/spell_dir/phantasmalRevenge#_phantasmal-revenge)_, _ [power word blind](spells/powerWordBlind#_power-word-blind)_, _ [rampart](advance_dir/spells/rampart#_rampart)_, _ [spell turning](spell_dir/spellTurning#_spell-turning)_
 
-6th—_ [beast shape IV](spell_dir/beastShape#_beast-shape-iv_, _ [cloak of dreams](advanced/spell_dir/cloakOfDreams#_cloak-of-dreams_, _ [control water](spell_dir/controlWater#_control-water_, _ [fluid form](advanced/spell_dir/fluidForm#_fluid-form_, _ [getaway](advanced/spell_dir/getaway#_getaway-_, _lightning field_, _ [plant shape II](spell_dir/plantShape#_plant-shape-ii_
+6th—_ [beast shape IV](spells/beastShape#_beast-shape-iv)_, _ [cloak of dreams](advance_dir/spells/cloakOfDreams#_cloak-of-dreams)_, _ [control water](spell_dir/controlWater#_control-water)_, _ [fluid form](advanced/spell_dir/fluidForm#_fluid-form)_, _ [getaway](advanced/spell_dir/getaway#_getaway-)_, _lightning field_, _ [plant shape II](spells/plantShape#_plant-shape-ii)_
 
-5th—_comet_, _ [fabricate](spell_dir/fabricate#_fabricate_, _ [fire snake](advanced/spell_dir/fireSnake#_fire-snake_, _ [geyser](advanced/spell_dir/geyser#_geyser-_, _ [hold monster](spell_dir/holdMonster#_hold-monster_, _ [overland flight](spell_dir/overlandFlight#_overland-flight_, _ [planar adaptation](advanced/spell_dir/planarAdaptation#_planar-adaptation_, _ [telekinesis](spell_dir/telekinesis#_telekinesis_
+5th—_comet_, _ [fabricate](spell_dir/fabricate#_fabricate)_, _ [fire snake](advanced/spell_dir/fireSnake#_fire-snake)_, _ [geyser](advanced/spell_dir/geyser#_geyser-)_, _ [hold monster](spells/holdMonster#_hold-monster)_, _ [overland flight](spell_dir/overlandFlight#_overland-flight)_, _ [planar adaptation](advanced/spell_dir/planarAdaptation#_planar-adaptation)_, _ [telekinesis](spells/telekinesis#_telekinesis)_
 
-4th—_ [dragon's breath](advanced/spell_dir/dragonSBreath#_dragon's-breath_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [firefall](advanced/spell_dir/firefall#_firefall_, _ [greater invisibility](spell_dir/invisibility#_invisibility-greater_, _ [moonstruck](advanced/spell_dir/moonstruck#_moonstruck_, _resilient sphere_, _ [true form](advanced/spell_dir/trueForm#_true-form_, _ [wandering star motes](advanced/spell_dir/wanderingStarMotes#_wandering-star-motes_
+4th—_ [dragon's breath](advance_dir/spells/dragonSBreath#_dragon's-breath)_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_, _ [firefall](advanced/spell_dir/firefall#_firefall)_, _ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [moonstruck](advance_dir/spells/moonstruck#_moonstruck)_, _resilient sphere_, _ [true form](advance_dir/spells/trueForm#_true-form)_, _ [wandering star motes](advance_dir/spells/wanderingStarMotes#_wandering-star-motes)_
 
-3rd—_ [blink](spell_dir/blink#_blink_, _ [cloak of winds](advanced/spell_dir/cloakOfWinds#_cloak-of-winds_, _ [elemental aura](advanced/spell_dir/elementalAura#_elemental-aura_, _ [fly](spell_dir/fly_, _lightwall_, _shifting sands_, _ [twilight knife](advanced/spell_dir/twilightKnife#_twilight-knife-_, _ [versatile weapon](advanced/spell_dir/versatileWeapon#_versatile-weapon_
+3rd—_ [blink](spell_dir/blink#_blink)_, _ [cloak of winds](advanced/spell_dir/cloakOfWinds#_cloak-of-winds)_, _ [elemental aura](advanced/spell_dir/elementalAura#_elemental-aura)_, _ [fly](spells/fly)_, _lightwall_, _shifting sands_, _ [twilight knife](advance_dir/spells/twilightKnife#_twilight-knife-)_, _ [versatile weapon](advance_dir/spells/versatileWeapon#_versatile-weapon)_
 
-2nd—_ [arrow eruption](advanced/spell_dir/arrowEruption#_arrow-eruption-_, _ [dust of twilight](advanced/spell_dir/dustOfTwilight#_dust-of-twilight_, _ [elemental speech](advanced/spell_dir/elementalSpeech#_elemental-speech_, _alter self_, _ [fire breath](advanced/spell_dir/fireBreath#_fire-breath_, _accelerate poison_, _ [share language](advanced/spell_dir/shareLanguage#_share-language-_, _ [slipstream](advanced/spell_dir/slipstream#_slipstream_
+2nd—_ [arrow eruption](advance_dir/spells/arrowEruption#_arrow-eruption-)_, _ [dust of twilight](advance_dir/spells/dustOfTwilight#_dust-of-twilight)_, _ [elemental speech](advance_dir/spells/elementalSpeech#_elemental-speech)_, _alter self_, _ [fire breath](advance_dir/spells/fireBreath#_fire-breath)_, _accelerate poison_, _ [share language](advance_dir/spells/shareLanguage#_share-language-)_, _ [slipstream](advance_dir/spells/slipstream#_slipstream)_
 
-1st—_ [alter winds](advanced/spell_dir/alterWinds#_alter-winds_, _ [ant haul](advanced/spell_dir/antHaul#_ant-haul-_, _ [endure elements](spell_dir/endureElements#_endure-elements_, _ [feather fall](spell_dir/featherFall#_feather-fall_, _ [flare burst](advanced/spell_dir/flareBurst#_flare-burst_, _ [identify](spell_dir/identify#_identify_, _ [stone fist](advanced/spell_dir/stoneFist#_stone-fist_, _ [touch of the sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea_, _ [true strike](spell_dir/trueStrike#_true-strike_, _ [vanish](advanced/spell_dir/vanish#_vanish)_
+1st—_ [alter winds](advance_dir/spells/alterWinds#_alter-winds)_, _ [ant haul](advance_dir/spells/antHaul#_ant-haul-)_, _ [endure elements](spell_dir/endureElements#_endure-elements)_, _ [feather fall](spells/featherFall#_feather-fall)_, _ [flare burst](advance_dir/spells/flareBurst#_flare-burst)_, _ [identify](spell_dir/identify#_identify)_, _ [stone fist](advanced/spell_dir/stoneFist#_stone-fist)_, _ [touch of the sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea)_, _ [true strike](spells/trueStrike#_true-strike)_, _ [vanish](advance_dir/spells/vanish#_vanish)_
 
 Preparation Ritual
 
 **Defensive Boon (Su)** You throw up a quick burst of arcane energy that deflects an incoming spell attack. As an immediate action when targeted with a touch spell or spell-like ability, you can spend this boon's effect to gain a +4 deflection bonus to AC against the triggering attack.
 
-The Formulae of Master Gebr (Level 20 Alchemist
+The Formulae of Master Gebr (Level 20 Alchemist)
 
 _These four cloth-bound books are neatly printed—as with a printing press or some other form of mechanical transcription—with a title page, a table of contents, and a useful cross-referenced index. They have been treated well and are clearly reference works, rather than laboratory notes; the writer was obviously a most disciplined and focused inventor. _
 
@@ -551,23 +551,23 @@ _These four cloth-bound books are neatly printed—as with a printing press or s
 
 Formula
 
-6th—_ [elemental body III](spell_dir/elementalBody#_elemental-body-iii_, _ [form of the dragon I](spell_dir/formOfTheDragon#_form-of-the-dragon-i_, _ [heal](spell_dir/heal#_heal_, _ [shadow walk](spell_dir/shadowWalk#_shadow-walk_, _ [transformation](spell_dir/transformation#_transformation_, _ [twin form](advanced/spell_dir/twinForm#_twin-form_
+6th—_ [elemental body III](spell_dir/elementalBody#_elemental-body-iii)_, _ [form of the dragon I](spells/formOfTheDragon#_form-of-the-dragon-i)_, _ [heal](spell_dir/heal#_heal)_, _ [shadow walk](spells/shadowWalk#_shadow-walk)_, _ [transformation](spell_dir/transformation#_transformation)_, _ [twin form](advanced/spell_dir/twinForm#_twin-form)_
 
-5th—_ [delayed consumption](advanced/spell_dir/delayedConsumption#_delayed-consumption_, _ [dream](spell_dir/dream#_dream_, _ [elude time](advanced/spell_dir/eludeTime#_elude-time_, _ [nightmare](spell_dir/nightmare#_nightmare_, _ [overland flight](spell_dir/overlandFlight#_overland-flight_, _ [resurgent transformation](advanced/spell_dir/resurgentTransformation#_resurgent-transformation_, _ [spell resistance](magicItem_dir/armor#_armor-spell-resistance_
+5th—_ [delayed consumption](advanced/spell_dir/delayedConsumption#_delayed-consumption)_, _ [dream](spells/dream#_dream)_, _ [elude time](advance_dir/spells/eludeTime#_elude-time)_, _ [nightmare](spell_dir/nightmare#_nightmare)_, _ [overland flight](spells/overlandFlight#_overland-flight)_, _ [resurgent transformation](advance_dir/spells/resurgentTransformation#_resurgent-transformation)_, _ [spell resistance](magicItem_dir/armor#_armor-spell-resistance)_
 
-4th—_ [detonate](advanced/spell_dir/detonate#_detonate_, _ [dragon's breath](advanced/spell_dir/dragonSBreath#_dragon's-breath_, _ [fire shield](spell_dir/fireShield#_fire-shield_, _ [fluid form](advanced/spell_dir/fluidForm#_fluid-form_, _ [greater invisibility](spell_dir/invisibility#_invisibility-greater_, _ [neutralize poison](spell_dir/neutralizePoison#_neutralize-poison_, _ [stoneskin](spell_dir/stoneskin#_stoneskin_, _ [universal formula](advanced/spell_dir/universalFormula#_universal-formula_
+4th—_ [detonate](advanced/spell_dir/detonate#_detonate)_, _ [dragon's breath](advanced/spell_dir/dragonSBreath#_dragon's-breath)_, _ [fire shield](spells/fireShield#_fire-shield)_, _ [fluid form](advance_dir/spells/fluidForm#_fluid-form)_, _ [greater invisibility](spell_dir/invisibility#_invisibility-greater)_, _ [neutralize poison](spells/neutralizePoison#_neutralize-poison)_, _ [stoneskin](spell_dir/stoneskin#_stoneskin)_, _ [universal formula](advanced/spell_dir/universalFormula#_universal-formula)_
 
-3rd—_ [absorbing touch](advanced/spell_dir/absorbingTouch#_absorbing-touch_, _ [amplify elixir](advanced/spell_dir/amplifyElixir#_amplify-elixir_, _ [bloodhound](advanced/spell_dir/bloodhound#_bloodhound_, _ [displacement](spell_dir/displacement#_displacement_, _ [draconic reservoir](advanced/spell_dir/draconicReservoir#_draconic-reservoir-_, _ [haste](spell_dir/haste#_haste_, _ [heroism](spell_dir/heroism#_heroism_, _ [seek thoughts](advanced/spell_dir/seekThoughts#_seek-thoughts_, _ [thorn body](advanced/spell_dir/thornBody#_thorn-body_
+3rd—_ [absorbing touch](advanced/spell_dir/absorbingTouch#_absorbing-touch)_, _ [amplify elixir](advanced/spell_dir/amplifyElixir#_amplify-elixir)_, _ [bloodhound](advanced/spell_dir/bloodhound#_bloodhound)_, _ [displacement](spells/displacement#_displacement)_, _ [draconic reservoir](advance_dir/spells/draconicReservoir#_draconic-reservoir-)_, _ [haste](spell_dir/haste#_haste)_, _ [heroism](spells/heroism#_heroism)_, _ [seek thoughts](advance_dir/spells/seekThoughts#_seek-thoughts)_, _ [thorn body](advance_dir/spells/thornBody#_thorn-body)_
 
-2nd—_ [alchemical allocation](advanced/spell_dir/alchemicalAllocation#_alchemical-allocation_, _ [barkskin](spell_dir/barkskin#_barkskin_, _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, _ [elemental touch](advanced/spell_dir/elementalTouch#_elemental-touch_, _ [fire breath](advanced/spell_dir/fireBreath#_fire-breath_, _ [perceive cues](advanced/spell_dir/perceiveCues#_perceive-cues_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_, _ [transmute potion to poison](advanced/spell_dir/transmutePotionToPoison#_transmute-potion-to-poison_, _ [vomit swarm](advanced/spell_dir/vomitSwarm#_vomit-swarm_
+2nd—_ [alchemical allocation](advance_dir/spells/alchemicalAllocation#_alchemical-allocation)_, _ [barkskin](spell_dir/barkskin#_barkskin)_, _ [bull's strength](spells/bullSStrength#_bull-s-strength)_, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace)_, _ [elemental touch](advanced/spell_dir/elementalTouch#_elemental-touch)_, _ [fire breath](advanced/spell_dir/fireBreath#_fire-breath)_, _ [perceive cues](advanced/spell_dir/perceiveCues#_perceive-cues)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, _ [transmute potion to poison](advance_dir/spells/transmutePotionToPoison#_transmute-potion-to-poison)_, _ [vomit swarm](advance_dir/spells/vomitSwarm#_vomit-swarm)_
 
-1st—_ [bomber's eye](advanced/spell_dir/bomberSEye#_bomber's-eye_, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_, _ [crafter's fortune](advanced/spell_dir/crafterSFortune#_crafter's-fortune_, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_, _ [endure elements](spell_dir/endureElements#_endure-elements_, _ [keen senses](advanced/spell_dir/keenSenses#_keen-senses_, _ [negate aroma](advanced/spell_dir/negateAroma#_negate-aroma_, _ [shield](spell_dir/shield#_shield_, _ [stone fist](advanced/spell_dir/stoneFist#_stone-fist_, _ [touch of the sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea)_
+1st—_ [bomber's eye](advance_dir/spells/bomberSEye#_bomber's-eye)_, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages)_, _ [crafter's fortune](advanced/spell_dir/crafterSFortune#_crafter's-fortune)_, _ [disguise self](spells/disguiseSelf#_disguise-self)_, _ [endure elements](spell_dir/endureElements#_endure-elements)_, _ [keen senses](advanced/spell_dir/keenSenses#_keen-senses)_, _ [negate aroma](advanced/spell_dir/negateAroma#_negate-aroma)_, _ [shield](spells/shield#_shield)_, _ [stone fist](advance_dir/spells/stoneFist#_stone-fist)_, _ [touch of the sea](advance_dir/spells/touchOfTheSea#_touch-of-the-sea)_
 
 Preparation Ritual
 
 **Spontaneous Bomb (Su)** When it comes to bombs, you have a special trick up your sleeve. Once per day as a swift action, you can apply a discovery that you qualify for (but do not already know) to a bomb. This does not allow you to stack non-stacking discoveries on a bomb.
 
-Mastery of Word and Thought (Level 20 Enchanter
+Mastery of Word and Thought (Level 20 Enchanter)
 
 _This massive tome is the size of four normal spellbooks, bound in leather as hard as plate armor and stitched together with strands of thin, pliable metal rather than thread. Toward the end is a list of names, each crossed out._
 
@@ -575,29 +575,29 @@ _This massive tome is the size of four normal spellbooks, bound in leather as ha
 
 **Opposition Schools** Conjuration, illusion
 
-**Value** 22,675 gp (27,265 gp with the preparation ritual
+**Value** 22,675 gp (27,265 gp with the preparation ritual)
 
 Spells
 
-9th—_ [dominate monster](spell_dir/dominateMonster#_dominate-monster_S, _ [foresight](spell_dir/foresight#_foresight_, _ [mage's disjunction](spell_dir/mageSDisjunction#_mage-s-disjunction_, _ [mass hold monster](spell_dir/holdMonster#_hold-monster-mass_S, _ [mass suffocation](advanced/spell_dir/suffocation#_suffocation,-mass_, _ [power word kill](spell_dir/powerWordKill#_power-word-kill_S, _ [time stop](spell_dir/timeStop#_time-stop_
+9th—_ [dominate monster](spells/dominateMonster#_dominate-monster)_S, _ [foresight](spell_dir/foresight#_foresight)_, _ [mage's disjunction](spells/mageSDisjunction#_mage-s-disjunction)_, _ [mass hold monster](spell_dir/holdMonster#_hold-monster-mass)_S, _ [mass suffocation](advanced/spell_dir/suffocation#_suffocation,-mass)_, _ [power word kill](spells/powerWordKill#_power-word-kill)_S, _ [time stop](spell_dir/timeStop#_time-stop)_
 
-8th—_ [binding](spell_dir/binding#_binding_S, _ [clone](spell_dir/clone#_clone_, _ [irresistible dance](spell_dir/irresistibleDance#_irresistible-dance_S, _ [mind blank](spell_dir/mindBlank#_mind-blank_, _ [polymorph any object](spell_dir/polymorphAnyObject#_polymorph-any-object_, _ [power word stun](spell_dir/powerWordStun#_power-word-stun_S, _ [sunburst](spell_dir/sunburst#_sunburst_
+8th—_ [binding](spells/binding#_binding)_S, _ [clone](spell_dir/clone#_clone)_, _ [irresistible dance](spells/irresistibleDance#_irresistible-dance)_S, _ [mind blank](spell_dir/mindBlank#_mind-blank)_, _ [polymorph any object](spells/polymorphAnyObject#_polymorph-any-object)_, _ [power word stun](spell_dir/powerWordStun#_power-word-stun)_S, _ [sunburst](spells/sunburst#_sunburst)_
 
-7th—_ [deflection](advanced/spell_dir/deflection#_deflection-_, _ [greater arcane sight](spell_dir/arcaneSight#_arcane-sight-greater_, _ [instant summons](spell_dir/instantSummons#_instant-summons_OP, _ [limited wish](spell_dir/limitedWish#_limited-wish_, _ [mass hold person](spell_dir/holdPerson#_hold-person-mass_S, _ [plane shift](spell_dir/planeShift#_plane-shift_OP, _power world blind_S, _ [resonating word](../spell_dir/resonatingWord#_resonating-word_, _ [symbol of stunning](spell_dir/symbolOfStunning#_symbol-of-stunning_S
+7th—_ [deflection](advance_dir/spells/deflection#_deflection-)_, _ [greater arcane sight](spell_dir/arcaneSight#_arcane-sight-greater)_, _ [instant summons](spells/instantSummons#_instant-summons)_OP, _ [limited wish](spell_dir/limitedWish#_limited-wish)_, _ [mass hold person](spells/holdPerson#_hold-person-mass)_S, _ [plane shift](spell_dir/planeShift#_plane-shift)_OP, _power world blind_S, _ [resonating word](../spell_dir/resonatingWord#_resonating-word)_, _ [symbol of stunning](spells/symbolOfStunning#_symbol-of-stunning)_S
 
-6th—_ [cloak of dreams](advanced/spell_dir/cloakOfDreams#_cloak-of-dreams_S, , _ [contingency](spell_dir/contingency#_contingency_, _ [enemy hammer](advanced/spell_dir/enemyHammer#_enemy-hammer-_, _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater_, _geas_/_quest_S, _ [legend lore](spell_dir/legendLore#_legend-lore_, _ [mage's lucubration](spell_dir/mageSLucubration#_mage-s-lucubration_, _ [true seeing](spell_dir/trueSeeing#_true-seeing_
+6th—_ [cloak of dreams](advance_dir/spells/cloakOfDreams#_cloak-of-dreams)_S, , _ [contingency](spell_dir/contingency#_contingency)_, _ [enemy hammer](advanced/spell_dir/enemyHammer#_enemy-hammer-)_, _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_, _geas_/_quest_S, _ [legend lore](spell_dir/legendLore#_legend-lore)_, _ [mage's lucubration](spells/mageSLucubration#_mage-s-lucubration)_, _ [true seeing](spell_dir/trueSeeing#_true-seeing)_
 
-5th—_ [dismissal](spell_dir/dismissal#_dismissal_, _ [dominate person](spell_dir/dominatePerson#_dominate-person_S, _ [fabricate](spell_dir/fabricate#_fabricate_, _forced hand_, _ [icy prison](../spell_dir/icyPrison#_icy-prison_, _ [feeblemind](spell_dir/feeblemind#_feeblemind_S, _ [mage's private sanctum](spell_dir/mageSPrivateSanctum#_mage-s-private-sanctum_, _ [permanency](spell_dir/permanency#_permanency_, _ [prying eyes](spell_dir/pryingEyes#_prying-eyes_, _ [teleport](spell_dir/teleport#_teleport_OP
+5th—_ [dismissal](spells/dismissal#_dismissal)_, _ [dominate person](spell_dir/dominatePerson#_dominate-person)_S, _ [fabricate](spells/fabricate#_fabricate)_, _forced hand_, _ [icy prison](../spell_dir/icyPrison#_icy-prison)_, _ [feeblemind](spells/feeblemind#_feeblemind)_S, _ [mage's private sanctum](spell_dir/mageSPrivateSanctum#_mage-s-private-sanctum)_, _ [permanency](spells/permanency#_permanency)_, _ [prying eyes](spell_dir/pryingEyes#_prying-eyes)_, _ [teleport](spells/teleport#_teleport)_OP
 
-4th—_ [bestow curse](spell_dir/bestowCurse#_bestow-curse, [crushing despair](spell_dir/crushingDespair#_crushing-despair_S, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional_, _ [fear](spell_dir/fear#_fear, [moonstruck](advanced/spell_dir/moonstruck#_moonstruck_S, , _ [resilient sphere](spell_dir/resilientSphere#_resilient-sphere_, _ [stone shape](spell_dir/stoneShape#_stone-shape_, _ [stoneskin](spell_dir/stoneskin#_stoneskin_
+4th—_ [bestow curse](spell_dir/bestowCurse#_bestow-curse), [crushing despair](spells/crushingDespair#_crushing-despair)_S, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional)_, _ [fear](spells/fear#_fear), [moonstruck](advance_dir/spells/moonstruck#_moonstruck)_S, , _ [resilient sphere](spell_dir/resilientSphere#_resilient-sphere)_, _ [stone shape](spells/stoneShape#_stone-shape)_, _ [stoneskin](spell_dir/stoneskin#_stoneskin)_
 
-3rd—_ [fireball](spell_dir/fireball#_fireball_, _ [fly](spell_dir/fly_, _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater_, _ [heroism](spell_dir/heroism#_heroism_S, _ [loathsome veil](../spell_dir/loathsomeVeil#_loathsome-veil_, _ [nondetection](spell_dir/nondetection#_nondetection_, _ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy_, _symbol of peace_S, , _ [suggestion](spell_dir/suggestion#_suggestion_S
+3rd—_ [fireball](spells/fireball#_fireball)_, _ [fly](spell_dir/fly)_, _ [greater magic weapon](spells/magicWeapon#_magic-weapon-greater)_, _ [heroism](spell_dir/heroism#_heroism)_S, _ [loathsome veil](../spell_dir/loathsomeVeil#_loathsome-veil)_, _ [nondetection](spells/nondetection#_nondetection)_, _ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy)_, _symbol of peace_S, , _ [suggestion](spells/suggestion#_suggestion)_S
 
-2nd—_ [arcane lock](spell_dir/arcaneLock#_arcane-lock_, _ [continual flame](spell_dir/continualFlame#_continual-flame_, _ [false life](spell_dir/falseLife#_false-life_, _ [hideous laughter](spell_dir/hideousLaughter#_hideous-laughter_S, _ [magic mouth](spell_dir/magicMouth#_magic-mouth_OP, _ [mirror image](spell_dir/mirrorImage#_mirror-image_OP, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [rope trick](spell_dir/ropeTrick#_rope-trick_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_, _ [touch of idiocy](spell_dir/touchOfIdiocy#_touch-of-idiocy_S
+2nd—_ [arcane lock](spell_dir/arcaneLock#_arcane-lock)_, _ [continual flame](spells/continualFlame#_continual-flame)_, _ [false life](spell_dir/falseLife#_false-life)_, _ [hideous laughter](spells/hideousLaughter#_hideous-laughter)_S, _ [magic mouth](spell_dir/magicMouth#_magic-mouth)_OP, _ [mirror image](spells/mirrorImage#_mirror-image)_OP, _ [resist energy](spell_dir/resistEnergy#_resist-energy)_, _ [rope trick](spells/ropeTrick#_rope-trick)_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_, _ [touch of idiocy](spells/touchOfIdiocy#_touch-of-idiocy)_S
 
-1st—_ [alarm](spell_dir/alarm#_alarm_, _ [charm person](spell_dir/charmPerson#_charm-person_S, _ [feather fall](spell_dir/featherFall#_feather-fall_, _forced quiet_, _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-_, _ [identify](spell_dir/identify#_identify_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [memory lapse](advanced/spell_dir/memoryLapse#_memory-lapse_S, , _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_, _ [shield](spell_dir/shield#_shield_, _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_OP
+1st—_ [alarm](spell_dir/alarm#_alarm)_, _ [charm person](spells/charmPerson#_charm-person)_S, _ [feather fall](spell_dir/featherFall#_feather-fall)_, _forced quiet_, _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-)_, _ [identify](spells/identify#_identify)_, _ [magic missile](spell_dir/magicMissile#_magic-missile)_, _ [memory lapse](advanced/spell_dir/memoryLapse#_memory-lapse)_S, , _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_, _ [shield](spell_dir/shield#_shield)_, _ [unseen servant](spells/unseenServant#_unseen-servant)_OP
 
 Preparation Ritual
 
-**Curse of Names (Su** When you are finished preparing your spells with this book, write the proper name of a single creature among the list of names in this book. As a swift action, when you are within 30 feet of the named creature, you can call out its name to bestow the curse of names on it. This spends the boon's effect. The target creature takes a –2 penalty on all attack rolls, and a –4 penalty on all attack rolls against you, for 1 minute. When you activate this curse, the name is crossed out in the back of the book. That creature cannot be the target of a curse of names originating from you ever again. The penalties of two instances of curse of names on the same creature do not stack.
+**Curse of Names (Su)** When you are finished preparing your spells with this book, write the proper name of a single creature among the list of names in this book. As a swift action, when you are within 30 feet of the named creature, you can call out its name to bestow the curse of names on it. This spends the boon's effect. The target creature takes a –2 penalty on all attack rolls, and a –4 penalty on all attack rolls against you, for 1 minute. When you activate this curse, the name is crossed out in the back of the book. That creature cannot be the target of a curse of names originating from you ever again. The penalties of two instances of curse of names on the same creature do not stack.
 

@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/twistedSpace
+title: ultimateComba_dir/spells/twistedSpace
 ---
 Twisted Space
 
@@ -7,7 +7,7 @@ Twisted Space
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a length of wire bent into a circle
+**Components** V, S, M (a length of wire bent into a circle)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

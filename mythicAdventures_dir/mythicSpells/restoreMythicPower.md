@@ -1,5 +1,5 @@
 ---
-title: mythicAdventures/mythicSpells/restoreMythicPower
+title: mythicAdventure_dir/mythicSpells/restoreMythicPower
 ---
 Restore Mythic Power
 
@@ -15,7 +15,7 @@ Restore Mythic Power
 
 **Duration** instantaneous
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 By laying your hands on the target, you're able to transfer some of your mythic essence to the target. You expend three uses of your mythic power to restore one use of the target's mythic power.
 

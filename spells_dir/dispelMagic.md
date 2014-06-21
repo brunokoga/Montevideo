@@ -1,5 +1,5 @@
 ---
-title: spells/dispelMagic
+title: spell_dir/dispelMagic
 ---
  **Dispel Magic**
 
@@ -53,7 +53,7 @@ _Area Dispel_: When _greater dispel magic _is used in this way, the spell affect
 
 For each ongoing area or effect spell whose point of origin is within the area of the _greater dispel magic _spell, apply the dispel check to dispel the spell. For each ongoing spell whose area overlaps that of the _greater dispel magic _spell, apply the dispel check to end the effect, but only within the overlapping area.
 
-If an object or creature that is the effect of an ongoing spell (such as a monster summoned by _summon monster_) is in the area, apply the dispel check to end the spell that conjured that object or creature (returning it whence it came in addition to attempting to dispel one spell targeting the creature or object.
+If an object or creature that is the effect of an ongoing spell (such as a monster summoned by _summon monster_) is in the area, apply the dispel check to end the spell that conjured that object or creature (returning it whence it came) in addition to attempting to dispel one spell targeting the creature or object.
 
 You may choose to automatically succeed on dispel checks against any spell that you have cast.
 

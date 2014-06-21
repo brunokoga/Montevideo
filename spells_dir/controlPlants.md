@@ -1,5 +1,5 @@
 ---
-title: spells/controlPlants
+title: spell_dir/controlPlants
 ---
  **Control Plants**
 

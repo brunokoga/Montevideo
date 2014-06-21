@@ -3,17 +3,17 @@ title: spell_dir/projectImage
 ---
  **Project Image**
 
-**School** illusion (shadow; **Level** bard 6, sorcere_dir/wizard 7
+**School** illusion (shadow); **Level** bard 6, sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a small replica of you worth 5 gp
+**Components** V, S, M (a small replica of you worth 5 gp)
 
 **Range** medium (100 ft. + 10 ft./level)
 
 **Effect** one shadow duplicate
 
-**Duration** 1 roun_dir/level (D
+**Duration** 1 roun_dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) disbelief (if interacted with); **[Spell Resistance](../glossary#_spell-resistance)** no
 

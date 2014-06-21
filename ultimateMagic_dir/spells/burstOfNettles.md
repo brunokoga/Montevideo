@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/burstOfNettles
+title: ultimateMagi_dir/spells/burstOfNettles
 ---
 Burst of Nettles
 

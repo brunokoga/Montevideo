@@ -1,5 +1,5 @@
 ---
-title: spells/animatePlants
+title: spell_dir/animatePlants
 ---
  **Animate Plants**
 
@@ -13,7 +13,7 @@ title: spells/animatePlants
 
 **Targets** one Large plant per three caster levels or all plants within range; see text
 
-**Duration** 1 round/level or 1 hour/level; see text
+**Duration** 1 roun_dir/level or 1 hour/level; see text
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

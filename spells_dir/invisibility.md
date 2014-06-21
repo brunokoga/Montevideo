@@ -3,7 +3,7 @@ title: spell_dir/invisibility
 ---
  **Invisibility**
 
-**School** illusion (glamer; **Level** bard 2, sorcerer/wizard 2
+**School** illusion (glamer); **Level** bard 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -27,13 +27,13 @@ _Invisibility _can be made permanent (on objects only) with a _ [permanency](per
 
 **Invisibility, Greater**
 
-**School** illusion (glamer); **Level** bard 4, sorcerer/wizard 4
+**School** illusion (glamer); **Level** bard 4, sorcere_dir/wizard 4
 
 **Components** : V, S
 
 **Target** you or creature touched
 
-**Duration** 1 roun_dir/level (D
+**Duration** 1 round/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless)
 
@@ -41,7 +41,7 @@ This spell functions like _invisibility_, except that it doesn't end if the subj
 
 **Invisibility, Mass**
 
-**School** illusion (glamer); **Level** sorcerer/wizard 7
+**School** illusion (glamer); **Level** sorcere_dir/wizard 7
 
 **Range** long (400 ft. + 40 ft./level)
 

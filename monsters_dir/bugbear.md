@@ -11,7 +11,7 @@ _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eye
 
 CE Medium [humanoid](creatureTypes#_humanoid) ( [goblinoid](creatureTypes#_goblinoid-subtype))
 
-**Init** +1; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +8
+**Init** +1; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
@@ -27,7 +27,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) ( [goblinoid](creatureTypes#_gobli
 
 **Melee** morningstar +5 (1d8+3)
 
-**Ranged** javelin +3 (1d6+3
+**Ranged** javelin +3 (1d6+3)
 
 **Statistics**
 
@@ -35,9 +35,9 @@ CE Medium [humanoid](creatureTypes#_humanoid) ( [goblinoid](creatureTypes#_gobli
 
 **Base**  **Atk** +2; **CMB** +5; **CMD** 16
 
-**Feats** [Intimidating Prowess](../feats#_intimidating-prowess), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Intimidating Prowess](../feats#_intimidating-prowess), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Intimidate](../skill_dir/intimidate#_intimidate +7, [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth +10; **Racial Modifiers** +4 [Intimidate](../skill_dir/intimidate#_intimidate, +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Intimidate](../skill_dir/intimidate#_intimidate) +7, [Perception](../skill_dir/perception#_perception) +8, [Stealth](../skill_dir/stealth#_stealth) +10; **Racial Modifiers** +4 [Intimidate](../skill_dir/intimidate#_intimidate), +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **SQ** stalker
 
@@ -53,9 +53,9 @@ CE Medium [humanoid](creatureTypes#_humanoid) ( [goblinoid](creatureTypes#_gobli
 
 **Special Abilities**
 
-**Stalker (Ex** [Perception](../skill_dir/perception#_perception and [Stealth](../skill_dir/stealth#_stealth) are always class skills for bugbears.
+**Stalker (Ex)** [Perception](../skill_dir/perception#_perception) and [Stealth](../skill_dir/stealth#_stealth) are always class skills for bugbears.
 
-The bugbear is the largest of the goblinoid races, a lumbering brute that stands at least a head taller than most humans. They are loners, preferring to live and kill on their own rather than form tribes of their own kind, yet it isn't uncommon to find small bands of bugbears working together, or dwelling in goblin or hobgoblin tribes where they function as elite guards or executioners. Bugbears do not form large warrens like goblins or nations like hobgoblins; they prefer smaller-scale mayhem that lets them keep their favorite acts (murder and torture on a more personal level. Humans are a bugbear's favored prey, and most count the flesh of humanity as a dietary staple. Grisly trophies of ears or fingers are common bugbear decorations.
+The bugbear is the largest of the goblinoid races, a lumbering brute that stands at least a head taller than most humans. They are loners, preferring to live and kill on their own rather than form tribes of their own kind, yet it isn't uncommon to find small bands of bugbears working together, or dwelling in goblin or hobgoblin tribes where they function as elite guards or executioners. Bugbears do not form large warrens like goblins or nations like hobgoblins; they prefer smaller-scale mayhem that lets them keep their favorite acts (murder and torture) on a more personal level. Humans are a bugbear's favored prey, and most count the flesh of humanity as a dietary staple. Grisly trophies of ears or fingers are common bugbear decorations.
 
 Bugbears, when they turn to religion, favor gods of murder and violence, with various demon lords being favorites.
 

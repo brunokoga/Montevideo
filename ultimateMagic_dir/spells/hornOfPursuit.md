@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/hornOfPursuit
+title: ultimateMagi_dir/spells/hornOfPursuit
 ---
 Horn of Pursuit
 

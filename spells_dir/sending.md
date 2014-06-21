@@ -1,5 +1,5 @@
 ---
-title: spells/sending
+title: spell_dir/sending
 ---
  **Sending**
 

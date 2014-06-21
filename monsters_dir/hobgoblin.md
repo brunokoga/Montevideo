@@ -1,5 +1,5 @@
 ---
-title: monsters/hobgoblin
+title: monster_dir/hobgoblin
 ---
 # Hobgoblin
 
@@ -19,7 +19,7 @@ LE Medium [humanoid](creatureTypes#_humanoid) (goblinoid)
 
 **AC** 16, touch 12, flat-footed 14 (+3 armor, +2 Dex, +1 shield)
 
-**hp** 17 (1d10+7
+**hp** 17 (1d10+7)
 
 **Fort** +5, **Ref** +2, **Will** +1
 
@@ -39,7 +39,7 @@ LE Medium [humanoid](creatureTypes#_humanoid) (goblinoid)
 
 **Feats** [Toughness](../feats#_toughness), [Weapon Focus](../feats#_weapon-focus) (longsword)
 
-**Skills** [Perception](../skill_dir/perception#_perception +2, [Stealth](../skill_dir/stealth#_stealth +5; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Perception](../skill_dir/perception#_perception) +2, [Stealth](../skill_dir/stealth#_stealth) +5; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Languages** Common, Goblin
 
@@ -49,7 +49,7 @@ LE Medium [humanoid](creatureTypes#_humanoid) (goblinoid)
 
 **Organization** gang (4–9), warband (10–24), or tribe (25+ plus 50% noncombatants, 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th–8th level, 6–12 leopards, and 1–4 ogres or 1–2 trolls)
 
-**Treasure** NPC Gear (studded leather armor, light steel shield, longsword, longbow with 20 arrows, other treasure
+**Treasure** NPC Gear (studded leather armor, light steel shield, longsword, longbow with 20 arrows, other treasure)
 
 Hobgoblins are militaristic and fecund, a combination that makes them quite dangerous in some regions. They breed quickly, replacing fallen members with new soldiers and keeping up their numbers despite the fortunes of war. They generally need little reason to declare war, but more often than not that reason is to capture new slaves—life as a slave in a hobgoblin lair is brutal and short, and new slaves are always needed to replace those who fall or are eaten.
 
@@ -69,7 +69,7 @@ Hobgoblins are defined by their class levels—they do not possess racial Hit Di
 
 **Darkvision** : Hobgoblins can see in the dark up to 60 feet.
 
-**Sneaky** : Hobgoblins gain a +4 racial bonus on [Stealth](../skill_dir/stealth#_stealth checks.
+**Sneaky** : Hobgoblins gain a +4 racial bonus on [Stealth](../skill_dir/stealth#_stealth) checks.
 
 **Languages** : All hobgoblins begin play speaking Common and Goblin. Hobgoblins with high Intelligence scores can choose any of the following bonus languages: Draconic, Dwarven, Infernal, Giant, Orc.
 

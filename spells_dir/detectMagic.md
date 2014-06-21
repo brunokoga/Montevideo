@@ -1,5 +1,5 @@
 ---
-title: spells/detectMagic
+title: spell_dir/detectMagic
 ---
  **Detect Magic**
 

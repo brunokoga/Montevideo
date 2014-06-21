@@ -1,5 +1,5 @@
 ---
-title: spells/knowDirection
+title: spell_dir/knowDirection
 ---
  **Know Direction**
 

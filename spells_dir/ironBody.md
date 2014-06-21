@@ -1,5 +1,5 @@
 ---
-title: spells/ironBody
+title: spell_dir/ironBody
 ---
  **Iron Body**
 

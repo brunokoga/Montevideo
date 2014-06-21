@@ -11,7 +11,7 @@ Lycanthropes are humanoids with the ability to turn into animals and animal-huma
 
 **Challenge Rating** : Same as base creature or base animal (whichever is higher) + 1.
 
-**Size and Type** : The creature (referred to hereafter as the base creature) gains the shapechanger subtype. The lycanthrope takes on the characteristics of some type of animal (referred to hereafter as the base animal within one size category of the base creature's size. A lycanthrope's hybrid form is the same size as the base animal or the base creature, whichever is larger.
+**Size and Type** : The creature (referred to hereafter as the base creature) gains the shapechanger subtype. The lycanthrope takes on the characteristics of some type of animal (referred to hereafter as the base animal) within one size category of the base creature's size. A lycanthrope's hybrid form is the same size as the base animal or the base creature, whichever is larger.
 
 **AC** : In hybrid or animal form the lycanthrope has the natural armor bonus of the base animal increased by +2.
 
@@ -39,9 +39,9 @@ _Lycanthropic Empathy (Ex)_ In any form, natural lycanthropes can communicate an
 
 ## Lycanthropy
 
-A creature that catches lycanthropy becomes an afflicted lycanthrope, but shows no symptoms (and does not gain any of the template's adjustments or abilities) until the night of the next full moon, when the victim involuntarily assumes animal form and forgets his or her own identity. The character remains in animal form until the next dawn and remembers nothing about the entire episode (or subsequent episodes unless he makes a DC 20 Will save, in which case he becomes aware of his condition.
+A creature that catches lycanthropy becomes an afflicted lycanthrope, but shows no symptoms (and does not gain any of the template's adjustments or abilities) until the night of the next full moon, when the victim involuntarily assumes animal form and forgets his or her own identity. The character remains in animal form until the next dawn and remembers nothing about the entire episode (or subsequent episodes) unless he makes a DC 20 Will save, in which case he becomes aware of his condition.
 
-A _ [remove disease](../spell_dir/removeDisease#_remove-disease_ or _ [heal](../spell_dir/heal#_heal)_ spell cast by a cleric of 12th level or higher cures the affliction, provided the character receives the spell within 3 days of the infecting lycanthrope's attack. Alternatively, consuming a dose of wolfsbane (_Pathfinder RPG Core Rulebook _560) gives an afflicted lycanthrope a new Fortitude save to recover from lycanthropy.
+A _ [remove disease](../spell_dir/removeDisease#_remove-disease)_ or _ [heal](../spell_dir/heal#_heal)_ spell cast by a cleric of 12th level or higher cures the affliction, provided the character receives the spell within 3 days of the infecting lycanthrope's attack. Alternatively, consuming a dose of wolfsbane (_Pathfinder RPG Core Rulebook _560) gives an afflicted lycanthrope a new Fortitude save to recover from lycanthropy.
 
 # Lycanthrope, Wererat
 
@@ -55,13 +55,13 @@ Human natural wererat rogue 2 ( [augmented](creatureTypes#_augmented-subtype) [h
 
 LE Medium [humanoid](creatureTypes#_humanoid) (human, [shapechanger](creatureTypes#_shapechanger-subtype))
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
 **AC** 16, touch 13, flat-footed 13 (+3 armor, +2 Dex, +1 dodge)
 
-**hp** 18 (2d8+6
+**hp** 18 (2d8+6)
 
 **Fort** +2, **Ref** +5, **Will** +3
 
@@ -85,11 +85,11 @@ LE Medium [humanoid](creatureTypes#_humanoid) (human, [shapechanger](creatureTyp
 
 **Feats** [Dodge](../feats#_dodge), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +7, [Bluff](../skill_dir/bluff#_bluff +3, [Climb](../skill_dir/climb#_climb +6, [Intimidate](../skill_dir/intimidate#_intimidate +3, [Knowledge](../skill_dir/knowledge#_knowledge) (local +5, [Perception](../skill_dir/perception#_perception +8, [Sense Motive](../skill_dir/senseMotive#_sense-motive +8, [Stealth](../skill_dir/stealth#_stealth +7, [Swim](../skill_dir/swim#_swim) +6
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +7, [Bluff](../skill_dir/bluff#_bluff) +3, [Climb](../skill_dir/climb#_climb) +6, [Intimidate](../skill_dir/intimidate#_intimidate) +3, [Knowledge](../skill_dir/knowledge#_knowledge) (local) +5, [Perception](../skill_dir/perception#_perception) +8, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +8, [Stealth](../skill_dir/stealth#_stealth) +7, [Swim](../skill_dir/swim#_swim) +6
 
 **Languages** Common
 
-**SQ** [change shape](universalMonsterRules#_change-shape (human, hybrid, and dire rat; _ [polymorph](../spell_dir/polymorph#_polymorph)_), rogue talents (fast stealth), lycanthropic empathy (rats and dire rats), trapfinding
+**SQ** [change shape](universalMonsterRules#_change-shape) (human, hybrid, and dire rat; _ [polymorph](../spell_dir/polymorph#_polymorph)_), rogue talents (fast stealth), lycanthropic empathy (rats and dire rats), trapfinding
 
 **Ecology**
 
@@ -103,13 +103,13 @@ LE Medium [humanoid](creatureTypes#_humanoid) (human, [shapechanger](creatureTyp
 
 LE Medium [humanoid](creatureTypes#_humanoid) (human, [shapechanger](creatureTypes#_shapechanger-subtype))
 
-**Init** +3; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +8
+**Init** +3; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
 **AC** 19, touch 14, flat-footed 15 (+3 armor, +3 Dex, +1 dodge, +2 natural)
 
-**hp** 20 (2d8+8
+**hp** 20 (2d8+8)
 
 **Fort** +3, **Ref** +6, **Will** +3
 
@@ -133,15 +133,15 @@ LE Medium [humanoid](creatureTypes#_humanoid) (human, [shapechanger](creatureTyp
 
 **Feats** [Dodge](../feats#_dodge), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +8, [Bluff](../skill_dir/bluff#_bluff +3, [Climb](../skill_dir/climb#_climb +7, [Intimidate](../skill_dir/intimidate#_intimidate +3, [Knowledge](../skill_dir/knowledge#_knowledge) (local +5, [Perception](../skill_dir/perception#_perception +8, [Sense Motive](../skill_dir/senseMotive#_sense-motive +8, [Stealth](../skill_dir/stealth#_stealth +8, [Swim](../skill_dir/swim#_swim) +7
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +8, [Bluff](../skill_dir/bluff#_bluff) +3, [Climb](../skill_dir/climb#_climb) +7, [Intimidate](../skill_dir/intimidate#_intimidate) +3, [Knowledge](../skill_dir/knowledge#_knowledge) (local) +5, [Perception](../skill_dir/perception#_perception) +8, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +8, [Stealth](../skill_dir/stealth#_stealth) +8, [Swim](../skill_dir/swim#_swim) +7
 
 **Languages** Common
 
-**SQ** [change shape](universalMonsterRules#_change-shape (human, hybrid, and dire rat; _ [polymorph](../spell_dir/polymorph#_polymorph)_), rogue talents (fast stealth), lycanthropic empathy (rats and dire rats), trapfinding
+**SQ** [change shape](universalMonsterRules#_change-shape) (human, hybrid, and dire rat; _ [polymorph](../spell_dir/polymorph#_polymorph)_), rogue talents (fast stealth), lycanthropic empathy (rats and dire rats), trapfinding
 
 **Special Abilities**
 
-**Disease**  **(Ex** _Filth fever_: Bite—injury; _save_ Fort DC 14; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain) and 1d3 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**Disease**  **(Ex)** _Filth fever_: Bite—injury; _save_ Fort DC 14; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain) and 1d3 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 Natural wererats tend to be short and wiry, with constantly darting eyes and frequent nervous twitches. Males often have thin, ragged moustaches.
 
@@ -173,7 +173,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) (human, [shapechanger](creatureTyp
 
 **Offense**
 
-**Speed** 30 ft. (20 ft. in armor
+**Speed** 30 ft. (20 ft. in armor)
 
 **Melee** longsword +5 (1d8+4/19–20)
 
@@ -187,11 +187,11 @@ CE Medium [humanoid](creatureTypes#_humanoid) (human, [shapechanger](creatureTyp
 
 **Feats** [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Power Attack](../feats#_power-attack)
 
-**Skills** [Climb](../skill_dir/climb#_climb +3, [Intimidate](../skill_dir/intimidate#_intimidate +4, [Perception](../skill_dir/perception#_perception) +4
+**Skills** [Climb](../skill_dir/climb#_climb) +3, [Intimidate](../skill_dir/intimidate#_intimidate) +4, [Perception](../skill_dir/perception#_perception) +4
 
 **Languages** Common
 
-**SQ** [change shape](universalMonsterRules#_change-shape (human, hybrid, and wolf; _ [polymorph](../spell_dir/polymorph#_polymorph)_), lycanthropic empathy (wolves and dire wolves)
+**SQ** [change shape](universalMonsterRules#_change-shape) (human, hybrid, and wolf; _ [polymorph](../spell_dir/polymorph#_polymorph)_), lycanthropic empathy (wolves and dire wolves)
 
 **Ecology**
 
@@ -205,7 +205,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) (human, [shapechanger](creatureTyp
 
 CE Medium [humanoid](creatureTypes#_humanoid) (human, [shapechanger](creatureTypes#_shapechanger-subtype))
 
-**Init** +5; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +4
+**Init** +5; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +4
 
 **Defense**
 
@@ -213,7 +213,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) (human, [shapechanger](creatureTyp
 
 **hp** 21 (2d10+6)
 
-**Fort** +6, **Ref** +2, **Will** +2 (+3 vs. fear
+**Fort** +6, **Ref** +2, **Will** +2 (+3 vs. fear)
 
 **Defensive Abilities** bravery +1; **DR** 10/silver
 
@@ -233,11 +233,11 @@ CE Medium [humanoid](creatureTypes#_humanoid) (human, [shapechanger](creatureTyp
 
 **Feats** [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Power Attack](../feats#_power-attack)
 
-**Skills** [Climb](../skill_dir/climb#_climb +4, [Intimidate](../skill_dir/intimidate#_intimidate +4, [Perception](../skill_dir/perception#_perception) +4
+**Skills** [Climb](../skill_dir/climb#_climb) +4, [Intimidate](../skill_dir/intimidate#_intimidate) +4, [Perception](../skill_dir/perception#_perception) +4
 
 **Languages** Common
 
-**SQ** [change shape](universalMonsterRules#_change-shape (human, hybrid, and wolf; _ [polymorph](../spell_dir/polymorph#_polymorph)_), lycanthropic empathy (wolves and dire wolves)
+**SQ** [change shape](universalMonsterRules#_change-shape) (human, hybrid, and wolf; _ [polymorph](../spell_dir/polymorph#_polymorph)_), lycanthropic empathy (wolves and dire wolves)
 
 In their humanoid form, werewolves look like normal people, though some tend to look a bit feral and have wild hair. Eyebrows that grow together, index fingers longer than the middle fingers, and strange birthmarks on the palm of the hand are all commonly accepted indications that a person is in fact a werewolf. Of course, such telltale signs are not always accurate, for such physical traits exist in normal people as well, but in areas where werewolves are a common problem, the traits can be damning regardless.
 
@@ -246,6 +246,6 @@ Of all the various types of lycanthropes, it is the werewolf that is the most wi
 Just as wolves are pack animals, werewolves have been known to gather in colonies and live among their own kind, humanoid by day and beast at night. Visitors to werewolf villages are generally rushed out of town before nightfall so as not to discover the citizenry's dark secret—unless, of course, the pack decides that the unlucky visitor won't be missed by friends back home.
 
 [Lycanthropic Player Characters]
-| When a PC becomes a lycanthrope, you as the GM have a choice to make. In most cases, you should take control of the PC's actions whenever he is in hybrid or animal form—lycanthropy shouldn't be a method to increase a PC's power, after all, and what an afflicted lycanthrope does while in animal or hybrid form is often at odds with what the character would actually want. If a player wants to play a lycanthrope, he should play a natural lycanthrope and follow the [guidelines for playing a character of a powerful race.](monstersAsPCs |
+| When a PC becomes a lycanthrope, you as the GM have a choice to make. In most cases, you should take control of the PC's actions whenever he is in hybrid or animal form—lycanthropy shouldn't be a method to increase a PC's power, after all, and what an afflicted lycanthrope does while in animal or hybrid form is often at odds with what the character would actually want. If a player wants to play a lycanthrope, he should play a natural lycanthrope and follow the [guidelines for playing a character of a powerful race.](monstersAsPCs) |
 | --- |
 

@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/cryptThing
+title: additionalMonster_dir/cryptThing
 ---
 # Crypt Thing
 
@@ -9,21 +9,21 @@ Crypt ThingCR 5
 
 **XP 1,600**
 
-NE Medium [undead](monster_dir/creatureTypes#_undead
+NE Medium [undead](monsters/creatureTypes#_undead)
 
-**Init** +6; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception +15
+**Init** +6; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +15
 
-**Aura** [fear](monster_dir/universalMonsterRules#_fear-(su-or-sp)) (10 ft., frightened for 1d4 rounds, Will DC 16 negates)
+**Aura** [fear](monsters/universalMonsterRules#_fear-(su-or-sp)) (10 ft., frightened for 1d4 rounds, Will DC 16 negates)
 
 Defense
 
 **AC** 19, touch 13, flat-footed 16 (+2 Dex, +1 dodge, +6 natural)
 
-**hp** 52 (8d8+16
+**hp** 52 (8d8+16)
 
 **Fort** +4, **Ref** +6, **Will** +8
 
-**Defensive Abilities** channel [resistance](monster_dir/universalMonsterRules#_resistance +2; **DR** 10/bludgeoning or magic; **Immune** [undead](monster_dir/creatureTypes#_undead) traits
+**Defensive Abilities** channel [resistance](monster_dir/universalMonsterRules#_resistance) +2; **DR** 10/bludgeoning or magic; **Immune** [undead](monster_dir/creatureTypes#_undead) traits
 
 Offense
 
@@ -33,9 +33,9 @@ Offense
 
 **Special Attacks** teleporting burst
 
-**Spell-Like Abilities** (CL 8th; concentration +10
+**Spell-Like Abilities** (CL 8th; concentration +10)
 
-3/day—quickened _ [dimension door](additionalMonsters/../spell_dir/dimensionDoor#_dimension-door_
+3/day—quickened _ [dimension door](additionalMonster_dir/../spell_dir/dimensionDoor#_dimension-door)_
 
 Statistics
 
@@ -43,9 +43,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +10; **CMD** 23
 
-**Feats** [Alertness](additionalMonsters/../feats#_alertness), [Dodge](additionalMonsters/../feats#_dodge), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes)
+**Feats** [Alertness](additionalMonsters/../feats#_alertness), [Dodge](additionalMonster_dir/../feats#_dodge), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Lightning Reflexes](additionalMonster_dir/../feats#_lightning-reflexes)
 
-**Skills** [Bluff](additionalMonsters/../skill_dir/bluff#_bluff +6, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +13, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (arcana +6, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering +5, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (history +3, [Perception](additionalMonsters/../skill_dir/perception#_perception +15, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive +15, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +9
+**Skills** [Bluff](additionalMonster_dir/../skill_dir/bluff#_bluff) +6, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +13, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (arcana) +6, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering) +5, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (history) +3, [Perception](additionalMonsters/../skill_dir/perception#_perception) +15, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +15, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +9
 
 **Languages** Common
 
@@ -59,7 +59,7 @@ Ecology
 
 Special Abilities
 
-**Teleporting Burst (Su)** Once per day, a crypt thing can teleport all creatures within 50 feet of it to randomly determined locations. The crypt thing can only affect creatures of which it is aware and to which it has line of sight. A successful DC 16 Will save negates this effect. An affected creature is teleported in a random direction (roll 1d8, with 1 indicating north and the other numbers indicating compass going clockwise) and a random distance (1d10 × 100 feet away from the crypt thing; determine each creature's direction randomly. A teleported creature arrives in the closest open space to the determined destination, but must appear on a solid surface capable of supporting its weight. If there is no appropriate destination in that direction, the creature does not teleport at all. The save DC is Charisma-based.
+**Teleporting Burst (Su)** Once per day, a crypt thing can teleport all creatures within 50 feet of it to randomly determined locations. The crypt thing can only affect creatures of which it is aware and to which it has line of sight. A successful DC 16 Will save negates this effect. An affected creature is teleported in a random direction (roll 1d8, with 1 indicating north and the other numbers indicating compass going clockwise) and a random distance (1d10 × 100 feet) away from the crypt thing; determine each creature's direction randomly. A teleported creature arrives in the closest open space to the determined destination, but must appear on a solid surface capable of supporting its weight. If there is no appropriate destination in that direction, the creature does not teleport at all. The save DC is Charisma-based.
 
 Crypt things are undead creatures found guarding tombs, graves, and crypts. Necromancers and other spellcasters create them to guard such areas, and the crypt things never leave their appointed lairs, even to pursue enemies. Their warded area may be a single room or passage, an entire grave complex, or even a city-sized necropolis. Though naturally solitary, multiple crypt things may guard a common area, often in conjunction with constructs or other undead.
 
@@ -67,5 +67,5 @@ A crypt thing only initiates combat if it is attacked or if the object or crypt 
 
 ## Creation
 
-A 15th-level spellcaster can create a crypt thing using _ [create undead](additionalMonsters/../spell_dir/createUndead#_create-undead._ The spell also requires the creator or an assistant to be able to cast _ [teleport](additionalMonsters/../spell_dir/teleport#_teleport_, _ [greater teleport](additionalMonsters/../spell_dir/teleport#_teleport-greater_, or _ [word of recall](additionalMonsters/../spell_dir/wordOfRecall#_word-of-recall)_ (or provide this magic from a scroll or other source.
+A 15th-level spellcaster can create a crypt thing using _ [create undead](additionalMonsters/../spell_dir/createUndead#_create-undead)._ The spell also requires the creator or an assistant to be able to cast _ [teleport](additionalMonsters/../spell_dir/teleport#_teleport)_, _ [greater teleport](additionalMonsters/../spell_dir/teleport#_teleport-greater)_, or _ [word of recall](additionalMonsters/../spell_dir/wordOfRecall#_word-of-recall)_ (or provide this magic from a scroll or other source).
 

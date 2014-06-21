@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spell_dir/summonFroghemoth
+title: ultimateMagi_dir/spells/summonFroghemoth
 ---
 Summon Froghemoth
 
-**School** conjuration (summoning; **Level** druid 9
+**School** conjuration (summoning); **Level** druid 9
 
 **Casting Time** 1 round
 
@@ -13,9 +13,9 @@ Summon Froghemoth
 
 **Effect** one summoned creature
 
-**Duration** 1 roun_dir/level (D
+**Duration** 1 roun_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as _ [summon nature's ally IX](spell_dir/summonNatureSAlly#_summon-nature-s-ally-ix_, except you summon a [froghemoth](monster_dir/froghemoth#_froghemoth.
+This spell functions as _ [summon nature's ally IX](spells/summonNatureSAlly#_summon-nature-s-ally-ix)_, except you summon a [froghemoth](monster_dir/froghemoth#_froghemoth).
 

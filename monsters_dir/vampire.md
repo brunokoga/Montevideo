@@ -11,7 +11,7 @@ _This alluring, raven-haired beauty casually wipes a trickle of blood from a pal
 
 Female human vampire sorcerer 8
 
-CE Medium [undead](creatureTypes#_undead) ( [augmented](creatureTypes#_augmented-subtype) [humanoid](creatureTypes#_humanoid)
+CE Medium [undead](creatureTypes#_undead) ( [augmented](creatureTypes#_augmented-subtype) [humanoid](creatureTypes#_humanoid))
 
 **Init** +8; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +13
 
@@ -23,7 +23,7 @@ CE Medium [undead](creatureTypes#_undead) ( [augmented](creatureTypes#_augmented
 
 **Fort** +13, **Ref** +11, **Will** +12
 
-**Defensive Abilities** [channel resistance](universalMonsterRules#_channel-resistance +4; **DR** 10/magic and silver; **Immune** [undead traits](universalMonsterRules#_undead-traits); **Resist** cold 10, electricity 10
+**Defensive Abilities** [channel resistance](universalMonsterRules#_channel-resistance) +4; **DR** 10/magic and silver; **Immune** [undead traits](universalMonsterRules#_undead-traits); **Resist** cold 10, electricity 10
 
 **Weaknesses** vampire weaknesses
 
@@ -39,15 +39,15 @@ CE Medium [undead](creatureTypes#_undead) ( [augmented](creatureTypes#_augmented
 
 **Sorcerer Spells Known** (CL 8th, +8 ranged touch)
 
-4th (5/day)—_ [greater invisibility](../spell_dir/invisibility#_invisibility-greater_
+4th (5/day)—_ [greater invisibility](../spell_dir/invisibility#_invisibility-greater)_
 
-3rd (5/day)—_ [dispel magic](../spell_dir/dispelMagic#_dispel-magic_, _ [fireball](../spell_dir/fireball#_fireball)_ (DC 21, _ [vampiric touch](../spell_dir/vampiricTouch#_vampiric-touch_
+3rd (5/day)—_ [dispel magic](../spell_dir/dispelMagic#_dispel-magic)_, _ [fireball](../spell_dir/fireball#_fireball)_ (DC 21), _ [vampiric touch](../spell_dir/vampiricTouch#_vampiric-touch)_
 
-2nd (8/day)—_ [false life](../spell_dir/falseLife#_false-life_, _ [invisibility](../spell_dir/invisibility#_invisibility_, _ [scorching ray](../spell_dir/scorchingRay#_scorching-ray_, _ [web](../spell_dir/web#_web)_ (DC 20
+2nd (8/day)—_ [false life](../spell_dir/falseLife#_false-life)_, _ [invisibility](../spell_dir/invisibility#_invisibility)_, _ [scorching ray](../spell_dir/scorchingRay#_scorching-ray)_, _ [web](../spell_dir/web#_web)_ (DC 20)
 
-1st (8/day)—_ [burning hands](../spell_dir/burningHands#_burning-hands)_ (DC 19, _ [chill touch](../spell_dir/chillTouch#_chill-touch)_ (DC 19, _ [disguise self](../spell_dir/disguiseSelf#_disguise-self_, _ [expeditious retreat](../spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [mage armor](../spell_dir/mageArmor#_mage-armor_, _ [magic missile](../spell_dir/magicMissile#_magic-missile_
+1st (8/day)—_ [burning hands](../spell_dir/burningHands#_burning-hands)_ (DC 19), _ [chill touch](../spell_dir/chillTouch#_chill-touch)_ (DC 19), _ [disguise self](../spell_dir/disguiseSelf#_disguise-self)_, _ [expeditious retreat](../spell_dir/expeditiousRetreat#_expeditious-retreat)_, _ [mage armor](../spell_dir/mageArmor#_mage-armor)_, _ [magic missile](../spell_dir/magicMissile#_magic-missile)_
 
-0—_ [acid splash](../spell_dir/acidSplash#_acid-splash_, _ [detect magic](../spell_dir/detectMagic#_detect-magic_, _ [light](../spell_dir/light#_light_, _ [mage hand](../spell_dir/mageHand#_mage-hand_, _ [mending](../spell_dir/mending#_mending_, _ [message](../spell_dir/message#_message_, _ [open/close](../spell_dir/openClose#_open-close_, _ [read magic](../spell_dir/readMagic#_read-magic_
+0—_ [acid splash](../spell_dir/acidSplash#_acid-splash)_, _ [detect magic](../spell_dir/detectMagic#_detect-magic)_, _ [light](../spell_dir/light#_light)_, _ [mage hand](../spell_dir/mageHand#_mage-hand)_, _ [mending](../spell_dir/mending#_mending)_, _ [message](../spell_dir/message#_message)_, _ [open/close](../spell_dir/openClose#_open-close)_, _ [read magic](../spell_dir/readMagic#_read-magic)_
 
 **Bloodline** undead
 
@@ -59,19 +59,19 @@ CE Medium [undead](creatureTypes#_undead) ( [augmented](creatureTypes#_augmented
 
 **Feats** [Alertness](../feats#_alertness)B, [Blind-Fight](../feats#_blind-fight), [Combat Casting](../feats#_combat-casting), [Combat Reflexes](../feats#_combat-reflexes)B, [Dodge](../feats#_dodge)B, [Eschew Materials](../feats#_eschew-materials), [Extend Spell](../feats#_extend-spell), [Improved Initiative](../feats#_improved-initiative)B, [Lightning Reflexes](../feats#_lightning-reflexes)B, [Silent Spell](../feats#_silent-spell), [Still Spell](../feats#_still-spell), [Toughness](../feats#_toughness)B, [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +27, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana +13, [Knowledge](../skill_dir/knowledge#_knowledge) (religion +10, [Perception](../skill_dir/perception#_perception +21, [Sense Motive](../skill_dir/senseMotive#_sense-motive +13, [Spellcraft](../skill_dir/spellcraft#_spellcraft +13, [Stealth](../skill_dir/stealth#_stealth +12, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device +19; **Racial Modifiers** +8 [Bluff](../skill_dir/bluff#_bluff,+8 [Perception](../skill_dir/perception#_perception, +8 [Sense Motive](../skill_dir/senseMotive#_sense-motive, +8 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +27, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana) +13, [Knowledge](../skill_dir/knowledge#_knowledge) (religion) +10, [Perception](../skill_dir/perception#_perception) +21, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +13, [Spellcraft](../skill_dir/spellcraft#_spellcraft) +13, [Stealth](../skill_dir/stealth#_stealth) +12, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device) +19; **Racial Modifiers** +8 [Bluff](../skill_dir/bluff#_bluff),+8 [Perception](../skill_dir/perception#_perception), +8 [Sense Motive](../skill_dir/senseMotive#_sense-motive), +8 [Stealth](../skill_dir/stealth#_stealth)
 
 **Languages** Abyssal, Common, Draconic
 
-**SQ** [change shape](universalMonsterRules#_change-shape (dire bat or wolf, _ [beast shape II](../spell_dir/beastShape#_beast-shape-ii)_), gaseous form, shadowless, spider climb
+**SQ** [change shape](universalMonsterRules#_change-shape) (dire bat or wolf, _ [beast shape II](../spell_dir/beastShape#_beast-shape-ii)_), gaseous form, shadowless, spider climb
 
 **Ecology**
 
 **Environment** any
 
-**Organization** solitary or family (vampire plus 2–8 spawn
+**Organization** solitary or family (vampire plus 2–8 spawn)
 
-**Treasure** NPC gear (_ [cloak of resistance](../magicItem_dir/wondrousItems#_cloak-of-resistance +3, [headband of alluring charisma](../magicItem_dir/wondrousItems#_headband-of-alluring-charisma) +4, ring of protection +2)_
+**Treasure** NPC gear (_ [cloak of resistance](../magicItem_dir/wondrousItems#_cloak-of-resistance) +3, [headband of alluring charisma](../magicItem_dir/wondrousItems#_headband-of-alluring-charisma) +4, ring of protection +2)_
 
 Vampires are undead humanoid creatures that feed on the blood of the living. They look much as they did in life, often becoming more attractive, though some have a hardened, feral look instead.
 
@@ -91,7 +91,7 @@ Vampires are undead humanoid creatures that feed on the blood of the living. The
 
 **Hit Dice** : Change all racial Hit Dice to d8s. Class Hit Dice are unaffected. As undead, vampires use their Charisma modifier to determine bonus hit points (instead of Constitution).
 
-**Defensive Abilities** : A vampire gains [channel resistance](universalMonsterRules#_channel-resistance +4, DR 10/magic and silver, and resistance to cold 10 and electricity 10, in addition to all of the defensive abilities granted by the undead type. A vampire also gains [fast healing](universalMonsterRules#_fast-healing) 5. If reduced to 0 hit points in combat, a vampire assumes gaseous form (see below) and attempts to escape. It must reach its coffin home within 2 hours or be utterly destroyed. (It can normally travel up to 9 miles in 2 hours.) Additional damage dealt to a vampire forced into gaseous form has no effect. Once at rest, the vampire is helpless. It regains 1 hit point after 1 hour, then is no longer helpless and resumes healing at the rate of 5 hit points per round.
+**Defensive Abilities** : A vampire gains [channel resistance](universalMonsterRules#_channel-resistance) +4, DR 10/magic and silver, and resistance to cold 10 and electricity 10, in addition to all of the defensive abilities granted by the undead type. A vampire also gains [fast healing](universalMonsterRules#_fast-healing) 5. If reduced to 0 hit points in combat, a vampire assumes gaseous form (see below) and attempts to escape. It must reach its coffin home within 2 hours or be utterly destroyed. (It can normally travel up to 9 miles in 2 hours.) Additional damage dealt to a vampire forced into gaseous form has no effect. Once at rest, the vampire is helpless. It regains 1 hit point after 1 hour, then is no longer helpless and resumes healing at the rate of 5 hit points per round.
 
 **Weaknesses** : Vampires cannot tolerate the strong odor of garlic and will not enter an area laced with it. Similarly, they recoil from mirrors or strongly presented holy symbols. These things don't harm the vampire—they merely keep it at bay. A recoiling vampire must stay at least 5 feet away from the mirror or holy symbol and cannot touch or make melee attacks against that creature. Holding a vampire at bay takes a standard action. After 1 round, a vampire can overcome its revulsion of the object and function normally each round it makes a DC 25 Will save.
 
@@ -129,26 +129,26 @@ _Energy Drain (Su)_: A creature hit by a vampire's slam (or other natural weapon
 
 **Special Qualities** : A vampire gains the following.
 
-_Change Shape (Su_: A vampire can use change shape to assume the form of a dire bat or wolf, as _ [beast shape II](../spell_dir/beastShape#_beast-shape-ii)_.
+_Change Shape (Su)_: A vampire can use change shape to assume the form of a dire bat or wolf, as _ [beast shape II](../spell_dir/beastShape#_beast-shape-ii)_.
 
   
   
 
-_Gaseous Form (Su_: As a standard action, a vampire can assume _ [gaseous form](../spell_dir/gaseousForm#_gaseous-form)_ at will (caster level 5th), but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
+_Gaseous Form (Su)_: As a standard action, a vampire can assume _ [gaseous form](../spell_dir/gaseousForm#_gaseous-form)_ at will (caster level 5th), but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
 
   
   
 
-_Shadowless (Ex_: A vampire casts no shadows and shows no reflection in a mirror.
+_Shadowless (Ex)_: A vampire casts no shadows and shows no reflection in a mirror.
 
   
   
 
-_Spider [Climb](../skill_dir/climb#_climb) (Ex_: A vampire can climb sheer surfaces as though under the effects of a _ [spider climb](../spell_dir/spiderClimb#_spider-climb_ spell.
+_Spider [Climb](../skill_dir/climb#_climb) (Ex)_: A vampire can climb sheer surfaces as though under the effects of a _ [spider climb](../spell_dir/spiderClimb#_spider-climb)_ spell.
 
 **Ability Scores** Str +6, Dex +4, Int +2, Wis +2, Cha +4. As an undead creature, a vampire has no Constitution score.
 
-**Skills** Vampires gain a +8 racial bonus on [Bluff](../skill_dir/bluff#_bluff, [Perception](../skill_dir/perception#_perception, [Sense Motive](../skill_dir/senseMotive#_sense-motive, and [Stealth](../skill_dir/stealth#_stealth checks.
+**Skills** Vampires gain a +8 racial bonus on [Bluff](../skill_dir/bluff#_bluff), [Perception](../skill_dir/perception#_perception), [Sense Motive](../skill_dir/senseMotive#_sense-motive), and [Stealth](../skill_dir/stealth#_stealth) checks.
 
 **Feats** Vampires gain [Alertness](../feats#_alertness), [Combat Reflexes](../feats#_combat-reflexes), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), and [Toughness](../feats#_toughness) as bonus feats.
 

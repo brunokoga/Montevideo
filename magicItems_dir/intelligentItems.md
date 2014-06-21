@@ -39,7 +39,7 @@ title: magicItem_dir/intelligentItems
 | Telepathy | +1,000 gp | +1 |
 | Senses (30 ft.) | — | — |
 | Senses (60 ft.) | +500 gp | — |
-| Senses (120 ft. | +1,000 gp | — |
+| Senses (120 ft.) | +1,000 gp | — |
 | Darkvision | +500 gp | — |
 | Blindsense | +5,000 gp | +1 |
 | Read languages | +1,000 gp | +1 |
@@ -50,7 +50,7 @@ title: magicItem_dir/intelligentItems
 | --- | --- | --- | --- |
 | 01–10 | Item can cast a 0-level spell at will | +1,000 gp | +1 |
 | 11–20 | Item can cast a 1st-level spell 3/day | +1,200 gp | +1 |
-| 21–25 | Item can use _ [magic aura](../spell_dir/magicAura#_magic-aura_ on itself at will | +2,000 gp | +1 |
+| 21–25 | Item can use _ [magic aura](../spell_dir/magicAura#_magic-aura)_ on itself at will | +2,000 gp | +1 |
 | 26–35 | Item can cast a 2nd-level spell 1/day | +2,400 gp | +1 |
 | 36–45 | Item has 5 ranks in one skill\* | +2,500 gp | +1 |
 | 46–50 | Item can sprout limbs and move with a speed of 10 feet | +5,000 gp | +1 |
@@ -58,25 +58,25 @@ title: magicItem_dir/intelligentItems
 | 56–60 | Item can cast a 2nd-level spell 3/day | +7,200 gp | +1 |
 | 61–70 | Item has 10 ranks in one skill\* | +10,000 gp | +2 |
 | 71–75 | Item can change shape into one other form of the same size | +10,000 gp | +2 |
-| 76–80 | Item can _ [fly](../spell_dir/fly, _as per the spell, at a speed of 30 feet | +10,000 gp | +2 |
+| 76–80 | Item can _ [fly](../spell_dir/fly), _as per the spell, at a speed of 30 feet | +10,000 gp | +2 |
 | 81–85 | Item can cast a 4th-level spell 1/day | +11,200 gp | +2 |
-| 86–90 | Item can _ [teleport](../spell_dir/teleport#_teleport_ itself 1/day | +15,000 gp | +2 |
+| 86–90 | Item can _ [teleport](../spell_dir/teleport#_teleport)_ itself 1/day | +15,000 gp | +2 |
 | 91–95 | Item can cast a 3rd-level spell 3/day | +18,000 gp | +2 |
 | 96–100 | Item can cast a 4th-level spell 3/day | +33,600 gp | +2 |
 
 [Table: Intelligent Item Purpose]
 | d% | Purpose | Ego Modifier |
 | --- | --- | --- |
-| 01–20 | Defeat/slay diametrically opposed alignment\* | +2 |
-| 21–30 | Defea_dir/slay arcane spellcasters (including spellcasting monsters and those that use spell-like abilities | +2 |
-| 31–40 | Defea_dir/slay divine spellcasters (including divine entities and servitors | +2 |
+| 01–20 | Defea_dir/slay diametrically opposed alignment\* | +2 |
+| 21–30 | Defeat/slay arcane spellcasters (including spellcasting monsters and those that use spell-like abilities) | +2 |
+| 31–40 | Defea_dir/slay divine spellcasters (including divine entities and servitors) | +2 |
 | 41–50 | Defeat/slay non-spellcasters | +2 |
-| 51–55 | Defea_dir/slay a particular creature type (see the _bane_ special ability for choices | +2 |
+| 51–55 | Defea_dir/slay a particular creature type (see the _bane_ special ability for choices) | +2 |
 | 56–60 | Defeat/slay a particular race or kind of creature | +2 |
 | 61–70 | Defend a particular race or kind of creature | +2 |
-| 71–80 | Defeat/slay the servants of a specific deity | +2 |
+| 71–80 | Defea_dir/slay the servants of a specific deity | +2 |
 | 81–90 | Defend the servants and interests of a specific deity | +2 |
-| 91–95 | Defea_dir/slay all (other than the item and the wielder | +2 |
+| 91–95 | Defeat/slay all (other than the item and the wielder) | +2 |
 | 96–100 | Choose one | +2 |
 
 [Table: Special Purpose Item Dedicated Powers]
@@ -90,7 +90,7 @@ title: magicItem_dir/intelligentItems
 | 81–95 | Item can use a 7th-level spell at will | +182,000 gp | +2 |
 | 96–100 | Item can use _ [true resurrection](../spell_dir/trueResurrection#_true-resurrection) _on wielder, once per month | +200,000 gp | +2 |
 
-Magic items sometimes have intelligence of their own. Magically imbued with sentience, these items think and feel the same way characters do and should be treated as NPCs. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes. Only permanent magic items (as opposed to single-use items or those with charges) can be intelligent. (This means that potions, scrolls, and wands, among other items, are never intelligent. In general, less than 1% of magic items have intelligence.
+Magic items sometimes have intelligence of their own. Magically imbued with sentience, these items think and feel the same way characters do and should be treated as NPCs. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes. Only permanent magic items (as opposed to single-use items or those with charges) can be intelligent. (This means that potions, scrolls, and wands, among other items, are never intelligent.) In general, less than 1% of magic items have intelligence.
 
 Intelligent items can actually be considered creatures because they have [Intelligence](../gettingStarted#_intelligence), [Wisdom](../gettingStarted#_wisdom), and [Charisma](../gettingStarted#_charisma-new) scores. Treat them as constructs. Intelligent items often have the ability to illuminate their surroundings at will (as magic weapons do); many cannot see otherwise.
 
@@ -130,7 +130,7 @@ Every intelligent magic item begins with the ability to see and hear within 30 f
 
 **Read Languages (Ex)** : The item can read script in any language, regardless of its known languages.
 
-**_Read Magic_ (Sp)** : An intelligent magic item with this ability can [read magic](../spell_dir/readMagic#_read-magical writings and scrolls as if through _ [read magic](../spell_dir/readMagic#_read-magic. _This ability does not allow the magic item to activate scrolls or other items. An intelligent magic item can suppress and resume this ability as a free action.
+**_Read Magic_ (Sp)** : An intelligent magic item with this ability can [read magic](../spell_dir/readMagic#_read-magic)al writings and scrolls as if through _ [read magic](../spell_dir/readMagic#_read-magic). _This ability does not allow the magic item to activate scrolls or other items. An intelligent magic item can suppress and resume this ability as a free action.
 
 ## Intelligent Item Powers
 
@@ -148,7 +148,7 @@ A dedicated power operates only when an intelligent item is in pursuit of its sp
 
 ## Item Ego
 
-Ego is a measure of the total power and force of personality that an item possesses. An item's Ego score is the sum of all of its Ego modifiers plus an additional bonus for the cost of the base magic item (excluding the cost of all of the intelligent item enhancements. An item's Ego score helps determine whether the item or the character is dominant in their relationship, as detailed below.
+Ego is a measure of the total power and force of personality that an item possesses. An item's Ego score is the sum of all of its Ego modifiers plus an additional bonus for the cost of the base magic item (excluding the cost of all of the intelligent item enhancements). An item's Ego score helps determine whether the item or the character is dominant in their relationship, as detailed below.
 
 | Base Magic Item Value | Ego Modifier |
 | --- | --- |

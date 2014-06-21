@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spell_dir/burstOfSpeed
+title: ultimateComba_dir/spells/burstOfSpeed
 ---
 Burst of Speed
 
@@ -15,5 +15,5 @@ Burst of Speed
 
 **Duration** see text
 
-Until the end of your turn, you gain a +20-foot bonus to speed (or +10-foot bonus if you are wearing Medium or Heavy armor, your movement does not provoke attacks of opportunity, and you can move through the space of creatures that are larger than you are, but you cannot end your movement this round in a space occupied by a creature.
+Until the end of your turn, you gain a +20-foot bonus to speed (or +10-foot bonus if you are wearing Medium or Heavy armor), your movement does not provoke attacks of opportunity, and you can move through the space of creatures that are larger than you are, but you cannot end your movement this round in a space occupied by a creature.
 

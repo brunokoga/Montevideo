@@ -1,5 +1,5 @@
 ---
-title: spells/arcaneMark
+title: spell_dir/arcaneMark
 ---
  **Arcane Mark**
 

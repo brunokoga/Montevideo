@@ -1,9 +1,9 @@
 ---
-title: mythicAdventures/mythicSpells/changestaff
+title: mythicAdventure_dir/mythicSpells/changestaff
 ---
 Changestaff
 
-**Source** [_changestaff_](spell_dir/changestaff#_changestaff
+**Source** [_changestaff_](spell_dir/changestaff#_changestaff)
 
 The treant-like creature created with this spell is considered a mythic creature, and it gains DR 10/epic and slashing instead of gaining DR 10/slashing.
 

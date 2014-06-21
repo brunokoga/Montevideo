@@ -1,5 +1,5 @@
 ---
-title: spells/callLightningStorm
+title: spell_dir/callLightningStorm
 ---
  **Call Lightning Storm**
 

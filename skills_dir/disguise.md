@@ -1,5 +1,5 @@
 ---
-title: skills/disguise
+title: skill_dir/disguise
 ---
 # Disguise
 

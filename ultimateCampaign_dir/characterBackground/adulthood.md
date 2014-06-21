@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/characterBackgroun_dir/adulthood
+title: ultimateCampaig_dir/characterBackground/adulthood
 ---
 # Adulthood
 
@@ -11,7 +11,7 @@ The following categories explore character conflicts and vulnerability that shap
 
 ## Conflict and Behavior
 
-Conflict is at the heart of character development. The actions you take in response to conflict define you and determine your alignment. Even if you _perceive_ yourself as pure and good, fair and impartial, or wild and individualistic, what do you actually _do _when you're faced with an external or internal conflict and those values are challenged? Do you adhere to a code of behavior (lawful), look for the best way to resolve the conflict fairly (neutral), or act on impulse according to what feels right in the moment (chaotic)? When resolving a conflict, do you attempt to act in the best interests of others (good), strive for an equal or just resolution for all sides no matter the cost (neutral), or make decisions that benefit yourself at the expense of others (evil? The choices you make over time add up to determine your moral and philosophical view of the world.
+Conflict is at the heart of character development. The actions you take in response to conflict define you and determine your alignment. Even if you _perceive_ yourself as pure and good, fair and impartial, or wild and individualistic, what do you actually _do _when you're faced with an external or internal conflict and those values are challenged? Do you adhere to a code of behavior (lawful), look for the best way to resolve the conflict fairly (neutral), or act on impulse according to what feels right in the moment (chaotic)? When resolving a conflict, do you attempt to act in the best interests of others (good), strive for an equal or just resolution for all sides no matter the cost (neutral), or make decisions that benefit yourself at the expense of others (evil)? The choices you make over time add up to determine your moral and philosophical view of the world.
 
 Very few characters consider themselves evil. Evil characters justify their selfish or destructive behavior with reasons they believe to be sound. Likewise, there are many selfless creatures who work tirelessly for the betterment of others but remain too humble and aware of their own flaws to think of themselves as good. When thinking about your alignment, examine the past you have created so far. What alignment would you give yourself while in character? Which one are you really?
 

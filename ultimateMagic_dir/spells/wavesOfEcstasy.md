@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spell_dir/wavesOfEcstasy
+title: ultimateMagi_dir/spells/wavesOfEcstasy
 ---
 Waves of Ecstasy
 
-**School** enchantment (compulsion [emotion, mind-affecting]; **Level** bard 6, cleric 7, sorcerer/wizard 7, witch 7
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 6, cleric 7, sorcere_dir/wizard 7, witch 7
 
 **Casting Time** 1 standard action
 
@@ -13,9 +13,9 @@ Waves of Ecstasy
 
 **Area** cone-shaped burst
 
-**Duration** 1 roun_dir/level; see text
+**Duration** 1 round/level; see text
 
-**Saving Throw** Will partial (see text; **Spell Resistance** yes
+**Saving Throw** Will partial (see text); **Spell Resistance** yes
 
 You emanate waves of intense pleasure that cause all targets within range to falter. Affected creatures are stunned for 1 round and are staggered for the remainder of the spell. A creature that makes its save is staggered for the first round and can act normally thereafter.
 

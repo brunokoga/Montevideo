@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/sonicThrust
+title: ultimateMagi_dir/spells/sonicThrust
 ---
 Sonic Thrust
 
-**School** evocation [sonic]; **Level** bard 4, sorcerer/wizard 5
+**School** evocation [sonic]; **Level** bard 4, sorcere_dir/wizard 5
 
 **Casting Time** 1 standard action
 
@@ -24,5 +24,5 @@ You can use this spell to hurl an object or creature toward a particular target.
 
 Creatures that fall within the weight capacity of the spell can be hurled, but they are allowed Will saves (and spell resistance) to negate the effect, as are those whose held possessions are targeted by the spell.
 
-If a hurled creature is thrown against a solid surface, it takes damage as if it had fallen 10 feet (1d6 points.
+If a hurled creature is thrown against a solid surface, it takes damage as if it had fallen 10 feet (1d6 points).
 

@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/eldritchFever
+title: ultimateMagi_dir/spells/eldritchFever
 ---
 Eldritch Fever
 
-**School** necromancy [curse, disease, evil]; **Level** inquisitor 3, sorcerer/wizard 3, witch 3
+**School** necromancy [curse, disease, evil]; **Level** inquisitor 3, sorcere_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard
 
@@ -17,5 +17,5 @@ Eldritch Fever
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-The target gains the [eldritch ague spellblight](../magi_dir/spellblights#_eldritch-ague.
+The target gains the [eldritch ague spellblight](../magi_dir/spellblights#_eldritch-ague).
 

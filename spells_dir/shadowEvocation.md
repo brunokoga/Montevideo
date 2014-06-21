@@ -3,7 +3,7 @@ title: spell_dir/shadowEvocation
 ---
  **Shadow Evocation**
 
-**School** illusion (shadow; **Level** bard 5, sorcerer/wizard 5
+**School** illusion (shadow); **Level** bard 5, sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
@@ -27,5 +27,5 @@ Objects automatically succeed on their [Will](../combat#_will) saves against thi
 
 **School** illusion (shadow); **Level** sorcere_dir/wizard 8
 
-This spell functions like _shadow evocation, _except that it enables you to create partially real, illusory versions of sorcerer or wizard evocation spells of 7th level or lower. If recognized as a _greater shadow evocation_, a damaging spell deals only three-fifths (60% damage.
+This spell functions like _shadow evocation, _except that it enables you to create partially real, illusory versions of sorcerer or wizard evocation spells of 7th level or lower. If recognized as a _greater shadow evocation_, a damaging spell deals only three-fifths (60%) damage.
 

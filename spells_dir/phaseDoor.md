@@ -3,7 +3,7 @@ title: spell_dir/phaseDoor
 ---
  **Phase Door**
 
-**School** conjuration (creation; **Level** sorcerer/wizard 7
+**School** conjuration (creation); **Level** sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 

@@ -9,7 +9,7 @@ _A parasite ballooned to monstrous proportions undulates in the muck, its circul
 
 **XP 600**
 
-N Medium [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subtype)
+N Medium [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subtype))
 
 **Init** +1; **Senses** blindsight 30 ft., scent; [Perception](../skill_dir/perception#_perception) +0
 
@@ -37,9 +37,9 @@ N Medium [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subt
 
 **Str** 11, **Dex** 12, **Con** 14, **Int** —, **Wis** 10, **Cha** 1
 
-**Base**  **Atk** +2; **CMB** +2 (+10 when attached); **CMD** 13 (can't be tripped
+**Base**  **Atk** +2; **CMB** +2 (+10 when attached); **CMD** 13 (can't be tripped)
 
-**Skills** [Stealth](../skill_dir/stealth#_stealth) +1 (+9 in swamps, [Swim](../skill_dir/swim#_swim +8; **Racial Modifiers** +8 [Stealth](../skill_dir/stealth#_stealth) in swamps
+**Skills** [Stealth](../skill_dir/stealth#_stealth) +1 (+9 in swamps), [Swim](../skill_dir/swim#_swim) +8; **Racial Modifiers** +8 [Stealth](../skill_dir/stealth#_stealth) in swamps
 
 **SQ** [amphibious](universalMonsterRules#_amphibious)
 
@@ -53,7 +53,7 @@ N Medium [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subt
 
 **Special Abilities**
 
-**Attach (Ex** When a giant leech hits with a bite attack, it latches onto its target and automatically grapples. The giant leech loses its Dexterity bonus to AC and has an AC of 10, but holds on with great tenacity and automatically inflicts bite damage each round. A giant leech has a +8 racial bonus to maintain its grapple on a foe once it is attached. An attached giant leech can be struck with a weapon or grappled itself—if its prey manages to win a grapple check or [Escape Artist](../skill_dir/escapeArtist#_escape-artist) check against it, the giant leech is removed.
+**Attach (Ex)** When a giant leech hits with a bite attack, it latches onto its target and automatically grapples. The giant leech loses its Dexterity bonus to AC and has an AC of 10, but holds on with great tenacity and automatically inflicts bite damage each round. A giant leech has a +8 racial bonus to maintain its grapple on a foe once it is attached. An attached giant leech can be struck with a weapon or grappled itself—if its prey manages to win a grapple check or [Escape Artist](../skill_dir/escapeArtist#_escape-artist) check against it, the giant leech is removed.
 
 **Blood Drain (Ex)** A giant leech drains blood at the end of each turn it is attached, inflicting 1 point of Strength and Constitution [damage](universalMonsterRules#_ability-damage-and-drain).
 
@@ -69,7 +69,7 @@ _A mass of wriggling black creatures each the size of a man's finger stirs the s
 
 **XP 1,200**
 
-N Diminutive [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subtype), [swarm](creatureTypes#_swarm-subtype)
+N Diminutive [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subtype), [swarm](creatureTypes#_swarm-subtype))
 
 **Init** +4; **Senses** blindsight 30 ft.; [Perception](../skill_dir/perception#_perception) +0
 
@@ -93,7 +93,7 @@ N Diminutive [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** blood drain, [distraction](universalMonsterRules#_distraction) (DC 15
+**Special Attacks** blood drain, [distraction](universalMonsterRules#_distraction) (DC 15)
 
 **Statistics**
 
@@ -101,7 +101,7 @@ N Diminutive [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-
 
 **Base**  **Atk** +4; **CMB** —; **CMD** —
 
-**Skills** [Stealth](../skill_dir/stealth#_stealth) +16 (+24 in swamps, [Swim](../skill_dir/swim#_swim +12; **Racial Modifiers** +8 [Stealth](../skill_dir/stealth#_stealth in swamps, uses Dexterity to modify [Swim](../skill_dir/swim#_swim) checks
+**Skills** [Stealth](../skill_dir/stealth#_stealth) +16 (+24 in swamps), [Swim](../skill_dir/swim#_swim) +12; **Racial Modifiers** +8 [Stealth](../skill_dir/stealth#_stealth) in swamps, uses Dexterity to modify [Swim](../skill_dir/swim#_swim) checks
 
 **Ecology**
 
@@ -115,7 +115,7 @@ N Diminutive [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-
 
 **Blood Drain (Ex)** Any living creature that begins its turn with a leech swarm in its space is drained of its blood and takes 1d3 points of Str and Con [damage](universalMonsterRules#_ability-damage-and-drain).
 
-**Poison (Ex** Swarm—injury; _save_ Fort DC 15; _frequency_ 1/round for 2 rounds; _effect_ 1d4 Dexterity drain; _cure_ 1 save.
+**Poison (Ex)** Swarm—injury; _save_ Fort DC 15; _frequency_ 1/round for 2 rounds; _effect_ 1d4 Dexterity drain; _cure_ 1 save.
 
 This horrifying cloud of ravenous, blood-draining parasites eschews the stealth of a lone leech's methods in favor of swift and merciless feeding.
 

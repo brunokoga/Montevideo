@@ -1,5 +1,5 @@
 ---
-title: spells/freedom
+title: spell_dir/freedom
 ---
  **Freedom**
 

@@ -1,5 +1,5 @@
 ---
-title: spells/magicWeapon
+title: spell_dir/magicWeapon
 ---
  **Magic Weapon**
 
@@ -23,7 +23,7 @@ You can't cast this spell on a natural weapon, such as an unarmed strike (instea
 
 **Magic Weapon, Greater**
 
-**School** transmutation; **Level** cleric 4, paladin 3, sorcerer/wizard 3
+**School** transmutation; **Level** cleric 4, paladin 3, sorcere_dir/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -33,7 +33,7 @@ You can't cast this spell on a natural weapon, such as an unarmed strike (instea
 
 **Target** one weapon or 50 projectiles (all of which must be together at the time of casting)
 
-**Duration** 1 hour/level
+**Duration** 1 hou_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless, object); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless, object)
 

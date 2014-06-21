@@ -9,7 +9,7 @@ _This immense raptor unleashes a shrill cry as it bares its talons, each large e
 
 **XP 6,400**
 
-N Gargantuan [animal](creatureTypes#_animal
+N Gargantuan [animal](creatureTypes#_animal)
 
 **Init** +6; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +15
 
@@ -23,7 +23,7 @@ N Gargantuan [animal](creatureTypes#_animal
 
 **Offense**
 
-**Speed** 20 ft., fly 80 ft. (average
+**Speed** 20 ft., fly 80 ft. (average)
 
 **Melee** 2 talons +18 (2d6+9/19–20 plus [grab](universalMonsterRules#_grab)), bite +17 (2d8+9)
 
@@ -35,9 +35,9 @@ N Gargantuan [animal](creatureTypes#_animal
 
 **Base**  **Atk** +12; **CMB** +25 (+29 grapple); **CMD** 37
 
-**Feats** [Flyby Attack](monsterFeats#_flyby-attack), [Improved Critical](../feats#_improved-critical) (talons), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Weapon Focus](../feats#_weapon-focus) (talons)
+**Feats** [Flyby Attack](monsterFeats#_flyby-attack), [Improved Critical](../feats#_improved-critical) (talons), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (talons)
 
-**Skills** [Fly](../skill_dir/fly#_fly +7, [Perception](../skill_dir/perception#_perception) +15
+**Skills** [Fly](../skill_dir/fly#_fly) +7, [Perception](../skill_dir/perception#_perception) +15
 
 **Ecology**
 
@@ -59,5 +59,5 @@ Rocs taken as animal companions by druids or rangers are typically newly hatched
 
 **Starting Statistics** : **Size** Medium; **AC** +5 natural armor; **Speed** 20 ft., fly 80 ft.; **Attack** 2 talons (1d4), bite (1d6); **Ability Scores** Str 12, Dex 19, Con 9, Int 2, Wis 13, Cha 11; **Special Qualities** low-light vision.
 
-**7th-Level Advancement** : **Size** Large; **AC** +3 natural armor; **Attack** 2 talons (1d6 plus grab), bite (1d8; **Ability Scores** Str +8, Dex –2, Con +4.
+**7th-Level Advancement** : **Size** Large; **AC** +3 natural armor; **Attack** 2 talons (1d6 plus grab), bite (1d8); **Ability Scores** Str +8, Dex –2, Con +4.
 

@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/wordsOfPower/effectword_dir/healingWords
+title: ultimateMagi_dir/wordsOfPower/effectword_dir/healingWords
 ---
 ## Healing Words
 
@@ -73,5 +73,5 @@ Elder Cure (Healing)
 
 The target of a wordspell with this effect word is cured of 4d6 points of damage + 1 point per caster level (maximum +20). Undead are damaged by this effect word, but can attempt a Will save for half damage and spell resistance as normal.
 
-**Boost** : The target is cured of 4d8 points of damage + 1 point per caster level (maximum +20.
+**Boost** : The target is cured of 4d8 points of damage + 1 point per caster level (maximum +20).
 

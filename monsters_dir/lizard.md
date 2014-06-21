@@ -11,7 +11,7 @@ _This immense lizard moves with a slow but relentless gait. Its feet end in larg
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
@@ -31,11 +31,11 @@ N Medium [animal](creatureTypes#_animal)
 
 **Str** 17, **Dex** 15, **Con** 17, **Int** 2, **Wis** 12, **Cha** 6
 
-**Base Atk** +2; **CMB** +5 (+9 grapple); **CMD** 17 (21 vs. trip
+**Base Atk** +2; **CMB** +5 (+9 grapple); **CMD** 17 (21 vs. trip)
 
-**Feats** [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Climb](../skill_dir/climb#_climb +7, [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth) +10 (+14 in undergrowth, [Swim](../skill_dir/swim#_swim +11; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) (+8 in undergrowth)
+**Skills** [Climb](../skill_dir/climb#_climb) +7, [Perception](../skill_dir/perception#_perception) +8, [Stealth](../skill_dir/stealth#_stealth) +10 (+14 in undergrowth), [Swim](../skill_dir/swim#_swim) +11; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) (+8 in undergrowth)
 
 **Ecology**
 
@@ -47,7 +47,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Special Abilities**
 
-**Poison (Ex** Bite—injury; _save_ Fort DC 14; _onset_ 1 minute; _frequency_ 1/hour for 6 hours; _effect_ 1d2 Dexterity [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save. The save DC is Constitution-based.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 14; _onset_ 1 minute; _frequency_ 1/hour for 6 hours; _effect_ 1d2 Dexterity [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save. The save DC is Constitution-based.
 
 Monitor lizards are large enough to pose a threat to humans, and in some societies are often mistaken for dragons. Some can reach lengths of 10 feet or more and weights of 350 pounds.
 
@@ -91,11 +91,11 @@ N Large [animal](creatureTypes#_animal)
 
 **Str** 21, **Dex** 13, **Con** 19, **Int** 2, **Wis** 14, **Cha** 10
 
-**Base Atk** +5; **CMB** +11; **CMD** 22 (26 vs. trip
+**Base Atk** +5; **CMB** +11; **CMD** 22 (26 vs. trip)
 
-**Feats** [Great Fortitude](../feats#_great-fortitude), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Great Fortitude](../feats#_great-fortitude), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Climb](../skill_dir/climb#_climb +13, [Perception](../skill_dir/perception#_perception +11, [Stealth](../skill_dir/stealth#_stealth +8; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Climb](../skill_dir/climb#_climb) +13, [Perception](../skill_dir/perception#_perception) +11, [Stealth](../skill_dir/stealth#_stealth) +8; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -109,5 +109,5 @@ N Large [animal](creatureTypes#_animal)
 
 **Intimidating Charge (Ex)** When a giant frilled lizard charges, it hisses ferociously, extends its neck frills, and darts forward on its hind legs, increasing its base speed to 50 feet for that round. In addition to the normal effects of a charge, the creature charged must make a DC 13 Will save or be shaken for 1d6 rounds. This is a fear effect. The save DC is Charisma-based.
 
-This lizard is a true behemoth—an apex predator found in tropical regions. Many species of giant lizard exist—other species lack this lizard's intimidating charge special ability but might have other special attacks like grab, trip, constrict (with a bite, or pounce.
+This lizard is a true behemoth—an apex predator found in tropical regions. Many species of giant lizard exist—other species lack this lizard's intimidating charge special ability but might have other special attacks like grab, trip, constrict (with a bite), or pounce.
 

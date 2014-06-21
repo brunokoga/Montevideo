@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/downtime/buildingsAndOrganizations
+title: ultimateCampaig_dir/downtime/buildingsAndOrganizations
 ---
 # Buildings and Organizations
 
@@ -595,7 +595,7 @@ A band of criminals and thugs who commit illegal acts.
 
 Vagabonds
 
-**Create** 10 Goods, 13 Influence, 13 Labor, 7 Magic (1,550 gp
+**Create** 10 Goods, 13 Influence, 13 Labor, 7 Magic (1,550 gp)
 
 **Teams** 1 Acolyte, 1 Apprentice, 1 Cutpurses, 2 Drivers, 1 Guards, 1 Laborers, 1 Scofflaws
 

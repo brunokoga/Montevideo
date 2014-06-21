@@ -1,5 +1,5 @@
 ---
-title: spells/heroesFeast
+title: spell_dir/heroesFeast
 ---
  **Heroes' Feast**
 
@@ -11,7 +11,7 @@ title: spells/heroesFeast
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Effect** feast for one creature/level
+**Effect** feast for one creatur_dir/level
 
 **Duration** 1 hour plus 12 hours; see text
 

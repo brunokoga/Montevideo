@@ -1,11 +1,11 @@
 ---
-title: prestigeClasses/eldritchKnight
+title: prestigeClasse_dir/eldritchKnight
 ---
 # Eldritch Knight
 
 Fearsome warriors and spellcasters, eldritch knights are rare among magic-users in their ability to wade into battle alongside fighters, barbarians, and other martial classes. Those who must face eldritch knights in combat fear them greatly, for their versatility on the battlefield is tremendous; against heavily armed and armored opponents they may level crippling spells, while opposing spellcasters meet their ends on an eldritch knight's blade.
 
-Because the road to becoming an eldritch knight requires both martial prowess and arcane power, eldritch knights almost always begin their paths as multiclassed characters, such as fighter/wizards or ranger/sorcerers. They may be found wherever studies of the arcane are as prevalent as martial training.
+Because the road to becoming an eldritch knight requires both martial prowess and arcane power, eldritch knights almost always begin their paths as multiclassed characters, such as fighter/wizards or range_dir/sorcerers. They may be found wherever studies of the arcane are as prevalent as martial training.
 
 **Role** : Eldritch knights blend the abilities of fighting classes and spellcasters, hurling magic at the enemy one moment and hewing down their opponents with steel the next. They are just as comfortable fighting in the thick of combat as they are casting spells at foes while remaining safely behind their compatriots. Their versatility makes them valuable allies when the nature of an upcoming battle is unclear.
 
@@ -23,7 +23,7 @@ To qualify to become an eldritch knight, a character must fulfill all the follow
 
 ## Class Skills
 
-The eldritch knight's class skills (and the key ability for each skill) are [Climb](../skill_dir/climb#_climb ( [Str](../gettingStarted#_strength)), [Knowledge](../skill_dir/knowledge#_knowledge) (arcana ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skill_dir/knowledge#_knowledge) (nobility ( [Int](../gettingStarted#_intelligence)), [Linguistics](../skill_dir/linguistics#_linguistics ( [Int](../gettingStarted#_intelligence)), [Ride](../skill_dir/ride#_ride ( [Dex](../gettingStarted#_dexterity)), [Sense Motive](../skill_dir/senseMotive#_sense-motive ( [Wis](../gettingStarted#_wisdom)), [Spellcraft](../skill_dir/spellcraft#_spellcraft ( [Int](../gettingStarted#_intelligence)), and [Swim](../skill_dir/swim#_swim ( [Str](../gettingStarted#_strength)).
+The eldritch knight's class skills (and the key ability for each skill) are [Climb](../skill_dir/climb#_climb) ( [Str](../gettingStarted#_strength)), [Knowledge](../skill_dir/knowledge#_knowledge) (arcana) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skill_dir/knowledge#_knowledge) (nobility) ( [Int](../gettingStarted#_intelligence)), [Linguistics](../skill_dir/linguistics#_linguistics) ( [Int](../gettingStarted#_intelligence)), [Ride](../skill_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Sense Motive](../skill_dir/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)), [Spellcraft](../skill_dir/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)), and [Swim](../skill_dir/swim#_swim) ( [Str](../gettingStarted#_strength)).
 
 **Skill Ranks at Each Level** : 2 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -53,5 +53,5 @@ All of the following are features of the eldritch knight prestige class.
 
 **Spells per Day** : At the indicated levels, an eldritch knight gains new spells per day as if he had also gained a level in an arcane spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained, except for additional spells per day, spells known (if he is a spontaneous spellcaster), and an increased effective level of spellcasting. If a character had more than one arcane spellcasting class before becoming an eldritch knight, he must decide to which class he adds the new level for purposes of determining spells per day.
 
-**Spell Critical (Su** : At 10th level, whenever an eldritch knight successfully confirms a [critical hit](../combat#_critical-hits), he can cast a spell as a swift action. The spell must include the target of the attack as one of its targets or in its area of effect. Casting this spell does not provoke an attack of opportunity. The caster must still meet all of the spell's components and must roll for arcane spell failure if necessary.
+**Spell Critical (Su)** : At 10th level, whenever an eldritch knight successfully confirms a [critical hit](../combat#_critical-hits), he can cast a spell as a swift action. The spell must include the target of the attack as one of its targets or in its area of effect. Casting this spell does not provoke an attack of opportunity. The caster must still meet all of the spell's components and must roll for arcane spell failure if necessary.
 

@@ -13,7 +13,7 @@ title: spell_dir/spellstaff
 
 **Target** wooden quarterstaff touched
 
-**Duration** permanent until discharged (D
+**Duration** permanent until discharged (D)
 
 **Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
 

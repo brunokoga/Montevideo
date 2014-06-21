@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spell_dir/debilitatingPortent
+title: ultimateComba_dir/spells/debilitatingPortent
 ---
 Debilitating Portent
 
-**School** enchantment (compulsion [mind-affecting]; **Level** cleric 4, witch 4
+**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 4, witch 4
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ Debilitating Portent
 
 **Target** one creature
 
-**Duration** 1 roun_dir/level (D see text
+**Duration** 1 roun_dir/level (D) see text
 
 **Saving Throw** none; **Spell Resistance** yes
 

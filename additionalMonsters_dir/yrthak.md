@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/yrthak
+title: additionalMonster_dir/yrthak
 ---
 # Yrthak
 
@@ -9,19 +9,19 @@ This flying reptile has large, leathery wings and a vibrantly colored crest on i
 
 **XP 6,400**
 
-N Huge [magical beast](monster_dir/creatureTypes#_magical-beast
+N Huge [magical beast](monsters/creatureTypes#_magical-beast)
 
-**Init** +6; **Senses** [blindsight](monster_dir/universalMonsterRules#_blindsight 120 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +18
+**Init** +6; **Senses** [blindsight](monster_dir/universalMonsterRules#_blindsight) 120 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +18
 
 Defense
 
 **AC** 23, touch 11, flat-footed 20 (+2 Dex, +1 dodge, +12 natural, –2 size)
 
-**hp** 114 (12d10+48
+**hp** 114 (12d10+48)
 
 **Fort** +12, **Ref** +12, **Will** +8
 
-**Immune** [gaze](monster_dir/universalMonsterRules#_gaze) attacks, visual effects and illusions, sight-based attacks, sonic
+**Immune** [gaze](monsters/universalMonsterRules#_gaze) attacks, visual effects and illusions, sight-based attacks, sonic
 
 **Weaknesses** blind
 
@@ -41,13 +41,13 @@ Statistics
 
 **Str** 24, **Dex** 14, **Con** 18, **Int** 7, **Wis** 15, **Cha** 11
 
-**Base Atk** +12; **CMB** +21; **CMD** 34 (38 vs. trip
+**Base Atk** +12; **CMB** +21; **CMD** 34 (38 vs. trip)
 
-**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Flyby Attack](additionalMonsters/../monster_dir/monsterFeats#_flyby-attack, Improved   
-Initiative, [Iron Will](additionalMonsters/../feats#_iron-will), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes),   
- [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skill_dir/perception#_perception)
+**Feats** [Dodge](additionalMonster_dir/../feats#_dodge), [Flyby Attack](additionalMonster_dir/../monster_dir/monsterFeats#_flyby-attack), Improved   
+Initiative, [Iron Will](additionalMonsters/../feats#_iron-will), [Lightning Reflexes](additionalMonster_dir/../feats#_lightning-reflexes),   
+ [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception))
 
-**Skills** [Fly](additionalMonsters/../skill_dir/fly#_fly +7, [Perception](additionalMonsters/../skill_dir/perception#_perception +18; **Racial Modifiers** +4 [Perception](additionalMonsters/../skill_dir/perception#_perception)
+**Skills** [Fly](additionalMonsters/../skill_dir/fly#_fly) +7, [Perception](additionalMonsters/../skill_dir/perception#_perception) +18; **Racial Modifiers** +4 [Perception](additionalMonsters/../skill_dir/perception#_perception)
 
 **Languages** Draconic
 
@@ -61,11 +61,11 @@ Ecology
 
 Special Abilities
 
-**Blind (Ex** A yrthak sees and senses exclusively through its [blindsight](monster_dir/universalMonsterRules#_blindsight) ability, which is based on sound and movement—beyond 120 feet, it is considered blind. A deaf yrthak is effectively blinded as well except against adjacent foes—its weak eyesight functions enough for it to attack targets this close, although in such cases these creatures still gain the benefit of concealment (20% miss chance because of the creature's poor vision. It is invulnerable to all sight-based effects and attacks, including [gaze](monster_dir/universalMonsterRules#_gaze) attacks.
+**Blind (Ex)** A yrthak sees and senses exclusively through its [blindsight](monsters/universalMonsterRules#_blindsight) ability, which is based on sound and movement—beyond 120 feet, it is considered blind. A deaf yrthak is effectively blinded as well except against adjacent foes—its weak eyesight functions enough for it to attack targets this close, although in such cases these creatures still gain the benefit of concealment (20% miss chance) because of the creature's poor vision. It is invulnerable to all sight-based effects and attacks, including [gaze](monster_dir/universalMonsterRules#_gaze) attacks.
 
-**Explosion (Ex** As a standard action, a yrthak can [fire](monster_dir/creatureTypes#_fire-subtype) its sonic lance at the ground, a large rock, a stone wall, or a similar nonmagical object within 60 feet to create an explosion. This attack deals 2d6 points of piercing damage to all within 10 feet of the effect's center.
+**Explosion (Ex)** As a standard action, a yrthak can [fire](monsters/creatureTypes#_fire-subtype) its sonic lance at the ground, a large rock, a stone wall, or a similar nonmagical object within 60 feet to create an explosion. This attack deals 2d6 points of piercing damage to all within 10 feet of the effect's center.
 
-**Sonic Lance (Ex** Once per round, a yrthak can focus sonic energy in a 60-foot ray that deals 8d6 sonic damage to one target.
+**Sonic Lance (Ex)** Once per round, a yrthak can focus sonic energy in a 60-foot ray that deals 8d6 sonic damage to one target.
 
 Swift, cunning, and perpetually ravenous, the yrthak terrorizes the barren wastelands in which it makes its home, swooping down from on high to blast prey with bursts of pure sound. Though technically blind, as its eyes are tiny and barely capable of vision beyond a few feet, the yrthak senses its surroundings via acute hearing and echolocation. While its powerful jaws and claws are equally capable of taking down opponents, the yrthak generally prefers to wheel through the sky on its membranous wings, firing bolt after bolt of sound into its prey, and exulting in the thrill of the hunt. An adult yrthak is 20 feet long and weighs 1,500 pounds.
 

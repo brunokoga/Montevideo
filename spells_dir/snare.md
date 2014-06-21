@@ -1,5 +1,5 @@
 ---
-title: spells/snare
+title: spell_dir/snare
 ---
  **Snare**
 

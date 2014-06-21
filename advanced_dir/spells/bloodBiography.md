@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/bloodBiography
+title: advance_dir/spells/bloodBiography
 ---
  **Blood Biography**
 
-**School** divination; **Level** bard 2, cleric 3, inquisitor 3, sorcerer/wizard 3
+**School** divination; **Level** bard 2, cleric 3, inquisitor 3, sorcere_dir/wizard 3
 
 **Casting Time** 1 minute
 
@@ -21,7 +21,7 @@ You learn the answers to a specific set of questions about a creature so long as
 
 - Who are you? (The name by which the creature is most commonly known) 
 - What are you? (Gender, race, professio_dir/role)
-- How was your blood shed? (Brief outline of the events that caused its wound, to the best of the victim's knowledge
+- How was your blood shed? (Brief outline of the events that caused its wound, to the best of the victim's knowledge)
 - When was your blood shed? 
 
 These answers always appear in a language you can read even if the creature cannot speak that or any language.

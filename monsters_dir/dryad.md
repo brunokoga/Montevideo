@@ -9,7 +9,7 @@ _This strange, beautiful woman has flesh that seems made of wood and vibrant hai
 
 **XP 800**
 
-CG Medium [fey](creatureTypes#_fey
+CG Medium [fey](creatureTypes#_fey)
 
 **Init** +4; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +11
 
@@ -17,7 +17,7 @@ CG Medium [fey](creatureTypes#_fey
 
 **AC** 17, touch 14, flat-footed 13 (+4 Dex, +3 natural)
 
-**hp** 27 (6d6+6
+**hp** 27 (6d6+6)
 
 **Fort** +5, **Ref** +9, **Will** +7
 
@@ -35,13 +35,13 @@ CG Medium [fey](creatureTypes#_fey
 
 **Spell-Like Abilities** (CL 6th)
 
-Constant—_ [speak with plants](../spell_dir/speakWithPlants#_speak-with-plants_
+Constant—_ [speak with plants](../spell_dir/speakWithPlants#_speak-with-plants)_
 
-At will—_ [entangle](../spell_dir/entangle#_entangle)_ (DC 15, _ [tree shape](../spell_dir/treeShape#_tree-shape_, _ [wood shape](../spell_dir/woodShape#_wood-shape)_ (1 lb. only
+At will—_ [entangle](../spell_dir/entangle#_entangle)_ (DC 15), _ [tree shape](../spell_dir/treeShape#_tree-shape)_, _ [wood shape](../spell_dir/woodShape#_wood-shape)_ (1 lb. only)
 
-3/day—_ [charm person](../spell_dir/charmPerson#_charm-person)_ (DC 15, _ [deep slumber](../spell_dir/deepSlumber#_deep-slumber)_ (DC 17, _ [tree stride](../spell_dir/treeStride#_tree-stride_
+3/day—_ [charm person](../spell_dir/charmPerson#_charm-person)_ (DC 15), _ [deep slumber](../spell_dir/deepSlumber#_deep-slumber)_ (DC 17), _ [tree stride](../spell_dir/treeStride#_tree-stride)_
 
-1/day—_ [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 17
+1/day—_ [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 17)
 
 **Statistics**
 
@@ -51,7 +51,7 @@ At will—_ [entangle](../spell_dir/entangle#_entangle)_ (DC 15, _ [tree shape](
 
 **Feats** [Great Fortitude](../feats#_great-fortitude), [Stealthy](../feats#_stealthy), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Climb](../skill_dir/climb#_climb +9, [Craft](../skill_dir/craft#_craft) (sculpture +11, [Escape Artist](../skill_dir/escapeArtist#_escape-artist +15, [Handle Animal](../skill_dir/handleAnimal#_handle-animal +10, [Knowledge](../skill_dir/knowledge#_knowledge) (nature +11, [Perception](../skill_dir/perception#_perception +11, [Stealth](../skill_dir/stealth#_stealth +15, [Survival](../skill_dir/survival#_survival +8; **Racial Modifiers** +6 [Craft](../skill_dir/craft#_craft) (wood
+**Skills** [Climb](../skill_dir/climb#_climb) +9, [Craft](../skill_dir/craft#_craft) (sculpture) +11, [Escape Artist](../skill_dir/escapeArtist#_escape-artist) +15, [Handle Animal](../skill_dir/handleAnimal#_handle-animal) +10, [Knowledge](../skill_dir/knowledge#_knowledge) (nature) +11, [Perception](../skill_dir/perception#_perception) +11, [Stealth](../skill_dir/stealth#_stealth) +15, [Survival](../skill_dir/survival#_survival) +8; **Racial Modifiers** +6 [Craft](../skill_dir/craft#_craft) (wood)
 
 **Languages** Common, Elven, Sylvan; _ [speak with plants](../spell_dir/speakWithPlants#_speak-with-plants)_
 
@@ -67,13 +67,13 @@ At will—_ [entangle](../spell_dir/entangle#_entangle)_ (DC 15, _ [tree shape](
 
 **Special Abilities**
 
-**Tree Meld (Su** A dryad can meld with any tree, similar to how the spell _ [meld into stone](../spell_dir/meldIntoStone#_meld-into-stone)_ functions. She can remain melded with a tree as long as she wishes.
+**Tree Meld (Su)** A dryad can meld with any tree, similar to how the spell _ [meld into stone](../spell_dir/meldIntoStone#_meld-into-stone)_ functions. She can remain melded with a tree as long as she wishes.
 
 **Tree Dependent (Su)** A dryad is mystically bonded to a single, enormous tree and must never stray more than 300 yards from it. Most dryad trees are oak trees, but other trees function as well (often having subtle influences on a specific dryad's personality and appearance). A dryad who moves 300 yards beyond her bonded tree immediately becomes sickened. Every hour thereafter, she must make a DC 15 Fortitude save to resist becoming nauseated for an hour. A dryad that is out of range of her bonded tree for 24 hours takes 1d6 points of Constitution damage, and another 1d6 points of Constitution damage every day that follows—eventually, this separation kills the dryad. A dryad can forge a new bond with a new tree by performing a 24-hour ritual and making a successful DC 20 Will save.
 
 **Wild Empathy (Su)** This works like the druid's wild empathy class feature, except the dryad has a +6 racial bonus on the check. Dryads with druid levels add this racial modifier to their wild empathy checks.
 
-**Woodcraft (Ex** A dryad has a +6 racial bonus to [Craft](../skill_dir/craft#_craft checks involving wood, and is always treated as if she had masterwork artisan's woodworking tools when making such checks.
+**Woodcraft (Ex)** A dryad has a +6 racial bonus to [Craft](../skill_dir/craft#_craft) checks involving wood, and is always treated as if she had masterwork artisan's woodworking tools when making such checks.
 
 Dryads are tree-fey who prefer secluded woodlands far from humanoids in need of lumber. Dryads' main interests are their own survival and that of their beloved forests, and they have been known to magically coerce passersby into aiding them in tasks they cannot complete. They are more likely to be friendly to non-evil druids and rangers, as they recognize a mutual respect for or empathy with nature.
 

@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/fluidForm
+title: advance_dir/spells/fluidForm
 ---
  **Fluid Form**
 
@@ -7,7 +7,7 @@ title: advanced/spells/fluidForm
 
 **Casting Time** 1 standard action
 
-**Components** S, M (a mixture of oil and water
+**Components** S, M (a mixture of oil and water)
 
 **Range** personal
 

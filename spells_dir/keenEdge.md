@@ -1,5 +1,5 @@
 ---
-title: spells/keenEdge
+title: spell_dir/keenEdge
 ---
  **Keen Edge**
 

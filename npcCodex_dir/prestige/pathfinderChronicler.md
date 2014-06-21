@@ -1,5 +1,5 @@
 ---
-title: npcCodex/prestig_dir/pathfinderChronicler
+title: npcCode_dir/prestige/pathfinderChronicler
 ---
 # Pathfinder Chroniclers
 
@@ -19,7 +19,7 @@ Defense
 
 **AC** 18, touch 14, flat-footed 15 (+3 armor, +1 deflection, +2 Dex, +1 dodge, +1 natural)
 
-**hp** 61 (7d8+2d8+18
+**hp** 61 (7d8+2d8+18)
 
 **Fort** +6, **Ref** +9, **Will** +8; +4 vs. bardic performance, language-dependent, and sonic
 
@@ -31,21 +31,21 @@ Offense
 
 **Melee** mwk dagger +6/+1 (1d4–1/19–20)
 
-**Special Attacks** bardic performance 25 rounds/day (move action; countersong, distraction, fascinate, inspire competence +3, inspire courage +2, _ [suggestion](spell_dir/suggestion#_suggestion)_)
+**Special Attacks** bardic performance 25 round_dir/day (move action; countersong, distraction, fascinate, inspire competence +3, inspire courage +2, _ [suggestion](spells/suggestion#_suggestion)_)
 
-**Bard Spells Known** (CL 7th; concentration +10
+**Bard Spells Known** (CL 7th; concentration +10)
 
-3rd (2/day)—_ [glibness](spell_dir/glibness#_glibness_, _ [scrying](spell_dir/scrying#_scrying)_ (DC 16
+3rd (2/day)—_ [glibness](spell_dir/glibness#_glibness)_, _ [scrying](spells/scrying#_scrying)_ (DC 16)
 
-2nd (4/day)—_ [blur](spell_dir/blur#_blur_, _ [daze](spell_dir/daze#_daze)_ _monster _(DC 17, _ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (DC 15, _ [locate object](spell_dir/locateObject#_locate-object_
+2nd (4/day)—_ [blur](spell_dir/blur#_blur)_, _ [daze](spells/daze#_daze)_ _monster _(DC 17), _ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (DC 15), _ [locate object](spells/locateObject#_locate-object)_
 
-1st (5/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 16, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors_, _ [silent image](spell_dir/silentImage#_silent-image)_ (DC 14, _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_
+1st (5/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 16), _ [comprehend languages](spells/comprehendLanguages#_comprehend-languages)_, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors)_, _ [silent image](spells/silentImage#_silent-image)_ (DC 14), _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_
 
-0 (at will—_ [dancing lights](spell_dir/dancingLights#_dancing-lights_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [know direction](spell_dir/knowDirection#_know-direction_, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [message](spell_dir/message#_message, [open/close](spell_dir/openClose#_open-close_
+0 (at will)—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [detect magic](spell_dir/detectMagic#_detect-magic)_, _ [know direction](spells/knowDirection#_know-direction)_, _ [mage hand](spell_dir/mageHand#_mage-hand)_, _ [message](spells/message#_message), [ope_dir/close](spells/openClose#_open-close)_
 
 Tactics
 
-**During Combat** The Pathfinder chronicler casts _ [blur](spell_dir/blur#_blur,_ then casts _ [haste](spell_dir/haste#_haste_ from her scroll. Preferring to stay out of melee, she uses bardic performance to aid her allies, and casts _ [daze monster](spell_dir/dazeMonster#_daze-monster_ or _ [charm person](spell_dir/charmPerson#_charm-person_ on enemies who come close. If threatened, she withdraws, drinks her _potion of [invisibility](spell_dir/invisibility#_invisibility)_, and makes her escape.
+**During Combat** The Pathfinder chronicler casts _ [blur](spell_dir/blur#_blur),_ then casts _ [haste](spells/haste#_haste)_ from her scroll. Preferring to stay out of melee, she uses bardic performance to aid her allies, and casts _ [daze monster](spell_dir/dazeMonster#_daze-monster)_ or _ [charm person](spells/charmPerson#_charm-person)_ on enemies who come close. If threatened, she withdraws, drinks her _potion of [invisibility](spell_dir/invisibility#_invisibility)_, and makes her escape.
 
 Statistics
 
@@ -53,15 +53,15 @@ Statistics
 
 **Base Atk** +6; **CMB** +5; **CMD** 19
 
-**Feats** [Dodge](feats#_dodge), [Extra Performance](feats#_extra-performance), Greater [Spell Focus](feats#_spell-focus) (enchantment), [Improved Initiative](feats#_improved-initiative), Mobility, [Spell Focus](feats#_spell-focus) (enchantment
+**Feats** [Dodge](feats#_dodge), [Extra Performance](feats#_extra-performance), Greater [Spell Focus](feats#_spell-focus) (enchantment), [Improved Initiative](feats#_improved-initiative), Mobility, [Spell Focus](feats#_spell-focus) (enchantment)
 
-**Skills** [Knowledge](skill_dir/knowledge#_knowledge) (arcana, local, nobility, religion +17, [Knowledge](skill_dir/knowledge#_knowledge) (history +13, [Linguistics](skill_dir/linguistics#_linguistics +7, Perception +13, [Perform](skill_dir/perform#_perform) (keyboard instruments +7, [Perform](skill_dir/perform#_perform) (oratory +15, [Profession](skill_dir/profession#_profession) (scribe +9, [Spellcraft](skill_dir/spellcraft#_spellcraft) +12 (+14 to identify magic item properties, [Stealth](skill_dir/stealth#_stealth) +12
+**Skills** [Knowledge](skills/knowledge#_knowledge) (arcana, local, nobility, religion) +17, [Knowledge](skill_dir/knowledge#_knowledge) (history) +13, [Linguistics](skills/linguistics#_linguistics) +7, Perception +13, [Perform](skill_dir/perform#_perform) (keyboard instruments) +7, [Perform](skills/perform#_perform) (oratory) +15, [Profession](skill_dir/profession#_profession) (scribe) +9, [Spellcraft](skills/spellcraft#_spellcraft) +12 (+14 to identify magic item properties), [Stealth](skill_dir/stealth#_stealth) +12
 
 **Languages** Celestial, Common, Draconic, Dwarven
 
-**SQ** bardic knowledge +4, deep pockets (200 gp, elven magic, lore master 1/day, master scribe, pathfinding, versatile performance (keyboard, oratory)
+**SQ** bardic knowledge +4, deep pockets (200 gp), elven magic, lore master 1/day, master scribe, pathfinding, versatile performance (keyboard, oratory)
 
-**Combat Gear** _potion of [invisibility](spell_dir/invisibility#_invisibility_, _scroll of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds_, _scroll of [disguise self](spell_dir/disguiseSelf#_disguise-self_, _scroll of [haste](spell_dir/haste#_haste_, _scroll of [identify](spell_dir/identify#_identify_, _scroll of [see invisibility](spell_dir/seeInvisibility#_see-invisibility_, _scroll of [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals_, _scroll of [tiny hut](spell_dir/tinyHut#_tiny-hut_, _wand of [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_ (20 charges; **Other Gear** _+1 leather armor_, masterwork dagger, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +1_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +1_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +1_, silver mirror (worth 1,000 gp), 63 gp
+**Combat Gear** _potion of [invisibility](spell_dir/invisibility#_invisibility)_, _scroll of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_, _scroll of [disguise self](spell_dir/disguiseSelf#_disguise-self)_, _scroll of [haste](spells/haste#_haste)_, _scroll of [identify](spell_dir/identify#_identify)_, _scroll of [see invisibility](spells/seeInvisibility#_see-invisibility)_, _scroll of [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals)_, _scroll of [tiny hut](spells/tinyHut#_tiny-hut)_, _wand of [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_ (20 charges); **Other Gear** _+1 leather armor_, masterwork dagger, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, silver mirror (worth 1,000 gp), 63 gp
 
 Often lost in their own thoughts, sometimes these scholars forget others are around them. They're usually solitary, but have to go out exploring in search of information—or pay adventurers to retell their stories.
 
@@ -93,7 +93,7 @@ Defense
 
 **Fort** +11, **Ref** +7, **Will** +13; +2 vs. illusions
 
-**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants, live to tell the tale (2/day)
+**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants), live to tell the tale (2/day)
 
 Offense
 
@@ -101,37 +101,37 @@ Offense
 
 **Melee** _+1 heavy mace_ +9/+4 (1d6–1)
 
-**Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, aura of madness (DC 18, 9 round_dir/day, bardic performance 7 round_dir/day (countersong, distraction, epic tales, fascinate, inspire courage +1, channel negative energy 8/day (DC 17, 5d6)
+**Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, aura of madness (DC 18, 9 round_dir/day), bardic performance 7 rounds/day (countersong, distraction, epic tales, fascinate, inspire courage +1), channel negative energy 8/day (DC 17, 5d6)
 
 **Domain Spell-Like Abilities** (CL 9th; concentration +13)
 
-At will—lore keeper, remote viewing (9 round_dir/day
+At will—lore keeper, remote viewing (9 round_dir/day)
 
 7/day—vision of madness
 
 **Gnome Spell-Like Abilities** (CL 13th; concentration +16)
 
-1/day—_ [dancing lights](spell_dir/dancingLights#_dancing-lights_, _ [ghost sound](spell_dir/ghostSound#_ghost-sound_, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation_, _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals)_
+1/day—_ [dancing lights](spell_dir/dancingLights#_dancing-lights)_, _ [ghost sound](spells/ghostSound#_ghost-sound)_, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation)_, _ [speak with animals](spells/speakWithAnimals#_speak-with-animals)_
 
-**Cleric Spells Prepared** (CL 9th; concentration +13
+**Cleric Spells Prepared** (CL 9th; concentration +13)
 
-5th—_ [slay living](spell_dir/slayLiving#_slay-living)_ (DC 20, _ [true seeing](spell_dir/trueSeeing#_true-seeing_D
+5th—_ [slay living](spell_dir/slayLiving#_slay-living)_ (DC 20), _ [true seeing](spells/trueSeeing#_true-seeing)_D
 
-4th—_ [chaos hammer](spell_dir/chaosHammer#_chaos-hammer)_ (DC 18, _ [confusion](spell_dir/confusion#_confusion)_D (DC 18, _ [summon monster IV](spell_dir/summonMonster#_summon-monster-iv_, _ [tongues](spell_dir/tongues#_tongues_
+4th—_ [chaos hammer](spell_dir/chaosHammer#_chaos-hammer)_ (DC 18), _ [confusion](spells/confusion#_confusion)_D (DC 18), _ [summon monster IV](spell_dir/summonMonster#_summon-monster-iv)_, _ [tongues](spells/tongues#_tongues)_
 
-3rd—_ [blindness/deafness](spell_dir/blindnessDeafness#_blindness-deafness)_ (DC 18, _ [invisibility purge](spell_dir/invisibilityPurge#_invisibility-purge_, _ [prayer](spell_dir/prayer#_prayer_, _ [rage](spell_dir/rage#_rage_D, _ [searing light](spell_dir/searingLight#_searing-light_
+3rd—_ [blindnes_dir/deafness](spells/blindnessDeafness#_blindness-deafness)_ (DC 18), _ [invisibility purge](spell_dir/invisibilityPurge#_invisibility-purge)_, _ [prayer](spells/prayer#_prayer)_, _ [rage](spell_dir/rage#_rage)_D, _ [searing light](spells/searingLight#_searing-light)_
 
-2nd—_ [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds_, _ [hold person](spell_dir/holdPerson#_hold-person)_ (2, DC 16, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [spiritual weapon](spell_dir/spiritualWeapon#_spiritual-weapon_, _ [touch of idiocy](spell_dir/touchOfIdiocy#_touch-of-idiocy_D
+2nd—_ [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds)_, _ [hold person](spells/holdPerson#_hold-person)_ (2, DC 16), _ [resist energy](spell_dir/resistEnergy#_resist-energy)_, _ [spiritual weapon](spells/spiritualWeapon#_spiritual-weapon)_, _ [touch of idiocy](spell_dir/touchOfIdiocy#_touch-of-idiocy)_D
 
-1st—_ [cause fear](spell_dir/causeFear#_cause-fear)_ (DC 16, _ [doom](spell_dir/doom#_doom)_ (DC 16, _ [entropic shield](spell_dir/entropicShield#_entropic-shield_, _ [lesser confusion](spell_dir/confusion#_confusion-lesser)_D (DC 15, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist_, _ [shield of faith](spell_dir/shieldOfFaith#_shield-of-faith)_
+1st—_ [cause fear](spells/causeFear#_cause-fear)_ (DC 16), _ [doom](spell_dir/doom#_doom)_ (DC 16), _ [entropic shield](spells/entropicShield#_entropic-shield)_, _ [lesser confusion](spell_dir/confusion#_confusion-lesser)_D (DC 15), _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_, _ [shield of faith](spell_dir/shieldOfFaith#_shield-of-faith)_
 
-0 (at will—_ [bleed](spell_dir/bleed#_bleed)_ (DC 15, _ [detect poison](spell_dir/detectPoison#_detect-poison_, _ [light](spell_dir/light#_light_, _ [read magic](spell_dir/readMagic#_read-magic_
+0 (at will)—_ [bleed](spells/bleed#_bleed)_ (DC 15), _ [detect poison](spell_dir/detectPoison#_detect-poison)_, _ [light](spells/light#_light)_, _ [read magic](spell_dir/readMagic#_read-magic)_
 
-**D** Domain spell; **Domains** [Knowledge](skill_dir/knowledge#_knowledge, Madness
+**D** Domain spell; **Domains** [Knowledge](skills/knowledge#_knowledge), Madness
 
 Tactics
 
-**During Combat** The Pathfinder chronicler drinks his potion of _ [fly](spell_dir/fly_. While flying above his enemies, he activates his aura of madness, casts _ [chaos hammer](spell_dir/chaosHammer#_chaos-hammer,_ and swoops down to cast _ [slay living](spell_dir/slayLiving#_slay-living)_ on spellcasters.
+**During Combat** The Pathfinder chronicler drinks his potion of _ [fly](spell_dir/fly)_. While flying above his enemies, he activates his aura of madness, casts _ [chaos hammer](spells/chaosHammer#_chaos-hammer),_ and swoops down to cast _ [slay living](spell_dir/slayLiving#_slay-living)_ on spellcasters.
 
 Statistics
 
@@ -139,15 +139,15 @@ Statistics
 
 **Base Atk** +9; **CMB** +6; **CMD** 17
 
-**Feats** [Combat Casting](feats#_combat-casting), [Command Undead](feats#_command-undead), [Extra Channel](feats#_extra-channel), [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Spell Focus](feats#_spell-focus) (necromancy), [Toughness](feats#_toughness
+**Feats** [Combat Casting](feats#_combat-casting), [Command Undead](feats#_command-undead), [Extra Channel](feats#_extra-channel), [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Spell Focus](feats#_spell-focus) (necromancy), [Toughness](feats#_toughness)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +11, [Diplomacy](skill_dir/diplomacy#_diplomacy +11, [Heal](skill_dir/heal#_heal +12, [Intimidate](skill_dir/intimidate#_intimidate +11, [Knowledge](skill_dir/knowledge#_knowledge) (arcana, dungeoneering, history +12, [Knowledge](skill_dir/knowledge#_knowledge) (planes, religion +17, [Linguistics](skill_dir/linguistics#_linguistics +8, Perception +17, [Perform](skill_dir/perform#_perform) (oratory +11, [Profession](skill_dir/profession#_profession) (scribe) +14
+**Skills** [Bluff](skills/bluff#_bluff) +11, [Diplomacy](skill_dir/diplomacy#_diplomacy) +11, [Heal](skills/heal#_heal) +12, [Intimidate](skill_dir/intimidate#_intimidate) +11, [Knowledge](skills/knowledge#_knowledge) (arcana, dungeoneering, history) +12, [Knowledge](skill_dir/knowledge#_knowledge) (planes, religion) +17, [Linguistics](skills/linguistics#_linguistics) +8, Perception +17, [Perform](skill_dir/perform#_perform) (oratory) +11, [Profession](skills/profession#_profession) (scribe) +14
 
 **Languages** Abyssal, Aklo, Common, Draconic, Gnome, Sylvan
 
-**SQ** aura, bardic knowledge +2, deep pockets (400 gp, improved aid, master scribe, pathfinding
+**SQ** aura, bardic knowledge +2, deep pockets (400 gp), improved aid, master scribe, pathfinding
 
-**Combat Gear** _potion of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds_, _potion of [fly](spell_dir/fly_, _scroll of [flame strike](spell_dir/flameStrike#_flame-strike_, _scroll of [summon monster V](spell_dir/summonMonster#_summon-monster-v_, _scroll of [summon monster VI](spell_dir/summonMonster#_summon-monster-vi_; **Other Gear** _+2 studded leather_, _+1 heavy mace_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +2_, _ [brooch of shielding](magicItem_dir/wondrousItems#_brooch-of-shielding_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +1_, _ [headband of inspired wisdom](magicItem_dir/wondrousItems#_headband-of-inspired-wisdom) +2_, 363 gp
+**Combat Gear** _potion of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_, _potion of [fly](spells/fly)_, _scroll of [flame strike](spell_dir/flameStrike#_flame-strike)_, _scroll of [summon monster V](spells/summonMonster#_summon-monster-v)_, _scroll of [summon monster VI](spell_dir/summonMonster#_summon-monster-vi)_; **Other Gear** _+2 studded leather_, _+1 heavy mace_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +2_, _ [brooch of shielding](magicItem_dir/wondrousItems#_brooch-of-shielding)_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, _ [headband of inspired wisdom](magicItem_dir/wondrousItems#_headband-of-inspired-wisdom) +2_, 363 gp
 
 These Pathfinders know some paths are twisted and mad.
 
@@ -171,7 +171,7 @@ Defense
 
 **AC** 22, touch 15, flat-footed 20 (+5 armor, +3 deflection, +2 Dex, +2 natural)
 
-**hp** 86 (10d6+7d8+17
+**hp** 86 (10d6+7d8+17)
 
 **Fort** +10, **Ref** +13, **Will** +15; +2 vs. enchantments
 
@@ -187,29 +187,29 @@ Offense
 
 **Special Attacks** bardic performance 23 round_dir/day (countersong, distraction, epic tales, fascination, inspire action [move], inspire courage +2, inspire competence +2, whispering campaign)
 
-**Sorcerer Spells Known** (CL 10th; concentration +17
+**Sorcerer Spells Known** (CL 10th; concentration +17)
 
-5th (4/day)—_ [break enchantment](spell_dir/breakEnchantment#_break-enchantment, [persistent image](spell_dir/persistentImage#_persistent-image)_ (DC 24
+5th (4/day)—_ [break enchantment](spell_dir/breakEnchantment#_break-enchantment), [persistent image](spells/persistentImage#_persistent-image)_ (DC 24)
 
-4th (6/day)—_ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [hallucinatory terrain](spell_dir/hallucinatoryTerrain#_hallucinatory-terrain_, _ [phantasmal killer](spell_dir/phantasmalKiller#_phantasmal-killer)_ (DC 23
+4th (6/day)—_ [dimension door](spell_dir/dimensionDoor#_dimension-door)_, _ [hallucinatory terrain](spells/hallucinatoryTerrain#_hallucinatory-terrain)_, _ [phantasmal killer](spell_dir/phantasmalKiller#_phantasmal-killer)_ (DC 23)
 
-3rd (8/day)—_ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [heroism](spell_dir/heroism#_heroism_, _ [invisibility sphere](spell_dir/invisibilitySphere#_invisibility-sphere_, _ [major image](spell_dir/majorImage#_major-image)_ (DC 22
+3rd (8/day)—_ [dispel magic](spell_dir/dispelMagic#_dispel-magic)_, _ [heroism](spells/heroism#_heroism)_, _ [invisibility sphere](spell_dir/invisibilitySphere#_invisibility-sphere)_, _ [major image](spells/majorImage#_major-image)_ (DC 22)
 
-2nd (8/day)—_ [invisibility](spell_dir/invisibility#_invisibility_, _ [mirror image](spell_dir/mirrorImage#_mirror-image_, _ [protection from arrows](spell_dir/protectionFromArrows#_protection-from-arrows_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_, _ [web](spell_dir/web#_web)_ (DC 19
+2nd (8/day)—_ [invisibility](spell_dir/invisibility#_invisibility)_, _ [mirror image](spells/mirrorImage#_mirror-image)_, _ [protection from arrows](spell_dir/protectionFromArrows#_protection-from-arrows)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [web](spell_dir/web#_web)_ (DC 19)
 
-1st (8/day)—_ [animate rope](spell_dir/animateRope#_animate-rope_, _ [color spray](spell_dir/colorSpray#_color-spray)_ (DC 20, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_, _ [floating disk](spell_dir/floatingDisk#_floating-disk_, _ [identify](spell_dir/identify#_identify_, _ [shield](spell_dir/shield#_shield)_
+1st (8/day)—_ [animate rope](spell_dir/animateRope#_animate-rope)_, _ [color spray](spells/colorSpray#_color-spray)_ (DC 20), _ [disguise self](spell_dir/disguiseSelf#_disguise-self)_, _ [floating disk](spells/floatingDisk#_floating-disk)_, _ [identify](spell_dir/identify#_identify)_, _ [shield](spells/shield#_shield)_
 
-0 (at will—_ [dancing lights](spell_dir/dancingLights#_dancing-lights_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [flare](spell_dir/flare#_flare)_ (DC 17, _ [light](spell_dir/light#_light_, _ [ghost sound](spell_dir/ghostSound#_ghost-sound)_ (DC 19, _ [mage hand](spell_dir/mageHand#_mage-hand,_ _ [message](spell_dir/message#_message_, _ [open/close](spell_dir/openClose#_open-close_, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation_
+0 (at will)—_ [dancing lights](spell_dir/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [flare](spell_dir/flare#_flare)_ (DC 17), _ [light](spells/light#_light)_, _ [ghost sound](spell_dir/ghostSound#_ghost-sound)_ (DC 19), _ [mage hand](spells/mageHand#_mage-hand),_ _ [message](spell_dir/message#_message)_, _ [open/close](spell_dir/openClose#_open-close)_, _ [prestidigitation](spells/prestidigitation#_prestidigitation)_
 
 **Bloodline** arcane
 
 Tactics
 
-**Before Combat** The Pathfinder chronicler casts _ [heroism](spell_dir/heroism#_heroism_ and _ [protection from arrows](spell_dir/protectionFromArrows#_protection-from-arrows_.
+**Before Combat** The Pathfinder chronicler casts _ [heroism](spell_dir/heroism#_heroism)_ and _ [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_.
 
-**During Combat** The chronicler casts _ [shield](spell_dir/shield#_shield_ on herself, then supports allies with bardic performance and illusions.
+**During Combat** The chronicler casts _ [shield](spell_dir/shield#_shield)_ on herself, then supports allies with bardic performance and illusions.
 
-**Base Statistics** Without _ [heroism](spell_dir/heroism#_heroism_ and _ [protection from arrows](spell_dir/protectionFromArrows#_protection-from-arrows_, the Pathfinder chronicler's statistics are **Fort** +8, **Ref** +11, **Will** +13; **DR** none; **Melee** quarterstaff +9/+4 (1d6–1); **Ranged** dagger +12/+7 (1d4–1/19–20); **Skills** –2 on all skills.
+**Base Statistics** Without _ [heroism](spells/heroism#_heroism)_ and _ [protection from arrows](spell_dir/protectionFromArrows#_protection-from-arrows)_, the Pathfinder chronicler's statistics are **Fort** +8, **Ref** +11, **Will** +13; **DR** none; **Melee** quarterstaff +9/+4 (1d6–1); **Ranged** dagger +12/+7 (1d4–1/19–20); **Skills** –2 on all skills.
 
 Statistics
 
@@ -219,13 +219,13 @@ Statistics
 
 **Feats** [Arcane Armor Training](feats#_arcane-armor-training), [Combat Casting](feats#_combat-casting), [Enlarge Spell](feats#_enlarge-spell), [Eschew Materials](feats#_eschew-materials), [Extend Spell](feats#_extend-spell), [Extra Performance](feats#_extra-performance), Greater [Spell Focus](feats#_spell-focus) (illusion), [Silent Spell](feats#_silent-spell), [Skill Focus](feats#_skill-focus) (Perception), [Spell Focus](feats#_spell-focus) (illusion), [Widen Spell](feats#_widen-spell)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +9 (+13 when jumping, [Bluff](skill_dir/bluff#_bluff +17, [Diplomacy](skill_dir/diplomacy#_diplomacy +17, [Knowledge](skill_dir/knowledge#_knowledge) (arcana, dungeoneering, geography, history, local, nature, nobility, planes, religion +15, [Linguistics](skill_dir/linguistics#_linguistics +10, Perception +23, [Perform](skill_dir/perform#_perform) (oratory, string +17, [Profession](skill_dir/profession#_profession) (scribe +10, [Sense Motive](skill_dir/senseMotive#_sense-motive +7, [Spellcraft](skill_dir/spellcraft#_spellcraft +12, [Stealth](skill_dir/stealth#_stealth +14, [Survival](skill_dir/survival#_survival +10, [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device +22
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +9 (+13 when jumping), [Bluff](skills/bluff#_bluff) +17, [Diplomacy](skill_dir/diplomacy#_diplomacy) +17, [Knowledge](skills/knowledge#_knowledge) (arcana, dungeoneering, geography, history, local, nature, nobility, planes, religion) +15, [Linguistics](skill_dir/linguistics#_linguistics) +10, Perception +23, [Perform](skills/perform#_perform) (oratory, string) +17, [Profession](skill_dir/profession#_profession) (scribe) +10, [Sense Motive](skills/senseMotive#_sense-motive) +7, [Spellcraft](skill_dir/spellcraft#_spellcraft) +12, [Stealth](skills/stealth#_stealth) +14, [Survival](skill_dir/survival#_survival) +10, [Use Magic Device](skills/useMagicDevice#_use-magic-device) +22
 
 **Languages** Common, Draconic, Dwarven, Elf, Gnome, Halfling, Orc
 
-**SQ** arcane bond (_ [staff of charming](magicItem_dir/staves#_staff-of-charming)_), bardic knowledge +3, bloodline arcana (+1 DC for spells augmented by metamagic feats that increase spell level), call down the legends, deep pockets (700 gp, elf blood, improved aid, master scribe, metamagic adept (2/day), new arcana, pathfinding
+**SQ** arcane bond (_ [staff of charming](magicItem_dir/staves#_staff-of-charming)_), bardic knowledge +3, bloodline arcana (+1 DC for spells augmented by metamagic feats that increase spell level), call down the legends, deep pockets (700 gp), elf blood, improved aid, master scribe, metamagic adept (2/day), new arcana, pathfinding
 
-**Combat Gear** _potions of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_ (2_,_ _potion of [gaseous form](spell_dir/gaseousForm#_gaseous-form_, _ [staff of charming](magicItem_dir/staves#_staff-of-charming_; **Other Gear** _+3 leather armor_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +2_, _ [boots of striding and springing](magicItem_dir/wondrousItems#_boots-of-striding-and-springing_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +2_, _ [handy haversack](magicItem_dir/wondrousItems#_handy-haversack_, _ [headband of alluring charisma](magicItem_dir/wondrousItems#_headband-of-alluring-charisma +4_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +3_, 1,290 gp
+**Combat Gear** _potions of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_ (2)_,_ _potion of [gaseous form](spells/gaseousForm#_gaseous-form)_, _ [staff of charming](magicItem_dir/staves#_staff-of-charming)_; **Other Gear** _+3 leather armor_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +2_, _ [boots of striding and springing](magicItem_dir/wondrousItems#_boots-of-striding-and-springing)_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, _ [handy haversack](magicItem_dir/wondrousItems#_handy-haversack)_, _ [headband of alluring charisma](magicItems/wondrousItems#_headband-of-alluring-charisma) +4_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +3_, 1,290 gp
 
 These chroniclers travel with intrepid adventurers to record tales of their exploits.
 
@@ -255,7 +255,7 @@ Defense
 
 **AC** 23, touch 13, flat-footed 21 (+7 armor, +3 deflection, +1 Dex, +1 dodge, +3 natural, –2 rage)
 
-**hp** 261 (6d12+4d8+10d8+146
+**hp** 261 (6d12+4d8+10d8+146)
 
 **Fort** +20, **Ref** +17, **Will** +17; +4 vs. bardic performance, language-dependent, and sonic
 
@@ -265,25 +265,25 @@ Offense
 
 **Speed** 50 ft.
 
-**Melee** _+1 [shock](magicItem_dir/weapons#_weapons-shock handaxe_ +24/+19/+14/+9 (1d6+7/19–20/×3plus 1d6 electricity)
+**Melee** _+1 [shock](magicItem_dir/weapons#_weapons-shock) handaxe_ +24/+19/+14/+9 (1d6+7/19–20/×3plus 1d6 electricity)
 
-**Ranged** _+1 [shock](magicItem_dir/weapons#_weapons-shock shortbow_ +18/+13/+8/+3 (1d6+1/×3 plus 1d6 electricity)
+**Ranged** _+1 [shock](magicItem_dir/weapons#_weapons-shock) shortbow_ +18/+13/+8/+3 (1d6+1/×3 plus 1d6 electricity)
 
-**Special Attacks** bardic performance 28 rounds/day (countersong, dirge of doom, distraction, epic tales, fascinate, greater epic tales, inspire action [standard], inspire competence +4, inspire courage +3, inspire greatness, soothing performance, _ [suggestion](spell_dir/suggestion#_suggestion)_, whispering campaign, rage (24 round_dir/day), rage powers (clear mind, moment of clarity, renewed vigor)
+**Special Attacks** bardic performance 28 round_dir/day (countersong, dirge of doom, distraction, epic tales, fascinate, greater epic tales, inspire action [standard], inspire competence +4, inspire courage +3, inspire greatness, soothing performance, _ [suggestion](spells/suggestion#_suggestion)_, whispering campaign), rage (24 round_dir/day), rage powers (clear mind, moment of clarity, renewed vigor)
 
-**Bard Spells Known** (CL 4th; concentration +6
+**Bard Spells Known** (CL 4th; concentration +6)
 
-2nd (2/day)—_ [mirror image](spell_dir/mirrorImage#_mirror-image_, _ [rage](spell_dir/rage#_rage_
+2nd (2/day)—_ [mirror image](spell_dir/mirrorImage#_mirror-image)_, _ [rage](spells/rage#_rage)_
 
-1st (4/day)—_ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [feather fall](spell_dir/featherFall#_feather-fall_, _ [remove fear](spell_dir/removeFear#_remove-fear_, _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_
+1st (4/day)—_ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat)_, _ [feather fall](spells/featherFall#_feather-fall)_, _ [remove fear](spell_dir/removeFear#_remove-fear)_, _ [unseen servant](spells/unseenServant#_unseen-servant)_
 
-0 (at will—_ [dancing lights](spell_dir/dancingLights#_dancing-lights_, _ [know direction](spell_dir/knowDirection#_know-direction_, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [mending](spell_dir/mending#_mending_, _ [message](spell_dir/message#_message_, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation_
+0 (at will)—_ [dancing lights](spell_dir/dancingLights#_dancing-lights)_, _ [know direction](spells/knowDirection#_know-direction)_, _ [mage hand](spell_dir/mageHand#_mage-hand)_, _ [mending](spells/mending#_mending)_, _ [message](spell_dir/message#_message)_, _ [prestidigitation](spells/prestidigitation#_prestidigitation)_
 
 Tactics
 
-**During Combat** The Pathfinder chronicler casts _ [mirror image](spell_dir/mirrorImage#_mirror-image_ on herself, uses bardic performance to aid her allies, and shoots arrows at her foes. When raging, she uses moment of clarity to cast spells when necessary.
+**During Combat** The Pathfinder chronicler casts _ [mirror image](spell_dir/mirrorImage#_mirror-image)_ on herself, uses bardic performance to aid her allies, and shoots arrows at her foes. When raging, she uses moment of clarity to cast spells when necessary.
 
-**Base Statistics** When not raging, the Pathfinder chronicler's statistics are **AC** 25, touch 15, flat-footed 23; **hp** 241; **Fort** +18, **Will** +15; **Melee** _+1 [shock](magicItem_dir/weapons#_weapons-shock handaxe_ +22/+17/+12/+7 (1d6+5/19–20/×3 plus 1d6 electricity); **Str** 18, **Con** 18; **CMB** +20; **Skills** [Climb](skill_dir/climb#_climb +17, [Swim](skill_dir/swim#_swim) +12.
+**Base Statistics** When not raging, the Pathfinder chronicler's statistics are **AC** 25, touch 15, flat-footed 23; **hp** 241; **Fort** +18, **Will** +15; **Melee** _+1 [shock](magicItems/weapons#_weapons-shock) handaxe_ +22/+17/+12/+7 (1d6+5/19–20/×3 plus 1d6 electricity); **Str** 18, **Con** 18; **CMB** +20; **Skills** [Climb](skill_dir/climb#_climb) +17, [Swim](skills/swim#_swim) +12.
 
 Statistics
 
@@ -291,15 +291,15 @@ Statistics
 
 **Base Atk** +16; **CMB** +22; **CMD** 35
 
-**Feats** Dazzling Display, [Dodge](feats#_dodge), [Extra Rage](feats#_extra-rage), [Fleet](feats#_fleet) (2), [Improved Critical](feats#_improved-critical) (handaxe), Improved [Vital Strike](feats#_vital-strike), [Power Attack](feats#_power-attack), [Toughness](feats#_toughness), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (handaxe
+**Feats** Dazzling Display, [Dodge](feats#_dodge), [Extra Rage](feats#_extra-rage), [Fleet](feats#_fleet) (2), [Improved Critical](feats#_improved-critical) (handaxe), Improved [Vital Strike](feats#_vital-strike), [Power Attack](feats#_power-attack), [Toughness](feats#_toughness), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (handaxe)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +1 (+5 when jumping, [Bluff](skill_dir/bluff#_bluff +10, [Climb](skill_dir/climb#_climb +19, [Handle Animal](skill_dir/handleAnimal#_handle-animal +15, [Heal](skill_dir/heal#_heal +4, [Intimidate](skill_dir/intimidate#_intimidate +15, [Knowledge](skill_dir/knowledge#_knowledge) (geography, local, nobility +16, [Knowledge](skill_dir/knowledge#_knowledge) (history +18, [Linguistics](skill_dir/linguistics#_linguistics +6, Perception +19, [Perform](skill_dir/perform#_perform) (oratory +15, [Profession](skill_dir/profession#_profession) (scribe +7, [Ride](skill_dir/ride#_ride +14, [Stealth](skill_dir/stealth#_stealth +21, [Survival](skill_dir/survival#_survival +7, [Swim](skill_dir/swim#_swim +14, [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device) +15
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +1 (+5 when jumping), [Bluff](skills/bluff#_bluff) +10, [Climb](skill_dir/climb#_climb) +19, [Handle Animal](skills/handleAnimal#_handle-animal) +15, [Heal](skill_dir/heal#_heal) +4, [Intimidate](skills/intimidate#_intimidate) +15, [Knowledge](skill_dir/knowledge#_knowledge) (geography, local, nobility) +16, [Knowledge](skills/knowledge#_knowledge) (history) +18, [Linguistics](skill_dir/linguistics#_linguistics) +6, Perception +19, [Perform](skills/perform#_perform) (oratory) +15, [Profession](skill_dir/profession#_profession) (scribe) +7, [Ride](skills/ride#_ride) +14, [Stealth](skill_dir/stealth#_stealth) +21, [Survival](skills/survival#_survival) +7, [Swim](skill_dir/swim#_swim) +14, [Use Magic Device](skills/useMagicDevice#_use-magic-device) +15
 
 **Languages** Common, Celestial, Draconic, Dwarven
 
-**SQ** bardic knowledge +7, call down the legends, deep pockets (1,000 gp), fast movement, improved aid, lay of the exalted dead, master scribe, pathfinding, versatile performance (oratory
+**SQ** bardic knowledge +7, call down the legends, deep pockets (1,000 gp), fast movement, improved aid, lay of the exalted dead, master scribe, pathfinding, versatile performance (oratory)
 
-**Combat Gear** _+1 [flaming](magicItem_dir/weapons#_weapons-flaming) arrows_ (5, _+1 [thundering](magicItem_dir/weapons#_thundering) arrows_ (5, _dragon [slaying arrow](magicItem_dir/weapons#_slaying-arrow_, _greater human [slaying arrow](magicItem_dir/weapons#_slaying-arrow)_, _javelins of lightning _(5; **Other Gear** _+5 leather armor_, _+1 [shock](magicItem_dir/weapons#_weapons-shock handaxe_, _+1 [shock](magicItem_dir/weapons#_weapons-shock shortbow_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +3_, _ [belt of mighty constitution](magicItem_dir/wondrousItems#_belt-of-mighty-constitution +4_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +5_, _figurines of wondrous power_ (ivory goats, _ [ring of protection](magicItem_dir/rings#_ring-of-protection +3_, 1,930 gp
+**Combat Gear** _+1 [flaming](magicItem_dir/weapons#_weapons-flaming) arrows_ (5), _+1 [thundering](magicItems/weapons#_thundering) arrows_ (5), _dragon [slaying arrow](magicItem_dir/weapons#_slaying-arrow)_, _greater human [slaying arrow](magicItems/weapons#_slaying-arrow)_, _javelins of lightning _(5); **Other Gear** _+5 leather armor_, _+1 [shock](magicItem_dir/weapons#_weapons-shock) handaxe_, _+1 [shock](magicItems/weapons#_weapons-shock) shortbow_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor) +3_, _ [belt of mighty constitution](magicItems/wondrousItems#_belt-of-mighty-constitution) +4_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +5_, _figurines of wondrous power_ (ivory goats), _ [ring of protection](magicItems/rings#_ring-of-protection) +3_, 1,930 gp
 
 Singing odes of battle and bravery, these chroniclers make sure the living never forget those traditions, and even try to encourage the living to surpass the great deeds of the heroes of past ages. They believe battle is the truest test of a person's mettle.
 

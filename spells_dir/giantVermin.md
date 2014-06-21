@@ -1,5 +1,5 @@
 ---
-title: spells/giantVermin
+title: spell_dir/giantVermin
 ---
  **Giant Vermin**
 

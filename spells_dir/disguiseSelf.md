@@ -3,7 +3,7 @@ title: spell_dir/disguiseSelf
 ---
  **Disguise Self**
 
-**School** illusion (glamer; **Level** bard 1, sorcerer/wizard 1
+**School** illusion (glamer); **Level** bard 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 

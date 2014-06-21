@@ -3,7 +3,7 @@ title: spell_dir/rage
 ---
  **Rage**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 2, sorcerer/wizard 3
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spell_dir/rage
 
 **Targets** one willing living creature per three levels, no two of which may be more than 30 ft. apart
 
-**Duration** concentration + 1 roun_dir/level (D
+**Duration** concentration + 1 roun_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

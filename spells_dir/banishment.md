@@ -1,13 +1,13 @@
 ---
-title: spells/banishment
+title: spell_dir/banishment
 ---
  **Banishment**
 
-**School** abjuration; **Level** cleric 6, sorcere_dir/wizard 7
+**School** abjuration; **Level** cleric 6, sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (see text
+**Components** V, S, F (see text)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

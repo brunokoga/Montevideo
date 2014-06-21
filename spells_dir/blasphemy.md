@@ -1,5 +1,5 @@
 ---
-title: spells/blasphemy
+title: spell_dir/blasphemy
 ---
  **Blasphemy**
 

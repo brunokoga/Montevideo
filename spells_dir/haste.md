@@ -1,17 +1,17 @@
 ---
-title: spells/haste
+title: spell_dir/haste
 ---
  **Haste**
 
-**School** transmutation; **Level** bard 3, sorcere_dir/wizard 3
+**School** transmutation; **Level** bard 3, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a shaving of licorice root
+**Components** V, S, M (a shaving of licorice root)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Targets** one creature/level, no two of which can be more than 30 ft. apart
+**Targets** one creatur_dir/level, no two of which can be more than 30 ft. apart
 
 **Duration** 1 round/level
 

@@ -1,5 +1,5 @@
 ---
-title: spells/eagleSSplendor
+title: spell_dir/eagleSSplendor
 ---
  **Eagle's Splendor**
 
@@ -21,11 +21,11 @@ The transmuted creature becomes more poised, articulate, and personally forceful
 
 **Eagle's Splendor, Mass**
 
-**School** transmutation; **Level** bard 6, cleric 6, sorcerer/wizard 6
+**School** transmutation; **Level** bard 6, cleric 6, sorcere_dir/wizard 6
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** One creature/level, no two of which can be more than 30 ft. apart
+**Target** One creatur_dir/level, no two of which can be more than 30 ft. apart
 
 This spell functions like _eagle's splendor_, except that it affects multiple creatures.
 

@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/brilliantInspiration
+title: advance_dir/spells/brilliantInspiration
 ---
  **Brilliant Inspiration**
 
@@ -15,7 +15,7 @@ title: advanced/spells/brilliantInspiration
 
 **Duration** 1 roun_dir/level and special (see below)
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 You open a link between your mind and the subject's mind, giving advice and encouragement for as long as the spell is in effect. Each time the subject of the spell makes an attack roll, ability check, or skill check, it rolls two d20s and takes the better result. If any roll is a natural 20, the spell's effect ends—your brilliant advice is spent.
 

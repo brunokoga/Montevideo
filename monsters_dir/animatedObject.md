@@ -9,7 +9,7 @@ _The skeleton locked within rattles as this animated cage lurches forward on cha
 
 **XP 800**
 
-N Medium [construct](creatureTypes#_construct
+N Medium [construct](creatureTypes#_construct)
 
 **Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) –5
 
@@ -61,11 +61,11 @@ _Grab (Ex, 1 CP)_: Gains [grab](universalMonsterRules#_grab) special attack with
 
 _Metal (Ex, 2 CP)_: The object is made of common metal. Its hardness increases to 10, and it gains a +2 increase to its natural armor bonus. Mithral objects cost 4 CP, and gain hardness 15 plus a +4 increase to natural armor. Adamantine objects cost 6 CP, gain hardness 20, and receive a +6 increase to natural armor.
 
-_Stone (Ex, 1 CP_: The object is made of stone or crystal. Its hardness increases to 8 and it gains a +1 increase to its natural armor bonus.
+_Stone (Ex, 1 CP)_: The object is made of stone or crystal. Its hardness increases to 8 and it gains a +1 increase to its natural armor bonus.
 
 _ [Trample](../feats#_trample) (Ex, 2 CP)_: The object gains the [trample](universalMonsterRules#_trample) special attack.
 
-An animated object is not simply one monster, but a whole category. The stats presented here are for a Medium animated object (with 2 CP that have not been spent to gain additional abilities), but any object can become animated, most commonly via the spell _ [animate objects](../spell_dir/animateObjects#_animate-objects)_. Permanent animated objects can be built using the [Craft Construct](monsterFeats#_craft-construct) feat. Unless an animated object uses a Construction Point to be made of another material, all animated objects are made of wood or material of equivalent hardness. Creating an animated object of a different size than Medium can be done simply by adjusting the object's size (and thus adjusting its Strength, Dexterity, natural armor bonus, and size modifier to attack and AC as detailed on page 296 and Hit Dice.
+An animated object is not simply one monster, but a whole category. The stats presented here are for a Medium animated object (with 2 CP that have not been spent to gain additional abilities), but any object can become animated, most commonly via the spell _ [animate objects](../spell_dir/animateObjects#_animate-objects)_. Permanent animated objects can be built using the [Craft Construct](monsterFeats#_craft-construct) feat. Unless an animated object uses a Construction Point to be made of another material, all animated objects are made of wood or material of equivalent hardness. Creating an animated object of a different size than Medium can be done simply by adjusting the object's size (and thus adjusting its Strength, Dexterity, natural armor bonus, and size modifier to attack and AC as detailed on page 296) and Hit Dice.
 
 | Size | Sample Object | HD | CP | CR |
 | --- | --- | --- | --- | --- |

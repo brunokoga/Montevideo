@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/dreadBolt
+title: ultimateMagi_dir/spells/dreadBolt
 ---
 Dread Bolt
 

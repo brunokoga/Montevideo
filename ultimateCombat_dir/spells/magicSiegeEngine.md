@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/magicSiegeEngine
+title: ultimateComba_dir/spells/magicSiegeEngine
 ---
 Magic Siege Engine
 
-**School** transmutation; **Level** antipaladin 2, cleric 2, inquisitor 2, paladin 2, sorcerer/wizard 2
+**School** transmutation; **Level** antipaladin 2, cleric 2, inquisitor 2, paladin 2, sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -13,11 +13,11 @@ Magic Siege Engine
 
 **Target** one siege engine touched
 
-**Duration** 1 minute_dir/level
+**Duration** 1 minutes/level
 
-**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object
+**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-This spell permits an indirect fire siege engine to bombard its targets with greater accuracy, delivering more damage. The siege weapon receives a +1 enhancement bonus on targeting rolls and damage rolls. If used on a direct fire siege weapon, this spell acts a _ [magic weapon](spell_dir/magicWeapon#_magic-weapon._
+This spell permits an indirect fire siege engine to bombard its targets with greater accuracy, delivering more damage. The siege weapon receives a +1 enhancement bonus on targeting rolls and damage rolls. If used on a direct fire siege weapon, this spell acts a _ [magic weapon](spell_dir/magicWeapon#_magic-weapon)._
 
 Magic Siege Engine, Greater
 
@@ -35,5 +35,5 @@ Magic Siege Engine, Greater
 
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-This spell functions like _magic siege weapon_, except it gives an indirect fire siege weapon an enhancement bonus on targeting and damage rolls of +1 per four caster levels (maximum +5. If used on a direct-fire siege weapon, this spell functions as _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater_.
+This spell functions like _magic siege weapon_, except it gives an indirect fire siege weapon an enhancement bonus on targeting and damage rolls of +1 per four caster levels (maximum +5). If used on a direct-fire siege weapon, this spell functions as _ [greater magic weapon](spells/magicWeapon#_magic-weapon-greater)_.
 

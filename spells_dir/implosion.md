@@ -1,5 +1,5 @@
 ---
-title: spells/implosion
+title: spell_dir/implosion
 ---
  **Implosion**
 
@@ -13,7 +13,7 @@ title: spells/implosion
 
 **Target** one corporeal creatur_dir/round
 
-**Duration** concentration (up to 1 round per 2 levels
+**Duration** concentration (up to 1 round per 2 levels)
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

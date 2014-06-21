@@ -9,7 +9,7 @@ _This creature's upper torso is that of a comely woman with cat's eyes and sharp
 
 **XP 2,400**
 
-CE Large [monstrous humanoid](creatureTypes#_monstrous-humanoid
+CE Large [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +15
 
@@ -17,7 +17,7 @@ CE Large [monstrous humanoid](creatureTypes#_monstrous-humanoid
 
 **AC** 20, touch 13, flat-footed 16 (+3 Dex, +1 dodge, +7 natural, –1 size)
 
-**hp** 67 (9d10+18
+**hp** 67 (9d10+18)
 
 **Fort** +7, **Ref** +9, **Will** +11
 
@@ -33,9 +33,9 @@ CE Large [monstrous humanoid](creatureTypes#_monstrous-humanoid
 
 **Spell-Like Abilities** (CL 9th)
 
-At will—_ [disguise self](../spell_dir/disguiseSelf#_disguise-self, [ventriloquism](../spell_dir/ventriloquism#_ventriloquism_
+At will—_ [disguise self](../spell_dir/disguiseSelf#_disguise-self), [ventriloquism](../spell_dir/ventriloquism#_ventriloquism)_
 
-3/day—_ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (DC 15,_ [major image](../spell_dir/majorImage#_major-image) _(DC 14,_ [mirror image](../spell_dir/mirrorImage#_mirror-image, [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 14
+3/day—_ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (DC 15),_ [major image](../spell_dir/majorImage#_major-image) _(DC 14),_ [mirror image](../spell_dir/mirrorImage#_mirror-image), [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 14)
 
 1/day—_ [deep slumber](../spell_dir/deepSlumber#_deep-slumber) _(DC 14)
 
@@ -43,11 +43,11 @@ At will—_ [disguise self](../spell_dir/disguiseSelf#_disguise-self, [ventriloq
 
 **Str** 18, **Dex** 16, **Con** 14, **Int** 13, **Wis** 17, **Cha** 13
 
-**Base Atk** +9; **CMB** +14; **CMD** 28 (32 vs. trip
+**Base Atk** +9; **CMB** +14; **CMD** 28 (32 vs. trip)
 
 **Feats** [Dodge](../feats#_dodge), [Great Fortitude](../feats#_great-fortitude), [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Spring Attack](../feats#_spring-attack)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +9, [Diplomacy](../skill_dir/diplomacy#_diplomacy +4, [Disguise](../skill_dir/disguise#_disguise +6, [Intimidate](../skill_dir/intimidate#_intimidate +10, [Knowledge](../skill_dir/knowledge#_knowledge) (religion +4, [Perception](../skill_dir/perception#_perception +15, [Stealth](../skill_dir/stealth#_stealth +15, [Survival](../skill_dir/survival#_survival +12; **Racial Modifiers** +4 [Bluff](../skill_dir/bluff#_bluff, +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +9, [Diplomacy](../skill_dir/diplomacy#_diplomacy) +4, [Disguise](../skill_dir/disguise#_disguise) +6, [Intimidate](../skill_dir/intimidate#_intimidate) +10, [Knowledge](../skill_dir/knowledge#_knowledge) (religion) +4, [Perception](../skill_dir/perception#_perception) +15, [Stealth](../skill_dir/stealth#_stealth) +15, [Survival](../skill_dir/survival#_survival) +12; **Racial Modifiers** +4 [Bluff](../skill_dir/bluff#_bluff), +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Languages** Abyssal, Common
 
@@ -65,7 +65,7 @@ At will—_ [disguise self](../spell_dir/disguiseSelf#_disguise-self, [ventriloq
 
 **Undersized Weapons (Ex)** Although a lamia is Large, its upper torso is the same size as that of a Medium humanoid. As a result, lamias wield weapons as if they were one size category smaller than their actual size (Medium for most lamias).
 
-**Wisdom Drain (Su)** A lamia [drain](universalMonsterRules#_ability-damage-and-drain)s 1d4 points of Wisdom each time it hits with its melee touch attack. (Unlike with other kinds of ability drain attacks, a lamia does not heal any damage when it uses its Wisdom [drain](universalMonsterRules#_ability-damage-and-drain). Lamias try to use this power early in an encounter to make foes more susceptible to _ [charm monster](../spell_dir/charmMonster#_charm-monster_ and _ [suggestion](../spell_dir/suggestion#_suggestion_.
+**Wisdom Drain (Su)** A lamia [drain](universalMonsterRules#_ability-damage-and-drain)s 1d4 points of Wisdom each time it hits with its melee touch attack. (Unlike with other kinds of ability drain attacks, a lamia does not heal any damage when it uses its Wisdom [drain](universalMonsterRules#_ability-damage-and-drain).) Lamias try to use this power early in an encounter to make foes more susceptible to _ [charm monster](../spell_dir/charmMonster#_charm-monster)_ and _ [suggestion](../spell_dir/suggestion#_suggestion)_.
 
 The hate-filled inheritors of an ancient curse, lamias appear as lean and attractive women from the waist up, while below they possess the bodies of powerful lions. Even their humanoid features bear distinctly feline traits, their eyes slitted and feral and their teeth like predatory fangs. A typical lamia stands over 6 feet tall, measures more than 8 feet long, and weighs upward of 650 pounds.
 

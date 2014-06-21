@@ -1,5 +1,5 @@
 ---
-title: spells/transmuteRockToMud
+title: spell_dir/transmuteRockToMud
 ---
  **Transmute Rock to Mud**
 
@@ -11,7 +11,7 @@ title: spells/transmuteRockToMud
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Area** up to two 10-ft. cube_dir/level (S
+**Area** up to two 10-ft. cube_dir/level (S)
 
 **Duration** permanent; see text
 

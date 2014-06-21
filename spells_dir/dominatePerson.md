@@ -3,7 +3,7 @@ title: spell_dir/dominatePerson
 ---
  **Dominate Person**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 4, sorcerer/wizard 5
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, sorcerer/wizard 5
 
 **Casting Time** 1 round
 
@@ -13,7 +13,7 @@ title: spell_dir/dominatePerson
 
 **Target** one humanoid
 
-**Duration** 1 day/level
+**Duration** 1 da_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

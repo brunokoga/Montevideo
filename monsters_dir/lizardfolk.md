@@ -9,7 +9,7 @@ _This reptilian humanoid has green scales, a short and toothy snout, and a thick
 
 **XP 400**
 
-N Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_reptilian-subtype)
+N Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_reptilian-subtype))
 
 **Init** +0; **Senses** [Perception](../skill_dir/perception#_perception) +1
 
@@ -35,9 +35,9 @@ N Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_reptil
 
 **Base**  **Atk** +1; **CMB** +2; **CMD** 12
 
-**Feats** [Multiattack](monsterFeats#_multiattack
+**Feats** [Multiattack](monsterFeats#_multiattack)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +2, [Perception](../skill_dir/perception#_perception +1, [Swim](../skill_dir/swim#_swim +8; **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +2, [Perception](../skill_dir/perception#_perception) +1, [Swim](../skill_dir/swim#_swim) +8; **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics)
 
 **Languages** Draconic
 
@@ -53,7 +53,7 @@ N Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_reptil
 
 **Special Abilities**
 
-**Hold Breath (Ex** A lizardfolk can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning.
+**Hold Breath (Ex)** A lizardfolk can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning.
 
 Lizardfolk are proud and powerful reptilian predators that make their communal homes in scattered villages deep within swamps and marshes. Uninterested in colonization of the dry lands and content with the simple weapons and rituals that have served them well for millennia, lizardfolk are viewed by many other races as backwater savages, but within their isolated communities lizardfolk are actually a vibrant people filled with tradition and an oral history stretching back to before humans walked upright.
 

@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/flashFire
+title: ultimateComba_dir/spells/flashFire
 ---
 Flash Fire
 
@@ -7,7 +7,7 @@ Flash Fire
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a pinch of powdered fool's gold
+**Components** V, S, M (a pinch of powdered fool's gold)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

@@ -27,7 +27,7 @@ This spell functions like _lesser planar ally_, except that you may call a singl
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M (offerings worth 500 gp plus payment, see text, DF
+**Components** V, S, M (offerings worth 500 gp plus payment, see text), DF
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

@@ -1,5 +1,5 @@
 ---
-title: spells/repelWood
+title: spell_dir/repelWood
 ---
  **Repel Wood**
 

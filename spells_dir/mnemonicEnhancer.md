@@ -7,7 +7,7 @@ title: spell_dir/mnemonicEnhancer
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M (a piece of string, and ink consisting of squid secretion mixed with black dragon's blood), F (an ivory plaque worth 50 gp
+**Components** V, S, M (a piece of string, and ink consisting of squid secretion mixed with black dragon's blood), F (an ivory plaque worth 50 gp)
 
 **Range** personal
 

@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/acceleratePoison
+title: advance_dir/spells/acceleratePoison
 ---
  **Accelerate Poison**
 
@@ -7,7 +7,7 @@ title: advanced/spells/acceleratePoison
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a thorn
+**Components** V, S, M (a thorn)
 
 **Range** touch
 

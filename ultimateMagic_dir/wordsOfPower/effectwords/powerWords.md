@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/wordsOfPower/effectword_dir/powerWords
+title: ultimateMagi_dir/wordsOfPower/effectword_dir/powerWords
 ---
 ## Power Words
 
@@ -7,7 +7,7 @@ Perhaps the most primal effect words, power words draw upon raw magic, using it 
 
 Blind (Power)
 
-**School** enchantment (compulsion [mind-affecting]; **Level** sorcere_dir/wizard 7
+**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 7
 
 **Duration** varies, see text
 
@@ -26,7 +26,7 @@ This effect word causes a living creature to become blinded, whether or not the 
 
 Stun (Power)
 
-**School** enchantment (compulsion [mind-affecting]; **Level** sorcere_dir/wizard 8
+**School** enchantment (compulsion) [mind-affecting]; **Level** sorcere_dir/wizard 8
 
 **Duration** varies, see text
 
@@ -45,7 +45,7 @@ This effect word causes a living creature to become stunned, whether or not the 
 
 Kill (Power)
 
-**School** enchantment (compulsion [death, mind-affecting]; **Level** sorcerer/wizard 9
+**School** enchantment (compulsion) [death, mind-affecting]; **Level** sorcerer/wizard 9
 
 **Duration** instantaneous
 

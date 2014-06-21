@@ -1,5 +1,5 @@
 ---
-title: spells/owlSWisdom
+title: spell_dir/owlSWisdom
 ---
  **Owl's Wisdom**
 
@@ -21,11 +21,11 @@ The transmuted creature becomes wiser. The spell grants a +4 enhancement bonus t
 
 **Owl's Wisdom, Mass**
 
-**School** transmutation; **Level** cleric 6, druid 6, sorcerer/wizard 6
+**School** transmutation; **Level** cleric 6, druid 6, sorcere_dir/wizard 6
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** one creature/level, no two of which can be more than 30 ft. apart
+**Target** one creatur_dir/level, no two of which can be more than 30 ft. apart
 
 This spell functions like _owl's wisdom_, except that it affects multiple creatures.
 

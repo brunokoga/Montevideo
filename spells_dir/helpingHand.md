@@ -1,5 +1,5 @@
 ---
-title: spells/helpingHand
+title: spell_dir/helpingHand
 ---
  **Helping Hand**
 

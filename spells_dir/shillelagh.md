@@ -1,5 +1,5 @@
 ---
-title: spells/shillelagh
+title: spell_dir/shillelagh
 ---
  **Shillelagh**
 

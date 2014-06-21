@@ -1,19 +1,19 @@
 ---
-title: spells/fear
+title: spell_dir/fear
 ---
  **Fear**
 
-**School** necromancy [fear, mind-affecting]; **Level** bard 3, sorcere_dir/wizard 4
+**School** necromancy [fear, mind-affecting]; **Level** bard 3, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (the heart of a hen or a white feather
+**Components** V, S, M (the heart of a hen or a white feather)
 
 **Range** 30 ft.
 
 **Area** cone-shaped burst
 
-**Duration** 1 round/level or 1 round; see text
+**Duration** 1 roun_dir/level or 1 round; see text
 
 **Saving Throw** [Will](../combat#_will) partial; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

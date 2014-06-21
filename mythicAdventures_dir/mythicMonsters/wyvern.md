@@ -1,5 +1,5 @@
 ---
-title: mythicAdventures/mythicMonsters/wyvern
+title: mythicAdventure_dir/mythicMonsters/wyvern
 ---
 # Wyvern
 
@@ -9,25 +9,25 @@ Mythic Wyvern CR 8/MR 3
 
 XP 4,800
 
-N Large dragon ( [mythic](mythicAdventure_dir/mythicMonsters#_mythic-subtype)
+N Large dragon ( [mythic](mythicAdventure_dir/mythicMonsters#_mythic-subtype))
 
-**Init** +8M; **Senses** darkvision 60 ft., [low-light vision](monster_dir/universalMonsterRules#_low-light-vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +18
+**Init** +8M; **Senses** darkvision 60 ft., [low-light vision](monsters/universalMonsterRules#_low-light-vision), [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +18
 
 Defense
 
 **AC** 22, touch 10, flat-footed 21 (+1 Dex, +12 natural, –1 size)
 
-**hp** 103 (7d12+58
+**hp** 103 (7d12+58)
 
 **Fort** +9, **Ref** +6, **Will** +8
 
-**DR** 5/epic; **Immune** dragon traits, paralysis, sleep; **Resist** acid 10, [cold](monster_dir/creatureTypes#_cold-subtype 10, electricity 10, [fire](monster_dir/creatureTypes#_fire-subtype) 10
+**DR** 5/epic; **Immune** dragon traits, paralysis, sleep; **Resist** acid 10, [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10
 
 Offense
 
-**Speed** 20 ft., fly 100 ft. (average
+**Speed** 20 ft., fly 100 ft. (average)
 
-**Melee** bite +11 (2d6+5 plus [grab](monster_dir/universalMonsterRules#_grab), sting +11 (1d8+5 plus [poison](monster_dir/universalMonsterRules#_poison)), 2 wings +6 (1d8+2
+**Melee** bite +11 (2d6+5 plus [grab](monster_dir/universalMonsterRules#_grab)), sting +11 (1d8+5 plus [poison](monsters/universalMonsterRules#_poison)), 2 wings +6 (1d8+2)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -37,11 +37,11 @@ Statistics
 
 **Str** 21, **Dex** 12, **Con** 18, **Int** 7, **Wis** 12, **Cha** 9
 
-**Base Atk** +7; **CMB** +13 (+17 grapple; **CMD** 24
+**Base Atk** +7; **CMB** +13 (+17 grapple); **CMD** 24
 
-**Feats** [Flyby Attack](monster_dir/monsterFeats#_flyby-attack, [Improved Initiative](mythicAdventure_dir/mythicFeats#_improved-initiative-mythicM, [Iron Will](mythicAdventure_dir/mythicFeats#_iron-will-mythic)M, [Skill Focus](feats#_skill-focus ( [Perception](skill_dir/perception#_perception)
+**Feats** [Flyby Attack](monsters/monsterFeats#_flyby-attack), [Improved Initiative](mythicAdventure_dir/mythicFeats#_improved-initiative-mythic)M, [Iron Will](mythicAdventures/mythicFeats#_iron-will-mythic)M, [Skill Focus](feats#_skill-focus) ( [Perception](skill_dir/perception#_perception))
 
-**Skills** [Fly](skill_dir/fly#_fly +9, [Perception](skill_dir/perception#_perception +18, [Sense Motive](skill_dir/senseMotive#_sense-motive +11, [Stealth](skill_dir/stealth#_stealth +7; **Racial Modifiers** +4 [Perception](skill_dir/perception#_perception)
+**Skills** [Fly](skills/fly#_fly) +9, [Perception](skill_dir/perception#_perception) +18, [Sense Motive](skills/senseMotive#_sense-motive) +11, [Stealth](skill_dir/stealth#_stealth) +7; **Racial Modifiers** +4 [Perception](skills/perception#_perception)
 
 **Languages** Draconic
 
@@ -55,7 +55,7 @@ Ecology
 
 Special Abilities
 
-**Poison (Ex** Sting—injury; _save_ DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Constitution damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex)** Sting—injury; _save_ DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Constitution damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 **Power Lift (Ex)** A mythic wyvern can expend one use of mythic power to withdraw as a move action (instead of a full-round action), moving up to its speed instead of double. It can even move straight up. If it's grappling a creature, the wyvern can bring the grappled creature with it. Usually a wyvern uses this ability to carry off its prey and drop it from above onto a hard surface. Since this is a move action, the wyvern can damage its target, withdraw, and drop its target all in the same round.
 

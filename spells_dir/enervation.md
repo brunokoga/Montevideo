@@ -1,5 +1,5 @@
 ---
-title: spells/enervation
+title: spell_dir/enervation
 ---
  **Enervation**
 

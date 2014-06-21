@@ -1,5 +1,5 @@
 ---
-title: mastery/nPCGallery/coliseum
+title: master_dir/nPCGallery/coliseum
 ---
 # Coliseum
 
@@ -19,7 +19,7 @@ N Medium humanoid
 
 **AC** 21, touch 12, flat-footed 17 (+7 armor, +3 Dex, +1 dodge, –2 rage, +2 shield)
 
-**hp** 57 (6 HD; 3d12+3d10+21
+**hp** 57 (6 HD; 3d12+3d10+21)
 
 **Fort** +9, **Ref** +5, **Will** +5; +1 vs. fear
 
@@ -29,15 +29,15 @@ N Medium humanoid
 
 **Speed** 40 ft.
 
-**Melee** mwk trident +13/+8 (1d8+5) or mwk trident +11/+6 (1d8+5) and _+1 [light](../../spell_dir/light#_light steel [shield](../../spell_dir/shield#_shield) _with mwk shield spikes +10 (1d6+5)
+**Melee** mwk trident +13/+8 (1d8+5) or mwk trident +11/+6 (1d8+5) and _+1 [light](../../spell_dir/light#_light) steel [shield](../../spell_dir/shield#_shield) _with mwk shield spikes +10 (1d6+5)
 
-**Ranged** mwk trident +11 (1d8+5) or javelin +9 (1d6+5
+**Ranged** mwk trident +11 (1d8+5) or javelin +9 (1d6+5)
 
-**Special Attacks** rage (9 round_dir/day), rage powers (knockback)
+**Special Attacks** rage (9 rounds/day), rage powers (knockback)
 
 **Tactics**
 
-**Base Statistics** When not raging, the gladiator has **AC** 23, touch 14, flat-footed 19 (+7 armor, +3 Dex, +1 dodge, +2 shield; **hp** 45; **Fort** +7, **Will** +3; **Melee** mwk trident +11/+6 (1d8+3) or mwk trident +9/+4 (1d8+3) and _+1 [light](../../spell_dir/light#_light steel [shield](../../spell_dir/shield#_shield) _with mwk shield spikes +8 (1d6+3); **Ranged** mwk trident +11 (1d8+3) or javelin +9 (1d6+3; **Str** 16, **Con** 13; **CMB** +9; **CMD** 23; **Skills** [Climb](../../skill_dir/climb#_climb +6, [Swim](../../skill_dir/swim#_swim +6
+**Base Statistics** When not raging, the gladiator has **AC** 23, touch 14, flat-footed 19 (+7 armor, +3 Dex, +1 dodge, +2 shield); **hp** 45; **Fort** +7, **Will** +3; **Melee** mwk trident +11/+6 (1d8+3) or mwk trident +9/+4 (1d8+3) and _+1 [light](../../spell_dir/light#_light) steel [shield](../../spell_dir/shield#_shield) _with mwk shield spikes +8 (1d6+3); **Ranged** mwk trident +11 (1d8+3) or javelin +9 (1d6+3); **Str** 16, **Con** 13; **CMB** +9; **CMD** 23; **Skills** [Climb](../../skill_dir/climb#_climb) +6, [Swim](../../skill_dir/swim#_swim) +6
 
 **Statistics**
 
@@ -47,13 +47,13 @@ N Medium humanoid
 
 **Feats** [Dodge](../../feats#_dodge), [Double Slice](../../feats#_double-slice), [Improved Shield Bash](../../feats#_improved-shield-bash), [Shield Focus](../../feats#_shield-focus), [Two-Weapon Fighting](../../feats#_two-weapon-fighting), [Weapon Focus](../../feats#_weapon-focus) (trident)
 
-**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +10 (+14 jump, [Climb](../../skill_dir/climb#_climb +8, [Intimidate](../../skill_dir/intimidate#_intimidate +5, [Perception](../../skill_dir/perception#_perception +10, [Swim](../../skill_dir/swim#_swim +8
+**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +10 (+14 jump), [Climb](../../skill_dir/climb#_climb) +8, [Intimidate](../../skill_dir/intimidate#_intimidate) +5, [Perception](../../skill_dir/perception#_perception) +10, [Swim](../../skill_dir/swim#_swim) +8
 
 **Languages** Common
 
 **SQ** armor training 1, fast movement
 
-**Gear** _+1 breastplate_, _+1 [light](../../spell_dir/light#_light steel [shield](../../spell_dir/shield#_shield) _with masterwork shield spikes, javelins (5, masterwork trident, 1 gp
+**Gear** _+1 breastplate_, _+1 [light](../../spell_dir/light#_light) steel [shield](../../spell_dir/shield#_shield) _with masterwork shield spikes, javelins (5), masterwork trident, 1 gp
 
 **Boon** Gladiators can provide free access to the arena even after hours and can help PCs purchase non-magical exotic weapons at a 10% discount.
 
@@ -73,7 +73,7 @@ N Medium humanoid
 
 **AC** 17, touch 11, flat-footed 16 (+5 armor, +1 Dex, +1 shield)
 
-**hp** 59 (7d10+21
+**hp** 59 (7d10+21)
 
 **Fort** +7, **Ref** +6, **Will** +3
 
@@ -89,7 +89,7 @@ N Medium humanoid
 
 **Ranger Spells Prepared** (CL 4th; concentration +5)
 
-1st—_ [longstrider](../../spell_dir/longstrider#_longstrider_, _ [speak with animals](../../spell_dir/speakWithAnimals#_speak-with-animals_
+1st—_ [longstrider](../../spell_dir/longstrider#_longstrider)_, _ [speak with animals](../../spell_dir/speakWithAnimals#_speak-with-animals)_
 
 **Statistics**
 
@@ -99,7 +99,7 @@ N Medium humanoid
 
 **Feats** [Diehard](../../feats#_diehard), [Double Slice](../../feats#_double-slice), [Endurance](../../feats#_endurance), [Improved Two-Weapon Fighting](../../feats#_improved-two-weapon-fighting), [Lunge](../../feats#_lunge), [Step Up](../../feats#_step-up), [Two-Weapon Defense](../../feats#_two-weapon-defense), [Two-Weapon Fighting](../../feats#_two-weapon-fighting)
 
-**Skills** [Climb](../../skill_dir/climb#_climb +11, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +9, [Heal](../../skill_dir/heal#_heal +5, [Knowledge](../../skill_dir/knowledge#_knowledge) (dungeoneering +5, [Knowledge](../../skill_dir/knowledge#_knowledge) (nature +5, [Perception](../../skill_dir/perception#_perception +11, [Ride](../../skill_dir/ride#_ride +10, [Stealth](../../skill_dir/stealth#_stealth +10, [Survival](../../skill_dir/survival#_survival) +11 (+14 to follow tracks, [Swim](../../skill_dir/swim#_swim) +10
+**Skills** [Climb](../../skill_dir/climb#_climb) +11, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +9, [Heal](../../skill_dir/heal#_heal) +5, [Knowledge](../../skill_dir/knowledge#_knowledge) (dungeoneering) +5, [Knowledge](../../skill_dir/knowledge#_knowledge) (nature) +5, [Perception](../../skill_dir/perception#_perception) +11, [Ride](../../skill_dir/ride#_ride) +10, [Stealth](../../skill_dir/stealth#_stealth) +10, [Survival](../../skill_dir/survival#_survival) +11 (+14 to follow tracks), [Swim](../../skill_dir/swim#_swim) +10
 
 **Languages** Common
 
@@ -113,7 +113,7 @@ Beast masters are exotic warriors and beast-tamers who delight the crowds with t
 
 Typical animal companions for beast master gladiators include apes, bears, big cats, crocodiles, dinosaurs, hyenas, monitor lizards, rhinoceroses, and wolves. Beast masters mounted on roc animal companions can make an elite aerial strike force.
 
-Beast masters and their animal companion may be encountered alone, hunting or simply swapping stories with a monster hunter and a trapper (CR 8), or as a trio working with a bounty hunter (CR 12.
+Beast masters and their animal companion may be encountered alone, hunting or simply swapping stories with a monster hunter and a trapper (CR 8), or as a trio working with a bounty hunter (CR 12).
 
 **Champion CR 9**
 
@@ -129,7 +129,7 @@ CN Medium humanoid
 
 **AC** 17, touch 10, flat-footed 15 (+7 armor, +2 Dex, –2 rage)
 
-**hp** 105 (10 HD; 5d12+5d10+45
+**hp** 105 (10 HD; 5d12+5d10+45)
 
 **Fort** +12, **Ref** +4, **Will** +4; +1 vs. fear
 
@@ -139,33 +139,33 @@ CN Medium humanoid
 
 **Speed** 40 ft.
 
-**Melee** _+1 adamantine [vicious](../../magicItem_dir/weapons#_vicious greatsword _+19/+14 (2d6+13/17–20 plus 2d6 vicious) or spiked gauntlet +16/+11 (1d3+6)
+**Melee** _+1 adamantine [vicious](../../magicItem_dir/weapons#_vicious) greatsword _+19/+14 (2d6+13/17–20 plus 2d6 vicious) or spiked gauntlet +16/+11 (1d3+6)
 
 **Ranged** javelin +12 (1d6+6)
 
-**Special Attacks** rage (14 round_dir/day), rage powers (intimidating glare, strength surge +5), weapon training (heavy blades +1
+**Special Attacks** rage (14 round_dir/day), rage powers (intimidating glare, strength surge +5), weapon training (heavy blades +1)
 
 **Tactics**
 
-**Base Statistics** When not raging, the champion has **AC** 19, touch 12, flat-footed 17; **hp** 85; **Fort** +10, **Will** +2; **Melee** _+1 adamantine [vicious](../../magicItem_dir/weapons#_vicious greatsword _+17/+12 (2d6+10/17–20 plus 2d6 vicious) or spiked gauntlet +14/+9 (1d3+4); **Ranged** javelin +12 (1d6+4); **Str** 18, **Con** 14; **CMB** +14 (+18 sunder); **CMD** 26 (28 vs. sunder); **Skills** [Climb](../../skill_dir/climb#_climb +8, [Swim](../../skill_dir/swim#_swim) +7
+**Base Statistics** When not raging, the champion has **AC** 19, touch 12, flat-footed 17; **hp** 85; **Fort** +10, **Will** +2; **Melee** _+1 adamantine [vicious](../../magicItem_dir/weapons#_vicious) greatsword _+17/+12 (2d6+10/17–20 plus 2d6 vicious) or spiked gauntlet +14/+9 (1d3+4); **Ranged** javelin +12 (1d6+4); **Str** 18, **Con** 14; **CMB** +14 (+18 sunder); **CMD** 26 (28 vs. sunder); **Skills** [Climb](../../skill_dir/climb#_climb) +8, [Swim](../../skill_dir/swim#_swim) +7
 
 **Statistics**
 
 **Str** 22, **Dex** 14, **Con** 18, **Int** 8, **Wis** 10, **Cha** 12
 
-**Base Atk** +10; **CMB** +16 (+20 sunder); **CMD** 28 (30 vs. sunder
+**Base Atk** +10; **CMB** +16 (+20 sunder); **CMD** 28 (30 vs. sunder)
 
 **Feats** [Dazzling Display](../../feats#_dazzling-display), [Greater Sunder](../../feats#_greater-sunder), [Improved Critical](../../feats#_improved-critical) (greatsword), [Improved Sunder](../../feats#_improved-sunder), [Intimidating Prowess](../../feats#_intimidating-prowess), [Power Attack](../../feats#_power-attack), [Shatter Defenses](../../feats#_shatter-defenses), [Weapon Focus](../../feats#_weapon-focus) (greatsword), [Weapon Specialization](../../feats#_weapon-specialization) (greatsword)
 
-**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +13 (+17 jump, [Climb](../../skill_dir/climb#_climb +10, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +5, [Intimidate](../../skill_dir/intimidate#_intimidate) +18 (+20 when raging, [Perception](../../skill_dir/perception#_perception +4, [Ride](../../skill_dir/ride#_ride +4, [Survival](../../skill_dir/survival#_survival +5, [Swim](../../skill_dir/swim#_swim +9
+**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +13 (+17 jump), [Climb](../../skill_dir/climb#_climb) +10, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +5, [Intimidate](../../skill_dir/intimidate#_intimidate) +18 (+20 when raging), [Perception](../../skill_dir/perception#_perception) +4, [Ride](../../skill_dir/ride#_ride) +4, [Survival](../../skill_dir/survival#_survival) +5, [Swim](../../skill_dir/swim#_swim) +9
 
 **Languages** Common
 
 **SQ** armor training 1, fast movement
 
-**Gear** _+1 breastplate_, _+1 adamantine [vicious](../../magicItem_dir/weapons#_vicious) greatsword_, javelins (5, spiked gauntlet, 15 gp
+**Gear** _+1 breastplate_, _+1 adamantine [vicious](../../magicItem_dir/weapons#_vicious) greatsword_, javelins (5), spiked gauntlet, 15 gp
 
 **Boon** A champion can introduce the PCs to a general, merchant prince, or noble who is a fan, granting a +10 bonus on [Diplomacy](../../skill_dir/diplomacy#_diplomacy) checks with that person. She can also order a gladiator to assist the PCs for 24 hours.
 
-The champion is mistress of the arena, leaving in her wake a trail of wrecked armaments, battered bodies, and shattered dreams. Raising her bloodied blade, she exults in the roar of the crowd and the terror she inspires in her foes. Champions can also be used as barbarian chieftains or mercenary captains. A champion is usually encountered alone or in the company of a pair of lesser gladiators (CR 10.
+The champion is mistress of the arena, leaving in her wake a trail of wrecked armaments, battered bodies, and shattered dreams. Raising her bloodied blade, she exults in the roar of the crowd and the terror she inspires in her foes. Champions can also be used as barbarian chieftains or mercenary captains. A champion is usually encountered alone or in the company of a pair of lesser gladiators (CR 10).
 

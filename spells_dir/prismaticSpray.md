@@ -1,5 +1,5 @@
 ---
-title: spells/prismaticSpray
+title: spell_dir/prismaticSpray
 ---
  **Prismatic Spray**
 

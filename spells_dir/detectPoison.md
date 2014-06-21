@@ -1,5 +1,5 @@
 ---
-title: spells/detectPoison
+title: spell_dir/detectPoison
 ---
  **Detect Poison**
 

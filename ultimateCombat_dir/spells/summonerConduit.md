@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/summonerConduit
+title: ultimateComba_dir/spells/summonerConduit
 ---
 Summoner Conduit
 
@@ -7,13 +7,13 @@ Summoner Conduit
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (two flies
+**Components** V, S, M (two flies)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one summoned creature or eidolon
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

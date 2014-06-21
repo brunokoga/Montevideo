@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/sinspawn
+title: additionalMonster_dir/sinspawn
 ---
 # Sinspawn
 
@@ -9,15 +9,15 @@ This hairless humanoid lurches on back-bent, dog-like legs, its hideous mouth fl
 
 **XP 600**
 
-NE Medium [aberration](monster_dir/creatureTypes#_aberration
+NE Medium [aberration](monsters/creatureTypes#_aberration)
 
-**Init** +5; **Senses** darkvision 60 ft., sin-scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
+**Init** +5; **Senses** darkvision 60 ft., sin-scent; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +7
 
 Defense
 
 **AC** 14, touch 12, flat-footed 12 (+1 Dex, +1 dodge, +2 natural)
 
-**hp** 19 (3d8+6
+**hp** 19 (3d8+6)
 
 **Fort** +3, **Ref** +2, **Will** +4
 
@@ -37,9 +37,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +3; **CMD** 15
 
-**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Improved Initiative](additionalMonsters/../feats#_improved-initiative)
+**Feats** [Dodge](additionalMonster_dir/../feats#_dodge), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative)
 
-**Skills** [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +7, [Perception](additionalMonsters/../skill_dir/perception#_perception +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +7, [Survival](additionalMonsters/../skill_dir/survival#_survival) +7
+**Skills** [Intimidate](additionalMonster_dir/../skill_dir/intimidate#_intimidate) +7, [Perception](additionalMonsters/../skill_dir/perception#_perception) +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +7, [Survival](additionalMonsters/../skill_dir/survival#_survival) +7
 
 **Languages** Aklo
 
@@ -57,9 +57,9 @@ Special Abilities
 
 **Martial Proficiency (Ex)** Sinspawn are proficient in all simple and martial weapons, armor, and shields (except tower shields).
 
-**Sin-Scent (Su** Sinspawn have [scent](monster_dir/universalMonsterRules#_scent against creatures whose nature reflects the sinspawn's sin. For example, wrathful sinspawn can [scent](monster_dir/universalMonsterRules#_scent creatures using rage effects. The GM should adjudicate what creatures a particular sinspawn can [scent](monster_dir/universalMonsterRules#_scent).
+**Sin-Scent (Su)** Sinspawn have [scent](monsters/universalMonsterRules#_scent) against creatures whose nature reflects the sinspawn's sin. For example, wrathful sinspawn can [scent](monster_dir/universalMonsterRules#_scent) creatures using rage effects. The GM should adjudicate what creatures a particular sinspawn can [scent](monsters/universalMonsterRules#_scent).
 
-**Sinful Bite (Su)** A creature bitten by a sinspawn is overwhelmed with sinful thoughts (DC 12 Will save negates. These emotions are so powerful that the target becomes sickened for 1d6 minutes. An affected target that is bitten a second time is staggered for 1 round if it fails its saving throw. _ [Calm emotions](additionalMonsters/../spell_dir/calmEmotions#_calm-emotions_, _ [remove curse](additionalMonsters/../spell_dir/removeCurse#_remove-curse_, or_ [break enchantment](additionalMonsters/../spell_dir/breakEnchantment#_break-enchantment)_ negates the effects of sinful bite. The save DC is Charisma-based. This is a mind-affecting effect.
+**Sinful Bite (Su)** A creature bitten by a sinspawn is overwhelmed with sinful thoughts (DC 12 Will save negates). These emotions are so powerful that the target becomes sickened for 1d6 minutes. An affected target that is bitten a second time is staggered for 1 round if it fails its saving throw. _ [Calm emotions](additionalMonster_dir/../spell_dir/calmEmotions#_calm-emotions)_, _ [remove curse](additionalMonsters/../spell_dir/removeCurse#_remove-curse)_, or_ [break enchantment](additionalMonsters/../spell_dir/breakEnchantment#_break-enchantment)_ negates the effects of sinful bite. The save DC is Charisma-based. This is a mind-affecting effect.
 
 Sinspawn are corrupted products of magic used by spellcasters in a past era as shock troops for their armies. Literally the embodiment of a sin made flesh, they are sentient abominations of distilled ectoplasm imprinted with the soul-image of slain creatures that possessed an abundance of a particular sin.
 
@@ -77,7 +77,7 @@ The above stats represent a wrathspawn, the most common type of this creature. E
 
 **Pridespawn (+4 Int, –2 Wis, –2 Cha)** : Unique among sinspawn for their long manes of hair, pridespawn are near-skeletal in their gauntness. They often become wizards.
 
-**Slothspawn (+2 Wis, –2 Dex** : Thick rolls of excess skin drape a slothspawn's hunched frame. They often become clerics.
+**Slothspawn (+2 Wis, –2 Dex)** : Thick rolls of excess skin drape a slothspawn's hunched frame. They often become clerics.
 
 **Wrathspawn** : These sinspawn use the statistics given above. They often become barbarians.
 

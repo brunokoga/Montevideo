@@ -9,7 +9,7 @@ _This slithering, multilegged blue reptile has a fearsome head crowned with two 
 
 **XP 4,800**
 
-N Huge [magical beast](creatureTypes#_magical-beast
+N Huge [magical beast](creatureTypes#_magical-beast)
 
 **Init** +1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +6
 
@@ -37,11 +37,11 @@ N Huge [magical beast](creatureTypes#_magical-beast
 
 **Str** 23, **Dex** 12, **Con** 21, **Int** 7, **Wis** 14, **Cha** 12
 
-**Base**  **Atk** +10; **CMB** +18 (+22 grapple); **CMD** 29 (can't be tripped
+**Base**  **Atk** +10; **CMB** +18 (+22 grapple); **CMD** 29 (can't be tripped)
 
 **Feats** [Alertness](../feats#_alertness), [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Climb](../skill_dir/climb#_climb +14, [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth) +5
+**Skills** [Climb](../skill_dir/climb#_climb) +14, [Perception](../skill_dir/perception#_perception) +8, [Stealth](../skill_dir/stealth#_stealth) +5
 
 **Languages** Common
 
@@ -61,7 +61,7 @@ Temperamental and avaricious, the behir spends most of its time slithering throu
 
 The average behir is 40 feet long and weighs 4,000 pounds. In addition to the two prominent horns on its head, many have additional decorative spines at regular intervals along the central ridges of their backs.
 
-While territorial and bestial in its fury, the behir is neither stupid nor necessarily evil, though its self-centeredness and tendency to lay claim to everything visible from its high lairs frequently bring it into conflict with other races. As such, a behir can often be bought off or reasoned with by those brave negotiators willing to get close enough to make their pitch. In these cases, a behir's tendency to attack first and ask questions later (or not at all means that anyone seeking to strike a deal must bring powerful incentives and impress the behir immediately with his offer.
+While territorial and bestial in its fury, the behir is neither stupid nor necessarily evil, though its self-centeredness and tendency to lay claim to everything visible from its high lairs frequently bring it into conflict with other races. As such, a behir can often be bought off or reasoned with by those brave negotiators willing to get close enough to make their pitch. In these cases, a behir's tendency to attack first and ask questions later (or not at all) means that anyone seeking to strike a deal must bring powerful incentives and impress the behir immediately with his offer.
 
 It's often been speculated that behirs are somehow related to blue dragons, but the exact nature of this link remains unknown. Most dragons deny any such association and look down on the behir for its relative lack of intelligence—a snubbing that infuriates the already short-tempered behir. Thanks to this casual disparagement, many behirs carry deep grudges against dragons, and attack without pause any who cross into their territories.
 

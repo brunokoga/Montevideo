@@ -7,7 +7,7 @@ You can choose or randomly generate your character's age. If you choose it, it m
 
 With age, a character's physical ability scores decrease and his mental ability scores increase (see the Aging Effects tables). The effects of each aging step are cumulative. However, none of a character's ability scores can be reduced below 1 in this way.
 
-When a character reaches venerable age, secretly roll his maximum age (on the appropriate Aging Effects table and record the result, which the player does not know. A character who reaches his maximum age dies of old age sometime during the following year.
+When a character reaches venerable age, secretly roll his maximum age (on the appropriate Aging Effects table) and record the result, which the player does not know. A character who reaches his maximum age dies of old age sometime during the following year.
 
 [Core Race Random Starting Ages]
 | Race | Adulthood | Intuitiveⁱ | Self-Taught⁲ | Trained⁳ |

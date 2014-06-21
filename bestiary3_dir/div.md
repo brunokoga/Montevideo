@@ -31,31 +31,31 @@ Aghash CR 4
 
 XP 1,200
 
-NE Medium outsider ( [div](monster_dir/creatureTypes#_div-subtype, [evil](monster_dir/creatureTypes#_evil-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+NE Medium outsider ( [div](monster_dir/creatureTypes#_div-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft., see in darkness; [Perception](skill_dir/perception#_perception) +11
+**Init** +2; **Senses** darkvision 60 ft., see in darkness; [Perception](skills/perception#_perception) +11
 
 Defense
 
 **AC** 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
 
-**hp** 42 (5d10+15
+**hp** 42 (5d10+15)
 
 **Fort** +4, **Ref** +6, **Will** +7
 
-**DR** 5/cold iron or [good](monster_dir/creatureTypes#_good-subtype; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 15
+**DR** 5/cold iron or [good](monster_dir/creatureTypes#_good-subtype); **Immune** [fire](monsters/creatureTypes#_fire-subtype), [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 15
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** 2 claws +8 (1d6+2
+**Melee** 2 claws +8 (1d6+2)
 
-**Special Attacks** cursed [gaze](monster_dir/universalMonsterRules#_gaze), sandstorm
+**Special Attacks** cursed [gaze](monsters/universalMonsterRules#_gaze), sandstorm
 
-**Spell-Like Abilities** (CL 6th; concentration +10
+**Spell-Like Abilities** (CL 6th; concentration +10)
 
-At will—_ [bestow curse](spell_dir/bestowCurse#_bestow-curse) _(DC 16, _ [detect good](spell_dir/detectGood#_detect-good_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [minor image](spell_dir/minorImage#_minor-image) _(DC 15, _ [spectral hand](spell_dir/spectralHand#_spectral-hand_
+At will—_ [bestow curse](spell_dir/bestowCurse#_bestow-curse) _(DC 16), _ [detect good](spells/detectGood#_detect-good)_, _ [detect magic](spell_dir/detectMagic#_detect-magic)_, _ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [minor image](spell_dir/minorImage#_minor-image) _(DC 15), _ [spectral hand](spells/spectralHand#_spectral-hand)_
 
 1/day—_ [suggestion](spell_dir/suggestion#_suggestion)_ (DC 16), summon (level 3, 1d2 dorus 25%)
 
@@ -65,15 +65,15 @@ Statistics
 
 **Base Atk** +5; **CMB** +7; **CMD** 19
 
-**Feats** [Alertness](feats#_alertness), [Iron Will](feats#_iron-will), [Weapon Focus](feats#_weapon-focus) (claw
+**Feats** [Alertness](feats#_alertness), [Iron Will](feats#_iron-will), [Weapon Focus](feats#_weapon-focus) (claw)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +10, [Disguise](skill_dir/disguise#_disguise +12, [Intimidate](skill_dir/intimidate#_intimidate +10, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +7, [Knowledge](skill_dir/knowledge#_knowledge) (planes +7, [Perception](skill_dir/perception#_perception +11, [Sense Motive](skill_dir/senseMotive#_sense-motive +9, [Spellcraft](skill_dir/spellcraft#_spellcraft +9, [Stealth](skill_dir/stealth#_stealth) +10
+**Skills** [Bluff](skills/bluff#_bluff) +10, [Disguise](skill_dir/disguise#_disguise) +12, [Intimidate](skills/intimidate#_intimidate) +10, [Knowledge](skill_dir/knowledge#_knowledge) (arcana) +7, [Knowledge](skills/knowledge#_knowledge) (planes) +7, [Perception](skill_dir/perception#_perception) +11, [Sense Motive](skills/senseMotive#_sense-motive) +9, [Spellcraft](skill_dir/spellcraft#_spellcraft) +9, [Stealth](skills/stealth#_stealth) +10
 
 **Languages** Abyssal, Celestial, Infernal; telepathy 100 ft.
 
 Ecology
 
-**Environment** any (Abaddon
+**Environment** any (Abaddon)
 
 **Organization** solitary
 
@@ -81,13 +81,13 @@ Ecology
 
 Special Abilities
 
-**Cursed [Gaze](monster_dir/universalMonsterRules#_gaze) (Su** Aghash's choice: confused for 1 round, shaken for 1 round, stunned for 1 round, or deals 1d4 points of damage, 30 feet, Fortitude DC 16 negates. Any creature under the effects of _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil _is immune to an aghash's [gaze](monster_dir/universalMonsterRules#_gaze). The save DC is Charisma-based.
+**Cursed [Gaze](monster_dir/universalMonsterRules#_gaze) (Su)** Aghash's choice: confused for 1 round, shaken for 1 round, stunned for 1 round, or deals 1d4 points of damage, 30 feet, Fortitude DC 16 negates. Any creature under the effects of _ [protection from evil](spells/protectionFromEvil#_protection-from-evil) _is immune to an aghash's [gaze](monster_dir/universalMonsterRules#_gaze). The save DC is Charisma-based.
 
-**Sandstorm (Su)** Once per day, as a full-round action, an aghash can create a temporary sandstorm. This storm has a radius of 100 feet centered on the aghash and lasts for 1 minute per Hit Die the aghash possesses (typically 5). This functions as a sandstorm (_Core Rulebook_ 431.
+**Sandstorm (Su)** Once per day, as a full-round action, an aghash can create a temporary sandstorm. This storm has a radius of 100 feet centered on the aghash and lasts for 1 minute per Hit Die the aghash possesses (typically 5). This functions as a sandstorm (_Core Rulebook_ 431).
 
 Aghashes embody the evil eye, a curse granted by merely witnessing these embodiments of ruin and misfortune. Terrifying, haglike beings, aghashes wander deserts of the Material Plane spreading doom with their gazes. These wretched creatures hold nothing sacred, taking particular pleasure in bringing vain and arrogant mortals, particularly spellcasters, to ruin. Ragged and filthy, an aghash moves with a staggering motion. Its hoofed legs bend like those of a goat, giving its emaciated frame an obscene, jerking gait.
 
-All divs exhibit some manner of compulsion, and aghashes' is to despise beautiful mortals. If given a choice between attacking two different opponents, an aghash always chooses the most physically becoming foe. Such is their loathing—or, perhaps, jealousy—that an aghash might stalk attractive foes, delighting in afflicting them with curses that sap their Charisma or otherwise undermines their charm. With its _ [spectral hand](spell_dir/spectralHand#_spectral-hand _ability an aghash can deliver curses from a distance, leading some victims to believe they've been afflicted by a disease or cursed by the gods themselves. All the while, the aghash lingers nearby, delighting in the suffering it has caused.
+All divs exhibit some manner of compulsion, and aghashes' is to despise beautiful mortals. If given a choice between attacking two different opponents, an aghash always chooses the most physically becoming foe. Such is their loathing—or, perhaps, jealousy—that an aghash might stalk attractive foes, delighting in afflicting them with curses that sap their Charisma or otherwise undermines their charm. With its _ [spectral hand](spells/spectralHand#_spectral-hand) _ability an aghash can deliver curses from a distance, leading some victims to believe they've been afflicted by a disease or cursed by the gods themselves. All the while, the aghash lingers nearby, delighting in the suffering it has caused.
 
 An aghash stands between 5 and 6 feet tall and weighs about 100 pounds.
 
@@ -99,9 +99,9 @@ Akvan CR 20
 
 XP 307,200
 
-NE Gargantuan outsider ( [div](monster_dir/creatureTypes#_div-subtype, [evil](monster_dir/creatureTypes#_evil-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+NE Gargantuan outsider ( [div](monster_dir/creatureTypes#_div-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +12; **Senses** darkvision 60 ft., see in darkness, _ [true seeing](spell_dir/trueSeeing#_true-seeing_; [Perception](skill_dir/perception#_perception) +34
+**Init** +12; **Senses** darkvision 60 ft., see in darkness, _ [true seeing](spells/trueSeeing#_true-seeing)_; [Perception](skill_dir/perception#_perception) +34
 
 **Aura** hopelessness (30 ft., DC 30)
 
@@ -109,32 +109,32 @@ Defense
 
 **AC** 38, touch 10, flat-footed 34 (+13 armor, +4 Dex, +15 natural, –4 size)
 
-**hp** 372 (24d10+240
+**hp** 372 (24d10+240)
 
 **Fort** +18, **Ref** +22, **Will** +21
 
-**DR** 15/cold iron and [good](monster_dir/creatureTypes#_good-subtype; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10
+**DR** 15/cold iron and [good](monster_dir/creatureTypes#_good-subtype); **Immune** [fire](monsters/creatureTypes#_fire-subtype), [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10
 
 Offense
 
-**Speed** 50 ft., fly 120 ft. (good
+**Speed** 50 ft., fly 120 ft. (good)
 
-**Melee** bite +32 (2d8+12 plus [grab](monster_dir/universalMonsterRules#_grab/19–20), 2 claws +32 (2d6+12), tail slap +30 (2d10+6)
+**Melee** bite +32 (2d8+12 plus [grab](monsters/universalMonsterRules#_grab)/19–20), 2 claws +32 (2d6+12), tail slap +30 (2d10+6)
 
 **Space** 20 ft.; **Reach** 20 ft. (25 ft. with tail)
 
 **Special Attacks** create ghul, rend (2 claws, 2d6+18), shake faith, swallow whole (6d6+18 plus 4d6 energy damage,   
 AC 25, 37 hp), torturous gullet, [trample](monster_dir/universalMonsterRules#_trample) (2d8+18, DC 34)
 
-**Spell-Like Abilities** (CL 20th; concentration +28
+**Spell-Like Abilities** (CL 20th; concentration +28)
 
-Constant—_ [true seeing](spell_dir/trueSeeing#_true-seeing_
+Constant—_ [true seeing](spells/trueSeeing#_true-seeing)_
 
-At will—_ [align weapon](spell_dir/alignWeapon#_align-weapon_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [greater teleport](spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only, _ [magic circle against good](spell_dir/magicCircleAgainstGood#_magic-circle-against-good_, _ [telekinesis](spell_dir/telekinesis#_telekinesis)_ (DC 23
+At will—_ [align weapon](spell_dir/alignWeapon#_align-weapon)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [greater teleport](spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [magic circle against good](spells/magicCircleAgainstGood#_magic-circle-against-good)_, _ [telekinesis](spell_dir/telekinesis#_telekinesis)_ (DC 23)
 
-3/day—_ [blasphemy](spell_dir/blasphemy#_blasphemy)_ (DC 25, _ [disintegrate](spell_dir/disintegrate#_disintegrate)_ (DC 24, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [forcecage](spell_dir/forcecage#_forcecage)_ (DC 25, _ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy_
+3/day—_ [blasphemy](spell_dir/blasphemy#_blasphemy)_ (DC 25), _ [disintegrate](spells/disintegrate#_disintegrate)_ (DC 24), _ [dispel magic](spell_dir/dispelMagic#_dispel-magic)_, _ [forcecage](spells/forcecage#_forcecage)_ (DC 25), _ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy)_
 
-1/day—_ [geas/quest](spell_dir/geasQuest#_geas-quest_, _ [plane shift](spell_dir/planeShift#_plane-shift)_, _summon_ (level 6, 1d2 sepids 100%
+1/day—_ [gea_dir/quest](spells/geasQuest#_geas-quest)_, _ [plane shift](spell_dir/planeShift#_plane-shift)_, _summon_ (level 6, 1d2 sepids 100%)
 
 Statistics
 
@@ -142,9 +142,9 @@ Statistics
 
 **Base Atk** +24; **CMB** +40; **CMD** 58
 
-**Feats** [Awesome Blow](monster_dir/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Combat Reflexes](feats#_combat-reflexes), [Critical Focus](feats#_critical-focus), [Great Cleave](feats#_great-cleave), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Initiative](feats#_improved-initiative), [Improved Critical](feats#_improved-critical) (bite, [Multiattack](monster_dir/monsterFeats#_multiattack), [Power Attack](feats#_power-attack), [Staggering Critical](feats#_staggering-critical), [Stunning Critical](feats#_stunning-critical
+**Feats** [Awesome Blow](monsters/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Combat Reflexes](feats#_combat-reflexes), [Critical Focus](feats#_critical-focus), [Great Cleave](feats#_great-cleave), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Initiative](feats#_improved-initiative), [Improved Critical](feats#_improved-critical) (bite), [Multiattack](monster_dir/monsterFeats#_multiattack), [Power Attack](feats#_power-attack), [Staggering Critical](feats#_staggering-critical), [Stunning Critical](feats#_stunning-critical)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +28 (+36 when jumping, [Bluff](skill_dir/bluff#_bluff +43, [Diplomacy](skill_dir/diplomacy#_diplomacy +31, [Fly](skill_dir/fly#_fly +27, [Intimidate](skill_dir/intimidate#_intimidate +31, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +31, [Knowledge](skill_dir/knowledge#_knowledge) (planes +31, [Knowledge](skill_dir/knowledge#_knowledge) (religion +19, [Perception](skill_dir/perception#_perception +34, [Sense Motive](skill_dir/senseMotive#_sense-motive +30, [Spellcraft](skill_dir/spellcraft#_spellcraft +22, [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device +23; **Racial Modifiers** +8 [Acrobatics](skill_dir/acrobatics#_acrobatics when jumping, +8 [Bluff](skill_dir/bluff#_bluff)
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +28 (+36 when jumping), [Bluff](skill_dir/bluff#_bluff) +43, [Diplomacy](skills/diplomacy#_diplomacy) +31, [Fly](skill_dir/fly#_fly) +27, [Intimidate](skills/intimidate#_intimidate) +31, [Knowledge](skill_dir/knowledge#_knowledge) (arcana) +31, [Knowledge](skills/knowledge#_knowledge) (planes) +31, [Knowledge](skill_dir/knowledge#_knowledge) (religion) +19, [Perception](skills/perception#_perception) +34, [Sense Motive](skill_dir/senseMotive#_sense-motive) +30, [Spellcraft](skills/spellcraft#_spellcraft) +22, [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device) +23; **Racial Modifiers** +8 [Acrobatics](skills/acrobatics#_acrobatics) when jumping, +8 [Bluff](skill_dir/bluff#_bluff)
 
 **Languages** Abyssal, Celestial, Common, Draconic, Infernal; telepathy 100 ft.
 
@@ -168,7 +168,7 @@ Special Abilities
 
 **Shake Faith (Su)** Anytime an akvan strikes a divine spellcaster with any of its melee attacks, the target must make a DC 30 Will save or be shaken for 1d4 rounds. If the save is successful, the target is instead shaken for 1 round. The save DC is Charisma-based.
 
-**Torturous Gullet (Su** As hunters of otherworldly beings, akvans are uniquely drawn to digest creatures with a variety of resistances. In addition to the damage dealt by crushing internal organs, creatures swallowed by an akvan take 4d6 points of acid, [cold](monster_dir/creatureTypes#_cold-subtype, electricity, or [fire](monster_dir/creatureTypes#_fire-subtype damage per round. The akvan chooses what type of energy damage those in its stomach will take every round, and may change this from round to round. Additionally, an akvan's stomach is thickly armored, allowing it to benefit from its entire natural armor bonus instead of merely half.
+**Torturous Gullet (Su)** As hunters of otherworldly beings, akvans are uniquely drawn to digest creatures with a variety of resistances. In addition to the damage dealt by crushing internal organs, creatures swallowed by an akvan take 4d6 points of acid, [cold](monsters/creatureTypes#_cold-subtype), electricity, or [fire](monster_dir/creatureTypes#_fire-subtype) damage per round. The akvan chooses what type of energy damage those in its stomach will take every round, and may change this from round to round. Additionally, an akvan's stomach is thickly armored, allowing it to benefit from its entire natural armor bonus instead of merely half.
 
 Akvans number among the most physically powerful and openly destructive servants of Ahriman, directly carrying out his ancient plans for oblivion. Their twisted minds bend toward desolation, ruin, and blasphemy, and their hatred of the gods of creation and beings renowned for inspiring art and wonder knows few equals. Whereas most divs turn their cruelty and vengefulness exclusively upon mortals, akvans broaden the scope of their hatred to encompass geniekind as well.
 
@@ -184,15 +184,15 @@ As akvans go through existence slaying mortals and genies, many gravitate toward
 
 Each akvan prince dedicates itself to extinguishing a particular type of genie and gains special abilities with which to slaughter genies of that type. An akvan prince gains an additional 4–8 Hit Dice, a +4 bonus to three ability scores, and has a CR of 22­–24. The akvan prince also gains one of the following sets of abilities, depending on what type of genies it hunts.
 
-**Crumbling Earth** : A shaitan-hunting akvan prince shatters the strongest stone. It gains the stone glide ability, tremorsense 100 feet, and a burrow speed of 100 feet, and its natural attacks are treated as adamantine for the purposes of overcoming damage reduction. It also gains the following spell-like abilities: 3/day—quickened _ [stone shape](spell_dir/stoneShape#_stone-shape_, _ [transmute mud to rock](spell_dir/transmuteMudToRock#_transmute-mud-to-rock_, _ [transmute rock to mud](spell_dir/transmuteRockToMud#_transmute-rock-to-mud_, _ [wish](spell_dir/wish#_wish)_.
+**Crumbling Earth** : A shaitan-hunting akvan prince shatters the strongest stone. It gains the stone glide ability, tremorsense 100 feet, and a burrow speed of 100 feet, and its natural attacks are treated as adamantine for the purposes of overcoming damage reduction. It also gains the following spell-like abilities: 3/day—quickened _ [stone shape](spell_dir/stoneShape#_stone-shape)_, _ [transmute mud to rock](spells/transmuteMudToRock#_transmute-mud-to-rock)_, _ [transmute rock to mud](spell_dir/transmuteRockToMud#_transmute-rock-to-mud)_, _ [wish](spells/wish#_wish)_.
 
-**Dying Ember** : An efreet-hating akvan prince holds dominion over flame. It gains resist fire 30, an efreeti's heat special attack (1d6 when struck, 6d6 when grappling or grappled, and the following spell-like abilities: at will—quickened _ [quench](spell_dir/quench#_quench_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_, _ [wall of fire](spell_dir/wallOfFire#_wall-of-fire_; 3/day—_ [wish](spell_dir/wish#_wish)_.
+**Dying Ember** : An efreet-hating akvan prince holds dominion over flame. It gains resist fire 30, an efreeti's heat special attack (1d6 when struck, 6d6 when grappling or grappled), and the following spell-like abilities: at will—quickened _ [quench](spell_dir/quench#_quench)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [wall of fire](spell_dir/wallOfFire#_wall-of-fire)_; 3/day—_ [wish](spell_dir/wish#_wish)_.
 
-**Gasping Wind** : A djinn-hunting akvan prince gains power over the wind. It gains resist electricity 30 and the whirlwind ability, its fly speed increases to 120 feet (perfect maneuverability, and it gains the following spell-like abilities: at will—_ [invisibility](spell_dir/invisibility#_invisibility_; 3/day—_ [gaseous form](spell_dir/gaseousForm#_gaseous-form_, _ [wish](spell_dir/wish#_wish)_.
+**Gasping Wind** : A djinn-hunting akvan prince gains power over the wind. It gains resist electricity 30 and the whirlwind ability, its fly speed increases to 120 feet (perfect maneuverability), and it gains the following spell-like abilities: at will—_ [invisibility](spells/invisibility#_invisibility)_; 3/day—_ [gaseous form](spell_dir/gaseousForm#_gaseous-form)_, _ [wish](spells/wish#_wish)_.
 
-**Thirsty Sea** : A marid-slaying akvan prince controls and poisons water. It gains a swim speed of 100 feet, a marid's water's fury special attack (8d6 points of damage, blinds and stuns for 1d6 rounds, and the following spell-like abilities: constant—_ [water breathing](spell_dir/waterBreathing#_water-breathing_, _ [water walk](spell_dir/waterWalk#_water-walk_; at will—quickened _ [control water](spell_dir/controlWater#_control-water_; 3/day—_ [horrid wilting](spell_dir/horridWilting#_horrid-wilting_, _ [wish](spell_dir/wish#_wish_.
+**Thirsty Sea** : A marid-slaying akvan prince controls and poisons water. It gains a swim speed of 100 feet, a marid's water's fury special attack (8d6 points of damage, blinds and stuns for 1d6 rounds), and the following spell-like abilities: constant—_ [water breathing](spell_dir/waterBreathing#_water-breathing)_, _ [water walk](spells/waterWalk#_water-walk)_; at will—quickened _ [control water](spell_dir/controlWater#_control-water)_; 3/day—_ [horrid wilting](spell_dir/horridWilting#_horrid-wilting)_, _ [wish](spells/wish#_wish)_.
 
-**Unbalanced Soul** : A jann-killing akvan prince spreads failure and defeat. It gains resist acid, cold, and electricity 20, and the following spell-like abilities: at will—_ [ethereal jaunt](spell_dir/etherealJaunt#_ethereal-jaunt_, _ [invisibility](spell_dir/invisibility#_invisibility_; 3/day—_ [insanity](spell_dir/insanity#_insanity_, _ [mage's disjunction](spell_dir/mageSDisjunction#_mage-s-disjunction_, _ [wish](spell_dir/wish#_wish_.
+**Unbalanced Soul** : A jann-killing akvan prince spreads failure and defeat. It gains resist acid, cold, and electricity 20, and the following spell-like abilities: at will—_ [ethereal jaunt](spell_dir/etherealJaunt#_ethereal-jaunt)_, _ [invisibility](spells/invisibility#_invisibility)_; 3/day—_ [insanity](spell_dir/insanity#_insanity)_, _ [mage's disjunction](spells/mageSDisjunction#_mage-s-disjunction)_, _ [wish](spell_dir/wish#_wish)_.
 
 # Div, Doru
 
@@ -202,38 +202,38 @@ Doru CR 2
 
 XP 600
 
-NE Tiny outsider ( [div](monster_dir/creatureTypes#_div-subtype, [evil](monster_dir/creatureTypes#_evil-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+NE Tiny outsider ( [div](monsters/creatureTypes#_div-subtype), [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft., _ [detect good](spell_dir/detectGood#_detect-good_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, see in darkness; [Perception](skill_dir/perception#_perception) +7
+**Init** +3; **Senses** darkvision 60 ft., _ [detect good](spell_dir/detectGood#_detect-good)_, _ [detect magic](spells/detectMagic#_detect-magic)_, see in darkness; [Perception](skill_dir/perception#_perception) +7
 
 Defense
 
 **AC** 18, touch 15, flat-footed 15 (+3 Dex, +3 natural,   
 +2 size)
 
-**hp** 16 (3d10
+**hp** 16 (3d10)
 
 **Fort** +3, **Ref** +4, **Will** +4
 
-**DR** 10/cold iron or [good](monster_dir/creatureTypes#_good-subtype; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 13
+**DR** 10/cold iron or [good](monster_dir/creatureTypes#_good-subtype); **Immune** [fire](monsters/creatureTypes#_fire-subtype), [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 13
 
 Offense
 
-**Speed** 20 ft., fly 40 ft. (perfect
+**Speed** 20 ft., fly 40 ft. (perfect)
 
-**Melee** bite +9 (1d4–1 plus [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su))
+**Melee** bite +9 (1d4–1 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
 **Spell-Like Abilities** (CL 6th; concentration +8)
 
-Constant—_ [detect good](spell_dir/detectGood#_detect-good_, _ [detect magic](spell_dir/detectMagic#_detect-magic_
+Constant—_ [detect good](spell_dir/detectGood#_detect-good)_, _ [detect magic](spells/detectMagic#_detect-magic)_
 
-At will—_ [invisibility](spell_dir/invisibility#_invisibility)_ (self only
+At will—_ [invisibility](spell_dir/invisibility#_invisibility)_ (self only)
 
-3/day—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 13, _ [minor image](spell_dir/minorImage#_minor-image)_ (DC 13
+3/day—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 13), _ [minor image](spells/minorImage#_minor-image)_ (DC 13)
 
-1/day—_ [suggestion](spell_dir/suggestion#_suggestion)_ (DC 14
+1/day—_ [suggestion](spell_dir/suggestion#_suggestion)_ (DC 14)
 
 1/week—commune (CL 12th, 6 questions)
 
@@ -245,13 +245,13 @@ Statistics
 
 **Feats** [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +8, [Fly](skill_dir/fly#_fly +11, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +6, [Knowledge](skill_dir/knowledge#_knowledge) (planes +6, [Perception](skill_dir/perception#_perception +7, [Spellcraft](skill_dir/spellcraft#_spellcraft +6, [Stealth](skill_dir/stealth#_stealth) +17
+**Skills** [Bluff](skill_dir/bluff#_bluff) +8, [Fly](skills/fly#_fly) +11, [Knowledge](skill_dir/knowledge#_knowledge) (arcana) +6, [Knowledge](skills/knowledge#_knowledge) (planes) +6, [Perception](skill_dir/perception#_perception) +7, [Spellcraft](skills/spellcraft#_spellcraft) +6, [Stealth](skill_dir/stealth#_stealth) +17
 
 **Languages** Abyssal, Celestial, Infernal; telepathy 100 ft.
 
 Ecology
 
-**Environment** any (Abaddon
+**Environment** any (Abaddon)
 
 **Organization** solitary
 
@@ -259,7 +259,7 @@ Ecology
 
 Special Abilities
 
-**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Wis; _cure_ 2 consecutive saves.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Wis; _cure_ 2 consecutive saves.
 
 Dorus are the divs that whisper in the night, the foul inspiration that drifts upon fetid winds, the messengers of pretender gods. Wild hair whips around a doru's six twisting horns, while a flat nose, a fanged mouth, and red glowing eyes complete the terrifying image of this bodiless monstrosity. Dorus almost always fly, preferring to stay at heights that keep them at the eye level of those with whom they would have dealings. When not flying, dorus roll across the ground in a disturbing manner, horns bouncing and teeth clattering as the creatures cackle and cartwheel, terrifying children and shocking the faint of heart.
 
@@ -277,19 +277,19 @@ Ghawwas CR 10
 
 XP 9,600
 
-NE Large outsider ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype, [div](monster_dir/creatureTypes#_div-subtype, [evil](monster_dir/creatureTypes#_evil-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+NE Large outsider ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype), [div](monsters/creatureTypes#_div-subtype), [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., _ [detect good](spell_dir/detectGood#_detect-good_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, see in darkness; [Perception](skill_dir/perception#_perception) +19
+**Init** +6; **Senses** darkvision 60 ft., _ [detect good](spell_dir/detectGood#_detect-good)_, _ [detect magic](spells/detectMagic#_detect-magic)_, see in darkness; [Perception](skill_dir/perception#_perception) +19
 
 DEFENSE
 
 **AC** 26, touch 11, flat-footed 24 (+2 Dex, +15 natural, –1 size)
 
-**hp** 161 (14d10+84
+**hp** 161 (14d10+84)
 
 **Fort** +10, **Ref** +13, **Will** +11
 
-**Defensive Abilities** rough hide; **DR** 10/cold iron and [good](monster_dir/creatureTypes#_good-subtype; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su); **Resist** acid 10, electricity 10; **SR** 21
+**Defensive Abilities** rough hide; **DR** 10/cold iron and [good](monster_dir/creatureTypes#_good-subtype); **Immune** [fire](monsters/creatureTypes#_fire-subtype), [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 21
 
 OFFENSE
 
@@ -303,13 +303,13 @@ OFFENSE
 
 **Special Attacks** boiling sea
 
-**Spell-Like Abilities** (CL 12th; concentration +14
+**Spell-Like Abilities** (CL 12th; concentration +14)
 
-Constant—_ [detect good](spell_dir/detectGood#_detect-good_, _ [detect magic](spell_dir/detectMagic#_detect-magic_
+Constant—_ [detect good](spells/detectGood#_detect-good)_, _ [detect magic](spell_dir/detectMagic#_detect-magic)_
 
-At will—_ [control water](spell_dir/controlWater#_control-water_, _ [curse water](spell_dir/curseWater#_curse-water_, _ [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_
+At will—_ [control water](spells/controlWater#_control-water)_, _ [curse water](spell_dir/curseWater#_curse-water)_, _ [deeper darkness](spells/deeperDarkness#_deeper-darkness)_, _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_
 
-3/day—_ [hallucinatory terrain](spell_dir/hallucinatoryTerrain#_hallucinatory-terrain)_ (DC 16, _ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud)_ (DC 15), summon (level 6, 1 pairaka 60%, _ [quench](spell_dir/quench#_quench)_ (DC 15)
+3/day—_ [hallucinatory terrain](spell_dir/hallucinatoryTerrain#_hallucinatory-terrain)_ (DC 16), _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_ (DC 15), summon (level 6, 1 pairaka 60%), _ [quench](spell_dir/quench#_quench)_ (DC 15)
 
 STATISTICS
 
@@ -317,9 +317,9 @@ STATISTICS
 
 **Base Atk** +14; **CMB** +22; **CMD** 34
 
-**Feats** [Combat Reflexes](feats#_combat-reflexes), [Greater Weapon Focus](feats#_greater-weapon-focus) (bite), [Improved Critical](feats#_improved-critical) (bite), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) (bite
+**Feats** [Combat Reflexes](feats#_combat-reflexes), [Greater Weapon Focus](feats#_greater-weapon-focus) (bite), [Improved Critical](feats#_improved-critical) (bite), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +19, [Knowledge](skill_dir/knowledge#_knowledge) (geography and planes +18, [Perception](skill_dir/perception#_perception +19, [Stealth](skill_dir/stealth#_stealth +15, [Survival](skill_dir/survival#_survival +19, [Swim](skill_dir/swim#_swim) +32
+**Skills** [Bluff](skills/bluff#_bluff) +19, [Knowledge](skill_dir/knowledge#_knowledge) (geography and planes) +18, [Perception](skills/perception#_perception) +19, [Stealth](skill_dir/stealth#_stealth) +15, [Survival](skills/survival#_survival) +19, [Swim](skill_dir/swim#_swim) +32
 
 **Languages** Abyssal, Aquan, Celestial, Infernal; telepathy 100 ft.
 
@@ -335,9 +335,9 @@ ECOLOGY
 
 SPECIAL ABILITIES
 
-**Boiling Sea (Su** As a standard action, a ghawwas can cause the waters around it to boil. Any creature within 50 feet of the ghawwas, within the same body of [water](monster_dir/creatureTypes#_water-subtype, and at least half submerged takes 6d6 points of [heat](monster_dir/universalMonsterRules#_heat) damage (DC 22 Fortitude save for half. The save DC is Constitution-based.
+**Boiling Sea (Su)** As a standard action, a ghawwas can cause the waters around it to boil. Any creature within 50 feet of the ghawwas, within the same body of [water](monsters/creatureTypes#_water-subtype), and at least half submerged takes 6d6 points of [heat](monster_dir/universalMonsterRules#_heat) damage (DC 22 Fortitude save for half). The save DC is Constitution-based.
 
-**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex** Sting—injury; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Str; _cure_ 2 consecutive saves.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Sting—injury; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Str; _cure_ 2 consecutive saves.
 
 **Rough Hide (Ex)** Ghawwas have rough hides studded with jagged barbs and spiny protrusions. Any creature striking a ghawwas with a natural weapon or an unarmed strike takes 1d6 points of slashing and piercing damage.
 
@@ -355,31 +355,31 @@ Pairaka CR 7
 
 XP 3,200
 
-NE Medium outsider ( [div](monster_dir/creatureTypes#_div-subtype, [evil](monster_dir/creatureTypes#_evil-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype, [shapechanger](monster_dir/creatureTypes#_shapechanger-subtype)
+NE Medium outsider ( [div](monster_dir/creatureTypes#_div-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
 
-**Init** +9; **Senses** darkvision 60 ft., _ [detect good](spell_dir/detectGood#_detect-good_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, see in darkness; [Perception](skill_dir/perception#_perception) +16
+**Init** +9; **Senses** darkvision 60 ft., _ [detect good](spell_dir/detectGood#_detect-good)_, _ [detect magic](spells/detectMagic#_detect-magic)_, see in darkness; [Perception](skill_dir/perception#_perception) +16
 
 Defense
 
 **AC** 23, touch 15, flat-footed 18 (+5 Dex, +8 natural)
 
-**hp** 76 (9d10+27
+**hp** 76 (9d10+27)
 
 **Fort** +6, **Ref** +11, **Will** +10
 
-**DR** 10/cold iron or [good](monster_dir/creatureTypes#_good-subtype; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su), [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 22
+**DR** 10/cold iron or [good](monster_dir/creatureTypes#_good-subtype); **Immune** [fire](monsters/creatureTypes#_fire-subtype), [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)), [disease](monsters/universalMonsterRules#_disease-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 22
 
 Offense
 
-**Speed** 30 ft., fly 50 ft. (good
+**Speed** 30 ft., fly 50 ft. (good)
 
 **Melee** 2 claws +14 (1d6+3 plus [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)))
 
-**Spell-Like Abilities** (CL 12th; concentration +19
+**Spell-Like Abilities** (CL 12th; concentration +19)
 
-Constant—_ [detect good](spell_dir/detectGood#_detect-good_, _ [detect magic](spell_dir/detectMagic#_detect-magic_
+Constant—_ [detect good](spells/detectGood#_detect-good)_, _ [detect magic](spell_dir/detectMagic#_detect-magic)_
 
-At will—_ [charm monster](spell_dir/charmMonster#_charm-monster)_ (DC 20, _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_ (self plus 50 lbs. of objects only, _ [misdirection](spell_dir/misdirection#_misdirection)_ (DC 19
+At will—_ [charm monster](spells/charmMonster#_charm-monster)_ (DC 20), _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_ (self plus 50 lbs. of objects only), _ [misdirection](spells/misdirection#_misdirection)_ (DC 19)
 
 1/day—_ [insect plague](spell_dir/insectPlague#_insect-plague)_, summon (level 3, 1d4 dorus 50%)
 
@@ -389,17 +389,17 @@ Statistics
 
 **Base Atk** +9; **CMB** +12; **CMD** 27
 
-**Feats** [Deceitful](feats#_deceitful, [Flyby Attack](monster_dir/monsterFeats#_flyby-attack, [Hover](monster_dir/monsterFeats#_hover), [Improved Initiative](feats#_improved-initiative), [Weapon Finesse](feats#_weapon-finesse
+**Feats** [Deceitful](feats#_deceitful), [Flyby Attack](monsters/monsterFeats#_flyby-attack), [Hover](monster_dir/monsterFeats#_hover), [Improved Initiative](feats#_improved-initiative), [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +20, [Diplomacy](skill_dir/diplomacy#_diplomacy +18, [Disguise](skill_dir/disguise#_disguise +18, [Fly](skill_dir/fly#_fly +16, [Intimidate](skill_dir/intimidate#_intimidate +16, [Knowledge](skill_dir/knowledge#_knowledge) (local +13, [Knowledge](skill_dir/knowledge#_knowledge) (planes +13, [Perception](skill_dir/perception#_perception +16, [Sense Motive](skill_dir/senseMotive#_sense-motive +13, [Stealth](skill_dir/stealth#_stealth +17
+**Skills** [Bluff](skills/bluff#_bluff) +20, [Diplomacy](skill_dir/diplomacy#_diplomacy) +18, [Disguise](skills/disguise#_disguise) +18, [Fly](skill_dir/fly#_fly) +16, [Intimidate](skills/intimidate#_intimidate) +16, [Knowledge](skill_dir/knowledge#_knowledge) (local) +13, [Knowledge](skills/knowledge#_knowledge) (planes) +13, [Perception](skill_dir/perception#_perception) +16, [Sense Motive](skills/senseMotive#_sense-motive) +13, [Stealth](skill_dir/stealth#_stealth) +17
 
 **Languages** Abyssal, Celestial, Infernal; telepathy 100 ft.
 
-**SQ** [change shape](monster_dir/universalMonsterRules#_change-shape (any Small or Medium animal or humanoid; _ [polymorph](spell_dir/polymorph#_polymorph)_)
+**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (any Small or Medium animal or humanoid; _ [polymorph](spell_dir/polymorph#_polymorph)_)
 
 Ecology
 
-**Environment** any (Abaddon
+**Environment** any (Abaddon)
 
 **Organization** solitary
 
@@ -407,7 +407,7 @@ Ecology
 
 Special Abilities
 
-**[Disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)) (Su)** A pairaka carries two diseases. Its claws infect targets with bubonic plague, and any willing contact with its skin (such as through caressing, grappling, or more exposes victims to the shakes.
+**[Disease](monsters/universalMonsterRules#_disease-(ex-or-su)) (Su)** A pairaka carries two diseases. Its claws infect targets with bubonic plague, and any willing contact with its skin (such as through caressing, grappling, or more) exposes victims to the shakes.
 
 _Bubonic Plague_: Claw—injury; _save_ Fort DC 17; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d4 Str damage, 1 Cha damage, and target is fatigued; _cure_ 2 consecutive saves.
 
@@ -431,19 +431,19 @@ Sepid CR 14
 
 XP 38,400
 
-NE Large outsider ( [div](monster_dir/creatureTypes#_div-subtype, [evil](monster_dir/creatureTypes#_evil-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+NE Large outsider ( [div](monster_dir/creatureTypes#_div-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +9; **Senses** darkvision 60 ft., see in darkness; [Perception](skill_dir/perception#_perception) +22
+**Init** +9; **Senses** darkvision 60 ft., see in darkness; [Perception](skills/perception#_perception) +22
 
 Defense
 
 **AC** 32, touch 14, flat-footed 27 (+5 Dex, +18 natural, –1 size)
 
-**hp** 202 (15d10+120
+**hp** 202 (15d10+120)
 
 **Fort** +13, **Ref** +16, **Will** +15
 
-**DR** 10/cold iron and [good](monster_dir/creatureTypes#_good-subtype; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su); **Resist** acid 10, electricity 10; **SR** 25
+**DR** 10/cold iron and [good](monster_dir/creatureTypes#_good-subtype); **Immune** [fire](monsters/creatureTypes#_fire-subtype), [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 25
 
 Offense
 
@@ -458,12 +458,12 @@ Offense
 
 **Spell-Like Abilities** (CL 15th; concentration +21)
 
-At will—_ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_, _ [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness_, _ [greater teleport](spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only, _ [nondetection](spell_dir/nondetection#_nondetection_, _ [speak with dead](spell_dir/speakWithDead#_speak-with-dead)_ (DC 19
+At will—_ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages)_, _ [deeper darkness](spells/deeperDarkness#_deeper-darkness)_, _ [greater teleport](spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [nondetection](spells/nondetection#_nondetection)_, _ [speak with dead](spell_dir/speakWithDead#_speak-with-dead)_ (DC 19)
 
-3/day—_ [blindness/deafness](spell_dir/blindnessDeafness#_blindness-deafness)_ (DC 18, _ [fly](spell_dir/fly_, _ [ice storm](spell_dir/iceStorm#_ice-storm_, _ [invisibility](spell_dir/invisibility#_invisibility_, _ [mirror image](spell_dir/mirrorImage#_mirror-image_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_, _ [touch of idiocy](spell_dir/touchOfIdiocy#_touch-of-idiocy_, _ [true strike](spell_dir/trueStrike#_true-strike_
+3/day—_ [blindnes_dir/deafness](spells/blindnessDeafness#_blindness-deafness)_ (DC 18), _ [fly](spell_dir/fly)_, _ [ice storm](spells/iceStorm#_ice-storm)_, _ [invisibility](spell_dir/invisibility#_invisibility)_, _ [mirror image](spells/mirrorImage#_mirror-image)_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray)_, _ [touch of idiocy](spells/touchOfIdiocy#_touch-of-idiocy)_, _ [true strike](spell_dir/trueStrike#_true-strike)_
 
-1/day—_ [animate dead](spell_dir/animateDead#_animate-dead_, _ [baleful polymorph](spell_dir/balefulPolymorph#_baleful-polymorph)_ (DC 21, _ [bestow curse](spell_dir/bestowCurse#_bestow-curse)_ (DC 20, _ [break enchantment](spell_dir/breakEnchantment#_break-enchantment_, _ [create undead](spell_dir/createUndead#_create-undead_, _ [disintegrate](spell_dir/disintegrate#_disintegrate)_ (DC 22, _ [enervation](spell_dir/enervation#_enervation_, _ [fireball](spell_dir/fireball#_fireball)_   
-(DC 19, _ [hold monster](spell_dir/holdMonster#_hold-monster)_ (DC 21), summon (level 4, 1 ghawwas or 1 shira 40%, _ [true seeing](spell_dir/trueSeeing#_true-seeing)_
+1/day—_ [animate dead](spell_dir/animateDead#_animate-dead)_, _ [baleful polymorph](spells/balefulPolymorph#_baleful-polymorph)_ (DC 21), _ [bestow curse](spell_dir/bestowCurse#_bestow-curse)_ (DC 20), _ [break enchantment](spells/breakEnchantment#_break-enchantment)_, _ [create undead](spell_dir/createUndead#_create-undead)_, _ [disintegrate](spells/disintegrate#_disintegrate)_ (DC 22), _ [enervation](spell_dir/enervation#_enervation)_, _ [fireball](spells/fireball#_fireball)_   
+(DC 19), _ [hold monster](spell_dir/holdMonster#_hold-monster)_ (DC 21), summon (level 4, 1 ghawwas or 1 shira 40%), _ [true seeing](spells/trueSeeing#_true-seeing)_
 
 Statistics
 
@@ -472,9 +472,9 @@ Statistics
 
 **Base Atk** +15; **CMB** +23; **CMD** 38
 
-**Feats** [Cleave](feats#_cleave), [Combat Reflexes](feats#_combat-reflexes), [Deflect Arrows](feats#_deflect-arrows)B, [Improved Critical](feats#_improved-critical) (falchion), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) (falchion
+**Feats** [Cleave](feats#_cleave), [Combat Reflexes](feats#_combat-reflexes), [Deflect Arrows](feats#_deflect-arrows)B, [Improved Critical](feats#_improved-critical) (falchion), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) (falchion)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +24, [Fly](skill_dir/fly#_fly +15, [Intimidate](skill_dir/intimidate#_intimidate +24, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +22, [Knowledge](skill_dir/knowledge#_knowledge) (planes +22, [Knowledge](skill_dir/knowledge#_knowledge) (religion +15, [Perception](skill_dir/perception#_perception +22, [Sense Motive](skill_dir/senseMotive#_sense-motive +20, [Spellcraft](skill_dir/spellcraft#_spellcraft +22, [Stealth](skill_dir/stealth#_stealth +19, [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device) +24
+**Skills** [Bluff](skill_dir/bluff#_bluff) +24, [Fly](skills/fly#_fly) +15, [Intimidate](skill_dir/intimidate#_intimidate) +24, [Knowledge](skills/knowledge#_knowledge) (arcana) +22, [Knowledge](skill_dir/knowledge#_knowledge) (planes) +22, [Knowledge](skills/knowledge#_knowledge) (religion) +15, [Perception](skill_dir/perception#_perception) +22, [Sense Motive](skills/senseMotive#_sense-motive) +20, [Spellcraft](skill_dir/spellcraft#_spellcraft) +22, [Stealth](skills/stealth#_stealth) +19, [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device) +24
 
 **Languages** Abyssal, Celestial, Common, Draconic, Infernal; telepathy 100 ft.
 
@@ -492,7 +492,7 @@ Special Abilities
 
 **Deflect Rays (Su)** Once per round as an immediate action, a sepid can use its Deflect Arrows feat to deflect a ray or a spell that uses a ranged touch attack.
 
-**Rain of Debris (Su)** Three times per day as a standard action, a sepid can call forth a hail of stones, wood, metal, and similar debris. The debris rains down and pelts all creatures in a 10-foot-high, 40-foot-radius cylinder centered on the sepid, dealing 15d6 points of bludgeoning damage (Reflex DC 25 for half. This attack does not harm the sepid, and counts as an [evil](monster_dir/creatureTypes#_evil-subtype attack for the purpose of [damage reduction](monster_dir/universalMonsterRules#_damage-reduction-(ex-or-su). The save DC is Constitution-based.
+**Rain of Debris (Su)** Three times per day as a standard action, a sepid can call forth a hail of stones, wood, metal, and similar debris. The debris rains down and pelts all creatures in a 10-foot-high, 40-foot-radius cylinder centered on the sepid, dealing 15d6 points of bludgeoning damage (Reflex DC 25 for half). This attack does not harm the sepid, and counts as an [evil](monsters/creatureTypes#_evil-subtype) attack for the purpose of [damage reduction](monster_dir/universalMonsterRules#_damage-reduction-(ex-or-su)). The save DC is Constitution-based.
 
 Warlords among the divs, sepids spread fear, slaughter, and despair wherever they pass. They foster battles, incite rebellions, and seek heroes to slay, destroying all that which gives common people hope. With their falchions in hand, sepids often stand at the fore of the foul legions they raise.
 
@@ -508,37 +508,37 @@ Shira CR 12
 
 XP 19,200
 
-NE Large outsider ( [div](monster_dir/creatureTypes#_div-subtype, [evil](monster_dir/creatureTypes#_evil-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+NE Large outsider ( [div](monsters/creatureTypes#_div-subtype), [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
 
-**Init** +11; **Senses** darkvision 60 ft., see in darkness, _ [true seeing](spell_dir/trueSeeing#_true-seeing_; [Perception](skill_dir/perception#_perception) +21
+**Init** +11; **Senses** darkvision 60 ft., see in darkness, _ [true seeing](spell_dir/trueSeeing#_true-seeing)_; [Perception](skills/perception#_perception) +21
 
 Defense
 
 **AC** 27, touch 16, flat-footed 20 (+7 Dex, +11 natural, –1 size)
 
-**hp** 150 (12d10+84
+**hp** 150 (12d10+84)
 
 **Fort** +11, **Ref** +15, **Will** +14
 
-**DR** 10/cold iron and [good](monster_dir/creatureTypes#_good-subtype; **Immune** [fire](monster_dir/creatureTypes#_fire-subtype, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su); **Resist** acid 10, electricity 10; **SR** 23
+**DR** 10/cold iron and [good](monster_dir/creatureTypes#_good-subtype); **Immune** [fire](monsters/creatureTypes#_fire-subtype), [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, electricity 10; **SR** 23
 
 Offense
 
 **Speed** 50 ft.
 
-**Melee** bite +21 (1d8+9/19–20), 2 claws +21 (1d8+9 plus [grab](monster_dir/universalMonsterRules#_grab)
+**Melee** bite +21 (1d8+9/19–20), 2 claws +21 (1d8+9 plus [grab](monster_dir/universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** consume essence, dusty pelt, [rake](monster_dir/universalMonsterRules#_rake) (2 claws +21, 1d8+9)
+**Special Attacks** consume essence, dusty pelt, [rake](monsters/universalMonsterRules#_rake) (2 claws +21, 1d8+9)
 
-**Spell-Like Abilities** (CL 13th; concentration +18
+**Spell-Like Abilities** (CL 13th; concentration +18)
 
-Constant—_ [true seeing](spell_dir/trueSeeing#_true-seeing_
+Constant—_ [true seeing](spell_dir/trueSeeing#_true-seeing)_
 
-At will—_ [greater teleport](spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only
+At will—_ [greater teleport](spells/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
 
-3/day—_ [magic circle against good](spell_dir/magicCircleAgainstGood#_magic-circle-against-good_, _ [waves of fatigue](spell_dir/wavesOfFatigue#_waves-of-fatigue_
+3/day—_ [magic circle against good](spell_dir/magicCircleAgainstGood#_magic-circle-against-good)_, _ [waves of fatigue](spells/wavesOfFatigue#_waves-of-fatigue)_
 
 1/day—summon (level 5, 1d2 pairakas or 1 shira 35%)
 
@@ -550,7 +550,7 @@ Statistics
 
 **Feats** [Improved Critical](feats#_improved-critical) (bite), [Improved Initiative](feats#_improved-initiative), [Power Attack](feats#_power-attack), [Run](feats#_run), [Weapon Focus](feats#_weapon-focus) (claw), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +22 (+30 when jumping, [Bluff](skill_dir/bluff#_bluff +20, [Climb](skill_dir/climb#_climb +24, [Intimidate](skill_dir/intimidate#_intimidate +20, [Perception](skill_dir/perception#_perception +21, [Stealth](skill_dir/stealth#_stealth +18, [Survival](skill_dir/survival#_survival) +21
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +22 (+30 when jumping), [Bluff](skills/bluff#_bluff) +20, [Climb](skill_dir/climb#_climb) +24, [Intimidate](skills/intimidate#_intimidate) +20, [Perception](skill_dir/perception#_perception) +21, [Stealth](skills/stealth#_stealth) +18, [Survival](skill_dir/survival#_survival) +21
 
 **Languages** Abyssal, Celestial, Infernal; telepathy 100 ft.
 
@@ -566,7 +566,7 @@ Special Abilities
 
 **Consume Essence (Su)** A shira's deadliest attacks drain away a portion of its victim's essence. Whenever a shira hits with a coup de grace attack using its bite, or confirms a critical hit with its claws or bite, the target must succeed at a DC 23 Fortitude save or take 1d4 points of Constitution drain. The save is Constitution-based.
 
-**Dusty Pelt (Ex)** A shira collects and produces copious amounts of dust and ash within the coarse hairs of its furry hide. As a move action, it can shake itself, creating a cloud of dust that fills its space, providing it concealment. Any attack that deals at least 10 points of bludgeoning, piercing, or slashing damage to the shira (before DR automatically activates this ability. The dust cloud lasts for 1 round. A light wind disperses this cloud immediately.
+**Dusty Pelt (Ex)** A shira collects and produces copious amounts of dust and ash within the coarse hairs of its furry hide. As a move action, it can shake itself, creating a cloud of dust that fills its space, providing it concealment. Any attack that deals at least 10 points of bludgeoning, piercing, or slashing damage to the shira (before DR) automatically activates this ability. The dust cloud lasts for 1 round. A light wind disperses this cloud immediately.
 
 Bestial stalkers, shiras live to hunt and feed. Resembling anthropomorphic lionesses, these divs use their powerful builds, keen senses, and deadly instincts to track the proudest mortals and slay the most formidable foes. They embody the deadly nature of the wilds and the dispassion with which beast and land might turn against mortals, delighting in proving to civilized beings how small and helpless they are in the face of a savage world.
 

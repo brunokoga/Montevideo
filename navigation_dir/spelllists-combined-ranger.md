@@ -1,171 +1,171 @@
 ---
-title: navigation/spelllists-combined-ranger
+title: navigatio_dir/spelllists-combined-ranger
 ---
-- [**Abundant Ammunition**](ultimateCombat/spell_dir/abundantAmmunition#_abundant-ammunition
-- [**Air Bubble**](ultimateCombat/spell_dir/airBubble#_air-bubble
-- [**Alarm**](spell_dir/alarm#_alarm
-- [**Animal Messenger**](spell_dir/animalMessenger#_animal-messenger
-- [**Ant Haul**](advanced/spell_dir/antHaul#_ant-haul-
-- [**Anticipate Peril**](ultimateMagic/spell_dir/anticipatePeril#_anticipate-peril
-- [**Aspect of the Falcon**](advanced/spell_dir/aspectOfTheFalcon#_aspect-of-the-falcon
-- [**Blend**](advancedRaceGuide/coreRace_dir/elves#_blend
-- [**Bowstaff**](ultimateCombat/spell_dir/bowstaff#_bowstaff
-- [**Call Animal**](advanced/spell_dir/callAnimal#_call-animal
-- [**Calm Animals**](spell_dir/calmAnimals#_calm-animals
-- [**Charm Animal**](spell_dir/charmAnimal#_charm-animal
-- [**Cloak of Shade**](advanced/spell_dir/cloakOfShade#_cloak-of-shade
-- [**Commune with Birds**](advancedRaceGuide/featuredRace_dir/tengus#_commune-with-birds
-- [**Compel Hostility**](ultimateCombat/spell_dir/compelHostility#_compel-hostility
-- [**Dancing Lantern**](advanced/spell_dir/dancingLantern#_dancing-lantern-
-- [**Deadeye's Lore**](ultimateCombat/spell_dir/deadeyeSLore#_deadeye's-lore
-- [**Delay Poison**](spell_dir/delayPoison#_delay-poison
-- [**Detect Aberration**](advanced/spell_dir/detectAberration#_detect-aberration
-- [**Detect Animals or Plants**](spell_dir/detectAnimalsOrPlants#_detect-animals-or-plants
-- [**Detect Poison**](spell_dir/detectPoison#_detect-poison
-- [**Detect Snares and Pits**](spell_dir/detectSnaresAndPits#_detect-snares-and-pits
-- [**Diagnose Disease**](ultimateMagic/spell_dir/diagnoseDisease#_diagnose-disease
-- [**Endure Elements**](spell_dir/endureElements#_endure-elements
-- [**Entangle**](spell_dir/entangle#_entangle
-- [**Feather Step**](advanced/spell_dir/featherStep#_feather-step
-- [**Glide**](advanced/spell_dir/glide#_glide-
-- [**Gravity Bow**](advanced/spell_dir/gravityBow#_gravity-bow-
-- [**Hide from Animals**](spell_dir/hideFromAnimals#_hide-from-animals
-- [**Horn of Pursuit**](ultimateMagic/spell_dir/hornOfPursuit#_horn-of-pursuit
-- [**Hunter's Howl**](advanced/spell_dir/hunterSHowl#_hunter's-howl
-- [**Ironbeard**](advancedRaceGuide/coreRace_dir/dwarves#_ironbeard
-- [**Jump**](spell_dir/jump#_jump
-- [**Keen Senses**](advanced/spell_dir/keenSenses#_keen-senses
-- [**Know the Enemy**](ultimateMagic/spell_dir/knowTheEnemy#_know-the-enemy
-- [**Lead Blades**](advanced/spell_dir/leadBlades#_lead-blades-
-- [**Liberating Command**](ultimateCombat/spell_dir/liberatingCommand#_liberating-command
-- [**Linebreaker**](advancedRaceGuide/coreRace_dir/halfOrcs#_linebreaker
-- [**Longshot**](ultimateCombat/spell_dir/longshot#_longshot
-- [**Longstrider**](spell_dir/longstrider#_longstrider
-- [**Magic Fang**](spell_dir/magicFang#_magic-fang
-- [**Marid's Mastery**](advancedRaceGuide/featuredRace_dir/undines#_marid's-mastery
-- [**Negate Aroma**](advanced/spell_dir/negateAroma#_negate-aroma
-- [**Pass without Trace**](spell_dir/passWithoutTrace#_pass-without-trace
-- [**Read Magic**](spell_dir/readMagic#_read-magic
-- [**Residual Tracking**](advanced/spell_dir/residualTracking#_residual-tracking
-- [**Resist Energy**](spell_dir/resistEnergy#_resist-energy
-- [**Returning Weapon**](ultimateCombat/spell_dir/returningWeapon#_returning-weapon
-- [**Savage Maw**](advancedRaceGuide/coreRace_dir/halfOrcs#_savage-maw
-- [**Speak with Animals**](spell_dir/speakWithAnimals#_speak-with-animals
-- [**Strong Wings**](advancedRaceGuide/uncommonRace_dir/strix#_strong-wings
-- [**Summon Minor Ally**](ultimateMagic/spell_dir/summonMinorAlly#_summon-minor-ally
-- [**Summon Nature's Ally I**](spell_dir/summonNatureSAlly#_summon-nature-s-ally-i
-- [**Sun Metal**](ultimateCombat/spell_dir/sunMetal#_sun-metal
-- [**Tireless Pursuit**](advanced/spell_dir/tirelessPursuit#_tireless-pursuit
-- [**Urban Grace**](advancedRaceGuide/coreRace_dir/halfElves#_urban-grace
-- [**Wartrain Mount**](ultimateMagic/spell_dir/wartrainMount#_wartrain-mount
-- [**Whispering Lore**](advancedRaceGuide/coreRace_dir/elves#_whispering-lore
-- [**Winter Feathers**](advancedRaceGuide/featuredRace_dir/tengus#_winter-feathers
+- [**Abundant Ammunition**](ultimateCombat/spell_dir/abundantAmmunition#_abundant-ammunition)
+- [**Air Bubble**](ultimateCombat/spell_dir/airBubble#_air-bubble)
+- [**Alarm**](spells/alarm#_alarm)
+- [**Animal Messenger**](spell_dir/animalMessenger#_animal-messenger)
+- [**Ant Haul**](advanced/spell_dir/antHaul#_ant-haul-)
+- [**Anticipate Peril**](ultimateMagic/spell_dir/anticipatePeril#_anticipate-peril)
+- [**Aspect of the Falcon**](advanced/spell_dir/aspectOfTheFalcon#_aspect-of-the-falcon)
+- [**Blend**](advancedRaceGuide/coreRace_dir/elves#_blend)
+- [**Bowstaff**](ultimateCombat/spell_dir/bowstaff#_bowstaff)
+- [**Call Animal**](advanced/spell_dir/callAnimal#_call-animal)
+- [**Calm Animals**](spells/calmAnimals#_calm-animals)
+- [**Charm Animal**](spell_dir/charmAnimal#_charm-animal)
+- [**Cloak of Shade**](advanced/spell_dir/cloakOfShade#_cloak-of-shade)
+- [**Commune with Birds**](advancedRaceGuide/featuredRace_dir/tengus#_commune-with-birds)
+- [**Compel Hostility**](ultimateCombat/spell_dir/compelHostility#_compel-hostility)
+- [**Dancing Lantern**](advanced/spell_dir/dancingLantern#_dancing-lantern-)
+- [**Deadeye's Lore**](ultimateCombat/spell_dir/deadeyeSLore#_deadeye's-lore)
+- [**Delay Poison**](spells/delayPoison#_delay-poison)
+- [**Detect Aberration**](advance_dir/spells/detectAberration#_detect-aberration)
+- [**Detect Animals or Plants**](spell_dir/detectAnimalsOrPlants#_detect-animals-or-plants)
+- [**Detect Poison**](spells/detectPoison#_detect-poison)
+- [**Detect Snares and Pits**](spell_dir/detectSnaresAndPits#_detect-snares-and-pits)
+- [**Diagnose Disease**](ultimateMagic/spell_dir/diagnoseDisease#_diagnose-disease)
+- [**Endure Elements**](spells/endureElements#_endure-elements)
+- [**Entangle**](spell_dir/entangle#_entangle)
+- [**Feather Step**](advanced/spell_dir/featherStep#_feather-step)
+- [**Glide**](advanced/spell_dir/glide#_glide-)
+- [**Gravity Bow**](advanced/spell_dir/gravityBow#_gravity-bow-)
+- [**Hide from Animals**](spells/hideFromAnimals#_hide-from-animals)
+- [**Horn of Pursuit**](ultimateMagi_dir/spells/hornOfPursuit#_horn-of-pursuit)
+- [**Hunter's Howl**](advance_dir/spells/hunterSHowl#_hunter's-howl)
+- [**Ironbeard**](advancedRaceGuid_dir/coreRaces/dwarves#_ironbeard)
+- [**Jump**](spell_dir/jump#_jump)
+- [**Keen Senses**](advanced/spell_dir/keenSenses#_keen-senses)
+- [**Know the Enemy**](ultimateMagic/spell_dir/knowTheEnemy#_know-the-enemy)
+- [**Lead Blades**](advanced/spell_dir/leadBlades#_lead-blades-)
+- [**Liberating Command**](ultimateCombat/spell_dir/liberatingCommand#_liberating-command)
+- [**Linebreaker**](advancedRaceGuide/coreRace_dir/halfOrcs#_linebreaker)
+- [**Longshot**](ultimateCombat/spell_dir/longshot#_longshot)
+- [**Longstrider**](spells/longstrider#_longstrider)
+- [**Magic Fang**](spell_dir/magicFang#_magic-fang)
+- [**Marid's Mastery**](advancedRaceGuide/featuredRace_dir/undines#_marid's-mastery)
+- [**Negate Aroma**](advanced/spell_dir/negateAroma#_negate-aroma)
+- [**Pass without Trace**](spells/passWithoutTrace#_pass-without-trace)
+- [**Read Magic**](spell_dir/readMagic#_read-magic)
+- [**Residual Tracking**](advanced/spell_dir/residualTracking#_residual-tracking)
+- [**Resist Energy**](spells/resistEnergy#_resist-energy)
+- [**Returning Weapon**](ultimateComba_dir/spells/returningWeapon#_returning-weapon)
+- [**Savage Maw**](advancedRaceGuid_dir/coreRaces/halfOrcs#_savage-maw)
+- [**Speak with Animals**](spell_dir/speakWithAnimals#_speak-with-animals)
+- [**Strong Wings**](advancedRaceGuide/uncommonRace_dir/strix#_strong-wings)
+- [**Summon Minor Ally**](ultimateMagic/spell_dir/summonMinorAlly#_summon-minor-ally)
+- [**Summon Nature's Ally I**](spells/summonNatureSAlly#_summon-nature-s-ally-i)
+- [**Sun Metal**](ultimateComba_dir/spells/sunMetal#_sun-metal)
+- [**Tireless Pursuit**](advance_dir/spells/tirelessPursuit#_tireless-pursuit)
+- [**Urban Grace**](advancedRaceGuid_dir/coreRaces/halfElves#_urban-grace)
+- [**Wartrain Mount**](ultimateMagi_dir/spells/wartrainMount#_wartrain-mount)
+- [**Whispering Lore**](advancedRaceGuid_dir/coreRaces/elves#_whispering-lore)
+- [**Winter Feathers**](advancedRaceGuid_dir/featuredRaces/tengus#_winter-feathers)
 
-- [**Accelerate Poison**](advanced/spell_dir/acceleratePoison#_accelerate-poison
-- [**Acute Senses**](ultimateMagic/spell_dir/acuteSenses#_acute-senses
-- [**Allfood**](advanced/spell_dir/allfood#_allfood-
-- [**Animal Aspect**](ultimateCombat/spell_dir/animalAspect#_animal-aspect
-- [**Ant Haul, Communal**](ultimateCombat/spell_dir/antHaul#_ant-haul,-communal
-- [**Arrow Eruption**](advanced/spell_dir/arrowEruption#_arrow-eruption-
-- [**Aspect of the Bear**](advanced/spell_dir/aspectOfTheBear#_aspect-of-the-bear
-- [**Badger's Ferocity**](ultimateMagic/spell_dir/badgerSFerocity#_badger's-ferocity
-- [**Barkskin**](spell_dir/barkskin#_barkskin
-- [**Bear's Endurance**](spell_dir/bearSEndurance#_bear-s-endurance
-- [**Bloodhound**](advanced/spell_dir/bloodhound#_bloodhound
-- [**Blood Scent**](advancedRaceGuide/featuredRace_dir/orcs#_blood-scent
-- [**Brow Gasher**](ultimateCombat/spell_dir/browGasher#_brow-gasher
-- [**Campfire Wall**](advanced/spell_dir/campfireWall#_campfire-wall-
-- [**Cat's Grace**](spell_dir/catSGrace#_cat-s-grace
-- [**Chameleon Stride**](advanced/spell_dir/chameleonStride#_chameleon-stride
-- [**Create Treasure Map**](advanced/spell_dir/createTreasureMap#_create-treasure-map-
-- [**Cure Light Wounds**](spell_dir/cureLightWounds#_cure-light-wounds
-- [**Delay Disease**](advancedRaceGuide/featuredRace_dir/ratfolk#_delay-disease
-- [**Eagle Eye**](advanced/spell_dir/eagleEye#_eagle-eye
-- [**Effortless Armor**](ultimateCombat/spell_dir/effortlessArmor#_effortless-armor
-- [**Endure Elements, Communal**](ultimateCombat/spell_dir/endureElements#_endure-elements,-communal
-- [**Escaping Ward**](advancedRaceGuide/coreRace_dir/halflings#_escaping-ward
-- [**Forest Friend**](ultimateCombat/spell_dir/forestFriend#_forest-friend-
-- [**Groundswell**](advancedRaceGuide/coreRace_dir/dwarves#_groundswell
-- [**Guiding Star**](advanced/spell_dir/guidingStar#_guiding-star-
-- [**Hide Campsite**](advanced/spell_dir/hideCampsite#_hide-campsite
-- [**Hold Animal**](spell_dir/holdAnimal#_hold-animal
-- [**Hunter's Eye**](advanced/spell_dir/hunterSEye#_hunter's-eye
-- [**Improve Trap**](advancedRaceGuide/featuredRace_dir/kobolds#_improve-trap
-- [**Locate Weakness**](ultimateCombat/spell_dir/locateWeakness#_locate-weakness
-- [**Lockjaw**](advanced/spell_dir/lockjaw#_lockjaw
-- [**Owl's Wisdom**](spell_dir/owlSWisdom#_owl-s-wisdom
-- [**Perceive Cues**](advanced/spell_dir/perceiveCues#_perceive-cues
-- [**Protection from Energy**](spell_dir/protectionFromEnergy#_protection-from-energy
-- [**Protective Spirit**](advanced/spell_dir/protectiveSpirit#_protective-spirit
-- [**Reloading Hands**](ultimateCombat/spell_dir/reloadingHands#_reloading-hands
-- [**Returning Weapon, Communal**](ultimateCombat/spell_dir/returningWeapon#_returning-weapon,-communal
-- [**Ricochet Shot**](ultimateCombat/spell_dir/ricochetShot#_ricochet-shot
-- [**Slipstream**](advanced/spell_dir/slipstream#_slipstream
-- [**Snare**](spell_dir/snare#_snare
-- [**Speak with Plants**](spell_dir/speakWithPlants#_speak-with-plants
-- [**Spike Growth**](spell_dir/spikeGrowth#_spike-growth
-- [**Stone Call**](advanced/spell_dir/stoneCall#_stone-call
-- [**Summon Nature's Ally II**](spell_dir/summonNatureSAlly#_summon-nature-s-ally-ii
-- [**Versatile Weapon**](advanced/spell_dir/versatileWeapon#_versatile-weapon
-- [**Web Shelter**](ultimateMagic/spell_dir/webShelter#_web-shelter
-- [**Wilderness Soldiers**](ultimateCombat/spell_dir/wildernessSoldiers#_wilderness-soldiers
-- [**Wind Wall**](spell_dir/windWall#_wind-wall
+- [**Accelerate Poison**](advance_dir/spells/acceleratePoison#_accelerate-poison)
+- [**Acute Senses**](ultimateMagi_dir/spells/acuteSenses#_acute-senses)
+- [**Allfood**](advance_dir/spells/allfood#_allfood-)
+- [**Animal Aspect**](ultimateComba_dir/spells/animalAspect#_animal-aspect)
+- [**Ant Haul, Communal**](ultimateComba_dir/spells/antHaul#_ant-haul,-communal)
+- [**Arrow Eruption**](advance_dir/spells/arrowEruption#_arrow-eruption-)
+- [**Aspect of the Bear**](advance_dir/spells/aspectOfTheBear#_aspect-of-the-bear)
+- [**Badger's Ferocity**](ultimateMagi_dir/spells/badgerSFerocity#_badger's-ferocity)
+- [**Barkskin**](spell_dir/barkskin#_barkskin)
+- [**Bear's Endurance**](spells/bearSEndurance#_bear-s-endurance)
+- [**Bloodhound**](advance_dir/spells/bloodhound#_bloodhound)
+- [**Blood Scent**](advancedRaceGuid_dir/featuredRaces/orcs#_blood-scent)
+- [**Brow Gasher**](ultimateComba_dir/spells/browGasher#_brow-gasher)
+- [**Campfire Wall**](advance_dir/spells/campfireWall#_campfire-wall-)
+- [**Cat's Grace**](spell_dir/catSGrace#_cat-s-grace)
+- [**Chameleon Stride**](advanced/spell_dir/chameleonStride#_chameleon-stride)
+- [**Create Treasure Map**](advanced/spell_dir/createTreasureMap#_create-treasure-map-)
+- [**Cure Light Wounds**](spells/cureLightWounds#_cure-light-wounds)
+- [**Delay Disease**](advancedRaceGuid_dir/featuredRaces/ratfolk#_delay-disease)
+- [**Eagle Eye**](advance_dir/spells/eagleEye#_eagle-eye)
+- [**Effortless Armor**](ultimateComba_dir/spells/effortlessArmor#_effortless-armor)
+- [**Endure Elements, Communal**](ultimateComba_dir/spells/endureElements#_endure-elements,-communal)
+- [**Escaping Ward**](advancedRaceGuid_dir/coreRaces/halflings#_escaping-ward)
+- [**Forest Friend**](ultimateComba_dir/spells/forestFriend#_forest-friend-)
+- [**Groundswell**](advancedRaceGuid_dir/coreRaces/dwarves#_groundswell)
+- [**Guiding Star**](advance_dir/spells/guidingStar#_guiding-star-)
+- [**Hide Campsite**](advance_dir/spells/hideCampsite#_hide-campsite)
+- [**Hold Animal**](spell_dir/holdAnimal#_hold-animal)
+- [**Hunter's Eye**](advanced/spell_dir/hunterSEye#_hunter's-eye)
+- [**Improve Trap**](advancedRaceGuide/featuredRace_dir/kobolds#_improve-trap)
+- [**Locate Weakness**](ultimateCombat/spell_dir/locateWeakness#_locate-weakness)
+- [**Lockjaw**](advanced/spell_dir/lockjaw#_lockjaw)
+- [**Owl's Wisdom**](spells/owlSWisdom#_owl-s-wisdom)
+- [**Perceive Cues**](advance_dir/spells/perceiveCues#_perceive-cues)
+- [**Protection from Energy**](spell_dir/protectionFromEnergy#_protection-from-energy)
+- [**Protective Spirit**](advanced/spell_dir/protectiveSpirit#_protective-spirit)
+- [**Reloading Hands**](ultimateCombat/spell_dir/reloadingHands#_reloading-hands)
+- [**Returning Weapon, Communal**](ultimateCombat/spell_dir/returningWeapon#_returning-weapon,-communal)
+- [**Ricochet Shot**](ultimateCombat/spell_dir/ricochetShot#_ricochet-shot)
+- [**Slipstream**](advanced/spell_dir/slipstream#_slipstream)
+- [**Snare**](spells/snare#_snare)
+- [**Speak with Plants**](spell_dir/speakWithPlants#_speak-with-plants)
+- [**Spike Growth**](spells/spikeGrowth#_spike-growth)
+- [**Stone Call**](advance_dir/spells/stoneCall#_stone-call)
+- [**Summon Nature's Ally II**](spell_dir/summonNatureSAlly#_summon-nature-s-ally-ii)
+- [**Versatile Weapon**](advanced/spell_dir/versatileWeapon#_versatile-weapon)
+- [**Web Shelter**](ultimateMagic/spell_dir/webShelter#_web-shelter)
+- [**Wilderness Soldiers**](ultimateCombat/spell_dir/wildernessSoldiers#_wilderness-soldiers)
+- [**Wind Wall**](spells/windWall#_wind-wall)
 
-- [**Animal Aspect, Greater**](ultimateCombat/spell_dir/animalAspect#_animal-aspect,-greater
-- [**Aspect of the Stag**](advanced/spell_dir/aspectOfTheStag#_aspect-of-the-stag
-- [**Battle Trance**](advancedRaceGuide/coreRace_dir/halfOrcs#_battle-trance
-- [**Blessing of the Mole**](ultimateMagic/spell_dir/blessingOfTheMole#_blessing-of-the-mole
-- [**Bloody Claws**](advanced/spell_dir/bloodyClaws#_bloody-claws
-- [**Burrow**](ultimateMagic/spell_dir/burrow#_burrow
-- [**Burst of Speed**](ultimateCombat/spell_dir/burstOfSpeed#_burst-of-speed
-- [**Cloak of Winds**](advanced/spell_dir/cloakOfWinds#_cloak-of-winds
-- [**Command Plants**](spell_dir/commandPlants#_command-plants
-- [**Companion Mind Link**](ultimateCombat/spell_dir/companionMindLink#_companion-mind-link
-- [**Cure Moderate Wounds**](spell_dir/cureModerateWounds#_cure-moderate-wounds
-- [**Darkvision**](spell_dir/darkvision#_darkvision
-- [**Delay Poison, Communal**](ultimateCombat/spell_dir/delayPoison#_delay-poison,-communal
-- [**Diminish Plants**](spell_dir/diminishPlants#_diminish-plants
-- [**Feather Step, Mass**](advanced/spell_dir/featherStep#_feather-step,-mass
-- [**Fickle Winds**](ultimateMagic/spell_dir/fickleWinds#_fickle-winds
-- [**Instant Enemy**](advanced/spell_dir/instantEnemy#_instant-enemy
-- [**Life Bubble**](advanced/spell_dir/lifeBubble#_life-bubble-
-- [**Magic Fang, Greater**](spell_dir/magicFang#_magic-fang-greater
-- [**Named Bullet**](ultimateCombat/spell_dir/namedBullet#_named-bullet
-- [**Neutralize Poison**](spell_dir/neutralizePoison#_neutralize-poison
-- [**Plant Growth**](spell_dir/plantGrowth#_plant-growth
-- [**Protection from Energy, Communal**](ultimateCombat/spell_dir/protectionFromEnergy#_protection-from-energy,-communal
-- [**Reduce Animal**](spell_dir/reduceAnimal#_reduce-animal
-- [**Remove Disease**](spell_dir/removeDisease#_remove-disease
-- [**Repel Vermin**](spell_dir/repelVermin#_repel-vermin
-- [**Resist Energy, Communal**](ultimateCombat/spell_dir/resistEnergy#_resist-energy,-communal
-- [**Strong Jaw**](advanced/spell_dir/strongJaw#_strong-jaw
-- [**Summon Nature's Ally III**](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iii
-- [**Tireless Pursuers**](advanced/spell_dir/tirelessPursuers#_tireless-pursuers
-- [**Tree Shape**](spell_dir/treeShape#_tree-shape
-- [**Venomous Bolt**](advanced/spell_dir/venomousBolt#_venomous-bolt
-- [**Ward of the Season**](advancedRaceGuide/coreRace_dir/elves#_ward-of-the-season
-- [**Water Walk**](spell_dir/waterWalk#_water-walk
+- [**Animal Aspect, Greater**](ultimateComba_dir/spells/animalAspect#_animal-aspect,-greater)
+- [**Aspect of the Stag**](advance_dir/spells/aspectOfTheStag#_aspect-of-the-stag)
+- [**Battle Trance**](advancedRaceGuid_dir/coreRaces/halfOrcs#_battle-trance)
+- [**Blessing of the Mole**](ultimateMagi_dir/spells/blessingOfTheMole#_blessing-of-the-mole)
+- [**Bloody Claws**](advance_dir/spells/bloodyClaws#_bloody-claws)
+- [**Burrow**](ultimateMagi_dir/spells/burrow#_burrow)
+- [**Burst of Speed**](ultimateComba_dir/spells/burstOfSpeed#_burst-of-speed)
+- [**Cloak of Winds**](advance_dir/spells/cloakOfWinds#_cloak-of-winds)
+- [**Command Plants**](spell_dir/commandPlants#_command-plants)
+- [**Companion Mind Link**](ultimateCombat/spell_dir/companionMindLink#_companion-mind-link)
+- [**Cure Moderate Wounds**](spells/cureModerateWounds#_cure-moderate-wounds)
+- [**Darkvision**](spell_dir/darkvision#_darkvision)
+- [**Delay Poison, Communal**](ultimateCombat/spell_dir/delayPoison#_delay-poison,-communal)
+- [**Diminish Plants**](spells/diminishPlants#_diminish-plants)
+- [**Feather Step, Mass**](advance_dir/spells/featherStep#_feather-step,-mass)
+- [**Fickle Winds**](ultimateMagi_dir/spells/fickleWinds#_fickle-winds)
+- [**Instant Enemy**](advance_dir/spells/instantEnemy#_instant-enemy)
+- [**Life Bubble**](advance_dir/spells/lifeBubble#_life-bubble-)
+- [**Magic Fang, Greater**](spell_dir/magicFang#_magic-fang-greater)
+- [**Named Bullet**](ultimateCombat/spell_dir/namedBullet#_named-bullet)
+- [**Neutralize Poison**](spells/neutralizePoison#_neutralize-poison)
+- [**Plant Growth**](spell_dir/plantGrowth#_plant-growth)
+- [**Protection from Energy, Communal**](ultimateCombat/spell_dir/protectionFromEnergy#_protection-from-energy,-communal)
+- [**Reduce Animal**](spells/reduceAnimal#_reduce-animal)
+- [**Remove Disease**](spell_dir/removeDisease#_remove-disease)
+- [**Repel Vermin**](spells/repelVermin#_repel-vermin)
+- [**Resist Energy, Communal**](ultimateComba_dir/spells/resistEnergy#_resist-energy,-communal)
+- [**Strong Jaw**](advance_dir/spells/strongJaw#_strong-jaw)
+- [**Summon Nature's Ally III**](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iii)
+- [**Tireless Pursuers**](advanced/spell_dir/tirelessPursuers#_tireless-pursuers)
+- [**Tree Shape**](spells/treeShape#_tree-shape)
+- [**Venomous Bolt**](advance_dir/spells/venomousBolt#_venomous-bolt)
+- [**Ward of the Season**](advancedRaceGuid_dir/coreRaces/elves#_ward-of-the-season)
+- [**Water Walk**](spell_dir/waterWalk#_water-walk)
 
-- [**Animal Growth**](spell_dir/animalGrowth#_animal-growth
-- [**Aspect of the Wolf**](advanced/spell_dir/aspectOfTheWolf#_aspect-of-the-wolf
-- [**Blessing of the Salamander**](advanced/spell_dir/blessingOfTheSalamander#_blessing-of-the-salamander
-- [**Bow Spirit**](advanced/spell_dir/bowSpirit#_bow-spirit
-- [**Cloud Shape**](advancedRaceGuide/featuredRace_dir/sylphs#_cloud-shape
-- [**Commune with Nature**](spell_dir/communeWithNature#_commune-with-nature
-- [**Cure Serious Wounds**](spell_dir/cureSeriousWounds#_cure-serious-wounds
-- [**Darkvision, Communal**](ultimateCombat/spell_dir/darkvision#_darkvision,-communal
-- [**Darkvision, Greater**](ultimateMagic/spell_dir/darkvision#_darkvision,-greater
-- [**Find Quarry**](ultimateCombat/spell_dir/findQuarry#_find-quarry
-- [**Freedom of Movement**](spell_dir/freedomOfMovement#_freedom-of-movement
-- [**Grove of Respite**](advanced/spell_dir/groveOfRespite#_grove-of-respite
-- [**Named Bullet, Greater**](ultimateCombat/spell_dir/namedBullet#_named-bullet,-greater
-- [**Nondetection**](spell_dir/nondetection#_nondetection
-- [**Raise Animal Companion**](ultimateMagic/spell_dir/raiseAnimalCompanion#_raise-animal-companion
-- [**Sickening Strikes**](advancedRaceGuide/featuredRace_dir/ratfolk#_sickening-strikes
-- [**Summon Nature's Ally IV**](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iv
-- [**Terrain Bond**](ultimateCombat/spell_dir/terrainBond#_terrain-bond
-- [**Tree Stride**](spell_dir/treeStride#_tree-stride
-- [**Water Walk, Communal**](ultimateCombat/spell_dir/waterWalk#_water-walk,-communal
+- [**Animal Growth**](spells/animalGrowth#_animal-growth)
+- [**Aspect of the Wolf**](advance_dir/spells/aspectOfTheWolf#_aspect-of-the-wolf)
+- [**Blessing of the Salamander**](advance_dir/spells/blessingOfTheSalamander#_blessing-of-the-salamander)
+- [**Bow Spirit**](advance_dir/spells/bowSpirit#_bow-spirit)
+- [**Cloud Shape**](advancedRaceGuid_dir/featuredRaces/sylphs#_cloud-shape)
+- [**Commune with Nature**](spell_dir/communeWithNature#_commune-with-nature)
+- [**Cure Serious Wounds**](spells/cureSeriousWounds#_cure-serious-wounds)
+- [**Darkvision, Communal**](ultimateComba_dir/spells/darkvision#_darkvision,-communal)
+- [**Darkvision, Greater**](ultimateMagi_dir/spells/darkvision#_darkvision,-greater)
+- [**Find Quarry**](ultimateComba_dir/spells/findQuarry#_find-quarry)
+- [**Freedom of Movement**](spell_dir/freedomOfMovement#_freedom-of-movement)
+- [**Grove of Respite**](advanced/spell_dir/groveOfRespite#_grove-of-respite)
+- [**Named Bullet, Greater**](ultimateCombat/spell_dir/namedBullet#_named-bullet,-greater)
+- [**Nondetection**](spells/nondetection#_nondetection)
+- [**Raise Animal Companion**](ultimateMagi_dir/spells/raiseAnimalCompanion#_raise-animal-companion)
+- [**Sickening Strikes**](advancedRaceGuid_dir/featuredRaces/ratfolk#_sickening-strikes)
+- [**Summon Nature's Ally IV**](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iv)
+- [**Terrain Bond**](ultimateCombat/spell_dir/terrainBond#_terrain-bond)
+- [**Tree Stride**](spells/treeStride#_tree-stride)
+- [**Water Walk, Communal**](ultimateComba_dir/spells/waterWalk#_water-walk,-communal)
 
 - 1st Level
 - 2nd Level

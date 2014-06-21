@@ -9,7 +9,7 @@ _This blue shark's fins slice through the water, its black eyes rolling and its 
 
 **XP 600**
 
-N Large [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subtype)
+N Large [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subtype))
 
 **Init** +5; **Senses** blindsense 30 ft., keen scent; [Perception](../skill_dir/perception#_perception) +8
 
@@ -25,7 +25,7 @@ N Large [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subty
 
 **Speed** swim 60 ft.
 
-**Melee** bite +5 (1d8+4
+**Melee** bite +5 (1d8+4)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
@@ -37,7 +37,7 @@ N Large [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subty
 
 **Feats** [Great Fortitude](../feats#_great-fortitude), [Improved Initiative](../feats#_improved-initiative)
 
-**Skills** [Perception](../skill_dir/perception#_perception +8, [Swim](../skill_dir/swim#_swim) +11
+**Skills** [Perception](../skill_dir/perception#_perception) +8, [Swim](../skill_dir/swim#_swim) +11
 
 **Ecology**
 
@@ -69,7 +69,7 @@ _Large as a dragon, this shark's jaws open to reveal a cavernous, tooth-lined gu
 
 **XP 6,400**
 
-N Gargantuan [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subtype)
+N Gargantuan [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subtype))
 
 **Init** +6; **Senses** blindsense 30 ft., keen scent; [Perception](../skill_dir/perception#_perception) +25
 
@@ -77,7 +77,7 @@ N Gargantuan [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-
 
 **AC** 23, touch 8, flat-footed 21 (+2 Dex, +15 natural, –4 size)
 
-**hp** 112 (15d8+45
+**hp** 112 (15d8+45)
 
 **Fort** +14, **Ref** +13, **Will** +8
 
@@ -97,9 +97,9 @@ N Gargantuan [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-
 
 **Base Atk** +11; **CMB** +25 (+29 grapple); **CMD** 37
 
-**Feats** [Bleeding Critical](../feats#_bleeding-critical), [Critical Focus](../feats#_critical-focus), [Great Fortitude](../feats#_great-fortitude), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Bleeding Critical](../feats#_bleeding-critical), [Critical Focus](../feats#_critical-focus), [Great Fortitude](../feats#_great-fortitude), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception +25, [Swim](../skill_dir/swim#_swim +18
+**Skills** [Perception](../skill_dir/perception#_perception) +25, [Swim](../skill_dir/swim#_swim) +18
 
 **Ecology**
 

@@ -1,9 +1,9 @@
 ---
-title: advanced/spell_dir/jesterSJaunt
+title: advance_dir/spells/jesterSJaunt
 ---
  **Jester's Jaunt**
 
-**School** conjuration (teleportation; **Level** bard 3
+**School** conjuration (teleportation); **Level** bard 3
 
 **Casting Time** 1 standard action
 

@@ -1,5 +1,5 @@
 ---
-title: spells/unholyBlight
+title: spell_dir/unholyBlight
 ---
  **Unholy Blight**
 

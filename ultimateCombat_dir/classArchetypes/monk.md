@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/classArchetype_dir/monk
+title: ultimateComba_dir/classArchetypes/monk
 ---
 # Monk
 
@@ -9,9 +9,9 @@ Most monks are mystic warriors, steeped in monastic traditions that fuse _ki_ wi
 
 The flowing monk is the wind and the river. He knows how the world flows, and forces his enemies to flow with it. Even the most powerful stone breaks under the graceful and persistent pressure of wind and water.
 
-**Bonus Feat** : A flowing monk replaces the normal monk bonus feats with the following: [Agile Maneuvers](feats#_agile-maneuvers), [Combat Reflexes](feats#_combat-reflexes), [Deflect Arrows](feats#_deflect-arrows), [Dodge](feats#_dodge, [Improved Reposition](advance_dir/advancedFeats#_improved-reposition-(combat)), [Improved Trip](feats#_improved-trip), [Nimble Moves](feats#_nimble-moves), and [Weapon Finesse](feats#_weapon-finesse). At 6th level, the following feats are also available: [Acrobatic Steps](feats#_acrobatic-steps, [Bodyguard](advance_dir/advancedFeats#_bodyguard-(combat)), [Improved Disarm](feats#_improved-disarm), [Improved Feint](feats#_improved-feint), _Ki_ Throw, [Mobility](feats#_mobility, [Second Chance](advance_dir/advancedFeats#_second-chance-(combat), and [Sidestep](advance_dir/advancedFeats#_sidestep-(combat). At 10th level, the following feats are added: [In Harm's Way](advance_dir/advancedFeats#_in-harm's-way-(combat), [Repositioning Strike](advance_dir/advancedFeats#_repositioning-strike-(combat)), [Snatch Arrows](feats#_snatch-arrows), [Spring Attack](feats#_spring-attack, and [Tripping Strike](advance_dir/advancedFeats#_tripping-strike-(combat)).
+**Bonus Feat** : A flowing monk replaces the normal monk bonus feats with the following: [Agile Maneuvers](feats#_agile-maneuvers), [Combat Reflexes](feats#_combat-reflexes), [Deflect Arrows](feats#_deflect-arrows), [Dodge](feats#_dodge), [Improved Reposition](advance_dir/advancedFeats#_improved-reposition-(combat)), [Improved Trip](feats#_improved-trip), [Nimble Moves](feats#_nimble-moves), and [Weapon Finesse](feats#_weapon-finesse). At 6th level, the following feats are also available: [Acrobatic Steps](feats#_acrobatic-steps), [Bodyguard](advanced/advancedFeats#_bodyguard-(combat)), [Improved Disarm](feats#_improved-disarm), [Improved Feint](feats#_improved-feint), _Ki_ Throw, [Mobility](feats#_mobility), [Second Chance](advance_dir/advancedFeats#_second-chance-(combat)), and [Sidestep](advanced/advancedFeats#_sidestep-(combat)). At 10th level, the following feats are added: [In Harm's Way](advance_dir/advancedFeats#_in-harm's-way-(combat)), [Repositioning Strike](advanced/advancedFeats#_repositioning-strike-(combat)), [Snatch Arrows](feats#_snatch-arrows), [Spring Attack](feats#_spring-attack), and [Tripping Strike](advance_dir/advancedFeats#_tripping-strike-(combat)).
 
-**Redirection (Ex** : At 1st level, as an immediate action, a flowing monk can attempt a reposition or trip combat maneuver against a creature that the flowing monk threatens and that attacks him. If the combat maneuver is successful, the attacker is sickened for 1 round (Reflex DC = 10 + 1/2 the monk's level + monk's Wisdom modifier to halve the duration), plus 1 additional round at 4th level and for every four levels afterward (to a maximum of 6 rounds at 20th level). The monk gains a +2 bonus on the reposition or trip combat maneuver check and the save DC for redirection increases by 2 if the attacker is using [Power Attack](feats#_power-attack) or is charging when attacking him. The benefit increases to a +4 bonus and an increase of the saving throw by 4 if both apply.
+**Redirection (Ex)** : At 1st level, as an immediate action, a flowing monk can attempt a reposition or trip combat maneuver against a creature that the flowing monk threatens and that attacks him. If the combat maneuver is successful, the attacker is sickened for 1 round (Reflex DC = 10 + 1/2 the monk's level + monk's Wisdom modifier to halve the duration), plus 1 additional round at 4th level and for every four levels afterward (to a maximum of 6 rounds at 20th level). The monk gains a +2 bonus on the reposition or trip combat maneuver check and the save DC for redirection increases by 2 if the attacker is using [Power Attack](feats#_power-attack) or is charging when attacking him. The benefit increases to a +4 bonus and an increase of the saving throw by 4 if both apply.
 
 At 4th level, a flowing monk can use redirection against an opponent that the flowing monk threatens and that attacks an ally with a melee attack. At 8th level, a flowing monk can make both a reposition and a trip maneuver as part of a single immediate action with this ability. At 12th level, a flowing monk can use redirection against any opponent that attacks him in melee, even if the flowing monk is not threatening the opponent who attacks him. A flowing monk can use this ability once per day per monk level, but no more than once per round. This ability replaces stunning fist.
 
@@ -51,9 +51,9 @@ The martial artist pursues a mastery of pure martial arts without the monastic t
 
 **Martial Arts Master (Ex)** : At 4th level, a martial artist may use his monk level to qualify for feats with a fighter level prerequisite when those feats are applied to unarmed strikes or weapons with the monk special quality. This ability replaces slow fall.
 
-**Exploit Weakness (Ex** : At 4th level, as a swift action, a martial artist can observe a creature or object to find its weak point by making a Wisdom check and adding his monk level against a DC of 10 + the object's hardness or the target's CR. If the check succeeds, the martial artist gains a +2 bonus on attack rolls until the end of his turn, and any attacks he makes until the end of his turn ignore the creature or object's DR or hardness.
+**Exploit Weakness (Ex)** : At 4th level, as a swift action, a martial artist can observe a creature or object to find its weak point by making a Wisdom check and adding his monk level against a DC of 10 + the object's hardness or the target's CR. If the check succeeds, the martial artist gains a +2 bonus on attack rolls until the end of his turn, and any attacks he makes until the end of his turn ignore the creature or object's DR or hardness.
 
-A martial artist may instead use this ability as a swift action to analyze the movements and expressions of one creature within 30 feet, granting a bonus on [Sense Motive](skill_dir/senseMotive#_sense-motive checks and Reflex saves and a dodge bonus to AC against that opponent equal to 1/2 his monk level until the start of his next turn.
+A martial artist may instead use this ability as a swift action to analyze the movements and expressions of one creature within 30 feet, granting a bonus on [Sense Motive](skills/senseMotive#_sense-motive) checks and Reflex saves and a dodge bonus to AC against that opponent equal to 1/2 his monk level until the start of his next turn.
 
 This ability replaces _ki_ pool.
 
@@ -73,7 +73,7 @@ This ability replaces _ki_ pool.
 
 The master of many styles is a collector. For every move, he seeks a counter. For every style, he has a riposte. Ultimately, he seeks perfection through the fusion of styles.
 
-**Bonus Feat:** At 1st level, 2nd level, and every four levels thereafter, a master of many styles may select a bonus style feat or the [Elemental Fist](advance_dir/advancedFeats#_elemental-fist-(combat) feat. He does not have to meet the prerequisites of that feat, except the [Elemental Fist](advance_dir/advancedFeats#_elemental-fist-(combat) feat. Alternatively, a master of many styles may choose a feat in that style's feat path (such as [Earth Child Topple](../ultimateCombatFeats#_earth-child-topple-(combat))) as one of these bonus feats if he already has the appropriate style feat (such as Earth Child Style). The master of many styles does not need to meet any other prerequisite of the feat in the style's feat path. This ability replaces a monk's standard bonus feats.
+**Bonus Feat:** At 1st level, 2nd level, and every four levels thereafter, a master of many styles may select a bonus style feat or the [Elemental Fist](advance_dir/advancedFeats#_elemental-fist-(combat)) feat. He does not have to meet the prerequisites of that feat, except the [Elemental Fist](advanced/advancedFeats#_elemental-fist-(combat)) feat. Alternatively, a master of many styles may choose a feat in that style's feat path (such as [Earth Child Topple](../ultimateCombatFeats#_earth-child-topple-(combat))) as one of these bonus feats if he already has the appropriate style feat (such as Earth Child Style). The master of many styles does not need to meet any other prerequisite of the feat in the style's feat path. This ability replaces a monk's standard bonus feats.
 
 **Fuse Style (Ex)** : At 1st level, a master of many styles can fuse two of the styles he knows into a more perfect style. The master of many styles can have two style feat stances active at once. Starting a stance provided by a style feat is still a swift action, but when the master of many styles switches to another style feat, he can choose one style whose stance is already active to persist. He may only have two style feat stances active at a time.
 
@@ -89,7 +89,7 @@ This ability replaces flurry of blows.
 
 The sensei is a revered teacher who imparts lessons on the oneness of mind, body, and spirit, along with occasional correction that is subtle and swift. Rather than using wisdom for his own benefit alone, he uses it to better those around him.
 
-**Skills** : A sensei gains [Diplomacy](skill_dir/diplomacy#_diplomacy, [Linguistics](skill_dir/linguistics#_linguistics, and all [Knowledge](skill_dir/knowledge#_knowledge) skills as class skills.
+**Skills** : A sensei gains [Diplomacy](skill_dir/diplomacy#_diplomacy), [Linguistics](skills/linguistics#_linguistics), and all [Knowledge](skill_dir/knowledge#_knowledge) skills as class skills.
 
 **Advice (Ex)** : A sensei's advice is identical to bardic performance (using oratory), allowing him to inspire courage at 1st level, inspire competence at 3rd level, and inspire greatness at 9th level, as a bard of the sensei's level, usable a total number of rounds per day equal to his level + his Wisdom modifier (minimum 1). This ability replaces flurry of blows, fast movement, and improved evasion.
 
@@ -99,17 +99,17 @@ The sensei is a revered teacher who imparts lessons on the oneness of mind, body
 
 At 12th level, a sensei may instead spend 1 point from his _ki_ pool (as a swift action) while using advice to provide a single ally within 30 feet with evasion, fast movement, high jump, purity of body, or slow fall. At 18th level, a sensei may spend 2 points to grant one of the abilities listed above to all allies within 30 feet, or diamond body, diamond soul, or improved evasion to a single ally within 30 feet. These abilities function at the sensei's level and last 1 round. This ability replaces the bonus feats at 6th, 12th, and 18th level.
 
-## Sohei (Archetype
+## Sohei (Archetype)
 
 The sohei are masters of the horse and the hunt. A monastic soldier, the sohei is equally adept at combat afoot or on horseback. While skilled in unarmed techniques, many sohei favor weapons they can use while mounted on horseback or against others' horses.
 
-**Skills** : A sohei gains [Handle Animal](skill_dir/handleAnimal#_handle-animal) as a class skill.
+**Skills** : A sohei gains [Handle Animal](skills/handleAnimal#_handle-animal) as a class skill.
 
 **Weapon and Armor Proficiency** : A sohei is proficient with all simple and martial weapons and with light armor.
 
 **Bonus Feats** : A sohei may select mounted combat feats as bonus feats.
 
-**Devoted Guardian (Ex** : At 1st level, a sohei can always act in a surprise round even if he does not notice his enemies, though he remains flat-footed until he acts. In addition, a sohei gains a bonus on initiative rolls equal to 1/2 his monk level. At 20th level, a sohei's initiative roll is automatically a natural 20. This ability replaces stunning fist.
+**Devoted Guardian (Ex)** : At 1st level, a sohei can always act in a surprise round even if he does not notice his enemies, though he remains flat-footed until he acts. In addition, a sohei gains a bonus on initiative rolls equal to 1/2 his monk level. At 20th level, a sohei's initiative roll is automatically a natural 20. This ability replaces stunning fist.
 
 **Unarmed Strike** : A sohei's unarmed strike damage does not increase at 4th level and above.
 
@@ -131,9 +131,9 @@ The style of the tetori is that of the majestic wrestler—a warrior with a dizz
 
 **Break Free (Ex)** : At 5th level, a tetori adds his monk level on combat maneuver or [Escape Artist](skill_dir/escapeArtist#_escape-artist) checks made to escape a grapple. If a tetori fails a save against an effect that causes him to become entangled, paralyzed, slowed, or staggered, he may spend 1 point from his _ki_ pool as an immediate action to attempt a new save. This ability replaces high jump.
 
-**Inescapable Grasp (Su** : At 9th level, a tetori can spend 1 point from his _ki_ pool to suppress his opponents' _ [freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement_ and magical bonuses to [Escape Artist](skill_dir/escapeArtist#_escape-artist or on checks to escape a grapple. At 13th level, this ability also duplicates the effect of _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional_. At 17th level, the tetori's unarmed strike gains the _ [ghost touch](magicItem_dir/weapons#_weapons-ghost-touch_ special ability, and an incorporeal creature that he strikes gains the grappled condition (Reflex negates, DC 10 + 1/2 the wrestler's level + his Wisdom modifier). Inescapable grasp is a swift action and lasts until the beginning of the wrestler's next turn. This ability replaces abundant step, improved evasion, timeless body, and tongue of sun and moon.
+**Inescapable Grasp (Su)** : At 9th level, a tetori can spend 1 point from his _ki_ pool to suppress his opponents' _ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement)_ and magical bonuses to [Escape Artist](skill_dir/escapeArtist#_escape-artist) or on checks to escape a grapple. At 13th level, this ability also duplicates the effect of _ [dimensional anchor](spells/dimensionalAnchor#_dimensional)_. At 17th level, the tetori's unarmed strike gains the _ [ghost touch](magicItem_dir/weapons#_weapons-ghost-touch)_ special ability, and an incorporeal creature that he strikes gains the grappled condition (Reflex negates, DC 10 + 1/2 the wrestler's level + his Wisdom modifier). Inescapable grasp is a swift action and lasts until the beginning of the wrestler's next turn. This ability replaces abundant step, improved evasion, timeless body, and tongue of sun and moon.
 
 **Form Lock (Su)** : At 13th level, a tetori can negate a polymorph effect by touch with a Wisdom check, adding a bonus equal to his monk level, against a DC of 11 + the caster level of the effect (or HD of the creature, for supernatural polymorph effects). This is a standard action requiring 2 points from the tetori's _ki_ pool, or an immediate action if a creature the tetori is grappling attempts to use a polymorph effect. This ability replaces diamond soul.
 
-**Iron Body (Su)** : At 19th level, as a move action, a tetori can make his tissues ultra-dense for 1 minute as the _ [iron body](spell_dir/ironBody#_iron-body_ spell by spending 3 points from his _ki _pool. This ability replaces empty body.
+**Iron Body (Su)** : At 19th level, as a move action, a tetori can make his tissues ultra-dense for 1 minute as the _ [iron body](spell_dir/ironBody#_iron-body)_ spell by spending 3 points from his _ki _pool. This ability replaces empty body.
 

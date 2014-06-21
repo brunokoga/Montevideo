@@ -9,25 +9,25 @@ Giant Sea Anemone CR 2
 
 XP 600
 
-N Large vermin ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
+N Large vermin ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +2; **Senses** [blindsight](monster_dir/universalMonsterRules#_blindsight 30 ft.; [Perception](skill_dir/perception#_perception) +0
+**Init** +2; **Senses** [blindsight](monsters/universalMonsterRules#_blindsight) 30 ft.; [Perception](skill_dir/perception#_perception) +0
 
 Defense
 
 **AC** 14, touch 11, flat-footed 12 (+2 Dex, +3 natural, –1 size)
 
-**hp** 34 (4d8+16
+**hp** 34 (4d8+16)
 
 **Fort** +8, **Ref** +3, **Will** +1
 
-**Defensive Abilities** [amorphous](monster_dir/universalMonsterRules#_amorphous; **Immune** [gaze](monster_dir/universalMonsterRules#_gaze attacks, mind-affecting effects, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su), vision-based effects
+**Defensive Abilities** [amorphous](monsters/universalMonsterRules#_amorphous); **Immune** [gaze](monster_dir/universalMonsterRules#_gaze) attacks, mind-affecting effects, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), vision-based effects
 
 Offense
 
 **Speed** 5 ft.
 
-**Melee** tentacles +3 (2d6+1 plus [grab](monster_dir/universalMonsterRules#_grab and [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** tentacles +3 (2d6+1 plus [grab](monster_dir/universalMonsterRules#_grab) and [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -37,9 +37,9 @@ Statistics
 
 **Str** 12, **Dex** 15, **Con** 18, **Int** —, **Wis** 10, **Cha** 2
 
-**Base Atk** +3; **CMB** +5; **CMD** 17 (can't be tripped
+**Base Atk** +3; **CMB** +5; **CMD** 17 (can't be tripped)
 
-**Skills** [Stealth](skill_dir/stealth#_stealth +6; **Racial Modifiers** +8 [Stealth](skill_dir/stealth#_stealth)
+**Skills** [Stealth](skill_dir/stealth#_stealth) +6; **Racial Modifiers** +8 [Stealth](skills/stealth#_stealth)
 
 **SQ** anchored, sightless
 
@@ -53,9 +53,9 @@ Ecology
 
 Special Abilities
 
-**Anchored (Ex** As a full-round action, a [giant](monster_dir/creatureTypes#_giant-subtype) sea anemone can affix itself to a solid surface. While anchored, it cannot move, and it gains a +4 bonus to its CMD on all checks to resist being bull-rushed, dragged, overrun, or repositioned. This bonus increases by +4 for each size category larger the sea anemone is compared to the opponent attempting the maneuver. The creature can unanchor itself as a full-round action.
+**Anchored (Ex)** As a full-round action, a [giant](monster_dir/creatureTypes#_giant-subtype) sea anemone can affix itself to a solid surface. While anchored, it cannot move, and it gains a +4 bonus to its CMD on all checks to resist being bull-rushed, dragged, overrun, or repositioned. This bonus increases by +4 for each size category larger the sea anemone is compared to the opponent attempting the maneuver. The creature can unanchor itself as a full-round action.
 
-**Poison (Ex** Tentacle­—injury; _save_ Fort DC 16; _frequency_   
+**Poison (Ex)** Tentacle­—injury; _save_ Fort DC 16; _frequency_   
 1/round for 6 rounds; _effect_ 1d2 Dex damage; _cure_   
 2 consecutive saves.
 
@@ -67,7 +67,7 @@ Giant sea anemones can move at a slow pace by walking along the projections at t
 
 As mindless creatures, giant sea anemones have no use for treasure, but the remains of prey digested and then expelled often litter the area around these creatures. Massive sea anemones big enough to eat dolphins, whales, or even sea serpents reportedly exist in the deepest parts of the ocean. Called deep tigers for their alternating fronds of black and brilliant orange, these giant sea anemones are said to lair in undersea ruins and sunken ships, where the promise of sought-after treasure conveniently lures in a constant food supply.
 
-Other species of sea anemones exist as well, some smaller but most quite a bit larger and favoring different oceanic regions and depths. You can adjust the stats for the giant sea anemone by changing the Hit Dice and size (adjusting Strength, Dexterity, and Constitution as appropriate to represent a wide range of species. Often, different species have additional abilities, such as the darkforest anemone's constriction attack, or the deep tiger's ability to squirt acid. The following table lists the most common variants.
+Other species of sea anemones exist as well, some smaller but most quite a bit larger and favoring different oceanic regions and depths. You can adjust the stats for the giant sea anemone by changing the Hit Dice and size (adjusting Strength, Dexterity, and Constitution as appropriate) to represent a wide range of species. Often, different species have additional abilities, such as the darkforest anemone's constriction attack, or the deep tiger's ability to squirt acid. The following table lists the most common variants.
 
 [Table: Sea Anemone Species]
 | Species | CR | Size | HD |

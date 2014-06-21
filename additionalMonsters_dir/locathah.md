@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/locathah
+title: additionalMonster_dir/locathah
 ---
 # Locathah
 
@@ -9,15 +9,15 @@ LocathahCR 1/2
 
 **XP 200**
 
-N Medium [humanoid](monster_dir/creatureTypes#_humanoid ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
+N Medium [humanoid](monster_dir/creatureTypes#_humanoid) ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
 
-**Init** +1; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +3
+**Init** +1; **Senses** low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +3
 
 Defense
 
 **AC** 13, touch 11, flat-footed 12 (+1 Dex, +2 natural)
 
-**hp** 9 (2d8
+**hp** 9 (2d8)
 
 **Fort** +3, **Ref** +1, **Will** +1
 
@@ -35,9 +35,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +1; **CMD** 12
 
-**Feats** [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (longspear)
+**Feats** [Weapon Focus](additionalMonster_dir/../feats#_weapon-focus) (longspear)
 
-**Skills** [Craft](additionalMonsters/../skill_dir/craft#_craft) (any one +6, [Perception](additionalMonsters/../skill_dir/perception#_perception +3, [Survival](additionalMonsters/../skill_dir/survival#_survival +6, [Swim](additionalMonsters/../skill_dir/swim#_swim +8
+**Skills** [Craft](additionalMonster_dir/../skill_dir/craft#_craft) (any one) +6, [Perception](additionalMonsters/../skill_dir/perception#_perception) +3, [Survival](additionalMonsters/../skill_dir/survival#_survival) +6, [Swim](additionalMonsters/../skill_dir/swim#_swim) +8
 
 **Languages** Aquan
 
@@ -45,11 +45,11 @@ Statistics
 
 Ecology
 
-**Environment** temperate or warm [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
+**Environment** temperate or warm [aquatic](monsters/creatureTypes#_aquatic-subtype)
 
 **Organization** solitary, band (2–10), or tribe (11–30 plus 2 fighter sergeants of 1st–3rd level and 1 cleric leader of 3rd–6th level)
 
-**Treasure** standard (longspear, light crossbow and 10 bolts, other treasure
+**Treasure** standard (longspear, light crossbow and 10 bolts, other treasure)
 
 Simple aquatic creatures shunned by landwalkers and undersea folk alike, locathahs live in tight-knit communities scattered throughout the world's seas, lakes. and waterways. Locathahs possess scaly ochre skin tinged with green and yellow. Ridged, rust-colored skin covers their chests and stomachs, and a mottled wash of green, brown, and orange colors their fins like aging kelp. Locathahs exude a strong fishy odor when above water that, in addition to their already unnerving appearance, repulses most land-dwellers. Despite this animosity, locathahs go to great lengths to befriend surface folk, offering safe passage through the waters, pointing out dangerous reefs, and hinting at sunken treasures in return for durable ceramics and metal tools and weapons, as well as tubers, which they view as a delicacy.
 

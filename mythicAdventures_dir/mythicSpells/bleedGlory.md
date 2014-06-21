@@ -1,9 +1,9 @@
 ---
-title: mythicAdventures/mythicSpells/bleedGlory
+title: mythicAdventure_dir/mythicSpells/bleedGlory
 ---
 Bleed Glory
 
-**School** necromancy [curse]; **Level** cleric 3, sorcerer/wizard 3, witch 3
+**School** necromancy [curse]; **Level** cleric 3, sorcere_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ Bleed Glory
 
 **Target** one mythic creature
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

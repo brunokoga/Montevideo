@@ -9,7 +9,7 @@ _This dog-sized lizard has two horns, one on either side of its head, and green 
 
 **XP 600**
 
-N Small [magical beast](creatureTypes#_magical-beast
+N Small [magical beast](creatureTypes#_magical-beast)
 
 **Init** +6; **Senses** darkvision 60 ft., electricity sense, low-light vision; [Perception](../skill_dir/perception#_perception) +8
 
@@ -35,11 +35,11 @@ N Small [magical beast](creatureTypes#_magical-beast
 
 **Str** 10, **Dex** 15, **Con** 13, **Int** 2, **Wis** 13, **Cha** 6
 
-**Base Atk** +3; **CMB** +2; **CMD** 14 (18 vs. trip
+**Base Atk** +3; **CMB** +2; **CMD** 14 (18 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth))
 
-**Skills** [Climb](../skill_dir/climb#_climb +8, [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth +17, [Swim](../skill_dir/swim#_swim +8; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception, +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Climb](../skill_dir/climb#_climb) +8, [Perception](../skill_dir/perception#_perception) +8, [Stealth](../skill_dir/stealth#_stealth) +17, [Swim](../skill_dir/swim#_swim) +8; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception), +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -53,7 +53,7 @@ N Small [magical beast](creatureTypes#_magical-beast
 
 **Electricity Sense (Ex)** Shocker lizards automatically detect any electrical discharges within 100 feet.
 
-**Shock (Su)** Shocker lizards can deliver an electrical shock to a single opponent within 5 feet. This attack deals 1d8 points of nonlethal electricity damage to living opponents (Reflex DC 12 half). This save DC is Constitution-based. Additionally, if two or more shocker lizards are within 20 feet of each other, they can work together to create a lethal shock once every 1d4 rounds. This effect has a radius of 20 feet, centered on any one contributing lizard. All creatures within that radius take 2d8 points of lethal electricity damage for each lizard contributing to the shock, to a maximum of 12d8. A Reflex save (DC 10 + the number of lizards contributing halves the damage.
+**Shock (Su)** Shocker lizards can deliver an electrical shock to a single opponent within 5 feet. This attack deals 1d8 points of nonlethal electricity damage to living opponents (Reflex DC 12 half). This save DC is Constitution-based. Additionally, if two or more shocker lizards are within 20 feet of each other, they can work together to create a lethal shock once every 1d4 rounds. This effect has a radius of 20 feet, centered on any one contributing lizard. All creatures within that radius take 2d8 points of lethal electricity damage for each lizard contributing to the shock, to a maximum of 12d8. A Reflex save (DC 10 + the number of lizards contributing) halves the damage.
 
 A shocker lizard has a pale yellow underside, with bright green scales elsewhere on its 3-foot-long body, and weighs about 25 pounds. Shocker lizards tend toward group living, as their electrical abilities grow in power when they are close to another lizard.
 

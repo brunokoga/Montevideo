@@ -9,7 +9,7 @@ _Its slime-drenched length coiled upon itself in a shuddering mountain, this hug
 
 **XP 51,200**
 
-CE Gargantuan [aberration](creatureTypes#_aberration
+CE Gargantuan [aberration](creatureTypes#_aberration)
 
 **Init** +2; **Senses** blindsight 100 ft., trace teleport 60 ft.; [Perception](../skill_dir/perception#_perception) +25
 
@@ -17,7 +17,7 @@ CE Gargantuan [aberration](creatureTypes#_aberration
 
 **AC** 30, touch 4, flat-footed 30 (–2 Dex, +26 natural, –4 size)
 
-**hp** 230 (20d8+140
+**hp** 230 (20d8+140)
 
 **Fort** +15, **Ref** +4, **Will** +16
 
@@ -35,9 +35,9 @@ CE Gargantuan [aberration](creatureTypes#_aberration
 
 **Spell-Like Abilities** (CL 20th)
 
-Constant—_ [fly](../spell_dir/fly_
+Constant—_ [fly](../spell_dir/fly)_
 
-At will—_ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC 17, _ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (DC 19, _clairvoyance/clairaudience, [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 18, _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 20, _ [teleport](../spell_dir/teleport#_teleport, [poison](../spell_dir/poison#_poison)_ (DC 19
+At will—_ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (DC 19), _clairvoyance/clairaudience, [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 18), _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 20), _ [teleport](../spell_dir/teleport#_teleport), [poison](../spell_dir/poison#_poison)_ (DC 19)
 
 3/day—quickened _ [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 18)
 
@@ -45,11 +45,11 @@ At will—_ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC
 
 **Str** 30, **Dex** 7, **Con** 24, **Int** 16, **Wis** 15, **Cha** 21
 
-**Base Atk** +15; **CMB** +29 (+33 grapple); **CMD** 37 (can't be tripped
+**Base Atk** +15; **CMB** +29 (+33 grapple); **CMD** 37 (can't be tripped)
 
-**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (tongue), [Improved Initiative](../feats#_improved-initiative), [Improved Overrun](../feats#_improved-overrun), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [suggestion](../spell_dir/suggestion#_suggestion)_
+**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (tongue), [Improved Initiative](../feats#_improved-initiative), [Improved Overrun](../feats#_improved-overrun), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [suggestion](../spell_dir/suggestion#_suggestion)_)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +25, [Climb](../skill_dir/climb#_climb +33, [Diplomacy](../skill_dir/diplomacy#_diplomacy +25, [Fly](../skill_dir/fly#_fly –4, [Intimidate](../skill_dir/intimidate#_intimidate +28, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana +26, [Perception](../skill_dir/perception#_perception +25, [Spellcraft](../skill_dir/spellcraft#_spellcraft) +26
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +25, [Climb](../skill_dir/climb#_climb) +33, [Diplomacy](../skill_dir/diplomacy#_diplomacy) +25, [Fly](../skill_dir/fly#_fly) –4, [Intimidate](../skill_dir/intimidate#_intimidate) +28, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana) +26, [Perception](../skill_dir/perception#_perception) +25, [Spellcraft](../skill_dir/spellcraft#_spellcraft) +26
 
 **Languages** Aklo, Terran, Undercommon; [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
@@ -67,7 +67,7 @@ At will—_ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC
 
 **Psychic Crush (Su)** As a standard action up to three times a day, a neothelid can attempt to crush the mind of a single creature within 60 feet. The target must make a DC 25 Will save or collapse, becoming unconscious and dying at –1 hit points. If the target succeeds on the save, it takes 6d6 points of damage and is sickened for 1 round. This is a mind-affecting effect. The save DC is Charisma-based.
 
-**Trace Teleport (Ex** A neothelid telepathically and reflexively learns the mental coordinates of the destination, of all creatures that teleport within 60 feet of it, gaining an awareness of the location equivalent to “seen casually.” This knowledge fades and is lost after 1 minute. This power does not grant any environmental information about the conditions of the destination.
+**Trace Teleport (Ex)** A neothelid telepathically and reflexively learns the mental coordinates of the destination, of all creatures that teleport within 60 feet of it, gaining an awareness of the location equivalent to “seen casually.” This knowledge fades and is lost after 1 minute. This power does not grant any environmental information about the conditions of the destination.
 
 Dwelling only in the deepest reaches of the underworld, the immense neothelids once ruled empires in the depths, yet their numbers have been vastly reduced as other races have proven swifter to breed and adapt. Today, the neothelid is a legend, the subject of tales of horror among those few to have experienced the creature's wrath in person and lived to tell about it.
 

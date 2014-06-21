@@ -1,15 +1,15 @@
 ---
-title: ultimateMagic/wordsOfPower/effectword_dir/timeWords
+title: ultimateMagi_dir/wordsOfPower/effectword_dir/timeWords
 ---
 ## Time Words
 
 Spells containing time words alter the flow of time, speeding it up or slowing it down.
 
-Fleet (Time
+Fleet (Time)
 
 **School** transmutation; **Level** druid 1, ranger 1
 
-**Duration** 1 hou_dir/level
+**Duration** 1 hour/level
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -17,11 +17,11 @@ Fleet (Time
 
 The target of a wordspell with this effect word has its base land speed increased by 10 feet for the duration of this effect word.
 
-Dash (Time
+Dash (Time)
 
-**School** transmutation; **Level** alchemist 1, bard 1, inquisitor 1, magus 1, sorcerer/wizard 1, summoner 1
+**School** transmutation; **Level** alchemist 1, bard 1, inquisitor 1, magus 1, sorcere_dir/wizard 1, summoner 1
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -29,11 +29,11 @@ Dash (Time
 
 The target of a wordspell with this effect word has its base land speed increased by 30 feet for the duration of this effect word.
 
-Accelerate (Time
+Accelerate (Time)
 
-**School** transmutation; **Level** alchemist 2, bard 2, magus 2, sorcerer/wizard 2, summoner 2
+**School** transmutation; **Level** alchemist 2, bard 2, magus 2, sorcere_dir/wizard 2, summoner 2
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -43,11 +43,11 @@ The target of a wordspell with this effect word can take one additional move act
 
 **Boost** : If the target takes a full-attack action, it can, instead of taking an extra move action, make one additional attack at its highest attack bonus.
 
-Decelerate (Time
+Decelerate (Time)
 
-**School** transmutation; **Level** bard 2, magus 2, sorcerer/wizard 2, summoner 2
+**School** transmutation; **Level** bard 2, magus 2, sorcere_dir/wizard 2, summoner 2
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -69,7 +69,7 @@ Predict (Time)
 
 The target of a wordspell with this effect word can look into the future of one particular action that will happen within the next hour and determine whether or not it is likely to have good or bad results. This prediction is not guaranteed; there is only a 70% chance of receiving an accurate prediction + 1% per caster level. If this check fails, the results are incorrect. The only information the target receives is “weal” for a good outcome, “woe” for a bad outcome, or both for outcomes that are both good and bad, or that are or neutral in regard to the caster. Additional castings concerning the same course of action always reveal the same results.
 
-Borrow Future (Time
+Borrow Future (Time)
 
 **School** transmutation; **Level** alchemist 4, bard 4, magus 4, sorcere_dir/wizard 4, summoner 4
 
@@ -83,13 +83,13 @@ The target of a wordspell with this effect word takes either a standard action a
 
 **Boost** : Instead of losing its next turn, the target of a wordspell with this effect word is staggered on its next turn.
 
-Control Time (Time
+Control Time (Time)
 
-**School** transmutation; **Level** sorcere_dir/wizard 9
+**School** transmutation; **Level** sorcerer/wizard 9
 
 **Duration** instantaneous
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 **Target Restrictions** _selected_
 

@@ -1,5 +1,5 @@
 ---
-title: spells/controlWeather
+title: spell_dir/controlWeather
 ---
  **Control Weather**
 

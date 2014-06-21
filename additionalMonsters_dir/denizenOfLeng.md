@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/denizenOfLeng
+title: additionalMonster_dir/denizenOfLeng
 ---
 # Denizen of Leng
 
@@ -9,7 +9,7 @@ Denizen of LengCR 8
 
 **XP 4,800**
 
-CE Medium [outsider](monster_dir/creatureTypes#_outsider ( [chaotic](monster_dir/creatureTypes#_chaotic-subtype, [evil](monster_dir/creatureTypes#_evil-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+CE Medium [outsider](monsters/creatureTypes#_outsider) ( [chaotic](monster_dir/creatureTypes#_chaotic-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
 **Init** +4; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +16
 
@@ -17,11 +17,11 @@ Defense
 
 **AC** 21, touch 15, flat-footed 16 (+4 Dex, +1 dodge, +6 natural)
 
-**hp** 95 (10d10+40; planar fast healing 5
+**hp** 95 (10d10+40); planar fast healing 5
 
 **Fort** +11, **Ref** +11, **Will** +6
 
-**Defensive Abilities** [no breath](monster_dir/universalMonsterRules#_no-breath, unusual anatomy; **Immune** [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su); **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 30, electricity 30; **SR** 19
+**Defensive Abilities** [no breath](monsters/universalMonsterRules#_no-breath), unusual anatomy; **Immune** [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters/creatureTypes#_cold-subtype) 30, electricity 30; **SR** 19
 
 Offense
 
@@ -31,13 +31,13 @@ Offense
 
 **Special Attacks** sneak attack +5d6
 
-**Spell-Like Abilities** (CL 10th; concentration +15
+**Spell-Like Abilities** (CL 10th; concentration +15)
 
-Constant—_ [tongues](additionalMonsters/../spell_dir/tongues#_tongues_
+Constant—_ [tongues](additionalMonster_dir/../spell_dir/tongues#_tongues)_
 
-3/day—_ [detect thoughts](additionalMonsters/../spell_dir/detectThoughts#_detect-thoughts)_ (DC 17, _ [hypnotic pattern](additionalMonsters/../spell_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 17, _ [levitate](additionalMonsters/../spell_dir/levitate#_levitate_, _ [minor image](additionalMonsters/../spell_dir/minorImage#_minor-image)_ (DC 17
+3/day—_ [detect thoughts](additionalMonster_dir/../spell_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [hypnotic pattern](additionalMonsters/../spell_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 17), _ [levitate](additionalMonsters/../spell_dir/levitate#_levitate)_, _ [minor image](additionalMonsters/../spell_dir/minorImage#_minor-image)_ (DC 17)
 
-1/day—_ [locate object](additionalMonsters/../spell_dir/locateObject#_locate-object_, _ [plane shift](additionalMonsters/../spell_dir/planeShift#_plane-shift)_ (DC 20, self only
+1/day—_ [locate object](additionalMonster_dir/../spell_dir/locateObject#_locate-object)_, _ [plane shift](additionalMonsters/../spell_dir/planeShift#_plane-shift)_ (DC 20, self only)
 
 Statistics
 
@@ -45,11 +45,11 @@ Statistics
 
 **Base Atk** +10; **CMB** +12; **CMD** 27
 
-**Feats** [Deceitful](additionalMonsters/../feats#_deceitful), [Dodge](additionalMonsters/../feats#_dodge), [Mobility](additionalMonsters/../feats#_mobility), [Persuasive](additionalMonsters/../feats#_persuasive), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Deceitful](additionalMonsters/../feats#_deceitful), [Dodge](additionalMonster_dir/../feats#_dodge), [Mobility](additionalMonster_dir/../feats#_mobility), [Persuasive](additionalMonster_dir/../feats#_persuasive), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
 
-**Skills** [Bluff](additionalMonsters/../skill_dir/bluff#_bluff +22, [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy +7, [Disable Device](additionalMonsters/../skill_dir/disableDevice#_disable-device +14, [Disguise](additionalMonsters/../skill_dir/disguise#_disguise +12 (+16 as [humanoid](monster_dir/creatureTypes#_humanoid), [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +12, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (any one +17, [Perception](additionalMonsters/../skill_dir/perception#_perception +16, [Profession](additionalMonsters/../skill_dir/profession#_profession) (sailor +8, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive +16, [Sleight of Hand](additionalMonsters/../skill_dir/sleightOfHand#_sleight-of-hand +17, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft +12, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +17, [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device +18; **Racial Modifiers** +4 [Disguise](additionalMonsters/../skill_dir/disguise#_disguise when disguised as a Medium [humanoid](monster_dir/creatureTypes#_humanoid
+**Skills** [Bluff](additionalMonster_dir/../skill_dir/bluff#_bluff) +22, [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy) +7, [Disable Device](additionalMonsters/../skill_dir/disableDevice#_disable-device) +14, [Disguise](additionalMonsters/../skill_dir/disguise#_disguise) +12 (+16 as [humanoid](monsters/creatureTypes#_humanoid)), [Intimidate](additionalMonster_dir/../skill_dir/intimidate#_intimidate) +12, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (any one) +17, [Perception](additionalMonsters/../skill_dir/perception#_perception) +16, [Profession](additionalMonsters/../skill_dir/profession#_profession) (sailor) +8, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +16, [Sleight of Hand](additionalMonsters/../skill_dir/sleightOfHand#_sleight-of-hand) +17, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft) +12, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +17, [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device) +18; **Racial Modifiers** +4 [Disguise](additionalMonsters/../skill_dir/disguise#_disguise) when disguised as a Medium [humanoid](monsters/creatureTypes#_humanoid)
 
-**Languages** Aklo; _ [tongues](additionalMonsters/../spell_dir/tongues#_tongues)_
+**Languages** Aklo; _ [tongues](additionalMonster_dir/../spell_dir/tongues#_tongues)_
 
 Ecology
 
@@ -65,7 +65,7 @@ Special Abilities
 
 **Planar Fast Healing (Su)** A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, it has fast healing 5. It loses this ability on Leng or in areas where planar connections do not function. If killed, a denizen's body dissolves into nothingness in 1d4 rounds, leaving behind its equipment. A slain denizen reforms in Leng, similar to a slain summoned creature; it can only be permanently killed if its fast healing is negated.
 
-**Unusual Anatomy (Ex** A denizen's internal anatomy varies from individual to individual, and has a 50% chance to treat any critical hit or sneak attack against it as a normal hit.
+**Unusual Anatomy (Ex)** A denizen's internal anatomy varies from individual to individual, and has a 50% chance to treat any critical hit or sneak attack against it as a normal hit.
 
 These eerie denizens travel the universe from their strange homeland of Leng, walking uncontested only when they disguise themselves as humans by wearing loose-fitting robes and wrappings about the head and face. Under these disguises, they have horned brows, clawed fingers, mouths full of tentacles, and crooked goatish legs with cloven hooves.
 

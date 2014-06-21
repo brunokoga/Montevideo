@@ -1,13 +1,13 @@
 ---
-title: spells/reducePerson
+title: spell_dir/reducePerson
 ---
  **Reduce Person**
 
-**School** transmutation; **Level** sorcere_dir/wizard 1
+**School** transmutation; **Level** sorcerer/wizard 1
 
 **Casting Time** 1 round
 
-**Components** V, S, M (a pinch of powdered iron
+**Components** V, S, M (a pinch of powdered iron)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
@@ -31,7 +31,7 @@ _Reduce person _can be made permanent with a _ [permanency](permanency#_permanen
 
 **Reduce Person, Mass**
 
-**School** transmutation; **Level** sorcerer/wizard 4
+**School** transmutation; **Level** sorcere_dir/wizard 4
 
 **Target** one humanoid creature/level, no two of which can be more than 30 ft. apart
 

@@ -1,5 +1,5 @@
 ---
-title: spells/antimagicField
+title: spell_dir/antimagicField
 ---
  **Antimagic Field**
 

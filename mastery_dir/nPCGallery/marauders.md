@@ -1,5 +1,5 @@
 ---
-title: mastery/nPCGallery/marauders
+title: master_dir/nPCGallery/marauders
 ---
 # Marauders
 
@@ -19,7 +19,7 @@ CN Medium humanoid
 
 **AC** 15, touch 11, flat-footed 12 (+4 armor, +2 Dex, +1 dodge, –2 rage)
 
-**hp** 67 (6d12+28
+**hp** 67 (6d12+28)
 
 **Fort** +9, **Ref** +4, **Will** +5
 
@@ -33,11 +33,11 @@ CN Medium humanoid
 
 **Ranged** mwk composite longbow +9/+4 (1d8+3/×3)
 
-**Special Attacks** rage (16 round_dir/day), rage powers (animal fury, no escape, scent
+**Special Attacks** rage (16 round_dir/day), rage powers (animal fury, no escape, scent)
 
 **Tactics**
 
-**Base Statistics** When not raging, the raider has **AC** 17, touch 13, flat-footed 14; **hp** 55; **Fort** +7, **Will** +3; **Melee** mwk spear +10/+5 (1d8+4/×3) or kukri +9/+4 (1d4+3/18–20); **Str** 17, **Con** 14; **CMB** +9; [Climb](../../skill_dir/climb#_climb +9, [Swim](../../skill_dir/swim#_swim +7
+**Base Statistics** When not raging, the raider has **AC** 17, touch 13, flat-footed 14; **hp** 55; **Fort** +7, **Will** +3; **Melee** mwk spear +10/+5 (1d8+4/×3) or kukri +9/+4 (1d4+3/18–20); **Str** 17, **Con** 14; **CMB** +9; [Climb](../../skill_dir/climb#_climb) +9, [Swim](../../skill_dir/swim#_swim) +7
 
 **Statistics**
 
@@ -47,21 +47,21 @@ CN Medium humanoid
 
 **Feats** [Dodge](../../feats#_dodge), [Mobility](../../feats#_mobility), Point Blank Shot, [Shot on the Run](../../feats#_shot-on-the-run)
 
-**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +11 (+15 jump, [Climb](../../skill_dir/climb#_climb +11, [Intimidate](../../skill_dir/intimidate#_intimidate +8, [Knowledge](../../skill_dir/knowledge#_knowledge) (nature +6, [Perception](../../skill_dir/perception#_perception +8, [Survival](../../skill_dir/survival#_survival +7, [Swim](../../skill_dir/swim#_swim +9
+**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +11 (+15 jump), [Climb](../../skill_dir/climb#_climb) +11, [Intimidate](../../skill_dir/intimidate#_intimidate) +8, [Knowledge](../../skill_dir/knowledge#_knowledge) (nature) +6, [Perception](../../skill_dir/perception#_perception) +8, [Survival](../../skill_dir/survival#_survival) +7, [Swim](../../skill_dir/swim#_swim) +9
 
 **Languages** Common
 
 **SQ** fast movement
 
-**Combat Gear** _oil of [magic weapon](../../spell_dir/magicWeapon#_magic-weapon_, _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_, thunderstone; **Other Gear** _+1 studded leather_, _ [javelin of lightning](../../magicItem_dir/weapons#_javelin-of-lightning), _kukri, masterwork composite longbow (+3 Str with 40 arrows, masterwork spear, 1 gp
+**Combat Gear** _oil of [magic weapon](../../spell_dir/magicWeapon#_magic-weapon)_, _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_, thunderstone; **Other Gear** _+1 studded leather_, _ [javelin of lightning](../../magicItem_dir/weapons#_javelin-of-lightning), _kukri, masterwork composite longbow (+3 Str) with 40 arrows, masterwork spear, 1 gp
 
-**Boon** Raiders can assist the PCs in ascending high mountain peaks, cliffs, or passes, while warning them of dangerous areas and hidden locales (+2 circumstance bonus for 1 week on [Perception](../../skill_dir/perception#_perception and [Survival](../../skill_dir/survival#_survival) checks within a 10-mile radius).
+**Boon** Raiders can assist the PCs in ascending high mountain peaks, cliffs, or passes, while warning them of dangerous areas and hidden locales (+2 circumstance bonus for 1 week on [Perception](../../skill_dir/perception#_perception) and [Survival](../../skill_dir/survival#_survival) checks within a 10-mile radius).
 
 Raiders are the children of the raging storm, wild warriors from the wrinkled hills and jagged mountains. They descend from their aeries with moods as foul and war cries as terrifying as the wild weather that drives them, leaping, scaling the heights, diving from cover to cover, and raining death upon their enemies.
 
 Raiders can be used as skirmishers or scouts, or they can represent any sort of bandits or wild men from the hills who strike the outlying bastions of civilization without warning.
 
-Raiders are often found alone but may travel with a monster hunter (CR 7) or in pairs with a viking (CR 9). Six raiders might form a raiding party with a chieftain, or serve as a chieftain's honor guard (CR 12.
+Raiders are often found alone but may travel with a monster hunter (CR 7) or in pairs with a viking (CR 9). Six raiders might form a raiding party with a chieftain, or serve as a chieftain's honor guard (CR 12).
 
 **Viking CR 7**
 
@@ -77,7 +77,7 @@ CN Medium humanoid
 
 **AC** 20, touch 10, flat-footed 18 (+7 armor, +2 Dex, +3 shield, –2 rage)
 
-**hp** 85 (8 HD; 2d12+6d10+34
+**hp** 85 (8 HD; 2d12+6d10+34)
 
 **Fort** +14, **Ref** +4, **Will** +7; +2 vs. fear
 
@@ -95,27 +95,27 @@ CN Medium humanoid
 
 **Tactics**
 
-**Base Statistics** When not raging, the viking has **AC** 22, touch 12, flat-footed 20; **hp** 69; **Fort** +12, **Will** +5; **Melee** _+1 battleaxe_ +14/+9 (1d8+6/19–20/×3) or shortspear +12/+7 (1d6+4); **Ranged** throwing axe +11 (1d6+5) or shortspear +10 (1d6+4); **Str** 18, **Con** 14; **CMB** +12 (+16 to overrun); [Climb](../../skill_dir/climb#_climb +6, [Swim](../../skill_dir/swim#_swim) +10
+**Base Statistics** When not raging, the viking has **AC** 22, touch 12, flat-footed 20; **hp** 69; **Fort** +12, **Will** +5; **Melee** _+1 battleaxe_ +14/+9 (1d8+6/19–20/×3) or shortspear +12/+7 (1d6+4); **Ranged** throwing axe +11 (1d6+5) or shortspear +10 (1d6+4); **Str** 18, **Con** 14; **CMB** +12 (+16 to overrun); [Climb](../../skill_dir/climb#_climb) +6, [Swim](../../skill_dir/swim#_swim) +10
 
 **Statistics**
 
 **Str** 22, **Dex** 14, **Con** 18, **Int** 8, **Wis** 12, **Cha** 10
 
-**Base Atk** +8; **CMB** +14 (+18 to overrun); **CMD** 24 (26 vs. overrun
+**Base Atk** +8; **CMB** +14 (+18 to overrun); **CMD** 24 (26 vs. overrun)
 
 **Feats** [Athletic](../../feats#_athletic), [Extra Rage](../../feats#_extra-rage), [Great Fortitude](../../feats#_great-fortitude), [Greater Overrun](../../feats#_greater-overrun), [Improved Critical](../../feats#_improved-critical) (battleaxe), [Improved Overrun](../../feats#_improved-overrun), [Iron Will](../../feats#_iron-will), [Power Attack](../../feats#_power-attack), [Vital Strike](../../feats#_vital-strike)
 
-**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +6 (+10 jump, [Climb](../../skill_dir/climb#_climb +8, [Craft](../../skill_dir/craft#_craft) (ships +5, [Intimidate](../../skill_dir/intimidate#_intimidate +5, [Perception](../../skill_dir/perception#_perception +10, [Profession](../../skill_dir/profession#_profession) (sailor +5, [Survival](../../skill_dir/survival#_survival +5, [Swim](../../skill_dir/swim#_swim +12
+**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +6 (+10 jump), [Climb](../../skill_dir/climb#_climb) +8, [Craft](../../skill_dir/craft#_craft) (ships) +5, [Intimidate](../../skill_dir/intimidate#_intimidate) +5, [Perception](../../skill_dir/perception#_perception) +10, [Profession](../../skill_dir/profession#_profession) (sailor) +5, [Survival](../../skill_dir/survival#_survival) +5, [Swim](../../skill_dir/swim#_swim) +12
 
 **Languages** Common
 
 **SQ** armor training 1, fast movement
 
-**Combat Gear** _potion of [bull's strength](../../spell_dir/bullSStrength#_bull-s-strength_, _potions of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_ (3; **Other Gear** _+1 chainmail_, _+1 heavy wooden [shield](../../spell_dir/shield#_shield)_, _+1 battleaxe_, shortspear, throwing axes (2, _ [boots of the winterlands](../../magicItem_dir/wondrousItems#_boots-of-the-winterlands_, _ [feather token](../../magicItem_dir/wondrousItems#_feather-token)_ (anchor, 5 gp
+**Combat Gear** _potion of [bull's strength](../../spell_dir/bullSStrength#_bull-s-strength)_, _potions of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_ (3); **Other Gear** _+1 chainmail_, _+1 heavy wooden [shield](../../spell_dir/shield#_shield)_, _+1 battleaxe_, shortspear, throwing axes (2), _ [boots of the winterlands](../../magicItem_dir/wondrousItems#_boots-of-the-winterlands)_, _ [feather token](../../magicItem_dir/wondrousItems#_feather-token)_ (anchor), 5 gp
 
 **Boon** Vikings can provide fairly safe sea passage to any port within a 1-week sail and can grant a +2 circumstance bonus on the PCs' [Survival](../../skill_dir/survival#_survival) checks during that voyage.
 
-Vikings are riders of the waves, marauding plunderers from the frozen northern lands who are always ready to pillage with axe and spear and blazing torch. They are boastful and proud, shouting battle cries to their savage gods for the glory of combat. Vikings can serve as elite marines or mobile shock troops. A lone viking may travel with a minstrel to chronicle his journeys (CR 8) or with a first mate and captain (CR 12), while five vikings might serve as honor guard to a chieftain (CR 13.
+Vikings are riders of the waves, marauding plunderers from the frozen northern lands who are always ready to pillage with axe and spear and blazing torch. They are boastful and proud, shouting battle cries to their savage gods for the glory of combat. Vikings can serve as elite marines or mobile shock troops. A lone viking may travel with a minstrel to chronicle his journeys (CR 8) or with a first mate and captain (CR 12), while five vikings might serve as honor guard to a chieftain (CR 13).
 
 **Pirate Captain CR 11**
 
@@ -131,7 +131,7 @@ N Medium humanoid
 
 **AC** 21, touch 16, flat-footed 15 (+5 armor, +6 Dex)
 
-**hp** 80 (12 HD; 7d10+5d8+19
+**hp** 80 (12 HD; 7d10+5d8+19)
 
 **Fort** +7, **Ref** +12, **Will** +4; +2 vs. fear
 
@@ -155,17 +155,17 @@ N Medium humanoid
 
 **Base Atk** +10; **CMB** +12; **CMD** 28
 
-**Feats** [Dazzling Display](../../feats#_dazzling-display), [Exotic Weapon Proficiency](../../feats#_exotic-weapon-proficiency), [Improved Critical](../../feats#_improved-critical) (dagger), [Improved Initiative](../../feats#_improved-initiative), [Improved Two-Weapon Fighting](../../feats#_improved-two-weapon-fighting), [Iron Will](../../feats#_iron-will), [Shatter Defenses](../../feats#_shatter-defenses), [Skill Focus](../../feats#_skill-focus) ( [Acrobatics](../../skill_dir/acrobatics#_acrobatics), [Skill Focus](../../feats#_skill-focus) ( [Intimidate](../../skill_dir/intimidate#_intimidate), [Two-Weapon Fighting](../../feats#_two-weapon-fighting), [Weapon Finesse](../../feats#_weapon-finesse), [Weapon Focus](../../feats#_weapon-focus) (dagger), [Weapon Specialization](../../feats#_weapon-specialization) (dagger)
+**Feats** [Dazzling Display](../../feats#_dazzling-display), [Exotic Weapon Proficiency](../../feats#_exotic-weapon-proficiency), [Improved Critical](../../feats#_improved-critical) (dagger), [Improved Initiative](../../feats#_improved-initiative), [Improved Two-Weapon Fighting](../../feats#_improved-two-weapon-fighting), [Iron Will](../../feats#_iron-will), [Shatter Defenses](../../feats#_shatter-defenses), [Skill Focus](../../feats#_skill-focus) ( [Acrobatics](../../skill_dir/acrobatics#_acrobatics)), [Skill Focus](../../feats#_skill-focus) ( [Intimidate](../../skill_dir/intimidate#_intimidate)), [Two-Weapon Fighting](../../feats#_two-weapon-fighting), [Weapon Finesse](../../feats#_weapon-finesse), [Weapon Focus](../../feats#_weapon-focus) (dagger), [Weapon Specialization](../../feats#_weapon-specialization) (dagger)
 
-**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics +30, [Appraise](../../skill_dir/appraise#_appraise +5, [Bluff](../../skill_dir/bluff#_bluff +10, [Climb](../../skill_dir/climb#_climb +10, [Craft](../../skill_dir/craft#_craft) (ships +5, [Diplomacy](../../skill_dir/diplomacy#_diplomacy +4, [Disable Device](../../skill_dir/disableDevice#_disable-device +14, [Disguise](../../skill_dir/disguise#_disguise +5, [Escape Artist](../../skill_dir/escapeArtist#_escape-artist +10, [Intimidate](../../skill_dir/intimidate#_intimidate +20, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +5, [Perception](../../skill_dir/perception#_perception) +13 (+15 to find traps, [Profession](../../skill_dir/profession#_profession) (sailor +10, [Ride](../../skill_dir/ride#_ride +10, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand +10, [Stealth](../../skill_dir/stealth#_stealth +20, [Survival](../../skill_dir/survival#_survival +5, [Swim](../../skill_dir/swim#_swim) +10
+**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +30, [Appraise](../../skill_dir/appraise#_appraise) +5, [Bluff](../../skill_dir/bluff#_bluff) +10, [Climb](../../skill_dir/climb#_climb) +10, [Craft](../../skill_dir/craft#_craft) (ships) +5, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +4, [Disable Device](../../skill_dir/disableDevice#_disable-device) +14, [Disguise](../../skill_dir/disguise#_disguise) +5, [Escape Artist](../../skill_dir/escapeArtist#_escape-artist) +10, [Intimidate](../../skill_dir/intimidate#_intimidate) +20, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +5, [Perception](../../skill_dir/perception#_perception) +13 (+15 to find traps), [Profession](../../skill_dir/profession#_profession) (sailor) +10, [Ride](../../skill_dir/ride#_ride) +10, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +10, [Stealth](../../skill_dir/stealth#_stealth) +20, [Survival](../../skill_dir/survival#_survival) +5, [Swim](../../skill_dir/swim#_swim) +10
 
 **Languages** Aquan, Common
 
-**SQ** armor training 2, rogue talents (finesse rogue, weapon training, trapfinding +2
+**SQ** armor training 2, rogue talents (finesse rogue, weapon training), trapfinding +2
 
-**Combat Gear** _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_,_ potion of [spider climb](../../spell_dir/spiderClimb#_spider-climb)_; **Other Gear** _+1 chain shirt_, _+1 daggers_ (2), daggers (2), masterwork composite longbow (+2 Str with 20 arrows, masterwork whip, _ [belt of incredible dexterity](../../magicItem_dir/wondrousItems#_belt-of-incredible-dexterity +2_, _ [boots of elvenkind](../../magicItem_dir/wondrousItems#_boots-of-elvenkind_, _ [cloak of the manta ray](../../magicItem_dir/wondrousItems#_cloak-of-the-manta-ray)_, magnifying glass, spyglass, masterwork thieves' tools
+**Combat Gear** _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_,_ potion of [spider climb](../../spell_dir/spiderClimb#_spider-climb)_; **Other Gear** _+1 chain shirt_, _+1 daggers_ (2), daggers (2), masterwork composite longbow (+2 Str) with 20 arrows, masterwork whip, _ [belt of incredible dexterity](../../magicItem_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [boots of elvenkind](../../magicItem_dir/wondrousItems#_boots-of-elvenkind)_, _ [cloak of the manta ray](../../magicItem_dir/wondrousItems#_cloak-of-the-manta-ray)_, magnifying glass, spyglass, masterwork thieves' tools
 
 **Boon** A pirate captain can arrange safe passage to virtually anywhere in the world reachable by ship.
 
-Pirate captains are the deadly mistresses of pirate bands, villainous cutthroats who have cursed, looted, ravaged, betrayed, and carved their way to the top. These steel-handed stingrays lead their crews by sheer force of will. Pirate captains make excellent champion pit fighters and deadly assassins. A pirate captain is usually found with a first mate and a dozen shipmates (CR 12.
+Pirate captains are the deadly mistresses of pirate bands, villainous cutthroats who have cursed, looted, ravaged, betrayed, and carved their way to the top. These steel-handed stingrays lead their crews by sheer force of will. Pirate captains make excellent champion pit fighters and deadly assassins. A pirate captain is usually found with a first mate and a dozen shipmates (CR 12).
 

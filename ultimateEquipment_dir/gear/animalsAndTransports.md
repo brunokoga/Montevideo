@@ -1,5 +1,5 @@
 ---
-title: ultimateEquipment/gea_dir/animalsAndTransports
+title: ultimateEquipmen_dir/gear/animalsAndTransports
 ---
 ## Animals, Mounts, and Related Gear
 
@@ -123,7 +123,7 @@ The tables for this section are split up into five categories: Pets and Familiar
 | Pack | 15 gp | 20 lbs. |
 | Riding | 30 gp | 30 lbs. |
 | Saddlebags | 4 gp | 8 lbs. |
-| Stabling (per day | 5 sp | — |
+| Stabling (per day) | 5 sp | — |
 
 Animal Harness
 
@@ -131,7 +131,7 @@ Animal Harness
 
 This leather or hemp harness allows a holder to restrain and control a domesticated animal. A harness is standard equipment for anyone trying to teach an animal tricks with the [Handle Animal](skill_dir/handleAnimal#_handle-animal) skill. Ready-made harnesses are available in most markets for common domesticated animals such as cats, dogs, horses, and oxen, but harnesses can be made for nearly any creature.
 
-Axe Beak (Combat TraineD
+Axe Beak (Combat TraineD)
 
 **Price** 1,500 gp; **Weight** 500 lbs.
 
@@ -155,7 +155,7 @@ Barding
 
 Barding is a type of armor that covers the head, neck, chest, body, and possibly legs of a horse or other mount. Barding made of medium or heavy armor provides better protection than light barding, but at the expense of speed. Barding can be made of any of the armor types found on the [Armor and Shields table](ultimateEquipment/armsAndArmo_dir/armor#_armor-and-shields-table).
 
-Armor for a horse (a Large non-humanoid creature) costs four times as much as armor for a human (a Medium humanoid creature and also weighs twice as much (see the [Armor for Unusual Creatures table](ultimateEquipment/armsAndArmo_dir/armor#_armor-for-unusual-creatures-table). If the barding is for a pony or other Medium mount, the price is only double, and the weight is the same as for Medium armor worn by a humanoid. Medium or heavy barding slows a mount that wears it, as shown on the table below.
+Armor for a horse (a Large non-humanoid creature) costs four times as much as armor for a human (a Medium humanoid creature) and also weighs twice as much (see the [Armor for Unusual Creatures table](ultimateEquipment/armsAndArmo_dir/armor#_armor-for-unusual-creatures-table)). If the barding is for a pony or other Medium mount, the price is only double, and the weight is the same as for Medium armor worn by a humanoid. Medium or heavy barding slows a mount that wears it, as shown on the table below.
 
 Flying mounts can't fly in medium or heavy barding.
 
@@ -441,7 +441,7 @@ Raccoon
 
 **Price** 5 gp; **Weight** 7 lbs.
 
-These nocturnal hunter-scavengers are found primarily in forested terrains, and are noted for their domino mask-like visages, highly dextrous forepaws (which they rely on for their hyper-sensitive sense of touch, and the strangely anthropomorphic tendency to “wash” their food in water before eating it. Raccoons are sometimes kept as pets and used by some spellcasters as familiars.
+These nocturnal hunter-scavengers are found primarily in forested terrains, and are noted for their domino mask-like visages, highly dextrous forepaws (which they rely on for their hyper-sensitive sense of touch), and the strangely anthropomorphic tendency to “wash” their food in water before eating it. Raccoons are sometimes kept as pets and used by some spellcasters as familiars.
 
 Rat
 
@@ -467,7 +467,7 @@ Saddle
 
 Saddles are used to support a rider or supplies on a mount.
 
-_Military Saddle_: This saddle braces the rider, providing a +2 circumstance bonus on [Ride](skill_dir/ride#_ride) checks related to staying in the saddle. If the rider is knocked unconscious while in a military saddle, he has a 75% chance to stay in the saddle.
+_Military Saddle_: This saddle braces the rider, providing a +2 circumstance bonus on [Ride](skills/ride#_ride) checks related to staying in the saddle. If the rider is knocked unconscious while in a military saddle, he has a 75% chance to stay in the saddle.
 
 _Pack Saddle_: A pack saddle holds gear and supplies, but not a rider. It holds as much gear as the mount can carry.
 
@@ -648,7 +648,7 @@ Keelboat
 
 **Price** 3,000 gp; **Passage** 1 SP
 
-This 50- to 75-foot-long ship is 15 to 20 feet wide and has a dozen oars to supplement its single mast with a square sail. It requires a crew of 8 to 15 to sail and can carry 40 to 50 tons of cargo or 100 soldiers. It can make sea voyages, as well as sail down rivers (thanks to its flat bottom. It moves about 1 mile per hour.
+This 50- to 75-foot-long ship is 15 to 20 feet wide and has a dozen oars to supplement its single mast with a square sail. It requires a crew of 8 to 15 to sail and can carry 40 to 50 tons of cargo or 100 soldiers. It can make sea voyages, as well as sail down rivers (thanks to its flat bottom). It moves about 1 mile per hour.
 
 Longship
 

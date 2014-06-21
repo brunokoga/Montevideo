@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spell_dir/summonMinorMonster
+title: ultimateMagi_dir/spells/summonMinorMonster
 ---
 Summon Minor Monster
 
-**School** conjuration (summoning; **Level** antipaladin 1, bard 1, cleric 1, sorcerer/wizard 1, summoner 1, witch 1
+**School** conjuration (summoning); **Level** antipaladin 1, bard 1, cleric 1, sorcere_dir/wizard 1, summoner 1, witch 1
 
 **Casting Time** 1 round
 
@@ -13,9 +13,9 @@ Summon Minor Monster
 
 **Effect** 1d3 summoned creatures
 
-**Duration** 1 roun_dir/level (D
+**Duration** 1 roun_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as _ [summon monster I](spell_dir/summonMonster#_summon-monster-i_, except you can summon 1d3 Tiny or smaller animals, such as bats, lizards, monkeys, rats, ravens, toads, or weasels. The summoned animals must all be the same type of creature. As with animals summoned with _ [summon monster I](spell_dir/summonMonster#_summon-monster-i_, you may apply one alignment-appropriate template to these animals.
+This spell functions as _ [summon monster I](spells/summonMonster#_summon-monster-i)_, except you can summon 1d3 Tiny or smaller animals, such as bats, lizards, monkeys, rats, ravens, toads, or weasels. The summoned animals must all be the same type of creature. As with animals summoned with _ [summon monster I](spell_dir/summonMonster#_summon-monster-i)_, you may apply one alignment-appropriate template to these animals.
 

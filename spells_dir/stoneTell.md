@@ -1,5 +1,5 @@
 ---
-title: spells/stoneTell
+title: spell_dir/stoneTell
 ---
  **Stone Tell**
 

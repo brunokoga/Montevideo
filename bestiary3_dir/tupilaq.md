@@ -17,7 +17,7 @@ Defense
 
 **AC** 20, touch 15, flat-footed 16 (+4 Dex, +5 natural, +1 size)
 
-**hp** 59 (9d10+10
+**hp** 59 (9d10+10)
 
 **Fort** +3, **Ref** +7, **Will** +3
 
@@ -31,7 +31,7 @@ Offense
 
 **Special Attacks** seek target, shearing jaws
 
-**Spell-Like Abilities** (CL 7th; concentration +4
+**Spell-Like Abilities** (CL 7th; concentration +4)
 
 3/day—_ [invisibility](spell_dir/invisibility#_invisibility)_
 
@@ -39,9 +39,9 @@ Statistics
 
 **Str** 21, **Dex** 18, **Con** —, **Int** —, **Wis** 11, **Cha** 5
 
-**Base Atk** +9; **CMB** +13 (+17 grapple; **CMD** 27
+**Base Atk** +9; **CMB** +13 (+17 grapple); **CMD** 27
 
-**Skills** [Swim](skill_dir/swim#_swim) +13
+**Skills** [Swim](skills/swim#_swim) +13
 
 **SQ** scrimshaw magic
 
@@ -55,11 +55,11 @@ Ecology
 
 Special Abilities
 
-**Scrimshaw Magic (Sp)** When a tupilaq is created, its creator can inscribe a single spell he knows (as long as that spell is no higher than 2nd level and requires no material components) into the tupilaq as a complex scrimshaw design. The tupilaq gains the ability to use that spell as a spell-like ability (CL 7th three times per day. The tupilaq's creator can inscribe a new spell onto the tupilaq if he wishes, replacing the previous scrimshaw. Inscribing a new scrimshaw requires 24 hours of work and an expenditure of 500 gp in materials. The tupilaq presented here utilizes _ [invisibility](spell_dir/invisibility#_invisibility_ in this manner. _ [Erase](spell_dir/erase#_erase)_ can destroy a tupilaq's scrimshaw if it fails a Fortitude save against the spell. If a tupilaq's scrimshaw is removed in this manner, it loses access to the spell as a spell-like ability, and seeks out its creator to attack and kill him. The tupilaq's creator becomes the target of the tupilaq's seek target ability in this case. If a tupilaq's creator is already dead, the tupilaq instead seeks out the nearest living creature and attacks this new target on sight, continuing this spree of murder until it is itself destroyed.
+**Scrimshaw Magic (Sp)** When a tupilaq is created, its creator can inscribe a single spell he knows (as long as that spell is no higher than 2nd level and requires no material components) into the tupilaq as a complex scrimshaw design. The tupilaq gains the ability to use that spell as a spell-like ability (CL 7th) three times per day. The tupilaq's creator can inscribe a new spell onto the tupilaq if he wishes, replacing the previous scrimshaw. Inscribing a new scrimshaw requires 24 hours of work and an expenditure of 500 gp in materials. The tupilaq presented here utilizes _ [invisibility](spell_dir/invisibility#_invisibility)_ in this manner. _ [Erase](spells/erase#_erase)_ can destroy a tupilaq's scrimshaw if it fails a Fortitude save against the spell. If a tupilaq's scrimshaw is removed in this manner, it loses access to the spell as a spell-like ability, and seeks out its creator to attack and kill him. The tupilaq's creator becomes the target of the tupilaq's seek target ability in this case. If a tupilaq's creator is already dead, the tupilaq instead seeks out the nearest living creature and attacks this new target on sight, continuing this spree of murder until it is itself destroyed.
 
-**Seek Target (Su** A tupilaq's creator can place a drop of blood, lock of hair, or other portion of a creature's body in the tupilaq's maw as a standard action. From that point on, the tupilaq constantly knows what direction that creature is located in, and gains a +20 insight bonus on all [Perception](skill_dir/perception#_perception) checks made to locate the creature. A new target cannot be assigned to a tupilaq in this manner until its previous target is dead.
+**Seek Target (Su)** A tupilaq's creator can place a drop of blood, lock of hair, or other portion of a creature's body in the tupilaq's maw as a standard action. From that point on, the tupilaq constantly knows what direction that creature is located in, and gains a +20 insight bonus on all [Perception](skill_dir/perception#_perception) checks made to locate the creature. A new target cannot be assigned to a tupilaq in this manner until its previous target is dead.
 
-**Shearing Jaws (Ex** All tupilaqs are crafted with oversized jaws capable of tearing and pulling. A tupilaq applies twice its Strength modifier to damage with a successful bite attack and threatens a critical hit on a roll of 19–20. A tupilaq is treated as Large for all checks made to move a grappled opponent.
+**Shearing Jaws (Ex)** All tupilaqs are crafted with oversized jaws capable of tearing and pulling. A tupilaq applies twice its Strength modifier to damage with a successful bite attack and threatens a critical hit on a roll of 19–20. A tupilaq is treated as Large for all checks made to move a grappled opponent.
 
 Tupilaqs are small constructs crafted out of whale bones and whale teeth for the sole purpose of murdering the creator's enemies. A tupilaq's appearance can vary based on its construction, but all have prominent jaws and a small body with hands and feet fit for swimming. A tupilaq usually stands 3 feet tall and weighs only 30 pounds.
 
@@ -75,5 +75,5 @@ Tupilaq
 
 Construction
 
-**Requirements** [Craft Construct](monster_dir/monsterFeats#_craft-construct, _ [geas/quest](spell_dir/geasQuest#_geas-quest, [keen edge](spell_dir/keenEdge#_keen-edge, [locate creature](spell_dir/locateCreature#_locate-creature_, creator must be caster level 8th, creation must be done in complete secrecy; **Skill** [Craft](skill_dir/craft#_craft) (scrimshaw DC 20; **Cost** 10,500 gp
+**Requirements** [Craft Construct](monsters/monsterFeats#_craft-construct), _ [gea_dir/quest](spells/geasQuest#_geas-quest), [keen edge](spell_dir/keenEdge#_keen-edge), [locate creature](spells/locateCreature#_locate-creature)_, creator must be caster level 8th, creation must be done in complete secrecy; **Skill** [Craft](skill_dir/craft#_craft) (scrimshaw) DC 20; **Cost** 10,500 gp
 

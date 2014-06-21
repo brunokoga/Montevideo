@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/energySiegeShot
+title: ultimateComba_dir/spells/energySiegeShot
 ---
 Energy Siege Shot
 
@@ -7,7 +7,7 @@ Energy Siege Shot
 
 **Casting Time** 10 minutes
 
-**Component** V, S, M (a ball of pitch
+**Component** V, S, M (a ball of pitch)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
@@ -15,7 +15,7 @@ Energy Siege Shot
 
 **Duration** 10 minut_dir/level
 
-**Saving Throw** Fortitude negates (harmless, object; **Spell Resistance** yes (harmles_dir/object
+**Saving Throw** Fortitude negates (harmless, object); **Spell Resistance** yes (harmless/object)
 
 This spell transforms any ammunition fired by the target ranged siege engine into ammunition made of pure energy. When casting the spell, the caster picks a one of the following energy types: acid, cold, electricity, fire, sonic, or force. The ammunition within the siege weapon now deals that type of energy damage on a hit, though the amount of damage dealt by the ammunition does not change, nor does it change any of the other effects of the ammunition. Unlike other forms of energy damage, this energy damage does full damage to objects. Based on the type of energy the caster chose while casting, the ammunition also gains one of the following effects.
 
@@ -51,7 +51,7 @@ _Force_: No extra effect.
 
 Energy Siege Shot, Greater
 
-**School** transmutation [variable]; **Level** sorcerer/wizard 6, summoner 6
+**School** transmutation [variable]; **Level** sorcere_dir/wizard 6, summoner 6
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

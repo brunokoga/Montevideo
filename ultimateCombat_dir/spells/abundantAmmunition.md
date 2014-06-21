@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spell_dir/abundantAmmunition
+title: ultimateComba_dir/spells/abundantAmmunition
 ---
 Abundant Ammunition
 
-**School** conjuration (summoning; **Level** bard 1, cleric 1, ranger 1, sorcerer/wizard 1
+**School** conjuration (summoning); **Level** bard 1, cleric 1, ranger 1, sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -15,5 +15,5 @@ Abundant Ammunition
 
 **Saving Throw** none; **Spell Resistance** no
 
-When cast on a container such as a quiver or a pouch that contains nonmagical ammunition or shuriken (including masterwork ammunition or shuriken, at the start of each round this spell replaces any ammunition taken from the container the round before. The ammunition taken from the container the round before vanishes. If, after casting this spell, you cast a spell that enhances projectiles, such as _ [align weapon](spell_dir/alignWeapon#_align-weapon_ or _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater_, on the same container, all projectiles this spell conjures are affected by that spell.
+When cast on a container such as a quiver or a pouch that contains nonmagical ammunition or shuriken (including masterwork ammunition or shuriken), at the start of each round this spell replaces any ammunition taken from the container the round before. The ammunition taken from the container the round before vanishes. If, after casting this spell, you cast a spell that enhances projectiles, such as _ [align weapon](spells/alignWeapon#_align-weapon)_ or _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_, on the same container, all projectiles this spell conjures are affected by that spell.
 

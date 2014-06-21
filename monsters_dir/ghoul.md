@@ -9,7 +9,7 @@ _This humanoid creature has long, sharp teeth, and its pallid flesh is stretched
 
 **XP 400**
 
-CE Medium [undead](creatureTypes#_undead
+CE Medium [undead](creatureTypes#_undead)
 
 **Init** +2; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +7
 
@@ -29,7 +29,7 @@ CE Medium [undead](creatureTypes#_undead
 
 **Melee** bite +3 (1d6+1 plus disease and paralysis) and 2 claws +3 (1d6+1 plus paralysis)
 
-**Special Attacks** [paralysis](universalMonsterRules#_paralysis) (1d4+1 rounds, DC 13, elves are immune to this effect
+**Special Attacks** [paralysis](universalMonsterRules#_paralysis) (1d4+1 rounds, DC 13, elves are immune to this effect)
 
 **Statistics**
 
@@ -39,7 +39,7 @@ CE Medium [undead](creatureTypes#_undead
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +4, [Climb](../skill_dir/climb#_climb +6, [Perception](../skill_dir/perception#_perception +7, [Stealth](../skill_dir/stealth#_stealth +7, [Swim](../skill_dir/swim#_swim) +3
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +4, [Climb](../skill_dir/climb#_climb) +6, [Perception](../skill_dir/perception#_perception) +7, [Stealth](../skill_dir/stealth#_stealth) +7, [Swim](../skill_dir/swim#_swim) +3
 
 **Languages** Common
 
@@ -53,7 +53,7 @@ CE Medium [undead](creatureTypes#_undead
 
 **Special Abilities**
 
-**Disease (Su** _Ghoul Fever_: Bite—injury; _save_ Fort DC 13; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Con and 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Charisma-based. A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast.
+**Disease (Su)** _Ghoul Fever_: Bite—injury; _save_ Fort DC 13; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Con and 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Charisma-based. A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast.
 
 Ghouls are undead that haunt graveyards and eat corpses. Legends hold that the first ghouls were either cannibalistic humans whose unnatural hunger dragged them back from death or humans who in life fed on the rotting remains of their kin and died (and were reborn) from the foul disease—the true source of these undead scavengers is unclear.
 

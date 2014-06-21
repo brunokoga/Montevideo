@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/chordOfShards
+title: ultimateMagi_dir/spells/chordOfShards
 ---
 Chord of Shards
 

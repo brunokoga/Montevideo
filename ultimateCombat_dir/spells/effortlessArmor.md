@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/effortlessArmor
+title: ultimateComba_dir/spells/effortlessArmor
 ---
 Effortless Armor
 
@@ -15,5 +15,5 @@ Effortless Armor
 
 **Duration** 1 minut_dir/level
 
-Armor you wear no longer reduces your speed. You also reduce the armor's armor check penalty by 1 + 1 per five caster levels (maximum 5.
+Armor you wear no longer reduces your speed. You also reduce the armor's armor check penalty by 1 + 1 per five caster levels (maximum 5).
 

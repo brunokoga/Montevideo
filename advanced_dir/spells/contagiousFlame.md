@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/contagiousFlame
+title: advance_dir/spells/contagiousFlame
 ---
  **Contagious Flame**
 
-**School** evocation [fire]; **Level** sorcerer/wizard 6
+**School** evocation [fire]; **Level** sorcere_dir/wizard 6
 
 **Casting Time** 1 standard action
 

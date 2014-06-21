@@ -1,5 +1,5 @@
 ---
-title: ultimateEquipment/wondrousItems/shoulders
+title: ultimateEquipmen_dir/wondrousItems/shoulders
 ---
 # Shoulders Slot Wondrous Items
 
@@ -85,61 +85,61 @@ Cape of Effulgent Escape
 
 **Price** 14,000 gp; **Aura** faint evocation and illusion; **CL** 3rd; **Weight** 1 lb.
 
-This shining white cloak is trimmed with golden sunbursts and continuously radiates light (as per the _ [light](spell_dir/light#_light) _spell, but only in a 10-foot radius). Twice per day, the wearer can command the cape to erupt in a burst of light, blinding all creatures other than the wearer within 20 feet for 1d4 rounds (Reflex DC 14 negates. After triggering this burst, the wearer becomes invisible (as the _ [invisibility](spell_dir/invisibility#_invisibility)_ spell, with a duration of 1 minute and the cape's light is extinguished as long as the wearer is invisible.
+This shining white cloak is trimmed with golden sunbursts and continuously radiates light (as per the _ [light](spell_dir/light#_light) _spell, but only in a 10-foot radius). Twice per day, the wearer can command the cape to erupt in a burst of light, blinding all creatures other than the wearer within 20 feet for 1d4 rounds (Reflex DC 14 negates). After triggering this burst, the wearer becomes invisible (as the _ [invisibility](spells/invisibility#_invisibility)_ spell, with a duration of 1 minute) and the cape's light is extinguished as long as the wearer is invisible.
 
 Construction Requirements
 
 Cost 7,000 gp
 
-Craft Wondrous Item, _ [daylight](spell_dir/daylight#_daylight, [invisibility](spell_dir/invisibility#_invisibility_
+Craft Wondrous Item, _ [daylight](spell_dir/daylight#_daylight), [invisibility](spells/invisibility#_invisibility)_
 
 Cape of the Mountebank
 
 **Price** 10,800 gp; **Aura** moderate conjuration; **CL** 9th; **Weight** 1 lb.
 
-Once per day on command, this bright red and gold cape allows the wearer to use the magic of the _ [dimension door](spell_dir/dimensionDoor#_dimension-door_ spell. When he disappears, he leaves behind a cloud of harmless gray smoke, appearing in a similar dramatic fashion at his destination.
+Once per day on command, this bright red and gold cape allows the wearer to use the magic of the _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_ spell. When he disappears, he leaves behind a cloud of harmless gray smoke, appearing in a similar dramatic fashion at his destination.
 
 Construction Requirements
 
 Cost 5,400 gp
 
-Craft Wondrous Item, _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_
+Craft Wondrous Item, _ [dimension door](spells/dimensionDoor#_dimension-door)_
 
 Catching Cape
 
 **Price** 200 gp; **Aura** faint abjuration; **CL** 1st; **Weight** 3 lbs.
 
-This silvery cape furls and ripples like a flag with every step its owner takes. As a swift action, the wearer can order the cape to transform into a faint sphere of force that surrounds him on all sides. The field grants the wearer concealment (20% miss chance against ranged attacks and lasts for 1 minute or until the wearer is missed by a ranged attack due to the power of the cloak, whichever comes first. When the field is used, all magic is lost from the cloak, leaving only a mundane silvery garment.
+This silvery cape furls and ripples like a flag with every step its owner takes. As a swift action, the wearer can order the cape to transform into a faint sphere of force that surrounds him on all sides. The field grants the wearer concealment (20% miss chance) against ranged attacks and lasts for 1 minute or until the wearer is missed by a ranged attack due to the power of the cloak, whichever comes first. When the field is used, all magic is lost from the cloak, leaving only a mundane silvery garment.
 
 Construction Requirements
 
 Cost 100 gp
 
-Craft Wondrous Item, _ [shield](spell_dir/shield#_shield_
+Craft Wondrous Item, _ [shield](spell_dir/shield#_shield)_
 
 Charlatan's Cape
 
 **Price** 45,000 gp; **Aura** faint evocation and illusion; **CL** 3rd; **Weight** 1 lb.
 
-This garish cloak of red velvet is embroidered with gold-threaded patterns, typically in shapes of sinisterly masked harlequins or other imagery of sinister revelry. The cloak acts like a _cloak of the mountebank_, but its _ [dimension door](spell_dir/dimensionDoor#_dimension-door_ power can be used three times per day. Furthermore, once per day the wearer of the cloak can use _ [ethereal jaunt](spell_dir/etherealJaunt#_ethereal-jaunt_, as per the spell.
+This garish cloak of red velvet is embroidered with gold-threaded patterns, typically in shapes of sinisterly masked harlequins or other imagery of sinister revelry. The cloak acts like a _cloak of the mountebank_, but its _ [dimension door](spells/dimensionDoor#_dimension-door)_ power can be used three times per day. Furthermore, once per day the wearer of the cloak can use _ [ethereal jaunt](spell_dir/etherealJaunt#_ethereal-jaunt)_, as per the spell.
 
 Construction Requirements
 
 Cost 22,500 gp
 
-Craft Wondrous Item, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [ethereal jaunt](spell_dir/etherealJaunt#_ethereal-jaunt_
+Craft Wondrous Item, _ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [ethereal jaunt](spell_dir/etherealJaunt#_ethereal-jaunt)_
 
 Cloak of Arachnida
 
 **Price** 14,000 gp; **Aura** moderate conjuration and transmutation; **CL** 6th; **Weight** 1 lb.
 
-This red and violet silk garment, delicately embroidered with a barely perceptible web-like pattern, gives the wearer the ability to climb as if a _ [spider climb](spell_dir/spiderClimb#_spider-climb_ spell had been placed upon her. In addition, the cloak grants her immunity to entrapment by _ [web](spell_dir/web#_web_ spells or webs of any sort; she can move in webs at half her normal speed. Once per day, the wearer of this cloak can cast _ [web](spell_dir/web#_web_. She also gains a +2 luck bonus on all Fortitude saves against poison from spiders.
+This red and violet silk garment, delicately embroidered with a barely perceptible web-like pattern, gives the wearer the ability to climb as if a _ [spider climb](spells/spiderClimb#_spider-climb)_ spell had been placed upon her. In addition, the cloak grants her immunity to entrapment by _ [web](spell_dir/web#_web)_ spells or webs of any sort; she can move in webs at half her normal speed. Once per day, the wearer of this cloak can cast _ [web](spells/web#_web)_. She also gains a +2 luck bonus on all Fortitude saves against poison from spiders.
 
 Construction Requirements
 
 Cost 7,000 gp
 
-Craft Wondrous Item, _ [spider climb](spell_dir/spiderClimb#_spider-climb_, _ [web](spell_dir/web#_web_
+Craft Wondrous Item, _ [spider climb](spell_dir/spiderClimb#_spider-climb)_, _ [web](spells/web#_web)_
 
 Cloak of Displacement, Major
 
@@ -151,37 +151,37 @@ Construction Requirements
 
 Cost 25,000 gp
 
-Craft Wondrous Item, [Extend Spell](feats#_extend-spell, _ [displacement](spell_dir/displacement#_displacement_
+Craft Wondrous Item, [Extend Spell](feats#_extend-spell), _ [displacement](spells/displacement#_displacement)_
 
 Cloak of Displacement, Minor
 
 **Price** 24,000 gp; **Aura** faint illusion; **CL** 3rd; **Weight** 1 lb.
 
-This item appears to be a normal cloak, with a pattern very similar to a _major cloak of [displacement](spell_dir/displacement#_displacement _nocturnal designs, but when worn its magical properties distort and warp light waves. This displacement works similar to the _ [blur](spell_dir/blur#_blur_ spell, granting a 20% miss chance on attacks against the wearer. It functions continually.
+This item appears to be a normal cloak, with a pattern very similar to a _major cloak of [displacement](spell_dir/displacement#_displacement) _nocturnal designs, but when worn its magical properties distort and warp light waves. This displacement works similar to the _ [blur](spells/blur#_blur)_ spell, granting a 20% miss chance on attacks against the wearer. It functions continually.
 
 Construction Requirements
 
 Cost 12,000 gp
 
-Craft Wondrous Item, _ [blur](spell_dir/blur#_blur_
+Craft Wondrous Item, _ [blur](spell_dir/blur#_blur)_
 
 Cloak of Elvenkind
 
 **Price** 2,500 gp; **Aura** faint illusion; **CL** 3rd; **Weight** 1 lb.
 
-These cloaks of famed elven design are enhanced to reflect the wearer's surroundings, aiding him in blending in with any terrain. When this plain gray cloak is worn with the hood drawn up around the head, the wearer gains a +5 competence bonus on [Stealth](skill_dir/stealth#_stealth checks.
+These cloaks of famed elven design are enhanced to reflect the wearer's surroundings, aiding him in blending in with any terrain. When this plain gray cloak is worn with the hood drawn up around the head, the wearer gains a +5 competence bonus on [Stealth](skills/stealth#_stealth) checks.
 
 Construction Requirements
 
 Cost 1,250 gp
 
-Craft Wondrous Item, _ [invisibility](spell_dir/invisibility#_invisibility_, creator must be an elf
+Craft Wondrous Item, _ [invisibility](spell_dir/invisibility#_invisibility)_, creator must be an elf
 
 Cloak of Etherealness
 
 **Price** 55,000 gp; **Aura** strong transmutation; **CL** 15th; **Weight** 1 lb.
 
-This silvery gray cloak seems to absorb light rather than be illuminated by it. On command, the cloak makes its wearer ethereal (as the _ [ethereal jaunt](spell_dir/etherealJaunt#_ethereal-jaunt)_ spell. The effect is dismissible. The cloak works for a total of up to 10 minutes per day. This duration need not be continuous, but it must be used in 1 minute increments.
+This silvery gray cloak seems to absorb light rather than be illuminated by it. On command, the cloak makes its wearer ethereal (as the _ [ethereal jaunt](spells/etherealJaunt#_ethereal-jaunt)_ spell). The effect is dismissible. The cloak works for a total of up to 10 minutes per day. This duration need not be continuous, but it must be used in 1 minute increments.
 
 Construction Requirements
 
@@ -193,13 +193,13 @@ Cloak of Fangs
 
 **Price** 2,800 gp; **Aura** moderate transmutation; **CL** 9th; **Weight** 1 lb.
 
-Wearing this animal-hair cloak grants a +1 resistance bonus on saving throws. Furthermore, the wearer can force its teeth to grow rapidly up to five times per day as a swift action. The oversized teeth last for 1 round, during which time the wearer can make a bite attack. Treat this attack as a primary natural attack that deals 1d6 points of damage (or 1d4 if the wearer is Small). If the wearer already has a bite attack, the damage of that bite attack increases by one step (_Bestiary _302.
+Wearing this animal-hair cloak grants a +1 resistance bonus on saving throws. Furthermore, the wearer can force its teeth to grow rapidly up to five times per day as a swift action. The oversized teeth last for 1 round, during which time the wearer can make a bite attack. Treat this attack as a primary natural attack that deals 1d6 points of damage (or 1d4 if the wearer is Small). If the wearer already has a bite attack, the damage of that bite attack increases by one step (_Bestiary _302).
 
 Construction Requirements
 
 Cost 1,250 gp
 
-Craft Wondrous Item, _ [alter self](spell_dir/alterSelf#_alter-self_, _ [resistance](spell_dir/resistance#_resistance_
+Craft Wondrous Item, _ [alter self](spells/alterSelf#_alter-self)_, _ [resistance](spell_dir/resistance#_resistance)_
 
 Cloak of Fiery Vanishing
 
@@ -211,7 +211,7 @@ Construction Requirements
 
 Cost 1,300 gp
 
-Craft Wondrous Item, _ [invisibility](spell_dir/invisibility#_invisibility_, _ [silent image](spell_dir/silentImage#_silent-image_
+Craft Wondrous Item, _ [invisibility](spells/invisibility#_invisibility)_, _ [silent image](spell_dir/silentImage#_silent-image)_
 
 Cloak of Human Guise
 
@@ -223,7 +223,7 @@ Construction Requirements
 
 Cost 450 gp
 
-Craft Wondrous Item, _ [disguise self](spell_dir/disguiseSelf#_disguise-self)_
+Craft Wondrous Item, _ [disguise self](spells/disguiseSelf#_disguise-self)_
 
 Cloak of Resistance
 
@@ -231,85 +231,85 @@ Cloak of Resistance
 
 **+1 bonus** 1,000 gp; **+2 bonus** 4,000 gp; **+3 bonus** 9,000 gp; **+4 bonus** 16,000 gp; **+5 bonus** 25,000 gp
 
-Flecks of silver or steel are often sown amid the fabric of these magical cloaks. This garment offers magical protection in the form of a +1 to +5 resistance bonus on all saving throws (Fortitude, Reflex, and Will.
+Flecks of silver or steel are often sown amid the fabric of these magical cloaks. This garment offers magical protection in the form of a +1 to +5 resistance bonus on all saving throws (Fortitude, Reflex, and Will).
 
 Construction Requirements
 
 **+1 bonus** 500 gp; **+2 bonus** 2,000 gp; **+3 bonus** 4,500 gp; **+4 bonus** 8,000 gp; **+5 bonus** 12,500 gp
 
-Craft Wondrous Item, _ [resistance](spell_dir/resistance#_resistance_, creator's caster level must be at least three times the cloak's bonus
+Craft Wondrous Item, _ [resistance](spell_dir/resistance#_resistance)_, creator's caster level must be at least three times the cloak's bonus
 
 Cloak of the Bat
 
 **Price** 26,000 gp; **Aura** moderate transmutation; **CL** 7th; **Weight** 1 lb.
 
-Fashioned of dark brown or black cloth, this cloak bestows a +5 competence bonus on [Stealth](skill_dir/stealth#_stealth checks. The wearer is also able to hang upside down from the ceiling like a bat.
+Fashioned of dark brown or black cloth, this cloak bestows a +5 competence bonus on [Stealth](skills/stealth#_stealth) checks. The wearer is also able to hang upside down from the ceiling like a bat.
 
-By holding the edges of the garment, the wearer is able to fly as per the spell (including a +7 bonus on [Fly](skill_dir/fly#_fly) skill checks. If he desires, the wearer can actually polymorph himself into an ordinary bat and fly accordingly (as _ [beast shape III](spell_dir/beastShape#_beast-shape-iii)_). All possessions worn or carried are part of the transformation. Flying, either with the cloak or in bat form, can be accomplished only in darkness (either under the night sky or in a lightless or near-lightless environment underground. Either of the flying powers is usable for up to 7 minutes at a time, but after a flight of any duration the cloak cannot bestow any flying power for a like period of time.
+By holding the edges of the garment, the wearer is able to fly as per the spell (including a +7 bonus on [Fly](skill_dir/fly#_fly) skill checks). If he desires, the wearer can actually polymorph himself into an ordinary bat and fly accordingly (as _ [beast shape III](spells/beastShape#_beast-shape-iii)_). All possessions worn or carried are part of the transformation. Flying, either with the cloak or in bat form, can be accomplished only in darkness (either under the night sky or in a lightless or near-lightless environment underground). Either of the flying powers is usable for up to 7 minutes at a time, but after a flight of any duration the cloak cannot bestow any flying power for a like period of time.
 
 Construction Requirements
 
 Cost 13,000 gp
 
-Craft Wondrous Item, _ [beast shape III](spell_dir/beastShape#_beast-shape-iii_, _ [fly](spell_dir/fly_
+Craft Wondrous Item, _ [beast shape III](spell_dir/beastShape#_beast-shape-iii)_, _ [fly](spells/fly)_
 
 Cloak of the Diplomat
 
 **Price** 20,000 gp; **Aura** moderate enchantment; **CL** 7th; **Weight** 1 lb.
 
-The forest-green cloak grants a +5 competence bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy and [Sense Motive](skill_dir/senseMotive#_sense-motive checks. In addition, once per day, before making a [Diplomacy](skill_dir/diplomacy#_diplomacy or [Sense Motive](skill_dir/senseMotive#_sense-motive check, the wearer can decide to call upon the powers of the cloak to roll twice and take the better result. Finally, the wearer of this cloak can adjust a creature's attitude up to three steps when using [Diplomacy](skill_dir/diplomacy#_diplomacy, instead of the normal limit of two steps. However, the cloak's power does have one drawback. Should the wearer ever fail a [Diplomacy](skill_dir/diplomacy#_diplomacy checks made to adjust a creature's attitude by 5 or more, the creature's attitude is reduced by two steps instead of one.
+The forest-green cloak grants a +5 competence bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy) and [Sense Motive](skills/senseMotive#_sense-motive) checks. In addition, once per day, before making a [Diplomacy](skill_dir/diplomacy#_diplomacy) or [Sense Motive](skills/senseMotive#_sense-motive) check, the wearer can decide to call upon the powers of the cloak to roll twice and take the better result. Finally, the wearer of this cloak can adjust a creature's attitude up to three steps when using [Diplomacy](skill_dir/diplomacy#_diplomacy), instead of the normal limit of two steps. However, the cloak's power does have one drawback. Should the wearer ever fail a [Diplomacy](skills/diplomacy#_diplomacy) checks made to adjust a creature's attitude by 5 or more, the creature's attitude is reduced by two steps instead of one.
 
 Construction Requirements
 
 Cost 10,000 gp
 
-Craft Wondrous Item, _ [charm person](spell_dir/charmPerson#_charm-person_, creator must have 5 ranks in [Diplomacy](skill_dir/diplomacy#_diplomacy and [Sense Motive](skill_dir/senseMotive#_sense-motive
+Craft Wondrous Item, _ [charm person](spell_dir/charmPerson#_charm-person)_, creator must have 5 ranks in [Diplomacy](skills/diplomacy#_diplomacy) and [Sense Motive](skill_dir/senseMotive#_sense-motive)
 
 Cloak of the duskwalker
 
 **Price** 10,000 gp; **Aura** faint illusion; **CL** 3rd; **Weight** 1 lb.
 
-This dark, velvety cloak billows with a dramatic flourish in its wearer's wake. The cloak grants its wearer low-light vision. Once per day, on command, the wearer can surround herself with darkness, as the _ [darkness](spell_dir/darkness#_darkness_ spell. While this darkness is active, the cloak also grants the wearer darkvision 60 feet as well as low-light vision.
+This dark, velvety cloak billows with a dramatic flourish in its wearer's wake. The cloak grants its wearer low-light vision. Once per day, on command, the wearer can surround herself with darkness, as the _ [darkness](spells/darkness#_darkness)_ spell. While this darkness is active, the cloak also grants the wearer darkvision 60 feet as well as low-light vision.
 
 Construction Requirements
 
 Cost 5,000 gp
 
-Craft Wondrous Item, _ [darkness](spell_dir/darkness#_darkness_, _ [darkvision](spell_dir/darkvision#_darkvision)_
+Craft Wondrous Item, _ [darkness](spell_dir/darkness#_darkness)_, _ [darkvision](spells/darkvision#_darkvision)_
 
 Cloak of the Hedge Wizard
 
 **Price** 2,500 gp; **Aura** faint, school based on cloak type ; **CL** 1st; **Weight** 1 lb.
 
-This cloak comes in eight varieties—one for each school of magic. The cloak grants its wearer the ability to use a certain number of spells on command (caster level 1st based on its school of magic. It also grants the wearer the ability to use _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation_ on command and at will.
+This cloak comes in eight varieties—one for each school of magic. The cloak grants its wearer the ability to use a certain number of spells on command (caster level 1st) based on its school of magic. It also grants the wearer the ability to use _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation)_ on command and at will.
 
-_Abjuration_: at will—_ [resistance](spell_dir/resistance#_resistance_; 1/day—_ [endure elements](spell_dir/endureElements#_endure-elements_, _ [shield](spell_dir/shield#_shield_
+_Abjuration_: at will—_ [resistance](spells/resistance#_resistance)_; 1/day—_ [endure elements](spell_dir/endureElements#_endure-elements)_, _ [shield](spells/shield#_shield)_
 
-_Conjuration_: at will—_ [acid splash](spell_dir/acidSplash#_acid-splash_; 1/day—_ [mage armor](spell_dir/mageArmor#_mage-armor_, _ [unseen servant](spell_dir/unseenServant#_unseen-servant_
+_Conjuration_: at will—_ [acid splash](spell_dir/acidSplash#_acid-splash)_; 1/day—_ [mage armor](spell_dir/mageArmor#_mage-armor)_, _ [unseen servant](spells/unseenServant#_unseen-servant)_
 
-_ [Divination](spell_dir/divination#_divination_: at will—_ [detect magic](spell_dir/detectMagic#_detect-magic_; 1/day—_ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors_, _ [true strike](spell_dir/trueStrike#_true-strike_
+_ [Divination](spell_dir/divination#_divination)_: at will—_ [detect magic](spells/detectMagic#_detect-magic)_; 1/day—_ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors)_, _ [true strike](spells/trueStrike#_true-strike)_
 
-_Enchantment_: at will—_ [daze](spell_dir/daze#_daze_; 1/day—_ [charm person](spell_dir/charmPerson#_charm-person_, _ [sleep](spell_dir/sleep#_sleep_
+_Enchantment_: at will—_ [daze](spell_dir/daze#_daze)_; 1/day—_ [charm person](spell_dir/charmPerson#_charm-person)_, _ [sleep](spells/sleep#_sleep)_
 
-_Evocation_: at will—_ [light](spell_dir/light#_light_; 1/day—_ [floating disk](spell_dir/floatingDisk#_floating-disk_, _ [magic missile](spell_dir/magicMissile#_magic-missile_
+_Evocation_: at will—_ [light](spell_dir/light#_light)_; 1/day—_ [floating disk](spell_dir/floatingDisk#_floating-disk)_, _ [magic missile](spells/magicMissile#_magic-missile)_
 
-_Illusion_: at will—_ [ghost sound](spell_dir/ghostSound#_ghost-sound_; 1/day—_ [color spray](spell_dir/colorSpray#_color-spray_, _ [silent image](spell_dir/silentImage#_silent-image_
+_Illusion_: at will—_ [ghost sound](spell_dir/ghostSound#_ghost-sound)_; 1/day—_ [color spray](spell_dir/colorSpray#_color-spray)_, _ [silent image](spells/silentImage#_silent-image)_
 
-_Necromancy_: at will—_ [touch of fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue_; 1/day—_ [cause fear](spell_dir/causeFear#_cause-fear_, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_
+_Necromancy_: at will—_ [touch of fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue)_; 1/day—_ [cause fear](spell_dir/causeFear#_cause-fear)_, _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_
 
-_Transmutation_: at will—_ [mage hand](spell_dir/mageHand#_mage-hand_; 1/day—_ [enlarge person](spell_dir/enlargePerson#_enlarge-person_, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_
+_Transmutation_: at will—_ [mage hand](spell_dir/mageHand#_mage-hand)_; 1/day—_ [enlarge person](spell_dir/enlargePerson#_enlarge-person)_, _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_
 
 Construction Requirements
 
 Cost 1,125 gp
 
-Craft Wondrous Item, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation)_ and any spell the cloak allows the caster to use; the creator must have [Spell Focus](feats#_spell-focus in the cloak's school of magic
+Craft Wondrous Item, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation)_ and any spell the cloak allows the caster to use; the creator must have [Spell Focus](feats#_spell-focus) in the cloak's school of magic
 
 Cloak of the Manta Ray
 
 **Price** 7,200 gp; **Aura** moderate transmutation; **CL** 9th; **Weight** 1 lb.
 
-This cloak appears to be made of leather until the wearer enters salt water. At that time, the _cloak of the manta ray_ adheres to the individual, and he appears nearly identical to a manta ray (as the _ [beast shape II](spell_dir/beastShape#_beast-shape-ii)_ spell, except that it allows only manta ray form. He gains a +3 natural armor bonus, the ability to breathe underwater, and a swim speed of 60 feet, like a real manta ray.
+This cloak appears to be made of leather until the wearer enters salt water. At that time, the _cloak of the manta ray_ adheres to the individual, and he appears nearly identical to a manta ray (as the _ [beast shape II](spells/beastShape#_beast-shape-ii)_ spell, except that it allows only manta ray form). He gains a +3 natural armor bonus, the ability to breathe underwater, and a swim speed of 60 feet, like a real manta ray.
 
 The cloak also allows the wearer to attack with a sting ray's tail spine, dealing 1d6 points of damage. This attack can be used in addition to any other attack the character has, using his highest melee attack bonus. The wearer can release his arms from the cloak without sacrificing underwater movement if so desired.
 
@@ -317,55 +317,55 @@ Construction Requirements
 
 Cost 3,600 gp
 
-Craft Wondrous Item, _ [beast shape II](spell_dir/beastShape#_beast-shape-ii_, _ [water breathing](spell_dir/waterBreathing#_water-breathing_
+Craft Wondrous Item, _ [beast shape II](spell_dir/beastShape#_beast-shape-ii)_, _ [water breathing](spells/waterBreathing#_water-breathing)_
 
 Cloak of the Scuttling Rat
 
 **Price** 6,000 gp; **Aura** faint transmutation; **CL** 5th; **Weight** 1 lb.
 
-This unassuming cloak initially appears to be made of plain leather. When the wearer speaks the command word, however, the _cloak of the scuttling rat_ wraps itself around her, transforming her into a dire rat as if using _ [beast shape I](spell_dir/beastShape#_beast-shape-i_. The wearer can remain in dire rat form for up to 5 minutes per day. This duration need not be consecutive, but it must be used in 1-minute increments.
+This unassuming cloak initially appears to be made of plain leather. When the wearer speaks the command word, however, the _cloak of the scuttling rat_ wraps itself around her, transforming her into a dire rat as if using _ [beast shape I](spell_dir/beastShape#_beast-shape-i)_. The wearer can remain in dire rat form for up to 5 minutes per day. This duration need not be consecutive, but it must be used in 1-minute increments.
 
 Construction Requirements
 
 Cost 3,000 gp
 
-Craft Wondrous Item, _ [beast shape I](spell_dir/beastShape#_beast-shape-i)_
+Craft Wondrous Item, _ [beast shape I](spells/beastShape#_beast-shape-i)_
 
 Cocoon Cloak
 
 **Price** 10,000 gp; **Aura** moderate transmutation ; **CL** 7th; **Weight** 1 lb.
 
-This ruffled silk cloak is incredibly durable despite its soft, delicate construction. Anytime the wearer falls asleep (whether the sleep is natural or brought on by a magical effect, the cloak immediately transforms into sticky strands that envelop the wearer's body, hardening into a solid silk cocoon. While wrapped in the cocoon the wearer gains a +4 enhancement bonus to natural armor and is protected from critical hits and sneak attacks as if subject to the _ [light](spell_dir/light#_light [fortification](magicItem_dir/armor#_armor-fortification)_ armor ability (25% chance for normal damage on a critical hit. The cocoon opens and transforms back into a cloak once the wearer awakens.
+This ruffled silk cloak is incredibly durable despite its soft, delicate construction. Anytime the wearer falls asleep (whether the sleep is natural or brought on by a magical effect), the cloak immediately transforms into sticky strands that envelop the wearer's body, hardening into a solid silk cocoon. While wrapped in the cocoon the wearer gains a +4 enhancement bonus to natural armor and is protected from critical hits and sneak attacks as if subject to the _ [light](spell_dir/light#_light) [fortification](magicItems/armor#_armor-fortification)_ armor ability (25% chance for normal damage on a critical hit). The cocoon opens and transforms back into a cloak once the wearer awakens.
 
 Construction Requirements
 
 Cost 5,000 gp
 
-Craft Wondrous Item, _ [vermin shape I](ultimateMagic/spell_dir/verminShape#_vermin-shape-i-)_ (_Ultimate Magic_
+Craft Wondrous Item, _ [vermin shape I](ultimateMagi_dir/spells/verminShape#_vermin-shape-i-)_ (_Ultimate Magic_)
 
 Comfort's Cloak
 
 **Price** 15,600 gp; **Aura** faint abjuration and necromancy; **CL** 5th; **Weight** 1 lb.
 
-A favored cloak of rangers, this cloak is a patchwork of hides and fur. _Comfort's cloak_ grants a constant _ [endure elements](spell_dir/endureElements#_endure-elements_ effect to the wearer, and grants a +4 competence bonus to saves against disease, energy drain, effects that cause fatigue or exhaustion, and poisons. Furthermore, while the wearer is resting he regains twice his Hit Dice in hit points for 8 hours of rest instead of the typical 1 hit point per Hit Die. When taking a full 24 hours of rest, the character regains 5 times his Hit Dice in hit points instead of twice his Hit Dice in hit points.
+A favored cloak of rangers, this cloak is a patchwork of hides and fur. _Comfort's cloak_ grants a constant _ [endure elements](spell_dir/endureElements#_endure-elements)_ effect to the wearer, and grants a +4 competence bonus to saves against disease, energy drain, effects that cause fatigue or exhaustion, and poisons. Furthermore, while the wearer is resting he regains twice his Hit Dice in hit points for 8 hours of rest instead of the typical 1 hit point per Hit Die. When taking a full 24 hours of rest, the character regains 5 times his Hit Dice in hit points instead of twice his Hit Dice in hit points.
 
 Construction Requirements
 
 Cost 7,800 gp
 
-Craft Wondrous Item, _ [endure elements](spell_dir/endureElements#_endure-elements_
+Craft Wondrous Item, _ [endure elements](spells/endureElements#_endure-elements)_
 
 Cowardly Crouching Cloak
 
 **Price** 1,800 gp; **Aura** faint abjuration ; **CL** 1st; **Weight** 4 lbs.
 
-This nondescript gray cloak has a hood that can fit over the wearer's entire face. The wearer can, as a move action, cover his face and drop to a huddling crouch. Any creature seeking to directly attack him while he does this must make a DC 11 Will save to do so (as the _ [sanctuary](spell_dir/sanctuary#_sanctuary)_ spell. The wearer cannot see or take any actions while crouching. This makes him effectively blind, with all the normal penalties, but not helpless. The wearer can end his crouch simply by standing up or moving.
+This nondescript gray cloak has a hood that can fit over the wearer's entire face. The wearer can, as a move action, cover his face and drop to a huddling crouch. Any creature seeking to directly attack him while he does this must make a DC 11 Will save to do so (as the _ [sanctuary](spell_dir/sanctuary#_sanctuary)_ spell). The wearer cannot see or take any actions while crouching. This makes him effectively blind, with all the normal penalties, but not helpless. The wearer can end his crouch simply by standing up or moving.
 
 Construction Requirements
 
 Cost 900 gp
 
-Craft Wondrous Item, _ [sanctuary](spell_dir/sanctuary#_sanctuary)_
+Craft Wondrous Item, _ [sanctuary](spells/sanctuary#_sanctuary)_
 
 Demonspike Pauldrons
 
@@ -377,19 +377,19 @@ Construction Requirements
 
 Cost 7,175 gp
 
-Craft Wondrous Item, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor, _ [bleed](spell_dir/bleed#_bleed_
+Craft Wondrous Item, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [bleed](spell_dir/bleed#_bleed)_
 
 Eagle Cape
 
 **Price** 7,000 gp; **Aura** moderate transmutation; **CL** 7th; **Weight** 1 lb.
 
-Large eagle feathers decorate the back and arms of this magnificent cape. Should the cape's wearer fall more than 5 feet, the cape spreads out behind the wearer and she gently drifts to the ground. This acts exactly like a _ [feather fall](spell_dir/featherFall#_feather-fall_ spell for the wearer only. Once per day, if the wearer grasps the edges of the cape and spreads her arms, she transforms into an eagle (as per the _ [beast shape I](spell_dir/beastShape#_beast-shape-i)_ spell, except that it allows only eagle form and the wearer gains the eagle's full fly speed of 80 feet. This effect lasts for 10 minutes but can be ended prematurely as a standard action. In addition, while in eagle form, the wearer gains a +5 competence bonus on [Perception](skill_dir/perception#_perception checks.
+Large eagle feathers decorate the back and arms of this magnificent cape. Should the cape's wearer fall more than 5 feet, the cape spreads out behind the wearer and she gently drifts to the ground. This acts exactly like a _ [feather fall](spells/featherFall#_feather-fall)_ spell for the wearer only. Once per day, if the wearer grasps the edges of the cape and spreads her arms, she transforms into an eagle (as per the _ [beast shape I](spell_dir/beastShape#_beast-shape-i)_ spell, except that it allows only eagle form and the wearer gains the eagle's full fly speed of 80 feet). This effect lasts for 10 minutes but can be ended prematurely as a standard action. In addition, while in eagle form, the wearer gains a +5 competence bonus on [Perception](skills/perception#_perception) checks.
 
 Construction Requirements
 
 Cost 3,500 gp
 
-Craft Wondrous Item, _ [beast shape I](spell_dir/beastShape#_beast-shape-i_, _ [feather fall](spell_dir/featherFall#_feather-fall, perceive clues _
+Craft Wondrous Item, _ [beast shape I](spell_dir/beastShape#_beast-shape-i)_, _ [feather fall](spells/featherFall#_feather-fall), perceive clues _
 
 Gunfighter's Poncho
 
@@ -401,79 +401,79 @@ Construction Requirements
 
 Cost 7,000 gp
 
-Craft Wondrous Item, _ [bullet shield](ultimateCombat/spell_dir/bulletShield#_bullet-shield_
+Craft Wondrous Item, _ [bullet shield](ultimateComba_dir/spells/bulletShield#_bullet-shield)_
 
 Highwayman's Cape
 
 **Price** 32,500 gp; **Aura** faint transmutation ; **CL** 5th; **Weight** 1 lb.
 
-This reversible multicolored cape marks the wearer's flamboyant audacity when turned with its bright colors outward, granting a +5 competence bonus on [Bluff](skill_dir/bluff#_bluff checks. Reversible as a move action, the dappled camouflage of its other side grants a +5 competence bonus on [Stealth](skill_dir/stealth#_stealth checks. Furthermore, the wearer is subject to a constant effect like that of the spell _ [liberating command](ultimateCombat/spell_dir/liberatingCommand#_liberating-command_ regardless of the cape's current facing.
+This reversible multicolored cape marks the wearer's flamboyant audacity when turned with its bright colors outward, granting a +5 competence bonus on [Bluff](skill_dir/bluff#_bluff) checks. Reversible as a move action, the dappled camouflage of its other side grants a +5 competence bonus on [Stealth](skills/stealth#_stealth) checks. Furthermore, the wearer is subject to a constant effect like that of the spell _ [liberating command](ultimateComba_dir/spells/liberatingCommand#_liberating-command)_ regardless of the cape's current facing.
 
 Construction Requirements
 
 Cost 16,250 gp
 
-Craft Wondrous Item, _ [liberating command](ultimateCombat/spell_dir/liberatingCommand#_liberating-command_
+Craft Wondrous Item, _ [liberating command](ultimateComba_dir/spells/liberatingCommand#_liberating-command)_
 
 Hunter's Cloak
 
 **Price** 7,500 gp; **Aura** faint transmutation ; **CL** 5th; **Weight** 1 lb.
 
-Usually made from the skins of giant serpents, these cloaks are designed to help rangers, hunters, and trackers blend in with and travel quickly through the areas they are most familiar with. If the wearer has the favored terrain class ability and is traveling through one of his favored terrains, once per day he can transform himself into an animal native to that environment. This works identically to the _ [beast shape I](spell_dir/beastShape#_beast-shape-i)_ spell, save that it is limited to creatures native to the environment (as defined in the appropriate _Bestiary_ entry or per the GMs discretion. This effect lasts for 10 minutes per day. The duration need not be continuous, but it must be used in 1-minute increments.
+Usually made from the skins of giant serpents, these cloaks are designed to help rangers, hunters, and trackers blend in with and travel quickly through the areas they are most familiar with. If the wearer has the favored terrain class ability and is traveling through one of his favored terrains, once per day he can transform himself into an animal native to that environment. This works identically to the _ [beast shape I](spell_dir/beastShape#_beast-shape-i)_ spell, save that it is limited to creatures native to the environment (as defined in the appropriate _Bestiary_ entry or per the GMs discretion). This effect lasts for 10 minutes per day. The duration need not be continuous, but it must be used in 1-minute increments.
 
 Construction Requirements
 
 Cost 3,750 gp
 
-Craft Wondrous Item, _ [beast shape I](spell_dir/beastShape#_beast-shape-i)_
+Craft Wondrous Item, _ [beast shape I](spells/beastShape#_beast-shape-i)_
 
 Jellyfish Cape
 
 **Price** 19,200 gp; **Aura** moderate transmutation; **CL** 7th; **Weight** 1 lb.
 
-This billowing white cape renders the wearer almost invisible the moment she is submerged in salt water, granting her concealment (20% miss chance so long as she remains entirely submerged. The wearer can breathe underwater and gains a swim speed of 20 ft. While the wearer is submerged, the cape surrounds her with tiny stinging tentacles. Any creature that ends its turn adjacent to the wearer takes 1 point of electricity damage and must succeed at a DC 16 Fortitude saving throw or be sickened for 1 round. The sickened effect is a poison effect.
+This billowing white cape renders the wearer almost invisible the moment she is submerged in salt water, granting her concealment (20% miss chance) so long as she remains entirely submerged. The wearer can breathe underwater and gains a swim speed of 20 ft. While the wearer is submerged, the cape surrounds her with tiny stinging tentacles. Any creature that ends its turn adjacent to the wearer takes 1 point of electricity damage and must succeed at a DC 16 Fortitude saving throw or be sickened for 1 round. The sickened effect is a poison effect.
 
 Construction Requirements
 
 Cost 9,600 gp
 
-Craft Wondrous Item, _ [beast shape II](spell_dir/beastShape#_beast-shape-ii, [water breathing](spell_dir/waterBreathing#_water-breathing)_
+Craft Wondrous Item, _ [beast shape II](spell_dir/beastShape#_beast-shape-ii), [water breathing](spells/waterBreathing#_water-breathing)_
 
 Juggernaut's Pauldrons
 
 **Price** 40,000 gp; **Aura** faint necromancy; **CL** 5th; **Weight** 1 lb.
 
-These massive pauldrons take the shape of a pair of clenched fists made of beaten bronze. They bestow a +4 bonus on CMD, and grant the wearer the ferocity ability (_Bestiary _300. On command, the wearer can increase its size, as though subject to an _ [enlarge person](spell_dir/enlargePerson#_enlarge-person_ spell, and can revert to regular size with another command. Three times per day, as an immediate action after the pauldrons' wearer kills an opponent, the wearer gains the benefit of the _ [deadly juggernaut](ultimateCombat/spell_dir/deadlyJuggernaut#_deadly-juggernaut_ spell for 1 minute.
+These massive pauldrons take the shape of a pair of clenched fists made of beaten bronze. They bestow a +4 bonus on CMD, and grant the wearer the ferocity ability (_Bestiary _300). On command, the wearer can increase its size, as though subject to an _ [enlarge person](spell_dir/enlargePerson#_enlarge-person)_ spell, and can revert to regular size with another command. Three times per day, as an immediate action after the pauldrons' wearer kills an opponent, the wearer gains the benefit of the _ [deadly juggernaut](ultimateCombat/spell_dir/deadlyJuggernaut#_deadly-juggernaut)_ spell for 1 minute.
 
 Construction Requirements
 
 Cost 20,000 gp
 
-Craft Wondrous Item, _ [deadly juggernaut](ultimateCombat/spell_dir/deadlyJuggernaut#_deadly-juggernaut_, _ [enlarge person](spell_dir/enlargePerson#_enlarge-person_, _ [rage](spell_dir/rage#_rage_
+Craft Wondrous Item, _ [deadly juggernaut](ultimateCombat/spell_dir/deadlyJuggernaut#_deadly-juggernaut)_, _ [enlarge person](spells/enlargePerson#_enlarge-person)_, _ [rage](spell_dir/rage#_rage)_
 
 Lion Cloak
 
 **Price** 12,000 gp; **Aura** moderate transmutation; **CL** 10th; **Weight** 1 lb.
 
-Made from a single male lion's coat with the mane surrounding its hood, the _lion cloak_ is an impressive sight. A creature wearing the cloak gains a +2 resistance bonus on saving throws made against mind-affecting and fear effects and a +2 circumstance bonus on [Intimidate](skill_dir/intimidate#_intimidate checks. Once per day, the wearer can pull the hood over her head, assuming the form of a lion (as the _ [beast shape II](spell_dir/beastShape#_beast-shape-ii)_ spell, except that it allows only lion form for up to 10 minutes. If the wearer has the smite class feature, she can use this power more than once per day by expending uses of her smite; at most she can take the lion form as many times as she has smites plus one additional time. While in this lion form the wearer cannot use its normal smite ability.
+Made from a single male lion's coat with the mane surrounding its hood, the _lion cloak_ is an impressive sight. A creature wearing the cloak gains a +2 resistance bonus on saving throws made against mind-affecting and fear effects and a +2 circumstance bonus on [Intimidate](skills/intimidate#_intimidate) checks. Once per day, the wearer can pull the hood over her head, assuming the form of a lion (as the _ [beast shape II](spell_dir/beastShape#_beast-shape-ii)_ spell, except that it allows only lion form) for up to 10 minutes. If the wearer has the smite class feature, she can use this power more than once per day by expending uses of her smite; at most she can take the lion form as many times as she has smites plus one additional time. While in this lion form the wearer cannot use its normal smite ability.
 
 Construction Requirements
 
 Cost 6,000 gp
 
-Craft Wondrous Item, _ [beast shape II](spell_dir/beastShape#_beast-shape-ii_
+Craft Wondrous Item, _ [beast shape II](spells/beastShape#_beast-shape-ii)_
 
 Mantle of Spores
 
 **Price** 13,400 gp; **Aura** faint necromancy; **CL** 5th; **Weight** 1 lb.
 
-This mantle grants the wearer a +4 resistance bonus on saving throws against disease. Once per day, the wearer can flourish the cape as a swift action to surround himself with a cloud of deadly spores. Creatures adjacent to the wearer take 1d6 points of damage from the spores, plus 1d3 points of damage per round for 3 rounds as the spores grow into fuzzy green mold. After these rounds the mold becomes harmless, and can be washed away with a minute of scrubbing. The spores can be destroyed by making a DC 15 [Heal](skill_dir/heal#_heal check on an affected creature, or by effects that remove diseases. The spores are a disease effect.
+This mantle grants the wearer a +4 resistance bonus on saving throws against disease. Once per day, the wearer can flourish the cape as a swift action to surround himself with a cloud of deadly spores. Creatures adjacent to the wearer take 1d6 points of damage from the spores, plus 1d3 points of damage per round for 3 rounds as the spores grow into fuzzy green mold. After these rounds the mold becomes harmless, and can be washed away with a minute of scrubbing. The spores can be destroyed by making a DC 15 [Heal](skill_dir/heal#_heal) check on an affected creature, or by effects that remove diseases. The spores are a disease effect.
 
 Construction Requirements
 
 Cost 6,700 gp
 
-Craft Wondrous Item, _ [contagion](spell_dir/contagion#_contagion_
+Craft Wondrous Item, _ [contagion](spells/contagion#_contagion)_
 
 Muleback Cords
 
@@ -485,7 +485,7 @@ Construction Requirements
 
 Cost 500 gp
 
-Craft Wondrous Item, _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_
+Craft Wondrous Item, _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength)_
 
 Pauldrons of the Bull
 
@@ -497,7 +497,7 @@ Construction Requirements
 
 Cost 5,000 gp
 
-Craft Wondrous Item, _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_
+Craft Wondrous Item, _ [bull's strength](spells/bullSStrength#_bull-s-strength)_
 
 Pauldrons of the Serpent
 
@@ -509,19 +509,19 @@ Construction Requirements
 
 Cost 1,500 gp
 
-Craft Wondrous Item, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_
+Craft Wondrous Item, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace)_
 
 Pauldrons of the Watchful Lion
 
 **Price** 10,800 gp; **Aura** faint necromancy; **CL** 5th; **Weight** 3 lbs.
 
-These steel and brass pauldrons feature two brass lion heads, one on each shoulder. Twice a day as an immediate action when a creature successfully makes an [Acrobatics](skill_dir/acrobatics#_acrobatics) check to move through the wearer's threatened area or its space without provoking an attack of opportunity, a shadowy lion can animate from one of the pauldrons and attack that creature. The attack uses the wearer's base attack bonus + Dexterity modifier and attacks the target's touch AC. On a hit, the lion deals 2d6 points of piercing damage (×2 critical).
+These steel and brass pauldrons feature two brass lion heads, one on each shoulder. Twice a day as an immediate action when a creature successfully makes an [Acrobatics](skills/acrobatics#_acrobatics) check to move through the wearer's threatened area or its space without provoking an attack of opportunity, a shadowy lion can animate from one of the pauldrons and attack that creature. The attack uses the wearer's base attack bonus + Dexterity modifier and attacks the target's touch AC. On a hit, the lion deals 2d6 points of piercing damage (×2 critical).
 
 Construction Requirements
 
 Cost 5,400 gp
 
-Craft Wondrous Item, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor, _ [spectral hand](spell_dir/spectralHand#_spectral-hand_
+Craft Wondrous Item, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [spectral hand](spell_dir/spectralHand#_spectral-hand)_
 
 Prestidigitator's Cloak
 
@@ -533,19 +533,19 @@ Construction Requirements
 
 Cost 8,600 gp
 
-Craft Wondrous Item, _ [guidance](spell_dir/guidance#_guidance_, _ [rope trick](spell_dir/ropeTrick#_rope-trick_
+Craft Wondrous Item, _ [guidance](spells/guidance#_guidance)_, _ [rope trick](spell_dir/ropeTrick#_rope-trick)_
 
 Quickchange Cloak
 
 **Price** 1,500 gp; **Aura** faint transmutation; **CL** 1st; **Weight** 1 lb.
 
-One side of this reversible gray hooded cape is exquisitely embroidered and richly decorated, while the other appears shabby and worn. On command, by passing the edge of the cloak over her face, the wearer may remove a mundane disguise (one applied with the [Disguise](skill_dir/disguise#_disguise) skill and store it in the cloak. This does not change the cloak's appearance in any way. Once a disguise is stored in the cloak, it can be reapplied to the wearer who placed it within the cloak on command, using the original result of the [Disguise](skill_dir/disguise#_disguise check. The cloak can store up to three disguises at once, and any wearer of the cloak can discard any number of disguises within the cloak as a free action.
+One side of this reversible gray hooded cape is exquisitely embroidered and richly decorated, while the other appears shabby and worn. On command, by passing the edge of the cloak over her face, the wearer may remove a mundane disguise (one applied with the [Disguise](skills/disguise#_disguise) skill) and store it in the cloak. This does not change the cloak's appearance in any way. Once a disguise is stored in the cloak, it can be reapplied to the wearer who placed it within the cloak on command, using the original result of the [Disguise](skill_dir/disguise#_disguise) check. The cloak can store up to three disguises at once, and any wearer of the cloak can discard any number of disguises within the cloak as a free action.
 
 Construction Requirements
 
 Cost 750 gp
 
-Craft Wondrous Item, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation_, creator must have at least 5 ranks in [Disguise](skill_dir/disguise#_disguise)
+Craft Wondrous Item, _ [prestidigitation](spells/prestidigitation#_prestidigitation)_, creator must have at least 5 ranks in [Disguise](skill_dir/disguise#_disguise)
 
 Seafoam Shawl
 
@@ -563,7 +563,7 @@ Shawl of Life-Keeping
 
 **Price** 1,000 gp; **Aura** faint conjuration ; **CL** 3rd; **Weight** 1 lb.
 
-This magical shawl is woven from silken, diaphanous material. Once per day, the wearer can speak a command word to transfer some of her life energy into the shawl (up to 10 hit points. If she is wearing the shawl and is reduced to –1 hit points or below, the shawl immediately heals her an amount equal to the number of hit points stored in the shawl. This healing cannot prevent the wearer from being killed. The life energy stored in the shawl lasts for 24 hours or until it heals the wearer, whichever comes first. If the shawl is destroyed, the stored life energy is lost.
+This magical shawl is woven from silken, diaphanous material. Once per day, the wearer can speak a command word to transfer some of her life energy into the shawl (up to 10 hit points). If she is wearing the shawl and is reduced to –1 hit points or below, the shawl immediately heals her an amount equal to the number of hit points stored in the shawl. This healing cannot prevent the wearer from being killed. The life energy stored in the shawl lasts for 24 hours or until it heals the wearer, whichever comes first. If the shawl is destroyed, the stored life energy is lost.
 
 While the shawl is storing a creature's life energy, it retains a connection to that creature. If another creature holds the shawl in its hand, the creature whose life energy is stored in the shawl takes a –2 penalty on Fortitude and Reflex saving throws against all effects from the current bearer of the shawl.
 
@@ -571,19 +571,19 @@ Construction Requirements
 
 Cost 500 gp
 
-Craft Wondrous Item, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds_, _ [stabilize](spell_dir/stabilize#_stabilize)_
+Craft Wondrous Item, _ [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_, _ [stabilize](spell_dir/stabilize#_stabilize)_
 
 Shawl of the Crone
 
 **Price** 16,000 gp; **Aura** faint transmutation; **CL** 3rd; **Weight** 1 lb.
 
-The yarn making up this knitted gray wrap is frayed and tattered. As soon as a creature puts on the shawl, she immediately takes the form of a venerable female of her race (regardless of the wearer's actual gender and remains so until the shawl is removed. Though this is an actual physical transformation, the wearer does not experience any infirmities due to advanced age, including penalties to her physical attributes, nor does she gain any bonuses to her mental attributes. The wearer also gains a +4 circumstance bonus on any Charisma-based check intended to make her appear friendly, harmless, helpless, or otherwise in need of assistance or deserving of proper respect for someone of her apparent age. This bonus increases to +8 when directed against children. The wearer also counts as a hag for the purposes of forming a covey, but this covey must always include at least one actual hag.
+The yarn making up this knitted gray wrap is frayed and tattered. As soon as a creature puts on the shawl, she immediately takes the form of a venerable female of her race (regardless of the wearer's actual gender) and remains so until the shawl is removed. Though this is an actual physical transformation, the wearer does not experience any infirmities due to advanced age, including penalties to her physical attributes, nor does she gain any bonuses to her mental attributes. The wearer also gains a +4 circumstance bonus on any Charisma-based check intended to make her appear friendly, harmless, helpless, or otherwise in need of assistance or deserving of proper respect for someone of her apparent age. This bonus increases to +8 when directed against children. The wearer also counts as a hag for the purposes of forming a covey, but this covey must always include at least one actual hag.
 
 Construction Requirements
 
 Cost 8,000 gp
 
-Craft Wondrous Item, _ [alter self](spell_dir/alterSelf#_alter-self)_
+Craft Wondrous Item, _ [alter self](spells/alterSelf#_alter-self)_
 
 Shield Cloak
 
@@ -595,7 +595,7 @@ Construction Requirements
 
 Cost 500 gp
 
-Craft Wondrous Item, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor, _ [shield](spell_dir/shield#_shield_
+Craft Wondrous Item, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [shield](spell_dir/shield#_shield)_
 
 Slashing Cloak
 
@@ -607,19 +607,19 @@ Construction Requirements
 
 Cost 10,000 gp
 
-Craft Wondrous Item, _ [blade barrier](spell_dir/bladeBarrier#_blade-barrier_; **Cost** 10,000 gp
+Craft Wondrous Item, _ [blade barrier](spells/bladeBarrier#_blade-barrier)_; **Cost** 10,000 gp
 
 Stole of Justice
 
 **Price** 18,000 gp; **Aura** faint divination; **CL** 5th; **Weight** 1 lb.
 
-This long stole of unrelenting black is marked on one end with golden scales and the other with the embroidered image of hooded justice. The wearer gains a +5 competence bonus on [Sense Motive](skill_dir/senseMotive#_sense-motive checks and can create a _ [zone of truth](spell_dir/zoneOfTruth#_zone-of-truth_ for up to 5 minutes per day; these rounds need not be consecutive. When the wearer uses _ [detect chaos](spell_dir/detectChaos#_detect-chaos, [detect evil](spell_dir/detectEvil#_detect-evil, [detect good](spell_dir/detectGood#_detect-good_, or _ [detect law](spell_dir/detectLaw#_detect-law_, at the beginning of her next turn after casting she gains information as if she had concentrated for 3 full rounds. Finally, if the wearer is an inquisitor, when using her judgment she receives a bonus on [Perception](skill_dir/perception#_perception checks and her combat maneuver defense as if she were wielding a _ [jurist](advanced/magicItem_dir/weapons#_jurist _weapon.
+This long stole of unrelenting black is marked on one end with golden scales and the other with the embroidered image of hooded justice. The wearer gains a +5 competence bonus on [Sense Motive](skill_dir/senseMotive#_sense-motive) checks and can create a _ [zone of truth](spells/zoneOfTruth#_zone-of-truth)_ for up to 5 minutes per day; these rounds need not be consecutive. When the wearer uses _ [detect chaos](spell_dir/detectChaos#_detect-chaos), [detect evil](spells/detectEvil#_detect-evil), [detect good](spell_dir/detectGood#_detect-good)_, or _ [detect law](spells/detectLaw#_detect-law)_, at the beginning of her next turn after casting she gains information as if she had concentrated for 3 full rounds. Finally, if the wearer is an inquisitor, when using her judgment she receives a bonus on [Perception](skill_dir/perception#_perception) checks and her combat maneuver defense as if she were wielding a _ [jurist](advanced/magicItem_dir/weapons#_jurist) _weapon.
 
 Construction Requirements
 
 Cost 9,000 gp
 
-Craft Wondrous Item, _ [zone of truth](spell_dir/zoneOfTruth#_zone-of-truth_, creator must have 5 ranks of [Sense Motive](skill_dir/senseMotive#_sense-motive
+Craft Wondrous Item, _ [zone of truth](spells/zoneOfTruth#_zone-of-truth)_, creator must have 5 ranks of [Sense Motive](skill_dir/senseMotive#_sense-motive)
 
 Stone Cloak, Major
 
@@ -631,49 +631,49 @@ Construction Requirements
 
 Cost 10,000 gp
 
-Craft Wondrous Item, _ [stoneskin](spell_dir/stoneskin#_stoneskin_
+Craft Wondrous Item, _ [stoneskin](spell_dir/stoneskin#_stoneskin)_
 
 Stone Cloak, Minor
 
 **Price** 10,000 gp; **Aura** faint abjuration; **CL** 5th; **Weight** 1 lb.
 
-This mottled gray cloak looks like granite or some other light gray stone. The wearer can pull a _minor stone cloak_ tight around herself and freeze in place as a move action, which causes the cloak to harden like the stone it resembles. When she does this, the wearer can take no actions other than free actions and is denied her Dexterity bonus to AC but gains DR 5/adamantine. She also gains a +5 circumstance bonus to [Stealth](skill_dir/stealth#_stealth checks while protected in this manner. This effect can be dismissed as a free action.
+This mottled gray cloak looks like granite or some other light gray stone. The wearer can pull a _minor stone cloak_ tight around herself and freeze in place as a move action, which causes the cloak to harden like the stone it resembles. When she does this, the wearer can take no actions other than free actions and is denied her Dexterity bonus to AC but gains DR 5/adamantine. She also gains a +5 circumstance bonus to [Stealth](skill_dir/stealth#_stealth) checks while protected in this manner. This effect can be dismissed as a free action.
 
 Construction Requirements
 
 Cost 5,000 gp
 
-Craft Wondrous Item, _ [stone shape](spell_dir/stoneShape#_stone-shape_
+Craft Wondrous Item, _ [stone shape](spells/stoneShape#_stone-shape)_
 
 Stonemist Cloak
 
 **Price** 3,500 gp; **Aura** faint conjuration and illusion; **CL** 3rd; **Weight** 1 lb.
 
-In rocky or mountainous areas, when this stone-gray cloak is worn with the hood drawn up around the head, the wearer gains a +5 competence bonus on [Stealth](skill_dir/stealth#_stealth checks. Once per day, the wearer can create an area of fog equivalent to _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist_.
+In rocky or mountainous areas, when this stone-gray cloak is worn with the hood drawn up around the head, the wearer gains a +5 competence bonus on [Stealth](skill_dir/stealth#_stealth) checks. Once per day, the wearer can create an area of fog equivalent to _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_.
 
 Construction Requirements
 
 Cost 1,750 gp
 
-Craft Wondrous Item, _ [invisibility](spell_dir/invisibility#_invisibility_, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist)_
+Craft Wondrous Item, _ [invisibility](spell_dir/invisibility#_invisibility)_, _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_
 
 Tentacle Cloak
 
 **Price** 14,000 gp; **Aura** moderate transmutation; **CL** 7th; **Weight** 1 lb.
 
-Subtle, indefinable shapes ripple and flow when this deep blue cloak moves, seemingly devouring any light falling upon it. Once per day at the wearer's command, two large gray tentacles emerge from the cloak near the shoulders. Each tentacle can make a natural attack that deals 1d6 points of bludgeoning damage, assuming the wear is Medium (the damage of the tentacles scales by size of the wearer as a tentacle natural attack; _Bestiary_ 302. The tentacles have 10-foot reach and the grab monster special ability . In addition, the wearer gains a +4 competence bonus on grapple maneuver checks with the tentacles. The tentacles last for 1 minute.
+Subtle, indefinable shapes ripple and flow when this deep blue cloak moves, seemingly devouring any light falling upon it. Once per day at the wearer's command, two large gray tentacles emerge from the cloak near the shoulders. Each tentacle can make a natural attack that deals 1d6 points of bludgeoning damage, assuming the wear is Medium (the damage of the tentacles scales by size of the wearer as a tentacle natural attack; _Bestiary_ 302). The tentacles have 10-foot reach and the grab monster special ability . In addition, the wearer gains a +4 competence bonus on grapple maneuver checks with the tentacles. The tentacles last for 1 minute.
 
 Construction Requirements
 
 Cost 7,000 gp
 
-Craft Wondrous Item, _ [polymorph](spell_dir/polymorph#_polymorph self_
+Craft Wondrous Item, _ [polymorph](spell_dir/polymorph#_polymorph) self_
 
 Treeform Cloak
 
 **Price** 6,000 gp; **Aura** moderate transmutation; **CL** 7th; **Weight** 1 lb.
 
-This long green cloak's back features an embroidered image of an ancient oak. Once per day on command, the wearer can assume the shape of a tree, as the _ [tree shape](spell_dir/treeShape#_tree-shape_ spell, but can only take the form of a living tree. Furthermore, each hour the wear spends in tree form while in direct sunlight, he heals 1d6 hit points.
+This long green cloak's back features an embroidered image of an ancient oak. Once per day on command, the wearer can assume the shape of a tree, as the _ [tree shape](spells/treeShape#_tree-shape)_ spell, but can only take the form of a living tree. Furthermore, each hour the wear spends in tree form while in direct sunlight, he heals 1d6 hit points.
 
 Construction Requirements
 
@@ -685,13 +685,13 @@ Wings of Flying
 
 **Price** 54,000 gp; **Aura** moderate transmutation; **CL** 10th; **Weight** 2 lbs.
 
-A pair of these wings might appear to be nothing more than a plain cloak of old, black cloth, or they could be as elegant as a long cape of blue feathers. When the wearer speaks the command word, the cloak turns into a pair of bat or bird wings that empower her to fly with a speed of 60 feet (average maneuverability, also granting a +5 competence bonus on [Fly](skill_dir/fly#_fly skill checks.
+A pair of these wings might appear to be nothing more than a plain cloak of old, black cloth, or they could be as elegant as a long cape of blue feathers. When the wearer speaks the command word, the cloak turns into a pair of bat or bird wings that empower her to fly with a speed of 60 feet (average maneuverability), also granting a +5 competence bonus on [Fly](skills/fly#_fly) skill checks.
 
 Construction Requirements
 
 Cost 27,000 gp
 
-Craft Wondrous Item, _ [fly](spell_dir/fly_
+Craft Wondrous Item, _ [fly](spell_dir/fly)_
 
 Wings of the Gargoyle
 
@@ -703,17 +703,17 @@ Construction Requirements
 
 Cost 36,000 gp
 
-Craft Wondrous Item, _ [fly](spell_dir/fly_, stoneskin
+Craft Wondrous Item, _ [fly](spell_dir/fly)_, stoneskin
 
 Wyvern Cloak
 
 **Price** 78,600 gp; **Aura** moderate transmutation; **CL** 7th; **Weight** 1 lb.
 
-This heavy cloak is made of blue scaled leather and has a pointed hem that hangs near the ground. The cloak provides the wearer a +4 resistance bonus on Will saves, a continuous _ [feather fall](spell_dir/featherFall#_feather-fall)_ effect (as the spell, and the ability to use _ [fly](spell_dir/fly_ once per day. At will as a swift action, the wearer can form the hem into a stinger, granting her a sting natural weapon. This sting deals 1d6 points of damage plus _ [poison](spell_dir/poison#_poison)_ (as the spell; DC 16. Reverting the stinger to its normal, inconspicuous shape is a free action.
+This heavy cloak is made of blue scaled leather and has a pointed hem that hangs near the ground. The cloak provides the wearer a +4 resistance bonus on Will saves, a continuous _ [feather fall](spells/featherFall#_feather-fall)_ effect (as the spell), and the ability to use _ [fly](spell_dir/fly)_ once per day. At will as a swift action, the wearer can form the hem into a stinger, granting her a sting natural weapon. This sting deals 1d6 points of damage plus _ [poison](spells/poison#_poison)_ (as the spell; DC 16). Reverting the stinger to its normal, inconspicuous shape is a free action.
 
 Construction Requirements
 
 Cost 39,300 gp
 
-Craft Wondrous Item, _ [feather fall](spell_dir/featherFall#_feather-fall_, _ [fly](spell_dir/fly_, _ [poison](spell_dir/poison#_poison_, _ [resistance](spell_dir/resistance#_resistance_, creator must be at least caster level 12
+Craft Wondrous Item, _ [feather fall](spell_dir/featherFall#_feather-fall)_, _ [fly](spells/fly)_, _ [poison](spell_dir/poison#_poison)_, _ [resistance](spells/resistance#_resistance)_, creator must be at least caster level 12
 

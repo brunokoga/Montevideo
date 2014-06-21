@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/contagion
+title: ultimateMagi_dir/spells/contagion
 ---
 Contagion, Greater
 
-**School** necromancy [disease, evil]; **Level** cleric 5, druid 5, sorcerer/wizard 6, witch 5
+**School** necromancy [disease, evil]; **Level** cleric 5, druid 5, sorcere_dir/wizard 6, witch 5
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ Contagion, Greater
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions as _ [contagion](spell_dir/contagion#_contagion_, except the victim cannot overcome the disease without magic—making the required number of saves does not cure it. The DC to remove the disease with magic is equal to the save DC + 5.
+This spell functions as _ [contagion](spell_dir/contagion#_contagion)_, except the victim cannot overcome the disease without magic—making the required number of saves does not cure it. The DC to remove the disease with magic is equal to the save DC + 5.
 

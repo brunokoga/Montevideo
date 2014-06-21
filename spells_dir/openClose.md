@@ -1,5 +1,5 @@
 ---
-title: spells/openClose
+title: spell_dir/openClose
 ---
  **Open/Close**
 
@@ -7,7 +7,7 @@ title: spells/openClose
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a brass key
+**Components** V, S, F (a brass key)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

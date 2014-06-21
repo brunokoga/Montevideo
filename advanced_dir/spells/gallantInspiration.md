@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/gallantInspiration
+title: advance_dir/spells/gallantInspiration
 ---
  **Gallant Inspiration**
 

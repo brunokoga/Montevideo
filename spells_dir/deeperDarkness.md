@@ -1,5 +1,5 @@
 ---
-title: spells/deeperDarkness
+title: spell_dir/deeperDarkness
 ---
  **Deeper Darkness**
 

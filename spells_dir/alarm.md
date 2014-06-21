@@ -1,5 +1,5 @@
 ---
-title: spells/alarm
+title: spell_dir/alarm
 ---
  **Alarm**
 
@@ -13,7 +13,7 @@ title: spells/alarm
 
 **Area** 20-ft.-radius emanation centered on a point in space
 
-**Duration** 2 hour_dir/level (D
+**Duration** 2 hour_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

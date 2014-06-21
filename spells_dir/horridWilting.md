@@ -1,5 +1,5 @@
 ---
-title: spells/horridWilting
+title: spell_dir/horridWilting
 ---
  **Horrid Wilting**
 

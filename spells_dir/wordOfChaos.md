@@ -1,5 +1,5 @@
 ---
-title: spells/wordOfChaos
+title: spell_dir/wordOfChaos
 ---
  **Word of Chaos**
 

@@ -1,5 +1,5 @@
 ---
-title: spells/reduceAnimal
+title: spell_dir/reduceAnimal
 ---
  **Reduce Animal**
 
@@ -13,7 +13,7 @@ title: spells/reduceAnimal
 
 **Target** one willing animal of Small, Medium, Large, or Huge size
 
-**Duration** 1 hou_dir/level (D
+**Duration** 1 hour/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

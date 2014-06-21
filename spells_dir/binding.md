@@ -3,11 +3,11 @@ title: spell_dir/binding
 ---
  **Binding**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** sorcere_dir/wizard 8
+**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 8
 
 **Casting Time** 1 minute
 
-**Components** V, S, M (opals worth 500 gp per HD of the target creature, plus other components as specified below
+**Components** V, S, M (opals worth 500 gp per HD of the target creature, plus other components as specified below)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

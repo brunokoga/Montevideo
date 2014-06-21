@@ -1,5 +1,5 @@
 ---
-title: skills/acrobatics
+title: skill_dir/acrobatics
 ---
 # Acrobatics
 

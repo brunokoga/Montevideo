@@ -1,19 +1,19 @@
 ---
-title: spells/sequester
+title: spell_dir/sequester
 ---
  **Sequester**
 
-**School** abjuration; **Level** sorcere_dir/wizard 7
+**School** abjuration; **Level** sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a basilisk eyelash and gum arabic
+**Components** V, S, M (a basilisk eyelash and gum arabic)
 
 **Range** touch
 
-**Target** one willing creature or object (up to a 2-ft. cub_dir/level touched
+**Target** one willing creature or object (up to a 2-ft. cub_dir/level) touched
 
-**Duration** 1 da_dir/level (D
+**Duration** 1 day/level (D)
 
 **Saving Throw** none or [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** no or yes (object)
 

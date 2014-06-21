@@ -1,5 +1,5 @@
 ---
-title: spells/holySword
+title: spell_dir/holySword
 ---
  **Holy Sword**
 

@@ -1,5 +1,5 @@
 ---
-title: advancedRaceGuide/featuredRaces/orcs
+title: advancedRaceGuid_dir/featuredRaces/orcs
 ---
 # Orcs
 
@@ -35,7 +35,7 @@ Orcs look upon half-orcs with a strange mixture of contempt, envy, and pride. Th
 
 **Darkvision** : Orcs can see in the dark up to 60 feet.
 
-**Light Sensitivity** : Orcs are dazzled in areas of bright sunlight or within the radius of a _ [daylight](spell_dir/daylight#_daylight_ spell.
+**Light Sensitivity** : Orcs are dazzled in areas of bright sunlight or within the radius of a _ [daylight](spell_dir/daylight#_daylight)_ spell.
 
 **Ferocity** : Orcs can remain conscious and continue fighting even if their hit point totals fall below 0. Orcs are still staggered at 0 hit points or lower and lose 1 hit point each round as normal.
 
@@ -49,7 +49,7 @@ The following racial traits may be selected instead of existing orc racial trait
 
 **Dayrunner** : Orcs refuse to yield to any foe, including the sun. Some spend hour upon hour glaring at the sun until their ruined eyes acclimatize to bright light. Orcs with this racial trait take a –2 penalty on all ranged attack rolls. This racial trait replaces light sensitivity.
 
-**Feral** : Orcs have the ability to fend for themselves long before they master the rudiments of their language and culture. Having needed to hunt bugs and tiny animals for food to survive while still infants, feral orcs fight all the harder to survive when at the brink of death. Orcs with this racial trait gain [Survival](skill_dir/survival#_survival as a class skill and gain a +1 racial bonus on melee weapon attack and damage rolls when at negative hit points. This racial trait replaces the orc's weapon familiarity and automatic languages. Feral orcs without additional languages due to high Intelligence scores or ranks in [Linguistics](skill_dir/linguistics#_linguistics can only communicate with grunts and gestures.
+**Feral** : Orcs have the ability to fend for themselves long before they master the rudiments of their language and culture. Having needed to hunt bugs and tiny animals for food to survive while still infants, feral orcs fight all the harder to survive when at the brink of death. Orcs with this racial trait gain [Survival](skills/survival#_survival) as a class skill and gain a +1 racial bonus on melee weapon attack and damage rolls when at negative hit points. This racial trait replaces the orc's weapon familiarity and automatic languages. Feral orcs without additional languages due to high Intelligence scores or ranks in [Linguistics](skill_dir/linguistics#_linguistics) can only communicate with grunts and gestures.
 
 **Smeller** : Orcs with this racial trait gain a limited scent ability with half the normal range. This racial trait replaces ferocity and weapon familiarity.
 
@@ -97,15 +97,15 @@ The scarred witch doctor draws power from her ability to endure pain and sufferi
 
 **Hex Scar** : Whenever a scarred witch doctor learns a hex, she must carve or brand a symbol in her flesh to represent this hex. She can disguise these scars with mundane or magical means, but they cannot be permanently removed.
 
-**Fetish Mask (Su** : At 1st level, a scarred witch doctor forms a bond with a wooden mask. As she gains power, her connection to this mask causes it to grow ever more hideous and grotesque as it absorbs the weight of the self-induced pain that underlies her magic. Her spells derive from the insights her patron grants her while she's enduring the cuts, burns, and other sorts of mutilations she inflicts upon herself. Her fetish mask acts in all ways like a witch's familiar for the purpose of preparing and gaining spells. Rather than communing with a familiar to prepare spells each day, a scarred witch doctor hangs her mask on a wall, tree branch, or something similar and contemplates the agony it represents.
+**Fetish Mask (Su)** : At 1st level, a scarred witch doctor forms a bond with a wooden mask. As she gains power, her connection to this mask causes it to grow ever more hideous and grotesque as it absorbs the weight of the self-induced pain that underlies her magic. Her spells derive from the insights her patron grants her while she's enduring the cuts, burns, and other sorts of mutilations she inflicts upon herself. Her fetish mask acts in all ways like a witch's familiar for the purpose of preparing and gaining spells. Rather than communing with a familiar to prepare spells each day, a scarred witch doctor hangs her mask on a wall, tree branch, or something similar and contemplates the agony it represents.
 
-When wearing her fetish mask, a scarred witch doctor gains a +2 circumstance bonus on [Heal](skill_dir/heal#_heal and [Intimidate](skill_dir/intimidate#_intimidate) checks and gains a +2 bonus on saving throws against effects that specifically cause pain or have the pain descriptor. If the mask is destroyed, the witch doctor can create another fetish mask (which almost immediately adopts the shocking appearance of the original) for the same price and time it takes a witch to replace a dead familiar.
+When wearing her fetish mask, a scarred witch doctor gains a +2 circumstance bonus on [Heal](skills/heal#_heal) and [Intimidate](skill_dir/intimidate#_intimidate) checks and gains a +2 bonus on saving throws against effects that specifically cause pain or have the pain descriptor. If the mask is destroyed, the witch doctor can create another fetish mask (which almost immediately adopts the shocking appearance of the original) for the same price and time it takes a witch to replace a dead familiar.
 
 At 5th level, the scarred witch doctor gains the ability to add magical abilities to her mask as if she had the [Craft Wondrous Item](feats#_craft-wondrous-item) feat.
 
 This ability otherwise functions like and replaces the standard witch familiar.
 
-**Scarshield (Su** : At 1st level, a scarred witch doctor learns how to harden her mutilated skin, gaining an enhancement bonus to her natural armor bonus equal to 1/2 her class level (minimum +1). She can use this ability for a number of minutes per day equal to her class level. These minutes do not need to be consecutive but she must spend them in 1-minute increments. This ability replaces the witch's 1st-level hex.
+**Scarshield (Su)** : At 1st level, a scarred witch doctor learns how to harden her mutilated skin, gaining an enhancement bonus to her natural armor bonus equal to 1/2 her class level (minimum +1). She can use this ability for a number of minutes per day equal to her class level. These minutes do not need to be consecutive but she must spend them in 1-minute increments. This ability replaces the witch's 1st-level hex.
 
 **Hexes** : The following hexes complement the scarred witch doctor archetype: evil eye, misfortune scar, unnerve beasts.
 
@@ -146,11 +146,11 @@ You are so tough and vicious that you killed and ate the rest of your litter whi
 
 **Benefit** : Whenever you kill or knock unconscious an opponent with a melee attack, you gain temporary hit points equal to your Constitution bonus (minimum 1) until your next turn. These temporary hit points do not stack. You do not gain this bonus if the opponent is helpless or has less than half your Hit Dice.
 
-### Bullying Blow (Combat
+### Bullying Blow (Combat)
 
 With a simple hit, you more easily intimidate an opponent.
 
-**Prerequisites** : [Intimidate](skill_dir/intimidate#_intimidate 1 rank, orc.
+**Prerequisites** : [Intimidate](skills/intimidate#_intimidate) 1 rank, orc.
 
 **Benefit** : As a standard action, you may make a melee attack with a –2 penalty on the attack roll. If the attack damages your opponent, you may make an [Intimidate](skill_dir/intimidate#_intimidate) check to demoralize that opponent as a free action.
 
@@ -224,9 +224,9 @@ You can goad an opponent into attacking you in order to make your counter attack
 
 You can smash traps instead of disarming them.
 
-**Prerequisites** : [Power Attack](feats#_power-attack, [Disable Device](skill_dir/disableDevice#_disable-device 1 rank, orc.
+**Prerequisites** : [Power Attack](feats#_power-attack), [Disable Device](skills/disableDevice#_disable-device) 1 rank, orc.
 
-**Benefit** : You can attempt to disarm a trap by striking it with a melee weapon instead of making a [Disable Device](skill_dir/disableDevice#_disable-device check. As a full-round action, make a melee attack against an Armor Class equal to the trap's [Disable Device](skill_dir/disableDevice#_disable-device DC. If you miss, the trap activates. If you hit, roll damage. If this damage is at least half the trap's [Disable Device](skill_dir/disableDevice#_disable-device DC, you disable the trap. If this damage is less than half the trap's [Disable Device](skill_dir/disableDevice#_disable-device) DC, the trap activates. You can only attempt this on nonmagical traps. You must be able to reach some part of the trap with your attack in order to use this feat. At the GM's discretion, some traps may not be susceptible to this feat.
+**Benefit** : You can attempt to disarm a trap by striking it with a melee weapon instead of making a [Disable Device](skill_dir/disableDevice#_disable-device) check. As a full-round action, make a melee attack against an Armor Class equal to the trap's [Disable Device](skills/disableDevice#_disable-device) DC. If you miss, the trap activates. If you hit, roll damage. If this damage is at least half the trap's [Disable Device](skill_dir/disableDevice#_disable-device) DC, you disable the trap. If this damage is less than half the trap's [Disable Device](skills/disableDevice#_disable-device) DC, the trap activates. You can only attempt this on nonmagical traps. You must be able to reach some part of the trap with your attack in order to use this feat. At the GM's discretion, some traps may not be susceptible to this feat.
 
 ## Orc Magic Items
 
@@ -234,7 +234,7 @@ Orcs have access to the following weapon special ability and magic item.
 
 **Fury-Born (weapon special ability)** : A _fury-born_ weapon draws power from the anger and frustration the wielder feels when battling foes that refuse to die. Each time the wielder damages an opponent with the weapon, its enhancement bonus increases by +1 when making attacks against that opponent (maximum total enhancement bonus of +5). This extra enhancement bonus goes away if the opponent dies, the wielder uses the weapon to attack a different creature, or 1 hour passes. Only melee weapons can have the _fury-born_ ability.
 
-Faint enchantment; CL 7th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor, _ [rage](spell_dir/rage#_rage)_; Price +2 bonus.
+Faint enchantment; CL 7th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [rage](spell_dir/rage#_rage)_; Price +2 bonus.
 
 Bonebreaker Gauntlets
 
@@ -244,11 +244,11 @@ Bonebreaker Gauntlets
 
 Description
 
-These thick brass and leather gauntlets allow the wearer to tear through bone and muscle like paper. Once per day, as part of a melee attack, the wearer can activate the gauntlets to inflict a horrific injury on an opponent. If the attack hits, the target must make a DC 14 Will save. If the save fails, the gauntlets reduce the target's Strength, Dexterity, or Constitution (wearer's choice by –6. This penalty cannot reduce the target's ability score below 1. The injury heals over time, reducing the penalty by 1 for each day that passes since the time of the injury, and is immediately removed by _ [heal](spell_dir/heal#_heal_, _ [regenerate](spell_dir/regenerate#_regenerate_, _ [restoration](spell_dir/restoration#_restoration)_, or any magic that can break a curse.
+These thick brass and leather gauntlets allow the wearer to tear through bone and muscle like paper. Once per day, as part of a melee attack, the wearer can activate the gauntlets to inflict a horrific injury on an opponent. If the attack hits, the target must make a DC 14 Will save. If the save fails, the gauntlets reduce the target's Strength, Dexterity, or Constitution (wearer's choice) by –6. This penalty cannot reduce the target's ability score below 1. The injury heals over time, reducing the penalty by 1 for each day that passes since the time of the injury, and is immediately removed by _ [heal](spells/heal#_heal)_, _ [regenerate](spell_dir/regenerate#_regenerate)_, _ [restoration](spells/restoration#_restoration)_, or any magic that can break a curse.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [bestow curse](spell_dir/bestowCurse#_bestow-curse_; **Cost** 3,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [bestow curse](spell_dir/bestowCurse#_bestow-curse)_; **Cost** 3,000 gp
 
 ## Orc Spells
 
@@ -270,7 +270,7 @@ Blood Blaze
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-The target gains a 5-foot-radius aura that causes the blood of creatures in that area to ignite upon contact with air. Any creature (including the spell's target) within the aura that takes at least 5 points of piercing, slashing, or bleed damage from a single attack automatically creates a spray of burning blood. The spray strikes a creature in a randomly determined square adjacent to the injured creature. The spray deals 1d6 points of fire damage to any creature in that square, and 1 point of splash damage to all creatures within 5 feet of the spray's target, including the target of this spell. A creature can only create one spray of burning blood per round. Creatures that do not have blood (including oozes and most constructs and undead do not create blood sprays when attacked.
+The target gains a 5-foot-radius aura that causes the blood of creatures in that area to ignite upon contact with air. Any creature (including the spell's target) within the aura that takes at least 5 points of piercing, slashing, or bleed damage from a single attack automatically creates a spray of burning blood. The spray strikes a creature in a randomly determined square adjacent to the injured creature. The spray deals 1d6 points of fire damage to any creature in that square, and 1 point of splash damage to all creatures within 5 feet of the spray's target, including the target of this spell. A creature can only create one spray of burning blood per round. Creatures that do not have blood (including oozes and most constructs and undead) do not create blood sprays when attacked.
 
 Blood Scent
 
@@ -282,13 +282,13 @@ Blood Scent
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Targets** one creature/2 levels, no two of which can be more than 30 ft. apart
+**Targets** one creatur_dir/2 levels, no two of which can be more than 30 ft. apart
 
-**Duration** 1 minut_dir/level (D)
+**Duration** 1 minute/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-You greatly magnify the target's ability to smell the presence of blood. The target is considered to have the scent universal monster ability, but only for purposes of detecting and pinpointing injured creatures (below full hit points. Creatures below half their full hit points or suffering bleed damage are considered strong scents for this ability.
+You greatly magnify the target's ability to smell the presence of blood. The target is considered to have the scent universal monster ability, but only for purposes of detecting and pinpointing injured creatures (below full hit points). Creatures below half their full hit points or suffering bleed damage are considered strong scents for this ability.
 
 Orcs and any creature under the effects of rage gain a +2 morale bonus on attack and damage rolls against creatures they can smell with this spell, or a +4 morale bonus if the target's blood counts as a strong scent.
 
@@ -298,7 +298,7 @@ Enemy's Heart
 
 **Casting Time** 1 full-round action, special see below
 
-**Components** V, S, M (target creature's heart
+**Components** V, S, M (target creature's heart)
 
 **Range** touch
 
@@ -308,11 +308,11 @@ Enemy's Heart
 
 **Saving Throw** none; **Spell Resistance** yes
 
-You cut out an enemy's heart and consume it, absorbing that enemy's power as your own. As part of casting this spell, you perform a coup de grace with a slashing weapon on a helpless, living adjacent target. If the target dies, you eat its heart to gain the spell's benefits. If the target survives, the spell is not wasted and you can try again as long as you continue concentrating on the spell. When you consume the heart, you gain the benefits of a _ [death knell](spell_dir/deathKnell#_death-knell_ spell, except you gain 1d8 temporary hit points +1 per Hit Die of the target, and the bonus to Strength is a profane bonus.
+You cut out an enemy's heart and consume it, absorbing that enemy's power as your own. As part of casting this spell, you perform a coup de grace with a slashing weapon on a helpless, living adjacent target. If the target dies, you eat its heart to gain the spell's benefits. If the target survives, the spell is not wasted and you can try again as long as you continue concentrating on the spell. When you consume the heart, you gain the benefits of a _ [death knell](spell_dir/deathKnell#_death-knell)_ spell, except you gain 1d8 temporary hit points +1 per Hit Die of the target, and the bonus to Strength is a profane bonus.
 
 Sentry Skull
 
-**School** necromancy [evil]; **Level** antipaladin 1, cleric 2, sorcere_dir/wizard 2, witch 2
+**School** necromancy [evil]; **Level** antipaladin 1, cleric 2, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 hour
 
@@ -322,15 +322,15 @@ Sentry Skull
 
 **Target** severed head touched
 
-**Duration** permanent (D; see text
+**Duration** permanent (D); see text
 
 **Saving Throw** none; **Spell Resistance** no
 
-You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24 hours, creating a grisly sentinel. The head must be affixed to a pole, spear, tree branch, or other stable object, and the spell ends if the head or its object is moved. The head has darkvision 60 feet and low-light vision, can swivel in place to look in any direction, and has a +5 bonus on [Perception](skill_dir/perception#_perception checks.
+You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24 hours, creating a grisly sentinel. The head must be affixed to a pole, spear, tree branch, or other stable object, and the spell ends if the head or its object is moved. The head has darkvision 60 feet and low-light vision, can swivel in place to look in any direction, and has a +5 bonus on [Perception](skill_dir/perception#_perception) checks.
 
-If you are within 30 feet of the head, as a standard action you can shift your senses to it, seeing and hearing from its location and gaining the benefit of its darkvision and low-light vision, and you may use its [Perception](skill_dir/perception#_perception skill instead of your own. While your senses are in the severed head, your body is blind and deaf until you spend a free action to shift your senses back to your own body.
+If you are within 30 feet of the head, as a standard action you can shift your senses to it, seeing and hearing from its location and gaining the benefit of its darkvision and low-light vision, and you may use its [Perception](skills/perception#_perception) skill instead of your own. While your senses are in the severed head, your body is blind and deaf until you spend a free action to shift your senses back to your own body.
 
-When you create the head, you can imprint it with a single triggering condition, similar to _ [magic mouth](spell_dir/magicMouth#_magic-mouth)_. Once this triggering condition is set, it can never be changed. If you are within 30 feet of the head, you immediately know if it is triggered (if you have multiple active _sentry skulls_, you also know which one was triggered. This wakens you from normal sleep but does not otherwise disturb your concentration. For example, you could have a _sentry skull_ alert you if any humanoid comes into view, if a particular rival approaches, if your guard animal is killed, and so on, as long as it occurs where the severed head can see it.
+When you create the head, you can imprint it with a single triggering condition, similar to _ [magic mouth](spell_dir/magicMouth#_magic-mouth)_. Once this triggering condition is set, it can never be changed. If you are within 30 feet of the head, you immediately know if it is triggered (if you have multiple active _sentry skulls_, you also know which one was triggered). This wakens you from normal sleep but does not otherwise disturb your concentration. For example, you could have a _sentry skull_ alert you if any humanoid comes into view, if a particular rival approaches, if your guard animal is killed, and so on, as long as it occurs where the severed head can see it.
 
-This spell does not give the head any ability to speak, think, or take any kind of action other than to turn itself, though it is a suitable target for other spells such as _ [magic mouth](spell_dir/magicMouth#_magic-mouth_.
+This spell does not give the head any ability to speak, think, or take any kind of action other than to turn itself, though it is a suitable target for other spells such as _ [magic mouth](spells/magicMouth#_magic-mouth)_.
 

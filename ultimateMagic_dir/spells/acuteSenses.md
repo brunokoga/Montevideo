@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spell_dir/acuteSenses
+title: ultimateMagi_dir/spells/acuteSenses
 ---
 Acute Senses
 
@@ -7,7 +7,7 @@ Acute Senses
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a glass lens
+**Components** V, S, M (a glass lens)
 
 **Range** touch
 
@@ -15,7 +15,7 @@ Acute Senses
 
 **Duration** 1 minut_dir/level
 
-**Saving Throw** Will negates (harmless; **Spell Resistance** yes
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes
 
-The target gains a +10 enhancement bonus on [Perception](skill_dir/perception#_perception) checks. The bonus increases to +20 at caster level 8th, and +30 (the maximum at caster level 16th.
+The target gains a +10 enhancement bonus on [Perception](skills/perception#_perception) checks. The bonus increases to +20 at caster level 8th, and +30 (the maximum) at caster level 16th.
 

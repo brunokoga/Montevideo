@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/spark
+title: advance_dir/spells/spark
 ---
  **Spark**
 
-**School** evocation [fire]; **Level** bard 0, cleric 0, druid 0, sorcerer/wizard 0, witch 0
+**School** evocation [fire]; **Level** bard 0, cleric 0, druid 0, sorcere_dir/wizard 0, witch 0
 
 **Casting Time** 1 standard action
 

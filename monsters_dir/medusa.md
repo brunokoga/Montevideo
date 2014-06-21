@@ -9,7 +9,7 @@ _This slender, attractive woman has strangely glowing eyes and a full head of hi
 
 **XP 3,200**
 
-LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid
+LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Init** +6; **Senses** all-around vision, darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +16
 
@@ -17,7 +17,7 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid
 
 **AC** 15, touch 12, flat-footed 13 ( +2 Dex, +3 natural)
 
-**hp** 76 (8d10+32
+**hp** 76 (8d10+32)
 
 **Fort** +6, **Ref** +8, **Will** +7
 
@@ -39,7 +39,7 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Point-Blank Shot](../feats#_point-blank-shot), [Precise Shot](../feats#_precise-shot), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +10, [Disguise](../skill_dir/disguise#_disguise +10, [Intimidate](../skill_dir/intimidate#_intimidate +13, [Perception](../skill_dir/perception#_perception +16, [Stealth](../skill_dir/stealth#_stealth +13; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception)
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +10, [Disguise](../skill_dir/disguise#_disguise) +10, [Intimidate](../skill_dir/intimidate#_intimidate) +13, [Perception](../skill_dir/perception#_perception) +16, [Stealth](../skill_dir/stealth#_stealth) +13; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception)
 
 **Languages** Common
 
@@ -53,11 +53,11 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid
 
 **Special Abilities**
 
-**All-Around Vision (Ex** A medusa's snake-hair allows her to see in all directions. Medusas gain a +4 racial bonus to [Perception](../skill_dir/perception#_perception) checks and cannot be flanked.
+**All-Around Vision (Ex)** A medusa's snake-hair allows her to see in all directions. Medusas gain a +4 racial bonus to [Perception](../skill_dir/perception#_perception) checks and cannot be flanked.
 
 **Petrifying Gaze (Su)** Turn to stone permanently, 30 feet, Fortitude DC 16 negates. The save DC is Charisma-based.
 
-**Poison (Ex** Bite—injury; _save_ Fort DC 18; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 18; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str; _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 Medusas are human-like creatures with snakes instead of hair. At distances of 30 feet or more, a medusa can easily pass for a beautiful woman if she wears something to cover her serpentine locks—when wearing clothing that conceals her head and face, she can be mistaken for a human at even closer distances. Medusas use lies and disguises that conceal their faces to get close enough to opponents to use their petrifying gaze, though they like playing with their prey and may fire arrows from a distance to lead enemies into traps. Some enjoy creating intricate decorations out of their victims, using their petrified remains as accents to their swampy lairs, but most medusas take care to hide the evidence of their previous conflicts so that new foes won't have advance warning of their presence.
 

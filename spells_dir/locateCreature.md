@@ -1,11 +1,11 @@
 ---
-title: spells/locateCreature
+title: spell_dir/locateCreature
 ---
  **Locate Creature**
 
-**School** divination; **Level** bard 4, sorcere_dir/wizard 4
+**School** divination; **Level** bard 4, sorcerer/wizard 4
 
-**Components** : V, S, M (fur from a bloodhound
+**Components** : V, S, M (fur from a bloodhound)
 
 **Duration** 10 min./level
 

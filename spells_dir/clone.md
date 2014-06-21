@@ -1,13 +1,13 @@
 ---
-title: spells/clone
+title: spell_dir/clone
 ---
  **Clone**
 
-**School** necromancy; **Level** sorcere_dir/wizard 8
+**School** necromancy; **Level** sorcerer/wizard 8
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M (laboratory supplies worth 1,000 gp), F (special laboratory equipment costing 500 gp
+**Components** V, S, M (laboratory supplies worth 1,000 gp), F (special laboratory equipment costing 500 gp)
 
 **Range** 0 ft.
 

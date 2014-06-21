@@ -11,7 +11,7 @@ _This great cat's muscles flex visibly under its skin as it bares its fangs and 
 
 N Large [Animal](creatureTypes#_animal)
 
-**Init** +7; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +9
+**Init** +7; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +9
 
 **Defense**
 
@@ -35,11 +35,11 @@ N Large [Animal](creatureTypes#_animal)
 
 **Str** 21, **Dex** 17, **Con** 15, **Int** 2, **Wis** 12, **Cha** 6
 
-**Base Atk** +3; **CMB** +9 (+13 grapple); **CMD** 22 (26 vs. trip
+**Base Atk** +3; **CMB** +9 (+13 grapple); **CMD** 22 (26 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +11, [Perception](../skill_dir/perception#_perception +9, [Stealth](../skill_dir/stealth#_stealth) +8 (+12 in undergrowth; **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics, +4 [Stealth](../skill_dir/stealth#_stealth) (+8 in undergrowth)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +11, [Perception](../skill_dir/perception#_perception) +9, [Stealth](../skill_dir/stealth#_stealth) +8 (+12 in undergrowth); **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics), +4 [Stealth](../skill_dir/stealth#_stealth) (+8 in undergrowth)
 
 **Ecology**
 
@@ -65,7 +65,7 @@ _This immense spotted lion stands as tall as a man at the shoulder, its fur matt
 
 N Large [Animal](creatureTypes#_animal)
 
-**Init** +6; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +11
+**Init** +6; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +11
 
 **Defense**
 
@@ -89,17 +89,17 @@ N Large [Animal](creatureTypes#_animal)
 
 **Str** 25, **Dex** 15, **Con** 17, **Int** 2, **Wis** 12, **Cha** 10
 
-**Base Atk** +6; **CMB** +14 (+18 grapple); **CMD** 26 (30 vs. trip
+**Base Atk** +6; **CMB** +14 (+18 grapple); **CMD** 26 (30 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Weapon Focus](../feats#_weapon-focus) (claw)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (claw)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +11, [Perception](../skill_dir/perception#_perception +11, [Stealth](../skill_dir/stealth#_stealth) +7 (+11 in undergrowth; **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics, +4 [Stealth](../skill_dir/stealth#_stealth) (+8 in undergrowth)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +11, [Perception](../skill_dir/perception#_perception) +11, [Stealth](../skill_dir/stealth#_stealth) +7 (+11 in undergrowth); **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics), +4 [Stealth](../skill_dir/stealth#_stealth) (+8 in undergrowth)
 
 **Ecology**
 
 **Environment** warm plains or hills
 
-**Organization** solitary, pair, or pride (3–8
+**Organization** solitary, pair, or pride (3–8)
 
 **Treasure** incidental
 

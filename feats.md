@@ -82,7 +82,7 @@ The following format is used for all feat descriptions.
 
 **Prerequisite** : A minimum ability score, another feat or feats, a minimum base attack bonus, a minimum number of ranks in one or more skills, or anything else required in order to take the feat. This entry is absent if a feat has no prerequisite. A feat may have more than one prerequisite.
 
-**Benefit** : What the feat enables the character (“you” in the feat description to do. If a character has the same feat more than once, its benefits do not stack unless indicated otherwise in the description.
+**Benefit** : What the feat enables the character (“you” in the feat description) to do. If a character has the same feat more than once, its benefits do not stack unless indicated otherwise in the description.
 
 **Normal:** What a character who does not have this feat is limited to or restricted from doing. If not having the feat causes no particular drawback, this entry is absent.
 
@@ -91,18 +91,18 @@ The following format is used for all feat descriptions.
 [Table: Feats]
 | Feats | Prerequisites | Benefits |
 | --- | --- | --- |
-| Acrobatic | — | +2 bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics and [Fly](skill_dir/fly#_fly) checks |
-| Agile Maneuvers\* | — | Use your [Dex](gettingStarted#_dexterity) bonus when calculating your [CMB](combat#_combat-maneuver-bonus |
-| Alertness | — | +2 bonus on [Perception](skill_dir/perception#_perception and [Sense Motive](skill_dir/senseMotive#_sense-motive checks |
+| Acrobatic | — | +2 bonus on [Acrobatics](skills/acrobatics#_acrobatics) and [Fly](skill_dir/fly#_fly) checks |
+| Agile Maneuvers\* | — | Use your [Dex](gettingStarted#_dexterity) bonus when calculating your [CMB](combat#_combat-maneuver-bonus) |
+| Alertness | — | +2 bonus on [Perception](skills/perception#_perception) and [Sense Motive](skill_dir/senseMotive#_sense-motive) checks |
 | Alignment Channel | Channel energy class feature | Channel energy can heal or harm outsiders |
-| Animal Affinity | — | +2 bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal and [Ride](skill_dir/ride#_ride checks |
+| Animal Affinity | — | +2 bonus on [Handle Animal](skills/handleAnimal#_handle-animal) and [Ride](skill_dir/ride#_ride) checks |
 | Arcane Armor Training\* | Armor Proficiency, Light, caster level 3rd | Reduce your arcane spell failure chance by 10% |
 |   Arcane Armor Mastery\* | Arcane Armor Training, Armor Proficiency, Medium, caster level 7th | Reduce your arcane spell failure chance by 20% |
 | Arcane Strike\* | Ability to cast arcane spells | +1 damage and weapons are considered magic |
 | Armor Proficiency, Light | — | No penalties on attack rolls while wearing light armor |
 |   Armor Proficiency, Medium | Armor Proficiency, Light | No penalties on attack rolls while wearing medium armor |
 |     Armor Proficiency, Heavy | Armor Proficiency, Medium | No penalties on attack rolls while wearing heavy armor |
-| Athletic | — | +2 bonus on [Climb](skill_dir/climb#_climb and [Swim](skill_dir/swim#_swim) checks |
+| Athletic | — | +2 bonus on [Climb](skills/climb#_climb) and [Swim](skill_dir/swim#_swim) checks |
 | Augment Summoning | Spell Focus (conjuration) | Summoned creatures gain +4 [Str](gettingStarted#_strength) and [Con](gettingStarted#_constitution) |
 | Blind-Fight\* | — | Reroll miss chances for concealment |
 | Catch Off-Guard\* | — | No penalties for improvised melee weapons |
@@ -129,10 +129,10 @@ The following format is used for all feat descriptions.
 |   Stunning Critical\* | Staggering Critical, base attack bonus +17 | Whenever you score a critical hit, the target is [stunned](glossary#_stunned) |
 |   Tiring Critical\* | Critical Focus, base attack bonus +13 | Whenever you score a critical hit, the target is [fatigued](glossary#_fatigued) |
 |     Exhausting Critical\* | Tiring Critical, base attack bonus +15 | Whenever you score a critical hit, the target is [exhausted](glossary#_exhausted) |
-| Deadly Aim\* | [Dex](gettingStarted#_dexterity 13, base attack bonus +1 | Trade ranged attack bonus for damage |
-| Deceitful | — | +2 bonus on [Bluff](skill_dir/bluff#_bluff and [Disguise](skill_dir/disguise#_disguise) checks |
-| Defensive Combat Training\* | — | Use your total Hit Dice as your base attack bonus for [CMD](combat#_combat-maneuver-defense |
-| Deft Hands | — | +2 bonus on [Disable Device](skill_dir/disableDevice#_disable-device and [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) checks |
+| Deadly Aim\* | [Dex](gettingStarted#_dexterity) 13, base attack bonus +1 | Trade ranged attack bonus for damage |
+| Deceitful | — | +2 bonus on [Bluff](skills/bluff#_bluff) and [Disguise](skill_dir/disguise#_disguise) checks |
+| Defensive Combat Training\* | — | Use your total Hit Dice as your base attack bonus for [CMD](combat#_combat-maneuver-defense) |
+| Deft Hands | — | +2 bonus on [Disable Device](skills/disableDevice#_disable-device) and [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) checks |
 | Disruptive\* | 6th-level fighter | Increases the DC to cast spells adjacent to you |
 |   Spellbreaker\* | Disruptive, 10th-level fighter | Enemies provoke attacks if their spells fail |
 | Dodge\* | [Dex](gettingStarted#_dexterity) 13 | +1 [dodge bonus](combat#_dodge-bonuses) to AC |
@@ -169,17 +169,17 @@ The following format is used for all feat descriptions.
 |       Medusa's Wrath\* | Gorgon's Fist, base attack bonus +11 | Make 2 extra attacks against a hindered foe |
 |   Stunning Fist\* | [Dex](gettingStarted#_dexterity) 13, [Wis](gettingStarted#_wisdom) 13, Improved Unarmed Strike, base attack bonus +8 | Stun opponent with an unarmed strike |
 | Improvised Weapon Mastery\* | Catch Off-Guard or Throw Anything, base attack bonus +8 | Make an improvised weapon deadly |
-| Intimidating Prowess\* | — | Add [Str](gettingStarted#_strength to [Intimidate](skill_dir/intimidate#_intimidate) in addition to Cha |
+| Intimidating Prowess\* | — | Add [Str](gettingStarted#_strength) to [Intimidate](skills/intimidate#_intimidate) in addition to Cha |
 | Iron Will | — | +2 bonus on [Will](combat#_will) saves |
 |   Improved Iron Will | Iron Will | Once per day, you may reroll a [Will](combat#_will) save |
 | Leadership | Character level 7th | Gain a cohort and followers |
 | Lightning Reflexes | — | +2 bonus on [Reflex](combat#_reflex) saves |
-|   Improved Lightning Reflexes | Lightning Reflexes | Once per day, you may reroll a [Reflex](combat#_reflex save |
+|   Improved Lightning Reflexes | Lightning Reflexes | Once per day, you may reroll a [Reflex](combat#_reflex) save |
 | Lunge\* | Base attack bonus +6 | Take a –2 penalty to your AC to attack with reach |
-| Magical Aptitude | — | +2 bonus on [Spellcraft](skill_dir/spellcraft#_spellcraft and [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device checks |
+| Magical Aptitude | — | +2 bonus on [Spellcraft](skill_dir/spellcraft#_spellcraft) and [Use Magic Device](skills/useMagicDevice#_use-magic-device) checks |
 | Martial Weapon Proficiency | — | No penalty on attacks made with one martial weapon |
 | Master Craftsman | 5 ranks in any Craft or Profession skill | You can craft magic items without being a spellcaster |
-| Mounted Combat\* | [Ride](skill_dir/ride#_ride 1 rank | Avoid attacks on mount with [Ride](skill_dir/ride#_ride) check |
+| Mounted Combat\* | [Ride](skill_dir/ride#_ride) 1 rank | Avoid attacks on mount with [Ride](skills/ride#_ride) check |
 |   Mounted Archery\* | Mounted Combat | Halve the penalty for ranged attacks while mounted |
 |   Ride-By Attack\* | Mounted Combat | Move before and after a charge attack while mounted |
 |     Spirited Charge\* | Ride-By Attack | Double damage on a mounted charge |
@@ -207,10 +207,10 @@ The following format is used for all feat descriptions.
 |   Improved Sunder\* | Power Attack | +2 bonus on [sunder](combat#_sunder) attempts, no attack of opportunity |
 |     Greater Sunder\* | Improved Sunder, base attack bonus +6 | Damage from [sunder](combat#_sunder) attempts transfers to your enemy |
 | Quick Draw\* | Base attack bonus +1 | Draw weapon as a free action |
-| Rapid Reload\* | Weapon proficiency (crossbow | Reload crossbow quickly |
+| Rapid Reload\* | Weapon proficiency (crossbow) | Reload crossbow quickly |
 | Run | — | Run at 5 times your normal speed |
 | Selective Channeling | Cha 13, channel energy class feature | Choose whom to affect with channel energy |
-| Self-Sufficient | — | +2 bonus on [Heal](skill_dir/heal#_heal and [Survival](skill_dir/survival#_survival) checks |
+| Self-Sufficient | — | +2 bonus on [Heal](skill_dir/heal#_heal) and [Survival](skills/survival#_survival) checks |
 | Shield Proficiency | — | No penalties on attack rolls when using a shield |
 |   Improved Shield Bash\* | Shield Proficiency | Keep your shield bonus when shield bashing |
 |     Shield Slam\* | Improved Shield Bash, Two-Weapon Fighting, base attack bonus +6 | Free [bull rush](combat#_bull-rush) with a bash attack |
@@ -219,13 +219,13 @@ The following format is used for all feat descriptions.
 |     Greater Shield Focus\* | Shield Focus, 8th-level fighter | Gain a +1 bonus to your AC when using a shield |
 |   Tower Shield Proficiency\* | Shield Proficiency | No penalties on attack rolls when using a tower shield |
 | Simple Weapon Proficiency | — | No penalty on attacks made with simple weapons |
-| Skill Focus | — | +3 bonus on one skill (+6 at 10 ranks |
+| Skill Focus | — | +3 bonus on one skill (+6 at 10 ranks) |
 | Spell Focus | — | +1 bonus on save DCs for one school |
 |   Greater Spell Focus | Spell Focus | +1 bonus on save DCs for one school |
 | Spell Mastery | 1st-level Wizard | Prepare some spells without a spellbook |
 | Spell Penetration | — | +2 bonus on level checks to beat spell resistance |
 |   Greater Spell Penetration | Spell Penetration | +2 bonus on level checks to beat spell resistance |
-| Stealthy | — | +2 bonus on [Escape Artist](skill_dir/escapeArtist#_escape-artist and [Stealth](skill_dir/stealth#_stealth) checks |
+| Stealthy | — | +2 bonus on [Escape Artist](skill_dir/escapeArtist#_escape-artist) and [Stealth](skills/stealth#_stealth) checks |
 | Step Up\* | Base attack bonus +1 | Take a 5-foot step as an immediate action |
 | Strike Back\* | Base attack bonus +11 | Attack foes that strike you while using reach |
 | Throw Anything\* | — | No penalties for improvised ranged weapons |
@@ -244,7 +244,7 @@ The following format is used for all feat descriptions.
 | Weapon Focus\* | Proficiency with weapon, base attack bonus +1 | +1 bonus on attack rolls with one weapon |
 |   Dazzling Display\* | Weapon Focus | Intimidate all foes within 30 feet |
 |     Shatter Defenses\* | Dazzling Display, base attack bonus +6 | Hindered foes are [flat-footed](glossary#_flat-footed) |
-|       Deadly Stroke\* | Greater Weapon Focus, Shatter Defenses, base attack bonus +11 | Deal double damage plus 1 [Con](gettingStarted#_constitution) [bleed](glossary#_bleed |
+|       Deadly Stroke\* | Greater Weapon Focus, Shatter Defenses, base attack bonus +11 | Deal double damage plus 1 [Con](gettingStarted#_constitution) [bleed](glossary#_bleed) |
 |   Greater Weapon Focus\* | Weapon Focus, 8th-level fighter | +1 bonus on attack rolls with one weapon |
 |   Penetrating Strike\* | Weapon Focus, 12th-level fighter | Your attacks ignore 5 points of damage reduction |
 |     Greater Penetrating Strike\* | Penetrating Strike, 16th-level fighter | Your attacks ignore 10 points of damage reduction |
@@ -276,7 +276,7 @@ The following format is used for all feat descriptions.
 
 You are skilled at leaping, jumping, and flying.
 
-**Benefit:** You get a +2 bonus on all [Acrobatics](skill_dir/acrobatics#_acrobatics and [Fly](skill_dir/fly#_fly) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+**Benefit:** You get a +2 bonus on all [Acrobatics](skill_dir/acrobatics#_acrobatics) and [Fly](skills/fly#_fly) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 ## Acrobatic Steps
 
@@ -292,13 +292,13 @@ You've learned to use your quickness in place of brute force when performing com
 
 **Benefit:** You add your [Dexterity](gettingStarted#_dexterity) bonus to your base attack bonus and size bonus when determining your [Combat Maneuver Bonus](combat#_combat-maneuver-bonus) (see [Combat](combat)) instead of your Strength bonus.
 
-**Normal:** You add your Strength bonus to your base attack bonus and size bonus when determining your [Combat Maneuver Bonus](combat#_combat-maneuver-bonus.
+**Normal:** You add your Strength bonus to your base attack bonus and size bonus when determining your [Combat Maneuver Bonus](combat#_combat-maneuver-bonus).
 
 ## Alertness
 
 You often notice things that others might miss.
 
-**Benefit:** You get a +2 bonus on [Perception](skill_dir/perception#_perception and [Sense Motive](skill_dir/senseMotive#_sense-motive skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+**Benefit:** You get a +2 bonus on [Perception](skill_dir/perception#_perception) and [Sense Motive](skills/senseMotive#_sense-motive) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 ## Alignment Channel
 
@@ -314,7 +314,7 @@ Choose chaos, evil, good, or law. You can channel divine energy to affect outsid
 
 You are skilled at working with animals and mounts.
 
-**Benefit:** You get a +2 bonus on all [Handle Animal](skill_dir/handleAnimal#_handle-animal and [Ride](skill_dir/ride#_ride) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+**Benefit:** You get a +2 bonus on all [Handle Animal](skill_dir/handleAnimal#_handle-animal) and [Ride](skills/ride#_ride) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 ## Arcane Armor Mastery (Combat)
 
@@ -362,7 +362,7 @@ You are skilled at wearing light armor.
 
 **Special:** All characters except monks, sorcerers, and wizards automatically have Light Armor Proficiency as a bonus feat. They need not select it.
 
-## Armor Proficiency, Medium (Combat
+## Armor Proficiency, Medium (Combat)
 
 You are skilled at wearing medium armor.
 
@@ -378,7 +378,7 @@ You are skilled at wearing medium armor.
 
 You possess inherent physical prowess.
 
-**Benefit:** You get a +2 bonus on [Climb](skill_dir/climb#_climb and [Swim](skill_dir/swim#_swim) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+**Benefit:** You get a +2 bonus on [Climb](skill_dir/climb#_climb) and [Swim](skills/swim#_swim) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 ## Augment Summoning
 
@@ -486,7 +486,7 @@ Using foul powers of necromancy, you can command undead creatures, making them i
 
 **Prerequisites:** Channel negative energy class feature.
 
-**Benefit:** As a standard action, you can use one of your uses of channel negative energy to enslave undead within 30 feet. Undead receive a [Will](combat#_will) save to negate the effect. The DC for this [Will](combat#_will save is equal to 10 + 1/2 your cleric level + your [Charisma](gettingStarted#_charisma-new) modifier. Undead that fail their saves fall under your control, obeying your commands to the best of their ability, as if under the effects of _control undead_. Intelligent undead receive a new saving throw each day to resist your command. You can control any number of undead, so long as their total Hit Dice do not exceed your cleric level. If you use channel energy in this way, it has no other effect (it does not heal or harm nearby creatures). If an undead creature is under the control of another creature, you must make an opposed [Charisma](gettingStarted#_charisma-new) check whenever your orders conflict.
+**Benefit:** As a standard action, you can use one of your uses of channel negative energy to enslave undead within 30 feet. Undead receive a [Will](combat#_will) save to negate the effect. The DC for this [Will](combat#_will) save is equal to 10 + 1/2 your cleric level + your [Charisma](gettingStarted#_charisma-new) modifier. Undead that fail their saves fall under your control, obeying your commands to the best of their ability, as if under the effects of _control undead_. Intelligent undead receive a new saving throw each day to resist your command. You can control any number of undead, so long as their total Hit Dice do not exceed your cleric level. If you use channel energy in this way, it has no other effect (it does not heal or harm nearby creatures). If an undead creature is under the control of another creature, you must make an opposed [Charisma](gettingStarted#_charisma-new) check whenever your orders conflict.
 
 ## Craft Magic Arms and Armor (Item Creation)
 
@@ -582,7 +582,7 @@ Your critical hits cause enemies to lose their hearing.
 
 **Prerequisites:** Critical Focus, base attack bonus +13.
 
-**Benefit:** Whenever you score a critical hit against an opponent, the victim is permanently [deafened](glossary#_deafened). A successful [Fortitude](combat#_fortitude) save reduces the deafness to 1 round. The DC of this [Fortitude](combat#_fortitude save is equal to 10 + your base attack bonus. This feat has no effect on deaf creatures. This deafness can be cured by _heal, regeneration, remove deafness, _or a similar ability.
+**Benefit:** Whenever you score a critical hit against an opponent, the victim is permanently [deafened](glossary#_deafened). A successful [Fortitude](combat#_fortitude) save reduces the deafness to 1 round. The DC of this [Fortitude](combat#_fortitude) save is equal to 10 + your base attack bonus. This feat has no effect on deaf creatures. This deafness can be cured by _heal, regeneration, remove deafness, _or a similar ability.
 
 **Special:** You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
 
@@ -590,7 +590,7 @@ Your critical hits cause enemies to lose their hearing.
 
 You are skilled at deceiving others, both with the spoken word and with physical disguises.
 
-**Benefit:** You get a +2 bonus on all [Bluff](skill_dir/bluff#_bluff and [Disguise](skill_dir/disguise#_disguise) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+**Benefit:** You get a +2 bonus on all [Bluff](skills/bluff#_bluff) and [Disguise](skill_dir/disguise#_disguise) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 ## Defensive Combat Training (Combat)
 
@@ -604,13 +604,13 @@ You can knock arrows and other projectiles off course, preventing them from hitt
 
 **Prerequisites:** [Dex](gettingStarted#_dexterity) 13, Improved Unarmed Strike.
 
-**Benefit:** You must have at least one hand free (holding nothing) to use this feat. Once per round when you would normally be hit with an attack from a ranged weapon, you may deflect it so that you take no damage from it. You must be aware of the attack and not [flat-footed](glossary#_flat-footed). Attempting to deflect a ranged attack doesn't count as an action. Unusually massive ranged weapons (such as boulders or ballista bolts and ranged attacks generated by natural attacks or spell effects can't be deflected.
+**Benefit:** You must have at least one hand free (holding nothing) to use this feat. Once per round when you would normally be hit with an attack from a ranged weapon, you may deflect it so that you take no damage from it. You must be aware of the attack and not [flat-footed](glossary#_flat-footed). Attempting to deflect a ranged attack doesn't count as an action. Unusually massive ranged weapons (such as boulders or ballista bolts) and ranged attacks generated by natural attacks or spell effects can't be deflected.
 
 ## Deft Hands
 
 You have exceptional manual dexterity.
 
-**Benefit:** You get a +2 bonus on [Disable Device](skill_dir/disableDevice#_disable-device and [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+**Benefit:** You get a +2 bonus on [Disable Device](skills/disableDevice#_disable-device) and [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 ## Diehard
 
@@ -678,7 +678,7 @@ You may sleep in light or medium armor without becoming [fatigued](glossary#_fat
 
 **Normal:** A character without this feat who sleeps in medium or heavier armor is [fatigued](glossary#_fatigued) the next day.
 
-## Enlarge Spell (Metamagic
+## Enlarge Spell (Metamagic)
 
 You can increase the range of your spells.
 
@@ -1163,7 +1163,7 @@ You are skilled at fighting while unarmed.
 
 **Normal:** Without this feat, you are considered unarmed when attacking with an unarmed strike, and you can deal only nonlethal damage with such an attack.
 
-## Improved Vital Strike (Combat
+## Improved Vital Strike (Combat)
 
 You can make a single attack that deals a large amount of damage.
 
@@ -1179,11 +1179,11 @@ You can turn nearly any object into a deadly weapon, from a razor-sharp chair le
 
 **Benefit:** You do not suffer any penalties for using an improvised weapon. Increase the amount of damage dealt by the improvised weapon by one step (for example, 1d4 becomes 1d6) to a maximum of 1d8 (2d6 if the improvised weapon is two-handed). The improvised weapon has a critical threat range of 19–20, with a critical multiplier of ×2.
 
-## Intimidating Prowess (Combat
+## Intimidating Prowess (Combat)
 
 Your physical might is intimidating to others.
 
-**Benefit:** Add your Strength modifier to [Intimidate](skill_dir/intimidate#_intimidate) skill checks in addition to your [Charisma](gettingStarted#_charisma-new) modifier.
+**Benefit:** Add your Strength modifier to [Intimidate](skills/intimidate#_intimidate) skill checks in addition to your [Charisma](gettingStarted#_charisma-new) modifier.
 
 ## Iron Will
 
@@ -1280,7 +1280,7 @@ Followers have different priorities from cohorts. When you try to attract a foll
 
 _Leadership Score_: Your base Leadership score equals your level plus your [Charisma](gettingStarted#_charisma-new) modifier. In order to take into account negative [Charisma](gettingStarted#_charisma-new) modifiers, this table allows for very low Leadership scores, but you must still be 7th level or higher in order to gain the Leadership feat. Outside factors can affect your Leadership score, as detailed above.
 
-_Cohort Level_: You can attract a cohort of up to this level. Regardless of your Leadership score, you can only recruit a cohort who is two or more levels lower than yourself. The cohort should be equipped with gear appropriate for its level (see [Creating NPCs](creatingNPCs). A cohort can be of any race or class. The cohort's alignment may not be opposed to your alignment on either the law/chaos or goo_dir/evil axis, and you take a –1 penalty to your Leadership score if you recruit a cohort of an alignment different from your own.
+_Cohort Level_: You can attract a cohort of up to this level. Regardless of your Leadership score, you can only recruit a cohort who is two or more levels lower than yourself. The cohort should be equipped with gear appropriate for its level (see [Creating NPCs](creatingNPCs)). A cohort can be of any race or class. The cohort's alignment may not be opposed to your alignment on either the la_dir/chaos or good/evil axis, and you take a –1 penalty to your Leadership score if you recruit a cohort of an alignment different from your own.
 
 A cohort does not count as a party member when determining the party's XP. Instead, divide the cohort's level by your level. Multiply this result by the total XP awarded to you, then add that number of experience points to the cohort's total.
 
@@ -1310,13 +1310,13 @@ You can strike foes that would normally be out of reach.
 
 **Prerequisites:** Base attack bonus +6.
 
-**Benefit:** You can increase the reach of your melee attacks by 5 feet until the end of your turn by taking a –2 penalty to your [AC](combat#_armor-class until your next turn. You must decide to use this ability before any attacks are made.
+**Benefit:** You can increase the reach of your melee attacks by 5 feet until the end of your turn by taking a –2 penalty to your [AC](combat#_armor-class) until your next turn. You must decide to use this ability before any attacks are made.
 
 ## Magical Aptitude
 
 You are skilled at spellcasting and using magic items.
 
-**Benefit:** You get a +2 bonus on all [Spellcraft](skill_dir/spellcraft#_spellcraft checks and [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device) checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+**Benefit:** You get a +2 bonus on all [Spellcraft](skill_dir/spellcraft#_spellcraft) checks and [Use Magic Device](skills/useMagicDevice#_use-magic-device) checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 ## Manyshot (Combat)
 
@@ -1330,7 +1330,7 @@ You can fire multiple arrows at a single target.
 
 Choose a type of martial weapon. You understand how to use that type of martial weapon in combat.
 
-**Benefit:** You make attack rolls with the selected weapon normally (without the non-proficient penalty.
+**Benefit:** You make attack rolls with the selected weapon normally (without the non-proficient penalty).
 
 **Normal:** When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.
 
@@ -1342,9 +1342,9 @@ You can gain Martial Weapon Proficiency multiple times. Each time you take the f
 
 Your superior crafting skills allow you to create simple magic items.
 
-**Prerequisites:** 5 ranks in any [Craft](skill_dir/craft#_craft or [Profession](skill_dir/profession#_profession skill.
+**Prerequisites:** 5 ranks in any [Craft](skill_dir/craft#_craft) or [Profession](skills/profession#_profession) skill.
 
-**Benefit:** Choose one [Craft](skill_dir/craft#_craft or [Profession](skill_dir/profession#_profession skill in which you possess at least 5 ranks. You receive a +2 bonus on your chosen [Craft](skill_dir/craft#_craft or [Profession](skill_dir/profession#_profession) skill. Ranks in your chosen skill count as your caster level for the purposes of qualifying for the Craft Magic Arms and Armor and Craft Wondrous Item feats. You can create magic items using these feats, substituting your ranks in the chosen skill for your total caster level. You must use the chosen skill for the check to create the item. The DC to create the item still increases for any necessary spell requirements (see the magic item creation rules in [Magic Items](magicItems)). You cannot use this feat to create any spell-trigger or spell-activation item.
+**Benefit:** Choose one [Craft](skill_dir/craft#_craft) or [Profession](skills/profession#_profession) skill in which you possess at least 5 ranks. You receive a +2 bonus on your chosen [Craft](skill_dir/craft#_craft) or [Profession](skills/profession#_profession) skill. Ranks in your chosen skill count as your caster level for the purposes of qualifying for the Craft Magic Arms and Armor and Craft Wondrous Item feats. You can create magic items using these feats, substituting your ranks in the chosen skill for your total caster level. You must use the chosen skill for the check to create the item. The DC to create the item still increases for any necessary spell requirements (see the magic item creation rules in [Magic Items](magicItems)). You cannot use this feat to create any spell-trigger or spell-activation item.
 
 **Normal:** Only spellcasters can qualify for the Craft Magic Arms and Armor and Craft Wondrous Item feats.
 
@@ -1408,7 +1408,7 @@ You can move across a single obstacle with ease.
 
 **Benefit:** Whenever you move, you may move through 5 feet of difficult terrain each round as if it were normal terrain. This feat allows you to take a 5-foot step into difficult terrain.
 
-## Penetrating Strike (Combat
+## Penetrating Strike (Combat)
 
 Your attacks are capable of penetrating the defenses of some creatures.
 
@@ -1420,7 +1420,7 @@ Your attacks are capable of penetrating the defenses of some creatures.
 
 You are skilled at swaying attitudes and intimidating others into your way of thinking.
 
-**Benefit:** You get a +2 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy and [Intimidate](skill_dir/intimidate#_intimidate) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+**Benefit:** You get a +2 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy) and [Intimidate](skills/intimidate#_intimidate) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 ## Pinpoint Targeting (Combat)
 
@@ -1442,7 +1442,7 @@ You can make exceptionally deadly melee attacks by sacrificing accuracy for stre
 
 **Prerequisites:** [Str](gettingStarted#_strength) 13, base attack bonus +1.
 
-**Benefit:** You can choose to take a –1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls. This bonus to damage is increased by half (+50% if you are making an attack with a two-handed weapon, a one handed weapon using two hands, or a primary natural weapon that adds 1-1/2 times your Strength modifier on damage rolls. This bonus to damage is halved (–50%) if you are making an attack with an off-hand weapon or secondary natural weapon. When your base attack bonus reaches +4, and every 4 points thereafter, the penalty increases by –1 and the bonus to damage increases by +2. You must choose to use this feat before making an attack roll, and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage.
+**Benefit:** You can choose to take a –1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls. This bonus to damage is increased by half (+50%) if you are making an attack with a two-handed weapon, a one handed weapon using two hands, or a primary natural weapon that adds 1-1/2 times your Strength modifier on damage rolls. This bonus to damage is halved (–50%) if you are making an attack with an off-hand weapon or secondary natural weapon. When your base attack bonus reaches +4, and every 4 points thereafter, the penalty increases by –1 and the bonus to damage increases by +2. You must choose to use this feat before making an attack roll, and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage.
 
 ## Precise Shot (Combat)
 
@@ -1520,7 +1520,7 @@ You can perform an unarmed strike that greatly hampers your target's movement.
 
 **Prerequisite:** Improved Unarmed Strike.
 
-**Benefit:** To use this feat, you must make a single unarmed attack as a standard action. If this unarmed attack hits, you deal damage normally, and the target's base land speed is reduced to 5 feet for a number of rounds equal to your [Wisdom](gettingStarted#_wisdom) modifier unless it makes a [Fortitude](combat#_fortitude saving throw (DC 10 + 1/2 your character level + your [Wis](gettingStarted#_wisdom) modifier).
+**Benefit:** To use this feat, you must make a single unarmed attack as a standard action. If this unarmed attack hits, you deal damage normally, and the target's base land speed is reduced to 5 feet for a number of rounds equal to your [Wisdom](gettingStarted#_wisdom) modifier unless it makes a [Fortitude](combat#_fortitude) saving throw (DC 10 + 1/2 your character level + your [Wis](gettingStarted#_wisdom) modifier).
 
 ## Scribe Scroll (Item Creation)
 
@@ -1544,7 +1544,7 @@ You can choose whom to affect when you channel energy.
 
 You know how to get along in the wild and how to effectively treat wounds.
 
-**Benefit:** You get a +2 bonus on all [Heal](skill_dir/heal#_heal checks and [Survival](skill_dir/survival#_survival) checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+**Benefit:** You get a +2 bonus on all [Heal](skill_dir/heal#_heal) checks and [Survival](skills/survival#_survival) checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 ## Shatter Defenses (Combat)
 
@@ -1706,7 +1706,7 @@ Your critical hits cause opponents to slow down.
 
 **Special:** You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.
 
-## Stand Still (Combat
+## Stand Still (Combat)
 
 You can stop foes that try to move past you.
 
@@ -1718,7 +1718,7 @@ You can stop foes that try to move past you.
 
 You are good at avoiding unwanted attention and slipping out of bonds.
 
-**Benefit:** You get a +2 bonus on all [Escape Artist](skill_dir/escapeArtist#_escape-artist and [Stealth](skill_dir/stealth#_stealth) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+**Benefit:** You get a +2 bonus on all [Escape Artist](skill_dir/escapeArtist#_escape-artist) and [Stealth](skills/stealth#_stealth) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
 
 ## Step Up (Combat)
 
@@ -1758,7 +1758,7 @@ You know just where to strike to temporarily stun a foe.
 
 **Prerequisites:** [Dex](gettingStarted#_dexterity) 13, [Wis](gettingStarted#_wisdom) 13, Improved Unarmed Strike, base attack bonus +8.
 
-**Benefit:** You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll ruins the attempt). Stunning Fist forces a foe damaged by your unarmed attack to make a [Fortitude](combat#_fortitude saving throw (DC 10 + 1/2 your character level + your [Wis](gettingStarted#_wisdom) modifier), in addition to dealing damage normally. A defender who fails this saving throw is [stunned](glossary#_stunned) for 1 round (until just before your next turn). A stunned character drops everything held, can't take actions, loses any [Dexterity](gettingStarted#_dexterity) bonus to [AC](combat#_armor-class), and takes a –2 penalty to [AC](combat#_armor-class). You may attempt a stunning attack once per day for every four levels you have attained (but see Special), and no more than once per round. Constructs, oozes, plants, undead, [incorporeal](glossary#_incorporeal) creatures, and creatures immune to critical hits cannot be [stunned](glossary#_stunned).
+**Benefit:** You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll ruins the attempt). Stunning Fist forces a foe damaged by your unarmed attack to make a [Fortitude](combat#_fortitude) saving throw (DC 10 + 1/2 your character level + your [Wis](gettingStarted#_wisdom) modifier), in addition to dealing damage normally. A defender who fails this saving throw is [stunned](glossary#_stunned) for 1 round (until just before your next turn). A stunned character drops everything held, can't take actions, loses any [Dexterity](gettingStarted#_dexterity) bonus to [AC](combat#_armor-class), and takes a –2 penalty to [AC](combat#_armor-class). You may attempt a stunning attack once per day for every four levels you have attained (but see Special), and no more than once per round. Constructs, oozes, plants, undead, [incorporeal](glossary#_incorporeal) creatures, and creatures immune to critical hits cannot be [stunned](glossary#_stunned).
 
 **Special:** A monk receives Stunning Fist as a bonus feat at 1st level, even if he does not meet the prerequisites. A monk may attempt a stunning attack a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk.
 
@@ -1908,7 +1908,7 @@ Spells that do not have an area of one of these four sorts are not affected by t
 
 Your erratic movements make it difficult for enemies to pinpoint your location.
 
-**Prerequisites:** [Dex](gettingStarted#_dexterity 15, Dodge, base attack bonus +6.
+**Prerequisites:** [Dex](gettingStarted#_dexterity) 15, Dodge, base attack bonus +6.
 
 **Benefit:** If you move more than 5 feet this turn, you gain 20% concealment for 1 round against ranged attacks.
 

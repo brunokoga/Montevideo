@@ -1,5 +1,5 @@
 ---
-title: mastery/nPCGallery/tribe
+title: master_dir/nPCGallery/tribe
 ---
 # Tribe
 
@@ -31,23 +31,23 @@ CN Medium humanoid
 
 **Melee** greatclub +6 (1d10+6) and bite +1 (1d4+2) or unarmed strike +6 (1d3+4) and bite +1 (1d4+2) or bite +6 (1d4+4 plus +2 bonus on grapple)
 
-**Ranged** throwing axe +3 (1d6+4
+**Ranged** throwing axe +3 (1d6+4)
 
-**Special Attacks** rage (9 round_dir/day), rage power (animal fury)
+**Special Attacks** rage (9 rounds/day), rage power (animal fury)
 
 **Tactics**
 
-**Base Statistics** When not raging, the barbarian's statistics are **AC** 15, touch 11, flat-footed 14; **hp** 21; **Fort** +6, **Will** +1; **Melee** greatclub +4 (1d10+3) or unarmed strike +4 (1d3+2), no bite; **Ranged** throwing axe +3 (1d6+2); **Str** 15, **Con** 16; **CMB** +4 (+6 grapple; **[Climb](../../skill_dir/climb#_climb** +4, **[Swim](../../skill_dir/swim#_swim)** +4
+**Base Statistics** When not raging, the barbarian's statistics are **AC** 15, touch 11, flat-footed 14; **hp** 21; **Fort** +6, **Will** +1; **Melee** greatclub +4 (1d10+3) or unarmed strike +4 (1d3+2), no bite; **Ranged** throwing axe +3 (1d6+2); **Str** 15, **Con** 16; **CMB** +4 (+6 grapple); **[Climb](../../skill_dir/climb#_climb)** +4, **[Swim](../../skill_dir/swim#_swim)** +4
 
 **Statistics**
 
 **Str** 19, **Dex** 13, **Con** 20, **Int** 10, **Wis** 12, **Cha** 8
 
-**Base Atk** +2; **CMB** +6 (+8 grapple); **CMD** 15 (17 vs. grapple
+**Base Atk** +2; **CMB** +6 (+8 grapple); **CMD** 15 (17 vs. grapple)
 
 **Feats** [Improved Grapple](../../feats#_improved-grapple), [Improved Unarmed Strike](../../feats#_improved-unarmed-strike)
 
-**Skills** [Climb](../../skill_dir/climb#_climb +6, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +4, [Perception](../../skill_dir/perception#_perception +6, [Survival](../../skill_dir/survival#_survival +6, [Swim](../../skill_dir/swim#_swim) +6
+**Skills** [Climb](../../skill_dir/climb#_climb) +6, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +4, [Perception](../../skill_dir/perception#_perception) +6, [Survival](../../skill_dir/survival#_survival) +6, [Swim](../../skill_dir/swim#_swim) +6
 
 **Languages** Common
 
@@ -59,7 +59,7 @@ CN Medium humanoid
 
 Cannibals are ferocious, savage humanoids, feral people with a taste for sentient flesh. In battle, they charge with savage war cries, often tossing their weapons aside to hurl themselves onto their foes with hunger and abandon, eager to taste the blood and flesh in the ecstatic heat of battle.
 
-Cannibals can also be used as regular barbarian tribesmen. In these cases, they might have different rage powers (such as intimidating glare, powerful blow, or superstition, and their feats can be replaced with [Endurance](../../feats#_endurance) and [Diehard](../../feats#_diehard), or [Power Attack](../../feats#_power-attack) and [Cleave](../../feats#_cleave). A cannibal with the scent rage power makes a skilled tracker, while one with swift foot can easily run down prey.
+Cannibals can also be used as regular barbarian tribesmen. In these cases, they might have different rage powers (such as intimidating glare, powerful blow, or superstition), and their feats can be replaced with [Endurance](../../feats#_endurance) and [Diehard](../../feats#_diehard), or [Power Attack](../../feats#_power-attack) and [Cleave](../../feats#_cleave). A cannibal with the scent rage power makes a skilled tracker, while one with swift foot can easily run down prey.
 
 Cannibals are usually found in hunting parties of four to six (CR 5 or 6), often accompanied by an equal number of half-tamed large dogs (CR 6 or 7). Eight cannibals might accompany a shaman (CR 8) or a chieftain (CR 11).
 
@@ -87,7 +87,7 @@ Init –1; **Senses** [Perception](../../skill_dir/perception#_perception) +1
 
 **Melee** mwk sickle +4 (1d6)
 
-**Adept Spells Prepared** (CL 7th; concentration +8; 2nd—_ [cure moderate wounds](../../spell_dir/cureModerateWounds#_cure-moderate-wounds_, _ [web](../../spell_dir/web#_web)_ (DC 13; 1st—_ [bless](../../spell_dir/bless#_bless_, _ [command](../../spell_dir/command#_command) _(DC 12, _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_, _ [obscuring mist](../../spell_dir/obscuringMist#_obscuring-mist_; 0—_ [guidance](../../spell_dir/guidance#_guidance_, _ [stabilize](../../spell_dir/stabilize#_stabilize_, _ [touch of fatigue](../../spell_dir/touchOfFatigue#_touch-of-fatigue)_ (DC 11
+**Adept Spells Prepared** (CL 7th; concentration +8); 2nd—_ [cure moderate wounds](../../spell_dir/cureModerateWounds#_cure-moderate-wounds)_, _ [web](../../spell_dir/web#_web)_ (DC 13); 1st—_ [bless](../../spell_dir/bless#_bless)_, _ [command](../../spell_dir/command#_command) _(DC 12), _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_, _ [obscuring mist](../../spell_dir/obscuringMist#_obscuring-mist)_; 0—_ [guidance](../../spell_dir/guidance#_guidance)_, _ [stabilize](../../spell_dir/stabilize#_stabilize)_, _ [touch of fatigue](../../spell_dir/touchOfFatigue#_touch-of-fatigue)_ (DC 11)
 
 **Statistics**
 
@@ -97,13 +97,13 @@ Init –1; **Senses** [Perception](../../skill_dir/perception#_perception) +1
 
 **Feats** [Brew Potion](../../feats#_brew-potion), [Combat Casting](../../feats#_combat-casting), [Craft Wand](../../feats#_craft-wand), [Improved Familiar](../../feats#_improved-familiar), [Self-Sufficient](../../feats#_self-sufficient)
 
-**Skills** [Craft](../../skill_dir/craft#_craft) (alchemy +10, [Heal](../../skill_dir/heal#_heal +12, [Knowledge](../../skill_dir/knowledge#_knowledge) (history +6, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +6, [Knowledge](../../skill_dir/knowledge#_knowledge) (nature +6, [Knowledge](../../skill_dir/knowledge#_knowledge) (religion +6, [Profession](../../skill_dir/profession#_profession) (herbalist +10, [Spellcraft](../../skill_dir/spellcraft#_spellcraft +6, [Survival](../../skill_dir/survival#_survival) +13
+**Skills** [Craft](../../skill_dir/craft#_craft) (alchemy) +10, [Heal](../../skill_dir/heal#_heal) +12, [Knowledge](../../skill_dir/knowledge#_knowledge) (history) +6, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +6, [Knowledge](../../skill_dir/knowledge#_knowledge) (nature) +6, [Knowledge](../../skill_dir/knowledge#_knowledge) (religion) +6, [Profession](../../skill_dir/profession#_profession) (herbalist) +10, [Spellcraft](../../skill_dir/spellcraft#_spellcraft) +6, [Survival](../../skill_dir/survival#_survival) +13
 
 **Languages** Common, Ignan
 
-**SQ** summon familiar (smoke mephit
+**SQ** summon familiar (smoke mephit)
 
-**Combat Gear** _wand of [burning hands](../../spell_dir/burningHands#_burning-hands)_ (CL 5, 50 charges, _wand of [cure moderate wounds](../../spell_dir/cureModerateWounds#_cure-moderate-wounds)_ (50 charges), alchemist's fire (2; **Other Gear** masterwork studded leather, masterwork sickle, wooden holy symbol, 4 gp
+**Combat Gear** _wand of [burning hands](../../spell_dir/burningHands#_burning-hands)_ (CL 5, 50 charges), _wand of [cure moderate wounds](../../spell_dir/cureModerateWounds#_cure-moderate-wounds)_ (50 charges), alchemist's fire (2); **Other Gear** masterwork studded leather, masterwork sickle, wooden holy symbol, 4 gp
 
 **Boon** A shaman can craft potions for PCs at a 10% discount or make up to three knowledge checks on their behalf. A shaman can also give them a sacred token that grants a +2 circumstance bonus on [Diplomacy](../../skill_dir/diplomacy#_diplomacy) checks with tribes within a 20-mile radius.
 
@@ -111,7 +111,7 @@ Shamans are the keepers of wisdom, myth, and medicine, the watchers over birth, 
 
 Shamans may tend to good or neutral tribes with long histories and heroic traditions, or might be sinister witch doctors urging depraved cannibal tribes to darker evils. They are usually found in the wilds, but may be encountered in towns or cities, particularly if drawn there by visions or the voices of the spirits.
 
-A shaman may keep a gladiator, monster hunter, or raider as her bodyguard (CR 7), or might have two doomsayers as apprentice shamans (CR 6.
+A shaman may keep a gladiator, monster hunter, or raider as her bodyguard (CR 7), or might have two doomsayers as apprentice shamans (CR 6).
 
 **Chieftain CR 10**
 
@@ -127,7 +127,7 @@ N Medium humanoid
 
 **AC** 15, touch 11, flat-footed 14 (+4 armor, +1 Dex)
 
-**hp** 102 (12d10+36
+**hp** 102 (12d10+36)
 
 **Fort** +9, **Ref** +5, **Will** +3
 
@@ -135,7 +135,7 @@ N Medium humanoid
 
 **Speed** 20 ft.
 
-**Melee** _+1 human [bane](../../magicItem_dir/weapons#_weapons-bane greatsword_ +17/+12/+7 (2d6+7/17–20) or _+1 human [bane](../../magicItem_dir/weapons#_weapons-bane greatsword_+19/+14/+9 (4d6+9/17–20) vs. humans or handaxe +16/+11/+6 (1d6+4/×3)
+**Melee** _+1 human [bane](../../magicItem_dir/weapons#_weapons-bane) greatsword_ +17/+12/+7 (2d6+7/17–20) or _+1 human [bane](../../magicItem_dir/weapons#_weapons-bane) greatsword_+19/+14/+9 (4d6+9/17–20) vs. humans or handaxe +16/+11/+6 (1d6+4/×3)
 
 **Ranged** longbow +13/+8/+3 (1d8/×3)
 
@@ -147,19 +147,19 @@ N Medium humanoid
 
 **Feats** [Critical Focus](../../feats#_critical-focus), [Diehard](../../feats#_diehard), [Endurance](../../feats#_endurance), [Improved Critical](../../feats#_improved-critical) (greatsword), [Intimidating Prowess](../../feats#_intimidating-prowess), [Lunge](../../feats#_lunge), [Toughness](../../feats#_toughness)
 
-**Skills** [Climb](../../skill_dir/climb#_climb +7, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +6, [Intimidate](../../skill_dir/intimidate#_intimidate +19, [Perception](../../skill_dir/perception#_perception +2, [Ride](../../skill_dir/ride#_ride +4
+**Skills** [Climb](../../skill_dir/climb#_climb) +7, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +6, [Intimidate](../../skill_dir/intimidate#_intimidate) +19, [Perception](../../skill_dir/perception#_perception) +2, [Ride](../../skill_dir/ride#_ride) +4
 
 **Languages** Common
 
-**Combat Gear** _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_; **Other Gear** hide armor, _+1 human [bane](../../magicItem_dir/weapons#_weapons-bane greatsword_, handaxe, longbow with 20 arrows, _ [belt of giant strength](../../magicItem_dir/wondrousItems#_belt-of-giant-strength +2_, 18 gp
+**Combat Gear** _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** hide armor, _+1 human [bane](../../magicItem_dir/weapons#_weapons-bane) greatsword_, handaxe, longbow with 20 arrows, _ [belt of giant strength](../../magicItem_dir/wondrousItems#_belt-of-giant-strength) +2_, 18 gp
 
 **Boon** A chieftain can grant safe passage through lands within 20 miles; no tribes within that area will attack the PCs.
 
 Chieftains lead cannibal tribes and other savage groups through raw strength, fierce cunning, and sheer force of will. A chieftain holds a mighty weapon as a symbol of his leadership and as a warning to those who would challenge him, for the blade has tasted the blood of as many rivals within the tribe as that of enemies from without.
 
-As with shamans and cannibals, chieftains can rule either proud, noble barbarian groups or bestial, degenerate cannibal tribes. A chieftain who claimed his position by virtue of his heroic deeds might have a _dragon [bane](../../magicItem_dir/weapons#_weapons-bane_ or _magical beast [bane](../../magicItem_dir/weapons#_weapons-bane) greatsword_ instead of the listed weapon, while a powerful cannibal chief might wear the heavier armor and wield the foreign weapons of defeated (and consumed) foes.
+As with shamans and cannibals, chieftains can rule either proud, noble barbarian groups or bestial, degenerate cannibal tribes. A chieftain who claimed his position by virtue of his heroic deeds might have a _dragon [bane](../../magicItem_dir/weapons#_weapons-bane)_ or _magical beast [bane](../../magicItem_dir/weapons#_weapons-bane) greatsword_ instead of the listed weapon, while a powerful cannibal chief might wear the heavier armor and wield the foreign weapons of defeated (and consumed) foes.
 
-Chieftains can also be used as simple, direct gladiators, or even as high-level guardsmen, perhaps in charge of an entire castle's or city's guard force. Such guard generals wear heavier armor, usually banded mail or full plate (AC 18 or 20, respectively, and might possess the [Power Attack](../../feats#_power-attack) and [Cleave](../../feats#_cleave) feats instead of [Endurance](../../feats#_endurance) and [Diehard](../../feats#_diehard).
+Chieftains can also be used as simple, direct gladiators, or even as high-level guardsmen, perhaps in charge of an entire castle's or city's guard force. Such guard generals wear heavier armor, usually banded mail or full plate (AC 18 or 20, respectively), and might possess the [Power Attack](../../feats#_power-attack) and [Cleave](../../feats#_cleave) feats instead of [Endurance](../../feats#_endurance) and [Diehard](../../feats#_diehard).
 
 Chieftains are usually found with two raider bodyguards, a shaman, and a dozen cannibals (CR 12). A chieftain might also lead a raiding party of 10 raiders (CR 13) or nine vikings (CR 14).
 

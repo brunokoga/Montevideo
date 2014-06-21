@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/dragonfly
+title: additionalMonster_dir/dragonfly
 ---
 # Dragonfly, Giant
 
@@ -9,9 +9,9 @@ Giant DragonflyCR 4
 
 **XP 1,200**
 
-N Medium [vermin](monster_dir/creatureTypes#_vermin
+N Medium [vermin](monsters/creatureTypes#_vermin)
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +1
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +1
 
 Defense
 
@@ -25,9 +25,9 @@ Defense
 
 Offense
 
-**Speed** 20 ft., fly 80 ft. (perfect
+**Speed** 20 ft., fly 80 ft. (perfect)
 
-**Melee** bite +9 (2d8+6 plus [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** bite +9 (2d8+6 plus [grab](monsters/universalMonsterRules#_grab))
 
 **Special Attack** darting charge
 
@@ -35,23 +35,23 @@ Statistics
 
 **Str** 19, **Dex** 15, **Con** 14, **Int** —, **Wis** 12, **Cha** 9
 
-**Base Atk** +5; **CMB** +9 (+13 grappling, or +17 grappling on a charge); **CMD** 21 (29 vs. trip
+**Base Atk** +5; **CMB** +9 (+13 grappling, or +17 grappling on a charge); **CMD** 21 (29 vs. trip)
 
-**Feats** [Flyby Attack](additionalMonsters/../monster_dir/monsterFeats#_flyby-attackB
+**Feats** [Flyby Attack](additionalMonster_dir/../monster_dir/monsterFeats#_flyby-attack)B
 
-**Skills** [Fly](additionalMonsters/../skill_dir/fly#_fly +10
+**Skills** [Fly](additionalMonsters/../skill_dir/fly#_fly) +10
 
 Ecology
 
 **Environment** temperate or warm land
 
-**Organization** solitary or [flight](monster_dir/universalMonsterRules#_flight-(ex,-sp,-or-su)) (2–5)
+**Organization** solitary or [flight](monsters/universalMonsterRules#_flight-(ex,-sp,-or-su)) (2–5)
 
 **Treasure** incidental
 
 Special Abilities
 
-**Darting Charge (Ex** A giant dragonfly is adept at swooping in to attack prey with a powerful bite and then, just as quickly, swooping back up out of reach. As a result, a giant dragonfly gains [Flyby Attack](additionalMonsters/../monster_dir/monsterFeats#_flyby-attack as a bonus feat. In addition, if a giant dragonfly charges while flying, it receives a +4 bonus on CMB checks made to grapple foes.
+**Darting Charge (Ex)** A giant dragonfly is adept at swooping in to attack prey with a powerful bite and then, just as quickly, swooping back up out of reach. As a result, a giant dragonfly gains [Flyby Attack](additionalMonster_dir/../monster_dir/monsterFeats#_flyby-attack) as a bonus feat. In addition, if a giant dragonfly charges while flying, it receives a +4 bonus on CMB checks made to grapple foes.
 
 Giant dragonflies are rare compared to other varieties of giant insects, and fortunately so, since they are voracious hunters of warm-blooded prey, including humanoids.
 
@@ -63,7 +63,7 @@ Giant Dragonfly NymphCR 3
 
 **XP 800**
 
-N Small [vermin](monster_dir/creatureTypes#_vermin ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
+N Small [vermin](monsters/creatureTypes#_vermin) ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype))
 
 **Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +1
 
@@ -91,9 +91,9 @@ Statistics
 
 **Str** 15, **Dex** 13, **Con** 14, **Int** —, **Wis** 12, **Cha** 5
 
-**Base Atk** +3; **CMB** +4; **CMD** 15 (23 vs. trip
+**Base Atk** +3; **CMB** +4; **CMD** 15 (23 vs. trip)
 
-**Skills** [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +5 (+13 in shallow water , [Swim](additionalMonsters/../skill_dir/swim#_swim +10; **Racial Modifiers** +8 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in shallow water
+**Skills** [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +5 (+13 in shallow water) , [Swim](additionalMonsters/../skill_dir/swim#_swim) +10; **Racial Modifiers** +8 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in shallow water
 
 Ecology
 
@@ -105,7 +105,7 @@ Ecology
 
 Special Abilities
 
-**Extending Jaw (Ex** A giant dragonfly nymph can extend its jaws with surprising speed. Not only does this extend the nymph's reach with its bite attack, but during the surprise round, a nymph gains a +4 bonus on attack rolls with its bite.
+**Extending Jaw (Ex)** A giant dragonfly nymph can extend its jaws with surprising speed. Not only does this extend the nymph's reach with its bite attack, but during the surprise round, a nymph gains a +4 bonus on attack rolls with its bite.
 
 Giant dragonflies lay clutches of eggs in swampy terrain or areas of standing water. Their young, called nymphs, voraciously eat carrion and small prey, growing and maturing rapidly until they sprout fully functional wings and become adult dragonflies.
 

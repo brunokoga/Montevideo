@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spell_dir/litanyOfMadness
+title: ultimateComba_dir/spells/litanyOfMadness
 ---
 Litany of Madness
 
-**School** enchantment (charm [language dependent, mind-affecting]; **Level** antipaladin 4, inquisitor 6
+**School** enchantment (charm) [language dependent, mind-affecting]; **Level** antipaladin 4, inquisitor 6
 
 **Casting Time** 1 swift action
 

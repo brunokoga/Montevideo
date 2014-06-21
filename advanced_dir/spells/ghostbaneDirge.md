@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/ghostbaneDirge
+title: advance_dir/spells/ghostbaneDirge
 ---
  **Ghostbane Dirge**
 
@@ -17,7 +17,7 @@ title: advanced/spells/ghostbaneDirge
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The target coalesces into a semi-physical form for a short period of time. While subject to the spell, the incorporeal creature takes half damage (50% from nonmagical attack forms, and full damage from magic weapons, spells, spell-like effects, and supernatural effects.
+The target coalesces into a semi-physical form for a short period of time. While subject to the spell, the incorporeal creature takes half damage (50%) from nonmagical attack forms, and full damage from magic weapons, spells, spell-like effects, and supernatural effects.
 
 **Ghostbane Dirge, Mass**
 

@@ -1,9 +1,9 @@
 ---
-title: mythicAdventures/mythicSpells/blindingRay
+title: mythicAdventure_dir/mythicSpells/blindingRay
 ---
 Blinding Ray
 
-**Source** [_blinding ray_](advancedRaceGuide/featuredRace_dir/dhampirs#_blinding-ray
+**Source** [_blinding ray_](advancedRaceGuid_dir/featuredRaces/dhampirs#_blinding-ray)
 
 On a successful saving throw, the target is dazzled for 1 round. On a failed saving throw, the target is instead blinded for 1d4 rounds.
 

@@ -3,7 +3,7 @@ title: spell_dir/summonInstrument
 ---
  **Summon Instrument**
 
-**School** conjuration (summoning; **Level** bard 0
+**School** conjuration (summoning); **Level** bard 0
 
 **Casting Time** 1 round
 

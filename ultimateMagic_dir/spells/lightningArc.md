@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/lightningArc
+title: ultimateMagi_dir/spells/lightningArc
 ---
 Lightning Arc
 
@@ -7,7 +7,7 @@ Lightning Arc
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (fur and two glass figurines
+**Components** V, S, M (fur and two glass figurines)
 
 **Range** long (400 ft. + 40 ft./level)
 

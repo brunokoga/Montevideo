@@ -1,9 +1,9 @@
 ---
-title: advanced/spell_dir/phantasmalRevenge
+title: advance_dir/spells/phantasmalRevenge
 ---
  **Phantasmal Revenge**
 
-**School** illusion (phantasm [fear, mind-affecting]; **Level** sorcerer/wizard 7
+**School** illusion (phantasm) [fear, mind-affecting]; **Level** sorcere_dir/wizard 7
 
 **Casting Time** 1 standard action
 

@@ -1,5 +1,5 @@
 ---
-title: spells/rayOfFrost
+title: spell_dir/rayOfFrost
 ---
  **Ray of Frost**
 

@@ -3,7 +3,7 @@ title: spell_dir/charmPerson
 ---
  **Charm Person**
 
-**School** enchantment (charm [mind-affecting]; **Level** bard 1, sorcerer/wizard 1
+**School** enchantment (charm) [mind-affecting]; **Level** bard 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spell_dir/charmPerson
 
 **Target** one humanoid creature
 
-**Duration** 1 hour/level
+**Duration** 1 hou_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

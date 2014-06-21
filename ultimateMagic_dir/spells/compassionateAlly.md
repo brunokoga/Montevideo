@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spell_dir/compassionateAlly
+title: ultimateMagi_dir/spells/compassionateAlly
 ---
 Compassionate Ally
 
-**School** enchantment (compulsion [emotion, mind-affecting]; **Level** bard 2; cleric 2, sorcerer/wizard 2
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 2; cleric 2, sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -13,9 +13,9 @@ Compassionate Ally
 
 **Target** one creature
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-At the sight of an injured ally, the target immediately disengages from its current course of action and rushes to provide aid. If the target possesses curative spells or magic items, it utilizes them to help the injured ally. If not, the target provides aid by performing a [Heal](skill_dir/heal#_heal check. The target remains with the injured ally to assure her safety and refuses to leave the ally's side until her wounds are fully treated or the spell ends, but can otherwise defend itself and make attacks.
+At the sight of an injured ally, the target immediately disengages from its current course of action and rushes to provide aid. If the target possesses curative spells or magic items, it utilizes them to help the injured ally. If not, the target provides aid by performing a [Heal](skills/heal#_heal) check. The target remains with the injured ally to assure her safety and refuses to leave the ally's side until her wounds are fully treated or the spell ends, but can otherwise defend itself and make attacks.
 

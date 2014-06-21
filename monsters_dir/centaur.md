@@ -9,7 +9,7 @@ _This creature has the sun-bronzed upper body of a seasoned warrior and the lowe
 
 **XP 800**
 
-N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid
+N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Init** +6; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +7
 
@@ -23,7 +23,7 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid
 
 **Offense**
 
-**Speed** 50 ft. (35 ft. in armor
+**Speed** 50 ft. (35 ft. in armor)
 
 **Melee** longsword +5 (1d8+2/19–20), 2 hooves +0 (1d6+1)
 
@@ -39,7 +39,7 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run)
 
-**Skills** [Diplomacy](../skill_dir/diplomacy#_diplomacy +5, [Intimidate](../skill_dir/intimidate#_intimidate +6, [Knowledge](../skill_dir/knowledge#_knowledge) (nature +4, [Perception](../skill_dir/perception#_perception +7, [Survival](../skill_dir/survival#_survival) +9
+**Skills** [Diplomacy](../skill_dir/diplomacy#_diplomacy) +5, [Intimidate](../skill_dir/intimidate#_intimidate) +6, [Knowledge](../skill_dir/knowledge#_knowledge) (nature) +4, [Perception](../skill_dir/perception#_perception) +7, [Survival](../skill_dir/survival#_survival) +9
 
 **Languages** Common, Elven, Sylvan
 
@@ -55,7 +55,7 @@ N Large [monstrous humanoid](creatureTypes#_monstrous-humanoid
 
 **Special Abilities**
 
-**Undersized Weapons (Ex)** Although a centaur is Large, its upper torso is the same size as that of a Medium humanoid. As a result, they wield weapons as if they were one size category smaller than their actual size (Medium for most centaurs.
+**Undersized Weapons (Ex)** Although a centaur is Large, its upper torso is the same size as that of a Medium humanoid. As a result, they wield weapons as if they were one size category smaller than their actual size (Medium for most centaurs).
 
 Legendary hunters and skilled warriors, centaurs are part man and part horse. Typically found on the fringes of civilization, these stoic people vary widely in appearance, their skin tones typically appearing deeply tanned but similar to the humans who occupy nearby regions, while their lower bodies borrow the colorations of local equines. Centaur hair and eyes trend toward darker colors and their features tend to be broad, while the overall bulk of their bodies is influenced by the size of the horses their lower quarters resemble. Thus, while an average centaur stands over 7 feet tall and weights upward of 2,000 pounds, there are vast regional variations—from lean plains-runners to burly mountain hunters. Centaurs typically live to be about 60 years old.
 

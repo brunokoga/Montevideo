@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/putrefyFoodAndDrink
+title: advance_dir/spells/putrefyFoodAndDrink
 ---
  **Putrefy Food and Drink**
 

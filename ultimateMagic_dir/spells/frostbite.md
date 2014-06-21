@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/frostbite
+title: ultimateMagi_dir/spells/frostbite
 ---
 Frostbite
 

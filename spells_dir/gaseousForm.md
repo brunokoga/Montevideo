@@ -1,5 +1,5 @@
 ---
-title: spells/gaseousForm
+title: spell_dir/gaseousForm
 ---
  **Gaseous Form**
 

@@ -1,5 +1,5 @@
 ---
-title: mythicAdventures/Glossary
+title: mythicAdventure_dir/Glossary
 ---
 # Glossary
 

@@ -3,11 +3,11 @@ title: spell_dir/formOfTheDragon
 ---
  **Form of the Dragon I**
 
-**School** transmutation (polymorph; **Level** sorcere_dir/wizard 6
+**School** transmutation (polymorph); **Level** sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a scale of the dragon type you plan to assume
+**Components** V, S, M (a scale of the dragon type you plan to assume)
 
 **Range** personal
 
@@ -41,13 +41,13 @@ _Silver dragon_: 30-foot cone of cold, resist cold 30, vulnerability to fire
 
 **Form of the Dragon II**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 7
+**School** transmutation (polymorph); **Level** sorcere_dir/wizard 7
 
 This spell functions as _form of the dragon I _except that it also allows you to assume the form of a Large chromatic or metallic dragon. You gain the following abilities: a +6 size bonus to [Strength](../gettingStarted#_strength), a +4 size bonus to [Constitution](../gettingStarted#_constitution), a +6 natural armor bonus, fly 90 feet (poor), [darkvision](../glossary#_darkvision) 60 feet, a breath weapon, [DR](../glossary#_damage-reduction) 5/magic, and resistance to one element. You also gain one bite (2d6), two claws (1d8), two wing attacks (1d6), and one tail slap attack (1d8). You can only use the breath weapon twice per casting of this spell, and you must wait 1d4 rounds between uses. All breath weapons deal 8d8 points of damage and allow a [Reflex](../combat#_reflex) save for half damage. Line breath weapons increase to 80-foot lines and cones increase to 40-foot cones.
 
 **Form of the Dragon III**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 8
+**School** transmutation (polymorph); **Level** sorcere_dir/wizard 8
 
 This spell functions as _form of the dragon II _save that it also allows you to take the form of a Huge chromatic or metallic dragon. You gain the following abilities: a +10 size bonus to [Strength](../gettingStarted#_strength), a +8 size bonus to [Constitution](../gettingStarted#_constitution), a +8 natural armor bonus, fly 120 feet (poor), [blindsense](../glossary#_blindsight-and-blindsense) 60 feet, [darkvision](../glossary#_darkvision) 120 feet, a breath weapon, [DR](../glossary#_damage-reduction) 10/magic, frightful presence (DC equal to the DC for this spell), and immunity to one element (of the same type _form of the dragon I _grants resistance to). You also gain one bite (2d8), two claws (2d6), two wing attacks (1d8), and one tail slap attack (2d6). You can use the breath weapon as often as you like, but you must wait 1d4 rounds between uses. All breath weapons deal 12d8 points of damage and allow a [Reflex](../combat#_reflex) save for half damage. Line breath weapons increase to 100-foot lines and cones increase to 50-foot cones.
 

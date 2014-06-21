@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/retribution
+title: advance_dir/spells/retribution
 ---
  **Retribution**
 
@@ -13,7 +13,7 @@ title: advanced/spells/retribution
 
 **Target** one creature who has just struck you with an attack
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 

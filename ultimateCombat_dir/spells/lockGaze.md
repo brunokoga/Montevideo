@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spell_dir/lockGaze
+title: ultimateComba_dir/spells/lockGaze
 ---
 Lock Gaze
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 1, inquisitor 1, magus 1, sorcerer/wizard 1, witch 1
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, inquisitor 1, magus 1, sorcere_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ Lock Gaze
 
 **Target** one creature
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

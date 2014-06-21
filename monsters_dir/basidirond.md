@@ -11,7 +11,7 @@ _This strange plant consists of four spidery stalks, long green tendrils, and an
 
 N Medium [plant](creatureTypes#_plant)
 
-**Init** +1; **Senses** low-light vision, [tremorsense](universalMonsterRules#_tremorsense; [Perception](../skill_dir/perception#_perception) +0
+**Init** +1; **Senses** low-light vision, [tremorsense](universalMonsterRules#_tremorsense); [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
@@ -49,7 +49,7 @@ N Medium [plant](creatureTypes#_plant)
 
 **Special Abilities**
 
-**Hallucination Cloud (Ex** As a standard action once per minute, a basidirond can release a cloud of invisible spores in a 20-foot radius. All creatures within the area must succeed on a DC 16 Fortitude save or be affected by powerful hallucinations as long as they remain in the cloud plus 1d4 rounds after leaving the area. A new save must be made each round a creature remains within the affected area. A hallucination cloud persists for 5 rounds before dispersing—a strong wind causes it to disperse immediately. The save DC is Constitution-based. To determine what hallucination is suffered each round, roll 1d6 and consult the following table.
+**Hallucination Cloud (Ex)** As a standard action once per minute, a basidirond can release a cloud of invisible spores in a 20-foot radius. All creatures within the area must succeed on a DC 16 Fortitude save or be affected by powerful hallucinations as long as they remain in the cloud plus 1d4 rounds after leaving the area. A new save must be made each round a creature remains within the affected area. A hallucination cloud persists for 5 rounds before dispersing—a strong wind causes it to disperse immediately. The save DC is Constitution-based. To determine what hallucination is suffered each round, roll 1d6 and consult the following table.
 
 **d6 Hallucination**
 

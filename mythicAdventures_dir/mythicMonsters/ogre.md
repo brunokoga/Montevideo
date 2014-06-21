@@ -1,5 +1,5 @@
 ---
-title: mythicAdventures/mythicMonsters/ogre
+title: mythicAdventure_dir/mythicMonsters/ogre
 ---
 # Ogre
 
@@ -9,15 +9,15 @@ Mythic Ogre CR 4/MR 1
 
 XP 1,200
 
-CE Large humanoid ( [giant](monster_dir/creatureTypes#_giant-subtype, [mythic](mythicAdventure_dir/mythicMonsters#_mythic-subtype)
+CE Large humanoid ( [giant](monster_dir/creatureTypes#_giant-subtype), [mythic](mythicAdventures/mythicMonsters#_mythic-subtype))
 
-**Init** –1; **Senses** darkvision 60 ft., [low-light vision](monster_dir/universalMonsterRules#_low-light-vision; [Perception](skill_dir/perception#_perception) +6
+**Init** –1; **Senses** darkvision 60 ft., [low-light vision](monster_dir/universalMonsterRules#_low-light-vision); [Perception](skills/perception#_perception) +6
 
 Defense
 
 **AC** 19, touch 8, flat-footed 19 (+5 armor, –1 Dex, +6 natural, –1 size)
 
-**hp** 50 (5d8+28
+**hp** 50 (5d8+28)
 
 **Fort** +7, **Ref** +0, **Will** +3
 
@@ -41,11 +41,11 @@ Statistics
 
 **Base Atk** +3; **CMB** +9; **CMD** 18
 
-**Feats** [Iron Will](mythicAdventure_dir/mythicFeats#_iron-will-mythic)M, [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (greatclub
+**Feats** [Iron Will](mythicAdventure_dir/mythicFeats#_iron-will-mythic)M, [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (greatclub)
 
-**Skills** [Climb](skill_dir/climb#_climb +7, [Perception](skill_dir/perception#_perception +6
+**Skills** [Climb](skills/climb#_climb) +7, [Perception](skill_dir/perception#_perception) +6
 
-**Languages** [Giant](monster_dir/creatureTypes#_giant-subtype
+**Languages** [Giant](monsters/creatureTypes#_giant-subtype)
 
 Ecology
 
@@ -59,7 +59,7 @@ Special Abilities
 
 **Iron Resilience (Ex)** Once per round, a mythic ogre can ignore an attack that would reduce it to negative hit points or kill it. The ogre takes no damage from the attack. As an immediate action, a mythic ogre can expend one use of mythic power to use this ability to ignore all attacks from one creature for 1 round.
 
-**Rising Fury (Ex** Each time a mythic ogre takes damage, it gains a +2 morale bonus on damage rolls until the end of its next turn. This bonus increases by +2 each time the ogre takes damage, up to a maximum of +10. At the end of the ogre's turn, this damage bonus resets to +0.
+**Rising Fury (Ex)** Each time a mythic ogre takes damage, it gains a +2 morale bonus on damage rolls until the end of its next turn. This bonus increases by +2 each time the ogre takes damage, up to a maximum of +10. At the end of the ogre's turn, this damage bonus resets to +0.
 
 A mythic ogre is an example of inbreeding going exactly right, the perfect combination of hardiness and fast maturity without any significant deformities that would hamper its ability to hunt. Able to evade death like a monstrous cockroach and prone to violent outbursts like a berserk child, a mythic ogre has all the qualities common ogres admire, and easily takes over the family unit by browbeating others into submission. Some even manage to dominate hill giant tribes with sheer numbers, making the next generation taller and stronger.
 

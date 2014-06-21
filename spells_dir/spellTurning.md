@@ -1,5 +1,5 @@
 ---
-title: spells/spellTurning
+title: spell_dir/spellTurning
 ---
  **Spell Turning**
 

@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spell_dir/unpreparedCombatant
+title: ultimateMagi_dir/spells/unpreparedCombatant
 ---
 Unprepared Combatant
 
-**School** enchantment (compulsion [emotion, mind-affecting]; **Level** bard 1, sorcerer/wizard 1, witch 1
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 1, sorcere_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ Unprepared Combatant
 
 **Target** one creature
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

@@ -1,5 +1,5 @@
 ---
-title: spells/light
+title: spell_dir/light
 ---
  **Light**
 

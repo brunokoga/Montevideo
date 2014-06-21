@@ -3,7 +3,7 @@ title: spell_dir/animalShapes
 ---
  **Animal Shapes**
 
-**School** transmutation (polymorph; **Level** druid 8
+**School** transmutation (polymorph); **Level** druid 8
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spell_dir/animalShapes
 
 **Targets** up to one willing creature per level, all within 30 ft. of each other.
 
-**Duration** 1 hou_dir/level (D
+**Duration** 1 hou_dir/level (D)
 
 **Saving Throw** none, see text; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/timelyInspiration
+title: advance_dir/spells/timelyInspiration
 ---
  **Timely Inspiration**
 

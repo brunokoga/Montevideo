@@ -3,9 +3,9 @@ title: spell_dir/solidFog
 ---
  **Solid Fog**
 
-**School** conjuration (creation; **Level** sorcere_dir/wizard 4
+**School** conjuration (creation); **Level** sorcerer/wizard 4
 
-**Components** : V, S, M (powdered peas and an animal hoof
+**Components** : V, S, M (powdered peas and an animal hoof)
 
 **Duration** 1 min./level
 

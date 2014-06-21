@@ -1,5 +1,5 @@
 ---
-title: spells/disruptUndead
+title: spell_dir/disruptUndead
 ---
  **Disrupt Undead**
 

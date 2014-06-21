@@ -1,5 +1,5 @@
 ---
-title: spells/orderSWrath
+title: spell_dir/orderSWrath
 ---
  **Order's Wrath**
 

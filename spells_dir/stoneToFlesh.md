@@ -1,13 +1,13 @@
 ---
-title: spells/stoneToFlesh
+title: spell_dir/stoneToFlesh
 ---
  **Stone to Flesh**
 
-**School** transmutation; **Level** sorcere_dir/wizard 6
+**School** transmutation; **Level** sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a drop of blood mixed with earth
+**Components** V, S, M (a drop of blood mixed with earth)
 
 **Range** medium (100 ft. + 10 ft./level)
 

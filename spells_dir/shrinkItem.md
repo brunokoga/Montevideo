@@ -1,5 +1,5 @@
 ---
-title: spells/shrinkItem
+title: spell_dir/shrinkItem
 ---
  **Shrink Item**
 
@@ -13,7 +13,7 @@ title: spells/shrinkItem
 
 **Target** one touched object of up to 2 cu. ft./level
 
-**Duration** 1 day/level; see text
+**Duration** 1 da_dir/level; see text
 
 **Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
 

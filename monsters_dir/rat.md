@@ -1,5 +1,5 @@
 ---
-title: monsters/rat
+title: monster_dir/rat
 ---
 # Rat, Dire
 
@@ -33,11 +33,11 @@ N Small [animal](creatureTypes#_animal)
 
 **Str** 10, **Dex** 17, **Con** 13, **Int** 2, **Wis** 13, **Cha** 4
 
-**Base**  **Atk** +0; **CMB** –1; **CMD** 12 (16 vs. trip
+**Base**  **Atk** +0; **CMB** –1; **CMD** 12 (16 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Climb](../skill_dir/climb#_climb +11, [Perception](../skill_dir/perception#_perception +4, [Stealth](../skill_dir/stealth#_stealth +11, [Swim](../skill_dir/swim#_swim +11; **Racial Modifiers** uses Dex to modify [Climb](../skill_dir/climb#_climb and [Swim](../skill_dir/swim#_swim)
+**Skills** [Climb](../skill_dir/climb#_climb) +11, [Perception](../skill_dir/perception#_perception) +4, [Stealth](../skill_dir/stealth#_stealth) +11, [Swim](../skill_dir/swim#_swim) +11; **Racial Modifiers** uses Dex to modify [Climb](../skill_dir/climb#_climb) and [Swim](../skill_dir/swim#_swim)
 
 **Ecology**
 
@@ -49,7 +49,7 @@ N Small [animal](creatureTypes#_animal)
 
 **Special Abilities**
 
-**Disease**  **(Ex** _Filth fever_: Bite—injury; _save_ Fort DC 11; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain) and 1d3 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**Disease**  **(Ex)** _Filth fever_: Bite—injury; _save_ Fort DC 11; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain) and 1d3 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 Dire rats grow up to 2 feet long and weigh up to 25 pounds. They are common menaces in dungeons and city sewers alike.
 
@@ -89,7 +89,7 @@ N Tiny [animal](creatureTypes#_animal) ( [swarm](creatureTypes#_swarm-subtype))
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** [disease](universalMonsterRules#_disease), [distraction](universalMonsterRules#_distraction) (DC 12
+**Special Attacks** [disease](universalMonsterRules#_disease), [distraction](universalMonsterRules#_distraction) (DC 12)
 
 **Statistics**
 
@@ -97,9 +97,9 @@ N Tiny [animal](creatureTypes#_animal) ( [swarm](creatureTypes#_swarm-subtype))
 
 **Base**  **Atk** +2; **CMB** —; **CMD** —
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +6, [Climb](../skill_dir/climb#_climb +10, [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth +14, [Swim](../skill_dir/swim#_swim +10; **Racial Modifiers** uses Dex to modify [Climb](../skill_dir/climb#_climb and [Swim](../skill_dir/swim#_swim)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +6, [Climb](../skill_dir/climb#_climb) +10, [Perception](../skill_dir/perception#_perception) +8, [Stealth](../skill_dir/stealth#_stealth) +14, [Swim](../skill_dir/swim#_swim) +10; **Racial Modifiers** uses Dex to modify [Climb](../skill_dir/climb#_climb) and [Swim](../skill_dir/swim#_swim)
 
 **Ecology**
 
@@ -111,7 +111,7 @@ N Tiny [animal](creatureTypes#_animal) ( [swarm](creatureTypes#_swarm-subtype))
 
 **Special Abilities**
 
-**Disease**  **(Ex** _Filth fever_: Swarm—injury; _save_ Fort DC 12; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain) and 1d3 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**Disease**  **(Ex)** _Filth fever_: Swarm—injury; _save_ Fort DC 12; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain) and 1d3 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 A rat swarm typically consists of a biting, roiling mass of hundreds of disease-ridden rats driven to uncharacteristic heights of aggression by fantastic and overwhelming hunger. In such numbers, they become voracious hunters, capable of killing a full-grown human with hundreds of bites. Rat swarms are often found in the sewers of large human settlements.
 

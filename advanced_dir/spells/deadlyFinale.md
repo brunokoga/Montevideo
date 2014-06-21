@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/deadlyFinale
+title: advance_dir/spells/deadlyFinale
 ---
  **Deadly Finale**
 
@@ -11,7 +11,7 @@ title: advanced/spells/deadlyFinale
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Targets** 1 creature/3 levels no two of which can be more than 30 ft. apart
+**Targets** 1 creatur_dir/3 levels no two of which can be more than 30 ft. apart
 
 **Duration** instantaneous
 

@@ -1,5 +1,5 @@
 ---
-title: spells/knock
+title: spell_dir/knock
 ---
  **Knock**
 

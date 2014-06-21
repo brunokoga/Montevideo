@@ -3,7 +3,7 @@ title: spell_dir/createFoodAndWater
 ---
  **Create Food and Water**
 
-**School** conjuration (creation; **Level** cleric 3
+**School** conjuration (creation); **Level** cleric 3
 
 **Casting Time** 10 minutes
 
@@ -11,7 +11,7 @@ title: spell_dir/createFoodAndWater
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Effect** food and water to sustain three humans or one horse/level for 24 hours
+**Effect** food and water to sustain three humans or one hors_dir/level for 24 hours
 
 **Duration** 24 hours; see text
 

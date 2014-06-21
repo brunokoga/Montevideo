@@ -7,13 +7,13 @@ title: spell_dir/animalMessenger
 
 **Casting Time** 1 minute
 
-**Components** V, S, M (a morsel of food the animal likes
+**Components** V, S, M (a morsel of food the animal likes)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one Tiny animal
 
-**Duration** 1 day/level
+**Duration** 1 da_dir/level
 
 **Saving Throw** none; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

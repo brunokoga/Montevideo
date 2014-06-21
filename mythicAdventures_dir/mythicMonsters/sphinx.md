@@ -1,5 +1,5 @@
 ---
-title: mythicAdventures/mythicMonsters/sphinx
+title: mythicAdventure_dir/mythicMonsters/sphinx
 ---
 # Sphinx
 
@@ -9,15 +9,15 @@ Mythic Sphinx CR 10/MR 4
 
 XP 9,600
 
-N Large magical beast ( [mythic](mythicAdventure_dir/mythicMonsters#_mythic-subtype)
+N Large magical beast ( [mythic](mythicAdventure_dir/mythicMonsters#_mythic-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft., _ [detect magic](spell_dir/detectMagic#_detect-magic_, [low-light vision](monster_dir/universalMonsterRules#_low-light-vision, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_; [Perception](skill_dir/perception#_perception) +21
+**Init** +5; **Senses** darkvision 60 ft., _ [detect magic](spells/detectMagic#_detect-magic)_, [low-light vision](monster_dir/universalMonsterRules#_low-light-vision), _ [see invisibility](spells/seeInvisibility#_see-invisibility)_; [Perception](skill_dir/perception#_perception) +21
 
 Defense
 
 **AC** 25, touch 10, flat-footed 24 (+1 Dex, +15 natural, –1 size)
 
-**hp** 142 (12d10+76
+**hp** 142 (12d10+76)
 
 **Fort** +11, **Ref** +9, **Will** +10
 
@@ -25,25 +25,25 @@ Defense
 
 Offense
 
-**Speed** 40 ft., fly 60 ft. (poor
+**Speed** 40 ft., fly 60 ft. (poor)
 
 **Melee** 2 claws +18 (2d8+7/18–20)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** mythic power (4/day, surge +1d8), [pounce](monster_dir/universalMonsterRules#_pounce, [rake](monster_dir/universalMonsterRules#_rake (2 claws +18, 2d8+7/18–20), riddle, sphinx's [curse](monster_dir/universalMonsterRules#_curse)
+**Special Attacks** mythic power (4/day, surge +1d8), [pounce](monster_dir/universalMonsterRules#_pounce), [rake](monsters/universalMonsterRules#_rake) (2 claws +18, 2d8+7/18–20), riddle, sphinx's [curse](monster_dir/universalMonsterRules#_curse)
 
-**Spell-Like Abilities** (CL 12th; concentration +17
+**Spell-Like Abilities** (CL 12th; concentration +17)
 
-Constant—_ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [read magic](spell_dir/readMagic#_read-magic_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_, _ [tongues](spell_dir/tongues#_tongues_
+Constant—_ [comprehend languages](spells/comprehendLanguages#_comprehend-languages)_, _ [detect magic](spell_dir/detectMagic#_detect-magic)_, _ [read magic](spells/readMagic#_read-magic)_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_, _ [tongues](spells/tongues#_tongues)_
 
-At will—_ [statue](spell_dir/statue#_statue)_ (self only
+At will—_ [statue](spell_dir/statue#_statue)_ (self only)
 
-3/day—_ [clairaudience/clairvoyance](spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance_, _ [feeblemind](spell_dir/feeblemind#_feeblemind)_ (DC 20
+3/day—_ [clairaudienc_dir/clairvoyance](spells/clairaudienceClairvoyance#_clairaudience-clairvoyance)_, _ [feeblemind](spell_dir/feeblemind#_feeblemind)_ (DC 20)
 
-1/day—_ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater_, _ [legend lore](spell_dir/legendLore#_legend-lore_, _ [locate object](spell_dir/locateObject#_locate-object_, _ [remove curse](spell_dir/removeCurse#_remove-curse_
+1/day—_ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater)_, _ [legend lore](spells/legendLore#_legend-lore)_, _ [locate object](spell_dir/locateObject#_locate-object)_, _ [remove curse](spells/removeCurse#_remove-curse)_
 
-1/week—any one of the following: _ [symbol of fear](spell_dir/symbolOfFear#_symbol-of-fear)_ (DC 21, _ [symbol of pain](spell_dir/symbolOfPain#_symbol-of-pain)_ (DC 20, _ [symbol of persuasion](spell_dir/symbolOfPersuasion#_symbol-of-persuasion)_ (DC 21, _ [symbol of sleep](spell_dir/symbolOfSleep#_symbol-of-sleep)_ (DC 20, _ [symbol of stunning](spell_dir/symbolOfStunning#_symbol-of-stunning)_ (DC 22); all symbols last for 1 week maximum
+1/week—any one of the following: _ [symbol of fear](spell_dir/symbolOfFear#_symbol-of-fear)_ (DC 21), _ [symbol of pain](spells/symbolOfPain#_symbol-of-pain)_ (DC 20), _ [symbol of persuasion](spell_dir/symbolOfPersuasion#_symbol-of-persuasion)_ (DC 21), _ [symbol of sleep](spells/symbolOfSleep#_symbol-of-sleep)_ (DC 20), _ [symbol of stunning](spell_dir/symbolOfStunning#_symbol-of-stunning)_ (DC 22); all symbols last for 1 week maximum
 
 Statistics
 
@@ -51,11 +51,11 @@ Statistics
 
 **Base Atk** +12; **CMB** +20; **CMD** 31 (35 vs. trip)
 
-**Feats** [Alertness](feats#_alertness), [Combat Casting](feats#_combat-casting, [Hover](monster_dir/monsterFeats#_hover, [Improved Critical](mythicAdventure_dir/mythicFeats#_improved-critical-mythic) (claws)M, [Improved Initiative](feats#_improved-initiative, [Iron Will](mythicAdventure_dir/mythicFeats#_iron-will-mythicM
+**Feats** [Alertness](feats#_alertness), [Combat Casting](feats#_combat-casting), [Hover](monsters/monsterFeats#_hover), [Improved Critical](mythicAdventure_dir/mythicFeats#_improved-critical-mythic) (claws)M, [Improved Initiative](feats#_improved-initiative), [Iron Will](mythicAdventures/mythicFeats#_iron-will-mythic)M
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +15, [Diplomacy](skill_dir/diplomacy#_diplomacy +15, [Fly](skill_dir/fly#_fly +7, [Intimidate](skill_dir/intimidate#_intimidate +15, [Knowledge](skill_dir/knowledge#_knowledge) (any two +6, [Perception](skill_dir/perception#_perception +21, [Sense Motive](skill_dir/senseMotive#_sense-motive +19, [Spellcraft](skill_dir/spellcraft#_spellcraft +12
+**Skills** [Bluff](skill_dir/bluff#_bluff) +15, [Diplomacy](skills/diplomacy#_diplomacy) +15, [Fly](skill_dir/fly#_fly) +7, [Intimidate](skills/intimidate#_intimidate) +15, [Knowledge](skill_dir/knowledge#_knowledge) (any two) +6, [Perception](skills/perception#_perception) +21, [Sense Motive](skill_dir/senseMotive#_sense-motive) +19, [Spellcraft](skills/spellcraft#_spellcraft) +12
 
-**Languages** Common, Draconic, Sphinx; _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages, [read magic](spell_dir/readMagic#_read-magic, [tongues](spell_dir/tongues#_tongues)_
+**Languages** Common, Draconic, Sphinx; _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages), [read magic](spells/readMagic#_read-magic), [tongues](spell_dir/tongues#_tongues)_
 
 Ecology
 
@@ -67,9 +67,9 @@ Ecology
 
 Special Abilities
 
-**Riddle (Su)** A mythic sphinx can expend one use of mythic power to ask a riddle of up to 12 creatures within 100 feet. Each creature is compelled (Will DC 21 negates) to give an answer within 1 minute (creatures in combat when the sphinx uses this ability gain a +4 bonus on the saving throw). The sphinx gets a +4 bonus on attack rolls, damage rolls, and saving throws against any creature that refuses to answer (via a successful saving throw, can't answer (including if it's in an area of _ [silence](spell_dir/silence#_silence)_), answers incorrectly, or flees the sphinx instead of answering. The bonuses from failing to solve the riddle last for 24 hours. The need to answer is a compulsion, mind-affecting, language-dependent enchantment effect. The save DC is Charisma-based.
+**Riddle (Su)** A mythic sphinx can expend one use of mythic power to ask a riddle of up to 12 creatures within 100 feet. Each creature is compelled (Will DC 21 negates) to give an answer within 1 minute (creatures in combat when the sphinx uses this ability gain a +4 bonus on the saving throw). The sphinx gets a +4 bonus on attack rolls, damage rolls, and saving throws against any creature that refuses to answer (via a successful saving throw), can't answer (including if it's in an area of _ [silence](spells/silence#_silence)_), answers incorrectly, or flees the sphinx instead of answering. The bonuses from failing to solve the riddle last for 24 hours. The need to answer is a compulsion, mind-affecting, language-dependent enchantment effect. The save DC is Charisma-based.
 
-**Sphinx's Curse (Su)** A mythic sphinx can expend one use of mythic power when it damages an opponent with a claw attack to curse its opponent with bleeding wounds (Will DC 21 negates). Whenever a cursed target takes piercing or slashing damage, it takes 1d6 points of bleed damage every round for the next 1d6 rounds. This bleed damage stacks with itself and with all other bleed effects. A creature that strikes the killing blow against a mythic sphinx must succeed at a saving throw or become cursed (this requires no uses of mythic power from the sphinx. The save DC is Charisma-based.
+**Sphinx's Curse (Su)** A mythic sphinx can expend one use of mythic power when it damages an opponent with a claw attack to curse its opponent with bleeding wounds (Will DC 21 negates). Whenever a cursed target takes piercing or slashing damage, it takes 1d6 points of bleed damage every round for the next 1d6 rounds. This bleed damage stacks with itself and with all other bleed effects. A creature that strikes the killing blow against a mythic sphinx must succeed at a saving throw or become cursed (this requires no uses of mythic power from the sphinx). The save DC is Charisma-based.
 
 A mythic sphinx is often given a task by a deity, such as watching over a city, testing a great mortal hero, or guarding an artifact. She is gifted with magic to compel obedience and curse those who would defy her commands or interfere with her task.
 

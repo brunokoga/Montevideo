@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/frostFall
+title: ultimateComba_dir/spells/frostFall
 ---
 Frost Fall
 
-**School** evocation ( [cold](monster_dir/creatureTypes#_cold-subtype); **Level** druid 2, sorcerer/wizard 2, witch 2
+**School** evocation ( [cold](monster_dir/creatureTypes#_cold-subtype)); **Level** druid 2, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ Frost Fall
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 
-The area of this spell is covered in chilling frost, dealing 2d6 points of cold damage to all creatures within it. Creatures that the spell initially damages must succeed at a Fortitude save or become staggered for 1 round. The area remains chilled for the spell's duration. Any creature that starts your turn within the spell's area takes 1d6 points of cold damage (Fortitude saving throw for half but does not become staggered even on a failed saving throw.
+The area of this spell is covered in chilling frost, dealing 2d6 points of cold damage to all creatures within it. Creatures that the spell initially damages must succeed at a Fortitude save or become staggered for 1 round. The area remains chilled for the spell's duration. Any creature that starts your turn within the spell's area takes 1d6 points of cold damage (Fortitude saving throw for half) but does not become staggered even on a failed saving throw.
 

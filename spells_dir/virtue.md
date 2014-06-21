@@ -1,5 +1,5 @@
 ---
-title: spells/virtue
+title: spell_dir/virtue
 ---
  **Virtue**
 

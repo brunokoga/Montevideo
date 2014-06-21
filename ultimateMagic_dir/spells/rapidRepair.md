@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/rapidRepair
+title: ultimateMagi_dir/spells/rapidRepair
 ---
 Rapid Repair
 
-**School** transmutation; **Level** cleric 5, sorcerer/wizard 5
+**School** transmutation; **Level** cleric 5, sorcere_dir/wizard 5
 
 **Casting Time** 1 standard action
 
@@ -13,9 +13,9 @@ Rapid Repair
 
 **Target** construct touched
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round/level
 
-**Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
 The targeted construct gains fast healing 5. This does not stack with any fast healing the construct already has. Fast healing has no effect on a construct that has been brought to 0 hit points or destroyed.
 

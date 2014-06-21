@@ -1,5 +1,5 @@
 ---
-title: spells/holyWord
+title: spell_dir/holyWord
 ---
  **Holy Word**
 

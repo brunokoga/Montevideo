@@ -1,5 +1,5 @@
 ---
-title: spells/detectSecretDoors
+title: spell_dir/detectSecretDoors
 ---
  **Detect Secret Doors**
 

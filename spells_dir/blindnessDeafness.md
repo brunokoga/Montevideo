@@ -1,9 +1,9 @@
 ---
-title: spells/blindnessDeafness
+title: spell_dir/blindnessDeafness
 ---
  **Blindness/Deafness**
 
-**School** necromancy; **Level** bard 2, cleric 3, sorcerer/wizard 2
+**School** necromancy; **Level** bard 2, cleric 3, sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 

@@ -3,11 +3,11 @@ title: spell_dir/refuge
 ---
  **Refuge**
 
-**School** conjuration (teleportation; **Level** cleric 7, sorcere_dir/wizard 9
+**School** conjuration (teleportation); **Level** cleric 7, sorcerer/wizard 9
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a prepared object worth 1,500 gp
+**Components** V, S, M (a prepared object worth 1,500 gp)
 
 **Range** touch
 

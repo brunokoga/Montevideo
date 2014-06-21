@@ -1,5 +1,5 @@
 ---
-title: spells/mageSLucubration
+title: spell_dir/mageSLucubration
 ---
  **Mage's Lucubration**
 

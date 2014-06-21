@@ -1,5 +1,5 @@
 ---
-title: spells/magicStone
+title: spell_dir/magicStone
 ---
  **Magic Stone**
 

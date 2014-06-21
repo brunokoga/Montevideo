@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/auraOfDoom
+title: ultimateMagi_dir/spells/auraOfDoom
 ---
 Aura of Doom
 
@@ -13,7 +13,7 @@ Aura of Doom
 
 **Area** 20-ft.-radius emanation centered on you
 
-**Duration** 10 minute/level
+**Duration** 10 minut_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

@@ -11,7 +11,7 @@ title: spell_dir/rustingGrasp
 
 **Range** touch
 
-**Target** one nonmagical ferrous object (or the volume of the object within 3 ft. of the touched point or one ferrous creature
+**Target** one nonmagical ferrous object (or the volume of the object within 3 ft. of the touched point) or one ferrous creature
 
 **Duration** see text
 

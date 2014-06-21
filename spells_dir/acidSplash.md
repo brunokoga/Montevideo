@@ -3,7 +3,7 @@ title: spell_dir/acidSplash
 ---
  **Acid Splash**
 
-**School** conjuration (creation [acid]; **Level** sorcerer/wizard 0
+**School** conjuration (creation) [acid]; **Level** sorcerer/wizard 0
 
 **Casting Time** 1 standard action
 

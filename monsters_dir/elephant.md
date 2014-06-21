@@ -11,7 +11,7 @@ _These thick-skinned animals bear large ivory tusks flanking a long, prehensile 
 
 N Huge [animal](creatureTypes#_animal)
 
-**Init** +0; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +21
+**Init** +0; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +21
 
 **Defense**
 
@@ -35,9 +35,9 @@ N Huge [animal](creatureTypes#_animal)
 
 **Str** 30, **Dex** 10, **Con** 19, **Int** 2, **Wis** 13, **Cha** 7
 
-**Base**  **Atk** +8; **CMB** +20; **CMD** 30 (34 vs. trip
+**Base**  **Atk** +8; **CMB** +20; **CMD** 30 (34 vs. trip)
 
-**Feats** [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
 **Skills** [Perception](../skill_dir/perception#_perception) +21
 
@@ -61,7 +61,7 @@ _This creature is larger than a normal elephant, with enormous sweeping tusks an
 
 N Huge [animal](creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +24
+**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +24
 
 **Defense**
 
@@ -85,9 +85,9 @@ N Huge [animal](creatureTypes#_animal)
 
 **Str** 34, **Dex** 12, **Con** 21, **Int** 2, **Wis** 13, **Cha** 7
 
-**Base**  **Atk** +10; **CMB** +24, **CMD** 35 (39 vs. trip
+**Base**  **Atk** +10; **CMB** +24, **CMD** 35 (39 vs. trip)
 
-**Feats** [Endurance](../feats#_endurance), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Iron Will](../feats#_improved-iron-will), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Weapon Focus](../feats#_weapon-focus) (gore)
+**Feats** [Endurance](../feats#_endurance), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Iron Will](../feats#_improved-iron-will), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (gore)
 
 **Skills** [Perception](../skill_dir/perception#_perception) +24
 
@@ -95,15 +95,15 @@ N Huge [animal](creatureTypes#_animal)
 
 **Environment** cold or temperate forests and plains
 
-**Organization** solitary or herd (6–30
+**Organization** solitary or herd (6–30)
 
 **Treasure** none
 
 The great mastodons are primeval cousins of elephants. Their large tusks dwarf those of regular elephants, jutting outward and then curving back toward one another at the tips. Shaggy woolly mammoths are a mastodon variant adapted to cold environments, but have the same statistics.
 
-## Elephan_dir/Mastodon Companions
+## Elephant/Mastodon Companions
 
 **Starting Statistics** : **Size** Medium; **Speed** 40 ft.; **AC** +4 natural armor; **Attack** gore (1d8), slam (1d6); **Ability Scores** Str 14, Dex 14, Con 13, Int 2, Wis 13, Cha 7; **Special Abilities** low-light vision, scent.
 
-**7th-Level Advancement** : **Size** Large; **AC** +3 natural armor; **Attack** gore (2d6), slam (1d8); **Ability Scores** +8 Str, –2 Dex, +4 Con; **Special Abilities** trample (2d6.
+**7th-Level Advancement** : **Size** Large; **AC** +3 natural armor; **Attack** gore (2d6), slam (1d8); **Ability Scores** +8 Str, –2 Dex, +4 Con; **Special Abilities** trample (2d6).
 

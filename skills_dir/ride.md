@@ -1,5 +1,5 @@
 ---
-title: skills/ride
+title: skill_dir/ride
 ---
 # Ride
 

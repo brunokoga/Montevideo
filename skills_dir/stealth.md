@@ -1,5 +1,5 @@
 ---
-title: skills/stealth
+title: skill_dir/stealth
 ---
 # Stealth
 

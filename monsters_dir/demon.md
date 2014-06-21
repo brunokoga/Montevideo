@@ -23,15 +23,15 @@ _This emaciated figure looks like a horned human skeleton smothered within a bon
 
 **XP 2,400**
 
-CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype)
+CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft., _ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility_; [Perception](../skill_dir/perception#_perception) +19
+**Init** +5; **Senses** darkvision 60 ft., _ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility)_; [Perception](../skill_dir/perception#_perception) +19
 
 **Defense**
 
 **AC** 19, touch 11, flat-footed 18 (+1 Dex, +8 natural)
 
-**hp** 73 (7d10+35
+**hp** 73 (7d10+35)
 
 **Fort** +10, **Ref** +6, **Will** +5
 
@@ -49,9 +49,9 @@ CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic
 
 **Spell-Like Abilities** (CL 7th)
 
-Constant—_ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility_
+Constant—_ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility)_
 
-At will—_ [darkness](../spell_dir/darkness#_darkness, [dispel magic](../spell_dir/dispelMagic#_dispel-magic, [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only
+At will—_ [darkness](../spell_dir/darkness#_darkness), [dispel magic](../spell_dir/dispelMagic#_dispel-magic), [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
 
 1/day— [summon](universalMonsterRules#_summon) (level 3, 1 babau at 40%)
 
@@ -61,9 +61,9 @@ At will—_ [darkness](../spell_dir/darkness#_darkness, [dispel magic](../spell_
 
 **Base Atk** +7; **CMB** +12; **CMD** 23
 
-**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth)
+**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth))
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +11, [Climb](../skill_dir/climb#_climb +12, [Disable Device](../skill_dir/disableDevice#_disable-device +11, [Escape Artist](../skill_dir/escapeArtist#_escape-artist +11, [Perception](../skill_dir/perception#_perception +19, [Sense Motive](../skill_dir/senseMotive#_sense-motive +11, [Sleight of Hand](../skill_dir/sleightOfHand#_sleight-of-hand +11, [Stealth](../skill_dir/stealth#_stealth +22; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception, +8 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +11, [Climb](../skill_dir/climb#_climb) +12, [Disable Device](../skill_dir/disableDevice#_disable-device) +11, [Escape Artist](../skill_dir/escapeArtist#_escape-artist) +11, [Perception](../skill_dir/perception#_perception) +19, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +11, [Sleight of Hand](../skill_dir/sleightOfHand#_sleight-of-hand) +11, [Stealth](../skill_dir/stealth#_stealth) +22; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception), +8 [Stealth](../skill_dir/stealth#_stealth)
 
 **Languages** Abyssal, Celestial, Draconic; [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
@@ -93,9 +93,9 @@ _This winged fiend's horned head and fanged visage present the perfection of the
 
 **XP 307,200**
 
-CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype)
+CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
-**Init** +11; **Senses** darkvision 60 ft., low-light vision, _ [true seeing](../spell_dir/trueSeeing#_true-seeing_; [Perception](../skill_dir/perception#_perception +38
+**Init** +11; **Senses** darkvision 60 ft., low-light vision, _ [true seeing](../spell_dir/trueSeeing#_true-seeing)_; [Perception](../skill_dir/perception#_perception) +38
 
 **Aura** flaming body, _ [unholy aura](../spell_dir/unholyAura#_unholy-aura)_ (DC 26)
 
@@ -103,7 +103,7 @@ CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-
 
 **AC** 36, touch 20, flat-footed 29 (+4 deflection, +7 Dex, +16 natural, –1 size)
 
-**hp** 370 (20d10+260
+**hp** 370 (20d10+260)
 
 **Fort** +29, **Ref** +17, **Will** +25
 
@@ -113,19 +113,19 @@ CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-
 
 **Speed** 40 ft., fly 90 ft. (good)
 
-**Melee** _+1 [vorpal](../magicItem_dir/weapons#_vorpal [unholy](../magicItem_dir/weapons#_unholy longsword_ +31/+26/+21/+16 (2d6+13), _+1 [vorpal](../magicItem_dir/weapons#_vorpal [flaming](../magicItem_dir/weapons#_weapons-flaming whip_ +30/+25/+20 (1d4+7 plus 1d6 fire and entangle) or 2 slams +31 (1d10+12)
+**Melee** _+1 [vorpal](../magicItem_dir/weapons#_vorpal) [unholy](../magicItem_dir/weapons#_unholy) longsword_ +31/+26/+21/+16 (2d6+13), _+1 [vorpal](../magicItem_dir/weapons#_vorpal) [flaming](../magicItem_dir/weapons#_weapons-flaming) whip_ +30/+25/+20 (1d4+7 plus 1d6 fire and entangle) or 2 slams +31 (1d10+12)
 
 **Space** 10 ft.; **Reach** 10 ft. (20 ft. with whip)
 
 **Spell-Like Abilities** (CL 20th)
 
-Constant—_ [true seeing](../spell_dir/trueSeeing#_true-seeing_, _ [unholy aura](../spell_dir/unholyAura#_unholy-aura)_ (DC 26
+Constant—_ [true seeing](../spell_dir/trueSeeing#_true-seeing)_, _ [unholy aura](../spell_dir/unholyAura#_unholy-aura)_ (DC 26)
 
-At will—_ [dominate monster](../spell_dir/dominateMonster#_dominate-monster)_ (DC 27, _ [greater dispel magic](../spell_dir/dispelMagic#_dispel-magic-greater, [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only, _ [power word stun](../spell_dir/powerWordStun#_power-word-stun, [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 23
+At will—_ [dominate monster](../spell_dir/dominateMonster#_dominate-monster)_ (DC 27), _ [greater dispel magic](../spell_dir/dispelMagic#_dispel-magic-greater), [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [power word stun](../spell_dir/powerWordStun#_power-word-stun), [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 23)
 
-3/day—quickened _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 23
+3/day—quickened _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 23)
 
-1/day—_ [blasphemy](../spell_dir/blasphemy#_blasphemy)_ (DC 25, _ [fire storm](../spell_dir/fireStorm#_fire-storm)_ (DC 26, _ [implosion](../spell_dir/implosion#_implosion)_ (DC 27), [summon](universalMonsterRules#_summon) (level 9, any 1 CR 19 or lower demon 100%
+1/day—_ [blasphemy](../spell_dir/blasphemy#_blasphemy)_ (DC 25), _ [fire storm](../spell_dir/fireStorm#_fire-storm)_ (DC 26), _ [implosion](../spell_dir/implosion#_implosion)_ (DC 27), [summon](universalMonsterRules#_summon) (level 9, any 1 CR 19 or lower demon 100%)
 
 **Statistics**
 
@@ -133,9 +133,9 @@ At will—_ [dominate monster](../spell_dir/dominateMonster#_dominate-monster)_ 
 
 **Base**  **Atk** +20; **CMB** +33; **CMD** 54
 
-**Feats** [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Greater Two-Weapon Fighting](../feats#_greater-two-weapon-fighting), [Improved Initiative](../feats#_improved-initiative), [Improved Two-Weapon Fighting](../feats#_improved-two-weapon-fighting), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [telekinesis](../spell_dir/telekinesis#_telekinesis)_, [Two-Weapon Fighting](../feats#_two-weapon-fighting), [Weapon Focus](../feats#_weapon-focus) (longsword)
+**Feats** [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Greater Two-Weapon Fighting](../feats#_greater-two-weapon-fighting), [Improved Initiative](../feats#_improved-initiative), [Improved Two-Weapon Fighting](../feats#_improved-two-weapon-fighting), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [telekinesis](../spell_dir/telekinesis#_telekinesis)_), [Two-Weapon Fighting](../feats#_two-weapon-fighting), [Weapon Focus](../feats#_weapon-focus) (longsword)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +27, [Bluff](../skill_dir/bluff#_bluff +31, [Diplomacy](../skill_dir/diplomacy#_diplomacy +31, [Fly](../skill_dir/fly#_fly +32, [Intimidate](../skill_dir/intimidate#_intimidate +31, [Knowledge](../skill_dir/knowledge#_knowledge) (history +27, [Knowledge](../skill_dir/knowledge#_knowledge) (nobility +27, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +30, [Knowledge](../skill_dir/knowledge#_knowledge) (religion +27, [Perception](../skill_dir/perception#_perception +38, [Sense Motive](../skill_dir/senseMotive#_sense-motive +30, [Stealth](../skill_dir/stealth#_stealth +26, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device +31; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +27, [Bluff](../skill_dir/bluff#_bluff) +31, [Diplomacy](../skill_dir/diplomacy#_diplomacy) +31, [Fly](../skill_dir/fly#_fly) +32, [Intimidate](../skill_dir/intimidate#_intimidate) +31, [Knowledge](../skill_dir/knowledge#_knowledge) (history) +27, [Knowledge](../skill_dir/knowledge#_knowledge) (nobility) +27, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +30, [Knowledge](../skill_dir/knowledge#_knowledge) (religion) +27, [Perception](../skill_dir/perception#_perception) +38, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +30, [Stealth](../skill_dir/stealth#_stealth) +26, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device) +31; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
 
 **Languages** Abyssal, Celestial, Draconic; [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
@@ -145,9 +145,9 @@ At will—_ [dominate monster](../spell_dir/dominateMonster#_dominate-monster)_ 
 
 **Environment** any (Abyss)
 
-**Organization** solitary or warband (1 balor and 2–5 glabrezus
+**Organization** solitary or warband (1 balor and 2–5 glabrezus)
 
-**Treasure** standard (_+1 [unholy](../magicItem_dir/weapons#_unholy longsword, +1 [flaming](../magicItem_dir/weapons#_weapons-flaming) whip, _other treasure)
+**Treasure** standard (_+1 [unholy](../magicItem_dir/weapons#_unholy) longsword, +1 [flaming](../magicItem_dir/weapons#_weapons-flaming) whip, _other treasure)
 
 **Special Abilities**
 
@@ -163,9 +163,9 @@ At will—_ [dominate monster](../spell_dir/dominateMonster#_dominate-monster)_ 
 
 When folk whisper frightened tales of the demonic, what most envision is a towering figure of fire and flesh, a horned nightmare armed with flaming whip and sword flying through the night in search of its latest victim. The demon these folk fear is the balor, and that fear is justly placed, for few demons can match the mighty balor in strength or brutality.
 
-On the Abyss, most balors serve demon lords as generals or captains (those balors who don't are even more potent, and are known as balor lords—see below. A balor typically commands vast legions of demons, and while it often lets these slavering and eager minions fight its battles, the balor is far from a coward. If presented with an opportunity to join a fight, few balors choose to resist.
+On the Abyss, most balors serve demon lords as generals or captains (those balors who don't are even more potent, and are known as balor lords—see below). A balor typically commands vast legions of demons, and while it often lets these slavering and eager minions fight its battles, the balor is far from a coward. If presented with an opportunity to join a fight, few balors choose to resist.
 
-In combat, a balor relies upon its spell-like abilities to fight foes wise enough to avoid melee range, favoring destructive powers like _ [fire storm](../spell_dir/fireStorm#_fire-storm_ or _ [implosion](../spell_dir/implosion#_implosion_ and saving _ [dominate monster](../spell_dir/dominateMonster#_dominate-monster_ for use against the rare foe it would prefer to capture alive. A balor usually uses _ [telekinesis](../spell_dir/telekinesis#_telekinesis_ to disarm ranged weapons or pull foes into melee—with the use of a quickened _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_, a balor can use the latter tactic and still inflict a full-round attack on a hapless foe. A balor reduced to fewer than 50 hit points almost always seeks to flee via teleportation, but if that and flight prove impossible it seeks to position itself such that, if it is slain, its death throes are as devastating as possible to the enemy host.
+In combat, a balor relies upon its spell-like abilities to fight foes wise enough to avoid melee range, favoring destructive powers like _ [fire storm](../spell_dir/fireStorm#_fire-storm)_ or _ [implosion](../spell_dir/implosion#_implosion)_ and saving _ [dominate monster](../spell_dir/dominateMonster#_dominate-monster)_ for use against the rare foe it would prefer to capture alive. A balor usually uses _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ to disarm ranged weapons or pull foes into melee—with the use of a quickened _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_, a balor can use the latter tactic and still inflict a full-round attack on a hapless foe. A balor reduced to fewer than 50 hit points almost always seeks to flee via teleportation, but if that and flight prove impossible it seeks to position itself such that, if it is slain, its death throes are as devastating as possible to the enemy host.
 
 A balor stands 14 feet in height and weighs 4,500 pounds. Only the cruelest mortal souls can fuel the creation of a balor—unlike in the cases of most other demons, it often takes multiple souls of powerful villains to trigger the birthing of a new balor.
 
@@ -177,11 +177,11 @@ A balor lord is typically a CR 21 to CR 25 monster (a range shared with the vari
 
 In addition to any benefits a balor lord might gain from its class levels, all balor lords possess one additional unique ability over and above those granted by its race and class. Listed here are three sample balor lord abilities, but these samples are by no means the entirety of the strange powers a balor lord might wield.
 
-**Lifedrinker (Su** Whenever the balor lord slays a living foe, it receives the benefits of a _ [heal](../spell_dir/heal#_heal)_ spell (CL 20th). This ability can activate up to once per round.
+**Lifedrinker (Su)** Whenever the balor lord slays a living foe, it receives the benefits of a _ [heal](../spell_dir/heal#_heal)_ spell (CL 20th). This ability can activate up to once per round.
 
 **Master of Magic (Su)** The balor lord has additional spell-like abilities (20 spell levels' worth of 1st–4th level spells usable at will and 20 spell levels' worth of 5th–8th level spells usable 3 times a day).
 
-**Soul Swallow (Su** As a standard action, the balor lord can inhale the soul of a living creature within 30 feet. The target must make a Fortitude save (DC 10 + 1/2 balor lord's racial HD + the balor lord's Charisma modifier) or die. The body of a humanoid creature killed in this manner immediately transforms into a demon under the balor lord's command (a babau, succubus, or shadow demon, according to the balor lord's whim).
+**Soul Swallow (Su)** As a standard action, the balor lord can inhale the soul of a living creature within 30 feet. The target must make a Fortitude save (DC 10 + 1/2 balor lord's racial HD + the balor lord's Charisma modifier) or die. The body of a humanoid creature killed in this manner immediately transforms into a demon under the balor lord's command (a babau, succubus, or shadow demon, according to the balor lord's whim).
 
 # Demon, Dretch
 
@@ -199,7 +199,7 @@ CE Small [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-
 
 **AC** 14, touch 11, flat-footed 14 (+3 natural, +1 size)
 
-**hp** 18 (2d10+7
+**hp** 18 (2d10+7)
 
 **Fort** +5, **Ref** +0, **Will** +3
 
@@ -213,7 +213,7 @@ CE Small [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-
 
 **Spell-Like Abilities** (CL 2nd)
 
-1/day—_ [cause fear](../spell_dir/causeFear#_cause-fear)_ (DC 11, _ [stinking cloud](../spell_dir/stinkingCloud#_stinking-cloud)_ (DC 13), summon (level 1, 1 dretch 35%
+1/day—_ [cause fear](../spell_dir/causeFear#_cause-fear)_ (DC 11), _ [stinking cloud](../spell_dir/stinkingCloud#_stinking-cloud)_ (DC 13), summon (level 1, 1 dretch 35%)
 
 **Statistics**
 
@@ -223,7 +223,7 @@ CE Small [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-
 
 **Feats** [Toughness](../feats#_toughness)
 
-**Skills** [Escape Artist](../skill_dir/escapeArtist#_escape-artist +5, [Perception](../skill_dir/perception#_perception +5, [Stealth](../skill_dir/stealth#_stealth) +9
+**Skills** [Escape Artist](../skill_dir/escapeArtist#_escape-artist) +5, [Perception](../skill_dir/perception#_perception) +5, [Stealth](../skill_dir/stealth#_stealth) +9
 
 **Languages** Abyssal (cannot speak); [telepathy](universalMonsterRules#_telepathy) 100 ft. (limited to Abyssal-speaking targets)
 
@@ -251,15 +251,15 @@ _Four arms grace the torso of this towering monstrosity. The monster's eyes shin
 
 **XP 25,600**
 
-CE Huge [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype)
+CE Huge [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
-**Init** +0; **Senses** darkvision 60 ft., _ [true seeing](../spell_dir/trueSeeing#_true-seeing_; [Perception](../skill_dir/perception#_perception) +26
+**Init** +0; **Senses** darkvision 60 ft., _ [true seeing](../spell_dir/trueSeeing#_true-seeing)_; [Perception](../skill_dir/perception#_perception) +26
 
 **Defense**
 
 **AC** 28, touch 8, flat-footed 28 (+20 natural, –2 size)
 
-**hp** 186 (12d10+120
+**hp** 186 (12d10+120)
 
 **Fort** +18, **Ref** +4, **Will** +11
 
@@ -277,13 +277,13 @@ CE Huge [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-s
 
 **Spell-Like Abilities** (CL 14th)
 
-Constant—_ [true seeing](../spell_dir/trueSeeing#_true-seeing_
+Constant—_ [true seeing](../spell_dir/trueSeeing#_true-seeing)_
 
-At will—_ [chaos hammer](../spell_dir/chaosHammer#_chaos-hammer)_ (DC 19, _ [confusion](../spell_dir/confusion#_confusion)_ (DC 19, _ [dispel magic](../spell_dir/dispelMagic#_dispel-magic, [mirror image](../spell_dir/mirrorImage#_mirror-image, [reverse gravity](../spell_dir/reverseGravity#_reverse-gravity)_ (DC 22, _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only, _ [veil](../spell_dir/veil#_veil)_ (self only, _ [unholy blight](../spell_dir/unholyBlight#_unholy-blight_
+At will—_ [chaos hammer](../spell_dir/chaosHammer#_chaos-hammer)_ (DC 19), _ [confusion](../spell_dir/confusion#_confusion)_ (DC 19), _ [dispel magic](../spell_dir/dispelMagic#_dispel-magic), [mirror image](../spell_dir/mirrorImage#_mirror-image), [reverse gravity](../spell_dir/reverseGravity#_reverse-gravity)_ (DC 22), _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [veil](../spell_dir/veil#_veil)_ (self only), _ [unholy blight](../spell_dir/unholyBlight#_unholy-blight)_
 
-1/day—_ [power word stun](../spell_dir/powerWordStun#_power-word-stun), _ [summon](universalMonsterRules#_summon) (level 4, 1 glabrezu 20% or 1d2 vrocks 50%
+1/day—_ [power word stun](../spell_dir/powerWordStun#_power-word-stun), _ [summon](universalMonsterRules#_summon) (level 4, 1 glabrezu 20% or 1d2 vrocks 50%)
 
-1/month—_ [wish](../spell_dir/wish#_wish)_ (granted to a mortal humanoid only
+1/month—_ [wish](../spell_dir/wish#_wish)_ (granted to a mortal humanoid only)
 
 **Statistics**
 
@@ -293,7 +293,7 @@ At will—_ [chaos hammer](../spell_dir/chaosHammer#_chaos-hammer)_ (DC 19, _ [c
 
 **Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Critical](../feats#_improved-critical) (pincer), [Persuasive](../feats#_persuasive), [Power Attack](../feats#_power-attack), [Vital Strike](../feats#_vital-strike)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +28, [Diplomacy](../skill_dir/diplomacy#_diplomacy +22, [Intimidate](../skill_dir/intimidate#_intimidate +22, [Knowledge](../skill_dir/knowledge#_knowledge) (history +18, [Knowledge](../skill_dir/knowledge#_knowledge) (local +18, [Perception](../skill_dir/perception#_perception +26, [Sense Motive](../skill_dir/senseMotive#_sense-motive +18, [Stealth](../skill_dir/stealth#_stealth +7, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device +17; **Racial Modifiers** +8 [Bluff](../skill_dir/bluff#_bluff, +8 [Perception](../skill_dir/perception#_perception)
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +28, [Diplomacy](../skill_dir/diplomacy#_diplomacy) +22, [Intimidate](../skill_dir/intimidate#_intimidate) +22, [Knowledge](../skill_dir/knowledge#_knowledge) (history) +18, [Knowledge](../skill_dir/knowledge#_knowledge) (local) +18, [Perception](../skill_dir/perception#_perception) +26, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +18, [Stealth](../skill_dir/stealth#_stealth) +7, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device) +17; **Racial Modifiers** +8 [Bluff](../skill_dir/bluff#_bluff), +8 [Perception](../skill_dir/perception#_perception)
 
 **Languages** Abyssal, Celestial, Draconic; [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
@@ -317,7 +317,7 @@ _This fiend's armored flesh is scaly and moist. Its large, toothy mouth gapes be
 
 **XP 12,800**
 
-CE Large [outsider](creatureTypes#_outsider) ( [aquatic](creatureTypes#_aquatic-subtype), [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype)
+CE Large [outsider](creatureTypes#_outsider) ( [aquatic](creatureTypes#_aquatic-subtype), [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
 **Init** +4; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +23
 
@@ -327,7 +327,7 @@ CE Large [outsider](creatureTypes#_outsider) ( [aquatic](creatureTypes#_aquatic-
 
 **AC** 25, touch 9, flat-footed 25 (+16 natural, –1 size)
 
-**hp** 145 (10d10+90
+**hp** 145 (10d10+90)
 
 **Fort** +16, **Ref** +3, **Will** +9
 
@@ -345,9 +345,9 @@ CE Large [outsider](creatureTypes#_outsider) ( [aquatic](creatureTypes#_aquatic-
 
 **Spell-Like Abilities** (CL 13th)
 
-At will—_ [chaos hammer](../spell_dir/chaosHammer#_chaos-hammer)_ (DC 18, _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only, _ [unholy blight](../spell_dir/unholyBlight#_unholy-blight)_ (DC 18
+At will—_ [chaos hammer](../spell_dir/chaosHammer#_chaos-hammer)_ (DC 18), _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [unholy blight](../spell_dir/unholyBlight#_unholy-blight)_ (DC 18)
 
-3/day—_ [gaseous form](../spell_dir/gaseousForm#_gaseous-form_
+3/day—_ [gaseous form](../spell_dir/gaseousForm#_gaseous-form)_
 
 1/day—_ [blasphemy](../spell_dir/blasphemy#_blasphemy)_ (DC 21), [summon](universalMonsterRules#_summon) (level 4, 1 hezrou 35%)
 
@@ -355,11 +355,11 @@ At will—_ [chaos hammer](../spell_dir/chaosHammer#_chaos-hammer)_ (DC 18, _ [g
 
 **Str** 27, **Dex** 11, **Con** 29, **Int** 14, **Wis** 14, **Cha** 18
 
-**Base Atk** +10; **CMB** +19 (+23 grapple; **CMD** 29
+**Base Atk** +10; **CMB** +19 (+23 grapple); **CMD** 29
 
 **Feats** [Blind-Fight](../feats#_blind-fight), [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Initiative](../feats#_improved-initiative), [Power Attack](../feats#_power-attack)
 
-**Skills** [Climb](../skill_dir/climb#_climb +21, [Escape Artist](../skill_dir/escapeArtist#_escape-artist +10, [Intimidate](../skill_dir/intimidate#_intimidate +14, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana +15, [Perception](../skill_dir/perception#_perception +23, [Spellcraft](../skill_dir/spellcraft#_spellcraft +15, [Stealth](../skill_dir/stealth#_stealth +9, [Swim](../skill_dir/swim#_swim +29; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
+**Skills** [Climb](../skill_dir/climb#_climb) +21, [Escape Artist](../skill_dir/escapeArtist#_escape-artist) +10, [Intimidate](../skill_dir/intimidate#_intimidate) +14, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana) +15, [Perception](../skill_dir/perception#_perception) +23, [Spellcraft](../skill_dir/spellcraft#_spellcraft) +15, [Stealth](../skill_dir/stealth#_stealth) +9, [Swim](../skill_dir/swim#_swim) +29; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
 
 **Languages** Abyssal, Celestial, Draconic; [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
@@ -391,9 +391,9 @@ _This snake-bodied fiend has a six-armed woman's torso, pointed ears, and glitte
 
 **XP 102,400**
 
-CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype)
+CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
-**Init** +4; **Senses** darkvision 60 ft., _ [true seeing](../spell_dir/trueSeeing#_true-seeing_; [Perception](../skill_dir/perception#_perception +31
+**Init** +4; **Senses** darkvision 60 ft., _ [true seeing](../spell_dir/trueSeeing#_true-seeing)_; [Perception](../skill_dir/perception#_perception) +31
 
 **Aura** _ [unholy aura](../spell_dir/unholyAura#_unholy-aura)_ (DC 25)
 
@@ -401,7 +401,7 @@ CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-
 
 **AC** 32, touch 17, flat-footed 28 (+4 deflection, +4 Dex, +15 natural, –1 size)
 
-**hp** 264 (16d10+176
+**hp** 264 (16d10+176)
 
 **Fort** +25, **Ref** +18, **Will** +13
 
@@ -419,11 +419,11 @@ CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-
 
 **Spell-Like Abilities** (CL 16th)
 
-Constant—_ [true seeing](../spell_dir/trueSeeing#_true-seeing_, _ [unholy aura](../spell_dir/unholyAura#_unholy-aura)_ (DC 25
+Constant—_ [true seeing](../spell_dir/trueSeeing#_true-seeing)_, _ [unholy aura](../spell_dir/unholyAura#_unholy-aura)_ (DC 25)
 
-At will—_ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only, _ [project image](../spell_dir/projectImage#_project-image)_ (DC 24, _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 22
+At will—_ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [project image](../spell_dir/projectImage#_project-image)_ (DC 24), _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 22)
 
-3/day—_ [blade barrier](../spell_dir/bladeBarrier#_blade-barrier)_ (DC 23, _ [fly](../spell_dir/fly_
+3/day—_ [blade barrier](../spell_dir/bladeBarrier#_blade-barrier)_ (DC 23), _ [fly](../spell_dir/fly)_
 
 1/day— [summon](universalMonsterRules#_summon) (level 5, 1 marilith 20%, 1 nalfeshnee at 35%, or 1d4 hezrous at 60%)
 
@@ -435,7 +435,7 @@ At will—_ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self p
 
 **Feats** [Bleeding Critical](../feats#_bleeding-critical), [Combat Expertise](../feats#_combat-expertise), [Combat Reflexes](../feats#_combat-reflexes), [Critical Focus](../feats#_critical-focus), [Improved Critical](../feats#_improved-critical) (longsword), [Improved Disarm](../feats#_improved-disarm), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (longsword)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +23, [Bluff](../skill_dir/bluff#_bluff +26, [Diplomacy](../skill_dir/diplomacy#_diplomacy +26, [Fly](../skill_dir/fly#_fly +18, [Intimidate](../skill_dir/intimidate#_intimidate +26, [Knowledge](../skill_dir/knowledge#_knowledge) (engineering +20, [Perception](../skill_dir/perception#_perception +31, [Sense Motive](../skill_dir/senseMotive#_sense-motive +23, [Stealth](../skill_dir/stealth#_stealth +19, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device +26; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +23, [Bluff](../skill_dir/bluff#_bluff) +26, [Diplomacy](../skill_dir/diplomacy#_diplomacy) +26, [Fly](../skill_dir/fly#_fly) +18, [Intimidate](../skill_dir/intimidate#_intimidate) +26, [Knowledge](../skill_dir/knowledge#_knowledge) (engineering) +20, [Perception](../skill_dir/perception#_perception) +31, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +23, [Stealth](../skill_dir/stealth#_stealth) +19, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device) +26; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
 
 **Languages** Abyssal, Celestial, Draconic; [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
@@ -467,7 +467,7 @@ _This lanky fiend's mouth is filled with sharp fangs, while great bat-like wings
 
 **XP 4,800**
 
-CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [native](creatureTypes#_native-subtype)
+CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [native](creatureTypes#_native-subtype))
 
 **Init** +7; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +23
 
@@ -475,7 +475,7 @@ CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic
 
 **AC** 22, touch 14, flat-footed 18 (+3 Dex, +1 dodge, +8 natural)
 
-**hp** 103 (9d10+54
+**hp** 103 (9d10+54)
 
 **Fort** +9, **Ref** +9, **Will** +9
 
@@ -491,11 +491,11 @@ CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic
 
 **Spell-Like Abilities** (CL 8th)
 
-At will—_ [deeper darkness](../spell_dir/deeperDarkness#_deeper-darkness, [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only, _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 19
+At will—_ [deeper darkness](../spell_dir/deeperDarkness#_deeper-darkness), [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 19)
 
-3/day—_ [enervation](../spell_dir/enervation#_enervation_, _ [silence](../spell_dir/silence#_silence)_ (DC 16, _ [vampiric touch](../spell_dir/vampiricTouch#_vampiric-touch_
+3/day—_ [enervation](../spell_dir/enervation#_enervation)_, _ [silence](../spell_dir/silence#_silence)_ (DC 16), _ [vampiric touch](../spell_dir/vampiricTouch#_vampiric-touch)_
 
-1/day—_ [mass hold person](../spell_dir/holdPerson#_hold-person-mass)_ (DC 21, _ [regenerate](../spell_dir/regenerate#_regenerate), _ [summon](universalMonsterRules#_summon) (level 4, 1 nabasu 30% or 1d4 babaus 30%
+1/day—_ [mass hold person](../spell_dir/holdPerson#_hold-person-mass)_ (DC 21), _ [regenerate](../spell_dir/regenerate#_regenerate), _ [summon](universalMonsterRules#_summon) (level 4, 1 nabasu 30% or 1d4 babaus 30%)
 
 **Statistics**
 
@@ -505,7 +505,7 @@ At will—_ [deeper darkness](../spell_dir/deeperDarkness#_deeper-darkness, [gre
 
 **Feats** [Cleave](../feats#_cleave), [Combat Expertise](../feats#_combat-expertise), [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Power Attack](../feats#_power-attack)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +15, [Fly](../skill_dir/fly#_fly +15, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana +14, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +14, [Perception](../skill_dir/perception#_perception +23, [Sense Motive](../skill_dir/senseMotive#_sense-motive +15, [Stealth](../skill_dir/stealth#_stealth) +15 (+23 in shadowy conditions, [Survival](../skill_dir/survival#_survival +15; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception, +8 [Stealth](../skill_dir/stealth#_stealth) in shadowy areas
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +15, [Fly](../skill_dir/fly#_fly) +15, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana) +14, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +14, [Perception](../skill_dir/perception#_perception) +23, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +15, [Stealth](../skill_dir/stealth#_stealth) +15 (+23 in shadowy conditions), [Survival](../skill_dir/survival#_survival) +15; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception), +8 [Stealth](../skill_dir/stealth#_stealth) in shadowy areas
 
 **Languages** Abyssal, Celestial, Draconic; [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
@@ -521,7 +521,7 @@ At will—_ [deeper darkness](../spell_dir/deeperDarkness#_deeper-darkness, [gre
 
 **Consume Life (Su)** When a nabasu creates a ghoul with its gaze attack, it gains a growth point. It gains a bonus equal to its growth point total on attack rolls, CMB rolls, saving throws, caster level checks, and skill checks. Its maximum hit points increase by 10 for each growth point, and its caster level for spell-like abilities increases by 1. For every 2 growth points, its natural armor bonus, SR, and CR increase by 1. Every time it gains a growth point it makes a DC 30 caster level check—success indicates it matures (gaining both the advanced and the giant simple templates) and _plane shifts_ to the Abyss in a burst of smoke. A nabasu can have a maximum of 20 growth points—it automatically matures if it has not done so already when it reaches 20 growth points.
 
-**Death-Stealing Gaze (Su** As a free action once per day per growth point (minimum of 1/day), a nabasu can activate its death-stealing gaze for a full round. All living creatures within 30 feet must succeed on a DC 18 Fortitude save or gain a negative level. A humanoid slain in this manner immediately transforms into a ghoul under the nabasu's control. A nabasu's gaze can only create one ghoul per round—if multiple humans perish from the gaze in a round, the nabasu picks which human becomes a ghoul. The save DC is Charisma-based.
+**Death-Stealing Gaze (Su)** As a free action once per day per growth point (minimum of 1/day), a nabasu can activate its death-stealing gaze for a full round. All living creatures within 30 feet must succeed on a DC 18 Fortitude save or gain a negative level. A humanoid slain in this manner immediately transforms into a ghoul under the nabasu's control. A nabasu's gaze can only create one ghoul per round—if multiple humans perish from the gaze in a round, the nabasu picks which human becomes a ghoul. The save DC is Charisma-based.
 
 Nabasus are birthed directly into the Material Plane from the Abyss, where they feed on innocent souls to mature. Only when finally sated can a nabasu return to the Abyss. Rumor holds that even then the nabasu's lifecycle does not change, and that further developments await them as they continue to grow. These vile demons form from the souls of evil gluttons, particularly from cannibals, blood-drinkers, and those who prefer the tang of undead flesh.
 
@@ -535,7 +535,7 @@ _A towering, corpulent beast, this fiend has the hideous head of a boar and arms
 
 CE Huge [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft., _ [true seeing](../spell_dir/trueSeeing#_true-seeing_; [Perception](../skill_dir/perception#_perception +31
+**Init** +5; **Senses** darkvision 60 ft., _ [true seeing](../spell_dir/trueSeeing#_true-seeing)_; [Perception](../skill_dir/perception#_perception) +31
 
 **Aura** _ [unholy aura](../spell_dir/unholyAura#_unholy-aura)_ (DC 23)
 
@@ -543,7 +543,7 @@ CE Huge [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-s
 
 **AC** 29, touch 13, flat-footed 28 (+4 deflection, +1 Dex, +16 natural, –2 size)
 
-**hp** 203 (14d10+126
+**hp** 203 (14d10+126)
 
 **Fort** +22, **Ref** +9, **Will** +21
 
@@ -561,9 +561,9 @@ CE Huge [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-s
 
 **Spell-Like Abilities** (CL 12th)
 
-Constant—_ [true seeing](../spell_dir/trueSeeing#_true-seeing_, _ [unholy aura](../spell_dir/unholyAura#_unholy-aura)_ (DC 23
+Constant—_ [true seeing](../spell_dir/trueSeeing#_true-seeing)_, _ [unholy aura](../spell_dir/unholyAura#_unholy-aura)_ (DC 23)
 
-At will—_ [call lightning](../spell_dir/callLightning#_call-lightning)_ (DC 18, _ [feeblemind](../spell_dir/feeblemind#_feeblemind)_ (DC 20, _ [greater dispel magic](../spell_dir/dispelMagic#_dispel-magic-greater, [slow](../spell_dir/slow#_slow)_ (DC 18, _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only
+At will—_ [call lightning](../spell_dir/callLightning#_call-lightning)_ (DC 18), _ [feeblemind](../spell_dir/feeblemind#_feeblemind)_ (DC 20), _ [greater dispel magic](../spell_dir/dispelMagic#_dispel-magic-greater), [slow](../spell_dir/slow#_slow)_ (DC 18), _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
 
 1/day— [summon](universalMonsterRules#_summon) (level 5, 1 nalfeshnee 20%, 1d4 hezrous 40%, or 1d4 vrocks 50%)
 
@@ -575,7 +575,7 @@ At will—_ [call lightning](../spell_dir/callLightning#_call-lightning)_ (DC 18
 
 **Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Cleave](../feats#_cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +22, [Diplomacy](../skill_dir/diplomacy#_diplomacy +22, [Fly](../skill_dir/fly#_fly +10, [Intimidate](../skill_dir/intimidate#_intimidate +19, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana +23, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +23, [Knowledge](../skill_dir/knowledge#_knowledge) (any one other +20, [Perception](../skill_dir/perception#_perception +31, [Sense Motive](../skill_dir/senseMotive#_sense-motive +23, [Spellcraft](../skill_dir/spellcraft#_spellcraft +23, [Stealth](../skill_dir/stealth#_stealth +10, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device +22; **Racial Modifier** +8 on [Perception](../skill_dir/perception#_perception)
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +22, [Diplomacy](../skill_dir/diplomacy#_diplomacy) +22, [Fly](../skill_dir/fly#_fly) +10, [Intimidate](../skill_dir/intimidate#_intimidate) +19, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana) +23, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +23, [Knowledge](../skill_dir/knowledge#_knowledge) (any one other) +20, [Perception](../skill_dir/perception#_perception) +31, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +23, [Spellcraft](../skill_dir/spellcraft#_spellcraft) +23, [Stealth](../skill_dir/stealth#_stealth) +10, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device) +22; **Racial Modifier** +8 on [Perception](../skill_dir/perception#_perception)
 
 **Languages** Abyssal, Celestial, Draconic; [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
@@ -603,7 +603,7 @@ _Ram horns curl back from the twisted head of this tiny winged demon, and its bo
 
 **XP 600**
 
-CE Tiny [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype)
+CE Tiny [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
 **Init** +6; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +7
 
@@ -611,7 +611,7 @@ CE Tiny [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-s
 
 **AC** 16, touch 14, flat-footed 14 (+2 Dex, +2 natural, +2 size)
 
-**hp** 16 (3d10; fast healing 2
+**hp** 16 (3d10); fast healing 2
 
 **Fort** +1, **Ref** +5, **Will** +4
 
@@ -627,11 +627,11 @@ CE Tiny [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-s
 
 **Spell-Like Abilities** (CL 6th)
 
-At will—_ [detect good](../spell_dir/detectGood#_detect-good, [detect magic](../spell_dir/detectMagic#_detect-magic, [invisibility](../spell_dir/invisibility#_invisibility)_ (self only
+At will—_ [detect good](../spell_dir/detectGood#_detect-good), [detect magic](../spell_dir/detectMagic#_detect-magic), [invisibility](../spell_dir/invisibility#_invisibility)_ (self only)
 
-1/day—_ [cause fear](../spell_dir/causeFear#_cause-fear)_ (30-foot radius, DC 11
+1/day—_ [cause fear](../spell_dir/causeFear#_cause-fear)_ (30-foot radius, DC 11)
 
-1/week—_ [commune](../spell_dir/commune#_commune)_ (six questions
+1/week—_ [commune](../spell_dir/commune#_commune)_ (six questions)
 
 **Statistics**
 
@@ -641,7 +641,7 @@ At will—_ [detect good](../spell_dir/detectGood#_detect-good, [detect magic](.
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +6, [Fly](../skill_dir/fly#_fly +20, [Intimidate](../skill_dir/intimidate#_intimidate +6, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +6, [Perception](../skill_dir/perception#_perception +7, [Stealth](../skill_dir/stealth#_stealth) +16
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +6, [Fly](../skill_dir/fly#_fly) +20, [Intimidate](../skill_dir/intimidate#_intimidate) +6, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +6, [Perception](../skill_dir/perception#_perception) +7, [Stealth](../skill_dir/stealth#_stealth) +16
 
 **Languages** Abyssal, Common; [telepathy](universalMonsterRules#_telepathy) (touch)
 
@@ -657,7 +657,7 @@ At will—_ [detect good](../spell_dir/detectGood#_detect-good, [detect magic](.
 
 **Special Abilities**
 
-**Poison (Ex** Claw—injury; _save_ Fortitude DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dexterity; _cure_ 2 consecutive saves. The DC includes a +2 racial bonus.
+**Poison (Ex)** Claw—injury; _save_ Fortitude DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dexterity; _cure_ 2 consecutive saves. The DC includes a +2 racial bonus.
 
 The quasit is perhaps the least powerful demon, yet it is not the least respected—even quasits hold themselves above the dretch horde, and true to their natures, dretches lack the courage or drive to prove the quaits wrong. A quasit's first role in life is that of a familiar to a spellcasting master, but those quasits who escape from this humiliating servitude become free-willed and much more dangerous.
 
@@ -675,7 +675,7 @@ _Only this shadowy bat-winged demon's teeth and claws have any sense of physical
 
 **XP 3,200**
 
-CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [incorporeal](creatureTypes#_incorporeal-subtype)
+CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [incorporeal](creatureTypes#_incorporeal-subtype))
 
 **Init** +8; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +20
 
@@ -683,7 +683,7 @@ CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic
 
 **AC** 18, touch 18, flat-footed 14 (+4 deflection, +4 Dex)
 
-**hp** 59 (7d10+21
+**hp** 59 (7d10+21)
 
 **Fort** +5, **Ref** +11, **Will** +7
 
@@ -701,11 +701,11 @@ CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic
 
 **Spell-Like Abilities** (CL 10th)
 
-At will—_ [deeper darkness](../spell_dir/deeperDarkness#_deeper-darkness, [fear](../spell_dir/fear#_fear)_ (DC 18, _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self only, _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 19
+At will—_ [deeper darkness](../spell_dir/deeperDarkness#_deeper-darkness), [fear](../spell_dir/fear#_fear)_ (DC 18), _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self only), _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 19)
 
-3/day—_ [shadow conjuration](../spell_dir/shadowConjuration#_shadow-conjuration)_ (DC 18, _ [shadow evocation](../spell_dir/shadowEvocation#_shadow-evocation)_ (DC 19
+3/day—_ [shadow conjuration](../spell_dir/shadowConjuration#_shadow-conjuration)_ (DC 18), _ [shadow evocation](../spell_dir/shadowEvocation#_shadow-evocation)_ (DC 19)
 
-1/day—_ [magic jar](../spell_dir/magicJar#_magic-jar)_ (DC 19), [summon](universalMonsterRules#_summon) (level 3, 1 shadow demon 50%
+1/day—_ [magic jar](../spell_dir/magicJar#_magic-jar)_ (DC 19), [summon](universalMonsterRules#_summon) (level 3, 1 shadow demon 50%)
 
 **Statistics**
 
@@ -715,7 +715,7 @@ At will—_ [deeper darkness](../spell_dir/deeperDarkness#_deeper-darkness, [fea
 
 **Feats** [Blind-Fight](../feats#_blind-fight), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes),
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +14, [Bluff](../skill_dir/bluff#_bluff +14, [Fly](../skill_dir/fly#_fly +22, [Knowledge](../skill_dir/knowledge#_knowledge) (local +12, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +12, [Perception](../skill_dir/perception#_perception +20, [Sense Motive](../skill_dir/senseMotive#_sense-motive +12, [Stealth](../skill_dir/stealth#_stealth +14; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +14, [Bluff](../skill_dir/bluff#_bluff) +14, [Fly](../skill_dir/fly#_fly) +22, [Knowledge](../skill_dir/knowledge#_knowledge) (local) +12, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +12, [Perception](../skill_dir/perception#_perception) +20, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +12, [Stealth](../skill_dir/stealth#_stealth) +14; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
 
 **Languages** Abyssal, Common; [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
@@ -733,7 +733,7 @@ At will—_ [deeper darkness](../spell_dir/deeperDarkness#_deeper-darkness, [fea
 
 **Shadow Blend (Su)** During any conditions other than bright light, a shadow demon can disappear into the shadows as a move-equivalent action, effectively becoming invisible. Artificial illumination or light spells of 2nd level or lower do not negate this ability.
 
-**Sunlight Powerlessness (Ex** A shadow demon is utterly powerless in bright light or natural sunlight and flees from it. A shadow demon caught in such light cannot attack and can take only a single move or standard action. A shadow demon that is possessing a creature using _ [magic jar](../spell_dir/magicJar#_magic-jar_ is not harmed by sunlight, but if it is struck by a _ [sunbeam](../spell_dir/sunbeam#_sunbeam)_ or _sunburst_ spell while possessing a creature, the shadow demon is driven out of its host automatically.
+**Sunlight Powerlessness (Ex)** A shadow demon is utterly powerless in bright light or natural sunlight and flees from it. A shadow demon caught in such light cannot attack and can take only a single move or standard action. A shadow demon that is possessing a creature using _ [magic jar](../spell_dir/magicJar#_magic-jar)_ is not harmed by sunlight, but if it is struck by a _ [sunbeam](../spell_dir/sunbeam#_sunbeam)_ or _sunburst_ spell while possessing a creature, the shadow demon is driven out of its host automatically.
 
 Tales of demonic possession are common, used often by the ignorant to explain strange or violent behavior. While the majority of such cases are merely manifestations of madness or derangement, those that are legitimate possessions are often the work of shadow demons.
 
@@ -747,7 +747,7 @@ _Tiny horns, bat-like wings, and a sinuous tail betray the demonic nature of thi
 
 **XP 3,200**
 
-CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype)
+CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
 **Init** +3; **Senses** darkvision 60 ft., detect good; [Perception](../skill_dir/perception#_perception) +21,
 
@@ -755,7 +755,7 @@ CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic
 
 **AC** 20, touch 13, flat-footed 17 (+3 Dex, +7 natural)
 
-**hp** 84 (8d10+40
+**hp** 84 (8d10+40)
 
 **Fort** +7, **Ref** +9, **Will** +10
 
@@ -771,11 +771,11 @@ CE Medium [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic
 
 **Spell-Like Abilities** (CL 12th)
 
-Constant—_ [detect good](../spell_dir/detectGood#_detect-good, [tongues](../spell_dir/tongues#_tongues_
+Constant—_ [detect good](../spell_dir/detectGood#_detect-good), [tongues](../spell_dir/tongues#_tongues)_
 
-At will—_ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (DC 22, _ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC 20, _ [ethereal jaunt](../spell_dir/etherealJaunt#_ethereal-jaunt)_ (self plus 50 lbs. of objects only, _ [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 21, _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only, _ [vampiric touch](../spell_dir/vampiricTouch#_vampiric-touch_
+At will—_ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (DC 22), _ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC 20), _ [ethereal jaunt](../spell_dir/etherealJaunt#_ethereal-jaunt)_ (self plus 50 lbs. of objects only), _ [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 21), _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [vampiric touch](../spell_dir/vampiricTouch#_vampiric-touch)_
 
-1/day—_ [dominate person](../spell_dir/dominatePerson#_dominate-person)_ (DC 23), [summon](universalMonsterRules#_summon) (level 3, 1 babau 50%
+1/day—_ [dominate person](../spell_dir/dominatePerson#_dominate-person)_ (DC 23), [summon](universalMonsterRules#_summon) (level 3, 1 babau 50%)
 
 **Statistics**
 
@@ -785,11 +785,11 @@ At will—_ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (DC 22, _
 
 **Feats** [Agile Maneuvers](../feats#_agile-maneuvers), [Combat Reflexes](../feats#_combat-reflexes), [Iron Will](../feats#_iron-will), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +27, [Diplomacy](../skill_dir/diplomacy#_diplomacy +19, [Disguise](../skill_dir/disguise#_disguise +19, [Escape Artist](../skill_dir/escapeArtist#_escape-artist +11, [Fly](../skill_dir/fly#_fly +14, [Intimidate](../skill_dir/intimidate#_intimidate +16, [Knowledge](../skill_dir/knowledge#_knowledge) (local +15, [Perception](../skill_dir/perception#_perception +21, [Sense Motive](../skill_dir/senseMotive#_sense-motive +13, [Stealth](../skill_dir/stealth#_stealth +14; **Racial Modifiers** +8 [Bluff](../skill_dir/bluff#_bluff, +8 [Perception](../skill_dir/perception#_perception
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +27, [Diplomacy](../skill_dir/diplomacy#_diplomacy) +19, [Disguise](../skill_dir/disguise#_disguise) +19, [Escape Artist](../skill_dir/escapeArtist#_escape-artist) +11, [Fly](../skill_dir/fly#_fly) +14, [Intimidate](../skill_dir/intimidate#_intimidate) +16, [Knowledge](../skill_dir/knowledge#_knowledge) (local) +15, [Perception](../skill_dir/perception#_perception) +21, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +13, [Stealth](../skill_dir/stealth#_stealth) +14; **Racial Modifiers** +8 [Bluff](../skill_dir/bluff#_bluff), +8 [Perception](../skill_dir/perception#_perception)
 
 **Languages** Abyssal, Celestial, Common, Draconic; _ [tongues](../spell_dir/tongues#_tongues)_, [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
-**SQ** [change shape](universalMonsterRules#_change-shape (_ [alter self](../spell_dir/alterSelf#_alter-self)_, Small or Medium humanoid)
+**SQ** [change shape](universalMonsterRules#_change-shape) (_ [alter self](../spell_dir/alterSelf#_alter-self)_, Small or Medium humanoid)
 
 **Ecology**
 
@@ -801,9 +801,9 @@ At will—_ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (DC 22, _
 
 **Special Abilities**
 
-**Energy Drain (Su** A succubus drains energy from a mortal she lures into an act of passion, such as a kiss. An unwilling victim must be grappled before the succubus can use this ability. The succubus's kiss bestows one negative level. The kiss also has the effect of a _ [suggestion](../spell_dir/suggestion#_suggestion_ spell, asking the victim to accept another act of passion from the succubus. The victim must succeed on a DC 22 Will save to negate the _ [suggestion](../spell_dir/suggestion#_suggestion)_. The DC is 22 for the Fortitude save to remove a negative level. These save DCs are Charisma-based.
+**Energy Drain (Su)** A succubus drains energy from a mortal she lures into an act of passion, such as a kiss. An unwilling victim must be grappled before the succubus can use this ability. The succubus's kiss bestows one negative level. The kiss also has the effect of a _ [suggestion](../spell_dir/suggestion#_suggestion)_ spell, asking the victim to accept another act of passion from the succubus. The victim must succeed on a DC 22 Will save to negate the _ [suggestion](../spell_dir/suggestion#_suggestion)_. The DC is 22 for the Fortitude save to remove a negative level. These save DCs are Charisma-based.
 
-**Profane Gift (Su** Once per day as a full-round action, a succubus may grant a profane gift to a willing humanoid creature by touching it for 1 full round. The target gains a +2 profane bonus to an ability score of his choice. A single creature may have no more than one profane gift from a succubus at a time. As long as the profane gift persists, the succubus can communicate telepathically with the target across any distance (and may use her _ [suggestion](../spell_dir/suggestion#_suggestion)_ spell-like ability through it. A profane gift is removed by _ [dispel evil](../spell_dir/dispelEvil#_dispel-evil_ or _ [dispel chaos](../spell_dir/dispelChaos#_dispel-chaos)_. The succubus can remove it as well as a free action (causing 2d6 Charisma drain to the victim, no save).
+**Profane Gift (Su)** Once per day as a full-round action, a succubus may grant a profane gift to a willing humanoid creature by touching it for 1 full round. The target gains a +2 profane bonus to an ability score of his choice. A single creature may have no more than one profane gift from a succubus at a time. As long as the profane gift persists, the succubus can communicate telepathically with the target across any distance (and may use her _ [suggestion](../spell_dir/suggestion#_suggestion)_ spell-like ability through it). A profane gift is removed by _ [dispel evil](../spell_dir/dispelEvil#_dispel-evil)_ or _ [dispel chaos](../spell_dir/dispelChaos#_dispel-chaos)_. The succubus can remove it as well as a free action (causing 2d6 Charisma drain to the victim, no save).
 
 Among the demon hordes, a succubus can often rise to incredible heights of power through her manipulations and sensual charms, and many a demonic war has raged due to the subtle machinations of such creatures. A succubus is formed from the souls of particularly lustful and rapacious evil mortals.
 
@@ -815,7 +815,7 @@ _A cloud of spores and a trail of feathers surrounds this twisted cross between 
 
 **XP 6,400**
 
-CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype)
+CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-subtype), [demon](creatureTypes#_demon-subtype), [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
 **Init** +6; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +23
 
@@ -823,7 +823,7 @@ CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-
 
 **AC** 22, touch 11, flat-footed 20 (+2 Dex, +11 natural, –1 size)
 
-**hp** 112 (9d10+63
+**hp** 112 (9d10+63)
 
 **Fort** +13, **Ref** +10, **Will** +6
 
@@ -841,9 +841,9 @@ CE Large [outsider](creatureTypes#_outsider) ( [chaotic](creatureTypes#_chaotic-
 
 **Spell-Like Abilities** (CL 12th)
 
-At will—_ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only, _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 18
+At will—_ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 18)
 
-1/day—_ [heroism](../spell_dir/heroism#_heroism_, _ [mirror image](../spell_dir/mirrorImage#_mirror-image)_, [summon](universalMonsterRules#_summon) (level 3, 1 vrock 35%
+1/day—_ [heroism](../spell_dir/heroism#_heroism)_, _ [mirror image](../spell_dir/mirrorImage#_mirror-image)_, [summon](universalMonsterRules#_summon) (level 3, 1 vrock 35%)
 
 **Statistics**
 
@@ -853,7 +853,7 @@ At will—_ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self p
 
 **Feats** [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack)
 
-**Skills** [Fly](../skill_dir/fly#_fly +12, [Intimidate](../skill_dir/intimidate#_intimidate +15, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +14, [Perception](../skill_dir/perception#_perception +23, [Sense Motive](../skill_dir/senseMotive#_sense-motive +15, [Spellcraft](../skill_dir/spellcraft#_spellcraft +14, [Stealth](../skill_dir/stealth#_stealth +10, [Survival](../skill_dir/survival#_survival +15; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
+**Skills** [Fly](../skill_dir/fly#_fly) +12, [Intimidate](../skill_dir/intimidate#_intimidate) +15, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +14, [Perception](../skill_dir/perception#_perception) +23, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +15, [Spellcraft](../skill_dir/spellcraft#_spellcraft) +14, [Stealth](../skill_dir/stealth#_stealth) +10, [Survival](../skill_dir/survival#_survival) +15; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
 
 **Languages** Abyssal, Celestial, Common; [telepathy](universalMonsterRules#_telepathy) 100 ft.
 
@@ -869,9 +869,9 @@ At will—_ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self p
 
 **Dance of Ruin (Su)** A vrock can dance and chant as a full-round action—at the end of 3 rounds, a crackling wave of energy explodes from the vrock, dealing 5d6 points of electricity damage to all creatures within 100 feet. A DC 17 Reflex save halves this damage. For each additional vrock that joins in the dance, the damage increases by 5d6 and the DC to avoid the effect increases by +1, to a maximum of 20d6 when four or more vrocks are dancing (the DC continues to increase with additional vrocks, but the damage does not). The dance immediately ends and must be started anew if any of the participating vrocks is slain, stunned, or otherwise prevented from dancing. The save DC is Charisma-based.
 
-**Spores (Ex** A vrock can release a cloud of spores from its body once every 3 rounds as a free action. Adjacent creatures take 1d8 points of damage from the spores, plus 1d4 points of damage per round for 10 rounds as the spores grow into thick green vines. Although ugly, the vines are harmless and wither away in 1d4 days if not shaved off before then. The spores can be destroyed by casting _ [bless](../spell_dir/bless#_bless)_ on the affected creatures or by sprinkling them with holy water. This attack can also be halted by effects that remove or provide immunity to disease.
+**Spores (Ex)** A vrock can release a cloud of spores from its body once every 3 rounds as a free action. Adjacent creatures take 1d8 points of damage from the spores, plus 1d4 points of damage per round for 10 rounds as the spores grow into thick green vines. Although ugly, the vines are harmless and wither away in 1d4 days if not shaved off before then. The spores can be destroyed by casting _ [bless](../spell_dir/bless#_bless)_ on the affected creatures or by sprinkling them with holy water. This attack can also be halted by effects that remove or provide immunity to disease.
 
-**Stunning Screech (Su** Once per hour, a vrock can emit a shrill screech. All creatures except demons within a 30-foot-radius spread must succeed on a DC 21 Fortitude save or be stunned for 1 round. The save DC is Constitution-based.
+**Stunning Screech (Su)** Once per hour, a vrock can emit a shrill screech. All creatures except demons within a 30-foot-radius spread must succeed on a DC 21 Fortitude save or be stunned for 1 round. The save DC is Constitution-based.
 
 Profane champions of the Abyss, vrocks embody all the rage, hatred, and violence of that despicable realm. As ravenous and grotesquely opportunistic as the scavengers they resemble, vrocks delight in bloodshed, relishing the sounds and sensations of ripping the still-pulsing entrails from a living husk.
 

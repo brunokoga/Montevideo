@@ -3,7 +3,7 @@ title: spell_dir/insanity
 ---
  **Insanity**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** sorcerer/wizard 7
+**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 

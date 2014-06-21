@@ -1,5 +1,5 @@
 ---
-title: spells/detectThoughts
+title: spell_dir/detectThoughts
 ---
  **Detect Thoughts**
 

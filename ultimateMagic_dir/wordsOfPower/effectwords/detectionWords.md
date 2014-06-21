@@ -1,27 +1,27 @@
 ---
-title: ultimateMagic/wordsOfPower/effectword_dir/detectionWords
+title: ultimateMagi_dir/wordsOfPower/effectword_dir/detectionWords
 ---
 ## Detection Words
 
 Detection words are used to learn things that simple observation cannot. They reveal secrets and uncover hidden things. Detection words are special in that they can be combined with other words from the Detection group in the same wordspell. Detection words cannot be combined with any other group's effect words within the same wordspell.
 
-Sense Magic (Detection
+Sense Magic (Detection)
 
 **School** divination; **Level** bard 0, cleric 0, druid 0, inquisitor 0, magus 0, sorcerer/wizard 0, summoner 0, witch 0
 
-**Duration** concentration, up to 1 minut_dir/level (D
+**Duration** concentration, up to 1 minut_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
 **Target Restrictions** _cone_
 
-A wordspell with this effect word detects magic auras. By concentrating each round, the caster can determine the number and location of each aura in the target area. He can make a [Knowledge](skill_dir/knowledge#_knowledge) (arcana skill check to determine the school of each aura (one check per aura, the DC of this check is 15 + the spell level or 15 + 1/2 the caster level for a nonspell effect). If the aura radiates from a magic item, the caster can attempt to identify the item's properties as if using _ [detect magic](spell_dir/detectMagic#_detect-magic_ (see [Spellcraft](skill_dir/spellcraft#_spellcraft). If the aura emanates from a spell of 7th level or higher, or is a nonspell effect with a caster level of 12th or higher, the caster knows that the aura is strong, even if the [Knowledge](skill_dir/knowledge#_knowledge) check to identify the school is unsuccessful.
+A wordspell with this effect word detects magic auras. By concentrating each round, the caster can determine the number and location of each aura in the target area. He can make a [Knowledge](skills/knowledge#_knowledge) (arcana) skill check to determine the school of each aura (one check per aura, the DC of this check is 15 + the spell level or 15 + 1/2 the caster level for a nonspell effect). If the aura radiates from a magic item, the caster can attempt to identify the item's properties as if using _ [detect magic](spell_dir/detectMagic#_detect-magic)_ (see [Spellcraft](skills/spellcraft#_spellcraft)). If the aura emanates from a spell of 7th level or higher, or is a nonspell effect with a caster level of 12th or higher, the caster knows that the aura is strong, even if the [Knowledge](skill_dir/knowledge#_knowledge) check to identify the school is unsuccessful.
 
-Sense Alignment (Detection
+Sense Alignment (Detection)
 
 **School** divination; **Level** cleric 1, inquisitor 1, paladin 1
 
-**Duration** concentration, up to 1 minut_dir/level (D)
+**Duration** concentration, up to 1 minute/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -33,11 +33,11 @@ This effect word detects one or more alignments. When cast, the wordcaster selec
 
 **Boost** : The caster can detect all four alignments (although this does not allow him to detect neutral objects or creatures). Boosting this effect word increases its level by 2.
 
-Sense Thoughts (Detection
+Sense Thoughts (Detection)
 
-**School** divination; **Level** alchemist 2, bard 2, inquisitor 2, sorcerer/wizard 2, summoner 2, witch 2
+**School** divination; **Level** alchemist 2, bard 2, inquisitor 2, sorcere_dir/wizard 2, summoner 2, witch 2
 
-**Duration** concentration, up to 1 minut_dir/level (D)
+**Duration** concentration, up to 1 minute/level (D)
 
 **Saving Throw** Will negates; **Spell Resistance** no
 
@@ -45,11 +45,11 @@ Sense Thoughts (Detection
 
 This effect word allows the caster to detect the surface thoughts of creatures in the target area. By focusing on one creature in the area, the caster can read the surface thoughts of that creature. The caster must be otherwise aware of the creature to focus on it. A Will save prevents the caster from reading the creature's thoughts for the duration of a wordspell with this effect word. If the target has an Intelligence score at least 10 higher than the caster and it makes its Will save, the target can instead read the surface thoughts of the caster for the duration of the of the wordspell with this effect word, while the wordcaster receives no insight. Each round, the caster can focus on a new creature if he desires.
 
-Sense Hidden (Detection
+Sense Hidden (Detection)
 
-**School** divination; **Level** alchemist 2, bard 2, cleric 2, inquisitor 2, sorcerer/wizard 2, summoner 2, witch 2
+**School** divination; **Level** alchemist 2, bard 2, cleric 2, inquisitor 2, sorcere_dir/wizard 2, summoner 2, witch 2
 
-**Duration** concentration, up to 1 minut_dir/level (D
+**Duration** concentration, up to 1 minute/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 

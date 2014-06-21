@@ -1,5 +1,5 @@
 ---
-title: skills/fly
+title: skill_dir/fly
 ---
 # Fly
 

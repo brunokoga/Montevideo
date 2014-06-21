@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/forlarren
+title: additionalMonster_dir/forlarren
 ---
 # Forlarren
 
@@ -9,15 +9,15 @@ This humanoid creature has the legs of a bald goat, a completely hairless body, 
 
 **XP 600**
 
-NE Medium [fey](monster_dir/creatureTypes#_fey
+NE Medium [fey](monsters/creatureTypes#_fey)
 
-**Init** +2; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +11
+**Init** +2; **Senses** low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +11
 
 Defense
 
 **AC** 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
 
-**hp** 18 (4d6+4
+**hp** 18 (4d6+4)
 
 **Fort** +2, **Ref** +6, **Will** +5
 
@@ -33,7 +33,7 @@ Offense
 
 **Spell-Like Abilities** (CL 4th; concentration +3)
 
-3/day—_ [heat metal](additionalMonsters/../spell_dir/heatMetal#_heat-metal)_ (DC 11
+3/day—_ [heat metal](additionalMonster_dir/../spell_dir/heatMetal#_heat-metal)_ (DC 11)
 
 Statistics
 
@@ -41,9 +41,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +3; **CMD** 15
 
-**Feats** [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skill_dir/perception#_perception), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception)), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics +9, [Perception](additionalMonsters/../skill_dir/perception#_perception +11, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +9
+**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +9, [Perception](additionalMonsters/../skill_dir/perception#_perception) +11, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +9
 
 **Languages** Common, Sylvan
 
@@ -57,7 +57,7 @@ Ecology
 
 Special Abilities
 
-**Remorse (Ex** Whenever a forlarren kills a living creature, it must make a DC 15 Will save to avoid becoming overwhelmed with remorse. If it fails this save, the forlarren becomes nauseated for 1d6 rounds. This is a mind-affecting effect.
+**Remorse (Ex)** Whenever a forlarren kills a living creature, it must make a DC 15 Will save to avoid becoming overwhelmed with remorse. If it fails this save, the forlarren becomes nauseated for 1d6 rounds. This is a mind-affecting effect.
 
 A nymph's charm and beauty are such that she can seduce nearly any creature that she sets her attentions on—and often, unfortunately, creatures she would rather not consort with. When a nymph catches the attention of a fiend and the fiend takes advantage of the creature, the resulting offspring is not always a half-fiend. Roughly one in 20 such incidents results instead in a strange creature known as a forlarren—a unique creature that possesses its own unusual abilities and qualities.
 
@@ -67,7 +67,7 @@ Most forlarrens are female, and few are capable of conceiving children of their 
 
 The forlarren attacks with its clawed hands, typically focusing on a single opponent at a time and attacking until it or its opponent is slain. Yet curiously, when a forlarren succeeds in killing an opponent, the kindly traits of its fey mother sometimes surface, and it shows profound remorse for its cruelty. With such a pendulum of erratic behavior, it is no wonder that forlarrens are all but incapable of forming lasting friendships—even with others of their own kind.
 
-The majority of forlarrens inherit little in the way of the magical abilities possessed by their fey mothers, but they do gain a small measure of the powers of their fiendish fathers. In most cases, this manifests as the ability to use _ [heat metal](additionalMonsters/../spell_dir/heatMetal#_heat-metal_ three times per day, but some forlarren instead gain a different spell-like ability chosen from the following list: _ [chill metal](additionalMonsters/../spell_dir/chillMetal#_chill-metal_, _ [flame blade](additionalMonsters/../spell_dir/flameBlade#_flame-blade_, _ [flaming sphere](additionalMonsters/../spell_dir/flamingSphere#_flaming-sphere_, _ [gust of wind](additionalMonsters/../spell_dir/gustOfWind#_gust-of-wind_, _ [summon swarm](additionalMonsters/../spell_dir/summonSwarm#_summon-swarm_, or _ [warp wood](additionalMonsters/../spell_dir/warpWood#_warp-wood_.
+The majority of forlarrens inherit little in the way of the magical abilities possessed by their fey mothers, but they do gain a small measure of the powers of their fiendish fathers. In most cases, this manifests as the ability to use _ [heat metal](additionalMonsters/../spell_dir/heatMetal#_heat-metal)_ three times per day, but some forlarren instead gain a different spell-like ability chosen from the following list: _ [chill metal](additionalMonsters/../spell_dir/chillMetal#_chill-metal)_, _ [flame blade](additionalMonsters/../spell_dir/flameBlade#_flame-blade)_, _ [flaming sphere](additionalMonsters/../spell_dir/flamingSphere#_flaming-sphere)_, _ [gust of wind](additionalMonsters/../spell_dir/gustOfWind#_gust-of-wind)_, _ [summon swarm](additionalMonsters/../spell_dir/summonSwarm#_summon-swarm)_, or _ [warp wood](additionalMonsters/../spell_dir/warpWood#_warp-wood)_.
 
 A forlarren stands 6 feet tall and weighs about 160 pounds. In theory, these creatures can live for hundreds of years, but most perish through violence before they turn 10.
 

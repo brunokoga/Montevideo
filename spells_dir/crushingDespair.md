@@ -3,7 +3,7 @@ title: spell_dir/crushingDespair
 ---
  **Crushing Despair**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 3, sorcerer/wizard 4
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 

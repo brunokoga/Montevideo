@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/bloodCrowStrike
+title: ultimateMagi_dir/spells/bloodCrowStrike
 ---
 Blood Crow Strike
 

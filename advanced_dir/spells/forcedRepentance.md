@@ -1,9 +1,9 @@
 ---
-title: advanced/spell_dir/forcedRepentance
+title: advance_dir/spells/forcedRepentance
 ---
  **Forced Repentance**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** inquisitor 4, paladin 4
+**School** enchantment (compulsion) [mind-affecting]; **Level** inquisitor 4, paladin 4
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: advanced/spell_dir/forcedRepentance
 
 **Target** one evil creature without the evil subtype
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

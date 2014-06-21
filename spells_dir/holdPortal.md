@@ -1,5 +1,5 @@
 ---
-title: spells/holdPortal
+title: spell_dir/holdPortal
 ---
  **Hold Portal**
 

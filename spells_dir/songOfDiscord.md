@@ -3,7 +3,7 @@ title: spell_dir/songOfDiscord
 ---
  **Song of Discord**
 
-**School** enchantment (compulsion [mind-affecting, sonic]; **Level** bard 5
+**School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 5
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spell_dir/songOfDiscord
 
 **Area** creatures within a 20-ft.-radius spread
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

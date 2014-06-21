@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/fireBreath
+title: advance_dir/spells/fireBreath
 ---
  **Fire Breath**
 
@@ -7,7 +7,7 @@ title: advanced/spells/fireBreath
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a chili pepper
+**Components** V, S, M (a chili pepper)
 
 **Range** 15 ft.
 

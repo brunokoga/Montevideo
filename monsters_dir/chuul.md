@@ -9,7 +9,7 @@ _This lobster-like creature has a thick armored shell. A pair of tiny eyes gleam
 
 **XP 3,200**
 
-CE Large [aberration](creatureTypes#_aberration) (aquatic
+CE Large [aberration](creatureTypes#_aberration) (aquatic)
 
 **Init** +7; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +19
 
@@ -37,11 +37,11 @@ CE Large [aberration](creatureTypes#_aberration) (aquatic
 
 **Str** 25, **Dex** 16, **Con** 18, **Int** 10, **Wis** 14, **Cha** 5
 
-**Base**  **Atk** +7; **CMB** +15 (+19 grapple); **CMD** 28 (32 vs. trip
+**Base**  **Atk** +7; **CMB** +15 (+19 grapple); **CMD** 28 (32 vs. trip)
 
 **Feats** [Alertness](../feats#_alertness), [Blind-Fight](../feats#_blind-fight), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Weapon Focus](../feats#_weapon-focus) (claw)
 
-**Skills** [Knowledge](../skill_dir/knowledge#_knowledge) (nature +8, [Perception](../skill_dir/perception#_perception +19, [Sense Motive](../skill_dir/senseMotive#_sense-motive +9, [Stealth](../skill_dir/stealth#_stealth +9, [Swim](../skill_dir/swim#_swim) +28
+**Skills** [Knowledge](../skill_dir/knowledge#_knowledge) (nature) +8, [Perception](../skill_dir/perception#_perception) +19, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +9, [Stealth](../skill_dir/stealth#_stealth) +9, [Swim](../skill_dir/swim#_swim) +28
 
 **Languages** Common (sometimes Undercommon for subterranean variants)
 
@@ -57,7 +57,7 @@ CE Large [aberration](creatureTypes#_aberration) (aquatic
 
 **Special Abilities**
 
-**Paralytic Tentacles (Ex** A chuul can transfer a grappled victim from a claw to its tentacles as a move action. The tentacles grapple with the same strength as the claw but deal no damage, instead exuding a paralytic secretion. Anyone held in the tentacles must succeed on a DC 19 Fortitude save each round on the chuul's turn or be paralyzed for 6 rounds. The save DC is Constitution-based. While held in the tentacles, paralyzed or not, a victim automatically takes 1d8+7 points of damage each round from the creature's mandibles.
+**Paralytic Tentacles (Ex)** A chuul can transfer a grappled victim from a claw to its tentacles as a move action. The tentacles grapple with the same strength as the claw but deal no damage, instead exuding a paralytic secretion. Anyone held in the tentacles must succeed on a DC 19 Fortitude save each round on the chuul's turn or be paralyzed for 6 rounds. The save DC is Constitution-based. While held in the tentacles, paralyzed or not, a victim automatically takes 1d8+7 points of damage each round from the creature's mandibles.
 
 Chuuls are armored, crustacean-like predators that lurk beneath the surfaces of shallow ponds and mires, bursting from concealment to snatch up prey in their chitinous pincers and then paralyzing them with their mouth tentacles before eating them alive.
 

@@ -1,5 +1,5 @@
 ---
-title: spells/burningHands
+title: spell_dir/burningHands
 ---
  **Burning Hands**
 

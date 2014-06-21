@@ -11,7 +11,7 @@ _This creature has a vaguely humanoid head, the body of a lion, and the wings of
 
 LE Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +9
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +9
 
 **Defense**
 
@@ -37,9 +37,9 @@ LE Large [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +6; **CMB** +12; **CMD** 24 (28 vs. trip)
 
-**Feats** [Flyby Attack](monsterFeats#_flyby-attack), [Hover](monsterFeats#_hover, [Weapon Focus](../feats#_weapon-focus) (spikes)
+**Feats** [Flyby Attack](monsterFeats#_flyby-attack), [Hover](monsterFeats#_hover), [Weapon Focus](../feats#_weapon-focus) (spikes)
 
-**Skills** [Fly](../skill_dir/fly#_fly –3, [Perception](../skill_dir/perception#_perception +9, [Survival](../skill_dir/survival#_survival) +4 (+8 tracking; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +4 [Survival](../skill_dir/survival#_survival) when tracking
+**Skills** [Fly](../skill_dir/fly#_fly) –3, [Perception](../skill_dir/perception#_perception) +9, [Survival](../skill_dir/survival#_survival) +4 (+8 tracking); **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception), +4 [Survival](../skill_dir/survival#_survival) when tracking
 
 **Languages** Common
 
@@ -53,7 +53,7 @@ LE Large [magical beast](creatureTypes#_magical-beast)
 
 **Special Abilities**
 
-**Spikes (Ex)** With a snap of its tail, a manticore can loose a volley of four spikes as a standard action (make an attack roll for each spike. This attack has a range of 180 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only 24 spikes in any 24-hour period.
+**Spikes (Ex)** With a snap of its tail, a manticore can loose a volley of four spikes as a standard action (make an attack roll for each spike). This attack has a range of 180 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only 24 spikes in any 24-hour period.
 
 Manticores are fierce predators that patrol a wide area in search of fresh meat. A typical manticore is about 10 feet long and weighs about 1,000 pounds. Some have more human-like heads, usually with beards. Males and females look much alike.
 

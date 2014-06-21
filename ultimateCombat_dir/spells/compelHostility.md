@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spell_dir/compelHostility
+title: ultimateComba_dir/spells/compelHostility
 ---
 Compel Hostility
 
@@ -7,13 +7,13 @@ Compel Hostility
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a drop of your blood
+**Components** V, S, M (a drop of your blood)
 
 **Range** personal
 
 **Target** you
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** see text; **Spell Resistance** see text
 

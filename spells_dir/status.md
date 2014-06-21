@@ -1,5 +1,5 @@
 ---
-title: spells/status
+title: spell_dir/status
 ---
  **Status**
 

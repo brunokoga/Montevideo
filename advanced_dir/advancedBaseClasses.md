@@ -7,21 +7,21 @@ While most common folk have shared ale with a fighter or perhaps even seen a wiz
 
 # Base Classes
 
-The six new base classes presented in this book are equivalent in power to the 11 core classes in the _Pathfinder RPG Core Rulebook_. Game Masters (also called GMs are encouraged to allow players to choose freely from these classes and the other additional rules and options in this book, but each GM must make a personal decision about what is and isn't allowed in his campaign, and the relative prevalence of such character classes in his or her world.
+The six new base classes presented in this book are equivalent in power to the 11 core classes in the _Pathfinder RPG Core Rulebook_. Game Masters (also called GMs) are encouraged to allow players to choose freely from these classes and the other additional rules and options in this book, but each GM must make a personal decision about what is and isn't allowed in his campaign, and the relative prevalence of such character classes in his or her world.
 
 Each new class presents interesting character themes and special abilities as follows.
 
-**[Alchemist](baseClasse_dir/alchemist** : The alchemist is the master of alchemy, using extracts to grant him great power, mutagens to enhance his form, and bombs to destroy his enemies.
+**[Alchemist](baseClasses/alchemist)** : The alchemist is the master of alchemy, using extracts to grant him great power, mutagens to enhance his form, and bombs to destroy his enemies.
 
-**[Cavalier](baseClasse_dir/cavalier** : Mounted upon his mighty steed, the cavalier is a brave warrior, using his wit, charm, and strength at arms to rally his companions and achieve his goals.
+**[Cavalier](baseClasse_dir/cavalier)** : Mounted upon his mighty steed, the cavalier is a brave warrior, using his wit, charm, and strength at arms to rally his companions and achieve his goals.
 
-**[Inquisitor](baseClasse_dir/inquisitor** : Scourge of the unfaithful and hunter of horrors, the inquisitor roots out the enemies of her faith with grim conviction and an array of divine blessings.
+**[Inquisitor](baseClasses/inquisitor)** : Scourge of the unfaithful and hunter of horrors, the inquisitor roots out the enemies of her faith with grim conviction and an array of divine blessings.
 
-**[Oracle](baseClasse_dir/oracle** : Drawing upon divine mysteries, the oracle channels divine power through her body and soul, but at a terrible price.
+**[Oracle](baseClasse_dir/oracle)** : Drawing upon divine mysteries, the oracle channels divine power through her body and soul, but at a terrible price.
 
-**[Summoner](baseClasse_dir/summoner** : Bonded to a mysterious creature called an eidolon, the summoner focuses his power on strengthing that connection and enhancing his strange, otherworldy companion.
+**[Summoner](baseClasses/summoner)** : Bonded to a mysterious creature called an eidolon, the summoner focuses his power on strengthing that connection and enhancing his strange, otherworldy companion.
 
-**[Witch](baseClasse_dir/witch** : Lurking on the fringe of civilization, the witch makes a powerful connection with a patron that grants her strange and mysterious powers through a special familiar.
+**[Witch](baseClasse_dir/witch)** : Lurking on the fringe of civilization, the witch makes a powerful connection with a patron that grants her strange and mysterious powers through a special familiar.
 
 # Starting Wealth
 

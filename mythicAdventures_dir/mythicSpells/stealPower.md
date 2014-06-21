@@ -1,9 +1,9 @@
 ---
-title: mythicAdventures/mythicSpells/stealPower
+title: mythicAdventure_dir/mythicSpells/stealPower
 ---
 Steal Power
 
-**School** necromancy; **Level** cleric 5, sorcerer/wizard 5, witch 5
+**School** necromancy; **Level** cleric 5, sorcere_dir/wizard 5, witch 5
 
 **Casting Time** 1 standard action
 

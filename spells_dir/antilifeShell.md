@@ -1,5 +1,5 @@
 ---
-title: spells/antilifeShell
+title: spell_dir/antilifeShell
 ---
  **Antilife Shell**
 

@@ -1,19 +1,19 @@
 ---
-title: ultimateMagic/spell_dir/visionOfHell
+title: ultimateMagi_dir/spells/visionOfHell
 ---
 Vision of Hell
 
-**School** illusion (glamer [evil, fear]; **Level** bard 3, cleric 3, sorcere_dir/wizard 3, witch 3
+**School** illusion (glamer) [evil, fear]; **Level** bard 3, cleric 3, sorcere_dir/wizard 3, witch 3
 
 **Casting** Time 1 standard action
 
-**Components** V, M (a pinch of brimstone
+**Components** V, M (a pinch of brimstone)
 
 **Range** medium (100 ft. + 10 ft./level)
 
 **Effect** 50-ft.-radius emanation
 
-**Duration** 1 minut_dir/level (D
+**Duration** 1 minut_dir/level (D)
 
 **Saving Throw** Will negates; **Spell Resistance** no
 

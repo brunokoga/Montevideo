@@ -1,5 +1,5 @@
 ---
-title: advanced/coreClasse_dir/fighter
+title: advance_dir/coreClasses/fighter
 ---
 # Fighter
 
@@ -11,11 +11,11 @@ Presented below are a number of common martial themes, complete with variant cla
 
 The archer is dedicated to the careful mastery of the bow, perfecting his skills with years of practice honed day after day on ranges and hunting for game, or else on the battlefield, raining destruction down on the enemy lines.
 
-**Hawkeye (Ex** : At 2nd level, an archer gains a +1 bonus on [Perception](../../skill_dir/perception#_perception) checks, and the range increment for any bow he uses increases by 5 feet. These bonuses increase by +1 and 5 additional feet for every 4 levels beyond 2nd. This ability replaces bravery.
+**Hawkeye (Ex)** : At 2nd level, an archer gains a +1 bonus on [Perception](../../skill_dir/perception#_perception) checks, and the range increment for any bow he uses increases by 5 feet. These bonuses increase by +1 and 5 additional feet for every 4 levels beyond 2nd. This ability replaces bravery.
 
 **Trick Shot (Ex)** : At 3rd level, an archer can choose one of the following combat maneuvers or actions: disarm, feint, or sunder. He can perform this action with a bow against any target within 30 feet, with a –4 penalty to his CMB. Every four levels beyond 3rd, he may choose an additional trick shot to learn. These maneuvers use up arrows as normal.
 
-At 11th level, he may also choose from the following combat maneuvers: bull rush, grapple, trip. A target grappled by an arrow can break free by destroying the archer's arrow (hardness 5, hit points 1, break DC 13 or with an [Escape Artist](../../skill_dir/escapeArtist#_escape-artist) or CMB check (against the archer's CMD –4). This ability replaces armor training 1, 2, 3, and 4.
+At 11th level, he may also choose from the following combat maneuvers: bull rush, grapple, trip. A target grappled by an arrow can break free by destroying the archer's arrow (hardness 5, hit points 1, break DC 13) or with an [Escape Artist](../../skill_dir/escapeArtist#_escape-artist) or CMB check (against the archer's CMD –4). This ability replaces armor training 1, 2, 3, and 4.
 
 **Expert Archer (Ex)** : At 5th level, an archer gains a +1 bonus on attack and damage rolls with bows. This bonus increases by +1 for every four levels beyond 5th. This ability replaces weapon training 1.
 
@@ -25,7 +25,7 @@ At 11th level, he may also choose from the following combat maneuvers: bull rush
 
 **Volley (Ex)** : At 17th level, as a full-round action, an archer can make a single bow attack at his highest base attack bonus against any number of creatures in a 15-foot- radius burst, making separate attack and damage rolls for each creature. This ability replaces weapon training 4.
 
-**Ranged Defense (Ex** : At 19th level, an archer gains DR 5/— against ranged attacks. In addition, as an immediate action, he can catch an arrow fired at him and shoot it any target he chooses, as if he had the [Snatch Arrows](../../feats#_snatch-arrows) feat. This ability replaces armor mastery.
+**Ranged Defense (Ex)** : At 19th level, an archer gains DR 5/— against ranged attacks. In addition, as an immediate action, he can catch an arrow fired at him and shoot it any target he chooses, as if he had the [Snatch Arrows](../../feats#_snatch-arrows) feat. This ability replaces armor mastery.
 
 **Weapon Mastery (Ex)** : An archer must choose a type of bow.
 
@@ -43,7 +43,7 @@ The crossbowman has perfected the deadly use of the crossbow, a simple but cruel
 
 **Greater Deadshot (Ex)** : At 11th level, when a crossbowman attacks with a crossbow as a readied action, he may add his Dexterity bonus (minimum +1) on his damage roll. This ability replaces armor training 3.
 
-**Safe Shot (Ex** : At 13th level, a crossbowman does not provoke attacks of opportunity when making ranged attacks with a crossbow. This ability replaces weapon training 3.
+**Safe Shot (Ex)** : At 13th level, a crossbowman does not provoke attacks of opportunity when making ranged attacks with a crossbow. This ability replaces weapon training 3.
 
 **Pinpoint Targeting** : At 15th level, a crossbowman gains [Pinpoint Targeting](../../feats#_pinpoint-targeting) as a bonus feat. This ability replaces armor training 4.
 
@@ -77,11 +77,11 @@ Where some fighters focus on strength and raw power, the mobile fighter relies o
 
 **Leaping Attack (Ex)** : At 5th level, when a mobile fighter moves at least 5 feet prior to attacking, he gains a +1 bonus on attack and damage rolls. This bonus increases by +1 for every four levels beyond 5th. This ability replaces weapon training 1, 2, 3, and 4.
 
-**Rapid Attack (Ex** : At 11th level, a mobile fighter can combine a full attack action with a single move. He must forgo the attack at his highest bonus but may take the remaining attacks at any point during his movement. This movement provokes attacks of opportunity as normal. This ability replaces armor training 3.
+**Rapid Attack (Ex)** : At 11th level, a mobile fighter can combine a full attack action with a single move. He must forgo the attack at his highest bonus but may take the remaining attacks at any point during his movement. This movement provokes attacks of opportunity as normal. This ability replaces armor training 3.
 
-**[Fleet](../../feats#_fleet) Footed (Ex)** : At 15th level, the mobile fighter's speed increases by 10 feet. He can take 10 on [Acrobatics](../../skill_dir/acrobatics#_acrobatics checks even while distracted or threatened, and can take 20 on an [Acrobatics](../../skill_dir/acrobatics#_acrobatics) check once per day for every five fighter levels he possesses. This ability replaces armor training 4.
+**[Fleet](../../feats#_fleet) Footed (Ex)** : At 15th level, the mobile fighter's speed increases by 10 feet. He can take 10 on [Acrobatics](../../skill_dir/acrobatics#_acrobatics) checks even while distracted or threatened, and can take 20 on an [Acrobatics](../../skill_dir/acrobatics#_acrobatics) check once per day for every five fighter levels he possesses. This ability replaces armor training 4.
 
-**Whirlwind Blitz (Ex** : At 20th level, a mobile fighter can make a full-attack action as a standard action. He may also use the [Whirlwind Attack](../../feats#_whirlwind-attack) feat as a standard action. This ability replaces weapon mastery.
+**Whirlwind Blitz (Ex)** : At 20th level, a mobile fighter can make a full-attack action as a standard action. He may also use the [Whirlwind Attack](../../feats#_whirlwind-attack) feat as a standard action. This ability replaces weapon mastery.
 
 # Phalanx Soldier
 
@@ -121,7 +121,7 @@ The polearm master is schooled in the ancient wisdom that enemies are best faced
 
 **Step Aside (Ex)** : At 17th level, when a creature threatened by a polearm master takes a 5-foot step into a square adjacent to him, he can take a 5-foot step as an immediate action. This 5-foot step must be subtracted from his movement on the next turn. He also gains a +2 dodge bonus to his AC against that opponent until the end of his next turn. This ability replaces weapon training 4.
 
-**Polearm Parry (Ex** : At 19th level, when an opponent threatened by a polearm master makes a melee attack against an ally, he may take an immediate action to grant his ally a +2 shield bonus to AC and DR 5/— against that attack. He may use this ability to protect himself, but only if the attacking creature is not adjacent to him. This ability replaces armor mastery.
+**Polearm Parry (Ex)** : At 19th level, when an opponent threatened by a polearm master makes a melee attack against an ally, he may take an immediate action to grant his ally a +2 shield bonus to AC and DR 5/— against that attack. He may use this ability to protect himself, but only if the attacking creature is not adjacent to him. This ability replaces armor mastery.
 
 **Weapon Mastery (Ex)** : A polearm master must choose a spear or polearm.
 
@@ -135,11 +135,11 @@ Roughriders study and practice the fine points of mounted combat, drilling endle
 
 **Mounted Mettle (Ex)** : At 5th level, a roughrider and his mount gain a +1 bonus on attack and damage rolls when he is mounted or adjacent to his mount. This bonus increases by +1 for every four levels after 5th. This ability replaces weapon training 1, 2, 3, and 4.
 
-**Leap from the Saddle (Ex** : At 7th level, after a roughrider's mount takes a single move, he may attempt a fast dismount (DC 20 [Ride](../../skill_dir/ride#_ride) check). If he succeeds, he can take a full attack action. This ability replaces armor training 2.
+**Leap from the Saddle (Ex)** : At 7th level, after a roughrider's mount takes a single move, he may attempt a fast dismount (DC 20 [Ride](../../skill_dir/ride#_ride) check). If he succeeds, he can take a full attack action. This ability replaces armor training 2.
 
-**Relentless Steed (Ex** : At 11th level, a roughrider's mount does not reduce its speed when wearing heavy barding or carrying a heavy load. The roughrider may also reroll a [Ride](../../skill_dir/ride#_ride skill check or a saving throw made by the mount once per day, but must use the second roll even if it is worse. This ability may be used one additional time per day for every four levels beyond 11th. This ability replaces armor training 3.
+**Relentless Steed (Ex)** : At 11th level, a roughrider's mount does not reduce its speed when wearing heavy barding or carrying a heavy load. The roughrider may also reroll a [Ride](../../skill_dir/ride#_ride) skill check or a saving throw made by the mount once per day, but must use the second roll even if it is worse. This ability may be used one additional time per day for every four levels beyond 11th. This ability replaces armor training 3.
 
-**[Ride](../../skill_dir/ride#_ride) Them Down (Ex** : At 15th level, can spur his mount on while readying an attack. If a roughrider's mount takes a single move, the roughrider can make a full attack, taking his attacks at any point during his mount's movement. If he has the [Trample](../../feats#_trample) feat, he may substitute an overrun combat maneuver for each of his attacks. This movement provokes attacks of opportunity against the roughrider but not his mount. This ability replaces armor training 4.
+**[Ride](../../skill_dir/ride#_ride) Them Down (Ex)** : At 15th level, can spur his mount on while readying an attack. If a roughrider's mount takes a single move, the roughrider can make a full attack, taking his attacks at any point during his mount's movement. If he has the [Trample](../../feats#_trample) feat, he may substitute an overrun combat maneuver for each of his attacks. This movement provokes attacks of opportunity against the roughrider but not his mount. This ability replaces armor training 4.
 
 **Unavoidable Onslaught (Ex)** : At 15th level, a roughrider's mounted charge is not blocked by friendly creatures or difficult terrain. This ability replaces armor training 4.
 
@@ -155,7 +155,7 @@ Warriors' might is not measured only by their skill with steel, but also by thei
 
 **Savage Charge (Ex)** : At 9th level, when a savage warrior attacks with a natural weapon at the end of a charge, he gains a bonus on his natural weapon attack rolls equal to half his fighter level, while suffering a penalty to his AC equal to half his fighter level. These replace the normal attack roll bonus and AC penalty for charging. This bonus also applies to his CMB for a bull rush or overrun combat maneuvers made when charging. This ability replaces weapon training 2.
 
-**Careful Claw (Ex)** : At 13th level, when using a natural weapon to attack a creature using _ [fire shield](../../spell_dir/fireShield#_fire-shield)_ or a similar effect that damages creatures attacking it (such as a barbed devil's barbed defense, a savage warrior reduces the damage from such effects by an amount equal to 1/2 his fighter level. This ability replaces weapon training 3.
+**Careful Claw (Ex)** : At 13th level, when using a natural weapon to attack a creature using _ [fire shield](../../spell_dir/fireShield#_fire-shield)_ or a similar effect that damages creatures attacking it (such as a barbed devil's barbed defense), a savage warrior reduces the damage from such effects by an amount equal to 1/2 his fighter level. This ability replaces weapon training 3.
 
 **Greater Savage Charge (Ex)** : At 17th level, when using savage charge, the AC penalty is reduced to 1/4 his fighter level instead of 1/2 his fighter level. In addition, a savage warrior can charge through friendly creatures and difficult terrain. This ability replaces weapon training 4.
 
@@ -221,7 +221,7 @@ Trained under great masters who preached the simple truth that two are better th
 
 Devoted to the perfection of a single weapon, the weapon master's meditations upon his favored weapon border on the obsessive, but none can deny his consummate skill. The weapon master must select a single type of weapon (such as longsword or shortbow). All of his abilities apply to that weapon type.
 
-**Weapon Guard (Ex)** : At 2nd level, a weapon master gains a +1 bonus to CMD against disarm and sunder attempts while wielding his chosen weapon. This bonus also applies on saves against any effect that targets his chosen weapon (for example, _ [grease](../../spell_dir/grease#_grease, [heat metal](../../spell_dir/heatMetal#_heat-metal, [shatter](../../spell_dir/shatter#_shatter, [warp wood](../../spell_dir/warpWood#_warp-wood)_). The bonus increases by +1 for every four levels beyond 2nd. This ability replaces bravery.
+**Weapon Guard (Ex)** : At 2nd level, a weapon master gains a +1 bonus to CMD against disarm and sunder attempts while wielding his chosen weapon. This bonus also applies on saves against any effect that targets his chosen weapon (for example, _ [grease](../../spell_dir/grease#_grease), [heat metal](../../spell_dir/heatMetal#_heat-metal), [shatter](../../spell_dir/shatter#_shatter), [warp wood](../../spell_dir/warpWood#_warp-wood)_). The bonus increases by +1 for every four levels beyond 2nd. This ability replaces bravery.
 
 **Weapon Training (Ex)** : At 3rd level, a weapon master gains a +1 bonus on attack and damage rolls with his chosen weapon. The bonus improves by +1 for every four levels beyond 3rd. This ability replaces armor training 1, 2, 3, and 4.
 
@@ -233,5 +233,5 @@ Devoted to the perfection of a single weapon, the weapon master's meditations up
 
 **Critical Specialist (Ex)** : At 17th level, the save DCs of any effects caused by a critical hit with a weapon master's chosen weapon increase by +4. This ability replaces weapon training 4.
 
-**Unstoppable Strike (Ex)** : At 19th level, a weapon master can take a standard action to make one attack with his chosen weapon as a touch attack that ignores damage reduction (or hardness, if attacking an object. This ability replaces armor mastery.
+**Unstoppable Strike (Ex)** : At 19th level, a weapon master can take a standard action to make one attack with his chosen weapon as a touch attack that ignores damage reduction (or hardness, if attacking an object). This ability replaces armor mastery.
 

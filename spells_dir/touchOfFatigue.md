@@ -1,19 +1,19 @@
 ---
-title: spells/touchOfFatigue
+title: spell_dir/touchOfFatigue
 ---
  **Touch of Fatigue**
 
-**School** necromancy; **Level** sorcere_dir/wizard 0
+**School** necromancy; **Level** sorcerer/wizard 0
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a drop of sweat
+**Components** V, S, M (a drop of sweat)
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

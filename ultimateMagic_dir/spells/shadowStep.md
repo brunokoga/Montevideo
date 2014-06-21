@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spell_dir/shadowStep
+title: ultimateMagi_dir/spells/shadowStep
 ---
 Shadow Step
 
-**School** illusion (shadow [shadow]; **Level** bard 4, sorcerer/wizard 4, witch 4
+**School** illusion (shadow) [shadow]; **Level** bard 4, sorcere_dir/wizard 4, witch 4
 
 **Casting Time** 1 standard action
 

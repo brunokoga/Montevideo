@@ -1,5 +1,5 @@
 ---
-title: advancedRaceGuide/coreRace_dir/humans
+title: advancedRaceGuid_dir/coreRaces/humans
 ---
 # Humans
 
@@ -45,35 +45,35 @@ Humans are as adaptable as they are varied. The following rules reflect this fle
 
 The following racial traits may be selected instead of existing human racial traits. Consult your GM before selecting any of these new options.
 
-**Adoptive Parentage** : Humans are sometimes orphaned and adopted by other races. Choose one humanoid race without the human subtype. You start play with that race's languages and gain that race's weapon familiarity racial trait (if any). If the race does not have weapon familiarity, you gain either [Skill Focus](feats#_skill-focus) or [Weapon Focus](feats#_weapon-focus as a bonus feat that is appropriate for that race instead. This racial trait replaces the bonus feat trait.
+**Adoptive Parentage** : Humans are sometimes orphaned and adopted by other races. Choose one humanoid race without the human subtype. You start play with that race's languages and gain that race's weapon familiarity racial trait (if any). If the race does not have weapon familiarity, you gain either [Skill Focus](feats#_skill-focus) or [Weapon Focus](feats#_weapon-focus) as a bonus feat that is appropriate for that race instead. This racial trait replaces the bonus feat trait.
 
 **Dual Talent** : Some humans are uniquely skilled at maximizing their natural gifts. These humans pick two ability scores and gain a +2 racial bonus in each of those scores. This racial trait replaces the +2 bonus to any one ability score, the bonus feat, and the skilled traits.
 
 **Eye for Talent** : Humans have great intuition for hidden potential. They gain a +2 racial bonus on [Sense Motive](skill_dir/senseMotive#_sense-motive) checks. In addition, when they acquire an animal companion, bonded mount, cohort, or familiar, that creature gains a +2 bonus to one ability score of the character's choice. This racial trait replaces the bonus feat trait.
 
-**Focused Study** : All humans are skillful, but some, rather than being generalists, tend to specialize in a handful of skills. At 1st, 8th, and 16th level, such humans gain [Skill Focus](feats#_skill-focus in a skill of their choice as a bonus feat. This racial trait replaces the bonus feat trait.
+**Focused Study** : All humans are skillful, but some, rather than being generalists, tend to specialize in a handful of skills. At 1st, 8th, and 16th level, such humans gain [Skill Focus](feats#_skill-focus) in a skill of their choice as a bonus feat. This racial trait replaces the bonus feat trait.
 
-**Heart of the Fields** : Humans born in rural areas are used to hard labor. They gain a racial bonus equal to half their character level to any one [Craft](skill_dir/craft#_craft or [Profession](skill_dir/profession#_profession skill, and once per day they may ignore an effect that would cause them to become fatigued or exhausted. This racial trait replaces skilled.
+**Heart of the Fields** : Humans born in rural areas are used to hard labor. They gain a racial bonus equal to half their character level to any one [Craft](skills/craft#_craft) or [Profession](skill_dir/profession#_profession) skill, and once per day they may ignore an effect that would cause them to become fatigued or exhausted. This racial trait replaces skilled.
 
-**Heart of the Mountains** : Humans born in the mountains are skilled at negotiating heights and precipices. They gain a +2 racial bonus on [Climb](skill_dir/climb#_climb checks and [Acrobatics](skill_dir/acrobatics#_acrobatics checks to move on narrow surfaces and uneven ground. Furthermore, they are considered acclimated to the effects of high altitude. This racial trait replaces skilled.
+**Heart of the Mountains** : Humans born in the mountains are skilled at negotiating heights and precipices. They gain a +2 racial bonus on [Climb](skills/climb#_climb) checks and [Acrobatics](skill_dir/acrobatics#_acrobatics) checks to move on narrow surfaces and uneven ground. Furthermore, they are considered acclimated to the effects of high altitude. This racial trait replaces skilled.
 
-**Heart of the Sea** : Humans born near the sea are always drawn to it. They gain a +2 racial bonus on [Profession](skill_dir/profession#_profession) (sailor and [Swim](skill_dir/swim#_swim checks, and these are always class skills for them. They can hold their breath twice as long as normal, and spellcasters gain a +4 racial bonus on concentration checks when attempting to cast spells underwater. This racial trait replaces skilled.
+**Heart of the Sea** : Humans born near the sea are always drawn to it. They gain a +2 racial bonus on [Profession](skills/profession#_profession) (sailor) and [Swim](skill_dir/swim#_swim) checks, and these are always class skills for them. They can hold their breath twice as long as normal, and spellcasters gain a +4 racial bonus on concentration checks when attempting to cast spells underwater. This racial trait replaces skilled.
 
-**Heart of the Slums** : Humans who eke out a life in a city's teeming slums must be quick and clever. They gain a +2 racial bonus on [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand and [Stealth](skill_dir/stealth#_stealth checks, and a +4 racial bonus on [Survival](skill_dir/survival#_survival checks in urban and underground settings. In addition, they may roll twice when saving against disease, taking the better roll. This racial trait replaces skilled.
+**Heart of the Slums** : Humans who eke out a life in a city's teeming slums must be quick and clever. They gain a +2 racial bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) and [Stealth](skill_dir/stealth#_stealth) checks, and a +4 racial bonus on [Survival](skills/survival#_survival) checks in urban and underground settings. In addition, they may roll twice when saving against disease, taking the better roll. This racial trait replaces skilled.
 
-**Heart of the Snows** : Humans born in chilly climes treat cold climates as one category less severe. They gain a +2 racial bonus on Fortitude saving throws against the effects of cold climates, on any check or saving throw to avoid slipping and falling, and to CMD against trip combat maneuvers. This bonus applies on [Acrobatics](skill_dir/acrobatics#_acrobatics and [Climb](skill_dir/climb#_climb checks made in slippery conditions. This racial trait replaces skilled.
+**Heart of the Snows** : Humans born in chilly climes treat cold climates as one category less severe. They gain a +2 racial bonus on Fortitude saving throws against the effects of cold climates, on any check or saving throw to avoid slipping and falling, and to CMD against trip combat maneuvers. This bonus applies on [Acrobatics](skill_dir/acrobatics#_acrobatics) and [Climb](skills/climb#_climb) checks made in slippery conditions. This racial trait replaces skilled.
 
 **Heart of the Streets** : Humans from bustling cities are skilled with crowds. They gain a +1 racial bonus on Reflex saves and a +1 dodge bonus to Armor Class when adjacent to at least two other allies. Crowds do not count as difficult terrain for them. This racial trait replaces skilled.
 
 **Heart of the Sun** : Humans born in tropical climates treat hot climates as one category less severe. They also gain a +2 racial bonus on Fortitude saving throws against the effects of a hot climate, as well as against the poison and distraction ability of swarms and vermin. This racial trait replaces skilled.
 
-**Heart of the Wilderness** : Humans raised in the wild learn the hard way that only the strong survive. They gain a racial bonus equal to half their character level on [Survival](skill_dir/survival#_survival checks. They also gain a +5 racial bonus on Constitution checks to stabilize when dying and add half their character level to their Constitution score when determining the negative hit point total necessary to kill them. This racial trait replaces skilled.
+**Heart of the Wilderness** : Humans raised in the wild learn the hard way that only the strong survive. They gain a racial bonus equal to half their character level on [Survival](skill_dir/survival#_survival) checks. They also gain a +5 racial bonus on Constitution checks to stabilize when dying and add half their character level to their Constitution score when determining the negative hit point total necessary to kill them. This racial trait replaces skilled.
 
 **Heroic** : Some humans are born heroes. In campaigns that use the optional hero point system, each time these humans gain a level, they gain 2 hero points instead of 1. If they take the Blood of Heroes feat, they gain 3 hero points each level instead of 2. This racial trait replaces the bonus feat trait.
 
 **Mixed Heritage** : Often human civilization is defined by more than one characteristic. A human with this trait may select a second "Heart of the" racial trait. This replaces the bonus feat racial trait.
 
-**Silver Tongued** : Human are often adept at subtle manipulation and putting even sworn foes at ease. Humans with this trait gain a +2 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy and [Bluff](skill_dir/bluff#_bluff checks. In addition, when they use [Diplomacy](skill_dir/diplomacy#_diplomacy) to shift a creature's attitude, they can shift up to three steps up rather than just two. This racial trait replaces skilled.
+**Silver Tongued** : Human are often adept at subtle manipulation and putting even sworn foes at ease. Humans with this trait gain a +2 bonus on [Diplomacy](skills/diplomacy#_diplomacy) and [Bluff](skill_dir/bluff#_bluff) checks. In addition, when they use [Diplomacy](skills/diplomacy#_diplomacy) to shift a creature's attitude, they can shift up to three steps up rather than just two. This racial trait replaces skilled.
 
 ## Racial Subtypes
 
@@ -83,7 +83,7 @@ You can combine various alternate racial traits to create human subraces or vari
 
 **Country Folk** : These humans are suited to life in the countryside. Replace the skilled racial trait with heart of the fields and the bonus feat racial trait with focused study.
 
-**Gutter Rat** : Often second-class citizens living in sprawling ghettos and slums, these humans work hard to eke out an existence in a city. Replace the skilled racial trait with heart of the slums and the bonus feat racial trait with mixed heritage (heart of the streets.
+**Gutter Rat** : Often second-class citizens living in sprawling ghettos and slums, these humans work hard to eke out an existence in a city. Replace the skilled racial trait with heart of the slums and the bonus feat racial trait with mixed heritage (heart of the streets).
 
 **Imperious Human** : Hailing from either an empire, an emerging nation, or a controlling city-state, these humans are arrogant expansionists, absorbing others to their causes and culture. Replace the skilled racial trait with silver tongued and the bonus feat racial trait with eye for talent.
 
@@ -105,7 +105,7 @@ The following options are available to all humans who have the listed favored cl
 
 **Cleric** : Add a +1 bonus on caster level checks made to overcome the spell resistance of outsiders.
 
-**Druid** : Add a +1/2 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy and [Intimidate](skill_dir/intimidate#_intimidate checks to change a creature's attitude.
+**Druid** : Add a +1/2 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy) and [Intimidate](skills/intimidate#_intimidate) checks to change a creature's attitude.
 
 **Fighter** : Add +1 to the fighter's CMD when resisting two combat maneuvers of the character's choice.
 
@@ -145,45 +145,45 @@ Freebooters who cling to the convoluted codes that rule independent ships, the b
 
 > _Seadog's Gait (Ex)_: At 1st level, the buccaneer gains [Sea Legs](ultimateComba_dir/ultimateCombatFeats#_sea-legs) as a bonus feat. If she spends 1 grit point, she can ignore difficult terrain until the end of her turn. This replaces the quick clear deed.
 > 
-> _Pirate's Jargon (Ex_: At 3rd level, the buccaneer's baffling palaver of nautical jargon and piratical cant provides a +2 bonus on [Bluff](skill_dir/bluff#_bluff and [Intimidate](skill_dir/intimidate#_intimidate checks. Furthermore, she can spend a swift action and 1 grit point to cause a single living creature within 30 feet to make a Will saving throw (DC = 10 + 1/2 her buccaneer level + her Charisma modifier) or become confused for 1 round. This is a mind-affecting language-dependent effect. This replaces the pistol whip deed.
+> _Pirate's Jargon (Ex)_: At 3rd level, the buccaneer's baffling palaver of nautical jargon and piratical cant provides a +2 bonus on [Bluff](skills/bluff#_bluff) and [Intimidate](skill_dir/intimidate#_intimidate) checks. Furthermore, she can spend a swift action and 1 grit point to cause a single living creature within 30 feet to make a Will saving throw (DC = 10 + 1/2 her buccaneer level + her Charisma modifier) or become confused for 1 round. This is a mind-affecting language-dependent effect. This replaces the pistol whip deed.
 > 
-> _Rope Swing (Ex): _At 7th level, as long as the buccaneer has at least 1 grit point, she gains a bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics and [Climb](skill_dir/climb#_climb) checks equal to her gunslinger level when climbing or swinging on a rope. If she spends 1 grit point, her move while climbing or swinging on a rope does not provoke attacks of opportunity. This replaces the dead shot deed.
+> _Rope Swing (Ex): _At 7th level, as long as the buccaneer has at least 1 grit point, she gains a bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics) and [Climb](skills/climb#_climb) checks equal to her gunslinger level when climbing or swinging on a rope. If she spends 1 grit point, her move while climbing or swinging on a rope does not provoke attacks of opportunity. This replaces the dead shot deed.
 > 
 > _Captain's Curse (Sp): _At 11th level, a buccaneer can spend 2 grit points to use _old salt's curse _as a spell-like ability. At 15th level, she may use _black mark _instead. The caster level for these spell-like abilities is equal to the buccaneer's class level, and the save DC is equal to 10 + her buccaneer level + her Charisma modifier. This replaces the lightning reload deed.
 
 **Grit (Ex)** : Like the sea itself, a buccaneer is a force of nature. Instead of using her Wisdom modifier to determine the number of grit points she gains at the start of each day, she uses her Charisma modifier. This ability works in all other ways like the gunslinger's grit class feature.
 
-**Liquid Courage (Ex)** : At 2nd level, a buccaneer gains the ability to fortify her grit with strong drink. The act of drinking is a standard action that provokes attacks of opportunity, and each drink provides 1 grog point. Grog points can be used in place of grit points to fuel deeds or grit feats (including those requiring a minimum of 1 grit point to use). The buccaneer can gain a maximum number of grog points each day equal to her Constitution modifier (minimum 1, and they last for 1 hour or until used, whichever comes first. She gains a morale bonus on saves against fear and a dodge bonus to AC against attacks of opportunity equal to her current grog point total. This ability replaces the nimble ability.
+**Liquid Courage (Ex)** : At 2nd level, a buccaneer gains the ability to fortify her grit with strong drink. The act of drinking is a standard action that provokes attacks of opportunity, and each drink provides 1 grog point. Grog points can be used in place of grit points to fuel deeds or grit feats (including those requiring a minimum of 1 grit point to use). The buccaneer can gain a maximum number of grog points each day equal to her Constitution modifier (minimum 1), and they last for 1 hour or until used, whichever comes first. She gains a morale bonus on saves against fear and a dodge bonus to AC against attacks of opportunity equal to her current grog point total. This ability replaces the nimble ability.
 
-**Bonus Feat** : In addition to combat and grit feats, a buccaneer can select from the following feats as her bonus feats: [Expert Driver](ultimateComba_dir/ultimateCombatFeats#_expert-driver) (water vehicles only, [Master Siege Engineer](ultimateComba_dir/ultimateCombatFeats#_master-siege-engineer, [Siege Engineer](ultimateComba_dir/ultimateCombatFeats#_siege-engineer, [Siege Gunner](ultimateComba_dir/ultimateCombatFeats#_siege-gunner, [Skilled Driver](ultimateComba_dir/ultimateCombatFeats#_skilled-driver) (water vehicles only).
+**Bonus Feat** : In addition to combat and grit feats, a buccaneer can select from the following feats as her bonus feats: [Expert Driver](ultimateComba_dir/ultimateCombatFeats#_expert-driver) (water vehicles only), [Master Siege Engineer](ultimateCombat/ultimateCombatFeats#_master-siege-engineer), [Siege Engineer](ultimateComba_dir/ultimateCombatFeats#_siege-engineer), [Siege Gunner](ultimateCombat/ultimateCombatFeats#_siege-gunner), [Skilled Driver](ultimateComba_dir/ultimateCombatFeats#_skilled-driver) (water vehicles only).
 
-**Exotic Pet (Ex)** : At 5th level, a buccaneer gains a familiar as a wizard of half the buccaneer's class level (though the exotic pet never gains the ability to deliver touch spells or share spells). This pet is typically a monkey or parrot (use the stats for a raven familiar. Such animals are useful scouts, even in the thick of combat. As long as the pet is within 30 feet of the buccaneer, the buccaneer also gains the benefit of evasion. This ability replaces gun training 1.
+**Exotic Pet (Ex)** : At 5th level, a buccaneer gains a familiar as a wizard of half the buccaneer's class level (though the exotic pet never gains the ability to deliver touch spells or share spells). This pet is typically a monkey or parrot (use the stats for a raven familiar). Such animals are useful scouts, even in the thick of combat. As long as the pet is within 30 feet of the buccaneer, the buccaneer also gains the benefit of evasion. This ability replaces gun training 1.
 
-**Sword and Pistol** : At 9th level, a buccaneer gains [Sword and Pistol](ultimateComba_dir/ultimateCombatFeats#_sword-and-pistol) as a bonus feat even if she does not meet the prerequisites. This ability replaces gun training 2.
+**Sword and Pistol** : At 9th level, a buccaneer gains [Sword and Pistol](ultimateCombat/ultimateCombatFeats#_sword-and-pistol) as a bonus feat even if she does not meet the prerequisites. This ability replaces gun training 2.
 
 **Gun Training (Ex)** : A buccaneer gains this ability only at 13th level with a single type of firearm.
 
 **Raider's Riposte (Ex)** : At 17th level, whenever an enemy misses a buccaneer with an attack of opportunity, it provokes an attack of opportunity from the buccaneer. This ability replaces gun training 4.
 
-## Feral Child (Druid
+## Feral Child (Druid)
 
 Some youths, abandoned in the wilderness and then raised by animals, are so connected with their adoptive home and family that they become feral. Suspicious of civilized society, these foundlings often choose allegiance to the wild over their human forebears. A feral child has the following class features.
 
 **Weapon and Armor Proficiency** : A feral child loses proficiency with the scimitar, scythe, and sickle and with shields.
 
-**Class Skills** : A feral child adds [Acrobatics](skill_dir/acrobatics#_acrobatics to her list of class skills and removes [Fly](skill_dir/fly#_fly and [Profession](skill_dir/profession#_profession from her list of class skills.
+**Class Skills** : A feral child adds [Acrobatics](skill_dir/acrobatics#_acrobatics) to her list of class skills and removes [Fly](skills/fly#_fly) and [Profession](skill_dir/profession#_profession) from her list of class skills.
 
-**Illiteracy:** At 1st level, a feral child is unable to read and write, though she may learn by taking 1 rank of [Linguistics](skill_dir/linguistics#_linguistics). She does not gain Druidic as a free language and cannot select Sylvan as a bonus language.
+**Illiteracy:** At 1st level, a feral child is unable to read and write, though she may learn by taking 1 rank of [Linguistics](skills/linguistics#_linguistics). She does not gain Druidic as a free language and cannot select Sylvan as a bonus language.
 
 **Improved Unarmed Strike** : At 1st level, a feral child gains [Improved Unarmed Strike](feats#_improved-unarmed-strike) as a bonus feat.
 
-**Beast Family (Ex** : At 1st level, a feral child may choose one specific type of animal as the type that raised her. She gains a +2 circumstance bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal and wild empathy checks with animals of that type, and she can communicate with them as if using a continual _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals) _spell-like ability, but this ability is nonmagical.
+**Beast Family (Ex)** : At 1st level, a feral child may choose one specific type of animal as the type that raised her. She gains a +2 circumstance bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal) and wild empathy checks with animals of that type, and she can communicate with them as if using a continual _ [speak with animals](spells/speakWithAnimals#_speak-with-animals) _spell-like ability, but this ability is nonmagical.
 
 **Nature Bond (Ex)** : At 1st level, a feral child must select an animal companion as her nature bond.
 
 **Favored Terrain (Ex)** : At 3rd level, a feral child gains the favored terrain ability as a ranger of her class level. A feral child may not choose urban as a favored terrain. This ability replaces trackless step and a thousand faces.
 
-**Native Cunning (Ex** : At 3rd level, a feral child gains trap sense as a barbarian of equal level, and in her favored terrain, she immediately receives a [Perception](skill_dir/perception#_perception) check to notice traps within 10 feet, as the trap spotter rogue talent. In addition, at 3rd level and every three levels thereafter, she may choose one combat maneuver, and gains a bonus equal to her trap sense bonus to her CMD against that maneuver. This ability replaces wild shape.
+**Native Cunning (Ex)** : At 3rd level, a feral child gains trap sense as a barbarian of equal level, and in her favored terrain, she immediately receives a [Perception](skill_dir/perception#_perception) check to notice traps within 10 feet, as the trap spotter rogue talent. In addition, at 3rd level and every three levels thereafter, she may choose one combat maneuver, and gains a bonus equal to her trap sense bonus to her CMD against that maneuver. This ability replaces wild shape.
 
 **Native Fortitude (Ex)** : At 4th level, a feral child gains a +1 bonus on saving throws against disease, exhaustion, fatigue, fear, and poison. When she is in her favored terrain, she instead applies her favored terrain bonus on such saving throws. She also recovers from ability damage, exhaustion, and fatigue at twice the normal rate. This ability replaces resist nature's lure.
 
@@ -193,50 +193,50 @@ At 17th level, when the feral child uses _summon nature's ally_ spells to summon
 
 This ability replaces venom immunity and timeless body.
 
-## Imperious Bloodline (Sorcerer
+## Imperious Bloodline (Sorcerer)
 
 A scion of forgotten kings, with a lineage rich with the dust of ancient empires spanning every golden age of humanity's history, an imperious embodies the apex of human potential, as well as human temerity and uninhibited hubris.
 
-**Class Skill** : [Perform](skill_dir/perform#_perform) (oratory.
+**Class Skill** : [Perform](skills/perform#_perform) (oratory).
 
-**Bonus Spells** : _ [moment of greatness](ultimateCombat/spell_dir/momentOfGreatness#_moment-of-greatness _, _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)_ (5th, _ [heroism](spell_dir/heroism#_heroism) _(7th, _ [threefold aspect](advanced/spell_dir/threefoldAspect#_threefold-aspect) _(9th, _ [greater command](spell_dir/command#_command-greater) _(11th), _pure strain _(13th, _ [greater age resistance](ultimateMagic/spell_dir/ageResistance#_age-resistance,-greater_, _ [prediction of failure](ultimateMagic/spell_dir/predictionOfFailure#_prediction-of-failure _, _ [overwhelming presence](ultimateMagic/spell_dir/overwhelmingPresence#_overwhelming-presence) _(19th).
+**Bonus Spells** : _ [moment of greatness](ultimateComba_dir/spells/momentOfGreatness#_moment-of-greatness) _, _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)_ (5th), _ [heroism](spells/heroism#_heroism) _(7th), _ [threefold aspect](advance_dir/spells/threefoldAspect#_threefold-aspect) _(9th), _ [greater command](spell_dir/command#_command-greater) _(11th), _pure strain _(13th), _ [greater age resistance](ultimateMagic/spell_dir/ageResistance#_age-resistance,-greater)_, _ [prediction of failure](ultimateMagic/spell_dir/predictionOfFailure#_prediction-of-failure) _, _ [overwhelming presence](ultimateMagic/spell_dir/overwhelmingPresence#_overwhelming-presence) _(19th).
 
-**Bonus Feats** : Diehard, [Endurance](feats#_endurance, [Heroic Defiance](advance_dir/advancedFeats#_heroic-defiance, [Heroic Recovery](advance_dir/advancedFeats#_heroic-recovery), [Improved Initiative](feats#_improved-initiative, [Lingering Spell](advance_dir/advancedFeats#_lingering-spell), [Magical Aptitude](feats#_magical-aptitude), [Persuasive](feats#_persuasive.
+**Bonus Feats** : Diehard, [Endurance](feats#_endurance), [Heroic Defiance](advanced/advancedFeats#_heroic-defiance), [Heroic Recovery](advance_dir/advancedFeats#_heroic-recovery), [Improved Initiative](feats#_improved-initiative), [Lingering Spell](advanced/advancedFeats#_lingering-spell), [Magical Aptitude](feats#_magical-aptitude), [Persuasive](feats#_persuasive).
 
 **Bloodline Arcana** : Whenever you cast a harmful spell, you gain a bonus equal to the spell's level on [Intimidate](skill_dir/intimidate#_intimidate) checks made against any creature adversely effected by that spell until the end of your next turn. Adversely effected typically means damage, but it can also mean debilitating effects or conditions.
 
 **Bloodline Powers** : You draw upon ancestors both legendary and forgotten.
 
-> _Student of Humanity (Ex_: At 1st level, you gain [Diplomacy](skill_dir/diplomacy#_diplomacy, [Knowledge](skill_dir/knowledge#_knowledge) (history, [Knowledge](skill_dir/knowledge#_knowledge) (local, [Knowledge](skill_dir/knowledge#_knowledge) (nobility, and [Linguistics](skill_dir/linguistics#_linguistics) as class skills. In addition, when using these skills to learn, study, or gather information about humans, you add an insight bonus equal to your Charisma bonus on such checks.
+> _Student of Humanity (Ex)_: At 1st level, you gain [Diplomacy](skills/diplomacy#_diplomacy), [Knowledge](skill_dir/knowledge#_knowledge) (history), [Knowledge](skills/knowledge#_knowledge) (local), [Knowledge](skill_dir/knowledge#_knowledge) (nobility), and [Linguistics](skills/linguistics#_linguistics) as class skills. In addition, when using these skills to learn, study, or gather information about humans, you add an insight bonus equal to your Charisma bonus on such checks.
 > 
 > _Heroic Echo (Su)_: At 3rd level, when you receive a morale bonus from any spell, spell-like ability, or magic item, including those you cast on yourself, that bonus increases by +1. At 9th level, this ability also applies to competence bonuses. If you receive a morale effect (or a competence effect at 9th level) that affects an area or multiple targets, as an immediate action you can share your increased bonus with all other recipients. This increase to other participants lasts a number of rounds equal to your Charisma bonus. You can use this ability once per day, plus one time per three levels after 3rd.
 > 
-> _Take Your Best Shot (Su_: At 9th level, if you are targeted by a harmful spell, spell-like ability, or supernatural ability and suffer no harm from it, whether because of a successful saving throw, spell resistance, the attack missing, or some other protection, as an immediate action you can make an [Intimidate](skill_dir/intimidate#_intimidate) check to demoralize the creature that produced the effect, but only if the creature that used the harmful effect is within 30 feet and can clearly see and hear you.
+> _Take Your Best Shot (Su)_: At 9th level, if you are targeted by a harmful spell, spell-like ability, or supernatural ability and suffer no harm from it, whether because of a successful saving throw, spell resistance, the attack missing, or some other protection, as an immediate action you can make an [Intimidate](skill_dir/intimidate#_intimidate) check to demoralize the creature that produced the effect, but only if the creature that used the harmful effect is within 30 feet and can clearly see and hear you.
 > 
 > At 13th level, you can use this ability after succeeding at a saving throw to reduce the effects of an attack (if no save is allowed, you cannot use this ability).
 > 
 > _Heroic Legends (Su)_: At 15th level, you may inspire greatness or inspire heroics as a bard of your sorcerer level by sacrificing a spell slot as a swift or move action. The effect lasts a number of rounds equal to the sacrificed spell's level; this duration is doubled for human recipients.
 > 
 > _Immortal Legend (Ex)_: At 20th level, you cease aging; no longer need to eat, drink, or sleep; and gain immunity to death effects and energy drain.
-## Wanderer (Monk
+## Wanderer (Monk)
 
 Some monks wander the world in humility to learn and to share wisdom and philosophy from their teachers with those they meet, often aiding those who are in need. A wanderer has the following class features.
 
-**Class Skills** : The wanderer adds [Diplomacy](skill_dir/diplomacy#_diplomacy, [Knowledge](skill_dir/knowledge#_knowledge) (geography, [Knowledge](skill_dir/knowledge#_knowledge) (local, [Linguistics](skill_dir/linguistics#_linguistics, and [Survival](skill_dir/survival#_survival) to his list of class skills.
+**Class Skills** : The wanderer adds [Diplomacy](skills/diplomacy#_diplomacy), [Knowledge](skill_dir/knowledge#_knowledge) (geography), [Knowledge](skills/knowledge#_knowledge) (local), [Linguistics](skill_dir/linguistics#_linguistics), and [Survival](skills/survival#_survival) to his list of class skills.
 
 **Far Traveler (Ex)** : At 1st level, the wanderer gains either one additional language known or proficiency in one exotic or martial weapon. At 4th level and every four levels thereafter, the wanderer may gain an additional language known or may retrain her weapon proficiency from this ability to a different exotic or martial weapon. This ability replaces the bonus feat gained at 1st level.
 
 **Long Walk (Ex)** : At 3rd level, the wanderer gains [Endurance](feats#_endurance) as a bonus feat, and the feat bonus doubles when he makes Constitution checks because of a forced march. In addition, a wanderer gains a +2 bonus on saving throws against spells and effects that cause exhaustion and fatigue. This ability replaces still mind.
 
-**Light Step (Su** : At 5th level, a wanderer leaves no trail and cannot be tracked, though he can leave a trail if desired. By spending 1 point from his _ki _pool, he can use _ [ant haul](advanced/spell_dir/antHaul#_ant-haul-_, _ [feather step](advanced/spell_dir/featherStep#_feather-step_, _ [longstrider](spell_dir/longstrider#_longstrider_,_ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace_, or _ [tireless pursuit](advanced/spell_dir/tirelessPursuit#_tireless-pursuit) _ as a spell-like ability (with a caster level equal to his monk level). This ability replaces slow fall.
+**Light Step (Su)** : At 5th level, a wanderer leaves no trail and cannot be tracked, though he can leave a trail if desired. By spending 1 point from his _ki _pool, he can use _ [ant haul](advance_dir/spells/antHaul#_ant-haul-)_, _ [feather step](advance_dir/spells/featherStep#_feather-step)_, _ [longstrider](spell_dir/longstrider#_longstrider)_,_ [pass without trace](spells/passWithoutTrace#_pass-without-trace)_, or _ [tireless pursuit](advance_dir/spells/tirelessPursuit#_tireless-pursuit) _ as a spell-like ability (with a caster level equal to his monk level). This ability replaces slow fall.
 
-**Inscrutable (Su** : At 5th level, the wanderer gains a supernatural air of mystery. The DC to gain information or insight into the wanderer with [Diplomacy](skill_dir/diplomacy#_diplomacy, [Knowledge](skill_dir/knowledge#_knowledge skills, or [Sense Motive](skill_dir/senseMotive#_sense-motive increases by 5. In addition, by spending 1 point from his _ki _pool, the wanderer gains _ [nondetection](spell_dir/nondetection#_nondetection)_ for 24 hours with a caster level equal to his monk level. This ability replaces high jump.
+**Inscrutable (Su)** : At 5th level, the wanderer gains a supernatural air of mystery. The DC to gain information or insight into the wanderer with [Diplomacy](skill_dir/diplomacy#_diplomacy), [Knowledge](skills/knowledge#_knowledge) skills, or [Sense Motive](skill_dir/senseMotive#_sense-motive) increases by 5. In addition, by spending 1 point from his _ki _pool, the wanderer gains _ [nondetection](spells/nondetection#_nondetection)_ for 24 hours with a caster level equal to his monk level. This ability replaces high jump.
 
 **Wanderer's Wisdom (Ex)** : At 7th level, the wanderer can dispense excellent advice in the form of philosophical proverbs and parables. As a swift action, the wanderer can inspire courage or inspire competence as a bard of his monk level by spending 2 points from his _ki _pool. This affects one creature within 30 feet and lasts a number of rounds equal to the wanderer's Wisdom modifier (minimum 1 round). This ability is language-dependent. This ability replaces wholeness of body.
 
-**Disappear Unnoticed (Ex** : At 12th level, the wanderer may use [Stealth](skill_dir/stealth#_stealth) to hide even while being directly observed or when no cover or concealment is available, as long as he is adjacent to at least one creature of his size or larger, by spending 1 point from his _ki _pool. This effect lasts until the beginning of the wanderer's next turn and may be continued in consecutive rounds by spending 1 _ki_ point each round. This ability replaces abundant step.
+**Disappear Unnoticed (Ex)** : At 12th level, the wanderer may use [Stealth](skill_dir/stealth#_stealth) to hide even while being directly observed or when no cover or concealment is available, as long as he is adjacent to at least one creature of his size or larger, by spending 1 point from his _ki _pool. This effect lasts until the beginning of the wanderer's next turn and may be continued in consecutive rounds by spending 1 _ki_ point each round. This ability replaces abundant step.
 
-**Free Step (Su** : At 13th level, the wanderer gains continuous _ [freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement_ as a continuous spell-like ability_._ This ability replaces diamond soul.
+**Free Step (Su)** : At 13th level, the wanderer gains continuous _ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement)_ as a continuous spell-like ability_._ This ability replaces diamond soul.
 
 # New Racial Rules
 
@@ -246,9 +246,9 @@ The following options are available to humans. At the GM's discretion, other app
 
 Humans have access to the following equipment.
 
-**Training Harness** : This specialized gear must be tailored to a specific type of animal. A training harness provides a +2 bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal checks made with an animal wearing it.
+**Training Harness** : This specialized gear must be tailored to a specific type of animal. A training harness provides a +2 bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal) checks made with an animal wearing it.
 
-**Whip, Training** : This short lash has a reach of only 10 feet, but is otherwise identical to a normal whip. The wielder gains a +2 circumstance bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal checks to push a trained animal and on [Intimidate](skill_dir/intimidate#_intimidate) checks made to demoralize any animal as long as the animal is within the whip's reach. When using the whip to demoralize a trained animal, the wielder may choose to fascinate the animal rather than causing it to become shaken for the same duration as the shaken condition, but the fascinate effect ends if line of sight between the wielder and the animal is broken.
+**Whip, Training** : This short lash has a reach of only 10 feet, but is otherwise identical to a normal whip. The wielder gains a +2 circumstance bonus on [Handle Animal](skills/handleAnimal#_handle-animal) checks to push a trained animal and on [Intimidate](skill_dir/intimidate#_intimidate) checks made to demoralize any animal as long as the animal is within the whip's reach. When using the whip to demoralize a trained animal, the wielder may choose to fascinate the animal rather than causing it to become shaken for the same duration as the shaken condition, but the fascinate effect ends if line of sight between the wielder and the animal is broken.
 
 [Human Equipment]
 | Item | Cost | Weight |
@@ -268,7 +268,7 @@ You are extremely lucky and sometimes your allies are as well.
 
 **Benefit** : You gain an extra use per day of your Defiant Luck ability. You can also use your Inexplicable Luck ability to grant an ally that can see and hear its benefit as an immediate action.
 
-### Critical Versatility (Combat
+### Critical Versatility (Combat)
 
 An open mind and combat training grant versatility to your critical hits.
 
@@ -280,7 +280,7 @@ An open mind and combat training grant versatility to your critical hits.
 
 Your ability to avert disaster is impressive.
 
-**Prerequisites** : Cha 13, Fearless Curiosity, [Intimidate](skill_dir/intimidate#_intimidate 10 ranks, human.
+**Prerequisites** : Cha 13, Fearless Curiosity, [Intimidate](skills/intimidate#_intimidate) 10 ranks, human.
 
 **Benefit** : You gain a +1 bonus on saving throws against effects with the emotion descriptor; this bonus stacks with those granted by Fearless Curiosity and Intimidating Confidence. In addition, once per day you may reroll a natural 1 on a saving throw or an attack roll. If your reroll results in a successful saving throw or attack roll, as a free action you can make an [Intimidate](skill_dir/intimidate#_intimidate) check to demoralize the target of your attack or the creature that forced you to make a saving throw, as long as the creature is within 30 feet and can see and hear you. This effect does not apply on saving throws against traps or other objects. This does not stack with other effects that allow you to reroll a saving throw or an attack roll. You may only make one reroll.
 
@@ -314,7 +314,7 @@ Your desire to see and experience the world overrides healthy caution.
 
 Your indomitable will breaks free from mental shackles.
 
-**Prerequisites** : [Iron Will](feats#_iron-will, base Will save +4, human.
+**Prerequisites** : [Iron Will](feats#_iron-will), base Will save +4, human.
 
 **Benefit** : Once per day as a standard action, you may attempt a new saving throw against a harmful condition requiring a Will save that is affecting you. If you are dominated, controlled, or cannot take an action because of the effect against which you are trying to make a new saving throw, you can make this saving throw at the start of the turn as no action, but on a success, your turn ends. You cannot use this feat to remove instantaneous effects, effects that do not require a Will save, or effects that do not allow a saving throw.
 
@@ -322,11 +322,11 @@ Your indomitable will breaks free from mental shackles.
 
 You are an expert trainer of horses, hounds, falcons, or hunting cats.
 
-**Prerequisites** : [Handle Animal](skill_dir/handleAnimal#_handle-animal) 1 rank; either the animal companion, divine bond (mount), or mount class feature; human.
+**Prerequisites** : [Handle Animal](skills/handleAnimal#_handle-animal) 1 rank; either the animal companion, divine bond (mount), or mount class feature; human.
 
-**Benefit** : If you have the animal companion class feature, pick one of the following types of animal companions that this feat affects: bird, dog, small cat, or horse. If you have the divine bond (mount or mount class feature, this feat always affects horses.
+**Benefit** : If you have the animal companion class feature, pick one of the following types of animal companions that this feat affects: bird, dog, small cat, or horse. If you have the divine bond (mount) or mount class feature, this feat always affects horses.
 
-You gain a +2 bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal and [Knowledge](skill_dir/knowledge#_knowledge) (nature checks with creatures of that type of animal. Furthermore, you are treated as one level higher when determining the abilities of your animal companion or mount, as long as it is of the chosen type.
+You gain a +2 bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal) and [Knowledge](skills/knowledge#_knowledge) (nature) checks with creatures of that type of animal. Furthermore, you are treated as one level higher when determining the abilities of your animal companion or mount, as long as it is of the chosen type.
 
 ### Improved Improvisation
 
@@ -356,9 +356,9 @@ Others are often dumfounded by your luck.
 
 You have boundless faith in your success.
 
-**Prerequisites** : Cha 13, Fearless Curiosity, [Intimidate](skill_dir/intimidate#_intimidate 5 ranks, human.
+**Prerequisites** : Cha 13, Fearless Curiosity, [Intimidate](skill_dir/intimidate#_intimidate) 5 ranks, human.
 
-**Benefit** : You gain a +1 bonus on saving throws against effects with the emotion descriptor; this bonus stacks with the bonus granted by Fearless Curiosity. When you confirm a critical hit, as a free action you can make an [Intimidate](skill_dir/intimidate#_intimidate check to demoralize one creature you threaten. If you have the Dazzling Display feat, you can make [Intimidate](skill_dir/intimidate#_intimidate) checks to demoralize all creatures you threaten instead. You gain a +2 bonus on this check if your weapon has a ×3 critical modifier, or +4 if it has a ×4 critical modifier.
+**Benefit** : You gain a +1 bonus on saving throws against effects with the emotion descriptor; this bonus stacks with the bonus granted by Fearless Curiosity. When you confirm a critical hit, as a free action you can make an [Intimidate](skills/intimidate#_intimidate) check to demoralize one creature you threaten. If you have the Dazzling Display feat, you can make [Intimidate](skill_dir/intimidate#_intimidate) checks to demoralize all creatures you threaten instead. You gain a +2 bonus on this check if your weapon has a ×3 critical modifier, or +4 if it has a ×4 critical modifier.
 
 ### Martial Mastery (Combat)
 
@@ -374,7 +374,7 @@ You further broaden your study of weapons to encompass multiple similar weapons.
 
 **Prerequisites** : Fighter level 4th, human.
 
-**Benefit** : Choose one combat feat you know that applies to a specific weapon (e.g., [Weapon Focus](feats#_weapon-focus). You can use that feat with any weapon within the same weapon group.
+**Benefit** : Choose one combat feat you know that applies to a specific weapon (e.g., [Weapon Focus](feats#_weapon-focus)). You can use that feat with any weapon within the same weapon group.
 
 **Special** : You may take this feat more than once. Each time it applies to a different feat.
 
@@ -398,11 +398,11 @@ Belt of Foraging
 
 Description
 
-This belt allows its wearer to easily forage while in the wilderness. As long as the wearer of this belt has at least 1 rank in [Survival](skill_dir/survival#_survival, he need not make a check to get along in the wild; he always succeeds at that [Survival](skill_dir/survival#_survival check as long as he moves at half his overland speed. He can still choose to make that check to provide food and water for one other creature for every 2 points by which his result exceeds DC 10. Furthermore, he can instead make a DC 20 [Survival](skill_dir/survival#_survival) check to get along in the wild while moving at full speed instead of half speed. While doing so, he can provide food and water for one other creature for every 2 points by which his check result exceeds 20.
+This belt allows its wearer to easily forage while in the wilderness. As long as the wearer of this belt has at least 1 rank in [Survival](skills/survival#_survival), he need not make a check to get along in the wild; he always succeeds at that [Survival](skill_dir/survival#_survival) check as long as he moves at half his overland speed. He can still choose to make that check to provide food and water for one other creature for every 2 points by which his result exceeds DC 10. Furthermore, he can instead make a DC 20 [Survival](skills/survival#_survival) check to get along in the wild while moving at full speed instead of half speed. While doing so, he can provide food and water for one other creature for every 2 points by which his check result exceeds 20.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _detect animals and plants_, creator must have at least 1 rank in [Survival](skill_dir/survival#_survival; **Cost** 3,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _detect animals and plants_, creator must have at least 1 rank in [Survival](skill_dir/survival#_survival); **Cost** 3,000 gp
 
 Crown of Conquest
 
@@ -412,13 +412,13 @@ Crown of Conquest
 
 Description
 
-This crown of steel and gold projects an aura of menacing power. The wearer gains a +4 competence bonus on [Intimidate](skill_dir/intimidate#_intimidate checks, and whenever he confirms a critical hit, the crown creates a _ [prayer](spell_dir/prayer#_prayer)_ effect centered on the crown's wearer (caster level 5th).
+This crown of steel and gold projects an aura of menacing power. The wearer gains a +4 competence bonus on [Intimidate](skills/intimidate#_intimidate) checks, and whenever he confirms a critical hit, the crown creates a _ [prayer](spell_dir/prayer#_prayer)_ effect centered on the crown's wearer (caster level 5th).
 
 If the wearer of the crown has the [Leadership](feats#_leadership) feat, he gains a +1 bonus to his [Leadership](feats#_leadership) score and any follower or cohort of the wearer gains a +1 bonus on attack rolls and saving throws against fear effects while within line of sight of the wearer.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [bless](spell_dir/bless#_bless_, _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor_, _ [prayer](spell_dir/prayer#_prayer_; **Cost** 12,300 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [bless](spells/bless#_bless)_, _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)_, _ [prayer](spells/prayer#_prayer)_; **Cost** 12,300 gp
 
 Crown of Swords
 
@@ -428,11 +428,11 @@ Crown of Swords
 
 Description
 
-This radiant crown of steel is bedecked with miniature mithral swords. A _crown of swords _can be used up to 10 times per day. When struck in combat, the wearer may spend one use as an immediate action to create a longsword-shaped _ [spiritual weapon](spell_dir/spiritualWeapon#_spiritual-weapon _that then attacks her attacker. On the wearer's next turn, she may spend one additional use each round to continue attacking that target with the _ [spiritual weapon](spell_dir/spiritualWeapon#_spiritual-weapon_; the _ [spiritual weapon](spell_dir/spiritualWeapon#_spiritual-weapon)_ cannot be redirected and disappears if the target is killed or moves out of range. Multiple _spiritual weapons _may be created (even attacking the same target) if the wearer is attacked in subsequent rounds.
+This radiant crown of steel is bedecked with miniature mithral swords. A _crown of swords _can be used up to 10 times per day. When struck in combat, the wearer may spend one use as an immediate action to create a longsword-shaped _ [spiritual weapon](spell_dir/spiritualWeapon#_spiritual-weapon) _that then attacks her attacker. On the wearer's next turn, she may spend one additional use each round to continue attacking that target with the _ [spiritual weapon](spells/spiritualWeapon#_spiritual-weapon)_; the _ [spiritual weapon](spell_dir/spiritualWeapon#_spiritual-weapon)_ cannot be redirected and disappears if the target is killed or moves out of range. Multiple _spiritual weapons _may be created (even attacking the same target) if the wearer is attacked in subsequent rounds.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [spiritual weapon](spell_dir/spiritualWeapon#_spiritual-weapon_; **Cost** 3,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [spiritual weapon](spells/spiritualWeapon#_spiritual-weapon)_; **Cost** 3,000 gp
 
 Rod of Steadfast Resolve
 
@@ -448,7 +448,7 @@ Also, once per day as an immediate action, the wielder can activate the rod to a
 
 Construction
 
-**Requirements** [Craft Rod](feats#_craft-rod, _ [bless](spell_dir/bless#_bless_, _calm emotion_, the creator must have the [human](monster_dir/creatureTypes#_human-subtype) subtype; **Cost** 19,305 gp
+**Requirements** [Craft Rod](feats#_craft-rod), _ [bless](spells/bless#_bless)_, _calm emotion_, the creator must have the [human](monster_dir/creatureTypes#_human-subtype) subtype; **Cost** 19,305 gp
 
 ## Human Spells
 
@@ -456,7 +456,7 @@ Humans have access to the following spells.
 
 Bestow Insight
 
-**School** enchantment (compulsion; **Level** bard 2, cleric 3, inquisitor 2, sorcerer/wizard 2, witch 2
+**School** enchantment (compulsion); **Level** bard 2, cleric 3, inquisitor 2, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -468,15 +468,15 @@ Bestow Insight
 
 **Duration** 1 minut_dir/level
 
-When casting this spell, choose a single skill that you have at least one rank in. The target gains a +2 insight bonus on skill checks with this skill and is considered trained in that skill. The insight bonus increases by 1 for every four levels of the caster (maximum +6. Furthermore, once before the spell's duration, the target can choose to roll two checks and take the greater result. Doing so ends the spell's other effects.
+When casting this spell, choose a single skill that you have at least one rank in. The target gains a +2 insight bonus on skill checks with this skill and is considered trained in that skill. The insight bonus increases by 1 for every four levels of the caster (maximum +6). Furthermore, once before the spell's duration, the target can choose to roll two checks and take the greater result. Doing so ends the spell's other effects.
 
 Black Mark
 
-**School** necromancy [[curse](monster_dir/universalMonsterRules#_curse, [fear](monster_dir/universalMonsterRules#_fear-(su-or-sp))]; **Level** druid 7, witch 7
+**School** necromancy [[curse](monsters/universalMonsterRules#_curse), [fear](monster_dir/universalMonsterRules#_fear-(su-or-sp))]; **Level** druid 7, witch 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a flask of seawater
+**Components** V, S, M (a flask of seawater)
 
 **Range** touch
 
@@ -486,7 +486,7 @@ Black Mark
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You mark the target with a black marking on its skin; the mark's exact appearance determined by you, but can be no larger than your hand. The _black mark _functions as a _ [mark of justice](spell_dir/markOfJustice#_mark-of-justice_, and when the mark is activated, the target becomes shaken anytime it is on or in the water more than a 5 feet from shore. In addition, as long as the _black mark _is active, the target is affected as if subject to _ [nature's exile](advanced/spell_dir/natureSExile#_nature's-exile _, but all creatures with the aquatic or water subtype or with a swim speed are made hostile, even those not of the animal type, though non-aquatic animals are not.
+You mark the target with a black marking on its skin; the mark's exact appearance determined by you, but can be no larger than your hand. The _black mark _functions as a _ [mark of justice](spells/markOfJustice#_mark-of-justice)_, and when the mark is activated, the target becomes shaken anytime it is on or in the water more than a 5 feet from shore. In addition, as long as the _black mark _is active, the target is affected as if subject to _ [nature's exile](advance_dir/spells/natureSExile#_nature's-exile) _, but all creatures with the aquatic or water subtype or with a swim speed are made hostile, even those not of the animal type, though non-aquatic animals are not.
 
 Old Salt's Curse
 
@@ -494,7 +494,7 @@ Old Salt's Curse
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a flask of seawater
+**Components** V, S, M (a flask of seawater)
 
 **Range** touch
 
@@ -504,5 +504,5 @@ Old Salt's Curse
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You inflict a curse of the roiling sea upon the target, making it permanently sickened. Anytime the target is on or in the water more than a mile from shore, it also becomes staggered with seasickness. This curse cannot be dispelled, though _ [remove curse](spell_dir/removeCurse#_remove-curse _or _ [break enchantment](spell_dir/breakEnchantment#_break-enchantment _can negate it.
+You inflict a curse of the roiling sea upon the target, making it permanently sickened. Anytime the target is on or in the water more than a mile from shore, it also becomes staggered with seasickness. This curse cannot be dispelled, though _ [remove curse](spells/removeCurse#_remove-curse) _or _ [break enchantment](spell_dir/breakEnchantment#_break-enchantment) _can negate it.
 

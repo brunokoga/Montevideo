@@ -1,5 +1,5 @@
 ---
-title: ultimateEquipment/gea_dir/foodAndDrink
+title: ultimateEquipmen_dir/gear/foodAndDrink
 ---
 # Food and Drink
 
@@ -9,7 +9,7 @@ These prices are for meals and beverages in an average city or town. Unless othe
 | Item | Price | Weight |
 | --- | --- | --- |
 | Absinthe (glass) | 3 gp | — |
-| Absinthe (bottle | 30 gp | 1-1/2 lbs. |
+| Absinthe (bottle) | 30 gp | 1-1/2 lbs. |
 | Ale (mug) | 4 cp | 1 lb. |
 | Ale (gallon) | 2 sp | 8 lbs. |
 | Applejack (mug) | 8 cp | 1 lb. |
@@ -166,7 +166,7 @@ Gnome Trail Rations
 
 **Price** 2 gp; **Weight** 1 lb.
 
-Almost any preserved food can be found in gnome trail rations, which are designed to keep a wandering gnome from needing to dine on the same meal twice in a week. If you are a gnome who subsists on nothing but these rations for at least 1 week, you are treated as being 1 Hit Die higher for the purposes of spells and supernatural abilities that have variable effects based on Hit Dice, such as _ [color spray](spell_dir/colorSpray#_color-spray_ and _ [sleep](spell_dir/sleep#_sleep_. This does not actually improve your caster level, character level, or Hit Dice in any other way. This benefit lasts until you eat a meal other than the rations or go for a full day without eating a day's worth.
+Almost any preserved food can be found in gnome trail rations, which are designed to keep a wandering gnome from needing to dine on the same meal twice in a week. If you are a gnome who subsists on nothing but these rations for at least 1 week, you are treated as being 1 Hit Die higher for the purposes of spells and supernatural abilities that have variable effects based on Hit Dice, such as _ [color spray](spell_dir/colorSpray#_color-spray)_ and _ [sleep](spells/sleep#_sleep)_. This does not actually improve your caster level, character level, or Hit Dice in any other way. This benefit lasts until you eat a meal other than the rations or go for a full day without eating a day's worth.
 
 Grog
 
@@ -258,7 +258,7 @@ Orc Trail Rations
 
 **Price** 1 gp; **Weight** 1 lb.
 
-A typical orc trail ration consists of coarse black bread, thin sausages as hard as leather that must be chewed slowly to soften them, dried meat of uncertain origin, and pungent peppers. If you are an orc or half-orc who subsists on nothing but these rations for at least 1 week, you add +2 to the DC to resist any [Intimidate](skill_dir/intimidate#_intimidate checks you make. This bonus lasts until you eat a meal other than the rations or go for a full day without eating a day's worth.
+A typical orc trail ration consists of coarse black bread, thin sausages as hard as leather that must be chewed slowly to soften them, dried meat of uncertain origin, and pungent peppers. If you are an orc or half-orc who subsists on nothing but these rations for at least 1 week, you add +2 to the DC to resist any [Intimidate](skill_dir/intimidate#_intimidate) checks you make. This bonus lasts until you eat a meal other than the rations or go for a full day without eating a day's worth.
 
 Powdered Milk
 
@@ -300,7 +300,7 @@ Tea Ceremony Set
 
 **Price** 25 gp; **Weight** 5 lbs.
 
-This includes a tray, a teapot, a whisk, a bowl to mix the tea in, four tiny cups, and a decorative box in which to store all of these items. The ceremonial brewing of tea is part of the classical tea ceremony. Knowing the proper steps for preparing and participating in a tea ceremony requires a successful DC 15 [Knowledge](skill_dir/knowledge#_knowledge) (nobility skill check.
+This includes a tray, a teapot, a whisk, a bowl to mix the tea in, four tiny cups, and a decorative box in which to store all of these items. The ceremonial brewing of tea is part of the classical tea ceremony. Knowing the proper steps for preparing and participating in a tea ceremony requires a successful DC 15 [Knowledge](skill_dir/knowledge#_knowledge) (nobility) skill check.
 
 Tepache
 

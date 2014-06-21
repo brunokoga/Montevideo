@@ -11,13 +11,13 @@ XP 800
 
 N Medium magical beast
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +8
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +8
 
 Defense
 
 **AC** 15, touch 11, flat-footed 14 (+1 Dex, +4 natural)
 
-**hp** 30 (4d10+8; regeneration 3 (acid or [fire](monster_dir/creatureTypes#_fire-subtype)
+**hp** 30 (4d10+8); regeneration 3 (acid or [fire](monster_dir/creatureTypes#_fire-subtype))
 
 **Fort** +6, **Ref** +5, **Will** +1
 
@@ -25,7 +25,7 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** bite +8 (1d10+6 plus [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)) and trip)
+**Melee** bite +8 (1d10+6 plus [disease](monsters/universalMonsterRules#_disease-(ex-or-su)) and trip)
 
 Statistics
 
@@ -33,21 +33,21 @@ Statistics
 
 **Base Atk** +4; **CMB** +8; **CMD** 19 (23 vs. trip)
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Skill Focus](feats#_skill-focus ( [Perception](skill_dir/perception#_perception)
+**Feats** [Improved Initiative](feats#_improved-initiative), [Skill Focus](feats#_skill-focus) ( [Perception](skill_dir/perception#_perception))
 
-**Skills** [Perception](skill_dir/perception#_perception +8, [Stealth](skill_dir/stealth#_stealth +5, [Survival](skill_dir/survival#_survival +1 (+5 [scent](monster_dir/universalMonsterRules#_scent) tracking; **Racial Modifiers** +4 [Survival](skill_dir/survival#_survival while [scent](monster_dir/universalMonsterRules#_scent tracking
+**Skills** [Perception](skills/perception#_perception) +8, [Stealth](skill_dir/stealth#_stealth) +5, [Survival](skills/survival#_survival) +1 (+5 [scent](monster_dir/universalMonsterRules#_scent) tracking); **Racial Modifiers** +4 [Survival](skills/survival#_survival) while [scent](monster_dir/universalMonsterRules#_scent) tracking
 
 Ecology
 
-**Environment** [cold](monster_dir/creatureTypes#_cold-subtype) mountains
+**Environment** [cold](monsters/creatureTypes#_cold-subtype) mountains
 
-**Organization** solitary, pair, or pack (3–8
+**Organization** solitary, pair, or pack (3–8)
 
 **Treasure** incidental
 
 Special Abilities
 
-**[Disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)) (Ex** A trollhound's saliva is an infectious brew of contagion. Creatures bitten by a trollhound are often afflicted with bloodfire fever, a [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su) characterized by deep internal pain, as if the victim's blood were on [fire](monster_dir/creatureTypes#_fire-subtype. Additional symptoms include loss of muscular coordination, pus-filled blisters, and overall lethargy and fatigue. Trolls and trollhounds alike are immune to bloodfire fever, even though trollhounds often exhibit the pus-filled blisters that come with the [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su).
+**[Disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)) (Ex)** A trollhound's saliva is an infectious brew of contagion. Creatures bitten by a trollhound are often afflicted with bloodfire fever, a [disease](monsters/universalMonsterRules#_disease-(ex-or-su)) characterized by deep internal pain, as if the victim's blood were on [fire](monster_dir/creatureTypes#_fire-subtype). Additional symptoms include loss of muscular coordination, pus-filled blisters, and overall lethargy and fatigue. Trolls and trollhounds alike are immune to bloodfire fever, even though trollhounds often exhibit the pus-filled blisters that come with the [disease](monsters/universalMonsterRules#_disease-(ex-or-su)).
 
 _Bloodfire fever_: Bite—injury; _save_ Fort DC 14; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Str damage, 1d3 Dex damage, and target is fatigued; _cure_ 2 consecutive saves. The save DC is Constitution-based.
 

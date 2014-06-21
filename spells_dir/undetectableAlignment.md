@@ -1,5 +1,5 @@
 ---
-title: spells/undetectableAlignment
+title: spell_dir/undetectableAlignment
 ---
  **Undetectable Alignment**
 

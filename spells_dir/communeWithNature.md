@@ -1,5 +1,5 @@
 ---
-title: spells/communeWithNature
+title: spell_dir/communeWithNature
 ---
  **Commune with Nature**
 

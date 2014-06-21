@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/oracleSBurden
+title: advance_dir/spells/oracleSBurden
 ---
  **Oracle's Burden**
 
@@ -13,7 +13,7 @@ title: advanced/spells/oracleSBurden
 
 **Target** one creature
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

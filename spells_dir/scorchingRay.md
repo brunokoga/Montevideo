@@ -1,5 +1,5 @@
 ---
-title: spells/scorchingRay
+title: spell_dir/scorchingRay
 ---
  **Scorching Ray**
 

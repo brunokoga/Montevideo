@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/litanyOfSight
+title: ultimateComba_dir/spells/litanyOfSight
 ---
 Litany of Sight
 

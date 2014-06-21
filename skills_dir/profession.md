@@ -1,5 +1,5 @@
 ---
-title: skills/profession
+title: skill_dir/profession
 ---
 # Profession
 

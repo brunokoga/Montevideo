@@ -1,5 +1,5 @@
 ---
-title: spells/dismissal
+title: spell_dir/dismissal
 ---
  **Dismissal**
 

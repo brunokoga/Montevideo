@@ -1,5 +1,5 @@
 ---
-title: spells/foresight
+title: spell_dir/foresight
 ---
  **Foresight**
 

@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/malfunction
+title: ultimateMagi_dir/spells/malfunction
 ---
 Malfunction
 
-**School** transformation; Level sorcerer/wizard 4
+**School** transformation; Level sorcere_dir/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -13,9 +13,9 @@ Malfunction
 
 **Area** one construct
 
-**Duration** 1 roun_dir/level (D
+**Duration** 1 roun_dir/level (D)
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This functions as _ [confusion](spell_dir/confusion#_confusion)_, except it only affects constructs, and instead of babbling incoherently, the construct takes no actions on its turn (but may still make attacks of opportunity.
+This functions as _ [confusion](spells/confusion#_confusion)_, except it only affects constructs, and instead of babbling incoherently, the construct takes no actions on its turn (but may still make attacks of opportunity).
 

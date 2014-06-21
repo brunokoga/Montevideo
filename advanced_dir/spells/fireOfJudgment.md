@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/fireOfJudgment
+title: advance_dir/spells/fireOfJudgment
 ---
  **Fire of Judgment**
 
@@ -13,7 +13,7 @@ title: advanced/spells/fireOfJudgment
 
 **Target** one creature
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Will partial; **Spell Resistance** yes
 

@@ -1,15 +1,15 @@
 ---
-title: ultimateMagic/wordsOfPower/effectword_dir/divinationWords
+title: ultimateMagi_dir/wordsOfPower/effectword_dir/divinationWords
 ---
 ## Divination Words
 
 Words from this family uncover answers and scry across vast distances.
 
-Beacon (Divination
+Beacon (Divination)
 
 **School** divination; **Level** bard 0, druid 0, ranger 1
 
-**Duration** 1 hou_dir/level
+**Duration** 1 hour/level
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -19,9 +19,9 @@ When a wordspell with this effect word is cast, the exact location of the caster
 
 Far Sight (Divination)
 
-**School** divination (scrying; **Level** bard 3, cleric 3, druid 3, sorcerer/wizard 3, witch 3
+**School** divination (scrying); **Level** bard 3, cleric 3, druid 3, sorcere_dir/wizard 3, witch 3
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute/level
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -31,11 +31,11 @@ The caster of a wordspell with this effect word creates an invisible eye at any 
 
 **Boost** : This sensor can be placed anywhere on the same plane of existence as the caster, with no limit to range. The caster can place it to within 10 feet of a creature that is known to the caster, but the target gets a Will save to negate the effect in this case and the caster must overcome the target's spell resistance. Boosting this effect word increases its level by 2.
 
-Locate (Divination
+Locate (Divination)
 
 **School** divination; **Level** bard 6, cleric 6, druid 6, inquisitor 6, witch 6
 
-**Duration** 10 minutes/level
+**Duration** 10 minute_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 

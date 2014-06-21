@@ -3,7 +3,7 @@ title: spell_dir/bane
 ---
  **Bane**
 
-**School** enchantment (compulsion [fear, mind-affecting]; **Level** cleric 1
+**School** enchantment (compulsion) [fear, mind-affecting]; **Level** cleric 1
 
 **Casting Time** 1 standard action
 

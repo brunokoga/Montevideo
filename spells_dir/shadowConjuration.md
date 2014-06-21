@@ -3,7 +3,7 @@ title: spell_dir/shadowConjuration
 ---
  **Shadow Conjuration**
 
-**School** illusion (shadow; **Level** bard 4, sorcerer/wizard 4
+**School** illusion (shadow); **Level** bard 4, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -31,5 +31,5 @@ A creature that succeeds on its save sees the _shadow conjurations _as transpare
 
 **School** illusion (shadow); **Level** sorcere_dir/wizard 7
 
-This spell functions like _shadow conjuration, _except that it duplicates any sorcerer or wizard conjuration (summoning) or conjuration (creation) spell of 6th level or lower. The illusory conjurations created deal three-fifths (60% damage to nonbelievers, and nondamaging effects are 60% likely to work against nonbelievers.
+This spell functions like _shadow conjuration, _except that it duplicates any sorcerer or wizard conjuration (summoning) or conjuration (creation) spell of 6th level or lower. The illusory conjurations created deal three-fifths (60%) damage to nonbelievers, and nondamaging effects are 60% likely to work against nonbelievers.
 

@@ -1,13 +1,13 @@
 ---
-title: spells/createUndead
+title: spell_dir/createUndead
 ---
  **Create Undead**
 
-**School** necromancy [evil]; **Level** cleric 6, sorcere_dir/wizard 6
+**School** necromancy [evil]; **Level** cleric 6, sorcerer/wizard 6
 
 **Casting Time** 1 hour
 
-**Components** V, S, M (a clay pot filled with grave dirt and an onyx gem worth at least 50 gp per HD of the undead to be created
+**Components** V, S, M (a clay pot filled with grave dirt and an onyx gem worth at least 50 gp per HD of the undead to be created)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

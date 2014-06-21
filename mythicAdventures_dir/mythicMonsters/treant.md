@@ -1,5 +1,5 @@
 ---
-title: mythicAdventures/mythicMonsters/treant
+title: mythicAdventure_dir/mythicMonsters/treant
 ---
 # Treant
 
@@ -9,15 +9,15 @@ Mythic Treant CR 10/MR 4
 
 XP 9,600
 
-NG Huge plant ( [mythic](mythicAdventure_dir/mythicMonsters#_mythic-subtype)
+NG Huge plant ( [mythic](mythicAdventure_dir/mythicMonsters#_mythic-subtype))
 
-**Init** –1; **Senses** [low-light vision](monster_dir/universalMonsterRules#_low-light-vision; [Perception](skill_dir/perception#_perception) +17
+**Init** –1; **Senses** [low-light vision](monsters/universalMonsterRules#_low-light-vision); [Perception](skill_dir/perception#_perception) +17
 
 Defense
 
 **AC** 25, touch 7, flat-footed 25 (–1 Dex, +18 natural, –2 size)
 
-**hp** 146 (12d8+92
+**hp** 146 (12d8+92)
 
 **Fort** +13, **Ref** +3, **Will** +10
 
@@ -37,11 +37,11 @@ Offense
 
 **Special Attacks** mythic power (4/day, surge +1d8), [rock throwing](monster_dir/universalMonsterRules#_rock-throwing) (180 ft.), trample (3d6+15, DC 26), druidic magic
 
-**Spell-Like Abilities** (CL 10th; concentration +14; save DCs are Wisdom-based
+**Spell-Like Abilities** (CL 10th; concentration +14; save DCs are Wisdom-based)
 
-7/day—_ [animal messenger](spell_dir/animalMessenger#_animal-messenger_, _ [calm animals](spell_dir/calmAnimals#_calm-animals)_ (DC 15, _ [create water](spell_dir/createWater#_create-water_, _ [entangle](spell_dir/entangle#_entangle)_ (DC 15, _ [magic fang](spell_dir/magicFang#_magic-fang_, _ [neutralize poison](spell_dir/neutralizePoison#_neutralize-poison_, _ [quench](spell_dir/quench#_quench)_ (DC 17, _ [sleep](spell_dir/sleep#_sleep)_ (DC 15, _ [wind wall](spell_dir/windWall#_wind-wall_, _ [wood shape](spell_dir/woodShape#_wood-shape_
+7/day—_ [animal messenger](spell_dir/animalMessenger#_animal-messenger)_, _ [calm animals](spells/calmAnimals#_calm-animals)_ (DC 15), _ [create water](spell_dir/createWater#_create-water)_, _ [entangle](spells/entangle#_entangle)_ (DC 15), _ [magic fang](spell_dir/magicFang#_magic-fang)_, _ [neutralize poison](spells/neutralizePoison#_neutralize-poison)_, _ [quench](spell_dir/quench#_quench)_ (DC 17), _ [sleep](spells/sleep#_sleep)_ (DC 15), _ [wind wall](spell_dir/windWall#_wind-wall)_, _ [wood shape](spells/woodShape#_wood-shape)_
 
-3/day—_ [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds_, _ [darkness](spell_dir/darkness#_darkness_, _ [rusting grasp](spell_dir/rustingGrasp#_rusting-grasp_, _ [shout](spell_dir/shout#_shout)_ (DC 18, _ [summon nature's ally IV](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iv_
+3/day—_ [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_, _ [darkness](spells/darkness#_darkness)_, _ [rusting grasp](spell_dir/rustingGrasp#_rusting-grasp)_, _ [shout](spells/shout#_shout)_ (DC 18), _ [summon nature's ally IV](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iv)_
 
 1/day—_ [call lightning storm](spell_dir/callLightningStorm#_call-lightning-storm)_ (DC 19)
 
@@ -51,9 +51,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +21 (+23 sunder); **CMD** 32 (34 vs. sunder)
 
-**Feats** [Alertness](feats#_alertness), [Improved Critical](feats#_improved-critical) M (slam), [Improved Sunder](feats#_improved_sunder), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) M (slam
+**Feats** [Alertness](feats#_alertness), [Improved Critical](feats#_improved-critical) M (slam), [Improved Sunder](feats#_improved_sunder), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) M (slam)
 
-**Skills** [Diplomacy](skill_dir/diplomacy#_diplomacy +9, [Intimidate](skill_dir/intimidate#_intimidate +9, [Knowledge](skill_dir/knowledge#_knowledge) (nature +9, [Perception](skill_dir/perception#_perception +17, [Sense Motive](skill_dir/senseMotive#_sense-motive +10, [Stealth](skill_dir/stealth#_stealth) –9 (+7 in forests; **Racial Modifiers** +16 [Stealth](skill_dir/stealth#_stealth) in forests
+**Skills** [Diplomacy](skills/diplomacy#_diplomacy) +9, [Intimidate](skill_dir/intimidate#_intimidate) +9, [Knowledge](skills/knowledge#_knowledge) (nature) +9, [Perception](skill_dir/perception#_perception) +17, [Sense Motive](skills/senseMotive#_sense-motive) +10, [Stealth](skill_dir/stealth#_stealth) –9 (+7 in forests); **Racial Modifiers** +16 [Stealth](skills/stealth#_stealth) in forests
 
 **Languages** Common, Sylvan, Treant; treespeech
 
@@ -73,11 +73,11 @@ Special Abilities
 
 **Double Damage Against Objects (Ex)** A mythic treant or animated tree that makes a full attack against an object or structure deals double damage.
 
-**Drink Deep (Su** A mythic treant can expend one use of mythic power to lose its vulnerability to [fire](monster_dir/creatureTypes#_fire-subtype) for 1 hour.
+**Drink Deep (Su)** A mythic treant can expend one use of mythic power to lose its vulnerability to [fire](monster_dir/creatureTypes#_fire-subtype) for 1 hour.
 
-**Treespeech (Ex** A treant has the ability to converse with plants as if subject to a continual _ [speak with plants](spell_dir/speakWithPlants#_speak-with-plants)_ spell, and most plants greet it with an attitude of friendly or helpful.
+**Treespeech (Ex)** A treant has the ability to converse with plants as if subject to a continual _ [speak with plants](spells/speakWithPlants#_speak-with-plants)_ spell, and most plants greet it with an attitude of friendly or helpful.
 
-**Druidic Magic (Su** A mythic treant can expend one use of mythic power to cast any druid spell of 3rd level or lower, or two uses of mythic power to cast any druid spell of 5th level or lower. Its caster level for this spell is 10th.
+**Druidic Magic (Su)** A mythic treant can expend one use of mythic power to cast any druid spell of 3rd level or lower, or two uses of mythic power to cast any druid spell of 5th level or lower. Its caster level for this spell is 10th.
 
 A mythic treant is an ancient entity granted power by a deity or magical pool. They're the shepherds of forests, and even less likely to converse with short-lived races.
 

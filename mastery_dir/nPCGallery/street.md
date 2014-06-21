@@ -1,5 +1,5 @@
 ---
-title: mastery/nPCGallery/street
+title: master_dir/nPCGallery/street
 ---
 # Street
 
@@ -29,7 +29,7 @@ Init +3; **Senses** [Perception](../../skill_dir/perception#_perception) +6
 
 **Melee** club +1 (1d6+1)
 
-**Ranged** club +3 (1d6+1
+**Ranged** club +3 (1d6+1)
 
 **Special Attacks** sneak attack +1d6
 
@@ -39,9 +39,9 @@ Init +3; **Senses** [Perception](../../skill_dir/perception#_perception) +6
 
 **Base Atk** +0; **CMB** +1; **CMD** 14
 
-**Feats** [Endurance](../../feats#_endurance), [Skill Focus](../../feats#_skill-focus) ( [Survival](../../skill_dir/survival#_survival)
+**Feats** [Endurance](../../feats#_endurance), [Skill Focus](../../feats#_skill-focus) ( [Survival](../../skill_dir/survival#_survival))
 
-**Skills** [Climb](../../skill_dir/climb#_climb +6, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +5, [Perception](../../skill_dir/perception#_perception +6, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand +8, [Stealth](../../skill_dir/stealth#_stealth +8, [Survival](../../skill_dir/survival#_survival) +6
+**Skills** [Climb](../../skill_dir/climb#_climb) +6, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +5, [Perception](../../skill_dir/perception#_perception) +6, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +8, [Stealth](../../skill_dir/stealth#_stealth) +8, [Survival](../../skill_dir/survival#_survival) +6
 
 **Languages** Common
 
@@ -53,7 +53,7 @@ Init +3; **Senses** [Perception](../../skill_dir/perception#_perception) +6
 
 Beggars are the homeless and hopeless wretches that eke out a meager existence at the fringes of society in cities and towns. Some are once farmers, craftsmen, or other working folk stricken blind or lame, while others are orphans from birth, subsisting on alms and charity so long they have known nothing else.
 
-Beggars can serve as apprentice thieves and pickpockets (and not a few beggars supplement their begging this way. They might also be used as urchins, link boys, the inhabitants of a leper colony, or even cultists of a dark god of disease, thievery, or murder. Exchanging a beggar's [Skill Focus](../../feats#_skill-focus) ( [Survival](../../skill_dir/survival#_survival) with [Skill Focus](../../feats#_skill-focus) ( [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) or [Skill Focus](../../feats#_skill-focus) ( [Stealth](../../skill_dir/stealth#_stealth) creates a better pickpocket or thief. Replacing [Endurance](../../feats#_endurance) with [Weapon Finesse](../../feats#_weapon-finesse), as well as adding some light armor or an additional weapon, makes a beggar more effective in combat, as does replacing both of a beggar's feats with [Dodge](../../feats#_dodge) and [Mobility](../../feats#_mobility).
+Beggars can serve as apprentice thieves and pickpockets (and not a few beggars supplement their begging this way). They might also be used as urchins, link boys, the inhabitants of a leper colony, or even cultists of a dark god of disease, thievery, or murder. Exchanging a beggar's [Skill Focus](../../feats#_skill-focus) ( [Survival](../../skill_dir/survival#_survival)) with [Skill Focus](../../feats#_skill-focus) ( [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand)) or [Skill Focus](../../feats#_skill-focus) ( [Stealth](../../skill_dir/stealth#_stealth)) creates a better pickpocket or thief. Replacing [Endurance](../../feats#_endurance) with [Weapon Finesse](../../feats#_weapon-finesse), as well as adding some light armor or an additional weapon, makes a beggar more effective in combat, as does replacing both of a beggar's feats with [Dodge](../../feats#_dodge) and [Mobility](../../feats#_mobility).
 
 A beggar might be accompanied by a village idiot (CR 2), or may team up with a street thug or a pair of pickpockets (CR 3). A pair of beggars may also trail after a dealer or pilgrim (CR 5), or work with a troupe of four wanderers (CR 7). Beggars working as thieves or pickpockets might form gangs of six (CR 6), while four thieving beggars might add their skills to a gang of eight bandits (CR 7).
 
@@ -71,7 +71,7 @@ N Medium humanoid
 
 **AC** 12, touch 12, flat-footed 10 (+2 Dex)
 
-**hp** 11 (2d8+2
+**hp** 11 (2d8+2)
 
 **Fort** +1, **Ref** +4, **Will** +2
 
@@ -91,23 +91,23 @@ N Medium humanoid
 
 **Base Atk** +0; **CMB** –1; **CMD** 11
 
-**Feats** [Deceitful](../../feats#_deceitful), [Skill Focus](../../feats#_skill-focus) ( [Profession](../../skill_dir/profession#_profession) [courtesan]
+**Feats** [Deceitful](../../feats#_deceitful), [Skill Focus](../../feats#_skill-focus) ( [Profession](../../skill_dir/profession#_profession) [courtesan])
 
-**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics +6, [Bluff](../../skill_dir/bluff#_bluff +10, [Diplomacy](../../skill_dir/diplomacy#_diplomacy +8, [Disguise](../../skill_dir/disguise#_disguise +11, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +5, [Perception](../../skill_dir/perception#_perception +5, [Perform](../../skill_dir/perform#_perform) (act +8, [Perform](../../skill_dir/perform#_perform) (dance +8, [Profession](../../skill_dir/profession#_profession) (courtesan +8, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +5, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand +7
+**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +6, [Bluff](../../skill_dir/bluff#_bluff) +10, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +8, [Disguise](../../skill_dir/disguise#_disguise) +11, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +5, [Perception](../../skill_dir/perception#_perception) +5, [Perform](../../skill_dir/perform#_perform) (act) +8, [Perform](../../skill_dir/perform#_perform) (dance) +8, [Profession](../../skill_dir/profession#_profession) (courtesan) +8, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +5, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +7
 
 **Languages** Common, Elven
 
 **SQ** trapfinding +1
 
-**Gear** dagger, sap, _ [elixir of love](../../magicItem_dir/wondrousItems#_elixir-of-love, _disguise kit
+**Gear** dagger, sap, _ [elixir of love](../../magicItem_dir/wondrousItems#_elixir-of-love), _disguise kit
 
-**Boon** A prostitute can set up a meeting with a current or former client. Because the PCs know of the client's connection to the prostitute, they suffer a –2 penalty on [Diplomacy](../../skill_dir/diplomacy#_diplomacy checks with that person, but gain a +2 bonus on [Intimidate](../../skill_dir/intimidate#_intimidate and [Sense Motive](../../skill_dir/senseMotive#_sense-motive) checks.
+**Boon** A prostitute can set up a meeting with a current or former client. Because the PCs know of the client's connection to the prostitute, they suffer a –2 penalty on [Diplomacy](../../skill_dir/diplomacy#_diplomacy) checks with that person, but gain a +2 bonus on [Intimidate](../../skill_dir/intimidate#_intimidate) and [Sense Motive](../../skill_dir/senseMotive#_sense-motive) checks.
 
 Prostitutes are workers for hire in the field of love. From cheap trollops to brazen strumpets, saucy tarts to haughty courtesans, they work the streets and backroom brothels of cities and towns, tending to the wants, needs, and dark desires of their clients, often in elaborate costume and makeup for erotic roleplay. Most prostitutes have at least a little larceny in their hearts, however, and those who procure their services would be well advised to keep a close eye on their purses.
 
 Prostitutes could be used as members of a harem or an actors' troupe. A prostitute might also be a noble's or wealthy businessman's mistress, or even a barmaid looking to make a little money on the side. Prostitutes also make good low-level spies or undercover agents.
 
-A dealer might serve as pimp for a group of four prostitutes (CR 6), or eight prostitutes might be performers in a minstrel's show (CR 8). A harem of six prostitutes is usually guarded by a eunuch slaver (CR 7). A barkeep might have a prostitute on his staff, along with two barmaids (CR 5), or a prostitute may be found in the company of a pair of noble scions (CR 5.
+A dealer might serve as pimp for a group of four prostitutes (CR 6), or eight prostitutes might be performers in a minstrel's show (CR 8). A harem of six prostitutes is usually guarded by a eunuch slaver (CR 7). A barkeep might have a prostitute on his staff, along with two barmaids (CR 5), or a prostitute may be found in the company of a pair of noble scions (CR 5).
 
 **Dealer CR 3**
 
@@ -123,7 +123,7 @@ N Medium humanoid
 
 **AC** 14, touch 12, flat-footed 12 (+2 armor, +2 Dex)
 
-**hp** 22 (4d8+4
+**hp** 22 (4d8+4)
 
 **Fort** +2, **Ref** +5, **Will** +2
 
@@ -145,15 +145,15 @@ N Medium humanoid
 
 **Base Atk** +2; **CMB** +3; **CMD** 15
 
-**Feats** [Deceitful](../../feats#_deceitful), [Quick Draw](../../feats#_quick-draw), [Skill Focus](../../feats#_skill-focus) ( [Craft](../../skill_dir/craft#_craft) [alchemy], [Weapon Finesse](../../feats#_weapon-finesse)
+**Feats** [Deceitful](../../feats#_deceitful), [Quick Draw](../../feats#_quick-draw), [Skill Focus](../../feats#_skill-focus) ( [Craft](../../skill_dir/craft#_craft) [alchemy]), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Appraise](../../skill_dir/appraise#_appraise +6, [Bluff](../../skill_dir/bluff#_bluff +11, [Craft](../../skill_dir/craft#_craft) (alchemy +12, [Disable Device](../../skill_dir/disableDevice#_disable-device +6, [Disguise](../../skill_dir/disguise#_disguise +12, [Escape Artist](../../skill_dir/escapeArtist#_escape-artist +9, [Intimidate](../../skill_dir/intimidate#_intimidate +9, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +9, [Perception](../../skill_dir/perception#_perception +6, [Profession](../../skill_dir/profession#_profession) (herbalist +6, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +6, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand +9, [Stealth](../../skill_dir/stealth#_stealth) +9
+**Skills** [Appraise](../../skill_dir/appraise#_appraise) +6, [Bluff](../../skill_dir/bluff#_bluff) +11, [Craft](../../skill_dir/craft#_craft) (alchemy) +12, [Disable Device](../../skill_dir/disableDevice#_disable-device) +6, [Disguise](../../skill_dir/disguise#_disguise) +12, [Escape Artist](../../skill_dir/escapeArtist#_escape-artist) +9, [Intimidate](../../skill_dir/intimidate#_intimidate) +9, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +9, [Perception](../../skill_dir/perception#_perception) +6, [Profession](../../skill_dir/profession#_profession) (herbalist) +6, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +6, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +9, [Stealth](../../skill_dir/stealth#_stealth) +9
 
 **Languages** Common, Halfling, Orc
 
 **SQ** rogue talent (finesse rogue), trapfinding +1
 
-**Combat Gear** bloodroot posion (2 doses), oil of taggit (2 doses), striped toadstool poison (2 doses; **Other Gear** leather armor, masterwork hand crossbow with 10 bolts, masterwork dagger, sap, alchemy kit, disguise kit, thieves' tools
+**Combat Gear** bloodroot posion (2 doses), oil of taggit (2 doses), striped toadstool poison (2 doses); **Other Gear** leather armor, masterwork hand crossbow with 10 bolts, masterwork dagger, sap, alchemy kit, disguise kit, thieves' tools
 
 **Boon** A dealer can provide alchemical substances or poisons costing less than 500 gp at a 10% discount. He can also arrange for PCs to meet a more powerful crime boss or to plant illicit substances on a person or place.
 

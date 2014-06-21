@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/pilferingHand
+title: ultimateComba_dir/spells/pilferingHand
 ---
 Pilfering Hand
 
-**School** evocation [force]; **Level** bard 2, cleric 2, magus 2, sorcerer/wizard 2
+**School** evocation [force]; **Level** bard 2, cleric 2, magus 2, sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -24,5 +24,5 @@ _Abrupt Maneuver_: You instantaneously attempt a disarm or steal combat maneuver
   
   
 
-_Careful Maneuver_: You attempt a [Disable Device](skill_dir/disableDevice#_disable-device check or a [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand check to pick-pocket a target within range. This spell lasts as long as you need to accomplish the task, requiring your full concentration for that duration. Once you resolve the skill check, the spell ends. If you are successful on your [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand check, you pull the target object to you as with an abrupt maneuver. The target gains a +2 bonus on its [Perception](skill_dir/perception#_perception check to notice the successful attempt.
+_Careful Maneuver_: You attempt a [Disable Device](skill_dir/disableDevice#_disable-device) check or a [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) check to pick-pocket a target within range. This spell lasts as long as you need to accomplish the task, requiring your full concentration for that duration. Once you resolve the skill check, the spell ends. If you are successful on your [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) check, you pull the target object to you as with an abrupt maneuver. The target gains a +2 bonus on its [Perception](skills/perception#_perception) check to notice the successful attempt.
 

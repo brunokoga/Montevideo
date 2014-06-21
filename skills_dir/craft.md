@@ -1,5 +1,5 @@
 ---
-title: skills/craft
+title: skill_dir/craft
 ---
 # Craft
 

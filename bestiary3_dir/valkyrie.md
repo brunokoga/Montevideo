@@ -9,37 +9,37 @@ Valkyrie CR 12
 
 XP 19,200
 
-CN Medium outsider ( [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+CN Medium outsider ( [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft., _ [deathwatch](spell_dir/deathwatch#_deathwatch_; [Perception](skill_dir/perception#_perception) +24
+**Init** +3; **Senses** darkvision 60 ft., _ [deathwatch](spells/deathwatch#_deathwatch)_; [Perception](skill_dir/perception#_perception) +24
 
 Defense
 
 **AC** 27, touch 19, flat-footed 24 (+8 armor, +6 deflection, +3 Dex)
 
-**hp** 168 (16d10+80
+**hp** 168 (16d10+80)
 
 **Fort** +10, **Ref** +13, **Will** +15
 
-**DR** 10/cold iron and [lawful](monster_dir/creatureTypes#_lawful-subtype; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype, electricity, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su); **Resist** acid 10, [fire](monster_dir/creatureTypes#_fire-subtype) 10; **SR** 23
+**DR** 10/cold iron and [lawful](monster_dir/creatureTypes#_lawful-subtype); **Immune** [cold](monsters/creatureTypes#_cold-subtype), electricity, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** acid 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 23
 
 Offense
 
-**Speed** 30 ft., fly 100 ft. (perfect
+**Speed** 30 ft., fly 100 ft. (perfect)
 
-**Melee** _+2 [returning](magicItem_dir/weapons#_weapons-returning spear_ +23/+18/+13/+8 (1d8+8/×3)
+**Melee** _+2 [returning](magicItem_dir/weapons#_weapons-returning) spear_ +23/+18/+13/+8 (1d8+8/×3)
 
-**Ranged** _+2 [returning](magicItem_dir/weapons#_weapons-returning spear_ +22 (1d8+6/×3)
+**Ranged** _+2 [returning](magicItem_dir/weapons#_weapons-returning) spear_ +22 (1d8+6/×3)
 
 **Spell-Like Abilities** (CL 12th; concentration +18)
 
-Constant—_ [deathwatch](spell_dir/deathwatch#_deathwatch_, _ [tongues](spell_dir/tongues#_tongues_
+Constant—_ [deathwatch](spell_dir/deathwatch#_deathwatch)_, _ [tongues](spells/tongues#_tongues)_
 
-At will—_ [aid](spell_dir/aid#_aid_, _ [death ward](spell_dir/deathWard#_death-ward_, _ [gentle repose](spell_dir/gentleRepose#_gentle-repose_, _ [plane shift](spell_dir/planeShift#_plane-shift)_ (self and mount only
+At will—_ [aid](spell_dir/aid#_aid)_, _ [death ward](spells/deathWard#_death-ward)_, _ [gentle repose](spell_dir/gentleRepose#_gentle-repose)_, _ [plane shift](spells/planeShift#_plane-shift)_ (self and mount only)
 
-3/day—_ [call lightning storm](spell_dir/callLightningStorm#_call-lightning-storm)_ (DC 21, _ [divine power](spell_dir/divinePower#_divine-power_, _ [geas/quest](spell_dir/geasQuest#_geas-quest_
+3/day—_ [call lightning storm](spell_dir/callLightningStorm#_call-lightning-storm)_ (DC 21), _ [divine power](spells/divinePower#_divine-power)_, _ [gea_dir/quest](spells/geasQuest#_geas-quest)_
 
-1/day—_ [breath of life](spell_dir/breathOfLife#_breath-of-life_, _ [heal](spell_dir/heal#_heal), _summon (level 8, 1 sleipnir 100%)
+1/day—_ [breath of life](spell_dir/breathOfLife#_breath-of-life)_, _ [heal](spells/heal#_heal), _summon (level 8, 1 sleipnir 100%)
 
 Statistics
 
@@ -47,11 +47,11 @@ Statistics
 
 **Base Atk** +16; **CMB** +20; **CMD** 39
 
-**Feats** [Mounted Combat](feats#_mounted-combat), [Power Attack](feats#_power-attack), Ride-By Attack, [Skill Focus](feats#_skill-focus ( [Ride](skill_dir/ride#_ride), Spirited Charge, [Trample](monster_dir/universalMonsterRules#_trample), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (spear
+**Feats** [Mounted Combat](feats#_mounted-combat), [Power Attack](feats#_power-attack), Ride-By Attack, [Skill Focus](feats#_skill-focus) ( [Ride](skill_dir/ride#_ride)), Spirited Charge, [Trample](monsters/universalMonsterRules#_trample), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (spear)
 
-**Skills** [Fly](skill_dir/fly#_fly +27, [Handle Animal](skill_dir/handleAnimal#_handle-animal +25, [Heal](skill_dir/heal#_heal +24, [Knowledge](skill_dir/knowledge#_knowledge) (planes +20, [Perception](skill_dir/perception#_perception +24, [Ride](skill_dir/ride#_ride +28, [Sense Motive](skill_dir/senseMotive#_sense-motive +24
+**Skills** [Fly](skill_dir/fly#_fly) +27, [Handle Animal](skills/handleAnimal#_handle-animal) +25, [Heal](skill_dir/heal#_heal) +24, [Knowledge](skills/knowledge#_knowledge) (planes) +20, [Perception](skill_dir/perception#_perception) +24, [Ride](skills/ride#_ride) +28, [Sense Motive](skill_dir/senseMotive#_sense-motive) +24
 
-**Languages** Celestial, Common; _ [tongues](spell_dir/tongues#_tongues)_
+**Languages** Celestial, Common; _ [tongues](spells/tongues#_tongues)_
 
 **SQ** battle trained, choose the slain, holy zeal
 
@@ -59,17 +59,17 @@ Ecology
 
 **Environment** any
 
-**Organization** solitary or ride (2–8 valkyries
+**Organization** solitary or ride (2–8 valkyries)
 
 **Treasure** triple (_+2 breastplate_, _+2 [returning](magicItem_dir/weapons#_weapons-returning) spear_, other treasure)
 
 Special Abilities
 
-**Battle Trained (Ex** A valkyrie is proficient with all armor. Armor never impacts a valkyrie's speed, nor does a valkyrie take armor check penalties on [Ride](skill_dir/ride#_ride) checks.
+**Battle Trained (Ex)** A valkyrie is proficient with all armor. Armor never impacts a valkyrie's speed, nor does a valkyrie take armor check penalties on [Ride](skills/ride#_ride) checks.
 
-**Choose the Slain (Su** A valkyrie can draw the soul from a newly dead body and store it in her spear for transport to the Outer Planes. This functions as _ [soul bind](spell_dir/soulBind#_soul-bind)_, but the dead creature must be willing to have its soul taken. If the creature is unwilling, this ability has no effect.
+**Choose the Slain (Su)** A valkyrie can draw the soul from a newly dead body and store it in her spear for transport to the Outer Planes. This functions as _ [soul bind](spell_dir/soulBind#_soul-bind)_, but the dead creature must be willing to have its soul taken. If the creature is unwilling, this ability has no effect.
 
-**Holy Zeal (Su** A valkyrie adds her Charisma modifier as a deflection bonus to her Armor Class.
+**Holy Zeal (Su)** A valkyrie adds her Charisma modifier as a deflection bonus to her Armor Class.
 
 Valkyries are outsiders who scour the battlefields of the Material Plane for warriors of great prowess and legendary renown. With a glance, a valkyrie can tell who is near death and ready to give up life and who fights on to live another day, and can either claim the soul of the slain or aid the living to continue the fight.
 

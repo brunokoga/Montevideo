@@ -1,5 +1,5 @@
 ---
-title: spells/makeWhole
+title: spell_dir/makeWhole
 ---
  **Make Whole**
 

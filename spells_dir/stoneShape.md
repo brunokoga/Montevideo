@@ -1,5 +1,5 @@
 ---
-title: spells/stoneShape
+title: spell_dir/stoneShape
 ---
  **Stone Shape**
 

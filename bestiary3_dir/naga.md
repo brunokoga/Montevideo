@@ -17,7 +17,7 @@ DEFENSE
 
 **AC** 20, touch 14, flat-footed 15 (+4 Dex, +1 dodge, +6 natural, –1 size)
 
-**hp** 68 (8d8+32
+**hp** 68 (8d8+32)
 
 **Fort** +6, **Ref** +8, **Will** +9
 
@@ -25,19 +25,19 @@ OFFENSE
 
 **Speed** 40 ft.
 
-**Melee** bite +7 (2d6+3 plus [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** bite +7 (2d6+3 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
 **Special Attacks** hypnosis, sneak attack +3d6
 
-**Spells Known** (CL 5th; concentration +8
+**Spells Known** (CL 5th; concentration +8)
 
-2nd (5/day)—_ [invisibility](spell_dir/invisibility#_invisibility, [scorching ray](spell_dir/scorchingRay#_scorching-ray_
+2nd (5/day)—_ [invisibility](spell_dir/invisibility#_invisibility), [scorching ray](spells/scorchingRay#_scorching-ray)_
 
-1st (7/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 14, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 14)
+1st (7/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 14), _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [magic missile](spell_dir/magicMissile#_magic-missile)_, _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 14)
 
-0 (at will—_ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [disrupt undead](spell_dir/disruptUndead#_disrupt-undead_, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [open/close](spell_dir/openClose#_open-close, [prestidigitation](spell_dir/prestidigitation#_prestidigitation, [ray of frost](spell_dir/rayOfFrost#_ray-of-frost)_
+0 (at will)—_ [detect magic](spell_dir/detectMagic#_detect-magic)_, _ [disrupt undead](spells/disruptUndead#_disrupt-undead)_, _ [mage hand](spell_dir/mageHand#_mage-hand)_, _ [open/close](spell_dir/openClose#_open-close), [prestidigitation](spells/prestidigitation#_prestidigitation), [ray of frost](spell_dir/rayOfFrost#_ray-of-frost)_
 
 STATISTICS
 
@@ -45,9 +45,9 @@ STATISTICS
 
 **Base Atk** +6; **CMB** +9; **CMD** 24 (can't be tripped)
 
-**Feats** [Combat Casting](feats#_combat-casting), [Dodge](feats#_dodge), [Eschew Materials](feats#_eschew-materials)B, [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus ( [Stealth](skill_dir/stealth#_stealth)
+**Feats** [Combat Casting](feats#_combat-casting), [Dodge](feats#_dodge), [Eschew Materials](feats#_eschew-materials)B, [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth))
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +7, [Diplomacy](skill_dir/diplomacy#_diplomacy +7, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +5, [Knowledge](skill_dir/knowledge#_knowledge) (nature +9, [Perception](skill_dir/perception#_perception +14, [Spellcraft](skill_dir/spellcraft#_spellcraft +8, [Stealth](skill_dir/stealth#_stealth) +14
+**Skills** [Bluff](skill_dir/bluff#_bluff) +7, [Diplomacy](skills/diplomacy#_diplomacy) +7, [Knowledge](skill_dir/knowledge#_knowledge) (arcana) +5, [Knowledge](skills/knowledge#_knowledge) (nature) +9, [Perception](skill_dir/perception#_perception) +14, [Spellcraft](skills/spellcraft#_spellcraft) +8, [Stealth](skill_dir/stealth#_stealth) +14
 
 **Languages** Aklo, Common
 
@@ -61,9 +61,9 @@ ECOLOGY
 
 SPECIAL ABILITIES
 
-**Hypnosis (Su** Once per day, by weaving and coiling its body and hissing as a standard action, a lunar naga can cause its scales to shimmer and glow with moonlike radiance. All creatures within 30 feet must make a DC 17 Will save to avoid becoming fascinated. The lunar naga can maintain this fascination effect as long as it concentrates; fascinated creatures follow the still-glowing naga if it moves as long as it maintains the effect by concentrating. The save DC is Charisma-based.
+**Hypnosis (Su)** Once per day, by weaving and coiling its body and hissing as a standard action, a lunar naga can cause its scales to shimmer and glow with moonlike radiance. All creatures within 30 feet must make a DC 17 Will save to avoid becoming fascinated. The lunar naga can maintain this fascination effect as long as it concentrates; fascinated creatures follow the still-glowing naga if it moves as long as it maintains the effect by concentrating. The save DC is Charisma-based.
 
-**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex** Bite—injury; _save_ Fort DC 18; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con and 1 Wis; _cure_ 1 save.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 18; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con and 1 Wis; _cure_ 1 save.
 
 **Spells** A lunar naga casts spells as a 5th-level sorcerer.
 
@@ -81,15 +81,15 @@ Royal Naga CR 11
 
 XP 12,800
 
-LN Huge aberration ( [shapechanger](monster_dir/creatureTypes#_shapechanger-subtype)
+LN Huge aberration ( [shapechanger](monster_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_; [Perception](skill_dir/perception#_perception) +27
+**Init** +7; **Senses** darkvision 60 ft., _ [see invisibility](spells/seeInvisibility#_see-invisibility)_; [Perception](skill_dir/perception#_perception) +27
 
 Defense
 
 **AC** 26, touch 11, flat-footed 23 (+3 Dex, +15 natural, –2 size)
 
-**hp** 133 (14d8+70
+**hp** 133 (14d8+70)
 
 **Fort** +9, **Ref** +9, **Will** +15
 
@@ -97,27 +97,27 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** 5 bites +14 (2d6+6 plus [bleed](monster_dir/universalMonsterRules#_bleed)
+**Melee** 5 bites +14 (2d6+6 plus [bleed](monsters/universalMonsterRules#_bleed))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
 **Special Attacks** [bleed](monster_dir/universalMonsterRules#_bleed) (1d6), dual gaze, rend (3 bites, 2d6+9)
 
-**Spell-Like Abilities** (CL 9th; concentration +13
+**Spell-Like Abilities** (CL 9th; concentration +13)
 
-Constant—_ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_
+Constant—_ [see invisibility](spells/seeInvisibility#_see-invisibility)_
 
-**Spells Known** (CL 9th; concentration +13
+**Spells Known** (CL 9th; concentration +13)
 
-4th (5/day)—_ [arcane eye](spell_dir/arcaneEye#_arcane-eye_, _ [charm monster](spell_dir/charmMonster#_charm-monster)_ (DC 18
+4th (5/day)—_ [arcane eye](spell_dir/arcaneEye#_arcane-eye)_, _ [charm monster](spells/charmMonster#_charm-monster)_ (DC 18)
 
-3rd (7/day)—_ [blink](spell_dir/blink#_blink_, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [suggestion](spell_dir/suggestion#_suggestion)_ (DC 17
+3rd (7/day)—_ [blink](spell_dir/blink#_blink)_, _ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [suggestion](spell_dir/suggestion#_suggestion)_ (DC 17)
 
-2nd (7/day)—_ [enthrall](spell_dir/enthrall#_enthrall)_ (DC 16, _ [hold person](spell_dir/holdPerson#_hold-person)_ (DC 16, _ [invisibility](spell_dir/invisibility#_invisibility_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_
+2nd (7/day)—_ [enthrall](spell_dir/enthrall#_enthrall)_ (DC 16), _ [hold person](spells/holdPerson#_hold-person)_ (DC 16), _ [invisibility](spell_dir/invisibility#_invisibility)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_
 
-1st (7/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 15, _ [mage armor](spell_dir/mageArmor#_mage-armor_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 15, _ [shield](spell_dir/shield#_shield)_
+1st (7/day)—_ [charm person](spell_dir/charmPerson#_charm-person)_ (DC 15), _ [mage armor](spells/mageArmor#_mage-armor)_, _ [magic missile](spell_dir/magicMissile#_magic-missile)_, _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 15), _ [shield](spell_dir/shield#_shield)_
 
-0 (at will—_ [daze](spell_dir/daze#_daze)_ (DC 14, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [flare](spell_dir/flare#_flare)_ (DC 14, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [message](spell_dir/message#_message_, _ [open/close](spell_dir/openClose#_open-close_, _ [read magic](spell_dir/readMagic#_read-magic_, _ [touch of fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue)_
+0 (at will)—_ [daze](spells/daze#_daze)_ (DC 14), _ [detect magic](spell_dir/detectMagic#_detect-magic)_, _ [flare](spells/flare#_flare)_ (DC 14), _ [mage hand](spell_dir/mageHand#_mage-hand)_, _ [message](spells/message#_message)_, _ [ope_dir/close](spells/openClose#_open-close)_, _ [read magic](spell_dir/readMagic#_read-magic)_, _ [touch of fatigue](spells/touchOfFatigue#_touch-of-fatigue)_
 
 Statistics
 
@@ -125,13 +125,13 @@ Statistics
 
 **Base Atk** +10; **CMB** +18 (+22 grapple); **CMD** 31 (can't be tripped)
 
-**Feats** [Alertness](feats#_alertness), [Blind-Fight](feats#_blind-fight), [Combat Casting](feats#_combat-casting), [Combat Reflexes](feats#_combat-reflexes), [Eschew Materials](feats#_eschew-materials)B, [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Stand Still](feats#_stand-still
+**Feats** [Alertness](feats#_alertness), [Blind-Fight](feats#_blind-fight), [Combat Casting](feats#_combat-casting), [Combat Reflexes](feats#_combat-reflexes), [Eschew Materials](feats#_eschew-materials)B, [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Stand Still](feats#_stand-still)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +20 (+24 when jumping, [Bluff](skill_dir/bluff#_bluff +18, [Diplomacy](skill_dir/diplomacy#_diplomacy +18, [Knowledge](skill_dir/knowledge#_knowledge) (arcana +18, [Knowledge](skill_dir/knowledge#_knowledge) (history +11, [Knowledge](skill_dir/knowledge#_knowledge) (nobility +11, [Perception](skill_dir/perception#_perception +27, [Sense Motive](skill_dir/senseMotive#_sense-motive +24, [Stealth](skill_dir/stealth#_stealth +12
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +20 (+24 when jumping), [Bluff](skills/bluff#_bluff) +18, [Diplomacy](skill_dir/diplomacy#_diplomacy) +18, [Knowledge](skills/knowledge#_knowledge) (arcana) +18, [Knowledge](skill_dir/knowledge#_knowledge) (history) +11, [Knowledge](skills/knowledge#_knowledge) (nobility) +11, [Perception](skill_dir/perception#_perception) +27, [Sense Motive](skills/senseMotive#_sense-motive) +24, [Stealth](skill_dir/stealth#_stealth) +12
 
 **Languages** Celestial, Common, Infernal
 
-**SQ** [change shape](monster_dir/universalMonsterRules#_change-shape (five humanoid shapes; _ [alter self](spell_dir/alterSelf#_alter-self)_
+**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (five humanoid shapes; _ [alter self](spell_dir/alterSelf#_alter-self)_)
 
 Ecology
 
@@ -143,9 +143,9 @@ Ecology
 
 Special Abilities
 
-**[Change Shape](monster_dir/universalMonsterRules#_change-shape) (Su** A royal naga can use this ability to take one of five specific humanoid forms. Each of these forms has a unique appearance (such as a female dwarf with red hair, an elderly male [human](monster_dir/creatureTypes#_human-subtype), and so on) and the naga can only use this ability to assume these five forms. The naga can still use its dual gaze in humanoid form.
+**[Change Shape](monsters/universalMonsterRules#_change-shape) (Su)** A royal naga can use this ability to take one of five specific humanoid forms. Each of these forms has a unique appearance (such as a female dwarf with red hair, an elderly male [human](monster_dir/creatureTypes#_human-subtype), and so on) and the naga can only use this ability to assume these five forms. The naga can still use its dual gaze in humanoid form.
 
-**Dual Gaze (Su** A royal naga has a piercing stare capable of crippling those that meet its gazes. The creature has two gaze attacks and can switch between them as a move action. One gaze causes those that succumb to it to become permanently blinded, while the other causes those that succumb to be permanently deafened. A DC 21 Fortitude save negates the effects of either gaze; otherwise, the effects are permanent until cured. Royal nagas generally prefer to keep their deafening gaze active, switching to the blindness gaze once combat begins and some of their foes have already been deafened, since those who are blinded can no longer be harmed by gaze attacks. The save DC is Charisma-based.
+**Dual Gaze (Su)** A royal naga has a piercing stare capable of crippling those that meet its gazes. The creature has two gaze attacks and can switch between them as a move action. One gaze causes those that succumb to it to become permanently blinded, while the other causes those that succumb to be permanently deafened. A DC 21 Fortitude save negates the effects of either gaze; otherwise, the effects are permanent until cured. Royal nagas generally prefer to keep their deafening gaze active, switching to the blindness gaze once combat begins and some of their foes have already been deafened, since those who are blinded can no longer be harmed by gaze attacks. The save DC is Charisma-based.
 
 **Spells** A royal naga casts spells as a 9th-level sorcerer.
 
@@ -161,7 +161,7 @@ Water Naga CR 7
 
 XP 3,200
 
-N Large aberration ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
+N Large aberration ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
 
 **Init** +6; **Senses** darkvision 60 ft.; [Perception](skill_dir/perception#_perception) +17
 
@@ -169,7 +169,7 @@ Defense
 
 **AC** 20, touch 15, flat-footed 14 (+6 Dex, +5 natural, –1 size)
 
-**hp** 76 (8d8+40
+**hp** 76 (8d8+40)
 
 **Fort** +7, **Ref** +10, **Will** +9
 
@@ -177,19 +177,19 @@ Offense
 
 **Speed** 30 ft., swim 50 ft.
 
-**Melee** bite +10 (2d6+5 plus [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su))), tail slap +5 (1d8+2)
+**Melee** bite +10 (2d6+5 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su))), tail slap +5 (1d8+2)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Spells Known** (CL 7th; concentration +11
+**Spells Known** (CL 7th; concentration +11)
 
-3rd (5/day)—_ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy_, _ [suggestion](spell_dir/suggestion#_suggestion)_ (DC 17
+3rd (5/day)—_ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy)_, _ [suggestion](spells/suggestion#_suggestion)_ (DC 17)
 
-2nd (7/day)—_ [acid arrow](spell_dir/acidArrow#_acid-arrow_, _ [invisibility](spell_dir/invisibility#_invisibility_, _ [mirror image](spell_dir/mirrorImage#_mirror-image_
+2nd (7/day)—_ [acid arrow](spell_dir/acidArrow#_acid-arrow)_, _ [invisibility](spells/invisibility#_invisibility)_, _ [mirror image](spell_dir/mirrorImage#_mirror-image)_
 
-1st (7/day)—_ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist_, _ [shield](spell_dir/shield#_shield_, _ [true strike](spell_dir/trueStrike#_true-strike)_
+1st (7/day)—_ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist)_, _ [shield](spells/shield#_shield)_, _ [true strike](spell_dir/trueStrike#_true-strike)_
 
-0 (at will—_ [acid splash](spell_dir/acidSplash#_acid-splash_, _ [daze](spell_dir/daze#_daze)_ (DC 14, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [light](spell_dir/light#_light_, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [open/close](spell_dir/openClose#_open-close_, _ [read magic](spell_dir/readMagic#_read-magic)_
+0 (at will)—_ [acid splash](spells/acidSplash#_acid-splash)_, _ [daze](spell_dir/daze#_daze)_ (DC 14), _ [detect magic](spells/detectMagic#_detect-magic)_, _ [light](spell_dir/light#_light)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [ope_dir/close](spells/openClose#_open-close)_, _ [read magic](spell_dir/readMagic#_read-magic)_
 
 Statistics
 
@@ -197,9 +197,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +12; **CMD** 28 (can't be tripped)
 
-**Feats** [Combat Casting](feats#_combat-casting), [Eschew Materials](feats#_eschew-materials)B, [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus ( [Perception](skill_dir/perception#_perception)), [Skill Focus](feats#_skill-focus ( [Stealth](skill_dir/stealth#_stealth)
+**Feats** [Combat Casting](feats#_combat-casting), [Eschew Materials](feats#_eschew-materials)B, [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception)), [Skill Focus](feats#_skill-focus) ( [Stealth](skill_dir/stealth#_stealth))
 
-**Skills** [Bluff](skill_dir/bluff#_bluff +8, [Knowledge](skill_dir/knowledge#_knowledge) (local +4, [Perception](skill_dir/perception#_perception +17, [Spellcraft](skill_dir/spellcraft#_spellcraft +11, [Stealth](skill_dir/stealth#_stealth +16, [Swim](skill_dir/swim#_swim) +13
+**Skills** [Bluff](skills/bluff#_bluff) +8, [Knowledge](skill_dir/knowledge#_knowledge) (local) +4, [Perception](skills/perception#_perception) +17, [Spellcraft](skill_dir/spellcraft#_spellcraft) +11, [Stealth](skills/stealth#_stealth) +16, [Swim](skill_dir/swim#_swim) +13
 
 **Languages** Aquan, Common
 
@@ -209,13 +209,13 @@ Ecology
 
 **Environment** temperate water
 
-**Organization** solitary, pair, or nest (3–4
+**Organization** solitary, pair, or nest (3–4)
 
 **Treasure** standard
 
 Special Abilities
 
-**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex** Bite—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 2 saves.
+**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 2 saves.
 
 **Spells** A water naga casts spells as a 7th-level sorcerer.
 

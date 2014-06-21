@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spell_dir/lifeConduit
+title: ultimateComba_dir/spells/lifeConduit
 ---
 Life Conduit
 
-**School** conjuration (healing; **Level** summoner 1
+**School** conjuration (healing); **Level** summoner 1
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ Life Conduit
 
 **Target** you
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 You utilize _life conduit_ to share hit points with your eidolon. While this spell is active, you can spend a swift action to transfer 1d6 hit points between you and your eidolon, either taking damage yourself and healing your eidolon or healing yourself and damaging your eidolon. If your eidolon moves farther than 50 feet from you, this spell ends.
 

@@ -7,7 +7,7 @@ title: spell_dir/findThePath
 
 **Casting Time** 3 rounds
 
-**Components** V, S, F (a set of divination counters
+**Components** V, S, F (a set of divination counters)
 
 **Range** personal or touch
 

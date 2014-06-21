@@ -1,5 +1,5 @@
 ---
-title: advanced/spell_dir/revivingFinale
+title: advance_dir/spells/revivingFinale
 ---
  **Reviving Finale**
 
@@ -15,7 +15,7 @@ title: advanced/spell_dir/revivingFinale
 
 **Duration** instantaneous
 
-**Saving Throw** Will half (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** Will half (harmless); **Spell Resistance** yes (harmless)
 
 You must have a bardic performance in effect to cast this spell. With a flourish, you immediately end your bardic performance, and allies within the area of the spell regain 2d6 hit points. This spell has no effect on undead creatures.
 

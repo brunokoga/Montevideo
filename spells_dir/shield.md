@@ -1,5 +1,5 @@
 ---
-title: spells/shield
+title: spell_dir/shield
 ---
  **Shield**
 

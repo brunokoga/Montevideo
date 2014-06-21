@@ -1,11 +1,11 @@
 ---
-title: advanced/spell_dir/tirelessPursuers
+title: advance_dir/spells/tirelessPursuers
 ---
  **Tireless Pursuers**
 
 **School** transmutation; **Level** inquisitor 4, ranger 3
 
-**Components** V, S, M (a hard biscuit broken into pieces
+**Components** V, S, M (a hard biscuit broken into pieces)
 
 **Range** touch
 
@@ -13,5 +13,5 @@ title: advanced/spell_dir/tirelessPursuers
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions as _ [tireless pursuit](tirelessPursuit#_tireless-pursuit_, except as noted above.
+This spell functions as _ [tireless pursuit](tirelessPursuit#_tireless-pursuit)_, except as noted above.
 

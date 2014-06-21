@@ -1,5 +1,5 @@
 ---
-title: spells/clenchedFist
+title: spell_dir/clenchedFist
 ---
  **Clenched Fist**
 

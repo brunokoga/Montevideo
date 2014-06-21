@@ -3,7 +3,7 @@ title: spell_dir/antipathy
 ---
  **Antipathy**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** druid 9, sorcerer/wizard 8
+**School** enchantment (compulsion) [mind-affecting]; **Level** druid 9, sorcerer/wizard 8
 
 **Casting Time** 1 hour
 
@@ -11,9 +11,9 @@ title: spell_dir/antipathy
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** one location (up to a 10-ft. cub_dir/level or one object
+**Target** one location (up to a 10-ft. cub_dir/level) or one object
 
-**Duration** 2 hour_dir/level (D
+**Duration** 2 hours/level (D)
 
 **Saving Throw** [Will](../combat#_will) partial; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

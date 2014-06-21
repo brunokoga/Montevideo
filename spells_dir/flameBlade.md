@@ -1,5 +1,5 @@
 ---
-title: spells/flameBlade
+title: spell_dir/flameBlade
 ---
  **Flame Blade**
 

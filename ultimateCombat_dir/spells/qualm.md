@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spell_dir/qualm
+title: ultimateComba_dir/spells/qualm
 ---
 Qualm
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 2, inquisitor 2, sorcerer/wizard 2, witch 2
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, inquisitor 2, sorcere_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ Qualm
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The target is suddenly beset with unexplainable doubts about the effectiveness of its actions and the righteousness of its cause. The creature takes a –10 penalty on its ability checks, skill checks, and concentration checks, until the duration ends, or until it spends its entire turn doing absolutely nothing (it spends a full-round action gaining focus. Spending an entire turn doing nothing discharges the spell.
+The target is suddenly beset with unexplainable doubts about the effectiveness of its actions and the righteousness of its cause. The creature takes a –10 penalty on its ability checks, skill checks, and concentration checks, until the duration ends, or until it spends its entire turn doing absolutely nothing (it spends a full-round action gaining focus). Spending an entire turn doing nothing discharges the spell.
 

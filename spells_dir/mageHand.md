@@ -1,5 +1,5 @@
 ---
-title: spells/mageHand
+title: spell_dir/mageHand
 ---
  **Mage Hand**
 

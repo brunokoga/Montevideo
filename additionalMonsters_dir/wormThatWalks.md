@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/wormThatWalks
+title: additionalMonster_dir/wormThatWalks
 ---
 # Worm That Walks
 
@@ -11,51 +11,51 @@ Worm that WalksCR 14
 
 Human worm that walks conjurer 13
 
-NE Medium [vermin](monster_dir/creatureTypes#_vermin ( [augmented](monster_dir/creatureTypes#_augmented-subtype) human
+NE Medium [vermin](monsters/creatureTypes#_vermin) ( [augmented](monster_dir/creatureTypes#_augmented-subtype) human)
 
-**Init** +8; **Senses** [blindsight](monster_dir/universalMonsterRules#_blindsight 30 ft., darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +22
+**Init** +8; **Senses** [blindsight](monsters/universalMonsterRules#_blindsight) 30 ft., darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +22
 
 Defense
 
 **AC** 23, touch 17, flat-footed 18 (+6 armor, +4 Dex, +1 dodge, +2 insight)
 
-**hp** 113 (13d6+65; fast healing 14
+**hp** 113 (13d6+65); fast healing 14
 
 **Fort** +11, **Ref** +12, **Will** +13
 
-**Defensive Abilities** worm that walks traits; **DR** 15/—; **Immune** critical hits, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su), paralysis, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su), sleep
+**Defensive Abilities** worm that walks traits; **DR** 15/—; **Immune** critical hits, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), paralysis, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), sleep
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** slam +10 (1d4–1 plus [grab](monster_dir/universalMonsterRules#_grab)
+**Melee** slam +10 (1d4–1 plus [grab](monster_dir/universalMonsterRules#_grab))
 
-**Special Attacks** discorporate, [grab](monster_dir/universalMonsterRules#_grab) (Large), squirming embrace
+**Special Attacks** discorporate, [grab](monsters/universalMonsterRules#_grab) (Large), squirming embrace
 
-**Arcane School Spell-Like Abilities** (CL 13th; concentration +18
+**Arcane School Spell-Like Abilities** (CL 13th; concentration +18)
 
-At will—dimensional steps (390 fee_dir/day
+At will—dimensional steps (390 fee_dir/day)
 
 8/day—acid dart (1d6+6 acid)
 
 **Conjurer Spells Prepared** (CL 13th; concentration +18)
 
-7th—_ [plane shift](additionalMonsters/../spell_dir/planeShift#_plane-shift)_ (DC 22, _ [project image](additionalMonsters/../spell_dir/projectImage#_project-image_
+7th—_ [plane shift](additionalMonster_dir/../spell_dir/planeShift#_plane-shift)_ (DC 22), _ [project image](additionalMonsters/../spell_dir/projectImage#_project-image)_
 
-6th—_ [acid fog](additionalMonsters/../spell_dir/acidFog#_acid-fog_, _ [disintegrate](additionalMonsters/../spell_dir/disintegrate#_disintegrate)_ (DC 21, _ [summon monster VI](additionalMonsters/../spell_dir/summonMonster#_summon-monster-vi_
+6th—_ [acid fog](additionalMonsters/../spell_dir/acidFog#_acid-fog)_, _ [disintegrate](additionalMonsters/../spell_dir/disintegrate#_disintegrate)_ (DC 21), _ [summon monster VI](additionalMonsters/../spell_dir/summonMonster#_summon-monster-vi)_
 
-5th—_ [cloudkill](additionalMonsters/../spell_dir/cloudkill#_cloudkill)_ (DC 20, _ [dismissal](additionalMonsters/../spell_dir/dismissal#_dismissal)_ (DC 20, _ [shadow evocation](additionalMonsters/../spell_dir/shadowEvocation#_shadow-evocation)_ (DC 20, _ [telekinesis](additionalMonsters/../spell_dir/telekinesis#_telekinesis)_ (DC 20, _ [teleport](additionalMonsters/../spell_dir/teleport#_teleport_
+5th—_ [cloudkill](additionalMonsters/../spell_dir/cloudkill#_cloudkill)_ (DC 20), _ [dismissal](additionalMonsters/../spell_dir/dismissal#_dismissal)_ (DC 20), _ [shadow evocation](additionalMonsters/../spell_dir/shadowEvocation#_shadow-evocation)_ (DC 20), _ [telekinesis](additionalMonsters/../spell_dir/telekinesis#_telekinesis)_ (DC 20), _ [teleport](additionalMonsters/../spell_dir/teleport#_teleport)_
 
-4th—_ [black tentacles](additionalMonsters/../spell_dir/blackTentacles#_black-tentacles_, _ [confusion](additionalMonsters/../spell_dir/confusion#_confusion)_ (DC 19, _ [dimension door](additionalMonsters/../spell_dir/dimensionDoor#_dimension-door)_ (2, _ [phantasmal killer](additionalMonsters/../spell_dir/phantasmalKiller#_phantasmal-killer)_ (DC 19, _ [summon monster IV](additionalMonsters/../spell_dir/summonMonster#_summon-monster-iv_
+4th—_ [black tentacles](additionalMonsters/../spell_dir/blackTentacles#_black-tentacles)_, _ [confusion](additionalMonsters/../spell_dir/confusion#_confusion)_ (DC 19), _ [dimension door](additionalMonsters/../spell_dir/dimensionDoor#_dimension-door)_ (2), _ [phantasmal killer](additionalMonsters/../spell_dir/phantasmalKiller#_phantasmal-killer)_ (DC 19), _ [summon monster IV](additionalMonsters/../spell_dir/summonMonster#_summon-monster-iv)_
 
-3rd—_ [dispel magic](additionalMonsters/../spell_dir/dispelMagic#_dispel-magic_, _ [fly](additionalMonsters/../spell_dir/fly_, _ [protection from energy](additionalMonsters/../spell_dir/protectionFromEnergy#_protection-from-energy_, _ [slow](additionalMonsters/../spell_dir/slow#_slow)_ (DC 18, _ [stinking cloud](additionalMonsters/../spell_dir/stinkingCloud#_stinking-cloud)_ (DC 18, _ [summon monster III](additionalMonsters/../spell_dir/summonMonster#_summon-monster-iii_
+3rd—_ [dispel magic](additionalMonsters/../spell_dir/dispelMagic#_dispel-magic)_, _ [fly](additionalMonsters/../spell_dir/fly)_, _ [protection from energy](additionalMonsters/../spell_dir/protectionFromEnergy#_protection-from-energy)_, _ [slow](additionalMonsters/../spell_dir/slow#_slow)_ (DC 18), _ [stinking cloud](additionalMonsters/../spell_dir/stinkingCloud#_stinking-cloud)_ (DC 18), _ [summon monster III](additionalMonsters/../spell_dir/summonMonster#_summon-monster-iii)_
 
-2nd—_ [acid arrow](additionalMonsters/../spell_dir/acidArrow#_acid-arrow_, _ [detect thoughts](additionalMonsters/../spell_dir/detectThoughts#_detect-thoughts)_ (DC 17, _ [fog cloud](additionalMonsters/../spell_dir/fogCloud_, _ [glitterdust](additionalMonsters/../spell_dir/glitterdust#_glitterdust)_ (DC 17, _ [invisibility](additionalMonsters/../spell_dir/invisibility#_invisibility_, _ [summon swarm](additionalMonsters/../spell_dir/summonSwarm#_summon-swarm_
+2nd—_ [acid arrow](additionalMonsters/../spell_dir/acidArrow#_acid-arrow)_, _ [detect thoughts](additionalMonsters/../spell_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [fog cloud](additionalMonsters/../spell_dir/fogCloud)_, _ [glitterdust](additionalMonsters/../spell_dir/glitterdust#_glitterdust)_ (DC 17), _ [invisibility](additionalMonsters/../spell_dir/invisibility#_invisibility)_, _ [summon swarm](additionalMonsters/../spell_dir/summonSwarm#_summon-swarm)_
 
-1st—_ [charm person](additionalMonsters/../spell_dir/charmPerson#_charm-person)_ (DC 16, _ [feather fall](additionalMonsters/../spell_dir/featherFall#_feather-fall_, _ [grease](additionalMonsters/../spell_dir/grease#_grease)_ (DC 16, _ [obscuring mist](additionalMonsters/../spell_dir/obscuringMist#_obscuring-mist_, _ [protection from good](additionalMonsters/../spell_dir/protectionFromGood#_protection-from-good_, _ [reduce person](additionalMonsters/../spell_dir/reducePerson#_reduce-person)_ (DC 16, _ [shield](additionalMonsters/../spell_dir/shield#_shield)_
+1st—_ [charm person](additionalMonsters/../spell_dir/charmPerson#_charm-person)_ (DC 16), _ [feather fall](additionalMonsters/../spell_dir/featherFall#_feather-fall)_, _ [grease](additionalMonsters/../spell_dir/grease#_grease)_ (DC 16), _ [obscuring mist](additionalMonsters/../spell_dir/obscuringMist#_obscuring-mist)_, _ [protection from good](additionalMonsters/../spell_dir/protectionFromGood#_protection-from-good)_, _ [reduce person](additionalMonsters/../spell_dir/reducePerson#_reduce-person)_ (DC 16), _ [shield](additionalMonsters/../spell_dir/shield#_shield)_
 
-0 (at will—_ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic_, _ [mage hand](additionalMonsters/../spell_dir/mageHand#_mage-hand_, _ [prestidigitation](additionalMonsters/../spell_dir/prestidigitation#_prestidigitation_, _ [read magic](additionalMonsters/../spell_dir/readMagic#_read-magic)_
+0 (at will)—_ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic)_, _ [mage hand](additionalMonsters/../spell_dir/mageHand#_mage-hand)_, _ [prestidigitation](additionalMonsters/../spell_dir/prestidigitation#_prestidigitation)_, _ [read magic](additionalMonsters/../spell_dir/readMagic#_read-magic)_
 
 **Opposition Schools** Evocation, Necromancy
 
@@ -63,16 +63,16 @@ Statistics
 
 **Str** 8, **Dex** 18, **Con** 17, **Int** 20, **Wis** 12, **Cha** 10
 
-**Base Atk** +6; **CMB** +5 (+13 grapple; **CMD** 26
+**Base Atk** +6; **CMB** +5 (+13 grapple); **CMD** 26
 
-**Feats** [Arcane Armor Training](additionalMonsters/../feats#_arcane-armor-training), [Combat Casting](additionalMonsters/../feats#_combat-casting), [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Craft Magic Arms and Armor](additionalMonsters/../feats#_craft-magic-arms-and-armor), [Craft Wondrous Item](additionalMonsters/../feats#_craft-wondrous-item), [Diehard](additionalMonsters/../feats#_diehard)B, [Dodge](additionalMonsters/../feats#_dodge), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), Light Armor Proficiency, [Scribe Scroll](additionalMonsters/../feats#_scribe-scroll), [Toughness](additionalMonsters/../feats#_toughness), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Arcane Armor Training](additionalMonsters/../feats#_arcane-armor-training), [Combat Casting](additionalMonster_dir/../feats#_combat-casting), [Combat Reflexes](additionalMonster_dir/../feats#_combat-reflexes), [Craft Magic Arms and Armor](additionalMonster_dir/../feats#_craft-magic-arms-and-armor), [Craft Wondrous Item](additionalMonster_dir/../feats#_craft-wondrous-item), [Diehard](additionalMonster_dir/../feats#_diehard)B, [Dodge](additionalMonster_dir/../feats#_dodge), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), Light Armor Proficiency, [Scribe Scroll](additionalMonster_dir/../feats#_scribe-scroll), [Toughness](additionalMonster_dir/../feats#_toughness), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
 
-**Skills** [Craft](additionalMonsters/../skill_dir/craft#_craft) (alchemy +21, [Fly](additionalMonsters/../skill_dir/fly#_fly +20, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +13, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (arcana, dungeoneering, planes +21, [Perception](additionalMonsters/../skill_dir/perception#_perception +22, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive +9, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft +21, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +12; **Racial Modifiers**   
-+8 [Perception](additionalMonsters/../skill_dir/perception#_perception, +8 [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive, +8 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
+**Skills** [Craft](additionalMonster_dir/../skill_dir/craft#_craft) (alchemy) +21, [Fly](additionalMonsters/../skill_dir/fly#_fly) +20, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +13, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (arcana, dungeoneering, planes) +21, [Perception](additionalMonsters/../skill_dir/perception#_perception) +22, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +9, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft) +21, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +12; **Racial Modifiers**   
++8 [Perception](additionalMonsters/../skill_dir/perception#_perception), +8 [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive), +8 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
 
 **Languages** Abyssal, Aklo, Common, Infernal
 
-**SQ** arcane bond (staff), summoner's charm (6 rounds
+**SQ** arcane bond (staff), summoner's charm (6 rounds)
 
 Ecology
 
@@ -80,7 +80,7 @@ Ecology
 
 **Organization** solitary
 
-**Treasure** NPC Gear (_+4 leather armor_, _ [cloak of resistance](additionalMonsters/../magicItem_dir/wondrousItems#_cloak-of-resistance +4_, _ [staff of charming](additionalMonsters/../magicItem_dir/staves#_staff-of-charming)_)
+**Treasure** NPC Gear (_+4 leather armor_, _ [cloak of resistance](additionalMonsters/../magicItem_dir/wondrousItems#_cloak-of-resistance) +4_, _ [staff of charming](additionalMonsters/../magicItem_dir/staves#_staff-of-charming)_)
 
 When a powerful spellcaster with a strong personality, a lust for life, and a remorselessly evil soul dies and is buried in a graveyard infused with eldritch magic, a strange phenomenon sometimes occurs. The flesh of the decaying body fats and instructs the very worms that gnaw, and these graveworms quicken not only on corruption but upon the spellcaster's memories and magical power. The spellcaster's very soul is consumed in this vile process, only to be split apart to inhabit each of the individual chewing worms in so many fragments. The result is a hideous hive mind of slithering life known as a worm that walks—a mass of worms that clings to the vague shape of the body that granted it this new existence, and can wield the powers and magic the spellcaster had in life. A worm that walks retains memories of its life as a spellcaster before its death, but is not undead—it is a hideous new form of undulant life.
 
@@ -104,7 +104,7 @@ When a powerful spellcaster with a strong personality, a lust for life, and a re
 
 **Defensive Abilities** : A worm that walks retains all of the base creature's defensive abilities and special qualities. It also gains the following additional defensive abilities.
 
-_Worm that Walks Traits_: A worm that walks has no discernible anatomy, and is not subject to critical hits or flanking. Reducing a worm that walks to 0 hit points causes it to discorporate (see below—a worm that walks at 0 hit points is staggered, and one at negative hit points is dying. Worms that walk are immune to any physical spell or effect that targets a specific number of creatures (including single-target spells such as _ [disintegrate](additionalMonsters/../spell_dir/disintegrate#_disintegrate)_), with the exception of such spells and effects generated by the worm that walks itself, which treat the worm that walks as one single creature if it so chooses. Mind-affecting effects that target single creatures function normally against a worm that walks, since the creature's individual components share a hive mind. A worm that walks takes half again as much damage (+50% from damaging area effects, such as _ [fireball](additionalMonsters/../spell_dir/fireball#_fireball_ and splash weapons. Worms that walk are susceptible to high winds—treat a worm that walks as a Fine creature for the purposes of determining wind effects.
+_Worm that Walks Traits_: A worm that walks has no discernible anatomy, and is not subject to critical hits or flanking. Reducing a worm that walks to 0 hit points causes it to discorporate (see below)—a worm that walks at 0 hit points is staggered, and one at negative hit points is dying. Worms that walk are immune to any physical spell or effect that targets a specific number of creatures (including single-target spells such as _ [disintegrate](additionalMonsters/../spell_dir/disintegrate#_disintegrate)_), with the exception of such spells and effects generated by the worm that walks itself, which treat the worm that walks as one single creature if it so chooses. Mind-affecting effects that target single creatures function normally against a worm that walks, since the creature's individual components share a hive mind. A worm that walks takes half again as much damage (+50%) from damaging area effects, such as _ [fireball](additionalMonsters/../spell_dir/fireball#_fireball)_ and splash weapons. Worms that walk are susceptible to high winds—treat a worm that walks as a Fine creature for the purposes of determining wind effects.
 
 _Damage Reduction_: A worm that walks loses any damage reduction possessed by the base creature and gains damage reduction 15/—.
 
@@ -139,7 +139,7 @@ _Tenacious (Ex)_ A worm that walks gains a +8 racial bonus on CMB checks made to
 
 **Abilities** : Dex +4, Con +4.
 
-**Skills** : Worms that walk gain a +8 racial bonus on [Perception](additionalMonsters/../skill_dir/perception#_perception, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive, and [Stealth](additionalMonsters/../skill_dir/stealth#_stealth checks.
+**Skills** : Worms that walk gain a +8 racial bonus on [Perception](additionalMonster_dir/../skill_dir/perception#_perception), [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive), and [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) checks.
 
 **Feats** : Worms that walk gain [Diehard](additionalMonsters/../feats#_diehard) as a bonus feat.
 

@@ -9,7 +9,7 @@ _Hair like rotting seaweed drapes this ancient witch. Loose, algae-colored skin 
 
 **XP 1,200**
 
-CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](creatureTypes#_aquatic-subtype)
+CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](creatureTypes#_aquatic-subtype))
 
 **Init** +3; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +11
 
@@ -29,7 +29,7 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](cr
 
 **Speed** 30 ft., swim 40 ft.
 
-**Melee** 2 claws +8 (1d6+4
+**Melee** 2 claws +8 (1d6+4)
 
 **Special Attacks** evil eye
 
@@ -39,9 +39,9 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](cr
 
 **Base Atk** +4; **CMB** +8; **CMD** 21
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Bluff](../skill_dir/bluff#_bluff, [Perception](../skill_dir/perception#_perception)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Bluff](../skill_dir/bluff#_bluff), [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +9, [Knowledge](../skill_dir/knowledge#_knowledge) (any one +5, [Perception](../skill_dir/perception#_perception +11, [Stealth](../skill_dir/stealth#_stealth +10, [Swim](../skill_dir/swim#_swim) +19
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +9, [Knowledge](../skill_dir/knowledge#_knowledge) (any one) +5, [Perception](../skill_dir/perception#_perception) +11, [Stealth](../skill_dir/stealth#_stealth) +10, [Swim](../skill_dir/swim#_swim) +19
 
 **Languages** Common, Giant
 
@@ -57,7 +57,7 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](cr
 
 **Special Abilities**
 
-**Evil Eye (Su** Three times per day, a sea hag can cast her dire gaze upon any single creature within 30 feet. The target must succeed on a DC 14 Will save or be staggered as strange nebulous distress and a gnawing sense of impending doom plagues the victim. If a sea hag uses her evil eye on someone already afflicted by this curse, the victim must make a DC 14 Fortitude save or be overwhelmed with fright and collapse into a comatose state for 3 days. Each day that passes, the comatose victim must make a DC 14 Fortitude save or perish. The evil eye is a mind-affecting fear effect. The save DCs are Charisma-based._Evil Eye Curse_: Gaze—failed save; _save_ Will DC 14; _frequency_1/day; _effect_ staggered (or fall comatose if already under the effects of the evil eye).
+**Evil Eye (Su)** Three times per day, a sea hag can cast her dire gaze upon any single creature within 30 feet. The target must succeed on a DC 14 Will save or be staggered as strange nebulous distress and a gnawing sense of impending doom plagues the victim. If a sea hag uses her evil eye on someone already afflicted by this curse, the victim must make a DC 14 Fortitude save or be overwhelmed with fright and collapse into a comatose state for 3 days. Each day that passes, the comatose victim must make a DC 14 Fortitude save or perish. The evil eye is a mind-affecting fear effect. The save DCs are Charisma-based._Evil Eye Curse_: Gaze—failed save; _save_ Will DC 14; _frequency_1/day; _effect_ staggered (or fall comatose if already under the effects of the evil eye).
 
 **Horrific Appearance (Su)** The sight of a sea hag is so revolting that anyone within 60 feet (other than another hag) who sets eyes upon one must succeed on a DC 14 Fortitude save or instantly be weakened, taking 1d6 points of Strength [damage](universalMonsterRules#_ability-damage-and-drain). Creatures that are affected by this power or that successfully save against it cannot be affected again by the same hag's horrific appearance for 24 hours. This is a mind-affecting effect. The save DC is Charisma-based.
 

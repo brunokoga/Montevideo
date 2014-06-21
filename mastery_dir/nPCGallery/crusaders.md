@@ -1,5 +1,5 @@
 ---
-title: mastery/nPCGallery/crusaders
+title: master_dir/nPCGallery/crusaders
 ---
 # Crusaders
 
@@ -19,7 +19,7 @@ N Medium humanoid
 
 **AC** 13, touch 11, flat-footed 12 (+1 armor, +1 Dex, +1 shield)
 
-**hp** 5 (1d8+1
+**hp** 5 (1d8+1)
 
 **Fort** +1, **Ref** +1, **Will** +1
 
@@ -39,7 +39,7 @@ N Medium humanoid
 
 **Feats** [Animal Affinity](../../feats#_animal-affinity), [Mounted Combat](../../feats#_mounted-combat)
 
-**Skills** [Craft](../../skill_dir/craft#_craft) (armor +3, [Craft](../../skill_dir/craft#_craft) (weapons +3, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +6, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility +3, [Ride](../../skill_dir/ride#_ride +6
+**Skills** [Craft](../../skill_dir/craft#_craft) (armor) +3, [Craft](../../skill_dir/craft#_craft) (weapons) +3, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +6, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) +3, [Ride](../../skill_dir/ride#_ride) +6
 
 **Languages** Common
 
@@ -53,7 +53,7 @@ Squires can be used as heralds, standardbearers, scouts, or royal messengers. Th
 
 Simply giving a squire heavier armor can make a more formidable mounted combatant, while replacing the pick with a scimitar or longsword creates a nomadic horselord warrior.
 
-A squire often accompanies a knight (CR 7), or a pair of squires may accompany a noble scion (CR 3). Six squires can make a patrol of scouts or a hunting party (CR 3). Three squires can serve as outriders for a caravan, along with three caravan guards (CR 5), or six squires might work with a highwayman (CR 7.
+A squire often accompanies a knight (CR 7), or a pair of squires may accompany a noble scion (CR 3). Six squires can make a patrol of scouts or a hunting party (CR 3). Three squires can serve as outriders for a caravan, along with three caravan guards (CR 5), or six squires might work with a highwayman (CR 7).
 
 **Holy Warrior CR 6**
 
@@ -71,7 +71,7 @@ LG Medium humanoid
 
 **AC** 20, touch 13, flat-footed 17 (+7 armor, +3 Dex)
 
-**hp** 51 (7d10+13
+**hp** 51 (7d10+13)
 
 **Fort** +8, **Ref** +7, **Will** +6
 
@@ -91,11 +91,11 @@ LG Medium humanoid
 
 At Will—_ [detect evil](../../spell_dir/detectEvil#_detect-evil)_
 
-**Paladin Spells Prepared** (CL 4th; concentration +6
+**Paladin Spells Prepared** (CL 4th; concentration +6)
 
-2nd—_ [eagle's splendor](../../spell_dir/eagleSSplendor#_eagle-s-splendor_
+2nd—_ [eagle's splendor](../../spell_dir/eagleSSplendor#_eagle-s-splendor)_
 
-1st—_ [bless weapon](../../spell_dir/blessWeapon#_bless-weapon_, _ [divine favor](../../spell_dir/divineFavor#_divine-favor_
+1st—_ [bless weapon](../../spell_dir/blessWeapon#_bless-weapon)_, _ [divine favor](../../spell_dir/divineFavor#_divine-favor)_
 
 **Statistics**
 
@@ -105,11 +105,11 @@ At Will—_ [detect evil](../../spell_dir/detectEvil#_detect-evil)_
 
 **Feats** [Deadly Aim](../../feats#_deadly-aim), [Manyshot](../../feats#_manyshot), Point Blank Shot, [Power Attack](../../feats#_power-attack), [Rapid Shot](../../feats#_rapid-shot)
 
-**Skills** [Craft](../../skill_dir/craft#_craft) (armor +4, [Craft](../../skill_dir/craft#_craft) (weapons +4, [Diplomacy](../../skill_dir/diplomacy#_diplomacy +6, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +6, [Heal](../../skill_dir/heal#_heal +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (religion +4, [Perception](../../skill_dir/perception#_perception +4, [Ride](../../skill_dir/ride#_ride +10, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +4
+**Skills** [Craft](../../skill_dir/craft#_craft) (armor) +4, [Craft](../../skill_dir/craft#_craft) (weapons) +4, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +6, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +6, [Heal](../../skill_dir/heal#_heal) +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (religion) +4, [Perception](../../skill_dir/perception#_perception) +4, [Ride](../../skill_dir/ride#_ride) +10, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +4
 
 **Languages** Common
 
-**SQ** aura of good, channel positive energy (DC 15, 4d6), divine bond (weapon +1, lay on hands (3d6, 5/day), mercies (fatigued, dazed)
+**SQ** aura of good, channel positive energy (DC 15, 4d6), divine bond (weapon +1), lay on hands (3d6, 5/day), mercies (fatigued, dazed)
 
 **Gear** _+1 breastplate_, _+1 greatsword_, _+1 composite longbow_ (+2 Str) with 20 arrows, 10 cold iron arrows, and 10 alchemical silver arrows, dagger, lance, silver holy symbol, light horse (combat trained) with military saddle
 
@@ -133,7 +133,7 @@ LG Medium humanoid
 
 **AC** 22, touch 9, flat-footed 22 (+9 armor, –1 Dex, +4 shield)
 
-**hp** 92 (12d10+26
+**hp** 92 (12d10+26)
 
 **Fort** +15, **Ref** +8, **Will** +13
 
@@ -143,7 +143,7 @@ LG Medium humanoid
 
 **Speed** 20 ft.
 
-**Melee** _+1 evil outsider [bane](../../magicItem_dir/weapons#_weapons-bane scimitar_ +15/+10/+5 (1d6+3/15–20) or light hammer +14/+9/+4 (1d4+2)
+**Melee** _+1 evil outsider [bane](../../magicItem_dir/weapons#_weapons-bane) scimitar_ +15/+10/+5 (1d6+3/15–20) or light hammer +14/+9/+4 (1d4+2)
 
 **Ranged** light hammer +11 (1d4+2)
 
@@ -153,13 +153,13 @@ LG Medium humanoid
 
 At Will—_ [detect evil](../../spell_dir/detectEvil#_detect-evil)_
 
-**Paladin Spells Prepared** (CL 9th; concentration +14
+**Paladin Spells Prepared** (CL 9th; concentration +14)
 
-3rd—_ [dispel magic](../../spell_dir/dispelMagic#_dispel-magic_, _magic circle vs. evil_
+3rd—_ [dispel magic](../../spell_dir/dispelMagic#_dispel-magic)_, _magic circle vs. evil_
 
-2nd—_ [bull's strength](../../spell_dir/bullSStrength#_bull-s-strength_, _ [resist energy](../../spell_dir/resistEnergy#_resist-energy_, _ [shield other](../../spell_dir/shieldOther#_shield-other_
+2nd—_ [bull's strength](../../spell_dir/bullSStrength#_bull-s-strength)_, _ [resist energy](../../spell_dir/resistEnergy#_resist-energy)_, _ [shield other](../../spell_dir/shieldOther#_shield-other)_
 
-1st—_ [bless weapon](../../spell_dir/blessWeapon#_bless-weapon_, _ [divine favor](../../spell_dir/divineFavor#_divine-favor)_ (2, _ [lesser restoration](../../spell_dir/restoration#_restoration-lesser_
+1st—_ [bless weapon](../../spell_dir/blessWeapon#_bless-weapon)_, _ [divine favor](../../spell_dir/divineFavor#_divine-favor)_ (2), _ [lesser restoration](../../spell_dir/restoration#_restoration-lesser)_
 
 **Statistics**
 
@@ -169,15 +169,15 @@ At Will—_ [detect evil](../../spell_dir/detectEvil#_detect-evil)_
 
 **Feats** [Alignment Channel](../../feats#_alignment-channel), [Craft Magic Arms and Armor](../../feats#_craft-magic-arms-and-armor), [Craft Wondrous Item](../../feats#_craft-wondrous-item), [Extra Channel](../../feats#_extra-channel), [Improved Critical](../../feats#_improved-critical) (scimitar), [Magical Aptitude](../../feats#_magical-aptitude), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Diplomacy](../../skill_dir/diplomacy#_diplomacy +20, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (religion +10, [Perception](../../skill_dir/perception#_perception +6, [Perform](../../skill_dir/perform#_perform) (oratory +6, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +10, [Spellcraft](../../skill_dir/spellcraft#_spellcraft +20, [Use Magic Device](../../skill_dir/useMagicDevice#_use-magic-device) +21
+**Skills** [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +20, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (religion) +10, [Perception](../../skill_dir/perception#_perception) +6, [Perform](../../skill_dir/perform#_perform) (oratory) +6, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +10, [Spellcraft](../../skill_dir/spellcraft#_spellcraft) +20, [Use Magic Device](../../skill_dir/useMagicDevice#_use-magic-device) +21
 
 **Languages** Celestial, Common
 
-**SQ** aura of good, divine bond (weapon +3, lay on hands (6d6, 15/day [4 for channeling only]), mercies (sickened, diseased, nauseated, stunned)
+**SQ** aura of good, divine bond (weapon +3), lay on hands (6d6, 15/day [4 for channeling only]), mercies (sickened, diseased, nauseated, stunned)
 
-**Combat Gear** _scrolls of [expeditious retreat](../../spell_dir/expeditiousRetreat#_expeditious-retreat)_ (4, _ [see invisibility](../../spell_dir/seeInvisibility#_see-invisibility) _(1, and _ [true strike](../../spell_dir/trueStrike#_true-strike)_ (4; **Other Gear** _+1 half-plate of [invulnerability](../../magicItem_dir/armor#_armor-invulnerability_, _+2 heavy steel [lion's shield](../../magicItem_dir/armor#_lion-s-shield_, _+1 evil outsider [bane](../../magicItem_dir/weapons#_weapons-bane) scimitar_, cold iron light hammers (2; _ [headband of alluring charisma](../../magicItem_dir/wondrousItems#_headband-of-alluring-charisma +2_, silver holy symbol
+**Combat Gear** _scrolls of [expeditious retreat](../../spell_dir/expeditiousRetreat#_expeditious-retreat)_ (4), _ [see invisibility](../../spell_dir/seeInvisibility#_see-invisibility) _(1), and _ [true strike](../../spell_dir/trueStrike#_true-strike)_ (4); **Other Gear** _+1 half-plate of [invulnerability](../../magicItem_dir/armor#_armor-invulnerability)_, _+2 heavy steel [lion's shield](../../magicItem_dir/armor#_lion-s-shield)_, _+1 evil outsider [bane](../../magicItem_dir/weapons#_weapons-bane) scimitar_, cold iron light hammers (2); _ [headband of alluring charisma](../../magicItem_dir/wondrousItems#_headband-of-alluring-charisma) +2_, silver holy symbol
 
 **Boon** A saint can craft or commission a good-aligned magical item for the PCs at a 20% discount, arrange an audience with a good-aligned NPC of any level, or obtain a response to a single question to her deity as if using a _ [commune](../../spell_dir/commune#_commune)_ spell.
 
-A saint is the embodiment of the crusader ideal. A saint might head a crusader temple or order or could be matriarch of her own religious tradition. A saint usually keeps a priest and holy warrior as advisors (CR 12), or a saint with a squad of four holy warriors might accompany a king (CR 15.
+A saint is the embodiment of the crusader ideal. A saint might head a crusader temple or order or could be matriarch of her own religious tradition. A saint usually keeps a priest and holy warrior as advisors (CR 12), or a saint with a squad of four holy warriors might accompany a king (CR 15).
 

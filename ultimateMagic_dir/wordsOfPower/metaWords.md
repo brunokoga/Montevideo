@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/wordsOfPowe_dir/metaWords
+title: ultimateMagi_dir/wordsOfPower/metaWords
 ---
 # Meta Words
 
@@ -15,7 +15,7 @@ Boost
 
 **Level** 0
 
-This meta word allows an effect or target word to use its boosted description. Some boosted descriptions increase the level of the effect word or target word, and can only be used if the wordspell is of a high enough level to accommodate the new level. If a word has more than one boosted description, the caster can choose which to use (but never more than one per word. This meta word can be applied to a spell multiple times—once to the target word and once for each effect word.
+This meta word allows an effect or target word to use its boosted description. Some boosted descriptions increase the level of the effect word or target word, and can only be used if the wordspell is of a high enough level to accommodate the new level. If a word has more than one boosted description, the caster can choose which to use (but never more than one per word). This meta word can be applied to a spell multiple times—once to the target word and once for each effect word.
 
 Careful
 

@@ -1,5 +1,5 @@
 ---
-title: spells/fingerOfDeath
+title: spell_dir/fingerOfDeath
 ---
  **Finger of Death**
 

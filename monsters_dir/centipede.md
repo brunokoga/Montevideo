@@ -1,5 +1,5 @@
 ---
-title: monsters/centipede
+title: monster_dir/centipede
 ---
 # Centipede, Giant
 
@@ -35,11 +35,11 @@ N Medium [vermin](creatureTypes#_vermin)
 
 **Str** 9, **Dex** 15, **Con** 12, **Int** —, **Wis** 10, **Cha** 2
 
-**Base**  **Atk** +0; **CMB** –1; **CMD** 11 (can't be tripped
+**Base**  **Atk** +0; **CMB** –1; **CMD** 11 (can't be tripped)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)B
 
-**Skills** [Climb](../skill_dir/climb#_climb +10, [Perception](../skill_dir/perception#_perception +4, [Stealth](../skill_dir/stealth#_stealth +10; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +8 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Climb](../skill_dir/climb#_climb) +10, [Perception](../skill_dir/perception#_perception) +4, [Stealth](../skill_dir/stealth#_stealth) +10; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception), +8 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -51,7 +51,7 @@ N Medium [vermin](creatureTypes#_vermin)
 
 **Special Abilities**
 
-**Poison (EX** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**Poison (EX)** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Dex [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
 
 Giant centipedes attack nearly any living creatures with their poisonous jaws. These creatures adapt to many environments and feed voraciously on the local fauna, including humanoids. The coloration of giant centipedes mirrors that of normal centipedes and spans the spectrum, ranging from dull hues to bright reds and fiery oranges.
 
@@ -96,7 +96,7 @@ N Diminutive [vermin](creatureTypes#_vermin) (swarm)
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** distraction (DC 13), [poison](universalMonsterRules#_poison
+**Special Attacks** distraction (DC 13), [poison](universalMonsterRules#_poison)
 
 **Statistics**
 
@@ -106,7 +106,7 @@ N Diminutive [vermin](creatureTypes#_vermin) (swarm)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)B
 
-**Skills** [Climb](../skill_dir/climb#_climb +12, [Perception](../skill_dir/perception#_perception +4; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception)
+**Skills** [Climb](../skill_dir/climb#_climb) +12, [Perception](../skill_dir/perception#_perception) +4; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception)
 
 **Ecology**
 
@@ -118,5 +118,5 @@ N Diminutive [vermin](creatureTypes#_vermin) (swarm)
 
 **Special Abilities**
 
-**Poison (Ex** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
 

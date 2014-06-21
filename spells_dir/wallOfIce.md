@@ -1,17 +1,17 @@
 ---
-title: spells/wallOfIce
+title: spell_dir/wallOfIce
 ---
  **Wall of Ice**
 
-**School** evocation [cold]; **Level** sorcere_dir/wizard 4
+**School** evocation [cold]; **Level** sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a piece of quartz or rock crystal
+**Components** V, S, M (a piece of quartz or rock crystal)
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Effect** anchored plane of ice, up to one 10-ft. square/level, or hemisphere of ice with a radius of up to 3 ft. + 1 ft./level
+**Effect** anchored plane of ice, up to one 10-ft. squar_dir/level, or hemisphere of ice with a radius of up to 3 ft. + 1 ft./level
 
 **Duration** 1 min./level
 

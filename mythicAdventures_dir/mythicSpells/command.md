@@ -1,9 +1,9 @@
 ---
-title: mythicAdventures/mythicSpells/command
+title: mythicAdventure_dir/mythicSpells/command
 ---
 Command
 
 **Source** [_command_](spell_dir/command#_command)
 
-You can target up to one creature per level, each of which must receive the same command. Creatures that succeed at their saving throws are staggered for 1 round (this is a mind-affecting effect.
+You can target up to one creature per level, each of which must receive the same command. Creatures that succeed at their saving throws are staggered for 1 round (this is a mind-affecting effect).
 

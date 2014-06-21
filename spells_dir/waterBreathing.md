@@ -1,5 +1,5 @@
 ---
-title: spells/waterBreathing
+title: spell_dir/waterBreathing
 ---
  **Water Breathing**
 
@@ -13,7 +13,7 @@ title: spells/waterBreathing
 
 **Target** living creatures touched
 
-**Duration** 2 hours/level; see text
+**Duration** 2 hour_dir/level; see text
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

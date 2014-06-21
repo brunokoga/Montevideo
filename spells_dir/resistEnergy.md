@@ -1,5 +1,5 @@
 ---
-title: spells/resistEnergy
+title: spell_dir/resistEnergy
 ---
  **Resist Energy**
 

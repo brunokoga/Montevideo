@@ -1,5 +1,5 @@
 ---
-title: spells/disruptingWeapon
+title: spell_dir/disruptingWeapon
 ---
  **Disrupting Weapon**
 

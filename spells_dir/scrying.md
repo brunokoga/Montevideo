@@ -3,7 +3,7 @@ title: spell_dir/scrying
 ---
  **Scrying**
 
-**School** divination (scrying; **Level** bard 3, cleric 5, druid 4, sorcerer/wizard 4
+**School** divination (scrying); **Level** bard 3, cleric 5, druid 4, sorcerer/wizard 4
 
 **Casting Time** 1 hour
 
@@ -40,13 +40,13 @@ If the save succeeds, you can't attempt to scry on that subject again for at lea
 
 **Scrying, Greater**
 
-**School** divination (scrying); **Level** bard 6, cleric 7, druid 7, sorcerer/wizard 7
+**School** divination (scrying); **Level** bard 6, cleric 7, druid 7, sorcere_dir/wizard 7
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Duration** 1 hou_dir/level
+**Duration** 1 hour/level
 
-This spell functions like _scrying_, except as noted above. Additionally, all of the following spells function reliably through the sensor: _ [detect chaos](detectChaos#_detect-chaos)_, _ [detect evil](detectEvil#_detect-evil)_, _ [detect good](detectGood#_detect-good)_, _ [detect law](detectLaw#_detect-law)_, _ [detect magic](detectMagic#_detect-magic)_, _ [message](message#_message)_, _ [read magic](readMagic#_read-magic)_, and _ [tongues](tongues#_tongues_.
+This spell functions like _scrying_, except as noted above. Additionally, all of the following spells function reliably through the sensor: _ [detect chaos](detectChaos#_detect-chaos)_, _ [detect evil](detectEvil#_detect-evil)_, _ [detect good](detectGood#_detect-good)_, _ [detect law](detectLaw#_detect-law)_, _ [detect magic](detectMagic#_detect-magic)_, _ [message](message#_message)_, _ [read magic](readMagic#_read-magic)_, and _ [tongues](tongues#_tongues)_.
 

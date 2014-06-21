@@ -37,9 +37,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +3; **CMD** 14
 
-**Feats** [Blind-Fight](feats#_blind-fight), [Skill Focus](feats#_skill-focus ( [Stealth](skill_dir/stealth#_stealth)
+**Feats** [Blind-Fight](feats#_blind-fight), [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth))
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics +10, [Climb](skill_dir/climb#_climb +13, [Perception](skill_dir/perception#_perception +6, [Stealth](skill_dir/stealth#_stealth +8; **Racial Modifiers** +8 [Acrobatics](skill_dir/acrobatics#_acrobatics, +2 [Perception](skill_dir/perception#_perception)
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +10, [Climb](skills/climb#_climb) +13, [Perception](skill_dir/perception#_perception) +6, [Stealth](skills/stealth#_stealth) +8; **Racial Modifiers** +8 [Acrobatics](skill_dir/acrobatics#_acrobatics), +2 [Perception](skills/perception#_perception)
 
 **Languages** Undercommon
 
@@ -53,7 +53,7 @@ Ecology
 
 Special Abilities
 
-**Leap (Ex** A dire corby can perform a special kind of [pounce](monster_dir/universalMonsterRules#_pounce attack by jumping into combat. When a dire corby charges, it can make a DC 20 [Acrobatics](skill_dir/acrobatics#_acrobatics check to jump into the [air](monster_dir/creatureTypes#_air-subtype and land next to its enemies. If it succeeds at this [Acrobatics](skill_dir/acrobatics#_acrobatics) check, it can make a full attack (two claw attacks, plus a rend attack if both claws hit) against foes in reach. If it fails, it can still make its one attack as normal for a charge.
+**Leap (Ex)** A dire corby can perform a special kind of [pounce](monster_dir/universalMonsterRules#_pounce) attack by jumping into combat. When a dire corby charges, it can make a DC 20 [Acrobatics](skills/acrobatics#_acrobatics) check to jump into the [air](monster_dir/creatureTypes#_air-subtype) and land next to its enemies. If it succeeds at this [Acrobatics](skills/acrobatics#_acrobatics) check, it can make a full attack (two claw attacks, plus a rend attack if both claws hit) against foes in reach. If it fails, it can still make its one attack as normal for a charge.
 
 Dire corbies are subterranean predators that resemble humanoid crows with muscular arms and fearsome claws. Though they make their cliff-side homes on the walls of underground chasms, where they climb and leap with death-defying agility, they are most frequently encountered in the tunnels where they wait to ambush prey, leaping down from the ceiling to rend and tear.
 
@@ -67,5 +67,5 @@ A typical dire corby stands 5 feet tall and weighs between 125 and 150 pounds.
 
 These powerful dire corbies are the offspring of dire corbies and harpies. They have the advanced template and gain the following special attack.
 
-**Screech of Doom (Su** : Once per day, a dread corby can shriek at a target within 30 feet. The target must make a DC 12 Will save or become frightened for 1d4 rounds. This is a sonic, mind-affecting fear effect. The save DC is Charisma-based.
+**Screech of Doom (Su)** : Once per day, a dread corby can shriek at a target within 30 feet. The target must make a DC 12 Will save or become frightened for 1d4 rounds. This is a sonic, mind-affecting fear effect. The save DC is Charisma-based.
 

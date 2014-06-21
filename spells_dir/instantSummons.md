@@ -3,11 +3,11 @@ title: spell_dir/instantSummons
 ---
  **Instant Summons**
 
-**School** conjuration (summoning; **Level** sorcere_dir/wizard 7
+**School** conjuration (summoning); **Level** sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (sapphire worth 1,000 gp
+**Components** V, S, M (sapphire worth 1,000 gp)
 
 **Range** see text
 

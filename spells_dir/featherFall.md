@@ -1,5 +1,5 @@
 ---
-title: spells/featherFall
+title: spell_dir/featherFall
 ---
  **Feather Fall**
 
@@ -11,7 +11,7 @@ title: spells/featherFall
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Targets** one Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart
+**Targets** one Medium or smaller freefalling object or creatur_dir/level, no two of which may be more than 20 ft. apart
 
 **Duration** until landing or 1 round/level
 

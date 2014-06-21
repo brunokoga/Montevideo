@@ -1,5 +1,5 @@
 ---
-title: spells/flamingSphere
+title: spell_dir/flamingSphere
 ---
  **Flaming Sphere**
 
@@ -13,7 +13,7 @@ title: spells/flamingSphere
 
 **Effect** 5-ft.-diameter sphere
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** [Reflex](../combat#_reflex) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

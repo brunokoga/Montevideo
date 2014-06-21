@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/grindylow
+title: additionalMonster_dir/grindylow
 ---
 # Grindylow
 
@@ -9,21 +9,21 @@ GrindylowCR 1/2
 
 **XP 200**
 
-CE Small [aberration](monster_dir/creatureTypes#_aberration ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
+CE Small [aberration](monster_dir/creatureTypes#_aberration) ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +4
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +4
 
 Defense
 
 **AC** 15, touch 13, flat-footed 13 (+2 Dex, +2 natural, +1 size)
 
-**hp** 5 (1d8+1
+**hp** 5 (1d8+1)
 
 **Fort** +1, **Ref** +2, **Will** +2
 
 Offense
 
-**Speed** 15 ft., swim 30 ft., [jet](monster_dir/universalMonsterRules#_jet 200 ft.
+**Speed** 15 ft., swim 30 ft., [jet](monsters/universalMonsterRules#_jet) 200 ft.
 
 **Melee** spear +2 (1d6+1/×3), bite –2 (1d3)
 
@@ -37,9 +37,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 12 (18 vs. trip)
 
-**Feats** [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +4, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +14, [Swim](additionalMonsters/../skill_dir/swim#_swim +13; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
+**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +4, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +14, [Swim](additionalMonsters/../skill_dir/swim#_swim) +13; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
 
 **Languages** Aquan
 
@@ -55,7 +55,7 @@ Ecology
 
 Special Abilities
 
-**Tangling Tentacles (Ex** Although a grindylow can't attack to cause damage with its six tentacles, these wriggling legs constantly writhe and reach out to tug at and trip adjacent foes. During the grindylow's turn, it can make a single trip attack against any adjacent foe as a swift action. It gains a +4 racial bonus on trip attacks made with its tangling tentacles, and if it fails to trip a foe, that creature can't attempt to trip the grindylow in retaliation.
+**Tangling Tentacles (Ex)** Although a grindylow can't attack to cause damage with its six tentacles, these wriggling legs constantly writhe and reach out to tug at and trip adjacent foes. During the grindylow's turn, it can make a single trip attack against any adjacent foe as a swift action. It gains a +4 racial bonus on trip attacks made with its tangling tentacles, and if it fails to trip a foe, that creature can't attempt to trip the grindylow in retaliation.
 
 About 4 feet long from head to tentacle tip, grindylows appear to be half-goblin and half-octopus, the split occurring at the waist. Grindylows are violent, ravenous creatures that use their spears to hunt or just to poke at things that scream and cry.
 

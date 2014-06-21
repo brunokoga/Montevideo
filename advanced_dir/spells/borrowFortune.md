@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/borrowFortune
+title: advance_dir/spells/borrowFortune
 ---
  **Borrow Fortune**
 

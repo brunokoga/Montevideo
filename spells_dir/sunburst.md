@@ -1,5 +1,5 @@
 ---
-title: spells/sunburst
+title: spell_dir/sunburst
 ---
  **Sunburst**
 

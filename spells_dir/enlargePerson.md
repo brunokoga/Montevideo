@@ -1,13 +1,13 @@
 ---
-title: spells/enlargePerson
+title: spell_dir/enlargePerson
 ---
  **Enlarge Person**
 
-**School** transmutation; **Level** sorcere_dir/wizard 1
+**School** transmutation; **Level** sorcerer/wizard 1
 
 **Casting Time** 1 round
 
-**Components** V, S, M (powdered iron
+**Components** V, S, M (powdered iron)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
@@ -33,7 +33,7 @@ _Enlarge person _can be made permanent with a _ [permanency](permanency#_permane
 
 **Enlarge Person, Mass**
 
-**School** transmutation; **Level** sorcerer/wizard 4
+**School** transmutation; **Level** sorcere_dir/wizard 4
 
 **Target** One humanoid creature/level, no two of which can be more than 30 ft. apart
 

@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/hydraulicPush
+title: advance_dir/spells/hydraulicPush
 ---
  **Hydraulic Push**
 
-**School** evocation [water]; **Level** druid 1, sorcerer/wizard 1
+**School** evocation [water]; **Level** druid 1, sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 

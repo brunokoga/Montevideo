@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/campaignSystem_dir/investment
+title: ultimateCampaig_dir/campaignSystems/investment
 ---
 # Investment
 
@@ -23,7 +23,7 @@ To use this table, roll d% to check the investment's success or failure.
 
 **Breakout Year** : The investment has a good year and earns far more than expected. Make the die roll indicated in the Breakout Return column and multiply the result by the percentage listed in the Normal Return column. For example, if the PC invests in banking and has a breakout year, she multiplies the Breakout Return for banking (1d4+1) × the Normal Return for banking (2%) to determine that year's return. If the roll results in a 5, that year's return is 10% of her investment. As with a normal year, the PC can reinvest this profit, pocket the Breakout Return, or cash out her seed money plus the Breakout Return.
 
-If a PC needs money quickly or wants to end her association with a particular investment, she can withdraw her seed money from the investment at any time, which normally takes 1d6 days and requires direct contact with the person running the investment (such as the manager of an inn, master of a guild, or head of an exploratory group). The PC receives only half of the invested seed money; the rest is lost as the involved parties quickly sell off assets (generally at half their actual value to refund the PC her seed money. This sort of behavior tends to sour relationships between the PC and the others, making future investments with that group unlikely.
+If a PC needs money quickly or wants to end her association with a particular investment, she can withdraw her seed money from the investment at any time, which normally takes 1d6 days and requires direct contact with the person running the investment (such as the manager of an inn, master of a guild, or head of an exploratory group). The PC receives only half of the invested seed money; the rest is lost as the involved parties quickly sell off assets (generally at half their actual value) to refund the PC her seed money. This sort of behavior tends to sour relationships between the PC and the others, making future investments with that group unlikely.
 
 ## Example Investments and Problems
 
@@ -37,7 +37,7 @@ This list of investments is not meant to be exhaustive; NPC ingenuity could open
 
 **Exploration** : An explorer ends up being unreliable, greedy, or incautious, accidentally releasing ancient evils on an unsuspecting populace.
 
-**Granary/Mill** : The building catches on fire, either from a simple accident or deliberate arson, and the aerosolized grain causes a massive explosion.
+**Granar_dir/Mill** : The building catches on fire, either from a simple accident or deliberate arson, and the aerosolized grain causes a massive explosion.
 
 **Guild** : A rival guild targets the investor's employees, friends, family, or buildings.
 

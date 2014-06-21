@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/grace
+title: advance_dir/spells/grace
 ---
  **Grace**
 

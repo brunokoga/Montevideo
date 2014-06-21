@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/divineArrow
+title: ultimateComba_dir/spells/divineArrow
 ---
 Divine Arrow
 
-**School** transmutation [[good](monster_dir/creatureTypes#_good-subtype]; **Level** paladin 2
+**School** transmutation [[good](monster_dir/creatureTypes#_good-subtype)]; **Level** paladin 2
 
 **Casting Time** 1 standard action
 

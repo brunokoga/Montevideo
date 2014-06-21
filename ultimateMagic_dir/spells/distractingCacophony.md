@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/distractingCacophony
+title: ultimateMagi_dir/spells/distractingCacophony
 ---
 Distracting Cacophony
 
-**School** evocation [sonic]; **Level** bard 2, sorcerer/wizard 3
+**School** evocation [sonic]; **Level** bard 2, sorcere_dir/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ Distracting Cacophony
 
 **Saving Throw** none; **Spell Resistance** yes
 
-The air fills with loud and discordant noise, making concentration difficult. Casting a spell in this area of cacophony requires a concentration check (DC 15 + the level of the spell being cast. Any other concentration checks in the area have their DCs increased by 5. The DC of [Perception](skill_dir/perception#_perception checks involving hearing is likewise increased by 5.
+The air fills with loud and discordant noise, making concentration difficult. Casting a spell in this area of cacophony requires a concentration check (DC 15 + the level of the spell being cast). Any other concentration checks in the area have their DCs increased by 5. The DC of [Perception](skills/perception#_perception) checks involving hearing is likewise increased by 5.
 

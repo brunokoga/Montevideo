@@ -11,7 +11,7 @@ _A spider the size of a man crawls silently from the depths of its funnel-shaped
 
 N Medium [vermin](creatureTypes#_vermin)
 
-**Init** +3; **Senses** darkvision 60 ft., [tremorsense](universalMonsterRules#_tremorsense 60 ft.; [Perception](../skill_dir/perception#_perception) +4
+**Init** +3; **Senses** darkvision 60 ft., [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skill_dir/perception#_perception) +4
 
 **Defense**
 
@@ -35,9 +35,9 @@ N Medium [vermin](creatureTypes#_vermin)
 
 **Str** 11, **Dex** 17, **Con** 12, **Int** —, **Wis** 10, **Cha** 2
 
-**Base Atk** +2; **CMB** +2; **CMD** 15 (27 vs. trip
+**Base Atk** +2; **CMB** +2; **CMD** 15 (27 vs. trip)
 
-**Skills** [Climb](../skill_dir/climb#_climb +16, [Perception](../skill_dir/perception#_perception) +4 (+8 in webs, [Stealth](../skill_dir/stealth#_stealth) +7 (+11 in webs; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +4 [Stealth](../skill_dir/stealth#_stealth) (+8 in webs, +16 [Climb](../skill_dir/climb#_climb)
+**Skills** [Climb](../skill_dir/climb#_climb) +16, [Perception](../skill_dir/perception#_perception) +4 (+8 in webs), [Stealth](../skill_dir/stealth#_stealth) +7 (+11 in webs); **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception), +4 [Stealth](../skill_dir/stealth#_stealth) (+8 in webs), +16 [Climb](../skill_dir/climb#_climb)
 
 **Ecology**
 
@@ -49,9 +49,9 @@ N Medium [vermin](creatureTypes#_vermin)
 
 **Special Abilities**
 
-**Poison (Ex** Bite—injury; _save_ Fort DC 14; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Strength [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save.
+**Poison (Ex)** Bite—injury; _save_ Fort DC 14; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Strength [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save.
 
-The statistics above are for a web-spinning spider. Hunting spiders lose the web ability but gain a +8 racial modifier on [Acrobatics](../skill_dir/acrobatics#_acrobatics checks. All giant spiders have a +2 racial bonus on poison save DCs.
+The statistics above are for a web-spinning spider. Hunting spiders lose the web ability but gain a +8 racial modifier on [Acrobatics](../skill_dir/acrobatics#_acrobatics) checks. All giant spiders have a +2 racial bonus on poison save DCs.
 
 Other species of giant spiders exist, as detailed below.
 
@@ -94,7 +94,7 @@ N Diminutive [vermin](creatureTypes#_vermin) ( [swarm](creatureTypes#_swarm-subt
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** [distraction](universalMonsterRules#_distraction) (DC 11
+**Special Attacks** [distraction](universalMonsterRules#_distraction) (DC 11)
 
 **Statistics**
 
@@ -102,7 +102,7 @@ N Diminutive [vermin](creatureTypes#_vermin) ( [swarm](creatureTypes#_swarm-subt
 
 **Base Atk** +1; **CMB** —; **CMD** —
 
-**Skills** [Climb](../skill_dir/climb#_climb +11, [Perception](../skill_dir/perception#_perception +4; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception; uses Dexterity for [Climb](../skill_dir/climb#_climb) checks
+**Skills** [Climb](../skill_dir/climb#_climb) +11, [Perception](../skill_dir/perception#_perception) +4; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception); uses Dexterity for [Climb](../skill_dir/climb#_climb) checks
 
 **Ecology**
 
@@ -114,7 +114,7 @@ N Diminutive [vermin](creatureTypes#_vermin) ( [swarm](creatureTypes#_swarm-subt
 
 **Special Abilities**
 
-**Poison (Ex** Swarm—injury; _save_ Fort DC 11; _frequency_ 1/round for 2 rounds; _effect_ 1d2 Str; _cure_ 1 save. The save DC is Constitution-based.
+**Poison (Ex)** Swarm—injury; _save_ Fort DC 11; _frequency_ 1/round for 2 rounds; _effect_ 1d2 Str; _cure_ 1 save. The save DC is Constitution-based.
 
 The sight of a carpet of swarming spiders is unsettling indeed—particularly when the swarm is made up of spiders each the size of a gold coin and possessing blade-like mandibles capable of lacerating flesh with sickening ease. A swarm of spiders is a colonial mass of arachnids that relies on overwhelming much larger prey with sheer numbers rather than catching smaller snacks. While spider swarms spin webs, these webs are incapable of catching larger prey and typically serve the swarm as a lair rather than a method of capturing dinner.
 

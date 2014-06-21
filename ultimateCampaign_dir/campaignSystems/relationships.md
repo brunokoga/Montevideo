@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/campaignSystem_dir/relationships
+title: ultimateCampaig_dir/campaignSystems/relationships
 ---
 # Relationships
 
@@ -13,26 +13,26 @@ A relationship with an NPC can be either friendly or competitive—you get to ch
 
 ## Relationship Levels
 
-Your Relationship Level with an NPC is based on your Relationship Score, which can increase in play (see Growing Relationships. You gain new benefits when an NPC's relationship with you progresses to a new level.
+Your Relationship Level with an NPC is based on your Relationship Score, which can increase in play (see Growing Relationships). You gain new benefits when an NPC's relationship with you progresses to a new level.
 
 | Relationship Score | Relationship Level |
 | --- | --- |
 | 5 or lower | Association |
-| 6—11 | Friendship/Competition |
+| 6—11 | Friendshi_dir/Competition |
 | 12—30 | Fellowship/Rivalry |
-| 31 or higher | Devotion/Enmity |
+| 31 or higher | Devotio_dir/Enmity |
 
 **Association:** You and the NPC know each other, but not well enough to have a significant bond.
 
 **Friendship/Competition** : You are a good friend or known competitor of the NPC. Whenever you gain this Relationship Level with an NPC for the first time, your party gains 200 XP. The first time you gain this benefit in a campaign, your party gains an additional 200 XP. Most existing relationships from a backstory start at this level, and such a relationship does not grant you XP, as it predates the start of play.
 
-**Fellowship/Rivalry** : You have strong ties to the NPC, either through deep mutual respect and admiration or through a strong sense of competition and conflict. As long as the other NPC is alive and active in the campaign, you gain a +1 morale bonus on all Charisma-based skill checks. Whenever you gain this Relationship Level with an NPC for the first time, your party gains 600 XP. The first time you gain this benefit in a campaign, your party gains an additional 600 XP.
+**Fellowshi_dir/Rivalry** : You have strong ties to the NPC, either through deep mutual respect and admiration or through a strong sense of competition and conflict. As long as the other NPC is alive and active in the campaign, you gain a +1 morale bonus on all Charisma-based skill checks. Whenever you gain this Relationship Level with an NPC for the first time, your party gains 600 XP. The first time you gain this benefit in a campaign, your party gains an additional 600 XP.
 
-**Devotio_dir/Enmity** : You and the NPC are devoted to each other or actively opposed to one another. Whenever you gain this Relationship Level with an NPC for the first time, your party gains 1,600 XP. The first time you gain this benefit in a campaign, your party gains an additional 1,600 XP.
+**Devotion/Enmity** : You and the NPC are devoted to each other or actively opposed to one another. Whenever you gain this Relationship Level with an NPC for the first time, your party gains 1,600 XP. The first time you gain this benefit in a campaign, your party gains an additional 1,600 XP.
 
 When a relationship with an NPC reaches this strength, it grants you a bonus trait, whether your relationship is friendly or competitive and whether this is your first relationship to do so or the latest in a series of strong relationships. The nature of this trait is decided by the GM, and is specific to the NPC and the campaign (for example, the bonus trait from a notable NPC fighter is probably about combat rather than improving spell DCs). You keep this trait for as long as the NPC is alive and active in the campaign; if the NPC dies, retires, or otherwise is no longer an active part of the campaign, you lose the trait.
 
-The bonus XP from a relationship is divided among all PCs, just like other campaign-based XP awards. You can't gain XP bonuses from reaching a particular new Relationship Level with an individual NPC more than once (such as if you decrease your Relationship Level with an NPC or change its nature and bring it back up.
+The bonus XP from a relationship is divided among all PCs, just like other campaign-based XP awards. You can't gain XP bonuses from reaching a particular new Relationship Level with an individual NPC more than once (such as if you decrease your Relationship Level with an NPC or change its nature and bring it back up).
 
 ## Growing Relationships
 
@@ -40,7 +40,7 @@ You can change your Relationship Score with an NPC in the following ways.
 
 **Campaign Trait** : If your GM is using [campaign traits](advance_dir/advancedNewRules#_campaign-traits) for this campaign, and you have a campaign trait associated with a specific NPC, your Relationship Score with that NPC gains a one-time increase of 4 points.
 
-**Charisma** : Since your base Relationship Score with any NPC is equal to your Charisma modifier, when your Charisma score changes permanently (such as from Charisma drain or a _headband of alluring Charisma_, your Relationship Scores with NPCs change with it. Temporary changes, such as from ability damage or bonuses from spells like _ [eagle's splendor](spell_dir/eagleSSplendor#__eagle-s-splendor_, do not alter Relationship Scores.
+**Charisma** : Since your base Relationship Score with any NPC is equal to your Charisma modifier, when your Charisma score changes permanently (such as from Charisma drain or a _headband of alluring Charisma_), your Relationship Scores with NPCs change with it. Temporary changes, such as from ability damage or bonuses from spells like _ [eagle's splendor](spells/eagleSSplendor#__eagle-s-splendor)_, do not alter Relationship Scores.
 
 **Companionship** : Every time you gain a character level, you may increase your Relationship Score with one NPC still active in the campaign by 1 point.
 
@@ -48,7 +48,7 @@ You can change your Relationship Score with an NPC in the following ways.
 
 Every time you gain a character level, you may give one special gift to or craft one perfect insult for each NPC with whom you have a relationship. The gift can be an item you found, built, or purchased. In most cases, the cost of the item is irrelevant as long as it's an honest gift.
 
-When you think you have the right kind of gift or the right insult, inform the GM of your intent, then make a [Diplomacy](skill_dir/diplomacy#_diplomacy) check (for a gift or an [Intimidate](skill_dir/intimidate#_intimidate) check (for an insult). If you roleplay the gift or insult's delivery particularly well, the GM might award up to a +4 bonus on this check. If you roleplay the interaction poorly, or if you time things badly enough (attempting to give a gift in the middle of combat, for example), the GM might give up to a —4 penalty on the check. The DC for this check is equal to your current Relationship Score with the NPC. If you succeed, your Relationship Score with that NPC increases by 1 point. If you exceed the DC by 10 or more, it increases by 2 points instead. Failure means there's no change.
+When you think you have the right kind of gift or the right insult, inform the GM of your intent, then make a [Diplomacy](skill_dir/diplomacy#_diplomacy) check (for a gift) or an [Intimidate](skills/intimidate#_intimidate) check (for an insult). If you roleplay the gift or insult's delivery particularly well, the GM might award up to a +4 bonus on this check. If you roleplay the interaction poorly, or if you time things badly enough (attempting to give a gift in the middle of combat, for example), the GM might give up to a —4 penalty on the check. The DC for this check is equal to your current Relationship Score with the NPC. If you succeed, your Relationship Score with that NPC increases by 1 point. If you exceed the DC by 10 or more, it increases by 2 points instead. Failure means there's no change.
 
 **Special Events** : Certain events in a campaign can alter your Relationship Score with an NPC, such as saving a friend from execution or humiliating a competitor in public. The GM should inform you of these adjustments if and when they occur. These events generally increase your Relationship Score with that NPC by 1 to 5, but a particularly dramatic event can increase it by up to 10.
 
@@ -110,7 +110,7 @@ Romantic entanglements can be the stuff of roleplaying dreams. They add drama, t
 
 **Adventure Hooks** : Despite possibly grounding your PC to a specific area, a spouse can offer several strong adventure hooks. Possible hooks include:
 
-- You and your spouse married in secret, without the approval of his influential family. You must prove yourself worthy to your new in-laws with quests that will improve their financial and social status (and thus their impression of you.
+- You and your spouse married in secret, without the approval of his influential family. You must prove yourself worthy to your new in-laws with quests that will improve their financial and social status (and thus their impression of you).
 - Your merchant spouse must deliver a message or item to another merchant, but you realize it is a coded missive between members of the thieves' guild planning an assassination. You must stop the attack in such a way that it doesn't invite reprisals against your spouse.
 - Your divine spellcaster spouse has accidentally and unknowingly violated an obscure tenet of faith by marrying you, and has lost all class abilities. Rather than abandon you for the church, your spouse insists on traveling to the high temple to beseech special dispensation for your marriage.
 
@@ -122,5 +122,5 @@ Romantic entanglements can be the stuff of roleplaying dreams. They add drama, t
 
 If you want to deliberately change a relationship from friendly to competitive, you can do so by insulting or rejecting the NPC. This also automatically reduces your Relationship Score with that NPC by half.
 
-If you want to change a relationship from competitive to friendly, you must offer the NPC a gift and make a [Diplomacy](skill_dir/diplomacy#_diplomacy) check at a DC 10 higher than the normal gift check. If you succeed, the relationship changes to friendly, but your Relationship Score with that NPC is reduced by half. If you fail by less than 10, the relationship remains competitive, but you may reduce your Relationship Score with that NPC by 1 (representing the weakening of your rivalry. If you fail by more than 10, the relationship's nature and Relationship Score don't change.
+If you want to change a relationship from competitive to friendly, you must offer the NPC a gift and make a [Diplomacy](skill_dir/diplomacy#_diplomacy) check at a DC 10 higher than the normal gift check. If you succeed, the relationship changes to friendly, but your Relationship Score with that NPC is reduced by half. If you fail by less than 10, the relationship remains competitive, but you may reduce your Relationship Score with that NPC by 1 (representing the weakening of your rivalry). If you fail by more than 10, the relationship's nature and Relationship Score don't change.
 

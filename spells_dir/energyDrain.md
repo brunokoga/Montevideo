@@ -1,5 +1,5 @@
 ---
-title: spells/energyDrain
+title: spell_dir/energyDrain
 ---
  **Energy Drain**
 

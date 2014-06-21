@@ -3,7 +3,7 @@ title: spell_dir/illusoryWall
 ---
  **Illusory Wall**
 
-**School** illusion (figment; **Level** sorcerer/wizard 4
+**School** illusion (figment); **Level** sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 

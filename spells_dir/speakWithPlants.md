@@ -1,5 +1,5 @@
 ---
-title: spells/speakWithPlants
+title: spell_dir/speakWithPlants
 ---
  **Speak with Plants**
 

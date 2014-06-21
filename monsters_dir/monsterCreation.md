@@ -3,7 +3,7 @@ title: monster_dir/monsterCreation
 ---
 # Monster Creation
 
-Creating a monster is part science and part art. While most monsters follow a general pattern of their overall power and abilities as related to their Challenge Rating (CR, there are many exceptions. Some monsters, for example, have significantly more hit points or a higher AC than the average for their CR, but make up for this advantage by being weak in other areas. Other monsters have significantly higher average damage, but have a lower attack bonus.
+Creating a monster is part science and part art. While most monsters follow a general pattern of their overall power and abilities as related to their Challenge Rating (CR), there are many exceptions. Some monsters, for example, have significantly more hit points or a higher AC than the average for their CR, but make up for this advantage by being weak in other areas. Other monsters have significantly higher average damage, but have a lower attack bonus.
 
 # Building the Monster
 
@@ -189,7 +189,7 @@ When determining a creature's speed, first decide if it has any alternative mode
 [Table: Creature Statistics by Type]
 | Type | Hit Die | Base Attack Bonus (BAB) | Good Saving Throws | Skill Ranks\* |
 | --- | --- | --- | --- | --- |
-| [Aberration](monstersByType#_appendix-8-monsters-by-type | d8 | HD × 3/4 (Medium BAB) | Will | 4 + Int mod per HD |
+| [Aberration](monstersByType#_appendix-8-monsters-by-type) | d8 | HD × 3/4 (Medium BAB) | Will | 4 + Int mod per HD |
 | [Animal](creatureTypes#_animal) | d8 | HD × 3/4 (Medium BAB) | Fort, Ref | 2 + Int mod per HD |
 | [Construct](creatureTypes#_construct) | d10 | HD (Fast BAB) | — | 2 + Int mod per HD |
 | [Dragon](creatureTypes#_dragon) | d12 | HD (Fast BAB) | Fort, Ref, Will | 6 + Int mod per HD |

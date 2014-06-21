@@ -23,7 +23,7 @@ _Silver-white hair the color of a lightning strike whips about this poised elf-l
 
 **XP 2,400**
 
-CG Medium [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-subtype), [chaotic](creatureTypes#_chaotic-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [good](creatureTypes#_good-subtype), [shapechanger](creatureTypes#_shapechanger-subtype)
+CG Medium [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-subtype), [chaotic](creatureTypes#_chaotic-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [good](creatureTypes#_good-subtype), [shapechanger](creatureTypes#_shapechanger-subtype))
 
 **Init** +8; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +15
 
@@ -31,7 +31,7 @@ CG Medium [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-sub
 
 **AC** 20, touch 14, flat-footed 16 (+4 Dex, +6 natural)
 
-**hp** 66 (7d10+28
+**hp** 66 (7d10+28)
 
 **Fort** +9, **Ref** +9, **Will** +6
 
@@ -49,9 +49,9 @@ CG Medium [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-sub
 
 **Spell-Like Abilities** (CL 6th)
 
-At Will—_ [blur](../spell_dir/blur#_blur_, _ [charm person](../spell_dir/charmPerson#_charm-person)_ (DC 13, _ [gust of wind](../spell_dir/gustOfWind#_gust-of-wind)_ (DC 14, _ [mirror image](../spell_dir/mirrorImage#_mirror-image_, _ [wind wall](../spell_dir/windWall#_wind-wall_
+At Will—_ [blur](../spell_dir/blur#_blur)_, _ [charm person](../spell_dir/charmPerson#_charm-person)_ (DC 13), _ [gust of wind](../spell_dir/gustOfWind#_gust-of-wind)_ (DC 14), _ [mirror image](../spell_dir/mirrorImage#_mirror-image)_, _ [wind wall](../spell_dir/windWall#_wind-wall)_
 
-2/day—_ [lightning bolt](../spell_dir/lightningBolt#_lightning-bolt)_ (DC 15, _ [cure serious wounds](../spell_dir/cureSeriousWounds#_cure-serious-wounds_
+2/day—_ [lightning bolt](../spell_dir/lightningBolt#_lightning-bolt)_ (DC 15), _ [cure serious wounds](../spell_dir/cureSeriousWounds#_cure-serious-wounds)_
 
 **Statistics**
 
@@ -59,9 +59,9 @@ At Will—_ [blur](../spell_dir/blur#_blur_, _ [charm person](../spell_dir/charm
 
 **Base Atk** +7; **CMB** +12; **CMD** 26
 
-**Feats** [Blind-Fight](../feats#_blind-fight), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Blind-Fight](../feats#_blind-fight), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +12, [Fly](../skill_dir/fly#_fly +22, [Handle Animal](../skill_dir/handleAnimal#_handle-animal +12, [Perception](../skill_dir/perception#_perception +15, [Ride](../skill_dir/ride#_ride +14, [Sense Motive](../skill_dir/senseMotive#_sense-motive +12, [Stealth](../skill_dir/stealth#_stealth) +14
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +12, [Fly](../skill_dir/fly#_fly) +22, [Handle Animal](../skill_dir/handleAnimal#_handle-animal) +12, [Perception](../skill_dir/perception#_perception) +15, [Ride](../skill_dir/ride#_ride) +14, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +12, [Stealth](../skill_dir/stealth#_stealth) +14
 
 **Languages** Celestial, Draconic, Infernal; truespeech
 
@@ -79,7 +79,7 @@ At Will—_ [blur](../spell_dir/blur#_blur_, _ [charm person](../spell_dir/charm
 
 **Whirlwind Blast (Su)** When in wind form, a bralani can attack with a scouring blast of wind, dealing 3d6 points of damage in a 20-foot line (Reflex DC 17 half). The save DC is Constitution-based.
 
-**Wind Form (Su** A bralani can shift between its humanoid body and a body made of wind and mist as a standard action. In humanoid form, it cannot fly or use its whirlwind blast. In wind form, it functions as if under the effects of a _ [wind walk](../spell_dir/windWalk#_wind-walk)_ spell. It can make slam attacks and use spell-like abilities in either form. A bralani remains in one form until it chooses to assume its other form. A change in form cannot be dispelled, nor does the bralani revert to any particular form when killed (both shapes are its true form. A _ [true seeing](../spell_dir/trueSeeing#_true-seeing)_ spell reveals both forms simultaneously.
+**Wind Form (Su)** A bralani can shift between its humanoid body and a body made of wind and mist as a standard action. In humanoid form, it cannot fly or use its whirlwind blast. In wind form, it functions as if under the effects of a _ [wind walk](../spell_dir/windWalk#_wind-walk)_ spell. It can make slam attacks and use spell-like abilities in either form. A bralani remains in one form until it chooses to assume its other form. A change in form cannot be dispelled, nor does the bralani revert to any particular form when killed (both shapes are its true form). A _ [true seeing](../spell_dir/trueSeeing#_true-seeing)_ spell reveals both forms simultaneously.
 
 Bralanis are among the fiercest and wildest of the azatas, living from moment to moment and always on the lookout for chances to test their skill in battle. In addition to their elf-like forms, they can take the shape of whirlwinds of dust, snow, or sand. In the mortal realm, they are often mistaken for djinn. They delight in violent weather, not for the destructive qualities of such events, but for the intensity and energy, and many tales describe bralani as spirits who laugh as they sail amid the strongest storms.
 
@@ -93,9 +93,9 @@ _This elegantly armored sentinel stands alert, her eyes radiating divine light a
 
 **XP 25,600**
 
-CG Medium [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-subtype), [chaotic](creatureTypes#_chaotic-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [good](creatureTypes#_good-subtype), [shapechanger](creatureTypes#_shapechanger-subtype)
+CG Medium [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-subtype), [chaotic](creatureTypes#_chaotic-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [good](creatureTypes#_good-subtype), [shapechanger](creatureTypes#_shapechanger-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft., _ [detect evil](../spell_dir/detectEvil#_detect-evil_, low-light vision, _ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility_; [Perception](../skill_dir/perception#_perception +20
+**Init** +5; **Senses** darkvision 60 ft., _ [detect evil](../spell_dir/detectEvil#_detect-evil)_, low-light vision, _ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility)_; [Perception](../skill_dir/perception#_perception) +20
 
 **Aura** _ [holy aura](../spell_dir/holyAura#_holy-aura)_
 
@@ -103,7 +103,7 @@ CG Medium [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-sub
 
 **AC** 28, touch 16, flat-footed 26 (+4 deflection, +1 Dex, +1 dodge, +12 natural)
 
-**hp** 136 (13d10+65
+**hp** 136 (13d10+65)
 
 **Fort** +17, **Ref** +11, **Will** +16
 
@@ -113,7 +113,7 @@ CG Medium [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-sub
 
 **Speed** 50 ft., fly 150 ft. (perfect)
 
-**Melee** _+2 [holy](../magicItem_dir/weapons#_weapons-holy greatsword_ +22/+17/+12 (2d6+12)
+**Melee** _+2 [holy](../magicItem_dir/weapons#_weapons-holy) greatsword_ +22/+17/+12 (2d6+12)
 
 **Ranged** 2 light rays +14 ranged touch (2d12)
 
@@ -121,31 +121,31 @@ CG Medium [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-sub
 
 **Spell-Like Abilities** (CL 13th)
 
-Constant—_ [detect evil](../spell_dir/detectEvil#_detect-evil_, _ [holy aura](../spell_dir/holyAura#_holy-aura)_ (DC 21, _ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility_
+Constant—_ [detect evil](../spell_dir/detectEvil#_detect-evil)_, _ [holy aura](../spell_dir/holyAura#_holy-aura)_ (DC 21), _ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility)_
 
-At will—_ [aid](../spell_dir/aid#_aid_, _ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (DC 17, _ [continual flame](../spell_dir/continualFlame#_continual-flame_, _ [cure light wounds](../spell_dir/cureLightWounds#_cure-light-wounds_, _ [dancing lights](../spell_dir/dancingLights#_dancing-lights_, _ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC 15, _ [disguise self](../spell_dir/disguiseSelf#_disguise-self_, _ [dispel magic](../spell_dir/dispelMagic#_dispel-magic_, _ [hold monster](../spell_dir/holdMonster#_hold-monster)_ (DC 18, _ [greater invisibility](../spell_dir/invisibility#_invisibility-greater)_ (self only, _ [major image](../spell_dir/majorImage#_major-image)_ (DC 16, _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only
+At will—_ [aid](../spell_dir/aid#_aid)_, _ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (DC 17), _ [continual flame](../spell_dir/continualFlame#_continual-flame)_, _ [cure light wounds](../spell_dir/cureLightWounds#_cure-light-wounds)_, _ [dancing lights](../spell_dir/dancingLights#_dancing-lights)_, _ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC 15), _ [disguise self](../spell_dir/disguiseSelf#_disguise-self)_, _ [dispel magic](../spell_dir/dispelMagic#_dispel-magic)_, _ [hold monster](../spell_dir/holdMonster#_hold-monster)_ (DC 18), _ [greater invisibility](../spell_dir/invisibility#_invisibility-greater)_ (self only), _ [major image](../spell_dir/majorImage#_major-image)_ (DC 16), _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
 
-3/day—_ [globe of invulnerability](../spell_dir/globeOfInvulnerability#_globe-of-invulnerability_
+3/day—_ [globe of invulnerability](../spell_dir/globeOfInvulnerability#_globe-of-invulnerability)_
 
-1/day—_ [chain lightning](../spell_dir/chainLightning#_chain-lightning)_ (DC 19, _ [prismatic spray](../spell_dir/prismaticSpray#_prismatic-spray)_ (DC 20, _ [wall of force](../spell_dir/wallOfForce#_wall-of-force)_
+1/day—_ [chain lightning](../spell_dir/chainLightning#_chain-lightning)_ (DC 19), _ [prismatic spray](../spell_dir/prismaticSpray#_prismatic-spray)_ (DC 20), _ [wall of force](../spell_dir/wallOfForce#_wall-of-force)_
 
-**Spells Prepared** (CL 13th
+**Spells Prepared** (CL 13th)
 
-7th—_ [holy word](../spell_dir/holyWord#_holy-word)_ (DC 21
+7th—_ [holy word](../spell_dir/holyWord#_holy-word)_ (DC 21)
 
-6th—_ [banishment](../spell_dir/banishment#_banishment)_ (DC 20, _ [heal](../spell_dir/heal#_heal)_ (DC 20
+6th—_ [banishment](../spell_dir/banishment#_banishment)_ (DC 20), _ [heal](../spell_dir/heal#_heal)_ (DC 20)
 
-5th—_ [flame strike](../spell_dir/flameStrike#_flame-strike)_ (DC 19, _ [raise dead](../spell_dir/raiseDead#_raise-dead_, _ [true seeing](../spell_dir/trueSeeing#_true-seeing_
+5th—_ [flame strike](../spell_dir/flameStrike#_flame-strike)_ (DC 19), _ [raise dead](../spell_dir/raiseDead#_raise-dead)_, _ [true seeing](../spell_dir/trueSeeing#_true-seeing)_
 
-4th—_ [death ward](../spell_dir/deathWard#_death-ward_, _ [dismissal](../spell_dir/dismissal#_dismissal)_ (2) (DC 18, _ [divine power](../spell_dir/divinePower#_divine-power_, _ [restoration](../spell_dir/restoration#_restoration_
+4th—_ [death ward](../spell_dir/deathWard#_death-ward)_, _ [dismissal](../spell_dir/dismissal#_dismissal)_ (2) (DC 18), _ [divine power](../spell_dir/divinePower#_divine-power)_, _ [restoration](../spell_dir/restoration#_restoration)_
 
-3rd—_ [cure serious wounds](../spell_dir/cureSeriousWounds#_cure-serious-wounds)_ (3, _ [searing light](../spell_dir/searingLight#_searing-light)_ (2
+3rd—_ [cure serious wounds](../spell_dir/cureSeriousWounds#_cure-serious-wounds)_ (3), _ [searing light](../spell_dir/searingLight#_searing-light)_ (2)
 
-2nd—_ [aid](../spell_dir/aid#_aid_, _ [align weapon](../spell_dir/alignWeapon#_align-weapon_, _ [bear's endurance](../spell_dir/bearSEndurance#_bear-s-endurance_, _ [lesser restoration](../spell_dir/restoration#_restoration-lesser)_ (2
+2nd—_ [aid](../spell_dir/aid#_aid)_, _ [align weapon](../spell_dir/alignWeapon#_align-weapon)_, _ [bear's endurance](../spell_dir/bearSEndurance#_bear-s-endurance)_, _ [lesser restoration](../spell_dir/restoration#_restoration-lesser)_ (2)
 
-1st—_ [bless](../spell_dir/bless#_bless_, _ [command](../spell_dir/command#_command)_ (DC 15, _ [divine favor](../spell_dir/divineFavor#_divine-favor_, _ [obscuring mist](../spell_dir/obscuringMist#_obscuring-mist_, _ [shield of faith](../spell_dir/shieldOfFaith#_shield-of-faith)_
+1st—_ [bless](../spell_dir/bless#_bless)_, _ [command](../spell_dir/command#_command)_ (DC 15), _ [divine favor](../spell_dir/divineFavor#_divine-favor)_, _ [obscuring mist](../spell_dir/obscuringMist#_obscuring-mist)_, _ [shield of faith](../spell_dir/shieldOfFaith#_shield-of-faith)_
 
-0 (at will—_ [detect magic](../spell_dir/detectMagic#detect-magic_, _ [purify food and drink](../spell_dir/purifyFoodAndDrink#_purify-food-and-drink_, _ [stabilize](../spell_dir/stabilize#_stabilize_, _ [virtue](../spell_dir/virtue#_virtue_
+0 (at will)—_ [detect magic](../spell_dir/detectMagic#detect-magic)_, _ [purify food and drink](../spell_dir/purifyFoodAndDrink#_purify-food-and-drink)_, _ [stabilize](../spell_dir/stabilize#_stabilize)_, _ [virtue](../spell_dir/virtue#_virtue)_
 
 **Statistics**
 
@@ -155,7 +155,7 @@ At will—_ [aid](../spell_dir/aid#_aid_, _ [charm monster](../spell_dir/charmMo
 
 **Feats** [Combat Casting](../feats#_combat-casting), [Combat Expertise](../feats#_combat-expertise), [Dodge](../feats#_dodge), [Improved Disarm](../feats#_improved-disarm), [Improved Initiative](../feats#_improved-initiative), [Improved Trip](../feats#_improved-trip), [Lightning Reflexes](../feats#_lightning-reflexes)
 
-**Skills** [Diplomacy](../skill_dir/diplomacy#_diplomacy +19, [Escape Artist](../skill_dir/escapeArtist#_escape-artist +17, [Fly](../skill_dir/fly#_fly +25, [Handle Animal](../skill_dir/handleAnimal#_handle-animal +19, [Knowledge](../skill_dir/knowledge#_knowledge) (nature +16, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +19, [Perception](../skill_dir/perception#_perception +20, [Sense Motive](../skill_dir/senseMotive#_sense-motive +20, [Stealth](../skill_dir/stealth#_stealth) +17
+**Skills** [Diplomacy](../skill_dir/diplomacy#_diplomacy) +19, [Escape Artist](../skill_dir/escapeArtist#_escape-artist) +17, [Fly](../skill_dir/fly#_fly) +25, [Handle Animal](../skill_dir/handleAnimal#_handle-animal) +19, [Knowledge](../skill_dir/knowledge#_knowledge) (nature) +16, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +19, [Perception](../skill_dir/perception#_perception) +20, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +20, [Stealth](../skill_dir/stealth#_stealth) +17
 
 **Languages** Celestial, Draconic, Infernal; truespeech
 
@@ -165,7 +165,7 @@ At will—_ [aid](../spell_dir/aid#_aid_, _ [charm monster](../spell_dir/charmMo
 
 **Environment** any (Elysium)
 
-**Organization** solitary, pair, or squad (3–6
+**Organization** solitary, pair, or squad (3–6)
 
 **Treasure** triple (_+2 [holy](../magicItem_dir/weapons#_weapons-holy) greatsword_)
 
@@ -189,7 +189,7 @@ _This creature has the body of a seductive, winged elven woman from the waist up
 
 **XP 3,200**
 
-CG Large [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-subtype), [chaotic](creatureTypes#_chaotic-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [good](creatureTypes#_good-subtype)
+CG Large [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-subtype), [chaotic](creatureTypes#_chaotic-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [good](creatureTypes#_good-subtype))
 
 **Init** +3; **Senses** low-light vision, darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +13
 
@@ -205,7 +205,7 @@ CG Large [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-subt
 
 **Offense**
 
-**Speed** 30 ft., fly 70 ft. (average
+**Speed** 30 ft., fly 70 ft. (average)
 
 **Melee** _+1 longsword_ +12/+7 (2d6+8/19–20), tail slap +6 (2d6+2 plus [grab](universalMonsterRules#_grab))
 
@@ -213,31 +213,31 @@ CG Large [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-subt
 
 **Special Attacks** bardic performance (20 round_dir/day), [constrict](universalMonsterRules#_constrict) (2d6+5)
 
-**Spell-Like Abilities** (CL 7th
+**Spell-Like Abilities** (CL 7th)
 
-3/day—_ [darkness](../spell_dir/darkness#_darkness_, _ [hallucinatory terrain](../spell_dir/hallucinatoryTerrain#_hallucinatory-terrain)_ (DC 18, _ [knock](../spell_dir/knock#_knock_, _ [light](../spell_dir/light#_light_
+3/day—_ [darkness](../spell_dir/darkness#_darkness)_, _ [hallucinatory terrain](../spell_dir/hallucinatoryTerrain#_hallucinatory-terrain)_ (DC 18), _ [knock](../spell_dir/knock#_knock)_, _ [light](../spell_dir/light#_light)_
 
-1/day—_ [charm person](../spell_dir/charmPerson#_charm-person)_ (DC 15, _ [speak with animals](../spell_dir/speakWithAnimals#_speak-with-animals_, _ [speak with plants](../spell_dir/speakWithPlants#_speak-with-plants)_
+1/day—_ [charm person](../spell_dir/charmPerson#_charm-person)_ (DC 15), _ [speak with animals](../spell_dir/speakWithAnimals#_speak-with-animals)_, _ [speak with plants](../spell_dir/speakWithPlants#_speak-with-plants)_
 
-**Spells Known** (CL 7th
+**Spells Known** (CL 7th)
 
-3rd (2/day)—_ [charm monster](../spell_dir/charmMonster#_charm-monster) _(DC 17, _ [cure serious wounds](../spell_dir/cureSeriousWounds#_cure-serious-wounds_
+3rd (2/day)—_ [charm monster](../spell_dir/charmMonster#_charm-monster) _(DC 17), _ [cure serious wounds](../spell_dir/cureSeriousWounds#_cure-serious-wounds)_
 
-2nd (4/day)—_ [hold person](../spell_dir/holdPerson#_hold-person) _(DC 16, _ [invisibility](../spell_dir/invisibility#_invisibility_, _ [sound burst](../spell_dir/soundBurst#_sound-burst) _(DC 16, _ [suggestion](../spell_dir/suggestion#_suggestion) _(DC 16
+2nd (4/day)—_ [hold person](../spell_dir/holdPerson#_hold-person) _(DC 16), _ [invisibility](../spell_dir/invisibility#_invisibility)_, _ [sound burst](../spell_dir/soundBurst#_sound-burst) _(DC 16), _ [suggestion](../spell_dir/suggestion#_suggestion) _(DC 16)
 
-1st (5/day)—_ [charm person](../spell_dir/charmPerson#_charm-person) _(DC 15, _ [cure light wounds](../spell_dir/cureLightWounds#_cure-light-wounds_, _ [identify](../spell_dir/identify#_identify_, _ [sleep](../spell_dir/sleep#_sleep) _(DC 15)
+1st (5/day)—_ [charm person](../spell_dir/charmPerson#_charm-person) _(DC 15), _ [cure light wounds](../spell_dir/cureLightWounds#_cure-light-wounds)_, _ [identify](../spell_dir/identify#_identify)_, _ [sleep](../spell_dir/sleep#_sleep) _(DC 15)
 
-0 (at will—_ [dancing lights](../spell_dir/dancingLights#_dancing-lights, [daze](../spell_dir/daze#_daze) _(DC 14_, [detect magic](../spell_dir/detectMagic#_detect-magic, [lullaby](../spell_dir/lullaby#_lullaby) _(DC 14_, [mage hand](../spell_dir/mageHand#_mage-hand, [read magic](../spell_dir/readMagic#_read-magic)_
+0 (at will)—_ [dancing lights](../spell_dir/dancingLights#_dancing-lights), [daze](../spell_dir/daze#_daze) _(DC 14)_, [detect magic](../spell_dir/detectMagic#_detect-magic), [lullaby](../spell_dir/lullaby#_lullaby) _(DC 14)_, [mage hand](../spell_dir/mageHand#_mage-hand), [read magic](../spell_dir/readMagic#_read-magic)_
 
 **Statistics**
 
 **Str** 20, **Dex** 17, **Con** 21, **Int** 14, **Wis** 16, **Cha** 19
 
-**Base Atk** +7; **CMB** +13; **CMD** 26 (can't be tripped
+**Base Atk** +7; **CMB** +13; **CMD** 26 (can't be tripped)
 
 **Feats** [Combat Casting](../feats#_combat-casting), [Hover](monsterFeats#_hover), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +14, [Diplomacy](../skill_dir/diplomacy#_diplomacy +14, [Fly](../skill_dir/fly#_fly +11, [Knowledge](../skill_dir/knowledge#_knowledge) (nature +9, [Perception](../skill_dir/perception#_perception +13, [Perform](../skill_dir/perform#_perform) (stringed instruments +16, [Sense Motive](../skill_dir/senseMotive#_sense-motive +13, [Survival](../skill_dir/survival#_survival +14; **Racial Modifiers** +4 [Survival](../skill_dir/survival#_survival)
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +14, [Diplomacy](../skill_dir/diplomacy#_diplomacy) +14, [Fly](../skill_dir/fly#_fly) +11, [Knowledge](../skill_dir/knowledge#_knowledge) (nature) +9, [Perception](../skill_dir/perception#_perception) +13, [Perform](../skill_dir/perform#_perform) (stringed instruments) +16, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +13, [Survival](../skill_dir/survival#_survival) +14; **Racial Modifiers** +4 [Survival](../skill_dir/survival#_survival)
 
 **Languages** Celestial, Draconic, Infernal; truespeech
 
@@ -247,11 +247,11 @@ CG Large [outsider](creatureTypes#_outsider) ( [azata](creatureTypes#_azata-subt
 
 **Organization** solitary, pair, or choir (3–6)
 
-**Treasure** standard (_+1 longsword_, masterwork harp
+**Treasure** standard (_+1 longsword_, masterwork harp)
 
 **Special Abilities**
 
-**Bardic Performance** A lillend has the bardic performance ability of a 7th-level bard, granting her access to that ability's countersong, fascinate, inspire courage, inspire competence, and _ [suggestion](../spell_dir/suggestion#_suggestion_ aspects.
+**Bardic Performance** A lillend has the bardic performance ability of a 7th-level bard, granting her access to that ability's countersong, fascinate, inspire courage, inspire competence, and _ [suggestion](../spell_dir/suggestion#_suggestion)_ aspects.
 
 **Spells** A lillend casts spells as a 7th-level bard. They favor enchantment and healing spells.
 

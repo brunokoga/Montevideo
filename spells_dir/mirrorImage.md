@@ -3,7 +3,7 @@ title: spell_dir/mirrorImage
 ---
  **Mirror Image**
 
-**School** illusion (figment; **Level** bard 2, sorcerer/wizard 2
+**School** illusion (figment); **Level** bard 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 

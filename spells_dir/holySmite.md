@@ -1,5 +1,5 @@
 ---
-title: spells/holySmite
+title: spell_dir/holySmite
 ---
  **Holy Smite**
 

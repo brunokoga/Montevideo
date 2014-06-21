@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/crafterSFortune
+title: advance_dir/spells/crafterSFortune
 ---
  **Crafter's Fortune**
 
@@ -7,7 +7,7 @@ title: advanced/spells/crafterSFortune
 
 **Casting Time** 1 standard action
 
-**Component** V, S, F (a tool
+**Component** V, S, F (a tool)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
@@ -15,7 +15,7 @@ title: advanced/spells/crafterSFortune
 
 **Duration** 1 da_dir/level or until discharged (D)
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The target is struck by inspiration and gains a +5 luck bonus on its next [Craft](../../skill_dir/craft#_craft skill check.
+The target is struck by inspiration and gains a +5 luck bonus on its next [Craft](../../skill_dir/craft#_craft) skill check.
 

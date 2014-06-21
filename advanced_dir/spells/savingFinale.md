@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/savingFinale
+title: advance_dir/spells/savingFinale
 ---
  **Saving Finale**
 

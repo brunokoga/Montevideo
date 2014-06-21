@@ -9,7 +9,7 @@ _This towering insect walks on its back four legs. Its head is triangular and it
 
 **XP 800**
 
-N Large [vermin](creatureTypes#_vermin
+N Large [vermin](creatureTypes#_vermin)
 
 **Init** +1; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +6
 
@@ -37,9 +37,9 @@ N Large [vermin](creatureTypes#_vermin
 
 **Str** 16, **Dex** 13, **Con** 16, **Int** —, **Wis** 14, **Cha** 11
 
-**Base Atk** +3; **CMB** +7 (+11 grapple); **CMD** 18 (22 vs. trip
+**Base Atk** +3; **CMB** +7 (+11 grapple); **CMD** 18 (22 vs. trip)
 
-**Skills** [Climb](../skill_dir/climb#_climb +11, [Fly](../skill_dir/fly#_fly –5, [Perception](../skill_dir/perception#_perception +6, [Stealth](../skill_dir/stealth#_stealth) +1 (+13 in forests; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +4 [Stealth](../skill_dir/stealth#_stealth) (+12 in forests
+**Skills** [Climb](../skill_dir/climb#_climb) +11, [Fly](../skill_dir/fly#_fly) –5, [Perception](../skill_dir/perception#_perception) +6, [Stealth](../skill_dir/stealth#_stealth) +1 (+13 in forests); **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception), +4 [Stealth](../skill_dir/stealth#_stealth) (+12 in forests)
 
 **Ecology**
 

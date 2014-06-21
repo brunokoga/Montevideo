@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/memoryLapse
+title: advance_dir/spells/memoryLapse
 ---
  **Memory Lapse**
 
-**School** enchantment [mind-affecting]; **Level** bard 1, sorcerer/wizard 1
+**School** enchantment [mind-affecting]; **Level** bard 1, sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ title: advanced/spells/memoryLapse
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-You cause the target to forget what happened from the casting of the spell back to the beginning of its last turn. This may allow a retry on a [Diplomacy](../../skill_dir/diplomacy#_diplomacy, [Intimidate](../../skill_dir/intimidate#_intimidate, or opposed skill check, though only with respect to the target, not other creatures that may be present.
+You cause the target to forget what happened from the casting of the spell back to the beginning of its last turn. This may allow a retry on a [Diplomacy](../../skill_dir/diplomacy#_diplomacy), [Intimidate](../../skill_dir/intimidate#_intimidate), or opposed skill check, though only with respect to the target, not other creatures that may be present.
 

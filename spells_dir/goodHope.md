@@ -3,7 +3,7 @@ title: spell_dir/goodHope
 ---
  **Good Hope**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 3
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 3
 
 **Casting Time** 1 standard action
 
@@ -11,7 +11,7 @@ title: spell_dir/goodHope
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Targets** one living creature/level, no two of which may be more than 30 ft. apart
+**Targets** one living creatur_dir/level, no two of which may be more than 30 ft. apart
 
 **Duration** 1 min./level
 

@@ -9,19 +9,19 @@ Iku-turso CR 8
 
 XP 4,800
 
-NE Medium aberration ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
+NE Medium aberration ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +7; **Senses** [blindsense](monster_dir/universalMonsterRules#_blindsense 30 ft., darkvision 60 ft.; [Perception](skill_dir/perception#_perception) +12
+**Init** +7; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 30 ft., darkvision 60 ft.; [Perception](skill_dir/perception#_perception) +12
 
 Defense
 
 **AC** 21, touch 14, flat-footed 17 (+3 Dex, +1 dodge, +7 natural)
 
-**hp** 102 (12d8+48
+**hp** 102 (12d8+48)
 
 **Fort** +8, **Ref** +9, **Will** +11
 
-**Immune** [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)
+**Immune** [disease](monsters/universalMonsterRules#_disease-(ex-or-su))
 
 **Weaknesses** light blindness
 
@@ -39,9 +39,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +16; **CMD** 30
 
-**Feats** [Combat Reflexes](feats#_combat-reflexes), [Critical Focus](feats#_critical-focus), [Dodge](feats#_dodge), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes
+**Feats** [Combat Reflexes](feats#_combat-reflexes), [Critical Focus](feats#_critical-focus), [Dodge](feats#_dodge), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes)
 
-**Skills** [Perception](skill_dir/perception#_perception +12, [Stealth](skill_dir/stealth#_stealth +14, [Survival](skill_dir/survival#_survival +12, [Swim](skill_dir/swim#_swim +15
+**Skills** [Perception](skills/perception#_perception) +12, [Stealth](skill_dir/stealth#_stealth) +14, [Survival](skills/survival#_survival) +12, [Swim](skill_dir/swim#_swim) +15
 
 **Languages** Aklo, Aquan, Undercommon
 
@@ -49,19 +49,19 @@ Statistics
 
 Ecology
 
-**Environment** [cold](monster_dir/creatureTypes#_cold-subtype or temperate [water](monster_dir/creatureTypes#_water-subtype) or underground
+**Environment** [cold](monsters/creatureTypes#_cold-subtype) or temperate [water](monster_dir/creatureTypes#_water-subtype) or underground
 
-**Organization** solitary, pair, or cell (3–8
+**Organization** solitary, pair, or cell (3–8)
 
 **Treasure** standard
 
 Special Abilities
 
-**[Disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)) (Su** An iku-turso's bite inflicts a strange, supernatural [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su) called tursas. This [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su) causes the victim's skin to grow painfully scaly, causes strange hallucinations, and eventually transforms the victim into an iku-turso.
+**[Disease](monsters/universalMonsterRules#_disease-(ex-or-su)) (Su)** An iku-turso's bite inflicts a strange, supernatural [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)) called tursas. This [disease](monsters/universalMonsterRules#_disease-(ex-or-su)) causes the victim's skin to grow painfully scaly, causes strange hallucinations, and eventually transforms the victim into an iku-turso.
 
-_Tursas_: Bite—injury; _save_ Fort DC 20; _onset_ 1 minute; _frequency_ 1/day; _effect_ 1d3 Wis damage and 1d6 Cha drain; _cure_ 2 consecutive saves. As long as a victim suffers any ability damage from tursas, it gains the ability to breathe [water](monster_dir/creatureTypes#_water-subtype. A creature reduced to 0 Charisma by this [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su) transforms into a fully grown and healthy iku-turso—it immediately forgets its previous life and abilities and seeks out the nearest iku-turso community to join it. A _ [wish](spell_dir/wish#_wish_ or _ [miracle](spell_dir/miracle#_miracle)_ can reverse this transformation. The save DC is Constitution-based.
+_Tursas_: Bite—injury; _save_ Fort DC 20; _onset_ 1 minute; _frequency_ 1/day; _effect_ 1d3 Wis damage and 1d6 Cha drain; _cure_ 2 consecutive saves. As long as a victim suffers any ability damage from tursas, it gains the ability to breathe [water](monster_dir/creatureTypes#_water-subtype). A creature reduced to 0 Charisma by this [disease](monsters/universalMonsterRules#_disease-(ex-or-su)) transforms into a fully grown and healthy iku-turso—it immediately forgets its previous life and abilities and seeks out the nearest iku-turso community to join it. A _ [wish](spell_dir/wish#_wish)_ or _ [miracle](spells/miracle#_miracle)_ can reverse this transformation. The save DC is Constitution-based.
 
-**Light Lure (Su** As a standard action, an iku-turso can call forth a few small points of light, functioning like a _ [dancing lights](spell_dir/dancingLights#_dancing-lights)_ spell (CL equals the iku-turso's HD except as described here. Creatures within 100 feet of one of these lights must make a DC 18 Will save upon sighting them or be compelled to approach them by the safest and most direct path. A creature that successfully saves is immune to the same iku-turso's light lure for 24 hours. If a subject of this effect has to move through hazardous terrain to reach the lights, that subject receives another saving throw to end the effect before entering the hazardous terrain. This effect ends once the character reaches the light or takes any form of damage. This is a visual mind-affecting charm effect. The save DC is Charisma-based.
+**Light Lure (Su)** As a standard action, an iku-turso can call forth a few small points of light, functioning like a _ [dancing lights](spell_dir/dancingLights#_dancing-lights)_ spell (CL equals the iku-turso's HD) except as described here. Creatures within 100 feet of one of these lights must make a DC 18 Will save upon sighting them or be compelled to approach them by the safest and most direct path. A creature that successfully saves is immune to the same iku-turso's light lure for 24 hours. If a subject of this effect has to move through hazardous terrain to reach the lights, that subject receives another saving throw to end the effect before entering the hazardous terrain. This effect ends once the character reaches the light or takes any form of damage. This is a visual mind-affecting charm effect. The save DC is Charisma-based.
 
 Iku-tursos are hideous denizens of the deep sea. There, they venerate sinister gods of plague and contagion and torment victims plucked from ship and shore in special air-filled torture chambers. Disease is sacred to the iku-tursos, and those who suffer from sickness are considered blessed—an iku-turso often chooses to leave obviously diseased victims to their fates rather than attempt to capture them.
 

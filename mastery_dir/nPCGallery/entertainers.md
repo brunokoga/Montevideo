@@ -1,5 +1,5 @@
 ---
-title: mastery/nPCGallery/entertainers
+title: master_dir/nPCGallery/entertainers
 ---
 # Entertainers
 
@@ -19,7 +19,7 @@ N Medium humanoid
 
 **AC** 17, touch 13, flat-footed 14 (+3 armor, +2 Dex, +1 dodge, +1 shield)
 
-**hp** 11 (2d8+2
+**hp** 11 (2d8+2)
 
 **Fort** +1, **Ref** +5, **Will** +2; +4 vs. bardic performance, language-dependent, and sonic
 
@@ -35,11 +35,11 @@ N Medium humanoid
 
 **Special Attacks** bardic performance 9 round_dir/day (countersong, distraction, fascinate [DC 14], inspire courage +1)
 
-**Bard Spells Known** (CL 2nd; concentration +5
+**Bard Spells Known** (CL 2nd; concentration +5)
 
-1st (3/day)—_ [comprehend languages](../../spell_dir/comprehendLanguages#_comprehend-languages_, _ [hideous laughter](../../spell_dir/hideousLaughter#_hideous-laughter)_ (DC 14, _ [ventriloquism](../../spell_dir/ventriloquism#_ventriloquism)_
+1st (3/day)—_ [comprehend languages](../../spell_dir/comprehendLanguages#_comprehend-languages)_, _ [hideous laughter](../../spell_dir/hideousLaughter#_hideous-laughter)_ (DC 14), _ [ventriloquism](../../spell_dir/ventriloquism#_ventriloquism)_
 
-0 (at will—_ [dancing lights](../../spell_dir/dancingLights#_dancing-lights_, _ [daze](../../spell_dir/daze#_daze) _(DC 13, _ [ghost sound](../../spell_dir/ghostSound#_ghost-sound) _(DC 13, _ [message](../../spell_dir/message#_message_, _prestigiditation_
+0 (at will)—_ [dancing lights](../../spell_dir/dancingLights#_dancing-lights)_, _ [daze](../../spell_dir/daze#_daze) _(DC 13), _ [ghost sound](../../spell_dir/ghostSound#_ghost-sound) _(DC 13), _ [message](../../spell_dir/message#_message)_, _prestigiditation_
 
 **Statistics**
 
@@ -47,21 +47,21 @@ N Medium humanoid
 
 **Base Atk** +1; **CMB** +1; **CMD** 14
 
-**Feats** [Dodge](../../feats#_dodge), [Skill Focus](../../feats#_skill-focus) ( [Perform](../../skill_dir/perform#_perform) [Oratory]
+**Feats** [Dodge](../../feats#_dodge), [Skill Focus](../../feats#_skill-focus) ( [Perform](../../skill_dir/perform#_perform) [Oratory])
 
-**Skills** [Bluff](../../skill_dir/bluff#_bluff +8, [Diplomacy](../../skill_dir/diplomacy#_diplomacy +11, [Disguise](../../skill_dir/disguise#_disguise +10, [Intimidate](../../skill_dir/intimidate#_intimidate +8, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +7, [Perception](../../skill_dir/perception#_perception +4, [Perform](../../skill_dir/perform#_perform) (act +8, [Perform](../../skill_dir/perform#_perform) (oratory +11, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +11, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand +7, [Stealth](../../skill_dir/stealth#_stealth) +6
+**Skills** [Bluff](../../skill_dir/bluff#_bluff) +8, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +11, [Disguise](../../skill_dir/disguise#_disguise) +10, [Intimidate](../../skill_dir/intimidate#_intimidate) +8, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +7, [Perception](../../skill_dir/perception#_perception) +4, [Perform](../../skill_dir/perform#_perform) (act) +8, [Perform](../../skill_dir/perform#_perform) (oratory) +11, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +11, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +7, [Stealth](../../skill_dir/stealth#_stealth) +6
 
 **Languages** Common, Elven
 
 **SQ** bardic knowledge +1, versatile performance (oratory)
 
-**Gear** masterwork studded leather, buckler, rapier, shortbow with 20 arrows, whip, disguise kit, light horse (combat trained with riding saddle
+**Gear** masterwork studded leather, buckler, rapier, shortbow with 20 arrows, whip, disguise kit, light horse (combat trained) with riding saddle
 
 **Boon** A storyteller can pass along a small bit of lore or gossip that grants a +2 circumstance bonus on a PC's next [Knowledge](../../skill_dir/knowledge#_knowledge) (history or local) check.
 
 A storyteller is a traveling raconteur, a collector and performer of tall tales, epic poems, and ancient history. They move from town to town reciting their repertoire and picking up new bits of lore and gossip to pass on at the next town. Taverns and inns frequently contain a storyteller entertaining patrons, but storytellers can also be found performing on the street or in market squares. A storyteller could be used as a town crier or herald, or as a revolutionary or rabble-rouser working to stir up public opinion.
 
-A storyteller can be found working for a barkeep (CR 4) or traveling with an out-of-work caravan guard (CR 3.
+A storyteller can be found working for a barkeep (CR 4) or traveling with an out-of-work caravan guard (CR 3).
 
 **Minstrel CR 5**
 
@@ -77,7 +77,7 @@ N Medium humanoid
 
 **AC** 17, touch 12, flat-footed 15 (+4 armor, +2 Dex, +1 shield)
 
-**hp** 30 (6d8+3
+**hp** 30 (6d8+3)
 
 **Fort** +2, **Ref** +7, **Will** +4; +4 vs. bardic performance, language–dependent, and sonic
 
@@ -87,17 +87,17 @@ N Medium humanoid
 
 **Melee** mwk rapier +6 (1d6+1/18–20)
 
-**Ranged** _+1 [light](../../spell_dir/light#_light crossbow_ +7 (1d8+1/19–20)
+**Ranged** _+1 [light](../../spell_dir/light#_light) crossbow_ +7 (1d8+1/19–20)
 
 **Special Attacks** bardic performance 24 round_dir/day (countersong, distraction, fascinate [DC 17], inspire competence +2, inspire courage +2, suggestion [DC 17])
 
-**Bard Spells Known** (CL 6th; concentration +10
+**Bard Spells Known** (CL 6th; concentration +10)
 
-2nd (4/day)—_ [calm emotions](../../spell_dir/calmEmotions#_calm-emotions_, _ [enthrall](../../spell_dir/enthrall#_enthrall)_ (DC 16, _ [sound burst](../../spell_dir/soundBurst#_sound-burst)_ (DC 16, _ [tongues](../../spell_dir/tongues#_tongues_
+2nd (4/day)—_ [calm emotions](../../spell_dir/calmEmotions#_calm-emotions)_, _ [enthrall](../../spell_dir/enthrall#_enthrall)_ (DC 16), _ [sound burst](../../spell_dir/soundBurst#_sound-burst)_ (DC 16), _ [tongues](../../spell_dir/tongues#_tongues)_
 
-1st (5/day)—_ [charm person](../../spell_dir/charmPerson#_charm-person)_ (DC 15, _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_, _ [expeditious retreat](../../spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [grease](../../spell_dir/grease#_grease)_ (DC 15)
+1st (5/day)—_ [charm person](../../spell_dir/charmPerson#_charm-person)_ (DC 15), _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_, _ [expeditious retreat](../../spell_dir/expeditiousRetreat#_expeditious-retreat)_, _ [grease](../../spell_dir/grease#_grease)_ (DC 15)
 
-0 (at will—_ [ghost sound](../../spell_dir/ghostSound#_ghost-sound) _(DC 14, _ [light](../../spell_dir/light#_light_, _ [lullaby](../../spell_dir/lullaby#_lullaby_, _ [mage hand](../../spell_dir/mageHand#_mage-hand_, _ [resistance](../../spell_dir/resistance#_resistance_, _ [summon instrument](../../spell_dir/summonInstrument#_summon-instrument_
+0 (at will)—_ [ghost sound](../../spell_dir/ghostSound#_ghost-sound) _(DC 14), _ [light](../../spell_dir/light#_light)_, _ [lullaby](../../spell_dir/lullaby#_lullaby)_, _ [mage hand](../../spell_dir/mageHand#_mage-hand)_, _ [resistance](../../spell_dir/resistance#_resistance)_, _ [summon instrument](../../spell_dir/summonInstrument#_summon-instrument)_
 
 **Statistics**
 
@@ -105,21 +105,21 @@ N Medium humanoid
 
 **Base Atk** +4; **CMB** +5; **CMD** 17
 
-**Feats** [Extra Performance](../../feats#_extra-performance), Point Blank Shot, [Precise Shot](../../feats#_precise-shot), [Skill Focus](../../feats#_skill-focus) ( [Perform](../../skill_dir/perform#_perform) [String]
+**Feats** [Extra Performance](../../feats#_extra-performance), Point Blank Shot, [Precise Shot](../../feats#_precise-shot), [Skill Focus](../../feats#_skill-focus) ( [Perform](../../skill_dir/perform#_perform) [String])
 
-**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics +10, [Bluff](../../skill_dir/bluff#_bluff +18, [Diplomacy](../../skill_dir/diplomacy#_diplomacy +18, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility +9, [Linguistics](../../skill_dir/linguistics#_linguistics +5, [Perception](../../skill_dir/perception#_perception +8, [Perform](../../skill_dir/perform#_perform) (oratory +13, [Perform](../../skill_dir/perform#_perform) (sing +13, [Perform](../../skill_dir/perform#_perform) (string +18, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +13, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand +11, [Spellcraft](../../skill_dir/spellcraft#_spellcraft +10, [Stealth](../../skill_dir/stealth#_stealth +10
+**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics) +10, [Bluff](../../skill_dir/bluff#_bluff) +18, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +18, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) +9, [Linguistics](../../skill_dir/linguistics#_linguistics) +5, [Perception](../../skill_dir/perception#_perception) +8, [Perform](../../skill_dir/perform#_perform) (oratory) +13, [Perform](../../skill_dir/perform#_perform) (sing) +13, [Perform](../../skill_dir/perform#_perform) (string) +18, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +13, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +11, [Spellcraft](../../skill_dir/spellcraft#_spellcraft) +10, [Stealth](../../skill_dir/stealth#_stealth) +10
 
 **Languages** Common, Dwarven, Elven
 
 **SQ** bardic knowledge +3, lore master 1/day, versatile performance (oratory, string)
 
-**Combat Gear** _scrolls of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_ (2, _ [disguise self](../../spell_dir/disguiseSelf#_disguise-self)_ (2, _ [remove fear](../../spell_dir/removeFear#_remove-fear)_ (2, _ [pyrotechnics](../../spell_dir/pyrotechnics#_pyrotechnics_; **Other Gear** masterwork chain shirt, masterwork buckler, _+1 [light](../../spell_dir/light#_light crossbow_ with 10 bolts, masterwork rapier, masterwork harp
+**Combat Gear** _scrolls of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_ (2), _ [disguise self](../../spell_dir/disguiseSelf#_disguise-self)_ (2), _ [remove fear](../../spell_dir/removeFear#_remove-fear)_ (2), _ [pyrotechnics](../../spell_dir/pyrotechnics#_pyrotechnics)_; **Other Gear** masterwork chain shirt, masterwork buckler, _+1 [light](../../spell_dir/light#_light) crossbow_ with 10 bolts, masterwork rapier, masterwork harp
 
 **Boon** A minstrel can write and publish a song or story lauding the PCs and their accomplishments, granting them a +2 circumstance bonus on [Diplomacy](../../skill_dir/diplomacy#_diplomacy) checks for 1 week.
 
 A minstrel is a professional bard, an accomplished performer used to playing at festivals and lordly tables. He is a versatile performer but specializes in song, story, and especially the playing of the lute, lyre, harp, and other stringed instruments.
 
-A minstrel down on his luck might play for a barkeep (CR 6). Two minstrels could be the apprentices of a celebrity bard (CR 11), while a troupe of three minstrels might play for a noble (CR 10) or even a king and queen (CR 15.
+A minstrel down on his luck might play for a barkeep (CR 6). Two minstrels could be the apprentices of a celebrity bard (CR 11), while a troupe of three minstrels might play for a noble (CR 10) or even a king and queen (CR 15).
 
 **Celebrity Bard CR 10**
 
@@ -135,7 +135,7 @@ N Medium humanoid
 
 **AC** 19, touch 12, flat-footed 17 (+5 armor, +2 Dex, +2 shield)
 
-**hp** 79 (11d8+30
+**hp** 79 (11d8+30)
 
 **Fort** +6, **Ref** +10, **Will** +8; +4 vs. bardic performance, language–dependent, and sonic
 
@@ -149,17 +149,17 @@ N Medium humanoid
 
 **Special Attacks** bardic music 30 round_dir/day (countersong, dirge of doom, distraction, fascinate, inspire competence +4, inspire courage +3, inspire greatness, suggestion)
 
-**Bard Spells Known** (CL 11th; concentration +17
+**Bard Spells Known** (CL 11th; concentration +17)
 
-4th (3/day)—_ [dominate person](../../spell_dir/dominatePerson#_dominate-person)_ (DC 20, _ [greater invisibility](../../spell_dir/invisibility#_invisibility-greater_, _ [rainbow pattern](../../spell_dir/rainbowPattern#_rainbow-pattern)_ (DC 20
+4th (3/day)—_ [dominate person](../../spell_dir/dominatePerson#_dominate-person)_ (DC 20), _ [greater invisibility](../../spell_dir/invisibility#_invisibility-greater)_, _ [rainbow pattern](../../spell_dir/rainbowPattern#_rainbow-pattern)_ (DC 20)
 
-3rd (5/day)—_ [charm monster](../../spell_dir/charmMonster#_charm-monster)_ (DC 19, _ [crushing despair](../../spell_dir/crushingDespair#_crushing-despair)_ (DC 19, _ [haste](../../spell_dir/haste#_haste_, _ [slow](../../spell_dir/slow#_slow)_ (DC 19
+3rd (5/day)—_ [charm monster](../../spell_dir/charmMonster#_charm-monster)_ (DC 19), _ [crushing despair](../../spell_dir/crushingDespair#_crushing-despair)_ (DC 19), _ [haste](../../spell_dir/haste#_haste)_, _ [slow](../../spell_dir/slow#_slow)_ (DC 19)
 
-2nd (6/day)—_ [cure moderate wounds](../../spell_dir/cureModerateWounds#_cure-moderate-wounds_, _ [hold person](../../spell_dir/holdPerson#_hold-person)_ (DC 18, _ [minor image](../../spell_dir/minorImage#_minor-image)_ (DC 18, _ [silence](../../spell_dir/silence#_silence)_ (DC 18, _ [tongues](../../spell_dir/tongues#_tongues_
+2nd (6/day)—_ [cure moderate wounds](../../spell_dir/cureModerateWounds#_cure-moderate-wounds)_, _ [hold person](../../spell_dir/holdPerson#_hold-person)_ (DC 18), _ [minor image](../../spell_dir/minorImage#_minor-image)_ (DC 18), _ [silence](../../spell_dir/silence#_silence)_ (DC 18), _ [tongues](../../spell_dir/tongues#_tongues)_
 
-1st (7/day)—_ [charm person](../../spell_dir/charmPerson#_charm-person)_ (DC 17, _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_, _ [disguise self](../../spell_dir/disguiseSelf#_disguise-self_, _ [expeditious retreat](../../spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [hideous laughter](../../spell_dir/hideousLaughter#_hideous-laughter)_ (DC 17, _ [identify](../../spell_dir/identify#_identify)_
+1st (7/day)—_ [charm person](../../spell_dir/charmPerson#_charm-person)_ (DC 17), _ [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_, _ [disguise self](../../spell_dir/disguiseSelf#_disguise-self)_, _ [expeditious retreat](../../spell_dir/expeditiousRetreat#_expeditious-retreat)_, _ [hideous laughter](../../spell_dir/hideousLaughter#_hideous-laughter)_ (DC 17), _ [identify](../../spell_dir/identify#_identify)_
 
-0 (at will—_ [dancing lights](../../spell_dir/dancingLights#_dancing-lights_, _ [detect magic](../../spell_dir/detectMagic#_detect-magic_, _ [light](../../spell_dir/light#_light_, _ [mage hand](../../spell_dir/mageHand#_mage-hand_, _ [prestidigitation](../../spell_dir/prestidigitation#_prestidigitation_, _ [read magic](../../spell_dir/readMagic#_read-magic_
+0 (at will)—_ [dancing lights](../../spell_dir/dancingLights#_dancing-lights)_, _ [detect magic](../../spell_dir/detectMagic#_detect-magic)_, _ [light](../../spell_dir/light#_light)_, _ [mage hand](../../spell_dir/mageHand#_mage-hand)_, _ [prestidigitation](../../spell_dir/prestidigitation#_prestidigitation)_, _ [read magic](../../spell_dir/readMagic#_read-magic)_
 
 **Statistics**
 
@@ -169,15 +169,15 @@ N Medium humanoid
 
 **Feats** [Arcane Strike](../../feats#_arcane-strike), [Craft Wondrous Item](../../feats#_craft-wondrous-item), [Greater Spell Penetration](../../feats#_greater-spell-penetration), [Magical Aptitude](../../feats#_magical-aptitude), [Spell Penetration](../../feats#_spell-penetration), [Vital Strike](../../feats#_vital-strike), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Linguistics](../../skill_dir/linguistics#_linguistics +5, [Perception](../../skill_dir/perception#_perception +10, [Perform](../../skill_dir/perform#_perform) (act +20, [Perform](../../skill_dir/perform#_perform) (dance +20, [Perform](../../skill_dir/perform#_perform) (sing +20, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +5, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand +10, [Spellcraft](../../skill_dir/spellcraft#_spellcraft +19, [Stealth](../../skill_dir/stealth#_stealth +15, [Use Magic Device](../../skill_dir/useMagicDevice#_use-magic-device) +24
+**Skills** [Linguistics](../../skill_dir/linguistics#_linguistics) +5, [Perception](../../skill_dir/perception#_perception) +10, [Perform](../../skill_dir/perform#_perform) (act) +20, [Perform](../../skill_dir/perform#_perform) (dance) +20, [Perform](../../skill_dir/perform#_perform) (sing) +20, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +5, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +10, [Spellcraft](../../skill_dir/spellcraft#_spellcraft) +19, [Stealth](../../skill_dir/stealth#_stealth) +15, [Use Magic Device](../../skill_dir/useMagicDevice#_use-magic-device) +24
 
 **Languages** Common, Draconic, Elven
 
-**SQ** bardic knowledge +5, jack-of-all-trades (use any skill, lore master 2/day, versatile performance (act, dance, sing)
+**SQ** bardic knowledge +5, jack-of-all-trades (use any skill), lore master 2/day, versatile performance (act, dance, sing)
 
-**Combat Gear** _scrolls of [align weapon](../../spell_dir/alignWeapon#_align-weapon_, _ [see invisibility](../../spell_dir/seeInvisibility#_see-invisibility_, _ [mount](../../spell_dir/mount#_mount_, _wand of [shocking grasp](../../spell_dir/shockingGrasp#_shocking-grasp)_ (CL 4, 50 charges); **Other Gear** _+1 chain shirt_, _+1 buckler_, masterwork light crossbow with 10 bolts, daggers (2, _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance +1_, _ [headband of alluring charisma](../../magicItem_dir/wondrousItems#_headband-of-alluring-charisma +4, _2,500 gp in jewelry
+**Combat Gear** _scrolls of [align weapon](../../spell_dir/alignWeapon#_align-weapon)_, _ [see invisibility](../../spell_dir/seeInvisibility#_see-invisibility)_, _ [mount](../../spell_dir/mount#_mount)_, _wand of [shocking grasp](../../spell_dir/shockingGrasp#_shocking-grasp)_ (CL 4, 50 charges); **Other Gear** _+1 chain shirt_, _+1 buckler_, masterwork light crossbow with 10 bolts, daggers (2), _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, _ [headband of alluring charisma](../../magicItem_dir/wondrousItems#_headband-of-alluring-charisma) +4, _2,500 gp in jewelry
 
 **Boon** Knowing a celebrity bard can give PCs a +2 circumstance bonus on [Diplomacy](../../skill_dir/diplomacy#_diplomacy) checks in a region for 1 month.
 
-A celebrity bard is a legendary performer, and the wealthy and powerful clamor for her to grace them with a performance. Celebrity bards often entertain at the request of a queen or general (CR 12.
+A celebrity bard is a legendary performer, and the wealthy and powerful clamor for her to grace them with a performance. Celebrity bards often entertain at the request of a queen or general (CR 12).
 

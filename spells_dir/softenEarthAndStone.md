@@ -1,5 +1,5 @@
 ---
-title: spells/softenEarthAndStone
+title: spell_dir/softenEarthAndStone
 ---
  **Soften Earth and Stone**
 
@@ -11,7 +11,7 @@ title: spells/softenEarthAndStone
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Area** 10-ft. square/level; see text
+**Area** 10-ft. squar_dir/level; see text
 
 **Duration** instantaneous
 

@@ -11,7 +11,7 @@ _Thick bony plates armor the domelike back of this quadrupedal dinosaur, its pow
 
 N Huge [animal](creatureTypes#_animal)
 
-**Init** +0; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +14
+**Init** +0; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +14
 
 **Defense**
 
@@ -33,7 +33,7 @@ N Huge [animal](creatureTypes#_animal)
 
 **Str** 27, **Dex** 10, **Con** 17, **Int** 2, **Wis** 13, **Cha** 8
 
-**Base Atk** +7; **CMB** +17; **CMD** 27 (31 vs. trip
+**Base Atk** +7; **CMB** +17; **CMD** 27 (31 vs. trip)
 
 **Feats** [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Overrun](../feats#_improved-overrun), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (tail)
 
@@ -69,7 +69,7 @@ _A long tail counterbalances this reptile's equally long neck, at the end of whi
 
 N Gargantuan [animal](creatureTypes#_animal)
 
-**Init** +0; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +27
+**Init** +0; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +27
 
 **Defense**
 
@@ -93,9 +93,9 @@ N Gargantuan [animal](creatureTypes#_animal)
 
 **Str** 37, **Dex** 10, **Con** 21, **Int** 2, **Wis** 13, **Cha** 10
 
-**Base Atk** +13; **CMB** +30; **CMD** 40 (44 vs. trip
+**Base Atk** +13; **CMB** +30; **CMD** 40 (44 vs. trip)
 
-**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Great Fortitude](../feats#_great-fortitude), [Greater Overrun](../feats#_greater-overrun), [Improved Bull Rush](../feats#_improved-bull-rush), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Weapon Focus](../feats#_weapon-focus) (tail)
+**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Great Fortitude](../feats#_great-fortitude), [Greater Overrun](../feats#_greater-overrun), [Improved Bull Rush](../feats#_improved-bull-rush), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (tail)
 
 **Skills** [Perception](../skill_dir/perception#_perception) +28
 
@@ -125,7 +125,7 @@ _This brightly colored dinosaur exudes a dangerous ferocity. Each foot is armed 
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +6; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +14
+**Init** +6; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +14
 
 **Defense**
 
@@ -141,7 +141,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Melee** 2 talons +5 (1d8+2),bite +5 (1d6+2), foreclaws +0 (1d4+1)
 
-**Special Attacks** [pounce](universalMonsterRules#_pounce
+**Special Attacks** [pounce](universalMonsterRules#_pounce)
 
 **Statistics**
 
@@ -151,7 +151,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +10 (+22 jump, [Perception](../skill_dir/perception#_perception +14, [Stealth](../skill_dir/stealth#_stealth +15; **Racial Modifiers** +8 [Acrobatics](../skill_dir/acrobatics#_acrobatics, +8 [Perception](../skill_dir/perception#_perception, +8 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +10 (+22 jump), [Perception](../skill_dir/perception#_perception) +14, [Stealth](../skill_dir/stealth#_stealth) +15; **Racial Modifiers** +8 [Acrobatics](../skill_dir/acrobatics#_acrobatics), +8 [Perception](../skill_dir/perception#_perception), +8 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -175,7 +175,7 @@ _Long-necked and long-tailed, this large, predatory reptile glides through the w
 
 N Huge [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +14
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +14
 
 **Defense**
 
@@ -197,11 +197,11 @@ N Huge [animal](creatureTypes#_animal)
 
 **Str** 26, **Dex** 15, **Con** 20, **Int** 2, **Wis** 13, **Cha** 9
 
-**Base Atk** +7; **CMB** +17; **CMD** 30 (34 vs. trip
+**Base Atk** +7; **CMB** +17; **CMD** 30 (34 vs. trip)
 
 **Feats** [Dodge](../feats#_dodge), [Great Fortitude](../feats#_great-fortitude), [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Toughness](../feats#_toughness)
 
-**Skills** [Perception](../skill_dir/perception#_perception +14, [Swim](../skill_dir/swim#_swim) +16
+**Skills** [Perception](../skill_dir/perception#_perception) +14, [Swim](../skill_dir/swim#_swim) +16
 
 **Ecology**
 
@@ -229,7 +229,7 @@ _This flying reptile has two huge wings and a distinctive backward-sweeping cres
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +8; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +11
+**Init** +8; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +11
 
 **Defense**
 
@@ -243,7 +243,7 @@ N Large [animal](creatureTypes#_animal)
 
 **Speed** 10 ft., fly 50 ft. (clumsy)
 
-**Melee** bite +5 (2d6+4
+**Melee** bite +5 (2d6+4)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -253,9 +253,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base Atk** +3; **CMB** +7; **CMD** 21
 
-**Feats** [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Dodge](../feats#_dodge), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Fly](../skill_dir/fly#_fly –1, [Perception](../skill_dir/perception#_perception) +11
+**Skills** [Fly](../skill_dir/fly#_fly) –1, [Perception](../skill_dir/perception#_perception) +11
 
 **Ecology**
 
@@ -285,7 +285,7 @@ _This huge dinosaur has a small head, twin rows of sharp dorsal plates, and a mu
 
 N Huge [animal](creatureTypes#_animal)
 
-**Init** +6; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +16
+**Init** +6; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +16
 
 **Defense**
 
@@ -307,7 +307,7 @@ N Huge [animal](creatureTypes#_animal)
 
 **Str** 27, **Dex** 14, **Con** 17, **Int** 2, **Wis** 13, **Cha** 10
 
-**Base Atk** +9; **CMB** +19; **CMD** 31 (35 vs. trip
+**Base Atk** +9; **CMB** +19; **CMD** 31 (35 vs. trip)
 
 **Feats** [Cleave](../feats#_cleave), [Great Fortitude](../feats#_great-fortitude), [Improved Initiative](../feats#_improved-initiative), [Improved Overrun](../feats#_improved-overrun), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (tail)
 
@@ -339,7 +339,7 @@ _This beast's armored head has three sharp horns decorating its face and a large
 
 N Huge [animal](creatureTypes#_animal)
 
-**Init** –1; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +21
+**Init** –1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +21
 
 **Defense**
 
@@ -363,9 +363,9 @@ N Huge [animal](creatureTypes#_animal)
 
 **Str** 26, **Dex** 9, **Con** 19, **Int** 2, **Wis** 12, **Cha** 7
 
-**Base Atk** +10; **CMB** +20; **CMD** 29 (33 vs. trip
+**Base Atk** +10; **CMB** +20; **CMD** 29 (33 vs. trip)
 
-**Feats** [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical), [Power Attack](../feats#_power-attack), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Weapon Focus](../feats#_weapon-focus) (gore)
+**Feats** [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical), [Power Attack](../feats#_power-attack), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (gore)
 
 **Skills** [Perception](../skill_dir/perception#_perception) +24
 
@@ -397,13 +397,13 @@ _This bipedal dinosaur's front arms seem small compared to the rest of its bulk,
 
 N Gargantuan [animal](creatureTypes#_animal)
 
-**Init** +5; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +37
+**Init** +5; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +37
 
 **Defense**
 
 **AC** 21, touch 7, flat-footed 20 (+1 Dex, +14 natural, –4 size)
 
-**hp** 153 (18d8+72
+**hp** 153 (18d8+72)
 
 **Fort** +15, **Ref** +12, **Will** +10
 
@@ -423,9 +423,9 @@ N Gargantuan [animal](creatureTypes#_animal)
 
 **Base Atk** +13; **CMB** +28 (+32 grapple); **CMD** 39
 
-**Feats** [Bleeding Critical](../feats#_bleeding-critical), [Critical Focus](../feats#_critical-focus), [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Bleeding Critical](../feats#_bleeding-critical), [Critical Focus](../feats#_critical-focus), [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception +37; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
+**Skills** [Perception](../skill_dir/perception#_perception) +37; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
 
 **SQ** powerful bite
 
@@ -447,5 +447,5 @@ The tyrannosaurus is an apex predator that measures 40 feet long and weighs 14,0
 
 **Starting Statistics** : **Size** Medium, **Speed** 30 ft.; **AC** +4 natural armor; **Attack** bite (1d8); **Ability Scores** Str 14, Dex 16, Con 10, Int 2, Wis 15, Cha 10; **Special Qualities** low-light vision, scent.
 
-**7th-Level Adv.** : **Size** Large; **AC** +3 natural armor; **Attack** bite (2d6; **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** grab, powerful bite.
+**7th-Level Adv.** : **Size** Large; **AC** +3 natural armor; **Attack** bite (2d6); **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** grab, powerful bite.
 

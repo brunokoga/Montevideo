@@ -1,5 +1,5 @@
 ---
-title: spells/endureElements
+title: spell_dir/endureElements
 ---
  **Endure Elements**
 

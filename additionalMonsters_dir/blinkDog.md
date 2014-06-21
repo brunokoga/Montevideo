@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/blinkDog
+title: additionalMonster_dir/blinkDog
 ---
 # Blink Dog
 
@@ -9,9 +9,9 @@ Blink DogCR 2
 
 **XP 600**
 
-LG Medium [magical beast](monster_dir/creatureTypes#_magical-beast
+LG Medium [magical beast](monsters/creatureTypes#_magical-beast)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
 
 Defense
 
@@ -27,9 +27,9 @@ Offense
 
 **Melee** bite +4 (1d6+1)
 
-**Spell-Like Abilities** (CL 7th; concentration +7
+**Spell-Like Abilities** (CL 7th; concentration +7)
 
-Constant—_ [blink](additionalMonsters/../spell_dir/blink#_blink_
+Constant—_ [blink](additionalMonsters/../spell_dir/blink#_blink)_
 
 At will—quickened _ [dimension door](additionalMonsters/../spell_dir/dimensionDoor#_dimension-door)_ (self only)
 
@@ -37,11 +37,11 @@ Statistics
 
 **Str** 12, **Dex** 15, **Con** 14, **Int** 10, **Wis** 13, **Cha** 11
 
-**Base Atk** +3; **CMB** +4; **CMD** 16 (20 vs. trip
+**Base Atk** +3; **CMB** +4; **CMD** 16 (20 vs. trip)
 
-**Feats** [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Iron Will](additionalMonsters/../feats#_iron-will)
+**Feats** [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Iron Will](additionalMonster_dir/../feats#_iron-will)
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +7, [Survival](additionalMonsters/../skill_dir/survival#_survival +2 (+6 [scent](monster_dir/universalMonsterRules#_scent) tracking)
+**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +7, [Survival](additionalMonsters/../skill_dir/survival#_survival) +2 (+6 [scent](monsters/universalMonsterRules#_scent) tracking)
 
 **Languages** Sylvan
 
@@ -61,5 +61,5 @@ Blink dogs stand nearly 3 feet at the shoulder and weigh upward of 180 pounds. T
 
 ## Blink Dog Sages
 
-A pack's alpha selects the wisest and most intelligent member of the pack to serve as its sage. This blink dog often has sorcerer levels (typically with the celestial or destined bloodline and is charged with maintaining the long-running oral histories of the pack, which extend back for centuries and link the packs together. A blink dog sage also decides when a pup is old enough to join his first hunt, performs birth and burial rites, and counsels the alpha on the meaning of omens or upon tactical matters involving interactions with neighboring races and creatures. In some packs, the sage is the alpha's mate, while in others the sage is always a gray-muzzled elder hound beyond breeding age.
+A pack's alpha selects the wisest and most intelligent member of the pack to serve as its sage. This blink dog often has sorcerer levels (typically with the celestial or destined bloodline) and is charged with maintaining the long-running oral histories of the pack, which extend back for centuries and link the packs together. A blink dog sage also decides when a pup is old enough to join his first hunt, performs birth and burial rites, and counsels the alpha on the meaning of omens or upon tactical matters involving interactions with neighboring races and creatures. In some packs, the sage is the alpha's mate, while in others the sage is always a gray-muzzled elder hound beyond breeding age.
 

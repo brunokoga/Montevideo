@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/spearOfPurity
+title: ultimateMagi_dir/spells/spearOfPurity
 ---
 Spear of Purity
 

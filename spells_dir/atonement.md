@@ -7,7 +7,7 @@ title: spell_dir/atonement
 
 **Casting Time** 1 hour
 
-**Components** V, S, M (burning incense), F (a set of prayer beads or other prayer device worth at least 500 gp, DF
+**Components** V, S, M (burning incense), F (a set of prayer beads or other prayer device worth at least 500 gp), DF
 
 **Range** touch
 

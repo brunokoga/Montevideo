@@ -1,5 +1,5 @@
 ---
-title: spells/transmuteMetalToWood
+title: spell_dir/transmuteMetalToWood
 ---
  **Transmute Metal to Wood**
 

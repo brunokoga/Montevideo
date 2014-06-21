@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/grippli
+title: additionalMonster_dir/grippli
 ---
 # Grippli
 
@@ -11,7 +11,7 @@ GrippliCR 1/2
 
 Grippli ranger 1
 
-N Small [humanoid](monster_dir/creatureTypes#_humanoid) (grippli
+N Small [humanoid](monster_dir/creatureTypes#_humanoid) (grippli)
 
 **Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
 
@@ -19,7 +19,7 @@ Defense
 
 **AC** 16, touch 14, flat-footed 13 (+2 armor, +3 Dex, +1 size)
 
-**hp** 12 (1d10+2
+**hp** 12 (1d10+2)
 
 **Fort** +3, **Ref** +5, **Will** +1
 
@@ -33,7 +33,7 @@ Offense
 
 net +5 (special)
 
-**Special Attacks** favored enemy ( [vermin](monster_dir/creatureTypes#_vermin) +2
+**Special Attacks** favored enemy ( [vermin](monster_dir/creatureTypes#_vermin) +2)
 
 Statistics
 
@@ -43,7 +43,7 @@ Statistics
 
 **Feats** [Self-Sufficient](additionalMonsters/../feats#_self-sufficient)
 
-**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics +4, [Climb](additionalMonsters/../skill_dir/climb#_climb +13, [Handle Animal](additionalMonsters/../skill_dir/handleAnimal#_handle-animal +3, [Heal](additionalMonsters/../skill_dir/heal#_heal +7, [Perception](additionalMonsters/../skill_dir/perception#_perception +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +11, (+15 in forests or marshes [Survival](additionalMonsters/../skill_dir/survival#_survival +7; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in forests or marshes
+**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +4, [Climb](additionalMonsters/../skill_dir/climb#_climb) +13, [Handle Animal](additionalMonsters/../skill_dir/handleAnimal#_handle-animal) +3, [Heal](additionalMonsters/../skill_dir/heal#_heal) +7, [Perception](additionalMonsters/../skill_dir/perception#_perception) +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +11, (+15 in forests or marshes) [Survival](additionalMonsters/../skill_dir/survival#_survival) +7; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in forests or marshes
 
 **Languages** Common, Grippli
 
@@ -59,7 +59,7 @@ Ecology
 
 Special Abilities
 
-**Swamp Stride (Ex** A grippli can move through difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a grippli normally.
+**Swamp Stride (Ex)** A grippli can move through difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a grippli normally.
 
 These small, intelligent, humanoid tree frogs live in primitive societies deep in the forests and marshes of the world. They hunt giant insects and eat fruits and flowers from their tree homes. They often barter with more advanced creatures for metal and gemstone ornaments.
 
@@ -77,7 +77,7 @@ Gripplis are defined by their class levels—they do not possess racial Hit Dice
 
 **Darkvision** : Gripplis can see in the dark up to 60 feet.
 
-**Camouflage** : +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth in marshes or forested areas.
+**Camouflage** : +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in marshes or forested areas.
 
 **Swamp Stride** : See above.
 

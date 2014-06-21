@@ -3,7 +3,7 @@ title: spell_dir/insectPlague
 ---
  **Insect Plague**
 
-**School** conjuration (summoning; **Level** cleric 5, druid 5
+**School** conjuration (summoning); **Level** cleric 5, druid 5
 
 **Casting Time** 1 round
 

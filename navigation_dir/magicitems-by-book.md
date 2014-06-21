@@ -1,7 +1,7 @@
 ---
-title: navigation/magicitems-by-book
+title: navigatio_dir/magicitems-by-book
 ---
-- [Browse](advance_dir/advancedMagicItems
+- [Browse](advanced/advancedMagicItems)
 - Armor
 - Rings
 - Rods
@@ -9,300 +9,300 @@ title: navigation/magicitems-by-book
 - Weapons
 - [Wondrous Items](navigatio_dir/magicitems-wondrous-by-book#_magicitems-wondrous-apg)
 
-- [Browse](magicItems
+- [Browse](magicItems)
 - Armor
 - Rings
 - Rods
 - Staves
 - Weapons
-- [Wondrous Items](navigatio_dir/magicitems-wondrous-by-book#_magicitems-wondrous-core)
+- [Wondrous Items](navigation/magicitems-wondrous-by-book#_magicitems-wondrous-core)
 
-- [Arcane Signets (Ring](advanced/magicItem_dir/rings#_ring-of-arcane-signets-)
-- [Delayed Doom (Ring](advanced/magicItem_dir/rings#_ring-of-delayed-doom)
-- [Dungeon (Ring](advanced/magicItem_dir/rings#_dungeon-ring)
-- [Forcefangs (Ring](advanced/magicItem_dir/rings#_ring-of-forcefangs-)
-- [Retribution (Ring](advanced/magicItem_dir/rings#_ring-of-retribution-)
-- [Revelation (Ring](advanced/magicItem_dir/rings#_ring-of-revelation)
+- [Arcane Signets (Ring)](advance_dir/magicItems/rings#_ring-of-arcane-signets-)
+- [Delayed Doom (Ring)](advance_dir/magicItems/rings#_ring-of-delayed-doom)
+- [Dungeon (Ring)](advance_dir/magicItems/rings#_dungeon-ring)
+- [Forcefangs (Ring)](advance_dir/magicItems/rings#_ring-of-forcefangs-)
+- [Retribution (Ring)](advance_dir/magicItems/rings#_ring-of-retribution-)
+- [Revelation (Ring)](advance_dir/magicItems/rings#_ring-of-revelation)
 
-- [Animal Friendship (Ring](magicItem_dir/rings#_ring-of-animal-friendship)
-- [Blinking (Ring](magicItem_dir/rings#_ring-of-blinking)
-- [Chameleon Power (Ring](magicItem_dir/rings#_ring-of-chameleon-power)
-- [Climbing, Improved (Ring](magicItem_dir/rings#_ring-of-climbing-improved)
-- [Climbing (Ring](magicItem_dir/rings#_ring-of-climbing)
-- [Counterspells (Ring](magicItem_dir/rings#_ring-of-counterspells)
-- [Djinni Calling (Ring](magicItem_dir/rings#_ring-of-djinni-calling)
-- [Elemental Command (Ring](magicItem_dir/rings#_ring-of-elemental-command)
-- [Energy Resistance (Ring](magicItem_dir/rings#_ring-of-energy-resistance)
-- [Evasion (Ring](magicItem_dir/rings#_ring-of-evasion)
-- [Feather Falling (Ring](magicItem_dir/rings#_ring-of-feather-falling)
-- [Force Shield (Ring](magicItem_dir/rings#_ring-of-force-shield)
-- [Freedom of Movement (Ring](magicItem_dir/rings#_ring-of-freedom-of-movement)
-- [Friend Shield (Ring](magicItem_dir/rings#_ring-of-friend-shield)
-- [Invisibility (Ring](magicItem_dir/rings#_ring-of-invisibility)
-- [Jumping, Improved (Ring](magicItem_dir/rings#_ring-of-jumping-improved)
-- [Jumping (Ring](magicItem_dir/rings#_ring-of-jumping)
-- [Mind Shielding (Ring](magicItem_dir/rings#_ring-of-mind-shielding)
-- [Protection (Ring](magicItem_dir/rings#_ring-of-protection)
-- [Ram (Ring](magicItem_dir/rings#_ring-of-the-ram)
-- [Regeneration (Ring](magicItem_dir/rings#_ring-of-regeneration)
-- [Shooting Stars (Ring](magicItem_dir/rings#_ring-of-shooting-stars)
-- [Spell Storing, Major (Ring](magicItem_dir/rings#_ring-of-spell-storing-major)
-- [Spell Storing, Minor (Ring](magicItem_dir/rings#_ring-of-spell-storing-minor)
-- [Spell Storing (Ring](magicItem_dir/rings#_ring-of-spell-storing-minor)
-- [Spell Turning (Ring](magicItem_dir/rings#_ring-of-spell-storing)
-- [Sustenance (Ring](magicItem_dir/rings#_ring-of-sustenance)
-- [Swimming, Improved (Ring](magicItem_dir/rings#_ring-of-swimming-improved)
-- [Swimming (Ring](magicItem_dir/rings#_ring-of-swimming)
-- [Telekinesis (Ring](magicItem_dir/rings#_ring-of-telekinesis)
-- [Three Wishes (Ring](magicItem_dir/rings#_ring-of-three-wishes)
-- [Water Walking (Ring](magicItem_dir/rings#_ring-of-water-walking)
-- [Wizardry (Ring](magicItem_dir/rings#_ring-of-wizardry)
-- [X-ray Vision (Ring](magicItem_dir/rings#_ring-of-x-ray-vision
+- [Animal Friendship (Ring)](magicItem_dir/rings#_ring-of-animal-friendship)
+- [Blinking (Ring)](magicItems/rings#_ring-of-blinking)
+- [Chameleon Power (Ring)](magicItem_dir/rings#_ring-of-chameleon-power)
+- [Climbing, Improved (Ring)](magicItems/rings#_ring-of-climbing-improved)
+- [Climbing (Ring)](magicItem_dir/rings#_ring-of-climbing)
+- [Counterspells (Ring)](magicItems/rings#_ring-of-counterspells)
+- [Djinni Calling (Ring)](magicItem_dir/rings#_ring-of-djinni-calling)
+- [Elemental Command (Ring)](magicItems/rings#_ring-of-elemental-command)
+- [Energy Resistance (Ring)](magicItem_dir/rings#_ring-of-energy-resistance)
+- [Evasion (Ring)](magicItems/rings#_ring-of-evasion)
+- [Feather Falling (Ring)](magicItem_dir/rings#_ring-of-feather-falling)
+- [Force Shield (Ring)](magicItems/rings#_ring-of-force-shield)
+- [Freedom of Movement (Ring)](magicItem_dir/rings#_ring-of-freedom-of-movement)
+- [Friend Shield (Ring)](magicItems/rings#_ring-of-friend-shield)
+- [Invisibility (Ring)](magicItem_dir/rings#_ring-of-invisibility)
+- [Jumping, Improved (Ring)](magicItems/rings#_ring-of-jumping-improved)
+- [Jumping (Ring)](magicItem_dir/rings#_ring-of-jumping)
+- [Mind Shielding (Ring)](magicItems/rings#_ring-of-mind-shielding)
+- [Protection (Ring)](magicItem_dir/rings#_ring-of-protection)
+- [Ram (Ring)](magicItems/rings#_ring-of-the-ram)
+- [Regeneration (Ring)](magicItem_dir/rings#_ring-of-regeneration)
+- [Shooting Stars (Ring)](magicItems/rings#_ring-of-shooting-stars)
+- [Spell Storing, Major (Ring)](magicItem_dir/rings#_ring-of-spell-storing-major)
+- [Spell Storing, Minor (Ring)](magicItems/rings#_ring-of-spell-storing-minor)
+- [Spell Storing (Ring)](magicItem_dir/rings#_ring-of-spell-storing-minor)
+- [Spell Turning (Ring)](magicItems/rings#_ring-of-spell-storing)
+- [Sustenance (Ring)](magicItem_dir/rings#_ring-of-sustenance)
+- [Swimming, Improved (Ring)](magicItems/rings#_ring-of-swimming-improved)
+- [Swimming (Ring)](magicItem_dir/rings#_ring-of-swimming)
+- [Telekinesis (Ring)](magicItems/rings#_ring-of-telekinesis)
+- [Three Wishes (Ring)](magicItem_dir/rings#_ring-of-three-wishes)
+- [Water Walking (Ring)](magicItems/rings#_ring-of-water-walking)
+- [Wizardry (Ring)](magicItem_dir/rings#_ring-of-wizardry)
+- [X-ray Vision (Ring)](magicItems/rings#_ring-of-x-ray-vision)
 
 - [Absorbing Shield](magicItem_dir/armor#_absorbing-shield)
-- [Animated (Armor property](magicItem_dir/armor#_armor-animated)
-- [Arrow Catching (Armor property](magicItem_dir/armor#_armor-arrow-catching)
-- [Arrow Deflection (Armor property](magicItem_dir/armor#_armor-arrow-deflection)
-- [Bashing (Armor property](magicItem_dir/armor#_armor-bashing)
-- [Blinding (Armor property](magicItem_dir/armor#_armor-blinding
-- [Caster's Shield](magicItem_dir/armor#_caster-s-shield
-- [Darkwood Buckler](magicItem_dir/armor#_darkwood-buckler
+- [Animated (Armor property)](magicItems/armor#_armor-animated)
+- [Arrow Catching (Armor property)](magicItem_dir/armor#_armor-arrow-catching)
+- [Arrow Deflection (Armor property)](magicItems/armor#_armor-arrow-deflection)
+- [Bashing (Armor property)](magicItem_dir/armor#_armor-bashing)
+- [Blinding (Armor property)](magicItems/armor#_armor-blinding)
+- [Caster's Shield](magicItem_dir/armor#_caster-s-shield)
+- [Darkwood Buckler](magicItems/armor#_darkwood-buckler)
 - [Darkwood Shield](magicItem_dir/armor#_darkwood-shield)
-- [Energy Resistance, Greater (Armor property](magicItem_dir/armor#_armor-energy-resistance-greater)
-- [Energy Resistance, Improved (Armor property](magicItem_dir/armor#_armor-energy-resistance-improved)
-- [Energy Resistance (Armor property](magicItem_dir/armor#_armor-energy-resistance)
-- [Etherealness (Armor property](magicItem_dir/armor#_armor-etherealness)
-- [Fortification (Armor property](magicItem_dir/armor#_armor-fortification)
-- [Ghost Touch (Armor property](magicItem_dir/armor#_armor-ghost-touch)
-- [Glamered (Armor property](magicItem_dir/armor#_armor-glamered)
-- [Invulnerability (Armor property](magicItem_dir/armor#_armor-invulnerability
-- [Lion's Shield](magicItem_dir/armor#_lion-s-shield
+- [Energy Resistance, Greater (Armor property)](magicItems/armor#_armor-energy-resistance-greater)
+- [Energy Resistance, Improved (Armor property)](magicItem_dir/armor#_armor-energy-resistance-improved)
+- [Energy Resistance (Armor property)](magicItems/armor#_armor-energy-resistance)
+- [Etherealness (Armor property)](magicItem_dir/armor#_armor-etherealness)
+- [Fortification (Armor property)](magicItems/armor#_armor-fortification)
+- [Ghost Touch (Armor property)](magicItem_dir/armor#_armor-ghost-touch)
+- [Glamered (Armor property)](magicItems/armor#_armor-glamered)
+- [Invulnerability (Armor property)](magicItem_dir/armor#_armor-invulnerability)
+- [Lion's Shield](magicItems/armor#_lion-s-shield)
 - [Mithral Heavy Shield](magicItem_dir/armor#_mithral-heavy-shield)
-- [Reflecting (Armor property](magicItem_dir/armor#_armor-reflecting)
-- [Shadow, Greater (Armor property](magicItem_dir/armor#_armor-shadow-greater)
-- [Shadow, Improved (Armor property](magicItem_dir/armor#_armor-shadow-improved)
-- [Shadow (Armor property](magicItem_dir/armor#_armor-shadow)
-- [Slick, Greater (Armor property](magicItem_dir/armor#_armor-slick-greater)
-- [Slick, Improved (Armor property](magicItem_dir/armor#_armor-slick-improved)
-- [Slick (Armor property](magicItem_dir/armor#_armor-slick)
-- [Spell Resistance (Armor property](magicItem_dir/armor#_armor-spell-resistance
-- [Spined Shield](magicItem_dir/armor#_spined-shield)
-- [Undead Controlling (Armor property](magicItem_dir/armor#_armor-undead-controlling)
-- [Wild (Armor property](magicItem_dir/armor#_armor-wild
-- [Winged Shield](magicItem_dir/armor#_winged-shield
+- [Reflecting (Armor property)](magicItems/armor#_armor-reflecting)
+- [Shadow, Greater (Armor property)](magicItem_dir/armor#_armor-shadow-greater)
+- [Shadow, Improved (Armor property)](magicItems/armor#_armor-shadow-improved)
+- [Shadow (Armor property)](magicItem_dir/armor#_armor-shadow)
+- [Slick, Greater (Armor property)](magicItems/armor#_armor-slick-greater)
+- [Slick, Improved (Armor property)](magicItem_dir/armor#_armor-slick-improved)
+- [Slick (Armor property)](magicItems/armor#_armor-slick)
+- [Spell Resistance (Armor property)](magicItem_dir/armor#_armor-spell-resistance)
+- [Spined Shield](magicItems/armor#_spined-shield)
+- [Undead Controlling (Armor property)](magicItem_dir/armor#_armor-undead-controlling)
+- [Wild (Armor property)](magicItems/armor#_armor-wild)
+- [Winged Shield](magicItem_dir/armor#_winged-shield)
 
-- [Armor of Insults](advanced/magicItem_dir/armor#_armor-of-insults-
-- [Boneless Leather](advanced/magicItem_dir/armor#_boneless-leather-
+- [Armor of Insults](advanced/magicItem_dir/armor#_armor-of-insults-)
+- [Boneless Leather](advanced/magicItem_dir/armor#_boneless-leather-)
 - [Buccaneer's Breastplate](advanced/magicItem_dir/armor#_buccaneer's-breastplate-)
-- [Champion (Armor property](advanced/magicItem_dir/armor#_champion)
-- [Dastard (Armor property](advanced/magicItem_dir/armor#_dastard
+- [Champion (Armor property)](advanced/magicItem_dir/armor#_champion)
+- [Dastard (Armor property)](advanced/magicItem_dir/armor#_dastard)
 - [Daystar Half-plate](advanced/magicItem_dir/armor#_daystar-half-plate-)
-- [Determination (Armor property](advanced/magicItem_dir/armor#_determination
-- [Folding Plate](advanced/magicItem_dir/armor#_folding-plate
-- [Forsaken Banded Mail](advanced/magicItem_dir/armor#_forsaken-banded-mail-
+- [Determination (Armor property)](advanced/magicItem_dir/armor#_determination)
+- [Folding Plate](advanced/magicItem_dir/armor#_folding-plate)
+- [Forsaken Banded Mail](advanced/magicItem_dir/armor#_forsaken-banded-mail-)
 - [Giant-hide Armor](advanced/magicItem_dir/armor#_giant-hide-armor-)
-- [Jousting (Armor property](advanced/magicItem_dir/armor#_jousting
-- [Mistmail](advanced/magicItem_dir/armor#_mistmail-
+- [Jousting (Armor property)](advanced/magicItem_dir/armor#_jousting)
+- [Mistmail](advanced/magicItem_dir/armor#_mistmail-)
 - [Murderer's Blackcloth](advanced/magicItem_dir/armor#_murderer's-blackcloth-)
-- [Righteous (Armor property](advanced/magicItem_dir/armor#_righteous
+- [Righteous (Armor property)](advanced/magicItem_dir/armor#_righteous)
 - [Soothsayer's Raiment](advanced/magicItem_dir/armor#_soothsayer's-raiment)
-- [Unrighteous (Armor property](advanced/magicItem_dir/armor#_unrighteous
+- [Unrighteous (Armor property)](advanced/magicItem_dir/armor#_unrighteous)
 
-- [Amulet of Inescapable Location](magicItem_dir/specificCursedItems#_amulet-of-inescapable-location
-- [Armor of Arrow Attraction](magicItem_dir/specificCursedItems#_armor-of-arrow-attraction
-- [Armor of Rage](magicItem_dir/specificCursedItems#_armor-of-rage
-- [Bag of Devouring](magicItem_dir/specificCursedItems#_bag-of-devouring
-- [Boots of Dancing](magicItem_dir/specificCursedItems#_boots-of-dancing
-- [Bracers of Defenselessness](magicItem_dir/specificCursedItems#_bracers-of-defenselessness
-- [Broom of Animated Attack](magicItem_dir/specificCursedItems#_broom-of-animated-attack
-- [Crystal Hypnosis Ball](magicItem_dir/specificCursedItems#_crystal-hypnosis-ball
-- [Cursed –2 Sword](magicItem_dir/specificCursedItems#_sword-2-cursed
-- [Dust of Sneezing And Choking](magicItem_dir/specificCursedItems#_dust-of-sneezing-and-choking
-- [Flask of Curses](magicItem_dir/specificCursedItems#_flask-of-curses
-- [Gauntlets of Fumbling](magicItem_dir/specificCursedItems#_gauntlets-of-fumbling
-- [Helm of Opposite Alignment](magicItem_dir/specificCursedItems#_helm-of-opposite-alignment
-- [Incense of Obsession](magicItem_dir/specificCursedItems#_incense-of-obsession
-- [Mace of Blood](magicItem_dir/specificCursedItems#_mace-of-blood
-- [Medallion of Thought Projection](magicItem_dir/specificCursedItems#_medallion-of-thought-projection
-- [Necklace of Strangulation](magicItem_dir/specificCursedItems#_necklace-of-strangulation
-- [Net of Snaring](magicItem_dir/specificCursedItems#_net-of-snaring
-- [Periapt of Foul Rotting](magicItem_dir/specificCursedItems#_periapt-of-foul-rotting
-- [Poisonous Cloak](magicItem_dir/specificCursedItems#_poisonous-cloak
-- [Potion of Poison](magicItem_dir/specificCursedItems#_potion-of-poison
-- [Ring of Clumsiness](magicItem_dir/specificCursedItems#_ring-of-clumsiness
-- [Robe of Powerlessness](magicItem_dir/specificCursedItems#_robe-of-powerlessness
-- [Robe of Vermin](magicItem_dir/specificCursedItems#_robe-of-vermin
-- [Scarab of Death](magicItem_dir/specificCursedItems#_scarab-of-death
-- [Spear, Cursed Backbiter](magicItem_dir/specificCursedItems#_spear-cursed-backbiter
-- [Stone of Weight](magicItem_dir/specificCursedItems#_stone-of-weight
-- [Sword, Berserking](magicItem_dir/specificCursedItems#_sword-berserking
-- [Vacuous Grimoire](magicItem_dir/specificCursedItems#_vacuous-grimoire)
+- [Amulet of Inescapable Location](magicItems/specificCursedItems#_amulet-of-inescapable-location)
+- [Armor of Arrow Attraction](magicItem_dir/specificCursedItems#_armor-of-arrow-attraction)
+- [Armor of Rage](magicItems/specificCursedItems#_armor-of-rage)
+- [Bag of Devouring](magicItem_dir/specificCursedItems#_bag-of-devouring)
+- [Boots of Dancing](magicItems/specificCursedItems#_boots-of-dancing)
+- [Bracers of Defenselessness](magicItem_dir/specificCursedItems#_bracers-of-defenselessness)
+- [Broom of Animated Attack](magicItems/specificCursedItems#_broom-of-animated-attack)
+- [Crystal Hypnosis Ball](magicItem_dir/specificCursedItems#_crystal-hypnosis-ball)
+- [Cursed –2 Sword](magicItems/specificCursedItems#_sword-2-cursed)
+- [Dust of Sneezing And Choking](magicItem_dir/specificCursedItems#_dust-of-sneezing-and-choking)
+- [Flask of Curses](magicItems/specificCursedItems#_flask-of-curses)
+- [Gauntlets of Fumbling](magicItem_dir/specificCursedItems#_gauntlets-of-fumbling)
+- [Helm of Opposite Alignment](magicItems/specificCursedItems#_helm-of-opposite-alignment)
+- [Incense of Obsession](magicItem_dir/specificCursedItems#_incense-of-obsession)
+- [Mace of Blood](magicItems/specificCursedItems#_mace-of-blood)
+- [Medallion of Thought Projection](magicItem_dir/specificCursedItems#_medallion-of-thought-projection)
+- [Necklace of Strangulation](magicItems/specificCursedItems#_necklace-of-strangulation)
+- [Net of Snaring](magicItem_dir/specificCursedItems#_net-of-snaring)
+- [Periapt of Foul Rotting](magicItems/specificCursedItems#_periapt-of-foul-rotting)
+- [Poisonous Cloak](magicItem_dir/specificCursedItems#_poisonous-cloak)
+- [Potion of Poison](magicItems/specificCursedItems#_potion-of-poison)
+- [Ring of Clumsiness](magicItem_dir/specificCursedItems#_ring-of-clumsiness)
+- [Robe of Powerlessness](magicItems/specificCursedItems#_robe-of-powerlessness)
+- [Robe of Vermin](magicItem_dir/specificCursedItems#_robe-of-vermin)
+- [Scarab of Death](magicItems/specificCursedItems#_scarab-of-death)
+- [Spear, Cursed Backbiter](magicItem_dir/specificCursedItems#_spear-cursed-backbiter)
+- [Stone of Weight](magicItems/specificCursedItems#_stone-of-weight)
+- [Sword, Berserking](magicItem_dir/specificCursedItems#_sword-berserking)
+- [Vacuous Grimoire](magicItems/specificCursedItems#_vacuous-grimoire)
 
-- [Bouncing (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-bouncing)
-- [Dazing (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-dazing)
-- [Disruptive (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-disruptive)
-- [Ectoplasmic (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-ectoplasmic)
-- [Elemental (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-elemental)
-- [Focused (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-focused)
-- [Intensified (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-intensified)
-- [Lingering (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-lingering)
-- [Merciful (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-merciful)
-- [Persistent (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-persistent)
-- [Reach (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-reach)
-- [Selective (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-selective)
-- [Sickening (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-sickening)
-- [Thundering (Rod, Metamagic](advanced/magicItem_dir/rods#_metamagic,-thundering)
+- [Bouncing (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-bouncing)
+- [Dazing (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-dazing)
+- [Disruptive (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-disruptive)
+- [Ectoplasmic (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-ectoplasmic)
+- [Elemental (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-elemental)
+- [Focused (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-focused)
+- [Intensified (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-intensified)
+- [Lingering (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-lingering)
+- [Merciful (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-merciful)
+- [Persistent (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-persistent)
+- [Reach (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-reach)
+- [Selective (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-selective)
+- [Sickening (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-sickening)
+- [Thundering (Rod, Metamagic)](advance_dir/magicItems/rods#_metamagic,-thundering)
 
-- [Absorption (Rod](magicItem_dir/rods#_rod-of-absorption)
-- [Alertness (Rod](magicItem_dir/rods#_rod-of-alertness)
-- [Cancellation (Rod](magicItem_dir/rods#_rod-of-cancellation)
-- [Empower (Rod, Metamagic](magicItem_dir/rods#_metamagic-empower)
-- [Enemy Detection (Rod](magicItem_dir/rods#_rod-of-enemy-detection)
-- [Enlarge (Rod, Metamagic](magicItem_dir/rods#_metamagic-enlarge)
-- [Extend (Rod, Metamagic](magicItem_dir/rods#_metamagic-extend)
-- [Flailing (Rod](magicItem_dir/rods#_rod-of-flailing)
-- [Flame Extinguishing (Rod](magicItem_dir/rods#_rod-of-flame-extinguishing)
-- [Immovable (Rod](magicItem_dir/rods#_immovable-rod)
-- [Lordly Might (Rod](magicItem_dir/rods#_rod-of-lordly-might)
-- [Maximize (Rod, Metamagic](magicItem_dir/rods#_metamagic-maximize)
-- [Metal And Mineral Detection (Rod](magicItem_dir/rods#_rod-of-metal-and-mineral-detection)
-- [Negation (Rod](magicItem_dir/rods#_rod-of-negation)
-- [Python (Rod](magicItem_dir/rods#_rod-of-the-python)
-- [Quicken (Rod, Metamagic](magicItem_dir/rods#_metamagic-quicken)
-- [Rulership (Rod](magicItem_dir/rods#_rod-of-rulership)
-- [Security (Rod](magicItem_dir/rods#_rod-of-security)
-- [Silent (Rod, Metamagic](magicItem_dir/rods#_metamagic-silent)
-- [Splendor (Rod](magicItem_dir/rods#_rod-of-splendor)
-- [Thunder And Lightning (Rod](magicItem_dir/rods#_rod-of-thunder-and-lightning)
-- [Viper (Rod](magicItem_dir/rods#_rod-of-the-viper)
-- [Withering (Rod](magicItem_dir/rods#_rod-of-withering)
-- [Wonder (Rod](magicItem_dir/rods#_rod-of-wonder)
+- [Absorption (Rod)](magicItem_dir/rods#_rod-of-absorption)
+- [Alertness (Rod)](magicItems/rods#_rod-of-alertness)
+- [Cancellation (Rod)](magicItem_dir/rods#_rod-of-cancellation)
+- [Empower (Rod, Metamagic)](magicItems/rods#_metamagic-empower)
+- [Enemy Detection (Rod)](magicItem_dir/rods#_rod-of-enemy-detection)
+- [Enlarge (Rod, Metamagic)](magicItems/rods#_metamagic-enlarge)
+- [Extend (Rod, Metamagic)](magicItem_dir/rods#_metamagic-extend)
+- [Flailing (Rod)](magicItems/rods#_rod-of-flailing)
+- [Flame Extinguishing (Rod)](magicItem_dir/rods#_rod-of-flame-extinguishing)
+- [Immovable (Rod)](magicItems/rods#_immovable-rod)
+- [Lordly Might (Rod)](magicItem_dir/rods#_rod-of-lordly-might)
+- [Maximize (Rod, Metamagic)](magicItems/rods#_metamagic-maximize)
+- [Metal And Mineral Detection (Rod)](magicItem_dir/rods#_rod-of-metal-and-mineral-detection)
+- [Negation (Rod)](magicItems/rods#_rod-of-negation)
+- [Python (Rod)](magicItem_dir/rods#_rod-of-the-python)
+- [Quicken (Rod, Metamagic)](magicItems/rods#_metamagic-quicken)
+- [Rulership (Rod)](magicItem_dir/rods#_rod-of-rulership)
+- [Security (Rod)](magicItems/rods#_rod-of-security)
+- [Silent (Rod, Metamagic)](magicItem_dir/rods#_metamagic-silent)
+- [Splendor (Rod)](magicItems/rods#_rod-of-splendor)
+- [Thunder And Lightning (Rod)](magicItem_dir/rods#_rod-of-thunder-and-lightning)
+- [Viper (Rod)](magicItems/rods#_rod-of-the-viper)
+- [Withering (Rod)](magicItem_dir/rods#_rod-of-withering)
+- [Wonder (Rod)](magicItems/rods#_rod-of-wonder)
 
-- [Abjuration (Staff](magicItem_dir/staves#_staff-of-abjuration)
-- [Charming (Staff](magicItem_dir/staves#_staff-of-charming)
-- [Conjuration (Staff](magicItem_dir/staves#_staff-of-conjuration)
-- [Defense (Staff](magicItem_dir/staves#_staff-of-defense)
-- [Divination (Staff](magicItem_dir/staves#_staff-of-divination)
-- [Earth And Stone (Staff](magicItem_dir/staves#_staff-of-earth-and-stone)
-- [Enchantment (Staff](magicItem_dir/staves#_staff-of-enchantment)
-- [Evocation (Staff](magicItem_dir/staves#_staff-of-evocation)
-- [Fire (Staff](magicItem_dir/staves#_staff-of-fire)
-- [Frost (Staff](magicItem_dir/staves#_staff-of-frost)
-- [Healing (Staff](magicItem_dir/staves#_staff-of-healing)
-- [Illumination (Staff](magicItem_dir/staves#_staff-of-illumination)
-- [Illusion (Staff](magicItem_dir/staves#_staff-of-illusion)
-- [Life (Staff](magicItem_dir/staves#_staff-of-life)
-- [Necromancy (Staff](magicItem_dir/staves#_staff-of-necromancy)
-- [Passage (Staff](magicItem_dir/staves#_staff-of-passage)
-- [Power (Staff](magicItem_dir/staves#_staff-of-power)
-- [Size Alteration (Staff](magicItem_dir/staves#_staff-of-size-alteration)
-- [Swarming Insects (Staff](magicItem_dir/staves#_staff-of-swarming-insects)
-- [Transmutation (Staff](magicItem_dir/staves#_staff-of-transmutation)
-- [Woodlands (Staff](magicItem_dir/staves#_staff-of-the-woodlands)
+- [Abjuration (Staff)](magicItem_dir/staves#_staff-of-abjuration)
+- [Charming (Staff)](magicItems/staves#_staff-of-charming)
+- [Conjuration (Staff)](magicItem_dir/staves#_staff-of-conjuration)
+- [Defense (Staff)](magicItems/staves#_staff-of-defense)
+- [Divination (Staff)](magicItem_dir/staves#_staff-of-divination)
+- [Earth And Stone (Staff)](magicItems/staves#_staff-of-earth-and-stone)
+- [Enchantment (Staff)](magicItem_dir/staves#_staff-of-enchantment)
+- [Evocation (Staff)](magicItems/staves#_staff-of-evocation)
+- [Fire (Staff)](magicItem_dir/staves#_staff-of-fire)
+- [Frost (Staff)](magicItems/staves#_staff-of-frost)
+- [Healing (Staff)](magicItem_dir/staves#_staff-of-healing)
+- [Illumination (Staff)](magicItems/staves#_staff-of-illumination)
+- [Illusion (Staff)](magicItem_dir/staves#_staff-of-illusion)
+- [Life (Staff)](magicItems/staves#_staff-of-life)
+- [Necromancy (Staff)](magicItem_dir/staves#_staff-of-necromancy)
+- [Passage (Staff)](magicItems/staves#_staff-of-passage)
+- [Power (Staff)](magicItem_dir/staves#_staff-of-power)
+- [Size Alteration (Staff)](magicItems/staves#_staff-of-size-alteration)
+- [Swarming Insects (Staff)](magicItem_dir/staves#_staff-of-swarming-insects)
+- [Transmutation (Staff)](magicItems/staves#_staff-of-transmutation)
+- [Woodlands (Staff)](magicItem_dir/staves#_staff-of-the-woodlands)
 
-- [Bolstering (Staff](advanced/magicItem_dir/staves#_staff-of-bolstering-)
-- [Cackling Wrath (Staff](advanced/magicItem_dir/staves#_staff-of-cackling-wrath-)
-- [Hoarding (Staff](advanced/magicItem_dir/staves#_staff-of-hoarding-)
-- [Journeys (Staff](advanced/magicItem_dir/staves#_staff-of-journeys-)
-- [Many Rays (Staff](advanced/magicItem_dir/staves#_staff-of-many-rays-)
-- [Obstacles (Staff](advanced/magicItem_dir/staves#_staff-of-obstacles-)
-- [Performance (Staff](advanced/magicItem_dir/staves#_staff-of-performance-)
-- [Revelations (Staff](advanced/magicItem_dir/staves#_staff-of-revelations-)
-- [Rigor (Staff](advanced/magicItem_dir/staves#_staff-of-rigor-)
-- [Shrieking (Staff](advanced/magicItem_dir/staves#_staff-of-shrieking-)
-- [Slumber (Staff](advanced/magicItem_dir/staves#_staff-of-slumber-)
-- [Souls (Staff](advanced/magicItem_dir/staves#_staff-of-souls-)
-- [Stealth (Staff](advanced/magicItem_dir/staves#_staff-of-stealth-)
-- [Toxins (Staff](advanced/magicItem_dir/staves#_staff-of-toxins-)
-- [Traps (Staff](advanced/magicItem_dir/staves#_staff-of-traps-)
-- [Vision (Staff](advanced/magicItem_dir/staves#_staff-of-vision-)
-- [Weather (Staff](advanced/magicItem_dir/staves#_staff-of-weather-)
+- [Bolstering (Staff)](advanced/magicItem_dir/staves#_staff-of-bolstering-)
+- [Cackling Wrath (Staff)](advanced/magicItem_dir/staves#_staff-of-cackling-wrath-)
+- [Hoarding (Staff)](advanced/magicItem_dir/staves#_staff-of-hoarding-)
+- [Journeys (Staff)](advanced/magicItem_dir/staves#_staff-of-journeys-)
+- [Many Rays (Staff)](advanced/magicItem_dir/staves#_staff-of-many-rays-)
+- [Obstacles (Staff)](advanced/magicItem_dir/staves#_staff-of-obstacles-)
+- [Performance (Staff)](advanced/magicItem_dir/staves#_staff-of-performance-)
+- [Revelations (Staff)](advanced/magicItem_dir/staves#_staff-of-revelations-)
+- [Rigor (Staff)](advanced/magicItem_dir/staves#_staff-of-rigor-)
+- [Shrieking (Staff)](advanced/magicItem_dir/staves#_staff-of-shrieking-)
+- [Slumber (Staff)](advanced/magicItem_dir/staves#_staff-of-slumber-)
+- [Souls (Staff)](advanced/magicItem_dir/staves#_staff-of-souls-)
+- [Stealth (Staff)](advanced/magicItem_dir/staves#_staff-of-stealth-)
+- [Toxins (Staff)](advanced/magicItem_dir/staves#_staff-of-toxins-)
+- [Traps (Staff)](advanced/magicItem_dir/staves#_staff-of-traps-)
+- [Vision (Staff)](advanced/magicItem_dir/staves#_staff-of-vision-)
+- [Weather (Staff)](advanced/magicItem_dir/staves#_staff-of-weather-)
 
-- [Allying (Weapon property](advanced/magicItem_dir/weapons#_allying
-- [Beaststrike Club](advanced/magicItem_dir/weapons#_beaststrike-club
-- [Blade of Binding](advanced/magicItem_dir/weapons#_blade-of-binding
+- [Allying (Weapon property)](advanced/magicItem_dir/weapons#_allying)
+- [Beaststrike Club](advanced/magicItem_dir/weapons#_beaststrike-club)
+- [Blade of Binding](advanced/magicItem_dir/weapons#_blade-of-binding)
 - [Boulderhead Mace](advanced/magicItem_dir/weapons#_boulderhead-mace)
-- [Conductive (Weapon property](advanced/magicItem_dir/weapons#_conductive)
-- [Corrosive Burst (Weapon property](advanced/magicItem_dir/weapons#_corrosive-burst)
-- [Corrosive (Weapon property](advanced/magicItem_dir/weapons#_corrosive)
-- [Cunning (Weapon property](advanced/magicItem_dir/weapons#_cunning)
-- [Dueling (Weapon property](advanced/magicItem_dir/weapons#_dueling
+- [Conductive (Weapon property)](advanced/magicItem_dir/weapons#_conductive)
+- [Corrosive Burst (Weapon property)](advanced/magicItem_dir/weapons#_corrosive-burst)
+- [Corrosive (Weapon property)](advanced/magicItem_dir/weapons#_corrosive)
+- [Cunning (Weapon property)](advanced/magicItem_dir/weapons#_cunning)
+- [Dueling (Weapon property)](advanced/magicItem_dir/weapons#_dueling)
 - [Dustburst Bullet](advanced/magicItem_dir/weapons#_dustburst-bullet-)
-- [Furious (Weapon property](advanced/magicItem_dir/weapons#_furious)
-- [Grayflame (Weapon property](advanced/magicItem_dir/weapons#_grayflame
+- [Furious (Weapon property)](advanced/magicItem_dir/weapons#_furious)
+- [Grayflame (Weapon property)](advanced/magicItem_dir/weapons#_grayflame)
 - [Guarding Blade](advanced/magicItem_dir/weapons#_guarding-blade-)
-- [Huntsman (Weapon property](advanced/magicItem_dir/weapons#_huntsman)
-- [Jurist (Weapon property](advanced/magicItem_dir/weapons#_jurist
+- [Huntsman (Weapon property)](advanced/magicItem_dir/weapons#_huntsman)
+- [Jurist (Weapon property)](advanced/magicItem_dir/weapons#_jurist)
 - [Lance of Jousting](advanced/magicItem_dir/weapons#_lance-of-jousting)
-- [Menacing (Weapon property](advanced/magicItem_dir/weapons#_menacing
-- [Ricochet Hammer](advanced/magicItem_dir/weapons#_ricochet-hammer
-- [Searing Arrow](advanced/magicItem_dir/weapons#_searing-arrow-
-- [Shieldsplitter Lance](advanced/magicItem_dir/weapons#_shieldsplitter-lance-
-- [Sizzling Arrow](advanced/magicItem_dir/weapons#_sizzling-arrow-
-- [Sparkwake Starknife](advanced/magicItem_dir/weapons#_sparkwake-starknife-
-- [Spirit Blade](advanced/magicItem_dir/weapons#_spirit-blade
+- [Menacing (Weapon property)](advanced/magicItem_dir/weapons#_menacing)
+- [Ricochet Hammer](advanced/magicItem_dir/weapons#_ricochet-hammer)
+- [Searing Arrow](advanced/magicItem_dir/weapons#_searing-arrow-)
+- [Shieldsplitter Lance](advanced/magicItem_dir/weapons#_shieldsplitter-lance-)
+- [Sizzling Arrow](advanced/magicItem_dir/weapons#_sizzling-arrow-)
+- [Sparkwake Starknife](advanced/magicItem_dir/weapons#_sparkwake-starknife-)
+- [Spirit Blade](advanced/magicItem_dir/weapons#_spirit-blade)
 - [Tangle Bolt](advanced/magicItem_dir/weapons#_tangle-bolt-)
-- [Transformative (Weapon property](advanced/magicItem_dir/weapons#_transformative
-- [Trident of Stability](advanced/magicItem_dir/weapons#_trident-of-stability-
-- [Undercutting Axe](advanced/magicItem_dir/weapons#_undercutting-axe
+- [Transformative (Weapon property)](advanced/magicItem_dir/weapons#_transformative)
+- [Trident of Stability](advanced/magicItem_dir/weapons#_trident-of-stability-)
+- [Undercutting Axe](advanced/magicItem_dir/weapons#_undercutting-axe)
 
-- [Adamantine Battleaxe](magicItem_dir/weapons#_adamantine-battleaxe
+- [Adamantine Battleaxe](magicItems/weapons#_adamantine-battleaxe)
 - [Adamantine Dagger](magicItem_dir/weapons#_adamantine-dagger)
-- [Anarchic (Weapon property](magicItem_dir/weapons#_weapons-anarchic
+- [Anarchic (Weapon property)](magicItems/weapons#_weapons-anarchic)
 - [Assassin's Dagger](magicItem_dir/weapons#_assassin-s-dagger)
-- [Axiomatic (Weapon property](magicItem_dir/weapons#_weapons-axiomatic)
-- [Bane (Weapon property](magicItem_dir/weapons#_weapons-bane)
-- [Brilliant Energy (Weapon property](magicItem_dir/weapons#_weapons-brilliant-energy
-- [Cold Iron Longsword, Masterwork](magicItem_dir/weapons#_longsword-cold-iron-masterwork
-- [Dagger of Venom](magicItem_dir/weapons#_dagger-of-venom)
-- [Dancing (Weapon property](magicItem_dir/weapons#_weapons-dancing)
-- [Defending (Weapon property](magicItem_dir/weapons#_weapons-defending)
-- [Disruption (Weapon property](magicItem_dir/weapons#_weapons-disruption)
-- [Distance (Weapon property](magicItem_dir/weapons#_weapons-distance
-- [Dwarven Thrower](magicItem_dir/weapons#_dwarven-thrower
-- [Flame Tongue](magicItem_dir/weapons#_flame-tongue)
-- [Flaming Burst (Weapon property](magicItem_dir/weapons#_weapons-flaming-burst)
-- [Flaming (Weapon property](magicItem_dir/weapons#_weapons-flaming
+- [Axiomatic (Weapon property)](magicItems/weapons#_weapons-axiomatic)
+- [Bane (Weapon property)](magicItem_dir/weapons#_weapons-bane)
+- [Brilliant Energy (Weapon property)](magicItems/weapons#_weapons-brilliant-energy)
+- [Cold Iron Longsword, Masterwork](magicItem_dir/weapons#_longsword-cold-iron-masterwork)
+- [Dagger of Venom](magicItems/weapons#_dagger-of-venom)
+- [Dancing (Weapon property)](magicItem_dir/weapons#_weapons-dancing)
+- [Defending (Weapon property)](magicItems/weapons#_weapons-defending)
+- [Disruption (Weapon property)](magicItem_dir/weapons#_weapons-disruption)
+- [Distance (Weapon property)](magicItems/weapons#_weapons-distance)
+- [Dwarven Thrower](magicItem_dir/weapons#_dwarven-thrower)
+- [Flame Tongue](magicItems/weapons#_flame-tongue)
+- [Flaming Burst (Weapon property)](magicItem_dir/weapons#_weapons-flaming-burst)
+- [Flaming (Weapon property)](magicItems/weapons#_weapons-flaming)
 - [Frost Brand](magicItem_dir/weapons#_frost-brand)
-- [Frost (Weapon property](magicItem_dir/weapons#_weapons-frost)
-- [Ghost Touch (Weapon property](magicItem_dir/weapons#_weapons-ghost-touch
-- [Holy Avenger](magicItem_dir/weapons#_holy-avenger)
-- [Holy (Weapon property](magicItem_dir/weapons#_weapons-holy)
-- [Icy Burst (Weapon property](magicItem_dir/weapons#_weapons-icy-burst
+- [Frost (Weapon property)](magicItems/weapons#_weapons-frost)
+- [Ghost Touch (Weapon property)](magicItem_dir/weapons#_weapons-ghost-touch)
+- [Holy Avenger](magicItems/weapons#_holy-avenger)
+- [Holy (Weapon property)](magicItem_dir/weapons#_weapons-holy)
+- [Icy Burst (Weapon property)](magicItems/weapons#_weapons-icy-burst)
 - [Javelin of Lightning](magicItem_dir/weapons#_javelin-of-lightning)
-- [Keen (Weapon property](magicItem_dir/weapons#_weapons-keen)
-- [Ki Focus (Weapon property](magicItem_dir/weapons#_weapons-ki-focus
-- [Life-drinker](magicItem_dir/weapons#_life-drinker
-- [Luck Blade](magicItem_dir/weapons#_luck-blade
-- [Mace of Smiting](magicItem_dir/weapons#_mace-of-smiting
+- [Keen (Weapon property)](magicItems/weapons#_weapons-keen)
+- [Ki Focus (Weapon property)](magicItem_dir/weapons#_weapons-ki-focus)
+- [Life-drinker](magicItems/weapons#_life-drinker)
+- [Luck Blade](magicItem_dir/weapons#_luck-blade)
+- [Mace of Smiting](magicItems/weapons#_mace-of-smiting)
 - [Mace of Terror](magicItem_dir/weapons#_mace-of-terror)
-- [Merciful (Weapon property](magicItem_dir/weapons#_weapons-merciful
-- [Mighty Cleaving](magicItem_dir/weapons#_weapons-mighty-cleaving (Weapon property)
-- [Nine Lives Stealer](magicItem_dir/weapons#_nine-lives-stealer
-- [Oathbow](magicItem_dir/weapons#_oathbow
-- [Rapier of Puncturing](magicItem_dir/weapons#_rapier-of-puncturing)
-- [Returning (Weapon property](magicItem_dir/weapons#_weapons-returning
-- [Screaming Bolt](magicItem_dir/weapons#_screaming-bolt)
-- [Seeking (Weapon property](magicItem_dir/weapons#_weapons-seeking
-- [Shatterspike](magicItem_dir/weapons#_shatterspike
-- [Shifter's Sorrow](magicItem_dir/weapons#_shifter-s-sorrow
-- [Shock](magicItem_dir/weapons#_weapons-shock)
-- [Shocking Burst (Weapon property](magicItem_dir/weapons#_weapons-shocking-burst
-- [Silver Dagger, Masterwork](magicItem_dir/weapons#_silver-dagger-masterwork
-- [Slaying Arrow](magicItem_dir/weapons#_slaying-arrow
-- [Sleep Arrow](magicItem_dir/weapons#_sleep-arrow)
-- [Speed (Weapon property](magicItem_dir/weapons#_weapons-speed)
-- [Spell Storing (Weapon property](magicItem_dir/weapons#_spell-storing
-- [Sun Blade](magicItem_dir/weapons#_sun-blade
-- [Sword of Life Stealing](magicItem_dir/weapons#_sword-of-life-stealing
-- [Sword of Subtlety](magicItem_dir/weapons#_sword-of-subtlety
-- [Sword of the Planes](magicItem_dir/weapons#_sword-of-the-planes
+- [Merciful (Weapon property)](magicItems/weapons#_weapons-merciful)
+- [Mighty Cleaving](magicItem_dir/weapons#_weapons-mighty-cleaving (Weapon property))
+- [Nine Lives Stealer](magicItems/weapons#_nine-lives-stealer)
+- [Oathbow](magicItem_dir/weapons#_oathbow)
+- [Rapier of Puncturing](magicItems/weapons#_rapier-of-puncturing)
+- [Returning (Weapon property)](magicItem_dir/weapons#_weapons-returning)
+- [Screaming Bolt](magicItems/weapons#_screaming-bolt)
+- [Seeking (Weapon property)](magicItem_dir/weapons#_weapons-seeking)
+- [Shatterspike](magicItems/weapons#_shatterspike)
+- [Shifter's Sorrow](magicItem_dir/weapons#_shifter-s-sorrow)
+- [Shock](magicItems/weapons#_weapons-shock)
+- [Shocking Burst (Weapon property)](magicItem_dir/weapons#_weapons-shocking-burst)
+- [Silver Dagger, Masterwork](magicItems/weapons#_silver-dagger-masterwork)
+- [Slaying Arrow](magicItem_dir/weapons#_slaying-arrow)
+- [Sleep Arrow](magicItems/weapons#_sleep-arrow)
+- [Speed (Weapon property)](magicItem_dir/weapons#_weapons-speed)
+- [Spell Storing (Weapon property)](magicItems/weapons#_spell-storing)
+- [Sun Blade](magicItem_dir/weapons#_sun-blade)
+- [Sword of Life Stealing](magicItems/weapons#_sword-of-life-stealing)
+- [Sword of Subtlety](magicItem_dir/weapons#_sword-of-subtlety)
+- [Sword of the Planes](magicItems/weapons#_sword-of-the-planes)
 - [Sylvan Scimitar](magicItem_dir/weapons#_sylvan-scimitar)
-- [Throwing (Weapon property](magicItem_dir/weapons#_throwing)
-- [Thundering (Weapon property](magicItem_dir/weapons#_thundering
-- [Trident of Fish Command](magicItem_dir/weapons#_trident-of-fish-command
+- [Throwing (Weapon property)](magicItems/weapons#_throwing)
+- [Thundering (Weapon property)](magicItem_dir/weapons#_thundering)
+- [Trident of Fish Command](magicItems/weapons#_trident-of-fish-command)
 - [Trident of Warning](magicItem_dir/weapons#_trident-of-warning)
-- [Unholy (Weapon property](magicItem_dir/weapons#_unholy)
-- [Vicious (Weapon property](magicItem_dir/weapons#_vicious)
-- [Vorpal (Weapon property](magicItem_dir/weapons#_vorpal)
-- [Wounding (Weapon property](magicItem_dir/weapons#_wounding
+- [Unholy (Weapon property)](magicItems/weapons#_unholy)
+- [Vicious (Weapon property)](magicItem_dir/weapons#_vicious)
+- [Vorpal (Weapon property)](magicItems/weapons#_vorpal)
+- [Wounding (Weapon property)](magicItem_dir/weapons#_wounding)

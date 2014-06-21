@@ -7,13 +7,13 @@ title: spell_dir/consecrate
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a vial of holy water and 25 gp worth of silver dust, DF
+**Components** V, S, M (a vial of holy water and 25 gp worth of silver dust), DF
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Area** 20-ft.-radius emanation
 
-**Duration** 2 hours/level
+**Duration** 2 hour_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

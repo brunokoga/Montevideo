@@ -3,11 +3,11 @@ title: spell_dir/arcaneEye
 ---
  **Arcane Eye**
 
-**School** divination (scrying; **Level** sorcere_dir/wizard 4
+**School** divination (scrying); **Level** sorcerer/wizard 4
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M (a bit of bat fur
+**Components** V, S, M (a bit of bat fur)
 
 **Range** unlimited
 

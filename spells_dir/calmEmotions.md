@@ -3,7 +3,7 @@ title: spell_dir/calmEmotions
 ---
  **Calm Emotions**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 2, cleric 2
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, cleric 2
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spell_dir/calmEmotions
 
 **Area** creatures in a 20-ft.-radius spread
 
-**Duration** concentration, up to 1 roun_dir/level (D
+**Duration** concentration, up to 1 roun_dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

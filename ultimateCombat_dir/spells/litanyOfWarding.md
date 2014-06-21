@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/litanyOfWarding
+title: ultimateComba_dir/spells/litanyOfWarding
 ---
 Litany of Warding
 

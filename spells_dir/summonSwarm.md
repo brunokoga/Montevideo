@@ -3,7 +3,7 @@ title: spell_dir/summonSwarm
 ---
  **Summon Swarm**
 
-**School** conjuration (summoning; **Level** bard 2, druid 2, sorcerer/wizard 2
+**School** conjuration (summoning); **Level** bard 2, druid 2, sorcerer/wizard 2
 
 **Casting Time** 1 round
 

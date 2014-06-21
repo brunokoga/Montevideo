@@ -9,19 +9,19 @@ Foo Dog CR 2
 
 XP 600
 
-NG Medium outsider ( [augmented](monster_dir/creatureTypes#_augmented-subtype animal, [good](monster_dir/creatureTypes#_good-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+NG Medium outsider ( [augmented](monster_dir/creatureTypes#_augmented-subtype) animal, [good](monsters/creatureTypes#_good-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +8
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skill_dir/perception#_perception) +8
 
 Defense
 
 **AC** 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
 
-**hp** 17 (2d10+6
+**hp** 17 (2d10+6)
 
 **Fort** +6, **Ref** +5, **Will** +3
 
-**Defensive Abilities** paired protectors, stony defense 2/day; **DR** 5/bludgeoning; **Immune** [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su), [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), paralysis, sleep
+**Defensive Abilities** paired protectors, stony defense 2/day; **DR** 5/bludgeoning; **Immune** [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)), [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), paralysis, sleep
 
 Offense
 
@@ -35,9 +35,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +4; **CMD** 16 (20 vs. trip)
 
-**Feats** [Iron Will](feats#_iron-will)B, [Skill Focus](feats#_skill-focus ( [Perception](skill_dir/perception#_perception)
+**Feats** [Iron Will](feats#_iron-will)B, [Skill Focus](feats#_skill-focus) ( [Perception](skill_dir/perception#_perception))
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +6 (+10 when jumping, [Perception](skill_dir/perception#_perception +8; **Racial Modifiers** [Acrobatics](skill_dir/acrobatics#_acrobatics) (+4 when jumping, +4 [Survival](skill_dir/survival#_survival when tracking by [scent](monster_dir/universalMonsterRules#_scent
+**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +6 (+10 when jumping), [Perception](skill_dir/perception#_perception) +8; **Racial Modifiers** [Acrobatics](skills/acrobatics#_acrobatics) (+4 when jumping), +4 [Survival](skill_dir/survival#_survival) when tracking by [scent](monsters/universalMonsterRules#_scent)
 
 **Languages** Celestial, Common
 
@@ -45,7 +45,7 @@ Statistics
 
 Ecology
 
-**Environment** any (Nirvana
+**Environment** any (Nirvana)
 
 **Organization** solitary or pair
 
@@ -55,29 +55,29 @@ Foo Lion CR 4
 
 XP 1,200
 
-NG Large outsider ( [augmented](monster_dir/creatureTypes#_augmented-subtype animal, [good](monster_dir/creatureTypes#_good-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
+NG Large outsider ( [augmented](monsters/creatureTypes#_augmented-subtype) animal, [good](monster_dir/creatureTypes#_good-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +8
+**Init** +7; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +8
 
 Defense
 
 **AC** 15, touch 12, flat-footed 12 (+3 Dex, +3 natural, –1 size)
 
-**hp** 42 (5d10+15
+**hp** 42 (5d10+15)
 
 **Fort** +7, **Ref** +7, **Will** +4
 
-**Defensive Abilities** paired protectors, stony defense 5/day; **DR** 5/bludgeoning; **Immune** [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su), [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su), paralysis, sleep
+**Defensive Abilities** paired protectors, stony defense 5/day; **DR** 5/bludgeoning; **Immune** [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)), [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), paralysis, sleep
 
 Offense
 
 **Speed** 40 ft.
 
-**Melee** bite +8 (1d8+6 plus [grab](monster_dir/universalMonsterRules#_grab)), 2 claws +8 (1d6+6
+**Melee** bite +8 (1d8+6 plus [grab](monster_dir/universalMonsterRules#_grab)), 2 claws +8 (1d6+6)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [pounce](monster_dir/universalMonsterRules#_pounce, [rake](monster_dir/universalMonsterRules#_rake) (2 claws +7, 1d4+5)
+**Special Attacks** [pounce](monsters/universalMonsterRules#_pounce), [rake](monster_dir/universalMonsterRules#_rake) (2 claws +7, 1d4+5)
 
 Statistics
 
@@ -85,9 +85,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +10 (+14 grapple); **CMD** 23 (27 vs. trip)
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will)B, [Run](feats#_run), [Skill Focus](feats#_skill-focus ( [Perception](skill_dir/perception#_perception)
+**Feats** [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will)B, [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +11 (+15 when jumping, [Perception](skill_dir/perception#_perception +8, [Stealth](skill_dir/stealth#_stealth) +6 (+14 in undergrowth; **Racial Modifiers** +4 [Acrobatics](skill_dir/acrobatics#_acrobatics when jumping, +4 [Perception](skill_dir/perception#_perception, +4 [Stealth](skill_dir/stealth#_stealth) (+8 in undergrowth
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +11 (+15 when jumping), [Perception](skills/perception#_perception) +8, [Stealth](skill_dir/stealth#_stealth) +6 (+14 in undergrowth); **Racial Modifiers** +4 [Acrobatics](skills/acrobatics#_acrobatics) when jumping, +4 [Perception](skill_dir/perception#_perception), +4 [Stealth](skills/stealth#_stealth) (+8 in undergrowth)
 
 **Languages** Celestial, Common
 
@@ -125,15 +125,15 @@ A foo creature can be called to the Material Plane for any reason a conjurer can
 
 **Defensive Abilities** : A foo creature retains all of the base creature's defensive abilities and special qualities. It also gains the following.
 
-_Damage Reduction (Ex_: A foo creature gains DR/bludgeoning based on its Hit Dice. A foo creature with up to 10 HD gains DR 5/bludgeoning. A foo creature with 11 or more HD gains DR 10/bludgeoning.
+_Damage Reduction (Ex)_: A foo creature gains DR/bludgeoning based on its Hit Dice. A foo creature with up to 10 HD gains DR 5/bludgeoning. A foo creature with 11 or more HD gains DR 10/bludgeoning.
 
-_Paired Protectors (Su)_: When two or more foo creatures are within 30 feet of one another, they both gain the benefit of a _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil_ spell. The caster level of this _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil)_ effect is equal to the highest Hit Dice of the affected foo creatures. This effect can be dispelled, but if it is, a foo creature can reactivate it as a swift action.
+_Paired Protectors (Su)_: When two or more foo creatures are within 30 feet of one another, they both gain the benefit of a _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil)_ spell. The caster level of this _ [protection from evil](spells/protectionFromEvil#_protection-from-evil)_ effect is equal to the highest Hit Dice of the affected foo creatures. This effect can be dispelled, but if it is, a foo creature can reactivate it as a swift action.
 
 _Stony Defense (Su)_: A number of times per day equal to its Hit Dice, a foo creature can harden its skin to unyielding stone as an immediate action. It gains hardness 8 until the end of its next turn, but its speed is reduced by 10 feet for the same duration.
 
 **Special Abilities** : A foo creature retains all of the base creature's special attacks and special abilities. It also gains the following special quality.
 
-_Freeze (Ex_: A foo creature can hold itself so still it appears to be a statue. A foo creature that uses freeze can take 10 on its [Stealth](skill_dir/stealth#_stealth) check to hide in plain sight as a stone statue. A foo creature can maintain this position for as long as it wishes.
+_Freeze (Ex)_: A foo creature can hold itself so still it appears to be a statue. A foo creature that uses freeze can take 10 on its [Stealth](skill_dir/stealth#_stealth) check to hide in plain sight as a stone statue. A foo creature can maintain this position for as long as it wishes.
 
 **Abilities** : +2 Strength, +2 Constitution, +4 Intelligence.
 
@@ -153,7 +153,7 @@ To create an imperial foo creature, first generate the statistics for a regular 
 
 **Step Three—Increase Size** : Increase the foo creature's size by one category, applying the modifiers for size changes.
 
-**Step Four—Spellcasting** : An imperial foo creature casts spells as a 10th-level sorcerer, and can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for an imperial foo creature. The imperial foo creature gains [Eschew Materials](feats#_eschew-materials as a bonus feat, but gains no other class ability normally granted by the sorcerer class.
+**Step Four—Spellcasting** : An imperial foo creature casts spells as a 10th-level sorcerer, and can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for an imperial foo creature. The imperial foo creature gains [Eschew Materials](feats#_eschew-materials) as a bonus feat, but gains no other class ability normally granted by the sorcerer class.
 
 **Step Five—Determine CR** : Compare the foo creature's statistics to determine the creature's final CR. An imperial foo creature has a minimum CR score of 11. If your creation's statistics aren't good enough to qualify for this CR minimum, continue adding racial Hit Dice until the imperial's statistics reach this minimum.
 

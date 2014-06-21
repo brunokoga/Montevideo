@@ -3,7 +3,7 @@ title: spell_dir/hypnotism
 ---
  **Hypnotism**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 1, sorcerer/wizard 1
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer/wizard 1
 
 **Casting Time** 1 round
 

@@ -1,5 +1,5 @@
 ---
-title: ultimateEquipment/magicArmsAndArmo_dir/specificMagicWeapons
+title: ultimateEquipmen_dir/magicArmsAndArmor/specificMagicWeapons
 ---
 # Specific Magic Weapons
 
@@ -127,7 +127,7 @@ This nonmagical axe is made of adamantine. As a masterwork weapon, it has a +1 e
 
 Adamantine Dagger
 
-**Price** 3,002 gp; **Aura** no aura (nonmagical; **CL** —; **Weight** 1 lb.
+**Price** 3,002 gp; **Aura** no aura (nonmagical); **CL** —; **Weight** 1 lb.
 
 This nonmagical dagger is made out of adamantine. As a masterwork weapon, it has a +1 enhancement bonus on attack rolls.
 
@@ -141,7 +141,7 @@ Construction Requirements
 
 **Cost** 180 gp
 
-Craft Magic Arms and Armor, _ [shrink item](spell_dir/shrinkItem#_shrink-item_
+Craft Magic Arms and Armor, _ [shrink item](spell_dir/shrinkItem#_shrink-item)_
 
 Assassin's Dagger
 
@@ -153,27 +153,27 @@ Construction Requirements
 
 **Cost** 5,302 gp
 
-Craft Magic Arms and Armor, _ [slay living](spell_dir/slayLiving#_slay-living_
+Craft Magic Arms and Armor, _ [slay living](spells/slayLiving#_slay-living)_
 
 Bastard's Sting
 
 **Price** 123,035 gp; **Aura** strong necromancy; **CL** 18th; **Weight** 6 lbs.
 
-This _+2 adamantine bastard sword_ becomes a _+5 [unholy](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_unholy adamantine bastard sword_ in the hands of an antipaladin.
+This _+2 adamantine bastard sword_ becomes a _+5 [unholy](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_unholy) adamantine bastard sword_ in the hands of an antipaladin.
 
-While wielded by an antipaladin, a _bastard's sting_ deals 2d6 points of negative energy damage to all living creatures that start their turn adjacent to the wielder. The antipaladin also gains fast healing 5 as long as at least one living creature takes damage from this negative energy. This negative energy has no effect on undead. The sword also enables the antipaladin to use _ [unholy blight](spell_dir/unholyBlight#_unholy-blight_ at will on command at the class level of the antipaladin. Paladins take a –2 saving throw penalty against this effect.
+While wielded by an antipaladin, a _bastard's sting_ deals 2d6 points of negative energy damage to all living creatures that start their turn adjacent to the wielder. The antipaladin also gains fast healing 5 as long as at least one living creature takes damage from this negative energy. This negative energy has no effect on undead. The sword also enables the antipaladin to use _ [unholy blight](spells/unholyBlight#_unholy-blight)_ at will on command at the class level of the antipaladin. Paladins take a –2 saving throw penalty against this effect.
 
 Construction Requirements
 
 **Cost** 63,035 gp
 
-Craft Magic Arms and Armor, _ [unholy aura](spell_dir/unholyAura#_unholy-aura_, _ [unholy blight](spell_dir/unholyBlight#_unholy-blight)_, creator must be evil
+Craft Magic Arms and Armor, _ [unholy aura](spell_dir/unholyAura#_unholy-aura)_, _ [unholy blight](spells/unholyBlight#_unholy-blight)_, creator must be evil
 
 Beaststrike Club
 
 **Price** 7,300 gp; **Aura** moderate transmutation; **CL** 6th; **Weight** 3 lbs.
 
-This _+1 club_ is often decorated with large teeth and carved with stylized images of different animals. As a standard action, the wielder may transform the club into the head or limb of an animal; the weapon's damage does not change but the type of damage changes to one of the following to suit the shape of the club: bite (piercing), claw (slashing), gore (piercing), slam (bludgeoning), sting (piercing), or talon (slashing). When transformed, the club counts as a natural weapon and a manufactured weapon for the purpose of spells and effects that enhance or improve either manufactured or natural weapons. The club also counts as the natural weapon of its current shape for the purpose of feats and spells that rely on specific natural weapons, such as [Weapon Focus](feats#_weapon-focus) (bite or the _ [bloody claws](advanced/spell_dir/bloodyClaws#_bloody-claws_ spell. If the wielder has the wild shape ability, she can expend one use of wildshape to increase the weapon's damage by one step for the duration of that wild shape as long as the druid remains in contact with the weapon; if the wielder can wild shape at will, the club's damage is always increased in this fashion. If unattended, the club reverts to its normal shape.
+This _+1 club_ is often decorated with large teeth and carved with stylized images of different animals. As a standard action, the wielder may transform the club into the head or limb of an animal; the weapon's damage does not change but the type of damage changes to one of the following to suit the shape of the club: bite (piercing), claw (slashing), gore (piercing), slam (bludgeoning), sting (piercing), or talon (slashing). When transformed, the club counts as a natural weapon and a manufactured weapon for the purpose of spells and effects that enhance or improve either manufactured or natural weapons. The club also counts as the natural weapon of its current shape for the purpose of feats and spells that rely on specific natural weapons, such as [Weapon Focus](feats#_weapon-focus) (bite) or the _ [bloody claws](advance_dir/spells/bloodyClaws#_bloody-claws)_ spell. If the wielder has the wild shape ability, she can expend one use of wildshape to increase the weapon's damage by one step for the duration of that wild shape as long as the druid remains in contact with the weapon; if the wielder can wild shape at will, the club's damage is always increased in this fashion. If unattended, the club reverts to its normal shape.
 
 Construction Requirements
 
@@ -185,31 +185,31 @@ Blade of Binding
 
 **Price** 12,350 gp; **Aura** faint conjuration; **CL** 3rd; **Weight** 8 lbs.
 
-This _+1 greatsword_ is decorated with a lock motif. On a successful hit with the sword against a creature that is the wielder's size or smaller, the wielder can attempt to start a grapple as a free action that doesn't provoke an attack of opportunity. If the wielder succeeds at the grapple, the sword's blade transforms into a metal chain and wraps around the target, giving the wielder a +5 bonus on further grapple checks against the target. If the target escapes the grapple or the wielder decides to release the target from the grapple, the chain reverts to sword form (with the wielder holding the handle.
+This _+1 greatsword_ is decorated with a lock motif. On a successful hit with the sword against a creature that is the wielder's size or smaller, the wielder can attempt to start a grapple as a free action that doesn't provoke an attack of opportunity. If the wielder succeeds at the grapple, the sword's blade transforms into a metal chain and wraps around the target, giving the wielder a +5 bonus on further grapple checks against the target. If the target escapes the grapple or the wielder decides to release the target from the grapple, the chain reverts to sword form (with the wielder holding the handle).
 
-The wielder can also let go of the chain's handle while grappling or pinning the target; if he does so, the chain remains in place and the target gains the entangled condition ( [Escape Artist](skill_dir/escapeArtist#_escape-artist) DC 20 to slip free, break DC 28, hardness 10, 10 hit points, concentration DC 17 to cast spells while entangled. Another creature can grab the chain's handle as a standard action and will it to revert to sword form as a swift action, which releases the bound creature. If the chain is destroyed, it reverts to sword form and the weapon gains the broken condition.
+The wielder can also let go of the chain's handle while grappling or pinning the target; if he does so, the chain remains in place and the target gains the entangled condition ( [Escape Artist](skills/escapeArtist#_escape-artist) DC 20 to slip free, break DC 28, hardness 10, 10 hit points, concentration DC 17 to cast spells while entangled). Another creature can grab the chain's handle as a standard action and will it to revert to sword form as a swift action, which releases the bound creature. If the chain is destroyed, it reverts to sword form and the weapon gains the broken condition.
 
 Construction Requirements
 
 **Cost** 6,350 gp
 
-Craft Magic Arms and Armor, _ [animate rope](spell_dir/animateRope#_animate-rope_
+Craft Magic Arms and Armor, _ [animate rope](spell_dir/animateRope#_animate-rope)_
 
 Blade of the Rising Sun
 
 **Price** 51,850 gp; **Aura** strong evocation and necromancy; **CL** 15th; **Weight** 6 lbs.
 
-This golden-bladed _+1 glorious undead [bane](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane) katana _shines like the first rays of the morning sun. Whenever the wielder of a _blade of the rising sun _threatens a critical threat (regardless of whether the critical is confirmed or whether the target is subject to critical hits, the target is surrounded by a halo of golden sunlight equivalent to _ [faerie fire](spell_dir/faerieFire#_faerie-fire _until the beginning of the wielder's next turn. Undead surrounded by this glow take 1d6 points of damage at the beginning of their turn.
+This golden-bladed _+1 glorious undead [bane](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane) katana _shines like the first rays of the morning sun. Whenever the wielder of a _blade of the rising sun _threatens a critical threat (regardless of whether the critical is confirmed or whether the target is subject to critical hits), the target is surrounded by a halo of golden sunlight equivalent to _ [faerie fire](spells/faerieFire#_faerie-fire) _until the beginning of the wielder's next turn. Undead surrounded by this glow take 1d6 points of damage at the beginning of their turn.
 
-The wielder of a _blade of the rising sun _may declare a sacrificial strike (similar to the retributive strike of a _ [staff of power](magicItem_dir/staves#_staff-of-power)_ as a standard action, or as an immediate action before losing consciousness upon gaining the dying or dead condition. A sacrificial strike converts the wielder's body and spirit into raw energy equivalent to a _ [sunburst](spell_dir/sunburst#_sunburst) _(DC 22. Allies of the wielder within the _ [sunburst](spell_dir/sunburst#_sunburst _are not harmed, and the wielder may choose to affect all allies within the _ [sunburst](spell_dir/sunburst#_sunburst _as _ [mass cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds-mass _or all allies within 10 feet as _ [breath of life](spell_dir/breathOfLife#_breath-of-life_. The caster level for the effects of the sacrificial strike is equal to the sword's caster level plus 1/2 the wielder's level (maximum 25th level).
+The wielder of a _blade of the rising sun _may declare a sacrificial strike (similar to the retributive strike of a _ [staff of power](magicItem_dir/staves#_staff-of-power)_) as a standard action, or as an immediate action before losing consciousness upon gaining the dying or dead condition. A sacrificial strike converts the wielder's body and spirit into raw energy equivalent to a _ [sunburst](spells/sunburst#_sunburst) _(DC 22). Allies of the wielder within the _ [sunburst](spell_dir/sunburst#_sunburst) _are not harmed, and the wielder may choose to affect all allies within the _ [sunburst](spells/sunburst#_sunburst) _as _ [mass cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds-mass) _or all allies within 10 feet as _ [breath of life](spells/breathOfLife#_breath-of-life)_. The caster level for the effects of the sacrificial strike is equal to the sword's caster level plus 1/2 the wielder's level (maximum 25th level).
 
-A sacrificial strike destroys the wielder's body (as the spell _ [disintegrate](spell_dir/disintegrate#_disintegrate)_, but she has a 50% chance of being reincarnated (as the _ [reincarnate](spell_dir/reincarnate#_reincarnate)_ spell 24 hours after performing a sacrificial strike in a random safe location within 1 mile. The wielder's gear is left behind unharmed after the sacrificial strike; however, the _blade of the rising sun _is teleported to a random location at least 100 miles distant.
+A sacrificial strike destroys the wielder's body (as the spell _ [disintegrate](spell_dir/disintegrate#_disintegrate)_), but she has a 50% chance of being reincarnated (as the _ [reincarnate](spells/reincarnate#_reincarnate)_ spell) 24 hours after performing a sacrificial strike in a random safe location within 1 mile. The wielder's gear is left behind unharmed after the sacrificial strike; however, the _blade of the rising sun _is teleported to a random location at least 100 miles distant.
 
 Construction Requirements
 
 **Cost** 28,100 gp
 
-Craft Magic Arms and Armor, _ [blindness/deafness](spell_dir/blindnessDeafness#_blindness-deafness_, _ [daylight](spell_dir/daylight#_daylight_, _ [flare](spell_dir/flare#_flare_, _ [miracle](spell_dir/miracle#_miracle_, _ [sunburst](spell_dir/sunburst#_sunburst)_
+Craft Magic Arms and Armor, _ [blindnes_dir/deafness](spells/blindnessDeafness#_blindness-deafness)_, _ [daylight](spell_dir/daylight#_daylight)_, _ [flare](spells/flare#_flare)_, _ [miracle](spell_dir/miracle#_miracle)_, _ [sunburst](spells/sunburst#_sunburst)_
 
 Blade of the Sword-Saint
 
@@ -217,7 +217,7 @@ Blade of the Sword-Saint
 
 This exquisitely forged katana is the result of painstaking attention and craftsmanship by one who is dedicated to mastering swordplay in its highest form.
 
-A blade of the sword-saint is a _+3 ki intensifying katana_. In the hands of a monk, it becomes an instrument of deadly utility. In addition to its more common properties, this weapon can be employed as though the wielder were unarmed: the wielder benefits from feats such as Deflect Arrows or Snatch Arrows (although he can redirect attacks but not catch them if he has no hands free, and a monk treats the blade as a monk weapon for use in his flurry of blows.
+A blade of the sword-saint is a _+3 ki intensifying katana_. In the hands of a monk, it becomes an instrument of deadly utility. In addition to its more common properties, this weapon can be employed as though the wielder were unarmed: the wielder benefits from feats such as Deflect Arrows or Snatch Arrows (although he can redirect attacks but not catch them if he has no hands free), and a monk treats the blade as a monk weapon for use in his flurry of blows.
 
 Construction Requirements
 
@@ -235,33 +235,33 @@ Construction Requirements
 
 **Cost** 3,308 gp
 
-Craft Magic Arms and Armor, _ [bleed](spell_dir/bleed#_bleed_, _ [vampiric touch](spell_dir/vampiricTouch#_vampiric-touch_
+Craft Magic Arms and Armor, _ [bleed](spell_dir/bleed#_bleed)_, _ [vampiric touch](spells/vampiricTouch#_vampiric-touch)_
 
 Bloodthirst Dagger
 
 **Price** 60,802 gp; **Aura** moderate evocation; **CL** 10th; **Weight** 1 lb.
 
-The blade of this _+2 [wounding](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_wounding dagger_ is brightly polished. Even when drenched in a victim's blood, it appears clean and dry moments later, as though it has been newly cleaned.
+The blade of this _+2 [wounding](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_wounding) dagger_ is brightly polished. Even when drenched in a victim's blood, it appears clean and dry moments later, as though it has been newly cleaned.
 
-A _bloodthirst dagger_ rewards its wielder most when used relentlessly against a single target. When attacking a creature that is still bleeding from the _bloodthirst dagger_'s _ [wounding](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_wounding)_ property, the dagger deals an additional +1 point of damage against the target for each bleeding wound the creature possesses (maximum +10). Whenever the wielder of _bloodthirst_ confirms a critical hit with the weapon, she can choose to deal 1d6 points of additional damage for each still-bleeding wound the target possesses (maximum +5d6 damage. This additional damage is not multiplied by the critical hit, but is in addition to the damage normally added for bleeding wounds. Dealing this damage immediately heals all bleeding wounds possessed by the wielder.
+A _bloodthirst dagger_ rewards its wielder most when used relentlessly against a single target. When attacking a creature that is still bleeding from the _bloodthirst dagger_'s _ [wounding](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_wounding)_ property, the dagger deals an additional +1 point of damage against the target for each bleeding wound the creature possesses (maximum +10). Whenever the wielder of _bloodthirst_ confirms a critical hit with the weapon, she can choose to deal 1d6 points of additional damage for each still-bleeding wound the target possesses (maximum +5d6 damage). This additional damage is not multiplied by the critical hit, but is in addition to the damage normally added for bleeding wounds. Dealing this damage immediately heals all bleeding wounds possessed by the wielder.
 
 Construction Requirements
 
 **Cost** 30,552 gp
 
-Craft Magic Arms and Armor, _ [bleed](spell_dir/bleed#_bleed_, _ [inflict serious wounds](spell_dir/inflictSeriousWounds#_inflict-serious-wounds)_
+Craft Magic Arms and Armor, _ [bleed](spells/bleed#_bleed)_, _ [inflict serious wounds](spell_dir/inflictSeriousWounds#_inflict-serious-wounds)_
 
 Boulderhead Mace
 
 **Price** 6,812 gp; **Aura** moderate transmutation; **CL** 9th; **Weight** 8 lbs.
 
-The head of this _+1 heavy mace_ is made from a single piece of roughly spherical, polished granite. Once per day, the wielder can command the mace to release this head, which grows to the size of a Large boulder and rolls quickly in a direction the wielder specifies. The boulder rolls in a straight line for up to 60 feet, crushing everything in its path for 3d8+5 points of damage (Reflex DC 19 half. The boulder collapses into rubble and dust at the end of its path or if it encounters an obstacle it cannot break through or roll over, creating a 10-foot-square area of difficult terrain. A new stone mace-head grows on the weapon's haft over the next 24 hours, and it is unusable as a weapon until the head regrows.
+The head of this _+1 heavy mace_ is made from a single piece of roughly spherical, polished granite. Once per day, the wielder can command the mace to release this head, which grows to the size of a Large boulder and rolls quickly in a direction the wielder specifies. The boulder rolls in a straight line for up to 60 feet, crushing everything in its path for 3d8+5 points of damage (Reflex DC 19 half). The boulder collapses into rubble and dust at the end of its path or if it encounters an obstacle it cannot break through or roll over, creating a 10-foot-square area of difficult terrain. A new stone mace-head grows on the weapon's haft over the next 24 hours, and it is unusable as a weapon until the head regrows.
 
 Construction Requirements
 
 **Cost** 3,652 gp
 
-Craft Magic Arms and Armor, _ [wall of stone](spell_dir/wallOfStone#_wall-of-stone_
+Craft Magic Arms and Armor, _ [wall of stone](spells/wallOfStone#_wall-of-stone)_
 
 Burrowing Bullet
 
@@ -269,17 +269,17 @@ Burrowing Bullet
 
 **Lesser burrowing bullet** 1,722 gp; **Greater burrowing bullet** 3,447 gp
 
-This _+1 firearm bullet_ deals normal damage, but when it hits a living creature, it burrows into the creature's flesh, causing wracking pain until removed or until the bullet burrows its way out of the creature. While these bullets burrow, the creature is staggered. This effect lasts for 1d3 rounds or until the bullet is removed with a DC 15 [Heal](skill_dir/heal#_heal) check made as a standard action. _Greater burrowing bullets_ take longer to pass though the bodies of living creatures (the staggered effect lasts 1d3+2 rounds and are harder to remove (DC 20 [Heal](skill_dir/heal#_heal) check as a standard action.
+This _+1 firearm bullet_ deals normal damage, but when it hits a living creature, it burrows into the creature's flesh, causing wracking pain until removed or until the bullet burrows its way out of the creature. While these bullets burrow, the creature is staggered. This effect lasts for 1d3 rounds or until the bullet is removed with a DC 15 [Heal](skill_dir/heal#_heal) check made as a standard action. _Greater burrowing bullets_ take longer to pass though the bodies of living creatures (the staggered effect lasts 1d3+2 rounds) and are harder to remove (DC 20 [Heal](skills/heal#_heal) check as a standard action).
 
 Construction Requirements
 
 **Lesser burrowing bullet** 861 gp; **Greater burrowing bullet** 1,723 gp
 
-Craft Magic Arms and Armor, _ [symbol of pain](spell_dir/symbolOfPain#_symbol-of-pain)_ (_burrowing bullet_ or _ [symbol of stunning](spell_dir/symbolOfStunning#_symbol-of-stunning)_ (_greater burrowing bullet_)
+Craft Magic Arms and Armor, _ [symbol of pain](spell_dir/symbolOfPain#_symbol-of-pain)_ (_burrowing bullet_) or _ [symbol of stunning](spells/symbolOfStunning#_symbol-of-stunning)_ (_greater burrowing bullet_)
 
 Cold Iron Masterwork Longsword
 
-**Price** 330 gp; **Aura** no aura (nonmagical; **CL** —; **Weight** 4 lbs.
+**Price** 330 gp; **Aura** no aura (nonmagical); **CL** —; **Weight** 4 lbs.
 
 This nonmagical longsword is crafted out of cold iron. As a masterwork weapon, it has a +1 enhancement bonus on attack rolls.
 
@@ -287,19 +287,19 @@ Cutthroat's Apprentice
 
 **Price** 33,910 gp; **Aura** strong transmutation; **CL** 15th; **Weight** 2 lbs.
 
-This simply made _+1 [dancing](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_dancing) shortsword_ leaps to hand at the slightest touch. It can be drawn as a free action as though using the [Quick Draw](feats#_quick-draw) feat. The _cutthroat's apprentice_ dances for 8 rounds instead of 4 when activated, but can only dance twice per day. When dancing and attacking a creature, it moves into the target's space and provides the person who activated it (but no other creatures with flanking during his turn if he attacks the same target in melee. Once the sword's activator completes his turn, the sword moves back to her space. If directed to attack multiple creatures in the same turn, the _cutthroat's apprentice_ provides a flank against only the last creature attacked.
+This simply made _+1 [dancing](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_dancing) shortsword_ leaps to hand at the slightest touch. It can be drawn as a free action as though using the [Quick Draw](feats#_quick-draw) feat. The _cutthroat's apprentice_ dances for 8 rounds instead of 4 when activated, but can only dance twice per day. When dancing and attacking a creature, it moves into the target's space and provides the person who activated it (but no other creatures) with flanking during his turn if he attacks the same target in melee. Once the sword's activator completes his turn, the sword moves back to her space. If directed to attack multiple creatures in the same turn, the _cutthroat's apprentice_ provides a flank against only the last creature attacked.
 
 Construction Requirements
 
 **Cost** 17,110 gp
 
-Craft Magic Arms and Armor, _ [animate objects](spell_dir/animateObjects#_animate-objects_, _ [unwitting ally](advanced/spell_dir/unwittingAlly#_unwitting-ally)_
+Craft Magic Arms and Armor, _ [animate objects](spells/animateObjects#_animate-objects)_, _ [unwitting ally](advance_dir/spells/unwittingAlly#_unwitting-ally)_
 
 Dagger of Doubling
 
 **Price** 10,302 gp; **Aura** faint conjuration; **CL** 5th; **Weight** 1 lb.
 
-A wielder with a free hand can split this _+1 dagger_ into two identical _+1 daggers_ as a swift action, or a free action if she has the [Quick Draw](feats#_quick-draw feat. The doubled daggers can't be split again. If either dagger is thrown while doubled, the hurled dagger vanishes after resolving the attack and the remaining dagger can be split again. If the wielder drops a doubled dagger or it otherwise leaves her person, it vanishes. If both daggers leave the wielder's hands at the same time, determine randomly which dagger vanishes.
+A wielder with a free hand can split this _+1 dagger_ into two identical _+1 daggers_ as a swift action, or a free action if she has the [Quick Draw](feats#_quick-draw) feat. The doubled daggers can't be split again. If either dagger is thrown while doubled, the hurled dagger vanishes after resolving the attack and the remaining dagger can be split again. If the wielder drops a doubled dagger or it otherwise leaves her person, it vanishes. If both daggers leave the wielder's hands at the same time, determine randomly which dagger vanishes.
 
 Spells or effects placed on a _dagger of doubling_ don't duplicate when the dagger is split. Any active effects on a dagger end when it vanishes. Destroying one of the doubled daggers just causes the duplicate to disappear, but any damage to a single _dagger of doubling_ remains on both daggers when it doubles.
 
@@ -307,79 +307,79 @@ Construction Requirements
 
 **Cost** 5,302 gp
 
-Craft Magic Arms and Armor, _ [shadow weapon](ultimateMagic/spell_dir/shadowWeapon#_shadow-weapon_
+Craft Magic Arms and Armor, _ [shadow weapon](ultimateMagi_dir/spells/shadowWeapon#_shadow-weapon)_
 
 Dagger of Venom
 
 **Price** 8,302 gp; **Aura** faint necromancy; **CL** 5th; **Weight** 1 lb.
 
-This black _+1 dagger _has a serrated edge. It allows the wielder to use a _ [poison](spell_dir/poison#_poison)_ effect (as the spell, save DC 14 upon a creature struck by the blade once per day. The wielder can decide to use the power after he has struck. Doing so is a free action, but the poison effect must be invoked in the same round that the dagger strikes.
+This black _+1 dagger _has a serrated edge. It allows the wielder to use a _ [poison](spell_dir/poison#_poison)_ effect (as the spell, save DC 14) upon a creature struck by the blade once per day. The wielder can decide to use the power after he has struck. Doing so is a free action, but the poison effect must be invoked in the same round that the dagger strikes.
 
 Construction Requirements
 
 **Cost** 4,302 gp
 
-Craft Magic Arms and Armor, _ [poison](spell_dir/poison#_poison_
+Craft Magic Arms and Armor, _ [poison](spells/poison#_poison)_
 
 Demonsorrow Curve Blade
 
 **Price** 90,469 gp; **Aura** strong evocation and necromancy; **CL** 14th; **Weight** 7 lbs.
 
-This blade's hilt is shaped as a beautiful angel with elven features. Elaborately detailed feathered wings spread from the hilt to form the guard, with the angel's face at the base of the blade. This _+3 cold iron [holy](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_holy demon [bane](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane elven curve blade_ hinders those it was created to destroy. It bars all creatures with the demon subtype that are within 60 feet of the wielder from teleporting, as if they were under the effect of a _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional)_ spell (no saving throw.
+This blade's hilt is shaped as a beautiful angel with elven features. Elaborately detailed feathered wings spread from the hilt to form the guard, with the angel's face at the base of the blade. This _+3 cold iron [holy](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_holy) demon [bane](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane) elven curve blade_ hinders those it was created to destroy. It bars all creatures with the demon subtype that are within 60 feet of the wielder from teleporting, as if they were under the effect of a _ [dimensional anchor](spells/dimensionalAnchor#_dimensional)_ spell (no saving throw).
 
 Construction Requirements
 
 **Cost** 46,460 gp
 
-Craft Magic Arms and Armor, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional, [holy smite](spell_dir/holySmite#_holy-smite, [summon monster I](spell_dir/summonMonster#_summon-monster-i_
+Craft Magic Arms and Armor, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional), [holy smite](spells/holySmite#_holy-smite), [summon monster I](spell_dir/summonMonster#_summon-monster-i)_
 
 Disarming Blade
 
 **Price** 17,820 gp; **Aura** faint transmutation; **CL** 5th; **Weight** 2 lbs.
 
-This _+1 [dueling](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_dueling rapier_ ends duels quickly and decisively by depriving the wielder's opponent of her weapon. Following a successful disarm attempt with the weapon, the wielder can move the disarmed weapon 5 feet in any direction as a swift action.
+This _+1 [dueling](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_dueling) rapier_ ends duels quickly and decisively by depriving the wielder's opponent of her weapon. Following a successful disarm attempt with the weapon, the wielder can move the disarmed weapon 5 feet in any direction as a swift action.
 
 Construction Requirements
 
 **Cost** 9,070 gp
 
-Craft Magic Arms and Armor, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, _ [mage hand](spell_dir/mageHand#_mage-hand_
+Craft Magic Arms and Armor, _ [cat's grace](spells/catSGrace#_cat-s-grace)_, _ [mage hand](spell_dir/mageHand#_mage-hand)_
 
 Dragoncatch Guisarme
 
 **Price** 13,308 gp; **Aura** moderate conjuration; **CL** 8th; **Weight** 5 lbs.
 
-This _+1 dragon [bane](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane guisarme _is has a shaft wound tightly with dragonhide. A _dragoncatch guisarme _can be used to make a special trip maneuver against creatures using wings to fly. If the maneuver succeeds, the target's wings are fouled and the creature is knocked off balance, falling to the ground and gaining the entangled condition. A creature tripped in this way can attempt a DC 15 [Fly](skill_dir/fly#_fly check as a move action to remove the entangled condition.
+This _+1 dragon [bane](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane) guisarme _is has a shaft wound tightly with dragonhide. A _dragoncatch guisarme _can be used to make a special trip maneuver against creatures using wings to fly. If the maneuver succeeds, the target's wings are fouled and the creature is knocked off balance, falling to the ground and gaining the entangled condition. A creature tripped in this way can attempt a DC 15 [Fly](skills/fly#_fly) check as a move action to remove the entangled condition.
 
 Construction Requirements
 
 **Cost** 6,808 gp
 
-Craft Magic Arms and Armor, _ [black tentacles](spell_dir/blackTentacles#_black-tentacles, [summon monster I](spell_dir/summonMonster#_summon-monster-i_
+Craft Magic Arms and Armor, _ [black tentacles](spell_dir/blackTentacles#_black-tentacles), [summon monster I](spells/summonMonster#_summon-monster-i)_
 
 Dragon's Doom
 
 **Price** 40,310 gp; **Aura** moderate divination and evocation; **CL** 8th; **Weight** 12 lbs.
 
-This polearm's axe blade is shaped like a snarling dragon, its maw stretched wide as it closes for the killing blow. The haft is engraved with the circling image of a dragon in flight. The head of this _+2 dragon [bane](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane halberd_ glows when a creature of the dragon type is within 100 feet of the weapon. Three times per day, when the halberd hits a dragon, the wielder can have that attack ignore the dragon's DR as a free action.
+This polearm's axe blade is shaped like a snarling dragon, its maw stretched wide as it closes for the killing blow. The haft is engraved with the circling image of a dragon in flight. The head of this _+2 dragon [bane](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane) halberd_ glows when a creature of the dragon type is within 100 feet of the weapon. Three times per day, when the halberd hits a dragon, the wielder can have that attack ignore the dragon's DR as a free action.
 
 Construction Requirements
 
 **Cost** 20,310 gp
 
-Craft Magic Arms and Armor, _ [discern location](spell_dir/discernLocation#_discern-location_, _light_, _ [summon monster I](spell_dir/summonMonster#_summon-monster-i_
+Craft Magic Arms and Armor, _ [discern location](spells/discernLocation#_discern-location)_, _light_, _ [summon monster I](spell_dir/summonMonster#_summon-monster-i)_
 
 Dust Bolt
 
 **Price** 1,730 gp; **Aura** faint transmutation; **CL** 5th; **Weight** 1/10 lb.
 
-This barbed _+1 outsider (water) [bane](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane bolt _is etched with runes of thirst and desiccation. Any living creature struck by a _dust bolt _begins dying of thirst, as the spell _ [cup of dust](advanced/spell_dir/cupOfDust#_cup-of-dust) _(DC 14 Fortitude negates. Creatures with the aquatic or water subtype save with a –4 penalty, and on a failed save they are also sickened and staggered for 1 round.
+This barbed _+1 outsider (water) [bane](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane) bolt _is etched with runes of thirst and desiccation. Any living creature struck by a _dust bolt _begins dying of thirst, as the spell _ [cup of dust](advanced/spell_dir/cupOfDust#_cup-of-dust) _(DC 14 Fortitude negates). Creatures with the aquatic or water subtype save with a –4 penalty, and on a failed save they are also sickened and staggered for 1 round.
 
 Construction Requirements
 
 **Cost** 880 gp
 
-Craft Magic Arms and Armor, _ [cup of dust](advanced/spell_dir/cupOfDust#_cup-of-dust , [summon monster I](spell_dir/summonMonster#_summon-monster-i_
+Craft Magic Arms and Armor, _ [cup of dust](advanced/spell_dir/cupOfDust#_cup-of-dust) , [summon monster I](spells/summonMonster#_summon-monster-i)_
 
 Dustburst Bullet
 
@@ -391,13 +391,13 @@ Construction Requirements
 
 **Cost** 98 gp
 
-Craft Magic Arms and Armor, _ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud_
+Craft Magic Arms and Armor, _ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud)_
 
 Dwarfbond hammer
 
 **Price** 25,312 gp; **Aura** moderate evocation; **CL** 7th; **Weight** 5 lbs.
 
-In the hands of a dwarf, this _+1 warhammer_ functions as a _+2 [returning](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_returning) warhammer_. It can be hurled with a 20-foot range increment. When hurled, a _dwarfbond hammer_ deals an extra 1d8 points of damage against creatures of the giant subtype.
+In the hands of a dwarf, this _+1 warhammer_ functions as a _+2 [returning](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_returning) warhammer_. It can be hurled with a 20-foot range increment. When hurled, a _dwarfbond hammer_ deals an extra 1d8 points of damage against creatures of the giant subtype.
 
 Construction Requirements
 
@@ -409,7 +409,7 @@ Dwarven Thrower
 
 **Price** 60,312 gp; **Aura** moderate evocation; **CL** 10th; **Weight** 5 lbs.
 
-This weapon functions as a _+2 warhammer_ in the hands of most users. Yet in the hands of a dwarf, the warhammer gains an additional +1 enhancement bonus (for a total enhancement bonus of +3 and gains the _ [returning](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_returning)_ special ability. It can be hurled with a 30-foot range increment. When hurled, a dwarven thrower deals an extra 2d8 points of damage against creatures of the giant subtype or an extra 1d8 points of damage against any other target.
+This weapon functions as a _+2 warhammer_ in the hands of most users. Yet in the hands of a dwarf, the warhammer gains an additional +1 enhancement bonus (for a total enhancement bonus of +3) and gains the _ [returning](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_returning)_ special ability. It can be hurled with a 30-foot range increment. When hurled, a dwarven thrower deals an extra 2d8 points of damage against creatures of the giant subtype or an extra 1d8 points of damage against any other target.
 
 Construction Requirements
 
@@ -421,13 +421,13 @@ Earthenflail
 
 **Price** 11,315 gp; **Aura** strong evocation and transmutation; **CL** 13th; **Weight** 10 lbs.
 
-This roughly hewn wooden haft is lashed with gut and rope to a hefty boulder. This _+1 shattering heavy flail _can strike devastating blows against objects. As a swift action, however, the wielder can suppress its _shattering_ property until the beginning of his next turn, allowing the head to phase through earth and stone. This allows the wielder to ignore cover or partial cover (but not total cover provided by objects or structures made of earth or stone; however, while suppressed, an _earthenflail _cannot harm objects made of these materials. Cover provided by other sources is unaffected.
+This roughly hewn wooden haft is lashed with gut and rope to a hefty boulder. This _+1 shattering heavy flail _can strike devastating blows against objects. As a swift action, however, the wielder can suppress its _shattering_ property until the beginning of his next turn, allowing the head to phase through earth and stone. This allows the wielder to ignore cover or partial cover (but not total cover) provided by objects or structures made of earth or stone; however, while suppressed, an _earthenflail _cannot harm objects made of these materials. Cover provided by other sources is unaffected.
 
 Construction Requirements
 
 **Cost** 5,815 gp
 
-Craft Magic Arms and Armor, _ [phase door](spell_dir/phaseDoor#_phase-door, [shatter](spell_dir/shatter#_shatter_
+Craft Magic Arms and Armor, _ [phase door](spells/phaseDoor#_phase-door), [shatter](spell_dir/shatter#_shatter)_
 
 Everflowing Aspergillum
 
@@ -439,131 +439,131 @@ Construction Requirements
 
 **Cost** 3,905 gp
 
-Craft Magic Arms and Armor, _ [bless water](spell_dir/blessWater#_bless-water_, _ [create water](spell_dir/createWater#_create-water)_
+Craft Magic Arms and Armor, _ [bless water](spells/blessWater#_bless-water)_, _ [create water](spell_dir/createWater#_create-water)_
 
 Fighter's Fork
 
 **Price** 7,315 gp; **Aura** faint transmutation; **CL** 3rd; **Weight** 4 lbs.
 
-This steel-tined _+1 trident _can be commanded to lengthen or shorten its haft (or return to its normal length as a swift action. It is a two-handed reach weapon when extended but cannot be thrown. If shortened, it can be wielded as a light weapon or hurled as a javelin. Feats or class abilities that apply to tridents apply to a _fighter's fork _in any form.
+This steel-tined _+1 trident _can be commanded to lengthen or shorten its haft (or return to its normal length) as a swift action. It is a two-handed reach weapon when extended but cannot be thrown. If shortened, it can be wielded as a light weapon or hurled as a javelin. Feats or class abilities that apply to tridents apply to a _fighter's fork _in any form.
 
 Construction Requirements
 
 **Cost** 3,815 gp
 
-Craft Magic Arms and Armor, _ [shrink item](spell_dir/shrinkItem#_shrink-item_
+Craft Magic Arms and Armor, _ [shrink item](spells/shrinkItem#_shrink-item)_
 
 Firedrake Pistol
 
 **Price** 20,300 gp; **Aura** faint evocation; **CL** 5th; **Weight** 4 lbs.
 
-This hefty _+1 [flaming](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_flaming pistol _is elaborately carved with its barrel in the semblance of a roaring dragon and its grip wrapped in polished red dragonhide. When firing ordinary ammunition, the wielder may choose to have the _firedrake pistol _deal all of its damage as fire damage instead of normal damage. In addition, as a standard action the wielder may expend 1 unit of ammunition and create a cone of fire equivalent to _ [burning hands](spell_dir/burningHands#_burning-hands _rather than resolving that shot as a normal attack.
+This hefty _+1 [flaming](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_flaming) pistol _is elaborately carved with its barrel in the semblance of a roaring dragon and its grip wrapped in polished red dragonhide. When firing ordinary ammunition, the wielder may choose to have the _firedrake pistol _deal all of its damage as fire damage instead of normal damage. In addition, as a standard action the wielder may expend 1 unit of ammunition and create a cone of fire equivalent to _ [burning hands](spells/burningHands#_burning-hands) _rather than resolving that shot as a normal attack.
 
 Construction Requirements
 
 **Cost** 10,800 gp
 
-Craft Magic Arms and Armor, _ [burning hands](spell_dir/burningHands#_burning-hands, [fireball](spell_dir/fireball#_fireball_
+Craft Magic Arms and Armor, _ [burning hands](spell_dir/burningHands#_burning-hands), [fireball](spells/fireball#_fireball)_
 
 Flame Tongue
 
 **Price** 20,715 gp; **Aura** strong evocation; **CL** 12th; **Weight** 4 lbs.
 
-This is a _+1 [flaming burst](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_flaming-burst longsword_. Once per day, the sword can blast forth a fiery ray at any target within 30 feet as a ranged touch attack. The ray deals 4d6 points of fire damage on a successful hit.
+This is a _+1 [flaming burst](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_flaming-burst) longsword_. Once per day, the sword can blast forth a fiery ray at any target within 30 feet as a ranged touch attack. The ray deals 4d6 points of fire damage on a successful hit.
 
 Construction Requirements
 
 **Cost** 10,515 gp
 
-Craft Magic Arms and Armor, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_ and _ [fireball](spell_dir/fireball#_fireball_, _ [flame blade](spell_dir/flameBlade#_flame-blade_, or _ [flame strike](spell_dir/flameStrike#_flame-strike_
+Craft Magic Arms and Armor, _ [scorching ray](spells/scorchingRay#_scorching-ray)_ and _ [fireball](spell_dir/fireball#_fireball)_, _ [flame blade](spells/flameBlade#_flame-blade)_, or _ [flame strike](spell_dir/flameStrike#_flame-strike)_
 
 Frost Brand
 
 **Price** 54,475 gp; **Aura** strong evocation; **CL** 14th; **Weight** 8 lbs.
 
-This _+3 [frost](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_frost) greatsword_ sheds light as a torch when the temperature drops below 0° F. At such times it cannot be concealed when drawn, nor can its light be shut off. Its wielder is protected from fire; the sword absorbs the first 10 points of fire damage each round that the wielder would otherwise take.
+This _+3 [frost](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_frost) greatsword_ sheds light as a torch when the temperature drops below 0° F. At such times it cannot be concealed when drawn, nor can its light be shut off. Its wielder is protected from fire; the sword absorbs the first 10 points of fire damage each round that the wielder would otherwise take.
 
-A _frost brand_ extinguishes all nonmagical fires in a 20-foot radius. As a standard action, it can also dispel lasting fire spells, but not instantaneous effects. You must succeed at a dispel check (1d20 +14 against each spell to dispel it. The DC to dispel such spells is 11 + the caster level of the fire spell.
+A _frost brand_ extinguishes all nonmagical fires in a 20-foot radius. As a standard action, it can also dispel lasting fire spells, but not instantaneous effects. You must succeed at a dispel check (1d20 +14) against each spell to dispel it. The DC to dispel such spells is 11 + the caster level of the fire spell.
 
 Construction Requirements
 
 **Cost** 27,375 gp
 
-Craft Magic Arms and Armor, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [ice storm](spell_dir/iceStorm#_ice-storm_, _ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy_
+Craft Magic Arms and Armor, _ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [ice storm](spell_dir/iceStorm#_ice-storm)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_
 
 Frostbite Sling
 
 **Price** 9,380 gp; **Aura** moderate evocation; **CL** 6th; **Weight** —
 
-This _+1 [frost](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_frost sling _is crafted of blue-dyed leather. In lieu of adding cold damage to normal ammunition, three times per day wielder may create and hurl a magical snowball with the sling instead. This ranged touch attack has a maximum range of 40 feet, deals 1d6+6 points of nonlethal cold damage, and leaves the target fatigued. The fatigued condition ends when the target recovers from the nonlethal damage. This effect cannot make the target exhausted even if it is already fatigued.
+This _+1 [frost](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_frost) sling _is crafted of blue-dyed leather. In lieu of adding cold damage to normal ammunition, three times per day wielder may create and hurl a magical snowball with the sling instead. This ranged touch attack has a maximum range of 40 feet, deals 1d6+6 points of nonlethal cold damage, and leaves the target fatigued. The fatigued condition ends when the target recovers from the nonlethal damage. This effect cannot make the target exhausted even if it is already fatigued.
 
 Construction Requirements
 
 **Cost** 4,840 gp
 
-Craft Magic Arms and Armor, _ [frostbite](ultimateMagic/spell_dir/frostbite#_frostbite_
+Craft Magic Arms and Armor, _ [frostbite](ultimateMagic/spell_dir/frostbite#_frostbite)_
 
 Ghoul's Lament
 
 **Price** 35,312 gp; **Aura** moderate evocation; **CL** 11th; **Weight** 5 lbs.
 
-This massive _+1 [ghost touch](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_ghost-touch disrupting warhammer_ is crafted from a single piece of metal. It surface has no blemishes or distinguishing marks, and its haft is wrapped in dry, leathery, ancient skin. Three times per day as a free action, when used to strike an undead creature, that creature must succeed at a DC 20 Fortitude save or be knocked prone.
+This massive _+1 [ghost touch](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_ghost-touch) disrupting warhammer_ is crafted from a single piece of metal. It surface has no blemishes or distinguishing marks, and its haft is wrapped in dry, leathery, ancient skin. Three times per day as a free action, when used to strike an undead creature, that creature must succeed at a DC 20 Fortitude save or be knocked prone.
 
 Construction Requirements
 
 **Cost** 17,812 gp
 
-Craft Magic Arms and Armor,_ [heal](spell_dir/heal#_heal_, _ [plane shift](spell_dir/planeShift#_plane-shift_
+Craft Magic Arms and Armor,_ [heal](spells/heal#_heal)_, _ [plane shift](spell_dir/planeShift#_plane-shift)_
 
 Gloom Blade
 
 **Price** 8,810 gp; **Aura** strong evocation; **CL** 13th; **Weight** 2 lbs.
 
-As black as coal, this short sword grows more potent the farther it is kept from light. It acts as a _+1 short sword _when in dim light. In darkness, it acts as _+2 short sword_. When surrounded by supernatural darkness, such as in an area of _ [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness)_, it acts a _+2 short sword_ and bestows the benefit of the [Blind-Fight](feats#_blind-fight feat on its wielder. In daylight or bright illumination, the sword temporarily loses all its magical enhancement bonuses and acts as a masterwork weapon, though it resumes its magical functions once it is no longer in the bright light.
+As black as coal, this short sword grows more potent the farther it is kept from light. It acts as a _+1 short sword _when in dim light. In darkness, it acts as _+2 short sword_. When surrounded by supernatural darkness, such as in an area of _ [deeper darkness](spells/deeperDarkness#_deeper-darkness)_, it acts a _+2 short sword_ and bestows the benefit of the [Blind-Fight](feats#_blind-fight) feat on its wielder. In daylight or bright illumination, the sword temporarily loses all its magical enhancement bonuses and acts as a masterwork weapon, though it resumes its magical functions once it is no longer in the bright light.
 
 Construction Requirements
 
 **Cost** 4,560 gp
 
-Craft Magic Arms and Armor, _ [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness_
+Craft Magic Arms and Armor, _ [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness)_
 
 Guarding Blade
 
 **Price** 65,310 gp; **Aura** moderate transmutation; **CL** 15th; **Weight** 2 lbs.
 
-This _+1 [dancing](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_dancing short sword_ automatically rises up to defend a fallen or sleeping wielder. To activate the sword, the wielder must fall unconscious or die while wielding the weapon or holding it in her hand. Thereafter, should any creature other than an ally of the wielder attempt to touch or strike him with a melee attack, the sword attacks that creature for up to 4 rounds. After 4 rounds, the weapon drops in the wielder's square. Unless the _guarding blade_ is an intelligent item, it lacks the wits to make decisions about which is the best opponent to attack, and when confronted by multiple opponents attacking the wielder, it tends to select a random target each round.
+This _+1 [dancing](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_dancing) short sword_ automatically rises up to defend a fallen or sleeping wielder. To activate the sword, the wielder must fall unconscious or die while wielding the weapon or holding it in her hand. Thereafter, should any creature other than an ally of the wielder attempt to touch or strike him with a melee attack, the sword attacks that creature for up to 4 rounds. After 4 rounds, the weapon drops in the wielder's square. Unless the _guarding blade_ is an intelligent item, it lacks the wits to make decisions about which is the best opponent to attack, and when confronted by multiple opponents attacking the wielder, it tends to select a random target each round.
 
 Construction Requirements
 
 **Cost** 32,810 gp
 
-Craft Magic Arms and Armor, _ [animate objects](spell_dir/animateObjects#_animate-objects_, _ [mage's faithful hound](spell_dir/mageSFaithfulHound#_mage-s-faithful-hound_
+Craft Magic Arms and Armor, _ [animate objects](spells/animateObjects#_animate-objects)_, _ [mage's faithful hound](spell_dir/mageSFaithfulHound#_mage-s-faithful-hound)_
 
 Heartswood Spear
 
 **Price** 50,302 gp; **Aura** strong conjuration; **CL** 14th; **Weight** 6 lbs.
 
-This humble weapon appears to be little more than a crudely sharpened stake or makeshift spear, but in truth it is a far more formidable weapon. In addition to being a _+2 undead [bane](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane spear_, a _heartswood spear_ deals bludgeoning damage when it is swung as a staff. When employed in such a manner, it also possesses the _disruption_ property.
+This humble weapon appears to be little more than a crudely sharpened stake or makeshift spear, but in truth it is a far more formidable weapon. In addition to being a _+2 undead [bane](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane) spear_, a _heartswood spear_ deals bludgeoning damage when it is swung as a staff. When employed in such a manner, it also possesses the _disruption_ property.
 
 Construction Requirements
 
 **Cost** 25,302 gp
 
-Craft Magic Arms and Armor, _ [heal](spell_dir/heal#_heal_, _summon monster_
+Craft Magic Arms and Armor, _ [heal](spells/heal#_heal)_, _summon monster_
 
 Hellscourge
 
 **Price** 39,305 gp; **Aura** moderate necromancy; **CL** 7th; **Weight** 3 lbs.
 
-This _+1 [unholy](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_unholy) scorpion whip_ (_Ultimate Combat_ 144 is fashioned from skin flayed from a barbed devil's back. It grants its wielder a +5 competence bonus on [Intimidate](skill_dir/intimidate#_intimidate checks. A shaken creature struck by the _hellscourge_ must succeed at a DC 17 Will save or become frightened for 1 round. A frightened or panicked creature struck must instead save or cower for 1d4 rounds. Both of these are mind-affecting fear effects.
+This _+1 [unholy](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_unholy) scorpion whip_ (_Ultimate Combat_ 144) is fashioned from skin flayed from a barbed devil's back. It grants its wielder a +5 competence bonus on [Intimidate](skills/intimidate#_intimidate) checks. A shaken creature struck by the _hellscourge_ must succeed at a DC 17 Will save or become frightened for 1 round. A frightened or panicked creature struck must instead save or cower for 1d4 rounds. Both of these are mind-affecting fear effects.
 
-If wielded by a person who wears _hamatula hide_ armor, the _hellscourge_ functions as a _+1 [flaming](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_flaming [unholy](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_unholy whip_. Such a wielder can lash the whip once per day to hurl flames as a _ [scorching ray](spell_dir/scorchingRay#_scorching-ray)_ (creating two rays; doing so extinguishes the whip's flames until the next day.
+If wielded by a person who wears _hamatula hide_ armor, the _hellscourge_ functions as a _+1 [flaming](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_flaming) [unholy](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_unholy) whip_. Such a wielder can lash the whip once per day to hurl flames as a _ [scorching ray](spells/scorchingRay#_scorching-ray)_ (creating two rays); doing so extinguishes the whip's flames until the next day.
 
 Construction Requirements
 
 **Cost** 19,805 gp
 
-Craft Magic Arms and Armor, _ [fear](spell_dir/fear#_fear_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_, _ [unholy blight](spell_dir/unholyBlight#_unholy-blight_
+Craft Magic Arms and Armor, _ [fear](spell_dir/fear#_fear)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [unholy blight](spell_dir/unholyBlight#_unholy-blight)_
 
 Holy Avenger
 
@@ -571,25 +571,25 @@ Holy Avenger
 
 This +2 cold iron longsword becomes a +5 holy cold iron longsword in the hands of a paladin.
 
-When wielded by a paladin, this sacred weapon provides spell resistance of 5 + the paladin's class level to the wielder and anyone adjacent to her. It also enables the paladin to use _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater)_ (once per round as a standard action at the class level of the paladin. Only the area dispel is possible, not the targeted dispel or counterspell versions of greater dispel magic.
+When wielded by a paladin, this sacred weapon provides spell resistance of 5 + the paladin's class level to the wielder and anyone adjacent to her. It also enables the paladin to use _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_ (once per round as a standard action) at the class level of the paladin. Only the area dispel is possible, not the targeted dispel or counterspell versions of greater dispel magic.
 
 Construction Requirements
 
 **Cost** 60,630 gp
 
-Craft Magic Arms and Armor, _ [holy aura](spell_dir/holyAura#_holy-aura_, creator must be good
+Craft Magic Arms and Armor, _ [holy aura](spell_dir/holyAura#_holy-aura)_, creator must be good
 
 Hurricane Quarterstaff
 
 **Price** 7,840 gp; **Aura** faint evocation; **CL** 3rd; **Weight** 4 lbs.
 
-This _+1/+1 quarterstaff _is hollow, drilled through with numerous tiny holes, and whistles when swung and spun. Once per day as a standard action, the wielder may spin the _hurricane quarterstaff _and create a _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind)_ (DC 13 Fortitude negates. A monk or ninja wielding a _hurricane quarterstaff _can also spend 1 _ki _point to activate the staff's _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind _power; the save DC when activating this power with _ki _is equal to 12 + the wielder's Wisdom modifier.
+This _+1/+1 quarterstaff _is hollow, drilled through with numerous tiny holes, and whistles when swung and spun. Once per day as a standard action, the wielder may spin the _hurricane quarterstaff _and create a _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind)_ (DC 13 Fortitude negates). A monk or ninja wielding a _hurricane quarterstaff _can also spend 1 _ki _point to activate the staff's _ [gust of wind](spells/gustOfWind#_gust-of-wind) _power; the save DC when activating this power with _ki _is equal to 12 + the wielder's Wisdom modifier.
 
 Construction Requirements
 
 **Cost** 4,220 gp
 
-Craft Magic Arms and Armor, _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind_
+Craft Magic Arms and Armor, _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind)_
 
 Hushing Arrow
 
@@ -597,7 +597,7 @@ Hushing Arrow
 
 **Hushing arrow** 547 gp; **Greater hushing arrow** 1,047 gp
 
-This _+1 arrow_ makes no sound on release or as it flies through the air. A creature struck by a _hushing arrow_ must succeed at a DC 13 Will save or be affected by _ [silence](spell_dir/silence#_silence)_ (as the spell for 5 rounds. The _ [silence](spell_dir/silence#_silence_ effect is not triggered by arrows that miss or those that strike an inanimate object.
+This _+1 arrow_ makes no sound on release or as it flies through the air. A creature struck by a _hushing arrow_ must succeed at a DC 13 Will save or be affected by _ [silence](spell_dir/silence#_silence)_ (as the spell) for 5 rounds. The _ [silence](spells/silence#_silence)_ effect is not triggered by arrows that miss or those that strike an inanimate object.
 
 A _greater hushing arrow_ functions just like a normal _hushing arrow_, except the target must succeed at a DC 16 Will save to avoid being silenced. _Hushing bolts_ and _greater hushing bolts_ can also be made; they share the same statistics as _hushing arrows_ and _greater hushing arrows_, except they weigh 1/10 of a pound per bolt.
 
@@ -607,13 +607,13 @@ Construction Requirements
 
 **Hushing arrow** 277 gp; **Greater hushing arrow** 527 gp
 
-Craft Magic Arms and Armor, [Heighten Spell](feats#_heighten-spell) (_greater hushing arrow_ only), _ [silence](spell_dir/silence#_silence_
+Craft Magic Arms and Armor, [Heighten Spell](feats#_heighten-spell) (_greater hushing arrow_ only), _ [silence](spell_dir/silence#_silence)_
 
 Javelin of Lightning
 
 **Price** 1,500 gp; **Aura** faint evocation; **CL** 5th; **Weight** 2 lbs.
 
-This javelin becomes a 5d6 _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt)_ when thrown (Reflex DC 14 half. It is consumed in the attack.
+This javelin becomes a 5d6 _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_ when thrown (Reflex DC 14 half). It is consumed in the attack.
 
 Construction Requirements
 
@@ -625,25 +625,25 @@ Lance of Jousting
 
 **Price** 4,310 gp; **Aura** faint evocation; **CL** 5th; **Weight** 10 lbs.
 
-This ornately designed _+1 lance_, decorated with ribbons and small favors, allows its wielder to more effectively knock an opponent from his mount. A successful hit with a _lance of jousting_ on a mounted opponent forces the target to make a [Ride](skill_dir/ride#_ride) check (DC 10 + damage dealt to avoid being knocked from the saddle. Although this lance is used in combat to remove a mounted foe's advantage, use of one in a tournament or similar contest is generally considered a dishonorable form of cheating.
+This ornately designed _+1 lance_, decorated with ribbons and small favors, allows its wielder to more effectively knock an opponent from his mount. A successful hit with a _lance of jousting_ on a mounted opponent forces the target to make a [Ride](skill_dir/ride#_ride) check (DC 10 + damage dealt) to avoid being knocked from the saddle. Although this lance is used in combat to remove a mounted foe's advantage, use of one in a tournament or similar contest is generally considered a dishonorable form of cheating.
 
 Construction Requirements
 
 **Cost** 2,105 gp
 
-Craft Magic Arms and Armor, _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_
+Craft Magic Arms and Armor, _ [bull's strength](spells/bullSStrength#_bull-s-strength)_
 
 Lash of the Howler
 
 **Price** 18,305 gp; **Aura** moderate necromancy; **CL** 9th; **Weight** 3 lbs.
 
-The _lash of the howler_ is a _+1 [vicious](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_vicious scorpion whip_ tipped with quills torn from a howler's mane. Each time a creature takes damage from the _lash of the howler_, it must succeed at a DC 14 Reflex save or a quill breaks off and lodges in its flesh. The whip instantly sprouts a new quill to replace the one lost. The quill leaves the target sickened until it is removed. Removing a single quill from a creature requires a DC 15 [Heal](skill_dir/heal#_heal check made as a full-round action. For every 5 by which the check is exceeded, one additional quill can be removed. On a failed check, a quill is still removed but the process deals 1d4+1 points of damage to the victim.
+The _lash of the howler_ is a _+1 [vicious](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_vicious) scorpion whip_ tipped with quills torn from a howler's mane. Each time a creature takes damage from the _lash of the howler_, it must succeed at a DC 14 Reflex save or a quill breaks off and lodges in its flesh. The whip instantly sprouts a new quill to replace the one lost. The quill leaves the target sickened until it is removed. Removing a single quill from a creature requires a DC 15 [Heal](skills/heal#_heal) check made as a full-round action. For every 5 by which the check is exceeded, one additional quill can be removed. On a failed check, a quill is still removed but the process deals 1d4+1 points of damage to the victim.
 
 Construction Requirements
 
 **Cost** 9,305 gp
 
-Craft Magic Arms and Armor, _ [enervation](spell_dir/enervation#_enervation_,_ [ray of sickening](ultimateMagic/spell_dir/rayOfSickening#_ray-of-sickening_
+Craft Magic Arms and Armor, _ [enervation](spell_dir/enervation#_enervation)_,_ [ray of sickening](ultimateMagic/spell_dir/rayOfSickening#_ray-of-sickening)_
 
 Life-Drinker
 
@@ -657,7 +657,7 @@ Construction Requirements
 
 **Cost** 20,320 gp
 
-Craft Magic Arms and Armor, _ [enervation](spell_dir/enervation#_enervation)_
+Craft Magic Arms and Armor, _ [enervation](spells/enervation#_enervation)_
 
 Luck Blade
 
@@ -665,15 +665,15 @@ Luck Blade
 
 **Luck blade (0 wishes)** 22,060 gp; **Luck blade (1 wish)** 62,360 gp; **Luck blade (2 wishes)** 102,660 gp; **Luck blade (4 wishes)** 142,960 gp
 
-This _+2 short sword_ gives its possessor a +1 luck bonus on all saving throws. Its possessor also gains the power of good fortune, usable once per day. This extraordinary ability allows its possessor to reroll one roll that she just made, before the results are revealed. She must take the result of the reroll, even if it's worse than the original roll. In addition, a luck blade may contain up to three _wishes_ (when randomly rolled, a luck blade holds 1d4–1 _wishes_, minimum 0. When the last _ [wish](spell_dir/wish#_wish)_ is used, the sword remains a _+2 short sword_, still grants the +1 luck bonus, and still grants its reroll power.
+This _+2 short sword_ gives its possessor a +1 luck bonus on all saving throws. Its possessor also gains the power of good fortune, usable once per day. This extraordinary ability allows its possessor to reroll one roll that she just made, before the results are revealed. She must take the result of the reroll, even if it's worse than the original roll. In addition, a luck blade may contain up to three _wishes_ (when randomly rolled, a luck blade holds 1d4–1 _wishes_, minimum 0). When the last _ [wish](spell_dir/wish#_wish)_ is used, the sword remains a _+2 short sword_, still grants the +1 luck bonus, and still grants its reroll power.
 
 Construction Requirements
 
 **Cost** varies
 
-**Luck blade (0 wishes)** 11,185 gp; **Luck blade (1 wish)** 43,835 gp; **Luck blade (2 wishes)** 76,485 gp; **Luck blade (4 wishes** 109,135 gp
+**Luck blade (0 wishes)** 11,185 gp; **Luck blade (1 wish)** 43,835 gp; **Luck blade (2 wishes)** 76,485 gp; **Luck blade (4 wishes)** 109,135 gp
 
-Craft Magic Arms and Armor, _ [miracle](spell_dir/miracle#_miracle _or _ [wish](spell_dir/wish#_wish)_
+Craft Magic Arms and Armor, _ [miracle](spells/miracle#_miracle) _or _ [wish](spell_dir/wish#_wish)_
 
 Mace of Smiting
 
@@ -683,25 +683,25 @@ Mace of Smiting
 
 A _lesser mace of smiting _is a _+1 adamantine heavy mace_ with a +3 enhancement bonus against constructs. When it deals a successful critical hit to a construct, it deals ×4 damage rather than ×2. A critical hit dealt to an outsider deals ×3 damage rather than ×2.
 
-A _mace of smiting_ is a _+3 adamantine heavy mace_ has a +5 enhancement bonus against constructs. When it deals a successful critical hit to a construct, it completely destroys the construct (no saving throw. A critical hit dealt to an outsider deals ×4 damage rather than ×2.
+A _mace of smiting_ is a _+3 adamantine heavy mace_ has a +5 enhancement bonus against constructs. When it deals a successful critical hit to a construct, it completely destroys the construct (no saving throw). A critical hit dealt to an outsider deals ×4 damage rather than ×2.
 
 Construction Requirements
 
 **_Lesser mace of smiting_**  **Price** 9,512 gp; **_Mace of smiting_**  **Price** 39,312 gp
 
-Craft Magic Arms and Armor, _ [disintegrate](spell_dir/disintegrate#_disintegrate_
+Craft Magic Arms and Armor, _ [disintegrate](spells/disintegrate#_disintegrate)_
 
 Mace of Terror
 
 **Price** 38,552 gp; **Aura** strong necromancy; **CL** 13th; **Weight** 8 lbs.
 
-This weapon usually appears to be a particularly frightening- looking iron or steel mace. On command, this _+2 heavy mace_ causes the wielder's clothes and appearance to transform into an illusion of darkest horror, such that living creatures in a 30-foot cone become panicked as if by a _ [fear](spell_dir/fear#_fear)_ spell (Will DC 16 partial. Those who fail this save take a –2 morale penalty on saving throws, and they flee from the wielder. The wielder may use this ability up to three times per day.
+This weapon usually appears to be a particularly frightening- looking iron or steel mace. On command, this _+2 heavy mace_ causes the wielder's clothes and appearance to transform into an illusion of darkest horror, such that living creatures in a 30-foot cone become panicked as if by a _ [fear](spell_dir/fear#_fear)_ spell (Will DC 16 partial). Those who fail this save take a –2 morale penalty on saving throws, and they flee from the wielder. The wielder may use this ability up to three times per day.
 
 Construction Requirements
 
 **Cost** 19,432 gp
 
-Craft Magic Arms and Armor, _ [fear](spell_dir/fear#_fear)_
+Craft Magic Arms and Armor, _ [fear](spells/fear#_fear)_
 
 Masterwork Silver Dagger
 
@@ -713,19 +713,19 @@ Nine Lives Stealer
 
 **Price** 23,057 gp; **Aura** strong necromancy; **CL** 13th; **Weight** 4 lbs.
 
-This longsword always performs as a _+2 longsword_, but it also has the power to draw the life force from an opponent. It can do this nine times before the ability is lost. At that point, the sword becomes a simple _+2 longsword_ (with a faint evil aura. A critical hit must be dealt for the sword's death-dealing ability to function, and this ability has no effect on creatures not subject to critical hits. The victim is entitled to a DC 20 Fortitude save to avoid death. If the save is successful, the sword's death-dealing ability does not function, no use of the ability is expended, and normal critical damage is determined. This sword is evil, and any good character attempting to wield it gains two negative levels. These negative levels remain as long as the sword is in hand and disappear when the sword is no longer wielded. These negative levels never result in actual level loss, but they cannot be overcome in any way (including by _ [restoration](spell_dir/restoration#_restoration)_ spells while the sword is wielded.
+This longsword always performs as a _+2 longsword_, but it also has the power to draw the life force from an opponent. It can do this nine times before the ability is lost. At that point, the sword becomes a simple _+2 longsword_ (with a faint evil aura). A critical hit must be dealt for the sword's death-dealing ability to function, and this ability has no effect on creatures not subject to critical hits. The victim is entitled to a DC 20 Fortitude save to avoid death. If the save is successful, the sword's death-dealing ability does not function, no use of the ability is expended, and normal critical damage is determined. This sword is evil, and any good character attempting to wield it gains two negative levels. These negative levels remain as long as the sword is in hand and disappear when the sword is no longer wielded. These negative levels never result in actual level loss, but they cannot be overcome in any way (including by _ [restoration](spell_dir/restoration#_restoration)_ spells) while the sword is wielded.
 
 Construction Requirements
 
 **Cost** 11,528 gp
 
-Craft Magic Arms and Armor, _ [finger of death](spell_dir/fingerOfDeath#_finger-of-death)_
+Craft Magic Arms and Armor, _ [finger of death](spells/fingerOfDeath#_finger-of-death)_
 
 Oathbow
 
 **Price** 25,600 gp; **Aura** strong evocation; **CL** 15th; **Weight** 3 lbs.
 
-Of elven make, this white _+2 composite longbow_ (+2 Str bonus) whispers "Swift defeat to my enemies" in Elven when nocked and pulled. Once per day, if the archer swears aloud to slay her target (a free action), the bow's whisper becomes the shout "Death to those who have wronged me!" Against such a sworn enemy, the bow has a +5 enhancement bonus, and arrows launched from it deal an additional 2d6 points of damage (and ×4 on a critical hit instead of the normal ×3. After an enemy has been sworn, the bow is treated as only a masterwork weapon against all foes other than the sworn enemy, and the archer takes a –1 penalty on attack rolls with any weapon other than the oathbow. These bonuses and penalties last for 7 days or until the sworn enemy is slain or destroyed by the wielder of the _oathbow_, whichever comes first.
+Of elven make, this white _+2 composite longbow_ (+2 Str bonus) whispers "Swift defeat to my enemies" in Elven when nocked and pulled. Once per day, if the archer swears aloud to slay her target (a free action), the bow's whisper becomes the shout "Death to those who have wronged me!" Against such a sworn enemy, the bow has a +5 enhancement bonus, and arrows launched from it deal an additional 2d6 points of damage (and ×4 on a critical hit instead of the normal ×3). After an enemy has been sworn, the bow is treated as only a masterwork weapon against all foes other than the sworn enemy, and the archer takes a –1 penalty on attack rolls with any weapon other than the oathbow. These bonuses and penalties last for 7 days or until the sworn enemy is slain or destroyed by the wielder of the _oathbow_, whichever comes first.
 
 The _oathbow_ may only have one sworn enemy at a time. Once the wielder swears to slay a target, he cannot make a new oath until he has slain that target or 7 days have passed. Even if the wielder slays the sworn enemy on the same day that he makes the oath, he cannot activate the _oathbow_'s special power again until 24 hours have passed from the time he made the oath.
 
@@ -745,7 +745,7 @@ Construction Requirements
 
 **Cost** 37,300 gp
 
-Craft Magic Arms and Armor,_ [reloading hands](ultimateCombat/spell_dir/reloadingHands#_reloading-hands_
+Craft Magic Arms and Armor,_ [reloading hands](ultimateComba_dir/spells/reloadingHands#_reloading-hands)_
 
 Polarity Hammer
 
@@ -759,57 +759,57 @@ Construction Requirements
 
 **Cost** 6,155 gp
 
-Craft Magic Arms and Armor, _ [force punch](ultimateMagic/spell_dir/forcePunch#_force-punch_, _ [shield](spell_dir/shield#_shield_
+Craft Magic Arms and Armor, _ [force punch](ultimateMagi_dir/spells/forcePunch#_force-punch)_, _ [shield](spell_dir/shield#_shield)_
 
 Quarterstaff of Vaulting
 
 **Price** 19,100 gp; **Aura** faint transmutation; **CL** 5th; **Weight** 4 lbs.
 
-This _+1/+1 darkwood quarterstaff_ grants superior balance and acrobatic skill. It glows with a faint green-yellow radiance when in use and can extend to nearly double its length, though only when being used to perform acrobatic feats. The wielder gains a +5 competence bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics checks and can move at full speed without penalty when using [Acrobatics](skill_dir/acrobatics#_acrobatics to move on narrow surfaces or uneven ground. When making a high jump while wielding the _quarterstaff of vaulting_, the [Acrobatics](skill_dir/acrobatics#_acrobatics DC is equal to 3 times the height to be reached instead of 4.
+This _+1/+1 darkwood quarterstaff_ grants superior balance and acrobatic skill. It glows with a faint green-yellow radiance when in use and can extend to nearly double its length, though only when being used to perform acrobatic feats. The wielder gains a +5 competence bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics) checks and can move at full speed without penalty when using [Acrobatics](skills/acrobatics#_acrobatics) to move on narrow surfaces or uneven ground. When making a high jump while wielding the _quarterstaff of vaulting_, the [Acrobatics](skill_dir/acrobatics#_acrobatics) DC is equal to 3 times the height to be reached instead of 4.
 
-In addition, with a successful DC 25 [Acrobatics](skill_dir/acrobatics#_acrobatics check, the wielder can use the staff to vault over an opponent's head in place of taking a 5-foot step. She can only use this ability on creatures no more than one size category larger than her, and must end her movement in the nearest adjacent square on the opposite side of the creature. If this square is unavailable, she cannot use this ability. This movement does not provoke attacks of opportunity.
+In addition, with a successful DC 25 [Acrobatics](skills/acrobatics#_acrobatics) check, the wielder can use the staff to vault over an opponent's head in place of taking a 5-foot step. She can only use this ability on creatures no more than one size category larger than her, and must end her movement in the nearest adjacent square on the opposite side of the creature. If this square is unavailable, she cannot use this ability. This movement does not provoke attacks of opportunity.
 
 Construction Requirements
 
 **Cost** 9,850 gp
 
-Craft Magic Arms and Armor, _ [jump](spell_dir/jump#_jump_
+Craft Magic Arms and Armor, _ [jump](spell_dir/jump#_jump)_
 
 Rapier of Puncturing
 
 **Price** 50,320 gp; **Aura** strong necromancy; **CL** 13th; **Weight** 2 lbs.
 
-Three times per day, this _+2 [wounding](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_wounding rapier_ allows the wielder to make a touch attack with the weapon that deals 1d6 points of Constitution damage by draining blood. Creatures immune to critical hits are immune to the Constitution damage dealt by this weapon.
+Three times per day, this _+2 [wounding](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_wounding) rapier_ allows the wielder to make a touch attack with the weapon that deals 1d6 points of Constitution damage by draining blood. Creatures immune to critical hits are immune to the Constitution damage dealt by this weapon.
 
 Construction Requirements
 
 **Cost** 25,320 gp
 
-Craft Magic Arms and Armor, _ [harm](spell_dir/harm#_harm_
+Craft Magic Arms and Armor, _ [harm](spells/harm#_harm)_
 
 Ricochet Hammer
 
 **Price** 20,301 gp; **Aura** moderate transmutation; **CL** 7th; **Weight** 2 lbs.
 
-This _+1 [returning](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_returning) light hammer_ can strike multiple foes with a single throw. If the wielder has multiple attacks from a high base attack bonus, he may throw the hammer so it rebounds off the first target to strike at a second target, and so on for each of the wielder's additional attacks. The distance to each target adds to the total range of the weapon, and range penalties apply. For example, a 6th-level dwarf fighter can throw the hammer using his +6 BAB at a target 20 feet away (within one range increment, no range penalty); if it hits, he ricochets it to attack using his +1 BAB at a second target 40 feet away from the first target (within three range increments for a –4 range penalty. The hammer can only ricochet if it successfully hits a target; if it misses, it stops ricocheting, has no further attacks that round, and returns as normal for a weapon with the _ [returning](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_returning_ property. Because ricocheting attacks are treated as separate attacks, modifiers that only apply to one attack roll (such as _ [true strike](spell_dir/trueStrike#_true-strike)_ only apply to the first attack and not the others. The ricochet attacks count as the wielder's additional attacks for that round.
+This _+1 [returning](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_returning) light hammer_ can strike multiple foes with a single throw. If the wielder has multiple attacks from a high base attack bonus, he may throw the hammer so it rebounds off the first target to strike at a second target, and so on for each of the wielder's additional attacks. The distance to each target adds to the total range of the weapon, and range penalties apply. For example, a 6th-level dwarf fighter can throw the hammer using his +6 BAB at a target 20 feet away (within one range increment, no range penalty); if it hits, he ricochets it to attack using his +1 BAB at a second target 40 feet away from the first target (within three range increments for a –4 range penalty). The hammer can only ricochet if it successfully hits a target; if it misses, it stops ricocheting, has no further attacks that round, and returns as normal for a weapon with the _ [returning](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_returning)_ property. Because ricocheting attacks are treated as separate attacks, modifiers that only apply to one attack roll (such as _ [true strike](spells/trueStrike#_true-strike)_) only apply to the first attack and not the others. The ricochet attacks count as the wielder's additional attacks for that round.
 
 Construction Requirements
 
 **Cost** 10,301 gp
 
-Craft Magic Arms and Armor, _ [telekinesis](spell_dir/telekinesis#_telekinesis_
+Craft Magic Arms and Armor, _ [telekinesis](spell_dir/telekinesis#_telekinesis)_
 
 Scimitar of the Spellthief
 
 **Price** 75,815 gp; **Aura** strong divination; **CL** 13th; **Weight** 4 lbs.
 
-This curved blade of golden metal, a _+1 [keen](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_keen heartseeking spellstealing scimitar_, is the bane of spellcasters. Inscribed with flowing magical script that purports to reveal the inner secrets of magic, the _scimitar of the spellthief_ grants the wielder a +2 bonus on [Spellcraft](skill_dir/spellcraft#_spellcraft and [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device checks. The scimitar also reveals magical auras by touch; this functions as _ [detect magic](spell_dir/detectMagic#_detect-magic _but affects only a single object or creature at a time, which must be touched with the blade while the wielder concentrates on detection, and the magical auras revealed are clearly visible to all.
+This curved blade of golden metal, a _+1 [keen](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_keen) heartseeking spellstealing scimitar_, is the bane of spellcasters. Inscribed with flowing magical script that purports to reveal the inner secrets of magic, the _scimitar of the spellthief_ grants the wielder a +2 bonus on [Spellcraft](skills/spellcraft#_spellcraft) and [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device) checks. The scimitar also reveals magical auras by touch; this functions as _ [detect magic](spells/detectMagic#_detect-magic) _but affects only a single object or creature at a time, which must be touched with the blade while the wielder concentrates on detection, and the magical auras revealed are clearly visible to all.
 
 Construction Requirements
 
 **Cost** 37,815 gp
 
-Craft Magic Arms and Armor, _ [death knell](spell_dir/deathKnell#_death-knell, [greater arcane sight](spell_dir/arcaneSight#_arcane-sight-greater, [keen edge](spell_dir/keenEdge#_keen-edge, [limited wish](spell_dir/limitedWish#_limited-wish_
+Craft Magic Arms and Armor, _ [death knell](spell_dir/deathKnell#_death-knell), [greater arcane sight](spells/arcaneSight#_arcane-sight-greater), [keen edge](spell_dir/keenEdge#_keen-edge), [limited wish](spells/limitedWish#_limited-wish)_
 
 Screaming Bolt
 
@@ -821,19 +821,19 @@ Construction Requirements
 
 **Cost** 137 gp
 
-Craft Magic Arms and Armor, _ [doom](spell_dir/doom#_doom_
+Craft Magic Arms and Armor, _ [doom](spell_dir/doom#_doom)_
 
 Searing Arrow
 
 **Price** 1,516 gp; **Aura** moderate evocation; **CL** 9th; **Weight** —
 
-This _+1 [flaming](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_flaming arrow_ continues to burn its target each round, dealing 1d6 points of fire damage on the attacker's turn for the next 3 rounds. Removing the arrow requires a successful DC 10 [Heal](skill_dir/heal#_heal) check and prevents any further damage from the arrow (the DC increases to 15 if the target tries to remove the arrow from himself. Removing the arrow destroys it, and it burns up once the 3 rounds pass.
+This _+1 [flaming](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_flaming) arrow_ continues to burn its target each round, dealing 1d6 points of fire damage on the attacker's turn for the next 3 rounds. Removing the arrow requires a successful DC 10 [Heal](skills/heal#_heal) check and prevents any further damage from the arrow (the DC increases to 15 if the target tries to remove the arrow from himself). Removing the arrow destroys it, and it burns up once the 3 rounds pass.
 
 Construction Requirements
 
 **Cost** 758 gp
 
-Craft Magic Arms and Armor; _ [flame blade](spell_dir/flameBlade#_flame-blade_, _ [flame strike](spell_dir/flameStrike#_flame-strike_, or _ [fireball](spell_dir/fireball#_fireball_
+Craft Magic Arms and Armor; _ [flame blade](spell_dir/flameBlade#_flame-blade)_, _ [flame strike](spells/flameStrike#_flame-strike)_, or _ [fireball](spell_dir/fireball#_fireball)_
 
 Shatterspike
 
@@ -845,19 +845,19 @@ Construction Requirements
 
 **Cost** 2,315 gp
 
-Str 13, [Craft](skill_dir/craft#_craft) Arms and Armor, Improved Sunder, [Power Attack](feats#_power-attack, _ [shatter](spell_dir/shatter#_shatter_
+Str 13, [Craft](skills/craft#_craft) Arms and Armor, Improved Sunder, [Power Attack](feats#_power-attack), _ [shatter](spell_dir/shatter#_shatter)_
 
 Shieldsplitter Lance
 
 **Price** 18,310 gp; **Aura** moderate evocation; **CL** 10th; **Weight** 10 lbs.
 
-This _+1 [keen](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_keen lance_ has the ability to penetrate and destroy shields. Whenever its wielder uses it to successfully strike an opponent who carries a shield, the opponent's shield takes the same damage as the opponent. If the wielder uses the lance to make a sunder attack against a shield, it bypasses the shield's hardness.
+This _+1 [keen](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_keen) lance_ has the ability to penetrate and destroy shields. Whenever its wielder uses it to successfully strike an opponent who carries a shield, the opponent's shield takes the same damage as the opponent. If the wielder uses the lance to make a sunder attack against a shield, it bypasses the shield's hardness.
 
 Construction Requirements
 
 **Cost** 9,310 gp
 
-Craft Magic Arms and Armor, _ [keen edge](spell_dir/keenEdge#_keen-edge_, _ [shatter](spell_dir/shatter#_shatter_
+Craft Magic Arms and Armor, _ [keen edge](spells/keenEdge#_keen-edge)_, _ [shatter](spell_dir/shatter#_shatter)_
 
 Shifter's Sorrow
 
@@ -869,19 +869,19 @@ Construction Requirements
 
 **Cost** 6,780 gp
 
-Craft Arms and Armor, _ [baleful polymorph](spell_dir/balefulPolymorph#_baleful-polymorph_
+Craft Arms and Armor, _ [baleful polymorph](spell_dir/balefulPolymorph#_baleful-polymorph)_
 
 Sizzling Arrow
 
 **Price** 1,516 gp; **Aura** moderate evocation; **CL** 9th; **Weight** —
 
-This _+1 [corrosive](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_corrosive arrow_ continues to leak acid onto its target each round, dealing 1d6 points of acid damage on the attacker's turn for the next 3 rounds. Removing the arrow requires a successful DC 10 [Heal](skill_dir/heal#_heal) check and prevents any further damage from the arrow (the DC increases to 15 if the target tries to remove the arrow from herself. Removing the arrow destroys it. The arrow dissolves once the 3 rounds pass.
+This _+1 [corrosive](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_corrosive) arrow_ continues to leak acid onto its target each round, dealing 1d6 points of acid damage on the attacker's turn for the next 3 rounds. Removing the arrow requires a successful DC 10 [Heal](skills/heal#_heal) check and prevents any further damage from the arrow (the DC increases to 15 if the target tries to remove the arrow from herself). Removing the arrow destroys it. The arrow dissolves once the 3 rounds pass.
 
 Construction Requirements
 
 **Cost** 758 gp
 
-Craft Magic Arms and Armor, _ [acid arrow](spell_dir/acidArrow#_acid-arrow_
+Craft Magic Arms and Armor, _ [acid arrow](spell_dir/acidArrow#_acid-arrow)_
 
 Slaying Arrow
 
@@ -889,7 +889,7 @@ Slaying Arrow
 
 **Slaying arrow** 2,282 gp; **Greater slaying arrow** 4,057 gp
 
-This _+1 arrow_ is keyed to a particular type or subtype of creature. If it strikes such a creature, the target must succeed at a DC 20 Fortitude save or take 50 points of damage. Note that even creatures normally exempt from Fortitude saves (undead and constructs) are subject to this attack. When keyed to a living creature, this is a death effect (and thus _ [death ward](spell_dir/deathWard#_death-ward)_ protects a target. To determine the type or subtype of creature the arrow is keyed to, roll on the table below.
+This _+1 arrow_ is keyed to a particular type or subtype of creature. If it strikes such a creature, the target must succeed at a DC 20 Fortitude save or take 50 points of damage. Note that even creatures normally exempt from Fortitude saves (undead and constructs) are subject to this attack. When keyed to a living creature, this is a death effect (and thus _ [death ward](spell_dir/deathWard#_death-ward)_ protects a target). To determine the type or subtype of creature the arrow is keyed to, roll on the table below.
 
 A _greater slaying arrow_ functions just like a normal slaying arrow, but the DC to avoid the death effect is 23 and the arrow deals 100 points of damage if the saving throw is failed.
 
@@ -897,7 +897,7 @@ Construction Requirements
 
 **Slaying arrow** 1,144 gp; **Greater slaying arrow** 2,032 gp
 
-Craft Magic Arms and Armor, _ [finger of death](spell_dir/fingerOfDeath#_finger-of-death)_ (_slaying arrow_ or heightened_ [finger of death](spell_dir/fingerOfDeath#_finger-of-death)_ (_greater slaying arrow_
+Craft Magic Arms and Armor, _ [finger of death](spells/fingerOfDeath#_finger-of-death)_ (_slaying arrow_) or heightened_ [finger of death](spell_dir/fingerOfDeath#_finger-of-death)_ (_greater slaying arrow_)
 
 | d% | Designated Type or Subtype |
 | --- | --- |
@@ -942,69 +942,69 @@ Construction Requirements
 
 **Cost** 70 gp
 
-Craft Magic Arms and Armor, _ [sleep](spell_dir/sleep#_sleep_
+Craft Magic Arms and Armor, _ [sleep](spell_dir/sleep#_sleep)_
 
 Sparkwake Starknife
 
 **Price** 21,324 gp; **Aura** moderate evocation; **CL** 8th; **Weight** 3 lbs.
 
-A faint trail of sparks marks the passage of this _+1 [shock](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_shock starknife_ whenever it is thrown. Once per day, its wielder may throw it so it transforms into an 8th-level _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt) _(Reflex DC 14 half, returning to its physical form at the end of the bolt's path.
+A faint trail of sparks marks the passage of this _+1 [shock](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_shock) starknife_ whenever it is thrown. Once per day, its wielder may throw it so it transforms into an 8th-level _ [lightning bolt](spells/lightningBolt#_lightning-bolt) _(Reflex DC 14 half), returning to its physical form at the end of the bolt's path.
 
 Construction Requirements
 
 **Cost** 10,824 gp
 
-Craft Magic Arms and Armor, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_
+Craft Magic Arms and Armor, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt)_
 
 Spider's Fang
 
 **Price** 79,102 gp; **Aura** moderate evocation; **CL** 10th; **Weight** 1 lb.
 
-This punching dagger's blade is engraved with images of spider webs. Upon close inspection, the images seem to come alive as if spiders were swarming across the webs on the blade. Twice per day as a free action, this _+2 [keen](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_keen [wounding](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_wounding punching dagger_ can poison a living creature hit by an attack made by this weapon as the _ [poison](spell_dir/poison#_poison)_ spell (Fortitude DC 20 negates. In addition, the wielder gains a +2 competence bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics checks made to move through an enemy's threatened area without provoking an attack of opportunity.
+This punching dagger's blade is engraved with images of spider webs. Upon close inspection, the images seem to come alive as if spiders were swarming across the webs on the blade. Twice per day as a free action, this _+2 [keen](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_keen) [wounding](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_wounding) punching dagger_ can poison a living creature hit by an attack made by this weapon as the _ [poison](spells/poison#_poison)_ spell (Fortitude DC 20 negates). In addition, the wielder gains a +2 competence bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics) checks made to move through an enemy's threatened area without provoking an attack of opportunity.
 
 Construction Requirements
 
 **Cost** 39,702 gp
 
-Craft Magic Arms and Armor, _ [bleed](spell_dir/bleed#_bleed_, _ [keen edge](spell_dir/keenEdge#_keen-edge_, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_
+Craft Magic Arms and Armor, _ [bleed](spells/bleed#_bleed)_, _ [keen edge](spell_dir/keenEdge#_keen-edge)_, _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_
 
 Spirit Blade
 
 **Price** 48,502 gp; **Aura** moderate abjuration; **CL** 10th; **Weight** 1 lb.
 
-This wavy blade is almost transparently thin, and glows with ethereal energy upon being grasped. In addition to being a _+3 [ghost touch](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_ghost-touch dagger_, it can cast _ [dispel magic](spell_dir/dispelMagic#_dispel-magic _once per day.
+This wavy blade is almost transparently thin, and glows with ethereal energy upon being grasped. In addition to being a _+3 [ghost touch](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_ghost-touch) dagger_, it can cast _ [dispel magic](spells/dispelMagic#_dispel-magic) _once per day.
 
 Construction Requirements
 
 **Cost** 24,402 gp
 
-Craft Magic Arms and Armor, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [plane shift](spell_dir/planeShift#_plane-shift_, creator must be 9th level
+Craft Magic Arms and Armor, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic)_, _ [plane shift](spells/planeShift#_plane-shift)_, creator must be 9th level
 
 Spirit Caller
 
 **Price** 25,302 gp; **Aura** moderate necromancy; **CL** 9th; **Weight** 2 lbs.
 
-The _spirit caller_ is a _+1 [ghost touch](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_ghost-touch mere club_ carved of nephrite jade. Incorporeal undead and ghosts struck by the _spirit caller_ must succeed at a DC 16 Will save or be drawn inside the mere and are trapped within it. When holding a spirit inside, the _spirit caller_ glows from within with the brightness of a candle and functions as a _+2 [ghost touch](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_ghost-touch undead [bane](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane mere club_. The mere consumes the energy of the spirit inside in 1 hour, destroying it, and can hold but a single spirit at a time. The wielder can release a trapped spirit as a standard action. Ghosts consumed by a _spirit caller_ still rejuvenate as normal.
+The _spirit caller_ is a _+1 [ghost touch](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_ghost-touch) mere club_ carved of nephrite jade. Incorporeal undead and ghosts struck by the _spirit caller_ must succeed at a DC 16 Will save or be drawn inside the mere and are trapped within it. When holding a spirit inside, the _spirit caller_ glows from within with the brightness of a candle and functions as a _+2 [ghost touch](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_ghost-touch) undead [bane](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane) mere club_. The mere consumes the energy of the spirit inside in 1 hour, destroying it, and can hold but a single spirit at a time. The wielder can release a trapped spirit as a standard action. Ghosts consumed by a _spirit caller_ still rejuvenate as normal.
 
 Construction Requirements
 
 **Cost** 12,802 gp
 
-Craft Magic Arms and Armor_, [magic jar](spell_dir/magicJar#_magic-jar_, _ [plane shift](spell_dir/planeShift#_plane-shift_
+Craft Magic Arms and Armor_, [magic jar](spells/magicJar#_magic-jar)_, _ [plane shift](spell_dir/planeShift#_plane-shift)_
 
 Summoner's Sorrow
 
 **Price** 42,816 gp; **Aura** moderate abjuration; **CL** 9th; **Weight** 10 lbs.
 
-The _summoner's sorrow_ is a _+2 cold iron glaive_ that deals an extra 2d6 points of damage against summoned creatures, including eidolons. Once each round when the _summoner's sorrow_ damages a summoned or illusory creature, the wielder can make a dispel check as a free action to send away or destroy the creature. This is treated as a _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_ spell targeted against the spell that created the creature, except that the wielder's base attack bonus is used in place of the wielder's or item's caster level. This ability has no effect on creatures that are called rather than summoned, or on summoned creatures that cannot be dispelled, such as a summoner's eidolon.
+The _summoner's sorrow_ is a _+2 cold iron glaive_ that deals an extra 2d6 points of damage against summoned creatures, including eidolons. Once each round when the _summoner's sorrow_ damages a summoned or illusory creature, the wielder can make a dispel check as a free action to send away or destroy the creature. This is treated as a _ [dispel magic](spells/dispelMagic#_dispel-magic)_ spell targeted against the spell that created the creature, except that the wielder's base attack bonus is used in place of the wielder's or item's caster level. This ability has no effect on creatures that are called rather than summoned, or on summoned creatures that cannot be dispelled, such as a summoner's eidolon.
 
-Once per day as a free action, the wielder can attempt a _ [dismissal](spell_dir/dismissal#_dismissal)_ against a creature damaged by the weapon instead of dispelling it. This ability functions only against extraplanar creatures (whether summoned or not, and works as the spell of the same name with a Will save DC of 17. The wielder cannot both dispel and dismiss in the same round.
+Once per day as a free action, the wielder can attempt a _ [dismissal](spell_dir/dismissal#_dismissal)_ against a creature damaged by the weapon instead of dispelling it. This ability functions only against extraplanar creatures (whether summoned or not), and works as the spell of the same name with a Will save DC of 17. The wielder cannot both dispel and dismiss in the same round.
 
 Construction Requirements
 
 **Cost** 21,566 gp
 
-Craft Magic Arms and Armor, _ [dismissal](spell_dir/dismissal#_dismissal_, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic)_
+Craft Magic Arms and Armor, _ [dismissal](spells/dismissal#_dismissal)_, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic)_
 
 Sun Blade
 
@@ -1012,27 +1012,27 @@ Sun Blade
 
 This sword is the size of a bastard sword. However, a _sun blade_ is wielded as if it were a short sword with respect to weight and ease of use. In other words, the weapon appears to all viewers to be a bastard sword, and deals bastard sword damage, but the wielder feels and reacts as if the weapon were a short sword. Any individual able to use either a bastard sword or a short sword with proficiency is proficient in the use of a sun blade. Likewise, [Weapon Focus](feats#_weapon-focus) and Weapon Specialization in short sword and bastard sword apply equally, but the benefits of those feats do not stack.
 
-In normal combat, the glowing golden blade of the weapon is equal to a _+2 bastard sword_. Against evil creatures, its enhancement bonus is +4. Against Negative Energy Plane creatures or undead creatures, the sword deals double damage (and ×3 on a critical hit instead of the usual ×2.
+In normal combat, the glowing golden blade of the weapon is equal to a _+2 bastard sword_. Against evil creatures, its enhancement bonus is +4. Against Negative Energy Plane creatures or undead creatures, the sword deals double damage (and ×3 on a critical hit instead of the usual ×2).
 
-The blade also has a special sunlight power. Once per day, the wielder can swing the blade vigorously above his head while speaking a command word. The _sun blade_ then sheds a bright yellow radiance that acts like bright light and affects creatures susceptible to light as if it were natural sunlight. The radiance begins shining in a 10-foot radius around the sword wielder and extends outward at 5 feet per round for 10 rounds thereafter, to create a globe of light with a 60-foot radius. When the wielder stops swinging the sword, the radiance fades to a dim glow that persists for another minute before disappearing entirely. All sun blades are of good alignment, and any evil creature attempting to wield one gains one negative level. The negative level remains as long as the sword is in hand and disappears when the sword is no longer wielded. This negative level cannot be overcome in any way (including by _ [restoration](spell_dir/restoration#_restoration)_ spells while the sword is wielded.
+The blade also has a special sunlight power. Once per day, the wielder can swing the blade vigorously above his head while speaking a command word. The _sun blade_ then sheds a bright yellow radiance that acts like bright light and affects creatures susceptible to light as if it were natural sunlight. The radiance begins shining in a 10-foot radius around the sword wielder and extends outward at 5 feet per round for 10 rounds thereafter, to create a globe of light with a 60-foot radius. When the wielder stops swinging the sword, the radiance fades to a dim glow that persists for another minute before disappearing entirely. All sun blades are of good alignment, and any evil creature attempting to wield one gains one negative level. The negative level remains as long as the sword is in hand and disappears when the sword is no longer wielded. This negative level cannot be overcome in any way (including by _ [restoration](spells/restoration#_restoration)_ spells) while the sword is wielded.
 
 Construction Requirements
 
 **Cost** 25,335 gp
 
-Craft Magic Arms and Armor, _ [daylight](spell_dir/daylight#_daylight_, creator must be good
+Craft Magic Arms and Armor, _ [daylight](spell_dir/daylight#_daylight)_, creator must be good
 
 Swift Obsidian Greataxe
 
 **Price** 11,320 gp; **Aura** moderate transmutation; **CL** 10th; **Weight** 12 lbs.
 
-The blade of this _+1 [keen](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_keen greataxe_ is carved from jet-black obsidian. When the wielder charges an enemy, he receives a +10 foot enhancement bonus to his speed that round. Once per day, he can command the axe to grant all allies within 30 feet a +10 foot enhancement bonus to base speed for 1 round.
+The blade of this _+1 [keen](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_keen) greataxe_ is carved from jet-black obsidian. When the wielder charges an enemy, he receives a +10 foot enhancement bonus to his speed that round. Once per day, he can command the axe to grant all allies within 30 feet a +10 foot enhancement bonus to base speed for 1 round.
 
 Construction Requirements
 
 **Cost** 5,802 gp
 
-Craft Magic Arms and Armor, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [keen edge](spell_dir/keenEdge#_keen-edge_
+Craft Magic Arms and Armor, _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [keen edge](spell_dir/keenEdge#_keen-edge)_
 
 Sword of Life Stealing
 
@@ -1044,7 +1044,7 @@ Construction Requirements
 
 **Cost** 13,015 gp
 
-Craft Magic Arms and Armor, _ [enervation](spell_dir/enervation#_enervation_
+Craft Magic Arms and Armor, _ [enervation](spells/enervation#_enervation)_
 
 Sword of Subtlety
 
@@ -1056,7 +1056,7 @@ Construction Requirements
 
 **Cost** 11,310 gp
 
-Craft Magic Arms and Armor, _ [blur](spell_dir/blur#_blur_
+Craft Magic Arms and Armor, _ [blur](spell_dir/blur#_blur)_
 
 Sword of the Planes
 
@@ -1068,7 +1068,7 @@ Construction Requirements
 
 **Cost** 11,315 gp
 
-Craft Magic Arms and Armor, _ [plane shift](spell_dir/planeShift#_plane-shift_
+Craft Magic Arms and Armor, _ [plane shift](spells/planeShift#_plane-shift)_
 
 Sylvan Scimitar
 
@@ -1086,13 +1086,13 @@ Tangle Bolt
 
 **Price** 226 gp; **Aura** strong conjuration; **CL** 12th; **Weight** —
 
-Often etched with images of spider webs or swampy vines, this sickly green _+1 [seeking](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_seeking bolt_ transforms into sticky goo when it hits, entangling its target and becoming tough and resilient upon exposure to air. In addition to the bolt's damage, the target is entangled as if it had been hit by a tanglefoot bag.
+Often etched with images of spider webs or swampy vines, this sickly green _+1 [seeking](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_seeking) bolt_ transforms into sticky goo when it hits, entangling its target and becoming tough and resilient upon exposure to air. In addition to the bolt's damage, the target is entangled as if it had been hit by a tanglefoot bag.
 
 Construction Requirements
 
 **Cost** 113 gp
 
-Craft Magic Arms and Armor, _ [true seeing](spell_dir/trueSeeing#_true-seeing,_ and either _ [web](spell_dir/web#_web_ or creator must have 5 ranks in [Craft](skill_dir/craft#_craft) (alchemy)
+Craft Magic Arms and Armor, _ [true seeing](spells/trueSeeing#_true-seeing),_ and either _ [web](spell_dir/web#_web)_ or creator must have 5 ranks in [Craft](skills/craft#_craft) (alchemy)
 
 Ten-ring sword
 
@@ -1100,19 +1100,19 @@ Ten-ring sword
 
 This finely crafted _+2 nine-ring broadsword _has an extra gap at the base of the blade's unsharpened edge, closest to the hilt, seemingly to fit an extra ring. The wielder of a ten-ring sword can use a full-round action to place a magic ring into the empty slot, where the ring then rests until removed (another full-round action). Once a ring is fitted to the tenth slot, the sword's wielder can employ that ring as if he were wearing it, even if he is currently wearing two magic rings.
 
-Alternatively, the sword's wielder can fit a ring made of a specific metal like adamantine or cold iron into the tenth slot. Doing so allows the sword to penetrate damage reduction as if it were made of the same metal as the ring. Using this property does not grant the weapon any additional properties of that metal (such as bypassing hardness, etc.. Typically, such metal rings cost one-tenth the cost of a nine-ring broadsword made from that material. In the event that a magic ring made from a specific metal, like silver, is affixed to the sword's tenth slot, the sword's wielder decides which of the weapon's two properties will be in effect when the ring is placed. However, the sword's wielder can use a move action to switch between properties.
+Alternatively, the sword's wielder can fit a ring made of a specific metal like adamantine or cold iron into the tenth slot. Doing so allows the sword to penetrate damage reduction as if it were made of the same metal as the ring. Using this property does not grant the weapon any additional properties of that metal (such as bypassing hardness, etc.). Typically, such metal rings cost one-tenth the cost of a nine-ring broadsword made from that material. In the event that a magic ring made from a specific metal, like silver, is affixed to the sword's tenth slot, the sword's wielder decides which of the weapon's two properties will be in effect when the ring is placed. However, the sword's wielder can use a move action to switch between properties.
 
 Construction Requirements
 
 **Cost** 7,157 gp
 
-Craft Magic Arms and Armor, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [versatile weapon](advanced/spell_dir/versatileWeapon#_versatile-weapon_
+Craft Magic Arms and Armor, _ [mage hand](spell_dir/mageHand#_mage-hand)_, _ [versatile weapon](advanced/spell_dir/versatileWeapon#_versatile-weapon)_
 
 Tracer Bullet
 
 **Price** 100 gp; **Aura** faint evocation; **CL** 2nd; **Weight** —
 
-These _+1 firearm bullets_ deal no damage, but instead cause a pale glow to outline the target, granting the effect of a _ [faerie fire](spell_dir/faerieFire#_faerie-fire_ spell and causing the target to take a –2 penalty to AC against ranged attacks. These effects last for 1d4 rounds.
+These _+1 firearm bullets_ deal no damage, but instead cause a pale glow to outline the target, granting the effect of a _ [faerie fire](spells/faerieFire#_faerie-fire)_ spell and causing the target to take a –2 penalty to AC against ranged attacks. These effects last for 1d4 rounds.
 
 Construction Requirements
 
@@ -1124,25 +1124,25 @@ Trident of Fish Command
 
 **Price** 18,650 gp; **Aura** moderate enchantment; **CL** 7th; **Weight** 4 lbs.
 
-The magical properties of this _+1 trident_ with a 6-foot-long haft enable its wielder to charm up to 14 Hit Dice of aquatic animals as per the spell _charm animals_ (Will DC 16 negates, animals get a +5 bonus if currently under attack by the wielder or her allies, no two of which can be more than 30 feet apart. The wielder can use this effect up to three times per day. The wielder can communicate with the animals as if using a _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals_ spell. Animals that successfully make their saving throws are free of control, but they will not approach within 10 feet of the trident.
+The magical properties of this _+1 trident_ with a 6-foot-long haft enable its wielder to charm up to 14 Hit Dice of aquatic animals as per the spell _charm animals_ (Will DC 16 negates, animals get a +5 bonus if currently under attack by the wielder or her allies), no two of which can be more than 30 feet apart. The wielder can use this effect up to three times per day. The wielder can communicate with the animals as if using a _ [speak with animals](spells/speakWithAnimals#_speak-with-animals)_ spell. Animals that successfully make their saving throws are free of control, but they will not approach within 10 feet of the trident.
 
 Construction Requirements
 
 **Cost** 9,482 gp
 
-Craft Magic Arms and Armor, _charm animals_, _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals_
+Craft Magic Arms and Armor, _charm animals_, _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals)_
 
 Trident of Stability
 
 **Price** 9,815 gp; **Aura** faint transmutation; **CL** 3rd; **Weight** 4 lbs.
 
-The base of this sturdy but tarnished _+1 trident_ has a wide metal bar at the bottom, perfectly situated to serve as a solid footrest or other sort of step. The bar acts as an _ [immovable rod](magicItem_dir/rods#_immovable-rod_, except instead of an activation button, the immobility power triggers whenever the wielder places one or both feet on the bar, and ends whenever the wielder is no longer touching the bar with at least one foot. If the wielder remains in place and steps on the bar, he gains a +10 bonus to his CMD when trying to resist efforts to move him. The wielder is always considered braced against oncoming charge attacks. If the wielder is falling, he may step on the bar as an immediate action to halt his fall, though the sudden jolt means he takes falling damage for the current distance fallen.
+The base of this sturdy but tarnished _+1 trident_ has a wide metal bar at the bottom, perfectly situated to serve as a solid footrest or other sort of step. The bar acts as an _ [immovable rod](magicItems/rods#_immovable-rod)_, except instead of an activation button, the immobility power triggers whenever the wielder places one or both feet on the bar, and ends whenever the wielder is no longer touching the bar with at least one foot. If the wielder remains in place and steps on the bar, he gains a +10 bonus to his CMD when trying to resist efforts to move him. The wielder is always considered braced against oncoming charge attacks. If the wielder is falling, he may step on the bar as an immediate action to halt his fall, though the sudden jolt means he takes falling damage for the current distance fallen.
 
 Construction Requirements
 
 **Cost** 5,065 gp
 
-Craft Magic Arms and Armor, _ [levitate](spell_dir/levitate#_levitate_
+Craft Magic Arms and Armor, _ [levitate](spell_dir/levitate#_levitate)_
 
 Trident of Warning
 
@@ -1154,19 +1154,19 @@ Construction Requirements
 
 **Cost** 5,215 gp
 
-Craft Magic Arms and Armor, _ [locate creature](spell_dir/locateCreature#_locate-creature_
+Craft Magic Arms and Armor, _ [locate creature](spells/locateCreature#_locate-creature)_
 
 Triton's Trident
 
 **Price** 15,065 gp; **Aura** moderate evocation; **CL** 6th; **Weight** 4 lbs.
 
-This curve-tined _+1 monstrous humanoid [bane](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane trident _is etched with a pattern of alternating scales and shells. A _triton's trident _can unleash a _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push- _three times per day, once from each tine; alternatively, their power can be combined to release a single _ [hydraulic torrent](advanced/spell_dir/hydraulicTorrent#_hydraulic-torrent- _once per day. The CMB for either effect is +6.
+This curve-tined _+1 monstrous humanoid [bane](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_bane) trident _is etched with a pattern of alternating scales and shells. A _triton's trident _can unleash a _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-) _three times per day, once from each tine; alternatively, their power can be combined to release a single _ [hydraulic torrent](advanced/spell_dir/hydraulicTorrent#_hydraulic-torrent-) _once per day. The CMB for either effect is +6.
 
 Construction Requirements
 
 **Cost** 7,690 gp
 
-Craft Magic Arms and Armor, _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-, [hydraulic torrent](advanced/spell_dir/hydraulicTorrent#_hydraulic-torrent-, [summon monster I](spell_dir/summonMonster#_summon-monster-i_
+Craft Magic Arms and Armor, _ [hydraulic push](advanced/spell_dir/hydraulicPush#_hydraulic-push-), [hydraulic torrent](advanced/spell_dir/hydraulicTorrent#_hydraulic-torrent-), [summon monster I](spells/summonMonster#_summon-monster-i)_
 
 Undercutting Axe
 
@@ -1178,43 +1178,43 @@ Construction Requirements
 
 **Cost** 11,810 gp
 
-Craft Magic Arms and Armor, [Maximize Spell](feats#_maximize-spell, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_, _ [summon monster I](spell_dir/summonMonster#_summon-monster-i_
+Craft Magic Arms and Armor, [Maximize Spell](feats#_maximize-spell), _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_, _ [summon monster I](spell_dir/summonMonster#_summon-monster-i)_
 
 Valor's Minion
 
 **Price** 41,335 gp; **Aura** strong evocation; **CL** 15th; **Weight** 6 lbs.
 
-The blade of this _+2 [holy](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_holy bastard sword_ always appears lustrous and polished, with a hilt wrapped in alternating colors of deep black and royal purple. Effective on its own, a _valor's minion_ is even more potent in the hands of those who dedicate their efforts to vanquishing a single foe. Whenever a wielder uses either the challenge or smite evil class feature, she can sacrifice one additional use of that class feature to treat the smite or challenge as if she were three class levels higher.
+The blade of this _+2 [holy](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_holy) bastard sword_ always appears lustrous and polished, with a hilt wrapped in alternating colors of deep black and royal purple. Effective on its own, a _valor's minion_ is even more potent in the hands of those who dedicate their efforts to vanquishing a single foe. Whenever a wielder uses either the challenge or smite evil class feature, she can sacrifice one additional use of that class feature to treat the smite or challenge as if she were three class levels higher.
 
 Construction Requirements
 
 **Cost** 20,168 gp
 
-Craft Magic Arms and Armor, _ [holy smite](spell_dir/holySmite#_holy-smite_
+Craft Magic Arms and Armor, _ [holy smite](spells/holySmite#_holy-smite)_
 
 Void Scythe
 
 **Price** 95,318 gp; **Aura** strong necromancy; **CL** 13th; **Weight** 10 lbs.
 
-Instead of a blade, a swathe of absolute darkness inimical to life tips this scythe. It functions as a _+1 [brilliant-energy](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_brilliant-energy scythe_, except the blade is formed of negative energy and gives off no light whatsoever. The wielder can channel negative energy directly into the scythe to charge it with life-destroying energy for 1 round per die of channeling. For example, channeling negative energy for 5d6 points of damage fuels the scythe for 5 rounds. While so charged, the _void scythe_ bestows one negative level with each hit. One day after being struck, subjects must succeed at a DC 16 Fortitude save for each negative level or the negative levels become permanent.
+Instead of a blade, a swathe of absolute darkness inimical to life tips this scythe. It functions as a _+1 [brilliant-energy](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_brilliant-energy) scythe_, except the blade is formed of negative energy and gives off no light whatsoever. The wielder can channel negative energy directly into the scythe to charge it with life-destroying energy for 1 round per die of channeling. For example, channeling negative energy for 5d6 points of damage fuels the scythe for 5 rounds. While so charged, the _void scythe_ bestows one negative level with each hit. One day after being struck, subjects must succeed at a DC 16 Fortitude save for each negative level or the negative levels become permanent.
 
-Black energy utterly consumes any creature that is slain by the _void scythe_, leaving no body behind but leaving the creature's equipment unharmed. A victim of the _void scythe_ can be restored only by _ [true resurrection](spell_dir/trueResurrection#_true-resurrection_ or carefully worded _ [miracle](spell_dir/miracle#_miracle_ or _ [wish](spell_dir/wish#_wish_.
+Black energy utterly consumes any creature that is slain by the _void scythe_, leaving no body behind but leaving the creature's equipment unharmed. A victim of the _void scythe_ can be restored only by _ [true resurrection](spells/trueResurrection#_true-resurrection)_ or carefully worded _ [miracle](spell_dir/miracle#_miracle)_ or _ [wish](spells/wish#_wish)_.
 
 Construction Requirements
 
 **Cost** 47,815 gp
 
-Craft Magic Arms and Armor,_ [disintegrate](spell_dir/disintegrate#_disintegrate_, _ [enervation](spell_dir/enervation#_enervation_
+Craft Magic Arms and Armor,_ [disintegrate](spell_dir/disintegrate#_disintegrate)_, _ [enervation](spells/enervation#_enervation)_
 
 Warbringer
 
 **Price** 61,375 gp; **Aura** strong enchantment; **CL** 14th; **Weight** 8 lbs.
 
-This massive, wickedly curved red-bladed sword is a _+3 [keen](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_keen [vicious](/prd/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_vicious falchion_ that murmurs a low, rumbling battle chant when drawn. Whenever the wielder confirms a critical hit with a _warbringer, _the wielder gains the benefits of _ [rage](spell_dir/rage#_rage) _for 1 round (if a barbarian, the wielder gains 1 additional round of rage for that day), while the creature struck is compelled to move toward and attack its nearest ally with a melee weapon, natural weapon, or unarmed strike on its next turn (DC 14 Will negates, as the _ [murderous command](ultimateMagic/spell_dir/murderousCommand#_murderous-command_ spell.
+This massive, wickedly curved red-bladed sword is a _+3 [keen](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_keen) [vicious](/pr_dir/ultimateEquipment/magicArmsAndArmo_dir/weaponSpecialAbilities#_vicious) falchion_ that murmurs a low, rumbling battle chant when drawn. Whenever the wielder confirms a critical hit with a _warbringer, _the wielder gains the benefits of _ [rage](spells/rage#_rage) _for 1 round (if a barbarian, the wielder gains 1 additional round of rage for that day), while the creature struck is compelled to move toward and attack its nearest ally with a melee weapon, natural weapon, or unarmed strike on its next turn (DC 14 Will negates), as the _ [murderous command](ultimateMagi_dir/spells/murderousCommand#_murderous-command)_ spell.
 
 Construction Requirements
 
 **Cost** 30,875 gp
 
-Craft Magic Arms and Armor, _ [keen edge](spell_dir/keenEdge#_keen-edge_, _ [murderous command](ultimateMagic/spell_dir/murderousCommand#_murderous-command_, _ [rage](spell_dir/rage#_rage_
+Craft Magic Arms and Armor, _ [keen edge](spell_dir/keenEdge#_keen-edge)_, _ [murderous command](ultimateMagic/spell_dir/murderousCommand#_murderous-command)_, _ [rage](spells/rage#_rage)_
 

@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/expend
+title: advance_dir/spells/expend
 ---
  **Expend**
 
@@ -7,7 +7,7 @@ title: advanced/spells/expend
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (miniature broken hourglass
+**Components** V, S, M (miniature broken hourglass)
 
 **Range** medium (100 ft. + 10 ft./level)
 

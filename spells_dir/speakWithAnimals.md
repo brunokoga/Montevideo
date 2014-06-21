@@ -1,5 +1,5 @@
 ---
-title: spells/speakWithAnimals
+title: spell_dir/speakWithAnimals
 ---
  **Speak with Animals**
 

@@ -1,5 +1,5 @@
 ---
-title: spells/flare
+title: spell_dir/flare
 ---
  **Flare**
 

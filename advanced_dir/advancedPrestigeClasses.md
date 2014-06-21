@@ -1,23 +1,23 @@
 ---
-title: advanced/advancedPrestigeClasses
+title: advance_dir/advancedPrestigeClasses
 ---
 # Prestige Classes 
 
 Prestige classes represent specializations not available to most adventurers, the culmination of extensive practice in a specific field or discipline. The eight prestige classes here supplement those found in Chapter 11 of the _Core Rulebook_. Always check with your GM to make sure a given prestige class is allowed before working toward it. The prestige classes presented in this chapter include the following.
 
-**[Battle Herald](prestigeClasse_dir/battleHerald** : A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism.
+**[Battle Herald](prestigeClasses/battleHerald)** : A veteran whose masterful tactics and air of command inspire allies to greater feats of heroism.
 
-**[Holy Vindicator](prestigeClasse_dir/holyVindicator** : A pious warrior who spreads religion at the edge of a sword.
+**[Holy Vindicator](prestigeClasse_dir/holyVindicator)** : A pious warrior who spreads religion at the edge of a sword.
 
-**[Horizon Walker](prestigeClasse_dir/horizonWalker** : A scout and wanderer comfortable in even the strangest terrain.
+**[Horizon Walker](prestigeClasses/horizonWalker)** : A scout and wanderer comfortable in even the strangest terrain.
 
-**[Master Chymist](prestigeClasse_dir/masterChymist** : An alchemist whose mutagens create an alternate, brutish personality.
+**[Master Chymist](prestigeClasse_dir/masterChymist)** : An alchemist whose mutagens create an alternate, brutish personality.
 
-**[Master Spy](prestigeClasse_dir/masterSpy** : An espionage expert specializing in disguises and striking swiftly from the shadows.
+**[Master Spy](prestigeClasses/masterSpy)** : An espionage expert specializing in disguises and striking swiftly from the shadows.
 
-**[Nature Warden](prestigeClasse_dir/natureWarden** : A master of the wilderness bonded spiritually to a fearsome animal companion.
+**[Nature Warden](prestigeClasse_dir/natureWarden)** : A master of the wilderness bonded spiritually to a fearsome animal companion.
 
-**[Rage Prophet](prestigeClasse_dir/rageProphet** : A bold and barbaric champion who embraces otherworldly powers in order to perfect the art of combat.
+**[Rage Prophet](prestigeClasses/rageProphet)** : A bold and barbaric champion who embraces otherworldly powers in order to perfect the art of combat.
 
 **[Stalwart Defender](prestigeClasse_dir/stalwartDefender)** : A master of defending territory and holding the line at all costs.
 
@@ -29,7 +29,7 @@ Below are definitions of some common terms used here.
 
 **Base Class** : A class that progresses from level 1–20.
 
-**Caster Level** : Generally equal to the number of class levels (see below in a spellcasting class. Some prestige classes add caster levels to an existing class.
+**Caster Level** : Generally equal to the number of class levels (see below) in a spellcasting class. Some prestige classes add caster levels to an existing class.
 
 **Character Level** : The sum of a character's class levels.
 

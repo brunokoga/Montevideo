@@ -11,13 +11,13 @@ XP 800
 
 N Large animal
 
-**Init** +6; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +6
+**Init** +6; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +6
 
 Defense
 
 **AC** 14, touch 11, flat-footed 12 (+2 Dex, +3 natural, –1 size)
 
-**hp** 34 (4d8+16
+**hp** 34 (4d8+16)
 
 **Fort** +8, **Ref** +6, **Will** +2
 
@@ -39,7 +39,7 @@ Statistics
 
 **Feats** [Improved Initiative](feats#_improved-initiative), [Weapon Focus](feats#_weapon-focus) (bite)
 
-**Skills** [Perception](skill_dir/perception#_perception +6, [Stealth](skill_dir/stealth#_stealth) +3
+**Skills** [Perception](skill_dir/perception#_perception) +6, [Stealth](skills/stealth#_stealth) +3
 
 Ecology
 
@@ -51,7 +51,7 @@ Ecology
 
 Special Abilities
 
-**Tearing Bite (Ex** A dimetrodon's jaws are filled with razor-sharp teeth of two different sizes. This gives the creature a threat range of 19–20 with its bite attack.
+**Tearing Bite (Ex)** A dimetrodon's jaws are filled with razor-sharp teeth of two different sizes. This gives the creature a threat range of 19–20 with its bite attack.
 
 A dimetrodon is a quadrupedal reptile similar in shape to a crocodile, but with a blunter snout filled with jagged, sharp teeth. Its most distinguishing feature is the massive sail that runs the length of its back. By extending or contracting the fin, the cold-blooded reptile can control its body temperature with ease. While they are not technically dinosaurs, dimetrodons are still often found dwelling in regions inhabited by such creatures.
 
@@ -67,13 +67,13 @@ XP 2,400
 
 N Huge animal
 
-**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +12
+**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +12
 
 Defense
 
 **AC** 19, touch 10, flat-footed 17 (+2 Dex, +9 natural, –2 size)
 
-**hp** 76 (9d8+36
+**hp** 76 (9d8+36)
 
 **Fort** +10, **Ref** +8, **Will** +4
 
@@ -93,9 +93,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +16; **CMD** 28 (32 vs. trip)
 
-**Feats** [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skill_dir/perception#_perception)), [Skill Focus](feats#_skill-focus ( [Stealth](skill_dir/stealth#_stealth)), [Weapon Focus](feats#_weapon-focus) (claw
+**Feats** [Power Attack](feats#_power-attack), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skill_dir/perception#_perception)), [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth)), [Weapon Focus](feats#_weapon-focus) (claw)
 
-**Skills** [Perception](skill_dir/perception#_perception +12, [Stealth](skill_dir/stealth#_stealth) +4
+**Skills** [Perception](skill_dir/perception#_perception) +12, [Stealth](skills/stealth#_stealth) +4
 
 Ecology
 
@@ -107,7 +107,7 @@ Ecology
 
 Special Abilities
 
-**Thumb Spikes (Ex** An iguanodon's thumb spikes can inflict grievous wounds—they deal triple damage on a successful critical hit.
+**Thumb Spikes (Ex)** An iguanodon's thumb spikes can inflict grievous wounds—they deal triple damage on a successful critical hit.
 
 Iguanodons are large, herbivorous dinosaurs that inhabit swamps and forests where they can take advantage of abundant vegetation. The iguanodon is capable of moving on two feet or on four, quickly switching from one stance to the other, depending on whether it needs to move through dense foliage or to reach delectable morsels hanging up in the canopy.
 
@@ -124,7 +124,7 @@ XP 1,200
 
 N Large animal
 
-**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +8
 
 Defense
 
@@ -150,9 +150,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +10; **CMD** 22
 
-**Feats** Improved Bull Rush, [Power Attack](feats#_power-attack), [Run](feats#_run
+**Feats** Improved Bull Rush, [Power Attack](feats#_power-attack), [Run](feats#_run)
 
-**Skills** [Perception](skill_dir/perception#_perception +8, [Stealth](skill_dir/stealth#_stealth) +2
+**Skills** [Perception](skill_dir/perception#_perception) +8, [Stealth](skills/stealth#_stealth) +2
 
 Ecology
 
@@ -164,7 +164,7 @@ Ecology
 
 Special Abilities
 
-**Clobbering Charge (Ex** When a pachycephalosaurus hits a target with its slam attack at the end of a charge, it can initiate a bull rush as a free action to move the struck target back in the same direction as the dinosaur's charge. The pachycephalosaurus cannot move with the target of the bull rush. If a pachycephalosaurus scores a critical hit against a creature with its slam attack at the end of a charge, it also staggers the target for 1 round. If the victim succeeds at a DC 18 Fortitude save, the stagger effect is negated, but the victim still suffers the effects of the dinosaur's bull rush attempt. The save DC is Strength-based.
+**Clobbering Charge (Ex)** When a pachycephalosaurus hits a target with its slam attack at the end of a charge, it can initiate a bull rush as a free action to move the struck target back in the same direction as the dinosaur's charge. The pachycephalosaurus cannot move with the target of the bull rush. If a pachycephalosaurus scores a critical hit against a creature with its slam attack at the end of a charge, it also staggers the target for 1 round. If the victim succeeds at a DC 18 Fortitude save, the stagger effect is negated, but the victim still suffers the effects of the dinosaur's bull rush attempt. The save DC is Strength-based.
 
 A pachycephalosaurus is a normally peaceful dinosaur that grows irate and violent during mating season or when its herd is intruded upon by potential predators. The dinosaur's skull has a distinctive dome-shaped crown surrounded by numerous bony horns—this, combined with the dinosaur's powerful, compact neck, allows it to make battering-ram-like charges capable of inflicting great damage.
 
@@ -180,13 +180,13 @@ XP 12,800
 
 N Gargantuan animal
 
-**Init** +6; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +25
+**Init** +6; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +25
 
 Defense
 
 **AC** 24, touch 8, flat-footed 22 (+2 Dex, +16 natural, –4 size)
 
-**hp** 170 (20d8+80
+**hp** 170 (20d8+80)
 
 **Fort** +16, **Ref** +16, **Will** +9
 
@@ -194,11 +194,11 @@ Offense
 
 **Speed** 40 ft., swim 30 ft.
 
-**Melee** bite +23 (2d8+12/19–20 plus [grab](monster_dir/universalMonsterRules#_grab)), 2 claws +23 (2d6+12
+**Melee** bite +23 (2d8+12/19–20 plus [grab](monster_dir/universalMonsterRules#_grab)), 2 claws +23 (2d6+12)
 
 **Space** 20 ft.; **Reach** 20 ft.
 
-**Special Attacks** [pounce](monster_dir/universalMonsterRules#_pounce), swallow whole (2d8+12, AC 18, 17 hp)
+**Special Attacks** [pounce](monsters/universalMonsterRules#_pounce), swallow whole (2d8+12, AC 18, 17 hp)
 
 Statistics
 
@@ -206,17 +206,17 @@ Statistics
 
 **Base Atk** +15; **CMB** +31 (+35 grapple); **CMD** 43
 
-**Feats** [Critical Focus](feats#_critical-focus), [Diehard](feats#_diehard), [Endurance](feats#_endurance), [Improved Critical](feats#_improved-critical) (bite), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Run](feats#_run), [Skill Focus](feats#_skill-focus ( [Perception](skill_dir/perception#_perception)), [Staggering Critical](feats#_staggering-critical
+**Feats** [Critical Focus](feats#_critical-focus), [Diehard](feats#_diehard), [Endurance](feats#_endurance), [Improved Critical](feats#_improved-critical) (bite), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Run](feats#_run), [Skill Focus](feats#_skill-focus) ( [Perception](skill_dir/perception#_perception)), [Staggering Critical](feats#_staggering-critical)
 
-**Skills** [Perception](skill_dir/perception#_perception +25, [Swim](skill_dir/swim#_swim +28
+**Skills** [Perception](skills/perception#_perception) +25, [Swim](skill_dir/swim#_swim) +28
 
-**SQ** [hold breath](monster_dir/universalMonsterRules#_hold-breath)
+**SQ** [hold breath](monsters/universalMonsterRules#_hold-breath)
 
 Ecology
 
 **Environment** warm forests or swamps
 
-**Organization** solitary, pair, or pack (3–6
+**Organization** solitary, pair, or pack (3–6)
 
 **Treasure** none
 

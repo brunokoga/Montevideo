@@ -1,5 +1,5 @@
 ---
-title: spells/hideFromUndead
+title: spell_dir/hideFromUndead
 ---
  **Hide from Undead**
 

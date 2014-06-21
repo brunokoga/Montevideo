@@ -1,5 +1,5 @@
 ---
-title: spells/vampiricTouch
+title: spell_dir/vampiricTouch
 ---
  **Vampiric touch**
 
@@ -13,7 +13,7 @@ title: spells/vampiricTouch
 
 **Target** living creature touched
 
-**Duration** instantaneous/1 hour; see text
+**Duration** instantaneou_dir/1 hour; see text
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

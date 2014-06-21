@@ -144,9 +144,9 @@ At times during a game when you're looking to liven things up (perhaps during a 
 | 89–92 | 1 [dire tiger](tiger#_tiger-dire) | 8 |
 | 93–94 | 1 [green dragon](dragon#_chromatic-dragon-green) (young) | 8 |
 | 95–98 | 1d4 [shambling mound](shamblingMound#_shambling-mound)s | 8 |
-| 99–100 | 1 [treant](treant#_treant | 8 |
+| 99–100 | 1 [treant](treant#_treant) | 8 |
 
-## Hil_dir/Mountain CR 8
+## Hill/Mountain CR 8
 
 | d% | Encounter | Avg. CR |
 | --- | --- | --- |
@@ -364,5 +364,5 @@ At times during a game when you're looking to liven things up (perhaps during a 
 | 93–94 | 1 [intellect devourer](intellectDevourer#_intellect-devourer) (body theft) | 8 |
 | 95–96 | 1 [vampire](vampire#_vampire) | 9 |
 | 97–98 | 1 [night hag](nightHag#_night-hag) | 9 |
-| 99–100 | 1 [rakshasa](rakshasa#_rakshasa | 10 |
+| 99–100 | 1 [rakshasa](rakshasa#_rakshasa) | 10 |
 

@@ -1,19 +1,19 @@
 ---
-title: spells/guardsAndWards
+title: spell_dir/guardsAndWards
 ---
  **Guards and Wards**
 
-**School** abjuration; **Level** sorcere_dir/wizard 6
+**School** abjuration; **Level** sorcerer/wizard 6
 
 **Casting Time** 30 minutes
 
-**Components** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, and a small amount of blood), F (a small silver rod
+**Components** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, and a small amount of blood), F (a small silver rod)
 
 **Range** anywhere within the area to be warded
 
 **Area** up to 200 sq. ft./level (S)
 
-**Duration** 2 hour_dir/level (D
+**Duration** 2 hour_dir/level (D)
 
 **Saving Throw** see text; **[Spell Resistance](../glossary#_spell-resistance)** see text
 

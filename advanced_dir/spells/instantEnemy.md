@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/instantEnemy
+title: advance_dir/spells/instantEnemy
 ---
  **Instant Enemy**
 
@@ -13,7 +13,7 @@ title: advanced/spells/instantEnemy
 
 **Target** one creature that is not your favored enemy.
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 

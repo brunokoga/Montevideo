@@ -1,5 +1,5 @@
 ---
-title: spells/daylight
+title: spell_dir/daylight
 ---
  **Daylight**
 

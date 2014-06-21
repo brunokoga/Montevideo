@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/firefall
+title: advance_dir/spells/firefall
 ---
  **Firefall**
 
@@ -7,7 +7,7 @@ title: advanced/spells/firefall
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (one fire source
+**Components** V, S, M (one fire source)
 
 **Range** long (400 ft. + 40 ft./level)
 

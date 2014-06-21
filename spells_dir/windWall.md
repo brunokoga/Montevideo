@@ -1,5 +1,5 @@
 ---
-title: spells/windWall
+title: spell_dir/windWall
 ---
  **Wind Wall**
 
@@ -13,7 +13,7 @@ title: spells/windWall
 
 **Effect** wall up to 10 ft./level long and 5 ft./level high (S)
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** none; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

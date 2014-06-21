@@ -1,5 +1,5 @@
 ---
-title: spells/commandPlants
+title: spell_dir/commandPlants
 ---
  **Command Plants**
 
@@ -13,7 +13,7 @@ title: spells/commandPlants
 
 **Targets** up to 2 HD/level of plant creatures, no two of which can be more than 30 ft. apart
 
-**Duration** 1 day/level
+**Duration** 1 da_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

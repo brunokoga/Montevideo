@@ -3,17 +3,17 @@ title: spell_dir/mageSMagnificentMansion
 ---
  **Mage's Magnificent Mansion**
 
-**School** conjuration (creation; **Level** sorcere_dir/wizard 7
+**School** conjuration (creation); **Level** sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a miniature ivory door, a piece of polished marble, and a silver spoon, each worth 5 gp
+**Components** V, S, F (a miniature ivory door, a piece of polished marble, and a silver spoon, each worth 5 gp)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Effect** extradimensional mansion, up to three 10-ft. cube_dir/level (S
+**Effect** extradimensional mansion, up to three 10-ft. cube_dir/level (S)
 
-**Duration** 2 hour_dir/level (D
+**Duration** 2 hours/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

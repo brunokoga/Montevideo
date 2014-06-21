@@ -11,7 +11,7 @@ _This burrowing, bug-like monster scuttles about on six legs, drooling noxious g
 
 N Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +0; **Senses** darkvision 60 ft., low-light vision, [tremorsense](universalMonsterRules#_tremorsense 60 ft.; [Perception](../skill_dir/perception#_perception) +8
+**Init** +0; **Senses** darkvision 60 ft., low-light vision, [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skill_dir/perception#_perception) +8
 
 **DEFENSE**
 
@@ -35,11 +35,11 @@ N Large [magical beast](creatureTypes#_magical-beast)
 
 **Str** 16, **Dex** 10, **Con** 17, **Int** 1, **Wis** 13, **Cha** 6
 
-**Base Atk** +3; **CMB** +7 (+11 grapple); **CMD** 17 (25 vs. trip
+**Base Atk** +3; **CMB** +7 (+11 grapple); **CMD** 17 (25 vs. trip)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Toughness](../feats#_toughness)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)), [Toughness](../feats#_toughness)
 
-**Skills** [Climb](../skill_dir/climb#_climb +8, [Perception](../skill_dir/perception#_perception) +8
+**Skills** [Climb](../skill_dir/climb#_climb) +8, [Perception](../skill_dir/perception#_perception) +8
 
 **ECOLOGY**
 
@@ -57,7 +57,7 @@ Ankhegs are an all-too-common plague upon the rural areas of the world. These ho
 
 In combat, an ankheg prefers to attack with its bite. Against multiple foes, an ankheg often grabs one of the available targets and then attempts to retreat to safety, burrowing into the ground. A creature carried underground can still breathe with difficulty (the ankheg needs to breathe as well, so its tunnels are relatively porous), but is often eaten alive before its allies can rescue it.
 
-Ankhegs burrow with their legs and mandibles, moving with unsettling speed through loose soil, sand, gravel, and the like—they cannot burrow through solid stone. Burrowing ankhegs can construct tunnels by pausing frequently to shore up the walls with a thicker, less caustic secretion from their mouths. If an ankheg chooses to make a permanent tunnel when burrowing, it moves at half speed. A typical ankheg tunnel is 10 feet tall and wide, roughly circular in cross-section, and from 60 to 150 feet long ([1d10 + 5] × 10. Clusters of ankhegs often share the same territory and create intricate winding networks of tunnels under farmlands, sometimes resulting in sinkholes where too many burrow at once.
+Ankhegs burrow with their legs and mandibles, moving with unsettling speed through loose soil, sand, gravel, and the like—they cannot burrow through solid stone. Burrowing ankhegs can construct tunnels by pausing frequently to shore up the walls with a thicker, less caustic secretion from their mouths. If an ankheg chooses to make a permanent tunnel when burrowing, it moves at half speed. A typical ankheg tunnel is 10 feet tall and wide, roughly circular in cross-section, and from 60 to 150 feet long ([1d10 + 5] × 10). Clusters of ankhegs often share the same territory and create intricate winding networks of tunnels under farmlands, sometimes resulting in sinkholes where too many burrow at once.
 
 Although ankhegs resemble immense vermin, they are in fact much more intelligent than the typical arachnid and, given time and a talented trainer, can even be trained to serve as mounts or beasts of burden. The fact that even “domesticated” ankhegs are prone to squirting acid when frightened or startled makes them unsafe at best in most heavily populated regions, but for more savage races like hobgoblins, troglodytes, and particularly orcs, ankhegs make popular guardians or even pets.
 

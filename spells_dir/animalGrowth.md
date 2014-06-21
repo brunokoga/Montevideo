@@ -1,5 +1,5 @@
 ---
-title: spells/animalGrowth
+title: spell_dir/animalGrowth
 ---
  **Animal Growth**
 

@@ -9,5 +9,5 @@ title: spell_dir/holdAnimal
 
 **Target** one animal
 
-This spell functions like _ [hold person](holdPerson#_hold-person, _except that it affects an animal instead of a humanoid.
+This spell functions like _ [hold person](holdPerson#_hold-person), _except that it affects an animal instead of a humanoid.
 

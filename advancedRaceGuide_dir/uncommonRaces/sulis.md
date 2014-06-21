@@ -1,5 +1,5 @@
 ---
-title: advancedRaceGuide/uncommonRaces/sulis
+title: advancedRaceGuid_dir/uncommonRaces/sulis
 ---
 # Sulis
 
@@ -17,7 +17,7 @@ Sulis, or suli-jann, are the descendents of mortals and jann. They manifest thei
 
 **Low-Light Vision** : Sulis can see twice as far as humans in dim light.
 
-**Negotiator** : Sulis are keen negotiators, and gain a +2 racial bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy and [Sense Motive](skill_dir/senseMotive#_sense-motive) checks.
+**Negotiator** : Sulis are keen negotiators, and gain a +2 racial bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy) and [Sense Motive](skills/senseMotive#_sense-motive) checks.
 
 **Elemental Assault (Su)** : Once per day as a swift action, a suli can shroud her arms in acid, cold, electricity, or fire. This lasts for one round per level, and can be dismissed as a free action. Unarmed strikes with her arms or hands (or attacks with weapons held in those hands) deal +1d6 points of damage of the appropriate energy type.
 
@@ -35,9 +35,9 @@ The following racial trait may be selected instead of existing suli racial trait
 > 
 > _Firehand (fire)_: Instead of adding damage to a melee attack, the suli may hurl a piece of her arm-flames as if it were a thrown weapon. The suli makes a ranged touch attack; if the attack hits, the target takes 1d6 points of fire damage. The flames have a range increment of 10 feet.
 > 
-> _Icewalk (cold_: The suli can walk on water-based liquids as if using _ [water walk](spell_dir/waterWalk#_water-walk)_, except instead of hovering above the surface, she creates a temporary layer of ice that supports her and immediately melts once she moves away from it. This ice is not slippery to the suli and does not affect her balance or speed, though other ice affects her normally. Other creatures cannot travel on this ice, but the suli may carry a creature while moving.
+> _Icewalk (cold)_: The suli can walk on water-based liquids as if using _ [water walk](spell_dir/waterWalk#_water-walk)_, except instead of hovering above the surface, she creates a temporary layer of ice that supports her and immediately melts once she moves away from it. This ice is not slippery to the suli and does not affect her balance or speed, though other ice affects her normally. Other creatures cannot travel on this ice, but the suli may carry a creature while moving.
 > 
-> _Shockshield (electricity_: Once per round as an immediate action, the suli can shock a creature that touches or attacks her with a natural attack, unarmed strike, or metal melee weapon, dealing 1d6 points of electricity damage to the creature.
+> _Shockshield (electricity)_: Once per round as an immediate action, the suli can shock a creature that touches or attacks her with a natural attack, unarmed strike, or metal melee weapon, dealing 1d6 points of electricity damage to the creature.
 
 This racial trait otherwise works like and replaces elemental assault.
 
@@ -79,12 +79,12 @@ The following options are available to sulis. At the GM's discretion, other appr
 
 Sulis have access to the following equipment.
 
-**Elemental Flux** : This flask of alchemical powder reacts to the elemental power in suli blood. Adding at least 1 hit point worth of suli blood to it creates an alchemical splash weapon. The splash weapon works like a flask of acid, except the damage is a random energy type (acid, cold, electricity, or fire. A DC 10 [Craft](skill_dir/craft#_craft) (alchemy check identifies what energy type the activated flask has. The activated flux retains its power for 24 hours before becoming inert material. The [Craft](skill_dir/craft#_craft) (alchemy) DC to create this is 20.
+**Elemental Flux** : This flask of alchemical powder reacts to the elemental power in suli blood. Adding at least 1 hit point worth of suli blood to it creates an alchemical splash weapon. The splash weapon works like a flask of acid, except the damage is a random energy type (acid, cold, electricity, or fire). A DC 10 [Craft](skills/craft#_craft) (alchemy) check identifies what energy type the activated flask has. The activated flux retains its power for 24 hours before becoming inert material. The [Craft](skill_dir/craft#_craft) (alchemy) DC to create this is 20.
 
 [Suli Equipment]
 | Item | Cost | Weight | Craft DC |
 | --- | --- | --- | --- |
-| Elemental flux (flask | 20 gp | 1 lb. | 20 |
+| Elemental flux (flask) | 20 gp | 1 lb. | 20 |
 
 ## Suli Feats
 
@@ -116,13 +116,13 @@ Sulis have access to the following spell.
 
 Imbue with Elemental Might
 
-**School** evocation [see text]; **Level** cleric 2, magus 2, sorcere_dir/wizard 2
+**School** evocation [see text]; **Level** cleric 2, magus 2, sorcerer/wizard 2
 
 **Components** V, S
 
 **Duration** 24 hours or until discharged (D)
 
-**Save** Will negates (harmless); **Spell Resistance** yes (harmless
+**Save** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-This spell functions like _ [imbue with spell ability](spell_dir/imbueWithSpellAbility#_imbue-with-spell-ability_, except you transfer the use of your elemental assault ability to the target. The target must have an Intelligence score of at least 5 to use the ability. The imbued elemental assault functions exactly like yours, except the ability's duration is based on the target's level or Hit Dice. Once you cast this spell, you cannot use your elemental assault ability until the duration of the spell is over.
+This spell functions like _ [imbue with spell ability](spell_dir/imbueWithSpellAbility#_imbue-with-spell-ability)_, except you transfer the use of your elemental assault ability to the target. The target must have an Intelligence score of at least 5 to use the ability. The imbued elemental assault functions exactly like yours, except the ability's duration is based on the target's level or Hit Dice. Once you cast this spell, you cannot use your elemental assault ability until the duration of the spell is over.
 

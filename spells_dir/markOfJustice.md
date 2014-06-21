@@ -1,5 +1,5 @@
 ---
-title: spells/markOfJustice
+title: spell_dir/markOfJustice
 ---
  **Mark of Justice**
 

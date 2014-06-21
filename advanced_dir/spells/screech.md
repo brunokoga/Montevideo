@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/screech
+title: advance_dir/spells/screech
 ---
  **Screech**
 

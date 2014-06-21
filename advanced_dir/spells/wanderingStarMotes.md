@@ -1,19 +1,19 @@
 ---
-title: advanced/spell_dir/wanderingStarMotes
+title: advance_dir/spells/wanderingStarMotes
 ---
  **Wandering Star Motes**
 
-**School** illusion (pattern [light, mind-affecting]; **Level** bard 4, sorcere_dir/wizard 4, witch 4
+**School** illusion (pattern) [light, mind-affecting]; **Level** bard 4, sorcere_dir/wizard 4, witch 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a sprinkle of flash powder
+**Components** V, S, M (a sprinkle of flash powder)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one living creature and special; see text
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Will negates; see text; **Spell Resistance** yes
 

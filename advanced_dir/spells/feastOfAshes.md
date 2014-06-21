@@ -1,5 +1,5 @@
 ---
-title: advanced/spell_dir/feastOfAshes
+title: advance_dir/spells/feastOfAshes
 ---
  **Feast of Ashes**
 
@@ -7,15 +7,15 @@ title: advanced/spell_dir/feastOfAshes
 
 **Casting Time** 1 standard action
 
-**Component** V, S, M (a pinch of ash
+**Component** V, S, M (a pinch of ash)
 
-**Range** close (25 ft. + 5 f_dir/2 levels
+**Range** close (25 ft. + 5 f_dir/2 levels)
 
 **Target** one creature
 
-**Duration** 2 day_dir/level (D
+**Duration** 2 days/level (D)
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-You curse the target with a hunger no food can assuage. On a failed saving throw, the target begins to [starve](../../environment#_starvation-and-thirst). The effects of this spell cannot inflict more nonlethal damage than the target has hit points. No amount of eating can counter the effect and, further, even attempting to eat causes the target to become nauseated for 1 round unless they make a DC 12 Fortitude save. The target still experiences the other normal effects of anything consumed (such as poisons or potions). _Feast of ashes_ can be removed with a _ [break enchantment](../../spell_dir/breakEnchantment#_break-enchantment, [limited wish](../../spell_dir/limitedWish#_limited-wish, [miracle](../../spell_dir/miracle#_miracle, [remove curse](../../spell_dir/removeCurse#_remove-curse, _or _ [wish](../../spell_dir/wish#_wish_ spell, but effects suffered as a result of starvation must be healed by normal means.
+You curse the target with a hunger no food can assuage. On a failed saving throw, the target begins to [starve](../../environment#_starvation-and-thirst). The effects of this spell cannot inflict more nonlethal damage than the target has hit points. No amount of eating can counter the effect and, further, even attempting to eat causes the target to become nauseated for 1 round unless they make a DC 12 Fortitude save. The target still experiences the other normal effects of anything consumed (such as poisons or potions). _Feast of ashes_ can be removed with a _ [break enchantment](../../spell_dir/breakEnchantment#_break-enchantment), [limited wish](../../spell_dir/limitedWish#_limited-wish), [miracle](../../spell_dir/miracle#_miracle), [remove curse](../../spell_dir/removeCurse#_remove-curse), _or _ [wish](../../spell_dir/wish#_wish)_ spell, but effects suffered as a result of starvation must be healed by normal means.
 

@@ -3,7 +3,7 @@ title: spell_dir/removeDisease
 ---
  **Remove Disease**
 
-**School** conjuration (healing; **Level** cleric 3, druid 3, ranger 3
+**School** conjuration (healing); **Level** cleric 3, druid 3, ranger 3
 
 **Casting Time** 1 standard action
 

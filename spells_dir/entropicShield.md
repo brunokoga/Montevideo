@@ -1,5 +1,5 @@
 ---
-title: spells/entropicShield
+title: spell_dir/entropicShield
 ---
  **Entropic Shield**
 

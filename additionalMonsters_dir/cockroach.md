@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/cockroach
+title: additionalMonster_dir/cockroach
 ---
 # Cockroach, Giant
 
@@ -9,7 +9,7 @@ Giant CockroachCR 1/2
 
 **XP 200**
 
-N Small [vermin](monster_dir/creatureTypes#_vermin
+N Small [vermin](monster_dir/creatureTypes#_vermin)
 
 **Init** +1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +4
 
@@ -27,7 +27,7 @@ Offense
 
 **Speed** 30 ft., climb 30 ft., fly 40 ft. (poor)
 
-**Melee** bite +1 (1d4
+**Melee** bite +1 (1d4)
 
 Statistics
 
@@ -35,17 +35,17 @@ Statistics
 
 **Base Atk** +0; **CMB** –1; **CMD** 10
 
-**Feats** [Diehard](additionalMonsters/../feats#_diehard)B, [Endurance](additionalMonsters/../feats#_endurance)B
+**Feats** [Diehard](additionalMonsters/../feats#_diehard)B, [Endurance](additionalMonster_dir/../feats#_endurance)B
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +8, [Fly](additionalMonsters/../skill_dir/fly#_fly –1, [Perception](additionalMonsters/../skill_dir/perception#_perception +4, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +9; **Racial Modifiers** +4 [Perception](additionalMonsters/../skill_dir/perception#_perception, +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth
+**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +8, [Fly](additionalMonsters/../skill_dir/fly#_fly) –1, [Perception](additionalMonsters/../skill_dir/perception#_perception) +4, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +9; **Racial Modifiers** +4 [Perception](additionalMonsters/../skill_dir/perception#_perception), +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
 
-**SQ** [hold breath](monster_dir/universalMonsterRules#_hold-breath)
+**SQ** [hold breath](monsters/universalMonsterRules#_hold-breath)
 
 Ecology
 
 **Environment** any land
 
-**Organization** solitary or intrusion (2–20
+**Organization** solitary or intrusion (2–20)
 
 **Treasure** none
 
@@ -73,31 +73,31 @@ Cockroach SwarmCR 2
 
 **XP 600**
 
-N Diminutive [vermin](monster_dir/creatureTypes#_vermin ( [swarm](monster_dir/creatureTypes#_swarm-subtype)
+N Diminutive [vermin](monster_dir/creatureTypes#_vermin) ( [swarm](monsters/creatureTypes#_swarm-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft., tremorsense 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +4
+**Init** +2; **Senses** darkvision 60 ft., tremorsense 30 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +4
 
 Defense
 
 **AC** 16, touch 16, flat-footed 14 (+2 Dex, +4 size)
 
-**hp** 26 (4d8+8
+**hp** 26 (4d8+8)
 
 **Fort** +6, **Ref** +3, **Will** +1
 
-**Defensive Abilities** [swarm](monster_dir/creatureTypes#_swarm-subtype traits, **Immune** weapon damage
+**Defensive Abilities** [swarm](monsters/creatureTypes#_swarm-subtype) traits, **Immune** weapon damage
 
 **Weaknesses** light sensitivity, [swarm](monster_dir/creatureTypes#_swarm-subtype) traits
 
 Offense
 
-**Speed** 20 ft., climb 20 ft., fly 30 ft. (poor
+**Speed** 20 ft., climb 20 ft., fly 30 ft. (poor)
 
-**Melee** [swarm](monster_dir/creatureTypes#_swarm-subtype) (1d6
+**Melee** [swarm](monsters/creatureTypes#_swarm-subtype) (1d6)
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** [distraction](monster_dir/universalMonsterRules#_distraction) (DC 14
+**Special Attacks** [distraction](monster_dir/universalMonsterRules#_distraction) (DC 14)
 
 Statistics
 
@@ -105,15 +105,15 @@ Statistics
 
 **Base Atk** +3; **CMB** —; **CMD** —
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +10, [Fly](additionalMonsters/../skill_dir/fly#_fly +4, [Perception](additionalMonsters/../skill_dir/perception#_perception +4, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +14; **Racial Modifiers** +4 [Perception](additionalMonsters/../skill_dir/perception#_perception
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb) +10, [Fly](additionalMonsters/../skill_dir/fly#_fly) +4, [Perception](additionalMonsters/../skill_dir/perception#_perception) +4, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +14; **Racial Modifiers** +4 [Perception](additionalMonsters/../skill_dir/perception#_perception)
 
-**SQ** [hold breath](monster_dir/universalMonsterRules#_hold-breath)
+**SQ** [hold breath](monsters/universalMonsterRules#_hold-breath)
 
 Ecology
 
 **Environment** any temperate, warm, or urban
 
-**Organization** solitary, pair, or intrusion (3–20 swarms
+**Organization** solitary, pair, or intrusion (3–20 swarms)
 
 **Treasure** none
 

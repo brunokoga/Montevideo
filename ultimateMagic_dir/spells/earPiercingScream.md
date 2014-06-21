@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/earPiercingScream
+title: ultimateMagi_dir/spells/earPiercingScream
 ---
 Ear-Piercing Scream
 
-**School** evocation [sonic]; **Level** bard 1, inquisitor 1, sorcerer/wizard 1, witch 1
+**School** evocation [sonic]; **Level** bard 1, inquisitor 1, sorcere_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 

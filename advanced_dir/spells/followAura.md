@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/followAura
+title: advance_dir/spells/followAura
 ---
  **Follow Aura**
 
@@ -13,9 +13,9 @@ title: advanced/spells/followAura
 
 **Target** you
 
-**Duration** 10 minute_dir/level (D
+**Duration** 10 minute_dir/level (D)
 
-Choose one alignment type: chaotic, evil, good, or lawful. You gain the ability to follow the trail of a strong or overwhelming aura of that alignment (see _ [detect evil](../../spell_dir/detectEvil#_detect-evil)_, _Core Rulebook_ 266. This is treated as tracking using the scent special quality, except you are following the traces of their aura upon the ground rather than their scent, and you receive no bonus on [Perception](../../skill_dir/perception#_perception checks. At 10th level, you can track the trail of creatures with a moderate alignment aura as well.
+Choose one alignment type: chaotic, evil, good, or lawful. You gain the ability to follow the trail of a strong or overwhelming aura of that alignment (see _ [detect evil](../../spell_dir/detectEvil#_detect-evil)_, _Core Rulebook_ 266). This is treated as tracking using the scent special quality, except you are following the traces of their aura upon the ground rather than their scent, and you receive no bonus on [Perception](../../skill_dir/perception#_perception) checks. At 10th level, you can track the trail of creatures with a moderate alignment aura as well.
 
 When you use this spell to track a given alignment, it gains the descriptor of the opposite alignment. For example, when _follow aura_ is used to track evil, it gains the good descriptor.
 

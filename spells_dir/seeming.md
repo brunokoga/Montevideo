@@ -3,7 +3,7 @@ title: spell_dir/seeming
 ---
  **Seeming**
 
-**School** illusion (glamer; **Level** bard 5, sorcerer/wizard 5
+**School** illusion (glamer); **Level** bard 5, sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 

@@ -3,7 +3,7 @@ title: spell_dir/sleetStorm
 ---
  **Sleet Storm**
 
-**School** conjuration (creation [cold]; **Level** druid 3, sorcerer/wizard 3
+**School** conjuration (creation) [cold]; **Level** druid 3, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spell_dir/sleetStorm
 
 **Area** cylinder (40-ft. radius, 20 ft. high)
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

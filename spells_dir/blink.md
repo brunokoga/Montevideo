@@ -1,5 +1,5 @@
 ---
-title: spells/blink
+title: spell_dir/blink
 ---
  **Blink**
 
@@ -13,7 +13,7 @@ title: spells/blink
 
 **Target** you
 
-**Duration** 1 roun_dir/level (D
+**Duration** 1 roun_dir/level (D)
 
 You “blink” quickly back and forth between the Material Plane and the Ethereal Plane and look as though you're winking in and out of reality at random. _Blink _has several effects, as follows.
 

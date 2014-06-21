@@ -1,19 +1,19 @@
 ---
-title: spells/tinyHut
+title: spell_dir/tinyHut
 ---
  **Tiny Hut**
 
-**School** evocation [force]; **Level** bard 3, sorcere_dir/wizard 3
+**School** evocation [force]; **Level** bard 3, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a small crystal bead
+**Components** V, S, M (a small crystal bead)
 
 **Range** 20 ft.
 
 **Effect** 20-ft.-radius sphere centered on your location
 
-**Duration** 2 hour_dir/level (D
+**Duration** 2 hour_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

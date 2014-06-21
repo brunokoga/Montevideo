@@ -1,5 +1,5 @@
 ---
-title: ultimateEquipment/gear/clothing
+title: ultimateEquipmen_dir/gear/clothing
 ---
 # Clothing
 
@@ -122,13 +122,13 @@ Fire-Resistant Boots
 **Price** 20 gp; **Weight** 2 lbs.
 
 These heavy leather boots contain a layer of brick dust that protects your feet from heat. You gain fire resistance 2 against fire attacks directed at or under your feet, such as walking across hot coals. Repeat or prolonged exposure to fire damage eventually burns the outer leather of the boots, ruining them (typically after about 1d10+20 rounds   
-of exposure.
+of exposure).
 
 Furs
 
 **Price** 12 gp; **Weight** 5 lbs.
 
-The most basic of cold-weather gear, animal furs serve to keep their wearers warm. Wearing enough fur to cover the body provides a +2 bonus on Fortitude saves to resist cold weather. This does not stack with any bonuses gained from the [Survival](skill_dir/survival#_survival skill. Furs may supplement another outfit.
+The most basic of cold-weather gear, animal furs serve to keep their wearers warm. Wearing enough fur to cover the body provides a +2 bonus on Fortitude saves to resist cold weather. This does not stack with any bonuses gained from the [Survival](skills/survival#_survival) skill. Furs may supplement another outfit.
 
 Hat
 
@@ -146,13 +146,13 @@ Hot Weather Outfit
 
 **Price** 8 gp; **Weight** 4 lbs.
 
-Covering your body from head to foot in light, airy cloth keeps you cooler than baring your skin to the sun. This outfit typically consists of a loose linen robe and either a turban or loose head covering and veil. The outfit provides a +2 bonus on Fortitude saves to resist warm or hot weather. This does not stack with any bonuses gained from the [Survival](skill_dir/survival#_survival skill.
+Covering your body from head to foot in light, airy cloth keeps you cooler than baring your skin to the sun. This outfit typically consists of a loose linen robe and either a turban or loose head covering and veil. The outfit provides a +2 bonus on Fortitude saves to resist warm or hot weather. This does not stack with any bonuses gained from the [Survival](skill_dir/survival#_survival) skill.
 
 Ice Skates
 
 **Price** 1 gp; **Weight** 2 lbs.
 
-Each of these calf-high boots bears a vertical blade on the bottom, allowing you to travel swiftly on ice. Wearing ice skates allows you to move on ice at normal speed with a successful DC 5 [Acrobatics](skill_dir/acrobatics#_acrobatics) check (including running and charging, but your movement is reduced to half speed on all other terrain. Donning or removing an ice skate is a full-round action. Skating with only one is possible, but the DC of the [Acrobatics](skill_dir/acrobatics#_acrobatics check rises to 15.
+Each of these calf-high boots bears a vertical blade on the bottom, allowing you to travel swiftly on ice. Wearing ice skates allows you to move on ice at normal speed with a successful DC 5 [Acrobatics](skills/acrobatics#_acrobatics) check (including running and charging), but your movement is reduced to half speed on all other terrain. Donning or removing an ice skate is a full-round action. Skating with only one is possible, but the DC of the [Acrobatics](skill_dir/acrobatics#_acrobatics) check rises to 15.
 
 Jewelry
 
@@ -182,13 +182,13 @@ Monster Mask
 
 **Price** varies; **Weight** 1 lb.
 
-This articulated mask resembles a specific type of humanoid monster, such as a bugbear, goblin, orc, or hobgoblin. The mouth opens and closes when you move your jaw and its skin is actually carefully-painted cloth. Though such masks are usually intended for theater performances where an actor plays the role of a monster, adventurers have been known to use them to help blend in with monsters of the appropriate type. The mask negates the –2 [Disguise](skill_dir/disguise#_disguise) DC for disguising yourself as a different race, but only at a distance of at least 20 feet or when you have concealment; closer than this distance or in clearer circumstances, the mask is obviously a false representation. It only covers your face and is normally worn with a wig or helmet to disguise or cover the rest of your head. Each mask is most suitable for a wearer of a particular size, though some size and monster combinations are less believable than others (a Small creature in an orc mask may be able to pass as an orc child, but a Medium creature in a goblin mask at best looks like a deformed hobgoblin).
+This articulated mask resembles a specific type of humanoid monster, such as a bugbear, goblin, orc, or hobgoblin. The mouth opens and closes when you move your jaw and its skin is actually carefully-painted cloth. Though such masks are usually intended for theater performances where an actor plays the role of a monster, adventurers have been known to use them to help blend in with monsters of the appropriate type. The mask negates the –2 [Disguise](skills/disguise#_disguise) DC for disguising yourself as a different race, but only at a distance of at least 20 feet or when you have concealment; closer than this distance or in clearer circumstances, the mask is obviously a false representation. It only covers your face and is normally worn with a wig or helmet to disguise or cover the rest of your head. Each mask is most suitable for a wearer of a particular size, though some size and monster combinations are less believable than others (a Small creature in an orc mask may be able to pass as an orc child, but a Medium creature in a goblin mask at best looks like a deformed hobgoblin).
 
 Noble's Outfit
 
 **Price** 75 gp; **Weight** 10 lbs.
 
-These clothes are designed specifically to be expensive and gaudy, letting everyone know exactly how expensive they are. Precious metals and gems are worked into the clothing, along with elaborate embroidery, and some outfits may contain impractical concessions to high fashion. A would-be noble also needs a signet ring and jewelry (worth at least 100 gp to accessorize this outfit.
+These clothes are designed specifically to be expensive and gaudy, letting everyone know exactly how expensive they are. Precious metals and gems are worked into the clothing, along with elaborate embroidery, and some outfits may contain impractical concessions to high fashion. A would-be noble also needs a signet ring and jewelry (worth at least 100 gp) to accessorize this outfit.
 
 Patchwork Cloak
 
@@ -218,7 +218,7 @@ Poncho
 
 **Price** 5 sp; **Weight** 2 lbs.
 
-This circle of water-resistant fabric (typically wool or leather has a hooded opening in the center, making it easy to slip it on or off and protecting your entire body from rain or snow.
+This circle of water-resistant fabric (typically wool or leather) has a hooded opening in the center, making it easy to slip it on or off and protecting your entire body from rain or snow.
 
 Reinforced Scarf
 

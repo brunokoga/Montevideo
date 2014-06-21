@@ -1,5 +1,5 @@
 ---
-title: spells/earthquake
+title: spell_dir/earthquake
 ---
  **Earthquake**
 

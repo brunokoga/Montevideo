@@ -9,7 +9,7 @@ _This ray-like creature opens a toothy maw and leers with glaring red eyes. Behi
 
 **XP 1,600**
 
-CN Large [aberration](creatureTypes#_aberration
+CN Large [aberration](creatureTypes#_aberration)
 
 **Init** +7; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +14
 
@@ -37,11 +37,11 @@ CN Large [aberration](creatureTypes#_aberration
 
 **Str** 21, **Dex** 16, **Con** 19, **Int** 14, **Wis** 15, **Cha** 14
 
-**Base Atk** +4; **CMB** +10; **CMD** 23 (can't be tripped
+**Base Atk** +4; **CMB** +10; **CMD** 23 (can't be tripped)
 
-**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Disguise](../skill_dir/disguise#_disguise) +8 (+16 as cloak, [Fly](../skill_dir/fly#_fly +10, [Knowledge](../skill_dir/knowledge#_knowledge) (religion +11, [Perception](../skill_dir/perception#_perception +14, [Sense Motive](../skill_dir/senseMotive#_sense-motive +8, [Stealth](../skill_dir/stealth#_stealth +8; **Racial Modifiers** +8 [Disguise](../skill_dir/disguise#_disguise) to appear as a cloak, sheet, manta ray, or similarly shaped object or creature
+**Skills** [Disguise](../skill_dir/disguise#_disguise) +8 (+16 as cloak), [Fly](../skill_dir/fly#_fly) +10, [Knowledge](../skill_dir/knowledge#_knowledge) (religion) +11, [Perception](../skill_dir/perception#_perception) +14, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +8, [Stealth](../skill_dir/stealth#_stealth) +8; **Racial Modifiers** +8 [Disguise](../skill_dir/disguise#_disguise) to appear as a cloak, sheet, manta ray, or similarly shaped object or creature
 
 **Languages** Undercommon
 
@@ -61,7 +61,7 @@ CN Large [aberration](creatureTypes#_aberration
 
 _Fear_: All creatures in a 30-foot spread must save (Will negates) or become panicked for 2 rounds.
 
-_Nausea_: All creatures in a 30-foot cone must save (Fortitude negates or fall prone and be nauseated for 1d4+1 rounds.
+_Nausea_: All creatures in a 30-foot cone must save (Fortitude negates) or fall prone and be nauseated for 1d4+1 rounds.
 
 _Stupor_: A single creature within 30 feet is affected by _ [hold monster](../spell_dir/holdMonster#_hold-monster)_ for 5 rounds (Will negates).
 
@@ -69,7 +69,7 @@ _Unnerve_: Anyone within a 60-foot spread automatically takes a –2 penalty on 
 
 Cloakers are immune to these sonic, mind-affecting attacks. A creature that successfully saves against the cloaker's fear, nausea, or unnerve moans cannot be affected by that same moan effect from that cloaker for 24 hours. All of the save DCs against a cloaker's moan are DC 15. Save DCs are Charisma-based.
 
-**Shadow Shift (Su** When in dim illumination, a cloaker can manipulate shadows as a free action to create one of three effects: _ [blur](../spell_dir/blur#_blur)_ (lasts 1d4 rounds, self only, _ [mirror image](../spell_dir/mirrorImage#_mirror-image)_ (CL 6th, or _ [silent image](../spell_dir/silentImage#_silent-image)_ (DC 15, CL 6th, save DC is Charisma-based.
+**Shadow Shift (Su)** When in dim illumination, a cloaker can manipulate shadows as a free action to create one of three effects: _ [blur](../spell_dir/blur#_blur)_ (lasts 1d4 rounds, self only), _ [mirror image](../spell_dir/mirrorImage#_mirror-image)_ (CL 6th), or _ [silent image](../spell_dir/silentImage#_silent-image)_ (DC 15, CL 6th, save DC is Charisma-based).
 
 Resembling hideously evil flying manta rays, cloakers are mysterious and paranoid creatures. A typical specimen has an 8-foot wingspan and weighs 100 pounds.
 

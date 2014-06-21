@@ -3,17 +3,17 @@ title: spell_dir/glitterdust
 ---
  **Glitterdust**
 
-**School** conjuration (creation; **Level** bard 2, sorcere_dir/wizard 2
+**School** conjuration (creation); **Level** bard 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (ground mica
+**Components** V, S, M (ground mica)
 
 **Range** medium (100 ft. + 10 ft./level)
 
 **Area** creatures and objects within 10-ft.-radius spread
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Save** [Will](../combat#_will) negates (blinding only); **SR** no
 

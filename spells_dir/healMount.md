@@ -3,7 +3,7 @@ title: spell_dir/healMount
 ---
  **Heal Mount**
 
-**School** conjuration (healing; **Level** paladin 3
+**School** conjuration (healing); **Level** paladin 3
 
 **Casting Time** 1 standard action
 

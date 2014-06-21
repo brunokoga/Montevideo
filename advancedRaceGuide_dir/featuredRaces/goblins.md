@@ -1,5 +1,5 @@
 ---
-title: advancedRaceGuide/featuredRaces/goblins
+title: advancedRaceGuid_dir/featuredRaces/goblins
 ---
 # Goblins
 
@@ -31,13 +31,13 @@ Goblin babies are almost completely self-sufficient not long after birth, and su
 
 **Goblinoid** : Goblins are humanoids with the goblinoid subtype.
 
-**Small** : Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](skill_dir/stealth#_stealth checks.
+**Small** : Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](skill_dir/stealth#_stealth) checks.
 
 **Fast** : Goblins are fast for their size, and have a base speed of 30 feet.
 
 **Darkvision** : Goblins can see in the dark up to 60 feet.
 
-**Skilled** : +4 racial bonus on [Ride](skill_dir/ride#_ride and [Stealth](skill_dir/stealth#_stealth checks.
+**Skilled** : +4 racial bonus on [Ride](skills/ride#_ride) and [Stealth](skill_dir/stealth#_stealth) checks.
 
 **Languages** : Goblins begin play speaking Goblin. Goblins with high Intelligence scores can choose from the following: Common, Draconic, Dwarven, Gnoll, Gnome, Halfling, and Orc.
 
@@ -45,17 +45,17 @@ Goblin babies are almost completely self-sufficient not long after birth, and su
 
 The following racial traits may be selected instead of existing goblin racial traits. Consult your GM before selecting any of these new options.
 
-**Cave Crawler** : Some goblins are born and raised in caves and rarely see the light of day. Goblins with this trait gain a climb speed of 10 feet and the +8 racial bonus on [Climb](skill_dir/climb#_climb checks associated with having a climb speed. Goblins with this racial trait have a base speed of 20 feet and lose the fast movement racial trait.
+**Cave Crawler** : Some goblins are born and raised in caves and rarely see the light of day. Goblins with this trait gain a climb speed of 10 feet and the +8 racial bonus on [Climb](skills/climb#_climb) checks associated with having a climb speed. Goblins with this racial trait have a base speed of 20 feet and lose the fast movement racial trait.
 
-**City Scavenger** : Goblins who live within the boundaries of human cities survive by scavenging for refuse and hunting stray animals. Goblins with this trait gain a +2 racial bonus on [Perception](skill_dir/perception#_perception and [Survival](skill_dir/survival#_survival checks, and can use [Survival](skill_dir/survival#_survival to forage for food while in a city. This racial trait replaces skilled.
+**City Scavenger** : Goblins who live within the boundaries of human cities survive by scavenging for refuse and hunting stray animals. Goblins with this trait gain a +2 racial bonus on [Perception](skill_dir/perception#_perception) and [Survival](skills/survival#_survival) checks, and can use [Survival](skill_dir/survival#_survival) to forage for food while in a city. This racial trait replaces skilled.
 
-**Eat Anything** : Raised with little or no proper food, many goblins have learned to survive by eating whatever they happen across and can digest nearly anything without getting sick. Goblins with this trait gain a +4 on [Survival](skill_dir/survival#_survival checks to forage for food and a +4 racial bonus on saves versus effects that cause the nauseated or sickened conditions. This racial trait replaces skilled.
+**Eat Anything** : Raised with little or no proper food, many goblins have learned to survive by eating whatever they happen across and can digest nearly anything without getting sick. Goblins with this trait gain a +4 on [Survival](skills/survival#_survival) checks to forage for food and a +4 racial bonus on saves versus effects that cause the nauseated or sickened conditions. This racial trait replaces skilled.
 
 **Hard Head, Big Teeth** : Goblins are known for their balloonlike heads and enormous maws, but some have even more exaggeratedly large heads filled with razor-sharp teeth. Goblins with this trait gain a bite attack as a primary natural attack that deals 1d4 points of damage. This racial trait replaces skilled.
 
-**Over-Sized Ears** : While goblins' ears are never dainty, these goblins have freakishly large ears capable of picking up even the smallest sounds. Goblins with this racial trait gain a +4 bonus on [Perception](skill_dir/perception#_perception checks. This racial trait replaces skilled.
+**Over-Sized Ears** : While goblins' ears are never dainty, these goblins have freakishly large ears capable of picking up even the smallest sounds. Goblins with this racial trait gain a +4 bonus on [Perception](skill_dir/perception#_perception) checks. This racial trait replaces skilled.
 
-**Tree Runner** : In trackless rain forests and marshes, it can be difficult to find dry ground to build on. Goblin tribes living in such areas have learned to live in the treetops. These goblins gain a +4 racial bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics and [Climb](skill_dir/climb#_climb checks. This racial trait replaces skilled.
+**Tree Runner** : In trackless rain forests and marshes, it can be difficult to find dry ground to build on. Goblin tribes living in such areas have learned to live in the treetops. These goblins gain a +4 racial bonus on [Acrobatics](skills/acrobatics#_acrobatics) and [Climb](skill_dir/climb#_climb) checks. This racial trait replaces skilled.
 
 **Weapon Familiarity** : Goblins' traditional weapons are the dogslicer and the horsechopper, weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the dogslicer and the horsechopper, and treat any weapon with the word "goblin" in it as martial weapons. This racial trait replaces skilled.
 
@@ -127,9 +127,9 @@ Fire bombers are exceptionally good at using bombs to burn creatures and blow th
 
 **Fire Body (Ex)** : At 8th level, a fire bomber adds _ [elemental body I](spell_dir/elementalBody#_elemental-body-i)_ to his extract list as a 3rd-level extract. _Elemental body_ extracts prepared using fire body are limited to fire elementals only. This ability replaces poison resistance +6.
 
-**Improved Fire Body (Ex** : At 10th level, fire bombers add _ [elemental body II](spell_dir/elementalBody#_elemental-body-ii)_ to their spell list as a 4th-level extract. _Elemental body_ extracts prepared using improved fire body are limited to fire elementals only. This ability replaces poison immunity.
+**Improved Fire Body (Ex)** : At 10th level, fire bombers add _ [elemental body II](spells/elementalBody#_elemental-body-ii)_ to their spell list as a 4th-level extract. _Elemental body_ extracts prepared using improved fire body are limited to fire elementals only. This ability replaces poison immunity.
 
-**Greater Fire Body (Ex** : At 14th level, fire bombers add _ [elemental body IV](spell_dir/elementalBody#_elemental-body-iv_ to their spell list as a 5th-level extract._ Elemental body_ extracts prepared using greater fire body are limited to fire elementals only. This ability replaces persistent mutagen.
+**Greater Fire Body (Ex)** : At 14th level, fire bombers add _ [elemental body IV](spell_dir/elementalBody#_elemental-body-iv)_ to their spell list as a 5th-level extract._ Elemental body_ extracts prepared using greater fire body are limited to fire elementals only. This ability replaces persistent mutagen.
 
 **Discoveries** : The following discoveries complement the fire bomber archetype: fire brand, rocket bomb ; explosive bombs, fast bombs, inferno bomb, precise bombs breath weapon bomb, explosive missile, immolation bomb ; bottled ooze, confusion bomb, strafe bomb .
 
@@ -137,9 +137,9 @@ Fire bombers are exceptionally good at using bombs to burn creatures and blow th
 
 The following discoveries are available to goblin alchemists.
 
-_Fire [Brand](advanced/spell_dir/brand#_brand) (Su_: An alchemist with this discovery can expend one daily bomb use to apply the bomb reagents to his weapon as a swift action. A weapon treated this way deals fire damage as if it had the _ [flaming](magicItem_dir/weapons#_weapons-flaming_ weapon special ability. At 10th level, the weapon is treated as if it had the _ [flaming burst](magicItem_dir/weapons#_weapons-flaming-burst)_ weapon special ability. The bomb reagents continue burning for 1 minute or until extinguished by dousing the weapon in water. An alchemist can use this ability with natural weapons, but he takes 1d6 points of fire damage per round for each natural weapon treated.
+_Fire [Brand](advanced/spell_dir/brand#_brand) (Su)_: An alchemist with this discovery can expend one daily bomb use to apply the bomb reagents to his weapon as a swift action. A weapon treated this way deals fire damage as if it had the _ [flaming](magicItems/weapons#_weapons-flaming)_ weapon special ability. At 10th level, the weapon is treated as if it had the _ [flaming burst](magicItem_dir/weapons#_weapons-flaming-burst)_ weapon special ability. The bomb reagents continue burning for 1 minute or until extinguished by dousing the weapon in water. An alchemist can use this ability with natural weapons, but he takes 1d6 points of fire damage per round for each natural weapon treated.
 
-_Rag Doll Mutagen (Su_: When the alchemist imbibes a mutagen, his body and bones become rubbery and easy to contort. The alchemist gains a bonus equal to his class level on [Escape Artist](skill_dir/escapeArtist#_escape-artist) checks, can squeeze through places as if he were one size category smaller, and can make a Reflex save (DC equal to 15 + 1 for every 10 feet fallen) to take half damage from falling. At 10th level, all falling damage is considered nonlethal damage, and the alchemist can squeeze through places as if he were two size categories smaller than his size while under the effects of this mutagen.
+_Rag Doll Mutagen (Su)_: When the alchemist imbibes a mutagen, his body and bones become rubbery and easy to contort. The alchemist gains a bonus equal to his class level on [Escape Artist](skills/escapeArtist#_escape-artist) checks, can squeeze through places as if he were one size category smaller, and can make a Reflex save (DC equal to 15 + 1 for every 10 feet fallen) to take half damage from falling. At 10th level, all falling damage is considered nonlethal damage, and the alchemist can squeeze through places as if he were two size categories smaller than his size while under the effects of this mutagen.
 
 _Rocket Bomb (Su)_: Alchemists with this discovery can prepare special rockets to deliver their bombs. Rocket bombs travel farther and explode bigger than normal bombs, but cannot target individual creatures. Rocket bombs explode in a 20-foot radius, and all creatures in that area take the alchemist's normal splash damage. The range increment on a rocket bomb is 50 feet. Rocket bombs cannot be used with the precise bomb or fast bomb discoveries. An alchemist must be at least 6th level before selecting this discovery.
 
@@ -161,7 +161,7 @@ The following items are just some of the pieces of equipment used by goblins.
 
 **Mellowroot** : Sneaky goblin chieftains give this orange paste to the tribe's warriors before proposing a particularly bold raid. Consuming mellowroot causes a euphoric feeling that makes you feel invulnerable. For 1 hour after consuming mellowroot, you gain a +5 alchemical bonus versus fear effects. However, while under the effects of mellowroot, you must make a DC 15 Will saving throw when you try to leave the threatened area of an opponent. If you fail the saving throw, you cannot leave the threatened area with that action but do not lose the action.
 
-**Stillgut** : Drinking a vial of this bland, bluish liquid grants you a +5 alchemical bonus on Fortitude saves to avoid nausea or sickness for 1 hour. If you are already nauseated, you can drink stillgut as a move action. Drinking it in this fashion grants you a second saving throw (without the +5 bonus. Goblins often use stillgut so they can choke down meat or other foods in advanced stages of rot or decay.
+**Stillgut** : Drinking a vial of this bland, bluish liquid grants you a +5 alchemical bonus on Fortitude saves to avoid nausea or sickness for 1 hour. If you are already nauseated, you can drink stillgut as a move action. Drinking it in this fashion grants you a second saving throw (without the +5 bonus). Goblins often use stillgut so they can choke down meat or other foods in advanced stages of rot or decay.
 
 [Goblin Equipment]
 | Items | Cost | Weight | Craft DC |
@@ -182,7 +182,7 @@ You take the goblin love of arson and fire play to a whole new level.
 
 **Benefit** : You deal an extra 1d4 points of fire damage when you attack with fire from an alchemical or nonmagical source (such as with alchemical fire or torches) and gain a +4 competence bonus on Reflex saving throws made to avoid catching on fire or to put yourself out when on fire. Additional damage caused by this feat does not apply to magical attacks (such as an alchemist's bomb) or to splash damage.
 
-### Fire Hand (Combat
+### Fire Hand (Combat)
 
 Born with a torch in your hand, you have a gift with anything that burns.
 
@@ -196,7 +196,7 @@ You know your way around even magical fire.
 
 **Prerequisite** : Goblin.
 
-**Benefit** : You gain a +2 bonus on saves against spells with the fire descriptor. Additionally, your scars mark you as a talented fire tamer, granting you a +2 circumstance bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy and [Intimidate](skill_dir/intimidate#_intimidate) checks when dealing with other goblins.
+**Benefit** : You gain a +2 bonus on saves against spells with the fire descriptor. Additionally, your scars mark you as a talented fire tamer, granting you a +2 circumstance bonus on [Diplomacy](skills/diplomacy#_diplomacy) and [Intimidate](skill_dir/intimidate#_intimidate) checks when dealing with other goblins.
 
 ### Flame Heart
 
@@ -220,9 +220,9 @@ You have learned how to fire the big guns.
 
 Creatures who cross your path find themselves tripping over their own feet.
 
-**Prerequisites** : [Dodge](feats#_dodge, Mobility, [Underfoot](advance_dir/advancedFeats#_underfoot , goblin, Small size or smaller.
+**Prerequisites** : [Dodge](feats#_dodge), Mobility, [Underfoot](advanced/advancedFeats#_underfoot) , goblin, Small size or smaller.
 
-**Benefit** : When you successfully make an [Acrobatics](skill_dir/acrobatics#_acrobatics check to avoid provoking an attack of opportunity from a larger opponent when you move through its threatened area or its space, you can make that opponent lose its balance until the end of its next turn as a free action. While that creature's balance is lost, if it attempts to move, it must make a successful DC 15 [Acrobatics](skill_dir/acrobatics#_acrobatics) check or fall prone, wasting the move action. You can only affect one creature with this effect each round.
+**Benefit** : When you successfully make an [Acrobatics](skill_dir/acrobatics#_acrobatics) check to avoid provoking an attack of opportunity from a larger opponent when you move through its threatened area or its space, you can make that opponent lose its balance until the end of its next turn as a free action. While that creature's balance is lost, if it attempts to move, it must make a successful DC 15 [Acrobatics](skills/acrobatics#_acrobatics) check or fall prone, wasting the move action. You can only affect one creature with this effect each round.
 
 ## Goblin Magic Items
 
@@ -240,7 +240,7 @@ This rough-looking cloak covered in coarse animal hair is greatly prized by gobl
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item, _ [alter self](spell_dir/alterSelf#_alter-self_, _ [resistance](spell_dir/resistance#_resistance_; **Cost** 1,250 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [alter self](spell_dir/alterSelf#_alter-self)_, _ [resistance](spells/resistance#_resistance)_; **Cost** 1,250 gp
 
 ## Goblin Spells
 
@@ -248,7 +248,7 @@ Goblins have access to the following spells.
 
 Fire Trail
 
-**School** transmutation [fire]; **Level** alchemist 3, magus 3, sorcerer/wizard 3
+**School** transmutation [fire]; **Level** alchemist 3, magus 3, sorcere_dir/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -258,17 +258,17 @@ Fire Trail
 
 **Effect** trail of flame that follows the caster's movements; see text
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round/level
 
 **Saving Throw** none; **Spell Resistance** yes
 
 When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously combusting. The flame does not harm you. During this spell's duration, each time you leave your space, you create a trail of fire that burns within the spaces you move through for 1 round before it burns out. You can leave up to 60 feet of flame trail each round, assuming you are Small or Medium. If you are larger than Medium, the maximum trail length is reduced based on your size. If you are Large, you can leave a trail up to 30 feet long (and 10 feet wide), and if you are Huge, you can leave a trail up to 15 feet long (and 15 feet wide); even larger casters can only leave a trail up to 10 feet long (and as wide as your space) each round. You choose where to leave a flame trail.
 
-Creatures that start their turn adjacent to the flame trail take 1d6 points of fire damage. Creatures that start their turn within the flame trail or that enter an area of flame take a number of points of fire damage equal to 1d6 + 1 per caster level (maximum +10. If a creature moves into an area of the flame trail multiple times in a round, it takes this damage each time it enters the area of the flame trail. Flammable objects in or adjacent to the fire trail catch fire.
+Creatures that start their turn adjacent to the flame trail take 1d6 points of fire damage. Creatures that start their turn within the flame trail or that enter an area of flame take a number of points of fire damage equal to 1d6 + 1 per caster level (maximum +10). If a creature moves into an area of the flame trail multiple times in a round, it takes this damage each time it enters the area of the flame trail. Flammable objects in or adjacent to the fire trail catch fire.
 
 Mudball
 
-**School** conjuration [earth]; **Level** druid 1, magus 1, sorcerer/wizard 1, witch 1
+**School** conjuration [earth]; **Level** druid 1, magus 1, sorcere_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -286,7 +286,7 @@ When you cast this spell, you conjure a single ball of sticky mud and launch it 
 
 Vomit Twin
 
-**School** conjuration (creation, teleportation); **Level** alchemist 3, magus 3, sorcerer/wizard 4, summoner 3
+**School** conjuration (creation, teleportation); **Level** alchemist 3, magus 3, sorcere_dir/wizard 4, summoner 3
 
 **Casting Time** 1 standard action
 
@@ -298,7 +298,7 @@ Vomit Twin
 
 **Duration** 1 round/level
 
-Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square. As long as the twin exists, whenever you take a move action to move, the twin can move as well, although it does not need to follow you and cannot take any other actions. On subsequent rounds, at the start of your turn, you can instantaneously exchange places with your twin, as if using _ [teleport](spell_dir/teleport#_teleport_. This is not an action and does not provoke an attack of opportunity.
+Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square. As long as the twin exists, whenever you take a move action to move, the twin can move as well, although it does not need to follow you and cannot take any other actions. On subsequent rounds, at the start of your turn, you can instantaneously exchange places with your twin, as if using _ [teleport](spell_dir/teleport#_teleport)_. This is not an action and does not provoke an attack of opportunity.
 
 The twin has a speed of 30 feet and provokes attacks of opportunity from movement as normal. It has an AC equal to 10 + 1/2 your caster level and a number of hit points equal to your caster level. If the twin is reduced to 0 hit points, it is destroyed, although you can create a new one on your turn as a standard action as long as the duration persists. You cannot have more than one vomit twin at a time.
 

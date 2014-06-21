@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/wrathfulMantle
+title: advance_dir/spells/wrathfulMantle
 ---
  **Wrathful Mantle**
 
@@ -17,5 +17,5 @@ title: advanced/spells/wrathfulMantle
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-A shimmering mantle of light shrouds the subject, casting light like a torch. The subject of the spell gains a +1 resistance bonus on all saving throws per four caster levels (maximum +5 at 20th level. The subject can end the _wrathful mantle_ at any time as a swift action to deal 2d8 points of force damage to all creatures within 5 feet.
+A shimmering mantle of light shrouds the subject, casting light like a torch. The subject of the spell gains a +1 resistance bonus on all saving throws per four caster levels (maximum +5 at 20th level). The subject can end the _wrathful mantle_ at any time as a swift action to deal 2d8 points of force damage to all creatures within 5 feet.
 

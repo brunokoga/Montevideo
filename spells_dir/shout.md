@@ -1,5 +1,5 @@
 ---
-title: spells/shout
+title: spell_dir/shout
 ---
  **Shout**
 
@@ -23,7 +23,7 @@ You emit an ear-splitting yell that deafens and damages creatures in its path. A
 
 **School** evocation [sonic]; **Level** bard 6, sorcere_dir/wizard 8
 
-**Components** : V, S, F (a metal or ivory horn
+**Components** : V, S, F (a metal or ivory horn)
 
 **Range** 60 ft.
 

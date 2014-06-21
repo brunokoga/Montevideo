@@ -1,5 +1,5 @@
 ---
-title: classes/wizard
+title: classe_dir/wizard
 ---
 # Wizard
 
@@ -13,7 +13,7 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
 
 ## Class Skills
 
-The wizard's class skills are [Appraise](../skill_dir/appraise#_appraise ( [Int](../gettingStarted#_intelligence)), [Craft](../skill_dir/craft#_craft ( [Int](../gettingStarted#_intelligence)), [Fly](../skill_dir/fly#_fly ( [Dex](../gettingStarted#_dexterity)), [Knowledge](../skill_dir/knowledge#_knowledge) (all ( [Int](../gettingStarted#_intelligence)), [Linguistics](../skill_dir/linguistics#_linguistics ( [Int](../gettingStarted#_intelligence)), [Profession](../skill_dir/profession#_profession ( [Wis](../gettingStarted#_wisdom)), and [Spellcraft](../skill_dir/spellcraft#_spellcraft ( [Int](../gettingStarted#_intelligence)).
+The wizard's class skills are [Appraise](../skill_dir/appraise#_appraise) ( [Int](../gettingStarted#_intelligence)), [Craft](../skill_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Fly](../skill_dir/fly#_fly) ( [Dex](../gettingStarted#_dexterity)), [Knowledge](../skill_dir/knowledge#_knowledge) (all) ( [Int](../gettingStarted#_intelligence)), [Linguistics](../skill_dir/linguistics#_linguistics) ( [Int](../gettingStarted#_intelligence)), [Profession](../skill_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), and [Spellcraft](../skill_dir/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)).
 
 **Skill Ranks per Level** : 2 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -49,7 +49,7 @@ The following are the class features of the wizard.
 
 **Weapon and Armor Proficiency** : Wizards are proficient with the club, dagger, heavy crossbow, light crossbow, and quarterstaff, but not with any type of armor or shield. Armor interferes with a wizard's movements, which can cause his spells with somatic components to fail.
 
-**Spells** : A wizard casts arcane spells drawn from the sorcerer/wizard spell list presented in [Spell Lists](../spellLists). A wizard must choose and prepare his spells ahead of time.
+**Spells** : A wizard casts arcane spells drawn from the sorcere_dir/wizard spell list presented in [Spell Lists](../spellLists). A wizard must choose and prepare his spells ahead of time.
 
 To learn, prepare, or cast a spell, the wizard must have an [Intelligence](../gettingStarted#_intelligence) score equal to at least 10 + the spell level. The Difficulty Class for a [saving throw](../combat#_saving-throws) against a wizard's spell is 10 + the spell level + the wizard's [Intelligence](../gettingStarted#_intelligence) modifier.
 
@@ -83,7 +83,7 @@ Each arcane school gives the wizard a number of school powers. In addition, spec
 
 **Spellbooks** : A wizard must study his spellbook each day to prepare his spells. He cannot prepare any spell not recorded in his spellbook, except for _ [read magic](../spell_dir/readMagic#_read-magic)_, which all wizards can prepare from memory.
 
-A wizard begins play with a spellbook containing all 0-level wizard spells (except those from his prohibited schools, if any; see Arcane Schools plus three 1st-level spells of his choice. The wizard also selects a number of additional 1st-level spells equal to his [Intelligence](../gettingStarted#_intelligence) modifier to add to the spellbook. At each new wizard level, he gains two new spells of any spell level or levels that he can cast (based on his new wizard level) for his spellbook. At any time, a wizard can also add spells found in other wizards' spellbooks to his own (see [Magic](../magic)).
+A wizard begins play with a spellbook containing all 0-level wizard spells (except those from his prohibited schools, if any; see Arcane Schools) plus three 1st-level spells of his choice. The wizard also selects a number of additional 1st-level spells equal to his [Intelligence](../gettingStarted#_intelligence) modifier to add to the spellbook. At each new wizard level, he gains two new spells of any spell level or levels that he can cast (based on his new wizard level) for his spellbook. At any time, a wizard can also add spells found in other wizards' spellbooks to his own (see [Magic](../magic)).
 
 ## Arcane Schools
 
@@ -105,7 +105,7 @@ The conjurer focuses on the study of summoning monsters and magic alike to bend 
 
 _Summoner's Charm [(Su)](../glossary#_supernatural-abilities-su)_: Whenever you cast a conjuration ( [summoning](../magic#_summoning)) spell, increase the duration by a number of rounds equal to 1/2 your wizard level (minimum 1). At 20th level, you can change the duration of all _summon monster_ spells to permanent. You can have no more than one _summon monster_ spell made permanent in this way at one time. If you designate another _ [summon monster](../spell_dir/summonMonster#_summon-monster-i) _spell as permanent, the previous spell immediately ends.
 
-_Acid Dart [(Sp](../glossary#_spell-like-abilities-sp)_: As a standard action you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. The acid dart deals 1d6 points of acid damage + 1 for every two wizard levels you possess. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier. This attack ignores spell resistance.
+_Acid Dart [(Sp)](../glossary#_spell-like-abilities-sp)_: As a standard action you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. The acid dart deals 1d6 points of acid damage + 1 for every two wizard levels you possess. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier. This attack ignores spell resistance.
 
 _Dimensional Steps [(Sp)](../glossary#_spell-like-abilities-sp)_: At 8th level, you can use this ability to teleport up to 30 feet per wizard level per day as a standard action. This teleportation must be used in 5-foot increments and such movement does not provoke an [attack of opportunity](../combat#_attacks-of-opportunity). You can bring other willing creatures with you, but you must expend an equal amount of distance for each additional creature brought with you.
 
@@ -113,7 +113,7 @@ _Dimensional Steps [(Sp)](../glossary#_spell-like-abilities-sp)_: At 8th level, 
 
 Diviners are masters of remote viewing, prophecies, and using magic to explore the world.
 
-_Forewarned [(Su)](../glossary#_supernatural-abilities-su)_: You can always act in the surprise round even if you fail to make a [Perception](../skill_dir/perception#_perception roll to notice a foe, but you are still considered [flat-footed](../glossary#_flat-footed) until you take an action. In addition, you receive a bonus on initiative checks equal to 1/2 your wizard level (minimum +1). At 20th level, anytime you roll initiative, assume the roll resulted in a natural 20.
+_Forewarned [(Su)](../glossary#_supernatural-abilities-su)_: You can always act in the surprise round even if you fail to make a [Perception](../skill_dir/perception#_perception) roll to notice a foe, but you are still considered [flat-footed](../glossary#_flat-footed) until you take an action. In addition, you receive a bonus on initiative checks equal to 1/2 your wizard level (minimum +1). At 20th level, anytime you roll initiative, assume the roll resulted in a natural 20.
 
 _Diviner's Fortune [(Sp)](../glossary#_spell-like-abilities-sp)_: When you activate this school power, you can touch any creature as a standard action to give it an insight bonus on all of its attack rolls, [skill checks](../usingSkills#_skill-checks), ability checks, and [saving throws](../combat#_saving-throws) equal to 1/2 your wizard level (minimum +1) for 1 round. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier.
 
@@ -123,9 +123,9 @@ _Scrying Adept [(Su)](../glossary#_supernatural-abilities-su)_: At 8th level, yo
 
 The enchanter uses magic to control and manipulate the minds of his victims.
 
-_Enchanting Smile [(Su](../glossary#_supernatural-abilities-su)_: You gain a +2 enhancement bonus on [Bluff](../skill_dir/bluff#_bluff, [Diplomacy](../skill_dir/diplomacy#_diplomacy, and [Intimidate](../skill_dir/intimidate#_intimidate [skill checks](../usingSkills#_skill-checks). This bonus increases by +1 for every five wizard levels you possess, up to a maximum of +6 at 20th level. At 20th level, whenever you succeed at a [saving throw](../combat#_saving-throws) against a spell of the enchantment school, that spell is reflected back at its caster, as per _ [spell turning](../spell_dir/spellTurning#_spell-turning)_.
+_Enchanting Smile [(Su)](../glossary#_supernatural-abilities-su)_: You gain a +2 enhancement bonus on [Bluff](../skill_dir/bluff#_bluff), [Diplomacy](../skill_dir/diplomacy#_diplomacy), and [Intimidate](../skill_dir/intimidate#_intimidate) [skill checks](../usingSkills#_skill-checks). This bonus increases by +1 for every five wizard levels you possess, up to a maximum of +6 at 20th level. At 20th level, whenever you succeed at a [saving throw](../combat#_saving-throws) against a spell of the enchantment school, that spell is reflected back at its caster, as per _ [spell turning](../spell_dir/spellTurning#_spell-turning)_.
 
-_Dazing Touch [(Sp](../glossary#_spell-like-abilities-sp)_: You can cause a living creature to become [dazed](../glossary#_dazed) for 1 round as a melee touch attack. Creatures with more Hit Dice than your wizard level are unaffected. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier.
+_Dazing Touch [(Sp)](../glossary#_spell-like-abilities-sp)_: You can cause a living creature to become [dazed](../glossary#_dazed) for 1 round as a melee touch attack. Creatures with more Hit Dice than your wizard level are unaffected. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier.
 
 _Aura of Despair [(Su)](../glossary#_supernatural-abilities-su)_: At 8th level, you can emit a 30-foot aura of despair for a number of rounds per day equal to your wizard level. Enemies within this aura take a –2 penalty on ability checks, attack rolls, damage rolls, [saving throws](../combat#_saving-throws), and [skill checks](../usingSkills#_skill-checks). These rounds do not need to be consecutive. This is a mind-affecting effect.
 
@@ -135,7 +135,7 @@ Evokers revel in the raw power of magic, and can use it to create and destroy wi
 
 _Intense Spells [(Su)](../glossary#_supernatural-abilities-su)_: Whenever you cast an evocation spell that deals hit point damage, add 1/2 your wizard level to the damage (minimum +1). This bonus only applies once to a spell, not once per missile or ray, and cannot be split between multiple missiles or rays. This bonus damage is not increased by [Empower Spell](../feats#_empower-spell) or similar effects. This damage is of the same type as the spell. At 20th level, whenever you cast an evocation spell you can roll twice to penetrate a creature's spell resistance and take the better result.
 
-_Force Missile_ _ [(Sp)](../glossary#_spell-like-abilities-sp)_: As a standard action you can unleash a force missile that automatically strikes a foe, as _ [magic missile](../spell_dir/magicMissile#_magic-missile_. The force missile deals 1d4 points of damage plus the damage from your intense spells evocation power. This is a force effect. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier.
+_Force Missile_ _ [(Sp)](../glossary#_spell-like-abilities-sp)_: As a standard action you can unleash a force missile that automatically strikes a foe, as _ [magic missile](../spell_dir/magicMissile#_magic-missile)_. The force missile deals 1d4 points of damage plus the damage from your intense spells evocation power. This is a force effect. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier.
 
 _Elemental Wall [(Sp)](../glossary#_spell-like-abilities-sp)_: At 8th level, you can create a wall of energy that lasts for a number of rounds per day equal to your wizard level. These rounds do not need to be consecutive. This wall deals acid, cold, electricity, or fire damage, determined when you create it. The elemental wall otherwise functions like _ [wall of fire](../spell_dir/wallOfFire#_wall-of-fire)_.
 
@@ -143,7 +143,7 @@ _Elemental Wall [(Sp)](../glossary#_spell-like-abilities-sp)_: At 8th level, you
 
 Illusionists use magic to weave confounding images, figments, and phantoms to baffle and vex their foes.
 
-_Extended Illusions [(Su](../glossary#_supernatural-abilities-su)_: Any illusion spell you cast with a duration of “concentration” lasts a number of additional rounds equal to 1/2 your wizard level after you stop maintaining concentration (minimum +1 round). At 20th level, you can make one illusion spell with a duration of “concentration” become permanent. You can have no more than one illusion made permanent in this way at one time. If you designate another illusion as permanent, the previous permanent illusion ends.
+_Extended Illusions [(Su)](../glossary#_supernatural-abilities-su)_: Any illusion spell you cast with a duration of “concentration” lasts a number of additional rounds equal to 1/2 your wizard level after you stop maintaining concentration (minimum +1 round). At 20th level, you can make one illusion spell with a duration of “concentration” become permanent. You can have no more than one illusion made permanent in this way at one time. If you designate another illusion as permanent, the previous permanent illusion ends.
 
 _Blinding Ray [(Sp)](../glossary#_spell-like-abilities-sp)_: As a standard action you can fire a shimmering ray at any foe within 30 feet as a ranged touch attack. The ray causes creatures to be [blinded](../glossary#_blinded) for 1 round. Creatures with more Hit Dice than your wizard level are [dazzled](../glossary#_dazzled) for 1 round instead. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier.
 
@@ -153,7 +153,7 @@ _Invisibility Field [(Sp)](../glossary#_spell-like-abilities-sp)_: At 8th level,
 
 The dread and feared necromancer commands undead and uses the foul power of unlife against his enemies.
 
-_Power over Undead [(Su](../glossary#_supernatural-abilities-su)_: You receive [Command Undead](../feats#_command-undead) or [Turn Undead](../feats#_turn-undead) as a bonus feat. You can channel energy a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier, but only to use the selected feat. You can take other feats to add to this ability, such as [Extra Channel](../feats#_extra-channel) and [Improved Channel](../feats#_improved-channel), but not feats that alter this ability, such as [Elemental Channel](../feats#_elemental-channel) and Alignment [Channel](../feats#_alignment-channel). The DC to save against these feats is equal to 10 + 1/2 your wizard level + your [Charisma](../gettingStarted#_charisma-new) modifier. At 20th level, undead cannot add their channel resistance to the save against this ability.
+_Power over Undead [(Su)](../glossary#_supernatural-abilities-su)_: You receive [Command Undead](../feats#_command-undead) or [Turn Undead](../feats#_turn-undead) as a bonus feat. You can channel energy a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier, but only to use the selected feat. You can take other feats to add to this ability, such as [Extra Channel](../feats#_extra-channel) and [Improved Channel](../feats#_improved-channel), but not feats that alter this ability, such as [Elemental Channel](../feats#_elemental-channel) and Alignment [Channel](../feats#_alignment-channel). The DC to save against these feats is equal to 10 + 1/2 your wizard level + your [Charisma](../gettingStarted#_charisma-new) modifier. At 20th level, undead cannot add their channel resistance to the save against this ability.
 
 _Grave Touch [(Sp)](../glossary#_spell-like-abilities-sp)_: As a standard action, you can make a melee touch attack that causes a living creature to become [shaken](../glossary#_shaken) for a number of rounds equal to 1/2 your wizard level (minimum 1). If you touch a [shaken](../glossary#_shaken) creature with this ability, it becomes [frightened](../glossary#_frightened) for 1 round if it has fewer Hit Dice than your wizard level. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier.
 
@@ -167,13 +167,13 @@ _Physical Enhancement [(Su)](../glossary#_supernatural-abilities-su)_: You gain 
 
 _Telekinetic Fist [(Sp)](../glossary#_spell-like-abilities-sp)_: As a standard action you can strike with a telekinetic fist, targeting any foe within 30 feet as a ranged touch attack. The telekinetic fist deals 1d4 points of bludgeoning damage + 1 for every two wizard levels you possess. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier.
 
-_Change Shape [(Sp)](../glossary#_spell-like-abilities-sp)_: At 8th level, you can change your shape for a number of rounds per day equal to your wizard level. These rounds do not need to be consecutive. This ability otherwise functions like _ [beast shape II](../spell_dir/beastShape#_beast-shape-ii_ or _ [elemental body I](../spell_dir/elementalBody#_elemental-body-i._ At 12th level, this ability functions like _ [beast shape III](../spell_dir/beastShape#_beast-shape-iii_ or _ [elemental body II](../spell_dir/elementalBody#_elemental-body-ii)_.
+_Change Shape [(Sp)](../glossary#_spell-like-abilities-sp)_: At 8th level, you can change your shape for a number of rounds per day equal to your wizard level. These rounds do not need to be consecutive. This ability otherwise functions like _ [beast shape II](../spell_dir/beastShape#_beast-shape-ii)_ or _ [elemental body I](../spell_dir/elementalBody#_elemental-body-i)._ At 12th level, this ability functions like _ [beast shape III](../spell_dir/beastShape#_beast-shape-iii)_ or _ [elemental body II](../spell_dir/elementalBody#_elemental-body-ii)_.
 
 ## Universalist School
 
 Wizards who do not specialize (known as as universalists) have the most diversity of all arcane spellcasters.
 
-_Hand of the Apprentice [(Su](../glossary#_supernatural-abilities-su)_: You cause your melee weapon to fly from your grasp and strike a foe before instantly returning to you. As a standard action, you can make a single attack using a melee weapon at a range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your [Intelligence](../gettingStarted#_intelligence) modifier on the attack roll instead of your [Dexterity](../gettingStarted#_dexterity) modifier (damage still relies on [Strength](../gettingStarted#_strength)). This ability cannot be used to perform a combat maneuver. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier.
+_Hand of the Apprentice [(Su)](../glossary#_supernatural-abilities-su)_: You cause your melee weapon to fly from your grasp and strike a foe before instantly returning to you. As a standard action, you can make a single attack using a melee weapon at a range of 30 feet. This attack is treated as a ranged attack with a thrown weapon, except that you add your [Intelligence](../gettingStarted#_intelligence) modifier on the attack roll instead of your [Dexterity](../gettingStarted#_dexterity) modifier (damage still relies on [Strength](../gettingStarted#_strength)). This ability cannot be used to perform a combat maneuver. You can use this ability a number of times per day equal to 3 + your [Intelligence](../gettingStarted#_intelligence) modifier.
 
 _Metamagic Mastery [(Su)](../glossary#_supernatural-abilities-su)_: At 8th level, you can apply any one [metamagic feat](../feats#_metamagic-feats) that you know to a spell you are about to cast. This does not alter the level of the spell or the casting time. You can use this ability once per day at 8th level and one additional time per day for every two wizard levels you possess beyond 8th. Any time you use this ability to apply a metamagic feat that increases the spell level by more than 1, you must use an additional daily usage for each level above 1 that the feat adds to the spell. Even though this ability does not modify the spell's actual level, you cannot use this ability to cast a spell whose modified spell level would be above the level of the highest-level spell that you are capable of casting.
 
@@ -189,15 +189,15 @@ If a familiar is dismissed, lost or dies, it can be replaced 1 week later throug
 
 | Familiar | Special Ability |
 | --- | --- |
-| Bat | Master gains a +3 bonus on [Fly](../skill_dir/fly#_fly checks |
-| Cat | Master gains a +3 bonus on [Stealth](../skill_dir/stealth#_stealth checks |
-| Hawk | Master gains a +3 bonus on sight-based and opposed [Perception](../skill_dir/perception#_perception checks in bright light |
-| Lizard | Master gains a +3 bonus on [Climb](../skill_dir/climb#_climb checks |
-| Monkey | Master gains a +3 bonus on [Acrobatics](../skill_dir/acrobatics#_acrobatics checks |
-| Owl | Master gains a +3 bonus on sight-based and opposed [Perception](../skill_dir/perception#_perception checks in shadows or darkness |
+| Bat | Master gains a +3 bonus on [Fly](../skill_dir/fly#_fly) checks |
+| Cat | Master gains a +3 bonus on [Stealth](../skill_dir/stealth#_stealth) checks |
+| Hawk | Master gains a +3 bonus on sight-based and opposed [Perception](../skill_dir/perception#_perception) checks in bright light |
+| Lizard | Master gains a +3 bonus on [Climb](../skill_dir/climb#_climb) checks |
+| Monkey | Master gains a +3 bonus on [Acrobatics](../skill_dir/acrobatics#_acrobatics) checks |
+| Owl | Master gains a +3 bonus on sight-based and opposed [Perception](../skill_dir/perception#_perception) checks in shadows or darkness |
 | Rat | Master gains a +2 bonus on [Fortitude saves](../combat#_fortitude) |
-| Raven\* | Master gains a +3 bonus on [Appraise](../skill_dir/appraise#_appraise checks |
-| Viper | Master gains a +3 bonus on [Bluff](../skill_dir/bluff#_bluff checks |
+| Raven\* | Master gains a +3 bonus on [Appraise](../skill_dir/appraise#_appraise) checks |
+| Viper | Master gains a +3 bonus on [Bluff](../skill_dir/bluff#_bluff) checks |
 | Toad | Master gains +3 hit points |
 | Weasel | Master gains a +2 bonus on [Reflex saves](../combat#_reflex) |
 
@@ -213,9 +213,9 @@ Damage equals that of a normal creature of the familiar's kind.
 
 _Saving Throws_: For each [saving throw](../combat#_saving-throws), use either the familiar's base save bonus ( [Fortitude](../combat#_fortitude) +2, [Reflex](../combat#_reflex) +2, [Will](../combat#_will) +0) or the master's (as calculated from all his classes), whichever is better. The familiar uses its own ability modifiers to saves, and it doesn't share any of the other bonuses that the master might have on saves.
 
-_Skills_: For each skill in which either the master or the familiar has ranks, use either the normal skill ranks for an animal of that type or the master's skill ranks, whichever is better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar's total skill modifiers, some skills may remain beyond the familiar's ability to use. Familiars treat [Acrobatics](../skill_dir/acrobatics#_acrobatics, [Climb](../skill_dir/climb#_climb, [Fly](../skill_dir/fly#_fly, [Perception](../skill_dir/perception#_perception, [Stealth](../skill_dir/stealth#_stealth, and [Swim](../skill_dir/swim#_swim) as class skills.
+_Skills_: For each skill in which either the master or the familiar has ranks, use either the normal skill ranks for an animal of that type or the master's skill ranks, whichever is better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar's total skill modifiers, some skills may remain beyond the familiar's ability to use. Familiars treat [Acrobatics](../skill_dir/acrobatics#_acrobatics), [Climb](../skill_dir/climb#_climb), [Fly](../skill_dir/fly#_fly), [Perception](../skill_dir/perception#_perception), [Stealth](../skill_dir/stealth#_stealth), and [Swim](../skill_dir/swim#_swim) as class skills.
 
-**Familiar Ability Descriptions** : All familiars have special abilities (or impart abilities to their masters depending on the master's combined level in classes that grant familiars, as shown on the table below. The abilities are cumulative.
+**Familiar Ability Descriptions** : All familiars have special abilities (or impart abilities to their masters) depending on the master's combined level in classes that grant familiars, as shown on the table below. The abilities are cumulative.
 
 | Master Class Level | Natural Armor Adj. | Int | Special |
 | --- | --- | --- | --- |

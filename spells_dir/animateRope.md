@@ -1,5 +1,5 @@
 ---
-title: spells/animateRope
+title: spell_dir/animateRope
 ---
  **Animate Rope**
 
@@ -13,7 +13,7 @@ title: spells/animateRope
 
 **Target** one rope-like object, length up to 50 ft. + 5 ft./level; see text
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

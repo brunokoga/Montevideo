@@ -1,5 +1,5 @@
 ---
-title: spells/divinePower
+title: spell_dir/divinePower
 ---
  **Divine Power**
 

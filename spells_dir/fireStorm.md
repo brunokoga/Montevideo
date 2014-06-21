@@ -1,5 +1,5 @@
 ---
-title: spells/fireStorm
+title: spell_dir/fireStorm
 ---
  **Fire Storm**
 

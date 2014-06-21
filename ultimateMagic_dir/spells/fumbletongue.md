@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spell_dir/fumbletongue
+title: ultimateMagi_dir/spells/fumbletongue
 ---
 Fumbletongue
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 1, witch 1
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, witch 1
 
 **Casting Time** 1 standard action
 

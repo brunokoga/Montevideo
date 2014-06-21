@@ -1,5 +1,5 @@
 ---
-title: spells/deathWard
+title: spell_dir/deathWard
 ---
  **Death Ward**
 

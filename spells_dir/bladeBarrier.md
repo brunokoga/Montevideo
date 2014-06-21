@@ -1,5 +1,5 @@
 ---
-title: spells/bladeBarrier
+title: spell_dir/bladeBarrier
 ---
  **Blade Barrier**
 
@@ -11,7 +11,7 @@ title: spells/bladeBarrier
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Effect** wall of whirling blades up to 20 ft. long/level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form is 20 ft. high
+**Effect** wall of whirling blades up to 20 ft. lon_dir/level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form is 20 ft. high
 
 **Duration** 1 min./level (D)
 

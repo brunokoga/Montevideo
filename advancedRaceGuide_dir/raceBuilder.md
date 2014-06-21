@@ -13,7 +13,7 @@ This section features numerous examples of races designed with the race builder.
 
 # Creating a New Race
 
-This race builder allows you to create a new race by buying racial qualities and racial traits with Race Points (RP). There are a number of differences between racial qualities and racial traits. The main difference is that racial qualities are mandatory (you must make a choice for each category of racial qualities provided in these rules), whereas racial traits are optional. There are six categories of racial qualities, including type, subtypes (if any, size, base speed, ability score modifiers, and languages. Racial traits present a number of interesting options for the race you are creating, from expanded modes of movement and bonuses on skill checks to even stranger powers, like a frightening croak attack or the ability to change shape. Racial traits are split up into a number of different categories, such as defense, offense, and magical traits.
+This race builder allows you to create a new race by buying racial qualities and racial traits with Race Points (RP). There are a number of differences between racial qualities and racial traits. The main difference is that racial qualities are mandatory (you must make a choice for each category of racial qualities provided in these rules), whereas racial traits are optional. There are six categories of racial qualities, including type, subtypes (if any), size, base speed, ability score modifiers, and languages. Racial traits present a number of interesting options for the race you are creating, from expanded modes of movement and bonuses on skill checks to even stranger powers, like a frightening croak attack or the ability to change shape. Racial traits are split up into a number of different categories, such as defense, offense, and magical traits.
 
 Before you buy racial qualities and traits, you must determine the power level of your race. The GM decides this based on the needs of her campaign. The power level of the race determines the number of RP you get to build the race, as well as the maximum number of racial traits you can choose from each racial trait category and what kinds of traits you can take from those categories.
 
@@ -68,11 +68,11 @@ Because they have powerful racial traits and abilities, advanced and monstrous r
 | 30 | +2 level | +1 level | +0 level | +0 level |
 | 40 | +3 level | +2 level | +1 level | +0 level |
 
-# [Step 2: Racial Qualities](advancedRaceGuide/raceBuilde_dir/racialQualities
+# [Step 2: Racial Qualities](advancedRaceGuide/raceBuilde_dir/racialQualities)
 
 The next step is to choose your race's qualities. You must select an option from each of the following quality categories. Qualities or aspects of qualities often serve as prerequisites for racial traits.
 
-[Type](advancedRaceGuide/raceBuilde_dir/racialQualities#_type-quality   [Size](advancedRaceGuide/raceBuilde_dir/racialQualities#_size-quality   [Base Speed](advancedRaceGuide/raceBuilde_dir/racialQualities#_base-speed-quality   [Ability Score Modifier](advancedRaceGuide/raceBuilde_dir/racialQualities#_ability-score-modifier-quality   [Language](advancedRaceGuide/raceBuilde_dir/racialQualities#_language-quality
+[Type](advancedRaceGuide/raceBuilde_dir/racialQualities#_type-quality)   [Size](advancedRaceGuide/raceBuilde_dir/racialQualities#_size-quality)   [Base Speed](advancedRaceGuide/raceBuilde_dir/racialQualities#_base-speed-quality)   [Ability Score Modifier](advancedRaceGuide/raceBuilde_dir/racialQualities#_ability-score-modifier-quality)   [Language](advancedRaceGuide/raceBuilde_dir/racialQualities#_language-quality)
 
 # [Step 3: Racial Traits](advancedRaceGuide/raceBuilde_dir/racialTraits)
 
@@ -84,7 +84,7 @@ Unless stated otherwise, all racial traits are extraordinary abilities, and each
 
 The following format is used for all racial traits.
 
-**Name (RP Cost** : Each racial trait begins with its name. The number of RP each trait costs is listed in parentheses directly after the name. For racial traits you can take more than once, this is the number of RP you pay each time you take the traits, unless stated otherwise in the Special line of the trait description.
+**Name (RP Cost)** : Each racial trait begins with its name. The number of RP each trait costs is listed in parentheses directly after the name. For racial traits you can take more than once, this is the number of RP you pay each time you take the traits, unless stated otherwise in the Special line of the trait description.
 
 > _Prerequisites_: Some racial traits have prerequisites. Your race must meet any prerequisites listed in this entry before you can take the trait. Some traits require a specific type or subtype, while others require that you take other racial traits or qualities before you take it.
 > 
@@ -92,9 +92,9 @@ The following format is used for all racial traits.
 > 
 > _Special_: This includes additional facts about the racial trait.
 
-[Ability Score](advancedRaceGuide/raceBuilde_dir/racialTraits#_ability-score-racial-traits   [Defense](advancedRaceGuide/raceBuilde_dir/racialTraits#_defense-racial-traits   [Feats and Skills](advancedRaceGuide/raceBuilde_dir/racialTraits#_feat-and-skill-racial-traits   [Magic](advancedRaceGuide/raceBuilde_dir/racialTraits#_magical-racial-traits   [Movement](advancedRaceGuide/raceBuilde_dir/racialTraits#_movement-racial-traits   [Offense](advancedRaceGuide/raceBuilde_dir/racialTraits#_offense-racial-traits   [Senses](advancedRaceGuide/raceBuilde_dir/racialTraits#_senses-racial-traits   [Weakness](advancedRaceGuide/raceBuilde_dir/racialTraits#_weakness-racial-traits   [Other](advancedRaceGuide/raceBuilde_dir/racialTraits#_other-racial-traits
+[Ability Score](advancedRaceGuide/raceBuilde_dir/racialTraits#_ability-score-racial-traits)   [Defense](advancedRaceGuide/raceBuilde_dir/racialTraits#_defense-racial-traits)   [Feats and Skills](advancedRaceGuide/raceBuilde_dir/racialTraits#_feat-and-skill-racial-traits)   [Magic](advancedRaceGuide/raceBuilde_dir/racialTraits#_magical-racial-traits)   [Movement](advancedRaceGuide/raceBuilde_dir/racialTraits#_movement-racial-traits)   [Offense](advancedRaceGuide/raceBuilde_dir/racialTraits#_offense-racial-traits)   [Senses](advancedRaceGuide/raceBuilde_dir/racialTraits#_senses-racial-traits)   [Weakness](advancedRaceGuide/raceBuilde_dir/racialTraits#_weakness-racial-traits)   [Other](advancedRaceGuide/raceBuilde_dir/racialTraits#_other-racial-traits)
 
-# [Example Races](advancedRaceGuide/raceBuilde_dir/exampleRaces
+# [Example Races](advancedRaceGuide/raceBuilde_dir/exampleRaces)
 
-[Core Races](advancedRaceGuide/raceBuilde_dir/exampleRaces#_core-race-examples   [Expanded Races](advancedRaceGuide/raceBuilde_dir/exampleRaces#_expanded-race-examples   [Other Races](advancedRaceGuide/raceBuilde_dir/exampleRaces#_other-race-examples
+[Core Races](advancedRaceGuide/raceBuilde_dir/exampleRaces#_core-race-examples)   [Expanded Races](advancedRaceGuide/raceBuilde_dir/exampleRaces#_expanded-race-examples)   [Other Races](advancedRaceGuide/raceBuilde_dir/exampleRaces#_other-race-examples)
 

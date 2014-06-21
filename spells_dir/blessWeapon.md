@@ -1,5 +1,5 @@
 ---
-title: spells/blessWeapon
+title: spell_dir/blessWeapon
 ---
  **Bless Weapon**
 

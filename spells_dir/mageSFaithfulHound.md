@@ -3,17 +3,17 @@ title: spell_dir/mageSFaithfulHound
 ---
  **Mage's Faithful Hound**
 
-**School** conjuration (creation; **Level** sorcere_dir/wizard 5
+**School** conjuration (creation); **Level** sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a tiny silver whistle, a piece of bone, and a thread
+**Components** V, S, M (a tiny silver whistle, a piece of bone, and a thread)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** phantom watchdog
 
-**Duration** 1 hour/caster level or until discharged, then 1 round/caster level; see text
+**Duration** 1 hou_dir/caster level or until discharged, then 1 round/caster level; see text
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

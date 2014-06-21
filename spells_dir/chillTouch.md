@@ -1,5 +1,5 @@
 ---
-title: spells/chillTouch
+title: spell_dir/chillTouch
 ---
  **Chill Touch**
 
@@ -11,7 +11,7 @@ title: spells/chillTouch
 
 **Range** touch
 
-**Targets** creature or creatures touched (up to on_dir/level
+**Targets** creature or creatures touched (up to on_dir/level)
 
 **Duration** instantaneous
 

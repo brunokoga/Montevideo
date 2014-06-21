@@ -3,17 +3,17 @@ title: spell_dir/hallucinatoryTerrain
 ---
  **Hallucinatory Terrain**
 
-**School** illusion (glamer; **Level** bard 4, sorcere_dir/wizard 4
+**School** illusion (glamer); **Level** bard 4, sorcerer/wizard 4
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M (a stone, a twig, and a green leaf
+**Components** V, S, M (a stone, a twig, and a green leaf)
 
 **Range** long (400 ft. + 40 ft./level)
 
-**Area** one 30-ft. cub_dir/level (S
+**Area** one 30-ft. cub_dir/level (S)
 
-**Duration** 2 hour_dir/level (D
+**Duration** 2 hours/level (D)
 
 **Saving Throw** [Will](../combat#_will) disbelief (if interacted with); **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,5 +1,5 @@
 ---
-title: spells/invisibilityPurge
+title: spell_dir/invisibilityPurge
 ---
  **Invisibility Purge**
 

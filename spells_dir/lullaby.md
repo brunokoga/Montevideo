@@ -3,7 +3,7 @@ title: spell_dir/lullaby
 ---
  **Lullaby**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** bard 0
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 0
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spell_dir/lullaby
 
 **Area** living creatures within a 10-ft.-radius burst
 
-**Duration** concentration + 1 roun_dir/level (D
+**Duration** concentration + 1 roun_dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

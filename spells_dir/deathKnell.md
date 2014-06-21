@@ -1,5 +1,5 @@
 ---
-title: spells/deathKnell
+title: spell_dir/deathKnell
 ---
  **Death Knell**
 

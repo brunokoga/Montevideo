@@ -1,9 +1,9 @@
 ---
-title: advanced/spell_dir/confess
+title: advance_dir/spells/confess
 ---
  **Confess**
 
-**School** enchantment (compulsion [language-dependent, mind-affecting]; **Level** inquisitor 2
+**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** inquisitor 2
 
 **Casting Time** 1 standard action
 

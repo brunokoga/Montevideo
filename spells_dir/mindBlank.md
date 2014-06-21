@@ -1,5 +1,5 @@
 ---
-title: spells/mindBlank
+title: spell_dir/mindBlank
 ---
  **Mind Blank**
 

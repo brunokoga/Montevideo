@@ -1,5 +1,5 @@
 ---
-title: monsters/duergar
+title: monster_dir/duergar
 ---
 # Duergar
 
@@ -19,7 +19,7 @@ LE Medium [humanoid](creatureTypes#_humanoid) ( [dwarf](creatureTypes#_dwarf-sub
 
 **AC** 17, touch 9, flat-footed 17 (+6 armor, –1 Dex, +2 shield)
 
-**hp** 8 (1d10+3
+**hp** 8 (1d10+3)
 
 **Fort** +4, **Ref** –1, **Will** +1; +2 vs. spells
 
@@ -37,7 +37,7 @@ LE Medium [humanoid](creatureTypes#_humanoid) ( [dwarf](creatureTypes#_dwarf-sub
 
 **Spell-Like Abilities** (CL 3rd)
 
-1/day—_ [enlarge person](../spell_dir/enlargePerson#_enlarge-person)_ (self only, _ [invisibility](../spell_dir/invisibility#_invisibility)_ (self only
+1/day—_ [enlarge person](../spell_dir/enlargePerson#_enlarge-person)_ (self only), _ [invisibility](../spell_dir/invisibility#_invisibility)_ (self only)
 
 **Statistics**
 
@@ -47,7 +47,7 @@ LE Medium [humanoid](creatureTypes#_humanoid) ( [dwarf](creatureTypes#_dwarf-sub
 
 **Feats** [Weapon Focus](../feats#_weapon-focus) (warhammer)
 
-**Skills** [Intimidate](../skill_dir/intimidate#_intimidate +1, [Stealth](../skill_dir/stealth#_stealth –3; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception relating to stonework, +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Intimidate](../skill_dir/intimidate#_intimidate) +1, [Stealth](../skill_dir/stealth#_stealth) –3; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception) relating to stonework, +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Languages** Common, Dwarven, Undercommon
 
@@ -65,7 +65,7 @@ Cousins to dwarves, duergar are foul-tempered creatures that loathe intruders to
 
 Duergar dwell in communities deep underground, and appear as darker, more twisted versions of their kinder kin. Their skin is a dull gray, as though rubbed with dust or ash, but this is a natural coloration that better allows them to blend with their underground surroundings. They are a race of slavers, but while non-dwarven prisoners are usually put to backbreaking work, dwarven prisoners are generally slain on the spot.
 
-In combat, duergar fire crossbows from a distance, then shift to the warhammer after a few rounds. If outnumbered, or given sufficient threat (and space, a duergar will use its _ [enlarge person](../spell_dir/enlargePerson#_enlarge-person_ ability and begin lashing out at its enemies.
+In combat, duergar fire crossbows from a distance, then shift to the warhammer after a few rounds. If outnumbered, or given sufficient threat (and space), a duergar will use its _ [enlarge person](../spell_dir/enlargePerson#_enlarge-person)_ ability and begin lashing out at its enemies.
 
 ## Duergar Characters
 
@@ -81,7 +81,7 @@ Duergar are defined by their class levels—they do not possess racial Hit Dice.
 
 **Stability** : Duergar receive a +4 racial bonus to their CMD against bull rush or trip attempts while on solid ground.
 
-**Spell-Like Abilities** : Duergar can cast _ [enlarge person](../spell_dir/enlargePerson#_enlarge-person_ and _ [invisibility](../spell_dir/invisibility#_invisibility_ each once per day, using their character level as their caster level. Both of these spell-like abilities affect the duergar only.
+**Spell-Like Abilities** : Duergar can cast _ [enlarge person](../spell_dir/enlargePerson#_enlarge-person)_ and _ [invisibility](../spell_dir/invisibility#_invisibility)_ each once per day, using their character level as their caster level. Both of these spell-like abilities affect the duergar only.
 
 **Light Sensitivity** : Duergar are dazzled as long as they remain in an area of bright light.
 

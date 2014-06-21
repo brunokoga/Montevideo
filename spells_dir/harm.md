@@ -1,5 +1,5 @@
 ---
-title: spells/harm
+title: spell_dir/harm
 ---
  **Harm**
 

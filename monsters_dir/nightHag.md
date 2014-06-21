@@ -9,7 +9,7 @@ _Grisly fetishes and the rags of once fine clothes hang off the corpse-thin fram
 
 **XP 6,400**
 
-NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype)
+NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
 **Init** +4; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +16
 
@@ -17,7 +17,7 @@ NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **AC** 25, touch 14, flat-footed 21 (+4 Dex, +11 natural)
 
-**hp** 92 (8d10+48
+**hp** 92 (8d10+48)
 
 **Fort** +14, **Ref** +8, **Will** +11
 
@@ -33,11 +33,11 @@ NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Spell-Like Abilities** (CL 8th)
 
-Constant—_ [detect chaos](../spell_dir/detectChaos#_detect-chaos, [detect evil](../spell_dir/detectEvil#_detect-evil, [detect good](../spell_dir/detectGood#_detect-good, [detect law](../spell_dir/detectLaw#_detect-law, [detect magic](../spell_dir/detectMagic#_detect-magic_
+Constant—_ [detect chaos](../spell_dir/detectChaos#_detect-chaos), [detect evil](../spell_dir/detectEvil#_detect-evil), [detect good](../spell_dir/detectGood#_detect-good), [detect law](../spell_dir/detectLaw#_detect-law), [detect magic](../spell_dir/detectMagic#_detect-magic)_
 
-At will—_ [deep slumber](../spell_dir/deepSlumber#_deep-slumber)_ (DC 16, _ [invisibility](../spell_dir/invisibility#_invisibility, [magic missile](../spell_dir/magicMissile#_magic-missile, [ray of enfeeblement](../spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 14)
+At will—_ [deep slumber](../spell_dir/deepSlumber#_deep-slumber)_ (DC 16), _ [invisibility](../spell_dir/invisibility#_invisibility), [magic missile](../spell_dir/magicMissile#_magic-missile), [ray of enfeeblement](../spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (DC 14)
 
-At will (with heartstone—_ [etherealness](../magicItem_dir/armor#_armor-etherealness_, _ [soul bind](../spell_dir/soulBind#_soul-bind_
+At will (with heartstone)—_ [etherealness](../magicItem_dir/armor#_armor-etherealness)_, _ [soul bind](../spell_dir/soulBind#_soul-bind)_
 
 **Statistics**
 
@@ -47,11 +47,11 @@ At will (with heartstone—_ [etherealness](../magicItem_dir/armor#_armor-ethere
 
 **Feats** [Alertness](../feats#_alertness), [Combat Casting](../feats#_combat-casting), [Deceitful](../feats#_deceitful), [Mounted Combat](../feats#_mounted-combat)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff +16, [Diplomacy](../skill_dir/diplomacy#_diplomacy +11, [Disguise](../skill_dir/disguise#_disguise +16, [Intimidate](../skill_dir/intimidate#_intimidate +14, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana +12, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +15, [Perception](../skill_dir/perception#_perception +16, [Ride](../skill_dir/ride#_ride +15, [Sense Motive](../skill_dir/senseMotive#_sense-motive +16, [Spellcraft](../skill_dir/spellcraft#_spellcraft) +15
+**Skills** [Bluff](../skill_dir/bluff#_bluff) +16, [Diplomacy](../skill_dir/diplomacy#_diplomacy) +11, [Disguise](../skill_dir/disguise#_disguise) +16, [Intimidate](../skill_dir/intimidate#_intimidate) +14, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana) +12, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +15, [Perception](../skill_dir/perception#_perception) +16, [Ride](../skill_dir/ride#_ride) +15, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +16, [Spellcraft](../skill_dir/spellcraft#_spellcraft) +15
 
 **Languages** Abyssal, Celestial, Common, Infernal
 
-**SQ** [change shape](universalMonsterRules#_change-shape (any humanoid, _ [alter self](../spell_dir/alterSelf#_alter-self)_), heartstone
+**SQ** [change shape](universalMonsterRules#_change-shape) (any humanoid, _ [alter self](../spell_dir/alterSelf#_alter-self)_), heartstone
 
 **Ecology**
 
@@ -63,11 +63,11 @@ At will (with heartstone—_ [etherealness](../magicItem_dir/armor#_armor-ethere
 
 **Special Abilities**
 
-**Disease (Su** _Demon Fever_: Bite—injury; _save_ Fort DC 20; _onset_ immediate; _frequency_ 1/day; _effect_ 1d6 Con [damage](universalMonsterRules#_ability-damage-and-drain) (target must save a 2nd time or 1 point of the [damage](universalMonsterRules#_ability-damage-and-drain) is [drain](universalMonsterRules#_ability-damage-and-drain) instead); _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**Disease (Su)** _Demon Fever_: Bite—injury; _save_ Fort DC 20; _onset_ immediate; _frequency_ 1/day; _effect_ 1d6 Con [damage](universalMonsterRules#_ability-damage-and-drain) (target must save a 2nd time or 1 point of the [damage](universalMonsterRules#_ability-damage-and-drain) is [drain](universalMonsterRules#_ability-damage-and-drain) instead); _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 **Dream Haunting (Su)** A night hag can visit the dreams of chaotic or evil targets by using a special periapt known as a heartstone to become ethereal, then hovering over the creature. Once it does so, it rides on the victim's back until dawn. The sleeper suffers tormenting dreams and takes 1 point of Constitution [drain](universalMonsterRules#_ability-damage-and-drain) upon awakening. Only another ethereal being can stop these nocturnal intrusions by confronting and defeating the night hag.
 
-**Heartstone (Su)** All night hags carry a heartstone—a special gemstone worth at least 1,800 gp that is worn as a periapt. A heartstone's magic is fueled by the hag's spirit and proximity—once separated from its owner (or upon the hag's death), a heartstone retains its magic for only 24 hours before becoming a nonmagical gem again. The heartstone instantly cures any disease contracted by the holder. In addition, a heartstone provides a +2 resistance bonus on all saving throws (this bonus is included in the statistics block above). A night hag that loses this charm can no longer use _ [etherealness](../magicItem_dir/armor#_armor-etherealness_ or _ [soul bind](../spell_dir/soulBind#_soul-bind _until it finds a replacement gemstone.
+**Heartstone (Su)** All night hags carry a heartstone—a special gemstone worth at least 1,800 gp that is worn as a periapt. A heartstone's magic is fueled by the hag's spirit and proximity—once separated from its owner (or upon the hag's death), a heartstone retains its magic for only 24 hours before becoming a nonmagical gem again. The heartstone instantly cures any disease contracted by the holder. In addition, a heartstone provides a +2 resistance bonus on all saving throws (this bonus is included in the statistics block above). A night hag that loses this charm can no longer use _ [etherealness](../magicItem_dir/armor#_armor-etherealness)_ or _ [soul bind](../spell_dir/soulBind#_soul-bind) _until it finds a replacement gemstone.
 
 Terrifying murderesses and greedy soul brokers, night hags prey upon mortals while they're most vulnerable. Preferring to kill their prey slowly, haunting their dreams night after night, these hags trap the tormented souls of their victims within dark gems so they might be sold in the infernal markets of the outer planes. Night hags vary widely in appearance, standing between 5-1/2 and 7 feet tall, and weighing from 150 to 300 pounds.
 

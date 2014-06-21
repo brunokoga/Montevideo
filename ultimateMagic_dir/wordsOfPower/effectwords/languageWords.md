@@ -1,11 +1,11 @@
 ---
-title: ultimateMagic/wordsOfPower/effectword_dir/languageWords
+title: ultimateMagi_dir/wordsOfPower/effectword_dir/languageWords
 ---
 ## Language Words
 
 Words from this family deal with language and help with communication.
 
-Decipher (Language
+Decipher (Language)
 
 **School** divination; **Level** alchemist 1, bard 0, cleric 0, druid 0, inquisitor 0, magus 0, paladin 1, ranger 1, sorcerer/wizard 0, summoner 0, witch 0
 
@@ -19,7 +19,7 @@ The target of a wordspell with this effect word can read text written in one par
 
 **Boost** : This effect word can use the _selected_ target word. Boosting this effect word increases its level by 1.
 
-Translate (Language
+Translate (Language)
 
 **School** divination; **Level** alchemist 3, bard 2, cleric 4, sorcerer/wizard 3, witch 3
 
@@ -31,7 +31,7 @@ Translate (Language
 
 The target of a wordspell with this effect word can read, write, speak, and understand one particular language, chosen by the caster. The language can be any that the caster is aware of, even racial languages.
 
-Far Casting (Language
+Far Casting (Language)
 
 **School** divination; **Level** bard 5, cleric 5, sorcerer/wizard 5, witch 5
 

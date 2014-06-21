@@ -3,7 +3,7 @@ title: spell_dir/aid
 ---
  **Aid**
 
-**School** enchantment (compulsion [mind-affecting]; **Level** cleric 2
+**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 2
 
 **Casting Time** 1 standard action
 

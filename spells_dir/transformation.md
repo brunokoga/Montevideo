@@ -1,19 +1,19 @@
 ---
-title: spells/transformation
+title: spell_dir/transformation
 ---
  **Transformation**
 
-**School** transmutation; **Level** sorcere_dir/wizard 6
+**School** transmutation; **Level** sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a _potion of [bull's strength](bullSStrength#_bull-s-strength)_, which you drink and whose effects are subsumed by the spell effects
+**Components** V, S, M (a _potion of [bull's strength](bullSStrength#_bull-s-strength)_, which you drink and whose effects are subsumed by the spell effects)
 
 **Range** personal
 
 **Target** you
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 You become a fighting machine—stronger, tougher, faster, and more skilled in combat. Your mindset changes so that you relish combat and you can't cast spells, even from magic items.
 

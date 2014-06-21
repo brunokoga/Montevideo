@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/classArchetype_dir/alchemist
+title: ultimateComba_dir/classArchetypes/alchemist
 ---
 # Alchemist
 
@@ -7,7 +7,7 @@ Alchemists are the mad scientists of adventuring parties and villainous organiza
 
 ## Discoveries
 
-The following new discoveries can be taken by any alchemist who meets the prerequisites. Discoveries that modify bombs and are marked with a single asterisk (\* do not stack. Only one such discovery can be applied to an individual bomb.
+The following new discoveries can be taken by any alchemist who meets the prerequisites. Discoveries that modify bombs and are marked with a single asterisk (\*) do not stack. Only one such discovery can be applied to an individual bomb.
 
 _Breath Weapon Bomb\*_: Instead of drawing the components of, creating, and throwing a bomb, the alchemist can draw the components, drink them, mix them within his body, and then expel them as a breath weapon as a standard action. This breath weapon is a 15-foot cone and has the same DC as the bomb. Each creature within the cone takes damage as if it had suffered a direct hit from the alchemist's bomb, but succeeding at a Reflex save (DC = 10 + 1/2 the alchemist's level + the alchemist's Intelligent modifier) halves the damage. Unlike throwing normal bombs, drawing, drinking, and expelling breath weapon bombs does not provoke attacks of opportunity. An alchemist must be at least 6th level before selecting this discovery.
 
@@ -25,13 +25,13 @@ _Siege Bomb_\*: As a standard action, the alchemist infuses a single piece of am
 
 Beastmorphs study the anatomy of monsters, learning how they achieve their strange powers. They use their knowledge to duplicate these abilities, but at the cost of taking on inhuman shapes when they use mutagens.
 
-**Beastform Mutagen** : At 3rd level, a beastmorph's mutagen causes him to take on animalistic features—whether those of an animal, a magical beast, an animal-like humanoid (such as a lizardfolk), or a monstrous humanoid. For example, when the beastmorph uses his mutagen, he may gain a furry muzzle and pointed ears like a werewolf, scaly skin like a lizardfolk or sahuagin, or compound eyes and mandibles like a giant insect. The beastmorph also gains his choice of one of the abilities listed in the _ [alter self](spell_dir/alterSelf#_alter-self_ spell, which persists as long as the mutagen. He may select a different ability each time he creates a mutagen. This ability replaces swift alchemy.
+**Beastform Mutagen** : At 3rd level, a beastmorph's mutagen causes him to take on animalistic features—whether those of an animal, a magical beast, an animal-like humanoid (such as a lizardfolk), or a monstrous humanoid. For example, when the beastmorph uses his mutagen, he may gain a furry muzzle and pointed ears like a werewolf, scaly skin like a lizardfolk or sahuagin, or compound eyes and mandibles like a giant insect. The beastmorph also gains his choice of one of the abilities listed in the _ [alter self](spell_dir/alterSelf#_alter-self)_ spell, which persists as long as the mutagen. He may select a different ability each time he creates a mutagen. This ability replaces swift alchemy.
 
-**Improved Beastform Mutagen** : At 6th level, a beastmorph's mutagen grants him additional abilities and options. The alchemist gains his choice of two of the abilities listed in the _ [beast shape I](spell_dir/beastShape#_beast-shape-i_ spell, which persist as long as the mutagen. He may select two different abilities each time he creates a mutagen. This ability replaces swift poisoning.
+**Improved Beastform Mutagen** : At 6th level, a beastmorph's mutagen grants him additional abilities and options. The alchemist gains his choice of two of the abilities listed in the _ [beast shape I](spells/beastShape#_beast-shape-i)_ spell, which persist as long as the mutagen. He may select two different abilities each time he creates a mutagen. This ability replaces swift poisoning.
 
-**Greater Beastform Mutagen** : At 10th level, a beastmorph's mutagen grants him three of the abilities listed in the _ [beast shape II](spell_dir/beastShape#_beast-shape-ii_ spell, which persist as long as the mutagen. He may select three different abilities each time he creates a mutagen. This ability replaces poison resistance +2, +4, and +6, as well as poison immunity.
+**Greater Beastform Mutagen** : At 10th level, a beastmorph's mutagen grants him three of the abilities listed in the _ [beast shape II](spell_dir/beastShape#_beast-shape-ii)_ spell, which persist as long as the mutagen. He may select three different abilities each time he creates a mutagen. This ability replaces poison resistance +2, +4, and +6, as well as poison immunity.
 
-**Grand Beastform Mutagen** : At 14th level, a beastmorph's mutagen grants him four of the abilities listed in the _ [beast shape III](spell_dir/beastShape#_beast-shape-iii)_ spell, which persist as long as the mutagen. He may select four different abilities each time he creates a mutagen. This ability replaces persistent mutagen.
+**Grand Beastform Mutagen** : At 14th level, a beastmorph's mutagen grants him four of the abilities listed in the _ [beast shape III](spells/beastShape#_beast-shape-iii)_ spell, which persist as long as the mutagen. He may select four different abilities each time he creates a mutagen. This ability replaces persistent mutagen.
 
 **Discoveries** : The following discoveries complement the beastmorph archetype: feral mutagen, grand mutagen, greater mutagen, infuse mutagen, mummification, spontaneous healing, tentacle, and wings.
 
@@ -39,7 +39,7 @@ Beastmorphs study the anatomy of monsters, learning how they achieve their stran
 
 Some alchemists create mutagens that tap into a primal anger that fuels their physical transformation. These alchemists have little control over their altered selves.
 
-**Rage Mutagen** : At 2nd level, whenever a ragechemist creates a mutagen that improves his Strength, that mutagen's bonus to Strength increases by 2 and penalizes the alchemist's Intelligence score. Furthermore, while under the effects of this mutagen, whenever the alchemist takes damage, his rage grows, with detrimental effects. At the end of each turn that he takes hit point damage, the ragechemist must succeed at a Will saving throw (DC 15, or DC 20 if any of the damage came from a critical hit that turn or take a –2 penalty on Will saving throws and to Intelligence. These penalties end 1 hour after the mutagen ends and stack with themselves. If the penalty lowers the ragechemist's Intelligence score to 0, the ragechemist is comatose until 1 hour after the mutagen expires. This ability replaces poison use.
+**Rage Mutagen** : At 2nd level, whenever a ragechemist creates a mutagen that improves his Strength, that mutagen's bonus to Strength increases by 2 and penalizes the alchemist's Intelligence score. Furthermore, while under the effects of this mutagen, whenever the alchemist takes damage, his rage grows, with detrimental effects. At the end of each turn that he takes hit point damage, the ragechemist must succeed at a Will saving throw (DC 15, or DC 20 if any of the damage came from a critical hit that turn) or take a –2 penalty on Will saving throws and to Intelligence. These penalties end 1 hour after the mutagen ends and stack with themselves. If the penalty lowers the ragechemist's Intelligence score to 0, the ragechemist is comatose until 1 hour after the mutagen expires. This ability replaces poison use.
 
 **Sturdy Rage** : At 6th level, whenever a ragechemist uses his rage mutagen, he also gains a +4 bonus to natural armor, but the penalty on Will saving throws and to Intelligence for taking damage increases to –4. This ability replaces swift poisoning.
 

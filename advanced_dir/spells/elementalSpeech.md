@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/elementalSpeech
+title: advance_dir/spells/elementalSpeech
 ---
  **Elemental Speech**
 
@@ -7,7 +7,7 @@ title: advanced/spells/elementalSpeech
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (iron filings
+**Components** V, S, M (iron filings)
 
 **Range** personal
 

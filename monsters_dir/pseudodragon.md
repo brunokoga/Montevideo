@@ -11,7 +11,7 @@ _This housecat-sized miniature dragon has fine scales, sharp horns, wicked littl
 
 NG Tiny [dragon](creatureTypes#_dragon)
 
-**Init** +2; **Senses** [blindsense](universalMonsterRules#_blindsense 60 ft., darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +6
+**Init** +2; **Senses** [blindsense](universalMonsterRules#_blindsense) 60 ft., darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +6
 
 **Defense**
 
@@ -27,7 +27,7 @@ NG Tiny [dragon](creatureTypes#_dragon)
 
 **Speed** 15 ft., fly 60 ft. (good)
 
-**Melee** sting +6 (1d3–2 plus [poison](universalMonsterRules#_poison)), bite +6 (1d2–2
+**Melee** sting +6 (1d3–2 plus [poison](universalMonsterRules#_poison)), bite +6 (1d2–2)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft. (5 ft. with tail)
 
@@ -39,7 +39,7 @@ NG Tiny [dragon](creatureTypes#_dragon)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Diplomacy](../skill_dir/diplomacy#_diplomacy +5, [Fly](../skill_dir/fly#_fly +15, [Perception](../skill_dir/perception#_perception +6, [Sense Motive](../skill_dir/senseMotive#_sense-motive +6, [Stealth](../skill_dir/stealth#_stealth) +19 (+23 in forests, [Survival](../skill_dir/survival#_survival +6; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) (improves to +8 in forests)
+**Skills** [Diplomacy](../skill_dir/diplomacy#_diplomacy) +5, [Fly](../skill_dir/fly#_fly) +15, [Perception](../skill_dir/perception#_perception) +6, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +6, [Stealth](../skill_dir/stealth#_stealth) +19 (+23 in forests), [Survival](../skill_dir/survival#_survival) +6; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) (improves to +8 in forests)
 
 **Languages** Draconic; [telepathy](universalMonsterRules#_telepathy) (60 ft.)
 
@@ -53,7 +53,7 @@ NG Tiny [dragon](creatureTypes#_dragon)
 
 **Special Abilities**
 
-**Poison (Ex** Sting—injury; _save_ Fort DC 14; _frequency_ 1/minute for 10 minutes; _effect_ sleep for 1 minute; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**Poison (Ex)** Sting—injury; _save_ Fort DC 14; _frequency_ 1/minute for 10 minutes; _effect_ sleep for 1 minute; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
 
 Pseudodragons are tiny cousins of true dragons, and are playful but shy. They often only vocalize in chirps, hisses, growls, and purrs, but can communicate telepathically with any intelligent creature. If approached peacefully and offered food, they are usually willing to share information about what they've seen in their territory, but threats or violence make them flee.
 

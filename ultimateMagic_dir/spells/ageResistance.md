@@ -1,13 +1,13 @@
 ---
-title: ultimateMagic/spells/ageResistance
+title: ultimateMagi_dir/spells/ageResistance
 ---
 Age Resistance
 
-**School** transmutation; **Level** alchemist 4, druid 6, sorcerer/wizard 6, witch 6
+**School** transmutation; **Level** alchemist 4, druid 6, sorcere_dir/wizard 6, witch 6
 
 **Components** V, S
 
-This spell functions as _ [lesser age resistance](ultimateMagic/spell_dir/ageResistance#_age-resistance,-lesser_, except you ignore the Strength, Dexterity, and Constitution penalties gained at middle age and old age.
+This spell functions as _ [lesser age resistance](ultimateMagic/spell_dir/ageResistance#_age-resistance,-lesser)_, except you ignore the Strength, Dexterity, and Constitution penalties gained at middle age and old age.
 
 Age Resistance, Greater
 
@@ -15,11 +15,11 @@ Age Resistance, Greater
 
 **Components** V, S
 
-This spell functions as _ [lesser age resistance](ultimateMagic/spell_dir/ageResistance#_age-resistance,-lesser_, except you ignore all Strength, Dexterity, and Constitution penalties gained from middle age, old age, and venerable age.
+This spell functions as _ [lesser age resistance](ultimateMagi_dir/spells/ageResistance#_age-resistance,-lesser)_, except you ignore all Strength, Dexterity, and Constitution penalties gained from middle age, old age, and venerable age.
 
 Age Resistance, Lesser
 
-**School** transmutation; **Level** alchemist 3, druid 4, sorcerer/wizard 4, witch 4
+**School** transmutation; **Level** alchemist 3, druid 4, sorcere_dir/wizard 4, witch 4
 
 **Components** V, S
 

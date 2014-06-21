@@ -1,19 +1,19 @@
 ---
-title: spells/scare
+title: spell_dir/scare
 ---
  **Scare**
 
-**School** necromancy [fear, mind-affecting]; **Level** bard 2, sorcere_dir/wizard 2
+**School** necromancy [fear, mind-affecting]; **Level** bard 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a bone from an undead creature
+**Components** V, S, M (a bone from an undead creature)
 
 **Range** medium (100 ft. + 10 ft./level)
 
 **Targets** one living creature per three levels, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round/level or 1 round; see text for _cause fear_
+**Duration** 1 roun_dir/level or 1 round; see text for _cause fear_
 
 **Saving Throw** [Will](../combat#_will) partial; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

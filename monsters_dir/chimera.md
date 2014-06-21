@@ -11,7 +11,7 @@ _This winged monster has the body of a lion, though two more heads flank its cen
 
 CE Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +10
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +10
 
 **Defense**
 
@@ -37,9 +37,9 @@ CE Large [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +9; **CMB** +14; **CMD** 25 (29 vs. trip)
 
-**Feats** [Hover](monsterFeats#_hover, [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Toughness](../feats#_toughness)
+**Feats** [Hover](monsterFeats#_hover), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)), [Toughness](../feats#_toughness)
 
-**Skills** [Fly](../skill_dir/fly#_fly +2, [Perception](../skill_dir/perception#_perception +10, [Stealth](../skill_dir/stealth#_stealth) +4 (+8 in scrubland or brush; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception, +4 [Stealth](../skill_dir/stealth#_stealth) in scrubland or brush
+**Skills** [Fly](../skill_dir/fly#_fly) +2, [Perception](../skill_dir/perception#_perception) +10, [Stealth](../skill_dir/stealth#_stealth) +4 (+8 in scrubland or brush); **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception), +4 [Stealth](../skill_dir/stealth#_stealth) in scrubland or brush
 
 **Languages** Draconic
 
@@ -68,5 +68,5 @@ CE Large [magical beast](creatureTypes#_magical-beast)
 
 Chimeras are monstrous creatures born of primordial evil. Hateful and hungry, they hunt on the ground or in the air. A chimera's dragon head may be of any evil dragon type, with the corresponding breath weapon, and its wings usually match the scales on its head. Chimeras speak with three overlapping voices, but rarely do so, typically only when playing toady to a more powerful creature. A chimera is 5 feet tall at the shoulder, nearly 10 feet long, and weighs 700 pounds.
 
-Chimeras prefer meat but can subsist on vegetable matter if necessary (although being forced to do so generally leaves the beasts more ill-tempered than usual. Their flight means they can pick and choose their prey, and they usually hunt a large area in search of easy food. They are too stupid and belligerent to acquire followers, though sometimes a tribe of kobolds might give them offerings. Conversely, they are just intelligent and stubborn enough that they make poor pets, and only a significantly more powerful creature can keep them submissive. They may form equal partnerships with a respectful humanoid or similar creature, and even consent to be used as a mount. A pride of chimeras is very leonine in its hierarchy, with a dominant male leading the group and most of the hunting done by the females. A solitary chimera may be a young male or a female with cubs nearby.
+Chimeras prefer meat but can subsist on vegetable matter if necessary (although being forced to do so generally leaves the beasts more ill-tempered than usual). Their flight means they can pick and choose their prey, and they usually hunt a large area in search of easy food. They are too stupid and belligerent to acquire followers, though sometimes a tribe of kobolds might give them offerings. Conversely, they are just intelligent and stubborn enough that they make poor pets, and only a significantly more powerful creature can keep them submissive. They may form equal partnerships with a respectful humanoid or similar creature, and even consent to be used as a mount. A pride of chimeras is very leonine in its hierarchy, with a dominant male leading the group and most of the hunting done by the females. A solitary chimera may be a young male or a female with cubs nearby.
 

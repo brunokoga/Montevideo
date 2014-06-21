@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/campfireWall
+title: advance_dir/spells/campfireWall
 ---
  **Campfire Wall**
 
-**School** evocation [fire, light]; **Level** bard 3, druid 2, ranger 2, sorcerer/wizard 3
+**School** evocation [fire, light]; **Level** bard 3, druid 2, ranger 2, sorcere_dir/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: advanced/spells/campfireWall
 
 **Effect** 20-ft.-radius sphere centered on fire source
 
-**Duration** 2 hour_dir/level; see below (D
+**Duration** 2 hour_dir/level; see below (D)
 
 **Saving Throw** none; **Spell Resistance** yes
 

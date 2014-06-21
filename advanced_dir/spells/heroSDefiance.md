@@ -1,9 +1,9 @@
 ---
-title: advanced/spell_dir/heroSDefiance
+title: advance_dir/spells/heroSDefiance
 ---
  **Hero's Defiance**
 
-**School** conjuration (healing; **Level** paladin 1
+**School** conjuration (healing); **Level** paladin 1
 
 **Casting Time** 1 immediate action
 

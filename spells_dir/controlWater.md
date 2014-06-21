@@ -1,5 +1,5 @@
 ---
-title: spells/controlWater
+title: spell_dir/controlWater
 ---
  **Control Water**
 

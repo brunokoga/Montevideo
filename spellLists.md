@@ -25,2357 +25,2357 @@ Paladin Spells
 
 Ranger Spells
 
-Sorcerer/Wizard Spells
+Sorcere_dir/Wizard Spells
 
 # Bard Spells
 
 ## 0-Level Bard Spells
 
-**[Dancing Lights](spell_dir/dancingLights#_dancing-lights** : Creates torches or other lights.
+**[Dancing Lights](spells/dancingLights#_dancing-lights)** : Creates torches or other lights.
 
-**[Daze](spell_dir/daze#_daze** : Humanoid creature of 4 HD or less loses next action.
+**[Daze](spell_dir/daze#_daze)** : Humanoid creature of 4 HD or less loses next action.
 
-**[Detect Magic](spell_dir/detectMagic#_detect-magic** : Detects spells and magic items within 60 ft.
+**[Detect Magic](spells/detectMagic#_detect-magic)** : Detects spells and magic items within 60 ft.
 
-**[Flare](spell_dir/flare#_flare)** : Dazzles one creature (–1 on attack rolls.
+**[Flare](spell_dir/flare#_flare)** : Dazzles one creature (–1 on attack rolls).
 
-**[Ghost Sound](spell_dir/ghostSound#_ghost-sound** : Figment sounds.
+**[Ghost Sound](spells/ghostSound#_ghost-sound)** : Figment sounds.
 
-**[Know Direction](spell_dir/knowDirection#_know-direction** : You discern north.
+**[Know Direction](spell_dir/knowDirection#_know-direction)** : You discern north.
 
-**[Light](spell_dir/light#_light** : Object shines like a torch.
+**[Light](spells/light#_light)** : Object shines like a torch.
 
-**[Lullaby](spell_dir/lullaby#_lullaby)** : Makes subject drowsy: –5 on Perception checks, –2 on [Will](combat#_will saves against _ [sleep](spell_dir/sleep#_sleep_.
+**[Lullaby](spell_dir/lullaby#_lullaby)** : Makes subject drowsy: –5 on Perception checks, –2 on [Will](combat#_will) saves against _ [sleep](spells/sleep#_sleep)_.
 
-**[Mage Hand](spell_dir/mageHand#_mage-hand** : 5-pound telekinesis.
+**[Mage Hand](spell_dir/mageHand#_mage-hand)** : 5-pound telekinesis.
 
-**[Mending](spell_dir/mending#_mending** : Makes minor repairs on an object.
+**[Mending](spells/mending#_mending)** : Makes minor repairs on an object.
 
-**[Message](spell_dir/message#_message** : Whisper conversation at distance.
+**[Message](spell_dir/message#_message)** : Whisper conversation at distance.
 
-**[Open/Close](spell_dir/openClose#_open-close** : Opens or closes small or light things.
+**[Open/Close](spell_dir/openClose#_open-close)** : Opens or closes small or light things.
 
-**[Prestidigitation](spell_dir/prestidigitation#_prestidigitation** : Performs minor tricks.
+**[Prestidigitation](spells/prestidigitation#_prestidigitation)** : Performs minor tricks.
 
-**[Read Magic](spell_dir/readMagic#_read-magic** : Read scrolls and spellbooks.
+**[Read Magic](spell_dir/readMagic#_read-magic)** : Read scrolls and spellbooks.
 
-**[Resistance](spell_dir/resistance#_resistance** : Subject gains +1 on saving throws.
+**[Resistance](spells/resistance#_resistance)** : Subject gains +1 on saving throws.
 
-**[Summon Instrument](spell_dir/summonInstrument#_summon-instrument** : Summons one musical instrument.
+**[Summon Instrument](spell_dir/summonInstrument#_summon-instrument)** : Summons one musical instrument.
 
 ## 1st-Level Bard Spells
 
-**[Alarm](spell_dir/alarm#_alarm** : Wards an area for 2 hours/level.
+**[Alarm](spells/alarm#_alarm)** : Wards an area for 2 hour_dir/level.
 
-**[Animate Rope](spell_dir/animateRope#_animate-rope** : Makes a rope move at your command.
+**[Animate Rope](spells/animateRope#_animate-rope)** : Makes a rope move at your command.
 
-**[Cause Fear](spell_dir/causeFear#_cause-fear** : One creature of 5 HD or less flees for 1d4 rounds.
+**[Cause Fear](spell_dir/causeFear#_cause-fear)** : One creature of 5 HD or less flees for 1d4 rounds.
 
-**[Charm Person](spell_dir/charmPerson#_charm-person** : Makes one person your friend.
+**[Charm Person](spells/charmPerson#_charm-person)** : Makes one person your friend.
 
-**[Comprehend Languages](spell_dir/comprehendLanguages#_comprehend-languages** : You understand all languages.
+**[Comprehend Languages](spell_dir/comprehendLanguages#_comprehend-languages)** : You understand all languages.
 
-**[Confusion, Lesser](spell_dir/confusion#_confusion-lesser)** : One creature is _ [confused](glossary#_confused _for 1 round.
+**[Confusion, Lesser](spells/confusion#_confusion-lesser)** : One creature is _ [confused](glossary#_confused) _for 1 round.
 
-**[Cure Light Wounds](spell_dir/cureLightWounds#_cure-light-wounds** : Cures 1d8 damage + 1/level (max +5).
+**[Cure Light Wounds](spell_dir/cureLightWounds#_cure-light-wounds)** : Cures 1d8 damage + 1/level (max +5).
 
-**[Detect Secret Doors](spell_dir/detectSecretDoors#_detect-secret-doors** : Reveals hidden doors within 60 ft.
+**[Detect Secret Doors](spell_dir/detectSecretDoors#_detect-secret-doors)** : Reveals hidden doors within 60 ft.
 
-**[Disguise Self](spell_dir/disguiseSelf#_disguise-self** : Changes your appearance.
+**[Disguise Self](spells/disguiseSelf#_disguise-self)** : Changes your appearance.
 
-**[Erase](spell_dir/erase#_erase** : Mundane or magical writing vanishes.
+**[Erase](spell_dir/erase#_erase)** : Mundane or magical writing vanishes.
 
-**[Expeditious Retreat](spell_dir/expeditiousRetreat#_expeditious-retreat** : Your base land speed increases by 30 ft.
+**[Expeditious Retreat](spells/expeditiousRetreat#_expeditious-retreat)** : Your base land speed increases by 30 ft.
 
-**[Feather Fall](spell_dir/featherFall#_feather-fall** : Objects or creatures fall slowly.
+**[Feather Fall](spell_dir/featherFall#_feather-fall)** : Objects or creatures fall slowly.
 
-**[Grease](spell_dir/grease#_grease** : Makes 10-ft. square or one object slippery.
+**[Grease](spells/grease#_grease)** : Makes 10-ft. square or one object slippery.
 
-**[Hideous Laughter](spell_dir/hideousLaughter#_hideous-laughter** : Subject loses actions for 1 round/ level.
+**[Hideous Laughter](spell_dir/hideousLaughter#_hideous-laughter)** : Subject loses actions for 1 round/ level.
 
-**[Hypnotism](spell_dir/hypnotism#_hypnotism** : Fascinates 2d4 HD of creatures.
+**[Hypnotism](spell_dir/hypnotism#_hypnotism)** : Fascinates 2d4 HD of creatures.
 
-**[Identify](spell_dir/identify#_identify** : Gives +10 bonus to identify magic items.
+**[Identify](spells/identify#_identify)** : Gives +10 bonus to identify magic items.
 
-**[Magic Aura](spell_dir/magicAura#_magic-aura** : Alters object's magic aura.
+**[Magic Aura](spell_dir/magicAura#_magic-aura)** : Alters object's magic aura.
 
-**[Magic Mouth](spell_dir/magicMouth#_magic-mouth** M: Objects speaks once when triggered.
+**[Magic Mouth](spells/magicMouth#_magic-mouth)** M: Objects speaks once when triggered.
 
-**[Obscure Object](spell_dir/obscureObject#_obscure-object** : Masks object against _ [scrying](spell_dir/scrying#_scrying_.
+**[Obscure Object](spell_dir/obscureObject#_obscure-object)** : Masks object against _ [scrying](spells/scrying#_scrying)_.
 
-**[Remove Fear](spell_dir/removeFear#_remove-fear** : Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+**[Remove Fear](spell_dir/removeFear#_remove-fear)** : Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 
-**[Silent Image](spell_dir/silentImage#_silent-image** : Creates minor illusion of your design.
+**[Silent Image](spells/silentImage#_silent-image)** : Creates minor illusion of your design.
 
-**[Sleep](spell_dir/sleep#_sleep** : Puts 4 HD of creatures into magical slumber.
+**[Sleep](spell_dir/sleep#_sleep)** : Puts 4 HD of creatures into magical slumber.
 
-**[Summon Monster I](spell_dir/summonMonster#_summon-monster-i** : Summons extraplanar creature to fight for you.
+**[Summon Monster I](spells/summonMonster#_summon-monster-i)** : Summons extraplanar creature to fight for you.
 
-**[Undetectable Alignment](spell_dir/undetectableAlignment#_undetectable-alignment** : Conceals alignment for 24 hours.
+**[Undetectable Alignment](spell_dir/undetectableAlignment#_undetectable-alignment)** : Conceals alignment for 24 hours.
 
-**[Unseen Servant](spell_dir/unseenServant#_unseen-servant** : Invisible force obeys your commands.
+**[Unseen Servant](spells/unseenServant#_unseen-servant)** : Invisible force obeys your commands.
 
-**[Ventriloquism](spell_dir/ventriloquism#_ventriloquism** : Throws voice for 1 min./level.
+**[Ventriloquism](spell_dir/ventriloquism#_ventriloquism)** : Throws voice for 1 min./level.
 
 ## 2nd-Level Bard Spells
 
-**[Alter Self](spell_dir/alterSelf#_alter-self** : Assume form of a Small or Medium humanoid.
+**[Alter Self](spell_dir/alterSelf#_alter-self)** : Assume form of a Small or Medium humanoid.
 
-**[Animal Messenger](spell_dir/animalMessenger#_animal-messenger** : Sends a Tiny animal to a specific place.
+**[Animal Messenger](spells/animalMessenger#_animal-messenger)** : Sends a Tiny animal to a specific place.
 
-**[Animal Trance](spell_dir/animalTrance#_animal-trance** : Fascinates 2d6 HD of animals.
+**[Animal Trance](spell_dir/animalTrance#_animal-trance)** : Fascinates 2d6 HD of animals.
 
-**[Blindness/Deafness](spell_dir/blindnessDeafness#_blindness-deafness** : Makes subject blind or deaf.
+**[Blindness/Deafness](spell_dir/blindnessDeafness#_blindness-deafness)** : Makes subject blind or deaf.
 
-**[Blur](spell_dir/blur#_blur** : Attacks miss subject 20% of the time.
+**[Blur](spells/blur#_blur)** : Attacks miss subject 20% of the time.
 
-**[Calm Emotions](spell_dir/calmEmotions#_calm-emotions** : Calms creatures, negating emotion effects.
+**[Calm Emotions](spell_dir/calmEmotions#_calm-emotions)** : Calms creatures, negating emotion effects.
 
-**[Cat's Grace](spell_dir/catSGrace#_cat-s-grace)** : Subject gains +4 to [Dex](gettingStarted#_dexterity for 1 min./level.
+**[Cat's Grace](spells/catSGrace#_cat-s-grace)** : Subject gains +4 to [Dex](gettingStarted#_dexterity) for 1 min./level.
 
-**[Cure Moderate Wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds** : Cures 2d8 damage + 1/level (max +10).
+**[Cure Moderate Wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds)** : Cures 2d8 damage + 1/level (max +10).
 
-**[Darkness](spell_dir/darkness#_darkness** : 20-ft. radius of supernatural shadow.
+**[Darkness](spell_dir/darkness#_darkness)** : 20-ft. radius of supernatural shadow.
 
-**[Daze Monster](spell_dir/dazeMonster#_daze-monster** : Living creature of 6 HD or less loses next action.
+**[Daze Monster](spells/dazeMonster#_daze-monster)** : Living creature of 6 HD or less loses next action.
 
-**[Delay Poison](spell_dir/delayPoison#_delay-poison** : Stops poison from harming target for 1 hour/level.
+**[Delay Poison](spell_dir/delayPoison#_delay-poison)** : Stops poison from harming target for 1 hour/level.
 
-**[Detect Thoughts](spell_dir/detectThoughts#_detect-thoughts** : Allows “listening” to surface thoughts.
+**[Detect Thoughts](spell_dir/detectThoughts#_detect-thoughts)** : Allows “listening” to surface thoughts.
 
-**[Eagle's Splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)** : Subject gains +4 to [Cha](gettingStarted#_charisma-new for 1 min./level.
+**[Eagle's Splendor](spells/eagleSSplendor#_eagle-s-splendor)** : Subject gains +4 to [Cha](gettingStarted#_charisma-new) for 1 min./level.
 
-**[Enthrall](spell_dir/enthrall#_enthrall** : Captivates all within 100 ft. + 10 ft./level.
+**[Enthrall](spell_dir/enthrall#_enthrall)** : Captivates all within 100 ft. + 10 ft./level.
 
-**[Fox's Cunning](spell_dir/foxSCunning#_fox-s-cunning)** : Subject gains +4 to [Int](gettingStarted#_intelligence for 1 min./level.
+**[Fox's Cunning](spell_dir/foxSCunning#_fox-s-cunning)** : Subject gains +4 to [Int](gettingStarted#_intelligence) for 1 min./level.
 
-**[Glitterdust](spell_dir/glitterdust#_glitterdust)** : Blinds creatures, outlines [invisible](glossary#_invisible creatures.
+**[Glitterdust](spell_dir/glitterdust#_glitterdust)** : Blinds creatures, outlines [invisible](glossary#_invisible) creatures.
 
-**[Heroism](spell_dir/heroism#_heroism** : Gives +2 on attack rolls, saves, skill checks.
+**[Heroism](spells/heroism#_heroism)** : Gives +2 on attack rolls, saves, skill checks.
 
-**[Hold Person](spell_dir/holdPerson#_hold-person** : Paralyzes one humanoid for 1 round/level.
+**[Hold Person](spell_dir/holdPerson#_hold-person)** : Paralyzes one humanoid for 1 round/level.
 
-**[Hypnotic Pattern](spell_dir/hypnoticPattern#_hypnotic-pattern)** : Fascinates (2d4 + level HD of creatures.
+**[Hypnotic Pattern](spell_dir/hypnoticPattern#_hypnotic-pattern)** : Fascinates (2d4 + level) HD of creatures.
 
-**[Invisibility](spell_dir/invisibility#_invisibility)** : Subject is [invisible](glossary#_invisible for 1 min./level or until it attacks.
+**[Invisibility](spells/invisibility#_invisibility)** : Subject is [invisible](glossary#_invisible) for 1 min./level or until it attacks.
 
-**[Locate Object](spell_dir/locateObject#_locate-object)** : Senses direction toward object (specific or type.
+**[Locate Object](spell_dir/locateObject#_locate-object)** : Senses direction toward object (specific or type).
 
-**[Minor Image](spell_dir/minorImage#_minor-image** : As _ [silent image](spell_dir/silentImage#_silent-image_, plus some sound.
+**[Minor Image](spells/minorImage#_minor-image)** : As _ [silent image](spell_dir/silentImage#_silent-image)_, plus some sound.
 
-**[Mirror Image](spell_dir/mirrorImage#_mirror-image)** : Creates decoy duplicates of you (1d4 + 1 per three levels, max 8.
+**[Mirror Image](spells/mirrorImage#_mirror-image)** : Creates decoy duplicates of you (1d4 + 1 per three levels, max 8).
 
-**[Misdirection](spell_dir/misdirection#_misdirection** : Misleads divinations for one creature or object.
+**[Misdirection](spell_dir/misdirection#_misdirection)** : Misleads divinations for one creature or object.
 
-**[Pyrotechnics](spell_dir/pyrotechnics#_pyrotechnics** : Turns fire into blinding light or choking smoke.
+**[Pyrotechnics](spells/pyrotechnics#_pyrotechnics)** : Turns fire into blinding light or choking smoke.
 
-**[Rage](spell_dir/rage#_rage)** : Gives +2 to [Str](gettingStarted#_strength) and [Con](gettingStarted#_constitution), +1 on [Will](combat#_will) saves, –2 to [AC](combat#_armor-class.
+**[Rage](spell_dir/rage#_rage)** : Gives +2 to [Str](gettingStarted#_strength) and [Con](gettingStarted#_constitution), +1 on [Will](combat#_will) saves, –2 to [AC](combat#_armor-class).
 
-**[Scare](spell_dir/scare#_scare** : Panics creatures of less than 6 HD.
+**[Scare](spells/scare#_scare)** : Panics creatures of less than 6 HD.
 
-**[Shatter](spell_dir/shatter#_shatter** : Sonic vibration damages objects or crystalline creatures.
+**[Shatter](spell_dir/shatter#_shatter)** : Sonic vibration damages objects or crystalline creatures.
 
-**[Silence](spell_dir/silence#_silence** : Negates sound in 20-ft. radius.
+**[Silence](spells/silence#_silence)** : Negates sound in 20-ft. radius.
 
-**[Sound Burst](spell_dir/soundBurst#_sound-burst** : Deals 1d8 sonic damage and may stun subjects.
+**[Sound Burst](spell_dir/soundBurst#_sound-burst)** : Deals 1d8 sonic damage and may stun subjects.
 
-**[Suggestion](spell_dir/suggestion#_suggestion** : Compels subject to follow stated course of action.
+**[Suggestion](spells/suggestion#_suggestion)** : Compels subject to follow stated course of action.
 
-**[Summon Monster II](spell_dir/summonMonster#_summon-monster-ii** : Summons extraplanar creature to fight for you.
+**[Summon Monster II](spell_dir/summonMonster#_summon-monster-ii)** : Summons extraplanar creature to fight for you.
 
-**[Summon Swarm](spell_dir/summonSwarm#_summon-swarm** : Summons swarm of bats, rats, or spiders.
+**[Summon Swarm](spells/summonSwarm#_summon-swarm)** : Summons swarm of bats, rats, or spiders.
 
-**[Tongues](spell_dir/tongues#_tongues** : Speak and understand any language.
+**[Tongues](spell_dir/tongues#_tongues)** : Speak and understand any language.
 
-**[Whispering Wind](spell_dir/whisperingWind#_whispering-wind** : Sends a short message 1 mile/level.
+**[Whispering Wind](spells/whisperingWind#_whispering-wind)** : Sends a short message 1 mil_dir/level.
 
 ## 3rd-Level Bard Spells
 
-**[Blink](spell_dir/blink#_blink** : You randomly vanish and reappear for 1 round/level.
+**[Blink](spells/blink#_blink)** : You randomly vanish and reappear for 1 roun_dir/level.
 
-**[Charm Monster](spell_dir/charmMonster#_charm-monster** : Makes monster believe it is your ally.
+**[Charm Monster](spells/charmMonster#_charm-monster)** : Makes monster believe it is your ally.
 
-**[Clairaudience/Clairvoyance](spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance** : Hear or see at a distance for 1 min./level.
+**[Clairaudienc_dir/Clairvoyance](spells/clairaudienceClairvoyance#_clairaudience-clairvoyance)** : Hear or see at a distance for 1 min./level.
 
-**[Confusion](spell_dir/confusion#_confusion** : Subjects behave oddly for 1 round/level.
+**[Confusion](spell_dir/confusion#_confusion)** : Subjects behave oddly for 1 round/level.
 
-**[Crushing Despair](spell_dir/crushingDespair#_crushing-despair** : Subjects take –2 on attack rolls, damage rolls, saves, and checks.
+**[Crushing Despair](spell_dir/crushingDespair#_crushing-despair)** : Subjects take –2 on attack rolls, damage rolls, saves, and checks.
 
-**[Cure Serious Wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds** : Cures 3d8 damage + 1/level (max +15).
+**[Cure Serious Wounds](spells/cureSeriousWounds#_cure-serious-wounds)** : Cures 3d8 damage + 1/level (max +15).
 
-**[Daylight](spell_dir/daylight#_daylight** : 60-ft. radius of bright light.
+**[Daylight](spell_dir/daylight#_daylight)** : 60-ft. radius of bright light.
 
-**[Deep Slumber](spell_dir/deepSlumber#_deep-slumber** : Puts 10 HD of creatures to [sleep](spell_dir/sleep#_sleep.
+**[Deep Slumber](spells/deepSlumber#_deep-slumber)** : Puts 10 HD of creatures to [sleep](spell_dir/sleep#_sleep).
 
-**[Dispel Magic](spell_dir/dispelMagic#_dispel-magic** : Cancels one magical spell or effect.
+**[Dispel Magic](spells/dispelMagic#_dispel-magic)** : Cancels one magical spell or effect.
 
-**[Displacement](spell_dir/displacement#_displacement** : Attacks miss subject 50% of the time.
+**[Displacement](spell_dir/displacement#_displacement)** : Attacks miss subject 50% of the time.
 
-**[Fear](spell_dir/fear#_fear** : Subjects within cone flee for 1 round/level.
+**[Fear](spells/fear#_fear)** : Subjects within cone flee for 1 roun_dir/level.
 
-**[Gaseous Form](spell_dir/gaseousForm#_gaseous-form** : Subject becomes insubstantial and can fly slowly.
+**[Gaseous Form](spells/gaseousForm#_gaseous-form)** : Subject becomes insubstantial and can fly slowly.
 
-**[Geas, Lesser](spell_dir/geasQuest#_geas-lesser** : Commands subject of 7 HD or less.
+**[Geas, Lesser](spell_dir/geasQuest#_geas-lesser)** : Commands subject of 7 HD or less.
 
-**[Glibness](spell_dir/glibness#_glibness** : You gain +20 bonus on Bluff checks, and your lies can escape magical discernment.
+**[Glibness](spells/glibness#_glibness)** : You gain +20 bonus on Bluff checks, and your lies can escape magical discernment.
 
-**[Good Hope](spell_dir/goodHope#_good-hope** : Subjects gain +2 on attack rolls, damage rolls, saves, and checks.
+**[Good Hope](spell_dir/goodHope#_good-hope)** : Subjects gain +2 on attack rolls, damage rolls, saves, and checks.
 
-**[Haste](spell_dir/haste#_haste** : One creatur_dir/level moves faster, receives +1 on attack rolls, [AC](combat#_armor-class), and [Reflex](combat#_reflex saves.
+**[Haste](spells/haste#_haste)** : One creatur_dir/level moves faster, receives +1 on attack rolls, [AC](combat#_armor-class), and [Reflex](combat#_reflex) saves.
 
-**[Illusory Script](spell_dir/illusoryScript#_illusory-script** M: Only select creatures can read text.
+**[Illusory Script](spells/illusoryScript#_illusory-script)** M: Only select creatures can read text.
 
-**[Invisibility Sphere](spell_dir/invisibilitySphere#_invisibility-sphere)** : Makes everyone within 10 feet [invisible](glossary#_invisible.
+**[Invisibility Sphere](spell_dir/invisibilitySphere#_invisibility-sphere)** : Makes everyone within 10 feet [invisible](glossary#_invisible).
 
-**[Major Image](spell_dir/majorImage#_major-image** : As _ [silent image](spell_dir/silentImage#_silent-image_, plus sound, smell, and thermal effects.
+**[Major Image](spells/majorImage#_major-image)** : As _ [silent image](spell_dir/silentImage#_silent-image)_, plus sound, smell, and thermal effects.
 
-**[Phantom Steed](spell_dir/phantomSteed#_phantom-steed** : Magic horse appears for 1 hour/level.
+**[Phantom Steed](spells/phantomSteed#_phantom-steed)** : Magic horse appears for 1 hou_dir/level.
 
-**[Remove Curse](spell_dir/removeCurse#_remove-curse** : Frees object or person from curse.
+**[Remove Curse](spells/removeCurse#_remove-curse)** : Frees object or person from curse.
 
-**[Scrying](spell_dir/scrying#_scrying** F: Spies on subject from a distance.
+**[Scrying](spell_dir/scrying#_scrying)** F: Spies on subject from a distance.
 
-**[Sculpt Sound](spell_dir/sculptSound#_sculpt-sound** : Creates new sounds or changes existing ones into new sounds.
+**[Sculpt Sound](spells/sculptSound#_sculpt-sound)** : Creates new sounds or changes existing ones into new sounds.
 
-**[Secret Page](spell_dir/secretPage#_secret-page** : Changes one page to hide its real content.
+**[Secret Page](spell_dir/secretPage#_secret-page)** : Changes one page to hide its real content.
 
-**[See Invisibility](spell_dir/seeInvisibility#_see-invisibility)** : Reveals [invisible](glossary#_invisible creatures or objects.
+**[See Invisibility](spells/seeInvisibility#_see-invisibility)** : Reveals [invisible](glossary#_invisible) creatures or objects.
 
-**[Sepia Snake Sigil](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil** M: Creates a snake-shaped text symbol that immobilizes reader.
+**[Sepia Snake Sigil](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil)** M: Creates a snake-shaped text symbol that immobilizes reader.
 
-**[Slow](spell_dir/slow#_slow** : One subject/level takes only one actio_dir/round, –1 to [AC](combat#_armor-class), [Reflex](combat#_reflex saves, and attack rolls.
+**[Slow](spells/slow#_slow)** : One subjec_dir/level takes only one action/round, –1 to [AC](combat#_armor-class), [Reflex](combat#_reflex) saves, and attack rolls.
 
-**[Speak with Animals](spell_dir/speakWithAnimals#_speak-with-animals** : You can communicate with animals.
+**[Speak with Animals](spell_dir/speakWithAnimals#_speak-with-animals)** : You can communicate with animals.
 
-**[Summon Monster III](spell_dir/summonMonster#_summon-monster-iii** : Summons extraplanar creature to fight for you.
+**[Summon Monster III](spells/summonMonster#_summon-monster-iii)** : Summons extraplanar creature to fight for you.
 
-**[Tiny Hut](spell_dir/tinyHut#_tiny-hut** : Creates shelter for 10 creatures.
+**[Tiny Hut](spell_dir/tinyHut#_tiny-hut)** : Creates shelter for 10 creatures.
 
 ## 4th-Level Bard Spells
 
-**[Break Enchantment](spell_dir/breakEnchantment#_break-enchantment** : Frees subjects from enchantments, transmutations, and curses.
+**[Break Enchantment](spells/breakEnchantment#_break-enchantment)** : Frees subjects from enchantments, transmutations, and curses.
 
-**[Cure Critical Wounds](spell_dir/cureCriticalWounds#_cure-critical-wounds** : Cures 4d8 damage + 1/level (max +20).
+**[Cure Critical Wounds](spell_dir/cureCriticalWounds#_cure-critical-wounds)** : Cures 4d8 damage + 1/level (max +20).
 
-**[Detect Scrying](spell_dir/detectScrying#_detect-scrying** : Alerts you to magical eavesdropping.
+**[Detect Scrying](spell_dir/detectScrying#_detect-scrying)** : Alerts you to magical eavesdropping.
 
-**[Dimension Door](spell_dir/dimensionDoor#_dimension-door** : Teleports you a short distance.
+**[Dimension Door](spells/dimensionDoor#_dimension-door)** : Teleports you a short distance.
 
-**[Dominate Person](spell_dir/dominatePerson#_dominate-person** : Controls humanoid telepathically.
+**[Dominate Person](spell_dir/dominatePerson#_dominate-person)** : Controls humanoid telepathically.
 
-**[Freedom of Movement](spell_dir/freedomOfMovement#_freedom-of-movement** : Subject moves normally despite impediments to restrict movement.
+**[Freedom of Movement](spells/freedomOfMovement#_freedom-of-movement)** : Subject moves normally despite impediments to restrict movement.
 
-**[Hallucinatory Terrain](spell_dir/hallucinatoryTerrain#_hallucinatory-terrain)** : Makes one type of terrain appear like another (field as forest, or the like.
+**[Hallucinatory Terrain](spell_dir/hallucinatoryTerrain#_hallucinatory-terrain)** : Makes one type of terrain appear like another (field as forest, or the like).
 
-**[Hold Monster](spell_dir/holdMonster#_hold-monster** : As _ [hold person](spell_dir/holdPerson#_hold-person_, but any creature.
+**[Hold Monster](spells/holdMonster#_hold-monster)** : As _ [hold person](spell_dir/holdPerson#_hold-person)_, but any creature.
 
-**[Invisibility, Greater](spell_dir/invisibility#_invisibility-greater** : As _ [invisibility](spell_dir/invisibility#_invisibility), _but subject can attack and stay [invisible](glossary#_invisible.
+**[Invisibility, Greater](spells/invisibility#_invisibility-greater)** : As _ [invisibility](spell_dir/invisibility#_invisibility), _but subject can attack and stay [invisible](glossary#_invisible).
 
-**[Legend Lore](spell_dir/legendLore#_legend-lore** MF: Lets you learn tales about a person, place, or thing.
+**[Legend Lore](spells/legendLore#_legend-lore)** MF: Lets you learn tales about a person, place, or thing.
 
-**[Locate Creature](spell_dir/locateCreature#_locate-creature** : Indicates direction to known creature.
+**[Locate Creature](spell_dir/locateCreature#_locate-creature)** : Indicates direction to known creature.
 
-**[Modify Memory](spell_dir/modifyMemory#_modify-memory** : Changes 5 minutes of subject's memories.
+**[Modify Memory](spells/modifyMemory#_modify-memory)** : Changes 5 minutes of subject's memories.
 
-**[Neutralize Poison](spell_dir/neutralizePoison#_neutralize-poison** : Immunizes subject against poison, detoxifies venom in or on subject.
+**[Neutralize Poison](spell_dir/neutralizePoison#_neutralize-poison)** : Immunizes subject against poison, detoxifies venom in or on subject.
 
-**[Rainbow Pattern](spell_dir/rainbowPattern#_rainbow-pattern** : Lights fascinate 24 HD of creatures.
+**[Rainbow Pattern](spells/rainbowPattern#_rainbow-pattern)** : Lights fascinate 24 HD of creatures.
 
-**[Repel Vermin](spell_dir/repelVermin#_repel-vermin** : Insects, spiders, and other vermin stay 10 ft. away.
+**[Repel Vermin](spell_dir/repelVermin#_repel-vermin)** : Insects, spiders, and other vermin stay 10 ft. away.
 
-**[Secure Shelter](spell_dir/secureShelter#_secure-shelter** : Creates sturdy cottage.
+**[Secure Shelter](spells/secureShelter#_secure-shelter)** : Creates sturdy cottage.
 
-**[Shadow Conjuration](spell_dir/shadowConjuration#_shadow-conjuration** : Mimics conjuration below 4th level, but only 20% real.
+**[Shadow Conjuration](spell_dir/shadowConjuration#_shadow-conjuration)** : Mimics conjuration below 4th level, but only 20% real.
 
-**[Shout](spell_dir/shout#_shout** : Deafens all within cone and deals 5d6 sonic damage.
+**[Shout](spells/shout#_shout)** : Deafens all within cone and deals 5d6 sonic damage.
 
-**[Speak with Plants](spell_dir/speakWithPlants#_speak-with-plants** : You can talk to plants and plant creatures.
+**[Speak with Plants](spell_dir/speakWithPlants#_speak-with-plants)** : You can talk to plants and plant creatures.
 
-**[Summon Monster IV](spell_dir/summonMonster#_summon-monster-iv** : Summons extraplanar creature to fight for you.
+**[Summon Monster IV](spells/summonMonster#_summon-monster-iv)** : Summons extraplanar creature to fight for you.
 
-**[Zone of Silence](spell_dir/zoneOfSilence#_zone-of-silence** : Keeps eavesdroppers from overhearing you.
+**[Zone of Silence](spell_dir/zoneOfSilence#_zone-of-silence)** : Keeps eavesdroppers from overhearing you.
 
 ## 5th-Level Bard Spells
 
-**[Cure Light Wounds, Mass](spell_dir/cureLightWounds#_cure-light-wounds-mass** : Cures 1d8 damage + 1/level, affects 1 subject/level.
+**[Cure Light Wounds, Mass](spells/cureLightWounds#_cure-light-wounds-mass)** : Cures 1d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Dispel Magic, Greater](spell_dir/dispelMagic#_dispel-magic-greater** : Works as _ [dispel magic](spell_dir/dispelMagic#_dispel-magic,_ but can affect multiple targets.
+**[Dispel Magic, Greater](spells/dispelMagic#_dispel-magic-greater)** : Works as _ [dispel magic](spell_dir/dispelMagic#_dispel-magic),_ but can affect multiple targets.
 
-**[Dream](spell_dir/dream#_dream** : Sends message to anyone sleeping.
+**[Dream](spells/dream#_dream)** : Sends message to anyone sleeping.
 
-**[False Vision](spell_dir/falseVision#_false-vision** M: Fools scrying with an illusion.
+**[False Vision](spell_dir/falseVision#_false-vision)** M: Fools scrying with an illusion.
 
-**[Heroism, Greater](spell_dir/heroism#_heroism-greater** : Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
+**[Heroism, Greater](spells/heroism#_heroism-greater)** : Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
 
-**[Mind Fog](spell_dir/mindFog#_mind-fog)** : Subjects in fog get –10 to [Wis](gettingStarted#_wisdom) and [Will](combat#_will checks.
+**[Mind Fog](spell_dir/mindFog#_mind-fog)** : Subjects in fog get –10 to [Wis](gettingStarted#_wisdom) and [Will](combat#_will) checks.
 
-**[Mirage Arcana](spell_dir/mirageArcana#_mirage-arcana** : As _ [hallucinatory terrain](spell_dir/hallucinatoryTerrain#_hallucinatory-terrain, _plus structures.
+**[Mirage Arcana](spells/mirageArcana#_mirage-arcana)** : As _ [hallucinatory terrain](spell_dir/hallucinatoryTerrain#_hallucinatory-terrain), _plus structures.
 
-**[Mislead](spell_dir/mislead#_mislead)** : Turns you [invisible](glossary#_invisible and creates illusory double.
+**[Mislead](spells/mislead#_mislead)** : Turns you [invisible](glossary#_invisible) and creates illusory double.
 
-**[Nightmare](spell_dir/nightmare#_nightmare** : Sends vision dealing 1d10 damage, fatigue.
+**[Nightmare](spell_dir/nightmare#_nightmare)** : Sends vision dealing 1d10 damage, fatigue.
 
-**[Persistent Image](spell_dir/persistentImage#_persistent-image** : As _ [major image](spell_dir/majorImage#_major-image_, but no concentration required.
+**[Persistent Image](spells/persistentImage#_persistent-image)** : As _ [major image](spell_dir/majorImage#_major-image)_, but no concentration required.
 
-**[Seeming](spell_dir/seeming#_seeming** : Changes appearance of one person per two levels.
+**[Seeming](spells/seeming#_seeming)** : Changes appearance of one person per two levels.
 
-**[Shadow Evocation](spell_dir/shadowEvocation#_shadow-evocation** : Mimics evocation of lower than 5th level, but only 20% real.
+**[Shadow Evocation](spell_dir/shadowEvocation#_shadow-evocation)** : Mimics evocation of lower than 5th level, but only 20% real.
 
-**[Shadow Walk](spell_dir/shadowWalk#_shadow-walk** : Step into shadow to travel rapidly.
+**[Shadow Walk](spells/shadowWalk#_shadow-walk)** : Step into shadow to travel rapidly.
 
-**[Song of Discord](spell_dir/songOfDiscord#_song-of-discord** : Forces targets to attack each other.
+**[Song of Discord](spell_dir/songOfDiscord#_song-of-discord)** : Forces targets to attack each other.
 
-**[Suggestion, Mass](spell_dir/suggestion#_suggestion-mass** : As _ [suggestion](spell_dir/suggestion#_suggestion, _affects subject/level.
+**[Suggestion, Mass](spells/suggestion#_suggestion-mass)** : As _ [suggestion](spell_dir/suggestion#_suggestion), _affects subject/level.
 
-**[Summon Monster V](spell_dir/summonMonster#_summon-monster-v** : Summons extraplanar creature to fight for you.
+**[Summon Monster V](spell_dir/summonMonster#_summon-monster-v)** : Summons extraplanar creature to fight for you.
 
 ## 6th-Level Bard Spells
 
-**[Analyze Dweomer](spell_dir/analyzeDweomer#_analyze-dweomer** F: Reveals magical aspects of subject.
+**[Analyze Dweomer](spells/analyzeDweomer#_analyze-dweomer)** F: Reveals magical aspects of subject.
 
-**[Animate Objects](spell_dir/animateObjects#_animate-objects** : Objects attack your foes.
+**[Animate Objects](spell_dir/animateObjects#_animate-objects)** : Objects attack your foes.
 
-**[Cat's Grace, Mass](spell_dir/catSGrace#_cat-s-grace-mass** : As _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, affects 1 subject/level.
+**[Cat's Grace, Mass](spells/catSGrace#_cat-s-grace-mass)** : As _ [cat's grace](spell_dir/catSGrace#_cat-s-grace)_, affects 1 subject/level.
 
-**[Charm Monster, Mass](spell_dir/charmMonster#_charm-monster-mass** : As _ [charm monster](spell_dir/charmMonster#_charm-monster, _but all within 30 ft.
+**[Charm Monster, Mass](spell_dir/charmMonster#_charm-monster-mass)** : As _ [charm monster](spells/charmMonster#_charm-monster), _but all within 30 ft.
 
-**[Cure Moderate Wounds, Mass](spell_dir/cureModerateWounds#_cure-moderate-wounds-mass** : Cures 2d8 damage + 1/level, affects 1 subject/level.
+**[Cure Moderate Wounds, Mass](spell_dir/cureModerateWounds#_cure-moderate-wounds-mass)** : Cures 2d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Eagle's Splendor, Mass](spell_dir/eagleSSplendor#_eagle-s-splendor-mass** : As _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor_, affects 1 subject/level.
+**[Eagle's Splendor, Mass](spells/eagleSSplendor#_eagle-s-splendor-mass)** : As _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)_, affects 1 subject/level.
 
-**[Eyebite](spell_dir/eyebite#_eyebite)** : Target becomes [panicked](glossary#_panicked), [sickened](glossary#_sickened, and/or comatose.
+**[Eyebite](spell_dir/eyebite#_eyebite)** : Target becomes [panicked](glossary#_panicked), [sickened](glossary#_sickened), and/or comatose.
 
-**[Find the Path](spell_dir/findThePath#_find-the-path** : Shows most direct way to a location.
+**[Find the Path](spell_dir/findThePath#_find-the-path)** : Shows most direct way to a location.
 
-**[Fox's Cunning, Mass](spell_dir/foxSCunning#_fox-s-cunning-mass** : As _ [fox's cunning](spell_dir/foxSCunning#_fox-s-cunning_, affects 1 subject/level.
+**[Fox's Cunning, Mass](spells/foxSCunning#_fox-s-cunning-mass)** : As _ [fox's cunning](spell_dir/foxSCunning#_fox-s-cunning)_, affects 1 subject/level.
 
-**[Geas/Quest](spell_dir/geasQuest#_geas-quest** : As _lesser geas, _but affects any creature.
+**[Gea_dir/Quest](spells/geasQuest#_geas-quest)** : As _lesser geas, _but affects any creature.
 
-**[Heroes' Feast](spell_dir/heroesFeast#_heroes-feast** : Food for one creature/level cures and grants combat bonuses_._
+**[Heroes' Feast](spell_dir/heroesFeast#_heroes-feast)** : Food for one creature/level cures and grants combat bonuses_._
 
-**[Irresistible Dance](spell_dir/irresistibleDance#_irresistible-dance** : Forces subject to dance.
+**[Irresistible Dance](spell_dir/irresistibleDance#_irresistible-dance)** : Forces subject to dance.
 
-**[Permanent Image](spell_dir/permanentImage#_permanent-image** : Permanent illusion, includes sight, sound, smell, and thermal effects.
+**[Permanent Image](spells/permanentImage#_permanent-image)** : Permanent illusion, includes sight, sound, smell, and thermal effects.
 
-**[Programmed Image](spell_dir/programmedImage#_programmed-image** M: As _ [major image](spell_dir/majorImage#_major-image_, plus triggered by event.
+**[Programmed Image](spell_dir/programmedImage#_programmed-image)** M: As _ [major image](spells/majorImage#_major-image)_, plus triggered by event.
 
-**[Project Image](spell_dir/projectImage#_project-image** M: Illusory double can talk and cast spells.
+**[Project Image](spell_dir/projectImage#_project-image)** M: Illusory double can talk and cast spells.
 
-**[Scrying, Greater](spell_dir/scrying#_scrying-greater** : As _ [scrying](spell_dir/scrying#_scrying_, but faster and longer.
+**[Scrying, Greater](spells/scrying#_scrying-greater)** : As _ [scrying](spell_dir/scrying#_scrying)_, but faster and longer.
 
-**[Shout, Greater](spell_dir/shout#_shout-greater** : Devastating yell deals 10d6 sonic damage; stuns creatures.
+**[Shout, Greater](spells/shout#_shout-greater)** : Devastating yell deals 10d6 sonic damage; stuns creatures.
 
-**[Summon Monster VI](spell_dir/summonMonster#_summon-monster-vi** : Summons extraplanar creature to fight for you.
+**[Summon Monster VI](spell_dir/summonMonster#_summon-monster-vi)** : Summons extraplanar creature to fight for you.
 
-**[Sympathetic Vibration](spell_dir/sympatheticVibration#_sympathetic-vibration** : Deals 2d10 damage/round to freestanding structure.
+**[Sympathetic Vibration](spells/sympatheticVibration#_sympathetic-vibration)** : Deals 2d10 damag_dir/round to freestanding structure.
 
-**[Veil](spell_dir/veil#_veil)** : Changes appearance of group of creatures.
+**[Veil](spells/veil#_veil)** : Changes appearance of group of creatures.
 
 # Cleric Spells
 
-## 0-Level Cleric Spells (Orisons
+## 0-Level Cleric Spells (Orisons)
 
-**[Bleed](spell_dir/bleed#_bleed)** : Cause a stabilized creature to resume [dying](glossary#_dying.
+**[Bleed](spell_dir/bleed#_bleed)** : Cause a stabilized creature to resume [dying](glossary#_dying).
 
-**[Create Water](spell_dir/createWater#_create-water** : Creates 2 gallons/level of pure water.
+**[Create Water](spells/createWater#_create-water)** : Creates 2 gallon_dir/level of pure water.
 
-**[Detect Magic](spell_dir/detectMagic#_detect-magic** : Detects spells and magic items within 60 ft.
+**[Detect Magic](spells/detectMagic#_detect-magic)** : Detects spells and magic items within 60 ft.
 
-**[Detect Poison](spell_dir/detectPoison#_detect-poison** : Detects poison in one creature or object.
+**[Detect Poison](spell_dir/detectPoison#_detect-poison)** : Detects poison in one creature or object.
 
-**[Guidance](spell_dir/guidance#_guidance** : +1 on one attack roll, saving throw, or skill check.
+**[Guidance](spells/guidance#_guidance)** : +1 on one attack roll, saving throw, or skill check.
 
-**[Light](spell_dir/light#_light** : Object shines like a torch.
+**[Light](spell_dir/light#_light)** : Object shines like a torch.
 
-**[Mending](spell_dir/mending#_mending** : Makes minor repairs on an object.
+**[Mending](spells/mending#_mending)** : Makes minor repairs on an object.
 
-**[Purify Food and Drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink** : Purifies 1 cu. ft./level of food or water.
+**[Purify Food and Drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink)** : Purifies 1 cu. ft./level of food or water.
 
-**[Read Magic](spell_dir/readMagic#_read-magic** : Read scrolls and spellbooks.
+**[Read Magic](spell_dir/readMagic#_read-magic)** : Read scrolls and spellbooks.
 
-**[Resistance](spell_dir/resistance#_resistance** : Subject gains +1 on saving throws.
+**[Resistance](spells/resistance#_resistance)** : Subject gains +1 on saving throws.
 
-**[Stabilize](spell_dir/stabilize#_stabilize)** : Cause a [dying](glossary#_dying creature to stabilize.
+**[Stabilize](spell_dir/stabilize#_stabilize)** : Cause a [dying](glossary#_dying) creature to stabilize.
 
-**[Virtue](spell_dir/virtue#_virtue** : Subject gains 1 temporary hp.
+**[Virtue](spells/virtue#_virtue)** : Subject gains 1 temporary hp.
 
 ## 1st-Level Cleric Spells
 
-**[Bane](spell_dir/bane#_bane** : Enemies take –1 on attack rolls and saves against fear.
+**[Bane](spell_dir/bane#_bane)** : Enemies take –1 on attack rolls and saves against fear.
 
-**[Bless](spell_dir/bless#_bless** : Allies gain +1 on attack rolls and saves against fear.
+**[Bless](spells/bless#_bless)** : Allies gain +1 on attack rolls and saves against fear.
 
-**[Bless Water](spell_dir/blessWater#_bless-water** M: Makes holy water.
+**[Bless Water](spell_dir/blessWater#_bless-water)** M: Makes holy water.
 
-**[Cause Fear](spell_dir/causeFear#_cause-fear** : One creature of 5 HD or less flees for 1d4 rounds.
+**[Cause Fear](spells/causeFear#_cause-fear)** : One creature of 5 HD or less flees for 1d4 rounds.
 
-**[Command](spell_dir/command#_command** : One subject obeys selected command for 1 round.
+**[Command](spell_dir/command#_command)** : One subject obeys selected command for 1 round.
 
-**[Comprehend Languages](spell_dir/comprehendLanguages#_comprehend-languages** : You understand all spoken and written languages.
+**[Comprehend Languages](spells/comprehendLanguages#_comprehend-languages)** : You understand all spoken and written languages.
 
-**[Cure Light Wounds](spell_dir/cureLightWounds#_cure-light-wounds** : Cures 1d8 damage + 1/level (max +5).
+**[Cure Light Wounds](spell_dir/cureLightWounds#_cure-light-wounds)** : Cures 1d8 damage + 1/level (max +5).
 
-**[Curse Water](spell_dir/curseWater#_curse-water** M: Makes unholy water.
+**[Curse Water](spell_dir/curseWater#_curse-water)** M: Makes unholy water.
 
-**[Deathwatch](spell_dir/deathwatch** : Reveals how near death subjects within 30 ft. are.
+**[Deathwatch](spells/deathwatch)** : Reveals how near death subjects within 30 ft. are.
 
-**[Detect Chaos/Evil/Good/Law](spell_dir/detectChaos#_detect-chaos** : Reveals creatures, spells, or objects of selected alignment.
+**[Detect Chao_dir/Evil/Goo_dir/Law](spells/detectChaos#_detect-chaos)** : Reveals creatures, spells, or objects of selected alignment.
 
-**[Detect Undead](spell_dir/detectUndead#_detect-undead** : Reveals undead within 60 ft.
+**[Detect Undead](spell_dir/detectUndead#_detect-undead)** : Reveals undead within 60 ft.
 
-**[Divine Favor](spell_dir/divineFavor#_divine-favor** : You gain +1 per three levels on attack and damage rolls.
+**[Divine Favor](spells/divineFavor#_divine-favor)** : You gain +1 per three levels on attack and damage rolls.
 
-**[Doom](spell_dir/doom#_doom** : One subject takes –2 on attack rolls, damage rolls, saves, and checks.
+**[Doom](spell_dir/doom#_doom)** : One subject takes –2 on attack rolls, damage rolls, saves, and checks.
 
-**[Endure Elements](spell_dir/endureElements#_endure-elements** : Exist comfortably in hot or cold regions.
+**[Endure Elements](spells/endureElements#_endure-elements)** : Exist comfortably in hot or cold regions.
 
-**[Entropic Shield](spell_dir/entropicShield#_entropic-shield** : Ranged attacks against you have 20% miss chance.
+**[Entropic Shield](spell_dir/entropicShield#_entropic-shield)** : Ranged attacks against you have 20% miss chance.
 
-**[Hide from Undead](spell_dir/hideFromUndead#_hide-from-undead** : Undead can't perceive one subject/level.
+**[Hide from Undead](spells/hideFromUndead#_hide-from-undead)** : Undead can't perceive one subjec_dir/level.
 
-**[Inflict Light Wounds](spell_dir/inflictLightWounds#_inflict-light-wounds** : Touch deals 1d8 damage +1/level (max +5).
+**[Inflict Light Wounds](spells/inflictLightWounds#_inflict-light-wounds)** : Touch deals 1d8 damage +1/level (max +5).
 
-**[Magic Stone](spell_dir/magicStone#_magic-stone** : Three stones gain +1 on attack, deal 1d6 +1 damage.
+**[Magic Stone](spell_dir/magicStone#_magic-stone)** : Three stones gain +1 on attack, deal 1d6 +1 damage.
 
-**[Magic Weapon](spell_dir/magicWeapon#_magic-weapon** : Weapon gains +1 bonus.
+**[Magic Weapon](spells/magicWeapon#_magic-weapon)** : Weapon gains +1 bonus.
 
-**[Obscuring Mist](spell_dir/obscuringMist#_obscuring-mist** : Fog surrounds you.
+**[Obscuring Mist](spell_dir/obscuringMist#_obscuring-mist)** : Fog surrounds you.
 
-**[Protection from Chaos/Evil/Good/Law](spell_dir/protectionFromEvil#_protection-from-evil)** : +2 to [AC](combat#_armor-class and saves, plus additional protection against selected alignment.
+**[Protection from Chaos/Evi_dir/Good/Law](spell_dir/protectionFromEvil#_protection-from-evil)** : +2 to [AC](combat#_armor-class) and saves, plus additional protection against selected alignment.
 
-**[Remove Fear](spell_dir/removeFear#_remove-fear** : Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+**[Remove Fear](spells/removeFear#_remove-fear)** : Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 
-**[Sanctuary](spell_dir/sanctuary#_sanctuary** : Opponents can't attack you, and you can't attack.
+**[Sanctuary](spell_dir/sanctuary#_sanctuary)** : Opponents can't attack you, and you can't attack.
 
-**[Shield of Faith](spell_dir/shieldOfFaith#_shield-of-faith** : Aura grants +2 or higher deflection bonus.
+**[Shield of Faith](spells/shieldOfFaith#_shield-of-faith)** : Aura grants +2 or higher deflection bonus.
 
-**[Summon Monster I](spell_dir/summonMonster#_summon-monster-i** : Summons extraplanar creature to fight for you.
+**[Summon Monster I](spell_dir/summonMonster#_summon-monster-i)** : Summons extraplanar creature to fight for you.
 
 ## 2nd-Level Cleric Spells
 
-**[Aid](spell_dir/aid#_aid** : +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
+**[Aid](spells/aid#_aid)** : +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 
-**[Align Weapon](spell_dir/alignWeapon#_align-weapon** : Weapon becomes good, evil, lawful, or chaotic.
+**[Align Weapon](spell_dir/alignWeapon#_align-weapon)** : Weapon becomes good, evil, lawful, or chaotic.
 
-**[Augury](spell_dir/augury#_augury** MF: Learns whether an action will be good or bad.
+**[Augury](spells/augury#_augury)** MF: Learns whether an action will be good or bad.
 
-**[Bear's Endurance](spell_dir/bearSEndurance#_bear-s-endurance)** : Subject gains +4 to [Con](gettingStarted#_constitution for 1 min./level.
+**[Bear's Endurance](spell_dir/bearSEndurance#_bear-s-endurance)** : Subject gains +4 to [Con](gettingStarted#_constitution) for 1 min./level.
 
-**[Bull's Strength](spell_dir/bullSStrength#_bull-s-strength)** : Subject gains +4 to [Str](gettingStarted#_strength for 1 min./level.
+**[Bull's Strength](spell_dir/bullSStrength#_bull-s-strength)** : Subject gains +4 to [Str](gettingStarted#_strength) for 1 min./level.
 
-**[Calm Emotions](spell_dir/calmEmotions#_calm-emotions** : Calms creatures, negating emotion effects.
+**[Calm Emotions](spell_dir/calmEmotions#_calm-emotions)** : Calms creatures, negating emotion effects.
 
-**[Consecrate](spell_dir/consecrate#_consecrate** M: Fills area with positive energy, weakening undead.
+**[Consecrate](spells/consecrate#_consecrate)** M: Fills area with positive energy, weakening undead.
 
-**[Cure Moderate Wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds** : Cures 2d8 damage + 1/level (max +10).
+**[Cure Moderate Wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds)** : Cures 2d8 damage + 1/level (max +10).
 
-**[Darkness](spell_dir/darkness#_darkness** : 20-ft. radius of supernatural shadow.
+**[Darkness](spell_dir/darkness#_darkness)** : 20-ft. radius of supernatural shadow.
 
-**[Death Knell](spell_dir/deathKnell#_death-knell)** : Kills [dying](glossary#_dying) creature; you gain 1d8 temporary hp, +2 to [Str](gettingStarted#_strength, and +1 caster level.
+**[Death Knell](spells/deathKnell#_death-knell)** : Kills [dying](glossary#_dying) creature; you gain 1d8 temporary hp, +2 to [Str](gettingStarted#_strength), and +1 caster level.
 
-**[Delay Poison](spell_dir/delayPoison#_delay-poison** : Stops poison from harming target for 1 hour/level.
+**[Delay Poison](spell_dir/delayPoison#_delay-poison)** : Stops poison from harming target for 1 hour/level.
 
-**[Desecrate](spell_dir/desecrate#_desecrate** M: Fills area with negative energy, making undead stronger.
+**[Desecrate](spell_dir/desecrate#_desecrate)** M: Fills area with negative energy, making undead stronger.
 
-**[Eagle's Splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)** : Subject gains +4 to [Cha](gettingStarted#_charisma-new for 1 min./level.
+**[Eagle's Splendor](spells/eagleSSplendor#_eagle-s-splendor)** : Subject gains +4 to [Cha](gettingStarted#_charisma-new) for 1 min./level.
 
-**[Enthrall](spell_dir/enthrall#_enthrall** : Captivates all within 100 ft. + 10 ft./level.
+**[Enthrall](spell_dir/enthrall#_enthrall)** : Captivates all within 100 ft. + 10 ft./level.
 
-**[Find Traps](spell_dir/findTraps#_find-traps** : Notice traps as a rogue does.
+**[Find Traps](spell_dir/findTraps#_find-traps)** : Notice traps as a rogue does.
 
-**[Gentle Repose](spell_dir/gentleRepose#_gentle-repose** : Preserves one corpse.
+**[Gentle Repose](spells/gentleRepose#_gentle-repose)** : Preserves one corpse.
 
-**[Hold Person](spell_dir/holdPerson#_hold-person** : Paralyzes one humanoid for 1 round/level.
+**[Hold Person](spell_dir/holdPerson#_hold-person)** : Paralyzes one humanoid for 1 round/level.
 
-**[Inflict Moderate Wounds](spell_dir/inflictModerateWounds#_inflict-moderate-wounds** : Touch attack, 2d8 damage + 1/level (max +10).
+**[Inflict Moderate Wounds](spell_dir/inflictModerateWounds#_inflict-moderate-wounds)** : Touch attack, 2d8 damage + 1/level (max +10).
 
-**[Make Whole](spell_dir/makeWhole#_make-whole** : Repairs an object.
+**[Make Whole](spell_dir/makeWhole#_make-whole)** : Repairs an object.
 
-**[Owl's Wisdom](spell_dir/owlSWisdom#_owl-s-wisdom)** : Subject gains +4 to [Wis](gettingStarted#_wisdom for 1 min./level.
+**[Owl's Wisdom](spells/owlSWisdom#_owl-s-wisdom)** : Subject gains +4 to [Wis](gettingStarted#_wisdom) for 1 min./level.
 
-**[Remove Paralysis](spell_dir/removeParalysis#_remove-paralysis** : Frees creatures from paralysis or _ [slow](spell_dir/slow#_slow_ effect.
+**[Remove Paralysis](spell_dir/removeParalysis#_remove-paralysis)** : Frees creatures from paralysis or _ [slow](spells/slow#_slow)_ effect.
 
-**[Resist Energy](spell_dir/resistEnergy#_resist-energy)** : Ignores 10 (or more points of damage/attack from specified energy type.
+**[Resist Energy](spell_dir/resistEnergy#_resist-energy)** : Ignores 10 (or more) points of damage/attack from specified energy type.
 
-**[Restoration, Lesser](spell_dir/restoration#_restoration-lesser** : Dispels magical ability penalty or repairs 1d4 ability damage.
+**[Restoration, Lesser](spell_dir/restoration#_restoration-lesser)** : Dispels magical ability penalty or repairs 1d4 ability damage.
 
-**[Shatter](spell_dir/shatter#_shatter** : Sonic vibration damages objects or crystalline creatures.
+**[Shatter](spells/shatter#_shatter)** : Sonic vibration damages objects or crystalline creatures.
 
-**[Shield Other](spell_dir/shieldOther#_shield-other** F: You take half of subject's damage.
+**[Shield Other](spell_dir/shieldOther#_shield-other)** F: You take half of subject's damage.
 
-**[Silence](spell_dir/silence#_silence** : Negates sound in 20-ft. radius.
+**[Silence](spells/silence#_silence)** : Negates sound in 20-ft. radius.
 
-**[Sound Burst](spell_dir/soundBurst#_sound-burst** : Deals 1d8 sonic damage to subjects; may stun them.
+**[Sound Burst](spell_dir/soundBurst#_sound-burst)** : Deals 1d8 sonic damage to subjects; may stun them.
 
-**[Spiritual Weapon](spell_dir/spiritualWeapon#_spiritual-weapon** : Magic weapon attacks on its own.
+**[Spiritual Weapon](spells/spiritualWeapon#_spiritual-weapon)** : Magic weapon attacks on its own.
 
-**[Status](spell_dir/status#_status** : Monitors condition, position of allies.
+**[Status](spell_dir/status#_status)** : Monitors condition, position of allies.
 
-**[Summon Monster II](spell_dir/summonMonster#_summon-monster-ii** : Summons extraplanar creature to fight for you.
+**[Summon Monster II](spells/summonMonster#_summon-monster-ii)** : Summons extraplanar creature to fight for you.
 
-**[Undetectable Alignment](spell_dir/undetectableAlignment#_undetectable-alignment** : Conceals alignment for 24 hours.
+**[Undetectable Alignment](spell_dir/undetectableAlignment#_undetectable-alignment)** : Conceals alignment for 24 hours.
 
-**[Zone of Truth](spell_dir/zoneOfTruth#_zone-of-truth** : Subjects within range cannot lie.
+**[Zone of Truth](spells/zoneOfTruth#_zone-of-truth)** : Subjects within range cannot lie.
 
 ## 3rd-Level Cleric Spells
 
-**[Animate Dead](spell_dir/animateDead#_animate-dead** M: Creates undead skeletons and zombies.
+**[Animate Dead](spell_dir/animateDead#_animate-dead)** M: Creates undead skeletons and zombies.
 
-**[Bestow Curse](spell_dir/bestowCurse#_bestow-curse** : –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
+**[Bestow Curse](spells/bestowCurse#_bestow-curse)** : –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 
-**[Blindness/Deafness](spell_dir/blindnessDeafness#_blindness-deafness)** : Makes subject [blinded](glossary#_blinded or deafened.
+**[Blindnes_dir/Deafness](spells/blindnessDeafness#_blindness-deafness)** : Makes subject [blinded](glossary#_blinded) or deafened.
 
-**[Contagion](spell_dir/contagion#_contagion** : Infects subject with chosen disease.
+**[Contagion](spell_dir/contagion#_contagion)** : Infects subject with chosen disease.
 
-**[Continual Flame](spell_dir/continualFlame#_continual-flame** M: Makes a permanent, heatless light.
+**[Continual Flame](spells/continualFlame#_continual-flame)** M: Makes a permanent, heatless light.
 
-**[Create Food and Water](spell_dir/createFoodAndWater#_create-food-and-water)** : Feeds three humans (or one horse/level.
+**[Create Food and Water](spell_dir/createFoodAndWater#_create-food-and-water)** : Feeds three humans (or one horse)/level.
 
-**[Cure Serious Wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds** : Cures 3d8 damage + 1/level (max +15).
+**[Cure Serious Wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)** : Cures 3d8 damage + 1/level (max +15).
 
-**[Daylight](spell_dir/daylight#_daylight** : 60-ft. radius of bright light.
+**[Daylight](spell_dir/daylight#_daylight)** : 60-ft. radius of bright light.
 
-**[Deeper Darkness](spell_dir/deeperDarkness#_deeper-darkness** : Object sheds supernatural shadow in 60-ft. radius.
+**[Deeper Darkness](spells/deeperDarkness#_deeper-darkness)** : Object sheds supernatural shadow in 60-ft. radius.
 
-**[Dispel Magic](spell_dir/dispelMagic#_dispel-magic** : Cancels one magical spell or effect.
+**[Dispel Magic](spell_dir/dispelMagic#_dispel-magic)** : Cancels one magical spell or effect.
 
-**[Glyph of Warding](spell_dir/glyphOfWarding#_glyph-of-warding** M: Inscription harms those who pass it.
+**[Glyph of Warding](spells/glyphOfWarding#_glyph-of-warding)** M: Inscription harms those who pass it.
 
-**[Helping Hand](spell_dir/helpingHand#_helping-hand** : Ghostly hand leads subject to you.
+**[Helping Hand](spell_dir/helpingHand#_helping-hand)** : Ghostly hand leads subject to you.
 
-**[Inflict Serious Wounds](spell_dir/inflictSeriousWounds#_inflict-serious-wounds** : Touch attack, 3d8 damage + 1/level (max +15).
+**[Inflict Serious Wounds](spells/inflictSeriousWounds#_inflict-serious-wounds)** : Touch attack, 3d8 damage + 1/level (max +15).
 
-**[Invisibility Purge](spell_dir/invisibilityPurge#_invisibility-purge** : Dispels invisibility within 5 ft./level.
+**[Invisibility Purge](spell_dir/invisibilityPurge#_invisibility-purge)** : Dispels invisibility within 5 ft./level.
 
-**[Locate Object](spell_dir/locateObject#_locate-object)** : Senses direction toward object (specific or type.
+**[Locate Object](spell_dir/locateObject#_locate-object)** : Senses direction toward object (specific or type).
 
-**[Magic Circle against Chaos/Evil/Good/Law](spell_dir/magicCircleAgainstChaos#_magic-circle-against-chaos** : As _protection _spells, but 10-ft. radius and 10 min./level.
+**[Magic Circle against Chaos/Evi_dir/Good/Law](spell_dir/magicCircleAgainstChaos#_magic-circle-against-chaos)** : As _protection _spells, but 10-ft. radius and 10 min./level.
 
-**[Magic Vestment](spell_dir/magicVestment#_magic-vestment** : Armor or shield gains +1 enhancement per four levels.
+**[Magic Vestment](spell_dir/magicVestment#_magic-vestment)** : Armor or shield gains +1 enhancement per four levels.
 
-**[Meld into Stone](spell_dir/meldIntoStone#_meld-into-stone** : You and your gear merge with stone.
+**[Meld into Stone](spells/meldIntoStone#_meld-into-stone)** : You and your gear merge with stone.
 
-**[Obscure Object](spell_dir/obscureObject#_obscure-object** : Masks object against [scrying](spell_dir/scrying#_scrying.
+**[Obscure Object](spell_dir/obscureObject#_obscure-object)** : Masks object against [scrying](spells/scrying#_scrying).
 
-**[Prayer](spell_dir/prayer#_prayer** : Allies get +1 bonus on most rolls, enemies –1 penalty.
+**[Prayer](spell_dir/prayer#_prayer)** : Allies get +1 bonus on most rolls, enemies –1 penalty.
 
-**[Protection from Energy](spell_dir/protectionFromEnergy#_protection-from-energy** : Absorb 12 points/level of damage from one kind of energy.
+**[Protection from Energy](spells/protectionFromEnergy#_protection-from-energy)** : Absorb 12 point_dir/level of damage from one kind of energy.
 
-**[Remove Blindness/Deafness](spell_dir/removeBlindnessDeafness#_remove-blindness-deafness** : Cures normal or magical blindness or deafness.
+**[Remove Blindness/Deafness](spell_dir/removeBlindnessDeafness#_remove-blindness-deafness)** : Cures normal or magical blindness or deafness.
 
-**[Remove Curse](spell_dir/removeCurse#_remove-curse** : Frees object or person from curse.
+**[Remove Curse](spells/removeCurse#_remove-curse)** : Frees object or person from curse.
 
-**[Remove Disease](spell_dir/removeDisease#_remove-disease** : Cures all diseases affecting subject.
+**[Remove Disease](spell_dir/removeDisease#_remove-disease)** : Cures all diseases affecting subject.
 
-**[Searing Light](spell_dir/searingLight#_searing-light** : Ray deals 1d8/two levels damage (more against undead).
+**[Searing Light](spells/searingLight#_searing-light)** : Ray deals 1d8/two levels damage (more against undead).
 
-**[Speak with Dead](spell_dir/speakWithDead#_speak-with-dead** : Corpse answers one question/two levels.
+**[Speak with Dead](spell_dir/speakWithDead#_speak-with-dead)** : Corpse answers one question/two levels.
 
-**[Stone Shape](spell_dir/stoneShape#_stone-shape** : Sculpts stone into any shape.
+**[Stone Shape](spell_dir/stoneShape#_stone-shape)** : Sculpts stone into any shape.
 
-**[Summon Monster III](spell_dir/summonMonster#_summon-monster-iii** : Summons extraplanar creature to fight for you.
+**[Summon Monster III](spells/summonMonster#_summon-monster-iii)** : Summons extraplanar creature to fight for you.
 
-**[Water Breathing](spell_dir/waterBreathing#_water-breathing** : Subjects can breathe underwater.
+**[Water Breathing](spell_dir/waterBreathing#_water-breathing)** : Subjects can breathe underwater.
 
-**[Water Walk](spell_dir/waterWalk#_water-walk** : Subject treads on water as if solid.
+**[Water Walk](spells/waterWalk#_water-walk)** : Subject treads on water as if solid.
 
-**[Wind Wall](spell_dir/windWall#_wind-wall** : Deflects arrows, smaller creatures, and gases.
+**[Wind Wall](spell_dir/windWall#_wind-wall)** : Deflects arrows, smaller creatures, and gases.
 
 ## 4th-Level Cleric Spells
 
-**[Air Walk](spell_dir/airWalk#_air-walk)** : Subject treads on air as if solid (climb or descend at 45-degree angle.
+**[Air Walk](spells/airWalk#_air-walk)** : Subject treads on air as if solid (climb or descend at 45-degree angle).
 
-**[Chaos Hammer](spell_dir/chaosHammer#_chaos-hammer** : Harms and slows lawful creatures (1d8 damag_dir/2 levels.
+**[Chaos Hammer](spell_dir/chaosHammer#_chaos-hammer)** : Harms and slows lawful creatures (1d8 damage/2 levels).
 
-**[Control Water](spell_dir/controlWater#_control-water** : Raises or lowers bodies of water.
+**[Control Water](spell_dir/controlWater#_control-water)** : Raises or lowers bodies of water.
 
-**[Cure Critical Wounds](spell_dir/cureCriticalWounds#_cure-critical-wounds** : Cures 4d8 damage + 1/level (max +20).
+**[Cure Critical Wounds](spells/cureCriticalWounds#_cure-critical-wounds)** : Cures 4d8 damage + 1/level (max +20).
 
-**[Death Ward](spell_dir/deathWard#_death-ward** : Grants bonuses against death spells and negative energy.
+**[Death Ward](spell_dir/deathWard#_death-ward)** : Grants bonuses against death spells and negative energy.
 
-**[Dimensional Anchor](spell_dir/dimensionalAnchor#_dimensional-anchor** : Bars extradimensional movement.
+**[Dimensional Anchor](spells/dimensionalAnchor#_dimensional-anchor)** : Bars extradimensional movement.
 
-**[Discern Lies](spell_dir/discernLies#_discern-lies** : Reveals deliberate falsehoods.
+**[Discern Lies](spell_dir/discernLies#_discern-lies)** : Reveals deliberate falsehoods.
 
-**[Dismissal](spell_dir/dismissal#_dismissal** : Forces a creature to return to native plane.
+**[Dismissal](spells/dismissal#_dismissal)** : Forces a creature to return to native plane.
 
-**[Divination](spell_dir/divination#_divination** M: Provides useful advice for specific proposed actions.
+**[Divination](spell_dir/divination#_divination)** M: Provides useful advice for specific proposed actions.
 
-**[Divine Power](spell_dir/divinePower#_divine-power** : You gain attack bonuses and 1 hp/level.
+**[Divine Power](spells/divinePower#_divine-power)** : You gain attack bonuses and 1 h_dir/level.
 
-**[Freedom of Movement](spell_dir/freedomOfMovement#_freedom-of-movement** : Subject moves normally despite impediments to movement.
+**[Freedom of Movement](spells/freedomOfMovement#_freedom-of-movement)** : Subject moves normally despite impediments to movement.
 
-**[Giant Vermin](spell_dir/giantVermin#_giant-vermin** : Turns centipedes, scorpions, or spiders into giant vermin.
+**[Giant Vermin](spell_dir/giantVermin#_giant-vermin)** : Turns centipedes, scorpions, or spiders into giant vermin.
 
-**[Holy Smite](spell_dir/holySmite#_holy-smite** : Harms and possibly blinds evil creatures (1d8 damag_dir/2 levels.
+**[Holy Smite](spells/holySmite#_holy-smite)** : Harms and possibly blinds evil creatures (1d8 damag_dir/2 levels).
 
-**[Imbue with Spell Ability](spell_dir/imbueWithSpellAbility#_imbue-with-spell-ability** : Transfer spells to subject.
+**[Imbue with Spell Ability](spells/imbueWithSpellAbility#_imbue-with-spell-ability)** : Transfer spells to subject.
 
-**[Inflict Critical Wounds](spell_dir/inflictCriticalWounds#_inflict-critical-wounds** : Touch attack, 4d8 damage + 1/level (max +20).
+**[Inflict Critical Wounds](spell_dir/inflictCriticalWounds#_inflict-critical-wounds)** : Touch attack, 4d8 damage + 1/level (max +20).
 
-**[Magic Weapon, Greater](spell_dir/magicWeapon#_magic-weapon-greater** : Weapon gains +1 bonu_dir/four levels (max +5.
+**[Magic Weapon, Greater](spell_dir/magicWeapon#_magic-weapon-greater)** : Weapon gains +1 bonus/four levels (max +5).
 
-**[Neutralize Poison](spell_dir/neutralizePoison#_neutralize-poison** : Immunizes subject against poison, detoxifies venom in or on subject.
+**[Neutralize Poison](spell_dir/neutralizePoison#_neutralize-poison)** : Immunizes subject against poison, detoxifies venom in or on subject.
 
-**[Order's Wrath](spell_dir/orderSWrath#_order-s-wrath** : Harms and dazes chaotic creatures (1d8 damag_dir/2 levels.
+**[Order's Wrath](spells/orderSWrath#_order-s-wrath)** : Harms and dazes chaotic creatures (1d8 damag_dir/2 levels).
 
-**[Planar Ally, Lesser](spell_dir/planarAlly#_planar-ally-lesser** M: Exchange services with a 6 HD extraplanar creature.
+**[Planar Ally, Lesser](spells/planarAlly#_planar-ally-lesser)** M: Exchange services with a 6 HD extraplanar creature.
 
-**[Poison](spell_dir/poison#_poison)** : Touch deals 1d3 [Con](gettingStarted#_constitution damage 1/round for 6 rounds.
+**[Poison](spell_dir/poison#_poison)** : Touch deals 1d3 [Con](gettingStarted#_constitution) damage 1/round for 6 rounds.
 
-**[Repel Vermin](spell_dir/repelVermin#_repel-vermin** : Insects, spiders, and other vermin stay 10 ft. away.
+**[Repel Vermin](spell_dir/repelVermin#_repel-vermin)** : Insects, spiders, and other vermin stay 10 ft. away.
 
-**[Restoration](spell_dir/restoration#_restoration** M: Restores level and ability score drains.
+**[Restoration](spells/restoration#_restoration)** M: Restores level and ability score drains.
 
-**[Sending](spell_dir/sending#_sending** : Delivers short message anywhere, instantly.
+**[Sending](spell_dir/sending#_sending)** : Delivers short message anywhere, instantly.
 
-**[Spell Immunity](spell_dir/spellImmunity#_spell-immunity** : Subject is immune to one spell per 4 levels.
+**[Spell Immunity](spells/spellImmunity#_spell-immunity)** : Subject is immune to one spell per 4 levels.
 
-**[Summon Monster IV](spell_dir/summonMonster#_summon-monster-iv** : Summons extraplanar creature to fight for you.
+**[Summon Monster IV](spell_dir/summonMonster#_summon-monster-iv)** : Summons extraplanar creature to fight for you.
 
-**[Tongues](spell_dir/tongues#_tongues** : Speak and understand any language.
+**[Tongues](spells/tongues#_tongues)** : Speak and understand any language.
 
-**[Unholy Blight](spell_dir/unholyBlight#_unholy-blight** : Harms and sickens good creatures (1d8 damag_dir/2 levels.
+**[Unholy Blight](spell_dir/unholyBlight#_unholy-blight)** : Harms and sickens good creatures (1d8 damage/2 levels).
 
 ## 5th-Level Cleric Spells
 
-**[Atonement](spell_dir/atonement#_atonement** FM: Removes burden of misdeeds from subject and reverses magical alignment change.
+**[Atonement](spell_dir/atonement#_atonement)** FM: Removes burden of misdeeds from subject and reverses magical alignment change.
 
-**[Break Enchantment](spell_dir/breakEnchantment#_break-enchantment** : Frees subjects from enchantments, transmutations, and curses.
+**[Break Enchantment](spells/breakEnchantment#_break-enchantment)** : Frees subjects from enchantments, transmutations, and curses.
 
-**[Breath of Life](spell_dir/breathOfLife#_breath-of-life** : Cures 5d8 damage + 1/level and restores life to recently slain creatures.
+**[Breath of Life](spell_dir/breathOfLife#_breath-of-life)** : Cures 5d8 damage + 1/level and restores life to recently slain creatures.
 
-**[Command, Greater](spell_dir/command#_command-greater** : As _ [command](spell_dir/command#_command, _but affects one subject/level.
+**[Command, Greater](spell_dir/command#_command-greater)** : As _ [command](spells/command#_command), _but affects one subjec_dir/level.
 
-**[Commune](spell_dir/commune#_commune** M: Deity answers one yes-or-no question/level.
+**[Commune](spells/commune#_commune)** M: Deity answers one yes-or-no questio_dir/level.
 
-**[Cure Light Wounds, Mass](spell_dir/cureLightWounds#_cure-light-wounds-mass** : Cures 1d8 damage + 1/level, affects 1 subject/level.
+**[Cure Light Wounds, Mass](spells/cureLightWounds#_cure-light-wounds-mass)** : Cures 1d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Dispel Chaos/Evil/Good/Law](spell_dir/dispelEvil#_dispel-evil** : +4 bonus against attacks.
+**[Dispel Chaos/Evi_dir/Good/Law](spell_dir/dispelEvil#_dispel-evil)** : +4 bonus against attacks.
 
-**[Disrupting Weapon](spell_dir/disruptingWeapon#_disrupting-weapon** : Melee weapon destroys undead.
+**[Disrupting Weapon](spells/disruptingWeapon#_disrupting-weapon)** : Melee weapon destroys undead.
 
-**[Flame Strike](spell_dir/flameStrike#_flame-strike** : Smites foes with divine fire (1d6/level damage).
+**[Flame Strike](spell_dir/flameStrike#_flame-strike)** : Smites foes with divine fire (1d6/level damage).
 
-**[Hallow](spell_dir/hallow#_hallow** M: Designates location as holy.
+**[Hallow](spell_dir/hallow#_hallow)** M: Designates location as holy.
 
-**[Inflict Light Wounds, Mass](spell_dir/inflictLightWounds#_inflict-light-wounds-mass** : Deals 1d8 damage + 1/level, affects 1 subject/level.
+**[Inflict Light Wounds, Mass](spells/inflictLightWounds#_inflict-light-wounds-mass)** : Deals 1d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Insect Plague](spell_dir/insectPlague#_insect-plague** : Wasp swarms attack creatures.
+**[Insect Plague](spells/insectPlague#_insect-plague)** : Wasp swarms attack creatures.
 
-**[Mark of Justice](spell_dir/markOfJustice#_mark-of-justice** : Designates action that triggers _curse _on subject.
+**[Mark of Justice](spell_dir/markOfJustice#_mark-of-justice)** : Designates action that triggers _curse _on subject.
 
-**[Plane Shift](spell_dir/planeShift#_plane-shift** F: As many as 8 subjects travel to another plane.
+**[Plane Shift](spells/planeShift#_plane-shift)** F: As many as 8 subjects travel to another plane.
 
-**[Raise Dead](spell_dir/raiseDead#_raise-dead** M: Restores life to subject who died as long as one day/level ago.
+**[Raise Dead](spell_dir/raiseDead#_raise-dead)** M: Restores life to subject who died as long as one day/level ago.
 
-**[Righteous Might](spell_dir/righteousMight#_righteous-might** : Your size increases, and you gain bonuses in combat.
+**[Righteous Might](spell_dir/righteousMight#_righteous-might)** : Your size increases, and you gain bonuses in combat.
 
-**[Scrying](spell_dir/scrying#_scrying** F: Spies on subject from a distance.
+**[Scrying](spells/scrying#_scrying)** F: Spies on subject from a distance.
 
-**[Slay Living](spell_dir/slayLiving#_slay-living** : Touch attack deals 12d6 + 1 per level.
+**[Slay Living](spell_dir/slayLiving#_slay-living)** : Touch attack deals 12d6 + 1 per level.
 
-**[Spell Resistance](spell_dir/spellResistance#_spell-resistance** : Subject gains SR 12 + level.
+**[Spell Resistance](spells/spellResistance#_spell-resistance)** : Subject gains SR 12 + level.
 
-**[Summon Monster V](spell_dir/summonMonster#_summon-monster-v** : Summons extraplanar creature to fight for you.
+**[Summon Monster V](spell_dir/summonMonster#_summon-monster-v)** : Summons extraplanar creature to fight for you.
 
-**[Symbol of Pain](spell_dir/symbolOfPain#_symbol-of-pain** M: Triggered rune wracks nearby creatures with pain.
+**[Symbol of Pain](spells/symbolOfPain#_symbol-of-pain)** M: Triggered rune wracks nearby creatures with pain.
 
-**[Symbol of Sleep](spell_dir/symbolOfSleep#_symbol-of-sleep** M: Triggered rune puts nearby creatures into catatonic slumber.
+**[Symbol of Sleep](spell_dir/symbolOfSleep#_symbol-of-sleep)** M: Triggered rune puts nearby creatures into catatonic slumber.
 
-**[True Seeing](spell_dir/trueSeeing#_true-seeing** M: Lets you see all things as they really are.
+**[True Seeing](spells/trueSeeing#_true-seeing)** M: Lets you see all things as they really are.
 
-**[Unhallow](spell_dir/unhallow#_unhallow** M: Designates location as unholy.
+**[Unhallow](spell_dir/unhallow#_unhallow)** M: Designates location as unholy.
 
-**[Wall of Stone](spell_dir/wallOfStone#_wall-of-stone** : Creates a stone wall that can be shaped.
+**[Wall of Stone](spells/wallOfStone#_wall-of-stone)** : Creates a stone wall that can be shaped.
 
 ## 6th-Level Cleric Spells
 
-**[Animate Objects](spell_dir/animateObjects#_animate-objects** : Objects attack your foes.
+**[Animate Objects](spell_dir/animateObjects#_animate-objects)** : Objects attack your foes.
 
-**[Antilife Shell](spell_dir/antilifeShell#_antilife-shell** : 10-ft.-radius field hedges out living creatures.
+**[Antilife Shell](spells/antilifeShell#_antilife-shell)** : 10-ft.-radius field hedges out living creatures.
 
-**[Banishment](spell_dir/banishment#_banishment** : Banishes 2 HD/level of extraplanar creatures.
+**[Banishment](spell_dir/banishment#_banishment)** : Banishes 2 HD/level of extraplanar creatures.
 
-**[Bear's Endurance, Mass](spell_dir/bearSEndurance#_bear-s-endurance-mass** : As _ [bear's endurance](spell_dir/bearSEndurance#_bear-s-endurance_, affects 1 subject/level.
+**[Bear's Endurance, Mass](spell_dir/bearSEndurance#_bear-s-endurance-mass)** : As _ [bear's endurance](spells/bearSEndurance#_bear-s-endurance)_, affects 1 subjec_dir/level.
 
-**[Blade Barrier](spell_dir/bladeBarrier#_blade-barrier** : Wall of blades deals 1d6/level damage.
+**[Blade Barrier](spells/bladeBarrier#_blade-barrier)** : Wall of blades deals 1d6/level damage.
 
-**[Bull's Strength, Mass](spell_dir/bullSStrength#_bull-s-strength-mass** : As _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_, affects 1 subject/level.
+**[Bull's Strength, Mass](spell_dir/bullSStrength#_bull-s-strength-mass)** : As _ [bull's strength](spells/bullSStrength#_bull-s-strength)_, affects 1 subjec_dir/level.
 
-**[Create Undead](spell_dir/createUndead#_create-undead** M: Create ghasts, ghouls, mohrgs, or mummies.
+**[Create Undead](spells/createUndead#_create-undead)** M: Create ghasts, ghouls, mohrgs, or mummies.
 
-**[Cure Moderate Wounds, Mass](spell_dir/cureModerateWounds#_cure-moderate-wounds-mass** : Cures 2d8 damage + 1/level, affects 1 subject/level.
+**[Cure Moderate Wounds, Mass](spell_dir/cureModerateWounds#_cure-moderate-wounds-mass)** : Cures 2d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Dispel Magic, Greater](spell_dir/dispelMagic#_dispel-magic-greater** : As _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, but with multiple targets.
+**[Dispel Magic, Greater](spells/dispelMagic#_dispel-magic-greater)** : As _ [dispel magic](spell_dir/dispelMagic#_dispel-magic)_, but with multiple targets.
 
-**[Eagle's Splendor, Mass](spell_dir/eagleSSplendor#_eagle-s-splendor-mass** : As _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor_, affects 1 subject/level.
+**[Eagle's Splendor, Mass](spells/eagleSSplendor#_eagle-s-splendor-mass)** : As _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)_, affects 1 subject/level.
 
-**[Find the Path](spell_dir/findThePath#_find-the-path** : Shows most direct way to a location.
+**[Find the Path](spell_dir/findThePath#_find-the-path)** : Shows most direct way to a location.
 
-**[Forbiddance](spell_dir/forbiddance#_forbiddance** M: Blocks planar travel, damages creatures of different alignment.
+**[Forbiddance](spells/forbiddance#_forbiddance)** M: Blocks planar travel, damages creatures of different alignment.
 
-**[Geas/Quest](spell_dir/geasQuest#_geas-quest** : As _lesser geas, _but affects any creature.
+**[Gea_dir/Quest](spells/geasQuest#_geas-quest)** : As _lesser geas, _but affects any creature.
 
-**[Glyph of Warding, Greater](spell_dir/glyphOfWarding#_glyph-of-warding-greater** M: As _ [glyph of warding](spell_dir/glyphOfWarding#_glyph-of-warding_, but up to 10d8 damage or 6th-level spell.
+**[Glyph of Warding, Greater](spell_dir/glyphOfWarding#_glyph-of-warding-greater)** M: As _ [glyph of warding](spells/glyphOfWarding#_glyph-of-warding)_, but up to 10d8 damage or 6th-level spell.
 
-**[Harm](spell_dir/harm#_harm** : Deals 10 points/level damage to target.
+**[Harm](spell_dir/harm#_harm)** : Deals 10 points/level damage to target.
 
-**[Heal](spell_dir/heal#_heal** : Cures 10 points/level damage, all diseases and mental conditions.
+**[Heal](spell_dir/heal#_heal)** : Cures 10 points/level damage, all diseases and mental conditions.
 
-**[Heroes' Feast](spell_dir/heroesFeast#_heroes-feast** : Food for one creature/level cures and grants combat bonuses_._
+**[Heroes' Feast](spell_dir/heroesFeast#_heroes-feast)** : Food for one creature/level cures and grants combat bonuses_._
 
-**[Inflict Moderate Wounds, Mass](spell_dir/cureModerateWounds#_cure-moderate-wounds-mass** : Deals 2d8 damage + 1/level, affects 1 subject/level.
+**[Inflict Moderate Wounds, Mass](spell_dir/cureModerateWounds#_cure-moderate-wounds-mass)** : Deals 2d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Owl's Wisdom, Mass](spell_dir/owlSWisdom#_owl-s-wisdom-mass** : As _ [owl's wisdom](spell_dir/owlSWisdom#_owl-s-wisdom_, affects 1 subject/level.
+**[Owl's Wisdom, Mass](spells/owlSWisdom#_owl-s-wisdom-mass)** : As _ [owl's wisdom](spell_dir/owlSWisdom#_owl-s-wisdom)_, affects 1 subject/level.
 
-**[Planar Ally](spell_dir/planarAlly#_planar-ally** M: As _ [lesser planar ally](spell_dir/planarAlly#_planar-ally-lesser, _but up to 12 HD.
+**[Planar Ally](spell_dir/planarAlly#_planar-ally)** M: As _ [lesser planar ally](spells/planarAlly#_planar-ally-lesser), _but up to 12 HD.
 
-**[Summon Monster VI](spell_dir/summonMonster#_summon-monster-vi** : Summons extraplanar creature to fight for you.
+**[Summon Monster VI](spell_dir/summonMonster#_summon-monster-vi)** : Summons extraplanar creature to fight for you.
 
-**[Symbol of Fear](spell_dir/symbolOfFear#_symbol-of-fear** M: Triggered rune panics nearby creatures.
+**[Symbol of Fear](spells/symbolOfFear#_symbol-of-fear)** M: Triggered rune panics nearby creatures.
 
-**[Symbol of Persuasion](spell_dir/symbolOfPersuasion#_symbol-of-persuasion** M: Triggered rune charms nearby creatures.
+**[Symbol of Persuasion](spell_dir/symbolOfPersuasion#_symbol-of-persuasion)** M: Triggered rune charms nearby creatures.
 
-**[Undeath to Death](spell_dir/undeathToDeath#_undeath-to-death** M: Destroys 1d4 HD/level undead (max. 20d4).
+**[Undeath to Death](spells/undeathToDeath#_undeath-to-death)** M: Destroys 1d4 HD/level undead (max. 20d4).
 
-**[Wind Walk](spell_dir/windWalk#_wind-walk** : You and your allies turn vaporous and travel fast.
+**[Wind Walk](spell_dir/windWalk#_wind-walk)** : You and your allies turn vaporous and travel fast.
 
-**[Word of Recall](spell_dir/wordOfRecall#_word-of-recall** : Teleports you back to designated place.
+**[Word of Recall](spells/wordOfRecall#_word-of-recall)** : Teleports you back to designated place.
 
 ## 7th-Level Cleric Spells
 
-**[Blasphemy](spell_dir/blasphemy#_blasphemy** : Kills, paralyzes, weakens, or dazes nonevil subjects.
+**[Blasphemy](spell_dir/blasphemy#_blasphemy)** : Kills, paralyzes, weakens, or dazes nonevil subjects.
 
-**[Control Weather](spell_dir/controlWeather#_control-weather** : Changes weather in local area.
+**[Control Weather](spells/controlWeather#_control-weather)** : Changes weather in local area.
 
-**[Cure Serious Wounds, Mass](spell_dir/cureSeriousWounds#_cure-serious-wounds-mass** : Cures 3d8 damage + 1/level, affects 1 subject/level.
+**[Cure Serious Wounds, Mass](spell_dir/cureSeriousWounds#_cure-serious-wounds-mass)** : Cures 3d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Destruction](spell_dir/destruction#_destruction** F: Kills subject and destroys remains.
+**[Destruction](spells/destruction#_destruction)** F: Kills subject and destroys remains.
 
-**[Dictum](spell_dir/dictum#_dictum** : Kills, paralyzes, staggers, or deafens nonlawful targets.
+**[Dictum](spell_dir/dictum#_dictum)** : Kills, paralyzes, staggers, or deafens nonlawful targets.
 
-**[Ethereal Jaunt](spell_dir/etherealJaunt#_ethereal-jaunt** : You become ethereal for 1 round/level.
+**[Ethereal Jaunt](spells/etherealJaunt#_ethereal-jaunt)** : You become ethereal for 1 roun_dir/level.
 
-**[Holy Word](spell_dir/holyWord#_holy-word** : Kills, paralyzes, blinds, or deafens nongood subjects.
+**[Holy Word](spells/holyWord#_holy-word)** : Kills, paralyzes, blinds, or deafens nongood subjects.
 
-**[Inflict Serious Wounds, Mass](spell_dir/inflictSeriousWounds#_inflict-serious-wounds-mass** : Deals 3d8 damage + 1/level, affects 1 subject/level.
+**[Inflict Serious Wounds, Mass](spell_dir/inflictSeriousWounds#_inflict-serious-wounds-mass)** : Deals 3d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Refuge](spell_dir/refuge#_refuge** M: Alters item to transport its possessor to you.
+**[Refuge](spells/refuge#_refuge)** M: Alters item to transport its possessor to you.
 
-**[Regenerate](spell_dir/regenerate#_regenerate** : Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35).
+**[Regenerate](spell_dir/regenerate#_regenerate)** : Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35).
 
-**[Repulsion](spell_dir/repulsion#_repulsion** : Creatures can't approach you.
+**[Repulsion](spell_dir/repulsion#_repulsion)** : Creatures can't approach you.
 
-**[Restoration, Greater](spell_dir/restoration#_restoration-greater** M: As _ [restoration](spell_dir/restoration#_restoration, _plus restores all levels and ability scores.
+**[Restoration, Greater](spells/restoration#_restoration-greater)** M: As _ [restoration](spell_dir/restoration#_restoration), _plus restores all levels and ability scores.
 
-**[Resurrection](spell_dir/resurrection#_resurrection** M: Fully restore dead subject.
+**[Resurrection](spells/resurrection#_resurrection)** M: Fully restore dead subject.
 
-**[Scrying, Greater](spell_dir/scrying#_scrying-greater** : As _ [scrying](spell_dir/scrying#_scrying_, but faster and longer.
+**[Scrying, Greater](spell_dir/scrying#_scrying-greater)** : As _ [scrying](spells/scrying#_scrying)_, but faster and longer.
 
-**[Summon Monster VII](spell_dir/summonMonster#_summon-monster-vii** : Summons extraplanar creature to fight for you.
+**[Summon Monster VII](spell_dir/summonMonster#_summon-monster-vii)** : Summons extraplanar creature to fight for you.
 
-**[Symbol of Stunning](spell_dir/symbolOfStunning#_symbol-of-stunning** M: Triggered rune stuns nearby creatures.
+**[Symbol of Stunning](spells/symbolOfStunning#_symbol-of-stunning)** M: Triggered rune stuns nearby creatures.
 
-**[Symbol of Weakness](spell_dir/symbolOfWeakness#_symbol-of-weakness** M: Triggered rune weakens nearby creatures.
+**[Symbol of Weakness](spell_dir/symbolOfWeakness#_symbol-of-weakness)** M: Triggered rune weakens nearby creatures.
 
-**[Word of Chaos](spell_dir/wordOfChaos#_word-of-chaos** : Kills, confuses_, _stuns, or deafens nonchaotic subjects.
+**[Word of Chaos](spells/wordOfChaos#_word-of-chaos)** : Kills, confuses_, _stuns, or deafens nonchaotic subjects.
 
 ## 8th-Level Cleric Spells
 
-**[Antimagic Field](spell_dir/antimagicField#_antimagic-field** : Negates magic within 10 ft.
+**[Antimagic Field](spell_dir/antimagicField#_antimagic-field)** : Negates magic within 10 ft.
 
-**[Cloak of Chaos](spell_dir/cloakOfChaos#_cloak-of-chaos)** F: +4 to [AC](combat#_armor-class, +4 resistance, and SR 25 against lawful spells.
+**[Cloak of Chaos](spells/cloakOfChaos#_cloak-of-chaos)** F: +4 to [AC](combat#_armor-class), +4 resistance, and SR 25 against lawful spells.
 
-**[Create Greater Undead](spell_dir/createGreaterUndead#_create-greater-undead** M: Create shadows, wraiths, spectres, or devourers.
+**[Create Greater Undead](spell_dir/createGreaterUndead#_create-greater-undead)** M: Create shadows, wraiths, spectres, or devourers.
 
-**[Cure Critical Wounds, Mass](spell_dir/cureCriticalWounds#_cure-critical-wounds-mass** : Cures 4d8 damage + 1/level for many creatures.
+**[Cure Critical Wounds, Mass](spells/cureCriticalWounds#_cure-critical-wounds-mass)** : Cures 4d8 damage + 1/level for many creatures.
 
-**[Dimensional Lock](spell_dir/dimensionalLock#_dimensional-lock** : Teleportation and interplanar travel blocked for 1 day/level.
+**[Dimensional Lock](spell_dir/dimensionalLock#_dimensional-lock)** : Teleportation and interplanar travel blocked for 1 day/level.
 
-**[Discern Location](spell_dir/discernLocation#_discern-location** : Reveals exact location of creature or object.
+**[Discern Location](spell_dir/discernLocation#_discern-location)** : Reveals exact location of creature or object.
 
-**[Earthquake](spell_dir/earthquake#_earthquake** : Intense tremor shakes 80-ft. radius.
+**[Earthquake](spells/earthquake#_earthquake)** : Intense tremor shakes 80-ft. radius.
 
-**[Fire Storm](spell_dir/fireStorm#_fire-storm** : Deals 1d6/level fire damage.
+**[Fire Storm](spell_dir/fireStorm#_fire-storm)** : Deals 1d6/level fire damage.
 
-**[Holy Aura](spell_dir/holyAura#_holy-aura)** F: +4 to [AC](combat#_armor-class, +4 resistance, and SR 25 against evil spells.
+**[Holy Aura](spell_dir/holyAura#_holy-aura)** F: +4 to [AC](combat#_armor-class), +4 resistance, and SR 25 against evil spells.
 
-**[Inflict Critical Wounds, Mass](spell_dir/inflictCriticalWounds#_inflict-critical-wounds-mass** : Deals 4d8 damage + 1/level, affects 1 subject/level.
+**[Inflict Critical Wounds, Mass](spells/inflictCriticalWounds#_inflict-critical-wounds-mass)** : Deals 4d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Planar Ally, Greater](spell_dir/planarAlly#_planar-ally-greater** M: As _ [lesser planar ally](spell_dir/planarAlly#_planar-ally-lesser, _but up to 18 HD.
+**[Planar Ally, Greater](spells/planarAlly#_planar-ally-greater)** M: As _ [lesser planar ally](spell_dir/planarAlly#_planar-ally-lesser), _but up to 18 HD.
 
-**[Shield of Law](spell_dir/shieldOfLaw#_shield-of-law)** F: +4 to [AC](combat#_armor-class, +4 resistance, and SR 25 against chaotic spells.
+**[Shield of Law](spells/shieldOfLaw#_shield-of-law)** F: +4 to [AC](combat#_armor-class), +4 resistance, and SR 25 against chaotic spells.
 
-**[Spell Immunity, Greater](spell_dir/spellImmunity#_spell-immunity-greater** : As _ [spell immunity](spell_dir/spellImmunity#_spell-immunity, _but up to 8th-level spells.
+**[Spell Immunity, Greater](spell_dir/spellImmunity#_spell-immunity-greater)** : As _ [spell immunity](spells/spellImmunity#_spell-immunity), _but up to 8th-level spells.
 
-**[Summon Monster VIII](spell_dir/summonMonster#_summon-monster-viii** : Summons extraplanar creature to fight for you.
+**[Summon Monster VIII](spell_dir/summonMonster#_summon-monster-viii)** : Summons extraplanar creature to fight for you.
 
-**[Symbol of Death](spell_dir/symbolOfDeath#_symbol-of-death** M: Triggered rune kills nearby creatures.
+**[Symbol of Death](spells/symbolOfDeath#_symbol-of-death)** M: Triggered rune kills nearby creatures.
 
-**[Symbol of Insanity](spell_dir/symbolOfInsanity#_symbol-of-insanity** M: Triggered rune renders nearby creatures insane.
+**[Symbol of Insanity](spell_dir/symbolOfInsanity#_symbol-of-insanity)** M: Triggered rune renders nearby creatures insane.
 
-**[Unholy Aura](spell_dir/unholyAura#_unholy-aura)** F: +4 to [AC](combat#_armor-class, +4 resistance, and SR 25 against good spells.
+**[Unholy Aura](spells/unholyAura#_unholy-aura)** F: +4 to [AC](combat#_armor-class), +4 resistance, and SR 25 against good spells.
 
 ## 9th-Level Cleric Spells
 
-**[Astral Projection](spell_dir/astralProjection#_astral-projection** M: Projects you and others onto Astral Plane.
+**[Astral Projection](spell_dir/astralProjection#_astral-projection)** M: Projects you and others onto Astral Plane.
 
-**[Energy Drain](spell_dir/energyDrain#_energy-drain)** : Subject gains 2d4 [negative levels](glossary#_energy-drain-and-negative-levels.
+**[Energy Drain](spells/energyDrain#_energy-drain)** : Subject gains 2d4 [negative levels](glossary#_energy-drain-and-negative-levels).
 
-**[Etherealness](spell_dir/etherealness#_etherealness** : Travel to Ethereal Plane with companions.
+**[Etherealness](spell_dir/etherealness#_etherealness)** : Travel to Ethereal Plane with companions.
 
-**[Gate](spell_dir/gate#_gate** M: Connects two planes for travel or summoning.
+**[Gate](spells/gate#_gate)** M: Connects two planes for travel or summoning.
 
-**[Heal, Mass](spell_dir/heal#_heal-mass** : As _ [heal](spell_dir/heal#_heal_, but affects 1 subject/level.
+**[Heal, Mass](spell_dir/heal#_heal-mass)** : As _ [heal](spells/heal#_heal)_, but affects 1 subjec_dir/level.
 
-**[Implosion](spell_dir/implosion#_implosion** : Inflict 10 damage/level to one creature/round.
+**[Implosion](spells/implosion#_implosion)** : Inflict 10 damag_dir/level to one creature/round.
 
-**[Miracle](spell_dir/miracle#_miracle** M: Requests a deity's intercession.
+**[Miracle](spell_dir/miracle#_miracle)** M: Requests a deity's intercession.
 
-**[Soul Bind](spell_dir/soulBind#_soul-bind** F: Traps newly dead soul to prevent _ [resurrection](spell_dir/resurrection#_resurrection_.
+**[Soul Bind](spells/soulBind#_soul-bind)** F: Traps newly dead soul to prevent _ [resurrection](spell_dir/resurrection#_resurrection)_.
 
-**[Storm of Vengeance](spell_dir/stormOfVengeance#_storm-of-vengeance** : Storm rains acid, lightning, and hail.
+**[Storm of Vengeance](spells/stormOfVengeance#_storm-of-vengeance)** : Storm rains acid, lightning, and hail.
 
-**[Summon Monster IX](spell_dir/summonMonster#_summon-monster-ix** : Summons extraplanar creature to fight for you.
+**[Summon Monster IX](spell_dir/summonMonster#_summon-monster-ix)** : Summons extraplanar creature to fight for you.
 
-**[True Resurrection](spell_dir/trueResurrection#_true-resurrection** M: As _ [resurrection](spell_dir/resurrection#_resurrection)_, plus remains aren't needed.
+**[True Resurrection](spells/trueResurrection#_true-resurrection)** M: As _ [resurrection](spell_dir/resurrection#_resurrection)_, plus remains aren't needed.
 
 # Druid Spells
 
-## 0-Level Druid Spells (Orisons
+## 0-Level Druid Spells (Orisons)
 
-**[Create Water](spell_dir/createWater#_create-water** : Creates 2 gallons/level of pure water.
+**[Create Water](spells/createWater#_create-water)** : Creates 2 gallon_dir/level of pure water.
 
-**[Detect Magic](spell_dir/detectMagic#_detect-magic** : Detects spells and magic items within 60 ft.
+**[Detect Magic](spells/detectMagic#_detect-magic)** : Detects spells and magic items within 60 ft.
 
-**[Detect Poison](spell_dir/detectPoison#_detect-poison** : Detects poison in one creature or object.
+**[Detect Poison](spell_dir/detectPoison#_detect-poison)** : Detects poison in one creature or object.
 
-**[Flare](spell_dir/flare#_flare)** : Dazzles one creature (–1 penalty on attack rolls.
+**[Flare](spells/flare#_flare)** : Dazzles one creature (–1 penalty on attack rolls).
 
-**[Guidance](spell_dir/guidance#_guidance** : +1 on one attack roll, saving throw, or skill check.
+**[Guidance](spell_dir/guidance#_guidance)** : +1 on one attack roll, saving throw, or skill check.
 
-**[Know Direction](spell_dir/knowDirection#_know-direction** : You discern north.
+**[Know Direction](spells/knowDirection#_know-direction)** : You discern north.
 
-**[Light](spell_dir/light#_light** : Object shines like a torch.
+**[Light](spell_dir/light#_light)** : Object shines like a torch.
 
-**[Mending](spell_dir/mending#_mending** : Makes minor repairs on an object.
+**[Mending](spells/mending#_mending)** : Makes minor repairs on an object.
 
-**[Purify Food and Drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink** : Purifies 1 cu. ft./level of food or water.
+**[Purify Food and Drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink)** : Purifies 1 cu. ft./level of food or water.
 
-**[Read Magic](spell_dir/readMagic#_read-magic** : Read scrolls and spellbooks.
+**[Read Magic](spell_dir/readMagic#_read-magic)** : Read scrolls and spellbooks.
 
-**[Resistance](spell_dir/resistance#_resistance** : Subject gains +1 bonus on saving throws.
+**[Resistance](spells/resistance#_resistance)** : Subject gains +1 bonus on saving throws.
 
-**[Stabilize](spell_dir/stabilize#_stabilize)** : Cause a [dying](glossary#_dying creature to stabilize.
+**[Stabilize](spell_dir/stabilize#_stabilize)** : Cause a [dying](glossary#_dying) creature to stabilize.
 
-**[Virtue](spell_dir/virtue#_virtue** : Subject gains 1 temporary hp.
+**[Virtue](spells/virtue#_virtue)** : Subject gains 1 temporary hp.
 
 ## 1st-Level Druid Spells
 
-**[Calm Animals](spell_dir/calmAnimals#_calm-animals** : Calms 2d4 + level HD of animals.
+**[Calm Animals](spell_dir/calmAnimals#_calm-animals)** : Calms 2d4 + level HD of animals.
 
-**[Charm Animal](spell_dir/charmAnimal#_charm-animal** : Makes one animal your friend.
+**[Charm Animal](spells/charmAnimal#_charm-animal)** : Makes one animal your friend.
 
-**[Cure Light Wounds](spell_dir/cureLightWounds#_cure-light-wounds** : Cures 1d8 damage + 1/level (max +5).
+**[Cure Light Wounds](spell_dir/cureLightWounds#_cure-light-wounds)** : Cures 1d8 damage + 1/level (max +5).
 
-**[Detect Animals or Plants](spell_dir/detectAnimalsOrPlants#_detect-animals-or-plants** : Detects kinds of animals or plants.
+**[Detect Animals or Plants](spell_dir/detectAnimalsOrPlants#_detect-animals-or-plants)** : Detects kinds of animals or plants.
 
-**[Detect Snares and Pits](spell_dir/detectSnaresAndPits#_detect-snares-and-pits** : Reveals natural or primitive traps.
+**[Detect Snares and Pits](spells/detectSnaresAndPits#_detect-snares-and-pits)** : Reveals natural or primitive traps.
 
-**[Endure Elements](spell_dir/endureElements#_endure-elements** : Exist comfortably in hot or cold regions.
+**[Endure Elements](spell_dir/endureElements#_endure-elements)** : Exist comfortably in hot or cold regions.
 
-**[Entangle](spell_dir/entangle#_entangle** : Plants entangle everyone in 40-ft. radius.
+**[Entangle](spells/entangle#_entangle)** : Plants entangle everyone in 40-ft. radius.
 
-**[Faerie Fire](spell_dir/faerieFire#_faerie-fire** : Outlines subjects with light, canceling _ [blur](spell_dir/blur#_blur_, concealment, and the like.
+**[Faerie Fire](spell_dir/faerieFire#_faerie-fire)** : Outlines subjects with light, canceling _ [blur](spells/blur#_blur)_, concealment, and the like.
 
-**[Goodberry](spell_dir/goodberry#_goodberry** : 2d4 berries each cure 1 hp (max 8 h_dir/24 hours.
+**[Goodberry](spell_dir/goodberry#_goodberry)** : 2d4 berries each cure 1 hp (max 8 hp/24 hours).
 
-**[Hide from Animals](spell_dir/hideFromAnimals#_hide-from-animals** : Animals can't perceive one subject/level.
+**[Hide from Animals](spell_dir/hideFromAnimals#_hide-from-animals)** : Animals can't perceive one subject/level.
 
-**[Jump](spell_dir/jump#_jump** : Subject gets bonus on Acrobatics checks.
+**[Jump](spell_dir/jump#_jump)** : Subject gets bonus on Acrobatics checks.
 
-**[Longstrider](spell_dir/longstrider#_longstrider** : Your speed increases by 10 ft.
+**[Longstrider](spells/longstrider#_longstrider)** : Your speed increases by 10 ft.
 
-**[Magic Fang](spell_dir/magicFang#_magic-fang** : One natural weapon of subject creature gets +1 on attack and damage rolls.
+**[Magic Fang](spell_dir/magicFang#_magic-fang)** : One natural weapon of subject creature gets +1 on attack and damage rolls.
 
-**[Magic Stone](spell_dir/magicStone#_magic-stone** : Three stones gain +1 on attack rolls, deal 1d6+1 damage.
+**[Magic Stone](spells/magicStone#_magic-stone)** : Three stones gain +1 on attack rolls, deal 1d6+1 damage.
 
-**[Obscuring Mist](spell_dir/obscuringMist#_obscuring-mist** : Fog surrounds you.
+**[Obscuring Mist](spell_dir/obscuringMist#_obscuring-mist)** : Fog surrounds you.
 
-**[Pass without Trace](spell_dir/passWithoutTrace#_pass-without-trace** : One subject/level leaves no tracks.
+**[Pass without Trace](spells/passWithoutTrace#_pass-without-trace)** : One subjec_dir/level leaves no tracks.
 
-**[Produce Flame](spell_dir/produceFlame#_produce-flame** : 1d6 damage + 1/level, touch or thrown.
+**[Produce Flame](spells/produceFlame#_produce-flame)** : 1d6 damage + 1/level, touch or thrown.
 
-**[Shillelagh](spell_dir/shillelagh#_shillelagh)** : Cudgel or quarterstaff becomes +1 weapon (2d6 damage for 1 min./level.
+**[Shillelagh](spell_dir/shillelagh#_shillelagh)** : Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
 
-**[Speak with Animals](spell_dir/speakWithAnimals#_speak-with-animals** : You can communicate with animals.
+**[Speak with Animals](spell_dir/speakWithAnimals#_speak-with-animals)** : You can communicate with animals.
 
-**[Summon Nature's Ally I](spell_dir/summonNatureSAlly#_summon-nature-s-ally-i** : Summons creature to fight.
+**[Summon Nature's Ally I](spells/summonNatureSAlly#_summon-nature-s-ally-i)** : Summons creature to fight.
 
 ## 2nd-Level Druid Spells
 
-**[Animal Messenger](spell_dir/animalMessenger#_animal-messenger** : Sends a Tiny animal to a specific place.
+**[Animal Messenger](spell_dir/animalMessenger#_animal-messenger)** : Sends a Tiny animal to a specific place.
 
-**[Animal Trance](spell_dir/animalTrance#_animal-trance** : Fascinates 2d6 HD of animals.
+**[Animal Trance](spells/animalTrance#_animal-trance)** : Fascinates 2d6 HD of animals.
 
-**[Barkskin](spell_dir/barkskin#_barkskin)** : Grants +2 (or higher enhancement to natural armor.
+**[Barkskin](spell_dir/barkskin#_barkskin)** : Grants +2 (or higher) enhancement to natural armor.
 
-**[Bear's Endurance](spell_dir/bearSEndurance#_bear-s-endurance)** : Subject gains +4 to [Con](gettingStarted#_constitution for 1 min./level.
+**[Bear's Endurance](spells/bearSEndurance#_bear-s-endurance)** : Subject gains +4 to [Con](gettingStarted#_constitution) for 1 min./level.
 
-**[Bull's Strength](spell_dir/bullSStrength#_bull-s-strength)** : Subject gains +4 to [Str](gettingStarted#_strength for 1 min./level.
+**[Bull's Strength](spell_dir/bullSStrength#_bull-s-strength)** : Subject gains +4 to [Str](gettingStarted#_strength) for 1 min./level.
 
-**[Cat's Grace](spell_dir/catSGrace#_cat-s-grace)** : Subject gains +4 to [Dex](gettingStarted#_dexterity for 1 min./level.
+**[Cat's Grace](spell_dir/catSGrace#_cat-s-grace)** : Subject gains +4 to [Dex](gettingStarted#_dexterity) for 1 min./level.
 
-**[Chill Metal](spell_dir/chillMetal#_chill-metal** : Cold metal damages those who touch it.
+**[Chill Metal](spell_dir/chillMetal#_chill-metal)** : Cold metal damages those who touch it.
 
-**[Delay Poison](spell_dir/delayPoison#_delay-poison** : Stops poison from harming subject for 1 hour/level.
+**[Delay Poison](spells/delayPoison#_delay-poison)** : Stops poison from harming subject for 1 hou_dir/level.
 
-**[Fire Trap](spell_dir/fireTrap#_fire-trap** M: Opened object deals 1d4 + 1/level damage.
+**[Fire Trap](spells/fireTrap#_fire-trap)** M: Opened object deals 1d4 + 1/level damage.
 
-**[Flame Blade](spell_dir/flameBlade#_flame-blade** : Touch attack deals 1d8 + 1/two levels damage.
+**[Flame Blade](spell_dir/flameBlade#_flame-blade)** : Touch attack deals 1d8 + 1/two levels damage.
 
-**[Flaming Sphere](spell_dir/flamingSphere#_flaming-sphere** : Rolling ball of fire deals 3d6 fire damage.
+**[Flaming Sphere](spell_dir/flamingSphere#_flaming-sphere)** : Rolling ball of fire deals 3d6 fire damage.
 
-**[Fog Cloud](spell_dir/fogCloud** : Fog obscures vision.
+**[Fog Cloud](spells/fogCloud)** : Fog obscures vision.
 
-**[Gust of Wind](spell_dir/gustOfWind#_gust-of-wind** : Blows away or knocks down smaller creatures.
+**[Gust of Wind](spell_dir/gustOfWind#_gust-of-wind)** : Blows away or knocks down smaller creatures.
 
-**[Heat Metal](spell_dir/heatMetal#_heat-metal** : Makes metal so hot it damages those who touch it.
+**[Heat Metal](spells/heatMetal#_heat-metal)** : Makes metal so hot it damages those who touch it.
 
-**[Hold Animal](spell_dir/holdAnimal#_hold-animal** : Paralyzes one animal for 1 round/level.
+**[Hold Animal](spell_dir/holdAnimal#_hold-animal)** : Paralyzes one animal for 1 round/level.
 
-**[Owl's Wisdom](spell_dir/owlSWisdom#_owl-s-wisdom)** : Subject gains +4 to [Wis](gettingStarted#_wisdom for 1 min./level.
+**[Owl's Wisdom](spell_dir/owlSWisdom#_owl-s-wisdom)** : Subject gains +4 to [Wis](gettingStarted#_wisdom) for 1 min./level.
 
-**[Reduce Animal](spell_dir/reduceAnimal#_reduce-animal** : Shrinks one willing animal.
+**[Reduce Animal](spell_dir/reduceAnimal#_reduce-animal)** : Shrinks one willing animal.
 
-**[Resist Energy](spell_dir/resistEnergy#_resist-energy** : Ignores 10 or more points of damage per attack from specified energy type.
+**[Resist Energy](spells/resistEnergy#_resist-energy)** : Ignores 10 or more points of damage per attack from specified energy type.
 
-**[Restoration, Lesser](spell_dir/restoration#_restoration-lesser** : Dispels magical ability penalty or repairs 1d4 ability damage.
+**[Restoration, Lesser](spell_dir/restoration#_restoration-lesser)** : Dispels magical ability penalty or repairs 1d4 ability damage.
 
-**[Soften Earth and Stone](spell_dir/softenEarthAndStone#_soften-earth-and-stone** : Turns stone to clay, or dirt to sand or mud.
+**[Soften Earth and Stone](spells/softenEarthAndStone#_soften-earth-and-stone)** : Turns stone to clay, or dirt to sand or mud.
 
-**[Spider Climb](spell_dir/spiderClimb#_spider-climb** : Grants ability to walk on walls and ceilings.
+**[Spider Climb](spell_dir/spiderClimb#_spider-climb)** : Grants ability to walk on walls and ceilings.
 
-**[Summon Nature's Ally II](spell_dir/summonNatureSAlly#_summon-nature-s-ally-ii** : Summons creature to fight.
+**[Summon Nature's Ally II](spells/summonNatureSAlly#_summon-nature-s-ally-ii)** : Summons creature to fight.
 
-**[Summon Swarm](spell_dir/summonSwarm#_summon-swarm** : Summons swarm of bats, rats, or spiders.
+**[Summon Swarm](spell_dir/summonSwarm#_summon-swarm)** : Summons swarm of bats, rats, or spiders.
 
-**[Tree Shape](spell_dir/treeShape#_tree-shape** : You look exactly like a tree for 1 hour/level.
+**[Tree Shape](spells/treeShape#_tree-shape)** : You look exactly like a tree for 1 hou_dir/level.
 
-**[Warp Wood](spell_dir/warpWood#_warp-wood** : Bends wood.
+**[Warp Wood](spells/warpWood#_warp-wood)** : Bends wood.
 
-**[Wood Shape](spell_dir/woodShape#_wood-shape** : Reshapes wooden objects to suit you.
+**[Wood Shape](spell_dir/woodShape#_wood-shape)** : Reshapes wooden objects to suit you.
 
 ## 3rd-Level Druid Spells
 
-**[Call Lightning](spell_dir/callLightning#_call-lightning)** : Calls down lightning bolts (3d6 per bolt from sky.
+**[Call Lightning](spells/callLightning#_call-lightning)** : Calls down lightning bolts (3d6 per bolt) from sky.
 
-**[Contagion](spell_dir/contagion#_contagion** : Infects subject with chosen disease.
+**[Contagion](spell_dir/contagion#_contagion)** : Infects subject with chosen disease.
 
-**[Cure Moderate Wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds** : Cures 2d8 damage + 1/level (max +10).
+**[Cure Moderate Wounds](spells/cureModerateWounds#_cure-moderate-wounds)** : Cures 2d8 damage + 1/level (max +10).
 
-**[Daylight](spell_dir/daylight#_daylight** : 60-ft. radius of bright light.
+**[Daylight](spell_dir/daylight#_daylight)** : 60-ft. radius of bright light.
 
-**[Diminish Plants](spell_dir/diminishPlants#_diminish-plants** : Reduces size or blights the growth of normal plants.
+**[Diminish Plants](spells/diminishPlants#_diminish-plants)** : Reduces size or blights the growth of normal plants.
 
-**[Dominate Animal](spell_dir/dominateAnimal#_dominate-animal** : One animal obeys your silent mental commands and orders.
+**[Dominate Animal](spell_dir/dominateAnimal#_dominate-animal)** : One animal obeys your silent mental commands and orders.
 
-**[Magic Fang, Greater](spell_dir/magicFang#_magic-fang-greater** : One natural weapon gets + 1/four levels (max +5).
+**[Magic Fang, Greater](spells/magicFang#_magic-fang-greater)** : One natural weapon gets + 1/four levels (max +5).
 
-**[Meld into Stone](spell_dir/meldIntoStone#_meld-into-stone** : You and your gear merge with stone.
+**[Meld into Stone](spell_dir/meldIntoStone#_meld-into-stone)** : You and your gear merge with stone.
 
-**[Neutralize Poison](spell_dir/neutralizePoison#_neutralize-poison** : Immunizes subject against poison, detoxifies venom in or on subject.
+**[Neutralize Poison](spells/neutralizePoison#_neutralize-poison)** : Immunizes subject against poison, detoxifies venom in or on subject.
 
-**[Plant Growth](spell_dir/plantGrowth#_plant-growth** : Grows vegetation, improves crops.
+**[Plant Growth](spell_dir/plantGrowth#_plant-growth)** : Grows vegetation, improves crops.
 
-**[Poison](spell_dir/poison#_poison)** : Touch deals 1d3 [Con](gettingStarted#_constitution damage 1/round for 6 rounds.
+**[Poison](spells/poison#_poison)** : Touch deals 1d3 [Con](gettingStarted#_constitution) damage 1/round for 6 rounds.
 
-**[Protection from Energy](spell_dir/protectionFromEnergy#_protection-from-energy** : Absorbs 12 points/level of damage from one kind of energy.
+**[Protection from Energy](spell_dir/protectionFromEnergy#_protection-from-energy)** : Absorbs 12 points/level of damage from one kind of energy.
 
-**[Quench](spell_dir/quench#_quench** : Extinguishes fires.
+**[Quench](spell_dir/quench#_quench)** : Extinguishes fires.
 
-**[Remove Disease](spell_dir/removeDisease#_remove-disease** : Cures all diseases affecting subject.
+**[Remove Disease](spells/removeDisease#_remove-disease)** : Cures all diseases affecting subject.
 
-**[Sleet Storm](spell_dir/sleetStorm#_sleet-storm** : Hampers vision and movement.
+**[Sleet Storm](spell_dir/sleetStorm#_sleet-storm)** : Hampers vision and movement.
 
-**[Snare](spell_dir/snare#_snare** : Creates a magic booby trap.
+**[Snare](spells/snare#_snare)** : Creates a magic booby trap.
 
-**[Speak with Plants](spell_dir/speakWithPlants#_speak-with-plants** : You can talk to plants and plant creatures.
+**[Speak with Plants](spell_dir/speakWithPlants#_speak-with-plants)** : You can talk to plants and plant creatures.
 
-**[Spike Growth](spell_dir/spikeGrowth#_spike-growth** : Creatures in area take 1d4 damage, may be slowed_._
+**[Spike Growth](spells/spikeGrowth#_spike-growth)** : Creatures in area take 1d4 damage, may be slowed_._
 
-**[Stone Shape](spell_dir/stoneShape#_stone-shape** : Sculpts stone into any shape.
+**[Stone Shape](spell_dir/stoneShape#_stone-shape)** : Sculpts stone into any shape.
 
-**[Summon Nature's Ally III](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iii** : Summons creature to fight.
+**[Summon Nature's Ally III](spells/summonNatureSAlly#_summon-nature-s-ally-iii)** : Summons creature to fight.
 
-**[Water Breathing](spell_dir/waterBreathing#_water-breathing** : Subjects can breathe underwater.
+**[Water Breathing](spell_dir/waterBreathing#_water-breathing)** : Subjects can breathe underwater.
 
-**[Wind Wall](spell_dir/windWall#_wind-wall** : Deflects arrows, smaller creatures, and gases.
+**[Wind Wall](spells/windWall#_wind-wall)** : Deflects arrows, smaller creatures, and gases.
 
 ## 4th-Level Druid Spells
 
-**[Air Walk](spell_dir/airWalk#_air-walk)** : Subject treads on air as if solid (climb or descend at 45-degree angle.
+**[Air Walk](spell_dir/airWalk#_air-walk)** : Subject treads on air as if solid (climb or descend at 45-degree angle).
 
-**[Antiplant Shell](spell_dir/antiplantShell#_antiplant-shell** : Keeps animated plants at bay.
+**[Antiplant Shell](spells/antiplantShell#_antiplant-shell)** : Keeps animated plants at bay.
 
-**[Blight](spell_dir/blight#_blight** : Withers one plant or deals 1d6/level damage to plant creature.
+**[Blight](spell_dir/blight#_blight)** : Withers one plant or deals 1d6/level damage to plant creature.
 
-**[Command Plants](spell_dir/commandPlants#_command-plants** : Sways the actions of plant creatures.
+**[Command Plants](spell_dir/commandPlants#_command-plants)** : Sways the actions of plant creatures.
 
-**[Control Water](spell_dir/controlWater#_control-water** : Raises or lowers bodies of water.
+**[Control Water](spells/controlWater#_control-water)** : Raises or lowers bodies of water.
 
-**[Cure Serious Wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds** : Cures 3d8 damage + 1/level (max +15).
+**[Cure Serious Wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)** : Cures 3d8 damage + 1/level (max +15).
 
-**[Dispel Magic](spell_dir/dispelMagic#_dispel-magic** : Cancels one magical spell or effect.
+**[Dispel Magic](spell_dir/dispelMagic#_dispel-magic)** : Cancels one magical spell or effect.
 
-**[Flame Strike](spell_dir/flameStrike#_flame-strike** : Smites foes with divine fire (1d6/level damage).
+**[Flame Strike](spells/flameStrike#_flame-strike)** : Smites foes with divine fire (1d6/level damage).
 
-**[Freedom of Movement](spell_dir/freedomOfMovement#_freedom-of-movement** : Subject moves normally despite impediments to movement.
+**[Freedom of Movement](spell_dir/freedomOfMovement#_freedom-of-movement)** : Subject moves normally despite impediments to movement.
 
-**[Giant Vermin](spell_dir/giantVermin#_giant-vermin** : Turns centipedes, scorpions, or spiders into giant vermin.
+**[Giant Vermin](spells/giantVermin#_giant-vermin)** : Turns centipedes, scorpions, or spiders into giant vermin.
 
-**[Ice Storm](spell_dir/iceStorm#_ice-storm** : Hail deals 5d6 damage in cylinder 40 ft. across.
+**[Ice Storm](spell_dir/iceStorm#_ice-storm)** : Hail deals 5d6 damage in cylinder 40 ft. across.
 
-**[Reincarnate](spell_dir/reincarnate#_reincarnate** : Brings dead subject back in a random body.
+**[Reincarnate](spells/reincarnate#_reincarnate)** : Brings dead subject back in a random body.
 
-**[Repel Vermin](spell_dir/repelVermin#_repel-vermin** : Insects, spiders, and other vermin stay 10 ft. away.
+**[Repel Vermin](spell_dir/repelVermin#_repel-vermin)** : Insects, spiders, and other vermin stay 10 ft. away.
 
-**[Rusting Grasp](spell_dir/rustingGrasp#_rusting-grasp** : Your touch corrodes iron and alloys.
+**[Rusting Grasp](spells/rustingGrasp#_rusting-grasp)** : Your touch corrodes iron and alloys.
 
-**[Scrying](spell_dir/scrying#_scrying** F: Spies on subject from a distance.
+**[Scrying](spell_dir/scrying#_scrying)** F: Spies on subject from a distance.
 
-**[Spike Stones](spell_dir/spikeStones#_spike-stones** : Creatures in area take 1d8 damage, may also be slowed_._
+**[Spike Stones](spells/spikeStones#_spike-stones)** : Creatures in area take 1d8 damage, may also be slowed_._
 
-**[Summon Nature's Ally IV](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iv** : Summons creature to fight.
+**[Summon Nature's Ally IV](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iv)** : Summons creature to fight.
 
 ## 5th-Level Druid Spells
 
-**[Animal Growth](spell_dir/animalGrowth#_animal-growth** : One animal doubles in size.
+**[Animal Growth](spells/animalGrowth#_animal-growth)** : One animal doubles in size.
 
-**[Atonement](spell_dir/atonement#_atonement** FM: Removes burden of misdeeds from subject.
+**[Atonement](spell_dir/atonement#_atonement)** FM: Removes burden of misdeeds from subject.
 
-**[Awaken](spell_dir/awaken#_awaken** M: Animal or tree gains human intellect.
+**[Awaken](spells/awaken#_awaken)** M: Animal or tree gains human intellect.
 
-**[Baleful Polymorph](spell_dir/balefulPolymorph#_baleful-polymorph** : Transforms subject into harmless animal.
+**[Baleful Polymorph](spell_dir/balefulPolymorph#_baleful-polymorph)** : Transforms subject into harmless animal.
 
-**[Call Lightning Storm](spell_dir/callLightningStorm#_call-lightning-storm** : As _ [call lightning](spell_dir/callLightning#_call-lightning, _but 5d6 damage per bolt.
+**[Call Lightning Storm](spells/callLightningStorm#_call-lightning-storm)** : As _ [call lightning](spell_dir/callLightning#_call-lightning), _but 5d6 damage per bolt.
 
-**[Commune with Nature](spell_dir/communeWithNature#_commune-with-nature** : Learn about terrain for 1 mile/level.
+**[Commune with Nature](spells/communeWithNature#_commune-with-nature)** : Learn about terrain for 1 mil_dir/level.
 
-**[Control Winds](spell_dir/controlWinds#_control-winds** : Changes wind direction and speed.
+**[Control Winds](spells/controlWinds#_control-winds)** : Changes wind direction and speed.
 
-**[Cure Critical Wounds](spell_dir/cureCriticalWounds#_cure-critical-wounds** : Cures 4d8 damage + 1/level (max +20).
+**[Cure Critical Wounds](spell_dir/cureCriticalWounds#_cure-critical-wounds)** : Cures 4d8 damage + 1/level (max +20).
 
-**[Death Ward](spell_dir/deathWard#_death-ward** : Grants bonuses against death spells and negative energy.
+**[Death Ward](spell_dir/deathWard#_death-ward)** : Grants bonuses against death spells and negative energy.
 
-**[Hallow](spell_dir/hallow#_hallow** M: Designates location as holy.
+**[Hallow](spells/hallow#_hallow)** M: Designates location as holy.
 
-**[Insect Plague](spell_dir/insectPlague#_insect-plague** : Wasp swarms attack creatures.
+**[Insect Plague](spell_dir/insectPlague#_insect-plague)** : Wasp swarms attack creatures.
 
-**[Stoneskin](spell_dir/stoneskin#_stoneskin)** M: Grants [DR](glossary#_damage-reduction 10/adamantine.
+**[Stoneskin](spells/stoneskin#_stoneskin)** M: Grants [DR](glossary#_damage-reduction) 10/adamantine.
 
-**[Summon Nature's Ally V](spell_dir/summonNatureSAlly#_summon-nature-s-ally-v** : Summons creature to fight.
+**[Summon Nature's Ally V](spell_dir/summonNatureSAlly#_summon-nature-s-ally-v)** : Summons creature to fight.
 
-**[Transmute Mud to Rock](spell_dir/transmuteMudToRock#_transmute-mud-to-rock** : Transforms two 10-ft. cubes per level.
+**[Transmute Mud to Rock](spells/transmuteMudToRock#_transmute-mud-to-rock)** : Transforms two 10-ft. cubes per level.
 
-**[Transmute Rock to Mud](spell_dir/transmuteRockToMud#_transmute-rock-to-mud** : Transforms two 10-ft. cubes per level.
+**[Transmute Rock to Mud](spell_dir/transmuteRockToMud#_transmute-rock-to-mud)** : Transforms two 10-ft. cubes per level.
 
-**[Tree Stride](spell_dir/treeStride#_tree-stride** : Step from one tree to another far away.
+**[Tree Stride](spells/treeStride#_tree-stride)** : Step from one tree to another far away.
 
-**[Unhallow](spell_dir/unhallow#_unhallow** M: Designates location as unholy.
+**[Unhallow](spell_dir/unhallow#_unhallow)** M: Designates location as unholy.
 
-**[Wall of Fire](spell_dir/wallOfFire#_wall-of-fire** : Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
+**[Wall of Fire](spells/wallOfFire#_wall-of-fire)** : Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level.
 
-**[Wall of Thorns](spell_dir/wallOfThorns#_wall-of-thorns** : Thorns damage anyone who tries to pass.
+**[Wall of Thorns](spell_dir/wallOfThorns#_wall-of-thorns)** : Thorns damage anyone who tries to pass.
 
 ## 6th-Level Druid Spells
 
-**[Antilife Shell](spell_dir/antilifeShell#_antilife-shell** : 10-ft.-radius field hedges out living creatures.
+**[Antilife Shell](spells/antilifeShell#_antilife-shell)** : 10-ft.-radius field hedges out living creatures.
 
-**[Bear's Endurance, Mass](spell_dir/bearSEndurance#_bear-s-endurance-mass** : As _ [bear's endurance](spell_dir/bearSEndurance#_bear-s-endurance_, affects 1 subject/level.
+**[Bear's Endurance, Mass](spell_dir/bearSEndurance#_bear-s-endurance-mass)** : As _ [bear's endurance](spells/bearSEndurance#_bear-s-endurance)_, affects 1 subjec_dir/level.
 
-**[Bull's Strength, Mass](spell_dir/bullSStrength#_bull-s-strength-mass** : As _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_, affects 1 subject/level.
+**[Bull's Strength, Mass](spells/bullSStrength#_bull-s-strength-mass)** : As _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength)_, affects 1 subject/level.
 
-**[Cat's Grace, Mass](spell_dir/catSGrace#_cat-s-grace-mass** : As _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, affects one subject/level.
+**[Cat's Grace, Mass](spell_dir/catSGrace#_cat-s-grace-mass)** : As _ [cat's grace](spells/catSGrace#_cat-s-grace)_, affects one subjec_dir/level.
 
-**[Cure Light Wounds, Mass](spell_dir/cureLightWounds#_cure-light-wounds-mass** : Cures 1d8 damage + 1/level, affects 1 subject/level.
+**[Cure Light Wounds, Mass](spells/cureLightWounds#_cure-light-wounds-mass)** : Cures 1d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Dispel Magic, Greater](spell_dir/dispelMagic#_dispel-magic-greater** : As _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, but with multiple targets.
+**[Dispel Magic, Greater](spells/dispelMagic#_dispel-magic-greater)** : As _ [dispel magic](spell_dir/dispelMagic#_dispel-magic)_, but with multiple targets.
 
-**[Find the Path](spell_dir/findThePath#_find-the-path** : Shows most direct way to a location.
+**[Find the Path](spells/findThePath#_find-the-path)** : Shows most direct way to a location.
 
-**[Fire Seeds](spell_dir/fireSeeds#_fire-seeds** : Acorns and berries become grenades and bombs.
+**[Fire Seeds](spell_dir/fireSeeds#_fire-seeds)** : Acorns and berries become grenades and bombs.
 
-**[Ironwood](spell_dir/ironwood#_ironwood** : Magic wood is as strong as steel.
+**[Ironwood](spells/ironwood#_ironwood)** : Magic wood is as strong as steel.
 
-**[Liveoak](spell_dir/liveoak#_liveoak** : Oak becomes treant guardian.
+**[Liveoak](spell_dir/liveoak#_liveoak)** : Oak becomes treant guardian.
 
-**[Move Earth](spell_dir/moveEarth#_move-earth** : Digs trenches and builds hills.
+**[Move Earth](spells/moveEarth#_move-earth)** : Digs trenches and builds hills.
 
-**[Owl's Wisdom, Mass](spell_dir/owlSWisdom#_owl-s-wisdom-mass** : As _ [owl's wisdom](spell_dir/owlSWisdom#_owl-s-wisdom_, affects 1 subject/level.
+**[Owl's Wisdom, Mass](spell_dir/owlSWisdom#_owl-s-wisdom-mass)** : As _ [owl's wisdom](spells/owlSWisdom#_owl-s-wisdom)_, affects 1 subjec_dir/level.
 
-**[Repel Wood](spell_dir/repelWood#_repel-wood** : Pushes away wooden objects.
+**[Repel Wood](spells/repelWood#_repel-wood)** : Pushes away wooden objects.
 
-**[Spellstaff](spell_dir/spellstaff#_spellstaff** : Stores one spell in wooden quarterstaff.
+**[Spellstaff](spell_dir/spellstaff#_spellstaff)** : Stores one spell in wooden quarterstaff.
 
-**[Stone Tell](spell_dir/stoneTell#_stone-tell** : Talk to natural or worked stone.
+**[Stone Tell](spells/stoneTell#_stone-tell)** : Talk to natural or worked stone.
 
-**[Summon Nature's Ally VI](spell_dir/summonNatureSAlly#_summon-nature-s-ally-vi** : Summons creature to fight.
+**[Summon Nature's Ally VI](spell_dir/summonNatureSAlly#_summon-nature-s-ally-vi)** : Summons creature to fight.
 
-**[Transport via Plants](spell_dir/transportViaPlants#_transport-via-plants** : Move instantly from one plant to another of the same kind.
+**[Transport via Plants](spells/transportViaPlants#_transport-via-plants)** : Move instantly from one plant to another of the same kind.
 
-**[Wall of Stone](spell_dir/wallOfStone#_wall-of-stone** : Creates a stone wall that can be shaped.
+**[Wall of Stone](spell_dir/wallOfStone#_wall-of-stone)** : Creates a stone wall that can be shaped.
 
 ## 7th-Level Druid Spells
 
-**[Animate Plants](spell_dir/animatePlants#_animate-plants** : One or more plants animate and fight for you.
+**[Animate Plants](spells/animatePlants#_animate-plants)** : One or more plants animate and fight for you.
 
-**[Changestaff](spell_dir/changestaff#_changestaff** : Your staff becomes a treant on command.
+**[Changestaff](spell_dir/changestaff#_changestaff)** : Your staff becomes a treant on command.
 
-**[Control Weather](spell_dir/controlWeather#_control-weather** : Changes weather in local area.
+**[Control Weather](spells/controlWeather#_control-weather)** : Changes weather in local area.
 
-**[Creeping Doom](spell_dir/creepingDoom#_creeping-doom** : Swarms of centipedes attack at your command.
+**[Creeping Doom](spell_dir/creepingDoom#_creeping-doom)** : Swarms of centipedes attack at your command.
 
-**[Cure Moderate Wounds, Mass](spell_dir/cureModerateWounds#_cure-moderate-wounds-mass** : Cures 2d8 damage + 1/level, affects 1 subject/level.
+**[Cure Moderate Wounds, Mass](spells/cureModerateWounds#_cure-moderate-wounds-mass)** : Cures 2d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Fire Storm](spell_dir/fireStorm#_fire-storm** : Deals 1d6/level fire damage.
+**[Fire Storm](spells/fireStorm#_fire-storm)** : Deals 1d6/level fire damage.
 
-**[Heal](spell_dir/heal#_heal** : Cures 10 points/level damage, all diseases and mental conditions.
+**[Heal](spell_dir/heal#_heal)** : Cures 10 points/level damage, all diseases and mental conditions.
 
-**[Scrying, Greater](spell_dir/scrying#_scrying-greater** : As _ [scrying](spell_dir/scrying#_scrying_, but faster and longer.
+**[Scrying, Greater](spell_dir/scrying#_scrying-greater)** : As _ [scrying](spells/scrying#_scrying)_, but faster and longer.
 
-**[Summon Nature's Ally VII](spell_dir/summonNatureSAlly#_summon-nature-s-ally-vii** : Summons creature to fight.
+**[Summon Nature's Ally VII](spell_dir/summonNatureSAlly#_summon-nature-s-ally-vii)** : Summons creature to fight.
 
-**[Sunbeam](spell_dir/sunbeam#_sunbeam** : Beam blinds and deals 4d6 damage.
+**[Sunbeam](spells/sunbeam#_sunbeam)** : Beam blinds and deals 4d6 damage.
 
-**[Transmute Metal to Wood](spell_dir/transmuteMetalToWood#_transmute-metal-to-wood** : Metal within 40 ft. becomes wood.
+**[Transmute Metal to Wood](spell_dir/transmuteMetalToWood#_transmute-metal-to-wood)** : Metal within 40 ft. becomes wood.
 
-**[True Seeing](spell_dir/trueSeeing#_true-seeing** M: Lets you see all things as they really are.
+**[True Seeing](spells/trueSeeing#_true-seeing)** M: Lets you see all things as they really are.
 
-**[Wind Walk](spell_dir/windWalk#_wind-walk** : You and your allies turn vaporous and travel fast.
+**[Wind Walk](spell_dir/windWalk#_wind-walk)** : You and your allies turn vaporous and travel fast.
 
 ## 8th-Level Druid Spells
 
-**[Animal Shapes](spell_dir/animalShapes#_animal-shapes** : One ally/level polymorphs into chosen animal.
+**[Animal Shapes](spells/animalShapes#_animal-shapes)** : One all_dir/level polymorphs into chosen animal.
 
-**[Control Plants](spell_dir/controlPlants#_control-plants** : Controls actions of one or more plant creatures.
+**[Control Plants](spells/controlPlants#_control-plants)** : Controls actions of one or more plant creatures.
 
-**[Cure Serious Wounds, Mass](spell_dir/cureSeriousWounds#_cure-serious-wounds-mass** : Cures 3d8 damage + 1/level, affects 1 subject/level.
+**[Cure Serious Wounds, Mass](spell_dir/cureSeriousWounds#_cure-serious-wounds-mass)** : Cures 3d8 damage + 1/level, affects 1 subjec_dir/level.
 
-**[Earthquake](spell_dir/earthquake#_earthquake** : Intense tremor shakes 80-ft.-radius.
+**[Earthquake](spells/earthquake#_earthquake)** : Intense tremor shakes 80-ft.-radius.
 
-**[Finger of Death](spell_dir/fingerOfDeath#_finger-of-death** : Deals 10 damage/level to one subject.
+**[Finger of Death](spell_dir/fingerOfDeath#_finger-of-death)** : Deals 10 damage/level to one subject.
 
-**[Repel Metal or Stone](spell_dir/repelMetalOrStone#_repel-metal-or-stone** : Pushes away metal and stone.
+**[Repel Metal or Stone](spell_dir/repelMetalOrStone#_repel-metal-or-stone)** : Pushes away metal and stone.
 
-**[Reverse Gravity](spell_dir/reverseGravity#_reverse-gravity** : Objects and creatures fall upward.
+**[Reverse Gravity](spells/reverseGravity#_reverse-gravity)** : Objects and creatures fall upward.
 
-**[Summon Nature's Ally VIII](spell_dir/summonNatureSAlly#_summon-nature-s-ally-viii** : Summons creature to fight.
+**[Summon Nature's Ally VIII](spell_dir/summonNatureSAlly#_summon-nature-s-ally-viii)** : Summons creature to fight.
 
-**[Sunburst](spell_dir/sunburst#_sunburst** : Blinds all within 10 ft., deals 6d6 damage.
+**[Sunburst](spells/sunburst#_sunburst)** : Blinds all within 10 ft., deals 6d6 damage.
 
-**[Whirlwind](spell_dir/whirlwind#_whirlwind** : Cyclone deals damage and can pick up creatures.
+**[Whirlwind](spell_dir/whirlwind#_whirlwind)** : Cyclone deals damage and can pick up creatures.
 
-**[Word of Recall](spell_dir/wordOfRecall#_word-of-recall** : Teleports you back to designated place.
+**[Word of Recall](spells/wordOfRecall#_word-of-recall)** : Teleports you back to designated place.
 
 ## 9th-Level Druid Spells
 
-**[Antipathy](spell_dir/antipathy#_antipathy** : Object or location affected by spell repels certain creatures.
+**[Antipathy](spell_dir/antipathy#_antipathy)** : Object or location affected by spell repels certain creatures.
 
-**[Cure Critical Wounds, Mass](spell_dir/cureCriticalWounds#_cure-critical-wounds-mass** : Cures 4d8 damage + 1/level for many creatures.
+**[Cure Critical Wounds, Mass](spells/cureCriticalWounds#_cure-critical-wounds-mass)** : Cures 4d8 damage + 1/level for many creatures.
 
-**[Elemental Swarm](spell_dir/elementalSwarm#_elemental-swarm** : Summons multiple elementals.
+**[Elemental Swarm](spell_dir/elementalSwarm#_elemental-swarm)** : Summons multiple elementals.
 
-**[Foresight](spell_dir/foresight#_foresight** : “Sixth sense” warns of impending danger.
+**[Foresight](spells/foresight#_foresight)** : “Sixth sense” warns of impending danger.
 
-**[Regenerate](spell_dir/regenerate#_regenerate** : Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35).
+**[Regenerate](spell_dir/regenerate#_regenerate)** : Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35).
 
-**[Shambler](spell_dir/shambler#_shambler** : Creates 1d4+2 shambling mounds to fight for you.
+**[Shambler](spell_dir/shambler#_shambler)** : Creates 1d4+2 shambling mounds to fight for you.
 
-**[Shapechange](spell_dir/shapechange#_shapechange** F: Transforms you into certain creatures, and you can change forms once per round.
+**[Shapechange](spells/shapechange#_shapechange)** F: Transforms you into certain creatures, and you can change forms once per round.
 
-**[Storm of Vengeance](spell_dir/stormOfVengeance#_storm-of-vengeance** : Storm rains acid, lightning, and hail.
+**[Storm of Vengeance](spell_dir/stormOfVengeance#_storm-of-vengeance)** : Storm rains acid, lightning, and hail.
 
-**[Summon Nature's Ally IX](spell_dir/summonNatureSAlly#_summon-nature-s-ally-ix** : Summons creature to fight.
+**[Summon Nature's Ally IX](spells/summonNatureSAlly#_summon-nature-s-ally-ix)** : Summons creature to fight.
 
-**[Sympathy](spell_dir/sympathy#_sympathy** M: Object or location attracts certain creatures.
+**[Sympathy](spell_dir/sympathy#_sympathy)** M: Object or location attracts certain creatures.
 
 # Paladin Spells
 
 ## 1st-Level Paladin Spells
 
-**[Bless](spell_dir/bless#_bless** : Allies gain +1 on attack rolls and saves against fear.
+**[Bless](spells/bless#_bless)** : Allies gain +1 on attack rolls and saves against fear.
 
-**[Bless Water](spell_dir/blessWater#_bless-water** M: Makes holy water.
+**[Bless Water](spell_dir/blessWater#_bless-water)** M: Makes holy water.
 
-**[Bless Weapon](spell_dir/blessWeapon#_bless-weapon** : Weapon strikes true against evil foes.
+**[Bless Weapon](spells/blessWeapon#_bless-weapon)** : Weapon strikes true against evil foes.
 
-**[Create Water](spell_dir/createWater#_create-water** : Creates 2 gallons/level of pure water.
+**[Create Water](spell_dir/createWater#_create-water)** : Creates 2 gallons/level of pure water.
 
-**[Cure Light Wounds](spell_dir/cureLightWounds#_cure-light-wounds** : Cures 1d8 damage + 1/level (max +5).
+**[Cure Light Wounds](spell_dir/cureLightWounds#_cure-light-wounds)** : Cures 1d8 damage + 1/level (max +5).
 
-**[Detect Poison](spell_dir/detectPoison#_detect-poison** : Detects poison in one creature or small object.
+**[Detect Poison](spell_dir/detectPoison#_detect-poison)** : Detects poison in one creature or small object.
 
-**[Detect Undead](spell_dir/detectUndead#_detect-undead** : Reveals undead within 60 ft.
+**[Detect Undead](spells/detectUndead#_detect-undead)** : Reveals undead within 60 ft.
 
-**[Divine Favor](spell_dir/divineFavor#_divine-favor** : You gain +1 per three levels on attack and damage rolls.
+**[Divine Favor](spell_dir/divineFavor#_divine-favor)** : You gain +1 per three levels on attack and damage rolls.
 
-**[Endure Elements](spell_dir/endureElements#_endure-elements** : Exist comfortably in hot or cold regions.
+**[Endure Elements](spells/endureElements#_endure-elements)** : Exist comfortably in hot or cold regions.
 
-**[Magic Weapon](spell_dir/magicWeapon#_magic-weapon** : Weapon gains +1 bonus.
+**[Magic Weapon](spell_dir/magicWeapon#_magic-weapon)** : Weapon gains +1 bonus.
 
-**[Protection from Chaos/Evil](spell_dir/protectionFromEvil#_protection-from-evil)** : +2 to [AC](combat#_armor-class and saves, plus additional protection against selected alignment.
+**[Protection from Chaos/Evil](spell_dir/protectionFromEvil#_protection-from-evil)** : +2 to [AC](combat#_armor-class) and saves, plus additional protection against selected alignment.
 
-**[Read Magic](spell_dir/readMagic#_read-magic** : Read scrolls and spellbooks.
+**[Read Magic](spells/readMagic#_read-magic)** : Read scrolls and spellbooks.
 
-**[Resistance](spell_dir/resistance#_resistance** : Subject gains +1 on saving throws.
+**[Resistance](spell_dir/resistance#_resistance)** : Subject gains +1 on saving throws.
 
-**[Restoration, Lesser](spell_dir/restoration#_restoration-lesser** : Dispels magical ability penalty or repairs 1d4 ability damage.
+**[Restoration, Lesser](spells/restoration#_restoration-lesser)** : Dispels magical ability penalty or repairs 1d4 ability damage.
 
-**[Virtue](spell_dir/virtue#_virtue** : Subject gains 1 temporary hp.
+**[Virtue](spell_dir/virtue#_virtue)** : Subject gains 1 temporary hp.
 
 ## 2nd-Level Paladin Spells
 
-**[Bull's Strength](spell_dir/bullSStrength#_bull-s-strength)** : Subject gains +4 to [Str](gettingStarted#_strength for 1 min./level.
+**[Bull's Strength](spells/bullSStrength#_bull-s-strength)** : Subject gains +4 to [Str](gettingStarted#_strength) for 1 min./level.
 
-**[Delay Poison](spell_dir/delayPoison#_delay-poison** : Stops poison from harming subject for 1 hour/level.
+**[Delay Poison](spell_dir/delayPoison#_delay-poison)** : Stops poison from harming subject for 1 hour/level.
 
-**[Eagle's Splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)** : Subject gains +4 to [Cha](gettingStarted#_charisma-new for 1 min./level.
+**[Eagle's Splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)** : Subject gains +4 to [Cha](gettingStarted#_charisma-new) for 1 min./level.
 
-**[Owl's Wisdom](spell_dir/owlSWisdom#_owl-s-wisdom)** : Subject gains +4 to [Wis](gettingStarted#_wisdom for 1 min./level.
+**[Owl's Wisdom](spell_dir/owlSWisdom#_owl-s-wisdom)** : Subject gains +4 to [Wis](gettingStarted#_wisdom) for 1 min./level.
 
-**[Remove Paralysis](spell_dir/removeParalysis#_remove-paralysis** : Frees one or more creatures from paralysis or [slow](spell_dir/slow#_slow effect.
+**[Remove Paralysis](spell_dir/removeParalysis#_remove-paralysis)** : Frees one or more creatures from paralysis or [slow](spells/slow#_slow) effect.
 
-**[Resist Energy](spell_dir/resistEnergy#_resist-energy** : Ignores 10 or more points of damage per attack from specified energy type.
+**[Resist Energy](spell_dir/resistEnergy#_resist-energy)** : Ignores 10 or more points of damage per attack from specified energy type.
 
-**[Shield Other](spell_dir/shieldOther#_shield-other** F: You take half of subject's damage.
+**[Shield Other](spells/shieldOther#_shield-other)** F: You take half of subject's damage.
 
-**[Undetectable Alignment](spell_dir/undetectableAlignment#_undetectable-alignment** : Conceals alignment from magical detection for 24 hours.
+**[Undetectable Alignment](spell_dir/undetectableAlignment#_undetectable-alignment)** : Conceals alignment from magical detection for 24 hours.
 
-**[Zone of Truth](spell_dir/zoneOfTruth#_zone-of-truth** : Subjects within range cannot lie.
+**[Zone of Truth](spells/zoneOfTruth#_zone-of-truth)** : Subjects within range cannot lie.
 
 ## 3rd-Level Paladin Spells
 
-**[Cure Moderate Wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds** : Cures 2d8 damage +1/level (max. +10).
+**[Cure Moderate Wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds)** : Cures 2d8 damage +1/level (max. +10).
 
-**[Daylight](spell_dir/daylight#_daylight** : 60-ft. radius of bright light.
+**[Daylight](spell_dir/daylight#_daylight)** : 60-ft. radius of bright light.
 
-**[Discern Lies](spell_dir/discernLies#_discern-lies** : Reveals deliberate falsehoods.
+**[Discern Lies](spells/discernLies#_discern-lies)** : Reveals deliberate falsehoods.
 
-**[Dispel Magic](spell_dir/dispelMagic#_dispel-magic** : Cancels one magical spell or effect.
+**[Dispel Magic](spell_dir/dispelMagic#_dispel-magic)** : Cancels one magical spell or effect.
 
-**[Heal Mount](spell_dir/healMount#_heal-mount** : As _ [heal](spell_dir/heal#_heal _on horse or other special mount.
+**[Heal Mount](spells/healMount#_heal-mount)** : As _ [heal](spell_dir/heal#_heal) _on horse or other special mount.
 
-**[Magic Circle against Chaos/Evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil** : As _ [protection from chaos](spell_dir/protectionFromChaos#_protection-from-chaos_, but 10-ft. radius and 10 min./level.
+**[Magic Circle against Chaos/Evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil)** : As _ [protection from chaos](spells/protectionFromChaos#_protection-from-chaos)_, but 10-ft. radius and 10 min./level.
 
-**[Magic Weapon, Greater](spell_dir/magicWeapon#_magic-weapon-greater** : Weapon gains +1 bonu_dir/four levels (max +5.
+**[Magic Weapon, Greater](spell_dir/magicWeapon#_magic-weapon-greater)** : Weapon gains +1 bonus/four levels (max +5).
 
-**[Prayer](spell_dir/prayer#_prayer** : Allies get +1 bonus on most rolls, enemies –1 penalty.
+**[Prayer](spell_dir/prayer#_prayer)** : Allies get +1 bonus on most rolls, enemies –1 penalty.
 
-**[Remove Blindness/Deafness](spell_dir/removeBlindnessDeafness#_remove-blindness-deafness** : Cures normal or magical blindness or deafness.
+**[Remove Blindness/Deafness](spell_dir/removeBlindnessDeafness#_remove-blindness-deafness)** : Cures normal or magical blindness or deafness.
 
-**[Remove Curse](spell_dir/removeCurse#_remove-curse** : Frees object or person from curse.
+**[Remove Curse](spells/removeCurse#_remove-curse)** : Frees object or person from curse.
 
 ## 4th-Level Paladin Spells
 
-**[Break Enchantment](spell_dir/breakEnchantment#_break-enchantment** : Frees subjects from enchantments, transmutations, and curses.
+**[Break Enchantment](spell_dir/breakEnchantment#_break-enchantment)** : Frees subjects from enchantments, transmutations, and curses.
 
-**[Cure Serious Wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds** : Cures 3d8 damage + 1/level (max +15).
+**[Cure Serious Wounds](spells/cureSeriousWounds#_cure-serious-wounds)** : Cures 3d8 damage + 1/level (max +15).
 
-**[Death Ward](spell_dir/deathWard#_death-ward** : Grants bonuses against death spells and negative energy.
+**[Death Ward](spell_dir/deathWard#_death-ward)** : Grants bonuses against death spells and negative energy.
 
-**[Dispel Chaos](spell_dir/dispelChaos#_dispel-chaos** : +4 bonus against attacks by chaotic creatures.
+**[Dispel Chaos](spells/dispelChaos#_dispel-chaos)** : +4 bonus against attacks by chaotic creatures.
 
-**[Dispel Evil](spell_dir/dispelEvil#_dispel-evil** : +4 bonus against attacks by evil creatures.
+**[Dispel Evil](spell_dir/dispelEvil#_dispel-evil)** : +4 bonus against attacks by evil creatures.
 
-**[Holy Sword](spell_dir/holySword#_holy-sword** : Weapon becomes +5, deals +2d6 damage against evil.
+**[Holy Sword](spells/holySword#_holy-sword)** : Weapon becomes +5, deals +2d6 damage against evil.
 
-**[Mark of Justice](spell_dir/markOfJustice#_mark-of-justice** : Designates action that triggers _curse _on subject.
+**[Mark of Justice](spell_dir/markOfJustice#_mark-of-justice)** : Designates action that triggers _curse _on subject.
 
-**[Neutralize Poison](spell_dir/neutralizePoison#_neutralize-poison** : Immunizes subject against poison, detoxifies venom in or on subject.
+**[Neutralize Poison](spells/neutralizePoison#_neutralize-poison)** : Immunizes subject against poison, detoxifies venom in or on subject.
 
-**[Restoration](spell_dir/restoration#_restoration** M: Restores level and ability score drains.
+**[Restoration](spell_dir/restoration#_restoration)** M: Restores level and ability score drains.
 
 # Ranger Spells
 
 ## 1st-Level Ranger Spells
 
-**[Alarm](spell_dir/alarm#_alarm** : Wards an area for 2 hours/level.
+**[Alarm](spells/alarm#_alarm)** : Wards an area for 2 hour_dir/level.
 
-**[Animal Messenger](spell_dir/animalMessenger#_animal-messenger** : Sends a Tiny animal to a specific place.
+**[Animal Messenger](spells/animalMessenger#_animal-messenger)** : Sends a Tiny animal to a specific place.
 
-**[Calm Animals](spell_dir/calmAnimals#_calm-animals** : Calms 2d4 + level HD of animals.
+**[Calm Animals](spell_dir/calmAnimals#_calm-animals)** : Calms 2d4 + level HD of animals.
 
-**[Charm Animal](spell_dir/charmAnimal#_charm-animal** : Makes one animal your friend.
+**[Charm Animal](spells/charmAnimal#_charm-animal)** : Makes one animal your friend.
 
-**[Delay Poison](spell_dir/delayPoison#_delay-poison** : Stops poison from harming subject for 1 hour/level.
+**[Delay Poison](spell_dir/delayPoison#_delay-poison)** : Stops poison from harming subject for 1 hour/level.
 
-**[Detect Animals or Plants](spell_dir/detectAnimalsOrPlants#_detect-animals-or-plants** : Detects kinds of animals or plants.
+**[Detect Animals or Plants](spell_dir/detectAnimalsOrPlants#_detect-animals-or-plants)** : Detects kinds of animals or plants.
 
-**[Detect Poison](spell_dir/detectPoison#_detect-poison** : Detects poison in one creature or object.
+**[Detect Poison](spells/detectPoison#_detect-poison)** : Detects poison in one creature or object.
 
-**[Detect Snares and Pits](spell_dir/detectSnaresAndPits#_detect-snares-and-pits** : Reveals natural or primitive traps.
+**[Detect Snares and Pits](spell_dir/detectSnaresAndPits#_detect-snares-and-pits)** : Reveals natural or primitive traps.
 
-**[Endure Elements](spell_dir/endureElements#_endure-elements** : Exist comfortably in hot or cold regions.
+**[Endure Elements](spells/endureElements#_endure-elements)** : Exist comfortably in hot or cold regions.
 
-**[Entangle](spell_dir/entangle#_entangle** : Plants entangle everyone in 40-ft. radius.
+**[Entangle](spell_dir/entangle#_entangle)** : Plants entangle everyone in 40-ft. radius.
 
-**[Hide from Animals](spell_dir/hideFromAnimals#_hide-from-animals** : Animals can't perceive one subject/level.
+**[Hide from Animals](spells/hideFromAnimals#_hide-from-animals)** : Animals can't perceive one subjec_dir/level.
 
-**[Jump](spell_dir/jump#_jump** : Subject gets bonus on Acrobatics checks.
+**[Jump](spells/jump#_jump)** : Subject gets bonus on Acrobatics checks.
 
-**[Longstrider](spell_dir/longstrider#_longstrider** : Your base speed increases by 10 ft.
+**[Longstrider](spell_dir/longstrider#_longstrider)** : Your base speed increases by 10 ft.
 
-**[Magic Fang](spell_dir/magicFang#_magic-fang** : One natural weapon of subject creature gets +1 on attack and damage rolls.
+**[Magic Fang](spells/magicFang#_magic-fang)** : One natural weapon of subject creature gets +1 on attack and damage rolls.
 
-**[Pass without Trace](spell_dir/passWithoutTrace#_pass-without-trace** : One subject/level leaves no tracks.
+**[Pass without Trace](spell_dir/passWithoutTrace#_pass-without-trace)** : One subject/level leaves no tracks.
 
-**[Read Magic](spell_dir/readMagic#_read-magic** : Read scrolls and spellbooks.
+**[Read Magic](spell_dir/readMagic#_read-magic)** : Read scrolls and spellbooks.
 
-**[Resist Energy](spell_dir/resistEnergy#_resist-energy)** : Ignores 10 (or more points of damage/attack from specified energy type.
+**[Resist Energy](spells/resistEnergy#_resist-energy)** : Ignores 10 (or more) points of damag_dir/attack from specified energy type.
 
-**[Speak with Animals](spell_dir/speakWithAnimals#_speak-with-animals** : You can communicate with animals.
+**[Speak with Animals](spells/speakWithAnimals#_speak-with-animals)** : You can communicate with animals.
 
-**[Summon Nature's Ally I](spell_dir/summonNatureSAlly#_summon-nature-s-ally-i** : Summons creature to fight for you.
+**[Summon Nature's Ally I](spell_dir/summonNatureSAlly#_summon-nature-s-ally-i)** : Summons creature to fight for you.
 
 ## 2nd-Level Ranger Spells
 
-**[Barkskin](spell_dir/barkskin#_barkskin)** : Grants +2 (or higher enhancement to natural armor.
+**[Barkskin](spells/barkskin#_barkskin)** : Grants +2 (or higher) enhancement to natural armor.
 
-**[Bear's Endurance](spell_dir/bearSEndurance#_bear-s-endurance)** : Subject gains +4 to [Con](gettingStarted#_constitution for 1 min./level.
+**[Bear's Endurance](spell_dir/bearSEndurance#_bear-s-endurance)** : Subject gains +4 to [Con](gettingStarted#_constitution) for 1 min./level.
 
-**[Cat's Grace](spell_dir/catSGrace#_cat-s-grace)** : Subject gains +4 to [Dex](gettingStarted#_dexterity for 1 min./level.
+**[Cat's Grace](spell_dir/catSGrace#_cat-s-grace)** : Subject gains +4 to [Dex](gettingStarted#_dexterity) for 1 min./level.
 
-**[Cure Light Wounds](spell_dir/cureLightWounds#_cure-light-wounds** : Cures 1d8 damage + 1/level (max +5).
+**[Cure Light Wounds](spell_dir/cureLightWounds#_cure-light-wounds)** : Cures 1d8 damage + 1/level (max +5).
 
-**[Hold Animal](spell_dir/holdAnimal#_hold-animal** : Paralyzes one animal for 1 round/level.
+**[Hold Animal](spell_dir/holdAnimal#_hold-animal)** : Paralyzes one animal for 1 round/level.
 
-**[Owl's Wisdom](spell_dir/owlSWisdom#_owl-s-wisdom)** : Subject gains +4 to [Wis](gettingStarted#_wisdom for 1 min./level.
+**[Owl's Wisdom](spell_dir/owlSWisdom#_owl-s-wisdom)** : Subject gains +4 to [Wis](gettingStarted#_wisdom) for 1 min./level.
 
-**[Protection from Energy](spell_dir/protectionFromEnergy#_protection-from-energy** : Absorbs 12 points/level of damage from one kind of energy.
+**[Protection from Energy](spell_dir/protectionFromEnergy#_protection-from-energy)** : Absorbs 12 points/level of damage from one kind of energy.
 
-**[Snare](spell_dir/snare#_snare** : Creates a magic booby trap.
+**[Snare](spell_dir/snare#_snare)** : Creates a magic booby trap.
 
-**[Speak with Plants](spell_dir/speakWithPlants#_speak-with-plants** : You can talk to plants and plant creatures.
+**[Speak with Plants](spells/speakWithPlants#_speak-with-plants)** : You can talk to plants and plant creatures.
 
-**[Spike Growth](spell_dir/spikeGrowth#_spike-growth** : Creatures in area take 1d4 damage, may be slowed_._
+**[Spike Growth](spell_dir/spikeGrowth#_spike-growth)** : Creatures in area take 1d4 damage, may be slowed_._
 
-**[Summon Nature's Ally II](spell_dir/summonNatureSAlly#_summon-nature-s-ally-ii** : Summons creature to fight for you.
+**[Summon Nature's Ally II](spells/summonNatureSAlly#_summon-nature-s-ally-ii)** : Summons creature to fight for you.
 
-**[Wind Wall](spell_dir/windWall#_wind-wall** : Deflects arrows, smaller creatures, and gases.
+**[Wind Wall](spell_dir/windWall#_wind-wall)** : Deflects arrows, smaller creatures, and gases.
 
 ## 3rd-Level Ranger Spells
 
-**[Command Plants](spell_dir/commandPlants#_command-plants** : Sway the actions of plant creatures.
+**[Command Plants](spells/commandPlants#_command-plants)** : Sway the actions of plant creatures.
 
-**[Cure Moderate Wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds** : Cures 2d8 damage +1/level (max. +10).
+**[Cure Moderate Wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds)** : Cures 2d8 damage +1/level (max. +10).
 
-**[Darkvision](spell_dir/darkvision#_darkvision** : See 60 ft. in total darkness.
+**[Darkvision](spell_dir/darkvision#_darkvision)** : See 60 ft. in total darkness.
 
-**[Diminish Plants](spell_dir/diminishPlants#_diminish-plants** : Reduces size or blights growth of normal plants.
+**[Diminish Plants](spells/diminishPlants#_diminish-plants)** : Reduces size or blights growth of normal plants.
 
-**[Magic Fang, Greater](spell_dir/magicFang#_magic-fang-greater** : One natural weapon gets + 1/four levels (max. +5).
+**[Magic Fang, Greater](spell_dir/magicFang#_magic-fang-greater)** : One natural weapon gets + 1/four levels (max. +5).
 
-**[Neutralize Poison](spell_dir/neutralizePoison#_neutralize-poison** : Immunizes subject against poison, detoxifies venom in or on subject.
+**[Neutralize Poison](spell_dir/neutralizePoison#_neutralize-poison)** : Immunizes subject against poison, detoxifies venom in or on subject.
 
-**[Plant Growth](spell_dir/plantGrowth#_plant-growth** : Grows vegetation, improves crops.
+**[Plant Growth](spells/plantGrowth#_plant-growth)** : Grows vegetation, improves crops.
 
-**[Reduce Animal](spell_dir/reduceAnimal#_reduce-animal** : Shrinks one willing animal.
+**[Reduce Animal](spell_dir/reduceAnimal#_reduce-animal)** : Shrinks one willing animal.
 
-**[Remove Disease](spell_dir/removeDisease#_remove-disease** : Cures all diseases affecting subject.
+**[Remove Disease](spells/removeDisease#_remove-disease)** : Cures all diseases affecting subject.
 
-**[Repel Vermin](spell_dir/repelVermin#_repel-vermin** : Insects, spiders, and other vermin stay 10 ft. away.
+**[Repel Vermin](spell_dir/repelVermin#_repel-vermin)** : Insects, spiders, and other vermin stay 10 ft. away.
 
-**[Summon Nature's Ally III](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iii** : Summons creature to fight for you.
+**[Summon Nature's Ally III](spells/summonNatureSAlly#_summon-nature-s-ally-iii)** : Summons creature to fight for you.
 
-**[Tree Shape](spell_dir/treeShape#_tree-shape** : You look exactly like a tree for 1 hour/level.
+**[Tree Shape](spell_dir/treeShape#_tree-shape)** : You look exactly like a tree for 1 hour/level.
 
-**[Water Walk](spell_dir/waterWalk#_water-walk** : Subject treads on water as if solid.
+**[Water Walk](spell_dir/waterWalk#_water-walk)** : Subject treads on water as if solid.
 
 ## 4th-Level Ranger Spells
 
-**[Animal Growth](spell_dir/animalGrowth#_animal-growth** : One animal doubles in size.
+**[Animal Growth](spells/animalGrowth#_animal-growth)** : One animal doubles in size.
 
-**[Commune with Nature](spell_dir/communeWithNature#_commune-with-nature** : Learn about terrain for 1 mile/level.
+**[Commune with Nature](spell_dir/communeWithNature#_commune-with-nature)** : Learn about terrain for 1 mile/level.
 
-**[Cure Serious Wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds** : Cures 3d8 damage + 1/level (max +15).
+**[Cure Serious Wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)** : Cures 3d8 damage + 1/level (max +15).
 
-**[Freedom of Movement](spell_dir/freedomOfMovement#_freedom-of-movement** : Subject moves normally despite impediments to movement.
+**[Freedom of Movement](spell_dir/freedomOfMovement#_freedom-of-movement)** : Subject moves normally despite impediments to movement.
 
-**[Nondetection](spell_dir/nondetection#_nondetection** M: Hides subject from divination, [scrying](spell_dir/scrying#_scrying.
+**[Nondetection](spells/nondetection#_nondetection)** M: Hides subject from divination, [scrying](spell_dir/scrying#_scrying).
 
-**[Summon Nature's Ally IV](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iv** : Summons creature to fight for you.
+**[Summon Nature's Ally IV](spells/summonNatureSAlly#_summon-nature-s-ally-iv)** : Summons creature to fight for you.
 
-**[Tree Stride](spell_dir/treeStride#_tree-stride** : Step from one tree to another far away.
+**[Tree Stride](spell_dir/treeStride#_tree-stride)** : Step from one tree to another far away.
 
 # Sorcerer/wizard Spells
 
-## 0-Level Sorcere_dir/Wizard Spells (Cantrips
+## 0-Level Sorcere_dir/Wizard Spells (Cantrips)
 
 ### Abjuration
 
-**[Resistance](spell_dir/resistance#_resistance** : Subject gains +1 on saving throws.
+**[Resistance](spells/resistance#_resistance)** : Subject gains +1 on saving throws.
 
 ### Conjuration
 
-**[Acid Splash](spell_dir/acidSplash#_acid-splash** : Orb deals 1d3 acid damage.
+**[Acid Splash](spell_dir/acidSplash#_acid-splash)** : Orb deals 1d3 acid damage.
 
 ### Divination
 
-**[Detect Magic](spell_dir/detectMagic#_detect-magic** : Detects all spells and magic items within 60 ft.
+**[Detect Magic](spells/detectMagic#_detect-magic)** : Detects all spells and magic items within 60 ft.
 
-**[Detect Poison](spell_dir/detectPoison#_detect-poison** : Detects poison in one creature or small object.
+**[Detect Poison](spell_dir/detectPoison#_detect-poison)** : Detects poison in one creature or small object.
 
-**[Read Magic](spell_dir/readMagic#_read-magic** : Read scrolls and spellbooks.
+**[Read Magic](spells/readMagic#_read-magic)** : Read scrolls and spellbooks.
 
 ### Enchantment
 
-**[Daze](spell_dir/daze#_daze** : A single humanoid creature with 4 HD or less loses its next action.
+**[Daze](spell_dir/daze#_daze)** : A single humanoid creature with 4 HD or less loses its next action.
 
 ### Evocation
 
-**[Dancing Lights](spell_dir/dancingLights#_dancing-lights** : Creates torches or other lights.
+**[Dancing Lights](spells/dancingLights#_dancing-lights)** : Creates torches or other lights.
 
-**[Flare](spell_dir/flare#_flare)** : Dazzles one creature (–1 on attack rolls.
+**[Flare](spell_dir/flare#_flare)** : Dazzles one creature (–1 on attack rolls).
 
-**[Light](spell_dir/light#_light** : Object shines like a torch.
+**[Light](spells/light#_light)** : Object shines like a torch.
 
-**[Ray of Frost](spell_dir/rayOfFrost#_ray-of-frost** : Ray deals 1d3 cold damage.
+**[Ray of Frost](spell_dir/rayOfFrost#_ray-of-frost)** : Ray deals 1d3 cold damage.
 
 ### Illusion
 
-**[Ghost Sound](spell_dir/ghostSound#_ghost-sound** : Figment sounds.
+**[Ghost Sound](spells/ghostSound#_ghost-sound)** : Figment sounds.
 
 ### Necromancy
 
-**[Bleed](spell_dir/bleed#_bleed)** : Cause a stabilized creature to resume [dying](glossary#_dying.
+**[Bleed](spell_dir/bleed#_bleed)** : Cause a stabilized creature to resume [dying](glossary#_dying).
 
-**[Disrupt Undead](spell_dir/disruptUndead#_disrupt-undead** : Deals 1d6 damage to one undead.
+**[Disrupt Undead](spells/disruptUndead#_disrupt-undead)** : Deals 1d6 damage to one undead.
 
-**[Touch of Fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue** : Touch attack fatigues target.
+**[Touch of Fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue)** : Touch attack fatigues target.
 
 ### Transmutation
 
-**[Mage Hand](spell_dir/mageHand#_mage-hand** : 5-pound telekinesis.
+**[Mage Hand](spells/mageHand#_mage-hand)** : 5-pound telekinesis.
 
-**[Mending](spell_dir/mending#_mending** : Makes minor repairs on an object.
+**[Mending](spell_dir/mending#_mending)** : Makes minor repairs on an object.
 
-**[Message](spell_dir/message#_message** : Whisper conversation at distance.
+**[Message](spells/message#_message)** : Whisper conversation at distance.
 
-**[Open/Close](spell_dir/openClose#_open-close** : Opens or closes small or light things.
+**[Ope_dir/Close](spells/openClose#_open-close)** : Opens or closes small or light things.
 
 ### Universal
 
-**[Arcane Mark](spell_dir/arcaneMark#_arcane-mark)** : Inscribes a personal rune on an object or creature (visible or invisible.
+**[Arcane Mark](spell_dir/arcaneMark#_arcane-mark)** : Inscribes a personal rune on an object or creature (visible or invisible).
 
-**[Prestidigitation](spell_dir/prestidigitation#_prestidigitation** : Performs minor tricks.
+**[Prestidigitation](spells/prestidigitation#_prestidigitation)** : Performs minor tricks.
 
-## 1st-Level Sorcerer/Wizard Spells
-
-### Abjuration
-
-**[Alarm](spell_dir/alarm#_alarm** : Wards an area for 2 hours/level.
-
-**[Endure Elements](spell_dir/endureElements#_endure-elements** : Exist comfortably in hot or cold regions.
-
-**[Hold Portal](spell_dir/holdPortal#_hold-portal** : Holds door shut.
-
-**[Protection from Chaos/Evil/Good/Law](spell_dir/protectionFromEvil#_protection-from-evil)** : +2 to [AC](combat#_armor-class and saves, plus additional protection against selected alignment.
-
-**[Shield](spell_dir/shield#_shield)** : Invisible disc gives +4 to [AC](combat#_armor-class, blocks _ [magic missile](spell_dir/magicMissile#_magic-missiles._
-
-### Conjuration
-
-**[Grease](spell_dir/grease#_grease** : Makes 10-ft. square or one object slippery.
-
-**[Mage Armor](spell_dir/mageArmor#_mage-armor** : Gives subject +4 armor bonus.
-
-**[Mount](spell_dir/mount#_mount** : Summons riding horse for 2 hours/level.
-
-**[Obscuring Mist](spell_dir/obscuringMist#_obscuring-mist** : Fog surrounds you.
-
-**[Summon Monster I](spell_dir/summonMonster#_summon-monster-i** : Summons extraplanar creature to fight for you.
-
-**[Unseen Servant](spell_dir/unseenServant#_unseen-servant** : Invisible force obeys your commands.
-
-### Divination
-
-**[Comprehend Languages](spell_dir/comprehendLanguages#_comprehend-languages** : You understand all spoken and written languages.
-
-**[Detect Secret Doors](spell_dir/detectSecretDoors#_detect-secret-doors** : Reveals hidden doors within 60 ft.
-
-**[Detect Undead](spell_dir/detectUndead#_detect-undead** : Reveals undead within 60 ft.
-
-**[Identify](spell_dir/identify#_identify** : Gives +10 bonus to identify magic items.
-
-**[True Strike](spell_dir/trueStrike#_true-strike** : +20 on your next attack roll.
-
-### Enchantment
-
-**[Charm Person](spell_dir/charmPerson#_charm-person** : Makes one person your friend.
-
-**[Hypnotism](spell_dir/hypnotism#_hypnotism** : Fascinates 2d4 HD of creatures.
-
-**[Sleep](spell_dir/sleep#_sleep** : Puts 4 HD of creatures into magical slumber.
-
-### Evocation
-
-**[Burning Hands](spell_dir/burningHands#_burning-hands** : 1d4/level fire damage (max 5d4).
-
-**[Floating Disk](spell_dir/floatingDisk#_floating-disk** : Creates 3-ft.-diameter horizontal disk that holds 100 lbs./level.
-
-**[Magic Missile](spell_dir/magicMissile#_magic-missile)** : 1d4+1 damage; +1 missile per two levels above 1st (max 5.
-
-**[Shocking Grasp](spell_dir/shockingGrasp#_shocking-grasp** : Touch delivers 1d6/level electricity damage (max 5d6).
-
-### Illusion
-
-**[Color Spray](spell_dir/colorSpray#_color-spray)** : Knocks [unconscious](glossary#_unconscious, blinds, and/or stuns weak creatures.
-
-**[Disguise Self](spell_dir/disguiseSelf#_disguise-self** : Changes your appearance.
-
-**[Magic Aura](spell_dir/magicAura#_magic-aura** : Alters object's magic aura.
-
-**[Silent Image](spell_dir/silentImage#_silent-image** : Creates minor illusion of your design.
-
-**[Ventriloquism](spell_dir/ventriloquism#_ventriloquism** : Throws voice for 1 min./level.
-
-### Necromancy
-
-**[Cause Fear](spell_dir/causeFear#_cause-fear** : One creature of 5 HD or less flees for 1d4 rounds.
-
-**[Chill Touch](spell_dir/chillTouch#_chill-touch** : One touc_dir/level deals 1d6 damage and possibly 1 [Str](gettingStarted#_strength damage.
-
-**[Ray of Enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)** : Ray causes 1d6 [Str](gettingStarted#_strength penalty + 1 per 2 levels.
-
-### Transmutation
-
-**[Animate Rope](spell_dir/animateRope#_animate-rope** : Makes a rope move at your command.
-
-**[Enlarge Person](spell_dir/enlargePerson#_enlarge-person** : Humanoid creature doubles in size.
-
-**[Erase](spell_dir/erase#_erase** : Mundane or magical writing vanishes.
-
-**[Expeditious Retreat](spell_dir/expeditiousRetreat#_expeditious-retreat** : Your base speed increases by 30 ft.
-
-**[Feather Fall](spell_dir/featherFall#_feather-fall** : Objects or creatures fall slowly.
-
-**[Jump](spell_dir/jump#_jump** : Subject gets bonus on Acrobatics checks.
-
-**[Magic Weapon](spell_dir/magicWeapon#_magic-weapon** : Weapon gains +1 bonus.
-
-**[Reduce Person](spell_dir/reducePerson#_reduce-person** : Humanoid creature halves in size.
-
-## 2nd-Level Sorcerer/Wizard Spells
+## 1st-Level Sorcere_dir/Wizard Spells
 
 ### Abjuration
 
-**[Arcane Lock](spell_dir/arcaneLock#_arcane-lock** M: Magically locks a portal or chest.
+**[Alarm](spells/alarm#_alarm)** : Wards an area for 2 hour_dir/level.
 
-**[Obscure Object](spell_dir/obscureObject#_obscure-object** : Masks object against [scrying](spell_dir/scrying#_scrying.
+**[Endure Elements](spells/endureElements#_endure-elements)** : Exist comfortably in hot or cold regions.
 
-**[Protection from Arrows](spell_dir/protectionFromArrows#_protection-from-arrows)** : Subject gains [DR](glossary#_damage-reduction 10/magic against ranged attacks.
+**[Hold Portal](spell_dir/holdPortal#_hold-portal)** : Holds door shut.
 
-**[Resist Energy](spell_dir/resistEnergy#_resist-energy)** : Ignores first 10 (or more points of damage per attack from specified energy type.
+**[Protection from Chaos/Evi_dir/Good/Law](spell_dir/protectionFromEvil#_protection-from-evil)** : +2 to [AC](combat#_armor-class) and saves, plus additional protection against selected alignment.
+
+**[Shield](spells/shield#_shield)** : Invisible disc gives +4 to [AC](combat#_armor-class), blocks _ [magic missile](spell_dir/magicMissile#_magic-missile)s._
 
 ### Conjuration
 
-**[Acid Arrow](spell_dir/acidArrow#_acid-arrow** : Ranged touch attack; 2d4 damage for 1 round + 1 round/three levels.
+**[Grease](spells/grease#_grease)** : Makes 10-ft. square or one object slippery.
 
-**[Fog Cloud](spell_dir/fogCloud** : Fog obscures vision.
+**[Mage Armor](spell_dir/mageArmor#_mage-armor)** : Gives subject +4 armor bonus.
 
-**[Glitterdust](spell_dir/glitterdust#_glitterdust)** : Blinds creatures, outlines [invisible](glossary#_invisible creatures.
+**[Mount](spells/mount#_mount)** : Summons riding horse for 2 hour_dir/level.
 
-**[Summon Monster II](spell_dir/summonMonster#_summon-monster-ii** : Summons extraplanar creature to fight for you.
+**[Obscuring Mist](spells/obscuringMist#_obscuring-mist)** : Fog surrounds you.
 
-**[Summon Swarm](spell_dir/summonSwarm#_summon-swarm** : Summons swarm of bats, rats, or spiders.
+**[Summon Monster I](spell_dir/summonMonster#_summon-monster-i)** : Summons extraplanar creature to fight for you.
 
-**[Web](spell_dir/web#_web** : Fills 20-ft.-radius spread with sticky spiderwebs that can grapple foes and impair movement.
+**[Unseen Servant](spells/unseenServant#_unseen-servant)** : Invisible force obeys your commands.
 
 ### Divination
 
-**[Detect Thoughts](spell_dir/detectThoughts#_detect-thoughts** : Allows “listening” to surface thoughts.
+**[Comprehend Languages](spell_dir/comprehendLanguages#_comprehend-languages)** : You understand all spoken and written languages.
 
-**[Locate Object](spell_dir/locateObject#_locate-object)** : Senses direction toward object (specific or type.
+**[Detect Secret Doors](spells/detectSecretDoors#_detect-secret-doors)** : Reveals hidden doors within 60 ft.
 
-**[See Invisibility](spell_dir/seeInvisibility#_see-invisibility)** : Reveals [invisible](glossary#_invisible creatures or objects.
+**[Detect Undead](spell_dir/detectUndead#_detect-undead)** : Reveals undead within 60 ft.
+
+**[Identify](spells/identify#_identify)** : Gives +10 bonus to identify magic items.
+
+**[True Strike](spell_dir/trueStrike#_true-strike)** : +20 on your next attack roll.
 
 ### Enchantment
 
-**[Daze Monster](spell_dir/dazeMonster#_daze-monster** : Living creature of 6 HD or less loses its next action.
+**[Charm Person](spells/charmPerson#_charm-person)** : Makes one person your friend.
 
-**[Hideous Laughter](spell_dir/hideousLaughter#_hideous-laughter** : Subject loses actions for 1 round/level.
+**[Hypnotism](spell_dir/hypnotism#_hypnotism)** : Fascinates 2d4 HD of creatures.
 
-**[Touch of Idiocy](spell_dir/touchOfIdiocy#_touch-of-idiocy)** : Subject takes 1d6 penalty to [Int](gettingStarted#_intelligence), [Wis](gettingStarted#_wisdom), and [Cha](gettingStarted#_charisma-new.
+**[Sleep](spells/sleep#_sleep)** : Puts 4 HD of creatures into magical slumber.
 
 ### Evocation
 
-**[Continual Flame](spell_dir/continualFlame#_continual-flame** M: Makes a permanent, heatless light.
+**[Burning Hands](spell_dir/burningHands#_burning-hands)** : 1d4/level fire damage (max 5d4).
 
-**[Darkness](spell_dir/darkness#_darkness** : 20-ft. radius of supernatural shadow.
+**[Floating Disk](spell_dir/floatingDisk#_floating-disk)** : Creates 3-ft.-diameter horizontal disk that holds 100 lbs./level.
 
-**[Flaming Sphere](spell_dir/flamingSphere#_flaming-sphere** : Rolling ball of fire deals 3d6 fire damage.
+**[Magic Missile](spell_dir/magicMissile#_magic-missile)** : 1d4+1 damage; +1 missile per two levels above 1st (max 5).
 
-**[Gust of Wind](spell_dir/gustOfWind#_gust-of-wind** : Blows away or knocks down smaller creatures.
-
-**[Scorching Ray](spell_dir/scorchingRay#_scorching-ray** : Ranged touch attack deals 4d6 fire damage, + 1 ra_dir/four levels (max 3.
-
-**[Shatter](spell_dir/shatter#_shatter** : Sonic energy damages objects or crystalline creatures.
+**[Shocking Grasp](spells/shockingGrasp#_shocking-grasp)** : Touch delivers 1d6/level electricity damage (max 5d6).
 
 ### Illusion
 
-**[Blur](spell_dir/blur#_blur** : Attacks miss subject 20% of the time.
+**[Color Spray](spell_dir/colorSpray#_color-spray)** : Knocks [unconscious](glossary#_unconscious), blinds, and/or stuns weak creatures.
 
-**[Hypnotic Pattern](spell_dir/hypnoticPattern#_hypnotic-pattern** : Fascinates 2d4 + level HD of creatures.
+**[Disguise Self](spell_dir/disguiseSelf#_disguise-self)** : Changes your appearance.
 
-**[Invisibility](spell_dir/invisibility#_invisibility)** : Subject is [invisible](glossary#_invisible for 1 min./level or until it attacks.
+**[Magic Aura](spells/magicAura#_magic-aura)** : Alters object's magic aura.
 
-**[Magic Mouth](spell_dir/magicMouth#_magic-mouth** M: Object speaks once when triggered.
+**[Silent Image](spell_dir/silentImage#_silent-image)** : Creates minor illusion of your design.
 
-**[Minor Image](spell_dir/minorImage#_minor-image** : As _ [silent image](spell_dir/silentImage#_silent-image_, plus some sound.
-
-**[Mirror Image](spell_dir/mirrorImage#_mirror-image** : Creates decoy duplicates of you.
-
-**[Misdirection](spell_dir/misdirection#_misdirection** : Misleads divinations for 1 creature or object.
-
-**[Phantom Trap](spell_dir/phantomTrap#_phantom-trap** M: Makes item seem trapped.
+**[Ventriloquism](spells/ventriloquism#_ventriloquism)** : Throws voice for 1 min./level.
 
 ### Necromancy
 
-**[Blindness/Deafness](spell_dir/blindnessDeafness#_blindness-deafness)** : Makes subject [blinded](glossary#_blinded) or [deafened](glossary#_deafened.
+**[Cause Fear](spell_dir/causeFear#_cause-fear)** : One creature of 5 HD or less flees for 1d4 rounds.
 
-**[Command Undead](spell_dir/commandUndead#_command-undead** : Undead creature obeys your commands.
+**[Chill Touch](spells/chillTouch#_chill-touch)** : One touc_dir/level deals 1d6 damage and possibly 1 [Str](gettingStarted#_strength) damage.
 
-**[False Life](spell_dir/falseLife#_false-life** : Gain 1d10 temporary hp + 1/level (max +10).
-
-**[Ghoul Touch](spell_dir/ghoulTouch#_ghoul-touch)** : Paralyzes one subject, which exudes stench that makes those nearby [sickened](glossary#_sickened.
-
-**[Scare](spell_dir/scare#_scare** : Frightens creatures of less than 6 HD.
-
-**[Spectral Hand](spell_dir/spectralHand#_spectral-hand** : Creates disembodied glowing hand to deliver touch attacks.
+**[Ray of Enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)** : Ray causes 1d6 [Str](gettingStarted#_strength) penalty + 1 per 2 levels.
 
 ### Transmutation
 
-**[Alter Self](spell_dir/alterSelf#_alter-self** : Assume form of a Small or Medium humanoid.
+**[Animate Rope](spell_dir/animateRope#_animate-rope)** : Makes a rope move at your command.
 
-**[Bear's Endurance](spell_dir/bearSEndurance#_bear-s-endurance)** : Subject gains +4 to [Con](gettingStarted#_constitution for 1 min./level.
+**[Enlarge Person](spells/enlargePerson#_enlarge-person)** : Humanoid creature doubles in size.
 
-**[Bull's Strength](spell_dir/bullSStrength#_bull-s-strength)** : Subject gains +4 to [Str](gettingStarted#_strength for 1 min./level.
+**[Erase](spell_dir/erase#_erase)** : Mundane or magical writing vanishes.
 
-**[Cat's Grace](spell_dir/catSGrace#_cat-s-grace)** : Subject gains +4 to [Dex](gettingStarted#_dexterity for 1 min./level.
+**[Expeditious Retreat](spells/expeditiousRetreat#_expeditious-retreat)** : Your base speed increases by 30 ft.
 
-**[Darkvision](spell_dir/darkvision#_darkvision** : See 60 ft. in total darkness.
+**[Feather Fall](spell_dir/featherFall#_feather-fall)** : Objects or creatures fall slowly.
 
-**[Eagle's Splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)** : Subject gains +4 to [Cha](gettingStarted#_charisma-new for 1 min./level.
+**[Jump](spells/jump#_jump)** : Subject gets bonus on Acrobatics checks.
 
-**[Fox's Cunning](spell_dir/foxSCunning#_fox-s-cunning)** : Subject gains +4 to [Int](gettingStarted#_intelligence for 1 min./level.
+**[Magic Weapon](spell_dir/magicWeapon#_magic-weapon)** : Weapon gains +1 bonus.
 
-**[Knock](spell_dir/knock#_knock** : Opens locked or magically sealed door.
+**[Reduce Person](spells/reducePerson#_reduce-person)** : Humanoid creature halves in size.
 
-**[Levitate](spell_dir/levitate#_levitate** : Subject moves up and down at your direction.
+## 2nd-Level Sorcere_dir/Wizard Spells
 
-**[Make Whole](spell_dir/makeWhole#_make-whole** : Repairs an object.
+### Abjuration
 
-**[Owl's Wisdom](spell_dir/owlSWisdom#_owl-s-wisdom)** : Subject gains +4 to [Wis](gettingStarted#_wisdom for 1 min./level.
+**[Arcane Lock](spells/arcaneLock#_arcane-lock)** M: Magically locks a portal or chest.
 
-**[Pyrotechnics](spell_dir/pyrotechnics#_pyrotechnics** : Turns fire into blinding light or thick smoke.
+**[Obscure Object](spell_dir/obscureObject#_obscure-object)** : Masks object against [scrying](spells/scrying#_scrying).
 
-**[Rope Trick](spell_dir/ropeTrick#_rope-trick** : As many as eight creatures hide in extradimensional space.
+**[Protection from Arrows](spell_dir/protectionFromArrows#_protection-from-arrows)** : Subject gains [DR](glossary#_damage-reduction) 10/magic against ranged attacks.
 
-**[Spider Climb](spell_dir/spiderClimb#_spider-climb** : Grants ability to walk on walls and ceilings.
+**[Resist Energy](spell_dir/resistEnergy#_resist-energy)** : Ignores first 10 (or more) points of damage per attack from specified energy type.
 
-**[Whispering Wind](spell_dir/whisperingWind#_whispering-wind** : Sends a short message 1 mile/level.
+### Conjuration
+
+**[Acid Arrow](spells/acidArrow#_acid-arrow)** : Ranged touch attack; 2d4 damage for 1 round + 1 roun_dir/three levels.
+
+**[Fog Cloud](spells/fogCloud)** : Fog obscures vision.
+
+**[Glitterdust](spell_dir/glitterdust#_glitterdust)** : Blinds creatures, outlines [invisible](glossary#_invisible) creatures.
+
+**[Summon Monster II](spells/summonMonster#_summon-monster-ii)** : Summons extraplanar creature to fight for you.
+
+**[Summon Swarm](spell_dir/summonSwarm#_summon-swarm)** : Summons swarm of bats, rats, or spiders.
+
+**[Web](spells/web#_web)** : Fills 20-ft.-radius spread with sticky spiderwebs that can grapple foes and impair movement.
+
+### Divination
+
+**[Detect Thoughts](spell_dir/detectThoughts#_detect-thoughts)** : Allows “listening” to surface thoughts.
+
+**[Locate Object](spells/locateObject#_locate-object)** : Senses direction toward object (specific or type).
+
+**[See Invisibility](spell_dir/seeInvisibility#_see-invisibility)** : Reveals [invisible](glossary#_invisible) creatures or objects.
+
+### Enchantment
+
+**[Daze Monster](spells/dazeMonster#_daze-monster)** : Living creature of 6 HD or less loses its next action.
+
+**[Hideous Laughter](spell_dir/hideousLaughter#_hideous-laughter)** : Subject loses actions for 1 round/level.
+
+**[Touch of Idiocy](spell_dir/touchOfIdiocy#_touch-of-idiocy)** : Subject takes 1d6 penalty to [Int](gettingStarted#_intelligence), [Wis](gettingStarted#_wisdom), and [Cha](gettingStarted#_charisma-new).
+
+### Evocation
+
+**[Continual Flame](spells/continualFlame#_continual-flame)** M: Makes a permanent, heatless light.
+
+**[Darkness](spell_dir/darkness#_darkness)** : 20-ft. radius of supernatural shadow.
+
+**[Flaming Sphere](spells/flamingSphere#_flaming-sphere)** : Rolling ball of fire deals 3d6 fire damage.
+
+**[Gust of Wind](spell_dir/gustOfWind#_gust-of-wind)** : Blows away or knocks down smaller creatures.
+
+**[Scorching Ray](spells/scorchingRay#_scorching-ray)** : Ranged touch attack deals 4d6 fire damage, + 1 ra_dir/four levels (max 3).
+
+**[Shatter](spells/shatter#_shatter)** : Sonic energy damages objects or crystalline creatures.
+
+### Illusion
+
+**[Blur](spell_dir/blur#_blur)** : Attacks miss subject 20% of the time.
+
+**[Hypnotic Pattern](spells/hypnoticPattern#_hypnotic-pattern)** : Fascinates 2d4 + level HD of creatures.
+
+**[Invisibility](spell_dir/invisibility#_invisibility)** : Subject is [invisible](glossary#_invisible) for 1 min./level or until it attacks.
+
+**[Magic Mouth](spell_dir/magicMouth#_magic-mouth)** M: Object speaks once when triggered.
+
+**[Minor Image](spells/minorImage#_minor-image)** : As _ [silent image](spell_dir/silentImage#_silent-image)_, plus some sound.
+
+**[Mirror Image](spells/mirrorImage#_mirror-image)** : Creates decoy duplicates of you.
+
+**[Misdirection](spell_dir/misdirection#_misdirection)** : Misleads divinations for 1 creature or object.
+
+**[Phantom Trap](spells/phantomTrap#_phantom-trap)** M: Makes item seem trapped.
+
+### Necromancy
+
+**[Blindnes_dir/Deafness](spells/blindnessDeafness#_blindness-deafness)** : Makes subject [blinded](glossary#_blinded) or [deafened](glossary#_deafened).
+
+**[Command Undead](spell_dir/commandUndead#_command-undead)** : Undead creature obeys your commands.
+
+**[False Life](spells/falseLife#_false-life)** : Gain 1d10 temporary hp + 1/level (max +10).
+
+**[Ghoul Touch](spell_dir/ghoulTouch#_ghoul-touch)** : Paralyzes one subject, which exudes stench that makes those nearby [sickened](glossary#_sickened).
+
+**[Scare](spells/scare#_scare)** : Frightens creatures of less than 6 HD.
+
+**[Spectral Hand](spell_dir/spectralHand#_spectral-hand)** : Creates disembodied glowing hand to deliver touch attacks.
+
+### Transmutation
+
+**[Alter Self](spells/alterSelf#_alter-self)** : Assume form of a Small or Medium humanoid.
+
+**[Bear's Endurance](spell_dir/bearSEndurance#_bear-s-endurance)** : Subject gains +4 to [Con](gettingStarted#_constitution) for 1 min./level.
+
+**[Bull's Strength](spell_dir/bullSStrength#_bull-s-strength)** : Subject gains +4 to [Str](gettingStarted#_strength) for 1 min./level.
+
+**[Cat's Grace](spell_dir/catSGrace#_cat-s-grace)** : Subject gains +4 to [Dex](gettingStarted#_dexterity) for 1 min./level.
+
+**[Darkvision](spell_dir/darkvision#_darkvision)** : See 60 ft. in total darkness.
+
+**[Eagle's Splendor](spells/eagleSSplendor#_eagle-s-splendor)** : Subject gains +4 to [Cha](gettingStarted#_charisma-new) for 1 min./level.
+
+**[Fox's Cunning](spell_dir/foxSCunning#_fox-s-cunning)** : Subject gains +4 to [Int](gettingStarted#_intelligence) for 1 min./level.
+
+**[Knock](spell_dir/knock#_knock)** : Opens locked or magically sealed door.
+
+**[Levitate](spells/levitate#_levitate)** : Subject moves up and down at your direction.
+
+**[Make Whole](spell_dir/makeWhole#_make-whole)** : Repairs an object.
+
+**[Owl's Wisdom](spells/owlSWisdom#_owl-s-wisdom)** : Subject gains +4 to [Wis](gettingStarted#_wisdom) for 1 min./level.
+
+**[Pyrotechnics](spell_dir/pyrotechnics#_pyrotechnics)** : Turns fire into blinding light or thick smoke.
+
+**[Rope Trick](spells/ropeTrick#_rope-trick)** : As many as eight creatures hide in extradimensional space.
+
+**[Spider Climb](spell_dir/spiderClimb#_spider-climb)** : Grants ability to walk on walls and ceilings.
+
+**[Whispering Wind](spells/whisperingWind#_whispering-wind)** : Sends a short message 1 mil_dir/level.
 
 ## 3rd-Level Sorcerer/Wizard Spells
 
 ### Abjuration
 
-**[Dispel Magic](spell_dir/dispelMagic#_dispel-magic** : Cancels one magical spell or effect.
+**[Dispel Magic](spell_dir/dispelMagic#_dispel-magic)** : Cancels one magical spell or effect.
 
-**[Explosive Runes](spell_dir/explosiveRunes#_explosive-runes** : Deals 6d6 damage when read.
+**[Explosive Runes](spells/explosiveRunes#_explosive-runes)** : Deals 6d6 damage when read.
 
-**[Magic Circle against Chaos/Evil/Good/Law](spell_dir/magicCircleAgainstChaos#_magic-circle-against-chaos** : As _protection _spells, but 10-ft. radius and 10 min./level.
+**[Magic Circle against Chao_dir/Evil/Goo_dir/Law](spells/magicCircleAgainstChaos#_magic-circle-against-chaos)** : As _protection _spells, but 10-ft. radius and 10 min./level.
 
-**[Nondetection](spell_dir/nondetection#_nondetection** M: Hides subject from divination, [scrying](spell_dir/scrying#_scrying.
+**[Nondetection](spell_dir/nondetection#_nondetection)** M: Hides subject from divination, [scrying](spells/scrying#_scrying).
 
-**[Protection from Energy](spell_dir/protectionFromEnergy#_protection-from-energy** : Absorbs 12 points/level of damage from one kind of energy.
+**[Protection from Energy](spell_dir/protectionFromEnergy#_protection-from-energy)** : Absorbs 12 points/level of damage from one kind of energy.
 
 ### Conjuration
 
-**[Phantom Steed](spell_dir/phantomSteed#_phantom-steed** : Magic horse appears for 1 hour/level.
+**[Phantom Steed](spell_dir/phantomSteed#_phantom-steed)** : Magic horse appears for 1 hour/level.
 
-**[Sepia Snake Sigil](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil** M: Creates text symbol that immobilizes reader.
+**[Sepia Snake Sigil](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil)** M: Creates text symbol that immobilizes reader.
 
-**[Sleet Storm](spell_dir/sleetStorm#_sleet-storm** : Hampers vision and movement.
+**[Sleet Storm](spells/sleetStorm#_sleet-storm)** : Hampers vision and movement.
 
-**[Stinking Cloud](spell_dir/stinkingCloud#_stinking-cloud** : Nauseating vapors, 1 round/level.
+**[Stinking Cloud](spell_dir/stinkingCloud#_stinking-cloud)** : Nauseating vapors, 1 round/level.
 
-**[Summon Monster III](spell_dir/summonMonster#_summon-monster-iii** : Summons extraplanar creature to fight for you.
+**[Summon Monster III](spell_dir/summonMonster#_summon-monster-iii)** : Summons extraplanar creature to fight for you.
 
 ### Divination
 
-**[Arcane Sight](spell_dir/arcaneSight#_arcane-sight** : Magical auras become visible to you.
+**[Arcane Sight](spells/arcaneSight#_arcane-sight)** : Magical auras become visible to you.
 
-**[Clairaudience/Clairvoyance](spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance** : Hear or see at a distance for 1 min./level.
+**[Clairaudienc_dir/Clairvoyance](spells/clairaudienceClairvoyance#_clairaudience-clairvoyance)** : Hear or see at a distance for 1 min./level.
 
-**[Tongues](spell_dir/tongues#_tongues** : Speak and understand any language.
+**[Tongues](spell_dir/tongues#_tongues)** : Speak and understand any language.
 
 ### Enchantment
 
-**[Deep Slumber](spell_dir/deepSlumber#_deep-slumber** : Puts 10 HD of creatures to [sleep](spell_dir/sleep#_sleep.
+**[Deep Slumber](spells/deepSlumber#_deep-slumber)** : Puts 10 HD of creatures to [sleep](spell_dir/sleep#_sleep).
 
-**[Heroism](spell_dir/heroism#_heroism** : Gives +2 bonus on attack rolls, saves, skill checks.
+**[Heroism](spells/heroism#_heroism)** : Gives +2 bonus on attack rolls, saves, skill checks.
 
-**[Hold Person](spell_dir/holdPerson#_hold-person** : Paralyzes one humanoid for 1 round/level.
+**[Hold Person](spell_dir/holdPerson#_hold-person)** : Paralyzes one humanoid for 1 round/level.
 
-**[Rage](spell_dir/rage#_rage)** : Gives +2 to [Str](gettingStarted#_strength) and [Con](gettingStarted#_constitution), +1 on [Will](combat#_will) saves, –2 to [AC](combat#_armor-class.
+**[Rage](spell_dir/rage#_rage)** : Gives +2 to [Str](gettingStarted#_strength) and [Con](gettingStarted#_constitution), +1 on [Will](combat#_will) saves, –2 to [AC](combat#_armor-class).
 
-**[Suggestion](spell_dir/suggestion#_suggestion** : Compels a subject to follow stated course of action.
+**[Suggestion](spells/suggestion#_suggestion)** : Compels a subject to follow stated course of action.
 
 ### Evocation
 
-**[Daylight](spell_dir/daylight#_daylight** : 60-ft. radius of bright light.
+**[Daylight](spell_dir/daylight#_daylight)** : 60-ft. radius of bright light.
 
-**[Fireball](spell_dir/fireball#_fireball** : 1d6 damage per level, 20-ft. radius.
+**[Fireball](spells/fireball#_fireball)** : 1d6 damage per level, 20-ft. radius.
 
-**[Lightning Bolt](spell_dir/lightningBolt#_lightning-bolt** : Electricity deals 1d6/level damage.
+**[Lightning Bolt](spell_dir/lightningBolt#_lightning-bolt)** : Electricity deals 1d6/level damage.
 
-**[Tiny Hut](spell_dir/tinyHut#_tiny-hut** : Creates shelter for 10 creatures.
+**[Tiny Hut](spell_dir/tinyHut#_tiny-hut)** : Creates shelter for 10 creatures.
 
-**[Wind Wall](spell_dir/windWall#_wind-wall** : Deflects arrows, smaller creatures, and gases.
+**[Wind Wall](spells/windWall#_wind-wall)** : Deflects arrows, smaller creatures, and gases.
 
 ### Illusion
 
-**[Displacement](spell_dir/displacement#_displacement** : Attacks miss subject 50% of the time.
+**[Displacement](spell_dir/displacement#_displacement)** : Attacks miss subject 50% of the time.
 
-**[Illusory Script](spell_dir/illusoryScript#_illusory-script** M: Only select creatures can read text.
+**[Illusory Script](spells/illusoryScript#_illusory-script)** M: Only select creatures can read text.
 
-**[Invisibility Sphere](spell_dir/invisibilitySphere#_invisibility-sphere)** : Makes everyone within 10 ft. [invisible](glossary#_invisible.
+**[Invisibility Sphere](spell_dir/invisibilitySphere#_invisibility-sphere)** : Makes everyone within 10 ft. [invisible](glossary#_invisible).
 
-**[Major Image](spell_dir/majorImage#_major-image** : As _ [silent image](spell_dir/silentImage#_silent-image_, plus sound, smell and thermal effects.
+**[Major Image](spells/majorImage#_major-image)** : As _ [silent image](spell_dir/silentImage#_silent-image)_, plus sound, smell and thermal effects.
 
 ### Necromancy
 
-**[Gentle Repose](spell_dir/gentleRepose#_gentle-repose** : Preserves one corpse.
+**[Gentle Repose](spells/gentleRepose#_gentle-repose)** : Preserves one corpse.
 
-**[Halt Undead](spell_dir/haltUndead#_halt-undead-copy** : Immobilizes undead for 1 round/level.
+**[Halt Undead](spell_dir/haltUndead#_halt-undead-copy)** : Immobilizes undead for 1 round/level.
 
-**[Ray of Exhaustion](spell_dir/rayOfExhaustion#_ray-of-exhaustion)** : Ray makes subject [exhausted](glossary#_exhausted.
+**[Ray of Exhaustion](spell_dir/rayOfExhaustion#_ray-of-exhaustion)** : Ray makes subject [exhausted](glossary#_exhausted).
 
-**[Vampiric Touch](spell_dir/vampiricTouch#_vampiric-touch** : Touch deals 1d6 damage per two levels; caster gains damage as temporary hp.
+**[Vampiric Touch](spells/vampiricTouch#_vampiric-touch)** : Touch deals 1d6 damage per two levels; caster gains damage as temporary hp.
 
 ### Transmutation
 
-**[Beast Shape I](spell_dir/beastShape#_beast-shape-i** : You take the form and some of the powers of a Small or Medium animal.
+**[Beast Shape I](spell_dir/beastShape#_beast-shape-i)** : You take the form and some of the powers of a Small or Medium animal.
 
-**[Blink](spell_dir/blink#_blink** : You randomly vanish and reappear for 1 round per level.
+**[Blink](spells/blink#_blink)** : You randomly vanish and reappear for 1 round per level.
 
-**[Flame Arrow](spell_dir/flameArrow#_flame-arrow** : Arrows deal +1d6 fire damage.
+**[Flame Arrow](spell_dir/flameArrow#_flame-arrow)** : Arrows deal +1d6 fire damage.
 
-**[Fly](spell_dir/fly** : Subject flies at speed of 60 ft.
+**[Fly](spells/fly)** : Subject flies at speed of 60 ft.
 
-**[Gaseous Form](spell_dir/gaseousForm#_gaseous-form** : Subject becomes insubstantial and can fly slowly.
+**[Gaseous Form](spell_dir/gaseousForm#_gaseous-form)** : Subject becomes insubstantial and can fly slowly.
 
-**[Haste](spell_dir/haste#_haste** : One creatur_dir/level moves faster, +1 on attack rolls, [AC](combat#_armor-class), and [Reflex](combat#_reflex saves.
+**[Haste](spells/haste#_haste)** : One creatur_dir/level moves faster, +1 on attack rolls, [AC](combat#_armor-class), and [Reflex](combat#_reflex) saves.
 
-**[Keen Edge](spell_dir/keenEdge#_keen-edge** : Doubles normal weapon's threat range.
+**[Keen Edge](spells/keenEdge#_keen-edge)** : Doubles normal weapon's threat range.
 
-**[Magic Weapon, Greater](spell_dir/magicWeapon#_magic-weapon-greater** : Weapon gains +1 bonu_dir/four levels (max +5.
+**[Magic Weapon, Greater](spell_dir/magicWeapon#_magic-weapon-greater)** : Weapon gains +1 bonus/four levels (max +5).
 
-**[Secret Page](spell_dir/secretPage#_secret-page** : Changes one page to hide its real content.
+**[Secret Page](spell_dir/secretPage#_secret-page)** : Changes one page to hide its real content.
 
-**[Shrink Item](spell_dir/shrinkItem#_shrink-item** : Object shrinks to one-sixteenth size.
+**[Shrink Item](spells/shrinkItem#_shrink-item)** : Object shrinks to one-sixteenth size.
 
-**[Slow](spell_dir/slow#_slow** : One subject/level takes only one actio_dir/round, –1 to [AC](combat#_armor-class), [Reflex](combat#_reflex saves, and attack rolls.
+**[Slow](spell_dir/slow#_slow)** : One subject/level takes only one actio_dir/round, –1 to [AC](combat#_armor-class), [Reflex](combat#_reflex) saves, and attack rolls.
 
-**[Water Breathing](spell_dir/waterBreathing#_water-breathing** : Subjects can breathe underwater.
+**[Water Breathing](spells/waterBreathing#_water-breathing)** : Subjects can breathe underwater.
 
-## 4th-Level Sorcerer/Wizard Spells
+## 4th-Level Sorcere_dir/Wizard Spells
 
 ### Abjuration
 
-**[Dimensional Anchor](spell_dir/dimensionalAnchor#_dimensional-anchor** : Bars extradimensional movement.
+**[Dimensional Anchor](spells/dimensionalAnchor#_dimensional-anchor)** : Bars extradimensional movement.
 
-**[Fire Trap](spell_dir/fireTrap#_fire-trap** M: Opened object deals 1d4 damage + 1/level.
+**[Fire Trap](spell_dir/fireTrap#_fire-trap)** M: Opened object deals 1d4 damage + 1/level.
 
-**[Globe of Invulnerability, Lesser](spell_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser** : Stops 1st- through 3rd-level spell effects.
+**[Globe of Invulnerability, Lesser](spell_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser)** : Stops 1st- through 3rd-level spell effects.
 
-**[Remove Curse](spell_dir/removeCurse#_remove-curse** : Frees object or person from curse.
+**[Remove Curse](spells/removeCurse#_remove-curse)** : Frees object or person from curse.
 
-**[Stoneskin](spell_dir/stoneskin#_stoneskin)** M: Grants [DR](glossary#_damage-reduction 10/adamantine.
+**[Stoneskin](spell_dir/stoneskin#_stoneskin)** M: Grants [DR](glossary#_damage-reduction) 10/adamantine.
 
 ### Conjuration
 
-**[Black Tentacles](spell_dir/blackTentacles#_black-tentacles** : Tentacles grapple all creatures within a 20-ft. spread.
+**[Black Tentacles](spell_dir/blackTentacles#_black-tentacles)** : Tentacles grapple all creatures within a 20-ft. spread.
 
-**[Dimension Door](spell_dir/dimensionDoor#_dimension-door** : Teleports you a short distance.
+**[Dimension Door](spells/dimensionDoor#_dimension-door)** : Teleports you a short distance.
 
-**[Minor Creation](spell_dir/minorCreation#_minor-creation** : Creates one cloth or wood object.
+**[Minor Creation](spell_dir/minorCreation#_minor-creation)** : Creates one cloth or wood object.
 
-**[Secure Shelter](spell_dir/secureShelter#_secure-shelter** : Creates sturdy cottage.
+**[Secure Shelter](spells/secureShelter#_secure-shelter)** : Creates sturdy cottage.
 
-**[Solid Fog](spell_dir/solidFog#_solid-fog** : Blocks vision and slows movement.
+**[Solid Fog](spell_dir/solidFog#_solid-fog)** : Blocks vision and slows movement.
 
-**[Summon Monster IV](spell_dir/summonMonster#_summon-monster-iv** : Summons extraplanar creature to fight for you.
+**[Summon Monster IV](spells/summonMonster#_summon-monster-iv)** : Summons extraplanar creature to fight for you.
 
 ### Divination
 
-**[Arcane Eye](spell_dir/arcaneEye#_arcane-eye** : Invisible floating eye moves 30 ft./round.
+**[Arcane Eye](spell_dir/arcaneEye#_arcane-eye)** : Invisible floating eye moves 30 ft./round.
 
-**[Detect Scrying](spell_dir/detectScrying#_detect-scrying** : Alerts you to magical eavesdropping
+**[Detect Scrying](spell_dir/detectScrying#_detect-scrying)** : Alerts you to magical eavesdropping
 
-**[Locate Creature](spell_dir/locateCreature#_locate-creature** : Indicates direction to familiar creature.
+**[Locate Creature](spells/locateCreature#_locate-creature)** : Indicates direction to familiar creature.
 
-**[Scrying](spell_dir/scrying#_scrying** F: Spies on subject from a distance.
+**[Scrying](spell_dir/scrying#_scrying)** F: Spies on subject from a distance.
 
 ### Enchantment
 
-**[Charm Monster](spell_dir/charmMonster#_charm-monster** : Makes monster believe it is your ally.
+**[Charm Monster](spells/charmMonster#_charm-monster)** : Makes monster believe it is your ally.
 
-**[Confusion](spell_dir/confusion#_confusion** : Subjects behave oddly for 1 round/level.
+**[Confusion](spell_dir/confusion#_confusion)** : Subjects behave oddly for 1 round/level.
 
-**[Crushing Despair](spell_dir/crushingDespair#_crushing-despair** : Subjects take –2 on attack rolls, damage rolls, saves, and checks.
+**[Crushing Despair](spell_dir/crushingDespair#_crushing-despair)** : Subjects take –2 on attack rolls, damage rolls, saves, and checks.
 
-**[Geas, Lesser](spell_dir/geasQuest#_geas-lesser** : Commands subject of 7 HD or less.
+**[Geas, Lesser](spells/geasQuest#_geas-lesser)** : Commands subject of 7 HD or less.
 
 ### Evocation
 
-**[Fire Shield](spell_dir/fireShield#_fire-shield** : Creatures attacking you take fire damage; you're protected from heat or cold.
+**[Fire Shield](spell_dir/fireShield#_fire-shield)** : Creatures attacking you take fire damage; you're protected from heat or cold.
 
-**[Ice Storm](spell_dir/iceStorm#_ice-storm** : Hail deals 5d6 damage in cylinder 40 ft. across.
+**[Ice Storm](spells/iceStorm#_ice-storm)** : Hail deals 5d6 damage in cylinder 40 ft. across.
 
-**[Resilient Sphere](spell_dir/resilientSphere#_resilient-sphere** : Force globe protects but traps one subject.
+**[Resilient Sphere](spell_dir/resilientSphere#_resilient-sphere)** : Force globe protects but traps one subject.
 
-**[Shout](spell_dir/shout#_shout** : Deafens all within cone and deals 5d6 sonic damage.
+**[Shout](spells/shout#_shout)** : Deafens all within cone and deals 5d6 sonic damage.
 
-**[Wall of Fire](spell_dir/wallOfFire#_wall-of-fire** : Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage + 1/level.
+**[Wall of Fire](spell_dir/wallOfFire#_wall-of-fire)** : Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage + 1/level.
 
-**[Wall of Ice](spell_dir/wallOfIce#_wall-of-ice** : _Ice plane _creates wall or _hemisphere _creates dome.
+**[Wall of Ice](spell_dir/wallOfIce#_wall-of-ice)** : _Ice plane _creates wall or _hemisphere _creates dome.
 
 ### Illusion
 
-**[Hallucinatory Terrain](spell_dir/hallucinatoryTerrain#_hallucinatory-terrain)** : Makes one type of terrain appear like another (field as forest, or the like.
+**[Hallucinatory Terrain](spells/hallucinatoryTerrain#_hallucinatory-terrain)** : Makes one type of terrain appear like another (field as forest, or the like).
 
-**[Illusory Wall](spell_dir/illusoryWall#_illusory-wall** : Wall, floor, or ceiling looks real, but anything can pass through.
+**[Illusory Wall](spell_dir/illusoryWall#_illusory-wall)** : Wall, floor, or ceiling looks real, but anything can pass through.
 
-**[Invisibility, Greater](spell_dir/invisibility#_invisibility-greater** : As _ [invisibility](spell_dir/invisibility#_invisibility), _but subject can attack and stay [invisible](glossary#_invisible.
+**[Invisibility, Greater](spells/invisibility#_invisibility-greater)** : As _ [invisibility](spell_dir/invisibility#_invisibility), _but subject can attack and stay [invisible](glossary#_invisible).
 
-**[Phantasmal Killer](spell_dir/phantasmalKiller#_phantasmal-killer** : Fearsome illusion kills subject or deals 3d6 damage.
+**[Phantasmal Killer](spells/phantasmalKiller#_phantasmal-killer)** : Fearsome illusion kills subject or deals 3d6 damage.
 
-**[Rainbow Pattern](spell_dir/rainbowPattern#_rainbow-pattern** : Lights fascinate 24 HD of creatures.
+**[Rainbow Pattern](spell_dir/rainbowPattern#_rainbow-pattern)** : Lights fascinate 24 HD of creatures.
 
-**[Shadow Conjuration](spell_dir/shadowConjuration#_shadow-conjuration** : Mimics conjuration below 4th level, but only 20% real.
+**[Shadow Conjuration](spells/shadowConjuration#_shadow-conjuration)** : Mimics conjuration below 4th level, but only 20% real.
 
 ### Necromancy
 
-**[Animate Dead](spell_dir/animateDead#_animate-dead** M: Creates undead skeletons and zombies out of corpses.
+**[Animate Dead](spell_dir/animateDead#_animate-dead)** M: Creates undead skeletons and zombies out of corpses.
 
-**[Bestow Curse](spell_dir/bestowCurse#_bestow-curse** : –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
+**[Bestow Curse](spells/bestowCurse#_bestow-curse)** : –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 
-**[Contagion](spell_dir/contagion#_contagion** : Infects subject with chosen disease.
+**[Contagion](spell_dir/contagion#_contagion)** : Infects subject with chosen disease.
 
-**[Enervation](spell_dir/enervation#_enervation)** : Subject gains 1d4 [negative levels](glossary#_energy-drain-and-negative-levels.
+**[Enervation](spells/enervation#_enervation)** : Subject gains 1d4 [negative levels](glossary#_energy-drain-and-negative-levels).
 
-**[Fear](spell_dir/fear#_fear** : Subjects within cone flee for 1 round/level.
+**[Fear](spell_dir/fear#_fear)** : Subjects within cone flee for 1 round/level.
 
 ### Transmutation
 
-**[Beast Shape II](spell_dir/beastShape#_beast-shape-ii** : You take the form and some of the powers of a Tiny or Large animal.
+**[Beast Shape II](spell_dir/beastShape#_beast-shape-ii)** : You take the form and some of the powers of a Tiny or Large animal.
 
-**[Elemental Body I](spell_dir/elementalBody#_elemental-body-i** : Turns you into a Small elemental.
+**[Elemental Body I](spells/elementalBody#_elemental-body-i)** : Turns you into a Small elemental.
 
-**[Enlarge Person, Mass](spell_dir/enlargePerson#_enlarge-person-mass** : 1 humanoid creature/level doubles in size.
+**[Enlarge Person, Mass](spell_dir/enlargePerson#_enlarge-person-mass)** : 1 humanoid creature/level doubles in size.
 
-**[Mnemonic Enhancer](spell_dir/mnemonicEnhancer#_mnemonic-enhancer** F: _Wizard only. _Prepare extra spells or retain one just cast.
+**[Mnemonic Enhancer](spell_dir/mnemonicEnhancer#_mnemonic-enhancer)** F: _Wizard only. _Prepare extra spells or retain one just cast.
 
-**[Reduce Person, Mass](spell_dir/reducePerson#_reduce-person-mass** : As _ [reduce person](spell_dir/reducePerson#_reduce-person_, but affects 1 humanoid creature/level.
+**[Reduce Person, Mass](spells/reducePerson#_reduce-person-mass)** : As _ [reduce person](spell_dir/reducePerson#_reduce-person)_, but affects 1 humanoid creature/level.
 
-**[Stone Shape](spell_dir/stoneShape#_stone-shape** : Sculpts stone into any shape.
+**[Stone Shape](spell_dir/stoneShape#_stone-shape)** : Sculpts stone into any shape.
 
 ## 5th-Level Sorcerer/Wizard Spells
 
 ### Abjuration
 
-**[Break Enchantment](spell_dir/breakEnchantment#_break-enchantment** : Frees subjects from enchantments, transmutations, and curses.
+**[Break Enchantment](spell_dir/breakEnchantment#_break-enchantment)** : Frees subjects from enchantments, transmutations, and curses.
 
-**[Dismissal](spell_dir/dismissal#_dismissal** : Forces a creature to return to its native plane.
+**[Dismissal](spells/dismissal#_dismissal)** : Forces a creature to return to its native plane.
 
-**[Mage's Private Sanctum](spell_dir/mageSPrivateSanctum#_mage-s-private-sanctum** : Prevents anyone from viewing or [scrying](spell_dir/scrying#_scrying an area for 24 hours.
+**[Mage's Private Sanctum](spell_dir/mageSPrivateSanctum#_mage-s-private-sanctum)** : Prevents anyone from viewing or [scrying](spells/scrying#_scrying) an area for 24 hours.
 
 ### Conjuration
 
-**[Cloudkill](spell_dir/cloudkill#_cloudkill)** : Kills 3 HD or less; 4–6 HD save or die, 6+ HD take [Con](gettingStarted#_constitution damage.
+**[Cloudkill](spell_dir/cloudkill#_cloudkill)** : Kills 3 HD or less; 4–6 HD save or die, 6+ HD take [Con](gettingStarted#_constitution) damage.
 
-**[Mage's Faithful Hound](spell_dir/mageSFaithfulHound#_mage-s-faithful-hound** : Phantom dog can guard a location and attack intruders.
+**[Mage's Faithful Hound](spells/mageSFaithfulHound#_mage-s-faithful-hound)** : Phantom dog can guard a location and attack intruders.
 
-**[Major Creation](spell_dir/majorCreation#_major-creation** : As _ [minor creation](spell_dir/minorCreation#_minor-creation, _plus stone and metal.
+**[Major Creation](spell_dir/majorCreation#_major-creation)** : As _ [minor creation](spells/minorCreation#_minor-creation), _plus stone and metal.
 
-**[Planar Binding, Lesser](spell_dir/planarBinding#_planar-binding-lesser** : Traps extraplanar creature of 6 HD or less until it performs a task.
+**[Planar Binding, Lesser](spell_dir/planarBinding#_planar-binding-lesser)** : Traps extraplanar creature of 6 HD or less until it performs a task.
 
-**[Secret Chest](spell_dir/secretChest#_secret-chest** F: Hides expensive chest on Ethereal Plane; you retrieve it at will.
+**[Secret Chest](spells/secretChest#_secret-chest)** F: Hides expensive chest on Ethereal Plane; you retrieve it at will.
 
-**[Summon Monster V](spell_dir/summonMonster#_summon-monster-v** : Summons extraplanar creature to fight for you.
+**[Summon Monster V](spell_dir/summonMonster#_summon-monster-v)** : Summons extraplanar creature to fight for you.
 
-**[Teleport](spell_dir/teleport#_teleport** : Instantly transports you as far as 100 miles per level.
+**[Teleport](spells/teleport#_teleport)** : Instantly transports you as far as 100 miles per level.
 
-**[Wall of Stone](spell_dir/wallOfStone#_wall-of-stone** : Creates a stone wall that can be shaped.
+**[Wall of Stone](spell_dir/wallOfStone#_wall-of-stone)** : Creates a stone wall that can be shaped.
 
 ### Divination
 
-**[Contact Other Plane](spell_dir/contactOtherPlane#_contact-other-plane** : Lets you ask question of extraplanar entity.
+**[Contact Other Plane](spells/contactOtherPlane#_contact-other-plane)** : Lets you ask question of extraplanar entity.
 
-**[Prying Eyes](spell_dir/pryingEyes#_prying-eyes** : 1d4 + 1/level floating eyes scout for you.
+**[Prying Eyes](spell_dir/pryingEyes#_prying-eyes)** : 1d4 + 1/level floating eyes scout for you.
 
-**[Telepathic Bond](spell_dir/telepathicBond#_telepathic-bond** : Link lets allies communicate.
+**[Telepathic Bond](spell_dir/telepathicBond#_telepathic-bond)** : Link lets allies communicate.
 
 ### Enchantment
 
-**[Dominate Person](spell_dir/dominatePerson#_dominate-person** : Controls humanoid telepathically.
+**[Dominate Person](spells/dominatePerson#_dominate-person)** : Controls humanoid telepathically.
 
-**[Feeblemind](spell_dir/feeblemind#_feeblemind)** : Subject's [Int](gettingStarted#_intelligence) and [Cha](gettingStarted#_charisma-new drop to 1.
+**[Feeblemind](spell_dir/feeblemind#_feeblemind)** : Subject's [Int](gettingStarted#_intelligence) and [Cha](gettingStarted#_charisma-new) drop to 1.
 
-**[Hold Monster](spell_dir/holdMonster#_hold-monster** : As _ [hold person](spell_dir/holdPerson#_hold-person_, but any creature.
+**[Hold Monster](spells/holdMonster#_hold-monster)** : As _ [hold person](spell_dir/holdPerson#_hold-person)_, but any creature.
 
-**[Mind Fog](spell_dir/mindFog#_mind-fog)** : Subjects in fog get –10 to [Wis](gettingStarted#_wisdom) and [Will](combat#_will checks.
+**[Mind Fog](spells/mindFog#_mind-fog)** : Subjects in fog get –10 to [Wis](gettingStarted#_wisdom) and [Will](combat#_will) checks.
 
-**[Symbol of Sleep](spell_dir/symbolOfSleep#_symbol-of-sleep** M: Triggered rune puts nearby creatures into catatonic slumber.
+**[Symbol of Sleep](spell_dir/symbolOfSleep#_symbol-of-sleep)** M: Triggered rune puts nearby creatures into catatonic slumber.
 
 ### Evocation
 
-**[Cone of Cold](spell_dir/coneOfCold#_cone-of-cold** : 1d6/level cold damage.
+**[Cone of Cold](spells/coneOfCold#_cone-of-cold)** : 1d6/level cold damage.
 
-**[Interposing Hand](spell_dir/interposingHand#_interposing-hand** : Hand provides cover against 1 opponent.
+**[Interposing Hand](spell_dir/interposingHand#_interposing-hand)** : Hand provides cover against 1 opponent.
 
-**[Sending](spell_dir/sending#_sending** : Delivers short message anywhere, instantly.
+**[Sending](spells/sending#_sending)** : Delivers short message anywhere, instantly.
 
-**[Wall of Force](spell_dir/wallOfForce#_wall-of-force** : Wall is immune to damage.
+**[Wall of Force](spell_dir/wallOfForce#_wall-of-force)** : Wall is immune to damage.
 
 ### Illusion
 
-**[Dream](spell_dir/dream#_dream** : Sends message to anyone sleeping.
+**[Dream](spells/dream#_dream)** : Sends message to anyone sleeping.
 
-**[False Vision](spell_dir/falseVision#_false-vision** M: Fools [scrying](spell_dir/scrying#_scrying with an illusion.
+**[False Vision](spell_dir/falseVision#_false-vision)** M: Fools [scrying](spells/scrying#_scrying) with an illusion.
 
-**[Mirage Arcana](spell_dir/mirageArcana#_mirage-arcana** : As _ [hallucinatory terrain](spell_dir/hallucinatoryTerrain#_hallucinatory-terrain, _plus structures.
+**[Mirage Arcana](spell_dir/mirageArcana#_mirage-arcana)** : As _ [hallucinatory terrain](spells/hallucinatoryTerrain#_hallucinatory-terrain), _plus structures.
 
-**[Nightmare](spell_dir/nightmare#_nightmare** : Sends vision dealing 1d10 damage, fatigue.
+**[Nightmare](spell_dir/nightmare#_nightmare)** : Sends vision dealing 1d10 damage, fatigue.
 
-**[Persistent Image](spell_dir/persistentImage#_persistent-image** : As _ [major image](spell_dir/majorImage#_major-image_, but with no concentration required.
+**[Persistent Image](spells/persistentImage#_persistent-image)** : As _ [major image](spell_dir/majorImage#_major-image)_, but with no concentration required.
 
-**[Seeming](spell_dir/seeming#_seeming** : Changes appearance of 1 person per 2 levels.
+**[Seeming](spells/seeming#_seeming)** : Changes appearance of 1 person per 2 levels.
 
-**[Shadow Evocation](spell_dir/shadowEvocation#_shadow-evocation** : Mimics evocation below 5th level, but only 20% real.
+**[Shadow Evocation](spell_dir/shadowEvocation#_shadow-evocation)** : Mimics evocation below 5th level, but only 20% real.
 
 ### Necromancy
 
-**[Blight](spell_dir/blight#_blight** : Withers one plant or deals 1d6/level damage to plant creature.
+**[Blight](spells/blight#_blight)** : Withers one plant or deals 1d6/level damage to plant creature.
 
-**[Magic Jar](spell_dir/magicJar#_magic-jar** F: Enables possession of another creature.
+**[Magic Jar](spell_dir/magicJar#_magic-jar)** F: Enables possession of another creature.
 
-**[Symbol of Pain](spell_dir/symbolOfPain#_symbol-of-pain** M: Triggered rune wracks creatures with pain.
+**[Symbol of Pain](spells/symbolOfPain#_symbol-of-pain)** M: Triggered rune wracks creatures with pain.
 
-**[Waves of Fatigue](spell_dir/wavesOfFatigue#_waves-of-fatigue)** : Several targets become [fatigued](glossary#_fatigued.
+**[Waves of Fatigue](spell_dir/wavesOfFatigue#_waves-of-fatigue)** : Several targets become [fatigued](glossary#_fatigued).
 
 ### Transmutation
 
-**[Animal Growth](spell_dir/animalGrowth#_animal-growth** : One animal doubles in size.
+**[Animal Growth](spells/animalGrowth#_animal-growth)** : One animal doubles in size.
 
-**[Baleful Polymorph](spell_dir/balefulPolymorph#_baleful-polymorph** : Turns subject into harmless animal.
+**[Baleful Polymorph](spell_dir/balefulPolymorph#_baleful-polymorph)** : Turns subject into harmless animal.
 
-**[Beast Shape III](spell_dir/beastShape#_beast-shape-iii** : You take the form of a Diminutive or Huge animal, or Small or Medium magical beast.
+**[Beast Shape III](spells/beastShape#_beast-shape-iii)** : You take the form of a Diminutive or Huge animal, or Small or Medium magical beast.
 
-**[Elemental Body II](spell_dir/elementalBody#_elemental-body-ii** : Turns you into a Medium elemental.
+**[Elemental Body II](spell_dir/elementalBody#_elemental-body-ii)** : Turns you into a Medium elemental.
 
-**[Fabricate](spell_dir/fabricate#_fabricate** M: Transforms raw materials into finished items.
+**[Fabricate](spells/fabricate#_fabricate)** M: Transforms raw materials into finished items.
 
-**[Overland Flight](spell_dir/overlandFlight#_overland-flight** : You fly at a speed of 40 ft. and can hustle over long distances.
+**[Overland Flight](spell_dir/overlandFlight#_overland-flight)** : You fly at a speed of 40 ft. and can hustle over long distances.
 
-**[Passwall](spell_dir/passwall#_passwall** : Creates passage through wood or stone wall.
+**[Passwall](spells/passwall#_passwall)** : Creates passage through wood or stone wall.
 
-**[Plant Shape I](spell_dir/plantShape#_plant-shape-i** : Turns you into a Small or Medium plant.
+**[Plant Shape I](spell_dir/plantShape#_plant-shape-i)** : Turns you into a Small or Medium plant.
 
-**[Polymorph](spell_dir/polymorph#_polymorph** : Gives one willing subject a new form.
+**[Polymorph](spells/polymorph#_polymorph)** : Gives one willing subject a new form.
 
-**[Telekinesis](spell_dir/telekinesis#_telekinesis** : Moves object, attacks creature, or hurls object or creature.
+**[Telekinesis](spell_dir/telekinesis#_telekinesis)** : Moves object, attacks creature, or hurls object or creature.
 
-**[Transmute Mud to Rock](spell_dir/transmuteMudToRock#_transmute-mud-to-rock** : Transforms two 10-ft. cubes per level.
+**[Transmute Mud to Rock](spells/transmuteMudToRock#_transmute-mud-to-rock)** : Transforms two 10-ft. cubes per level.
 
-**[Transmute Rock to Mud](spell_dir/transmuteRockToMud#_transmute-rock-to-mud** : Transforms two 10-ft. cubes per level.
+**[Transmute Rock to Mud](spell_dir/transmuteRockToMud#_transmute-rock-to-mud)** : Transforms two 10-ft. cubes per level.
 
 ### Universal
 
-**[Permanency](spell_dir/permanency#_permanency** M: Makes certain spells permanent.
+**[Permanency](spells/permanency#_permanency)** M: Makes certain spells permanent.
 
-## 6th-Level Sorcerer/Wizard Spells
-
-### Abjuration
-
-**[Antimagic Field](spell_dir/antimagicField#_antimagic-field** : Negates magic within 10 ft.
-
-**[Dispel Magic, Greater](spell_dir/dispelMagic#_dispel-magic-greater** : As _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, but with multiple targets.
-
-**[Globe of Invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability** : As _ [lesser globe of invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser_, plus 4th-level spell effects.
-
-**[Guards and Wards](spell_dir/guardsAndWards#_guards-and-wards** : Array of magic effects protect area.
-
-**[Repulsion](spell_dir/repulsion#_repulsion** F: Creatures can't approach you.
-
-### Conjuration
-
-**[Acid Fog](spell_dir/acidFog#_acid-fog** : Fog deals acid damage.
-
-**[Planar Binding](spell_dir/planarBinding#_planar-binding** : As _ [lesser planar binding](spell_dir/planarBinding#_planar-binding-lesser, _but up to 12 HD.
-
-**[Summon Monster VI](spell_dir/summonMonster#_summon-monster-vi** : Summons extraplanar creature to fight for you.
-
-**[Wall of Iron](spell_dir/wallOfIron#_wall-of-iron** M: 30 hp/four levels; can topple onto foes.
-
-### Divination
-
-**[Analyze Dweomer](spell_dir/analyzeDweomer#_analyze-dweomer** F: Reveals magical aspects of subject.
-
-**[Legend Lore](spell_dir/legendLore#_legend-lore** MF: Lets you learn tales about a person, place, or thing.
-
-**[True Seeing](spell_dir/trueSeeing#_true-seeing** M: Lets you see all things as they really are.
-
-### Enchantment
-
-**[Geas/Quest](spell_dir/geasQuest#_geas-quest** : As _lesser geas, _but affects any creature.
-
-**[Heroism, Greater](spell_dir/heroism#_heroism-greater** : Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
-
-**[Suggestion, Mass](spell_dir/suggestion#_suggestion-mass** : As _ [suggestion](spell_dir/suggestion#_suggestion, _affects 1 subject/level.
-
-**[Symbol of Persuasion](spell_dir/symbolOfPersuasion#_symbol-of-persuasion** M: Triggered rune charms creatures.
-
-### Evocation
-
-**[Chain Lightning](spell_dir/chainLightning#_chain-lightning** : 1d6/level damage and 1 secondary bolt/level.
-
-**[Contingency](spell_dir/contingency#_contingency** F: Sets trigger condition for another spell.
-
-**[Forceful Hand](spell_dir/forcefulHand#_forceful-hand** : Hand pushes creatures away.
-
-**[Freezing Sphere](spell_dir/freezingSphere#_freezing-sphere** : Freezes water or deals cold damage.
-
-### Illusion
-
-**[Mislead](spell_dir/mislead#_mislead)** : Turns you [invisible](glossary#_invisible and creates illusory double.
-
-**[Permanent Image](spell_dir/permanentImage#_permanent-image** : Permanent illusion, includes sight, sound, smell, and thermal effects.
-
-**[Programmed Image](spell_dir/programmedImage#_programmed-image** M: As _ [major image](spell_dir/majorImage#_major-image_, but triggered by event.
-
-**[Shadow Walk](spell_dir/shadowWalk#_shadow-walk** : Step into shadow to travel rapidly.
-
-**[Veil](spell_dir/veil#_veil** : Changes appearance of a group of creatures.
-
-### Necromancy
-
-**[Circle of Death](spell_dir/circleOfDeath#_circle-of-death** M: Kills 1d4/level HD of creatures.
-
-**[Create Undead](spell_dir/createUndead#_create-undead** M: Raises ghouls, ghasts, mummies, or mohrgs from physical remains.
-
-**[Eyebite](spell_dir/eyebite#_eyebite)** : Target becomes [panicked](glossary#_panicked), [sickened](glossary#_sickened, and comatose.
-
-**[Symbol of Fear](spell_dir/symbolOfPain#_symbol-of-pain** M: Triggered rune panics nearby creatures.
-
-**[Undeath to Death](spell_dir/undeathToDeath#_undeath-to-death** M: Destroys 1d4/level HD of undead (max. 20d4).
-
-### Transmutation
-
-**[Bear's Endurance, Mass](spell_dir/bearSEndurance#_bear-s-endurance-mass** : As _ [bear's endurance](spell_dir/bearSEndurance#_bear-s-endurance_, affects one subject/level.
-
-**[Beast Shape IV](spell_dir/beastShape#_beast-shape-iv** : You take the form of a Diminutive to Huge animal or a Tiny to Large magical beast.
-
-**[Bull's Strength, Mass](spell_dir/bullSStrength#_bull-s-strength-mass** : As _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_, affects 1 subject per level.
-
-**[Cat's Grace, Mass](spell_dir/catSGrace#_cat-s-grace-mass** : As _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, affects 1 subject/level.
-
-**[Control Water](spell_dir/controlWater#_control-water** : Raises or lowers bodies of water.
-
-**[Disintegrate](spell_dir/disintegrate#_disintegrate** : Reduces one creature or object to dust.
-
-**[Eagle's Splendor, Mass](spell_dir/eagleSSplendor#_eagle-s-splendor-mass** : As _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor_, 1 subject/level.
-
-**[Elemental Body III](spell_dir/elementalBody#_elemental-body-iii** : Turns you into a Large elemental.
-
-**[Flesh to Stone](spell_dir/fleshToStone#_flesh-to-stone** : Turns subject creature into statue.
-
-**[Form of the Dragon I](spell_dir/formOfTheDragon#_form-of-the-dragon-i** : Turns you into a Medium dragon.
-
-**[Fox's Cunning, Mass](spell_dir/foxSCunning#_fox-s-cunning-mass** : As _ [fox's cunning](spell_dir/foxSCunning#_fox-s-cunning_, affects 1 subject/ level.
-
-**[Mage's Lucubration](spell_dir/mageSLucubration#_mage-s-lucubration** : _Wizard only. _Recalls spell of 5th level or lower.
-
-**[Move Earth](spell_dir/moveEarth#_move-earth** : Digs trenches and builds hills.
-
-**[Owl's Wisdom, Mass](spell_dir/owlSWisdom#_owl-s-wisdom-mass** : As _ [owl's wisdom](spell_dir/owlSWisdom#_owl-s-wisdom_, affects 1 subject/level.
-
-**[Plant Shape II](spell_dir/plantShape#_plant-shape-ii** : Turns you into a Large plant creature.
-
-**[Stone to Flesh](spell_dir/stoneToFlesh#_stone-to-flesh)** : Restores [petrified](glossary#_petrified creature.
-
-**[Transformation](spell_dir/transformation#_transformation** M: You gain combat bonuses.
-
-## 7th-Level Sorcerer/Wizard Spells
+## 6th-Level Sorcere_dir/Wizard Spells
 
 ### Abjuration
 
-**[Banishment](spell_dir/banishment#_banishment** : Banishes 2 HD/level of extraplanar creatures.
+**[Antimagic Field](spells/antimagicField#_antimagic-field)** : Negates magic within 10 ft.
 
-**[Sequester](spell_dir/sequester#_sequester)** : Subject is [invisible](glossary#_invisible to sight and [scrying](spell_dir/scrying#_scrying; renders creature comatose.
+**[Dispel Magic, Greater](spell_dir/dispelMagic#_dispel-magic-greater)** : As _ [dispel magic](spells/dispelMagic#_dispel-magic)_, but with multiple targets.
 
-**[Spell Turning](spell_dir/spellTurning#_spell-turning** M: Reflect 1d4+6 spell levels back at caster.
+**[Globe of Invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability)** : As _ [lesser globe of invulnerability](spells/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, plus 4th-level spell effects.
+
+**[Guards and Wards](spell_dir/guardsAndWards#_guards-and-wards)** : Array of magic effects protect area.
+
+**[Repulsion](spells/repulsion#_repulsion)** F: Creatures can't approach you.
 
 ### Conjuration
 
-**[Instant Summons](spell_dir/instantSummons#_instant-summons** M: Prepared object appears in your hand.
+**[Acid Fog](spell_dir/acidFog#_acid-fog)** : Fog deals acid damage.
 
-**[Mage's Magnificent Mansion](spell_dir/mageSMagnificentMansion#_mage-s-magnificent-mansion** F: Door leads to extradimensional mansion.
+**[Planar Binding](spells/planarBinding#_planar-binding)** : As _ [lesser planar binding](spell_dir/planarBinding#_planar-binding-lesser), _but up to 12 HD.
 
-**[Phase Door](spell_dir/phaseDoor#_phase-door)** : Creates an [invisible](glossary#_invisible passage through a barrier.
+**[Summon Monster VI](spells/summonMonster#_summon-monster-vi)** : Summons extraplanar creature to fight for you.
 
-**[Plane Shift](spell_dir/planeShift#_plane-shift** F: As many as eight subjects travel to another plane.
-
-**[Summon Monster VII](spell_dir/summonMonster#_summon-monster-vii** : Summons extraplanar creature to fight for you.
-
-**[Teleport, Greater](spell_dir/teleport#_teleport-greater** : As _ [teleport](spell_dir/teleport#_teleport, _but no range limit and no off-target arrival.
-
-**[Teleport Object](spell_dir/teleportObject#_teleport-object** : As _ [teleport](spell_dir/teleport#_teleport, _but affects a touched object.
+**[Wall of Iron](spell_dir/wallOfIron#_wall-of-iron)** M: 30 hp/four levels; can topple onto foes.
 
 ### Divination
 
-**[Arcane Sight, Greater](spell_dir/arcaneSight#_arcane-sight-greater** : As _ [arcane sight](spell_dir/arcaneSight#_arcane-sight_, but also reveals magic effects on creatures and objects.
+**[Analyze Dweomer](spell_dir/analyzeDweomer#_analyze-dweomer)** F: Reveals magical aspects of subject.
 
-**[Scrying, Greater](spell_dir/scrying#_scrying-greater** : As _ [scrying](spell_dir/scrying#_scrying_, but faster and longer.
+**[Legend Lore](spells/legendLore#_legend-lore)** MF: Lets you learn tales about a person, place, or thing.
 
-**[Vision](spell_dir/vision#_vision** M: As _ [legend lore](spell_dir/legendLore#_legend-lore_, but quicker.
+**[True Seeing](spell_dir/trueSeeing#_true-seeing)** M: Lets you see all things as they really are.
 
 ### Enchantment
 
-**[Hold Person, Mass](spell_dir/holdPerson#_hold-person-mass** : As _ [hold person](spell_dir/holdPerson#_hold-person_, but all within 30 ft.
+**[Geas/Quest](spell_dir/geasQuest#_geas-quest)** : As _lesser geas, _but affects any creature.
 
-**[Insanity](spell_dir/insanity#_insanity** : Subject suffers continuous _ [confusion](spell_dir/confusion#_confusion_.
+**[Heroism, Greater](spells/heroism#_heroism-greater)** : Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
 
-**[Power Word Blind](spell_dir/powerWordBlind#_power-word-blind** : Blinds creature with 200 hp or less.
+**[Suggestion, Mass](spell_dir/suggestion#_suggestion-mass)** : As _ [suggestion](spells/suggestion#_suggestion), _affects 1 subjec_dir/level.
 
-**[Symbol of Stunning](spell_dir/symbolOfStunning#_symbol-of-stunning** M: Triggered rune stuns creatures.
+**[Symbol of Persuasion](spells/symbolOfPersuasion#_symbol-of-persuasion)** M: Triggered rune charms creatures.
 
 ### Evocation
 
-**[Delayed Blast Fireball](spell_dir/delayedBlastFireball#_delayed-blast-fireball** : 1d6/level fire damage; you can postpone blast for up to 5 rounds.
+**[Chain Lightning](spell_dir/chainLightning#_chain-lightning)** : 1d6/level damage and 1 secondary bol_dir/level.
 
-**[Forcecage](spell_dir/forcecage#_forcecage** M: Cube or cage of force imprisons all inside.
+**[Contingency](spells/contingency#_contingency)** F: Sets trigger condition for another spell.
 
-**[Grasping Hand](spell_dir/graspingHand#_grasping-hand** : Hand provides cover, pushes, or grapples.
+**[Forceful Hand](spell_dir/forcefulHand#_forceful-hand)** : Hand pushes creatures away.
 
-**[Mage's Sword](spell_dir/mageSSword#_mage-s-sword** F: Floating magic blade strikes opponents.
-
-**[Prismatic Spray](spell_dir/prismaticSpray#_prismatic-spray** : Rays hit subjects with variety of effects.
+**[Freezing Sphere](spells/freezingSphere#_freezing-sphere)** : Freezes water or deals cold damage.
 
 ### Illusion
 
-**[Invisibility, Mass](spell_dir/invisibility#_invisibility-mass** : As _ [invisibility](spell_dir/invisibility#_invisibility_, but affects all in range.
+**[Mislead](spell_dir/mislead#_mislead)** : Turns you [invisible](glossary#_invisible) and creates illusory double.
 
-**[Project Image](spell_dir/projectImage#_project-image** : Illusory double can talk and cast spells.
+**[Permanent Image](spells/permanentImage#_permanent-image)** : Permanent illusion, includes sight, sound, smell, and thermal effects.
 
-**[Shadow Conjuration, Greater](spell_dir/shadowConjuration#_shadow-conjuration-greater** : As _ [shadow conjuration](spell_dir/shadowConjuration#_shadow-conjuration, _but up to 6th level and 60% real.
+**[Programmed Image](spell_dir/programmedImage#_programmed-image)** M: As _ [major image](spells/majorImage#_major-image)_, but triggered by event.
 
-**[Simulacrum](spell_dir/simulacrum#_simulacrum** M: Creates partially real double of a creature.
+**[Shadow Walk](spell_dir/shadowWalk#_shadow-walk)** : Step into shadow to travel rapidly.
+
+**[Veil](spells/veil#_veil)** : Changes appearance of a group of creatures.
 
 ### Necromancy
 
-**[Control Undead](spell_dir/controlUndead#_control-undead** : Undead don't attack you while under your command.
+**[Circle of Death](spell_dir/circleOfDeath#_circle-of-death)** M: Kills 1d4/level HD of creatures.
 
-**[Finger of Death](spell_dir/fingerOfDeath#_finger-of-death** : Deals 10 damage/level to one subject.
+**[Create Undead](spell_dir/createUndead#_create-undead)** M: Raises ghouls, ghasts, mummies, or mohrgs from physical remains.
 
-**[Symbol of Weakness](spell_dir/symbolOfWeakness#_symbol-of-weakness** M: Triggered rune weakens creatures.
+**[Eyebite](spells/eyebite#_eyebite)** : Target becomes [panicked](glossary#_panicked), [sickened](glossary#_sickened), and comatose.
 
-**[Waves of Exhaustion](spell_dir/wavesOfExhaustion#_waves-of-exhaustion)** : Several targets become [exhausted](glossary#_exhausted.
+**[Symbol of Fear](spell_dir/symbolOfPain#_symbol-of-pain)** M: Triggered rune panics nearby creatures.
+
+**[Undeath to Death](spells/undeathToDeath#_undeath-to-death)** M: Destroys 1d4/level HD of undead (max. 20d4).
 
 ### Transmutation
 
-**[Control Weather](spell_dir/controlWeather#_control-weather** : Changes weather in local area.
+**[Bear's Endurance, Mass](spell_dir/bearSEndurance#_bear-s-endurance-mass)** : As _ [bear's endurance](spells/bearSEndurance#_bear-s-endurance)_, affects one subjec_dir/level.
 
-**[Elemental Body IV](spell_dir/elementalBody#_elemental-body-iv** : Turns you into a Huge elemental.
+**[Beast Shape IV](spells/beastShape#_beast-shape-iv)** : You take the form of a Diminutive to Huge animal or a Tiny to Large magical beast.
 
-**[Ethereal Jaunt](spell_dir/etherealJaunt#_ethereal-jaunt** : You become ethereal for 1 round/level.
+**[Bull's Strength, Mass](spell_dir/bullSStrength#_bull-s-strength-mass)** : As _ [bull's strength](spells/bullSStrength#_bull-s-strength)_, affects 1 subject per level.
 
-**[Form of the Dragon II](spell_dir/formOfTheDragon#_form-of-the-dragon-ii** : Turns you into a Large dragon.
+**[Cat's Grace, Mass](spell_dir/catSGrace#_cat-s-grace-mass)** : As _ [cat's grace](spells/catSGrace#_cat-s-grace)_, affects 1 subjec_dir/level.
 
-**[Giant Form I](spell_dir/giantForm#_giant-form-i** : Turns you into a Large giant.
+**[Control Water](spells/controlWater#_control-water)** : Raises or lowers bodies of water.
 
-**[Plant Shape III](spell_dir/plantShape#_plant-shape-iii** : Turns you into a Huge plant.
+**[Disintegrate](spell_dir/disintegrate#_disintegrate)** : Reduces one creature or object to dust.
 
-**[Polymorph, Greater](spell_dir/polymorph#_polymorph-greater** : Gives one willing subject a new, more powerful form.
+**[Eagle's Splendor, Mass](spells/eagleSSplendor#_eagle-s-splendor-mass)** : As _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)_, 1 subject/level.
 
-**[Reverse Gravity](spell_dir/reverseGravity#_reverse-gravity** : Objects and creatures fall upward.
+**[Elemental Body III](spell_dir/elementalBody#_elemental-body-iii)** : Turns you into a Large elemental.
 
-**[Statue](spell_dir/statue#_statue** : Subject can become a statue at will.
+**[Flesh to Stone](spells/fleshToStone#_flesh-to-stone)** : Turns subject creature into statue.
+
+**[Form of the Dragon I](spell_dir/formOfTheDragon#_form-of-the-dragon-i)** : Turns you into a Medium dragon.
+
+**[Fox's Cunning, Mass](spells/foxSCunning#_fox-s-cunning-mass)** : As _ [fox's cunning](spell_dir/foxSCunning#_fox-s-cunning)_, affects 1 subject/ level.
+
+**[Mage's Lucubration](spell_dir/mageSLucubration#_mage-s-lucubration)** : _Wizard only. _Recalls spell of 5th level or lower.
+
+**[Move Earth](spells/moveEarth#_move-earth)** : Digs trenches and builds hills.
+
+**[Owl's Wisdom, Mass](spell_dir/owlSWisdom#_owl-s-wisdom-mass)** : As _ [owl's wisdom](spells/owlSWisdom#_owl-s-wisdom)_, affects 1 subjec_dir/level.
+
+**[Plant Shape II](spells/plantShape#_plant-shape-ii)** : Turns you into a Large plant creature.
+
+**[Stone to Flesh](spell_dir/stoneToFlesh#_stone-to-flesh)** : Restores [petrified](glossary#_petrified) creature.
+
+**[Transformation](spells/transformation#_transformation)** M: You gain combat bonuses.
+
+## 7th-Level Sorcere_dir/Wizard Spells
+
+### Abjuration
+
+**[Banishment](spells/banishment#_banishment)** : Banishes 2 HD/level of extraplanar creatures.
+
+**[Sequester](spell_dir/sequester#_sequester)** : Subject is [invisible](glossary#_invisible) to sight and [scrying](spells/scrying#_scrying); renders creature comatose.
+
+**[Spell Turning](spell_dir/spellTurning#_spell-turning)** M: Reflect 1d4+6 spell levels back at caster.
+
+### Conjuration
+
+**[Instant Summons](spells/instantSummons#_instant-summons)** M: Prepared object appears in your hand.
+
+**[Mage's Magnificent Mansion](spell_dir/mageSMagnificentMansion#_mage-s-magnificent-mansion)** F: Door leads to extradimensional mansion.
+
+**[Phase Door](spells/phaseDoor#_phase-door)** : Creates an [invisible](glossary#_invisible) passage through a barrier.
+
+**[Plane Shift](spell_dir/planeShift#_plane-shift)** F: As many as eight subjects travel to another plane.
+
+**[Summon Monster VII](spells/summonMonster#_summon-monster-vii)** : Summons extraplanar creature to fight for you.
+
+**[Teleport, Greater](spell_dir/teleport#_teleport-greater)** : As _ [teleport](spells/teleport#_teleport), _but no range limit and no off-target arrival.
+
+**[Teleport Object](spell_dir/teleportObject#_teleport-object)** : As _ [teleport](spells/teleport#_teleport), _but affects a touched object.
+
+### Divination
+
+**[Arcane Sight, Greater](spell_dir/arcaneSight#_arcane-sight-greater)** : As _ [arcane sight](spells/arcaneSight#_arcane-sight)_, but also reveals magic effects on creatures and objects.
+
+**[Scrying, Greater](spell_dir/scrying#_scrying-greater)** : As _ [scrying](spells/scrying#_scrying)_, but faster and longer.
+
+**[Vision](spell_dir/vision#_vision)** M: As _ [legend lore](spells/legendLore#_legend-lore)_, but quicker.
+
+### Enchantment
+
+**[Hold Person, Mass](spell_dir/holdPerson#_hold-person-mass)** : As _ [hold person](spells/holdPerson#_hold-person)_, but all within 30 ft.
+
+**[Insanity](spell_dir/insanity#_insanity)** : Subject suffers continuous _ [confusion](spells/confusion#_confusion)_.
+
+**[Power Word Blind](spell_dir/powerWordBlind#_power-word-blind)** : Blinds creature with 200 hp or less.
+
+**[Symbol of Stunning](spells/symbolOfStunning#_symbol-of-stunning)** M: Triggered rune stuns creatures.
+
+### Evocation
+
+**[Delayed Blast Fireball](spell_dir/delayedBlastFireball#_delayed-blast-fireball)** : 1d6/level fire damage; you can postpone blast for up to 5 rounds.
+
+**[Forcecage](spell_dir/forcecage#_forcecage)** M: Cube or cage of force imprisons all inside.
+
+**[Grasping Hand](spells/graspingHand#_grasping-hand)** : Hand provides cover, pushes, or grapples.
+
+**[Mage's Sword](spell_dir/mageSSword#_mage-s-sword)** F: Floating magic blade strikes opponents.
+
+**[Prismatic Spray](spells/prismaticSpray#_prismatic-spray)** : Rays hit subjects with variety of effects.
+
+### Illusion
+
+**[Invisibility, Mass](spell_dir/invisibility#_invisibility-mass)** : As _ [invisibility](spells/invisibility#_invisibility)_, but affects all in range.
+
+**[Project Image](spell_dir/projectImage#_project-image)** : Illusory double can talk and cast spells.
+
+**[Shadow Conjuration, Greater](spells/shadowConjuration#_shadow-conjuration-greater)** : As _ [shadow conjuration](spell_dir/shadowConjuration#_shadow-conjuration), _but up to 6th level and 60% real.
+
+**[Simulacrum](spells/simulacrum#_simulacrum)** M: Creates partially real double of a creature.
+
+### Necromancy
+
+**[Control Undead](spell_dir/controlUndead#_control-undead)** : Undead don't attack you while under your command.
+
+**[Finger of Death](spells/fingerOfDeath#_finger-of-death)** : Deals 10 damag_dir/level to one subject.
+
+**[Symbol of Weakness](spells/symbolOfWeakness#_symbol-of-weakness)** M: Triggered rune weakens creatures.
+
+**[Waves of Exhaustion](spell_dir/wavesOfExhaustion#_waves-of-exhaustion)** : Several targets become [exhausted](glossary#_exhausted).
+
+### Transmutation
+
+**[Control Weather](spells/controlWeather#_control-weather)** : Changes weather in local area.
+
+**[Elemental Body IV](spell_dir/elementalBody#_elemental-body-iv)** : Turns you into a Huge elemental.
+
+**[Ethereal Jaunt](spells/etherealJaunt#_ethereal-jaunt)** : You become ethereal for 1 roun_dir/level.
+
+**[Form of the Dragon II](spells/formOfTheDragon#_form-of-the-dragon-ii)** : Turns you into a Large dragon.
+
+**[Giant Form I](spell_dir/giantForm#_giant-form-i)** : Turns you into a Large giant.
+
+**[Plant Shape III](spells/plantShape#_plant-shape-iii)** : Turns you into a Huge plant.
+
+**[Polymorph, Greater](spell_dir/polymorph#_polymorph-greater)** : Gives one willing subject a new, more powerful form.
+
+**[Reverse Gravity](spells/reverseGravity#_reverse-gravity)** : Objects and creatures fall upward.
+
+**[Statue](spell_dir/statue#_statue)** : Subject can become a statue at will.
 
 ### Universal
 
-**[Limited Wish](spell_dir/limitedWish#_limited-wish)** M: Alters reality (within limits.
+**[Limited Wish](spells/limitedWish#_limited-wish)** M: Alters reality (within limits).
 
-## 8th-Level Sorcerer/Wizard Spells
-
-### Abjuration
-
-**[Dimensional Lock](spell_dir/dimensionalLock#_dimensional-lock** : Teleportation and interplanar travel blocked for 1 day/level.
-
-**[Mind Blank](spell_dir/mindBlank#_mind-blank** : Subject is protected from mental/emotional magic and [scrying](spell_dir/scrying#_scrying.
-
-**[Prismatic Wall](spell_dir/prismaticWall#_prismatic-wall** : Wall's colors have array of effects.
-
-**[Protection from Spells](spell_dir/protectionFromSpells#_protection-from-spells** MF: Confers +8 resistance bonus.
-
-### Conjuration
-
-**[Incendiary Cloud](spell_dir/incendiaryCloud#_incendiary-cloud** : Cloud deals 6d6 fire damage/round.
-
-**[Maze](spell_dir/maze#_maze** : Traps subject in extradimensional maze.
-
-**[Planar Binding, Greater](spell_dir/planarBinding#_planar-binding-greater** : As _ [lesser planar binding](spell_dir/planarBinding#_planar-binding-lesser, _but up to 18 HD.
-
-**[Summon Monster VIII](spell_dir/summonMonster#_summon-monster-viii** : Summons extraplanar creature to fight for you.
-
-**[Trap the Soul](spell_dir/trapTheSoul#_trap-the-soul** M: Imprisons subject within gem.
-
-### Divination
-
-**[Discern Location](spell_dir/discernLocation#_discern-location** : Reveals exact location of creature or object.
-
-**[Moment of Prescience](spell_dir/momentOfPrescience#_moment-of-prescience** : You gain +1/level insight bonus on single attack roll, check, or save.
-
-**[Prying Eyes, Greater](spell_dir/pryingEyes#_prying-eyes-greater** : As _ [prying eyes](spell_dir/pryingEyes#_prying-eyes_, but eyes have _ [true seeing](spell_dir/trueSeeing#_true-seeing_.
-
-### Enchantment
-
-**[Antipathy](spell_dir/antipathy#_antipathy** : Object or location affected by spell repels certain creatures.
-
-**[Binding](spell_dir/binding#_binding** M: Utilizes an array of techniques to imprison a creature.
-
-**[Charm Monster, Mass](spell_dir/charmMonster#_charm-monster-mass** : As _ [charm monster](spell_dir/charmMonster#_charm-monster, _but all within 30 ft.
-
-**[Demand](spell_dir/demand#_demand** : As _ [sending](spell_dir/sending#_sending, _plus you can send _ [suggestion](spell_dir/suggestion#_suggestion._
-
-**[Irresistible Dance](spell_dir/irresistibleDance#_irresistible-dance** : Forces subject to dance.
-
-**[Power Word Stun](spell_dir/powerWordStun#_power-word-stun** : Stuns creature with 150 hp or less.
-
-**[Symbol of Insanity](spell_dir/symbolOfInsanity#_symbol-of-insanity** M: Triggered rune renders nearby creatures insane.
-
-**[Sympathy](spell_dir/sympathy#_sympathy** M: Object or location attracts certain creatures.
-
-### Evocation
-
-**[Clenched Fist](spell_dir/clenchedFist#_clenched-fist** : Large hand provides cover, pushes, or attacks your foes.
-
-**[Polar Ray](spell_dir/polarRay#_polar-ray** : Ranged touch attack deals 1d6/level cold damage and 1d4 points of [Dexterity](gettingStarted#_dexterity) drain.
-
-**[Shout, Greater](spell_dir/shout#_shout-greater** : Devastating yell deals 10d6 sonic damage; stuns creatures.
-
-**[Sunburst](spell_dir/sunburst#_sunburst** : Blinds all within 10 ft., deals 6d6 damage.
-
-**[Telekinetic Sphere](spell_dir/telekineticSphere#_telekinetic-sphere** : As_ [resilient sphere](spell_dir/resilientSphere#_resilient-sphere, _but you move the sphere telekinetically.
-
-### Illusion
-
-**[Scintillating Pattern](spell_dir/scintillatingPattern#_scintillating-pattern)** : Twisting colors _confuse, _stun, or render [unconscious](glossary#_unconscious.
-
-**[Screen](spell_dir/screen#_screen** : Illusion hides area from vision and [scrying](spell_dir/scrying#_scrying.
-
-**[Shadow Evocation, Greater](spell_dir/shadowEvocation#_shadow-evocation-greater** : As _ [shadow evocation](spell_dir/shadowEvocation#_shadow-evocation, _but up to 7th level and 60% real.
-
-### Necromancy
-
-**[Clone](spell_dir/clone#_clone** MF: Duplicate awakens when original dies.
-
-**[Create Greater Undead](spell_dir/createGreaterUndead#_create-greater-undead** M: Creates shadows, wraiths, spectres, or devourers.
-
-**[Horrid Wilting](spell_dir/horridWilting#_horrid-wilting** : Deals 1d6/level damage within 30 ft.
-
-**[Symbol of Death](spell_dir/symbolOfDeath#_symbol-of-death** M: Triggered rune kills nearby creatures.
-
-### Transmutation
-
-**[Form of the Dragon III](spell_dir/formOfTheDragon#_form-of-the-dragon-iii** : Turns you into a Huge dragon.
-
-**[Giant Form II](spell_dir/giantForm#_giant-form-ii** : Turns you into a Huge giant.
-
-**[Iron Body](spell_dir/ironBody#_iron-body** : Your body becomes living iron.
-
-**[Polymorph Any Object](spell_dir/polymorphAnyObject#_polymorph-any-object** : Changes a subject into anything else.
-
-**[Temporal Stasis](spell_dir/temporalStasis#_temporal-stasis** M: Puts subject into suspended animation.
-
-## 9th-Level Sorcerer/Wizard Spells
+## 8th-Level Sorcere_dir/Wizard Spells
 
 ### Abjuration
 
-**[Freedom](spell_dir/freedom#_freedom** : Releases creature from _ [imprisonment](spell_dir/imprisonment#_imprisonment._
+**[Dimensional Lock](spells/dimensionalLock#_dimensional-lock)** : Teleportation and interplanar travel blocked for 1 da_dir/level.
 
-**[Imprisonment](spell_dir/imprisonment#_imprisonment** : Entombs subject beneath the earth.
+**[Mind Blank](spells/mindBlank#_mind-blank)** : Subject is protected from menta_dir/emotional magic and [scrying](spells/scrying#_scrying).
 
-**[Mage's Disjunction](spell_dir/mageSDisjunction#_mage-s-disjunction** : Dispels magic, disenchants magic items.
+**[Prismatic Wall](spell_dir/prismaticWall#_prismatic-wall)** : Wall's colors have array of effects.
 
-**[Prismatic Sphere](spell_dir/prismaticSphere#_prismatic-sphere** : As _ [prismatic wall](spell_dir/prismaticWall#_prismatic-wall_, but surrounds on all sides.
+**[Protection from Spells](spells/protectionFromSpells#_protection-from-spells)** MF: Confers +8 resistance bonus.
 
 ### Conjuration
 
-**[Gate](spell_dir/gate#_gate** M: Connects two planes for travel or summoning.
+**[Incendiary Cloud](spell_dir/incendiaryCloud#_incendiary-cloud)** : Cloud deals 6d6 fire damage/round.
 
-**[Refuge](spell_dir/refuge#_refuge** M: Alters item to transport its possessor to your abode.
+**[Maze](spell_dir/maze#_maze)** : Traps subject in extradimensional maze.
 
-**[Summon Monster IX](spell_dir/summonMonster#_summon-monster-ix** : Summons extraplanar creature to fight for you.
+**[Planar Binding, Greater](spells/planarBinding#_planar-binding-greater)** : As _ [lesser planar binding](spell_dir/planarBinding#_planar-binding-lesser), _but up to 18 HD.
 
-**[Teleportation Circle](spell_dir/teleportationCircle#_teleportation-circle** M: Teleports creatures inside circle.
+**[Summon Monster VIII](spells/summonMonster#_summon-monster-viii)** : Summons extraplanar creature to fight for you.
+
+**[Trap the Soul](spell_dir/trapTheSoul#_trap-the-soul)** M: Imprisons subject within gem.
 
 ### Divination
 
-**[Foresight](spell_dir/foresight#_foresight** : “Sixth sense” warns of impending danger.
+**[Discern Location](spells/discernLocation#_discern-location)** : Reveals exact location of creature or object.
+
+**[Moment of Prescience](spell_dir/momentOfPrescience#_moment-of-prescience)** : You gain +1/level insight bonus on single attack roll, check, or save.
+
+**[Prying Eyes, Greater](spell_dir/pryingEyes#_prying-eyes-greater)** : As _ [prying eyes](spells/pryingEyes#_prying-eyes)_, but eyes have _ [true seeing](spell_dir/trueSeeing#_true-seeing)_.
 
 ### Enchantment
 
-**[Dominate Monster](spell_dir/dominateMonster#_dominate-monster** : As _ [dominate person](spell_dir/dominatePerson#_dominate-person, _but any creature.
+**[Antipathy](spells/antipathy#_antipathy)** : Object or location affected by spell repels certain creatures.
 
-**[Hold Monster, Mass](spell_dir/holdMonster#_hold-monster-mass** : As _ [hold monster](spell_dir/holdMonster#_hold-monster, _but all within 30 ft.
+**[Binding](spell_dir/binding#_binding)** M: Utilizes an array of techniques to imprison a creature.
 
-**[Power Word Kill](spell_dir/powerWordKill#_power-word-kill** : Kills one creature with 100 hp or less.
+**[Charm Monster, Mass](spells/charmMonster#_charm-monster-mass)** : As _ [charm monster](spell_dir/charmMonster#_charm-monster), _but all within 30 ft.
+
+**[Demand](spells/demand#_demand)** : As _ [sending](spell_dir/sending#_sending), _plus you can send _ [suggestion](spells/suggestion#_suggestion)._
+
+**[Irresistible Dance](spell_dir/irresistibleDance#_irresistible-dance)** : Forces subject to dance.
+
+**[Power Word Stun](spells/powerWordStun#_power-word-stun)** : Stuns creature with 150 hp or less.
+
+**[Symbol of Insanity](spell_dir/symbolOfInsanity#_symbol-of-insanity)** M: Triggered rune renders nearby creatures insane.
+
+**[Sympathy](spells/sympathy#_sympathy)** M: Object or location attracts certain creatures.
 
 ### Evocation
 
-**[Crushing Hand](spell_dir/crushingHand#_crushing-hand** : Large hand provides cover, pushes, or crushes your foes.
+**[Clenched Fist](spell_dir/clenchedFist#_clenched-fist)** : Large hand provides cover, pushes, or attacks your foes.
 
-**[Meteor Swarm](spell_dir/meteorSwarm#_meteor-swarm** : Four exploding spheres each deal 6d6 fire damage.
+**[Polar Ray](spells/polarRay#_polar-ray)** : Ranged touch attack deals 1d6/level cold damage and 1d4 points of [Dexterity](gettingStarted#_dexterity) drain.
+
+**[Shout, Greater](spell_dir/shout#_shout-greater)** : Devastating yell deals 10d6 sonic damage; stuns creatures.
+
+**[Sunburst](spells/sunburst#_sunburst)** : Blinds all within 10 ft., deals 6d6 damage.
+
+**[Telekinetic Sphere](spell_dir/telekineticSphere#_telekinetic-sphere)** : As_ [resilient sphere](spells/resilientSphere#_resilient-sphere), _but you move the sphere telekinetically.
 
 ### Illusion
 
-**[Shades](spell_dir/shades#_shades** : As _ [shadow conjuration](spell_dir/shadowConjuration#_shadow-conjuration_, but up to 8th level and 80% real.
+**[Scintillating Pattern](spell_dir/scintillatingPattern#_scintillating-pattern)** : Twisting colors _confuse, _stun, or render [unconscious](glossary#_unconscious).
 
-**[Weird](spell_dir/weird#_weird** : As _ [phantasmal killer](spell_dir/phantasmalKiller#_phantasmal-killer, _but affects all within 30 ft.
+**[Screen](spells/screen#_screen)** : Illusion hides area from vision and [scrying](spell_dir/scrying#_scrying).
+
+**[Shadow Evocation, Greater](spells/shadowEvocation#_shadow-evocation-greater)** : As _ [shadow evocation](spell_dir/shadowEvocation#_shadow-evocation), _but up to 7th level and 60% real.
 
 ### Necromancy
 
-**[Astral Projection](spell_dir/astralProjection#_astral-projection** M: Projects you and companions onto Astral Plane.
+**[Clone](spells/clone#_clone)** MF: Duplicate awakens when original dies.
 
-**[Energy Drain](spell_dir/energyDrain#_energy-drain)** : Subject gains 2d4 [negative levels](glossary#_energy-drain-and-negative-levels.
+**[Create Greater Undead](spell_dir/createGreaterUndead#_create-greater-undead)** M: Creates shadows, wraiths, spectres, or devourers.
 
-**[Soul Bind](spell_dir/soulBind#_soul-bind** F: Traps newly dead soul to prevent _ [resurrection](spell_dir/resurrection#_resurrection_.
+**[Horrid Wilting](spells/horridWilting#_horrid-wilting)** : Deals 1d6/level damage within 30 ft.
 
-**[Wail of the Banshee](spell_dir/wailOfTheBanshee#_wail-of-the-banshee** : Deals 10 damage/level to 1 creature/level.
+**[Symbol of Death](spell_dir/symbolOfDeath#_symbol-of-death)** M: Triggered rune kills nearby creatures.
 
 ### Transmutation
 
-**[Etherealness](spell_dir/etherealness#_etherealness** : Travel to Ethereal Plane with companions.
+**[Form of the Dragon III](spells/formOfTheDragon#_form-of-the-dragon-iii)** : Turns you into a Huge dragon.
 
-**[Shapechange](spell_dir/shapechange#_shapechange** F: Transforms you into certain creatures, and lets you change forms once per round.
+**[Giant Form II](spell_dir/giantForm#_giant-form-ii)** : Turns you into a Huge giant.
 
-**[Time Stop](spell_dir/timeStop#_time-stop** : You act freely for 1d4+1 rounds.
+**[Iron Body](spells/ironBody#_iron-body)** : Your body becomes living iron.
+
+**[Polymorph Any Object](spell_dir/polymorphAnyObject#_polymorph-any-object)** : Changes a subject into anything else.
+
+**[Temporal Stasis](spells/temporalStasis#_temporal-stasis)** M: Puts subject into suspended animation.
+
+## 9th-Level Sorcere_dir/Wizard Spells
+
+### Abjuration
+
+**[Freedom](spells/freedom#_freedom)** : Releases creature from _ [imprisonment](spell_dir/imprisonment#_imprisonment)._
+
+**[Imprisonment](spells/imprisonment#_imprisonment)** : Entombs subject beneath the earth.
+
+**[Mage's Disjunction](spell_dir/mageSDisjunction#_mage-s-disjunction)** : Dispels magic, disenchants magic items.
+
+**[Prismatic Sphere](spells/prismaticSphere#_prismatic-sphere)** : As _ [prismatic wall](spell_dir/prismaticWall#_prismatic-wall)_, but surrounds on all sides.
+
+### Conjuration
+
+**[Gate](spells/gate#_gate)** M: Connects two planes for travel or summoning.
+
+**[Refuge](spell_dir/refuge#_refuge)** M: Alters item to transport its possessor to your abode.
+
+**[Summon Monster IX](spells/summonMonster#_summon-monster-ix)** : Summons extraplanar creature to fight for you.
+
+**[Teleportation Circle](spell_dir/teleportationCircle#_teleportation-circle)** M: Teleports creatures inside circle.
+
+### Divination
+
+**[Foresight](spells/foresight#_foresight)** : “Sixth sense” warns of impending danger.
+
+### Enchantment
+
+**[Dominate Monster](spell_dir/dominateMonster#_dominate-monster)** : As _ [dominate person](spells/dominatePerson#_dominate-person), _but any creature.
+
+**[Hold Monster, Mass](spell_dir/holdMonster#_hold-monster-mass)** : As _ [hold monster](spells/holdMonster#_hold-monster), _but all within 30 ft.
+
+**[Power Word Kill](spell_dir/powerWordKill#_power-word-kill)** : Kills one creature with 100 hp or less.
+
+### Evocation
+
+**[Crushing Hand](spells/crushingHand#_crushing-hand)** : Large hand provides cover, pushes, or crushes your foes.
+
+**[Meteor Swarm](spell_dir/meteorSwarm#_meteor-swarm)** : Four exploding spheres each deal 6d6 fire damage.
+
+### Illusion
+
+**[Shades](spells/shades#_shades)** : As _ [shadow conjuration](spell_dir/shadowConjuration#_shadow-conjuration)_, but up to 8th level and 80% real.
+
+**[Weird](spells/weird#_weird)** : As _ [phantasmal killer](spell_dir/phantasmalKiller#_phantasmal-killer), _but affects all within 30 ft.
+
+### Necromancy
+
+**[Astral Projection](spells/astralProjection#_astral-projection)** M: Projects you and companions onto Astral Plane.
+
+**[Energy Drain](spell_dir/energyDrain#_energy-drain)** : Subject gains 2d4 [negative levels](glossary#_energy-drain-and-negative-levels).
+
+**[Soul Bind](spells/soulBind#_soul-bind)** F: Traps newly dead soul to prevent _ [resurrection](spell_dir/resurrection#_resurrection)_.
+
+**[Wail of the Banshee](spells/wailOfTheBanshee#_wail-of-the-banshee)** : Deals 10 damag_dir/level to 1 creature/level.
+
+### Transmutation
+
+**[Etherealness](spell_dir/etherealness#_etherealness)** : Travel to Ethereal Plane with companions.
+
+**[Shapechange](spells/shapechange#_shapechange)** F: Transforms you into certain creatures, and lets you change forms once per round.
+
+**[Time Stop](spell_dir/timeStop#_time-stop)** : You act freely for 1d4+1 rounds.
 
 ### Universal
 
-**[Wish](spell_dir/wish#_wish** M: As _ [limited wish](spell_dir/limitedWish#_limited-wish, _but with fewer limits.
+**[Wish](spells/wish#_wish)** M: As _ [limited wish](spell_dir/limitedWish#_limited-wish), _but with fewer limits.
 

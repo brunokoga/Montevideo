@@ -3,11 +3,11 @@ title: spell_dir/magicMouth
 ---
  **Magic Mouth**
 
-**School** illusion (glamer; **Level** bard 1, sorcere_dir/wizard 2
+**School** illusion (glamer); **Level** bard 1, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a small bit of honeycomb and jade dust worth 10 gp
+**Components** V, S, M (a small bit of honeycomb and jade dust worth 10 gp)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

@@ -11,5 +11,5 @@ This spell functions like _ [cure light wounds](cureLightWounds#_cure-light-woun
 
 **School** conjuration (healing); **Level** cleric 8, druid 9
 
-This spell functions like _mass cure light wounds_, except that it cures 4d8 points of damage + 1 point per caster level (maximum +40.
+This spell functions like _mass cure light wounds_, except that it cures 4d8 points of damage + 1 point per caster level (maximum +40).
 

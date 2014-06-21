@@ -1,13 +1,13 @@
 ---
-title: spells/jump
+title: spell_dir/jump
 ---
  **Jump**
 
-**School** transmutation; **Level** druid 1, ranger 1, sorcere_dir/wizard 1
+**School** transmutation; **Level** druid 1, ranger 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a grasshopper's hind leg
+**Components** V, S, M (a grasshopper's hind leg)
 
 **Range** touch
 

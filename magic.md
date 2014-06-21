@@ -435,7 +435,7 @@ Usually a harmful spell allows a target to make a saving throw to avoid some or 
 
 **Disbelief** : A successful save lets the subject ignore the spell's effect.
 
-**(object)** : The spell can be cast on objects, which receive saving throws only if they are magical or if they are attended (held, worn, grasped, or the like by a creature resisting the spell, in which case the object uses the creature's saving throw bonus unless its own bonus is greater. This notation does not mean that a spell can be cast only on objects. Some spells of this sort can be cast on creatures or objects. A magic item's saving throw bonuses are each equal to 2 + 1/2 the item's caster level.
+**(object)** : The spell can be cast on objects, which receive saving throws only if they are magical or if they are attended (held, worn, grasped, or the like) by a creature resisting the spell, in which case the object uses the creature's saving throw bonus unless its own bonus is greater. This notation does not mean that a spell can be cast only on objects. Some spells of this sort can be cast on creatures or objects. A magic item's saving throw bonuses are each equal to 2 + 1/2 the item's caster level.
 
 **(harmless)** : The spell is usually beneficial, not harmful, but a targeted creature can attempt a saving throw if it desires.
 
@@ -596,7 +596,7 @@ Divine spellcasters do not require spellbooks. However, a divine spellcaster's s
 
 ## Divine Magical Writings
 
-Divine spells can be written and deciphered like arcane spells (see Arcane Magical Writings). A Spellcraft check can decipher divine magical writing and identify it. Only characters who have the spell (in its divine form on their class spell list can cast a divine spell from a scroll.
+Divine spells can be written and deciphered like arcane spells (see Arcane Magical Writings). A Spellcraft check can decipher divine magical writing and identify it. Only characters who have the spell (in its divine form) on their class spell list can cast a divine spell from a scroll.
 
 ## New Divine Spells
 

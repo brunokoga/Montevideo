@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/spells/litanyOfThunder
+title: ultimateComba_dir/spells/litanyOfThunder
 ---
 Litany of Thunder
 

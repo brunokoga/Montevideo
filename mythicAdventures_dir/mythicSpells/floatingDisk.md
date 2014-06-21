@@ -1,5 +1,5 @@
 ---
-title: mythicAdventures/mythicSpells/floatingDisk
+title: mythicAdventure_dir/mythicSpells/floatingDisk
 ---
 Floating Disk
 
@@ -11,5 +11,5 @@ The disk accompanies you regardless of your speed, always catching up no matter 
 
 Any objects resting on the disk count as weightless parts of your gear for the purpose of teleportation effects (allowing these items to go with you when you teleport despite the weight limit of the _teleportation_ spell).
 
-As a free action, you can transform the plane of force from a concave disk into a bucket-like shape that holds up to 4 gallons (or transform it from the bucket-like form back to its normal disk form.
+As a free action, you can transform the plane of force from a concave disk into a bucket-like shape that holds up to 4 gallons (or transform it from the bucket-like form back to its normal disk form).
 

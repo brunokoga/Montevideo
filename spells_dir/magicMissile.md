@@ -1,5 +1,5 @@
 ---
-title: spells/magicMissile
+title: spell_dir/magicMissile
 ---
  **Magic Missile**
 

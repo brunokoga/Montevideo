@@ -1,5 +1,5 @@
 ---
-title: spells/hideFromAnimals
+title: spell_dir/hideFromAnimals
 ---
  **Hide from Animals**
 

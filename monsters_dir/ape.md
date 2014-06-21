@@ -9,7 +9,7 @@ _Large, deep-set eyes peer from beneath this great ape's thick brow as it lumber
 
 **XP 600**
 
-N Large [animal](creatureTypes#_animal
+N Large [animal](creatureTypes#_animal)
 
 **Init** +2; **Senses** low-light vision, scent; [Perception](../skill_dir/perception#_perception) +8
 
@@ -25,7 +25,7 @@ N Large [animal](creatureTypes#_animal
 
 **Speed** 30 ft., climb 30 ft.
 
-**Melee** 2 slams +3 (1d6+2
+**Melee** 2 slams +3 (1d6+2)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -35,9 +35,9 @@ N Large [animal](creatureTypes#_animal
 
 **Base**  **Atk** +2; **CMB** +5; **CMD** 17
 
-**Feats** [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +6, [Climb](../skill_dir/climb#_climb +14, [Perception](../skill_dir/perception#_perception) +8
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +6, [Climb](../skill_dir/climb#_climb) +14, [Perception](../skill_dir/perception#_perception) +8
 
 **Ecology**
 
@@ -59,7 +59,7 @@ _Sharp teeth fill this large, feral ape's mouth, and its long, muscular arms str
 
 **XP 800**
 
-N Large [animal](creatureTypes#_animal
+N Large [animal](creatureTypes#_animal)
 
 **Init** +2; **Senses** low-light vision, scent; [Perception](../skill_dir/perception#_perception) +8
 
@@ -79,7 +79,7 @@ N Large [animal](creatureTypes#_animal
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [rend](universalMonsterRules#_rend) (2 claws, 1d4+6
+**Special Attacks** [rend](universalMonsterRules#_rend) (2 claws, 1d4+6)
 
 **Statistics**
 
@@ -87,15 +87,15 @@ N Large [animal](creatureTypes#_animal
 
 **Base Atk** +3; **CMB** +8; **CMD** 20
 
-**Feats** [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
+**Feats** [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +6, [Climb](../skill_dir/climb#_climb +16, [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth) +2
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +6, [Climb](../skill_dir/climb#_climb) +16, [Perception](../skill_dir/perception#_perception) +8, [Stealth](../skill_dir/stealth#_stealth) +2
 
 **Ecology**
 
 **Environment** warm forests
 
-**Organization** solitary, pair, or troop (3–6
+**Organization** solitary, pair, or troop (3–6)
 
 **Treasure** incidental
 

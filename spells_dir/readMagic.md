@@ -1,13 +1,13 @@
 ---
-title: spells/readMagic
+title: spell_dir/readMagic
 ---
  **Read Magic**
 
-**School** divination; **Level** bard 0, cleric 0, druid 0, paladin 1, ranger 1, sorcere_dir/wizard 0
+**School** divination; **Level** bard 0, cleric 0, druid 0, paladin 1, ranger 1, sorcerer/wizard 0
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a clear crystal or mineral prism
+**Components** V, S, F (a clear crystal or mineral prism)
 
 **Range** personal
 

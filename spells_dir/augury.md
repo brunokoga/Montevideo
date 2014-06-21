@@ -22,7 +22,7 @@ The base chance for receiving a meaningful reply is 70% + 1% per caster level, t
 - Weal (if the action will probably bring good results).
 - Woe (for bad results).
 - Weal and woe (for both).
-- Nothing (for actions that don't have especially good or bad results.
+- Nothing (for actions that don't have especially good or bad results).
 
 If the spell fails, you get the “nothing” result. A cleric who gets the “nothing” result has no way to tell whether it was the consequence of a failed or successful _augury._
 

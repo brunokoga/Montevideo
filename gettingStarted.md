@@ -163,7 +163,7 @@ Racial modifiers (adjustments made to your ability scores due to your character'
 
 **Purchase:** Each character receives a number of points to spend on increasing his basic attributes. In this method, all attributes start at a base of 10. A character can increase an individual score by spending some of his points. Likewise, he can gain more points to spend on other scores by decreasing one or more of his ability scores. No score can be reduced below 7 or raised above 18 using this method. See Table: Ability Score Costs for the costs of each score. After all the points are spent, apply any racial modifiers the character might have.
 
-The number of points you have to spend using the purchase method depends on the type of campaign you are playing. The standard value for a character is 15 points. Average nonplayer characters (NPCs) are typically built using as few as 3 points. See Table: Ability Score Points for a number of possible point values depending on the style of campaign. The purchase method emphasizes player choice and creates equally balanced characters. This system is typically used for organized play events, such as the Pathfinder Society (visit **[paizo.com/pathfinderSociety](http://paizo.co_dir/pathfinderSociety)** for more details on this exciting campaign).
+The number of points you have to spend using the purchase method depends on the type of campaign you are playing. The standard value for a character is 15 points. Average nonplayer characters (NPCs) are typically built using as few as 3 points. See Table: Ability Score Points for a number of possible point values depending on the style of campaign. The purchase method emphasizes player choice and creates equally balanced characters. This system is typically used for organized play events, such as the Pathfinder Society (visit **[paizo.co_dir/pathfinderSociety](http://paizo.co_dir/pathfinderSociety)** for more details on this exciting campaign).
 
 ### Determine Bonuses
 
@@ -213,8 +213,8 @@ Strength measures muscle and physical power. This ability is important for those
 You apply your character's Strength modifier to:
 
 - [Melee attack](combat#_melee-attacks) rolls.
-- [Damage](combat#_damage rolls when using a melee weapon or a thrown weapon, including a sling. (Exceptions: Off-hand attacks receive only half the character's Strength bonus, while two-handed attacks receive 1–1/2 times the Strength bonus. A Strength penalty, but not a bonus, applies to attacks made with a bow that is not a composite bow.)
-- [Climb](skill_dir/climb#_climb and [Swim](skill_dir/swim#_swim) checks.
+- [Damage](combat#_damage) rolls when using a melee weapon or a thrown weapon, including a sling. (Exceptions: Off-hand attacks receive only half the character's Strength bonus, while two-handed attacks receive 1–1/2 times the Strength bonus. A Strength penalty, but not a bonus, applies to attacks made with a bow that is not a composite bow.)
+- [Climb](skill_dir/climb#_climb) and [Swim](skills/swim#_swim) checks.
 - Strength checks (for breaking down doors and the like).
 
 ### Dexterity (Dex)
@@ -225,8 +225,8 @@ You apply your character's Dexterity modifier to:
 
 - [Ranged attack](combat#_ranged-attacks) rolls, including those for attacks made with bows, crossbows, throwing axes, and many ranged spell attacks like _scorching ray_ or _searing light_.
 - [Armor Class](combat#_armor-class) ( [AC](combat#_armor-class)), provided that the character can react to the attack.
-- [Reflex saving throws](combat#_reflex, for avoiding _fireballs_ and other attacks that you can escape by moving quickly.
-- [Acrobatics](skill_dir/acrobatics#_acrobatics, [Disable Device](skill_dir/disableDevice#_disable-device, [Escape Artist](skill_dir/escapeArtist#_escape-artist, [Fly](skill_dir/fly#_fly, [Ride](skill_dir/ride#_ride, [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand, and [Stealth](skill_dir/stealth#_stealth) checks.
+- [Reflex saving throws](combat#_reflex), for avoiding _fireballs_ and other attacks that you can escape by moving quickly.
+- [Acrobatics](skill_dir/acrobatics#_acrobatics), [Disable Device](skills/disableDevice#_disable-device), [Escape Artist](skill_dir/escapeArtist#_escape-artist), [Fly](skills/fly#_fly), [Ride](skill_dir/ride#_ride), [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand), and [Stealth](skill_dir/stealth#_stealth) checks.
 
 ### Constitution (Con)
 
@@ -239,17 +239,17 @@ You apply your character's Constitution modifier to:
 
 If a character's Constitution score changes enough to alter his or her Constitution modifier, the character's hit points also increase or decrease accordingly.
 
-### Intelligence (Int
+### Intelligence (Int)
 
 Intelligence determines how well your character learns and reasons. This ability is important for wizards because it affects their spellcasting ability in many ways. Creatures of animal-level instinct have Intelligence scores of 1 or 2. Any creature capable of understanding speech has a score of at least 3. A character with an Intelligence score of 0 is comatose. Some creatures do not possess an Intelligence score. Their modifier is +0 for any Intelligence-based skills or checks.
 
 You apply your character's Intelligence modifier to:
 
-- The number of bonus [languages](skill_dir/linguistics#_learn-a-language your character knows at the start of the game. These are in addition to any starting racial languages and Common. If you have a penalty, you can still read and speak your racial languages unless your Intelligence is lower than 3.
+- The number of bonus [languages](skills/linguistics#_learn-a-language) your character knows at the start of the game. These are in addition to any starting racial languages and Common. If you have a penalty, you can still read and speak your racial languages unless your Intelligence is lower than 3.
 - The number of skill points gained each level, though your character always gets at least 1 skill point per level.
-- [Appraise](skill_dir/appraise#_appraise, [Craft](skill_dir/craft#_craft, [Knowledge](skill_dir/knowledge#_knowledge, [Linguistics](skill_dir/linguistics#_linguistics, and [Spellcraft](skill_dir/spellcraft#_spellcraft checks.
+- [Appraise](skill_dir/appraise#_appraise), [Craft](skills/craft#_craft), [Knowledge](skill_dir/knowledge#_knowledge), [Linguistics](skills/linguistics#_linguistics), and [Spellcraft](skill_dir/spellcraft#_spellcraft) checks.
 
-A [wizard](classe_dir/wizard#_wizard) gains bonus spells based on his Intelligence score. The minimum Intelligence score needed to cast a wizard spell is 10 + the spell's level.
+A [wizard](classes/wizard#_wizard) gains bonus spells based on his Intelligence score. The minimum Intelligence score needed to cast a wizard spell is 10 + the spell's level.
 
 ### Wisdom (Wis)
 
@@ -257,20 +257,20 @@ Wisdom describes a character's willpower, common sense, awareness, and intuition
 
 You apply your character's Wisdom modifier to:
 
-- [Will saving throws](combat#_will) (for negating the effects of _charm person_ and other spells.
-- [Heal](skill_dir/heal#_heal, [Perception](skill_dir/perception#_perception, [Profession](skill_dir/profession#_profession, [Sense Motive](skill_dir/senseMotive#_sense-motive, and [Survival](skill_dir/survival#_survival checks.
+- [Will saving throws](combat#_will) (for negating the effects of _charm person_ and other spells).
+- [Heal](skill_dir/heal#_heal), [Perception](skills/perception#_perception), [Profession](skill_dir/profession#_profession), [Sense Motive](skills/senseMotive#_sense-motive), and [Survival](skill_dir/survival#_survival) checks.
 
-[Clerics](classe_dir/cleric#_cleric, [druids](classe_dir/druid#_druid, and [rangers](classe_dir/ranger#_ranger) get bonus spells based on their Wisdom scores. The minimum Wisdom score needed to cast a cleric, druid, or ranger spell is 10 + the spell's level.
+[Clerics](classes/cleric#_cleric), [druids](classe_dir/druid#_druid), and [rangers](classes/ranger#_ranger) get bonus spells based on their Wisdom scores. The minimum Wisdom score needed to cast a cleric, druid, or ranger spell is 10 + the spell's level.
 
-### Charisma (Cha
+### Charisma (Cha)
 
 Charisma measures a character's personality, personal magnetism, ability to lead, and appearance. It is the most important ability for paladins, sorcerers, and bards. It is also important for clerics, since it affects their ability to channel energy. For undead creatures, Charisma is a measure of their unnatural “lifeforce.” Every creature has a Charisma score. A character with a Charisma score of 0 is not able to exert himself in any way and is unconscious.
 
 You apply your character's Charisma modifier to:
 
-- [Bluff](skill_dir/bluff#_bluff, [Diplomacy](skill_dir/diplomacy#_diplomacy, [Disguise](skill_dir/disguise#_disguise, [Handle Animal](skill_dir/handleAnimal#_handle-animal, [Intimidate](skill_dir/intimidate#_intimidate, [Perform](skill_dir/perform#_perform, and [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device checks.
+- [Bluff](skill_dir/bluff#_bluff), [Diplomacy](skills/diplomacy#_diplomacy), [Disguise](skill_dir/disguise#_disguise), [Handle Animal](skills/handleAnimal#_handle-animal), [Intimidate](skill_dir/intimidate#_intimidate), [Perform](skills/perform#_perform), and [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device) checks.
 - Checks that represent attempts to influence others. 
-- [Channel energy](classe_dir/cleric#_channel-energy-cleric DCs for [clerics](classe_dir/cleric#_cleric and [paladins](classe_dir/paladin#_paladin attempting to harm undead foes.
+- [Channel energy](classes/cleric#_channel-energy-cleric) DCs for [clerics](classe_dir/cleric#_cleric) and [paladins](classes/paladin#_paladin) attempting to harm undead foes.
 
-[Bards](classe_dir/bard#_bard, [paladins](classe_dir/paladin#_paladin, and [sorcerers](classe_dir/sorcerer#_sorcerer gain a number of bonus spells based on their Charisma scores. The minimum Charisma score needed to cast a bard, paladin, or sorcerer spell is 10 + the spell's level.
+[Bards](classe_dir/bard#_bard), [paladins](classes/paladin#_paladin), and [sorcerers](classe_dir/sorcerer#_sorcerer) gain a number of bonus spells based on their Charisma scores. The minimum Charisma score needed to cast a bard, paladin, or sorcerer spell is 10 + the spell's level.
 

@@ -1,5 +1,5 @@
 ---
-title: skills/perception
+title: skill_dir/perception
 ---
 # Perception
 

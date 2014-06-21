@@ -1,5 +1,5 @@
 ---
-title: spells/repelVermin
+title: spell_dir/repelVermin
 ---
  **Repel Vermin**
 

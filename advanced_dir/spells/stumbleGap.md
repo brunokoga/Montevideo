@@ -1,19 +1,19 @@
 ---
-title: advanced/spell_dir/stumbleGap
+title: advance_dir/spells/stumbleGap
 ---
  **Stumble Gap**
 
-**School** conjuration (creation; **Level** sorcere_dir/wizard 1
+**School** conjuration (creation); **Level** sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (miniature shovel costing 10 gp
+**Components** V, S, F (miniature shovel costing 10 gp)
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** see text
 
-**Duration** 1 round + 1 round/level
+**Duration** 1 round + 1 roun_dir/level
 
 **Saving Throw** Reflex partial; **Spell Resistance** no
 

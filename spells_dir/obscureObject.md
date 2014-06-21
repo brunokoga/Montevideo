@@ -1,5 +1,5 @@
 ---
-title: spells/obscureObject
+title: spell_dir/obscureObject
 ---
  **Obscure Object**
 

@@ -1,5 +1,5 @@
 ---
-title: spells/sculptSound
+title: spell_dir/sculptSound
 ---
  **Sculpt Sound**
 
@@ -11,9 +11,9 @@ title: spells/sculptSound
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Targets** one creature or object/level, no two of which can be more than 30 ft. apart
+**Targets** one creature or objec_dir/level, no two of which can be more than 30 ft. apart
 
-**Duration** 1 hou_dir/level (D
+**Duration** 1 hour/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
 

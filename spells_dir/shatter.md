@@ -1,5 +1,5 @@
 ---
-title: spells/shatter
+title: spell_dir/shatter
 ---
  **Shatter**
 

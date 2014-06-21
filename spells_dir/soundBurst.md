@@ -1,5 +1,5 @@
 ---
-title: spells/soundBurst
+title: spell_dir/soundBurst
 ---
  **Sound Burst**
 

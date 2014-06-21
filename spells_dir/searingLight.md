@@ -1,5 +1,5 @@
 ---
-title: spells/searingLight
+title: spell_dir/searingLight
 ---
  **Searing Light**
 

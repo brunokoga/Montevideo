@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/alchemicalAllocation
+title: advance_dir/spells/alchemicalAllocation
 ---
  **Alchemical Allocation**
 

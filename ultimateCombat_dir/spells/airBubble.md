@@ -1,21 +1,21 @@
 ---
-title: ultimateCombat/spell_dir/airBubble
+title: ultimateComba_dir/spells/airBubble
 ---
 Air Bubble
 
-**School** conjuration (creation; **Level** cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1
+**School** conjuration (creation); **Level** cleric 1, druid 1, ranger 1, sorcere_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
-**Components** S, M/DF (a small bladder filled with [air](monster_dir/creatureTypes#_air-subtype)
+**Components** S, M/DF (a small bladder filled with [air](monster_dir/creatureTypes#_air-subtype))
 
 **Range** touch
 
 **Target** one creature or one object no larger than a Large two-handed weapon
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute/level
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 _Air bubble_ creates a small pocket of breathable air that surrounds the touched creature's head or the touched object. The _air bubble_ allows the creature touched to breathe underwater or in similar airless environments, or protects the object touched from water damage.
 

@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/comba_dir/primitiveArmorAndWeapons
+title: ultimateComba_dir/combat/primitiveArmorAndWeapons
 ---
 # Primitive Armor and Weapons
 
@@ -27,7 +27,7 @@ Bone can be used in place of wood and steel in weapons and armor. Other animal-b
 
 **Weapons** : Light and one-handed melee weapons, as well as two-handed weapons that deal bludgeoning damage only, can be crafted from bone. Hafted two-handed weapons such as spears can be crafted with bone tips, as can arrowheads. Other two-handed weapons cannot be constructed of bone.
 
-Bone weapons have half the hardness of their base weapons and have the fragile weapon quality. Masterwork bone weapons also have the fragile quality, but magic bone weapons do not. Bone weapons take a –2 penalty on damage rolls (minimum 1 damage.
+Bone weapons have half the hardness of their base weapons and have the fragile weapon quality. Masterwork bone weapons also have the fragile quality, but magic bone weapons do not. Bone weapons take a –2 penalty on damage rolls (minimum 1 damage).
 
 **Armor** : Studded leather, scale mail, breastplates, and wooden shields can all be constructed using bone. Bone either replaces the metal components of the armor, or in the case of wooden shields, large pieces of bone or shell replace the wood.
 
@@ -49,11 +49,11 @@ Typically only used for ceremonial weapons and armor, metal equipment made from 
 
 Gold-plated items triple the base cost of weapons and armor and have the same properties as the item the gold is plating. Items constructed purely of gold cost 10 times the normal cost for items of their type. Gold items weigh 50% more than typical weapons or armor of their type.
 
-**Weapons** : Gold is often too soft to hold a decent edge, but light weapons that do piercing or slashing damage can be constructed of gold or some nearly gold alloy. They take a –2 penalty on damage rolls (minimum 1 damage.
+**Weapons** : Gold is often too soft to hold a decent edge, but light weapons that do piercing or slashing damage can be constructed of gold or some nearly gold alloy. They take a –2 penalty on damage rolls (minimum 1 damage).
 
 Gold weapons have a hardness of half their base weapons' and also have the fragile quality.
 
-**Armor** : Gold can be fashioned into light or medium metal armor. The softness and the weight of the metal decrease the armo_dir/shield bonus by 2, and increase the armor check penalty by 2. Gold armor has a hardness of 5.
+**Armor** : Gold can be fashioned into light or medium metal armor. The softness and the weight of the metal decrease the armor/shield bonus by 2, and increase the armor check penalty by 2. Gold armor has a hardness of 5.
 
 ## Obsidian
 
@@ -85,7 +85,7 @@ The scarcity of worked metal defines a Stone Age culture. While the name derives
 
 Within the broad ranges of the Stone Age, considerable degrees of technological sophistication exist. At the low end, some areas might barely scrape together hide clothing, flint knives, and cooking fires, while at the higher end, more sophisticated craftsmanship like wooden armor, fired pottery, and quarried stone makes an appearance. Once the smelting of ore into metal appears, however, the culture moves into the Bronze Age or beyond.
 
-Stone Age cultures tend to exist in a pre-currency condition, relying on barter, communalism, or the taking resources by force. However, Stone Age cultures that exist long enough often develop currencies based on materials other than metal coins, including cowries (smalls shells), carved stone money, and wooden tokens. Nearly all of these currencies represent some other item of value (such as grain or cattle, rather than having intrinsic value.
+Stone Age cultures tend to exist in a pre-currency condition, relying on barter, communalism, or the taking resources by force. However, Stone Age cultures that exist long enough often develop currencies based on materials other than metal coins, including cowries (smalls shells), carved stone money, and wooden tokens. Nearly all of these currencies represent some other item of value (such as grain or cattle), rather than having intrinsic value.
 
 For the sake of simplicity, when creating a currency for your Stone Age campaign, create a baseline currency and have that currency represent 1 gp. Then create two forms of lesser currency to act as silver pieces and copper pieces. For example, a single cowrie shell could represent 1 gp, a quartz stone could represent 1 silver piece, and a stone arrowhead or simple stone tool could represent 1 copper piece.
 
@@ -95,7 +95,7 @@ The following weapons are also available in Stone Age campaigns.
 
 **Atlatl** : An atlatl is a thin piece of wood or antler used as a lever to hurl a specially fitted dart. An atlatl gives much greater range to a dart, but must be loaded like a projectile weapon. Your Strength modifier applies to damage rolls when you use an atlatl, just as it does for thrown weapons. You can fire—but not load—an atlatl with one hand. Loading an atlatl is a move action that requires two hands and provokes attacks of opportunity. The [Rapid Reload](ultimateComba_dir/ultimateCombatFeats#_rapid-reload-(combat)) feat can be taken for atlatls, allowing you to load a dart as a free action. Atlatl darts are the size of javelins but have fletching, and can be used as javelins without an atlatl.
 
-**Mere Club** : Traditionally made of sturdy carved stone, a mere (MEH-reh is a short, flat-sided, sharp-pointed club.
+**Mere Club** : Traditionally made of sturdy carved stone, a mere (MEH-reh) is a short, flat-sided, sharp-pointed club.
 
 **Taiaha** : A taiaha is a long, heavy stick, club-shaped at one end and tipped with a wooden or metal spear point at the other. You wield it with a combination of solid strikes with the club and fending motions with the spear. A taiaha can be wielded as a martial weapon that deals 1d8/×2 bludgeoning damage.
 
@@ -171,7 +171,7 @@ A harpoon's weight includes the weight of 50 feet of hemp rope. It can be reduce
 
 There are two ways for an item to gain the broken condition. One is for the weapon to take damage from an attack or attacks that is in excess of half the weapon's hit points. The other is for the weapon to gain that condition from some effect. Both firearms and fragile weapons include effects that grant a weapon the broken condition without the weapon explicitly taking damage.
 
-If a weapon gains the broken condition from an effect, that weapon is considered to have taken damage equal to half its hit points +1. This damage is repaired either by something that addresses the effect that granted the weapon the broken condition (like quick clear in the case of firearm misfires or the [Field Repair](ultimateComba_dir/ultimateCombatFeats#_field-repair) feat in the case of weapons with the fragile quality) or by the normal method for recovering item hit points (detailed in the broken condition description. When an effect that grants the broken condition is removed, the weapon regains the hit points it lost when the broken condition was applied.
+If a weapon gains the broken condition from an effect, that weapon is considered to have taken damage equal to half its hit points +1. This damage is repaired either by something that addresses the effect that granted the weapon the broken condition (like quick clear in the case of firearm misfires or the [Field Repair](ultimateComba_dir/ultimateCombatFeats#_field-repair) feat in the case of weapons with the fragile quality) or by the normal method for recovering item hit points (detailed in the broken condition description). When an effect that grants the broken condition is removed, the weapon regains the hit points it lost when the broken condition was applied.
 
 Damage done by an attack against a weapon cannot be repaired by an effect that removes the broken condition.
 

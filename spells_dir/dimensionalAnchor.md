@@ -1,5 +1,5 @@
 ---
-title: spells/dimensionalAnchor
+title: spell_dir/dimensionalAnchor
 ---
  **Dimensional Anchor**
 

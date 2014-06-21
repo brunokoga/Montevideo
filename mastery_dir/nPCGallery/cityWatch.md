@@ -1,5 +1,5 @@
 ---
-title: mastery/nPCGallery/cityWatch
+title: master_dir/nPCGallery/cityWatch
 ---
 # City Watch
 
@@ -19,7 +19,7 @@ LN Medium humanoid
 
 **AC** 18, touch 10, flat-footed 18 (+8 armor)
 
-**hp** 19 (3d10+3
+**hp** 19 (3d10+3)
 
 **Fort** +4, **Ref** +1, **Will** +1
 
@@ -39,7 +39,7 @@ LN Medium humanoid
 
 **Feats** [Alertness](../../feats#_alertness), [Improved Sunder](../../feats#_improved-sunder), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Intimidate](../../skill_dir/intimidate#_intimidate +5, [Perception](../../skill_dir/perception#_perception +3, [Ride](../../skill_dir/ride#_ride –3, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +2
+**Skills** [Intimidate](../../skill_dir/intimidate#_intimidate) +5, [Perception](../../skill_dir/perception#_perception) +3, [Ride](../../skill_dir/ride#_ride) –3, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +2
 
 **Languages** Common
 
@@ -49,7 +49,7 @@ LN Medium humanoid
 
 Guards of the city watch are vigilant soldiers, dedicated to keeping the peace and maintaining order. They defend the city walls and gates against external threats, but they also stand ready to break up fights and brawls, disarming or sundering weapons drawn in anger, forcing unruly citizens apart, and tending the wounded.
 
-Different types of guards may be created with lighter armor (breastplates and heavy shields) and one-handed weapons (battle axes or longswords. Replacing guards' halberds with glaives, guisarmes, or ranseurs gives them a reach attack. Outfitting guards with pikes makes a group of pikemen, while giving them tower shields and short swords creates crossbowmen for a siege. Temple guards can replace [Improved Sunder](../../feats#_improved-sunder) with [Exotic Weapon Proficiency](../../feats#_exotic-weapon-proficiency) (two-bladed sword). Prison guards might replace [Improved Sunder](../../feats#_improved-sunder) with [Improved Unarmed Strike](../../feats#_improved-unarmed-strike) and [Power Attack](../../feats#_power-attack) with [Exotic Weapon Proficiency](../../feats#_exotic-weapon-proficiency) (whip). Four guards and a turnkey (CR 6) or a torturer (CR 7) can provide security for a small prison or dungeon.
+Different types of guards may be created with lighter armor (breastplates and heavy shields) and one-handed weapons (battle axes or longswords). Replacing guards' halberds with glaives, guisarmes, or ranseurs gives them a reach attack. Outfitting guards with pikes makes a group of pikemen, while giving them tower shields and short swords creates crossbowmen for a siege. Temple guards can replace [Improved Sunder](../../feats#_improved-sunder) with [Exotic Weapon Proficiency](../../feats#_exotic-weapon-proficiency) (two-bladed sword). Prison guards might replace [Improved Sunder](../../feats#_improved-sunder) with [Improved Unarmed Strike](../../feats#_improved-unarmed-strike) and [Power Attack](../../feats#_power-attack) with [Exotic Weapon Proficiency](../../feats#_exotic-weapon-proficiency) (whip). Four guards and a turnkey (CR 6) or a torturer (CR 7) can provide security for a small prison or dungeon.
 
 Guards may be encountered alone, in pairs (CR 3), in groups of four (CR 5), or as a patrol of six accompanied by a guard officer (CR 7), depending on how dangerous their city or neighborhood is.
 
@@ -67,7 +67,7 @@ LN Medium humanoid
 
 **AC** 20, touch 11, flat-footed 19 (+9 armor, +1 Dex)
 
-**hp** 34 (4d10+12
+**hp** 34 (4d10+12)
 
 **Fort** +6, **Ref** +2, **Will** +1; +1 vs. fear
 
@@ -89,23 +89,23 @@ LN Medium humanoid
 
 **Base Atk** +4; **CMB** +7; **CMD** 18
 
-**Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Dazzling Display](../../feats#_dazzling-display), [Exotic Weapon Proficiency](../../feats#_exotic-weapon-proficiency) (net), [Skill Focus](../../feats#_skill-focus) ( [Intimidate](../../skill_dir/intimidate#_intimidate), [Weapon Focus](../../feats#_weapon-focus) (guisarme), [Weapon Specialization](../../feats#_weapon-specialization) (guisarme)
+**Feats** [Combat Reflexes](../../feats#_combat-reflexes), [Dazzling Display](../../feats#_dazzling-display), [Exotic Weapon Proficiency](../../feats#_exotic-weapon-proficiency) (net), [Skill Focus](../../feats#_skill-focus) ( [Intimidate](../../skill_dir/intimidate#_intimidate)), [Weapon Focus](../../feats#_weapon-focus) (guisarme), [Weapon Specialization](../../feats#_weapon-specialization) (guisarme)
 
-**Skills** [Intimidate](../../skill_dir/intimidate#_intimidate +11, [Perception](../../skill_dir/perception#_perception +3, [Ride](../../skill_dir/ride#_ride +2, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +2
+**Skills** [Intimidate](../../skill_dir/intimidate#_intimidate) +11, [Perception](../../skill_dir/perception#_perception) +3, [Ride](../../skill_dir/ride#_ride) +2, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +2
 
 **Languages** Common
 
 **SQ** armor training 1
 
-**Combat Gear** _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** full plate, masterwork guisarme, javelin, nets (2, sap
+**Combat Gear** _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** full plate, masterwork guisarme, javelin, nets (2), sap
 
-**Boon** A guard officer can alert the PCs to local customs, traditions, tricks, and suspicious activity, granting a +2 bonus for 24 hours on opposed [Perception](../../skill_dir/perception#_perception and [Sense Motive](../../skill_dir/senseMotive#_sense-motive) checks within the city. She can also arrange a meeting with a watch captain for the PCs.
+**Boon** A guard officer can alert the PCs to local customs, traditions, tricks, and suspicious activity, granting a +2 bonus for 24 hours on opposed [Perception](../../skill_dir/perception#_perception) and [Sense Motive](../../skill_dir/senseMotive#_sense-motive) checks within the city. She can also arrange a meeting with a watch captain for the PCs.
 
 Guard officers supervise guards in their duties and respond to major disturbances, using their grim demeanors and skill at arms to quell conflict. They coordinate well in battle with the guards under their command, rounding up troublemakers and preventing their escape.
 
 Guard officers can also be used as highly skilled gladiators or flamboyant bounty hunters. They might even be found as royal guardsmen in a king's throne room. In an evil society, guard officers may wear spiked armor and be outfitted with scythes or spiked chains instead of guisarmes and poisoned hand crossbows instead of nets.
 
-Guard officers usually patrol with four guards (CR 6), or three guard officers may serve as adjutants to a watch captain (CR 8). Two guard officers can escort a battle mage (CR 7) to respond to magical threats. Four guard officers and a champion (CR 10) form an elite arena fighting team, while two guard officers and two slavers (CR 7 might guard a valuable shipment of slaves.
+Guard officers usually patrol with four guards (CR 6), or three guard officers may serve as adjutants to a watch captain (CR 8). Two guard officers can escort a battle mage (CR 7) to respond to magical threats. Four guard officers and a champion (CR 10) form an elite arena fighting team, while two guard officers and two slavers (CR 7) might guard a valuable shipment of slaves.
 
 **Watch Captain CR 6**
 
@@ -121,7 +121,7 @@ LN Medium humanoid
 
 **AC** 20, touch 11, flat-footed 19 (+9 armor, +1 Dex)
 
-**hp** 57 (7d10+19
+**hp** 57 (7d10+19)
 
 **Fort** +8, **Ref** +4, **Will** +4; +2 vs. fear
 
@@ -145,13 +145,13 @@ LN Medium humanoid
 
 **Feats** [Alertness](../../feats#_alertness), [Combat Expertise](../../feats#_combat-expertise), [Dazzling Display](../../feats#_dazzling-display), [Greater Trip](../../feats#_greater-trip), [Improved Trip](../../feats#_improved-trip), [Iron Will](../../feats#_iron-will), [Persuasive](../../feats#_persuasive), [Weapon Focus](../../feats#_weapon-focus) (halberd), [Weapon Specialization](../../feats#_weapon-specialization) (halberd)
 
-**Skills** [Diplomacy](../../skill_dir/diplomacy#_diplomacy +5, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +4, [Intimidate](../../skill_dir/intimidate#_intimidate +12, [Knowledge](../../skill_dir/knowledge#_knowledge) (engineering +5, [Perception](../../skill_dir/perception#_perception +6, [Profession](../../skill_dir/profession#_profession) (soldier +5, [Ride](../../skill_dir/ride#_ride +2, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +8
+**Skills** [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +5, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +4, [Intimidate](../../skill_dir/intimidate#_intimidate) +12, [Knowledge](../../skill_dir/knowledge#_knowledge) (engineering) +5, [Perception](../../skill_dir/perception#_perception) +6, [Profession](../../skill_dir/profession#_profession) (soldier) +5, [Ride](../../skill_dir/ride#_ride) +2, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +8
 
 **Languages** Common, Halfling
 
 **SQ** armor training 2
 
-**Combat Gear** _potions of [cure moderate wounds](../../spell_dir/cureModerateWounds#_cure-moderate-wounds)_ (2), tanglefoot bags (2); **Other Gear** masterwork full plate, _+1 halberd_, composite longbow (+4 Str with 20 arrows, sap,_ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance +1_, 35 gp
+**Combat Gear** _potions of [cure moderate wounds](../../spell_dir/cureModerateWounds#_cure-moderate-wounds)_ (2), tanglefoot bags (2); **Other Gear** masterwork full plate, _+1 halberd_, composite longbow (+4 Str) with 20 arrows, sap,_ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, 35 gp
 
 **Boon** A watch captain may detain an NPC of up to 9th level for 24 hours and allow a single PC access for questioning, or he could assign one patrol of guards to assist the PCs inside the city for up to 1 hour.
 

@@ -1,5 +1,5 @@
 ---
-title: spells/causeFear
+title: spell_dir/causeFear
 ---
  **Cause Fear**
 

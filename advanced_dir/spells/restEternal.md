@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/restEternal
+title: advance_dir/spells/restEternal
 ---
  **Rest Eternal**
 
@@ -17,5 +17,5 @@ title: advanced/spells/restEternal
 
 **Saving Throw** none; **Spell Resistance** no
 
-You place a curse upon a dead creature that bars its spirit from returning. Anyone casting a spell that would communicate with the dead creature, return it to life, or turn it into an undead creature must succeed on a caster level check with a DC of 11 plus your caster level. _Rest eternal_ cannot be dispelled, but it can be negated with _ [remove curse](../../spell_dir/removeCurse#_remove-curse_ or _ [break enchantment](../../spell_dir/breakEnchantment#_break-enchantment_.
+You place a curse upon a dead creature that bars its spirit from returning. Anyone casting a spell that would communicate with the dead creature, return it to life, or turn it into an undead creature must succeed on a caster level check with a DC of 11 plus your caster level. _Rest eternal_ cannot be dispelled, but it can be negated with _ [remove curse](../../spell_dir/removeCurse#_remove-curse)_ or _ [break enchantment](../../spell_dir/breakEnchantment#_break-enchantment)_.
 

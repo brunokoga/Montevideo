@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spell_dir/joltingPortent
+title: ultimateComba_dir/spells/joltingPortent
 ---
 Jolting Portent
 
-**School** evocation (electricity **Level** cleric 7
+**School** evocation (electricity) **Level** cleric 7
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ Jolting Portent
 
 **Target** one creature
 
-**Duration** 1 roun_dir/level (D see text
+**Duration** 1 roun_dir/level (D) see text
 
 **Saving Throw** none; **Spell Resistance** yes
 

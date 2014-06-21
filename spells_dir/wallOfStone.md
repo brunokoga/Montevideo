@@ -3,7 +3,7 @@ title: spell_dir/wallOfStone
 ---
  **Wall of Stone**
 
-**School** conjuration (creation [earth]; **Level** cleric 5, druid 6, sorcerer/wizard 5
+**School** conjuration (creation) [earth]; **Level** cleric 5, druid 6, sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 
@@ -11,7 +11,7 @@ title: spell_dir/wallOfStone
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Effect** stone wall whose area is up to one 5-ft. squar_dir/level (S
+**Effect** stone wall whose area is up to one 5-ft. squar_dir/level (S)
 
 **Duration** instantaneous
 

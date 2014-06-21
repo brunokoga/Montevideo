@@ -1,5 +1,5 @@
 ---
-title: additionalMonsters/ifrit
+title: additionalMonster_dir/ifrit
 ---
 # Ifrit
 
@@ -11,19 +11,19 @@ IfritCR 1/2
 
 Ifrit sorcerer 1
 
-N Medium [outsider](monster_dir/creatureTypes#_outsider ( [native](monster_dir/creatureTypes#_native-subtype)
+N Medium [outsider](monster_dir/creatureTypes#_outsider) ( [native](monsters/creatureTypes#_native-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) –2
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) –2
 
 Defense
 
 **AC** 13, touch 13, flat-footed 10 (+3 Dex)
 
-**hp** 8 (1d6+2
+**hp** 8 (1d6+2)
 
 **Fort** +1, **Ref** +3, **Will** +0
 
-**Resist** [fire](monster_dir/creatureTypes#_fire-subtype 5
+**Resist** [fire](monsters/creatureTypes#_fire-subtype) 5
 
 Offense
 
@@ -37,15 +37,15 @@ Offense
 
 **Ifrit Spell-Like Abilities** (CL 1st; concentration +4)
 
-1/day—_ [burning hands](additionalMonsters/../spell_dir/burningHands#_burning-hands)_ (DC 15)
+1/day—_ [burning hands](additionalMonster_dir/../spell_dir/burningHands#_burning-hands)_ (DC 15)
 
-**Sorcerer Spells Known** (CL 1st; concentration +4
+**Sorcerer Spells Known** (CL 1st; concentration +4)
 
-1st (4/day)—_ [burning hands](additionalMonsters/../spell_dir/burningHands#_burning-hands)_ (DC 15, [mage armor](additionalMonsters/../spell_dir/mageArmor#_mage-armor)
+1st (4/day)—_ [burning hands](additionalMonster_dir/../spell_dir/burningHands#_burning-hands)_ (DC 15), [mage armor](additionalMonsters/../spell_dir/mageArmor#_mage-armor)
 
-0 (at will—_ [acid splash](additionalMonsters/../spell_dir/acidSplash#_acid-splash_, _ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic_, _ [flare](additionalMonsters/../spell_dir/flare#_flare)_ (DC 14, _ [prestidigitation](additionalMonsters/../spell_dir/prestidigitation#_prestidigitation)_
+0 (at will)—_ [acid splash](additionalMonsters/../spell_dir/acidSplash#_acid-splash)_, _ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic)_, _ [flare](additionalMonsters/../spell_dir/flare#_flare)_ (DC 14), _ [prestidigitation](additionalMonsters/../spell_dir/prestidigitation#_prestidigitation)_
 
-**Bloodline** elemental (fire
+**Bloodline** elemental (fire)
 
 Statistics
 
@@ -53,11 +53,11 @@ Statistics
 
 **Base Atk** +0; **CMB** +0; **CMD** 13
 
-**Feats** [Eschew Materials](additionalMonsters/../feats#_eschew-materials)B, [Martial Weapon Proficiency](additionalMonsters/../feats#_martial-weapon-proficiency) (scimitar)
+**Feats** [Eschew Materials](additionalMonsters/../feats#_eschew-materials)B, [Martial Weapon Proficiency](additionalMonster_dir/../feats#_martial-weapon-proficiency) (scimitar)
 
-**Skills** [Bluff](additionalMonsters/../skill_dir/bluff#_bluff +7, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (arcana +5, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft +5
+**Skills** [Bluff](additionalMonster_dir/../skill_dir/bluff#_bluff) +7, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (arcana) +5, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft) +5
 
-**Languages** Common, [Gnome](monster_dir/creatureTypes#_gnome-subtype), Ignan
+**Languages** Common, [Gnome](monsters/creatureTypes#_gnome-subtype), Ignan
 
 **SQ** bloodline arcana, fire affinity
 
@@ -71,7 +71,7 @@ Ecology
 
 Special Abilities
 
-**Fire Affinity (Ex** Ifrit sorcerers with the [elemental](monster_dir/creatureTypes#_elemental-subtype ( [fire](monster_dir/creatureTypes#_fire-subtype) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Ifrit spellcasters with the [Fire](monster_dir/creatureTypes#_fire-subtype domain use their domain powers and spells at +1 caster level.
+**Fire Affinity (Ex)** Ifrit sorcerers with the [elemental](monster_dir/creatureTypes#_elemental-subtype) ( [fire](monsters/creatureTypes#_fire-subtype)) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Ifrit spellcasters with the [Fire](monster_dir/creatureTypes#_fire-subtype) domain use their domain powers and spells at +1 caster level.
 
 Ifrits are humans whose ancestry includes beings of elemental fire, such as efreet. Ifrits have pointed ears, red or mottled horns on the brow, and hair that flickers and waves as if it were aflame.
 
@@ -85,7 +85,7 @@ Ifrits are defined by class levels—they do not possess racial Hit Dice. Ifrits
 
 **Darkvision** : Ifrits can see in the dark up to 60 feet.
 
-**Spell-Like Ability** : _ [Burning hands](additionalMonsters/../spell_dir/burningHands#_burning-hands_ 1/day (caster level equals the ifrit's total Hit Dice).
+**Spell-Like Ability** : _ [Burning hands](additionalMonsters/../spell_dir/burningHands#_burning-hands)_ 1/day (caster level equals the ifrit's total Hit Dice).
 
 **Energy Resistance** : Ifrits have fire resistance 5.
 

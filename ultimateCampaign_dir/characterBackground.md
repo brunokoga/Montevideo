@@ -58,9 +58,9 @@ When you choose an attribute or trait to use as a quirk or flaw, you can dig dee
 
 ## Using This Section
 
-The rest of this section dives deep into your background, starting from birth and early childhood through adolescence and into early adulthood. Each bit has a number of questions to think (or write about. As you go through them, you might find a question doesn't apply you. That's an opportunity to instead think about why it doesn't apply, and what that means about your relationship to the rest of the world. Likewise, if you find you have a short answer to a question, especially "yes" or "no," that's an opportunity to dig deeper into why that's the case.
+The rest of this section dives deep into your background, starting from birth and early childhood through adolescence and into early adulthood. Each bit has a number of questions to think (or write) about. As you go through them, you might find a question doesn't apply you. That's an opportunity to instead think about why it doesn't apply, and what that means about your relationship to the rest of the world. Likewise, if you find you have a short answer to a question, especially "yes" or "no," that's an opportunity to dig deeper into why that's the case.
 
 Above all, don't let creating a background become a burden for you. The goal is to help you play a character, not to paralyze you with decisions you don't want to make right now.
 
-[Early Life](ultimateCampaign/characterBackgroun_dir/earlyLife [Adolescence](ultimateCampaign/characterBackgroun_dir/adolescence [Adulthood](ultimateCampaign/characterBackgroun_dir/adulthood [Background Generator](ultimateCampaign/characterBackgroun_dir/backgroundGenerator [Traits](ultimateCampaign/characterBackgroun_dir/traits [Story Feats](ultimateCampaign/characterBackgroun_dir/storyFeats
+[Early Life](ultimateCampaign/characterBackgroun_dir/earlyLife) [Adolescence](ultimateCampaign/characterBackgroun_dir/adolescence) [Adulthood](ultimateCampaign/characterBackgroun_dir/adulthood) [Background Generator](ultimateCampaign/characterBackgroun_dir/backgroundGenerator) [Traits](ultimateCampaign/characterBackgroun_dir/traits) [Story Feats](ultimateCampaign/characterBackgroun_dir/storyFeats)
 

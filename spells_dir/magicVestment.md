@@ -1,5 +1,5 @@
 ---
-title: spells/magicVestment
+title: spell_dir/magicVestment
 ---
  **Magic Vestment**
 
