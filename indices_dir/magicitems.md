@@ -1,4 +1,5 @@
 ---
+layout: default
 title: indice_dir/magicitems
 ---
 # Magic Item Index

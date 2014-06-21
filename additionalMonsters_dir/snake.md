@@ -1,4 +1,5 @@
 ---
+layout: default
 title: additionalMonster_dir/snake
 ---
 # Snake, Emperor Cobra

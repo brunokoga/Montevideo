@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/magicArmsAndArmor/specificMagicWeapons
 ---
 # Specific Magic Weapons

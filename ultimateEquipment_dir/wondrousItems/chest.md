@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/wondrousItems/chest
 ---
 # Chest Slot Wondrous Items

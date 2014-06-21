@@ -1,4 +1,5 @@
 ---
+layout: default
 title: spell_dir/symbolOfSleep
 ---
  **Symbol of Sleep**

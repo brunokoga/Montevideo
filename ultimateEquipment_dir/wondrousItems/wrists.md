@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/wondrousItems/wrists
 ---
 # Wrists Slot Wondrous Items

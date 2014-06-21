@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/magicArmsAndArmor/index
 ---
 # Magic Arms and Armor

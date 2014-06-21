@@ -1,4 +1,5 @@
 ---
+layout: default
 title: mythicAdventure_dir/mythicSpells/conjureBlackPudding
 ---
 Conjure Black Pudding

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/spells-by-book
 ---
 - Core Rulebook

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/spelllists-combined-bard
 ---
 - [**Dancing Lights**](spells/dancingLights#_dancing-lights)

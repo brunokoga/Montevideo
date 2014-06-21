@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/gear/alchemicalTools
 ---
 # Alchemical Tools

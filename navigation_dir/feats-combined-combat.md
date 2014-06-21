@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/feats-combined-combat
 ---
 - [Adder Strike (Combat)](ultimateCombat/ultimateCombatFeats#_adder-strike)

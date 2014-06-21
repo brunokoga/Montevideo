@@ -1,4 +1,5 @@
 ---
+layout: default
 title: skill_dir/sleightOfHand
 ---
 # Sleight of Hand

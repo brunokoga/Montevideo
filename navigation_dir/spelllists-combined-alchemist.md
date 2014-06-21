@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/spelllists-combined-alchemist
 ---
 - [**Adjuring Step**](ultimateCombat/spell_dir/adjuringStep#_adjuring-step-)

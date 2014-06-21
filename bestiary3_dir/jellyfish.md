@@ -1,4 +1,5 @@
 ---
+layout: default
 title: bestiary3/jellyfish
 ---
 # Jellyfish, Death's Head

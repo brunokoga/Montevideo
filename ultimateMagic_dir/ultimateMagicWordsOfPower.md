@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateMagi_dir/ultimateMagicWordsOfPower
 ---
 # Words of Power

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/spelllists-combined-druid
 ---
 - [**Create Water**](spells/createWater#_create-water)

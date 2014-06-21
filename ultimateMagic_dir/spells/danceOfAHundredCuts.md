@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateMagi_dir/spells/danceOfAHundredCuts
 ---
 Dance of a Hundred Cuts

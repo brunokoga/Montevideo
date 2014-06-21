@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateMagi_dir/spells/overwhelmingGrief
 ---
 Overwhelming Grief

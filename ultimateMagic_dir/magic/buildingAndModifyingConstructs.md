@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateMagi_dir/magic/buildingAndModifyingConstructs
 ---
 # Building and Modifying Constructs

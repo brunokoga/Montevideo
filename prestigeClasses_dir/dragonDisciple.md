@@ -1,4 +1,5 @@
 ---
+layout: default
 title: prestigeClasse_dir/dragonDisciple
 ---
 # Dragon Disciple

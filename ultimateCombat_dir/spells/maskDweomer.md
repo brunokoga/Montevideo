@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateComba_dir/spells/maskDweomer
 ---
 Mask Dweomer, Communal

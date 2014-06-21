@@ -1,4 +1,5 @@
 ---
+layout: default
 title: npcCode_dir/npc/commoner
 ---
 # Commoners

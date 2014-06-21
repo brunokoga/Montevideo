@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateMagi_dir/spells/ghostlyDisguise
 ---
 Ghostly [Disguise](skill_dir/disguise#_disguise)

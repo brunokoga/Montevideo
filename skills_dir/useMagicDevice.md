@@ -1,4 +1,5 @@
 ---
+layout: default
 title: skill_dir/useMagicDevice
 ---
 # Use Magic Device

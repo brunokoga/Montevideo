@@ -1,4 +1,5 @@
 ---
+layout: default
 title: mythicAdventure_dir/mythicHeroes
 ---
 [Archmage](mythicAdventures/mythicHeroe_dir/archmage) [Champion](mythicAdventures/mythicHeroe_dir/champion) [Guardian](mythicAdventures/mythicHeroe_dir/guardian) [Heirophant](mythicAdventures/mythicHeroe_dir/hierophant) [Marshal](mythicAdventures/mythicHeroe_dir/marshal) [Trickster](mythicAdventures/mythicHeroe_dir/trickster)

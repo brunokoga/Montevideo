@@ -1,4 +1,5 @@
 ---
+layout: default
 title: spell_dir/summonNatureSAlly
 ---
  **Summon Nature's Ally I**

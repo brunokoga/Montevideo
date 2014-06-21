@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/gear/toolsAndSkillKits
 ---
 ## Tools and Skill Kits

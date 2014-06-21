@@ -1,4 +1,5 @@
 ---
+layout: default
 title: npcCode_dir/prestige/mysticTheurge
 ---
 # Mystic Theurges

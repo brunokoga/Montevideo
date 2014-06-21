@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/spells-combined-index
 ---
 - A Spells

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/feats-combined
 ---
 - [Combat Feats](navigation/feats-combined-combat#_combined-feats-combat)

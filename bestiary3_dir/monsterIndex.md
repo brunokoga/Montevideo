@@ -1,4 +1,5 @@
 ---
+layout: default
 title: bestiary3/monsterIndex
 ---
 # Bestiary 3 Monster Index

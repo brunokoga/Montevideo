@@ -1,4 +1,5 @@
 ---
+layout: default
 title: magicItem_dir/armor
 ---
 # [Armor](magicItemCreation#_creating-magic-armor)

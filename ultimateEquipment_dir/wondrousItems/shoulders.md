@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/wondrousItems/shoulders
 ---
 # Shoulders Slot Wondrous Items

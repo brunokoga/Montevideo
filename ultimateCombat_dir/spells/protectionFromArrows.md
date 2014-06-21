@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateComba_dir/spells/protectionFromArrows
 ---
 Protection from Arrows, Communal

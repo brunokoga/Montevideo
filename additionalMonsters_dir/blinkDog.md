@@ -1,4 +1,5 @@
 ---
+layout: default
 title: additionalMonster_dir/blinkDog
 ---
 # Blink Dog

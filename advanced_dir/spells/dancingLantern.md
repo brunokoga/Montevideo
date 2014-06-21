@@ -1,4 +1,5 @@
 ---
+layout: default
 title: advance_dir/spells/dancingLantern
 ---
  **Dancing Lantern**

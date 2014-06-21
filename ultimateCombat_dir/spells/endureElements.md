@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateComba_dir/spells/endureElements
 ---
 Endure Elements, Communal

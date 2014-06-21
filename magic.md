@@ -1,4 +1,5 @@
 ---
+layout: default
 title: magic
 ---
 A spell is a one-time magical effect. Spells come in two types: arcane (cast by bards, sorcerers, and wizards) and divine (cast by clerics, druids, and experienced paladins and rangers). Some spellcasters select their spells from a limited list of spells known, while others have access to a wide variety of options.

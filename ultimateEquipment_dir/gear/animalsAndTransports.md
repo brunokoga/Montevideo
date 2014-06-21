@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/gear/animalsAndTransports
 ---
 ## Animals, Mounts, and Related Gear

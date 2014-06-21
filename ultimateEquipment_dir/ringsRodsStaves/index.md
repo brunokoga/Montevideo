@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/ringsRodsStaves/index
 ---
 # Rings, Rods, and Staves

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: mythicAdventure_dir/mythicSpells/inflictSeriousWounds
 ---
 Inflict Serious Wounds

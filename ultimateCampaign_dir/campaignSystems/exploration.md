@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateCampaig_dir/campaignSystems/exploration
 ---
 # Exploration

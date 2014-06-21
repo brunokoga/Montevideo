@@ -1,4 +1,5 @@
 ---
+layout: default
 title: spell_dir/bearSEndurance
 ---
  **Bear's Endurance**

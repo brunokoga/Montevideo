@@ -1,4 +1,5 @@
 ---
+layout: default
 title: spell_dir/neutralizePoison
 ---
  **Neutralize Poison**

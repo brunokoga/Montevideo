@@ -1,4 +1,5 @@
 ---
+layout: default
 title: prestigeClasses
 ---
 Prestige classes allow characters to become truly exceptional, gaining powers beyond the ken of their peers. Unlike the core classes_, _characters must meet specific requirements before they can take their first level of a prestige class. If a character does not meet the requirements for a prestige class before gaining any benefits of that level, that character cannot take that prestige class. Characters that take levels in prestige classes do not gain any favored class bonuses for those levels.

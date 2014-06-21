@@ -1,4 +1,5 @@
 ---
+layout: default
 title: npcCode_dir/appendix
 ---
 # Appendix 1: Animal Companions

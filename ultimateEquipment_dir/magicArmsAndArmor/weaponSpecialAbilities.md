@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/magicArmsAndArmor/weaponSpecialAbilities
 ---
 # Weapon Special Abilities

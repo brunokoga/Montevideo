@@ -1,4 +1,5 @@
 ---
+layout: default
 title: mythicAdventure_dir/mythicSpells/formOfTheDragon
 ---
 Form of the Dragon (All)

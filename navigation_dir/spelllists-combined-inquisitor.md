@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/spelllists-combined-inquisitor
 ---
 - [**Acid Splash**](spells/acidSplash#_acid-splash)

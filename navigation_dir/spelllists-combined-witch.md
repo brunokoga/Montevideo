@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/spelllists-combined-witch
 ---
 - [**Arcane Mark**](spells/arcaneMark#_arcane-mark)

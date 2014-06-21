@@ -1,4 +1,5 @@
 ---
+layout: default
 title: prestigeClasse_dir/arcaneTrickster
 ---
 # Arcane Trickster

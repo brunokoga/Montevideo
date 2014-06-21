@@ -1,4 +1,5 @@
 ---
+layout: default
 title: advance_dir/prestigeClasses/natureWarden
 ---
 # Nature Warden

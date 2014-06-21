@@ -1,4 +1,5 @@
 ---
+layout: default
 title: advancedRaceGuid_dir/uncommonRaces/gillmen
 ---
 # Gillmen

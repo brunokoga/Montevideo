@@ -1,4 +1,5 @@
 ---
+layout: default
 title: advance_dir/spells/fly
 ---
  **[Fly](../../skill_dir/fly#_fly), Mass**

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: bestiary3/wolfInSheepSClothing
 ---
 # Wolf-in-Sheep's-Clothing

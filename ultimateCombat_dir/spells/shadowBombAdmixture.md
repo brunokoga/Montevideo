@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateComba_dir/spells/shadowBombAdmixture
 ---
 Shadow Bomb Admixture

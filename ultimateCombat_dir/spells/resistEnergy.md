@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateComba_dir/spells/resistEnergy
 ---
 Resist Energy, Communal

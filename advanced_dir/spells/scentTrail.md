@@ -1,4 +1,5 @@
 ---
+layout: default
 title: advance_dir/spells/scentTrail
 ---
  **Scent Trail**

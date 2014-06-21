@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/spelllists-combined-antipaladin
 ---
 - [**Bane**](spells/bane)

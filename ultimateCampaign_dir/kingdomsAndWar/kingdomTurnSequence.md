@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateCampaig_dir/kingdomsAndWar/kingdomTurnSequence
 ---
 # Kingdom Turn Sequence

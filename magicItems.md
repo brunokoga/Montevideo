@@ -1,4 +1,5 @@
 ---
+layout: default
 title: magicItems
 ---
 [Armor](magicItem_dir/armor) [Weapons](magicItems/weapons) [Potions](magicItem_dir/potions) [Rings](magicItems/rings) [Rods](magicItem_dir/rods) [Scrolls](magicItems/scrolls) [Staves](magicItem_dir/staves) [Wands](magicItems/wands) [Wondrous Items](magicItem_dir/wondrousItems) [Intelligent Items](magicItems/intelligentItems) [Cursed Items](magicItem_dir/cursedItems) [Specific Cursed Items](magicItems/specificCursedItems) [Artifacts](magicItem_dir/artifacts) [Magic Item Creation](magicItems/magicItemCreation)

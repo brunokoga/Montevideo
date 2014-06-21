@@ -1,4 +1,5 @@
 ---
+layout: default
 title: magicItem_dir/cursedItems
 ---
 # Cursed Items

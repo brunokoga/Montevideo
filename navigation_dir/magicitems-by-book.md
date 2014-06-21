@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/magicitems-by-book
 ---
 - [Browse](advanced/advancedMagicItems)

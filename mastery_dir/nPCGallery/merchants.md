@@ -1,4 +1,5 @@
 ---
+layout: default
 title: master_dir/nPCGallery/merchants
 ---
 # Merchants

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: mythicAdventure_dir/mythicHeroes/marshal
 ---
 # Marshal

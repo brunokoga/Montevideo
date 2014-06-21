@@ -1,4 +1,5 @@
 ---
+layout: default
 title: additionalMonster_dir/denizenOfLeng
 ---
 # Denizen of Leng

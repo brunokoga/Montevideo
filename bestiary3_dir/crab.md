@@ -1,4 +1,5 @@
 ---
+layout: default
 title: bestiary3/crab
 ---
 # Crab, Shark-Eating

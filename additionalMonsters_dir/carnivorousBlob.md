@@ -1,4 +1,5 @@
 ---
+layout: default
 title: additionalMonster_dir/carnivorousBlob
 ---
 # Carnivorous Blob

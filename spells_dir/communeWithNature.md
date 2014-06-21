@@ -1,4 +1,5 @@
 ---
+layout: default
 title: spell_dir/communeWithNature
 ---
  **Commune with Nature**

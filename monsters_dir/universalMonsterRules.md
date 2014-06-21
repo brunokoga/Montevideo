@@ -1,4 +1,5 @@
 ---
+layout: default
 title: monster_dir/universalMonsterRules
 ---
 # Universal Monster Rules

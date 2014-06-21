@@ -1,4 +1,5 @@
 ---
+layout: default
 title: classe_dir/bard
 ---
 # Bard

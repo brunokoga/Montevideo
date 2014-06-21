@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/spelllists-combined-sorcerer-wizard
 ---
 - [**Acid Splash**](spells/acidSplash#_acid-splash)

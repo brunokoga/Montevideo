@@ -1,4 +1,5 @@
 ---
+layout: default
 title: advance_dir/spells/putrefyFoodAndDrink
 ---
  **Putrefy Food and Drink**

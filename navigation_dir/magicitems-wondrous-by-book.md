@@ -1,4 +1,5 @@
 ---
+layout: default
 title: navigatio_dir/magicitems-wondrous-by-book
 ---
 - A

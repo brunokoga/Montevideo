@@ -1,4 +1,5 @@
 ---
+layout: default
 title: magicItem_dir/magicItemCreation
 ---
 # Magic Item Creation

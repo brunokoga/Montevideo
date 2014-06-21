@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/wondrousItems/hands
 ---
 # Hands Slot Wondrous Items

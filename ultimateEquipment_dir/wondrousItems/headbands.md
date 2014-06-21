@@ -1,4 +1,5 @@
 ---
+layout: default
 title: ultimateEquipmen_dir/wondrousItems/headbands
 ---
 # Headband Slot Wondrous Items

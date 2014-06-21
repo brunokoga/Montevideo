@@ -1,4 +1,5 @@
 ---
+layout: default
 title: additionalMonster_dir/spider
 ---
 # Spider, Giant Black Widow
