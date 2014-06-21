@@ -920,7 +920,7 @@ Creatures with a reach of 0 feet can't flank an opponent.
 
 A helpless opponent is someone who is bound, sleeping, [paralyzed](glossary.md#_paralyzed), [unconscious](glossary.md#_unconscious), or otherwise at your mercy.
 
-**Regular Attack** : A [helpless](glossary.md#_helpless) character takes a –4 penalty to AC against melee attacks. In addition, a [helpless](glossary.md#_helpless) character is treated as having a [Dexterity](gettingStarted.md#dexterity) of 0, giving him a –5 penalty to AC against both melee and ranged attacks (for a total of –9 against melee and –5 against ranged). A [helpless](glossary.md#_helpless) character is also [flat-footed](glossary.md#_flat-footed).
+**Regular Attack** : A [helpless](glossary.md#_helpless) character takes a –4 penalty to AC against melee attacks. In addition, a [helpless](glossary.md#_helpless) character is treated as having a [Dexterity](gettingStarted.md#_dexterity) of 0, giving him a –5 penalty to AC against both melee and ranged attacks (for a total of –9 against melee and –5 against ranged). A [helpless](glossary.md#_helpless) character is also [flat-footed](glossary.md#_flat-footed).
 
 **Coup de Grace** : As a full-round action, you can use a melee weapon to deliver a coup de grace (pronounced “coo day grahs”) to a [helpless](glossary.md#_helpless) opponent. You can also use a bow or crossbow, provided you are adjacent to the target.
 
