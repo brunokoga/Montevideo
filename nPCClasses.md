@@ -10,7 +10,7 @@ title: nPCClasses
 
 ## Class Skills
 
-The adept's class skills (and the key ability for each skill) are [Craft](skill_dir/craft#_craft) ( [Int](gettingStarted#_intelligence)), [Handle Animal](skills/handleAnimal#_handle-animal) ( [Cha](gettingStarted#_charisma-new)), [Heal](skill_dir/heal#_heal) ( [Wis](gettingStarted#_wisdom)), [Knowledge](skills/knowledge#_knowledge) (all skills taken individually) ( [Int](gettingStarted#_intelligence)), [Profession](skill_dir/profession#_profession) ( [Wis](gettingStarted#_wisdom)), [Spellcraft](skills/spellcraft#_spellcraft) ( [Int](gettingStarted#_intelligence)), and [Survival](skill_dir/survival#_survival) ( [Wis](gettingStarted#_wisdom)).
+The adept's class skills (and the key ability for each skill) are [Craft](skills_dir/craft#_craft) ( [Int](gettingStarted#_intelligence)), [Handle Animal](skills_dir/handleAnimal#_handle-animal) ( [Cha](gettingStarted#_charisma-new)), [Heal](skills_dir/heal#_heal) ( [Wis](gettingStarted#_wisdom)), [Knowledge](skills_dir/knowledge#_knowledge) (all skills taken individually) ( [Int](gettingStarted#_intelligence)), [Profession](skills_dir/profession#_profession) ( [Wis](gettingStarted#_wisdom)), [Spellcraft](skills_dir/spellcraft#_spellcraft) ( [Int](gettingStarted#_intelligence)), and [Survival](skills_dir/survival#_survival) ( [Wis](gettingStarted#_wisdom)).
 
 **Skill Ranks per Level** : 2 + [Int](gettingStarted#_intelligence) modifier.
 
@@ -30,15 +30,15 @@ The adept's class skills (and the key ability for each skill) are [Craft](skill_
 | 9th | +4 | +3 | +3 | +6 | | 3 | 3 | 2 | 1 | — | — |
 | 10th | +5 | +3 | +3 | +7 | | 3 | 3 | 2 | 1 | — | — |
 | 11th | +5 | +3 | +3 | +7 | | 3 | 3 | 3 | 2 | — | — |
-| 12th | +6/+1 | +4 | +4 | +8 | | 3 | 3 | 3 | 2 | 0 | — |
-| 13th | +6/+1 | +4 | +4 | +8 | | 3 | 3 | 3 | 2 | 1 | — |
-| 14th | +7/+2 | +4 | +4 | +9 | | 3 | 3 | 3 | 2 | 1 | — |
-| 15th | +7/+2 | +5 | +5 | +9 | | 3 | 3 | 3 | 3 | 2 | — |
-| 16th | +8/+3 | +5 | +5 | +10 | | 3 | 3 | 3 | 3 | 2 | 0 |
-| 17th | +8/+3 | +5 | +5 | +10 | | 3 | 3 | 3 | 3 | 2 | 1 |
-| 18th | +9/+4 | +6 | +6 | +11 | | 3 | 3 | 3 | 3 | 2 | 1 |
-| 19th | +9/+4 | +6 | +6 | +11 | | 3 | 3 | 3 | 3 | 3 | 2 |
-| 20th | +10/+5 | +6 | +6 | +12 | | 3 | 3 | 3 | 3 | 3 | 2 |
+| 12th | +6_dir/+1 | +4 | +4 | +8 | | 3 | 3 | 3 | 2 | 0 | — |
+| 13th | +6_dir/+1 | +4 | +4 | +8 | | 3 | 3 | 3 | 2 | 1 | — |
+| 14th | +7_dir/+2 | +4 | +4 | +9 | | 3 | 3 | 3 | 2 | 1 | — |
+| 15th | +7_dir/+2 | +5 | +5 | +9 | | 3 | 3 | 3 | 3 | 2 | — |
+| 16th | +8_dir/+3 | +5 | +5 | +10 | | 3 | 3 | 3 | 3 | 2 | 0 |
+| 17th | +8_dir/+3 | +5 | +5 | +10 | | 3 | 3 | 3 | 3 | 2 | 1 |
+| 18th | +9_dir/+4 | +6 | +6 | +11 | | 3 | 3 | 3 | 3 | 2 | 1 |
+| 19th | +9_dir/+4 | +6 | +6 | +11 | | 3 | 3 | 3 | 3 | 3 | 2 |
+| 20th | +10_dir/+5 | +6 | +6 | +12 | | 3 | 3 | 3 | 3 | 3 | 2 |
 
 ## Class Features
 
@@ -58,23 +58,23 @@ Where Table 14–1 indicates that the adept gets 0 spells per day of a given spe
 
 Each adept has a particular holy symbol (as a divine focus) depending on the adept's magical tradition.
 
-**Summon Familiar** : At 2nd level, an adept can call a [familiar](classe_dir/wizard#_familiars), just as a wizard can using the arcane bond ability.
+**Summon Familiar** : At 2nd level, an adept can call a [familiar](classes_dir/wizard#_familiars), just as a wizard can using the arcane bond ability.
 
 ## Adept Spell List
 
 Adepts choose their spells from the following list.
 
-0 Level: _ [create water](spells/createWater#_create-water), [detect magic](spell_dir/detectMagic#_detect-magic), [ghost sound](spells/ghostSound#_ghost-sound), [guidance](spell_dir/guidance#_guidance), [light](spells/light#_light), [mending](spell_dir/mending#_mending), [purify food and drink](spells/purifyFoodAndDrink#_purify-food-and-drink), [read magic](spell_dir/readMagic#_read-magic), [stabilize](spells/stabilize#_stabilize), [touch of fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue)._
+0 Level: _ [create water](spells_dir/createWater#_create-water), [detect magic](spells_dir/detectMagic#_detect-magic), [ghost sound](spells_dir/ghostSound#_ghost-sound), [guidance](spells_dir/guidance#_guidance), [light](spells_dir/light#_light), [mending](spells_dir/mending#_mending), [purify food and drink](spells_dir/purifyFoodAndDrink#_purify-food-and-drink), [read magic](spells_dir/readMagic#_read-magic), [stabilize](spells_dir/stabilize#_stabilize), [touch of fatigue](spells_dir/touchOfFatigue#_touch-of-fatigue)._
 
-1st Level: _ [bless](spells/bless#_bless), [burning hands](spell_dir/burningHands#_burning-hands), [cause fear](spells/causeFear#_cause-fear), [command](spell_dir/command#_command), [comprehend languages](spells/comprehendLanguages#_comprehend-languages), [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds), [detect chaos](spells/detectChaos#_detect-chaos), [detect evil](spell_dir/detectEvil#_detect-evil), [detect good](spells/detectGood#_detect-good), [detect law](spell_dir/detectLaw#_detect-law), [endure elements](spells/endureElements#_endure-elements), [obscuring mist](spell_dir/obscuringMist#_obscuring-mist), [protection from chaos](spells/protectionFromChaos#_protection-from-chaos), [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil), [protection from good](spells/protectionFromGood#_protection-from-good), [protection from law](spell_dir/protectionFromLaw#_protection-from-law), [sleep](spells/sleep#_sleep)._
+1st Level: _ [bless](spells_dir/bless#_bless), [burning hands](spells_dir/burningHands#_burning-hands), [cause fear](spells_dir/causeFear#_cause-fear), [command](spells_dir/command#_command), [comprehend languages](spells_dir/comprehendLanguages#_comprehend-languages), [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds), [detect chaos](spells_dir/detectChaos#_detect-chaos), [detect evil](spells_dir/detectEvil#_detect-evil), [detect good](spells_dir/detectGood#_detect-good), [detect law](spells_dir/detectLaw#_detect-law), [endure elements](spells_dir/endureElements#_endure-elements), [obscuring mist](spells_dir/obscuringMist#_obscuring-mist), [protection from chaos](spells_dir/protectionFromChaos#_protection-from-chaos), [protection from evil](spells_dir/protectionFromEvil#_protection-from-evil), [protection from good](spells_dir/protectionFromGood#_protection-from-good), [protection from law](spells_dir/protectionFromLaw#_protection-from-law), [sleep](spells_dir/sleep#_sleep)._
 
-2nd Level: _ [aid](spell_dir/aid#_aid), [animal trance](spells/animalTrance#_animal-trance), [bear's endurance](spell_dir/bearSEndurance#_bear-s-endurance), [bull's strength](spells/bullSStrength#_bull-s-strength), [cat's grace](spell_dir/catSGrace#_cat-s-grace), [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds), [darkness](spell_dir/darkness#_darkness), [delay poison](spells/delayPoison#_delay-poison), [invisibility](spell_dir/invisibility#_invisibility), [mirror image](spells/mirrorImage#_mirror-image), [resist energy](spell_dir/resistEnergy#_resist-energy), [scorching ray](spells/scorchingRay#_scorching-ray), [see invisibility](spell_dir/seeInvisibility#_see-invisibility), [web](spells/web#_web)._
+2nd Level: _ [aid](spells_dir/aid#_aid), [animal trance](spells_dir/animalTrance#_animal-trance), [bear's endurance](spells_dir/bearSEndurance#_bear-s-endurance), [bull's strength](spells_dir/bullSStrength#_bull-s-strength), [cat's grace](spells_dir/catSGrace#_cat-s-grace), [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds), [darkness](spells_dir/darkness#_darkness), [delay poison](spells_dir/delayPoison#_delay-poison), [invisibility](spells_dir/invisibility#_invisibility), [mirror image](spells_dir/mirrorImage#_mirror-image), [resist energy](spells_dir/resistEnergy#_resist-energy), [scorching ray](spells_dir/scorchingRay#_scorching-ray), [see invisibility](spells_dir/seeInvisibility#_see-invisibility), [web](spells_dir/web#_web)._
 
-3rd Level: _ [animate dead](spell_dir/animateDead#_animate-dead), [bestow curse](spells/bestowCurse#_bestow-curse), [contagion](spell_dir/contagion#_contagion), [continual flame](spells/continualFlame#_continual-flame), [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds), [daylight](spells/daylight#_daylight), [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness), [lightning bolt](spells/lightningBolt#_lightning-bolt), [neutralize poison](spell_dir/neutralizePoison#_neutralize-poison), [remove curse](spells/removeCurse#_remove-curse), [remove disease](spell_dir/removeDisease#_remove-disease), [tongues](spells/tongues#_tongues)._
+3rd Level: _ [animate dead](spells_dir/animateDead#_animate-dead), [bestow curse](spells_dir/bestowCurse#_bestow-curse), [contagion](spells_dir/contagion#_contagion), [continual flame](spells_dir/continualFlame#_continual-flame), [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds), [daylight](spells_dir/daylight#_daylight), [deeper darkness](spells_dir/deeperDarkness#_deeper-darkness), [lightning bolt](spells_dir/lightningBolt#_lightning-bolt), [neutralize poison](spells_dir/neutralizePoison#_neutralize-poison), [remove curse](spells_dir/removeCurse#_remove-curse), [remove disease](spells_dir/removeDisease#_remove-disease), [tongues](spells_dir/tongues#_tongues)._
 
-4th Level: _ [cure critical wounds](spell_dir/cureCriticalWounds#_cure-critical-wounds), [minor creation](spells/minorCreation#_minor-creation), [polymorph](spell_dir/polymorph#_polymorph), [restoration](spells/restoration#_restoration), [stoneskin](spell_dir/stoneskin#_stoneskin), [wall of fire](spells/wallOfFire#_wall-of-fire)._
+4th Level: _ [cure critical wounds](spells_dir/cureCriticalWounds#_cure-critical-wounds), [minor creation](spells_dir/minorCreation#_minor-creation), [polymorph](spells_dir/polymorph#_polymorph), [restoration](spells_dir/restoration#_restoration), [stoneskin](spells_dir/stoneskin#_stoneskin), [wall of fire](spells_dir/wallOfFire#_wall-of-fire)._
 
-5th Level: _ [baleful polymorph](spell_dir/balefulPolymorph#_baleful-polymorph), [break enchantment](spells/breakEnchantment#_break-enchantment), [commune](spell_dir/commune#_commune), [heal](spells/heal#_heal), [major creation](spell_dir/majorCreation#_major-creation), [raise dead](spells/raiseDead#_raise-dead), [true seeing](spell_dir/trueSeeing#_true-seeing), [wall of stone](spells/wallOfStone#_wall-of-stone)._
+5th Level: _ [baleful polymorph](spells_dir/balefulPolymorph#_baleful-polymorph), [break enchantment](spells_dir/breakEnchantment#_break-enchantment), [commune](spells_dir/commune#_commune), [heal](spells_dir/heal#_heal), [major creation](spells_dir/majorCreation#_major-creation), [raise dead](spells_dir/raiseDead#_raise-dead), [true seeing](spells_dir/trueSeeing#_true-seeing), [wall of stone](spells_dir/wallOfStone#_wall-of-stone)._
 
 # Aristocrat
 
@@ -84,7 +84,7 @@ Adepts choose their spells from the following list.
 
 ## Class Skills
 
-The aristocrat's class skills (and the key ability for each skill) are [Appraise](skill_dir/appraise#_appraise) ( [Int](gettingStarted#_intelligence)), [Bluff](skills/bluff#_bluff) ( [Cha](gettingStarted#_charisma-new)), [Craft](skill_dir/craft#_craft) ( [Int](gettingStarted#_intelligence)), [Diplomacy](skills/diplomacy#_diplomacy) ( [Cha](gettingStarted#_charisma-new)), [Disguise](skill_dir/disguise#_disguise) ( [Cha](gettingStarted#_charisma-new)), [Handle Animal](skills/handleAnimal#_handle-animal) ( [Cha](gettingStarted#_charisma-new)), [Intimidate](skill_dir/intimidate#_intimidate) ( [Cha](gettingStarted#_charisma-new)), [Knowledge](skills/knowledge#_knowledge) (all skills taken individually) ( [Int](gettingStarted#_intelligence)), [Linguistics](skill_dir/linguistics#_linguistics) ( [Int](gettingStarted#_intelligence)), [Perception](skills/perception#_perception) ( [Wis](gettingStarted#_wisdom)), [Perform](skill_dir/perform#_perform) ( [Cha](gettingStarted#_charisma-new)), [Profession](skills/profession#_profession) ( [Wis](gettingStarted#_wisdom)), [Ride](skill_dir/ride#_ride) ( [Dex](gettingStarted#_dexterity)), [Sense Motive](skills/senseMotive#_sense-motive) ( [Wis](gettingStarted#_wisdom)), [Swim](skill_dir/swim#_swim) ( [Str](gettingStarted#_strength)), and [Survival](skills/survival#_survival) ( [Wis](gettingStarted#_wisdom)).
+The aristocrat's class skills (and the key ability for each skill) are [Appraise](skills_dir/appraise#_appraise) ( [Int](gettingStarted#_intelligence)), [Bluff](skills_dir/bluff#_bluff) ( [Cha](gettingStarted#_charisma-new)), [Craft](skills_dir/craft#_craft) ( [Int](gettingStarted#_intelligence)), [Diplomacy](skills_dir/diplomacy#_diplomacy) ( [Cha](gettingStarted#_charisma-new)), [Disguise](skills_dir/disguise#_disguise) ( [Cha](gettingStarted#_charisma-new)), [Handle Animal](skills_dir/handleAnimal#_handle-animal) ( [Cha](gettingStarted#_charisma-new)), [Intimidate](skills_dir/intimidate#_intimidate) ( [Cha](gettingStarted#_charisma-new)), [Knowledge](skills_dir/knowledge#_knowledge) (all skills taken individually) ( [Int](gettingStarted#_intelligence)), [Linguistics](skills_dir/linguistics#_linguistics) ( [Int](gettingStarted#_intelligence)), [Perception](skills_dir/perception#_perception) ( [Wis](gettingStarted#_wisdom)), [Perform](skills_dir/perform#_perform) ( [Cha](gettingStarted#_charisma-new)), [Profession](skills_dir/profession#_profession) ( [Wis](gettingStarted#_wisdom)), [Ride](skills_dir/ride#_ride) ( [Dex](gettingStarted#_dexterity)), [Sense Motive](skills_dir/senseMotive#_sense-motive) ( [Wis](gettingStarted#_wisdom)), [Swim](skills_dir/swim#_swim) ( [Str](gettingStarted#_strength)), and [Survival](skills_dir/survival#_survival) ( [Wis](gettingStarted#_wisdom)).
 
 **Skill Ranks per Level** : 4 + [Int](gettingStarted#_intelligence) modifier.
 
@@ -98,19 +98,19 @@ The aristocrat's class skills (and the key ability for each skill) are [Appraise
 | 5th | +3 | +1 | +1 | +4 |
 | 6th | +4 | +2 | +2 | +5 |
 | 7th | +5 | +2 | +2 | +5 |
-| 8th | +6/+1 | +2 | +2 | +6 |
-| 9th | +6/+1 | +3 | +3 | +6 |
-| 10th | +7/+2 | +3 | +3 | +7 |
-| 11th | +8/+3 | +3 | +3 | +7 |
-| 12th | +9/+4 | +4 | +4 | +8 |
-| 13th | +9/+4 | +4 | +4 | +8 |
-| 14th | +10/+5 | +4 | +4 | +9 |
-| 15th | +11/+6/+1 | +5 | +5 | +9 |
-| 16th | +12/+7/+2 | +5 | +5 | +10 |
-| 17th | +12/+7/+2 | +5 | +5 | +10 |
-| 18th | +13/+8/+3 | +6 | +6 | +11 |
-| 19th | +14/+9/+4 | +6 | +6 | +11 |
-| 20th | +15/+10/+5 | +6 | +6 | +12 |
+| 8th | +6_dir/+1 | +2 | +2 | +6 |
+| 9th | +6_dir/+1 | +3 | +3 | +6 |
+| 10th | +7_dir/+2 | +3 | +3 | +7 |
+| 11th | +8_dir/+3 | +3 | +3 | +7 |
+| 12th | +9_dir/+4 | +4 | +4 | +8 |
+| 13th | +9_dir/+4 | +4 | +4 | +8 |
+| 14th | +10_dir/+5 | +4 | +4 | +9 |
+| 15th | +11_dir/+6_dir/+1 | +5 | +5 | +9 |
+| 16th | +12_dir/+7_dir/+2 | +5 | +5 | +10 |
+| 17th | +12_dir/+7_dir/+2 | +5 | +5 | +10 |
+| 18th | +13_dir/+8_dir/+3 | +6 | +6 | +11 |
+| 19th | +14_dir/+9_dir/+4 | +6 | +6 | +11 |
+| 20th | +15_dir/+10_dir/+5 | +6 | +6 | +12 |
 
 ## Class Features
 
@@ -126,7 +126,7 @@ The following is a class feature of the aristocrat NPC class.
 
 ## Class Skills
 
-The commoner's class skills (and the key ability for each skill) are [Climb](skill_dir/climb#_climb) ( [Str](gettingStarted#_strength)), [Craft](skills/craft#_craft) ( [Int](gettingStarted#_intelligence)), [Handle Animal](skill_dir/handleAnimal#_handle-animal) ( [Cha](gettingStarted#_charisma-new)), [Perception](skills/perception#_perception) ( [Wis](gettingStarted#_wisdom)), [Profession](skill_dir/profession#_profession) ( [Wis](gettingStarted#_wisdom)), [Ride](skills/ride#_ride) ( [Dex](gettingStarted#_dexterity)), and [Swim](skill_dir/swim#_swim) ( [Str](gettingStarted#_strength)).
+The commoner's class skills (and the key ability for each skill) are [Climb](skills_dir/climb#_climb) ( [Str](gettingStarted#_strength)), [Craft](skills_dir/craft#_craft) ( [Int](gettingStarted#_intelligence)), [Handle Animal](skills_dir/handleAnimal#_handle-animal) ( [Cha](gettingStarted#_charisma-new)), [Perception](skills_dir/perception#_perception) ( [Wis](gettingStarted#_wisdom)), [Profession](skills_dir/profession#_profession) ( [Wis](gettingStarted#_wisdom)), [Ride](skills_dir/ride#_ride) ( [Dex](gettingStarted#_dexterity)), and [Swim](skills_dir/swim#_swim) ( [Str](gettingStarted#_strength)).
 
 **Skill Ranks per Level** : 2 + [Int](gettingStarted#_intelligence) modifier.
 
@@ -144,15 +144,15 @@ The commoner's class skills (and the key ability for each skill) are [Climb](ski
 | 9th | +4 | +3 | +3 | +3 |
 | 10th | +5 | +3 | +3 | +3 |
 | 11th | +5 | +3 | +3 | +3 |
-| 12th | +6/+1 | +4 | +4 | +4 |
-| 13th | +6/+1 | +4 | +4 | +4 |
-| 14th | +7/+2 | +4 | +4 | +4 |
-| 15th | +7/+2 | +5 | +5 | +5 |
-| 16th | +8/+3 | +5 | +5 | +5 |
-| 17th | +8/+3 | +5 | +5 | +5 |
-| 18th | +9/+4 | +6 | +6 | +6 |
-| 19th | +9/+4 | +6 | +6 | +6 |
-| 20th | +10/+5 | +6 | +6 | +6 |
+| 12th | +6_dir/+1 | +4 | +4 | +4 |
+| 13th | +6_dir/+1 | +4 | +4 | +4 |
+| 14th | +7_dir/+2 | +4 | +4 | +4 |
+| 15th | +7_dir/+2 | +5 | +5 | +5 |
+| 16th | +8_dir/+3 | +5 | +5 | +5 |
+| 17th | +8_dir/+3 | +5 | +5 | +5 |
+| 18th | +9_dir/+4 | +6 | +6 | +6 |
+| 19th | +9_dir/+4 | +6 | +6 | +6 |
+| 20th | +10_dir/+5 | +6 | +6 | +6 |
 
 ## Class Features
 
@@ -182,19 +182,19 @@ The expert can choose any 10 skills to be class skills.
 | 5th | +3 | +1 | +1 | +4 |
 | 6th | +4 | +2 | +2 | +5 |
 | 7th | +5 | +2 | +2 | +5 |
-| 8th | +6/+1 | +2 | +2 | +6 |
-| 9th | +6/+1 | +3 | +3 | +6 |
-| 10th | +7/+2 | +3 | +3 | +7 |
-| 11th | +8/+3 | +3 | +3 | +7 |
-| 12th | +9/+4 | +4 | +4 | +8 |
-| 13th | +9/+4 | +4 | +4 | +8 |
-| 14th | +10/+5 | +4 | +4 | +9 |
-| 15th | +11/+6/+1 | +5 | +5 | +9 |
-| 16th | +12/+7/+2 | +5 | +5 | +10 |
-| 17th | +12/+7/+2 | +5 | +5 | +10 |
-| 18th | +13/+8/+3 | +6 | +6 | +11 |
-| 19th | +14/+9/+4 | +6 | +6 | +11 |
-| 20th | +15/+10/+5 | +6 | +6 | +12 |
+| 8th | +6_dir/+1 | +2 | +2 | +6 |
+| 9th | +6_dir/+1 | +3 | +3 | +6 |
+| 10th | +7_dir/+2 | +3 | +3 | +7 |
+| 11th | +8_dir/+3 | +3 | +3 | +7 |
+| 12th | +9_dir/+4 | +4 | +4 | +8 |
+| 13th | +9_dir/+4 | +4 | +4 | +8 |
+| 14th | +10_dir/+5 | +4 | +4 | +9 |
+| 15th | +11_dir/+6_dir/+1 | +5 | +5 | +9 |
+| 16th | +12_dir/+7_dir/+2 | +5 | +5 | +10 |
+| 17th | +12_dir/+7_dir/+2 | +5 | +5 | +10 |
+| 18th | +13_dir/+8_dir/+3 | +6 | +6 | +11 |
+| 19th | +14_dir/+9_dir/+4 | +6 | +6 | +11 |
+| 20th | +15_dir/+10_dir/+5 | +6 | +6 | +12 |
 
 ## Class Features
 
@@ -210,7 +210,7 @@ The following is a class feature of the expert NPC class.
 
 ## Class Skills
 
-The warrior's class skills (and the key ability for each skill) are [Climb](skill_dir/climb#_climb) ( [Str](gettingStarted#_strength)), [Craft](skills/craft#_craft) ( [Int](gettingStarted#_intelligence)), [Handle Animal](skill_dir/handleAnimal#_handle-animal) ( [Cha](gettingStarted#_charisma-new)), [Intimidate](skills/intimidate#_intimidate) ( [Cha](gettingStarted#_charisma-new)), [Profession](skill_dir/profession#_profession) ( [Wis](gettingStarted#_wisdom)), [Ride](skills/ride#_ride) ( [Dex](gettingStarted#_dexterity)), and [Swim](skill_dir/swim#_swim) ( [Str](gettingStarted#_strength)).
+The warrior's class skills (and the key ability for each skill) are [Climb](skills_dir/climb#_climb) ( [Str](gettingStarted#_strength)), [Craft](skills_dir/craft#_craft) ( [Int](gettingStarted#_intelligence)), [Handle Animal](skills_dir/handleAnimal#_handle-animal) ( [Cha](gettingStarted#_charisma-new)), [Intimidate](skills_dir/intimidate#_intimidate) ( [Cha](gettingStarted#_charisma-new)), [Profession](skills_dir/profession#_profession) ( [Wis](gettingStarted#_wisdom)), [Ride](skills_dir/ride#_ride) ( [Dex](gettingStarted#_dexterity)), and [Swim](skills_dir/swim#_swim) ( [Str](gettingStarted#_strength)).
 
 **Skill Ranks per Level** : 2 + [Int](gettingStarted#_intelligence) modifier.
 
@@ -222,21 +222,21 @@ The warrior's class skills (and the key ability for each skill) are [Climb](skil
 | 3rd | +3 | +3 | +1 | +1 |
 | 4th | +4 | +4 | +1 | +1 |
 | 5th | +5 | +4 | +1 | +1 |
-| 6th | +6/+1 | +5 | +2 | +2 |
-| 7th | +7/+2 | +5 | +2 | +2 |
-| 8th | +8/+3 | +6 | +2 | +2 |
-| 9th | +9/+4 | +6 | +3 | +3 |
-| 10th | +10/+5 | +7 | +3 | +3 |
-| 11th | +11/+6/+1 | +7 | +3 | +3 |
-| 12th | +12/+7/+2 | +8 | +4 | +4 |
-| 13th | +13/+8/+3 | +8 | +4 | +4 |
-| 14th | +14/+9/+4 | +9 | +4 | +4 |
-| 15th | +15/+10/+5 | +9 | +5 | +5 |
-| 16th | +16/+11/+6/+1 | +10 | +5 | +5 |
-| 17th | +17/+12/+7/+2 | +10 | +5 | +5 |
-| 18th | +18/+13/+8/+3 | +11 | +6 | +6 |
-| 19th | +19/+14/+9/+4 | +11 | +6 | +6 |
-| 20th | +20/+15/+10/+5 | +12 | +6 | +6 |
+| 6th | +6_dir/+1 | +5 | +2 | +2 |
+| 7th | +7_dir/+2 | +5 | +2 | +2 |
+| 8th | +8_dir/+3 | +6 | +2 | +2 |
+| 9th | +9_dir/+4 | +6 | +3 | +3 |
+| 10th | +10_dir/+5 | +7 | +3 | +3 |
+| 11th | +11_dir/+6_dir/+1 | +7 | +3 | +3 |
+| 12th | +12_dir/+7_dir/+2 | +8 | +4 | +4 |
+| 13th | +13_dir/+8_dir/+3 | +8 | +4 | +4 |
+| 14th | +14_dir/+9_dir/+4 | +9 | +4 | +4 |
+| 15th | +15_dir/+10_dir/+5 | +9 | +5 | +5 |
+| 16th | +16_dir/+11_dir/+6_dir/+1 | +10 | +5 | +5 |
+| 17th | +17_dir/+12_dir/+7_dir/+2 | +10 | +5 | +5 |
+| 18th | +18_dir/+13_dir/+8_dir/+3 | +11 | +6 | +6 |
+| 19th | +19_dir/+14_dir/+9_dir/+4 | +11 | +6 | +6 |
+| 20th | +20_dir/+15_dir/+10_dir/+5 | +12 | +6 | +6 |
 
 ## Class Features
 

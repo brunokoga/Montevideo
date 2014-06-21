@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/breathOfLife
+title: spells_dir/breathOfLife
 ---
  **Breath of Life**
 

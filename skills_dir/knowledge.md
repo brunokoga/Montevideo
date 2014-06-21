@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skill_dir/knowledge
+title: skills_dir/knowledge
 ---
 # Knowledge
 

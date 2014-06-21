@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advance_dir/spells/getaway
+title: advanced_dir/spells_dir/getaway
 ---
  **Getaway**
 
-**School** conjuration (teleportation); **Level** bard 6, sorcere_dir/wizard 6
+**School** conjuration (teleportation); **Level** bard 6, sorcerer_dir/wizard 6
 
 **Casting Time** 1 minute
 
@@ -12,9 +12,9 @@ title: advance_dir/spells/getaway
 
 **Range** unlimited
 
-**Targets** you and one willing creature/2 levels, all of which must be within 30 feet of you
+**Targets** you and one willing creature_dir/2 levels, all of which must be within 30 feet of you
 
-**Duration** 1 hou_dir/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 

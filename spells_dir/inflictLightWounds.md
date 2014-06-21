@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/inflictLightWounds
+title: spells_dir/inflictLightWounds
 ---
  **Inflict Light Wounds**
 
@@ -30,9 +30,9 @@ Since undead are powered by negative energy, this spell cures such a creature of
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one creatur_dir/level, no two of which can be more than 30 ft. apart
+**Target** one creature_dir/level, no two of which can be more than 30 ft. apart
 
 **Duration** instantaneous
 

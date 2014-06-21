@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/humbaba
+title: bestiary3_dir/humbaba
 ---
 # Humbaba
 
@@ -12,7 +12,7 @@ XP 204,800
 
 CN Colossal monstrous humanoid
 
-**Init** +7; **Senses** darkvision 120 ft., _ [true seeing](spell_dir/trueSeeing#_true-seeing)_; [Perception](skills/perception#_perception) +32
+**Init** +7; **Senses** darkvision 120 ft., _ [true seeing](spells_dir/trueSeeing#_true-seeing)_; [Perception](skills_dir/perception#_perception) +32
 
 **Aura** prismatic aura (30 ft., DC 26)
 
@@ -24,28 +24,28 @@ Defense
 
 **Fort** +17, **Ref** +16, **Will** +22
 
-**Immune** blindness, death effects, [fire](monster_dir/creatureTypes#_fire-subtype), sonic; **SR** 30
+**Immune** blindness, death effects, [fire](monsters_dir/creatureTypes#_fire-subtype), sonic; **SR** 30
 
 Offense
 
 **Speed** 60 ft. (40 ft. in armor)
 
-**Melee** longsword +29/+24/+19/+14 (6d6+15/17–20) or  
+**Melee** longsword +29_dir/+24_dir/+19_dir/+14 (6d6+15_dir/17–20) or  
 2 slams +29 (2d8+15)
 
 **Ranged** rock +18 (2d8+22)
 
 **Space** 30 ft.; **Reach** 30 ft.
 
-**Special Attacks** [breath weapon](monster_dir/universalMonsterRules#_breath-weapon) (60-ft. cone, 20d6 [fire](monsters/creatureTypes#_fire-subtype), DC 31, usable every 1d4 rounds), rock throwing (180 ft.)
+**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (60-ft. cone, 20d6 [fire](monsters_dir/creatureTypes#_fire-subtype), DC 31, usable every 1d4 rounds), rock throwing (180 ft.)
 
 **Spell-Like Abilities** (CL 20th; concentration +25)
 
-Constant—_ [true seeing](spell_dir/trueSeeing#_true-seeing)_
+Constant—_ [true seeing](spells_dir/trueSeeing#_true-seeing)_
 
-3/day—_ [greater shout](spell_dir/shout#_shout-greater)_ (DC 23)
+3_dir/day—_ [greater shout](spells_dir/shout#_shout-greater)_ (DC 23)
 
-1/day—_ [destruction](spell_dir/destruction#_destruction)_ (DC 22), _ [earthquake](spells/earthquake#_earthquake)_ (DC 23), _ [power word stun](spell_dir/powerWordStun#_power-word-stun)_
+1_dir/day—_ [destruction](spells_dir/destruction#_destruction)_ (DC 22), _ [earthquake](spells_dir/earthquake#_earthquake)_ (DC 23), _ [power word stun](spells_dir/powerWordStun#_power-word-stun)_
 
 Statistics
 
@@ -53,11 +53,11 @@ Statistics
 
 **Base Atk** +22; **CMB** +45; **CMD** 58
 
-**Feats** [Awesome Blow](monsters/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Critical Focus](feats#_critical-focus), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Critical](feats#_improved-critical) (longsword), [Improved Initiative](feats#_improved-initiative), [Intimidating Prowess](feats#_intimidating-prowess), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Staggering Critical](feats#_staggering-critical), [Vital Strike](feats#_vital-strike)
+**Feats** [Awesome Blow](monsters_dir/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Critical Focus](feats#_critical-focus), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Critical](feats#_improved-critical) (longsword), [Improved Initiative](feats#_improved-initiative), [Intimidating Prowess](feats#_intimidating-prowess), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Staggering Critical](feats#_staggering-critical), [Vital Strike](feats#_vital-strike)
 
-**Skills** [Climb](skill_dir/climb#_climb) +34, [Intimidate](skills/intimidate#_intimidate) +45, [Perception](skill_dir/perception#_perception) +32, [Survival](skills/survival#_survival) +32
+**Skills** [Climb](skills_dir/climb#_climb) +34, [Intimidate](skills_dir/intimidate#_intimidate) +45, [Perception](skills_dir/perception#_perception) +32, [Survival](skills_dir/survival#_survival) +32
 
-**Languages** Abyssal, Common, [Giant](monster_dir/creatureTypes#_giant-subtype)
+**Languages** Abyssal, Common, [Giant](monsters_dir/creatureTypes#_giant-subtype)
 
 Ecology
 
@@ -69,7 +69,7 @@ Ecology
 
 Special Abilities
 
-**Prismatic Aura (Su)** As a swift action once per day, a humbaba can activate its prismatic aura. Doing so causes brilliant light to radiate from the humbaba to a radius of 30 feet. Each round at the start of the humbaba's turn, roll 1d8 and consult the table of _ [prismatic spray](spells/prismaticSpray#_prismatic-spray)_ effects to determine the color and effect of the light (reroll results of 8). If a creature begins its turn in the prismatic aura's area, it must make the appropriate saving throw (DC 26) against that effect. Once activated, a humbaba's prismatic aura lasts for 7 rounds. The save DC is Charisma-based.
+**Prismatic Aura (Su)** As a swift action once per day, a humbaba can activate its prismatic aura. Doing so causes brilliant light to radiate from the humbaba to a radius of 30 feet. Each round at the start of the humbaba's turn, roll 1d8 and consult the table of _ [prismatic spray](spells_dir/prismaticSpray#_prismatic-spray)_ effects to determine the color and effect of the light (reroll results of 8). If a creature begins its turn in the prismatic aura's area, it must make the appropriate saving throw (DC 26) against that effect. Once activated, a humbaba's prismatic aura lasts for 7 rounds. The save DC is Charisma-based.
 
 Humbabas are monstrous humanoids of tremendous size and power that prowl the forgotten places of the world. Although a humbaba has the body of a powerful, muscular human, its face is a twisted mockery that seems more leonine than human. They often braid portions of their manes or otherwise decorate them with skulls and weapons, and prefer to wear half-plate armor and fight with longswords.
 

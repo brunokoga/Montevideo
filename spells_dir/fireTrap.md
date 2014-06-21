@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/fireTrap
+title: spells_dir/fireTrap
 ---
  **Fire Trap**
 
-**School** abjuration [fire]; **Level** druid 2, sorcerer/wizard 4
+**School** abjuration [fire]; **Level** druid 2, sorcerer_dir/wizard 4
 
 **Casting Time** 10 minutes
 

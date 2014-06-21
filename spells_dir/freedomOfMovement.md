@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/freedomOfMovement
+title: spells_dir/freedomOfMovement
 ---
  **Freedom of Movement**
 
@@ -14,7 +14,7 @@ title: spell_dir/freedomOfMovement
 
 **Target** you or creature touched
 
-**Duration** 10 min./level
+**Duration** 10 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

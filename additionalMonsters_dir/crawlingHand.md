@@ -1,18 +1,18 @@
 ---
 layout: default
-title: additionalMonster_dir/crawlingHand
+title: additionalMonsters_dir/crawlingHand
 ---
 # Crawling Hand
 
 With a jolt, this severed hand springs to life, its fingers propelling it forth at great speed like a deformed spider.
 
-Crawling HandCR 1/2
+Crawling HandCR 1_dir/2
 
 **XP 200**
 
-NE Diminutive [undead](monster_dir/creatureTypes#_undead)
+NE Diminutive [undead](monsters_dir/creatureTypes#_undead)
 
-**Init** +0; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 30 ft., darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +4
+**Init** +0; **Senses** [blindsense](monsters_dir/universalMonsterRules#_blindsense) 30 ft., darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4
 
 Defense
 
@@ -22,17 +22,17 @@ Defense
 
 **Fort** +2, **Ref** +0, **Will** +2
 
-**Immune** [undead](monsters/creatureTypes#_undead) traits
+**Immune** [undead](monsters_dir/creatureTypes#_undead) traits
 
 Offense
 
 **Speed** 40 ft., climb 40 ft.
 
-**Melee** claw +5 (1d1+1 plus [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** claw +5 (1d1+1 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Space** 1 ft.; **Reach** 0 ft.
 
-**Special Attack** mark quarry, [strangle](monsters/universalMonsterRules#_strangle)
+**Special Attack** mark quarry, [strangle](monsters_dir/universalMonsterRules#_strangle)
 
 Statistics
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +0; **CMB** –4 (+0 grapple); **CMD** 7
 
-**Feats** [Toughness](additionalMonster_dir/../feats#_toughness)
+**Feats** [Toughness](additionalMonsters_dir/../feats#_toughness)
 
-**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +9, [Perception](additionalMonsters/../skill_dir/perception#_perception) +4, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +12, [Survival](additionalMonsters/../skill_dir/survival#_survival) +4; **Racial Modifiers** +4 [Survival](additionalMonsters/../skill_dir/survival#_survival)
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +9, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +4, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +12, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +4; **Racial Modifiers** +4 [Survival](additionalMonsters_dir/../skills_dir/survival#_survival)
 
 **Languages** Common (can't speak)
 
@@ -56,7 +56,7 @@ Ecology
 
 Special Abilities
 
-**[Grab](monsters/universalMonsterRules#_grab) (Ex)** A crawling hand can use its [grab](monster_dir/universalMonsterRules#_grab) ability on a creature of up to Medium size.
+**[Grab](monsters_dir/universalMonsterRules#_grab) (Ex)** A crawling hand can use its [grab](monsters_dir/universalMonsterRules#_grab) ability on a creature of up to Medium size.
 
 Some say the origins of the crawling hand lie in the experiments of demented necromancers contracted to construct tiny assassins. Other tales tell of gruesome prosthetics sparked to life by evil magic, which then developed primitive sentience and vengefully strangled their hosts. Regardless, the crawling hand is an efficient killing tool.
 
@@ -70,9 +70,9 @@ Giant Crawling HandCR 5
 
 **XP 1,600**
 
-NE Medium [undead](monsters/creatureTypes#_undead)
+NE Medium [undead](monsters_dir/creatureTypes#_undead)
 
-**Init** +2; **Senses** [blindsense](monster_dir/universalMonsterRules#_blindsense) 30 ft., darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
+**Init** +2; **Senses** [blindsense](monsters_dir/universalMonsterRules#_blindsense) 30 ft., darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7
 
 Defense
 
@@ -82,13 +82,13 @@ Defense
 
 **Fort** +4, **Ref** +6, **Will** +6
 
-**Immune** [undead](monsters/creatureTypes#_undead) traits
+**Immune** [undead](monsters_dir/creatureTypes#_undead) traits
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** claw +11 (1d6+7 plus [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** claw +11 (1d6+7 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Special Attacks** mark quarry, pus burst
 
@@ -98,9 +98,9 @@ Statistics
 
 **Base Atk** +5; **CMB** +10 (+14 grapple); **CMD** 23
 
-**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Lightning Reflexes](additionalMonster_dir/../feats#_lightning-reflexes), [Toughness](additionalMonster_dir/../feats#_toughness), [Weapon Focus](additionalMonster_dir/../feats#_weapon-focus) (claw)
+**Feats** [Dodge](additionalMonsters_dir/../feats#_dodge), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Toughness](additionalMonsters_dir/../feats#_toughness), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (claw)
 
-**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +3, [Perception](additionalMonsters/../skill_dir/perception#_perception) +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +12; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +3, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +12; **Racial Modifiers** +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
 
 **Languages** Common (can't speak)
 
@@ -114,7 +114,7 @@ Ecology
 
 Special Abilities
 
-**Mark Quarry (Su)** A crawling hand is assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand has no current quarry, it automatically gains the next creature it damages as its quarry. Once attuned to a target, it becomes aware of the target's location as if under the effect of a continuous _ [locate creature](additionalMonsters/../spell_dir/locateCreature#_locate-creature)_ spell. The hand gains a +1 bonus on all attack rolls, damage rolls, and skill checks made to seek out and destroy the marked quarry. The mark quarry ability lasts until the quarry or the hand is slain.
+**Mark Quarry (Su)** A crawling hand is assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand has no current quarry, it automatically gains the next creature it damages as its quarry. Once attuned to a target, it becomes aware of the target's location as if under the effect of a continuous _ [locate creature](additionalMonsters_dir/../spells_dir/locateCreature#_locate-creature)_ spell. The hand gains a +1 bonus on all attack rolls, damage rolls, and skill checks made to seek out and destroy the marked quarry. The mark quarry ability lasts until the quarry or the hand is slain.
 
 **Pus Burst (Su)** When damaged by a piercing or slashing melee weapon, a spray of vile pus strikes the attacker unless the attacker makes a DC 15 Reflex save. Weapons that provide reach protect the attacker completely from a pus burst. Creatures struck by pus become nauseated for 1d3 rounds and take 2d6 points of negative energy damage. The save DC is Charisma-based.
 

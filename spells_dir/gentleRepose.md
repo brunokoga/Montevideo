@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/gentleRepose
+title: spells_dir/gentleRepose
 ---
  **Gentle Repose**
 
-**School** necromancy; **Level** cleric 2, sorcerer/wizard 3
+**School** necromancy; **Level** cleric 2, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (salt and a copper piece for each of the corpse's eyes)
+**Components** V, S, M_dir/DF (salt and a copper piece for each of the corpse's eyes)
 
 **Range** touch
 
 **Target** corpse touched
 
-**Duration** 1 da_dir/level
+**Duration** 1 day_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
 

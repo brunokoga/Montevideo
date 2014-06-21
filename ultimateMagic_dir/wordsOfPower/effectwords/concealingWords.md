@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/concealingWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/concealingWords
 ---
 ## Concealing Words
 
@@ -8,7 +8,7 @@ Words from this family hide creatures and objects from observation and detection
 
 Fade (Concealing)
 
-**School** illusion (glamer); **Level** alchemist 1, bard 1, inquisitor 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1
+**School** illusion (glamer); **Level** alchemist 1, bard 1, inquisitor 1, magus 1, sorcerer_dir/wizard 1, summoner 1, witch 1
 
 **Duration** 1 round
 
@@ -22,9 +22,9 @@ The target of a wordspell with this effect word becomes invisible until the begi
 
 Disappear (Concealing)
 
-**School** illusion (glamer); **Level** alchemist 2, bard 2, inquisitor 2, magus 2, sorcere_dir/wizard 2, summoner 2, witch 2
+**School** illusion (glamer); **Level** alchemist 2, bard 2, inquisitor 2, magus 2, sorcerer_dir/wizard 2, summoner 2, witch 2
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -36,9 +36,9 @@ This effect word functions as _fade_, but with a longer duration.
 
 Unseen Shell (Concealing)
 
-**School** illusion (glamer); **Level** bard 4, sorcere_dir/wizard 4, witch 4
+**School** illusion (glamer); **Level** bard 4, sorcerer_dir/wizard 4, witch 4
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skill_dir/spellcraft
+title: skills_dir/spellcraft
 ---
 # Spellcraft
 

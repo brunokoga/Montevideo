@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/beguilingGift
+title: advanced_dir/spells_dir/beguilingGift
 ---
  **Beguiling Gift**
 

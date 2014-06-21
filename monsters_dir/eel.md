@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/eel
+title: monsters_dir/eel
 ---
 # Eel, Electric
 
@@ -12,7 +12,7 @@ _This six-foot-long, snake-like fish moves slowly. A strange popping and snappin
 
 N Small [animal](creatureTypes#_animal)
 
-**Init** +6; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +4
+**Init** +6; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -38,7 +38,7 @@ N Small [animal](creatureTypes#_animal)
 
 **Feats** [Improved Initiative](../feats#_improved-initiative)
 
-**Skills** [Escape Artist](../skill_dir/escapeArtist#_escape-artist) +10, [Perception](../skill_dir/perception#_perception) +4, [Stealth](../skill_dir/stealth#_stealth) +10, [Swim](../skill_dir/swim#_swim) +9; **Racial Modifiers** +8 [Escape Artist](../skill_dir/escapeArtist#_escape-artist)
+**Skills** [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +10, [Perception](../skills_dir/perception#_perception) +4, [Stealth](../skills_dir/stealth#_stealth) +10, [Swim](../skills_dir/swim#_swim) +9; **Racial Modifiers** +8 [Escape Artist](../skills_dir/escapeArtist#_escape-artist)
 
 **Ecology**
 
@@ -70,7 +70,7 @@ _This sixteen-foot-long eel slithers through the water with uncanny grace, mouth
 
 N Large [animal](creatureTypes#_animal) (aquatic)
 
-**Init** +6; **Senses** low-light vision, scent; [Perception](../skill_dir/perception#_perception) +7
+**Init** +6; **Senses** low-light vision, scent; [Perception](../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -96,9 +96,9 @@ N Large [animal](creatureTypes#_animal) (aquatic)
 
 **Base Atk** +5; **CMB** +12 (+16 grapple); **CMD** 24 (can't be tripped)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth)), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth)), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Escape Artist](../skill_dir/escapeArtist#_escape-artist) +10, [Perception](../skill_dir/perception#_perception) +7, [Stealth](../skill_dir/stealth#_stealth) +8, [Swim](../skill_dir/swim#_swim) +14; **Racial Modifiers** +8 [Escape Artist](../skill_dir/escapeArtist#_escape-artist)
+**Skills** [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +10, [Perception](../skills_dir/perception#_perception) +7, [Stealth](../skills_dir/stealth#_stealth) +8, [Swim](../skills_dir/swim#_swim) +14; **Racial Modifiers** +8 [Escape Artist](../skills_dir/escapeArtist#_escape-artist)
 
 **Ecology**
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/controlWater
+title: spells_dir/controlWater
 ---
  **Control Water**
 
-**School** transmutation [water]; **Level** cleric 4, druid 4, sorcerer/wizard 6
+**School** transmutation [water]; **Level** cleric 4, druid 4, sorcerer_dir/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (a pinch of dust for _lower water or _a drop of water for _raise water_)
+**Components** V, S, M_dir/DF (a pinch of dust for _lower water or _a drop of water for _raise water_)
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
-**Area** water in a volume of 10 ft./level by 10 ft./level by 2 ft./level (S)
+**Area** water in a volume of 10 ft._dir/level by 10 ft._dir/level by 2 ft._dir/level (S)
 
-**Duration** 10 min./level (D)
+**Duration** 10 min._dir/level (D)
 
 **Saving Throw** none; see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

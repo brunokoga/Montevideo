@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/yethHound
+title: monsters_dir/yethHound
 ---
 # Yeth Hound
 
@@ -12,7 +12,7 @@ _This emaciated, hairless canine has a strange air of menace and cruelty about i
 
 NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +9
+**Init** +6; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +9
 
 **Defense**
 
@@ -22,7 +22,7 @@ NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Fort** +3, **Ref** +6, **Will** +6
 
-**DR** 5/silver
+**DR** 5_dir/silver
 
 **Offense**
 
@@ -38,9 +38,9 @@ NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Base**  **Atk** +4; **CMB** +7; **CMD** 19 (23 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Fly](../skill_dir/fly#_fly))
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Fly](../skills_dir/fly#_fly))
 
-**Skills** [Fly](../skill_dir/fly#_fly) +16, [Perception](../skill_dir/perception#_perception) +9, [Stealth](../skill_dir/stealth#_stealth) +9, [Survival](../skill_dir/survival#_survival) +9
+**Skills** [Fly](../skills_dir/fly#_fly) +16, [Perception](../skills_dir/perception#_perception) +9, [Stealth](../skills_dir/stealth#_stealth) +9, [Survival](../skills_dir/survival#_survival) +9
 
 **Languages** Abyssal or Infernal (cannot speak)
 

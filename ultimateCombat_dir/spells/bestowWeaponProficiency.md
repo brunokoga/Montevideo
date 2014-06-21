@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/bestowWeaponProficiency
+title: ultimateCombat_dir/spells_dir/bestowWeaponProficiency
 ---
 Bestow Weapon Proficiency
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** alchemist 2, antipaladin 2, cleric 2, magus 2, inquisitor 2, paladin 2, sorcere_dir/wizard 2, witch 2
+**School** enchantment (compulsion) [mind-affecting]; **Level** alchemist 2, antipaladin 2, cleric 2, magus 2, inquisitor 2, paladin 2, sorcerer_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
 **Component** V, S, M (pieces of shaved metal)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

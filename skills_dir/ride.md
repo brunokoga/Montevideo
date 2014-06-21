@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skill_dir/ride
+title: skills_dir/ride
 ---
 # Ride
 

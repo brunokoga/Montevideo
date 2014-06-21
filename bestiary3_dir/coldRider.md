@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/coldRider
+title: bestiary3_dir/coldRider
 ---
 # Cold Rider
 
@@ -10,9 +10,9 @@ Cold Rider CR 8
 
 XP 4,800
 
-CE Medium fey ( [cold](monster_dir/creatureTypes#_cold-subtype))
+CE Medium fey ( [cold](monsters_dir/creatureTypes#_cold-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](skills/perception#_perception) +18
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +18
 
 Defense
 
@@ -22,24 +22,24 @@ Defense
 
 **Fort** +8, **Ref** +11, **Will** +10
 
-**Defensive Abilities** implements of ice; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype); **SR** 19
+**Defensive Abilities** implements of ice; **Immune** [cold](monsters_dir/creatureTypes#_cold-subtype); **SR** 19
 
-**Weaknesses** vulnerable to [fire](monsters/creatureTypes#_fire-subtype) and sonic, susceptible to _ [shatter](spell_dir/shatter#_shatter)_
+**Weaknesses** vulnerable to [fire](monsters_dir/creatureTypes#_fire-subtype) and sonic, susceptible to _ [shatter](spells_dir/shatter#_shatter)_
 
 Offense
 
 **Speed** 30 ft.; icewalking
 
-**Melee** _+2 [icy burst](magicItems/weapons#_weapons-icy-burst) glaive_ +12/+7 (1d10+6/×3 plus 1d6 [cold](monster_dir/creatureTypes#_cold-subtype)) or gore +9 (2d6+3 plus 1d6 [cold](monsters/creatureTypes#_cold-subtype))
+**Melee** _+2 [icy burst](magicItems_dir/weapons#_weapons-icy-burst) glaive_ +12_dir/+7 (1d10+6_dir/×3 plus 1d6 [cold](monsters_dir/creatureTypes#_cold-subtype)) or gore +9 (2d6+3 plus 1d6 [cold](monsters_dir/creatureTypes#_cold-subtype))
 
 **Spell-Like Abilities** (CL 10th; concentration +13)
 
-Constant—_ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace)_
+Constant—_ [pass without trace](spells_dir/passWithoutTrace#_pass-without-trace)_
 
-At will—_ [chill metal](spells/chillMetal#_chill-metal)_ (DC 15), _ [deep slumber](spell_dir/deepSlumber#_deep-slumber)_   
-(DC 16), _ [ghost sound](spells/ghostSound#_ghost-sound)_ (DC 13), _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist)_, _ [phantom steed](spells/phantomSteed#_phantom-steed), [ray of frost](spell_dir/rayOfFrost#_ray-of-frost)_
+At will—_ [chill metal](spells_dir/chillMetal#_chill-metal)_ (DC 15), _ [deep slumber](spells_dir/deepSlumber#_deep-slumber)_   
+(DC 16), _ [ghost sound](spells_dir/ghostSound#_ghost-sound)_ (DC 13), _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_, _ [phantom steed](spells_dir/phantomSteed#_phantom-steed), [ray of frost](spells_dir/rayOfFrost#_ray-of-frost)_
 
-1/day—_ [freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement)_, _ [ice storm](spells/iceStorm#_ice-storm)_
+1_dir/day—_ [freedom of movement](spells_dir/freedomOfMovement#_freedom-of-movement)_, _ [ice storm](spells_dir/iceStorm#_ice-storm)_
 
 Statistics
 
@@ -47,15 +47,15 @@ Statistics
 
 **Base Atk** +6; **CMB** +9; **CMD** 22
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Mounted Combat](feats#_mounted-combat), [Ride-By Attack](feats#_ride-by-attack), [Skill Focus](feats#_skill-focus) ( [Ride](skill_dir/ride#_ride)), [Spirited Charge](feats#_spirited-charge), [Trample](monsters/universalMonsterRules#_trample), [Weapon Focus](feats#_weapon-focus) (glaive)
+**Feats** [Improved Initiative](feats#_improved-initiative), [Mounted Combat](feats#_mounted-combat), [Ride-By Attack](feats#_ride-by-attack), [Skill Focus](feats#_skill-focus) ( [Ride](skills_dir/ride#_ride)), [Spirited Charge](feats#_spirited-charge), [Trample](monsters_dir/universalMonsterRules#_trample), [Weapon Focus](feats#_weapon-focus) (glaive)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +19, [Handle Animal](skills/handleAnimal#_handle-animal) +16, [Intimidate](skill_dir/intimidate#_intimidate) +16, [Knowledge](skills/knowledge#_knowledge) (nature) +18, [Perception](skill_dir/perception#_perception) +18, [Ride](skills/ride#_ride) +22, [Sense Motive](skill_dir/senseMotive#_sense-motive) +18, [Stealth](skills/stealth#_stealth) +19
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +19, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +16, [Intimidate](skills_dir/intimidate#_intimidate) +16, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +18, [Perception](skills_dir/perception#_perception) +18, [Ride](skills_dir/ride#_ride) +22, [Sense Motive](skills_dir/senseMotive#_sense-motive) +18, [Stealth](skills_dir/stealth#_stealth) +19
 
 **Languages** Common, Elven, Sylvan
 
 Ecology
 
-**Environment** any [cold](monster_dir/creatureTypes#_cold-subtype)
+**Environment** any [cold](monsters_dir/creatureTypes#_cold-subtype)
 
 **Organization** solitary, pair, or cavalry (3–12)
 
@@ -63,11 +63,11 @@ Ecology
 
 Special Abilities
 
-**Icewalking (Ex)** A [cold](monsters/creatureTypes#_cold-subtype) rider and any creature it rides can move across icy surfaces without penalty and do not need to make [Acrobatics](skill_dir/acrobatics#_acrobatics) checks to run or charge on ice. They may climb icy surfaces as if under the effects of the _ [spider climb](spells/spiderClimb#_spider-climb)_ spell.
+**Icewalking (Ex)** A [cold](monsters_dir/creatureTypes#_cold-subtype) rider and any creature it rides can move across icy surfaces without penalty and do not need to make [Acrobatics](skills_dir/acrobatics#_acrobatics) checks to run or charge on ice. They may climb icy surfaces as if under the effects of the _ [spider climb](spells_dir/spiderClimb#_spider-climb)_ spell.
 
-**Implements of Ice (Su)** A [cold](monster_dir/creatureTypes#_cold-subtype) rider wears full plate armor and wields a _+2 [icy burst](magicItems/weapons#_weapons-icy-burst) glaive_ made of magical ice as hard as steel. Its armor has no armor check penalty. When a [cold](monster_dir/creatureTypes#_cold-subtype) rider dies, its armor and glaive melt into [water](monsters/creatureTypes#_water-subtype) in 1d6 rounds.
+**Implements of Ice (Su)** A [cold](monsters_dir/creatureTypes#_cold-subtype) rider wears full plate armor and wields a _+2 [icy burst](magicItems_dir/weapons#_weapons-icy-burst) glaive_ made of magical ice as hard as steel. Its armor has no armor check penalty. When a [cold](monsters_dir/creatureTypes#_cold-subtype) rider dies, its armor and glaive melt into [water](monsters_dir/creatureTypes#_water-subtype) in 1d6 rounds.
 
-**Susceptible to Shatter (Ex)** A _ [shatter](spell_dir/shatter#_shatter)_ spell deals 3d6 points of damage to a [cold](monsters/creatureTypes#_cold-subtype) rider (no save) and reduces its armor bonus by 2 for 1 minute. _ [Shatter](spell_dir/shatter#_shatter)_ spells automatically overcome a [cold](monsters/creatureTypes#_cold-subtype) rider's spell [resistance](monster_dir/universalMonsterRules#_resistance).
+**Susceptible to Shatter (Ex)** A _ [shatter](spells_dir/shatter#_shatter)_ spell deals 3d6 points of damage to a [cold](monsters_dir/creatureTypes#_cold-subtype) rider (no save) and reduces its armor bonus by 2 for 1 minute. _ [Shatter](spells_dir/shatter#_shatter)_ spells automatically overcome a [cold](monsters_dir/creatureTypes#_cold-subtype) rider's spell [resistance](monsters_dir/universalMonsterRules#_resistance).
 
 Cold riders are terrifying armored majesties, clad in cloaks of frost with a pair of large crystal-blue antlers cresting their almost skeletal heads. Their icy armor and weapons are as much a part of them as their frozen flesh. Cold riders delight in perversion, slaughter, and the corruption of other fey. They prefer undead or cold-resistant steeds, but even when they have no access to such, their phantom steed spell-like ability ensures they never go long without a mount.
 

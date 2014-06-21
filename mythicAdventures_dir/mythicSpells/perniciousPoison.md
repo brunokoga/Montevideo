@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/perniciousPoison
+title: mythicAdventures_dir/mythicSpells_dir/perniciousPoison
 ---
 Pernicious Poison
 
-**Source** [_pernicious poison_](ultimateMagi_dir/spells/perniciousPoison#_pernicious-poison)
+**Source** [_pernicious poison_](ultimateMagic_dir/spells_dir/perniciousPoison#_pernicious-poison)
 
 The number of successful saving throws needed to cure a poison increases by one. If the poison deals ability damage on a failed saving throw, that ability damage increases by 1.
 

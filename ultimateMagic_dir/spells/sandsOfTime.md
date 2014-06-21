@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/sandsOfTime
+title: ultimateMagic_dir/spells_dir/sandsOfTime
 ---
 Sands of Time
 
-**School** necromancy; **Level** cleric 3, sorcere_dir/wizard 3, witch 3
+**School** necromancy; **Level** cleric 3, sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Sands of Time
 
 **Target** touched creature or object
 
-**Duration** 10 minutes/level or instantaneous (see text)
+**Duration** 10 minutes_dir/level or instantaneous (see text)
 
 **Saving Throw** none; **Spell Resistance** yes
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/fumbletongue
+title: ultimateMagic_dir/spells_dir/fumbletongue
 ---
 Fumbletongue
 
@@ -10,7 +10,7 @@ Fumbletongue
 
 **Components** V, S
 
-**Range** close (25 ft. +5 ft./2 levels)
+**Range** close (25 ft. +5 ft._dir/2 levels)
 
 **Target** one creature
 

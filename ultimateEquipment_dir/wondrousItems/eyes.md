@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateEquipmen_dir/wondrousItems/eyes
+title: ultimateEquipment_dir/wondrousItems_dir/eyes
 ---
 # Eyes Slot Wondrous Items
 
@@ -60,15 +60,15 @@ Anyone can use an eyes slot wondrous item unless specified otherwise by its desc
 
 Annihilation Spectacles
 
-**Price** 25,000 gp; **Aura** moderate transmutation; **CL** 11th; **Weight** 1/4 lb.
+**Price** 25,000 gp; **Aura** moderate transmutation; **CL** 11th; **Weight** 1_dir/4 lb.
 
-Creatures viewed through these darkly tinted glasses sometimes seem to flicker briefly in and out of existence. A transmuter can use these spectacles to spontaneously convert any prepared wizard transmutation spell into any other wizard transmutation spell he knows; the desired spell must be of the same level or lower than the prepared spell. Once per day, he may use the spectacles to spontaneously cast _ [disintegrate](spell_dir/disintegrate#_disintegrate)_ in place of one of his prepared transmutation wizard spells of 6th level or higher, even if he doesn't know that spell.
+Creatures viewed through these darkly tinted glasses sometimes seem to flicker briefly in and out of existence. A transmuter can use these spectacles to spontaneously convert any prepared wizard transmutation spell into any other wizard transmutation spell he knows; the desired spell must be of the same level or lower than the prepared spell. Once per day, he may use the spectacles to spontaneously cast _ [disintegrate](spells_dir/disintegrate#_disintegrate)_ in place of one of his prepared transmutation wizard spells of 6th level or higher, even if he doesn't know that spell.
 
 Construction Requirements
 
 **Cost** 12,500 gp
 
-Craft Wondrous Item,_ [disintegrate](spells/disintegrate#_disintegrate)_, creator must be a transmuter
+Craft Wondrous Item,_ [disintegrate](spells_dir/disintegrate#_disintegrate)_, creator must be a transmuter
 
 Arachnid Goggles
 
@@ -80,91 +80,91 @@ Construction Requirements
 
 **Cost** 7,500 gp
 
-Craft Wondrous Item, _ [countless eyes](ultimateMagi_dir/spells/countlessEyes#_countless-eyes)_
+Craft Wondrous Item, _ [countless eyes](ultimateMagic_dir/spells_dir/countlessEyes#_countless-eyes)_
 
 Blind Man's Fold
 
 **Price** 12,000 gp; **Aura** moderate transmutation; **CL** 6th; **Weight** —
 
-Fashioned from a scrap of a blind beggar's clothing, a blind man's fold is often used by explorers who must traverse caves inhabited by invisible creatures, or those drawn to sources of light. A _blind man's fold_ fully obscures normal vision while worn, but grants the effects of the [Improved Blind-Fight](advance_dir/advancedFeats#_improved-blind-fight) feat . Creatures which are unable to see normally gain no benefit from wearing a _blind man's fold._
+Fashioned from a scrap of a blind beggar's clothing, a blind man's fold is often used by explorers who must traverse caves inhabited by invisible creatures, or those drawn to sources of light. A _blind man's fold_ fully obscures normal vision while worn, but grants the effects of the [Improved Blind-Fight](advanced_dir/advancedFeats#_improved-blind-fight) feat . Creatures which are unable to see normally gain no benefit from wearing a _blind man's fold._
 
 Construction Requirements
 
 **Cost** 6,000 gp
 
-Craft Wondrous Item, [Improved Blind-Fight](advanced/advancedFeats#_improved-blind-fight), _ [darkness](spell_dir/darkness#_darkness)_
+Craft Wondrous Item, [Improved Blind-Fight](advanced_dir/advancedFeats#_improved-blind-fight), _ [darkness](spells_dir/darkness#_darkness)_
 
 Darklands Goggles
 
 **Price** 20,000 gp; **Aura** moderate transmutation; **CL** 6th; **Weight** —
 
-These goggles' dark lenses are made of round obsidian sheets thin enough to see through. They grant the wearer darkvision 120, as well as a +4 competence bonus on [Perception](skills/perception#_perception) checks and [Survival](skill_dir/survival#_survival) checks made to track while underground.
+These goggles' dark lenses are made of round obsidian sheets thin enough to see through. They grant the wearer darkvision 120, as well as a +4 competence bonus on [Perception](skills_dir/perception#_perception) checks and [Survival](skills_dir/survival#_survival) checks made to track while underground.
 
 Construction Requirements
 
 **Cost** 10,000 gp
 
-Craft Wondrous Item, _ [darkvision](spells/darkvision#_darkvision)_, _ [terrain bond](ultimateComba_dir/spells/terrainBond#_terrain-bond)_
+Craft Wondrous Item, _ [darkvision](spells_dir/darkvision#_darkvision)_, _ [terrain bond](ultimateCombat_dir/spells_dir/terrainBond#_terrain-bond)_
 
 Deathwatch Eyes
 
 **Price** 2,000 gp; **Aura** faint necromancy; **CL** 1st; **Weight** —
 
-These blood red crystal lenses fit snugly over the wearer's eyes. The wearer gains the constant effects of the _ [deathwatch](spell_dir/deathwatch#_deathwatch) _spell.
+These blood red crystal lenses fit snugly over the wearer's eyes. The wearer gains the constant effects of the _ [deathwatch](spells_dir/deathwatch#_deathwatch) _spell.
 
 Construction Requirements
 
 **Cost** 1,000 gp
 
-Craft Wondrous Item, _ [deathwatch](spells/deathwatch#_deathwatch)_
+Craft Wondrous Item, _ [deathwatch](spells_dir/deathwatch#_deathwatch)_
 
 Eyes of Charming
 
 **Price** 56,000 gp; **Aura** moderate enchantment; **CL** 7th; **Weight** —
 
-These two crystal lenses fit over the user's eyes. The wearer is able to use _ [charm person](spell_dir/charmPerson#_charm-person)_ (one target per round) merely by meeting a target's gaze. Those targets failing a DC 16 Will save are charmed as per the spell. Both lenses must be worn for the magic item to take effect.
+These two crystal lenses fit over the user's eyes. The wearer is able to use _ [charm person](spells_dir/charmPerson#_charm-person)_ (one target per round) merely by meeting a target's gaze. Those targets failing a DC 16 Will save are charmed as per the spell. Both lenses must be worn for the magic item to take effect.
 
 Construction Requirements
 
 **Cost** 28,000 gp
 
-Craft Wondrous Item, [Heighten Spell](feats#_heighten-spell), _ [charm person](spells/charmPerson#_charm-person)_
+Craft Wondrous Item, [Heighten Spell](feats#_heighten-spell), _ [charm person](spells_dir/charmPerson#_charm-person)_
 
 Eyes of Doom
 
 **Price** 25,000 gp; **Aura** moderate necromancy; **CL** 11th; **Weight** —
 
-These crystal lenses fit over the user's eyes, enabling him to cast _ [doom](spell_dir/doom#_doom)_ upon those around him (one target per round) as a gaze attack, except that the wearer must take a standard action, and those merely looking at the wearer are not affected. Those failing a DC 11 Will save are affected as by the _ [doom](spells/doom#_doom)_ spell. The wearer also gains the additional power of a continual _ [deathwatch](spell_dir/deathwatch#_deathwatch)_ effect and can use _ [fear](spells/fear#_fear)_ (Will DC 16 partial) as a normal gaze attack once per week. Both lenses must be worn for the magic item to take effect.
+These crystal lenses fit over the user's eyes, enabling him to cast _ [doom](spells_dir/doom#_doom)_ upon those around him (one target per round) as a gaze attack, except that the wearer must take a standard action, and those merely looking at the wearer are not affected. Those failing a DC 11 Will save are affected as by the _ [doom](spells_dir/doom#_doom)_ spell. The wearer also gains the additional power of a continual _ [deathwatch](spells_dir/deathwatch#_deathwatch)_ effect and can use _ [fear](spells_dir/fear#_fear)_ (Will DC 16 partial) as a normal gaze attack once per week. Both lenses must be worn for the magic item to take effect.
 
 Construction Requirements
 
 **Cost** 12,500 gp
 
-Craft Wondrous Item, _ [doom](spell_dir/doom#_doom)_, _ [deathwatch](spells/deathwatch#_deathwatch)_, _ [fear](spell_dir/fear#_fear)_
+Craft Wondrous Item, _ [doom](spells_dir/doom#_doom)_, _ [deathwatch](spells_dir/deathwatch#_deathwatch)_, _ [fear](spells_dir/fear#_fear)_
 
 Eyes of Eyebite
 
 **Price** 30,000 gp; **Aura** moderate necromancy; **CL** 11th; **Weight** —
 
-These glasses look like golden teeth holding a pair of green-tinted lenses. The wearer may use _ [eyebite](spells/eyebite#_eyebite)_ 11 times per day on command, affecting one target for each use of the spell. The wearer does not need to use these rounds consecutively, but each activation is a standard action (unlike the spell, in which targeting a new foe is a swift action). If the wearer removes the glasses, the _ [eyebite](spell_dir/eyebite#_eyebite)_ effects immediately end.
+These glasses look like golden teeth holding a pair of green-tinted lenses. The wearer may use _ [eyebite](spells_dir/eyebite#_eyebite)_ 11 times per day on command, affecting one target for each use of the spell. The wearer does not need to use these rounds consecutively, but each activation is a standard action (unlike the spell, in which targeting a new foe is a swift action). If the wearer removes the glasses, the _ [eyebite](spells_dir/eyebite#_eyebite)_ effects immediately end.
 
 Construction Requirements
 
 **Cost** 15,000 gp
 
-Craft Wondrous Item, _ [eyebite](spells/eyebite#_eyebite)_
+Craft Wondrous Item, _ [eyebite](spells_dir/eyebite#_eyebite)_
 
 Eyes of Keen Sight
 
 **Price** 6,000 gp; **Aura** faint transmutation; **CL** 1st; **Weight** —
 
-These clear crystals fit over the wearer's eyes. They grant the wearer a +2 competence bonus on [Perception](skill_dir/perception#_perception) checks, and the wearer gains low-light vision. If the wearer has low-light vision already, these lenses double the distance the wearer can see with this vision.
+These clear crystals fit over the wearer's eyes. They grant the wearer a +2 competence bonus on [Perception](skills_dir/perception#_perception) checks, and the wearer gains low-light vision. If the wearer has low-light vision already, these lenses double the distance the wearer can see with this vision.
 
 Construction Requirements
 
 **Cost** 3,000 gp
 
-Craft Wondrous Item, _ [keen senses](advanced/spell_dir/keenSenses#_keen-senses)_
+Craft Wondrous Item, _ [keen senses](advanced_dir/spells_dir/keenSenses#_keen-senses)_
 
 Eyes of the Dragon
 
@@ -176,19 +176,19 @@ Construction Requirements
 
 **Cost** 55,000 gp
 
-Craft Wondrous Item, _ [form of the dragon III](spells/formOfTheDragon#_form-of-the-dragon-iii)_
+Craft Wondrous Item, _ [form of the dragon III](spells_dir/formOfTheDragon#_form-of-the-dragon-iii)_
 
 Eyes of the Eagle
 
 **Price** 2,500 gp; **Aura** faint divination; **CL** 3rd; **Weight** —
 
-These lenses are made of special crystal and fit over the eyes of the wearer. They grant a +5 competence bonus on [Perception](skill_dir/perception#_perception) checks. Both lenses must be worn to gain the benefit. Wearing only one causes a character to become dizzy and stunned for 1 round.
+These lenses are made of special crystal and fit over the eyes of the wearer. They grant a +5 competence bonus on [Perception](skills_dir/perception#_perception) checks. Both lenses must be worn to gain the benefit. Wearing only one causes a character to become dizzy and stunned for 1 round.
 
 Construction Requirements
 
 **Cost** 1,250 gp
 
-Craft Wondrous Item, _ [clairaudience/clairvoyance](spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance)_
+Craft Wondrous Item, _ [clairaudience_dir/clairvoyance](spells_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance)_
 
 Eyes of the Owl
 
@@ -200,7 +200,7 @@ Construction Requirements
 
 **Cost** 2,000 gp
 
-Craft Wondrous Item, _ [beast shape I](spells/beastShape#_beast-shape-i)_
+Craft Wondrous Item, _ [beast shape I](spells_dir/beastShape#_beast-shape-i)_
 
 Goggles of Brilliant Light
 
@@ -212,31 +212,31 @@ Construction Requirements
 
 **Cost** 4,400 gp
 
-Craft Wondrous Item, _ [light](spell_dir/light#_light)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_
+Craft Wondrous Item, _ [light](spells_dir/light#_light)_, _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_
 
 Goggles of Elvenkind
 
 **Price** 8,500 gp; **Aura** faint divination; **CL** 5th; **Weight** —
 
-These simple goggles, made of two emeralds attached to a twin frame, grant the wearer low-light vision and a +5 compentence bonus on [Spellcraft](skill_dir/spellcraft#_spellcraft) checks to identify magic auras and items. If the wearer already has low-light vision, it grants the wearer double the normal range for low-light vision.
+These simple goggles, made of two emeralds attached to a twin frame, grant the wearer low-light vision and a +5 compentence bonus on [Spellcraft](skills_dir/spellcraft#_spellcraft) checks to identify magic auras and items. If the wearer already has low-light vision, it grants the wearer double the normal range for low-light vision.
 
 Construction Requirements
 
 **Cost** 4,250 gp
 
-Craft Wondrous Item, _ [beast shape II](spells/beastShape#_beast-shape-ii)_, _ [guidance](spell_dir/guidance#_guidance)_
+Craft Wondrous Item, _ [beast shape II](spells_dir/beastShape#_beast-shape-ii)_, _ [guidance](spells_dir/guidance#_guidance)_
 
 Goggles of Minute Seeing
 
 **Price** 2,500 gp; **Aura** faint divination; **CL** 3rd; **Weight** —
 
-The lenses of this item are made of special crystal, its band woven with tiny patterns of metallic thread almost invisible to the naked eye. When placed over the eyes of the wearer, the lenses enable her to see much better than normal at distances of 1 foot or less, granting her a +5 competence bonus on [Disable Device](skills/disableDevice#_disable-device) checks. Both lenses must be worn for the magic to be effective.
+The lenses of this item are made of special crystal, its band woven with tiny patterns of metallic thread almost invisible to the naked eye. When placed over the eyes of the wearer, the lenses enable her to see much better than normal at distances of 1 foot or less, granting her a +5 competence bonus on [Disable Device](skills_dir/disableDevice#_disable-device) checks. Both lenses must be worn for the magic to be effective.
 
 Construction Requirements
 
 **Cost** 1,250 gp
 
-Craft Wondrous Item, _ [true seeing](spell_dir/trueSeeing#_true-seeing)_
+Craft Wondrous Item, _ [true seeing](spells_dir/trueSeeing#_true-seeing)_
 
 Goggles of Night
 
@@ -248,19 +248,19 @@ Construction Requirements
 
 **Cost** 6,000 gp
 
-Craft Wondrous Item, _ [darkvision](spells/darkvision#_darkvision)_
+Craft Wondrous Item, _ [darkvision](spells_dir/darkvision#_darkvision)_
 
 Inquisitor's Monocle
 
 **Price** 6,800 gp; **Aura** faint enchantment; **CL** 3rd; **Weight** —
 
-The thick glass lens of this golden-framed monocle is attached to the wearer by a weighty chain. This monocle helps draw out the truth of things, and was originally created to aid in the investigation of crimes and the questioning of witnesses. Twice per day on command, it can create a _ [zone of truth](spell_dir/zoneOfTruth#_zone-of-truth), _as per the spell. In addition, this monocle grants its wearer a +5 competence bonus on [Sense Motive](skills/senseMotive#_sense-motive) checks. Though it fits over only one of the wearer's eyes, the item takes up the entire eyes slot.
+The thick glass lens of this golden-framed monocle is attached to the wearer by a weighty chain. This monocle helps draw out the truth of things, and was originally created to aid in the investigation of crimes and the questioning of witnesses. Twice per day on command, it can create a _ [zone of truth](spells_dir/zoneOfTruth#_zone-of-truth), _as per the spell. In addition, this monocle grants its wearer a +5 competence bonus on [Sense Motive](skills_dir/senseMotive#_sense-motive) checks. Though it fits over only one of the wearer's eyes, the item takes up the entire eyes slot.
 
 Construction Requirements
 
 **Cost** 3,400 gp
 
-Craft Wondrous Item, _ [zone of truth](spell_dir/zoneOfTruth#_zone-of-truth)_
+Craft Wondrous Item, _ [zone of truth](spells_dir/zoneOfTruth#_zone-of-truth)_
 
 Kinsight Goggles
 
@@ -272,19 +272,19 @@ Construction Requirements
 
 **Cost** 3,750 gp
 
-Craft Wondrous Item, _ [share senses](advanced/spell_dir/shareSenses#_share-senses) _
+Craft Wondrous Item, _ [share senses](advanced_dir/spells_dir/shareSenses#_share-senses) _
 
 Lenses of Detection
 
 **Price** 3,500 gp; **Aura** moderate divination; **CL** 9th; **Weight** 1 lb.
 
-These circular prisms let their wearer detect minute details, gaining a +5 competence bonus on [Perception](skills/perception#_perception) checks. It also aids in tracking, adding a +5 competence bonus on [Survival](skill_dir/survival#_survival) checks when tracking.
+These circular prisms let their wearer detect minute details, gaining a +5 competence bonus on [Perception](skills_dir/perception#_perception) checks. It also aids in tracking, adding a +5 competence bonus on [Survival](skills_dir/survival#_survival) checks when tracking.
 
 Construction Requirements
 
 **Cost** 1,750 gp
 
-Craft Wondrous Item, _ [true seeing](spells/trueSeeing#_true-seeing)_
+Craft Wondrous Item, _ [true seeing](spells_dir/trueSeeing#_true-seeing)_
 
 Lenses of Figment Piercing
 
@@ -296,19 +296,19 @@ Construction Requirements
 
 **Cost** 6,000 gp
 
-Craft Wondrous Item, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_
+Craft Wondrous Item, _ [see invisibility](spells_dir/seeInvisibility#_see-invisibility)_
 
 Mindmaster's Eyes
 
 **Price** 95,000 gp; **Aura** strong enchantment; **CL** 11th; **Weight** —
 
-This pair of thin and faceted ruby crystals fit over the wearer's eyes. On command, the wearer can use _ [charm monster](spells/charmMonster#_charm-monster)_ (Will DC 19 to negate), or once per day the wearer can use _ [dominate person](spell_dir/dominatePerson#_dominate-person)_ (Will DC 20 to negate) instead.
+This pair of thin and faceted ruby crystals fit over the wearer's eyes. On command, the wearer can use _ [charm monster](spells_dir/charmMonster#_charm-monster)_ (Will DC 19 to negate), or once per day the wearer can use _ [dominate person](spells_dir/dominatePerson#_dominate-person)_ (Will DC 20 to negate) instead.
 
 Construction Requirements
 
 **Cost** 47,500 gp
 
-Craft Wondrous Item, _ [charm monster](spells/charmMonster#_charm-monster)_, _ [dominate person](spell_dir/dominatePerson#_dominate-person)_
+Craft Wondrous Item, _ [charm monster](spells_dir/charmMonster#_charm-monster)_, _ [dominate person](spells_dir/dominatePerson#_dominate-person)_
 
 Monocle of the Investigator
 
@@ -320,43 +320,43 @@ Construction Requirements
 
 **Cost** 33,000 gp
 
-Craft Wondrous Item, _ [legend lore](spells/legendLore#_legend-lore)_, _ [vision](spell_dir/vision#_vision)_
+Craft Wondrous Item, _ [legend lore](spells_dir/legendLore#_legend-lore)_, _ [vision](spells_dir/vision#_vision)_
 
 Pirate's Eye Patch
 
 **Price** 2,600 gp; **Aura** faint transmutation; **CL** 2nd; **Weight** —
 
-This black silk eye patch is adorned by a skull and crossbones worked in silver thread. The wearer of this patch gains a +2 competence bonus on [Swim](skills/swim#_swim) and [Climb](skill_dir/climb#_climb) checks. In addition, once per day, the wearer of this eye patch can gain the effects of either _ [touch of the sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea) _ or _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_ on command (wearer's choice).
+This black silk eye patch is adorned by a skull and crossbones worked in silver thread. The wearer of this patch gains a +2 competence bonus on [Swim](skills_dir/swim#_swim) and [Climb](skills_dir/climb#_climb) checks. In addition, once per day, the wearer of this eye patch can gain the effects of either _ [touch of the sea](advanced_dir/spells_dir/touchOfTheSea#_touch-of-the-sea) _ or _ [expeditious retreat](spells_dir/expeditiousRetreat#_expeditious-retreat)_ on command (wearer's choice).
 
 Construction Requirements
 
 **Cost** 1,300 gp
 
-Craft Wondrous Item, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat)_, _ [touch of the sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea)_
+Craft Wondrous Item, _ [expeditious retreat](spells_dir/expeditiousRetreat#_expeditious-retreat)_, _ [touch of the sea](advanced_dir/spells_dir/touchOfTheSea#_touch-of-the-sea)_
 
 Rainbow Lenses
 
 **Price** 21,000 gp; **Aura** strong enchantment; **CL** 15th; **Weight** —
 
-These lenses interfere with the wearer's ability to see color, and everything appears in shades of black and white, as if the wearer were using darkvision. Once per day the wearer can use _ [color spray](spells/colorSpray#_color-spray)_, _ [hypnotic pattern](spell_dir/hypnoticPattern#_hypnotic-pattern)_, and _ [rainbow pattern](spells/rainbowPattern#_rainbow-pattern)_.
+These lenses interfere with the wearer's ability to see color, and everything appears in shades of black and white, as if the wearer were using darkvision. Once per day the wearer can use _ [color spray](spells_dir/colorSpray#_color-spray)_, _ [hypnotic pattern](spells_dir/hypnoticPattern#_hypnotic-pattern)_, and _ [rainbow pattern](spells_dir/rainbowPattern#_rainbow-pattern)_.
 
 Construction Requirements
 
 **Cost** 10,500 gp
 
-Craft Wondrous Item, _ [color spray](spell_dir/colorSpray#_color-spray), [hypnotic pattern](spells/hypnoticPattern#_hypnotic-pattern), [rainbow pattern](spell_dir/rainbowPattern#_rainbow-pattern)_
+Craft Wondrous Item, _ [color spray](spells_dir/colorSpray#_color-spray), [hypnotic pattern](spells_dir/hypnoticPattern#_hypnotic-pattern), [rainbow pattern](spells_dir/rainbowPattern#_rainbow-pattern)_
 
 Sea Tyrant's Patch
 
 **Price** 70,000 gp; **Aura** strong enchantment; **CL** 15th; **Weight** —
 
-This ornate silk eye patch is embroidered with gold thread and studded with pearls in a pattern representing a whirlpool. The wearer of this item, which is a favorite patch of ruthless or particularly driven pirate captains, is constantly affected as if subject to the _ [touch of the sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea)_ and _ [water breathing](spells/waterBreathing#_water-breathing)_ spells. Furthermore, once per day on command, the wearer can use _ [mass charm monster](spell_dir/charmMonster#_charm-monster-mass),_ as per the spell.
+This ornate silk eye patch is embroidered with gold thread and studded with pearls in a pattern representing a whirlpool. The wearer of this item, which is a favorite patch of ruthless or particularly driven pirate captains, is constantly affected as if subject to the _ [touch of the sea](advanced_dir/spells_dir/touchOfTheSea#_touch-of-the-sea)_ and _ [water breathing](spells_dir/waterBreathing#_water-breathing)_ spells. Furthermore, once per day on command, the wearer can use _ [mass charm monster](spells_dir/charmMonster#_charm-monster-mass),_ as per the spell.
 
 Construction Requirements
 
 **Cost** 35,000 gp
 
-Craft Wondrous Item, _ [mass charm monster](spells/charmMonster#_charm-monster-mass)_, _ [touch of the sea](advance_dir/spells/touchOfTheSea#_touch-of-the-sea), [water breathing](spell_dir/waterBreathing#_water-breathing)_
+Craft Wondrous Item, _ [mass charm monster](spells_dir/charmMonster#_charm-monster-mass)_, _ [touch of the sea](advanced_dir/spells_dir/touchOfTheSea#_touch-of-the-sea), [water breathing](spells_dir/waterBreathing#_water-breathing)_
 
 Sniper Goggles
 
@@ -368,7 +368,7 @@ Construction Requirements
 
 **Cost** 10,000 gp
 
-Craft Wondrous Item, _ [true strike](spells/trueStrike#_true-strike)_
+Craft Wondrous Item, _ [true strike](spells_dir/trueStrike#_true-strike)_
 
 Sniper Goggles, Greater
 
@@ -380,57 +380,57 @@ Construction Requirements
 
 **Cost** 25,000 gp
 
-Craft Wondrous Item, _ [true strike](spell_dir/trueStrike#_true-strike)_
+Craft Wondrous Item, _ [true strike](spells_dir/trueStrike#_true-strike)_
 
 Spectacles of Understanding
 
 **Price** 3,000 gp; **Aura** faint divination; **CL** 2nd; **Weight** —
 
-When worn, these innocent-looking spectacles convert any written language to one known by the wearer, as the _comprehend language_s spell. The glasses are also good at detecting falsified documents, granting their wearer a +5 bonus to [Linguistics](skills/linguistics#_linguistics) checks to identify forgeries and the ability make such checks untrained.
+When worn, these innocent-looking spectacles convert any written language to one known by the wearer, as the _comprehend language_s spell. The glasses are also good at detecting falsified documents, granting their wearer a +5 bonus to [Linguistics](skills_dir/linguistics#_linguistics) checks to identify forgeries and the ability make such checks untrained.
 
 Construction Requirements
 
 **Cost** 1,500 gp
 
-Craft Wondrous Item, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages)_
+Craft Wondrous Item, _ [comprehend languages](spells_dir/comprehendLanguages#_comprehend-languages)_
 
 Swordmaster's Blindfold
 
 **Price** 80,000 gp; **Aura** moderate transmutation; **CL** 9th; **Weight** —
 
-This black band of silk grants its wearer spectacular senses within a limited range. Some believe these items were made to grant lesser swordmasters the illusion of skill. When the wearer places the blindfold over her eyes, she becomes blinded, but gains blindsight within the reach of her melee weapon, or 5 feet if the wearer is not wielding a melee weapon. Furthermore, the wearer is under the effect of a constant _ [locate weakness](ultimateCombat/spell_dir/locateWeakness#_locate-weakness)_ (_Ultimate Combat_ 236) spell, but only when making melee attacks.
+This black band of silk grants its wearer spectacular senses within a limited range. Some believe these items were made to grant lesser swordmasters the illusion of skill. When the wearer places the blindfold over her eyes, she becomes blinded, but gains blindsight within the reach of her melee weapon, or 5 feet if the wearer is not wielding a melee weapon. Furthermore, the wearer is under the effect of a constant _ [locate weakness](ultimateCombat_dir/spells_dir/locateWeakness#_locate-weakness)_ (_Ultimate Combat_ 236) spell, but only when making melee attacks.
 
 Construction Requirements
 
 **Cost** 40,000 gp
 
-Craft Wondrous Item, _blindness_, _ [locate weakness](ultimateCombat/spell_dir/locateWeakness#_locate-weakness)_
+Craft Wondrous Item, _blindness_, _ [locate weakness](ultimateCombat_dir/spells_dir/locateWeakness#_locate-weakness)_
 
 Treasure Hunter's Goggles
 
 **Price** 6,400 gp; **Aura** faint divination; **CL** 3rd; **Weight** —
 
-These sturdy but plain goggles help the wearer locate secret doors and coins and identify treasure. While wearing these goggles, the wearer can use _ [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_ at will. The goggles do not aid in determining how secret doors are opened.
+These sturdy but plain goggles help the wearer locate secret doors and coins and identify treasure. While wearing these goggles, the wearer can use _ [detect secret doors](spells_dir/detectSecretDoors#_detect-secret-doors)_ at will. The goggles do not aid in determining how secret doors are opened.
 
-Once per day on command, the wearer gains the ability to _ [locate object](spell_dir/locateObject#_locate-object)_ as per the spell, but only to detect 100 or more coins in a small area, such as a backpack, chest, pouch, or sack.
+Once per day on command, the wearer gains the ability to _ [locate object](spells_dir/locateObject#_locate-object)_ as per the spell, but only to detect 100 or more coins in a small area, such as a backpack, chest, pouch, or sack.
 
-Three times per day, the wearer may use _ [identify](spells/identify#_identify)_.
+Three times per day, the wearer may use _ [identify](spells_dir/identify#_identify)_.
 
 Construction Requirements
 
 **Cost** 3,200 gp
 
-Craft Wondrous Item, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors)_, _ [identify](spells/identify#_identify), [locate object](spell_dir/locateObject#_locate-object)_
+Craft Wondrous Item, _ [detect secret doors](spells_dir/detectSecretDoors#_detect-secret-doors)_, _ [identify](spells_dir/identify#_identify), [locate object](spells_dir/locateObject#_locate-object)_
 
 Truesight Goggles
 
 **Price** 184,800 gp; **Aura** strong divination; **CL** 11th; **Weight** —
 
-These goggles, constructed of a pair of perfect prisms held in place by golden frames and affixed to the head by a black leather strap, grants the wearer _ [true seeing](spells/trueSeeing#_true-seeing)_ continuously. Furthermore, once per day on command, the wearer can use _ [analyze dweomer](spell_dir/analyzeDweomer#_analyze-dweomer)_ as the spell.
+These goggles, constructed of a pair of perfect prisms held in place by golden frames and affixed to the head by a black leather strap, grants the wearer _ [true seeing](spells_dir/trueSeeing#_true-seeing)_ continuously. Furthermore, once per day on command, the wearer can use _ [analyze dweomer](spells_dir/analyzeDweomer#_analyze-dweomer)_ as the spell.
 
 Construction Requirements
 
 **Cost** 92,400 gp
 
-Craft Wondrous Item, _ [analyze dweomer](spells/analyzeDweomer#_analyze-dweomer)_, _ [true seeing](spell_dir/trueSeeing#_true-seeing)_
+Craft Wondrous Item, _ [analyze dweomer](spells_dir/analyzeDweomer#_analyze-dweomer)_, _ [true seeing](spells_dir/trueSeeing#_true-seeing)_
 

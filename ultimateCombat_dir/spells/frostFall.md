@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/frostFall
+title: ultimateCombat_dir/spells_dir/frostFall
 ---
 Frost Fall
 
-**School** evocation ( [cold](monster_dir/creatureTypes#_cold-subtype)); **Level** druid 2, sorcerer/wizard 2, witch 2
+**School** evocation ( [cold](monsters_dir/creatureTypes#_cold-subtype)); **Level** druid 2, sorcerer_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Area** 5-foot radius burst
 
-**Duration** 1 roun_dir/2 levels
+**Duration** 1 round_dir/2 levels
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 

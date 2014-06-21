@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/alignmentWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/alignmentWords
 ---
 ## Alignment Words
 
@@ -8,9 +8,9 @@ Words from this family deal specifically with alignment, detecting, damaging, or
 
 Alignment Shield (Alignment)
 
-**School** abjuration; **Level** cleric 1, inquisitor 1, paladin 1, sorcerer/wizard 1
+**School** abjuration; **Level** cleric 1, inquisitor 1, paladin 1, sorcerer_dir/wizard 1
 
-**Duration** 1 minut_dir/level (D)
+**Duration** 1 minute_dir/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -34,11 +34,11 @@ Alignment Aura (Alignment)
 
 **School** abjuration; **Level** cleric 8
 
-**Duration** 1 round/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 **Target Restrictions** _selected_
 
-A wordspell with this effect word functions as _alignment [shield](spell_dir/shield#_shield)_, but the bonus to AC and on saving throws increases to +4. In addition, the creature gains SR 25 against spells cast by creatures of the chosen alignment. Finally, creatures of the chosen alignment find it painful to touch the warded creature, taking 2d6 points of damage for each successful hit with a melee weapon or natural weapon.
+A wordspell with this effect word functions as _alignment [shield](spells_dir/shield#_shield)_, but the bonus to AC and on saving throws increases to +4. In addition, the creature gains SR 25 against spells cast by creatures of the chosen alignment. Finally, creatures of the chosen alignment find it painful to touch the warded creature, taking 2d6 points of damage for each successful hit with a melee weapon or natural weapon.
 

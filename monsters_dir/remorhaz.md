@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/remorhaz
+title: monsters_dir/remorhaz
 ---
 # Remorhaz
 
@@ -12,7 +12,7 @@ _An immense centipede-like beast erupts from the snow, rows of chitinous plates 
 
 N Huge [magical beast](creatureTypes#_magical-beast)
 
-**Init** +1; **Senses** darkvision 60 ft., low-light vision, [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skill_dir/perception#_perception) +16
+**Init** +1; **Senses** darkvision 60 ft., low-light vision, [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skills_dir/perception#_perception) +16
 
 **Defense**
 
@@ -40,9 +40,9 @@ N Huge [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +9; **CMB** +17 (+21 grapple); **CMD** 28 (can't be tripped)
 
-**Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Cleave](../feats#_cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
+**Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Cleave](../feats#_cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception) +16
+**Skills** [Perception](../skills_dir/perception#_perception) +16
 
 **Languages** Giant (cannot speak)
 

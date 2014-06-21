@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/triton
+title: additionalMonsters_dir/triton
 ---
 # Triton
 
@@ -10,9 +10,9 @@ This scaly, finned humanoid has an athletic build and blue-green coloration. Its
 
 **XP 600**
 
-NG Medium [outsider](monsters/creatureTypes#_outsider) ( [native](monster_dir/creatureTypes#_native-subtype), [water](monsters/creatureTypes#_water-subtype))
+NG Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [native](monsters_dir/creatureTypes#_native-subtype), [water](monsters_dir/creatureTypes#_water-subtype))
 
-**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +7
+**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7
 
 Defense
 
@@ -28,11 +28,11 @@ Offense
 
 **Melee** mwk trident +5 (1d8+1)
 
-**Ranged** heavy crossbow +3 (1d10/19–20)
+**Ranged** heavy crossbow +3 (1d10_dir/19–20)
 
 **Spell-Like Abilities** (CL 7th; concentration +7)
 
-1/day—_ [summon nature's ally II](additionalMonster_dir/../spell_dir/summonNatureSAlly#_summon-nature-s-ally-ii)_ (Small water elemental or 1d3 dolphins only)
+1_dir/day—_ [summon nature's ally II](additionalMonsters_dir/../spells_dir/summonNatureSAlly#_summon-nature-s-ally-ii)_ (Small water elemental or 1d3 dolphins only)
 
 Statistics
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +4; **CMD** 14
 
-**Feats** [Mounted Combat](additionalMonsters/../feats#_mounted-combat), [Ride-By Attack](additionalMonster_dir/../feats#_ride-by-attack)
+**Feats** [Mounted Combat](additionalMonsters_dir/../feats#_mounted-combat), [Ride-By Attack](additionalMonsters_dir/../feats#_ride-by-attack)
 
-**Skills** [Craft](additionalMonster_dir/../skill_dir/craft#_craft) (any one) +7, [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy) +6, [Perception](additionalMonsters/../skill_dir/perception#_perception) +7, [Ride](additionalMonsters/../skill_dir/ride#_ride) +6, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +6, [Survival](additionalMonsters/../skill_dir/survival#_survival) +7, [Swim](additionalMonsters/../skill_dir/swim#_swim) +9
+**Skills** [Craft](additionalMonsters_dir/../skills_dir/craft#_craft) (any one) +7, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +6, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7, [Ride](additionalMonsters_dir/../skills_dir/ride#_ride) +6, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +7, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +6, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +7, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +9
 
 **Languages** Aquan, Common
 

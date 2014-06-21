@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/monsterIndex
+title: monsters_dir/monsterIndex
 ---
 # Monster Index
 

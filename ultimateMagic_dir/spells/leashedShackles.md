@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/leashedShackles
+title: ultimateMagic_dir/spells_dir/leashedShackles
 ---
 Leashed Shackles
 
-**School** evocation [force]; **Level** inquisitor 4, sorcere_dir/wizard 6
+**School** evocation [force]; **Level** inquisitor 4, sorcerer_dir/wizard 6
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. +10 ft./level)
+**Range** medium (100 ft. +10 ft._dir/level)
 
 **Target** one creature
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Reflex negates; **Spell Resistance** yes
 

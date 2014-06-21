@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/hexWard
+title: ultimateMagic_dir/spells_dir/hexWard
 ---
 Hex Ward
 
@@ -14,7 +14,7 @@ Hex Ward
 
 **Target** creature touched
 
-**Duration** 1 hou_dir/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: master_dir/nPCGallery/military
+title: mastery_dir/nPCGallery_dir/military
 ---
 # Military
 
 Trained soldiers might take up arms for nearly any cause imaginable. Whether the champions of heroic kingdoms fighting off monstrous legions or the denizens of a bleak realm invading their neighbors, vast legions arise to do the will of lords both fair and foul. Yet the real strength of such soldiers lies not in personal skill, but in sheer numbers or deftly implemented tactics. Professional combatants might also find a variety of roles beyond the battlefield, whether as guardians, raiders, or even adventurers.
 
-**Foot Soldier CR 1/3**
+**Foot Soldier CR 1_dir/3**
 
 **XP 135**
 
@@ -14,7 +14,7 @@ Human warrior 1
 
 N Medium humanoid
 
-**Init** +1; **Senses** [Perception](../../skill_dir/perception#_perception) +0
+**Init** +1; **Senses** [Perception](../../skills_dir/perception#_perception) +0
 
 **Defense**
 
@@ -28,7 +28,7 @@ N Medium humanoid
 
 **Speed** 20 ft.
 
-**Melee** longspear +3 (1d8+3/×3) or greatsword +3 (2d6+3/19–20) or dagger +3 (1d4+2/19–20)
+**Melee** longspear +3 (1d8+3_dir/×3) or greatsword +3 (2d6+3_dir/19–20) or dagger +3 (1d4+2_dir/19–20)
 
 **Ranged** javelin +2 (1d6+2)
 
@@ -42,11 +42,11 @@ N Medium humanoid
 
 **Feats** [Step Up](../../feats#_step-up), [Toughness](../../feats#_toughness)
 
-**Skills** [Craft](../../skill_dir/craft#_craft) (weapons) +3, [Profession](../../skill_dir/profession#_profession) (soldier) +4, [Survival](../../skill_dir/survival#_survival) +1
+**Skills** [Craft](../../skills_dir/craft#_craft) (weapons) +3, [Profession](../../skills_dir/profession#_profession) (soldier) +4, [Survival](../../skills_dir/survival#_survival) +1
 
 **Languages** Common
 
-**Combat Gear** _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** chainmail, greatsword, dagger, javelin, longspear, 2 gp
+**Combat Gear** _potion of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** chainmail, greatsword, dagger, javelin, longspear, 2 gp
 
 **Boon** Foot soldiers can help PCs buy normal (non-masterwork) simple or martial weapons at a 10% discount, or may agree to accompany the PCs as men-at-arms for a 10% share of the treasure.
 
@@ -68,7 +68,7 @@ Human fighter 6
 
 N Medium humanoid
 
-**Init** +3; **Senses** [Perception](../../skill_dir/perception#_perception) +1
+**Init** +3; **Senses** [Perception](../../skills_dir/perception#_perception) +1
 
 **Defense**
 
@@ -84,9 +84,9 @@ N Medium humanoid
 
 **Speed** 20 ft.
 
-**Melee** mwk lance +12/+7 (1d8+6/×3) or shortspear +10/+5 (1d6+4) or dagger +9/+4 (1d4+3/19–20)
+**Melee** mwk lance +12_dir/+7 (1d8+6_dir/×3) or shortspear +10_dir/+5 (1d6+4) or dagger +9_dir/+4 (1d4+3_dir/19–20)
 
-**Ranged** mwk composite shortbow +10/+5 (1d6+3/×3) or shortspear +10/+5 (1d6+3)
+**Ranged** mwk composite shortbow +10_dir/+5 (1d6+3_dir/×3) or shortspear +10_dir/+5 (1d6+3)
 
 **Special Attacks** weapon training (spears +1)
 
@@ -98,13 +98,13 @@ N Medium humanoid
 
 **Feats** [Animal Affinity](../../feats#_animal-affinity), [Mounted Archery](../../feats#_mounted-archery), [Mounted Combat](../../feats#_mounted-combat), [Ride-By Attack](../../feats#_ride-by-attack), [Spirited Charge](../../feats#_spirited-charge), [Trample](../../feats#_trample), [Weapon Focus](../../feats#_weapon-focus) (lance), [Weapon Specialization](../../feats#_weapon-specialization) (lance)
 
-**Skills** [Craft](../../skill_dir/craft#_craft) (weapons) +3, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +11, [Profession](../../skill_dir/profession#_profession) (soldier) +5, [Ride](../../skill_dir/ride#_ride) +9, [Survival](../../skill_dir/survival#_survival) +5
+**Skills** [Craft](../../skills_dir/craft#_craft) (weapons) +3, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +11, [Profession](../../skills_dir/profession#_profession) (soldier) +5, [Ride](../../skills_dir/ride#_ride) +9, [Survival](../../skills_dir/survival#_survival) +5
 
 **Languages** Common
 
 **SQ** armor training 1
 
-**Combat Gear** _oil of [magic weapon](../../spell_dir/magicWeapon#_magic-weapon)_, _potion of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** _+1 banded mail_, _+1 heavy wooden [shield](../../spell_dir/shield#_shield)_, masterwork lance, composite shortbow (+3 Str) with 20 arrows, dagger, shortspears (2), heavy horse (combat trained) with military saddle and leather barding, 18 gp
+**Combat Gear** _oil of [magic weapon](../../spells_dir/magicWeapon#_magic-weapon)_, _potion of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** _+1 banded mail_, _+1 heavy wooden [shield](../../spells_dir/shield#_shield)_, masterwork lance, composite shortbow (+3 Str) with 20 arrows, dagger, shortspears (2), heavy horse (combat trained) with military saddle and leather barding, 18 gp
 
 **Boon** Cavalry can offer to train an animal at no cost, or to help PCs buy a combat trained animal at a 10% discount.
 
@@ -122,7 +122,7 @@ Human fighter 11
 
 N Medium humanoid
 
-**Init** +1; **Senses** [Perception](../../skill_dir/perception#_perception) +10
+**Init** +1; **Senses** [Perception](../../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -138,9 +138,9 @@ N Medium humanoid
 
 **Speed** 30 ft.
 
-**Melee** _+1 glaive_ +19/+14/+9 (1d10+11) or armor spikes +15/+10/+5 (1d6+4)
+**Melee** _+1 glaive_ +19_dir/+14_dir/+9 (1d10+11) or armor spikes +15_dir/+10_dir/+5 (1d6+4)
 
-**Ranged** composite longbow +13/+8/+3 (1d8+5/×3)
+**Ranged** composite longbow +13_dir/+8_dir/+3 (1d8+5_dir/×3)
 
 **Special Attacks** weapon training (polearms +2, bows +1)
 
@@ -152,13 +152,13 @@ N Medium humanoid
 
 **Feats** [Combat Expertise](../../feats#_combat-expertise), [Combat Reflexes](../../feats#_combat-reflexes), [Disruptive](../../feats#_disruptive), [Dodge](../../feats#_dodge), [Improved Vital Strike](../../feats#_improved-vital-strike), [Lunge](../../feats#_lunge), [Mobility](../../feats#_mobility), [Spellbreaker](../../feats#_spellbreaker), [Spring Attack](../../feats#_spring-attack), [Vital Strike](../../feats#_vital-strike), [Weapon Focus](../../feats#_weapon-focus) (glaive), [Weapon Specialization](../../feats#_weapon-specialization) (glaive), [Whirlwind Attack](../../feats#_whirlwind-attack)
 
-**Skills** [Diplomacy](../../skill_dir/diplomacy#_diplomacy) +5, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +5, [Intimidate](../../skill_dir/intimidate#_intimidate) +13, [Knowledge](../../skill_dir/knowledge#_knowledge) (dungeoneering) +6, [Knowledge](../../skill_dir/knowledge#_knowledge) (engineering) +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (history) +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) +4, [Perception](../../skill_dir/perception#_perception) +10, [Profession](../../skill_dir/profession#_profession) (soldier) +14, [Ride](../../skill_dir/ride#_ride) +9, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +5, [Survival](../../skill_dir/survival#_survival) +4
+**Skills** [Diplomacy](../../skills_dir/diplomacy#_diplomacy) +5, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +5, [Intimidate](../../skills_dir/intimidate#_intimidate) +13, [Knowledge](../../skills_dir/knowledge#_knowledge) (dungeoneering) +6, [Knowledge](../../skills_dir/knowledge#_knowledge) (engineering) +10, [Knowledge](../../skills_dir/knowledge#_knowledge) (history) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (local) +4, [Knowledge](../../skills_dir/knowledge#_knowledge) (nobility) +4, [Perception](../../skills_dir/perception#_perception) +10, [Profession](../../skills_dir/profession#_profession) (soldier) +14, [Ride](../../skills_dir/ride#_ride) +9, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +5, [Survival](../../skills_dir/survival#_survival) +4
 
 **Languages** Common, Goblin, Orc
 
 **SQ** armor training 3
 
-**Combat Gear** _potions of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_ (2); **Other Gear** _+1 full plate_ with cold iron armor spikes, _+1 glaive_, composite longbow (+4 Str) with 20 arrows, _ [belt of giant strength](../../magicItem_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](../../magicItem_dir/rings#_ring-of-protection) +1_, heavy horse (combat trained) with chain shirt barding and military saddle
+**Combat Gear** _potions of [cure light wounds](../../spells_dir/cureLightWounds#_cure-light-wounds)_ (2); **Other Gear** _+1 full plate_ with cold iron armor spikes, _+1 glaive_, composite longbow (+4 Str) with 20 arrows, _ [belt of giant strength](../../magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [cloak of resistance](../../magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](../../magicItems_dir/rings#_ring-of-protection) +1_, heavy horse (combat trained) with chain shirt barding and military saddle
 
 **Boon** Generals can provide access to trustworthy mercenary troops. A character with [Leadership](../../feats#_leadership) gains a +2 bonus to [Leadership](../../feats#_leadership) for recruiting followers for 1 month. Other PCs can hire mercenaries at a 20% discount.
 

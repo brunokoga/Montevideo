@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/reloadingHands
+title: ultimateCombat_dir/spells_dir/reloadingHands
 ---
 Reloading Hands
 
-**School** conjuration (creation); **Level** magus 2, ranger 2, sorcere_dir/wizard 2
+**School** conjuration (creation); **Level** magus 2, ranger 2, sorcerer_dir/wizard 2
 
 **Casting time** 1 standard action
 
@@ -14,7 +14,7 @@ Reloading Hands
 
 **Target** projectile weapon touched
 
-**Duration** 1 round/caster level (D)
+**Duration** 1 round_dir/caster level (D)
 
 **Saving throw** Will negates (object, harmless); Spell Resistance yes (object, harmless)
 

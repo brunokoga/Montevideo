@@ -1,20 +1,20 @@
 ---
 layout: default
-title: advance_dir/spells/antHaul
+title: advanced_dir/spells_dir/antHaul
 ---
  **Ant Haul**
 
-**School** transmutation; **Level** alchemist 1, cleric 1, druid 1, ranger 1, sorcere_dir/wizard 1, summoner 1
+**School** transmutation; **Level** alchemist 1, cleric 1, druid 1, ranger 1, sorcerer_dir/wizard 1, summoner 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (a small pulley)
+**Components** V, S, M_dir/DF (a small pulley)
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 2 hour_dir/level
+**Duration** 2 hours_dir/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

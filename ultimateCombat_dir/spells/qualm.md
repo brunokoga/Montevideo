@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/qualm
+title: ultimateCombat_dir/spells_dir/qualm
 ---
 Qualm
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, inquisitor 2, sorcere_dir/wizard 2, witch 2
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, inquisitor 2, sorcerer_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 
-**Duration** 1 minut_dir/level or until discharged
+**Duration** 1 minute_dir/level or until discharged
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

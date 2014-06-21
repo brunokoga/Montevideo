@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/alchemicalAllocation
+title: advanced_dir/spells_dir/alchemicalAllocation
 ---
  **Alchemical Allocation**
 

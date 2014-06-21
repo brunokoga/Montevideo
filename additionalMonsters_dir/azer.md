@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/azer
+title: additionalMonsters_dir/azer
 ---
 # Azer
 
@@ -10,9 +10,9 @@ Heat ripples the air near this squat, brass-skinned humanoid. Its head and shoul
 
 **XP 600**
 
-LN Medium [outsider](monsters/creatureTypes#_outsider) ( [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), [fire](monsters/creatureTypes#_fire-subtype))
+LN Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [fire](monsters_dir/creatureTypes#_fire-subtype))
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +6
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6
 
 Defense
 
@@ -22,19 +22,19 @@ Defense
 
 **Fort** +5, **Ref** +1, **Will** +4
 
-**Immune** [fire](monsters/creatureTypes#_fire-subtype); **SR** 13
+**Immune** [fire](monsters_dir/creatureTypes#_fire-subtype); **SR** 13
 
-**Weaknesses** vulnerability to [cold](monster_dir/creatureTypes#_cold-subtype)
+**Weaknesses** vulnerability to [cold](monsters_dir/creatureTypes#_cold-subtype)
 
 Offense
 
 **Speed** 30 ft. (20 ft. in armor)
 
-**Melee** mwk warhammer +4 (1d8+1/×3 plus 1d6 [fire](monster_dir/creatureTypes#_fire-subtype))
+**Melee** mwk warhammer +4 (1d8+1_dir/×3 plus 1d6 [fire](monsters_dir/creatureTypes#_fire-subtype))
 
-**Ranged** light hammer +3 (1d4+1 plus 1d6 [fire](monsters/creatureTypes#_fire-subtype))
+**Ranged** light hammer +3 (1d4+1 plus 1d6 [fire](monsters_dir/creatureTypes#_fire-subtype))
 
-**Special Attacks** [heat](monster_dir/universalMonsterRules#_heat) (1d6 [fire](monsters/creatureTypes#_fire-subtype))
+**Special Attacks** [heat](monsters_dir/universalMonsterRules#_heat) (1d6 [fire](monsters_dir/creatureTypes#_fire-subtype))
 
 Statistics
 
@@ -42,15 +42,15 @@ Statistics
 
 **Base Atk** +2; **CMB** +3; **CMD** 14
 
-**Feats** [Power Attack](additionalMonster_dir/../feats#_power-attack)
+**Feats** [Power Attack](additionalMonsters_dir/../feats#_power-attack)
 
-**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +0, [Appraise](additionalMonsters/../skill_dir/appraise#_appraise) +6, [Climb](additionalMonsters/../skill_dir/climb#_climb) +3, [Craft](additionalMonsters/../skill_dir/craft#_craft) (any two) +6, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (nobility) +6, [Perception](additionalMonsters/../skill_dir/perception#_perception) +6
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +0, [Appraise](additionalMonsters_dir/../skills_dir/appraise#_appraise) +6, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +3, [Craft](additionalMonsters_dir/../skills_dir/craft#_craft) (any two) +6, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (nobility) +6, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6
 
 **Languages** Common, Ignan
 
 Ecology
 
-**Environment** any land (Plane of [Fire](monsters/creatureTypes#_fire-subtype))
+**Environment** any land (Plane of [Fire](monsters_dir/creatureTypes#_fire-subtype))
 
 **Organization** solitary, pair, team (3–6), squad (11–20 plus 2 sergeants of 3rd level and 1 leader of 3rd–6th level), or clan (30–100 plus 50% noncombatants plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, and 3 captains of 7th level)
 

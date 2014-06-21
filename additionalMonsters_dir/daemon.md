@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/daemon
+title: additionalMonsters_dir/daemon
 ---
 # Daemon
 
@@ -28,9 +28,9 @@ Vaguely humanoid in shape, this gaunt fiend has the face of a hideous fish and a
 
 **XP 76,800**
 
-NE Large [outsider](monsters/creatureTypes#_outsider) ( [daemon](monster_dir/creatureTypes#_daemon-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
+NE Large [outsider](monsters_dir/creatureTypes#_outsider) ( [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., _ [deathwatch](additionalMonsters/../spell_dir/deathwatch#_deathwatch)_, _ [true seeing](additionalMonsters/../spell_dir/trueSeeing#_true-seeing)_; [Perception](additionalMonsters/../skill_dir/perception#_perception) +22
+**Init** +7; **Senses** darkvision 60 ft., _ [deathwatch](additionalMonsters_dir/../spells_dir/deathwatch#_deathwatch)_, _ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +22
 
 **Aura** soul siphon (10 ft.)
 
@@ -42,13 +42,13 @@ Defense
 
 **Fort** +12, **Ref** +17, **Will** +14
 
-**Defensive Abilities** _ [displacement](additionalMonsters/../spell_dir/displacement#_displacement)_; **DR** 10/good and silver; **Immune** acid, death effects, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 27
+**Defensive Abilities** _ [displacement](additionalMonsters_dir/../spells_dir/displacement#_displacement)_; **DR** 10_dir/good and silver; **Immune** acid, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 27
 
 Offense
 
 **Speed** 90 ft., fly 90 ft. (good)
 
-**Melee** bite +23 (2d6+5 plus energy drain and [grab](monster_dir/universalMonsterRules#_grab)), 2 claws +23 (1d8+5 plus energy drain), tail slap +18 (1d12+2 plus energy drain)
+**Melee** bite +23 (2d6+5 plus energy drain and [grab](monsters_dir/universalMonsterRules#_grab)), 2 claws +23 (1d8+5 plus energy drain), tail slap +18 (1d12+2 plus energy drain)
 
 **Space** 10 ft.; **Reach** 10 ft. (15 ft. with tail)
 
@@ -56,13 +56,13 @@ Offense
 
 **Spell-Like Abilities** (CL 17th; concentration +24)
 
-Constant—_ [deathwatch](additionalMonsters/../spell_dir/deathwatch#_deathwatch)_, _ [displacement](additionalMonsters/../spell_dir/displacement#_displacement), [true seeing](additionalMonsters/../spell_dir/trueSeeing#_true-seeing)_
+Constant—_ [deathwatch](additionalMonsters_dir/../spells_dir/deathwatch#_deathwatch)_, _ [displacement](additionalMonsters_dir/../spells_dir/displacement#_displacement), [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_
 
-At will—_ [enervation](additionalMonsters/../spell_dir/enervation#_enervation)_, _ [fear](additionalMonsters/../spell_dir/fear#_fear)_ (DC21), _ [greater teleport](additionalMonsters/../spell_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only), _ [vampiric touch](additionalMonsters/../spell_dir/vampiricTouch#_vampiric-touch)_
+At will—_ [enervation](additionalMonsters_dir/../spells_dir/enervation#_enervation)_, _ [fear](additionalMonsters_dir/../spells_dir/fear#_fear)_ (DC21), _ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater) _(self plus 50 lbs. of objects only), _ [vampiric touch](additionalMonsters_dir/../spells_dir/vampiricTouch#_vampiric-touch)_
 
-3/day—_ [locate creature](additionalMonster_dir/../spell_dir/locateCreature#_locate-creature)_, _ [plane shift](additionalMonsters/../spell_dir/planeShift#_plane-shift)_ (DC 24)
+3_dir/day—_ [locate creature](additionalMonsters_dir/../spells_dir/locateCreature#_locate-creature)_, _ [plane shift](additionalMonsters_dir/../spells_dir/planeShift#_plane-shift)_ (DC 24)
 
-1/day—_ [energy drain](additionalMonster_dir/../spell_dir/energyDrain#_energy-drain)_ (DC 24), _ [finger of death](additionalMonsters/../spell_dir/fingerOfDeath#_finger-of-death)_ (DC 24), summon (level 6, 1d3 derghodaemons 50%)
+1_dir/day—_ [energy drain](additionalMonsters_dir/../spells_dir/energyDrain#_energy-drain)_ (DC 24), _ [finger of death](additionalMonsters_dir/../spells_dir/fingerOfDeath#_finger-of-death)_ (DC 24), summon (level 6, 1d3 derghodaemons 50%)
 
 Statistics
 
@@ -70,9 +70,9 @@ Statistics
 
 **Base Atk** +17; **CMB** +23; **CMD** 41
 
-**Feats** [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Dodge](additionalMonster_dir/../feats#_dodge), [Flyby Attack](additionalMonster_dir/../monster_dir/monsterFeats#_flyby-attack), [Iron Will](additionalMonsters/../feats#_iron-will), [Mobility](additionalMonster_dir/../feats#_mobility), [Nimble Moves](additionalMonster_dir/../feats#_nimble-moves), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Spring Attack](additionalMonster_dir/../feats#_spring-attack), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
+**Feats** [Combat Reflexes](additionalMonsters_dir/../feats#_combat-reflexes), [Dodge](additionalMonsters_dir/../feats#_dodge), [Flyby Attack](additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Mobility](additionalMonsters_dir/../feats#_mobility), [Nimble Moves](additionalMonsters_dir/../feats#_nimble-moves), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Spring Attack](additionalMonsters_dir/../feats#_spring-attack), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +24 (+48 jump), [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +27, [Fly](additionalMonsters/../skill_dir/fly#_fly) +9, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +27, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +22, [Perception](additionalMonsters/../skill_dir/perception#_perception) +22, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +22, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +23, [Survival](additionalMonsters/../skill_dir/survival#_survival) +22
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +24 (+48 jump), [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +27, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +9, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +27, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +22, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +22, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +22, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +23, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +22
 
 **Languages** Abyssal, Infernal; telepathy 100 ft.
 
@@ -86,9 +86,9 @@ Ecology
 
 Special Abilities
 
-**Devour Soul (Su)** As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, which may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain creature, the [daemon](monsters/creatureTypes#_daemon-subtype) gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the [daemon](monster_dir/creatureTypes#_daemon-subtype) completes its feast (enough to be able to resurrect the slain victim normally).
+**Devour Soul (Su)** As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, which may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain creature, the [daemon](monsters_dir/creatureTypes#_daemon-subtype) gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the [daemon](monsters_dir/creatureTypes#_daemon-subtype) completes its feast (enough to be able to resurrect the slain victim normally).
 
-**Soul Siphon (Su)** If a Small or larger living creature dies within 10 feet of an astradaemon, the [daemon](monsters/creatureTypes#_daemon-subtype) gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. [Incorporeal](monster_dir/creatureTypes#_incorporeal-subtype) [undead](monsters/creatureTypes#_undead) and living spirits traveling outside the body (such as a person using _ [astral projection](additionalMonster_dir/../spell_dir/astralProjection#_astral-projection)_ or _ [magic jar](additionalMonsters/../spell_dir/magicJar#_magic-jar)_) take 1d8 points of damage each round within the [daemon](monsters/creatureTypes#_daemon-subtype)'s aura.
+**Soul Siphon (Su)** If a Small or larger living creature dies within 10 feet of an astradaemon, the [daemon](monsters_dir/creatureTypes#_daemon-subtype) gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. [Incorporeal](monsters_dir/creatureTypes#_incorporeal-subtype) [undead](monsters_dir/creatureTypes#_undead) and living spirits traveling outside the body (such as a person using _ [astral projection](additionalMonsters_dir/../spells_dir/astralProjection#_astral-projection)_ or _ [magic jar](additionalMonsters_dir/../spells_dir/magicJar#_magic-jar)_) take 1d8 points of damage each round within the [daemon](monsters_dir/creatureTypes#_daemon-subtype)'s aura.
 
 Believed to be creations of the Four Horsemen, astradaemons live out their existence in search of souls to harvest. These deadly creatures are ravening planar predators, openly hunting throughout the void for souls on which to feed. These voracious creatures are the personifications of death resulting from negative energy or level drain. Their vile touch drains life force from their enemies, and even perishing near them sates their thirst for life and souls.
 
@@ -100,9 +100,9 @@ An ever-gnashing maw, filled with row after row of mismatched teeth, dominates t
 
 **XP 600**
 
-NE Tiny [outsider](monster_dir/creatureTypes#_outsider) ( [daemon](monsters/creatureTypes#_daemon-subtype), [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+NE Tiny [outsider](monsters_dir/creatureTypes#_outsider) ( [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +4; **Senses** darkvision 60 ft., _ [detect good](additionalMonster_dir/../spell_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic)_; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
+**Init** +4; **Senses** darkvision 60 ft., _ [detect good](additionalMonsters_dir/../spells_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7
 
 Defense
 
@@ -112,27 +112,27 @@ Defense
 
 **Fort** +2, **Ref** +5, **Will** +4
 
-**DR** 5/good or silver; **Immune** acid, death effects, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10
+**DR** 5_dir/good or silver; **Immune** acid, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10
 
 Offense
 
 **Speed** 5 ft., fly 50 ft. (perfect)
 
-**Melee** bite +6 (1d4+1 plus [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)))
+**Melee** bite +6 (1d4+1 plus [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)))
 
-**Space** 2-1/2 ft.; **Reach** 0 ft.
+**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
 
 **Special Attacks** soul lock
 
 **Spell-Like Abilities** (CL 6th; concentration +7)
 
-Constant—_ [detect good](additionalMonster_dir/../spell_dir/detectGood#_detect-good), [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic)_
+Constant—_ [detect good](additionalMonsters_dir/../spells_dir/detectGood#_detect-good), [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_
 
-At will—_ [invisibility](additionalMonsters/../spell_dir/invisibility#_invisibility) _(self only)
+At will—_ [invisibility](additionalMonsters_dir/../spells_dir/invisibility#_invisibility) _(self only)
 
-3/day—_ [lesser confusion](additionalMonster_dir/../spell_dir/confusion#_confusion-lesser) _(DC 12)
+3_dir/day—_ [lesser confusion](additionalMonsters_dir/../spells_dir/confusion#_confusion-lesser) _(DC 12)
 
-1/week—_ [commune](additionalMonster_dir/../spell_dir/commune#_commune)_ (CL 12th, six questions)
+1_dir/week—_ [commune](additionalMonsters_dir/../spells_dir/commune#_commune)_ (CL 12th, six questions)
 
 Statistics
 
@@ -140,31 +140,31 @@ Statistics
 
 **Base Atk** +3; **CMB** +1; **CMD** 12
 
-**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Lightning Reflexes](additionalMonster_dir/../feats#_lightning-reflexes)
+**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes)
 
-**Skills** [Bluff](additionalMonster_dir/../skill_dir/bluff#_bluff) +7, [Fly](additionalMonsters/../skill_dir/fly#_fly) +18, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +5, [Perception](additionalMonsters/../skill_dir/perception#_perception) +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +14
+**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +7, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +18, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +5, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +14
 
 **Languages** Abyssal, Common, Infernal; telepathy 100 ft.
 
-**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (2 of the following forms: lizard, octopus, Small scorpion, venomous snake, _ [polymorph](additionalMonster_dir/../spell_dir/polymorph#_polymorph)_)
+**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (2 of the following forms: lizard, octopus, Small scorpion, venomous snake, _ [polymorph](additionalMonsters_dir/../spells_dir/polymorph#_polymorph)_)
 
 Ecology
 
 **Environment** any (Abaddon)
 
-**Organization** solitary or [swarm](monsters/creatureTypes#_swarm-subtype) (2–10)
+**Organization** solitary or [swarm](monsters_dir/creatureTypes#_swarm-subtype) (2–10)
 
 **Treasure** standard
 
 Special Abilities
 
-**[Disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)) (Su)** _Cacodaemonia_: Bite—injury; _save_ Fort DC 12; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d2 Wis damage, _cure_ 2 consecutive saves. In addition to the normal effects of the [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), as long as a victim is infected, the cacodaemon can telepathically communicate with the creature over any distance (as long as they remain on the same plane).
+**[Disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)) (Su)** _Cacodaemonia_: Bite—injury; _save_ Fort DC 12; _onset_ 1 day; _frequency_ 1_dir/day; _effect_ 1d2 Wis damage, _cure_ 2 consecutive saves. In addition to the normal effects of the [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), as long as a victim is infected, the cacodaemon can telepathically communicate with the creature over any distance (as long as they remain on the same plane).
 
-**Soul Lock (Su)** Once per day as a full-round action, a cacodaemon can ingest the spirit of any sentient creature that has died within the last minute. This causes a soul gem to grow inside of the cacodaemon's gut, which it can regurgitate as a standard action. A soul gem is a fine-sized object with 1 hit point and hardness 2. Destroying a soul gem frees the soul within, though it does not return the deceased creature to life. This is a death effect. Any attempt to resurrect a body whose soul is trapped in a soul gem requires a DC 12 caster level check. Failure results in the spell having no effect, while success shatters the victim's soul gem and returns the creature to life as normal. If the soul gem rests in an unholy location, such as that created by the spell _ [unhallow](additionalMonsters/../spell_dir/unhallow#_unhallow)_, the DC of this caster level check increases by +2. The caster level check DC is Charisma-based.
+**Soul Lock (Su)** Once per day as a full-round action, a cacodaemon can ingest the spirit of any sentient creature that has died within the last minute. This causes a soul gem to grow inside of the cacodaemon's gut, which it can regurgitate as a standard action. A soul gem is a fine-sized object with 1 hit point and hardness 2. Destroying a soul gem frees the soul within, though it does not return the deceased creature to life. This is a death effect. Any attempt to resurrect a body whose soul is trapped in a soul gem requires a DC 12 caster level check. Failure results in the spell having no effect, while success shatters the victim's soul gem and returns the creature to life as normal. If the soul gem rests in an unholy location, such as that created by the spell _ [unhallow](additionalMonsters_dir/../spells_dir/unhallow#_unhallow)_, the DC of this caster level check increases by +2. The caster level check DC is Charisma-based.
 
-Any [evil](monsters/creatureTypes#_evil-subtype) [outsider](monster_dir/creatureTypes#_outsider) can, as a standard action, ingest a soul gem. Doing so frees the soul within, but condemns it to one of the lower planes (though the soul can be returned to life as normal). The [outsider](monsters/creatureTypes#_outsider) gains fast healing 2 for a number of rounds equal to its Hit Dice.
+Any [evil](monsters_dir/creatureTypes#_evil-subtype) [outsider](monsters_dir/creatureTypes#_outsider) can, as a standard action, ingest a soul gem. Doing so frees the soul within, but condemns it to one of the lower planes (though the soul can be returned to life as normal). The [outsider](monsters_dir/creatureTypes#_outsider) gains fast healing 2 for a number of rounds equal to its Hit Dice.
 
-The least of daemonkind, cacodaemons spawn from eddies of angry, violent, and demented souls amid the mists of Abaddon. Dim-witted but utterly evil, they endlessly seek to cause pain and indulge their hunger for mortal souls. Many more powerful fiends keep cacodaemons as pets, if only to be able to harvest the tiny creatures' soul gems. A 7th-level spellcaster can gain a cacodaemon as a familiar if she has the [Improved Familiar](additionalMonster_dir/../feats#_improved-familiar) feat.
+The least of daemonkind, cacodaemons spawn from eddies of angry, violent, and demented souls amid the mists of Abaddon. Dim-witted but utterly evil, they endlessly seek to cause pain and indulge their hunger for mortal souls. Many more powerful fiends keep cacodaemons as pets, if only to be able to harvest the tiny creatures' soul gems. A 7th-level spellcaster can gain a cacodaemon as a familiar if she has the [Improved Familiar](additionalMonsters_dir/../feats#_improved-familiar) feat.
 
 # Daemon, Ceustodaemon
 
@@ -174,9 +174,9 @@ This brown, shaggy-furred beast stands on slate grey hooves. Its head resembles 
 
 **XP 2,400**
 
-NE Large [outsider](monster_dir/creatureTypes#_outsider) ( [daemon](monsters/creatureTypes#_daemon-subtype), [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+NE Large [outsider](monsters_dir/creatureTypes#_outsider) ( [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +1; **Senses** darkvision 60 ft., _ [detect good](additionalMonster_dir/../spell_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters/../spell_dir/seeInvisibility#_see-invisibility)_; [Perception](additionalMonsters/../skill_dir/perception#_perception) +15
+**Init** +1; **Senses** darkvision 60 ft., _ [detect good](additionalMonsters_dir/../spells_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +15
 
 Defense
 
@@ -186,7 +186,7 @@ Defense
 
 **Fort** +9, **Ref** +3, **Will** +8
 
-**DR** 10/good or silver; **Immune** acid, death effects, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), mind-affecting effects, paralysis, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), polymorph effects, sleep effects; **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10
+**DR** 10_dir/good or silver; **Immune** acid, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), mind-affecting effects, paralysis, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), polymorph effects, sleep effects; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10
 
 Offense
 
@@ -196,17 +196,17 @@ Offense
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [breath weapon](monster_dir/universalMonsterRules#_breath-weapon) (30-ft. cone; 6d6 [fire](monsters/creatureTypes#_fire-subtype) damage; Reflex DC 17 for half; usable once every 1d4 rounds)
+**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (30-ft. cone; 6d6 [fire](monsters_dir/creatureTypes#_fire-subtype) damage; Reflex DC 17 for half; usable once every 1d4 rounds)
 
 **Spell-Like Abilities** (CL 8th; concentration +10)
 
-Constant—_ [detect good](additionalMonster_dir/../spell_dir/detectGood#_detect-good), [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic), [see invisibility](additionalMonsters/../spell_dir/seeInvisibility#_see-invisibility)_
+Constant—_ [detect good](additionalMonsters_dir/../spells_dir/detectGood#_detect-good), [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic), [see invisibility](additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_
 
-At will—_ [dimension door](additionalMonsters/../spell_dir/dimensionDoor#_dimension-door)_
+At will—_ [dimension door](additionalMonsters_dir/../spells_dir/dimensionDoor#_dimension-door)_
 
-3/day—_ [dispel magic](additionalMonster_dir/../spell_dir/dispelMagic#_dispel-magic)_, _ [fly](additionalMonsters/../spell_dir/fly)_
+3_dir/day—_ [dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic)_, _ [fly](additionalMonsters_dir/../spells_dir/fly)_
 
-1/day—_ [hold monster](additionalMonster_dir/../spell_dir/holdMonster#_hold-monster)_ (DC 17), _ [slow](additionalMonsters/../spell_dir/slow#_slow)_ (DC 15)
+1_dir/day—_ [hold monster](additionalMonsters_dir/../spells_dir/holdMonster#_hold-monster)_ (DC 17), _ [slow](additionalMonsters_dir/../spells_dir/slow#_slow)_ (DC 15)
 
 Statistics
 
@@ -214,9 +214,9 @@ Statistics
 
 **Base Atk** +8; **CMB** +13; **CMD** 24
 
-**Feats** [Alertness](additionalMonsters/../feats#_alertness), [Blind-Fight](additionalMonster_dir/../feats#_blind-fight), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Step Up](additionalMonster_dir/../feats#_step-up)
+**Feats** [Alertness](additionalMonsters_dir/../feats#_alertness), [Blind-Fight](additionalMonsters_dir/../feats#_blind-fight), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Step Up](additionalMonsters_dir/../feats#_step-up)
 
-**Skills** [Bluff](additionalMonster_dir/../skill_dir/bluff#_bluff) +13, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +11, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +9, [Perception](additionalMonsters/../skill_dir/perception#_perception) +15, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +15, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +8, [Survival](additionalMonsters/../skill_dir/survival#_survival) +9
+**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +13, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +11, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +9, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +15, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +15, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +8, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +9
 
 **Languages** Abyssal, Infernal; telepathy 100 ft.
 
@@ -232,7 +232,7 @@ Ecology
 
 Special Abilities
 
-**Drawn to Service (Su)** When brought to another plane with a _ [planar binding](additionalMonsters/../spell_dir/planarBinding#_planar-binding)_ or _ [planar ally](additionalMonsters/../spell_dir/planarAlly#_planar-ally) _spell (or any similar calling effect), ceustodaemons take a –5 penalty on the initial Will save and on their Charisma check to refuse service. Ceustodaemons also take a –5 penalty on saves against _ [binding](additionalMonsters/../spell_dir/binding#_binding)_, _ [planar binding](additionalMonsters/../spell_dir/planarBinding#_planar-binding)_, and other spells designed to bind a creature to a particular plane as long as the [daemon](monsters/creatureTypes#_daemon-subtype) is commanded to serve as a guardian for a single area or small complex.
+**Drawn to Service (Su)** When brought to another plane with a _ [planar binding](additionalMonsters_dir/../spells_dir/planarBinding#_planar-binding)_ or _ [planar ally](additionalMonsters_dir/../spells_dir/planarAlly#_planar-ally) _spell (or any similar calling effect), ceustodaemons take a –5 penalty on the initial Will save and on their Charisma check to refuse service. Ceustodaemons also take a –5 penalty on saves against _ [binding](additionalMonsters_dir/../spells_dir/binding#_binding)_, _ [planar binding](additionalMonsters_dir/../spells_dir/planarBinding#_planar-binding)_, and other spells designed to bind a creature to a particular plane as long as the [daemon](monsters_dir/creatureTypes#_daemon-subtype) is commanded to serve as a guardian for a single area or small complex.
 
 Some claim the Four Horsemen created these creatures to serve as summoning fodder. Others believe that they form from neutral evil souls who commit suicide. Wherever the truth lies, ceustodaemons find themselves on the Material Plane more often than any other daemon, as they are easily pressured into service—many call these creatures “guardian daemons” as a result. Yet in the back of their wicked minds, ceustodaemons always think about escaping their bonds and ripping to shreds the ones who summoned them.
 
@@ -250,11 +250,11 @@ A deadly and vicious bouquet of insectile claws sprouts from this horrid, three-
 
 **XP 19,200**
 
-NE Large [outsider](monster_dir/creatureTypes#_outsider) ( [daemon](monsters/creatureTypes#_daemon-subtype), [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+NE Large [outsider](monsters_dir/creatureTypes#_outsider) ( [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +5; **Senses** [all-around vision](monster_dir/universalMonsterRules#_all-around-vision), darkvision 60 ft., _ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters/../spell_dir/seeInvisibility#_see-invisibility)_; [Perception](additionalMonsters/../skill_dir/perception#_perception) +28
+**Init** +5; **Senses** [all-around vision](monsters_dir/universalMonsterRules#_all-around-vision), darkvision 60 ft., _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +28
 
-**Aura** _ [feeblemind](additionalMonsters/../spell_dir/feeblemind#_feeblemind)_ (DC 20)
+**Aura** _ [feeblemind](additionalMonsters_dir/../spells_dir/feeblemind#_feeblemind)_ (DC 20)
 
 Defense
 
@@ -264,13 +264,13 @@ Defense
 
 **Fort** +15, **Ref** +14, **Will** +7
 
-**DR** 10/good; **Immune** acid, death effects, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 23
+**DR** 10_dir/good; **Immune** acid, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 23
 
 Offense
 
 **Speed** 40 ft.
 
-**Melee** 5 claws +21 (1d6+8/19–20)
+**Melee** 5 claws +21 (1d6+8_dir/19–20)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -278,13 +278,13 @@ Offense
 
 **Spell-like Abilities** (CL 12th; concentration +15)
 
-Constant—_ [detect magic](additionalMonster_dir/../spell_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters/../spell_dir/seeInvisibility#_see-invisibility)_
+Constant—_ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_
 
-At will—_ [greater teleport](additionalMonsters/../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
+At will—_ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
 
-3/day—_ [fear](additionalMonster_dir/../spell_dir/fear#_fear)_ (DC 17), quickened _ [summon swarm](additionalMonsters/../spell_dir/summonSwarm#_summon-swarm)_
+3_dir/day—_ [fear](additionalMonsters_dir/../spells_dir/fear#_fear)_ (DC 17), quickened _ [summon swarm](additionalMonsters_dir/../spells_dir/summonSwarm#_summon-swarm)_
 
-1/day—_ [creeping doom](additionalMonster_dir/../spell_dir/creepingDoom#_creeping-doom)_, _ [insect plague](additionalMonsters/../spell_dir/insectPlague#_insect-plague)_, summon (level 4, 1 derghodaemon 30%)
+1_dir/day—_ [creeping doom](additionalMonsters_dir/../spells_dir/creepingDoom#_creeping-doom)_, _ [insect plague](additionalMonsters_dir/../spells_dir/insectPlague#_insect-plague)_, summon (level 4, 1 derghodaemon 30%)
 
 Statistics
 
@@ -292,9 +292,9 @@ Statistics
 
 **Base Atk** +14; **CMB** +23; **CMD** 38 (40 vs. trip)
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Critical Focus](additionalMonster_dir/../feats#_critical-focus), [Improved Critical](additionalMonster_dir/../feats#_improved-critical) (claws), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Quicken Spell-Like Ability](additionalMonster_dir/../monster_dir/monsterFeats#_quicken-spell-like-ability) (_ [summon swarm](additionalMonsters/../spell_dir/summonSwarm#_summon-swarm)_), [Sickening Critical](additionalMonsters/../feats#_sickening-critical), [Vital Strike](additionalMonster_dir/../feats#_vital-strike)
+**Feats** [Cleave](additionalMonsters_dir/../feats#_cleave), [Critical Focus](additionalMonsters_dir/../feats#_critical-focus), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (claws), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Quicken Spell-Like Ability](additionalMonsters_dir/../monsters_dir/monsterFeats#_quicken-spell-like-ability) (_ [summon swarm](additionalMonsters_dir/../spells_dir/summonSwarm#_summon-swarm)_), [Sickening Critical](additionalMonsters_dir/../feats#_sickening-critical), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike)
 
-**Skills** [Intimidate](additionalMonster_dir/../skill_dir/intimidate#_intimidate) +20, [Perception](additionalMonsters/../skill_dir/perception#_perception) +28, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +20, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +18; **Racial Modifiers** +4 Perception
+**Skills** [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +20, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +28, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +20, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +18; **Racial Modifiers** +4 Perception
 
 **Languages** Abyssal, Draconic, Infernal; telepathy 100 ft.
 
@@ -310,9 +310,9 @@ Ecology
 
 Special Abilities
 
-**Feeblemind Aura (Su)** By grinding and clicking its mandibles and chitinous plates together (a free action), a derghodaemon can affect all creatures within 30 feet as if by a _ [feeblemind](additionalMonsters/../spell_dir/feeblemind#_feeblemind)_ spell. Daemons are immune to this effect, but all other creatures must make a DC 20 Will save to resist the effects. A creature that makes this save is immune to the effect for 24 hours. A creature that fails remains affected as long as the derghodaemon continues to maintain the aura and the subject remains within 30 feet of the derghodaemon. Once either condition ends, the victim of this effect can attempt a new DC 20 Will save once per minute to recover from the effect; otherwise, it can be cured by a _ [heal](additionalMonsters/../spell_dir/heal#_heal)_, _ [limited wish](additionalMonsters/../spell_dir/limitedWish#_limited-wish)_, _ [miracle](additionalMonsters/../spell_dir/miracle#_miracle)_, or _ [wish](additionalMonsters/../spell_dir/wish#_wish)_ spell. A derghodaemon cannot use its spell-like abilities or rend attack in any round in which it uses its feeblemind aura. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+**Feeblemind Aura (Su)** By grinding and clicking its mandibles and chitinous plates together (a free action), a derghodaemon can affect all creatures within 30 feet as if by a _ [feeblemind](additionalMonsters_dir/../spells_dir/feeblemind#_feeblemind)_ spell. Daemons are immune to this effect, but all other creatures must make a DC 20 Will save to resist the effects. A creature that makes this save is immune to the effect for 24 hours. A creature that fails remains affected as long as the derghodaemon continues to maintain the aura and the subject remains within 30 feet of the derghodaemon. Once either condition ends, the victim of this effect can attempt a new DC 20 Will save once per minute to recover from the effect; otherwise, it can be cured by a _ [heal](additionalMonsters_dir/../spells_dir/heal#_heal)_, _ [limited wish](additionalMonsters_dir/../spells_dir/limitedWish#_limited-wish)_, _ [miracle](additionalMonsters_dir/../spells_dir/miracle#_miracle)_, or _ [wish](additionalMonsters_dir/../spells_dir/wish#_wish)_ spell. A derghodaemon cannot use its spell-like abilities or rend attack in any round in which it uses its feeblemind aura. This is a sonic mind-affecting effect. The save DC is Charisma-based.
 
-**Swarmwalking (Su)** A derghodaemon is immune to damage or [distraction](monsters/universalMonsterRules#_distraction) effects caused by swarms.
+**Swarmwalking (Su)** A derghodaemon is immune to damage or [distraction](monsters_dir/universalMonsterRules#_distraction) effects caused by swarms.
 
 These brutal daemons personify death resulting from violent insanity, such as being murdered by a maniac or torn to shreds by a pack of rabid predators. These insectoid creatures roam the Outer Planes, scavenging battlefields and following the inevitable trail of violence in those hostile worlds. They hunt the weak and dying along the fringe of battles, feeding off their victims' suffering until they make their kill. Attacks from a derghodaemon often come from within a cloud of biting insects.
 
@@ -326,9 +326,9 @@ The skin on this frog-like fiend is clammy and its eyes look dead and milky; its
 
 **XP 4,800**
 
-NE Large [outsider](monster_dir/creatureTypes#_outsider) ( [aquatic](monsters/creatureTypes#_aquatic-subtype), [daemon](monster_dir/creatureTypes#_daemon-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
+NE Large [outsider](monsters_dir/creatureTypes#_outsider) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype), [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft., _ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic)_; [Perception](additionalMonsters/../skill_dir/perception#_perception) +15
+**Init** +2; **Senses** darkvision 60 ft., _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +15
 
 Defense
 
@@ -338,29 +338,29 @@ Defense
 
 **Fort** +11, **Ref** +9, **Will** +3
 
-**DR** 10/cold iron or silver; **Immune** acid, death effects, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), waters of the River Styx; **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 19
+**DR** 10_dir/cold iron or silver; **Immune** acid, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), waters of the River Styx; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 19
 
 Offense
 
 **Speed** 30 ft., fly 40 ft. (average; see glide, below), swim 60 ft.
 
-**Melee** bite +13 (1d8+4 plus [grab](monster_dir/universalMonsterRules#_grab)), 2 claws +13 (1d6+4)
+**Melee** bite +13 (1d8+4 plus [grab](monsters_dir/universalMonsterRules#_grab)), 2 claws +13 (1d6+4)
 
 **Ranged** sleep spittle +11 (sleep)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [rake](monsters/universalMonsterRules#_rake) (2 claws +13, 1d6+4)
+**Special Attacks** [rake](monsters_dir/universalMonsterRules#_rake) (2 claws +13, 1d6+4)
 
 **Spell-Like Abilities** (CL 9th; concentration +11)
 
-Constant—_ [detect magic](additionalMonster_dir/../spell_dir/detectMagic#_detect-magic), [water walk](additionalMonsters/../spell_dir/waterWalk#_water-walk)_
+Constant—_ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic), [water walk](additionalMonsters_dir/../spells_dir/waterWalk#_water-walk)_
 
-At will—_ [acid arrow](additionalMonsters/../spell_dir/acidArrow#_acid-arrow)_, _ [deeper darkness](additionalMonsters/../spell_dir/deeperDarkness#_deeper-darkness)_
+At will—_ [acid arrow](additionalMonsters_dir/../spells_dir/acidArrow#_acid-arrow)_, _ [deeper darkness](additionalMonsters_dir/../spells_dir/deeperDarkness#_deeper-darkness)_
 
-3/day—_ [control water](additionalMonster_dir/../spell_dir/controlWater#_control-water)_, _ [greater teleport](additionalMonsters/../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [summon monster V](additionalMonsters/../spell_dir/summonMonster#_summon-monster-v)_ (Large water elemental only)
+3_dir/day—_ [control water](additionalMonsters_dir/../spells_dir/controlWater#_control-water)_, _ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only), _ [summon monster V](additionalMonsters_dir/../spells_dir/summonMonster#_summon-monster-v)_ (Large water elemental only)
 
-1/day—_ [desecrate](additionalMonster_dir/../spell_dir/desecrate#_desecrate)_, summon (level 3, 1 hydrodaemon 50%)
+1_dir/day—_ [desecrate](additionalMonsters_dir/../spells_dir/desecrate#_desecrate)_, summon (level 3, 1 hydrodaemon 50%)
 
 Statistics
 
@@ -368,9 +368,9 @@ Statistics
 
 **Base Atk** +10; **CMB** +15 (+9 grapple); **CMD** 27
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Point-Blank Shot](additionalMonster_dir/../feats#_point-blank-shot), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Precise Shot](additionalMonster_dir/../feats#_precise-shot), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception))
+**Feats** [Cleave](additionalMonsters_dir/../feats#_cleave), [Point-Blank Shot](additionalMonsters_dir/../feats#_point-blank-shot), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Precise Shot](additionalMonsters_dir/../feats#_precise-shot), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception))
 
-**Skills** [Fly](additionalMonsters/../skill_dir/fly#_fly) +0, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +14, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +10, [Perception](additionalMonsters/../skill_dir/perception#_perception) +15, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +12, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +10, [Swim](additionalMonsters/../skill_dir/swim#_swim) +21
+**Skills** [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +0, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +14, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +10, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +15, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +12, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +10, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +21
 
 **Languages** Abyssal, Infernal; telepathy 100 ft.
 
@@ -386,7 +386,7 @@ Ecology
 
 Special Abilities
 
-**Glide (Ex)** A hydrodaemon can launch itself into the [air](monsters/creatureTypes#_air-subtype) and glide along for 1 minute, gaining a fly speed of 40 feet with average maneuverability. While gliding, the hydrodaemon gains the [pounce](monster_dir/universalMonsterRules#_pounce) ability.
+**Glide (Ex)** A hydrodaemon can launch itself into the [air](monsters_dir/creatureTypes#_air-subtype) and glide along for 1 minute, gaining a fly speed of 40 feet with average maneuverability. While gliding, the hydrodaemon gains the [pounce](monsters_dir/universalMonsterRules#_pounce) ability.
 
 **Sleep Spittle (Su)** A hydrodaemon can spit at a single target within 20 feet, making a ranged touch attack as a standard action. A target hit by this spittle must succeed on a DC 19 Will save or fall asleep for 6 rounds. The save DC is Constitution-based.
 
@@ -402,9 +402,9 @@ This human-shaped beast has a horse's skull for a head. It walks on cracked hoov
 
 **XP 6,400**
 
-NE Large [outsider](monsters/creatureTypes#_outsider) ( [daemon](monster_dir/creatureTypes#_daemon-subtype), [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
+NE Large [outsider](monsters_dir/creatureTypes#_outsider) ( [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +11; **Senses** darkvision 60 ft., _ [deathwatch](additionalMonsters/../spell_dir/deathwatch#_deathwatch)_, _ [detect good](additionalMonsters/../spell_dir/detectGood#_detect-good)_; [Perception](additionalMonsters/../skill_dir/perception#_perception) +22
+**Init** +11; **Senses** darkvision 60 ft., _ [deathwatch](additionalMonsters_dir/../spells_dir/deathwatch#_deathwatch)_, _ [detect good](additionalMonsters_dir/../spells_dir/detectGood#_detect-good)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +22
 
 **Aura** infectious aura (50 ft.)
 
@@ -416,7 +416,7 @@ Defense
 
 **Fort** +9, **Ref** +14, **Will** +12
 
-**DR** 10/good or silver; **Immune** acid, death effects, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 20
+**DR** 10_dir/good or silver; **Immune** acid, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 20
 
 Offense
 
@@ -424,7 +424,7 @@ Offense
 
 **Melee** bite +16 (1d8+7), 2 claws +16 (1d6+7)
 
-**Ranged** _+1 composite longbow_ +18/+13 (2d6+8/×3 plus contagion)
+**Ranged** _+1 composite longbow_ +18_dir/+13 (2d6+8_dir/×3 plus contagion)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -432,11 +432,11 @@ Offense
 
 **Spell-Like Abilities** (CL 10th; concentration +13)
 
-Constant—_ [deathwatch](additionalMonster_dir/../spell_dir/deathwatch#_deathwatch)_, _ [detect good](additionalMonsters/../spell_dir/detectGood#_detect-good)_
+Constant—_ [deathwatch](additionalMonsters_dir/../spells_dir/deathwatch#_deathwatch)_, _ [detect good](additionalMonsters_dir/../spells_dir/detectGood#_detect-good)_
 
-At will—_ [contagion](additionalMonsters/../spell_dir/contagion#_contagion)_ (DC 17), _ [dispel magic](additionalMonsters/../spell_dir/dispelMagic#_dispel-magic)_, _ [greater teleport](additionalMonsters/../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
+At will—_ [contagion](additionalMonsters_dir/../spells_dir/contagion#_contagion)_ (DC 17), _ [dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic)_, _ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
 
-1/day­—_ [harm](additionalMonster_dir/../spell_dir/harm#_harm)_ (DC 19), summon (level 3, 1 leukodaemon only, 35%)
+1_dir/day­—_ [harm](additionalMonsters_dir/../spells_dir/harm#_harm)_ (DC 19), summon (level 3, 1 leukodaemon only, 35%)
 
 Statistics
 
@@ -444,9 +444,9 @@ Statistics
 
 **Base Atk** +10; **CMB** +18; **CMD** 35
 
-**Feats** [Alertness](additionalMonsters/../feats#_alertness), [Hover](additionalMonster_dir/../monster_dir/monsterFeats#_hover), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Point-Blank Shot](additionalMonster_dir/../feats#_point-blank-shot), [Weapon Focus](additionalMonster_dir/../feats#_weapon-focus) (longbow)
+**Feats** [Alertness](additionalMonsters_dir/../feats#_alertness), [Hover](additionalMonsters_dir/../monsters_dir/monsterFeats#_hover), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Point-Blank Shot](additionalMonsters_dir/../feats#_point-blank-shot), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (longbow)
 
-**Skills** [Fly](additionalMonster_dir/../skill_dir/fly#_fly) +18, [Heal](additionalMonsters/../skill_dir/heal#_heal) +18, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +16, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +16, [Perception](additionalMonsters/../skill_dir/perception#_perception) +22, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +22, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +16, [Survival](additionalMonsters/../skill_dir/survival#_survival) +15, [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device) +16
+**Skills** [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +18, [Heal](additionalMonsters_dir/../skills_dir/heal#_heal) +18, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +16, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +16, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +22, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +22, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +16, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +15, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +16
 
 **Languages** Abyssal, Draconic, Infernal; telepathy 100 ft.
 
@@ -462,9 +462,9 @@ Special Abilities
 
 **Breath of Flies (Su)** Once per minute as a standard action, a leukodaemon can unleash a cloud of corpse-bloated, biting black flies in a 20-foot cone. Those caught in the cone take 8d6 points of slashing damage. A DC 21 Reflex save halves this damage. Those who take any damage are also sickened for 1 minute. In addition, the flies linger for 1d4+1 rounds, congealing into a buzzing 20-foot-square cloud centered on the cone's original point of origin. Any creature that ends its turn in this cloud must make a DC 21 Reflex save to avoid taking 4d6 points of damage and becoming sickened for 1 minute. This cloud of flies may be dispersed by any area effect that does damage or creates wind of at least strong wind force. All daemons are immune to this effect. The save DCs are Constitution-based.
 
-**Contagion (Su)** Any arrow a leukodaemon fires from a bow is tainted with [disease](monsters/universalMonsterRules#_disease-(ex-or-su)). If a creature is damaged by a leukodaemon's arrow, it must make a DC 19 Fortitude save or be affected as if by the spell _ [contagion](additionalMonster_dir/../spell_dir/contagion#_contagion)_. A leukodaemon can manifest arrows at will and never runs out of ammunition.
+**Contagion (Su)** Any arrow a leukodaemon fires from a bow is tainted with [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)). If a creature is damaged by a leukodaemon's arrow, it must make a DC 19 Fortitude save or be affected as if by the spell _ [contagion](additionalMonsters_dir/../spells_dir/contagion#_contagion)_. A leukodaemon can manifest arrows at will and never runs out of ammunition.
 
-**Infectious Aura (Su)** All creatures within 50 feet of a leukodaemon take a –4 penalty on Fortitude saves against [disease](monsters/universalMonsterRules#_disease-(ex-or-su)) effects.
+**Infectious Aura (Su)** All creatures within 50 feet of a leukodaemon take a –4 penalty on Fortitude saves against [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)) effects.
 
 Deacons of the Horseman of Pestilence, leukodaemons serve their lord in Abaddon as well as across the planes by spreading plagues and pandemics.
 
@@ -478,9 +478,9 @@ This foul creature looks like an emaciated humanoid with the head of a jackal.
 
 **XP 12,800**
 
-NE Large [outsider](monster_dir/creatureTypes#_outsider) ( [daemon](monsters/creatureTypes#_daemon-subtype), [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+NE Large [outsider](monsters_dir/creatureTypes#_outsider) ( [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., _ [detect good](additionalMonster_dir/../spell_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic)_; [Perception](additionalMonsters/../skill_dir/perception#_perception) +20
+**Init** +6; **Senses** darkvision 60 ft., _ [detect good](additionalMonsters_dir/../spells_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +20
 
 **Aura** consumptive aura (20 ft.)
 
@@ -492,25 +492,25 @@ Defense
 
 **Fort** +11, **Ref** +15, **Will** +14
 
-**DR** 10/good; **Immune** acid, critical hits, death effects, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), sneak attack; **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 22
+**DR** 10_dir/good; **Immune** acid, critical hits, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), sneak attack; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 22
 
 Offense
 
 **Speed** 30 ft., fly 60 ft. (average)
 
-**Melee** bite +20 (2d8+6/19–20 plus [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su))), 2 claws +19 (2d6+6 plus hunger)
+**Melee** bite +20 (2d8+6_dir/19–20 plus [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su))), 2 claws +19 (2d6+6 plus hunger)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
 **Spell-Like Abilities** (CL 11th; concentration +15)
 
-Constant—_ [detect good](additionalMonsters/../spell_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters/../spell_dir/seeInvisibility#_see-invisibility)_
+Constant—_ [detect good](additionalMonsters_dir/../spells_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_
 
-At will—_cause fear_ (DC 15), _ [deeper darkness](additionalMonsters/../spell_dir/deeperDarkness#_deeper-darkness)_, _ [greater teleport](additionalMonsters/../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
+At will—_cause fear_ (DC 15), _ [deeper darkness](additionalMonsters_dir/../spells_dir/deeperDarkness#_deeper-darkness)_, _ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
 
-3/day—_ [blight](additionalMonster_dir/../spell_dir/blight#_blight) _(DC 19), _ [diminish plants](additionalMonsters/../spell_dir/diminishPlants#_diminish-plants)_, quickened _ [magic missile](additionalMonsters/../spell_dir/magicMissile#_magic-missile)_
+3_dir/day—_ [blight](additionalMonsters_dir/../spells_dir/blight#_blight) _(DC 19), _ [diminish plants](additionalMonsters_dir/../spells_dir/diminishPlants#_diminish-plants)_, quickened _ [magic missile](additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile)_
 
-1/day—_ [horrid wilting](additionalMonster_dir/../spell_dir/horridWilting#_horrid-wilting)_ (DC 22), _ [waves of fatigue](additionalMonsters/../spell_dir/wavesOfFatigue#_waves-of-fatigue)_
+1_dir/day—_ [horrid wilting](additionalMonsters_dir/../spells_dir/horridWilting#_horrid-wilting)_ (DC 22), _ [waves of fatigue](additionalMonsters_dir/../spells_dir/wavesOfFatigue#_waves-of-fatigue)_
 
 Statistics
 
@@ -518,9 +518,9 @@ Statistics
 
 **Base Atk** +14; **CMB** +21; **CMD** 37
 
-**Feats** [Blind-Fight](additionalMonsters/../feats#_blind-fight), [Combat Reflexes](additionalMonster_dir/../feats#_combat-reflexes), [Great Fortitude](additionalMonster_dir/../feats#_great-fortitude), [Improved Critical](additionalMonster_dir/../feats#_improved-critical) (bite), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Quicken Spell-Like Ability](additionalMonster_dir/../monster_dir/monsterFeats#_quicken-spell-like-ability) (_ [magic missile](additionalMonsters/../spell_dir/magicMissile#_magic-missile)_), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (bite)
+**Feats** [Blind-Fight](additionalMonsters_dir/../feats#_blind-fight), [Combat Reflexes](additionalMonsters_dir/../feats#_combat-reflexes), [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Quicken Spell-Like Ability](additionalMonsters_dir/../monsters_dir/monsterFeats#_quicken-spell-like-ability) (_ [magic missile](additionalMonsters_dir/../spells_dir/magicMissile#_magic-missile)_), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite)
 
-**Skills** [Bluff](additionalMonster_dir/../skill_dir/bluff#_bluff) +21, [Fly](additionalMonsters/../skill_dir/fly#_fly) +17, [Heal](additionalMonsters/../skill_dir/heal#_heal) +11, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +21, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +22, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (religion) +22, [Perception](additionalMonsters/../skill_dir/perception#_perception) +20, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +20, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft) +22, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +19, [Survival](additionalMonsters/../skill_dir/survival#_survival) +20, [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device) +14
+**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +21, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +17, [Heal](additionalMonsters_dir/../skills_dir/heal#_heal) +11, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +21, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +22, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (religion) +22, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +20, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +20, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +22, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +19, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +20, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +14
 
 **Languages** Abyssal, Draconic, Infernal; telepathy 100 ft.
 
@@ -536,7 +536,7 @@ Special Abilities
 
 **Consumptive Aura (Su)** A meladaemon radiates an aura of hunger to a radius of 20 feet. Every round a creature begins its turn within this aura, it must succeed at a DC 22 Fortitude save or take 1d6 nonlethal damage and become fatigued from extreme hunger. Creatures that do not need to eat are immune to this effect. The save DC is Constitution-based.
 
-**[Disease](monsters/universalMonsterRules#_disease-(ex-or-su)) (Ex)** _Daemonic wasting_: Bite—injury; _save_ Fort DC 22; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d4 Con and 1d4 Cha damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[Disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)) (Ex)** _Daemonic wasting_: Bite—injury; _save_ Fort DC 22; _onset_ 1 day; _frequency_ 1_dir/day; _effect_ 1d4 Con and 1d4 Cha damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 **Hunger (Su)** A meladaemon's claw attack deals an additional 1d6 points of nonlethal damage as it causes sudden pangs of horrific hunger in its foe. Creatures that do not need to eat are immune to this effect.
 
@@ -552,11 +552,11 @@ Crowned with a wicked array of twisted horns, this wide-mouthed, spherical behem
 
 **XP 307,200**
 
-NE Gargantuan [outsider](monster_dir/creatureTypes#_outsider) ( [daemon](monsters/creatureTypes#_daemon-subtype), [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+NE Gargantuan [outsider](monsters_dir/creatureTypes#_outsider) ( [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +12; **Senses** darkvision 60 ft., _ [true seeing](additionalMonster_dir/../spell_dir/trueSeeing#_true-seeing)_; [Perception](additionalMonsters/../skill_dir/perception#_perception) +31
+**Init** +12; **Senses** darkvision 60 ft., _ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +31
 
-**Aura** _ [unholy aura](additionalMonsters/../spell_dir/unholyAura#_unholy-aura)_
+**Aura** _ [unholy aura](additionalMonsters_dir/../spells_dir/unholyAura#_unholy-aura)_
 
 Defense
 
@@ -566,13 +566,13 @@ Defense
 
 **Fort** +29, **Ref** +18, **Will** +26
 
-**DR** 10/good and silver; **Immune** acid, death effects, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 31
+**DR** 10_dir/good and silver; **Immune** acid, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 31
 
 Offense
 
 **Speed** 40 ft., burrow 50 ft.
 
-**Melee** 2 bites +28 (2d8+12/19–20 plus [grab](monster_dir/universalMonsterRules#_grab)), 4 claws +28 (2d6+12 plus [grab](monsters/universalMonsterRules#_grab)), gore +28 (2d8+12)
+**Melee** 2 bites +28 (2d8+12_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab)), 4 claws +28 (2d6+12 plus [grab](monsters_dir/universalMonsterRules#_grab)), gore +28 (2d8+12)
 
 **Space** 20 ft.; **Reach** 20 ft.
 
@@ -580,13 +580,13 @@ Offense
 
 **Spell-Like Abilities** (CL 20th; concentration +27)
 
-Constant—_ [air walk](additionalMonster_dir/../spell_dir/airWalk#_air-walk)_, _ [true seeing](additionalMonsters/../spell_dir/trueSeeing#_true-seeing), [unholy aura](additionalMonsters/../spell_dir/unholyAura#_unholy-aura)_ (DC 25)
+Constant—_ [air walk](additionalMonsters_dir/../spells_dir/airWalk#_air-walk)_, _ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing), [unholy aura](additionalMonsters_dir/../spells_dir/unholyAura#_unholy-aura)_ (DC 25)
 
-At will—_ [greater teleport](additionalMonsters/../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. objects only), _ [telekinesis](additionalMonsters/../spell_dir/telekinesis#_telekinesis)_, _ [wall of fire](additionalMonsters/../spell_dir/wallOfFire#_wall-of-fire), [wall of ice](additionalMonsters/../spell_dir/wallOfIce#_wall-of-ice)_
+At will—_ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. objects only), _ [telekinesis](additionalMonsters_dir/../spells_dir/telekinesis#_telekinesis)_, _ [wall of fire](additionalMonsters_dir/../spells_dir/wallOfFire#_wall-of-fire), [wall of ice](additionalMonsters_dir/../spells_dir/wallOfIce#_wall-of-ice)_
 
-3/day—quickened_ [disintegrate](additionalMonster_dir/../spell_dir/disintegrate#_disintegrate) _(DC 23), _ [wall of force](additionalMonsters/../spell_dir/wallOfForce#_wall-of-force)_
+3_dir/day—quickened_ [disintegrate](additionalMonsters_dir/../spells_dir/disintegrate#_disintegrate) _(DC 23), _ [wall of force](additionalMonsters_dir/../spells_dir/wallOfForce#_wall-of-force)_
 
-1/day—_ [blasphemy](additionalMonster_dir/../spell_dir/blasphemy#_blasphemy)_ (DC 24), summon (level 9 any 1 CR 19 or lower daemon, 100%), _ [wail of the banshee](additionalMonsters/../spell_dir/wailOfTheBanshee#_wail-of-the-banshee)_ (DC 26)
+1_dir/day—_ [blasphemy](additionalMonsters_dir/../spells_dir/blasphemy#_blasphemy)_ (DC 24), summon (level 9 any 1 CR 19 or lower daemon, 100%), _ [wail of the banshee](additionalMonsters_dir/../spells_dir/wailOfTheBanshee#_wail-of-the-banshee)_ (DC 26)
 
 Statistics
 
@@ -594,9 +594,9 @@ Statistics
 
 **Base Atk** +20; **CMB** +36 (+40 grapple); **CMD** 54 (58 vs. trip)
 
-**Feats** [Awesome Blow](additionalMonsters/../monster_dir/monsterFeats#_awesome-blow), [Cleave](additionalMonsters/../feats#_cleave), [Great Cleave](additionalMonster_dir/../feats#_great-cleave), [Improved Bull Rush](additionalMonster_dir/../feats#_improved-bull-rush), [Improved Critical](additionalMonster_dir/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Improved Sunder](additionalMonster_dir/../feats#_improved-sunder), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Quicken Spell-Like Ability](additionalMonster_dir/../monster_dir/monsterFeats#_quicken-spell-like-ability) (_ [disintegrate](additionalMonsters/../spell_dir/disintegrate#_disintegrate)_)
+**Feats** [Awesome Blow](additionalMonsters_dir/../monsters_dir/monsterFeats#_awesome-blow), [Cleave](additionalMonsters_dir/../feats#_cleave), [Great Cleave](additionalMonsters_dir/../feats#_great-cleave), [Improved Bull Rush](additionalMonsters_dir/../feats#_improved-bull-rush), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Improved Sunder](additionalMonsters_dir/../feats#_improved-sunder), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Quicken Spell-Like Ability](additionalMonsters_dir/../monsters_dir/monsterFeats#_quicken-spell-like-ability) (_ [disintegrate](additionalMonsters_dir/../spells_dir/disintegrate#_disintegrate)_)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb) +35, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +30, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +24, [Perception](additionalMonsters/../skill_dir/perception#_perception) +31, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +31, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +19, [Survival](additionalMonsters/../skill_dir/survival#_survival) +31
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +35, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +30, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +24, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +31, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +31, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +19, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +31
 
 **Languages** Abyssal, Infernal; telepathy 100 ft.
 
@@ -614,11 +614,11 @@ Special Abilities
 
 **Adamantine Claws (Ex)** Able to tear through stone, an olethrodaemon's claws are treated as though they were adamantine. This ability also allows an olethrodaemon to make use of its burrow speed through stone.
 
-**Drain Soul (Su)** A creature grappled by an olethrodaemon's [grab](monsters/universalMonsterRules#_grab) attack from its claws can be transferred to its mouth as a move action requiring no combat maneuver check. As a standard action, an olethrodaemon that begins its turn with an opponent grappled in either of its mouths can swallow the opponent by succeeding on another grapple check. If successful, the creature is swallowed into one of the olethrodaemon's many stomachs. These stomachs grind their contents and drain the life force from living creatures. Every round a creature remains in an olethrodaemon's stomach, it takes 4d8+18 points of damage and gains 1d4 negative levels. The creature can attempt to cut its way out of the olethrodaemon's stomach, but it suffers the chance of just cutting into another stomach chamber. An olethrodaemon's stomach is AC 20 and has 40 hit points. Once a creature deals enough damage to allow escape, it has a 50% chance to end up in another stomach chamber instead of escaping. Due to the multiple stomach chambers, an olethrodaemon can house and drain up to four medium creatures at one time. This ability otherwise functions as the swallow whole special attack. It is a DC 33 Fortitude save to remove negative levels gained in this fashion. This save is Constitution-based.
+**Drain Soul (Su)** A creature grappled by an olethrodaemon's [grab](monsters_dir/universalMonsterRules#_grab) attack from its claws can be transferred to its mouth as a move action requiring no combat maneuver check. As a standard action, an olethrodaemon that begins its turn with an opponent grappled in either of its mouths can swallow the opponent by succeeding on another grapple check. If successful, the creature is swallowed into one of the olethrodaemon's many stomachs. These stomachs grind their contents and drain the life force from living creatures. Every round a creature remains in an olethrodaemon's stomach, it takes 4d8+18 points of damage and gains 1d4 negative levels. The creature can attempt to cut its way out of the olethrodaemon's stomach, but it suffers the chance of just cutting into another stomach chamber. An olethrodaemon's stomach is AC 20 and has 40 hit points. Once a creature deals enough damage to allow escape, it has a 50% chance to end up in another stomach chamber instead of escaping. Due to the multiple stomach chambers, an olethrodaemon can house and drain up to four medium creatures at one time. This ability otherwise functions as the swallow whole special attack. It is a DC 33 Fortitude save to remove negative levels gained in this fashion. This save is Constitution-based.
 
-**Soul-Drained Breath (Su)** An olethrodaemon can convert life energy it has consumed into a potent [breath weapon](monster_dir/universalMonsterRules#_breath-weapon). Up to three times per day, but no more often than once every 1d4 rounds, an olethrodaemon can expel a 120-foot line or a 60-foot cone of shrieking black smoke and wind from one of its mouths as a standard action. Any living creature in the area of this attack takes 20d10 points of damage from negative energy, or half on a successful DC 27 Reflex save. [Undead](monsters/creatureTypes#_undead) creatures caught in this negative energy are healed for the same amount instead of damaged. The save DC for this effect is Charisma-based.
+**Soul-Drained Breath (Su)** An olethrodaemon can convert life energy it has consumed into a potent [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon). Up to three times per day, but no more often than once every 1d4 rounds, an olethrodaemon can expel a 120-foot line or a 60-foot cone of shrieking black smoke and wind from one of its mouths as a standard action. Any living creature in the area of this attack takes 20d10 points of damage from negative energy, or half on a successful DC 27 Reflex save. [Undead](monsters_dir/creatureTypes#_undead) creatures caught in this negative energy are healed for the same amount instead of damaged. The save DC for this effect is Charisma-based.
 
-While some of the more powerful daemons are servitors to one of the Four Horsemen, olethrodaemons serve as juggernauts for all of the Four. These massive creatures are the embodiment of death and destruction­—the very vessels of apocalypse that daemons wish to see wrought upon the multiverse. These nihilistic behemoths roam the gray expanses of Abaddon, feasting on the souls of evil mortals damned to their realm. When on the Material Plane, olethrodaemons act as agents of destruction, spreading ruin and devouring mortal souls as they plow through cities and countrysides, bent on devastation. It's rare for a mortal to be able to control such a potent force, but sometimes mad spellcasters utilize effects like _ [gate](additionalMonster_dir/../spell_dir/gate#_gate)_ to urge an olethrodaemon to visit a devastating holocaust upon an enemy region—the olethrodaemon generally does not hold a grudge against a mortal that asks such a service from it.
+While some of the more powerful daemons are servitors to one of the Four Horsemen, olethrodaemons serve as juggernauts for all of the Four. These massive creatures are the embodiment of death and destruction­—the very vessels of apocalypse that daemons wish to see wrought upon the multiverse. These nihilistic behemoths roam the gray expanses of Abaddon, feasting on the souls of evil mortals damned to their realm. When on the Material Plane, olethrodaemons act as agents of destruction, spreading ruin and devouring mortal souls as they plow through cities and countrysides, bent on devastation. It's rare for a mortal to be able to control such a potent force, but sometimes mad spellcasters utilize effects like _ [gate](additionalMonsters_dir/../spells_dir/gate#_gate)_ to urge an olethrodaemon to visit a devastating holocaust upon an enemy region—the olethrodaemon generally does not hold a grudge against a mortal that asks such a service from it.
 
 These immense creatures stand over 25 feet tall and weigh close to 12,000 pounds, their powerful, muscular bodies covered by durable plates and head thronged with dangerous, twisted horns. Olethrodaemons stand on four stout legs, and possess an equal number of arms, each ending in wickedly sharp claws able to tear through stone as easily as flesh. The creature's eyes, as well as its two mouths, glow like coals in a kiln. The creature feeds on souls and has multiple stomachs to digest mortal essences.
 
@@ -630,7 +630,7 @@ Just as powerful balors become lords and pit fiends clamor for positions as infe
 
 Some planar scholars postulate that olethrodaemons are actually the creations of the Four Horsemen, and that the Four worked foul rites upon a fifth Horseman, with these interactions spawning olethrodaemons to serve their will and spread oblivion throughout the multiverse. The abilities of these chosen spawn warp to the tendencies of their daemonic lords.
 
-Olethrodaemons serving the Horseman of Pestilence can infect their victims with a powerful disease by means of all their natural attacks. Creatures who succumb to this attack are affected as if by a maximized _ [contagion](additionalMonsters/../spell_dir/contagion#_contagion)_ spell, heightened to 9th level.
+Olethrodaemons serving the Horseman of Pestilence can infect their victims with a powerful disease by means of all their natural attacks. Creatures who succumb to this attack are affected as if by a maximized _ [contagion](additionalMonsters_dir/../spells_dir/contagion#_contagion)_ spell, heightened to 9th level.
 
 Olethrodaemons serving the Horseman of War can imbue their natural attacks with additional properties. As a free action, an olethrodaemon can apply any special weapon property equivalent to a +2 enhancement to its bite, claw, gore, or trample attacks for 1 round—most of these olethrodaemon paragons elect to grant their natural weapons the unholy enhancement.
 
@@ -646,9 +646,9 @@ This hideous cross between a lobster, an octopus, and a human threatens enemies 
 
 XP 9,600
 
-NE Medium [outsider](monsters/creatureTypes#_outsider) ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype), [daemon](monsters/creatureTypes#_daemon-subtype), [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+NE Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype), [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +8; **Senses** darkvision 60 ft., _ [detect good](additionalMonster_dir/../spell_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters/../spell_dir/seeInvisibility#_see-invisibility)_; [Perception](additionalMonsters/../skill_dir/perception#_perception) +16
+**Init** +8; **Senses** darkvision 60 ft., _ [detect good](additionalMonsters_dir/../spells_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +16
 
 Defense
 
@@ -658,25 +658,25 @@ Defense
 
 **Fort** +14, **Ref** +7, **Will** +9
 
-**DR** 10/good; **Immune** acid, death effects, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 21
+**DR** 10_dir/good; **Immune** acid, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 21
 
 Offense
 
 **Speed** 30 ft., swim 50 ft.
 
-**Melee** 2 claws +18 (2d6+7/18-20/×3 plus [grab](monster_dir/universalMonsterRules#_grab) and 1d6 [bleed](monsters/universalMonsterRules#_bleed)), tentacles +16 (1d10+3 plus [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** 2 claws +18 (2d6+7_dir/18-20_dir/×3 plus [grab](monsters_dir/universalMonsterRules#_grab) and 1d6 [bleed](monsters_dir/universalMonsterRules#_bleed)), tentacles +16 (1d10+3 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
-**Special Attacks** [constrict](monsters/universalMonsterRules#_constrict) (2d6+10)
+**Special Attacks** [constrict](monsters_dir/universalMonsterRules#_constrict) (2d6+10)
 
 **Spell-Like Abilities** (CL 11th; concentration +14)
 
-Constant—_ [detect good](additionalMonster_dir/../spell_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters/../spell_dir/seeInvisibility#_see-invisibility)_
+Constant—_ [detect good](additionalMonsters_dir/../spells_dir/detectGood#_detect-good)_, _ [detect magic](additionalMonsters_dir/../spells_dir/detectMagic#_detect-magic)_, _ [see invisibility](additionalMonsters_dir/../spells_dir/seeInvisibility#_see-invisibility)_
 
-At will—_ [dispel magic](additionalMonsters/../spell_dir/dispelMagic#_dispel-magic)_, _ [greater teleport](additionalMonsters/../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
+At will—_ [dispel magic](additionalMonsters_dir/../spells_dir/dispelMagic#_dispel-magic)_, _ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
 
-3/day—_ [fly](additionalMonster_dir/../spell_dir/fly)_, _ [stinking cloud](additionalMonsters/../spell_dir/stinkingCloud#_stinking-cloud)_ (DC 16)
+3_dir/day—_ [fly](additionalMonsters_dir/../spells_dir/fly)_, _ [stinking cloud](additionalMonsters_dir/../spells_dir/stinkingCloud#_stinking-cloud)_ (DC 16)
 
-1/day—summon (level 4, 1d3 hydrodaemons 35%)
+1_dir/day—summon (level 4, 1d3 hydrodaemons 35%)
 
 Statistics
 
@@ -684,13 +684,13 @@ Statistics
 
 **Base Atk** +11; **CMB** +18 (+22 grapple); **CMD** 32
 
-**Feats** [Critical Focus](additionalMonster_dir/../feats#_critical-focus), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Multiattack](additionalMonster_dir/../monster_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters/../feats#_power-attack), [Sickening Critical](additionalMonster_dir/../feats#_sickening-critical), [Vital Strike](additionalMonster_dir/../feats#_vital-strike)
+**Feats** [Critical Focus](additionalMonsters_dir/../feats#_critical-focus), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Sickening Critical](additionalMonsters_dir/../feats#_sickening-critical), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike)
 
-**Skills** [Escape Artist](additionalMonster_dir/../skill_dir/escapeArtist#_escape-artist) +18, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +17, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +16, [Perception](additionalMonsters/../skill_dir/perception#_perception) +16, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +16, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +18, [Survival](additionalMonsters/../skill_dir/survival#_survival) +16, [Swim](additionalMonsters/../skill_dir/swim#_swim) +29
+**Skills** [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +18, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +17, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +16, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +16, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +16, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +18, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +16, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +29
 
 **Languages** Abyssal, Draconic, Infernal; telepathy 100 ft.
 
-**SQ** amphibious, [augmented](monsters/creatureTypes#_augmented-subtype) critical
+**SQ** amphibious, [augmented](monsters_dir/creatureTypes#_augmented-subtype) critical
 
 Ecology
 
@@ -702,9 +702,9 @@ Ecology
 
 Special Abilities
 
-**[Augmented](monster_dir/creatureTypes#_augmented-subtype) Critical (Ex)** A piscodaemon's claws threaten a critical hit on an 18–20 and inflict ×3 damage on a successful critical hit.
+**[Augmented](monsters_dir/creatureTypes#_augmented-subtype) Critical (Ex)** A piscodaemon's claws threaten a critical hit on an 18–20 and inflict ×3 damage on a successful critical hit.
 
-**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Tentacles—injury; _save_ Fort DC 22; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con plus staggered for 1 round; _cure_ 2 consecutive saves.
+**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Tentacles—injury; _save_ Fort DC 22; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d2 Con plus staggered for 1 round; _cure_ 2 consecutive saves.
 
 These aquatic daemons roam the lower planes sowing misery and blight. They delight in drawn-out deaths, poisoning creatures or dismembering victims to watch them slowly bleed out. On their home plane of Abaddon, piscodaemons gravitate toward the same aquatic regions inhabited by hydrodaemons, and often the stronger among their ranks end up leading armies of hydrodaemons against their enemies. These creatures serve as sergeants in the hierarchy of Abaddon, and run their units with an excess of cruelty and violence.
 
@@ -720,11 +720,11 @@ Dozens of weapons pierce this massive monster's body. Red eyes glow with wickedn
 
 XP 153,600
 
-NE Large [outsider](monster_dir/creatureTypes#_outsider) ( [daemon](monsters/creatureTypes#_daemon-subtype), [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+NE Large [outsider](monsters_dir/creatureTypes#_outsider) ( [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +10; **Senses** darkvision 60 ft., _ [true seeing](additionalMonster_dir/../spell_dir/trueSeeing#_true-seeing)_; [Perception](additionalMonsters/../skill_dir/perception#_perception) +26
+**Init** +10; **Senses** darkvision 60 ft., _ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +26
 
-**Aura** [fear](monsters/universalMonsterRules#_fear-(su-or-sp)) (15 ft., DC 24), _ [unholy aura](additionalMonster_dir/../spell_dir/unholyAura#_unholy-aura)_
+**Aura** [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) (15 ft., DC 24), _ [unholy aura](additionalMonsters_dir/../spells_dir/unholyAura#_unholy-aura)_
 
 Defense
 
@@ -734,13 +734,13 @@ Defense
 
 **Fort** +25, **Ref** +21, **Will** +14
 
-**DR** 10/good and silver; **Immune** acid, death effects, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 29
+**DR** 10_dir/good and silver; **Immune** acid, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 29
 
 Offense
 
 **Speed** 30 ft., fly 60 ft. (good)
 
-**Melee** _+2 [wounding](additionalMonster_dir/../magicItem_dir/weapons#_wounding) halberd_ 2d8+18/19-20/x3, bite +24 (1d8+5)
+**Melee** _+2 [wounding](additionalMonsters_dir/../magicItems_dir/weapons#_wounding) halberd_ 2d8+18_dir/19-20_dir/x3, bite +24 (1d8+5)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -748,13 +748,13 @@ Offense
 
 **Spell-Like Abilities** (CL 18th; concentration +23)
 
-Constant—_ [true seeing](additionalMonster_dir/../spell_dir/trueSeeing#_true-seeing), [unholy aura](additionalMonsters/../spell_dir/unholyAura#_unholy-aura)_ (DC 23)
+Constant—_ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing), [unholy aura](additionalMonsters_dir/../spells_dir/unholyAura#_unholy-aura)_ (DC 23)
 
-At will—_ [greater teleport](additionalMonsters/../spell_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
+At will—_ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus 50 lbs. of objects only)
 
-3/day—_ [chain lightning](additionalMonster_dir/../spell_dir/chainLightning#_chain-lightning)_ (DC 21), _ [cone of cold](additionalMonsters/../spell_dir/coneOfCold#_cone-of-cold)_ (DC 20), _ [flame strike](additionalMonsters/../spell_dir/flameStrike#_flame-strike)_ (DC 20)
+3_dir/day—_ [chain lightning](additionalMonsters_dir/../spells_dir/chainLightning#_chain-lightning)_ (DC 21), _ [cone of cold](additionalMonsters_dir/../spells_dir/coneOfCold#_cone-of-cold)_ (DC 20), _ [flame strike](additionalMonsters_dir/../spells_dir/flameStrike#_flame-strike)_ (DC 20)
 
-1/day—summon (level 5, 2 derghodaemons 50%)
+1_dir/day—summon (level 5, 2 derghodaemons 50%)
 
 Statistics
 
@@ -762,9 +762,9 @@ Statistics
 
 **Base Atk** +19; **CMB** +31; **CMD** 51
 
-**Feats** [Combat Expertise](additionalMonster_dir/../feats#_combat-expertise), [Combat Reflexes](additionalMonster_dir/../feats#_combat-reflexes), [Greater Vital Strike](additionalMonster_dir/../feats#_greater-vital-strike), [Improved Critical](additionalMonster_dir/../feats#_improved-critical)B (halberd), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Improved Sunder](additionalMonster_dir/../feats#_improved-sunder), [Improved Vital Strike](additionalMonster_dir/../feats#_improved-vital-strike), [Lunge](additionalMonster_dir/../feats#_lunge), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Quick Draw](additionalMonster_dir/../feats#_quick-draw), [Vital Strike](additionalMonster_dir/../feats#_vital-strike), [Weapon Focus](additionalMonster_dir/../feats#_weapon-focus)B (halberd)
+**Feats** [Combat Expertise](additionalMonsters_dir/../feats#_combat-expertise), [Combat Reflexes](additionalMonsters_dir/../feats#_combat-reflexes), [Greater Vital Strike](additionalMonsters_dir/../feats#_greater-vital-strike), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical)B (halberd), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Improved Sunder](additionalMonsters_dir/../feats#_improved-sunder), [Improved Vital Strike](additionalMonsters_dir/../feats#_improved-vital-strike), [Lunge](additionalMonsters_dir/../feats#_lunge), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Quick Draw](additionalMonsters_dir/../feats#_quick-draw), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus)B (halberd)
 
-**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +28, [Bluff](additionalMonsters/../skill_dir/bluff#_bluff) +21, [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy) +17, [Fly](additionalMonsters/../skill_dir/fly#_fly) +16, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +27, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +25, [Perception](additionalMonsters/../skill_dir/perception#_perception) +26, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +26, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft) +23, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +24, [Survival](additionalMonsters/../skill_dir/survival#_survival) +17
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +28, [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +21, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +17, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +16, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +27, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +25, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +26, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +26, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +23, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +24, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +17
 
 **Languages** Abyssal, Draconic, Infernal; telepathy 100 ft.
 
@@ -778,7 +778,7 @@ Ecology
 
 Special Abilities
 
-**Weapon Steep (Su)** A purrodaemon can sheathe a weapon in its flesh as a swift action. This does no damage to the [daemon](monsters/creatureTypes#_daemon-subtype). If a weapon remains sheathed in its body for at least 24 hours, the weapon absorbs some of its essence and gains magical enhancements. A purrodaemon can have up to a dozen weapons lodged in its body at a time, but only one can possess magical enhancements at a time. The total enhancements cannot exceed a +4 effective enhancement—most purrodaemons opt to create _+2 [wounding](additionalMonster_dir/../magicItem_dir/weapons#_wounding)_ weapons in this manner. A weapon's enhancements vanish as soon as the purrodaemon dies or releases the weapon. A purrodaemon gains [Weapon Focus](additionalMonsters/../feats#_weapon-focus) and [Improved Critical](additionalMonster_dir/../feats#_improved-critical) as bonus feats as long as it wields a weapon benefiting from its weapon steep ability.
+**Weapon Steep (Su)** A purrodaemon can sheathe a weapon in its flesh as a swift action. This does no damage to the [daemon](monsters_dir/creatureTypes#_daemon-subtype). If a weapon remains sheathed in its body for at least 24 hours, the weapon absorbs some of its essence and gains magical enhancements. A purrodaemon can have up to a dozen weapons lodged in its body at a time, but only one can possess magical enhancements at a time. The total enhancements cannot exceed a +4 effective enhancement—most purrodaemons opt to create _+2 [wounding](additionalMonsters_dir/../magicItems_dir/weapons#_wounding)_ weapons in this manner. A weapon's enhancements vanish as soon as the purrodaemon dies or releases the weapon. A purrodaemon gains [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) and [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) as bonus feats as long as it wields a weapon benefiting from its weapon steep ability.
 
 Deacons of War, purrodaemons ravage the planes as generals of massive battles. They employ creative tactics and never launch an assault without carefully looking over the plans or surveying the battlefield themselves. A purrodaemon is 12 feet tall and weighs 1,300 pounds.
 
@@ -790,9 +790,9 @@ Rattling with each stride, this looming, horned, skeletal figure clutches a wick
 
 **XP 25,600**
 
-NE Medium [outsider](monster_dir/creatureTypes#_outsider) ( [daemon](monsters/creatureTypes#_daemon-subtype), [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+NE Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [daemon](monsters_dir/creatureTypes#_daemon-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., _ [true seeing](additionalMonster_dir/../spell_dir/trueSeeing#_true-seeing)_; [Perception](additionalMonsters/../skill_dir/perception#_perception) +25
+**Init** +7; **Senses** darkvision 60 ft., _ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +25
 
 Defense
 
@@ -802,27 +802,27 @@ Defense
 
 **Fort** +11, **Ref** +12, **Will** +14
 
-**DR** 10/good; **Immune** acid, death effects, [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 24
+**DR** 10_dir/good; **Immune** acid, death effects, [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 24
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** _+2 quarterstaff_ +22/+17/+12 (1d6+9 plus energy drain) or
+**Melee** _+2 quarterstaff_ +22_dir/+17_dir/+12 (1d6+9 plus energy drain) or
 
 2 claws +20 (1d4+5 plus energy drain)
 
-**Special Attacks** draining weapon, energy drain (1 level, DC 21), [fear](monster_dir/universalMonsterRules#_fear-(su-or-sp)) [gaze](monsters/universalMonsterRules#_gaze), soul crush
+**Special Attacks** draining weapon, energy drain (1 level, DC 21), [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) [gaze](monsters_dir/universalMonsterRules#_gaze), soul crush
 
 **Spell-Like Abilities** (CL 15th; concentration +19)
 
-Constant—_ [air walk](additionalMonster_dir/../spell_dir/airWalk#_air-walk)_, _ [true seeing](additionalMonsters/../spell_dir/trueSeeing#_true-seeing)_
+Constant—_ [air walk](additionalMonsters_dir/../spells_dir/airWalk#_air-walk)_, _ [true seeing](additionalMonsters_dir/../spells_dir/trueSeeing#_true-seeing)_
 
-At will—_ [greater teleport](additionalMonsters/../spell_dir/teleport#_teleport-greater)_ (self plus skiff and passengers only), _ [plane shift](additionalMonsters/../spell_dir/planeShift#_plane-shift)_ (self plus skiff and passengers only, Astral, Ethereal, and evil-aligned planes only)
+At will—_ [greater teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport-greater)_ (self plus skiff and passengers only), _ [plane shift](additionalMonsters_dir/../spells_dir/planeShift#_plane-shift)_ (self plus skiff and passengers only, Astral, Ethereal, and evil-aligned planes only)
 
-3/day—_ [animate dead](additionalMonster_dir/../spell_dir/animateDead#_animate-dead)_, _ [desecrate](additionalMonsters/../spell_dir/desecrate#_desecrate)_, _ [enervation](additionalMonsters/../spell_dir/enervation#_enervation)_
+3_dir/day—_ [animate dead](additionalMonsters_dir/../spells_dir/animateDead#_animate-dead)_, _ [desecrate](additionalMonsters_dir/../spells_dir/desecrate#_desecrate)_, _ [enervation](additionalMonsters_dir/../spells_dir/enervation#_enervation)_
 
-1/day—summon (level 4, 1d4 hydrodaemons 80% or 1 thanadaemon 35%)
+1_dir/day—summon (level 4, 1d4 hydrodaemons 80% or 1 thanadaemon 35%)
 
 Statistics
 
@@ -830,9 +830,9 @@ Statistics
 
 **Base Atk** +15; **CMB** +20; **CMD** 34
 
-**Feats** [Alertness](additionalMonster_dir/../feats#_alertness), [Blind-Fight](additionalMonster_dir/../feats#_blind-fight), [Dodge](additionalMonster_dir/../feats#_dodge), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Lunge](additionalMonster_dir/../feats#_lunge), [Mobility](additionalMonster_dir/../feats#_mobility), [Power Attack](additionalMonster_dir/../feats#_power-attack)
+**Feats** [Alertness](additionalMonsters_dir/../feats#_alertness), [Blind-Fight](additionalMonsters_dir/../feats#_blind-fight), [Dodge](additionalMonsters_dir/../feats#_dodge), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Lunge](additionalMonsters_dir/../feats#_lunge), [Mobility](additionalMonsters_dir/../feats#_mobility), [Power Attack](additionalMonsters_dir/../feats#_power-attack)
 
-**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +21, [Bluff](additionalMonsters/../skill_dir/bluff#_bluff) +22, [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy) +22, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate) +22, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +21, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (religion) +21, [Perception](additionalMonsters/../skill_dir/perception#_perception) +25, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +25, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +14, [Survival](additionalMonsters/../skill_dir/survival#_survival) +10
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +21, [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +22, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +22, [Intimidate](additionalMonsters_dir/../skills_dir/intimidate#_intimidate) +22, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +21, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (religion) +21, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +25, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +25, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +14, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +10
 
 **Languages** Abyssal, Draconic, Infernal; telepathy 100 ft.
 
@@ -848,7 +848,7 @@ Special Abilities
 
 **Draining Weapon (Su)** A thanadaemon's energy drain attack functions through any melee weapon it wields.
 
-**[Fear](monsters/universalMonsterRules#_fear-(su-or-sp)) [Gaze](monster_dir/universalMonsterRules#_gaze) (Su)** Cower in [fear](monsters/universalMonsterRules#_fear-(su-or-sp)) for 1d6 rounds, 30 feet, Will DC 21 negates. This is a mind-affecting [fear](monster_dir/universalMonsterRules#_fear-(su-or-sp)) effect. The save DC is Charisma-based.
+**[Fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) [Gaze](monsters_dir/universalMonsterRules#_gaze) (Su)** Cower in [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) for 1d6 rounds, 30 feet, Will DC 21 negates. This is a mind-affecting [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) effect. The save DC is Charisma-based.
 
 **Soul Crush (Su)** A thanadaemon can crush a soul gem (see cacodaemon) as a standard action to gain fast healing 15 for 15 rounds (this is a standard action). This action condemns the crushed soul to Abaddon—resurrecting this victim requires a DC 28 caster level check.
 

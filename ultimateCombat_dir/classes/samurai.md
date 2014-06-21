@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/classes/samurai
+title: ultimateCombat_dir/classes_dir/samurai
 ---
 # Samurai
 
@@ -26,28 +26,28 @@ The following table lists the starting gold piece value for the new classes pres
 [Table: Samurai]
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
 | --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +0 | +0 | Challenge 1/day, mount, order, resolve |
+| 1st | +1 | +2 | +0 | +0 | Challenge 1_dir/day, mount, order, resolve |
 | 2nd | +2 | +3 | +0 | +0 | Order ability |
 | 3rd | +3 | +3 | +1 | +1 | Weapon expertise |
-| 4th | +4 | +4 | +1 | +1 | Challenge 2/day, mounted archer |
+| 4th | +4 | +4 | +1 | +1 | Challenge 2_dir/day, mounted archer |
 | 5th | +5 | +4 | +1 | +1 | Banner |
-| 6th | +6/+1 | +5 | +2 | +2 | Bonus feat |
-| 7th | +7/+2 | +5 | +2 | +2 | Challenge 3/day |
-| 8th | +8/+3 | +6 | +2 | +2 | Order ability |
-| 9th | +9/+4 | +6 | +3 | +3 | Greater resolve |
-| 10th | +10/+5 | +7 | +3 | +3 | Challenge 4/day |
-| 11th | +11/+6/+1 | +7 | +3 | +3 | Honorable stand |
-| 12th | +12/+7/+2 | +8 | +4 | +4 | Bonus feat, demanding challenge |
-| 13th | +13/+8/+3 | +8 | +4 | +4 | Challenge 5/day |
-| 14th | +14/+9/+4 | +9 | +4 | +4 | Greater banner |
-| 15th | +15/+10/+5 | +9 | +5 | +5 | Order ability |
-| 16th | +16/+11/+6/+1 | +10 | +5 | +5 | Challenge 6/day |
-| 17th | +17/+12/+7/+2 | +10 | +5 | +5 | True resolve |
-| 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Bonus feat |
-| 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Challenge 7/day |
-| 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Last stand |
+| 6th | +6_dir/+1 | +5 | +2 | +2 | Bonus feat |
+| 7th | +7_dir/+2 | +5 | +2 | +2 | Challenge 3_dir/day |
+| 8th | +8_dir/+3 | +6 | +2 | +2 | Order ability |
+| 9th | +9_dir/+4 | +6 | +3 | +3 | Greater resolve |
+| 10th | +10_dir/+5 | +7 | +3 | +3 | Challenge 4_dir/day |
+| 11th | +11_dir/+6_dir/+1 | +7 | +3 | +3 | Honorable stand |
+| 12th | +12_dir/+7_dir/+2 | +8 | +4 | +4 | Bonus feat, demanding challenge |
+| 13th | +13_dir/+8_dir/+3 | +8 | +4 | +4 | Challenge 5_dir/day |
+| 14th | +14_dir/+9_dir/+4 | +9 | +4 | +4 | Greater banner |
+| 15th | +15_dir/+10_dir/+5 | +9 | +5 | +5 | Order ability |
+| 16th | +16_dir/+11_dir/+6_dir/+1 | +10 | +5 | +5 | Challenge 6_dir/day |
+| 17th | +17_dir/+12_dir/+7_dir/+2 | +10 | +5 | +5 | True resolve |
+| 18th | +18_dir/+13_dir/+8_dir/+3 | +11 | +6 | +6 | Bonus feat |
+| 19th | +19_dir/+14_dir/+9_dir/+4 | +11 | +6 | +6 | Challenge 7_dir/day |
+| 20th | +20_dir/+15_dir/+10_dir/+5 | +12 | +6 | +6 | Last stand |
 
-The samurai's class skills are [Bluff](skill_dir/bluff#_bluff) (Cha), [Climb](skills/climb#_climb) (Str), [Craft](skill_dir/craft#_craft) (Int), [Diplomacy](skills/diplomacy#_diplomacy) (Cha), [Handle Animal](skill_dir/handleAnimal#_handle-animal) (Cha), [Intimidate](skills/intimidate#_intimidate) (Cha), [Profession](skill_dir/profession#_profession) (Wis), [Ride](skills/ride#_ride) (Dex), [Sense Motive](skill_dir/senseMotive#_sense-motive) (Wis), and [Swim](skills/swim#_swim) (Str).
+The samurai's class skills are [Bluff](skills_dir/bluff#_bluff) (Cha), [Climb](skills_dir/climb#_climb) (Str), [Craft](skills_dir/craft#_craft) (Int), [Diplomacy](skills_dir/diplomacy#_diplomacy) (Cha), [Handle Animal](skills_dir/handleAnimal#_handle-animal) (Cha), [Intimidate](skills_dir/intimidate#_intimidate) (Cha), [Profession](skills_dir/profession#_profession) (Wis), [Ride](skills_dir/ride#_ride) (Dex), [Sense Motive](skills_dir/senseMotive#_sense-motive) (Wis), and [Swim](skills_dir/swim#_swim) (Str).
 
 **Skill Ranks per Level** : 4 + Int modifier.
 
@@ -65,7 +65,7 @@ The challenge remains in effect until the target is dead or unconscious, or unti
 
 **Mount (Ex)** : A samurai gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid's animal companion, using the samurai's level as his effective druid level. The creature must be one that he is capable of riding and that is suitable as a mount. A Medium samurai can select a camel or a horse. A Small samurai can select a pony or a wolf, but can also select a boar or a dog if he is at least 4th level. The GM may approve other animals as suitable mounts.
 
-A samurai does not take an armor check penalty on [Ride](skill_dir/ride#_ride) checks while riding his mount. The mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat. A samurai's mount does not gain the share spells special ability.
+A samurai does not take an armor check penalty on [Ride](skills_dir/ride#_ride) checks while riding his mount. The mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat. A samurai's mount does not gain the share spells special ability.
 
 A samurai's bond with his mount is strong, with the pair learning to anticipate each other's moods and moves. Should a samurai's mount die, the samurai may find another mount to serve him after 1 week of mourning. The new mount does not gain the link, evasion, devotion, or improved evasion special abilities until the next time the samurai gains a level.
 
@@ -125,12 +125,12 @@ Most samurai swear themselves to the code of the warrior, which emphasizes duty,
   
   
 
-**Challenge** : Whenever an order of the warrior samurai declares a challenge, he receives damage reduction 1/— against attacks made by the target of his challenge. This DR increases by +1 for every four levels the samurai possesses.
+**Challenge** : Whenever an order of the warrior samurai declares a challenge, he receives damage reduction 1_dir/— against attacks made by the target of his challenge. This DR increases by +1 for every four levels the samurai possesses.
 
   
   
 
-**Skills** : An order of the warrior samurai adds [Knowledge](skill_dir/knowledge#_knowledge) (history) (Int) and [Knowledge](skills/knowledge#_knowledge) (nobility) (Int) to his list of class skills. An order of the warrior samurai can make [Knowledge](skill_dir/knowledge#_knowledge) (nobility) checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his samurai level (minimum +1) as long as the check involves the nobles or politics of his land.
+**Skills** : An order of the warrior samurai adds [Knowledge](skills_dir/knowledge#_knowledge) (history) (Int) and [Knowledge](skills_dir/knowledge#_knowledge) (nobility) (Int) to his list of class skills. An order of the warrior samurai can make [Knowledge](skills_dir/knowledge#_knowledge) (nobility) checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1_dir/2 his samurai level (minimum +1) as long as the check involves the nobles or politics of his land.
 
   
   
@@ -162,7 +162,7 @@ While most samurai belong to the order of the warrior, dedicating their consider
   
   
 
-**Skills** : A ronin adds [Knowledge](skill_dir/knowledge#_knowledge) (local) (Int) and [Survival](skills/survival#_survival) (Wis) to his list of class skills.
+**Skills** : A ronin adds [Knowledge](skills_dir/knowledge#_knowledge) (local) (Int) and [Survival](skills_dir/survival#_survival) (Wis) to his list of class skills.
 
   
   

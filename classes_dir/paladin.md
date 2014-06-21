@@ -1,6 +1,6 @@
 ---
 layout: default
-title: classe_dir/paladin
+title: classes_dir/paladin
 ---
 # Paladin
 
@@ -14,7 +14,7 @@ Through a select, worthy few shines the power of the divine. Called paladins, th
 
 ## Class Skills
 
-The paladin's class skills are [Craft](../skill_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Diplomacy](../skill_dir/diplomacy#_diplomacy) ( [Cha](../gettingStarted#_charisma-new)), [Handle Animal](../skill_dir/handleAnimal#_handle-animal) ( [Cha](../gettingStarted#_charisma-new)), Heal ( [Wis](../gettingStarted#_wisdom)), [Knowledge](../skill_dir/knowledge#_knowledge) (nobility) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skill_dir/knowledge#_knowledge) (religion) ( [Int](../gettingStarted#_intelligence)), [Profession](../skill_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skill_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Sense Motive](../skill_dir/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)), and [Spellcraft](../skill_dir/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)).
+The paladin's class skills are [Craft](../skills_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Diplomacy](../skills_dir/diplomacy#_diplomacy) ( [Cha](../gettingStarted#_charisma-new)), [Handle Animal](../skills_dir/handleAnimal#_handle-animal) ( [Cha](../gettingStarted#_charisma-new)), Heal ( [Wis](../gettingStarted#_wisdom)), [Knowledge](../skills_dir/knowledge#_knowledge) (nobility) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills_dir/knowledge#_knowledge) (religion) ( [Int](../gettingStarted#_intelligence)), [Profession](../skills_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skills_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Sense Motive](../skills_dir/senseMotive#_sense-motive) ( [Wis](../gettingStarted#_wisdom)), and [Spellcraft](../skills_dir/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)).
 
 **Skill Ranks per Level** : 2 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -23,26 +23,26 @@ The paladin's class skills are [Craft](../skill_dir/craft#_craft) ( [Int](../get
 | --- | --- | --- | --- | --- | --- | --- |
 | 1st | 2nd | 3rd | 4th |
 | --- | --- | --- | --- |
-| 1st | +1 | +2 | +0 | +2 | Aura of good_, _detect evil, smite evil 1/day | — | — | — | — |
+| 1st | +1 | +2 | +0 | +2 | Aura of good_, _detect evil, smite evil 1_dir/day | — | — | — | — |
 | 2nd | +2 | +3 | +0 | +3 | Divine grace, lay on hands | — | — | — | — |
 | 3rd | +3 | +3 | +1 | +3 | Aura of courage, divine health, mercy | — | — | — | — |
-| 4th | +4 | +4 | +1 | +4 | Channel positive energy, smite evil 2/day | 0 | — | — | — |
+| 4th | +4 | +4 | +1 | +4 | Channel positive energy, smite evil 2_dir/day | 0 | — | — | — |
 | 5th | +5 | +4 | +1 | +4 | Divine bond | 1 | — | — | — |
-| 6th | +6/+1 | +5 | +2 | +5 | Mercy | 1 | — | — | — |
-| 7th | +7/+2 | +5 | +2 | +5 | Smite evil 3/day | 1 | 0 | — | — |
-| 8th | +8/+3 | +6 | +2 | +6 | Aura of resolve | 1 | 1 | — | — |
-| 9th | +9/+4 | +6 | +3 | +6 | Mercy | 2 | 1 | — | — |
-| 10th | +10/+5 | +7 | +3 | +7 | Smite evil 4/day | 2 | 1 | 0 | — |
-| 11th | +11/+6/+1 | +7 | +3 | +7 | Aura of justice | 2 | 1 | 1 | — |
-| 12th | +12/+7/+2 | +8 | +4 | +8 | Mercy | 2 | 2 | 1 | — |
-| 13th | +13/+8/+3 | +8 | +4 | +8 | Smite evil 5/day | 3 | 2 | 1 | 0 |
-| 14th | +14/+9/+4 | +9 | +4 | +9 | Aura of faith | 3 | 2 | 1 | 1 |
-| 15th | +15/+10/+5 | +9 | +5 | +9 | Mercy | 3 | 2 | 2 | 1 |
-| 16th | +16/+11/+6/+1 | +10 | +5 | +10 | Smite evil 6/day | 3 | 3 | 2 | 1 |
-| 17th | +17/+12/+7/+2 | +10 | +5 | +10 | Aura of righteousness | 4 | 3 | 2 | 1 |
-| 18th | +18/+13/+8/+3 | +11 | +6 | +11 | Mercy | 4 | 3 | 2 | 2 |
-| 19th | +19/+14/+9/+4 | +11 | +6 | +11 | Smite evil 7/day | 4 | 3 | 3 | 2 |
-| 20th | +20/+15/+10/+5 | +12 | +6 | +12 | Holy champion | 4 | 4 | 3 | 3 |
+| 6th | +6_dir/+1 | +5 | +2 | +5 | Mercy | 1 | — | — | — |
+| 7th | +7_dir/+2 | +5 | +2 | +5 | Smite evil 3_dir/day | 1 | 0 | — | — |
+| 8th | +8_dir/+3 | +6 | +2 | +6 | Aura of resolve | 1 | 1 | — | — |
+| 9th | +9_dir/+4 | +6 | +3 | +6 | Mercy | 2 | 1 | — | — |
+| 10th | +10_dir/+5 | +7 | +3 | +7 | Smite evil 4_dir/day | 2 | 1 | 0 | — |
+| 11th | +11_dir/+6_dir/+1 | +7 | +3 | +7 | Aura of justice | 2 | 1 | 1 | — |
+| 12th | +12_dir/+7_dir/+2 | +8 | +4 | +8 | Mercy | 2 | 2 | 1 | — |
+| 13th | +13_dir/+8_dir/+3 | +8 | +4 | +8 | Smite evil 5_dir/day | 3 | 2 | 1 | 0 |
+| 14th | +14_dir/+9_dir/+4 | +9 | +4 | +9 | Aura of faith | 3 | 2 | 1 | 1 |
+| 15th | +15_dir/+10_dir/+5 | +9 | +5 | +9 | Mercy | 3 | 2 | 2 | 1 |
+| 16th | +16_dir/+11_dir/+6_dir/+1 | +10 | +5 | +10 | Smite evil 6_dir/day | 3 | 3 | 2 | 1 |
+| 17th | +17_dir/+12_dir/+7_dir/+2 | +10 | +5 | +10 | Aura of righteousness | 4 | 3 | 2 | 1 |
+| 18th | +18_dir/+13_dir/+8_dir/+3 | +11 | +6 | +11 | Mercy | 4 | 3 | 2 | 2 |
+| 19th | +19_dir/+14_dir/+9_dir/+4 | +11 | +6 | +11 | Smite evil 7_dir/day | 4 | 3 | 3 | 2 |
+| 20th | +20_dir/+15_dir/+10_dir/+5 | +12 | +6 | +12 | Holy champion | 4 | 4 | 3 | 3 |
 
 ## Class Features
 
@@ -50,9 +50,9 @@ All of the following are class features of the paladin.
 
 **Weapon and Armor Proficiency** : Paladins are proficient with all [simple](../equipment#_simple-martial-and-exotic-weapons) and [martial](../equipment#_simple-martial-and-exotic-weapons) weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
-**Aura of Good [(Ex)](../glossary#_extraordinary-abilities-ex)** : The power of a paladin's aura of good (see the _ [detect good](../spell_dir/detectGood#_detect-good)_ spell) is equal to her paladin level.
+**Aura of Good [(Ex)](../glossary#_extraordinary-abilities-ex)** : The power of a paladin's aura of good (see the _ [detect good](../spells_dir/detectGood#_detect-good)_ spell) is equal to her paladin level.
 
-**Detect Evil**  **[(Sp)](../glossary#_spell-like-abilities-sp)** : At will, a paladin can use _ [detect evil](../spell_dir/detectEvil#_detect-evil),_ as the spell. A paladin can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is evil, learning the strength of its aura as if having studied it for 3 rounds. While focusing on one individual or object, the paladin does not detect evil in any other object or individual within range.
+**Detect Evil**  **[(Sp)](../glossary#_spell-like-abilities-sp)** : At will, a paladin can use _ [detect evil](../spells_dir/detectEvil#_detect-evil),_ as the spell. A paladin can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is evil, learning the strength of its aura as if having studied it for 3 rounds. While focusing on one individual or object, the paladin does not detect evil in any other object or individual within range.
 
 **Smite Evil [(Su)](../glossary#_supernatural-abilities-su)** : Once per day, a paladin can call out to the powers of good to aid her in her struggle against evil. As a swift action, the paladin chooses one target within sight to smite. If this target is evil, the paladin adds her [Charisma](../gettingStarted#_charisma-new) bonus (if any) to her attack rolls and adds her paladin level to all damage rolls made against the target of her smite. If the target of smite evil is an outsider with the evil subtype, an evil-aligned dragon, or an undead creature, the bonus to damage on the first successful attack increases to 2 points of damage per level the paladin possesses. Regardless of the target, smite evil attacks automatically bypass any [DR](../glossary#_damage-reduction) the creature might possess.
 
@@ -62,7 +62,7 @@ The smite evil effect remains until the target of the smite is dead or the next 
 
 **Divine Grace [(Su)](../glossary#_supernatural-abilities-su)** : At 2nd level, a paladin gains a bonus equal to her [Charisma](../gettingStarted#_charisma-new) bonus (if any) on all [saving throws](../combat#_saving-throws).
 
-**Lay On Hands [(Su)](../glossary#_supernatural-abilities-su)** : Beginning at 2nd level, a paladin can heal wounds (her own or those of others) by touch. Each day she can use this ability a number of times equal to 1/2 her paladin level plus her [Charisma](../gettingStarted#_charisma-new) modifier. With one use of this ability, a paladin can heal 1d6 hit points of damage for every two paladin levels she possesses. Using this ability is a standard action, unless the paladin targets herself, in which case it is a swift action. Despite the name of this ability, a paladin only needs one free hand to use this ability.
+**Lay On Hands [(Su)](../glossary#_supernatural-abilities-su)** : Beginning at 2nd level, a paladin can heal wounds (her own or those of others) by touch. Each day she can use this ability a number of times equal to 1_dir/2 her paladin level plus her [Charisma](../gettingStarted#_charisma-new) modifier. With one use of this ability, a paladin can heal 1d6 hit points of damage for every two paladin levels she possesses. Using this ability is a standard action, unless the paladin targets herself, in which case it is a swift action. Despite the name of this ability, a paladin only needs one free hand to use this ability.
 
 Alternatively, a paladin can use this healing power to deal damage to undead creatures, dealing 1d6 points of damage for every two levels the paladin possesses. Using lay on hands in this way requires a successful melee touch attack and doesn't provoke an [attack of opportunity](../combat#_attacks-of-opportunity). Undead do not receive a [saving throw](../combat#_saving-throws) against this damage.
 
@@ -90,7 +90,7 @@ _• Staggered_: The target is no longer [staggered](../glossary#_staggered), un
 
 At 9th level, a paladin adds the following mercies to the list of those that can be selected.
 
-_• Cursed_: The paladin's lay on hands ability also acts as _ [remove curse](../spell_dir/removeCurse#_remove-curse),_ using the paladin's level as the caster level.
+_• Cursed_: The paladin's lay on hands ability also acts as _ [remove curse](../spells_dir/removeCurse#_remove-curse),_ using the paladin's level as the caster level.
 
 _• Exhausted_: The target is no longer [exhausted](../glossary#_exhausted). The paladin must have the fatigue mercy before selecting this mercy.
 
@@ -126,7 +126,7 @@ Through 3rd level, a paladin has no caster level. At 4th level and higher, her c
 
 **Divine Bond [(Sp)](../glossary#_spell-like-abilities-sp)** : Upon reaching 5th level, a paladin forms a divine bond with her god. This bond can take one of two forms. Once the form is chosen, it cannot be changed.
 
-The first type of bond allows the paladin to enhance her weapon as a standard action by calling upon the aid of a celestial spirit for 1 minute per paladin level. When called, the spirit causes the weapon to shed light as a torch. At 5th level, this spirit grants the weapon a +1 enhancement bonus. For every three levels beyond 5th, the weapon gains another +1 enhancement bonus, to a maximum of +6 at 20th level. These bonuses can be added to the weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of the following weapon properties: _ [axiomatic](../magicItem_dir/weapons#_weapons-axiomatic)_, _ [brilliant energy](../magicItem_dir/weapons#_weapons-brilliant-energy), [defending](../magicItem_dir/weapons#_weapons-defending), [disruption](../magicItem_dir/weapons#_weapons-disruption), [flaming](../magicItem_dir/weapons#_weapons-flaming), [flaming burst](../magicItem_dir/weapons#_weapons-flaming-burst), [holy](../magicItem_dir/weapons#_weapons-holy), [keen](../magicItem_dir/weapons#_weapons-keen), [merciful](../magicItem_dir/weapons#_weapons-merciful)_, and _ [speed](../magicItem_dir/weapons#_weapons-speed)_. Adding these properties consumes an amount of bonus equal to the property's cost (see Table: Melee Weapon Special Abilities). These bonuses are added to any properties the weapon already has, but duplicate abilities do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be added before any other properties can be added. The bonus and properties granted by the spirit are determined when the spirit is called and cannot be changed until the spirit is called again. The celestial spirit imparts no bonuses if the weapon is held by anyone other than the paladin but resumes giving bonuses if returned to the paladin. These bonuses apply to only one end of a double weapon. A paladin can use this ability once per day at 5th level, and one additional time per day for every four levels beyond 5th, to a total of four times per day at 17th level.
+The first type of bond allows the paladin to enhance her weapon as a standard action by calling upon the aid of a celestial spirit for 1 minute per paladin level. When called, the spirit causes the weapon to shed light as a torch. At 5th level, this spirit grants the weapon a +1 enhancement bonus. For every three levels beyond 5th, the weapon gains another +1 enhancement bonus, to a maximum of +6 at 20th level. These bonuses can be added to the weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of the following weapon properties: _ [axiomatic](../magicItems_dir/weapons#_weapons-axiomatic)_, _ [brilliant energy](../magicItems_dir/weapons#_weapons-brilliant-energy), [defending](../magicItems_dir/weapons#_weapons-defending), [disruption](../magicItems_dir/weapons#_weapons-disruption), [flaming](../magicItems_dir/weapons#_weapons-flaming), [flaming burst](../magicItems_dir/weapons#_weapons-flaming-burst), [holy](../magicItems_dir/weapons#_weapons-holy), [keen](../magicItems_dir/weapons#_weapons-keen), [merciful](../magicItems_dir/weapons#_weapons-merciful)_, and _ [speed](../magicItems_dir/weapons#_weapons-speed)_. Adding these properties consumes an amount of bonus equal to the property's cost (see Table: Melee Weapon Special Abilities). These bonuses are added to any properties the weapon already has, but duplicate abilities do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be added before any other properties can be added. The bonus and properties granted by the spirit are determined when the spirit is called and cannot be changed until the spirit is called again. The celestial spirit imparts no bonuses if the weapon is held by anyone other than the paladin but resumes giving bonuses if returned to the paladin. These bonuses apply to only one end of a double weapon. A paladin can use this ability once per day at 5th level, and one additional time per day for every four levels beyond 5th, to a total of four times per day at 17th level.
 
 If a weapon bonded with a celestial spirit is destroyed, the paladin loses the use of this ability for 30 days, or until she gains a level, whichever comes first. During this 30-day period, the paladin takes a –1 penalty on attack and weapon damage rolls.
 
@@ -148,19 +148,19 @@ This ability functions only while the paladin is conscious, not if she is [uncon
 
 This ability functions only while the paladin is conscious, not if she is [unconscious](../glossary#_unconscious) or dead.
 
-**Aura of Righteousness [(Su)](../glossary#_supernatural-abilities-su)** : At 17th level, a paladin gains [DR](../glossary#_damage-reduction) 5/evil and immunity to compulsion spells and spell-like abilities. Each ally within 10 feet of her gains a +4 morale bonus on [saving throws](../combat#_saving-throws) against compulsion effects.
+**Aura of Righteousness [(Su)](../glossary#_supernatural-abilities-su)** : At 17th level, a paladin gains [DR](../glossary#_damage-reduction) 5_dir/evil and immunity to compulsion spells and spell-like abilities. Each ally within 10 feet of her gains a +4 morale bonus on [saving throws](../combat#_saving-throws) against compulsion effects.
 
 This ability functions only while the paladin is conscious, not if she is [unconscious](../glossary#_unconscious) or dead.
 
-**Holy Champion [(Su)](../glossary#_supernatural-abilities-su)** : At 20th level, a paladin becomes a conduit for the power of her god. Her [DR](../glossary#_damage-reduction) increases to 10/evil. Whenever she uses smite evil and successfully strikes an evil outsider, the outsider is also subject to a _ [banishment](../spell_dir/banishment#_banishment),_ using her paladin level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). After the _ [banishment](../spell_dir/banishment#_banishment)_ effect and the damage from the attack is resolved, the smite immediately ends. In addition, whenever she channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount.
+**Holy Champion [(Su)](../glossary#_supernatural-abilities-su)** : At 20th level, a paladin becomes a conduit for the power of her god. Her [DR](../glossary#_damage-reduction) increases to 10_dir/evil. Whenever she uses smite evil and successfully strikes an evil outsider, the outsider is also subject to a _ [banishment](../spells_dir/banishment#_banishment),_ using her paladin level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). After the _ [banishment](../spells_dir/banishment#_banishment)_ effect and the damage from the attack is resolved, the smite immediately ends. In addition, whenever she channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount.
 
 **Code of Conduct** : A paladin must be of lawful good [alignment](../additionalRules#_alignment) and loses all class features except proficiencies if she ever willingly commits an evil act.
 
 Additionally, a paladin's code requires that she respect legitimate authority, act with honor (not lying, not cheating, not using poison, and so forth), help those in need (provided they do not use the help for evil or chaotic ends), and punish those who harm or threaten innocents.
 
-**Associates** : While she may adventure with good or neutral allies, a paladin avoids working with evil characters or with anyone who consistently offends her moral code. Under exceptional circumstances, a paladin can ally with evil associates, but only to defeat what she believes to be a greater evil. A paladin should seek an _ [atonement](../spell_dir/atonement#_atonement)_ spell periodically during such an unusual alliance, and should end the alliance immediately should she feel it is doing more harm than good. A paladin may accept only henchmen, followers, or cohorts who are lawful good.
+**Associates** : While she may adventure with good or neutral allies, a paladin avoids working with evil characters or with anyone who consistently offends her moral code. Under exceptional circumstances, a paladin can ally with evil associates, but only to defeat what she believes to be a greater evil. A paladin should seek an _ [atonement](../spells_dir/atonement#_atonement)_ spell periodically during such an unusual alliance, and should end the alliance immediately should she feel it is doing more harm than good. A paladin may accept only henchmen, followers, or cohorts who are lawful good.
 
 ## Ex-Paladins
 
-A paladin who ceases to be lawful good, who willfully commits an evil act, or who violates the code of conduct loses all paladin spells and class features (including the service of the paladin's mount, but not weapon, armor, and shield proficiencies). She may not progress any further in levels as a paladin. She regains her abilities and advancement potential if she atones for her violations (see the _ [atonement](../spell_dir/atonement#_atonement)_ spell description in [Spell Lists](../spellLists)), as appropriate.
+A paladin who ceases to be lawful good, who willfully commits an evil act, or who violates the code of conduct loses all paladin spells and class features (including the service of the paladin's mount, but not weapon, armor, and shield proficiencies). She may not progress any further in levels as a paladin. She regains her abilities and advancement potential if she atones for her violations (see the _ [atonement](../spells_dir/atonement#_atonement)_ spell description in [Spell Lists](../spellLists)), as appropriate.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/troglodyte
+title: monsters_dir/troglodyte
 ---
 # Troglodyte
 
@@ -12,7 +12,7 @@ _This humanoid's scaly hide is dull gray. Its frame resembles that of a cave liz
 
 CE Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_reptilian-subtype))
 
-**Init** –1; **Senses** darkvision 90 ft.; [Perception](../skill_dir/perception#_perception) +0
+**Init** –1; **Senses** darkvision 90 ft.; [Perception](../skills_dir/perception#_perception) +0
 
 **Aura** stench (30 ft., DC 13, 10 rounds)
 
@@ -40,7 +40,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_repti
 
 **Feats** [Great Fortitude](../feats#_great-fortitude)
 
-**Skills** [Stealth](../skill_dir/stealth#_stealth) +5 (+9 in rocky areas); **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) (+8 in rocky areas)
+**Skills** [Stealth](../skills_dir/stealth#_stealth) +5 (+9 in rocky areas); **Racial Modifiers** +4 [Stealth](../skills_dir/stealth#_stealth) (+8 in rocky areas)
 
 **Languages** Draconic
 

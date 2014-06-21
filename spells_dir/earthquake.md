@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/earthquake
+title: spells_dir/earthquake
 ---
  **Earthquake**
 
@@ -10,7 +10,7 @@ title: spell_dir/earthquake
 
 **Components** V, S, DF
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Area** 80-ft.-radius spread (S)
 

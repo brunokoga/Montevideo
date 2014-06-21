@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/telekineticCharge
+title: ultimateCombat_dir/spells_dir/telekineticCharge
 ---
 Telekinetic Charge
 
-**School** evocation [force]; **Level** sorcere_dir/wizard 4
+**School** evocation [force]; **Level** sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one willing creature
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/guardsAndWards
+title: spells_dir/guardsAndWards
 ---
  **Guards and Wards**
 
-**School** abjuration; **Level** sorcerer/wizard 6
+**School** abjuration; **Level** sorcerer_dir/wizard 6
 
 **Casting Time** 30 minutes
 
@@ -12,9 +12,9 @@ title: spell_dir/guardsAndWards
 
 **Range** anywhere within the area to be warded
 
-**Area** up to 200 sq. ft./level (S)
+**Area** up to 200 sq. ft._dir/level (S)
 
-**Duration** 2 hour_dir/level (D)
+**Duration** 2 hours_dir/level (D)
 
 **Saving Throw** see text; **[Spell Resistance](../glossary#_spell-resistance)** see text
 

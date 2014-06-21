@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/flameBlade
+title: mythicAdventures_dir/mythicSpells_dir/flameBlade
 ---
 Flame Blade
 
-**Source** [_flame blade_](spell_dir/flameBlade#_flame-blade)
+**Source** [_flame blade_](spells_dir/flameBlade#_flame-blade)
 
 The blade's damage increases to 2d6 points of fire damage + 1 point per caster level (maximum +20). The blade threatens a critical hit on a natural 18–20 as if it were an actual scimitar.
 

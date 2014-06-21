@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advancedRaceGuid_dir/featuredRaces/kobolds
+title: advancedRaceGuide_dir/featuredRaces_dir/kobolds
 ---
 # Kobolds 
 
@@ -28,7 +28,7 @@ They consider both dwarves and elves to be deadly rivals. Kobolds fear the brute
 
 **Reptilian** : Kobolds are humanoids with the reptilian subtype.
 
-**Small** : Kobolds are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on their combat maneuver checks and to Combat Maneuver Defense, and a +4 size bonus on [Stealth](skill_dir/stealth#_stealth) checks.
+**Small** : Kobolds are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty on their combat maneuver checks and to Combat Maneuver Defense, and a +4 size bonus on [Stealth](skills_dir/stealth#_stealth) checks.
 
 **Normal Speed** : Kobolds have a base speed of 30 feet.
 
@@ -36,7 +36,7 @@ They consider both dwarves and elves to be deadly rivals. Kobolds fear the brute
 
 **Armor** : Kobolds have a +1 natural armor bonus.
 
-**Crafty** : Kobolds gain a +2 racial bonus on [Craft](skills/craft#_craft) (trapmaking), [Perception](skill_dir/perception#_perception), and [Profession](skills/profession#_profession) (miner) checks. [Craft](skill_dir/craft#_craft) (traps) and [Stealth](skills/stealth#_stealth) are always class skills for a kobold.
+**Crafty** : Kobolds gain a +2 racial bonus on [Craft](skills_dir/craft#_craft) (trapmaking), [Perception](skills_dir/perception#_perception), and [Profession](skills_dir/profession#_profession) (miner) checks. [Craft](skills_dir/craft#_craft) (traps) and [Stealth](skills_dir/stealth#_stealth) are always class skills for a kobold.
 
 **Weakness** : Light sensitivity.
 
@@ -46,45 +46,45 @@ They consider both dwarves and elves to be deadly rivals. Kobolds fear the brute
 
 The following racial traits may be selected instead of existing kobold racial traits. Consult your GM before selecting any of these new options.
 
-**Beast Bond** : Some kobolds have a talent for training animals and beasts to help them both on and off the battlefield. Kobolds with this racial trait gain a +2 racial bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal) and [Ride](skills/ride#_ride) checks. [Handle Animal](skill_dir/handleAnimal#_handle-animal) and [Ride](skills/ride#_ride) are always class skills for them. This racial trait replaces crafty.
+**Beast Bond** : Some kobolds have a talent for training animals and beasts to help them both on and off the battlefield. Kobolds with this racial trait gain a +2 racial bonus on [Handle Animal](skills_dir/handleAnimal#_handle-animal) and [Ride](skills_dir/ride#_ride) checks. [Handle Animal](skills_dir/handleAnimal#_handle-animal) and [Ride](skills_dir/ride#_ride) are always class skills for them. This racial trait replaces crafty.
 
 **Dragon-Scaled** : Some kobolds are hatched with scales of such vivid color that their connection to a particular sort of chromatic dragon seems undeniable. Whether this coloration is just a quirk of a stray egg or a trait shared by all the members of a tribe, these kobolds gain a resistance that makes them especially suited to work alongside dragons matching the color of the kobold's scales. Black-scaled and green-scaled kobolds with this racial trait gain acid resistance 5. Blue-scaled kobolds with this racial trait gain electricity resistance 5. Red-scaled kobolds with this racial trait gain fire resistance 5. White-scaled kobolds with this racial trait gain cold resistance 5. This racial trait replaces the armor racial trait.
 
-**Gliding Wings** : Some kobolds are born with wings that, while too weak for actual flying, do allow them to fall at a very slow and safe pace. A kobold with wings can use them to glide. It can make a DC 15 [Fly](skill_dir/fly#_fly) check to fall safely from any height without taking falling damage, as if using _ [feather fall](spells/featherFall#_feather-fall)_. When falling safely, it may make an additional DC 15 [Fly](skill_dir/fly#_fly) check to glide, moving 5 feet laterally for every 20 feet it falls. This racial trait replaces crafty.
+**Gliding Wings** : Some kobolds are born with wings that, while too weak for actual flying, do allow them to fall at a very slow and safe pace. A kobold with wings can use them to glide. It can make a DC 15 [Fly](skills_dir/fly#_fly) check to fall safely from any height without taking falling damage, as if using _ [feather fall](spells_dir/featherFall#_feather-fall)_. When falling safely, it may make an additional DC 15 [Fly](skills_dir/fly#_fly) check to glide, moving 5 feet laterally for every 20 feet it falls. This racial trait replaces crafty.
 
-**Jester** : Some kobolds swallow their pride and survive by groveling, placating, and amusing the powerful. Kobolds with this racial trait gain a +2 racial bonus on [Diplomacy](skills/diplomacy#_diplomacy) and [Perform](skill_dir/perform#_perform) checks. [Diplomacy](skills/diplomacy#_diplomacy) and [Perform](skill_dir/perform#_perform) are always class skills for them. This racial trait replaces crafty.
+**Jester** : Some kobolds swallow their pride and survive by groveling, placating, and amusing the powerful. Kobolds with this racial trait gain a +2 racial bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) and [Perform](skills_dir/perform#_perform) checks. [Diplomacy](skills_dir/diplomacy#_diplomacy) and [Perform](skills_dir/perform#_perform) are always class skills for them. This racial trait replaces crafty.
 
 # Favored Class Options
 
 The following options are available to all kobolds who have the listed favored class, and unless otherwise stated, the bonus applies each time you select the favored class reward.
 
-**Alchemist** : Add +1/2 to the number of bombs per day the alchemist can create.
+**Alchemist** : Add +1_dir/2 to the number of bombs per day the alchemist can create.
 
-**Bard** : Treat the bard's level as +1/2 level higher for the purpose of determining the effect of the fascinate bardic performance.
+**Bard** : Treat the bard's level as +1_dir/2 level higher for the purpose of determining the effect of the fascinate bardic performance.
 
 **Cavalier** : Add 5 feet (up to 15 feet maximum) to the cavalier's mount's speed when it uses the charge or withdraw action.
 
 **Cleric** : Add +1 to channel energy damage dealt to creatures denied their Dexterity bonus to AC (whether or not the creature has a Dexterity bonus to AC).
 
-**Druid** : Add +1/2 to the druid's wild empathy bonus.
+**Druid** : Add +1_dir/2 to the druid's wild empathy bonus.
 
-**Fighter** : Add +1/2 to damage rolls the fighter makes with weapon attacks against an opponent he is flanking or an opponent that is denied its Dexterity bonus to AC.
+**Fighter** : Add +1_dir/2 to damage rolls the fighter makes with weapon attacks against an opponent he is flanking or an opponent that is denied its Dexterity bonus to AC.
 
-**Gunslinger** : Add +1/4 to the dodge bonus to AC granted by the nimble class feature (maximum +4).
+**Gunslinger** : Add +1_dir/4 to the dodge bonus to AC granted by the nimble class feature (maximum +4).
 
-**Magus** : Add a +1/2 bonus on concentration checks made to cast defensively.
+**Magus** : Add a +1_dir/2 bonus on concentration checks made to cast defensively.
 
-**Monk** : Add +1/3 to the monk's AC bonus class ability.
+**Monk** : Add +1_dir/3 to the monk's AC bonus class ability.
 
-**Oracle** : Add +1/4 to the armor or natural armor bonus granted by oracle spells she casts on herself.
+**Oracle** : Add +1_dir/4 to the armor or natural armor bonus granted by oracle spells she casts on herself.
 
-**Ranger** : Add +1/4 to the number of opponents the ranger may select when using hunter's bond to grant a bonus to allies. All selected creatures must be of the same type.
+**Ranger** : Add +1_dir/4 to the number of opponents the ranger may select when using hunter's bond to grant a bonus to allies. All selected creatures must be of the same type.
 
-**Rogue** : Add +1/2 to the rogue's trap sense bonus to AC.
+**Rogue** : Add +1_dir/2 to the rogue's trap sense bonus to AC.
 
-**Sorcerer** : Choose acid, cold, electricity, or fire damage. Add +1/2 point of the chosen energy damage to spells that deal the chosen energy damage cast by the sorcerer.
+**Sorcerer** : Choose acid, cold, electricity, or fire damage. Add +1_dir/2 point of the chosen energy damage to spells that deal the chosen energy damage cast by the sorcerer.
 
-**Summoner** : Add +1/4 to the summoner's shield ally bonus (maximum +2).
+**Summoner** : Add +1_dir/4 to the summoner's shield ally bonus (maximum +2).
 
 **Witch** : Add +5 feet to the distance at which her familiar grants the [Alertness](feats#_alertness) feat (maximum +20 feet).
 
@@ -110,9 +110,9 @@ The bushwhacker specializes in the art of the ambush. For her, gunplay works bes
 
 While many kobold sorcerers tout their purely draconic bloodline, over generations of eldritch training, some such spellcasters have created a bloodline that, while tinged with some draconic magic, is the embodiment of the race's virtue distilled into arcane form. Many practitioners of this bloodline go on to lead powerful kobold tribes.
 
-**Class Skill** : [Disable Device](skill_dir/disableDevice#_disable-device).
+**Class Skill** : [Disable Device](skills_dir/disableDevice#_disable-device).
 
-**Bonus Spells** : _ [alarm](spells/alarm#_alarm)_ (3rd), _ [create pit](advance_dir/spells/createPit#_create-pit-) _(5th), _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes)_ (7th), _ [dragon's breath](advanced/spell_dir/dragonSBreath#_dragon's-breath)_ (9th), _ [transmute rock to mud](spells/transmuteRockToMud#_transmute-rock-to-mud) _(11th), _ [guards and wards](spell_dir/guardsAndWards#_guards-and-wards)_ (13th), _ [delayed blast fireball](spells/delayedBlastFireball#_delayed-blast-fireball)_ (15th), _ [form of the dragon III](spell_dir/formOfTheDragon#_form-of-the-dragon-iii)_ (17th), _ [imprisonment](spells/imprisonment#_imprisonment)_ (19th).
+**Bonus Spells** : _ [alarm](spells_dir/alarm#_alarm)_ (3rd), _ [create pit](advanced_dir/spells_dir/createPit#_create-pit-) _(5th), _ [explosive runes](spells_dir/explosiveRunes#_explosive-runes)_ (7th), _ [dragon's breath](advanced_dir/spells_dir/dragonSBreath#_dragon's-breath)_ (9th), _ [transmute rock to mud](spells_dir/transmuteRockToMud#_transmute-rock-to-mud) _(11th), _ [guards and wards](spells_dir/guardsAndWards#_guards-and-wards)_ (13th), _ [delayed blast fireball](spells_dir/delayedBlastFireball#_delayed-blast-fireball)_ (15th), _ [form of the dragon III](spells_dir/formOfTheDragon#_form-of-the-dragon-iii)_ (17th), _ [imprisonment](spells_dir/imprisonment#_imprisonment)_ (19th).
 
 **Bonus Feats** : [Alertness](feats#_alertness), [Combat Casting](feats#_combat-casting), [Defensive Combat Training](feats#_defensive-combat-training), [Dodge](feats#_dodge), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Silent Spell](feats#_silent-spell).
 
@@ -120,15 +120,15 @@ While many kobold sorcerers tout their purely draconic bloodline, over generatio
 
 **Bloodline Powers** : Like all kobolds, you have a natural talent for ambushing, creating traps, and mining. As your power increases, you discover ever more useful ways to blend your magic with these instinctive talents.
 
-> _Trap Rune (Sp)_: At 1st level, as a standard action, you can sketch a single, nearly invisible magical rune on any 5-foot-square solid surface. When you create a rune, pick one of the following energy types: acid, cold, electricity, or fire. While the rune is active, the next creature other than you who steps on or touches the rune's area causes the rune to explode. The rune's explosion deals a number of points of energy damage equal to 1d8 + 1 per sorcerer level you possess to anything in its square. A Reflex saving throw halves the damage (DC 10 + 1/2 your sorcerer level + your Charisma modifier). The rune is considered a magical trap for the purpose of perceiving it or disabling it. The DC for both [Perception](skill_dir/perception#_perception) and [Disable Device](skills/disableDevice#_disable-device) checks is the same as the Reflex saving throw to halve the damage. You can use this ability a number of times per day equal to 3 + your Charisma modifier. Each rune lasts for 24 hours or until discharged.
+> _Trap Rune (Sp)_: At 1st level, as a standard action, you can sketch a single, nearly invisible magical rune on any 5-foot-square solid surface. When you create a rune, pick one of the following energy types: acid, cold, electricity, or fire. While the rune is active, the next creature other than you who steps on or touches the rune's area causes the rune to explode. The rune's explosion deals a number of points of energy damage equal to 1d8 + 1 per sorcerer level you possess to anything in its square. A Reflex saving throw halves the damage (DC 10 + 1_dir/2 your sorcerer level + your Charisma modifier). The rune is considered a magical trap for the purpose of perceiving it or disabling it. The DC for both [Perception](skills_dir/perception#_perception) and [Disable Device](skills_dir/disableDevice#_disable-device) checks is the same as the Reflex saving throw to halve the damage. You can use this ability a number of times per day equal to 3 + your Charisma modifier. Each rune lasts for 24 hours or until discharged.
 > 
-> _Trap Sense (Ex):_ At 3rd level, you develop a sixth sense that helps you avoid traps. You gain a +2 bonus on [Perception](skill_dir/perception#_perception) checks made to notice traps. You also gain a +1 bonus on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks made by traps. These bonuses increase by +1 at 7th level and for every four sorcerer levels you gain thereafter (to a maximum of +5 at 19th level). This bonus stacks with that provided by a rogue's trap sense and similar abilities.
+> _Trap Sense (Ex):_ At 3rd level, you develop a sixth sense that helps you avoid traps. You gain a +2 bonus on [Perception](skills_dir/perception#_perception) checks made to notice traps. You also gain a +1 bonus on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks made by traps. These bonuses increase by +1 at 7th level and for every four sorcerer levels you gain thereafter (to a maximum of +5 at 19th level). This bonus stacks with that provided by a rogue's trap sense and similar abilities.
 > 
 > _Arcane Ambush (Su)_: At 9th level, as a swift action, you can expend a spell slot in order to grant you and your allies a bonus on attack and damage rolls. This bonus lasts 1 round, is equal to the level of the spell expended, and only applies to opponents your allies are flanking or opponents denied their Dexterity bonus against your allies. You grant this bonus to yourself plus up to one ally for every four sorcerer levels you possess (to a maximum of five allies at 20th level). The allies must be within 30 feet of you and you must have line of effect to each affected ally.
 > 
-> _Earth [Glide](advanced/spell_dir/glide#_glide-) (Su)_: At 15th level, you gain the earth glide universal monster ability with a speed equal to your base speed. This does not give you the ability to breathe while passing through earth, so you must hold your breath or use some alternate method to breathe while using this ability.
+> _Earth [Glide](advanced_dir/spells_dir/glide#_glide-) (Su)_: At 15th level, you gain the earth glide universal monster ability with a speed equal to your base speed. This does not give you the ability to breathe while passing through earth, so you must hold your breath or use some alternate method to breathe while using this ability.
 > 
-> _Nimble Walker (Su)_: At 20th level, you gain a +5 racial bonus on Reflex saving throws and on [Acrobatics](skills/acrobatics#_acrobatics) checks made to move through a creature's threatened area or through its space. You also gain the ability to breathe while passing through earth using your earth glide ability.
+> _Nimble Walker (Su)_: At 20th level, you gain a +5 racial bonus on Reflex saving throws and on [Acrobatics](skills_dir/acrobatics#_acrobatics) checks made to move through a creature's threatened area or through its space. You also gain the ability to breathe while passing through earth using your earth glide ability.
 # New Racial Rules
 
 The following options are available to kobolds. At the GM's discretion, other appropriate races may make use of some of these new rules.
@@ -139,7 +139,7 @@ Kobolds have access to the following equipment.
 
 **Alchemical Coal** : A kobold who chews and swallows this alchemically treated piece of coal (a full-round action) can make one breath weapon attack during the next minute. If the kobold fails to make a breath attack before this minute expires, it is sickened for 1 hour. Other humanoid creatures that eat alchemical coal are sickened for 1 hour (though certain other creatures may be able to use them, at the GM's discretion). Creatures that are immune to poison are immune to the sickened effect. The type of breath weapon depends on the type of alchemical coal that is chewed by the kobold.
 
-> _ [Blinding](magicItem_dir/armor#_armor-blinding) Cinders_: This jagged bit of dusty red coal allows a kobold to breathe a 30-foot line of coarse cinders. The breath weapon deals 1d6 points of fire damage and blinds creatures in the area for 1 round. A creature that succeeds at a DC 15 Reflex saving throw takes half damage and is not blinded.
+> _ [Blinding](magicItems_dir/armor#_armor-blinding) Cinders_: This jagged bit of dusty red coal allows a kobold to breathe a 30-foot line of coarse cinders. The breath weapon deals 1d6 points of fire damage and blinds creatures in the area for 1 round. A creature that succeeds at a DC 15 Reflex saving throw takes half damage and is not blinded.
 > 
 > _Choking Smoke_: This crumbling chunk of chalky white coal allows a kobold to breathe a 15-foot cone of foul vapor that deals 1d6 points of acid damage and sickens a creature for 1d4 rounds. A creature that succeeds at a DC 15 Reflex saving throw takes half damage and is not sickened.
 
@@ -172,7 +172,7 @@ While a kobold is wearing a kobold tail attachment, the attack deals the tail at
 | _Light Melee Weapons_ |
 | Long lash | 15 gp | 1d4 | 1d6 | ×2 | — | 1 lb. | S | reach |
 | Pounder | 1 gp | 1d6 | 1d8 | ×2 | — | 4 lbs. | B | — |
-| Razored | 3 gp | 1d6 | 1d8 | 19–20/×2 | — | 2 lbs. | S | — |
+| Razored | 3 gp | 1d6 | 1d8 | 19–20_dir/×2 | — | 2 lbs. | S | — |
 | Spiked | 3 gp | 1d6 | 1d8 | ×3 | — | 2 lbs. | P | — |
 | Sweeper | 7 gp | 1d4 | 1d6 | ×2 | — | 3 lbs. | B | trip |
 
@@ -216,7 +216,7 @@ You possess draconic defenses and wings that allow you to glide.
 
 **Prerequisites** : Draconic Aspect, kobold.
 
-**Benefit** : You gain a +2 bonus against sleep and paralysis effects. You grow a pair of wings that you can use to fall and glide at a safe pace. You can make a DC 15 [Fly](skill_dir/fly#_fly) check to fall safely from any height without taking falling damage, as if using _ [feather fall](spells/featherFall#_feather-fall)_. When falling safely, you may make an additional DC 15 [Fly](skill_dir/fly#_fly) check to glide, moving 5 feet laterally for every 20 feet you fall.
+**Benefit** : You gain a +2 bonus against sleep and paralysis effects. You grow a pair of wings that you can use to fall and glide at a safe pace. You can make a DC 15 [Fly](skills_dir/fly#_fly) check to fall safely from any height without taking falling damage, as if using _ [feather fall](spells_dir/featherFall#_feather-fall)_. When falling safely, you may make an additional DC 15 [Fly](skills_dir/fly#_fly) check to glide, moving 5 feet laterally for every 20 feet you fall.
 
 **Special** : If you have the gliding wings racial trait, instead of the above abilities, your base speed increases to 30 feet.
 
@@ -232,21 +232,21 @@ You can shrug off sleep and paralysis effects as well as any dragon, and your dr
 
 You are adept at moving fast and staying hidden.
 
-**Prerequisites** : [Stealth](skills/stealth#_stealth) 4 ranks, kobold.
+**Prerequisites** : [Stealth](skills_dir/stealth#_stealth) 4 ranks, kobold.
 
-**Benefit** : You take no penalty on [Stealth](skill_dir/stealth#_stealth) checks when you move up to your full speed. You can use the run or charge action and remain hidden, taking a –10 penalty on the check to do so.
+**Benefit** : You take no penalty on [Stealth](skills_dir/stealth#_stealth) checks when you move up to your full speed. You can use the run or charge action and remain hidden, taking a –10 penalty on the check to do so.
 
-**Normal** : When moving greater than half speed up to your full speed, you take a –5 penalty on [Stealth](skills/stealth#_stealth) checks. When you are able to run or charge while using [Stealth](skill_dir/stealth#_stealth), you take a –20 penalty on the [Stealth](skills/stealth#_stealth) check.
+**Normal** : When moving greater than half speed up to your full speed, you take a –5 penalty on [Stealth](skills_dir/stealth#_stealth) checks. When you are able to run or charge while using [Stealth](skills_dir/stealth#_stealth), you take a –20 penalty on the [Stealth](skills_dir/stealth#_stealth) check.
 
 ### Kobold Sniper (Combat)
 
 You snipe quickly, making it harder for others to find the location of your attack.
 
-**Prerequisites** : [Stealth](skill_dir/stealth#_stealth) 1 rank, kobold.
+**Prerequisites** : [Stealth](skills_dir/stealth#_stealth) 1 rank, kobold.
 
-**Benefit** : When you are sniping, you only take a –10 penalty on your [Stealth](skills/stealth#_stealth) checks to stay hidden.
+**Benefit** : When you are sniping, you only take a –10 penalty on your [Stealth](skills_dir/stealth#_stealth) checks to stay hidden.
 
-**Normal** : You take a –20 penalty on your [Stealth](skill_dir/stealth#_stealth) check to maintain your obscured location while sniping.
+**Normal** : You take a –20 penalty on your [Stealth](skills_dir/stealth#_stealth) check to maintain your obscured location while sniping.
 
 ### Tail Terror (Combat)
 
@@ -272,7 +272,7 @@ These gloves are made of a fine metal mesh. If a creature wearing rubble gloves 
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [expeditious excavation](advanced/spell_dir/expeditiousExcavation#_expeditious-excavation)_; **Cost** 4,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [expeditious excavation](advanced_dir/spells_dir/expeditiousExcavation#_expeditious-excavation)_; **Cost** 4,000 gp
 
 Trapmaker's Sack
 
@@ -282,11 +282,11 @@ Trapmaker's Sack
 
 Description
 
-This heavy leather bag bulges only slightly but upon closer inspection appears to be chocked full of knives, gears, picks, shovels, and arrows. Once per day as a full-round action, the bearer can command the sack to create any mechanical trap of CR 4 or less (_Core Rulebook _420–422), which appears at a designated spot within 50 feet. The bearer must make a [Craft](skills/craft#_craft) (traps) check with a DC equal to the normal DC for creating the trap . If successful, the trap instantly merges with the chosen area, exactly as if someone had actually built the trap in that spot. If the check fails, no trap appears. The sack can alter earth, stone, and wood to accommodate the trap without altering nearby terrain (including doors, pits, and so on).
+This heavy leather bag bulges only slightly but upon closer inspection appears to be chocked full of knives, gears, picks, shovels, and arrows. Once per day as a full-round action, the bearer can command the sack to create any mechanical trap of CR 4 or less (_Core Rulebook _420–422), which appears at a designated spot within 50 feet. The bearer must make a [Craft](skills_dir/craft#_craft) (traps) check with a DC equal to the normal DC for creating the trap . If successful, the trap instantly merges with the chosen area, exactly as if someone had actually built the trap in that spot. If the check fails, no trap appears. The sack can alter earth, stone, and wood to accommodate the trap without altering nearby terrain (including doors, pits, and so on).
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [fabricate](spell_dir/fabricate#_fabricate)_, creator must have 5 ranks in [Craft](skills/craft#_craft) (traps); **Cost** 10,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [fabricate](spells_dir/fabricate#_fabricate)_, creator must have 5 ranks in [Craft](skills_dir/craft#_craft) (traps); **Cost** 10,000 gp
 
 ## Kobold Spells
 
@@ -294,13 +294,13 @@ Kobolds have access to the following spell.
 
 Improve Trap
 
-**School** transmutation; **Level** antipaladin 2, druid 3, inquisitor 3, ranger 2, sorcere_dir/wizard 3, witch 3
+**School** transmutation; **Level** antipaladin 2, druid 3, inquisitor 3, ranger 2, sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 minute
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one trap
 
@@ -310,8 +310,8 @@ Improve Trap
 
 When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of casting. The caster can improve the trap in any of the following ways (each one raises the trap's CR by +1).
 
-- Increase DC of the [Perception](skill_dir/perception#_perception) check required to locate the trap by +5.
-- Increase DC of the [Disable Device](skills/disableDevice#_disable-device) check required to disarm trap by +5.
+- Increase DC of the [Perception](skills_dir/perception#_perception) check required to locate the trap by +5.
+- Increase DC of the [Disable Device](skills_dir/disableDevice#_disable-device) check required to disarm trap by +5.
 - Increase the trap's attack bonus or saving throw by +2.
 
 To cast this on a trap, you must know that the trap exists and its precise location. A trap can only have one improvement from this spell at a time. A second casting changes the improvement on the trap, but does not add another improvement.

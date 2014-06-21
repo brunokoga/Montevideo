@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/derro
+title: monsters_dir/derro
 ---
 # Derro
 
@@ -12,7 +12,7 @@ _This pale blue humanoid has bulging white eyes, wild hair, four-fingered hands,
 
 CE Small [humanoid](creatureTypes#_humanoid) (derro)
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +0
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +0
 
 **Defense**
 
@@ -32,15 +32,15 @@ CE Small [humanoid](creatureTypes#_humanoid) (derro)
 
 **Melee** short sword +5 (1d4) or aklys +5 (1d6)
 
-**Ranged** repeating light crossbow +5 (1d6/19–20 plus poison) or aklys +5 (1d6)
+**Ranged** repeating light crossbow +5 (1d6_dir/19–20 plus poison) or aklys +5 (1d6)
 
 **Special Attacks** sneak attack +1d6
 
 **Spell-Like Abilities** (CL 3rd)
 
-At will—_ [darkness](../spell_dir/darkness#_darkness), [ghost sound](../spell_dir/ghostSound#_ghost-sound)_ (DC 13)
+At will—_ [darkness](../spells_dir/darkness#_darkness), [ghost sound](../spells_dir/ghostSound#_ghost-sound)_ (DC 13)
 
-1/day—_ [daze](../spell_dir/daze#_daze)_ (DC 13), _ [sound burst](../spell_dir/soundBurst#_sound-burst)_ (DC 15)
+1_dir/day—_ [daze](../spells_dir/daze#_daze)_ (DC 13), _ [sound burst](../spells_dir/soundBurst#_sound-burst)_ (DC 15)
 
 **Statistics**
 
@@ -50,7 +50,7 @@ At will—_ [darkness](../spell_dir/darkness#_darkness), [ghost sound](../spell_
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Perception](../skill_dir/perception#_perception) +0, [Stealth](../skill_dir/stealth#_stealth) +9
+**Skills** [Perception](../skills_dir/perception#_perception) +0, [Stealth](../skills_dir/stealth#_stealth) +9
 
 **Languages** Aklo, Undercommon
 
@@ -66,7 +66,7 @@ At will—_ [darkness](../spell_dir/darkness#_darkness), [ghost sound](../spell_
 
 **Special Abilities**
 
-**Madness (Ex)** Derros use their Charisma modifier on Will saves instead of their Wisdom modifier, and are immune to insanity and confusion effects. Only a _ [miracle](../spell_dir/miracle#_miracle)_ or _ [wish](../spell_dir/wish#_wish)_ can remove a derro's madness. If this occurs, the derro gains 6 points of Wisdom and loses 6 points of Charisma.
+**Madness (Ex)** Derros use their Charisma modifier on Will saves instead of their Wisdom modifier, and are immune to insanity and confusion effects. Only a _ [miracle](../spells_dir/miracle#_miracle)_ or _ [wish](../spells_dir/wish#_wish)_ can remove a derro's madness. If this occurs, the derro gains 6 points of Wisdom and loses 6 points of Charisma.
 
 **Poison Use (Ex)** Derros are not at risk of poisoning themselves when handling poison. They use Medium spider venom to poison their crossbow bolts, and generally carry 10 pre-poisoned bolts at all times.
 

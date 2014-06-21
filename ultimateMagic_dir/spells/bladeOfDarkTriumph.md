@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/bladeOfDarkTriumph
+title: ultimateMagic_dir/spells_dir/bladeOfDarkTriumph
 ---
 Blade of Dark Triumph
 
@@ -14,9 +14,9 @@ Blade of Dark Triumph
 
 **Target** your fiendish boon weapon
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 
-You strengthen the bond between your fiendish boon weapon and its unholy spirit. The weapon gains the _ [ghost touch](magicItems/weapons#_weapons-ghost-touch)_ property. You may change your weapon's damage type (bludgeoning, piercing, slashing) as a swift action. You gain a profane bonus to your CMD against disarm and sunder attacks directed at your boon weapon; this bonus is equal to half your caster level.
+You strengthen the bond between your fiendish boon weapon and its unholy spirit. The weapon gains the _ [ghost touch](magicItems_dir/weapons#_weapons-ghost-touch)_ property. You may change your weapon's damage type (bludgeoning, piercing, slashing) as a swift action. You gain a profane bonus to your CMD against disarm and sunder attacks directed at your boon weapon; this bonus is equal to half your caster level.
 

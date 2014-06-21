@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/waterBreathing
+title: spells_dir/waterBreathing
 ---
  **Water Breathing**
 
-**School** transmutation; **Level** cleric 3, druid 3, sorcerer/wizard 3
+**School** transmutation; **Level** cleric 3, druid 3, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (short reed or piece of straw)
+**Components** V, S, M_dir/DF (short reed or piece of straw)
 
 **Range** touch
 
 **Target** living creatures touched
 
-**Duration** 2 hour_dir/level; see text
+**Duration** 2 hours_dir/level; see text
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateEquipmen_dir/gear/poisons
+title: ultimateEquipment_dir/gear_dir/poisons
 ---
 # Poisons
 
@@ -26,11 +26,11 @@ Unlike other afflictions, multiple doses of the same poison “stack,” meaning
 
 Making your initial saving throw against a poison means stacking does not occur—the poison did not affect you and any later doses are treated independently. Likewise, if a poison has been cured or run its course (by you either making the saves or outlasting the poison's duration), stacking does not occur. However, if there is still poison active in you when you are attacked with that type of poison again, and you fail your initial save against the new dose, the doses stack. This has two effects, which last until the poisons run their course.
 
-**Increased Duration** : Increase the duration of the poison by 1/2 the amount listed in its frequency entry.
+**Increased Duration** : Increase the duration of the poison by 1_dir/2 the amount listed in its frequency entry.
 
 **Increased DC** : Increase the poison's duration by +2.
 
-These increases are cumulative (a third dose adds another 1/2 of the frequency to the duration and +2 to the DC, and so on). When affected by multiple doses of the same poison, you only make one saving throw at this higher DC when required by the frequency, rather than one saving throw against each dose of the poison.
+These increases are cumulative (a third dose adds another 1_dir/2 of the frequency to the duration and +2 to the DC, and so on). When affected by multiple doses of the same poison, you only make one saving throw at this higher DC when required by the frequency, rather than one saving throw against each dose of the poison.
 
 Multiple doses do not alter the Cure condition of the Poison, and meeting that Cure condition ends all doses of the poison.
 
@@ -44,48 +44,48 @@ Doses from different poisons (such as an assassin with greenblood oil on his dag
 
 ## Crafting Poison
 
-You can make poison with the [Craft](skill_dir/craft#_craft) (alchemy) skill. The DC to make a poison is equal to its Fortitude save DC. Rolling a natural 1 on a [Craft](skills/craft#_craft) skill check while making a poison exposes you to the poison. This does not consume the poison. If you have the poison use class feature, you do not risk accidentally poisoning yourself when applying poison.
+You can make poison with the [Craft](skills_dir/craft#_craft) (alchemy) skill. The DC to make a poison is equal to its Fortitude save DC. Rolling a natural 1 on a [Craft](skills_dir/craft#_craft) skill check while making a poison exposes you to the poison. This does not consume the poison. If you have the poison use class feature, you do not risk accidentally poisoning yourself when applying poison.
 
 The sample poisons on the next page represent just some of the common poisons available in cities. Of course, most cities have laws against buying, selling, or crafting poison.
 
 [Poisons]
 | Poison | Type | Fort DC | Onset | Frequency | Effect | Cure | Price |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Black lotus extract | Contact | 20 | 1 min. | 1/rd. for 6 rds. | 1d6 Con | 2 saves | 4,500 gp |
-| Dragon bile | Contact | 26 | — | 1/rd. for 6 rds. | 1d3 Str | — | 1,500 gp |
-| Malyass root paste | Contact | 16 | 1 min. | 1/min. for 6 min. | 1d2 Dex | 1 save | 250 gp |
-| Nitharit | Contact | 13 | 1 min. | 1/min. for 6 min. | 1d3 Con | 1 save | 650 gp |
-| Sassone leaf residue | Contact | 16 | 1 min. | 1/min. for 6 min. | 2d12 h_dir/1 Con | 1 save | 300 gp |
-| Tears of death | Contact | 22 | 1 min. | 1/min. for 6 min. | 1d6 Con and paralyzed 1 min. | — | 6,500 gp |
-| Terinav root | Contact | 16 | 1 min. | 1/min. for 6 min. | 1d3 Dex | 1 save | 400 gp |
-| Arsenic | Ingested | 13 | 10 min. | 1/min. for 4 min. | 1d2 Con | 1 save | 120 gp |
-| Belladonna | Ingested | 14 | 10 min. | 1/min. for 6 min. | 1d2 Str, see text | 1 save | 100 gp |
-| Dark reaver powder | Ingested | 18 | 10 min. | 1/min. for 6 min. | 1d3 Con and 1 Str | 2 saves | 800 gp |
-| Hemlock | Ingested | 18 | 10 min. | 1/min. for 6 min. | 1d6 Dex, see text | 2 saves | 2,500 gp |
-| Id moss | Ingested | 14 | 10 min. | 1/min. for 6 min. | 1d3 Int | 1 save | 125 gp |
-| Indigo dreams | Ingested | 13 | 10 min. | 1/min. for 6 min. | 1d3 Wis | 2 saves | 150 gp |
-| King's sleep | Ingested | 19 | 1 day | 1/day | 1 Con drain | 2 saves | 5,000 gp |
-| Lich dust | Ingested | 17 | 10 min. | 1/min. for 6 min. | 1d3 Str | 2 saves | 400 gp |
+| Black lotus extract | Contact | 20 | 1 min. | 1_dir/rd. for 6 rds. | 1d6 Con | 2 saves | 4,500 gp |
+| Dragon bile | Contact | 26 | — | 1_dir/rd. for 6 rds. | 1d3 Str | — | 1,500 gp |
+| Malyass root paste | Contact | 16 | 1 min. | 1_dir/min. for 6 min. | 1d2 Dex | 1 save | 250 gp |
+| Nitharit | Contact | 13 | 1 min. | 1_dir/min. for 6 min. | 1d3 Con | 1 save | 650 gp |
+| Sassone leaf residue | Contact | 16 | 1 min. | 1_dir/min. for 6 min. | 2d12 hp_dir/1 Con | 1 save | 300 gp |
+| Tears of death | Contact | 22 | 1 min. | 1_dir/min. for 6 min. | 1d6 Con and paralyzed 1 min. | — | 6,500 gp |
+| Terinav root | Contact | 16 | 1 min. | 1_dir/min. for 6 min. | 1d3 Dex | 1 save | 400 gp |
+| Arsenic | Ingested | 13 | 10 min. | 1_dir/min. for 4 min. | 1d2 Con | 1 save | 120 gp |
+| Belladonna | Ingested | 14 | 10 min. | 1_dir/min. for 6 min. | 1d2 Str, see text | 1 save | 100 gp |
+| Dark reaver powder | Ingested | 18 | 10 min. | 1_dir/min. for 6 min. | 1d3 Con and 1 Str | 2 saves | 800 gp |
+| Hemlock | Ingested | 18 | 10 min. | 1_dir/min. for 6 min. | 1d6 Dex, see text | 2 saves | 2,500 gp |
+| Id moss | Ingested | 14 | 10 min. | 1_dir/min. for 6 min. | 1d3 Int | 1 save | 125 gp |
+| Indigo dreams | Ingested | 13 | 10 min. | 1_dir/min. for 6 min. | 1d3 Wis | 2 saves | 150 gp |
+| King's sleep | Ingested | 19 | 1 day | 1_dir/day | 1 Con drain | 2 saves | 5,000 gp |
+| Lich dust | Ingested | 17 | 10 min. | 1_dir/min. for 6 min. | 1d3 Str | 2 saves | 400 gp |
 | Oil of taggit | Ingested | 15 | 1 min. | — | Unconscious 1d3 hrs. | 1 save | 90 gp |
-| Striped toadstool | Ingested | 11 | 10 min. | 1/min. for 4 min. | 1d3 Wis and 1 Int | 1 save | 180 gp |
-| Swampseer poison | Ingested | 18 | 10 min. | 1/min. for 3 min. | 1d4 Wi_dir/1d2 Wis and confusion 1 min. | 2 saves | 400 gp |
-| Wolfsbane | Ingested | 16 | 10 min. | 1/min. for 6 min. | 1d3 Con | 1 save | 500 gp |
-| Azure lily pollen | Inhaled | 15 | — | 1/min. for 2 min. | nauseated 1 min./paralyzed 2d4 hrs. | 1 save | 1,500 gp |
-| Burnt othur fumes | Inhaled | 18 | — | 1/rd. for 6 rds. | 1 Con drai_dir/1d3 Con | 2 saves | 2,100 gp |
-| Insanity mist | Inhaled | 15 | — | 1/rd. for 6 rds. | 1d3 Wis | 1 save | 1,500 gp |
-| Nightmare vapor | Inhaled | 20 | — | 1/rd. for 6 rds. | 1 Wis and confused 1 rd. | 2 saves | 1,800 gp |
-| Ungol dust | Inhaled | 15 | — | 1/rd. for 4 rds. | 1 Cha drai_dir/1d2 Cha | 1 save | 1,000 gp |
-| Black adder venom | Injury | 11 | — | 1/rd. for 6 rds. | 1d2 Con | 1 save | 120 gp |
-| Bloodroot | Injury | 12 | 1 rd. | 1/rd. for 4 rds. | 1 Con and 1 Wis and confusion 1 rd. | 1 save | 100 gp |
-| Blue whinnis | Injury | 14 | — | 1/rd. for 2 rds. | 1 Co_dir/unconscious 1d3 hrs. | 1 save | 120 gp |
-| Deathblade | Injury | 20 | — | 1/rd. for 6 rds. | 1d3 Con | 2 saves | 1,800 gp |
-| Drow poison | Injury | 13 | — | 1/min. for 2 min. | Unconscious 1 min./2d4 hrs. | 1 save | 75 gp |
-| Giant wasp poison | Injury | 18 | — | 1/rd. for 6 rds. | 1d2 Dex | 1 save | 210 gp |
-| Greenblood oil | Injury | 13 | — | 1/rd. for 4 rds. | 1 Con | 1 save | 100 gp |
-| Large scorpion venom | Injury | 17 | — | 1/rd. for 6 rds. | 1d2 Str | 1 save | 200 gp |
-| Medium spider venom | Injury | 14 | — | 1/rd. for 4 rds. | 1d2 Str | 1 save | 150 gp |
-| Purple worm poison | Injury | 24 | — | 1/rd. for 6 rds. | 1d3 Str | 2 saves | 700 gp |
-| Shadow essence | Injury | 17 | — | 1/rd. for 6 rds. | 1 Str drai_dir/1d2 Str | 1 save | 250 gp |
-| Small centipede poison | Injury | 11 | — | 1/rd. for 4 rds. | 1 Dex | 1 save | 90 gp |
-| Wyvern poison | Injury | 17 | — | 1/rd. for 6 rds. | 1d4 Con | 2 saves | 3,000 gp |
+| Striped toadstool | Ingested | 11 | 10 min. | 1_dir/min. for 4 min. | 1d3 Wis and 1 Int | 1 save | 180 gp |
+| Swampseer poison | Ingested | 18 | 10 min. | 1_dir/min. for 3 min. | 1d4 Wis_dir/1d2 Wis and confusion 1 min. | 2 saves | 400 gp |
+| Wolfsbane | Ingested | 16 | 10 min. | 1_dir/min. for 6 min. | 1d3 Con | 1 save | 500 gp |
+| Azure lily pollen | Inhaled | 15 | — | 1_dir/min. for 2 min. | nauseated 1 min._dir/paralyzed 2d4 hrs. | 1 save | 1,500 gp |
+| Burnt othur fumes | Inhaled | 18 | — | 1_dir/rd. for 6 rds. | 1 Con drain_dir/1d3 Con | 2 saves | 2,100 gp |
+| Insanity mist | Inhaled | 15 | — | 1_dir/rd. for 6 rds. | 1d3 Wis | 1 save | 1,500 gp |
+| Nightmare vapor | Inhaled | 20 | — | 1_dir/rd. for 6 rds. | 1 Wis and confused 1 rd. | 2 saves | 1,800 gp |
+| Ungol dust | Inhaled | 15 | — | 1_dir/rd. for 4 rds. | 1 Cha drain_dir/1d2 Cha | 1 save | 1,000 gp |
+| Black adder venom | Injury | 11 | — | 1_dir/rd. for 6 rds. | 1d2 Con | 1 save | 120 gp |
+| Bloodroot | Injury | 12 | 1 rd. | 1_dir/rd. for 4 rds. | 1 Con and 1 Wis and confusion 1 rd. | 1 save | 100 gp |
+| Blue whinnis | Injury | 14 | — | 1_dir/rd. for 2 rds. | 1 Con_dir/unconscious 1d3 hrs. | 1 save | 120 gp |
+| Deathblade | Injury | 20 | — | 1_dir/rd. for 6 rds. | 1d3 Con | 2 saves | 1,800 gp |
+| Drow poison | Injury | 13 | — | 1_dir/min. for 2 min. | Unconscious 1 min._dir/2d4 hrs. | 1 save | 75 gp |
+| Giant wasp poison | Injury | 18 | — | 1_dir/rd. for 6 rds. | 1d2 Dex | 1 save | 210 gp |
+| Greenblood oil | Injury | 13 | — | 1_dir/rd. for 4 rds. | 1 Con | 1 save | 100 gp |
+| Large scorpion venom | Injury | 17 | — | 1_dir/rd. for 6 rds. | 1d2 Str | 1 save | 200 gp |
+| Medium spider venom | Injury | 14 | — | 1_dir/rd. for 4 rds. | 1d2 Str | 1 save | 150 gp |
+| Purple worm poison | Injury | 24 | — | 1_dir/rd. for 6 rds. | 1d3 Str | 2 saves | 700 gp |
+| Shadow essence | Injury | 17 | — | 1_dir/rd. for 6 rds. | 1 Str drain_dir/1d2 Str | 1 save | 250 gp |
+| Small centipede poison | Injury | 11 | — | 1_dir/rd. for 4 rds. | 1 Dex | 1 save | 90 gp |
+| Wyvern poison | Injury | 17 | — | 1_dir/rd. for 6 rds. | 1d4 Con | 2 saves | 3,000 gp |
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/fogCloud
+title: mythicAdventures_dir/mythicSpells_dir/fogCloud
 ---
 Fog Cloud
 
-**Source** [_fog cloud_](spell_dir/fogCloud)
+**Source** [_fog cloud_](spells_dir/fogCloud)
 
 The radius of the fog increases to 50 feet.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/ultimateMagicWordsOfPower
+title: ultimateMagic_dir/ultimateMagicWordsOfPower
 ---
 # Words of Power
 
@@ -12,7 +12,7 @@ Words of power are an optional subsystem for the Pathfinder Roleplaying Game. Be
 
 ## Words of Power - Types
 
-[Effect Words](wordsOfPower/effectWords) | [Class Word Lists](wordsOfPowe_dir/classWordLists) | [Meta Words](wordsOfPower/metaWords) | [Target Words](wordsOfPowe_dir/targetWords)
+[Effect Words](wordsOfPower_dir/effectWords) | [Class Word Lists](wordsOfPower_dir/classWordLists) | [Meta Words](wordsOfPower_dir/metaWords) | [Target Words](wordsOfPower_dir/targetWords)
 
 ## Becoming a Wordcaster
 
@@ -60,7 +60,7 @@ Some classes interact with these rules a little differently from the others. Fro
 
 **Wizards** : A wizard who belongs to an arcane school receives an additional spell slot of each level to prepare a wordspell of his chosen school. Such wordspells may only contain effect words from his chosen school. The wizard must also select two other schools to act as his opposition schools. He can prepare word spells using effect words from these schools, but each such spell fills two of his slots as normal.
 
-**Multiclassing** : Multiclass wordcasters must keep their words separate for each class. A multiclass cleric/wizard cannot use her cleric words with wizard spells, or vice versa.
+**Multiclassing** : Multiclass wordcasters must keep their words separate for each class. A multiclass cleric_dir/wizard cannot use her cleric words with wizard spells, or vice versa.
 
 ## Arranging Words of Power
 
@@ -70,13 +70,13 @@ If a wordcaster belongs to a class that prepares spells, he must arrange his wor
 
 Each wordspell is made up of an arrangement of two or more words of power, including one target word, one or more effect words, and possibly a number of meta words.
 
-[**Target Word**](wordsOfPowe_dir/targetwords): This word determines the range of a wordspell, how the wordspell manifests, and what it can affect. If the wordspell has an area, it affects every creature in the area defined by the target word. If it has targets, it affects the specific targets described by its word. A wordspell can have only one target word.
+[**Target Word**](wordsOfPower_dir/targetwords): This word determines the range of a wordspell, how the wordspell manifests, and what it can affect. If the wordspell has an area, it affects every creature in the area defined by the target word. If it has targets, it affects the specific targets described by its word. A wordspell can have only one target word.
 
-[**Effect Word**](wordsOfPower/effectwords): Effect words determine what effect a wordspell has when cast. They also determine the schools of the wordspell and its duration, saving throw, and spell resistance, if any. A wordspell can have more than one effect word, even ones from different schools of magic. In this case, the spell counts as both schools of magic. The maximum level of the effect words contained within a wordspell depends on the level of the spell slot used and the number of words arranged in the wordspell, as noted in the Effect Word Combinations table below. For example, a 5th-level wordspell might include one 5th-level effect word, two 3rd-level effect words, or three 2nd-level effect words. Alternatively, the wordspell might include one 4th-level effect word and one 2nd-level effect word, or one 3rd level effect word and two 1st-level effect words.
+[**Effect Word**](wordsOfPower_dir/effectwords): Effect words determine what effect a wordspell has when cast. They also determine the schools of the wordspell and its duration, saving throw, and spell resistance, if any. A wordspell can have more than one effect word, even ones from different schools of magic. In this case, the spell counts as both schools of magic. The maximum level of the effect words contained within a wordspell depends on the level of the spell slot used and the number of words arranged in the wordspell, as noted in the Effect Word Combinations table below. For example, a 5th-level wordspell might include one 5th-level effect word, two 3rd-level effect words, or three 2nd-level effect words. Alternatively, the wordspell might include one 4th-level effect word and one 2nd-level effect word, or one 3rd level effect word and two 1st-level effect words.
 
 Effect words are split into groups of similar words. A wordspell typically cannot have more than one effect word from the same group, but there are exceptions. A wordspell can have more than one effect word from the Detection group, but cannot have a wordspell with an effect word from the Detection group and an effect word from any other group.
 
-[**Meta Word**](wordsOfPowe_dir/metawords): This word modifies the wordspell in some way, often by increasing either its duration, range, or components. It can also boost certain target or effect words, changing the wordspell's overall effect. Unlike with other words, a wordcaster can only use meta words a number of times per day equal to half his caster level in his wordcasting class (minimum 1). A wordspell does not need to contain a meta word.
+[**Meta Word**](wordsOfPower_dir/metawords): This word modifies the wordspell in some way, often by increasing either its duration, range, or components. It can also boost certain target or effect words, changing the wordspell's overall effect. Unlike with other words, a wordcaster can only use meta words a number of times per day equal to half his caster level in his wordcasting class (minimum 1). A wordspell does not need to contain a meta word.
 
 A wordspell can have multiple meta words arranged within it so long as each target word and each effect word are modified by only one meta word apiece. For example, a wordspell arranged with two effect words could have up to three meta words, so long as each meta word modifies a different target and effect word.
 
@@ -85,14 +85,14 @@ A wordspell can have multiple meta words arranged within it so long as each targ
 | --- | --- | --- | --- |
 | 0 | 0 | — | — |
 | 1st | 1 | — | — |
-| 2nd | 2 | 0/0 | — |
-| 3rd | 3 | 1/1 or 2/0 | 0/0/0 |
-| 4th | 4 | 2/2 or 3/1 | 1/1/1 or 2/0/0 |
-| 5th | 5 | 3/3 or 4/2 | 2/2/2 or 3/1/1 |
-| 6th | 6 | 4/4 or 5/3 | 3/3/3 or 4/2/2 |
-| 7th | 7 | 5/5 or 6/4 | 4/4/4 or 5/3/3 |
-| 8th | 8 | 6/6 or 7/5 | 5/5/5 or 6/4/4 |
-| 9th | 9 | 7/7 or 8/5 | 6/6/6 or 7/5/5 |
+| 2nd | 2 | 0_dir/0 | — |
+| 3rd | 3 | 1_dir/1 or 2_dir/0 | 0_dir/0_dir/0 |
+| 4th | 4 | 2_dir/2 or 3_dir/1 | 1_dir/1_dir/1 or 2_dir/0_dir/0 |
+| 5th | 5 | 3_dir/3 or 4_dir/2 | 2_dir/2_dir/2 or 3_dir/1_dir/1 |
+| 6th | 6 | 4_dir/4 or 5_dir/3 | 3_dir/3_dir/3 or 4_dir/2_dir/2 |
+| 7th | 7 | 5_dir/5 or 6_dir/4 | 4_dir/4_dir/4 or 5_dir/3_dir/3 |
+| 8th | 8 | 6_dir/6 or 7_dir/5 | 5_dir/5_dir/5 or 6_dir/4_dir/4 |
+| 9th | 9 | 7_dir/7 or 8_dir/5 | 6_dir/6_dir/6 or 7_dir/5_dir/5 |
 
   
   
@@ -109,9 +109,9 @@ Casting a wordspell is almost exactly the same as casting an ordinary spell. A w
 
 There are two major differences to casting a wordspell: counterspelling and schools.
 
-**Counterspelling Wordspells** : If a wordcaster is attempting to counter another wordspell, she can make a [Spellcraft](skill_dir/spellcraft#_spellcraft) skill check as normal to identify the wordspell as it is being cast and then cast an identical wordspell to counter it. This means that the opposing wordcaster must know all of the effect words of the wordspell and either have an identical wordspell prepared or have an available spell slot of an equal or higher level. If the wordspell contains multiple effect words, but the opposing caster only knows one of the words (or only has a wordspell with one of the effect words prepared), that caster can still attempt to counter the wordspell, but this functions as if using _ [dispel magic](spells/dispelMagic#_dispel-magic)_ and does not come with the guarantee of success. The opposing caster must make a dispel check to counter the wordspell. She must still expend a spell of the same or higher level containing at least one word of the wordspell to be countered.
+**Counterspelling Wordspells** : If a wordcaster is attempting to counter another wordspell, she can make a [Spellcraft](skills_dir/spellcraft#_spellcraft) skill check as normal to identify the wordspell as it is being cast and then cast an identical wordspell to counter it. This means that the opposing wordcaster must know all of the effect words of the wordspell and either have an identical wordspell prepared or have an available spell slot of an equal or higher level. If the wordspell contains multiple effect words, but the opposing caster only knows one of the words (or only has a wordspell with one of the effect words prepared), that caster can still attempt to counter the wordspell, but this functions as if using _ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_ and does not come with the guarantee of success. The opposing caster must make a dispel check to counter the wordspell. She must still expend a spell of the same or higher level containing at least one word of the wordspell to be countered.
 
-If a wordcaster is attempting to counter the spell of a normal spellcaster, she must make a [Spellcraft](skill_dir/spellcraft#_spellcraft) skill check to identify the school of the spell being cast. She can then counter that spell using any wordspell so long as it is of an equal or higher level than the spell being cast and contains at least one effect word of the same school as the spell. This works like a _ [dispel magic](spells/dispelMagic#_dispel-magic)_ counterspell attempt, and the wordcaster must make a dispel check to counter the spell. If a spellcaster attempts to counter a wordspell, she must use a spell of an equal or higher level that is of the same school as one or more of the effect words in the wordspell being cast. This too works like a _ [dispel magic](spell_dir/dispelMagic#_dispel-magic) _counterspell attempt, and the spellcaster must make a dispel check to counter the wordspell.
+If a wordcaster is attempting to counter the spell of a normal spellcaster, she must make a [Spellcraft](skills_dir/spellcraft#_spellcraft) skill check to identify the school of the spell being cast. She can then counter that spell using any wordspell so long as it is of an equal or higher level than the spell being cast and contains at least one effect word of the same school as the spell. This works like a _ [dispel magic](spells_dir/dispelMagic#_dispel-magic)_ counterspell attempt, and the wordcaster must make a dispel check to counter the spell. If a spellcaster attempts to counter a wordspell, she must use a spell of an equal or higher level that is of the same school as one or more of the effect words in the wordspell being cast. This too works like a _ [dispel magic](spells_dir/dispelMagic#_dispel-magic) _counterspell attempt, and the spellcaster must make a dispel check to counter the wordspell.
 
 **Wordspell Schools** : If a wordspell has more than one effect word, it can belong to more than one school, although it never benefits from effects based on school (such as [Spell Focus](feats#_spell-focus)) more than once. It can take penalties based on school more than once; for example, if a target has a bonus on saving throws against necromancy and illusion spells, that character would add both bonuses on the saving throw if the wordspell is of both schools.
 
@@ -135,9 +135,9 @@ Wands cannot contain wordspells higher than 4th level. Scrolls can hold wordspel
 
 To help explain these rules, the following section includes a number of sample wordspells that could be created using the words of power system.
 
-**Burst Fire Blast (magus 3, sorcerer/wizard 3)** : This simple wordspell does 1d6 points of fire damage per caster level (maximum 10d6) to anything caught in a 10-foot-radius burst. If the wordcaster boosts the target word, this wordspell more closely resembles _ [fireball](spell_dir/fireball#_fireball)_, dealing damage in a 20-foot-radius burst. The targets receive a Reflex saving throw to halve the damage.
+**Burst Fire Blast (magus 3, sorcerer_dir/wizard 3)** : This simple wordspell does 1d6 points of fire damage per caster level (maximum 10d6) to anything caught in a 10-foot-radius burst. If the wordcaster boosts the target word, this wordspell more closely resembles _ [fireball](spells_dir/fireball#_fireball)_, dealing damage in a 20-foot-radius burst. The targets receive a Reflex saving throw to halve the damage.
 
-**Selected Ice Blast Life Leech (magus 6, sorcerer/wizard 6, witch 6)** : This wordspell causes the target to take 10d6 points of cold damage and 1d4 temporary negative levels, and to become entangled for 1d4 rounds. The target receives either a Fortitude save or a Reflex save, chosen by the caster. If the save is successful, the target takes half the cold damage, takes no negative levels, and is not entangled. A sorcerer, witch, or wizard can boost the target word to make this spell affect multiple targets, but doing so increases the spell's overall level to 9th.
+**Selected Ice Blast Life Leech (magus 6, sorcerer_dir/wizard 6, witch 6)** : This wordspell causes the target to take 10d6 points of cold damage and 1d4 temporary negative levels, and to become entangled for 1d4 rounds. The target receives either a Fortitude save or a Reflex save, chosen by the caster. If the save is successful, the target takes half the cold damage, takes no negative levels, and is not entangled. A sorcerer, witch, or wizard can boost the target word to make this spell affect multiple targets, but doing so increases the spell's overall level to 9th.
 
 **Selected Alignment Shield Enhance Form Grave Bane (cleric 6)** : This wordspell grants the target a number of bonuses. First, it grants the target a +2 bonus to AC and on saving throws when it is attacked by creatures of one alignment type (chosen by the wordcaster). The wordspell also grants a +4 enhancement bonus to Strength, Dexterity, or Constitution (chosen by the wordcaster). Finally, the wordspell grants an additional +4 sacred bonus on saving throws made against death spells and death magic effects; the subject cannot gain negative levels while this wordspell is in effect, and the target is automatically stabilized if brought below 0 hit points. All of these effects last for 1 round per level, as that is the duration of the effect word with the shortest duration. Note that alignment shield is only 1st level, and could be replaced with a 2nd-level effect word without changing the overall level of the spell.
 

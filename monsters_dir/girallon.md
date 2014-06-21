@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/girallon
+title: monsters_dir/girallon
 ---
 # Girallon
 
@@ -12,7 +12,7 @@ _This four-armed, gorilla-like creature, covered with matted white fur, roars in
 
 N Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +11
+**Init** +7; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +11
 
 **Defense**
 
@@ -38,9 +38,9 @@ N Large [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +7; **CMB** +12; **CMD** 25
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Toughness](../feats#_toughness)
 
-**Skills** [Climb](../skill_dir/climb#_climb) +12, [Perception](../skill_dir/perception#_perception) +11, [Stealth](../skill_dir/stealth#_stealth) +5
+**Skills** [Climb](../skills_dir/climb#_climb) +12, [Perception](../skills_dir/perception#_perception) +11, [Stealth](../skills_dir/stealth#_stealth) +5
 
 **Ecology**
 

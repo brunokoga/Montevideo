@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/roper
+title: monsters_dir/roper
 ---
 # Roper
 
@@ -12,7 +12,7 @@ _A huge eye opens in this conical creature's front, just above a toothy mouth. L
 
 CE Large [aberration](creatureTypes#_aberration)
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +24
+**Init** +5; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +24
 
 **Defense**
 
@@ -30,7 +30,7 @@ CE Large [aberration](creatureTypes#_aberration)
 
 **Speed** 10 ft.
 
-**Melee** bite +20 (4d8+18/19–20)
+**Melee** bite +20 (4d8+18_dir/19–20)
 
 **Ranged** 6 strands +10 touch (1d6 Strength)
 
@@ -44,9 +44,9 @@ CE Large [aberration](creatureTypes#_aberration)
 
 **Base Atk** +9; **CMB** +22; **CMD** 33 (can't be tripped)
 
-**Feats** [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Stealth](../skill_dir/stealth#_stealth)), [Weapon Focus](../feats#_weapon-focus) (strand)
+**Feats** [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception), [Stealth](../skills_dir/stealth#_stealth)), [Weapon Focus](../feats#_weapon-focus) (strand)
 
-**Skills** [Climb](../skill_dir/climb#_climb) +27, [Knowledge](../skill_dir/knowledge#_knowledge) (dungeoneering) +16, [Knowledge](../skill_dir/knowledge#_knowledge) (religion) +13, [Perception](../skill_dir/perception#_perception) +24, [Stealth](../skill_dir/stealth#_stealth) +18 (+26 in stony or icy areas); **Racial Modifiers** +8 [Stealth](../skill_dir/stealth#_stealth) in stony or icy areas
+**Skills** [Climb](../skills_dir/climb#_climb) +27, [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) +16, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +13, [Perception](../skills_dir/perception#_perception) +24, [Stealth](../skills_dir/stealth#_stealth) +18 (+26 in stony or icy areas); **Racial Modifiers** +8 [Stealth](../skills_dir/stealth#_stealth) in stony or icy areas
 
 **Languages** Aklo, Undercommon
 

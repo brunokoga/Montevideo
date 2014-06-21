@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/manananggal
+title: bestiary3_dir/manananggal
 ---
 # Manananggal
 
@@ -12,7 +12,7 @@ XP 3,200
 
 CE Medium undead
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](skill_dir/perception#_perception) +16
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills_dir/perception#_perception) +16
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +7, **Ref** +8, **Will** +10
 
-**DR** 10/good or silver; **Immune** undead traits
+**DR** 10_dir/good or silver; **Immune** undead traits
 
 **Weaknesses** light sensitivity, vulnerable to light blades
 
@@ -30,15 +30,15 @@ Offense
 
 **Speed** 30 ft., fly 100 ft. (good)
 
-**Melee** bite +11 (1d8+4), 2 claws +12 (1d8+4 plus [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** bite +11 (1d8+4), 2 claws +12 (1d8+4 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
-**Special Attacks** [blood drain](monsters/universalMonsterRules#_blood-drain) (1d2 Constitution)
+**Special Attacks** [blood drain](monsters_dir/universalMonsterRules#_blood-drain) (1d2 Constitution)
 
 **Spell-Like Abilities** (CL 9th; concentration +13)
 
-At will—_ [bleed](spell_dir/bleed#_bleed)_ (DC 14), _ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [touch of fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue)_ (DC 14)
+At will—_ [bleed](spells_dir/bleed#_bleed)_ (DC 14), _ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [touch of fatigue](spells_dir/touchOfFatigue#_touch-of-fatigue)_ (DC 14)
 
-3/day—_ [darkness](spell_dir/darkness#_darkness)_, _ [deep slumber](spells/deepSlumber#_deep-slumber)_ (DC 17), _ [fear](spell_dir/fear#_fear)_ (DC 18)
+3_dir/day—_ [darkness](spells_dir/darkness#_darkness)_, _ [deep slumber](spells_dir/deepSlumber#_deep-slumber)_ (DC 17), _ [fear](spells_dir/fear#_fear)_ (DC 18)
 
 Statistics
 
@@ -46,9 +46,9 @@ Statistics
 
 **Base Atk** +7; **CMB** +11 (+15 grapple); **CMD** 25
 
-**Feats** [Deceitful](feats#_deceitful), [Dodge](feats#_dodge), [Flyby Attack](monsters/monsterFeats#_flyby-attack), [Lightning Reflexes](feats#_lightning-reflexes), [Weapon Focus](feats#_weapon-focus) (claws)
+**Feats** [Deceitful](feats#_deceitful), [Dodge](feats#_dodge), [Flyby Attack](monsters_dir/monsterFeats#_flyby-attack), [Lightning Reflexes](feats#_lightning-reflexes), [Weapon Focus](feats#_weapon-focus) (claws)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff) +18, [Disguise](skills/disguise#_disguise) +21, [Fly](skill_dir/fly#_fly) +16, [Knowledge](skills/knowledge#_knowledge) (religion) +11, [Perception](skill_dir/perception#_perception) +16, [Sense Motive](skills/senseMotive#_sense-motive) +11, [Spellcraft](skill_dir/spellcraft#_spellcraft) +6
+**Skills** [Bluff](skills_dir/bluff#_bluff) +18, [Disguise](skills_dir/disguise#_disguise) +21, [Fly](skills_dir/fly#_fly) +16, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +11, [Perception](skills_dir/perception#_perception) +16, [Sense Motive](skills_dir/senseMotive#_sense-motive) +11, [Spellcraft](skills_dir/spellcraft#_spellcraft) +6
 
 **Languages** Abyssal, Common
 
@@ -64,7 +64,7 @@ Ecology
 
 Special Abilities
 
-**Separate (Su)** During the day, a manananggal looks like a living [human](monsters/creatureTypes#_human-subtype) woman. She does not detect as undead during the day, but is still an undead creature. At night, her upper torso rips away (this is a full round action that occurs at sunset), leaving her lower torso behind. Her lower torso is helpless, but her upper torso gains its fly speed and natural attacks at this time. The upper and lower portions share the same pool of hit points (despite any intervening distance), and if the helpless lower portion is damaged, the manananggal is immediately aware of the attack. Since manananggals can be destroyed by damage to their lower bodies, they prefer to hide their lower torsos when separated. A manananggal must return to its lower torso and reattach to it (a full-round action) within the hour before sunrise—each round a manananggal remains separated after sunrise, it takes 1d6 points of damage until it rejoins its lower torso or it crumbles into dust.
+**Separate (Su)** During the day, a manananggal looks like a living [human](monsters_dir/creatureTypes#_human-subtype) woman. She does not detect as undead during the day, but is still an undead creature. At night, her upper torso rips away (this is a full round action that occurs at sunset), leaving her lower torso behind. Her lower torso is helpless, but her upper torso gains its fly speed and natural attacks at this time. The upper and lower portions share the same pool of hit points (despite any intervening distance), and if the helpless lower portion is damaged, the manananggal is immediately aware of the attack. Since manananggals can be destroyed by damage to their lower bodies, they prefer to hide their lower torsos when separated. A manananggal must return to its lower torso and reattach to it (a full-round action) within the hour before sunrise—each round a manananggal remains separated after sunrise, it takes 1d6 points of damage until it rejoins its lower torso or it crumbles into dust.
 
 **Vulnerable to Light Blades (Ex):** Light blades (such as daggers, kamas, kukris, rapiers, short swords, sickles, and starknives) deal double the weapon's base damage on a successful hit against a manananggal.
 

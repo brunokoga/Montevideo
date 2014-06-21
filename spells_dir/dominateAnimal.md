@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/dominateAnimal
+title: spells_dir/dominateAnimal
 ---
  **Dominate Animal**
 
@@ -10,11 +10,11 @@ title: spell_dir/dominateAnimal
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one animal
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

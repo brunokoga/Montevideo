@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/rayOfExhaustion
+title: spells_dir/rayOfExhaustion
 ---
  **Ray of Exhaustion**
 
-**School** necromancy; **Level** sorcerer/wizard 3
+**School** necromancy; **Level** sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a drop of sweat)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** ray
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) partial; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

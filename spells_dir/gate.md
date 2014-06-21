@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/gate
+title: spells_dir/gate
 ---
  **Gate**
 
-**School** conjuration (creation or calling); **Level** cleric 9, sorcerer/wizard 9
+**School** conjuration (creation or calling); **Level** cleric 9, sorcerer_dir/wizard 9
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (see text)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Effect** see text
 
-**Duration** instantaneous or concentration (up to 1 roun_dir/level); see text
+**Duration** instantaneous or concentration (up to 1 round_dir/level); see text
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

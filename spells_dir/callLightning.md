@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/callLightning
+title: spells_dir/callLightning
 ---
  **Call Lightning**
 
@@ -10,11 +10,11 @@ title: spell_dir/callLightning
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Effect** one or more 30-ft.-long vertical lines of lightning
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Reflex](../combat#_reflex) half; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

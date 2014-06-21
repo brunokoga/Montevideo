@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/manticore
+title: monsters_dir/manticore
 ---
 # Manticore
 
@@ -12,7 +12,7 @@ _This creature has a vaguely humanoid head, the body of a lion, and the wings of
 
 LE Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +9
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +9
 
 **Defense**
 
@@ -40,7 +40,7 @@ LE Large [magical beast](creatureTypes#_magical-beast)
 
 **Feats** [Flyby Attack](monsterFeats#_flyby-attack), [Hover](monsterFeats#_hover), [Weapon Focus](../feats#_weapon-focus) (spikes)
 
-**Skills** [Fly](../skill_dir/fly#_fly) –3, [Perception](../skill_dir/perception#_perception) +9, [Survival](../skill_dir/survival#_survival) +4 (+8 tracking); **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception), +4 [Survival](../skill_dir/survival#_survival) when tracking
+**Skills** [Fly](../skills_dir/fly#_fly) –3, [Perception](../skills_dir/perception#_perception) +9, [Survival](../skills_dir/survival#_survival) +4 (+8 tracking); **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Survival](../skills_dir/survival#_survival) when tracking
 
 **Languages** Common
 

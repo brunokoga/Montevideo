@@ -1,18 +1,18 @@
 ---
 layout: default
-title: monster_dir/stirge
+title: monsters_dir/stirge
 ---
 # Stirge
 
 _This insectoid creature has two pairs of bat wings, a tangle of thin legs, and a needle-sharp proboscis._
 
-**Stirge CR 1/2**
+**Stirge CR 1_dir/2**
 
 **XP 200**
 
 N Tiny [magical beast](creatureTypes#_magical-beast)
 
-**Init** +4; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +1
+**Init** +4; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +1
 
 **Defense**
 
@@ -28,7 +28,7 @@ N Tiny [magical beast](creatureTypes#_magical-beast)
 
 **Melee** touch +7 (attach)
 
-**Space** 2-1/2 ft.; **Reach** 0 ft.
+**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
 
 **Special Attacks** blood drain
 
@@ -40,7 +40,7 @@ N Tiny [magical beast](creatureTypes#_magical-beast)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Fly](../skill_dir/fly#_fly) +8, [Stealth](../skill_dir/stealth#_stealth) +16
+**Skills** [Fly](../skills_dir/fly#_fly) +8, [Stealth](../skills_dir/stealth#_stealth) +16
 
 **SQ** diseased
 
@@ -54,7 +54,7 @@ N Tiny [magical beast](creatureTypes#_magical-beast)
 
 **Special Abilities**
 
-**Attach (Ex)** When a stirge hits with a touch attack, its barbed legs latch onto the target, anchoring it in place. An attached stirge is effectively grappling its prey. The stirge loses its Dexterity bonus to AC and has an AC of 12, but holds on with great tenacity and inserts its proboscis into the grappled target's flesh. A stirge has a +8 racial bonus to maintain its grapple on a foe once it is attached. An attached stirge can be struck with a weapon or grappled itself—if its prey manages to win a grapple check or [Escape Artist](../skill_dir/escapeArtist#_escape-artist) check against it, the stirge is removed.
+**Attach (Ex)** When a stirge hits with a touch attack, its barbed legs latch onto the target, anchoring it in place. An attached stirge is effectively grappling its prey. The stirge loses its Dexterity bonus to AC and has an AC of 12, but holds on with great tenacity and inserts its proboscis into the grappled target's flesh. A stirge has a +8 racial bonus to maintain its grapple on a foe once it is attached. An attached stirge can be struck with a weapon or grappled itself—if its prey manages to win a grapple check or [Escape Artist](../skills_dir/escapeArtist#_escape-artist) check against it, the stirge is removed.
 
 **Blood Drain (Ex)** A stirge drains blood at the end of its turn if it is attached to a foe, inflicting 1 point of Constitution [damage](universalMonsterRules#_ability-damage-and-drain). Once a stirge has dealt 4 points of Constitution [damage](universalMonsterRules#_ability-damage-and-drain), it detaches and flies off to digest the meal. If its victim dies before the stirge's appetite has been sated, the stirge detaches and seeks a new target.
 

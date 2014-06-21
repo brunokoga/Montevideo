@@ -1,12 +1,12 @@
 ---
 layout: default
-title: master_dir/nPCGallery/tavern
+title: mastery_dir/nPCGallery_dir/tavern
 ---
 # Tavern
 
 Amid the press of the crowd, the din of raised voices, and the music of clanking mugs bustle the patrons and proprietors of the local common house. Whether the staff of a sleepy village's inn and tavern, a shadowy city club, a feasting lord's longhouse, or any other place there's reason for celebration or ale to be poured, tavern denizens do more than serve, taking in all the best tales and gossip of a community and thoughtfully attending to the confessions of any with the coin to pay for another glass.
 
-**Barmaid CR 1/2**
+**Barmaid CR 1_dir/2**
 
 **XP 200**
 
@@ -14,7 +14,7 @@ Human commoner 2
 
 N Medium humanoid
 
-**Init** +1; **Senses** [Perception](../../skill_dir/perception#_perception) +4
+**Init** +1; **Senses** [Perception](../../skills_dir/perception#_perception) +4
 
 **Defense**
 
@@ -40,19 +40,19 @@ N Medium humanoid
 
 **Feats** [Catch Off-Guard](../../feats#_catch-off-guard), [Throw Anything](../../feats#_throw-anything)
 
-**Skills** [Perception](../../skill_dir/perception#_perception) +4, [Perform](../../skill_dir/perform#_perform) (dance) +3, [Profession](../../skill_dir/profession#_profession) (barmaid) +4, [Profession](../../skill_dir/profession#_profession) (cook) +3, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +2
+**Skills** [Perception](../../skills_dir/perception#_perception) +4, [Perform](../../skills_dir/perform#_perform) (dance) +3, [Profession](../../skills_dir/profession#_profession) (barmaid) +4, [Profession](../../skills_dir/profession#_profession) (cook) +3, [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand) +2
 
 **Languages** Common
 
 **Combat Gear** antitoxin (2); **Other Gear** serving tray or frying pan, drinking glasses (2 to 4)
 
-**Boon** A barmaid can get PCs a free round of drinks or whisper the local gossip (granting a +2 bonus on the PCs' next [Diplomacy](../../skill_dir/diplomacy#_diplomacy) check to gather information in that community).
+**Boon** A barmaid can get PCs a free round of drinks or whisper the local gossip (granting a +2 bonus on the PCs' next [Diplomacy](../../skills_dir/diplomacy#_diplomacy) check to gather information in that community).
 
 Barmaids are serving wenches, dancing girls, and even harried cooks in inns and taverns throughout the cities and towns of the world. Although usually young, some barmaids are older goodwives working in the family business.
 
-A barmaid might also be used as a farmer's, fisherman's, or shopkeep's wife, or any type of servant, whether in an inn or a noble's manor. Changing a barmaid's [Profession](../../skill_dir/profession#_profession) skills can create any type of servant needed. [Profession](../../skill_dir/profession#_profession) (courtesan) creates an inexperienced prostitute, or simply a serving girl who works in a brothel.
+A barmaid might also be used as a farmer's, fisherman's, or shopkeep's wife, or any type of servant, whether in an inn or a noble's manor. Changing a barmaid's [Profession](../../skills_dir/profession#_profession) skills can create any type of servant needed. [Profession](../../skills_dir/profession#_profession) (courtesan) creates an inexperienced prostitute, or simply a serving girl who works in a brothel.
 
-While skilled in improvised weapons, changing a barmaid's feats can create a servant with other useful skills. [Alertness](../../feats#_alertness) or [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skill_dir/perception#_perception)) makes a barmaid good at overhearing conversations, while a barmaid working in a dangerous dive might carry a concealed dagger and have the [Improved Unarmed Strike](../../feats#_improved-unarmed-strike) and [Weapon Finesse](../../feats#_weapon-finesse) feats.
+While skilled in improvised weapons, changing a barmaid's feats can create a servant with other useful skills. [Alertness](../../feats#_alertness) or [Skill Focus](../../feats#_skill-focus) ( [Perception](../../skills_dir/perception#_perception)) makes a barmaid good at overhearing conversations, while a barmaid working in a dangerous dive might carry a concealed dagger and have the [Improved Unarmed Strike](../../feats#_improved-unarmed-strike) and [Weapon Finesse](../../feats#_weapon-finesse) feats.
 
 A typical small tavern may have only a barkeep and a pair of barmaids (CR 4), while a large inn might have half a dozen barmaids serving the barkeep, with a street thug bouncer for protection (CR 6). A barmaid is often found in the company of a pair of farmers or shipmates (CR 2) or a noble scion (CR 3), or two barmaids might serve a pair of drunkards, street thugs, or vagabonds (CR 4).
 
@@ -60,11 +60,11 @@ A typical small tavern may have only a barkeep and a pair of barmaids (CR 4), wh
 
 **XP 400**
 
-Human commoner 1/warrior 2
+Human commoner 1_dir/warrior 2
 
 N Medium humanoid
 
-**Init** +0; **Senses** [Perception](../../skill_dir/perception#_perception) –1
+**Init** +0; **Senses** [Perception](../../skills_dir/perception#_perception) –1
 
 **Defense**
 
@@ -78,9 +78,9 @@ N Medium humanoid
 
 **Speed** 30 ft.
 
-**Melee** club +3 (1d6+1) or dagger +3 (1d4+1/19–20)
+**Melee** club +3 (1d6+1) or dagger +3 (1d4+1_dir/19–20)
 
-**Ranged** club +2 (1d6+1) or dagger +2 (1d4+1/19–20)
+**Ranged** club +2 (1d6+1) or dagger +2 (1d4+1_dir/19–20)
 
 **Statistics**
 
@@ -90,13 +90,13 @@ N Medium humanoid
 
 **Feats** [Great Fortitude](../../feats#_great-fortitude), [Improved Bull Rush](../../feats#_improved-bull-rush), [Power Attack](../../feats#_power-attack)
 
-**Skills** [Climb](../../skill_dir/climb#_climb) +5, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +4, [Intimidate](../../skill_dir/intimidate#_intimidate) +5, [Profession](../../skill_dir/profession#_profession) (choose one) +3, [Ride](../../skill_dir/ride#_ride) +4, [Swim](../../skill_dir/swim#_swim) +5
+**Skills** [Climb](../../skills_dir/climb#_climb) +5, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +4, [Intimidate](../../skills_dir/intimidate#_intimidate) +5, [Profession](../../skills_dir/profession#_profession) (choose one) +3, [Ride](../../skills_dir/ride#_ride) +4, [Swim](../../skills_dir/swim#_swim) +5
 
 **Languages** Common
 
 **Gear** leather armor, club, dagger, gallon jug of ale
 
-**Boon** A drunkard can be persuaded to make a loud, obnoxious disturbance as a distraction, imposing a –2 penalty on opposed [Perception](../../skill_dir/perception#_perception) checks (as against [Stealth](../../skill_dir/stealth#_stealth) or [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand)) for up to 1 minute for any NPCs who can see and hear him.
+**Boon** A drunkard can be persuaded to make a loud, obnoxious disturbance as a distraction, imposing a –2 penalty on opposed [Perception](../../skills_dir/perception#_perception) checks (as against [Stealth](../../skills_dir/stealth#_stealth) or [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand)) for up to 1 minute for any NPCs who can see and hear him.
 
 As ubiquitous as the barkeeps and serving wenches who serve them, drunkards may be found in almost every tavern in every town. Drunkards are wine-sodden louts who frequent pubs far too often, sousing away their meager earnings and often becoming surly and belligerent, especially against those from outside their home community. These are the men who leap up to start or join bar brawls, provided they're not passed out in the corner, sleeping off their latest binge.
 
@@ -108,11 +108,11 @@ A drunkard may be found alone, or a pair of down-on-their-luck drunkards might t
 
 **XP 800**
 
-Human expert 4/warrior 1
+Human expert 4_dir/warrior 1
 
 N Medium humanoid
 
-**Init** +0; **Senses** [Perception](../../skill_dir/perception#_perception) +10
+**Init** +0; **Senses** [Perception](../../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -126,9 +126,9 @@ N Medium humanoid
 
 **Speed** 30 ft.
 
-**Melee** sap +3 (1d6–1 nonlethal) or dagger +3 (1d4–1/19–20)
+**Melee** sap +3 (1d6–1 nonlethal) or dagger +3 (1d4–1_dir/19–20)
 
-**Ranged** mwk heavy crossbow +5 (1d10/19–20)
+**Ranged** mwk heavy crossbow +5 (1d10_dir/19–20)
 
 **Statistics**
 
@@ -136,21 +136,21 @@ N Medium humanoid
 
 **Base Atk** +4; **CMB** +3; **CMD** 13
 
-**Feats** [Great Fortitude](../../feats#_great-fortitude), [Quick Draw](../../feats#_quick-draw), [Rapid Reload](../../feats#_rapid-reload), [Skill Focus](../../feats#_skill-focus) ( [Profession](../../skill_dir/profession#_profession) [barkeep])
+**Feats** [Great Fortitude](../../feats#_great-fortitude), [Quick Draw](../../feats#_quick-draw), [Rapid Reload](../../feats#_rapid-reload), [Skill Focus](../../feats#_skill-focus) ( [Profession](../../skills_dir/profession#_profession) [barkeep])
 
-**Skills** [Bluff](../../skill_dir/bluff#_bluff) +8, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) +5, [Intimidate](../../skill_dir/intimidate#_intimidate) +5, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) +9, [Linguistics](../../skill_dir/linguistics#_linguistics) +6, [Perception](../../skill_dir/perception#_perception) +10, [Perform](../../skill_dir/perform#_perform) (comedy) +6, [Perform](../../skill_dir/perform#_perform) (oratory) +6, [Profession](../../skill_dir/profession#_profession) (barkeep) +13, [Ride](../../skill_dir/ride#_ride) +5, [Sense Motive](../../skill_dir/senseMotive#_sense-motive) +10, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand) +5
+**Skills** [Bluff](../../skills_dir/bluff#_bluff) +8, [Handle Animal](../../skills_dir/handleAnimal#_handle-animal) +5, [Intimidate](../../skills_dir/intimidate#_intimidate) +5, [Knowledge](../../skills_dir/knowledge#_knowledge) (local) +9, [Linguistics](../../skills_dir/linguistics#_linguistics) +6, [Perception](../../skills_dir/perception#_perception) +10, [Perform](../../skills_dir/perform#_perform) (comedy) +6, [Perform](../../skills_dir/perform#_perform) (oratory) +6, [Profession](../../skills_dir/profession#_profession) (barkeep) +13, [Ride](../../skills_dir/ride#_ride) +5, [Sense Motive](../../skills_dir/senseMotive#_sense-motive) +10, [Sleight of Hand](../../skills_dir/sleightOfHand#_sleight-of-hand) +5
 
 **Languages** Common, Dwarf, Halfling
 
-**Gear** _+1 leather armor_, masterwork heavy crossbow with 10 bolts and one _+1 human [bane](../../magicItem_dir/weapons#_weapons-bane) bolt_, dagger, sap
+**Gear** _+1 leather armor_, masterwork heavy crossbow with 10 bolts and one _+1 human [bane](../../magicItems_dir/weapons#_weapons-bane) bolt_, dagger, sap
 
-**Boon** A barkeep can arrange free room and board for PCs for up to a week. He can also share local rumors and customs with PCs, granting a +2 circumstance bonus on [Diplomacy](../../skill_dir/diplomacy#_diplomacy) and [Sense Motive](../../skill_dir/senseMotive#_sense-motive) checks in his community for 1 day.
+**Boon** A barkeep can arrange free room and board for PCs for up to a week. He can also share local rumors and customs with PCs, granting a +2 circumstance bonus on [Diplomacy](../../skills_dir/diplomacy#_diplomacy) and [Sense Motive](../../skills_dir/senseMotive#_sense-motive) checks in his community for 1 day.
 
 A barkeep is the proprietor of an alehouse, saloon, or tavern, often with an inn attached. While some are sly, weasel-like, and unfriendly, most are garrulous raconteurs, seeking to entertain their customers with a story or joke and keep them happy and drinking. With patrons from across the world visiting their taverns, most barkeeps know a smattering of other languages to communicate with foreigners from far-away lands.
 
 Barkeeps are used to trouble in their establishments, for drink often brings out the worst in their customers, and most barkeeps are used to facing down and intimidating drunks and bullies. For times when words fail, a good barkeep keeps a weapon beneath the bar, and is not afraid to use it.
 
-Changing a barkeep's [Profession](../../skill_dir/profession#_profession) skill to (innkeep) creates an innkeeper, possibly with [Diplomacy](../../skill_dir/diplomacy#_diplomacy) instead of [Intimidate](../../skill_dir/intimidate#_intimidate), and his [Perform](../../skill_dir/perform#_perform) skills changed to other [Profession](../../skill_dir/profession#_profession) skills, such as cook.
+Changing a barkeep's [Profession](../../skills_dir/profession#_profession) skill to (innkeep) creates an innkeeper, possibly with [Diplomacy](../../skills_dir/diplomacy#_diplomacy) instead of [Intimidate](../../skills_dir/intimidate#_intimidate), and his [Perform](../../skills_dir/perform#_perform) skills changed to other [Profession](../../skills_dir/profession#_profession) skills, such as cook.
 
 An average barkeep has four barmaids on staff, with two guards or street thugs working as bouncers (CR 6). A barkeep might also be found swapping stories over a pint with a shopkeep (CR 4) or guard officer (CR 5).
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/coldIceStrike
+title: ultimateMagic_dir/spells_dir/coldIceStrike
 ---
 Cold Ice Strike
 
-**School** evocation [cold]; **Level** cleric 6, sorcere_dir/wizard 6
+**School** evocation [cold]; **Level** cleric 6, sorcerer_dir/wizard 6
 
 **Casting Time** 1 swift action
 

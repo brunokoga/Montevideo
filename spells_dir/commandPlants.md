@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/commandPlants
+title: spells_dir/commandPlants
 ---
  **Command Plants**
 
@@ -10,11 +10,11 @@ title: spell_dir/commandPlants
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Targets** up to 2 HD/level of plant creatures, no two of which can be more than 30 ft. apart
+**Targets** up to 2 HD_dir/level of plant creatures, no two of which can be more than 30 ft. apart
 
-**Duration** 1 da_dir/level
+**Duration** 1 day_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

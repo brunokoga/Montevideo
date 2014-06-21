@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/songOfDiscord
+title: spells_dir/songOfDiscord
 ---
  **Song of Discord**
 
@@ -10,11 +10,11 @@ title: spell_dir/songOfDiscord
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Area** creatures within a 20-ft.-radius spread
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

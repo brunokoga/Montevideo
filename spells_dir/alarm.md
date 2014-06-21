@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/alarm
+title: spells_dir/alarm
 ---
  **Alarm**
 
-**School** abjuration; **Level** bard 1, ranger 1, sorcerer/wizard 1
+**School** abjuration; **Level** bard 1, ranger 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F/DF (a tiny bell and a piece of very fine silver wire)
+**Components** V, S, F_dir/DF (a tiny bell and a piece of very fine silver wire)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Area** 20-ft.-radius emanation centered on a point in space
 
-**Duration** 2 hour_dir/level (D)
+**Duration** 2 hours_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

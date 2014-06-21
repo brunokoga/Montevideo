@@ -1,18 +1,18 @@
 ---
 layout: default
-title: monster_dir/zombie
+title: monsters_dir/zombie
 ---
 # Zombie
 
 _This walking corpse wears only a few soiled rags, its flesh rotting off its bones as it stumbles forward, arms outstretched._
 
-**Human Zombie CR 1/2**
+**Human Zombie CR 1_dir/2**
 
 **XP 200**
 
 NE Medium [undead](creatureTypes#_undead)
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +0
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +0
 
 **Defense**
 
@@ -22,7 +22,7 @@ NE Medium [undead](creatureTypes#_undead)
 
 **Fort** +0, **Ref** +0, **Will** +3
 
-**DR** 5/slashing; **Immune** [undead traits](universalMonsterRules#_undead-traits)
+**DR** 5_dir/slashing; **Immune** [undead traits](universalMonsterRules#_undead-traits)
 
 **Offense**
 
@@ -48,11 +48,11 @@ NE Medium [undead](creatureTypes#_undead)
 
 **Treasure** none
 
-Zombies are the animated corpses of dead creatures, forced into foul unlife via necromantic magic like _ [animate dead](../spell_dir/animateDead#_animate-dead)_. While the most commonly encountered zombies are slow and tough, others possess a variety of traits, allowing them to spread disease or move with increased speed.
+Zombies are the animated corpses of dead creatures, forced into foul unlife via necromantic magic like _ [animate dead](../spells_dir/animateDead#_animate-dead)_. While the most commonly encountered zombies are slow and tough, others possess a variety of traits, allowing them to spread disease or move with increased speed.
 
 Zombies are unthinking automatons, and can do little more than follow orders. When left unattended, zombies tend to mill about in search of living creatures to slaughter and devour. Zombies attack until destroyed, having no regard for their own safety.
 
-Although capable of following orders, zombies are more often unleashed into an area with no command other than to kill living creatures. As a result, zombies are often encountered in packs, wandering around places the living frequent, looking for victims. Most zombies are created using _ [animate dead](../spell_dir/animateDead#_animate-dead)_. Such zombies are always of the standard type, unless the creator also casts _ [haste](../spell_dir/haste#_haste) _or _ [remove paralysis](../spell_dir/removeParalysis#_remove-paralysis) _to create fast zombies, or _ [contagion](../spell_dir/contagion#_contagion)_ to create plague zombies.
+Although capable of following orders, zombies are more often unleashed into an area with no command other than to kill living creatures. As a result, zombies are often encountered in packs, wandering around places the living frequent, looking for victims. Most zombies are created using _ [animate dead](../spells_dir/animateDead#_animate-dead)_. Such zombies are always of the standard type, unless the creator also casts _ [haste](../spells_dir/haste#_haste) _or _ [remove paralysis](../spells_dir/removeParalysis#_remove-paralysis) _to create fast zombies, or _ [contagion](../spells_dir/contagion#_contagion)_ to create plague zombies.
 
 ## Creating a Zombie
 
@@ -62,9 +62,9 @@ Although capable of following orders, zombies are more often unleashed into an a
 
 | HD | CR | XP |
 | --- | --- | --- |
-| 1/2 | 1/8 | 50 |
-| 1 | 1/4 | 100 |
-| 2 | 1/2 | 200 |
+| 1_dir/2 | 1_dir/8 | 50 |
+| 1 | 1_dir/4 | 100 |
+| 2 | 1_dir/2 | 200 |
 | 3–4 | 1 | 400 |
 | 5–6 | 2 | 600 |
 | 7–8 | 3 | 800 |
@@ -104,9 +104,9 @@ Although capable of following orders, zombies are more often unleashed into an a
 
 Zombies use their Charisma modifiers to determine bonus hit points (instead of Constitution).
 
-**Saves** : Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
+**Saves** : Base save bonuses are Fort +1_dir/3 HD, Ref +1_dir/3 HD, and Will +1_dir/2 HD + 2.
 
-**Defensive Abilities** : Zombies lose their defensive abilities and gain all of the qualities and immunities granted by the undead type. Zombies gain DR 5/slashing.
+**Defensive Abilities** : Zombies lose their defensive abilities and gain all of the qualities and immunities granted by the undead type. Zombies gain DR 5_dir/slashing.
 
 **Speed** : Winged zombies can still fly, but maneuverability drops to clumsy. If the base creature flew magically, so can the zombie. Retain all other movement types.
 
@@ -116,7 +116,7 @@ Zombies use their Charisma modifiers to determine bonus hit points (instead of C
 
 **Abilities** : Str +2, Dex –2. A zombie has no Con or Int score, and its Wis and Cha become 10.
 
-**BAB** : A zombie's base attack is equal to 3/4 its Hit Dice.
+**BAB** : A zombie's base attack is equal to 3_dir/4 its Hit Dice.
 
 **Skills** : A zombie has no skill ranks.
 
@@ -136,7 +136,7 @@ Unlike the standard, plodding zombie, a fast zombie moves with a supernatural qu
 
 **Speed** : Increase the base creature's land speed by 10 feet.
 
-**Defensive Abilities** : A fast zombie does not gain DR 5/slashing.
+**Defensive Abilities** : A fast zombie does not gain DR 5_dir/slashing.
 
 **Special Attacks** : A fast zombie gains the following special attack.
 
@@ -150,7 +150,7 @@ _Quick Strikes (Ex)_: Whenever a fast zombie takes a full-attack action, it can 
 
 These zombies carry a terrible disease that perpetuates their undead lineage—those infected by a plague zombie's contagion rise as zombies themselves when they perish.
 
-**Defensive Abilities** : A plague zombie does not gain DR 5/slashing.
+**Defensive Abilities** : A plague zombie does not gain DR 5_dir/slashing.
 
 **Special Attacks** : A plague zombie gains the following special attacks.
 
@@ -159,5 +159,5 @@ _Death Burst (Ex)_: When a plague zombie dies, it explodes in a burst of decay. 
   
   
 
-_Disease (Su)_: The slam attack—as well as any other natural attacks—of a plague zombie carries the zombie rot disease._Zombie rot_: slam; _save _Fort DC = 10 + 1/2 the zombie's Hit Dice + the zombie's Cha modifier; _onset _1d4 days; _frequency _1/day; _effect_ 1d2 Con, this damage cannot be healed while the creature is infected; _cure _2 consecutive saves. Anyone who dies while infected rises as a plague zombie in 2d6 hours.
+_Disease (Su)_: The slam attack—as well as any other natural attacks—of a plague zombie carries the zombie rot disease._Zombie rot_: slam; _save _Fort DC = 10 + 1_dir/2 the zombie's Hit Dice + the zombie's Cha modifier; _onset _1d4 days; _frequency _1_dir/day; _effect_ 1d2 Con, this damage cannot be healed while the creature is infected; _cure _2 consecutive saves. Anyone who dies while infected rises as a plague zombie in 2d6 hours.
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/unshakableChill
+title: ultimateMagic_dir/spells_dir/unshakableChill
 ---
 Unshakable Chill
 
-**School** necromancy [cold]; **Level** druid 2, sorcere_dir/wizard 2, witch 2
+**School** necromancy [cold]; **Level** druid 2, sorcerer_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 
-**Duration** 10 minute_dir/level; see text
+**Duration** 10 minutes_dir/level; see text
 
 **Saving Throw** Fortitude negates (see text); **Spell Resistance** yes
 

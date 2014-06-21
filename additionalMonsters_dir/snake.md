@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/snake
+title: additionalMonsters_dir/snake
 ---
 # Snake, Emperor Cobra
 
@@ -10,9 +10,9 @@ Emperor CobraCR 5
 
 **XP 1,600**
 
-N Large [animal](monsters/creatureTypes#_animal)
+N Large [animal](monsters_dir/creatureTypes#_animal)
 
-**Init** +6; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
+**Init** +6; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13
 
 Defense
 
@@ -26,7 +26,7 @@ Offense
 
 **Speed** 30 ft., climb 30 ft., swim 30 ft.
 
-**Melee** bite +10 (2d6+9 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** bite +10 (2d6+9 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -36,9 +36,9 @@ Statistics
 
 **Base Atk** +4; **CMB** +11; **CMD** 23 (can't be tripped)
 
-**Feats** [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Stealth](additionalMonster_dir/../skill_dir/stealth#_stealth)), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (bite)
+**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +10, [Climb](additionalMonsters/../skill_dir/climb#_climb) +14, [Perception](additionalMonsters/../skill_dir/perception#_perception) +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +11, [Swim](additionalMonsters/../skill_dir/swim#_swim) +14; **Racial Modifiers** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics)+8, +4 [Perception](additionalMonsters/../skill_dir/perception#_perception), +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +10, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +14, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +11, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +14; **Racial Modifiers** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics)+8, +4 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception), +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
 
 Ecology
 
@@ -50,7 +50,7 @@ Ecology
 
 Special Abilities
 
-**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con; _cure_ 2 consecutive saves.
+**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 17; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d3 Con; _cure_ 2 consecutive saves.
 
 Infamous among travelers for its deadly poisonous bite, the emperor cobra is a foul-tempered snake typically encountered in bogs. The snake's scales are generally a dark green, with a pale green or even ivory underbelly. Its eyes are bright red and lack the distinctive serpentine slit most snake eyes possess. Emperor cobras are often trained to serve as guardians in temples. They are 16 feet long and weigh 200 pounds.
 
@@ -62,9 +62,9 @@ Giant AnacondaCR 10
 
 **XP 9,600**
 
-N Gargantuan [animal](monster_dir/creatureTypes#_animal)
+N Gargantuan [animal](monsters_dir/creatureTypes#_animal)
 
-**Init** +6; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +22
+**Init** +6; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +22
 
 Defense
 
@@ -78,11 +78,11 @@ Offense
 
 **Speed** 20 ft., climb 20 ft., swim 20 ft.
 
-**Melee** bite +19 (4d6+19/19–20 plus [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** bite +19 (4d6+19_dir/19–20 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Space** 20 ft.; **Reach** 20 ft.
 
-**Special Attacks** [constrict](monsters/universalMonsterRules#_constrict) (4d6+19)
+**Special Attacks** [constrict](monsters_dir/universalMonsterRules#_constrict) (4d6+19)
 
 Statistics
 
@@ -90,9 +90,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +26 (+30 grapple); **CMD** 39 (can't be tripped)
 
-**Feats** [Dodge](additionalMonster_dir/../feats#_dodge), [Improved Critical](additionalMonster_dir/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception)), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (bite)
+**Feats** [Dodge](additionalMonsters_dir/../feats#_dodge), [Improved Critical](additionalMonsters_dir/../feats#_improved-critical) (bite), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (bite)
 
-**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +21, [Perception](additionalMonsters/../skill_dir/perception#_perception) +22, [Swim](additionalMonsters/../skill_dir/swim#_swim) +21
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +21, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +22, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +21
 
 Ecology
 

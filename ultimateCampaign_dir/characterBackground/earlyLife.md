@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCampaig_dir/characterBackground/earlyLife
+title: ultimateCampaign_dir/characterBackground_dir/earlyLife
 ---
 # Early Life
 

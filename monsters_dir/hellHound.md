@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/hellHound
+title: monsters_dir/hellHound
 ---
 # Hell Hound
 
@@ -12,7 +12,7 @@ _This creature resembles a thin, lanky wolf with reddish-brown fur, white claws,
 
 LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype), [lawful](creatureTypes#_lawful-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +7
+**Init** +5; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +7
 
 **Defense**
 
@@ -42,7 +42,7 @@ LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +8, [Perception](../skill_dir/perception#_perception) +7, [Stealth](../skill_dir/stealth#_stealth) +13, [Survival](../skill_dir/survival#_survival) +7; **Racial Modifiers** +5 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +8, [Perception](../skills_dir/perception#_perception) +7, [Stealth](../skills_dir/stealth#_stealth) +13, [Survival](../skills_dir/survival#_survival) +7; **Racial Modifiers** +5 [Stealth](../skills_dir/stealth#_stealth)
 
 **Languages** Infernal (cannot speak)
 
@@ -68,7 +68,7 @@ _This creature resembles a powerfully built wolf the size of a large draft horse
 
 LE Large [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype), [lawful](creatureTypes#_lawful-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +12
+**Init** +6; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +12
 
 **Defense**
 
@@ -86,7 +86,7 @@ LE Large [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtyp
 
 **Speed** 40 ft.
 
-**Melee** bite +20 (2d6+12/19–20 plus 2d6 fire)
+**Melee** bite +20 (2d6+12_dir/19–20 plus 2d6 fire)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -98,9 +98,9 @@ LE Large [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtyp
 
 **Base**  **Atk** +12; **CMB** +21; **CMD** 33 (37 vs. trip)
 
-**Feats** [Alertness](../feats#_alertness), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth), [Survival](../skill_dir/survival#_survival)), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Alertness](../feats#_alertness), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills_dir/stealth#_stealth), [Survival](../skills_dir/survival#_survival)), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +16, [Perception](../skill_dir/perception#_perception) +12, [Stealth](../skill_dir/stealth#_stealth) +21, [Survival](../skill_dir/survival#_survival) +18; **Racial Modifiers** +5 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +16, [Perception](../skills_dir/perception#_perception) +12, [Stealth](../skills_dir/stealth#_stealth) +21, [Survival](../skills_dir/survival#_survival) +18; **Racial Modifiers** +5 [Stealth](../skills_dir/stealth#_stealth)
 
 **Languages** Infernal
 

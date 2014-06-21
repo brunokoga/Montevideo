@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/wallOfThorns
+title: spells_dir/wallOfThorns
 ---
  **Wall of Thorns**
 
@@ -10,11 +10,11 @@ title: spell_dir/wallOfThorns
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Effect** wall of thorny brush, up to one 10-ft. cub_dir/level (S)
+**Effect** wall of thorny brush, up to one 10-ft. cube_dir/level (S)
 
-**Duration** 10 min./level (D)
+**Duration** 10 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

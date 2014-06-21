@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/deathwatch
+title: spells_dir/deathwatch
 ---
  **Deathwatch**
 
@@ -14,7 +14,7 @@ title: spell_dir/deathwatch
 
 **Area** cone-shaped emanation
 
-**Duration** 10 min./level
+**Duration** 10 min._dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

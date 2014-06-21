@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advancedRaceGuid_dir/featuredRaces/oreads
+title: advancedRaceGuide_dir/featuredRaces_dir/oreads
 ---
 # Oreads
 
@@ -32,7 +32,7 @@ Oreads are humans whose ancestry includes the touch of an elemental being of ear
 
 **Darkvision** : Oreads can see in the dark up to 60 feet.
 
-**Spell-Like Ability** : _ [Magic stone](spell_dir/magicStone#_magic-stone)_ 1/day (caster level equals the oread's total level).
+**Spell-Like Ability** : _ [Magic stone](spells_dir/magicStone#_magic-stone)_ 1_dir/day (caster level equals the oread's total level).
 
 **Energy Resistance** : Oreads have acid resistance 5.
 
@@ -54,7 +54,7 @@ The following racial traits may be selected instead of existing oread racial tra
 
 **Granite Skin** : Rocky growths cover the skin of oreads with this racial trait. They gain a +1 racial bonus to natural armor. This racial trait replaces energy resistance.
 
-**Mountain-Born** : Oreads are drawn to mountains and other high places, and after many generations they've grown well suited to their environment. Oreads with this racial trait gain a +2 racial bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics) checks made to cross narrow ledges and on saves against altitude fatigue and sickness. This racial trait replaces the spell-like ability racial trait.
+**Mountain-Born** : Oreads are drawn to mountains and other high places, and after many generations they've grown well suited to their environment. Oreads with this racial trait gain a +2 racial bonus on [Acrobatics](skills_dir/acrobatics#_acrobatics) checks made to cross narrow ledges and on saves against altitude fatigue and sickness. This racial trait replaces the spell-like ability racial trait.
 
 **Stone in the Blood** : Oreads with this racial trait mimic the healing abilities of the mephits, gaining fast healing 2 for 1 round anytime they are subject to acid damage (the acid damage does not need to overcome the oread's resistances or immunities to activate this ability). The oread can heal up to 2 hit points per level per day with this ability, after which it ceases to function. This racial trait replaces earth affinity.
 
@@ -66,19 +66,19 @@ The following options are available to all oreads who have the listed favored cl
 
 **Bard** : Add +5 feet to the range of one of the bard's bardic performances (max +30 feet to any one performance).
 
-**Cleric** : Add a +1/2 bonus on [Knowledge](skill_dir/knowledge#_knowledge) (planes) checks relating to the Plane of Earth and creatures with the earth subtype.
+**Cleric** : Add a +1_dir/2 bonus on [Knowledge](skills_dir/knowledge#_knowledge) (planes) checks relating to the Plane of Earth and creatures with the earth subtype.
 
-**Druid** : Add a +1/2 bonus on [Knowledge](skill_dir/knowledge#_knowledge) (nature) checks relating to plants and burrowing animals.
+**Druid** : Add a +1_dir/2 bonus on [Knowledge](skills_dir/knowledge#_knowledge) (nature) checks relating to plants and burrowing animals.
 
 **Fighter** : Add +1 to the fighter's CMD when resisting a bull rush or drag attempt.
 
-**Monk** : Add +1/3 on critical hit confirmation rolls made with unarmed strikes (maximum bonus of +5). This bonus does not stack with [Critical Focus](feats#_critical-focus).
+**Monk** : Add +1_dir/3 on critical hit confirmation rolls made with unarmed strikes (maximum bonus of +5). This bonus does not stack with [Critical Focus](feats#_critical-focus).
 
-**Paladin** : Add +1/4 to the bonus the paladin grants her allies with her aura of courage and aura of resolve special abilities.
+**Paladin** : Add +1_dir/4 to the bonus the paladin grants her allies with her aura of courage and aura of resolve special abilities.
 
-**Ranger** : Add +1/4 to the natural armor bonus of the ranger's animal companion. If the ranger ever replaces his animal companion, the new animal companion gains this bonus.
+**Ranger** : Add +1_dir/4 to the natural armor bonus of the ranger's animal companion. If the ranger ever replaces his animal companion, the new animal companion gains this bonus.
 
-**Summoner** : Add a +1/4 natural armor bonus to the AC of the summoner's eidolon.
+**Summoner** : Add a +1_dir/4 natural armor bonus to the AC of the summoner's eidolon.
 
 # Racial Archetypes
 
@@ -92,17 +92,17 @@ Shaitan binders call upon a reflection of their genie ancestors to serve as thei
 
 **Shaitan Magic (Su)** : At 4th level, a shaitan binder's eidolon gains the basic magic evolution as a free evolution. At 6th level, it gains the minor magic evolution.
 
-At 8th level, it gains the major magic evolution as a free evolution, and adds the following to the list of available spells for that evolution: _ [glitterdust](spell_dir/glitterdust#_glitterdust)_ and _ [soften earth and stone](spells/softenEarthAndStone#_soften-earth-and-stone)_.
+At 8th level, it gains the major magic evolution as a free evolution, and adds the following to the list of available spells for that evolution: _ [glitterdust](spells_dir/glitterdust#_glitterdust)_ and _ [soften earth and stone](spells_dir/softenEarthAndStone#_soften-earth-and-stone)_.
 
-At 12th level, it gains the ultimate magic evolution as a free evolution, and adds the following to the list of available spells for that evolution: _ [meld into stone](spell_dir/meldIntoStone#_meld-into-stone)_ and _ [stone shape](spells/stoneShape#_stone-shape)_.
+At 12th level, it gains the ultimate magic evolution as a free evolution, and adds the following to the list of available spells for that evolution: _ [meld into stone](spells_dir/meldIntoStone#_meld-into-stone)_ and _ [stone shape](spells_dir/stoneShape#_stone-shape)_.
 
 Although the shaitan binder gains the standard versions of these evolutions for free, he must pay the normal cost to upgrade them to the improved versions. This ability replaces shield ally and greater shield ally.
 
 **Earth Glide (Su)** : At 10th level, if a shaitan binder's eidolon has the burrow evolution, it gains the earth glide universal monster ability and can use this ability to travel at its full base speed. This ability replaces aspect.
 
-**Stone Curse (Su)** : At 18th level, a shaitan binder may select stone curse as a 4-point evolution. This allows the eidolon to trap creatures in stone like the shaitan stone curse ability. The DC to resist or break free of the stone curse is 10 + 1/2 the eidolon's Hit Dice + the eidolon's Strength score. This ability replaces greater aspect.
+**Stone Curse (Su)** : At 18th level, a shaitan binder may select stone curse as a 4-point evolution. This allows the eidolon to trap creatures in stone like the shaitan stone curse ability. The DC to resist or break free of the stone curse is 10 + 1_dir/2 the eidolon's Hit Dice + the eidolon's Strength score. This ability replaces greater aspect.
 
-**Noble Eidolon (Sp)** : At 20th level, a shaitan binder's eidolon gains the ability to grant its summoner's wishes. Once per day, the eidolon can cast _ [limited wish](spell_dir/limitedWish#_limited-wish)_ as a spell-like ability. The eidolon's caster level is equal to its level. The wish must be spoken aloud by the shaitan binder, beginning with the words "I wish," and cannot duplicate a wish the eidolon has granted within the past 24 hours. If the eidolon uses this ability to duplicate a spell with a costly material component, the shaitan binder must provide that component. This ability replaces twin eidolon.
+**Noble Eidolon (Sp)** : At 20th level, a shaitan binder's eidolon gains the ability to grant its summoner's wishes. Once per day, the eidolon can cast _ [limited wish](spells_dir/limitedWish#_limited-wish)_ as a spell-like ability. The eidolon's caster level is equal to its level. The wish must be spoken aloud by the shaitan binder, beginning with the words "I wish," and cannot duplicate a wish the eidolon has granted within the past 24 hours. If the eidolon uses this ability to duplicate a spell with a costly material component, the shaitan binder must provide that component. This ability replaces twin eidolon.
 
 ## Student of Stone (Monk)
 
@@ -112,15 +112,15 @@ By following the path of the stone, students of stone give up much of monks' mob
 
 **Strength of Stone (Ex)** : At 3rd level, a student of stone learns to draw strength from the earth. So long as both he and his opponent are touching the ground, the student of stone gains a +1 bonus on attack rolls, damage rolls, bull rush and trip combat maneuver rolls, and to his CMD when resisting a bull rush or trip attempt. This ability replaces fast movement.
 
-**Bonus Feat** : At 6th level, a student of stone adds [Elemental Fist](advanced/advancedFeats#_elemental-fist) to his list of available bonus feats. If the student of stone selects [Elemental Fist](advance_dir/advancedFeats#_elemental-fist) as a bonus feat, he may only deal acid damage when using the feat. At 10th level, the student of stone adds Shaitan Style to his list of bonus feats, at 14th level, he adds [Shaitan Skin](ultimateCombat/ultimateCombatFeats#_shaitan-skin) , and at 18th level, he adds [Shaitan Earthblast](ultimateComba_dir/ultimateCombatFeats#_shaitan-earthblast). This otherwise functions as and alters the bonus feat ability.
+**Bonus Feat** : At 6th level, a student of stone adds [Elemental Fist](advanced_dir/advancedFeats#_elemental-fist) to his list of available bonus feats. If the student of stone selects [Elemental Fist](advanced_dir/advancedFeats#_elemental-fist) as a bonus feat, he may only deal acid damage when using the feat. At 10th level, the student of stone adds Shaitan Style to his list of bonus feats, at 14th level, he adds [Shaitan Skin](ultimateCombat_dir/ultimateCombatFeats#_shaitan-skin) , and at 18th level, he adds [Shaitan Earthblast](ultimateCombat_dir/ultimateCombatFeats#_shaitan-earthblast). This otherwise functions as and alters the bonus feat ability.
 
-**Bones of Stone (Su)** : At 7th level, as a swift action, a student of stone can spend 1 _ki_ point to gain DR 2/magic until the beginning of his next turn. At 10th level, he can spend 1 _ki_ point to gain DR 2/chaotic until his next turn. At 15th level, he can spend 1 _ki_ point to gain DR 5/chaotic until his next turn. This ability replaces high jump.
+**Bones of Stone (Su)** : At 7th level, as a swift action, a student of stone can spend 1 _ki_ point to gain DR 2_dir/magic until the beginning of his next turn. At 10th level, he can spend 1 _ki_ point to gain DR 2_dir/chaotic until his next turn. At 15th level, he can spend 1 _ki_ point to gain DR 5_dir/chaotic until his next turn. This ability replaces high jump.
 
-**Body of Stone (Ex)** : At 9th level, a student of stone gains the benefits of the _ [light](spell_dir/light#_light) [fortification](magicItems/armor#_armor-fortification)_ armor property . This ability replaces improved evasion.
+**Body of Stone (Ex)** : At 9th level, a student of stone gains the benefits of the _ [light](spells_dir/light#_light) [fortification](magicItems_dir/armor#_armor-fortification)_ armor property . This ability replaces improved evasion.
 
 **Soul of Stone (Su)** : At 12th level, as a swift action, a student of stone can spend 1 _ki_ point to gain tremorsense 15 feet until his next turn. At 16th level, the range of this tremorsense increases to 30 feet. This ability replaces abundant step.
 
-**Stone Self** : At 20th level, a student of stone becomes an earth outsider. He gains the earth subtype, as well as DR 5/chaotic, burrow speed 20 feet, and tremorsense 20 feet.
+**Stone Self** : At 20th level, a student of stone becomes an earth outsider. He gains the earth subtype, as well as DR 5_dir/chaotic, burrow speed 20 feet, and tremorsense 20 feet.
 
 # New Racial Rules
 
@@ -130,9 +130,9 @@ The following options are available to oreads. At the GM's discretion, other app
 
 Oreads have access to the following equipment.
 
-**Camouflage Lichen** : Though oreads with obviously stony features are rare, almost all oreads have an essentially earthen quality to their skin that makes it perfect for cultivating plant life. Where other races would be appalled at the thought of plants taking root in their flesh, oreads see it as a natural and healthy extension of their elemental nature. For this reason, oread herbalists developed several strains of moss and lichen specifically adapted to grow on their bodies. Camouflage lichen is the most common variety of these oread plants. It takes 1 minute to apply a paste of camouflage lichen spores to the skin, and an additional 24 hours for the fungus to sprout. After this time, the oread is covered in a thin green layer of living plant matter, granting her a +4 bonus on [Stealth](skill_dir/stealth#_stealth) checks made in green forest and jungle environments. Red-orange and white varieties exist, providing bonuses in appropriately colored environments (red-orange among autumn leaves or in red deserts, white in snow, and so on). Camouflage lichen has a short lifespan; it withers and dies 3 days after being applied, crumbling away into harmless powder. This item only works on oreads and other creatures with rocklike bodies.
+**Camouflage Lichen** : Though oreads with obviously stony features are rare, almost all oreads have an essentially earthen quality to their skin that makes it perfect for cultivating plant life. Where other races would be appalled at the thought of plants taking root in their flesh, oreads see it as a natural and healthy extension of their elemental nature. For this reason, oread herbalists developed several strains of moss and lichen specifically adapted to grow on their bodies. Camouflage lichen is the most common variety of these oread plants. It takes 1 minute to apply a paste of camouflage lichen spores to the skin, and an additional 24 hours for the fungus to sprout. After this time, the oread is covered in a thin green layer of living plant matter, granting her a +4 bonus on [Stealth](skills_dir/stealth#_stealth) checks made in green forest and jungle environments. Red-orange and white varieties exist, providing bonuses in appropriately colored environments (red-orange among autumn leaves or in red deserts, white in snow, and so on). Camouflage lichen has a short lifespan; it withers and dies 3 days after being applied, crumbling away into harmless powder. This item only works on oreads and other creatures with rocklike bodies.
 
-**Fleshgem** : An oread adventurer discovered these small green gemstones when, after suffering a wound from falling on some jagged stones while exploring a cavern, she noticed pieces of beautiful green crystal growing from her skin. Oread jewelers found that these crystals, dubbed fleshgems, seemed to feed on the elemental energy that permeates an oread's flesh, growing from tiny chips of stone into large, elaborate gemstones. Essentially harmless, implanting fleshgems became a unique racial method of body alteration among oreads, equivalent to tattoos and piercings among other humanoids. Decorative fleshgems cost 1 gp and are merely ornamental. Fleshgem spikes, on the other hand, grow into elaborate crystalline shards that function as armor spikes, but the oread wearing them cannot wear armor over the spikes and even normal clothing requires special holes or seams to allow the spikes to stick out. Implanting a set of fleshgem spikes takes 10 minutes, and the resulting shard takes about a week to grow to full size. Removing a fleshgem takes 1 minute; the person removing the gem must make a successful DC 15 [Heal](skills/heal#_heal) check to avoid dealing 1d4 points of damage to the oread. The fleshgem spikes can be sundered or destroyed as if the growths were a worn object (hardness 1, 5 hp), but unless the embedded root of the fleshgem is removed, the shards grow back 1 week later.
+**Fleshgem** : An oread adventurer discovered these small green gemstones when, after suffering a wound from falling on some jagged stones while exploring a cavern, she noticed pieces of beautiful green crystal growing from her skin. Oread jewelers found that these crystals, dubbed fleshgems, seemed to feed on the elemental energy that permeates an oread's flesh, growing from tiny chips of stone into large, elaborate gemstones. Essentially harmless, implanting fleshgems became a unique racial method of body alteration among oreads, equivalent to tattoos and piercings among other humanoids. Decorative fleshgems cost 1 gp and are merely ornamental. Fleshgem spikes, on the other hand, grow into elaborate crystalline shards that function as armor spikes, but the oread wearing them cannot wear armor over the spikes and even normal clothing requires special holes or seams to allow the spikes to stick out. Implanting a set of fleshgem spikes takes 10 minutes, and the resulting shard takes about a week to grow to full size. Removing a fleshgem takes 1 minute; the person removing the gem must make a successful DC 15 [Heal](skills_dir/heal#_heal) check to avoid dealing 1d4 points of damage to the oread. The fleshgem spikes can be sundered or destroyed as if the growths were a worn object (hardness 1, 5 hp), but unless the embedded root of the fleshgem is removed, the shards grow back 1 week later.
 
 **Stonechipper Salve** : This gritty, gray ointment weakens rocky materials. When applied to an object made of stone, it reduces the object's hardness by 3 for 10 minutes. As a standard action, a creature can apply the paste to affect one 5-foot-square or a Medium or smaller creature. The paste only affects hardness, not damage reduction or similar defenses.
 
@@ -162,7 +162,7 @@ Your senses are keener among the rocks and stones.
 
 **Prerequisite** : Oread.
 
-**Benefit** : You gain a +4 racial bonus on [Perception](skill_dir/perception#_perception) checks underground, and on [Survival](skills/survival#_survival) checks to avoid becoming lost in caverns and rocky areas.
+**Benefit** : You gain a +4 racial bonus on [Perception](skills_dir/perception#_perception) checks underground, and on [Survival](skills_dir/survival#_survival) checks to avoid becoming lost in caverns and rocky areas.
 
 ### Murmurs of Earth
 
@@ -178,7 +178,7 @@ The ground parts for you at the slightest touch, allowing you to dig with great 
 
 **Prerequisites** : Stony Step, character level 9th, oread.
 
-**Benefit** : You gain a burrow speed equal to 1/2 your base speed. You can burrow through sand, dirt, clay, gravel, or similar materials, but not solid stone. You do not leave a hole behind, nor is your passage marked on the surface.
+**Benefit** : You gain a burrow speed equal to 1_dir/2 your base speed. You can burrow through sand, dirt, clay, gravel, or similar materials, but not solid stone. You do not leave a hole behind, nor is your passage marked on the surface.
 
 ### Oread Earth Glider
 
@@ -186,7 +186,7 @@ The earth welcomes you, showing you the secret paths through sand and soil.
 
 **Prerequisites** : Oread Burrower, Stony Step, character level 13th, oread.
 
-**Benefit** : You gain the earth glide universal monster ability and can use it to travel at your full base speed through sand, dirt, clay, gravel, or similar materials. If protected against fire damage, you can even burrow through lava. You can burrow through solid stone at 1/2 your base speed.
+**Benefit** : You gain the earth glide universal monster ability and can use it to travel at your full base speed through sand, dirt, clay, gravel, or similar materials. If protected against fire damage, you can even burrow through lava. You can burrow through solid stone at 1_dir/2 your base speed.
 
 ### Stony Step
 
@@ -216,11 +216,11 @@ Belt of Stoneskin
 
 Description
 
-This belt is made of specially treated stone plates held together by thick iron chain. Every 24 hours, the belt's wearer gains DR 10/adamantine until the belt absorbs 100 points of damage, at which point the belt becomes useless for the remainder of the 24-hour period. When first worn, or after each time this belt is taken off, it must worn for 24 consecutive hours in order for its magic to take effect again.
+This belt is made of specially treated stone plates held together by thick iron chain. Every 24 hours, the belt's wearer gains DR 10_dir/adamantine until the belt absorbs 100 points of damage, at which point the belt becomes useless for the remainder of the 24-hour period. When first worn, or after each time this belt is taken off, it must worn for 24 consecutive hours in order for its magic to take effect again.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [stoneskin](spell_dir/stoneskin#_stoneskin)_, creator must be an oread or a creature with the [earth](monsters/creatureTypes#_earth-subtype) subtype; **Cost** 30,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [stoneskin](spells_dir/stoneskin#_stoneskin)_, creator must be an oread or a creature with the [earth](monsters_dir/creatureTypes#_earth-subtype) subtype; **Cost** 30,000 gp
 
 Earthbind Rod
 
@@ -230,11 +230,11 @@ Earthbind Rod
 
 Description
 
-This rod looks like nothing more than a large, strange sliver of rough granite. This rod's magic interacts with stone or earth to both steady its wielder and anchor creatures the rod touches. An _earthbind rod _functions like a _+1 [light](spell_dir/light#_light) mace_, and it grants its wielder a +4 circumstance bonus to its CMD against bull rush, grapple, overrun, reposition, and trip combat maneuvers, but only if the wielder is an oread, has the earth subtype, or is standing on earth or stone. Three times per day, when the wielder hits a creature with this rod, as long as the target of this attack is standing on stone or earth, the wielder can attempt to entangle that creature (Fortitude DC 18 negates) for 1d4 rounds.
+This rod looks like nothing more than a large, strange sliver of rough granite. This rod's magic interacts with stone or earth to both steady its wielder and anchor creatures the rod touches. An _earthbind rod _functions like a _+1 [light](spells_dir/light#_light) mace_, and it grants its wielder a +4 circumstance bonus to its CMD against bull rush, grapple, overrun, reposition, and trip combat maneuvers, but only if the wielder is an oread, has the earth subtype, or is standing on earth or stone. Three times per day, when the wielder hits a creature with this rod, as long as the target of this attack is standing on stone or earth, the wielder can attempt to entangle that creature (Fortitude DC 18 negates) for 1d4 rounds.
 
 Construction
 
-**Requirements** [Craft Rod](feats#_craft-rod), _ [stone shape](spells/stoneShape#_stone-shape)_; **Cost** 13,250 gp
+**Requirements** [Craft Rod](feats#_craft-rod), _ [stone shape](spells_dir/stoneShape#_stone-shape)_; **Cost** 13,250 gp
 
 Mask of Stony Demeanor
 
@@ -244,11 +244,11 @@ Mask of Stony Demeanor
 
 Description
 
-When worn, this mask transforms the wearer's face into a stone statue and its voice into an emotionless monotone. Though it allows the wearer to speak, its facial expressions and voice betray little emotion, granting a +10 competence bonus on [Bluff](skill_dir/bluff#_bluff) checks made to lie and a +5 competence bonus on [Bluff](skills/bluff#_bluff) checks made to feint, but also imposes a –5 penalty on [Bluff](skill_dir/bluff#_bluff) checks made to pass a hidden message.
+When worn, this mask transforms the wearer's face into a stone statue and its voice into an emotionless monotone. Though it allows the wearer to speak, its facial expressions and voice betray little emotion, granting a +10 competence bonus on [Bluff](skills_dir/bluff#_bluff) checks made to lie and a +5 competence bonus on [Bluff](skills_dir/bluff#_bluff) checks made to feint, but also imposes a –5 penalty on [Bluff](skills_dir/bluff#_bluff) checks made to pass a hidden message.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [innocence](advanced/spell_dir/innocence#_innocence)_ , _ [stone shape](spells/stoneShape#_stone-shape)_; **Cost** 250 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [innocence](advanced_dir/spells_dir/innocence#_innocence)_ , _ [stone shape](spells_dir/stoneShape#_stone-shape)_; **Cost** 250 gp
 
 ## Oread Spells
 
@@ -262,17 +262,17 @@ Binding Earth
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature or unattended object (see text)
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
 If the target of this spell fails its Fortitude save, areas of earth and stone floor act as a snapping quagmire that pulls the target down and damages it if it attempts to move through such terrain.
 
-If the target is a creature, it treats all areas of earth and stone it moves through as difficult terrain. Furthermore, for each 5 feet a creature moves through such areas, it takes 1d6 points of damage. Creatures with a burrow speed or the earth glide ability are unaffected by _ [binding](spells/binding#_binding) earth_.
+If the target is a creature, it treats all areas of earth and stone it moves through as difficult terrain. Furthermore, for each 5 feet a creature moves through such areas, it takes 1d6 points of damage. Creatures with a burrow speed or the earth glide ability are unaffected by _ [binding](spells_dir/binding#_binding) earth_.
 
 If cast on an unattended object resting on an area of stone or earth, the stone or earth warps and wraps around it, pulling it firmly to the ground. A DC 15 Strength check is required to pull the object free from snapping earth or stone.
 
@@ -280,9 +280,9 @@ Binding Earth, Mass
 
 **School** transmutation [earth]; **Level** druid 6, witch 6
 
-**Target** one creature or objec_dir/level, no two of which can be more than 30 ft. apart
+**Target** one creature or object_dir/level, no two of which can be more than 30 ft. apart
 
-This spell functions as _ [binding](spells/binding#_binding) earth_, except as noted above.
+This spell functions as _ [binding](spells_dir/binding#_binding) earth_, except as noted above.
 
 Mighty Fist of the Earth
 
@@ -292,7 +292,7 @@ Mighty Fist of the Earth
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 
@@ -306,15 +306,15 @@ At 4th level, a qinggong monk may select this spell as a _ki_ power costing 1 _k
 
 Raging Rubble
 
-**School** transmutation [earth]; **Level** bard 3, cleric 3, druid 3, sorcere_dir/wizard 3, witch 3
+**School** transmutation [earth]; **Level** bard 3, cleric 3, druid 3, sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 round
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Effect** one [swarm](monster_dir/creatureTypes#_swarm-subtype) of stones
+**Effect** one [swarm](monsters_dir/creatureTypes#_swarm-subtype) of stones
 
 **Duration** concentration + 2 rounds
 
@@ -324,7 +324,7 @@ You animate an area of rubble, gravel, or other small stones, creating a dangero
 
 Stone Shield
 
-**School** conjuration (creation) [earth]; **Level** cleric 1, druid 1, magus 2, sorcerer/wizard 1, summoner 1
+**School** conjuration (creation) [earth]; **Level** cleric 1, druid 1, magus 2, sorcerer_dir/wizard 1, summoner 1
 
 **Casting Time** 1 immediate action
 
@@ -338,7 +338,7 @@ Stone Shield
 
 **Saving Throw** none; **Spell Resistance** no
 
-A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of your choice. The _stone [shield](spell_dir/shield#_shield)_ provides you with cover from that enemy until the beginning of your next turn, granting you a +4 bonus to Armor Class and a +2 bonus on Reflex saving throws. If the opponent's attack misses you by 4 or less, the attack strikes the shield instead. The _stone [shield](spells/shield#_shield)_ has hardness 8 and 15 hit points. If the shield is destroyed, the spell ends and the shield crumbles away into nothingness. Spells and effects that damage an area deal damage to the shield.
+A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of your choice. The _stone [shield](spells_dir/shield#_shield)_ provides you with cover from that enemy until the beginning of your next turn, granting you a +4 bonus to Armor Class and a +2 bonus on Reflex saving throws. If the opponent's attack misses you by 4 or less, the attack strikes the shield instead. The _stone [shield](spells_dir/shield#_shield)_ has hardness 8 and 15 hit points. If the shield is destroyed, the spell ends and the shield crumbles away into nothingness. Spells and effects that damage an area deal damage to the shield.
 
 You cannot use this spell if you are not adjacent to a large area of earth or stone such as the ground or a wall. A qinggong monk may select this spell as a _ki_ power at 4th level.
 

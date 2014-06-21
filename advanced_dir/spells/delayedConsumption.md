@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/delayedConsumption
+title: advanced_dir/spells_dir/delayedConsumption
 ---
  **Delayed Consumption**
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/delayedConsumption
 
 **Target** you
 
-**Duration** 1 da_dir/level (D) or until discharged
+**Duration** 1 day_dir/level (D) or until discharged
 
 When you consume this extract, you quickly consume another extract of your choice—this second extract's effects do not come into effect until a later point. You must consume this second, companion extract on the round following _delayed consumption_ or waste the extract. The companion extract can be no higher than 4th level, and you must pay any costs associated with the companion extract when you consume it.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/wakeOfLight
+title: advanced_dir/spells_dir/wakeOfLight
 ---
  **Wake of Light**
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/wakeOfLight
 
 **Effect** a 10-ft.-wide path in a straight line, up to 120 ft. long
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** yes
 

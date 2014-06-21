@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/dustDigger
+title: additionalMonsters_dir/dustDigger
 ---
 # Dust Digger
 
@@ -10,9 +10,9 @@ Dust DiggerCR 4
 
 **XP 1,200**
 
-N Large [aberration](monsters/creatureTypes#_aberration)
+N Large [aberration](monsters_dir/creatureTypes#_aberration)
 
-**Init** +4; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +5
+**Init** +4; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -26,7 +26,7 @@ Offense
 
 **Speed** 10 ft., burrow 20 ft.
 
-**Melee** bite +5 (1d8+3 plus [grab](monsters/universalMonsterRules#_grab)), 5 tentacles +3 (1d4+1 plus [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** bite +5 (1d8+3 plus [grab](monsters_dir/universalMonsterRules#_grab)), 5 tentacles +3 (1d4+1 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +7; **CMD** 17
 
-**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Multiattack](additionalMonster_dir/../monster_dir/monsterFeats#_multiattack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonster_dir/../skill_dir/stealth#_stealth))
+**Feats** [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth))
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception) +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +5 (+13 in ambush); **Racial Modifiers** +8 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in ambush
+**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +5 (+13 in ambush); **Racial Modifiers** +8 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) in ambush
 
 Ecology
 

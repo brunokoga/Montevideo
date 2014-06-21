@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/resonatingWord
+title: ultimateMagic_dir/spells_dir/resonatingWord
 ---
 Resonating Word
 
-**School** transmutation [sonic]; **Level** bard 5, sorcere_dir/wizard 7
+**School** transmutation [sonic]; **Level** bard 5, sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
 **Components** V
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target** one creature
 

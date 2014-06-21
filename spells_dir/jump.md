@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/jump
+title: spells_dir/jump
 ---
  **Jump**
 
-**School** transmutation; **Level** druid 1, ranger 1, sorcerer/wizard 1
+**School** transmutation; **Level** druid 1, ranger 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spell_dir/jump
 
 **Target** creature touched
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes
 

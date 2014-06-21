@@ -1,20 +1,20 @@
 ---
 layout: default
-title: advance_dir/spells/slipstream
+title: advanced_dir/spells_dir/slipstream
 ---
  **Slipstream**
 
-**School** conjuration (creation) [water]; **Level** druid 2, ranger 2, sorcere_dir/wizard 2
+**School** conjuration (creation) [water]; **Level** druid 2, ranger 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (a few drops of oil and water)
+**Components** V, S, M_dir/DF (a few drops of oil and water)
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 10 minute_dir/level (D)
+**Duration** 10 minutes_dir/level (D)
 
 **Saving Throw** Reflex negates (harmless); **Spell Resistance** no
 

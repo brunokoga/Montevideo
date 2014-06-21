@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/terrainBond
+title: ultimateCombat_dir/spells_dir/terrainBond
 ---
 Terrain Bond
 
@@ -8,13 +8,13 @@ Terrain Bond
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a pinch of [earth](monster_dir/creatureTypes#_earth-subtype) taken from your most favored terrain)
+**Components** V, S, M (a pinch of [earth](monsters_dir/creatureTypes#_earth-subtype) taken from your most favored terrain)
 
 **Range** personal
 
 **Target** you
 
-**Duration** 1 hour/2 levels (D)
+**Duration** 1 hour_dir/2 levels (D)
 
 You call upon the spirits of nature to help you adapt to your environment. You treat the terrain you are in as your most favored terrain until this spell ends.
 

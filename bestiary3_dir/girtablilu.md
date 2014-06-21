@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/girtablilu
+title: bestiary3_dir/girtablilu
 ---
 # Girtablilu
 
@@ -12,7 +12,7 @@ XP 4,800
 
 N Large monstrous humanoid
 
-**Init** +6; **Senses** darkvision 60 ft., tremorsense 30 ft.; [Perception](skill_dir/perception#_perception) +14
+**Init** +6; **Senses** darkvision 60 ft., tremorsense 30 ft.; [Perception](skills_dir/perception#_perception) +14
 
 Defense
 
@@ -26,17 +26,17 @@ Offense
 
 **Speed** 50 ft.
 
-**Melee** mwk spear +15/+10 (1d8+7/×3), 2 claws +9 (1d6+2 plus [grab](monster_dir/universalMonsterRules#_grab)), sting +9 (1d6+2 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** mwk spear +15_dir/+10 (1d8+7_dir/×3), 2 claws +9 (1d6+2 plus [grab](monsters_dir/universalMonsterRules#_grab)), sting +9 (1d6+2 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
-**Ranged** mwk spear +12 (1d8+5/×3)
+**Ranged** mwk spear +12 (1d8+5_dir/×3)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [constrict](monster_dir/universalMonsterRules#_constrict) (1d6+5)
+**Special Attacks** [constrict](monsters_dir/universalMonsterRules#_constrict) (1d6+5)
 
 **Spell-Like Abilities** (CL 10th; concentration +10)
 
-1/day—_ [summon nature's ally V](spell_dir/summonNatureSAlly#_summon-nature-s-ally-v)_ (1d3 giant scorpions)
+1_dir/day—_ [summon nature's ally V](spells_dir/summonNatureSAlly#_summon-nature-s-ally-v)_ (1d3 giant scorpions)
 
 Statistics
 
@@ -46,23 +46,23 @@ Statistics
 
 **Feats** [Dodge](feats#_dodge), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Mobility](feats#_mobility), [Vital Strike](feats#_vital-strike)
 
-**Skills** [Climb](skills/climb#_climb) +17, [Craft](skill_dir/craft#_craft) (any one) +8, [Knowledge](skills/knowledge#_knowledge) (history) +5, [Perception](skill_dir/perception#_perception) +14, [Sense Motive](skills/senseMotive#_sense-motive) +7, [Stealth](skill_dir/stealth#_stealth) +10, [Survival](skills/survival#_survival) +15; **Racial Modifiers** +4 [Climb](skill_dir/climb#_climb), +4 [Perception](skills/perception#_perception), +4 [Stealth](skill_dir/stealth#_stealth)
+**Skills** [Climb](skills_dir/climb#_climb) +17, [Craft](skills_dir/craft#_craft) (any one) +8, [Knowledge](skills_dir/knowledge#_knowledge) (history) +5, [Perception](skills_dir/perception#_perception) +14, [Sense Motive](skills_dir/senseMotive#_sense-motive) +7, [Stealth](skills_dir/stealth#_stealth) +10, [Survival](skills_dir/survival#_survival) +15; **Racial Modifiers** +4 [Climb](skills_dir/climb#_climb), +4 [Perception](skills_dir/perception#_perception), +4 [Stealth](skills_dir/stealth#_stealth)
 
 **Languages** Common, Girtablilu
 
-**SQ** scorpion empathy +10, [undersized weapons](monsters/universalMonsterRules#_undersized-weapons)
+**SQ** scorpion empathy +10, [undersized weapons](monsters_dir/universalMonsterRules#_undersized-weapons)
 
 Ecology
 
 **Environment** warm deserts
 
-**Organization** solitary, pair, patrol (3–5 plus 2–4 [giant](monster_dir/creatureTypes#_giant-subtype) scorpions), or cult (6–14 plus 3–6 temple guardians of 3rd level, 1 cleric or oracle leader of 6th level, and 4–9 [giant](monsters/creatureTypes#_giant-subtype) scorpions)
+**Organization** solitary, pair, patrol (3–5 plus 2–4 [giant](monsters_dir/creatureTypes#_giant-subtype) scorpions), or cult (6–14 plus 3–6 temple guardians of 3rd level, 1 cleric or oracle leader of 6th level, and 4–9 [giant](monsters_dir/creatureTypes#_giant-subtype) scorpions)
 
 **Treasure** standard (leather armor, masterwork spear)
 
 Special Abilities
 
-**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Sting—injury; _save_ Fort DC 20; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 2 consecutive saves.
+**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Sting—injury; _save_ Fort DC 20; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 2 consecutive saves.
 
 **Scorpion Empathy (Ex)** This ability functions as a druid's wild empathy ability, save that it works only on scorpions. A girtablilu gains a racial bonus on this check equal to its Hit Dice (normally +10). Scorpions are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing girtablilus to train scorpions and use them as guardians (though it does not grant them skills or feats).
 

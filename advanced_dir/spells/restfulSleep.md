@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/restfulSleep
+title: advanced_dir/spells_dir/restfulSleep
 ---
  **Restful Sleep**
 
@@ -10,9 +10,9 @@ title: advance_dir/spells/restfulSleep
 
 **Components** V, S, M (a pinch of sand)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one creatur_dir/level, no two of which can be more than 30 ft. apart
+**Target** one creature_dir/level, no two of which can be more than 30 ft. apart
 
 **Duration** 8 hours or 24 hours; see text
 

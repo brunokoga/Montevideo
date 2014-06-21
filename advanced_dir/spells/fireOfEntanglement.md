@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/fireOfEntanglement
+title: advanced_dir/spells_dir/fireOfEntanglement
 ---
  **Fire of Entanglement**
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/fireOfEntanglement
 
 **Target** one creature
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Reflex partial; **Spell Resistance** yes
 

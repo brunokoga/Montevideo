@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/resoundingBlow
+title: advanced_dir/spells_dir/resoundingBlow
 ---
  **Resounding Blow**
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/resoundingBlow
 
 **Target** you
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude partial; see text; **Spell Resistance** no
 
@@ -24,5 +24,5 @@ If you are using your judgment ability or smite ability against the target, it i
 
 On a successful critical hit, the target is stunned for 1 round and deafened for 1d6 rounds. A successful Fortitude save negates the stunning and deafening effects. If you are also using judgment or smite, your foe makes only a single save against all effects.
 
-This spell immediately ends if your weapon leaves your hand. _Resounding blow_ stacks with the _ [thundering](../../magicItem_dir/weapons#_thundering)_ weapon property.
+This spell immediately ends if your weapon leaves your hand. _Resounding blow_ stacks with the _ [thundering](../../magicItems_dir/weapons#_thundering)_ weapon property.
 

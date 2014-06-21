@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/sonicWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/sonicWords
 ---
 ## Sonic Words
 
@@ -18,7 +18,7 @@ This effect word deals 1d4 points of sonic damage per caster level (maximum 5d4)
 
 Sound Blast (Sonic)
 
-**School** evocation [sonic]; **Level** bard 4, magus 4, sorcerer/wizard 4
+**School** evocation [sonic]; **Level** bard 4, magus 4, sorcerer_dir/wizard 4
 
 **Duration** instantaneous
 
@@ -28,9 +28,9 @@ This effect word deals 1d6 points of sonic damage per caster level (maximum 10d6
 
 Destructive Vibration (Sonic)
 
-**School** evocation [sonic]; **Level** bard 6, sorcere_dir/wizard 7
+**School** evocation [sonic]; **Level** bard 6, sorcerer_dir/wizard 7
 
-**Duration** instantaneous, 1 round/level, see text
+**Duration** instantaneous, 1 round_dir/level, see text
 
 **Saving Throw** Fortitude half and negates; **Spell Resistance** yes
 

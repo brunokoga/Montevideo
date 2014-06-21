@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/fabricateBullets
+title: ultimateCombat_dir/spells_dir/fabricateBullets
 ---
 Fabricate Bullets
 
-**School** transmutation; **Level** sorcere_dir/wizard 1
+**School** transmutation; **Level** sorcerer_dir/wizard 1
 
 **Casting Time** 1 round
 

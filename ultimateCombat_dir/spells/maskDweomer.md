@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/maskDweomer
+title: ultimateCombat_dir/spells_dir/maskDweomer
 ---
 Mask Dweomer, Communal
 
@@ -8,5 +8,5 @@ Mask Dweomer, Communal
 
 **Target** creatures or objects touched
 
-This spell functions like _ [mask dweomer](advance_dir/spells/maskDweomer#_mask-dweomer) _, except you divide the duration in 1-day increments among the creatures or objects touched.
+This spell functions like _ [mask dweomer](advanced_dir/spells_dir/maskDweomer#_mask-dweomer) _, except you divide the duration in 1-day increments among the creatures or objects touched.
 

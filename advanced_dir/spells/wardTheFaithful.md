@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/wardTheFaithful
+title: advanced_dir/spells_dir/wardTheFaithful
 ---
  **Ward the Faithful**
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/wardTheFaithful
 
 **Area** 10-ft.-radius emanation from touched creature
 
-**Duration** 10 minute_dir/level
+**Duration** 10 minutes_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 

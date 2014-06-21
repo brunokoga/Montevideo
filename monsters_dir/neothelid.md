@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/neothelid
+title: monsters_dir/neothelid
 ---
 # Neothelid
 
@@ -12,7 +12,7 @@ _Its slime-drenched length coiled upon itself in a shuddering mountain, this hug
 
 CE Gargantuan [aberration](creatureTypes#_aberration)
 
-**Init** +2; **Senses** blindsight 100 ft., trace teleport 60 ft.; [Perception](../skill_dir/perception#_perception) +25
+**Init** +2; **Senses** blindsight 100 ft., trace teleport 60 ft.; [Perception](../skills_dir/perception#_perception) +25
 
 **Defense**
 
@@ -22,13 +22,13 @@ CE Gargantuan [aberration](creatureTypes#_aberration)
 
 **Fort** +15, **Ref** +4, **Will** +16
 
-**DR** 10/cold iron; **SR** 26
+**DR** 10_dir/cold iron; **SR** 26
 
 **Offense**
 
 **Speed** 30 ft., fly 60 ft. (good)
 
-**Melee** 4 tongues +21 (3d6+10/19–20 plus [grab](universalMonsterRules#_grab))
+**Melee** 4 tongues +21 (3d6+10_dir/19–20 plus [grab](universalMonsterRules#_grab))
 
 **Space** 20 ft.; **Reach** 20 ft.
 
@@ -36,11 +36,11 @@ CE Gargantuan [aberration](creatureTypes#_aberration)
 
 **Spell-Like Abilities** (CL 20th)
 
-Constant—_ [fly](../spell_dir/fly)_
+Constant—_ [fly](../spells_dir/fly)_
 
-At will—_ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [charm monster](../spell_dir/charmMonster#_charm-monster)_ (DC 19), _clairvoyance/clairaudience, [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 18), _ [telekinesis](../spell_dir/telekinesis#_telekinesis)_ (DC 20), _ [teleport](../spell_dir/teleport#_teleport), [poison](../spell_dir/poison#_poison)_ (DC 19)
+At will—_ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts)_ (DC 17), _ [charm monster](../spells_dir/charmMonster#_charm-monster)_ (DC 19), _clairvoyance_dir/clairaudience, [suggestion](../spells_dir/suggestion#_suggestion)_ (DC 18), _ [telekinesis](../spells_dir/telekinesis#_telekinesis)_ (DC 20), _ [teleport](../spells_dir/teleport#_teleport), [poison](../spells_dir/poison#_poison)_ (DC 19)
 
-3/day—quickened _ [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 18)
+3_dir/day—quickened _ [suggestion](../spells_dir/suggestion#_suggestion)_ (DC 18)
 
 **Statistics**
 
@@ -48,9 +48,9 @@ At will—_ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC
 
 **Base Atk** +15; **CMB** +29 (+33 grapple); **CMD** 37 (can't be tripped)
 
-**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (tongue), [Improved Initiative](../feats#_improved-initiative), [Improved Overrun](../feats#_improved-overrun), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [suggestion](../spell_dir/suggestion#_suggestion)_)
+**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (tongue), [Improved Initiative](../feats#_improved-initiative), [Improved Overrun](../feats#_improved-overrun), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [suggestion](../spells_dir/suggestion#_suggestion)_)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff) +25, [Climb](../skill_dir/climb#_climb) +33, [Diplomacy](../skill_dir/diplomacy#_diplomacy) +25, [Fly](../skill_dir/fly#_fly) –4, [Intimidate](../skill_dir/intimidate#_intimidate) +28, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana) +26, [Perception](../skill_dir/perception#_perception) +25, [Spellcraft](../skill_dir/spellcraft#_spellcraft) +26
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +25, [Climb](../skills_dir/climb#_climb) +33, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +25, [Fly](../skills_dir/fly#_fly) –4, [Intimidate](../skills_dir/intimidate#_intimidate) +28, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +26, [Perception](../skills_dir/perception#_perception) +25, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +26
 
 **Languages** Aklo, Terran, Undercommon; [telepathy](universalMonsterRules#_telepathy) 100 ft.
 

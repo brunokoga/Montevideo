@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCampaig_dir/downtime/roomsAndTeams
+title: ultimateCampaign_dir/downtime_dir/roomsAndTeams
 ---
 # Rooms and Teams
 
@@ -36,7 +36,7 @@ _Example_: An Acolyte is a low-level divine spellcaster. In a Cult, Acolytes are
 
 **Teams and Leadership** : One advantage of having followers from the [Leadership](feats#_leadership) feat is that they increase the effect of Influence and Labor you spend in a settlement. As the primary component of the price of recruiting teams is Influence, having followers in a settlement makes it easier to get the word out about the organization you want to build.
 
-The people in your organization obey you because you pay them, or at least keep regular contact with them and direct their activities. Unlike with cohorts and followers gained from the [Leadership](feats#_leadership) feat (who are loyal toward you because of your reputation and behavior), if you're away from your organization for a long period of time, you might lose your connection with it. In the [Upkeep Phase section](ultimateCampaig_dir/kingdomsAndWar/kingdomBuilding#_upkeep-phase), see Step 3—Determine Capital Attrition.
+The people in your organization obey you because you pay them, or at least keep regular contact with them and direct their activities. Unlike with cohorts and followers gained from the [Leadership](feats#_leadership) feat (who are loyal toward you because of your reputation and behavior), if you're away from your organization for a long period of time, you might lose your connection with it. In the [Upkeep Phase section](ultimateCampaign_dir/kingdomsAndWar_dir/kingdomBuilding#_upkeep-phase), see Step 3—Determine Capital Attrition.
 
 In addition to the ways to combat attrition mentioned in the Upkeep Phase section, recruiting your followers into your organization can help with this problem. You can automatically add followers to your organizations as you recruit teams. For every five of your followers who are also members of your organization, you gain a +1 bonus on the leadership check to avoid attrition. As most followers are low-level characters with NPC classes, most teams of followers aren't trained for combat and are usually recruited to be Acolytes, Bureaucrats, Craftspeople, Lackeys, and so on.
 
@@ -60,7 +60,7 @@ The description section of the unit stat block might list other benefits unrelat
 
 _Example_: The Inn example in the sidebar on page 92 has a Bar, a Common Room, a Kitchen, a Lodging, and a Stall. The Bar gives gp or Influence +10; the Common Room gives gp or Influence +7; the Kitchen gives gp or Goods +4; the Lodging gives gp +12; and the Stall gives gp, Goods, or Labor +8. All of those rooms can earn gp, so if you want to earn gp, just add all the room bonuses together (total +41) and make a skilled work check for the Inn to see how much gp you earn (see page 78). If you wanted to use the Bar's bonus to contribute to generating Influence and use the rest of the rooms' bonuses on gp, you'd attempt one skilled work check for Influence with a +10 modifier (the Bar's bonus) and another skilled work check for gp with a +31 modifier (the total bonuses from the Common Room, Lodging, and Stall).
 
-**Benefit (Rooms Only)** : This entry lists what non-downtime bonuses the room provides, such skill bonuses or changes to settlement modifiers (such as Corruption, Crime, and Danger). If a room provides a skill bonus, that bonus applies only when you're in the location specified. For example, just because you have a Ballroom in your castle doesn't mean you get its [Perform](skill_dir/perform#_perform) bonus when you're in a dungeon.
+**Benefit (Rooms Only)** : This entry lists what non-downtime bonuses the room provides, such skill bonuses or changes to settlement modifiers (such as Corruption, Crime, and Danger). If a room provides a skill bonus, that bonus applies only when you're in the location specified. For example, just because you have a Ballroom in your castle doesn't mean you get its [Perform](skills_dir/perform#_perform) bonus when you're in a dungeon.
 
 The stat block doesn't list obvious benefits that aren't related to game mechanics. For example, a Bar allows you to sell drinks, a Kitchen allows you to serve food (either for your personal guests or to paying customers if the building is an Inn), and a Magical Repository allows you to research spells.
 
@@ -70,7 +70,7 @@ The stat block doesn't list obvious benefits that aren't related to game mechani
 
 If a team doesn't have a Time price, spending capital to recruit that team doesn't count as a downtime action.
 
-Note that the Time prices for teams are for recruiting the team for long-term employment and don't reflect the availability of these kinds of NPCs for temporary work. For example, if you need to hire a 3rd-level cleric to cast _ [lesser restoration](spells/restoration#_restoration-lesser)_, you don't have to spend 7 days of downtime recruiting a Priest team—you can just make standard spellcasting arrangements as described in the _Core Rulebook_.
+Note that the Time prices for teams are for recruiting the team for long-term employment and don't reflect the availability of these kinds of NPCs for temporary work. For example, if you need to hire a 3rd-level cleric to cast _ [lesser restoration](spells_dir/restoration#_restoration-lesser)_, you don't have to spend 7 days of downtime recruiting a Priest team—you can just make standard spellcasting arrangements as described in the _Core Rulebook_.
 
 **Size** : If the unit is a room, this entry indicates a range of how many 5-foot squares are needed for a standard room of its type. For example, a Kitchen is 2—6 5-foot squares. If you need a larger room of this type, construct two rooms and join them. If you need a smaller room of this size, you can make it that smaller size for free. For example, if you only need a 5-foot-square Kitchen, you can construct one at the listed price, even though the smallest size listed is 2 5-foot squares.
 
@@ -110,13 +110,13 @@ Alchemy Lab
 
 **Size** 8—16 squares
 
-This room aids you when you're attempting [Craft](skill_dir/craft#_craft) (alchemy) checks, researching new alchemist formulae, and performing similar alchemical tasks. Up to three people can use the room at a time.
+This room aids you when you're attempting [Craft](skills_dir/craft#_craft) (alchemy) checks, researching new alchemist formulae, and performing similar alchemical tasks. Up to three people can use the room at a time.
 
 Altar
 
 **Earnings** Influence +3
 
-**Benefit** counts as a permanent fixture dedicated to your deity for the purpose of _ [consecrate](spells/consecrate#_consecrate)_ and similar spells
+**Benefit** counts as a permanent fixture dedicated to your deity for the purpose of _ [consecrate](spells_dir/consecrate#_consecrate)_ and similar spells
 
 **Create** 2 Goods, 1 Influence, 2 Labor, 1 Magic (210 gp); **Time** 4 days
 
@@ -150,7 +150,7 @@ Artisan's Workshop
 
 **Earnings** gp, Goods, or Influence +10
 
-**Benefit** counts as masterwork artisan's tools for one [Craft](skill_dir/craft#_craft) skill
+**Benefit** counts as masterwork artisan's tools for one [Craft](skills_dir/craft#_craft) skill
 
 **Create** 9 Goods, 9 Labor (360 gp); **Time** 20 days
 
@@ -162,7 +162,7 @@ Auditorium
 
 **Earnings** gp or Influence +15
 
-**Benefit** bonus on [Perform](skills/perform#_perform) checks
+**Benefit** bonus on [Perform](skills_dir/perform#_perform) checks
 
 **Create** 19 Goods, 1 Influence, 25 Labor (910 gp); **Time** 40 days
 
@@ -170,13 +170,13 @@ Auditorium
 
 **Upgrades From** Ballroom
 
-This large room is used for various artistic performances. It contains a stage, costumes, instruments, and seating for an audience. The superior acoustics and décor grant a +2 bonus on all [Perform](skill_dir/perform#_perform) checks made in this room.
+This large room is used for various artistic performances. It contains a stage, costumes, instruments, and seating for an audience. The superior acoustics and décor grant a +2 bonus on all [Perform](skills_dir/perform#_perform) checks made in this room.
 
 Ballroom
 
 **Earnings** gp or Influence +10
 
-**Benefit** bonus on [Perform](skills/perform#_perform) checks
+**Benefit** bonus on [Perform](skills_dir/perform#_perform) checks
 
 **Create** 19 Goods, 19 Labor (760 gp); **Time** 40 days
 
@@ -184,25 +184,25 @@ Ballroom
 
 **Upgrades To** Auditorium; **Upgrades From** Common Room
 
-This large open room is intended for dances, receptions, and other elaborate events. The superior acoustics and decor grant a +2 bonus on all [Perform](skill_dir/perform#_perform) checks made in this room.
+This large open room is intended for dances, receptions, and other elaborate events. The superior acoustics and decor grant a +2 bonus on all [Perform](skills_dir/perform#_perform) checks made in this room.
 
 Bar
 
 **Earnings** gp or Influence +10
 
-**Benefit** bonus on [Diplomacy](skills/diplomacy#_diplomacy) checks to gather information
+**Benefit** bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) checks to gather information
 
 **Create** 6 Goods, 1 Influence, 5 Labor (250 gp); **Time** 16 days
 
 **Size** 10—20 squares
 
-A Bar stores a selection of drinks and includes a counter for preparing them. After spending an hour with local people in this room, for the next 24 hours you gain a +1 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy) checks you make to gather information in the settlement.
+A Bar stores a selection of drinks and includes a counter for preparing them. After spending an hour with local people in this room, for the next 24 hours you gain a +1 bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) checks you make to gather information in the settlement.
 
 Bath
 
 **Earnings** gp or Influence +3
 
-**Benefit** bonus on Fortitude saves against [disease](bestiary3/universalMonsterRules#disease)
+**Benefit** bonus on Fortitude saves against [disease](bestiary3_dir/universalMonsterRules#disease)
 
 **Create** 3 Goods, 1 Influence, 2 Labor (130 gp); **Time** 8 days
 
@@ -216,7 +216,7 @@ Battle Ring
 
 **Earnings** gp or Influence +15
 
-**Benefit** contestant gains a bonus on [Intimidate](skill_dir/intimidate#_intimidate) and performance combat checks
+**Benefit** contestant gains a bonus on [Intimidate](skills_dir/intimidate#_intimidate) and performance combat checks
 
 **Create** 18 Goods, 4 Influence, 16 Labor (800 gp); **Time** 40 days
 
@@ -224,7 +224,7 @@ Battle Ring
 
 **Upgrades To** Sports Field
 
-This enclosed field is used for some form of dangerous contest, from nonlethal sports like wrestling or boxing to lethal blood sports such as animal fights or gladiatorial combat. It includes seating for spectators, appropriate flooring (padded or sandy), and often some manner of barrier between the audience and combatants. Each day, the person in charge of the Battle Ring can grant one combatant a +2 bonus on [Intimidate](skills/intimidate#_intimidate) and performance combat checks (_Pathfinder RPG Ultimate Combat_ 153). This benefit applies only within the settlement.
+This enclosed field is used for some form of dangerous contest, from nonlethal sports like wrestling or boxing to lethal blood sports such as animal fights or gladiatorial combat. It includes seating for spectators, appropriate flooring (padded or sandy), and often some manner of barrier between the audience and combatants. Each day, the person in charge of the Battle Ring can grant one combatant a +2 bonus on [Intimidate](skills_dir/intimidate#_intimidate) and performance combat checks (_Pathfinder RPG Ultimate Combat_ 153). This benefit applies only within the settlement.
 
 Bedroom
 
@@ -250,7 +250,7 @@ Book Repository
 
 **Earnings** gp or Influence +8
 
-**Benefit** bonus on [Knowledge](skill_dir/knowledge#_knowledge) checks of one type
+**Benefit** bonus on [Knowledge](skills_dir/knowledge#_knowledge) checks of one type
 
 **Create** 8 Goods, 2 Influence, 7 Labor, 1 Magic (460 gp); **Time** 16 days
 
@@ -258,7 +258,7 @@ Book Repository
 
 **Upgrades To** Magical Repository
 
-A Book Repository contains shelves upon shelves of books, in addition to chairs, desks, and tables for reading and studying. Most repositories contain books on a wide array of topics providing a general wealth of information, but some contain books focused on a specific topic. When you construct a Book Repository, select one [Knowledge](skills/knowledge#_knowledge) skill. If someone has a question relating to that [Knowledge](skill_dir/knowledge#_knowledge) skill and is able to spend 1 hour researching in the Book Repository, she gains a +3 bonus on the [Knowledge](skills/knowledge#_knowledge) check to answer the question.
+A Book Repository contains shelves upon shelves of books, in addition to chairs, desks, and tables for reading and studying. Most repositories contain books on a wide array of topics providing a general wealth of information, but some contain books focused on a specific topic. When you construct a Book Repository, select one [Knowledge](skills_dir/knowledge#_knowledge) skill. If someone has a question relating to that [Knowledge](skills_dir/knowledge#_knowledge) skill and is able to spend 1 hour researching in the Book Repository, she gains a +3 bonus on the [Knowledge](skills_dir/knowledge#_knowledge) check to answer the question.
 
 Brewery
 
@@ -308,7 +308,7 @@ Ceremonial Room
 
 **Earnings** Capital +10
 
-**Benefit** bonus on [Bluff](skill_dir/bluff#_bluff), [Diplomacy](skills/diplomacy#_diplomacy), and [Intimidate](skill_dir/intimidate#_intimidate) checks (see below)
+**Benefit** bonus on [Bluff](skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), and [Intimidate](skills_dir/intimidate#_intimidate) checks (see below)
 
 **Create** 16 Goods, 2 Influence, 15 Labor, 5 Magic (1,180 gp); **Time** 40 days
 
@@ -316,7 +316,7 @@ Ceremonial Room
 
 **Upgrade To** Throne Room; **Upgrade From** Common Room
 
-This is a large, open room for important events such as religious services, town meetings, and weddings. It often features an elevated area for the focus or leader of the event, and might have seats for others in attendance. A person leading or officially speaking at the event gains a +1 bonus on [Bluff](skills/bluff#_bluff), [Diplomacy](skill_dir/diplomacy#_diplomacy), and [Intimidate](skills/intimidate#_intimidate) checks to influence others at the event. This bonus ends when the event ends.
+This is a large, open room for important events such as religious services, town meetings, and weddings. It often features an elevated area for the focus or leader of the event, and might have seats for others in attendance. A person leading or officially speaking at the event gains a +1 bonus on [Bluff](skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), and [Intimidate](skills_dir/intimidate#_intimidate) checks to influence others at the event. This bonus ends when the event ends.
 
 Classroom
 
@@ -332,7 +332,7 @@ Clockwork Shop
 
 **Earnings** gp, Goods, or Labor +10
 
-**Benefit** counts as masterwork artisan's tools for [Craft](skill_dir/craft#_craft) ( [clockwork](bestiary3/creatureTypes#clockwork-subtype))
+**Benefit** counts as masterwork artisan's tools for [Craft](skills_dir/craft#_craft) ( [clockwork](bestiary3_dir/creatureTypes#clockwork-subtype))
 
 **Create** 9 Goods, 9 Labor (360 gp); **Time** 20 days
 
@@ -354,13 +354,13 @@ This versatile open area has enough space for many people to use at once. A Comm
 
 Confessional
 
-**Benefit** bonus on [Stealth](skill_dir/stealth#_stealth) checks
+**Benefit** bonus on [Stealth](skills_dir/stealth#_stealth) checks
 
 **Create** 2 Goods, 3 Labor (100 gp); **Time** 4 days
 
 **Size** 2—4 squares
 
-This pair of tiny, linked rooms allows for private conversations. Alternatively, you may construct a hidden space that allows you to watch another room without being observed, such as through a peephole in a tapestry or mosaic. One side of this room provides a +4 bonus on [Stealth](skills/stealth#_stealth) checks to hide from creatures in the adjoining room. A Confessional can be constructed in a way that allows this bonus to apply to creatures in both sides or just in one.
+This pair of tiny, linked rooms allows for private conversations. Alternatively, you may construct a hidden space that allows you to watch another room without being observed, such as through a peephole in a tapestry or mosaic. One side of this room provides a +4 bonus on [Stealth](skills_dir/stealth#_stealth) checks to hide from creatures in the adjoining room. A Confessional can be constructed in a way that allows this bonus to apply to creatures in both sides or just in one.
 
 Courtyard
 
@@ -390,7 +390,7 @@ Defensive Wall
 
 **Size** 20—40 squares
 
-This simple wooden wall, fence, or hedge surrounds your structure and provides a modicum of security. It is no taller than 10 feet, includes a single gate with a simple lock, and can be scaled with a DC 14 [Climb](skill_dir/climb#_climb) check. It can be constructed as a stone wall—increasing the height by up to 10 feet and the [Climb](skills/climb#_climb) DC to 20—by doubling the price. If combined with a Guard Post, this can be a walkable wall with a parapet.
+This simple wooden wall, fence, or hedge surrounds your structure and provides a modicum of security. It is no taller than 10 feet, includes a single gate with a simple lock, and can be scaled with a DC 14 [Climb](skills_dir/climb#_climb) check. It can be constructed as a stone wall—increasing the height by up to 10 feet and the [Climb](skills_dir/climb#_climb) DC to 20—by doubling the price. If combined with a Guard Post, this can be a walkable wall with a parapet.
 
 Dock
 
@@ -430,13 +430,13 @@ Escape Route
 
 **Upgrades From** Secret Room
 
-This is a hallway or tunnel leading to a hidden exit from the building. The exit door is typically a simple wooden door with an average lock ( [Disable Device](skill_dir/disableDevice#_disable-device) DC 20 to open). Either or both ends of the hallway can be secret doors ( [Perception](skills/perception#_perception) DC 20 to notice).
+This is a hallway or tunnel leading to a hidden exit from the building. The exit door is typically a simple wooden door with an average lock ( [Disable Device](skills_dir/disableDevice#_disable-device) DC 20 to open). Either or both ends of the hallway can be secret doors ( [Perception](skills_dir/perception#_perception) DC 20 to notice).
 
 False Front
 
 **Earnings** gp or Goods +2
 
-**Benefit** bonus to [Perception](skill_dir/perception#_perception) and [Sense Motive](skills/senseMotive#_sense-motive) DCs
+**Benefit** bonus to [Perception](skills_dir/perception#_perception) and [Sense Motive](skills_dir/senseMotive#_sense-motive) DCs
 
 **Create** 4 Goods, 1 Influence, 4 Labor (190 gp); **Time** 12 days
 
@@ -444,7 +444,7 @@ False Front
 
 **Upgrades To** Storage and Storefront (see below)
 
-This simple, nondescript business uses an innocuous front to hide criminal dealings. It might appear to be a low-quality pawnshop or ill-stocked market. It has the bare necessities for functioning as the kind of business it pretends to be, but its true purpose is to conceal the nature of the building—typically a criminal enterprise or secret meeting place, such as a cult's sanctuary or a den of thieves. The room includes a secret door leading to the rest of the building. The room increases [Perception](skill_dir/perception#_perception) and [Sense Motive](skills/senseMotive#_sense-motive) DCs by 5 for those trying to notice unusual activity or determine whether the building is what it seems. Since a False Front contains both a false Storefront and false display area, its space can be upgraded to both Storage and a Storefront simultaneously (or upgraded to just one, leaving the remaining area unused).
+This simple, nondescript business uses an innocuous front to hide criminal dealings. It might appear to be a low-quality pawnshop or ill-stocked market. It has the bare necessities for functioning as the kind of business it pretends to be, but its true purpose is to conceal the nature of the building—typically a criminal enterprise or secret meeting place, such as a cult's sanctuary or a den of thieves. The room includes a secret door leading to the rest of the building. The room increases [Perception](skills_dir/perception#_perception) and [Sense Motive](skills_dir/senseMotive#_sense-motive) DCs by 5 for those trying to notice unusual activity or determine whether the building is what it seems. Since a False Front contains both a false Storefront and false display area, its space can be upgraded to both Storage and a Storefront simultaneously (or upgraded to just one, leaving the remaining area unused).
 
 Farmland
 
@@ -466,7 +466,7 @@ Forge
 
 **Size** 8—16 squares
 
-A Forge includes a hearth, an anvil, a slack tub, metalworking tools, and other appropriate materials for shaping iron and other metals. A Forge counts as artisan's tools for up to three people working on metalworking skills such as [Craft](skill_dir/craft#_craft) (armor) and [Craft](skills/craft#_craft) (weapons).
+A Forge includes a hearth, an anvil, a slack tub, metalworking tools, and other appropriate materials for shaping iron and other metals. A Forge counts as artisan's tools for up to three people working on metalworking skills such as [Craft](skills_dir/craft#_craft) (armor) and [Craft](skills_dir/craft#_craft) (weapons).
 
 Game Room
 
@@ -494,7 +494,7 @@ This area of carefully tended soil is fit for growing plants that require greate
 
 Gatehouse
 
-**Benefit** defenders get bonus on initiative and [Perception](skill_dir/perception#_perception) checks
+**Benefit** defenders get bonus on initiative and [Perception](skills_dir/perception#_perception) checks
 
 **Create** 15 Goods, 3 Influence, 12 Labor (630 gp); **Time** 40 days
 
@@ -502,7 +502,7 @@ Gatehouse
 
 **Upgrades From** Gauntlet, Guard Post
 
-This defensive structure prevents access to a building. It is normally arranged so defenders have a clear line of sight to all room entrances or a clear view of all approaches to the building. It includes a strong wooden door with a good lock. You can improve this to an iron door for 500 gp. You can add a wooden portcullis for 500 gp or an iron portcullis for 1,000 gp. For an additional 80 gp, you can also count this room as a Gauntlet, allowing defenders to fall back and trap intruders here. You can construct this room in a tower layout (at no additional cost), which includes a second story that also counts as a Gatehouse. The listed price includes the cost of having unskilled employees as guards (1st-level commoners or experts with uniforms, but no armor or weapons). If the building has an Armory, these employees are armed and armored, but still mostly for show. If you want trained guards who can defend against dangerous intruders, hire professional guards or recruit a team of Guards or Soldiers. You can use a Gatehouse as a Tollbooth, which provides the same Earnings (gp or Goods +4). Any defender using the Gatehouse's defenses gains a +1 bonus on initiative checks and on [Perception](skills/perception#_perception) checks against intruders at the Gatehouse.
+This defensive structure prevents access to a building. It is normally arranged so defenders have a clear line of sight to all room entrances or a clear view of all approaches to the building. It includes a strong wooden door with a good lock. You can improve this to an iron door for 500 gp. You can add a wooden portcullis for 500 gp or an iron portcullis for 1,000 gp. For an additional 80 gp, you can also count this room as a Gauntlet, allowing defenders to fall back and trap intruders here. You can construct this room in a tower layout (at no additional cost), which includes a second story that also counts as a Gatehouse. The listed price includes the cost of having unskilled employees as guards (1st-level commoners or experts with uniforms, but no armor or weapons). If the building has an Armory, these employees are armed and armored, but still mostly for show. If you want trained guards who can defend against dangerous intruders, hire professional guards or recruit a team of Guards or Soldiers. You can use a Gatehouse as a Tollbooth, which provides the same Earnings (gp or Goods +4). Any defender using the Gatehouse's defenses gains a +1 bonus on initiative checks and on [Perception](skills_dir/perception#_perception) checks against intruders at the Gatehouse.
 
 Gauntlet
 
@@ -532,7 +532,7 @@ Guard Post
 
 **Earnings** gp or Goods +4
 
-**Benefit** defenders get a bonus on initiative and [Perception](skill_dir/perception#_perception) checks
+**Benefit** defenders get a bonus on initiative and [Perception](skills_dir/perception#_perception) checks
 
 **Create** 7 Goods, 2 Influence, 6 Labor (320 gp); **Time** 20 days
 
@@ -540,7 +540,7 @@ Guard Post
 
 **Upgrades From** Tollbooth; **Upgrades To** Gatehouse
 
-This defensive structure prevents access to a building. It is normally arranged so defenders have a clear line of sight to all room entrances or a clear view of all approaches to the building. You can construct this room in a tower layout (at no additional cost), which includes a second story that also counts as a Guard Post. The listed price includes the cost of having unskilled employees as guards (1st-level commoners or experts with uniforms, but no armor or weapons). If the building has an Armory, these employees are armed and armored, but still mostly for show. If you want trained guards who can defend against dangerous intruders, hire professional guards or recruit a team of Guards or Soldiers. Any defender using the Guard Post's defenses gains a +1 bonus on initiative checks and on [Perception](skills/perception#_perception) checks against intruders at the Guard Post.
+This defensive structure prevents access to a building. It is normally arranged so defenders have a clear line of sight to all room entrances or a clear view of all approaches to the building. You can construct this room in a tower layout (at no additional cost), which includes a second story that also counts as a Guard Post. The listed price includes the cost of having unskilled employees as guards (1st-level commoners or experts with uniforms, but no armor or weapons). If the building has an Armory, these employees are armed and armored, but still mostly for show. If you want trained guards who can defend against dangerous intruders, hire professional guards or recruit a team of Guards or Soldiers. Any defender using the Guard Post's defenses gains a +1 bonus on initiative checks and on [Perception](skills_dir/perception#_perception) checks against intruders at the Guard Post.
 
 Habitat
 
@@ -600,7 +600,7 @@ Laundry
 
 **Earnings** gp or Goods +3
 
-**Benefit** bonus on Fortitude saves against contracting [disease](bestiary3/universalMonsterRules#disease)
+**Benefit** bonus on Fortitude saves against contracting [disease](bestiary3_dir/universalMonsterRules#disease)
 
 **Create** 3 Goods, 3 Labor (120 gp); **Time** 8 days
 
@@ -610,7 +610,7 @@ A Laundry contains a large vat for soaking clothes, a cauldron to heat water, wa
 
 Lavatory
 
-**Benefit** Bonus on Fortitude saves against contracting [disease](bestiary3/universalMonsterRules#disease)
+**Benefit** Bonus on Fortitude saves against contracting [disease](bestiary3_dir/universalMonsterRules#disease)
 
 **Create** 3 Goods, 3 Labor (120 gp); **Time** 4 days
 
@@ -630,7 +630,7 @@ Leather Workshop
 
 **Size** 4—10 squares
 
-This workshop includes a sturdy table, stool, vats, drying racks, and tools designed for turning raw hides into leather. The Leather Workshop counts as masterwork artisan's tools for up to three people creating leather goods with skills such as [Craft](skill_dir/craft#_craft) (leather) and [Craft](skills/craft#_craft) (shoes). 
+This workshop includes a sturdy table, stool, vats, drying racks, and tools designed for turning raw hides into leather. The Leather Workshop counts as masterwork artisan's tools for up to three people creating leather goods with skills such as [Craft](skills_dir/craft#_craft) (leather) and [Craft](skills_dir/craft#_craft) (shoes). 
 
 Lodging
 
@@ -648,7 +648,7 @@ Magical Repository
 
 **Earnings** gp, Influence, or Magic +12
 
-**Benefit** bonus on [Knowledge](skill_dir/knowledge#_knowledge) (arcana), [Spellcraft](skills/spellcraft#_spellcraft), and spell research checks
+**Benefit** bonus on [Knowledge](skills_dir/knowledge#_knowledge) (arcana), [Spellcraft](skills_dir/spellcraft#_spellcraft), and spell research checks
 
 **Create** 9 Goods, 3 Influence, 8 Labor, 3 Magic (730 gp); **Time** 20 days
 
@@ -656,7 +656,7 @@ Magical Repository
 
 **Upgrades From** Book Repository
 
-A Magical Repository is similar to a Book Repository, but specific to the study of the arcane arts. It contains shelves of books, comfortable chairs, and tables for studying and for scribing notes and scrolls. If you construct this room from scratch, it grants someone who studies there for 1 hour a +3 bonus on a [Knowledge](skill_dir/knowledge#_knowledge) (arcana) check to answer a question. If you upgrade a Book Repository into this room, you either keep the original Book Repository's bonus on [Knowledge](skills/knowledge#_knowledge) checks or change its skill to [Knowledge](skill_dir/knowledge#_knowledge) (arcana). An hour of study in this room also grants a +3 bonus on [Spellcraft](skills/spellcraft#_spellcraft) checks. The room grants an additional +1 bonus on [Knowledge](skill_dir/knowledge#_knowledge) (arcana) and [Spellcraft](skills/spellcraft#_spellcraft) checks for spell research (see Research a Spell on page 86) and crafting magic items.
+A Magical Repository is similar to a Book Repository, but specific to the study of the arcane arts. It contains shelves of books, comfortable chairs, and tables for studying and for scribing notes and scrolls. If you construct this room from scratch, it grants someone who studies there for 1 hour a +3 bonus on a [Knowledge](skills_dir/knowledge#_knowledge) (arcana) check to answer a question. If you upgrade a Book Repository into this room, you either keep the original Book Repository's bonus on [Knowledge](skills_dir/knowledge#_knowledge) checks or change its skill to [Knowledge](skills_dir/knowledge#_knowledge) (arcana). An hour of study in this room also grants a +3 bonus on [Spellcraft](skills_dir/spellcraft#_spellcraft) checks. The room grants an additional +1 bonus on [Knowledge](skills_dir/knowledge#_knowledge) (arcana) and [Spellcraft](skills_dir/spellcraft#_spellcraft) checks for spell research (see Research a Spell on page 86) and crafting magic items.
 
 Mill Room
 
@@ -682,13 +682,13 @@ Observation Dome
 
 **Earnings** gp, Influence, or Magic +5
 
-**Benefit** bonus on [Knowledge](skill_dir/knowledge#_knowledge) (geography), [Knowledge](skills/knowledge#_knowledge) (nature), and [Knowledge](skill_dir/knowledge#_knowledge) (planes) checks
+**Benefit** bonus on [Knowledge](skills_dir/knowledge#_knowledge) (geography), [Knowledge](skills_dir/knowledge#_knowledge) (nature), and [Knowledge](skills_dir/knowledge#_knowledge) (planes) checks
 
 **Create** 8 Goods, 9 Labor, 1 Magic (440 gp); **Time** 20 days
 
 **Size** 10—20 squares
 
-This elevated room is open to the sky, has a skylight, or has a retractable roof to allow you to observe the passing of celestial bodies. An Observation Dome includes shelves containing records and notes, a telescope, and other devices dedicated to celestial study. If someone spends 1 hour researching in the Observation Dome, she gains a +2 bonus on [Knowledge](skills/knowledge#_knowledge) (geography), [Knowledge](skill_dir/knowledge#_knowledge) (nature), and [Knowledge](skills/knowledge#_knowledge) (planes) checks to answer a question about the heavens.
+This elevated room is open to the sky, has a skylight, or has a retractable roof to allow you to observe the passing of celestial bodies. An Observation Dome includes shelves containing records and notes, a telescope, and other devices dedicated to celestial study. If someone spends 1 hour researching in the Observation Dome, she gains a +2 bonus on [Knowledge](skills_dir/knowledge#_knowledge) (geography), [Knowledge](skills_dir/knowledge#_knowledge) (nature), and [Knowledge](skills_dir/knowledge#_knowledge) (planes) checks to answer a question about the heavens.
 
 Office
 
@@ -728,7 +728,7 @@ Reliquary
 
 **Earnings** gp or Influence +5
 
-**Benefit** bonus on [Knowledge](skill_dir/knowledge#_knowledge) (religion) checks relating to its contents
+**Benefit** bonus on [Knowledge](skills_dir/knowledge#_knowledge) (religion) checks relating to its contents
 
 **Create** 4 Goods, 4 Labor, 1 Magic (260 gp); **Time** 12 days
 
@@ -736,7 +736,7 @@ Reliquary
 
 **Upgrades To** Vault
 
-A Reliquary is built to securely store religious artifacts, and dedicated to a specific deity or philosophy. It contains shelves to house the items, special display cases to protect them, and sometimes chairs and tables to allow study. It's secured by a strong wooden door or grating with a good lock. Unlike a Vault, a Reliquary is intended to allow people to observe its contents. When stocked with relics appropriate to the chosen deity or philosophy, the room grants a +1 bonus on [Knowledge](skills/knowledge#_knowledge) (religion) checks relating to the history, powers, and purpose of those relics.
+A Reliquary is built to securely store religious artifacts, and dedicated to a specific deity or philosophy. It contains shelves to house the items, special display cases to protect them, and sometimes chairs and tables to allow study. It's secured by a strong wooden door or grating with a good lock. Unlike a Vault, a Reliquary is intended to allow people to observe its contents. When stocked with relics appropriate to the chosen deity or philosophy, the room grants a +1 bonus on [Knowledge](skills_dir/knowledge#_knowledge) (religion) checks relating to the history, powers, and purpose of those relics.
 
 Sanctum
 
@@ -752,7 +752,7 @@ Sauna
 
 **Earnings** gp or Influence +3
 
-**Benefit** bonus on [disease](bestiary3/universalMonsterRules#disease) and negative level recovery saves
+**Benefit** bonus on [disease](bestiary3_dir/universalMonsterRules#disease) and negative level recovery saves
 
 **Create** 3 Goods, 3 Labor (120 gp); **Time** 8 days
 
@@ -774,7 +774,7 @@ Scriptorium
 
 **Upgrades To** Printer
 
-A Scriptorium is where scribes do their work. It contains chairs and writing desks, as well as ink, paper, and other supplies needed to create or copy written works. Up to three people can use the room at a time for scribing scrolls or using [Craft](skill_dir/craft#_craft) (calligraphy) or [Profession](skills/profession#_profession) (scribe).
+A Scriptorium is where scribes do their work. It contains chairs and writing desks, as well as ink, paper, and other supplies needed to create or copy written works. Up to three people can use the room at a time for scribing scrolls or using [Craft](skills_dir/craft#_craft) (calligraphy) or [Profession](skills_dir/profession#_profession) (scribe).
 
 Scrying Room
 
@@ -786,7 +786,7 @@ Scrying Room
 
 **Size** 4—16 squares
 
-A Scrying Room is built to be a quiet place for scrying, seances, and similar divinations. It contains a table, chairs, and either a pool of water (at no additional cost) or a suitable focus object for a scrying spell (for an additional 1,000 gp). A caster using _ [scrying](spell_dir/scrying#_scrying)_, _ [locate creature](spells/locateCreature#_locate-creature)_, or a similar targeted divination from here increases the spell's DC by 1.
+A Scrying Room is built to be a quiet place for scrying, seances, and similar divinations. It contains a table, chairs, and either a pool of water (at no additional cost) or a suitable focus object for a scrying spell (for an additional 1,000 gp). A caster using _ [scrying](spells_dir/scrying#_scrying)_, _ [locate creature](spells_dir/locateCreature#_locate-creature)_, or a similar targeted divination from here increases the spell's DC by 1.
 
 Secret Room
 
@@ -794,7 +794,7 @@ Secret Room
 
 **Size** 6—10 squares
 
-**Upgrades From** Vault; **Upgrades To** [Escape Route](ultimateComba_dir/ultimateCombatFeats#escape-route)
+**Upgrades From** Vault; **Upgrades To** [Escape Route](ultimateCombat_dir/ultimateCombatFeats#escape-route)
 
 This is either a room or a passage connecting two rooms in the building. The access to this space is controlled by a secret a (DC 20). A passage can have secret doors at both ends or a normal door at one end and a secret door at the other. If it's a room, it is typically used to hide someone or something you don't want discovered. If it's a passage, it's typically used for clandestine travel within the building, often for the purpose of smuggling or spying. For every 500 extra gp you spend, you can improve one secret door in the building to a well-hidden secret door (DC 30).
 
@@ -804,19 +804,19 @@ Sewer Access
 
 **Size** 4—6 squares
 
-A Sewer Access might be a tunnel or room, or something as simple as a sturdy trap door in the floor. Constructing it requires a settlement with a sewer or septic system, and connects some part of the building to that system. You can use this as an [Escape Route](ultimateCombat/ultimateCombatFeats#escape-route), but only to get to and from the sewer. The door to the sewer is a strong wooden door with a good lock. For an additional 500 gp, it has an iron door instead. If you have a Lavatory and Sewer Access, you may automatically connect the Lavatory to the sewer with indoor plumbing.
+A Sewer Access might be a tunnel or room, or something as simple as a sturdy trap door in the floor. Constructing it requires a settlement with a sewer or septic system, and connects some part of the building to that system. You can use this as an [Escape Route](ultimateCombat_dir/ultimateCombatFeats#escape-route), but only to get to and from the sewer. The door to the sewer is a strong wooden door with a good lock. For an additional 500 gp, it has an iron door instead. If you have a Lavatory and Sewer Access, you may automatically connect the Lavatory to the sewer with indoor plumbing.
 
 Sewing Room
 
 **Earnings** gp, Goods, or Influence +10
 
-**Benefit** counts as masterwork artisan's tools for one [Craft](skill_dir/craft#_craft) skill
+**Benefit** counts as masterwork artisan's tools for one [Craft](skills_dir/craft#_craft) skill
 
 **Create** 8 Goods, 7 Labor (300 gp); **Time** 16 days
 
 **Size** 6—12 squares
 
-A Sewing Room is used for designing heraldry and making cloth garments, tapestries, blankets, carpets, linens, and other textiles. It contains a loom; a spinning wheel; tapestry frames; shelves for fabric; worktables; and tools for spinning, weaving, and sewing. Up to three people can use the room at once; gaining the benefit of masterwork artisan's tools for skills such as [Craft](skills/craft#_craft) (cloth) and [Craft](skill_dir/craft#_craft) (clothing), and for related skills such as [Craft](skills/craft#_craft) (baskets).
+A Sewing Room is used for designing heraldry and making cloth garments, tapestries, blankets, carpets, linens, and other textiles. It contains a loom; a spinning wheel; tapestry frames; shelves for fabric; worktables; and tools for spinning, weaving, and sewing. Up to three people can use the room at once; gaining the benefit of masterwork artisan's tools for skills such as [Craft](skills_dir/craft#_craft) (cloth) and [Craft](skills_dir/craft#_craft) (clothing), and for related skills such as [Craft](skills_dir/craft#_craft) (baskets).
 
 Shack
 
@@ -854,13 +854,13 @@ Sitting Room
 
 **Earnings** Influence +4
 
-**Benefit** bonus on [Bluff](skill_dir/bluff#_bluff), [Diplomacy](skills/diplomacy#_diplomacy), [Intimidate](skill_dir/intimidate#_intimidate), [Knowledge](skills/knowledge#_knowledge) (local), and [Perform](skill_dir/perform#_perform) checks
+**Benefit** bonus on [Bluff](skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), [Intimidate](skills_dir/intimidate#_intimidate), [Knowledge](skills_dir/knowledge#_knowledge) (local), and [Perform](skills_dir/perform#_perform) checks
 
 **Create** 12 Goods, 12 Labor (480 gp); **Time** 24 days
 
 **Size** 6—10 squares
 
-This is a room used for meeting and entertaining in a relaxed, comfortable setting, such as a den, dining room, or smoking room. It has furnishings appropriate to its function (chairs for a sitting room, table and chairs for a dining room, and so on). By spending an hour conversing with guests in a social manner, the host of the room gains a +1 bonus on [Bluff](skills/bluff#_bluff), [Diplomacy](skill_dir/diplomacy#_diplomacy), [Intimidate](skills/intimidate#_intimidate), [Knowledge](skill_dir/knowledge#_knowledge) (local), and [Perform](skills/perform#_perform) checks to influence or learn about those guests for the next 24 hours.
+This is a room used for meeting and entertaining in a relaxed, comfortable setting, such as a den, dining room, or smoking room. It has furnishings appropriate to its function (chairs for a sitting room, table and chairs for a dining room, and so on). By spending an hour conversing with guests in a social manner, the host of the room gains a +1 bonus on [Bluff](skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), [Intimidate](skills_dir/intimidate#_intimidate), [Knowledge](skills_dir/knowledge#_knowledge) (local), and [Perform](skills_dir/perform#_perform) checks to influence or learn about those guests for the next 24 hours.
 
 Sports Field
 
@@ -924,19 +924,19 @@ Summoning Chamber
 
 **Earnings** Magic +3
 
-**Benefit** bonus on Charisma, [Diplomacy](skill_dir/diplomacy#_diplomacy), [Intimidate](skills/intimidate#_intimidate), and [Knowledge](skill_dir/knowledge#_knowledge) (planes) checks
+**Benefit** bonus on Charisma, [Diplomacy](skills_dir/diplomacy#_diplomacy), [Intimidate](skills_dir/intimidate#_intimidate), and [Knowledge](skills_dir/knowledge#_knowledge) (planes) checks
 
 **Create** 11 Goods, 4 Influence, 10 Labor, 5 Magic (1,040 gp); **Time** 28 days
 
 **Size** 6—16 squares
 
-A Summoning Chamber is used to perform magical rituals to conjure outsiders. It contains a well-drawn, nearly complete magic circle on the floor—which you can complete with just a few chalk marks—suitable for use with _magic circle _spells, _ [planar binding](spells/planarBinding#_planar-binding)_ spells, and so on. A person who uses a Summoning Chamber gains a +3 bonus on [Knowledge](skill_dir/knowledge#_knowledge) (planes) checks relating to a creature being called or summoned, and a +3 bonus on Charisma checks, [Diplomacy](skills/diplomacy#_diplomacy) checks, and [Intimidate](skill_dir/intimidate#_intimidate) checks to influence or bargain with a creature called or summoned here.
+A Summoning Chamber is used to perform magical rituals to conjure outsiders. It contains a well-drawn, nearly complete magic circle on the floor—which you can complete with just a few chalk marks—suitable for use with _magic circle _spells, _ [planar binding](spells_dir/planarBinding#_planar-binding)_ spells, and so on. A person who uses a Summoning Chamber gains a +3 bonus on [Knowledge](skills_dir/knowledge#_knowledge) (planes) checks relating to a creature being called or summoned, and a +3 bonus on Charisma checks, [Diplomacy](skills_dir/diplomacy#_diplomacy) checks, and [Intimidate](skills_dir/intimidate#_intimidate) checks to influence or bargain with a creature called or summoned here.
 
 Throne Room
 
 **Earnings** Influence +15
 
-**Benefit** bonus on [Bluff](skills/bluff#_bluff), [Diplomacy](skill_dir/diplomacy#_diplomacy), and [Intimidate](skills/intimidate#_intimidate), [Knowledge](skill_dir/knowledge#_knowledge) (local), and [Perform](skills/perform#_perform) checks
+**Benefit** bonus on [Bluff](skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), and [Intimidate](skills_dir/intimidate#_intimidate), [Knowledge](skills_dir/knowledge#_knowledge) (local), and [Perform](skills_dir/perform#_perform) checks
 
 **Create** 25 Goods, 5 Influence, 25 Labor, 5 Magic (1,650 gp); **Time** 40 days
 
@@ -944,7 +944,7 @@ Throne Room
 
 **Upgrades From** Ceremonial Room, Common Room
 
-A Throne Room is used to receive important visitors, such as nobles. The room contains a throne, various decorations, and a few seats for visitors. By spending an hour conversing with visitors, the host of the room gains a +1 bonus on [Bluff](skill_dir/bluff#_bluff), [Diplomacy](skills/diplomacy#_diplomacy), [Intimidate](skill_dir/intimidate#_intimidate), [Knowledge](skills/knowledge#_knowledge) (local), and [Perform](skill_dir/perform#_perform) checks to influence or learn about those guests for the next 24 hours.
+A Throne Room is used to receive important visitors, such as nobles. The room contains a throne, various decorations, and a few seats for visitors. By spending an hour conversing with visitors, the host of the room gains a +1 bonus on [Bluff](skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), [Intimidate](skills_dir/intimidate#_intimidate), [Knowledge](skills_dir/knowledge#_knowledge) (local), and [Perform](skills_dir/perform#_perform) checks to influence or learn about those guests for the next 24 hours.
 
 Tollbooth
 
@@ -960,13 +960,13 @@ A Tollbooth is a small shelter designed to restrict movement on a road or bridge
 
 Torture Chamber
 
-**Benefit** bonus on [Intimidate](skills/intimidate#_intimidate) checks
+**Benefit** bonus on [Intimidate](skills_dir/intimidate#_intimidate) checks
 
 **Create** 7 Goods, 3 Influence, 5 Labor (330 gp); **Time** 20 days
 
 **Size** 6—16 squares
 
-This grim room is used for interrogation as well as torture and other morally questionable acts. It contains structures to bind humanoids and various implements designed to inflict pain and discomfort. Interrogators in this room gain a +3 bonus on [Intimidate](skill_dir/intimidate#_intimidate) checks to influence captives.
+This grim room is used for interrogation as well as torture and other morally questionable acts. It contains structures to bind humanoids and various implements designed to inflict pain and discomfort. Interrogators in this room gain a +3 bonus on [Intimidate](skills_dir/intimidate#_intimidate) checks to influence captives.
 
 Trap
 
@@ -1012,13 +1012,13 @@ Workstation
 
 **Earnings** gp, Goods, or Influence +8
 
-**Benefit** counts as masterwork artisan's tools for one [Craft](skills/craft#_craft) or [Profession](skill_dir/profession#_profession) skill
+**Benefit** counts as masterwork artisan's tools for one [Craft](skills_dir/craft#_craft) or [Profession](skills_dir/profession#_profession) skill
 
 **Create** 8 Goods, 7 Labor (300 gp); **Time** 16 days
 
 **Size** 8—16 squares
 
-This includes a table, chair, and appropriate masterwork artisan's tools for one [Craft](skills/craft#_craft) or [Profession](skill_dir/profession#_profession) skill you choose when you build the room. For example, if intended for a carpenter, it has clamps, saws, nails, hammers, and a sturdy worktable. Up to three people can use the room at a time.
+This includes a table, chair, and appropriate masterwork artisan's tools for one [Craft](skills_dir/craft#_craft) or [Profession](skills_dir/profession#_profession) skill you choose when you build the room. For example, if intended for a carpenter, it has clamps, saws, nails, hammers, and a sturdy worktable. Up to three people can use the room at a time.
 
 ### Room Augmentations
 
@@ -1100,7 +1100,7 @@ Bureaucrats
 
 **Upgrade From** Scofflaws, Soldiers
 
-Bureaucrats interface with local government and deal with annoying paperwork related to running a business or organization. This type of team could include accountants, diplomats, lawyers, and scribes. A typical bureaucrat is a 1st-, 2nd-, or 3rd-level expert with ranks in [Bluff](skills/bluff#_bluff), [Diplomacy](skill_dir/diplomacy#_diplomacy), [Intimidate](skills/intimidate#_intimidate), [Knowledge](skill_dir/knowledge#_knowledge) (local), [Linguistics](skills/linguistics#_linguistics), and [Profession](skill_dir/profession#_profession) (barrister, clerk, or scribe).
+Bureaucrats interface with local government and deal with annoying paperwork related to running a business or organization. This type of team could include accountants, diplomats, lawyers, and scribes. A typical bureaucrat is a 1st-, 2nd-, or 3rd-level expert with ranks in [Bluff](skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), [Intimidate](skills_dir/intimidate#_intimidate), [Knowledge](skills_dir/knowledge#_knowledge) (local), [Linguistics](skills_dir/linguistics#_linguistics), and [Profession](skills_dir/profession#_profession) (barrister, clerk, or scribe).
 
 Cavalry
 
@@ -1134,7 +1134,7 @@ Craftspeople
 
 **Size** 3 people
 
-Craftspeople are trained in a particular [Craft](skills/craft#_craft) or [Profession](skill_dir/profession#_profession) skill and make a living using that skill. Examples of this team are alchemists, carpenters, leatherworkers, masons, and smiths. A typical carpenter is a 4th-level expert (_Pathfinder RPG NPC Codex_ 261) with 4 ranks each in [Climb](skills/climb#_climb), [Craft](skill_dir/craft#_craft) (carpentry), [Diplomacy](skills/diplomacy#_diplomacy), and [Knowledge](skill_dir/knowledge#_knowledge) (engineering and local). Craftspeople in other fields have a similar skill arrangement.
+Craftspeople are trained in a particular [Craft](skills_dir/craft#_craft) or [Profession](skills_dir/profession#_profession) skill and make a living using that skill. Examples of this team are alchemists, carpenters, leatherworkers, masons, and smiths. A typical carpenter is a 4th-level expert (_Pathfinder RPG NPC Codex_ 261) with 4 ranks each in [Climb](skills_dir/climb#_climb), [Craft](skills_dir/craft#_craft) (carpentry), [Diplomacy](skills_dir/diplomacy#_diplomacy), and [Knowledge](skills_dir/knowledge#_knowledge) (engineering and local). Craftspeople in other fields have a similar skill arrangement.
 
 Cutpurses
 
@@ -1146,7 +1146,7 @@ Cutpurses
 
 **Upgrades To** Robbers
 
-Cutpurses are minor thieves (often youths) who earn money from petty crimes such as pickpocketing or stealing items from market stalls. They are typically 1st-level commoners (_NPC Codex_ 256), experts (_NPC Codex_ 260), or rogues (_NPC Codex_ 144) with 1 rank in [Perception](skills/perception#_perception), [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand), and [Stealth](skills/stealth#_stealth).
+Cutpurses are minor thieves (often youths) who earn money from petty crimes such as pickpocketing or stealing items from market stalls. They are typically 1st-level commoners (_NPC Codex_ 256), experts (_NPC Codex_ 260), or rogues (_NPC Codex_ 144) with 1 rank in [Perception](skills_dir/perception#_perception), [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand), and [Stealth](skills_dir/stealth#_stealth).
 
 Driver
 
@@ -1158,7 +1158,7 @@ Driver
 
 **Upgrades From** Laborers; **Upgrades To** Lackeys
 
-Drivers are trained to handle and move common animals—managing ox-drawn carts, herding cattle, or training riding horses. A Driver is typically 1st-level expert with ranks in [Handle Animal](skill_dir/handleAnimal#_handle-animal), [Knowledge](skills/knowledge#_knowledge) (geography), [Profession](skill_dir/profession#_profession) (driver), [Ride](skills/ride#_ride), and [Survival](skill_dir/survival#_survival).
+Drivers are trained to handle and move common animals—managing ox-drawn carts, herding cattle, or training riding horses. A Driver is typically 1st-level expert with ranks in [Handle Animal](skills_dir/handleAnimal#_handle-animal), [Knowledge](skills_dir/knowledge#_knowledge) (geography), [Profession](skills_dir/profession#_profession) (driver), [Ride](skills_dir/ride#_ride), and [Survival](skills_dir/survival#_survival).
 
 Elite Archers
 
@@ -1218,7 +1218,7 @@ Laborers
 
 **Upgrades To** Drivers, Guards, Lackeys, Sailors, Scofflaws
 
-Laborers are unskilled workers who carry out basic orders. In most cases, their work is physical labor, though you may recruit laborers for specialized tasks such as begging for your thieves' guild, being professional mourners for your cult, or filling out the cast of a theater performance. They are typically 1st-level commoners (_NPC Codex_ 256) with no ranks in [Craft](skills/craft#_craft) or [Profession](skill_dir/profession#_profession).
+Laborers are unskilled workers who carry out basic orders. In most cases, their work is physical labor, though you may recruit laborers for specialized tasks such as begging for your thieves' guild, being professional mourners for your cult, or filling out the cast of a theater performance. They are typically 1st-level commoners (_NPC Codex_ 256) with no ranks in [Craft](skills_dir/craft#_craft) or [Profession](skills_dir/profession#_profession).
 
 Lackeys
 
@@ -1230,7 +1230,7 @@ Lackeys
 
 **Upgrades From** Drivers, Laborers
 
-Lackeys wait on you hand and foot and take care of common domestic and traveling issues; their ranks include butlers, valets, maids, heralds, footmen, ladies-in-waiting, and similar service personnel. Skilled Lackeys anticipate your needs and coordinate with your other employees as well as those of your guests or host. A typical Lackey is a 1st-level commoner or expert with ranks in a subset of [Diplomacy](skills/diplomacy#_diplomacy), [Disguise](skill_dir/disguise#_disguise), [Intimidate](skills/intimidate#_intimidate), [Knowledge](skill_dir/knowledge#_knowledge) (local), [Knowledge](skills/knowledge#_knowledge) (nobility), [Linguistics](skill_dir/linguistics#_linguistics), [Perception](skills/perception#_perception), and [Sense Motive](skill_dir/senseMotive#_sense-motive).
+Lackeys wait on you hand and foot and take care of common domestic and traveling issues; their ranks include butlers, valets, maids, heralds, footmen, ladies-in-waiting, and similar service personnel. Skilled Lackeys anticipate your needs and coordinate with your other employees as well as those of your guests or host. A typical Lackey is a 1st-level commoner or expert with ranks in a subset of [Diplomacy](skills_dir/diplomacy#_diplomacy), [Disguise](skills_dir/disguise#_disguise), [Intimidate](skills_dir/intimidate#_intimidate), [Knowledge](skills_dir/knowledge#_knowledge) (local), [Knowledge](skills_dir/knowledge#_knowledge) (nobility), [Linguistics](skills_dir/linguistics#_linguistics), [Perception](skills_dir/perception#_perception), and [Sense Motive](skills_dir/senseMotive#_sense-motive).
 
 Mage
 
@@ -1266,7 +1266,7 @@ Robbers
 
 **Upgrades From** Cutpurses
 
-Robbers are expert thieves who commit burglary, robbery, and other violent crimes for profit. A typical robber is a 3rd-level expert or rogue with 3 ranks each in [Climb](skills/climb#_climb), [Disable Device](skill_dir/disableDevice#_disable-device), [Intimidate](skills/intimidate#_intimidate), [Perception](skill_dir/perception#_perception), and [Stealth](skills/stealth#_stealth).
+Robbers are expert thieves who commit burglary, robbery, and other violent crimes for profit. A typical robber is a 3rd-level expert or rogue with 3 ranks each in [Climb](skills_dir/climb#_climb), [Disable Device](skills_dir/disableDevice#_disable-device), [Intimidate](skills_dir/intimidate#_intimidate), [Perception](skills_dir/perception#_perception), and [Stealth](skills_dir/stealth#_stealth).
 
 Sage
 
@@ -1278,7 +1278,7 @@ Sage
 
 **Upgrades From** Acolyte, Apprentice
 
-A sage is a person with extensive knowledge in one or more related areas who can advise you about his areas of expertise. A typical sage is a 3rd-level expert with 3 ranks each in skills such as [Appraise](skill_dir/appraise#_appraise), [Knowledge](skills/knowledge#_knowledge), [Linguistics](skill_dir/linguistics#_linguistics), [Profession](skills/profession#_profession), and [Spellcraft](skill_dir/spellcraft#_spellcraft).
+A sage is a person with extensive knowledge in one or more related areas who can advise you about his areas of expertise. A typical sage is a 3rd-level expert with 3 ranks each in skills such as [Appraise](skills_dir/appraise#_appraise), [Knowledge](skills_dir/knowledge#_knowledge), [Linguistics](skills_dir/linguistics#_linguistics), [Profession](skills_dir/profession#_profession), and [Spellcraft](skills_dir/spellcraft#_spellcraft).
 
 Sailors
 
@@ -1290,7 +1290,7 @@ Sailors
 
 **Upgrades From** Laborers
 
-Sailors know how to sail a ship, navigate while at sea, and defend the vessel against pirates and other hostile boarders. A typical sailor is a 2nd-level expert (_NPC Codex_ 260) with 2 ranks each in [Acrobatics](skills/acrobatics#_acrobatics), [Climb](skill_dir/climb#_climb), [Perception](skills/perception#_perception), [Profession](skill_dir/profession#_profession) (sailor), [Survival](skills/survival#_survival), and [Swim](skill_dir/swim#_swim).
+Sailors know how to sail a ship, navigate while at sea, and defend the vessel against pirates and other hostile boarders. A typical sailor is a 2nd-level expert (_NPC Codex_ 260) with 2 ranks each in [Acrobatics](skills_dir/acrobatics#_acrobatics), [Climb](skills_dir/climb#_climb), [Perception](skills_dir/perception#_perception), [Profession](skills_dir/profession#_profession) (sailor), [Survival](skills_dir/survival#_survival), and [Swim](skills_dir/swim#_swim).
 
 Scofflaws
 

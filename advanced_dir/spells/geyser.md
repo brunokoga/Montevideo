@@ -1,20 +1,20 @@
 ---
 layout: default
-title: advance_dir/spells/geyser
+title: advanced_dir/spells_dir/geyser
 ---
  **Geyser**
 
-**School** conjuration (creation) [fire, water]; **Level** druid 4, sorcere_dir/wizard 5
+**School** conjuration (creation) [fire, water]; **Level** druid 4, sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (a piece of lava rock)
+**Components** V, S, M_dir/DF (a piece of lava rock)
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
-**Effect** spout of boiling water filling a 5 ft. square and spraying upward 10 ft./2 levels
+**Effect** spout of boiling water filling a 5 ft. square and spraying upward 10 ft._dir/2 levels
 
-**Duration** concentration + 1 roun_dir/level
+**Duration** concentration + 1 round_dir/level
 
 **Saving Throw** Reflex partial (see below); **Spell Resistance** no
 

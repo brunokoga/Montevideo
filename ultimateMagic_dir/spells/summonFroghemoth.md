@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/summonFroghemoth
+title: ultimateMagic_dir/spells_dir/summonFroghemoth
 ---
 Summon Froghemoth
 
@@ -10,13 +10,13 @@ Summon Froghemoth
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** one summoned creature
 
-**Duration** 1 roun_dir/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
-This spell functions as _ [summon nature's ally IX](spells/summonNatureSAlly#_summon-nature-s-ally-ix)_, except you summon a [froghemoth](monster_dir/froghemoth#_froghemoth).
+This spell functions as _ [summon nature's ally IX](spells_dir/summonNatureSAlly#_summon-nature-s-ally-ix)_, except you summon a [froghemoth](monsters_dir/froghemoth#_froghemoth).
 

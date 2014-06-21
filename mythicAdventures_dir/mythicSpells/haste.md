@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/haste
+title: mythicAdventures_dir/mythicSpells_dir/haste
 ---
 Haste
 
-**Source** [_haste_](spell_dir/haste#_haste)
+**Source** [_haste_](spells_dir/haste#_haste)
 
 Affected creatures gain an additional move action each round. The movement speed increase changes to 50 feet, to a maximum of three times the creature's normal speed for that movement type.
 

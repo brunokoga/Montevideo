@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/summonerConduit
+title: ultimateCombat_dir/spells_dir/summonerConduit
 ---
 Summoner Conduit
 
-**School** necromancy; **Level** cleric 4, sorcere_dir/wizard 5, summoner 4, witch 5
+**School** necromancy; **Level** cleric 4, sorcerer_dir/wizard 5, summoner 4, witch 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (two flies)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one summoned creature or eidolon
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

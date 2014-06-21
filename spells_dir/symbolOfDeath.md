@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/symbolOfDeath
+title: spells_dir/symbolOfDeath
 ---
  **Symbol of Death**
 
-**School** necromancy [death]; **Level** cleric 8, sorcerer/wizard 8
+**School** necromancy [death]; **Level** cleric 8, sorcerer_dir/wizard 8
 
 **Casting Time** 10 minutes
 

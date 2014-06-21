@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/halfFiend
+title: monsters_dir/halfFiend
 ---
 # Half-Fiend
 
@@ -12,7 +12,7 @@ _This fiendish figure, complete with bat wings, claws, a fanged bull's head, and
 
 CE Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +14
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +14
 
 **Defense**
 
@@ -22,21 +22,21 @@ CE Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-su
 
 **Fort** +8, **Ref** +7, **Will** +6
 
-**Defensive Abilities** natural cunning\*; **DR** 5/magic; **Immune** poison; **Resist** acid 10, cold 10, electricity 10, fire 10; **SR** 17
+**Defensive Abilities** natural cunning\*; **DR** 5_dir/magic; **Immune** poison; **Resist** acid 10, cold 10, electricity 10, fire 10; **SR** 17
 
 **Offense**
 
 **Speed** 30 ft., fly 60 ft. (average)
 
-**Melee** greataxe +11/+6 (3d6+9/×3), bite +6 (1d8+3), gore +6 (1d6+3)
+**Melee** greataxe +11_dir/+6 (3d6+9_dir/×3), bite +6 (1d8+3), gore +6 (1d6+3)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** smite good 1/day, [powerful charge](universalMonsterRules#_powerful-charge) (gore +13, 2d6+9)
+**Special Attacks** smite good 1_dir/day, [powerful charge](universalMonsterRules#_powerful-charge) (gore +13, 2d6+9)
 
 **Spell-Like Abilities** (CL 6th)
 
-3/day—_ [darkness](../spell_dir/darkness#_darkness); _1/day—_ [desecrate](../spell_dir/desecrate#_desecrate), [unholy blight](../spell_dir/unholyBlight#_unholy-blight)_ (DC 14)
+3_dir/day—_ [darkness](../spells_dir/darkness#_darkness); _1_dir/day—_ [desecrate](../spells_dir/desecrate#_desecrate), [unholy blight](../spells_dir/unholyBlight#_unholy-blight)_ (DC 14)
 
 **Statistics**
 
@@ -46,7 +46,7 @@ CE Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-su
 
 **Feats** [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Power Attack](../feats#_power-attack)
 
-**Skills** [Fly](../skill_dir/fly#_fly) +0, [Intimidate](../skill_dir/intimidate#_intimidate) +9, Knowl. (religion) +5, Percep. +14, [Stealth](../skill_dir/stealth#_stealth) +7, [Survival](../skill_dir/survival#_survival) +14; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception), +4 [Survival](../skill_dir/survival#_survival)
+**Skills** [Fly](../skills_dir/fly#_fly) +0, [Intimidate](../skills_dir/intimidate#_intimidate) +9, Knowl. (religion) +5, Percep. +14, [Stealth](../skills_dir/stealth#_stealth) +7, [Survival](../skills_dir/survival#_survival) +14; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception), +4 [Survival](../skills_dir/survival#_survival)
 
 **Languages** Giant
 
@@ -74,7 +74,7 @@ Half-fiends are creatures heavily tainted with demonic, infernal, or other evil 
 
 **Armor Class** : Natural armor improves by +1.
 
-**Defenses/Qualities** : Gains darkvision 60 feet; immunity to poison; acid, cold, electricity, and fire resistance 10; DR 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more); and SR equal to creature's CR + 11 (maximum 35).
+**Defenses_dir/Qualities** : Gains darkvision 60 feet; immunity to poison; acid, cold, electricity, and fire resistance 10; DR 5_dir/magic (if HD 11 or less) or 10_dir/magic (if HD 12 or more); and SR equal to creature's CR + 11 (maximum 35).
 
 **Speed** : Unless the base creature flies better, the half-fiend flies at twice the base creature's land speed (good).
 
@@ -87,23 +87,23 @@ _Smite Good (Su)_: Once per day as a swift action the half-fiend can smite good 
   
   
 
-_Spell-Like Abilities_: A half-fiend with an Int or Wis score of 8 or higher has a cumulative number of spell-like abilities set by its HD. Unless otherwise noted, an ability is usable 1/day. CL equals the creature's HD (or the CL of the base creature's spell-like abilities, whichever is higher).
+_Spell-Like Abilities_: A half-fiend with an Int or Wis score of 8 or higher has a cumulative number of spell-like abilities set by its HD. Unless otherwise noted, an ability is usable 1_dir/day. CL equals the creature's HD (or the CL of the base creature's spell-like abilities, whichever is higher).
 
   
   
 
 | HD | Abilities |
 | --- | --- |
-| 1–2 | _ [Darkness](../spell_dir/darkness#_darkness)_ 3/day |
-| 3–4 | _ [Desecrate](../spell_dir/desecrate#_desecrate)_ |
-| 5–6 | _ [Unholy blight](../spell_dir/unholyBlight#_unholy-blight)_ |
-| 7–8 | _ [Poison](../spell_dir/poison#_poison)_ 3/day |
-| 9–10 | _ [Contagion](../spell_dir/contagion#_contagion)_ |
-| 11–12 | _ [Blasphemy](../spell_dir/blasphemy#_blasphemy)_ |
-| 13–14 | _ [Unholy aura](../spell_dir/unholyAura#_unholy-aura)_ 3/day, _ [unhallow](../spell_dir/unhallow#_unhallow)_ |
-| 15–16 | _ [Horrid wilting](../spell_dir/horridWilting#_horrid-wilting)_ |
-| 17–18 | _ [Summon monster IX](../spell_dir/summonMonster#_summon-monster-ix)_ (fiends only) |
-| 19–20 | _ [Destruction](../spell_dir/destruction#_destruction)_ |
+| 1–2 | _ [Darkness](../spells_dir/darkness#_darkness)_ 3_dir/day |
+| 3–4 | _ [Desecrate](../spells_dir/desecrate#_desecrate)_ |
+| 5–6 | _ [Unholy blight](../spells_dir/unholyBlight#_unholy-blight)_ |
+| 7–8 | _ [Poison](../spells_dir/poison#_poison)_ 3_dir/day |
+| 9–10 | _ [Contagion](../spells_dir/contagion#_contagion)_ |
+| 11–12 | _ [Blasphemy](../spells_dir/blasphemy#_blasphemy)_ |
+| 13–14 | _ [Unholy aura](../spells_dir/unholyAura#_unholy-aura)_ 3_dir/day, _ [unhallow](../spells_dir/unhallow#_unhallow)_ |
+| 15–16 | _ [Horrid wilting](../spells_dir/horridWilting#_horrid-wilting)_ |
+| 17–18 | _ [Summon monster IX](../spells_dir/summonMonster#_summon-monster-ix)_ (fiends only) |
+| 19–20 | _ [Destruction](../spells_dir/destruction#_destruction)_ |
 
 **Abilities** : A half-fiend gains a +4 bonus on three ability scores of its choice and a +2 bonus on the other three.
 

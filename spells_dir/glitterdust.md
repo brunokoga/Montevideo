@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/glitterdust
+title: spells_dir/glitterdust
 ---
  **Glitterdust**
 
-**School** conjuration (creation); **Level** bard 2, sorcerer/wizard 2
+**School** conjuration (creation); **Level** bard 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (ground mica)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Area** creatures and objects within 10-ft.-radius spread
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Save** [Will](../combat#_will) negates (blinding only); **SR** no
 

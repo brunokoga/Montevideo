@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/hideousLaughter
+title: mythicAdventures_dir/mythicSpells_dir/hideousLaughter
 ---
 Hideous Laughter
 
-**Source** [_hideous laughter_](spell_dir/hideousLaughter#_hideous-laughter)
+**Source** [_hideous laughter_](spells_dir/hideousLaughter#_hideous-laughter)
 
 A creature of a type different than your own doesn't gain a bonus on its saving throws against this spell. The affected target laughs so hard it hurts, and takes 1d6 points of nonlethal damage each round it spends laughing.
 

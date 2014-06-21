@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/thornBody
+title: advanced_dir/spells_dir/thornBody
 ---
  **Thorn Body**
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/thornBody
 
 **Target** you
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 This spell causes spines to grow from your exposed skin, damaging creatures that strike you. Any creature striking you with a melee weapon, an unarmed strike, or a natural weapon takes 1d6 points of piercing damage +1 point per caster level (maximum +15). Creatures using melee weapons with reach are unaffected by this spell. Creatures that successfully grapple you take 2d6 points of piercing damage +1 point per caster level (maximum +15). In addition, your natural attacks and unarmed strikes deal an additional 1d6 points of piercing damage.
 

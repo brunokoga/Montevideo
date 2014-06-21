@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/decomposeCorpse
+title: ultimateMagic_dir/spells_dir/decomposeCorpse
 ---
 Decompose Corpse
 
-**School** necromancy; **Level** cleric 1, druid 1, sorcere_dir/wizard 1, witch 1
+**School** necromancy; **Level** cleric 1, druid 1, sorcerer_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 

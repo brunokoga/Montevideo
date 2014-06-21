@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCampaig_dir/characterBackground/adolescence
+title: ultimateCampaign_dir/characterBackground_dir/adolescence
 ---
 # Adolescence
 

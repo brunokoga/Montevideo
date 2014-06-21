@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/removeSickness
+title: ultimateMagic_dir/spells_dir/removeSickness
 ---
 Remove Sickness
 
@@ -10,11 +10,11 @@ Remove Sickness
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** s one creature
 
-**Duration** 10 minute_dir/level; see text
+**Duration** 10 minutes_dir/level; see text
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

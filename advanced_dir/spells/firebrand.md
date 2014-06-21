@@ -1,20 +1,20 @@
 ---
 layout: default
-title: advance_dir/spells/firebrand
+title: advanced_dir/spells_dir/firebrand
 ---
  **Firebrand**
 
-**School** transmutation [fire]; **Level** sorcere_dir/wizard 7
+**School** transmutation [fire]; **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one creatur_dir/4 levels, no two of which can be more than 30 ft. apart
+**Target** one creature_dir/4 levels, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates (harmless), but see below; **Spell Resistance** yes (harmless)
 

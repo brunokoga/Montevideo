@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/wrath
+title: advanced_dir/spells_dir/wrath
 ---
  **Wrath**
 

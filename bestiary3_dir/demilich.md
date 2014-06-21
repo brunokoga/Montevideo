@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/demilich
+title: bestiary3_dir/demilich
 ---
 # Demilich
 
@@ -12,7 +12,7 @@ XP 38,400
 
 NE Tiny undead
 
-**Init** +7; **Senses** darkvision 60 ft., _ [true seeing](spell_dir/trueSeeing#_true-seeing)_; [Perception](skills/perception#_perception) +27
+**Init** +7; **Senses** darkvision 60 ft., _ [true seeing](spells_dir/trueSeeing#_true-seeing)_; [Perception](skills_dir/perception#_perception) +27
 
 Defense
 
@@ -22,23 +22,23 @@ Defense
 
 **Fort** +14, **Ref** +15, **Will** +21
 
-**Defensive Abilities** channel [resistance](monster_dir/universalMonsterRules#_resistance) +5, rejuvenation, unholy grace; **DR** 20/—; **Immune** acid, [cold](monster_dir/creatureTypes#_cold-subtype), electricity, magic, polymorph, undead traits
+**Defensive Abilities** channel [resistance](monsters_dir/universalMonsterRules#_resistance) +5, rejuvenation, unholy grace; **DR** 20_dir/—; **Immune** acid, [cold](monsters_dir/creatureTypes#_cold-subtype), electricity, magic, polymorph, undead traits
 
-**Weaknesses** torpor, _ [vorpal](magicItems/weapons#_vorpal)_ susceptibility
+**Weaknesses** torpor, _ [vorpal](magicItems_dir/weapons#_vorpal)_ susceptibility
 
 Offense
 
 **Speed** fly 30 ft. (perfect)
 
-**Space** 2-1/2 ft.; **Reach** 0 ft.
+**Space** 2-1_dir/2 ft.; **Reach** 0 ft.
 
 **Special Attacks** devour soul
 
 **Spell-Like Abilities** (CL 20th; concentration +25)
 
-Constant—_ [true seeing](spell_dir/trueSeeing#_true-seeing)_
+Constant—_ [true seeing](spells_dir/trueSeeing#_true-seeing)_
 
-At will—_greater [bestow curse](spells/bestowCurse#_bestow-curse)_ (DC 21), _ [telekinesis](spell_dir/telekinesis#_telekinesis)_ (DC 19), _ [wail of the banshee](spells/wailOfTheBanshee#_wail-of-the-banshee)_ (20-ft.-radius spread centered on the demilich; DC 24)
+At will—_greater [bestow curse](spells_dir/bestowCurse#_bestow-curse)_ (DC 21), _ [telekinesis](spells_dir/telekinesis#_telekinesis)_ (DC 19), _ [wail of the banshee](spells_dir/wailOfTheBanshee#_wail-of-the-banshee)_ (20-ft.-radius spread centered on the demilich; DC 24)
 
 Statistics
 
@@ -46,11 +46,11 @@ Statistics
 
 **Base Atk** +11; **CMB** +12; **CMD** 30
 
-**Feats** [Ability Focus](monster_dir/monsterFeats#_ability-focus) (devour soul), [Alertness](feats#_alertness), [Defensive Combat Training](feats#_defensive-combat-training), [Dodge](feats#_dodge), [Flyby Attack](monsters/monsterFeats#_flyby-attack)B, [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Mobility](feats#_mobility)
+**Feats** [Ability Focus](monsters_dir/monsterFeats#_ability-focus) (devour soul), [Alertness](feats#_alertness), [Defensive Combat Training](feats#_defensive-combat-training), [Dodge](feats#_dodge), [Flyby Attack](monsters_dir/monsterFeats#_flyby-attack)B, [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Mobility](feats#_mobility)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff) +20, [Fly](skills/fly#_fly) +23 [Knowledge](skill_dir/knowledge#_knowledge) (arcana) +23, [Knowledge](skills/knowledge#_knowledge) (dungeoneering) +20, [Knowledge](skill_dir/knowledge#_knowledge) (history) +15, [Knowledge](skills/knowledge#_knowledge) (planes) +15, [Knowledge](skill_dir/knowledge#_knowledge) (religion) +18, [Perception](skills/perception#_perception) +27, [Sense Motive](skill_dir/senseMotive#_sense-motive) +27, [Spellcraft](skills/spellcraft#_spellcraft) +23, [Stealth](skill_dir/stealth#_stealth) +24
+**Skills** [Bluff](skills_dir/bluff#_bluff) +20, [Fly](skills_dir/fly#_fly) +23 [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +23, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) +20, [Knowledge](skills_dir/knowledge#_knowledge) (history) +15, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +15, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +18, [Perception](skills_dir/perception#_perception) +27, [Sense Motive](skills_dir/senseMotive#_sense-motive) +27, [Spellcraft](skills_dir/spellcraft#_spellcraft) +23, [Stealth](skills_dir/stealth#_stealth) +24
 
-**Languages** Abyssal, Aklo, Common, Draconic, [Giant](monsters/creatureTypes#_giant-subtype), Infernal
+**Languages** Abyssal, Aklo, Common, Draconic, [Giant](monsters_dir/creatureTypes#_giant-subtype), Infernal
 
 Ecology
 
@@ -62,35 +62,35 @@ Ecology
 
 Special Abilities
 
-**Devour Soul (Su)** As a standard action with a range of 300 feet, a demilich can imprison the soul of a living creature within one of 10 special gems embedded in its skull. If the target succeeds at a DC 24 Fortitude save, it gains two permanent negative levels. If it fails, its soul is immediately drawn into one of the gems in the demilich's skull. The soul remains trapped within the gem, visible as but a gleam except under _ [true seeing](spell_dir/trueSeeing#_true-seeing)_. The soulless body corrupts and decays rapidly, reducing to dust in a single round. As long as the dead creature's soul remains trapped in the gemstone, it cannot be restored to life via any means save direct divine intervention. Gems with souls trapped in them can be retrieved from a destroyed demilich, at which point they can either be crushed to release any souls within to their afterlife or used in the place of the usual material components to restore the soul and body with _ [resurrection](spells/resurrection#_resurrection)_ or _ [true resurrection](spell_dir/trueResurrection#_true-resurrection)_. After 24 hours, the demilich can choose to consume any soul trapped in a gem, healing it 1d6 hit points per Hit Die of the soul, at which point only _ [miracle](spells/miracle#_miracle)_ or _ [wish](spell_dir/wish#_wish)_ can restore the dead creature to life. The save DC is Charisma-based, and includes a +2 bonus for the [Ability Focus](monsters/monsterFeats#_ability-focus) feat.
+**Devour Soul (Su)** As a standard action with a range of 300 feet, a demilich can imprison the soul of a living creature within one of 10 special gems embedded in its skull. If the target succeeds at a DC 24 Fortitude save, it gains two permanent negative levels. If it fails, its soul is immediately drawn into one of the gems in the demilich's skull. The soul remains trapped within the gem, visible as but a gleam except under _ [true seeing](spells_dir/trueSeeing#_true-seeing)_. The soulless body corrupts and decays rapidly, reducing to dust in a single round. As long as the dead creature's soul remains trapped in the gemstone, it cannot be restored to life via any means save direct divine intervention. Gems with souls trapped in them can be retrieved from a destroyed demilich, at which point they can either be crushed to release any souls within to their afterlife or used in the place of the usual material components to restore the soul and body with _ [resurrection](spells_dir/resurrection#_resurrection)_ or _ [true resurrection](spells_dir/trueResurrection#_true-resurrection)_. After 24 hours, the demilich can choose to consume any soul trapped in a gem, healing it 1d6 hit points per Hit Die of the soul, at which point only _ [miracle](spells_dir/miracle#_miracle)_ or _ [wish](spells_dir/wish#_wish)_ can restore the dead creature to life. The save DC is Charisma-based, and includes a +2 bonus for the [Ability Focus](monsters_dir/monsterFeats#_ability-focus) feat.
 
-**Greater Bestow Curse (Sp)** This spell-like ability functions like _ [bestow curse](spell_dir/bestowCurse#_bestow-curse)_, but can have one of the following effects: –12 to one ability score; –6 to two ability scores; –8 penalty on attack rolls, saves, and checks; or a 25% chance to act normally. This ability is treated as a 6th-level spell.
+**Greater Bestow Curse (Sp)** This spell-like ability functions like _ [bestow curse](spells_dir/bestowCurse#_bestow-curse)_, but can have one of the following effects: –12 to one ability score; –6 to two ability scores; –8 penalty on attack rolls, saves, and checks; or a 25% chance to act normally. This ability is treated as a 6th-level spell.
 
-**Immunity to Magic (Su)** A demilich is immune to any spell or spell-like ability that allows spell [resistance](monsters/universalMonsterRules#_resistance). In addition, certain spells function differently against the creature, as noted below.
+**Immunity to Magic (Su)** A demilich is immune to any spell or spell-like ability that allows spell [resistance](monsters_dir/universalMonsterRules#_resistance). In addition, certain spells function differently against the creature, as noted below.
 
-•A _ [dispel evil](spell_dir/dispelEvil#_dispel-evil)_ spell deals 2d6 points of damage, with no saving throw.
+•A _ [dispel evil](spells_dir/dispelEvil#_dispel-evil)_ spell deals 2d6 points of damage, with no saving throw.
 
-•_ [Holy smite](spells/holySmite#_holy-smite)_ affects a demilich normally.
+•_ [Holy smite](spells_dir/holySmite#_holy-smite)_ affects a demilich normally.
 
-•A _ [power word kill](spell_dir/powerWordKill#_power-word-kill)_ spoken by an ethereal caster deals 50 points of damage to the demilich if it fails a Fortitude save (with a DC determined as though the spell allowed a saving throw).
+•A _ [power word kill](spells_dir/powerWordKill#_power-word-kill)_ spoken by an ethereal caster deals 50 points of damage to the demilich if it fails a Fortitude save (with a DC determined as though the spell allowed a saving throw).
 
-•A _ [shatter](spells/shatter#_shatter)_ spell deals 1d6 points of damage per two caster levels (maximum 10d6), with no saving throw.
+•A _ [shatter](spells_dir/shatter#_shatter)_ spell deals 1d6 points of damage per two caster levels (maximum 10d6), with no saving throw.
 
-**Rejuvenation (Su)** A destroyed demilich reforms in 2d6 days. To permanently destroy a demilich, holy [water](monster_dir/creatureTypes#_water-subtype) must be poured over its remains within the area of a _ [hallow](spells/hallow#_hallow)_ spell. To complete the destruction, _ [holy word](spell_dir/holyWord#_holy-word)_ or _ [dispel evil](spells/dispelEvil#_dispel-evil)_ must be cast. If the caster succeeds at a caster level check with a DC equal to 10 + the demilich's Hit Dice, the demilich is permanently destroyed.
+**Rejuvenation (Su)** A destroyed demilich reforms in 2d6 days. To permanently destroy a demilich, holy [water](monsters_dir/creatureTypes#_water-subtype) must be poured over its remains within the area of a _ [hallow](spells_dir/hallow#_hallow)_ spell. To complete the destruction, _ [holy word](spells_dir/holyWord#_holy-word)_ or _ [dispel evil](spells_dir/dispelEvil#_dispel-evil)_ must be cast. If the caster succeeds at a caster level check with a DC equal to 10 + the demilich's Hit Dice, the demilich is permanently destroyed.
 
-**Telekinetic Storm (Su)** As a special use of its _ [telekinesis](spell_dir/telekinesis#_telekinesis)_ spell-like ability, a demilich can churn up its treasure, dust, bones, and other loose debris in the area into a whirling storm about its skull. The storm obscures vision as a _ [fog cloud](spells/fogCloud)_ within a 20-foot spread centered on the demilich's skull. Creatures within the storm take 12d6 points of damage per round on the demilich's turn (Reflex DC 20 for half damage). The demilich can maintain the storm indefinitely by concentrating.
+**Telekinetic Storm (Su)** As a special use of its _ [telekinesis](spells_dir/telekinesis#_telekinesis)_ spell-like ability, a demilich can churn up its treasure, dust, bones, and other loose debris in the area into a whirling storm about its skull. The storm obscures vision as a _ [fog cloud](spells_dir/fogCloud)_ within a 20-foot spread centered on the demilich's skull. Creatures within the storm take 12d6 points of damage per round on the demilich's turn (Reflex DC 20 for half damage). The demilich can maintain the storm indefinitely by concentrating.
 
 **Torpor (Ex)** A demilich takes no actions against intruders unless its remains or treasure are disturbed.
 
 **Unholy Grace (Su)** A demilich gains a bonus on saves and a profane bonus to AC equal to its Charisma modifier.
 
-**Vorpal Susceptibility (Ex)** _ [Vorpal](magicItem_dir/weapons#_vorpal) _weapons of any kind ignore a demilich's [damage reduction](monsters/universalMonsterRules#_damage-reduction-(ex-or-su)).
+**Vorpal Susceptibility (Ex)** _ [Vorpal](magicItems_dir/weapons#_vorpal) _weapons of any kind ignore a demilich's [damage reduction](monsters_dir/universalMonsterRules#_damage-reduction-(ex-or-su)).
 
 In their endless years of unlife, some liches lose themselves in introspection, and can no longer rouse themselves to face the endless march of days. Still others cast their consciousness far from their bodies, wandering planes and realities far beyond mortal ken. Absent the vitality of the soul, such a lich's physical form succumbs to decay over the centuries. In time, only the lich's skull remains intact. Yet the bonds of undeath keep the lich's remains from final dissolution. Vestiges of the lich's intellect remain within the skull, and wake to terrible wrath should it be disturbed. Traces of the lich's will to live strengthen the skull, rendering it harder than any steel. The lich's greed and lust for power manifest in the growth of gems in its skull. Lastly, though only the barest remnants of the lich's eldritch might survive, a demilich aroused to anger still retains enough power to flense the very soul from any defiling its final rest.
 
 The lich's phylactery invariably fails during the slow decline of lich into demilich, losing its last vestiges of enchantment if not crumbling into dust with the lich's body. But even without the preserving power of the phylactery, demiliches retain a tenacious grip on existence. Only powerful and precise use of magic can permanently destroy a demilich and its remains.
 
-To the unwary adventurer, a demilich looks like nothing more than dust and bones within the lich's former sanctum. Indeed, until disturbed, a demilich has only the vaguest awareness of intruders, and ignores their presence. Any attempt to steal the demilich's possessions, disturb its remains, or harm its domain rouses the demilich's slumbering mind, causing it to rise up in the air and voice its _ [wail of the banshee](spell_dir/wailOfTheBanshee#_wail-of-the-banshee)_ before again settling to the ground. Should the interlopers relent, the skull returns to its torpor. But if they persist, the skull rises again, not to rest again until all in its sight have perished. Fortunately for intruders, demiliches never pursue those wise enough flee.
+To the unwary adventurer, a demilich looks like nothing more than dust and bones within the lich's former sanctum. Indeed, until disturbed, a demilich has only the vaguest awareness of intruders, and ignores their presence. Any attempt to steal the demilich's possessions, disturb its remains, or harm its domain rouses the demilich's slumbering mind, causing it to rise up in the air and voice its _ [wail of the banshee](spells_dir/wailOfTheBanshee#_wail-of-the-banshee)_ before again settling to the ground. Should the interlopers relent, the skull returns to its torpor. But if they persist, the skull rises again, not to rest again until all in its sight have perished. Fortunately for intruders, demiliches never pursue those wise enough flee.
 
 ## Becoming a Demilich
 

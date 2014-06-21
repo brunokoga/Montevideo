@@ -1,12 +1,12 @@
 ---
 layout: default
-title: monster_dir/duergar
+title: monsters_dir/duergar
 ---
 # Duergar
 
 _This bald, long-bearded dwarf has dull gray skin, low arching brows, and eyes that seem to absorb rather than reflect the light._
 
-**Duergar CR 1/3**
+**Duergar CR 1_dir/3**
 
 **XP 135**
 
@@ -14,7 +14,7 @@ Duergar warrior 1
 
 LE Medium [humanoid](creatureTypes#_humanoid) ( [dwarf](creatureTypes#_dwarf-subtype))
 
-**Init** –1; **Senses** darkvision 120 ft; [Perception](../skill_dir/perception#_perception) +1
+**Init** –1; **Senses** darkvision 120 ft; [Perception](../skills_dir/perception#_perception) +1
 
 **Defense**
 
@@ -32,13 +32,13 @@ LE Medium [humanoid](creatureTypes#_humanoid) ( [dwarf](creatureTypes#_dwarf-sub
 
 **Speed** 20 ft.
 
-**Melee** warhammer +3 (1d8+1/×3)
+**Melee** warhammer +3 (1d8+1_dir/×3)
 
-**Ranged** light crossbow +0 (1d8/19–20)
+**Ranged** light crossbow +0 (1d8_dir/19–20)
 
 **Spell-Like Abilities** (CL 3rd)
 
-1/day—_ [enlarge person](../spell_dir/enlargePerson#_enlarge-person)_ (self only), _ [invisibility](../spell_dir/invisibility#_invisibility)_ (self only)
+1_dir/day—_ [enlarge person](../spells_dir/enlargePerson#_enlarge-person)_ (self only), _ [invisibility](../spells_dir/invisibility#_invisibility)_ (self only)
 
 **Statistics**
 
@@ -48,7 +48,7 @@ LE Medium [humanoid](creatureTypes#_humanoid) ( [dwarf](creatureTypes#_dwarf-sub
 
 **Feats** [Weapon Focus](../feats#_weapon-focus) (warhammer)
 
-**Skills** [Intimidate](../skill_dir/intimidate#_intimidate) +1, [Stealth](../skill_dir/stealth#_stealth) –3; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception) relating to stonework, +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +1, [Stealth](../skills_dir/stealth#_stealth) –3; **Racial Modifiers** +2 [Perception](../skills_dir/perception#_perception) relating to stonework, +4 [Stealth](../skills_dir/stealth#_stealth)
 
 **Languages** Common, Dwarven, Undercommon
 
@@ -66,7 +66,7 @@ Cousins to dwarves, duergar are foul-tempered creatures that loathe intruders to
 
 Duergar dwell in communities deep underground, and appear as darker, more twisted versions of their kinder kin. Their skin is a dull gray, as though rubbed with dust or ash, but this is a natural coloration that better allows them to blend with their underground surroundings. They are a race of slavers, but while non-dwarven prisoners are usually put to backbreaking work, dwarven prisoners are generally slain on the spot.
 
-In combat, duergar fire crossbows from a distance, then shift to the warhammer after a few rounds. If outnumbered, or given sufficient threat (and space), a duergar will use its _ [enlarge person](../spell_dir/enlargePerson#_enlarge-person)_ ability and begin lashing out at its enemies.
+In combat, duergar fire crossbows from a distance, then shift to the warhammer after a few rounds. If outnumbered, or given sufficient threat (and space), a duergar will use its _ [enlarge person](../spells_dir/enlargePerson#_enlarge-person)_ ability and begin lashing out at its enemies.
 
 ## Duergar Characters
 
@@ -82,7 +82,7 @@ Duergar are defined by their class levels—they do not possess racial Hit Dice.
 
 **Stability** : Duergar receive a +4 racial bonus to their CMD against bull rush or trip attempts while on solid ground.
 
-**Spell-Like Abilities** : Duergar can cast _ [enlarge person](../spell_dir/enlargePerson#_enlarge-person)_ and _ [invisibility](../spell_dir/invisibility#_invisibility)_ each once per day, using their character level as their caster level. Both of these spell-like abilities affect the duergar only.
+**Spell-Like Abilities** : Duergar can cast _ [enlarge person](../spells_dir/enlargePerson#_enlarge-person)_ and _ [invisibility](../spells_dir/invisibility#_invisibility)_ each once per day, using their character level as their caster level. Both of these spell-like abilities affect the duergar only.
 
 **Light Sensitivity** : Duergar are dazzled as long as they remain in an area of bright light.
 

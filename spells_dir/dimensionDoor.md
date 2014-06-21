@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spell_dir/dimensionDoor
+title: spells_dir/dimensionDoor
 ---
  **Dimension Door**
 
-**School** conjuration (teleportation); **Level** bard 4, sorcerer/wizard 4
+**School** conjuration (teleportation); **Level** bard 4, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
 **Components** V
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Target** you and touched objects or other touched willing creatures
 

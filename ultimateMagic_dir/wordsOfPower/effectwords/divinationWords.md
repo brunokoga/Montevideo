@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/divinationWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/divinationWords
 ---
 ## Divination Words
 
@@ -10,7 +10,7 @@ Beacon (Divination)
 
 **School** divination; **Level** bard 0, druid 0, ranger 1
 
-**Duration** 1 hour/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -20,9 +20,9 @@ When a wordspell with this effect word is cast, the exact location of the caster
 
 Far Sight (Divination)
 
-**School** divination (scrying); **Level** bard 3, cleric 3, druid 3, sorcere_dir/wizard 3, witch 3
+**School** divination (scrying); **Level** bard 3, cleric 3, druid 3, sorcerer_dir/wizard 3, witch 3
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -36,7 +36,7 @@ Locate (Divination)
 
 **School** divination; **Level** bard 6, cleric 6, druid 6, inquisitor 6, witch 6
 
-**Duration** 10 minute_dir/level
+**Duration** 10 minutes_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/featherStep
+title: advanced_dir/spells_dir/featherStep
 ---
  **Feather Step**
 
@@ -10,11 +10,11 @@ title: advance_dir/spells/featherStep
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 
-**Duration** 10 minute_dir/level
+**Duration** 10 minutes_dir/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes
 
@@ -24,7 +24,7 @@ For the duration of this spell, the subject ignores the adverse movement effects
 
 **School** transmutation; **Level** bard 3, druid 3, ranger 3
 
-**Target** one creature/level, no two of which can be more than 30 ft. apart
+**Target** one creature_dir/level, no two of which can be more than 30 ft. apart
 
 As _feather step_, except this spell affects multiple creatures.
 

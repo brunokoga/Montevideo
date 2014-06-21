@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/wildernessSoldiers
+title: ultimateCombat_dir/spells_dir/wildernessSoldiers
 ---
 Wilderness Soldiers
 
@@ -14,11 +14,11 @@ Wilderness Soldiers
 
 **Area** 30-ft.-radius emanation, centered on you
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
-You call on the plants nearby to aid you in combat. This spell is ineffective if no plants you can direct are within the area. You can spend a swift action and/or a standard action on each of your turns to direct one of the following attacks. The attack bonus or CMB for these attacks equals your base attack bonus + your Wisdom modifier. You grant a +1 bonus per three caster levels (maximum +5) on damage rolls due to this spell. Your _wilderness soldiers_ never provoke attacks of opportunity, and they do not count as allies for flanking or other purposes.
+You call on the plants nearby to aid you in combat. This spell is ineffective if no plants you can direct are within the area. You can spend a swift action and_dir/or a standard action on each of your turns to direct one of the following attacks. The attack bonus or CMB for these attacks equals your base attack bonus + your Wisdom modifier. You grant a +1 bonus per three caster levels (maximum +5) on damage rolls due to this spell. Your _wilderness soldiers_ never provoke attacks of opportunity, and they do not count as allies for flanking or other purposes.
 
 _Tree_: A tree makes a melee attack with a 10-foot reach from its trunk. A hit deals an amount of damage equal to 1d8 points + your Wisdom modifier. The tree can instead attempt a bull rush, drag, or reposition combat maneuver with the same reach, but the tree cannot move itself.
 

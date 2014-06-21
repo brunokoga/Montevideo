@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/rhinoceros
+title: monsters_dir/rhinoceros
 ---
 # Rhinoceros
 
@@ -12,7 +12,7 @@ _This rhinoceros has a low-slung head with twisted ears that lie back along its 
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +0; **Senses** [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +12
+**Init** +0; **Senses** [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +12
 
 **Defense**
 
@@ -38,9 +38,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base Atk** +3; **CMB** +10; **CMD** 20 (24 vs. trip)
 
-**Feats** [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
+**Feats** [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception) +12
+**Skills** [Perception](../skills_dir/perception#_perception) +12
 
 **Ecology**
 
@@ -68,7 +68,7 @@ _This large rhinoceros has a shaggy pelt of long, brown fur and a row of immense
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +0; **Senses** [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +15
+**Init** +0; **Senses** [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +15
 
 **Defense**
 
@@ -94,9 +94,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base Atk** +6; **CMB** +16; **CMD** 26 (30 vs. trip)
 
-**Feats** [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
+**Feats** [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception) +15
+**Skills** [Perception](../skills_dir/perception#_perception) +15
 
 **Ecology**
 

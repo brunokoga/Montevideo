@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/sequester
+title: spells_dir/sequester
 ---
  **Sequester**
 
-**School** abjuration; **Level** sorcerer/wizard 7
+**School** abjuration; **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
@@ -12,9 +12,9 @@ title: spell_dir/sequester
 
 **Range** touch
 
-**Target** one willing creature or object (up to a 2-ft. cub_dir/level) touched
+**Target** one willing creature or object (up to a 2-ft. cube_dir/level) touched
 
-**Duration** 1 day/level (D)
+**Duration** 1 day_dir/level (D)
 
 **Saving Throw** none or [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** no or yes (object)
 

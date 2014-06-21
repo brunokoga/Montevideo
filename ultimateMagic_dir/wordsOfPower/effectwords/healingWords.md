@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/healingWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/healingWords
 ---
 ## Healing Words
 

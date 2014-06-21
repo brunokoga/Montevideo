@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/holdPortal
+title: spells_dir/holdPortal
 ---
  **Hold Portal**
 
-**School** abjuration; **Level** sorcerer/wizard 1
+**School** abjuration; **Level** sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
 **Component** V
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Target** one portal, up to 20 sq. ft./level
+**Target** one portal, up to 20 sq. ft._dir/level
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

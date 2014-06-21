@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spell_dir/mindBlank
+title: spells_dir/mindBlank
 ---
  **Mind Blank**
 
-**School** abjuration; **Level** sorcerer/wizard 8
+**School** abjuration; **Level** sorcerer_dir/wizard 8
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 

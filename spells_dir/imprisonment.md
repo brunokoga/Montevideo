@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/imprisonment
+title: spells_dir/imprisonment
 ---
  **Imprisonment**
 
-**School** abjuration; **Level** sorcerer/wizard 9
+**School** abjuration; **Level** sorcerer_dir/wizard 9
 
 **Casting Time** 1 standard action
 

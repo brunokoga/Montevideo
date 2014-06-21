@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/cerberi
+title: bestiary3_dir/cerberi
 ---
 # Cerberi
 
@@ -10,9 +10,9 @@ Cerberi CR 6
 
 XP 2,400
 
-LE Medium outsider ( [evil](monster_dir/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [lawful](monster_dir/creatureTypes#_lawful-subtype))
+LE Medium outsider ( [evil](monsters_dir/creatureTypes#_evil-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [lawful](monsters_dir/creatureTypes#_lawful-subtype))
 
-**Init** +6; **Senses** soul [scent](monsters/universalMonsterRules#_scent); [Perception](skill_dir/perception#_perception) +15
+**Init** +6; **Senses** soul [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +15
 
 Defense
 
@@ -38,7 +38,7 @@ Statistics
 
 **Feats** [Alertness](feats#_alertness), [Combat Reflexes](feats#_combat-reflexes), [Improved Initiative](feats#_improved-initiative), [Stand Still](feats#_stand-still)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +13 (+17 when jumping), [Perception](skill_dir/perception#_perception) +15, [Sense Motive](skills/senseMotive#_sense-motive) +4, [Stealth](skill_dir/stealth#_stealth) +13, [Survival](skills/survival#_survival) +10 (+14 when tracking undead); **Racial Modifiers** +4 [Survival](skill_dir/survival#_survival) when tracking undead
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +13 (+17 when jumping), [Perception](skills_dir/perception#_perception) +15, [Sense Motive](skills_dir/senseMotive#_sense-motive) +4, [Stealth](skills_dir/stealth#_stealth) +13, [Survival](skills_dir/survival#_survival) +10 (+14 when tracking undead); **Racial Modifiers** +4 [Survival](skills_dir/survival#_survival) when tracking undead
 
 **Languages** Infernal (cannot speak)
 
@@ -52,9 +52,9 @@ Ecology
 
 Special Abilities
 
-**Cerberus's Jaws (Su)** [Curse](monsters/universalMonsterRules#_curse)—bite; _save_ Fort DC 18; _effect_ dimensional anchoring. A creature affected by this [curse](monster_dir/universalMonsterRules#_curse) cannot utilize extradimensional travel such as _ [teleport](spells/teleport#_teleport)_, as if it were under the effect of a _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional)_ spell. The save DC is Constitution-based.
+**Cerberus's Jaws (Su)** [Curse](monsters_dir/universalMonsterRules#_curse)—bite; _save_ Fort DC 18; _effect_ dimensional anchoring. A creature affected by this [curse](monsters_dir/universalMonsterRules#_curse) cannot utilize extradimensional travel such as _ [teleport](spells_dir/teleport#_teleport)_, as if it were under the effect of a _ [dimensional anchor](spells_dir/dimensionalAnchor#_dimensional)_ spell. The save DC is Constitution-based.
 
-**Soul [Scent](monsters/universalMonsterRules#_scent) (Su)** This ability functions as the [scent](monster_dir/universalMonsterRules#_scent) ability, save that it also grants the cerberi a +4 racial bonus on [Survival](skills/survival#_survival) checks made to track undead. This ability even allows a cerberi to track the passage of an [incorporeal](monster_dir/creatureTypes#_incorporeal-subtype) creature.
+**Soul [Scent](monsters_dir/universalMonsterRules#_scent) (Su)** This ability functions as the [scent](monsters_dir/universalMonsterRules#_scent) ability, save that it also grants the cerberi a +4 racial bonus on [Survival](skills_dir/survival#_survival) checks made to track undead. This ability even allows a cerberi to track the passage of an [incorporeal](monsters_dir/creatureTypes#_incorporeal-subtype) creature.
 
 The mythical watchdogs of Hell, cerberi bear the bodies of terrible, powerful hounds combined with the essences of fiends. Relied upon by villains and frightful beings as guardians and jailers, these three-headed canine abominations possess far greater cunning than their flensed, bestial appearances would suggest—a terrible intellect they pour largely into malice and enjoyment of their victims' tormented ends.
 

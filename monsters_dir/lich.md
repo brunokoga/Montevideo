@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/lich
+title: monsters_dir/lich
 ---
 # Lich
 
@@ -14,7 +14,7 @@ Human lich necromancer 11
 
 NE Medium [undead](creatureTypes#_undead) ( [augmented](creatureTypes#_augmented-subtype) [humanoid](creatureTypes#_humanoid))
 
-**Init** +2; **Senses** darkvision 60 ft., life sight\*; [Perception](../skill_dir/perception#_perception) +24
+**Init** +2; **Senses** darkvision 60 ft., life sight\*; [Perception](../skills_dir/perception#_perception) +24
 
 **Aura** fear (60-ft. radius, DC 18)
 
@@ -22,11 +22,11 @@ NE Medium [undead](creatureTypes#_undead) ( [augmented](creatureTypes#_augmented
 
 **AC** 23, touch 14, flat-footed 21 (+4 armor, +2 deflection, +2 Dex, +5 natural)
 
-**hp** 111 (11d6+55 plus 15 _ [false life](../spell_dir/falseLife#_false-life)_)
+**hp** 111 (11d6+55 plus 15 _ [false life](../spells_dir/falseLife#_false-life)_)
 
 **Fort** +6, **Ref** +7, **Will** +11
 
-**Defensive Abilities** [channel resistance](universalMonsterRules#_channel-resistance) +4; **DR** 15/bludgeoning and magic; **Immune** cold, electricity, [undead traits](universalMonsterRules#_undead-traits)
+**Defensive Abilities** [channel resistance](universalMonsterRules#_channel-resistance) +4; **DR** 15_dir/bludgeoning and magic; **Immune** cold, electricity, [undead traits](universalMonsterRules#_undead-traits)
 
 **Offense**
 
@@ -34,23 +34,23 @@ NE Medium [undead](creatureTypes#_undead) ( [augmented](creatureTypes#_augmented
 
 **Melee** touch +5 (1d8+5 plus paralyzing touch)
 
-**Special Attacks** grave touch\* (9/day), paralyzing touch (DC 18), power over undead\* (9/day, DC 18)
+**Special Attacks** grave touch\* (9_dir/day), paralyzing touch (DC 18), power over undead\* (9_dir/day, DC 18)
 
 **Spells Prepared** (CL 11th)
 
-6th—_ [circle of death](../spell_dir/circleOfDeath#_circle-of-death) _(DC 22), _ [globe of invulnerability](../spell_dir/globeOfInvulnerability#_globe-of-invulnerability), _maximized _ [fireball](../spell_dir/fireball#_fireball)_ (DC 19)
+6th—_ [circle of death](../spells_dir/circleOfDeath#_circle-of-death) _(DC 22), _ [globe of invulnerability](../spells_dir/globeOfInvulnerability#_globe-of-invulnerability), _maximized _ [fireball](../spells_dir/fireball#_fireball)_ (DC 19)
 
-5th—_ [cloudkill](../spell_dir/cloudkill#_cloudkill) _(DC 21), _ [cone of cold](../spell_dir/coneOfCold#_cone-of-cold) _(DC 21), quickened _ [magic missile](../spell_dir/magicMissile#_magic-missile), [waves of fatigue](../spell_dir/wavesOfFatigue#_waves-of-fatigue) _
+5th—_ [cloudkill](../spells_dir/cloudkill#_cloudkill) _(DC 21), _ [cone of cold](../spells_dir/coneOfCold#_cone-of-cold) _(DC 21), quickened _ [magic missile](../spells_dir/magicMissile#_magic-missile), [waves of fatigue](../spells_dir/wavesOfFatigue#_waves-of-fatigue) _
 
-4th—_ [dimension door](../spell_dir/dimensionDoor#_dimension-door), [enervation](../spell_dir/enervation#_enervation), [fire shield](../spell_dir/fireShield#_fire-shield), [wall of ice](../spell_dir/wallOfIce#_wall-of-ice) _(2)
+4th—_ [dimension door](../spells_dir/dimensionDoor#_dimension-door), [enervation](../spells_dir/enervation#_enervation), [fire shield](../spells_dir/fireShield#_fire-shield), [wall of ice](../spells_dir/wallOfIce#_wall-of-ice) _(2)
 
-3rd—_ [dispel magic](../spell_dir/dispelMagic#_dispel-magic) _(2), _ [fireball](../spell_dir/fireball#_fireball) _(DC 19), _ [suggestion](../spell_dir/suggestion#_suggestion) _(DC 19), _ [vampiric touch](../spell_dir/vampiricTouch#_vampiric-touch) _(2)
+3rd—_ [dispel magic](../spells_dir/dispelMagic#_dispel-magic) _(2), _ [fireball](../spells_dir/fireball#_fireball) _(DC 19), _ [suggestion](../spells_dir/suggestion#_suggestion) _(DC 19), _ [vampiric touch](../spells_dir/vampiricTouch#_vampiric-touch) _(2)
 
-2nd—_ [darkness](../spell_dir/darkness#_darkness), _extended _ [mage armor](../spell_dir/mageArmor#_mage-armor) _(already cast)_, [false life](../spell_dir/falseLife#_false-life) _(already cast)_, [scorching ray](../spell_dir/scorchingRay#_scorching-ray) _(2), _ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility), [spectral hand](../spell_dir/spectralHand#_spectral-hand)_
+2nd—_ [darkness](../spells_dir/darkness#_darkness), _extended _ [mage armor](../spells_dir/mageArmor#_mage-armor) _(already cast)_, [false life](../spells_dir/falseLife#_false-life) _(already cast)_, [scorching ray](../spells_dir/scorchingRay#_scorching-ray) _(2), _ [see invisibility](../spells_dir/seeInvisibility#_see-invisibility), [spectral hand](../spells_dir/spectralHand#_spectral-hand)_
 
-1st—_ [magic missile](../spell_dir/magicMissile#_magic-missile) _(3), _ [ray of enfeeblement](../spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement) _(2), _ [shield](../spell_dir/shield#_shield)_ (2)
+1st—_ [magic missile](../spells_dir/magicMissile#_magic-missile) _(3), _ [ray of enfeeblement](../spells_dir/rayOfEnfeeblement#_ray-of-enfeeblement) _(2), _ [shield](../spells_dir/shield#_shield)_ (2)
 
-0—_ [bleed](../spell_dir/bleed#_bleed) _(DC 16), _ [detect magic](../spell_dir/detectMagic#_detect-magic), [ray of frost](../spell_dir/rayOfFrost#_ray-of-frost), [read magic](../spell_dir/readMagic#_read-magic)_
+0—_ [bleed](../spells_dir/bleed#_bleed) _(DC 16), _ [detect magic](../spells_dir/detectMagic#_detect-magic), [ray of frost](../spells_dir/rayOfFrost#_ray-of-frost), [read magic](../spells_dir/readMagic#_read-magic)_
 
 **Opposition Schools** illusion, transmutation
 
@@ -62,7 +62,7 @@ NE Medium [undead](creatureTypes#_undead) ( [augmented](creatureTypes#_augmented
 
 **Feats** [Craft Wondrous Item](../feats#_craft-wondrous-item), [Defensive Combat Training](../feats#_defensive-combat-training), [Extend Spell](../feats#_extend-spell), [Improved Lightning Reflexes](../feats#_improved-lightning-reflexes), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Maximize Spell](../feats#_maximize-spell), [Quicken Spell](../feats#_quicken-spell), [Scribe Scroll](../feats#_scribe-scroll), [Toughness](../feats#_toughness)
 
-**Skills** [Craft](../skill_dir/craft#_craft) (alchemy) +20, [Intimidate](../skill_dir/intimidate#_intimidate) +17, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana) +20, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +20, [Linguistics](../skill_dir/linguistics#_linguistics) +20, [Perception](../skill_dir/perception#_perception) +24, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +24, [Spellcraft](../skill_dir/spellcraft#_spellcraft) +20, [Stealth](../skill_dir/stealth#_stealth) +24; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception), +8 [Sense Motive](../skill_dir/senseMotive#_sense-motive), +8 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Craft](../skills_dir/craft#_craft) (alchemy) +20, [Intimidate](../skills_dir/intimidate#_intimidate) +17, [Knowledge](../skills_dir/knowledge#_knowledge) (arcana) +20, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +20, [Linguistics](../skills_dir/linguistics#_linguistics) +20, [Perception](../skills_dir/perception#_perception) +24, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +24, [Spellcraft](../skills_dir/spellcraft#_spellcraft) +20, [Stealth](../skills_dir/stealth#_stealth) +24; **Racial Modifiers** +8 [Perception](../skills_dir/perception#_perception), +8 [Sense Motive](../skills_dir/senseMotive#_sense-motive), +8 [Stealth](../skills_dir/stealth#_stealth)
 
 **Languages** Abyssal, Aklo, Aquan, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, Ignan, Infernal, Orc, Undercommon
 
@@ -72,7 +72,7 @@ NE Medium [undead](creatureTypes#_undead) ( [augmented](creatureTypes#_augmented
 
 **Organization** solitary
 
-**Treasure** NPC gear (_ [boots of levitation](../magicItem_dir/wondrousItems#_boots-of-levitation), [headband of vast intelligence](../magicItem_dir/wondrousItems#_headband-of-vast-intelligence) +2 _[[Perception](../skill_dir/perception#_perception)]_, ring of protection +2, potion of [invisibility](../spell_dir/invisibility#_invisibility), scroll of [dominate person](../spell_dir/dominatePerson#_dominate-person), scroll of [teleport](../spell_dir/teleport#_teleport)_)
+**Treasure** NPC gear (_ [boots of levitation](../magicItems_dir/wondrousItems#_boots-of-levitation), [headband of vast intelligence](../magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +2 _[[Perception](../skills_dir/perception#_perception)]_, ring of protection +2, potion of [invisibility](../spells_dir/invisibility#_invisibility), scroll of [dominate person](../spells_dir/dominatePerson#_dominate-person), scroll of [teleport](../spells_dir/teleport#_teleport)_)
 
 Few creatures are more feared than the lich. The pinnacle of necromantic art, the lich is a spellcaster who has chosen to shed his life as a method to cheat death by becoming undead. While many who reach such heights of power stop at nothing to achieve immortality, the idea of becoming a lich is abhorrent to most creatures. The process involves the extraction of the spellcaster's life-force and its imprisonment in a specially prepared phylactery—the spellcaster gives up life, but in trapping life he also traps his death, and as long as his phylactery remains intact he can continue on in his research and work without fear of the passage of time.
 
@@ -104,7 +104,7 @@ Other forms of phylacteries can exist, such as rings, amulets, or similar items.
 
 **Hit Dice:** Change all of the creature's racial Hit Dice to d8s. All Hit Dice derived from class levels remain unchanged. As undead, liches use their Charisma modifiers to determine bonus hit points (instead of Constitution).
 
-**Defensive Abilities** : A lich gains channel resistance +4, DR 15/bludgeoning and magic, and immunity to cold and electricity (in addition to those granted by its undead traits). The lich also gains the following defensive ability.
+**Defensive Abilities** : A lich gains channel resistance +4, DR 15_dir/bludgeoning and magic, and immunity to cold and electricity (in addition to those granted by its undead traits). The lich also gains the following defensive ability.
 
 _Rejuvenation (Su)_: When a lich is destroyed, its phylactery (which is generally hidden by the lich in a safe place far from where it chooses to dwell) immediately begins to rebuild the undead spellcaster's body nearby. This process takes 1d10 days—if the body is destroyed before that time passes, the phylactery merely starts the process anew. After this time passes, the lich wakens fully healed (albeit without any gear it left behind on its old body), usually with a burning need for revenge against those who previously destroyed it.
 
@@ -112,16 +112,16 @@ _Rejuvenation (Su)_: When a lich is destroyed, its phylactery (which is generall
 
 **Damage** : A lich's touch attack uses negative energy to deal 1d8 points of damage to living creatures + 1 point of damage per 2 Hit Dice possessed by the lich. As negative energy, this damage can be used to heal undead creatures. A lich can take a full-round action to infuse itself with this energy, healing damage as if it had used its touch attack against itself.
 
-**Special Attacks** : A lich gains the two special attacks described below. Save DCs are equal to 10 + 1/2 lich's HD + lich's Cha modifier unless otherwise noted.
+**Special Attacks** : A lich gains the two special attacks described below. Save DCs are equal to 10 + 1_dir/2 lich's HD + lich's Cha modifier unless otherwise noted.
 
 _Fear Aura (Su): _Creatures of less than 5 HD in a 60-foot radius that look at the lich must succeed on a Will save or become frightened. Creatures with 5 HD or more must succeed at a Will save or be shaken for a number of rounds equal to the lich's Hit Dice. A creature that successfully saves cannot be affected again by the same lich's aura for 24 hours. This is a mind-affecting fear effect.
 
   
   
 
-_Paralyzing Touch (Su): _Any living creature a lich hits with its touch attack must succeed on a Fortitude save or be permanently paralyzed. _Remove paralysis _or any spell that can remove a curse can free the victim (see the _ [bestow curse](../spell_dir/bestowCurse#_bestow-curse) _spell description, with a DC equal to the lich's save DC). The effect cannot be dispelled. Anyone paralyzed by a lich seems dead, though a DC 20 [Perception](../skill_dir/perception#_perception) check or a DC 15 [Heal](../skill_dir/heal#_heal) check reveals that the victim is still alive.
+_Paralyzing Touch (Su): _Any living creature a lich hits with its touch attack must succeed on a Fortitude save or be permanently paralyzed. _Remove paralysis _or any spell that can remove a curse can free the victim (see the _ [bestow curse](../spells_dir/bestowCurse#_bestow-curse) _spell description, with a DC equal to the lich's save DC). The effect cannot be dispelled. Anyone paralyzed by a lich seems dead, though a DC 20 [Perception](../skills_dir/perception#_perception) check or a DC 15 [Heal](../skills_dir/heal#_heal) check reveals that the victim is still alive.
 
 **Abilities** : Int +2, Wis +2, Cha +2. Being undead, a lich has no Constitution score.
 
-**Skills** : Liches have a +8 racial bonus on [Perception](../skill_dir/perception#_perception), [Sense Motive](../skill_dir/senseMotive#_sense-motive), and [Stealth](../skill_dir/stealth#_stealth) checks. A lich always treats [Climb](../skill_dir/climb#_climb), [Disguise](../skill_dir/disguise#_disguise), [Fly](../skill_dir/fly#_fly), [Intimidate](../skill_dir/intimidate#_intimidate), [Knowledge](../skill_dir/knowledge#_knowledge) (arcana), [Knowledge](../skill_dir/knowledge#_knowledge) (religion), [Perception](../skill_dir/perception#_perception), [Sense Motive](../skill_dir/senseMotive#_sense-motive), [Spellcraft](../skill_dir/spellcraft#_spellcraft), and [Stealth](../skill_dir/stealth#_stealth) as class skills. Otherwise, skills are the same as the base creature.
+**Skills** : Liches have a +8 racial bonus on [Perception](../skills_dir/perception#_perception), [Sense Motive](../skills_dir/senseMotive#_sense-motive), and [Stealth](../skills_dir/stealth#_stealth) checks. A lich always treats [Climb](../skills_dir/climb#_climb), [Disguise](../skills_dir/disguise#_disguise), [Fly](../skills_dir/fly#_fly), [Intimidate](../skills_dir/intimidate#_intimidate), [Knowledge](../skills_dir/knowledge#_knowledge) (arcana), [Knowledge](../skills_dir/knowledge#_knowledge) (religion), [Perception](../skills_dir/perception#_perception), [Sense Motive](../skills_dir/senseMotive#_sense-motive), [Spellcraft](../skills_dir/spellcraft#_spellcraft), and [Stealth](../skills_dir/stealth#_stealth) as class skills. Otherwise, skills are the same as the base creature.
 

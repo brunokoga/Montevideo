@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/helpingHand
+title: spells_dir/helpingHand
 ---
  **Helping Hand**
 
@@ -14,7 +14,7 @@ title: spell_dir/helpingHand
 
 **Effect** ghostly hand
 
-**Duration** 1 hour/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

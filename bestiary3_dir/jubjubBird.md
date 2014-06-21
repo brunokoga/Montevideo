@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/jubjubBird
+title: bestiary3_dir/jubjubBird
 ---
 # Jubjub Bird
 
@@ -12,7 +12,7 @@ XP 51,200
 
 N Huge magical beast
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +24
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +24
 
 Defense
 
@@ -28,7 +28,7 @@ Offense
 
 **Speed** 50 ft., fly 20 ft. (poor)
 
-**Melee** bite +31 (3d6+19/19–20/×3 plus [grab](monster_dir/universalMonsterRules#_grab)), 2 talons +31 (1d8+13)
+**Melee** bite +31 (3d6+19_dir/19–20_dir/×3 plus [grab](monsters_dir/universalMonsterRules#_grab)), 2 talons +31 (1d8+13)
 
 **Space** 15 ft.; **Reach** 15 ft. (20 ft. with bite)
 
@@ -42,7 +42,7 @@ Statistics
 
 **Feats** [Blind-Fight](feats#_blind-fight), [Cleave](feats#_cleave), [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Improved Critical](feats#_improved-critical) (bite), [Iron Will](feats#_iron-will), [Mobility](feats#_mobility), [Power Attack](feats#_power-attack), [Run](feats#_run), [Spring Attack](feats#_spring-attack)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +14 (+22 when jumping), [Fly](skill_dir/fly#_fly) +7, [Perception](skills/perception#_perception) +24; **Racial Modifiers** +12 [Acrobatics](skill_dir/acrobatics#_acrobatics), +8 [Perception](skills/perception#_perception)
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +14 (+22 when jumping), [Fly](skills_dir/fly#_fly) +7, [Perception](skills_dir/perception#_perception) +24; **Racial Modifiers** +12 [Acrobatics](skills_dir/acrobatics#_acrobatics), +8 [Perception](skills_dir/perception#_perception)
 
 **SQ** planar acclimation
 
@@ -56,11 +56,11 @@ Ecology
 
 Special Abilities
 
-**Adaptive Defense (Su)** When first encountered, a jubjub bird has no energy [resistance](monster_dir/universalMonsterRules#_resistance). When damaged by an attack that causes [cold](monsters/creatureTypes#_cold-subtype), electricity, [fire](monster_dir/creatureTypes#_fire-subtype), or sonic damage, it gains [resistance](monsters/universalMonsterRules#_resistance) 30 to that energy type until the end of its next turn. If an attack causes more than one type of energy damage, the jubjub bird gains [resistance](monster_dir/universalMonsterRules#_resistance) 30 to all the types of energy damage dealt.
+**Adaptive Defense (Su)** When first encountered, a jubjub bird has no energy [resistance](monsters_dir/universalMonsterRules#_resistance). When damaged by an attack that causes [cold](monsters_dir/creatureTypes#_cold-subtype), electricity, [fire](monsters_dir/creatureTypes#_fire-subtype), or sonic damage, it gains [resistance](monsters_dir/universalMonsterRules#_resistance) 30 to that energy type until the end of its next turn. If an attack causes more than one type of energy damage, the jubjub bird gains [resistance](monsters_dir/universalMonsterRules#_resistance) 30 to all the types of energy damage dealt.
 
-**Deadly Bite (Ex)** A jubjub bird applies 1-1/2 times its Strength modifier to damage dealt by its bite attack. A successful critical hit decapitates and instantly slays a Large or smaller victim (DC 33 Fortitude negates decapitation; creatures without a head are immune to this effect) and deals triple normal damage regardless of the decapitation result. The save DC is Strength-based.
+**Deadly Bite (Ex)** A jubjub bird applies 1-1_dir/2 times its Strength modifier to damage dealt by its bite attack. A successful critical hit decapitates and instantly slays a Large or smaller victim (DC 33 Fortitude negates decapitation; creatures without a head are immune to this effect) and deals triple normal damage regardless of the decapitation result. The save DC is Strength-based.
 
-**Planar Acclimation (Ex)** A jubjub bird is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype) subtype.
+**Planar Acclimation (Ex)** A jubjub bird is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype) subtype.
 
 **Shriek (Ex)** Once every 1d6 rounds as a standard action, a jubjub bird can voice a piercing screech. All creatures (other than jubjub birds) within a 60-foot-radius spread must succeed at a DC 26 Fortitude save or be stunned for 1d4 rounds. This is a sonic effect. The save DC is Constitution-based.
 

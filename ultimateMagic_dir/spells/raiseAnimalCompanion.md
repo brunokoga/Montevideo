@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/raiseAnimalCompanion
+title: ultimateMagic_dir/spells_dir/raiseAnimalCompanion
 ---
 Raise Animal Companion
 
@@ -18,5 +18,5 @@ Raise Animal Companion
 
 **Saving Throw** none, see text; **Spell Resistance** yes (harmless)
 
-This spell functions as _ [raise dead](spell_dir/raiseDead#_raise-dead)_, but it only affects an animal companion, familiar, or paladin's bonded mount.
+This spell functions as _ [raise dead](spells_dir/raiseDead#_raise-dead)_, but it only affects an animal companion, familiar, or paladin's bonded mount.
 

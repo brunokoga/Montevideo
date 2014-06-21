@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/weird
+title: spells_dir/weird
 ---
  **Weird**
 
-**School** illusion (phantasm) [fear, mind-affecting]; **Level** sorcerer/wizard 9
+**School** illusion (phantasm) [fear, mind-affecting]; **Level** sorcerer_dir/wizard 9
 
 **Targets** any number of creatures, no two of which can be more than 30 ft. apart
 

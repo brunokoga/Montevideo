@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/perceiveCues
+title: advanced_dir/spells_dir/perceiveCues
 ---
  **Perceive Cues**
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/perceiveCues
 
 **Target** you
 
-**Duration** 10 minute_dir/level
+**Duration** 10 minutes_dir/level
 
-Your senses become preternaturally keen, and you gain insight into subtle behavioral cues. For the duration of the spell, you receive a +5 competence bonus on [Perception](../../skill_dir/perception#_perception) and [Sense Motive](../../skill_dir/senseMotive#_sense-motive) checks.
+Your senses become preternaturally keen, and you gain insight into subtle behavioral cues. For the duration of the spell, you receive a +5 competence bonus on [Perception](../../skills_dir/perception#_perception) and [Sense Motive](../../skills_dir/senseMotive#_sense-motive) checks.
 

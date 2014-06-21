@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/seaAnemone
+title: bestiary3_dir/seaAnemone
 ---
 # Sea Anemone, Giant
 
@@ -10,9 +10,9 @@ Giant Sea Anemone CR 2
 
 XP 600
 
-N Large vermin ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype))
+N Large vermin ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +2; **Senses** [blindsight](monsters/universalMonsterRules#_blindsight) 30 ft.; [Perception](skill_dir/perception#_perception) +0
+**Init** +2; **Senses** [blindsight](monsters_dir/universalMonsterRules#_blindsight) 30 ft.; [Perception](skills_dir/perception#_perception) +0
 
 Defense
 
@@ -22,13 +22,13 @@ Defense
 
 **Fort** +8, **Ref** +3, **Will** +1
 
-**Defensive Abilities** [amorphous](monsters/universalMonsterRules#_amorphous); **Immune** [gaze](monster_dir/universalMonsterRules#_gaze) attacks, mind-affecting effects, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)), vision-based effects
+**Defensive Abilities** [amorphous](monsters_dir/universalMonsterRules#_amorphous); **Immune** [gaze](monsters_dir/universalMonsterRules#_gaze) attacks, mind-affecting effects, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)), vision-based effects
 
 Offense
 
 **Speed** 5 ft.
 
-**Melee** tentacles +3 (2d6+1 plus [grab](monster_dir/universalMonsterRules#_grab) and [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** tentacles +3 (2d6+1 plus [grab](monsters_dir/universalMonsterRules#_grab) and [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -40,7 +40,7 @@ Statistics
 
 **Base Atk** +3; **CMB** +5; **CMD** 17 (can't be tripped)
 
-**Skills** [Stealth](skill_dir/stealth#_stealth) +6; **Racial Modifiers** +8 [Stealth](skills/stealth#_stealth)
+**Skills** [Stealth](skills_dir/stealth#_stealth) +6; **Racial Modifiers** +8 [Stealth](skills_dir/stealth#_stealth)
 
 **SQ** anchored, sightless
 
@@ -54,13 +54,13 @@ Ecology
 
 Special Abilities
 
-**Anchored (Ex)** As a full-round action, a [giant](monster_dir/creatureTypes#_giant-subtype) sea anemone can affix itself to a solid surface. While anchored, it cannot move, and it gains a +4 bonus to its CMD on all checks to resist being bull-rushed, dragged, overrun, or repositioned. This bonus increases by +4 for each size category larger the sea anemone is compared to the opponent attempting the maneuver. The creature can unanchor itself as a full-round action.
+**Anchored (Ex)** As a full-round action, a [giant](monsters_dir/creatureTypes#_giant-subtype) sea anemone can affix itself to a solid surface. While anchored, it cannot move, and it gains a +4 bonus to its CMD on all checks to resist being bull-rushed, dragged, overrun, or repositioned. This bonus increases by +4 for each size category larger the sea anemone is compared to the opponent attempting the maneuver. The creature can unanchor itself as a full-round action.
 
 **Poison (Ex)** Tentacle­—injury; _save_ Fort DC 16; _frequency_   
-1/round for 6 rounds; _effect_ 1d2 Dex damage; _cure_   
+1_dir/round for 6 rounds; _effect_ 1d2 Dex damage; _cure_   
 2 consecutive saves.
 
-**Sightless (Ex)** A sea anemone is blind and is not affected by any effect that relies on sight, such as [gaze](monster_dir/universalMonsterRules#_gaze) attacks or blindness.
+**Sightless (Ex)** A sea anemone is blind and is not affected by any effect that relies on sight, such as [gaze](monsters_dir/universalMonsterRules#_gaze) attacks or blindness.
 
 Giant sea anemones are beautiful but deadly ocean-dwelling vermin that rely on camouflage and paralytic toxins to draw in their prey. A sea anemone has a long, cylindrical body that ends in a flat circular disc with a slitlike orifice for both ingesting food and dispelling waste. This disc is surrounded by a thicket of tendrils that vary in thickness from fine, hairlike cilia to thick, swollen appendages. The creature uses all of these tentacles at once when it attacks prey. Like their smaller kin, giant sea anemones come in a broad spectrum of colors—many are known for their brilliant hues.
 
@@ -73,8 +73,8 @@ Other species of sea anemones exist as well, some smaller but most quite a bit l
 [Table: Sea Anemone Species]
 | Species | CR | Size | HD |
 | --- | --- | --- | --- |
-| Common anemone | 1/4 | Tiny | 1d8 |
-| Bluehair anemone | 1/2 | Small | 2d8 |
+| Common anemone | 1_dir/4 | Tiny | 1d8 |
+| Bluehair anemone | 1_dir/2 | Small | 2d8 |
 | Coffin anemone | 1 | Medium | 3d8 |
 | Darkforest anemone | 6 | Huge | 9d8 |
 | Siren's bed anemone | 9 | Gargantuan | 14d8 |

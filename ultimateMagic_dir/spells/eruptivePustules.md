@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/eruptivePustules
+title: ultimateMagic_dir/spells_dir/eruptivePustules
 ---
 Eruptive Pustules
 
-**School** transmutation [acid]; **Level** alchemist 3, sorcere_dir/wizard 3, witch 3
+**School** transmutation [acid]; **Level** alchemist 3, sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Eruptive Pustules
 
 **Target** you
 
-**Duration** 1 minute/level (D)
+**Duration** 1 minute_dir/level (D)
 
 **Saving Throw** Fortitude partial (see text); **Spell Resistance** yes
 

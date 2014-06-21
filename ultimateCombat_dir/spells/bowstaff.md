@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/bowstaff
+title: ultimateCombat_dir/spells_dir/bowstaff
 ---
 Bowstaff
 
@@ -14,7 +14,7 @@ Bowstaff
 
 **Target** one weapon (bow)
 
-**Duration** 1 roun_dir/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 

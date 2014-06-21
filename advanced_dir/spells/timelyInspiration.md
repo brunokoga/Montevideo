@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/timelyInspiration
+title: advanced_dir/spells_dir/timelyInspiration
 ---
  **Timely Inspiration**
 
@@ -10,7 +10,7 @@ title: advance_dir/spells/timelyInspiration
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 

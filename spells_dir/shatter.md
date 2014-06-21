@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spell_dir/shatter
+title: spells_dir/shatter
 ---
  **Shatter**
 
-**School** evocation [sonic]; **Level** bard 2, cleric 2, sorcerer/wizard 2
+**School** evocation [sonic]; **Level** bard 2, cleric 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (a chip of mica)
+**Components** V, S, M_dir/DF (a chip of mica)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Area or Target** 5-ft.-radius spread; or one solid object or one crystalline creature
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/speakWithAnimals
+title: spells_dir/speakWithAnimals
 ---
  **Speak with Animals**
 
@@ -14,7 +14,7 @@ title: spell_dir/speakWithAnimals
 
 **Target** you
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 You can ask questions of and receive answers from animals, but the spell doesn't make them any more friendly than normal. Wary and cunning animals are likely to be terse and evasive, while the more stupid ones make inane comments. If an animal is friendly toward you, it may do some favor or service for you.
 

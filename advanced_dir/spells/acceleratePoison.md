@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advance_dir/spells/acceleratePoison
+title: advanced_dir/spells_dir/acceleratePoison
 ---
  **Accelerate Poison**
 
-**School** transmutation; **Level** druid 2, ranger 2, sorcere_dir/wizard 2
+**School** transmutation; **Level** druid 2, ranger 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 

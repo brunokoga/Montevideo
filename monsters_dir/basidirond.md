@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/basidirond
+title: monsters_dir/basidirond
 ---
 # Basidirond
 
@@ -12,7 +12,7 @@ _This strange plant consists of four spidery stalks, long green tendrils, and an
 
 N Medium [plant](creatureTypes#_plant)
 
-**Init** +1; **Senses** low-light vision, [tremorsense](universalMonsterRules#_tremorsense); [Perception](../skill_dir/perception#_perception) +0
+**Init** +1; **Senses** low-light vision, [tremorsense](universalMonsterRules#_tremorsense); [Perception](../skills_dir/perception#_perception) +0
 
 **Defense**
 
@@ -62,11 +62,11 @@ N Medium [plant](creatureTypes#_plant)
 
 **4** You're suffocating! Stand in place, hold your breath, and clutch at your throat for 1 round.
 
-**5** You've shrunk to 1/10th your normal size! Take no actions for 1 round and monsters won't see you.
+**5** You've shrunk to 1_dir/10th your normal size! Take no actions for 1 round and monsters won't see you.
 
 **6** You're melting! Grasp hold of yourself in an attempt to hold yourself together, and take no actions for 1 round.
 
-**Spores (Ex)** Any creature struck by a basidirond's slam attack is coated with spores. The creature struck must make a DC 16 Fortitude save or these spores take root in his flesh, and particularly in his lungs. The save DC is Constititon-based._Basidirond Spores_: Disease—inhaled; _save_ Fort DC 16; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 save.
+**Spores (Ex)** Any creature struck by a basidirond's slam attack is coated with spores. The creature struck must make a DC 16 Fortitude save or these spores take root in his flesh, and particularly in his lungs. The save DC is Constititon-based._Basidirond Spores_: Disease—inhaled; _save_ Fort DC 16; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 save.
 
 **Cold Lethargy (Ex)** Although a basidirond is immune to cold damage, any cold effect it is exposed to slows it for 1d4 rounds. During this time, the basidirond cannot use its hallucination cloud or spores.
 

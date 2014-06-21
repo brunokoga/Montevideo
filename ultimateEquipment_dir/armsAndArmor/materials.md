@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateEquipmen_dir/armsAndArmor/materials
+title: ultimateEquipment_dir/armsAndArmor_dir/materials
 ---
 # Special Materials
 
@@ -14,7 +14,7 @@ adamantine
 
 **Weight** 55 lbs.
 
-Mined from rocks that fell from the heavens, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons fashioned from adamantine have a natural ability to bypass hardness when sundering weapons or attacking objects, ignoring hardness less than 20. Armor made from adamantine grants its wearer damage reduction of 1/— if it's light armor, 2/— if it's medium armor, and 3/— if it's heavy armor. Adamantine is so costly that weapons and armor made from it are always of masterwork quality; the masterwork cost is included in the prices given below. Thus, adamantine weapons and ammunition have a +1 enhancement bonus on attack rolls, and the armor check penalty of adamantine armor is lessened by 1 compared to ordinary armor of its type. Items without metal parts cannot be made from adamantine. An arrow could be made of adamantine, but a quarterstaff could not.
+Mined from rocks that fell from the heavens, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons fashioned from adamantine have a natural ability to bypass hardness when sundering weapons or attacking objects, ignoring hardness less than 20. Armor made from adamantine grants its wearer damage reduction of 1_dir/— if it's light armor, 2_dir/— if it's medium armor, and 3_dir/— if it's heavy armor. Adamantine is so costly that weapons and armor made from it are always of masterwork quality; the masterwork cost is included in the prices given below. Thus, adamantine weapons and ammunition have a +1 enhancement bonus on attack rolls, and the armor check penalty of adamantine armor is lessened by 1 compared to ordinary armor of its type. Items without metal parts cannot be made from adamantine. An arrow could be made of adamantine, but a quarterstaff could not.
 
 Weapons and armor normally made of steel that are made of adamantine have one-third more hit points than normal. Adamantine has 40 hit points per inch of thickness and hardness 20.
 
@@ -51,9 +51,9 @@ Angelskin
 
 **Weight** 45 lb.
 
-The preserved skin of an angel retains a portion of celestial grace and can be crafted into leather, hide, or studded leather armor. Angelskin radiates a moderate good aura that masks malign auras. Any evil aura radiated by the wearer is reduced in strength by 10 Hit Dice. Auras reduced below 1 Hit Die can't be detected by means such as _ [detect evil](spell_dir/detectEvil#_detect-evil)_; the creature doesn't detect as evil, though this has no effect on other aspects of the creature's alignment. For example, a weak chaotic creature wearing angelskin armor detects as chaotic, but not evil.
+The preserved skin of an angel retains a portion of celestial grace and can be crafted into leather, hide, or studded leather armor. Angelskin radiates a moderate good aura that masks malign auras. Any evil aura radiated by the wearer is reduced in strength by 10 Hit Dice. Auras reduced below 1 Hit Die can't be detected by means such as _ [detect evil](spells_dir/detectEvil#_detect-evil)_; the creature doesn't detect as evil, though this has no effect on other aspects of the creature's alignment. For example, a weak chaotic creature wearing angelskin armor detects as chaotic, but not evil.
 
-Spells and supernatural abilities that have special effects when cast on or used against creatures with evil alignments (even beneficial effects) have a 20% chance of treating an evil wearer as neutral instead. Ongoing effects such as smite evil make this roll the first time they are used against the creature; if the effect treats the target as neutral, it does so for the remainder of the effect's duration. If the ongoing effect applies to an area and the wearer leaves that area, the percentage chance should be rolled again. Permanent magic items such as _ [holy](magicItems/weapons#_weapons-holy) _weapons always treat the wearer as evil. Armor constructed from angelskin is always of masterwork quality; the masterwork cost is included in the prices given below.
+Spells and supernatural abilities that have special effects when cast on or used against creatures with evil alignments (even beneficial effects) have a 20% chance of treating an evil wearer as neutral instead. Ongoing effects such as smite evil make this roll the first time they are used against the creature; if the effect treats the target as neutral, it does so for the remainder of the effect's duration. If the ongoing effect applies to an area and the wearer leaves that area, the percentage chance should be rolled again. Permanent magic items such as _ [holy](magicItems_dir/weapons#_weapons-holy) _weapons always treat the wearer as evil. Armor constructed from angelskin is always of masterwork quality; the masterwork cost is included in the prices given below.
 
 Angelskin has 5 hit points per inch of thickness and hardness 5.
 
@@ -108,7 +108,7 @@ Darkleaf cloth has 20 hit points per inch of thickness and hardness 10.
 | Clothing | +500 gp |
 | Light armor | +750 gp |
 | Medium armor | +1,500 gp |
-| Other items | +375 g_dir/lb. |
+| Other items | +375 gp_dir/lb. |
 
 Darkwood
 
@@ -128,9 +128,9 @@ Armorsmiths can work with the hides of dragons to produce armor or shields of ma
 
 Because dragonhide armor isn't made of metal, druids can wear it without penalty.
 
-Dragonhide armor costs twice as much as masterwork armor of that type, but it takes no longer to make than ordinary armor of that type (double all [Craft](skills/craft#_craft) results).
+Dragonhide armor costs twice as much as masterwork armor of that type, but it takes no longer to make than ordinary armor of that type (double all [Craft](skills_dir/craft#_craft) results).
 
-Dragonhide has 10 hit points per inch of thickness and hardness 10. The hide of a dragon is typically between 1/2 inch and 1 inch thick.
+Dragonhide has 10 hit points per inch of thickness and hardness 10. The hide of a dragon is typically between 1_dir/2 inch and 1 inch thick.
 
 Eel hide
 
@@ -155,7 +155,7 @@ Elysian Bronze
 
 First crafted in the deeps of time by the titans and bestowed as gifts to monster-slaying heroes among the lesser races, Elysian bronze retains the brazen coloration of its namesake but is as hard as steel. A weapon made of Elysian bronze adds a +1 bonus on weapon damage rolls against magical beasts and monstrous humanoids; this damage is multiplied on a critical hit. After a creature uses an Elysian bronze weapon to deal damage to a magical beast or monstrous humanoid, the wielder gains a +1 bonus on attack rolls against that specific creature type (for example, against chimeras, not all magical beasts) for the next 24 hours, or until the weapon deals damage to a different kind of magical beast or monstrous humanoid.
 
-Armor made of Elysian bronze also protects its wearer against the natural weapons or unarmed strikes of magical beasts and monstrous humanoids, providing damage reduction as if it were adamantine (1/— for light armor, 2/— for medium armor, or 3/— for heavy armor). It does not provide this protection against creatures of other types.
+Armor made of Elysian bronze also protects its wearer against the natural weapons or unarmed strikes of magical beasts and monstrous humanoids, providing damage reduction as if it were adamantine (1_dir/— for light armor, 2_dir/— for medium armor, or 3_dir/— for heavy armor). It does not provide this protection against creatures of other types.
 
 Elysian bronze has the same hit points and hardness as steel.
 
@@ -175,7 +175,7 @@ Fire-forged steel
 
 Dwarves stumbled across the secret of crafting fire-forged steel in an effort to make forge-friendly tools. It didn't take them long to adapt its unique properties to arms and armor. Fire-forged steel channels heat in one direction to protect its wearer or wielder. When it is crafted into armor, heat is channeled away from the wearer, offering some limited protection. Armor crafted from fire-forged steel grants the wearer fire resistance 2.
 
-Weapons crafted from fire-forged steel similarly channel heat away from the wearer; this does not grant the wielder energy resistance. Instead, the blade absorbs and channels heat to the parts of the weapon that contact enemies. If the weapon is exposed to 10 points or more of fire damage (such as from an opponent's _ [fireball](spell_dir/fireball#_fireball)_ or by holding it in a campfire for 1 full round), the weapon adds +1d4 points of fire damage to its attacks for the next 2 rounds. If the wielder is wearing fire-forged armor and using a fire-forged weapon, this bonus damage increases to 1d6 points of fire damage and lasts for 4 rounds. This bonus damage does not stack with fire damage from weapon enhancements such as _ [flaming](magicItems/weapons#_weapons-flaming)_.
+Weapons crafted from fire-forged steel similarly channel heat away from the wearer; this does not grant the wielder energy resistance. Instead, the blade absorbs and channels heat to the parts of the weapon that contact enemies. If the weapon is exposed to 10 points or more of fire damage (such as from an opponent's _ [fireball](spells_dir/fireball#_fireball)_ or by holding it in a campfire for 1 full round), the weapon adds +1d4 points of fire damage to its attacks for the next 2 rounds. If the wielder is wearing fire-forged armor and using a fire-forged weapon, this bonus damage increases to 1d6 points of fire damage and lasts for 4 rounds. This bonus damage does not stack with fire damage from weapon enhancements such as _ [flaming](magicItems_dir/weapons#_weapons-flaming)_.
 
 Armor or weapons made from fire-forged steel are always considered masterwork, and the masterwork costs are included in the listed prices.
 
@@ -211,7 +211,7 @@ The secret of greenwood lies in its harvesting. Each length is taken, with leave
 
 When damp and in contact with fertile soil, living greenwood heals damage to itself at a rate of 1 hit point per hour, even repairing breaks and regrowing missing pieces. If the weapon has the broken condition, it is repaired during the first hour of contact with fertile soil. Greenwood items take only one-quarter damage from fire.
 
-Greenwood can be altered or enhanced with wood-shaping magic such as _ [ironwood](spell_dir/ironwood#_ironwood)_, _shape wood_, and _ [warp wood](spells/warpWood#_warp-wood)_. The duration of any such effect on a greenwood item is doubled.
+Greenwood can be altered or enhanced with wood-shaping magic such as _ [ironwood](spells_dir/ironwood#_ironwood)_, _shape wood_, and _ [warp wood](spells_dir/warpWood#_warp-wood)_. The duration of any such effect on a greenwood item is doubled.
 
 To determine the price of a greenwood item, use the original weight but add 50 gp per pound to the price of a masterwork version of that item. Items made from darkwood cannot be made into greenwood.
 
@@ -223,14 +223,14 @@ griffon mane
 
 **Weight** 45 lb.
 
-This rough-spun cloth, ranging in color from golden-brown to brown-black, is woven from the mane of leonine magical beasts, primarily griffons but also chimeras and manticores, and is exceptionally strong and light. Wearing a cloak, robe, clothing outfit, or padded or quilted armor made from griffon mane grants a +2 competence bonus on [Fly](skill_dir/fly#_fly) checks. If an item made of griffon mane is magically given the ability to fly, the cost to add that specific magical property is reduced by 10%, though this does not reduce the cost of any other abilities the item has.
+This rough-spun cloth, ranging in color from golden-brown to brown-black, is woven from the mane of leonine magical beasts, primarily griffons but also chimeras and manticores, and is exceptionally strong and light. Wearing a cloak, robe, clothing outfit, or padded or quilted armor made from griffon mane grants a +2 competence bonus on [Fly](skills_dir/fly#_fly) checks. If an item made of griffon mane is magically given the ability to fly, the cost to add that specific magical property is reduced by 10%, though this does not reduce the cost of any other abilities the item has.
 
 Griffon mane has twice the number of hit points of normal cloth and hardness 1.
 
 | Type of Griffon Mane Item | Item Price Modifier |
 | --- | --- |
 | Light armor | +200 gp |
-| Other items | +50 gp/lb. |
+| Other items | +50 gp_dir/lb. |
 
 living steel
 
@@ -252,7 +252,7 @@ Living steel has 35 hit points per inch of thickness and hardness 15.
 | Heavy armor | +1,500 gp |
 | Weapon | +500 gp |
 | Shield | +100 gp |
-| Other items | +250 g_dir/lb. |
+| Other items | +250 gp_dir/lb. |
 
 mithral
 
@@ -274,7 +274,7 @@ Mithral has 30 hit points per inch of thickness and hardness 15.
 | Medium armor | +4,000 gp |
 | Heavy armor | +9,000 gp |
 | Shield | +1,500 gp |
-| Other items | +500 gp/lb. |
+| Other items | +500 gp_dir/lb. |
 
 viridium
 
@@ -286,7 +286,7 @@ This deep green volcanic glass is similar to obsidian but is formed when molten 
 
 Any successful hit with a viridium weapon causes the target to contract leprosy (Fortitude DC 12 negates). On a successful critical hit, a tiny fragment of viridium breaks off within the target, affecting it as though with greenblood oil (Fortitude DC 13 negates).
 
-A creature carrying a viridium weapon must save every 24 hours or contract leprosy unless the weapon is kept inside an extradimensional space (such as an _ [efficient quiver](magicItem_dir/wondrousItems#_efficient-quiver)_) or a scabbard lined with lead.
+A creature carrying a viridium weapon must save every 24 hours or contract leprosy unless the weapon is kept inside an extradimensional space (such as an _ [efficient quiver](magicItems_dir/wondrousItems#_efficient-quiver)_) or a scabbard lined with lead.
 
 Oozes, plants, and outsiders are immune to the deadly emanations of viridium.
 
@@ -303,7 +303,7 @@ whipwood
 
 **Weight** 45 lb.
 
-Vanara woodworkers craft this extremely flexible material in a time-consuming process. Whipwood is actually a composite of several bendable wooden fibers woven and fused together to form a flexible but sturdy unit. Only wooden weapons or weapons with wooden hafts (such as axes and spears) can be made out of whipwood. A creature wielding a whipwood weapon gains a +2 bonus to its CMD when defending against sunder attempts against the weapon. A whipwood weapon's hit points increase by +5. Whipwood loses its special qualities if under the effect of an _ [ironwood](spells/ironwood#_ironwood)_ spell. Whipwood weapons cost 500 gp more than normal weapons of their type.
+Vanara woodworkers craft this extremely flexible material in a time-consuming process. Whipwood is actually a composite of several bendable wooden fibers woven and fused together to form a flexible but sturdy unit. Only wooden weapons or weapons with wooden hafts (such as axes and spears) can be made out of whipwood. A creature wielding a whipwood weapon gains a +2 bonus to its CMD when defending against sunder attempts against the weapon. A whipwood weapon's hit points increase by +5. Whipwood loses its special qualities if under the effect of an _ [ironwood](spells_dir/ironwood#_ironwood)_ spell. Whipwood weapons cost 500 gp more than normal weapons of their type.
 
 WYROOT
 
@@ -340,7 +340,7 @@ Bone weapons have half the hardness of their base weapons and have the fragile w
 
 Studded leather, scale mail, breastplates, and wooden shields can all be constructed using bone. Bone either replaces the metal components of the armor, or in the case of wooden shields, large pieces of bone or shell replace the wood.
 
-Bone armor has hardness 5 and has the fragile armor quality. Masterwork bone armor also has the fragile quality, but magic bone armor does not. The armo_dir/shield bonus of bone armor is reduced by 1, but in the case of studded leather, the armor check penalty is also reduced by 1 (to 0). Magically strengthened bone does not have the fragile quality or reduced armor/shield bonus.
+Bone armor has hardness 5 and has the fragile armor quality. Masterwork bone armor also has the fragile quality, but magic bone armor does not. The armor_dir/shield bonus of bone armor is reduced by 1, but in the case of studded leather, the armor check penalty is also reduced by 1 (to 0). Magically strengthened bone does not have the fragile quality or reduced armor_dir/shield bonus.
 
 bronze
 
@@ -370,7 +370,7 @@ Gold is often too soft to hold a decent edge, but light weapons that deal pierci
 
 Gold weapons have half the hardness of their base weapons and also have the fragile quality.
 
-Gold can be fashioned into light or medium metal armor. The softness and the weight of the metal decrease the armo_dir/shield bonus by 2, and increase the armor check penalty by 2. Gold armor has hardness 5. Magically strengthened gold is the equivalent of steel and can be made into any armor or weapon that can be made of steel.
+Gold can be fashioned into light or medium metal armor. The softness and the weight of the metal decrease the armor_dir/shield bonus by 2, and increase the armor check penalty by 2. Gold armor has hardness 5. Magically strengthened gold is the equivalent of steel and can be made into any armor or weapon that can be made of steel.
 
 obsidian
 

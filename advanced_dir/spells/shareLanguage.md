@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advance_dir/spells/shareLanguage
+title: advanced_dir/spells_dir/shareLanguage
 ---
  **Share Language**
 
-**School** divination; **Level** bard 1, cleric 2, druid 2, sorcere_dir/wizard 2
+**School** divination; **Level** bard 1, cleric 2, druid 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 

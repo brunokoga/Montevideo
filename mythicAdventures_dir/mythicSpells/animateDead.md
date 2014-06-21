@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/animateDead
+title: mythicAdventures_dir/mythicSpells_dir/animateDead
 ---
 Animate Dead
 
-**Source** [_animate dead_](spell_dir/animateDead#_animate-dead)
+**Source** [_animate dead_](spells_dir/animateDead#_animate-dead)
 
 Add your tier to your caster level when determining how many Hit Dice of undead you can animate with a single casting of this spell. This doesn't increase the total number of Hit Dice worth of undead you can control. By expending a second use of mythic power, you can ignore the spell's material component cost.
 

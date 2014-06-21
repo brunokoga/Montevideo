@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/revivingFinale
+title: advanced_dir/spells_dir/revivingFinale
 ---
  **Reviving Finale**
 

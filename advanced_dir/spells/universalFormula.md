@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/universalFormula
+title: advanced_dir/spells_dir/universalFormula
 ---
  **Universal Formula**
 

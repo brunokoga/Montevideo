@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/holyWhisper
+title: advanced_dir/spells_dir/holyWhisper
 ---
  **Holy Whisper**
 
@@ -18,5 +18,5 @@ title: advance_dir/spells/holyWhisper
 
 **Saving Throw** Fortitude negates; see text; **Spell Resistance** yes
 
-You whisper a single word in the primordial language of good that is anathema to the minions of evil and strengthens the resolve of good creatures. Evil creatures within the burst must make a Fortitude saving throw or become sickened for 1 roun_dir/level. Evil outsiders with the evil subtype, evil-aligned dragons, and undead in the burst also take 2d8 points of damage if they fail their saves. Good-aligned creatures in the burst gain a +2 sacred bonus on attack and damage rolls for 1 round.
+You whisper a single word in the primordial language of good that is anathema to the minions of evil and strengthens the resolve of good creatures. Evil creatures within the burst must make a Fortitude saving throw or become sickened for 1 round_dir/level. Evil outsiders with the evil subtype, evil-aligned dragons, and undead in the burst also take 2d8 points of damage if they fail their saves. Good-aligned creatures in the burst gain a +2 sacred bonus on attack and damage rolls for 1 round.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/mihstu
+title: additionalMonsters_dir/mihstu
 ---
 # Mihstu
 
@@ -10,9 +10,9 @@ A miasmal form roils as barbed tentacles emerge from the central mass, coalescin
 
 **XP 4,800**
 
-NE Medium [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype))
+NE Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [air](monsters_dir/creatureTypes#_air-subtype), [elemental](monsters_dir/creatureTypes#_elemental-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype))
 
-**Init** +10; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
+**Init** +10; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13
 
 Defense
 
@@ -22,15 +22,15 @@ Defense
 
 **Fort** +12, **Ref** +12, **Will** +4
 
-**Defensive Abilities** wind defense; **DR** 10/magic; **Immune** electricity, [elemental](monster_dir/creatureTypes#_elemental-subtype) traits; **SR** 19
+**Defensive Abilities** wind defense; **DR** 10_dir/magic; **Immune** electricity, [elemental](monsters_dir/creatureTypes#_elemental-subtype) traits; **SR** 19
 
-**Weaknesses** susceptible to [cold](monsters/creatureTypes#_cold-subtype)
+**Weaknesses** susceptible to [cold](monsters_dir/creatureTypes#_cold-subtype)
 
 Offense
 
 **Speed** 20 ft., fly 20 ft. (good)
 
-**Melee** 4 tentacles +14 (1d4+1 plus [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** 4 tentacles +14 (1d4+1 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Special Attacks** deadly embrace
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +8; **CMB** +9 (+13 grapple); **CMD** 26 (can_'_t be tripped)
 
-**Feats** [Dodge](additionalMonsters/../feats#_dodge), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Mobility](additionalMonster_dir/../feats#_mobility), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
+**Feats** [Dodge](additionalMonsters_dir/../feats#_dodge), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Mobility](additionalMonsters_dir/../feats#_mobility), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +17, [Bluff](additionalMonsters/../skill_dir/bluff#_bluff) +12, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +17, [Fly](additionalMonsters/../skill_dir/fly#_fly) +21, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +13, [Perception](additionalMonsters/../skill_dir/perception#_perception) +13, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +17
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +17, [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +12, [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +17, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +21, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +13, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +13, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +17
 
 **Languages** Auran
 
@@ -50,7 +50,7 @@ Statistics
 
 Ecology
 
-**Environment** any (Plane of [Air](monsters/creatureTypes#_air-subtype))
+**Environment** any (Plane of [Air](monsters_dir/creatureTypes#_air-subtype))
 
 **Organization** solitary
 
@@ -62,7 +62,7 @@ Special Abilities
 
 **Deadly Embrace (Ex)** A mihstu that pins an opponent completely surrounds that creature and deals 1d2 Constitution damage every round as it siphons away blood, tears, and other vital fluids. Maintaining a pin is a free action for a mihstu and it does not gain the grappled condition (allowing it to attack other creatures with its tentacles).
 
-**Susceptible to [Cold](monster_dir/creatureTypes#_cold-subtype) (Ex)** Magical [cold](monsters/creatureTypes#_cold-subtype) stuns a mihstu rather than damaging it. If the creature fails its save against a magical [cold](monster_dir/creatureTypes#_cold-subtype) effect, it is stunned for 1 round and then staggered for an additional 1d4 rounds.
+**Susceptible to [Cold](monsters_dir/creatureTypes#_cold-subtype) (Ex)** Magical [cold](monsters_dir/creatureTypes#_cold-subtype) stuns a mihstu rather than damaging it. If the creature fails its save against a magical [cold](monsters_dir/creatureTypes#_cold-subtype) effect, it is stunned for 1 round and then staggered for an additional 1d4 rounds.
 
 **Wind Defense (Ex)** The churning winds of a mihstu_'_s body automatically deflect nonmagical projectiles (such as arrows, bolts, and sling stones). All other ranged weapons (including magical projectiles and thrown weapons) have a 20% miss chance. Weapons of significant size, such as giant-thrown boulders, siege engine projectiles, and other massive ranged weapons are not affected by this ability.
 

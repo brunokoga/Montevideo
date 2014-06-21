@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/kiShout
+title: ultimateMagic_dir/spells_dir/kiShout
 ---
 Ki Shout
 
-**School** evocation [sonic]; **Level** bard 5, sorcere_dir/wizard 7
+**School** evocation [sonic]; **Level** bard 5, sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft + 5 ft./2 levels)
+**Range** close (25 ft + 5 ft._dir/2 levels)
 
 **Target** one living creature
 

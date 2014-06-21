@@ -1,14 +1,14 @@
 ---
 layout: default
-title: spell_dir/solidFog
+title: spells_dir/solidFog
 ---
  **Solid Fog**
 
-**School** conjuration (creation); **Level** sorcerer/wizard 4
+**School** conjuration (creation); **Level** sorcerer_dir/wizard 4
 
 **Components** : V, S, M (powdered peas and an animal hoof)
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **[Spell Resistance](../glossary#_spell-resistance)** no
 

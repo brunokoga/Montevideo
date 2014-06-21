@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/glyphOfWarding
+title: spells_dir/glyphOfWarding
 ---
  **Glyph of Warding**
 
@@ -12,7 +12,7 @@ title: spell_dir/glyphOfWarding
 
 **Range** touch
 
-**Target or Area** object touched or up to 5 sq. ft./level
+**Target or Area** object touched or up to 5 sq. ft._dir/level
 
 **Duration** permanent until discharged (D)
 

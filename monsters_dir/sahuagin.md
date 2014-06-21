@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/sahuagin
+title: monsters_dir/sahuagin
 ---
 # Sahuagin
 
@@ -12,7 +12,7 @@ _This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed
 
 LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](creatureTypes#_aquatic-subtype))
 
-**Init** +1; **Senses** [blindsense](universalMonsterRules#_blindsense) 30 ft., darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +6
+**Init** +1; **Senses** [blindsense](universalMonsterRules#_blindsense) 30 ft., darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +6
 
 **Defense**
 
@@ -30,7 +30,7 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](cr
 
 **Melee** trident +4 (1d8+3), bite –1 (1d4+1) or 2 claws +4 (1d4+2), bite +4 (1d4+2)
 
-**Ranged** heavy crossbow +3 (1d10/19–20)
+**Ranged** heavy crossbow +3 (1d10_dir/19–20)
 
 **Special Attacks** blood frenzy
 
@@ -42,7 +42,7 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](cr
 
 **Feats** [Great Fortitude](../feats#_great-fortitude)
 
-**Skills** [Handle Animal](../skill_dir/handleAnimal#_handle-animal) +1, [Perception](../skill_dir/perception#_perception) +6, [Ride](../skill_dir/ride#_ride) +6, [Stealth](../skill_dir/stealth#_stealth) +6, [Survival](../skill_dir/survival#_survival) +6, [Swim](../skill_dir/swim#_swim) +15
+**Skills** [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +1, [Perception](../skills_dir/perception#_perception) +6, [Ride](../skills_dir/ride#_ride) +6, [Stealth](../skills_dir/stealth#_stealth) +6, [Survival](../skills_dir/survival#_survival) +6, [Swim](../skills_dir/swim#_swim) +15
 
 **Languages** Aquan, Common; speak with sharks
 

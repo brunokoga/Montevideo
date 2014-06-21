@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/sargassumFiend
+title: bestiary3_dir/sargassumFiend
 ---
 # Sargassum Fiend
 
@@ -10,9 +10,9 @@ Sargassum Fiend CR 9
 
 XP 6,400
 
-N Large plant ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype))
+N Large plant ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +6; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 60 ft., tremorsense 120 ft.; [Perception](skill_dir/perception#_perception) +11
+**Init** +6; **Senses** [blindsense](monsters_dir/universalMonsterRules#_blindsense) 60 ft., tremorsense 120 ft.; [Perception](skills_dir/perception#_perception) +11
 
 **Aura** mirage (300 ft., DC 18)
 
@@ -24,17 +24,17 @@ Defense
 
 **Fort** +15, **Ref** +8, **Will** +4
 
-**DR** 5/slashing; **Immune** plant traits; **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10
+**DR** 5_dir/slashing; **Immune** plant traits; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10
 
 Offense
 
 **Speed** 20 ft., climb 20 ft., swim 40 ft.
 
-**Melee** 2 slams +16 (2d8+7 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** 2 slams +16 (2d8+7 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [constrict](monster_dir/universalMonsterRules#_constrict) (2d8+10), [grab](monsters/universalMonsterRules#_grab) (Huge)
+**Special Attacks** [constrict](monsters_dir/universalMonsterRules#_constrict) (2d8+10), [grab](monsters_dir/universalMonsterRules#_grab) (Huge)
 
 Statistics
 
@@ -42,9 +42,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +17 (+25 grapple); **CMD** 30 (can't be tripped)
 
-**Feats** [Dodge](feats#_dodge), [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus) ( [Perception](skill_dir/perception#_perception)), [Stealthy](feats#_stealthy), [Weapon Focus](feats#_weapon-focus) (slam)
+**Feats** [Dodge](feats#_dodge), [Great Fortitude](feats#_great-fortitude), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception)), [Stealthy](feats#_stealthy), [Weapon Focus](feats#_weapon-focus) (slam)
 
-**Skills** [Climb](skills/climb#_climb) +19, [Escape Artist](skill_dir/escapeArtist#_escape-artist) +4, [Perception](skills/perception#_perception) +11, [Stealth](skill_dir/stealth#_stealth) +7, [Swim](skills/swim#_swim) +15
+**Skills** [Climb](skills_dir/climb#_climb) +19, [Escape Artist](skills_dir/escapeArtist#_escape-artist) +4, [Perception](skills_dir/perception#_perception) +11, [Stealth](skills_dir/stealth#_stealth) +7, [Swim](skills_dir/swim#_swim) +15
 
 Ecology
 
@@ -56,13 +56,13 @@ Ecology
 
 Special Abilities
 
-**[Grab](monster_dir/universalMonsterRules#_grab) (Ex)** A sargassum fiend can [grab](monsters/universalMonsterRules#_grab) Huge or smaller foes, and has a +8 racial bonus on grapple checks rather than the normal +4 bonus most creatures with [grab](monster_dir/universalMonsterRules#_grab) possess.
+**[Grab](monsters_dir/universalMonsterRules#_grab) (Ex)** A sargassum fiend can [grab](monsters_dir/universalMonsterRules#_grab) Huge or smaller foes, and has a +8 racial bonus on grapple checks rather than the normal +4 bonus most creatures with [grab](monsters_dir/universalMonsterRules#_grab) possess.
 
-**Mirage (Su)** A sargassum fiend emits a powerful [scent](monsters/universalMonsterRules#_scent) that causes specific, miragelike hallucinations. All creatures within 300 feet of a sargassum fiend must make a DC 18 Will save or become enraptured by the [scent](monster_dir/universalMonsterRules#_scent). An enraptured creature sees the monster as whatever would most compel it to approach. This might be a lost loved one, a child in need of help, an enchanting mermaid, the promise of dry land, and so on. The extent of this illusion functions as _ [mirage arcana](spells/mirageArcana#_mirage-arcana)_ (CL equals the sargassum's CR), but is a mind-affecting phantasm, not a glamer. This effect ends immediately if the plant makes an attack against any target. The save DC is Charisma-based.
+**Mirage (Su)** A sargassum fiend emits a powerful [scent](monsters_dir/universalMonsterRules#_scent) that causes specific, miragelike hallucinations. All creatures within 300 feet of a sargassum fiend must make a DC 18 Will save or become enraptured by the [scent](monsters_dir/universalMonsterRules#_scent). An enraptured creature sees the monster as whatever would most compel it to approach. This might be a lost loved one, a child in need of help, an enchanting mermaid, the promise of dry land, and so on. The extent of this illusion functions as _ [mirage arcana](spells_dir/mirageArcana#_mirage-arcana)_ (CL equals the sargassum's CR), but is a mind-affecting phantasm, not a glamer. This effect ends immediately if the plant makes an attack against any target. The save DC is Charisma-based.
 
 A sargassum fiend is a free-floating mass of intelligent seaweed capable of luring its victims to their deaths via a powerful hallucinogenic pheromone. Once the sargassum fiend lures prey within striking distance, it grabs the entranced creature and attempts to crush it to death. Experienced sailors tell tales of entire crews jumping overboard to swim out to a murderous field of the sea plants.
 
-The strange pheromone produced by a sargassum fiend can be harvested from the numerous bulbs that grow within the fiend's body, but these bulbs rot quickly once harvested. A fresh bulb lasts for 1 hour before becoming useless; until that point it can be crushed as a standard action to produce a mirage effect as detailed above. A single sargassum fiend generally has 1d6 bulbs of musk when slain—harvesting one requires a DC 29 [Survival](skill_dir/survival#_survival) check. To date, no alchemical or magical process has successfully preserved this musk.
+The strange pheromone produced by a sargassum fiend can be harvested from the numerous bulbs that grow within the fiend's body, but these bulbs rot quickly once harvested. A fresh bulb lasts for 1 hour before becoming useless; until that point it can be crushed as a standard action to produce a mirage effect as detailed above. A single sargassum fiend generally has 1d6 bulbs of musk when slain—harvesting one requires a DC 29 [Survival](skills_dir/survival#_survival) check. To date, no alchemical or magical process has successfully preserved this musk.
 
 Sargassum fiends usually reach sizes up to 10 feet in diameter before splitting, their means of asexual reproduction. Mutations have been known to exist, however, and sea-faring scholars have recorded individual sargassum fiends reaching masses of truly enormous size, up to Colossal. Such enormous sargassum fiends can be created by advancing their Hit Dice by a minimum of 5 HD per size increase step.
 

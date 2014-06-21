@@ -1,20 +1,20 @@
 ---
 layout: default
-title: additionalMonster_dir/grippli
+title: additionalMonsters_dir/grippli
 ---
 # Grippli
 
 Its slick skin a mottled pattern of bright colors, this agile, frog-like humanoid carries a bow and wears leather armor.
 
-GrippliCR 1/2
+GrippliCR 1_dir/2
 
 **XP 200**
 
 Grippli ranger 1
 
-N Small [humanoid](monster_dir/creatureTypes#_humanoid) (grippli)
+N Small [humanoid](monsters_dir/creatureTypes#_humanoid) (grippli)
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -28,13 +28,13 @@ Offense
 
 **Speed** 30 ft., climb 20 ft.
 
-**Melee** short sword +3 (1d4+1/19–20)
+**Melee** short sword +3 (1d4+1_dir/19–20)
 
 **Ranged** dart +5 (1d3+1) or
 
 net +5 (special)
 
-**Special Attacks** favored enemy ( [vermin](monster_dir/creatureTypes#_vermin) +2)
+**Special Attacks** favored enemy ( [vermin](monsters_dir/creatureTypes#_vermin) +2)
 
 Statistics
 
@@ -42,9 +42,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +1; **CMD** 14
 
-**Feats** [Self-Sufficient](additionalMonsters/../feats#_self-sufficient)
+**Feats** [Self-Sufficient](additionalMonsters_dir/../feats#_self-sufficient)
 
-**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +4, [Climb](additionalMonsters/../skill_dir/climb#_climb) +13, [Handle Animal](additionalMonsters/../skill_dir/handleAnimal#_handle-animal) +3, [Heal](additionalMonsters/../skill_dir/heal#_heal) +7, [Perception](additionalMonsters/../skill_dir/perception#_perception) +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +11, (+15 in forests or marshes) [Survival](additionalMonsters/../skill_dir/survival#_survival) +7; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in forests or marshes
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +4, [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +13, [Handle Animal](additionalMonsters_dir/../skills_dir/handleAnimal#_handle-animal) +3, [Heal](additionalMonsters_dir/../skills_dir/heal#_heal) +7, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +11, (+15 in forests or marshes) [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +7; **Racial Modifiers** +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) in forests or marshes
 
 **Languages** Common, Grippli
 
@@ -78,7 +78,7 @@ Gripplis are defined by their class levels—they do not possess racial Hit Dice
 
 **Darkvision** : Gripplis can see in the dark up to 60 feet.
 
-**Camouflage** : +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in marshes or forested areas.
+**Camouflage** : +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) in marshes or forested areas.
 
 **Swamp Stride** : See above.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/faerieFire
+title: spells_dir/faerieFire
 ---
  **Faerie Fire**
 
@@ -10,11 +10,11 @@ title: spell_dir/faerieFire
 
 **Components** V, S, DF
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Area** creatures and objects within a 5-ft.-radius burst
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

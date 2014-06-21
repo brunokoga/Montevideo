@@ -1,10 +1,10 @@
 ---
 layout: default
-title: npcCode_dir/core/paladin
+title: npcCodex_dir/core_dir/paladin
 ---
 # Paladins
 
-Callous Rake CR 1/2
+Callous Rake CR 1_dir/2
 
 **XP** 200
 
@@ -26,15 +26,15 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** longsword +5 (1d8+3/19–20)
+**Melee** longsword +5 (1d8+3_dir/19–20)
 
-**Ranged** dagger +2 (1d4+3/19–20)
+**Ranged** dagger +2 (1d4+3_dir/19–20)
 
-**Special Attacks** smite evil 1/day (+2 attack and AC, +1 damage)
+**Special Attacks** smite evil 1_dir/day (+2 attack and AC, +1 damage)
 
 **Paladin Spell-Like Abilities** (CL 1st; concentration +3)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 Tactics
 
@@ -48,13 +48,13 @@ Statistics
 
 **Feats** Dazzling Display, [Weapon Focus](feats#_weapon-focus) (longsword)
 
-**Skills** [Intimidate](skills/intimidate#_intimidate) +3, [Sense Motive](skill_dir/senseMotive#_sense-motive) +4
+**Skills** [Intimidate](skills_dir/intimidate#_intimidate) +3, [Sense Motive](skills_dir/senseMotive#_sense-motive) +4
 
 **Languages** Common
 
 **SQ** aura, code of conduct
 
-**Combat Gear** _potion of [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_; **Other Gear** banded mail, heavy wooden shield, dagger, longsword, locked gauntlet, silver holy symbol, 33 gp
+**Combat Gear** _potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** banded mail, heavy wooden shield, dagger, longsword, locked gauntlet, silver holy symbol, 33 gp
 
 The callous rake is a young paladin exhibiting unpaladinlike behavior. If unchecked, these habits become the first step toward disgrace.
 
@@ -86,15 +86,15 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** mwk greataxe +5 (1d12+3/×3)
+**Melee** mwk greataxe +5 (1d12+3_dir/×3)
 
-**Ranged** shortbow +1 (1d6/×3)
+**Ranged** shortbow +1 (1d6_dir/×3)
 
-**Special Attacks** smite evil 1/day (+1 attack and AC, +2 damage)
+**Special Attacks** smite evil 1_dir/day (+1 attack and AC, +2 damage)
 
 **Paladin Spell-Like Abilities** (CL 2nd; concentration +3)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 Tactics
 
@@ -108,13 +108,13 @@ Statistics
 
 **Feats** [Power Attack](feats#_power-attack)
 
-**Skills** [Heal](skills/heal#_heal) +5, [Intimidate](skill_dir/intimidate#_intimidate) +3, Perception +2, [Sense Motive](skills/senseMotive#_sense-motive) +6
+**Skills** [Heal](skills_dir/heal#_heal) +5, [Intimidate](skills_dir/intimidate#_intimidate) +3, Perception +2, [Sense Motive](skills_dir/senseMotive#_sense-motive) +6
 
 **Languages** Common, Orc
 
-**SQ** aura, code of conduct, lay on hands (1d6, 2/day), orc blood, weapon familiarity
+**SQ** aura, code of conduct, lay on hands (1d6, 2_dir/day), orc blood, weapon familiarity
 
-**Combat Gear** _potion of [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_, tanglefoot bags (2); **Other Gear** banded mail, masterwork greataxe, shortbow with 20 arrows, wooden holy symbol, 28 gp
+**Combat Gear** _potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, tanglefoot bags (2); **Other Gear** banded mail, masterwork greataxe, shortbow with 20 arrows, wooden holy symbol, 28 gp
 
 Honorable outcasts are far from their homes and often found alone. Some have been questing in the wild for so long that they have lost any semblance of social graces and tact.
 
@@ -142,15 +142,15 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** mwk rapier +4 (1d6+2/18–20), dagger +3 (1d4+1/19–20) or mwk rapier +6 (1d6+2/18–20)
+**Melee** mwk rapier +4 (1d6+2_dir/18–20), dagger +3 (1d4+1_dir/19–20) or mwk rapier +6 (1d6+2_dir/18–20)
 
-**Ranged** dagger +5 (1d4+2/19–20)
+**Ranged** dagger +5 (1d4+2_dir/19–20)
 
-**Special Attacks** smite evil 1/day (+2 attack and AC, +3 damage)
+**Special Attacks** smite evil 1_dir/day (+2 attack and AC, +3 damage)
 
 **Paladin Spell-Like Abilities** (CL 3rd; concentration +5)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 Tactics
 
@@ -162,13 +162,13 @@ Statistics
 
 **Base Atk** +3; **CMB** +5; **CMD** 17
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Acrobatics](skills/acrobatics#_acrobatics)), Two-Weapon Defense, [Two-Weapon Fighting](feats#_two-weapon-fighting)
+**Feats** [Skill Focus](feats#_skill-focus) ( [Acrobatics](skills_dir/acrobatics#_acrobatics)), Two-Weapon Defense, [Two-Weapon Fighting](feats#_two-weapon-fighting)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +7, [Diplomacy](skills/diplomacy#_diplomacy) +7, Perception +4
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +7, [Diplomacy](skills_dir/diplomacy#_diplomacy) +7, Perception +4
 
 **Languages** Common, Elven
 
-**SQ** aura, code of conduct, elf blood, lay on hands (1d6, 3/day), mercy (shaken)
+**SQ** aura, code of conduct, elf blood, lay on hands (1d6, 3_dir/day), mercy (shaken)
 
 **Combat Gear** holy water; **Other Gear** _+1 chain shirt_, dagger, masterwork rapier, 53 gp
 
@@ -208,23 +208,23 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** mwk longsword +7 (1d6+1/19–20)
+**Melee** mwk longsword +7 (1d6+1_dir/19–20)
 
-**Ranged** mwk longbow +8 (1d6/×3)
+**Ranged** mwk longbow +8 (1d6_dir/×3)
 
-**Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, channel positive energy (DC 16, 2d6), smite evil 2/day (+4 attack and AC, +4 damage)
+**Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, channel positive energy (DC 16, 2d6), smite evil 2_dir/day (+4 attack and AC, +4 damage)
 
 **Gnome Spell-Like Abilities** (CL 4th; concentration +8)
 
-1/day—_ [dancing lights](spell_dir/dancingLights#_dancing-lights)_, _ [ghost sound](spells/ghostSound#_ghost-sound)_, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation)_, _ [speak with animals](spells/speakWithAnimals#_speak-with-animals)_
+1_dir/day—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [ghost sound](spells_dir/ghostSound#_ghost-sound)_, _ [prestidigitation](spells_dir/prestidigitation#_prestidigitation)_, _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
 
 **Paladin Spell-Like Abilities** (CL 4th; concentration +8)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 1st; concentration +5)
 
-1st—_ [lesser restoration](spells/restoration#_restoration-lesser)_
+1st—_ [lesser restoration](spells_dir/restoration#_restoration-lesser)_
 
 Tactics
 
@@ -238,13 +238,13 @@ Statistics
 
 **Feats** [Point-Blank Shot](feats#_point-blank-shot), [Weapon Focus](feats#_weapon-focus) (longbow)
 
-**Skills** [Diplomacy](skill_dir/diplomacy#_diplomacy) +8, [Handle Animal](skills/handleAnimal#_handle-animal) +8, Perception +5, [Stealth](skill_dir/stealth#_stealth) +6
+**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +8, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +8, Perception +5, [Stealth](skills_dir/stealth#_stealth) +6
 
 **Languages** Common, Gnome, Sylvan
 
-**SQ** aura, code of conduct, lay on hands (2d6, 6/day), mercy (fatigued)
+**SQ** aura, code of conduct, lay on hands (2d6, 6_dir/day), mercy (fatigued)
 
-**Combat Gear** _potion of [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_, _potion of [invisibility](spells/invisibility#_invisibility)_, holy water (2); **Other Gear** chain shirt, light wooden shield, masterwork longbow with 20 arrows, masterwork longsword, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, antitoxin, silver holy symbol, 131 gp
+**Combat Gear** _potion of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_, holy water (2); **Other Gear** chain shirt, light wooden shield, masterwork longbow with 20 arrows, masterwork longsword, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, antitoxin, silver holy symbol, 131 gp
 
 A skirmishing crusader often serves as a scout in the army of a noble, or roams the boundaries of civilization, working with rangers to hold the line against evil. She spends her life in the wilds, and as a result can often be awkward and crass.
 
@@ -274,23 +274,23 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** _+1 warhammer_ +9 (1d8+3/×3)
+**Melee** _+1 warhammer_ +9 (1d8+3_dir/×3)
 
-**Ranged** mwk light crossbow +5 (1d8/19–20)
+**Ranged** mwk light crossbow +5 (1d8_dir/19–20)
 
-**Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, channel positive energy (DC 12, 3d6), smite evil 2/day (+0 attack and AC, +5 damage)
+**Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, channel positive energy (DC 12, 3d6), smite evil 2_dir/day (+0 attack and AC, +5 damage)
 
 **Paladin Spell-Like Abilities** (CL 5th; concentration +5)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 2nd; concentration +2)
 
-1st—_ [divine favor](spells/divineFavor#_divine-favor)_
+1st—_ [divine favor](spells_dir/divineFavor#_divine-favor)_
 
 Tactics
 
-**During Combat** The paladin prefers melee. He uses [Power Attack](feats#_power-attack) if easily able to hit opponents, and his divine bond to give his weapon the _ [flaming](magicItem_dir/weapons#_weapons-flaming)_ property.
+**During Combat** The paladin prefers melee. He uses [Power Attack](feats#_power-attack) if easily able to hit opponents, and his divine bond to give his weapon the _ [flaming](magicItems_dir/weapons#_weapons-flaming)_ property.
 
 Statistics
 
@@ -300,13 +300,13 @@ Statistics
 
 **Feats** [Power Attack](feats#_power-attack), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (warhammer)
 
-**Skills** [Craft](skills/craft#_craft) (weapons) +4, [Knowledge](skill_dir/knowledge#_knowledge) (religion) +5, Perception +7 (+9 to notice unusual stonework), [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) +1
+**Skills** [Craft](skills_dir/craft#_craft) (weapons) +4, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +5, Perception +7 (+9 to notice unusual stonework), [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +1
 
 **Languages** Common, Dwarven
 
-**SQ** aura, code of conduct, divine bond (weapon +1, 1/day), lay on hands (2d6, 2/day), mercy (sickened)
+**SQ** aura, code of conduct, divine bond (weapon +1, 1_dir/day), lay on hands (2d6, 2_dir/day), mercy (sickened)
 
-**Combat Gear** _potion of [shield of faith](spell_dir/shieldOfFaith#_shield-of-faith)_; **Other Gear** half-plate, heavy steel shield, _+1 warhammer_, masterwork light crossbow with 10 bolts, silver holy symbol, 107 gp
+**Combat Gear** _potion of [shield of faith](spells_dir/shieldOfFaith#_shield-of-faith)_; **Other Gear** half-plate, heavy steel shield, _+1 warhammer_, masterwork light crossbow with 10 bolts, silver holy symbol, 107 gp
 
 A hammer of justice lives to crush evil with his divinely enhanced weapon, and is beholden to none but his god.
 
@@ -336,19 +336,19 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** longsword +6/+1 (1d8/19–20)
+**Melee** longsword +6_dir/+1 (1d8_dir/19–20)
 
-**Ranged** _+1 longbow_ +11/+6 (1d8+1/×3)
+**Ranged** _+1 longbow_ +11_dir/+6 (1d8+1_dir/×3)
 
-**Special Attacks** channel positive energy (DC 15, 3d6), smite evil 2/day (+2 attack and AC, +6 damage)
+**Special Attacks** channel positive energy (DC 15, 3d6), smite evil 2_dir/day (+2 attack and AC, +6 damage)
 
 **Paladin Spell-Like Abilities** (CL 6th; concentration +8)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 3rd; concentration +5)
 
-1st—_ [bless weapon](spells/blessWeapon#_bless-weapon)_, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_
+1st—_ [bless weapon](spells_dir/blessWeapon#_bless-weapon)_, _ [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_
 
 Tactics
 
@@ -362,13 +362,13 @@ Statistics
 
 **Feats** [Point-Blank Shot](feats#_point-blank-shot), Precise Shot, Rapid Shot
 
-**Skills** [Climb](skills/climb#_climb) +2, Perception +9, [Sense Motive](skill_dir/senseMotive#_sense-motive) +5, [Stealth](skills/stealth#_stealth) +5
+**Skills** [Climb](skills_dir/climb#_climb) +2, Perception +9, [Sense Motive](skills_dir/senseMotive#_sense-motive) +5, [Stealth](skills_dir/stealth#_stealth) +5
 
 **Languages** Common, Elven, Orc
 
-**SQ** aura, code of conduct, divine bond (weapon +1, 1/day), elven magic, lay on hands (3d6, 5/day), mercies (fatigued, staggered), weapon familiarity
+**SQ** aura, code of conduct, divine bond (weapon +1, 1_dir/day), elven magic, lay on hands (3d6, 5_dir/day), mercies (fatigued, staggered), weapon familiarity
 
-**Combat Gear** _+1 demon-bane arrows_ (5), _+1 undead-bane arrows_ (5), _potion of [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace)_, _potion of [shield of faith](spells/shieldOfFaith#_shield-of-faith)_, alchemist's fire (2); **Other Gear** masterwork chain shirt, _+1 longbow_ with 20 arrows, longsword, silver holy symbol, 184 gp
+**Combat Gear** _+1 demon-bane arrows_ (5), _+1 undead-bane arrows_ (5), _potion of [pass without trace](spells_dir/passWithoutTrace#_pass-without-trace)_, _potion of [shield of faith](spells_dir/shieldOfFaith#_shield-of-faith)_, alchemist's fire (2); **Other Gear** masterwork chain shirt, _+1 longbow_ with 20 arrows, longsword, silver holy symbol, 184 gp
 
 Few expect honorable archers to be paladins, since they do not fit the typical image. Other paladins sometimes look down on these archers for shunning close combat, but they care only about efficiency in protecting their flocks.
 
@@ -398,31 +398,31 @@ Offense
 
 **Speed** 15 ft.
 
-**Melee** _+1 lance_ +14/+9 (1d6+5/×3) or
+**Melee** _+1 lance_ +14_dir/+9 (1d6+5_dir/×3) or
 
-mwk longsword +13/+8 (1d6+4/19–20)
+mwk longsword +13_dir/+8 (1d6+4_dir/19–20)
 
 **Space** 5 ft.; **Reach** 5 ft. (10 ft. with lance)
 
-**Special Attacks** channel positive energy (DC 16, 4d6), smite evil 3/day (+3 attack and AC, +7 damage)
+**Special Attacks** channel positive energy (DC 16, 4d6), smite evil 3_dir/day (+3 attack and AC, +7 damage)
 
 **Paladin Spell-Like Abilities** (CL 7th; concentration +10)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 4th; concentration +7)
 
-2nd—_ [bull's strength](spells/bullSStrength#_bull-s-strength)_
+2nd—_ [bull's strength](spells_dir/bullSStrength#_bull-s-strength)_
 
-1st—_ [bless weapon](spell_dir/blessWeapon#_bless-weapon)_, _ [divine favor](spells/divineFavor#_divine-favor)_
+1st—_ [bless weapon](spells_dir/blessWeapon#_bless-weapon)_, _ [divine favor](spells_dir/divineFavor#_divine-favor)_
 
 Tactics
 
-**Before Combat** The paladin casts _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength)_.
+**Before Combat** The paladin casts _ [bull's strength](spells_dir/bullSStrength#_bull-s-strength)_.
 
 **During Combat** The paladin uses Ride-By Attack to charge his foes, and uses smite evil.
 
-**Base Statistics** Without _ [bull's strength](spells/bullSStrength#_bull-s-strength)_, the paladin's statistics are **Melee** _+1 lance_ +12/+7 (1d6+3/×3) or mwk longsword +11/+6 (1d6+2/19–20); **Str** 14; **CMB** +8; **CMD** 20; **Skills** [Climb](skill_dir/climb#_climb) +0.
+**Base Statistics** Without _ [bull's strength](spells_dir/bullSStrength#_bull-s-strength)_, the paladin's statistics are **Melee** _+1 lance_ +12_dir/+7 (1d6+3_dir/×3) or mwk longsword +11_dir/+6 (1d6+2_dir/19–20); **Str** 14; **CMB** +8; **CMD** 20; **Skills** [Climb](skills_dir/climb#_climb) +0.
 
 Statistics
 
@@ -432,13 +432,13 @@ Statistics
 
 **Feats** [Mounted Combat](feats#_mounted-combat), Ride-By Attack, [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (lance)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +0 (–4 when jumping), [Climb](skill_dir/climb#_climb) +2, [Heal](skills/heal#_heal) +7, Perception +5, [Ride](skill_dir/ride#_ride) +8 (+10 to stay in the saddle), [Survival](skills/survival#_survival) +1
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +0 (–4 when jumping), [Climb](skills_dir/climb#_climb) +2, [Heal](skills_dir/heal#_heal) +7, Perception +5, [Ride](skills_dir/ride#_ride) +8 (+10 to stay in the saddle), [Survival](skills_dir/survival#_survival) +1
 
 **Languages** Common, Halfling
 
-**SQ** aura, code of conduct, divine bond (mount), lay on hands (3d6, 6/day), mercies (dazed, shaken)
+**SQ** aura, code of conduct, divine bond (mount), lay on hands (3d6, 6_dir/day), mercies (dazed, shaken)
 
-**Combat Gear** _potion of [aid](spell_dir/aid#_aid)_, _potion of [shield of faith](spells/shieldOfFaith#_shield-of-faith)_; **Other Gear** _+1 breastplate_, _+1 heavy steel [shield](spell_dir/shield#_shield)_, _+1 lance_, masterwork longsword, silver holy symbol, exotic military saddle, 420 gp
+**Combat Gear** _potion of [aid](spells_dir/aid#_aid)_, _potion of [shield of faith](spells_dir/shieldOfFaith#_shield-of-faith)_; **Other Gear** _+1 breastplate_, _+1 heavy steel [shield](spells_dir/shield#_shield)_, _+1 lance_, masterwork longsword, silver holy symbol, exotic military saddle, 420 gp
 
 Desert Protector CR 7
 
@@ -466,21 +466,21 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** _+1 falchion_ +14/+9 (2d4+7/18–20)
+**Melee** _+1 falchion_ +14_dir/+9 (2d4+7_dir/18–20)
 
-**Ranged** mwk starknife +8/+3 (1d4+4/×3)
+**Ranged** mwk starknife +8_dir/+3 (1d4+4_dir/×3)
 
-**Special Attacks** channel positive energy (DC 16, 4d6), smite evil 3/day (+2 attack and AC, +8 damage)
+**Special Attacks** channel positive energy (DC 16, 4d6), smite evil 3_dir/day (+2 attack and AC, +8 damage)
 
 **Paladin Spell-Like Abilities** (CL 8th; concentration +10)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 5th; concentration +7)
 
-2nd—_ [delay poison](spells/delayPoison#_delay-poison)_, _ [resist energy](spell_dir/resistEnergy#_resist-energy)_
+2nd—_ [delay poison](spells_dir/delayPoison#_delay-poison)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_
 
-1st—_ [bless](spells/bless#_bless)_, _ [lesser restoration](spell_dir/restoration#_restoration-lesser)_
+1st—_ [bless](spells_dir/bless#_bless)_, _ [lesser restoration](spells_dir/restoration#_restoration-lesser)_
 
 Tactics
 
@@ -494,13 +494,13 @@ Statistics
 
 **Feats** Cleave, [Improved Initiative](feats#_improved-initiative), [Power Attack](feats#_power-attack), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (falchion)
 
-**Skills** [Diplomacy](skills/diplomacy#_diplomacy) +10, [Heal](skill_dir/heal#_heal) +8, [Knowledge](skills/knowledge#_knowledge) (religion) +11, Perception +8, [Sense Motive](skill_dir/senseMotive#_sense-motive) +13, [Survival](skills/survival#_survival) +4
+**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +10, [Heal](skills_dir/heal#_heal) +8, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +11, Perception +8, [Sense Motive](skills_dir/senseMotive#_sense-motive) +13, [Survival](skills_dir/survival#_survival) +4
 
 **Languages** Common
 
-**SQ** aura, code of conduct, divine bond (weapon +2, 1/day), lay on hands (4d6, 6/day), mercies (diseased, sickened)
+**SQ** aura, code of conduct, divine bond (weapon +2, 1_dir/day), lay on hands (4d6, 6_dir/day), mercies (diseased, sickened)
 
-**Combat Gear** _potion of [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds)_; **Other Gear** _+1 breastplate_, +_1 falchion_, masterwork starknife, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +1_, silver holy symbol, 426 gp
+**Combat Gear** _potion of [cure moderate wounds](spells_dir/cureModerateWounds#_cure-moderate-wounds)_; **Other Gear** _+1 breastplate_, +_1 falchion_, masterwork starknife, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, silver holy symbol, 426 gp
 
 A desert protector watches over the bodies and souls of a nomadic desert community.
 
@@ -534,31 +534,31 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** _+1 lance_ +14/+9 (1d8+5/×3) or _+1 heavy mace_ +14/+9 (1d8+5)
+**Melee** _+1 lance_ +14_dir/+9 (1d8+5_dir/×3) or _+1 heavy mace_ +14_dir/+9 (1d8+5)
 
-**Ranged** mwk heavy crossbow +9 (1d10/19–20)
+**Ranged** mwk heavy crossbow +9 (1d10_dir/19–20)
 
 **Space** 5 ft.; **Reach** 5 ft. (10 ft. with lance)
 
-**Special Attacks** channel positive energy (DC 16, 5d6), smite evil 3/day (+2 attack and AC, +9 damage)
+**Special Attacks** channel positive energy (DC 16, 5d6), smite evil 3_dir/day (+2 attack and AC, +9 damage)
 
 **Paladin Spell-Like Abilities** (CL 9th; concentration +11)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 6th; concentration +8)
 
-2nd—_ [resist energy](spells/resistEnergy#_resist-energy)_, _ [zone of truth](spell_dir/zoneOfTruth#_zone-of-truth)_
+2nd—_ [resist energy](spells_dir/resistEnergy#_resist-energy)_, _ [zone of truth](spells_dir/zoneOfTruth#_zone-of-truth)_
 
-1st—_ [divine favor](spells/divineFavor#_divine-favor)_, _ [lesser restoration](spell_dir/restoration#_restoration-lesser)_, _ [protection from evil](spells/protectionFromEvil#_protection-from-evil)_
+1st—_ [divine favor](spells_dir/divineFavor#_divine-favor)_, _ [lesser restoration](spells_dir/restoration#_restoration-lesser)_, _ [protection from evil](spells_dir/protectionFromEvil#_protection-from-evil)_
 
 Tactics
 
-**Before Combat** The paladin casts _ [resist energy](spell_dir/resistEnergy#_resist-energy)_ (fire) unless he expects damage from a different energy type. He applies _ [silversheen](magicItems/wondrousItems#_silversheen)_ to his weapon if he expects to fight devils or lycanthropes.
+**Before Combat** The paladin casts _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (fire) unless he expects damage from a different energy type. He applies _ [silversheen](magicItems_dir/wondrousItems#_silversheen)_ to his weapon if he expects to fight devils or lycanthropes.
 
 **During Combat** The paladin uses Ride-By Attack and Spirited Charge, preferring to attack the opposing leader. When on foot, he uses his mace. If facing a powerful foe, he drinks his potions.
 
-**Base Statistics** Without _ [resist energy](spell_dir/resistEnergy#_resist-energy)_, the paladin's statistics are **Resist** none.
+**Base Statistics** Without _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, the paladin's statistics are **Resist** none.
 
 Statistics
 
@@ -568,13 +568,13 @@ Statistics
 
 **Feats** [Iron Will](feats#_iron-will), [Mounted Combat](feats#_mounted-combat), Ride-By Attack, [Skill Focus](feats#_skill-focus) (Perception), Spirited Charge
 
-**Skills** [Handle Animal](skills/handleAnimal#_handle-animal) +6, [Intimidate](skill_dir/intimidate#_intimidate) +4, [Knowledge](skills/knowledge#_knowledge) (history) +1, [Knowledge](skill_dir/knowledge#_knowledge) (religion) +5, Perception +9, [Ride](skills/ride#_ride) +5 (+7 to stay in the saddle)
+**Skills** [Handle Animal](skills_dir/handleAnimal#_handle-animal) +6, [Intimidate](skills_dir/intimidate#_intimidate) +4, [Knowledge](skills_dir/knowledge#_knowledge) (history) +1, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +5, Perception +9, [Ride](skills_dir/ride#_ride) +5 (+7 to stay in the saddle)
 
 **Languages** Common, Orc
 
-**SQ** aura, code of conduct, divine bond (mount), lay on hands (4d6, 6/day), mercies (frightened, shaken, staggered), orc blood, weapon familiarity
+**SQ** aura, code of conduct, divine bond (mount), lay on hands (4d6, 6_dir/day), mercies (frightened, shaken, staggered), orc blood, weapon familiarity
 
-**Combat Gear** _potion of [bull's strength](spell_dir/bullSStrength#_bull-s-strength)_, _potion of [delay poison](spells/delayPoison#_delay-poison)_, _potion of [shield of faith](spell_dir/shieldOfFaith#_shield-of-faith)_, _ [silversheen](magicItems/wondrousItems#_silversheen)_; **Other Gear** _+1 full plate_, masterwork heavy steel shield, _+1 heavy mace_, _+1 lance_, masterwork heavy crossbow with 10 bolts, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, military saddle, 297 gp
+**Combat Gear** _potion of [bull's strength](spells_dir/bullSStrength#_bull-s-strength)_, _potion of [delay poison](spells_dir/delayPoison#_delay-poison)_, _potion of [shield of faith](spells_dir/shieldOfFaith#_shield-of-faith)_, _ [silversheen](magicItems_dir/wondrousItems#_silversheen)_; **Other Gear** _+1 full plate_, masterwork heavy steel shield, _+1 heavy mace_, _+1 lance_, masterwork heavy crossbow with 10 bolts, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, military saddle, 297 gp
 
 A saintly knight accomplishes great acts with his indomitable spirit and martial prowess.
 
@@ -612,29 +612,29 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** _+1 ranseur_ +17/+12 (2d4+8/×3) or mwk longsword +16/+11 (1d8+7/19–20)
+**Melee** _+1 ranseur_ +17_dir/+12 (2d4+8_dir/×3) or mwk longsword +16_dir/+11 (1d8+7_dir/19–20)
 
 **Space** 5 ft.; **Reach** 5 ft. (10 ft. with ranseur)
 
-**Special Attacks** channel positive energy (DC 17, 5d6), smite evil 4/day (+2 attack and AC, +10 damage)
+**Special Attacks** channel positive energy (DC 17, 5d6), smite evil 4_dir/day (+2 attack and AC, +10 damage)
 
 **Paladin Spell-Like Abilities** (CL 10th; concentration +12)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 7th; concentration +9)
 
-2nd—_ [bull's strength](spells/bullSStrength#_bull-s-strength), [delay poison](spell_dir/delayPoison#_delay-poison)_
+2nd—_ [bull's strength](spells_dir/bullSStrength#_bull-s-strength), [delay poison](spells_dir/delayPoison#_delay-poison)_
 
-1st—_ [bless](spells/bless#_bless)_, _ [lesser restoration](spell_dir/restoration#_restoration-lesser)_, _ [protection from evil](spells/protectionFromEvil#_protection-from-evil)_
+1st—_ [bless](spells_dir/bless#_bless)_, _ [lesser restoration](spells_dir/restoration#_restoration-lesser)_, _ [protection from evil](spells_dir/protectionFromEvil#_protection-from-evil)_
 
 Tactics
 
-**Before Combat** The paladin casts _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength)_ and _ [delay poison](spells/delayPoison#_delay-poison)_.
+**Before Combat** The paladin casts _ [bull's strength](spells_dir/bullSStrength#_bull-s-strength)_ and _ [delay poison](spells_dir/delayPoison#_delay-poison)_.
 
 **During Combat** The paladin disarms foes to capture and question them. The exceptions are mindless creatures, evil outsiders, and undead, all of which he destroys on the spot.
 
-**Base Statistics** Without _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength)_, the paladin's statistics are **Immune** charm, disease, fear; **Melee** _+1 ranseur_ +15/+10 (2d4+5/×3) or mwk longsword +14/+9 (1d8+4/19–20); **Str** 16; **CMB** +13 (+17 disarm); **CMD** 23 (25 vs. disarm).
+**Base Statistics** Without _ [bull's strength](spells_dir/bullSStrength#_bull-s-strength)_, the paladin's statistics are **Immune** charm, disease, fear; **Melee** _+1 ranseur_ +15_dir/+10 (2d4+5_dir/×3) or mwk longsword +14_dir/+9 (1d8+4_dir/19–20); **Str** 16; **CMB** +13 (+17 disarm); **CMD** 23 (25 vs. disarm).
 
 Statistics
 
@@ -644,13 +644,13 @@ Statistics
 
 **Feats** Cleave, [Combat Expertise](feats#_combat-expertise), Greater Disarm, Improved Disarm, [Power Attack](feats#_power-attack), [Weapon Focus](feats#_weapon-focus) (ranseur)
 
-**Skills** [Diplomacy](skill_dir/diplomacy#_diplomacy) +10, [Intimidate](skills/intimidate#_intimidate) +7, [Knowledge](skill_dir/knowledge#_knowledge) (history, local) +7, [Knowledge](skills/knowledge#_knowledge) (nobility, religion) +10, Perception +10, [Sense Motive](skill_dir/senseMotive#_sense-motive) +13, [Spellcraft](skills/spellcraft#_spellcraft) +10
+**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +10, [Intimidate](skills_dir/intimidate#_intimidate) +7, [Knowledge](skills_dir/knowledge#_knowledge) (history, local) +7, [Knowledge](skills_dir/knowledge#_knowledge) (nobility, religion) +10, Perception +10, [Sense Motive](skills_dir/senseMotive#_sense-motive) +13, [Spellcraft](skills_dir/spellcraft#_spellcraft) +10
 
 **Languages** Common, Dwarven, Elven
 
-**SQ** aura, code of conduct, divine bond (weapon +2, 2/day), lay on hands (5d6, 7/day), mercies (cursed, nauseated, shaken)
+**SQ** aura, code of conduct, divine bond (weapon +2, 2_dir/day), lay on hands (5d6, 7_dir/day), mercies (cursed, nauseated, shaken)
 
-**Other Gear** _+2 full plate_, _+1 ranseur_, masterwork longsword, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, silver holy symbol, 450 gp
+**Other Gear** _+2 full plate_, _+1 ranseur_, masterwork longsword, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, silver holy symbol, 450 gp
 
 These paladins often serve as guards, or administer justice for judges and merchants who perform good works for the god of cities. Often, entire units of these paladins are formed to protect holy places in large cities.
 
@@ -688,31 +688,31 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 elven curve blade_ +15/+10/+5 (1d10+5/15–20)
+**Melee** _+1 elven curve blade_ +15_dir/+10_dir/+5 (1d10+5_dir/15–20)
 
-**Ranged** mwk longbow +15/+10/+5 (1d8/×3)
+**Ranged** mwk longbow +15_dir/+10_dir/+5 (1d8_dir/×3)
 
-**Special Attacks** channel positive energy (DC 17, 6d6), smite evil 4/day (+2 attack and AC, +11 damage)
+**Special Attacks** channel positive energy (DC 17, 6d6), smite evil 4_dir/day (+2 attack and AC, +11 damage)
 
 **Paladin Spell-Like Abilities** (CL 11th; concentration +13)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 8th; concentration +10)
 
-3rd—_ [prayer](spells/prayer#_prayer)_
+3rd—_ [prayer](spells_dir/prayer#_prayer)_
 
-2nd—_ [delay poison](spell_dir/delayPoison#_delay-poison)_, _ [resist energy](spells/resistEnergy#_resist-energy)_
+2nd—_ [delay poison](spells_dir/delayPoison#_delay-poison)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_
 
-1st—_ [bless](spell_dir/bless#_bless)_, _ [divine favor](spells/divineFavor#_divine-favor)_, _ [lesser restoration](spell_dir/restoration#_restoration-lesser)_
+1st—_ [bless](spells_dir/bless#_bless)_, _ [divine favor](spells_dir/divineFavor#_divine-favor)_, _ [lesser restoration](spells_dir/restoration#_restoration-lesser)_
 
 Tactics
 
-**Before Combat** The paladin casts _ [delay poison](spells/delayPoison#_delay-poison)_ and _ [resist energy](spell_dir/resistEnergy#_resist-energy)_ (fire).
+**Before Combat** The paladin casts _ [delay poison](spells_dir/delayPoison#_delay-poison)_ and _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (fire).
 
-**During Combat** The paladin uses Mobility, Spring Attack, and Whirlwind Attack to engage and destroy multiple opponents at once. He normally uses his divine bond to give his weapon the _ [flaming](magicItems/weapons#_weapons-flaming)_ and _ [holy](magicItem_dir/weapons#_weapons-holy)_ special abilities, but if his foes are spread out, he gives it _ [speed](magicItems/weapons#_weapons-speed)_ instead.
+**During Combat** The paladin uses Mobility, Spring Attack, and Whirlwind Attack to engage and destroy multiple opponents at once. He normally uses his divine bond to give his weapon the _ [flaming](magicItems_dir/weapons#_weapons-flaming)_ and _ [holy](magicItems_dir/weapons#_weapons-holy)_ special abilities, but if his foes are spread out, he gives it _ [speed](magicItems_dir/weapons#_weapons-speed)_ instead.
 
-**Base Statistics** Without _ [resist energy](spell_dir/resistEnergy#_resist-energy)_, the paladin's statistics are **Immune** charm, disease, fear, sleep; **Resist** none.
+**Base Statistics** Without _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, the paladin's statistics are **Immune** charm, disease, fear, sleep; **Resist** none.
 
 Statistics
 
@@ -722,13 +722,13 @@ Statistics
 
 **Feats** [Combat Expertise](feats#_combat-expertise), [Dodge](feats#_dodge), [Improved Critical](feats#_improved-critical) (elven curve blade), Mobility, Spring Attack, Whirlwind Attack
 
-**Skills** [Diplomacy](skills/diplomacy#_diplomacy) +10, [Heal](skill_dir/heal#_heal) +3, [Knowledge](skills/knowledge#_knowledge) (nature) +3, Perception +11, [Stealth](skill_dir/stealth#_stealth) +12, [Survival](skills/survival#_survival) +4
+**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +10, [Heal](skills_dir/heal#_heal) +3, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +3, Perception +11, [Stealth](skills_dir/stealth#_stealth) +12, [Survival](skills_dir/survival#_survival) +4
 
 **Languages** Common, Elven, Sylvan
 
-**SQ** aura, code of conduct, divine bond (weapon +3, 2/day), elven magic, lay on hands (5d6, 7/day), mercies (poisoned, sickened, staggered), weapon familiarity
+**SQ** aura, code of conduct, divine bond (weapon +3, 2_dir/day), elven magic, lay on hands (5d6, 7_dir/day), mercies (poisoned, sickened, staggered), weapon familiarity
 
-**Gear** _+2 chain shirt_, _+1 elven curve blade_, masterwork longbow with 20 arrows, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of giant strength](magicItems/wondrousItems#_belt-of-giant-strength) +2_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, silver holy symbol, 319 gp
+**Gear** _+2 chain shirt_, _+1 elven curve blade_, masterwork longbow with 20 arrows, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, silver holy symbol, 319 gp
 
 An elven honorblade guards pristine forests and hunts evil beasts that would despoil nature.
 
@@ -766,21 +766,21 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** _+1/+1 dwarven urgrosh_ +18/+13/+8 (1d8+7/1d6+7/×3)
+**Melee** _+1_dir/+1 dwarven urgrosh_ +18_dir/+13_dir/+8 (1d8+7_dir/1d6+7_dir/×3)
 
-**Ranged** mwk light crossbow +13 (1d8/19–20)
+**Ranged** mwk light crossbow +13 (1d8_dir/19–20)
 
-**Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, channel positive energy (DC 16, 6d6), smite evil 4/day (+0 attack and AC, +12 damage)
+**Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, channel positive energy (DC 16, 6d6), smite evil 4_dir/day (+0 attack and AC, +12 damage)
 
 **Paladin Spell-Like Abilities** (CL 12th; concentration +12)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 Tactics
 
 **During Combat** The paladin charges into battle, using [Power Attack](feats#_power-attack) and Improved [Vital Strike](feats#_vital-strike). He prefers fighting on horseback, but if dismounted, he finishes the battle on foot.
 
-**Base Statistics** Without _ [resist energy](spells/resistEnergy#_resist-energy)_, the paladin's statistics are **Resist** none.
+**Base Statistics** Without _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, the paladin's statistics are **Resist** none.
 
 Statistics
 
@@ -790,13 +790,13 @@ Statistics
 
 **Feats** Improved [Vital Strike](feats#_vital-strike), [Mounted Combat](feats#_mounted-combat), [Power Attack](feats#_power-attack), [Toughness](feats#_toughness), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (dwarven urgrosh)
 
-**Skills** [Intimidate](skill_dir/intimidate#_intimidate) +2, Perception +7 (+9 to notice unusual stonework), [Ride](skills/ride#_ride) +3
+**Skills** [Intimidate](skills_dir/intimidate#_intimidate) +2, Perception +7 (+9 to notice unusual stonework), [Ride](skills_dir/ride#_ride) +3
 
 **Languages** Common, Dwarven
 
-**SQ** aura, code of conduct, divine bond (mount), lay on hands (6d6, 6/day), mercies (dazed, fatigued, poisoned, stunned)
+**SQ** aura, code of conduct, divine bond (mount), lay on hands (6d6, 6_dir/day), mercies (dazed, fatigued, poisoned, stunned)
 
-**Combat Gear** _potion of [displacement](spell_dir/displacement#_displacement)_, _potions of [haste](spells/haste#_haste)_ (2); **Other Gear** _+2 full plate_, _+1/+1 dwarven urgrosh_, masterwork light crossbow with 10 bolts, _ [belt of giant strength](magicItem_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +1_, silver holy symbol, chainmail barding, military saddle, 379 gp
+**Combat Gear** _potion of [displacement](spells_dir/displacement#_displacement)_, _potions of [haste](spells_dir/haste#_haste)_ (2); **Other Gear** _+2 full plate_, _+1_dir/+1 dwarven urgrosh_, masterwork light crossbow with 10 bolts, _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, silver holy symbol, chainmail barding, military saddle, 379 gp
 
 The forge rider defends dwarven communities and meets foes head on.
 
@@ -834,29 +834,29 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** _+1 dragon-bane greatsword_ +21/+16/+11 (2d6+10/19–20)
+**Melee** _+1 dragon-bane greatsword_ +21_dir/+16_dir/+11 (2d6+10_dir/19–20)
 
-**Ranged** mwk heavy crossbow +15 (1d10/19–20)
+**Ranged** mwk heavy crossbow +15 (1d10_dir/19–20)
 
-**Special Attacks** channel positive energy (DC 17, 7d6), smite evil 5/day (+1 attack and AC, +13 damage)
+**Special Attacks** channel positive energy (DC 17, 7d6), smite evil 5_dir/day (+1 attack and AC, +13 damage)
 
 **Paladin Spell-Like Abilities** (CL 13th; concentration +14)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 10th; concentration +11)
 
-3rd—_ [prayer](spells/prayer#_prayer)_
+3rd—_ [prayer](spells_dir/prayer#_prayer)_
 
-2nd—_ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)_, _ [resist energy](spells/resistEnergy#_resist-energy)_
+2nd—_ [eagle's splendor](spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_
 
-1st—_ [bless](spell_dir/bless#_bless)_ (2), _ [divine favor](spells/divineFavor#_divine-favor)_ (2)
+1st—_ [bless](spells_dir/bless#_bless)_ (2), _ [divine favor](spells_dir/divineFavor#_divine-favor)_ (2)
 
 Tactics
 
-**Before Combat** The paladin casts _ [resist energy](spell_dir/resistEnergy#_resist-energy)_ against the breath weapon energy type of dragons he expects to fight.
+**Before Combat** The paladin casts _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ against the breath weapon energy type of dragons he expects to fight.
 
-**During Combat** The paladin casts _ [eagle's splendor](spells/eagleSSplendor#_eagle-s-splendor)_ to improve his smite and divine grace. He uses Improved [Vital Strike](feats#_vital-strike) and [Lunge](feats#_lunge) to land solid hits on creatures with reach.
+**During Combat** The paladin casts _ [eagle's splendor](spells_dir/eagleSSplendor#_eagle-s-splendor)_ to improve his smite and divine grace. He uses Improved [Vital Strike](feats#_vital-strike) and [Lunge](feats#_lunge) to land solid hits on creatures with reach.
 
 Statistics
 
@@ -866,13 +866,13 @@ Statistics
 
 **Feats** Cleave, Great Cleave, Improved [Vital Strike](feats#_vital-strike), [Lightning Reflexes](feats#_lightning-reflexes), [Lunge](feats#_lunge), [Power Attack](feats#_power-attack), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (greatsword)
 
-**Skills** [Diplomacy](skill_dir/diplomacy#_diplomacy) +9, [Heal](skills/heal#_heal) +7, [Knowledge](skill_dir/knowledge#_knowledge) (arcana, religion) +8, [Linguistics](skills/linguistics#_linguistics) +1, Perception +9, [Sense Motive](skill_dir/senseMotive#_sense-motive) +7
+**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +9, [Heal](skills_dir/heal#_heal) +7, [Knowledge](skills_dir/knowledge#_knowledge) (arcana, religion) +8, [Linguistics](skills_dir/linguistics#_linguistics) +1, Perception +9, [Sense Motive](skills_dir/senseMotive#_sense-motive) +7
 
 **Languages** Common, Draconic
 
-**SQ** aura, code of conduct, divine bond (weapon +3, 3/day), lay on hands (6d6, 7/day), mercies (frightened, paralyzed, shaken, staggered)
+**SQ** aura, code of conduct, divine bond (weapon +3, 3_dir/day), lay on hands (6d6, 7_dir/day), mercies (frightened, paralyzed, shaken, staggered)
 
-**Combat Gear** _+1 dragon-bane bolts_ (5), _potion of [displacement](spell_dir/displacement#_displacement)_; **Other Gear** _+2 full plate_, _+1 dragon-bane greatsword_, masterwork heavy crossbow with 10 bolts, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of giant strength](magicItem_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, silver holy symbol, 1,044 gp
+**Combat Gear** _+1 dragon-bane bolts_ (5), _potion of [displacement](spells_dir/displacement#_displacement)_; **Other Gear** _+2 full plate_, _+1 dragon-bane greatsword_, masterwork heavy crossbow with 10 bolts, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, silver holy symbol, 1,044 gp
 
 A dragon smiter is sworn to slay dragons.
 
@@ -910,23 +910,23 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 longsword_ +17/+12/+7 (1d8+3/19–20)
+**Melee** _+1 longsword_ +17_dir/+12_dir/+7 (1d8+3_dir/19–20)
 
-**Ranged** _+2 composite longbow_ +22/+17/+12 (1d8+4/×3)
+**Ranged** _+2 composite longbow_ +22_dir/+17_dir/+12 (1d8+4_dir/×3)
 
-**Special Attacks** channel positive energy (DC 18, 7d6), smite evil 5/day (+1 attack and AC, +14 damage)
+**Special Attacks** channel positive energy (DC 18, 7d6), smite evil 5_dir/day (+1 attack and AC, +14 damage)
 
 **Paladin Spell-Like Abilities** (CL 14th; concentration +15)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 11th; concentration +12)
 
-3rd—_ [heal mount](spells/healMount#_heal-mount)_
+3rd—_ [heal mount](spells_dir/healMount#_heal-mount)_
 
-2nd—_ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)_, _ [resist energy](spells/resistEnergy#_resist-energy)_
+2nd—_ [eagle's splendor](spells_dir/eagleSSplendor#_eagle-s-splendor)_, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_
 
-1st—_ [create water](spell_dir/createWater#_create-water)_, _ [divine favor](spells/divineFavor#_divine-favor)_ (2), _ [endure elements](spell_dir/endureElements#_endure-elements)_
+1st—_ [create water](spells_dir/createWater#_create-water)_, _ [divine favor](spells_dir/divineFavor#_divine-favor)_ (2), _ [endure elements](spells_dir/endureElements#_endure-elements)_
 
 Tactics
 
@@ -940,13 +940,13 @@ Statistics
 
 **Feats** Improved Precise Shot, Manyshot, Mounted Archery, [Mounted Combat](feats#_mounted-combat), [Point-Blank Shot](feats#_point-blank-shot), Precise Shot, Rapid Shot, [Skill Focus](feats#_skill-focus) (Perception)
 
-**Skills** [Heal](skills/heal#_heal) +5, [Intimidate](skill_dir/intimidate#_intimidate) +6, [Knowledge](skills/knowledge#_knowledge) (geography, local) +5, Perception +9, [Ride](skill_dir/ride#_ride) +10, [Stealth](skills/stealth#_stealth) +13, [Survival](skill_dir/survival#_survival) +4
+**Skills** [Heal](skills_dir/heal#_heal) +5, [Intimidate](skills_dir/intimidate#_intimidate) +6, [Knowledge](skills_dir/knowledge#_knowledge) (geography, local) +5, Perception +9, [Ride](skills_dir/ride#_ride) +10, [Stealth](skills_dir/stealth#_stealth) +13, [Survival](skills_dir/survival#_survival) +4
 
 **Languages** Common, Elven, Goblin
 
-**SQ** aura, code of conduct, divine bond (mount), elf blood, lay on hands (7d6, 8/day), mercies (blinded, cursed, diseased, fatigued),
+**SQ** aura, code of conduct, divine bond (mount), elf blood, lay on hands (7d6, 8_dir/day), mercies (blinded, cursed, diseased, fatigued),
 
-**Combat Gear** _+1 evil outsider-bane arrows_ (5), _+1 magical beast-bane arrows_ (5), _potion of [haste](spell_dir/haste#_haste)_, _potion of [invisibility](spells/invisibility#_invisibility)_; **Other Gear** _+2 mithral breastplate_, _+2 composite longbow_ (+2 Str) with 30 arrows, _+1 longsword_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor) +1_, _belt of incredible dexterity +2_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +1_, 823 gp
+**Combat Gear** _+1 evil outsider-bane arrows_ (5), _+1 magical beast-bane arrows_ (5), _potion of [haste](spells_dir/haste#_haste)_, _potion of [invisibility](spells_dir/invisibility#_invisibility)_; **Other Gear** _+2 mithral breastplate_, _+2 composite longbow_ (+2 Str) with 30 arrows, _+1 longsword_, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _belt of incredible dexterity +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, 823 gp
 
 A rider of the steppe works individually or in a group to bring safety and law to the wild and arid flatlands, often protecting caravans and traveling dignitaries.
 
@@ -984,33 +984,33 @@ Offense
 
 **Speed** 15 ft.
 
-**Melee** _+1 [shock](magicItems/weapons#_weapons-shock) gnome hooked hammer_ +22/+17/+12 (1d6+7/×3 plus 1d6 electricity) or mwk gnome hooked hammer +22/+17/+12 (1d4+6/×4)
+**Melee** _+1 [shock](magicItems_dir/weapons#_weapons-shock) gnome hooked hammer_ +22_dir/+17_dir/+12 (1d6+7_dir/×3 plus 1d6 electricity) or mwk gnome hooked hammer +22_dir/+17_dir/+12 (1d4+6_dir/×4)
 
-**Ranged** _+1 [light](spell_dir/light#_light) crossbow_ +17 (1d6+1/19–20)
+**Ranged** _+1 [light](spells_dir/light#_light) crossbow_ +17 (1d6+1_dir/19–20)
 
-**Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, channel positive energy (DC 20, 8d6), smite evil 5/day (+3 attack and AC, +15 damage)
+**Special Attacks** +1 on attack rolls against goblinoid and reptilian humanoids, channel positive energy (DC 20, 8d6), smite evil 5_dir/day (+3 attack and AC, +15 damage)
 
 **Gnome Spell-Like Abilities** (CL 15th; concentration +18)
 
-1/day—_ [dancing lights](spell_dir/dancingLights#_dancing-lights)_, _ [ghost sound](spells/ghostSound#_ghost-sound)_, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation)_, _ [speak with animals](spells/speakWithAnimals#_speak-with-animals)_
+1_dir/day—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [ghost sound](spells_dir/ghostSound#_ghost-sound)_, _ [prestidigitation](spells_dir/prestidigitation#_prestidigitation)_, _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
 
 **Paladin Spell-Like Abilities** (CL 15th; concentration +18)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 12th; concentration +15)
 
-4th—_ [holy sword](spells/holySword#_holy-sword)_
+4th—_ [holy sword](spells_dir/holySword#_holy-sword)_
 
-3rd—_ [daylight](spell_dir/daylight#_daylight)_, _ [prayer](spells/prayer#_prayer)_ (2)
+3rd—_ [daylight](spells_dir/daylight#_daylight)_, _ [prayer](spells_dir/prayer#_prayer)_ (2)
 
-2nd—_ [resist energy](spell_dir/resistEnergy#_resist-energy)_ (2), _ [shield other](spells/shieldOther#_shield-other)_
+2nd—_ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (2), _ [shield other](spells_dir/shieldOther#_shield-other)_
 
-1st—_ [bless](spell_dir/bless#_bless)_, _ [divine favor](spells/divineFavor#_divine-favor)_ (2), _ [endure elements](spell_dir/endureElements#_endure-elements)_
+1st—_ [bless](spells_dir/bless#_bless)_, _ [divine favor](spells_dir/divineFavor#_divine-favor)_ (2), _ [endure elements](spells_dir/endureElements#_endure-elements)_
 
 Tactics
 
-**During Combat** The paladin uses divine bond to give her weapon a mix of the _ [defending](magicItems/weapons#_weapons-defending)_, _ [flaming](magicItem_dir/weapons#_weapons-flaming)_, and _ [holy](magicItems/weapons#_weapons-holy) _special abilities.
+**During Combat** The paladin uses divine bond to give her weapon a mix of the _ [defending](magicItems_dir/weapons#_weapons-defending)_, _ [flaming](magicItems_dir/weapons#_weapons-flaming)_, and _ [holy](magicItems_dir/weapons#_weapons-holy) _special abilities.
 
 Statistics
 
@@ -1020,13 +1020,13 @@ Statistics
 
 **Feats** Bleeding Critical, [Critical Focus](feats#_critical-focus), Extra Lay on Hands, [Improved Initiative](feats#_improved-initiative), [Power Attack](feats#_power-attack), [Toughness](feats#_toughness), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (gnome hooked hammer)
 
-**Skills** [Knowledge](skill_dir/knowledge#_knowledge) (dungeoneering, local) +4, Perception +13, [Stealth](skills/stealth#_stealth) +8
+**Skills** [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering, local) +4, Perception +13, [Stealth](skills_dir/stealth#_stealth) +8
 
 **Languages** Common, Gnome, Sylvan
 
-**SQ** aura, code of conduct, divine bond (weapon +4, 3/day), lay on hands (7d6, 12/day), mercies (cursed, diseased, nauseated, sickened, stunned)
+**SQ** aura, code of conduct, divine bond (weapon +4, 3_dir/day), lay on hands (7d6, 12_dir/day), mercies (cursed, diseased, nauseated, sickened, stunned)
 
-**Combat Gear** _potions of [haste](spell_dir/haste#_haste)_ (2); **Other Gear** _+2 [shadow](magicItems/armor#_armor-shadow) half-plate_, _+1 [light](spell_dir/light#_light) crossbow_ with 20 bolts, _+1 [shock](magicItems/weapons#_weapons-shock)/masterwork gnome hooked hammer_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of giant strength](magicItems/wondrousItems#_belt-of-giant-strength) +2_, _ [boots of striding and springing](magicItem_dir/wondrousItems#_boots-of-striding-and-springing)_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +2,_ 543 gp
+**Combat Gear** _potions of [haste](spells_dir/haste#_haste)_ (2); **Other Gear** _+2 [shadow](magicItems_dir/armor#_armor-shadow) half-plate_, _+1 [light](spells_dir/light#_light) crossbow_ with 20 bolts, _+1 [shock](magicItems_dir/weapons#_weapons-shock)_dir/masterwork gnome hooked hammer_, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [boots of striding and springing](magicItems_dir/wondrousItems#_boots-of-striding-and-springing)_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +2,_ 543 gp
 
 This paladin's lifelong mission is to eradicate evil giants.
 
@@ -1064,35 +1064,35 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** _+1 [holy](magicItems/weapons#_weapons-holy) lance_ +24/+19/+14/+9 (1d8+7/19–20/×3) or
+**Melee** _+1 [holy](magicItems_dir/weapons#_weapons-holy) lance_ +24_dir/+19_dir/+14_dir/+9 (1d8+7_dir/19–20_dir/×3) or
 
-_+1 heavy mace_ +23/+18/+13/+8 (1d8+7)
+_+1 heavy mace_ +23_dir/+18_dir/+13_dir/+8 (1d8+7)
 
 **Space** 5 ft.; **Reach** 5 ft. (10 ft. with lance)
 
-**Special Attacks** channel positive energy (DC 20, 8d6), smite evil 6/day (+2 attack and AC, +16 damage)
+**Special Attacks** channel positive energy (DC 20, 8d6), smite evil 6_dir/day (+2 attack and AC, +16 damage)
 
 **Paladin Spell-Like Abilities** (CL 16th; concentration +18)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 13th; concentration +15)
 
-4th—_ [holy sword](spells/holySword#_holy-sword)_
+4th—_ [holy sword](spells_dir/holySword#_holy-sword)_
 
-3rd—_ [heal mount](spell_dir/healMount#_heal-mount)_, _ [prayer](spells/prayer#_prayer)_
+3rd—_ [heal mount](spells_dir/healMount#_heal-mount)_, _ [prayer](spells_dir/prayer#_prayer)_
 
-2nd—_ [delay poison](spell_dir/delayPoison#_delay-poison)_, _ [eagle's splendor](spells/eagleSSplendor#_eagle-s-splendor), [remove paralysis](spell_dir/removeParalysis#_remove-paralysis), [resist energy](spells/resistEnergy#_resist-energy)_
+2nd—_ [delay poison](spells_dir/delayPoison#_delay-poison)_, _ [eagle's splendor](spells_dir/eagleSSplendor#_eagle-s-splendor), [remove paralysis](spells_dir/removeParalysis#_remove-paralysis), [resist energy](spells_dir/resistEnergy#_resist-energy)_
 
-1st—_ [bless](spell_dir/bless#_bless)_ (2), _ [divine favor](spells/divineFavor#_divine-favor)_ (2)
+1st—_ [bless](spells_dir/bless#_bless)_ (2), _ [divine favor](spells_dir/divineFavor#_divine-favor)_ (2)
 
 Tactics
 
-**Before Combat** The paladin casts _ [delay poison](spell_dir/delayPoison#_delay-poison)_ and _ [resist energy](spells/resistEnergy#_resist-energy)_ (fire).
+**Before Combat** The paladin casts _ [delay poison](spells_dir/delayPoison#_delay-poison)_ and _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (fire).
 
-**During Combat** The paladin fights from horseback with his lance, positioning himself where he can attack the enemy leader using Spirited Charge. He uses Improved Overrun and Trample to pass and crush creatures in his way. If he is unhorsed and mounting again is dangerous or impractical, he casts _ [holy sword](spell_dir/holySword#_holy-sword)_ on his mace and fights on foot.
+**During Combat** The paladin fights from horseback with his lance, positioning himself where he can attack the enemy leader using Spirited Charge. He uses Improved Overrun and Trample to pass and crush creatures in his way. If he is unhorsed and mounting again is dangerous or impractical, he casts _ [holy sword](spells_dir/holySword#_holy-sword)_ on his mace and fights on foot.
 
-**Base Statistics** Without _ [delay poison](spells/delayPoison#_delay-poison)_ and _ [resist energy](spell_dir/resistEnergy#_resist-energy)_, the paladin's statistics are **Immune** charm, disease, fear; **Resist** none.
+**Base Statistics** Without _ [delay poison](spells_dir/delayPoison#_delay-poison)_ and _ [resist energy](spells_dir/resistEnergy#_resist-energy)_, the paladin's statistics are **Immune** charm, disease, fear; **Resist** none.
 
 Statistics
 
@@ -1102,13 +1102,13 @@ Statistics
 
 **Feats** [Improved Critical](feats#_improved-critical) (lance), Improved Overrun, [Mounted Combat](feats#_mounted-combat), [Power Attack](feats#_power-attack), Ride-By Attack, Spirited Charge, Trample, [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (lance)
 
-**Skills** [Handle Animal](skills/handleAnimal#_handle-animal) +9, [Heal](skill_dir/heal#_heal) +6, [Intimidate](skills/intimidate#_intimidate) +10, Perception +15, [Ride](skill_dir/ride#_ride) +15 (+17 to stay in the saddle), [Sense Motive](skills/senseMotive#_sense-motive) +10
+**Skills** [Handle Animal](skills_dir/handleAnimal#_handle-animal) +9, [Heal](skills_dir/heal#_heal) +6, [Intimidate](skills_dir/intimidate#_intimidate) +10, Perception +15, [Ride](skills_dir/ride#_ride) +15 (+17 to stay in the saddle), [Sense Motive](skills_dir/senseMotive#_sense-motive) +10
 
 **Languages** Common
 
-**SQ** aura, code of conduct, divine bond (mount), lay on hands (8d6, 10/day), mercies (fatigued, frightened, paralyzed, shaken, staggered)
+**SQ** aura, code of conduct, divine bond (mount), lay on hands (8d6, 10_dir/day), mercies (fatigued, frightened, paralyzed, shaken, staggered)
 
-**Other Gear** _potion of [haste](spell_dir/haste#_haste)_; **Other Gear** _+2 full plate_, _+2 heavy steel [shield](spells/shield#_shield)_, _+1 heavy mace_, _+1 [holy](magicItem_dir/weapons#_weapons-holy) lance_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of physical might](magicItem_dir/wondrousItems#_belt-of-physical-might) +2_ (Str, Con), _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +1_, full plate barding, military saddle, 3,288 gp
+**Other Gear** _potion of [haste](spells_dir/haste#_haste)_; **Other Gear** _+2 full plate_, _+2 heavy steel [shield](spells_dir/shield#_shield)_, _+1 heavy mace_, _+1 [holy](magicItems_dir/weapons#_weapons-holy) lance_, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of physical might](magicItems_dir/wondrousItems#_belt-of-physical-might) +2_ (Str, Con), _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, full plate barding, military saddle, 3,288 gp
 
 This holy warrior is a skilled rider who dispenses harsh justice at the point of a lance.
 
@@ -1140,39 +1140,39 @@ Defense
 
 **Fort** +16, **Ref** +7, **Will** +15; +2 vs. poison, spells, and spell-like abilities
 
-**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants); **DR** 5/evil; **Immune** charm, compulsion, disease, fear, poison
+**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants); **DR** 5_dir/evil; **Immune** charm, compulsion, disease, fear, poison
 
 Offense
 
 **Speed** 20 ft.
 
-**Melee** _+3 [shock](magicItem_dir/weapons#_weapons-shock) dwarven waraxe_ +27/+22/+17/+12 (1d10+9/19–20/×3 plus 1d6 electricity)
+**Melee** _+3 [shock](magicItems_dir/weapons#_weapons-shock) dwarven waraxe_ +27_dir/+22_dir/+17_dir/+12 (1d10+9_dir/19–20_dir/×3 plus 1d6 electricity)
 
-**Ranged** _+1 [throwing](magicItem_dir/weapons#_throwing) axe_ +17/+12/+7/+2 (1d6+7)
+**Ranged** _+1 [throwing](magicItems_dir/weapons#_throwing) axe_ +17_dir/+12_dir/+7_dir/+2 (1d6+7)
 
-**Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, channel positive energy (DC 20, 9d6), smite evil 6/day (+2 attack and AC, +17 damage)
+**Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, channel positive energy (DC 20, 9d6), smite evil 6_dir/day (+2 attack and AC, +17 damage)
 
 **Paladin Spell-Like Abilities** (CL 17th; concentration +19)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 14th; concentration +16)
 
-4th—_ [holy sword](spells/holySword#_holy-sword)_
+4th—_ [holy sword](spells_dir/holySword#_holy-sword)_
 
-3rd—_ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_, _ [prayer](spells/prayer#_prayer)_
+3rd—_ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_, _ [prayer](spells_dir/prayer#_prayer)_
 
-2nd—_ [delay poison](spell_dir/delayPoison#_delay-poison)_, _ [eagle's splendor](spells/eagleSSplendor#_eagle-s-splendor)_ (2), _ [shield other](spell_dir/shieldOther#_shield-other)_
+2nd—_ [delay poison](spells_dir/delayPoison#_delay-poison)_, _ [eagle's splendor](spells_dir/eagleSSplendor#_eagle-s-splendor)_ (2), _ [shield other](spells_dir/shieldOther#_shield-other)_
 
-1st—_ [bless](spells/bless#_bless)_, _ [divine favor](spell_dir/divineFavor#_divine-favor)_ (2), _ [lesser restoration](spells/restoration#_restoration-lesser)_, _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil)_
+1st—_ [bless](spells_dir/bless#_bless)_, _ [divine favor](spells_dir/divineFavor#_divine-favor)_ (2), _ [lesser restoration](spells_dir/restoration#_restoration-lesser)_, _ [protection from evil](spells_dir/protectionFromEvil#_protection-from-evil)_
 
 Tactics
 
-**Before Combat** The paladin casts _ [delay poison](spells/delayPoison#_delay-poison)_ on himself and _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_ on his waraxe.
+**Before Combat** The paladin casts _ [delay poison](spells_dir/delayPoison#_delay-poison)_ on himself and _ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_ on his waraxe.
 
 **During Combat** The paladin uses Improved [Vital Strike](feats#_vital-strike) and Cleave if he has a few targets close together.
 
-**Base Statistics** Without _ [delay poison](spells/delayPoison#_delay-poison)_ and _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_, the paladin's statistics are **Immune** charm, compulsion, disease, fear; **Melee** _+1 [shock](magicItems/weapons#_weapons-shock) dwarven waraxe_ +25/+20/+15/+10 (1d10+7/19–20/×3 plus 1d6 electricity).
+**Base Statistics** Without _ [delay poison](spells_dir/delayPoison#_delay-poison)_ and _ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_, the paladin's statistics are **Immune** charm, compulsion, disease, fear; **Melee** _+1 [shock](magicItems_dir/weapons#_weapons-shock) dwarven waraxe_ +25_dir/+20_dir/+15_dir/+10 (1d10+7_dir/19–20_dir/×3 plus 1d6 electricity).
 
 Statistics
 
@@ -1182,13 +1182,13 @@ Statistics
 
 **Feats** Cleave, Extra Lay on Hands, [Improved Critical](feats#_improved-critical) (dwarven waraxe), [Improved Initiative](feats#_improved-initiative), Improved [Vital Strike](feats#_vital-strike), [Power Attack](feats#_power-attack), [Toughness](feats#_toughness), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (dwarven waraxe)
 
-**Skills** [Climb](skill_dir/climb#_climb) +4, [Diplomacy](skills/diplomacy#_diplomacy) +7, [Heal](skill_dir/heal#_heal) +7, [Intimidate](skills/intimidate#_intimidate) +10, [Knowledge](skill_dir/knowledge#_knowledge) (local) +2, [Knowledge](skills/knowledge#_knowledge) (religion) +5, Perception +12 (+14 to notice unusual stonework), [Swim](skill_dir/swim#_swim) +4
+**Skills** [Climb](skills_dir/climb#_climb) +4, [Diplomacy](skills_dir/diplomacy#_diplomacy) +7, [Heal](skills_dir/heal#_heal) +7, [Intimidate](skills_dir/intimidate#_intimidate) +10, [Knowledge](skills_dir/knowledge#_knowledge) (local) +2, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +5, Perception +12 (+14 to notice unusual stonework), [Swim](skills_dir/swim#_swim) +4
 
 **Languages** Common, Dwarven
 
-**SQ** aura, code of conduct, divine bond (weapon +5, 4/day), lay on hands (8d6, 12/day), mercies (dazed, deafened, nauseated, paralyzed, shaken)
+**SQ** aura, code of conduct, divine bond (weapon +5, 4_dir/day), lay on hands (8d6, 12_dir/day), mercies (dazed, deafened, nauseated, paralyzed, shaken)
 
-**Other Gear** _+3 banded mail_, _+2 heavy steel [shield](spell_dir/shield#_shield)_, _+1 [shock](magicItems/weapons#_weapons-shock) dwarven waraxe_, _+1 [throwing](magicItem_dir/weapons#_throwing) axe_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of giant strength](magicItem_dir/wondrousItems#_belt-of-giant-strength) +4_, _ [boots of speed](magicItems/wondrousItems#_boots-of-speed)_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, _ [headband of alluring charisma](magicItems/wondrousItems#_headband-of-alluring-charisma) +2_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +2_, silver holy symbol, platinum rings for _ [shield other](spells/shieldOther#_shield-other)_ (2, worth 50 gp each), 1,667 gp
+**Other Gear** _+3 banded mail_, _+2 heavy steel [shield](spells_dir/shield#_shield)_, _+1 [shock](magicItems_dir/weapons#_weapons-shock) dwarven waraxe_, _+1 [throwing](magicItems_dir/weapons#_throwing) axe_, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +4_, _ [boots of speed](magicItems_dir/wondrousItems#_boots-of-speed)_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [headband of alluring charisma](magicItems_dir/wondrousItems#_headband-of-alluring-charisma) +2_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +2_, silver holy symbol, platinum rings for _ [shield other](spells_dir/shieldOther#_shield-other)_ (2, worth 50 gp each), 1,667 gp
 
 Axe lords guard dwarven citadels, hunting foul monsters from the deeps and threats from outside.
 
@@ -1216,41 +1216,41 @@ Defense
 
 **Fort** +18, **Ref** +12, **Will** +17; +2 vs. fear
 
-**DR** 5/evil; **Immune** charm, compulsion, disease, fear
+**DR** 5_dir/evil; **Immune** charm, compulsion, disease, fear
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** _+3 [flaming](magicItem_dir/weapons#_weapons-flaming) longspear_ +27/+22/+17/+12 (1d6+9/×3 plus 1d6 fire)
+**Melee** _+3 [flaming](magicItems_dir/weapons#_weapons-flaming) longspear_ +27_dir/+22_dir/+17_dir/+12 (1d6+9_dir/×3 plus 1d6 fire)
 
 **Ranged** _+1 sling_ +21 (1d3+5)
 
 **Space** 5 ft.; **Reach** 5 ft. (10 ft. with longspear)
 
-**Special Attacks** channel positive energy (DC 22, 9d6), smite evil 6/day (+3 attack and AC, +18 damage)
+**Special Attacks** channel positive energy (DC 22, 9d6), smite evil 6_dir/day (+3 attack and AC, +18 damage)
 
 **Paladin Spell-Like Abilities** (CL 18th; concentration +21)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 15th; concentration +18)
 
-4th—_ [death ward](spells/deathWard#_death-ward)_, _ [dispel evil](spell_dir/dispelEvil#_dispel-evil)_
+4th—_ [death ward](spells_dir/deathWard#_death-ward)_, _ [dispel evil](spells_dir/dispelEvil#_dispel-evil)_
 
-3rd—_ [greater magic weapon](spells/magicWeapon#_magic-weapon-greater)_, _ [magic circle against evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_, _ [prayer](spells/prayer#_prayer)_
+3rd—_ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_, _ [magic circle against evil](spells_dir/magicCircleAgainstEvil#_magic-circle-against-evil)_, _ [prayer](spells_dir/prayer#_prayer)_
 
-2nd—_ [delay poison](spell_dir/delayPoison#_delay-poison)_ (2), _ [resist energy](spells/resistEnergy#_resist-energy)_ (2)
+2nd—_ [delay poison](spells_dir/delayPoison#_delay-poison)_ (2), _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (2)
 
-1st—_ [bless](spell_dir/bless#_bless)_ (2), _ [bless weapon](spells/blessWeapon#_bless-weapon)_ (2), _ [divine favor](spell_dir/divineFavor#_divine-favor)_
+1st—_ [bless](spells_dir/bless#_bless)_ (2), _ [bless weapon](spells_dir/blessWeapon#_bless-weapon)_ (2), _ [divine favor](spells_dir/divineFavor#_divine-favor)_
 
 Tactics
 
-**Before Combat** The paladin casts _ [greater magic weapon](spells/magicWeapon#_magic-weapon-greater)_ on his longspear.
+**Before Combat** The paladin casts _ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_ on his longspear.
 
-**During Combat** The paladin reserves most of his spells and magic items for helping allies against a common foe. He uses Cleave as often as possible against grouped opponents, and [Lunge](feats#_lunge) and Stand Still to control the movement of multiple enemies. He uses his divine bond to give his longspear the _ [defending](magicItem_dir/weapons#_weapons-defending)_, _ [holy](magicItems/weapons#_weapons-holy)_, _ [keen](magicItem_dir/weapons#_weapons-keen)_, or _ [speed](magicItems/weapons#_weapons-speed)_ special ability.
+**During Combat** The paladin reserves most of his spells and magic items for helping allies against a common foe. He uses Cleave as often as possible against grouped opponents, and [Lunge](feats#_lunge) and Stand Still to control the movement of multiple enemies. He uses his divine bond to give his longspear the _ [defending](magicItems_dir/weapons#_weapons-defending)_, _ [holy](magicItems_dir/weapons#_weapons-holy)_, _ [keen](magicItems_dir/weapons#_weapons-keen)_, or _ [speed](magicItems_dir/weapons#_weapons-speed)_ special ability.
 
-**Base Statistics** Without _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_, the paladin's statistics are **Melee** _+1 [flaming](magicItems/weapons#_weapons-flaming) longspear_ +25/+20/+15/+10 (1d6+7/×3 plus 1d6 fire).
+**Base Statistics** Without _ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_, the paladin's statistics are **Melee** _+1 [flaming](magicItems_dir/weapons#_weapons-flaming) longspear_ +25_dir/+20_dir/+15_dir/+10 (1d6+7_dir/×3 plus 1d6 fire).
 
 Statistics
 
@@ -1260,13 +1260,13 @@ Statistics
 
 **Feats** Cleave, [Combat Reflexes](feats#_combat-reflexes), Greater [Vital Strike](feats#_vital-strike), Improved [Vital Strike](feats#_vital-strike), [Lunge](feats#_lunge), [Power Attack](feats#_power-attack), Stand Still, [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (longspear)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) –2 (–1 when jumping), [Climb](skills/climb#_climb) +4, [Diplomacy](skill_dir/diplomacy#_diplomacy) +11, [Heal](skills/heal#_heal) +9, [Knowledge](skill_dir/knowledge#_knowledge) (local) +4, [Knowledge](skills/knowledge#_knowledge) (religion) +7, Perception +13, [Swim](skill_dir/swim#_swim) +2
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) –2 (–1 when jumping), [Climb](skills_dir/climb#_climb) +4, [Diplomacy](skills_dir/diplomacy#_diplomacy) +11, [Heal](skills_dir/heal#_heal) +9, [Knowledge](skills_dir/knowledge#_knowledge) (local) +4, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +7, Perception +13, [Swim](skills_dir/swim#_swim) +2
 
 **Languages** Common, Halfling
 
-**SQ** aura, code of conduct, divine bond (weapon +5, 4/day), lay on hands (9d6, 12/day), mercies (blinded, cursed, diseased, paralyzed, sickened, stunned)
+**SQ** aura, code of conduct, divine bond (weapon +5, 4_dir/day), lay on hands (9d6, 12_dir/day), mercies (blinded, cursed, diseased, paralyzed, sickened, stunned)
 
-**Combat Gear** _+1 [holy](magicItem_dir/weapons#_weapons-holy) bullets_ (10), _+1 undead-bane bullets_ (10), _potions of [haste](spells/haste#_haste)_ (2), _wand of [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_ (50 charges); **Other Gear** _+4 full plate_, _+1 [flaming](magicItems/weapons#_weapons-flaming) longspear_, _+1 sling_ with 20 bullets, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of giant strength](magicItems/wondrousItems#_belt-of-giant-strength) +2_, _ [boots of striding and springing](magicItem_dir/wondrousItems#_boots-of-striding-and-springing)_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +3_, 8,735 gp
+**Combat Gear** _+1 [holy](magicItems_dir/weapons#_weapons-holy) bullets_ (10), _+1 undead-bane bullets_ (10), _potions of [haste](spells_dir/haste#_haste)_ (2), _wand of [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_ (50 charges); **Other Gear** _+4 full plate_, _+1 [flaming](magicItems_dir/weapons#_weapons-flaming) longspear_, _+1 sling_ with 20 bullets, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of giant strength](magicItems_dir/wondrousItems#_belt-of-giant-strength) +2_, _ [boots of striding and springing](magicItems_dir/wondrousItems#_boots-of-striding-and-springing)_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +3_, 8,735 gp
 
 The furious crusader is a compact bundle of holy power with a chip on his shoulder.
 
@@ -1298,39 +1298,39 @@ Defense
 
 **Fort** +20, **Ref** +13, **Will** +15; +2 vs. enchantments
 
-**DR** 5/evil; **Immune** charm, compulsion, disease, fear, poison, sleep; **Resist** fire 30
+**DR** 5_dir/evil; **Immune** charm, compulsion, disease, fear, poison, sleep; **Resist** fire 30
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** _+4 [axiomatic](magicItem_dir/weapons#_weapons-axiomatic) longsword_ +29/+24/+19/+14 (1d8+9/17–20) or
+**Melee** _+4 [axiomatic](magicItems_dir/weapons#_weapons-axiomatic) longsword_ +29_dir/+24_dir/+19_dir/+14 (1d8+9_dir/17–20) or
 
-_+1 lance_ +26/+21/+16/+11 (1d8+6/19–20/×3)
+_+1 lance_ +26_dir/+21_dir/+16_dir/+11 (1d8+6_dir/19–20_dir/×3)
 
-**Special Attacks** channel positive energy (DC 22, 10d6), smite evil 7/day (+3 attack and AC, +19 damage)
+**Special Attacks** channel positive energy (DC 22, 10d6), smite evil 7_dir/day (+3 attack and AC, +19 damage)
 
 **Paladin Spell-Like Abilities** (CL 19th; concentration +22)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 16th; concentration +19)
 
-4th—_ [death ward](spells/deathWard#_death-ward)_, _ [neutralize poison](spell_dir/neutralizePoison#_neutralize-poison)_
+4th—_ [death ward](spells_dir/deathWard#_death-ward)_, _ [neutralize poison](spells_dir/neutralizePoison#_neutralize-poison)_
 
-3rd—_ [daylight](spells/daylight#_daylight)_, _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_, _ [prayer](spells/prayer#_prayer)_, _remove blindness_
+3rd—_ [daylight](spells_dir/daylight#_daylight)_, _ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_, _ [prayer](spells_dir/prayer#_prayer)_, _remove blindness_
 
-2nd—_ [delay poison](spell_dir/delayPoison#_delay-poison)_, _ [eagle's splendor](spells/eagleSSplendor#_eagle-s-splendor)_ (2), _ [resist energy](spell_dir/resistEnergy#_resist-energy)_
+2nd—_ [delay poison](spells_dir/delayPoison#_delay-poison)_, _ [eagle's splendor](spells_dir/eagleSSplendor#_eagle-s-splendor)_ (2), _ [resist energy](spells_dir/resistEnergy#_resist-energy)_
 
-1st—_ [bless](spells/bless#_bless), [create water](spell_dir/createWater#_create-water)_, _ [divine favor](spells/divineFavor#_divine-favor)_ (2), _ [lesser restoration](spell_dir/restoration#_restoration-lesser)_
+1st—_ [bless](spells_dir/bless#_bless), [create water](spells_dir/createWater#_create-water)_, _ [divine favor](spells_dir/divineFavor#_divine-favor)_ (2), _ [lesser restoration](spells_dir/restoration#_restoration-lesser)_
 
 Tactics
 
-**Before Combat** The paladin casts _ [delay poison](spells/delayPoison#_delay-poison)_ and _ [resist energy](spell_dir/resistEnergy#_resist-energy)_ (fire) on himself and _ [greater magic weapon](spells/magicWeapon#_magic-weapon-greater)_ on his longsword.
+**Before Combat** The paladin casts _ [delay poison](spells_dir/delayPoison#_delay-poison)_ and _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (fire) on himself and _ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_ on his longsword.
 
-**During Combat** The paladin fights on horseback or on foot as the situation warrants. He casts _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)_ to enhance his smite evil attacks, but otherwise relies on standard melee tactics and healing himself with lay on hands.
+**During Combat** The paladin fights on horseback or on foot as the situation warrants. He casts _ [eagle's splendor](spells_dir/eagleSSplendor#_eagle-s-splendor)_ to enhance his smite evil attacks, but otherwise relies on standard melee tactics and healing himself with lay on hands.
 
-**Base Statistics** Without _ [delay poison](spells/delayPoison#_delay-poison)_, _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_, and _ [resist energy](spells/resistEnergy#_resist-energy)_ the paladin's statistics are **Immune** charm, compulsion, disease, fear, sleep; **Resist** none; **Melee** _+1 [axiomatic](magicItem_dir/weapons#_weapons-axiomatic) longsword_ +26/+21/+16/+11 (1d8+6/17–20).
+**Base Statistics** Without _ [delay poison](spells_dir/delayPoison#_delay-poison)_, _ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_, and _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ the paladin's statistics are **Immune** charm, compulsion, disease, fear, sleep; **Resist** none; **Melee** _+1 [axiomatic](magicItems_dir/weapons#_weapons-axiomatic) longsword_ +26_dir/+21_dir/+16_dir/+11 (1d8+6_dir/17–20).
 
 Statistics
 
@@ -1340,13 +1340,13 @@ Statistics
 
 **Feats** Extra Lay on Hands, [Great Fortitude](feats#_great-fortitude), [Improved Critical](feats#_improved-critical) (lance, longsword), [Improved Initiative](feats#_improved-initiative), [Mounted Combat](feats#_mounted-combat), [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) (Perception), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (longsword, lance)
 
-**Skills** [Diplomacy](skill_dir/diplomacy#_diplomacy) +11, [Intimidate](skills/intimidate#_intimidate) +6, [Knowledge](skill_dir/knowledge#_knowledge) (local) +5, [Knowledge](skills/knowledge#_knowledge) (nobility) +8, Perception +17, [Ride](skill_dir/ride#_ride) +10 (+12 to stay in the saddle)
+**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +11, [Intimidate](skills_dir/intimidate#_intimidate) +6, [Knowledge](skills_dir/knowledge#_knowledge) (local) +5, [Knowledge](skills_dir/knowledge#_knowledge) (nobility) +8, Perception +17, [Ride](skills_dir/ride#_ride) +10 (+12 to stay in the saddle)
 
 **Languages** Common, Elven
 
-**SQ** aura, code of conduct, divine bond (weapon +5, 4/day), elf blood, lay on hands (9d6, 14/day), mercies (blinded, dazed, diseased, fatigued, paralyzed, shaken)
+**SQ** aura, code of conduct, divine bond (weapon +5, 4_dir/day), elf blood, lay on hands (9d6, 14_dir/day), mercies (blinded, dazed, diseased, fatigued, paralyzed, shaken)
 
-**Combat Gear** _potion of [haste](spell_dir/haste#_haste)_; **Other Gear** _+4 mithral chainmail_, _+1 heavy steel [shield](spells/shield#_shield)_, _+1 [axiomatic](magicItem_dir/weapons#_weapons-axiomatic) longsword_, _+1 lance_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of physical might](magicItem_dir/wondrousItems#_belt-of-physical-might) +2_ (Str, Con), _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, _ [horseshoes of speed](magicItem_dir/wondrousItems#_horseshoes-of-speed)_, _ [ring of protection](magicItems/rings#_ring-of-protection) +4_, _ [slippers of spider climbing](magicItem_dir/wondrousItems#_slippers-of-spider-climbing)_, combat-trained heavy horse, military saddle, holy symbol, 2,010 gp
+**Combat Gear** _potion of [haste](spells_dir/haste#_haste)_; **Other Gear** _+4 mithral chainmail_, _+1 heavy steel [shield](spells_dir/shield#_shield)_, _+1 [axiomatic](magicItems_dir/weapons#_weapons-axiomatic) longsword_, _+1 lance_, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of physical might](magicItems_dir/wondrousItems#_belt-of-physical-might) +2_ (Str, Con), _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2_, _ [horseshoes of speed](magicItems_dir/wondrousItems#_horseshoes-of-speed)_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +4_, _ [slippers of spider climbing](magicItems_dir/wondrousItems#_slippers-of-spider-climbing)_, combat-trained heavy horse, military saddle, holy symbol, 2,010 gp
 
 The mithral master is a gleaming symbol of honor.
 
@@ -1374,39 +1374,39 @@ Defense
 
 **Fort** +23, **Ref** +14, **Will** +19
 
-**DR** 10/evil; **Immune** charm, compulsion, disease, fear, poison; **Resist** electricity 30, fire 30
+**DR** 10_dir/evil; **Immune** charm, compulsion, disease, fear, poison; **Resist** electricity 30, fire 30
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** _+4 cold iron evil outsider-bane greatsword_ +32/+27/+22/+17 (2d6+14/17–20)
+**Melee** _+4 cold iron evil outsider-bane greatsword_ +32_dir/+27_dir/+22_dir/+17 (2d6+14_dir/17–20)
 
-**Ranged** _+1 shortbow_ +21/+16/+11/+6 (1d6+1/×3)
+**Ranged** _+1 shortbow_ +21_dir/+16_dir/+11_dir/+6 (1d6+1_dir/×3)
 
-**Special Attacks** channel positive energy (DC 23, 60 points), smite evil 7/day (+3 attack and AC, +20 damage, banish evil outsiders)
+**Special Attacks** channel positive energy (DC 23, 60 points), smite evil 7_dir/day (+3 attack and AC, +20 damage, banish evil outsiders)
 
 **Paladin Spell-Like Abilities** (CL 20th; concentration +23)
 
-At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
+At will—_ [detect evil](spells_dir/detectEvil#_detect-evil)_
 
 **Paladin Spells Prepared** (CL 17th; concentration +20)
 
-4th—_ [break enchantment](spells/breakEnchantment#_break-enchantment)_, _ [death ward](spell_dir/deathWard#_death-ward)_, _ [dispel evil](spells/dispelEvil#_dispel-evil)_
+4th—_ [break enchantment](spells_dir/breakEnchantment#_break-enchantment)_, _ [death ward](spells_dir/deathWard#_death-ward)_, _ [dispel evil](spells_dir/dispelEvil#_dispel-evil)_
 
-3rd—_ [daylight](spell_dir/daylight#_daylight)_ (2), _ [greater magic weapon](spells/magicWeapon#_magic-weapon-greater)_, _ [prayer](spell_dir/prayer#_prayer)_
+3rd—_ [daylight](spells_dir/daylight#_daylight)_ (2), _ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_, _ [prayer](spells_dir/prayer#_prayer)_
 
-2nd—_ [delay poison](spells/delayPoison#_delay-poison)_, _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor)_ (2), _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (2)
+2nd—_ [delay poison](spells_dir/delayPoison#_delay-poison)_, _ [eagle's splendor](spells_dir/eagleSSplendor#_eagle-s-splendor)_ (2), _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (2)
 
-1st—_ [divine favor](spell_dir/divineFavor#_divine-favor)_ (3), _ [lesser restoration](spells/restoration#_restoration-lesser)_ (2)
+1st—_ [divine favor](spells_dir/divineFavor#_divine-favor)_ (3), _ [lesser restoration](spells_dir/restoration#_restoration-lesser)_ (2)
 
 Tactics
 
-**Before Combat** The paladin casts _ [delay poison](spell_dir/delayPoison#_delay-poison)_ and _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (electricity and fire) on herself, and _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_ on her greatsword.
+**Before Combat** The paladin casts _ [delay poison](spells_dir/delayPoison#_delay-poison)_ and _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_ (electricity and fire) on herself, and _ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_ on her greatsword.
 
-**During Combat** The paladin targets the most powerful creature present or an obviously demonic target. She uses her divine bond to add the _ [brilliant energy](magicItems/weapons#_weapons-brilliant-energy)_, _ [holy](magicItem_dir/weapons#_weapons-holy)_, _ [keen](magicItems/weapons#_weapons-keen)_, and _ [speed](magicItem_dir/weapons#_weapons-speed)_ special abilities to her greatsword as appropriate, and uses mercies to counteract any negative conditions or afflictions she gains.
+**During Combat** The paladin targets the most powerful creature present or an obviously demonic target. She uses her divine bond to add the _ [brilliant energy](magicItems_dir/weapons#_weapons-brilliant-energy)_, _ [holy](magicItems_dir/weapons#_weapons-holy)_, _ [keen](magicItems_dir/weapons#_weapons-keen)_, and _ [speed](magicItems_dir/weapons#_weapons-speed)_ special abilities to her greatsword as appropriate, and uses mercies to counteract any negative conditions or afflictions she gains.
 
-**Base Statistics** Without _ [delay poison](spells/delayPoison#_delay-poison)_, _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_, and _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_, the paladin's statistics are **Immune** charm, compulsion, disease, fear; **Resist** none; **Melee** _+1 cold iron evil outsider-bane greatsword_ +29/+24/+19/+14 (2d6+11/17–20).
+**Base Statistics** Without _ [delay poison](spells_dir/delayPoison#_delay-poison)_, _ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_, and _ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy)_, the paladin's statistics are **Immune** charm, compulsion, disease, fear; **Resist** none; **Melee** _+1 cold iron evil outsider-bane greatsword_ +29_dir/+24_dir/+19_dir/+14 (2d6+11_dir/17–20).
 
 Statistics
 
@@ -1416,13 +1416,13 @@ Statistics
 
 **Feats** [Critical Focus](feats#_critical-focus), Extra Lay on Hands, [Great Fortitude](feats#_great-fortitude), [Improved Critical](feats#_improved-critical) (greatsword), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), Stunning Critical, [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (greatsword)
 
-**Skills** [Climb](skill_dir/climb#_climb) +7, [Diplomacy](skills/diplomacy#_diplomacy) +11, [Heal](skill_dir/heal#_heal) +7, [Intimidate](skills/intimidate#_intimidate) +13, [Knowledge](skill_dir/knowledge#_knowledge) (arcana) +6, [Knowledge](skills/knowledge#_knowledge) (planes) +21, [Linguistics](skill_dir/linguistics#_linguistics) +3, Perception +19, [Survival](skills/survival#_survival) +2, [Swim](skill_dir/swim#_swim) +7
+**Skills** [Climb](skills_dir/climb#_climb) +7, [Diplomacy](skills_dir/diplomacy#_diplomacy) +11, [Heal](skills_dir/heal#_heal) +7, [Intimidate](skills_dir/intimidate#_intimidate) +13, [Knowledge](skills_dir/knowledge#_knowledge) (arcana) +6, [Knowledge](skills_dir/knowledge#_knowledge) (planes) +21, [Linguistics](skills_dir/linguistics#_linguistics) +3, Perception +19, [Survival](skills_dir/survival#_survival) +2, [Swim](skills_dir/swim#_swim) +7
 
 **Languages** Abyssal, Celestial, Common, Infernal
 
-**SQ** aura, code of conduct, divine bond (weapon +6, 4/day), holy champion, lay on hands (60 points, 15/day), mercies (dazed, nauseated, poisoned, sickened, staggered, stunned)
+**SQ** aura, code of conduct, divine bond (weapon +6, 4_dir/day), holy champion, lay on hands (60 points, 15_dir/day), mercies (dazed, nauseated, poisoned, sickened, staggered, stunned)
 
-**Combat Gear** _+1 evil outsider-bane arrows_ (5), _+1 evil outsider-bane [holy](magicItem_dir/weapons#_weapons-holy) arrows_ (5),_ +1 [holy](magicItems/weapons#_weapons-holy) arrows_ (5),_ potions of [fly](spell_dir/fly)_ (2); **Other Gear** _+5 full plate_, _+1 cold iron evil outsider-bane greatsword_, _+1 shortbow_ with 20 arrows, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of physical might](magicItem_dir/wondrousItems#_belt-of-physical-might) +4_ (Str, Con), _ [boots of striding and springing](magicItems/wondrousItems#_boots-of-striding-and-springing)_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +3_, _ [goggles of night](magicItems/wondrousItems#_goggles-of-night)_, _ [phylactery of faithfulness](magicItem_dir/wondrousItems#_phylactery-of-faithfulness)_, _ [ring of protection](magicItems/rings#_ring-of-protection) +4_, 4,760 gp
+**Combat Gear** _+1 evil outsider-bane arrows_ (5), _+1 evil outsider-bane [holy](magicItems_dir/weapons#_weapons-holy) arrows_ (5),_ +1 [holy](magicItems_dir/weapons#_weapons-holy) arrows_ (5),_ potions of [fly](spells_dir/fly)_ (2); **Other Gear** _+5 full plate_, _+1 cold iron evil outsider-bane greatsword_, _+1 shortbow_ with 20 arrows, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of physical might](magicItems_dir/wondrousItems#_belt-of-physical-might) +4_ (Str, Con), _ [boots of striding and springing](magicItems_dir/wondrousItems#_boots-of-striding-and-springing)_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +3_, _ [goggles of night](magicItems_dir/wondrousItems#_goggles-of-night)_, _ [phylactery of faithfulness](magicItems_dir/wondrousItems#_phylactery-of-faithfulness)_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +4_, 4,760 gp
 
 The demon hunter has sworn to battle the hordes of the Abyss. Though the demons constantly tempt her and try to lead her from her path, she remains resolute—though somewhat paranoid and difficult to befriend because of the number of allies she's seen slain.
 

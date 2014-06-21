@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advancedRaceGuid_dir/featuredRaces/aasimars
+title: advancedRaceGuide_dir/featuredRaces_dir/aasimars
 ---
 # Aasimars
 
@@ -34,9 +34,9 @@ However, even if they generally tend toward human societies, aasimars can become
 
 **Darkvision** : Aasimars can see in the dark up to 60 feet.
 
-**Skilled** : Aasimars have a +2 racial bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy) and [Perception](skills/perception#_perception) checks.
+**Skilled** : Aasimars have a +2 racial bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) and [Perception](skills_dir/perception#_perception) checks.
 
-**Spell-Like Ability** : Aasimars can use _ [daylight](spell_dir/daylight#_daylight)_ once per day as a spell-like ability (caster level equal to the aasimar's class level).
+**Spell-Like Ability** : Aasimars can use _ [daylight](spells_dir/daylight#_daylight)_ once per day as a spell-like ability (caster level equal to the aasimar's class level).
 
 **Celestial Resistance** : Aasimars have acid resistance 5, cold resistance 5, and electricity resistance 5.
 
@@ -46,43 +46,43 @@ However, even if they generally tend toward human societies, aasimars can become
 
 The following racial traits may be selected instead of existing aasimar racial traits. Consult your GM before selecting any of these new options.
 
-**Celestial Crusader** : Some aasimars follow their destiny to war against the powers of ultimate evil. These individuals gain a +1 insight bonus on attack rolls and to AC against evil outsiders and a +2 racial bonus on [Knowledge](skills/knowledge#_knowledge) (planes) and [Spellcraft](skill_dir/spellcraft#_spellcraft) checks to identify evil outsiders or items or effects created by evil outsiders; they may use these skills untrained for this purpose. This racial trait replaces celestial resistance and skilled.
+**Celestial Crusader** : Some aasimars follow their destiny to war against the powers of ultimate evil. These individuals gain a +1 insight bonus on attack rolls and to AC against evil outsiders and a +2 racial bonus on [Knowledge](skills_dir/knowledge#_knowledge) (planes) and [Spellcraft](skills_dir/spellcraft#_spellcraft) checks to identify evil outsiders or items or effects created by evil outsiders; they may use these skills untrained for this purpose. This racial trait replaces celestial resistance and skilled.
 
 **Deathless Spirit** : Particularly strong-willed aasimars possess celestial spirits capable of resisting the powers of death. They gain resistance 5 against negative energy damage. They do not lose hit points when they gain a negative level, and they gain a +2 racial bonus on saving throws against death effects, energy drain, negative energy, and spells or spell-like abilities of the necromancy school. This racial trait replaces celestial resistance.
 
 **Exalted Resistance** : An aasimar with this racial trait gains spell resistance equal to 5 + her level against spells and spell-like abilities with the evil descriptor, as well as any spells and spell-like abilities cast by evil outsiders. This racial trait replaces celestial resistance.
 
-**Halo** : Some aasimars possess the ability to manifest halos. An aasimar with this racial trait can create _ [light](spells/light#_light) _centered on her head at will as a spell-like ability. When using her halo, she gains a +2 circumstance bonus on [Intimidate](skill_dir/intimidate#_intimidate) checks against evil creatures and on saving throws against becoming blinded or dazzled. This racial trait replaces the darkvision racial trait.
+**Halo** : Some aasimars possess the ability to manifest halos. An aasimar with this racial trait can create _ [light](spells_dir/light#_light) _centered on her head at will as a spell-like ability. When using her halo, she gains a +2 circumstance bonus on [Intimidate](skills_dir/intimidate#_intimidate) checks against evil creatures and on saving throws against becoming blinded or dazzled. This racial trait replaces the darkvision racial trait.
 
-**Heavenborn** : Born in the celestial realms, aasimars with this racial trait gain a +2 bonus on [Knowledge](skills/knowledge#_knowledge) (planes) checks and they cast spells with the good or light descriptor at +1 caster level. This racial trait replaces the skilled and spell-like ability racial traits.
+**Heavenborn** : Born in the celestial realms, aasimars with this racial trait gain a +2 bonus on [Knowledge](skills_dir/knowledge#_knowledge) (planes) checks and they cast spells with the good or light descriptor at +1 caster level. This racial trait replaces the skilled and spell-like ability racial traits.
 
-**Immortal Spark** : Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on [Knowledge](skill_dir/knowledge#_knowledge) (history) checks and saving throws against death effects and can use _ [lesser age resistance](ultimateMagic/spell_dir/ageResistance#_age-resistance,-lesser)_ once per day as a spell-like ability. This racial trait replaces the skilled and spell-like ability racial traits.
+**Immortal Spark** : Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on [Knowledge](skills_dir/knowledge#_knowledge) (history) checks and saving throws against death effects and can use _ [lesser age resistance](ultimateMagic_dir/spells_dir/ageResistance#_age-resistance,-lesser)_ once per day as a spell-like ability. This racial trait replaces the skilled and spell-like ability racial traits.
 
-**Incorruptible** : Occasionally, aasimars arise with the ability to further ward away evil. Aasimars with this racial trait can cast _ [corruption resistance](advanced/spell_dir/corruptionResistance#_corruption-resistance)_ against evil once per day as a spell-like ability. If an aasimar uses this ability on herself, the duration increases to 1 hour per level. This racial trait replaces the spell-like ability racial trait.
+**Incorruptible** : Occasionally, aasimars arise with the ability to further ward away evil. Aasimars with this racial trait can cast _ [corruption resistance](advanced_dir/spells_dir/corruptionResistance#_corruption-resistance)_ against evil once per day as a spell-like ability. If an aasimar uses this ability on herself, the duration increases to 1 hour per level. This racial trait replaces the spell-like ability racial trait.
 
-**Scion of Humanity** : Some aasimars' heavenly ancestry is extremely distant. An aasimar with this racial trait counts as an outsider (native) and a humanoid (human) for any effect related to race, including feat prerequisites and spells that affect humanoids. She can pass for human without using the [Disguise](skills/disguise#_disguise) skill. This racial trait replaces the Celestial language and alters the native subtype.
+**Scion of Humanity** : Some aasimars' heavenly ancestry is extremely distant. An aasimar with this racial trait counts as an outsider (native) and a humanoid (human) for any effect related to race, including feat prerequisites and spells that affect humanoids. She can pass for human without using the [Disguise](skills_dir/disguise#_disguise) skill. This racial trait replaces the Celestial language and alters the native subtype.
 
-**Truespeaker** : There are some aasimars whose language transcends all boundaries. They gain a +2 bonus on [Linguistics](skill_dir/linguistics#_linguistics) and [Sense Motive](skills/senseMotive#_sense-motive) checks, and they learn two languages each time they gain a rank in [Linguistics](skill_dir/linguistics#_linguistics). This racial trait replaces skilled.
+**Truespeaker** : There are some aasimars whose language transcends all boundaries. They gain a +2 bonus on [Linguistics](skills_dir/linguistics#_linguistics) and [Sense Motive](skills_dir/senseMotive#_sense-motive) checks, and they learn two languages each time they gain a rank in [Linguistics](skills_dir/linguistics#_linguistics). This racial trait replaces skilled.
 
 # Favored Class Options
 
 The following options are available to all aasimars who have the listed favored class, and unless otherwise stated, the bonus applies each time you select the favored class reward.
 
-**Bard** : Choose one bardic performance; treat the bard as +1/2 level higher when determining the effects of that performance.
+**Bard** : Choose one bardic performance; treat the bard as +1_dir/2 level higher when determining the effects of that performance.
 
-**Cavalier** : Add +1/4 to the cavalier's bonus on damage against targets of his challenge.
+**Cavalier** : Add +1_dir/4 to the cavalier's bonus on damage against targets of his challenge.
 
-**Cleric** : Add +1/2 to damage when using positive energy against undead or using [Alignment Channel](feats#_alignment-channel) to damage evil outsiders.
+**Cleric** : Add +1_dir/2 to damage when using positive energy against undead or using [Alignment Channel](feats#_alignment-channel) to damage evil outsiders.
 
-**Inquisitor** : Add +1/2 on [Intimidate](skill_dir/intimidate#_intimidate), [Knowledge](skills/knowledge#_knowledge), and [Sense Motive](skill_dir/senseMotive#_sense-motive) checks made against outsiders.
+**Inquisitor** : Add +1_dir/2 on [Intimidate](skills_dir/intimidate#_intimidate), [Knowledge](skills_dir/knowledge#_knowledge), and [Sense Motive](skills_dir/senseMotive#_sense-motive) checks made against outsiders.
 
-**Oracle** : Add +1/2 to the oracle's level for the purpose of determining the effects of one revelation.
+**Oracle** : Add +1_dir/2 to the oracle's level for the purpose of determining the effects of one revelation.
 
-**Paladin** : Add +1/6 to the morale bonus on saving throws provided by the paladin's auras.
+**Paladin** : Add +1_dir/6 to the morale bonus on saving throws provided by the paladin's auras.
 
-**Sorcerer** : Add +1/4 to the sorcerer's caster level when casting spells with the good descriptor.
+**Sorcerer** : Add +1_dir/4 to the sorcerer's caster level when casting spells with the good descriptor.
 
-**Summoner** : Add DR 1/evil to the summoner's eidolon. Each additional time the summoner selects this benefit, the DR/evil increases by +1/2 (maximum DR 10/evil).
+**Summoner** : Add DR 1_dir/evil to the summoner's eidolon. Each additional time the summoner selects this benefit, the DR_dir/evil increases by +1_dir/2 (maximum DR 10_dir/evil).
 
 # Racial Archetypes
 
@@ -94,19 +94,19 @@ The purifier seeks out signs of possession or mind control that manifest from un
 
 **Recommended Mysteries** : ancestor, battle, heavens, lore.
 
-**Bonus Spells** : _veil of heaven _(2nd),_ [confess](advance_dir/spells/confess#_confess)_ (4th), _ [cast out](advance_dir/spells/castOut#_cast-out) _(6th), _ [denounce](advance_dir/spells/denounce#_denounce) _(8th), _ [dispel evil](spell_dir/dispelEvil#_dispel-evil)_ (10th), _ [banishment](spells/banishment#_banishment) _(12th), _ [holy word](spell_dir/holyWord#_holy-word) _(14th), _ [mind blank](spells/mindBlank#_mind-blank) _(16th), _ [freedom](spell_dir/freedom#_freedom) _(18th).
+**Bonus Spells** : _veil of heaven _(2nd),_ [confess](advanced_dir/spells_dir/confess#_confess)_ (4th), _ [cast out](advanced_dir/spells_dir/castOut#_cast-out) _(6th), _ [denounce](advanced_dir/spells_dir/denounce#_denounce) _(8th), _ [dispel evil](spells_dir/dispelEvil#_dispel-evil)_ (10th), _ [banishment](spells_dir/banishment#_banishment) _(12th), _ [holy word](spells_dir/holyWord#_holy-word) _(14th), _ [mind blank](spells_dir/mindBlank#_mind-blank) _(16th), _ [freedom](spells_dir/freedom#_freedom) _(18th).
 
 **Diminished Spellcasting** : A purifier can use one fewer spell per day of each level and does not automatically learn cure or inflict spells. Her number of oracle spells known is unchanged.
 
 **Revelations** : A purifier must take the following revelations at the listed levels.
 
-> _See Sin (Sp):_ At 3rd level, a purifier gains a bonus equal to 1/2 her oracle level on [Sense Motive](skill_dir/senseMotive#_sense-motive) checks to sense enchantments, which she can make as a full-round action. She also gains a bonus equal to 1/2 her oracle level on [Spellcraft](skill_dir/spellcraft#_spellcraft) checks to identify enchantment school spells and spells with the curse or emotion descriptor (see page 251 of for spells in the and that have the curse or emotion descriptor).
+> _See Sin (Sp):_ At 3rd level, a purifier gains a bonus equal to 1_dir/2 her oracle level on [Sense Motive](skills_dir/senseMotive#_sense-motive) checks to sense enchantments, which she can make as a full-round action. She also gains a bonus equal to 1_dir/2 her oracle level on [Spellcraft](skills_dir/spellcraft#_spellcraft) checks to identify enchantment school spells and spells with the curse or emotion descriptor (see page 251 of for spells in the and that have the curse or emotion descriptor).
 > 
 > _Celestial Armor (Su): _At 7th level, a purifier's armor takes on a golden or silvery sheen and becomes light as a feather. Her armor weighs half as much as long as she wears it, and she also gains armor training as a fighter 4 levels lower than her oracle level. At 11th level, a purifier gains heavy armor proficiency.
 > 
 > _Sin Eater (Su):_ At 11th level, a purifier can consume a curse, enchantment, or emotion effect by touch as a full-round action. She can do this a number of times per day equal to her Charisma modifier, and must make a Charisma check with a bonus equal to her oracle level against a DC of 11 + the caster level of the effect (or the Hit Dice of the creator for a supernatural effect). If the check succeeds, the effect is negated; however, the purifier is sickened for 1d4 rounds.
 > 
-> If the target is possessed (such as by a _ [magic jar](spells/magicJar#_magic-jar) _effect or a ghost's malevolence ability), the possessor is forced out on a successful check. Whether the check succeeds or fails, the possessor is sickened for 2d4 rounds.
+> If the target is possessed (such as by a _ [magic jar](spells_dir/magicJar#_magic-jar) _effect or a ghost's malevolence ability), the possessor is forced out on a successful check. Whether the check succeeds or fails, the possessor is sickened for 2d4 rounds.
 
 **Sacred Scourge (Su)** : At 5th level, a purifier may channel holy power to harm evil outsiders as a cleric of her level using the [Alignment Channel](feats#_alignment-channel) feat. She may use this ability a number of times per day equal to 1 + her Charisma modifier.
 
@@ -118,19 +118,19 @@ The purifier seeks out signs of possession or mind control that manifest from un
 
 A tranquil guardian is a missionary of peace and tranquility, a soothing voice of succor in a violent and dangerous world. A tranquil guardian gains the following class features.
 
-**[Touch of Serenity](advance_dir/advancedFeats#_touch-of-serenity) (Su)** : At 1st level, a tranquil guardian gains [Touch of Serenity](advanced/advancedFeats#_touch-of-serenity) as a bonus feat, even if she does not meet the prerequisites. At 6th level, and every six levels thereafter, the duration of a tranquil guardian's [Touch of Serenity](advance_dir/advancedFeats#_touch-of-serenity) increases by 1 round. Each round on its turn, the target may attempt a new Will save to end the effect. The duration does not stack; only the longest remaining duration applies. This ability replaces smite evil.
+**[Touch of Serenity](advanced_dir/advancedFeats#_touch-of-serenity) (Su)** : At 1st level, a tranquil guardian gains [Touch of Serenity](advanced_dir/advancedFeats#_touch-of-serenity) as a bonus feat, even if she does not meet the prerequisites. At 6th level, and every six levels thereafter, the duration of a tranquil guardian's [Touch of Serenity](advanced_dir/advancedFeats#_touch-of-serenity) increases by 1 round. Each round on its turn, the target may attempt a new Will save to end the effect. The duration does not stack; only the longest remaining duration applies. This ability replaces smite evil.
 
-**Serene Strike (Su)** : At 3rd level, when a tranquil guardian confirms a critical hit, she may convert all damage from her attack to nonlethal damage, and when she does, she can activate [Touch of Serenity](advanced/advancedFeats#_touch-of-serenity) through her weapon or unarmed strike. Using serene strike is a free action. This ability replaces aura of courage.
+**Serene Strike (Su)** : At 3rd level, when a tranquil guardian confirms a critical hit, she may convert all damage from her attack to nonlethal damage, and when she does, she can activate [Touch of Serenity](advanced_dir/advancedFeats#_touch-of-serenity) through her weapon or unarmed strike. Using serene strike is a free action. This ability replaces aura of courage.
 
-**Divine Bond (Su)** : A tranquil guardian who chooses a weapon as her divine bond may only increase her weapon's enhancement bonus or add the following properties to her weapon: _ [conductive](advance_dir/magicItems/weapons#_conductive), [defending](magicItem_dir/weapons#_weapons-defending), disruptive, [grayflame](advanced/magicItem_dir/weapons#_grayflame)_ _, _or _ [merciful](magicItems/weapons#_weapons-merciful)_.
+**Divine Bond (Su)** : A tranquil guardian who chooses a weapon as her divine bond may only increase her weapon's enhancement bonus or add the following properties to her weapon: _ [conductive](advanced_dir/magicItems_dir/weapons#_conductive), [defending](magicItems_dir/weapons#_weapons-defending), disruptive, [grayflame](advanced_dir/magicItems_dir/weapons#_grayflame)_ _, _or _ [merciful](magicItems_dir/weapons#_weapons-merciful)_.
 
 **Aura of Calm (Su)** : At 8th level, a tranquil guardian is immune to all spells and spell-like abilities with the emotion descriptor, as well as all fear effects. Each ally within 10 feet of her gains a +4 morale bonus on saving throws against these effects.
 
 This ability functions only while the tranquil guardian is conscious, not if she is unconscious or dead. This ability replaces aura of resolve.
 
-**Waves of Peace (Su)** : At 11th level, a tranquil guardian may expend 2 uses of her [Touch of Serenity](advance_dir/advancedFeats#_touch-of-serenity) to affect each opponent within 5 feet of her with that effect. She does not need to touch the creature for the effect to take hold. This ability replaces aura of justice.
+**Waves of Peace (Su)** : At 11th level, a tranquil guardian may expend 2 uses of her [Touch of Serenity](advanced_dir/advancedFeats#_touch-of-serenity) to affect each opponent within 5 feet of her with that effect. She does not need to touch the creature for the effect to take hold. This ability replaces aura of justice.
 
-**Apostle of Peace (Su)** : At 20th level, a tranquil guardian's DR increases to 10/evil, and whenever she channels positive energy or uses lay on hands to heal, she heals the maximum possible amount. In addition, any creature struck by her [Touch of Serenity](advance_dir/advancedFeats#_touch-of-serenity), even if it saves, must make an additional Will save (DC 10 + 1/2 her tranquil guardian level + her Charisma modifier) the next time it tries to attack. If it fails this save, the attack (including spells or special abilities) automatically fails. This ability replaces holy champion.
+**Apostle of Peace (Su)** : At 20th level, a tranquil guardian's DR increases to 10_dir/evil, and whenever she channels positive energy or uses lay on hands to heal, she heals the maximum possible amount. In addition, any creature struck by her [Touch of Serenity](advanced_dir/advancedFeats#_touch-of-serenity), even if it saves, must make an additional Will save (DC 10 + 1_dir/2 her tranquil guardian level + her Charisma modifier) the next time it tries to attack. If it fails this save, the attack (including spells or special abilities) automatically fails. This ability replaces holy champion.
 
 # New Racial Rules
 
@@ -146,7 +146,7 @@ Aasimars have access to the following equipment.
 
 **Celestial Censer** : This blessed thurible holds up to 10 pieces of incense, and burns at a rate of 1 stick per hour. If a smokestick is added to the incense in the censer while it burns, creatures with the evil subtype are dazzled for as long as they remain within the area of the resulting smoke.
 
-**Celestial Lamp** : This polished lantern contains a _ [continual flame](spell_dir/continualFlame#_continual-flame) _and sheds light as a common lamp. If its font of consecrated crystal and metalwork is filled with holy water, the lamp's light is sanctified for 24 hours, adding a +1 bonus to the save DC of channeled positive energy or energy channeled to harm evil outsiders within a 30-foot radius.
+**Celestial Lamp** : This polished lantern contains a _ [continual flame](spells_dir/continualFlame#_continual-flame) _and sheds light as a common lamp. If its font of consecrated crystal and metalwork is filled with holy water, the lamp's light is sanctified for 24 hours, adding a +1 bonus to the save DC of channeled positive energy or energy channeled to harm evil outsiders within a 30-foot radius.
 
 **Incense** : This aromatic resin, imbued with fragrant oils, is often formed into sticks, cones, or balls and burned in ceremonies or during meditation. A piece of incense burns for 1 hour.
 
@@ -169,7 +169,7 @@ Feathered wings sprout from your back.
 
 **Prerequisites** : Angelic Blood, aasimar, character level 10th.
 
-**Benefit** : You gain a pair of gleaming feathered wings that grant a fly speed of 30 feet (average maneuverability) if wearing light armor or unencumbered, or 20 feet (poor maneuverability) with a medium or heavy load or medium or heavy armor. [Fly](skills/fly#_fly) is a class skill for you.
+**Benefit** : You gain a pair of gleaming feathered wings that grant a fly speed of 30 feet (average maneuverability) if wearing light armor or unencumbered, or 20 feet (poor maneuverability) with a medium or heavy load or medium or heavy armor. [Fly](skills_dir/fly#_fly) is a class skill for you.
 
 ### Angelic Blood
 
@@ -185,7 +185,7 @@ Your skin shines like burnished metal.
 
 **Prerequisites** : Angelic Blood, aasimar.
 
-**Benefit** : You take a –2 penalty on [Disguise](skill_dir/disguise#_disguise) and [Stealth](skills/stealth#_stealth) checks but gain one of the following benefits, depending on the metallic affinity of your flesh (choose one).
+**Benefit** : You take a –2 penalty on [Disguise](skills_dir/disguise#_disguise) and [Stealth](skills_dir/stealth#_stealth) checks but gain one of the following benefits, depending on the metallic affinity of your flesh (choose one).
 
 _Brazen: _You gain fire resistance 5 and a +2 bonus on saves against fire effects.
 
@@ -201,7 +201,7 @@ Rather than being a normal animal or beast, your companion or familiar hails fro
 
 **Prerequisites** : Aasimar, animal companion, familiar, or mount class feature.
 
-**Benefit** : Your animal companion, familiar, or mount gains the celestial template and becomes a magical beast, though you may still treat it as an animal when using [Handle Animal](skill_dir/handleAnimal#_handle-animal), wild empathy, or any other spells or class abilities that specifically affect animals.
+**Benefit** : Your animal companion, familiar, or mount gains the celestial template and becomes a magical beast, though you may still treat it as an animal when using [Handle Animal](skills_dir/handleAnimal#_handle-animal), wild empathy, or any other spells or class abilities that specifically affect animals.
 
 ### Channel Force
 
@@ -223,22 +223,22 @@ Your eruptions of divine power move your enemies.
 
 Your heavenly light can be used in a variety of ways.
 
-**Prerequisites** : Aasimar, _ [daylight](spells/daylight#_daylight) _spell-like ability, sufficiently high level (see below).
+**Prerequisites** : Aasimar, _ [daylight](spells_dir/daylight#_daylight) _spell-like ability, sufficiently high level (see below).
 
-**Benefit** : You gain one additional use per day of _ [daylight](spell_dir/daylight#_daylight). C_hoose one spell from the table below; by expending a use of _ [daylight](spells/daylight#_daylight)_, you may use this spell as a spell-like ability. To select a spell, you must meet the minimum character level for its listing in the table. The save DC for this spell is Charisma-based.
+**Benefit** : You gain one additional use per day of _ [daylight](spells_dir/daylight#_daylight). C_hoose one spell from the table below; by expending a use of _ [daylight](spells_dir/daylight#_daylight)_, you may use this spell as a spell-like ability. To select a spell, you must meet the minimum character level for its listing in the table. The save DC for this spell is Charisma-based.
 
   
   
 
 | Spell-Like Ability | Minimum Character Level |
 | --- | --- |
-| _ [Flare burst](advance_dir/spells/flareBurst#_flare-burst)_ | 1st |
-| _ [Wake of light](advance_dir/spells/wakeOfLight#_wake-of-light-)_ | 3rd |
-| _ [Searing light](spell_dir/searingLight#_searing-light)_ | 5th |
-| _ [Wandering star motes](advanced/spell_dir/wanderingStarMotes#_wandering-star-motes)_ | 7th |
-| _ [Sunbeam](spells/sunbeam#_sunbeam) _(one beam only) | 9th |
+| _ [Flare burst](advanced_dir/spells_dir/flareBurst#_flare-burst)_ | 1st |
+| _ [Wake of light](advanced_dir/spells_dir/wakeOfLight#_wake-of-light-)_ | 3rd |
+| _ [Searing light](spells_dir/searingLight#_searing-light)_ | 5th |
+| _ [Wandering star motes](advanced_dir/spells_dir/wanderingStarMotes#_wandering-star-motes)_ | 7th |
+| _ [Sunbeam](spells_dir/sunbeam#_sunbeam) _(one beam only) | 9th |
 
-**Special** : You may take this feat multiple times. Each time you select it, you gain an additional use of _ [daylight](spell_dir/daylight#_daylight)_ and may select another spell from the table.
+**Special** : You may take this feat multiple times. Each time you select it, you gain an additional use of _ [daylight](spells_dir/daylight#_daylight)_ and may select another spell from the table.
 
 ### Improved Channel Force
 
@@ -268,11 +268,11 @@ Celestial Shield
 
 Description
 
-This bright silver or gold _+2 [blinding](magicItems/armor#_armor-blinding) heavy steel [shield](spell_dir/shield#_shield) _is impossibly light and handy despite its size. It has no armor check penalty or arcane spell failure chance, and it allows the wielder to use _ [feather fall](spells/featherFall#_feather-fall) _on himself once per day. A creature wearing _celestial armor _while wielding a _celestial [shield](spell_dir/shield#_shield) _may command the armor to provide _ [overland flight](spells/overlandFlight#_overland-flight) _rather than _ [fly](spell_dir/fly) _once per day.
+This bright silver or gold _+2 [blinding](magicItems_dir/armor#_armor-blinding) heavy steel [shield](spells_dir/shield#_shield) _is impossibly light and handy despite its size. It has no armor check penalty or arcane spell failure chance, and it allows the wielder to use _ [feather fall](spells_dir/featherFall#_feather-fall) _on himself once per day. A creature wearing _celestial armor _while wielding a _celestial [shield](spells_dir/shield#_shield) _may command the armor to provide _ [overland flight](spells_dir/overlandFlight#_overland-flight) _rather than _ [fly](spells_dir/fly) _once per day.
 
 Construction
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [feather fall](spells/featherFall#_feather-fall), [overland flight](spell_dir/overlandFlight#_overland-flight)_; **Cost** 6,670 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [feather fall](spells_dir/featherFall#_feather-fall), [overland flight](spells_dir/overlandFlight#_overland-flight)_; **Cost** 6,670 gp
 
 Elysian Shield
 
@@ -282,11 +282,11 @@ Elysian Shield
 
 Description
 
-This _+2 [ghost touch](magicItems/weapons#_weapons-ghost-touch) tower [shield](spell_dir/shield#_shield) _is engraved with funerary runes depicting the peaceful rest of the contented dead. The wielder of an _elysian [shield](spells/shield#_shield)_ is immune to the create spawn ability of undead, and once per day as an immediate action can negate a single energy drain, ability drain, or ability damage attack by an undead creature. In addition, once per day as a standard action, the wielder can release a wave of positive energy that panics undead, as the [Turn Undead](feats#_turn-undead) feat (DC 20 Will negates).
+This _+2 [ghost touch](magicItems_dir/weapons#_weapons-ghost-touch) tower [shield](spells_dir/shield#_shield) _is engraved with funerary runes depicting the peaceful rest of the contented dead. The wielder of an _elysian [shield](spells_dir/shield#_shield)_ is immune to the create spawn ability of undead, and once per day as an immediate action can negate a single energy drain, ability drain, or ability damage attack by an undead creature. In addition, once per day as a standard action, the wielder can release a wave of positive energy that panics undead, as the [Turn Undead](feats#_turn-undead) feat (DC 20 Will negates).
 
 Construction
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), [Turn Undead](feats#_turn-undead), _ [death ward](spell_dir/deathWard#_death-ward), [etherealness](magicItems/armor#_armor-etherealness)_; **Cost** 26,390 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), [Turn Undead](feats#_turn-undead), _ [death ward](spells_dir/deathWard#_death-ward), [etherealness](magicItems_dir/armor#_armor-etherealness)_; **Cost** 26,390 gp
 
 Halo of Menace
 
@@ -300,7 +300,7 @@ When placed over the head, this halo of shimmering polished steel floats above i
 
 CONSTRUCTION
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), order's wrath, creator must be an aasimar or an [archon](monster_dir/creatureTypes#_archon-subtype); Cost 42,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), order's wrath, creator must be an aasimar or an [archon](monsters_dir/creatureTypes#_archon-subtype); Cost 42,000 gp
 
 ## Aasimar Spells
 
@@ -314,11 +314,11 @@ Sacred Space
 
 **Components** V, S, M (a vial of ambrosia)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Area** 20-ft.-radius emanation
 
-**Duration** 2 hour_dir/level
+**Duration** 2 hours_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -326,7 +326,7 @@ This spell sanctifies an area with heavenly power. The DC to resist spells or sp
 
 Truespeak
 
-**School** divination; **Level** bard 4, cleric 6, sorcerer/wizard 5, witch 5
+**School** divination; **Level** bard 4, cleric 6, sorcerer_dir/wizard 5, witch 5
 
 **Casting Time** 1 standard action
 
@@ -336,7 +336,7 @@ Truespeak
 
 **Target** you
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 You can communicate with any creature that is not mindless. As long as you can be heard, your speech is understandable to all creatures, each of which hears you as though you were conversing in its language or other natural mode of communication, and you hear their responses as though in your own native language. You may ask questions and receive answers, though this spell does not make creatures more friendly or cooperative than normal, and non-sentient creatures may give limited responses. While using _truespeak, _your language-dependent effects can affect any creature that is not mindless.
 
@@ -352,7 +352,7 @@ Veil of Heaven
 
 **Target** you or all creatures within 5 ft.; see text
 
-**Duration** 10 minutes/level (D)
+**Duration** 10 minutes_dir/level (D)
 
 **Saving Throw** Will half; **Spell Resistance** none
 

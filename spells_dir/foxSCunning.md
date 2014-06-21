@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/foxSCunning
+title: spells_dir/foxSCunning
 ---
  **Fox's Cunning**
 
-**School** transmutation; **Level** bard 2, sorcerer/wizard 2
+**School** transmutation; **Level** bard 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (hairs or dung from a fox)
+**Components** V, S, M_dir/DF (hairs or dung from a fox)
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes
 
@@ -22,11 +22,11 @@ The target becomes smarter. The spell grants a +4 enhancement bonus to [Intellig
 
 **Fox's Cunning, Mass**
 
-**School** transmutation; **Level** bard 6, sorcere_dir/wizard 6
+**School** transmutation; **Level** bard 6, sorcerer_dir/wizard 6
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one creatur_dir/level, no two of which can be more than 30 ft. apart
+**Target** one creature_dir/level, no two of which can be more than 30 ft. apart
 
 This spell functions like _fox's cunning_, except that it affects multiple creatures.
 

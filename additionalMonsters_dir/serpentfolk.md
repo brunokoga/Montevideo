@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/serpentfolk
+title: additionalMonsters_dir/serpentfolk
 ---
 # Serpentfolk
 
@@ -10,9 +10,9 @@ This serpentine humanoid has bright scaly skin, a long sinuous tail, and a fange
 
 **XP 1,200**
 
-NE Medium [monstrous humanoid](monsters/creatureTypes#_monstrous-humanoid)
+NE Medium [monstrous humanoid](monsters_dir/creatureTypes#_monstrous-humanoid)
 
-**Init** +9; **Senses** darkvision 60 ft., [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +10
+**Init** +9; **Senses** darkvision 60 ft., [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10
 
 Defense
 
@@ -22,19 +22,19 @@ Defense
 
 **Fort** +6, **Ref** +9, **Will** +6
 
-**Immune** mind-affecting effects, paralysis, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **SR** 15
+**Immune** mind-affecting effects, paralysis, [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **SR** 15
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** mwk dagger +11 (1d4–1/19–20), bite +5 (1d6–1 plus [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** mwk dagger +11 (1d4–1_dir/19–20), bite +5 (1d6–1 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Spell-Like Abilities** (CL 4th; concentration +7)
 
-At will—_ [disguise self](additionalMonsters/../spell_dir/disguiseSelf#_disguise-self)_ (humanoid form only, DC 14), _ [ventriloquism](additionalMonsters/../spell_dir/ventriloquism#_ventriloquism)_
+At will—_ [disguise self](additionalMonsters_dir/../spells_dir/disguiseSelf#_disguise-self)_ (humanoid form only, DC 14), _ [ventriloquism](additionalMonsters_dir/../spells_dir/ventriloquism#_ventriloquism)_
 
-1/day—_ [blur](additionalMonster_dir/../spell_dir/blur#_blur)_, _ [mirror image](additionalMonsters/../spell_dir/mirrorImage#_mirror-image)_, _ [suggestion](additionalMonsters/../spell_dir/suggestion#_suggestion)_ (DC 16)
+1_dir/day—_ [blur](additionalMonsters_dir/../spells_dir/blur#_blur)_, _ [mirror image](additionalMonsters_dir/../spells_dir/mirrorImage#_mirror-image)_, _ [suggestion](additionalMonsters_dir/../spells_dir/suggestion#_suggestion)_ (DC 16)
 
 Statistics
 
@@ -42,9 +42,9 @@ Statistics
 
 **Base Atk** +5; **CMB** +4; **CMD** 19
 
-**Feats** [Great Fortitude](additionalMonsters/../feats#_great-fortitude), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
+**Feats** [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +10, [Disguise](additionalMonsters/../skill_dir/disguise#_disguise) +8, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +18, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (arcana) +9, [Perception](additionalMonsters/../skill_dir/perception#_perception) +10, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +7, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft) +9, [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device) +12; **Racial Modifiers** +4 [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device), +8 [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist)
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +10, [Disguise](additionalMonsters_dir/../skills_dir/disguise#_disguise) +8, [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +18, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (arcana) +9, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +7, [Spellcraft](additionalMonsters_dir/../skills_dir/spellcraft#_spellcraft) +9, [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) +12; **Racial Modifiers** +4 [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device), +8 [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist)
 
 **Languages** Aklo, Common, Draconic, Undercommon; telepathy 100 ft.
 
@@ -58,7 +58,7 @@ Ecology
 
 Special Abilities
 
-**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str; _cure_ 2 saves. The save DC is Constitution-based.
+**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 15; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d2 Str; _cure_ 2 saves. The save DC is Constitution-based.
 
 To the serpentfolk, the pursuit of knowledge and magic is the highest goal. Their legends speak of how humanity rose to power only through the theft of serpent magic, a legend that may form the basis of the hatred toward humanity most serpentfolk harbor. They view themselves as the undisputed masters of magic, be it arcane or divine. Yet despite this, the majority of serpentfolk today are degenerates who have devolved to the point of primeval savagery and have lost much of their magical legacy—more civilized serpentfolk generally regard these degenerates with shame and disdain.
 
@@ -69,8 +69,8 @@ Advanced Serpentfolk
 When a serpentfolk gains class levels, several of its abilities increase as well, as detailed below.
 
 - Spell Resistance equals total Hit Dice + 10.
-- Poison bite save DC equals 10 + Con modifier + 1/2 total Hit Dice.
-- When it is 4th level in any class combination, it gains two spell-like abilities usable once per day each: _ [dominate person](additionalMonster_dir/../spell_dir/dominatePerson#_dominate-person)_ and _ [major image](additionalMonsters/../spell_dir/majorImage#_major-image)_. When it reaches 9th level in any combination, it gains two more usable once per day each: _ [mass suggestion](additionalMonsters/../spell_dir/suggestion#_suggestion-mass)_ and _ [teleport](additionalMonsters/../spell_dir/teleport#_teleport)._
+- Poison bite save DC equals 10 + Con modifier + 1_dir/2 total Hit Dice.
+- When it is 4th level in any class combination, it gains two spell-like abilities usable once per day each: _ [dominate person](additionalMonsters_dir/../spells_dir/dominatePerson#_dominate-person)_ and _ [major image](additionalMonsters_dir/../spells_dir/majorImage#_major-image)_. When it reaches 9th level in any combination, it gains two more usable once per day each: _ [mass suggestion](additionalMonsters_dir/../spells_dir/suggestion#_suggestion-mass)_ and _ [teleport](additionalMonsters_dir/../spells_dir/teleport#_teleport)._
 - A serpentfolk's racial ability score modifiers are as follows: Str –2, Dex +10, Con +6, Int +8, Wis +4, Cha +6.
 
 Degenerate Serpentfolk
@@ -78,7 +78,7 @@ Degenerate Serpentfolk
 Degenerate serpentfolk possess the same statistics as normal serpentfolk, save for the following adjustments.
 
 - They have no spell-like abilities.
-- They lose the +4 racial bonus on [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device) checks, but gain a +4 racial bonus on [Perception](additionalMonsters/../skill_dir/perception#_perception) checks.
+- They lose the +4 racial bonus on [Use Magic Device](additionalMonsters_dir/../skills_dir/useMagicDevice#_use-magic-device) checks, but gain a +4 racial bonus on [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) checks.
 - Their natural armor bonus increases from +3 to +7.
 - They have the following ability score modifiers: Str +10, Dex +2, Con +8, Int –6 (minimum 3), Wis +2, Cha –4. A typical degenerate serpentfolk's ability scores are Str 20, Dex 13, Con 19, Int 4, Wis 13, Cha 6.
 

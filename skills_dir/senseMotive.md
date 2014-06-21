@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skill_dir/senseMotive
+title: skills_dir/senseMotive
 ---
 # Sense Motive
 

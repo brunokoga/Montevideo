@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/transmogrify
+title: advanced_dir/spells_dir/transmogrify
 ---
  **Transmogrify**
 

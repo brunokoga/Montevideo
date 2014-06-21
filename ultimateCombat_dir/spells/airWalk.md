@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/airWalk
+title: ultimateCombat_dir/spells_dir/airWalk
 ---
 Air Walk, Communal
 
@@ -8,5 +8,5 @@ Air Walk, Communal
 
 **Target** creatures touched
 
-This spell functions like _ [air walk](spell_dir/airWalk#_air-walk)_, except divide the duration in 10-minute intervals among the creatures touched.
+This spell functions like _ [air walk](spells_dir/airWalk#_air-walk)_, except divide the duration in 10-minute intervals among the creatures touched.
 

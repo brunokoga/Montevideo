@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/kirin
+title: bestiary3_dir/kirin
 ---
 # Kirin
 
@@ -10,9 +10,9 @@ Kirin CR 7
 
 XP 3,200
 
-LG Large magical beast ( [air](monster_dir/creatureTypes#_air-subtype))
+LG Large magical beast ( [air](monsters_dir/creatureTypes#_air-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., _ [detect evil](spells/detectEvil#_detect-evil)_, low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +17
+**Init** +6; **Senses** darkvision 60 ft., _ [detect evil](spells_dir/detectEvil#_detect-evil)_, low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +17
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +10, **Ref** +12, **Will** +10
 
-**Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 10, electricity 30, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 18
+**Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10, electricity 30, [fire](monsters_dir/creatureTypes#_fire-subtype) 10; **SR** 18
 
 Offense
 
@@ -32,25 +32,25 @@ Offense
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [breath weapon](monster_dir/universalMonsterRules#_breath-weapon) (15-ft. cone, 5d6 [fire](monsters/creatureTypes#_fire-subtype) damage, Reflex DC 18 for half, usable every 1d4 rounds), [powerful charge](monster_dir/universalMonsterRules#_powerful-charge) (gore, 2d8+14)
+**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (15-ft. cone, 5d6 [fire](monsters_dir/creatureTypes#_fire-subtype) damage, Reflex DC 18 for half, usable every 1d4 rounds), [powerful charge](monsters_dir/universalMonsterRules#_powerful-charge) (gore, 2d8+14)
 
 **Spell-Like Abilities** (CL 9th; concentration +15)
 
-Constant—_ [detect evil](spells/detectEvil#_detect-evil), [water walk](spell_dir/waterWalk#_water-walk)_
+Constant—_ [detect evil](spells_dir/detectEvil#_detect-evil), [water walk](spells_dir/waterWalk#_water-walk)_
 
-At will—_ [gaseous form](spells/gaseousForm#_gaseous-form)_, _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind)_
+At will—_ [gaseous form](spells_dir/gaseousForm#_gaseous-form)_, _ [gust of wind](spells_dir/gustOfWind#_gust-of-wind)_
 
-1/day—_ [break enchantment](spell_dir/breakEnchantment#_break-enchantment)_, _ [create food and water](spells/createFoodAndWater#_create-food-and-water)_, _ [major creation](spell_dir/majorCreation#_major-creation), [wind walk](spells/windWalk#_wind-walk)_ (self only)
+1_dir/day—_ [break enchantment](spells_dir/breakEnchantment#_break-enchantment)_, _ [create food and water](spells_dir/createFoodAndWater#_create-food-and-water)_, _ [major creation](spells_dir/majorCreation#_major-creation), [wind walk](spells_dir/windWalk#_wind-walk)_ (self only)
 
 **Spells Known** (CL 6th; concentration +12)
 
-3rd (4/day)—_ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt)_ (DC 19)
+3rd (4_dir/day)—_ [lightning bolt](spells_dir/lightningBolt#_lightning-bolt)_ (DC 19)
 
-2nd (7/day)—_ [lesser restoration](spell_dir/restoration#_restoration-lesser)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_
+2nd (7_dir/day)—_ [lesser restoration](spells_dir/restoration#_restoration-lesser)_, _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_
 
-1st (8/day)—_ [color spray](spell_dir/colorSpray#_color-spray)_ (DC 17),_ [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_, _ [disguise self](spell_dir/disguiseSelf#_disguise-self)_, _ [remove fear](spells/removeFear#_remove-fear)_, _ [sanctuary](spell_dir/sanctuary#_sanctuary)_ (DC 17)
+1st (8_dir/day)—_ [color spray](spells_dir/colorSpray#_color-spray)_ (DC 17),_ [cure light wounds](spells_dir/cureLightWounds#_cure-light-wounds)_, _ [disguise self](spells_dir/disguiseSelf#_disguise-self)_, _ [remove fear](spells_dir/removeFear#_remove-fear)_, _ [sanctuary](spells_dir/sanctuary#_sanctuary)_ (DC 17)
 
-0 (at will)—_ [arcane mark](spells/arcaneMark#_arcane-mark)_, _ [create water](spell_dir/createWater#_create-water)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [guidance](spell_dir/guidance#_guidance)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [mending](spell_dir/mending#_mending)_, _ [stabilize](spells/stabilize#_stabilize)_
+0 (at will)—_ [arcane mark](spells_dir/arcaneMark#_arcane-mark)_, _ [create water](spells_dir/createWater#_create-water)_, _ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [guidance](spells_dir/guidance#_guidance)_, _ [mage hand](spells_dir/mageHand#_mage-hand)_, _ [mending](spells_dir/mending#_mending)_, _ [stabilize](spells_dir/stabilize#_stabilize)_
 
 Statistics
 
@@ -58,9 +58,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +15; **CMD** 31 (35 vs. trip)
 
-**Feats** [Combat Casting](feats#_combat-casting), [Eschew Materials](feats#_eschew-materials)B, [Flyby Attack](monster_dir/monsterFeats#_flyby-attack), [Hover](monsters/monsterFeats#_hover), [Iron Will](feats#_iron-will), [Weapon Focus](feats#_weapon-focus) (gore)
+**Feats** [Combat Casting](feats#_combat-casting), [Eschew Materials](feats#_eschew-materials)B, [Flyby Attack](monsters_dir/monsterFeats#_flyby-attack), [Hover](monsters_dir/monsterFeats#_hover), [Iron Will](feats#_iron-will), [Weapon Focus](feats#_weapon-focus) (gore)
 
-**Skills** [Diplomacy](skill_dir/diplomacy#_diplomacy) +15, [Fly](skills/fly#_fly) +20, [Knowledge](skill_dir/knowledge#_knowledge) (history) +13, [Perception](skills/perception#_perception) +17, [Perform](skill_dir/perform#_perform) (sing) +15, [Sense Motive](skills/senseMotive#_sense-motive) +14
+**Skills** [Diplomacy](skills_dir/diplomacy#_diplomacy) +15, [Fly](skills_dir/fly#_fly) +20, [Knowledge](skills_dir/knowledge#_knowledge) (history) +13, [Perception](skills_dir/perception#_perception) +17, [Perform](skills_dir/perform#_perform) (sing) +15, [Sense Motive](skills_dir/senseMotive#_sense-motive) +14
 
 **Languages** Abyssal, Auran, Celestial, Common, Draconic; telepathy 100 ft.
 

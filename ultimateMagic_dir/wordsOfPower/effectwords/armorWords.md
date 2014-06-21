@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/armorWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/armorWords
 ---
 ## Armor Words
 
@@ -8,7 +8,7 @@ These words create translucent armor made of solid magic, protecting without wei
 
 Force Block (Armor)
 
-**School** abjuration; **Level** cleric 0, magus 0, sorcerer/wizard 0, summoner 0
+**School** abjuration; **Level** cleric 0, magus 0, sorcerer_dir/wizard 0, summoner 0
 
 **Duration** 1 round
 
@@ -22,9 +22,9 @@ The target of a wordspell with this effect word receives a +1 armor bonus to its
 
 Force Shield (Armor)
 
-**School** abjuration; **Level** alchemist 1, magus 1, sorcere_dir/wizard 1, summoner 1, witch 1
+**School** abjuration; **Level** alchemist 1, magus 1, sorcerer_dir/wizard 1, summoner 1, witch 1
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 
@@ -34,9 +34,9 @@ The target of a wordspell with this effect word receives a +4 armor bonus to its
 
 Force Armor (Armor)
 
-**School** abjuration; **Level** cleric 3, magus 3, sorcere_dir/wizard 3, witch 3
+**School** abjuration; **Level** cleric 3, magus 3, sorcerer_dir/wizard 3, witch 3
 
-**Duration** 10 minutes/level
+**Duration** 10 minutes_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 
@@ -46,9 +46,9 @@ The target of a wordspell with this effect word receives a +4 armor bonus to its
 
 Force Ward (Armor)
 
-**School** abjuration; **Level** magus 6, sorcere_dir/wizard 6
+**School** abjuration; **Level** magus 6, sorcerer_dir/wizard 6
 
-**Duration** 10 minutes/level
+**Duration** 10 minutes_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 

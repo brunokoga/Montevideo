@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/summoningWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/summoningWords
 ---
 ## Summoning Words
 
@@ -8,9 +8,9 @@ These words summon creatures from other planes of existence to do the caster's b
 
 Servitor I (Summoning)
 
-**School** conjuration (summoning); **Level** bard 1, cleric 1, druid 1, ranger 1, sorcerer/wizard 1, summoner 1, witch 1
+**School** conjuration (summoning); **Level** bard 1, cleric 1, druid 1, ranger 1, sorcerer_dir/wizard 1, summoner 1, witch 1
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -26,97 +26,97 @@ If you combine this word with any other effect words, the summoned creature is t
 
 Servitor II (Summoning)
 
-**School** conjuration (summoning); **Level** bard 2, cleric 2, druid 2, ranger 2, sorcerer/wizard 2, summoner 2, witch 2
+**School** conjuration (summoning); **Level** bard 2, cleric 2, druid 2, ranger 2, sorcerer_dir/wizard 2, summoner 2, witch 2
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
 **Target Restrictions** _selected_
 
-This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells/summonMonster#_table-10-1-summon-monster) from the 2nd-level list. If a wordspell with this effect word is cast by a ranger or druid, it instead summons a creature from the [summon nature's ally table](spell_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 2nd-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
+This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells_dir/summonMonster#_table-10-1-summon-monster) from the 2nd-level list. If a wordspell with this effect word is cast by a ranger or druid, it instead summons a creature from the [summon nature's ally table](spells_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 2nd-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
 
 Servitor III (Summoning)
 
-**School** conjuration (summoning); **Level** bard 3, cleric 3, druid 3, ranger 3, sorcerer/wizard 3, witch 3
+**School** conjuration (summoning); **Level** bard 3, cleric 3, druid 3, ranger 3, sorcerer_dir/wizard 3, witch 3
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
 **Target Restrictions** _selected_
 
-This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells/summonMonster#_table-10-1-summon-monster) from the 3rd-level list. If a wordspell with this effect word is cast by a ranger or druid, it instead summons a creature from the [summon nature's ally table](spell_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 3rd-level list. If the target word is boosted, a spell with this effect word summons 1d4+1 of the chosen creatures.
+This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells_dir/summonMonster#_table-10-1-summon-monster) from the 3rd-level list. If a wordspell with this effect word is cast by a ranger or druid, it instead summons a creature from the [summon nature's ally table](spells_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 3rd-level list. If the target word is boosted, a spell with this effect word summons 1d4+1 of the chosen creatures.
 
 Servitor IV (Summoning)
 
-**School** conjuration (summoning); **Level** bard 4, cleric 4, druid 4, ranger 4, sorcerer/wizard 4, summoner 3, witch 4
+**School** conjuration (summoning); **Level** bard 4, cleric 4, druid 4, ranger 4, sorcerer_dir/wizard 4, summoner 3, witch 4
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
 **Target Restrictions** _selected_
 
-This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells/summonMonster#_table-10-1-summon-monster) from the 4th-level list. If a wordspell with this effect word is cast by a ranger or druid, it instead summons a creature from the [summon nature's ally table](spell_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 4th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
+This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells_dir/summonMonster#_table-10-1-summon-monster) from the 4th-level list. If a wordspell with this effect word is cast by a ranger or druid, it instead summons a creature from the [summon nature's ally table](spells_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 4th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
 
 Servitor V (Summoning)
 
-**School** conjuration (summoning); **Level** bard 5, cleric 5, druid 5, sorcerer/wizard 5, witch 5
+**School** conjuration (summoning); **Level** bard 5, cleric 5, druid 5, sorcerer_dir/wizard 5, witch 5
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
 **Target Restrictions** _selected_
 
-This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells/summonMonster#_table-10-1-summon-monster) from the 5th-level list. If a wordspell with this effect word is cast by a druid, it instead summons a creature from the [summon nature's ally table](spell_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 5th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
+This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells_dir/summonMonster#_table-10-1-summon-monster) from the 5th-level list. If a wordspell with this effect word is cast by a druid, it instead summons a creature from the [summon nature's ally table](spells_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 5th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
 
 Servitor VI (Summoning)
 
-**School** conjuration (summoning); **Level** bard 6, cleric 6, druid 6, sorcerer/wizard 6, summoner 4, witch 6
+**School** conjuration (summoning); **Level** bard 6, cleric 6, druid 6, sorcerer_dir/wizard 6, summoner 4, witch 6
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
 **Target Restrictions** _selected_
 
-This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells/summonMonster#_table-10-1-summon-monster) from the 6th-level list. If a wordspell with this effect word is cast by a druid, it instead summons a creature from the [summon nature's ally table](spell_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 6th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
+This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells_dir/summonMonster#_table-10-1-summon-monster) from the 6th-level list. If a wordspell with this effect word is cast by a druid, it instead summons a creature from the [summon nature's ally table](spells_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 6th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
 
 Servitor VII (Summoning)
 
-**School** conjuration (summoning); **Level** cleric 7, druid 7, sorcerer/wizard 7, summoner 5, witch 7
+**School** conjuration (summoning); **Level** cleric 7, druid 7, sorcerer_dir/wizard 7, summoner 5, witch 7
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
 **Target Restrictions** _selected_
 
-This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells/summonMonster#_table-10-1-summon-monster) from the 7th-level list. If a wordspell with this effect word is cast by a druid, it instead summons a creature from the [summon nature's ally table](spell_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 7th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
+This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells_dir/summonMonster#_table-10-1-summon-monster) from the 7th-level list. If a wordspell with this effect word is cast by a druid, it instead summons a creature from the [summon nature's ally table](spells_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 7th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
 
 Servitor VIII (Summoning)
 
-**School** conjuration (summoning); **Level** cleric 8, druid 8, sorcerer/wizard 8, witch 8
+**School** conjuration (summoning); **Level** cleric 8, druid 8, sorcerer_dir/wizard 8, witch 8
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
 **Target Restrictions** _selected_
 
-This effect word functions as _servitor I_, except that it summons one creature from the [summon monster table](spells/summonMonster#_table-10-1-summon-monster) from the 8th-level list. If a wordspell with this effect spell is cast by a druid, it instead summons a creature from the [summon nature's ally table](spell_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 8th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
+This effect word functions as _servitor I_, except that it summons one creature from the [summon monster table](spells_dir/summonMonster#_table-10-1-summon-monster) from the 8th-level list. If a wordspell with this effect spell is cast by a druid, it instead summons a creature from the [summon nature's ally table](spells_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 8th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
 
 Servitor IX (Summoning)
 
-**School** conjuration (summoning); **Level** cleric 9, druid 9, sorcerer/wizard 9, summoner 6, witch 9
+**School** conjuration (summoning); **Level** cleric 9, druid 9, sorcerer_dir/wizard 9, summoner 6, witch 9
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
 **Target Restrictions** _selected_
 
-This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells/summonMonster#_table-10-1-summon-monster) from the 9th-level list. If a wordspell with this effect word is cast by a druid, it instead summons a creature from the [summon nature's ally table](spell_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 9th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
+This effect word functions as _servitor I_ except that it summons one creature from the [summon monster table](spells_dir/summonMonster#_table-10-1-summon-monster) from the 9th-level list. If a wordspell with this effect word is cast by a druid, it instead summons a creature from the [summon nature's ally table](spells_dir/summonNatureSAlly#_table-10-2-summon-nature-s-ally) from the 9th-level list. If the target word is boosted, a wordspell with this effect word summons 1d4+1 of the chosen creatures.
 

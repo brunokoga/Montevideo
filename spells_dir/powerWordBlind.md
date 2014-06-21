@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spell_dir/powerWordBlind
+title: spells_dir/powerWordBlind
 ---
  **Power Word Blind**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 7
+**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature with 200 hp or less
 

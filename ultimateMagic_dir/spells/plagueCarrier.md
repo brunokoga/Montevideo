@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/plagueCarrier
+title: ultimateMagic_dir/spells_dir/plagueCarrier
 ---
 Plague Carrier
 
-**School** necromancy [disease, evil]; **Level** cleric 4, druid 4, sorcere_dir/wizard 5, witch 5
+**School** necromancy [disease, evil]; **Level** cleric 4, druid 4, sorcerer_dir/wizard 5, witch 5
 
 **Casting Time** 1 standard action
 
@@ -14,9 +14,9 @@ Plague Carrier
 
 **Target** creature touched
 
-**Duration** 1 hour/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes
 
-The target's natural attacks carry filth fever (DC 10 + 1/2 of the creature's Hit Dice + creature's Con modifier)
+The target's natural attacks carry filth fever (DC 10 + 1_dir/2 of the creature's Hit Dice + creature's Con modifier)
 

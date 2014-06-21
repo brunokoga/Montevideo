@@ -1,18 +1,18 @@
 ---
 layout: default
-title: bestiary3/herdAnimal
+title: bestiary3_dir/herdAnimal
 ---
 # Herd Animal, Antelope
 
 This graceful animal has long slender legs and a pair of sharp, sturdy horns arching back from its head.
 
-Antelope CR 1/2
+Antelope CR 1_dir/2
 
 XP 200
 
 N Small animal
 
-**Init** +3; **Senses** low-light vision; [Perception](skill_dir/perception#_perception) +5
+**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +5
 
 Defense
 
@@ -28,7 +28,7 @@ Offense
 
 **Melee** gore +1 (1d4)
 
-**Special Attack** [powerful charge](monsters/universalMonsterRules#_powerful-charge) (gore, 1d4+2)
+**Special Attack** [powerful charge](monsters_dir/universalMonsterRules#_powerful-charge) (gore, 1d4+2)
 
 Statistics
 
@@ -38,7 +38,7 @@ Statistics
 
 **Feats** [Lightning Reflexes](feats#_lightning-reflexes), [Run](feats#_run)B
 
-**Skills** [Perception](skill_dir/perception#_perception) +5
+**Skills** [Perception](skills_dir/perception#_perception) +5
 
 Ecology
 
@@ -66,7 +66,7 @@ XP 400
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision; [Perception](skills/perception#_perception) +7
+**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +7
 
 Defense
 
@@ -90,11 +90,11 @@ Statistics
 
 **Feats** [Lightning Reflexes](feats#_lightning-reflexes), [Run](feats#_run)B
 
-**Skills** [Perception](skill_dir/perception#_perception) +7
+**Skills** [Perception](skills_dir/perception#_perception) +7
 
 Ecology
 
-**Environment** [cold](monsters/creatureTypes#_cold-subtype) or temperate plains
+**Environment** [cold](monsters_dir/creatureTypes#_cold-subtype) or temperate plains
 
 **Organization** solitary, pair, or herd (3–50)
 

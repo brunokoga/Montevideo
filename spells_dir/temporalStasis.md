@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/temporalStasis
+title: spells_dir/temporalStasis
 ---
  **Temporal Stasis**
 
-**School** transmutation; **Level** sorcerer/wizard 8
+**School** transmutation; **Level** sorcerer_dir/wizard 8
 
 **Casting Time** 1 standard action
 

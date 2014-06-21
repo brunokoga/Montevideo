@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/lendJudgment
+title: ultimateMagic_dir/spells_dir/lendJudgment
 ---
 Lend Judgment
 
@@ -14,7 +14,7 @@ Lend Judgment
 
 **Target** one ally
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -32,7 +32,7 @@ Lend Judgment, Greater
 
 **Target** one ally
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

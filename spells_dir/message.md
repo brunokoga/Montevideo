@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/message
+title: spells_dir/message
 ---
  **Message**
 
-**School** transmutation [language-dependent]; **Level** bard 0, sorcerer/wizard 0
+**School** transmutation [language-dependent]; **Level** bard 0, sorcerer_dir/wizard 0
 
 **Casting Time** 1 standard action
 
 **Components** V, S, F (a piece of copper wire)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Targets** one creatur_dir/level
+**Targets** one creature_dir/level
 
-**Duration** 10 min./level
+**Duration** 10 min._dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

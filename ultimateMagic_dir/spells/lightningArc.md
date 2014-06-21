@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/lightningArc
+title: ultimateMagic_dir/spells_dir/lightningArc
 ---
 Lightning Arc
 
-**School** evocation [electricity]; **Level** sorcere_dir/wizard 5
+**School** evocation [electricity]; **Level** sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (fur and two glass figurines)
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Target** s two creatures or objects which must be no more than 60 ft. apart
 

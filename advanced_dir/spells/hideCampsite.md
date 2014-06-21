@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/hideCampsite
+title: advanced_dir/spells_dir/hideCampsite
 ---
  **Hide Campsite**
 
@@ -10,11 +10,11 @@ title: advance_dir/spells/hideCampsite
 
 **Components** V, S, M (a sprig of mistletoe, and a vial of quicksilver)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Area** one 20-ft. cube
 
-**Duration** 2 hour_dir/level (D)
+**Duration** 2 hours_dir/level (D)
 
 **Saving Throw** Will disbelief (if interacted with); **Spell Resistance** no
 

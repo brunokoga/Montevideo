@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skill_dir/swim
+title: skills_dir/swim
 ---
 # Swim
 

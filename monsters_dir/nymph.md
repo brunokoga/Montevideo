@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/nymph
+title: monsters_dir/nymph
 ---
 # Nymph
 
@@ -12,7 +12,7 @@ _A delicate figure rises from the water, her long ears tapering to points above 
 
 CG Medium [fey](creatureTypes#_fey)
 
-**Init** +5; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +14
+**Init** +5; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +14
 
 **Aura** blinding beauty (30 ft., DC 21)
 
@@ -24,29 +24,29 @@ CG Medium [fey](creatureTypes#_fey)
 
 **Fort** +13, **Ref** +18, **Will** +16
 
-**DR** 10/cold iron
+**DR** 10_dir/cold iron
 
 **Offense**
 
 **Speed** 30 ft., swim 20 ft.
 
-**Melee** mwk dagger +10 (1d4/19–20)
+**Melee** mwk dagger +10 (1d4_dir/19–20)
 
 **Special Attacks** stunning glance
 
-**Spell-Like Abilities** (CL 8th); 1/day—_ [dimension door](../spell_dir/dimensionDoor#_dimension-door)_
+**Spell-Like Abilities** (CL 8th); 1_dir/day—_ [dimension door](../spells_dir/dimensionDoor#_dimension-door)_
 
 **Spells Prepared** (CL 7th)
 
-4th—_ [summon nature's ally IV](../spell_dir/summonNatureSAlly#_summon-nature-s-ally-iv)_
+4th—_ [summon nature's ally IV](../spells_dir/summonNatureSAlly#_summon-nature-s-ally-iv)_
 
-3rd—_ [call lightning](../spell_dir/callLightning#_call-lightning)_ (DC 16), _ [cure moderate wounds](../spell_dir/cureModerateWounds#_cure-moderate-wounds), [water breathing](../spell_dir/waterBreathing#_water-breathing)_
+3rd—_ [call lightning](../spells_dir/callLightning#_call-lightning)_ (DC 16), _ [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds), [water breathing](../spells_dir/waterBreathing#_water-breathing)_
 
-2nd—_ [barkskin](../spell_dir/barkskin#_barkskin), [flame blade](../spell_dir/flameBlade#_flame-blade), [resist energy](../spell_dir/resistEnergy#_resist-energy), [tree shape](../spell_dir/treeShape#_tree-shape)_
+2nd—_ [barkskin](../spells_dir/barkskin#_barkskin), [flame blade](../spells_dir/flameBlade#_flame-blade), [resist energy](../spells_dir/resistEnergy#_resist-energy), [tree shape](../spells_dir/treeShape#_tree-shape)_
 
-1st—_ [charm animal](../spell_dir/charmAnimal#_charm-animal)_ (DC 14), _ [endure elements](../spell_dir/endureElements#_endure-elements), [entangle](../spell_dir/entangle#_entangle)_ (DC 14), _ [obscuring mist](../spell_dir/obscuringMist#_obscuring-mist), [produce flame](../spell_dir/produceFlame#_produce-flame)_
+1st—_ [charm animal](../spells_dir/charmAnimal#_charm-animal)_ (DC 14), _ [endure elements](../spells_dir/endureElements#_endure-elements), [entangle](../spells_dir/entangle#_entangle)_ (DC 14), _ [obscuring mist](../spells_dir/obscuringMist#_obscuring-mist), [produce flame](../spells_dir/produceFlame#_produce-flame)_
 
-0—_ [detect magic](../spell_dir/detectMagic#_detect-magic), [guidance](../spell_dir/guidance#_guidance), [light](../spell_dir/light#_light), [stabilize](../spell_dir/stabilize#_stabilize)_
+0—_ [detect magic](../spells_dir/detectMagic#_detect-magic), [guidance](../spells_dir/guidance#_guidance), [light](../spells_dir/light#_light), [stabilize](../spells_dir/stabilize#_stabilize)_
 
 **Statistics**
 
@@ -56,7 +56,7 @@ CG Medium [fey](creatureTypes#_fey)
 
 **Feats** [Agile Maneuvers](../feats#_agile-maneuvers), [Combat Casting](../feats#_combat-casting), [Dodge](../feats#_dodge), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Diplomacy](../skill_dir/diplomacy#_diplomacy) +18, [Escape Artist](../skill_dir/escapeArtist#_escape-artist) +16, [Handle Animal](../skill_dir/handleAnimal#_handle-animal) +15, [Heal](../skill_dir/heal#_heal) +11, [Knowledge](../skill_dir/knowledge#_knowledge) (nature) +14, [Perception](../skill_dir/perception#_perception) +14, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +14, [Stealth](../skill_dir/stealth#_stealth) +16, [Swim](../skill_dir/swim#_swim) +19
+**Skills** [Diplomacy](../skills_dir/diplomacy#_diplomacy) +18, [Escape Artist](../skills_dir/escapeArtist#_escape-artist) +16, [Handle Animal](../skills_dir/handleAnimal#_handle-animal) +15, [Heal](../skills_dir/heal#_heal) +11, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +14, [Perception](../skills_dir/perception#_perception) +14, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +14, [Stealth](../skills_dir/stealth#_stealth) +16, [Swim](../skills_dir/swim#_swim) +19
 
 **Languages** Common, Sylvan
 
@@ -74,7 +74,7 @@ CG Medium [fey](creatureTypes#_fey)
 
 **Blinding Beauty (Su)** This ability affects all humanoids within 30 feet of a nymph. Those who look directly at a nymph must succeed on a DC 21 Fortitude save or be blinded permanently. A nymph can suppress or resume this ability as a free action. The save DC is Charisma-based.
 
-**Inspiration (Su)** A nymph can choose an intelligent creature to inspire and serve as a muse by giving that creature some token of her affection (typically a lock of her hair). As long as the nymph retains her favor for this creature and as long as the creature carries the nymph's token, the creature gains a +4 insight bonus on all Will saving throws, [Craft](../skill_dir/craft#_craft) checks, and [Perform](../skill_dir/perform#_perform) checks. A bard who has a nymph for a muse in this way can use his bardic performance for an additional number of rounds per day equal to his nymph muse's Charisma modifier. The nymph retains a link to her token and its carrier as if she had cast a _ [status](../spell_dir/status#_status)_ spell on the carrier. The nymph can end this effect at any time as a free action. A single nymph may only inspire one creature at a time in this manner.
+**Inspiration (Su)** A nymph can choose an intelligent creature to inspire and serve as a muse by giving that creature some token of her affection (typically a lock of her hair). As long as the nymph retains her favor for this creature and as long as the creature carries the nymph's token, the creature gains a +4 insight bonus on all Will saving throws, [Craft](../skills_dir/craft#_craft) checks, and [Perform](../skills_dir/perform#_perform) checks. A bard who has a nymph for a muse in this way can use his bardic performance for an additional number of rounds per day equal to his nymph muse's Charisma modifier. The nymph retains a link to her token and its carrier as if she had cast a _ [status](../spells_dir/status#_status)_ spell on the carrier. The nymph can end this effect at any time as a free action. A single nymph may only inspire one creature at a time in this manner.
 
 **Spells** A nymph casts spells as a 7th-level druid, but cannot swap out prepared spells to cast summon spells.
 

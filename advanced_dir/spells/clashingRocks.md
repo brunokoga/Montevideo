@@ -1,16 +1,16 @@
 ---
 layout: default
-title: advance_dir/spells/clashingRocks
+title: advanced_dir/spells_dir/clashingRocks
 ---
  **Clashing Rocks**
 
-**School** conjuration (creation) [earth]; **Level** druid 9, sorcere_dir/wizard 9
+**School** conjuration (creation) [earth]; **Level** druid 9, sorcerer_dir/wizard 9
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Effect** see text
 

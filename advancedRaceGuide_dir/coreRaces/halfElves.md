@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advancedRaceGuid_dir/coreRaces/halfElves
+title: advancedRaceGuide_dir/coreRaces_dir/halfElves
 ---
 # Half-Elves
 
@@ -50,7 +50,7 @@ Some half-elves feel the pull of the divine but live beyond the formal religious
 
 **Elven Immunities** : Half-elves are immune to magic sleep effects and gain a +2 racial saving throw bonus against enchantment spells and effects.
 
-**Keen Senses** : Half-elves receive a +2 racial bonus on [Perception](skill_dir/perception#_perception) checks.
+**Keen Senses** : Half-elves receive a +2 racial bonus on [Perception](skills_dir/perception#_perception) checks.
 
 **Multitalented** : Half-elves choose two favored classes at first level and gain +1 hit point or +1 skill point whenever they take a level in either one of those classes.
 
@@ -70,17 +70,17 @@ The following racial traits may be selected instead of existing half-elf racial 
 
 **Drow-Blooded** : Some half-elves born of drow parents exhibit more drow traits than others—particularly many of the physical features of the drow—and have darkvision 60 feet and light blindness. This racial trait replaces the low-light vision racial trait.
 
-**Drow Magic** : A few half-elves with drow ancestry exhibit the innate magic of that race. Half-elves with this trait have drow blood somewhere in their background, and can cast _ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [darkness](spell_dir/darkness#_darkness)_, and _ [faerie fire](spells/faerieFire#_faerie-fire)_ each once per day, using the half-elf's character level as the caster level for these spell-like abilities. This racial trait replaces the adaptability and multitalented racial traits.
+**Drow Magic** : A few half-elves with drow ancestry exhibit the innate magic of that race. Half-elves with this trait have drow blood somewhere in their background, and can cast _ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [darkness](spells_dir/darkness#_darkness)_, and _ [faerie fire](spells_dir/faerieFire#_faerie-fire)_ each once per day, using the half-elf's character level as the caster level for these spell-like abilities. This racial trait replaces the adaptability and multitalented racial traits.
 
 **Dual Minded** : The mixed ancestry of some half-elves makes them resistant to mental attacks. Half-elves with this racial trait gain a +2 bonus on all Will saving throws. This racial trait replaces the adaptability racial trait.
 
-**Integrated** : Many half-elves are skilled in the art of ingratiating themselves into a community as if they were natives. Half-elves with this racial trait gain a +1 bonus on [Bluff](skill_dir/bluff#_bluff), [Disguise](skills/disguise#_disguise), and [Knowledge](skill_dir/knowledge#_knowledge) (local) checks. This racial trait replaces the adaptability racial trait.
+**Integrated** : Many half-elves are skilled in the art of ingratiating themselves into a community as if they were natives. Half-elves with this racial trait gain a +1 bonus on [Bluff](skills_dir/bluff#_bluff), [Disguise](skills_dir/disguise#_disguise), and [Knowledge](skills_dir/knowledge#_knowledge) (local) checks. This racial trait replaces the adaptability racial trait.
 
-**Sociable** : Half-elves are skilled at charming others and recovering from faux pas. If half-elves with this racial trait attempt to change a creature's attitude with a [Diplomacy](skills/diplomacy#_diplomacy) check and fail by 5 or more, they can try to influence the creature a second time even if 24 hours have not passed. This racial trait replaces the adaptability racial trait.
+**Sociable** : Half-elves are skilled at charming others and recovering from faux pas. If half-elves with this racial trait attempt to change a creature's attitude with a [Diplomacy](skills_dir/diplomacy#_diplomacy) check and fail by 5 or more, they can try to influence the creature a second time even if 24 hours have not passed. This racial trait replaces the adaptability racial trait.
 
-**Wary** : Many half-elves have spent their long lives moving from place to place, often driven out by the hostility of others. Such experiences have made them wary of others' motivations. Half-elves with this trait gain a +1 racial bonus on [Sense Motive](skill_dir/senseMotive#_sense-motive) and [Bluff](skills/bluff#_bluff) checks. This racial trait replaces the keen senses racial trait.
+**Wary** : Many half-elves have spent their long lives moving from place to place, often driven out by the hostility of others. Such experiences have made them wary of others' motivations. Half-elves with this trait gain a +1 racial bonus on [Sense Motive](skills_dir/senseMotive#_sense-motive) and [Bluff](skills_dir/bluff#_bluff) checks. This racial trait replaces the keen senses racial trait.
 
-**Water Child** : Some half-elves are born of elves adapted to life on or near the water. These half-elves gain a +4 racial bonus on [Swim](skill_dir/swim#_swim) checks, can always take 10 while swimming, and may choose Aquan as a bonus language. This racial trait replaces the adaptability and multitalented racial traits.
+**Water Child** : Some half-elves are born of elves adapted to life on or near the water. These half-elves gain a +4 racial bonus on [Swim](skills_dir/swim#_swim) checks, can always take 10 while swimming, and may choose Aquan as a bonus language. This racial trait replaces the adaptability and multitalented racial traits.
 
 ## Racial Subtypes
 
@@ -98,25 +98,25 @@ The following favored options are available to all half-elves who have the liste
 
 **Alchemist** : Add +1 foot to the range increment of the alchemist's thrown splash weapons (including the alchemist's bombs). This option has no effect unless the alchemist has selected it 5 times (or another increment of 5); a range increment of 24 feet is effectively the same as a range increment of 20 feet, for example.
 
-**Barbarian** : Add +1/4 to the bonus on Reflex saves and dodge bonus to AC against attacks made by traps granted by trap sense.
+**Barbarian** : Add +1_dir/4 to the bonus on Reflex saves and dodge bonus to AC against attacks made by traps granted by trap sense.
 
 **Bard** : Add +1 to the bard's total number of bardic performance rounds per day.
 
 **Cavalier** : Add +1 foot to the cavalier's mount's base speed. This option has no effect unless the cavalier has selected it 5 times (or another increment of 5); a speed of 54 feet is effectively a speed of 50 feet, for example. If the cavalier ever replaces his mount, the new companion gains this base speed bonus.
 
-**Cleric** : Add +1/3 to the amount of damage dealt or damage healed when the cleric uses channel energy.
+**Cleric** : Add +1_dir/3 to the amount of damage dealt or damage healed when the cleric uses channel energy.
 
-**Druid** : Select one cleric domain power at 1st level that is normally usable a number of times per day equal to 3 + the druid's Wisdom modifier. The druid adds +1/2 to the number of uses per day of that domain power. For druids whose nature bond gives them an animal companion, add +1 skill rank to the animal companion. If the druid ever replaces her animal companion, the new companion gains these bonus skill ranks.
+**Druid** : Select one cleric domain power at 1st level that is normally usable a number of times per day equal to 3 + the druid's Wisdom modifier. The druid adds +1_dir/2 to the number of uses per day of that domain power. For druids whose nature bond gives them an animal companion, add +1 skill rank to the animal companion. If the druid ever replaces her animal companion, the new companion gains these bonus skill ranks.
 
 **Fighter** : Add +1 to the fighter's CMD when resisting a disarm or overrun combat maneuver.
 
-**Gunslinger** : Add +1/4 to the number of grit points in the gunslinger's grit pool.
+**Gunslinger** : Add +1_dir/4 to the number of grit points in the gunslinger's grit pool.
 
-**Inquisitor** : Add +1/4 to the number of times per day the inquisitor can change her most recent teamwork feat.
+**Inquisitor** : Add +1_dir/4 to the number of times per day the inquisitor can change her most recent teamwork feat.
 
-**Magus** : Add +1/4 to the magus's arcane pool.
+**Magus** : Add +1_dir/4 to the magus's arcane pool.
 
-**Monk** : Add +1/2 on [Escape Artist](skill_dir/escapeArtist#_escape-artist) checks and on [Acrobatics](skills/acrobatics#_acrobatics) checks to cross narrow surfaces.
+**Monk** : Add +1_dir/2 on [Escape Artist](skills_dir/escapeArtist#_escape-artist) checks and on [Acrobatics](skills_dir/acrobatics#_acrobatics) checks to cross narrow surfaces.
 
 **Oracle** : Add one spell known from the oracle spell list. This spell must be at least one level below the highest spell level the oracle can cast.
 
@@ -124,15 +124,15 @@ The following favored options are available to all half-elves who have the liste
 
 **Ranger** : Add +1 skill rank to the ranger's animal companion. If the ranger ever replaces his companion, the new companion gains these bonus skill ranks.
 
-**Rogue** : Add a +1/2 bonus on [Bluff](skill_dir/bluff#_bluff) checks to feint and [Diplomacy](skills/diplomacy#_diplomacy) checks to gather information.
+**Rogue** : Add a +1_dir/2 bonus on [Bluff](skills_dir/bluff#_bluff) checks to feint and [Diplomacy](skills_dir/diplomacy#_diplomacy) checks to gather information.
 
-**Sorcerer** : Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer's Charisma modifier. The sorcerer adds +1/2 to the number of uses per day of that bloodline power.
+**Sorcerer** : Select one bloodline power at 1st level that is normally usable a number of times per day equal to 3 + the sorcerer's Charisma modifier. The sorcerer adds +1_dir/2 to the number of uses per day of that bloodline power.
 
-**Summoner** : Add +1/4 to the eidolon's evolution pool.
+**Summoner** : Add +1_dir/4 to the eidolon's evolution pool.
 
 **Witch** : Add one spell from the witch spell list to the witch's familiar. This spell must be at least one level below the highest spell level she can cast. If the witch ever replaces her familiar, the new familiar knows these bonus spells.
 
-**Wizard** : When casting wizard enchantment spells, add +1/3 to the effective caster level of the spell, but only to determine the spell's duration.
+**Wizard** : When casting wizard enchantment spells, add +1_dir/3 to the effective caster level of the spell, but only to determine the spell's duration.
 
 # Racial Archetypes
 
@@ -148,15 +148,15 @@ A bonded witch's bonded item serves as a vessel for her spells and a conduit for
 
 Since a bonded witch does not have a spellbook, starting at 2nd level, a bonded witch's bonded item can be used once per day to cast a spell dependent on the type of bonded object chosen by the bonded witch. The spell is treated like any other spell cast by the bonded witch, including its casting time, duration, and other effects dependent of the bonded witch's level. This spell cannot be further modified by metamagic feats or any other ability. As the bonded witch gains levels, the bonded item gains new spells that the bonded witch can cast in this way. She can cast any one of these spells once per day using her bonded object, but gains greater flexibility in what spells she can cast, and gains more powerful spells as she gains new levels. The bonded item spells associated with each item type are as follows.
 
-> _Amulet_: 2nd— [_stone fist_](advance_dir/spells/stoneFist#_stone-fist); 4th—_ [bear's endurance](spell_dir/bearSEndurance#_bear-s-endurance)_; 6th—_ [burst of speed](ultimateCombat/spell_dir/burstOfSpeed#_burst-of-speed)_; 8th—_ [mnemonic enhancer](spells/mnemonicEnhancer#_mnemonic-enhancer);_ 10th—_ [stoneskin](spell_dir/stoneskin#_stoneskin);_ 12th—_ [monstrous physique IV](ultimateMagic/spell_dir/monstrousPhysique#_monstrous-physique-iv)_; 14th—_ [firebrand](advanced/spell_dir/firebrand#_firebrand)_; 16th—_ [iron body](spells/ironBody#_iron-body)_; 18th—_ [overwhelming presence](ultimateMagi_dir/spells/overwhelmingPresence#_overwhelming-presence)_.
+> _Amulet_: 2nd— [_stone fist_](advanced_dir/spells_dir/stoneFist#_stone-fist); 4th—_ [bear's endurance](spells_dir/bearSEndurance#_bear-s-endurance)_; 6th—_ [burst of speed](ultimateCombat_dir/spells_dir/burstOfSpeed#_burst-of-speed)_; 8th—_ [mnemonic enhancer](spells_dir/mnemonicEnhancer#_mnemonic-enhancer);_ 10th—_ [stoneskin](spells_dir/stoneskin#_stoneskin);_ 12th—_ [monstrous physique IV](ultimateMagic_dir/spells_dir/monstrousPhysique#_monstrous-physique-iv)_; 14th—_ [firebrand](advanced_dir/spells_dir/firebrand#_firebrand)_; 16th—_ [iron body](spells_dir/ironBody#_iron-body)_; 18th—_ [overwhelming presence](ultimateMagic_dir/spells_dir/overwhelmingPresence#_overwhelming-presence)_.
 > 
-> _Ring_: 2nd—_ [shield](spell_dir/shield#_shield);_ 4th—_ [ablative barrier](ultimateCombat/spell_dir/ablativeBarrier#_ablative-barrier)_; 6th—_ [protection from energy](spells/protectionFromEnergy#_protection-from-energy);_ 8th—_ [nondetection](spell_dir/nondetection#_nondetection);_ 10th—_ [life bubble](advanced/spell_dir/lifeBubble#_life-bubble-)_; 12th—_ [resinous skin](ultimateCombat/spell_dir/resinousSkin#_resinous-skin)_; 14th—_ [antimagic field](spells/antimagicField#_antimagic-field);_ 16th—_ [deflection](advance_dir/spells/deflection#_deflection-)_; 18th—_ [spell immunity](spell_dir/spellImmunity#_spell-immunity)_.
+> _Ring_: 2nd—_ [shield](spells_dir/shield#_shield);_ 4th—_ [ablative barrier](ultimateCombat_dir/spells_dir/ablativeBarrier#_ablative-barrier)_; 6th—_ [protection from energy](spells_dir/protectionFromEnergy#_protection-from-energy);_ 8th—_ [nondetection](spells_dir/nondetection#_nondetection);_ 10th—_ [life bubble](advanced_dir/spells_dir/lifeBubble#_life-bubble-)_; 12th—_ [resinous skin](ultimateCombat_dir/spells_dir/resinousSkin#_resinous-skin)_; 14th—_ [antimagic field](spells_dir/antimagicField#_antimagic-field);_ 16th—_ [deflection](advanced_dir/spells_dir/deflection#_deflection-)_; 18th—_ [spell immunity](spells_dir/spellImmunity#_spell-immunity)_.
 > 
-> _Staff_: 2nd—_ [shillelagh](spells/shillelagh#_shillelagh);_ 4th—_ [warp wood](spell_dir/warpWood#_warp-wood);_ 6th—_ [plant growth](spells/plantGrowth#_plant-growth);_ 8th—_ [arboreal hammer](ultimateMagi_dir/spells/arborealHammer#_arboreal-hammer)_; 10th—_ [passwall](spell_dir/passwall#_passwall)_; 12th—_ [move earth](spells/moveEarth#_move-earth);_ 14th— [_changestaff_](spell_dir/changestaff#_changestaff); 16th—_ [control plants](spells/controlPlants#_control-plants);_ 18th—_ [wooden phalanx](ultimateMagi_dir/spells/woodenPhalanx#_wooden-phalanx)_.
+> _Staff_: 2nd—_ [shillelagh](spells_dir/shillelagh#_shillelagh);_ 4th—_ [warp wood](spells_dir/warpWood#_warp-wood);_ 6th—_ [plant growth](spells_dir/plantGrowth#_plant-growth);_ 8th—_ [arboreal hammer](ultimateMagic_dir/spells_dir/arborealHammer#_arboreal-hammer)_; 10th—_ [passwall](spells_dir/passwall#_passwall)_; 12th—_ [move earth](spells_dir/moveEarth#_move-earth);_ 14th— [_changestaff_](spells_dir/changestaff#_changestaff); 16th—_ [control plants](spells_dir/controlPlants#_control-plants);_ 18th—_ [wooden phalanx](ultimateMagic_dir/spells_dir/woodenPhalanx#_wooden-phalanx)_.
 > 
-> _Wand_: 2nd—_ [magic missile](spell_dir/magicMissile#_magic-missile);_ 4th—_ [knock](spells/knock#_knock);_ 6th—_ [fireball](spell_dir/fireball#_fireball);_ 8th—_ [restoration](spells/restoration#_restoration);_ 10th—maximized _ [scorching ray](spell_dir/scorchingRay#_scorching-ray)_; 12th—_ [bull's strength](spells/bullSStrength#_bull-s-strength)_ (mass); 14th—_ [greater restoration](spell_dir/restoration#_restoration-greater);_ 16th—empowered and maximized _ [fireball](spells/fireball#_fireball)_; 18th—empowered and maximized _ [fire shield](spell_dir/fireShield#_fire-shield)_.
+> _Wand_: 2nd—_ [magic missile](spells_dir/magicMissile#_magic-missile);_ 4th—_ [knock](spells_dir/knock#_knock);_ 6th—_ [fireball](spells_dir/fireball#_fireball);_ 8th—_ [restoration](spells_dir/restoration#_restoration);_ 10th—maximized _ [scorching ray](spells_dir/scorchingRay#_scorching-ray)_; 12th—_ [bull's strength](spells_dir/bullSStrength#_bull-s-strength)_ (mass); 14th—_ [greater restoration](spells_dir/restoration#_restoration-greater);_ 16th—empowered and maximized _ [fireball](spells_dir/fireball#_fireball)_; 18th—empowered and maximized _ [fire shield](spells_dir/fireShield#_fire-shield)_.
 > 
-> _Weapon_: 2nd—_ [warding weapon](ultimateCombat/spell_dir/wardingWeapon#_warding-weapon)_; 4th—_ [versatile weapon](advanced/spell_dir/versatileWeapon#_versatile-weapon)_; 6th—_ [greater magic weapon](spells/magicWeapon#_magic-weapon-greater)_; 8th—_ [telekinetic charge](ultimateComba_dir/spells/telekineticCharge#_telekinetic-charge-)_; 10th—_ [energy siege shot](ultimateComba_dir/spells/energySiegeShot#_energy-siege-shot)_; 12th—_ [blade barrier](spell_dir/bladeBarrier#_blade-barrier)_; 14th—_ [arcane cannon](ultimateCombat/spell_dir/arcaneCannon#_arcane-cannon)_; 16th—_ [earthquake](spells/earthquake#_earthquake)_; 18th—_ [ride the lightning](ultimateMagi_dir/spells/rideTheLightning#_ride-the-lightning)_.
+> _Weapon_: 2nd—_ [warding weapon](ultimateCombat_dir/spells_dir/wardingWeapon#_warding-weapon)_; 4th—_ [versatile weapon](advanced_dir/spells_dir/versatileWeapon#_versatile-weapon)_; 6th—_ [greater magic weapon](spells_dir/magicWeapon#_magic-weapon-greater)_; 8th—_ [telekinetic charge](ultimateCombat_dir/spells_dir/telekineticCharge#_telekinetic-charge-)_; 10th—_ [energy siege shot](ultimateCombat_dir/spells_dir/energySiegeShot#_energy-siege-shot)_; 12th—_ [blade barrier](spells_dir/bladeBarrier#_blade-barrier)_; 14th—_ [arcane cannon](ultimateCombat_dir/spells_dir/arcaneCannon#_arcane-cannon)_; 16th—_ [earthquake](spells_dir/earthquake#_earthquake)_; 18th—_ [ride the lightning](ultimateMagic_dir/spells_dir/rideTheLightning#_ride-the-lightning)_.
 
 This ability replaces the witch's familiar class feature.
 
@@ -166,7 +166,7 @@ Some half-elven alchemists merge human curiosity with their elven link to nature
 
 **Briar Bombs (Su)** : At 2nd level, a bramble brewer gains the tanglefoot bomb discovery, but the entanglement's duration persists for a number of rounds equal to the bramble brewer's Intelligence modifier (minimum 1 round). Additionally, when a bramble brewer throws a tanglefoot bomb, it transforms all squares in its splash radius into difficult terrain that persists for as long as the bomb's entangling effect. Although these bombs deal no damage, for every 1d6 points of damage the bramble brewer's regular bombs deal, the briar bomb's splash radius increases by 5 feet. This ability replaces the 2nd-level discovery class feature.
 
-**Dendrite Mutagen (Su)** : At 1st level, a bramble brewer's mutagen still contains transformative power, but grants a treelike sturdiness rather than the feral power of standard mutagens. When imbibed, dendrite mutagen grants a +4 natural armor bonus, a +2 alchemical bonus to one physical ability score, and a –2 penalty to the corresponding mental ability score. In addition, the alchemist gains fast healing 1 as long as he is in an area of bright light (such as sunlight or inside the area of a _ [daylight](spell_dir/daylight#_daylight)_ spell). This otherwise works like the standard mutagen class feature and replaces that ability.
+**Dendrite Mutagen (Su)** : At 1st level, a bramble brewer's mutagen still contains transformative power, but grants a treelike sturdiness rather than the feral power of standard mutagens. When imbibed, dendrite mutagen grants a +4 natural armor bonus, a +2 alchemical bonus to one physical ability score, and a –2 penalty to the corresponding mental ability score. In addition, the alchemist gains fast healing 1 as long as he is in an area of bright light (such as sunlight or inside the area of a _ [daylight](spells_dir/daylight#_daylight)_ spell). This otherwise works like the standard mutagen class feature and replaces that ability.
 
 A bramble brewer who selects the greater mutagen discovery can create a dendrite mutagen that still grants a +4 natural armor bonus, and also grants a +4 alchemical bonus to one physical ability score and a +2 bonus to a second physical ability score. The bramble brewer takes a –2 penalty to both associated mental ability scores as long as the mutagen persists, but his fast healing increases to 3 as long as he is in an area of bright light. This otherwise works like the greater mutagen discovery and replaces that ability.
 
@@ -190,19 +190,19 @@ Often a half-elf's ties to nature and elven heritage are so strong that they can
 
 **Spells** : A wild caller does not have access to _summon monster_ spells. Instead, he swaps out those spells on his spell list with _summon nature's ally_ spells of the same level. This ability alters the normal spell list of the summoner.
 
-**Eidolon** : The eidolon of a wild caller tends to take more natural and more savage forms than other summoners' eidolons. A wild caller gains 1/4 his class level as bonus evolution points in his eidolon's evolution pool, but his eidolon cannot take the following evolutions:
+**Eidolon** : The eidolon of a wild caller tends to take more natural and more savage forms than other summoners' eidolons. A wild caller gains 1_dir/4 his class level as bonus evolution points in his eidolon's evolution pool, but his eidolon cannot take the following evolutions:
 
-_1-point evolutions_: basic magic, magic attacks, skilled (while the eidolon can select this evolution, it can only do so with the following skills: [Acrobatics](skill_dir/acrobatics#_acrobatics), [Climb](skills/climb#_climb), [Escape Artist](skill_dir/escapeArtist#_escape-artist), [Fly](skills/fly#_fly), [Intimidate](skill_dir/intimidate#_intimidate), [Perception](skills/perception#_perception), [Survival](skill_dir/survival#_survival), and [Swim](skills/swim#_swim)), unnatural aura; _2-point evolutions_: energy attacks, immunity, weapon training, channel resistance, head, minor magic, undead appearance; _3-point evolutions_: damage reduction, frightful presence, major magic; _4-point evolutions_: breath weapon, spell resistance, dimension door, incorporeal form, lifesense, no breath, ultimate magic.
+_1-point evolutions_: basic magic, magic attacks, skilled (while the eidolon can select this evolution, it can only do so with the following skills: [Acrobatics](skills_dir/acrobatics#_acrobatics), [Climb](skills_dir/climb#_climb), [Escape Artist](skills_dir/escapeArtist#_escape-artist), [Fly](skills_dir/fly#_fly), [Intimidate](skills_dir/intimidate#_intimidate), [Perception](skills_dir/perception#_perception), [Survival](skills_dir/survival#_survival), and [Swim](skills_dir/swim#_swim)), unnatural aura; _2-point evolutions_: energy attacks, immunity, weapon training, channel resistance, head, minor magic, undead appearance; _3-point evolutions_: damage reduction, frightful presence, major magic; _4-point evolutions_: breath weapon, spell resistance, dimension door, incorporeal form, lifesense, no breath, ultimate magic.
 
 This ability alters the normal summoner's eidolon class feature, but is otherwise identical to that class feature.
 
-**_Summon Nature's Ally I_ (Sp)** : Starting at 1st level, a wild caller can cast _summon nature's ally_ a number of times per day equal to 3 + his Charisma modifier. At 3rd level and every 2 levels thereafter, the power of this ability increases by one spell level, allowing him to summon more powerful creatures (to a maximum of _ [summon nature's ally IX](spell_dir/summonNatureSAlly#_summon-nature-s-ally-ix)_ at 17th level). Furthermore, at 19th level, the wild caller cannot use _ [gate](spells/gate#_gate)_ as a spell-like ability, but can use either _ [summon elder worm](ultimateMagi_dir/spells/summonElderWorm#_summon-elder-worm)_ or _ [summon froghemoth](ultimateMagi_dir/spells/summonFroghemoth#_summon-froghemoth)_ instead. This ability otherwise functions like the standard summoner's _ [summon monster I](spell_dir/summonMonster#_summon-monster-i)_ ability and replaces that ability.
+**_Summon Nature's Ally I_ (Sp)** : Starting at 1st level, a wild caller can cast _summon nature's ally_ a number of times per day equal to 3 + his Charisma modifier. At 3rd level and every 2 levels thereafter, the power of this ability increases by one spell level, allowing him to summon more powerful creatures (to a maximum of _ [summon nature's ally IX](spells_dir/summonNatureSAlly#_summon-nature-s-ally-ix)_ at 17th level). Furthermore, at 19th level, the wild caller cannot use _ [gate](spells_dir/gate#_gate)_ as a spell-like ability, but can use either _ [summon elder worm](ultimateMagic_dir/spells_dir/summonElderWorm#_summon-elder-worm)_ or _ [summon froghemoth](ultimateMagic_dir/spells_dir/summonFroghemoth#_summon-froghemoth)_ instead. This ability otherwise functions like the standard summoner's _ [summon monster I](spells_dir/summonMonster#_summon-monster-i)_ ability and replaces that ability.
 
 ## Wild Shadow (Ranger)
 
 The isolation that some half-elves feel leads them to live a life of isolation amid the wild places of the world. Such rangers stalk the wild like shadows, creating close bonds with the wild itself instead of seeking the solace and aid of companions. While ill at ease within cities and other urban areas, they are adept at using the terrain to tactical advantage; they dart through brambles and rough terrain with uncommon grace and use the land itself to lock down enemies. A wild shadow has the following class features.
 
-**Wild at Heart (Ex)** : At 1st level, a wild shadow adds only 1/2 his class level when making wild empathy checks while in urban areas, and adds only 1/4 his class level to follow or identify tracks in such areas. In non-urban settings, he is considered two levels higher when determining the bonuses for such checks. This ability alters the track and wild empathy class features.
+**Wild at Heart (Ex)** : At 1st level, a wild shadow adds only 1_dir/2 his class level when making wild empathy checks while in urban areas, and adds only 1_dir/4 his class level to follow or identify tracks in such areas. In non-urban settings, he is considered two levels higher when determining the bonuses for such checks. This ability alters the track and wild empathy class features.
 
 **Favored Terrain (Ex)** : At 3rd level, when a wild shadow chooses a favored terrain, he cannot choose urban as the terrain type. Furthermore, at 8th level and every five levels thereafter, when he chooses a new favorite terrain type, he cannot choose the urban terrain type. This ability alters the favored terrain class feature.
 
@@ -224,15 +224,15 @@ The following options are available to half-elves. At the GM's discretion, other
 
 Half-elves have access to the following equipment.
 
-**Golden Maple Leaves** : These potent additives can only be culled from a rare maple tree known to grow exclusively in urban areas. These small, elaborately twisting trees are extremely slow to grow and mature—the leaves reach maturity only once every 3 years—and they are almost always grown and cultivated by half-elves. Additionally, half-elves are keenly aware of the effort put into the leaves' growth and normally only sell the products of their labors to others of their kind. When the golden maple's delicate, five-pointed leaves finally take on their namesake's color, they can be cut, dried, and then ground into a fine powder, a process that requires a DC 15 [Knowledge](skill_dir/knowledge#_knowledge) (nature) or [Profession](skills/profession#_profession) (herbalist) check. When used in conjunction with the [Craft](skill_dir/craft#_craft) (alchemy) skill to create special substances and items like alchemical grease or tanglefoot bags, golden maple leaves reduce the [Craft](skills/craft#_craft) DC by 5 and add +1 to the DC of any save required by the alchemical item. A single dose of golden maple leaf powder is sufficient to augment the crafting of three alchemical items.
+**Golden Maple Leaves** : These potent additives can only be culled from a rare maple tree known to grow exclusively in urban areas. These small, elaborately twisting trees are extremely slow to grow and mature—the leaves reach maturity only once every 3 years—and they are almost always grown and cultivated by half-elves. Additionally, half-elves are keenly aware of the effort put into the leaves' growth and normally only sell the products of their labors to others of their kind. When the golden maple's delicate, five-pointed leaves finally take on their namesake's color, they can be cut, dried, and then ground into a fine powder, a process that requires a DC 15 [Knowledge](skills_dir/knowledge#_knowledge) (nature) or [Profession](skills_dir/profession#_profession) (herbalist) check. When used in conjunction with the [Craft](skills_dir/craft#_craft) (alchemy) skill to create special substances and items like alchemical grease or tanglefoot bags, golden maple leaves reduce the [Craft](skills_dir/craft#_craft) DC by 5 and add +1 to the DC of any save required by the alchemical item. A single dose of golden maple leaf powder is sufficient to augment the crafting of three alchemical items.
 
-**Star Charts** : Many half-elves live in large cities or communities where they find it difficult to commune with nature. While some go on long sojourns to the wilderness, others spend their evenings on high, lonely rooftops, gazing at the stars. These lonely souls use star charts to track the movement of the stars and other celestial bodies. Anyone referencing one of these charts on a clear night can attempt a DC 20 [Knowledge](skill_dir/knowledge#_knowledge) (geography) check to determine her approximate location and the month. In addition, these charts grant a +2 circumstance bonus on [Survival](skills/survival#_survival) checks made to avoid getting lost at night with a clear sky.
+**Star Charts** : Many half-elves live in large cities or communities where they find it difficult to commune with nature. While some go on long sojourns to the wilderness, others spend their evenings on high, lonely rooftops, gazing at the stars. These lonely souls use star charts to track the movement of the stars and other celestial bodies. Anyone referencing one of these charts on a clear night can attempt a DC 20 [Knowledge](skills_dir/knowledge#_knowledge) (geography) check to determine her approximate location and the month. In addition, these charts grant a +2 circumstance bonus on [Survival](skills_dir/survival#_survival) checks made to avoid getting lost at night with a clear sky.
 
 [Half-Elven Equipment]
 | Item | Cost | Weight |
 | --- | --- | --- |
-| Golden maple leaves | 50 gp | 1/2 lb. |
-| Star charts | 200 gp | 1/2 lb. |
+| Golden maple leaves | 50 gp | 1_dir/2 lb. |
+| Star charts | 200 gp | 1_dir/2 lb. |
 
 ## Half-Elven Feats
 
@@ -252,7 +252,7 @@ Although you are of mixed heritage, you are closer to your elven relatives and t
 
 **Prerequisite** : Half-elf.
 
-**Benefit** : You possess the elven magic racial trait of the elves, granting you a +2 racial bonus on caster level checks made to overcome spell resistance. In addition, you receive a +2 racial bonus on [Spellcraft](skill_dir/spellcraft#_spellcraft) checks made to identify the properties of magic items. Alternatively, you can instead gain any one racial trait that elves can exchange for the elven magic racial trait.
+**Benefit** : You possess the elven magic racial trait of the elves, granting you a +2 racial bonus on caster level checks made to overcome spell resistance. In addition, you receive a +2 racial bonus on [Spellcraft](skills_dir/spellcraft#_spellcraft) checks made to identify the properties of magic items. Alternatively, you can instead gain any one racial trait that elves can exchange for the elven magic racial trait.
 
 **Special** : You can only take this feat at 1st level. If you take this feat, you cannot take the Human Spirit feat.
 
@@ -298,7 +298,7 @@ You have removed yourself from your heritage so thoroughly that even magic does 
 
 **Prerequisites** : Exile's Path, Seen and Unseen, character level 11th, half-elf.
 
-**Benefit** : You are not considered elven or human for the purpose of harmful spells or effects based on your type, like a _ [bane](magicItems/weapons#_weapons-bane)_ weapon or a ranger's favored enemy class feature.
+**Benefit** : You are not considered elven or human for the purpose of harmful spells or effects based on your type, like a _ [bane](magicItems_dir/weapons#_weapons-bane)_ weapon or a ranger's favored enemy class feature.
 
 ### Seen and Unseen
 
@@ -306,7 +306,7 @@ Your anonymity makes you difficult to find through magical or mundane means, and
 
 **Prerequisites** : Exile's Path, character level 5th, half-elf.
 
-**Benefit** : You gain a +2 bonus on all saving throws against scrying or divination effects. Additionally, you gain a +2 bonus on all [Stealth](skill_dir/stealth#_stealth) checks, and elves, half-elves, and humans take a –4 penalty on all efforts to track you through the [Survival](skills/survival#_survival) skill.
+**Benefit** : You gain a +2 bonus on all saving throws against scrying or divination effects. Additionally, you gain a +2 bonus on all [Stealth](skills_dir/stealth#_stealth) checks, and elves, half-elves, and humans take a –4 penalty on all efforts to track you through the [Survival](skills_dir/survival#_survival) skill.
 
 ### Shared Manipulation
 
@@ -314,7 +314,7 @@ You can subtly bolster allies' ability to misdirect and infuriate their enemies.
 
 **Prerequisites** : Cha 13, half-elf.
 
-**Benefit** : As a move action, you can grant all friendly creatures within 30 feet who can see or hear you a +2 bonus on [Bluff](skill_dir/bluff#_bluff) or [Intimidate](skills/intimidate#_intimidate) checks (choose which skill to affect each time you use this ability) for a number of rounds equal to your Charisma modifier (minimum 1 round).
+**Benefit** : As a move action, you can grant all friendly creatures within 30 feet who can see or hear you a +2 bonus on [Bluff](skills_dir/bluff#_bluff) or [Intimidate](skills_dir/intimidate#_intimidate) checks (choose which skill to affect each time you use this ability) for a number of rounds equal to your Charisma modifier (minimum 1 round).
 
 ## Half-Elven Magic Items
 
@@ -324,7 +324,7 @@ Ancestral Clasp
 
 **Aura** faint transmutation; **CL** 5th
 
-**Slot** none; **Price** 10,000 gp; **Weight** 1/2 lb.
+**Slot** none; **Price** 10,000 gp; **Weight** 1_dir/2 lb.
 
 Description
 
@@ -342,11 +342,11 @@ Brooch of Blending
 
 Description
 
-Occasionally, half-elves find it socially advantageous to blend in fully with either elves or humans. As a standard action, the wearer of this brooch can transform his features to appear either entirely elven or entirely human. The magic of this brooch actually changes the wearer's features physically, granting him a +20 circumstance bonus on [Disguise](skill_dir/disguise#_disguise) checks to appear as a member of the selected race. The transformation does not otherwise alter the wearer's features, and those who know him recognize him without a [Perception](skills/perception#_perception) check. This change remains until the brooch is used again or removed. This change does not radiate magic and cannot be seen with _ [detect magic](spell_dir/detectMagic#_detect-magic)_, although _ [true seeing](spells/trueSeeing#_true-seeing)_ does reveal the alteration. This item only functions for half-elves, but there are versions that exist for half-orcs as well.
+Occasionally, half-elves find it socially advantageous to blend in fully with either elves or humans. As a standard action, the wearer of this brooch can transform his features to appear either entirely elven or entirely human. The magic of this brooch actually changes the wearer's features physically, granting him a +20 circumstance bonus on [Disguise](skills_dir/disguise#_disguise) checks to appear as a member of the selected race. The transformation does not otherwise alter the wearer's features, and those who know him recognize him without a [Perception](skills_dir/perception#_perception) check. This change remains until the brooch is used again or removed. This change does not radiate magic and cannot be seen with _ [detect magic](spells_dir/detectMagic#_detect-magic)_, although _ [true seeing](spells_dir/trueSeeing#_true-seeing)_ does reveal the alteration. This item only functions for half-elves, but there are versions that exist for half-orcs as well.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [alter self](spell_dir/alterSelf#_alter-self)_, creator must be a half-elf; **Cost** 1,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [alter self](spells_dir/alterSelf#_alter-self)_, creator must be a half-elf; **Cost** 1,000 gp
 
 Cloak of the Diplomat
 
@@ -356,11 +356,11 @@ Cloak of the Diplomat
 
 Description
 
-Half-elves are often called upon to mediate disputes when elves and humans come into conflict. This is due in part to their blood, but also to their natural skills as facilitators and diplomats. The _cloak of the diplomat_ greatly aids them in this task. The cloak grants a +5 competence bonus on [Diplomacy](skills/diplomacy#_diplomacy) and [Sense Motive](skill_dir/senseMotive#_sense-motive) checks. In addition, once per day, before making a [Diplomacy](skills/diplomacy#_diplomacy) or [Sense Motive](skill_dir/senseMotive#_sense-motive) check, the wearer can decide to call upon the powers of the cloak to roll twice and take the better result. Finally, the wearer of this cloak can adjust a creature's attitude up to three steps when using [Diplomacy](skills/diplomacy#_diplomacy), instead of the normal limit of two steps. However, the cloak's power does have one drawback. Should the wearer ever fail a [Diplomacy](skill_dir/diplomacy#_diplomacy) check to adjust a creature's attitude by 5 or more, the creature's attitude is reduced by two steps instead of one.
+Half-elves are often called upon to mediate disputes when elves and humans come into conflict. This is due in part to their blood, but also to their natural skills as facilitators and diplomats. The _cloak of the diplomat_ greatly aids them in this task. The cloak grants a +5 competence bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) and [Sense Motive](skills_dir/senseMotive#_sense-motive) checks. In addition, once per day, before making a [Diplomacy](skills_dir/diplomacy#_diplomacy) or [Sense Motive](skills_dir/senseMotive#_sense-motive) check, the wearer can decide to call upon the powers of the cloak to roll twice and take the better result. Finally, the wearer of this cloak can adjust a creature's attitude up to three steps when using [Diplomacy](skills_dir/diplomacy#_diplomacy), instead of the normal limit of two steps. However, the cloak's power does have one drawback. Should the wearer ever fail a [Diplomacy](skills_dir/diplomacy#_diplomacy) check to adjust a creature's attitude by 5 or more, the creature's attitude is reduced by two steps instead of one.
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [charm person](spells/charmPerson#_charm-person)_, creator must have 5 ranks in [Diplomacy](skill_dir/diplomacy#_diplomacy) and [Sense Motive](skills/senseMotive#_sense-motive); **Cost** 10,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [charm person](spells_dir/charmPerson#_charm-person)_, creator must have 5 ranks in [Diplomacy](skills_dir/diplomacy#_diplomacy) and [Sense Motive](skills_dir/senseMotive#_sense-motive); **Cost** 10,000 gp
 
 Purifying Pearl
 
@@ -370,11 +370,11 @@ Purifying Pearl
 
 Description
 
-A favored tool of diplomats and those tasked with protecting the lives of regents and other important people, this small luminescent white pearl purifies putridity and poison in two ways. First, up to 10 cubic feet of food or drink that it touches per day is affected as if a _ [purify food and drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink)_ spell had been cast upon the food or drink. Second, once per day, if placed in the mouth of a creature (as a standard action that provokes attacks of opportunity), the pearl acts as a _ [neutralize poison](spells/neutralizePoison#_neutralize-poison)_ spell cast on that creature (caster level 10th).
+A favored tool of diplomats and those tasked with protecting the lives of regents and other important people, this small luminescent white pearl purifies putridity and poison in two ways. First, up to 10 cubic feet of food or drink that it touches per day is affected as if a _ [purify food and drink](spells_dir/purifyFoodAndDrink#_purify-food-and-drink)_ spell had been cast upon the food or drink. Second, once per day, if placed in the mouth of a creature (as a standard action that provokes attacks of opportunity), the pearl acts as a _ [neutralize poison](spells_dir/neutralizePoison#_neutralize-poison)_ spell cast on that creature (caster level 10th).
 
 Construction
 
-**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [neutralize poison](spell_dir/neutralizePoison#_neutralize-poison), purify food and [water](monsters/creatureTypes#_water-subtype)_; **Cost** 8,000 gp
+**Requirements** [Craft Wondrous Item](feats#_craft-wondrous-item), _ [neutralize poison](spells_dir/neutralizePoison#_neutralize-poison), purify food and [water](monsters_dir/creatureTypes#_water-subtype)_; **Cost** 8,000 gp
 
 Ring of the Sophisticate
 
@@ -384,11 +384,11 @@ Ring of the Sophisticate
 
 DESCRIPTION
 
-A favorite ring of urban half-elves, humans, and halflings, this small and plain silver band is set with a single radiant-cut sapphire and decorated with a mazelike pattern engraved into the ring's metal. Often worn on the little finger, the ring grants its wearer a +4 competence bonus on [Sense Motive](skill_dir/senseMotive#_sense-motive) and [Knowledge](skills/knowledge#_knowledge) (local) checks. Also, once per day on command, the wearer can use the ring to cast either _ [locate creature](spell_dir/locateCreature#_locate-creature)_ or _ [locate object](spells/locateObject#_locate-object)_ (the wearer's choice). Furthermore, on command and at will, the wearer can instantly know the direction from her to the nearest tavern, pub, or similar watering hole as long as that establishment is in a settlement whose population is equivalent to that of a village or greater and which is within 20 miles of the wearer.
+A favorite ring of urban half-elves, humans, and halflings, this small and plain silver band is set with a single radiant-cut sapphire and decorated with a mazelike pattern engraved into the ring's metal. Often worn on the little finger, the ring grants its wearer a +4 competence bonus on [Sense Motive](skills_dir/senseMotive#_sense-motive) and [Knowledge](skills_dir/knowledge#_knowledge) (local) checks. Also, once per day on command, the wearer can use the ring to cast either _ [locate creature](spells_dir/locateCreature#_locate-creature)_ or _ [locate object](spells_dir/locateObject#_locate-object)_ (the wearer's choice). Furthermore, on command and at will, the wearer can instantly know the direction from her to the nearest tavern, pub, or similar watering hole as long as that establishment is in a settlement whose population is equivalent to that of a village or greater and which is within 20 miles of the wearer.
 
 CONSTRUCTION
 
-**Requirements** [Forge Ring](feats#_forge-ring), know direction, locate creature, locate object, creator must have at least 4 ranks in both [Sense Motive](skill_dir/senseMotive#_sense-motive) and [Knowledge](skills/knowledge#_knowledge) (local); **Cost** 5,500 gp
+**Requirements** [Forge Ring](feats#_forge-ring), know direction, locate creature, locate object, creator must have at least 4 ranks in both [Sense Motive](skills_dir/senseMotive#_sense-motive) and [Knowledge](skills_dir/knowledge#_knowledge) (local); **Cost** 5,500 gp
 
 ## Half-Elven Spells
 
@@ -396,23 +396,23 @@ Half-elves have access to the following spells.
 
 Forgetful Slumber
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, sorcere_dir/wizard 4, witch 4
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, sorcerer_dir/wizard 4, witch 4
 
 **Casting Time** 1 round
 
-**Components** V, S, M (a few drops of river [water](monsters/creatureTypes#_water-subtype))
+**Components** V, S, M (a few drops of river [water](monsters_dir/creatureTypes#_water-subtype))
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** one living creature  **Duration** 1 minut_dir/level
+**Target** one living creature  **Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-This spell acts as the _deeper slumber_ spell, but only affects one creature of 10 Hit Dice or fewer. In addition, a creature affected by this spell awakens with no knowledge of the events that led to the spell's casting. The target loses all memory from the 5 minutes prior to falling asleep. No effect short of a _ [miracle](spells/miracle#_miracle)_ or _ [wish](spell_dir/wish#_wish)_ can restore memories lost by this spell.
+This spell acts as the _deeper slumber_ spell, but only affects one creature of 10 Hit Dice or fewer. In addition, a creature affected by this spell awakens with no knowledge of the events that led to the spell's casting. The target loses all memory from the 5 minutes prior to falling asleep. No effect short of a _ [miracle](spells_dir/miracle#_miracle)_ or _ [wish](spells_dir/wish#_wish)_ can restore memories lost by this spell.
 
 Paragon Surge
 
-**School** transmutation (polymorph); **Level** alchemist 3, cleric 3, magus 4, paladin 4, sorcerer/wizard 3, witch 3
+**School** transmutation (polymorph); **Level** alchemist 3, cleric 3, magus 4, paladin 4, sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
@@ -420,7 +420,7 @@ Paragon Surge
 
 **Range** personal (half-elf only)
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind simultaneously, and transforming into a paragon of both races, something greater than elf or human alone. Unlike with most polymorph effects, your basic form does not change, so you keep all extraordinary and supernatural abilities of your half-elven form as well as all of your gear.
 
@@ -428,7 +428,7 @@ For the duration of the spell, you receive a +2 enhancement bonus to Dexterity a
 
 Resilient Reservoir
 
-**School** transmutation; **Level** magus 3, paladin 3, sorcerer/wizard 4, witch 4
+**School** transmutation; **Level** magus 3, paladin 3, sorcerer_dir/wizard 4, witch 4
 
 **Casting Time** 1 standard action
 
@@ -438,7 +438,7 @@ Resilient Reservoir
 
 **Area** special, see text
 
-**Duration** 1 roun_dir/ level
+**Duration** 1 round_dir/ level
 
 **Saving Throw** none (see below); **Spell Resistance** yes
 
@@ -452,7 +452,7 @@ If you are reduced to negative hit points while you are under the effect of this
 
 Urban Grace
 
-**School** transmutation; **Level** alchemist 1, bard 1, ranger 1, sorcerer/wizard 1, witch 1
+**School** transmutation; **Level** alchemist 1, bard 1, ranger 1, sorcerer_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -460,7 +460,7 @@ Urban Grace
 
 **Range** personal
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
-You become one with the city around you, allowing you to move more easily through its crowds and buildings. For the duration of this spell, your base land speed increases by 10 feet. In addition, it does not cost you 2 squares of movement to enter a square with crowds, though the crowd still provides cover to you. This ability does not allow you to enter the space of enemy creatures without making the appropriate [Acrobatics](skills/acrobatics#_acrobatics) check. In addition, you receive a +4 circumstance bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics) checks made to move across uneven urban surfaces, such as roofs and broken pavement, and on [Climb](skills/climb#_climb) checks made to scale walls and other artificial surfaces. Whenever you make an [Acrobatics](skill_dir/acrobatics#_acrobatics) check to make a long jump between two buildings or artificial structures, you are always treated as if you had a running start, regardless of the actual distance traveled.
+You become one with the city around you, allowing you to move more easily through its crowds and buildings. For the duration of this spell, your base land speed increases by 10 feet. In addition, it does not cost you 2 squares of movement to enter a square with crowds, though the crowd still provides cover to you. This ability does not allow you to enter the space of enemy creatures without making the appropriate [Acrobatics](skills_dir/acrobatics#_acrobatics) check. In addition, you receive a +4 circumstance bonus on [Acrobatics](skills_dir/acrobatics#_acrobatics) checks made to move across uneven urban surfaces, such as roofs and broken pavement, and on [Climb](skills_dir/climb#_climb) checks made to scale walls and other artificial surfaces. Whenever you make an [Acrobatics](skills_dir/acrobatics#_acrobatics) check to make a long jump between two buildings or artificial structures, you are always treated as if you had a running start, regardless of the actual distance traveled.
 

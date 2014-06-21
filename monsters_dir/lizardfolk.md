@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/lizardfolk
+title: monsters_dir/lizardfolk
 ---
 # Lizardfolk
 
@@ -12,7 +12,7 @@ _This reptilian humanoid has green scales, a short and toothy snout, and a thick
 
 N Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_reptilian-subtype))
 
-**Init** +0; **Senses** [Perception](../skill_dir/perception#_perception) +1
+**Init** +0; **Senses** [Perception](../skills_dir/perception#_perception) +1
 
 **Defense**
 
@@ -38,7 +38,7 @@ N Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_reptil
 
 **Feats** [Multiattack](monsterFeats#_multiattack)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +2, [Perception](../skill_dir/perception#_perception) +1, [Swim](../skill_dir/swim#_swim) +8; **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +2, [Perception](../skills_dir/perception#_perception) +1, [Swim](../skills_dir/swim#_swim) +8; **Racial Modifiers** +4 [Acrobatics](../skills_dir/acrobatics#_acrobatics)
 
 **Languages** Draconic
 

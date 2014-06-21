@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/magicItems/armor
+title: advanced_dir/magicItems_dir/armor
 ---
 # Armor
 
@@ -23,27 +23,27 @@ A shield or suit of armor with a special ability must have at least a +1 enhance
 
 **Champion** : This armor property only works for good creatures with the challenge ability (such as cavaliers) or the smite evil ability (such as paladins, half-celestials, and creatures with the celestial creature template). When worn by such a creature that uses a challenge or smite ability, the wearer gains a +2 sacred bonus to AC against attacks from the chosen opponent.
 
-Faint abjuration; CL 5th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil)_ or _ [protection from good](spells/protectionFromGood#_protection-from-good)_; Price +1 bonus.
+Faint abjuration; CL 5th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [protection from evil](spells_dir/protectionFromEvil#_protection-from-evil)_ or _ [protection from good](spells_dir/protectionFromGood#_protection-from-good)_; Price +1 bonus.
 
 **Dastard** : This armor property only works for evil creatures with the challenge ability (such as cavaliers) or the smite good ability (such as antipaladins, half-fiends, and creatures with the fiendish creature template). When worn by such a creature that uses a challenge or smite ability, the wearer gains a +2 profane bonus to AC against attacks from the chosen opponent.
 
-Faint abjuration; CL 5th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [protection from evil](spell_dir/protectionFromEvil#_protection-from-evil)_ or _ [protection from good](spells/protectionFromGood#_protection-from-good)_; Price +1 bonus.
+Faint abjuration; CL 5th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [protection from evil](spells_dir/protectionFromEvil#_protection-from-evil)_ or _ [protection from good](spells_dir/protectionFromGood#_protection-from-good)_; Price +1 bonus.
 
-**Determination** : A shield or armor with this property provides the ability to fight on against seemingly impossible odds. Once per day, when the owner reaches 0 or fewer hit points, the item automatically provides a _ [breath of life](spell_dir/breathOfLife#_breath-of-life)_ spell.
+**Determination** : A shield or armor with this property provides the ability to fight on against seemingly impossible odds. Once per day, when the owner reaches 0 or fewer hit points, the item automatically provides a _ [breath of life](spells_dir/breathOfLife#_breath-of-life)_ spell.
 
-Moderate conjuration; CL 10th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [breath of life](spells/breathOfLife#_breath-of-life)_; Price +30,000 gp.
+Moderate conjuration; CL 10th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [breath of life](spells_dir/breathOfLife#_breath-of-life)_; Price +30,000 gp.
 
-**Jousting** : This suit of armor helps its wearer remain mounted and in control of his mount. The wearer gains a +5 competence bonus on [Ride](skill_dir/ride#_ride) skill checks.
+**Jousting** : This suit of armor helps its wearer remain mounted and in control of his mount. The wearer gains a +5 competence bonus on [Ride](skills_dir/ride#_ride) skill checks.
 
-Faint transmutation; CL 5th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), creator must have 5 ranks in the [Ride](skills/ride#_ride) skill; Price +3,750 gp.
+Faint transmutation; CL 5th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), creator must have 5 ranks in the [Ride](skills_dir/ride#_ride) skill; Price +3,750 gp.
 
-**Righteous** : Armor with this property is often engraved or enameled with religious symbols. On command once per day, the wearer can invoke an effect, as per the spell _ [righteous might](spell_dir/righteousMight#_righteous-might)_, lasting for 10 rounds. Righteous armor is always aligned toward good (positive energy), for the effects of _ [righteous might](spells/righteousMight#_righteous-might)_. _Righteous_ armor bestows one permanent negative level on any evil creature attempting to wear it. The negative level remains as long as the armor is worn and disappears when it is removed. This negative level cannot be overcome in any way (including by _ [restoration](spell_dir/restoration#_restoration)_ spells) while the armor is worn.
+**Righteous** : Armor with this property is often engraved or enameled with religious symbols. On command once per day, the wearer can invoke an effect, as per the spell _ [righteous might](spells_dir/righteousMight#_righteous-might)_, lasting for 10 rounds. Righteous armor is always aligned toward good (positive energy), for the effects of _ [righteous might](spells_dir/righteousMight#_righteous-might)_. _Righteous_ armor bestows one permanent negative level on any evil creature attempting to wear it. The negative level remains as long as the armor is worn and disappears when it is removed. This negative level cannot be overcome in any way (including by _ [restoration](spells_dir/restoration#_restoration)_ spells) while the armor is worn.
 
-Moderate transmutation; CL 10th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [righteous might](spells/righteousMight#_righteous-might)_; Cost +27,000 gp.
+Moderate transmutation; CL 10th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [righteous might](spells_dir/righteousMight#_righteous-might)_; Cost +27,000 gp.
 
-**Unrighteous** : This armor is often sculpted with unholy symbols. On command once per day, the wearer can invoke an effect, as per the spell _ [righteous might](spell_dir/righteousMight#_righteous-might)_, lasting for 10 rounds. _Unrighteous_ armor is always aligned toward evil (negative energy), for the effects of _ [righteous might](spells/righteousMight#_righteous-might)_. Unrighteous armor bestows one permanent negative level on any good creature attempting to wear it. The negative level remains as long as the armor is worn and disappears when it is removed. This negative level cannot be overcome in any way (including by _ [restoration](spell_dir/restoration#_restoration)_ spells) while the armor is worn.
+**Unrighteous** : This armor is often sculpted with unholy symbols. On command once per day, the wearer can invoke an effect, as per the spell _ [righteous might](spells_dir/righteousMight#_righteous-might)_, lasting for 10 rounds. _Unrighteous_ armor is always aligned toward evil (negative energy), for the effects of _ [righteous might](spells_dir/righteousMight#_righteous-might)_. Unrighteous armor bestows one permanent negative level on any good creature attempting to wear it. The negative level remains as long as the armor is worn and disappears when it is removed. This negative level cannot be overcome in any way (including by _ [restoration](spells_dir/restoration#_restoration)_ spells) while the armor is worn.
 
-Moderate transmutation; CL 10th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [righteous might](spells/righteousMight#_righteous-might)_; Cost +27,000 gp.
+Moderate transmutation; CL 10th; [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [righteous might](spells_dir/righteousMight#_righteous-might)_; Cost +27,000 gp.
 
 # Specific Armors
 
@@ -80,7 +80,7 @@ Each metal bit of this suit of _+1 studded leather_ looks more like a tiny sneer
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [confusion](spell_dir/confusion#_confusion)_; **Cost** 7,675 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [confusion](spells_dir/confusion#_confusion)_; **Cost** 7,675 gp
 
 **Boneless Leather**
 
@@ -90,11 +90,11 @@ Each metal bit of this suit of _+1 studded leather_ looks more like a tiny sneer
 
 **Description**
 
-This suit of _+1 leather_ gives its wearer the ability to twist and contort his body in virtually any direction. He gains a +5 bonus on [Escape Artist](skills/escapeArtist#_escape-artist) checks, a +5 bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics) checks to reduce damage from falls, a +5 bonus to CMD, and DR 5/piercing or slashing.
+This suit of _+1 leather_ gives its wearer the ability to twist and contort his body in virtually any direction. He gains a +5 bonus on [Escape Artist](skills_dir/escapeArtist#_escape-artist) checks, a +5 bonus on [Acrobatics](skills_dir/acrobatics#_acrobatics) checks to reduce damage from falls, a +5 bonus to CMD, and DR 5_dir/piercing or slashing.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [alter self](spell_dir/alterSelf#_alter-self)_, creator must have 5 ranks in the [Acrobatics](skills/acrobatics#_acrobatics) and [Escape Artist](skill_dir/escapeArtist#_escape-artist) skills; **Cost** 6,160 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [alter self](spells_dir/alterSelf#_alter-self)_, creator must have 5 ranks in the [Acrobatics](skills_dir/acrobatics#_acrobatics) and [Escape Artist](skills_dir/escapeArtist#_escape-artist) skills; **Cost** 6,160 gp
 
 **Buccaneer's Breastplate**
 
@@ -104,11 +104,11 @@ This suit of _+1 leather_ gives its wearer the ability to twist and contort his 
 
 **Description**
 
-This _+1 breastplate_ is made of bluish metal and decorated with wave motifs. It allows the wearer to continually utilize the effects of the spell _ [water walk](spells/waterWalk#_water-walk)_. If a creature puts on the armor while underwater, the wearer is borne toward the surface at a rate of 60 feet per round.
+This _+1 breastplate_ is made of bluish metal and decorated with wave motifs. It allows the wearer to continually utilize the effects of the spell _ [water walk](spells_dir/waterWalk#_water-walk)_. If a creature puts on the armor while underwater, the wearer is borne toward the surface at a rate of 60 feet per round.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [water walk](spell_dir/waterWalk#_water-walk)_; **Cost** 12,100 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [water walk](spells_dir/waterWalk#_water-walk)_; **Cost** 12,100 gp
 
 **Daystar Half-Plate**
 
@@ -118,11 +118,11 @@ This _+1 breastplate_ is made of bluish metal and decorated with wave motifs. It
 
 **Description**
 
-The silvery sheen of this _+1 half-plate_ causes it to sparkle in even the faintest light. At will, the wearer can command it to shine with a _ [daylight](spells/daylight#_daylight)_ spell for 10 minutes. Once per day, the wearer can command it to shine as per the _ [sunburst](spell_dir/sunburst#_sunburst)_ spell.
+The silvery sheen of this _+1 half-plate_ causes it to sparkle in even the faintest light. At will, the wearer can command it to shine with a _ [daylight](spells_dir/daylight#_daylight)_ spell for 10 minutes. Once per day, the wearer can command it to shine as per the _ [sunburst](spells_dir/sunburst#_sunburst)_ spell.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [daylight](spells/daylight#_daylight)_, _ [sunburst](spell_dir/sunburst#_sunburst)_; **Cost** 41,000 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [daylight](spells_dir/daylight#_daylight)_, _ [sunburst](spells_dir/sunburst#_sunburst)_; **Cost** 41,000 gp
 
 **Folding Plate**
 
@@ -136,7 +136,7 @@ This item normally looks like a heavy steel brooch or cloak clasp, often depicti
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [instant summons](spells/instantSummons#_instant-summons)_; **Cost** 7,650 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [instant summons](spells_dir/instantSummons#_instant-summons)_; **Cost** 7,650 gp
 
 **Forsaken Banded Mail**
 
@@ -160,11 +160,11 @@ Every inch of this suit of _+1 banded mail_ bears a defaced holy symbol or a des
 
 **Description**
 
-This drooping, many-folded suit of _+3 hide armor_ is made from the tanned skin of an actual giant. Once per day on command, the wearer can grow to match the size of the appropriate giant, as if using _ [giant form I](spell_dir/giantForm#_giant-form-i)_ (ogre, troll, hill giant, stone giant, fire giant, or frost giant) or _ [giant form II](spells/giantForm#_giant-form-ii)_ (cloud giant or storm giant). This transformation lasts up to 15 minutes, and ends when the wearer commands. Most good folk consider wearing the skins of intelligent creatures to be abhorrent. Giants gain a +2 morale bonus on attack and damage rolls against the wearer, or +4 if the wearer's armor is made from the same kind of giant as the attacker.
+This drooping, many-folded suit of _+3 hide armor_ is made from the tanned skin of an actual giant. Once per day on command, the wearer can grow to match the size of the appropriate giant, as if using _ [giant form I](spells_dir/giantForm#_giant-form-i)_ (ogre, troll, hill giant, stone giant, fire giant, or frost giant) or _ [giant form II](spells_dir/giantForm#_giant-form-ii)_ (cloud giant or storm giant). This transformation lasts up to 15 minutes, and ends when the wearer commands. Most good folk consider wearing the skins of intelligent creatures to be abhorrent. Giants gain a +2 morale bonus on attack and damage rolls against the wearer, or +4 if the wearer's armor is made from the same kind of giant as the attacker.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [giant form I](spell_dir/giantForm#_giant-form-i)_ (ogre, troll, hill giant, stone giant, fire giant, or frost giant) or _ [giant form II](spells/giantForm#_giant-form-ii)_ (cloud giant or storm giant); **Cost** 19,660 gp (ogre), 23,415 gp (hill giant), 29,665 gp (troll), 27,165 gp (stone, fire, or frost giant), 34,665 gp (cloud giant), 38,415 gp (storm giant)
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [giant form I](spells_dir/giantForm#_giant-form-i)_ (ogre, troll, hill giant, stone giant, fire giant, or frost giant) or _ [giant form II](spells_dir/giantForm#_giant-form-ii)_ (cloud giant or storm giant); **Cost** 19,660 gp (ogre), 23,415 gp (hill giant), 29,665 gp (troll), 27,165 gp (stone, fire, or frost giant), 34,665 gp (cloud giant), 38,415 gp (storm giant)
 
 **Mistmail**
 
@@ -178,7 +178,7 @@ The fine links of this _+1 chain shirt_ form a pattern of roiling clouds. On com
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist)_; **Cost** 1,250 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_; **Cost** 1,250 gp
 
 **Murderer's Blackcloth**
 
@@ -188,11 +188,11 @@ The fine links of this _+1 chain shirt_ form a pattern of roiling clouds. On com
 
 **Description**
 
-This silk _+1 [shadow](magicItems/armor#_armor-shadow) padded armor_ is as dark as night and stitched with thread the color of dried blood. When worn by a rogue with the bleed talent, it increases the bleed damage of the rogue's sneak attacks by +1.
+This silk _+1 [shadow](magicItems_dir/armor#_armor-shadow) padded armor_ is as dark as night and stitched with thread the color of dried blood. When worn by a rogue with the bleed talent, it increases the bleed damage of the rogue's sneak attacks by +1.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [bleed](spell_dir/bleed#_bleed)_, _ [invisibility](spells/invisibility#_invisibility)_, _ [silence](spell_dir/silence#_silence)_; **Cost** 6,280 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [bleed](spells_dir/bleed#_bleed)_, _ [invisibility](spells_dir/invisibility#_invisibility)_, _ [silence](spells_dir/silence#_silence)_; **Cost** 6,280 gp
 
 **Soothsayer's Raiment**
 
@@ -204,11 +204,11 @@ This silk _+1 [shadow](magicItems/armor#_armor-shadow) padded armor_ is as dark 
 
 This _+1 chainmail_ is attuned to a particular oracular mystery and contains a revelation associated with that mystery (see the oracle class description). While wearing the armor, an oracle has access to that revelation and may use it as if she had it as a normal class feature. The oracle must have the appropriate mystery to use the armor; for example, a _soothsayer's raiment (battlecry)_ is only usable by an oracle of battle. If the wearer already has that revelation and the revelation gives an ability with a limited number of uses per day, the oracle can use that ability one additional time per day. This ability has no effect if worn by a non-oracle.
 
-For divination spells with a percentage-based chance of success (such as _ [augury](spells/augury#_augury)_ and _ [divination](spell_dir/divination#_divination)_), the wearer's chance increases by +5.
+For divination spells with a percentage-based chance of success (such as _ [augury](spells_dir/augury#_augury)_ and _ [divination](spells_dir/divination#_divination)_), the wearer's chance increases by +5.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [augury](spells/augury#_augury)_, creator must be an oracle with the desired revelation; **Cost** 5,300 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [augury](spells_dir/augury#_augury)_, creator must be an oracle with the desired revelation; **Cost** 5,300 gp
 
 # Specific Shields
 
@@ -226,11 +226,11 @@ For divination spells with a percentage-based chance of success (such as _ [augu
 
 **Description**
 
-Once per day on command, this _+2 tower [shield](spell_dir/shield#_shield)_ can transform into a solid, 10-foot by 10-foot by 1-foot wall of masonry with a battlement on top and an arrow slit in each 5-foot length. The wall acts as cover just like any physical wall. The wielder can touch the wall with one hand and command it to revert to a tower shield either resting on the ground and balanced against his hand or strapped to his arm in the normal fashion. The wall has all the characteristics of any other foot-thick wall of masonry (hardness 8, 90 hit points, break DC of 35). Attacks sufficient to destroy the wall cause it to immediately transform back into a shield, which loses half its hit points and gains the broken condition. The shield remains in wall form until destroyed or commanded to return to shield form. The wall cannot appear in a space too small to accommodate it.
+Once per day on command, this _+2 tower [shield](spells_dir/shield#_shield)_ can transform into a solid, 10-foot by 10-foot by 1-foot wall of masonry with a battlement on top and an arrow slit in each 5-foot length. The wall acts as cover just like any physical wall. The wielder can touch the wall with one hand and command it to revert to a tower shield either resting on the ground and balanced against his hand or strapped to his arm in the normal fashion. The wall has all the characteristics of any other foot-thick wall of masonry (hardness 8, 90 hit points, break DC of 35). Attacks sufficient to destroy the wall cause it to immediately transform back into a shield, which loses half its hit points and gains the broken condition. The shield remains in wall form until destroyed or commanded to return to shield form. The wall cannot appear in a space too small to accommodate it.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [wall of stone](spells/wallOfStone#_wall-of-stone)_; **Cost** 8,180 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [wall of stone](spells_dir/wallOfStone#_wall-of-stone)_; **Cost** 8,180 gp
 
 **Fortress Shield**
 
@@ -240,9 +240,9 @@ Once per day on command, this _+2 tower [shield](spell_dir/shield#_shield)_ can 
 
 **Description**
 
-The wearer of this _+1 tower [shield](spell_dir/shield#_shield)_ may, as a full-round action, transform the shield into a 1-inch thick cube of iron that springs into being around him, completely enclosing his space. The cube has hardness 10 and 30 hit points per side. This cube grants the wearer total cover against everything outside the cube, including (as it is perfectly sealed) swarms and gas attacks. The inside of the cube is dark, and air cannot get in or out so the wearer must hold his breath starting on the third round after activating the cube. Attacks sufficient to destroy one side of the cube cause it to immediately transform back into a shield, which loses half its hit points and gains the broken condition. Otherwise, the cube reverts to shield form upon command, if the wearer moves from his current space, or the wearer falls unconscious or dies.
+The wearer of this _+1 tower [shield](spells_dir/shield#_shield)_ may, as a full-round action, transform the shield into a 1-inch thick cube of iron that springs into being around him, completely enclosing his space. The cube has hardness 10 and 30 hit points per side. This cube grants the wearer total cover against everything outside the cube, including (as it is perfectly sealed) swarms and gas attacks. The inside of the cube is dark, and air cannot get in or out so the wearer must hold his breath starting on the third round after activating the cube. Attacks sufficient to destroy one side of the cube cause it to immediately transform back into a shield, which loses half its hit points and gains the broken condition. Otherwise, the cube reverts to shield form upon command, if the wearer moves from his current space, or the wearer falls unconscious or dies.
 
 **Construction**
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [wall of iron](spells/wallOfIron#_wall-of-iron)_; **Cost** 9,680 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [wall of iron](spells_dir/wallOfIron#_wall-of-iron)_; **Cost** 9,680 gp
 

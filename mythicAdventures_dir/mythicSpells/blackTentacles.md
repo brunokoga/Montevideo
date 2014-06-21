@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/blackTentacles
+title: mythicAdventures_dir/mythicSpells_dir/blackTentacles
 ---
 Black Tentacles
 
-**Source** [_black tentacles_](spell_dir/blackTentacles#_black-tentacles)
+**Source** [_black tentacles_](spells_dir/blackTentacles#_black-tentacles)
 
 Add your tier to the base attack bonus of the tentacles. The tentacles also deal an additional 2d6 points of acid damage with a successful grapple.
 

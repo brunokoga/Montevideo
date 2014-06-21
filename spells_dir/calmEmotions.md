@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/calmEmotions
+title: spells_dir/calmEmotions
 ---
  **Calm Emotions**
 
@@ -10,11 +10,11 @@ title: spell_dir/calmEmotions
 
 **Components** V, S, DF
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Area** creatures in a 20-ft.-radius spread
 
-**Duration** concentration, up to 1 roun_dir/level (D)
+**Duration** concentration, up to 1 round_dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/disfiguringTouch
+title: ultimateMagic_dir/spells_dir/disfiguringTouch
 ---
 Disfiguring Touch
 
-**School** transmutation [curse]; **Level** cleric 2, sorcere_dir/wizard 2, witch 2
+**School** transmutation [curse]; **Level** cleric 2, sorcerer_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Disfiguring Touch
 
 **Target** creature touched
 
-**Duration** 1 day/level
+**Duration** 1 day_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

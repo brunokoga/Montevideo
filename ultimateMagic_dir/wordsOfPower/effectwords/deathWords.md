@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/deathWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/deathWords
 ---
 ## Death Words
 
@@ -8,7 +8,7 @@ Words from this family destroy life and create undead abominations.
 
 Undeath (Death)
 
-**School** necromancy [[evil](monsters/creatureTypes#_evil-subtype)]; **Level** cleric 2, sorcere_dir/wizard 3
+**School** necromancy [[evil](monsters_dir/creatureTypes#_evil-subtype)]; **Level** cleric 2, sorcerer_dir/wizard 3
 
 **Duration** instantaneous
 
@@ -22,7 +22,7 @@ Grave Bane (Death)
 
 **School** necromancy; **Level** cleric 4, druid 5, inquisitor 5, paladin 4
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -32,9 +32,9 @@ The target of a wordspell with this effect word receives a +4 sacred bonus on sa
 
 Life Leech (Death)
 
-**School** necromancy [[evil](monster_dir/creatureTypes#_evil-subtype)]; **Level** magus 4, sorcerer/wizard 4, witch 4
+**School** necromancy [[evil](monsters_dir/creatureTypes#_evil-subtype)]; **Level** magus 4, sorcerer_dir/wizard 4, witch 4
 
-**Duration** 1 hou_dir/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
@@ -46,7 +46,7 @@ The target of a wordspell with this effect word takes 1d4 temporary negative lev
 
 Slay (Death)
 
-**School** necromancy [death, [evil](monsters/creatureTypes#_evil-subtype)]; **Level** cleric 6, druid 7, sorcere_dir/wizard 6, witch 6
+**School** necromancy [death, [evil](monsters_dir/creatureTypes#_evil-subtype)]; **Level** cleric 6, druid 7, sorcerer_dir/wizard 6, witch 6
 
 **Duration** instantaneous
 

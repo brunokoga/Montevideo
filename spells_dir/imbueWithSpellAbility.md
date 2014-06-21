@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/imbueWithSpellAbility
+title: spells_dir/imbueWithSpellAbility
 ---
  **Imbue with Spell Ability**
 

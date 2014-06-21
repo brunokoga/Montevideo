@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/deadlyFinale
+title: advanced_dir/spells_dir/deadlyFinale
 ---
  **Deadly Finale**
 
@@ -10,9 +10,9 @@ title: advance_dir/spells/deadlyFinale
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Targets** 1 creatur_dir/3 levels no two of which can be more than 30 ft. apart
+**Targets** 1 creature_dir/3 levels no two of which can be more than 30 ft. apart
 
 **Duration** instantaneous
 

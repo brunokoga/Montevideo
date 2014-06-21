@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/icicleDagger
+title: ultimateMagic_dir/spells_dir/icicleDagger
 ---
 Icicle Dagger
 
-**School** conjuration (creation) [cold]; **Level** sorcere_dir/wizard 1, summoner 1, witch 1
+**School** conjuration (creation) [cold]; **Level** sorcerer_dir/wizard 1, summoner 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -14,10 +14,10 @@ Icicle Dagger
 
 **Effect** one icicle
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
 You create a masterwork dagger out of ice. The dagger deals 1 point of cold damage in addition to normal dagger damage. If the dagger leaves your hand for more than 1 round, it melts and the spell ends. At 6th level, the dagger functions as a   
-_+1 [frost](magicItem_dir/weapons#_weapons-frost) dagger_. At 11th level, it gains the _ [returning](magicItems/weapons#_weapons-returning)_ property when thrown, melting away and reforming in your hand just before your next turn.
+_+1 [frost](magicItems_dir/weapons#_weapons-frost) dagger_. At 11th level, it gains the _ [returning](magicItems_dir/weapons#_weapons-returning)_ property when thrown, melting away and reforming in your hand just before your next turn.
 

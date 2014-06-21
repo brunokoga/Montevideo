@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advancedRaceGuid_dir/ageHeightWeight
+title: advancedRaceGuide_dir/ageHeightWeight
 ---
 # Age
 

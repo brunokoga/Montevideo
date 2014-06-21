@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/tirelessPursuers
+title: advanced_dir/spells_dir/tirelessPursuers
 ---
  **Tireless Pursuers**
 
@@ -10,7 +10,7 @@ title: advance_dir/spells/tirelessPursuers
 
 **Range** touch
 
-**Target** you plus one touched creatur_dir/3 levels
+**Target** you plus one touched creature_dir/3 levels
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

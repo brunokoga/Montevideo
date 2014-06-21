@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/variants/armorAsDamageReduction
+title: ultimateCombat_dir/variants_dir/armorAsDamageReduction
 ---
 # Armor as Damage Reduction
 
@@ -26,21 +26,21 @@ Defense represents how easy or difficult it is to hit a creature. The shield bon
 
 ## Armor as Damage Reduction
 
-Armor in this system keeps all of its normal statistics and qualities, but its armor bonus (including any enhancement bonus added to armor bonus and natural armor bonus) is converted to DR/armor. The DR an armor provides is equal to its total armor bonus with a +1 bonus at 5th level or at 5 Hit Dice, with an increase to that bonus of +1 for every five levels above 5th level, or every 5 Hit Dice over 5 Hit Dice (to a maximum of +4 to DR at 20th level or at 20 or more Hit Dice), provided that the creature wearing the armor is also proficient with the armor.
+Armor in this system keeps all of its normal statistics and qualities, but its armor bonus (including any enhancement bonus added to armor bonus and natural armor bonus) is converted to DR_dir/armor. The DR an armor provides is equal to its total armor bonus with a +1 bonus at 5th level or at 5 Hit Dice, with an increase to that bonus of +1 for every five levels above 5th level, or every 5 Hit Dice over 5 Hit Dice (to a maximum of +4 to DR at 20th level or at 20 or more Hit Dice), provided that the creature wearing the armor is also proficient with the armor.
 
 **Using Armor without Proficiency** : Creatures using armor they are not proficient with do not gain the bonus per level or Hit Dice to the DR, on top of any of the other normal penalties for using armor without proficiency.
 
-**DR/Armor** : This type of DR blocks the damage of all attacks that would normally be affected by DR, based on the composition of the armor (see Table 5–1). Unlike most forms of damage reduction, DR/armor stacks with other types of DR. For instances, when fighting a skeleton with DR 5/bludgeoning and DR 4/armor (+2 for armor, +2 for natural armor), the skeleton's DR/armor reduces 9 points of damage from non-bludgeoning attacks, and 4 damage from bludgeoning weapon attacks. Magic weapons and attacks from Large or larger creatures bypass the DR 4/armor, but not the DR 5/bludgeoning.
+**DR_dir/Armor** : This type of DR blocks the damage of all attacks that would normally be affected by DR, based on the composition of the armor (see Table 5–1). Unlike most forms of damage reduction, DR_dir/armor stacks with other types of DR. For instances, when fighting a skeleton with DR 5_dir/bludgeoning and DR 4_dir/armor (+2 for armor, +2 for natural armor), the skeleton's DR_dir/armor reduces 9 points of damage from non-bludgeoning attacks, and 4 damage from bludgeoning weapon attacks. Magic weapons and attacks from Large or larger creatures bypass the DR 4_dir/armor, but not the DR 5_dir/bludgeoning.
 
-**Natural Armor Bonus and DR** : Like a creature's armor bonus, a natural armor bonus is also converted into damage reduction. If a creature is wearing armor and has a natural armor bonus, the creature adds its armor bonus to its natural armor bonus to determine the amount of DR/armor that it has (see Table 5–2).
+**Natural Armor Bonus and DR** : Like a creature's armor bonus, a natural armor bonus is also converted into damage reduction. If a creature is wearing armor and has a natural armor bonus, the creature adds its armor bonus to its natural armor bonus to determine the amount of DR_dir/armor that it has (see Table 5–2).
 
-For instance, if a creature wearing a _+2 chain shirt_ has DR 6/armor is then subject to a _ [barkskin](spell_dir/barkskin#_barkskin) _spell cast by a 6th-level druid (gaining a +3 natural armor bonus), its DR becomes DR 9/armor for the duration of the spell. This DR is bypassed by adamantine, or the attacks of Huge or larger creatures.
+For instance, if a creature wearing a _+2 chain shirt_ has DR 6_dir/armor is then subject to a _ [barkskin](spells_dir/barkskin#_barkskin) _spell cast by a 6th-level druid (gaining a +3 natural armor bonus), its DR becomes DR 9_dir/armor for the duration of the spell. This DR is bypassed by adamantine, or the attacks of Huge or larger creatures.
 
-A creature that has both DR from a source other than armor and a natural armor bonus gains the effects of an enhanced form of DR, similar to how the composition of the armor grants special DR/armor defenses (see Table 5–1). If a creature has magical armor, natural armor, and DR, it takes the best form of the special protection provided by both its armor and its mix of DR and natural armor to its DR/armor.
+A creature that has both DR from a source other than armor and a natural armor bonus gains the effects of an enhanced form of DR, similar to how the composition of the armor grants special DR_dir/armor defenses (see Table 5–1). If a creature has magical armor, natural armor, and DR, it takes the best form of the special protection provided by both its armor and its mix of DR and natural armor to its DR_dir/armor.
 
-For instance, if a creature has natural armor and DR/magic and is wearing adamantine armor, that creature's DR/armor functions as DR/—, and can be bypassed by Gargantuan or larger creatures, since the adamantine armor provides the best of the two damage reductions.
+For instance, if a creature has natural armor and DR_dir/magic and is wearing adamantine armor, that creature's DR_dir/armor functions as DR_dir/—, and can be bypassed by Gargantuan or larger creatures, since the adamantine armor provides the best of the two damage reductions.
 
-**Unusual Creatures and Armor DR** : Amorphous or incorporeal creatures have an easier time bypassing DR/armor. When they attack a creature with DR/armor, they typically treat that DR as a fraction of the DR/armor. Attacks by incorporeal creatures entirely ignore the DR unless that DR comes from a force effect or from armor with the _ [ghost touch](magicItem_dir/weapons#_weapons-ghost-touch)_ special armor quality. These traits are detailed in Table 5–3.
+**Unusual Creatures and Armor DR** : Amorphous or incorporeal creatures have an easier time bypassing DR_dir/armor. When they attack a creature with DR_dir/armor, they typically treat that DR as a fraction of the DR_dir/armor. Attacks by incorporeal creatures entirely ignore the DR unless that DR comes from a force effect or from armor with the _ [ghost touch](magicItems_dir/weapons#_weapons-ghost-touch)_ special armor quality. These traits are detailed in Table 5–3.
 
 # Critical Hits and Defense
 
@@ -50,31 +50,31 @@ In this alternative system, when a creature threatens a critical hit, it does no
 
 The DC of the check is based on the die roll for the critical threat. It is further modified by the base attack bonus of the attacking creature, how many critical feats the attacking creature has (if any; 10 maximum), and a bonus relationship between the size of the attacking creature and the target of the critical hit, if the attacking creature is larger than the creature it attacked.
 
-**Critical defense DC = critical hit roll + 1/2 attacker's base attack bonus + 1 for each critical feat + 1 for each size category larger attacker is than target**
+**Critical defense DC = critical hit roll + 1_dir/2 attacker's base attack bonus + 1 for each critical feat + 1 for each size category larger attacker is than target**
 
 For instance, if a Medium creature is hit with a crossbow fired by a Medium 6th-level fighter with two critical feats, and the critical threat attack roll is a 19, the target of the potential critical hit makes a critical defense check with a DC of 24 to reduce the critical hit to a normal hit. If the target is wearing _+1 leather armor_, has a Dexterity of 18, and is using a _+1 buckler_, that target would have a +9 bonus on the critical defense check to reduce the critical hit to a normal hit. On a roll of 15 or higher, the critical hit is reduced to a normal hit, and the target takes normal damage for the hit (which is reduced by its DR). If the creature firing the crossbow had rolled a 20, the target of the critical hit would need to roll a 16 or higher on its critical defense check to reduce the impact of the critical hit, making it a normal hit.
 
 On a failed critical defense check, the target of the critical hit takes the damage for the critical hit. That damage is still reduced by the target of the critical hit's DR.
 
-**Fortification Special Armor Quality** : The _ [fortification](magicItem_dir/armor#_armor-fortification)_ special armor quality acts in concert with the check, coming into play if the armor check fails.
+**Fortification Special Armor Quality** : The _ [fortification](magicItems_dir/armor#_armor-fortification)_ special armor quality acts in concert with the check, coming into play if the armor check fails.
 
 [Table: Armor Composition and DR]
 | Material | Dr Provided | Attacker Size to Bypass DR |
 | --- | --- | --- |
-| Nonmagical armorⁱ | DR/magic | Large |
-| Magical armorⁱ | DR/adamantine | Huge |
-| Adamantine armorⁱ | DR/— | Gargantuan |
+| Nonmagical armorⁱ | DR_dir/magic | Large |
+| Magical armorⁱ | DR_dir/adamantine | Huge |
+| Adamantine armorⁱ | DR_dir/— | Gargantuan |
 
   
   
 
 [Table: Natural Armor Conversion to DR]
-| Natural Armo_dir/DR | DR Provided | Attacker Size to Bypass DR |
+| Natural Armor_dir/DR | DR Provided | Attacker Size to Bypass DR |
 | --- | --- | --- |
-| Natural armor with | DR/adamantine | Huge DR/magic |
-| Natural armor with | DR/— | Gargantuan DR/adamantine |
-| Natural armor with DR/— | DR/—ⁱ | Colossal |
-| Natural armor with DR/epic | DR/epicⁱ | _dir/a |
+| Natural armor with | DR_dir/adamantine | Huge DR_dir/magic |
+| Natural armor with | DR_dir/— | Gargantuan DR_dir/adamantine |
+| Natural armor with DR_dir/— | DR_dir/—ⁱ | Colossal |
+| Natural armor with DR_dir/epic | DR_dir/epicⁱ | n_dir/a |
 
   
   
@@ -82,9 +82,9 @@ On a failed critical defense check, the target of the critical hit takes the dam
 [Table: Unusual Creatures and Armor DR]
 | Attacking Creature Type | DR Modifier |
 | --- | --- |
-| Amorphousⁱ | ×1/2 |
-| Incorporeal | ×0 (×1 if DR is from a force effect or _ [ghost touch](magicItem_dir/weapons#_weapons-ghost-touch)_ armor) |
-| Swarm of Tiny creatures | ×1/2 |
-| Swarm of Diminutive creatures | ×1/4 |
+| Amorphousⁱ | ×1_dir/2 |
+| Incorporeal | ×0 (×1 if DR is from a force effect or _ [ghost touch](magicItems_dir/weapons#_weapons-ghost-touch)_ armor) |
+| Swarm of Tiny creatures | ×1_dir/2 |
+| Swarm of Diminutive creatures | ×1_dir/4 |
 | Swarm of Fine creatures | ×0 |
 

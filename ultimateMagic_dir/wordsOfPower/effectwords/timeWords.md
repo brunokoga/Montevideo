@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/timeWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/timeWords
 ---
 ## Time Words
 
@@ -10,7 +10,7 @@ Fleet (Time)
 
 **School** transmutation; **Level** druid 1, ranger 1
 
-**Duration** 1 hour/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -20,9 +20,9 @@ The target of a wordspell with this effect word has its base land speed increase
 
 Dash (Time)
 
-**School** transmutation; **Level** alchemist 1, bard 1, inquisitor 1, magus 1, sorcere_dir/wizard 1, summoner 1
+**School** transmutation; **Level** alchemist 1, bard 1, inquisitor 1, magus 1, sorcerer_dir/wizard 1, summoner 1
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -32,9 +32,9 @@ The target of a wordspell with this effect word has its base land speed increase
 
 Accelerate (Time)
 
-**School** transmutation; **Level** alchemist 2, bard 2, magus 2, sorcere_dir/wizard 2, summoner 2
+**School** transmutation; **Level** alchemist 2, bard 2, magus 2, sorcerer_dir/wizard 2, summoner 2
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -46,9 +46,9 @@ The target of a wordspell with this effect word can take one additional move act
 
 Decelerate (Time)
 
-**School** transmutation; **Level** bard 2, magus 2, sorcere_dir/wizard 2, summoner 2
+**School** transmutation; **Level** bard 2, magus 2, sorcerer_dir/wizard 2, summoner 2
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -72,7 +72,7 @@ The target of a wordspell with this effect word can look into the future of one 
 
 Borrow Future (Time)
 
-**School** transmutation; **Level** alchemist 4, bard 4, magus 4, sorcere_dir/wizard 4, summoner 4
+**School** transmutation; **Level** alchemist 4, bard 4, magus 4, sorcerer_dir/wizard 4, summoner 4
 
 **Duration** instantaneous
 
@@ -86,7 +86,7 @@ The target of a wordspell with this effect word takes either a standard action a
 
 Control Time (Time)
 
-**School** transmutation; **Level** sorcerer/wizard 9
+**School** transmutation; **Level** sorcerer_dir/wizard 9
 
 **Duration** instantaneous
 

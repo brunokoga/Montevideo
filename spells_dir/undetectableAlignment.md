@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/undetectableAlignment
+title: spells_dir/undetectableAlignment
 ---
  **Undetectable Alignment**
 
@@ -10,7 +10,7 @@ title: spell_dir/undetectableAlignment
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature or object
 

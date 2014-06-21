@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advance_dir/spells/shadowProjection
+title: advanced_dir/spells_dir/shadowProjection
 ---
  **Shadow Projection**
 
-**School** necromancy [evil]; **Level** sorcere_dir/wizard 4
+**School** necromancy [evil]; **Level** sorcerer_dir/wizard 4
 
 **Casting Time** 1 minute
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/shadowProjection
 
 **Target** you
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hour_dir/level (D)
 
 With this spell, you infuse your life force and psyche into your shadow, giving it independent life and movement as if it were an undead shadow (see _Pathfinder RPG Bestiary _245). Your physical body lies comatose while you are projecting your shadow, and your body has no shadow or reflection while the spell is in effect.
 

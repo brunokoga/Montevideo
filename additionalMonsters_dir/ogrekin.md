@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/ogrekin
+title: additionalMonsters_dir/ogrekin
 ---
 # Ogrekin
 
@@ -12,9 +12,9 @@ Its body twisted and deformed, this lumbering giant has tiny eyes and a mouth of
 
 Male human ogrekin fighter 2
 
-CE Medium [humanoid](monsters/creatureTypes#_humanoid) (giant)
+CE Medium [humanoid](monsters_dir/creatureTypes#_humanoid) (giant)
 
-**Int** +5; **Senses** low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +1
+**Int** +5; **Senses** low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +1
 
 Defense
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +7; **CMD** 18
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Power Attack](additionalMonster_dir/../feats#_power-attack)
+**Feats** [Cleave](additionalMonsters_dir/../feats#_cleave), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Power Attack](additionalMonsters_dir/../feats#_power-attack)
 
-**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +10, [Swim](additionalMonsters/../skill_dir/swim#_swim) +10
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +10, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +10
 
 **Languages** Giant
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/restoration
+title: spells_dir/restoration
 ---
  **Restoration**
 

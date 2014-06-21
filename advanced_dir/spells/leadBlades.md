@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/leadBlades
+title: advanced_dir/spells_dir/leadBlades
 ---
  **Lead Blades**
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/leadBlades
 
 **Target** touch
 
-**Duration** 1 minut_dir/level (D)
+**Duration** 1 minute_dir/level (D)
 
 _Lead blades_ increases the momentum and density of your melee weapons just as they strike a foe. All melee weapons you are carrying when the spell is cast deal damage as if one size category larger than they actually are. For instance, a Medium longsword normally deals 1d8 points of damage, but it would instead deal 2d6 points of damage if benefiting from _lead blades_. Only you can benefit from this spell. If anyone else uses one of your weapons to make an attack it deals damage as normal for its size.
 

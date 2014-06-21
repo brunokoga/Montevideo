@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/yellowMuskCreeper
+title: monsters_dir/yellowMuskCreeper
 ---
 # Yellow Musk Creeper
 
@@ -12,7 +12,7 @@ _Coiling around several human skeletons, this wet green plant's sickly flowers s
 
 N Medium [plant](creatureTypes#_plant)
 
-**Init** +2; **Senses** [tremorsense](universalMonsterRules#_tremorsense) 30 ft.; [Perception](../skill_dir/perception#_perception) +0
+**Init** +2; **Senses** [tremorsense](universalMonsterRules#_tremorsense) 30 ft.; [Perception](../skills_dir/perception#_perception) +0
 
 **Defense**
 

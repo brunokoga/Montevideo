@@ -1,20 +1,20 @@
 ---
 layout: default
-title: additionalMonster_dir/undine
+title: additionalMonsters_dir/undine
 ---
 # Undine
 
 This blue-haired, blue-skinned man moves with a liquid grace. His ears are fin-like, and his hands and feet are webbed.
 
-UndineCR 1/2
+UndineCR 1_dir/2
 
 **XP 200**
 
 Undine cleric 1
 
-N Medium [outsider](monster_dir/creatureTypes#_outsider) ( [native](monsters/creatureTypes#_native-subtype))
+N Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [native](monsters_dir/creatureTypes#_native-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +3
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +3
 
 Defense
 
@@ -24,7 +24,7 @@ Defense
 
 **Fort** +1, **Ref** +3, **Will** +5
 
-**Resist** [cold](monsters/creatureTypes#_cold-subtype) 5
+**Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 5
 
 Offense
 
@@ -34,23 +34,23 @@ Offense
 
 **Ranged** sling +2 (1d4)
 
-**Special Attacks** channel positive energy 7/day (DC 12, 1d6)
+**Special Attacks** channel positive energy 7_dir/day (DC 12, 1d6)
 
 **Spell-Like Abilities** (CL 1st; concentration +3)
 
-1/day—_ [hydraulic push](additionalMonster_dir/../advance_dir/spells/hydraulicPush#_hydraulic-push-)_
+1_dir/day—_ [hydraulic push](additionalMonsters_dir/../advanced_dir/spells_dir/hydraulicPush#_hydraulic-push-)_
 
 **Domain Spell-Like Abilities** (CL 1st; concentration +4)
 
-6/day—dazing touch
+6_dir/day—dazing touch
 
-6/day—icicle (1d6+1 cold damage)
+6_dir/day—icicle (1d6+1 cold damage)
 
 **Cleric Spells Prepared** (CL 1st; concentration +4)
 
-1st—_ [bless](additionalMonster_dir/../spell_dir/bless#_bless)_, _ [charm person](additionalMonsters/../spell_dir/charmPerson#_charm-person)_, _ [divine favor](additionalMonsters/../spell_dir/divineFavor#_divine-favor)_
+1st—_ [bless](additionalMonsters_dir/../spells_dir/bless#_bless)_, _ [charm person](additionalMonsters_dir/../spells_dir/charmPerson#_charm-person)_, _ [divine favor](additionalMonsters_dir/../spells_dir/divineFavor#_divine-favor)_
 
-0 (at will)—_ [create water](additionalMonsters/../spell_dir/createWater#_create-water)_, _ [guidance](additionalMonsters/../spell_dir/guidance#_guidance)_, _ [stabilize](additionalMonsters/../spell_dir/stabilize#_stabilize)_
+0 (at will)—_ [create water](additionalMonsters_dir/../spells_dir/createWater#_create-water)_, _ [guidance](additionalMonsters_dir/../spells_dir/guidance#_guidance)_, _ [stabilize](additionalMonsters_dir/../spells_dir/stabilize#_stabilize)_
 
 **D** Domain spell; **Domains** Charm, Water
 
@@ -62,7 +62,7 @@ Statistics
 
 **Feats** Extra Channel
 
-**Skills** [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy) +6, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (religion) +4, [Swim](additionalMonsters/../skill_dir/swim#_swim) +4
+**Skills** [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +6, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (religion) +4, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +4
 
 **Languages** Aquan, Common
 
@@ -78,7 +78,7 @@ Ecology
 
 SPECIAL ABILITIES
 
-**[Elemental](monsters/creatureTypes#_elemental-subtype) Affinity (Ex)** Undine sorcerers with the [elemental](monster_dir/creatureTypes#_elemental-subtype) (water) bloodline treat their Charisma score as 2 points higher for all sorcerer class abilities. Undine clerics with the Water domain cast their Water domain powers and spells at +1 caster level.
+**[Elemental](monsters_dir/creatureTypes#_elemental-subtype) Affinity (Ex)** Undine sorcerers with the [elemental](monsters_dir/creatureTypes#_elemental-subtype) (water) bloodline treat their Charisma score as 2 points higher for all sorcerer class abilities. Undine clerics with the Water domain cast their Water domain powers and spells at +1 caster level.
 
 Undines are humans whose ancestry includes elemental beings of water, such as marids. This connection with the Plane of Water is most noticeably manifested in their coloration, which tends to mimic that of lakes or oceans—all undines have limpid, blue eyes, and their skin and hair can range from pale blue-white to the   
 deep blue or green of the sea.
@@ -93,7 +93,7 @@ Undines are defined by class levels—they do not possess racial Hit Dice. Undin
 
 **Darkvision** : Undines can see in the dark up to 60 feet.
 
-**Spell-Like Abilities** : _ [Hydraulic push](additionalMonsters/../advance_dir/spells/hydraulicPush#_hydraulic-push-)_ 1/day. (Caster level equals the undine's total Hit Dice.)
+**Spell-Like Abilities** : _ [Hydraulic push](additionalMonsters_dir/../advanced_dir/spells_dir/hydraulicPush#_hydraulic-push-)_ 1_dir/day. (Caster level equals the undine's total Hit Dice.)
 
 **Energy Resistance** : Undines have cold resistance 5.
 

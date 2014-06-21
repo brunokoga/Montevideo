@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/burstOfNettles
+title: ultimateMagic_dir/spells_dir/burstOfNettles
 ---
 Burst of Nettles
 
@@ -10,7 +10,7 @@ Burst of Nettles
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Area** 10-ft.-radius burst
 

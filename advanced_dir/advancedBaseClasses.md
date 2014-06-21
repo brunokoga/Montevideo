@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/advancedBaseClasses
+title: advanced_dir/advancedBaseClasses
 ---
 # Base Classes
 
@@ -12,17 +12,17 @@ The six new base classes presented in this book are equivalent in power to the 1
 
 Each new class presents interesting character themes and special abilities as follows.
 
-**[Alchemist](baseClasses/alchemist)** : The alchemist is the master of alchemy, using extracts to grant him great power, mutagens to enhance his form, and bombs to destroy his enemies.
+**[Alchemist](baseClasses_dir/alchemist)** : The alchemist is the master of alchemy, using extracts to grant him great power, mutagens to enhance his form, and bombs to destroy his enemies.
 
-**[Cavalier](baseClasse_dir/cavalier)** : Mounted upon his mighty steed, the cavalier is a brave warrior, using his wit, charm, and strength at arms to rally his companions and achieve his goals.
+**[Cavalier](baseClasses_dir/cavalier)** : Mounted upon his mighty steed, the cavalier is a brave warrior, using his wit, charm, and strength at arms to rally his companions and achieve his goals.
 
-**[Inquisitor](baseClasses/inquisitor)** : Scourge of the unfaithful and hunter of horrors, the inquisitor roots out the enemies of her faith with grim conviction and an array of divine blessings.
+**[Inquisitor](baseClasses_dir/inquisitor)** : Scourge of the unfaithful and hunter of horrors, the inquisitor roots out the enemies of her faith with grim conviction and an array of divine blessings.
 
-**[Oracle](baseClasse_dir/oracle)** : Drawing upon divine mysteries, the oracle channels divine power through her body and soul, but at a terrible price.
+**[Oracle](baseClasses_dir/oracle)** : Drawing upon divine mysteries, the oracle channels divine power through her body and soul, but at a terrible price.
 
-**[Summoner](baseClasses/summoner)** : Bonded to a mysterious creature called an eidolon, the summoner focuses his power on strengthing that connection and enhancing his strange, otherworldy companion.
+**[Summoner](baseClasses_dir/summoner)** : Bonded to a mysterious creature called an eidolon, the summoner focuses his power on strengthing that connection and enhancing his strange, otherworldy companion.
 
-**[Witch](baseClasse_dir/witch)** : Lurking on the fringe of civilization, the witch makes a powerful connection with a patron that grants her strange and mysterious powers through a special familiar.
+**[Witch](baseClasses_dir/witch)** : Lurking on the fringe of civilization, the witch makes a powerful connection with a patron that grants her strange and mysterious powers through a special familiar.
 
 # Starting Wealth
 

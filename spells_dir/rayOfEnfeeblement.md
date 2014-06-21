@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/rayOfEnfeeblement
+title: spells_dir/rayOfEnfeeblement
 ---
  **Ray of Enfeeblement**
 
-**School** necromancy; **Level** sorcerer/wizard 1
+**School** necromancy; **Level** sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** ray
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) half; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

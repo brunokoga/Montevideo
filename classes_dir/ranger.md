@@ -1,6 +1,6 @@
 ---
 layout: default
-title: classe_dir/ranger
+title: classes_dir/ranger
 ---
 # Ranger
 
@@ -14,7 +14,7 @@ For those who relish the thrill of the hunt, there are only predators and prey. 
 
 ## Class Skills
 
-The ranger's class skills are [Climb](../skill_dir/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skill_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Handle Animal](../skill_dir/handleAnimal#_handle-animal) ( [Cha](../gettingStarted#_charisma-new)), Heal ( [Wis](../gettingStarted#_wisdom)), [Intimidate](../skill_dir/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skill_dir/knowledge#_knowledge) (dungeoneering) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skill_dir/knowledge#_knowledge) (geography) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skill_dir/knowledge#_knowledge) (nature) ( [Int](../gettingStarted#_intelligence)), [Perception](../skill_dir/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Profession](../skill_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skill_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Spellcraft](../skill_dir/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)), [Stealth](../skill_dir/stealth#_stealth) ( [Dex](../gettingStarted#_dexterity)), [Survival](../skill_dir/survival#_survival) ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skill_dir/swim#_swim) ( [Str](../gettingStarted#_strength)).
+The ranger's class skills are [Climb](../skills_dir/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skills_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Handle Animal](../skills_dir/handleAnimal#_handle-animal) ( [Cha](../gettingStarted#_charisma-new)), Heal ( [Wis](../gettingStarted#_wisdom)), [Intimidate](../skills_dir/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Knowledge](../skills_dir/knowledge#_knowledge) (dungeoneering) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills_dir/knowledge#_knowledge) (geography) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills_dir/knowledge#_knowledge) (nature) ( [Int](../gettingStarted#_intelligence)), [Perception](../skills_dir/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Profession](../skills_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skills_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Spellcraft](../skills_dir/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)), [Stealth](../skills_dir/stealth#_stealth) ( [Dex](../gettingStarted#_dexterity)), [Survival](../skills_dir/survival#_survival) ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skills_dir/swim#_swim) ( [Str](../gettingStarted#_strength)).
 
 **Skill Ranks per Level** : 6 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -28,21 +28,21 @@ The ranger's class skills are [Climb](../skill_dir/climb#_climb) ( [Str](../gett
 | 3rd | +3 | +3 | +3 | +1 | Endurance, 1st favored terrain | — | — | — | — |
 | 4th | +4 | +4 | +4 | +1 | Hunter's bond | 0 | — | — | — |
 | 5th | +5 | +4 | +4 | +1 | 2nd favored enemy | 1 | — | — | — |
-| 6th | +6/+1 | +5 | +5 | +2 | Combat style feat | 1 | — | — | — |
-| 7th | +7/+2 | +5 | +5 | +2 | Woodland stride | 1 | 0 | — | — |
-| 8th | +8/+3 | +6 | +6 | +2 | Swift tracker, 2nd favored terrain | 1 | 1 | — | — |
-| 9th | +9/+4 | +6 | +6 | +3 | Evasion | 2 | 1 | — | — |
-| 10th | +10/+5 | +7 | +7 | +3 | 3rd favored enemy, combat style feat | 2 | 1 | 0 | — |
-| 11th | +11/+6/+1 | +7 | +7 | +3 | Quarry | 2 | 1 | 1 | — |
-| 12th | +12/+7/+2 | +8 | +8 | +4 | Camouflage | 2 | 2 | 1 | — |
-| 13th | +13/+8/+3 | +8 | +8 | +4 | 3rd favored terrain | 3 | 2 | 1 | 0 |
-| 14th | +14/+9/+4 | +9 | +9 | +4 | Combat style feat | 3 | 2 | 1 | 1 |
-| 15th | +15/+10/+5 | +9 | +9 | +5 | 4th favored enemy | 3 | 2 | 2 | 1 |
-| 16th | +16/+11/+6/+1 | +10 | +10 | +5 | Improved evasion | 3 | 3 | 2 | 1 |
-| 17th | +17/+12/+7/+2 | +10 | +10 | +5 | Hide in plain sight | 4 | 3 | 2 | 1 |
-| 18th | +18/+13/+8/+3 | +11 | +11 | +6 | 4th favored terrain, combat style feat | 4 | 3 | 2 | 2 |
-| 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Improved quarry | 4 | 3 | 3 | 2 |
-| 20th | +20/+15/+10/+5 | +12 | +12 | +6 | 5th favored enemy, master hunter | 4 | 4 | 3 | 3 |
+| 6th | +6_dir/+1 | +5 | +5 | +2 | Combat style feat | 1 | — | — | — |
+| 7th | +7_dir/+2 | +5 | +5 | +2 | Woodland stride | 1 | 0 | — | — |
+| 8th | +8_dir/+3 | +6 | +6 | +2 | Swift tracker, 2nd favored terrain | 1 | 1 | — | — |
+| 9th | +9_dir/+4 | +6 | +6 | +3 | Evasion | 2 | 1 | — | — |
+| 10th | +10_dir/+5 | +7 | +7 | +3 | 3rd favored enemy, combat style feat | 2 | 1 | 0 | — |
+| 11th | +11_dir/+6_dir/+1 | +7 | +7 | +3 | Quarry | 2 | 1 | 1 | — |
+| 12th | +12_dir/+7_dir/+2 | +8 | +8 | +4 | Camouflage | 2 | 2 | 1 | — |
+| 13th | +13_dir/+8_dir/+3 | +8 | +8 | +4 | 3rd favored terrain | 3 | 2 | 1 | 0 |
+| 14th | +14_dir/+9_dir/+4 | +9 | +9 | +4 | Combat style feat | 3 | 2 | 1 | 1 |
+| 15th | +15_dir/+10_dir/+5 | +9 | +9 | +5 | 4th favored enemy | 3 | 2 | 2 | 1 |
+| 16th | +16_dir/+11_dir/+6_dir/+1 | +10 | +10 | +5 | Improved evasion | 3 | 3 | 2 | 1 |
+| 17th | +17_dir/+12_dir/+7_dir/+2 | +10 | +10 | +5 | Hide in plain sight | 4 | 3 | 2 | 1 |
+| 18th | +18_dir/+13_dir/+8_dir/+3 | +11 | +11 | +6 | 4th favored terrain, combat style feat | 4 | 3 | 2 | 2 |
+| 19th | +19_dir/+14_dir/+9_dir/+4 | +11 | +11 | +6 | Improved quarry | 4 | 3 | 3 | 2 |
+| 20th | +20_dir/+15_dir/+10_dir/+5 | +12 | +12 | +6 | 5th favored enemy, master hunter | 4 | 4 | 3 | 3 |
 
 ## Class Features
 
@@ -86,15 +86,15 @@ All of the following are class features of the ranger.
 | Undead |
 | Vermin |
 
-**Favored Enemy [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 1st level, a ranger selects a creature type from the ranger favored enemies table. He gains a +2 bonus on [Bluff](../skill_dir/bluff#_bluff), [Knowledge](../skill_dir/knowledge#_knowledge), [Perception](../skill_dir/perception#_perception), [Sense Motive](../skill_dir/senseMotive#_sense-motive), and [Survival](../skill_dir/survival#_survival) checks against creatures of his selected type. Likewise, he gets a +2 bonus on weapon attack and damage rolls against them. A ranger may make [Knowledge](../skill_dir/knowledge#_knowledge) [skill checks](../usingSkills#_skill-checks) untrained when attempting to identify these creatures.
+**Favored Enemy [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 1st level, a ranger selects a creature type from the ranger favored enemies table. He gains a +2 bonus on [Bluff](../skills_dir/bluff#_bluff), [Knowledge](../skills_dir/knowledge#_knowledge), [Perception](../skills_dir/perception#_perception), [Sense Motive](../skills_dir/senseMotive#_sense-motive), and [Survival](../skills_dir/survival#_survival) checks against creatures of his selected type. Likewise, he gets a +2 bonus on weapon attack and damage rolls against them. A ranger may make [Knowledge](../skills_dir/knowledge#_knowledge) [skill checks](../usingSkills#_skill-checks) untrained when attempting to identify these creatures.
 
 At 5th level and every five levels thereafter (10th, 15th, and 20th level), the ranger may select an additional favored enemy. In addition, at each such interval, the bonus against any one favored enemy (including the one just selected, if so desired) increases by +2.
 
 If the ranger chooses humanoids or outsiders as a favored enemy, he must also choose an associated subtype, as indicated on the table below. (Note that there are other types of humanoid to choose from—those called out specifically on the table below are merely the most common.) If a specific creature falls into more than one category of favored enemy, the ranger's bonuses do not stack; he simply uses whichever bonus is higher.
 
-**Track [(Ex)](../glossary#_extraordinary-abilities-ex)** : A ranger adds half his level (minimum 1) to [Survival](../skill_dir/survival#_survival) [skill checks](../usingSkills#_skill-checks) made to follow tracks.
+**Track [(Ex)](../glossary#_extraordinary-abilities-ex)** : A ranger adds half his level (minimum 1) to [Survival](../skills_dir/survival#_survival) [skill checks](../usingSkills#_skill-checks) made to follow tracks.
 
-**Wild Empathy [(Ex)](../glossary#_extraordinary-abilities-ex)** : A ranger can improve the initial attitude of an animal. This ability functions just like a [Diplomacy](../skill_dir/diplomacy#_diplomacy) check to improve the attitude of a person (see [Using Skills](../usingSkills)). The ranger rolls 1d20 and adds his ranger level and his [Charisma](../gettingStarted#_charisma-new) bonus to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+**Wild Empathy [(Ex)](../glossary#_extraordinary-abilities-ex)** : A ranger can improve the initial attitude of an animal. This ability functions just like a [Diplomacy](../skills_dir/diplomacy#_diplomacy) check to improve the attitude of a person (see [Using Skills](../usingSkills)). The ranger rolls 1d20 and adds his ranger level and his [Charisma](../gettingStarted#_charisma-new) bonus to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
 To use wild empathy, the ranger and the animal must be within 30 feet of one another under normal visibility conditions. Generally, influencing an animal in this way takes 1 minute, but, as with influencing people, it might take more or less time.
 
@@ -122,7 +122,7 @@ The benefits of the ranger's chosen style feats apply only when he wears light, 
 | Urban (buildings, streets, and sewers) |
 | Water (above and below the surface) |
 
-**Favored Terrain [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 3rd level, a ranger may select a type of terrain from the Favored Terrains table. The ranger gains a +2 bonus on initiative checks and [Knowledge](../skill_dir/knowledge#_knowledge) (geography), [Perception](../skill_dir/perception#_perception), [Stealth](../skill_dir/stealth#_stealth), and [Survival](../skill_dir/survival#_survival) [skill checks](../usingSkills#_skill-checks) when he is in this terrain. A ranger traveling through his favored terrain normally leaves no trail and cannot be tracked (though he may leave a trail if he so chooses).
+**Favored Terrain [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 3rd level, a ranger may select a type of terrain from the Favored Terrains table. The ranger gains a +2 bonus on initiative checks and [Knowledge](../skills_dir/knowledge#_knowledge) (geography), [Perception](../skills_dir/perception#_perception), [Stealth](../skills_dir/stealth#_stealth), and [Survival](../skills_dir/survival#_survival) [skill checks](../usingSkills#_skill-checks) when he is in this terrain. A ranger traveling through his favored terrain normally leaves no trail and cannot be tracked (though he may leave a trail if he so chooses).
 
 At 8th level and every five levels thereafter, the ranger may select an additional favored terrain. In addition, at each such interval, the skill bonus and initiative bonus in any one favored terrain (including the one just selected, if so desired), increases by +2.
 
@@ -148,19 +148,19 @@ Through 3rd level, a ranger has no caster level. At 4th level and higher, his ca
 
 Thorns, briars, and overgrown areas that are enchanted or magically manipulated to impede motion, however, still affect him.
 
-**Swift Tracker [(Ex)](../glossary#_extraordinary-abilities-ex)** : Beginning at 8th level, a ranger can move at his normal speed while using [Survival](../skill_dir/survival#_survival) to follow tracks without taking the normal –5 penalty. He takes only a –10 penalty (instead of the normal –20) when moving at up to twice normal speed while tracking.
+**Swift Tracker [(Ex)](../glossary#_extraordinary-abilities-ex)** : Beginning at 8th level, a ranger can move at his normal speed while using [Survival](../skills_dir/survival#_survival) to follow tracks without taking the normal –5 penalty. He takes only a –10 penalty (instead of the normal –20) when moving at up to twice normal speed while tracking.
 
 **Evasion [(Ex)](../glossary#_extraordinary-abilities-ex)** : When he reaches 9th level, a ranger can avoid even magical and unusual attacks with great agility. If he makes a successful [Reflex](../combat#_reflex) [saving throw](../combat#_saving-throws) against an attack that normally deals half damage on a successful save, he instead takes no damage. Evasion can be used only if the ranger is wearing light armor, medium armor, or no armor. A [helpless](../glossary#_helpless) ranger does not gain the benefit of evasion.
 
-**Quarry [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 11th level, a ranger can, as a standard action, denote one target within his line of sight as his quarry. Whenever he is following the tracks of his quarry, a ranger can take 10 on his [Survival](../skill_dir/survival#_survival) [skill checks](../usingSkills#_skill-checks) while moving at normal speed, without penalty. In addition, he receives a +2 insight bonus on attack rolls made against his quarry, and all critical threats are automatically confirmed. A ranger can have no more than one quarry at a time and the creature's type must correspond to one of his favored enemy types. He can dismiss this effect at any time as a free action, but he cannot select a new quarry for 24 hours. If the ranger sees proof that his quarry is dead, he can select a new quarry after waiting 1 hour.
+**Quarry [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 11th level, a ranger can, as a standard action, denote one target within his line of sight as his quarry. Whenever he is following the tracks of his quarry, a ranger can take 10 on his [Survival](../skills_dir/survival#_survival) [skill checks](../usingSkills#_skill-checks) while moving at normal speed, without penalty. In addition, he receives a +2 insight bonus on attack rolls made against his quarry, and all critical threats are automatically confirmed. A ranger can have no more than one quarry at a time and the creature's type must correspond to one of his favored enemy types. He can dismiss this effect at any time as a free action, but he cannot select a new quarry for 24 hours. If the ranger sees proof that his quarry is dead, he can select a new quarry after waiting 1 hour.
 
-**Camouflage [(Ex)](../glossary#_extraordinary-abilities-ex)** : A ranger of 12th level or higher can use the [Stealth](../skill_dir/stealth#_stealth) skill to hide in any of his favored terrains, even if the terrain doesn't grant cover or concealment.
+**Camouflage [(Ex)](../glossary#_extraordinary-abilities-ex)** : A ranger of 12th level or higher can use the [Stealth](../skills_dir/stealth#_stealth) skill to hide in any of his favored terrains, even if the terrain doesn't grant cover or concealment.
 
 **Improved Evasion [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 16th level, a ranger's evasion improves. This ability works like evasion, except that while the ranger still takes no damage on a successful [Reflex](../combat#_reflex) [saving throw](../combat#_saving-throws) against attacks, he henceforth takes only half damage on a failed save. A [helpless](../glossary#_helpless) ranger does not gain the benefit of improved evasion.
 
-**Hide in Plain Sight [(Ex)](../glossary#_extraordinary-abilities-ex)** : While in any of his favored terrains, a ranger of 17th level or higher can use the [Stealth](../skill_dir/stealth#_stealth) skill even while being observed.
+**Hide in Plain Sight [(Ex)](../glossary#_extraordinary-abilities-ex)** : While in any of his favored terrains, a ranger of 17th level or higher can use the [Stealth](../skills_dir/stealth#_stealth) skill even while being observed.
 
-**Improved Quarry [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 19th level, the ranger's ability to hunt his quarry improves. He can now select a quarry as a free action, and can now take 20 while using [Survival](../skill_dir/survival#_survival) to track his quarry, while moving at normal speed without penalty. His insight bonus to attack his quarry increases to +4. If his quarry is killed or dismissed, he can select a new one after 10 minutes have passed.
+**Improved Quarry [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 19th level, the ranger's ability to hunt his quarry improves. He can now select a quarry as a free action, and can now take 20 while using [Survival](../skills_dir/survival#_survival) to track his quarry, while moving at normal speed without penalty. His insight bonus to attack his quarry increases to +4. If his quarry is killed or dismissed, he can select a new one after 10 minutes have passed.
 
-**Master Hunter [(Ex)](../glossary#_extraordinary-abilities-ex)** : A ranger of 20th level becomes a master hunter. He can always move at full speed while using [Survival](../skill_dir/survival#_survival) to follow tracks without penalty. He can, as a standard action, make a single attack against a favored enemy at his full attack bonus. If the attack hits, the target takes damage normally and must make a [Fortitude](../combat#_fortitude) save or die. The DC of this save is equal to 10 + 1/2 the ranger's level + the ranger's [Wisdom](../gettingStarted#_wisdom) modifier. A ranger can choose instead to deal an amount of nonlethal damage equal to the creature's current hit points. A successful save negates this damage. A ranger can use this ability once per day against each favored enemy type he possesses, but not against the same creature more than once in a 24-hour period.
+**Master Hunter [(Ex)](../glossary#_extraordinary-abilities-ex)** : A ranger of 20th level becomes a master hunter. He can always move at full speed while using [Survival](../skills_dir/survival#_survival) to follow tracks without penalty. He can, as a standard action, make a single attack against a favored enemy at his full attack bonus. If the attack hits, the target takes damage normally and must make a [Fortitude](../combat#_fortitude) save or die. The DC of this save is equal to 10 + 1_dir/2 the ranger's level + the ranger's [Wisdom](../gettingStarted#_wisdom) modifier. A ranger can choose instead to deal an amount of nonlethal damage equal to the creature's current hit points. A successful save negates this damage. A ranger can use this ability once per day against each favored enemy type he possesses, but not against the same creature more than once in a 24-hour period.
 

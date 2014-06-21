@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/battlemindLink
+title: ultimateMagic_dir/spells_dir/battlemindLink
 ---
 Battlemind Link
 
-**School** divination [mind-affecting]; **Level** inquisitor 4, sorcere_dir/wizard 6
+**School** divination [mind-affecting]; **Level** inquisitor 4, sorcerer_dir/wizard 6
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** personal and close (25 ft. + 5 ft./2 levels)
+**Range** personal and close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** you and 1 ally
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

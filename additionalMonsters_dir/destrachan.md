@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/destrachan
+title: additionalMonsters_dir/destrachan
 ---
 # Destrachan
 
@@ -10,9 +10,9 @@ The hunched, reptilian beast lopes on two clawed feet, its eyeless head dominate
 
 **XP 4,800**
 
-NE Large [aberration](monsters/creatureTypes#_aberration)
+NE Large [aberration](monsters_dir/creatureTypes#_aberration)
 
-**Init** +5; **Senses** [blindsight](monster_dir/universalMonsterRules#_blindsight) 100 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +27
+**Init** +5; **Senses** [blindsight](monsters_dir/universalMonsterRules#_blindsight) 100 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +27
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +9, **Ref** +7, **Will** +12
 
-**Defensive Abilities** protection from sonics; **Immune** [gaze](monsters/universalMonsterRules#_gaze) attacks, visual effects, illusions, and attacks relying on sight; **Resist** sonic 30
+**Defensive Abilities** protection from sonics; **Immune** [gaze](monsters_dir/universalMonsterRules#_gaze) attacks, visual effects, illusions, and attacks relying on sight; **Resist** sonic 30
 
 Offense
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +14; **CMD** 26
 
-**Feats** [Dodge](additionalMonster_dir/../feats#_dodge), [Great Fortitude](additionalMonster_dir/../feats#_great-fortitude), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Lightning Reflexes](additionalMonster_dir/../feats#_lightning-reflexes), [Mobility](additionalMonster_dir/../feats#_mobility), [Vital Strike](additionalMonster_dir/../feats#_vital-strike)
+**Feats** [Dodge](additionalMonsters_dir/../feats#_dodge), [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Mobility](additionalMonsters_dir/../feats#_mobility), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike)
 
-**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +19, [Perception](additionalMonsters/../skill_dir/perception#_perception) +27, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +16, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +12, [Survival](additionalMonsters/../skill_dir/survival#_survival) +19; **Racial Modifiers** +8 [Perception](additionalMonsters/../skill_dir/perception#_perception) (hearing only)
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +19, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +27, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +16, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +12, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +19; **Racial Modifiers** +8 [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) (hearing only)
 
 **Languages** Common (cannot speak)
 
@@ -58,7 +58,7 @@ Special Abilities
 
 **Destructive Harmonics (Su)** A destrachan can project a blast of sonic energy in a cone up to 80 feet long or in a 30-foot-radius burst centered on itself as a standard action. It can adjust the harmonics of its sonic cry to generate one of two different effects on targets within the area of effect, but can only create one of these effects with each use of this ability. The save DCs are Constitution-based.
 
-_ [Destruction](additionalMonsters/../spell_dir/destruction#_destruction)_: All creatures within the area of effect of the destructive harmonics take 8d6 points of sonic damage—a DC 19 Reflex save halves this damage. If the destrachan wishes, this damage can instead deal nonlethal damage rather than sonic damage. Alternatively, the destrachan can target a single crystal, metal, stone, or wooden object within 80 feet with this attack—that object takes 8d6 points of damage. This damage is not halved when applied to the object's hit points, but is reduced by the object's hardness. A magical or attended object can attempt a DC 19 Reflex save to halve the damage.
+_ [Destruction](additionalMonsters_dir/../spells_dir/destruction#_destruction)_: All creatures within the area of effect of the destructive harmonics take 8d6 points of sonic damage—a DC 19 Reflex save halves this damage. If the destrachan wishes, this damage can instead deal nonlethal damage rather than sonic damage. Alternatively, the destrachan can target a single crystal, metal, stone, or wooden object within 80 feet with this attack—that object takes 8d6 points of damage. This damage is not halved when applied to the object's hit points, but is reduced by the object's hardness. A magical or attended object can attempt a DC 19 Reflex save to halve the damage.
 
 _Pain:_ Rather than deal damage, the destrachan can cause intense pain and overwhelming sound to affect all creatures within the area. Targets in the area must succeed on a DC 19 Fortitude save to avoid being stunned for 1 round and deafened for 1d6 rounds.
 

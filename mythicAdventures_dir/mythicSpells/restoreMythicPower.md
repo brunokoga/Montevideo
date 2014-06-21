@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/restoreMythicPower
+title: mythicAdventures_dir/mythicSpells_dir/restoreMythicPower
 ---
 Restore Mythic Power
 
-**School** transmutation; **Level** bard 3, cleric 3, sorcere_dir/wizard 3, witch 3
+**School** transmutation; **Level** bard 3, cleric 3, sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 

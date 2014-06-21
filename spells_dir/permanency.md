@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/permanency
+title: spells_dir/permanency
 ---
  **Permanency**
 
-**School** universal; **Level** sorcerer/wizard 5
+**School** universal; **Level** sorcerer_dir/wizard 5
 
 **Casting Time** 2 rounds
 

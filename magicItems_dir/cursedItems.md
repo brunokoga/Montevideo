@@ -1,6 +1,6 @@
 ---
 layout: default
-title: magicItem_dir/cursedItems
+title: magicItems_dir/cursedItems
 ---
 # Cursed Items
 
@@ -19,15 +19,15 @@ Cursed items are magic items with some sort of potentially negative impact. Occa
 
 **Identifying Cursed Items** : Cursed items are identified like any other magic item with one exception: unless the check made to identify the item exceeds the DC by 10 or more, the curse is not detected. If the check is not made by 10 or more, but still succeeds, all that is revealed is the magic item's original intent. If the item is known to be cursed, the nature of the curse can be determined using the standard DC to identify the item.
 
-**Removing Cursed Items** : While some cursed items can be simply discarded, others force a compulsion upon the user to keep the item, no matter the costs. Others reappear even if discarded or are impossible to throw away. These items can only be discarded after the character or item is targeted by a _ [remove curse](../spell_dir/removeCurse#_remove-curse)_ or similar magic. The DC of the caster level check to undo the curse is equal to 10 + the item's caster level. If the spell is successful, the item can be discarded on the following round, but the curse reasserts itself if the item is used again.
+**Removing Cursed Items** : While some cursed items can be simply discarded, others force a compulsion upon the user to keep the item, no matter the costs. Others reappear even if discarded or are impossible to throw away. These items can only be discarded after the character or item is targeted by a _ [remove curse](../spells_dir/removeCurse#_remove-curse)_ or similar magic. The DC of the caster level check to undo the curse is equal to 10 + the item's caster level. If the spell is successful, the item can be discarded on the following round, but the curse reasserts itself if the item is used again.
 
 ## Common Cursed Item Effects
 
 The following are some of the most common cursed item effects. GMs should feel free to invent new cursed item effects to fit specific items.
 
-**Delusion** : The user believes the item is what it appears to be, yet it actually has no magical power other than to deceive. The user is mentally fooled into thinking the item is functioning and cannot be convinced otherwise without the casting of _ [remove curse](../spell_dir/removeCurse#_remove-curse)_.
+**Delusion** : The user believes the item is what it appears to be, yet it actually has no magical power other than to deceive. The user is mentally fooled into thinking the item is functioning and cannot be convinced otherwise without the casting of _ [remove curse](../spells_dir/removeCurse#_remove-curse)_.
 
-**Opposite Effect or Target** : These cursed items malfunction, so that either they do the opposite of what the creator intended, or they target the user instead of someone else. The interesting point to keep in mind here is that these items aren't always bad to have. Opposite-effect items include weapons that impose penalties on attack and damage rolls rather than bonuses. Just as a character shouldn't necessarily immediately know what the enhancement bonus of a noncursed magic item is, she shouldn't immediately know that a weapon is cursed. Once she knows, however, the item can be discarded unless some sort of compulsion is placed upon it that compels the wielder to keep and use it. In such cases, a _ [remove curse](../spell_dir/removeCurse#_remove-curse) _spell is generally needed to get rid of the item.
+**Opposite Effect or Target** : These cursed items malfunction, so that either they do the opposite of what the creator intended, or they target the user instead of someone else. The interesting point to keep in mind here is that these items aren't always bad to have. Opposite-effect items include weapons that impose penalties on attack and damage rolls rather than bonuses. Just as a character shouldn't necessarily immediately know what the enhancement bonus of a noncursed magic item is, she shouldn't immediately know that a weapon is cursed. Once she knows, however, the item can be discarded unless some sort of compulsion is placed upon it that compels the wielder to keep and use it. In such cases, a _ [remove curse](../spells_dir/removeCurse#_remove-curse) _spell is generally needed to get rid of the item.
 
 **Intermittent Functioning** : The three varieties of intermittent functioning items all function perfectly as intended—at least some of the time. The three varieties are unreliable, dependent, and uncontrolled items.
 
@@ -73,13 +73,13 @@ _Uncontrolled_: An uncontrolled item occasionally activates at random times. Rol
 - Character must change her name to a specific name. The item only works for characters of that name.
 - Character must add a specific class at the next opportunity if not of that class already.
 - Character must have a minimum number of ranks in a particular skill.
-- Character must sacrifice some part of her life energy (2 points of [Constitution](../gettingStarted#_constitution)) one time. If the character gets the [Constitution](../gettingStarted#_constitution) points back (such as from a _restoration _spell), the item ceases functioning. (The item does not cease functioning if the character receives a [Constitution](../gettingStarted#_constitution) increase caused by level gain, a _ [wish](../spell_dir/wish#_wish), _or the use of a magic item.)
+- Character must sacrifice some part of her life energy (2 points of [Constitution](../gettingStarted#_constitution)) one time. If the character gets the [Constitution](../gettingStarted#_constitution) points back (such as from a _restoration _spell), the item ceases functioning. (The item does not cease functioning if the character receives a [Constitution](../gettingStarted#_constitution) increase caused by level gain, a _ [wish](../spells_dir/wish#_wish), _or the use of a magic item.)
 - Item must be cleansed with holy water each day.
 - Item must be used to kill a living creature each day.
 - Item must be bathed in volcanic lava once per month.
 - Item must be used at least once a day, or it won't function again for its current possessor.
 - Item must draw blood when wielded (weapons only). It can't be put away or exchanged for another weapon until it has scored a hit.
-- Item must have a particular spell cast upon it each day (such as _ [bless](../spell_dir/bless#_bless), [atonement](../spell_dir/atonement#_atonement), _or _ [animate objects](../spell_dir/animateObjects#_animate-objects)_).
+- Item must have a particular spell cast upon it each day (such as _ [bless](../spells_dir/bless#_bless), [atonement](../spells_dir/atonement#_atonement), _or _ [animate objects](../spells_dir/animateObjects#_animate-objects)_).
 
 Requirements are so dependent upon suitability to the item that they should never be determined randomly. An intelligent item with a requirement often imposes its requirement through its personality. If the requirement is not met, the item ceases to function. If it is met, usually the item functions for one day before the requirement must be met again (although some requirements are one time only, others monthly, and still others continuous).
 
@@ -105,7 +105,7 @@ Unless otherwise indicated, drawbacks remain in effect as long as the item is po
 | 46–49 | Character becomes paranoid about losing the item and afraid of damage occurring to it. |
 | 50–51 | Character's alignment changes. |
 | 52–54 | Character must attack nearest creature (5% chance [01–05 on d%] each day). |
-| 55–57 | Character is [stunned](../glossary#_stunned) for 1d4 rounds once item function is finished (or randomly, 1/day). |
+| 55–57 | Character is [stunned](../glossary#_stunned) for 1d4 rounds once item function is finished (or randomly, 1_dir/day). |
 | 58–60 | Character's vision is blurry (–2 penalty on attack rolls, saves, and skill checks requiring vision). |
 | 61–64 | Character gains one negative level. |
 | 65 | Character gains two [negative levels](../glossary#_energy-drain-and-negative-levels). |

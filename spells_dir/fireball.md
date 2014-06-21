@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spell_dir/fireball
+title: spells_dir/fireball
 ---
  **Fireball**
 
-**School** evocation [fire]; **Level** sorcerer/wizard 3
+**School** evocation [fire]; **Level** sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a ball of bat guano and sulfur)
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Area** 20-ft.-radius spread
 

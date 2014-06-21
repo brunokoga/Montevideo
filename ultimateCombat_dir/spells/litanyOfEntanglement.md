@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/litanyOfEntanglement
+title: ultimateCombat_dir/spells_dir/litanyOfEntanglement
 ---
 Litany of Entanglement
 
@@ -10,7 +10,7 @@ Litany of Entanglement
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/featherFall
+title: spells_dir/featherFall
 ---
  **Feather Fall**
 
-**School** transmutation; **Level** bard 1, sorcerer/wizard 1
+**School** transmutation; **Level** bard 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 immediate action
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Targets** one Medium or smaller freefalling object or creatur_dir/level, no two of which may be more than 20 ft. apart
+**Targets** one Medium or smaller freefalling object or creature_dir/level, no two of which may be more than 20 ft. apart
 
-**Duration** until landing or 1 round/level
+**Duration** until landing or 1 round_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless) or [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
 

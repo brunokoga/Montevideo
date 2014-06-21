@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/comprehendLanguages
+title: spells_dir/comprehendLanguages
 ---
  **Comprehend Languages**
 
-**School** divination; **Level** bard 1, cleric 1, sorcerer/wizard 1
+**School** divination; **Level** bard 1, cleric 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (pinch of soot and salt)
+**Components** V, S, M_dir/DF (pinch of soot and salt)
 
 **Range** personal
 
 **Target** you
 
-**Duration** 10 min./level
+**Duration** 10 min._dir/level
 
 You can understand the spoken words of creatures or read otherwise incomprehensible written messages. The ability to read does not necessarily impart insight into the material, merely its literal meaning. The spell enables you to understand or read an unknown language, not speak or write it.
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: advance_dir/spells/cloakOfWinds
+title: advanced_dir/spells_dir/cloakOfWinds
 ---
  **Cloak of Winds**
 
-**School** abjuration [air]; **Level** druid 3, ranger 3, sorcere_dir/wizard 3
+**School** abjuration [air]; **Level** druid 3, ranger 3, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one living creature
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

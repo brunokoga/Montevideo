@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/juryRig
+title: ultimateCombat_dir/spells_dir/juryRig
 ---
 Jury-Rig
 
-**School** transmutation; **Level** bard 1, magus 1, sorcere_dir/wizard 1, summoner 1, witch 1
+**School** transmutation; **Level** bard 1, magus 1, sorcerer_dir/wizard 1, summoner 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -12,9 +12,9 @@ Jury-Rig
 
 **Range** touch
 
-**Target** one broken object of up to 2 lbs./level
+**Target** one broken object of up to 2 lbs._dir/level
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** : Will negates (harmless, object); **Spell Resistance** : yes (harmless, object)
 

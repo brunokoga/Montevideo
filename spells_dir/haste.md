@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/haste
+title: spells_dir/haste
 ---
  **Haste**
 
-**School** transmutation; **Level** bard 3, sorcerer/wizard 3
+**School** transmutation; **Level** bard 3, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a shaving of licorice root)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Targets** one creatur_dir/level, no two of which can be more than 30 ft. apart
+**Targets** one creature_dir/level, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

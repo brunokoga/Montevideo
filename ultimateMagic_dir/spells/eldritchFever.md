@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/eldritchFever
+title: ultimateMagic_dir/spells_dir/eldritchFever
 ---
 Eldritch Fever
 
-**School** necromancy [curse, disease, evil]; **Level** inquisitor 3, sorcere_dir/wizard 3, witch 3
+**School** necromancy [curse, disease, evil]; **Level** inquisitor 3, sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 
@@ -18,5 +18,5 @@ Eldritch Fever
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-The target gains the [eldritch ague spellblight](../magi_dir/spellblights#_eldritch-ague).
+The target gains the [eldritch ague spellblight](../magic_dir/spellblights#_eldritch-ague).
 

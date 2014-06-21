@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/walkThroughSpace
+title: mythicAdventures_dir/mythicSpells_dir/walkThroughSpace
 ---
 Walk through Space
 
-**Source** [_walk through space_](ultimateComba_dir/spells/walkThroughSpace#_walk-through-space)
+**Source** [_walk through space_](ultimateCombat_dir/spells_dir/walkThroughSpace#_walk-through-space)
 
 You can teleport as either a move action or a swift action, but never more than once per round. If you expend a move action and a swift action, you may teleport up to 60 feet.
 

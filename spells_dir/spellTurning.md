@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/spellTurning
+title: spells_dir/spellTurning
 ---
  **Spell Turning**
 
-**School** abjuration; **Level** sorcerer/wizard 7
+**School** abjuration; **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (a small silver mirror)
+**Components** V, S, M_dir/DF (a small silver mirror)
 
 **Range** personal
 
 **Target** you
 
-**Duration** until expended or 10 min./level
+**Duration** until expended or 10 min._dir/level
 
 Spells and spell-like effects targeted on you are turned back upon the original caster. The abjuration turns only spells that have you as a target. Effect and area spells are not affected. _Spell turning _also fails to stop touch range spells. From seven to ten (1d4+6) spell levels are affected by the turning. The exact number is rolled secretly.
 

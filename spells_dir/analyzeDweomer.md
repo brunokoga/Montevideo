@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/analyzeDweomer
+title: spells_dir/analyzeDweomer
 ---
  **Analyze Dweomer**
 
-**School** divination; **Level** bard 6, sorcerer/wizard 6
+**School** divination; **Level** bard 6, sorcerer_dir/wizard 6
 
 **Casting Time** 1 standard action
 
 **Components** V, S, F (a ruby and gold lens worth 1,500 gp)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Targets** one object or creature per caster level
 
-**Duration** 1 roun_dir/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** none or [Will](../combat#_will) negates, see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

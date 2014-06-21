@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/shoggoth
+title: monsters_dir/shoggoth
 ---
 # Shoggoth
 
@@ -12,7 +12,7 @@ _This immense mound of black slime thunders forward, eyes and mouths and even st
 
 CN Huge [ooze](creatureTypes#_ooze) ( [aquatic](creatureTypes#_aquatic-subtype))
 
-**Init** +11; **Senses** all-around vision, darkvision 120 ft., low-light vision, [scent](universalMonsterRules#_scent), tremorsense 60 ft.; [Perception](../skill_dir/perception#_perception) +33
+**Init** +11; **Senses** all-around vision, darkvision 120 ft., low-light vision, [scent](universalMonsterRules#_scent), tremorsense 60 ft.; [Perception](../skills_dir/perception#_perception) +33
 
 **Defense**
 
@@ -22,13 +22,13 @@ CN Huge [ooze](creatureTypes#_ooze) ( [aquatic](creatureTypes#_aquatic-subtype))
 
 **Fort** +19, **Ref** +14, **Will** +15
 
-**DR** 10/—; **Immune** blindness, charm effects, cold, deafness, [ooze traits](creatureTypes#_ooze), sonic; **Resist** acid 20, electricity 20, fire 20; **SR** 30
+**DR** 10_dir/—; **Immune** blindness, charm effects, cold, deafness, [ooze traits](creatureTypes#_ooze), sonic; **Resist** acid 20, electricity 20, fire 20; **SR** 30
 
 **Offense**
 
 **Speed** 50 ft., climb 30 ft., swim 50 ft.
 
-**Melee** 4 slams +30 (3d6+15/19–20 plus grab)
+**Melee** 4 slams +30 (3d6+15_dir/19–20 plus grab)
 
 **Space** 15 ft.; **Reach** 30 ft.
 
@@ -42,7 +42,7 @@ CN Huge [ooze](creatureTypes#_ooze) ( [aquatic](creatureTypes#_aquatic-subtype))
 
 **Feats** [Blind-Fight](../feats#_blind-fight), [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Critical Focus](../feats#_critical-focus), [Great Cleave](../feats#_great-cleave), [Great Fortitude](../feats#_great-fortitude), [Improved Critical](../feats#_improved-critical) (slam), [Improved Initiative](../feats#_improved-initiative), [Improved Sunder](../feats#_improved-sunder), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Staggering Critical](../feats#_staggering-critical)
 
-**Skills** [Climb](../skill_dir/climb#_climb) +23, [Perception](../skill_dir/perception#_perception) +33, [Swim](../skill_dir/swim#_swim) +23; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception)
+**Skills** [Climb](../skills_dir/climb#_climb) +23, [Perception](../skills_dir/perception#_perception) +33, [Swim](../skills_dir/swim#_swim) +23; **Racial Modifiers** +4 [Perception](../skills_dir/perception#_perception)
 
 **Languages** Aklo
 
@@ -58,7 +58,7 @@ CN Huge [ooze](creatureTypes#_ooze) ( [aquatic](creatureTypes#_aquatic-subtype))
 
 **Special Abilities**
 
-**All-Around Vision (Ex)** A shoggoth's many sense organs grant a +4 racial bonus on [Perception](../skill_dir/perception#_perception) and immunity to flanking.
+**All-Around Vision (Ex)** A shoggoth's many sense organs grant a +4 racial bonus on [Perception](../skills_dir/perception#_perception) and immunity to flanking.
 
 **Maddening Cacophony (Su)** As a free action, a shoggoth can give voice to sounds and words sane life was not meant to hear. All creatures in a 60-foot radius must make a DC 22 Will save or be confused for 1d6 rounds. Each round a creature is affected it takes 1d6 points of Wisdom [damage](universalMonsterRules#_ability-damage-and-drain). A creature that saves cannot be affected by this shoggoth's maddening cacophony for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
 

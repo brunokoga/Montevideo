@@ -1,20 +1,20 @@
 ---
 layout: default
-title: additionalMonster_dir/fetchling
+title: additionalMonsters_dir/fetchling
 ---
 # Fetchling
 
 This gaunt man appears drained of color, like a person viewed at twilight or in a dark alley.
 
-Fetchling (Kayal)CR 1/2
+Fetchling (Kayal)CR 1_dir/2
 
 **XP 200**
 
 Fetchling rogue 1
 
-N Medium [outsider](monster_dir/creatureTypes#_outsider) ( [native](monsters/creatureTypes#_native-subtype))
+N Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [native](monsters_dir/creatureTypes#_native-subtype))
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +3
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +3
 
 Defense
 
@@ -24,19 +24,19 @@ Defense
 
 **Fort** +2, **Ref** +5, **Will** –1
 
-**Defensive Abilities** shadow bending; **Resist** [cold](monsters/creatureTypes#_cold-subtype) 5, electricity 5
+**Defensive Abilities** shadow bending; **Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 5, electricity 5
 
 Offense
 
 **Speed** 30 ft.
 
-**Melee** dagger +3 (1d4+1/19–20)
+**Melee** dagger +3 (1d4+1_dir/19–20)
 
 **Special Attacks** sneak attack +1d6
 
 **Spell-Like Abilities** (CL 1st; concentration +3)
 
-1/day—_ [disguise self](additionalMonster_dir/../spell_dir/disguiseSelf#_disguise-self)_ (humanoid only)
+1_dir/day—_ [disguise self](additionalMonsters_dir/../spells_dir/disguiseSelf#_disguise-self)_ (humanoid only)
 
 Statistics
 
@@ -44,9 +44,9 @@ Statistics
 
 **Base Atk** +0; **CMB** +1; **CMD** 14
 
-**Feats** [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Appraise](additionalMonster_dir/../skill_dir/appraise#_appraise) +3, [Bluff](additionalMonsters/../skill_dir/bluff#_bluff) +6, [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy) +6, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (local) +3, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes) +2, [Perception](additionalMonsters/../skill_dir/perception#_perception) +3, Sense Motive +3, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +7; **Racial Modifiers** +2 [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes), +2 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
+**Skills** [Appraise](additionalMonsters_dir/../skills_dir/appraise#_appraise) +3, [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +6, [Diplomacy](additionalMonsters_dir/../skills_dir/diplomacy#_diplomacy) +6, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (local) +3, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) +2, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +3, Sense Motive +3, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +7; **Racial Modifiers** +2 [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes), +2 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
 
 **Languages** Common
 
@@ -56,7 +56,7 @@ Ecology
 
 **Environment** any (Plane of Shadow)
 
-**Organization** solitary, pair, guild (3–12), or enclave (13–30 plus 1–4 2nd–4th level rogue spies, 1–4 2nd–4th level sorcerers, and 1 3rd–6th level fighter/rogue leader)
+**Organization** solitary, pair, guild (3–12), or enclave (13–30 plus 1–4 2nd–4th level rogue spies, 1–4 2nd–4th level sorcerers, and 1 3rd–6th level fighter_dir/rogue leader)
 
 **Treasure** NPC gear (chain shirt, dagger, other treasure)
 
@@ -78,13 +78,13 @@ Fetchlings are defined by their class levels—they do not possess racial HD. Th
 
 **Low-Light Vision** : Fetchlings can see twice as far as humans in conditions of dim light.
 
-**Skilled** : Fetchlings have a +2 racial bonus on [Knowledge](additionalMonster_dir/../skill_dir/knowledge#_knowledge) (planes) and [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) checks.
+**Skilled** : Fetchlings have a +2 racial bonus on [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (planes) and [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) checks.
 
 **Shadow Blending** : See above.
 
 **Shadowy Resistance** : Fetchlings have cold resistance 5 and electricity resistance 5.
 
-**Spell-Like Abilities (Sp)** : A fetchling can use _ [disguise self](additionalMonsters/../spell_dir/disguiseSelf#_disguise-self)_ once per day as a spell-like ability. It can assume the form of any humanoid creature using this spell-like ability. When a fetchling reaches 9th level in any combination of classes, it gains _ [shadow walk](additionalMonsters/../spell_dir/shadowWalk#_shadow-walk)_ (self only) as a spell-like ability usable once per day, and at 13th level, it gains _ [plane shift](additionalMonsters/../spell_dir/planeShift#_plane-shift)_ (self only, to the Plane of Shadow or the Material Plane only) usable once per day. A fetchling's caster level is equal to its total Hit Dice.
+**Spell-Like Abilities (Sp)** : A fetchling can use _ [disguise self](additionalMonsters_dir/../spells_dir/disguiseSelf#_disguise-self)_ once per day as a spell-like ability. It can assume the form of any humanoid creature using this spell-like ability. When a fetchling reaches 9th level in any combination of classes, it gains _ [shadow walk](additionalMonsters_dir/../spells_dir/shadowWalk#_shadow-walk)_ (self only) as a spell-like ability usable once per day, and at 13th level, it gains _ [plane shift](additionalMonsters_dir/../spells_dir/planeShift#_plane-shift)_ (self only, to the Plane of Shadow or the Material Plane only) usable once per day. A fetchling's caster level is equal to its total Hit Dice.
 
 **Languages** Fetchlings begin play speaking Common. A fetchling with a high Intelligence score can choose any of the following languages: Aklo, Aquan, Auran, Draconic, D'ziriak (understanding only, cannot speak), Ignan, Terran, and any regional human tongue.
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/energyDrain
+title: spells_dir/energyDrain
 ---
  **Energy Drain**
 
-**School** necromancy; **Level** cleric 9, sorcerer/wizard 9
+**School** necromancy; **Level** cleric 9, sorcerer_dir/wizard 9
 
 **Saving Throw** [Fortitude](../combat#_fortitude) partial; see text for _ [enervation](enervation#_enervation)_
 

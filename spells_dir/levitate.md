@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/levitate
+title: spells_dir/levitate
 ---
  **Levitate**
 
-**School** transmutation; **Level** sorcerer/wizard 2
+**School** transmutation; **Level** sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S, F (a leather loop or golden wire bent into a cup shape)
 
-**Range** personal or close (25 ft. + 5 ft./2 levels)
+**Range** personal or close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** you or one willing creature or one object (total weight up to 100 lbs./level)
+**Target** you or one willing creature or one object (total weight up to 100 lbs._dir/level)
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

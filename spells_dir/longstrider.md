@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/longstrider
+title: spells_dir/longstrider
 ---
  **Longstrider**
 
@@ -14,7 +14,7 @@ title: spell_dir/longstrider
 
 **Target** you
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hour_dir/level (D)
 
 This spell gives you a +10 foot enhancement bonus to your base speed. It has no effect on other modes of movement, such as burrow, climb, fly, or swim.
 

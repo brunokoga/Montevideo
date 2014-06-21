@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/bloodhound
+title: advanced_dir/spells_dir/bloodhound
 ---
  **Bloodhound**
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/bloodhound
 
 **Target** you
 
-**Duration** 1 hou_dir/level
+**Duration** 1 hour_dir/level
 
-You gain the scent special quality, including the ability to track by scent. You receive a +8 competence bonus on [Perception](../../skill_dir/perception#_perception) checks involving smell and a +4 competence bonus on [Survival](../../skill_dir/survival#_survival) checks to track using scent. You take a –4 penalty on saving throws against odor-related effects such as the stench ability and _ [stinking cloud](../../spell_dir/stinkingCloud#_stinking-cloud)_. A creature under the effects of _bloodhound_ can detect poison by scent with a DC 20 [Perception](../../skill_dir/perception#_perception) check.
+You gain the scent special quality, including the ability to track by scent. You receive a +8 competence bonus on [Perception](../../skills_dir/perception#_perception) checks involving smell and a +4 competence bonus on [Survival](../../skills_dir/survival#_survival) checks to track using scent. You take a –4 penalty on saving throws against odor-related effects such as the stench ability and _ [stinking cloud](../../spells_dir/stinkingCloud#_stinking-cloud)_. A creature under the effects of _bloodhound_ can detect poison by scent with a DC 20 [Perception](../../skills_dir/perception#_perception) check.
 

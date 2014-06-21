@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/kamadan
+title: bestiary3_dir/kamadan
 ---
 # Kamadan
 
@@ -12,7 +12,7 @@ XP 1,200
 
 NE Large magical beast
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +8
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](skills_dir/perception#_perception) +8
 
 Defense
 
@@ -30,7 +30,7 @@ Offense
 
 **Space** 10 ft.; **Reach** 5 ft. (10 ft. with snakes)
 
-**Special Attacks** [breath weapon](monster_dir/universalMonsterRules#_breath-weapon) (30-ft. cone, sleep, Fortitude DC 15 negates, usable every 1d4 rounds), [pounce](monsters/universalMonsterRules#_pounce)
+**Special Attacks** [breath weapon](monsters_dir/universalMonsterRules#_breath-weapon) (30-ft. cone, sleep, Fortitude DC 15 negates, usable every 1d4 rounds), [pounce](monsters_dir/universalMonsterRules#_pounce)
 
 Statistics
 
@@ -40,7 +40,7 @@ Statistics
 
 **Feats** [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), [Mobility](feats#_mobility)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +6 (+10 when jumping), [Perception](skills/perception#_perception) +8, [Stealth](skill_dir/stealth#_stealth) +6; **Racial Modifiers** +4 [Stealth](skills/stealth#_stealth)
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +6 (+10 when jumping), [Perception](skills_dir/perception#_perception) +8, [Stealth](skills_dir/stealth#_stealth) +6; **Racial Modifiers** +4 [Stealth](skills_dir/stealth#_stealth)
 
 **Languages** Aklo
 
@@ -54,7 +54,7 @@ Ecology
 
 Special Abilities
 
-**[Breath Weapon](monster_dir/universalMonsterRules#_breath-weapon) (Su)** A kamadan can exhale a cone of gas that makes living creatures fall asleep for 5 minutes (Fortitude DC 15 negates). Slapping or wounding awakens a creature put to sleep by this attack, but normal noise does not. This is a sleep effect. The save DC is Constitution-based.
+**[Breath Weapon](monsters_dir/universalMonsterRules#_breath-weapon) (Su)** A kamadan can exhale a cone of gas that makes living creatures fall asleep for 5 minutes (Fortitude DC 15 negates). Slapping or wounding awakens a creature put to sleep by this attack, but normal noise does not. This is a sleep effect. The save DC is Constitution-based.
 
 **Snakes (Ex)** A kamadan's snakes attack simultaneously; this is always a secondary attack.
 
@@ -66,7 +66,7 @@ Kamadans prefer underground lairs, but settle for rocky outcroppings or dens ins
 
 Though the above statistics represent the most common breed of kamadan, two rarer but more dangerous variants are detailed in brief below.
 
-**Dusk Kamadan (CR +1)** : A dusk kamadan has midnight black fur and snakes bearing black and red ring patterns on their bodies. A dusk kamadan has the advanced creature template, and its snakes have a poisonous bite: Snakes—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 2 consecutive saves.
+**Dusk Kamadan (CR +1)** : A dusk kamadan has midnight black fur and snakes bearing black and red ring patterns on their bodies. A dusk kamadan has the advanced creature template, and its snakes have a poisonous bite: Snakes—injury; _save_ Fort DC 17; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d2 Con; _cure_ 2 consecutive saves.
 
 **Polar Kamadan (CR +2)** : A polar kamadan has white fur with black spots like a snow leopard. Its snakes are furred as well. A polar kamadan has the advanced creature template and batlike wings that grant it a fly speed of 60 ft. (average). The breath weapon of a polar kamadan is particularly cold—those who succumb to it also suffer 1d4 points of Dexterity damage from numbness.
 

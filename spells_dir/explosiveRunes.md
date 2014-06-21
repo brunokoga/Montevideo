@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/explosiveRunes
+title: spells_dir/explosiveRunes
 ---
  **Explosive Runes**
 
-**School** abjuration [force]; **Level** sorcerer/wizard 3
+**School** abjuration [force]; **Level** sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/madHallucination
+title: ultimateMagic_dir/spells_dir/madHallucination
 ---
 Mad Hallucination
 
-**School** illusion (phantasm); **Level** bard 2, sorcere_dir/wizard 2, witch 2
+**School** illusion (phantasm); **Level** bard 2, sorcerer_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Mad Hallucination
 
 **Target** one humanoid creature
 
-**Duration** 5 minute/level (maximum 1 hour)
+**Duration** 5 minute_dir/level (maximum 1 hour)
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

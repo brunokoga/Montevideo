@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/classArchetypes/barbarian
+title: ultimateCombat_dir/classArchetypes_dir/barbarian
 ---
 # Barbarian
 
@@ -42,7 +42,7 @@ _Body Bludgeon (Ex)_: While raging, if the barbarian pins an opponent that is sm
   
   
 
-_Crippling Blow (Ex)_: When using her powerful blow rage power, the barbarian can forgo the normal bonus to damage (including any bleed damage granted by the bleeding blow rage power or similar boosts to the damage of the powerful blow rage power) and instead deals 1 point of ability damage to the target's Strength or Dexterity score for every four class levels the barbarian has attained. The target can attempt a Fortitude saving throw (DC 10 + 1/2 the barbarian's level + the barbarian's Strength modifier) to halve this ability damage. A barbarian must have the powerful blow rage power and be at least 8th level before selecting this rage power.
+_Crippling Blow (Ex)_: When using her powerful blow rage power, the barbarian can forgo the normal bonus to damage (including any bleed damage granted by the bleeding blow rage power or similar boosts to the damage of the powerful blow rage power) and instead deals 1 point of ability damage to the target's Strength or Dexterity score for every four class levels the barbarian has attained. The target can attempt a Fortitude saving throw (DC 10 + 1_dir/2 the barbarian's level + the barbarian's Strength modifier) to halve this ability damage. A barbarian must have the powerful blow rage power and be at least 8th level before selecting this rage power.
 
   
   
@@ -52,17 +52,17 @@ _Deadly Accuracy (Ex)_: If the barbarian scores a critical threat when using her
   
   
 
-_Dragon Totem (Su):_ The barbarian must select a single color of dragon (black, blue, brass, bronze, copper, gold, green, red, silver, or white) as her totem. While raging, she gains a +1 bonus on [Perception](skill_dir/perception#_perception) checks and a +1 morale bonus on saving throws against fear, paralysis, and sleep effects. This bonus increases by +1 for each additional dragon totem rage power (such as dragon totem resilience and dragon totem wings) the barbarian possesses. A barbarian must have the animal fury and intimidating glare rage powers and be at least 6th level before selecting this rage power.
+_Dragon Totem (Su):_ The barbarian must select a single color of dragon (black, blue, brass, bronze, copper, gold, green, red, silver, or white) as her totem. While raging, she gains a +1 bonus on [Perception](skills_dir/perception#_perception) checks and a +1 morale bonus on saving throws against fear, paralysis, and sleep effects. This bonus increases by +1 for each additional dragon totem rage power (such as dragon totem resilience and dragon totem wings) the barbarian possesses. A barbarian must have the animal fury and intimidating glare rage powers and be at least 6th level before selecting this rage power.
 
   
   
 
-_Dragon Totem Resilience (Su)_: While raging, the barbarian gains resistance to the energy type that is associated with her dragon totem—acid (black, copper, green), cold (silver, white), electricity (blue, bronze), or fire (brass, gold, red). This resistance equals double her current DR/— from her barbarian damage reduction class feature; this DR increases by 2 for each dragon totem rage power she possesses, including this one. A barbarian must have the dragon totem rage power and be at least 8th level before selecting this rage power.
+_Dragon Totem Resilience (Su)_: While raging, the barbarian gains resistance to the energy type that is associated with her dragon totem—acid (black, copper, green), cold (silver, white), electricity (blue, bronze), or fire (brass, gold, red). This resistance equals double her current DR_dir/— from her barbarian damage reduction class feature; this DR increases by 2 for each dragon totem rage power she possesses, including this one. A barbarian must have the dragon totem rage power and be at least 8th level before selecting this rage power.
 
   
   
 
-_Dragon Totem Wings (Su)_: When a barbarian selects this rage power, the [Fly](skill_dir/fly#_fly) (Dex) skill becomes a class skill for her. While raging and wearing medium or lighter armor, the barbarian can spend a standard action to manifest a pair of spiritual dragon wings that grant her a fly speed equal to her base speed (average maneuverability). She can expend 2 rounds of her rage to instead spend an immediate action to gain this fly speed. She can end her fly speed at any time, even when it is not her turn. Each round she spends raging and flying counts as 2 rounds of rage. Her ability to fly ends automatically when she ceases raging. A barbarian must have the dragon totem and dragon totem resilience rage powers, and she must be at least 10th level before selecting this rage power.
+_Dragon Totem Wings (Su)_: When a barbarian selects this rage power, the [Fly](skills_dir/fly#_fly) (Dex) skill becomes a class skill for her. While raging and wearing medium or lighter armor, the barbarian can spend a standard action to manifest a pair of spiritual dragon wings that grant her a fly speed equal to her base speed (average maneuverability). She can expend 2 rounds of her rage to instead spend an immediate action to gain this fly speed. She can end her fly speed at any time, even when it is not her turn. Each round she spends raging and flying counts as 2 rounds of rage. Her ability to fly ends automatically when she ceases raging. A barbarian must have the dragon totem and dragon totem resilience rage powers, and she must be at least 10th level before selecting this rage power.
 
   
   
@@ -87,7 +87,7 @@ _Guarded Life, Greater (Ex)_: When using the guarded life rage power, 1 addition
   
   
 
-_Hive Totem (Su)_: While raging, the barbarian takes half damage from attacks by swarms of vermin, including spells and effects that act like a swarm of vermin (like _ [summon swarm](spells/summonSwarm#_summon-swarm)_ used to summon spiders or _ [insect plague](spell_dir/insectPlague#_insect-plague)_). She also gains a +1 bonus on Strength ability checks and to CMD against bull rush, drag, and trip attacks for every four barbarian levels she has (maximum +5). A barbarian must have the animal fury power and be at least 4th level before selecting this rage power.
+_Hive Totem (Su)_: While raging, the barbarian takes half damage from attacks by swarms of vermin, including spells and effects that act like a swarm of vermin (like _ [summon swarm](spells_dir/summonSwarm#_summon-swarm)_ used to summon spiders or _ [insect plague](spells_dir/insectPlague#_insect-plague)_). She also gains a +1 bonus on Strength ability checks and to CMD against bull rush, drag, and trip attacks for every four barbarian levels she has (maximum +5). A barbarian must have the animal fury power and be at least 4th level before selecting this rage power.
 
   
   
@@ -97,12 +97,12 @@ _Hive Totem Resilience (Su)_: While raging, the barbarian takes no damage from a
   
   
 
-_Hive Totem Toxicity (Su)_: While raging, the barbarian increases her bite damage die type with the animal fury rage power by one die type and decreases the penalty on attack rolls with that bite to –2. Once per rage, a bite that hits can deliver an injury toxin that has a frequency of once per round for 4 rounds, deals 1d3 points of Constitution damage, and has a cure of one save. The saving throw has a Fortitude save DC of 10 + 1/2 the barbarian's level + the barbarian's Constitution modifier. A barbarian must have the hive totem and hive totem resilience rage powers and be at least 8th level before selecting this rage power.
+_Hive Totem Toxicity (Su)_: While raging, the barbarian increases her bite damage die type with the animal fury rage power by one die type and decreases the penalty on attack rolls with that bite to –2. Once per rage, a bite that hits can deliver an injury toxin that has a frequency of once per round for 4 rounds, deals 1d3 points of Constitution damage, and has a cure of one save. The saving throw has a Fortitude save DC of 10 + 1_dir/2 the barbarian's level + the barbarian's Constitution modifier. A barbarian must have the hive totem and hive totem resilience rage powers and be at least 8th level before selecting this rage power.
 
   
   
 
-_Lethal Accuracy (Ex)_: When using her surprise accuracy rage power, the barbarian's critical multiplier for damage increases by 1 (a ×2 multiplier becomes ×3, a 19–20/×2 multiplier becomes 19–20/×3, a ×3 multiplier becomes ×4, and a ×4 multiplier becomes ×5). A barbarian must have the surprise accuracy and deadly accuracy rage powers and be 16th level before selecting this rage power.
+_Lethal Accuracy (Ex)_: When using her surprise accuracy rage power, the barbarian's critical multiplier for damage increases by 1 (a ×2 multiplier becomes ×3, a 19–20_dir/×2 multiplier becomes 19–20_dir/×3, a ×3 multiplier becomes ×4, and a ×4 multiplier becomes ×5). A barbarian must have the surprise accuracy and deadly accuracy rage powers and be 16th level before selecting this rage power.
 
   
   
@@ -112,7 +112,7 @@ _Perfect Clarity (Ex)_: While using her moment of clarity rage power, the barbar
   
   
 
-_Primal Scent (Ex)_: When using her scent rage power, the barbarian adds half her barbarian level on [Survival](skill_dir/survival#_survival) checks made to track by scent and on [Perception](skills/perception#_perception) checks to pinpoint the location of creatures she cannot see. If she pinpoints the location of a creature that has total concealment, she treats it as having concealment. A barbarian must have the scent rage power and be at least 8th level before selecting this rage power.
+_Primal Scent (Ex)_: When using her scent rage power, the barbarian adds half her barbarian level on [Survival](skills_dir/survival#_survival) checks made to track by scent and on [Perception](skills_dir/perception#_perception) checks to pinpoint the location of creatures she cannot see. If she pinpoints the location of a creature that has total concealment, she treats it as having concealment. A barbarian must have the scent rage power and be at least 8th level before selecting this rage power.
 
   
   
@@ -189,7 +189,7 @@ Some barbarians disdain the hides and leather used as armor by most of their kin
 
 Some barbarians wear marks of prowess and savagery upon their bodies. The scarred rager believes each wound tells the tales of her prowess and bravery. She augments these ragged trophies with brands and tattoos in order to win the notice and favor of her gods, ancestors, or totem spirits. The scarred rager's gnarled and exotic appearance terrifies civilized onlookers, but is awe-inspiring to her savage kin.
 
-**Terrifying Visage (Ex)** : A scarred rager adds 1/2 her barbarian level on [Intimidate](skill_dir/intimidate#_intimidate) checks against humanoids who are not members of barbarian tribes. When dealing with barbarians, the scarred rager may choose to add this bonus on [Diplomacy](skills/diplomacy#_diplomacy) checks instead. The DC of any fear effect created by the scarred rager also increases by 1. This ability replaces fast movement.
+**Terrifying Visage (Ex)** : A scarred rager adds 1_dir/2 her barbarian level on [Intimidate](skills_dir/intimidate#_intimidate) checks against humanoids who are not members of barbarian tribes. When dealing with barbarians, the scarred rager may choose to add this bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) checks instead. The DC of any fear effect created by the scarred rager also increases by 1. This ability replaces fast movement.
 
 **Tolerance (Ex)** : At 2nd level, a scarred rager who fails a save against an effect that causes her to become nauseated, sickened, fatigued, or exhausted can make a second save to negate the effect on the start of her next turn. Only one additional save is allowed. If the effect does not allow a saving throw, its duration is halved instead (minimum of 1 round). This ability replaces uncanny dodge.
 
@@ -208,11 +208,11 @@ Not all barbarians hunt forests, plains, and mountains. Some are raiding terrors
 
 **Marine Terror (Ex)** : A sea reaver can hold her breath for a number of rounds equal to four times her Constitution score. In addition, a sea reaver can move normally though squares of standing water or bog that is 1 foot deep. It does not cost her extra movement to traverse these terrains. Lastly, a sea reaver ignores the normal cover bonus to AC when attacking creatures that are partially immersed in water. This ability replaces fast movement.
 
-**Eyes of the Storm (Ex)** : At 2nd level, a sea reaver ignores any concealment provided by fog, rain, sleet, mist, wind, or other weather effects that is less than total concealment, and any penalties weather applies on [Perception](skill_dir/perception#_perception) checks are halved. This ability replaces uncanny dodge.
+**Eyes of the Storm (Ex)** : At 2nd level, a sea reaver ignores any concealment provided by fog, rain, sleet, mist, wind, or other weather effects that is less than total concealment, and any penalties weather applies on [Perception](skills_dir/perception#_perception) checks are halved. This ability replaces uncanny dodge.
 
-**Savage Sailor (Ex)** : At 3rd level, a sea reaver gains a +1 bonus on [Acrobatics](skills/acrobatics#_acrobatics), [Climb](skill_dir/climb#_climb), [Profession](skills/profession#_profession) (sailor), [Survival](skill_dir/survival#_survival), and [Swim](skills/swim#_swim) checks made in aquatic terrain, including aboard a ship or along shorelines. These bonuses improve by +1 every three levels after 3rd. This ability replaces trap sense.
+**Savage Sailor (Ex)** : At 3rd level, a sea reaver gains a +1 bonus on [Acrobatics](skills_dir/acrobatics#_acrobatics), [Climb](skills_dir/climb#_climb), [Profession](skills_dir/profession#_profession) (sailor), [Survival](skills_dir/survival#_survival), and [Swim](skills_dir/swim#_swim) checks made in aquatic terrain, including aboard a ship or along shorelines. These bonuses improve by +1 every three levels after 3rd. This ability replaces trap sense.
 
-**Sure-Footed (Ex)** : At 5th level, a sea reaver takes no penalties when moving across slick surfaces, whether natural or magical (e.g., _ [grease](spell_dir/grease#_grease)_, _ [ice storm](spells/iceStorm#_ice-storm)_, and _ [sleet storm](spell_dir/sleetStorm#_sleet-storm)_). She is not at risk of falling, is not denied her Dexterity bonus when moving across such areas, and does not treat them as difficult terrain. This ability replaces improved uncanny dodge.
+**Sure-Footed (Ex)** : At 5th level, a sea reaver takes no penalties when moving across slick surfaces, whether natural or magical (e.g., _ [grease](spells_dir/grease#_grease)_, _ [ice storm](spells_dir/iceStorm#_ice-storm)_, and _ [sleet storm](spells_dir/sleetStorm#_sleet-storm)_). She is not at risk of falling, is not denied her Dexterity bonus when moving across such areas, and does not treat them as difficult terrain. This ability replaces improved uncanny dodge.
 
 **Rage Powers** : The following rage powers complement the sea reaver archetype: bestial leaper, bestial swimmer, come and get me, hurling charge, raging leaper, raging swimmer, rolling dodge, and smasher.
 
@@ -228,7 +228,7 @@ In lands overrun by giants, dragons, and other hulking beasts, entire fellowship
 
 **Evade Reach (Ex)** : At 5th level, as a swift action, a titan mauler may choose one creature within her line of sight. Until the end of her turn, that target's reach is treated as if it were 5 feet shorter with respect to reaching the titan mauler, and this reduction increases by 5 feet for every five levels beyond 5th. This ability replaces improved uncanny dodge.
 
-**Titanic Rage (Su)** : At 14th level, a titan mauler may choose to gain the benefits of _ [enlarge person](spells/enlargePerson#_enlarge-person)_ when she enters a rage. While using titanic rage, she must spend 2 rounds of rage per round, and she becomes exhausted rather than fatigued when the rage ends. This ability replaces indomitable will.
+**Titanic Rage (Su)** : At 14th level, a titan mauler may choose to gain the benefits of _ [enlarge person](spells_dir/enlargePerson#_enlarge-person)_ when she enters a rage. While using titanic rage, she must spend 2 rounds of rage per round, and she becomes exhausted rather than fatigued when the rage ends. This ability replaces indomitable will.
 
 **Rage Powers** : The following rage powers complement the titan mauler archetype: body bludgeon, greater ground breaker, ground breaker, knockback, mighty swing, powerful blow, smasher, and strength surge.
 
@@ -252,9 +252,9 @@ Every barbarian knows that city life can soften the spirit and the body, but som
 
 **Weapon and Armor Proficiency** : An urban barbarian is not proficient with medium armor.
 
-**Skills** : An urban barbarian does not gain [Handle Animal](skill_dir/handleAnimal#_handle-animal) (Cha), [Knowledge](skills/knowledge#_knowledge) (nature) (Int), or [Survival](skill_dir/survival#_survival) (Wis) as class skills; instead, she gains [Diplomacy](skills/diplomacy#_diplomacy) (Cha), [Knowledge](skill_dir/knowledge#_knowledge) (local) (Int), [Knowledge](skills/knowledge#_knowledge) (nobility) (Int), [Linguistics](skill_dir/linguistics#_linguistics) (Int), and [Profession](skills/profession#_profession) (Wis) as class skills.
+**Skills** : An urban barbarian does not gain [Handle Animal](skills_dir/handleAnimal#_handle-animal) (Cha), [Knowledge](skills_dir/knowledge#_knowledge) (nature) (Int), or [Survival](skills_dir/survival#_survival) (Wis) as class skills; instead, she gains [Diplomacy](skills_dir/diplomacy#_diplomacy) (Cha), [Knowledge](skills_dir/knowledge#_knowledge) (local) (Int), [Knowledge](skills_dir/knowledge#_knowledge) (nobility) (Int), [Linguistics](skills_dir/linguistics#_linguistics) (Int), and [Profession](skills_dir/profession#_profession) (Wis) as class skills.
 
-**Crowd Control (Ex)** : At 1st level, an urban barbarian gains a +1 bonus on attack rolls and a +1 dodge bonus to AC when adjacent to two or more enemies. In addition, her movement is not impeded by crowds, and she gains a bonus equal to 1/2 her barbarian level on [Intimidate](skill_dir/intimidate#_intimidate) checks to influence crowds. This ability replaces fast movement.
+**Crowd Control (Ex)** : At 1st level, an urban barbarian gains a +1 bonus on attack rolls and a +1 dodge bonus to AC when adjacent to two or more enemies. In addition, her movement is not impeded by crowds, and she gains a bonus equal to 1_dir/2 her barbarian level on [Intimidate](skills_dir/intimidate#_intimidate) checks to influence crowds. This ability replaces fast movement.
 
 **Controlled Rage (Ex)** : When an urban barbarian rages, instead of making a normal rage she may apply a +4 morale bonus to her Strength, Dexterity, or Constitution. This bonus increases to +6 when she gains greater rage and +8 when she gains mighty rage. She may apply the full bonus to one ability score or may split the bonus between several scores in increments of +2. When using a controlled rage, an urban barbarian gains no bonus on Will saves, takes no penalties to AC, and can still use Intelligence-, Dexterity-, and Charisma-based skills. This ability otherwise follows the normal rules for rage.
 
@@ -264,7 +264,7 @@ Every barbarian knows that city life can soften the spirit and the body, but som
 
 Rages are barely controlled, but there are those who wholly give in to their more savage side, letting their rages take them to a confusing and uncontrolled place of terrible savagery. These barbarians become beasts, consumed with absolute bloodlust to the point where they cannot tell friend from foe.
 
-**Uncontrolled Rage (Ex)** : A wild rager's rage functions as normal, except that when she reduces a creature to 0 or fewer hit points, she must attempt a Will save (DC 10 + 1/2 the barbarian's level + the barbarian's Constitution modifier) or become confused. For the remainder of her current turn, she attacks the nearest creature other than herself. On the following round, refer to the _ [confusion](spell_dir/confusion#_confusion)_ spell to determine her actions. At the end of this round, and each round thereafter, she can attempt a new saving throw to end the _ [confusion](spells/confusion#_confusion)_ effect. The rounds during which she is confused do not count against the rounds she has spent raging that day, but she cannot end her rage voluntarily, nor can she use rage powers while confused.
+**Uncontrolled Rage (Ex)** : A wild rager's rage functions as normal, except that when she reduces a creature to 0 or fewer hit points, she must attempt a Will save (DC 10 + 1_dir/2 the barbarian's level + the barbarian's Constitution modifier) or become confused. For the remainder of her current turn, she attacks the nearest creature other than herself. On the following round, refer to the _ [confusion](spells_dir/confusion#_confusion)_ spell to determine her actions. At the end of this round, and each round thereafter, she can attempt a new saving throw to end the _ [confusion](spells_dir/confusion#_confusion)_ effect. The rounds during which she is confused do not count against the rounds she has spent raging that day, but she cannot end her rage voluntarily, nor can she use rage powers while confused.
 
 **Wild Fighting (Ex)** : At 2nd level, even when not raging, wild ragers often fight with reckless, savage abandon. A wild rager using the full-attack action can make one extra attack per round at her highest base attack bonus. Until the beginning of her next turn, however, she takes a –2 penalty on attack rolls and –4 penalty to AC. This ability replaces uncanny dodge.
 

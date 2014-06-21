@@ -113,9 +113,9 @@ Damage reduces a target's current hit points.
 
 **[Strength](gettingStarted#_strength) Bonus** : When you hit with a melee or thrown weapon, including a sling, add your [Strength](gettingStarted#_strength) modifier to the damage result. A [Strength](gettingStarted#_strength) penalty, but not a bonus, applies on damage rolls made with a bow that is not a composite bow.
 
-_Off-Hand Weapon_: When you deal damage with a weapon in your off hand, you add only 1/2 your [Strength](gettingStarted#_strength) bonus. If you have a [Strength](gettingStarted#_strength) penalty, the entire penalty applies.
+_Off-Hand Weapon_: When you deal damage with a weapon in your off hand, you add only 1_dir/2 your [Strength](gettingStarted#_strength) bonus. If you have a [Strength](gettingStarted#_strength) penalty, the entire penalty applies.
 
-_Wielding a Weapon Two-Handed_: When you deal damage with a weapon that you are wielding two-handed, you add 1-1/2 times your [Strength](gettingStarted#_strength) bonus ( [Strength](gettingStarted#_strength) penalties are not multiplied). You don't get this higher [Strength](gettingStarted#_strength) bonus, however, when using a light weapon with two hands.
+_Wielding a Weapon Two-Handed_: When you deal damage with a weapon that you are wielding two-handed, you add 1-1_dir/2 times your [Strength](gettingStarted#_strength) bonus ( [Strength](gettingStarted#_strength) penalties are not multiplied). You don't get this higher [Strength](gettingStarted#_strength) bonus, however, when using a light weapon with two hands.
 
 **Multiplying Damage** : Sometimes you multiply damage by some factor, such as on a critical hit. Roll the damage (with all modifiers) multiple times and total the results.
 
@@ -151,7 +151,7 @@ An attack of opportunity “interrupts” the normal flow of actions in the roun
 
 _Combat Reflexes and Additional Attacks of Opportunity_: If you have the [Combat Reflexes](feats#_combat-reflexes) feat, you can add your [Dexterity](gettingStarted#_dexterity) bonus to the number of attacks of opportunity you can make in a round. This feat does not let you make more than one attack for a given opportunity, but if the same opponent provokes two attacks of opportunity from you, you could make two separate attacks of opportunity (since each one represents a different opportunity). Moving out of more than one square threatened by the same opponent in the same round doesn't count as more than one opportunity for that opponent. All these attacks are at your full normal attack bonus.
 
- ![](imag_dir/AttacksOfOpportunity.jpg)
+ ![](image_dir/AttacksOfOpportunity.jpg)
 
 ## Speed
 
@@ -192,18 +192,18 @@ _Will_: These saves reflect your resistance to mental influence as well as many 
 | Activate a magic item other than a potion or oil | No |
 | Aid another | Maybe⁲ |
 | Cast a spell (1 standard action casting time) | Yes |
-| [Channel energy](classes/cleric#_channel-energy-cleric) | No |
+| [Channel energy](classes_dir/cleric#_channel-energy-cleric) | No |
 | [Concentrate to maintain an active spell](magic#_concentration) | No |
 | Dismiss a spell | No |
-| Draw a hidden weapon (see [Sleight of Hand skill](skill_dir/sleightOfHand#_sleight-of-hand)) | No |
-| Drink a [potion](magicItems/potions#_potions) or apply an oil | Yes |
+| Draw a hidden weapon (see [Sleight of Hand skill](skills_dir/sleightOfHand#_sleight-of-hand)) | No |
+| Drink a [potion](magicItems_dir/potions#_potions) or apply an oil | Yes |
 | Escape a [grapple](glossary#_grappled) | No |
-| [Feint](skill_dir/bluff#_feint) | No |
+| [Feint](skills_dir/bluff#_feint) | No |
 | Light a torch with a tindertwig | Yes |
 | Lower [spell resistance](glossary#_spell-resistance) | No |
-| Read a [scroll](magicItems/scrolls#_table-15-15-scrolls) | Yes |
+| Read a [scroll](magicItems_dir/scrolls#_table-15-15-scrolls) | Yes |
 | Ready (triggers a standard action) | No |
-| Stabilize a dying friend (see [Heal skill](skill_dir/heal#_heal)) | Yes |
+| Stabilize a dying friend (see [Heal skill](skills_dir/heal#_heal)) | Yes |
 | Total defense | No |
 | Use [extraordinary ability](gettingStarted#_extraordinary-abilities) | No |
 | Use skill that takes 1 action | Usually |
@@ -218,7 +218,7 @@ _Will_: These saves reflect your resistance to mental influence as well as many 
 | Draw a weapon⁳ | No |
 | Load a [hand crossbow](equipment#_weapon-descriptions) or [light crossbow](equipment#_weapon-descriptions) | Yes |
 | Open or close a door | No |
-| Mount/dismount a steed | No |
+| Mount_dir/dismount a steed | No |
 | Move a heavy object | Yes |
 | Pick up an item | Yes |
 | Sheathe a weapon | Yes |
@@ -256,7 +256,7 @@ _Will_: These saves reflect your resistance to mental influence as well as many 
 
 | Immediate Action | Attack of Opportunityⁱ |
 | --- | --- |
-| Cast [_feather fall_](spell_dir/featherFall#_feather-fall) | No |
+| Cast [_feather fall_](spells_dir/featherFall#_feather-fall) | No |
 
 | No Action | Attack of Opportunityⁱ |
 | --- | --- |
@@ -334,11 +334,11 @@ _Dealing Lethal Damage_: You can specify that your unarmed strike will deal leth
 
 **Ranged Attacks** : With a ranged weapon, you can shoot or throw at any target that is within the weapon's maximum range and in line of sight. The maximum range for a thrown weapon is five range increments. For projectile weapons, it is 10 range increments. Some ranged weapons have shorter maximum ranges, as specified in their descriptions.
 
-**Natural Attacks** : Attacks made with natural weapons, such as claws and bites, are melee attacks that can be made against any creature within your reach (usually 5 feet). These attacks are made using your full attack bonus and deal an amount of damage that depends on their type (plus your [Strength](gettingStarted#_strength) modifier, as normal). You do not receive additional natural attacks for a high base attack bonus. Instead, you receive additional attack rolls for multiple limb and body parts capable of making the attack (as noted by the race or ability that grants the attacks). If you possess only one natural attack (such as a bite—two claw attacks do not qualify), you add 1–1/2 times your [Strength](gettingStarted#_strength) bonus on damage rolls made with that attack.
+**Natural Attacks** : Attacks made with natural weapons, such as claws and bites, are melee attacks that can be made against any creature within your reach (usually 5 feet). These attacks are made using your full attack bonus and deal an amount of damage that depends on their type (plus your [Strength](gettingStarted#_strength) modifier, as normal). You do not receive additional natural attacks for a high base attack bonus. Instead, you receive additional attack rolls for multiple limb and body parts capable of making the attack (as noted by the race or ability that grants the attacks). If you possess only one natural attack (such as a bite—two claw attacks do not qualify), you add 1–1_dir/2 times your [Strength](gettingStarted#_strength) bonus on damage rolls made with that attack.
 
 Some natural attacks are denoted as secondary natural attacks, such as tails and wings. Attacks with secondary natural attacks are made using your base attack bonus minus 5. These attacks deal an amount of damage depending on their type, but you only add half your [Strength](gettingStarted#_strength) modifier on damage rolls.
 
-You can make attacks with natural weapons in combination with attacks made with a melee weapon and unarmed strikes, so long as a different limb is used for each attack. For example, you cannot make a claw attack and also use that hand to make attacks with a longsword. When you make additional attacks in this way, all of your natural attacks are treated as secondary natural attacks, using your base attack bonus minus 5 and adding only 1/2 of your [Strength](gettingStarted#_strength) modifier on damage rolls. Feats such as [Two-Weapon Fighting](feats#_two-weapon-fighting) and Multiattack can reduce these penalties.
+You can make attacks with natural weapons in combination with attacks made with a melee weapon and unarmed strikes, so long as a different limb is used for each attack. For example, you cannot make a claw attack and also use that hand to make attacks with a longsword. When you make additional attacks in this way, all of your natural attacks are treated as secondary natural attacks, using your base attack bonus minus 5 and adding only 1_dir/2 of your [Strength](gettingStarted#_strength) modifier on damage rolls. Feats such as [Two-Weapon Fighting](feats#_two-weapon-fighting) and Multiattack can reduce these penalties.
 
 **Multiple Attacks** : A character who can make more than one attack per round must use the full-attack action (see Full-Round Actions) in order to get more than one attack.
 
@@ -404,7 +404,7 @@ _Holding the Charge_: If you don't discharge the spell in the round when you cas
 
 **Dismiss a Spell** : Dismissing an active spell is a standard action that doesn't provoke attacks of opportunity.
 
-### Star_dir/Complete Full-Round Action
+### Start_dir/Complete Full-Round Action
 
 The “start full-round action” standard action lets you start undertaking a full-round action, which you can complete in the following round by using another standard action. You can't use this action to start or complete a full attack, charge, run, or withdraw.
 
@@ -456,7 +456,7 @@ Moving or manipulating an item is usually a move action.
 
 This includes retrieving or putting away a stored item, picking up an item, moving a heavy object, and opening a door. Examples of this kind of action, along with whether they incur an attack of opportunity, are given in Table: Actions in Combat.
 
-### Mount/Dismount a Steed
+### Mount_dir/Dismount a Steed
 
 Mounting or dismounting a steed requires a move action.
 
@@ -791,16 +791,16 @@ If movement cost is doubled twice, then each square counts as 4 squares (or as 6
 
 **Minimum Movement** : Despite whatever penalties to movement you might have, you can take a full-round action to move 5 feet (1 square) in any direction, even diagonally. This rule doesn't allow you to move through impassable terrain or to move when all movement is prohibited. Such movement provokes attacks of opportunity as normal (despite the distance covered, this move isn't a 5-foot step).
 
- ![](imag_dir/TacticalMovement.jpg)
+ ![](image_dir/TacticalMovement.jpg)
 
 # Big And Little Creatures In Combat
 
 [Table: Creature Size and Scale]
 | Creature Size | Space | Natural Reach\* |
 | --- | --- | --- |
-| Fine | 1/2 ft. | 0 |
+| Fine | 1_dir/2 ft. | 0 |
 | Diminutive | 1 ft. | 0 |
-| Tiny | 2-1/2 ft. | 0 |
+| Tiny | 2-1_dir/2 ft. | 0 |
 | Small | 5 ft. | 5 ft. |
 | Medium | 5 ft. | 5 ft. |
 | Large (tall) | 10 ft. | 10 ft. |
@@ -814,7 +814,7 @@ If movement cost is doubled twice, then each square counts as 4 squares (or as 6
 
 Creatures smaller than Small or larger than Medium have special rules relating to position.
 
-**Tiny, Diminutive, and Fine Creatures** : Very small creatures take up less than 1 square of space. This means that more than one such creature can fit into a single square. A Tiny creature typically occupies a space only 2-1/2 feet across, so four can fit into a single square. 25 Diminutive creatures or 100 Fine creatures can fit into a single square. Creatures that take up less than 1 square of space typically have a natural reach of 0 feet, meaning they can't reach into adjacent squares. They must enter an opponent's square to attack in melee. This provokes an attack of opportunity from the opponent. You can attack into your own square if you need to, so you can attack such creatures normally. Since they have no natural reach, they do not threaten the squares around them. You can move past them without provoking attacks of opportunity. They also can't flank an enemy.
+**Tiny, Diminutive, and Fine Creatures** : Very small creatures take up less than 1 square of space. This means that more than one such creature can fit into a single square. A Tiny creature typically occupies a space only 2-1_dir/2 feet across, so four can fit into a single square. 25 Diminutive creatures or 100 Fine creatures can fit into a single square. Creatures that take up less than 1 square of space typically have a natural reach of 0 feet, meaning they can't reach into adjacent squares. They must enter an opponent's square to attack in melee. This provokes an attack of opportunity from the opponent. You can attack into your own square if you need to, so you can attack such creatures normally. Since they have no natural reach, they do not threaten the squares around them. You can move past them without provoking attacks of opportunity. They also can't flank an enemy.
 
 **Large, Huge, Gargantuan, and Colossal Creatures** : Very large creatures take up more than 1 square.
 
@@ -881,7 +881,7 @@ When making a melee attack against an adjacent target, your target has cover if 
 
 **Improved Cover** : In some cases, such as attacking a target hiding behind an arrowslit, cover may provide a greater bonus to AC and Reflex saves. In such situations, the normal cover bonuses to AC and Reflex saves can be doubled (to +8 and +4, respectively). A creature with this improved cover effectively gains improved evasion against any attack to which the Reflex save bonus applies. Furthermore, improved cover provides a +10 bonus on Stealth checks.
 
- ![](imag_dir/Cover.jpg)
+ ![](image_dir/Cover.jpg)
 
 ## Concealment
 
@@ -915,7 +915,7 @@ Only a creature or character that threatens the defender can help an attacker ge
 
 Creatures with a reach of 0 feet can't flank an opponent.
 
- ![](image/Flanking.jpg)
+ ![](image_dir/Flanking.jpg)
 
 ## Helpless Defenders
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/shadowBombAdmixture
+title: ultimateCombat_dir/spells_dir/shadowBombAdmixture
 ---
 Shadow Bomb Admixture
 
@@ -14,7 +14,7 @@ Shadow Bomb Admixture
 
 **Target** you
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** special, see below; **Spell Resistance** special, see below
 

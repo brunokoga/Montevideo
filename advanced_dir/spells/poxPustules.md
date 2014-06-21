@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/poxPustules
+title: advanced_dir/spells_dir/poxPustules
 ---
  **Pox Pustules**
 
@@ -10,11 +10,11 @@ title: advance_dir/spells/poxPustules
 
 **Components** V, S, M (leaves from a toxic plant)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 

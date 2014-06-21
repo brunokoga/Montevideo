@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/refuge
+title: spells_dir/refuge
 ---
  **Refuge**
 
-**School** conjuration (teleportation); **Level** cleric 7, sorcerer/wizard 9
+**School** conjuration (teleportation); **Level** cleric 7, sorcerer_dir/wizard 9
 
 **Casting Time** 1 standard action
 

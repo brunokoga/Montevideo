@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/neutralizePoison
+title: spells_dir/neutralizePoison
 ---
  **Neutralize Poison**
 
@@ -8,13 +8,13 @@ title: spell_dir/neutralizePoison
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (charcoal)
+**Components** V, S, M_dir/DF (charcoal)
 
 **Range** touch
 
-**Target** creature or object of up to 1 cu. ft./level touched
+**Target** creature or object of up to 1 cu. ft._dir/level touched
 
-**Duration** instantaneous or 10 min./level; see text
+**Duration** instantaneous or 10 min._dir/level; see text
 
 **Saving Throw** [Will](../combat#_will) negates (harmless, object); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless, object)
 

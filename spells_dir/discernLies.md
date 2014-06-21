@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/discernLies
+title: spells_dir/discernLies
 ---
  **Discern Lies**
 
@@ -10,11 +10,11 @@ title: spell_dir/discernLies
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Targets** one creatur_dir/level, no two of which can be more than 30 ft. apart
+**Targets** one creature_dir/level, no two of which can be more than 30 ft. apart
 
-**Duration** concentration, up to 1 round/level
+**Duration** concentration, up to 1 round_dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** no
 

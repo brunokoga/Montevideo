@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/forbiddance
+title: spells_dir/forbiddance
 ---
  **Forbiddance**
 
@@ -10,9 +10,9 @@ title: spell_dir/forbiddance
 
 **Components** V, S, M (holy water and incense worth 1,500 gp, plus 1,500 gp per 60-foot cube), DF
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Area** 60-ft. cub_dir/level (S)
+**Area** 60-ft. cube_dir/level (S)
 
 **Duration** permanent
 
@@ -24,9 +24,9 @@ In addition, it damages entering creatures whose alignments are different from y
 
 _Alignments identical_: No effect. The creature may enter the area freely (although not by planar travel).
 
-_Alignments different with respect to either la_dir/chaos or good/evil_: The creature takes 6d6 points of damage. A successful [Will](../combat#_will) save halves the damage, and [spell resistance](../glossary#_spell-resistance) applies.
+_Alignments different with respect to either law_dir/chaos or good_dir/evil_: The creature takes 6d6 points of damage. A successful [Will](../combat#_will) save halves the damage, and [spell resistance](../glossary#_spell-resistance) applies.
 
-_Alignments different with respect to both la_dir/chaos and good/evil_: The creature takes 12d6 points of damage. A successful [Will](../combat#_will) save halves the damage, and [spell resistance](../glossary#_spell-resistance) applies.
+_Alignments different with respect to both law_dir/chaos and good_dir/evil_: The creature takes 12d6 points of damage. A successful [Will](../combat#_will) save halves the damage, and [spell resistance](../glossary#_spell-resistance) applies.
 
 At your option, the abjuration can include a password, in which case creatures of alignments different from yours can avoid the damage by speaking the password as they enter the area. You must select this option (and the password) at the time of casting. Adding a password requires the burning of additional rare incenses worth at least 1,000 gp, plus 1,000 gp per 60-foot cube.
 

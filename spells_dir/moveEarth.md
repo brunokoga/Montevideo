@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spell_dir/moveEarth
+title: spells_dir/moveEarth
 ---
  **Move Earth**
 
-**School** transmutation [earth]; **Level** druid 6, sorcerer/wizard 6
+**School** transmutation [earth]; **Level** druid 6, sorcerer_dir/wizard 6
 
 **Casting Time** see text
 
 **Components** V, S, M (clay, loam, sand, and an iron blade)
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Area** dirt in an area up to 750 ft. square and up to 10 ft. deep (S)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/liveoak
+title: spells_dir/liveoak
 ---
  **Liveoak**
 
@@ -14,7 +14,7 @@ title: spell_dir/liveoak
 
 **Target** tree touched
 
-**Duration** 1 day/level (D)
+**Duration** 1 day_dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

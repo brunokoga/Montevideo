@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/doppelganger
+title: monsters_dir/doppelganger
 ---
 # Doppelganger
 
@@ -12,7 +12,7 @@ _This grayish humanoid creature seems almost unfinished, with a narrow head, gau
 
 N Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) (shapechanger)
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +9
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +9
 
 **Defense**
 
@@ -32,7 +32,7 @@ N Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) (shapechanger)
 
 **Spell-Like Abilities** (CL 18th)
 
-At will—_ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC 13)
+At will—_ [detect thoughts](../spells_dir/detectThoughts#_detect-thoughts)_ (DC 13)
 
 **Statistics**
 
@@ -42,11 +42,11 @@ At will—_ [detect thoughts](../spell_dir/detectThoughts#_detect-thoughts)_ (DC
 
 **Feats** [Dodge](../feats#_dodge), [Great Fortitude](../feats#_great-fortitude)
 
-**Skills** [Bluff](../skill_dir/bluff#_bluff) +9 (+13 while using change shape ability), [Diplomacy](../skill_dir/diplomacy#_diplomacy) +4, [Disguise](../skill_dir/disguise#_disguise) +9 (+29 while using change shape ability), [Perception](../skill_dir/perception#_perception) +9, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +6, [Stealth](../skill_dir/stealth#_stealth) +5; **Racial Modifiers** +4 [Bluff](../skill_dir/bluff#_bluff), +4 [Disguise](../skill_dir/disguise#_disguise)
+**Skills** [Bluff](../skills_dir/bluff#_bluff) +9 (+13 while using change shape ability), [Diplomacy](../skills_dir/diplomacy#_diplomacy) +4, [Disguise](../skills_dir/disguise#_disguise) +9 (+29 while using change shape ability), [Perception](../skills_dir/perception#_perception) +9, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +6, [Stealth](../skills_dir/stealth#_stealth) +5; **Racial Modifiers** +4 [Bluff](../skills_dir/bluff#_bluff), +4 [Disguise](../skills_dir/disguise#_disguise)
 
 **Languages** Common
 
-**SQ** [change shape](universalMonsterRules#_change-shape) (_ [alter self](../spell_dir/alterSelf#_alter-self)_), mimicry, perfect copy
+**SQ** [change shape](universalMonsterRules#_change-shape) (_ [alter self](../spells_dir/alterSelf#_alter-self)_), mimicry, perfect copy
 
 **Ecology**
 
@@ -68,5 +68,5 @@ Doppelgangers prefer infiltrating societies where they can gather wealth and inf
 
 Doppelgangers make excellent use of their natural mimicry to stage ambushes, bait traps, and infiltrate humanoid society. Although not usually evil, they are interested only in themselves and regard all others as playthings to be manipulated and deceived. They are particularly fond of invading human societies in order to indulge in their desires—some enjoy the complex dance of politics while others seek constant change in the race and gender of both themselves and their romantic companions. While not standard, it is those doppelgangers use their gifts for cruel and sadistic purposes that are most notorious, and these shapeshifters are the primary cause of the race's sinister reputation. Certainly, a creature capable of changing its shape has a handy way to avoid capture for its crimes, and some particularly malicious doppelgangers enjoy disrupting relationships by posing as unfaithful lovers.
 
-Rumors persist of even more powerful doppelgangers capable of not only shifting their appearance, but also skills, memories, and even the extraordinary and supernatural abilities of creatures whose forms they choose to mimic. These doppelgangers' change shape ability functions like the spell _ [polymorph](../spell_dir/polymorph#_polymorph)_ rather than _ [alter self](../spell_dir/alterSelf#_alter-self)_.
+Rumors persist of even more powerful doppelgangers capable of not only shifting their appearance, but also skills, memories, and even the extraordinary and supernatural abilities of creatures whose forms they choose to mimic. These doppelgangers' change shape ability functions like the spell _ [polymorph](../spells_dir/polymorph#_polymorph)_ rather than _ [alter self](../spells_dir/alterSelf#_alter-self)_.
 

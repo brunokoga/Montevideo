@@ -1,20 +1,20 @@
 ---
 layout: default
-title: advance_dir/spells/campfireWall
+title: advanced_dir/spells_dir/campfireWall
 ---
  **Campfire Wall**
 
-**School** evocation [fire, light]; **Level** bard 3, druid 2, ranger 2, sorcere_dir/wizard 3
+**School** evocation [fire, light]; **Level** bard 3, druid 2, ranger 2, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (ash made from burnt thorns)
+**Components** V, S, M_dir/DF (ash made from burnt thorns)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** 20-ft.-radius sphere centered on fire source
 
-**Duration** 2 hour_dir/level; see below (D)
+**Duration** 2 hours_dir/level; see below (D)
 
 **Saving Throw** none; **Spell Resistance** yes
 

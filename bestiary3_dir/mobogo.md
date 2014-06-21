@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/mobogo
+title: bestiary3_dir/mobogo
 ---
 # Mobogo
 
@@ -10,15 +10,15 @@ Mobogo CR 10
 
 XP 9,600
 
-CE Huge magical beast ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype))
+CE Huge magical beast ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](skills/perception#_perception) +19
+**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +19
 
 Defense
 
 **AC** 24, touch 10, flat-footed 22 (+2 Dex, +14 natural, –2 size)
 
-**hp** 136 (13d10+65); regeneration 5 (acid, [cold](monster_dir/creatureTypes#_cold-subtype), or [fire](monsters/creatureTypes#_fire-subtype))
+**hp** 136 (13d10+65); regeneration 5 (acid, [cold](monsters_dir/creatureTypes#_cold-subtype), or [fire](monsters_dir/creatureTypes#_fire-subtype))
 
 **Fort** +13, **Ref** +10, **Will** +8
 
@@ -27,7 +27,7 @@ Offense
 **Speed** 30 ft., fly 30 ft. (clumsy), swim 40 ft.
 
 **Melee** bite +20 (2d6+9), 2 slams +20 (1d8+9) or  
-tongue +20 (1d6+9 plus [grab](monster_dir/universalMonsterRules#_grab) and pull)
+tongue +20 (1d6+9 plus [grab](monsters_dir/universalMonsterRules#_grab) and pull)
 
 **Space** 15 ft.; **Reach** 15 ft. (45 ft. with tongue)
 
@@ -35,11 +35,11 @@ tongue +20 (1d6+9 plus [grab](monster_dir/universalMonsterRules#_grab) and pull)
 
 **Spell-Like Abilities** (CL 8th; concentration +11)
 
-Constant—_ [pass without trace](spells/passWithoutTrace#_pass-without-trace)_, _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals)_
+Constant—_ [pass without trace](spells_dir/passWithoutTrace#_pass-without-trace)_, _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
 
-At will—_ [charm animal](spells/charmAnimal#_charm-animal)_ (DC 14), _ [create water](spell_dir/createWater#_create-water), [sound burst](spells/soundBurst#_sound-burst)_ (DC 15)
+At will—_ [charm animal](spells_dir/charmAnimal#_charm-animal)_ (DC 14), _ [create water](spells_dir/createWater#_create-water), [sound burst](spells_dir/soundBurst#_sound-burst)_ (DC 15)
 
-3/day—_ [control water](spell_dir/controlWater#_control-water)_, _ [fog cloud](spells/fogCloud)_, _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind)_ (DC 15), _ [plant growth](spells/plantGrowth#_plant-growth)_, _ [quench](spell_dir/quench#_quench)_ (DC 16), _ [soften earth and stone](spells/softenEarthAndStone#_soften-earth-and-stone)_ (DC 15)
+3_dir/day—_ [control water](spells_dir/controlWater#_control-water)_, _ [fog cloud](spells_dir/fogCloud)_, _ [gust of wind](spells_dir/gustOfWind#_gust-of-wind)_ (DC 15), _ [plant growth](spells_dir/plantGrowth#_plant-growth)_, _ [quench](spells_dir/quench#_quench)_ (DC 16), _ [soften earth and stone](spells_dir/softenEarthAndStone#_soften-earth-and-stone)_ (DC 15)
 
 Statistics
 
@@ -47,11 +47,11 @@ Statistics
 
 **Base Atk** +13; **CMB** +24 (+28 grapple); **CMD** 36 (40 vs. trip)
 
-**Feats** [Awesome Blow](monster_dir/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Combat Reflexes](feats#_combat-reflexes), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Overrun](feats#_improved-overrun), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack)
+**Feats** [Awesome Blow](monsters_dir/monsterFeats#_awesome-blow), [Cleave](feats#_cleave), [Combat Reflexes](feats#_combat-reflexes), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Overrun](feats#_improved-overrun), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +9 (+17 when jumping), [Fly](skill_dir/fly#_fly) –6, [Perception](skills/perception#_perception) +19, [Stealth](skill_dir/stealth#_stealth) +0 (+8 in swamps), [Swim](skills/swim#_swim) +17; **Racial Modifiers** +8 [Perception](skill_dir/perception#_perception), +8 [Stealth](skills/stealth#_stealth) in swamps
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +9 (+17 when jumping), [Fly](skills_dir/fly#_fly) –6, [Perception](skills_dir/perception#_perception) +19, [Stealth](skills_dir/stealth#_stealth) +0 (+8 in swamps), [Swim](skills_dir/swim#_swim) +17; **Racial Modifiers** +8 [Perception](skills_dir/perception#_perception), +8 [Stealth](skills_dir/stealth#_stealth) in swamps
 
-**Languages** Boggard; _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals)_
+**Languages** Boggard; _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
 
 **SQ** amphibious, swamp stride
 
@@ -69,7 +69,7 @@ Special Abilities
 
 **Tongue (Ex)** A mobogo's tongue is a primary attack with reach equal to three times the mobogo's normal reach (45 feet for a typical mobogo). A mobogo does not gain the grappled condition when using its tongue to grapple a foe.
 
-**Vile Croak (Su)** As a standard action once every 1d4 rounds, a mobogo can unleash a thunderous croak. Any non-boggard or non-mobogo within 50 feet of the mobogo must make a DC 19 Will save or become staggered for 1d4 rounds. Once a creature makes its saving throw against a particular mobogo's vile croak, it is immune to that mobogo's croak for 24 hours. Any boggards or mobogos within the area of a mobogo's vile croak gains a +2 morale bonus on attack rolls and saving throws against [fear](monsters/universalMonsterRules#_fear-(su-or-sp)) effects for 1 round. The save DC is Charisma-based.
+**Vile Croak (Su)** As a standard action once every 1d4 rounds, a mobogo can unleash a thunderous croak. Any non-boggard or non-mobogo within 50 feet of the mobogo must make a DC 19 Will save or become staggered for 1d4 rounds. Once a creature makes its saving throw against a particular mobogo's vile croak, it is immune to that mobogo's croak for 24 hours. Any boggards or mobogos within the area of a mobogo's vile croak gains a +2 morale bonus on attack rolls and saving throws against [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) effects for 1 round. The save DC is Charisma-based.
 
 Huge and hungry, mobogos merge the features of gigantic toads and swampy dragons, and lair in the deepest, oldest swamps. Here, whole tribes of boggards serve the beasts' fickle, capricious whims.
 

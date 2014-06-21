@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/defileArmor
+title: advanced_dir/spells_dir/defileArmor
 ---
  **Defile Armor**
 
@@ -14,9 +14,9 @@ title: advance_dir/spells/defileArmor
 
 **Target** armor touched
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 
-As _ [sanctify armor](sanctifyArmor#_sanctify-armor)_, except you gain DR 5/good when using your judgment or smite ability.
+As _ [sanctify armor](sanctifyArmor#_sanctify-armor)_, except you gain DR 5_dir/good when using your judgment or smite ability.
 

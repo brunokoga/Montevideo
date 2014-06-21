@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/shockingGrasp
+title: spells_dir/shockingGrasp
 ---
  **Shocking Grasp**
 
-**School** evocation [electricity]; **Level** sorcerer/wizard 1
+**School** evocation [electricity]; **Level** sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/putrefyFoodAndDrink
+title: advanced_dir/spells_dir/putrefyFoodAndDrink
 ---
  **Putrefy Food and Drink**
 
@@ -12,7 +12,7 @@ title: advance_dir/spells/putrefyFoodAndDrink
 
 **Range** 10 ft.
 
-**Target** 1 cu. ft./level of food and water or one potion; see text
+**Target** 1 cu. ft._dir/level of food and water or one potion; see text
 
 **Duration** instantaneous
 

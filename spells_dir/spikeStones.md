@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/spikeStones
+title: spells_dir/spikeStones
 ---
  **Spike Stones**
 
@@ -10,11 +10,11 @@ title: spell_dir/spikeStones
 
 **Components** V, S, DF
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Area** one 20-ft. squar_dir/level
+**Area** one 20-ft. square_dir/level
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hour_dir/level (D)
 
 **Saving Throw** [Reflex](../combat#_reflex) partial; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

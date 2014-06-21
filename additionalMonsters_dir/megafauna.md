@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/megafauna
+title: additionalMonsters_dir/megafauna
 ---
 # Megafauna, Arsinoitherium
 
@@ -10,9 +10,9 @@ This creature is much like a rhino, some six feet tall and ten feet long, with a
 
 **XP 3,200**
 
-N Large [animal](monsters/creatureTypes#_animal)
+N Large [animal](monsters_dir/creatureTypes#_animal)
 
-**Init** +0; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
+**Init** +0; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13
 
 Defense
 
@@ -30,7 +30,7 @@ Offense
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [powerful charge](monsters/universalMonsterRules#_powerful-charge) (4d8+13), trample (2d8+13, DC 23)
+**Special Attacks** [powerful charge](monsters_dir/universalMonsterRules#_powerful-charge) (4d8+13), trample (2d8+13, DC 23)
 
 Statistics
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +16; **CMD** 26 (30 vs. trip)
 
-**Feats** [Diehard](additionalMonster_dir/../feats#_diehard), [Endurance](additionalMonster_dir/../feats#_endurance), [Great Fortitude](additionalMonster_dir/../feats#_great-fortitude), [Improved Overrun](additionalMonster_dir/../feats#_improved-overrun), [Power Attack](additionalMonster_dir/../feats#_power-attack)
+**Feats** [Diehard](additionalMonsters_dir/../feats#_diehard), [Endurance](additionalMonsters_dir/../feats#_endurance), [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Improved Overrun](additionalMonsters_dir/../feats#_improved-overrun), [Power Attack](additionalMonsters_dir/../feats#_power-attack)
 
-**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +13
+**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13
 
 Ecology
 
@@ -66,9 +66,9 @@ This armored creature has a bony, turtle-like shell from which protrude short li
 
 **XP 2,400**
 
-N Large [animal](monsters/creatureTypes#_animal)
+N Large [animal](monsters_dir/creatureTypes#_animal)
 
-**Init** +0; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +16
+**Init** +0; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +16
 
 Defense
 
@@ -92,9 +92,9 @@ Statistics
 
 **Base Atk** +6; **CMB** +14; **CMD** 24 (28 vs. trip)
 
-**Feats** [Endurance](additionalMonsters/../feats#_endurance), [Great Fortitude](additionalMonster_dir/../feats#_great-fortitude), [Improved Bull Rush](additionalMonster_dir/../feats#_improved-bull-rush), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception))
+**Feats** [Endurance](additionalMonsters_dir/../feats#_endurance), [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Improved Bull Rush](additionalMonsters_dir/../feats#_improved-bull-rush), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception))
 
-**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception) +16
+**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +16
 
 Ecology
 
@@ -120,9 +120,9 @@ The massive and majestic elk stands fully the height of a human at its shoulder,
 
 **XP 1,200**
 
-N Large [animal](monsters/creatureTypes#_animal)
+N Large [animal](monsters_dir/creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +9
+**Init** +2; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +9
 
 Defense
 
@@ -140,7 +140,7 @@ Offense
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [powerful charge](monsters/universalMonsterRules#_powerful-charge) (4d6+7)
+**Special Attacks** [powerful charge](monsters_dir/universalMonsterRules#_powerful-charge) (4d6+7)
 
 Statistics
 
@@ -148,13 +148,13 @@ Statistics
 
 **Base Atk** +3; **CMB** +9; **CMD** 21 (25 vs. trip)
 
-**Feats** [Endurance](additionalMonster_dir/../feats#_endurance), [Lightning Reflexes](additionalMonster_dir/../feats#_lightning-reflexes), [Run](additionalMonster_dir/../feats#_run)B
+**Feats** [Endurance](additionalMonsters_dir/../feats#_endurance), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Run](additionalMonsters_dir/../feats#_run)B
 
-**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +9
+**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +9
 
 ECOLOGY
 
-**Environment** [cold](monsters/creatureTypes#_cold-subtype) or temperate forest and plains
+**Environment** [cold](monsters_dir/creatureTypes#_cold-subtype) or temperate forest and plains
 
 **Organization** solitary, pair, or herd (3–50)
 
@@ -176,9 +176,9 @@ The great sloth, standing on its hind legs, can reach the treetops with its agil
 
 **XP 1,600**
 
-N Huge [animal](monster_dir/creatureTypes#_animal)
+N Huge [animal](monsters_dir/creatureTypes#_animal)
 
-**Init** +0; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +14
+**Init** +0; **Senses** low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +14
 
 Defense
 
@@ -204,9 +204,9 @@ Statistics
 
 **Base Atk** +5; **CMB** +14; **CMD** 24 (28 vs. trip)
 
-**Feats** [Awesome Blow](additionalMonsters/../monster_dir/monsterFeats#_awesome-blow), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception))
+**Feats** [Awesome Blow](additionalMonsters_dir/../monsters_dir/monsterFeats#_awesome-blow), [Improved Bull Rush](additionalMonsters_dir/../feats#_improved-bull-rush), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception))
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb) +15, [Perception](additionalMonsters/../skill_dir/perception#_perception) +14
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +15, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +14
 
 Ecology
 

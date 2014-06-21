@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/unicorn
+title: monsters_dir/unicorn
 ---
 # Unicorn
 
@@ -12,7 +12,7 @@ _This magnificent beast looks like a white horse, but with a goat's beard and a 
 
 CG Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +10
+**Init** +3; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
 
 **Aura** magic circle against evil
 
@@ -38,11 +38,11 @@ CG Large [magical beast](creatureTypes#_magical-beast)
 
 **Spell-Like Abilities** (CL 9th)
 
-At will—_ [detect evil](../spell_dir/detectEvil#_detect-evil)_ (as free action), _ [light](../spell_dir/light#_light)_
+At will—_ [detect evil](../spells_dir/detectEvil#_detect-evil)_ (as free action), _ [light](../spells_dir/light#_light)_
 
-3/day—_ [cure light wounds](../spell_dir/cureLightWounds#_cure-light-wounds)_
+3_dir/day—_ [cure light wounds](../spells_dir/cureLightWounds#_cure-light-wounds)_
 
-1/day—_ [cure moderate wounds](../spell_dir/cureModerateWounds#_cure-moderate-wounds), [greater teleport](../spell_dir/teleport#_teleport-greater)_ (within its forest territory), _ [neutralize poison](../spell_dir/neutralizePoison#_neutralize-poison)_ (DC 21)
+1_dir/day—_ [cure moderate wounds](../spells_dir/cureModerateWounds#_cure-moderate-wounds), [greater teleport](../spells_dir/teleport#_teleport-greater)_ (within its forest territory), _ [neutralize poison](../spells_dir/neutralizePoison#_neutralize-poison)_ (DC 21)
 
 **Statistics**
 
@@ -52,7 +52,7 @@ At will—_ [detect evil](../spell_dir/detectEvil#_detect-evil)_ (as free action
 
 **Feats** [Multiattack](monsterFeats#_multiattack), [Weapon Focus](../feats#_weapon-focus) (horn)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +8, [Perception](../skill_dir/perception#_perception) +10, [Stealth](../skill_dir/stealth#_stealth) +8, [Survival](../skill_dir/survival#_survival) +7 (+10 in forests); **Racial Modifiers** +3 [Survival](../skill_dir/survival#_survival) in forests, +4 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +8, [Perception](../skills_dir/perception#_perception) +10, [Stealth](../skills_dir/stealth#_stealth) +8, [Survival](../skills_dir/survival#_survival) +7 (+10 in forests); **Racial Modifiers** +3 [Survival](../skills_dir/survival#_survival) in forests, +4 [Stealth](../skills_dir/stealth#_stealth)
 
 **Languages** Common, Sylvan
 

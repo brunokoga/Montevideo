@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spell_dir/detectPoison
+title: spells_dir/detectPoison
 ---
  **Detect Poison**
 
-**School** divination; **Level** cleric 0, druid 0, paladin 1, ranger 1, sorcerer/wizard 0
+**School** divination; **Level** cleric 0, druid 0, paladin 1, ranger 1, sorcerer_dir/wizard 0
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target or Area** one creature, one object, or a 5-ft. cube
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/unholyIce
+title: ultimateMagic_dir/spells_dir/unholyIce
 ---
 Unholy Ice
 

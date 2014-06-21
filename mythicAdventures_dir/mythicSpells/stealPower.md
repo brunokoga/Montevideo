@@ -1,16 +1,16 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/stealPower
+title: mythicAdventures_dir/mythicSpells_dir/stealPower
 ---
 Steal Power
 
-**School** necromancy; **Level** cleric 5, sorcere_dir/wizard 5, witch 5
+**School** necromancy; **Level** cleric 5, sorcerer_dir/wizard 5, witch 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one mythic creature
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/thoqqua
+title: additionalMonsters_dir/thoqqua
 ---
 # Thoqqua
 
@@ -10,9 +10,9 @@ This creature's thick, serpentine body is protected by dense, horny plates. A vi
 
 **XP 600**
 
-N Medium [outsider](monsters/creatureTypes#_outsider) ( [earth](monster_dir/creatureTypes#_earth-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype), [fire](monsters/creatureTypes#_fire-subtype))
+N Medium [outsider](monsters_dir/creatureTypes#_outsider) ( [earth](monsters_dir/creatureTypes#_earth-subtype), [elemental](monsters_dir/creatureTypes#_elemental-subtype), [extraplanar](monsters_dir/creatureTypes#_extraplanar-subtype), [fire](monsters_dir/creatureTypes#_fire-subtype))
 
-**Init** +1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +10
+**Init** +1; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10
 
 **Aura** molten body
 
@@ -24,9 +24,9 @@ Defense
 
 **Fort** +5, **Ref** +4, **Will** +2
 
-**Immune** [fire](monsters/creatureTypes#_fire-subtype), [elemental](monster_dir/creatureTypes#_elemental-subtype)
+**Immune** [fire](monsters_dir/creatureTypes#_fire-subtype), [elemental](monsters_dir/creatureTypes#_elemental-subtype)
 
-**Weaknesses** vulnerable to [cold](monsters/creatureTypes#_cold-subtype)
+**Weaknesses** vulnerable to [cold](monsters_dir/creatureTypes#_cold-subtype)
 
 Offense
 
@@ -42,15 +42,15 @@ Statistics
 
 **Base Atk** +3; **CMB** +4; **CMD** 15 (can't be tripped)
 
-**Feats** [Nimble Moves](additionalMonster_dir/../feats#_nimble-moves), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception))
+**Feats** [Nimble Moves](additionalMonsters_dir/../feats#_nimble-moves), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception))
 
-**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics) +7, [Perception](additionalMonsters/../skill_dir/perception#_perception) +10, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +7, [Survival](additionalMonsters/../skill_dir/survival#_survival) +7
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +7, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +10, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +7, [Survival](additionalMonsters_dir/../skills_dir/survival#_survival) +7
 
 **Languages** Ignan (cannot speak)
 
 Ecology
 
-**Environment** any land (Plane of [Fire](monsters/creatureTypes#_fire-subtype))
+**Environment** any land (Plane of [Fire](monsters_dir/creatureTypes#_fire-subtype))
 
 **Organization** solitary or pair
 
@@ -58,7 +58,7 @@ Ecology
 
 Special Abilities
 
-**Molten Body (Su)** A thoqqua's body is hot enough to melt stone. Anyone striking a thoqqua with a natural weapon or unarmed strike takes 1d6 points of [fire](monster_dir/creatureTypes#_fire-subtype) damage. A creature that grapples a thoqqua or is grappled by one takes 3d6 points of [fire](monsters/creatureTypes#_fire-subtype) damage each round the grapple persists. A creature that strikes a thoqqua with a manufactured weapon can attempt a DC 13 Reflex save to pull the weapon away from the creature's molten body quickly enough to avoid having the weapon take 1d6 points of [fire](monster_dir/creatureTypes#_fire-subtype) damage—damage caused to a weapon in this manner is not halved as is normal for damage caused to items, and ignores the first 5 points of hardness possessed by the item. As a result, most metal weapons can generally safely strike a thoqqua without taking much damage, but wooden weapons have a significant chance of burning away if used against one of these creatures. The save DC is Constitution-based.
+**Molten Body (Su)** A thoqqua's body is hot enough to melt stone. Anyone striking a thoqqua with a natural weapon or unarmed strike takes 1d6 points of [fire](monsters_dir/creatureTypes#_fire-subtype) damage. A creature that grapples a thoqqua or is grappled by one takes 3d6 points of [fire](monsters_dir/creatureTypes#_fire-subtype) damage each round the grapple persists. A creature that strikes a thoqqua with a manufactured weapon can attempt a DC 13 Reflex save to pull the weapon away from the creature's molten body quickly enough to avoid having the weapon take 1d6 points of [fire](monsters_dir/creatureTypes#_fire-subtype) damage—damage caused to a weapon in this manner is not halved as is normal for damage caused to items, and ignores the first 5 points of hardness possessed by the item. As a result, most metal weapons can generally safely strike a thoqqua without taking much damage, but wooden weapons have a significant chance of burning away if used against one of these creatures. The save DC is Constitution-based.
 
 Thoqquas are cantankerous creatures of fire and slag. Their bodies generate incredible heat that allows them to burrow or melt through most surfaces, even solid rock. Thoqquas are native to the vast ash deserts and lava fields where the Plane of Fire abuts the Plane of Earth. There they consume ore and minerals, which their furnace-like bodies then smelt into armor plates that grant the creatures their natural armor—as outsiders, these creatures have no need to eat to survive, but a “starving” thoqqua generally has a lower natural armor bonus than a healthy one.
 

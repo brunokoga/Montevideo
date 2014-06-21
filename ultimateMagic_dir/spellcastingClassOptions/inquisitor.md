@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spellcastingClassOptions/inquisitor
+title: ultimateMagic_dir/spellcastingClassOptions_dir/inquisitor
 ---
 # Inquisitor
 
@@ -14,7 +14,7 @@ To remedy that problem, this section introduces inquisitions—new, specialized 
 
 While inquisitors often take on the domains permitted to the clerics of the faith, they are privy to special lore not open to priests and other agents of their religion. These divine pursuits, called inquisitions, grant inquisitors the tools necessary for the fight against enemies of the faith. An inquisitor may select an inquisition in place of a domain.
 
-If an inquisition's granted power calls for a saving throw, the DC of the save is equal to 10 + 1/2 the character's inquisitor level + her Wisdom modifier. Unless otherwise stated, the caster level for granted power spell-like abilities is equal to the inquisitor's class level.
+If an inquisition's granted power calls for a saving throw, the DC of the save is equal to 10 + 1_dir/2 the character's inquisitor level + her Wisdom modifier. Unless otherwise stated, the caster level for granted power spell-like abilities is equal to the inquisitor's class level.
 
 Inquisitions are intended for inquisitors, not for other classes that give access to domains. While a cleric or other domain-using class can select an inquisition in place of a domain (if appropriate to the character's deity), inquisitions do not grant domain spell slots or domain spells, and therefore are much weaker choices for those classes. These other classes use the appropriate class level as their inquisitor level for the purpose of inquisition granted powers (clerics use their cleric level as their inquisitor level, and so on).
 
@@ -30,17 +30,17 @@ _Divine Anger (Ex)_: At 6th level, you gain the ability to rage like a barbarian
 
 **Granted Powers** : You are a powerful persuader. A honeyed tongue empowered by divine argumentation sways the indifferent and adversarial to your side.
 
-_Charm of Wisdom (Ex)_: You use your Wisdom modifier instead of your Charisma modifier when making [Bluff](skill_dir/bluff#_bluff), [Diplomacy](skills/diplomacy#_diplomacy), and [Intimidate](skill_dir/intimidate#_intimidate) checks.
+_Charm of Wisdom (Ex)_: You use your Wisdom modifier instead of your Charisma modifier when making [Bluff](skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), and [Intimidate](skills_dir/intimidate#_intimidate) checks.
 
-_Swaying Word (Sp)_: At 8th level, once per day you may speak a word of divinely inspired wisdom that causes a single creature to switch its alliance to you. The target must be within line of sight and able to hear you. If he fails his Will save, he is affected by _ [dominate person](spells/dominatePerson#_dominate-person)_, except the duration is only 1 minute.
+_Swaying Word (Sp)_: At 8th level, once per day you may speak a word of divinely inspired wisdom that causes a single creature to switch its alliance to you. The target must be within line of sight and able to hear you. If he fails his Will save, he is affected by _ [dominate person](spells_dir/dominatePerson#_dominate-person)_, except the duration is only 1 minute.
 
 ## Fate Inquisition
 
 **Granted Powers** : Fate is a powerful tool for those who dole out justice for their deity. You can read the strands of fate, and those strands guide your endeavors.
 
-_Augury (Sp)_: Once per day, you can use _ [augury](spell_dir/augury#_augury)_ as a spell-like ability.
+_Augury (Sp)_: Once per day, you can use _ [augury](spells_dir/augury#_augury)_ as a spell-like ability.
 
-_Agent of Fate (Su)_: At 8th level, when you use your _ [augury](spells/augury#_augury)_ spell-like ability, you gain a benefit that lasts until the end of your next combat. If the result was “weal,” all curing effects used on you cure an additional +1d10 hit points. If the result was “woe,” your melee attacks deal an additional +1d6 points of damage. If the result is “weal and woe” or “nothing,” you gain a +2 insight bonus to your Armor Class.
+_Agent of Fate (Su)_: At 8th level, when you use your _ [augury](spells_dir/augury#_augury)_ spell-like ability, you gain a benefit that lasts until the end of your next combat. If the result was “weal,” all curing effects used on you cure an additional +1d10 hit points. If the result was “woe,” your melee attacks deal an additional +1d6 points of damage. If the result is “weal and woe” or “nothing,” you gain a +2 insight bonus to your Armor Class.
 
 ## Fervor Inquisition
 
@@ -54,11 +54,11 @@ _Fervent Action (Ex)_: At 8th level, once per day as a swift action, you can mak
 
 **Granted Powers** : Often it is hard to tell heretics from the faithful. You use duplicity, stealth, and the heretics' own arguments to root them out and bring them to justice.
 
-_Righteous Infiltration (Ex)_: You use your Wisdom modifier instead of your Charisma modifier when making [Bluff](skill_dir/bluff#_bluff) and [Intimidate](skills/intimidate#_intimidate) checks.
+_Righteous Infiltration (Ex)_: You use your Wisdom modifier instead of your Charisma modifier when making [Bluff](skills_dir/bluff#_bluff) and [Intimidate](skills_dir/intimidate#_intimidate) checks.
 
-_Blessed Infiltration (Ex)_: At 4th level, when you make a [Bluff](skill_dir/bluff#_bluff), [Diplomacy](skills/diplomacy#_diplomacy), or [Stealth](skill_dir/stealth#_stealth) check, you may roll twice and take the more favorable result. You can use this ability a number of times per day equal to your Wisdom bonus.
+_Blessed Infiltration (Ex)_: At 4th level, when you make a [Bluff](skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), or [Stealth](skills_dir/stealth#_stealth) check, you may roll twice and take the more favorable result. You can use this ability a number of times per day equal to your Wisdom bonus.
 
-_Word of Anathema (Sp)_: At 8th level, once per day, you can speak a word of anathema against a single creature within 60 feet (Will negates). This acts as _ [bestow curse](spells/bestowCurse#_bestow-curse)_ and lasts for 1 minute, giving the target a –4 penalty on attack rolls, saves, ability checks, and skill checks.
+_Word of Anathema (Sp)_: At 8th level, once per day, you can speak a word of anathema against a single creature within 60 feet (Will negates). This acts as _ [bestow curse](spells_dir/bestowCurse#_bestow-curse)_ and lasts for 1 minute, giving the target a –4 penalty on attack rolls, saves, ability checks, and skill checks.
 
 ## Imprisonment Inquisition
 
@@ -66,13 +66,13 @@ _Word of Anathema (Sp)_: At 8th level, once per day, you can speak a word of ana
 
 _Caging Strike (Su)_: With a devastating weapon strike, spectral chains wrap around your target for a short period of time. Whenever you confirm a critical hit with a melee or ranged weapon attack (including spells that require attack rolls), you can choose to also entangle that target for 1d4 rounds (Fortitude negates). You may use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-_Divine Prison_: At 8th level, once per day upon making a successful melee attack, you can affect your target with _ [hold monster](spell_dir/holdMonster#_hold-monster)_ (Will negates).
+_Divine Prison_: At 8th level, once per day upon making a successful melee attack, you can affect your target with _ [hold monster](spells_dir/holdMonster#_hold-monster)_ (Will negates).
 
 ## Illumination Inquisition
 
 **Granted Powers** : Many times an inquisitor's greatest weapon is pure and unflinching illumination; errors are often illuminated by light and wisdom.
 
-_Illuminating Touch (Sp)_: You cause your hand to shimmer with divine radiance, allowing you to touch a creature as a standard action and give it a bonus equal to 1/2 your inquisitor level on a single Will saving throw, [Knowledge](skill_dir/knowledge#_knowledge) check, [Perception](skills/perception#_perception) check, or [Sense Motive](skill_dir/senseMotive#_sense-motive) check. This ability lasts for 1 hour or until the creature chooses to apply the bonus to a roll. You can use this ability to grant the bonus a number of times per day equal to 3 + your Wisdom modifier.
+_Illuminating Touch (Sp)_: You cause your hand to shimmer with divine radiance, allowing you to touch a creature as a standard action and give it a bonus equal to 1_dir/2 your inquisitor level on a single Will saving throw, [Knowledge](skills_dir/knowledge#_knowledge) check, [Perception](skills_dir/perception#_perception) check, or [Sense Motive](skills_dir/senseMotive#_sense-motive) check. This ability lasts for 1 hour or until the creature chooses to apply the bonus to a roll. You can use this ability to grant the bonus a number of times per day equal to 3 + your Wisdom modifier.
 
 _Aura of Enlightenment (Su)_: At 4th level, you can create a 30-foot-radius aura of normal light. Allies in this aura gain a +2 insight bonus on skill checks. This counts as a 2nd-level light effect for the purpose of countering or dispelling darkness effects. You can use this aura for a number of rounds per day equal to your inquisitor level. These rounds do not need to be consecutive.
 
@@ -91,15 +91,15 @@ range. You may dismiss the chains as a standard action.
 
 _Life Anchor (Su)_: You gain a 10-foot-radius aura that helps dying creatures cling to life. Within this aura, a dying creature (including yourself) adds your Wisdom bonus to it stabilization checks (in addition to any other modifiers to stabilization checks).
 
-_Stare of Oblivion (Sp)_: At 8th level, you can use _ [feeblemind](spells/feeblemind#_feeblemind)_ as a gaze attack against one creature (Will negates). This effect lasts 1d4 rounds. You can use this ability once per day at 8th level, and one additional time per day for every four levels beyond 8th.
+_Stare of Oblivion (Sp)_: At 8th level, you can use _ [feeblemind](spells_dir/feeblemind#_feeblemind)_ as a gaze attack against one creature (Will negates). This effect lasts 1d4 rounds. You can use this ability once per day at 8th level, and one additional time per day for every four levels beyond 8th.
 
 ## Order Inquisition
 
 **Granted Powers** : Most inquisitors fight insane aberrations and demonic creatures as well as the chaos of heresy. They use the dictum and the mantles of law in order to aid their struggle.
 
-_Mantle against Chaos (Sp)_: You can use _ [protection from chaos](spell_dir/protectionFromChaos#_protection-from-chaos)_ on yourself or another creature as a spell-like ability. You can use this ability for a number of minutes per day equal to your inquisitor level (minimum 1). This duration does not need to be consecutive, but it must be used in 1 minute increments.
+_Mantle against Chaos (Sp)_: You can use _ [protection from chaos](spells_dir/protectionFromChaos#_protection-from-chaos)_ on yourself or another creature as a spell-like ability. You can use this ability for a number of minutes per day equal to your inquisitor level (minimum 1). This duration does not need to be consecutive, but it must be used in 1 minute increments.
 
-_Commanding Order (Sp)_: At 8th level, you can use _ [greater command](spells/command#_command-greater)_, except it only affects a single target. You can use this ability a number of times per day equal to 3 + your Wisdom bonus.
+_Commanding Order (Sp)_: At 8th level, you can use _ [greater command](spells_dir/command#_command-greater)_, except it only affects a single target. You can use this ability a number of times per day equal to 3 + your Wisdom bonus.
 
 ## Persistence Inquisition
 
@@ -113,7 +113,7 @@ _Inner Strength (Su)_: At 6th level, once per day, you may heal yourself as a sw
 
 **Granted Powers** : It is the cold and tactical mind that often wins the day. A proper, carefully considered sacrifice can inspire one's allies to serve your cause.
 
-_Inquisitor's Direction (Su)_: At the start of your turn, you can choose to enter a tranquil, reflective state and forgo all actions (standard, move, swift, immediate, and free actions, including attacks of opportunity) for that round; one ally of your choice within 30 feet gains the benefit of _ [haste](spell_dir/haste#_haste)_ for 1 round. You can use this ability a number of times per day equal to your 3 + Wisdom bonus (minimum 1).
+_Inquisitor's Direction (Su)_: At the start of your turn, you can choose to enter a tranquil, reflective state and forgo all actions (standard, move, swift, immediate, and free actions, including attacks of opportunity) for that round; one ally of your choice within 30 feet gains the benefit of _ [haste](spells_dir/haste#_haste)_ for 1 round. You can use this ability a number of times per day equal to your 3 + Wisdom bonus (minimum 1).
 
 _Grant the Initiative (Ex)_: At 8th level, you and all allies within 30 feet may add your Wisdom bonus to your initiative checks.
 
@@ -121,9 +121,9 @@ _Grant the Initiative (Ex)_: At 8th level, you and all allies within 30 feet may
 
 **Granted Powers** : Only through pain can truth and justice come to the surface. And if that doesn't work, at least you've enacted divine vengeance.
 
-_Torturer's Presence (Ex)_: You gain a +2 bonus when using the [Intimidate](skills/intimidate#_intimidate) skill. This is in addition to your bonus for Stern Gaze.
+_Torturer's Presence (Ex)_: You gain a +2 bonus when using the [Intimidate](skills_dir/intimidate#_intimidate) skill. This is in addition to your bonus for Stern Gaze.
 
-_Torturer's Touch (Sp)_: You may use _ [touch of fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue)_ as a spell-like ability. Creatures that are immune to pain effects are immune to this touch. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+_Torturer's Touch (Sp)_: You may use _ [touch of fatigue](spells_dir/touchOfFatigue#_touch-of-fatigue)_ as a spell-like ability. Creatures that are immune to pain effects are immune to this touch. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 _Critical Precision (Ex)_: At 8th level, when you roll a critical threat, you may expend one use of your torturer's touch ability to add +4 on your critical confirmation roll. This does not stack with [Critical Focus](feats#_critical-focus).
 
@@ -133,13 +133,13 @@ _Critical Precision (Ex)_: At 8th level, when you roll a critical threat, you ma
 
 _Justice's True Path (Sp)_: As a standard action, you can touch a creature, granting an insight bonus on one attack roll, skill check, ability check, or saving throw before your next turn; this bonus is equal to half your inquisitor level (minimum 1) and lasts for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-_Grasp of Honesty (Su)_: At 8th level, any creature you are grappling or pinning is affected by _ [zone of truth](spells/zoneOfTruth#_zone-of-truth)_ (Will negates). Outside of combat, you may use this ability by touching a target with both hands. You can use this ability a number of rounds per day equal to your inquisitor level. These rounds do not need to be consecutive. The effect ends if you stop grappling, pinning, or touching the target.
+_Grasp of Honesty (Su)_: At 8th level, any creature you are grappling or pinning is affected by _ [zone of truth](spells_dir/zoneOfTruth#_zone-of-truth)_ (Will negates). Outside of combat, you may use this ability by touching a target with both hands. You can use this ability a number of rounds per day equal to your inquisitor level. These rounds do not need to be consecutive. The effect ends if you stop grappling, pinning, or touching the target.
 
 ## Valor Inquisition
 
 **Granted Powers** : It takes courage to confront the enemies of your faith.
 
-_Touch of Resolve (Sp)_: You may use _ [remove fear](spell_dir/removeFear#_remove-fear)_ on a single creature a number of times per day equal to your 3 + your Wisdom bonus.
+_Touch of Resolve (Sp)_: You may use _ [remove fear](spells_dir/removeFear#_remove-fear)_ on a single creature a number of times per day equal to your 3 + your Wisdom bonus.
 
 _Fearless (Su)_: At 8th level, you become immune to fear.
 
@@ -147,9 +147,9 @@ _Fearless (Su)_: At 8th level, you become immune to fear.
 
 **Granted Powers** : Vengeance is justice naked of pretense. On your oath, you will deliver justice so unbounded.
 
-_Divine [Retribution](advanced/spell_dir/retribution#_retribution) (Sp)_: As a standard action, you can point at one creature within 30 feet to indicate that it is the target of divine wrath. A mishap or an accident appropriate to the environment occurs, such as a branch falling on the creature, rocks falling from the ceiling, or some other nonmagical misfortune; regardless of the cause, the mishap deals 1d6 points of damage + 1 point for every two inquisitor levels you possess (Reflex half). The GM decides whether this damage is bludgeoning, piercing, or slashing damage. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+_Divine [Retribution](advanced_dir/spells_dir/retribution#_retribution) (Sp)_: As a standard action, you can point at one creature within 30 feet to indicate that it is the target of divine wrath. A mishap or an accident appropriate to the environment occurs, such as a branch falling on the creature, rocks falling from the ceiling, or some other nonmagical misfortune; regardless of the cause, the mishap deals 1d6 points of damage + 1 point for every two inquisitor levels you possess (Reflex half). The GM decides whether this damage is bludgeoning, piercing, or slashing damage. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
-_Final Vengeance (Su)_: At 8th level, once per day, you can make one melee attack against an opponent within reach in response to an attack that would reduce you to negative hit points. Once your attack is resolved, you suffer the normal effect of the attack that provoked this ability. Effects that kill you or do not reduce you to negative hit points (such as ability damage or drain, negative levels, and _ [disintegrate](spells/disintegrate#_disintegrate)_) do not trigger this ability.
+_Final Vengeance (Su)_: At 8th level, once per day, you can make one melee attack against an opponent within reach in response to an attack that would reduce you to negative hit points. Once your attack is resolved, you suffer the normal effect of the attack that provoked this ability. Effects that kill you or do not reduce you to negative hit points (such as ability damage or drain, negative levels, and _ [disintegrate](spells_dir/disintegrate#_disintegrate)_) do not trigger this ability.
 
 ## Zeal Inquisition
 
@@ -163,11 +163,11 @@ _Scourge of the Enemy (Ex)_: At 8th level, select one religion that is a rival o
 
 Some inquisitors, as they learn more about the threat of possession and the machinations of the planes, task themselves to expel possessing spirits and conniving outsiders from the world whenever possible. Eventually they learn the secret of the verdicts of exorcism, exile, and anathema.
 
-**Verdict of Exorcism (Su)** : At 8th level, an inquisitor using judgment can unleash the verdict of exorcism on a creature. When she does, her judgment ends, but the creature is dazed for 1 round (Will negates); if the creature is possessed, the possessing entity must succeed at a Will saving throw (DC 10 + 1/2 inquisitor level + inquisitor's Wisdom bonus), or be exorcised and never again allowed in that same body. This ability replaces second judgment.
+**Verdict of Exorcism (Su)** : At 8th level, an inquisitor using judgment can unleash the verdict of exorcism on a creature. When she does, her judgment ends, but the creature is dazed for 1 round (Will negates); if the creature is possessed, the possessing entity must succeed at a Will saving throw (DC 10 + 1_dir/2 inquisitor level + inquisitor's Wisdom bonus), or be exorcised and never again allowed in that same body. This ability replaces second judgment.
 
-**Verdict of Exile (Su)** : At 16th level, an inquisitor using judgment can unleash the verdict of exile on a creature. When she does, her judgment ends, but the creature subject to that judgment is dazed for 1 round (Will negates, DC of 10 + 1/2 inquisitor level + Wisdom bonus). If the creature is possessed or an outsider, the possessing entity or the outsider is affected by _ [dismissal](spell_dir/dismissal#_dismissal)_ (Will negates). This ability replaces third judgment.
+**Verdict of Exile (Su)** : At 16th level, an inquisitor using judgment can unleash the verdict of exile on a creature. When she does, her judgment ends, but the creature subject to that judgment is dazed for 1 round (Will negates, DC of 10 + 1_dir/2 inquisitor level + Wisdom bonus). If the creature is possessed or an outsider, the possessing entity or the outsider is affected by _ [dismissal](spells_dir/dismissal#_dismissal)_ (Will negates). This ability replaces third judgment.
 
-**Closed Mind (Su)** : An exorcist inquisitor must close off her mind to deny her enemies even a foothold. At 17th level, the inquisitor becomes immune to compulsion effects and possession attempts (including _ [magic jar](spells/magicJar#_magic-jar)_). This ability replaces slayer.
+**Closed Mind (Su)** : An exorcist inquisitor must close off her mind to deny her enemies even a foothold. At 17th level, the inquisitor becomes immune to compulsion effects and possession attempts (including _ [magic jar](spells_dir/magicJar#_magic-jar)_). This ability replaces slayer.
 
 **Verdict of Anathema (Su)** : At 20th level, an inquisitor using judgment can unleash the verdict of anathema on her enemies. When she does, her judgment ends, and all enemy creatures within 10 feet are affected by her verdict of exorcism. This ability replaces true judgement.
 
@@ -177,9 +177,9 @@ While all inquisitors hunt the enemies of the faith, sometimes, either through p
 
 **Judgment (Su)** : A heretic gains the following judgment in addition to the normal list of inquisitor judgments.
 
-_Escape (Su)_: Each time the inquisitor using this judgment hits an opponent with a melee or ranged attack, she can use a move action attempt to create a diversion to hide (see the [Stealth](skill_dir/stealth#_stealth) skill).
+_Escape (Su)_: Each time the inquisitor using this judgment hits an opponent with a melee or ranged attack, she can use a move action attempt to create a diversion to hide (see the [Stealth](skills_dir/stealth#_stealth) skill).
 
-**Lore of Escape (Ex)** : At 1st level, the heretic uses every trick she knows to escape those now pursuing her. She adds her Wisdom modifier on [Bluff](skills/bluff#_bluff) and [Stealth](skill_dir/stealth#_stealth) skill checks in addition to the normal ability score modifiers. This ability replaces monster lore.
+**Lore of Escape (Ex)** : At 1st level, the heretic uses every trick she knows to escape those now pursuing her. She adds her Wisdom modifier on [Bluff](skills_dir/bluff#_bluff) and [Stealth](skills_dir/stealth#_stealth) skill checks in addition to the normal ability score modifiers. This ability replaces monster lore.
 
 **Hide Tracks (Ex)** : At 1st level, a heretical inquisitor is adept at hiding her tracks. Creatures attempting to track her take a –5 penalty on rolls to find or follow her tracks.
 
@@ -191,13 +191,13 @@ An inquisitor who becomes an ex-inquisitor can, with the GM's permission, take t
 
 This inquisitor uses guile and deception to blend in among the enemies of the faith rather than confronting them head-on.
 
-**Misdirection (Sp)** : At 1st level, each day when the infiltrator prepares spells, she may choose an alignment. She detects as that alignment as if she had used _ [misdirection](spells/misdirection#_misdirection)_ on a creature with that alignment (this does not change any divination results about her other than her alignment). This power replaces stern gaze.
+**Misdirection (Sp)** : At 1st level, each day when the infiltrator prepares spells, she may choose an alignment. She detects as that alignment as if she had used _ [misdirection](spells_dir/misdirection#_misdirection)_ on a creature with that alignment (this does not change any divination results about her other than her alignment). This power replaces stern gaze.
 
-**Guileful Lore (Ex)** : At 1st level, the infiltrator's will is bent toward subterfuge and deception. She adds her Wisdom modifier on [Bluff](skill_dir/bluff#_bluff) and [Diplomacy](skills/diplomacy#_diplomacy) skill checks in addition to the normal ability score modifiers. This ability replaces monster lore.
+**Guileful Lore (Ex)** : At 1st level, the infiltrator's will is bent toward subterfuge and deception. She adds her Wisdom modifier on [Bluff](skills_dir/bluff#_bluff) and [Diplomacy](skills_dir/diplomacy#_diplomacy) skill checks in addition to the normal ability score modifiers. This ability replaces monster lore.
 
 **Forbidden Lore (Ex)** : While other inquisitors learned to track unbelievers, an infiltrator learns how to cast their spells. An infiltrator can cast spells of an alignment opposed to her or her deity (ignoring the restriction in the Chaotic, Evil, Good, and Lawful Spells class ability). This ability replaces track.
 
-**Necessary Lies (Su)** : An infiltrator adds her class level on saving throws against abilities that detect lies or reveal or force the truth, such as _detect lies_ and _ [zone of truth](spell_dir/zoneOfTruth#_zone-of-truth)_. This power replaces discern lies.
+**Necessary Lies (Su)** : An infiltrator adds her class level on saving throws against abilities that detect lies or reveal or force the truth, such as _detect lies_ and _ [zone of truth](spells_dir/zoneOfTruth#_zone-of-truth)_. This power replaces discern lies.
 
 # Preacher (Archetype)
 
@@ -229,7 +229,7 @@ At 8th level, when a sin eater eats the sins of a creature that would rise as an
 
 This ability replaces an inquisitor's domain.
 
-**Speak with Dead (Sp)** : At 6th level, when the inquisitor eats an enemy's sins, within 10 minutes of doing so, she can ask the remnants of the enemy's soul questions as if using _ [speak with dead](spells/speakWithDead#_speak-with-dead)_, with a caster level equal to her inquisitor level. She does not need the enemy's corpse to use this ability (she can eat sin, move away from the corpse, then use _ [speak with dead](spell_dir/speakWithDead#_speak-with-dead)_), though the soul gets a saving throw just as a corpse would. This ability replaces the bonus teamwork feat gained at 6th level.
+**Speak with Dead (Sp)** : At 6th level, when the inquisitor eats an enemy's sins, within 10 minutes of doing so, she can ask the remnants of the enemy's soul questions as if using _ [speak with dead](spells_dir/speakWithDead#_speak-with-dead)_, with a caster level equal to her inquisitor level. She does not need the enemy's corpse to use this ability (she can eat sin, move away from the corpse, then use _ [speak with dead](spells_dir/speakWithDead#_speak-with-dead)_), though the soul gets a saving throw just as a corpse would. This ability replaces the bonus teamwork feat gained at 6th level.
 
-**Burden of Sin (Sp)** : At 14th level, a sin eater may spend a full-round action to transfer one harmful affliction, condition, or spell effect from another creature to herself (this includes curses, possessions, and permanent effects such as petrification, or any condition that _ [break enchantment](spells/breakEnchantment#_break-enchantment)_ can end or reverse). The effect to be transferred is chosen by the sin eater and affects her as if she were the original target, continuing its duration (if any) and preventing any further effect on the original bearer. For example, the inquisitor could transfer a lethal disease to herself, or petrify herself to restore a petrified comrade. The sin eater can use this ability as often as desired, even using it multiple times on the same creature. This ability replaces exploit weakness.
+**Burden of Sin (Sp)** : At 14th level, a sin eater may spend a full-round action to transfer one harmful affliction, condition, or spell effect from another creature to herself (this includes curses, possessions, and permanent effects such as petrification, or any condition that _ [break enchantment](spells_dir/breakEnchantment#_break-enchantment)_ can end or reverse). The effect to be transferred is chosen by the sin eater and affects her as if she were the original target, continuing its duration (if any) and preventing any further effect on the original bearer. For example, the inquisitor could transfer a lethal disease to herself, or petrify herself to restore a petrified comrade. The sin eater can use this ability as often as desired, even using it multiple times on the same creature. This ability replaces exploit weakness.
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/majorImage
+title: spells_dir/majorImage
 ---
  **Major Image**
 
-**School** illusion (figment); **Level** bard 3, sorcerer/wizard 3
+**School** illusion (figment); **Level** bard 3, sorcerer_dir/wizard 3
 
 **Duration** Concentration + 3 rounds
 

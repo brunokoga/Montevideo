@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/miracle
+title: spells_dir/miracle
 ---
  **Miracle**
 

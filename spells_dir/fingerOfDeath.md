@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spell_dir/fingerOfDeath
+title: spells_dir/fingerOfDeath
 ---
  **Finger of Death**
 
-**School** necromancy [death]; **Level** druid 8, sorcerer/wizard 7
+**School** necromancy [death]; **Level** druid 8, sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 

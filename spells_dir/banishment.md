@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spell_dir/banishment
+title: spells_dir/banishment
 ---
  **Banishment**
 
-**School** abjuration; **Level** cleric 6, sorcerer/wizard 7
+**School** abjuration; **Level** cleric 6, sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
 **Components** V, S, F (see text)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Targets** one or more extraplanar creatures, no two of which can be more than 30 ft. apart
 

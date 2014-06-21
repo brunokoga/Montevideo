@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/catSGrace
+title: spells_dir/catSGrace
 ---
  **Cat's Grace**
 
-**School** transmutation; **Level** bard 2, druid 2, ranger 2, sorcerer/wizard 2
+**School** transmutation; **Level** bard 2, druid 2, ranger 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spell_dir/catSGrace
 
 **Target** creature touched
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes
 
@@ -22,11 +22,11 @@ The transmuted creature becomes more graceful, agile, and coordinated. The spell
 
 **Cat's Grace, Mass**
 
-**School** transmutation; **Level** bard 6, druid 6, sorcere_dir/wizard 6
+**School** transmutation; **Level** bard 6, druid 6, sorcerer_dir/wizard 6
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Targets** one creatur_dir/level, no two of which can be more than 30 ft. apart
+**Targets** one creature_dir/level, no two of which can be more than 30 ft. apart
 
 This spell functions like _cat's grace_, except that it affects multiple creatures.
 

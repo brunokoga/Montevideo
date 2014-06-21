@@ -1,12 +1,12 @@
 ---
 layout: default
-title: monster_dir/merfolk
+title: monsters_dir/merfolk
 ---
 # Merfolk
 
 _Slipping in and out of the crashing waves, this beautiful woman has the lower torso of a long, slender fish._
 
-**Merfolk CR 1/3**
+**Merfolk CR 1_dir/3**
 
 **XP 135**
 
@@ -14,7 +14,7 @@ Merfolk warrior 1
 
 N Medium [humanoid](creatureTypes#_humanoid) ( [aquatic](creatureTypes#_aquatic-subtype))
 
-**Init** +1; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +3
+**Init** +1; **Senses** low-light vision; [Perception](../skills_dir/perception#_perception) +3
 
 **Defense**
 
@@ -30,7 +30,7 @@ N Medium [humanoid](creatureTypes#_humanoid) ( [aquatic](creatureTypes#_aquatic-
 
 **Melee** trident +2 (1d8+1)
 
-**Ranged** heavy crossbow +2 (1d10/19–20)
+**Ranged** heavy crossbow +2 (1d10_dir/19–20)
 
 **Statistics**
 
@@ -38,9 +38,9 @@ N Medium [humanoid](creatureTypes#_humanoid) ( [aquatic](creatureTypes#_aquatic-
 
 **Base**  **Atk** +1; **CMB** +2; **CMD** 13 (can't be tripped)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
 
-**Skills** [Perception](../skill_dir/perception#_perception) +3, [Swim](../skill_dir/swim#_swim) +13
+**Skills** [Perception](../skills_dir/perception#_perception) +3, [Swim](../skills_dir/swim#_swim) +13
 
 **Languages** Aquan, Common
 

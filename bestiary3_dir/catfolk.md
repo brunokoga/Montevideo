@@ -1,12 +1,12 @@
 ---
 layout: default
-title: bestiary3/catfolk
+title: bestiary3_dir/catfolk
 ---
 # Catfolk
 
 This lithe, catlike humanoid has a long tail and pointed ears. Her feline eyes sparkle with curiosity and mischief.
 
-Catfolk CR 1/2
+Catfolk CR 1_dir/2
 
 XP 200
 
@@ -14,7 +14,7 @@ Catfolk ranger 1
 
 NG Medium humanoid (catfolk)
 
-**Init** +3; **Senses** low-light vision; [Perception](skill_dir/perception#_perception) +2
+**Init** +3; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +2
 
 Defense
 
@@ -28,9 +28,9 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** longsword +3 (1d8+2/19–20)
+**Melee** longsword +3 (1d8+2_dir/19–20)
 
-**Ranged** longbow +5 (1d8/×3)
+**Ranged** longbow +5 (1d8_dir/×3)
 
 **Special Attacks** favored enemy (magical beasts +2)
 
@@ -42,7 +42,7 @@ Statistics
 
 **Feats** [Weapon Focus](feats#_weapon-focus) (longbow)
 
-**Skills** [Climb](skill_dir/climb#_climb) +5, [Handle Animal](skills/handleAnimal#_handle-animal) +5, [Knowledge](skill_dir/knowledge#_knowledge) (nature) +3, [Perception](skills/perception#_perception) +2, [Stealth](skill_dir/stealth#_stealth) +8, [Survival](skills/survival#_survival) +6; **Racial Modifiers** +2 [Perception](skill_dir/perception#_perception), +2 [Stealth](skills/stealth#_stealth), +2 [Survival](skill_dir/survival#_survival)
+**Skills** [Climb](skills_dir/climb#_climb) +5, [Handle Animal](skills_dir/handleAnimal#_handle-animal) +5, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +3, [Perception](skills_dir/perception#_perception) +2, [Stealth](skills_dir/stealth#_stealth) +8, [Survival](skills_dir/survival#_survival) +6; **Racial Modifiers** +2 [Perception](skills_dir/perception#_perception), +2 [Stealth](skills_dir/stealth#_stealth), +2 [Survival](skills_dir/survival#_survival)
 
 **Languages** Catfolk, Common
 
@@ -78,7 +78,7 @@ Catfolk have no racial Hit Dice, gaining their capabilities from class levels. A
 
 **Sprinter** : See above.
 
-**Natural Hunter** : Catfolk receive a +2 racial bonus on [Perception](skills/perception#_perception), [Stealth](skill_dir/stealth#_stealth), and [Survival](skills/survival#_survival) checks.
+**Natural Hunter** : Catfolk receive a +2 racial bonus on [Perception](skills_dir/perception#_perception), [Stealth](skills_dir/stealth#_stealth), and [Survival](skills_dir/survival#_survival) checks.
 
 **Languages** : Catfolk speak Catfolk and Common. A catfolk who has a high Intelligence score can choose from the following bonus languages: Elven, Gnoll, Gnome, Goblin, Halfling, Orc, and Sylvan.
 

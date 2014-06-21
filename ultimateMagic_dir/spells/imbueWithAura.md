@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/imbueWithAura
+title: ultimateMagic_dir/spells_dir/imbueWithAura
 ---
 Imbue with Aura
 
@@ -10,13 +10,13 @@ Imbue with Aura
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (see text); **Spell Resistance** yes
 
-You infuse another creature with your divine aura, causing the target to radiate an aura identical to your own clerical aura. The target's actual alignment is not changed, but spells like _ [detect evil](spells/detectEvil#_detect-evil)_ or _ [detect good](spell_dir/detectGood#_detect-good)_ detect only the aura, not the creature's actual alignment. For the duration of this spell, effects influenced by the target's alignment function according to the imposed aura, not the creature's actual aura. When the spell ends, the target's aura returns to normal, and alignment-affecting magic affects it according to its actual alignment.
+You infuse another creature with your divine aura, causing the target to radiate an aura identical to your own clerical aura. The target's actual alignment is not changed, but spells like _ [detect evil](spells_dir/detectEvil#_detect-evil)_ or _ [detect good](spells_dir/detectGood#_detect-good)_ detect only the aura, not the creature's actual alignment. For the duration of this spell, effects influenced by the target's alignment function according to the imposed aura, not the creature's actual aura. When the spell ends, the target's aura returns to normal, and alignment-affecting magic affects it according to its actual alignment.
 

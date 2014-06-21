@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/whirlwind
+title: mythicAdventures_dir/mythicSpells_dir/whirlwind
 ---
 Whirlwind
 
-**Source** [_whirlwind_](spell_dir/whirlwind#_whirlwind)
+**Source** [_whirlwind_](spells_dir/whirlwind#_whirlwind)
 
 The cyclone becomes 15 feet wide at the base, 40 feet wide at the top, and 40 feet tall. The cyclone's effect on Large or smaller creatures also applies to Huge creatures, and its damage increases to 3d8 points of damage. The effect on Medium or smaller creatures also applies to Large creatures, and the damage it deals each turn increases to 2d6 points of damage.
 

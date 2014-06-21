@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/kelpie
+title: additionalMonsters_dir/kelpie
 ---
 # Kelpie
 
@@ -10,9 +10,9 @@ This hideous humanoid creature has slimy, transparent skin; webbed, humanoid han
 
 **XP 1,200**
 
-NE Medium [fey](monsters/creatureTypes#_fey) ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype), [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
+NE Medium [fey](monsters_dir/creatureTypes#_fey) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype), [shapechanger](monsters_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +7; **Senses** low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +13
+**Init** +7; **Senses** low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13
 
 Defense
 
@@ -22,13 +22,13 @@ Defense
 
 **Fort** +4, **Ref** +8, **Will** +6
 
-**Resist** [fire](monsters/creatureTypes#_fire-subtype) 10
+**Resist** [fire](monsters_dir/creatureTypes#_fire-subtype) 10
 
 Offense
 
 **Speed** 40 ft., swim 40 ft.
 
-**Melee** 2 slams +6 (1d6+2 plus [grab](monster_dir/universalMonsterRules#_grab))
+**Melee** 2 slams +6 (1d6+2 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Special Attacks** captivating lure
 
@@ -38,13 +38,13 @@ Statistics
 
 **Base Atk** +3; **CMB** +5 (+9 grapple); **CMD** 18
 
-**Feats** [Alertness](additionalMonsters/../feats#_alertness), [Deceitful](additionalMonster_dir/../feats#_deceitful), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
+**Feats** [Alertness](additionalMonsters_dir/../feats#_alertness), [Deceitful](additionalMonsters_dir/../feats#_deceitful), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Bluff](additionalMonster_dir/../skill_dir/bluff#_bluff) +15, [Disguise](additionalMonsters/../skill_dir/disguise#_disguise) +15, [Perception](additionalMonsters/../skill_dir/perception#_perception) +13, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +13, [Swim](additionalMonsters/../skill_dir/swim#_swim) +10
+**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +15, [Disguise](additionalMonsters_dir/../skills_dir/disguise#_disguise) +15, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +13, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +13, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +13, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +10
 
 **Languages** Aquan, Common, Sylvan; telepathy (1 mile, previously touched creatures only)
 
-**SQ** amphibious, [change shape](monsters/universalMonsterRules#_change-shape) (hippocampus or horse, _ [beast shape IV](additionalMonster_dir/../spell_dir/beastShape#_beast-shape-iv)_; Small or Medium [humanoid](monsters/creatureTypes#_humanoid), _ [alter self](additionalMonster_dir/../spell_dir/alterSelf#_alter-self)_)
+**SQ** amphibious, [change shape](monsters_dir/universalMonsterRules#_change-shape) (hippocampus or horse, _ [beast shape IV](additionalMonsters_dir/../spells_dir/beastShape#_beast-shape-iv)_; Small or Medium [humanoid](monsters_dir/creatureTypes#_humanoid), _ [alter self](additionalMonsters_dir/../spells_dir/alterSelf#_alter-self)_)
 
 Ecology
 
@@ -56,7 +56,7 @@ Ecology
 
 Special Abilities
 
-**Captivating Lure (Su)** Once per day, a kelpie can use a powerful mental attack to lure in a single creature within 60 feet. The target must make a DC 16 Will saving throw or become captivated by the kelpie, thinking it is a desirable woman in mortal danger or (if in hippocampus or horse form) a valuable steed. A victim under the effects of the captivating lure moves toward the kelpie using the most direct means available. If the path leads it into a dangerous area such as through [fire](monsters/creatureTypes#_fire-subtype) or off a cliff, that creature receives a second saving throw to end the effect before moving into peril; the victim does not consider water a dangerous area, and will enter the water even if it cannot swim or breathe. A captivated creature can take no actions other than to move toward the kelpie and defend itself, even if it is drowning. A victim within 5 feet of the kelpie simply stands and offers no [resistance](monster_dir/universalMonsterRules#_resistance) to its attacks. This effect continues as long as the kelpie is alive and the victim is within 1 mile of the kelpie. This is a mind-affecting charm effect. The save DC is Charisma-based.
+**Captivating Lure (Su)** Once per day, a kelpie can use a powerful mental attack to lure in a single creature within 60 feet. The target must make a DC 16 Will saving throw or become captivated by the kelpie, thinking it is a desirable woman in mortal danger or (if in hippocampus or horse form) a valuable steed. A victim under the effects of the captivating lure moves toward the kelpie using the most direct means available. If the path leads it into a dangerous area such as through [fire](monsters_dir/creatureTypes#_fire-subtype) or off a cliff, that creature receives a second saving throw to end the effect before moving into peril; the victim does not consider water a dangerous area, and will enter the water even if it cannot swim or breathe. A captivated creature can take no actions other than to move toward the kelpie and defend itself, even if it is drowning. A victim within 5 feet of the kelpie simply stands and offers no [resistance](monsters_dir/universalMonsterRules#_resistance) to its attacks. This effect continues as long as the kelpie is alive and the victim is within 1 mile of the kelpie. This is a mind-affecting charm effect. The save DC is Charisma-based.
 
 A kelpie is a deadly shapechanging predator that, in its natural form, appears as a hideous combination of emaciated horse and sickly humanoid, with slimy, transparent skin and long, stringy hair. Its face is long and equine, with a mouth filled with jagged teeth. Few, however, ever see a kelpie in its true form, for kelpies almost always encounter other creatures while in disguise as a humanoid, horse, or hippocampus, reverting to their true form only after their targets have drowned so that they can feast on their victims, leaving behind only the heart and liver (as both of these organs are distasteful to most kelpies).
 

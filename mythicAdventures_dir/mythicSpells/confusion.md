@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/confusion
+title: mythicAdventures_dir/mythicSpells_dir/confusion
 ---
 Confusion
 
-**Source** [_confusion_](spell_dir/confusion#_confusion)
+**Source** [_confusion_](spells_dir/confusion#_confusion)
 
 Roll on the table below instead of the non-mythic version at the start of each subject's turn to see what it does in that round.
 

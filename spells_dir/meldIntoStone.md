@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/meldIntoStone
+title: spells_dir/meldIntoStone
 ---
  **Meld into Stone**
 
@@ -14,7 +14,7 @@ title: spell_dir/meldIntoStone
 
 **Target** you
 
-**Duration** 10 min./level
+**Duration** 10 min._dir/level
 
 _Meld into stone _enables you to meld your body and possessions into a single block of stone. The stone must be large enough to accommodate your body in all three dimensions. When the casting is complete, you and not more than 100 pounds of nonliving gear merge with the stone. If either condition is violated, the spell fails and is wasted.
 

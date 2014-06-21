@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/maskDweomer
+title: advanced_dir/spells_dir/maskDweomer
 ---
  **Mask Dweomer**
 
@@ -14,9 +14,9 @@ title: advance_dir/spells/maskDweomer
 
 **Target** creature or object touched
 
-**Duration** 1 da_dir/level (D)
+**Duration** 1 day_dir/level (D)
 
 **Saving Throw** none; see text; **Spell Resistance** no
 
-You mask and manipulate a spell's magic aura to make it harder to detect. Select one spell effect on the target creature or object. You must have either cast this spell yourself or have perceived it by means such as _ [detect magic](../../spell_dir/detectMagic#_detect-magic)_ or _ [arcane sight](../../spell_dir/arcaneSight#_arcane-sight)_. Both the desired spell effect and _mask dweomer_ are hidden from _ [detect magic](../../spell_dir/detectMagic#_detect-magic)_, although more powerful spells (such as _ [arcane sight](../../spell_dir/arcaneSight#_arcane-sight)_) pierce the deception if the caster succeeds on a Will save. _ [Analyze dweomer](../../spell_dir/analyzeDweomer#_analyze-dweomer)_ automatically detects both _mask dweomer_ and any masked spell effects.
+You mask and manipulate a spell's magic aura to make it harder to detect. Select one spell effect on the target creature or object. You must have either cast this spell yourself or have perceived it by means such as _ [detect magic](../../spells_dir/detectMagic#_detect-magic)_ or _ [arcane sight](../../spells_dir/arcaneSight#_arcane-sight)_. Both the desired spell effect and _mask dweomer_ are hidden from _ [detect magic](../../spells_dir/detectMagic#_detect-magic)_, although more powerful spells (such as _ [arcane sight](../../spells_dir/arcaneSight#_arcane-sight)_) pierce the deception if the caster succeeds on a Will save. _ [Analyze dweomer](../../spells_dir/analyzeDweomer#_analyze-dweomer)_ automatically detects both _mask dweomer_ and any masked spell effects.
 

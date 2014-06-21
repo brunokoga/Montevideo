@@ -1,12 +1,12 @@
 ---
 layout: default
-title: spell_dir/undeathToDeath
+title: spells_dir/undeathToDeath
 ---
  **Undeath to Death**
 
-**School** necromancy; **Level** cleric 6, sorcerer/wizard 6
+**School** necromancy; **Level** cleric 6, sorcerer_dir/wizard 6
 
-**Components** : V, S, M/DF (diamond powder worth 500 gp)
+**Components** : V, S, M_dir/DF (diamond powder worth 500 gp)
 
 **Area** several undead creatures within a 40-ft.-radius burst
 

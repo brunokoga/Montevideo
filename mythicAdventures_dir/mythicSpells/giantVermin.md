@@ -1,12 +1,12 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/giantVermin
+title: mythicAdventures_dir/mythicSpells_dir/giantVermin
 ---
 Giant Vermin
 
-**Source** [_giant vermin_](spell_dir/giantVermin#_giant-vermin)
+**Source** [_giant vermin_](spells_dir/giantVermin#_giant-vermin)
 
-The vermin you transform with this spell gain DR 5/magic and either the advanced creature template or the [giant](monster_dir/creatureTypes#_giant-subtype) creature template.
+The vermin you transform with this spell gain DR 5_dir/magic and either the advanced creature template or the [giant](monsters_dir/creatureTypes#_giant-subtype) creature template.
 
 **Augmented (6th)** : If you expend two uses of mythic power, any vermin you transform also gains either the agile or savage mythic template while the spell lasts.
 

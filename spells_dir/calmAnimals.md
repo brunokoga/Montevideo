@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/calmAnimals
+title: spells_dir/calmAnimals
 ---
  **Calm Animals**
 
@@ -10,11 +10,11 @@ title: spell_dir/calmAnimals
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Targets** animals within 30 ft. of each other
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

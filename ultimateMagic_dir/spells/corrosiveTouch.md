@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/corrosiveTouch
+title: ultimateMagic_dir/spells_dir/corrosiveTouch
 ---
 Corrosive Touch
 
-**School** conjuration (creation) [acid]; **Level** magus 1, sorcere_dir/wizard 1, summoner 1
+**School** conjuration (creation) [acid]; **Level** magus 1, sorcerer_dir/wizard 1, summoner 1
 
 **Casting Time** 1 standard action
 

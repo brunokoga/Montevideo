@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/contagion
+title: spells_dir/contagion
 ---
  **Contagion**
 
-**School** necromancy [evil]; **Level** cleric 3, druid 3, sorcerer/wizard 4
+**School** necromancy [evil]; **Level** cleric 3, druid 3, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 

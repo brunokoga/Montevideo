@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advance_dir/spells/alterWinds
+title: advanced_dir/spells_dir/alterWinds
 ---
  **Alter Winds**
 
-**School** transmutation [air]; **Level** druid 1, sorcere_dir/wizard 1
+**School** transmutation [air]; **Level** druid 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 minute
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/alterWinds
 
 **Area** immobile 10-ft.-radius emanation
 
-**Duration** 1 hour/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

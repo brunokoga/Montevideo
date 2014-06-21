@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/stormOfVengeance
+title: mythicAdventures_dir/mythicSpells_dir/stormOfVengeance
 ---
 Storm of Vengeance
 
-**Source** [_storm of vengeance_](spell_dir/stormOfVengeance#_storm-of-vengeance)
+**Source** [_storm of vengeance_](spells_dir/stormOfVengeance#_storm-of-vengeance)
 
 The acid damage dealt increases to 1d8 points of acid damage. The lightning damage dealt increases to 10d8 points of electricity damage. You can call down a bolt of lightning on the 2nd and 4th rounds (equivalent to those on the 3rd round). You can strike the same target with a bolt more than once during the casting of the spell, but not more than once per round.
 

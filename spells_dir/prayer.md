@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/prayer
+title: spells_dir/prayer
 ---
  **Prayer**
 
@@ -14,7 +14,7 @@ title: spell_dir/prayer
 
 **Area** all allies and foes within a 40-ft.-radius burst centered on you
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

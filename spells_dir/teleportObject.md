@@ -1,14 +1,14 @@
 ---
 layout: default
-title: spell_dir/teleportObject
+title: spells_dir/teleportObject
 ---
  **Teleport Object**
 
-**School** conjuration (teleportation); **Level** sorcerer/wizard 7
+**School** conjuration (teleportation); **Level** sorcerer_dir/wizard 7
 
 **Range** touch
 
-**Target** one touched object of up to 50 lbs./level and 3 cu. ft./level
+**Target** one touched object of up to 50 lbs._dir/level and 3 cu. ft._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
 

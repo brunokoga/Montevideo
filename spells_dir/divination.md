@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/divination
+title: spells_dir/divination
 ---
  **Divination**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateCampaig_dir/characterBackground
+title: ultimateCampaign_dir/characterBackground
 ---
 # Character Background
 
@@ -63,5 +63,5 @@ The rest of this section dives deep into your background, starting from birth an
 
 Above all, don't let creating a background become a burden for you. The goal is to help you play a character, not to paralyze you with decisions you don't want to make right now.
 
-[Early Life](ultimateCampaign/characterBackgroun_dir/earlyLife) [Adolescence](ultimateCampaign/characterBackgroun_dir/adolescence) [Adulthood](ultimateCampaign/characterBackgroun_dir/adulthood) [Background Generator](ultimateCampaign/characterBackgroun_dir/backgroundGenerator) [Traits](ultimateCampaign/characterBackgroun_dir/traits) [Story Feats](ultimateCampaign/characterBackgroun_dir/storyFeats)
+[Early Life](ultimateCampaign_dir/characterBackground_dir/earlyLife) [Adolescence](ultimateCampaign_dir/characterBackground_dir/adolescence) [Adulthood](ultimateCampaign_dir/characterBackground_dir/adulthood) [Background Generator](ultimateCampaign_dir/characterBackground_dir/backgroundGenerator) [Traits](ultimateCampaign_dir/characterBackground_dir/traits) [Story Feats](ultimateCampaign_dir/characterBackground_dir/storyFeats)
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/dimensionalAnchor
+title: spells_dir/dimensionalAnchor
 ---
  **Dimensional Anchor**
 
-**School** abjuration; **Level** cleric 4, sorcerer/wizard 4
+**School** abjuration; **Level** cleric 4, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Effect** ray
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
 

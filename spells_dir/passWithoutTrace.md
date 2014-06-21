@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/passWithoutTrace
+title: spells_dir/passWithoutTrace
 ---
  **Pass without Trace**
 
@@ -12,9 +12,9 @@ title: spell_dir/passWithoutTrace
 
 **Range** touch
 
-**Targets** one creature/level touched
+**Targets** one creature_dir/level touched
 
-**Duration** 1 hou_dir/level (D)
+**Duration** 1 hour_dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/phoenix
+title: monsters_dir/phoenix
 ---
 # Phoenix
 
@@ -12,7 +12,7 @@ _This immense bird seems to be made of living flame. It spreads its wings and gi
 
 NG Gargantuan [magical beast](creatureTypes#_magical-beast) (fire)
 
-**Init** +11; **Senses** darkvision 60 ft., _ [detect magic](../spell_dir/detectMagic#_detect-magic)_, _ [detect poison](../spell_dir/detectPoison#_detect-poison)_, low-light vision, _ [see invisibility](../spell_dir/seeInvisibility#_see-invisibility)_; [Perception](../skill_dir/perception#_perception) +37
+**Init** +11; **Senses** darkvision 60 ft., _ [detect magic](../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](../spells_dir/detectPoison#_detect-poison)_, low-light vision, _ [see invisibility](../spells_dir/seeInvisibility#_see-invisibility)_; [Perception](../skills_dir/perception#_perception) +37
 
 **Aura** shroud of flame (20 ft., 4d6 fire, DC 25)
 
@@ -24,7 +24,7 @@ NG Gargantuan [magical beast](creatureTypes#_magical-beast) (fire)
 
 **Fort** +17, **Ref** +19, **Will** +14
 
-**Defensive Abilities** self-resurrection; **DR** 15/evil; **Immune** fire **SR** 26
+**Defensive Abilities** self-resurrection; **DR** 15_dir/evil; **Immune** fire **SR** 26
 
 **Weaknesses** vulnerable to cold
 
@@ -32,17 +32,17 @@ NG Gargantuan [magical beast](creatureTypes#_magical-beast) (fire)
 
 **Speed** 30 ft., fly 90 ft. (good)
 
-**Melee** 2 talons +24 (2d6+8/19–20 plus 1d6 fire) and bite +24 (2d8+8 plus 1d6 fire)
+**Melee** 2 talons +24 (2d6+8_dir/19–20 plus 1d6 fire) and bite +24 (2d8+8 plus 1d6 fire)
 
 **Space** 20 ft.; **Reach** 20 ft.
 
 **Spell-Like Abilities** (CL 18th)
 
-Constant—_ [detect magic](../spell_dir/detectMagic#_detect-magic)_, _ [detect poison](../spell_dir/detectPoison#_detect-poison), [see invisibility](../spell_dir/seeInvisibility#_see-invisibility)_
+Constant—_ [detect magic](../spells_dir/detectMagic#_detect-magic)_, _ [detect poison](../spells_dir/detectPoison#_detect-poison), [see invisibility](../spells_dir/seeInvisibility#_see-invisibility)_
 
-At will—_ [continual flame](../spell_dir/continualFlame#_continual-flame)_, _ [cure critical wounds](../spell_dir/cureCriticalWounds#_cure-critical-wounds)_, _ [greater dispel magic](../spell_dir/dispelMagic#_dispel-magic-greater)_, _ [remove curse](../spell_dir/removeCurse#_remove-curse)_, _ [wall of fire](../spell_dir/wallOfFire#_wall-of-fire)_
+At will—_ [continual flame](../spells_dir/continualFlame#_continual-flame)_, _ [cure critical wounds](../spells_dir/cureCriticalWounds#_cure-critical-wounds)_, _ [greater dispel magic](../spells_dir/dispelMagic#_dispel-magic-greater)_, _ [remove curse](../spells_dir/removeCurse#_remove-curse)_, _ [wall of fire](../spells_dir/wallOfFire#_wall-of-fire)_
 
-3/day—_ [fire storm](../spell_dir/fireStorm#_fire-storm)_ (DC 24), _ [greater restoration](../spell_dir/restoration#_restoration-greater)_, _ [heal](../spell_dir/heal#_heal)_, _ [mass cure critical wounds](../spell_dir/cureCriticalWounds#_cure-critical-wounds-mass)_, quickened _ [wall of fire](../spell_dir/wallOfFire#_wall-of-fire)_
+3_dir/day—_ [fire storm](../spells_dir/fireStorm#_fire-storm)_ (DC 24), _ [greater restoration](../spells_dir/restoration#_restoration-greater)_, _ [heal](../spells_dir/heal#_heal)_, _ [mass cure critical wounds](../spells_dir/cureCriticalWounds#_cure-critical-wounds-mass)_, quickened _ [wall of fire](../spells_dir/wallOfFire#_wall-of-fire)_
 
 **Statistics**
 
@@ -50,9 +50,9 @@ At will—_ [continual flame](../spell_dir/continualFlame#_continual-flame)_, _ 
 
 **Base Atk** +20; **CMB** +32; **CMD** 50
 
-**Feats** [Blinding Critical](../feats#_blinding-critical), [Combat Reflexes](../feats#_combat-reflexes), [Critical Focus](../feats#_critical-focus), [Dodge](../feats#_dodge), [Flyby Attack](monsterFeats#_flyby-attack), [Improved Critical](../feats#_improved-critical) (talon), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [wall of fire](../spell_dir/wallOfFire#_wall-of-fire)_)
+**Feats** [Blinding Critical](../feats#_blinding-critical), [Combat Reflexes](../feats#_combat-reflexes), [Critical Focus](../feats#_critical-focus), [Dodge](../feats#_dodge), [Flyby Attack](monsterFeats#_flyby-attack), [Improved Critical](../feats#_improved-critical) (talon), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Mobility](../feats#_mobility), [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability) (_ [wall of fire](../spells_dir/wallOfFire#_wall-of-fire)_)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +30, [Diplomacy](../skill_dir/diplomacy#_diplomacy) +26, [Fly](../skill_dir/fly#_fly) +28, [Intimidate](../skill_dir/intimidate#_intimidate) +26, [Knowledge](../skill_dir/knowledge#_knowledge) (nature plus any one other) +26, [Perception](../skill_dir/perception#_perception) +37, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +26; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +30, [Diplomacy](../skills_dir/diplomacy#_diplomacy) +26, [Fly](../skills_dir/fly#_fly) +28, [Intimidate](../skills_dir/intimidate#_intimidate) +26, [Knowledge](../skills_dir/knowledge#_knowledge) (nature plus any one other) +26, [Perception](../skills_dir/perception#_perception) +37, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +26; **Racial Modifiers** +8 [Perception](../skills_dir/perception#_perception)
 
 **Languages** Auran, Celestial, Common, Ignan
 
@@ -66,7 +66,7 @@ At will—_ [continual flame](../spell_dir/continualFlame#_continual-flame)_, _ 
 
 **Special Abilities**
 
-**Self-Resurrection (Su)** A slain phoenix remains dead for only 1d4 rounds unless its body is completely destroyed by an effect such as _ [disintegrate](../spell_dir/disintegrate#_disintegrate)_. Otherwise, a fully healed phoenix emerges from the remains 1d4 rounds after death, as if brought back to life via _ [resurrection](../spell_dir/resurrection#_resurrection)_. The phoenix gains 1 permanent negative level when this occurs, although most use _ [greater restoration](../spell_dir/restoration#_restoration-greater)_ to remove this negative level as soon as possible. A phoenix can self-resurrect only once per year. If a phoenix dies a second time before that year passes, its death is permanent. A phoenix that dies within the area of a _ [desecrate](../spell_dir/desecrate#_desecrate)_ spell cannot self-resurrect until the _ [desecrate](../spell_dir/desecrate#_desecrate)_ effect ends, at which point the phoenix immediately resurrects. A phoenix brought back to life by other means never gains negative levels as a result.
+**Self-Resurrection (Su)** A slain phoenix remains dead for only 1d4 rounds unless its body is completely destroyed by an effect such as _ [disintegrate](../spells_dir/disintegrate#_disintegrate)_. Otherwise, a fully healed phoenix emerges from the remains 1d4 rounds after death, as if brought back to life via _ [resurrection](../spells_dir/resurrection#_resurrection)_. The phoenix gains 1 permanent negative level when this occurs, although most use _ [greater restoration](../spells_dir/restoration#_restoration-greater)_ to remove this negative level as soon as possible. A phoenix can self-resurrect only once per year. If a phoenix dies a second time before that year passes, its death is permanent. A phoenix that dies within the area of a _ [desecrate](../spells_dir/desecrate#_desecrate)_ spell cannot self-resurrect until the _ [desecrate](../spells_dir/desecrate#_desecrate)_ effect ends, at which point the phoenix immediately resurrects. A phoenix brought back to life by other means never gains negative levels as a result.
 
 **Shroud of Flame (Su)** A phoenix can cause its feathers to burst into fire as a free action. As long as its feathers are burning, it inflicts an additional 1d6 points of fire damage with each natural attack, and any creature within reach (20 feet for most phoenixes) must make a DC 25 Reflex save each round to avoid taking 4d6 points of fire damage at the start of its turn. A creature that attacks the phoenix with natural or non-reach melee weapons takes 1d6 points of fire damage (no save) with each successful hit. The save DC is Constitution-based.
 

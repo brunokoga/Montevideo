@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/borrowFortune
+title: advanced_dir/spells_dir/borrowFortune
 ---
  **Borrow Fortune**
 

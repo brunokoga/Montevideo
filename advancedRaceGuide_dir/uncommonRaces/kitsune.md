@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advancedRaceGuid_dir/uncommonRaces/kitsune
+title: advancedRaceGuide_dir/uncommonRaces_dir/kitsune
 ---
 # Kitsune
 
@@ -20,11 +20,11 @@ Quick-witted and nimble, kitsune make excellent bards and rogues. It is not unco
 
 **Low-Light Vision (Ex)** : Kitsune can see twice as far as humans in conditions of dim light.
 
-**Change Shape (Su)** : A kitsune can assume the appearance of a specific single human form of the same sex. The kitsune always takes this specific form when she uses this ability. A kitsune in human form cannot use her bite attack, but gains a +10 racial bonus on [Disguise](skill_dir/disguise#_disguise) checks made to appear human. Changing shape is a standard action. This ability otherwise functions as _ [alter self](spells/alterSelf#_alter-self)_, except that the kitsune does not adjust her ability scores.
+**Change Shape (Su)** : A kitsune can assume the appearance of a specific single human form of the same sex. The kitsune always takes this specific form when she uses this ability. A kitsune in human form cannot use her bite attack, but gains a +10 racial bonus on [Disguise](skills_dir/disguise#_disguise) checks made to appear human. Changing shape is a standard action. This ability otherwise functions as _ [alter self](spells_dir/alterSelf#_alter-self)_, except that the kitsune does not adjust her ability scores.
 
-**Agile (Ex)** : Kitsune receive a +2 racial bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics) checks.
+**Agile (Ex)** : Kitsune receive a +2 racial bonus on [Acrobatics](skills_dir/acrobatics#_acrobatics) checks.
 
-**Kitsune Magic (Ex/Sp)** : Kitsune add +1 to the DC of any saving throws against enchantment spells that they cast. Kitsune with a Charisma score of 11 or higher gain the following spell-like ability: 3/day—_ [dancing lights](spell_dir/dancingLights#_dancing-lights)_.
+**Kitsune Magic (Ex_dir/Sp)** : Kitsune add +1 to the DC of any saving throws against enchantment spells that they cast. Kitsune with a Charisma score of 11 or higher gain the following spell-like ability: 3_dir/day—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_.
 
 **Natural Weapons (Ex)** : In her natural form, a kitsune has a bite attack that deals 1d4 points of damage.
 
@@ -36,21 +36,21 @@ The following racial traits may be selected instead of existing kitsune racial t
 
 **Fast Shifter (Su)** : You were born with an innate talent for switching between your natural forms. Using your racial change shape ability is a move action instead of a standard action. This racial trait replaces kitsune magic.
 
-**Gregarious (Ex)** : Even among your own kind, your gift for making friends stands out. Whenever you successfully use [Diplomacy](skills/diplomacy#_diplomacy) to win over an individual, that creature takes a –2 penalty to resist any of your Charisma-based skill checks for the next 24 hours. This racial trait replaces agile.
+**Gregarious (Ex)** : Even among your own kind, your gift for making friends stands out. Whenever you successfully use [Diplomacy](skills_dir/diplomacy#_diplomacy) to win over an individual, that creature takes a –2 penalty to resist any of your Charisma-based skill checks for the next 24 hours. This racial trait replaces agile.
 
 # Favored Class Options
 
 The following options are available to all kitsune who have the listed favored class, and unless otherwise stated, the bonus applies each time you select the favored class reward.
 
-**Bard** : Add a +1/2 bonus on [Bluff](skill_dir/bluff#_bluff) checks to lie and a +1/2 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy) checks to gather information.
+**Bard** : Add a +1_dir/2 bonus on [Bluff](skills_dir/bluff#_bluff) checks to lie and a +1_dir/2 bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) checks to gather information.
 
-**Druid** : Add a +1/2 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy) and [Intimidate](skills/intimidate#_intimidate) checks to change a creature's attitude.
+**Druid** : Add a +1_dir/2 bonus on [Diplomacy](skills_dir/diplomacy#_diplomacy) and [Intimidate](skills_dir/intimidate#_intimidate) checks to change a creature's attitude.
 
 **Oracle** : Reduce the penalty for not being proficient for one weapon by 1. When the nonproficiency penalty for a weapon becomes 0 because of this ability, the oracle is treated as having the appropriate Martial or [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) feat for that weapon.
 
-**Rogue** : The rogue gains 1/6 of a new rogue talent.
+**Rogue** : The rogue gains 1_dir/6 of a new rogue talent.
 
-**Sorcerer** : Add +1/4 to the DC of enchantment spells.
+**Sorcerer** : Add +1_dir/4 to the DC of enchantment spells.
 
 # Racial Archetypes
 
@@ -60,9 +60,9 @@ The following racial archetype is available to kitsune.
 
 The kitsune trickster combines her sharpened wit with minor arcane powers of charm and persuasion. She uses her talents to spin convincing lies, riddles, and stories. A trickster has the following class features.
 
-**Kitsune's Guile (Ex)** : At 1st level, a trickster relies on her intellect as much as her personality. She adds her Intelligence modifier on [Bluff](skill_dir/bluff#_bluff), [Diplomacy](skills/diplomacy#_diplomacy), [Disguise](skill_dir/disguise#_disguise), and [Sense Motive](skills/senseMotive#_sense-motive) checks. This ability replaces trapfinding.
+**Kitsune's Guile (Ex)** : At 1st level, a trickster relies on her intellect as much as her personality. She adds her Intelligence modifier on [Bluff](skills_dir/bluff#_bluff), [Diplomacy](skills_dir/diplomacy#_diplomacy), [Disguise](skills_dir/disguise#_disguise), and [Sense Motive](skills_dir/senseMotive#_sense-motive) checks. This ability replaces trapfinding.
 
-**Kitsune's Charm (Sp)** : At 3rd level, a kitsune trickster can use _ [charm person](spell_dir/charmPerson#_charm-person)_ once per day as a spell-like ability (caster level equal to her rogue level – 2). At 6th level, and every three levels thereafter, the kitsune trickster gains an additional daily use of this ability. This ability replaces trap sense.
+**Kitsune's Charm (Sp)** : At 3rd level, a kitsune trickster can use _ [charm person](spells_dir/charmPerson#_charm-person)_ once per day as a spell-like ability (caster level equal to her rogue level – 2). At 6th level, and every three levels thereafter, the kitsune trickster gains an additional daily use of this ability. This ability replaces trap sense.
 
 **Rogue Talents** : The following rogue talents complement the kitsune trickster archetype: major magic, minor magic (_Core Rulebook_); false friend, obfuscate story, steal the story (see below); charmer, coax information, honeyed words ; convincing lie.
 
@@ -72,11 +72,11 @@ The kitsune trickster combines her sharpened wit with minor arcane powers of cha
 
 The following new rogue talents can be taken by any rogue who meets the prerequisites, but they are more common among kitsune.
 
-_False Friend (Ex)_: A rogue with this talent gains a +4 bonus when making [Bluff](skills/bluff#_bluff) checks to convince someone she has never met or who doesn't know her well that they are previously acquainted or know each other well.
+_False Friend (Ex)_: A rogue with this talent gains a +4 bonus when making [Bluff](skills_dir/bluff#_bluff) checks to convince someone she has never met or who doesn't know her well that they are previously acquainted or know each other well.
 
-_Obfuscate Story (Ex)_: While another individual attempts to give an account of an event, the rogue makes an opposed [Diplomacy](skill_dir/diplomacy#_diplomacy) check to deftly interject comments or statements over the course of the storytelling that cause the individual to muddle his ability to recall accurate or specific details. If the rogue succeeds, her target remains unaware that the rogue's interjections caused the confusion. However, if she fails, the target is allowed a [Sense Motive](skills/senseMotive#_sense-motive) check (DC equal to the rogue's failed [Diplomacy](skill_dir/diplomacy#_diplomacy) check) to figure out that she made deliberate attempts to confuse the story.
+_Obfuscate Story (Ex)_: While another individual attempts to give an account of an event, the rogue makes an opposed [Diplomacy](skills_dir/diplomacy#_diplomacy) check to deftly interject comments or statements over the course of the storytelling that cause the individual to muddle his ability to recall accurate or specific details. If the rogue succeeds, her target remains unaware that the rogue's interjections caused the confusion. However, if she fails, the target is allowed a [Sense Motive](skills_dir/senseMotive#_sense-motive) check (DC equal to the rogue's failed [Diplomacy](skills_dir/diplomacy#_diplomacy) check) to figure out that she made deliberate attempts to confuse the story.
 
-_Steal the Story (Ex)_: After muddling another's account using obfuscate story, the rogue may make another opposed [Diplomacy](skills/diplomacy#_diplomacy) check to alter the details further in order to discredit, insult, or humiliate the target. If the check succeeds, the target takes a penalty on [Diplomacy](skill_dir/diplomacy#_diplomacy) and [Intimidate](skills/intimidate#_intimidate) checks against anyone who heard the altered story. This penalty is equal to the rogue's Intelligence, Wisdom, or Charisma bonus (whichever is highest), and lasts until the target is able to repair his reputation or discredit the rogue. The rogue must have the obfuscate story talent to select this talent.
+_Steal the Story (Ex)_: After muddling another's account using obfuscate story, the rogue may make another opposed [Diplomacy](skills_dir/diplomacy#_diplomacy) check to alter the details further in order to discredit, insult, or humiliate the target. If the check succeeds, the target takes a penalty on [Diplomacy](skills_dir/diplomacy#_diplomacy) and [Intimidate](skills_dir/intimidate#_intimidate) checks against anyone who heard the altered story. This penalty is equal to the rogue's Intelligence, Wisdom, or Charisma bonus (whichever is highest), and lasts until the target is able to repair his reputation or discredit the rogue. The rogue must have the obfuscate story talent to select this talent.
 
 # New Racial Rules
 
@@ -92,7 +92,7 @@ You grow an extra tail that represents your growing magical powers.
 
 **Prerequisite** : Kitsune.
 
-**Benefit** : You gain a new spell-like ability, each usable twice per day, from the following list, in order: _ [disguise self](spell_dir/disguiseSelf#_disguise-self)_, _ [charm person](spells/charmPerson#_charm-person)_, _ [misdirection](spell_dir/misdirection#_misdirection)_, _ [invisibility](spells/invisibility#_invisibility)_, _ [suggestion](spell_dir/suggestion#_suggestion)_, _ [displacement](spells/displacement#_displacement)_, _ [confusion](spell_dir/confusion#_confusion)_, _ [dominate person](spells/dominatePerson#_dominate-person)_. For example, the first time you select this feat, you gain _ [disguise self](spell_dir/disguiseSelf#_disguise-self)_ 2/day; the second time you select this feat, you gain _ [charm person](spell_dir/charmPerson#_charm-person)_ 2/day. Your caster level for these spells is equal to your Hit Dice. The DCs for these abilities are Charisma-based.
+**Benefit** : You gain a new spell-like ability, each usable twice per day, from the following list, in order: _ [disguise self](spells_dir/disguiseSelf#_disguise-self)_, _ [charm person](spells_dir/charmPerson#_charm-person)_, _ [misdirection](spells_dir/misdirection#_misdirection)_, _ [invisibility](spells_dir/invisibility#_invisibility)_, _ [suggestion](spells_dir/suggestion#_suggestion)_, _ [displacement](spells_dir/displacement#_displacement)_, _ [confusion](spells_dir/confusion#_confusion)_, _ [dominate person](spells_dir/dominatePerson#_dominate-person)_. For example, the first time you select this feat, you gain _ [disguise self](spells_dir/disguiseSelf#_disguise-self)_ 2_dir/day; the second time you select this feat, you gain _ [charm person](spells_dir/charmPerson#_charm-person)_ 2_dir/day. Your caster level for these spells is equal to your Hit Dice. The DCs for these abilities are Charisma-based.
 
 **Special** : You may select this feat up to eight times. Each time you take it, you gain an additional ability as described above.
 
@@ -102,7 +102,7 @@ When you are in human form, you can take the shape of a specific individual.
 
 **Prerequisite** : Kitsune.
 
-**Benefit** : You can precisely mimic the physical features of any individual you have encountered. When you use your racial change shape ability, you can attempt to take the form of an individual, granting you a +10 circumstance bonus on [Disguise](skill_dir/disguise#_disguise) checks made to fool others with your impersonation.
+**Benefit** : You can precisely mimic the physical features of any individual you have encountered. When you use your racial change shape ability, you can attempt to take the form of an individual, granting you a +10 circumstance bonus on [Disguise](skills_dir/disguise#_disguise) checks made to fool others with your impersonation.
 
 ## Kitsune Magic Items
 
@@ -116,7 +116,7 @@ Kitsune Star Gem
 
 Description
 
-This magical jewel glows like _ [faerie fire](spells/faerieFire#_faerie-fire)_, shedding light as a candle. It acts as _ [pearl of power](magicItem_dir/wondrousItems#_pearl-of-power)_, except it only allows a kitsune to recover a spent use of a spell-like ability of the appropriate spell level.
+This magical jewel glows like _ [faerie fire](spells_dir/faerieFire#_faerie-fire)_, shedding light as a candle. It acts as _ [pearl of power](magicItems_dir/wondrousItems#_pearl-of-power)_, except it only allows a kitsune to recover a spent use of a spell-like ability of the appropriate spell level.
 
 Construction
 

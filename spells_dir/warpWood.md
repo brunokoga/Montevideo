@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/warpWood
+title: spells_dir/warpWood
 ---
  **Warp Wood**
 
@@ -10,9 +10,9 @@ title: spell_dir/warpWood
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Target** 1 Small wooden objec_dir/level, all within a 20-ft. radius
+**Target** 1 Small wooden object_dir/level, all within a 20-ft. radius
 
 **Duration** instantaneous
 

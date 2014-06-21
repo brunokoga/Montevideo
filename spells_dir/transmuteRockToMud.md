@@ -1,18 +1,18 @@
 ---
 layout: default
-title: spell_dir/transmuteRockToMud
+title: spells_dir/transmuteRockToMud
 ---
  **Transmute Rock to Mud**
 
-**School** transmutation [earth]; **Level** druid 5, sorcerer/wizard 5
+**School** transmutation [earth]; **Level** druid 5, sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (clay and water)
+**Components** V, S, M_dir/DF (clay and water)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Area** up to two 10-ft. cube_dir/level (S)
+**Area** up to two 10-ft. cubes_dir/level (S)
 
 **Duration** permanent; see text
 

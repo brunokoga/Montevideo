@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/stymphalidies
+title: bestiary3_dir/stymphalidies
 ---
 # Stymphalidies
 
@@ -12,7 +12,7 @@ XP 4,800
 
 N Large magical beast
 
-**Init** +6; **Senses** low-light vision; [Perception](skill_dir/perception#_perception) +12
+**Init** +6; **Senses** low-light vision; [Perception](skills_dir/perception#_perception) +12
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +11, **Ref** +10, **Will** +5
 
-**DR** 10/magic and adamantine; **Immune** fire
+**DR** 10_dir/magic and adamantine; **Immune** fire
 
 **Weaknesses** vulnerable to sonic
 
@@ -30,13 +30,13 @@ Offense
 
 **Speed** 20 ft., fly 120 ft. (poor)
 
-**Melee** bite +14 (1d8+6 plus [bleed](monster_dir/universalMonsterRules#_bleed)), 2 talons +14 (1d6+6), 2 wings +9 (1d6+3 plus [bleed](monsters/universalMonsterRules#_bleed))
+**Melee** bite +14 (1d8+6 plus [bleed](monsters_dir/universalMonsterRules#_bleed)), 2 talons +14 (1d6+6), 2 wings +9 (1d6+3 plus [bleed](monsters_dir/universalMonsterRules#_bleed))
 
-**Ranged** 2 wing razors +10 (1d6+6 plus [bleed](monster_dir/universalMonsterRules#_bleed))
+**Ranged** 2 wing razors +10 (1d6+6 plus [bleed](monsters_dir/universalMonsterRules#_bleed))
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [bleed](monsters/universalMonsterRules#_bleed) (1d6), glare, wing razors
+**Special Attacks** [bleed](monsters_dir/universalMonsterRules#_bleed) (1d6), glare, wing razors
 
 Statistics
 
@@ -44,9 +44,9 @@ Statistics
 
 **Base Atk** +9; **CMB** +16; **CMD** 28
 
-**Feats** [Critical Focus](feats#_critical-focus), [Flyby Attack](monster_dir/monsterFeats#_flyby-attack), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
+**Feats** [Critical Focus](feats#_critical-focus), [Flyby Attack](monsters_dir/monsterFeats#_flyby-attack), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus) ( [Perception](skills_dir/perception#_perception))
 
-**Skills** [Fly](skill_dir/fly#_fly) +4, [Perception](skills/perception#_perception) +12
+**Skills** [Fly](skills_dir/fly#_fly) +4, [Perception](skills_dir/perception#_perception) +12
 
 Ecology
 
@@ -58,9 +58,9 @@ Ecology
 
 Special Abilities
 
-**Glare (Su)** As a standard action, in any area of normal or brighter light, a stymphalidies can ruffle its metallic feathers in such a way as to blind all creatures nearby. Any creature within 30 feet must succeed at a DC 19 Fortitude save or be blinded for 1d6 minutes. A creature can defend against this effect in the same way it would a [gaze](monster_dir/universalMonsterRules#_gaze) attack. This is a sight-based effect. The save DC is Constitution-based.
+**Glare (Su)** As a standard action, in any area of normal or brighter light, a stymphalidies can ruffle its metallic feathers in such a way as to blind all creatures nearby. Any creature within 30 feet must succeed at a DC 19 Fortitude save or be blinded for 1d6 minutes. A creature can defend against this effect in the same way it would a [gaze](monsters_dir/universalMonsterRules#_gaze) attack. This is a sight-based effect. The save DC is Constitution-based.
 
-**Wing Razors (Ex)** A stymphalidies's metallic feathers are razor-sharp. In addition to being able to slash creatures with its wings as a melee attack, it may beat its wings, flinging two large, feathered shards at a single target. These wing razors deal 2d6 points of damage and cause [bleed](monsters/universalMonsterRules#_bleed), with a range increment of 50 feet. A stymphalidies can use this attack a number of times per day equal to its Constitution modifier (5 times per day for most stymphalidies).
+**Wing Razors (Ex)** A stymphalidies's metallic feathers are razor-sharp. In addition to being able to slash creatures with its wings as a melee attack, it may beat its wings, flinging two large, feathered shards at a single target. These wing razors deal 2d6 points of damage and cause [bleed](monsters_dir/universalMonsterRules#_bleed), with a range increment of 50 feet. A stymphalidies can use this attack a number of times per day equal to its Constitution modifier (5 times per day for most stymphalidies).
 
 Man-eating birds of prey, the rare creatures known as stymphalidies stalk plains and coastlines, shredding warm-blooded animals and unwary travelers with their steely-bladed feathers and daggerlike beaks. From a distance, stymphalidies might easily be mistaken for cranes, ibises, or other long-necked birds, though in full sunlight their gleaming feathers and the haze of blood lingering from past meals are impossible to mistake.
 

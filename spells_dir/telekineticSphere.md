@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/telekineticSphere
+title: spells_dir/telekineticSphere
 ---
  **Telekinetic Sphere**
 
-**School** evocation [force]; **Level** sorcerer/wizard 8
+**School** evocation [force]; **Level** sorcerer_dir/wizard 8
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a crystal sphere and a pair of small magnets)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Effect** 1-ft.-diamete_dir/level sphere, centered around creatures or objects
+**Effect** 1-ft.-diameter_dir/level sphere, centered around creatures or objects
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** [Reflex](../combat#_reflex) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
 

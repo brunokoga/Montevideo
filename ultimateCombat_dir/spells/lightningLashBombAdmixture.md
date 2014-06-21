@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/lightningLashBombAdmixture
+title: ultimateCombat_dir/spells_dir/lightningLashBombAdmixture
 ---
 Lightning Lash Bomb Admixture
 
@@ -14,7 +14,7 @@ Lightning Lash Bomb Admixture
 
 **Target** you
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** special, see below; **Spell Resistance** special, see below
 

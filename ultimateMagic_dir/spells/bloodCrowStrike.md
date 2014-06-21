@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/bloodCrowStrike
+title: ultimateMagic_dir/spells_dir/bloodCrowStrike
 ---
 Blood Crow Strike
 
@@ -10,7 +10,7 @@ Blood Crow Strike
 
 **Casting Time** 1 round
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target** one creature
 

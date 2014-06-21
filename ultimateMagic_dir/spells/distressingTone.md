@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/distressingTone
+title: ultimateMagic_dir/spells_dir/distressingTone
 ---
 Distressing Tone
 
@@ -10,11 +10,11 @@ Distressing Tone
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** 1d4 living creatures
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 

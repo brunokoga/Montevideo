@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/bulette
+title: monsters_dir/bulette
 ---
 # Bulette
 
@@ -12,7 +12,7 @@ _This armor-plated creature's toothy maw gapes wide as a fin-like dorsal plate r
 
 N Huge [magical beast](creatureTypes#_magical-beast)
 
-**Init** +6; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent), [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skill_dir/perception#_perception) +11
+**Init** +6; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent), [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skills_dir/perception#_perception) +11
 
 **Defense**
 
@@ -26,7 +26,7 @@ N Huge [magical beast](creatureTypes#_magical-beast)
 
 **Speed** 40 ft., burrow 20 ft.
 
-**Melee** bite +13 (2d8+9/19–20) and 2 claws +12 (2d6+6)
+**Melee** bite +13 (2d8+9_dir/19–20) and 2 claws +12 (2d6+6)
 
 **Space** 15 ft.; **Reach** 10 ft.
 
@@ -38,9 +38,9 @@ N Huge [magical beast](creatureTypes#_magical-beast)
 
 **Base**  **Atk** +8; **CMB** +16; **CMD** 28 (32 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception)), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +9 (+17 jumping), [Perception](../skill_dir/perception#_perception) +11; **Racial Modifiers** +4 on [Acrobatics](../skill_dir/acrobatics#_acrobatics) checks made to jump
+**Skills** [Acrobatics](../skills_dir/acrobatics#_acrobatics) +9 (+17 jumping), [Perception](../skills_dir/perception#_perception) +11; **Racial Modifiers** +4 on [Acrobatics](../skills_dir/acrobatics#_acrobatics) checks made to jump
 
 **Ecology**
 
@@ -52,9 +52,9 @@ N Huge [magical beast](creatureTypes#_magical-beast)
 
 **Special Abilities**
 
-**Leap (Ex)** A bulette can perform a special kind of pounce attack by jumping into combat. When a bulette charges, it can make a DC 20 [Acrobatics](../skill_dir/acrobatics#_acrobatics) check to jump into the air and land next to its enemies. If it makes the [Acrobatics](../skill_dir/acrobatics#_acrobatics) check, it can follow up with four claw attacks against foes in reach, but cannot make a bite attack.
+**Leap (Ex)** A bulette can perform a special kind of pounce attack by jumping into combat. When a bulette charges, it can make a DC 20 [Acrobatics](../skills_dir/acrobatics#_acrobatics) check to jump into the air and land next to its enemies. If it makes the [Acrobatics](../skills_dir/acrobatics#_acrobatics) check, it can follow up with four claw attacks against foes in reach, but cannot make a bite attack.
 
-**Savage Bite (Ex)** A bulette's bite is particularly dangerous. It applies 1-1/2 times its Strength modifier to damage inflicted with its bite attack, and threatens a critical hit on a 19–20.
+**Savage Bite (Ex)** A bulette's bite is particularly dangerous. It applies 1-1_dir/2 times its Strength modifier to damage inflicted with its bite attack, and threatens a critical hit on a 19–20.
 
 The creation of some unknown arcanist in millennia past, the bulette has bred true to become one of the fiercest predators of the hills. Burrowing rapidly through the earth just beneath the surface, sometimes with its armored fin cutting a distinctive wake behind it, the bulette launches itself free of stone and soil to tear into its prey without remorse, giving rise to the common appellation “landshark.”
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/athach
+title: additionalMonsters_dir/athach
 ---
 # Athach
 
@@ -10,9 +10,9 @@ This giant's maw contains a pair of dripping tusks, but it is its gangly third a
 
 **XP 19,200**
 
-CE Huge [humanoid](monsters/creatureTypes#_humanoid) (giant)
+CE Huge [humanoid](monsters_dir/creatureTypes#_humanoid) (giant)
 
-**Init** +1; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +12
+**Init** +1; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +12
 
 Defense
 
@@ -22,21 +22,21 @@ Defense
 
 **Fort** +16, **Ref** +5, **Will** +7
 
-**Resist** [cold](monsters/creatureTypes#_cold-subtype) 10
+**Resist** [cold](monsters_dir/creatureTypes#_cold-subtype) 10
 
 Offense
 
 **Speed** 50 ft.
 
-**Melee** 2 slams +19 (1d8+11), bite +19 (2d6+11 plus [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su))) or
+**Melee** 2 slams +19 (1d8+11), bite +19 (2d6+11 plus [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su))) or
 
-heavy mace +19/+14 (3d6+11), bite +17 (2d6+5 plus poison)
+heavy mace +19_dir/+14 (3d6+11), bite +17 (2d6+5 plus poison)
 
-**Ranged** rock +10/+5 (2d6+16)
+**Ranged** rock +10_dir/+5 (2d6+16)
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** [rock throwing](monster_dir/universalMonsterRules#_rock-throwing) (140 ft.), swift claw
+**Special Attacks** [rock throwing](monsters_dir/universalMonsterRules#_rock-throwing) (140 ft.), swift claw
 
 Statistics
 
@@ -44,15 +44,15 @@ Statistics
 
 **Base Atk** +10; **CMB** +23; **CMD** 34
 
-**Feats** [Cleave](additionalMonsters/../feats#_cleave), [Improved Iron Will](additionalMonster_dir/../feats#_improved-iron-will), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Lunge](additionalMonster_dir/../feats#_lunge), [Multiattack](additionalMonster_dir/../monster_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters/../feats#_power-attack), [Vital Strike](additionalMonster_dir/../feats#_vital-strike)
+**Feats** [Cleave](additionalMonsters_dir/../feats#_cleave), [Improved Iron Will](additionalMonsters_dir/../feats#_improved-iron-will), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Lunge](additionalMonsters_dir/../feats#_lunge), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike)
 
-**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +1 (+9 jump), [Climb](additionalMonsters/../skill_dir/climb#_climb) +20, [Perception](additionalMonsters/../skill_dir/perception#_perception) +12, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) -7
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +1 (+9 jump), [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +20, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +12, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) -7
 
 **Languages** Giant
 
 Ecology
 
-**Environment** [cold](monsters/creatureTypes#_cold-subtype) or temperate hills
+**Environment** [cold](monsters_dir/creatureTypes#_cold-subtype) or temperate hills
 
 **Organization** solitary, gang (2–4), or tribe (7–12)
 
@@ -60,7 +60,7 @@ Ecology
 
 Special Abilities
 
-**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 24; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str; _cure_ 2 consecutive saves.
+**[Poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 24; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d4 Str; _cure_ 2 consecutive saves.
 
 **Swift Claw (Ex)** An athach can attack with its claw as a swift action, even when the creature's movement would normally restrict it to one attack. This attack is made at a +19 bonus and deals 1d10+11 points of damage, regardless of what other attacks are made on the athach's turn.
 

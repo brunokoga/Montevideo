@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/hornOfPursuit
+title: ultimateMagic_dir/spells_dir/hornOfPursuit
 ---
 Horn of Pursuit
 

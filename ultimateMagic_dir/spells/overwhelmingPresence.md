@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/overwhelmingPresence
+title: ultimateMagic_dir/spells_dir/overwhelmingPresence
 ---
 Overwhelming Presence
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 6, cleric 9, inquisitor 6, sorcere_dir/wizard 9
+**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 6, cleric 9, inquisitor 6, sorcerer_dir/wizard 9
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a swan feather)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Targets** one creatur_dir/level, no two of which can be more than 30 ft. apart
+**Targets** one creature_dir/level, no two of which can be more than 30 ft. apart
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates, see text; **Spell Resistance** yes
 

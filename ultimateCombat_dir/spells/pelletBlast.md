@@ -1,14 +1,14 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/pelletBlast
+title: ultimateCombat_dir/spells_dir/pelletBlast
 ---
 Pellet Blast
 
-**School** conjuration (creation); **Level** magus 4, sorcere_dir/wizard 3, summoner 3
+**School** conjuration (creation); **Level** magus 4, sorcerer_dir/wizard 3, summoner 3
 
 **Casting time** 1 standard action
 
-**Components** V, S, M (a handful of metal pellets or handful of [cold](monsters/creatureTypes#_cold-subtype) iron, silver, or adamantine pellets; see descriptions for cost)
+**Components** V, S, M (a handful of metal pellets or handful of [cold](monsters_dir/creatureTypes#_cold-subtype) iron, silver, or adamantine pellets; see descriptions for cost)
 
 **Range** 30 ft.
 

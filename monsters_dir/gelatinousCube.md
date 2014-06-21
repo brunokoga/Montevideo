@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/gelatinousCube
+title: monsters_dir/gelatinousCube
 ---
 # Gelatinous Cube
 
@@ -12,7 +12,7 @@ _Bits of broken weapons, coins, and a partially digested skeleton are visible in
 
 N Large [ooze](creatureTypes#_ooze)
 
-**Init** –5; **Senses** [blindsight](universalMonsterRules#_blindsight) 60 ft.; [Perception](../skill_dir/perception#_perception) –5
+**Init** –5; **Senses** [blindsight](universalMonsterRules#_blindsight) 60 ft.; [Perception](../skills_dir/perception#_perception) –5
 
 **Defense**
 
@@ -58,7 +58,7 @@ N Large [ooze](creatureTypes#_ooze)
 
 **Paralysis (Ex)** A gelatinous cube secretes an anesthetizing slime. A target hit by a cube's melee or engulf attack must succeed on a DC 20 Fortitude save or be paralyzed for 3d6 rounds. The cube can automatically engulf a paralyzed opponent. The save DC is Constitution-based.
 
-**Transparent (Ex)** Due to its lack of coloration, a gelatinous cube is difficult to discern. A DC 15 [Perception](../skill_dir/perception#_perception) check is required to notice a motionless gelatinous cube. Any creature that fails to notice a gelatinous cube and walks into it is automatically engulfed.
+**Transparent (Ex)** Due to its lack of coloration, a gelatinous cube is difficult to discern. A DC 15 [Perception](../skills_dir/perception#_perception) check is required to notice a motionless gelatinous cube. Any creature that fails to notice a gelatinous cube and walks into it is automatically engulfed.
 
 One of the dungeon's most unusual and specialized predators, gelatinous cubes spend their existence mindlessly roaming dungeon halls and dark caverns, swallowing up organic material such as plants, refuse, carrion, and even living creatures. Materials the cube cannot digest, such as metal and stone, can eventually fill up the creature's mass with such detritus, and at times the creature may excrete some of this material out of its body. Often the treasure and possessions of past victims remain inside the gelatinous cube, leaving a ghostly impression of their material remains.
 

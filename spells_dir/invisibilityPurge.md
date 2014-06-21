@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/invisibilityPurge
+title: spells_dir/invisibilityPurge
 ---
  **Invisibility Purge**
 
@@ -14,7 +14,7 @@ title: spell_dir/invisibilityPurge
 
 **Target** you
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 You surround yourself with a sphere of power with a radius of 5 feet per caster level that negates all forms of [invisibility](invisibility#_invisibility).
 

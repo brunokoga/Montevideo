@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/healMount
+title: spells_dir/healMount
 ---
  **Heal Mount**
 

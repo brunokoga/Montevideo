@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advance_dir/spells/worldWave
+title: advanced_dir/spells_dir/worldWave
 ---
  **World Wave**
 
-**School** transmutation [earth, water]; **Level** druid 9, sorcere_dir/wizard 9
+**School** transmutation [earth, water]; **Level** druid 9, sorcerer_dir/wizard 9
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/worldWave
 
 **Effect** see text
 
-**Duration** 1 round/level or 1 hou_dir/level; see text (D)
+**Duration** 1 round_dir/level or 1 hour_dir/level; see text (D)
 
 **Saving Throw** none; **Spell Resistance** yes
 

@@ -1,74 +1,74 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicMonsters/monsterIndex
+title: mythicAdventures_dir/mythicMonsters_dir/monsterIndex
 ---
 # Mythic Monster Index
 
 A B C D E G H L M O P R S T V W
 
-- [Aboleth](mythicAdventure_dir/mythicMonsters/aboleth)
+- [Aboleth](mythicAdventures_dir/mythicMonsters_dir/aboleth)
 
-- [Barghest, Greater](mythicAdventure_dir/mythicMonsters/barghest)
+- [Barghest, Greater](mythicAdventures_dir/mythicMonsters_dir/barghest)
 
-- [Cockatrice](mythicAdventure_dir/mythicMonsters/cockatrice)
-- [Cyclops, Great](mythicAdventure_dir/mythicMonsters/cyclops)
+- [Cockatrice](mythicAdventures_dir/mythicMonsters_dir/cockatrice)
+- [Cyclops, Great](mythicAdventures_dir/mythicMonsters_dir/cyclops)
 
-- [Demon](mythicAdventure_dir/mythicMonsters/demons)
--    [Demon, Marilith](mythicAdventure_dir/mythicMonsters/demons#_demon-marilith)
--    [Demon, Nalfeshnee](mythicAdventure_dir/mythicMonsters/demons#_demon-nalfeshnee)
--    [Demon, Vrock](mythicAdventure_dir/mythicMonsters/demons#_demon-vrock)
-- [Devil](mythicAdventure_dir/mythicMonsters/devils)
--    [Devil, Bone](mythicAdventure_dir/mythicMonsters/devils#_devil-bone)
--    [Devil, Ice](mythicAdventure_dir/mythicMonsters/devils#_devil-ice)
-- [Dragon](mythicAdventure_dir/mythicMonsters/dragons)
--    [Dragon, Black](mythicAdventure_dir/mythicMonsters/dragons#_dragon-black)
--    [Dragon, Blue](mythicAdventure_dir/mythicMonsters/dragons#_dragon-blue)
--    [Dragon, Green](mythicAdventure_dir/mythicMonsters/dragons#_dragon-green)
--    [Dragon, Red](mythicAdventure_dir/mythicMonsters/dragons#_dragon-red)
--    [Dragon, White](mythicAdventure_dir/mythicMonsters/dragons#_dragon-white)
+- [Demon](mythicAdventures_dir/mythicMonsters_dir/demons)
+-    [Demon, Marilith](mythicAdventures_dir/mythicMonsters_dir/demons#_demon-marilith)
+-    [Demon, Nalfeshnee](mythicAdventures_dir/mythicMonsters_dir/demons#_demon-nalfeshnee)
+-    [Demon, Vrock](mythicAdventures_dir/mythicMonsters_dir/demons#_demon-vrock)
+- [Devil](mythicAdventures_dir/mythicMonsters_dir/devils)
+-    [Devil, Bone](mythicAdventures_dir/mythicMonsters_dir/devils#_devil-bone)
+-    [Devil, Ice](mythicAdventures_dir/mythicMonsters_dir/devils#_devil-ice)
+- [Dragon](mythicAdventures_dir/mythicMonsters_dir/dragons)
+-    [Dragon, Black](mythicAdventures_dir/mythicMonsters_dir/dragons#_dragon-black)
+-    [Dragon, Blue](mythicAdventures_dir/mythicMonsters_dir/dragons#_dragon-blue)
+-    [Dragon, Green](mythicAdventures_dir/mythicMonsters_dir/dragons#_dragon-green)
+-    [Dragon, Red](mythicAdventures_dir/mythicMonsters_dir/dragons#_dragon-red)
+-    [Dragon, White](mythicAdventures_dir/mythicMonsters_dir/dragons#_dragon-white)
 
-- [Elemental](mythicAdventure_dir/mythicMonsters/elementals)
--    [Elemental, Air](mythicAdventure_dir/mythicMonsters/elementals#_elemental-air)
--    [Elemental, Earth](mythicAdventure_dir/mythicMonsters/elementals#_elemental-earth)
--    [Elemental, Fire](mythicAdventure_dir/mythicMonsters/elementals#_elemental-fire)
--    [Elemental, Water](mythicAdventure_dir/mythicMonsters/elementals#_elemental-water)
-- [Ettin](mythicAdventure_dir/mythicMonsters/ettin)
+- [Elemental](mythicAdventures_dir/mythicMonsters_dir/elementals)
+-    [Elemental, Air](mythicAdventures_dir/mythicMonsters_dir/elementals#_elemental-air)
+-    [Elemental, Earth](mythicAdventures_dir/mythicMonsters_dir/elementals#_elemental-earth)
+-    [Elemental, Fire](mythicAdventures_dir/mythicMonsters_dir/elementals#_elemental-fire)
+-    [Elemental, Water](mythicAdventures_dir/mythicMonsters_dir/elementals#_elemental-water)
+- [Ettin](mythicAdventures_dir/mythicMonsters_dir/ettin)
 
-- [Gargoyle](mythicAdventure_dir/mythicMonsters/gargoyle)
-- [Giant](mythicAdventure_dir/mythicMonsters/giants)
--    [Giant, Fire](mythicAdventure_dir/mythicMonsters/giants#_giant-fire)
--    [Giant, Hill](mythicAdventure_dir/mythicMonsters/giants#_giant-hill)
--    [Giant, Flesh](mythicAdventure_dir/mythicMonsters/giants#_giant-flesh)
-- [Griffon](mythicAdventure_dir/mythicMonsters/griffon)
+- [Gargoyle](mythicAdventures_dir/mythicMonsters_dir/gargoyle)
+- [Giant](mythicAdventures_dir/mythicMonsters_dir/giants)
+-    [Giant, Fire](mythicAdventures_dir/mythicMonsters_dir/giants#_giant-fire)
+-    [Giant, Hill](mythicAdventures_dir/mythicMonsters_dir/giants#_giant-hill)
+-    [Giant, Flesh](mythicAdventures_dir/mythicMonsters_dir/giants#_giant-flesh)
+- [Griffon](mythicAdventures_dir/mythicMonsters_dir/griffon)
 
-- [Hell Hound](mythicAdventure_dir/mythicMonsters/hellHound)
-- [Hydra](mythicAdventure_dir/mythicMonsters/hydra)
+- [Hell Hound](mythicAdventures_dir/mythicMonsters_dir/hellHound)
+- [Hydra](mythicAdventures_dir/mythicMonsters_dir/hydra)
 
-- [Lamia](mythicAdventure_dir/mythicMonsters/lamia)
-- [Lich](mythicAdventure_dir/mythicMonsters/lich)
+- [Lamia](mythicAdventures_dir/mythicMonsters_dir/lamia)
+- [Lich](mythicAdventures_dir/mythicMonsters_dir/lich)
 
-- [Manticore](mythicAdventure_dir/mythicMonsters/manticore)
-- [Medusa](mythicAdventure_dir/mythicMonsters/medusa)
-- [Minotaur](mythicAdventure_dir/mythicMonsters/minotaur)
-- [Mummy](mythicAdventure_dir/mythicMonsters/mummy)
+- [Manticore](mythicAdventures_dir/mythicMonsters_dir/manticore)
+- [Medusa](mythicAdventures_dir/mythicMonsters_dir/medusa)
+- [Minotaur](mythicAdventures_dir/mythicMonsters_dir/minotaur)
+- [Mummy](mythicAdventures_dir/mythicMonsters_dir/mummy)
 
-- [Ogre](mythicAdventure_dir/mythicMonsters/ogre)
-- [Owlbear](mythicAdventure_dir/mythicMonsters/owlbear)
--    [Owlbear, The First](mythicAdventure_dir/mythicMonsters/owlbear#_owlbear-the-first)
+- [Ogre](mythicAdventures_dir/mythicMonsters_dir/ogre)
+- [Owlbear](mythicAdventures_dir/mythicMonsters_dir/owlbear)
+-    [Owlbear, The First](mythicAdventures_dir/mythicMonsters_dir/owlbear#_owlbear-the-first)
 
-- [Phoenix](mythicAdventure_dir/mythicMonsters/phoenix)
+- [Phoenix](mythicAdventures_dir/mythicMonsters_dir/phoenix)
 
-- [Rakshasa](mythicAdventure_dir/mythicMonsters/rakshasa)
+- [Rakshasa](mythicAdventures_dir/mythicMonsters_dir/rakshasa)
 
-- [Skeleton](mythicAdventure_dir/mythicMonsters/skeleton)
-- [Sphinx](mythicAdventure_dir/mythicMonsters/sphinx)
+- [Skeleton](mythicAdventures_dir/mythicMonsters_dir/skeleton)
+- [Sphinx](mythicAdventures_dir/mythicMonsters_dir/sphinx)
 
-- [Treant](mythicAdventure_dir/mythicMonsters/treant)
-- [Troll](mythicAdventure_dir/mythicMonsters/troll)
+- [Treant](mythicAdventures_dir/mythicMonsters_dir/treant)
+- [Troll](mythicAdventures_dir/mythicMonsters_dir/troll)
 
-- [Vampire](mythicAdventure_dir/mythicMonsters/vampire)
+- [Vampire](mythicAdventures_dir/mythicMonsters_dir/vampire)
 
-- [Worg](mythicAdventure_dir/mythicMonsters/worg)
--    [Worg, Winterwolf](mythicAdventure_dir/mythicMonsters/worg#_worg-winterwolf)
-- [Wyvern](mythicAdventure_dir/mythicMonsters/wyvern)
+- [Worg](mythicAdventures_dir/mythicMonsters_dir/worg)
+-    [Worg, Winterwolf](mythicAdventures_dir/mythicMonsters_dir/worg#_worg-winterwolf)
+- [Wyvern](mythicAdventures_dir/mythicMonsters_dir/wyvern)
 

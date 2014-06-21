@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/blackPudding
+title: monsters_dir/blackPudding
 ---
 # Black Pudding
 
@@ -12,7 +12,7 @@ _This black, amorphous blob piles up on itself, a quivering mound of midnight sl
 
 N Huge [ooze](creatureTypes#_ooze)
 
-**Init** –5; **Senses** [blindsight](universalMonsterRules#_blindsight) 60 ft.; [Perception](../skill_dir/perception#_perception) –5
+**Init** –5; **Senses** [blindsight](universalMonsterRules#_blindsight) 60 ft.; [Perception](../skills_dir/perception#_perception) –5
 
 **Defense**
 
@@ -40,7 +40,7 @@ N Huge [ooze](creatureTypes#_ooze)
 
 **Base**  **Atk** +7; **CMB** +12 (+16 grapple); **CMD** 17 (27 vs. bull rush, can't be tripped)
 
-**Skills** [Climb](../skill_dir/climb#_climb) +11
+**Skills** [Climb](../skills_dir/climb#_climb) +11
 
 **SQ** [ooze traits](creatureTypes#_ooze), suction
 

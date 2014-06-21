@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advance_dir/spells/phantasmalRevenge
+title: advanced_dir/spells_dir/phantasmalRevenge
 ---
  **Phantasmal Revenge**
 
-**School** illusion (phantasm) [fear, mind-affecting]; **Level** sorcere_dir/wizard 7
+**School** illusion (phantasm) [fear, mind-affecting]; **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 

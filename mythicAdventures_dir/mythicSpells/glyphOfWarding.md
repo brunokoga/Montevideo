@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/glyphOfWarding
+title: mythicAdventures_dir/mythicSpells_dir/glyphOfWarding
 ---
 Glyph of Warding
 
-**Source** [_glyph of warding_](spell_dir/glyphOfWarding#_glyph-of-warding)
+**Source** [_glyph of warding_](spells_dir/glyphOfWarding#_glyph-of-warding)
 
 Add your tier to the DC to detect or disable the glyph. Blast glyph damage increases to 1d6 points of damage per caster level (maximum 20d6). Add half your tier to the maximum spell level you can store in a spell glyph.
 

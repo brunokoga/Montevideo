@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/kraken
+title: monsters_dir/kraken
 ---
 # Kraken
 
@@ -12,7 +12,7 @@ _This tremendous leviathan resembles a vast squid, yet the markings on its body 
 
 NE Gargantuan [magical beast](creatureTypes#_magical-beast) ( [aquatic](creatureTypes#_aquatic-subtype))
 
-**Init** +4; **Senses** darkvision 120 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +28
+**Init** +4; **Senses** darkvision 120 ft., low-light vision; [Perception](../skills_dir/perception#_perception) +28
 
 **Defense**
 
@@ -28,7 +28,7 @@ NE Gargantuan [magical beast](creatureTypes#_magical-beast) ( [aquatic](creature
 
 **Speed** 10 ft., swim 40 ft., jet 280 ft.
 
-**Melee** 2 arms +26 (2d6+10/19–20 plus [grab](universalMonsterRules#_grab)), 8 tentacles +24 (1d8+5 plus [grab](universalMonsterRules#_grab)), bite +26 (2d8+10)
+**Melee** 2 arms +26 (2d6+10_dir/19–20 plus [grab](universalMonsterRules#_grab)), 8 tentacles +24 (1d8+5 plus [grab](universalMonsterRules#_grab)), bite +26 (2d8+10)
 
 **Space** 20 ft.; **Reach** 20 ft. (60 ft. with arm, 40 ft. with tentacle)
 
@@ -36,7 +36,7 @@ NE Gargantuan [magical beast](creatureTypes#_magical-beast) ( [aquatic](creature
 
 **Spell-Like Abilities** (CL 15th)
 
-1/day—_ [control weather](../spell_dir/controlWeather#_control-weather), [control winds](../spell_dir/controlWinds#_control-winds), [dominate monster](../spell_dir/dominateMonster#_dominate-monster)_ (DC 24, animal only), _ [resist energy](../spell_dir/resistEnergy#_resist-energy)_
+1_dir/day—_ [control weather](../spells_dir/controlWeather#_control-weather), [control winds](../spells_dir/controlWinds#_control-winds), [dominate monster](../spells_dir/dominateMonster#_dominate-monster)_ (DC 24, animal only), _ [resist energy](../spells_dir/resistEnergy#_resist-energy)_
 
 **Statistics**
 
@@ -46,7 +46,7 @@ NE Gargantuan [magical beast](creatureTypes#_magical-beast) ( [aquatic](creature
 
 **Feats** [Bleeding Critical](../feats#_bleeding-critical), [Blind-Fight](../feats#_blind-fight), [Cleave](../feats#_cleave), [Combat Expertise](../feats#_combat-expertise), [Critical Focus](../feats#_critical-focus), [Improved Critical](../feats#_improved-critical) (arm), [Improved Initiative](../feats#_improved-initiative), [Improved Trip](../feats#_improved-trip), [Multiattack](monsterFeats#_multiattack), [Power Attack](../feats#_power-attack)
 
-**Skills** [Intimidate](../skill_dir/intimidate#_intimidate) +25, [Knowledge](../skill_dir/knowledge#_knowledge) (geography) +25, [Knowledge](../skill_dir/knowledge#_knowledge) (nature) +25, [Perception](../skill_dir/perception#_perception) +28, [Stealth](../skill_dir/stealth#_stealth) +11, [Swim](../skill_dir/swim#_swim) +41, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device) +25
+**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +25, [Knowledge](../skills_dir/knowledge#_knowledge) (geography) +25, [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +25, [Perception](../skills_dir/perception#_perception) +28, [Stealth](../skills_dir/stealth#_stealth) +11, [Swim](../skills_dir/swim#_swim) +41, [Use Magic Device](../skills_dir/useMagicDevice#_use-magic-device) +25
 
 **Languages** Aquan, Common
 
@@ -62,11 +62,11 @@ NE Gargantuan [magical beast](creatureTypes#_magical-beast) ( [aquatic](creature
 
 **Special Abilities**
 
-**Ink Cloud (Ex)** A kraken can emit a cloud of black, venomous ink in an 80-foot spread once per minute as a free action while underwater. This cloud provides total concealment, which the kraken can use to escape a fight that is going badly. Creatures within the cloud are considered to be in darkness. In addition, the ink is toxic, functioning as contact poison against all creatures caught within it. The ink cloud persists for 1 minute before dispersing. The save DC against the poison effect is Constitution-based._Kraken Ink_: Ink cloud—contact; _save_ Fort DC 29; _frequency_ 1/round for 10 rounds; _effect_ 1 Str [damage](universalMonsterRules#_ability-damage-and-drain) plus nausea; _cure_ 2 consecutive saves.
+**Ink Cloud (Ex)** A kraken can emit a cloud of black, venomous ink in an 80-foot spread once per minute as a free action while underwater. This cloud provides total concealment, which the kraken can use to escape a fight that is going badly. Creatures within the cloud are considered to be in darkness. In addition, the ink is toxic, functioning as contact poison against all creatures caught within it. The ink cloud persists for 1 minute before dispersing. The save DC against the poison effect is Constitution-based._Kraken Ink_: Ink cloud—contact; _save_ Fort DC 29; _frequency_ 1_dir/round for 10 rounds; _effect_ 1 Str [damage](universalMonsterRules#_ability-damage-and-drain) plus nausea; _cure_ 2 consecutive saves.
 
 **Jet (Ex)** A kraken can jet backward as a full-round action, at a speed of 280 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
 
-**Rend Ship (Ex)** As a full-round action, a kraken can attempt to use four of its tentacles to grapple a ship of its size or smaller. It makes a CMB check opposed by the ship's captain's [Profession](../skill_dir/profession#_profession) (sailor) check, but the kraken gets a cumulative +4 bonus on the check for each size category smaller than Gargantuan the ship is. If the kraken grapples the ship, it holds the ship motionless; it can attack targets anywhere on or within the ship with its tentacles, but can only attack foes on deck with its free arms and can't attack foes at all with its beak. Each round it maintains its hold on the ship, it automatically inflicts bite damage on the ship's hull.
+**Rend Ship (Ex)** As a full-round action, a kraken can attempt to use four of its tentacles to grapple a ship of its size or smaller. It makes a CMB check opposed by the ship's captain's [Profession](../skills_dir/profession#_profession) (sailor) check, but the kraken gets a cumulative +4 bonus on the check for each size category smaller than Gargantuan the ship is. If the kraken grapples the ship, it holds the ship motionless; it can attack targets anywhere on or within the ship with its tentacles, but can only attack foes on deck with its free arms and can't attack foes at all with its beak. Each round it maintains its hold on the ship, it automatically inflicts bite damage on the ship's hull.
 
 **Tenacious Grapple (Ex)** A kraken does not gain the grappled condition if it grapples a foe with its arms or tentacles.
 

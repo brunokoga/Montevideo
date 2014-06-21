@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/displacement
+title: spells_dir/displacement
 ---
  **Displacement**
 
-**School** illusion (glamer); **Level** bard 3, sorcerer/wizard 3
+**School** illusion (glamer); **Level** bard 3, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spell_dir/displacement
 
 **Target** creature touched
 
-**Duration** 1 roun_dir/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

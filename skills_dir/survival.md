@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skill_dir/survival
+title: skills_dir/survival
 ---
 # Survival
 

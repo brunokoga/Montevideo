@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/lightningArc
+title: mythicAdventures_dir/mythicSpells_dir/lightningArc
 ---
 Lightning Arc
 
-**Source** [_lightning arc_](ultimateMagi_dir/spells/lightningArc#_lightning-arc)
+**Source** [_lightning arc_](ultimateMagic_dir/spells_dir/lightningArc#_lightning-arc)
 
 The damage dealt increases to 1d8 points of electricity damage per caster level (maximum 15d8). A target that fails its save is blinded by the flash for 1 round and deafened by thunder for 1d4 rounds.
 

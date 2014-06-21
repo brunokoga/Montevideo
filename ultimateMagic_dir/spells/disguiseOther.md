@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/disguiseOther
+title: ultimateMagic_dir/spells_dir/disguiseOther
 ---
 Disguise Other
 
-**School** illusion (glamer); **Level** bard 2, inquisitor 2, sorcere_dir/wizard 2
+**School** illusion (glamer); **Level** bard 2, inquisitor 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Disguise Other
 
 **Target** creature touched
 
-**Duration** 10 minute/level (D)
+**Duration** 10 minute_dir/level (D)
 
-This spell functions as _ [disguise self](spell_dir/disguiseSelf#_disguise-self)_, except you can disguise either yourself or another creature.
+This spell functions as _ [disguise self](spells_dir/disguiseSelf#_disguise-self)_, except you can disguise either yourself or another creature.
 

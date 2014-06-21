@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/burningHands
+title: spells_dir/burningHands
 ---
  **Burning Hands**
 
-**School** evocation [fire]; **Level** sorcerer/wizard 1
+**School** evocation [fire]; **Level** sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 

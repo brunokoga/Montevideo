@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/screech
+title: advanced_dir/spells_dir/screech
 ---
  **Screech**
 

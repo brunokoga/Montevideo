@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/cureModerateWounds
+title: spells_dir/cureModerateWounds
 ---
  **Cure Moderate Wounds**
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/zoog
+title: bestiary3_dir/zoog
 ---
 # Zoog
 
@@ -12,7 +12,7 @@ XP 400
 
 CN Tiny magical beast
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent), spell sight; [Perception](skills/perception#_perception) +5
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent), spell sight; [Perception](skills_dir/perception#_perception) +5
 
 Defense
 
@@ -26,13 +26,13 @@ Offense
 
 **Speed** 30 ft., climb 30 ft.
 
-**Melee** bite +6 (1d3–2 plus [bleed](monster_dir/universalMonsterRules#_bleed) 1), 2 claws +6 (1d2–2)
+**Melee** bite +6 (1d3–2 plus [bleed](monsters_dir/universalMonsterRules#_bleed) 1), 2 claws +6 (1d2–2)
 
-**Special Attacks** [bleed](monsters/universalMonsterRules#_bleed) 1
+**Special Attacks** [bleed](monsters_dir/universalMonsterRules#_bleed) 1
 
 **Spell-Like Abilities** (CL 1st; concentration –2)
 
-Constant—_ [detect magic](spell_dir/detectMagic#_detect-magic)_, _ [speak with animals](spells/speakWithAnimals#_speak-with-animals)_
+Constant—_ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
 
 Statistics
 
@@ -42,9 +42,9 @@ Statistics
 
 **Feats** [Weapon Finesse](feats#_weapon-finesse)
 
-**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +12, [Climb](skills/climb#_climb) +12, [Perception](skill_dir/perception#_perception) +5; **Racial Modifiers** +6 [Acrobatics](skills/acrobatics#_acrobatics), +6 [Climb](skill_dir/climb#_climb)
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +12, [Climb](skills_dir/climb#_climb) +12, [Perception](skills_dir/perception#_perception) +5; **Racial Modifiers** +6 [Acrobatics](skills_dir/acrobatics#_acrobatics), +6 [Climb](skills_dir/climb#_climb)
 
-**Languages** Aklo; _ [speak with animals](spells/speakWithAnimals#_speak-with-animals)_
+**Languages** Aklo; _ [speak with animals](spells_dir/speakWithAnimals#_speak-with-animals)_
 
 **SQ** otherworldly touch
 
@@ -58,7 +58,7 @@ Ecology
 
 Special Abilities
 
-**Otherworldly Touch (Ex)** A zoog's natural attacks can strike [incorporeal](monster_dir/creatureTypes#_incorporeal-subtype) creatures as if they were _ [ghost touch](magicItems/weapons#_weapons-ghost-touch)_ weapons.
+**Otherworldly Touch (Ex)** A zoog's natural attacks can strike [incorporeal](monsters_dir/creatureTypes#_incorporeal-subtype) creatures as if they were _ [ghost touch](magicItems_dir/weapons#_weapons-ghost-touch)_ weapons.
 
 **Spell Sight (Su)** A zoog's eyes radiate normal light in a 15-foot cone and increase the light level by one step for an additional 15 feet beyond that area. Any magic effect in this area glows faintly. This glow does not reveal the magic effect's school or strength. A zoog can quell or renew this light as a swift action.
 

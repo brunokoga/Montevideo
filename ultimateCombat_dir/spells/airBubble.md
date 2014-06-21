@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/airBubble
+title: ultimateCombat_dir/spells_dir/airBubble
 ---
 Air Bubble
 
-**School** conjuration (creation); **Level** cleric 1, druid 1, ranger 1, sorcere_dir/wizard 1, witch 1
+**School** conjuration (creation); **Level** cleric 1, druid 1, ranger 1, sorcerer_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
-**Components** S, M/DF (a small bladder filled with [air](monster_dir/creatureTypes#_air-subtype))
+**Components** S, M_dir/DF (a small bladder filled with [air](monsters_dir/creatureTypes#_air-subtype))
 
 **Range** touch
 
 **Target** one creature or one object no larger than a Large two-handed weapon
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

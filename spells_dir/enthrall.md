@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/enthrall
+title: spells_dir/enthrall
 ---
  **Enthrall**
 
@@ -10,7 +10,7 @@ title: spell_dir/enthrall
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Targets** any number of creatures
 

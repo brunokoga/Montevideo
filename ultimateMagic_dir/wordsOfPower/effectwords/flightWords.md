@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/flightWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/flightWords
 ---
 ## Flight Words
 
@@ -8,9 +8,9 @@ These words allow those who know them to soar through the heavens—slowing fall
 
 Glide (Flight)
 
-**School** transmutation; **Level** alchemist 1, bard 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1
+**School** transmutation; **Level** alchemist 1, bard 1, magus 1, sorcerer_dir/wizard 1, summoner 1, witch 1
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -20,9 +20,9 @@ The target of a wordspell with this effect word falls at a rate of 20 feet per r
 
 Float (Flight)
 
-**School** transmutation; **Level** alchemist 2, bard 2, magus 2, sorcerer/wizard 2, summoner 2, witch 2
+**School** transmutation; **Level** alchemist 2, bard 2, magus 2, sorcerer_dir/wizard 2, summoner 2, witch 2
 
-**Duration** 1 minut_dir/level (D)
+**Duration** 1 minute_dir/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -32,13 +32,13 @@ The target of a wordspell with this effect word can float in the air, rising or 
 
 Soar (Flight)
 
-**School** transmutation; **Level** alchemist 3, cleric 4, magus 3, sorcerer/wizard 3, summoner 3, witch 3
+**School** transmutation; **Level** alchemist 3, cleric 4, magus 3, sorcerer_dir/wizard 3, summoner 3, witch 3
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
 **Target Restrictions** _selected_
 
-The target of a wordspell with this effect word gains a fly speed of 60 feet with average maneuverability (40 feet if encumbered or wearing medium or heavy armor). The target also receives an insight bonus on [Fly](skills/fly#_fly) skill checks equal to 1/2 the caster's level.
+The target of a wordspell with this effect word gains a fly speed of 60 feet with average maneuverability (40 feet if encumbered or wearing medium or heavy armor). The target also receives an insight bonus on [Fly](skills_dir/fly#_fly) skill checks equal to 1_dir/2 the caster's level.
 

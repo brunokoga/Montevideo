@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/ghostSound
+title: spells_dir/ghostSound
 ---
  **Ghost Sound**
 
-**School** illusion (figment); **Level** bard 0, sorcerer/wizard 0
+**School** illusion (figment); **Level** bard 0, sorcerer_dir/wizard 0
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a bit of wool or a small lump of wax)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** illusory sounds
 
-**Duration** 1 roun_dir/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) disbelief; **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: advance_dir/spells/fireBreath
+title: advanced_dir/spells_dir/fireBreath
 ---
  **Fire Breath**
 
-**School** evocation [fire]; **Level** alchemist 2, sorcere_dir/wizard 2
+**School** evocation [fire]; **Level** alchemist 2, sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/fireBreath
 
 **Area** cone-shaped burst
 
-**Duration** 1 round/level or until discharged; see text
+**Duration** 1 round_dir/level or until discharged; see text
 
 **Saving Throw** Reflex half; see text; **Spell Resistance** yes
 

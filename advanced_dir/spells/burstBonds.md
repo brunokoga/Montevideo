@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/burstBonds
+title: advanced_dir/spells_dir/burstBonds
 ---
  **Burst Bonds**
 

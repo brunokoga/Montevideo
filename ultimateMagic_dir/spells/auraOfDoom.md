@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/auraOfDoom
+title: ultimateMagic_dir/spells_dir/auraOfDoom
 ---
 Aura of Doom
 
@@ -8,13 +8,13 @@ Aura of Doom
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (powdered bone)
+**Components** V, S, M_dir/DF (powdered bone)
 
 **Range** personal
 
 **Area** 20-ft.-radius emanation centered on you
 
-**Duration** 10 minut_dir/level
+**Duration** 10 minute_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

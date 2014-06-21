@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/tick
+title: additionalMonsters_dir/tick
 ---
 # Tick, Giant
 
@@ -10,9 +10,9 @@ Giant TickCR 1
 
 **XP 400**
 
-N Small [vermin](monsters/creatureTypes#_vermin)
+N Small [vermin](monsters_dir/creatureTypes#_vermin)
 
-**Init** +0; **Senses** darkvision 60 ft., [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +0
+**Init** +0; **Senses** darkvision 60 ft., [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +0
 
 Defense
 
@@ -28,9 +28,9 @@ Offense
 
 **Speed** 20 ft., climb 20 ft.
 
-**Melee** bite +2 (1d4 plus [grab](monsters/universalMonsterRules#_grab), [attach](monster_dir/universalMonsterRules#_attach), and [disease](monsters/universalMonsterRules#_disease-(ex-or-su)))
+**Melee** bite +2 (1d4 plus [grab](monsters_dir/universalMonsterRules#_grab), [attach](monsters_dir/universalMonsterRules#_attach), and [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)))
 
-**Special Attacks** [blood drain](monster_dir/universalMonsterRules#_blood-drain) (1 Constitution)
+**Special Attacks** [blood drain](monsters_dir/universalMonsterRules#_blood-drain) (1 Constitution)
 
 Statistics
 
@@ -38,7 +38,7 @@ Statistics
 
 **Base Atk** +1; **CMB** +0 (+8 grapple); **CMD** 10 (22 vs. trip)
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb) +8, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +8; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +8, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +8; **Racial Modifiers** +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
 
 Ecology
 
@@ -50,9 +50,9 @@ Ecology
 
 Special Abilities
 
-**[Grab](monsters/universalMonsterRules#_grab) (Ex)** A giant tick can [grab](monster_dir/universalMonsterRules#_grab) targets of any size, and has a +8 racial bonus on grapple checks rather than the normal +4 bonus most creatures with [grab](monsters/universalMonsterRules#_grab) possess.
+**[Grab](monsters_dir/universalMonsterRules#_grab) (Ex)** A giant tick can [grab](monsters_dir/universalMonsterRules#_grab) targets of any size, and has a +8 racial bonus on grapple checks rather than the normal +4 bonus most creatures with [grab](monsters_dir/universalMonsterRules#_grab) possess.
 
-**[Disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)) (Ex)** _Red ache_: Bite—injury; _save_ Fort DC 13; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d6 Str damage; cure 2 consecutive saves. The DC is Constitution-based.
+**[Disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)) (Ex)** _Red ache_: Bite—injury; _save_ Fort DC 13; _onset_ 1d3 days; _frequency_ 1_dir/day; _effect_ 1d6 Str damage; cure 2 consecutive saves. The DC is Constitution-based.
 
 In areas where large creatures like megafauna or dinosaurs dwell, the giant tick behaves much like its smaller kin—it lies in wait in the undergrowth, and when a suitable host passes by, it drops onto the body to feed. In other areas, these vermin are much more aggressive, and actively hunt smaller prey like dogs, livestock, or even humanoids. A giant tick drains blood quickly, but once it has caused 6 points of Constitution damage, it drops off, sated, to crawl away to digest. A giant tick is 3 feet long and weighs 50 pounds.
 
@@ -64,9 +64,9 @@ Tick SwarmCR 9
 
 **XP 6,400**
 
-N Fine [vermin](monster_dir/creatureTypes#_vermin) ( [swarm](monsters/creatureTypes#_swarm-subtype))
+N Fine [vermin](monsters_dir/creatureTypes#_vermin) ( [swarm](monsters_dir/creatureTypes#_swarm-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft., [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +0
+**Init** +2; **Senses** darkvision 60 ft., [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +0
 
 Defense
 
@@ -76,7 +76,7 @@ Defense
 
 **Fort** +13, **Ref** +7, **Will** +5
 
-**Defensive Abilities** [swarm](monsters/creatureTypes#_swarm-subtype) traits
+**Defensive Abilities** [swarm](monsters_dir/creatureTypes#_swarm-subtype) traits
 
 **Immune** mind-affecting effects, weapon damage
 
@@ -84,9 +84,9 @@ Offense
 
 **Speed** 30 ft., climb 30 ft.
 
-**Melee** [swarm](monster_dir/creatureTypes#_swarm-subtype) (4d6 plus [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), [distraction](monster_dir/universalMonsterRules#_distraction), and [blood drain](monsters/universalMonsterRules#_blood-drain))
+**Melee** [swarm](monsters_dir/creatureTypes#_swarm-subtype) (4d6 plus [disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)), [distraction](monsters_dir/universalMonsterRules#_distraction), and [blood drain](monsters_dir/universalMonsterRules#_blood-drain))
 
-**Special Attacks** [blood drain](monster_dir/universalMonsterRules#_blood-drain) (1d4 Con), cling, [distraction](monsters/universalMonsterRules#_distraction) (DC 21)
+**Special Attacks** [blood drain](monsters_dir/universalMonsterRules#_blood-drain) (1d4 Con), cling, [distraction](monsters_dir/universalMonsterRules#_distraction) (DC 21)
 
 Statistics
 
@@ -94,7 +94,7 @@ Statistics
 
 **Base Atk** +12; **CMB** ­—; **CMD** —
 
-**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +10; **Racial Modifiers** uses Dex on [Climb](additionalMonsters/../skill_dir/climb#_climb) checks
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +10; **Racial Modifiers** uses Dex on [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) checks
 
 Ecology
 
@@ -106,9 +106,9 @@ Ecology
 
 Special Abilities
 
-**Cling (Ex)** If a creature leaves a tick [swarm](monsters/creatureTypes#_swarm-subtype)'s square, the [swarm](monster_dir/creatureTypes#_swarm-subtype) takes 1d6 points of damage to reflect the loss of its numbers as several ticks cling to the victim. A creature with ticks clinging to it takes [swarm](monsters/creatureTypes#_swarm-subtype) damage at the end of its turn each round. As a full round action, the creature can remove the ticks with a DC 20 Reflex save. At least 10 points of damage from any area effect destroys all clinging ticks. The save DC is Dexterity-based.
+**Cling (Ex)** If a creature leaves a tick [swarm](monsters_dir/creatureTypes#_swarm-subtype)'s square, the [swarm](monsters_dir/creatureTypes#_swarm-subtype) takes 1d6 points of damage to reflect the loss of its numbers as several ticks cling to the victim. A creature with ticks clinging to it takes [swarm](monsters_dir/creatureTypes#_swarm-subtype) damage at the end of its turn each round. As a full round action, the creature can remove the ticks with a DC 20 Reflex save. At least 10 points of damage from any area effect destroys all clinging ticks. The save DC is Dexterity-based.
 
-**[Disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)) (Ex)** _Bubonic Plague_: Bite—injury; _save_ Fort DC 21; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d4 Con damage, 1 Cha damage, fatigue; _cure_ 2 consecutive saves. The DC is Con-based.
+**[Disease](monsters_dir/universalMonsterRules#_disease-(ex-or-su)) (Ex)** _Bubonic Plague_: Bite—injury; _save_ Fort DC 21; _onset_ 1 day; _frequency_ 1_dir/day; _effect_ 1d4 Con damage, 1 Cha damage, fatigue; _cure_ 2 consecutive saves. The DC is Con-based.
 
 Tick swarms are merciless blights, able to quickly reduce the larger animal life of a region they infest to blood-drained, diseased husks.
 

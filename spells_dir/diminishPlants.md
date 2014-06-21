@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/diminishPlants
+title: spells_dir/diminishPlants
 ---
  **Diminish Plants**
 
@@ -24,7 +24,7 @@ _Prune Growth_: This version of the spell causes normal vegetation within long r
 
 At your option, the area can be a 100-foot-radius circle, a 150-foot-radius semicircle, or a 200-foot-radius quarter-circle. You may also designate portions of the area that are not affected.
 
-_Stunt Growth_: This version of the spell targets all normal plants within a range of 1/2 mile, reducing their potential productivity over the course of the following year to half normal.
+_Stunt Growth_: This version of the spell targets all normal plants within a range of 1_dir/2 mile, reducing their potential productivity over the course of the following year to half normal.
 
 This spell has no effect on plant creatures.
 

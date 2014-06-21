@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/monsterFeats
+title: monsters_dir/monsterFeats
 ---
 # Monster Feats
 
@@ -44,7 +44,7 @@ One of this creature's spell-like abilities is particularly potent and powerful.
 
 When a creature uses an empowered spell-like ability, all variable, numeric effects of the spell-like ability are increased by half (+50%). Saving throws and opposed rolls are not affected. Spell-like abilities without random variables are not affected.
 
-The creature can only select a spell-like ability duplicating a spell with a level less than or equal to 1/2 its caster level (round down) – 2. For a summary, see the table in the description of the [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability).
+The creature can only select a spell-like ability duplicating a spell with a level less than or equal to 1_dir/2 its caster level (round down) – 2. For a summary, see the table in the description of the [Quicken Spell-Like Ability](monsterFeats#_quicken-spell-like-ability).
 
 **Special** : This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different spell-like ability.
 
@@ -52,7 +52,7 @@ The creature can only select a spell-like ability duplicating a spell with a lev
 
 This creature can make an attack before and after it moves while flying.
 
-**Prerequisite** : [Fly](../skill_dir/fly#_fly) speed.
+**Prerequisite** : [Fly](../skills_dir/fly#_fly) speed.
 
 **Benefit** : When flying, the creature can take a move action and another standard action at any point during the move. The creature cannot take a second move action during a round when it makes a flyby attack.
 
@@ -62,13 +62,13 @@ This creature can make an attack before and after it moves while flying.
 
 This creature can hover in place with ease and can kick up clouds of dust and debris.
 
-**Prerequisite** : [Fly](../skill_dir/fly#_fly) speed.
+**Prerequisite** : [Fly](../skills_dir/fly#_fly) speed.
 
-**Benefit** : A creature with this feat can halt its movement while flying, allowing it to hover without needing to make a [Fly](../skill_dir/fly#_fly) skill check.
+**Benefit** : A creature with this feat can halt its movement while flying, allowing it to hover without needing to make a [Fly](../skills_dir/fly#_fly) skill check.
 
 If a creature of size Large or larger with this feat hovers within 20 feet of the ground in an area with lots of loose debris, the draft from its wings creates a hemispherical cloud with a radius of 60 feet. The winds generated can snuff torches, small campfires, exposed lanterns, and other small, open flames of non-magical origin. Clear vision within the cloud is limited to 10 feet. Creatures have concealment at 15 to 20 feet (20% miss chance). At 25 feet or more, creatures have total concealment (50% miss chance, and opponents cannot use sight to locate the creature).
 
-**Normal** : Without this feat, a creature must make a [Fly](../skill_dir/fly#_fly) skill check to hover and the creature does not create a cloud of debris while hovering.
+**Normal** : Without this feat, a creature must make a [Fly](../skills_dir/fly#_fly) skill check to hover and the creature does not create a cloud of debris while hovering.
 
 ## Improved Natural Armor
 
@@ -124,7 +124,7 @@ This creature can use one of its spell-like abilities with next to no effort.
 
 Using a quickened spell-like ability is a swift action that does not provoke an attack of opportunity. The creature can perform another action—including the use of another spell-like ability (but not another swift action)—in the same round that it uses a quickened spell-like ability. The creature may use only one quickened spell-like ability per round.
 
-The creature can only select a spell-like ability duplicating a spell with a level less than or equal to 1/2 its caster level (round down) – 4. For a summary, see the table below.
+The creature can only select a spell-like ability duplicating a spell with a level less than or equal to 1_dir/2 its caster level (round down) – 4. For a summary, see the table below.
 
 A spell-like ability that duplicates a spell with a casting time greater than 1 full round cannot be quickened.
 
@@ -160,9 +160,9 @@ The creature can drop a creature it has snatched as a free action or use a stand
 
 This creature can make turns with ease while flying.
 
-**Prerequisite** : [Fly](../skill_dir/fly#_fly) speed.
+**Prerequisite** : [Fly](../skills_dir/fly#_fly) speed.
 
-**Benefits** : Once each round, a creature with this feat can turn up to 180 degrees as a free action without making a [Fly](../skill_dir/fly#_fly) skill check. This free turn does not consume any additional movement from the creature.
+**Benefits** : Once each round, a creature with this feat can turn up to 180 degrees as a free action without making a [Fly](../skills_dir/fly#_fly) skill check. This free turn does not consume any additional movement from the creature.
 
-**Normal** : A flying creature can turn up to 90 degrees by making a DC 15 [Fly](../skill_dir/fly#_fly) skill check and expending 5 feet of movement. A flying creature can turn up to 180 degrees by making a DC 20 [Fly](../skill_dir/fly#_fly) skill check and expending 10 feet of movement.
+**Normal** : A flying creature can turn up to 90 degrees by making a DC 15 [Fly](../skills_dir/fly#_fly) skill check and expending 5 feet of movement. A flying creature can turn up to 180 degrees by making a DC 20 [Fly](../skills_dir/fly#_fly) skill check and expending 10 feet of movement.
 

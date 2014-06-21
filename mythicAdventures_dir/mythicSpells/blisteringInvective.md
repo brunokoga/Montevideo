@@ -1,12 +1,12 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/blisteringInvective
+title: mythicAdventures_dir/mythicSpells_dir/blisteringInvective
 ---
 Blistering Invective
 
-**Source** [_blistering invective_](ultimateComba_dir/spells/blisteringInvective#_blistering-invective)
+**Source** [_blistering invective_](ultimateCombat_dir/spells_dir/blisteringInvective#_blistering-invective)
 
-Enemies that are demoralized by your [Intimidate](skill_dir/intimidate#_intimidate) check take 2d8 points of fire damage and catch fire (no saving throw). Any Reflex save attempted to extinguish the flames automatically fails as long as the creature remains demoralized by your Intimidate check.
+Enemies that are demoralized by your [Intimidate](skills_dir/intimidate#_intimidate) check take 2d8 points of fire damage and catch fire (no saving throw). Any Reflex save attempted to extinguish the flames automatically fails as long as the creature remains demoralized by your Intimidate check.
 
 **Augmented (5th)** : If you expend two uses of mythic power, the spell doesn't have the language-dependent descriptor and you don't take a penalty on your Intimidate check to demoralize creatures that are larger than you.
 

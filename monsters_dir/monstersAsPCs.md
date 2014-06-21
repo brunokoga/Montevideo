@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/monstersAsPCs
+title: monsters_dir/monstersAsPCs
 ---
 # Monsters as PCs
 

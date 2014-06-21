@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/shieldOfFaith
+title: spells_dir/shieldOfFaith
 ---
  **Shield of Faith**
 
@@ -14,7 +14,7 @@ title: spell_dir/shieldOfFaith
 
 **Target** creature touched
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

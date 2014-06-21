@@ -1,6 +1,6 @@
 ---
 layout: default
-title: magicItem_dir/scrolls
+title: magicItems_dir/scrolls
 ---
 # Scrolls
 
@@ -34,13 +34,13 @@ title: magicItem_dir/scrolls
 
 A scroll is a spell (or collection of spells) that has been stored in written form. A spell on a scroll can be used only once. The writing vanishes from the scroll when the spell is activated. Using a scroll is basically like casting a spell. The price of a scroll is equal to the level of the spell × the creator's caster level × 25 gp. If the scroll has a material component cost, it is added to the base price and cost to create. Table: Scrolls gives sample prices for scrolls created at the lowest possible caster level for each spellcasting class. Note that some spells appear at different levels for different casters. The level of such spells depends on the caster scribing the scroll.
 
-**Physical Description** : A scroll is a heavy sheet of fine vellum or high-quality paper. An area about 8-1/2 inches wide and 11 inches long is sufficient to hold one spell. The sheet is reinforced at the top and bottom with strips of leather slightly longer than the sheet is wide. A scroll holding more than one spell has the same width (about 8-1/2 inches) but is an extra foot or so long for each additional spell. Scrolls that hold three or more spells are usually fitted with reinforcing rods at each end rather than simple strips of leather. A scroll has [AC](../combat#_armor-class) 9, 1 hit point, hardness 0, and a break DC of 8.
+**Physical Description** : A scroll is a heavy sheet of fine vellum or high-quality paper. An area about 8-1_dir/2 inches wide and 11 inches long is sufficient to hold one spell. The sheet is reinforced at the top and bottom with strips of leather slightly longer than the sheet is wide. A scroll holding more than one spell has the same width (about 8-1_dir/2 inches) but is an extra foot or so long for each additional spell. Scrolls that hold three or more spells are usually fitted with reinforcing rods at each end rather than simple strips of leather. A scroll has [AC](../combat#_armor-class) 9, 1 hit point, hardness 0, and a break DC of 8.
 
 To protect it from wrinkling or tearing, a scroll is rolled up from both ends to form a double cylinder. (This also helps the user unroll the scroll quickly.) The scroll is placed in a tube of ivory, jade, leather, metal, or wood. Most scroll cases are inscribed with magic symbols which often identify the owner or the spells stored on the scrolls inside. The symbols sometimes hide magic traps.
 
 **Activation** : To activate a scroll, a spellcaster must read the spell written on it. This involves several steps and conditions.
 
-_Decipher the Writing_: The writing on a scroll must be deciphered before a character can use it or know exactly what spell it contains. This requires a _ [read magic](../spell_dir/readMagic#_read-magic) _spell or a successful [Spellcraft](../skill_dir/spellcraft#_spellcraft) check (DC 20 + spell level). Deciphering a scroll is a full-round action.
+_Decipher the Writing_: The writing on a scroll must be deciphered before a character can use it or know exactly what spell it contains. This requires a _ [read magic](../spells_dir/readMagic#_read-magic) _spell or a successful [Spellcraft](../skills_dir/spellcraft#_spellcraft) check (DC 20 + spell level). Deciphering a scroll is a full-round action.
 
 Deciphering a scroll to determine its contents does not activate its magic unless it is a specially prepared cursed scroll. A character can decipher the writing on a scroll in advance so that she can proceed directly to the next step when the time comes to use the scroll.
 

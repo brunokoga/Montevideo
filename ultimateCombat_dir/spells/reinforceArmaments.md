@@ -1,21 +1,21 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/reinforceArmaments
+title: ultimateCombat_dir/spells_dir/reinforceArmaments
 ---
 Reinforce Armaments
 
-**School** transmutation; **Level** cleric 1, magus 1, sorcere_dir/wizard 1, witch 1
+**School** transmutation; **Level** cleric 1, magus 1, sorcerer_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF   
+**Components** V, S, M_dir/DF   
 (a metal pin)
 
 **Range** touch
 
 **Target** one armor suit or weapon touched
 
-**Duration** 10 minute_dir/level
+**Duration** 10 minutes_dir/level
 
 **Saving Throw** Will negates (harmless, object);   
 **Spell Resistance** yes (harmless, object)
@@ -24,7 +24,7 @@ You reinforce a weapon or armor suit to give it a temporarily upgrade or mitigat
 
 Reinforce Armaments, Communal
 
-**Level** cleric 2, magus 2, sorcerer/wizard 2, witch 2
+**Level** cleric 2, magus 2, sorcerer_dir/wizard 2, witch 2
 
 **Target** armor suits or weapons touched
 

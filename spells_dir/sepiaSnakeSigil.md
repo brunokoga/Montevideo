@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/sepiaSnakeSigil
+title: spells_dir/sepiaSnakeSigil
 ---
  **Sepia Snake Sigil**
 
-**School** conjuration (creation) [force]; **Level** bard 3, sorcerer/wizard 3
+**School** conjuration (creation) [force]; **Level** bard 3, sorcerer_dir/wizard 3
 
 **Casting Time** 10 minutes
 
@@ -14,7 +14,7 @@ title: spell_dir/sepiaSnakeSigil
 
 **Target** one touched book or written work
 
-**Duration** permanent or until discharged; until released or 1d4 days + 1 da_dir/level; see text
+**Duration** permanent or until discharged; until released or 1d4 days + 1 day_dir/level; see text
 
 **Saving Throw** [Reflex](../combat#_reflex) negates; **[Spell Resistance](../glossary#_spell-resistance)** no
 

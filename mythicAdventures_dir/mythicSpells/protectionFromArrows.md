@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/protectionFromArrows
+title: mythicAdventures_dir/mythicSpells_dir/protectionFromArrows
 ---
 Protection from Arrows
 
-**Source** [_protection from arrows_](spell_dir/protectionFromArrows#_protection-from-arrows)
+**Source** [_protection from arrows_](spells_dir/protectionFromArrows#_protection-from-arrows)
 
-The damage reduction increases to 15/magic. The maximum damage prevented by the spell increases to 15 points per caster level (maximum 150 points). If the spell prevents all damage from a ranged weapon attack, it turns the projectile or weapon back on the attacker, using the same attack roll result. If the attacker is also protected by _mythic protection from arrows_ and its spell completely prevents the damage from the rebounded attack, the weapon or projectile is destroyed.
+The damage reduction increases to 15_dir/magic. The maximum damage prevented by the spell increases to 15 points per caster level (maximum 150 points). If the spell prevents all damage from a ranged weapon attack, it turns the projectile or weapon back on the attacker, using the same attack roll result. If the attacker is also protected by _mythic protection from arrows_ and its spell completely prevents the damage from the rebounded attack, the weapon or projectile is destroyed.
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: monster_dir/aasimar
+title: monsters_dir/aasimar
 ---
 # Aasimar
 
 _This supernaturally beautiful woman looks human, yet emanates a strange sense of calm and benevolence._
 
-**Aasimar CR 1/2**
+**Aasimar CR 1_dir/2**
 
 **XP 200**
 
@@ -14,7 +14,7 @@ Aasimar cleric 1
 
 NG Medium [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-subtype))
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +5
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +5
 
 **Defense**
 
@@ -32,19 +32,19 @@ NG Medium [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-s
 
 **Melee** heavy mace –1 (1d8–1)
 
-**Ranged** light crossbow +0 (1d8/19–20)
+**Ranged** light crossbow +0 (1d8_dir/19–20)
 
-**Special Attacks** channel positive energy (5/day, 1d6, DC 12); rebuke death (1d4+1, 6/day); touch of good (6/day)
+**Special Attacks** channel positive energy (5_dir/day, 1d6, DC 12); rebuke death (1d4+1, 6_dir/day); touch of good (6_dir/day)
 
 **[Spell-Like Abilities](universalMonsterRules#_spell-like-abilities)** (CL 1st)
 
-1/day—_ [daylight](../spell_dir/daylight#_daylight)_
+1_dir/day—_ [daylight](../spells_dir/daylight#_daylight)_
 
 **Spells Prepared** (CL 1st)
 
-1st—_ [bless](../spell_dir/bless#_bless)_, _ [command](../spell_dir/command#_command)_ (DC 14), _ [protection from evil](../spell_dir/protectionFromEvil#_protection-from-evil)_D
+1st—_ [bless](../spells_dir/bless#_bless)_, _ [command](../spells_dir/command#_command)_ (DC 14), _ [protection from evil](../spells_dir/protectionFromEvil#_protection-from-evil)_D
 
-0 (at will)—_ [detect magic](../spell_dir/detectMagic#_detect-magic), [guidance](../spell_dir/guidance#_guidance), [stabilize](../spell_dir/stabilize#_stabilize)_
+0 (at will)—_ [detect magic](../spells_dir/detectMagic#_detect-magic), [guidance](../spells_dir/guidance#_guidance), [stabilize](../spells_dir/stabilize#_stabilize)_
 
 **D** domain spell; **Domains** Good, Healing
 
@@ -56,7 +56,7 @@ NG Medium [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-s
 
 **Feats** [Turn Undead](../feats#_turn-undead)
 
-**Skills** [Diplomacy](../skill_dir/diplomacy#_diplomacy) +8, [Heal](../skill_dir/heal#_heal) +7, [Knowledge](../skill_dir/knowledge#_knowledge) (religion) +5; **Racial Modifiers** +2 [Diplomacy](../skill_dir/diplomacy#_diplomacy), +2 [Perception](../skill_dir/perception#_perception)
+**Skills** [Diplomacy](../skills_dir/diplomacy#_diplomacy) +8, [Heal](../skills_dir/heal#_heal) +7, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +5; **Racial Modifiers** +2 [Diplomacy](../skills_dir/diplomacy#_diplomacy), +2 [Perception](../skills_dir/perception#_perception)
 
 **Languages** Celestial, Common, Draconic
 
@@ -80,9 +80,9 @@ Aasimars are defined by class levels—they do not possess racial Hit Dice. Aasi
 
 **Darkvision** : Aasimars can see in the dark up to 60 feet.
 
-**Skilled** : Aasimars have a +2 racial bonus on [Diplomacy](../skill_dir/diplomacy#_diplomacy) and [Perception](../skill_dir/perception#_perception) checks.
+**Skilled** : Aasimars have a +2 racial bonus on [Diplomacy](../skills_dir/diplomacy#_diplomacy) and [Perception](../skills_dir/perception#_perception) checks.
 
-**Spell-Like Ability** : Aasimars can use _ [daylight](../spell_dir/daylight#_daylight)_ once per day as a spell-like ability (caster level equals the aasimar's class level).
+**Spell-Like Ability** : Aasimars can use _ [daylight](../spells_dir/daylight#_daylight)_ once per day as a spell-like ability (caster level equals the aasimar's class level).
 
 **Celestial Resistance** : Aasimars have acid resistance 5, cold resistance 5, and electricity resistance 5.
 

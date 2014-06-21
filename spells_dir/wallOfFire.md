@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/wallOfFire
+title: spells_dir/wallOfFire
 ---
  **Wall of Fire**
 
-**School** evocation [fire]; **Level** druid 5, sorcerer/wizard 4
+**School** evocation [fire]; **Level** druid 5, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (a piece of phosphor)
+**Components** V, S, M_dir/DF (a piece of phosphor)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Effect** opaque sheet of flame up to 20 ft. lon_dir/level or a ring of fire with a radius of up to 5 ft./two levels; either form 20 ft. high
+**Effect** opaque sheet of flame up to 20 ft. long_dir/level or a ring of fire with a radius of up to 5 ft._dir/two levels; either form 20 ft. high
 
-**Duration** concentration + 1 roun_dir/level
+**Duration** concentration + 1 round_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

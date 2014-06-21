@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/nereid
+title: additionalMonsters_dir/nereid
 ---
 # Nereid
 
@@ -10,9 +10,9 @@ This beautiful woman has pearlescent skin and long, dark hair. Her nudity is bar
 
 **XP 9,600**
 
-CN Medium [fey](monsters/creatureTypes#_fey) (water)
+CN Medium [fey](monsters_dir/creatureTypes#_fey) (water)
 
-**Init** +9; **Senses** low-light vision; [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +21
+**Init** +9; **Senses** low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +21
 
 **Aura** beguiling aura (30-ft., DC 23)
 
@@ -24,7 +24,7 @@ Defense
 
 **Fort** +11, **Ref** +17, **Will** +14
 
-**Defensive Abilities** transparency; **DR** 10/cold iron; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype), [poison](monsters/universalMonsterRules#_poison-(ex-or-su)); **SR** 21
+**Defensive Abilities** transparency; **DR** 10_dir/cold iron; **Immune** [cold](monsters_dir/creatureTypes#_cold-subtype), [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)); **SR** 21
 
 **Weaknesses** shawl
 
@@ -32,17 +32,17 @@ Offense
 
 **Speed** 30 ft., swim 60 ft.
 
-**Melee** touch +10 ( [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** touch +10 ( [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
-**Ranged** spray +15 touch ( [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
+**Ranged** spray +15 touch ( [poison](monsters_dir/universalMonsterRules#_poison-(ex-or-su)))
 
 **Special Attacks** drowning kiss
 
 **Spell-Like Abilities** (CL 12th; concentration +17)
 
-At will—_ [control water](additionalMonster_dir/../spell_dir/controlWater#_control-water)_, _ [suggestion](additionalMonsters/../spell_dir/suggestion#_suggestion)_ (DC 18; only against creatures that are currently fascinated by her beguiling aura)
+At will—_ [control water](additionalMonsters_dir/../spells_dir/controlWater#_control-water)_, _ [suggestion](additionalMonsters_dir/../spells_dir/suggestion#_suggestion)_ (DC 18; only against creatures that are currently fascinated by her beguiling aura)
 
-1/day—_ [summon monster VI](additionalMonster_dir/../spell_dir/summonMonster#_summon-monster-vi)_ (water elementals only)
+1_dir/day—_ [summon monster VI](additionalMonsters_dir/../spells_dir/summonMonster#_summon-monster-vi)_ (water elementals only)
 
 Statistics
 
@@ -50,17 +50,17 @@ Statistics
 
 **Base Atk** +6; **CMB** +15; **CMD** 37
 
-**Feats** [Ability Focus](additionalMonsters/../monster_dir/monsterFeats#_ability-focus) (beguiling aura), [Agile Maneuvers](additionalMonsters/../feats#_agile-maneuvers), [Defensive Combat Training](additionalMonster_dir/../feats#_defensive-combat-training), [Dodge](additionalMonster_dir/../feats#_dodge), [Mobility](additionalMonster_dir/../feats#_mobility), [Weapon Finesse](additionalMonster_dir/../feats#_weapon-finesse)
+**Feats** [Ability Focus](additionalMonsters_dir/../monsters_dir/monsterFeats#_ability-focus) (beguiling aura), [Agile Maneuvers](additionalMonsters_dir/../feats#_agile-maneuvers), [Defensive Combat Training](additionalMonsters_dir/../feats#_defensive-combat-training), [Dodge](additionalMonsters_dir/../feats#_dodge), [Mobility](additionalMonsters_dir/../feats#_mobility), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Bluff](additionalMonster_dir/../skill_dir/bluff#_bluff) +20, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist) +24, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (nature) +17, [Perception](additionalMonsters/../skill_dir/perception#_perception) +21, [Perform](additionalMonsters/../skill_dir/perform#_perform) (sing) +20, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive) +21, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +24, [Swim](additionalMonsters/../skill_dir/swim#_swim) +23
+**Skills** [Bluff](additionalMonsters_dir/../skills_dir/bluff#_bluff) +20, [Escape Artist](additionalMonsters_dir/../skills_dir/escapeArtist#_escape-artist) +24, [Knowledge](additionalMonsters_dir/../skills_dir/knowledge#_knowledge) (nature) +17, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +21, [Perform](additionalMonsters_dir/../skills_dir/perform#_perform) (sing) +20, [Sense Motive](additionalMonsters_dir/../skills_dir/senseMotive#_sense-motive) +21, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +24, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +23
 
 **Languages** Aquan, Common, Sylvan
 
-**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (medium water [elemental](monster_dir/creatureTypes#_elemental-subtype), _ [elemental body II](additionalMonsters/../spell_dir/elementalBody#_elemental-body-ii)_), unearthly grace
+**SQ** [change shape](monsters_dir/universalMonsterRules#_change-shape) (medium water [elemental](monsters_dir/creatureTypes#_elemental-subtype), _ [elemental body II](additionalMonsters_dir/../spells_dir/elementalBody#_elemental-body-ii)_), unearthly grace
 
 Ecology
 
-**Environment** any [aquatic](monsters/creatureTypes#_aquatic-subtype)
+**Environment** any [aquatic](monsters_dir/creatureTypes#_aquatic-subtype)
 
 **Organization** solitary or troupe (1 nereid plus 1 giant squid, 1 giant octopus, 1 giant moray eel, or an orca)
 
@@ -68,11 +68,11 @@ Ecology
 
 Special Abilities
 
-**Beguiling Aura (Su)** Any creature sexually attracted to women runs the risk of being beguiled by a nereid if it looks upon her beauty from a distance of 30 feet or less. If the creature fails a DC 23 Will save, it is immediately fascinated. A nereid may use her _ [suggestion](additionalMonster_dir/../spell_dir/suggestion#_suggestion)_ spell-like ability at will against creatures that are fascinated by her beguiling aura. This is a mind-affecting compulsion effect. The save DC is Charisma-based.
+**Beguiling Aura (Su)** Any creature sexually attracted to women runs the risk of being beguiled by a nereid if it looks upon her beauty from a distance of 30 feet or less. If the creature fails a DC 23 Will save, it is immediately fascinated. A nereid may use her _ [suggestion](additionalMonsters_dir/../spells_dir/suggestion#_suggestion)_ spell-like ability at will against creatures that are fascinated by her beguiling aura. This is a mind-affecting compulsion effect. The save DC is Charisma-based.
 
 **Drowning Kiss (Su)** A nereid can flood the lungs of a willing, helpless, or fascinated creature by touching it (traditionally by kissing the creature on the lips). If the target cannot breathe water, it cannot hold its breath and immediately begins to drown. On its turn, the target can attempt a DC 23 Fortitude save to cough up this water; otherwise it falls unconscious at 0 hp. On the next round, the target must save again or drop to –1 hit points and be dying; on the third round it must save again or die. The save DC is Constitution-based.
 
-**Poison (Ex)** Touch or spray—contact (range 30-ft.); _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con plus blindness; _cure_ 2 consecutive saves.
+**Poison (Ex)** Touch or spray—contact (range 30-ft.); _save_ Fort DC 23; _frequency_ 1_dir/round for 6 rounds; _effect_ 1d2 Con plus blindness; _cure_ 2 consecutive saves.
 
 **Shawl (Ex)** A nereid's shawl (hardness 2, hp 6) contains a portion of her life force. If the shawl is ever destroyed, the nereid takes 1d6 points of Constitution drain per hour until she dies. A nereid can craft a new shawl from water by making a DC 25 Will save, but each attempt takes 1d4 hours to complete. Attempts to destroy or steal a nereid's shawl require the sunder or disarm attempts.
 

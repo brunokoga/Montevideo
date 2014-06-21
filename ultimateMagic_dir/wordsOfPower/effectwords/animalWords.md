@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/animalWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/animalWords
 ---
 ## Animal Words
 
@@ -10,7 +10,7 @@ Nature's Calm (Animal)
 
 **School** enchantment (charm) [mind-affecting]; **Level** druid 1, ranger 1, witch 1
 
-**Duration** 1 minute/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -22,7 +22,7 @@ Wild Lure (Animal)
 
 **School** enchantment (charm) [mind-affecting]; **Level** druid 2, ranger 2, witch 2
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -34,7 +34,7 @@ Nature's Command (Animal)
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** druid 4, ranger 4, summoner 5, witch 4
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

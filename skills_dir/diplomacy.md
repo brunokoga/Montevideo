@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skill_dir/diplomacy
+title: skills_dir/diplomacy
 ---
 # Diplomacy
 

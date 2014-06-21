@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/targetWords
+title: ultimateMagic_dir/wordsOfPower_dir/targetWords
 ---
 # Target Words
 
@@ -28,17 +28,17 @@ Selected
 
 **Level** 0
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 A wordspell with this target word affects a single target within range. If the wordspell deals energy damage, this word creates a ray that requires a ranged touch attack to hit, or it can be used as a melee touch attack with no range (decided by the wordcaster when the wordspell is cast). If it is used as a melee touch attack and the attack misses, the wordcaster can hold the charge and try again with subsequent attacks.
 
-**Boost** : Instead of one target, the wordspell affects up to one target per caster level, no two of which can be more than 30 feet apart. The range increases to medium (100 ft. + 10 ft./level). If used with an effect word that deals energy damage, the wordcaster must make multiple ray attacks for each target (they cannot be made as melee touch attacks). This boosted target word increases the level of all the effect words in the spell by 3 levels.
+**Boost** : Instead of one target, the wordspell affects up to one target per caster level, no two of which can be more than 30 feet apart. The range increases to medium (100 ft. + 10 ft._dir/level). If used with an effect word that deals energy damage, the wordcaster must make multiple ray attacks for each target (they cannot be made as melee touch attacks). This boosted target word increases the level of all the effect words in the spell by 3 levels.
 
 Barrier
 
 **Level** 3
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 A wordspell with this target word creates a visible barrier that is 10 feet long per caster level and 10 feet high. Creatures touching or passing through the barrier are subject to the spell's effect. The barrier does not hinder creatures passing through it unless noted in the spell effect. Creatures occupying the space of the barrier when it forms are subject to the spell's effect. The wall is 1 foot wide and must be anchored on a solid surface. The wall must be straight when formed.
 
@@ -48,13 +48,13 @@ Burst
 
 **Level** 1
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 A wordspell with this target word affects everything it catches in a 10-foot-radius burst. Some effect words that use the _burst_ target word are instead emanations, taking up the same area as the burst. These effect words typically have a longer duration and cannot be moved once created. They are noted by the word “emanation” in parentheses after the _burst_ target restriction.
 
-**Boost** : The spell affects everything in a 20-foot-radius burst. Its range increases to medium (100 ft. + 10 ft./level). Boosting this target word increases its level by 2.
+**Boost** : The spell affects everything in a 20-foot-radius burst. Its range increases to medium (100 ft. + 10 ft._dir/level). Boosting this target word increases its level by 2.
 
-**Boost** : The spell affects everything in a 40-foot-radius burst. Its range increases to long (400 ft. + 40 ft./level). Boosting this target word increases its level by 4.
+**Boost** : The spell affects everything in a 40-foot-radius burst. Its range increases to long (400 ft. + 40 ft._dir/level). Boosting this target word increases its level by 4.
 
 Cone
 

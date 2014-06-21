@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/wight
+title: monsters_dir/wight
 ---
 # Wight
 
@@ -12,7 +12,7 @@ _The flesh of this walking corpse is rotting and putrid, its body skeletal in pl
 
 LE Medium [undead](creatureTypes#_undead)
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +11
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +11
 
 **Defense**
 
@@ -40,9 +40,9 @@ LE Medium [undead](creatureTypes#_undead)
 
 **Base Atk** +3; **CMB** +4; **CMD** 15
 
-**Feats** [Blind-Fight](../feats#_blind-fight), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception))
+**Feats** [Blind-Fight](../feats#_blind-fight), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills_dir/perception#_perception))
 
-**Skills** [Intimidate](../skill_dir/intimidate#_intimidate) +9, [Knowledge](../skill_dir/knowledge#_knowledge) (religion) +7, [Perception](../skill_dir/perception#_perception) +11, [Stealth](../skill_dir/stealth#_stealth) +16; **Racial Modifier** +8 [Stealth](../skill_dir/stealth#_stealth)
+**Skills** [Intimidate](../skills_dir/intimidate#_intimidate) +9, [Knowledge](../skills_dir/knowledge#_knowledge) (religion) +7, [Perception](../skills_dir/perception#_perception) +11, [Stealth](../skills_dir/stealth#_stealth) +16; **Racial Modifier** +8 [Stealth](../skills_dir/stealth#_stealth)
 
 **Languages** Common
 
@@ -60,7 +60,7 @@ LE Medium [undead](creatureTypes#_undead)
 
 **Create Spawn (Su)** Any humanoid creature that is slain by a wight becomes a wight itself in only 1d4 rounds. Spawn so created are less powerful than typical wights, and suffer a –2 penalty on all d20 rolls and checks, as well as –2 hp per HD. Spawn are under the command of the wight that created them and remain enslaved until its death, at which point they lose their spawn penalties and become full-fledged and free-willed wights. They do not possess any of the abilities they had in life.
 
-**Resurrection Vulnerability (Su)** A _ [raise dead](../spell_dir/raiseDead#_raise-dead)_ or similar spell cast on a wight destroys it (Will negates). Using the spell in this way does not require a material component.
+**Resurrection Vulnerability (Su)** A _ [raise dead](../spells_dir/raiseDead#_raise-dead)_ or similar spell cast on a wight destroys it (Will negates). Using the spell in this way does not require a material component.
 
 Wights are humanoids who rise as undead due to necromancy, a violent death, or an extremely malevolent personality. In some cases, a wight arises when an evil undead spirit permanently bonds with a corpse, often the corpse of a slain warrior. They are barely recognizable to those who knew them in life; their flesh is twisted by evil and undeath, the eyes burn with hatred, and the teeth become beast-like. In some ways, a wight bridges the gap between a ghoul and a spectre—a warped animated corpse whose touch steals living energy.
 

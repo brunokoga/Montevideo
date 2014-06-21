@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/excruciatingDeformation
+title: ultimateMagic_dir/spells_dir/excruciatingDeformation
 ---
 Excruciating Deformation
 
-**School** transmutation (polymorph) [evil, pain]; **Level** sorcere_dir/wizard 3, witch 3
+**School** transmutation (polymorph) [evil, pain]; **Level** sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Excruciating Deformation
 
 **Target** creature touched
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 

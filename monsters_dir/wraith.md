@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/wraith
+title: monsters_dir/wraith
 ---
 # Wraith
 
@@ -12,7 +12,7 @@ _This ghostly creature is little more than a dark shape with two flickering pinp
 
 LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorporeal-subtype))
 
-**Init** +7; **Senses** darkvision 60 ft., lifesense; [Perception](../skill_dir/perception#_perception) +10
+**Init** +7; **Senses** darkvision 60 ft., lifesense; [Perception](../skills_dir/perception#_perception) +10
 
 **Aura** unnatural aura (30 ft.)
 
@@ -44,7 +44,7 @@ LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorpo
 
 **Feats** [Blind-Fight](../feats#_blind-fight), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative)
 
-**Skills** [Diplomacy](../skill_dir/diplomacy#_diplomacy) +10, [Fly](../skill_dir/fly#_fly) +7, [Intimidate](../skill_dir/intimidate#_intimidate) +13, [Knowledge](../skill_dir/knowledge#_knowledge) (planes) +7, [Perception](../skill_dir/perception#_perception) +10, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +10, [Stealth](../skill_dir/stealth#_stealth) +11
+**Skills** [Diplomacy](../skills_dir/diplomacy#_diplomacy) +10, [Fly](../skills_dir/fly#_fly) +7, [Intimidate](../skills_dir/intimidate#_intimidate) +13, [Knowledge](../skills_dir/knowledge#_knowledge) (planes) +7, [Perception](../skills_dir/perception#_perception) +10, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +10, [Stealth](../skills_dir/stealth#_stealth) +11
 
 **Languages** Common, Infernal
 
@@ -66,7 +66,7 @@ LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorpo
 
 **Sunlight Powerlessness (Ex)** A wraith caught in sunlight cannot attack and is staggered.
 
-**Unnatural Aura (Su)** Animals do not willingly approach within 30 feet of a wraith, unless a master makes a DC 25 [Handle Animal](../skill_dir/handleAnimal#_handle-animal), [Ride](../skill_dir/ride#_ride), or wild empathy check.
+**Unnatural Aura (Su)** Animals do not willingly approach within 30 feet of a wraith, unless a master makes a DC 25 [Handle Animal](../skills_dir/handleAnimal#_handle-animal), [Ride](../skills_dir/ride#_ride), or wild empathy check.
 
 Wraiths are undead creatures born of evil and darkness. They hate light and living things, as they have lost much of their connection to their former lives.
 

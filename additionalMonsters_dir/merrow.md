@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/merrow
+title: additionalMonsters_dir/merrow
 ---
 # Merrow
 
@@ -10,9 +10,9 @@ Merrow, FreshwaterCR 3
 
 **XP 800**
 
-NE Large [humanoid](monsters/creatureTypes#_humanoid) ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype), giant)
+NE Large [humanoid](monsters_dir/creatureTypes#_humanoid) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype), giant)
 
-**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
+**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5
 
 Defense
 
@@ -26,7 +26,7 @@ Offense
 
 **Speed** 40 ft., swim 40 ft.
 
-**Melee** 2 claws +6 (1d6+4 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** 2 claws +6 (1d6+4 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Ranged** javelin +6 (1d8+4)
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +8 (+12 grapple); **CMD** 22
 
-**Feats** [Iron Will](additionalMonster_dir/../feats#_iron-will), [Power Attack](additionalMonster_dir/../feats#_power-attack)
+**Feats** [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Power Attack](additionalMonsters_dir/../feats#_power-attack)
 
-**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +2 (+6 in water), [Swim](additionalMonsters/../skill_dir/swim#_swim) +12; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in water
+**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +5, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +2 (+6 in water), [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +12; **Racial Modifiers** +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) in water
 
 **Languages** Giant
 
@@ -58,9 +58,9 @@ Merrow, Saltwater CR 6
 
 **XP 2,400**
 
-NE Huge [humanoid](monsters/creatureTypes#_humanoid) ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype), giant)
+NE Huge [humanoid](monsters_dir/creatureTypes#_humanoid) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype), giant)
 
-**Init** +3; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
+**Init** +3; **Senses** low-light vision; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7
 
 Defense
 
@@ -74,7 +74,7 @@ Offense
 
 **Speed** 40 ft., swim 40 ft.
 
-**Melee** 2 claws +11 (1d8+7 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** 2 claws +11 (1d8+7 plus [grab](monsters_dir/universalMonsterRules#_grab))
 
 **Ranged** javelin +6 (2d6+7)
 
@@ -86,9 +86,9 @@ Statistics
 
 **Base Atk** +5; **CMB** +14 (+18 grapple); **CMD** 27
 
-**Feats** [Iron Will](additionalMonster_dir/../feats#_iron-will), [Power Attack](additionalMonster_dir/../feats#_power-attack), [Vital Strike](additionalMonster_dir/../feats#_vital-strike), [Weapon Focus](additionalMonster_dir/../feats#_weapon-focus) (claw)
+**Feats** [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Power Attack](additionalMonsters_dir/../feats#_power-attack), [Vital Strike](additionalMonsters_dir/../feats#_vital-strike), [Weapon Focus](additionalMonsters_dir/../feats#_weapon-focus) (claw)
 
-**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) –2 (+2 in water), [Swim](additionalMonsters/../skill_dir/swim#_swim) +15; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in water
+**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) –2 (+2 in water), [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +15; **Racial Modifiers** +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) in water
 
 **Languages** Giant
 

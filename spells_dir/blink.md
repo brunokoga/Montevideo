@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/blink
+title: spells_dir/blink
 ---
  **Blink**
 
-**School** transmutation; **Level** bard 3, sorcerer/wizard 3
+**School** transmutation; **Level** bard 3, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spell_dir/blink
 
 **Target** you
 
-**Duration** 1 roun_dir/level (D)
+**Duration** 1 round_dir/level (D)
 
 You “blink” quickly back and forth between the Material Plane and the Ethereal Plane and look as though you're winking in and out of reality at random. _Blink _has several effects, as follows.
 

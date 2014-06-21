@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/commune
+title: spells_dir/commune
 ---
  **Commune**
 
@@ -14,7 +14,7 @@ title: spell_dir/commune
 
 **Target** you
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 You contact your deity—or agents thereof—and ask questions that can be answered by a simple yes or no. (A cleric of no particular deity contacts a philosophically allied deity.) You are allowed one such question per caster level. The answers given are correct within the limits of the entity's knowledge. “Unclear” is a legitimate answer, because powerful beings of the Outer Planes are not necessarily omniscient. In cases where a one-word answer would be misleading or contrary to the deity's interests, a short phrase (five words or less) may be given as an answer instead.
 

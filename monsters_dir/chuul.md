@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/chuul
+title: monsters_dir/chuul
 ---
 # Chuul
 
@@ -12,7 +12,7 @@ _This lobster-like creature has a thick armored shell. A pair of tiny eyes gleam
 
 CE Large [aberration](creatureTypes#_aberration) (aquatic)
 
-**Init** +7; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +19
+**Init** +7; **Senses** darkvision 60 ft.; [Perception](../skills_dir/perception#_perception) +19
 
 **Defense**
 
@@ -42,7 +42,7 @@ CE Large [aberration](creatureTypes#_aberration) (aquatic)
 
 **Feats** [Alertness](../feats#_alertness), [Blind-Fight](../feats#_blind-fight), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Weapon Focus](../feats#_weapon-focus) (claw)
 
-**Skills** [Knowledge](../skill_dir/knowledge#_knowledge) (nature) +8, [Perception](../skill_dir/perception#_perception) +19, [Sense Motive](../skill_dir/senseMotive#_sense-motive) +9, [Stealth](../skill_dir/stealth#_stealth) +9, [Swim](../skill_dir/swim#_swim) +28
+**Skills** [Knowledge](../skills_dir/knowledge#_knowledge) (nature) +8, [Perception](../skills_dir/perception#_perception) +19, [Sense Motive](../skills_dir/senseMotive#_sense-motive) +9, [Stealth](../skills_dir/stealth#_stealth) +9, [Swim](../skills_dir/swim#_swim) +28
 
 **Languages** Common (sometimes Undercommon for subterranean variants)
 

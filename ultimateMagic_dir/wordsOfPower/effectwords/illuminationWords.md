@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/wordsOfPower/effectword_dir/illuminationWords
+title: ultimateMagic_dir/wordsOfPower_dir/effectwords_dir/illuminationWords
 ---
 ## Illumination Words
 
@@ -8,9 +8,9 @@ Illumination words can either create light or siphon it away, instead creating d
 
 Radiance (Illumination)
 
-**School** evocation; **Level** bard 1, cleric 1, druid 1, inquisitor 1, magus 1, sorcerer/wizard 1, witch 1
+**School** evocation; **Level** bard 1, cleric 1, druid 1, inquisitor 1, magus 1, sorcerer_dir/wizard 1, witch 1
 
-**Duration** 10 minute_dir/level
+**Duration** 10 minutes_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -20,9 +20,9 @@ The area of a wordspell with this effect word radiates light like a torch for th
 
 Gloom (Illumination)
 
-**School** evocation; **Level** bard 2, cleric 2, magus 2, sorcerer/wizard 2, witch 2
+**School** evocation; **Level** bard 2, cleric 2, magus 2, sorcerer_dir/wizard 2, witch 2
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -32,9 +32,9 @@ The target of a wordspell with this effect word radiates darkness out to a range
 
 Sunshine (Illumination)
 
-**School** evocation; **Level** bard 3, cleric 3, druid 3, paladin 3, sorcerer/wizard 3
+**School** evocation; **Level** bard 3, cleric 3, druid 3, paladin 3, sorcerer_dir/wizard 3
 
-**Duration** 10 minute_dir/level
+**Duration** 10 minutes_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

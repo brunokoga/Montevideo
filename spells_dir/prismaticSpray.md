@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/prismaticSpray
+title: spells_dir/prismaticSpray
 ---
  **Prismatic Spray**
 
-**School** evocation; **Level** sorcerer/wizard 7
+**School** evocation; **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 1 standard action
 
@@ -25,7 +25,7 @@ This spell causes seven shimmering, multicolored beams of light to spray from yo
 | 1 | Red | 20 points fire damage ( [Reflex](../combat#_reflex) half) |
 | 2 | Orange | 40 points acid damage ( [Reflex](../combat#_reflex) half) |
 | 3 | Yellow | 80 points electricity damage ( [Reflex](../combat#_reflex) half) |
-| 4 | Green | Poison (Frequency 1/rd. for 6 rd.; Init. effect death; Sec. effect 1 [Con](../gettingStarted#_constitution)/rd.; Cure 2 consecutive [Fort](../combat#_fortitude) saves)\* |
+| 4 | Green | Poison (Frequency 1_dir/rd. for 6 rd.; Init. effect death; Sec. effect 1 [Con](../gettingStarted#_constitution)_dir/rd.; Cure 2 consecutive [Fort](../combat#_fortitude) saves)\* |
 | 5 | Blue | _ [Flesh to stone](fleshToStone#_flesh-to-stone)_ ( [Fortitude](../combat#_fortitude) negates) |
 | 6 | Indigo | Insane, as [insanity](insanity#_insanity) spell ( [Will](../combat#_will) negates) |
 | 7 | Violet | Sent to another plane ( [Will](../combat#_will) negates) |

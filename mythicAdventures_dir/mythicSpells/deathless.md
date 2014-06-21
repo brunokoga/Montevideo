@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/deathless
+title: mythicAdventures_dir/mythicSpells_dir/deathless
 ---
 Deathless
 
-**School** necromancy; **Level** alchemist 4, cleric 4, inquisitor 4, sorcere_dir/wizard 4, witch 4
+**School** necromancy; **Level** alchemist 4, cleric 4, inquisitor 4, sorcerer_dir/wizard 4, witch 4
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Deathless
 
 **Target** living creature touched
 
-**Duration** 1 round/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 

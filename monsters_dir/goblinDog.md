@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/goblinDog
+title: monsters_dir/goblinDog
 ---
 # Goblin Dog
 
@@ -12,7 +12,7 @@ _This mangy canine's face has the same flat nose, beady eyes, and protruding tee
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +1
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +1
 
 **Defense**
 
@@ -38,7 +38,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Feats** [Toughness](../feats#_toughness)
 
-**Skills** [Stealth](../skill_dir/stealth#_stealth) +6
+**Skills** [Stealth](../skills_dir/stealth#_stealth) +6
 
 **Ecology**
 

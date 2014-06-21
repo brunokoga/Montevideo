@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/hideFromAnimals
+title: spells_dir/hideFromAnimals
 ---
  **Hide from Animals**
 
@@ -12,9 +12,9 @@ title: spell_dir/hideFromAnimals
 
 **Range** touch
 
-**Targets** one creature touched/level
+**Targets** one creature touched_dir/level
 
-**Duration** 10 min./level (D)
+**Duration** 10 min._dir/level (D)
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes
 

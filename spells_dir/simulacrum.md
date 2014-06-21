@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/simulacrum
+title: spells_dir/simulacrum
 ---
  **Simulacrum**
 
-**School** illusion (shadow); **Level** sorcerer/wizard 7
+**School** illusion (shadow); **Level** sorcerer_dir/wizard 7
 
 **Casting Time** 12 hours
 

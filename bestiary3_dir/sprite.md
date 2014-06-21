@@ -1,18 +1,18 @@
 ---
 layout: default
-title: bestiary3/sprite
+title: bestiary3_dir/sprite
 ---
 # Sprite
 
 This lithe, diminutive creature looks like a humanoid with wispy, mothlike wings and long, thin ears.
 
-Sprite CR 1/3
+Sprite CR 1_dir/3
 
 XP 135
 
 CN Diminutive fey
 
-**Init** +3; **Senses** _ [detect evil](spell_dir/detectEvil#_detect-evil)_, _ [detect good](spells/detectGood#_detect-good)_, low-light vision; [Perception](skill_dir/perception#_perception) +6
+**Init** +3; **Senses** _ [detect evil](spells_dir/detectEvil#_detect-evil)_, _ [detect good](spells_dir/detectGood#_detect-good)_, low-light vision; [Perception](skills_dir/perception#_perception) +6
 
 Defense
 
@@ -22,13 +22,13 @@ Defense
 
 **Fort** +0, **Ref** +5, **Will** +2
 
-**DR** 2/cold iron
+**DR** 2_dir/cold iron
 
 Offense
 
 **Speed** 15 ft., fly 60 ft. (perfect)
 
-**Melee** short sword +0 (1d2–4/19–20)
+**Melee** short sword +0 (1d2–4_dir/19–20)
 
 **Ranged** short bow +7 (1d2–4)
 
@@ -36,11 +36,11 @@ Offense
 
 **Spell-Like Abilities** (CL 5th; concentration +5)
 
-Constant—_ [detect evil](spell_dir/detectEvil#_detect-evil)_, _ [detect good](spells/detectGood#_detect-good)_
+Constant—_ [detect evil](spells_dir/detectEvil#_detect-evil)_, _ [detect good](spells_dir/detectGood#_detect-good)_
 
-At will—_ [dancing lights](spell_dir/dancingLights#_dancing-lights)_, _ [daze](spells/daze#_daze)_ (DC 10)
+At will—_ [dancing lights](spells_dir/dancingLights#_dancing-lights)_, _ [daze](spells_dir/daze#_daze)_ (DC 10)
 
-1/day—_ [color spray](spell_dir/colorSpray#_color-spray)_ (DC 11)
+1_dir/day—_ [color spray](spells_dir/colorSpray#_color-spray)_ (DC 11)
 
 Statistics
 
@@ -50,7 +50,7 @@ Statistics
 
 **Feats** [Alertness](feats#_alertness)
 
-**Skills** [Escape Artist](skills/escapeArtist#_escape-artist) +15, [Fly](skill_dir/fly#_fly) +21, [Perception](skills/perception#_perception) +6, [Sense Motive](skill_dir/senseMotive#_sense-motive) +2, [Stealth](skills/stealth#_stealth) +19
+**Skills** [Escape Artist](skills_dir/escapeArtist#_escape-artist) +15, [Fly](skills_dir/fly#_fly) +21, [Perception](skills_dir/perception#_perception) +6, [Sense Motive](skills_dir/senseMotive#_sense-motive) +2, [Stealth](skills_dir/stealth#_stealth) +19
 
 **Languages** Common, Sylvan
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: spell_dir/clenchedFist
+title: spells_dir/clenchedFist
 ---
  **Clenched Fist**
 
-**School** evocation [force]; **Level** sorcerer/wizard 8
+**School** evocation [force]; **Level** sorcerer_dir/wizard 8
 
-**Components** V, S, F/DF (a leather glove)
+**Components** V, S, F_dir/DF (a leather glove)
 
 This spell functions like _ [interposing hand](interposingHand#_interposing-hand), _except that the hand can also push or strike one opponent that you select. The floating hand can move as far as 60 feet and can attack in the same round. Since this hand is directed by you, its ability to notice or attack [invisible](../glossary#_invisible) or concealed creatures is no better than yours.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/poison
+title: spells_dir/poison
 ---
  **Poison**
 

@@ -1,18 +1,18 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicMonsters/ettin
+title: mythicAdventures_dir/mythicMonsters_dir/ettin
 ---
 # Ettin
 
 _Flies buzz around this bestial, two-headed giant, and maggots squirm in the folds of its skin. _
 
-Mythic Ettin CR 8/MR 3
+Mythic Ettin CR 8_dir/MR 3
 
 XP 4,800
 
-CE Large humanoid ( [giant](monster_dir/creatureTypes#_giant-subtype), [mythic](mythicAdventures/mythicMonsters#_mythic-subtype))
+CE Large humanoid ( [giant](monsters_dir/creatureTypes#_giant-subtype), [mythic](mythicAdventures_dir/mythicMonsters#_mythic-subtype))
 
-**Init** +3; **Senses** [low-light vision](monster_dir/universalMonsterRules#_low-light-vision); [Perception](skills/perception#_perception) +12
+**Init** +3; **Senses** [low-light vision](monsters_dir/universalMonsterRules#_low-light-vision); [Perception](skills_dir/perception#_perception) +12
 
 **Aura** stench (DC 17, 10 rounds)
 
@@ -24,19 +24,19 @@ Defense
 
 **Fort** +9, **Ref** +2, **Will** +5
 
-**Defensive Abilities** two brains; **DR** 5/epic
+**Defensive Abilities** two brains; **DR** 5_dir/epic
 
 Offense
 
 **Speed** 40 ft.
 
-**Melee** 2 flails +13/+13 (2d6+7)
+**Melee** 2 flails +13_dir/+13 (2d6+7)
 
 **Ranged** 2 javelins +5 (1d8+7)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** mythic power (3/day, surge +1d6), [powerful charge](monster_dir/universalMonsterRules#_powerful-charge) (flail, 4d6+10), superior two-weapon fighting
+**Special Attacks** mythic power (3_dir/day, surge +1d6), [powerful charge](monsters_dir/universalMonsterRules#_powerful-charge) (flail, 4d6+10), superior two-weapon fighting
 
 Statistics
 
@@ -44,15 +44,15 @@ Statistics
 
 **Base Atk** +7; **CMB** +15 (+17 overrun); **CMD** 24
 
-**Feats** [Cleave](mythicAdventures/mythicFeats#_cleave-mythic)M, [Improved Initiative](feats#_improved-initiative), [Improved Overrun](feats#_improved-overrun), [Iron Will](feats#_iron-will), [Power Attack](mythicAdventure_dir/mythicFeats#_power-attack-mythic)M
+**Feats** [Cleave](mythicAdventures_dir/mythicFeats#_cleave-mythic)M, [Improved Initiative](feats#_improved-initiative), [Improved Overrun](feats#_improved-overrun), [Iron Will](feats#_iron-will), [Power Attack](mythicAdventures_dir/mythicFeats#_power-attack-mythic)M
 
-**Skills** [Handle Animal](skills/handleAnimal#_handle-animal) +8, [Perception](skill_dir/perception#_perception) +12; **Racial Modifiers** +4 [Perception](skills/perception#_perception)
+**Skills** [Handle Animal](skills_dir/handleAnimal#_handle-animal) +8, [Perception](skills_dir/perception#_perception) +12; **Racial Modifiers** +4 [Perception](skills_dir/perception#_perception)
 
-**Languages** pidgin of [Giant](monster_dir/creatureTypes#_giant-subtype), Goblin, and [Orc](monsters/creatureTypes#_orc-subtype)
+**Languages** pidgin of [Giant](monsters_dir/creatureTypes#_giant-subtype), Goblin, and [Orc](monsters_dir/creatureTypes#_orc-subtype)
 
 Ecology
 
-**Environment** [cold](monster_dir/creatureTypes#_cold-subtype) hills
+**Environment** [cold](monsters_dir/creatureTypes#_cold-subtype) hills
 
 **Organization** solitary, pair, gang (3–6), troupe (1–2 plus 1–2 brown bears), band (3–6 plus 1–2 brown bears), or colony (3–6 plus 1–2 brown bears and 7–12 orcs or 9–16 goblins)
 
@@ -68,15 +68,15 @@ A mythic ettin is descended from a sordid lineage of mythic hill giants, mythic 
 
 Some mythic ettins are strongly related to one of their ancestral races, and have different mythic abilities.
 
-## Hillblood Ettin (CR 8/MR 3)
+## Hillblood Ettin (CR 8_dir/MR 3)
 
-A hill-giant-dominant mythic ettin loses its powerful charge and stench abilities but gains a [mythic hill giant's](mythicAdventure_dir/mythicMonsters/giants#_giant-hill) earth bond and ground pound abilities.
+A hill-giant-dominant mythic ettin loses its powerful charge and stench abilities but gains a [mythic hill giant's](mythicAdventures_dir/mythicMonsters_dir/giants#_giant-hill) earth bond and ground pound abilities.
 
-## Orcblood Ettin (CR 8/MR 3)
+## Orcblood Ettin (CR 8_dir/MR 3)
 
-An orc-dominant mythic ettin loses its stench and two brains abilities, but gains [blood rage](monster_dir/universalMonsterRules#_blood-rage) and [feral savagery](mythicAdventures/mythicMonsters#_feral-savagery).
+An orc-dominant mythic ettin loses its stench and two brains abilities, but gains [blood rage](monsters_dir/universalMonsterRules#_blood-rage) and [feral savagery](mythicAdventures_dir/mythicMonsters#_feral-savagery).
 
-## Stoneblood Ettin (CR 8/MR 3)
+## Stoneblood Ettin (CR 8_dir/MR 3)
 
 A stone giant-dominant mythic ettin loses its powerful charge and stench abilities, but gains a stone giant's improved rock catching and rock throwing.
 

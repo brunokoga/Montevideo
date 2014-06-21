@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/magicJar
+title: spells_dir/magicJar
 ---
  **Magic Jar**
 
-**School** necromancy; **Level** sorcerer/wizard 5
+**School** necromancy; **Level** sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 
 **Components** V, S, F (a gem or crystal worth at least 100 gp)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target** one creature
 
-**Duration** 1 hou_dir/level or until you return to your body
+**Duration** 1 hour_dir/level or until you return to your body
 
 **Saving Throw** [Will](../combat#_will) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

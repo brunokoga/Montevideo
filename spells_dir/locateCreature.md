@@ -1,14 +1,14 @@
 ---
 layout: default
-title: spell_dir/locateCreature
+title: spells_dir/locateCreature
 ---
  **Locate Creature**
 
-**School** divination; **Level** bard 4, sorcerer/wizard 4
+**School** divination; **Level** bard 4, sorcerer_dir/wizard 4
 
 **Components** : V, S, M (fur from a bloodhound)
 
-**Duration** 10 min./level
+**Duration** 10 min._dir/level
 
 This spell functions like _ [locate object](locateObject#_locate-object), _except this spell locates a known creature. You slowly turn and sense when you are facing in the direction of the creature to be located, provided it is within range. You also know in which direction the creature is moving, if any.
 

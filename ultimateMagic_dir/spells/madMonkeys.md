@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/madMonkeys
+title: ultimateMagic_dir/spells_dir/madMonkeys
 ---
 Mad Monkeys
 
-**School** conjuration (summoning); **Level** bard 3, druid 3, sorcere_dir/wizard 3, summoner 3
+**School** conjuration (summoning); **Level** bard 3, druid 3, sorcerer_dir/wizard 3, summoner 3
 
 **Casting Time** 1 round
 
 **Components** V, S, DF
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** swarm of monkeys
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 

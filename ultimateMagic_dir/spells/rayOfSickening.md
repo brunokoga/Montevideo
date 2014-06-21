@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/rayOfSickening
+title: ultimateMagic_dir/spells_dir/rayOfSickening
 ---
 Ray of Sickening
 
-**School** necromancy; **Level** cleric 1, druid 1, sorcere_dir/wizard 1, summoner 1, witch 1
+**School** necromancy; **Level** cleric 1, druid 1, sorcerer_dir/wizard 1, summoner 1, witch 1
 
-This spell functions as _ [ray of exhaustion](spells/rayOfExhaustion#_ray-of-exhaustion)_, except the target is sickened if it fails its save and unaffected if it makes its save.
+This spell functions as _ [ray of exhaustion](spells_dir/rayOfExhaustion#_ray-of-exhaustion)_, except the target is sickened if it fails its save and unaffected if it makes its save.
 

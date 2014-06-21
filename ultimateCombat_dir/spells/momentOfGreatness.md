@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/momentOfGreatness
+title: ultimateCombat_dir/spells_dir/momentOfGreatness
 ---
 Moment of Greatness
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, cleric 1, sorcere_dir/wizard 1
+**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, cleric 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (rabbit fur)
+**Components** V, S, M_dir/DF (rabbit fur)
 
 **Range** 50 ft.
 
 **Target** The caster and allies within a 50-ft. burst centered on the caster
 
-**Duration** 1 minut_dir/level or until discharged
+**Duration** 1 minute_dir/level or until discharged
 
 **Saving Throw** none; **Spell Resistance** yes (harmless)
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/detectScrying
+title: spells_dir/detectScrying
 ---
  **Detect Scrying**
 
-**School** divination; **Level** bard 4, sorcerer/wizard 4
+**School** divination; **Level** bard 4, sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 

@@ -1,40 +1,40 @@
 ---
 layout: default
-title: ultimateComba_dir/classArchetypes
+title: ultimateCombat_dir/classArchetypes
 ---
 # Class Archetypes
 
 Archetypes are a quick and easy way to specialize characters of a given class, adding fun and flavorful new abilities to already established adventurers. The class archetypes and corresponding new abilities mentioned below are all included in this section, and characters may take more than one archetype as long as they meet the requirements.
 
-**[Alchemist](classArchetypes/alchemist)** : This section presents new discoveries, as well as the beastmorph and ragechemist archetypes.
+**[Alchemist](classArchetypes_dir/alchemist)** : This section presents new discoveries, as well as the beastmorph and ragechemist archetypes.
 
-**[Barbarian](classArchetype_dir/barbarian)** : This section includes new rage powers, as well as the armored hulk, scarred rager, sea reaver, titan mauler, true primitive, urban barbarian, and wild rager.
+**[Barbarian](classArchetypes_dir/barbarian)** : This section includes new rage powers, as well as the armored hulk, scarred rager, sea reaver, titan mauler, true primitive, urban barbarian, and wild rager.
 
-**[Bard](classArchetypes/bard)** : This section includes the archaeologist, daredevil, and dervish dancer.
+**[Bard](classArchetypes_dir/bard)** : This section includes the archaeologist, daredevil, and dervish dancer.
 
-**[Cavalier](classArchetype_dir/cavalier)** : This section includes new cavalier orders, plus the beast rider, emissary, gendarme, honor guard, luring cavalier, musketeer, standard bearer, and strategist.
+**[Cavalier](classArchetypes_dir/cavalier)** : This section includes new cavalier orders, plus the beast rider, emissary, gendarme, honor guard, luring cavalier, musketeer, standard bearer, and strategist.
 
-**[Cleric](classArchetypes/cleric)** : This section includes the crusader, divine strategist, evangelist, and merciful healer.
+**[Cleric](classArchetypes_dir/cleric)** : This section includes the crusader, divine strategist, evangelist, and merciful healer.
 
-**[Druid](classArchetype_dir/druid)** : This section includes the ape shaman, bat shaman, and boar shaman, as well as the world walker.
+**[Druid](classArchetypes_dir/druid)** : This section includes the ape shaman, bat shaman, and boar shaman, as well as the world walker.
 
-**[Fighter](classArchetypes/fighter)** : This section includes expanded weapon groups, plus the armor master, brawler, cad, dragoon, gladiator, tactician, thunderstriker, tower shield specialist, unarmed fighter, and unbreakable.
+**[Fighter](classArchetypes_dir/fighter)** : This section includes expanded weapon groups, plus the armor master, brawler, cad, dragoon, gladiator, tactician, thunderstriker, tower shield specialist, unarmed fighter, and unbreakable.
 
-**[Gunslinger](classArchetype_dir/gunslinger)** : This section includes the gun tank, musket master, mysterious stranger, and pistolero.
+**[Gunslinger](classArchetypes_dir/gunslinger)** : This section includes the gun tank, musket master, mysterious stranger, and pistolero.
 
-**[Inquisitor](classArchetypes/inquisitor)** : This section includes new inquisitions, plus the iconoclast, spellbreaker, and witch hunter.
+**[Inquisitor](classArchetypes_dir/inquisitor)** : This section includes new inquisitions, plus the iconoclast, spellbreaker, and witch hunter.
 
-**[Magus](classArchetype_dir/magus)** : This section includes new magus arcana, plus the kensai, myrmidarch, skirnir, and soul forger.
+**[Magus](classArchetypes_dir/magus)** : This section includes new magus arcana, plus the kensai, myrmidarch, skirnir, and soul forger.
 
-**[Monk](classArchetypes/monk)** : This section includes the flowing monk, maneuver master, martial artist, master of many styles, sensei, sohei, and tetori.
+**[Monk](classArchetypes_dir/monk)** : This section includes the flowing monk, maneuver master, martial artist, master of many styles, sensei, sohei, and tetori.
 
-**[Paladin](classArchetype_dir/paladin)** : This section includes the divine hunter, empyreal knight, holy gun, holy tactician, knight of the sepulcher, and sacred shield.
+**[Paladin](classArchetypes_dir/paladin)** : This section includes the divine hunter, empyreal knight, holy gun, holy tactician, knight of the sepulcher, and sacred shield.
 
-**[Ranger](classArchetypes/ranger)** : This section includes the battle scout, deep walker, falconer, trophy hunter, warden, and wild stalker.
+**[Ranger](classArchetypes_dir/ranger)** : This section includes the battle scout, deep walker, falconer, trophy hunter, warden, and wild stalker.
 
-**[Rogue](classArchetype_dir/rogue)** : This section includes new rogue talents, plus the bandit, chameleon, charlatan, driver, knife master, pirate, roof runner, sanctified rogue, and survivalist.
+**[Rogue](classArchetypes_dir/rogue)** : This section includes new rogue talents, plus the bandit, chameleon, charlatan, driver, knife master, pirate, roof runner, sanctified rogue, and survivalist.
 
-**[Wizard](classArchetypes/wizard)** : This section includes the arcane bomber, siege mage, and spellslinger.
+**[Wizard](classArchetypes_dir/wizard)** : This section includes the arcane bomber, siege mage, and spellslinger.
 
 ## Using Archetypes
 

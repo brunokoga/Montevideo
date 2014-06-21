@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/hippocampus
+title: additionalMonsters_dir/hippocampus
 ---
 # Hippocampus
 
@@ -10,9 +10,9 @@ This creature has the foreparts of a horse and the hindquarters of a fish. Its f
 
 **XP 400**
 
-N Large [magical beast](monsters/creatureTypes#_magical-beast) ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype))
+N Large [magical beast](monsters_dir/creatureTypes#_magical-beast) ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** –1; **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +6
+**Init** –1; **Senses** darkvision 60 ft., low-light vision, [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6
 
 Defense
 
@@ -36,9 +36,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +6; **CMD** 15
 
-**Feats** [Endurance](additionalMonsters/../feats#_endurance)
+**Feats** [Endurance](additionalMonsters_dir/../feats#_endurance)
 
-**Skills** [Perception](additionalMonster_dir/../skill_dir/perception#_perception) +6, [Swim](additionalMonsters/../skill_dir/swim#_swim) +11
+**Skills** [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +6, [Swim](additionalMonsters_dir/../skills_dir/swim#_swim) +11
 
 **SQ** water dependency
 
@@ -58,5 +58,5 @@ A hippocampus's scales vary in color from ivory to deep green to cerulean blue w
 
 The hippocampus is relatively easily trained—the amount of work and cost it requires is equivalent to what it takes to train a horse. As armor impacts the creature's swim speed, those who train hippocampi for war rarely bother to put barding on these creatures—when they do, they generally opt for the lightest armor, such as padded or leather barding. Mounted combat on a hippocampus is similar to fighting while riding a horse, although the hippocampus is a clumsy creature on land and cannot move at all out of the water if it has a rider weighing it down. Although a hippocampus has only two front legs, determine its carrying capacity as if it were a quadruped. Thus, a light load for a hippocampus is up to 228 pounds. Medium loads are up to 459 pounds, and heavy loads up to 690 pounds.
 
-A number of variant species of hippocampus exist, although the majority of these species differ from the creature presented here only in color and feat choice. Common feats other than [Endurance](additionalMonsters/../feats#_endurance) for alternative hippocampus species are [Great Fortitude](additionalMonster_dir/../feats#_great-fortitude), [Improved Initiative](additionalMonster_dir/../feats#_improved-initiative), [Iron Will](additionalMonster_dir/../feats#_iron-will), [Lightning Reflexes](additionalMonster_dir/../feats#_lightning-reflexes), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Swim](additionalMonster_dir/../skill_dir/swim#_swim)), and [Toughness](additionalMonsters/../feats#_toughness). A few species of hippocampus are heartier and tougher all around—these creatures are generally those found in colder waters and are known as polar hippocampi. A polar hippocampus has the advanced creature simple template. Most impressive of all are hippocampi that dwell in the deeper seas. These creatures, known as giant hippocampi, are much larger—to generate stats for a giant hippocampus, advance the standard hippocampus to Huge size and increase its Hit Dice to 10. A giant hippocampus is CR 8.
+A number of variant species of hippocampus exist, although the majority of these species differ from the creature presented here only in color and feat choice. Common feats other than [Endurance](additionalMonsters_dir/../feats#_endurance) for alternative hippocampus species are [Great Fortitude](additionalMonsters_dir/../feats#_great-fortitude), [Improved Initiative](additionalMonsters_dir/../feats#_improved-initiative), [Iron Will](additionalMonsters_dir/../feats#_iron-will), [Lightning Reflexes](additionalMonsters_dir/../feats#_lightning-reflexes), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Swim](additionalMonsters_dir/../skills_dir/swim#_swim)), and [Toughness](additionalMonsters_dir/../feats#_toughness). A few species of hippocampus are heartier and tougher all around—these creatures are generally those found in colder waters and are known as polar hippocampi. A polar hippocampus has the advanced creature simple template. Most impressive of all are hippocampi that dwell in the deeper seas. These creatures, known as giant hippocampi, are much larger—to generate stats for a giant hippocampus, advance the standard hippocampus to Huge size and increase its Hit Dice to 10. A giant hippocampus is CR 8.
 

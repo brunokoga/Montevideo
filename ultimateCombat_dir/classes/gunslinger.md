@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/classes/gunslinger
+title: ultimateCombat_dir/classes_dir/gunslinger
 ---
 # The Gunslinger
 
@@ -28,7 +28,7 @@ The following table lists the starting gold piece value for the new classes pres
 
 ## Class Skills
 
-The gunslinger's class skills are [Acrobatics](skill_dir/acrobatics#_acrobatics) (Dex), [Bluff](skills/bluff#_bluff) (Cha), [Climb](skill_dir/climb#_climb) (Str), [Craft](skills/craft#_craft) (Int), [Handle Animal](skill_dir/handleAnimal#_handle-animal) (Cha), [Heal](skills/heal#_heal) (Wis), [Intimidate](skill_dir/intimidate#_intimidate) (Cha), [Knowledge](skills/knowledge#_knowledge) (engineering) (Int), [Knowledge](skill_dir/knowledge#_knowledge) (local) (Int), [Perception](skills/perception#_perception) (Wis), [Profession](skill_dir/profession#_profession) (Wis), [Ride](skills/ride#_ride) (Dex), [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) (Dex), [Survival](skills/survival#_survival) (Wis), and [Swim](skill_dir/swim#_swim) (Str).
+The gunslinger's class skills are [Acrobatics](skills_dir/acrobatics#_acrobatics) (Dex), [Bluff](skills_dir/bluff#_bluff) (Cha), [Climb](skills_dir/climb#_climb) (Str), [Craft](skills_dir/craft#_craft) (Int), [Handle Animal](skills_dir/handleAnimal#_handle-animal) (Cha), [Heal](skills_dir/heal#_heal) (Wis), [Intimidate](skills_dir/intimidate#_intimidate) (Cha), [Knowledge](skills_dir/knowledge#_knowledge) (engineering) (Int), [Knowledge](skills_dir/knowledge#_knowledge) (local) (Int), [Perception](skills_dir/perception#_perception) (Wis), [Profession](skills_dir/profession#_profession) (Wis), [Ride](skills_dir/ride#_ride) (Dex), [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) (Dex), [Survival](skills_dir/survival#_survival) (Wis), and [Swim](skills_dir/swim#_swim) (Str).
 
 **Skill Ranks per Level** : 4 + Int modifier.
 
@@ -42,21 +42,21 @@ The gunslinger's class skills are [Acrobatics](skill_dir/acrobatics#_acrobatics)
 | 3rd | +3 | +3 | +3 | +1 | Deeds |
 | 4th | +4 | +4 | +4 | +1 | Bonus feat |
 | 5th | +5 | +4 | +4 | +1 | Gun training 1 |
-| 6th | +6/+1 | +5 | +5 | +2 | Nimble +2 |
-| 7th | +7/+2 | +5 | +5 | +2 | Deeds |
-| 8th | +8/+3 | +6 | +6 | +2 | Bonus feat |
-| 9th | +9/+4 | +6 | +6 | +3 | Gun training 2 |
-| 10th | +10/+5 | +7 | +7 | +3 | Nimble +3 |
-| 11th | +11/+6/+1 | +7 | +7 | +3 | Deeds |
-| 12th | +12/+7/+2 | +8 | +8 | +4 | Bonus feat |
-| 13th | +13/+8/+3 | +8 | +8 | +4 | Gun training 3 |
-| 14th | +14/+9/+4 | +9 | +9 | +4 | Nimble +4 |
-| 15th | +15/+10/+5 | +9 | +9 | +5 | Deeds |
-| 16th | +16/+11/+6/+1 | +10 | +10 | +5 | Bonus feat |
-| 17th | +17/+12/+7/+2 | +10 | +10 | +5 | Gun training 4 |
-| 18th | +18/+13/+8/+3 | +11 | +11 | +6 | Nimble +5 |
-| 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Deeds |
-| 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Bonus feat, true grit |
+| 6th | +6_dir/+1 | +5 | +5 | +2 | Nimble +2 |
+| 7th | +7_dir/+2 | +5 | +5 | +2 | Deeds |
+| 8th | +8_dir/+3 | +6 | +6 | +2 | Bonus feat |
+| 9th | +9_dir/+4 | +6 | +6 | +3 | Gun training 2 |
+| 10th | +10_dir/+5 | +7 | +7 | +3 | Nimble +3 |
+| 11th | +11_dir/+6_dir/+1 | +7 | +7 | +3 | Deeds |
+| 12th | +12_dir/+7_dir/+2 | +8 | +8 | +4 | Bonus feat |
+| 13th | +13_dir/+8_dir/+3 | +8 | +8 | +4 | Gun training 3 |
+| 14th | +14_dir/+9_dir/+4 | +9 | +9 | +4 | Nimble +4 |
+| 15th | +15_dir/+10_dir/+5 | +9 | +9 | +5 | Deeds |
+| 16th | +16_dir/+11_dir/+6_dir/+1 | +10 | +10 | +5 | Bonus feat |
+| 17th | +17_dir/+12_dir/+7_dir/+2 | +10 | +10 | +5 | Gun training 4 |
+| 18th | +18_dir/+13_dir/+8_dir/+3 | +11 | +11 | +6 | Nimble +5 |
+| 19th | +19_dir/+14_dir/+9_dir/+4 | +11 | +11 | +6 | Deeds |
+| 20th | +20_dir/+15_dir/+10_dir/+5 | +12 | +12 | +6 | Bonus feat, true grit |
 
 The following are class features of the gunslinger.
 
@@ -101,7 +101,7 @@ _Gunslinger Initiative (Ex)_: At 3rd level, as long as the gunslinger has at lea
   
   
 
-_Pistol-Whip (Ex)_: At 3rd level, the gunslinger can make a surprise melee attack with the butt or handle of her firearm as a standard action. When she does, she is considered to be proficient with the firearm as a melee weapon and gains a bonus on the attack and damage rolls equal to the enhancement bonus of the firearm. The damage dealt by the pistol-whip is of the bludgeoning type, and is determined by the size of the firearm. One-handed firearms deal 1d6 points of damage (1d4 if wielded by Small creatures) and two-handed firearms deal 1d10 points of damage (1d8 if wielded by Small creatures). Regardless of the gunslinger's size, the critical multiplier of this attack is 20/×2. If the attack hits, the gunslinger can make a combat maneuver check to knock the target prone as a free action. Performing this deed costs 1 grit point.
+_Pistol-Whip (Ex)_: At 3rd level, the gunslinger can make a surprise melee attack with the butt or handle of her firearm as a standard action. When she does, she is considered to be proficient with the firearm as a melee weapon and gains a bonus on the attack and damage rolls equal to the enhancement bonus of the firearm. The damage dealt by the pistol-whip is of the bludgeoning type, and is determined by the size of the firearm. One-handed firearms deal 1d6 points of damage (1d4 if wielded by Small creatures) and two-handed firearms deal 1d10 points of damage (1d8 if wielded by Small creatures). Regardless of the gunslinger's size, the critical multiplier of this attack is 20_dir/×2. If the attack hits, the gunslinger can make a combat maneuver check to knock the target prone as a free action. Performing this deed costs 1 grit point.
 
   
   
@@ -110,7 +110,7 @@ _Utility Shot (Ex)_: At 3rd level, if the gunslinger has at least 1 grit point, 
 
   
   
-> •  _Blast Lock_: The gunslinger makes an attack roll against a lock within the first range increment of her firearm. A Diminutive lock usually has AC 7, and larger locks have a lower AC. The lock gains a bonus to its AC against this attack based on its quality. A simple lock has a +10 bonus to AC, an average lock has a +15 bonus to AC, a good lock has a +20 bonus to AC, and a superior lock has a +30 bonus to AC. _ [Arcane lock](spell_dir/arcaneLock#_arcane-lock)_ grants a +10 bonus to the AC of a lock against this attack. On a hit, the lock is destroyed, and the object can be opened as if it were unlocked. On a miss, the lock is destroyed, but the object is jammed and still considered locked. It can still be unlocked by successfully performing this deed, by using the [Disable Device](skills/disableDevice#_disable-device) skill, or with the break DC, though the DC for either break or [Disable Device](skill_dir/disableDevice#_disable-device) or the AC increases by 10. A key, combination, or similar mechanical method of unlocking the lock no longer works, though _ [knock](spells/knock#_knock)_ can still be employed to bypass the lock, and the creator of an _ [arcane lock](spell_dir/arcaneLock#_arcane-lock)_ can still bypass the wards of that spell.
+> •  _Blast Lock_: The gunslinger makes an attack roll against a lock within the first range increment of her firearm. A Diminutive lock usually has AC 7, and larger locks have a lower AC. The lock gains a bonus to its AC against this attack based on its quality. A simple lock has a +10 bonus to AC, an average lock has a +15 bonus to AC, a good lock has a +20 bonus to AC, and a superior lock has a +30 bonus to AC. _ [Arcane lock](spells_dir/arcaneLock#_arcane-lock)_ grants a +10 bonus to the AC of a lock against this attack. On a hit, the lock is destroyed, and the object can be opened as if it were unlocked. On a miss, the lock is destroyed, but the object is jammed and still considered locked. It can still be unlocked by successfully performing this deed, by using the [Disable Device](skills_dir/disableDevice#_disable-device) skill, or with the break DC, though the DC for either break or [Disable Device](skills_dir/disableDevice#_disable-device) or the AC increases by 10. A key, combination, or similar mechanical method of unlocking the lock no longer works, though _ [knock](spells_dir/knock#_knock)_ can still be employed to bypass the lock, and the creator of an _ [arcane lock](spells_dir/arcaneLock#_arcane-lock)_ can still bypass the wards of that spell.
 > 
 >   
 > 
@@ -120,7 +120,7 @@ _Utility Shot (Ex)_: At 3rd level, if the gunslinger has at least 1 grit point, 
 > 
 > •  _Stop Bleeding_: The gunslinger makes a firearm attack and then presses the hot barrel against herself or an adjacent creature to staunch a bleeding wound. Instead of dealing damage, the shot ends a single bleed condition affecting the creature. The gunslinger does not have to make an attack roll when performing the deed in this way; she can instead shoot the firearm into the air, but that shot still uses up ammunition normally.  
 
-_Dead Shot (Ex)_: At 7th level, as a full-round action, the gunslinger can take careful aim and pool all of her attack potential into a single, deadly shot. When she does this, she shoots the firearm at a single target, but makes as many attack rolls as she can, based on her base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were making a full attack. If any of the attack rolls hit the target, the gunslinger's single attack is considered to have hit. For each additional successful attack roll beyond the first, the gunslinger increases the damage of the shot by the base damage dice of the firearm. For instance, if a 7th-level gunslinger firing a musket hits with both attacks, she does 2d12 points of damage with the shot, instead of 1d12 points of damage, before adding any damage modifiers. Precision damage and extra damage from weapon special abilities (such as _ [flaming](magicItems/weapons#_weapons-flaming)_) are added with damage modifiers and are not increased by this deed. If one or more rolls are critical threats, she confirms the critical once using her highest base attack bonus –5. For each critical threat beyond the first, she reduces this penalty by 1 (to a maximum of 0). The gunslinger only misfires on a dead shot if all the attack rolls are misfires. She cannot perform this deed with a blunderbuss or other scatter weapon when attacking creatures in a cone. The gunslinger must spend 1 grit point to perform this deed.
+_Dead Shot (Ex)_: At 7th level, as a full-round action, the gunslinger can take careful aim and pool all of her attack potential into a single, deadly shot. When she does this, she shoots the firearm at a single target, but makes as many attack rolls as she can, based on her base attack bonus. She makes the attack rolls in order from highest bonus to lowest, as if she were making a full attack. If any of the attack rolls hit the target, the gunslinger's single attack is considered to have hit. For each additional successful attack roll beyond the first, the gunslinger increases the damage of the shot by the base damage dice of the firearm. For instance, if a 7th-level gunslinger firing a musket hits with both attacks, she does 2d12 points of damage with the shot, instead of 1d12 points of damage, before adding any damage modifiers. Precision damage and extra damage from weapon special abilities (such as _ [flaming](magicItems_dir/weapons#_weapons-flaming)_) are added with damage modifiers and are not increased by this deed. If one or more rolls are critical threats, she confirms the critical once using her highest base attack bonus –5. For each critical threat beyond the first, she reduces this penalty by 1 (to a maximum of 0). The gunslinger only misfires on a dead shot if all the attack rolls are misfires. She cannot perform this deed with a blunderbuss or other scatter weapon when attacking creatures in a cone. The gunslinger must spend 1 grit point to perform this deed.
 
   
   
@@ -150,7 +150,7 @@ _Targeting (Ex)_: At 7th level, as a full-round action, the gunslinger can make 
 > 
 >   
 > 
-> •  _Wings_: On a hit, the target is damaged normally, and must make a DC 20 [Fly](skill_dir/fly#_fly) check or fall 20 ft.  
+> •  _Wings_: On a hit, the target is damaged normally, and must make a DC 20 [Fly](skills_dir/fly#_fly) check or fall 20 ft.  
 
 _Bleeding Wound (Ex)_: At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra bleed damage. The amount of bleed damage is equal to the gunslinger's Dexterity modifier. Alternatively, the gunslinger can spend 2 grit points to deal 1 point of Strength, Dexterity, or Constitution bleed damage (gunslinger's choice) instead. Creatures that are immune to sneak attacks are also immune to these types of bleed damage.
 
@@ -172,7 +172,7 @@ _Evasive (Ex)_: At 15th level, when the gunslinger has at least 1 grit point, sh
   
   
 
-_ [Menacing](advance_dir/magicItems/weapons#_menacing) Shot (Ex)_: At 15th level, the gunslinger can spend 1 grit point, shoot a firearm into the air, and affect all living creatures within a 30-foot-radius burst as if they were subject to the _ [fear](spell_dir/fear#_fear)_ spell. The DC of this effect is equal to 10 + 1/2 the gunslinger's level + the gunslinger's Wisdom modifier.
+_ [Menacing](advanced_dir/magicItems_dir/weapons#_menacing) Shot (Ex)_: At 15th level, the gunslinger can spend 1 grit point, shoot a firearm into the air, and affect all living creatures within a 30-foot-radius burst as if they were subject to the _ [fear](spells_dir/fear#_fear)_ spell. The DC of this effect is equal to 10 + 1_dir/2 the gunslinger's level + the gunslinger's Wisdom modifier.
 
   
   
@@ -187,12 +187,12 @@ _Cheat Death (Ex)_: At 19th level, whenever the gunslinger is reduced to 0 or fe
   
   
 
-_Death's Shot (Ex)_: At 19th level, when the gunslinger scores a critical hit, she can spend 1 grit point to deal normal damage, and the target must succeed at a Fortitude saving throw with a DC equal to 10 + 1/2 the gunslinger's level + the gunslinger's Dexterity modifier. On a failed saving throw, the target dies. This is a death attack. Performing this deed does not allow the gunslinger to regain grit from confirming a critical hit or making a killing blow.
+_Death's Shot (Ex)_: At 19th level, when the gunslinger scores a critical hit, she can spend 1 grit point to deal normal damage, and the target must succeed at a Fortitude saving throw with a DC equal to 10 + 1_dir/2 the gunslinger's level + the gunslinger's Dexterity modifier. On a failed saving throw, the target dies. This is a death attack. Performing this deed does not allow the gunslinger to regain grit from confirming a critical hit or making a killing blow.
 
   
   
 
-_Stunning Shot (Ex)_: At 19th level, when a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1/2 the gunslinger's level + the gunslinger's Wisdom modifier). If the creature fails, it is stunned for 1 round. Creatures that are immune to critical hits are also immune to this effect.
+_Stunning Shot (Ex)_: At 19th level, when a gunslinger hits a creature, she can spend 2 grit points to stun the creature for 1 round. The creature must make a Fortitude saving throw (the DC = 10 + 1_dir/2 the gunslinger's level + the gunslinger's Wisdom modifier). If the creature fails, it is stunned for 1 round. Creatures that are immune to critical hits are also immune to this effect.
 
   
   

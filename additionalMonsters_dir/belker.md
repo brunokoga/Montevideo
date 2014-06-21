@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/belker
+title: additionalMonsters_dir/belker
 ---
 # Belker
 
@@ -10,9 +10,9 @@ Dull, red eyes, grasping claws, and leathery wings give a demonic aspect to this
 
 **XP 2,400**
 
-NE Large [outsider](monsters/creatureTypes#_outsider) ( [air](monster_dir/creatureTypes#_air-subtype), [elemental](monsters/creatureTypes#_elemental-subtype), [evil](monster_dir/creatureTypes#_evil-subtype))
+NE Large [outsider](monsters_dir/creatureTypes#_outsider) ( [air](monsters_dir/creatureTypes#_air-subtype), [elemental](monsters_dir/creatureTypes#_elemental-subtype), [evil](monsters_dir/creatureTypes#_evil-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +11
+**Init** +5; **Senses** darkvision 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +11
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +9, **Ref** +11, **Will** +2
 
-**DR** 5/—
+**DR** 5_dir/—
 
 Offense
 
@@ -40,9 +40,9 @@ Statistics
 
 **Base Atk** +8; **CMB** +11; **CMD** 26 (can't be tripped)
 
-**Feats** [Combat Reflexes](additionalMonster_dir/../feats#_combat-reflexes), [Flyby Attack](additionalMonster_dir/../monster_dir/monsterFeats#_flyby-attack), [Multiattack](additionalMonsters/../monster_dir/monsterFeats#_multiattack), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Combat Reflexes](additionalMonsters_dir/../feats#_combat-reflexes), [Flyby Attack](additionalMonsters_dir/../monsters_dir/monsterFeats#_flyby-attack), [Multiattack](additionalMonsters_dir/../monsters_dir/monsterFeats#_multiattack), [Weapon Finesse](additionalMonsters_dir/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonster_dir/../skill_dir/acrobatics#_acrobatics) +16, [Fly](additionalMonsters/../skill_dir/fly#_fly) +22, [Perception](additionalMonsters/../skill_dir/perception#_perception) +11, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +16; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
+**Skills** [Acrobatics](additionalMonsters_dir/../skills_dir/acrobatics#_acrobatics) +16, [Fly](additionalMonsters_dir/../skills_dir/fly#_fly) +22, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +11, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +16; **Racial Modifiers** +4 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
 
 **Languages** Auran
 
@@ -50,7 +50,7 @@ Statistics
 
 Ecology
 
-**Environment** any (Plane of [Air](monsters/creatureTypes#_air-subtype))
+**Environment** any (Plane of [Air](monsters_dir/creatureTypes#_air-subtype))
 
 **Organization** solitary, pair, or clutch (3–4)
 
@@ -60,7 +60,7 @@ Special Abilities
 
 **Smoke Claws (Ex)** A belker using its smoke form ability can enter a target's square as a standard action that does not provoke attacks of opportunity. The target must make a DC 17 Fortitude save or inhale part of the creature. Smoke inside the victim solidifies into a claw and attacks the target from within, dealing 3d4 points of damage per round as a swift action. If the target moves, the belker may automatically move with the target (this movement does not count toward the belker's movement and does not provoke attacks of opportunity against the belker). Each round, the target can attempt another DC 17 Fortitude to cough out the belker's smoke, which ends the smoke claws attack and forces the belker into an adjacent square. Creatures that do not need to breathe are immune to this attack. The save DC is Constitution-based.
 
-**Smoke Form (Su)** A belker can switch from its normal form to one of pure smoke or back again a swift action. It can spend up to 20 rounds per day in smoke form. In smoke form, the belker acts as if under the effects of a _ [gaseous form](additionalMonster_dir/../spell_dir/gaseousForm#_gaseous-form)_ spell, except that it retains its natural fly speed of 50 feet (perfect).
+**Smoke Form (Su)** A belker can switch from its normal form to one of pure smoke or back again a swift action. It can spend up to 20 rounds per day in smoke form. In smoke form, the belker acts as if under the effects of a _ [gaseous form](additionalMonsters_dir/../spells_dir/gaseousForm#_gaseous-form)_ spell, except that it retains its natural fly speed of 50 feet (perfect).
 
 Belkers are hateful elemental air creatures resembling fiends made of smoke. Xenophobic in the extreme, they see most non-elemental creatures as threats, and stalk and kill any such intruders in their territory. Among their elemental kin, they especially hate djinn and jann. They tolerate air mephits, dust mephits, steam mephits, air elementals, and fire elementals, but given the choice, prefer the company of their own kind.
 

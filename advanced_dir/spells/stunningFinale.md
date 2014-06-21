@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/stunningFinale
+title: advanced_dir/spells_dir/stunningFinale
 ---
  **Stunning Finale**
 
@@ -10,7 +10,7 @@ title: advance_dir/spells/stunningFinale
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Targets** up to 3 creatures, no two of which can be more than 30 ft. apart
 

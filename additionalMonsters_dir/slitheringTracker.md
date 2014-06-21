@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/slitheringTracker
+title: additionalMonsters_dir/slitheringTracker
 ---
 # Slithering Tracker
 
@@ -10,9 +10,9 @@ Slithering TrackerCR 4
 
 **XP 1,200**
 
-N Small [ooze](monsters/creatureTypes#_ooze)
+N Small [ooze](monsters_dir/creatureTypes#_ooze)
 
-**Init** +4; **Senses** [blindsense](monster_dir/universalMonsterRules#_blindsense) 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
+**Init** +4; **Senses** [blindsense](monsters_dir/universalMonsterRules#_blindsense) 60 ft.; [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7
 
 Defense
 
@@ -22,15 +22,15 @@ Defense
 
 **Fort** +7, **Ref** +5, **Will** +1
 
-**Immune** mind-affecting effects, [ooze](monsters/creatureTypes#_ooze) traits
+**Immune** mind-affecting effects, [ooze](monsters_dir/creatureTypes#_ooze) traits
 
 Offense
 
 **Speed** 10 ft., climb 10 ft.
 
-**Melee** 2 slams +7 (1d6+3 plus [grab](monster_dir/universalMonsterRules#_grab) and paralysis)
+**Melee** 2 slams +7 (1d6+3 plus [grab](monsters_dir/universalMonsterRules#_grab) and paralysis)
 
-**Special Attacks** [blood drain](monsters/universalMonsterRules#_blood-drain) (1d2 Constitution), [grab](monster_dir/universalMonsterRules#_grab) (Colossal)
+**Special Attacks** [blood drain](monsters_dir/universalMonsterRules#_blood-drain) (1d2 Constitution), [grab](monsters_dir/universalMonsterRules#_grab) (Colossal)
 
 Statistics
 
@@ -38,9 +38,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +5 (+9 grapple); **CMD** 19 (can't be tripped)
 
-**Feats** [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception)), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonster_dir/../skill_dir/stealth#_stealth))
+**Feats** [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth))
 
-**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb) +11, [Perception](additionalMonsters/../skill_dir/perception#_perception) +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +20; **Racial Modifiers** +8 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +11, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +7, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +20; **Racial Modifiers** +8 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth)
 
 **Languages** Undercommon (cannot speak)
 
@@ -58,7 +58,7 @@ Special Abilities
 
 **Paralysis (Ex)** Any creature that is hit by a slithering tracker's slam attack comes into contact with the anesthetizing slime it secretes. The opponent must succeed on a DC 18 Fortitude save or be paralyzed—at the end of each round thereafter, the paralyzed victim can attempt a new Fortitude save to recover from this paralysis. When a victim recovers from a slithering tracker's paralysis, the victim is staggered for 1d6 rounds. This DC is Constitution-based.
 
-**Transparent (Ex)** Because of its lack of coloration, a slithering tracker is difficult to discern from its surroundings in most environments. The slithering tracker gains a +8 racial bonus on [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) checks as a result, and can move at full speed without taking a penalty on [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) checks. A creature that fails to notice a slithering tracker and walks into it automatically takes damage as if struck by the slithering tracker's slam attack and is immediately subject to a [grab](monsters/universalMonsterRules#_grab) attempt and paralysis by the [ooze](monster_dir/creatureTypes#_ooze).
+**Transparent (Ex)** Because of its lack of coloration, a slithering tracker is difficult to discern from its surroundings in most environments. The slithering tracker gains a +8 racial bonus on [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) checks as a result, and can move at full speed without taking a penalty on [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) checks. A creature that fails to notice a slithering tracker and walks into it automatically takes damage as if struck by the slithering tracker's slam attack and is immediately subject to a [grab](monsters_dir/universalMonsterRules#_grab) attempt and paralysis by the [ooze](monsters_dir/creatureTypes#_ooze).
 
 An alien inhabitant of the dark underworld, the slithering tracker is a glistening creature of transparent ooze, typically about 3 inches thick and at least 3 feet in diameter. When still, it looks like a wet patch of stone or a patch of condensation on a wall. Comparatively slow moving, the slithering tracker relies on its transparency and knack for ambushing to surprise prey.
 

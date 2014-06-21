@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/obscuringMist
+title: spells_dir/obscuringMist
 ---
  **Obscuring Mist**
 
-**School** conjuration (creation); **Level** cleric 1, druid 1, sorcerer/wizard 1
+**School** conjuration (creation); **Level** cleric 1, druid 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ title: spell_dir/obscuringMist
 
 **Effect** cloud spreads in 20-ft. radius from you, 20 ft. high
 
-**Duration** 1 min./level (D)
+**Duration** 1 min._dir/level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

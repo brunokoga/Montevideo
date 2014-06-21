@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/utterContempt
+title: ultimateMagic_dir/spells_dir/utterContempt
 ---
 Utter Contempt
 
-**School** enchantment [emotion]; **Level** antipaladin 3, bard 4, sorcere_dir/wizard 6
+**School** enchantment [emotion]; **Level** antipaladin 3, bard 4, sorcerer_dir/wizard 6
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (spittle)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one creature
 
-**Duration** 1 minut_dir/level
+**Duration** 1 minute_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

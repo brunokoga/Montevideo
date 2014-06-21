@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/kech
+title: bestiary3_dir/kech
 ---
 # Kech
 
@@ -12,7 +12,7 @@ XP 800
 
 NE Medium monstrous humanoid
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](skill_dir/perception#_perception) +10
+**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](skills_dir/perception#_perception) +10
 
 Defense
 
@@ -28,13 +28,13 @@ Offense
 
 **Melee** bite +5 (1d6+1), 2 claws +5 (1d4+1)
 
-**Ranged** longbow +6 (1d8/×3)
+**Ranged** longbow +6 (1d8_dir/×3)
 
 **Special Attacks** rend (2 claws 1d4 +1)
 
 **Spell-Like Abilities** (CL 4th; concentration +4)
 
-Constant—_ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace)_
+Constant—_ [pass without trace](spells_dir/passWithoutTrace#_pass-without-trace)_
 
 Statistics
 
@@ -44,7 +44,7 @@ Statistics
 
 **Feats** [Dodge](feats#_dodge), [Mobility](feats#_mobility)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +9 (+13 when jumping), [Climb](skill_dir/climb#_climb) +16, [Perception](skills/perception#_perception) +10, [Stealth](skill_dir/stealth#_stealth) +13 (+19 in forests and jungles); **Racial Modifiers** +2 [Perception](skills/perception#_perception), +4 [Stealth](skill_dir/stealth#_stealth) (+10 in forests and jungles)
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +9 (+13 when jumping), [Climb](skills_dir/climb#_climb) +16, [Perception](skills_dir/perception#_perception) +10, [Stealth](skills_dir/stealth#_stealth) +13 (+19 in forests and jungles); **Racial Modifiers** +2 [Perception](skills_dir/perception#_perception), +4 [Stealth](skills_dir/stealth#_stealth) (+10 in forests and jungles)
 
 **Languages** Kech
 

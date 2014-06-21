@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/repelWood
+title: mythicAdventures_dir/mythicSpells_dir/repelWood
 ---
 Repel Wood
 
-**Source** [_repel wood_](spell_dir/repelWood#_repel-wood)
+**Source** [_repel wood_](spells_dir/repelWood#_repel-wood)
 
 The casting time changes to 1 immediate action. You may cause one affected wooden object up to 5 inches in diameter to splinter and break.
 

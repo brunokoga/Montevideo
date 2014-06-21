@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/spitVenom
+title: ultimateMagic_dir/spells_dir/spitVenom
 ---
 Spit Venom
 
@@ -10,7 +10,7 @@ Spit Venom
 
 **Components** V
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** one stream of venom
 

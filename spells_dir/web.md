@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/web
+title: spells_dir/web
 ---
  **Web**
 
-**School** conjuration (creation); **Level** sorcerer/wizard 2
+**School** conjuration (creation); **Level** sorcerer_dir/wizard 2
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (spider web)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Effect** webs in a 20-ft.-radius spread
 
-**Duration** 10 min./level (D)
+**Duration** 10 min._dir/level (D)
 
 **Saving Throw** [Reflex](../combat#_reflex) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

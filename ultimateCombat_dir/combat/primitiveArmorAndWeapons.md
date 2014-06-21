@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/combat/primitiveArmorAndWeapons
+title: ultimateCombat_dir/combat_dir/primitiveArmorAndWeapons
 ---
 # Primitive Armor and Weapons
 
@@ -32,7 +32,7 @@ Bone weapons have half the hardness of their base weapons and have the fragile w
 
 **Armor** : Studded leather, scale mail, breastplates, and wooden shields can all be constructed using bone. Bone either replaces the metal components of the armor, or in the case of wooden shields, large pieces of bone or shell replace the wood.
 
-Bone armor has a hardness of 5 and has the fragile armor quality. Masterwork bone armor also has the fragile quality, but magic bone armor does not. The armo_dir/shield bonus of bone armor is reduced by 1, but in the case of studded leather, the armor check penalty is also reduced by 1 (to 0).
+Bone armor has a hardness of 5 and has the fragile armor quality. Masterwork bone armor also has the fragile quality, but magic bone armor does not. The armor_dir/shield bonus of bone armor is reduced by 1, but in the case of studded leather, the armor check penalty is also reduced by 1 (to 0).
 
 ## Bronze
 
@@ -54,7 +54,7 @@ Gold-plated items triple the base cost of weapons and armor and have the same pr
 
 Gold weapons have a hardness of half their base weapons' and also have the fragile quality.
 
-**Armor** : Gold can be fashioned into light or medium metal armor. The softness and the weight of the metal decrease the armor/shield bonus by 2, and increase the armor check penalty by 2. Gold armor has a hardness of 5.
+**Armor** : Gold can be fashioned into light or medium metal armor. The softness and the weight of the metal decrease the armor_dir/shield bonus by 2, and increase the armor check penalty by 2. Gold armor has a hardness of 5.
 
 ## Obsidian
 
@@ -94,11 +94,11 @@ For the sake of simplicity, when creating a currency for your Stone Age campaign
 
 The following weapons are also available in Stone Age campaigns.
 
-**Atlatl** : An atlatl is a thin piece of wood or antler used as a lever to hurl a specially fitted dart. An atlatl gives much greater range to a dart, but must be loaded like a projectile weapon. Your Strength modifier applies to damage rolls when you use an atlatl, just as it does for thrown weapons. You can fire—but not load—an atlatl with one hand. Loading an atlatl is a move action that requires two hands and provokes attacks of opportunity. The [Rapid Reload](ultimateComba_dir/ultimateCombatFeats#_rapid-reload-(combat)) feat can be taken for atlatls, allowing you to load a dart as a free action. Atlatl darts are the size of javelins but have fletching, and can be used as javelins without an atlatl.
+**Atlatl** : An atlatl is a thin piece of wood or antler used as a lever to hurl a specially fitted dart. An atlatl gives much greater range to a dart, but must be loaded like a projectile weapon. Your Strength modifier applies to damage rolls when you use an atlatl, just as it does for thrown weapons. You can fire—but not load—an atlatl with one hand. Loading an atlatl is a move action that requires two hands and provokes attacks of opportunity. The [Rapid Reload](ultimateCombat_dir/ultimateCombatFeats#_rapid-reload-(combat)) feat can be taken for atlatls, allowing you to load a dart as a free action. Atlatl darts are the size of javelins but have fletching, and can be used as javelins without an atlatl.
 
 **Mere Club** : Traditionally made of sturdy carved stone, a mere (MEH-reh) is a short, flat-sided, sharp-pointed club.
 
-**Taiaha** : A taiaha is a long, heavy stick, club-shaped at one end and tipped with a wooden or metal spear point at the other. You wield it with a combination of solid strikes with the club and fending motions with the spear. A taiaha can be wielded as a martial weapon that deals 1d8/×2 bludgeoning damage.
+**Taiaha** : A taiaha is a long, heavy stick, club-shaped at one end and tipped with a wooden or metal spear point at the other. You wield it with a combination of solid strikes with the club and fending motions with the spear. A taiaha can be wielded as a martial weapon that deals 1d8_dir/×2 bludgeoning damage.
 
 **Tepoztopilli** : The head of this wooden polearm is edged with jagged bits obsidian, glass, teeth, or similar materials. The wide head serves well for both piercing and slashing attacks.
 
@@ -117,9 +117,9 @@ The following weapons are also available in Stone Age campaigns.
 | Martial Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weightⁱ | Type⁲ | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | _One-Handed Melee Weapons_ |
-|   Terbutje | 5 gp | 1d6 | 1d8 | 19–20/×2 | — | 2 lbs. | S | fragile |
+|   Terbutje | 5 gp | 1d6 | 1d8 | 19–20_dir/×2 | — | 2 lbs. | S | fragile |
 | _Two-Handed Melee Weapons_ |
-|   Tepoztopilli | 8 gp | 1d8 | 1d10 | 19–20/×2 | — | 8 lbs. | P or S | fragile, reach |
+|   Tepoztopilli | 8 gp | 1d8 | 1d10 | 19–20_dir/×2 | — | 8 lbs. | P or S | fragile, reach |
 | _Ranged Weapons_ |
 |   Atlatl | 2 gp | 1d4 | 1d6 | ×2 | 50 ft. | 2 lbs. | P | — |
 |   Atlatl dart | 1 gp | — | — | — | — | 2 lbs. | — | — |
@@ -127,8 +127,8 @@ The following weapons are also available in Stone Age campaigns.
 | Exotic Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weightⁱ | Type⁲ | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | _One-Handed Melee Weapons_ |
-|   Taiaha | 10 gp | 1d8/1d4 | 1d10/1d6 | ×2/×3 | — | 8 lbs. | B or P | double |
-|   Terbutje, great | 12 gp | 1d8 | 1d10 | 19–20/×2 | — | 4 lbs. | S | fragile |
+|   Taiaha | 10 gp | 1d8_dir/1d4 | 1d10_dir/1d6 | ×2_dir/×3 | — | 8 lbs. | B or P | double |
+|   Terbutje, great | 12 gp | 1d8 | 1d10 | 19–20_dir/×2 | — | 4 lbs. | S | fragile |
 |   Wahaika | 3 gp | 1d4 | 1d6 | ×2 | 10 ft. | 3 lbs. | B | disarm |
 
 # The Bronze Age
@@ -172,7 +172,7 @@ A harpoon's weight includes the weight of 50 feet of hemp rope. It can be reduce
 
 There are two ways for an item to gain the broken condition. One is for the weapon to take damage from an attack or attacks that is in excess of half the weapon's hit points. The other is for the weapon to gain that condition from some effect. Both firearms and fragile weapons include effects that grant a weapon the broken condition without the weapon explicitly taking damage.
 
-If a weapon gains the broken condition from an effect, that weapon is considered to have taken damage equal to half its hit points +1. This damage is repaired either by something that addresses the effect that granted the weapon the broken condition (like quick clear in the case of firearm misfires or the [Field Repair](ultimateComba_dir/ultimateCombatFeats#_field-repair) feat in the case of weapons with the fragile quality) or by the normal method for recovering item hit points (detailed in the broken condition description). When an effect that grants the broken condition is removed, the weapon regains the hit points it lost when the broken condition was applied.
+If a weapon gains the broken condition from an effect, that weapon is considered to have taken damage equal to half its hit points +1. This damage is repaired either by something that addresses the effect that granted the weapon the broken condition (like quick clear in the case of firearm misfires or the [Field Repair](ultimateCombat_dir/ultimateCombatFeats#_field-repair) feat in the case of weapons with the fragile quality) or by the normal method for recovering item hit points (detailed in the broken condition description). When an effect that grants the broken condition is removed, the weapon regains the hit points it lost when the broken condition was applied.
 
 Damage done by an attack against a weapon cannot be repaired by an effect that removes the broken condition.
 

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/shadowStep
+title: ultimateMagic_dir/spells_dir/shadowStep
 ---
 Shadow Step
 
-**School** illusion (shadow) [shadow]; **Level** bard 4, sorcere_dir/wizard 4, witch 4
+**School** illusion (shadow) [shadow]; **Level** bard 4, sorcerer_dir/wizard 4, witch 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
 **Target** you
 

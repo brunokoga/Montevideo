@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/createWater
+title: spells_dir/createWater
 ---
  **Create Water**
 
@@ -10,9 +10,9 @@ title: spell_dir/createWater
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
-**Effect** up to 2 gallons of wate_dir/level
+**Effect** up to 2 gallons of water_dir/level
 
 **Duration** instantaneous
 

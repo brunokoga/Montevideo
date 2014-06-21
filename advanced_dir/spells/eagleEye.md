@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/eagleEye
+title: advanced_dir/spells_dir/eagleEye
 ---
  **Eagle Eye**
 
@@ -10,11 +10,11 @@ title: advance_dir/spells/eagleEye
 
 **Component** V, S, DF
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Effect** magical sensor
 
-**Duration** 1 minut_dir/level (D)
+**Duration** 1 minute_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/exquisiteAccompaniment
+title: ultimateMagic_dir/spells_dir/exquisiteAccompaniment
 ---
 Exquisite Accompaniment
 
@@ -14,7 +14,7 @@ Exquisite Accompaniment
 
 **Effect** phantom instrument
 
-**Duration** 1 roun_dir/level (D)
+**Duration** 1 round_dir/level (D)
 
 **Saving Throw** none;   
 **Spell Resistance** no

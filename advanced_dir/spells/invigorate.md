@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/invigorate
+title: advanced_dir/spells_dir/invigorate
 ---
  **Invigorate**
 
@@ -14,7 +14,7 @@ title: advance_dir/spells/invigorate
 
 **Target** creature touched
 
-**Duration** 10 minute_dir/level (D)
+**Duration** 10 minutes_dir/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -24,7 +24,7 @@ This spell banishes feelings of weariness. For the duration, the subject takes n
 
 **School** illusion [figment]; **Level** bard 3
 
-**Targets** creatures touched, up to one/level
+**Targets** creatures touched, up to one_dir/level
 
 This spell work as _invigorate,_ except it affects multiple creatures.
 

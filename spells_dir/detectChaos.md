@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/detectChaos
+title: spells_dir/detectChaos
 ---
  **Detect Chaos**
 

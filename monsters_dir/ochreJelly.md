@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/ochreJelly
+title: monsters_dir/ochreJelly
 ---
 # Ochre Jelly
 
@@ -12,7 +12,7 @@ _This yellow-orange amoeboid creature slithers across the ground, pseudopods gra
 
 N Large [ooze](creatureTypes#_ooze)
 
-**Init** –5; **Senses** blindsight 60 ft.; [Perception](../skill_dir/perception#_perception) –5
+**Init** –5; **Senses** blindsight 60 ft.; [Perception](../skills_dir/perception#_perception) –5
 
 **Defense**
 
@@ -40,7 +40,7 @@ N Large [ooze](creatureTypes#_ooze)
 
 **Base**  **Atk** +4; **CMB** +7 (+11 grapple); **CMD** 12 (can't be tripped)
 
-**Skills** [Climb](../skill_dir/climb#_climb) +10
+**Skills** [Climb](../skills_dir/climb#_climb) +10
 
 **Ecology**
 

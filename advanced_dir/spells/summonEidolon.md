@@ -1,6 +1,6 @@
 ---
 layout: default
-title: advance_dir/spells/summonEidolon
+title: advanced_dir/spells_dir/summonEidolon
 ---
  **Summon Eidolon**
 
@@ -10,15 +10,15 @@ title: advance_dir/spells/summonEidolon
 
 **Components** V, S, M (a silver coin)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Target** one eidolon
 
-**Duration** 1 minut_dir/level (D)
+**Duration** 1 minute_dir/level (D)
 
 **Saving Throw** none; **Spell Resistance** no
 
-You open a rift between dimensions that summons your eidolon. Treat this as if you had summoned your eidolon normally, except that it only remains with you for the duration of this spell. While summoned in this way, your eidolon cannot touch any creature warded by _ [protection from evil](../../spell_dir/protectionFromEvil#_protection-from-evil)_ or a similar effect and your eidolon can be sent back to its home plane by _ [dispel magic](../../spell_dir/dispelMagic#_dispel-magic)_.
+You open a rift between dimensions that summons your eidolon. Treat this as if you had summoned your eidolon normally, except that it only remains with you for the duration of this spell. While summoned in this way, your eidolon cannot touch any creature warded by _ [protection from evil](../../spells_dir/protectionFromEvil#_protection-from-evil)_ or a similar effect and your eidolon can be sent back to its home plane by _ [dispel magic](../../spells_dir/dispelMagic#_dispel-magic)_.
 
 If you cast this spell while your eidolon is already on your plane, this spell has no effect. This spell allows you to summon your eidolon even if it has been returned to its home plane due to damage.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/snare
+title: spells_dir/snare
 ---
  **Snare**
 
@@ -12,7 +12,7 @@ title: spell_dir/snare
 
 **Range** touch
 
-**Target** touched nonmagical circle of vine, rope, or thong with a 2 ft. diameter + 2 ft./level
+**Target** touched nonmagical circle of vine, rope, or thong with a 2 ft. diameter + 2 ft._dir/level
 
 **Duration** Until triggered or broken
 

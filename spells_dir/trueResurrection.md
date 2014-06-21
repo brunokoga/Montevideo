@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/trueResurrection
+title: spells_dir/trueResurrection
 ---
  **True Resurrection**
 

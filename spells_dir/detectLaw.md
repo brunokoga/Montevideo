@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/detectLaw
+title: spells_dir/detectLaw
 ---
  **Detect Law**
 

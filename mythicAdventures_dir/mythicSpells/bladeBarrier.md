@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/bladeBarrier
+title: mythicAdventures_dir/mythicSpells_dir/bladeBarrier
 ---
 Blade Barrier
 
-**Source** [_blade barrier_](spell_dir/bladeBarrier#_blade-barrier)
+**Source** [_blade barrier_](spells_dir/bladeBarrier#_blade-barrier)
 
 You may cast this spell as an immediate action. The barrier's damage increases to 1d8 per caster level (maximum 20d8).
 

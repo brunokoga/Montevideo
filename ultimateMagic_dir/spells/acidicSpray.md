@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/acidicSpray
+title: ultimateMagic_dir/spells_dir/acidicSpray
 ---
 Acidic Spray
 
-**School** conjuration (creation) [acid]; **Level** magus 5, sorcere_dir/wizard 5
+**School** conjuration (creation) [acid]; **Level** magus 5, sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 

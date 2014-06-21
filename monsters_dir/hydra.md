@@ -1,6 +1,6 @@
 ---
 layout: default
-title: monster_dir/hydra
+title: monsters_dir/hydra
 ---
 # Hydra
 
@@ -12,7 +12,7 @@ _Multiple angry snake-like heads rise from the sleek, serpentine body of this te
 
 N Huge [magical beast](creatureTypes#_magical-beast)
 
-**Init** +1; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +10
+**Init** +1; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills_dir/perception#_perception) +10
 
 **Defense**
 
@@ -40,7 +40,7 @@ N Huge [magical beast](creatureTypes#_magical-beast)
 
 **Feats** [Combat Reflexes](../feats#_combat-reflexes), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes)
 
-**Skills** [Perception](../skill_dir/perception#_perception) +10, [Swim](../skill_dir/swim#_swim) +11; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception)
+**Skills** [Perception](../skills_dir/perception#_perception) +10, [Swim](../skills_dir/swim#_swim) +11; **Racial Modifiers** +2 [Perception](../skills_dir/perception#_perception)
 
 **SQ** hydra traits, regenerate head
 
@@ -62,5 +62,5 @@ N Huge [magical beast](creatureTypes#_magical-beast)
 
 You can make more powerful hydras by increasing their Hit Dice—each added HD increases the hydra's statistics as appropriate, but also gives it one additional head and a +1 increase to its natural armor. A hydra's CR increases by +1 for each Hit Die it gains.
 
-**Cryohydra/Pyrohydra (+2 CR)** : Variants of the standard hydra, the cryohydra lives in cold marshes or on glaciers, while the pyrohydra prefers deserts or volcanic mountains. A cryohydra gains the [Cold](creatureTypes#_cold-subtype) subtype, while a pyrohydra gains the [Fire](creatureTypes#_fire-subtype) subtype. Each of its heads has a [breath weapon](universalMonsterRules#_breath-weapon) (15-ft. cone, 3d6 cold damage [cryohydra] or 3d6 fire damage [pyrohydra], Reflex half) useable every 1d4 rounds. The save DC is 10 + 1/2 the hydra's HD + the hydra's Con modifier. Although fire attacks cannot prevent a pyrohydra's neck stump from growing new heads (since it is immune to fire), 5 points of cold damage does. Acid works normally on both hydra variants.
+**Cryohydra_dir/Pyrohydra (+2 CR)** : Variants of the standard hydra, the cryohydra lives in cold marshes or on glaciers, while the pyrohydra prefers deserts or volcanic mountains. A cryohydra gains the [Cold](creatureTypes#_cold-subtype) subtype, while a pyrohydra gains the [Fire](creatureTypes#_fire-subtype) subtype. Each of its heads has a [breath weapon](universalMonsterRules#_breath-weapon) (15-ft. cone, 3d6 cold damage [cryohydra] or 3d6 fire damage [pyrohydra], Reflex half) useable every 1d4 rounds. The save DC is 10 + 1_dir/2 the hydra's HD + the hydra's Con modifier. Although fire attacks cannot prevent a pyrohydra's neck stump from growing new heads (since it is immune to fire), 5 points of cold damage does. Acid works normally on both hydra variants.
 

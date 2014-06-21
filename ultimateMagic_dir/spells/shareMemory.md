@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/shareMemory
+title: ultimateMagic_dir/spells_dir/shareMemory
 ---
 Share Memory
 
-**School** divination; **Level** bard 2, sorcere_dir/wizard 2, witch 2
+**School** divination; **Level** bard 2, sorcerer_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 

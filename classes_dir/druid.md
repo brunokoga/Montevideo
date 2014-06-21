@@ -1,6 +1,6 @@
 ---
 layout: default
-title: classe_dir/druid
+title: classes_dir/druid
 ---
 # Druid
 
@@ -14,7 +14,7 @@ Within the purity of the elements and the order of the wilds lingers a power bey
 
 ## Class Skills
 
-The druid's class skills are [Climb](../skill_dir/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skill_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Fly](../skill_dir/fly#_fly) ( [Dex](../gettingStarted#_dexterity)), [Handle Animal](../skill_dir/handleAnimal#_handle-animal) ( [Cha](../gettingStarted#_charisma-new)), Heal ( [Wis](../gettingStarted#_wisdom)), [Knowledge](../skill_dir/knowledge#_knowledge) (geography) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skill_dir/knowledge#_knowledge) (nature) ( [Int](../gettingStarted#_intelligence)), [Perception](../skill_dir/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Profession](../skill_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skill_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Spellcraft](../skill_dir/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)), [Survival](../skill_dir/survival#_survival) ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skill_dir/swim#_swim) ( [Str](../gettingStarted#_strength)).
+The druid's class skills are [Climb](../skills_dir/climb#_climb) ( [Str](../gettingStarted#_strength)), [Craft](../skills_dir/craft#_craft) ( [Int](../gettingStarted#_intelligence)), [Fly](../skills_dir/fly#_fly) ( [Dex](../gettingStarted#_dexterity)), [Handle Animal](../skills_dir/handleAnimal#_handle-animal) ( [Cha](../gettingStarted#_charisma-new)), Heal ( [Wis](../gettingStarted#_wisdom)), [Knowledge](../skills_dir/knowledge#_knowledge) (geography) ( [Int](../gettingStarted#_intelligence)), [Knowledge](../skills_dir/knowledge#_knowledge) (nature) ( [Int](../gettingStarted#_intelligence)), [Perception](../skills_dir/perception#_perception) ( [Wis](../gettingStarted#_wisdom)), [Profession](../skills_dir/profession#_profession) ( [Wis](../gettingStarted#_wisdom)), [Ride](../skills_dir/ride#_ride) ( [Dex](../gettingStarted#_dexterity)), [Spellcraft](../skills_dir/spellcraft#_spellcraft) ( [Int](../gettingStarted#_intelligence)), [Survival](../skills_dir/survival#_survival) ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skills_dir/swim#_swim) ( [Str](../gettingStarted#_strength)).
 
 **Skill Ranks per Level** : 4 + [Int](../gettingStarted#_intelligence) modifier.
 
@@ -26,23 +26,23 @@ The druid's class skills are [Climb](../skill_dir/climb#_climb) ( [Str](../getti
 | 1st | +0 | +2 | +0 | +2 | Nature bond, nature sense, orisons, wild empathy | 3 | 1 | — | — | — | — | — | — | — | — |
 | 2nd | +1 | +3 | +0 | +3 | Woodland stride | 4 | 2 | — | — | — | — | — | — | — | — |
 | 3rd | +2 | +3 | +1 | +3 | Trackless step | 4 | 2 | 1 | — | — | — | — | — | — | — |
-| 4th | +3 | +4 | +1 | +4 | Resist nature's lure,Wild shape (1/day) | 4 | 3 | 2 | — | — | — | — | — | — | — |
+| 4th | +3 | +4 | +1 | +4 | Resist nature's lure,Wild shape (1_dir/day) | 4 | 3 | 2 | — | — | — | — | — | — | — |
 | 5th | +3 | +4 | +1 | +4 | | 4 | 3 | 2 | 1 | — | — | — | — | — | — |
-| 6th | +4 | +5 | +2 | +5 | Wild shape (2/day) | 4 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +4 | +5 | +2 | +5 | Wild shape (2_dir/day) | 4 | 3 | 3 | 2 | — | — | — | — | — | — |
 | 7th | +5 | +5 | +2 | +5 | | 4 | 4 | 3 | 2 | 1 | — | — | — | — | — |
-| 8th | +6/+1 | +6 | +2 | +6 | Wild shape (3/day) | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th | +6/+1 | +6 | +3 | +6 | Venom immunity | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — | — |
-| 10th | +7/+2 | +7 | +3 | +7 | Wild shape (4/day) | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — | — |
-| 11th | +8/+3 | +7 | +3 | +7 | | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — |
-| 12th | +9/+4 | +8 | +4 | +8 | Wild shape (5/day) | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — |
-| 13th | +9/+4 | +8 | +4 | +8 | A thousand faces | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — |
-| 14th | +10/+5 | +9 | +4 | +9 | Wild shape (6/day) | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — |
-| 15th | +11/+6/+1 | +9 | +5 | +9 | Timeless body | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — |
-| 16th | +12/+7/+2 | +10 | +5 | +10 | Wild shape (7/day) | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — |
-| 17th | +12/+7/+2 | +10 | +5 | +10 | | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 |
-| 18th | +13/+8/+3 | +11 | +6 | +11 | Wild shape (8/day) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
-| 19th | +14/+9/+4 | +11 | +6 | +11 | | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
-| 20th | +15/+10/+5 | +12 | +6 | +12 | Wild shape (at will) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+| 8th | +6_dir/+1 | +6 | +2 | +6 | Wild shape (3_dir/day) | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +6_dir/+1 | +6 | +3 | +6 | Venom immunity | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — | — |
+| 10th | +7_dir/+2 | +7 | +3 | +7 | Wild shape (4_dir/day) | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +8_dir/+3 | +7 | +3 | +7 | | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — |
+| 12th | +9_dir/+4 | +8 | +4 | +8 | Wild shape (5_dir/day) | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — |
+| 13th | +9_dir/+4 | +8 | +4 | +8 | A thousand faces | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — |
+| 14th | +10_dir/+5 | +9 | +4 | +9 | Wild shape (6_dir/day) | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — |
+| 15th | +11_dir/+6_dir/+1 | +9 | +5 | +9 | Timeless body | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — |
+| 16th | +12_dir/+7_dir/+2 | +10 | +5 | +10 | Wild shape (7_dir/day) | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — |
+| 17th | +12_dir/+7_dir/+2 | +10 | +5 | +10 | | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 |
+| 18th | +13_dir/+8_dir/+3 | +11 | +6 | +11 | Wild shape (8_dir/day) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
+| 19th | +14_dir/+9_dir/+4 | +11 | +6 | +11 | | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
+| 20th | +15_dir/+10_dir/+5 | +12 | +6 | +12 | Wild shape (at will) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
 
 ## Class Features
 
@@ -80,9 +80,9 @@ The second option is to form a close bond with an animal companion. A druid may 
 
 Unlike normal animals of its kind, an animal companion's Hit Dice, abilities, skills, and feats advance as the druid advances in level. If a character receives an animal companion from more than one source, her effective druid levels stack for the purposes of determining the statistics and abilities of the companion. Most animal companions increase in size when their druid reaches 4th or 7th level, depending on the companion. If a druid releases her companion from service, she may gain a new one by performing a ceremony requiring 24 uninterrupted hours of prayer in the environment where the new companion typically lives. This ceremony can also replace an animal companion that has perished.
 
-**Nature Sense [(Ex)](../glossary#_extraordinary-abilities-ex)** : A druid gains a +2 bonus on [Knowledge](../skill_dir/knowledge#_knowledge) (nature) and [Survival](../skill_dir/survival#_survival) checks.
+**Nature Sense [(Ex)](../glossary#_extraordinary-abilities-ex)** : A druid gains a +2 bonus on [Knowledge](../skills_dir/knowledge#_knowledge) (nature) and [Survival](../skills_dir/survival#_survival) checks.
 
-**Wild Empathy [(Ex)](../glossary#_extraordinary-abilities-ex)** : A druid can improve the attitude of an animal. This ability functions just like a [Diplomacy](../skill_dir/diplomacy#_diplomacy) check made to improve the attitude of a person (see [Using Skills](../usingSkills)). The druid rolls 1d20 and adds her druid level and her [Charisma](../gettingStarted#_charisma-new) modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
+**Wild Empathy [(Ex)](../glossary#_extraordinary-abilities-ex)** : A druid can improve the attitude of an animal. This ability functions just like a [Diplomacy](../skills_dir/diplomacy#_diplomacy) check made to improve the attitude of a person (see [Using Skills](../usingSkills)). The druid rolls 1d20 and adds her druid level and her [Charisma](../gettingStarted#_charisma-new) modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly.
 
 To use wild empathy, the druid and the animal must be within 30 feet of one another under normal conditions. Generally, influencing an animal in this way takes 1 minute but, as with influencing people, it might take more or less time.
 
@@ -92,38 +92,38 @@ A druid can also use this ability to influence a magical beast with an [Intellig
 
 **Trackless Step [(Ex)](../glossary#_extraordinary-abilities-ex)** : Starting at 3rd level, a druid leaves no trail in natural surroundings and cannot be tracked. She may choose to leave a trail if so desired.
 
-**Resist Nature's Lure [(Ex)](../glossary#_extraordinary-abilities-ex)** : Starting at 4th level, a druid gains a +4 bonus on [saving throws](../combat#_saving-throws) against the spell-like and supernatural abilities of fey. This bonus also applies to spells and effects that utilize or target plants, such as _ [blight](../spell_dir/blight#_blight), [entangle](../spell_dir/entangle#_entangle), [spike growth](../spell_dir/spikeGrowth#_spike-growth), _and _ [warp wood](../spell_dir/warpWood#_warp-wood)._
+**Resist Nature's Lure [(Ex)](../glossary#_extraordinary-abilities-ex)** : Starting at 4th level, a druid gains a +4 bonus on [saving throws](../combat#_saving-throws) against the spell-like and supernatural abilities of fey. This bonus also applies to spells and effects that utilize or target plants, such as _ [blight](../spells_dir/blight#_blight), [entangle](../spells_dir/entangle#_entangle), [spike growth](../spells_dir/spikeGrowth#_spike-growth), _and _ [warp wood](../spells_dir/warpWood#_warp-wood)._
 
-**Wild Shape [(Su)](../glossary#_supernatural-abilities-su)** : At 4th level, a druid gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all creatures with the animal type. This ability functions like the _ [beast shape I](../spell_dir/beastShape#_beast-shape-i)_ spell, except as noted here. The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to animal or back) is a standard action and doesn't provoke an [attack of opportunity](../combat#_attacks-of-opportunity). The form chosen must be that of an animal with which the druid is familiar.
+**Wild Shape [(Su)](../glossary#_supernatural-abilities-su)** : At 4th level, a druid gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all creatures with the animal type. This ability functions like the _ [beast shape I](../spells_dir/beastShape#_beast-shape-i)_ spell, except as noted here. The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to animal or back) is a standard action and doesn't provoke an [attack of opportunity](../combat#_attacks-of-opportunity). The form chosen must be that of an animal with which the druid is familiar.
 
 A druid loses her ability to speak while in animal form because she is limited to the sounds that a normal, untrained animal can make, but she can communicate normally with other animals of the same general grouping as her new form. (The normal sound a wild parrot makes is a squawk, so changing to this form does not permit speech.)
 
 A druid can use this ability an additional time per day at 6th level and every two levels thereafter, for a total of eight times at 18th level. At 20th level, a druid can use wild shape at will. As a druid gains levels, this ability allows the druid to take on the form of larger and smaller animals, elementals, and plants. Each form expends one daily use of this ability, regardless of the form taken.
 
-At 6th level, a druid can also use wild shape to change into a Large or Tiny animal or a Small elemental. When taking the form of an animal, a druid's wild shape now functions as _ [beast shape II](../spell_dir/beastShape#_beast-shape-ii)_. When taking the form of an elemental, the druid's wild shape functions as _ [elemental body I](../spell_dir/elementalBody#_elemental-body-i)_.
+At 6th level, a druid can also use wild shape to change into a Large or Tiny animal or a Small elemental. When taking the form of an animal, a druid's wild shape now functions as _ [beast shape II](../spells_dir/beastShape#_beast-shape-ii)_. When taking the form of an elemental, the druid's wild shape functions as _ [elemental body I](../spells_dir/elementalBody#_elemental-body-i)_.
 
-At 8th level, a druid can also use wild shape to change into a Huge or Diminutive animal, a Medium elemental, or a Small or Medium plant creature. When taking the form of animals, a druid's wild shape now functions as _ [beast shape III](../spell_dir/beastShape#_beast-shape-iii)_. When taking the form of an elemental, the druid's wild shape now functions as _ [elemental body II](../spell_dir/elementalBody#_elemental-body-ii)_. When taking the form of a plant creature, the druid's wild shape functions as _ [plant shape I](../spell_dir/plantShape#_plant-shape-i)_.
+At 8th level, a druid can also use wild shape to change into a Huge or Diminutive animal, a Medium elemental, or a Small or Medium plant creature. When taking the form of animals, a druid's wild shape now functions as _ [beast shape III](../spells_dir/beastShape#_beast-shape-iii)_. When taking the form of an elemental, the druid's wild shape now functions as _ [elemental body II](../spells_dir/elementalBody#_elemental-body-ii)_. When taking the form of a plant creature, the druid's wild shape functions as _ [plant shape I](../spells_dir/plantShape#_plant-shape-i)_.
 
-At 10th level, a druid can also use wild shape to change into a Large elemental or a Large plant creature. When taking the form of an elemental, the druid's wild shape now functions as _ [elemental body III](../spell_dir/elementalBody#_elemental-body-iii)_. When taking the form of a plant, the druid's wild shape now functions as _ [plant shape II](../spell_dir/plantShape#_plant-shape-ii)_.
+At 10th level, a druid can also use wild shape to change into a Large elemental or a Large plant creature. When taking the form of an elemental, the druid's wild shape now functions as _ [elemental body III](../spells_dir/elementalBody#_elemental-body-iii)_. When taking the form of a plant, the druid's wild shape now functions as _ [plant shape II](../spells_dir/plantShape#_plant-shape-ii)_.
 
-At 12th level, a druid can also use wild shape to change into a Huge elemental or a Huge plant creature. When taking the form of an elemental, the druid's wild shape now functions as _ [elemental body IV](../spell_dir/elementalBody#_elemental-body-iv)_. When taking the form of a plant, the druid's wild shape now functions as _ [plant shape III](../spell_dir/plantShape#_plant-shape-iii)_.
+At 12th level, a druid can also use wild shape to change into a Huge elemental or a Huge plant creature. When taking the form of an elemental, the druid's wild shape now functions as _ [elemental body IV](../spells_dir/elementalBody#_elemental-body-iv)_. When taking the form of a plant, the druid's wild shape now functions as _ [plant shape III](../spells_dir/plantShape#_plant-shape-iii)_.
 
 **Venom Immunity [(Ex)](../glossary#_extraordinary-abilities-ex)** : At 9th level, a druid gains immunity to all poisons.
 
-**A Thousand Faces [(Su)](../glossary#_supernatural-abilities-su)** : At 13th level, a druid gains the ability to change her appearance at will, as if using the _ [alter self](../spell_dir/alterSelf#_alter-self)_ spell, but only while in her normal form.
+**A Thousand Faces [(Su)](../glossary#_supernatural-abilities-su)** : At 13th level, a druid gains the ability to change her appearance at will, as if using the _ [alter self](../spells_dir/alterSelf#_alter-self)_ spell, but only while in her normal form.
 
 **Timeless Body [(Ex)](../glossary#_extraordinary-abilities-ex)** : After attaining 15th level, a druid no longer takes ability score penalties for aging and cannot be magically aged. Any penalties she may have already incurred, however, remain in place. Bonuses still accrue, and the druid still dies of old age when her time is up.
 
 ## Ex-Druids
 
-A druid who ceases to revere nature, changes to a prohibited [alignment](../additionalRules#_alignment), or teaches the Druidic language to a nondruid loses all spells and druid abilities (including her animal companion, but not including weapon, armor, and shield proficiencies). She cannot thereafter gain levels as a druid until she atones (see the _ [atonement](../spell_dir/atonement#_atonement)_ spell description).
+A druid who ceases to revere nature, changes to a prohibited [alignment](../additionalRules#_alignment), or teaches the Druidic language to a nondruid loses all spells and druid abilities (including her animal companion, but not including weapon, armor, and shield proficiencies). She cannot thereafter gain levels as a druid until she atones (see the _ [atonement](../spells_dir/atonement#_atonement)_ spell description).
 
 ## Animal Companions
 
 An animal companion's abilities are determined by the druid's level and its animal racial traits. Table: Animal Companion Base Statistics determines many of the base statistics of the animal companion. They remain creatures of the animal type for purposes of determining which spells can affect them.
 
 [Table: Animal Companion Base Statistics]
-| Class Level | HD | BAB | Fort | Ref | Will | Skills | Feats | Natural Armor Bonus | Str/Dex Bonus | Bonus Tricks | Special |
+| Class Level | HD | BAB | Fort | Ref | Will | Skills | Feats | Natural Armor Bonus | Str_dir/Dex Bonus | Bonus Tricks | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | 2 | +1 | +3 | +3 | +0 | 2 | 1 | +0 | +0 | 1 | Link, share spells |
 | 2nd | 3 | +2 | +3 | +3 | +1 | 3 | 2 | +0 | +0 | 1 | — |
@@ -152,7 +152,7 @@ An animal companion's abilities are determined by the druid's level and its anim
 
 **BAB** : This is the animal companion's base attack bonus. An animal companion's base attack bonus is the same as that of a druid of a level equal to the animal's HD. Animal companions do not gain additional attacks using their natural weapons for a high base attack bonus.
 
-**For_dir/ [Ref](../combat#_reflex)/Will** : These are the animal companion's base [saving throw](../combat#_saving-throws) bonuses. An animal companion has good [Fortitude](../combat#_fortitude) and [Reflex saves](../combat#_reflex).
+**Fort_dir/ [Ref](../combat#_reflex)_dir/Will** : These are the animal companion's base [saving throw](../combat#_saving-throws) bonuses. An animal companion has good [Fortitude](../combat#_fortitude) and [Reflex saves](../combat#_reflex).
 
 **Skills** : This lists the animal's total skill ranks. Animal companions can assign skill ranks to any skill listed under Animal Skills. If an animal companion increases its [Intelligence](../gettingStarted#_intelligence) to 10 or higher, it gains bonus skill ranks as normal. Animal companions with an [Intelligence](../gettingStarted#_intelligence) of 3 or higher can purchase ranks in any skill. An animal companion cannot have more ranks in a skill than it has Hit Dice.
 
@@ -160,13 +160,13 @@ An animal companion's abilities are determined by the druid's level and its anim
 
 **Natural Armor Bonus** : The number noted here is an improvement to the animal companion's existing natural armor bonus.
 
-**St_dir/Dex Bonus** : Add this modifier to the animal companion's [Strength](../gettingStarted#_strength) and [Dexterity](../gettingStarted#_dexterity) scores.
+**Str_dir/Dex Bonus** : Add this modifier to the animal companion's [Strength](../gettingStarted#_strength) and [Dexterity](../gettingStarted#_dexterity) scores.
 
-**Bonus Tricks** : The value given in this column is the total number of “bonus” tricks that the animal knows in addition to any that the druid might choose to teach it (see the [Handle Animal](../skill_dir/handleAnimal#_handle-animal) skill for more details on how to teach an animal tricks). These bonus tricks don't require any training time or [Handle Animal](../skill_dir/handleAnimal#_handle-animal) checks, and they don't count against the normal limit of tricks known by the animal. The druid selects these bonus tricks, and once selected, they can't be changed.
+**Bonus Tricks** : The value given in this column is the total number of “bonus” tricks that the animal knows in addition to any that the druid might choose to teach it (see the [Handle Animal](../skills_dir/handleAnimal#_handle-animal) skill for more details on how to teach an animal tricks). These bonus tricks don't require any training time or [Handle Animal](../skills_dir/handleAnimal#_handle-animal) checks, and they don't count against the normal limit of tricks known by the animal. The druid selects these bonus tricks, and once selected, they can't be changed.
 
 **Special** : This includes a number of abilities gained by animal companions as they increase in power. Each of these bonuses is described below.
 
-_Link [(Ex)](../glossary#_extraordinary-abilities-ex):_ A druid can handle her animal companion as a free action, or push it as a move action, even if she doesn't have any ranks in the [Handle Animal](../skill_dir/handleAnimal#_handle-animal) skill. The druid gains a +4 circumstance bonus on all wild empathy checks and [Handle Animal](../skill_dir/handleAnimal#_handle-animal) checks made regarding an animal companion.
+_Link [(Ex)](../glossary#_extraordinary-abilities-ex):_ A druid can handle her animal companion as a free action, or push it as a move action, even if she doesn't have any ranks in the [Handle Animal](../skills_dir/handleAnimal#_handle-animal) skill. The druid gains a +4 circumstance bonus on all wild empathy checks and [Handle Animal](../skills_dir/handleAnimal#_handle-animal) checks made regarding an animal companion.
 
 _Share Spells [(Ex)](../glossary#_extraordinary-abilities-ex):_ The druid may cast a spell with a target of “You” on her animal companion (as a spell with a range of touch) instead of on herself. A druid may cast spells on her animal companion even if the spells normally do not affect creatures of the companion's type (animal). Spells cast in this way must come from a class that grants an animal companion. This ability does not allow the animal to share abilities that are not spells, even if they function like spells.
 
@@ -182,7 +182,7 @@ _Improved Evasion [(Ex)](../glossary#_extraordinary-abilities-ex):_ When subject
 
 ## Animal Skills
 
-Animal companions can have ranks in any of the following skills: [Acrobatics](../skill_dir/acrobatics#_acrobatics)\* ( [Dex](../gettingStarted#_dexterity)), [Climb](../skill_dir/climb#_climb)\* ( [Str](../gettingStarted#_strength)), [Escape Artist](../skill_dir/escapeArtist#_escape-artist) ( [Dex](../gettingStarted#_dexterity)), [Fly](../skill_dir/fly#_fly)\* ( [Dex](../gettingStarted#_dexterity)), [Intimidate](../skill_dir/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Perception](../skill_dir/perception#_perception)\* ( [Wis](../gettingStarted#_wisdom)), [Stealth](../skill_dir/stealth#_stealth)\* ( [Dex](../gettingStarted#_dexterity)), [Survival](../skill_dir/survival#_survival) ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skill_dir/swim#_swim)\* ( [Str](../gettingStarted#_strength)). All of the skills marked with an (\*) are class skills for animal companions. Animal companions with an [Intelligence](../gettingStarted#_intelligence) of 3 or higher can put ranks into any skill.
+Animal companions can have ranks in any of the following skills: [Acrobatics](../skills_dir/acrobatics#_acrobatics)\* ( [Dex](../gettingStarted#_dexterity)), [Climb](../skills_dir/climb#_climb)\* ( [Str](../gettingStarted#_strength)), [Escape Artist](../skills_dir/escapeArtist#_escape-artist) ( [Dex](../gettingStarted#_dexterity)), [Fly](../skills_dir/fly#_fly)\* ( [Dex](../gettingStarted#_dexterity)), [Intimidate](../skills_dir/intimidate#_intimidate) ( [Cha](../gettingStarted#_charisma-new)), [Perception](../skills_dir/perception#_perception)\* ( [Wis](../gettingStarted#_wisdom)), [Stealth](../skills_dir/stealth#_stealth)\* ( [Dex](../gettingStarted#_dexterity)), [Survival](../skills_dir/survival#_survival) ( [Wis](../gettingStarted#_wisdom)), and [Swim](../skills_dir/swim#_swim)\* ( [Str](../gettingStarted#_strength)). All of the skills marked with an (\*) are class skills for animal companions. Animal companions with an [Intelligence](../gettingStarted#_intelligence) of 3 or higher can put ranks into any skill.
 
 ## Animal Feats
 
@@ -190,7 +190,7 @@ Animal companions can select from the following feats: [Acrobatic](../feats#_acr
 
 ## Animal Choices
 
-Each animal companion has different starting sizes, speed, attacks, ability scores, and special qualities. All animal attacks are made using the creature's full base attack bonus unless otherwise noted. Animal attacks add the animal's [Strength](../gettingStarted#_strength) modifier to the damage roll, unless it is its only attack, in which case it adds 1-1/2 its [Strength](../gettingStarted#_strength) modifier. Some have special abilities, such as [scent](../glossary#_scent). See [Special Abilities](../glossary#_appendix-1-special-abilities) for more information on these abilities. As you gain levels, your animal companion improves as well, usually at 4th or 7th level, in addition to the standard bonuses noted on Table: Animal Companion Base Statistics. Instead of taking the listed benefit at 4th or 7th level, you can instead choose to increase the companion's [Dexterity](../gettingStarted#_dexterity) and [Constitution](../gettingStarted#_constitution) by 2.
+Each animal companion has different starting sizes, speed, attacks, ability scores, and special qualities. All animal attacks are made using the creature's full base attack bonus unless otherwise noted. Animal attacks add the animal's [Strength](../gettingStarted#_strength) modifier to the damage roll, unless it is its only attack, in which case it adds 1-1_dir/2 its [Strength](../gettingStarted#_strength) modifier. Some have special abilities, such as [scent](../glossary#_scent). See [Special Abilities](../glossary#_appendix-1-special-abilities) for more information on these abilities. As you gain levels, your animal companion improves as well, usually at 4th or 7th level, in addition to the standard bonuses noted on Table: Animal Companion Base Statistics. Instead of taking the listed benefit at 4th or 7th level, you can instead choose to increase the companion's [Dexterity](../gettingStarted#_dexterity) and [Constitution](../gettingStarted#_constitution) by 2.
 
 ### Ape
 
@@ -210,7 +210,7 @@ Each animal companion has different starting sizes, speed, attacks, ability scor
 
 **4th-Level Advancement** : **Size** Medium; **Attack** bite (1d6), 2 claws (1d4); **Ability Scores** [Str](../gettingStarted#_strength) +4, [Dex](../gettingStarted#_dexterity) –2, [Con](../gettingStarted#_constitution) +2.
 
-### Bird (Eagl_dir/Hawk/Owl)
+### Bird (Eagle_dir/Hawk_dir/Owl)
 
 **Starting Statistics** : **Size** Small; **Speed** 10 ft., fly 80 ft. (average); **[AC](../combat#_armor-class)** +1 natural armor; **Attack** bite (1d4), 2 talons (1d4); **Ability Scores** [Str](../gettingStarted#_strength) 10, [Dex](../gettingStarted#_dexterity) 15, [Con](../gettingStarted#_constitution) 12, [Int](../gettingStarted#_intelligence) 2, [Wis](../gettingStarted#_wisdom) 14, [Cha](../gettingStarted#_charisma-new) 6; **Special Qualities** [low-light vision](../glossary#_low-light-vision).
 

@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spell_dir/horridWilting
+title: spells_dir/horridWilting
 ---
  **Horrid Wilting**
 
-**School** necromancy; **Level** sorcerer/wizard 8
+**School** necromancy; **Level** sorcerer_dir/wizard 8
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (a bit of sponge)
+**Components** V, S, M_dir/DF (a bit of sponge)
 
-**Range** long (400 ft. + 40 ft./level)
+**Range** long (400 ft. + 40 ft._dir/level)
 
 **Targets** living creatures, no two of which can be more than 60 ft. apart
 

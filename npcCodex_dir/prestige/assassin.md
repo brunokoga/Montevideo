@@ -1,6 +1,6 @@
 ---
 layout: default
-title: npcCode_dir/prestige/assassin
+title: npcCodex_dir/prestige_dir/assassin
 ---
 # Assassins
 
@@ -32,27 +32,27 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 short sword_ +12 (1d6+1/19–20 plus poison)
+**Melee** _+1 short sword_ +12 (1d6+1_dir/19–20 plus poison)
 
-**Ranged** mwk dagger +11 (1d4/19–20 plus poison)
+**Ranged** mwk dagger +11 (1d4_dir/19–20 plus poison)
 
-**Special Attacks** channel negative energy 2/day (DC 9, 1d6), death attack (DC 14), sneak attack +4d6
+**Special Attacks** channel negative energy 2_dir/day (DC 9, 1d6), death attack (DC 14), sneak attack +4d6
 
 **Domain**  **Spell-Like Abilities** (CL 1st; concentration +2)
 
-4/day—bleeding touch, copycat
+4_dir/day—bleeding touch, copycat
 
 **Cleric Spells Prepared** (CL 1st; concentration +2)
 
-1st—_ [bless](spell_dir/bless#_bless)_, _disguise sel f_D, _ [divine favor](spells/divineFavor#_divine-favor)_
+1st—_ [bless](spells_dir/bless#_bless)_, _disguise sel f_D, _ [divine favor](spells_dir/divineFavor#_divine-favor)_
 
-0 (at will)—_ [bleed](spell_dir/bleed#_bleed)_ (DC 11), _ [detect poison](spells/detectPoison#_detect-poison)_, _ [guidance](spell_dir/guidance#_guidance)_
+0 (at will)—_ [bleed](spells_dir/bleed#_bleed)_ (DC 11), _ [detect poison](spells_dir/detectPoison#_detect-poison)_, _ [guidance](spells_dir/guidance#_guidance)_
 
 **D** Domain spell; **Domains** Death, Trickery
 
 Tactics
 
-**Before Combat** The assassin attempts to cast his _scroll of [invisibility](spells/invisibility#_invisibility)_ and coats his short sword with greenblood oil.
+**Before Combat** The assassin attempts to cast his _scroll of [invisibility](spells_dir/invisibility#_invisibility)_ and coats his short sword with greenblood oil.
 
 **During Combat** The assassin begins combat by studying his foe for a death attack. When making this attack, he uses [Channel Smite](feats#_channel-smite) and [Vital Strike](feats#_vital-strike) to do as much damage as possible.
 
@@ -64,13 +64,13 @@ Statistics
 
 **Feats** [Channel Smite](feats#_channel-smite), [Dodge](feats#_dodge), [Step Up](feats#_step-up), [Vital Strike](feats#_vital-strike), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (short sword)
 
-**Skills** [Bluff](skill_dir/bluff#_bluff) +11, [Climb](skills/climb#_climb) +8, [Disguise](skill_dir/disguise#_disguise) +7, [Intimidate](skills/intimidate#_intimidate) +9, [Knowledge](skill_dir/knowledge#_knowledge) (local, nobility, religion) +10, Perception +13, [Sense Motive](skills/senseMotive#_sense-motive) +13, [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) +13, [Spellcraft](skills/spellcraft#_spellcraft) +10, [Stealth](skill_dir/stealth#_stealth) +17
+**Skills** [Bluff](skills_dir/bluff#_bluff) +11, [Climb](skills_dir/climb#_climb) +8, [Disguise](skills_dir/disguise#_disguise) +7, [Intimidate](skills_dir/intimidate#_intimidate) +9, [Knowledge](skills_dir/knowledge#_knowledge) (local, nobility, religion) +10, Perception +13, [Sense Motive](skills_dir/senseMotive#_sense-motive) +13, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +13, [Spellcraft](skills_dir/spellcraft#_spellcraft) +10, [Stealth](skills_dir/stealth#_stealth) +17
 
 **Languages** Common, Dwarven, Orc
 
 **SQ** aura, orc blood, poison use, rogue talents (bleeding attack +4, finesse rogue, surprise attack), trapfinding +3, weapon familiarity
 
-**Combat Gear** _potion of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_, _scroll of [invisibility](spell_dir/invisibility#_invisibility)_, black adder venom (2), giant wasp poison (2), greenblood oil (2); **Other Gear** _+1 studded leather_, _+1 short sword_, masterwork dagger, _ [belt of incredible dexterity](magicItems/wondrousItems#_belt-of-incredible-dexterity) +2_, 303 gp
+**Combat Gear** _potion of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _scroll of [invisibility](spells_dir/invisibility#_invisibility)_, black adder venom (2), giant wasp poison (2), greenblood oil (2); **Other Gear** _+1 studded leather_, _+1 short sword_, masterwork dagger, _ [belt of incredible dexterity](magicItems_dir/wondrousItems#_belt-of-incredible-dexterity) +2_, 303 gp
 
 Most evil temples and cults use sacred killers to enforce their twisted will or to eliminate annoying enemies.
 
@@ -108,19 +108,19 @@ Offense
 
 **Speed** 60 ft.
 
-**Melee** unarmed strike +15/+10 (1d10+1 plus 1d6 electricity) or mwk quarterstaff +11/+6 (1d6+1) or flurry of blows (unarmed strike) +16/+16/+11/+11/+6 (1d10+1 plus 1d6 electricity)
+**Melee** unarmed strike +15_dir/+10 (1d10+1 plus 1d6 electricity) or mwk quarterstaff +11_dir/+6 (1d6+1) or flurry of blows (unarmed strike) +16_dir/+16_dir/+11_dir/+11_dir/+6 (1d10+1 plus 1d6 electricity)
 
-**Ranged** _+1 shuriken_ +16/+11 (1d2+2) or flurry of blows (_+1 shuriken_) +17/+17/+12/+12/+7 (1d2+1)
+**Ranged** _+1 shuriken_ +16_dir/+11 (1d2+2) or flurry of blows (_+1 shuriken_) +17_dir/+17_dir/+12_dir/+12_dir/+7 (1d2+1)
 
-**Special Attacks** death attack (DC 16), flurry of blows, sneak attack +2d6, stunning fist (10/day, DC 18), true death (DC 19)
+**Special Attacks** death attack (DC 16), flurry of blows, sneak attack +2d6, stunning fist (10_dir/day, DC 18), true death (DC 19)
 
 Tactics
 
-**Before Combat** The assassin drinks her _potion of [barkskin](spell_dir/barkskin#_barkskin),_ attempts to study her victim for 3 rounds, and drinks her _potion of [haste](spells/haste#_haste)_.
+**Before Combat** The assassin drinks her _potion of [barkskin](spells_dir/barkskin#_barkskin),_ attempts to study her victim for 3 rounds, and drinks her _potion of [haste](spells_dir/haste#_haste)_.
 
 **During Combat** Disguised as a modest pilgrim, the assassin sidles up to her mark and makes her death attack with a Stunning Fist attack. She then retreats to throw flurries of shuriken.
 
-**Base Statistics** Without_ [barkskin](spell_dir/barkskin#_barkskin)_, the assassin's statistics are **AC** 23, touch 21, flat-footed 17.
+**Base Statistics** Without_ [barkskin](spells_dir/barkskin#_barkskin)_, the assassin's statistics are **AC** 23, touch 21, flat-footed 17.
 
 Statistics
 
@@ -130,13 +130,13 @@ Statistics
 
 **Feats** [Deadly Aim](feats#_deadly-aim), Deflect Arrows, [Dodge](feats#_dodge), Extra _Ki_, [Improved Unarmed Strike](feats#_improved-unarmed-strike), [Nimble Moves](feats#_nimble-moves), [Point-Blank Shot](feats#_point-blank-shot), [Step Up](feats#_step-up), Stunning Fist, [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (shuriken, unarmed strike)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +21 (+42 when jumping), [Bluff](skill_dir/bluff#_bluff) +6, [Climb](skills/climb#_climb) +11, [Diplomacy](skill_dir/diplomacy#_diplomacy) +2, [Disguise](skills/disguise#_disguise) +6, [Intimidate](skill_dir/intimidate#_intimidate) +7, [Knowledge](skills/knowledge#_knowledge) (geography, local, nature) +5, [Knowledge](skill_dir/knowledge#_knowledge) (history) +8, [Knowledge](skills/knowledge#_knowledge) (religion) +6, Perception +18, [Sense Motive](skill_dir/senseMotive#_sense-motive) +12, [Stealth](skills/stealth#_stealth) +21, [Swim](skill_dir/swim#_swim) +7
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +21 (+42 when jumping), [Bluff](skills_dir/bluff#_bluff) +6, [Climb](skills_dir/climb#_climb) +11, [Diplomacy](skills_dir/diplomacy#_diplomacy) +2, [Disguise](skills_dir/disguise#_disguise) +6, [Intimidate](skills_dir/intimidate#_intimidate) +7, [Knowledge](skills_dir/knowledge#_knowledge) (geography, local, nature) +5, [Knowledge](skills_dir/knowledge#_knowledge) (history) +8, [Knowledge](skills_dir/knowledge#_knowledge) (religion) +6, Perception +18, [Sense Motive](skills_dir/senseMotive#_sense-motive) +12, [Stealth](skills_dir/stealth#_stealth) +21, [Swim](skills_dir/swim#_swim) +7
 
 **Languages** Auran, Common, Infernal
 
 **SQ** fast movement, hidden weapons, high jump, _ki_ pool (8 points, magic), maneuver training, poison use, slow fall 40 ft., wholeness of body
 
-**Combat Gear** _potion of [barkskin](spells/barkskin#_barkskin)_, _potion of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_, _potion of [haste](spells/haste#_haste)_; **Other Gear** _+1 human-bane shuriken_ (5)_,_ _+1 shuriken _(20), adamantine shuriken (10), cold iron shuriken (10), masterwork quarterstaff, _ [belt of physical might](magicItem_dir/wondrousItems#_belt-of-physical-might) +2 _(Str, Dex), _ [bracers of armor](magicItems/wondrousItems#_bracers-of-armor) +2_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, _ [shock](magicItem_dir/weapons#_weapons-shock) [amulet of mighty fists](magicItems/wondrousItems#_amulet-of-mighty-fists)_, 235 gp
+**Combat Gear** _potion of [barkskin](spells_dir/barkskin#_barkskin)_, _potion of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_, _potion of [haste](spells_dir/haste#_haste)_; **Other Gear** _+1 human-bane shuriken_ (5)_,_ _+1 shuriken _(20), adamantine shuriken (10), cold iron shuriken (10), masterwork quarterstaff, _ [belt of physical might](magicItems_dir/wondrousItems#_belt-of-physical-might) +2 _(Str, Dex), _ [bracers of armor](magicItems_dir/wondrousItems#_bracers-of-armor) +2_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +1_, _ [shock](magicItems_dir/weapons#_weapons-shock) [amulet of mighty fists](magicItems_dir/wondrousItems#_amulet-of-mighty-fists)_, 235 gp
 
 These monks deal swift and dispassionate death to those who threaten or cross their monastery.
 
@@ -176,31 +176,31 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+2 scythe _+25/+20/+15 (2d4+15/19–20/×4 plus poison)
+**Melee** _+2 scythe _+25_dir/+20_dir/+15 (2d4+15_dir/19–20_dir/×4 plus poison)
 
-**Special Attacks** death attack (DC 19), quiet death, sneak attack +4d6, true death (DC 22), weapon training (heavy blades +1), wild shape 1/day
+**Special Attacks** death attack (DC 19), quiet death, sneak attack +4d6, true death (DC 22), weapon training (heavy blades +1), wild shape 1_dir/day
 
 **Domain Spell-Like Abilities** (CL 4th; concentration +6)
 
-5/day—wooden fist
+5_dir/day—wooden fist
 
 **Druid Spells Prepared** (CL 4th; concentration +6)
 
-2nd—_ [barkskin](spell_dir/barkskin#_barkskin)_D, _ [resist energy](spells/resistEnergy#_resist-energy)_ (DC 14), _ [spider climb](spell_dir/spiderClimb#_spider-climb)_, _ [tree shape](spells/treeShape#_tree-shape)_
+2nd—_ [barkskin](spells_dir/barkskin#_barkskin)_D, _ [resist energy](spells_dir/resistEnergy#_resist-energy)_ (DC 14), _ [spider climb](spells_dir/spiderClimb#_spider-climb)_, _ [tree shape](spells_dir/treeShape#_tree-shape)_
 
-1st—_ [entangle](spell_dir/entangle#_entangle)_D (DC 13), _ [faerie fire](spells/faerieFire#_faerie-fire)_ (2), _ [longstrider](spell_dir/longstrider#_longstrider)_, _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_
+1st—_ [entangle](spells_dir/entangle#_entangle)_D (DC 13), _ [faerie fire](spells_dir/faerieFire#_faerie-fire)_ (2), _ [longstrider](spells_dir/longstrider#_longstrider)_, _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_
 
-0 (at will)—_ [detect magic](spell_dir/detectMagic#_detect-magic)_, _ [guidance](spells/guidance#_guidance)_, _ [light](spell_dir/light#_light)_, _ [know direction](spells/knowDirection#_know-direction)_
+0 (at will)—_ [detect magic](spells_dir/detectMagic#_detect-magic)_, _ [guidance](spells_dir/guidance#_guidance)_, _ [light](spells_dir/light#_light)_, _ [know direction](spells_dir/knowDirection#_know-direction)_
 
 **Domain** Plant
 
 Tactics
 
-**Before Combat** The assassin casts _ [barkskin](spell_dir/barkskin#_barkskin)_ and _ [longstrider](spells/longstrider#_longstrider)_. He applies poison to his scythe, and wild shapes into an eagle or dire rat.
+**Before Combat** The assassin casts _ [barkskin](spells_dir/barkskin#_barkskin)_ and _ [longstrider](spells_dir/longstrider#_longstrider)_. He applies poison to his scythe, and wild shapes into an eagle or dire rat.
 
-**During Combat** In animal form, the assassin studies an enemy spellcaster for 3 rounds before casting _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist)_ to sow chaos among his foes. He then takes his real form to make a death attack against his target. In melee, he trips his foes.
+**During Combat** In animal form, the assassin studies an enemy spellcaster for 3 rounds before casting _ [obscuring mist](spells_dir/obscuringMist#_obscuring-mist)_ to sow chaos among his foes. He then takes his real form to make a death attack against his target. In melee, he trips his foes.
 
-**Base Statistics** Without _ [barkskin](spells/barkskin#_barkskin)_ and _ [longstrider](spell_dir/longstrider#_longstrider)_, the assassin's statistics are **AC** 24, touch 12, flat-footed 24; **Speed** 20 ft.
+**Base Statistics** Without _ [barkskin](spells_dir/barkskin#_barkskin)_ and _ [longstrider](spells_dir/longstrider#_longstrider)_, the assassin's statistics are **AC** 24, touch 12, flat-footed 24; **Speed** 20 ft.
 
 Statistics
 
@@ -208,15 +208,15 @@ Statistics
 
 **Base Atk** +14; **CMB** +21 (+25 trip); **CMD** 33 (35 vs. trip)
 
-**Feats** [Combat Expertise](feats#_combat-expertise), [Critical Focus](feats#_critical-focus), [Disruptive](feats#_disruptive), Greater Trip, [Improved Critical](feats#_improved-critical) (scythe), [Improved Initiative](feats#_improved-initiative), Improved Trip, Improved [Vital Strike](feats#_vital-strike), [Natural Spell](feats#_natural-spell), [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth)), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (scythe), Weapon Specialization (scythe)
+**Feats** [Combat Expertise](feats#_combat-expertise), [Critical Focus](feats#_critical-focus), [Disruptive](feats#_disruptive), Greater Trip, [Improved Critical](feats#_improved-critical) (scythe), [Improved Initiative](feats#_improved-initiative), Improved Trip, Improved [Vital Strike](feats#_vital-strike), [Natural Spell](feats#_natural-spell), [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) ( [Stealth](skills_dir/stealth#_stealth)), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (scythe), Weapon Specialization (scythe)
 
-**Skills** [Climb](skill_dir/climb#_climb) +13, [Disguise](skills/disguise#_disguise) +1, [Fly](skill_dir/fly#_fly) +3, [Knowledge](skills/knowledge#_knowledge) (geography) +10, [Knowledge](skill_dir/knowledge#_knowledge) (local, religion) +7, [Knowledge](skills/knowledge#_knowledge) (nature) +12, Perception +24, [Sense Motive](skill_dir/senseMotive#_sense-motive) +19, [Stealth](skills/stealth#_stealth) +21, [Survival](skill_dir/survival#_survival) +12, [Swim](skills/swim#_swim) +13
+**Skills** [Climb](skills_dir/climb#_climb) +13, [Disguise](skills_dir/disguise#_disguise) +1, [Fly](skills_dir/fly#_fly) +3, [Knowledge](skills_dir/knowledge#_knowledge) (geography) +10, [Knowledge](skills_dir/knowledge#_knowledge) (local, religion) +7, [Knowledge](skills_dir/knowledge#_knowledge) (nature) +12, Perception +24, [Sense Motive](skills_dir/senseMotive#_sense-motive) +19, [Stealth](skills_dir/stealth#_stealth) +21, [Survival](skills_dir/survival#_survival) +12, [Swim](skills_dir/swim#_swim) +13
 
 **Languages** Common, Elven, Goblin, Sylvan
 
 **SQ** armor training 1, elf blood, hidden weapons, nature bond (Plant domain), nature sense, poison use, trackless step, wild empathy +3, woodland stride
 
-**Combat Gear** _potion of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_, deathblade poison, purple worm poison (3); **Other Gear** _+3 [glamered](magicItems/armor#_armor-glamered) darkwood full plate_, _+2 scythe_, _ [belt of physical might](magicItem_dir/wondrousItems#_belt-of-physical-might) +4_ (Str, Con), _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +2_, 402 gp
+**Combat Gear** _potion of [cure serious wounds](spells_dir/cureSeriousWounds#_cure-serious-wounds)_, deathblade poison, purple worm poison (3); **Other Gear** _+3 [glamered](magicItems_dir/armor#_armor-glamered) darkwood full plate_, _+2 scythe_, _ [belt of physical might](magicItems_dir/wondrousItems#_belt-of-physical-might) +4_ (Str, Con), _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +2_, 402 gp
 
 Many of these murderers serve as assassins for dark druid circles or dominate savage humanoid tribes.
 
@@ -254,17 +254,17 @@ Offense
 
 **Speed** 25 ft.
 
-**Melee** _+1 [flaming](magicItems/weapons#_weapons-flaming) [frost](magicItem_dir/weapons#_weapons-frost) [shock](magicItems/weapons#_weapons-shock) handaxe_ +20/+15/+10 (1d6+5/19–20/×3 plus 1d6 cold and 1d6 electricity and 1d6 fire)
+**Melee** _+1 [flaming](magicItems_dir/weapons#_weapons-flaming) [frost](magicItems_dir/weapons#_weapons-frost) [shock](magicItems_dir/weapons#_weapons-shock) handaxe_ +20_dir/+15_dir/+10 (1d6+5_dir/19–20_dir/×3 plus 1d6 cold and 1d6 electricity and 1d6 fire)
 
-**Ranged** _+1 [returning](magicItem_dir/weapons#_weapons-returning) [shock](magicItems/weapons#_weapons-shock) [throwing](magicItem_dir/weapons#_throwing) axe_ +15 (1d6+5/×3 plus 1d6 electricity)
+**Ranged** _+1 [returning](magicItems_dir/weapons#_weapons-returning) [shock](magicItems_dir/weapons#_weapons-shock) [throwing](magicItems_dir/weapons#_throwing) axe_ +15 (1d6+5_dir/×3 plus 1d6 electricity)
 
-**Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, angel of death 1/day, death attack (DC 26), quiet death, sneak attack +10d6, swift death 1/day, true death (DC 25)
+**Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, angel of death 1_dir/day, death attack (DC 26), quiet death, sneak attack +10d6, swift death 1_dir/day, true death (DC 25)
 
 Tactics
 
-**Before Combat** The assassin uses [Stealth](skill_dir/stealth#_stealth) or [Disguise](skills/disguise#_disguise) to get close to her prey so she can study and strike with her death attack.
+**Before Combat** The assassin uses [Stealth](skills_dir/stealth#_stealth) or [Disguise](skills_dir/disguise#_disguise) to get close to her prey so she can study and strike with her death attack.
 
-**During Combat** Using her fast stealth and _ [boots of speed](magicItem_dir/wondrousItems#_boots-of-speed)_ to rush into the fray, the assassin attacks the most threatening target using bleeding strike. Next, she moves out of melee to soften foes with throwing axe attacks before reentering melee.
+**During Combat** Using her fast stealth and _ [boots of speed](magicItems_dir/wondrousItems#_boots-of-speed)_ to rush into the fray, the assassin attacks the most threatening target using bleeding strike. Next, she moves out of melee to soften foes with throwing axe attacks before reentering melee.
 
 Statistics
 
@@ -274,13 +274,13 @@ Statistics
 
 **Feats** Cleave, [Combat Expertise](feats#_combat-expertise), [Fleet](feats#_fleet), [Improved Critical](feats#_improved-critical) (handaxe), Improved Feint, Improved [Iron Will](feats#_iron-will), Improved [Vital Strike](feats#_vital-strike), [Iron Will](feats#_iron-will), [Point-Blank Shot](feats#_point-blank-shot), [Power Attack](feats#_power-attack), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (handaxe)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +12, [Bluff](skill_dir/bluff#_bluff) +21, [Climb](skills/climb#_climb) +16, [Diplomacy](skill_dir/diplomacy#_diplomacy) +6, [Disable Device](skills/disableDevice#_disable-device) +12, [Disguise](skill_dir/disguise#_disguise) +11, [Heal](skills/heal#_heal) +7, [Knowledge](skill_dir/knowledge#_knowledge) (dungeoneering) +14, [Knowledge](skills/knowledge#_knowledge) (engineering, geography, history, nature, nobility, religion) +11, [Knowledge](skill_dir/knowledge#_knowledge) (local) +19, [Linguistics](skills/linguistics#_linguistics) +14, Perception +25 (+27 to notice unusual stonework), [Sense Motive](skill_dir/senseMotive#_sense-motive) +25, [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) +22, [Stealth](skill_dir/stealth#_stealth) +22, [Survival](skills/survival#_survival) +12, [Swim](skill_dir/swim#_swim) +16, [Use Magic Device](skills/useMagicDevice#_use-magic-device) +21
+**Skills** [Acrobatics](skills_dir/acrobatics#_acrobatics) +12, [Bluff](skills_dir/bluff#_bluff) +21, [Climb](skills_dir/climb#_climb) +16, [Diplomacy](skills_dir/diplomacy#_diplomacy) +6, [Disable Device](skills_dir/disableDevice#_disable-device) +12, [Disguise](skills_dir/disguise#_disguise) +11, [Heal](skills_dir/heal#_heal) +7, [Knowledge](skills_dir/knowledge#_knowledge) (dungeoneering) +14, [Knowledge](skills_dir/knowledge#_knowledge) (engineering, geography, history, nature, nobility, religion) +11, [Knowledge](skills_dir/knowledge#_knowledge) (local) +19, [Linguistics](skills_dir/linguistics#_linguistics) +14, Perception +25 (+27 to notice unusual stonework), [Sense Motive](skills_dir/senseMotive#_sense-motive) +25, [Sleight of Hand](skills_dir/sleightOfHand#_sleight-of-hand) +22, [Stealth](skills_dir/stealth#_stealth) +22, [Survival](skills_dir/survival#_survival) +12, [Swim](skills_dir/swim#_swim) +16, [Use Magic Device](skills_dir/useMagicDevice#_use-magic-device) +21
 
 **Languages** Abyssal, Aklo, Celestial, Common, Draconic, Dwarven, Elven, Gnome, Goblin, Ignan, Infernal, Orc, Terran
 
 **SQ** hidden weapons, hide in plain sight, poison use, rogue talents (bleeding attack +10, combat trick, crippling strike, fast stealth, weapon training), trapfinding +5
 
-**Gear** _+5 chain shirt_, _+1 [flaming](magicItem_dir/weapons#_weapons-flaming) [frost](magicItems/weapons#_weapons-frost) [shock](magicItem_dir/weapons#_weapons-shock) handaxe_, _+1 [returning](magicItems/weapons#_weapons-returning) [shock](magicItem_dir/weapons#_weapons-shock) handaxe_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of physical might](magicItem_dir/wondrousItems#_belt-of-physical-might) +4 _(Str, Con), _ [boots of speed](magicItems/wondrousItems#_boots-of-speed)_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +2, dusty rose prism [ioun stone](magicItems/wondrousItems#_ioun-stones)_, _ [headband of vast intelligence](magicItem_dir/wondrousItems#_headband-of-vast-intelligence) +2_, _ [ring of protection](magicItems/rings#_ring-of-protection) +2_, 2,138 gp
+**Gear** _+5 chain shirt_, _+1 [flaming](magicItems_dir/weapons#_weapons-flaming) [frost](magicItems_dir/weapons#_weapons-frost) [shock](magicItems_dir/weapons#_weapons-shock) handaxe_, _+1 [returning](magicItems_dir/weapons#_weapons-returning) [shock](magicItems_dir/weapons#_weapons-shock) handaxe_, _ [amulet of natural armor](magicItems_dir/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of physical might](magicItems_dir/wondrousItems#_belt-of-physical-might) +4 _(Str, Con), _ [boots of speed](magicItems_dir/wondrousItems#_boots-of-speed)_, _ [cloak of resistance](magicItems_dir/wondrousItems#_cloak-of-resistance) +2, dusty rose prism [ioun stone](magicItems_dir/wondrousItems#_ioun-stones)_, _ [headband of vast intelligence](magicItems_dir/wondrousItems#_headband-of-vast-intelligence) +2_, _ [ring of protection](magicItems_dir/rings#_ring-of-protection) +2_, 2,138 gp
 
 Surprisingly quick and nimble for dwarves, fatal axes mix melee prowess with devastating throwing axe strikes to bring down their foes.
 

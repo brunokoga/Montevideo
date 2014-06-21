@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/detectUndead
+title: spells_dir/detectUndead
 ---
  **Detect Undead**
 
-**School** divination; **Level** cleric 1, paladin 1, sorcerer/wizard 1
+**School** divination; **Level** cleric 1, paladin 1, sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M/DF (earth from a grave)
+**Components** V, S, M_dir/DF (earth from a grave)
 
 **Range** 60 ft.
 
 **Area** cone-shaped emanation
 
-**Duration** concentration, up to 1 minut_dir/ level (D)
+**Duration** concentration, up to 1 minute_dir/ level (D)
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

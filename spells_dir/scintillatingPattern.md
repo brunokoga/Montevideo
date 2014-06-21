@@ -1,16 +1,16 @@
 ---
 layout: default
-title: spell_dir/scintillatingPattern
+title: spells_dir/scintillatingPattern
 ---
  **Scintillating Pattern**
 
-**School** illusion (pattern) [mind-affecting]; **Level** sorcerer/wizard 8
+**School** illusion (pattern) [mind-affecting]; **Level** sorcerer_dir/wizard 8
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a crystal prism)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** colorful lights in a 20-ft.-radius spread
 

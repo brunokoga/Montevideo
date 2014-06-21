@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/toxicGift
+title: ultimateMagic_dir/spells_dir/toxicGift
 ---
 Toxic Gift
 
-**School** necromancy [poison]; **Level** antipaladin 2, sorcere_dir/wizard 3
+**School** necromancy [poison]; **Level** antipaladin 2, sorcerer_dir/wizard 3
 
 **Casting Time** 1 standard action
 

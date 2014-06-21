@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/floatingDisk
+title: spells_dir/floatingDisk
 ---
  **Floating Disk**
 
-**School** evocation [force]; **Level** sorcerer/wizard 1
+**School** evocation [force]; **Level** sorcerer_dir/wizard 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a drop of mercury)
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Effect** 3-ft.-diameter disk of force
 
-**Duration** 1 hou_dir/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

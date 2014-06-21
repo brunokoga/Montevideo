@@ -1,6 +1,6 @@
 ---
 layout: default
-title: additionalMonster_dir/grick
+title: additionalMonsters_dir/grick
 ---
 # Grick
 
@@ -10,9 +10,9 @@ This pallid, slimy, worm-like creature is the size of a human, its mouth a sicke
 
 **XP 800**
 
-N Medium [aberration](monsters/creatureTypes#_aberration)
+N Medium [aberration](monsters_dir/creatureTypes#_aberration)
 
-**Init** +2; **Senses** darkvision 60 ft., [scent](monster_dir/universalMonsterRules#_scent); [Perception](additionalMonsters/../skill_dir/perception#_perception) +12
+**Init** +2; **Senses** darkvision 60 ft., [scent](monsters_dir/universalMonsterRules#_scent); [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +12
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +2, **Ref** +3, **Will** +6
 
-**DR** 10/magic
+**DR** 10_dir/magic
 
 Offense
 
@@ -36,9 +36,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +4; **CMD** 16 (can't be tripped)
 
-**Feats** [Combat Reflexes](additionalMonster_dir/../feats#_combat-reflexes), [Skill Focus](additionalMonster_dir/../feats#_skill-focus) ( [Perception](additionalMonster_dir/../skill_dir/perception#_perception)), [Stand Still](additionalMonsters/../feats#_stand-still)
+**Feats** [Combat Reflexes](additionalMonsters_dir/../feats#_combat-reflexes), [Skill Focus](additionalMonsters_dir/../feats#_skill-focus) ( [Perception](additionalMonsters_dir/../skills_dir/perception#_perception)), [Stand Still](additionalMonsters_dir/../feats#_stand-still)
 
-**Skills** [Climb](additionalMonster_dir/../skill_dir/climb#_climb) +9, [Perception](additionalMonsters/../skill_dir/perception#_perception) +12, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +6 (+14 in rocky terrain); **Racial Modifiers** +8 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in rocky terrain
+**Skills** [Climb](additionalMonsters_dir/../skills_dir/climb#_climb) +9, [Perception](additionalMonsters_dir/../skills_dir/perception#_perception) +12, [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) +6 (+14 in rocky terrain); **Racial Modifiers** +8 [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) in rocky terrain
 
 **Languages** Aklo (cannot speak)
 
@@ -58,5 +58,5 @@ Gricks rely on their dark coloration and ability to climb walls to keep them out
 
 ## Jungle Gricks
 
-These surface-adapted varieties of the underground grick are shades of green and lurk in the undergrowth of jungles or climb low-hanging branches to drop on unsuspecting prey. Their racial bonus on [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) checks applies in forested terrain instead of rocky terrain. Jungle gricks are heartier creatures than their underground-dwelling kin—all jungle gricks possess the advanced creature simple template and gain [Toughness](additionalMonsters/../feats#_toughness) as a bonus feat.
+These surface-adapted varieties of the underground grick are shades of green and lurk in the undergrowth of jungles or climb low-hanging branches to drop on unsuspecting prey. Their racial bonus on [Stealth](additionalMonsters_dir/../skills_dir/stealth#_stealth) checks applies in forested terrain instead of rocky terrain. Jungle gricks are heartier creatures than their underground-dwelling kin—all jungle gricks possess the advanced creature simple template and gain [Toughness](additionalMonsters_dir/../feats#_toughness) as a bonus feat.
 

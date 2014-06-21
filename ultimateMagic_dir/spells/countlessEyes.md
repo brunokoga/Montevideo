@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ultimateMagi_dir/spells/countlessEyes
+title: ultimateMagic_dir/spells_dir/countlessEyes
 ---
 Countless Eyes
 
-**School** transmutation; **Level** alchemist 3, inquisitor 3, sorcere_dir/wizard 3, witch 3
+**School** transmutation; **Level** alchemist 3, inquisitor 3, sorcerer_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
@@ -14,7 +14,7 @@ Countless Eyes
 
 **Target** creature touched
 
-**Duration** 1 hour/level
+**Duration** 1 hour_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 

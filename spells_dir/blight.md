@@ -1,10 +1,10 @@
 ---
 layout: default
-title: spell_dir/blight
+title: spells_dir/blight
 ---
  **Blight**
 
-**School** necromancy; **Level** druid 4, sorcerer/wizard 5
+**School** necromancy; **Level** druid 4, sorcerer_dir/wizard 5
 
 **Casting Time** 1 standard action
 

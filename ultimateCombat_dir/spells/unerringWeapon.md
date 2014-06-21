@@ -1,20 +1,20 @@
 ---
 layout: default
-title: ultimateComba_dir/spells/unerringWeapon
+title: ultimateCombat_dir/spells_dir/unerringWeapon
 ---
 Unerring Weapon
 
-**School** transmutation; **Level** inquisitor 1, magus 1, sorcere_dir/wizard 1, witch 1
+**School** transmutation; **Level** inquisitor 1, magus 1, sorcerer_dir/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
 **Components** V, S
 
-**Range** close (25 ft. + 5 ft./2 levels)
+**Range** close (25 ft. + 5 ft._dir/2 levels)
 
 **Targets** one weapon or 20 projectiles, all of which must be together at the time of casting
 
-**Duration** 1 roun_dir/level
+**Duration** 1 round_dir/level
 
 **Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
 

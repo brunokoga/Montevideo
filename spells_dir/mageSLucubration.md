@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/mageSLucubration
+title: spells_dir/mageSLucubration
 ---
  **Mage's Lucubration**
 

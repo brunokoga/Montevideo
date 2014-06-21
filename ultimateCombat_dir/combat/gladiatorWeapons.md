@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ultimateComba_dir/combat/gladiatorWeapons
+title: ultimateCombat_dir/combat_dir/gladiatorWeapons
 ---
 # Gladiator Weapons
 
@@ -20,7 +20,7 @@ _Performance_: When wielding this weapon, if an attack or combat maneuver made w
 | Martial | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weightⁱ | Type⁲ | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | _Light Melee Weapons_ |
-| Gladius | 15 gp | 1d4 | 1d6 | 19–20/×2 | — | 3 lbs. | P or S | performance |
+| Gladius | 15 gp | 1d4 | 1d6 | 19–20_dir/×2 | — | 3 lbs. | P or S | performance |
 | _One-Handed Melee Weapons_ |
 | Scizore | 20 gp | 1d8 | 1d10 | ×2 | — | 3 lbs. | P | performance |
 | _Ranged Weapons_ |
@@ -33,7 +33,7 @@ _Performance_: When wielding this weapon, if an attack or combat maneuver made w
 | Madu, leather | 40 gp | 1d3 | 1d4 | ×2 | — | 5 lbs. | P | performance |
 | Madu, steel | 40 gp | 1d3 | 1d4 | ×2 | — | 6 lbs. | P | performance |
 | Pata | 14 gp | 1d4 | 1d6 | ×3 | — | 3 lbs. | P | performance |
-| Quadrens | 8 gp | 1d4 | 1d6 | 19–20/×2 | — | 2 lbs. | P | performance |
+| Quadrens | 8 gp | 1d4 | 1d6 | 19–20_dir/×2 | — | 2 lbs. | P | performance |
 | Scorpion whip | 5 gp | 1d3 | 1d4 | ×2 | — | 3 lbs | S | performance |
 | Sica | 10 gp | 1d4 | 1d6 | ×2 | — | 2 lbs. | S | performance |
 | _One-Handed Melee Weapons_ |

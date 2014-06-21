@@ -1,6 +1,6 @@
 ---
 layout: default
-title: spell_dir/harm
+title: spells_dir/harm
 ---
  **Harm**
 

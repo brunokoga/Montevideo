@@ -1,10 +1,10 @@
 ---
 layout: default
-title: mythicAdventure_dir/mythicSpells/controlWeather
+title: mythicAdventures_dir/mythicSpells_dir/controlWeather
 ---
 Control Weather
 
-**Source** [_control weather_](spell_dir/controlWeather#_control-weather)
+**Source** [_control weather_](spells_dir/controlWeather#_control-weather)
 
 The casting time changes to 1 standard action, and the duration doubles. The weather changes after a number of rounds equal to 11 – your tier.
 

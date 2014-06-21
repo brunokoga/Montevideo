@@ -1,6 +1,6 @@
 ---
 layout: default
-title: bestiary3/seaBonze
+title: bestiary3_dir/seaBonze
 ---
 # Sea Bonze
 
@@ -10,9 +10,9 @@ Sea Bonze CR 15
 
 XP 51,200
 
-NE Gargantuan undead ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype))
+NE Gargantuan undead ( [aquatic](monsters_dir/creatureTypes#_aquatic-subtype))
 
-**Init** +4; **Senses** [blindsight](monsters/universalMonsterRules#_blindsight) 120 ft.; [Perception](skill_dir/perception#_perception) +33
+**Init** +4; **Senses** [blindsight](monsters_dir/universalMonsterRules#_blindsight) 120 ft.; [Perception](skills_dir/perception#_perception) +33
 
 Defense
 
@@ -22,7 +22,7 @@ Defense
 
 **Fort** +13, **Ref** +9, **Will** +19
 
-**DR** 10/magic and slashing; **Immune** [cold](monster_dir/creatureTypes#_cold-subtype), electricity, undead traits; **Resist** acid 10, [fire](monsters/creatureTypes#_fire-subtype) 10
+**DR** 10_dir/magic and slashing; **Immune** [cold](monsters_dir/creatureTypes#_cold-subtype), electricity, undead traits; **Resist** acid 10, [fire](monsters_dir/creatureTypes#_fire-subtype) 10
 
 Offense
 
@@ -42,7 +42,7 @@ Statistics
 
 **Feats** [Alertness](feats#_alertness), [Combat Reflexes](feats#_combat-reflexes), [Critical Focus](feats#_critical-focus), [Improved Initiative](feats#_improved-initiative), [Improved Iron Will](feats#_improved-iron-will), [Intimidating Prowess](feats#_intimidating-prowess), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Stand Still](feats#_stand-still), [Vital Strike](feats#_vital-strike)
 
-**Skills** [Intimidate](skill_dir/intimidate#_intimidate) +41, [Perception](skills/perception#_perception) +33, [Sense Motive](skill_dir/senseMotive#_sense-motive) +33, [Stealth](skills/stealth#_stealth) +13, [Swim](skill_dir/swim#_swim) +44; **Racial Modifiers** +4 [Swim](skills/swim#_swim)
+**Skills** [Intimidate](skills_dir/intimidate#_intimidate) +41, [Perception](skills_dir/perception#_perception) +33, [Sense Motive](skills_dir/senseMotive#_sense-motive) +33, [Stealth](skills_dir/stealth#_stealth) +13, [Swim](skills_dir/swim#_swim) +44; **Racial Modifiers** +4 [Swim](skills_dir/swim#_swim)
 
 **Languages** Aquan, Common
 
@@ -56,7 +56,7 @@ Ecology
 
 Special Abilities
 
-**Dooming Gaze (Su)** Paralyzed with [fear](monster_dir/universalMonsterRules#_fear-(su-or-sp)) for 1 round, 60 feet, Will DC 27 negates. A creature that is already paralyzed by this [gaze](monsters/universalMonsterRules#_gaze) attack and fails a saving throw to resist being paralyzed for 1 more round gains 1 negative level (Fortitude DC 27 to remove after 24 hours). The paralysis effect of this [gaze](monster_dir/universalMonsterRules#_gaze) is a mind-affecting [fear](monsters/universalMonsterRules#_fear-(su-or-sp)) effect, but the negative level is not. The save DC is Charisma-based.
+**Dooming Gaze (Su)** Paralyzed with [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) for 1 round, 60 feet, Will DC 27 negates. A creature that is already paralyzed by this [gaze](monsters_dir/universalMonsterRules#_gaze) attack and fails a saving throw to resist being paralyzed for 1 more round gains 1 negative level (Fortitude DC 27 to remove after 24 hours). The paralysis effect of this [gaze](monsters_dir/universalMonsterRules#_gaze) is a mind-affecting [fear](monsters_dir/universalMonsterRules#_fear-(su-or-sp)) effect, but the negative level is not. The save DC is Charisma-based.
 
 The ocean knows few terrors as unnatural and horrific as the sea bonze. This undead goliath dwells near established shipping lanes or offshore from coastal settlements, where it lurks just beneath the surface of the water until it can strike unsuspecting boats in the dead of night. Sailors often advise launching ocean voyages only during the day on the assumption that doing so might protect them from the sea bonze's attention, but such tactics make little difference to the creature itself, which will trail a particular ship until after dusk, sometimes for hundreds of miles, only to lurch out of the water and lay waste to an entire ship.
 

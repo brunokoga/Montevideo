@@ -1,6 +1,6 @@
 ---
 layout: default
-title: skill_dir/profession
+title: skills_dir/profession
 ---
 # Profession
 

@@ -1,20 +1,20 @@
 ---
 layout: default
-title: spell_dir/wallOfIce
+title: spells_dir/wallOfIce
 ---
  **Wall of Ice**
 
-**School** evocation [cold]; **Level** sorcerer/wizard 4
+**School** evocation [cold]; **Level** sorcerer_dir/wizard 4
 
 **Casting Time** 1 standard action
 
 **Components** V, S, M (a piece of quartz or rock crystal)
 
-**Range** medium (100 ft. + 10 ft./level)
+**Range** medium (100 ft. + 10 ft._dir/level)
 
-**Effect** anchored plane of ice, up to one 10-ft. squar_dir/level, or hemisphere of ice with a radius of up to 3 ft. + 1 ft./level
+**Effect** anchored plane of ice, up to one 10-ft. square_dir/level, or hemisphere of ice with a radius of up to 3 ft. + 1 ft._dir/level
 
-**Duration** 1 min./level
+**Duration** 1 min._dir/level
 
 **Saving Throw** [Reflex](../combat#_reflex) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 
