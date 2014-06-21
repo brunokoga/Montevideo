@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/transmogrify
+title: advanced/spell_dir/transmogrify
 ---
  **Transmogrify**
 
@@ -15,7 +15,7 @@ title: advanced/spells/transmogrify
 
 **Duration** instantaneous
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** no
+**Saving Throw** Will negates (harmless; **Spell Resistance** no
 
 Your eidolon's form shifts and transforms. This spell allows you to change any of the eidolon's evolutions by allocating its evolution pool on new evolutions. If you have the aspect or greater aspect ability, this spell also allows you to change the evolution points spent to modify you, including removing or adding points as allowed by those abilities.
 

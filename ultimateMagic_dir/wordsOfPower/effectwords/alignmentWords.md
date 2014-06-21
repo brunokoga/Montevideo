@@ -1,15 +1,15 @@
 ---
-title: ultimateMagic/wordsOfPower/effectwords/alignmentWords
+title: ultimateMagic/wordsOfPower/effectword_dir/alignmentWords
 ---
 ## Alignment Words
 
 Words from this family deal specifically with alignment, detecting, damaging, or protecting creatures based on their moral compass.
 
-Alignment Shield (Alignment)
+Alignment Shield (Alignment
 
 **School** abjuration; **Level** cleric 1, inquisitor 1, paladin 1, sorcerer/wizard 1
 
-**Duration** 1 minute/level (D)
+**Duration** 1 minut_dir/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
@@ -29,15 +29,15 @@ Alignment Assault (Alignment)
 
 If a wordspell with this effect word is cast, the wordcaster selects one alignment: good, evil, chaotic, or lawful. All creatures of that alignment take 1d8 points of damage per two caster levels (maximum 8d8). Outsiders of that alignment take 1d6 points of damage per caster level (maximum 15d6). In addition, creatures of the affected alignment are staggered for 1 round per caster level if they fail their saving throws.
 
-Alignment Aura (Alignment)
+Alignment Aura (Alignment
 
 **School** abjuration; **Level** cleric 8
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D)
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
 
 **Target Restrictions** _selected_
 
-A wordspell with this effect word functions as _alignment [shield](spells/shield#_shield)_, but the bonus to AC and on saving throws increases to +4. In addition, the creature gains SR 25 against spells cast by creatures of the chosen alignment. Finally, creatures of the chosen alignment find it painful to touch the warded creature, taking 2d6 points of damage for each successful hit with a melee weapon or natural weapon.
+A wordspell with this effect word functions as _alignment [shield](spell_dir/shield#_shield_, but the bonus to AC and on saving throws increases to +4. In addition, the creature gains SR 25 against spells cast by creatures of the chosen alignment. Finally, creatures of the chosen alignment find it painful to touch the warded creature, taking 2d6 points of damage for each successful hit with a melee weapon or natural weapon.
 

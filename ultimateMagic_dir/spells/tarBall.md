@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/tarBall
+title: ultimateMagic/spell_dir/tarBall
 ---
 Tar Ball
 
@@ -7,7 +7,7 @@ Tar Ball
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a tiny ball of bitumen)
+**Components** V, S, M (a tiny ball of bitumen
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

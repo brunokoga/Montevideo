@@ -1,5 +1,5 @@
 ---
-title: monsters/crab
+title: monster_dir/crab
 ---
 # Crab, Giant
 
@@ -9,9 +9,9 @@ _This lumbering hard-shelled crab stands as tall as a dwarf, its massive pincers
 
 **XP 600**
 
-N Medium [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subtype))
+N Medium [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subtype)
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +4
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +4
 
 **Defense**
 
@@ -35,9 +35,9 @@ N Medium [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subt
 
 **Str** 15, **Dex** 13, **Con** 14, **Int** —, **Wis** 10, **Cha** 2
 
-**Base**  **Atk** +2; **CMB** +4 (+8 grapple); **CMD** 15 (27 vs. trip)
+**Base**  **Atk** +2; **CMB** +4 (+8 grapple); **CMD** 15 (27 vs. trip
 
-**Skills** [Perception](../skills/perception#_perception) +4, [Swim](../skills/swim#_swim) +10; **Racial Modifiers** +4 [Perception](../skills/perception#_perception)
+**Skills** [Perception](../skill_dir/perception#_perception +4, [Swim](../skill_dir/swim#_swim +10; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception)
 
 **SQ** water dependency
 
@@ -55,7 +55,7 @@ N Medium [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subt
 
 Giant crabs behave much like their smaller cousins, feeding on both plant material like algae and fungus and animal matter such as fish, seabirds, and even unwary humanoids. The coloration of a giant crab's hard exoskeleton varies widely depending on species, and over time even shifts in response to its diet.
 
-Other species of giant crab exist as well, some smaller but most quite a bit larger. You can adjust the stats given here by changing Hit Dice and size (changing Strength, Dexterity, and Constitution as appropriate) to represent a wide range of different species of giant crab. The following table lists the most common variants.
+Other species of giant crab exist as well, some smaller but most quite a bit larger. You can adjust the stats given here by changing Hit Dice and size (changing Strength, Dexterity, and Constitution as appropriate to represent a wide range of different species of giant crab. The following table lists the most common variants.
 
 | Species | CR | Size | HD |
 | --- | --- | --- | --- |
@@ -76,7 +76,7 @@ _A writhing mass of clacking shells and snapping pincers rushes from the surf, t
 
 N Diminutive [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-subtype), [swarm](creatureTypes#_swarm-subtype))
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +0
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
@@ -96,7 +96,7 @@ N Diminutive [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** distraction (DC 14)
+**Special Attacks** distraction (DC 14
 
 **Statistics**
 
@@ -104,13 +104,13 @@ N Diminutive [vermin](creatureTypes#_vermin) ( [aquatic](creatureTypes#_aquatic-
 
 **Base**  **Atk** +5; **CMB** —; **CMD** —
 
-**Skills** [Swim](../skills/swim#_swim) +10; **Racial Modifiers** uses Dex to modify [Swim](../skills/swim#_swim)
+**Skills** [Swim](../skill_dir/swim#_swim +10; **Racial Modifiers** uses Dex to modify [Swim](../skill_dir/swim#_swim)
 
 **Ecology**
 
 **Environment** any aquatic
 
-**Organization** solitary, pair, or wave (3–8 swarms)
+**Organization** solitary, pair, or wave (3–8 swarms
 
 **Treasure** none
 

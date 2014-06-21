@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/campaignSystems/contacts
+title: ultimateCampaign/campaignSystem_dir/contacts
 ---
 # Contacts
 
@@ -31,7 +31,7 @@ The different trust levels are as follows.
 
 ## Risk
 
-Risk represents the potential danger of various tasks. Like a Trust score, Risk is measured on a scale of 1 to 5, with 1 representing little or no risk and 5 representing serious danger. Each level of risk includes the typical drawback or punishment the contact suffers if he critically fails at a risky task (see Negotiation Checks on page 150).
+Risk represents the potential danger of various tasks. Like a Trust score, Risk is measured on a scale of 1 to 5, with 1 representing little or no risk and 5 representing serious danger. Each level of risk includes the typical drawback or punishment the contact suffers if he critically fails at a risky task (see Negotiation Checks on page 150.
 
 The different risk examples are as follows. The GM should use these examples as guidelines to determine how risky a task is.
 
@@ -43,7 +43,7 @@ _Critical Failure_: No consequences worth considering.
 
 _Critical Failure_: Fine or imprisonment with bail. You must spend 1/3 the value of the contact's gear (see Table 14—9: NPC Gear on page 454 of the _Core Rulebook_) to rectify this situation; otherwise, you lose the contact, and all current and future contacts have their Trust scores lowered by 1 with you.
 
-**3. Moderate** : Moderately risky tasks include lying to authorities on your behalf, making forgeries, helping you evade authorities (such as by providing horses or casting a _ [teleport](spells/teleport#__teleport)_ spell), or loaning you money or equipment (worth up to 1/3 your estimated gear value according to Table 12—4: Character Wealth By Level on page 399 of the _Core Rulebook_). If the contact is caught while involved with this task, he may have to pay a fine, face short-term imprisonment, or suffer a moderate financial or social loss.
+**3. Moderate** : Moderately risky tasks include lying to authorities on your behalf, making forgeries, helping you evade authorities (such as by providing horses or casting a _ [teleport](spell_dir/teleport#__teleport)_ spell, or loaning you money or equipment (worth up to 1/3 your estimated gear value according to Table 12—4: Character Wealth By Level on page 399 of the _Core Rulebook_). If the contact is caught while involved with this task, he may have to pay a fine, face short-term imprisonment, or suffer a moderate financial or social loss.
 
 _Critical Failure_: Fine or imprisonment with bail. You must spend 1/2 the value of the contact's gear (see Table 14—9: NPC Gear on page 454 of the _Core Rulebook_) to rectify this situation; otherwise, you lose the contact, all current and future contacts have their Trust scores lowered by 2 with you, and the DC of any of your future attempts to raise the Trust scores of contacts increases by 5.
 
@@ -61,7 +61,7 @@ To use a contact, you must first determine the contact's willingness to help you
 
 If the task's Risk score is higher than the contact's Trust score, the contact simply refuses to attempt the task. You can try to entice the contact by offering him compensation for his efforts such as gold, gems, a magic item, or a debt of service. As a general rule, you may temporarily increase the contact's Trust score by 1 point by offering an enticement worth half the value of the contact's gear (see Table 14—9: NPC Gear on page 454 of the _Core Rulebook_). You can't offer more value to increase his Trust score more than 1 point at a time.
 
-If the Trust score is equal to or higher than the Risk score, you must attempt to negotiate by making an opposed [Diplomacy](skills/diplomacy#_diplomacy) check against the contact to determine whether he'll perform the task. The contact adds the task's Risk score to his [Diplomacy](skills/diplomacy#_diplomacy) check. If your check succeeds, the contact is willing and able to attempt to help you (though he may have a price for his services). Failure doesn't necessarily mean the contact doesn't want to help; the contact might be unavailable or unable to help at that time.
+If the Trust score is equal to or higher than the Risk score, you must attempt to negotiate by making an opposed [Diplomacy](skill_dir/diplomacy#_diplomacy check against the contact to determine whether he'll perform the task. The contact adds the task's Risk score to his [Diplomacy](skill_dir/diplomacy#_diplomacy) check. If your check succeeds, the contact is willing and able to attempt to help you (though he may have a price for his services). Failure doesn't necessarily mean the contact doesn't want to help; the contact might be unavailable or unable to help at that time.
 
 Once a contact agrees to help, the GM must determine the extent of his success. The GM attempts a skill check on behalf of the contact using the contact's most appropriate skill for the task (or an ability check if no skill is appropriate). The DC for this check is determined using the following formula:
 
@@ -73,11 +73,11 @@ Failing this check by 5 or more results in a critical failure (see the Risk sect
 
 Most tasks require 1 day of work, with the check to determine the contact's success or failure attempted at the end of the time period. When appropriate, the contact may decrease the DC of a task by increasing the time spent completing it, representing the time spent planning and preparing, gathering resources, and waiting for the right moment to attempt the task. Subtract 1 from the DC for each day spent beyond the first, to a maximum of 4 extra days.
 
-The GM might decide that a particular task is longer term and requires at least 1 week to perform (such as pulling off a large heist or protecting someone for several days). When appropriate, the contact may decrease the DC of a long-term task by proportionately increasing the amount of time spent. Subtract 1 from the DC for each additional week spent, to a maximum of 4 extra weeks. Tasks requiring more than this amount of time should be broken into smaller tasks and handled on a daily or weekly basis.
+The GM might decide that a particular task is longer term and requires at least 1 week to perform (such as pulling off a large heist or protecting someone for several days. When appropriate, the contact may decrease the DC of a long-term task by proportionately increasing the amount of time spent. Subtract 1 from the DC for each additional week spent, to a maximum of 4 extra weeks. Tasks requiring more than this amount of time should be broken into smaller tasks and handled on a daily or weekly basis.
 
-If the task becomes riskier while the contact is still working on completing it, you and the contact make another opposed [Diplomacy](skills/diplomacy#_diplomacy) check at the new Risk score (even if you aren't present to speak to the contact). This represents the contact weighing his trust in you and the risk of the task. If you succeed at this second check, the contact proceeds with the task. If you fail, the contact abandons the task.
+If the task becomes riskier while the contact is still working on completing it, you and the contact make another opposed [Diplomacy](skill_dir/diplomacy#_diplomacy) check at the new Risk score (even if you aren't present to speak to the contact. This represents the contact weighing his trust in you and the risk of the task. If you succeed at this second check, the contact proceeds with the task. If you fail, the contact abandons the task.
 
-Each time a contact fails at or abandons a task, he adds a cumulative +1 bonus on all subsequent [Diplomacy](skills/diplomacy#_diplomacy) checks made to negotiate tasks with you because of frustration, fear of being associated with you, or various other reasons. You can try to convince the contact to try again, but the contact usually must wait 1d4 days before another attempt, and trying that same task over again gives the contact a +4 bonus on his opposed [Diplomacy](skills/diplomacy#_diplomacy) check to negotiate.
+Each time a contact fails at or abandons a task, he adds a cumulative +1 bonus on all subsequent [Diplomacy](skill_dir/diplomacy#_diplomacy checks made to negotiate tasks with you because of frustration, fear of being associated with you, or various other reasons. You can try to convince the contact to try again, but the contact usually must wait 1d4 days before another attempt, and trying that same task over again gives the contact a +4 bonus on his opposed [Diplomacy](skill_dir/diplomacy#_diplomacy) check to negotiate.
 
 ## Gaining, Cultivating, and Losing Contacts
 
@@ -85,16 +85,16 @@ The GM may allow you to begin the campaign with one contact (typically with a Tr
 
 Positive interactions include things such as regular patronage of the NPC's business, providing the NPC with some form of additional compensation for his efforts, performing a deed on his behalf, or using your personal influence to help the contact gain a position of greater power or prestige. Profound interactions include saving the life of the NPC or someone the NPC loves, protecting his reputation against ruinous slander, or preventing loss of his property or finances. Once you accrue at least five positive interactions or one profound interaction with an NPC, you can treat him as a contact. This means you can ask him to help you, and you can attempt to improve his Trust score with you.
 
-A relationship with a contact develops as you spend time with him. Each time you have a positive or profound interaction with the contact (but no more than once at each of your character levels), attempt a [Diplomacy](skills/diplomacy#_diplomacy) check to improve the contact's Trust score by 1. If the interaction is profound rather than merely positive, you gain a +5 bonus on this [Diplomacy](skills/diplomacy#_diplomacy) check. The DC of the check depends on the contact's Trust score with you.
+A relationship with a contact develops as you spend time with him. Each time you have a positive or profound interaction with the contact (but no more than once at each of your character levels, attempt a [Diplomacy](skill_dir/diplomacy#_diplomacy check to improve the contact's Trust score by 1. If the interaction is profound rather than merely positive, you gain a +5 bonus on this [Diplomacy](skill_dir/diplomacy#_diplomacy) check. The DC of the check depends on the contact's Trust score with you.
 
-| NPC Trust (Score) | [Diplomacy](skills/diplomacy#_diplomacy) DC\*
+| NPC Trust (Score | [Diplomacy](skill_dir/diplomacy#_diplomacy) DC\*
 | Wary (1) | 20 |
 | Skeptical (2) | 15 |
 | Reliable (3) | 10 |
 | Trustworthy (4) | 15 |
-| Confidant (5) | 20 |
+| Confidant (5 | 20 |
 
-At the GM's discretion, if you're away from the contact for a month or longer, that contact's Trust score with you might decrease as he forgets about you. If this happens, attempt a [Diplomacy](skills/diplomacy#_diplomacy) check against the above DC. Success means the contact's Trust level remains the same, and failure means it decreases by 1 (minimum 1). At the GM's discretion, some contacts with special relationships to you, such as childhood friends or old mentors, might not lose Trust in this manner, or you could have to make these checks only once per year instead of once per month.
+At the GM's discretion, if you're away from the contact for a month or longer, that contact's Trust score with you might decrease as he forgets about you. If this happens, attempt a [Diplomacy](skill_dir/diplomacy#_diplomacy) check against the above DC. Success means the contact's Trust level remains the same, and failure means it decreases by 1 (minimum 1). At the GM's discretion, some contacts with special relationships to you, such as childhood friends or old mentors, might not lose Trust in this manner, or you could have to make these checks only once per year instead of once per month.
 
 Ending a relationship with a contact can be easy or difficult, depending on who the contact is and what kind of relationship he has with you. How you end a relationship with a contact can impact the Trust scores of your other contacts. In some cases, avoiding a contact for long enough (so his Trust score drops to 1) is enough to end the relationship with no hard feelings. It is up to the GM to determine what you must do to lose a contact in a way that does not affect the Trust score for your other contacts, but the GM should err on the side of leniency—if you made the effort to gain many contacts, you shouldn't be punished with reduced Trust scores for all contacts just because you stop interacting with some of them.
 
@@ -102,13 +102,13 @@ Ending a relationship with a contact can be easy or difficult, depending on who 
 
 Contacts are as diverse and complicated as society itself. Simple contacts only provide you with basic information, such as which roads have fewer bandits or which wells have the cleanest water. Contacts with greater experience, power, and influence are capable of providing more advanced aid. A politician's scribe might leak information or alter an important document, and a high-ranking church official might lend you a sacred relic. Because of this diversity, associating with certain types of contacts creates greater risk for you than associating with others. A conversation with a local miller or lumberjack attracts far less attention than a conversation with the sister of a powerful guildmaster or multiple visits to the grand vizier's chambers. Likewise, asking a notorious assassin to see whether an ailing wizard friend is recovering may be construed as a threat, asking a crazed wizard contact for local rumors is more likely to reflect poorly on you than asking a popular bard, and keeping company with criminals, outcasts, or other shady characters might implicate some amount of guilt by association in the eyes of local authorities.
 
-Some of the following example contacts have a minimum Risk (MR) listed after them. When making the negotiation check, use the Risk score of the task or the contact's MR, whichever is higher. For example, asking a contact to acquire a black-market item is normally a minor task (Risk score 2), but asking an assassin contact (MR 3) to acquire the same item makes the task moderately risky (Risk score 3), simply because the assassin's nature and reputation make even common tasks more chancy.
+Some of the following example contacts have a minimum Risk (MR) listed after them. When making the negotiation check, use the Risk score of the task or the contact's MR, whichever is higher. For example, asking a contact to acquire a black-market item is normally a minor task (Risk score 2), but asking an assassin contact (MR 3) to acquire the same item makes the task moderately risky (Risk score 3, simply because the assassin's nature and reputation make even common tasks more chancy.
 
 The DC of the skill check to complete the task uses the task's Risk, not the MR of the contact. For example, just because a master assassin is an inherently risky contact doesn't mean it's automatically harder for her to find a black-market item for you.
 
 A particular contact may have a higher minimum Risk than what is listed; these are just typical examples within a general category.
 
-**Academic** : An academic can provide knowledge within her areas of expertise. She typically has access to various libraries or other centers of knowledge. An academic researches a subject by drawing on public records and texts and then attempts to answer questions by making appropriate [Knowledge](skills/knowledge#_knowledge) checks.
+**Academic** : An academic can provide knowledge within her areas of expertise. She typically has access to various libraries or other centers of knowledge. An academic researches a subject by drawing on public records and texts and then attempts to answer questions by making appropriate [Knowledge](skill_dir/knowledge#_knowledge) checks.
 
 **Artisan** : A PC can count on an artisan to get an honest appraisal of an item, find goods for fair prices, locate or create a hard-to-find mundane item, find hearty livestock, or repair a broken item.
 
@@ -148,7 +148,7 @@ A particular contact may have a higher minimum Risk than what is listed; these a
 
 **Thug (MR 2)** : A thug uses force or threats of violence to influence others. She may be an enforcer who collects on debts for his employers or a vigilante who treats villains to her own sense of justice. Often the only difference between a thug and a city guard is that the thug performs his jobs outside of the constraints of the law. A thug isn't necessarily villainous, but others might consider her actions criminal. In addition to performing unsavory tasks, a thug can tell you details about her employer or those she torments.
 
-**Traitor (MR 3)** : A traitor has been accused or convicted of turning against the government and actively aiding its enemies. This contact isn't necessarily evil; he just actively rejects the ideology or actions of the current rulers—a paladin who rejects the edicts of an unscrupulous monarch and a witch who hexes nobles are both traitors according to their local leaders. A traitor is often knowledgeable about the government and could have even once been a politician in good standing.
+**Traitor (MR 3** : A traitor has been accused or convicted of turning against the government and actively aiding its enemies. This contact isn't necessarily evil; he just actively rejects the ideology or actions of the current rulers—a paladin who rejects the edicts of an unscrupulous monarch and a witch who hexes nobles are both traitors according to their local leaders. A traitor is often knowledgeable about the government and could have even once been a politician in good standing.
 
 **Watch Guard** : This contact provides information about local criminals and suspects, as well as reasonable insight into the workings of the city guard and current political goings-on and trends. She can keep an eye on things, provide an escort, allow you to speak with a prisoner, or arrange a meeting with a superior officer.
 

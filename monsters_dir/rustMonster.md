@@ -1,5 +1,5 @@
 ---
-title: monsters/rustMonster
+title: monster_dir/rustMonster
 ---
 # Rust Monster
 
@@ -9,9 +9,9 @@ _This insectile monster has four legs, a strange propeller-shaped protrusion at 
 
 **XP 800**
 
-N Medium [aberration](creatureTypes#_aberration)
+N Medium [aberration](creatureTypes#_aberration
 
-**Init** +3; **Senses** darkvision 60 ft., scent metals 90 ft.; [Perception](../skills/perception#_perception) +12
+**Init** +3; **Senses** darkvision 60 ft., scent metals 90 ft.; [Perception](../skill_dir/perception#_perception) +12
 
 **Defense**
 
@@ -33,9 +33,9 @@ N Medium [aberration](creatureTypes#_aberration)
 
 **Base**  **Atk** +3; **CMB** +3; **CMD** 16 (20 vs. trip)
 
-**Feats** [Ability Focus](monsterFeats#_ability-focus) (rust), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Ability Focus](monsterFeats#_ability-focus) (rust, [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Climb](../skills/climb#_climb) +8, [Perception](../skills/perception#_perception) +12
+**Skills** [Climb](../skill_dir/climb#_climb +8, [Perception](../skill_dir/perception#_perception) +12
 
 **Ecology**
 
@@ -49,7 +49,7 @@ N Medium [aberration](creatureTypes#_aberration)
 
 **Rust (Su)** A rust monster's antennae are a primary touch attack that causes any metal object they touch to swiftly rust and corrode. The object touched takes half its maximum hp in damage and gains the broken condition—a second hit destroys the item. A rust monster never provokes attacks of opportunity by attempting to strike a weapon with its antennae. Against creatures made of metal, a rust monster's antennae deal 3d6+5 points of damage. An attended object, any magic object, or a metal creature can attempt a DC 15 Reflex save to negate this effect. The save DC is Constitution-based.
 
-**Scent Metals (Ex)** This ability functions much the same as the scent ability, except that the range is 90 feet and the rust monster can only use it to sense metal objects (including creatures wearing or carrying metal objects).
+**Scent Metals (Ex)** This ability functions much the same as the scent ability, except that the range is 90 feet and the rust monster can only use it to sense metal objects (including creatures wearing or carrying metal objects.
 
 Of all the terrifying beasts an explorer might encounter underground, only the rust monster targets that which the average adventurer values most: his treasure.
 

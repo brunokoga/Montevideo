@@ -7,5 +7,5 @@ Water Walk, Communal
 
 **Target** creatures touched
 
-This spell functions like _ [water walk](spells/waterWalk#_water-walk)_, except you divide the duration in 10-minute intervals among the creatures touched.
+This spell functions like _ [water walk](spell_dir/waterWalk#_water-walk_, except you divide the duration in 10-minute intervals among the creatures touched.
 

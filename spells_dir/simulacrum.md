@@ -1,13 +1,13 @@
 ---
-title: spells/simulacrum
+title: spell_dir/simulacrum
 ---
  **Simulacrum**
 
-**School** illusion (shadow); **Level** sorcerer/wizard 7
+**School** illusion (shadow; **Level** sorcere_dir/wizard 7
 
 **Casting Time** 12 hours
 
-**Components** V, S, M (ice sculpture of the target plus powdered rubies worth 500 gp per HD of the simulacrum)
+**Components** V, S, M (ice sculpture of the target plus powdered rubies worth 500 gp per HD of the simulacrum
 
 **Range** 0 ft.
 

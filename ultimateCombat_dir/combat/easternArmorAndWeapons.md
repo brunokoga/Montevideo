@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/combat/easternArmorAndWeapons
+title: ultimateCombat/comba_dir/easternArmorAndWeapons
 ---
 # Eastern Armor and Weapons
 
@@ -58,7 +58,7 @@ Failure | Speed
 
 **O-Yoroi** : Worn almost exclusively by high-ranking samurai, o-yoroi—or “great armor”—is a heavy combat armor that consists of various supplementary components that include both plate and lamellar elements. Each suit is crafted for a specific individual and displays the owner's aesthetic. Upon completion, the suit is colored and sealed with a final lacquer finish. The centerpiece of o-yoroi is a cuirass consisting of two parts—a separate reinforcement for the right side called a waidate, and a kikko cuirass. The upper part of the waidate consists of a leather-covered iron plate. The cuirass's leather shoulder straps—called watagami—are likewise armored with metal plates. Affixed to the cuirass are a number of supplementary pieces, including wide lamellar shoulder guards, a kikko sleeve for the shield arm, lacquered iron greaves worn over padded silk leggings, and a groin protector. Still, the signature component of each suit of armor is the tiered kabuto helmet and its accompanying ho-ate mask. Ho-ate masks can be made of hardened leather or metal and are fashioned into fearsome visages such as oni, dragons, or other mythical beings.
 
-**Silken Ceremonial Armor** : Used for ceremonial displays or occasionally worn (albeit with no additional benefit) over heavier armor, these robes consist of several layers of cloth and an outer layer of silk intricately woven with gold brocade designs and covered with metal studs.
+**Silken Ceremonial Armor** : Used for ceremonial displays or occasionally worn (albeit with no additional benefit over heavier armor, these robes consist of several layers of cloth and an outer layer of silk intricately woven with gold brocade designs and covered with metal studs.
 
 **Stone Coat** : This weighty breastplate consists of lamellar crafted from stones. It is worn in conjunction with kikko leg protectors.
 
@@ -82,7 +82,7 @@ _Deadly_: When this weapon delivers a coup de grace, it gains +4 to damage when 
   
   
 
-_Distracting_: You gain a +2 bonus on [Bluff](skills/bluff#_bluff) skill checks to feint in combat while wielding this weapon.
+_Distracting_: You gain a +2 bonus on [Bluff](skill_dir/bluff#_bluff) skill checks to feint in combat while wielding this weapon.
 
   
   
@@ -94,7 +94,7 @@ _Grapple_: On a successful critical hit with a weapon of this type, you can grap
   
 
 [Table: Eastern Weapons—Martial]
-| Martial Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range | Weightⁱ | Type⁲ | Special |
+| Martial Weapons | Cost | Dmg (S) | Dmg (M | Critical | Range | Weightⁱ | Type⁲ | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | _Light Melee Weapons_ |
 | Butterfly sword | 20 gp | 1d3 | 1d4 | 19–20/×2 | — | 1 lb. | S | monk |
@@ -180,23 +180,23 @@ reach |
 
 **Hooked Lance** : This slender, 10-foot-long polearm has an added hook protruding from the head that is used to snag the clothing and armor of opponents.
 
-**Iron Brush** : This is an iron-handled version of a scholar's brush with a sharpened handle. Though it does little damage, it is easily concealed (the wielder gets a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) skill checks made to conceal a iron brush on her body) and can be used as a jabbing weapon or thrown short distances.
+**Iron Brush** : This is an iron-handled version of a scholar's brush with a sharpened handle. Though it does little damage, it is easily concealed (the wielder gets a +2 bonus on [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) skill checks made to conceal a iron brush on her body) and can be used as a jabbing weapon or thrown short distances.
 
 **Jutte** : This batonlike weapon is fitted with a metal hook that can be used to block and pin an opponent's weapon. Some variations are tipped with a sharpened metal spike or blade.
 
 **Kama, Double-Chained** : This weapon comprises a pair of kama connected with an 8-foot length of chain. The wielder can attack as if armed with a single kama in each hand or extend the chain to make a single reach attack. By swinging the rope, the wielder can whip the kama about to disarm or trip opponents. Furthermore, if one of the weapons is dropped, the wielder can retrieve as a free action by pulling on the chain.
 
-**Katana** : Specifically constructed for samurai, katanas employ multiple types of steel combined in a distinctive forging process. The result are swords noted for their wickedly sharp yet slender, gently curved blades, designed to make graceful hacking strokes capable of severing opponents' heads and limbs. Though finely balanced, these blades are difficult to master. Characters can use a katana two-handed as a martial weapon, but must take the [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) (katana) feat to use it one-handed.
+**Katana** : Specifically constructed for samurai, katanas employ multiple types of steel combined in a distinctive forging process. The result are swords noted for their wickedly sharp yet slender, gently curved blades, designed to make graceful hacking strokes capable of severing opponents' heads and limbs. Though finely balanced, these blades are difficult to master. Characters can use a katana two-handed as a martial weapon, but must take the [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) (katana feat to use it one-handed.
 
 **Katana, Double Walking Stick** : This single case conceals a pair of matched fighting swords perfectly balanced to be wielded as a pair. Despite their name, the blades more closely resemble the shorter wakizashi. When the blades are concealed in their case, this weapon can be used as a quarterstaff.
 
-**Kerambit** : This small, curved pull dagger has a metal loop at the base of its handle allowing it to be secured with a pinky or worn on a string tied in the hair. While relatively small, the curved blade can create brutal wounds. Easily concealed (the wielder gets a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) skill checks made to conceal a kerambit on her body), it is a favorite concealed weapon of ninja and assassins.
+**Kerambit** : This small, curved pull dagger has a metal loop at the base of its handle allowing it to be secured with a pinky or worn on a string tied in the hair. While relatively small, the curved blade can create brutal wounds. Easily concealed (the wielder gets a +2 bonus on [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) skill checks made to conceal a kerambit on her body), it is a favorite concealed weapon of ninja and assassins.
 
 **Kusarigama** : This weapon has a single sickle held in the off-hand attached by 10 feet of fine chain to a weighted metal ball. The sickle is used to make trips, jabs, and blocks while the ball is whipped around at high speeds and then smashed into the opponent.
 
 **Kyoketsu Shoge** : This weapon consists of a foot-long double-edged blade, with another smaller, curved hook-blade sticking out the side like a rooster's spur. The blade is strung to a large iron hoop with 10-foot length of rope. The blade can be used as an off-hand melee weapon or thrown like a dagger, while the rope and circlet can be whipped around and swung at opponents as a bludgeoning reach weapon.
 
-**Lungchuan Tamo (Hidden Daggers)** : What appears to be an ordinary baton sheaths a pair of matching slender-bladed daggers, perfectly balanced throwing blades.
+**Lungchuan Tamo (Hidden Daggers** : What appears to be an ordinary baton sheaths a pair of matching slender-bladed daggers, perfectly balanced throwing blades.
 
 **Meteor Hammer** : This weapon consists of one or two spherical weights attached by a 10-foot chain. You whirl the weights and wrap them around an opponent's body. If you succeed at a trip attempt with a meteor hammer, you can drag your opponent 5 feet closer to you rather than knocking her prone. You may use this weapon in two different ways: in meteor mode you use it as a double weapon, while in fortress mode you cannot use it as a double weapon but gain reach and a +1 shield bonus to AC. Switching between these two modes is a free action decided at the start of your turn.
 
@@ -208,11 +208,11 @@ reach |
 
 **Nodachi** : This very long two-handed weapon has a slender but wickedly sharp 4-foot-long blade at one end. It is predominantly used by ground troops to attack mounted warriors, and can be used to hack riders from their mounts or set to receive a charge.
 
-**Poisoned Sand Tube** : Resembling a slender bamboo or metal scroll case, this tube is filled with fine sand that is soaked or coated with inhaled or contact poison. When loaded with 3 doses of these types of poison, the wielder blows into the tube, dispersing the poisoned sand into her enemies' faces in a 15-foot cone. Each creature in the cone is affected as if afflicted with 1 dose of the poison. Even when loaded with unpoisoned sand, the tube lets loose a powerful irritant, and an opponent struck must succeed at a DC 12 Fortitude saving throw or be dazzled for 1 round. Once expended, the tube must be repacked before it can be used again. Repacking a tube requires a full-round action, or a standard action if the wielder has the [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload-(combat)) feat.
+**Poisoned Sand Tube** : Resembling a slender bamboo or metal scroll case, this tube is filled with fine sand that is soaked or coated with inhaled or contact poison. When loaded with 3 doses of these types of poison, the wielder blows into the tube, dispersing the poisoned sand into her enemies' faces in a 15-foot cone. Each creature in the cone is affected as if afflicted with 1 dose of the poison. Even when loaded with unpoisoned sand, the tube lets loose a powerful irritant, and an opponent struck must succeed at a DC 12 Fortitude saving throw or be dazzled for 1 round. Once expended, the tube must be repacked before it can be used again. Repacking a tube requires a full-round action, or a standard action if the wielder has the [Rapid Reload](ultimateComba_dir/ultimateCombatFeats#_rapid-reload-(combat)) feat.
 
 **Rope Dart** : This deceptively complex weapon appears as nothing more than a 12-foot rope with a 6-inch-long, conical metal spike. Similar to a meteor hammer, it can be whirled at great speeds, then aimed to strike and pierce opponents with great reach. Once it strikes, the wielder can quickly retrieve the weapon with a tug of the rope.
 
-**Sansetsukon (Three-Section Staff)** : This staff is broken into three 2-foot-long segments that have been chained back together, allowing the wielder greater flexibility, and allows the weapon to be swung rapidly to create a defensive block.
+**Sansetsukon (Three-Section Staff** : This staff is broken into three 2-foot-long segments that have been chained back together, allowing the wielder greater flexibility, and allows the weapon to be swung rapidly to create a defensive block.
 
 **Shang Gou** : Forged in pairs, these solid metal blades end in curved hooks, while the hand guards are hammered into outward-facing spiked crescents. Both the crescent and the tip of the hilt are sharpened for combat. They can be wielded as single weapons or with two-weapon fighting styles. The weapons gain the disarm special weapon feature when used individually. A pair of shang gou can also be formed into a single one-handed weapon to gain the trip special feature.
 
@@ -230,11 +230,11 @@ reach |
 
 **Tri-Point Double-Edged Sword** : Topping the head of this 5-foot-long shaft are three long, backward-curved blades fashioned in the appearance of a blossoming lotus. The unusually large head is designed to land heavy blows and multiple wounds that open away from each other.
 
-**Tube Arrow Shooter** : This weapon consists of a small metal tube hidden within a sleeve; the tube holds a short, spring-loaded bamboo shaft. The wielder gains a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) skill checks made to conceal an arrow tube shooter on his body. Releasing the fastener allows the spring to force the arrow out. Once a shaft is fired, the tube must be reloaded before it can be used again. Reloading a tube is a full-round action, or a standard action if the wielder has the [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload-(combat)) feat.
+**Tube Arrow Shooter** : This weapon consists of a small metal tube hidden within a sleeve; the tube holds a short, spring-loaded bamboo shaft. The wielder gains a +2 bonus on [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand skill checks made to conceal an arrow tube shooter on his body. Releasing the fastener allows the spring to force the arrow out. Once a shaft is fired, the tube must be reloaded before it can be used again. Reloading a tube is a full-round action, or a standard action if the wielder has the [Rapid Reload](ultimateComba_dir/ultimateCombatFeats#_rapid-reload-(combat)) feat.
 
 **Urumi** : Commonly known as a whip sword, this deadly weapon is fashioned from one to four 5-foot-long, razor-sharp blades of flexible steel. The weapon is wielded by whipping the blades at one's opponent. The coiled blade is fine and flexible enough to be worn as a belt.
 
-**Wakizashi** : These short, slender blades are between 1 to 2 feet long. They are primarily used as back-up weapons, to decapitate defeated enemies, or to commit seppuku (ritual suicide) as a matter of honor. These blades are specifically worn by samurai and are intended to be paired with a katana. Together, this set of blades is referred to as a daisho.
+**Wakizashi** : These short, slender blades are between 1 to 2 feet long. They are primarily used as back-up weapons, to decapitate defeated enemies, or to commit seppuku (ritual suicide as a matter of honor. These blades are specifically worn by samurai and are intended to be paired with a katana. Together, this set of blades is referred to as a daisho.
 
 **Wushu Dart** : This sharpened wooden spike can be used as a punching weapon but it is perfectly balanced for throwing.
 

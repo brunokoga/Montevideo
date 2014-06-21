@@ -1,5 +1,5 @@
 ---
-title: monsters/dragonTurtle
+title: monster_dir/dragonTurtle
 ---
 # Dragon Turtle
 
@@ -11,7 +11,7 @@ _This long-tailed aquatic beast resembles a massive snapping turtle with draconi
 
 N Huge [dragon](creatureTypes#_dragon) ( [aquatic](creatureTypes#_aquatic-subtype))
 
-**Init** +4; **Senses** low-light vision, darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +16
+**Init** +4; **Senses** low-light vision, darkvision 60 ft., [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +16
 
 **Defense**
 
@@ -39,9 +39,9 @@ N Huge [dragon](creatureTypes#_dragon) ( [aquatic](creatureTypes#_aquatic-subtyp
 
 **Base**  **Atk** +12; **CMB** +22; **CMD** 32 (36 vs. trip)
 
-**Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Blind-Fight](../feats#_blind-fight), [Cleave](../feats#_cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Initiative](../feats#_improved-initiative), [Power Attack](../feats#_power-attack)
+**Feats** [Awesome Blow](monsterFeats#_awesome-blow, [Blind-Fight](../feats#_blind-fight), [Cleave](../feats#_cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Initiative](../feats#_improved-initiative), [Power Attack](../feats#_power-attack)
 
-**Skills** [Diplomacy](../skills/diplomacy#_diplomacy) +16, [Intimidate](../skills/intimidate#_intimidate) +16, [Perception](../skills/perception#_perception) +16, [Sense Motive](../skills/senseMotive#_sense-motive) +16, [Stealth](../skills/stealth#_stealth) +7 (+15 in water), [Survival](../skills/survival#_survival) +16, [Swim](../skills/swim#_swim) +31; **Racial Modifiers** +8 [Stealth](../skills/stealth#_stealth) in water
+**Skills** [Diplomacy](../skill_dir/diplomacy#_diplomacy +16, [Intimidate](../skill_dir/intimidate#_intimidate +16, [Perception](../skill_dir/perception#_perception +16, [Sense Motive](../skill_dir/senseMotive#_sense-motive +16, [Stealth](../skill_dir/stealth#_stealth) +7 (+15 in water, [Survival](../skill_dir/survival#_survival +16, [Swim](../skill_dir/swim#_swim +31; **Racial Modifiers** +8 [Stealth](../skill_dir/stealth#_stealth) in water
 
 **Languages** Aquan, Common, Draconic
 
@@ -57,7 +57,7 @@ N Huge [dragon](creatureTypes#_dragon) ( [aquatic](creatureTypes#_aquatic-subtyp
 
 **Breath Weapon (Su)** Cloud of steam 20 feet high, 25 feet wide, and 50 feet long, once every 1d4 rounds, damage 12d6 fire, Reflex DC 20 half; effective both on the surface and underwater. The save DC is Constitution-based.
 
-**Capsize (Ex)** A dragon turtle can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25, or the result of the boat captain's [Profession](../skills/profession#_profession) (sailor) check, whichever is higher. For each size category larger than the dragon turtle's size, it takes a cumulative –10 penalty on this CMB check.
+**Capsize (Ex** A dragon turtle can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25, or the result of the boat captain's [Profession](../skill_dir/profession#_profession) (sailor check, whichever is higher. For each size category larger than the dragon turtle's size, it takes a cumulative –10 penalty on this CMB check.
 
 Dragon turtles make their homes in both salt and fresh water, where they rank among the biggest threats to sailors and those who travel by ship through the waterways of the world. Skilled mariners know the territory dragon turtles claim and frequently make offerings of gold and magic for safe passage or avoid the area entirely. For its part, a dragon turtle quickly grows to appreciate and even expect such tithes and gifts, and a dragon turtle that expects gifts but is ignored is a dangerous foe indeed.
 

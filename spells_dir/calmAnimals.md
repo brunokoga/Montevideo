@@ -1,9 +1,9 @@
 ---
-title: spells/calmAnimals
+title: spell_dir/calmAnimals
 ---
  **Calm Animals**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** druid 1, ranger 1
+**School** enchantment (compulsion [mind-affecting]; **Level** druid 1, ranger 1
 
 **Casting Time** 1 standard action
 

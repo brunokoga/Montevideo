@@ -1,9 +1,9 @@
 ---
-title: advanced/prestigeClasses/battleHerald
+title: advanced/prestigeClasse_dir/battleHerald
 ---
 # Battle Herald
 
-In every army there are leaders who surpass the average cold-hearted mercenary, battle-scarred veteran, or wizened drill instructor, not so much in their skill at arms but in their ability to inspire and lead others. Battle heralds are just such captains—skilled warriors to be sure, but ones who have honed the art of leadership to a keen edge and keep it as ready as their sword as a means to victory. Battle heralds tap into reservoirs of courage, skill, bravery, and perseverance that those who serve with them never knew they had, and their allies often find themselves ascending the mount of triumph following the battle herald's glorious (if often tattered) banner.
+In every army there are leaders who surpass the average cold-hearted mercenary, battle-scarred veteran, or wizened drill instructor, not so much in their skill at arms but in their ability to inspire and lead others. Battle heralds are just such captains—skilled warriors to be sure, but ones who have honed the art of leadership to a keen edge and keep it as ready as their sword as a means to victory. Battle heralds tap into reservoirs of courage, skill, bravery, and perseverance that those who serve with them never knew they had, and their allies often find themselves ascending the mount of triumph following the battle herald's glorious (if often tattered banner.
 
 **Hit Die** : d10.
 
@@ -15,11 +15,11 @@ To qualify to become a battle herald, a character must fulfill all the following
 
 **Special** : Challenge and inspire courage class features.
 
-**Skills** : [Diplomacy](../../skills/diplomacy#_diplomacy) 5 ranks, [Intimidate](../../skills/intimidate#_intimidate) 5 ranks, [Perform](../../skills/perform#_perform) (oratory) 5 ranks, [Profession](../../skills/profession#_profession) (soldier) 2 ranks.
+**Skills** : [Diplomacy](../../skill_dir/diplomacy#_diplomacy 5 ranks, [Intimidate](../../skill_dir/intimidate#_intimidate 5 ranks, [Perform](../../skill_dir/perform#_perform) (oratory 5 ranks, [Profession](../../skill_dir/profession#_profession) (soldier 2 ranks.
 
 # Class Skills
 
-The battle herald's class skills are [Bluff](../../skills/bluff#_bluff) (Cha), [Craft](../../skills/craft#_craft) (Int), [Diplomacy](../../skills/diplomacy#_diplomacy) (Cha), [Handle Animal](../../skills/handleAnimal#_handle-animal) (Cha), [Heal](../../skills/heal#_heal) (Wis), [Intimidate](../../skills/intimidate#_intimidate) (Cha), [Knowledge](../../skills/knowledge#_knowledge) (engineering) (Int), [Knowledge](../../skills/knowledge#_knowledge) (history) (Int), [Knowledge](../../skills/knowledge#_knowledge) (local) (Int), [Knowledge](../../skills/knowledge#_knowledge) (nobility) (Int), [Perception](../../skills/perception#_perception) (Wis), [Profession](../../skills/profession#_profession) (Wis), [Ride](../../skills/ride#_ride) (Dex), and [Sense Motive](../../skills/senseMotive#_sense-motive) (Wis).
+The battle herald's class skills are [Bluff](../../skill_dir/bluff#_bluff) (Cha, [Craft](../../skill_dir/craft#_craft) (Int, [Diplomacy](../../skill_dir/diplomacy#_diplomacy) (Cha, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal) (Cha, [Heal](../../skill_dir/heal#_heal) (Wis, [Intimidate](../../skill_dir/intimidate#_intimidate) (Cha, [Knowledge](../../skill_dir/knowledge#_knowledge) (engineering) (Int, [Knowledge](../../skill_dir/knowledge#_knowledge) (history) (Int, [Knowledge](../../skill_dir/knowledge#_knowledge) (local) (Int, [Knowledge](../../skill_dir/knowledge#_knowledge) (nobility) (Int, [Perception](../../skill_dir/perception#_perception) (Wis, [Profession](../../skill_dir/profession#_profession) (Wis, [Ride](../../skill_dir/ride#_ride) (Dex, and [Sense Motive](../../skill_dir/senseMotive#_sense-motive) (Wis).
 
 **Skill Ranks per Level** : 4 + Int modifier.
 
@@ -49,7 +49,7 @@ All battle heralds may use inspiring command to inspire courage (as the bardic p
 
 At 1st level, and every two levels thereafter, the battle herald chooses one command to learn. Unless otherwise noted, these abilities provide a competence bonus equal to the battle herald's inspiring command bonus to her and to all allies within 60 feet able to see or hear her. Commands marked with an asterisk have the same range as above but only affect a certain number of allies (which can include the battle herald).
 
-Issuing an inspiring command is a move action. At 5th level, this becomes a swift action, and at 10th level, it becomes an immediate action. Maintaining an inspiring command is a free action that cannot be disrupted, but its effects end immediately if the battle herald is killed or otherwise prevented from taking actions (such as being dazed, helpless, or stunned). The battle herald cannot have more than one command in effect at a time. She may use this ability for a number of rounds per day equal to 4 + her Charisma modifier, plus 2 additional rounds per level after 1st. She may use rounds of bardic performance to issue inspiring commands, but not vice versa. Inspiring commands are language-dependent, mind-affecting effects. The battle herald cannot maintain an inspiring command and a bardic performance at the same time (this does not preclude abilities such as persistent command or the [Lingering Performance](../advancedFeats#_lingering-performance) feat, which continue an inspiring command or bardic performance after the battle herald stops maintaining it).
+Issuing an inspiring command is a move action. At 5th level, this becomes a swift action, and at 10th level, it becomes an immediate action. Maintaining an inspiring command is a free action that cannot be disrupted, but its effects end immediately if the battle herald is killed or otherwise prevented from taking actions (such as being dazed, helpless, or stunned. The battle herald cannot have more than one command in effect at a time. She may use this ability for a number of rounds per day equal to 4 + her Charisma modifier, plus 2 additional rounds per level after 1st. She may use rounds of bardic performance to issue inspiring commands, but not vice versa. Inspiring commands are language-dependent, mind-affecting effects. The battle herald cannot maintain an inspiring command and a bardic performance at the same time (this does not preclude abilities such as persistent command or the [Lingering Performance](../advancedFeats#_lingering-performance) feat, which continue an inspiring command or bardic performance after the battle herald stops maintaining it).
 
 _Battle Magic\*_: One ally gains a bonus on caster level checks and concentration checks equal to the battle herald's command bonus.
 
@@ -79,11 +79,11 @@ _Stand Firm_: Allies apply the battle herald's inspiring command bonus to CMD an
 
 _Teamwork_: Allies add the battle herald's inspiring command bonus on skill checks or attack rolls made when using the aid another action, and if successful, the assisted ally increases the aid another bonus by an amount equal to the battle herald's inspiring command bonus.
 
-_Tuck and Roll_: Allies apply the battle herald's inspiring command bonus on Reflex saves and [Acrobatics](../../skills/acrobatics#_acrobatics) checks.
+_Tuck and Roll_: Allies apply the battle herald's inspiring command bonus on Reflex saves and [Acrobatics](../../skill_dir/acrobatics#_acrobatics checks.
 
 **Improved [Leadership](../../feats#_leadership) (Ex)** : A battle herald with the [Leadership](../../feats#_leadership) feat adds her inspiring command bonus to her leadership score.
 
-**Voice of Authority (Ex)** : A battle herald is skilled at shouting commands over the din of the battlefield and signaling allies when speech is impossible. She gains a +2 bonus on [Diplomacy](../../skills/diplomacy#_diplomacy) and [Intimidate](../../skills/intimidate#_intimidate) checks with creatures with which she shares a language. In addition, her allies gain a bonus equal to the battle herald's class level on [Perception](../../skills/perception#_perception) or [Sense Motive](../../skills/senseMotive#_sense-motive) checks to hear her commands or interpret her secret messages conveyed with [Bluff](../../skills/bluff#_bluff). The battle herald's levels stack with cavalier levels for the purpose of the cavalier's tactician ability.
+**Voice of Authority (Ex)** : A battle herald is skilled at shouting commands over the din of the battlefield and signaling allies when speech is impossible. She gains a +2 bonus on [Diplomacy](../../skill_dir/diplomacy#_diplomacy and [Intimidate](../../skill_dir/intimidate#_intimidate checks with creatures with which she shares a language. In addition, her allies gain a bonus equal to the battle herald's class level on [Perception](../../skill_dir/perception#_perception or [Sense Motive](../../skill_dir/senseMotive#_sense-motive checks to hear her commands or interpret her secret messages conveyed with [Bluff](../../skill_dir/bluff#_bluff). The battle herald's levels stack with cavalier levels for the purpose of the cavalier's tactician ability.
 
 **Easy March (Ex)** : At 2nd level, allies within 60 feet of the battle herald can hustle or force march during overland travel without ill effects for a number of hours per day equal to 1 hour times her inspiring command bonus.
 
@@ -97,7 +97,7 @@ _Tuck and Roll_: Allies apply the battle herald's inspiring command bonus on Ref
 
 **Persistent Commands (Ex)** : At 8th level, a battle herald may allow her inspiring commands to persist even if she is incapacitated and unable to maintain them. If the player chooses, the effects of the battle herald's inspiring commands persist for a number of rounds equal to her Charisma bonus (these count toward her number of rounds per day limit). This ability does not apply if the battle herald intentionally stops maintaining an inspiring command—only if she is dazed, held, stunned, killed, and so on, and is unable to maintain them. If the battle herald recovers from incapacity while an inspiring command is ongoing, she may resume maintaining it as a free action.
 
-**Inspire Last Stand (Ex)** : At 9th level, a battle herald may use inspiring command to grant herself and all allies within 30 feet the benefits of the [Diehard](../../feats#_diehard) feat. Conscious affected creatures also gain the benefits of inspire courage while at negative hit points.
+**Inspire Last Stand (Ex** : At 9th level, a battle herald may use inspiring command to grant herself and all allies within 30 feet the benefits of the [Diehard](../../feats#_diehard) feat. Conscious affected creatures also gain the benefits of inspire courage while at negative hit points.
 
 **Complex Commands (Ex)** : At 10th level, a battle herald can have more than one command ability in effect at one time. Each must be begun separately and requires a separate maintenance cost. This allows the battle herald to have more than one single-target command (such as battle magic) in effect at the same time. The effects of multiple instances of the same command ability do not stack, even if the bonuses provided by that ability would normally stack (for example, if the battle herald maintains two pincer maneuver commands, her allies do not get double the bonus, even though dodge bonuses normally stack).
 

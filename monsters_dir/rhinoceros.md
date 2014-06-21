@@ -1,5 +1,5 @@
 ---
-title: monsters/rhinoceros
+title: monster_dir/rhinoceros
 ---
 # Rhinoceros
 
@@ -11,7 +11,7 @@ _This rhinoceros has a low-slung head with twisted ears that lie back along its 
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +0; **Senses** [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +12
+**Init** +0; **Senses** [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +12
 
 **Defense**
 
@@ -35,11 +35,11 @@ N Large [animal](creatureTypes#_animal)
 
 **Str** 22, **Dex** 10, **Con** 19, **Int** 2, **Wis** 13, **Cha** 5
 
-**Base Atk** +3; **CMB** +10; **CMD** 20 (24 vs. trip)
+**Base Atk** +3; **CMB** +10; **CMD** 20 (24 vs. trip
 
-**Feats** [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
 
-**Skills** [Perception](../skills/perception#_perception) +12
+**Skills** [Perception](../skill_dir/perception#_perception) +12
 
 **Ecology**
 
@@ -67,7 +67,7 @@ _This large rhinoceros has a shaggy pelt of long, brown fur and a row of immense
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +0; **Senses** [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +15
+**Init** +0; **Senses** [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +15
 
 **Defense**
 
@@ -91,11 +91,11 @@ N Large [animal](creatureTypes#_animal)
 
 **Str** 28, **Dex** 10, **Con** 21, **Int** 2, **Wis** 13, **Cha** 3
 
-**Base Atk** +6; **CMB** +16; **CMD** 26 (30 vs. trip)
+**Base Atk** +6; **CMB** +16; **CMD** 26 (30 vs. trip
 
-**Feats** [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Diehard](../feats#_diehard), [Endurance](../feats#_endurance), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
 
-**Skills** [Perception](../skills/perception#_perception) +15
+**Skills** [Perception](../skill_dir/perception#_perception) +15
 
 **Ecology**
 
@@ -105,5 +105,5 @@ N Large [animal](creatureTypes#_animal)
 
 **Treasure** none
 
-The woolly rhinoceros is an herbivore, though unlike its non-woolly cousin it grazes for food rather than browsing on larger plants. The woolly rhino is legendary for its foul temper, and its size and huge horn give it a ferocious bravery. Any threat (real or perceived) to the rhino or its herd is met with loud bellows and the stomping of feet. Often, those who unwittingly anger a woolly rhino have no time to amend the intrusion before the beast attacks.
+The woolly rhinoceros is an herbivore, though unlike its non-woolly cousin it grazes for food rather than browsing on larger plants. The woolly rhino is legendary for its foul temper, and its size and huge horn give it a ferocious bravery. Any threat (real or perceived to the rhino or its herd is met with loud bellows and the stomping of feet. Often, those who unwittingly anger a woolly rhino have no time to amend the intrusion before the beast attacks.
 

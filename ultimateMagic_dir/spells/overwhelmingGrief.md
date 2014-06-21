@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/overwhelmingGrief
+title: ultimateMagic/spell_dir/overwhelmingGrief
 ---
 Overwhelming Grief
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, sorcerer/wizard 4
+**School** enchantment (compulsion [emotion, mind-affecting]; **Level** bard 3, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -13,9 +13,9 @@ Overwhelming Grief
 
 **Target** one creature
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Will negates (see text); **Spell Resistance** yes
 
-You cause a single opponent to become profoundly stricken with intense grief. He can take no actions, takes a –2 penalty to Armor Class, and loses his Dexterity bonus (if any). He can attempt a new save each round to break the spell's effect.
+You cause a single opponent to become profoundly stricken with intense grief. He can take no actions, takes a –2 penalty to Armor Class, and loses his Dexterity bonus (if any. He can attempt a new save each round to break the spell's effect.
 

@@ -1,9 +1,9 @@
 ---
-title: spells/phantomTrap
+title: spell_dir/phantomTrap
 ---
  **Phantom Trap**
 
-**School** illusion (glamer); **Level** sorcerer/wizard 2
+**School** illusion (glamer; **Level** sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spells/phantomTrap
 
 **Target** object touched
 
-**Duration** permanent (D)
+**Duration** permanent (D
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

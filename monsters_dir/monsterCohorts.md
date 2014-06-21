@@ -10,40 +10,40 @@ A monster cohort gains experience points as if it were a character of its cohort
 [_Bestiary_ Monster Cohorts]
 | Monster | Level |
 | --- | --- |
-| [Babau (demon)](monsters/demon#_demon-babau) | 11 |
-| [Bralani (azata)](monsters/azata#_azata-bralani) | 11 |
-| [Young dragon](monsters/dragon) | Special\* |
-| [Drider](monsters/drider) | 11 |
-| [Erinyes (devil)](monsters/devil#_devil-erinyes) | 16 |
-| [Ettin](monsters/ettin) | 15 |
-| [Ghoul](monsters/ghoul) | 5 |
-| [Giant eagle](monsters/eagle#_eagle-giant) | 6 |
-| [Griffon](monsters/griffon) | 8 |
-| [Hell hound](monsters/hellHound) | 7 |
-| [Hound archon](monsters/archon#_archon-hound) | 7 |
-| [Manticore](monsters/manticore) | 9 |
-| [Pegasus](monsters/pegasus) | 6 |
-| [Pixie](monsters/pixie) | 8 |
-| [Satyr](monsters/satyr) | 7 |
-| [Skeletal champion](monsters/skeletalChampion) | 6 |
-| [Stone giant](monsters/giant#_giant-stone) | 18 |
-| [Unicorn](monsters/unicorn) | 8 |
-| [Worg](monsters/worg) | 5 |
-| [Wyvern](monsters/wyvern) | 10 |
+| [Babau (demon)](monster_dir/demon#_demon-babau) | 11 |
+| [Bralani (azata](monster_dir/azata#_azata-bralani | 11 |
+| [Young dragon](monster_dir/dragon | Special\* |
+| [Drider](monster_dir/drider) | 11 |
+| [Erinyes (devil](monster_dir/devil#_devil-erinyes | 16 |
+| [Ettin](monster_dir/ettin | 15 |
+| [Ghoul](monster_dir/ghoul | 5 |
+| [Giant eagle](monster_dir/eagle#_eagle-giant | 6 |
+| [Griffon](monster_dir/griffon | 8 |
+| [Hell hound](monster_dir/hellHound | 7 |
+| [Hound archon](monster_dir/archon#_archon-hound | 7 |
+| [Manticore](monster_dir/manticore | 9 |
+| [Pegasus](monster_dir/pegasus | 6 |
+| [Pixie](monster_dir/pixie | 8 |
+| [Satyr](monster_dir/satyr | 7 |
+| [Skeletal champion](monster_dir/skeletalChampion | 6 |
+| [Stone giant](monster_dir/giant#_giant-stone | 18 |
+| [Unicorn](monster_dir/unicorn | 8 |
+| [Worg](monster_dir/worg | 5 |
+| [Wyvern](monster_dir/wyvern | 10 |
 
 [_Bestiary 2_ Monster Cohorts]
 | Monster | Level |
 | --- | --- |
-| [Aranea](additionalMonsters/aranea) | 8th |
-| [Avoral](additionalMonsters/agathion#_agathion,-avoral) | 15th |
-| [Axiomite](additionalMonsters/axiomite) | 14th |
-| [Azer](additionalMonsters/azer) | 5th |
-| [Blink dog](additionalMonsters/blinkdog) | 4th |
-| [Dragon horse](additionalMonsters/dragonhorse) | 16th |
-| [Howler](additionalMonsters/howler) | 7th |
-| [Leonal](additionalMonsters/agathion#_agathion,-leonal) | 17th |
-| [Leucrotta](additionalMonsters/leucrotta) | 9th |
-| [Redcap](additionalMonsters/redcap) | 10th |
+| [Aranea](additionalMonster_dir/aranea | 8th |
+| [Avoral](additionalMonster_dir/agathion#_agathion,-avoral | 15th |
+| [Axiomite](additionalMonster_dir/axiomite | 14th |
+| [Azer](additionalMonster_dir/azer | 5th |
+| [Blink dog](additionalMonster_dir/blinkdog | 4th |
+| [Dragon horse](additionalMonster_dir/dragonhorse | 16th |
+| [Howler](additionalMonster_dir/howler | 7th |
+| [Leonal](additionalMonster_dir/agathion#_agathion,-leonal | 17th |
+| [Leucrotta](additionalMonster_dir/leucrotta | 9th |
+| [Redcap](additionalMonster_dir/redcap | 10th |
 
 [_Bestiary 3_ Monster Cohorts]
 | Monster | Level |

@@ -39,9 +39,9 @@ STATISTICS
 
 **Base Atk** +0; **CMB** –1; **CMD** 11
 
-**Feats** [Endurance](feats#_endurance), [Skill Focus](feats#_skill-focus) ( [Bluff](skills/bluff#_bluff))
+**Feats** [Endurance](feats#_endurance), [Skill Focus](feats#_skill-focus) ( [Bluff](skill_dir/bluff#_bluff)
 
-**Skills** [Bluff](skills/bluff#_bluff) +4, [Disguise](skills/disguise#_disguise) +2, Perception +5, [Perform](skills/perform#_perform) (wind)
+**Skills** [Bluff](skill_dir/bluff#_bluff +4, [Disguise](skill_dir/disguise#_disguise +2, Perception +5, [Perform](skill_dir/perform#_perform) (wind
 
 **Languages** Common, Elven
 
@@ -89,9 +89,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +2; **CMD** 11
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Handle Animal](skills/handleAnimal#_handle-animal), [Heal](skills/heal#_heal))
+**Feats** [Skill Focus](feats#_skill-focus) ( [Handle Animal](skill_dir/handleAnimal#_handle-animal, [Heal](skill_dir/heal#_heal)
 
-**Skills** [Craft](skills/craft#_craft) (carpentry) +6, [Handle Animal](skills/handleAnimal#_handle-animal) +7, [Heal](skills/heal#_heal) +5, [Knowledge](skills/knowledge#_knowledge) (nature) +1, [Profession](skills/profession#_profession) (farmer) +5
+**Skills** [Craft](skill_dir/craft#_craft) (carpentry +6, [Handle Animal](skill_dir/handleAnimal#_handle-animal +7, [Heal](skill_dir/heal#_heal +5, [Knowledge](skill_dir/knowledge#_knowledge) (nature +1, [Profession](skill_dir/profession#_profession) (farmer) +5
 
 **Languages** Common
 
@@ -137,9 +137,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +2; **CMD** 11 (15 vs. bull rush or trip)
 
-**Feats** [Skill Focus](feats#_skill-focus) ( [Appraise](skills/appraise#_appraise), [Profession](skills/profession#_profession) [miner])
+**Feats** [Skill Focus](feats#_skill-focus ( [Appraise](skill_dir/appraise#_appraise, [Profession](skill_dir/profession#_profession) [miner]
 
-**Skills** [Appraise](skills/appraise#_appraise) +3 (+5 to assess nonmagical metals or gemstones), [Climb](skills/climb#_climb) +5, [Knowledge](skills/knowledge#_knowledge) (dungeoneering) +0, Perception +5 (+7 to notice unusual stonework), [Profession](skills/profession#_profession) (miner) +9
+**Skills** [Appraise](skill_dir/appraise#_appraise) +3 (+5 to assess nonmagical metals or gemstones, [Climb](skill_dir/climb#_climb +5, [Knowledge](skill_dir/knowledge#_knowledge) (dungeoneering) +0, Perception +5 (+7 to notice unusual stonework, [Profession](skill_dir/profession#_profession) (miner) +9
 
 **Languages** Common, Dwarven
 
@@ -183,13 +183,13 @@ Statistics
 
 **Base Atk** +2; **CMB** –1; **CMD** 12
 
-**Feats** [Point-Blank Shot](feats#_point-blank-shot), [Skill Focus](feats#_skill-focus) (Perception)
+**Feats** [Point-Blank Shot](feats#_point-blank-shot), [Skill Focus](feats#_skill-focus) (Perception
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +5 (+1 when jumping), [Climb](skills/climb#_climb) +0, [Craft](skills/craft#_craft) (cook) +6, [Knowledge](skills/knowledge#_knowledge) (geography, local, nature) +2, Perception +10, [Profession](skills/profession#_profession) (fisherman) +6, [Survival](skills/survival#_survival) +2, [Swim](skills/swim#_swim) +2
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +5 (+1 when jumping, [Climb](skill_dir/climb#_climb +0, [Craft](skill_dir/craft#_craft) (cook +6, [Knowledge](skill_dir/knowledge#_knowledge) (geography, local, nature +2, Perception +10, [Profession](skill_dir/profession#_profession) (fisherman +6, [Survival](skill_dir/survival#_survival +2, [Swim](skill_dir/swim#_swim +2
 
 **Languages** Common, Halfling
 
-**Combat Gear** _potion of [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_; **Other Gear** sling with 10 bullets, fishing net, everburning torch, masterwork artisan's tools (fishing), 1,480 gp
+**Combat Gear** _potion of [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_; **Other Gear** sling with 10 bullets, fishing net, everburning torch, masterwork artisan's tools (fishing), 1,480 gp
 
 An accomplished angler prides herself on handling life's trials with aplomb.
 
@@ -207,7 +207,7 @@ Defense
 
 **AC** 12, touch 12, flat-footed 10 (+1 Dex, +1 dodge)
 
-**hp** 17 (5d6)
+**hp** 17 (5d6
 
 **Fort** +1, **Ref** +2, **Will** +1
 
@@ -231,7 +231,7 @@ Statistics
 
 **Feats** [Alertness](feats#_alertness), [Dodge](feats#_dodge), [Fleet](feats#_fleet), [Nimble Moves](feats#_nimble-moves)
 
-**Skills** [Diplomacy](skills/diplomacy#_diplomacy) +6, [Knowledge](skills/knowledge#_knowledge) (local) +4, Perception +6, [Sense Motive](skills/senseMotive#_sense-motive) +6
+**Skills** [Diplomacy](skill_dir/diplomacy#_diplomacy +6, [Knowledge](skill_dir/knowledge#_knowledge) (local +4, Perception +6, [Sense Motive](skill_dir/senseMotive#_sense-motive) +6
 
 **Languages** Common
 
@@ -253,7 +253,7 @@ Defense
 
 **AC** 13, touch 10, flat-footed 13 (+3 armor)
 
-**hp** 15 (6d6–6)
+**hp** 15 (6d6–6
 
 **Fort** +1, **Ref** +2, **Will** +5; +2 vs. enchantments
 
@@ -275,15 +275,15 @@ Statistics
 
 **Base Atk** +3; **CMB** +2; **CMD** 12
 
-**Feats** [Alertness](feats#_alertness), [Iron Will](feats#_iron-will), [Skill Focus](feats#_skill-focus) ( [Appraise](skills/appraise#_appraise))
+**Feats** [Alertness](feats#_alertness), [Iron Will](feats#_iron-will), [Skill Focus](feats#_skill-focus) ( [Appraise](skill_dir/appraise#_appraise)
 
-**Skills** [Appraise](skills/appraise#_appraise) +11, [Bluff](skills/bluff#_bluff) +5, [Intimidate](skills/intimidate#_intimidate) +5, [Knowledge](skills/knowledge#_knowledge) (history, local) +4, Perception +11, [Sense Motive](skills/senseMotive#_sense-motive) +9, [Spellcraft](skills/spellcraft#_spellcraft) +5 (+7 to identify magic item properties)
+**Skills** [Appraise](skill_dir/appraise#_appraise +11, [Bluff](skill_dir/bluff#_bluff +5, [Intimidate](skill_dir/intimidate#_intimidate +5, [Knowledge](skill_dir/knowledge#_knowledge) (history, local +4, Perception +11, [Sense Motive](skill_dir/senseMotive#_sense-motive +9, [Spellcraft](skill_dir/spellcraft#_spellcraft) +5 (+7 to identify magic item properties
 
 **Languages** Common, Elven, Gnome, Halfling
 
 **SQ** elven magic, weapon familiarity
 
-**Combat Gear** _potion of [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_, acid (2), alchemist's fire (2), tanglefoot bag, thunderstone; **Other Gear** masterwork studded leather, masterwork rapier, magnifying glass, merchant's scale, silver holy symbol, 638 gp
+**Combat Gear** _potion of [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_, acid (2), alchemist's fire (2), tanglefoot bag, thunderstone; **Other Gear** masterwork studded leather, masterwork rapier, magnifying glass, merchant's scale, silver holy symbol, 638 gp
 
 A shopkeeper stocks a mix of useful supplies and gear for townsfolk and adventurers alike. The stat block above can be used for any typical merchant in a cosmopolitan settlement.
 
@@ -301,7 +301,7 @@ Defense
 
 **AC** 11, touch 9, flat-footed 11 (+2 armor, –1 Dex)
 
-**hp** 45 (7d6+21)
+**hp** 45 (7d6+21
 
 **Fort** +3, **Ref** +1, **Will** +1
 
@@ -323,13 +323,13 @@ Statistics
 
 **Base Atk** +3; **CMB** +6; **CMD** 15
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Skill Focus](feats#_skill-focus) ( [Intimidate](skills/intimidate#_intimidate), [Stealth](skills/stealth#_stealth)), [Step Up](feats#_step-up), [Toughness](feats#_toughness)
+**Feats** [Improved Initiative](feats#_improved-initiative), [Skill Focus](feats#_skill-focus) ( [Intimidate](skill_dir/intimidate#_intimidate, [Stealth](skill_dir/stealth#_stealth)), [Step Up](feats#_step-up), [Toughness](feats#_toughness
 
-**Skills** [Bluff](skills/bluff#_bluff) +5, [Intimidate](skills/intimidate#_intimidate) +8, Perception +4, [Sense Motive](skills/senseMotive#_sense-motive) +1, [Stealth](skills/stealth#_stealth) +9
+**Skills** [Bluff](skill_dir/bluff#_bluff +5, [Intimidate](skill_dir/intimidate#_intimidate +8, Perception +4, [Sense Motive](skill_dir/senseMotive#_sense-motive +1, [Stealth](skill_dir/stealth#_stealth +9
 
 **Languages** Common
 
-**Combat Gear** _ [feather token](magicItems/wondrousItems#_feather-token)_ (whip), _potions of [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_ (2), _potion of [shield of faith](spells/shieldOfFaith#_shield-of-faith)_; **Other Gear** leather armor, club, daggers (4), masterwork dagger, manacles, rope (50 ft.), sunrods (4), 3,656 gp
+**Combat Gear** _ [feather token](magicItem_dir/wondrousItems#_feather-token)_ (whip, _potions of [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_ (2, _potion of [shield of faith](spell_dir/shieldOfFaith#_shield-of-faith)_; **Other Gear** leather armor, club, daggers (4), masterwork dagger, manacles, rope (50 ft.), sunrods (4), 3,656 gp
 
 A ruffian makes a living by petty theft and robbery when he isn't working with a larger gang. Lacking the motivation to learn a profitable trade, a ruffian has spent a lifetime at hard unskilled labor, and isn't afraid to throw his weight around to get what he wants.
 
@@ -349,7 +349,7 @@ Defense
 
 **AC** 15, touch 11, flat-footed 14 (+4 armor, +1 Dex)
 
-**hp** 28 (8d6)
+**hp** 28 (8d6
 
 **Fort** +1, **Ref** +3, **Will** +6
 
@@ -373,13 +373,13 @@ Statistics
 
 **Feats** [Alertness](feats#_alertness), [Iron Will](feats#_iron-will), [Persuasive](feats#_persuasive), [Toughness](feats#_toughness)
 
-**Skills** [Bluff](skills/bluff#_bluff) +5, [Diplomacy](skills/diplomacy#_diplomacy) +7, [Intimidate](skills/intimidate#_intimidate) +9, [Knowledge](skills/knowledge#_knowledge) (local) +9, Perception +4, [Perform](skills/perform#_perform) (oratory) +5, [Sense Motive](skills/senseMotive#_sense-motive) +12
+**Skills** [Bluff](skill_dir/bluff#_bluff +5, [Diplomacy](skill_dir/diplomacy#_diplomacy +7, [Intimidate](skill_dir/intimidate#_intimidate +9, [Knowledge](skill_dir/knowledge#_knowledge) (local +9, Perception +4, [Perform](skill_dir/perform#_perform) (oratory +5, [Sense Motive](skill_dir/senseMotive#_sense-motive +12
 
 **Languages** Common, Giant, Orc
 
 **SQ** orc blood, weapon familiarity
 
-**Combat Gear** _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds), potion of [invisibility](spells/invisibility#_invisibility)_; **Other Gear** masterwork chain shirt, masterwork spear, courtier's outfit, bit and bridle, light horse, riding saddle, 4,731 gp
+**Combat Gear** _potion of [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds, potion of [invisibility](spell_dir/invisibility#_invisibility)_; **Other Gear** masterwork chain shirt, masterwork spear, courtier's outfit, bit and bridle, light horse, riding saddle, 4,731 gp
 
 As a respected person in her community, an elder takes it upon herself to stand up to any troublemakers in her village despite her advancing years. She maintains a fine political balance between the clergy, merchants, and commoners in her town, using diplomacy and information to defuse arguments.
 
@@ -399,7 +399,7 @@ Defense
 
 **AC** 14, touch 10, flat-footed 14 (+4 armor)
 
-**hp** 49 (9d6+18)
+**hp** 49 (9d6+18
 
 **Fort** +5, **Ref** +4, **Will** +6
 
@@ -425,11 +425,11 @@ Statistics
 
 **Feats** [Alertness](feats#_alertness), [Iron Will](feats#_iron-will), Light Armor Proficiency, [Martial Weapon Proficiency](feats#_martial-weapon-proficiency) (sap), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (spear)
 
-**Skills** [Climb](skills/climb#_climb) +6, [Handle Animal](skills/handleAnimal#_handle-animal) +4, [Intimidate](skills/intimidate#_intimidate) +3, [Knowledge](skills/knowledge#_knowledge) (local) +6, Perception +14, [Ride](skills/ride#_ride) +5, [Sense Motive](skills/senseMotive#_sense-motive) +11, [Swim](skills/swim#_swim) +5
+**Skills** [Climb](skill_dir/climb#_climb +6, [Handle Animal](skill_dir/handleAnimal#_handle-animal +4, [Intimidate](skill_dir/intimidate#_intimidate +3, [Knowledge](skill_dir/knowledge#_knowledge) (local +6, Perception +14, [Ride](skill_dir/ride#_ride +5, [Sense Motive](skill_dir/senseMotive#_sense-motive +11, [Swim](skill_dir/swim#_swim +5
 
 **Languages** Common
 
-**Combat Gear** _potion of [bull's strength](spells/bullSStrength#_bull-s-strength)_, _potions of [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_ (2), tanglefoot bags (4); **Other Gear** masterwork chain shirt, _+1 spear_, masterwork light crossbow with 10 bolts, masterwork sap, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, everburning torch, sunrods (5), bit and bridle, heavy horse (combat trained), military saddle, 2,568 gp
+**Combat Gear** _potion of [bull's strength](spell_dir/bullSStrength#_bull-s-strength_, _potions of [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds)_ (2), tanglefoot bags (4; **Other Gear** masterwork chain shirt, _+1 spear_, masterwork light crossbow with 10 bolts, masterwork sap, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, everburning torch, sunrods (5), bit and bridle, heavy horse (combat trained), military saddle, 2,568 gp
 
 A gruff, no-nonsense sort, a constable prefers a stern warning to violence, but doesn't hesitate to crack a belligerent nuisance over the head.
 
@@ -449,11 +449,11 @@ Defense
 
 **AC** 11, touch 9, flat-footed 11 (+2 armor, –1 Dex)
 
-**hp** 55 (10d6+20)
+**hp** 55 (10d6+20
 
 **Fort** +6, **Ref** +4, **Will** +6
 
-**Immune** _ [detect thoughts](spells/detectThoughts#_detect-thoughts)_, _ [discern lies](spells/discernLies#_discern-lies)_, alignment detection
+**Immune** _ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts_, _ [discern lies](spell_dir/discernLies#_discern-lies)_, alignment detection
 
 Offense
 
@@ -473,15 +473,15 @@ Statistics
 
 **Base Atk** +5; **CMB** +4; **CMD** 13
 
-**Feats** [Great Fortitude](feats#_great-fortitude), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus) ( [Bluff](skills/bluff#_bluff), [Sense Motive](skills/senseMotive#_sense-motive)), [Toughness](feats#_toughness)
+**Feats** [Great Fortitude](feats#_great-fortitude), [Iron Will](feats#_iron-will), [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus ( [Bluff](skill_dir/bluff#_bluff, [Sense Motive](skill_dir/senseMotive#_sense-motive)), [Toughness](feats#_toughness
 
-**Skills** [Bluff](skills/bluff#_bluff) +18, [Diplomacy](skills/diplomacy#_diplomacy) +8, [Knowledge](skills/knowledge#_knowledge) (geography) +3, [Knowledge](skills/knowledge#_knowledge) (history) +5, [Knowledge](skills/knowledge#_knowledge) (local) +6, [Linguistics](skills/linguistics#_linguistics) +3, Perception +14, [Ride](skills/ride#_ride) +5, [Sense Motive](skills/senseMotive#_sense-motive) +12
+**Skills** [Bluff](skill_dir/bluff#_bluff +18, [Diplomacy](skill_dir/diplomacy#_diplomacy +8, [Knowledge](skill_dir/knowledge#_knowledge) (geography +3, [Knowledge](skill_dir/knowledge#_knowledge) (history +5, [Knowledge](skill_dir/knowledge#_knowledge) (local +6, [Linguistics](skill_dir/linguistics#_linguistics +3, Perception +14, [Ride](skill_dir/ride#_ride +5, [Sense Motive](skill_dir/senseMotive#_sense-motive +12
 
 **Languages** Common, Dwarven, Elven, Halfling
 
-**Combat Gear** _potion of [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _potion of [gaseous form](spells/gaseousForm#_gaseous-form)_, _potion of [mage armor](spells/mageArmor#_mage-armor),_ acid (2), alchemist's fire (2); **Other Gear** leather armor, light mace, _ [ring of mind shielding](magicItems/rings#_ring-of-mind-shielding)_, 875 gp
+**Combat Gear** _potion of [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds_, _potion of [gaseous form](spell_dir/gaseousForm#_gaseous-form_, _potion of [mage armor](spell_dir/mageArmor#_mage-armor),_ acid (2), alchemist's fire (2; **Other Gear** leather armor, light mace, _ [ring of mind shielding](magicItem_dir/rings#_ring-of-mind-shielding)_, 875 gp
 
 A trusted and respected pillar of his community, a traitor keeps a kind face and speaks honeyed words, all the while betraying his people for his own selfish gain. In the long run, he doesn't care who gets hurt or killed by his devious plans, as long as he is able to profit from it in terms of status or wealth.
 
-The traitor may have the village elder (commoner 8) under his thumb, or may keep several ruffians (commoners 7) at his beck and call. If allied with an evil cult, he may be able to get help from enforcers (adepts 5) or initiates (adepts 3) to enact his plans and keep a cultist (adept 10) on a short leash or at a safe distance.
+The traitor may have the village elder (commoner 8) under his thumb, or may keep several ruffians (commoners 7) at his beck and call. If allied with an evil cult, he may be able to get help from enforcers (adepts 5) or initiates (adepts 3) to enact his plans and keep a cultist (adept 10 on a short leash or at a safe distance.
 

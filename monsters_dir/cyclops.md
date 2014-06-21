@@ -1,5 +1,5 @@
 ---
-title: monsters/cyclops
+title: monster_dir/cyclops
 ---
 # Cyclops
 
@@ -9,9 +9,9 @@ _A single huge eye stares from the forehead of this nine-foot-tall giant. Below 
 
 **XP 1,600**
 
-NE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
+NE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
 
-**Init** –1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +11
+**Init** –1; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +11
 
 **Defense**
 
@@ -21,7 +21,7 @@ NE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Fort** +9, **Ref** +2, **Will** +4
 
-**Defensive Abilities** [ferocity](universalMonsterRules#_ferocity)
+**Defensive Abilities** [ferocity](universalMonsterRules#_ferocity
 
 **Offense**
 
@@ -41,7 +41,7 @@ NE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Feats** [Alertness](../feats#_alertness), [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Power Attack](../feats#_power-attack)
 
-**Skills** [Intimidate](../skills/intimidate#_intimidate) +9, [Perception](../skills/perception#_perception) +11, [Profession](../skills/profession#_profession) (soothsayer) +10 [Sense Motive](../skills/senseMotive#_sense-motive) +5, [Survival](../skills/survival#_survival) +6; **Racial Modifiers** +8 [Perception](../skills/perception#_perception)
+**Skills** [Intimidate](../skill_dir/intimidate#_intimidate +9, [Perception](../skill_dir/perception#_perception +11, [Profession](../skill_dir/profession#_profession) (soothsayer +10 [Sense Motive](../skill_dir/senseMotive#_sense-motive +5, [Survival](../skill_dir/survival#_survival +6; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
 
 **Languages** Common, Cyclops, Giant
 
@@ -57,7 +57,7 @@ NE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Special Abilities**
 
-**Flash of Insight (Su)** Once per day as an immediate action, a cyclops can peer into an occluded visual spectrum of possible futures, gaining insight that allows it to select the exact result of one die roll before the roll is made. This effect can alter an action taken by the cyclops only, and cannot be applied to the rolls of others.
+**Flash of Insight (Su** Once per day as an immediate action, a cyclops can peer into an occluded visual spectrum of possible futures, gaining insight that allows it to select the exact result of one die roll before the roll is made. This effect can alter an action taken by the cyclops only, and cannot be applied to the rolls of others.
 
 Many thousands of years ago, the solemn cyclopes ruled vast kingdoms, yet today their glories are long forgotten. What few cyclopes survive seldom aspire higher than protecting their lairs and seeking out their next meals. This latter task occupies a great deal of their focus, for the monstrous appetites and vacuous hunger of the cyclopes control the race's destiny and may have led to their original downfall so long ago.
 

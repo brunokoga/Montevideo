@@ -3,7 +3,7 @@ title: mythicAdventures/mythicSpells/animatePlants
 ---
 Animate Plants
 
-**Source** [_animate plants_](spells/animatePlants#_animate-plants)
+**Source** [_animate plants_](spell_dir/animatePlants#_animate-plants
 
-As _ [animate objects](mythicAdventures/mythicSpells/animateObjects#_animate-objects-mythic)_.
+As _ [animate objects](mythicAdventures/mythicSpell_dir/animateObjects#_animate-objects-mythic_.
 

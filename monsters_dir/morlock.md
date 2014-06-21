@@ -1,5 +1,5 @@
 ---
-title: monsters/morlock
+title: monster_dir/morlock
 ---
 # Morlock
 
@@ -11,7 +11,7 @@ _Skin pale as a slug's belly, eyes huge and bulging, this thing crawls down the 
 
 CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
-**Init** +8; **Senses** darkvision 120 ft., [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +2
+**Init** +8; **Senses** darkvision 120 ft., [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +2
 
 **Defense**
 
@@ -29,7 +29,7 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Speed** 40 ft., climb 30 ft.
 
-**Melee** club +5 (1d6+2), bite +0 (1d4+1)
+**Melee** club +5 (1d6+2), bite +0 (1d4+1
 
 **Special Attacks** leap attack, sneak attack +1d6, swarming
 
@@ -41,7 +41,7 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +13, [Climb](../skills/climb#_climb) +22, [Stealth](../skills/stealth#_stealth) +8 (+12 in caverns); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) in caverns, +8 [Acrobatics](../skills/acrobatics#_acrobatics), +16 [Climb](../skills/climb#_climb)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +13, [Climb](../skill_dir/climb#_climb +22, [Stealth](../skill_dir/stealth#_stealth) +8 (+12 in caverns; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth in caverns, +8 [Acrobatics](../skill_dir/acrobatics#_acrobatics, +16 [Climb](../skill_dir/climb#_climb)
 
 **Languages** Undercommon
 
@@ -57,11 +57,11 @@ CE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Special Abilities**
 
-**Expert Climber (Ex)** A morlock can cling to cave walls and even ceilings as long as the surface has hand- and footholds. In effect, a morlock is treated as constantly being under a nonmagical version of the spell _ [spider climb](../spells/spiderClimb#_spider-climb)_, save that it cannot cling to smooth surfaces. This ability doubles the normal +8 racial bonus to [Climb](../skills/climb#_climb) checks normally afforded creatures with a climb speed to a +16 racial bonus.
+**Expert Climber (Ex** A morlock can cling to cave walls and even ceilings as long as the surface has hand- and footholds. In effect, a morlock is treated as constantly being under a nonmagical version of the spell _ [spider climb](../spell_dir/spiderClimb#_spider-climb_, save that it cannot cling to smooth surfaces. This ability doubles the normal +8 racial bonus to [Climb](../skill_dir/climb#_climb) checks normally afforded creatures with a climb speed to a +16 racial bonus.
 
 **Leap Attack (Ex)** As a standard action, a morlock may make a single attack during a jump. It can make this attack at any point along the course of the leap—the start, the end, or while in mid-air. While jumping, a morlock does not provoke attacks of opportunity for leaving a threatened square.
 
-**Swarming (Ex)** Morlocks dwell and fight in cramped quarters every day of their lives, and as such are quite adept at swarming foes. Up to two morlocks can share the same square at the same time. If two morlocks in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
+**Swarming (Ex** Morlocks dwell and fight in cramped quarters every day of their lives, and as such are quite adept at swarming foes. Up to two morlocks can share the same square at the same time. If two morlocks in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
 
 Degenerate humans long lost from the world of light, morlocks have regressed through years of subterranean dwelling into ravenous, barely thinking beasts of the endless night. They no longer remember the civilized lives their ancestors led, although many morlock tribes still dwell in the shattered ruins of their ancient homes. Ironically, in many cases morlocks worship the statues left behind by these ancestors as their gods. Morlock priests of such ancestor worship have access to the domains of Darkness, Earth, Madness, and Strength. A typical morlock stands just over 5 feet tall and weighs roughly 150 pounds.
 

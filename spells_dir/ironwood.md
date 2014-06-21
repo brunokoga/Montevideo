@@ -5,15 +5,15 @@ title: spells/ironwood
 
 **School** transmutation; **Level** druid 6
 
-**Casting Time** 1 minute/lb. created
+**Casting Time** 1 minut_dir/lb. created
 
-**Components** V, S, F (wood to be transformed)
+**Components** V, S, F (wood to be transformed
 
 **Range** 0 ft.
 
 **Effect** an _ironwood _object weighing up to 5 lbs./level
 
-**Duration** 1 day/level (D)
+**Duration** 1 da_dir/level (D
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

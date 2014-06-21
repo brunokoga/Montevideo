@@ -9,15 +9,15 @@ Merrow, FreshwaterCR 3
 
 **XP 800**
 
-NE Large [humanoid](monsters/creatureTypes#_humanoid) ( [aquatic](monsters/creatureTypes#_aquatic-subtype), giant)
+NE Large [humanoid](monster_dir/creatureTypes#_humanoid ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype), giant
 
-**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +5
+**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
 
 Defense
 
 **AC** 17, touch 13, flat-footed 13 (+4 Dex, +4 natural, –1 size)
 
-**hp** 30 (4d8+12)
+**hp** 30 (4d8+12
 
 **Fort** +7, **Ref** +5, **Will** +3
 
@@ -25,7 +25,7 @@ Offense
 
 **Speed** 40 ft., swim 40 ft.
 
-**Melee** 2 claws +6 (1d6+4 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** 2 claws +6 (1d6+4 plus [grab](monster_dir/universalMonsterRules#_grab))
 
 **Ranged** javelin +6 (1d8+4)
 
@@ -35,11 +35,11 @@ Statistics
 
 **Str** 19, **Dex** 18, **Con** 17, **Int** 6, **Wis** 10, **Cha** 7
 
-**Base Atk** +3; **CMB** +8 (+12 grapple); **CMD** 22
+**Base Atk** +3; **CMB** +8 (+12 grapple; **CMD** 22
 
 **Feats** [Iron Will](additionalMonsters/../feats#_iron-will), [Power Attack](additionalMonsters/../feats#_power-attack)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +5, [Stealth](additionalMonsters/../skills/stealth#_stealth) +2 (+6 in water), [Swim](additionalMonsters/../skills/swim#_swim) +12; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skills/stealth#_stealth) in water
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +2 (+6 in water, [Swim](additionalMonsters/../skill_dir/swim#_swim +12; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in water
 
 **Languages** Giant
 
@@ -51,21 +51,21 @@ Ecology
 
 **Organization** solitary, pair, gang (3–4), or family (5–16)
 
-**Treasure** standard (2 javelins, other treasure)
+**Treasure** standard (2 javelins, other treasure
 
 Merrow, Saltwater CR 6
 
 **XP 2,400**
 
-NE Huge [humanoid](monsters/creatureTypes#_humanoid) ( [aquatic](monsters/creatureTypes#_aquatic-subtype), giant)
+NE Huge [humanoid](monster_dir/creatureTypes#_humanoid ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype), giant
 
-**Init** +3; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +7
+**Init** +3; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
 
 Defense
 
 **AC** 19, touch 11, flat-footed 16 (+3 Dex, +8 natural, –2 size)
 
-**hp** 80 (7d8+49)
+**hp** 80 (7d8+49
 
 **Fort** +11, **Ref** +5, **Will** +4
 
@@ -73,7 +73,7 @@ Offense
 
 **Speed** 40 ft., swim 40 ft.
 
-**Melee** 2 claws +11 (1d8+7 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** 2 claws +11 (1d8+7 plus [grab](monster_dir/universalMonsterRules#_grab))
 
 **Ranged** javelin +6 (2d6+7)
 
@@ -83,11 +83,11 @@ Statistics
 
 **Str** 25, **Dex** 16, **Con** 23, **Int** 6, **Wis** 10, **Cha** 7
 
-**Base Atk** +5; **CMB** +14 (+18 grapple); **CMD** 27
+**Base Atk** +5; **CMB** +14 (+18 grapple; **CMD** 27
 
 **Feats** [Iron Will](additionalMonsters/../feats#_iron-will), [Power Attack](additionalMonsters/../feats#_power-attack), [Vital Strike](additionalMonsters/../feats#_vital-strike), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (claw)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +7, [Stealth](additionalMonsters/../skills/stealth#_stealth) –2 (+2 in water), [Swim](additionalMonsters/../skills/swim#_swim) +15; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skills/stealth#_stealth) in water
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) –2 (+2 in water, [Swim](additionalMonsters/../skill_dir/swim#_swim +15; **Racial Modifiers** +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in water
 
 **Languages** Giant
 
@@ -99,7 +99,7 @@ Ecology
 
 **Organization** solitary, pair, gang (3–4), or family (5–16)
 
-**Treasure** standard (2 javelins, other treasure)
+**Treasure** standard (2 javelins, other treasure
 
 Merrows are best described as the aquatic cousins of ogres. Although their green, scaled skin and webbed hands and feet make them appear different, merrows are just as cruel, savage, and wicked as their ogre relatives. The saltwater variety grows much larger than the freshwater variety, but the behavior and society of the two types are otherwise similar.
 

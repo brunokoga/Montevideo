@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/shockingImage
+title: ultimateCombat/spell_dir/shockingImage
 ---
 Shocking Image
 
-**School** illusion (figment) [electricity]; **Level** bard 4, sorcerer/wizard 4
+**School** illusion (figment [electricity]; **Level** bard 4, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ Shocking Image
 
 **Saving Throw** none; **Spell Resistance** see text
 
-This spell works like _ [mirror image](spells/mirrorImage#_mirror-image)_, except the illusory doubles it creates discharge an electric shock when destroyed. An opponent that uses a melee attack to destroy one of your images takes 2d6 points of electricity damage. You must overcome a target's spell resistance the first time you deal this electricity damage to it. Failure renders the target immune to damage from this spell.
+This spell works like _ [mirror image](spell_dir/mirrorImage#_mirror-image_, except the illusory doubles it creates discharge an electric shock when destroyed. An opponent that uses a melee attack to destroy one of your images takes 2d6 points of electricity damage. You must overcome a target's spell resistance the first time you deal this electricity damage to it. Failure renders the target immune to damage from this spell.
 

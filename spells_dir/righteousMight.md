@@ -13,7 +13,7 @@ title: spells/righteousMight
 
 **Target** you
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 Your height immediately doubles, and your weight increases by a factor of eight. This increase changes your size category to the next larger one. You gain a +4 size bonus to [Strength](../gettingStarted#_strength) and [Constitution](../gettingStarted#_constitution) and take a –2 penalty to your [Dexterity](../gettingStarted#_dexterity). You gain a +2 enhancement bonus to your natural armor. You gain [DR](../glossary#_damage-reduction) 5/evil (if you normally channel positive energy) or [DR](../glossary#_damage-reduction) 5/good (if you normally channel negative energy). At 15th level, this [DR](../glossary#_damage-reduction) becomes 10/evil or 10/good (the maximum). Your size modifier for [AC](../combat#_armor-class) and attacks changes as appropriate to your new size category. This spell doesn't change your speed. Determine space and reach as appropriate to your new size.
 

@@ -1,9 +1,9 @@
 ---
-title: spells/heroism
+title: spell_dir/heroism
 ---
  **Heroism**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, sorcerer/wizard 3
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 2, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 

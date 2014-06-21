@@ -9,15 +9,15 @@ This long, lean fish has a muscular body and a head with long jaws filled with s
 
 **XP 400**
 
-N Medium [animal](monsters/creatureTypes#_animal) ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
+N Medium [animal](monster_dir/creatureTypes#_animal ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
 
-**Init** +6; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +6
+**Init** +6; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +6
 
 Defense
 
 **AC** 12, touch 12, flat-footed 11 (+2 Dex, +1 natural)
 
-**hp** 13 (2d8+4)
+**hp** 13 (2d8+4
 
 **Fort** +5, **Ref** +5, **Will** +1
 
@@ -25,23 +25,23 @@ Offense
 
 **Speed** swim 60 ft.
 
-**Melee** bite +3 (1d6+3 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** bite +3 (1d6+3 plus [grab](monster_dir/universalMonsterRules#_grab))
 
 Statistics
 
 **Str** 14, **Dex** 14, **Con** 15, **Int** 1, **Wis** 13, **Cha** 2
 
-**Base Atk** +1; **CMB** +3 (+7 grapple); **CMD** 15 (can't be tripped)
+**Base Atk** +1; **CMB** +3 (+7 grapple); **CMD** 15 (can't be tripped
 
 **Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +6, [Swim](additionalMonsters/../skills/swim#_swim) +10
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +6, [Swim](additionalMonsters/../skill_dir/swim#_swim) +10
 
 Ecology
 
 **Environment** temperate freshwater
 
-**Organization** solitary, pair, or school (3–6)
+**Organization** solitary, pair, or school (3–6
 
 **Treasure** none
 
@@ -61,15 +61,15 @@ Giant GarCR 6
 
 **XP 2,400**
 
-N Huge [animal](monsters/creatureTypes#_animal) ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
+N Huge [animal](monster_dir/creatureTypes#_animal ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
 
-**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +11
+**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +11
 
 Defense
 
 **AC** 19, touch 8, flat-footed 19 (+11 natural, –2 size)
 
-**hp** 73 (7d8+42)
+**hp** 73 (7d8+42
 
 **Fort** +11, **Ref** +7, **Will** +5
 
@@ -77,7 +77,7 @@ Offense
 
 **Speed** swim 60 ft.
 
-**Melee** bite +13 (2d6+15 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** bite +13 (2d6+15 plus [grab](monster_dir/universalMonsterRules#_grab))
 
 **Space** 15 ft.; **Reach** 15 ft.
 
@@ -87,11 +87,11 @@ Statistics
 
 **Str** 30, **Dex** 10, **Con** 23, **Int** 1, **Wis** 13, **Cha** 2
 
-**Base Atk** +5; **CMB** +17 (+21 grapple); **CMD** 27 (can't be tripped)
+**Base Atk** +5; **CMB** +17 (+21 grapple); **CMD** 27 (can't be tripped
 
 **Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Power Attack](additionalMonsters/../feats#_power-attack)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +11, [Swim](additionalMonsters/../skills/swim#_swim) +18
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +11, [Swim](additionalMonsters/../skill_dir/swim#_swim) +18
 
 Ecology
 
@@ -103,5 +103,5 @@ Ecology
 
 Although typical gars are frightening enough, tales of enormous giant gars that lurk in the deepest rivers and lakes persist in many regions. These creatures are true monsters, often growing to lengths of 30 feet or more and capable of swallowing a horse and rider in a single gulp. Fortunately, giant gars are much rarer than their smaller kin.
 
-Giant gars are often kept as pets and guard animals by aquatic creatures such as merrows, scrags (aquatic trolls), and the rare sea hags who dwell in freshwater dens.
+Giant gars are often kept as pets and guard animals by aquatic creatures such as merrows, scrags (aquatic trolls, and the rare sea hags who dwell in freshwater dens.
 

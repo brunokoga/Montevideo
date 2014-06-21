@@ -3,7 +3,7 @@ title: ultimateEquipment/gear/alchemicalRemedies
 ---
 # Alchemical Remedies
 
-Alchemical remedies are substances used to overcome a negative condition or ward against a specific kind of attack. You use most remedies by drinking them or applying them to your skin or clothing. All of these substances can be made by a character with the [Craft](skills/craft#_craft) (alchemy) skill.
+Alchemical remedies are substances used to overcome a negative condition or ward against a specific kind of attack. You use most remedies by drinking them or applying them to your skin or clothing. All of these substances can be made by a character with the [Craft](skill_dir/craft#_craft) (alchemy skill.
 
 [Alchemical Remedies]
 | Item | Price | Weight | Craft DC |
@@ -29,7 +29,7 @@ Alchemical Grease
 
 **Price** 5 gp; **Weight** 1 lb.
 
-Each pot of this slick black goo has sufficient contents to cover one Medium creature or two Small ones. If you coat yourself in alchemical grease, you gain a +5 alchemical bonus on [Escape Artist](skills/escapeArtist#_escape-artist) checks, on combat maneuver checks made to escape a grapple, and to your CMD to avoid being grappled; this lasts 4 hours or until you wash it off.
+Each pot of this slick black goo has sufficient contents to cover one Medium creature or two Small ones. If you coat yourself in alchemical grease, you gain a +5 alchemical bonus on [Escape Artist](skill_dir/escapeArtist#_escape-artist) checks, on combat maneuver checks made to escape a grapple, and to your CMD to avoid being grappled; this lasts 4 hours or until you wash it off.
 
 Alchemist's Kindness
 
@@ -41,7 +41,7 @@ Antiplague
 
 **Price** 50 gp; **Weight** —
 
-If you drink a vial of this foul-tasting, milky tonic, you gain a +5 alchemical bonus on Fortitude saving throws against disease for the next hour. If already infected, you may also make two saving throws (without the +5 bonus) that day and use the better result.
+If you drink a vial of this foul-tasting, milky tonic, you gain a +5 alchemical bonus on Fortitude saving throws against disease for the next hour. If already infected, you may also make two saving throws (without the +5 bonus that day and use the better result.
 
 Antitoxin
 
@@ -59,13 +59,13 @@ Fire Ward Gel
 
 **Price** 150 gp; **Weight** 1 lb.
 
-When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from fire or heat damage. You gain fire resistance 5. The gel burns away as it absorbs fire damage; when it absorbs a total of 20 points of fire damage, it is discharged. Fire ward gel counts as _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ for the purpose of stacking multiple fire protection effects. Applying fire ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of fire ward gel do not stack; applying more while a dose is active merely resets the potential amount of fire damage absorbed to 20 points.
+When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from fire or heat damage. You gain fire resistance 5. The gel burns away as it absorbs fire damage; when it absorbs a total of 20 points of fire damage, it is discharged. Fire ward gel counts as _ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy_ for the purpose of stacking multiple fire protection effects. Applying fire ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of fire ward gel do not stack; applying more while a dose is active merely resets the potential amount of fire damage absorbed to 20 points.
 
 Frost Ward Gel
 
 **Price** 150 gp; **Weight** 1 lb.
 
-When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from cold damage. You gain cold resistance 5. The gel flakes away as it absorbs cold damage; when it absorbs a total of 20 points of cold damage, it is discharged. Frost ward gel counts as _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ for the purpose of stacking multiple cold protection effects. Applying frost ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of frost ward gel do not stack; applying more while a dose is active merely resets the potential amount of cold damage absorbed to 20 points.
+When you apply this thin gel to your skin, armor, or clothing, it creates a resistant barrier that protects you from cold damage. You gain cold resistance 5. The gel flakes away as it absorbs cold damage; when it absorbs a total of 20 points of cold damage, it is discharged. Frost ward gel counts as _ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy)_ for the purpose of stacking multiple cold protection effects. Applying frost ward gel takes 1 minute, and it lasts for 1 hour before losing its potency. Multiple applications of frost ward gel do not stack; applying more while a dose is active merely resets the potential amount of cold damage absorbed to 20 points.
 
 Meditation Tea
 
@@ -83,7 +83,7 @@ Smelling Salts
 
 **Price** 25 gp; **Weight** —
 
-These sharply scented gray crystals cause people inhaling them to regain consciousness. Smelling salts grant you a new saving throw to resist any spell or effect that has already rendered you unconscious or staggered. If exposed to smelling salts while dying, you immediately become conscious and staggered, but must still make stabilization checks each round; if you perform any standard action (or any other strenuous action), you take 1 point of damage after completing the act and fall unconscious again. A container of smelling salts has dozens of uses if stoppered after each use, but depletes in a matter of hours if left open.
+These sharply scented gray crystals cause people inhaling them to regain consciousness. Smelling salts grant you a new saving throw to resist any spell or effect that has already rendered you unconscious or staggered. If exposed to smelling salts while dying, you immediately become conscious and staggered, but must still make stabilization checks each round; if you perform any standard action (or any other strenuous action, you take 1 point of damage after completing the act and fall unconscious again. A container of smelling salts has dozens of uses if stoppered after each use, but depletes in a matter of hours if left open.
 
 Soothe Syrup
 

@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/witness
+title: ultimateMagic/spell_dir/witness
 ---
 Witness
 
-**School** divination (scrying); **Level** bard 3, inquisitor 3, witch 3
+**School** divination (scrying; **Level** bard 3, inquisitor 3, witch 3
 
 **Casting Time** 1 standard action
 
@@ -13,9 +13,9 @@ Witness
 
 **Target** one living creature
 
-**Duration** 1 minute/level (D)
+**Duration** 1 minut_dir/level (D)
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-You link your senses to the target, allowing you to see and hear through its eyes and ears. As a move action you can shift your senses from yourself to the target or back again. When using the target's senses, you are blind and deaf. When perceiving through the target, you use its normal and special senses (such as darkvision), not your own.
+You link your senses to the target, allowing you to see and hear through its eyes and ears. As a move action you can shift your senses from yourself to the target or back again. When using the target's senses, you are blind and deaf. When perceiving through the target, you use its normal and special senses (such as darkvision, not your own.
 

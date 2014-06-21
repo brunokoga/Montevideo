@@ -1,9 +1,9 @@
 ---
-title: spells/dispelGood
+title: spell_dir/dispelGood
 ---
  **Dispel Good**
 
 **School** abjuration [evil]; **Level** cleric 5
 
-This spell functions like _ [dispel evil](dispelEvil#_dispel-evil)_, except that you are surrounded by dark, wavering unholy energy, and the spell affects good creatures and spells rather than evil ones.
+This spell functions like _ [dispel evil](dispelEvil#_dispel-evil_, except that you are surrounded by dark, wavering unholy energy, and the spell affects good creatures and spells rather than evil ones.
 

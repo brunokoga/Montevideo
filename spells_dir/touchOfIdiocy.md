@@ -1,9 +1,9 @@
 ---
-title: spells/touchOfIdiocy
+title: spell_dir/touchOfIdiocy
 ---
  **Touch of Idiocy**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 2
+**School** enchantment (compulsion [mind-affecting]; **Level** sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 

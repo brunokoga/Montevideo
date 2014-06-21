@@ -3,11 +3,11 @@ title: spells/lightningBolt
 ---
  **Lightning Bolt**
 
-**School** evocation [electricity]; **Level** sorcerer/wizard 3
+**School** evocation [electricity]; **Level** sorcere_dir/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (fur and a glass rod)
+**Components** V, S, M (fur and a glass rod
 
 **Range** 120 ft.
 

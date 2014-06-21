@@ -13,9 +13,9 @@ title: advanced/spells/featherStep
 
 **Target** one creature
 
-**Duration** 10 minutes/level
+**Duration** 10 minute_dir/level
 
-**Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes
+**Saving Throw** Fortitude negates (harmless; **Spell Resistance** yes
 
 For the duration of this spell, the subject ignores the adverse movement effects of difficult terrain, and can even take 5-foot steps in difficult terrain.
 

@@ -1,5 +1,5 @@
 ---
-title: monsters/boggard
+title: monster_dir/boggard
 ---
 # Boggard
 
@@ -9,9 +9,9 @@ _Bulbous eyes glare atop this creature's decidedly toad-like head. A multitude o
 
 **XP 600**
 
-CE Medium [humanoid](creatureTypes#_humanoid) (boggard)
+CE Medium [humanoid](creatureTypes#_humanoid) (boggard
 
-**Init** -1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +4
+**Init** -1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +4
 
 **Defense**
 
@@ -25,7 +25,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) (boggard)
 
 **Speed** 20 ft., swim 30 ft.
 
-**Melee** morningstar +5 (1d8+3), tongue –1 touch (sticky tongue)
+**Melee** morningstar +5 (1d8+3), tongue –1 touch (sticky tongue
 
 **Special Attacks** terrifying croak
 
@@ -37,7 +37,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) (boggard)
 
 **Feats** [Toughness](../feats#_toughness), [Weapon Focus](../feats#_weapon-focus) (morningstar)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +2 (+14 jumping), [Stealth](../skills/stealth#_stealth) –1 (+7 in swamps), [Swim](../skills/swim#_swim) +10; **Racial Modifiers** +16 [Acrobatics](../skills/acrobatics#_acrobatics) when jumping, +4 [Perception](../skills/perception#_perception), +8 [Stealth](../skills/stealth#_stealth) in swamps
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +2 (+14 jumping, [Stealth](../skill_dir/stealth#_stealth) –1 (+7 in swamps, [Swim](../skill_dir/swim#_swim +10; **Racial Modifiers** +16 [Acrobatics](../skill_dir/acrobatics#_acrobatics when jumping, +4 [Perception](../skill_dir/perception#_perception, +8 [Stealth](../skill_dir/stealth#_stealth) in swamps
 
 **Languages** Boggard
 
@@ -59,7 +59,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) (boggard)
 
 **Swamp Stride (Ex)** A boggard can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a boggard normally.
 
-**Terrifying Croak (Su)** Once per hour, a boggard can, as a standard action, emit a loud and horrifying croak. Any non-boggard creature within 30 feet of the boggard must make a DC 13 Will save or become shaken for 1d4 rounds. Creatures that succeed at this save cannot be affected again by the same boggard's croak for 24 hours. Creatures that are already shaken become frightened for 1d4 rounds instead. The save DC is Charisma-based and includes a +2 racial bonus.
+**Terrifying Croak (Su** Once per hour, a boggard can, as a standard action, emit a loud and horrifying croak. Any non-boggard creature within 30 feet of the boggard must make a DC 13 Will save or become shaken for 1d4 rounds. Creatures that succeed at this save cannot be affected again by the same boggard's croak for 24 hours. Creatures that are already shaken become frightened for 1d4 rounds instead. The save DC is Charisma-based and includes a +2 racial bonus.
 
 Boggards resemble anthropomorphic frogs or toads, complete with webbed hands and feet, large eyes, and overly wide mouths. These creatures make their homes near large rivers or deep in marshes. There they make small villages composed of mud mounds on the banks. Boggards start out life as tadpoles in breeding ponds, eventually growing to a length of 3 feet before sprouting arms and legs and becoming capable of terrestrial living. Acceptance into the clan then depends on the young boggard's successful hunt to kill a sentient humanoid. Those who fail are exiled from the clan. As boggards age, they continue to grow and lose their coloration. Exceptionally old boggards bear completely white skin covering massive corpulent bodies. Some of these boggards rank among the caste of priest-kings and enjoy a life of grotesque pleasures ruling their clans.
 

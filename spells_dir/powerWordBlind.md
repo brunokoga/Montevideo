@@ -1,9 +1,9 @@
 ---
-title: spells/powerWordBlind
+title: spell_dir/powerWordBlind
 ---
  **Power Word Blind**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 7
+**School** enchantment (compulsion [mind-affecting]; **Level** sorcerer/wizard 7
 
 **Casting Time** 1 standard action
 

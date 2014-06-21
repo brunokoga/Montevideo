@@ -1,5 +1,5 @@
 ---
-title: monsters/goblinDog
+title: monster_dir/goblinDog
 ---
 # Goblin Dog
 
@@ -11,7 +11,7 @@ _This mangy canine's face has the same flat nose, beady eyes, and protruding tee
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +1
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +1
 
 **Defense**
 
@@ -27,7 +27,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Speed** 50 ft.
 
-**Melee** bite +2 (1d6+3 plus allergic reaction)
+**Melee** bite +2 (1d6+3 plus allergic reaction
 
 **Statistics**
 
@@ -37,7 +37,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Feats** [Toughness](../feats#_toughness)
 
-**Skills** [Stealth](../skills/stealth#_stealth) +6
+**Skills** [Stealth](../skill_dir/stealth#_stealth) +6
 
 **Ecology**
 
@@ -65,5 +65,5 @@ A goblin dog is 5 feet long but weighs only 75 pounds.
 
 **Starting Statistics** : **Size** Small; **Speed** 50 ft.; **Attack** bite (1d4); **Ability Scores** Str 11, Dex 16, Con 11, Int 2, Wis 12, Cha 8; **Special Qualities** allergic reaction, low-light vision, scent.
 
-**4th-Level Advancement** : **Size** Medium; **AC** +1 natural armor; **Attack** bite (1d6); **Ability Scores** Str +4, Dex –2, Con +4.
+**4th-Level Advancement** : **Size** Medium; **AC** +1 natural armor; **Attack** bite (1d6; **Ability Scores** Str +4, Dex –2, Con +4.
 

@@ -1,19 +1,19 @@
 ---
-title: spells/rainbowPattern
+title: spell_dir/rainbowPattern
 ---
  **Rainbow Pattern**
 
-**School** illusion (pattern) [mind-affecting]; **Level** bard 4, sorcerer/wizard 4
+**School** illusion (pattern [mind-affecting]; **Level** bard 4, sorcere_dir/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V (bard only), S, M (a piece of phosphor), F (a crystal prism); see text
+**Components** V (bard only), S, M (a piece of phosphor), F (a crystal prism; see text
 
 **Range** medium (100 ft. + 10 ft./level)
 
 **Effect** colorful lights with a 20-ft.-radius spread
 
-**Duration** Concentration +1 round/level (D)
+**Duration** Concentration +1 roun_dir/level (D
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

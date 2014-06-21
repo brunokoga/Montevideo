@@ -3,7 +3,7 @@ title: spells/contactOtherPlane
 ---
  **Contact Other Plane**
 
-**School** divination; **Level** sorcerer/wizard 5
+**School** divination; **Level** sorcere_dir/wizard 5
 
 **Casting Time** 10 minutes
 
@@ -17,7 +17,7 @@ title: spells/contactOtherPlane
 
 You send your mind to another plane of existence (an Elemental Plane or some plane farther removed) in order to receive advice and information from powers there. See the accompanying table for possible consequences and results of the attempt. The powers reply in a language you understand, but they resent such contact and give only brief answers to your questions. All questions are answered with “yes,” “no,” “maybe,” “never,” “irrelevant,” or some other one-word answer.
 
-You must concentrate on maintaining the spell (a standard action) in order to ask questions at the rate of one per round. A question is answered by the power during the same round. You may ask one question for every two caster levels.
+You must concentrate on maintaining the spell (a standard action in order to ask questions at the rate of one per round. A question is answered by the power during the same round. You may ask one question for every two caster levels.
 
 Contact with minds far removed from your home plane increases the probability that you will incur a decrease in [Intelligence](../gettingStarted#_intelligence) and [Charisma](../gettingStarted#_charisma-new) due to your brain being overwhelmed, but also increases the chance of the power knowing the answer and answering correctly. Once the Outer Planes are reached, the power of the deity contacted determines the effects. (Random results obtained from the table are subject to the personalities of individual deities.) On rare occasions, this divination may be blocked by an act of certain deities or forces.
 

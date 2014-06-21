@@ -1,5 +1,5 @@
 ---
-title: advancedRaceGuide/coreRaces/halfOrcs
+title: advancedRaceGuide/coreRace_dir/halfOrcs
 ---
 # Half-Orcs
 
@@ -33,7 +33,7 @@ Half-orcs raised in orc societies often take up the brutish ways of those around
 
 Half-orcs are just as likely to have children that possess an innate talent for sorcery as any other race, with the abyssal, destined, and elemental fire bloodlines being the most common types of sorcerers. Half-orcs are fascinated by alchemy, and its destructive capabilities make its usefulness obvious in any orc tribe. Half-orc alchemists treat themselves as living experiments, even to the point of trying to separate their orc and human halves through alchemy. Other alchemists use their powers to enhance their physical abilities and thus increase their status within orc communities.
 
-In human societies, half-orcs have a few more options. Many find it easy to take advantage of the brute strength and work as mercenaries or caravan guards. Crime is another easy route for half-orcs, as there are plenty of criminals looking for a strong arm. Half-orc clerics in human communities are fairly rare; the more religious half-orcs more often turn to (or get pushed to) the martial aspects of religious service and become paladins or inquisitors. Half-orcs usually lack the patience and money required to become a wizard.
+In human societies, half-orcs have a few more options. Many find it easy to take advantage of the brute strength and work as mercenaries or caravan guards. Crime is another easy route for half-orcs, as there are plenty of criminals looking for a strong arm. Half-orc clerics in human communities are fairly rare; the more religious half-orcs more often turn to (or get pushed to the martial aspects of religious service and become paladins or inquisitors. Half-orcs usually lack the patience and money required to become a wizard.
 
 **Males names** : Ausk, Davor, Hakak, Kizziar, Makoa, Nesteruk, Tsadok.
 
@@ -49,7 +49,7 @@ In human societies, half-orcs have a few more options. Many find it easy to take
 
 **Darkvision** : Half-orcs can see in the dark up to 60 feet.
 
-**Intimidating** : Half-orcs receive a +2 racial bonus on [Intimidate](skills/intimidate#_intimidate) checks due to their fearsome nature.
+**Intimidating** : Half-orcs receive a +2 racial bonus on [Intimidate](skill_dir/intimidate#_intimidate checks due to their fearsome nature.
 
 **Orc Blood** : Half-orcs count as both humans and orcs for any effect related to race.
 
@@ -69,27 +69,27 @@ The following racial traits may be selected instead of existing half-orc racial 
 
 **Acute Darkvision** : Some half-orcs have exceptionally sharp darkvision, gaining darkvision 90 feet. This racial trait replaces orc ferocity.
 
-**Beastmaster** : Some half-orcs have a spiritual kinship with fantastical beasts, capturing them for sport or living and hunting with them. A half-orc with this trait treats whips and nets as martial weapons and gains a +2 racial bonus on [Handle Animal](skills/handleAnimal#_handle-animal) checks. This racial trait replaces orc ferocity.
+**Beastmaster** : Some half-orcs have a spiritual kinship with fantastical beasts, capturing them for sport or living and hunting with them. A half-orc with this trait treats whips and nets as martial weapons and gains a +2 racial bonus on [Handle Animal](skill_dir/handleAnimal#_handle-animal checks. This racial trait replaces orc ferocity.
 
-**Bestial** : The orc blood of some half-orcs manifests in the form of particularly prominent orc features, exacerbating their bestial appearances but improving their already keen senses. They gain a +2 racial bonus on [Perception](skills/perception#_perception) checks. This racial trait replaces orc ferocity.
+**Bestial** : The orc blood of some half-orcs manifests in the form of particularly prominent orc features, exacerbating their bestial appearances but improving their already keen senses. They gain a +2 racial bonus on [Perception](skill_dir/perception#_perception checks. This racial trait replaces orc ferocity.
 
-**Cavewight** : Some half-orcs live far below the surface, seeking freedom in winding cave complexes. Half-orcs with this racial trait gain a +1 racial bonus on [Knowledge](skills/knowledge#_knowledge) (dungeoneering) and [Survival](skills/survival#_survival) checks made underground. This racial trait replaces the intimidating trait.
+**Cavewight** : Some half-orcs live far below the surface, seeking freedom in winding cave complexes. Half-orcs with this racial trait gain a +1 racial bonus on [Knowledge](skill_dir/knowledge#_knowledge) (dungeoneering and [Survival](skill_dir/survival#_survival checks made underground. This racial trait replaces the intimidating trait.
 
 **Chain Fighter** : Some half-orcs have escaped from slavery and reforged the chains of their imprisonment into deadly weapons. Half-orcs with this racial trait are proficient with flails and heavy flails, and treat dire flails and spiked chains as martial weapons. This racial trait replaces weapon familiarity.
 
-**City-Raised** : Half-orcs with this trait know little of their orc ancestry and were raised among humans and other half-orcs in a large city. City-raised half-orcs are proficient with whips and longswords, and receive a +2 racial bonus on [Knowledge](skills/knowledge#_knowledge) (local) checks. This racial trait replaces weapon familiarity.
+**City-Raised** : Half-orcs with this trait know little of their orc ancestry and were raised among humans and other half-orcs in a large city. City-raised half-orcs are proficient with whips and longswords, and receive a +2 racial bonus on [Knowledge](skill_dir/knowledge#_knowledge) (local checks. This racial trait replaces weapon familiarity.
 
-**Forest Walker** : More at home in the forests and jungles of the world, these half-orcs are well adapted to their surroundings. Half-orcs with this trait have low-light vision and gain a +2 racial bonus on [Climb](skills/climb#_climb) checks. This racial trait replaces darkvision.
+**Forest Walker** : More at home in the forests and jungles of the world, these half-orcs are well adapted to their surroundings. Half-orcs with this trait have low-light vision and gain a +2 racial bonus on [Climb](skill_dir/climb#_climb checks. This racial trait replaces darkvision.
 
 **Gatecrasher** : Many half-orcs revel in acts of wanton destruction. Half-orcs with this racial trait gain a +2 racial bonus on Strength checks to break objects and on sunder combat maneuver checks. This racial trait replaces orc ferocity.
 
-**Rock Climber** : Half-orcs from mountainous regions are excellent climbers, and sometimes ambush prey by leaping down from above. Half-orcs with this racial trait gain a +1 racial bonus on [Acrobatics](skills/acrobatics#_acrobatics) and [Climb](skills/climb#_climb) checks. This racial trait replaces the intimidating trait.
+**Rock Climber** : Half-orcs from mountainous regions are excellent climbers, and sometimes ambush prey by leaping down from above. Half-orcs with this racial trait gain a +1 racial bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics and [Climb](skill_dir/climb#_climb checks. This racial trait replaces the intimidating trait.
 
 **Sacred Tattoo** : Many half-orcs decorate themselves with tattoos, piercings, and ritual scarification, which they consider sacred markings. Half-orcs with this racial trait gain a +1 luck bonus on all saving throws. This racial trait replaces orc ferocity.
 
-**Scavenger** : Some half-orcs eke out a leaving picking over the garbage heaps of society, and must learn to separate rare finds from the inevitable dross. Half-orcs with this racial trait receive a +2 racial bonus on [Appraise](skills/appraise#_appraise) checks and on [Perception](skills/perception#_perception) checks to find hidden objects (including traps and secret doors), determine whether food is spoiled, or identify a potion by taste. This racial trait replaces the intimidating trait.
+**Scavenger** : Some half-orcs eke out a leaving picking over the garbage heaps of society, and must learn to separate rare finds from the inevitable dross. Half-orcs with this racial trait receive a +2 racial bonus on [Appraise](skill_dir/appraise#_appraise checks and on [Perception](skill_dir/perception#_perception) checks to find hidden objects (including traps and secret doors), determine whether food is spoiled, or identify a potion by taste. This racial trait replaces the intimidating trait.
 
-**Shaman's Apprentice** : Only the most stalwart survive the years of harsh treatment that an apprenticeship to an orc shaman entails. Half-orcs with this trait gain [Endurance](feats#_endurance) as a bonus feat. This racial trait replaces the intimidating trait.
+**Shaman's Apprentice** : Only the most stalwart survive the years of harsh treatment that an apprenticeship to an orc shaman entails. Half-orcs with this trait gain [Endurance](feats#_endurance as a bonus feat. This racial trait replaces the intimidating trait.
 
 **Skilled** : Second- and third-generation half-orcs often favor their human heritage more than their orc heritage. Half-orcs with this trait gain 1 additional skill rank per level. This racial trait replaces darkvision.
 
@@ -129,7 +129,7 @@ The following options are available to all half-orcs who have the listed favored
 
 **Gunslinger** : Add a +1/3 bonus on attack rolls when using the pistol whip deed.
 
-**Inquisitor** : Add a +1/2 bonus on [Intimidate](skills/intimidate#_intimidate) checks and [Knowledge](skills/knowledge#_knowledge) checks to identify creatures.
+**Inquisitor** : Add a +1/2 bonus on [Intimidate](skill_dir/intimidate#_intimidate checks and [Knowledge](skill_dir/knowledge#_knowledge checks to identify creatures.
 
 **Magus** : Add +1/2 point of fire damage to spells that deal fire damage cast by the magus.
 
@@ -163,13 +163,13 @@ A half-orc summoner who devotes himself to one of the bloody orc gods may believ
 
 At 5th level, when the blood god disciple uses blood feast, he may manifest one 2-point evolution instead of a 1-point evolution. At 9th level, he may manifest up to two evolutions worth a total of 3 evolution points or fewer. At 13th level, he may manifest up to two evolutions worth a total of 4 evolution points or fewer. At 17th level, he may manifest up to three evolutions worth a total of 5 evolution points or fewer.
 
-This ability replaces the _ [summon monster I](spells/summonMonster#_summon-monster-i)_, _III_, _V_, _VII_, and _IX_ spell-like abilities.
+This ability replaces the _ [summon monster I](spell_dir/summonMonster#_summon-monster-i)_, _III_, _V_, _VII_, and _IX_ spell-like abilities.
 
-**Bloody Gift (Su)** : At 3rd level, when a blood god disciple uses blood feast to manifest an evolution, he may touch one ally and grant it that evolution as well. Each affected ally counts as one use per day of the blood feast ability. At 7th, 11th, 15th, and 19th level, the blood god disciple can affect an additional creature with this ability (each one counting as a use per day of blood feast). If the blood god disciple can manifest multiple evolutions per use of blood feast, his selected allies manifest these multiple evolutions as well. This ability replaces the _ [summon monster II](spells/summonMonster#_summon-monster-ii)_ spell-like ability.
+**Bloody Gift (Su)** : At 3rd level, when a blood god disciple uses blood feast to manifest an evolution, he may touch one ally and grant it that evolution as well. Each affected ally counts as one use per day of the blood feast ability. At 7th, 11th, 15th, and 19th level, the blood god disciple can affect an additional creature with this ability (each one counting as a use per day of blood feast. If the blood god disciple can manifest multiple evolutions per use of blood feast, his selected allies manifest these multiple evolutions as well. This ability replaces the _ [summon monster II](spell_dir/summonMonster#_summon-monster-ii)_ spell-like ability.
 
-**Avatar Gambit (Ex)** : At 7th level, when a blood god disciple dismisses his eidolon, he rages like a barbarian for a number of rounds equal to half his summoner level (he may end this rage early just like a barbarian, but if he does so, any remaining rounds of rage from this ability are lost). This replaces the _ [summon monster IV](spells/summonMonster#_summon-monster-iv)_ spell-like ability.
+**Avatar Gambit (Ex)** : At 7th level, when a blood god disciple dismisses his eidolon, he rages like a barbarian for a number of rounds equal to half his summoner level (he may end this rage early just like a barbarian, but if he does so, any remaining rounds of rage from this ability are lost. This replaces the _ [summon monster IV](spell_dir/summonMonster#_summon-monster-iv)_ spell-like ability.
 
-**Rage Power (Ex)** : At 11th level and 15th level, a blood god disciple selects a barbarian rage power, which he may use when raging (whether from the avatar gambit ability or actual barbarian rage). This replaces the _ [summon monster VI](spells/summonMonster#_summon-monster-vi)_ and _VIII_ spell-like abilities.
+**Rage Power (Ex)** : At 11th level and 15th level, a blood god disciple selects a barbarian rage power, which he may use when raging (whether from the avatar gambit ability or actual barbarian rage. This replaces the _ [summon monster VI](spell_dir/summonMonster#_summon-monster-vi)_ and _VIII_ spell-like abilities.
 
 ## Hateful Rager (Barbarian)
 
@@ -195,35 +195,35 @@ As most half-orcs are outcasts, a half-orc paladin recognizes that often those w
 
 **Merciful Smite (Su)** : At 1st level, when a redeemer chooses to smite a creature, she can have all of her attacks against the target deal nonlethal damage. She does not take the normal –4 attack roll penalty for using a lethal weapon to deal nonlethal damage. She cannot use this ability to deal nonlethal damage to outsiders with the evil subtype, evil-aligned dragons, or undead creatures (these creatures take lethal damage from her smite). This otherwise works like and replaces the standard paladin's smite evil.
 
-**Monstrous Rapport (Ex)** : At 1st level, redeemers gain a +2 bonus on [Diplomacy](skills/diplomacy#_diplomacy) checks to influence creatures who are commonly considered monstrous. This includes but is not limited to "monstrous" races such as goblins and orcs, monstrous humanoids, and other intelligent non-humanoid monsters. This ability replaces _ [detect evil](spells/detectEvil#_detect-evil)_.
+**Monstrous Rapport (Ex** : At 1st level, redeemers gain a +2 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy checks to influence creatures who are commonly considered monstrous. This includes but is not limited to "monstrous" races such as goblins and orcs, monstrous humanoids, and other intelligent non-humanoid monsters. This ability replaces _ [detect evil](spell_dir/detectEvil#_detect-evil)_.
 
-**Pact of Peace (Sp)** : At 8th level, a redeemer can force a defeated creature to accept a binding pact of peace as a condition of its surrender, as if using _ [lesser geas](spells/geasQuest#_geas-lesser)_. Her caster level for this ability is equal to her paladin level. Rather than assigning a mission or task, the redeemer gives the creature a simple set of prohibitions to protect others. Example geas include "Leave this city and do not return" or "Do not attack caravans." The prohibition must be against an area no larger than 300 square miles or one specific group of people (such as a tribe or citizens of a particular city). This ability lasts 1 month per paladin level. This replaces aura of resolve.
+**Pact of Peace (Sp** : At 8th level, a redeemer can force a defeated creature to accept a binding pact of peace as a condition of its surrender, as if using _ [lesser geas](spell_dir/geasQuest#_geas-lesser)_. Her caster level for this ability is equal to her paladin level. Rather than assigning a mission or task, the redeemer gives the creature a simple set of prohibitions to protect others. Example geas include "Leave this city and do not return" or "Do not attack caravans." The prohibition must be against an area no larger than 300 square miles or one specific group of people (such as a tribe or citizens of a particular city). This ability lasts 1 month per paladin level. This replaces aura of resolve.
 
 **Aura of Mercy (Su)** : At 11th level, a redeemer can expend two uses of her merciful smite ability to grant the merciful smite ability to all allies within 10 feet, using her bonuses. Allies must use this merciful smite ability by the start of the paladin's next turn and the bonuses last for 1 minute. Using this ability is a free action. Evil creatures gain no benefit from this ability. This replaces aura of justice.
 
 **Associates** : A redeemer may ally with an evil creature as long as she feels the creature is capable of redemption. A redeemer may accept henchmen, followers, or cohorts who are not lawful good provided they demonstrate they are willing to follow her and seek betterment under her tutelage.
 
-## Skulking Slayer (Rogue)
+## Skulking Slayer (Rogue
 
 Pushed into a life of crime by the society around them, half-orcs gravitate toward criminal activities that suit them best. Half-orc rogues leave subtle tactics and finesse to halflings and elves, and rely on brute strength and thuggery when they go about making mischief. Skulking slayers have turned the use of raw strength and surprise into an art form. A skulking slayer has the following class features.
 
 **Weapon and Armor Proficiency** : The skulking slayer gains proficiency with greatclubs and whips, but loses proficiency with rapiers and hand crossbows.
 
-**Class Skills** : The skulking slayer does not gain [Disable Device](skills/disableDevice#_disable-device), [Linguistics](skills/linguistics#_linguistics), and [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) as class skills.
+**Class Skills** : The skulking slayer does not gain [Disable Device](skill_dir/disableDevice#_disable-device, [Linguistics](skill_dir/linguistics#_linguistics, and [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) as class skills.
 
 **Skill Ranks per Level** : 6 + Int modifier.
 
-**Pass for Human (Ex)** : At 1st level, when trying to conceal her half-orc heritage, a skulking slayer gains a bonus on [Disguise](skills/disguise#_disguise) checks equal to half her level. When using disguise to appear as a specific individual, skulking stalkers ignore the normal –2 penalty to appear as another race.
+**Pass for Human (Ex** : At 1st level, when trying to conceal her half-orc heritage, a skulking slayer gains a bonus on [Disguise](skill_dir/disguise#_disguise) checks equal to half her level. When using disguise to appear as a specific individual, skulking stalkers ignore the normal –2 penalty to appear as another race.
 
-**Underhanded Maneuvers (Ex)** : At 1st level, when she could normally make a sneak attack, a slayer may instead make a dirty trick or steal combat maneuver with a bonus on her roll. This bonus is equal to her number of sneak attack dice for a dirty trick combat maneuver, or 1-1/2 × her number of sneak attack dice for a steal combat maneuver. This ability replaces trapfinding.
+**Underhanded Maneuvers (Ex** : At 1st level, when she could normally make a sneak attack, a slayer may instead make a dirty trick or steal combat maneuver with a bonus on her roll. This bonus is equal to her number of sneak attack dice for a dirty trick combat maneuver, or 1-1/2 × her number of sneak attack dice for a steal combat maneuver. This ability replaces trapfinding.
 
 **Bonus Feats** : At 2nd level, a skulking slayer can select the Surprise Follow-Through feat (see below) in place of a rogue talent. At 10th level, she can select the Improved Surprise Follow-Through feat in place of an advanced rogue talent.
 
 **Bold Strike (Ex)** : At 3rd level, when a skulking slayer charges and makes a sneak attack with a two-handed weapon, she rolls d8s instead of d6s for her sneak attack damage. This ability replaces trap sense +1 and +4.
 
-**Shifty (Ex)** : At 6th level, a skulking slayer gains a bonus on [Bluff](skills/bluff#_bluff) checks to feint equal to half her level. This ability replaces trap sense +2.
+**Shifty (Ex)** : At 6th level, a skulking slayer gains a bonus on [Bluff](skill_dir/bluff#_bluff) checks to feint equal to half her level. This ability replaces trap sense +2.
 
-**Unexpected Charge (Ex)** : At 9th level, a skulking slayer can make a [Bluff](skills/bluff#_bluff) check to feint as a swift action before a charge. This ability replaces trap sense +3.
+**Unexpected Charge (Ex** : At 9th level, a skulking slayer can make a [Bluff](skill_dir/bluff#_bluff check to feint as a swift action before a charge. This ability replaces trap sense +3.
 
 **Rogue Talents** : The following rogue talents complement the skulking slayer archetype: combat trick, surprise attack; combat swipe, powerful sneak ; terrain mastery.
 
@@ -239,7 +239,7 @@ Half-orcs have access to the following equipment.
 
 **Black Fester** : This black paste is often applied on orc weapons before going on raids to stymie an enemy's healing magic. Like a poison, black fester stays on a weapon until the first time it strikes an opponent. It remains in the target's body for 1 hour. A creature exposed to black fester resists magical healing; a creature trying to magically heal the target must make a DC 10 caster level check to restore any hit points to the target.
 
-**Half-Orc Disguise Kit** : This specifically designed kit was put together by half-orcs to help them appear more human. It includes skin cream to disguise green-gray skin color and other items designed to conceal or draw attention away from typical half-orc physical characteristics. Using this kit on a half-orc grants a +3 bonus on [Disguise](skills/disguise#_disguise) checks to appear human. Used on an orc, it only grants a +1 bonus on these checks.
+**Half-Orc Disguise Kit** : This specifically designed kit was put together by half-orcs to help them appear more human. It includes skin cream to disguise green-gray skin color and other items designed to conceal or draw attention away from typical half-orc physical characteristics. Using this kit on a half-orc grants a +3 bonus on [Disguise](skill_dir/disguise#_disguise) checks to appear human. Used on an orc, it only grants a +1 bonus on these checks.
 
 [Half-Orc Equipment]
 | Item | Cost | Weight | Craft DC |
@@ -257,7 +257,7 @@ You gain the service of a monstrous companion or mount.
 
 **Prerequisites** : Animal companion or mount class feature, character level 7th, half-orc or orc.
 
-**Benefit** : Select one of the following creature types: elephant, pteranodon, rhinoceros, stegosaurus, or triceratops. Add this creature type to your list of possible animal companions or mounts. When summoning a creature of the selected type to serve as a mount or companion, treat your effective druid level as if it were two levels higher (to a maximum of your character level). If the creature is large enough for you to ride, it gains the combat training general purpose (see [Handle Animal](skills/handleAnimal#_handle-animal)) at no cost.
+**Benefit** : Select one of the following creature types: elephant, pteranodon, rhinoceros, stegosaurus, or triceratops. Add this creature type to your list of possible animal companions or mounts. When summoning a creature of the selected type to serve as a mount or companion, treat your effective druid level as if it were two levels higher (to a maximum of your character level. If the creature is large enough for you to ride, it gains the combat training general purpose (see [Handle Animal](skill_dir/handleAnimal#_handle-animal)) at no cost.
 
 ### Blood Vengeance
 
@@ -269,7 +269,7 @@ Seeing an ally fall in combat fills you with a raging and murderous fury.
 
 As with a barbarian's rage, when this weaker rage ends, you are fatigued; if another ally falls before this duration ends, the weaker rage lasts for an additional 4 rounds. This feat does not allow you to enter a rage if you are fatigued. You may only use this feat if the fallen ally had at least as many Hit Dice as you (excluding conjured or summoned allies).
 
-### Destroyer's Blessing (Combat)
+### Destroyer's Blessing (Combat
 
 Breaking things adds to your power.
 
@@ -283,7 +283,7 @@ Your orc heritage allows you to fight on.
 
 **Prerequisites** : Con 13, half-orc, orc ferocity racial trait.
 
-**Benefit** : You gain the ferocity universal monster ability, allowing you to continue fighting at negative hit points. When using this ability, you gain a +2 bonus on [Intimidate](skills/intimidate#_intimidate) checks.
+**Benefit** : You gain the ferocity universal monster ability, allowing you to continue fighting at negative hit points. When using this ability, you gain a +2 bonus on [Intimidate](skill_dir/intimidate#_intimidate) checks.
 
 **Normal** : A half-orc with the orc ferocity racial trait can fight for 1 more round after he is brought below 0 hit points.
 
@@ -359,9 +359,9 @@ Seeing an ally rage fills you with your own fury.
 
 Your spirit lingers long after any other's would have passed on.
 
-**Prerequisites** : Con 13, Diehard, [Endurance](feats#_endurance), half-orc or orc.
+**Prerequisites** : Con 13, Diehard, [Endurance](feats#_endurance, half-orc or orc.
 
-**Benefit** : When you are killed by hit point damage, your soul lingers in your body for a number of rounds equal to your Constitution bonus. You are still dead, but a creature can make a DC 10 [Heal](skills/heal#_heal) check as a standard action to realize that you can still be saved. You can be healed by magic as if you were alive. If you are healed enough hit points that you would no longer be dead, you are alive again, but you gain one permanent negative level.
+**Benefit** : When you are killed by hit point damage, your soul lingers in your body for a number of rounds equal to your Constitution bonus. You are still dead, but a creature can make a DC 10 [Heal](skill_dir/heal#_heal check as a standard action to realize that you can still be saved. You can be healed by magic as if you were alive. If you are healed enough hit points that you would no longer be dead, you are alive again, but you gain one permanent negative level.
 
 ### Thrill of the Kill
 
@@ -383,7 +383,7 @@ Cloak of Human Guise
 
 Description
 
-This plain cloak only has any effect when worn by a member of a half-human race such as a half-orc or half-elf. It alters the wearer's appearance similarly to a _ [hat of disguise](magicItems/wondrousItems#_hat-of-disguise)_, but only to the extent that it conceals or alters the wearer's non-human physical traits so the creature appears fully human. Any feature that is plausibly human remains. For example, a half-orc wearing the cloak loses his green or gray skin color and pointed ears, has no visible tusks, and is otherwise completely able to pass as a human version of his normal self. Likewise, a half-elf wearing the cloak has round ears, humanlike eyes, and no other traits indicating elf ancestry. The wearer has no control over the specific guise, and those familiar with his normal appearance can recognize him in his human guise.
+This plain cloak only has any effect when worn by a member of a half-human race such as a half-orc or half-elf. It alters the wearer's appearance similarly to a _ [hat of disguise](magicItem_dir/wondrousItems#_hat-of-disguise)_, but only to the extent that it conceals or alters the wearer's non-human physical traits so the creature appears fully human. Any feature that is plausibly human remains. For example, a half-orc wearing the cloak loses his green or gray skin color and pointed ears, has no visible tusks, and is otherwise completely able to pass as a human version of his normal self. Likewise, a half-elf wearing the cloak has round ears, humanlike eyes, and no other traits indicating elf ancestry. The wearer has no control over the specific guise, and those familiar with his normal appearance can recognize him in his human guise.
 
 Construction
 
@@ -401,7 +401,7 @@ This ring allows its wearer to persevere through physical or mental trauma that 
 
 Construction
 
-**Requirements** [Forge Ring](feats#_forge-ring), _ [haste](spells/haste#_haste)_, _ [stabilize](spells/stabilize#_stabilize)_; **Cost** 1,500 gp
+**Requirements** [Forge Ring](feats#_forge-ring, _ [haste](spell_dir/haste#_haste_, _ [stabilize](spell_dir/stabilize#_stabilize_; **Cost** 1,500 gp
 
 Swift Obsidian Greataxe
 
@@ -411,11 +411,11 @@ Swift Obsidian Greataxe
 
 Description
 
-The blade of this _+1 [keen](magicItems/weapons#_weapons-keen) greataxe_ is carved from jet-black obsidian. When the wielder charges an enemy, he receives a +10 foot enhancement bonus to his speed that round. Once per day, he can command the axe to grant all allies within 30 feet a +10 foot enhancement bonus to base speed for 1 round.
+The blade of this _+1 [keen](magicItem_dir/weapons#_weapons-keen) greataxe_ is carved from jet-black obsidian. When the wielder charges an enemy, he receives a +10 foot enhancement bonus to his speed that round. Once per day, he can command the axe to grant all allies within 30 feet a +10 foot enhancement bonus to base speed for 1 round.
 
 Construction
 
-**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [keen edge](spells/keenEdge#_keen-edge)_; **Cost** 5,820 gp
+**Requirements** [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [keen edge](spell_dir/keenEdge#_keen-edge)_; **Cost** 5,820 gp
 
 ## Half-Orc Spells
 
@@ -423,7 +423,7 @@ Half-orcs have access to the following spells.
 
 Battle Trance
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** alchemist 3, antipaladin 3, cleric 4, inquisitor 3, ranger 3, witch 4
+**School** enchantment (compulsion [emotion, mind-affecting]; **Level** alchemist 3, antipaladin 3, cleric 4, inquisitor 3, ranger 3, witch 4
 
 **Casting Time** 1 standard action
 
@@ -433,7 +433,7 @@ Battle Trance
 
 **Target** you
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Save** Will negates; **Spell Resistance** yes
 
@@ -443,27 +443,27 @@ When you use this spell, you immediately take 4 points of Intelligence damage. Y
 
 Ghost Wolf
 
-**School** conjuration (creation); **Level** sorcerer/wizard 4, summoner 2
+**School** conjuration (creation; **Level** sorcere_dir/wizard 4, summoner 2
 
 **Casting Time** 10 minutes
 
-**Components** V, S, F (dire wolf tooth)
+**Components** V, S, F (dire wolf tooth
 
 **Range** 0 ft.
 
 **Target** one quasi-real wolflike creature
 
-**Duration** 1 hour/level (D) or 1 round/level; see text
+**Duration** 1 hou_dir/level (D or 1 roun_dir/level; see text
 
-**Saving Throw** none (see description); **Spell Resistance** no
+**Saving Throw** none (see description; **Spell Resistance** no
 
-This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke. It functions as _ [phantom steed](spells/phantomSteed#_phantom-steed)_, except as noted above. In addition, the creature radiates an aura of fear. Any creature with fewer than 6 Hit Dice within 30 feet (except the ghost wolf‘s rider) must make a Will save or become shaken for 1d4 rounds (this is a mind-affecting fear effect). A creature that makes its Will save is unaffected by the steed's fear aura for 24 hours.
+This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke. It functions as _ [phantom steed](spell_dir/phantomSteed#_phantom-steed)_, except as noted above. In addition, the creature radiates an aura of fear. Any creature with fewer than 6 Hit Dice within 30 feet (except the ghost wolf‘s rider) must make a Will save or become shaken for 1d4 rounds (this is a mind-affecting fear effect). A creature that makes its Will save is unaffected by the steed's fear aura for 24 hours.
 
-The ghost wolf may also be used in combat. Once per round, the rider may direct the ghost wolf to attack in battle as a free action (bite +10, 1d8+6 points of damage); unlike an animal mount, this does not require a [Ride](skills/ride#_ride) check or any training. Once the ghost wolf attacks, it lasts for only 1 round per level thereafter.
+The ghost wolf may also be used in combat. Once per round, the rider may direct the ghost wolf to attack in battle as a free action (bite +10, 1d8+6 points of damage; unlike an animal mount, this does not require a [Ride](skill_dir/ride#_ride) check or any training. Once the ghost wolf attacks, it lasts for only 1 round per level thereafter.
 
 Half-Blood Extraction
 
-**School** transmutation (polymorph); **Level** alchemist 5, cleric 5, druid 5, sorcerer/wizard 5, witch 5
+**School** transmutation (polymorph; **Level** alchemist 5, cleric 5, druid 5, sorcerer/wizard 5, witch 5
 
 **Casting Time** 1 hour
 
@@ -507,9 +507,9 @@ Savage Maw
 
 **Target** you
 
-**Duration** 1 minute/level (D), special (see below)
+**Duration** 1 minut_dir/level (D), special (see below
 
 Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs. You gain a bite attack that deals 1d4 points of damage plus your Strength modifier. If you confirm a critical hit with this attack, it also deals 1 point of bleed damage. If you already have a bite attack, your bite deals 2 points of bleed damage on a critical hit. You are considered proficient with this attack. If used as part of a full-attack action, the bite is considered a secondary attack, is made at your full base attack bonus –5, and adds half your Strength modifier to its damage.
 
-You can end this spell before its normal duration by making a bestial roar as a swift action. When you do, you can make an [Intimidate](skills/intimidate#_intimidate) check to demoralize all foes within a 30-foot radius that can hear the roar.
+You can end this spell before its normal duration by making a bestial roar as a swift action. When you do, you can make an [Intimidate](skill_dir/intimidate#_intimidate check to demoralize all foes within a 30-foot radius that can hear the roar.
 

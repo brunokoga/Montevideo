@@ -1,13 +1,13 @@
 ---
-title: spells/acidFog
+title: spell_dir/acidFog
 ---
  **Acid Fog**
 
-**School** conjuration (creation) [acid]; **Level** sorcerer/wizard 6
+**School** conjuration (creation [acid]; **Level** sorcere_dir/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (powdered peas and an animal hoof)
+**Components** V, S, M (powdered peas and an animal hoof
 
 **Range** medium (100 ft. + 10 ft./level)
 

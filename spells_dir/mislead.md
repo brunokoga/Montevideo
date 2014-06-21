@@ -1,9 +1,9 @@
 ---
-title: spells/mislead
+title: spell_dir/mislead
 ---
  **Mislead**
 
-**School** illusion (figment, glamer); **Level** bard 5, sorcerer/wizard 6
+**School** illusion (figment, glamer; **Level** bard 5, sorcerer/wizard 6
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spells/mislead
 
 **Target/Effect** you/one illusory double
 
-**Duration** 1 round/level (D) and concentration + 3 rounds; see text
+**Duration** 1 roun_dir/level (D and concentration + 3 rounds; see text
 
 **Saving Throw** none or [Will](../combat#_will) disbelief (if interacted with); see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

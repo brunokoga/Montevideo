@@ -1,13 +1,13 @@
 ---
-title: spells/alterSelf
+title: spell_dir/alterSelf
 ---
  **Alter Self**
 
-**School** transmutation (polymorph); **Level** bard 2, sorcerer/wizard 2
+**School** transmutation (polymorph; **Level** bard 2, sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a piece of the creature whose form you plan to assume)
+**Components** V, S, M (a piece of the creature whose form you plan to assume
 
 **Range** personal
 

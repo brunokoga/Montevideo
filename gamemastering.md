@@ -209,15 +209,15 @@ An adventurer's primary source of income is treasure, and his primary purchases 
 
 You can certainly handle these minor expenditures in detail during play, but tracking every time a PC pays for a room, buys water, or pays a gate tax can swiftly become obnoxious and tiresome. If you're not really into tracking these minor costs of living, you can choose to simply ignore these small payments. A more realistic and easier-to-use method is to have PCs pay a recurring cost of living tax. At the start of every game month, a PC must pay an amount of gold equal to the lifestyle bracket he wishes to live in—if he can't afford his desired bracket, he drops down to the first one he can afford.
 
-Destitute (0 gp/month): The PC is homeless and lives in the wilderness or on the streets. A destitute character must track every purchase, and may need to resort to Survival checks or theft to feed himself.
+Destitute (0 g_dir/month: The PC is homeless and lives in the wilderness or on the streets. A destitute character must track every purchase, and may need to resort to Survival checks or theft to feed himself.
 
-Poor (3 gp/month): The PC lives in common rooms of taverns, with his parents, or in some other communal situation—this is the lifestyle of most untrained laborers and commoners. He need not track purchases of meals or taxes that cost 1 sp or less.
+Poor (3 g_dir/month: The PC lives in common rooms of taverns, with his parents, or in some other communal situation—this is the lifestyle of most untrained laborers and commoners. He need not track purchases of meals or taxes that cost 1 sp or less.
 
-Average (10 gp/month): The PC lives in his own apartment, small house, or similar location—this is the lifestyle of most trained or skilled experts or warriors. He can secure any nonmagical item worth 1 gp or less from his home in 1d10 minutes, and need not track purchases of common meals or taxes that cost 1 gp or less.
+Average (10 g_dir/month: The PC lives in his own apartment, small house, or similar location—this is the lifestyle of most trained or skilled experts or warriors. He can secure any nonmagical item worth 1 gp or less from his home in 1d10 minutes, and need not track purchases of common meals or taxes that cost 1 gp or less.
 
-Wealthy (100 gp/month): The PC has a sizable home or a nice suite of rooms in a fine inn. He can secure any nonmagical item worth 5 gp or less from his belongings in his home in 1d10 minutes, and need only track purchases of meals or taxes in excess of 10 gp.
+Wealthy (100 g_dir/month: The PC has a sizable home or a nice suite of rooms in a fine inn. He can secure any nonmagical item worth 5 gp or less from his belongings in his home in 1d10 minutes, and need only track purchases of meals or taxes in excess of 10 gp.
 
-Extravagant (1,000 gp/month): The PC lives in a mansion, castle, or other extravagant home—he might even own the building in question. This is the lifestyle of most aristocrats. He can secure any nonmagical item worth 25 gp or less from his belongings in his home in 1d10 minutes. He need only track purchases of meals or taxes in excess of 100 gp.
+Extravagant (1,000 g_dir/month): The PC lives in a mansion, castle, or other extravagant home—he might even own the building in question. This is the lifestyle of most aristocrats. He can secure any nonmagical item worth 25 gp or less from his belongings in his home in 1d10 minutes. He need only track purchases of meals or taxes in excess of 100 gp.
 
 # Beyond 20th Level
 
@@ -235,7 +235,7 @@ For example, a 21st-level wizard gains a single 10th-level spell slot, in which 
 
 Spellcasters who have a limited number of spells known (such as bards and sorcerers) can opt out of the benefits they gain (either a new level of spells or a number of spell slots) for that level and in exchange learn two more spells of any level they can currently cast.
 
-You might want to further adjust the rate of spell level gain for classes (like paladins and rangers) who gain spells more slowly than more dedicated spellcaster classes.
+You might want to further adjust the rate of spell level gain for classes (like paladins and rangers who gain spells more slowly than more dedicated spellcaster classes.
 
 Multiclassing/Prestige Classes: The simplest way to progress beyond 20th level is to simply multiclass or take levels in a prestige class, in which case you gain all of the abilities of the new class level normally. This effectively treats 20th level as a hard limit for class level, but not as a hard limit for total character level.
 

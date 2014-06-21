@@ -1,9 +1,9 @@
 ---
-title: spells/removeParalysis
+title: spell_dir/removeParalysis
 ---
  **Remove Paralysis**
 
-**School** conjuration (healing); **Level** cleric 2, paladin 2
+**School** conjuration (healing; **Level** cleric 2, paladin 2
 
 **Casting Time** 1 standard action
 

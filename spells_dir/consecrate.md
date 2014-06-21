@@ -1,5 +1,5 @@
 ---
-title: spells/consecrate
+title: spell_dir/consecrate
 ---
  **Consecrate**
 
@@ -7,7 +7,7 @@ title: spells/consecrate
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a vial of holy water and 25 gp worth of silver dust), DF
+**Components** V, S, M (a vial of holy water and 25 gp worth of silver dust, DF
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

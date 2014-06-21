@@ -1,5 +1,5 @@
 ---
-title: monsters/boar
+title: monster_dir/boar
 ---
 # Boar
 
@@ -11,7 +11,7 @@ _This ill-tempered beast's tiny, bloodshot eyes glare angrily above a mouth fill
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +0; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +6
+**Init** +0; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +6
 
 **Defense**
 
@@ -27,7 +27,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Speed** 40 ft.
 
-**Melee** gore +4 (1d8+4)
+**Melee** gore +4 (1d8+4
 
 **Statistics**
 
@@ -37,7 +37,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Feats** [Toughness](../feats#_toughness)
 
-**Skills** [Perception](../skills/perception#_perception) +6
+**Skills** [Perception](../skill_dir/perception#_perception) +6
 
 **Ecology**
 
@@ -63,7 +63,7 @@ _The back of this horse-sized boar rises in a steep slope. Its tiny red eyes are
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +4; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +12
+**Init** +4; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +12
 
 **Defense**
 
@@ -79,7 +79,7 @@ N Large [animal](creatureTypes#_animal)
 
 **Speed** 40 ft.
 
-**Melee** gore +8 (2d6+9)
+**Melee** gore +8 (2d6+9
 
 **Statistics**
 
@@ -87,9 +87,9 @@ N Large [animal](creatureTypes#_animal)
 
 **Base**  **Atk** +3; **CMB** +10; **CMD** 20
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Toughness](../feats#_toughness)
 
-**Skills** [Perception](../skills/perception#_perception) +12
+**Skills** [Perception](../skill_dir/perception#_perception) +12
 
 **Ecology**
 
@@ -99,5 +99,5 @@ N Large [animal](creatureTypes#_animal)
 
 **Treasure** none
 
-Whereas the boar is ill-tempered and generally unfriendly, the towering daeodon (known as the dire boar to most commoners and hunters) is legitimately hateful and violent. Although omnivorous like its smaller kin, the daeodon prefers to feed on flesh, and its razor-sharp tusks and keen eyesight make it particularly well suited as a predator. While the daeodon is primarily a scavenger, it isn't averse to attacking smaller creatures it encounters while searching for easier meals, or those who stumble unwittingly into its territory. Particularly brave or skilled orcs are fond of using daeodons as mounts, and orc cavalry mounted on dire boars make for a fearsome force indeed. A typical adult daeodon is 10 feet long and 7 feet tall at the shoulder. It weighs approximately 2,000 pounds.
+Whereas the boar is ill-tempered and generally unfriendly, the towering daeodon (known as the dire boar to most commoners and hunters is legitimately hateful and violent. Although omnivorous like its smaller kin, the daeodon prefers to feed on flesh, and its razor-sharp tusks and keen eyesight make it particularly well suited as a predator. While the daeodon is primarily a scavenger, it isn't averse to attacking smaller creatures it encounters while searching for easier meals, or those who stumble unwittingly into its territory. Particularly brave or skilled orcs are fond of using daeodons as mounts, and orc cavalry mounted on dire boars make for a fearsome force indeed. A typical adult daeodon is 10 feet long and 7 feet tall at the shoulder. It weighs approximately 2,000 pounds.
 

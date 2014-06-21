@@ -1,9 +1,9 @@
 ---
-title: spells/cloudkill
+title: spell_dir/cloudkill
 ---
  **Cloudkill**
 
-**School** conjuration (creation); **Level** sorcerer/wizard 5
+**School** conjuration (creation; **Level** sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 

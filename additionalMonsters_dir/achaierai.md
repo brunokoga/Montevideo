@@ -9,9 +9,9 @@ Achaierai CR 5
 
 **XP 1,600**
 
-LE Large [outsider](monsters/creatureTypes#_outsider) ( [evil](monsters/creatureTypes#_evil-subtype), [extraplanar](monsters/creatureTypes#_extraplanar-subtype), [lawful](monsters/creatureTypes#_lawful-subtype))
+LE Large [outsider](monster_dir/creatureTypes#_outsider ( [evil](monster_dir/creatureTypes#_evil-subtype, [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype, [lawful](monster_dir/creatureTypes#_lawful-subtype)
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +12
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +12
 
 Defense
 
@@ -37,11 +37,11 @@ Statistics
 
 **Str** 19, **Dex** 13, **Con** 14, **Int** 11, **Wis** 14, **Cha** 16
 
-**Base Atk** +7; **CMB** +12; **CMD** 24 (28 vs. trip)
+**Base Atk** +7; **CMB** +12; **CMD** 24 (28 vs. trip
 
 **Feats** [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Dodge](additionalMonsters/../feats#_dodge), [Mobility](additionalMonsters/../feats#_mobility), [Spring Attack](additionalMonsters/../feats#_spring-attack)
 
-**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +11 (+19 jump), [Climb](additionalMonsters/../skills/climb#_climb) +14, [Perception](additionalMonsters/../skills/perception#_perception) +12, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +12, [Stealth](additionalMonsters/../skills/stealth#_stealth) +7, [Swim](additionalMonsters/../skills/swim#_swim) +14
+**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics) +11 (+19 jump, [Climb](additionalMonsters/../skill_dir/climb#_climb +14, [Perception](additionalMonsters/../skill_dir/perception#_perception +12, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive +12, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +7, [Swim](additionalMonsters/../skill_dir/swim#_swim) +14
 
 **Language** Infernal
 
@@ -55,7 +55,7 @@ Ecology
 
 Special Abilities
 
-**Black Cloud (Su)** An achaierai can exhale a cloud of choking, toxic smoke three times per day. All creatures within 10 feet of the achaierai immediately take 2d6 points of damage as their flesh melts and rots away. The cloud erodes sanity as well as flesh, and anyone who takes damage from the black cloud must also make a DC 15 Fortitude save or become confused. Every round, the victim may attempt another DC 15 Fortitude save to recover from the confusion; otherwise it persists, lasting indefinitely until the condition is removed or the victim eventually makes her saving throw. The confusion element of a black cloud is a mind-affecting effect. The save DC is Constitution-based. This is a [poison](monsters/universalMonsterRules#_poison-(ex-or-su)) effect. Achaierais are immune to this ability.
+**Black Cloud (Su** An achaierai can exhale a cloud of choking, toxic smoke three times per day. All creatures within 10 feet of the achaierai immediately take 2d6 points of damage as their flesh melts and rots away. The cloud erodes sanity as well as flesh, and anyone who takes damage from the black cloud must also make a DC 15 Fortitude save or become confused. Every round, the victim may attempt another DC 15 Fortitude save to recover from the confusion; otherwise it persists, lasting indefinitely until the condition is removed or the victim eventually makes her saving throw. The confusion element of a black cloud is a mind-affecting effect. The save DC is Constitution-based. This is a [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su) effect. Achaierais are immune to this ability.
 
 An achaierai is a predator and scavenger of the lower planes that looks like a 15-foot-tall flightless bird, though its head and body are fused into one large unit, with four legs and atrophied wings. The thick, oily plumage covering its body all but conceals these tiny wings. An adult achaierai weighs roughly 750 pounds.
 

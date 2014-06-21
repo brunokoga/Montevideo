@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/instantArmor
+title: advanced/spell_dir/instantArmor
 ---
  **Instant Armor**
 
-**School** conjuration (creation) [force]; **Level** cleric 2, paladin 2
+**School** conjuration (creation [force]; **Level** cleric 2, paladin 2
 
 **Casting Time** 1 standard action
 
@@ -13,11 +13,11 @@ title: advanced/spells/instantArmor
 
 **Target** you
 
-**Duration** 1 minute/level (D)
+**Duration** 1 minut_dir/level (D)
 
 You instantly wrap your body in a suit of armor made from opaque force. At your option, the armor can be decorated with your religion's holy symbol in a prominent place, such as upon the breastplate or helm. While it exists, this armor replaces any garments or other sort of armor worn, magical as well as mundane. You lose access to, and all benefits from, armor replaced by this spell until the spell ends and the instant armor disappears.
 
-_Instant armor_ acts in all ways as armor typical of its type (armor bonus, maximum Dexterity bonus, arcane spell failure chance, and so on). Since _instant armor_ is made of force, incorporeal creatures can't bypass it the way they do normal armor. The sort of armor you can create with this spell depends on your caster level.
+_Instant armor_ acts in all ways as armor typical of its type (armor bonus, maximum Dexterity bonus, arcane spell failure chance, and so on. Since _instant armor_ is made of force, incorporeal creatures can't bypass it the way they do normal armor. The sort of armor you can create with this spell depends on your caster level.
 
 | Caster Level | Armor Created |
 | --- | --- |

@@ -1,147 +1,147 @@
 ---
 title: navigation/spelllists-combined-elementalist-wizard
 ---
-- [Acid Splash](spells/acidSplash#_acid-splash)
-- [Message](spells/message#_message)
-- [Ray of Frost](spells/rayOfFrost#_ray-of-frost)
-- [Spark](advanced/spells/spark#_spark-)
+- [Acid Splash](spell_dir/acidSplash#_acid-splash
+- [Message](spell_dir/message#_message
+- [Ray of Frost](spell_dir/rayOfFrost#_ray-of-frost
+- [Spark](advanced/spell_dir/spark#_spark-
 
-- [Alter Winds](advanced/spells/alterWinds#_alter-winds)
-- [Burning Hands](spells/burningHands#_burning-hands)
-- [Dancing Lantern](advanced/spells/dancingLantern#_dancing-lantern-)
-- [Expeditious Excavation](advanced/spells/expeditiousExcavation#_expeditious-excavation)
-- [Feather Fall](spells/featherFall#_feather-fall)
-- [Grease](spells/grease#_grease)
-- [Hydraulic Push](advanced/spells/hydraulicPush#_hydraulic-push-)
-- [Obscuring Mist](spells/obscuringMist#_obscuring-mist)
-- [Shocking Grasp](spells/shockingGrasp#_shocking-grasp)
-- [Stone Fist](advanced/spells/stoneFist#_stone-fist)
-- [Touch of the Sea](advanced/spells/touchOfTheSea#_touch-of-the-sea)
+- [Alter Winds](advanced/spell_dir/alterWinds#_alter-winds
+- [Burning Hands](spell_dir/burningHands#_burning-hands
+- [Dancing Lantern](advanced/spell_dir/dancingLantern#_dancing-lantern-
+- [Expeditious Excavation](advanced/spell_dir/expeditiousExcavation#_expeditious-excavation
+- [Feather Fall](spell_dir/featherFall#_feather-fall
+- [Grease](spell_dir/grease#_grease
+- [Hydraulic Push](advanced/spell_dir/hydraulicPush#_hydraulic-push-
+- [Obscuring Mist](spell_dir/obscuringMist#_obscuring-mist
+- [Shocking Grasp](spell_dir/shockingGrasp#_shocking-grasp
+- [Stone Fist](advanced/spell_dir/stoneFist#_stone-fist
+- [Touch of the Sea](advanced/spell_dir/touchOfTheSea#_touch-of-the-sea
 
-- [Accelerate Poison](advanced/spells/acceleratePoison#_accelerate-poison)
-- [Acid Arrow](spells/acidArrow#_acid-arrow)
-- [Burning Gaze](advanced/spells/burningGaze#_burning-gaze)
-- [Create Pit](advanced/spells/createPit#_create-pit-)
-- [Elemental Speech](advanced/spells/elementalSpeech#_elemental-speech)
-- [Elemental Touch](advanced/spells/elementalTouch#_elemental-touch)
-- [Fire Breath](advanced/spells/fireBreath#_fire-breath)
-- [Flaming Sphere](spells/flamingSphere#_flaming-sphere)
-- [Fog Cloud](spells/fogCloud)
-- [Glide](advanced/spells/glide#_glide-)
-- [Glitterdust](spells/glitterdust#_glitterdust)
-- [Gust of Wind](spells/gustOfWind#_gust-of-wind)
-- [Levitate](spells/levitate#_levitate)
-- [Pyrotechnics](spells/pyrotechnics#_pyrotechnics)
-- [Resist Energy](spells/resistEnergy#_resist-energy)
-- [Scorching Ray](spells/scorchingRay#_scorching-ray)
-- [Shatter](spells/shatter#_shatter)
-- [Slipstream](advanced/spells/slipstream#_slipstream)
-- [Stone Call](advanced/spells/stoneCall#_stone-call)
-- [Summon Monster II](spells/summonMonster#_summon-monster-ii)
-- [Whispering Wind](spells/whisperingWind#_whispering-wind)
+- [Accelerate Poison](advanced/spell_dir/acceleratePoison#_accelerate-poison
+- [Acid Arrow](spell_dir/acidArrow#_acid-arrow
+- [Burning Gaze](advanced/spell_dir/burningGaze#_burning-gaze
+- [Create Pit](advanced/spell_dir/createPit#_create-pit-
+- [Elemental Speech](advanced/spell_dir/elementalSpeech#_elemental-speech
+- [Elemental Touch](advanced/spell_dir/elementalTouch#_elemental-touch
+- [Fire Breath](advanced/spell_dir/fireBreath#_fire-breath
+- [Flaming Sphere](spell_dir/flamingSphere#_flaming-sphere
+- [Fog Cloud](spell_dir/fogCloud
+- [Glide](advanced/spell_dir/glide#_glide-
+- [Glitterdust](spell_dir/glitterdust#_glitterdust
+- [Gust of Wind](spell_dir/gustOfWind#_gust-of-wind
+- [Levitate](spell_dir/levitate#_levitate
+- [Pyrotechnics](spell_dir/pyrotechnics#_pyrotechnics
+- [Resist Energy](spell_dir/resistEnergy#_resist-energy
+- [Scorching Ray](spell_dir/scorchingRay#_scorching-ray
+- [Shatter](spell_dir/shatter#_shatter
+- [Slipstream](advanced/spell_dir/slipstream#_slipstream
+- [Stone Call](advanced/spell_dir/stoneCall#_stone-call
+- [Summon Monster II](spell_dir/summonMonster#_summon-monster-ii
+- [Whispering Wind](spell_dir/whisperingWind#_whispering-wind
 
-- [Aqueous Orb](advanced/spells/aqueousOrb#_aqueous-orb)
-- [Campfire Wall](advanced/spells/campfireWall#_campfire-wall-)
-- [Cloak of Winds](advanced/spells/cloakOfWinds#_cloak-of-winds)
-- [Draconic Reservoir](advanced/spells/draconicReservoir#_draconic-reservoir-)
-- [Elemental Aura](advanced/spells/elementalAura#_elemental-aura)
-- [Fireball](spells/fireball#_fireball)
-- [Flame Arrow](spells/flameArrow#_flame-arrow)
-- [Fly](spells/fly)
-- [Gaseous Form](spells/gaseousForm#_gaseous-form)
-- [Hydraulic Torrent](advanced/spells/hydraulicTorrent#_hydraulic-torrent-)
-- [Lightning Bolt](spells/lightningBolt#_lightning-bolt)
-- [Protection From Energy](spells/protectionFromEnergy#_protection-from-energy)
-- [Shifting Sand](advanced/spells/shiftingSand#_shifting-sand)
-- [Sleet Storm](spells/sleetStorm#_sleet-storm)
-- [Spiked Pit](advanced/spells/spikedPit#_spiked-pit)
-- [Stinking Cloud](spells/stinkingCloud#_stinking-cloud)
-- [Water Breathing](spells/waterBreathing#_water-breathing)
-- [Wind Wall](spells/windWall#_wind-wall)
+- [Aqueous Orb](advanced/spell_dir/aqueousOrb#_aqueous-orb
+- [Campfire Wall](advanced/spell_dir/campfireWall#_campfire-wall-
+- [Cloak of Winds](advanced/spell_dir/cloakOfWinds#_cloak-of-winds
+- [Draconic Reservoir](advanced/spell_dir/draconicReservoir#_draconic-reservoir-
+- [Elemental Aura](advanced/spell_dir/elementalAura#_elemental-aura
+- [Fireball](spell_dir/fireball#_fireball
+- [Flame Arrow](spell_dir/flameArrow#_flame-arrow
+- [Fly](spell_dir/fly
+- [Gaseous Form](spell_dir/gaseousForm#_gaseous-form
+- [Hydraulic Torrent](advanced/spell_dir/hydraulicTorrent#_hydraulic-torrent-
+- [Lightning Bolt](spell_dir/lightningBolt#_lightning-bolt
+- [Protection From Energy](spell_dir/protectionFromEnergy#_protection-from-energy
+- [Shifting Sand](advanced/spell_dir/shiftingSand#_shifting-sand
+- [Sleet Storm](spell_dir/sleetStorm#_sleet-storm
+- [Spiked Pit](advanced/spell_dir/spikedPit#_spiked-pit
+- [Stinking Cloud](spell_dir/stinkingCloud#_stinking-cloud
+- [Water Breathing](spell_dir/waterBreathing#_water-breathing
+- [Wind Wall](spell_dir/windWall#_wind-wall
 
-- [Acid Pit](advanced/spells/acidPit#_acid-pit-)
-- [Ball Lightning](advanced/spells/ballLightning#_ball-lightning)
-- [Calcific Touch](advanced/spells/calcificTouch#_calcific-touch)
-- [Detonate](advanced/spells/detonate#_detonate)
-- [Dragon's Breath](advanced/spells/dragonSBreath#_dragon's-breath)
-- [Elemental Body I](spells/elementalBody#_elemental-body-i)
-- [Fire Shield](spells/fireShield#_fire-shield)
-- [Fire Trap](spells/fireTrap#_fire-trap)
-- [Firefall](advanced/spells/firefall#_firefall)
-- [Ice Storm](spells/iceStorm#_ice-storm)
-- [River of Wind](advanced/spells/riverOfWind#_river-of-wind)
-- [Shout](spells/shout#_shout)
-- [Solid Fog](spells/solidFog#_solid-fog)
-- [Stone Shape](spells/stoneShape#_stone-shape)
-- [Stoneskin](spells/stoneskin#_stoneskin)
-- [Summon Monster IV](spells/summonMonster#_summon-monster-iv)
-- [Wall of Fire](spells/wallOfFire#_wall-of-fire)
-- [Wall of Ice](spells/wallOfIce#_wall-of-ice)
+- [Acid Pit](advanced/spell_dir/acidPit#_acid-pit-
+- [Ball Lightning](advanced/spell_dir/ballLightning#_ball-lightning
+- [Calcific Touch](advanced/spell_dir/calcificTouch#_calcific-touch
+- [Detonate](advanced/spell_dir/detonate#_detonate
+- [Dragon's Breath](advanced/spell_dir/dragonSBreath#_dragon's-breath
+- [Elemental Body I](spell_dir/elementalBody#_elemental-body-i
+- [Fire Shield](spell_dir/fireShield#_fire-shield
+- [Fire Trap](spell_dir/fireTrap#_fire-trap
+- [Firefall](advanced/spell_dir/firefall#_firefall
+- [Ice Storm](spell_dir/iceStorm#_ice-storm
+- [River of Wind](advanced/spell_dir/riverOfWind#_river-of-wind
+- [Shout](spell_dir/shout#_shout
+- [Solid Fog](spell_dir/solidFog#_solid-fog
+- [Stone Shape](spell_dir/stoneShape#_stone-shape
+- [Stoneskin](spell_dir/stoneskin#_stoneskin
+- [Summon Monster IV](spell_dir/summonMonster#_summon-monster-iv
+- [Wall of Fire](spell_dir/wallOfFire#_wall-of-fire
+- [Wall of Ice](spell_dir/wallOfIce#_wall-of-ice
 
-- [Cloudkill](spells/cloudkill#_cloudkill)
-- [Cone of Cold](spells/coneOfCold#_cone-of-cold)
-- [Elemental Body II](spells/elementalBody#_elemental-body-ii)
-- [Fire Snake](advanced/spells/fireSnake#_fire-snake)
-- [Geyser](advanced/spells/geyser#_geyser-)
-- [Geyser](advanced/spells/geyser#_geyser-)
-- [Hungry Pit](advanced/spells/hungryPit#_hungry-pit-)
-- [Overland Flight](spells/overlandFlight#_overland-flight)
-- [Passwall](spells/passwall#_passwall)
-- [Planar Adaptation](advanced/spells/planarAdaptation#_planar-adaptation)
-- [Suffocation](advanced/spells/suffocation#_suffocation)
-- [Summon Monster V](spells/summonMonster#_summon-monster-v)
-- [Transmute Mud to Rock](spells/transmuteMudToRock#_transmute-mud-to-rock)
-- [Transmute Rock to Mud](spells/transmuteRockToMud#_transmute-rock-to-mud)
-- [Wall of Stone](spells/wallOfStone#_wall-of-stone)
+- [Cloudkill](spell_dir/cloudkill#_cloudkill
+- [Cone of Cold](spell_dir/coneOfCold#_cone-of-cold
+- [Elemental Body II](spell_dir/elementalBody#_elemental-body-ii
+- [Fire Snake](advanced/spell_dir/fireSnake#_fire-snake
+- [Geyser](advanced/spell_dir/geyser#_geyser-
+- [Geyser](advanced/spell_dir/geyser#_geyser-
+- [Hungry Pit](advanced/spell_dir/hungryPit#_hungry-pit-
+- [Overland Flight](spell_dir/overlandFlight#_overland-flight
+- [Passwall](spell_dir/passwall#_passwall
+- [Planar Adaptation](advanced/spell_dir/planarAdaptation#_planar-adaptation
+- [Suffocation](advanced/spell_dir/suffocation#_suffocation
+- [Summon Monster V](spell_dir/summonMonster#_summon-monster-v
+- [Transmute Mud to Rock](spell_dir/transmuteMudToRock#_transmute-mud-to-rock
+- [Transmute Rock to Mud](spell_dir/transmuteRockToMud#_transmute-rock-to-mud
+- [Wall of Stone](spell_dir/wallOfStone#_wall-of-stone
 
-- [Acid Fog](spells/acidFog#_acid-fog)
-- [Chain Lightning](spells/chainLightning#_chain-lightning)
-- [Contagious Flame](advanced/spells/contagiousFlame#_contagious-flame)
-- [Elemental Body III](spells/elementalBody#_elemental-body-iii)
-- [Flesh to Stone](spells/fleshToStone#_flesh-to-stone)
-- [Fluid Form](advanced/spells/fluidForm#_fluid-form)
-- [Freezing Sphere](spells/freezingSphere#_freezing-sphere)
-- [Move Earth](spells/moveEarth#_move-earth)
-- [Planar Binding](spells/planarBinding#_planar-binding)
-- [Sirocco](advanced/spells/sirocco#_sirocco)
-- [Sirocco](advanced/spells/sirocco#_sirocco)
-- [Stone to Flesh](spells/stoneToFlesh#_stone-to-flesh)
-- [Summon Monster VI](spells/summonMonster#_summon-monster-vi)
-- [Wall of Iron](spells/wallOfIron#_wall-of-iron)
+- [Acid Fog](spell_dir/acidFog#_acid-fog
+- [Chain Lightning](spell_dir/chainLightning#_chain-lightning
+- [Contagious Flame](advanced/spell_dir/contagiousFlame#_contagious-flame
+- [Elemental Body III](spell_dir/elementalBody#_elemental-body-iii
+- [Flesh to Stone](spell_dir/fleshToStone#_flesh-to-stone
+- [Fluid Form](advanced/spell_dir/fluidForm#_fluid-form
+- [Freezing Sphere](spell_dir/freezingSphere#_freezing-sphere
+- [Move Earth](spell_dir/moveEarth#_move-earth
+- [Planar Binding](spell_dir/planarBinding#_planar-binding
+- [Sirocco](advanced/spell_dir/sirocco#_sirocco
+- [Sirocco](advanced/spell_dir/sirocco#_sirocco
+- [Stone to Flesh](spell_dir/stoneToFlesh#_stone-to-flesh
+- [Summon Monster VI](spell_dir/summonMonster#_summon-monster-vi
+- [Wall of Iron](spell_dir/wallOfIron#_wall-of-iron
 
-- [Control Weather](spells/controlWeather#_control-weather)
-- [Control Weather](spells/controlWeather#_control-weather)
-- [Delayed Blast Fireball](spells/delayedBlastFireball#_delayed-blast-fireball)
-- [Elemental Body IV](spells/elementalBody#_elemental-body-iv)
-- [Firebrand](advanced/spells/firebrand#_firebrand)
-- [Fly, Mass](advanced/spells/fly#_fly,-mass)
-- [Planar Adaptation, Mass](advanced/spells/planarAdaptation#_planar-adaptation,-mass)
-- [Rampart](advanced/spells/rampart#_rampart)
-- [Reverse Gravity](spells/reverseGravity#_reverse-gravity)
-- [Statue](spells/statue#_statue)
-- [Summon Monster VII](spells/summonMonster#_summon-monster-vii)
-- [Vortex](advanced/spells/vortex#_vortex)
+- [Control Weather](spell_dir/controlWeather#_control-weather
+- [Control Weather](spell_dir/controlWeather#_control-weather
+- [Delayed Blast Fireball](spell_dir/delayedBlastFireball#_delayed-blast-fireball
+- [Elemental Body IV](spell_dir/elementalBody#_elemental-body-iv
+- [Firebrand](advanced/spell_dir/firebrand#_firebrand
+- [Fly, Mass](advanced/spell_dir/fly#_fly,-mass
+- [Planar Adaptation, Mass](advanced/spell_dir/planarAdaptation#_planar-adaptation,-mass
+- [Rampart](advanced/spell_dir/rampart#_rampart
+- [Reverse Gravity](spell_dir/reverseGravity#_reverse-gravity
+- [Statue](spell_dir/statue#_statue
+- [Summon Monster VII](spell_dir/summonMonster#_summon-monster-vii
+- [Vortex](advanced/spell_dir/vortex#_vortex
 
-- [Horrid Wilting](spells/horridWilting#_horrid-wilting)
-- [Incendiary Cloud](spells/incendiaryCloud#_incendiary-cloud)
-- [Iron Body](spells/ironBody#_iron-body)
-- [Polar Ray](spells/polarRay#_polar-ray)
-- [Seamantle](advanced/spells/seamantle#_seamantle)
-- [Shout, Greater](spells/shout#_shout-greater)
-- [Stormbolts](advanced/spells/stormbolts#_stormbolts)
-- [Summon Monster VIII](spells/summonMonster#_summon-monster-viii)
-- [Wall of Lava](advanced/spells/wallOfLava#_wall-of-lava)
-- [Wall of Lava](advanced/spells/wallOfLava#_wall-of-lava)
+- [Horrid Wilting](spell_dir/horridWilting#_horrid-wilting
+- [Incendiary Cloud](spell_dir/incendiaryCloud#_incendiary-cloud
+- [Iron Body](spell_dir/ironBody#_iron-body
+- [Polar Ray](spell_dir/polarRay#_polar-ray
+- [Seamantle](advanced/spell_dir/seamantle#_seamantle
+- [Shout, Greater](spell_dir/shout#_shout-greater
+- [Stormbolts](advanced/spell_dir/stormbolts#_stormbolts
+- [Summon Monster VIII](spell_dir/summonMonster#_summon-monster-viii
+- [Wall of Lava](advanced/spell_dir/wallOfLava#_wall-of-lava
+- [Wall of Lava](advanced/spell_dir/wallOfLava#_wall-of-lava
 
-- [Clashing Rocks](advanced/spells/clashingRocks#_clashing-rocks)
-- [Fiery Body](advanced/spells/fieryBody#_fiery-body)
-- [Gate](spells/gate#_gate)
-- [Meteor Swarm](spells/meteorSwarm#_meteor-swarm)
-- [Suffocation, Mass](advanced/spells/suffocation#_suffocation,-mass)
-- [Tsunami](advanced/spells/tsunami#_tsunami)
-- [Winds of Vengeance](advanced/spells/windsOfVengeance#_winds-of-vengeance)
-- [World Wave](advanced/spells/worldWave#_world-wave-)
-- [World Wave](advanced/spells/worldWave#_world-wave-)
+- [Clashing Rocks](advanced/spell_dir/clashingRocks#_clashing-rocks
+- [Fiery Body](advanced/spell_dir/fieryBody#_fiery-body
+- [Gate](spell_dir/gate#_gate
+- [Meteor Swarm](spell_dir/meteorSwarm#_meteor-swarm
+- [Suffocation, Mass](advanced/spell_dir/suffocation#_suffocation,-mass
+- [Tsunami](advanced/spell_dir/tsunami#_tsunami
+- [Winds of Vengeance](advanced/spell_dir/windsOfVengeance#_winds-of-vengeance
+- [World Wave](advanced/spell_dir/worldWave#_world-wave-
+- [World Wave](advanced/spell_dir/worldWave#_world-wave-
 
 - 0 Level
 - 1st Level

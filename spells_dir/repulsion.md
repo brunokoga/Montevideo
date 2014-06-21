@@ -13,7 +13,7 @@ title: spells/repulsion
 
 **Area** up to 10-ft.-radius/level emanation centered on you
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** [Will](../combat#_will) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

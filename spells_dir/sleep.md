@@ -1,13 +1,13 @@
 ---
-title: spells/sleep
+title: spell_dir/sleep
 ---
  **Sleep**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer/wizard 1
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 1, sorcere_dir/wizard 1
 
 **Casting Time** 1 round
 
-**Components** V, S, M (fine sand, rose petals, or a live cricket)
+**Components** V, S, M (fine sand, rose petals, or a live cricket
 
 **Range** medium (100 ft. + 10 ft./level)
 

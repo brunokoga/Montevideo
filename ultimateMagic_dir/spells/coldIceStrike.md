@@ -3,7 +3,7 @@ title: ultimateMagic/spells/coldIceStrike
 ---
 Cold Ice Strike
 
-**School** evocation [cold]; **Level** cleric 6, sorcerer/wizard 6
+**School** evocation [cold]; **Level** cleric 6, sorcere_dir/wizard 6
 
 **Casting Time** 1 swift action
 
@@ -17,5 +17,5 @@ Cold Ice Strike
 
 **Saving Throw** Reflex half; **Spell Resistance** yes
 
-You create a shredding flurry of ice slivers, which blast from your hand in a line. The line deals 1d6 points of cold damage per caster level (maximum 15d6).
+You create a shredding flurry of ice slivers, which blast from your hand in a line. The line deals 1d6 points of cold damage per caster level (maximum 15d6.
 

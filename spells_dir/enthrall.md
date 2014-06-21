@@ -1,9 +1,9 @@
 ---
-title: spells/enthrall
+title: spell_dir/enthrall
 ---
  **Enthrall**
 
-**School** enchantment (charm) [language dependent, mind-affecting, sonic]; **Level** bard 2, cleric 2
+**School** enchantment (charm [language dependent, mind-affecting, sonic]; **Level** bard 2, cleric 2
 
 **Casting Time** 1 round
 

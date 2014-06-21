@@ -11,13 +11,13 @@ XP 400
 
 CG Medium fey
 
-**Init** +3; **Senses** low-light vision; [Perception](skills/perception#_perception) +8
+**Init** +3; **Senses** low-light vision; [Perception](skill_dir/perception#_perception) +8
 
 Defense
 
 **AC** 16, touch 13, flat-footed 13 (+3 Dex, +3 natural)
 
-**hp** 13 (3d6+3)
+**hp** 13 (3d6+3
 
 **Fort** +2, **Ref** +6, **Will** +5
 
@@ -35,9 +35,9 @@ Offense
 
 **Spell-Like Abilities** (CL 3rd; concentration +6)
 
-At will—_ [ghost sound](spells/ghostSound#_ghost-sound)_ (DC 13)
+At will—_ [ghost sound](spell_dir/ghostSound#_ghost-sound)_ (DC 13
 
-1/day—_ [hideous laughter](spells/hideousLaughter#_hideous-laughter)_ (DC 14), _ [sleep](spells/sleep#_sleep)_ (DC 14)
+1/day—_ [hideous laughter](spell_dir/hideousLaughter#_hideous-laughter)_ (DC 14, _ [sleep](spell_dir/sleep#_sleep)_ (DC 14)
 
 Statistics
 
@@ -45,9 +45,9 @@ Statistics
 
 **Base Atk** +1; **CMB** +3; **CMD** 16
 
-**Feats** [Point-Blank Shot](feats#_point-blank-shot), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Point-Blank Shot](feats#_point-blank-shot), [Weapon Finesse](feats#_weapon-finesse
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +8, [Bluff](skills/bluff#_bluff) +9, [Perception](skills/perception#_perception) +8, [Perform](skills/perform#_perform) (wind) +9, [Sense Motive](skills/senseMotive#_sense-motive) +7, [Stealth](skills/stealth#_stealth) +9, [Survival](skills/survival#_survival) +4
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics +8, [Bluff](skill_dir/bluff#_bluff +9, [Perception](skill_dir/perception#_perception +8, [Perform](skill_dir/perform#_perform) (wind +9, [Sense Motive](skill_dir/senseMotive#_sense-motive +7, [Stealth](skill_dir/stealth#_stealth +9, [Survival](skill_dir/survival#_survival) +4
 
 **Languages** Common, Sylvan
 
@@ -61,7 +61,7 @@ Ecology
 
 Special Abilities
 
-**Panpipes (Su)** Three times per day, a faun can use its masterwork panpipes to augment its spell-like abilities. Doing so is a swift action that increases the DC of the next spell-like ability it uses on its turn by +2.
+**Panpipes (Su** Three times per day, a faun can use its masterwork panpipes to augment its spell-like abilities. Doing so is a swift action that increases the DC of the next spell-like ability it uses on its turn by +2.
 
 Often mistaken for satyrs, fauns are far more benevolent than their unpredictable cousins. Many people use the two names interchangeably, a fact that irritates both fauns and satyrs. The vast majority of fauns are male, although unlike satyrs, females of this species do exist—they're simply less common than male fauns.
 

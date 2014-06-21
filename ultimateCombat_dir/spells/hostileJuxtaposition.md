@@ -1,13 +1,13 @@
 ---
-title: ultimateCombat/spells/hostileJuxtaposition
+title: ultimateCombat/spell_dir/hostileJuxtaposition
 ---
 Hostile Juxtaposition
 
-**School** conjuration (teleportation); **Level** sorcerer/wizard 5, summoner 4, witch 5
+**School** conjuration (teleportation; **Level** sorcere_dir/wizard 5, summoner 4, witch 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a coin)
+**Components** V, S, M (a coin
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

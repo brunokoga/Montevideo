@@ -1,13 +1,13 @@
 ---
-title: spells/teleportationCircle
+title: spell_dir/teleportationCircle
 ---
  **Teleportation Circle**
 
-**School** conjuration (teleportation); **Level** sorcerer/wizard 9
+**School** conjuration (teleportation; **Level** sorcere_dir/wizard 9
 
 **Casting Time** 10 minutes
 
-**Components** V, M (amber dust to cover circle worth 1,000 gp)
+**Components** V, M (amber dust to cover circle worth 1,000 gp
 
 **Range** 0 ft.
 

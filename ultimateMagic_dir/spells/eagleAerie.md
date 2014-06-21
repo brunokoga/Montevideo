@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/eagleAerie
+title: ultimateMagic/spell_dir/eagleAerie
 ---
 Eagle Aerie
 
-**School** conjuration (summoning) [good]; **Level** druid 6, summoner 6
+**School** conjuration (summoning [good]; **Level** druid 6, summoner 6
 
 **Casting Time** 1 round
 
@@ -13,9 +13,9 @@ Eagle Aerie
 
 **Effect** summoned eagles
 
-**Duration** 1 hour/level
+**Duration** 1 hou_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
-You summon a flight of giant eagles (one per three caster levels, maximum of six; _Bestiary_ 118) to ferry you and your allies across the skies. The eagles avoid combat if possible but defend themselves if attacked; if the eagles attack, the remaining duration of the spell changes from 1 hour per level to 1 round per level (so if the spell had 5 full hours left, the eagles remain in combat for 5 rounds before the spell ends).
+You summon a flight of giant eagles (one per three caster levels, maximum of six; _Bestiary_ 118) to ferry you and your allies across the skies. The eagles avoid combat if possible but defend themselves if attacked; if the eagles attack, the remaining duration of the spell changes from 1 hour per level to 1 round per level (so if the spell had 5 full hours left, the eagles remain in combat for 5 rounds before the spell ends.
 

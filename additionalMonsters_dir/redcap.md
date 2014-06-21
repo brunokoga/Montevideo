@@ -9,15 +9,15 @@ Like some miniscule, wicked old man, this snarling little humanoid wears metal b
 
 **XP 2,400**
 
-NE Small [fey](monsters/creatureTypes#_fey)
+NE Small [fey](monster_dir/creatureTypes#_fey
 
-**Init** +8; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +12
+**Init** +8; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +12
 
 Defense
 
 **AC** 20, touch 15, flat-footed 16 (+2 armor, +4 Dex, +3 natural, +1 size)
 
-**hp** 60 (8d6+32); fast healing 3
+**hp** 60 (8d6+32; fast healing 3
 
 **Fort** +6, **Ref** +10, **Will** +7
 
@@ -39,7 +39,7 @@ Statistics
 
 **Feats** [Cleave](additionalMonsters/../feats#_cleave), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Power Attack](additionalMonsters/../feats#_power-attack), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (scythe)
 
-**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +15 (+27 jump), [Bluff](additionalMonsters/../skills/bluff#_bluff) +13, [Climb](additionalMonsters/../skills/climb#_climb) +15, [Escape Artist](additionalMonsters/../skills/escapeArtist#_escape-artist) +15, [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +10, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (nature) +14, [Perception](additionalMonsters/../skills/perception#_perception) +12, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +12, [Stealth](additionalMonsters/../skills/stealth#_stealth) +19
+**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics) +15 (+27 jump, [Bluff](additionalMonsters/../skill_dir/bluff#_bluff +13, [Climb](additionalMonsters/../skill_dir/climb#_climb +15, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +15, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +10, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (nature +14, [Perception](additionalMonsters/../skill_dir/perception#_perception +12, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive +12, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +19
 
 **Languages** Aklo, Common, Giant, Sylvan
 
@@ -55,7 +55,7 @@ Ecology
 
 Special Abilities
 
-**Boot Stomp (Ex)** A redcap wears heavy iron boots with spiked soles that it uses to deadly effect in combat. These boots give the redcap a kick attack that it can make as a secondary attack, either as part of a full-attack action or as part of its movement just as if it had the [Spring Attack](additionalMonsters/../feats#_spring-attack) feat.
+**Boot Stomp (Ex** A redcap wears heavy iron boots with spiked soles that it uses to deadly effect in combat. These boots give the redcap a kick attack that it can make as a secondary attack, either as part of a full-attack action or as part of its movement just as if it had the [Spring Attack](additionalMonsters/../feats#_spring-attack) feat.
 
 **Heavy Weapons (Ex)** A redcap can wield weapons sized for Medium creatures without penalty.
 

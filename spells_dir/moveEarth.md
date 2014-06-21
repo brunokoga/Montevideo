@@ -3,11 +3,11 @@ title: spells/moveEarth
 ---
  **Move Earth**
 
-**School** transmutation [earth]; **Level** druid 6, sorcerer/wizard 6
+**School** transmutation [earth]; **Level** druid 6, sorcere_dir/wizard 6
 
 **Casting Time** see text
 
-**Components** V, S, M (clay, loam, sand, and an iron blade)
+**Components** V, S, M (clay, loam, sand, and an iron blade
 
 **Range** long (400 ft. + 40 ft./level)
 

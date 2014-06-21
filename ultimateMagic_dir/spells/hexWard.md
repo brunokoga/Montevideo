@@ -13,9 +13,9 @@ Hex Ward
 
 **Target** creature touched
 
-**Duration** 1 hour/level
+**Duration** 1 hou_dir/level
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
 
 You give the target a +4 resistance bonus on saving throws against witch hexes.
 

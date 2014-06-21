@@ -9,27 +9,27 @@ Ghul CR 5
 
 XP 1,600
 
-CE Medium undead ( [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
+CE Medium undead ( [shapechanger](monster_dir/creatureTypes#_shapechanger-subtype)
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +15
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](skill_dir/perception#_perception) +15
 
 Defense
 
 **AC** 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
 
-**hp** 51 (6d8+24)
+**hp** 51 (6d8+24
 
 **Fort** +8, **Ref** +4, **Will** +7
 
-**DR** 5/good; **Immune** undead traits; **Resist** [fire](monsters/creatureTypes#_fire-subtype) 10
+**DR** 5/good; **Immune** undead traits; **Resist** [fire](monster_dir/creatureTypes#_fire-subtype) 10
 
 Offense
 
 **Speed** 40 ft., climb 20 ft.
 
-**Melee** bite +10 (1d6+6), 2 claws +10 (1d4+6 plus [bleed](monsters/universalMonsterRules#_bleed))
+**Melee** bite +10 (1d6+6, 2 claws +10 (1d4+6 plus [bleed](monster_dir/universalMonsterRules#_bleed)
 
-**Special Attacks** [bleed](monsters/universalMonsterRules#_bleed) (1), cursed claws, rend (1d6+6)
+**Special Attacks** [bleed](monster_dir/universalMonsterRules#_bleed) (1), cursed claws, rend (1d6+6)
 
 Statistics
 
@@ -37,14 +37,14 @@ Statistics
 
 **Base Atk** +4; **CMB** +10; **CMD** 22
 
-**Feats** [Great Fortitude](feats#_great-fortitude), [Power Attack](feats#_power-attack), [Step Up](feats#_step-up)
+**Feats** [Great Fortitude](feats#_great-fortitude), [Power Attack](feats#_power-attack), [Step Up](feats#_step-up
 
-**Skills** [Bluff](skills/bluff#_bluff) +10, [Climb](skills/climb#_climb) +18, [Diplomacy](skills/diplomacy#_diplomacy) +7, [Disguise](skills/disguise#_disguise) +11, [Intimidate](skills/intimidate#_intimidate) +11, [Perception](skills/perception#_perception) +15,   
- [Stealth](skills/stealth#_stealth) +11, [Survival](skills/survival#_survival) +8 (+16 when following tracks); **Racial Modifiers** +4 [Perception](skills/perception#_perception), +8 [Survival](skills/survival#_survival) when following tracks
+**Skills** [Bluff](skill_dir/bluff#_bluff +10, [Climb](skill_dir/climb#_climb +18, [Diplomacy](skill_dir/diplomacy#_diplomacy +7, [Disguise](skill_dir/disguise#_disguise +11, [Intimidate](skill_dir/intimidate#_intimidate +11, [Perception](skill_dir/perception#_perception +15,   
+ [Stealth](skill_dir/stealth#_stealth +11, [Survival](skill_dir/survival#_survival) +8 (+16 when following tracks; **Racial Modifiers** +4 [Perception](skill_dir/perception#_perception, +8 [Survival](skill_dir/survival#_survival when following tracks
 
-**Languages** Common, one [elemental](monsters/creatureTypes#_elemental-subtype) language (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal)
+**Languages** Common, one [elemental](monster_dir/creatureTypes#_elemental-subtype) language (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal
 
-**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (hyena; does not detect as undead in this form; _ [beast shape I](spells/beastShape#_beast-shape-i)_), genie-kin
+**SQ** [change shape](monster_dir/universalMonsterRules#_change-shape (hyena; does not detect as undead in this form; _ [beast shape I](spell_dir/beastShape#_beast-shape-i)_), genie-kin
 
 Ecology
 
@@ -56,9 +56,9 @@ Ecology
 
 Special Abilities
 
-**Cursed Claws (Ex)** A ghul's claws count as both [cold](monsters/creatureTypes#_cold-subtype) iron and magic for the purpose of bypassing [damage reduction](monsters/universalMonsterRules#_damage-reduction-(ex-or-su)).
+**Cursed Claws (Ex** A ghul's claws count as both [cold](monster_dir/creatureTypes#_cold-subtype iron and magic for the purpose of bypassing [damage reduction](monster_dir/universalMonsterRules#_damage-reduction-(ex-or-su)).
 
-**Genie-kin (Ex)** For all race-related effects (such as a ranger's favored enemy), a ghul is considered a genie even though its type is undead.
+**Genie-kin (Ex)** For all race-related effects (such as a ranger's favored enemy, a ghul is considered a genie even though its type is undead.
 
 Ghuls are undead jann whose eternal existence was twisted by fate and wrought through the displeasure of Ahriman, Lord of the Divs. As if the curse of undeath and ravenous hunger were not enough, these once-majestic creatures now bear donkey hooves as feet. Despite their horrific undead appearance, this feature shames them the most, and they hide their feet from view.
 

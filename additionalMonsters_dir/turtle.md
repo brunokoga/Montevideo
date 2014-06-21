@@ -9,9 +9,9 @@ Snapping TurtleCR 1/3
 
 **XP 135**
 
-N Tiny [animal](monsters/creatureTypes#_animal)
+N Tiny [animal](monster_dir/creatureTypes#_animal
 
-**Init** –1; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +5
+**Init** –1; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
 
 Defense
 
@@ -25,7 +25,7 @@ Offense
 
 **Speed** 10 ft., swim 20 ft.
 
-**Melee** bite +1 (1d3–3)
+**Melee** bite +1 (1d3–3
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -37,9 +37,9 @@ Statistics
 
 **Feats** [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +5, [Swim](additionalMonsters/../skills/swim#_swim) +5
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +5, [Swim](additionalMonsters/../skill_dir/swim#_swim +5
 
-**SQ** [hold breath](monsters/universalMonsterRules#_hold-breath), shell
+**SQ** [hold breath](monster_dir/universalMonsterRules#_hold-breath), shell
 
 Ecology
 
@@ -51,7 +51,7 @@ Ecology
 
 Special Abilities
 
-**Shell (Ex)** As a move action, a snapping turtle can pull its extremities and head into its shell. It cannot move or attack as long as it remains in this state, but its armor bonus from natural armor increases by +4 as long as it does.
+**Shell (Ex** As a move action, a snapping turtle can pull its extremities and head into its shell. It cannot move or attack as long as it remains in this state, but its armor bonus from natural armor increases by +4 as long as it does.
 
 Snapping turtles are water-dwelling reptiles known for their propensity to bite anyone they deem threatening. Adult snapping turtles are usually about 1-1/2 feet in diameter. A spellcaster who can acquire a familiar can choose a snapping turtle as a familiar. A snapping turtle familiar grants its master   
 a +2 bonus on all Fortitude saves.
@@ -70,15 +70,15 @@ Giant Snapping TurtleCR 9
 
 XP 6,400
 
-N Gargantuan [animal](monsters/creatureTypes#_animal)
+N Gargantuan [animal](monster_dir/creatureTypes#_animal
 
-**Init** +2; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +21
+**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +21
 
 Defense
 
 **AC** 23, touch 4, flat-footed 23 (–2 Dex, +19 natural, –4 size)
 
-**hp** 115 (11d8+66)
+**hp** 115 (11d8+66
 
 **Fort** +12, **Ref** +5, **Will** +6
 
@@ -86,7 +86,7 @@ Offense
 
 **Speed** 20 ft., swim 20 ft.
 
-**Melee** bite +16 (4d6+16 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** bite +16 (4d6+16 plus [grab](monster_dir/universalMonsterRules#_grab))
 
 **Space** 20 ft.; **Reach** 15 ft.
 
@@ -96,13 +96,13 @@ Statistics
 
 **Str** 32, **Dex** 6, **Con** 21, **Int** 1, **Wis** 13, **Cha** 6
 
-**Base Atk** +8; **CMB** +23 (+27 grapple); **CMD** 31 (35 vs. trip)
+**Base Atk** +8; **CMB** +23 (+27 grapple); **CMD** 31 (35 vs. trip
 
-**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Lunge](additionalMonsters/../feats#_lunge), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skills/perception#_perception)), [Toughness](additionalMonsters/../feats#_toughness), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (bite)
+**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Lunge](additionalMonsters/../feats#_lunge), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skill_dir/perception#_perception), [Toughness](additionalMonsters/../feats#_toughness), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +21, [Swim](additionalMonsters/../skills/swim#_swim) +19
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +21, [Swim](additionalMonsters/../skill_dir/swim#_swim +19
 
-**SQ** armored stomach, [hold breath](monsters/universalMonsterRules#_hold-breath), shell
+**SQ** armored stomach, [hold breath](monster_dir/universalMonsterRules#_hold-breath), shell
 
 Ecology
 
@@ -114,7 +114,7 @@ Ecology
 
 Special Abilities
 
-**Armored Stomach (Ex)** A giant snapping turtle's body is difficult to cut through—its stomach gains a +4 bonus to its AC and has double the normal hit points when determining the success of a creature attempting to cut its way free.
+**Armored Stomach (Ex** A giant snapping turtle's body is difficult to cut through—its stomach gains a +4 bonus to its AC and has double the normal hit points when determining the success of a creature attempting to cut its way free.
 
 Giant snapping turtles typically grow to diameters of about 35 feet and weigh 20,000 pounds.
 

@@ -1,5 +1,5 @@
 ---
-title: ultimateEquipment/artifactsAndOthers/intelligentItems
+title: ultimateEquipment/artifactsAndOther_dir/intelligentItems
 ---
 # Intelligent Items
 
@@ -71,7 +71,7 @@ Every intelligent magic item begins with the ability to see and hear within 30 f
 
 **Read Languages (Ex)** : The item can read script in any language, regardless of its known languages.
 
-**Read Magic (Sp)** : An intelligent magic item with this ability can read magical writings and scrolls as if through _ [read magic](spells/readMagic#_read-magic). _This ability does not allow the magic item to activate scrolls or other items. An intelligent magic item can suppress and resume this ability as a free action.
+**Read Magic (Sp** : An intelligent magic item with this ability can read magical writings and scrolls as if through _ [read magic](spell_dir/readMagic#_read-magic). _This ability does not allow the magic item to activate scrolls or other items. An intelligent magic item can suppress and resume this ability as a free action.
 
 [Intelligent Item Senses and Communication]
 | Ability | Base Price Modifier | Ego Modifier |
@@ -81,11 +81,11 @@ Every intelligent magic item begins with the ability to see and hear within 30 f
 | Telepathy | +1,000 gp | +1 |
 | Senses (30 ft.) | — | — |
 | Senses (60 ft.) | +500 gp | — |
-| Senses (120 ft.) | +1,000 gp | — |
+| Senses (120 ft. | +1,000 gp | — |
 | Darkvision | +500 gp | — |
 | Blindsense | +5,000 gp | +1 |
 | Read languages | +1,000 gp | +1 |
-| _ [Read magic](spells/readMagic#_read-magic)_ | +2,000 gp | +1 |
+| _ [Read magic](spell_dir/readMagic#_read-magic_ | +2,000 gp | +1 |
 
 ## Intelligent Item Powers
 
@@ -96,7 +96,7 @@ Each intelligent item should possess at least one power, although some might pos
 | --- | --- | --- | --- |
 | 01–10 | Item can cast a 0-level spell at will | +1,000 gp | +1 |
 | 11–20 | Item can cast a 1st-level spell 3/day | +1,200 gp | +1 |
-| 21–25 | Item can use _ [magic aura](spells/magicAura#_magic-aura) _on itself at will | +2,000 gp | +1 |
+| 21–25 | Item can use _ [magic aura](spell_dir/magicAura#_magic-aura _on itself at will | +2,000 gp | +1 |
 | 26–35 | Item can cast a 2nd-level spell 1/day | +2,400 gp | +1 |
 | 36–45 | Item has 5 ranks in one skill\* | +2,500 gp | +1 |
 | 46–50 | Item can sprout limbs and move with a speed of 10 feet | +5,000 gp | +1 |
@@ -104,15 +104,15 @@ Each intelligent item should possess at least one power, although some might pos
 | 56–60 | Item can cast a 2nd-level spell 3/day | +7,200 gp | +1 |
 | 61–70 | Item has 10 ranks in one skill\* | +10,000 gp | +2 |
 | 71–75 | Item can change shape into one other form of the same size | +10,000 gp | +2 |
-| 76–80 | Item can_ [fly](spells/fly), _as the spell, at a speed of 30 feet | +10,000 gp | +2 |
+| 76–80 | Item can_ [fly](spell_dir/fly, _as the spell, at a speed of 30 feet | +10,000 gp | +2 |
 | 81–85 | Item can cast a 4th-level spell 1/day | +11,200 gp | +2 |
-| 86–90 | Item can _ [teleport](spells/teleport#_teleport)_ itself 1/day | +15,000 gp | +2 |
+| 86–90 | Item can _ [teleport](spell_dir/teleport#_teleport_ itself 1/day | +15,000 gp | +2 |
 | 91–95 | Item can cast a 3rd-level spell 3/day | +18,000 gp | +2 |
 | 96–100 | Item can cast a 4th-level spell 3/day | +33,600 gp | +2 |
 
 ## Special Purpose Items
 
-Some intelligent items have special purposes that guide their actions. Intelligent magic items with a special purpose gain a +2 Ego bonus. An item's purpose must suit the type and alignment of the item. A magic item with a purpose should be treated as an individual with a goal, not a fanatical parody. For example, a purpose of "defeat/slay arcane spellcasters" doesn't mean that an intelligent sword forces the wielder to kill every wizard she sees. Nor does it mean that the sword believes it is possible to kill every wizard, sorcerer, and bard in the world. It does mean that the item hates arcane spellcasters and wants to bring an end to the rule of a sorcerer-queen in a nearby land. Likewise, a purpose of "defend elves" doesn't mean that if the wielder is an elf, he only wants to help the wielder. It means that the item wants to be used in furthering the cause of elves, stamping out their enemies and aiding their leaders. A purpose of "defeat/slay all" isn't just a matter of self-preservation. It means that the item won't rest (or let its wielder rest) until it places itself above all others.
+Some intelligent items have special purposes that guide their actions. Intelligent magic items with a special purpose gain a +2 Ego bonus. An item's purpose must suit the type and alignment of the item. A magic item with a purpose should be treated as an individual with a goal, not a fanatical parody. For example, a purpose of "defeat/slay arcane spellcasters" doesn't mean that an intelligent sword forces the wielder to kill every wizard she sees. Nor does it mean that the sword believes it is possible to kill every wizard, sorcerer, and bard in the world. It does mean that the item hates arcane spellcasters and wants to bring an end to the rule of a sorcerer-queen in a nearby land. Likewise, a purpose of "defend elves" doesn't mean that if the wielder is an elf, he only wants to help the wielder. It means that the item wants to be used in furthering the cause of elves, stamping out their enemies and aiding their leaders. A purpose of "defea_dir/slay all" isn't just a matter of self-preservation. It means that the item won't rest (or let its wielder rest until it places itself above all others.
 
 The table below has a number of sample purposes that a magic item might possess. If the wielder specifically ignores or goes against an intelligent item's special purpose, the item gains a +4 bonus to its Ego until the wielder cooperates. This is in addition to the +2 Ego bonus gained by items with a special purpose.
 
@@ -120,20 +120,20 @@ The table below has a number of sample purposes that a magic item might possess.
 | d% | Purpose | Ego Modifier |
 | --- | --- | --- |
 | 01–20 | Defeat/slay diametrically opposed alignment\* | +2 |
-| 21–30 | Defeat/slay arcane spellcasters (including spellcasting monsters and those that use spell-like abilities) | +2 |
-| 31–40 | Defeat/slay divine spellcasters (including divine entities and servitors) | +2 |
+| 21–30 | Defea_dir/slay arcane spellcasters (including spellcasting monsters and those that use spell-like abilities | +2 |
+| 31–40 | Defea_dir/slay divine spellcasters (including divine entities and servitors | +2 |
 | 41–50 | Defeat/slay nonspellcasters | +2 |
-| 51–55 | Defeat/slay a particular creature type (see the _ [bane](magicItems/weapons#_weapons-bane)_ special ability for choices) | +2 |
+| 51–55 | Defeat/slay a particular creature type (see the _ [bane](magicItem_dir/weapons#_weapons-bane)_ special ability for choices | +2 |
 | 56–60 | Defeat/slay a particular race or kind of creature | +2 |
 | 61–70 | Defend a particular race or kind of creature | +2 |
 | 71–80 | Defeat/slay the servants of a specific deity | +2 |
 | 81–90 | Defend the servants and interests of a specific deity | +2 |
-| 91–95 | Defeat/slay all (other than the item and the wielder) | +2 |
+| 91–95 | Defea_dir/slay all (other than the item and the wielder) | +2 |
 | 96–100 | Choose one | +2 |
 
 ## Dedicated Powers
 
-A dedicated power operates only when an intelligent item is in pursuit of its special purpose. This determination is always made by the item. Unlike its other powers, an intelligent item can refuse to use its dedicated powers even if the owner is dominant (see Items Against Characters). The caster level for these effects is equal to the item's caster level. Save DCs are based on the item's highest mental ability score.
+A dedicated power operates only when an intelligent item is in pursuit of its special purpose. This determination is always made by the item. Unlike its other powers, an intelligent item can refuse to use its dedicated powers even if the owner is dominant (see Items Against Characters. The caster level for these effects is equal to the item's caster level. Save DCs are based on the item's highest mental ability score.
 
 [Special Purpose Item Dedicated Powers]
 | d% | Dedicated Power | Base Price Modifier | Ego Modifier |
@@ -144,7 +144,7 @@ A dedicated power operates only when an intelligent item is in pursuit of its sp
 | 51–65 | Item can use a 5th-level spell at will | +90,000 gp | +2 |
 | 66–80 | Item can use a 6th-level spell at will | +132,000 gp | +2 |
 | 81–95 | Item can use a 7th-level spell at will | +182,000 gp | +2 |
-| 96–100 | Item can use _ [true resurrection](spells/trueResurrection#_true-resurrection)_ on wielder, once per month | +200,000 gp | +2 |
+| 96–100 | Item can use _ [true resurrection](spell_dir/trueResurrection#_true-resurrection)_ on wielder, once per month | +200,000 gp | +2 |
 
 ## Item Ego
 
@@ -309,15 +309,15 @@ Armor of the Shadow Lord
 
 **Intelligence** 14; **Wisdom** 16; **Charisma** 14; **Ego** 14
 
-**Language** telepathy (Aklo, Common, and Elven)
+**Language** telepathy (Aklo, Common, and Elven
 
-This suit of _+4 greater [shadow](magicItems/armor#_armor-shadow) greater [slick](magicItems/armor#_armor-slick) leather armor _fits as snugly as a tight suit of silk against its wearer's skin and harbors an amoral and bloodthirsty intelligence. Via the telepathy it shares with its wielder, the armor gives constant advice on how to be stealthy, reach out of the way spots, and get the drop on foes. It also grants an extra +1d6 points of sneak attack damage, but the wearer must already have the sneak attack class feature to gain this bonus. Furthermore the armor has a maximum Dexterity bonus of +10 and no arcane spell failure.
+This suit of _+4 greater [shadow](magicItem_dir/armor#_armor-shadow greater [slick](magicItem_dir/armor#_armor-slick) leather armor _fits as snugly as a tight suit of silk against its wearer's skin and harbors an amoral and bloodthirsty intelligence. Via the telepathy it shares with its wielder, the armor gives constant advice on how to be stealthy, reach out of the way spots, and get the drop on foes. It also grants an extra +1d6 points of sneak attack damage, but the wearer must already have the sneak attack class feature to gain this bonus. Furthermore the armor has a maximum Dexterity bonus of +10 and no arcane spell failure.
 
 **Construction Requirements**
 
 **Cost** 58,660 GP
 
-[Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [grease](spells/grease#_grease)_, _ [invisibility](spells/invisibility#_invisibility)_, _ [silence](spells/silence#_silence)_, creator must have the sneak attack class feature
+[Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor, _ [grease](spell_dir/grease#_grease_, _ [invisibility](spell_dir/invisibility#_invisibility_, _ [silence](spell_dir/silence#_silence_, creator must have the sneak attack class feature
 
 Chomper
 
@@ -338,7 +338,7 @@ _Chomper_ has all of the magical abilities of a regular _bag of devouring_, alon
 
 **Intended Magic Item**
 
-_ [bag of holding](magicItems/wondrousItems#_bag-of-holding) type III_
+_ [bag of holding](magicItem_dir/wondrousItems#_bag-of-holding) type III_
 
 Hammer of Enemies
 
@@ -348,9 +348,9 @@ Hammer of Enemies
 
 **Intelligence** 10; **Wisdom** 16; **Charisma** 14; **Ego** 14
 
-**Language** speech (Common)
+**Language** speech (Common
 
-This special _+3 [bane](magicItems/weapons#_weapons-bane) warhammer_ seeks only to crush the enemy of its wielder in battle. The hammer can speak Common, constantly mutters, curses when it is not engaged in battle, and sings deeply of its love of carnage when it is being used in a fight. The _hammer of enemies_ is always eager to point out potential enemies within its vision. Because of its bloodlust it does not bestow negative levels on creatures that do not share its alignment—it is willing to fight for anyone. Additionally, three times per day, the _hammer of enemies _can change the creature type of its bane ability. A creature type remains until a new one is chosen.
+This special _+3 [bane](magicItem_dir/weapons#_weapons-bane warhammer_ seeks only to crush the enemy of its wielder in battle. The hammer can speak Common, constantly mutters, curses when it is not engaged in battle, and sings deeply of its love of carnage when it is being used in a fight. The _hammer of enemies_ is always eager to point out potential enemies within its vision. Because of its bloodlust it does not bestow negative levels on creatures that do not share its alignment—it is willing to fight for anyone. Additionally, three times per day, the _hammer of enemies _can change the creature type of its bane ability. A creature type remains until a new one is chosen.
 
 **Construction Requirements**
 
@@ -368,9 +368,9 @@ harbinger rod
 
 **Language** telepathy (Celestial;_ truespeech_)
 
-This copper rod is made up of constantly grinding gearlike parts. It is believed that these rods may be some alternate or lesser form of harbinger archons. The rod can take may useful forms, and after 24 hours in the possession of a lawful good creature, the wielder can command it to take the form of any tool, including a _ [chime of opening](magicItems/wondrousItems#_chime-of-opening)_. Very intelligent and witty, these rods communicate with their wielders in truespeech or Celestial. Furthermore, the rod has the following powers.
+This copper rod is made up of constantly grinding gearlike parts. It is believed that these rods may be some alternate or lesser form of harbinger archons. The rod can take may useful forms, and after 24 hours in the possession of a lawful good creature, the wielder can command it to take the form of any tool, including a _ [chime of opening](magicItem_dir/wondrousItems#_chime-of-opening_. Very intelligent and witty, these rods communicate with their wielders in truespeech or Celestial. Furthermore, the rod has the following powers.
 
-- Three times per day, on command, the rod's wielder can use _ [dimension door](spells/dimensionDoor#_dimension-door)_, as the spell.
+- Three times per day, on command, the rod's wielder can use _ [dimension door](spell_dir/dimensionDoor#_dimension-door_, as the spell.
 - Once per day, on command, the rod can emit a blast of energy that deals 2d6 points of force damage to creatures adjacent to the wielder. A successful DC 12 Reflex save halves the damage. The wielder can choose to omit any target from this blast that it desires, damaging only the foes it chooses.
 
 The rod's purpose is to destroy or foil the plans of chaotic evil creatures.
@@ -379,7 +379,7 @@ The rod's purpose is to destroy or foil the plans of chaotic evil creatures.
 
 **Cost** 22,100 GP
 
-Craft Rod, _ [dimension door](spells/dimensionDoor#_dimension-door), [knock](spells/knock#_knock), [explosive runes](spells/explosiveRunes#_explosive-runes), _creator must be lawful good
+Craft Rod, _ [dimension door](spell_dir/dimensionDoor#_dimension-door, [knock](spell_dir/knock#_knock, [explosive runes](spell_dir/explosiveRunes#_explosive-runes), _creator must be lawful good
 
 Headband of the sage
 
@@ -389,15 +389,15 @@ Headband of the sage
 
 **Intelligence** 20; **Wisdom** 16; **Charisma** 12; **Ego** 20
 
-**Language** telepathy (Common and 10 other languages)
+**Language** telepathy (Common and 10 other languages
 
-A _headband of vast intellect +6_ also holds a consciousness that shares its knowledge and education with a suitable wearer. This intellect can be of any alignment and its only purpose is to share its vast knowledge with its wearer. The headband also functions as a _ [helm of](magicItems/wondrousItems#_helm-of-comprehend-languages-and-read-magic) [comprehend languages](spells/comprehendLanguages#_comprehend-languages) and read magic._ Furthermore, instead of granting the normal skill ranks of a _headband of vast intellect +6_, this headband grants 4 ranks in six skills, but all of those skills must be [Knowledge](skills/knowledge#_knowledge) skills. It grants such intelligence by a stream of constant whispers and arguments that the headband communicates telepathically in Common or in one of 10 other languages it knows. Once per week on command, the wearer can also convince the headband to use _ [legend lore](spells/legendLore#_legend-lore)_ as the spell, though the casting time is only a standard action.
+A _headband of vast intellect +6_ also holds a consciousness that shares its knowledge and education with a suitable wearer. This intellect can be of any alignment and its only purpose is to share its vast knowledge with its wearer. The headband also functions as a _ [helm of](magicItem_dir/wondrousItems#_helm-of-comprehend-languages-and-read-magic [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages and read magic._ Furthermore, instead of granting the normal skill ranks of a _headband of vast intellect +6_, this headband grants 4 ranks in six skills, but all of those skills must be [Knowledge](skill_dir/knowledge#_knowledge skills. It grants such intelligence by a stream of constant whispers and arguments that the headband communicates telepathically in Common or in one of 10 other languages it knows. Once per week on command, the wearer can also convince the headband to use _ [legend lore](spell_dir/legendLore#_legend-lore_ as the spell, though the casting time is only a standard action.
 
 **Construction Requirements**
 
 **Cost** 35,650 GP
 
-Craft Wondrous Item, _ [comprehend languages](spells/comprehendLanguages#_comprehend-languages)_, _ [fox's cunning](spells/foxSCunning#_fox-s-cunning)_, _legend and lore_, _ [read magic](spells/readMagic#_read-magic)_
+Craft Wondrous Item, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_, _ [fox's cunning](spell_dir/foxSCunning#_fox-s-cunning_, _legend and lore_, _ [read magic](spell_dir/readMagic#_read-magic_
 
 Helmet of the Golden General
 
@@ -413,14 +413,14 @@ This golden gem-studded helmet acts like a _crown of conquest_ and grants its wi
 
 Furthermore this helmet can speak through a central ruby that sits over the nose guard of the helmet. It knows Common and four other languages. These helmets are always confident—even arrogant—and give a running commentary of the battle, praising heroism, chiding tactical missteps, and giving its wearer and its allies martial advice. It has the following other powers.
 
-- Three times per day, it can affect its wearer or an ally within 30 feet as the _ [true strike](spells/trueStrike#_true-strike) _spell.
-- Three times per day, it can attempt to demoralize all enemies within 30 feet as a free action, as if using the [Intimidate](skills/intimidate#_intimidate) skill. The helmet's [Intimidate](skills/intimidate#_intimidate) is bonus +17.
+- Three times per day, it can affect its wearer or an ally within 30 feet as the _ [true strike](spell_dir/trueStrike#_true-strike _spell.
+- Three times per day, it can attempt to demoralize all enemies within 30 feet as a free action, as if using the [Intimidate](skill_dir/intimidate#_intimidate skill. The helmet's [Intimidate](skill_dir/intimidate#_intimidate is bonus +17.
 
 **Construction Requirements**
 
 **Cost** 31,000 GP
 
-Craft Wondrous Item, the item's performance and teamwork feat, _ [bless](spells/bless#_bless)_, _ [eagle's splendor](spells/eagleSSplendor#_eagle-s-splendor)_, _ [prayer](spells/prayer#_prayer)_, _ [scare](spells/scare#_scare)_, _ [true strike](spells/trueStrike#_true-strike)_
+Craft Wondrous Item, the item's performance and teamwork feat, _ [bless](spell_dir/bless#_bless_, _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor_, _ [prayer](spell_dir/prayer#_prayer_, _ [scare](spell_dir/scare#_scare_, _ [true strike](spell_dir/trueStrike#_true-strike)_
 
 Lightning Bow
 
@@ -430,19 +430,19 @@ Lightning Bow
 
 **Intelligence** 6; **Wisdom** 11; **Charisma** 11; **Ego** 9
 
-**Language** speech (Auran)
+**Language** speech (Auran
 
 This intelligent item is called a _lightning bow_ by mortals, a name is seen as a slight to the lightning elemental trapped within it—a creature honor-bound to serve in the bow for no less than 100 years. Each of these _+3 adaptive composite longbows_ is a haughty and often highly intelligent member of its race, who chides those who don't know its true name—which is often a complicated series of high pitched squeaks, like live wood burning on a pyre. The elemental in a _lightning bow _only speaks Auran. _Lightning bows_ will not fire on other outsiders with the elemental subtype. Some are also bound not to attack other individuals, based on their history. For instance, one of these bows might be foresworn not to attack the Sultan of Fire, fire giants, or red dragons. Additionally, _lightning bows_ have the following powers.
 
-- A _lightning bow_ needs no ammunition. With the pull of a string, it creates a _+3 [shock](magicItems/weapons#_weapons-shock) arrow_ or a _+3 [brilliant energy](magicItems/weapons#_weapons-brilliant-energy) arrow (_the wielder's choice with each shot).
-- Three times per day, the wielder can cast _ [true strike](spells/trueStrike#_true-strike)_ as a swift action. The _ [true strike](spells/trueStrike#_true-strike)_ can only be used with attacks made with the _lightning bow_.
-- Three times per day, the wielder can use _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_ as a spell-like ability.
+- A _lightning bow_ needs no ammunition. With the pull of a string, it creates a _+3 [shock](magicItem_dir/weapons#_weapons-shock arrow_ or a _+3 [brilliant energy](magicItem_dir/weapons#_weapons-brilliant-energy) arrow (_the wielder's choice with each shot.
+- Three times per day, the wielder can cast _ [true strike](spell_dir/trueStrike#_true-strike_ as a swift action. The _ [true strike](spell_dir/trueStrike#_true-strike_ can only be used with attacks made with the _lightning bow_.
+- Three times per day, the wielder can use _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_ as a spell-like ability.
 
 **Construction Requirements**
 
 **Cost** 27,300 GP
 
-Craft Magic Arms and Armor, _ [call lightning](spells/callLightning#_call-lightning)_, the willing service of one Huge lighting elemental for at least 100 years
+Craft Magic Arms and Armor, _ [call lightning](spell_dir/callLightning#_call-lightning)_, the willing service of one Huge lighting elemental for at least 100 years
 
 Lute of Discord
 
@@ -452,19 +452,19 @@ Lute of Discord
 
 **Intelligence** 14; **Wisdom** 14; **Charisma** 18; **Ego** 14
 
-**Language** telepathy (Common and four other languages)
+**Language** telepathy (Common and four other languages
 
-This lute is a masterwork instrument constructed of polished ebony, with mother of pearl embellishments and gold frets. It grants any creature playing it a +2 competence bonus on [Perform](skills/perform#_perform) (string instruments) checks as it gently telepathically whispers ways the creature can improve is current performance. It also grants those who can play the lute the following abilities.
+This lute is a masterwork instrument constructed of polished ebony, with mother of pearl embellishments and gold frets. It grants any creature playing it a +2 competence bonus on [Perform](skill_dir/perform#_perform) (string instruments checks as it gently telepathically whispers ways the creature can improve is current performance. It also grants those who can play the lute the following abilities.
 
-- Three times per day on command, a creature with at least 6 ranks in [Perform](skills/perform#_perform) (string instruments) can play a chord on the lute of discord to employ the _ [murderous command](ultimateMagic/spells/murderousCommand#_murderous-command) _spell.
-- Three times per day on command, a creature with at least 6 ranks in [Perform](skills/perform#_perform) (string instruments) can play a chord on the _lute of discord_ to use the _ [distracting cacophony](ultimateMagic/spells/distractingCacophony#_distracting-cacophony)_ spell (3rd level).
-- Once per day on command, a creature with at least 6 ranks in [Perform](skills/perform#_perform) (string instruments) can play a chord to use the _ [echolocation](ultimateMagic/spells/echolocation#_echolocation)_ spell (4th level caster)
+- Three times per day on command, a creature with at least 6 ranks in [Perform](skill_dir/perform#_perform) (string instruments can play a chord on the lute of discord to employ the _ [murderous command](ultimateMagic/spell_dir/murderousCommand#_murderous-command _spell.
+- Three times per day on command, a creature with at least 6 ranks in [Perform](skill_dir/perform#_perform) (string instruments can play a chord on the _lute of discord_ to use the _ [distracting cacophony](ultimateMagic/spell_dir/distractingCacophony#_distracting-cacophony)_ spell (3rd level.
+- Once per day on command, a creature with at least 6 ranks in [Perform](skill_dir/perform#_perform) (string instruments can play a chord to use the _ [echolocation](ultimateMagic/spell_dir/echolocation#_echolocation)_ spell (4th level caster
 
 **Construction Requirements**
 
 **Cost** 18,950 GP
 
-Craft Wondrous Item, _ [distracting cacophony](ultimateMagic/spells/distractingCacophony#_distracting-cacophony)_, _ [echolocation](ultimateMagic/spells/echolocation#_echolocation)_, _ [murderous command](ultimateMagic/spells/murderousCommand#_murderous-command) _
+Craft Wondrous Item, _ [distracting cacophony](ultimateMagic/spell_dir/distractingCacophony#_distracting-cacophony_, _ [echolocation](ultimateMagic/spell_dir/echolocation#_echolocation_, _ [murderous command](ultimateMagic/spell_dir/murderousCommand#_murderous-command) _
 
 metamagician's apprentice
 
@@ -474,17 +474,17 @@ metamagician's apprentice
 
 **Intelligence** 18; **Wisdom** 14; **Charisma** 10; **Ego** 20
 
-**Language** telepathy (Common and eight other languages)
+**Language** telepathy (Common and eight other languages
 
 This slender rod is usually capped with a metal knob resembling the face of a young male or female mage. The first rod of this type was created by a ruthless cabal of wizards and sorcerers who transferred the minds of their most promising apprentices into a set of rods for the sake of greater power.
 
 The bound apprentices' intellects have no free will but retain their rebellious imaginations. Under normal circumstances, the rod must do what its wielder commands, but it can make telepathic, respectful complaints about how unhappy it is to be a group of living minds imprisoned in an inanimate object—though few wielders care. While no good creature would create a _metamagician's apprentice_, he or she can still wield one.
 
-The rod can be used as a _+1 [light](spells/light#_light) mace_. On command, it transforms into a _+1/+1 quarterstaff_ or back to its rod form.
+The rod can be used as a _+1 [light](spell_dir/light#_light mace_. On command, it transforms into a _+1/+1 quarterstaff_ or back to its rod form.
 
 A _metamagician's apprentice_ knows four metamagic feats (limited to feats that use a spell slot one or two levels higher than the spell's actual level, such as [Silent Spell](feats#_silent-spell) and [Empower Spell](feats#_empower-spell)) and acts as a _greater metamagic rod_ for those feats. The rod can only apply one metamagic feat to a spell at a time, though (like a _metamagic rod_) the wielder can use his own feats and the rod's on the same spell.
 
-The rod can use _ [read magic](spells/readMagic#_read-magic)_ and _ [detect magic](spells/detectMagic#_detect-magic)_ at will. The _metamagician's apprentice_ is never overwhelmed by powerful magic auras. These abilities do not trigger effects that require reading to activate (such as the _ [explosive runes](spells/explosiveRunes#_explosive-runes)_ spell). The rod grants the wielder a +2 competence bonus on three [Knowledge](skills/knowledge#_knowledge) skills; these skills are determined when the rod is created (and require the apprentice to have ranks in that skill) and can never be changed. [Knowledge](skills/knowledge#_knowledge) (arcana) is almost always one of these three skills.
+The rod can use _ [read magic](spell_dir/readMagic#_read-magic_ and _ [detect magic](spell_dir/detectMagic#_detect-magic_ at will. The _metamagician's apprentice_ is never overwhelmed by powerful magic auras. These abilities do not trigger effects that require reading to activate (such as the _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes)_ spell. The rod grants the wielder a +2 competence bonus on three [Knowledge](skill_dir/knowledge#_knowledge) skills; these skills are determined when the rod is created (and require the apprentice to have ranks in that skill and can never be changed. [Knowledge](skill_dir/knowledge#_knowledge) (arcana) is almost always one of these three skills.
 
 A typical rod of this type is lawful neutral, though rods with other alignments exist.
 
@@ -504,7 +504,7 @@ Obsession Ring
 
 **Intelligence** 17; **Wisdom** 10; **Charisma** 13; **Ego** 11
 
-**Language** telepathy (Common and seven other languages)
+**Language** telepathy (Common and seven other languages
 
 These _rings of protection +3_ are extremely varied in form. They can be of any alignment and each has its own unique personality and proclivities. Each ring has a specific obsession. To determine a particular _obsession ring_'s obsession, roll on Table 6–10: Intelligent Item Purpose. When the ring is in pursuit of its purpose, its Ego is 10 points higher than normal.
 
@@ -512,7 +512,7 @@ Gnomes with the obsession racial trait have a unique understanding of the ring's
 
 When an _obsession ring_ is engaged in action directly related to its obsession, it grants its wearer the following powers, but can choose to withhold such powers if it does not believe their uses would further its obsession.
 
-- The ring functions as a _ [ring of protection](magicItems/rings#_ring-of-protection) +5_.
+- The ring functions as a _ [ring of protection](magicItem_dir/rings#_ring-of-protection +5_.
 - The ring grants its wearer a +2 luck bonus on attack rolls against creatures its obsession is sworn to defeat.
 - Three times per day, the ring can allow its wearer to reroll any saving throw. The wearer gains a +4 luck bonus on the saving throw reroll.
 
@@ -522,7 +522,7 @@ These rings are typically quite emphatic on their desire to fulfill their obsess
 
 **Cost** 58,250 GP
 
-Forge Ring, _ [shield of faith](spells/shieldOfFaith#_shield-of-faith)_, creator must be 15th level (or 9th level if the creator is a gnome)
+Forge Ring, _ [shield of faith](spell_dir/shieldOfFaith#_shield-of-faith)_, creator must be 15th level (or 9th level if the creator is a gnome)
 
 Rod that Should Not Be (lesser)
 
@@ -564,9 +564,9 @@ Shield of the Mage
 
 **Intelligence** 16; **Wisdom** 10; **Charisma** 10; **Ego** 6
 
-**Language** telepathy (Common and six other languages)
+**Language** telepathy (Common and six other languages
 
-This _ [caster's shield](magicItems/armor#_caster-s-shield) _always has one arcane scroll and knows the same arcane spells as the wielder. When the spell on the scroll is cast, another scroll of a spell the wielder knows randomly manifests to replace it. The shield has no arcane spell failure. The shield can also _ [read magic](spells/readMagic#_read-magic)_. It will often debate with its wielder for the most devastating course of action, but does what the wielder commands.
+This _ [caster's shield](magicItem_dir/armor#_caster-s-shield _always has one arcane scroll and knows the same arcane spells as the wielder. When the spell on the scroll is cast, another scroll of a spell the wielder knows randomly manifests to replace it. The shield has no arcane spell failure. The shield can also _ [read magic](spell_dir/readMagic#_read-magic)_. It will often debate with its wielder for the most devastating course of action, but does what the wielder commands.
 
 **Construction Requirements**
 
@@ -582,16 +582,16 @@ Singing Sword
 
 **Intelligence** 14; **Wisdom** 12; **Charisma** 18; **Ego** 17
 
-**Language** speech (Common and four other languages)
+**Language** speech (Common and four other languages
 
-This _+2 [keen](magicItems/weapons#_weapons-keen) [dancing](magicItems/weapons#_weapons-dancing) longsword_ is infused with the soul of a bard who chose to instill his consciousness into a weapon rather than to see his voice die. The sword constantly sings. The only way to silence it to a whisper is with a DC 15 [Diplomacy](skills/diplomacy#_diplomacy) or [Intimidate](skills/intimidate#_intimidate) check, and even this only quiets the sword for 10 minutes plus another 10 minutes for every 5 points by which the DC is exceeded. The sword speaks, though it typically communicates through song. A _singing sword_ has the following powers.
+This _+2 [keen](magicItem_dir/weapons#_weapons-keen [dancing](magicItem_dir/weapons#_weapons-dancing longsword_ is infused with the soul of a bard who chose to instill his consciousness into a weapon rather than to see his voice die. The sword constantly sings. The only way to silence it to a whisper is with a DC 15 [Diplomacy](skill_dir/diplomacy#_diplomacy or [Intimidate](skill_dir/intimidate#_intimidate check, and even this only quiets the sword for 10 minutes plus another 10 minutes for every 5 points by which the DC is exceeded. The sword speaks, though it typically communicates through song. A _singing sword_ has the following powers.
 
 - Eight times per day, a _singing sword_ can use bardic performance, but can only use the countersong, distraction, fascinate, inspire courage, or inspire competence abilities. The sword is treated as an 8th-level bard for the purposes of these abilities.
-- Three times per day, the _singing sword_ can use the _ [heroic finale](advanced/spells/heroicFinale#_heroic-finale)_ spell.
+- Three times per day, the _singing sword_ can use the _ [heroic finale](advanced/spell_dir/heroicFinale#_heroic-finale_ spell.
 
 **Construction Requirements**
 
 **Cost** 500 GP
 
-Craft Arms and Armor, _ [keen edge](spells/keenEdge#_keen-edge),_ _animate object_, the soul of a willing bard of at least 8th level
+Craft Arms and Armor, _ [keen edge](spell_dir/keenEdge#_keen-edge,_ _animate object_, the soul of a willing bard of at least 8th level
 

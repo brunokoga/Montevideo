@@ -13,13 +13,13 @@ Human bard 1/rogue 2
 
 N Medium humanoid
 
-**Init** +2; **Senses** [Perception](../../skills/perception#_perception) +5
+**Init** +2; **Senses** [Perception](../../skill_dir/perception#_perception) +5
 
 **Defense**
 
 **AC** 15, touch 13, flat-footed 12 (+2 armor, +2 Dex, +1 dodge)
 
-**hp** 16 (3d8+3)
+**hp** 16 (3d8+3
 
 **Fort** +1, **Ref** +7, **Will** +1
 
@@ -33,13 +33,13 @@ N Medium humanoid
 
 **Ranged** dagger +3 (1d4+1/19–20)
 
-**Special Attacks** bardic performance 7 rounds/day (countersong, distraction, fascinate [DC 13], inspire courage +1), sneak attack +1d6
+**Special Attacks** bardic performance 7 round_dir/day (countersong, distraction, fascinate [DC 13], inspire courage +1), sneak attack +1d6
 
-**Bard Spells Known** (CL 1st; concentration +4)
+**Bard Spells Known** (CL 1st; concentration +4
 
-1st (2/day)—_ [silent image](../../spells/silentImage#_silent-image)_ (DC 14), _ [sleep](../../spells/sleep#_sleep)_ (DC 14)
+1st (2/day)—_ [silent image](../../spell_dir/silentImage#_silent-image)_ (DC 14, _ [sleep](../../spell_dir/sleep#_sleep)_ (DC 14)
 
-0 (at will)—_ [dancing lights](../../spells/dancingLights#_dancing-lights)_, _ [lullaby](../../spells/lullaby#_lullaby) _(DC 13), _ [mending](../../spells/mending#_mending)_, _ [prestidigitation](../../spells/prestidigitation#_prestidigitation)_
+0 (at will—_ [dancing lights](../../spell_dir/dancingLights#_dancing-lights_, _ [lullaby](../../spell_dir/lullaby#_lullaby) _(DC 13, _ [mending](../../spell_dir/mending#_mending_, _ [prestidigitation](../../spell_dir/prestidigitation#_prestidigitation_
 
 **Statistics**
 
@@ -49,13 +49,13 @@ N Medium humanoid
 
 **Feats** [Deceitful](../../feats#_deceitful), [Deft Hands](../../feats#_deft-hands), [Dodge](../../feats#_dodge)
 
-**Skills** [Acrobatics](../../skills/acrobatics#_acrobatics) +7, [Bluff](../../skills/bluff#_bluff) +11, [Disable Device](../../skills/disableDevice#_disable-device) +12, [Disguise](../../skills/disguise#_disguise) +13, [Escape Artist](../../skills/escapeArtist#_escape-artist) +6, [Handle Animal](../../skills/handleAnimal#_handle-animal) +4, [Knowledge](../../skills/knowledge#_knowledge) (local) +5, [Perception](../../skills/perception#_perception) +5, [Perform](../../skills/perform#_perform) (dance) +8, [Perform](../../skills/perform#_perform) (percussion) +10, [Sleight of Hand](../../skills/sleightOfHand#_sleight-of-hand) +10, [Stealth](../../skills/stealth#_stealth) +8
+**Skills** [Acrobatics](../../skill_dir/acrobatics#_acrobatics +7, [Bluff](../../skill_dir/bluff#_bluff +11, [Disable Device](../../skill_dir/disableDevice#_disable-device +12, [Disguise](../../skill_dir/disguise#_disguise +13, [Escape Artist](../../skill_dir/escapeArtist#_escape-artist +6, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +4, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +5, [Perception](../../skill_dir/perception#_perception +5, [Perform](../../skill_dir/perform#_perform) (dance +8, [Perform](../../skill_dir/perform#_perform) (percussion +10, [Sleight of Hand](../../skill_dir/sleightOfHand#_sleight-of-hand +10, [Stealth](../../skill_dir/stealth#_stealth) +8
 
 **Languages** Common
 
-**SQ** bardic knowledge +1, rogue talent (stand up), trapfinding +1
+**SQ** bardic knowledge +1, rogue talent (stand up, trapfinding +1
 
-**Combat Gear** _scrolls of [cure light wounds](../../spells/cureLightWounds#_cure-light-wounds)_, _ [disguise self](../../spells/disguiseSelf#_disguise-self)_, _ [invisibility](../../spells/invisibility#_invisibility) _(2), smokesticks (2), tanglefoot bag, thunderstones (2); **Other Gear** leather armor, daggers (5), disguise kit, masterwork tambourine, masterwork thieves' tools, mule and wagon, 25 gp
+**Combat Gear** _scrolls of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_, _ [disguise self](../../spell_dir/disguiseSelf#_disguise-self_, _ [invisibility](../../spell_dir/invisibility#_invisibility) _(2), smokesticks (2), tanglefoot bag, thunderstones (2); **Other Gear** leather armor, daggers (5), disguise kit, masterwork tambourine, masterwork thieves' tools, mule and wagon, 25 gp
 
 **Boon** A wanderer can smuggle an item or person into or out of a guarded city or encampment in their wagons or as part of their troupe.
 
@@ -63,7 +63,7 @@ A wanderer is a member of a band of traveling folk who ply the back roads and al
 
 Wanderers are often excellent entertainers, whether musicians, dancers, or actors, but can also serve as exotic cutpurses and charlatans.
 
-Wanderers often travel in troupes of four entertainers (CR 6), or in larger groups of a dozen or more (CR 9+). A lone wanderer might accompany a vagabond (CR 4) or hedge wizard (CR 5), while a troupe of five or six might work with a fortune teller (CR 8) or highwayman (CR 9).
+Wanderers often travel in troupes of four entertainers (CR 6), or in larger groups of a dozen or more (CR 9+). A lone wanderer might accompany a vagabond (CR 4) or hedge wizard (CR 5), while a troupe of five or six might work with a fortune teller (CR 8) or highwayman (CR 9.
 
 **Vagabond CR 1**
 
@@ -73,13 +73,13 @@ Human commoner 2/warrior 1
 
 N Medium humanoid
 
-**Init** +1; **Senses** [Perception](../../skills/perception#_perception) +7
+**Init** +1; **Senses** [Perception](../../skill_dir/perception#_perception) +7
 
 **Defense**
 
 **AC** 16, touch 11, flat-footed 15 (+4 armor, +1 Dex, +1 shield)
 
-**hp** 15 (3 HD; 2d6+1d10+3)
+**hp** 15 (3 HD; 2d6+1d10+3
 
 **Fort** +3, **Ref** +1, **Will** –1
 
@@ -99,13 +99,13 @@ N Medium humanoid
 
 **Feats** [Alertness](../../feats#_alertness), Point Blank Shot, [Rapid Shot](../../feats#_rapid-shot)
 
-**Skills** [Climb](../../skills/climb#_climb) +3, [Handle Animal](../../skills/handleAnimal#_handle-animal) +3, [Knowledge](../../skills/knowledge#_knowledge) (geography) +1, [Knowledge](../../skills/knowledge#_knowledge) (local) +1, [Perception](../../skills/perception#_perception) +7, [Ride](../../skills/ride#_ride) +3, [Sense Motive](../../skills/senseMotive#_sense-motive) +2, [Survival](../../skills/survival#_survival) +1, [Swim](../../skills/swim#_swim) +3
+**Skills** [Climb](../../skill_dir/climb#_climb +3, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +3, [Knowledge](../../skill_dir/knowledge#_knowledge) (geography +1, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +1, [Perception](../../skill_dir/perception#_perception +7, [Ride](../../skill_dir/ride#_ride +3, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +2, [Survival](../../skill_dir/survival#_survival +1, [Swim](../../skill_dir/swim#_swim) +3
 
 **Languages** Common
 
-**Gear** masterwork chain shirt, buckler, battleaxe, dagger, masterwork composite longbow (+1 Str) with 20 arrows, mule, saddle
+**Gear** masterwork chain shirt, buckler, battleaxe, dagger, masterwork composite longbow (+1 Str with 20 arrows, mule, saddle
 
-**Boon** A vagabond can give accurate directions to any known landmark or settlement within 50 miles (+5 on [Survival](../../skills/survival#_survival) checks to avoid getting lost) and general information about likely dangers (terrain or hostile creatures) along the way.
+**Boon** A vagabond can give accurate directions to any known landmark or settlement within 50 miles (+5 on [Survival](../../skill_dir/survival#_survival) checks to avoid getting lost) and general information about likely dangers (terrain or hostile creatures along the way.
 
 Vagabonds are drifters who wander the roads, picking up odd jobs but rarely letting the sun set on them in the same place twice. Vagabonds have a few skills that can help them get odd jobs in communities they pass through, but often possess skills in combat as well, as no road is ever truly safe.
 
@@ -123,13 +123,13 @@ Human commoner 5
 
 NG Medium humanoid
 
-**Init** +0; **Senses** [Perception](../../skills/perception#_perception) +7
+**Init** +0; **Senses** [Perception](../../skill_dir/perception#_perception) +7
 
 **Defense**
 
 **AC** 11, touch 10, flat-footed 11 (+1 armor)
 
-**hp** 17 (5d6)
+**hp** 17 (5d6
 
 **Fort** +1, **Ref** +1, **Will** +4
 
@@ -147,15 +147,15 @@ NG Medium humanoid
 
 **Base Atk** +2; **CMB** +2; **CMD** 12
 
-**Feats** [Alertness](../../feats#_alertness), [Endurance](../../feats#_endurance), [Iron Will](../../feats#_iron-will), [Skill Focus](../../feats#_skill-focus) ( [Heal](../../skills/heal#_heal))
+**Feats** [Alertness](../../feats#_alertness), [Endurance](../../feats#_endurance), [Iron Will](../../feats#_iron-will), [Skill Focus](../../feats#_skill-focus) ( [Heal](../../skill_dir/heal#_heal)
 
-**Skills** [Handle Animal](../../skills/handleAnimal#_handle-animal) +5, [Heal](../../skills/heal#_heal) +10, [Knowledge](../../skills/knowledge#_knowledge) (religion) +5, [Perception](../../skills/perception#_perception) +7, [Perform](../../skills/perform#_perform) (sing) +5, [Profession](../../skills/profession#_profession) (midwife) +5, [Ride](../../skills/ride#_ride) +5, [Sense Motive](../../skills/senseMotive#_sense-motive) +7, [Swim](../../skills/swim#_swim) +5
+**Skills** [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +5, [Heal](../../skill_dir/heal#_heal +10, [Knowledge](../../skill_dir/knowledge#_knowledge) (religion +5, [Perception](../../skill_dir/perception#_perception +7, [Perform](../../skill_dir/perform#_perform) (sing +5, [Profession](../../skill_dir/profession#_profession) (midwife +5, [Ride](../../skill_dir/ride#_ride +5, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +7, [Swim](../../skill_dir/swim#_swim +5
 
 **Languages** Common
 
-**Combat Gear** _potions of [cure light wounds](../../spells/cureLightWounds#_cure-light-wounds)_, _ [neutralize poison](../../spells/neutralizePoison#_neutralize-poison)_, _ [remove blindness/deafness](../../spells/removeBlindnessDeafness#_remove-blindness-deafness)_, _ [remove disease](../../spells/removeDisease#_remove-disease)_, and _ [sanctuary](../../spells/sanctuary#_sanctuary)_; vial of holy water; **Other Gear** padded armor, spear, healer's kit, wooden holy symbol, mule
+**Combat Gear** _potions of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds_, _ [neutralize poison](../../spell_dir/neutralizePoison#_neutralize-poison_, _ [remove blindness/deafness](../../spell_dir/removeBlindnessDeafness#_remove-blindness-deafness_, _ [remove disease](../../spell_dir/removeDisease#_remove-disease_, and _ [sanctuary](../../spell_dir/sanctuary#_sanctuary_; vial of holy water; **Other Gear** padded armor, spear, healer's kit, wooden holy symbol, mule
 
-**Boon** A pilgrim will tend the wounds of injured PCs with her [Heal](../../skills/heal#_heal) skill or one of her healing potions if the need is great or if the PCs make a donation to her church of at least half the potion's price.
+**Boon** A pilgrim will tend the wounds of injured PCs with her [Heal](../../skill_dir/heal#_heal) skill or one of her healing potions if the need is great or if the PCs make a donation to her church of at least half the potion's price.
 
 Pilgrims are religious mendicants who roam the long roads visiting shrines, temples, and other places sacred to their faith. They are ordinary folk, little trained in formal theology but with a passion for spreading their religion through their travels, being of service to all that they meet, and healing the hurts of a sad and lonely world.
 
@@ -163,5 +163,5 @@ Pilgrims can serve as lay priests, common healers, or village wise women in sett
 
 Replacing one of the pilgrim's commoner levels with a level of adept creates a healer that has at least limited access to healing magic. Hit Dice, hit points, base attacks bonus, and skills don't change, but the pilgrim's Will save increases to +6.
 
-A pilgrim often works alone, but two or three might staff a remote clinic (CR 5 or 6). Pilgrims can also be found in groups of four, often accompanied by four caravan guards or eight acolytes (CR 8). A single pilgrim may be served by a guard, caravan guard, or pair of acolytes (CR 4). A pilgrim in turn might serve under a shaman (CR 6), while an evil pilgrim may work with a torturer, helping to keep prisoners alive (CR 6).
+A pilgrim often works alone, but two or three might staff a remote clinic (CR 5 or 6). Pilgrims can also be found in groups of four, often accompanied by four caravan guards or eight acolytes (CR 8). A single pilgrim may be served by a guard, caravan guard, or pair of acolytes (CR 4). A pilgrim in turn might serve under a shaman (CR 6), while an evil pilgrim may work with a torturer, helping to keep prisoners alive (CR 6.
 

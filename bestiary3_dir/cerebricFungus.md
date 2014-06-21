@@ -11,7 +11,7 @@ XP 800
 
 N Medium plant
 
-**Init** +4; **Senses** darkvision 60 ft., low-light vision; [Perception](skills/perception#_perception) +12
+**Init** +4; **Senses** darkvision 60 ft., low-light vision; [Perception](skill_dir/perception#_perception) +12
 
 **Aura** unsettling appearance (60 ft., DC 14)
 
@@ -19,11 +19,11 @@ Defense
 
 **AC** 15, touch 10, flat-footed 15 (+5 natural)
 
-**hp** 30 (4d8+12); fast healing 2
+**hp** 30 (4d8+12; fast healing 2
 
 **Fort** +7, **Ref** +1, **Will** +6
 
-**Defensive Abilities** otherworldly mind; **Immune** plant traits, **Resist** [cold](monsters/creatureTypes#_cold-subtype) 5
+**Defensive Abilities** otherworldly mind; **Immune** plant traits, **Resist** [cold](monster_dir/creatureTypes#_cold-subtype) 5
 
 **Weaknesses** vulnerable to sonic
 
@@ -37,13 +37,13 @@ Offense
 
 **Special Attacks** pull (tendril, 5 ft.), star-shriek
 
-**Spell-Like Abilities** (CL 4th; concentration +6)
+**Spell-Like Abilities** (CL 4th; concentration +6
 
-Constant—_ [detect thoughts](spells/detectThoughts#_detect-thoughts)_ (DC 14)
+Constant—_ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (DC 14)
 
-At will—touch of madness (DC 14)
+At will—touch of madness (DC 14
 
-3/day—_ [calm emotions](spells/calmEmotions#_calm-emotions)_ (DC 14), _ [touch of idiocy](spells/touchOfIdiocy#_touch-of-idiocy)_ (DC 14)
+3/day—_ [calm emotions](spell_dir/calmEmotions#_calm-emotions)_ (DC 14, _ [touch of idiocy](spell_dir/touchOfIdiocy#_touch-of-idiocy)_ (DC 14)
 
 Statistics
 
@@ -51,9 +51,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +5; **CMD** 15 (21 vs. trip)
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Multiattack](monsters/monsterFeats#_multiattack)
+**Feats** [Improved Initiative](feats#_improved-initiative, [Multiattack](monster_dir/monsterFeats#_multiattack
 
-**Skills** [Bluff](skills/bluff#_bluff) +6, [Diplomacy](skills/diplomacy#_diplomacy) +6, [Perception](skills/perception#_perception) +12, [Stealth](skills/stealth#_stealth) +7
+**Skills** [Bluff](skill_dir/bluff#_bluff +6, [Diplomacy](skill_dir/diplomacy#_diplomacy +6, [Perception](skill_dir/perception#_perception +12, [Stealth](skill_dir/stealth#_stealth) +7
 
 **Languages** telepathy 100 ft.
 
@@ -73,7 +73,7 @@ Special Abilities
 
 **Touch of Madness (Sp)** The cerebric fungus may daze one living creature by making a successful touch attack. The target creature must succeed at a DC 14 Will save, or it becomes dazed for 1 round per caster level (4 rounds for most cerebric fungi). The dazed subject is not stunned (so attackers get no special advantage against it). This is a mind-affecting enchantment, equivalent to a 2nd-level spell.
 
-**Unsettling Appearance (Su)** A cerebric fungus constantly scans the minds of those around it, projecting around itself a confusing collage of images gleaned from their thoughts. Creatures within 60 feet that can see the fungus must succeed at a DC 14 Will save or take a –2 penalty on attack rolls. This is a mind-affecting effect. The save DC is Charisma-based.
+**Unsettling Appearance (Su** A cerebric fungus constantly scans the minds of those around it, projecting around itself a confusing collage of images gleaned from their thoughts. Creatures within 60 feet that can see the fungus must succeed at a DC 14 Will save or take a –2 penalty on attack rolls. This is a mind-affecting effect. The save DC is Charisma-based.
 
 Cerebric fungi are a race of carnivorous, intelligent fungi native to a distant planet. Although they are one of the lowliest life forms on their homeworld, the fungi still possess an alien intellect far beyond that of most terrestrial creatures. Cerebric fungi display great curiosity about other races and species when they visit other worlds, asking endless, apparently senseless, questions and engaging in disturbing experiments. Some eccentric scholars claim to have learned unsettling secrets from these interrogations.
 

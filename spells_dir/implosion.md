@@ -11,9 +11,9 @@ title: spells/implosion
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** one corporeal creature/round
+**Target** one corporeal creatur_dir/round
 
-**Duration** concentration (up to 1 round per 2 levels)
+**Duration** concentration (up to 1 round per 2 levels
 
 **Saving Throw** [Fortitude](../combat#_fortitude) negates; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

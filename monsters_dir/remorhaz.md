@@ -1,5 +1,5 @@
 ---
-title: monsters/remorhaz
+title: monster_dir/remorhaz
 ---
 # Remorhaz
 
@@ -11,7 +11,7 @@ _An immense centipede-like beast erupts from the snow, rows of chitinous plates 
 
 N Huge [magical beast](creatureTypes#_magical-beast)
 
-**Init** +1; **Senses** darkvision 60 ft., low-light vision, [tremorsense](universalMonsterRules#_tremorsense) 60 ft.; [Perception](../skills/perception#_perception) +16
+**Init** +1; **Senses** darkvision 60 ft., low-light vision, [tremorsense](universalMonsterRules#_tremorsense 60 ft.; [Perception](../skill_dir/perception#_perception) +16
 
 **Defense**
 
@@ -39,9 +39,9 @@ N Huge [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +9; **CMB** +17 (+21 grapple); **CMD** 28 (can't be tripped)
 
-**Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Cleave](../feats#_cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Awesome Blow](monsterFeats#_awesome-blow, [Cleave](../feats#_cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
 
-**Skills** [Perception](../skills/perception#_perception) +16
+**Skills** [Perception](../skill_dir/perception#_perception) +16
 
 **Languages** Giant (cannot speak)
 
@@ -55,7 +55,7 @@ N Huge [magical beast](creatureTypes#_magical-beast)
 
 **Special Abilities**
 
-**Heat (Su)** An enraged remorhaz generates heat so intense that anything touching its body takes 8d6 points of fire damage. Creatures striking a remorhaz with natural attacks or unarmed strikes are subject to this damage, but creatures striking with melee weapons are not. The heat can melt or burn weapons; any weapon that strikes a remorhaz is allowed a DC 19 Fortitude save to avoid taking damage. The save DC is Constitution-based.
+**Heat (Su** An enraged remorhaz generates heat so intense that anything touching its body takes 8d6 points of fire damage. Creatures striking a remorhaz with natural attacks or unarmed strikes are subject to this damage, but creatures striking with melee weapons are not. The heat can melt or burn weapons; any weapon that strikes a remorhaz is allowed a DC 19 Fortitude save to avoid taking damage. The save DC is Constitution-based.
 
 In a world of ice and snow, the remorhaz is particularly feared for the terrible fires that burn within its body. These internal fires cause the armor plates along its back to glow red-hot when the creature is particularly angry, excited, or in pain. Creatures adapted to arctic regions are often particularly vulnerable to fire, making the remorhaz's primary defense an incredibly potent one and securing its role as a dangerous predator in such frozen reaches.
 

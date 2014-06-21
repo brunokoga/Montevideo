@@ -1,9 +1,9 @@
 ---
-title: spells/prayer
+title: spell_dir/prayer
 ---
  **Prayer**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 3, paladin 3
+**School** enchantment (compulsion [mind-affecting]; **Level** cleric 3, paladin 3
 
 **Casting Time** 1 standard action
 

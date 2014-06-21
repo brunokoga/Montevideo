@@ -5,114 +5,114 @@ title: spells/summonNatureSAlly
 
 [Table: Summon Nature's Ally]| 1st Level | Subtype |
 | --- | --- |
-| [Dire rat](../monsters/rat#_rat-dire) | — |
-| [Dog](../monsters/dog#_dog) | — |
-| [Dolphin](../monsters/dolphin#_dolphin) | — |
-| [Eagle](../monsters/eagle#_eagle) | — |
-| [Giant centipede](../monsters/centipede#_centipede-giant) | — |
-| [Fire beetle](../monsters/beetle#_beetle-fire) | — |
-| [Mite (gremlin)](../monsters/mite#_mite) | — |
-| [Poisonous frog](../monsters/frog#_frog-poison) | — |
-| [Pony (horse)](../monsters/horse#_horse-pony) | — |
-| [Stirge](../monsters/stirge#_stirge) | — |
-| [Viper (snake)](../monsters/familiar#_viper) | — |
+| [Dire rat](../monster_dir/rat#_rat-dire | — |
+| [Dog](../monster_dir/dog#_dog | — |
+| [Dolphin](../monster_dir/dolphin#_dolphin | — |
+| [Eagle](../monster_dir/eagle#_eagle | — |
+| [Giant centipede](../monster_dir/centipede#_centipede-giant | — |
+| [Fire beetle](../monster_dir/beetle#_beetle-fire) | — |
+| [Mite (gremlin](../monster_dir/mite#_mite | — |
+| [Poisonous frog](../monster_dir/frog#_frog-poison) | — |
+| [Pony (horse](../monster_dir/horse#_horse-pony | — |
+| [Stirge](../monster_dir/stirge#_stirge) | — |
+| [Viper (snake](../monster_dir/familiar#_viper) | — |
 | 2nd Level | Subtype |
 | --- | --- |
-| [Ant, giant (worker)](../monsters/ant#_ant-giant) | — |
-| [Elemental (Small)](../monsters/elemental#_) | Elemental |
-| [Giant frog](../monsters/frog#_frog-giant) | — |
-| [Giant spider](../monsters/spider#_spider-giant) | — |
-| [Goblin Dog](../monsters/goblinDog#_goblin-dog) | — |
-| [Horse](../monsters/horse#_horse) | — |
-| [Hyena](../monsters/hyena#_hyena) | — |
-| [Octopus](../monsters/octopus#_octopus) | — |
-| [Squid](../monsters/squid#_squid) | — |
-| [Wolf](../monsters/wolf#_wolf) | — |
+| [Ant, giant (worker](../monster_dir/ant#_ant-giant) | — |
+| [Elemental (Small](../monster_dir/elemental#_ | Elemental |
+| [Giant frog](../monster_dir/frog#_frog-giant | — |
+| [Giant spider](../monster_dir/spider#_spider-giant | — |
+| [Goblin Dog](../monster_dir/goblinDog#_goblin-dog | — |
+| [Horse](../monster_dir/horse#_horse | — |
+| [Hyena](../monster_dir/hyena#_hyena | — |
+| [Octopus](../monster_dir/octopus#_octopus | — |
+| [Squid](../monster_dir/squid#_squid | — |
+| [Wolf](../monster_dir/wolf#_wolf) | — |
 | 3rd Level | Subtype |
 | --- | --- |
-| [Ant, giant (soldier)](../monsters/ant#_ant-giant) | — |
-| [Ape](../monsters/ape#_ape) | — |
-| [Aurochs (herd animal)](../monsters/herdAnimal#_herd-animal-aurochs) | — |
-| [Boar](../monsters/boar#_boar) | — |
-| [Cheetah](../monsters/cat#_cat-cheetah) | — |
-| [Constrictor snake](../monsters/snake#_snake-constrictor) | — |
-| [Crocodile](../monsters/crocodile#_crocodile) | — |
-| [Dire bat](../monsters/bat#_bat-dire) | — |
-| [Electric Eel](../monsters/eel#_eel-electric) | — |
-| [Giant crab](../monsters/crab#_crab-giant) | — |
-| [Leopard (cat)](../monsters/cat#_cat-leopard) | — |
-| [Monitor lizard](../monsters/lizard#_lizard-monitor) | — |
-| [Shark](../monsters/shark#_shark) | — |
-| [Wolverine](../monsters/wolverine#_wolverine) | — |
+| [Ant, giant (soldier](../monster_dir/ant#_ant-giant | — |
+| [Ape](../monster_dir/ape#_ape) | — |
+| [Aurochs (herd animal](../monster_dir/herdAnimal#_herd-animal-aurochs | — |
+| [Boar](../monster_dir/boar#_boar | — |
+| [Cheetah](../monster_dir/cat#_cat-cheetah | — |
+| [Constrictor snake](../monster_dir/snake#_snake-constrictor | — |
+| [Crocodile](../monster_dir/crocodile#_crocodile | — |
+| [Dire bat](../monster_dir/bat#_bat-dire | — |
+| [Electric Eel](../monster_dir/eel#_eel-electric | — |
+| [Giant crab](../monster_dir/crab#_crab-giant) | — |
+| [Leopard (cat](../monster_dir/cat#_cat-leopard | — |
+| [Monitor lizard](../monster_dir/lizard#_lizard-monitor | — |
+| [Shark](../monster_dir/shark#_shark | — |
+| [Wolverine](../monster_dir/wolverine#_wolverine) | — |
 | 4th Level | Subtype |
 | --- | --- |
-| [Ant, giant (drone)](../monsters/ant#_ant-giant) | — |
-| [Bison (herd animal)](../monsters/herdAnimal#_herd-animal-bison) | — |
-| [Deinonychus (dinosaur)](../monsters/dinosaur#_dinosaur-deinonychus) | — |
-| [Dire ape](../monsters/ape#_ape-dire) | — |
-| [Dire boar](../monsters/boar#_boar-dire) | — |
-| [Dire wolf](../monsters/wolf#_wolf-dire) | — |
-| [Elemental (Medium)](../monsters/elemental#_) | Elemental |
-| [Giant scorpion](../monsters/scorpion#_scorpion-giant) | — |
-| [Giant stag beetle](../monsters/beetle#_beetle-giant-stag) | — |
-| [Giant wasp](../monsters/wasp#_wasp-giant) | — |
-| [Griffon](../monsters/griffon#_griffon) | — |
-| [Grizzly bear](../monsters/bear#_bear-grizzly) | — |
-| [Lion](../monsters/lion#_lion) | — |
-| [Mephit (any)](../monsters/mephit#_) | Elemental |
-| [Owlbear](../monsters/owlbear#_owlbear) | — |
-| [Pteranodon (dinosaur)](../monsters/dinosaur#_dinosaur-pteranodon) | — |
-| [Rhinoceros](../monsters/rhinoceros#_rhinoceros) | — |
-| [Satyr](../monsters/satyr#_satyr) | — |
-| [Tiger](../monsters/tiger#_tiger) | — |
+| [Ant, giant (drone](../monster_dir/ant#_ant-giant) | — |
+| [Bison (herd animal](../monster_dir/herdAnimal#_herd-animal-bison) | — |
+| [Deinonychus (dinosaur](../monster_dir/dinosaur#_dinosaur-deinonychus | — |
+| [Dire ape](../monster_dir/ape#_ape-dire | — |
+| [Dire boar](../monster_dir/boar#_boar-dire | — |
+| [Dire wolf](../monster_dir/wolf#_wolf-dire) | — |
+| [Elemental (Medium](../monster_dir/elemental#_ | Elemental |
+| [Giant scorpion](../monster_dir/scorpion#_scorpion-giant | — |
+| [Giant stag beetle](../monster_dir/beetle#_beetle-giant-stag | — |
+| [Giant wasp](../monster_dir/wasp#_wasp-giant | — |
+| [Griffon](../monster_dir/griffon#_griffon | — |
+| [Grizzly bear](../monster_dir/bear#_bear-grizzly | — |
+| [Lion](../monster_dir/lion#_lion) | — |
+| [Mephit (any](../monster_dir/mephit#_ | Elemental |
+| [Owlbear](../monster_dir/owlbear#_owlbear) | — |
+| [Pteranodon (dinosaur](../monster_dir/dinosaur#_dinosaur-pteranodon | — |
+| [Rhinoceros](../monster_dir/rhinoceros#_rhinoceros | — |
+| [Satyr](../monster_dir/satyr#_satyr | — |
+| [Tiger](../monster_dir/tiger#_tiger) | — |
 | 5th Level | Subtype |
 | --- | --- |
-| [Ankylosaurus (dinosaur)](../monsters/dinosaur#_dinosaur-anklosaurus) | — |
-| [Cyclops](../monsters/cyclops#_cyclops) | — |
-| [Dire lion](../monsters/lion#_lion-dire) | — |
-| [Dolphin (orca)](../monsters/dolphin#_dolphin-orca) | — |
-| [Elemental (Large)](../monsters/elemental#_) | Elemental |
-| [Ettin](../monsters/ettin#_ettin) | — |
-| [Giant moray eel](../monsters/eel#_eel-giant-moray) | — |
-| [Girallon](../monsters/girallon#_girallon) | — |
-| [Manticore](../monsters/manticore#_manticore) | — |
-| [Woolly rhinoceros](../monsters/rhinoceros#_rhinoceros-woolly) | — |
+| [Ankylosaurus (dinosaur](../monster_dir/dinosaur#_dinosaur-anklosaurus | — |
+| [Cyclops](../monster_dir/cyclops#_cyclops | — |
+| [Dire lion](../monster_dir/lion#_lion-dire) | — |
+| [Dolphin (orca](../monster_dir/dolphin#_dolphin-orca) | — |
+| [Elemental (Large](../monster_dir/elemental#_ | Elemental |
+| [Ettin](../monster_dir/ettin#_ettin | — |
+| [Giant moray eel](../monster_dir/eel#_eel-giant-moray | — |
+| [Girallon](../monster_dir/girallon#_girallon | — |
+| [Manticore](../monster_dir/manticore#_manticore | — |
+| [Woolly rhinoceros](../monster_dir/rhinoceros#_rhinoceros-woolly | — |
 | 6th Level | Subtype |
 | --- | --- |
-| [Bulette](../monsters/bulette#_bulette) | — |
-| [Dire bear](../monsters/bear#_bear-dire) | — |
-| [Dire tiger](../monsters/tiger#_tiger-dire) | — |
-| [Elasmosaurus (dinosaur)](../monsters/dinosaur#_dinosaur-elasmosaurus) | — |
-| [Elemental (Huge)](../monsters/elemental#_) | Elemental |
-| [Elephant](../monsters/elephant#_elephant) | — |
-| [Giant octopus](../monsters/octopus#_octopus-giant) | — |
-| [Hill giant](../monsters/giant#_giant-hill) | — |
-| [Stegosaurus (dinosaur)](../monsters/dinosaur#_dinosaur-dtegosaurus) | — |
-| [Stone giant](../monsters/giant#_giant-stone) | Earth |
-| [Triceratops (dinosaur)](../monsters/dinosaur#_dinosaur-triceratops) | — |
+| [Bulette](../monster_dir/bulette#_bulette | — |
+| [Dire bear](../monster_dir/bear#_bear-dire | — |
+| [Dire tiger](../monster_dir/tiger#_tiger-dire) | — |
+| [Elasmosaurus (dinosaur](../monster_dir/dinosaur#_dinosaur-elasmosaurus) | — |
+| [Elemental (Huge](../monster_dir/elemental#_ | Elemental |
+| [Elephant](../monster_dir/elephant#_elephant | — |
+| [Giant octopus](../monster_dir/octopus#_octopus-giant | — |
+| [Hill giant](../monster_dir/giant#_giant-hill) | — |
+| [Stegosaurus (dinosaur](../monster_dir/dinosaur#_dinosaur-dtegosaurus | — |
+| [Stone giant](../monster_dir/giant#_giant-stone) | Earth |
+| [Triceratops (dinosaur](../monster_dir/dinosaur#_dinosaur-triceratops) | — |
 | 7th Level | Subtype |
 | --- | --- |
-| [Brachiosaurus (dinosaur)](../monsters/dinosaur#_dinosaur-brachiosaurus) | — |
-| [Dire crocodile](../monsters/crocodile#_crocodile-dire) | — |
-| [Dire shark](../monsters/shark#_shark-dire) | — |
-| [Elemental (greater)](../monsters/elemental#_) | Elemental |
-| [Fire giant](../monsters/giant#_giant-fire) | Fire |
-| [Frost giant](../monsters/giant#_giant-frost) | Cold |
-| [Giant squid](../monsters/squid#_squid-giant) | — |
-| [Mastadon (elephant)](../monsters/elephant#_elephant-mastodon) | — |
-| [Roc](../monsters/roc#_roc) | — |
-| [Tyrannosaurus (dinosaur)](../monsters/dinosaur#_dinosaur-tyrannosaurus) | — |
+| [Brachiosaurus (dinosaur](../monster_dir/dinosaur#_dinosaur-brachiosaurus | — |
+| [Dire crocodile](../monster_dir/crocodile#_crocodile-dire | — |
+| [Dire shark](../monster_dir/shark#_shark-dire) | — |
+| [Elemental (greater](../monster_dir/elemental#_ | Elemental |
+| [Fire giant](../monster_dir/giant#_giant-fire | Fire |
+| [Frost giant](../monster_dir/giant#_giant-frost | Cold |
+| [Giant squid](../monster_dir/squid#_squid-giant) | — |
+| [Mastadon (elephant](../monster_dir/elephant#_elephant-mastodon | — |
+| [Roc](../monster_dir/roc#_roc) | — |
+| [Tyrannosaurus (dinosaur](../monster_dir/dinosaur#_dinosaur-tyrannosaurus | — |
 | 8th Level | Subtype |
 | --- | --- |
-| [Cloud giant](../monsters/giant#_giant-cloud) | Air |
-| [Elemental (elder)](../monsters/elemental#_) | Elemental |
-| [Purple worm](../monsters/purpleWorm#_purple-worm) | — |
+| [Cloud giant](../monster_dir/giant#_giant-cloud) | Air |
+| [Elemental (elder](../monster_dir/elemental#_ | Elemental |
+| [Purple worm](../monster_dir/purpleWorm#_purple-worm | — |
 | 9th Level | Subtype |
 | --- | --- |
-| [Pixie (w/irresistible dance and sleep arrows)](../monsters/pixie#_pixie) | — |
-| [Storm giant](../monsters/giant#_giant-storm) | — |
+| [Pixie (_dir/irresistible dance and sleep arrows](../monster_dir/pixie#_pixie | — |
+| [Storm giant](../monster_dir/giant#_giant-storm) | — |
 
-**School** conjuration (summoning); **Level** druid 1, ranger 1
+**School** conjuration (summoning; **Level** druid 1, ranger 1
 
 **Casting Time** 1 round
 
@@ -122,7 +122,7 @@ title: spells/summonNatureSAlly
 
 **Effect** one summoned creature
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

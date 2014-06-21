@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/naturalRhythm
+title: advanced/spell_dir/naturalRhythm
 ---
  **Natural Rhythm**
 
@@ -7,15 +7,15 @@ title: advanced/spells/naturalRhythm
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a handful of pebbles dropped one by one onto the ground)
+**Components** V, S, M (a handful of pebbles dropped one by one onto the ground
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-You enhance a creature's ability to harm an opponent based on the number of times it has already injured that opponent with a natural attack. Each time the creature successfully strikes an opponent with a natural attack, the subject gains a cumulative +1 bonus on damage rolls made against that opponent when making natural attacks (maximum +5 bonus). If an attack misses, the bonus to damage for all attacks resets to +0.
+You enhance a creature's ability to harm an opponent based on the number of times it has already injured that opponent with a natural attack. Each time the creature successfully strikes an opponent with a natural attack, the subject gains a cumulative +1 bonus on damage rolls made against that opponent when making natural attacks (maximum +5 bonus. If an attack misses, the bonus to damage for all attacks resets to +0.
 

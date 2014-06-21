@@ -1,5 +1,5 @@
 ---
-title: spells/sympatheticVibration
+title: spell_dir/sympatheticVibration
 ---
  **Sympathetic Vibration**
 
@@ -7,7 +7,7 @@ title: spells/sympatheticVibration
 
 **Casting Time** 10 minutes
 
-**Components** V, S, F (a tuning fork)
+**Components** V, S, F (a tuning fork
 
 **Range** touch
 

@@ -11,9 +11,9 @@ Something seems strange and disturbingly familiar about this wispy, ghostly huma
 
 Human petitioner
 
-Any alignment Medium [outsider](monsters/creatureTypes#_outsider) ( [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+Any alignment Medium [outsider](monster_dir/creatureTypes#_outsider ( [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
 
-**Init** +0; **Senses** darkvision 60 ft., [Perception](additionalMonsters/../skills/perception#_perception) +5
+**Init** +0; **Senses** darkvision 60 ft., [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
 
 Defense
 
@@ -29,7 +29,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** slam +2 (1d4)
+**Melee** slam +2 (1d4
 
 Statistics
 
@@ -39,7 +39,7 @@ Statistics
 
 **Feats** [Toughness](additionalMonsters/../feats#_toughness)
 
-**Skills** [Craft](additionalMonsters/../skills/craft#_craft) (any two) +5, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (planes) +5, [Perception](additionalMonsters/../skills/perception#_perception) +5, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +5, [Stealth](additionalMonsters/../skills/stealth#_stealth) +5
+**Skills** [Craft](additionalMonsters/../skill_dir/craft#_craft) (any two +5, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +5, [Perception](additionalMonsters/../skill_dir/perception#_perception +5, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +5
 
 **Languages** Common
 
@@ -63,7 +63,7 @@ Creatures who die, become petitioners, and then return to life retain no memorie
 
 ## Creating a Petitioner
 
-“Petitioner” is an acquired template that can be added to any creature whose soul migrates to one of the Outer Planes following its death (henceforth referred to as the base creature). The petitioner uses all of the base creature's statistics and abilities except as noted below.
+“Petitioner” is an acquired template that can be added to any creature whose soul migrates to one of the Outer Planes following its death (henceforth referred to as the base creature. The petitioner uses all of the base creature's statistics and abilities except as noted below.
 
 **CR** : A petitioner's CR is 1. In some cases, at the GM's discretion, particularly large or unusual petitioners with higher than normal ability scores may begin with a higher CR; compare the petitioner's statistics to the values on Table 1–1 on page 293 to help determine an unusual petitioner's starting CR.
 

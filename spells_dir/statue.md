@@ -3,17 +3,17 @@ title: spells/statue
 ---
  **Statue**
 
-**School** transmutation; **Level** sorcerer/wizard 7
+**School** transmutation; **Level** sorcere_dir/wizard 7
 
 **Casting Time** 1 round
 
-**Components** V, S, M (lime, sand, and a drop of water stirred by an iron spike)
+**Components** V, S, M (lime, sand, and a drop of water stirred by an iron spike
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hou_dir/level (D
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

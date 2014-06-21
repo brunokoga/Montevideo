@@ -13,13 +13,13 @@ Human fighter 2
 
 N Medium humanoid
 
-**Init** +5; **Senses** [Perception](../../skills/perception#_perception) +4
+**Init** +5; **Senses** [Perception](../../skill_dir/perception#_perception) +4
 
 **Defense**
 
 **AC** 19, touch 11, flat-footed 18 (+7 armor, +1 Dex, +1 shield)
 
-**hp** 16 (2d10+5)
+**hp** 16 (2d10+5
 
 **Fort** +5, **Ref** +1, **Will** +1; +1 vs. fear
 
@@ -41,11 +41,11 @@ N Medium humanoid
 
 **Feats** [Alertness](../../feats#_alertness), [Animal Affinity](../../feats#_animal-affinity), [Improved Initiative](../../feats#_improved-initiative), [Rapid Reload](../../feats#_rapid-reload)
 
-**Skills** [Handle Animal](../../skills/handleAnimal#_handle-animal) +5, [Intimidate](../../skills/intimidate#_intimidate) +3, [Perception](../../skills/perception#_perception) +4, [Profession](../../skills/profession#_profession) (drover) +5, [Ride](../../skills/ride#_ride) +1, [Sense Motive](../../skills/senseMotive#_sense-motive) +3, [Survival](../../skills/survival#_survival) +5
+**Skills** [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +5, [Intimidate](../../skill_dir/intimidate#_intimidate +3, [Perception](../../skill_dir/perception#_perception +4, [Profession](../../skill_dir/profession#_profession) (drover +5, [Ride](../../skill_dir/ride#_ride +1, [Sense Motive](../../skill_dir/senseMotive#_sense-motive +3, [Survival](../../skill_dir/survival#_survival) +5
 
 **Languages** Common
 
-**Gear** banded mail, buckler, heavy crossbow with 10 bolts, kukri, lance, longsword, light horse (combat trained) with saddle, 1 gp
+**Gear** banded mail, buckler, heavy crossbow with 10 bolts, kukri, lance, longsword, light horse (combat trained with saddle, 1 gp
 
 **Boon** Caravan guards can arrange for PCs to travel with a caravan to a destination of their choice, either as guests or as guards.
 
@@ -63,13 +63,13 @@ Human fighter 8
 
 N Medium humanoid
 
-**Init** +6; **Senses** [Perception](../../skills/perception#_perception) +8
+**Init** +6; **Senses** [Perception](../../skill_dir/perception#_perception) +8
 
 **Defense**
 
 **AC** 25, touch 12, flat-footed 23 (+10 armor, +2 Dex, +3 shield)
 
-**hp** 80 (8d10+36)
+**hp** 80 (8d10+36
 
 **Fort** +10, **Ref** +5, **Will** +6; +2 vs. fear
 
@@ -93,13 +93,13 @@ N Medium humanoid
 
 **Feats** [Cleave](../../feats#_cleave), [Improved Critical](../../feats#_improved-critical) (bastard sword), [Improved Initiative](../../feats#_improved-initiative), [Improved Iron Will](../../feats#_improved-iron-will), [Iron Will](../../feats#_iron-will), [Power Attack](../../feats#_power-attack), [Toughness](../../feats#_toughness), [Vital Strike](../../feats#_vital-strike), [Weapon Focus](../../feats#_weapon-focus) (bastard sword), [Weapon Specialization](../../feats#_weapon-specialization) (bastard sword)
 
-**Skills** [Intimidate](../../skills/intimidate#_intimidate) +7, [Knowledge](../../skills/knowledge#_knowledge) (dungeoneering) +5, [Perception](../../skills/perception#_perception) +8, [Profession](../../skills/profession#_profession) (soldier) +5, [Ride](../../skills/ride#_ride) +8, [Survival](../../skills/survival#_survival) +10
+**Skills** [Intimidate](../../skill_dir/intimidate#_intimidate +7, [Knowledge](../../skill_dir/knowledge#_knowledge) (dungeoneering +5, [Perception](../../skill_dir/perception#_perception +8, [Profession](../../skill_dir/profession#_profession) (soldier +5, [Ride](../../skill_dir/ride#_ride +8, [Survival](../../skill_dir/survival#_survival +10
 
 **Languages** Common
 
 **SQ** armor training 2
 
-**Combat Gear** _potion of [align weapon](../../spells/alignWeapon#_align-weapon)_, _potion of [bull's strength](../../spells/bullSStrength#_bull-s-strength), potions of [cure light wounds](../../spells/cureLightWounds#_cure-light-wounds) _(2); **Other Gear** _+1 full plate_, _+1 heavy steel [shield](../../spells/shield#_shield)_, _+1 bastard sword_, spiked gauntlet, javelins (5), _ [cloak of resistance](../../magicItems/wondrousItems#_cloak-of-resistance) +1_, 40 gp
+**Combat Gear** _potion of [align weapon](../../spell_dir/alignWeapon#_align-weapon_, _potion of [bull's strength](../../spell_dir/bullSStrength#_bull-s-strength, potions of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds) _(2; **Other Gear** _+1 full plate_, _+1 heavy steel [shield](../../spell_dir/shield#_shield)_, _+1 bastard sword_, spiked gauntlet, javelins (5, _ [cloak of resistance](../../magicItem_dir/wondrousItems#_cloak-of-resistance +1_, 40 gp
 
 **Boon** A sellsword may use her connections to help PCs buy +1 weapons or armor at a 10% discount, or lend her reputation to a PC with [Leadership](../../feats#_leadership), granting a +1 [Leadership](../../feats#_leadership) score bonus for 1 month to recruit warrior followers.
 
@@ -117,13 +117,13 @@ Human ranger 12
 
 N Medium humanoid
 
-**Init** +5; **Senses** [Perception](../../skills/perception#_perception) +16
+**Init** +5; **Senses** [Perception](../../skill_dir/perception#_perception) +16
 
 **Defense**
 
 **AC** 22, touch 15, flat-footed 17 (+5 armor, +5 Dex, +2 shield)
 
-**hp** 98 (12d10+32)
+**hp** 98 (12d10+32
 
 **Fort** +10, **Ref** +13, **Will** +5
 
@@ -135,17 +135,17 @@ N Medium humanoid
 
 **Melee** mwk rapier +18/+13/+8 (1d6+2/18–20) or mwk sap +18/+13/+8 (1d6+2 nonlethal)
 
-**Ranged** _+1 [merciful](../../magicItems/weapons#_weapons-merciful) composite longbow_ +18/+13/+8 (1d8+3/×3 plus 1d6 nonlethal) or _+1 [merciful](../../magicItems/weapons#_weapons-merciful) composite longbow _+16/+16/+11/+6 (1d8+3/×3 plus 1d6 nonlethal)
+**Ranged** _+1 [merciful](../../magicItem_dir/weapons#_weapons-merciful composite longbow_ +18/+13/+8 (1d8+3/×3 plus 1d6 nonlethal) or _+1 [merciful](../../magicItem_dir/weapons#_weapons-merciful composite longbow _+16/+16/+11/+6 (1d8+3/×3 plus 1d6 nonlethal)
 
 **Special Attacks** favored enemy (humanoids [human] +6, humanoids [elf] +2, humanoids [halfling] +2), quarry
 
 **Ranger Spells Prepared** (CL 9th; concentration +10)
 
-3rd—_ [plant growth](../../spells/plantGrowth#_plant-growth)_
+3rd—_ [plant growth](../../spell_dir/plantGrowth#_plant-growth_
 
-2nd—_ [barkskin](../../spells/barkskin#_barkskin)_, _ [protection from energy](../../spells/protectionFromEnergy#_protection-from-energy)_
+2nd—_ [barkskin](../../spell_dir/barkskin#_barkskin_, _ [protection from energy](../../spell_dir/protectionFromEnergy#_protection-from-energy_
 
-1st—_ [delay poison](../../spells/delayPoison#_delay-poison)_, _ [entangle](../../spells/entangle#_entangle) _(DC 12), _ [longstrider](../../spells/longstrider#_longstrider)_
+1st—_ [delay poison](../../spell_dir/delayPoison#_delay-poison_, _ [entangle](../../spell_dir/entangle#_entangle) _(DC 12, _ [longstrider](../../spell_dir/longstrider#_longstrider_
 
 **Statistics**
 
@@ -155,15 +155,15 @@ N Medium humanoid
 
 **Feats** [Deadly Aim](../../feats#_deadly-aim), [Endurance](../../feats#_endurance), [Improved Precise Shot](../../feats#_improved-precise-shot), [Improved Vital Strike](../../feats#_improved-vital-strike), [Manyshot](../../feats#_manyshot), Pinpoint Targeting, Point Blank Shot, [Precise Shot](../../feats#_precise-shot), [Rapid Shot](../../feats#_rapid-shot), [Vital Strike](../../feats#_vital-strike), [Weapon Finesse](../../feats#_weapon-finesse)
 
-**Skills** [Climb](../../skills/climb#_climb) +10, [Craft](../../skills/craft#_craft) (traps) +10, [Handle Animal](../../skills/handleAnimal#_handle-animal) +14, [Heal](../../skills/heal#_heal) +5, [Intimidate](../../skills/intimidate#_intimidate) +14, [Knowledge](../../skills/knowledge#_knowledge) (geography) +5, [Knowledge](../../skills/knowledge#_knowledge) (local) +1, [Knowledge](../../skills/knowledge#_knowledge) (nature) +5, [Linguistics](../../skills/linguistics#_linguistics) +2, [Perception](../../skills/perception#_perception) +16, [Ride](../../skills/ride#_ride) +12, [Stealth](../../skills/stealth#_stealth) +24, [Survival](../../skills/survival#_survival) +16 (+22 to follow tracks), [Swim](../../skills/swim#_swim) +6
+**Skills** [Climb](../../skill_dir/climb#_climb +10, [Craft](../../skill_dir/craft#_craft) (traps +10, [Handle Animal](../../skill_dir/handleAnimal#_handle-animal +14, [Heal](../../skill_dir/heal#_heal +5, [Intimidate](../../skill_dir/intimidate#_intimidate +14, [Knowledge](../../skill_dir/knowledge#_knowledge) (geography +5, [Knowledge](../../skill_dir/knowledge#_knowledge) (local +1, [Knowledge](../../skill_dir/knowledge#_knowledge) (nature +5, [Linguistics](../../skill_dir/linguistics#_linguistics +2, [Perception](../../skill_dir/perception#_perception +16, [Ride](../../skill_dir/ride#_ride +12, [Stealth](../../skill_dir/stealth#_stealth +24, [Survival](../../skill_dir/survival#_survival) +16 (+22 to follow tracks, [Swim](../../skill_dir/swim#_swim) +6
 
 **Languages** Common, Elven, Halfling
 
-**SQ** camouflage, favored terrain (urban +4, underground +2), hunter's bond (tiger animal companion), swift tracker, track +6, wild empathy +11, woodland stride
+**SQ** camouflage, favored terrain (urban +4, underground +2), hunter's bond (tiger animal companion, swift tracker, track +6, wild empathy +11, woodland stride
 
-**Combat Gear** _wand of [cure light wounds](../../spells/cureLightWounds#_cure-light-wounds)_ (CL 1, 50 charges), _wand of [speak with animals](../../spells/speakWithAnimals#_speak-with-animals) _(CL 1, 50 charges), tanglefoot bags (2); **Other Gear** _+1 chain shirt_, _+1 buckler_, _+1 [merciful](../../magicItems/weapons#_weapons-merciful) composite longbow_ (+2 Str) with 20 arrows, masterwork rapier, masterwork sap, _ [belt of incredible dexterity](../../magicItems/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [cloak of elvenkind](../../magicItems/wondrousItems#_cloak-of-elvenkind)_, blue whinnis (6 doses), purple worm poison (1 dose), 11 gp
+**Combat Gear** _wand of [cure light wounds](../../spell_dir/cureLightWounds#_cure-light-wounds)_ (CL 1, 50 charges, _wand of [speak with animals](../../spell_dir/speakWithAnimals#_speak-with-animals) _(CL 1, 50 charges), tanglefoot bags (2; **Other Gear** _+1 chain shirt_, _+1 buckler_, _+1 [merciful](../../magicItem_dir/weapons#_weapons-merciful) composite longbow_ (+2 Str with 20 arrows, masterwork rapier, masterwork sap, _ [belt of incredible dexterity](../../magicItem_dir/wondrousItems#_belt-of-incredible-dexterity +2_, _ [cloak of elvenkind](../../magicItem_dir/wondrousItems#_cloak-of-elvenkind)_, blue whinnis (6 doses), purple worm poison (1 dose), 11 gp
 
 **Boon** A bounty hunter can arrange to kidnap an NPC of 10th level or less for the PCs at half his usual fee.
 
-Bounty hunters rarely hunt animals or beasts. Instead, they make not only sport but a lucrative business of capturing humanoid targets at the behest of wealthy patrons. Bounty hunters often work alone, but may lead a press gang of a sellsword, torturer, and two slavers (CR 12).
+Bounty hunters rarely hunt animals or beasts. Instead, they make not only sport but a lucrative business of capturing humanoid targets at the behest of wealthy patrons. Bounty hunters often work alone, but may lead a press gang of a sellsword, torturer, and two slavers (CR 12.
 

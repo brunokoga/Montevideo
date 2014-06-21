@@ -3,11 +3,11 @@ title: spells/protectionFromArrows
 ---
  **Protection from Arrows**
 
-**School** abjuration; **Level** sorcerer/wizard 2
+**School** abjuration; **Level** sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a piece of tortoiseshell or turtle shell)
+**Components** V, S, F (a piece of tortoiseshell or turtle shell
 
 **Range** touch
 

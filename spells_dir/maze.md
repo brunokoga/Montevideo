@@ -1,9 +1,9 @@
 ---
-title: spells/maze
+title: spell_dir/maze
 ---
  **Maze**
 
-**School** conjuration (teleportation); **Level** sorcerer/wizard 8
+**School** conjuration (teleportation; **Level** sorcerer/wizard 8
 
 **Casting Time** 1 standard action
 

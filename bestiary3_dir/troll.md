@@ -9,17 +9,17 @@ Jotund Troll CR 15
 
 XP 51,200
 
-CE Huge humanoid ( [giant](monsters/creatureTypes#_giant-subtype))
+CE Huge humanoid ( [giant](monster_dir/creatureTypes#_giant-subtype)
 
-**Init** +3; **Senses** [all-around vision](monsters/universalMonsterRules#_all-around-vision), low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +26
+**Init** +3; **Senses** [all-around vision](monster_dir/universalMonsterRules#_all-around-vision, low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +26
 
 Defense
 
 **AC** 30, touch 7, flat-footed 30 (–1 Dex, +23 natural, –2 size)
 
-**hp** 216 (16d8+144); regeneration 10 (acid or [fire](monsters/creatureTypes#_fire-subtype))
+**hp** 216 (16d8+144; regeneration 10 (acid or [fire](monster_dir/creatureTypes#_fire-subtype))
 
-**Fort** +16, **Ref** +6, **Will** +13 (+17 vs. mind-affecting effects)
+**Fort** +16, **Ref** +6, **Will** +13 (+17 vs. mind-affecting effects
 
 **Defensive Abilities** multiple minds; **Immune** confusion and insanity effects
 
@@ -27,30 +27,30 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** club +20/+15/+10 (2d6+10/19–20), bite +15 (2d6+5 plus [grab](monsters/universalMonsterRules#_grab)), claw +15 (1d8+5 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** club +20/+15/+10 (2d6+10/19–20), bite +15 (2d6+5 plus [grab](monster_dir/universalMonsterRules#_grab), claw +15 (1d8+5 plus [grab](monster_dir/universalMonsterRules#_grab))
 
-**Ranged** rock +10 (2d8+15)
+**Ranged** rock +10 (2d8+15
 
 **Space** 15 ft.; **Reach** 15 ft.
 
-**Special Attacks** all-seeing attacks, cacophonous roar, [fast swallow](monsters/universalMonsterRules#_fast-swallow), rock throwing (120 ft.), swallow whole (4d6+15 bludgeoning, AC 21, 21 hp)
+**Special Attacks** all-seeing attacks, cacophonous roar, [fast swallow](monster_dir/universalMonsterRules#_fast-swallow), rock throwing (120 ft.), swallow whole (4d6+15 bludgeoning, AC 21, 21 hp)
 
 Statistics
 
 **Str** 31, **Dex** 8, **Con** 29, **Int** 10, **Wis** 17, **Cha** 6
 
-**Base Atk** +12; **CMB** +24 (+28 grapple); **CMD** 33
+**Base Atk** +12; **CMB** +24 (+28 grapple; **CMD** 33
 
-**Feats** [Awesome Blow](monsters/monsterFeats#_awesome-blow), [Great Fortitude](feats#_great-fortitude), Improved Bull Rush, [Improved Critical](feats#_improved-critical) (club), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Vital Strike](feats#_vital-strike)
+**Feats** [Awesome Blow](monster_dir/monsterFeats#_awesome-blow), [Great Fortitude](feats#_great-fortitude), Improved Bull Rush, [Improved Critical](feats#_improved-critical) (club), [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Power Attack](feats#_power-attack), [Vital Strike](feats#_vital-strike
 
-**Skills** [Climb](skills/climb#_climb) +29, [Perception](skills/perception#_perception) +26; **Racial Modifiers**   
-+4 [Perception](skills/perception#_perception)
+**Skills** [Climb](skill_dir/climb#_climb +29, [Perception](skill_dir/perception#_perception +26; **Racial Modifiers**   
++4 [Perception](skill_dir/perception#_perception
 
-**Languages** [Giant](monsters/creatureTypes#_giant-subtype)
+**Languages** [Giant](monster_dir/creatureTypes#_giant-subtype
 
 Ecology
 
-**Environment** [cold](monsters/creatureTypes#_cold-subtype) hills or mountains
+**Environment** [cold](monster_dir/creatureTypes#_cold-subtype) hills or mountains
 
 **Organization** solitary or war party (1 jotund troll plus 2–5 hill giants or 3–12 ogres)
 
@@ -62,7 +62,7 @@ SPECIAL ABILITIES
 
 **Cacophonous Roar (Su)** Once every 1d4 rounds as a standard action, a jotund troll can emit a cacophonous roar from its nine heads. All creatures within a 60-foot spread of the troll must make a DC 19 Will save or become confused for 1d4 rounds. This is a mind-affecting effect. The save DC is Charisma-based.
 
-**Multiple Minds (Ex)** A jotund troll has nine different minds that are in constant communication with each other. The resulting jumble of tangled thoughts grants the troll a   
+**Multiple Minds (Ex** A jotund troll has nine different minds that are in constant communication with each other. The resulting jumble of tangled thoughts grants the troll a   
 +4 racial bonus on all Will saving throws against mind-affecting effects. In addition, whenever a jotund troll must make a Will save, it can roll the saving throw twice and take the better of the two results as its actual saving throw.
 
 Jotund trolls are gigantic, nine-headed horrors. Prowling frigid moors and marshes, these rapacious creatures have the same insatiable appetites of common trolls but require much more sustenance because of their excessive size. Jotund trolls stand 30 feet tall and weigh roughly 25,000 pounds. They can live for up to 100 years.
@@ -79,19 +79,19 @@ Moss Troll CR 3
 
 XP 800
 
-CE Large humanoid ( [giant](monsters/creatureTypes#_giant-subtype), [shapechanger](monsters/creatureTypes#_shapechanger-subtype))
+CE Large humanoid ( [giant](monster_dir/creatureTypes#_giant-subtype, [shapechanger](monster_dir/creatureTypes#_shapechanger-subtype))
 
-**Init** +4 (+8 when climbing trees); **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +5
+**Init** +4 (+8 when climbing trees; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +5
 
 Defense
 
 **AC** 15, touch 13, flat-footed 11 (+4 Dex, +2 natural, –1 size)
 
-**hp** 30 (4d8+12); regeneration 5 ( [fire](monsters/creatureTypes#_fire-subtype))
+**hp** 30 (4d8+12; regeneration 5 ( [fire](monster_dir/creatureTypes#_fire-subtype)
 
 **Fort** +7, **Ref** +5, **Will** +4
 
-**Weaknesses** [fear](monsters/universalMonsterRules#_fear-(su-or-sp)) of [fire](monsters/creatureTypes#_fire-subtype), vulnerable to [fire](monsters/creatureTypes#_fire-subtype)
+**Weaknesses** [fear](monster_dir/universalMonsterRules#_fear-(su-or-sp) of [fire](monster_dir/creatureTypes#_fire-subtype, vulnerable to [fire](monster_dir/creatureTypes#_fire-subtype)
 
 Offense
 
@@ -107,27 +107,27 @@ Statistics
 
 **Base Atk** +3; **CMB** +8; **CMD** 22
 
-**Feats** [Intimidating Prowess](feats#_intimidating-prowess), [Iron Will](feats#_iron-will)
+**Feats** [Intimidating Prowess](feats#_intimidating-prowess), [Iron Will](feats#_iron-will
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +7, [Climb](skills/climb#_climb) +11, [Intimidate](skills/intimidate#_intimidate) +5, [Perception](skills/perception#_perception) +5, [Stealth](skills/stealth#_stealth) +5 (+9 in vegetation); **Racial Modifiers** +2 [Acrobatics](skills/acrobatics#_acrobatics), +4 [Stealth](skills/stealth#_stealth) (+8 in vegetation)
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics +7, [Climb](skill_dir/climb#_climb +11, [Intimidate](skill_dir/intimidate#_intimidate +5, [Perception](skill_dir/perception#_perception +5, [Stealth](skill_dir/stealth#_stealth) +5 (+9 in vegetation; **Racial Modifiers** +2 [Acrobatics](skill_dir/acrobatics#_acrobatics, +4 [Stealth](skill_dir/stealth#_stealth) (+8 in vegetation
 
-**Languages** [Giant](monsters/creatureTypes#_giant-subtype)
+**Languages** [Giant](monster_dir/creatureTypes#_giant-subtype
 
-**SQ** [change shape](monsters/universalMonsterRules#_change-shape) (mossy tree; _ [tree shape](spells/treeShape#_tree-shape)_), tree climber
+**SQ** [change shape](monster_dir/universalMonsterRules#_change-shape (mossy tree; _ [tree shape](spell_dir/treeShape#_tree-shape)_, tree climber
 
 Ecology
 
-**Environment** [cold](monsters/creatureTypes#_cold-subtype) or temperate forests
+**Environment** [cold](monster_dir/creatureTypes#_cold-subtype) or temperate forests
 
-**Organization** solitary, gang (2–3), or troop (4–8)
+**Organization** solitary, gang (2–3), or troop (4–8
 
 **Treasure** standard
 
 Special Abilities
 
-**[Fear](monsters/universalMonsterRules#_fear-(su-or-sp)) of [Fire](monsters/creatureTypes#_fire-subtype) (Ex)** A moss troll is shaken as long as it is within 30 feet of a visible [fire](monsters/creatureTypes#_fire-subtype) or an open flame of at least torch size.
+**[Fear](monster_dir/universalMonsterRules#_fear-(su-or-sp) of [Fire](monster_dir/creatureTypes#_fire-subtype) (Ex** A moss troll is shaken as long as it is within 30 feet of a visible [fire](monster_dir/creatureTypes#_fire-subtype) or an open flame of at least torch size.
 
-**Tree Climber (Ex)** When climbing trees and other foliage, a moss troll's climb speed increases to 30 feet. If a moss troll falls while climbing in trees, it ignores the first 30 feet it falls for the purposes of calculating total damage from the fall. While climbing in trees, a moss troll gains a +4 racial bonus on initiative checks.
+**Tree Climber (Ex** When climbing trees and other foliage, a moss troll's climb speed increases to 30 feet. If a moss troll falls while climbing in trees, it ignores the first 30 feet it falls for the purposes of calculating total damage from the fall. While climbing in trees, a moss troll gains a +4 racial bonus on initiative checks.
 
 Moss trolls are bent and gangly creatures. They are smaller and thinner than normal trolls, yet their arms are unusually long and spindly for the creatures' size. Their flesh supports the growth of moss and mold as surely as tree bark.
 

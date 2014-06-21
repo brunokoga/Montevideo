@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/spells/arrowOfLaw
+title: ultimateMagic/spell_dir/arrowOfLaw
 ---
 Arrow of Law
 
@@ -7,7 +7,7 @@ Arrow of Law
 
 **Casting Time** 1 standard action
 
-**Components** V, S, DF (a holy symbol)
+**Components** V, S, DF (a holy symbol
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/campaignSystems/honor
+title: ultimateCampaign/campaignSystem_dir/honor
 ---
 # Honor
 
@@ -33,11 +33,11 @@ The tables of honor point adjustments for the various types of codes provide exa
 
 You can spend honor points once per game session to gain a temporary advantage for yourself, such as a gift, loan, or introduction to an important person. Each expenditure reduces your honor score by an amount determined by the GM. If you try to spend honor points for an advantage that costs more points than you currently have, your honor score is reduced to 0 and you don't gain the advantage—by reaching too high, you lose honor and gain nothing. Examples of honor point expenditures include the following.
 
-**Favor** : You call upon an allied NPC for a favor. Examples include access to private resources (such as a wizard's library), unhindered passage through enemy territory (such as getting an official to write you a letter of passage), or an audience with an important person (such as a high priest or city governor). _Cost_: 1d6 to 5d6 honor points, depending on the difficulty of the favor and the NPC's attitude toward you. If the GM is using the Contacts rules, the typical cost is 1d6 honor points per risk level of the task.
+**Favor** : You call upon an allied NPC for a favor. Examples include access to private resources (such as a wizard's library), unhindered passage through enemy territory (such as getting an official to write you a letter of passage), or an audience with an important person (such as a high priest or city governor. _Cost_: 1d6 to 5d6 honor points, depending on the difficulty of the favor and the NPC's attitude toward you. If the GM is using the Contacts rules, the typical cost is 1d6 honor points per risk level of the task.
 
 **Gift or Loan** : You ask an NPC ally to give or loan you something of value. The gift or loan must be in the form of wealth or a single item. The GM may rule that an NPC refuses to give away a particularly rare or expensive item. The item must be something the NPC can actually grant—you can't ask a peasant for a suit of armor or a ronin for the emperor's personal sword. A gift is permanent, but a loan lasts only for the game session in which it is granted. _Cost_: 1d6 honor points per 2,000 gp value of the gift. If the request is a loan instead of a gift, the honor point cost is halved, but if you do not return the item at the end of the session, you must pay this honor point cost at the start of each session until the item is returned. This counts as your one opportunity to spend honor points that session; you can't spend honor on anything else until you return the item.
 
-**Skill Bonus** : Choose [Bluff](skills/bluff#_bluff), [Diplomacy](skills/diplomacy#_diplomacy), or [Intimidate](skills/intimidate#_intimidate). You gain a +5 circumstance bonus on checks for that skill for the rest of the game session. _Cost_: 1d6 honor points.
+**Skill Bonus** : Choose [Bluff](skill_dir/bluff#_bluff, [Diplomacy](skill_dir/diplomacy#_diplomacy, or [Intimidate](skill_dir/intimidate#_intimidate). You gain a +5 circumstance bonus on checks for that skill for the rest of the game session. _Cost_: 1d6 honor points.
 
 ## Consequences of Losing Honor
 
@@ -52,12 +52,12 @@ These events are appropriate for most honor codes, including the individual code
 | Event | Honor Points |
 | --- | --- |
 | Complete a CR-appropriate Adventure Path | +10 |
-| Complete a noble task for an honorable | +2 NPC (50+ honor points) and tell no one |
-| Roll 30 or higher on a [Craft](skills/craft#_craft) check to | +2 create a work of art or masterwork itemⁱ |
-| Roll 30 or higher on a [Diplomacy](skills/diplomacy#_diplomacy) or | +2 Intimidate checkⁱ |
-| Roll 30 or higher on a [Perform](skills/perform#_perform) checkⁱ | +2 |
+| Complete a noble task for an honorable | +2 NPC (50+ honor points and tell no one |
+| Roll 30 or higher on a [Craft](skill_dir/craft#_craft check to | +2 create a work of art or masterwork itemⁱ |
+| Roll 30 or higher on a [Diplomacy](skill_dir/diplomacy#_diplomacy or | +2 Intimidate checkⁱ |
+| Roll 30 or higher on a [Perform](skill_dir/perform#_perform checkⁱ | +2 |
 | Complete a CR-appropriate adventure⁲ | +1 |
-| [Craft](skills/craft#_craft) a powerful magic item | +1⁳ |
+| [Craft](skill_dir/craft#_craft) a powerful magic item | +1⁳ |
 | Destroy an evil or dangerous magic item | +1⁴ |
 | Party overcomes a challenging encounter | +1 (CR 3 or more higher than APL) |
 | Willingly break one of the tenets of your | —2 code of honor |
@@ -164,12 +164,12 @@ These events apply to a samurai code.
 | Adopt a strict code of honor | +8 |
 | Help a disgraced ally perform seppuku | +4 |
 | Challenge and defeat in single combat | +3 someone who has publicly dishonored you |
-| Party defeats a challenging oni | +3 (CR higher than APL) |
+| Party defeats a challenging oni | +3 (CR higher than APL |
 | Destroy a shrine that's dedicated to an | +2 opposing power |
 | Protect a shrine from marauders | +2 |
-| Roll 30 or higher on a [Craft](skills/craft#_craft) check to | +2 create a work of art or masterwork itemⁱ |
-| Roll 30 or higher on a [Perform](skills/perform#_perform) checkⁱ | +2 |
-| [Perform](skills/perform#_perform) an action against your alignment | +1because of a sworn oath⁲ |
+| Roll 30 or higher on a [Craft](skill_dir/craft#_craft check to | +2 create a work of art or masterwork itemⁱ |
+| Roll 30 or higher on a [Perform](skill_dir/perform#_perform checkⁱ | +2 |
+| [Perform](skill_dir/perform#_perform) an action against your alignment | +1because of a sworn oath⁲ |
 | Trick a kami in a battle of wits | +1 |
 | Excessively brag of your accomplishments⁳ | —1 |
 | Be convicted of a petty crime | —2 |
@@ -189,7 +189,7 @@ These events apply to nomadic or tribal societies.
 | Develop a recognizable and feared persona | +2 |
 | Go far beyond the basics of hospitality | +2 |
 | Represent your tribe at a clan gathering | +2 |
-| Stand against 10 opponents (whether the | +2 conflict is physical, social, or artistic) |
+| Stand against 10 opponents (whether the | +2 conflict is physical, social, or artistic |
 | Challenge the leader of your tribe to | +1 single combat for leadership |
 | Develop a new tribal tradition | +1 |
 | Enact tribal justice for a serious transgression | +1 |

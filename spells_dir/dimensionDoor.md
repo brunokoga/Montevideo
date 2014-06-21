@@ -1,9 +1,9 @@
 ---
-title: spells/dimensionDoor
+title: spell_dir/dimensionDoor
 ---
  **Dimension Door**
 
-**School** conjuration (teleportation); **Level** bard 4, sorcerer/wizard 4
+**School** conjuration (teleportation; **Level** bard 4, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 

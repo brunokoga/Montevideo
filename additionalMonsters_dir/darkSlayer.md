@@ -9,15 +9,15 @@ Dark SlayerCR 3
 
 **XP 800**
 
-CE Small [humanoid](monsters/creatureTypes#_humanoid) ( [dark folk](monsters/creatureTypes#_dark-folk-subtype))
+CE Small [humanoid](monster_dir/creatureTypes#_humanoid ( [dark folk](monster_dir/creatureTypes#_dark-folk-subtype)
 
-**Init** +4; **Senses** _ [detect magic](additionalMonsters/../spells/detectMagic#_detect-magic)_, [see in darkness](monsters/universalMonsterRules#_see-in-darkness); [Perception](additionalMonsters/../skills/perception#_perception) +4
+**Init** +4; **Senses** _ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic_, [see in darkness](monster_dir/universalMonsterRules#_see-in-darkness; [Perception](additionalMonsters/../skill_dir/perception#_perception) +4
 
 Defense
 
 **AC** 15, touch 15, flat-footed 11 (+4 Dex, +1 size)
 
-**hp** 22 (4d8+4)
+**hp** 22 (4d8+4
 
 **Fort** +2, **Ref** +8, **Will** +1
 
@@ -27,17 +27,17 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** kukri +8 (1d3–1/18–20 plus black smear [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** kukri +8 (1d3–1/18–20 plus black smear [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su))
 
-**Special Attacks** death throes, [poison](monsters/universalMonsterRules#_poison-(ex-or-su)) use, sneak attack +2d6, soul harvest
+**Special Attacks** death throes, [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) use, sneak attack +2d6, soul harvest
 
-**Spell-Like Abilities** (CL 4th; concentration +6)
+**Spell-Like Abilities** (CL 4th; concentration +6
 
-Constant—_ [detect magic](additionalMonsters/../spells/detectMagic#_detect-magic)_
+Constant—_ [detect magic](additionalMonsters/../spell_dir/detectMagic#_detect-magic_
 
-At will—_ [bleed](additionalMonsters/../spells/bleed#_bleed)_ (DC 12), _ [chill touch](additionalMonsters/../spells/chillTouch#_chill-touch)_ (DC 13), _ [darkness](additionalMonsters/../spells/darkness#_darkness), [spectral hand](additionalMonsters/../spells/spectralHand#_spectral-hand)_
+At will—_ [bleed](additionalMonsters/../spell_dir/bleed#_bleed)_ (DC 12, _ [chill touch](additionalMonsters/../spell_dir/chillTouch#_chill-touch)_ (DC 13, _ [darkness](additionalMonsters/../spell_dir/darkness#_darkness, [spectral hand](additionalMonsters/../spell_dir/spectralHand#_spectral-hand_
 
-3/day—_ [daze monster](additionalMonsters/../spells/dazeMonster#_daze-monster)_ (DC 14), _ [death knell](additionalMonsters/../spells/deathKnell#_death-knell) _(DC 14), _ [inflict moderate wounds](additionalMonsters/../spells/inflictModerateWounds#_inflict-moderate-wounds)_ (DC 14)
+3/day—_ [daze monster](additionalMonsters/../spell_dir/dazeMonster#_daze-monster)_ (DC 14, _ [death knell](additionalMonsters/../spell_dir/deathKnell#_death-knell) _(DC 14, _ [inflict moderate wounds](additionalMonsters/../spell_dir/inflictModerateWounds#_inflict-moderate-wounds)_ (DC 14
 
 Statistics
 
@@ -45,11 +45,11 @@ Statistics
 
 **Base Atk** +3; **CMB** +1; **CMD** 15
 
-**Feats** [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device)), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
+**Feats** [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +3, [Perception](additionalMonsters/../skills/perception#_perception) +4, [Spellcraft](additionalMonsters/../skills/spellcraft#_spellcraft) +7, [Stealth](additionalMonsters/../skills/stealth#_stealth) +12, [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device) +12; **Racial Modifiers** +4 [Climb](additionalMonsters/../skills/climb#_climb), +4 [Stealth](additionalMonsters/../skills/stealth#_stealth), +4 [Perception](additionalMonsters/../skills/perception#_perception)
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +3, [Perception](additionalMonsters/../skill_dir/perception#_perception +4, [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +12, [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device +12; **Racial Modifiers** +4 [Climb](additionalMonsters/../skill_dir/climb#_climb, +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth, +4 [Perception](additionalMonsters/../skill_dir/perception#_perception
 
-**Languages** [Dark Folk](monsters/creatureTypes#_dark-folk-subtype)
+**Languages** [Dark Folk](monster_dir/creatureTypes#_dark-folk-subtype)
 
 **SQ** magical knack
 
@@ -65,9 +65,9 @@ Special Abilities
 
 **Death Throes (Su)** When a dark slayer is slain, its body implodes violently into nothingness, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d8 points of sonic damage and must make a DC 13 Fortitude save or be deafened for 2d4 rounds. The save DC is Constitution-based.
 
-**Magical Knack (Ex)** [Spellcraft](additionalMonsters/../skills/spellcraft#_spellcraft) and [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device) are always class skills for dark slayers.
+**Magical Knack (Ex** [Spellcraft](additionalMonsters/../skill_dir/spellcraft#_spellcraft and [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device) are always class skills for dark slayers.
 
-**Soul Harvest (Su)** When a dark slayer damages a flat-footed foe or a foe it is flanking with a melee touch spell or spell-like ability that deals hit point damage, the spell does an additional 1d6 points of damage and the dark slayer gains an equal amount of temporary hit points. These temporary hit points last for a maximum of 1 hour.
+**Soul Harvest (Su** When a dark slayer damages a flat-footed foe or a foe it is flanking with a melee touch spell or spell-like ability that deals hit point damage, the spell does an additional 1d6 points of damage and the dark slayer gains an equal amount of temporary hit points. These temporary hit points last for a maximum of 1 hour.
 
 Dark slayers are a relatively rare sub-race of the dark folk imbued with malign energies that grant them a suite of deadly spell-like abilities beyond those normally accessible to their kin. They are usually encountered leading small bands of dark creepers, and seethe with barely concealed envy of the dark stalkers, ever scheming to displace them and claim a dark folk tribe of their own. Dark stalkers direct the slayers for their own ends, grooming them for use against enemies, ever ready to sacrifice a slayer in battle for an advantage, however temporary.
 

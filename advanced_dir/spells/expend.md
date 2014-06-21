@@ -3,11 +3,11 @@ title: advanced/spells/expend
 ---
  **Expend**
 
-**School** abjuration; **Level** sorcerer/wizard 7
+**School** abjuration; **Level** sorcere_dir/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (miniature broken hourglass)
+**Components** V, S, M (miniature broken hourglass
 
 **Range** medium (100 ft. + 10 ft./level)
 

@@ -1,5 +1,5 @@
 ---
-title: advanced/magicItems/rods
+title: advanced/magicItem_dir/rods
 ---
 # Rods
 
@@ -55,7 +55,7 @@ Rods are scepter-like devices that have unique magical powers and do not usually
 
 **Aura** strong (no school); **CL** 17th
 
-**Slot** none; **Price** 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater); **Weight** 5 lbs.
+**Slot** none; **Price** 3,000 gp (lesser), 11,000 gp (normal), 24,500 gp (greater; **Weight** 5 lbs.
 
 **Description**
 

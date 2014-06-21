@@ -1,5 +1,5 @@
 ---
-title: ultimateEquipment/wondrousItems/wrists
+title: ultimateEquipment/wondrousItem_dir/wrists
 ---
 # Wrists Slot Wondrous Items
 
@@ -53,7 +53,7 @@ Anyone can use a wrists slot wondrous item unless specified otherwise by its des
 | --- | --- | --- |
 | 01–10 | _Vambraces of the genie (djinni)_ | 18,900 gp |
 | 11–20 | _Vambraces of the genie (marid)_ | 18,900 gp |
-| 21–30 | _Vambraces of the genie (shaitan)_ | 18,900 gp |
+| 21–30 | _Vambraces of the genie (shaitan_ | 18,900 gp |
 | 31–50 | _Bracelet of friends_ | 19,000 gp |
 | 51–70 | _Bracers of archery, greater_ | 25,000 gp |
 | 71–90 | _Bracers of armor +5_ | 25,000 gp |
@@ -80,7 +80,7 @@ Construction Requirements
 
 Cost 250 gp
 
-Craft Wondrous Item, _ [bull's strength](spells/bullSStrength#_bull-s-strength)_
+Craft Wondrous Item, _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_
 
 Arrowmaster's Bracers
 
@@ -94,43 +94,43 @@ Construction Requirements
 
 Cost 6,950 gp
 
-Craft Wondrous Item, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_, _ [true strike](spells/trueStrike#_true-strike)_
+Craft Wondrous Item, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), _ [protection from arrows](spell_dir/protectionFromArrows#_protection-from-arrows_, _ [true strike](spell_dir/trueStrike#_true-strike)_
 
 Bonebreaker Gauntlets
 
 **Price** 6,000 gp; **Aura** faint necromancy; **CL** 5th; **Weight** 2 lbs.
 
-These thick brass and leather gauntlets allow the wearer to tear through bone and muscle like paper. Once per day, as part of a melee attack, the wearer can activate the gauntlets to inflict a horrific injury on an opponent. If the attack hits, the target must make a DC 14 Will save. If the save fails, the Wand reduces the target's Strength, Dexterity, or Constitution (wearer's choice) by –6. This penalty cannot reduce the target's ability score below 1. The injury heals over time, reducing the penalty by 1 for each day that passes since the time of the injury, and is immediately removed by _ [heal](spells/heal#_heal)_, _ [regenerate](spells/regenerate#_regenerate)_, _ [restoration](spells/restoration#_restoration)_, or any magic that can break a curse.
+These thick brass and leather gauntlets allow the wearer to tear through bone and muscle like paper. Once per day, as part of a melee attack, the wearer can activate the gauntlets to inflict a horrific injury on an opponent. If the attack hits, the target must make a DC 14 Will save. If the save fails, the Wand reduces the target's Strength, Dexterity, or Constitution (wearer's choice by –6. This penalty cannot reduce the target's ability score below 1. The injury heals over time, reducing the penalty by 1 for each day that passes since the time of the injury, and is immediately removed by _ [heal](spell_dir/heal#_heal_, _ [regenerate](spell_dir/regenerate#_regenerate_, _ [restoration](spell_dir/restoration#_restoration_, or any magic that can break a curse.
 
 Construction Requirements
 
 Cost 3,000 gp
 
-Craft Wondrous Item, _ [bestow curse](spells/bestowCurse#_bestow-curse)_
+Craft Wondrous Item, _ [bestow curse](spell_dir/bestowCurse#_bestow-curse_
 
 Bracelet of Bargaining
 
 **Price** 14,500 gp; **Aura** moderate divination; **CL** 7th; **Weight** —
 
-This heavy gold band can be worn openly as a display of wealth or concealed beneath a sleeve. It grants its wearer a +5 competence bonus on [Bluff](skills/bluff#_bluff), [Diplomacy](skills/diplomacy#_diplomacy), and [Sense Motive](skills/senseMotive#_sense-motive) checks. Whenever the wearer shakes hands with another creature In order to seal a deal or a promise, she can immediately sense whether deceit is involved (Will save DC 16 negates), though the wearer cannot determine the exact nature of the deception.
+This heavy gold band can be worn openly as a display of wealth or concealed beneath a sleeve. It grants its wearer a +5 competence bonus on [Bluff](skill_dir/bluff#_bluff, [Diplomacy](skill_dir/diplomacy#_diplomacy, and [Sense Motive](skill_dir/senseMotive#_sense-motive) checks. Whenever the wearer shakes hands with another creature In order to seal a deal or a promise, she can immediately sense whether deceit is involved (Will save DC 16 negates, though the wearer cannot determine the exact nature of the deception.
 
 Construction Requirements
 
 Cost 7,250 gp
 
-Craft Wondrous Item, _detect lie_, _ [detect thoughts](spells/detectThoughts#_detect-thoughts)_
+Craft Wondrous Item, _detect lie_, _ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_
 
 Bracelet of Friends
 
 **Price** 19,000 gp; **Aura** strong conjuration; **CL** 15th; **Weight** —
 
-This silver charm bracelet has four charms upon it when created. The owner may designate one person known to him to be keyed to each charm. (This designation takes a standard action, but once done it lasts forever or until changed.) When a charm is grasped and the name of the keyed individual is spoken, that person is called to the spot (a standard action) appearing at the user's location along with his gear, as long as the bracelets's owner and the called person are on the same plane. The keyed individual knows who is attempting to teleport him, and the _bracelet of friends_ only functions on willing travelers. Once a charm is activated, it disappears. Charms separated from the bracelet are worthless. A bracelet found with fewer than four charms is worth 25% less for each missing charm.
+This silver charm bracelet has four charms upon it when created. The owner may designate one person known to him to be keyed to each charm. (This designation takes a standard action, but once done it lasts forever or until changed.) When a charm is grasped and the name of the keyed individual is spoken, that person is called to the spot (a standard action appearing at the user's location along with his gear, as long as the bracelets's owner and the called person are on the same plane. The keyed individual knows who is attempting to teleport him, and the _bracelet of friends_ only functions on willing travelers. Once a charm is activated, it disappears. Charms separated from the bracelet are worthless. A bracelet found with fewer than four charms is worth 25% less for each missing charm.
 
 Construction Requirements
 
 Cost 9,500 gp
 
-Craft Wondrous Item, _ [refuge](spells/refuge#_refuge)_
+Craft Wondrous Item, _ [refuge](spell_dir/refuge#_refuge_
 
 Bracelet of Mercy
 
@@ -142,7 +142,7 @@ Construction Requirements
 
 Cost 7,500 gp
 
-Craft Wondrous Item, _ [remove disease](spells/removeDisease#_remove-disease)_
+Craft Wondrous Item, _ [remove disease](spell_dir/removeDisease#_remove-disease_
 
 Bracelet of Second Chances
 
@@ -154,7 +154,7 @@ Construction Requirements
 
 Cost 7,875 gp
 
-Craft Wondrous Item, _ [breath of life](spells/breathOfLife#_breath-of-life)_
+Craft Wondrous Item, _ [breath of life](spell_dir/breathOfLife#_breath-of-life)_
 
 Bracers of Archery, Greater
 
@@ -188,7 +188,7 @@ Bracers of Armor
 
 These items appear to be wrist or arm guards, sometimes etched with symbols of protection or depictions of vigilant-looking animals. _Bracers of armor_ surround the wearer with an invisible but tangible field of force, granting him an armor bonus of +1 to +8, just as though he were wearing armor. Both _bracers of armor_ must be worn for the magic to be effective.
 
-Alternatively, _bracers of armor_ can be enchanted with armor special abilities. Special abilities usually count as additional bonuses for determining the market value of an item, but do not improve AC. _Bracers of armor_ cannot have a modified bonus (armor bonus plus armor special ability bonus equivalents) higher than +8. _Bracers of armor_ must have at least a +1 armor bonus to grant an armor special ability. Bracers of armor cannot have any armor special abilities that add a flat gp amount to their cost. _Bracers of armor_ and ordinary armor do not stack. If the wearer receives a larger armor bonus from another source, the _bracers of armor_ cease functioning and do not grant their armor bonus or their armor special abilities. If the _bracers of armor_ grant a larger armor bonus, the other source of armor ceases functioning.
+Alternatively, _bracers of armor_ can be enchanted with armor special abilities. Special abilities usually count as additional bonuses for determining the market value of an item, but do not improve AC. _Bracers of armor_ cannot have a modified bonus (armor bonus plus armor special ability bonus equivalents higher than +8. _Bracers of armor_ must have at least a +1 armor bonus to grant an armor special ability. Bracers of armor cannot have any armor special abilities that add a flat gp amount to their cost. _Bracers of armor_ and ordinary armor do not stack. If the wearer receives a larger armor bonus from another source, the _bracers of armor_ cease functioning and do not grant their armor bonus or their armor special abilities. If the _bracers of armor_ grant a larger armor bonus, the other source of armor ceases functioning.
 
 Construction Requirements
 
@@ -196,19 +196,19 @@ Cost varies
 
 **+1 armor** 500 gp; **+2 armor** 2,000 gp; **+3 armor** 4,500 gp; **+4 armor** 8,000 gp; **+5 armor** 12,500 gp; **+6 armor** 18,000 gp; **+7 armor** 24,500 gp; **+8 armor** 32,000 gp
 
-Craft Wondrous Item, _ [mage armor](spells/mageArmor#_mage-armor)_, creator's caster level must be at least two times that of the bonus placed on the bracers, plus any requirements of the armor special abilities
+Craft Wondrous Item, _ [mage armor](spell_dir/mageArmor#_mage-armor_, creator's caster level must be at least two times that of the bonus placed on the bracers, plus any requirements of the armor special abilities
 
 Bracers of Falcon's Aim
 
 **Price** 4,000 gp; **Aura** faint transmutation; **CL** 3rd; **Weight** 1 lb.
 
-Each of these crimson leather bracers is emblazoned with the image of a soaring golden falcon scanning the ground for easy prey. They continually grant the wearer the benefits of the _ [aspect of the falcon](advanced/spells/aspectOfTheFalcon#_aspect-of-the-falcon)_ spell, though without the spell's physical transformation.
+Each of these crimson leather bracers is emblazoned with the image of a soaring golden falcon scanning the ground for easy prey. They continually grant the wearer the benefits of the _ [aspect of the falcon](advanced/spell_dir/aspectOfTheFalcon#_aspect-of-the-falcon_ spell, though without the spell's physical transformation.
 
 Construction Requirements
 
 Cost 2,000 gp
 
-Craft Wondrous Item, _ [aspect of the falcon](advanced/spells/aspectOfTheFalcon#_aspect-of-the-falcon)_
+Craft Wondrous Item, _ [aspect of the falcon](advanced/spell_dir/aspectOfTheFalcon#_aspect-of-the-falcon_
 
 Bracers of Steadiness
 
@@ -220,7 +220,7 @@ Construction Requirements
 
 Cost 1,000 gp
 
-Craft Wondrous Item, _ [aid](spells/aid#_aid)_
+Craft Wondrous Item, _ [aid](spell_dir/aid#_aid_
 
 Bracers of Sworn Vengeance
 
@@ -234,7 +234,7 @@ Construction Requirements
 
 Cost 12,500 gp
 
-Craft Wondrous Item, _ [shout](spells/shout#_shout)_, creator must be an elf
+Craft Wondrous Item, _ [shout](spell_dir/shout#_shout)_, creator must be an elf
 
 Bracers of the Avenging Knight
 
@@ -242,49 +242,49 @@ Bracers of the Avenging Knight
 
 These silver bracers are polished to a mirrored sheen, but otherwise shift their appearance to match whatever suit of armor they are worn with.
 
-If the wearer has levels in a class that grants a smite ability (such as a paladin, or a cleric with the destruction domain), her smite damage is treated as though she were a member of that class four levels higher. If the wearer is not a member of such a class, once per day she may make one smite attack, gaining a bonus on the attack roll equal to her Charisma bonus, and a +5 bonus to the damage roll on a hit.
+If the wearer has levels in a class that grants a smite ability (such as a paladin, or a cleric with the destruction domain, her smite damage is treated as though she were a member of that class four levels higher. If the wearer is not a member of such a class, once per day she may make one smite attack, gaining a bonus on the attack roll equal to her Charisma bonus, and a +5 bonus to the damage roll on a hit.
 
 Construction Requirements
 
 Cost 5,750 gp
 
-Craft Wondrous Item, _ [bless weapon](spells/blessWeapon#_bless-weapon)_
+Craft Wondrous Item, _ [bless weapon](spell_dir/blessWeapon#_bless-weapon_
 
 Bracers of the Glib Entertainer
 
 **Price** 7,900 gp; **Aura** moderate transmutation; **CL** 7th; **Weight** 1 lb.
 
-These decorative bracers are stippled with vibrant colors and have various tiny bells sewn onto their surface. While wearing them, the wearer gains a +5 competence bonus on [Perform](skills/perform#_perform) checks. Once per day on command, the user can gain the benefit of the _ [glibness](spells/glibness#_glibness) _spell_._
+These decorative bracers are stippled with vibrant colors and have various tiny bells sewn onto their surface. While wearing them, the wearer gains a +5 competence bonus on [Perform](skill_dir/perform#_perform checks. Once per day on command, the user can gain the benefit of the _ [glibness](spell_dir/glibness#_glibness _spell_._
 
 Construction Requirements
 
 Cost 3,950 gp
 
-Craft Wondrous Item, _ [glibness](spells/glibness#_glibness)_
+Craft Wondrous Item, _ [glibness](spell_dir/glibness#_glibness_
 
 Bracers of the Merciful Knight
 
 **Price** 15,600 gp; **Aura** moderate conjuration; **CL** 9th; **Weight** 1 lb.
 
-These golden bracers are engraved with images of celestial creatures. When worn by a paladin, he is considered four levels higher for the purposes of determining the uses per day and healing provided by his lay on hands class feature. Additionally, once per day, the wearer can infuse a use of lay on hands with additional power, providing relief as a _ [lesser restoration](spells/restoration#_restoration-lesser)_ spell.
+These golden bracers are engraved with images of celestial creatures. When worn by a paladin, he is considered four levels higher for the purposes of determining the uses per day and healing provided by his lay on hands class feature. Additionally, once per day, the wearer can infuse a use of lay on hands with additional power, providing relief as a _ [lesser restoration](spell_dir/restoration#_restoration-lesser_ spell.
 
 Construction Requirements
 
 Cost 7,800 gp
 
-Craft Wondrous Item, _ [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_, _ [lesser restoration](spells/restoration#_restoration-lesser)_
+Craft Wondrous Item, _ [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds_, _ [lesser restoration](spell_dir/restoration#_restoration-lesser_
 
 Burglar's Bracers
 
 **Price** 1,050 gp; **Aura** faint transmutation; **CL** 3rd; **Weight** 1 lb.
 
-On command, these plain leather bracers can transform into a set of masterwork thieves' tools. They can transform back to their bracer form with another such command. Once per day, while using these thieves' tools or wearing these bracers, the user can take 10 on a single [Disable Device](skills/disableDevice#_disable-device) check, even when in immediate danger or distracted.
+On command, these plain leather bracers can transform into a set of masterwork thieves' tools. They can transform back to their bracer form with another such command. Once per day, while using these thieves' tools or wearing these bracers, the user can take 10 on a single [Disable Device](skill_dir/disableDevice#_disable-device check, even when in immediate danger or distracted.
 
 Construction Requirements
 
 Cost 550 gp
 
-Craft Wondrous Item, _ [shrink item](spells/shrinkItem#_shrink-item)_
+Craft Wondrous Item, _ [shrink item](spell_dir/shrinkItem#_shrink-item)_
 
 Charm Bracelet
 
@@ -294,13 +294,13 @@ Tiny ornaments of gold hang from the links of a _charm bracelet_. In addition to
 
 _Arming Sword_: When detached, this charm transforms into a masterwork heavy wooden shield and a masterwork longsword. They can either appear on the ground or within the hands of the creature that activated the charm, ready to use. These items last for 1 hour before turning into vapor.
 
-_Healthy Apple_: When detached, this charm becomes an apple that when eaten (a standard action that provokes attacks of opportunity) heals 2d8 hit points. In addition, if the creature eating the apple is afflicted with any poison or diseases, it can attempt a new saving throw against each such affliction. Each successful saving throw immediately ends the corresponding affliction.
+_Healthy Apple_: When detached, this charm becomes an apple that when eaten (a standard action that provokes attacks of opportunity heals 2d8 hit points. In addition, if the creature eating the apple is afflicted with any poison or diseases, it can attempt a new saving throw against each such affliction. Each successful saving throw immediately ends the corresponding affliction.
 
-_Loving Heart_: Upon detaching this charm, the wearer can use _ [charm person](spells/charmPerson#_charm-person)_ as a spell-like ability (as the spell, Will DC 11) any time before the end of her next turn.
+_Loving Heart_: Upon detaching this charm, the wearer can use _ [charm person](spell_dir/charmPerson#_charm-person)_ as a spell-like ability (as the spell, Will DC 11 any time before the end of her next turn.
 
 _Lucky Star_: When this charm is activated, it releases good luck in a 20-foot-radius burst centered on the wearer. The wearer and her allies within the burst gain a +2 luck bonus on ability checks, attack rolls, saving throws, and skill checks for 1 round.
 
-_Peaceful Dove_: Detaching this dove calms tempers within a 20-foot-radius burst centered on the wearer as though _ [calm emotions](spells/calmEmotions#_calm-emotions)_ (Will DC 13) had been cast. A creature affected by rage takes a –2 penalty on this saving throw.
+_Peaceful Dove_: Detaching this dove calms tempers within a 20-foot-radius burst centered on the wearer as though _ [calm emotions](spell_dir/calmEmotions#_calm-emotions)_ (Will DC 13 had been cast. A creature affected by rage takes a –2 penalty on this saving throw.
 
 Reduce the price of a charm bracelet that has one or more expended charms by 1,580 gp per absent charm. The _charm bracelet_ itself becomes a nonmagical bracelet worth 100 gp when the last charm is used, no matter the number of nonmagical charms left on the bracelet.
 
@@ -308,31 +308,31 @@ Construction Requirements
 
 Cost 4,000 gp
 
-Craft Wondrous Item, _ [calm emotions](spells/calmEmotions#_calm-emotions)_, _ [charm person](spells/charmPerson#_charm-person)_, _ [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _ [prayer](spells/prayer#_prayer)_, _ [shadow weapon](ultimateMagic/spells/shadowWeapon#_shadow-weapon)_
+Craft Wondrous Item, _ [calm emotions](spell_dir/calmEmotions#_calm-emotions_, _ [charm person](spell_dir/charmPerson#_charm-person_, _ [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds_, _ [prayer](spell_dir/prayer#_prayer_, _ [shadow weapon](ultimateMagic/spell_dir/shadowWeapon#_shadow-weapon_
 
 Dimensional Shackles
 
 **Price** 28,000 gp; **Aura** moderate abjuration; **CL** 11th; **Weight** 5 lbs.
 
-These shackles have magical runes traced across their cold iron links. Any creature bound within them is affected as if a _ [dimensional anchor](spells/dimensionalAnchor#_dimensional)_ spell were cast upon it (no save). They fit any Small to Large creature. The DC to break or slip out of the shackles is 30.
+These shackles have magical runes traced across their cold iron links. Any creature bound within them is affected as if a _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional)_ spell were cast upon it (no save. They fit any Small to Large creature. The DC to break or slip out of the shackles is 30.
 
 Construction Requirements
 
 Cost 14,000 gp
 
-Craft Wondrous Item, _ [dimensional anchor](spells/dimensionalAnchor#_dimensional)_
+Craft Wondrous Item, _ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional)_
 
 Duelist's Vambraces
 
 **Price** 8,000 gp; **Aura** moderate abjuration; **CL** 8th; **Weight** 2 lbs.
 
-Made from a mix of sturdy steel and boiled leather, these vambraces grant a +1 deflection bonus to AC while the wearer is wielding a double weapon or two weapons (not including natural weapons or unarmed attacks). In addition, once per round, when attacking with an off-handed weapon, the wearer can reduce any penalties on attack rolls made with that weapon by 2.
+Made from a mix of sturdy steel and boiled leather, these vambraces grant a +1 deflection bonus to AC while the wearer is wielding a double weapon or two weapons (not including natural weapons or unarmed attacks. In addition, once per round, when attacking with an off-handed weapon, the wearer can reduce any penalties on attack rolls made with that weapon by 2.
 
 Construction Requirements
 
 Cost 4,000 gp
 
-Craft Wondrous Item, _ [cat's grace](spells/catSGrace#_cat-s-grace)_, _ [shield](spells/shield#_shield)_, creator must have the Two-Weapon fighting feat
+Craft Wondrous Item, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, _ [shield](spell_dir/shield#_shield)_, creator must have the Two-Weapon fighting feat
 
 Gauntlets of Skill at Arms
 
@@ -344,7 +344,7 @@ Construction Requirements
 
 Cost 15,000 gp
 
-Craft Wondrous Item, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), creator must be an elf
+Craft Wondrous Item, [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor, creator must be an elf
 
 Inquisitor's Bastion Vambraces
 
@@ -356,7 +356,7 @@ Construction Requirements
 
 Cost 2,000 gp
 
-Craft Wondrous Item, _ [shield of faith](spells/shieldOfFaith#_shield-of-faith)_, creator must be an inquisitor with access to the protection judgment
+Craft Wondrous Item, _ [shield of faith](spell_dir/shieldOfFaith#_shield-of-faith_, creator must be an inquisitor with access to the protection judgment
 
 Longarm Bracers
 
@@ -368,7 +368,7 @@ Construction Requirements
 
 Cost 3,600 gp
 
-Craft Wondrous Item, _ [alter self](spells/alterSelf#_alter-self)_
+Craft Wondrous Item, _ [alter self](spell_dir/alterSelf#_alter-self_
 
 Manacles of Cooperation
 
@@ -380,7 +380,7 @@ Construction Requirements
 
 Cost 1,000 gp
 
-Craft Wondrous Item, _ [charm person](spells/charmPerson#_charm-person)_
+Craft Wondrous Item, _ [charm person](spell_dir/charmPerson#_charm-person_
 
 Merciful Vambraces
 
@@ -392,47 +392,47 @@ Construction Requirements
 
 Cost 4,000 gp
 
-Craft Wondrous Item, _ [cleanse](advanced/spells/cleanse#_cleanse)_
+Craft Wondrous Item, _ [cleanse](advanced/spell_dir/cleanse#_cleanse_
 
 Seducer's Bane
 
 **Price** 9,900 gp; **Aura** moderate abjuration; **CL** 6th; **Weight** —
 
-This slender silver bracelet is worked in an intertwined design of three flowers. A DC 20 [Knowledge](skills/knowledge#_knowledge) (nature) check identifies the flowers as acacia, apocynum, and bilberry, symbolizing concealment, treachery, and falsehood.
+This slender silver bracelet is worked in an intertwined design of three flowers. A DC 20 [Knowledge](skill_dir/knowledge#_knowledge) (nature check identifies the flowers as acacia, apocynum, and bilberry, symbolizing concealment, treachery, and falsehood.
 
-The bracelet grants the wearer a +5 competence bonus on [Sense Motive](skills/senseMotive#_sense-motive) checks, and a +5 resistance bonus on Will saves against enchantment effects. If the wearer makes a successful Will save against an enchantment, the caster of that spell incorrectly senses the effect has succeeded. Additionally, the bracelet's wearer knows an enchantment targeted him and the enchantment's source. _Seducer's [bane](magicItems/weapons#_weapons-bane)_ creates an aura on its wearer, visible to _ [detect magic](spells/detectMagic#_detect-magic)_, matching the failed enchantment spell or effect, and lasting as long as the intended enchantment's duration. However, if the bracelet's wearer attacks the caster or its allies, or otherwise acts in a way that's contradictory to the failed spell's effect, the caster of that spell immediately realizes the enchantment was ineffective.
+The bracelet grants the wearer a +5 competence bonus on [Sense Motive](skill_dir/senseMotive#_sense-motive checks, and a +5 resistance bonus on Will saves against enchantment effects. If the wearer makes a successful Will save against an enchantment, the caster of that spell incorrectly senses the effect has succeeded. Additionally, the bracelet's wearer knows an enchantment targeted him and the enchantment's source. _Seducer's [bane](magicItem_dir/weapons#_weapons-bane_ creates an aura on its wearer, visible to _ [detect magic](spell_dir/detectMagic#_detect-magic_, matching the failed enchantment spell or effect, and lasting as long as the intended enchantment's duration. However, if the bracelet's wearer attacks the caster or its allies, or otherwise acts in a way that's contradictory to the failed spell's effect, the caster of that spell immediately realizes the enchantment was ineffective.
 
 Construction Requirements
 
 Cost 4,950 gp
 
-Craft Wondrous Item, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [magic aura](spells/magicAura#_magic-aura)_,_ [resistance](spells/resistance#_resistance)_, creator must have 3 ranks in [Sense Motive](skills/senseMotive#_sense-motive)
+Craft Wondrous Item, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [magic aura](spell_dir/magicAura#_magic-aura_,_ [resistance](spell_dir/resistance#_resistance_, creator must have 3 ranks in [Sense Motive](skill_dir/senseMotive#_sense-motive
 
 Shackles of Compliance
 
 **Price** 3,280 gp; **Aura** faint enchantment; **CL** 3rd; **Weight** 2 lbs.
 
-These battered iron manacles are typically found with a small spiked iron key in one of the locks. The shackles magically adjust themselves to fit around the wrists of any creature from Small to Large size and automatically lock. A creature wearing shackles of compliance becomes more susceptible to intimidation. Any creature attempting to intimidate or demoralize a target wearing shackles of compliance gains a +4 bonus on [Intimidate](skills/intimidate#_intimidate) checks. In addition, the holder of the manacles' key can cast command (DC 25 Will) on the wearer of the shackles three times per day. 
+These battered iron manacles are typically found with a small spiked iron key in one of the locks. The shackles magically adjust themselves to fit around the wrists of any creature from Small to Large size and automatically lock. A creature wearing shackles of compliance becomes more susceptible to intimidation. Any creature attempting to intimidate or demoralize a target wearing shackles of compliance gains a +4 bonus on [Intimidate](skill_dir/intimidate#_intimidate) checks. In addition, the holder of the manacles' key can cast command (DC 25 Will on the wearer of the shackles three times per day. 
 
-_Shackles of compliance_ have hardness 10 and 10 hit points, and a DC 30 [Disable Device](skills/disableDevice#_disable-device) check is required to pick the shackles' lock. A manacled creature can break free with a DC 28 Strength check or DC 35 [Escape Artist](skills/escapeArtist#_escape-artist) check. The manacles lock can be opened with a DC 30 [Disable Device](skills/disableDevice#_disable-device) check.
+_Shackles of compliance_ have hardness 10 and 10 hit points, and a DC 30 [Disable Device](skill_dir/disableDevice#_disable-device check is required to pick the shackles' lock. A manacled creature can break free with a DC 28 Strength check or DC 35 [Escape Artist](skill_dir/escapeArtist#_escape-artist check. The manacles lock can be opened with a DC 30 [Disable Device](skill_dir/disableDevice#_disable-device check.
 
 Construction Requirements
 
 Cost 1,930 gp
 
-Craft Wondrous Item, _ [command](spells/command#_command)_
+Craft Wondrous Item, _ [command](spell_dir/command#_command_
 
 Shackles of Durance Vile
 
 **Price** 16,200 gp; **Aura** moderate enchantment; **CL** 9th; **Weight** 2 lbs.
 
-These masterwork iron manacles sap the will of their wearer. When they are attached to a humanoid creature as their command word is spoken, they affect their prisoner with a _ [dominate person](spells/dominatePerson#_dominate-person)_ spell, except that if the prisoner fails its saving throw, the effect lasts for as long as the shackles are attached. Removing or destroying the shackles immediately breaks the enchantment. The shackles can be so used once per day. _Shackles of durance vile_ can only be activated against a helpless, restrained, or willing creature; if attached to a creature still able to resist they function only as manacles, albeit superior ones. _Shackles of durance vile_ have hardness 15, 20 hit points, and a superior lock. They have a break DC of 30 and an [Escape Artist](skills/escapeArtist#_escape-artist) DC of 35.
+These masterwork iron manacles sap the will of their wearer. When they are attached to a humanoid creature as their command word is spoken, they affect their prisoner with a _ [dominate person](spell_dir/dominatePerson#_dominate-person_ spell, except that if the prisoner fails its saving throw, the effect lasts for as long as the shackles are attached. Removing or destroying the shackles immediately breaks the enchantment. The shackles can be so used once per day. _Shackles of durance vile_ can only be activated against a helpless, restrained, or willing creature; if attached to a creature still able to resist they function only as manacles, albeit superior ones. _Shackles of durance vile_ have hardness 15, 20 hit points, and a superior lock. They have a break DC of 30 and an [Escape Artist](skill_dir/escapeArtist#_escape-artist DC of 35.
 
 Construction Requirements
 
 Cost 8,200 gp
 
-Craft Wondrous Item, _ [dominate person](spells/dominatePerson#_dominate-person)_
+Craft Wondrous Item, _ [dominate person](spell_dir/dominatePerson#_dominate-person_
 
 Sleeves of Many Garments
 
@@ -444,7 +444,7 @@ Construction Requirements
 
 Cost 100 gp
 
-Craft Wondrous Item, _ [disguise self](spells/disguiseSelf#_disguise-self)_
+Craft Wondrous Item, _ [disguise self](spell_dir/disguiseSelf#_disguise-self)_
 
 Spellguard Bracers
 
@@ -456,7 +456,7 @@ Construction Requirements
 
 Cost 2,500 gp
 
-Combat Casting, [Craft Wondrous Item](feats#_craft-wondrous-item), _ [warding weapon](ultimateCombat/spells/wardingWeapon#_warding-weapon)_
+Combat Casting, [Craft Wondrous Item](feats#_craft-wondrous-item, _ [warding weapon](ultimateCombat/spell_dir/wardingWeapon#_warding-weapon_
 
 Vambraces of Defense
 
@@ -468,7 +468,7 @@ Construction Requirements
 
 Cost 3,000 gp
 
-Craft Wondrous Item, _ [shield](spells/shield#_shield)_
+Craft Wondrous Item, _ [shield](spell_dir/shield#_shield_
 
 Vambraces of the Genie
 
@@ -476,15 +476,15 @@ Vambraces of the Genie
 
 **Djinni** 18,900 gp; **Efreeti** 14,400 gp; **Marid** 18,900 gp; **Shaitan** 18,900 gp
 
-These bracers are decorated with icons representing air, earth, fire, or water, and depictions of genies appropriate to that element. The item protects the wearer against hot and cold environments as if she were using _ [endure elements](spells/endureElements#_endure-elements)_ The vambraces' materials and other powers depend on their associated genie type.
+These bracers are decorated with icons representing air, earth, fire, or water, and depictions of genies appropriate to that element. The item protects the wearer against hot and cold environments as if she were using _ [endure elements](spell_dir/endureElements#_endure-elements_ The vambraces' materials and other powers depend on their associated genie type.
 
-_Djinni_: These mithral bracers allow the wearer to use _ [gaseous form](spells/gaseousForm#_gaseous-form)_, _ [invisibility](spells/invisibility#_invisibility)_, and _ [wind wall](spells/windWall#_wind-wall)_ each once per day.
+_Djinni_: These mithral bracers allow the wearer to use _ [gaseous form](spell_dir/gaseousForm#_gaseous-form_, _ [invisibility](spell_dir/invisibility#_invisibility_, and _ [wind wall](spell_dir/windWall#_wind-wall_ each once per day.
 
-_Efreeti_: These scorched bronze bracers allow the wearer to use _ [invisibility](spells/invisibility#_invisibility)_ (self only), _ [produce flame](spells/produceFlame#_produce-flame)_, and _ [pyrotechnics](spells/pyrotechnics#_pyrotechnics) _each once per day.
+_Efreeti_: These scorched bronze bracers allow the wearer to use _ [invisibility](spell_dir/invisibility#_invisibility)_ (self only, _ [produce flame](spell_dir/produceFlame#_produce-flame_, and _ [pyrotechnics](spell_dir/pyrotechnics#_pyrotechnics _each once per day.
 
-_Marid_: These coral bracers allow the wearer to use _ [hydraulic torrent](advanced/spells/hydraulicTorrent#_hydraulic-torrent-)_, _ [invisibility](spells/invisibility#_invisibility)_, and _ [water breathing](spells/waterBreathing#_water-breathing)_ each once per day.
+_Marid_: These coral bracers allow the wearer to use _ [hydraulic torrent](advanced/spell_dir/hydraulicTorrent#_hydraulic-torrent-_, _ [invisibility](spell_dir/invisibility#_invisibility_, and _ [water breathing](spell_dir/waterBreathing#_water-breathing_ each once per day.
 
-_Shaitan_: These adamantine bracers allow the wearer to use _ [glitterdust](spells/glitterdust#_glitterdust)_, _ [meld into stone](spells/meldIntoStone#_meld-into-stone)_, and _ [stone shape](spells/stoneShape#_stone-shape)_ each once per day.
+_Shaitan_: These adamantine bracers allow the wearer to use _ [glitterdust](spell_dir/glitterdust#_glitterdust_, _ [meld into stone](spell_dir/meldIntoStone#_meld-into-stone_, and _ [stone shape](spell_dir/stoneShape#_stone-shape_ each once per day.
 
 Construction Requirements
 
@@ -504,13 +504,13 @@ Construction Requirements
 
 Cost 4,000 gp
 
-Craft Wondrous Item, _ [heroism](spells/heroism#_heroism)_
+Craft Wondrous Item, _ [heroism](spell_dir/heroism#_heroism_
 
 Verdant Vine
 
 **Price** 6,000 gp; **Aura** faint conjuration; **CL** 5th; **Weight** —
 
-Consisting of a vine with five green berries, a _verdant vine_ is worn tied around the wrist. Once per day on command, the wearer can pinch a berry off the vine, and throw it up to 30 feet away, like a splash weapon. Viciously thorny vines erupt in a 20-foot radius from the point of impact, even if the berry misses its target. Creatures within the area must succeed at a DC 16 Reflex saving throw or become entangled, as the spell _ [entangle](spells/entangle#_entangle)_, as the vines coil around the creature's legs. The vines persist, but at the start of the affected creature's turn, it gains a new saving throw against the effect. If the affected creature fails the saving throw, it also takes 1d4 points of damage.
+Consisting of a vine with five green berries, a _verdant vine_ is worn tied around the wrist. Once per day on command, the wearer can pinch a berry off the vine, and throw it up to 30 feet away, like a splash weapon. Viciously thorny vines erupt in a 20-foot radius from the point of impact, even if the berry misses its target. Creatures within the area must succeed at a DC 16 Reflex saving throw or become entangled, as the spell _ [entangle](spell_dir/entangle#_entangle_, as the vines coil around the creature's legs. The vines persist, but at the start of the affected creature's turn, it gains a new saving throw against the effect. If the affected creature fails the saving throw, it also takes 1d4 points of damage.
 
 A DC 20 Strength check, made as a standard action, allows an affected creature to break free and end the effect. Failing the check causes the vines to constrict, dealing 1d4 points of damage.
 

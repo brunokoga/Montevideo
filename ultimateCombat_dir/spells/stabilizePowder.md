@@ -3,11 +3,11 @@ title: ultimateCombat/spells/stabilizePowder
 ---
 Stabilize Powder
 
-**School** transmutation; **Level** sorcerer/wizard 2, witch 2
+**School** transmutation; **Level** sorcere_dir/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a few drops of liquor)
+**Components** V, S, M (a few drops of liquor
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

@@ -1,5 +1,5 @@
 ---
-title: monsters/monstersByType
+title: monster_dir/monstersByType
 ---
 # Monsters by Type
 
@@ -75,5 +75,5 @@ Listed below are all of the monsters in this book, organized alphabetically by t
 
 **[Vermin](creatureTypes#_vermin)** : army ant swarm, cave fisher, centipede swarm, crab swarm, fire beetle, giant ant, giant centipede, giant crab, giant leech, giant mantis, giant scorpion, giant slug, giant spider, giant stag beetle, giant wasp, leech swarm, spider swarm, wasp swarm
 
-**(Water)** : black dragon, bronze dragon, marid, ooze mephit, water elemental, water mephit
+**(Water** : black dragon, bronze dragon, marid, ooze mephit, water elemental, water mephit
 

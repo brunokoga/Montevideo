@@ -3,17 +3,17 @@ title: spells/mageSSword
 ---
  **Mage's Sword**
 
-**School** evocation [force]; **Level** sorcerer/wizard 7
+**School** evocation [force]; **Level** sorcere_dir/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a miniature platinum sword worth 250 gp)
+**Components** V, S, F (a miniature platinum sword worth 250 gp
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Effect** one sword
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 
@@ -23,7 +23,7 @@ The sword always strikes from your direction. It does not get a bonus for flanki
 
 Each round after the first, you can use a standard action to switch the sword to a new target. If you do not, the sword continues to attack the previous round's target.
 
-The sword cannot be attacked or harmed by physical attacks, but _ [dispel magic](dispelMagic#_dispel-magic)_, _ [disintegrate](disintegrate#_disintegrate)_, a _ [sphere of annihilation](../magicItems/artifacts#_sphere-of-annihilation)_, or a _ [rod of cancellation](../magicItems/rods#_rod-of-cancellation) _affects it. The sword's [AC](../combat#_armor-class) is 13 (10, +0 size bonus for Medium object, +3 deflection bonus).
+The sword cannot be attacked or harmed by physical attacks, but _ [dispel magic](dispelMagic#_dispel-magic)_, _ [disintegrate](disintegrate#_disintegrate)_, a _ [sphere of annihilation](../magicItem_dir/artifacts#_sphere-of-annihilation_, or a _ [rod of cancellation](../magicItem_dir/rods#_rod-of-cancellation _affects it. The sword's [AC](../combat#_armor-class) is 13 (10, +0 size bonus for Medium object, +3 deflection bonus).
 
 If an attacked creature has [spell resistance](../glossary#_spell-resistance), the resistance is checked the first time _mage's sword _strikes it. If the sword is successfully resisted, the spell is dispelled. If not, the sword has its normal full effect on that creature for the duration of the spell.
 

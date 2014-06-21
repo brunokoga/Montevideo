@@ -7,5 +7,5 @@ Protection from Good, Communal
 
 **Target** creatures touched
 
-This spell functions like _ [protection from good](spells/protectionFromGood#_protection-from-good)_, except you divide the duration in 1-minute intervals among the creatures touched.
+This spell functions like _ [protection from good](spell_dir/protectionFromGood#_protection-from-good_, except you divide the duration in 1-minute intervals among the creatures touched.
 

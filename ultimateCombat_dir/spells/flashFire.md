@@ -3,11 +3,11 @@ title: ultimateCombat/spells/flashFire
 ---
 Flash Fire
 
-**School** transmutation; **Level** sorcerer/wizard 3, witch 3
+**School** transmutation; **Level** sorcere_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a pinch of powdered fool's gold)
+**Components** V, S, M (a pinch of powdered fool's gold
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

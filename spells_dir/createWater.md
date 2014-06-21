@@ -1,9 +1,9 @@
 ---
-title: spells/createWater
+title: spell_dir/createWater
 ---
  **Create Water**
 
-**School** conjuration (creation) [water]; **Level** cleric 0, druid 0, paladin 1
+**School** conjuration (creation [water]; **Level** cleric 0, druid 0, paladin 1
 
 **Casting Time** 1 standard action
 

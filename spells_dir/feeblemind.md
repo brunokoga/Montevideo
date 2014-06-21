@@ -1,13 +1,13 @@
 ---
-title: spells/feeblemind
+title: spell_dir/feeblemind
 ---
  **Feeblemind**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 5
+**School** enchantment (compulsion [mind-affecting]; **Level** sorcere_dir/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a handful of clay, crystal, or glass spheres)
+**Components** V, S, M (a handful of clay, crystal, or glass spheres
 
 **Range** medium (100 ft. + 10 ft./level)
 

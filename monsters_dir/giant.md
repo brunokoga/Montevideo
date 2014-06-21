@@ -1,5 +1,5 @@
 ---
-title: monsters/giant
+title: monster_dir/giant
 ---
 # Giant, Cloud
 
@@ -11,7 +11,7 @@ _This towering giant has finely chiseled features. Her skin is pale and smooth, 
 
 NG or NE Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
 
-**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +17
+**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +17
 
 **Defense**
 
@@ -21,7 +21,7 @@ NG or NE Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant
 
 **Fort** +16, **Ref** +6, **Will** +10
 
-**Defensive Abilities** [rock catching](universalMonsterRules#_rock-catching)
+**Defensive Abilities** [rock catching](universalMonsterRules#_rock-catching
 
 **Offense**
 
@@ -37,9 +37,9 @@ NG or NE Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant
 
 **Spell-Like Abilities** (CL 16th)
 
-At will—_ [levitate](../spells/levitate#_levitate)_ (self plus 2,000 lbs.), _ [obscuring mist](../spells/obscuringMist#_obscuring-mist)_
+At will—_ [levitate](../spell_dir/levitate#_levitate)_ (self plus 2,000 lbs., _ [obscuring mist](../spell_dir/obscuringMist#_obscuring-mist_
 
-1/day—_ [fog cloud](../spells/fogCloud)_
+1/day—_ [fog cloud](../spell_dir/fogCloud)_
 
 **Statistics**
 
@@ -47,9 +47,9 @@ At will—_ [levitate](../spells/levitate#_levitate)_ (self plus 2,000 lbs.), _ 
 
 **Base Atk** +12; **CMB** +26; **CMD** 37
 
-**Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Overrun](../feats#_improved-overrun), [Intimidating Prowess](../feats#_intimidating-prowess), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack)
+**Feats** [Awesome Blow](monsterFeats#_awesome-blow, [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Overrun](../feats#_improved-overrun), [Intimidating Prowess](../feats#_intimidating-prowess), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack)
 
-**Skills** [Climb](../skills/climb#_climb) +19, [Craft](../skills/craft#_craft) (any one) +10, [Diplomacy](../skills/diplomacy#_diplomacy) +9, [Intimidate](../skills/intimidate#_intimidate) +26, [Perception](../skills/perception#_perception) +17, [Perform](../skills/perform#_perform) (string instruments) +8
+**Skills** [Climb](../skill_dir/climb#_climb +19, [Craft](../skill_dir/craft#_craft) (any one +10, [Diplomacy](../skill_dir/diplomacy#_diplomacy +9, [Intimidate](../skill_dir/intimidate#_intimidate +26, [Perception](../skill_dir/perception#_perception +17, [Perform](../skill_dir/perform#_perform) (string instruments) +8
 
 **Languages** Common, Giant
 
@@ -81,9 +81,9 @@ _This lumbering giant has short stumpy legs and powerful, muscular arms. Its hai
 
 **XP 9,600**
 
-LE Large [humanoid](creatureTypes#_humanoid) ( [fire](creatureTypes#_fire-subtype), [giant](creatureTypes#_giant-type))
+LE Large [humanoid](creatureTypes#_humanoid) ( [fire](creatureTypes#_fire-subtype), [giant](creatureTypes#_giant-type)
 
-**Init** –1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +14
+**Init** –1; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +14
 
 **Defense**
 
@@ -99,7 +99,7 @@ LE Large [humanoid](creatureTypes#_humanoid) ( [fire](creatureTypes#_fire-subtyp
 
 **Offense**
 
-**Speed** 40 ft. (30 ft. in armor)
+**Speed** 40 ft. (30 ft. in armor
 
 **Melee** greatsword +21/+16/+11 (3d6+15) or 2 slams +20 (1d8+10)
 
@@ -117,7 +117,7 @@ LE Large [humanoid](creatureTypes#_humanoid) ( [fire](creatureTypes#_fire-subtyp
 
 **Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Overrun](../feats#_improved-overrun), [Improved Sunder](../feats#_improved-sunder), [Iron Will](../feats#_iron-will), [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greatsword), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (greatsword)
 
-**Skills** [Climb](../skills/climb#_climb) +14, [Craft](../skills/craft#_craft) (any one) +8, [Intimidate](../skills/intimidate#_intimidate) +11, [Perception](../skills/perception#_perception) +14
+**Skills** [Climb](../skill_dir/climb#_climb +14, [Craft](../skill_dir/craft#_craft) (any one +8, [Intimidate](../skill_dir/intimidate#_intimidate +11, [Perception](../skill_dir/perception#_perception) +14
 
 **Languages** Common, Giant
 
@@ -149,9 +149,9 @@ _This giant looks like a thick, muscular human. It has frost-white skin and long
 
 **XP 6,400**
 
-CE Large [humanoid](creatureTypes#_humanoid) ( [cold](creatureTypes#_cold-subtype), [giant](creatureTypes#_giant-type))
+CE Large [humanoid](creatureTypes#_humanoid) ( [cold](creatureTypes#_cold-subtype), [giant](creatureTypes#_giant-type)
 
-**Init** –1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +10
+**Init** –1; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +10
 
 **Defense**
 
@@ -161,7 +161,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [cold](creatureTypes#_cold-subtyp
 
 **Fort** +14, **Ref** +3, **Will** +6
 
-**Defensive Abilities** [rock catching](universalMonsterRules#_rock-catching); **Immune** cold
+**Defensive Abilities** [rock catching](universalMonsterRules#_rock-catching; **Immune** cold
 
 **Weaknesses** vulnerability to fire
 
@@ -183,9 +183,9 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [cold](creatureTypes#_cold-subtyp
 
 **Base Atk** +10; **CMB** +20; **CMD** 29
 
-**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Overrun](../feats#_improved-overrun), [Improved Sunder](../feats#_improved-sunder), [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greataxe), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills/stealth#_stealth))
+**Feats** [Cleave](../feats#_cleave), [Great Cleave](../feats#_great-cleave), [Improved Overrun](../feats#_improved-overrun), [Improved Sunder](../feats#_improved-sunder), [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greataxe), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth)
 
-**Skills** [Climb](../skills/climb#_climb) +13, [Craft](../skills/craft#_craft) (any one) +7, [Intimidate](../skills/intimidate#_intimidate) +7, [Perception](../skills/perception#_perception) +10, [Stealth](../skills/stealth#_stealth) +2 (+6 in snow); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) in snow
+**Skills** [Climb](../skill_dir/climb#_climb +13, [Craft](../skill_dir/craft#_craft) (any one +7, [Intimidate](../skill_dir/intimidate#_intimidate +7, [Perception](../skill_dir/perception#_perception +10, [Stealth](../skill_dir/stealth#_stealth) +2 (+6 in snow; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) in snow
 
 **Languages** Common, Giant
 
@@ -213,9 +213,9 @@ _This hunched giant exudes power and a crude, stupid anger, its filthy fur cloth
 
 **XP 3,200**
 
-CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
+CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
 
-**Init** –1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +6
+**Init** –1; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +6
 
 **Defense**
 
@@ -229,7 +229,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Offense**
 
-**Speed** 40 ft. (30 ft. in armor)
+**Speed** 40 ft. (30 ft. in armor
 
 **Melee** greatclub +14/+9 (2d8+10) or 2 slams +13 (1d8+7)
 
@@ -247,7 +247,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Feats** [Cleave](../feats#_cleave), [Intimidating Prowess](../feats#_intimidating-prowess), [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greatclub), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (greatclub)
 
-**Skills** [Climb](../skills/climb#_climb) +10, [Intimidate](../skills/intimidate#_intimidate) +12, [Perception](../skills/perception#_perception) +6
+**Skills** [Climb](../skill_dir/climb#_climb +10, [Intimidate](../skill_dir/intimidate#_intimidate +12, [Perception](../skill_dir/perception#_perception) +6
 
 **Languages** Giant
 
@@ -275,15 +275,15 @@ _This giant has chiseled, muscular features and a flat, forward-sloping head, lo
 
 **XP 4,800**
 
-N Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
+N Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +12
+**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +12
 
 **Defense**
 
 **AC** 22, touch 11, flat-footed 20 (+2 Dex, +11 natural, –1 size)
 
-**hp** 102 (12d8+48)
+**hp** 102 (12d8+48
 
 **Fort** +12, **Ref** +6, **Will** +7
 
@@ -309,7 +309,7 @@ N Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
 
 **Feats** [Iron Will](../feats#_iron-will), [Martial Weapon Proficiency](../feats#_martial-weapon-proficiency) (greatclub), [Point-Blank Shot](../feats#_point-blank-shot), [Power Attack](../feats#_power-attack), [Precise Shot](../feats#_precise-shot), [Quick Draw](../feats#_quick-draw)
 
-**Skills** [Climb](../skills/climb#_climb) +12, [Intimidate](../skills/intimidate#_intimidate) +12, [Perception](../skills/perception#_perception) +12, [Stealth](../skills/stealth#_stealth) +4 (+12 in rocky terrain); **Racial Modifiers** +8 [Stealth](../skills/stealth#_stealth) in rocky terrain
+**Skills** [Climb](../skill_dir/climb#_climb +12, [Intimidate](../skill_dir/intimidate#_intimidate +12, [Perception](../skill_dir/perception#_perception +12, [Stealth](../skill_dir/stealth#_stealth) +4 (+12 in rocky terrain; **Racial Modifiers** +8 [Stealth](../skill_dir/stealth#_stealth) in rocky terrain
 
 **Languages** Common, Giant
 
@@ -333,7 +333,7 @@ Stone giants prefer living in enormous caves in high-altitude, rocky peaks. They
 
 ## Stone Giant Elders
 
-Some stone giants develop special abilities related to their environment. Called elders, these stone giants have Charisma scores of at least 15 and three spell-like abilities (CL 10th). Once per day they can use _ [stone shape](../spells/stoneShape#_stone-shape)_, _ [stone tell](../spells/stoneTell#_stone-tell)_, and either _ [transmute rock to mud](../spells/transmuteRockToMud#_transmute-rock-to-mud)_ or _ [transmute mud to rock](../spells/transmuteMudToRock#_transmute-mud-to-rock)_ (DC 17). The save DC is Charisma-based. One in 10 elders is a sorcerer, usually of 3rd to 6th level. Stone giant elders add +1 to their CR.
+Some stone giants develop special abilities related to their environment. Called elders, these stone giants have Charisma scores of at least 15 and three spell-like abilities (CL 10th. Once per day they can use _ [stone shape](../spell_dir/stoneShape#_stone-shape_, _ [stone tell](../spell_dir/stoneTell#_stone-tell_, and either _ [transmute rock to mud](../spell_dir/transmuteRockToMud#_transmute-rock-to-mud_ or _ [transmute mud to rock](../spell_dir/transmuteMudToRock#_transmute-mud-to-rock)_ (DC 17). The save DC is Charisma-based. One in 10 elders is a sorcerer, usually of 3rd to 6th level. Stone giant elders add +1 to their CR.
 
 # Giant, Storm
 
@@ -343,9 +343,9 @@ _This giant is a towering, muscular human of heroic proportions, with bronze ski
 
 **XP 25,600**
 
-CG Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
+CG Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
 
-**Init** +2; **Senses** low-light vision; [Perception](../skills/perception#_perception) +27
+**Init** +2; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +27
 
 **Defense**
 
@@ -359,7 +359,7 @@ CG Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
 
 **Offense**
 
-**Speed** 50 ft., swim 40 ft. (35 ft., swim 30 ft. in armor)
+**Speed** 50 ft., swim 40 ft. (35 ft., swim 30 ft. in armor
 
 **Melee** mwk greatsword +27/+22/+17 (4d6+21/17–20) or 2 slams +26 (2d6+14)
 
@@ -369,11 +369,11 @@ CG Huge [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
 
 **Spell-Like Abilities** (CL 15th)
 
-Constant—_ [freedom of movement](../spells/freedomOfMovement#_freedom-of-movement)_
+Constant—_ [freedom of movement](../spell_dir/freedomOfMovement#_freedom-of-movement_
 
-2/day—_ [control weather](../spells/controlWeather#_control-weather)_, _ [levitate](../spells/levitate#_levitate)_
+2/day—_ [control weather](../spell_dir/controlWeather#_control-weather_, _ [levitate](../spell_dir/levitate#_levitate_
 
-1/day—_ [call lightning](../spells/callLightning#_call-lightning)_ (DC 15), _ [chain lightning](../spells/chainLightning#_chain-lightning)_ (DC 18)
+1/day—_ [call lightning](../spell_dir/callLightning#_call-lightning)_ (DC 15, _ [chain lightning](../spell_dir/chainLightning#_chain-lightning)_ (DC 18)
 
 **Statistics**
 
@@ -381,9 +381,9 @@ Constant—_ [freedom of movement](../spells/freedomOfMovement#_freedom-of-movem
 
 **Base Atk** +14; **CMB** +30; **CMD** 42
 
-**Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (greatsword), [Improved Sunder](../feats#_improved-sunder), [Improved Vital Strike](../feats#_improved-vital-strike), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Vital Strike](../feats#_vital-strike)
+**Feats** [Awesome Blow](monsterFeats#_awesome-blow, [Cleave](../feats#_cleave), [Combat Reflexes](../feats#_combat-reflexes), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (greatsword), [Improved Sunder](../feats#_improved-sunder), [Improved Vital Strike](../feats#_improved-vital-strike), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Vital Strike](../feats#_vital-strike)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +18, [Climb](../skills/climb#_climb) +17, [Craft](../skills/craft#_craft) (any one) +13, [Intimidate](../skills/intimidate#_intimidate) +20, [Perception](../skills/perception#_perception) +27, [Perform](../skills/perform#_perform) (sing) +12, [Sense Motive](../skills/senseMotive#_sense-motive) +24, [Swim](../skills/swim#_swim) +22
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +18, [Climb](../skill_dir/climb#_climb +17, [Craft](../skill_dir/craft#_craft) (any one +13, [Intimidate](../skill_dir/intimidate#_intimidate +20, [Perception](../skill_dir/perception#_perception +27, [Perform](../skill_dir/perform#_perform) (sing +12, [Sense Motive](../skill_dir/senseMotive#_sense-motive +24, [Swim](../skill_dir/swim#_swim) +22
 
 **Languages** Auran, Common, Draconic, Giant
 
@@ -403,7 +403,7 @@ Constant—_ [freedom of movement](../spells/freedomOfMovement#_freedom-of-movem
 
 **Water Breathing (Ex)** Storm giants can breathe water as well as air.
 
-Storm giants tend toward tanned complexions, though some rare specimens have violet skin, deep violet or blue-black hair, and silvery gray or purple eyes. Such violet coloration is considered to be good luck among storm giants, and those possessing it tend to become leaders among their kind. Adults are typically 21 feet tall and weigh 12,000 pounds. Storm giants can live to be 600 years old. When at rest, they prefer to wear short, loose tunics belted at the waist, sandals or bare feet, and headbands. They wear a few pieces of simple but finely crafted jewelry, with anklets (favored by barefoot giants), rings, or circlets being most common. Yet when they outfit themselves for battle, they don shimmering breastplates and wield enormous greatswords and bows.
+Storm giants tend toward tanned complexions, though some rare specimens have violet skin, deep violet or blue-black hair, and silvery gray or purple eyes. Such violet coloration is considered to be good luck among storm giants, and those possessing it tend to become leaders among their kind. Adults are typically 21 feet tall and weigh 12,000 pounds. Storm giants can live to be 600 years old. When at rest, they prefer to wear short, loose tunics belted at the waist, sandals or bare feet, and headbands. They wear a few pieces of simple but finely crafted jewelry, with anklets (favored by barefoot giants, rings, or circlets being most common. Yet when they outfit themselves for battle, they don shimmering breastplates and wield enormous greatswords and bows.
 
 Storm giants tend to be reclusive, prefering to dwell along remote coastlines or on tropical islands. Yet like their namesakes, they are prone to violent mood swings. Storm giants are quick to anger in the face of evil and can be brutal, dangerous foes when insulted. In battle, they prefer to send a hail of arrows to rain down on their foes, only drawing their greatswords after opponents get inside their bow range.
 

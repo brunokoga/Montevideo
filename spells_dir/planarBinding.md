@@ -1,9 +1,9 @@
 ---
-title: spells/planarBinding
+title: spell_dir/planarBinding
 ---
  **Planar Binding**
 
-**School** conjuration (calling) [see text for _lesser planar binding_]; **Level** sorcerer/wizard 6
+**School** conjuration (calling [see text for _lesser planar binding_]; **Level** sorcere_dir/wizard 6
 
 **Components** : V, S
 
@@ -13,7 +13,7 @@ This spell functions like _lesser planar binding, _except that you may call a si
 
 **Planar Binding, Greater**
 
-**School** conjuration (calling) [see text for _lesser planar binding_]; **Level** : sorcerer/wizard 8
+**School** conjuration (calling [see text for _lesser planar binding_]; **Level** : sorcere_dir/wizard 8
 
 **Components** : V, S
 
@@ -23,7 +23,7 @@ This spell functions like _lesser planar binding, _except that you may call a si
 
 **Planar Binding, Lesser**
 
-**School** conjuration (calling) [see text]; **Level** sorcerer/wizard 5
+**School** conjuration (calling [see text]; **Level** sorcerer/wizard 5
 
 **Casting Time** 10 minutes
 

@@ -3,11 +3,11 @@ title: ultimateCombat/spells/fabricateBullets
 ---
 Fabricate Bullets
 
-**School** transmutation; **Level** sorcerer/wizard 1
+**School** transmutation; **Level** sorcere_dir/wizard 1
 
 **Casting Time** 1 round
 
-**Components** V, S, M (1 pound of lead or other soft metal worth 2 gp)
+**Components** V, S, M (1 pound of lead or other soft metal worth 2 gp
 
 **Range** touch
 

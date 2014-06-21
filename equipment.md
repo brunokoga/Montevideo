@@ -464,7 +464,7 @@ Here is the format for armor entries (given as column headings on Table: Armor a
 
 **Cost** : The cost in gold pieces of the armor for Small or Medium humanoid creatures. See Table: Armor for Unusual Creatures for armor prices for other creatures.
 
-**Armor/Shield Bonus** : Each type of armor grants an armor bonus to [AC](combat#_armor-class), while shields grant a shield bonus to [AC](combat#_armor-class). The armor bonus from a suit of armor doesn't stack with other effects or items that grant an armor bonus. Similarly, the shield bonus from a shield doesn't stack with other effects that grant a shield bonus.
+**Armo_dir/Shield Bonus** : Each type of armor grants an armor bonus to [AC](combat#_armor-class), while shields grant a shield bonus to [AC](combat#_armor-class). The armor bonus from a suit of armor doesn't stack with other effects or items that grant an armor bonus. Similarly, the shield bonus from a shield doesn't stack with other effects that grant a shield bonus.
 
 **Maximum [Dex](gettingStarted#_dexterity) Bonus** : This number is the maximum [Dexterity](gettingStarted#_dexterity) bonus to [AC](combat#_armor-class) that this type of armor allows. [Dexterity](gettingStarted#_dexterity) bonuses in excess of this number are reduced to this number for the purposes of determining the wearer's [AC](combat#_armor-class). Heavier armors limit mobility, reducing the wearer's ability to dodge blows. This restriction doesn't affect any other [Dexterity](gettingStarted#_dexterity)-related abilities.
 
@@ -474,13 +474,13 @@ A character's encumbrance (the amount of gear carried, including armor) may also
 
 _Shields_: Shields do not affect a character's maximum [Dexterity](gettingStarted#_dexterity) bonus, except for tower shields.
 
-**Armor Check Penalty** : Any armor heavier than leather, as well as any shield, hurts a character's ability to use [Dexterity](gettingStarted#_dexterity)- and [Strength](gettingStarted#_strength)-based skills. An armor check penalty applies to all [Dexterity](gettingStarted#_dexterity)- and [Strength](gettingStarted#_strength)-based skill checks. A character's encumbrance may also incur an armor check penalty.
+**Armor Check Penalty** : Any armor heavier than leather, as well as any shield, hurts a character's ability to use [Dexterity](gettingStarted#_dexterity)- and [Strength](gettingStarted#_strength)-based skills. An armor check penalty applies to all [Dexterity](gettingStarted#_dexterity)- and [Strength](gettingStarted#_strength-based skill checks. A character's encumbrance may also incur an armor check penalty.
 
 _Shields_: If a character is wearing armor and using a shield, both armor check penalties apply.
 
-_Nonproficient with Armor Worn_: A character who wears armor and/or uses a shield with which he is not proficient takes the armor's (and/or shield's) armor check penalty on attack rolls as well as on all [Dexterity](gettingStarted#_dexterity)- and [Strength](gettingStarted#_strength)-based ability and skill checks. The penalty for nonproficiency with armor stacks with the penalty for shields.
+_Nonproficient with Armor Worn_: A character who wears armor and/or uses a shield with which he is not proficient takes the armor's (an_dir/or shield's) armor check penalty on attack rolls as well as on all [Dexterity](gettingStarted#_dexterity)- and [Strength](gettingStarted#_strength)-based ability and skill checks. The penalty for nonproficiency with armor stacks with the penalty for shields.
 
-_Sleeping in Armor_: A character who sleeps in medium or heavy armor is automatically fatigued the next day. He takes a –2 penalty on [Strength](gettingStarted#_strength) and [Dexterity](gettingStarted#_dexterity) and can't charge or run. Sleeping in light armor does not cause fatigue.
+_Sleeping in Armor_: A character who sleeps in medium or heavy armor is automatically fatigued the next day. He takes a –2 penalty on [Strength](gettingStarted#_strength) and [Dexterity](gettingStarted#_dexterity and can't charge or run. Sleeping in light armor does not cause fatigue.
 
 **Arcane Spell Failure Chance** : Armor interferes with the gestures that a spellcaster must make to cast an arcane spell that has a somatic component. Arcane spellcasters face the possibility of arcane spell failure if they're wearing armor. Bards can wear light armor and use shields without incurring any arcane spell failure chance for their bard spells.
 
@@ -497,7 +497,7 @@ _Shields_: Shields do not affect a character's speed.
 ## Armor Descriptions
 
 [Table: Armor and Shields]
-| Armor | Cost | Armor/Shield Bonus | Maximum [Dex](gettingStarted#_dexterity) Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed | Weightⁱ |
+| Armor | Cost | Armo_dir/Shield Bonus | Maximum [Dex](gettingStarted#_dexterity Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed | Weightⁱ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 30 ft. | 20 ft. |
 | --- | --- |
@@ -525,7 +525,7 @@ _Shields_: Shields do not affect a character's speed.
 | Shield, tower | 30 gp | +4⁳ | +2 | –10 | 50% | — | — | 45 lbs. |
 | _Extras _ |
 | Armor spikes | +50 gp | — | — | — | — | — | — | +10 lbs. |
-| Gauntlet, locked | 8 gp | — | — | special | n/a⁴ | — | — | +5 lbs. |
+| Gauntlet, locked | 8 gp | — | — | special | _dir/a⁴ | — | — | +5 lbs. |
 | Shield spikes | +10 gp | — | — | — | — | — | — | +5 lbs. |
 
 Any special benefits or accessories to the types of armor found on Table: Armor and Shields are described below.
@@ -578,7 +578,7 @@ _Shield Bash Attacks_: You can bash an opponent with a light shield. See “shie
 
 When employing a tower shield in combat, you take a –2 penalty on attack rolls because of the shield's encumbrance.
 
-**Shield Spikes** : These spikes turn a shield into a martial piercing weapon and increase the damage dealt by a shield bash as if the shield were designed for a creature one size category larger than you (see “spiked shields” on Table: Weapons). You can't put spikes on a buckler or a tower shield. Otherwise, attacking with a spiked shield is like making a shield bash attack.
+**Shield Spikes** : These spikes turn a shield into a martial piercing weapon and increase the damage dealt by a shield bash as if the shield were designed for a creature one size category larger than you (see “spiked shields” on Table: Weapons. You can't put spikes on a buckler or a tower shield. Otherwise, attacking with a spiked shield is like making a shield bash attack.
 
 An enhancement bonus on a spiked shield does not improve the effectiveness of a shield bash made with it, but a spiked shield can be made into a magic weapon in its own right.
 
@@ -628,7 +628,7 @@ The time required to don armor depends on its type; see Table: Donning Armor.
 [Table: Donning Armor]
 | Armor Type | Don | Don Hastily | Remove |
 | --- | --- | --- | --- |
-| Shield (any) | 1 move action | n/a | 1 move action |
+| Shield (any) | 1 move action | _dir/a | 1 move action |
 | Padded, leather, hide, studded leather, or chain shirt | 1 minute | 5 rounds | 1 minuteⁱ |
 | Breastplate, scale mail, chainmail, banded mail, or splint mail | 4 minutesⁱ | 1 minute | 1 minuteⁱ |
 | Half-plate or full plate | 4 minutes⁲ | 4 minutesⁱ | 1d4+1 minutesⁱ |
@@ -639,7 +639,7 @@ Weapons and armor can be crafted using materials that possess innate special pro
 
 Each of the special materials described below has a definite game effect. Some creatures have damage reduction making them resistant to all but a special type of damage, such as that dealt by evil-aligned weapons or bludgeoning weapons. Others are vulnerable to weapons of a particular material. Characters may choose to carry several different types of weapons, depending upon the types of creatures they most commonly encounter.
 
-**Adamantine** : Mined from rocks that fell from the heavens, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons fashioned from adamantine have a natural ability to bypass hardness when sundering weapons or attacking objects, ignoring hardness less than 20 (see [Additional Rules](additionalRules)). Armor made from adamantine grants its wearer damage reduction of 1/— if it's light armor, 2/— if it's medium armor, and 3/— if it's heavy armor. Adamantine is so costly that weapons and armor made from it are always of masterwork quality; the masterwork cost is included in the prices given below. Thus, adamantine weapons and ammunition have a +1 enhancement bonus on attack rolls, and the armor check penalty of adamantine armor is lessened by 1 compared to ordinary armor of its type. Items without metal parts cannot be made from adamantine. An arrow could be made of adamantine, but a quarterstaff could not.
+**Adamantine** : Mined from rocks that fell from the heavens, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons fashioned from adamantine have a natural ability to bypass hardness when sundering weapons or attacking objects, ignoring hardness less than 20 (see [Additional Rules](additionalRules). Armor made from adamantine grants its wearer damage reduction of 1/— if it's light armor, 2/— if it's medium armor, and 3/— if it's heavy armor. Adamantine is so costly that weapons and armor made from it are always of masterwork quality; the masterwork cost is included in the prices given below. Thus, adamantine weapons and ammunition have a +1 enhancement bonus on attack rolls, and the armor check penalty of adamantine armor is lessened by 1 compared to ordinary armor of its type. Items without metal parts cannot be made from adamantine. An arrow could be made of adamantine, but a quarterstaff could not.
 
 Weapons and armor normally made of steel that are made of adamantine have one-third more hit points than normal. Adamantine has 40 hit points per inch of thickness and hardness 20.
 
@@ -683,7 +683,7 @@ Mithral has 30 hit points per inch of thickness and hardness 15.
 | Medium armor | +4,000 gp |
 | Heavy armor | +9,000 gp |
 | Shield | +1,000 gp |
-| Other items | +500 gp/lb. |
+| Other items | +500 g_dir/lb. |
 
 **Silver, Alchemical** : A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as lycanthropes.
 
@@ -716,7 +716,7 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 | Bucket (empty) | 5 sp | 2 lbs. |
 | Caltrops | 1 gp | 2 lbs. |
 | Candle | 1 cp | — |
-| Canvas (sq. yd.) | 1 sp | 1 lb. |
+| Canvas (sq. yd. | 1 sp | 1 lb. |
 | Case, map or scroll | 1 gp | 1/2 lb. |
 | Chain (10 ft.) | 30 gp | 2 lbs. |
 | Chalk, 1 piece | 1 cp | — |
@@ -745,10 +745,10 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 | Manacles | 15 gp | 2 lbs. |
 | Manacles, masterwork | 50 gp | 2 lbs. |
 | Mirror, small steel | 10 gp | 1/2 lb. |
-| Mug/Tankard, clay | 2 cp | 1 lb. |
+| Mu_dir/Tankard, clay | 2 cp | 1 lb. |
 | Oil (1-pint flask) | 1 sp | 1 lb. |
 | Paper (sheet) | 4 sp | — |
-| Parchment (sheet) | 2 sp | — |
+| Parchment (sheet | 2 sp | — |
 | Pick, miner's | 3 gp | 10 lbs. |
 | Pitcher, clay | 2 cp | 5 lbs. |
 | Piton | 1 sp | 1/2 lb. |

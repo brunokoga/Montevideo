@@ -1,19 +1,19 @@
 ---
-title: spells/elementalBody
+title: spell_dir/elementalBody
 ---
  **Elemental Body I**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 4
+**School** transmutation (polymorph; **Level** sorcere_dir/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (the element you plan to assume)
+**Components** V, S, M (the element you plan to assume
 
 **Range** personal
 
 **Target** you
 
-**Duration** 1 min/level (D)
+**Duration** 1 mi_dir/level (D
 
 When you cast this spell, you can assume the form of a Small air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. Elemental abilities based on size, such as burn, vortex, and whirlwind, use the size of the elemental you transform into to determine their effect.
 

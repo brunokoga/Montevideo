@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/lunarVeil
+title: ultimateMagic/spell_dir/lunarVeil
 ---
 Lunar Veil
 
-**School** illusion (shadow) [darkness, shadow]; **Level** cleric 7, sorcerer/wizard 7, witch 7
+**School** illusion (shadow [darkness, shadow]; **Level** cleric 7, sorcerer/wizard 7, witch 7
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ Lunar Veil
 
 **Saving Throw** Will negates, see text; **Spell Resistance** no
 
-You conjure a tremendous area of shadow to obscure moonlight within the area, creating something akin to a lunar eclipse. The light level is lowered by two steps (though unlike _ [deeper darkness](spells/deeperDarkness#_deeper-darkness)_, areas of normal light or dimmer become normal darkness rather than supernaturally dark). Lycanthropes in the area must make a Will save every round or revert to their humanoid forms. In addition, lycanthropes attempting to assume animal or hybrid form within the affected area take a –5 penalty on Constitution checks to do so.
+You conjure a tremendous area of shadow to obscure moonlight within the area, creating something akin to a lunar eclipse. The light level is lowered by two steps (though unlike _ [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness)_, areas of normal light or dimmer become normal darkness rather than supernaturally dark. Lycanthropes in the area must make a Will save every round or revert to their humanoid forms. In addition, lycanthropes attempting to assume animal or hybrid form within the affected area take a –5 penalty on Constitution checks to do so.
 

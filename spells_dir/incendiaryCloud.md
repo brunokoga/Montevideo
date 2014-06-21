@@ -1,9 +1,9 @@
 ---
-title: spells/incendiaryCloud
+title: spell_dir/incendiaryCloud
 ---
  **Incendiary Cloud**
 
-**School** conjuration (creation) [fire]; **Level** sorcerer/wizard 8
+**School** conjuration (creation [fire]; **Level** sorcerer/wizard 8
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spells/incendiaryCloud
 
 **Area** cloud spreads in 20-ft. radius, 20 ft. high
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** : [Reflex](../combat#_reflex) half, see text; **[Spell Resistance](../glossary#_spell-resistance)** : no
 

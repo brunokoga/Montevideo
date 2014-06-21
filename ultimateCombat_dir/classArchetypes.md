@@ -5,35 +5,35 @@ title: ultimateCombat/classArchetypes
 
 Archetypes are a quick and easy way to specialize characters of a given class, adding fun and flavorful new abilities to already established adventurers. The class archetypes and corresponding new abilities mentioned below are all included in this section, and characters may take more than one archetype as long as they meet the requirements.
 
-**[Alchemist](classArchetypes/alchemist)** : This section presents new discoveries, as well as the beastmorph and ragechemist archetypes.
+**[Alchemist](classArchetype_dir/alchemist** : This section presents new discoveries, as well as the beastmorph and ragechemist archetypes.
 
-**[Barbarian](classArchetypes/barbarian)** : This section includes new rage powers, as well as the armored hulk, scarred rager, sea reaver, titan mauler, true primitive, urban barbarian, and wild rager.
+**[Barbarian](classArchetype_dir/barbarian** : This section includes new rage powers, as well as the armored hulk, scarred rager, sea reaver, titan mauler, true primitive, urban barbarian, and wild rager.
 
-**[Bard](classArchetypes/bard)** : This section includes the archaeologist, daredevil, and dervish dancer.
+**[Bard](classArchetype_dir/bard** : This section includes the archaeologist, daredevil, and dervish dancer.
 
-**[Cavalier](classArchetypes/cavalier)** : This section includes new cavalier orders, plus the beast rider, emissary, gendarme, honor guard, luring cavalier, musketeer, standard bearer, and strategist.
+**[Cavalier](classArchetype_dir/cavalier** : This section includes new cavalier orders, plus the beast rider, emissary, gendarme, honor guard, luring cavalier, musketeer, standard bearer, and strategist.
 
-**[Cleric](classArchetypes/cleric)** : This section includes the crusader, divine strategist, evangelist, and merciful healer.
+**[Cleric](classArchetype_dir/cleric** : This section includes the crusader, divine strategist, evangelist, and merciful healer.
 
-**[Druid](classArchetypes/druid)** : This section includes the ape shaman, bat shaman, and boar shaman, as well as the world walker.
+**[Druid](classArchetype_dir/druid** : This section includes the ape shaman, bat shaman, and boar shaman, as well as the world walker.
 
-**[Fighter](classArchetypes/fighter)** : This section includes expanded weapon groups, plus the armor master, brawler, cad, dragoon, gladiator, tactician, thunderstriker, tower shield specialist, unarmed fighter, and unbreakable.
+**[Fighter](classArchetype_dir/fighter** : This section includes expanded weapon groups, plus the armor master, brawler, cad, dragoon, gladiator, tactician, thunderstriker, tower shield specialist, unarmed fighter, and unbreakable.
 
-**[Gunslinger](classArchetypes/gunslinger)** : This section includes the gun tank, musket master, mysterious stranger, and pistolero.
+**[Gunslinger](classArchetype_dir/gunslinger** : This section includes the gun tank, musket master, mysterious stranger, and pistolero.
 
-**[Inquisitor](classArchetypes/inquisitor)** : This section includes new inquisitions, plus the iconoclast, spellbreaker, and witch hunter.
+**[Inquisitor](classArchetype_dir/inquisitor** : This section includes new inquisitions, plus the iconoclast, spellbreaker, and witch hunter.
 
-**[Magus](classArchetypes/magus)** : This section includes new magus arcana, plus the kensai, myrmidarch, skirnir, and soul forger.
+**[Magus](classArchetype_dir/magus** : This section includes new magus arcana, plus the kensai, myrmidarch, skirnir, and soul forger.
 
-**[Monk](classArchetypes/monk)** : This section includes the flowing monk, maneuver master, martial artist, master of many styles, sensei, sohei, and tetori.
+**[Monk](classArchetype_dir/monk** : This section includes the flowing monk, maneuver master, martial artist, master of many styles, sensei, sohei, and tetori.
 
-**[Paladin](classArchetypes/paladin)** : This section includes the divine hunter, empyreal knight, holy gun, holy tactician, knight of the sepulcher, and sacred shield.
+**[Paladin](classArchetype_dir/paladin** : This section includes the divine hunter, empyreal knight, holy gun, holy tactician, knight of the sepulcher, and sacred shield.
 
-**[Ranger](classArchetypes/ranger)** : This section includes the battle scout, deep walker, falconer, trophy hunter, warden, and wild stalker.
+**[Ranger](classArchetype_dir/ranger** : This section includes the battle scout, deep walker, falconer, trophy hunter, warden, and wild stalker.
 
-**[Rogue](classArchetypes/rogue)** : This section includes new rogue talents, plus the bandit, chameleon, charlatan, driver, knife master, pirate, roof runner, sanctified rogue, and survivalist.
+**[Rogue](classArchetype_dir/rogue** : This section includes new rogue talents, plus the bandit, chameleon, charlatan, driver, knife master, pirate, roof runner, sanctified rogue, and survivalist.
 
-**[Wizard](classArchetypes/wizard)** : This section includes the arcane bomber, siege mage, and spellslinger.
+**[Wizard](classArchetype_dir/wizard)** : This section includes the arcane bomber, siege mage, and spellslinger.
 
 ## Using Archetypes
 
@@ -51,7 +51,7 @@ When an archetype includes multiple alternate class features, a character must t
 
 A character can take more than one archetype and garner additional alternate class features, but none of the alternate class features can replace or alter the same class feature from the base class as another alternate class feature. For example, a fighter could not be both an armor master and a brawler, since both archetypes replace the weapon training 1 class feature with something different.
 
-If an archetype replaces a class feature that is part of a series of improvements or additions to a base ability (such as a fighter's weapon training or a ranger's favored enemy), the next time the character would gain that ability, it counts as the lower-level ability that was replaced by the archetype. In effect, all abilities in that series are delayed until the next time the class improves that ability. For example, if an archetype replaces a rogue's +2d6 sneak attack bonus at 3rd level, when she reaches 5th level and gains a sneak attack bonus, her sneak attack doesn't jump from +1d6 to +3d6—it improves to +2d6, just as if she had finally gained the increase at 3rd level. This adjustment continues for every level at which her sneak attack would improve, until at 19th level she has +9d6 instead of the +10d6 of a standard rogue.
+If an archetype replaces a class feature that is part of a series of improvements or additions to a base ability (such as a fighter's weapon training or a ranger's favored enemy, the next time the character would gain that ability, it counts as the lower-level ability that was replaced by the archetype. In effect, all abilities in that series are delayed until the next time the class improves that ability. For example, if an archetype replaces a rogue's +2d6 sneak attack bonus at 3rd level, when she reaches 5th level and gains a sneak attack bonus, her sneak attack doesn't jump from +1d6 to +3d6—it improves to +2d6, just as if she had finally gained the increase at 3rd level. This adjustment continues for every level at which her sneak attack would improve, until at 19th level she has +9d6 instead of the +10d6 of a standard rogue.
 
 ## Adapting Existing Characters
 

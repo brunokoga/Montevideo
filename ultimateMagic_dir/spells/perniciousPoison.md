@@ -13,9 +13,9 @@ Pernicious Poison
 
 **Target** creature touched
 
-**Duration** 10 minute/level
+**Duration** 10 minut_dir/level
 
 **Saving Throw** none; **Spell Resistance** yes
 
-You weaken the target's defenses against poison. The target gains a –4 penalty on saves against poison, and poisons affecting the target continue for another 2 frequency increments (for example, black adder venom lasts 8 rounds instead of 6, and arsenic lasts for 6 minutes instead of 4). Attempts to cure the poisoned target with skill or magic take a –4 penalty.
+You weaken the target's defenses against poison. The target gains a –4 penalty on saves against poison, and poisons affecting the target continue for another 2 frequency increments (for example, black adder venom lasts 8 rounds instead of 6, and arsenic lasts for 6 minutes instead of 4. Attempts to cure the poisoned target with skill or magic take a –4 penalty.
 

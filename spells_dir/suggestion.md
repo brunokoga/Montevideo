@@ -1,13 +1,13 @@
 ---
-title: spells/suggestion
+title: spell_dir/suggestion
 ---
  **Suggestion**
 
-**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** bard 2, sorcerer/wizard 3
+**School** enchantment (compulsion [language-dependent, mind-affecting]; **Level** bard 2, sorcere_dir/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, M (a snake's tongue and a honeycomb)
+**Components** V, M (a snake's tongue and a honeycomb
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

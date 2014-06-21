@@ -1,13 +1,13 @@
 ---
-title: spells/sepiaSnakeSigil
+title: spell_dir/sepiaSnakeSigil
 ---
  **Sepia Snake Sigil**
 
-**School** conjuration (creation) [force]; **Level** bard 3, sorcerer/wizard 3
+**School** conjuration (creation [force]; **Level** bard 3, sorcere_dir/wizard 3
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M (powdered amber worth 500 gp and a snake scale)
+**Components** V, S, M (powdered amber worth 500 gp and a snake scale
 
 **Range** touch
 

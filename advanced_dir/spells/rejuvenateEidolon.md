@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/rejuvenateEidolon
+title: advanced/spell_dir/rejuvenateEidolon
 ---
  **Rejuvenate Eidolon**
 
@@ -29,5 +29,5 @@ This spell functions as _lesser rejuvenate eidolon_, except that it cures 5d10 p
 
 **Saving Throw** none; **Spell Resistance** no
 
-By laying your hand upon an eidolon, you cause its wounds to close and its form to solidify. This spell cures 1d10 points of damage +1 point per caster level (maximum +5).
+By laying your hand upon an eidolon, you cause its wounds to close and its form to solidify. This spell cures 1d10 points of damage +1 point per caster level (maximum +5.
 

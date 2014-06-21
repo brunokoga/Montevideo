@@ -1,5 +1,5 @@
 ---
-title: ultimateEquipment/armsAndArmor/weapons
+title: ultimateEquipment/armsAndArmo_dir/weapons
 ---
 # Weapons
 
@@ -25,7 +25,7 @@ It is possible to throw a weapon that isn't designed to be thrown (that is, a me
 
 > _Projectile Weapons:_ Blowguns, crossbows, shortbows, slings, longbows, and halfling sling staves are examples of projectile weapons—weapons that launch ammunition at a target. Most projectile weapons require two hands to use (see specific weapon descriptions). A character cannot apply his Strength modifier on damage rolls with a projectile weapon unless it's a sling or a specially built composite shortbow or composite longbow. If the character has a penalty for low Strength, apply it to damage rolls when she uses a bow or a sling.
 > 
-> _Ammunition:_ Projectile weapons use ammunition, such as arrows for bows, bolts for crossbows, darts for blowguns, or sling bullets for slings and halfling sling staves. When using a bow, a character can draw ammunition as a free action; crossbows and slings require an action for reloading (as noted in their descriptions). Generally speaking, ammunition that hits its target is destroyed or rendered useless, while ammunition that misses has a 50% chance of being destroyed or lost.
+> _Ammunition:_ Projectile weapons use ammunition, such as arrows for bows, bolts for crossbows, darts for blowguns, or sling bullets for slings and halfling sling staves. When using a bow, a character can draw ammunition as a free action; crossbows and slings require an action for reloading (as noted in their descriptions. Generally speaking, ammunition that hits its target is destroyed or rendered useless, while ammunition that misses has a 50% chance of being destroyed or lost.
 
 Although shuriken are thrown weapons, they are treated as ammunition for the purposes of drawing them and crafting masterwork or otherwise special versions of them, and of what happens to them after they are thrown.
 
@@ -85,13 +85,13 @@ In other cases, a weapon can deal either of two types of damage. In a situation 
 > 
 > _Disarm:_ When you use this weapon, you get a +2 bonus on combat maneuver checks to disarm an enemy.
 > 
-> _Distracting:_ You gain a +2 bonus on [Bluff](skills/bluff#_bluff) skill checks to feint in combat while wielding this weapon.
+> _Distracting:_ You gain a +2 bonus on [Bluff](skill_dir/bluff#_bluff skill checks to feint in combat while wielding this weapon.
 > 
 > _Double:_ You can use a double weapon to fight as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. You can choose to wield one end of a double weapon two-handed, but it cannot be used as a double weapon when wielded in this way—only one end of the weapon can be used in any given round.
 > 
 > _Fragile:_ Fragile weapons cannot take the beating that sturdier weapons can. A fragile weapon gains the broken condition if the wielder rolls a natural 1 on an attack roll with the weapon. If a fragile weapon is already broken, the roll of a natural 1 destroys it instead. Masterwork and magical fragile weapons lack these flaws unless otherwise noted in the item description.
 
-If a weapon gains the broken condition in this way, that weapon is considered to have taken damage equal to half its hit points +1. This damage is repaired either by something that addresses the effect that granted the weapon the broken condition (like quick clear in the case of firearm misfires or the [Field Repair](ultimateCombat/ultimateCombatFeats#_field-repair) feat) or by the repair methods described in the broken condition. When an effect that grants the broken condition is removed, the weapon regains the hit points it lost when the broken condition was applied. Damage done by an attack against a weapon (such as from a sunder combat maneuver) cannot be repaired by an effect that removes the broken condition.
+If a weapon gains the broken condition in this way, that weapon is considered to have taken damage equal to half its hit points +1. This damage is repaired either by something that addresses the effect that granted the weapon the broken condition (like quick clear in the case of firearm misfires or the [Field Repair](ultimateComba_dir/ultimateCombatFeats#_field-repair) feat) or by the repair methods described in the broken condition. When an effect that grants the broken condition is removed, the weapon regains the hit points it lost when the broken condition was applied. Damage done by an attack against a weapon (such as from a sunder combat maneuver cannot be repaired by an effect that removes the broken condition.
 
 > _Grapple:_ On a successful critical hit with a weapon of this type, you can attempt a combat maneuver check to grapple your opponent as a free action. This grapple attempt does not provoke an attack of opportunity from the creature you are attempting to grapple if that creature is not threatening you. While you grapple the creature using a grappling weapon, you can only move or damage the creature on your turn. You are still considered grappled, though you do not have to be adjacent to the creature to continue the grapple. If you move far enough away that the creature you're grappling is no longer within the weapon's reach, you end the grapple with that action.
 > 
@@ -108,7 +108,7 @@ If a weapon gains the broken condition in this way, that weapon is considered to
 
 A masterwork weapon is a finely crafted version of a normal weapon. Wielding it provides a +1 enhancement bonus on attack rolls.
 
-Without using magic, you can't add the masterwork quality to a weapon after it is created; it must be crafted as a masterwork weapon (see the [Craft](skills/craft#_craft) skill). The masterwork transformation spell transforms a non-masterwork weapon into a masterwork weapon.
+Without using magic, you can't add the masterwork quality to a weapon after it is created; it must be crafted as a masterwork weapon (see the [Craft](skill_dir/craft#_craft) skill). The masterwork transformation spell transforms a non-masterwork weapon into a masterwork weapon.
 
 The masterwork quality adds 300 gp to the cost of a normal weapon (or 6 gp to the cost of a single unit of ammunition). Adding the masterwork quality to a double weapon costs twice the normal increase (+600 gp).
 
@@ -123,7 +123,7 @@ Even though some types of armor and shields can be used as weapons, you can't cr
 Weapons in this section are listed alphabetically by their full names. A few weapons had their names altered to be consistent with how other weapons are named; for example: "flail" and "heavy flail," are now called "light flail" and "heavy flail."
 
 [Simple Weapons]
-| Unarmed Attacks | Price | Dmg (S) | Dmg (M) | Critical | Range | Weight | Type | Special |
+| Unarmed Attacks | Price | Dmg (S) | Dmg (M | Critical | Range | Weight | Type | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Unarmed strike | — | 1d2 | 1d3 | ×2 | — | — | B | Nonlethal |
 
@@ -268,7 +268,7 @@ Weapons in this section are listed alphabetically by their full names. A few wea
 | Fighting fan | 5 gp | 1d3 | 1d4 | ×3 | — | — | P | Distracting, monk |
 | Kama | 2 gp | 1d4 | 1d6 | ×2 | — | 2 lbs. | S | Monk, trip |
 | Knuckle axe | 9 gp | 1d4 | 1d6 | ×3 | — | 2 lbs. | S | Monk, performance |
-| Madu (leather/steel) | 40 gp/50 gp | 1d3 | 1d4 | ×2 | — | 5 lbs./6 lbs. | P | Performance |
+| Madu (leathe_dir/steel | 40 gp/50 gp | 1d3 | 1d4 | ×2 | — | 5 lbs./6 lbs. | P | Performance |
 | Nunchaku | 2 gp | 1d4 | 1d6 | ×2 | — | 2 lbs. | B | Disarm, monk |
 | Pata | 14 gp | 1d4 | 1d6 | ×3 | — | 3 lbs. | P | Performance |
 | Quadrens | 8 gp | 1d4 | 1d6 | 19–20/×2 | — | 2 lbs. | P | Performance |
@@ -400,7 +400,7 @@ Atlatl
 
 **Type** martial
 
-This Stone Age weapon is a thin piece of wood or antler used as a lever to hurl a specially fitted dart. An atlatl gives much greater range to a dart, but must be loaded like a projectile weapon. Your Strength modifier applies to damage rolls when you use an atlatl, just as it does for thrown weapons. You can fire—but not load—an atlatl with one hand. Loading an atlatl is a move action that requires two hands and provokes attacks of opportunity. The [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat can be taken for atlatls, allowing you to load a dart as a free action.
+This Stone Age weapon is a thin piece of wood or antler used as a lever to hurl a specially fitted dart. An atlatl gives much greater range to a dart, but must be loaded like a projectile weapon. Your Strength modifier applies to damage rolls when you use an atlatl, just as it does for thrown weapons. You can fire—but not load—an atlatl with one hand. Loading an atlatl is a move action that requires two hands and provokes attacks of opportunity. The [Rapid Reload](ultimateComba_dir/ultimateCombatFeats#_rapid-reload) feat can be taken for atlatls, allowing you to load a dart as a free action.
 
 Atlatl Dart
 
@@ -440,7 +440,7 @@ Battle Aspergillum
 
 **Type** simple
 
-Named for the common aspergillum, a macelike tool used by priests to sprinkle holy water, this light mace has a hollow head and a metal plug closing off the hole through which the head is filled. When the mace strikes a creature, holy water sprinkles out through tiny holes throughout the weapon's head; creatures subject to damage from holy water take 1 point of damage in addition to the normal effect of being struck by the mace (a nonmagical aspergillum can deal holy water damage to an incorporeal creature in this manner, even if the mace itself deals no damage). After 5 hits, the battle aspergillum is empty and needs to be refilled. Filling it with holy water is a standard action that provokes attacks of opportunity (like drinking a potion). A filled aspergillum is normally carried upright, to prevent the holy water from leaking out as the weapon moves.
+Named for the common aspergillum, a macelike tool used by priests to sprinkle holy water, this light mace has a hollow head and a metal plug closing off the hole through which the head is filled. When the mace strikes a creature, holy water sprinkles out through tiny holes throughout the weapon's head; creatures subject to damage from holy water take 1 point of damage in addition to the normal effect of being struck by the mace (a nonmagical aspergillum can deal holy water damage to an incorporeal creature in this manner, even if the mace itself deals no damage). After 5 hits, the battle aspergillum is empty and needs to be refilled. Filling it with holy water is a standard action that provokes attacks of opportunity (like drinking a potion. A filled aspergillum is normally carried upright, to prevent the holy water from leaking out as the weapon moves.
 
 battleaxe
 
@@ -472,7 +472,7 @@ bill
 
 **Type** martial
 
-The blade of this polearm is a curved or hooked chopping blade with a spiked projection on the back of the blade. The spike is commonly used to block and parry. When fighting defensively or with full defense, this weapon gives you a +1 shield bonus to AC. A mounted opponent hit by a bill takes a –1 penalty on his [Ride](skills/ride#_ride) check to stay mounted.
+The blade of this polearm is a curved or hooked chopping blade with a spiked projection on the back of the blade. The spike is commonly used to block and parry. When fighting defensively or with full defense, this weapon gives you a +1 shield bonus to AC. A mounted opponent hit by a bill takes a –1 penalty on his [Ride](skill_dir/ride#_ride) check to stay mounted.
 
 blowgun
 
@@ -612,7 +612,7 @@ dagger
 
 **Type** simple
 
-A dagger is a fighting knife. Its blade is usually less than 1 foot long, and can be curved or straight, with one edge or two. Dagger designs vary widely, and can have many different names (such as a thrusting dagger being called a "dirk"). You get a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) skill checks made to conceal a dagger on your body.
+A dagger is a fighting knife. Its blade is usually less than 1 foot long, and can be curved or straight, with one edge or two. Dagger designs vary widely, and can have many different names (such as a thrusting dagger being called a "dirk". You get a +2 bonus on [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand skill checks made to conceal a dagger on your body.
 
 dan Bong
 
@@ -660,7 +660,7 @@ Double Crossbow
 
 **Type** exotic
 
-This heavy weapon fires a pair of iron-tipped bolts with a single squeeze of the trigger. Because of its size and weight, you take a –4 penalty on your attack roll if you're proficient with it, or –8 if you're not. If the attack hits, the target takes damage from both bolts. Critical hits, sneak attack damage, and other precision-based damage apply to only the first bolt. Reloading one bolt is a standard action; the [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat reduces this to a move action. [Crossbow Mastery](advanced/advancedFeats#_crossbow-mastery) allows you to reload both bolts as a move action. A double crossbow fires crossbow bolts.
+This heavy weapon fires a pair of iron-tipped bolts with a single squeeze of the trigger. Because of its size and weight, you take a –4 penalty on your attack roll if you're proficient with it, or –8 if you're not. If the attack hits, the target takes damage from both bolts. Critical hits, sneak attack damage, and other precision-based damage apply to only the first bolt. Reloading one bolt is a standard action; the [Rapid Reload](ultimateComba_dir/ultimateCombatFeats#_rapid-reload feat reduces this to a move action. [Crossbow Mastery](advance_dir/advancedFeats#_crossbow-mastery) allows you to reload both bolts as a move action. A double crossbow fires crossbow bolts.
 
 double walking stick katana
 
@@ -766,7 +766,7 @@ gauntlet
 
 **Type** simple
 
-This metal glove lets you deal lethal damage rather than nonlethal damage with unarmed strikes. A strike with a gauntlet is otherwise considered an unarmed attack. The cost and weight given are for a single gauntlet. Medium and heavy armors (except breastplates) come with gauntlets. Your opponent cannot use a disarm action to disarm you of gauntlets.
+This metal glove lets you deal lethal damage rather than nonlethal damage with unarmed strikes. A strike with a gauntlet is otherwise considered an unarmed attack. The cost and weight given are for a single gauntlet. Medium and heavy armors (except breastplates come with gauntlets. Your opponent cannot use a disarm action to disarm you of gauntlets.
 
 gladius
 
@@ -790,7 +790,7 @@ glaive-guisarme
 
 **Type** martial
 
-This polearm combines the blade of a glaive with a wicked hook. A mounted opponent hit by a glaive-guisarme takes a –2 penalty on her [Ride](skills/ride#_ride) check to stay mounted.
+This polearm combines the blade of a glaive with a wicked hook. A mounted opponent hit by a glaive-guisarme takes a –2 penalty on her [Ride](skill_dir/ride#_ride) check to stay mounted.
 
 Gnome Hooked Hammer
 
@@ -876,7 +876,7 @@ Handaxe
 
 **Type** martial
 
-This one-handed axe is short (roughly 1 foot long) and designed for use with one hand. Unlike throwing axes, it is not well balanced for a graceful tumbling motion, and is instead heavier at its head. Tomahawks, war hatchets, and other such names usually refer to hand axes.
+This one-handed axe is short (roughly 1 foot long and designed for use with one hand. Unlike throwing axes, it is not well balanced for a graceful tumbling motion, and is instead heavier at its head. Tomahawks, war hatchets, and other such names usually refer to hand axes.
 
 harpoon
 
@@ -966,7 +966,7 @@ Iron Brush
 
 **Type** martial
 
-This is an iron-handled version of a scholar's brush with a sharpened handle. Though it does little damage, it is easily concealed (you gain a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks made to conceal an iron brush on your body) and can be thrown short distances, or used to jab at key nerve clusters and acupuncture points to surprisingly devastating effect.
+This is an iron-handled version of a scholar's brush with a sharpened handle. Though it does little damage, it is easily concealed (you gain a +2 bonus on [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) checks made to conceal an iron brush on your body) and can be thrown short distances, or used to jab at key nerve clusters and acupuncture points to surprisingly devastating effect.
 
 Javelin
 
@@ -998,7 +998,7 @@ Katana
 
 **Type** exotic
 
-Specifically constructed for samurai, katanas employ multiple types of steel combined in a distinctive forging process. The result are swords noted for their wickedly sharp yet slender, gently curved blades, designed to make graceful hacking strokes capable of severing opponents' heads and limbs. Though finely balanced, these blades are difficult to master. Characters can use a katana two-handed as a martial weapon, but must take the [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) (katana) feat to use it one-handed.
+Specifically constructed for samurai, katanas employ multiple types of steel combined in a distinctive forging process. The result are swords noted for their wickedly sharp yet slender, gently curved blades, designed to make graceful hacking strokes capable of severing opponents' heads and limbs. Though finely balanced, these blades are difficult to master. Characters can use a katana two-handed as a martial weapon, but must take the [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) (katana feat to use it one-handed.
 
 kerambit
 
@@ -1006,7 +1006,7 @@ kerambit
 
 **Type** martial
 
-This small, curved pull dagger has a metal loop at the base of its handle, allowing it to be secured with a pinky or worn on a string tied in the hair. While relatively small, the curved blade can create brutal wounds. Easily concealed (you gain a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks made to conceal a kerambit on your body), it is a favorite weapon of ninja and assassins.
+This small, curved pull dagger has a metal loop at the base of its handle, allowing it to be secured with a pinky or worn on a string tied in the hair. While relatively small, the curved blade can create brutal wounds. Easily concealed (you gain a +2 bonus on [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) checks made to conceal a kerambit on your body), it is a favorite weapon of ninja and assassins.
 
 Kestros
 
@@ -1022,7 +1022,7 @@ Kestros Dart
 
 **Type** ammunition
 
-This dart, meant to be thrown using a kestros, consists of a heavy metal point about 9 inches long attached to a shaft of wood about 12 inches long, fletched with feathers for stability. If used as a melee weapon, it is a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (critical multiplier ×2). Kestros darts come in a quiver that holds 10 darts.
+This dart, meant to be thrown using a kestros, consists of a heavy metal point about 9 inches long attached to a shaft of wood about 12 inches long, fletched with feathers for stability. If used as a melee weapon, it is a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (critical multiplier ×2. Kestros darts come in a quiver that holds 10 darts.
 
 Khopesh
 
@@ -1086,7 +1086,7 @@ Lasso
 
 **Type** exotic
 
-This thrown weapon is a length of rope with a simple open knot on one end that allows you entangle a foe like you would using a net. The DC to cast a spell while entangled with a lasso is 10 + the spell level being cast. An entangled creature can slip free with a successful DC 15 [Escape Artist](skills/escapeArtist#_escape-artist) check as a full-round action. The lasso has 2 hit points and AC 10, and requires a DC 23 Strength check to break it. On a successful hit, the lasso tightens; to use it again you must spend a standard action sliding the knot to enlarge the loop.
+This thrown weapon is a length of rope with a simple open knot on one end that allows you entangle a foe like you would using a net. The DC to cast a spell while entangled with a lasso is 10 + the spell level being cast. An entangled creature can slip free with a successful DC 15 [Escape Artist](skill_dir/escapeArtist#_escape-artist check as a full-round action. The lasso has 2 hit points and AC 10, and requires a DC 23 Strength check to break it. On a successful hit, the lasso tightens; to use it again you must spend a standard action sliding the knot to enlarge the loop.
 
 Light Crossbow
 
@@ -1250,7 +1250,7 @@ net
 
 A net is used to entangle enemies. When you throw a net, you make a ranged touch attack against your target. A net's maximum range is 10 feet. If you hit, the target is entangled. An entangled creature takes a –2 penalty on attack rolls and a –4 penalty to Dexterity, can move at only half speed, and cannot charge or run. If you control the trailing rope by succeeding at an opposed Strength check while holding it, the entangled creature can move only within the limits that the rope allows. If the entangled creature attempts to cast a spell, it must succeed at a concentration check with a DC of 15 + the spell's level or be unable to cast the spell.
 
-An entangled creature can escape with a successful DC 20 [Escape Artist](skills/escapeArtist#_escape-artist) check (a full-round action). The net has 5 hit points and can be burst with a successful DC 25 Strength check (also a full-round action). A net is useful only against creatures within one size category of you.
+An entangled creature can escape with a successful DC 20 [Escape Artist](skill_dir/escapeArtist#_escape-artist) check (a full-round action). The net has 5 hit points and can be burst with a successful DC 25 Strength check (also a full-round action. A net is useful only against creatures within one size category of you.
 
 A net must be folded to be thrown effectively. The first time you throw your net in a fight, you make a normal ranged touch attack roll. After the net is unfolded, you take a –4 penalty on attack rolls with it. It takes 2 rounds for a proficient user to fold a net and twice that long for a nonproficient one to do so.
 
@@ -1324,7 +1324,7 @@ Poisoned Sand Tube
 
 **Type** martial
 
-Resembling a slim scroll case made of bamboo or metal, this tube is filled with fine sand that is soaked or coated with inhaled or contact poison. When loaded with 3 doses of these types of poison, you can blow into the tube to disperse the poisoned sand into your enemies' faces in a 15-foot cone. Each creature in the cone is affected as if afflicted with 1 dose of the poison. Even when loaded with unpoisoned sand, the tube lets loose a powerful irritant, and an opponent struck must succeed at a DC 12 Fortitude saving throw or be dazzled for 1 round. Once expended, the tube must be repacked before it can be used again. Repacking a tube requires a full-round action, or a standard action if you have the [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat.
+Resembling a slim scroll case made of bamboo or metal, this tube is filled with fine sand that is soaked or coated with inhaled or contact poison. When loaded with 3 doses of these types of poison, you can blow into the tube to disperse the poisoned sand into your enemies' faces in a 15-foot cone. Each creature in the cone is affected as if afflicted with 1 dose of the poison. Even when loaded with unpoisoned sand, the tube lets loose a powerful irritant, and an opponent struck must succeed at a DC 12 Fortitude saving throw or be dazzled for 1 round. Once expended, the tube must be repacked before it can be used again. Repacking a tube requires a full-round action, or a standard action if you have the [Rapid Reload](ultimateComba_dir/ultimateCombatFeats#_rapid-reload) feat.
 
 Punching Dagger
 
@@ -1364,7 +1364,7 @@ rapier
 
 **Type** martial
 
-You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a rapier sized for you, even though it isn't a light weapon. You can't wield a rapier in two hands in order to apply 1-1/2 times your Strength modifier to its damage.
+You can use the [Weapon Finesse](feats#_weapon-finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a rapier sized for you, even though it isn't a light weapon. You can't wield a rapier in two hands in order to apply 1-1/2 times your Strength modifier to its damage.
 
 Repeating crossbow bolts
 
@@ -1608,7 +1608,7 @@ Snag Net
 
 **Type** exotic
 
-This short, wide net is covered in barbed loops and slipknots. It works like a typical net, except it has the trip weapon special feature. If you entangle an opponent and hold the trailing rope, on your turn in place of a melee attack you may make a combat maneuver check to trip against that opponent; if you succeed, you may trip your opponent or deal 1 point of piercing damage to it. The concentration DC to cast while entangled in a snag net is 17 + the spell's level. The [Escape Artist](skills/escapeArtist#_escape-artist) DC to escape a snag net is 22.
+This short, wide net is covered in barbed loops and slipknots. It works like a typical net, except it has the trip weapon special feature. If you entangle an opponent and hold the trailing rope, on your turn in place of a melee attack you may make a combat maneuver check to trip against that opponent; if you succeed, you may trip your opponent or deal 1 point of piercing damage to it. The concentration DC to cast while entangled in a snag net is 17 + the spell's level. The [Escape Artist](skill_dir/escapeArtist#_escape-artist) DC to escape a snag net is 22.
 
 Spear
 
@@ -1632,7 +1632,7 @@ Spiked Chain
 
 **Type** exotic
 
-A spiked chain is about 4 feet in length and covered in wicked barbs. Some have metal hoops to use as handgrips. You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a spiked chain sized for you, even though it isn't a light weapon.
+A spiked chain is about 4 feet in length and covered in wicked barbs. Some have metal hoops to use as handgrips. You can use the [Weapon Finesse](feats#_weapon-finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a spiked chain sized for you, even though it isn't a light weapon.
 
 Spiked Gauntlet
 
@@ -1672,7 +1672,7 @@ Sword Cane
 
 **Type** martial
 
-This slender light blade lies within a wooden container that serves as both its scabbard and hiding place. You can draw the blade as a swift action (or a free action if you have the [Quick Draw](feats#_quick-draw) feat). An observer must succeed at a DC 20 [Perception](skills/perception#_perception) check to realize an undrawn sword cane is a weapon rather than a walking stick; the DC decreases to 10 if the observer is able to handle the weapon. You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a sword cane sized for you, even though it isn't a light weapon. You can't wield a sword cane in two hands in order to apply 1-1/2 times your Strength modifier to damage.
+This slender light blade lies within a wooden container that serves as both its scabbard and hiding place. You can draw the blade as a swift action (or a free action if you have the [Quick Draw](feats#_quick-draw) feat). An observer must succeed at a DC 20 [Perception](skill_dir/perception#_perception) check to realize an undrawn sword cane is a weapon rather than a walking stick; the DC decreases to 10 if the observer is able to handle the weapon. You can use the [Weapon Finesse](feats#_weapon-finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a sword cane sized for you, even though it isn't a light weapon. You can't wield a sword cane in two hands in order to apply 1-1/2 times your Strength modifier to damage.
 
 Swordbreaker Dagger
 
@@ -1784,7 +1784,7 @@ Tube Arrow shooter
 
 **Type** martial
 
-This weapon consists of a small metal tube hidden within a sleeve; the tube holds a short, spring-loaded bamboo shaft. You gain a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks made to conceal a tube arrow shooter on your body. Releasing the fastener allows the spring to force the arrow out. Once a shaft is fired, the tube must be reloaded before it can be used again. Reloading a tube is a full-round action, or a standard action if the wielder has the [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat.
+This weapon consists of a small metal tube hidden within a sleeve; the tube holds a short, spring-loaded bamboo shaft. You gain a +2 bonus on [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand checks made to conceal a tube arrow shooter on your body. Releasing the fastener allows the spring to force the arrow out. Once a shaft is fired, the tube must be reloaded before it can be used again. Reloading a tube is a full-round action, or a standard action if the wielder has the [Rapid Reload](ultimateComba_dir/ultimateCombatFeats#_rapid-reload) feat.
 
 Two-Bladed Sword
 
@@ -1862,7 +1862,7 @@ A whip deals no damage to any creature with an armor bonus of +1 or higher or a 
 
 Using a whip provokes an attack of opportunity, just as if you had used a ranged weapon.
 
-You can use the [Weapon Finesse](feats#_weapon-finesse) feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a whip sized for you, even though it isn't a light weapon. You can't wield a whip in two hands in order to apply 1-1/2 times your Strength modifier to damage rolls.
+You can use the [Weapon Finesse](feats#_weapon-finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a whip sized for you, even though it isn't a light weapon. You can't wield a whip in two hands in order to apply 1-1/2 times your Strength modifier to damage rolls.
 
 Whistling arrow
 
@@ -1896,7 +1896,7 @@ What follows are additional rules for using firearms.
 
 **Firearm Proficiency** : The [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) (firearms) feat allows you to use all firearms without penalty. A nonproficient character takes the standard –4 penalty on attack rolls with firearms, and a nonproficient character who loads a firearm increases all misfire values by 4 for the shots he loads.
 
-Even though the [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) (firearms) feat grants you proficiency with all firearms, anytime you take a feat that modifies a single type of weapon (such as [Weapon Focus](feats#_weapon-focus) or [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload)), you must still pick one specific type of firearm (such as musket, axe musket, blunderbuss, pistol, or double pistol) for that feat to affect.
+Even though the [Exotic Weapon Proficiency](feats#_exotic-weapon-proficiency) (firearms) feat grants you proficiency with all firearms, anytime you take a feat that modifies a single type of weapon (such as [Weapon Focus](feats#_weapon-focus) or [Rapid Reload](ultimateComba_dir/ultimateCombatFeats#_rapid-reload)), you must still pick one specific type of firearm (such as musket, axe musket, blunderbuss, pistol, or double pistol) for that feat to affect.
 
 All firearms are part of the same weapon group for the purposes of the fighter's weapon training class feature.
 
@@ -1912,11 +1912,11 @@ All firearms are part of the same weapon group for the purposes of the fighter's
 
 > _Early Firearms:_ When firing an early firearm, the attack resolves against the target's touch AC when the target is within the first range increment of the weapon, but this type of attack is not considered a touch attack for the purposes of feats and abilities such as [Deadly Aim](feats#_deadly-aim). At higher range increments, the attack resolves normally, including taking the normal cumulative –2 penalty for each full range increment. Unlike other projectile weapons, early firearms have a maximum range of five range increments.
 > 
-> _Advanced Firearms:_ Advanced firearms resolve their attacks against touch AC when the target is within the first five range increments, but this type of attack is not considered a touch attack for the purposes of feats such as [Deadly Aim](feats#_deadly-aim). At higher range increments, the attack resolves normally, including taking the normal cumulative –2 penalty for each full-range increment. Advanced firearms have a maximum range of 10 range increments.
+> _Advanced Firearms:_ Advanced firearms resolve their attacks against touch AC when the target is within the first five range increments, but this type of attack is not considered a touch attack for the purposes of feats such as [Deadly Aim](feats#_deadly-aim. At higher range increments, the attack resolves normally, including taking the normal cumulative –2 penalty for each full-range increment. Advanced firearms have a maximum range of 10 range increments.
 
 **Loading a Firearm** : You need at least one hand free to load one-handed and two-handed firearms. In the case of two-handed firearms, you hold the weapon in one hand and load it with the other—you only need to hold it in two hands to aim and shoot the firearm.
 
-The [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat reduces the time required to load one-handed and two-handed firearms. Loading any firearm provokes attacks of opportunity. Other rules for loading a firearm depend on whether the firearm is an early firearm or an advanced firearm.
+The [Rapid Reload](ultimateComba_dir/ultimateCombatFeats#_rapid-reload feat reduces the time required to load one-handed and two-handed firearms. Loading any firearm provokes attacks of opportunity. Other rules for loading a firearm depend on whether the firearm is an early firearm or an advanced firearm.
 
 > _Early Firearms:_ Early firearms are all muzzle-loaded, requiring bullets or pellets and black powder to be rammed down the muzzle. If an early firearm has multiple barrels, each barrel must be loaded separately. It is a standard action to load each barrel of a one-handed early firearm and a full-round action to load each barrel of a two-handed early firearm.
 > 
@@ -1924,13 +1924,13 @@ The [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat reduce
 
 **Misfires** : If the natural result of your attack roll with a firearm is equal to or less than the firearm's misfire value, that shot misses, even if you would have otherwise hit the target. When a firearm misfires, it gains the broken condition. While it has the broken condition, it suffers the normal disadvantages that broken weapons do, and its misfire value increases by 4 unless the wielder has gun training in the particular type of firearm. In that case, the misfire value increases by 2 instead of 4.
 
-> _Early Firearms:_ If an early firearm with the broken condition misfires again, it explodes. When a nonmagical firearm explodes, the weapon is destroyed. Magical firearms are wrecked, which means they can't fire until they are fully restored (which requires either the make whole spell or the [Gunsmithing](ultimateCombat/ultimateCombatFeats#_gunsmithing) feat). When a gun explodes, pick one corner of your square—the explosion creates a burst from that point of origin. Each early firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon—a DC 12 Reflex save halves this damage.
+> _Early Firearms:_ If an early firearm with the broken condition misfires again, it explodes. When a nonmagical firearm explodes, the weapon is destroyed. Magical firearms are wrecked, which means they can't fire until they are fully restored (which requires either the make whole spell or the [Gunsmithing](ultimateComba_dir/ultimateCombatFeats#_gunsmithing) feat). When a gun explodes, pick one corner of your square—the explosion creates a burst from that point of origin. Each early firearm has a burst size noted in parentheses after its misfire value. Any creature within this burst (including the firearm's wielder) takes damage as if it had been hit by the weapon—a DC 12 Reflex save halves this damage.
 > 
 > _Advanced Firearms:_ Advanced firearms can misfire, but when they do, they only gain the broken condition. A subsequent misfire does not cause advanced firearms to explode.
 
 **Ammunition** : Firearm ammunition takes two forms: either black powder and shot (either bullets or pellets) or cartridges. Firearm ammunition is destroyed when it is used. Unlike other types of ammunition, there is no chance to retrieve firearm ammunition that misses. No part of a cartridge can be reused to create new cartridges. Firearm ammunition cannot be treated with poison, unless you are using a pitted bullet.
 
-**Concealing Firearms** : Like light weapons and hand crossbows, one-handed firearms are easy to conceal on your person. Some smaller firearms (like the coat pistol) can grant bonuses to conceal a weapon on your person.
+**Concealing Firearms** : Like light weapons and hand crossbows, one-handed firearms are easy to conceal on your person. Some smaller firearms (like the coat pistol can grant bonuses to conceal a weapon on your person.
 
 **Bucklers** : You can use a one-handed or two-handed firearm without penalty while carrying a buckler.
 
@@ -1938,7 +1938,7 @@ The [Rapid Reload](ultimateCombat/ultimateCombatFeats#_rapid-reload) feat reduce
 
 **Firearms, Black Powder, and Water** : Black powder becomes useless when exposed to water, but powder horns and cartridges protect black powder from exposure. You cannot normally load an early firearm underwater or fire any firearm underwater without magical aid.
 
-**Deflecting and Snatching Bullets** : The Deflect Arrows feat and the [Snatch](monsters/monsterFeats#_snatch) Arrows feat can be used to deflect bullets, but not pellets shot from a scatter weapon.
+**Deflecting and Snatching Bullets** : The Deflect Arrows feat and the [Snatch](monster_dir/monsterFeats#_snatch) Arrows feat can be used to deflect bullets, but not pellets shot from a scatter weapon.
 
 **Scatter (Weapon Quality)** : A weapon with the scatter weapon quality can shoot two different types of ammunition. It can fire normal bullets that target one creature, or it can make a scattering shot, attacking all creatures within a cone. Cannons with the scatter weapon quality only fire grapeshot, unless their descriptions state otherwise. When a scatter weapon attacks all creatures within a cone, it makes a separate attack roll against each creature within the cone. Each attack roll takes a –2 penalty, and its attack damage cannot be modified by precision damage or damage-increasing feats such as [Vital Strike](feats#_vital-strike). Effects that grant concealment, such as fog or smoke, or the blur, invisibility, or mirror image spells, do not foil a scatter attack. If any of the attack rolls threaten a critical, confirm the critical for that attack roll alone. A firearm that makes a scatter shot misfires only if all of the attack rolls are misfires. If a scatter weapon explodes on a misfire, it deals triple its damage to all creatures within the misfire radius.
 
@@ -1969,11 +1969,11 @@ Alchemical Cartridge
 
 An alchemical cartridge is a prepared bundle of black powder with a bullet or pellets, sometimes with more exotic material added, which is then wrapped in paper or cloth and sealed with beeswax, lard, or tallow. There are many types of alchemical cartridges, the simplest being the paper cartridge—a simple mix of black powder and either pellets or a bullet. Alchemical cartridges make loading a firearm easier, reducing the time to load a firearm by one step (a full-round action becomes a standard action, a standard action becomes a move action, and a move action becomes a free action), but they tend to be unstable. The misfire value of a weapon firing an alchemical cartridge increases as listed in each entry.
 
-_Dragon's Breath Cartridge_: This cartridge contains alchemical compounds that, when fired, produce a cone of fire instead of the normal attack of a one-handed or two-handed firearm with the scatter weapon quality. The nonmagical flame deals 2d6 points of fire damage to all targets within the cone of the scatter firearm (DC 15 Reflex save for half). These cartridges cannot be used in firearms that don't have the scatter weapon quality. Because this ammunition forces a saving throw instead of making an attack roll, the misfire rules are slightly different. If you roll a 1 with either of the damage dice, the firearm misfires.
+_Dragon's Breath Cartridge_: This cartridge contains alchemical compounds that, when fired, produce a cone of fire instead of the normal attack of a one-handed or two-handed firearm with the scatter weapon quality. The nonmagical flame deals 2d6 points of fire damage to all targets within the cone of the scatter firearm (DC 15 Reflex save for half. These cartridges cannot be used in firearms that don't have the scatter weapon quality. Because this ammunition forces a saving throw instead of making an attack roll, the misfire rules are slightly different. If you roll a 1 with either of the damage dice, the firearm misfires.
 
 _Entangling Shot Cartridge_: This mix of black powder and an alchemically treated resin strong enough to survive the shot can only be loaded into a blunderbuss, a dragon pistol, or another scatter weapon. It deals half damage to those hit by a cone attack made with this weapon, but any creature hit by the shot must succeed at a DC 15 Reflex saving throw or become entangled for 2d4 rounds. An entangling shot cartridge increases the firearm's misfire value by 2.
 
-_ [Flare](spells/flare#_flare) Cartridge_: When a flare cartridge hits its target, it deals only half the normal damage, but the creature struck is blinded for 1 round (Fortitude DC 15 reduces this to dazzled), and creatures within a 20-foot burst are dazzled for 1 round (Fortitude DC 15 negates the effect). Flare cartridges are also useful for sending up signal flares. Firing a flare cartridge increases the firearm's misfire value by 2 unless it is fired from a blunderbuss or a dragon pistol, in which case doing so only increases the firearm's misfire value by 1. Flares can be used only to attack single creatures; they do not work as a shot for a scatter weapon's cone attack.
+_ [Flare](spell_dir/flare#_flare) Cartridge_: When a flare cartridge hits its target, it deals only half the normal damage, but the creature struck is blinded for 1 round (Fortitude DC 15 reduces this to dazzled), and creatures within a 20-foot burst are dazzled for 1 round (Fortitude DC 15 negates the effect). Flare cartridges are also useful for sending up signal flares. Firing a flare cartridge increases the firearm's misfire value by 2 unless it is fired from a blunderbuss or a dragon pistol, in which case doing so only increases the firearm's misfire value by 1. Flares can be used only to attack single creatures; they do not work as a shot for a scatter weapon's cone attack.
 
 _Paper Cartridge_: This simple mix of black powder and either pellets or a bullet increases the misfire value by 1.
 
@@ -1994,7 +1994,7 @@ Black Powder
 | 1 dose | 10 gp | — |
 | 1 keg | 1,000 gp | 5 lbs. |
 
-Black powder is the key explosive component within a firearm that enables it to function, but in larger amounts this alchemical material can be quite destructive on its own as well. A single dose of black powder is enough to power a single shot from most one-handed and two-handed firearms, while 10 doses are required to fire a cannon. Black powder is often stored and transported in kegs (which hold 100 doses), but in this quantity the powder itself becomes dangerous. Exposure to fire, electricity, or a misfire explosion causes black powder to explode—a single keg that explodes in this manner deals 5d6 points of fire damage to anyone within a 20-foot burst (DC 15 Reflex half). Storing black powder in a powder horn protects the powder from explosion.
+Black powder is the key explosive component within a firearm that enables it to function, but in larger amounts this alchemical material can be quite destructive on its own as well. A single dose of black powder is enough to power a single shot from most one-handed and two-handed firearms, while 10 doses are required to fire a cannon. Black powder is often stored and transported in kegs (which hold 100 doses), but in this quantity the powder itself becomes dangerous. Exposure to fire, electricity, or a misfire explosion causes black powder to explode—a single keg that explodes in this manner deals 5d6 points of fire damage to anyone within a 20-foot burst (DC 15 Reflex half. Storing black powder in a powder horn protects the powder from explosion.
 
 Blunderbuss
 
@@ -2018,7 +2018,7 @@ Coat Pistol
 
 **Type** early
 
-Though less powerful than other, larger firearms, this pistol is small enough to be easily concealed in a jacket or coat. You get a +2 bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks made to conceal a coat pistol on your body. A coat pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. This is an early firearm.
+Though less powerful than other, larger firearms, this pistol is small enough to be easily concealed in a jacket or coat. You get a +2 bonus on [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) checks made to conceal a coat pistol on your body. A coat pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. This is an early firearm.
 
 Culverin
 
@@ -2026,7 +2026,7 @@ Culverin
 
 **Type** early
 
-The culverin, also known as a hand bombard, consists of a simple smoothbore tube, sealed at one end except for a small hole used to ignite a gunpowder charge. A wooden stock partially encases the barrel, allowing you to hold it under your arm with relative ease when carrying it. Firing a culverin without support (such as a wall, a window, or a stand) imposes a –4 penalty on attack rolls, and knocks you prone. A culverin uses 4 doses of black powder and grapeshot (a handful of pellets) as ammunition. Note that these statistics simulate only the original, hand-held culverins—their larger descendants are considered cannons and are dealt with in the siege weapon section of _Ultimate Combat_. This is an early firearm.
+The culverin, also known as a hand bombard, consists of a simple smoothbore tube, sealed at one end except for a small hole used to ignite a gunpowder charge. A wooden stock partially encases the barrel, allowing you to hold it under your arm with relative ease when carrying it. Firing a culverin without support (such as a wall, a window, or a stand) imposes a –4 penalty on attack rolls, and knocks you prone. A culverin uses 4 doses of black powder and grapeshot (a handful of pellets as ammunition. Note that these statistics simulate only the original, hand-held culverins—their larger descendants are considered cannons and are dealt with in the siege weapon section of _Ultimate Combat_. This is an early firearm.
 
 Dagger Pistol
 
@@ -2034,7 +2034,7 @@ Dagger Pistol
 
 **Type** early
 
-A combination of a coat pistol and a blade, the dagger pistol can be used as both weapons. The awkwardness of the configuration means you do not gain the bonus on [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) checks that either of those stand-alone weapons grants. The dagger pistol is considered a double weapon for the purpose of creating masterwork or magical versions of this weapon. If this firearm gains the broken condition, both the firearm component and the dagger component are considered broken. A dagger pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. This is an early firearm.
+A combination of a coat pistol and a blade, the dagger pistol can be used as both weapons. The awkwardness of the configuration means you do not gain the bonus on [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand) checks that either of those stand-alone weapons grants. The dagger pistol is considered a double weapon for the purpose of creating masterwork or magical versions of this weapon. If this firearm gains the broken condition, both the firearm component and the dagger component are considered broken. A dagger pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. This is an early firearm.
 
 Double Hackbut
 
@@ -2130,7 +2130,7 @@ Pepperbox Rifle
 
 **Type** advanced
 
-The four barrels of this rifle are set into a turnable housing that can be quickly rotated by hand (a free action) between shots. A pepperbox rifle uses metal cartridges as ammunition. This is an advanced firearm.
+The four barrels of this rifle are set into a turnable housing that can be quickly rotated by hand (a free action between shots. A pepperbox rifle uses metal cartridges as ammunition. This is an advanced firearm.
 
 Pistol
 
@@ -2148,7 +2148,7 @@ Pitted Bullet
 
 **Type** ammunition
 
-This ammunition is pitted with a pattern of small pocks into which specially formulated poison compounds can be applied. A poison compound is a derivative of a standard toxin that is alchemically reduced to a solid form. These can be made from any standard injury or contact poison with a successful [Craft](skills/craft#_craft) (poison) check equal to the poison's DC + 4. The cost of purchasing an already prepared poison compound for the purpose of treating pitted bullets is equal to the poison's base cost + 20 gp. Once crafted, the compound can be pasted into the ammunition's pitted design and allowed to harden. Upon completion, the bullet can be fired from an appropriate firearm, releasing the poison compound into its target upon impact, but the poison's DC is reduced by 2. A pitted bullet cannot be used with an alchemical cartridge. The listed cost does not include the cost of poison.
+This ammunition is pitted with a pattern of small pocks into which specially formulated poison compounds can be applied. A poison compound is a derivative of a standard toxin that is alchemically reduced to a solid form. These can be made from any standard injury or contact poison with a successful [Craft](skill_dir/craft#_craft) (poison) check equal to the poison's DC + 4. The cost of purchasing an already prepared poison compound for the purpose of treating pitted bullets is equal to the poison's base cost + 20 gp. Once crafted, the compound can be pasted into the ammunition's pitted design and allowed to harden. Upon completion, the bullet can be fired from an appropriate firearm, releasing the poison compound into its target upon impact, but the poison's DC is reduced by 2. A pitted bullet cannot be used with an alchemical cartridge. The listed cost does not include the cost of poison.
 
 Revolver
 
@@ -2176,7 +2176,7 @@ Shotgun
 
 This advanced version of the blunderbuss shoots in a 30-foot cone when firing pellets, and has a 20-foot range increment when firing a bullet (often called a slug). Shotguns can either be simple and functional, or art pieces in their own right, with engravings and inlay on the stocks and breeches. Those used by the upper class are often emblazoned with images of game animals, family crests, or elaborate maker's marks.
 
-A shotgun uses metal cartridges (loaded with either a bullet or pellets) as ammunition. This is an advanced firearm.
+A shotgun uses metal cartridges (loaded with either a bullet or pellets as ammunition. This is an advanced firearm.
 
 sword cane Pistol
 
@@ -2184,7 +2184,7 @@ sword cane Pistol
 
 **Type** early
 
-A combination weapon, this gun mixes a coat pistol with a sword cane. The sword cane pistol is considered a double weapon for the purpose of creating masterwork or magical versions of this weapon. The pistol attachment makes the nature of the weapon a little more difficult to hide. An observer must succeed at a DC 15 [Perception](skills/perception#_perception) check to realize that an undrawn sword cane pistol is a weapon rather than a simple walking stick; the DC decreases to 5 if the observer is able to handle the weapon. A sword cane pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. The sword part of the weapon must be drawn in order to load the pistol part of the weapon. This is an early firearm.
+A combination weapon, this gun mixes a coat pistol with a sword cane. The sword cane pistol is considered a double weapon for the purpose of creating masterwork or magical versions of this weapon. The pistol attachment makes the nature of the weapon a little more difficult to hide. An observer must succeed at a DC 15 [Perception](skill_dir/perception#_perception) check to realize that an undrawn sword cane pistol is a weapon rather than a simple walking stick; the DC decreases to 5 if the observer is able to handle the weapon. A sword cane pistol uses either a bullet and 1 dose of black powder or a single alchemical cartridge as ammunition. The sword part of the weapon must be drawn in order to load the pistol part of the weapon. This is an early firearm.
 
 Warhammer Musket
 
@@ -2287,7 +2287,7 @@ Bardiche, bec de corbin, bill, glaive, glaive-guisarme, guisarme, halberd, hooke
 
 Siege engines
 
-Ballista, bombard, catapult, corvus, firedrake, firewyrm, gallery, ram, siege tower, springal, trebuchet, and all other siege engines (see Ultimate Combat for more details)
+Ballista, bombard, catapult, corvus, firedrake, firewyrm, gallery, ram, siege tower, springal, trebuchet, and all other siege engines (see Ultimate Combat for more details
 
 spears
 

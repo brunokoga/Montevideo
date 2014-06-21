@@ -150,7 +150,7 @@ An attack of opportunity “interrupts” the normal flow of actions in the roun
 
 _Combat Reflexes and Additional Attacks of Opportunity_: If you have the [Combat Reflexes](feats#_combat-reflexes) feat, you can add your [Dexterity](gettingStarted#_dexterity) bonus to the number of attacks of opportunity you can make in a round. This feat does not let you make more than one attack for a given opportunity, but if the same opponent provokes two attacks of opportunity from you, you could make two separate attacks of opportunity (since each one represents a different opportunity). Moving out of more than one square threatened by the same opponent in the same round doesn't count as more than one opportunity for that opponent. All these attacks are at your full normal attack bonus.
 
- ![](image/AttacksOfOpportunity.jpg)
+ ![](imag_dir/AttacksOfOpportunity.jpg)
 
 ## Speed
 
@@ -190,19 +190,19 @@ _Will_: These saves reflect your resistance to mental influence as well as many 
 | Attack (unarmed) | Yes |
 | Activate a magic item other than a potion or oil | No |
 | Aid another | Maybe⁲ |
-| Cast a spell (1 standard action casting time) | Yes |
-| [Channel energy](classes/cleric#_channel-energy-cleric) | No |
-| [Concentrate to maintain an active spell](magic#_concentration) | No |
+| Cast a spell (1 standard action casting time | Yes |
+| [Channel energy](classe_dir/cleric#_channel-energy-cleric) | No |
+| [Concentrate to maintain an active spell](magic#_concentration | No |
 | Dismiss a spell | No |
-| Draw a hidden weapon (see [Sleight of Hand skill](skills/sleightOfHand#_sleight-of-hand)) | No |
-| Drink a [potion](magicItems/potions#_potions) or apply an oil | Yes |
-| Escape a [grapple](glossary#_grappled) | No |
-| [Feint](skills/bluff#_feint) | No |
+| Draw a hidden weapon (see [Sleight of Hand skill](skill_dir/sleightOfHand#_sleight-of-hand) | No |
+| Drink a [potion](magicItem_dir/potions#_potions) or apply an oil | Yes |
+| Escape a [grapple](glossary#_grappled | No |
+| [Feint](skill_dir/bluff#_feint) | No |
 | Light a torch with a tindertwig | Yes |
-| Lower [spell resistance](glossary#_spell-resistance) | No |
-| Read a [scroll](magicItems/scrolls#_table-15-15-scrolls) | Yes |
-| Ready (triggers a standard action) | No |
-| Stabilize a dying friend (see [Heal skill](skills/heal#_heal)) | Yes |
+| Lower [spell resistance](glossary#_spell-resistance | No |
+| Read a [scroll](magicItem_dir/scrolls#_table-15-15-scrolls) | Yes |
+| Ready (triggers a standard action | No |
+| Stabilize a dying friend (see [Heal skill](skill_dir/heal#_heal)) | Yes |
 | Total defense | No |
 | Use [extraordinary ability](gettingStarted#_extraordinary-abilities) | No |
 | Use skill that takes 1 action | Usually |
@@ -215,9 +215,9 @@ _Will_: These saves reflect your resistance to mental influence as well as many 
 | Control a frightened mount | Yes |
 | Direct or redirect an active spell | No |
 | Draw a weapon⁳ | No |
-| Load a [hand crossbow](equipment#_weapon-descriptions) or [light crossbow](equipment#_weapon-descriptions) | Yes |
+| Load a [hand crossbow](equipment#_weapon-descriptions) or [light crossbow](equipment#_weapon-descriptions | Yes |
 | Open or close a door | No |
-| Mount/dismount a steed | No |
+| Moun_dir/dismount a steed | No |
 | Move a heavy object | Yes |
 | Pick up an item | Yes |
 | Sheathe a weapon | Yes |
@@ -246,7 +246,7 @@ _Will_: These saves reflect your resistance to mental influence as well as many 
 | Cease [concentration](magic#_concentration) on a spell | No |
 | Drop an item | No |
 | Drop to the floor | No |
-| Prepare [spell components](magic#_preparing-wizard-spells) to cast a spell⁵ | No |
+| Prepare [spell components](magic#_preparing-wizard-spells to cast a spell⁵ | No |
 | Speak | No |
 
 | Swift Action | Attack of Opportunityⁱ |
@@ -255,7 +255,7 @@ _Will_: These saves reflect your resistance to mental influence as well as many 
 
 | Immediate Action | Attack of Opportunityⁱ |
 | --- | --- |
-| Cast [_feather fall_](spells/featherFall#_feather-fall) | No |
+| Cast [_feather fall_](spell_dir/featherFall#_feather-fall) | No |
 
 | No Action | Attack of Opportunityⁱ |
 | --- | --- |
@@ -333,7 +333,7 @@ _Dealing Lethal Damage_: You can specify that your unarmed strike will deal leth
 
 **Ranged Attacks** : With a ranged weapon, you can shoot or throw at any target that is within the weapon's maximum range and in line of sight. The maximum range for a thrown weapon is five range increments. For projectile weapons, it is 10 range increments. Some ranged weapons have shorter maximum ranges, as specified in their descriptions.
 
-**Natural Attacks** : Attacks made with natural weapons, such as claws and bites, are melee attacks that can be made against any creature within your reach (usually 5 feet). These attacks are made using your full attack bonus and deal an amount of damage that depends on their type (plus your [Strength](gettingStarted#_strength) modifier, as normal). You do not receive additional natural attacks for a high base attack bonus. Instead, you receive additional attack rolls for multiple limb and body parts capable of making the attack (as noted by the race or ability that grants the attacks). If you possess only one natural attack (such as a bite—two claw attacks do not qualify), you add 1–1/2 times your [Strength](gettingStarted#_strength) bonus on damage rolls made with that attack.
+**Natural Attacks** : Attacks made with natural weapons, such as claws and bites, are melee attacks that can be made against any creature within your reach (usually 5 feet). These attacks are made using your full attack bonus and deal an amount of damage that depends on their type (plus your [Strength](gettingStarted#_strength) modifier, as normal). You do not receive additional natural attacks for a high base attack bonus. Instead, you receive additional attack rolls for multiple limb and body parts capable of making the attack (as noted by the race or ability that grants the attacks). If you possess only one natural attack (such as a bite—two claw attacks do not qualify, you add 1–1/2 times your [Strength](gettingStarted#_strength) bonus on damage rolls made with that attack.
 
 Some natural attacks are denoted as secondary natural attacks, such as tails and wings. Attacks with secondary natural attacks are made using your base attack bonus minus 5. These attacks deal an amount of damage depending on their type, but you only add half your [Strength](gettingStarted#_strength) modifier on damage rolls.
 
@@ -403,7 +403,7 @@ _Holding the Charge_: If you don't discharge the spell in the round when you cas
 
 **Dismiss a Spell** : Dismissing an active spell is a standard action that doesn't provoke attacks of opportunity.
 
-### Start/Complete Full-Round Action
+### Star_dir/Complete Full-Round Action
 
 The “start full-round action” standard action lets you start undertaking a full-round action, which you can complete in the following round by using another standard action. You can't use this action to start or complete a full attack, charge, run, or withdraw.
 
@@ -447,7 +447,7 @@ Drawing a weapon so that you can use it in combat, or putting it away so that yo
 
 If you have a base attack bonus of +1 or higher, you may draw a weapon as a free action combined with a regular move. If you have the [Two-Weapon Fighting](feats#_two-weapon-fighting) feat, you can draw two light or one-handed weapons in the time it would normally take you to draw one.
 
-Drawing ammunition for use with a ranged weapon (such as arrows, bolts, sling bullets, or shuriken) is a free action.
+Drawing ammunition for use with a ranged weapon (such as arrows, bolts, sling bullets, or shuriken is a free action.
 
 ### Manipulate an Item
 
@@ -455,7 +455,7 @@ Moving or manipulating an item is usually a move action.
 
 This includes retrieving or putting away a stored item, picking up an item, moving a heavy object, and opening a door. Examples of this kind of action, along with whether they incur an attack of opportunity, are given in Table: Actions in Combat.
 
-### Mount/Dismount a Steed
+### Moun_dir/Dismount a Steed
 
 Mounting or dismounting a steed requires a move action.
 
@@ -788,9 +788,9 @@ These rules cover special movement situations.
 
 If movement cost is doubled twice, then each square counts as 4 squares (or as 6 squares if moving diagonally). If movement cost is doubled three times, then each square counts as 8 squares (12 if diagonal) and so on. This is an exception to the general rule that two doublings are equivalent to a tripling.
 
-**Minimum Movement** : Despite whatever penalties to movement you might have, you can take a full-round action to move 5 feet (1 square) in any direction, even diagonally. This rule doesn't allow you to move through impassable terrain or to move when all movement is prohibited. Such movement provokes attacks of opportunity as normal (despite the distance covered, this move isn't a 5-foot step).
+**Minimum Movement** : Despite whatever penalties to movement you might have, you can take a full-round action to move 5 feet (1 square) in any direction, even diagonally. This rule doesn't allow you to move through impassable terrain or to move when all movement is prohibited. Such movement provokes attacks of opportunity as normal (despite the distance covered, this move isn't a 5-foot step.
 
- ![](image/TacticalMovement.jpg)
+ ![](imag_dir/TacticalMovement.jpg
 
 # Big And Little Creatures In Combat
 
@@ -880,7 +880,7 @@ When making a melee attack against an adjacent target, your target has cover if 
 
 **Improved Cover** : In some cases, such as attacking a target hiding behind an arrowslit, cover may provide a greater bonus to AC and Reflex saves. In such situations, the normal cover bonuses to AC and Reflex saves can be doubled (to +8 and +4, respectively). A creature with this improved cover effectively gains improved evasion against any attack to which the Reflex save bonus applies. Furthermore, improved cover provides a +10 bonus on Stealth checks.
 
- ![](image/Cover.jpg)
+ ![](imag_dir/Cover.jpg)
 
 ## Concealment
 
@@ -906,7 +906,7 @@ You can't execute an attack of opportunity against an opponent with total concea
 
 When making a melee attack, you get a +2 flanking bonus if your opponent is threatened by another enemy character or creature on its opposite border or opposite corner.
 
-When in doubt about whether two characters flank an opponent in the middle, trace an imaginary line between the two attackers' centers. If the line passes through opposite borders of the opponent's space (including corners of those borders), then the opponent is flanked.
+When in doubt about whether two characters flank an opponent in the middle, trace an imaginary line between the two attackers' centers. If the line passes through opposite borders of the opponent's space (including corners of those borders, then the opponent is flanked.
 
 _Exception_: If a flanker takes up more than 1 square, it gets the flanking bonus if any square it occupies counts for flanking.
 
@@ -914,7 +914,7 @@ Only a creature or character that threatens the defender can help an attacker ge
 
 Creatures with a reach of 0 feet can't flank an opponent.
 
- ![](image/Flanking.jpg)
+ ![](imag_dir/Flanking.jpg)
 
 ## Helpless Defenders
 
@@ -1118,7 +1118,7 @@ You can take a 5-foot step as part of your readied action, but only if you don't
 
 **Distracting Spellcasters** : You can ready an attack against a spellcaster with the trigger “if she starts casting a spell.” If you damage the spellcaster, she may lose the spell she was trying to cast (as determined by her Spellcraft check result).
 
-**Readying to Counterspell** : You may ready a counterspell against a spellcaster (often with the trigger “if she starts casting a spell”). In this case, when the spellcaster starts a spell, you get a chance to identify it with a Spellcraft check (DC 15 + spell level). If you do, and if you can cast that same spell (and are able to cast it and have it prepared, if you prepare spells), you can cast the spell as a counterspell and automatically ruin the other spellcaster's spell. Counterspelling works even if one spell is divine and the other arcane.
+**Readying to Counterspell** : You may ready a counterspell against a spellcaster (often with the trigger “if she starts casting a spell”). In this case, when the spellcaster starts a spell, you get a chance to identify it with a Spellcraft check (DC 15 + spell level). If you do, and if you can cast that same spell (and are able to cast it and have it prepared, if you prepare spells, you can cast the spell as a counterspell and automatically ruin the other spellcaster's spell. Counterspelling works even if one spell is divine and the other arcane.
 
 A spellcaster can use _dispel magic _to counterspell another spellcaster, but it doesn't always work.
 

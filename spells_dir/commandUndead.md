@@ -3,11 +3,11 @@ title: spells/commandUndead
 ---
  **Command Undead**
 
-**School** necromancy; **Level** sorcerer/wizard 2
+**School** necromancy; **Level** sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a shred of raw meat and a splinter of bone)
+**Components** V, S, M (a shred of raw meat and a splinter of bone
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

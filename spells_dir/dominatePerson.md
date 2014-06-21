@@ -1,9 +1,9 @@
 ---
-title: spells/dominatePerson
+title: spell_dir/dominatePerson
 ---
  **Dominate Person**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, sorcerer/wizard 5
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 4, sorcerer/wizard 5
 
 **Casting Time** 1 round
 

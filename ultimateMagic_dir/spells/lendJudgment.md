@@ -13,11 +13,11 @@ Lend Judgment
 
 **Target** one ally
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-You create a conduit of divine knowledge and outrage between you and an ally. That ally gains the benefit of one of your active judgments (as do you). If you cannot use a judgment (for example, if you are not in combat, are frightened or unconscious, and so on) or change judgments, the ally loses the benefit of the judgment. If you have multiple judgments active, the ally gains only one, chosen when you cast this spell.
+You create a conduit of divine knowledge and outrage between you and an ally. That ally gains the benefit of one of your active judgments (as do you). If you cannot use a judgment (for example, if you are not in combat, are frightened or unconscious, and so on or change judgments, the ally loses the benefit of the judgment. If you have multiple judgments active, the ally gains only one, chosen when you cast this spell.
 
 Lend Judgment, Greater
 
@@ -31,9 +31,9 @@ Lend Judgment, Greater
 
 **Target** one ally
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
 
 This functions as _lend judgment_, except the ally gains the benefit of all your active judgments.
 

@@ -13,11 +13,11 @@ title: advanced/spells/painStrike
 
 **Target** one living creature
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D)
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-_Pain strike _racks the targeted creature with agony, inflicting 1d6 points of nonlethal damage per round for 1 round per level (maximum 10 rounds). Additionally, the affected creature is sickened for the spell's duration, and the caster gains a +4 circumstance bonus on [Intimidate](../../skills/intimidate#_intimidate) checks against the target.
+_Pain strike _racks the targeted creature with agony, inflicting 1d6 points of nonlethal damage per round for 1 round per level (maximum 10 rounds. Additionally, the affected creature is sickened for the spell's duration, and the caster gains a +4 circumstance bonus on [Intimidate](../../skill_dir/intimidate#_intimidate checks against the target.
 
 **Pain Strike, Mass**
 

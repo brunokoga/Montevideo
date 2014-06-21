@@ -13,9 +13,9 @@ Blessing of the Mole
 
 **Area** 1 creature/level
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
-**Saving Throw** none (harmless); **Spell Resistance** yes (harmless)
+**Saving Throw** none (harmless); **Spell Resistance** yes (harmless
 
-The targets gain darkvision 30 feet and a +2 competence bonus on [Stealth](skills/stealth#_stealth) checks.
+The targets gain darkvision 30 feet and a +2 competence bonus on [Stealth](skill_dir/stealth#_stealth checks.
 

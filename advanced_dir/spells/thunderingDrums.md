@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/thunderingDrums
+title: advanced/spell_dir/thunderingDrums
 ---
  **Thundering Drums**
 
@@ -17,5 +17,5 @@ title: advanced/spells/thunderingDrums
 
 **Saving Throw** Fortitude partial; **Spell Resistance** yes
 
-You strike the ground in front of you, filling the area in front of you with the thunder of pounding drums. Any creature in the area takes 1d8 points of sonic damage per caster level (maximum 5d8) and is knocked prone. A successful Fortitude save halves the damage and negates being knocked prone.
+You strike the ground in front of you, filling the area in front of you with the thunder of pounding drums. Any creature in the area takes 1d8 points of sonic damage per caster level (maximum 5d8 and is knocked prone. A successful Fortitude save halves the damage and negates being knocked prone.
 

@@ -11,13 +11,13 @@ XP 76,800
 
 CE Gargantuan magical beast
 
-**Init** +4; **Senses** darkvision 120 ft., [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +28
+**Init** +4; **Senses** darkvision 120 ft., [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +28
 
 Defense
 
 **AC** 31, touch 11, flat-footed 26 (+4 Dex, +1 dodge, +20 natural, –4 size)
 
-**hp** 283 (21d10+168)
+**hp** 283 (21d10+168
 
 **Fort** +20, **Ref** +16, **Will** +12
 
@@ -31,22 +31,22 @@ Offense
 
 **Space** 20 ft.; **Reach** 20 ft.
 
-**Special Attacks** impaling bite, thunderous stomp (DC 28), [trample](monsters/universalMonsterRules#_trample) (2d6+19, DC 33)
+**Special Attacks** impaling bite, thunderous stomp (DC 28), [trample](monster_dir/universalMonsterRules#_trample) (2d6+19, DC 33)
 
 Statistics
 
 **Str** 36, **Dex** 19, **Con** 26, **Int** 15, **Wis** 20, **Cha** 15
 
-**Base Atk** +21; **CMB** +38; **CMD** 53 (55 vs. trip)
+**Base Atk** +21; **CMB** +38; **CMD** 53 (55 vs. trip
 
-**Feats** [Awesome Blow](monsters/monsterFeats#_awesome-blow), [Bleeding Critical](feats#_bleeding-critical), [Cleave](feats#_cleave), [Critical Focus](feats#_critical-focus), [Dodge](feats#_dodge), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Critical](feats#_improved-critical) (bite), [Mobility](feats#_mobility), [Multiattack](monsters/monsterFeats#_multiattack), [Power Attack](feats#_power-attack), [Spring Attack](feats#_spring-attack)
+**Feats** [Awesome Blow](monster_dir/monsterFeats#_awesome-blow), [Bleeding Critical](feats#_bleeding-critical), [Cleave](feats#_cleave), [Critical Focus](feats#_critical-focus), [Dodge](feats#_dodge), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Critical](feats#_improved-critical) (bite), [Mobility](feats#_mobility, [Multiattack](monster_dir/monsterFeats#_multiattack), [Power Attack](feats#_power-attack), [Spring Attack](feats#_spring-attack
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +15 (+19 when jumping), [Bluff](skills/bluff#_bluff) +4, [Intimidate](skills/intimidate#_intimidate) +15, [Perception](skills/perception#_perception) +28, [Sense Motive](skills/senseMotive#_sense-motive) +13, [Stealth](skills/stealth#_stealth) +10,   
- [Swim](skills/swim#_swim) +45
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +15 (+19 when jumping, [Bluff](skill_dir/bluff#_bluff +4, [Intimidate](skill_dir/intimidate#_intimidate +15, [Perception](skill_dir/perception#_perception +28, [Sense Motive](skill_dir/senseMotive#_sense-motive +13, [Stealth](skill_dir/stealth#_stealth +10,   
+ [Swim](skill_dir/swim#_swim +45
 
 **Languages** Aquan, Common, Draconic
 
-**SQ** [aquatic](monsters/creatureTypes#_aquatic-subtype) elusion, [hold breath](monsters/universalMonsterRules#_hold-breath)
+**SQ** [aquatic](monster_dir/creatureTypes#_aquatic-subtype elusion, [hold breath](monster_dir/universalMonsterRules#_hold-breath)
 
 Ecology
 
@@ -54,15 +54,15 @@ Ecology
 
 **Organization** solitary
 
-**Treasure** double (at least 50% gems)
+**Treasure** double (at least 50% gems
 
 Special Abilities
 
-**[Aquatic](monsters/creatureTypes#_aquatic-subtype) Elusion (Su)** As a standard action, a grootslang that is fully immersed in [water](monsters/creatureTypes#_water-subtype) can teleport to another body of [water](monsters/creatureTypes#_water-subtype) without error. This ability functions like _ [tree stride](spells/treeStride#_tree-stride)_, but the grootslang can exit from any body of [water](monsters/creatureTypes#_water-subtype) within 1 mile so long as both the entry and exit are wide enough for the creature to enter.
+**[Aquatic](monster_dir/creatureTypes#_aquatic-subtype) Elusion (Su** As a standard action, a grootslang that is fully immersed in [water](monster_dir/creatureTypes#_water-subtype can teleport to another body of [water](monster_dir/creatureTypes#_water-subtype without error. This ability functions like _ [tree stride](spell_dir/treeStride#_tree-stride_, but the grootslang can exit from any body of [water](monster_dir/creatureTypes#_water-subtype) within 1 mile so long as both the entry and exit are wide enough for the creature to enter.
 
 **Impaling Bite (Ex)** A grootslang can make a bite attack against any creature it is grappling with its tail. If this attack hits, it is automatically treated as a critical threat.
 
-**Thunderous Stomp (Ex)** As a full-round action, a grootslang can rear up on its serpentine body to bring its massive forelimbs down with awesome force. The grootslang chooses two adjacent targets to be affected as though trampling them. In addition, each creature within 10 feet must make a DC 28 Reflex save or be knocked prone. The save DC is Constitution-based
+**Thunderous Stomp (Ex** As a full-round action, a grootslang can rear up on its serpentine body to bring its massive forelimbs down with awesome force. The grootslang chooses two adjacent targets to be affected as though trampling them. In addition, each creature within 10 feet must make a DC 28 Reflex save or be knocked prone. The save DC is Constitution-based
 
 Legends claim that the grootslang is a primordial creature as old as the world itself. Such tales state that in those ancient days, the gods—new to the crafting of things—made a terrible mistake in the grootslang's creation, for they gave it tremendous strength, cunning, and intellect. Upon realizing their mistake, the gods split the grootslang into separate creatures and thus created the first elephants and the first snakes. But one of the original grootslangs escaped, and from this first sire all other grootslangs were born. Scholars debate the veracity of such stories, and have looked to either biological or magical explanations of the creature's origins, but nevertheless bards and sages alike agree that the grootslang's fearsome reputation is well deserved.
 

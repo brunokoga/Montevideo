@@ -1,5 +1,5 @@
 ---
-title: advanced/advancedCoreClasses
+title: advance_dir/advancedCoreClasses
 ---
 # Core Classes
 
@@ -7,7 +7,7 @@ From the noble paladin to the skillful rogue, each core class in the _Pathfinder
 
 # Alternate Class Features
 
-Most of the options presented on the following pages include a host of alternate class features. When a character selects a class, he must choose to use the standard class features found in the _Core Rulebook_ or those listed in one of the archetypes presented here. Each alternate class feature replaces a specific class feature from its parent class. For example, the elemental fist class feature of the monk of the four winds replaces the stunning fist class feature of the monk. When an archetype includes multiple class features, a character must take all of them—often blocking the character from ever gaining certain familiar class features, but replacing them with equally powerful options. All of the other class features found in the core class and not mentioned among the alternate class features remain unchanged and are acquired normally when the character reaches the appropriate level (unless noted otherwise). A character who takes an alternate class feature does not count as having the class feature that was replaced when meeting any requirements or prerequisites.
+Most of the options presented on the following pages include a host of alternate class features. When a character selects a class, he must choose to use the standard class features found in the _Core Rulebook_ or those listed in one of the archetypes presented here. Each alternate class feature replaces a specific class feature from its parent class. For example, the elemental fist class feature of the monk of the four winds replaces the stunning fist class feature of the monk. When an archetype includes multiple class features, a character must take all of them—often blocking the character from ever gaining certain familiar class features, but replacing them with equally powerful options. All of the other class features found in the core class and not mentioned among the alternate class features remain unchanged and are acquired normally when the character reaches the appropriate level (unless noted otherwise. A character who takes an alternate class feature does not count as having the class feature that was replaced when meeting any requirements or prerequisites.
 
 A character can take more than one archetype and garner additional alternate class features, but none of the alternate class features can replace or alter the same class feature from the core class as another alternate class feature. For example, a paladin could not be both a hospitaler and an undead scourge since they both modify the smite evil class feature and both replace the aura of justice class feature. A paladin could, however, be both an undead scourge and a warrior of the holy light, since none of their new class features replace the same core class feature.
 
@@ -21,25 +21,25 @@ While the GM might want to make concessions for players who didn't have these al
 
 The core class archetypes that follow are included in this chapter. Characters may take more than one archetype if they meet the requirements.
 
-**[Barbarian](coreClasses/barbarian)** : Breaker, Brutal Pugilist, Drunken Brute, Elemental Kin, Hurler, Invulnerable Rager, Mounted Fury, Savage Barbarian, Superstitious, and Totem Warrior. This section also includes a host of new rage powers that any barbarian can take.
+**[Barbarian](coreClasse_dir/barbarian** : Breaker, Brutal Pugilist, Drunken Brute, Elemental Kin, Hurler, Invulnerable Rager, Mounted Fury, Savage Barbarian, Superstitious, and Totem Warrior. This section also includes a host of new rage powers that any barbarian can take.
 
-**[Bard](coreClasses/bard)** : Arcane Duelist, Archivist, Court Bard, Detective, Magician, Sandman, Savage Skald, Sea Singer, and Street Performer.
+**[Bard](coreClasse_dir/bard** : Arcane Duelist, Archivist, Court Bard, Detective, Magician, Sandman, Savage Skald, Sea Singer, and Street Performer.
 
-**[Cleric](coreClasses/cleric)** : Instead of specific archetypes, each cleric can choose from a host of subdomains that focus on one aspect of their deity's power. Two or more subdomains are presented for each domain.
+**[Cleric](coreClasse_dir/cleric** : Instead of specific archetypes, each cleric can choose from a host of subdomains that focus on one aspect of their deity's power. Two or more subdomains are presented for each domain.
 
-**[Druid](coreClasses/druid)** : Aquatic Druid, Arctic Druid, Blight Druid, Cave Druid, Desert Druid, Jungle Druid, Mountain Druid, Plains Druid, Swamp Druid, and Urban Druid. Alternatively, druid can choose to be an animal shaman, such as a Bear Shaman, Eagle Shaman, Lion Shaman, Serpent Shaman, or Wolf Shaman.
+**[Druid](coreClasse_dir/druid** : Aquatic Druid, Arctic Druid, Blight Druid, Cave Druid, Desert Druid, Jungle Druid, Mountain Druid, Plains Druid, Swamp Druid, and Urban Druid. Alternatively, druid can choose to be an animal shaman, such as a Bear Shaman, Eagle Shaman, Lion Shaman, Serpent Shaman, or Wolf Shaman.
 
-**[Fighter](coreClasses/fighter)** : Archer, Crossbowman, Free Hand Fighter, Mobile Fighter, Phalanx Soldier, Polearm Master, Roughrider, Savage Warrior, Shielded Fighter, Two-Handed Fighter, Two-Weapon Warrior, and Weapon Master.
+**[Fighter](coreClasse_dir/fighter** : Archer, Crossbowman, Free Hand Fighter, Mobile Fighter, Phalanx Soldier, Polearm Master, Roughrider, Savage Warrior, Shielded Fighter, Two-Handed Fighter, Two-Weapon Warrior, and Weapon Master.
 
-**[Monk](coreClasses/monk)** : Drunken Master, Hungry Ghost Monk, _Ki_ Mystic, Monk of the Empty Hand, Monk of the Four Winds, Monk of the Healing Hand, Monk of the Lotus, Monk of the Sacred Mountain, Weapon Adept, Zen Archer.
+**[Monk](coreClasse_dir/monk** : Drunken Master, Hungry Ghost Monk, _Ki_ Mystic, Monk of the Empty Hand, Monk of the Four Winds, Monk of the Healing Hand, Monk of the Lotus, Monk of the Sacred Mountain, Weapon Adept, Zen Archer.
 
-**[Paladin](coreClasses/paladin)** : Divine Defender, Hospitaler, Sacred Servant, Shining Knight, Undead Scourge, and Warrior of the Holy Light. This section also includes rules for an alternate version of the paladin class, the antipaladin.
+**[Paladin](coreClasse_dir/paladin** : Divine Defender, Hospitaler, Sacred Servant, Shining Knight, Undead Scourge, and Warrior of the Holy Light. This section also includes rules for an alternate version of the paladin class, the antipaladin.
 
-**[Ranger](coreClasses/ranger)** : Beast Master, Guide, Horse Lord, Infiltrator, Shapeshifter, Skirmisher, Spirit Ranger, and Urban Ranger. This section also includes new combat style choices that any ranger can take.
+**[Ranger](coreClasse_dir/ranger** : Beast Master, Guide, Horse Lord, Infiltrator, Shapeshifter, Skirmisher, Spirit Ranger, and Urban Ranger. This section also includes new combat style choices that any ranger can take.
 
-**[Rogue](coreClasses/rogue)** : Acrobat, Burglar, Cutpurse, Investigator, Poisoner, Rake, Scout, Sniper, Spy, Swashbuckler, Thug, and Trapsmith. This section also includes a number of rogue talents and advanced rogue talents that any rogue can take.
+**[Rogue](coreClasse_dir/rogue** : Acrobat, Burglar, Cutpurse, Investigator, Poisoner, Rake, Scout, Sniper, Spy, Swashbuckler, Thug, and Trapsmith. This section also includes a number of rogue talents and advanced rogue talents that any rogue can take.
 
-**[Sorcerer](coreClasses/sorcerer)** : Aquatic Bloodline, Boreal Bloodline, Deepearth Bloodline, Dreamspun Bloodline, Protean Bloodline, Serpentine Bloodline, Shadow Bloodline, Starsoul Bloodline, Stormborn Bloodline, and Verdant Bloodline. Unlike other alternate class features, a sorcerer may never have more than one bloodline.
+**[Sorcerer](coreClasse_dir/sorcerer** : Aquatic Bloodline, Boreal Bloodline, Deepearth Bloodline, Dreamspun Bloodline, Protean Bloodline, Serpentine Bloodline, Shadow Bloodline, Starsoul Bloodline, Stormborn Bloodline, and Verdant Bloodline. Unlike other alternate class features, a sorcerer may never have more than one bloodline.
 
-**[Wizard](coreClasses/wizard)** : This section includes four elemental wizard schools, air, earth, fire, and water. It also includes focused arcane schools, which allow wizards of one school to focus on one element of that school's power.
+**[Wizard](coreClasse_dir/wizard** : This section includes four elemental wizard schools, air, earth, fire, and water. It also includes focused arcane schools, which allow wizards of one school to focus on one element of that school's power.
 

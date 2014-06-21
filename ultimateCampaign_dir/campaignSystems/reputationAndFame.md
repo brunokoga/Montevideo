@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/campaignSystems/reputationAndFame
+title: ultimateCampaign/campaignSystem_dir/reputationAndFame
 ---
 # Reputation and Fame
 
@@ -9,7 +9,7 @@ Reputation represents how the general public perceives you, whether positively o
 
 When using these reputation rules, the GM needs to establish what reputation means to the players and NPCs of the campaign. For instance, a viking-themed campaign might base reputation on pillaging. Regardless, the basic concept for how you earn a reputation remains the same: You gain reputation when word of your deeds spreads. The more fantastic or socially significant your deeds, the better tales they make. If you are able to establish a strong or noteworthy reputation, you may be extolled for your actions and afforded resources beyond those obtainable by lesser-known individuals. Similarly, you can use your reputation to influence people socially, politically, and financially.
 
-Three factors determine your reputation: Fame, Sphere of Influence, and Prestige Points. Your Fame increases and decreases depending on your actions. Your current Fame determines your overall reputation and maximum potential for cashing in on your fame (for a heroic character) or infamy (for a villainous character). Sphere of Influence defines the places where you can apply the benefits of your reputation. You can reap the benefits of your reputation by spending Prestige Points on awards, including temporary bonuses and favors.
+Three factors determine your reputation: Fame, Sphere of Influence, and Prestige Points. Your Fame increases and decreases depending on your actions. Your current Fame determines your overall reputation and maximum potential for cashing in on your fame (for a heroic character) or infamy (for a villainous character. Sphere of Influence defines the places where you can apply the benefits of your reputation. You can reap the benefits of your reputation by spending Prestige Points on awards, including temporary bonuses and favors.
 
 ## Fame
 
@@ -23,9 +23,9 @@ Your Fame determines the maximum range of your Sphere of Influence. Your Sphere 
 
 Though your reputation may spread by happenstance, it usually spreads deliberately, whether by traveling bards embellishing stories of your accomplishments to make them more entertaining, your allies exaggerating your common achievements, your enemies repeating rumors about you to recruit others against you, or you telling your story to eager listeners. Where these tales get told determines where you become known and shapes your Sphere of Influence—a heroic sorcerer might hire bards to brag about her magic in a nearby kingdom she plans to visit, or a villainous barbarian might drive the maimed survivors of his raids southward to sow fear among his next victims.
 
-Outside your Sphere of Influence, your Fame is 0. You can attempt to expand your Sphere of Influence into a new settlement by attempting a DC 30 Charisma, [Diplomacy](skills/diplomacy#_diplomacy), or [Intimidate](skills/intimidate#_intimidate) check. If you succeed, you treat the settlement as being within your Sphere of Influence for 1d4 days, though your Fame is effectively halved for that settlement. After this time, the settlement reverts to being outside your sphere.
+Outside your Sphere of Influence, your Fame is 0. You can attempt to expand your Sphere of Influence into a new settlement by attempting a DC 30 Charisma, [Diplomacy](skill_dir/diplomacy#_diplomacy, or [Intimidate](skill_dir/intimidate#_intimidate check. If you succeed, you treat the settlement as being within your Sphere of Influence for 1d4 days, though your Fame is effectively halved for that settlement. After this time, the settlement reverts to being outside your sphere.
 
-The following actions and conditions alter your Charisma, [Diplomacy](skills/diplomacy#_diplomacy), or [Intimidate](skills/intimidate#_intimidate) check modifier for the purpose of expanding your Sphere of Influence.
+The following actions and conditions alter your Charisma, [Diplomacy](skill_dir/diplomacy#_diplomacy, or [Intimidate](skill_dir/intimidate#_intimidate check modifier for the purpose of expanding your Sphere of Influence.
 
 [Sphere of Influence Modifiers]
 | Action | Check Modifier |
@@ -43,7 +43,7 @@ Prestige Points represent your ability to leverage your Fame. You earn Prestige 
 
 ## Awards
 
-Spending Prestige Points earns you awards—temporary bonuses or favors. Each time you want to use an award, you must spend the Prestige Points for that award. Unless otherwise stated, bonuses from spending Prestige Points do not stack (for example, you can't combine the Hero's Luck award with the Lore of Ages award to gain a +9 bonus on a [Knowledge](skills/knowledge#_knowledge) check). Spending Prestige Points on a reward is not an action. You may only spend Prestige Points within your Sphere of Influence.
+Spending Prestige Points earns you awards—temporary bonuses or favors. Each time you want to use an award, you must spend the Prestige Points for that award. Unless otherwise stated, bonuses from spending Prestige Points do not stack (for example, you can't combine the Hero's Luck award with the Lore of Ages award to gain a +9 bonus on a [Knowledge](skill_dir/knowledge#_knowledge) check). Spending Prestige Points on a reward is not an action. You may only spend Prestige Points within your Sphere of Influence.
 
 Titles are a special category of award that is permanent instead of temporary. Unless a title's description says otherwise, you can only select a particular title once.
 
@@ -55,7 +55,7 @@ This is the starting Fame for a new 1st-level adventurer.
 
 **Hero's Luck (1 PP)** : You gain a +4 luck bonus on a single skill check. You must use this award before you attempt the check in question.
 
-**Palm Greaser (Title, 4 PP)** : In any settlement of at least 5,000 inhabitants, you may locate a corrupt official. If you're imprisoned or fined for crimes committed in the settlement's jurisdiction, you may take advantage of this contact. You pay no fines and escape sentencing if you can make a [Diplomacy](skills/diplomacy#_diplomacy) check (DC 15 for petty crimes, 20 for serious crimes, or 25 for capital crimes). You can use this ability once per game session. You may select this title once for each settlement in your Sphere of Influence; each time you select it, choose one settlement where you may use the award.
+**Palm Greaser (Title, 4 PP** : In any settlement of at least 5,000 inhabitants, you may locate a corrupt official. If you're imprisoned or fined for crimes committed in the settlement's jurisdiction, you may take advantage of this contact. You pay no fines and escape sentencing if you can make a [Diplomacy](skill_dir/diplomacy#_diplomacy) check (DC 15 for petty crimes, 20 for serious crimes, or 25 for capital crimes). You can use this ability once per game session. You may select this title once for each settlement in your Sphere of Influence; each time you select it, choose one settlement where you may use the award.
 
 **Planar Pact (5 PP)** : You gain the services of an imp, mephit, quasit, or similar extraplanar creature from the [Improved Familiar](feats#_improved-familiar) list on page 127 of the _Core Rulebook_. You can choose a creature with an alignment up to 1 step away from yours on each alignment axis. The creature acts as your willing servant for a number of encounters equal to your Intelligence, Wisdom, or Charisma bonus (whichever is highest), but remains for no more than 24 hours. The creature is a called outsider and automatically returns to its home plane at the end of this service.
 
@@ -67,9 +67,9 @@ This is the typical Fame of a character who has completed a couple of adventures
 
 **Character Witness (5 PP)** : If you happen to find yourself in trouble with authorities as a result of false accusations, an influential benefactor steps forth to vouch for your honor, absolving you of any wrongdoing. You can use this award without penalty up to three times, after which the available benefactors begin to question your reputation; any further uses cost you an additional 1d4 Prestige Points.
 
-**Lore of Ages (1 PP)** : You may secure the assistance of a dedicated sage, librarian, or other knowledgeable individual, granting you a +5 bonus on any single [Knowledge](skills/knowledge#_knowledge) check after 1 hour of research. You make this [Knowledge](skills/knowledge#_knowledge) check as if you were trained in that skill.
+**Lore of Ages (1 PP** : You may secure the assistance of a dedicated sage, librarian, or other knowledgeable individual, granting you a +5 bonus on any single [Knowledge](skill_dir/knowledge#_knowledge check after 1 hour of research. You make this [Knowledge](skill_dir/knowledge#_knowledge) check as if you were trained in that skill.
 
-**Wanderer (Title, 1 PP)** : The long time you've spent on the road with fellow travelers has enhanced your knack for picking up local customs. [Knowledge](skills/knowledge#_knowledge) (local) becomes a class skill for you as long as you have this title.
+**Wanderer (Title, 1 PP** : The long time you've spent on the road with fellow travelers has enhanced your knack for picking up local customs. [Knowledge](skill_dir/knowledge#_knowledge) (local) becomes a class skill for you as long as you have this title.
 
 ### Fame 20
 
@@ -77,7 +77,7 @@ This is the typical Fame of an adventurer who has completed several adventures a
 
 **Arcane Study II (3 PP)** : This award works like arcane study I, except you can prepare one 2nd-level wizard spell, and the Intelligence damage is 1d4 instead of 1d3. You can use this award and arcane study I at the same time. You can't select this award if you're a wizard.
 
-**Favored Territory (Title, 5 PP)** : Choose a 100-square-mile region within your Sphere of Influence. This is now your favored territory, and you gain a +2 bonus on [Diplomacy](skills/diplomacy#_diplomacy) checks within that territory. When your Fame reaches 30, you can select this title a second time, gaining a second favored territory and increasing the bonus in your first favored territory to +4. When your Fame reaches 55, you can select this title a third time, gaining a third favored territory and increasing the bonus in your first favored territory to +6 and in your second to +4.
+**Favored Territory (Title, 5 PP** : Choose a 100-square-mile region within your Sphere of Influence. This is now your favored territory, and you gain a +2 bonus on [Diplomacy](skill_dir/diplomacy#_diplomacy) checks within that territory. When your Fame reaches 30, you can select this title a second time, gaining a second favored territory and increasing the bonus in your first favored territory to +4. When your Fame reaches 55, you can select this title a third time, gaining a third favored territory and increasing the bonus in your first favored territory to +6 and in your second to +4.
 
 **Fence Friend (Title, 4 PP)** : Once per game session when selling any item, you may do so through an NPC fence, increasing the sale price of the item by 10%. This has no effect on items normally sold at full value (such as gems and trade goods).
 
@@ -89,7 +89,7 @@ This is the typical Fame of an adventurer who has completed several adventures a
 
 **Sacrifice (0 PP)** : Make a significant sacrifice to gain 1d3 Prestige Points. If you are a heroic character, you must spend 375 gp × your character level to use this award, representing a great feast in your name, charitable giving, or other expenses that improve your reputation. If you are a villainous character, you must kill or sacrifice allies and minions whose total Hit Dice equal your character level, representing callous evil toward your friends and underlings. You can use this award once per month.
 
-**Sage (Title, 5 PP)** : Select one [Knowledge](skills/knowledge#_knowledge) skill. You can make untrained checks with this skill up to a maximum of DC 20 instead of the normal limit of DC 10. You may select this title multiple times, each time selecting a different [Knowledge](skills/knowledge#_knowledge) skill.
+**Sage (Title, 5 PP** : Select one [Knowledge](skill_dir/knowledge#_knowledge skill. You can make untrained checks with this skill up to a maximum of DC 20 instead of the normal limit of DC 10. You may select this title multiple times, each time selecting a different [Knowledge](skill_dir/knowledge#_knowledge) skill.
 
 **Temporary Cohort (1 PP)** : Gain a cohort as if you had the [Leadership](feats#_leadership) feat. This character remains in your service for 24 hours.
 
@@ -105,7 +105,7 @@ This is the Fame of a successful adventurer whose exploits have made her a local
 
 **Escape Death (5 PP)** : If you are reduced to 0 hit points or fewer but are not dead, you automatically stabilize; on your next turn, you are healed 2d8+3 hit points. You can select this award only once per character level.
 
-**Officer (Title, PP 5)** : You can select this title only if you have selected the initiate title. Your rank within your chosen organization increases. You gain an appellation appropriate to the organization and a +4 bonus on [Bluff](skills/bluff#_bluff), [Diplomacy](skills/diplomacy#_diplomacy), [Intimidate](skills/intimidate#_intimidate), and [Sense Motive](skills/senseMotive#_sense-motive) checks made to interact with anyone within the organization. If you belong to multiple organizations, you may select this title multiple times.
+**Officer (Title, PP 5** : You can select this title only if you have selected the initiate title. Your rank within your chosen organization increases. You gain an appellation appropriate to the organization and a +4 bonus on [Bluff](skill_dir/bluff#_bluff, [Diplomacy](skill_dir/diplomacy#_diplomacy, [Intimidate](skill_dir/intimidate#_intimidate, and [Sense Motive](skill_dir/senseMotive#_sense-motive) checks made to interact with anyone within the organization. If you belong to multiple organizations, you may select this title multiple times.
 
 **Warden (Title, 5 PP)** : Within your Sphere of Influence, you hold enough respect that you can arrest, detain, and confiscate possessions from any common citizen you suspect has committed or is committing a crime. This right does not apply when dealing with nobles, aristocrats, political figures, or those who have ranks or titles similar to or greater than your own.
 
@@ -115,11 +115,11 @@ This is the Fame of a successful adventurer whose exploits have made her a local
 
 This is the Fame of an adventurer who has achieved celebrity status.
 
-**Commander (Title, 4 PP)** : You canselect this title only if you have selected the officer title. Your rank within your chosen organization increases to a position of command. You can call upon low-ranking members of your organization to perform mundane personal tasks at your behest, including running messages, announcing your arrival, and making sure preparations are made to accommodate your needs. In addition, you gain a +4 bonus on [Intimidate](skills/intimidate#_intimidate) checks made to influence any members of your organization's greatest rival group (such as a competing guild or citizens of a hostile country). If you belong to multiple organizations, you may select this title multiple times.
+**Commander (Title, 4 PP** : You canselect this title only if you have selected the officer title. Your rank within your chosen organization increases to a position of command. You can call upon low-ranking members of your organization to perform mundane personal tasks at your behest, including running messages, announcing your arrival, and making sure preparations are made to accommodate your needs. In addition, you gain a +4 bonus on [Intimidate](skill_dir/intimidate#_intimidate) checks made to influence any members of your organization's greatest rival group (such as a competing guild or citizens of a hostile country). If you belong to multiple organizations, you may select this title multiple times.
 
-**Patriot (Title, 4 PP)** : Your reputation as an agent of your homeland's interests precedes you. When traveling outside your Sphere of Influence, you gain a +2 bonus on all [Diplomacy](skills/diplomacy#_diplomacy) and [Sense Motive](skills/senseMotive#_sense-motive) checks against citizens or natives of your homeland.
+**Patriot (Title, 4 PP** : Your reputation as an agent of your homeland's interests precedes you. When traveling outside your Sphere of Influence, you gain a +2 bonus on all [Diplomacy](skill_dir/diplomacy#_diplomacy and [Sense Motive](skill_dir/senseMotive#_sense-motive) checks against citizens or natives of your homeland.
 
-**Privileged Meeting (2 PP)** : You use your reputation to gain a private audience with a powerful individual such as a queen, general, high priest, or guildmaster. You gain a +2 circumstance on [Diplomacy](skills/diplomacy#_diplomacy) checks for the duration of that audience.
+**Privileged Meeting (2 PP** : You use your reputation to gain a private audience with a powerful individual such as a queen, general, high priest, or guildmaster. You gain a +2 circumstance on [Diplomacy](skill_dir/diplomacy#_diplomacy) checks for the duration of that audience.
 
 ### Fame 55+
 
@@ -133,7 +133,7 @@ At this Fame level and higher, the character is idolized and easily recognized f
 
 If your Fame drops below 0, your reputation is based on infamy rather than fame. Treat your Fame as a positive number instead of a negative number for all rules relating to Fame, Sphere of Influence, and Prestige Points (for example, a villainous Fame of —20 is equivalent to a heroic Fame of 20 for the purpose of determining what awards you can buy).
 
-If an event would increase your Fame, you may choose to increase your Fame (bringing it closer to 0) or decrease your Fame (making it a larger negative number). For example, if your Fame is —20 and you publicly roll a 30 on a [Craft](skills/craft#_craft) check to create a masterwork sword (normally worth +2), you may increase your Fame to —18 or decrease it to —22. Negative events that decrease your Fame always count as negative (a villain attacking innocent people doesn't make the public like him more).
+If an event would increase your Fame, you may choose to increase your Fame (bringing it closer to 0) or decrease your Fame (making it a larger negative number. For example, if your Fame is —20 and you publicly roll a 30 on a [Craft](skill_dir/craft#_craft) check to create a masterwork sword (normally worth +2), you may increase your Fame to —18 or decrease it to —22. Negative events that decrease your Fame always count as negative (a villain attacking innocent people doesn't make the public like him more).
 
 If you have a negative Fame, nonevil NPCs often have unfriendly or hostile reactions to you (see Table 3—7: Negative Fame Reactions). Note that if you have a reputation for being powerful and dangerous, NPCs might avoid you rather than confront you.
 
@@ -147,7 +147,7 @@ Throughout the course of your adventuring career, your public persona and your t
 
 With an alter ego, you create an artificial persona to show the public. You wear a mask or costume to hide your true identity. When performing deeds as your alter ego, you develop its Fame instead of your own. Only when presenting yourself as the alter ego can you use its Fame and Prestige Points to your advantage. In this way, a seemingly weak or unassuming character can adopt the identity of a famous masked vigilante, relying on her fame to persuade commoners and strike fear into villains while remaining unknown in her secret identity.
 
-If it's revealed that your two identities are actually the same person, your Fame and Prestige Points may change when dealing with those who have found out. For example, a notorious bandit changes her name and becomes a humble village healer. If her former life is made public, the villagers react to her according to her (larger, negative) Fame as a bandit, but she also loses face with bandits, who don't respect her choice to live peacefully and react according to her (lower, positive) Fame as a village healer.
+If it's revealed that your two identities are actually the same person, your Fame and Prestige Points may change when dealing with those who have found out. For example, a notorious bandit changes her name and becomes a humble village healer. If her former life is made public, the villagers react to her according to her (larger, negative) Fame as a bandit, but she also loses face with bandits, who don't respect her choice to live peacefully and react according to her (lower, positive Fame as a village healer.
 
 [Fame Events]
 | Event | Fame Modifier |
@@ -156,7 +156,7 @@ If it's revealed that your two identities are actually the same person, your Fam
 | Acquire a noteworthy treasure from a worthy foeⁱ | +1 |
 | Confirm two successive critical hits in a CR-appropriate encounter | +1 |
 | Consecrate a temple to your deity | +1 |
-| [Craft](skills/craft#_craft) a powerful magic item | +1⁲ |
+| [Craft](skill_dir/craft#_craft a powerful magic item | +1⁲ |
 | Gain a level in a PC class | +1 |
 | Locate and disarm three or more CR-appropriate traps in a row | +1 |
 | Make a noteworthy historical, scientific, or magical discovery⁳ | +1 |
@@ -167,11 +167,11 @@ If it's revealed that your two identities are actually the same person, your Fam
 | Single-handedly defeat an opponent with a CR higher than your level | +1⁵ |
 | Win a combat encounter with a CR of your APL + 3 or more | +1 |
 | Defeat in combat a person who publicly defamed you | +2 |
-| Succeed at a DC 30 or higher [Craft](skills/craft#_craft) check to create a work of art or masterwork item⁶ | +2 |
-| Succeed at a DC 30 or higher public [Diplomacy](skills/diplomacy#_diplomacy) or [Intimidate](skills/intimidate#_intimidate) check⁶ | +2 |
-| Succeed at a DC 30 or higher public [Perform](skills/perform#_perform) check⁶ | +2 |
+| Succeed at a DC 30 or higher [Craft](skill_dir/craft#_craft check to create a work of art or masterwork item⁶ | +2 |
+| Succeed at a DC 30 or higher public [Diplomacy](skill_dir/diplomacy#_diplomacy or [Intimidate](skill_dir/intimidate#_intimidate check⁶ | +2 |
+| Succeed at a DC 30 or higher public [Perform](skill_dir/perform#_perform) check⁶ | +2 |
 | Complete an adventure with a CR appropriate for your APL⁷ | +3 |
-| Earn a formal title (lady, lord, knight, and so on) | +3 |
+| Earn a formal title (lady, lord, knight, and so on | +3 |
 | Defeat a key rival in combat | +5 |
 | _Negative Events_ |
 | Be convicted of a petty crime | —1 |

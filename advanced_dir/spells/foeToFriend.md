@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/foeToFriend
+title: advanced/spell_dir/foeToFriend
 ---
  **Foe to Friend**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 5
 
 **Casting Time** 1 immediate action
 

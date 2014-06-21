@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/stayTheHand
+title: advanced/spell_dir/stayTheHand
 ---
  **Stay the Hand**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** paladin 4
+**School** enchantment (compulsion [mind-affecting]; **Level** paladin 4
 
 **Casting Time** 1 immediate action
 

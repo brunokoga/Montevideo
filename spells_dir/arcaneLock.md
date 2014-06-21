@@ -3,11 +3,11 @@ title: spells/arcaneLock
 ---
  **Arcane Lock**
 
-**School** abjuration; **Level** sorcerer/wizard 2
+**School** abjuration; **Level** sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (gold dust worth 25 gp)
+**Components** V, S, M (gold dust worth 25 gp
 
 **Range** touch
 

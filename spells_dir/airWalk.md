@@ -1,5 +1,5 @@
 ---
-title: spells/airWalk
+title: spell_dir/airWalk
 ---
  **Air Walk**
 
@@ -11,7 +11,7 @@ title: spells/airWalk
 
 **Range** touch
 
-**Target** creature (Gargantuan or smaller) touched
+**Target** creature (Gargantuan or smaller touched
 
 **Duration** 10 min./level
 

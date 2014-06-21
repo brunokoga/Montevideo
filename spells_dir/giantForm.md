@@ -1,13 +1,13 @@
 ---
-title: spells/giantForm
+title: spell_dir/giantForm
 ---
  **Giant Form I**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 7
+**School** transmutation (polymorph; **Level** sorcere_dir/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a piece of the creature whose form you plan to assume)
+**Components** V, S, M (a piece of the creature whose form you plan to assume
 
 **Range** personal
 

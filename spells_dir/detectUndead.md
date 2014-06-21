@@ -13,7 +13,7 @@ title: spells/detectUndead
 
 **Area** cone-shaped emanation
 
-**Duration** concentration, up to 1 minute/ level (D)
+**Duration** concentration, up to 1 minut_dir/ level (D
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

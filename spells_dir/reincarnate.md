@@ -1,5 +1,5 @@
 ---
-title: spells/reincarnate
+title: spell_dir/reincarnate
 ---
  **Reincarnate**
 
@@ -7,7 +7,7 @@ title: spells/reincarnate
 
 **Casting Time** 10 minutes
 
-**Components** V, S, M, DF (oils worth 1,000 gp)
+**Components** V, S, M, DF (oils worth 1,000 gp
 
 **Range** touch
 

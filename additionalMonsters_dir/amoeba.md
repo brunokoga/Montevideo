@@ -9,37 +9,37 @@ Amoeba, GiantCR 1
 
 **XP 400**
 
-N Small [ooze](monsters/creatureTypes#_ooze) ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
+N Small [ooze](monster_dir/creatureTypes#_ooze ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
 
-**Init** –5; **Senses** [blindsight](monsters/universalMonsterRules#_blindsight) 30 ft.; [Perception](additionalMonsters/../skills/perception#_perception) –5
+**Init** –5; **Senses** [blindsight](monster_dir/universalMonsterRules#_blindsight 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) –5
 
 Defense
 
 **AC** 6, touch 6, flat-footed 6 (–5 Dex, +1 size)
 
-**hp** 15 (2d8+6)
+**hp** 15 (2d8+6
 
 **Fort** +3, **Ref** –5, **Will** –5
 
-**Defensive Abilities** [ooze](monsters/creatureTypes#_ooze) traits
+**Defensive Abilities** [ooze](monster_dir/creatureTypes#_ooze traits
 
 Offense
 
 **Speed** 10 ft., climb 10 ft., swim 20 ft.
 
-**Melee** slam +3 (1d3+1 plus 1d3 acid and [grab](monsters/universalMonsterRules#_grab))
+**Melee** slam +3 (1d3+1 plus 1d3 acid and [grab](monster_dir/universalMonsterRules#_grab)
 
 **Space** 5 ft.; **Reach** 5 ft.
 
-**Special Attacks** [constrict](monsters/universalMonsterRules#_constrict) (1d3+1 plus 1d3 acid)
+**Special Attacks** [constrict](monster_dir/universalMonsterRules#_constrict) (1d3+1 plus 1d3 acid)
 
 Statistics
 
 **Str** 12, **Dex** 1, **Con** 16, **Int** —, **Wis** 1, **Cha** 1
 
-**Base Atk** +1; **CMB** +1 (+5 grapple); **CMD** 6 (can't be tripped)
+**Base Atk** +1; **CMB** +1 (+5 grapple); **CMD** 6 (can't be tripped
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +9, [Swim](additionalMonsters/../skills/swim#_swim) +9
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +9, [Swim](additionalMonsters/../skill_dir/swim#_swim) +9
 
 **SQ** amphibious
 
@@ -47,7 +47,7 @@ Ecology
 
 **Environment** any land or underground
 
-**Organization** solitary or colony (2–9)
+**Organization** solitary or colony (2–9
 
 **Treasure** none
 
@@ -61,30 +61,30 @@ Amoeba SwarmCR 1
 
 **XP 400**
 
-N Fine [ooze](monsters/creatureTypes#_ooze) ( [swarm](monsters/creatureTypes#_swarm-subtype))
+N Fine [ooze](monster_dir/creatureTypes#_ooze ( [swarm](monster_dir/creatureTypes#_swarm-subtype)
 
-**Init** –5; **Senses** [blindsight](monsters/universalMonsterRules#_blindsight) 30 ft.; [Perception](additionalMonsters/../skills/perception#_perception) –5
+**Init** –5; **Senses** [blindsight](monster_dir/universalMonsterRules#_blindsight 30 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) –5
 
 Defense
 
 **AC** 13, touch 13, flat-footed 13 (–5 Dex, +8 size)
 
-**hp** 9 (2d8)
+**hp** 9 (2d8
 
 **Fort** +0, **Ref** –5, **Will** –5
 
-**Defensive Abilities** [ooze](monsters/creatureTypes#_ooze) and [swarm](monsters/creatureTypes#_swarm-subtype) traits; **Immune**   
+**Defensive Abilities** [ooze](monster_dir/creatureTypes#_ooze and [swarm](monster_dir/creatureTypes#_swarm-subtype traits; **Immune**   
 weapon damage
 
 Offense
 
 **Speed** 10 ft., climb 10 ft., swim 20 ft.
 
-**Melee** [swarm](monsters/creatureTypes#_swarm-subtype) (1d6 acid plus [distraction](monsters/universalMonsterRules#_distraction))
+**Melee** [swarm](monster_dir/creatureTypes#_swarm-subtype (1d6 acid plus [distraction](monster_dir/universalMonsterRules#_distraction)
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** [distraction](monsters/universalMonsterRules#_distraction) (DC 11)
+**Special Attacks** [distraction](monster_dir/universalMonsterRules#_distraction) (DC 11
 
 Statistics
 
@@ -92,7 +92,7 @@ Statistics
 
 **Base Atk** +1; **CMB** — **CMD** —
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +3, [Swim](additionalMonsters/../skills/swim#_swim) +3
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +3, [Swim](additionalMonsters/../skill_dir/swim#_swim) +3
 
 **SQ** amphibious
 
@@ -100,7 +100,7 @@ Ecology
 
 **Environment** any land or underground
 
-**Organization** solitary or colony (2–5)
+**Organization** solitary or colony (2–5
 
 **Treasure** none
 

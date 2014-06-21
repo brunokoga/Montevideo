@@ -1,9 +1,9 @@
 ---
-title: spells/shambler
+title: spell_dir/shambler
 ---
  **Shambler**
 
-**School** conjuration (creation); **Level** druid 9
+**School** conjuration (creation; **Level** druid 9
 
 **Casting Time** 1 standard action
 

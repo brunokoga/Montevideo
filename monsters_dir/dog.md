@@ -11,7 +11,7 @@ _This small dog has a rough coat and a hungry look in its dark brown eyes._
 
 N Small [animal](creatureTypes#_animal)
 
-**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +8
+**Init** +1; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
@@ -31,11 +31,11 @@ N Small [animal](creatureTypes#_animal)
 
 **Str** 13, **Dex** 13, **Con** 15, **Int** 2, **Wis** 12, **Cha** 6
 
-**Base Atk** +0; **CMB** +0; **CMD** 11 (15 vs. trip)
+**Base Atk** +0; **CMB** +0; **CMD** 11 (15 vs. trip
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +1 (+9 jumping), [Perception](../skills/perception#_perception) +8, [Survival](../skills/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Acrobatics](../skills/acrobatics#_acrobatics) when jumping, +4 [Survival](../skills/survival#_survival) when tracking by scent
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +1 (+9 jumping, [Perception](../skill_dir/perception#_perception +8, [Survival](../skill_dir/survival#_survival) +1 (+5 scent tracking; **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics when jumping, +4 [Survival](../skill_dir/survival#_survival) when tracking by scent
 
 **Ecology**
 
@@ -49,7 +49,7 @@ The normal dog statistics presented here describe any small dog of about 20–50
 
 In the wild, dogs are vicious and territorial creatures. Yet even more harrowing than a pack of wild dogs is the rabid dog. Rabies often affects animals like bats, wolverines, and rats, but the transformation of a normally friendly family pet goes through when it becomes rabid makes the dog perhaps the most notorious of the disease's classic carriers.
 
-A rabid creature can transmit rabies to a victim with a bite. Its CR increases by 1 (or up one step, in the case of a creature whose CR is less than 1).
+A rabid creature can transmit rabies to a victim with a bite. Its CR increases by 1 (or up one step, in the case of a creature whose CR is less than 1.
 
 **Rabies**
 
@@ -69,7 +69,7 @@ _This burly dog is fitted with a small saddle. A low, menacing growl rumbles up 
 
 N Medium [Animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
@@ -89,11 +89,11 @@ N Medium [Animal](creatureTypes#_animal)
 
 **Str** 15, **Dex** 15, **Con** 15, **Int** 2, **Wis** 12, **Cha** 6
 
-**Base Atk** +1; **CMB** +3; **CMD** 15 (19 vs. trip)
+**Base Atk** +1; **CMB** +3; **CMD** 15 (19 vs. trip
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +6 (+14 jumping), [Perception](../skills/perception#_perception) +8, [Survival](../skills/survival#_survival) +1 (+5 scent tracking); **Racial Modifiers** +4 [Acrobatics](../skills/acrobatics#_acrobatics) when jumping, +4 [Survival](../skills/survival#_survival) when tracking by scent
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics) +6 (+14 jumping, [Perception](../skill_dir/perception#_perception +8, [Survival](../skill_dir/survival#_survival) +1 (+5 scent tracking; **Racial Modifiers** +4 [Acrobatics](../skill_dir/acrobatics#_acrobatics when jumping, +4 [Survival](../skill_dir/survival#_survival) when tracking by scent
 
 **Ecology**
 
@@ -103,5 +103,5 @@ N Medium [Animal](creatureTypes#_animal)
 
 **Treasure** none
 
-Larger dogs (known to Small races like halflings and gnomes as riding dogs) include hardier breeds such as huskies, mastiffs, and wolfhounds. A riding dog can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a DC 10 [Ride](../skills/ride#_ride) check.
+Larger dogs (known to Small races like halflings and gnomes as riding dogs include hardier breeds such as huskies, mastiffs, and wolfhounds. A riding dog can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a DC 10 [Ride](../skill_dir/ride#_ride check.
 

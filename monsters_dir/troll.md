@@ -1,5 +1,5 @@
 ---
-title: monsters/troll
+title: monster_dir/troll
 ---
 # Troll
 
@@ -11,7 +11,7 @@ _This tall creature has rough, green hide. Its hands end in claws, and its besti
 
 CE Large [humanoid](creatureTypes#_humanoid) (giant)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +8
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
@@ -29,7 +29,7 @@ CE Large [humanoid](creatureTypes#_humanoid) (giant)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** [rend](universalMonsterRules#_rend) (2 claws, 1d6+7)
+**Special Attacks** [rend](universalMonsterRules#_rend) (2 claws, 1d6+7
 
 **Statistics**
 
@@ -37,9 +37,9 @@ CE Large [humanoid](creatureTypes#_humanoid) (giant)
 
 **Base**  **Atk** +4; **CMB** +10; **CMD** 22
 
-**Feats** [Intimidating Prowess](../feats#_intimidating-prowess), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Intimidating Prowess](../feats#_intimidating-prowess), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
 
-**Skills** [Intimidate](../skills/intimidate#_intimidate) +9, [Perception](../skills/perception#_perception) +8
+**Skills** [Intimidate](../skill_dir/intimidate#_intimidate +9, [Perception](../skill_dir/perception#_perception) +8
 
 **Languages** Giant
 
@@ -59,5 +59,5 @@ Despite their cruelty in combat, trolls are surprisingly tender and kind to thei
 
 ## Scrags
 
-Dwelling in both fresh and salt water, these cousins of the troll have the aquatic subtype and the [amphibious](universalMonsterRules#_amphibious) special quality. Scrags have a base land speed of 20 feet and a swim speed of 40 feet. A scrag's regeneration ability only works if it is in contact with water. Scrags dwell in any body of water in any climate, though they are most common in cold northern rivers and lakes, and are less bestial in appearance than their terrestrial cousins, though no less violent.
+Dwelling in both fresh and salt water, these cousins of the troll have the aquatic subtype and the [amphibious](universalMonsterRules#_amphibious special quality. Scrags have a base land speed of 20 feet and a swim speed of 40 feet. A scrag's regeneration ability only works if it is in contact with water. Scrags dwell in any body of water in any climate, though they are most common in cold northern rivers and lakes, and are less bestial in appearance than their terrestrial cousins, though no less violent.
 

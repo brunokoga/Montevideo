@@ -1,9 +1,9 @@
 ---
-title: spells/holdPerson
+title: spell_dir/holdPerson
 ---
  **Hold Person**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, cleric 2, sorcerer/wizard 3
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 2, cleric 2, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spells/holdPerson
 
 **Target** one humanoid creature
 
-**Duration** 1 round/level (D); see text
+**Duration** 1 roun_dir/level (D; see text
 
 **Saving Throw** [Will](../combat#_will) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

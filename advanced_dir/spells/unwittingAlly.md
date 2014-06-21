@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/unwittingAlly
+title: advanced/spell_dir/unwittingAlly
 ---
  **Unwitting Ally**
 
-**School** enchantment (charm) [mind-affecting]; **Level** bard 0
+**School** enchantment (charm [mind-affecting]; **Level** bard 0
 
 **Casting Time** 1 standard action
 

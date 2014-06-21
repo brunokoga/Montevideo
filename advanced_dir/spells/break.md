@@ -3,11 +3,11 @@ title: advanced/spells/break
 ---
  **Break**
 
-**School** transmutation; **Level** sorcerer/wizard 1
+**School** transmutation; **Level** sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a twig)
+**Components** V, S, M (a twig
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

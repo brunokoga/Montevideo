@@ -1,19 +1,19 @@
 ---
-title: spells/falseVision
+title: spell_dir/falseVision
 ---
  **False Vision**
 
-**School** illusion (glamer); **Level** bard 5, sorcerer/wizard 5
+**School** illusion (glamer; **Level** bard 5, sorcere_dir/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (crushed jade worth 250 gp)
+**Components** V, S, M (crushed jade worth 250 gp
 
 **Range** touch
 
 **Area** 40-ft.-radius emanation
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hou_dir/level (D
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

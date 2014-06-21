@@ -1,5 +1,5 @@
 ---
-title: monsters/homunculus
+title: monster_dir/homunculus
 ---
 # Homunculus
 
@@ -9,9 +9,9 @@ _This vaguely humanoid creature is about the size of a cat but looks more like a
 
 **XP 400**
 
-Any alignment (same as creator) Tiny [construct](creatureTypes#_construct)
+Any alignment (same as creator) Tiny [construct](creatureTypes#_construct
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +3
+**Init** +2; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +3
 
 **Defense**
 
@@ -27,7 +27,7 @@ Any alignment (same as creator) Tiny [construct](creatureTypes#_construct)
 
 **Speed** 20 ft., fly 50 ft. (good)
 
-**Melee** 1 bite +3 (1d4–1 plus [poison](universalMonsterRules#_poison))
+**Melee** 1 bite +3 (1d4–1 plus [poison](universalMonsterRules#_poison)
 
 **Space** 2-1/2 ft.; **Reach** 0 ft.
 
@@ -39,7 +39,7 @@ Any alignment (same as creator) Tiny [construct](creatureTypes#_construct)
 
 **Feats** [Lightning Reflexes](../feats#_lightning-reflexes)
 
-**Skills** [Fly](../skills/fly#_fly) +10, [Perception](../skills/perception#_perception) +3, [Stealth](../skills/stealth#_stealth) +12
+**Skills** [Fly](../skill_dir/fly#_fly +10, [Perception](../skill_dir/perception#_perception +3, [Stealth](../skill_dir/stealth#_stealth) +12
 
 **Languages** Common (cannot speak); telepathic link
 
@@ -53,7 +53,7 @@ Any alignment (same as creator) Tiny [construct](creatureTypes#_construct)
 
 **Special Abilities**
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 13; _frequency_ 1/minute for 60 minutes; _effect_ sleep for 1 minute; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**Poison (Ex** Bite—injury; _save_ Fort DC 13; _frequency_ 1/minute for 60 minutes; _effect_ sleep for 1 minute; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
 
 **Telepathic Link (Su)** A homunculus cannot speak, but the process of creating one links it telepathically with its creator. A homunculus knows what its master knows and can convey to him or her everything it sees and hears, out to a distance of 1,500 feet.
 
@@ -75,5 +75,5 @@ The person whose blood is used to form a homunculus's body becomes its master; i
 
 **Construction**
 
-**Requirements** [Craft Construct](monsterFeats#_craft-construct), _ [arcane eye](../spells/arcaneEye#_arcane-eye)_, _ [mirror image](../spells/mirrorImage#_mirror-image)_, _ [mending](../spells/mending#_mending)_; **Skill** [Craft](../skills/craft#_craft) (leather) or [Craft](../skills/craft#_craft) (sculptures) DC 12; **Cost** 1,050 gp.
+**Requirements** [Craft Construct](monsterFeats#_craft-construct), _ [arcane eye](../spell_dir/arcaneEye#_arcane-eye_, _ [mirror image](../spell_dir/mirrorImage#_mirror-image_, _ [mending](../spell_dir/mending#_mending_; **Skill** [Craft](../skill_dir/craft#_craft) (leather or [Craft](../skill_dir/craft#_craft) (sculptures DC 12; **Cost** 1,050 gp.
 

@@ -13,7 +13,7 @@ title: spells/etherealJaunt
 
 **Target** you
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 You become ethereal, along with your equipment. For the duration of the spell, you are in the Ethereal Plane, which overlaps the Material Plane. When the spell expires, you return to material existence.
 

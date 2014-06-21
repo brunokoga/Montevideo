@@ -11,7 +11,7 @@ XP 3,200
 
 NE Tiny ooze
 
-**Init** +6; **Senses** [blindsight](monsters/universalMonsterRules#_blindsight) 60 ft.; [Perception](skills/perception#_perception) +11
+**Init** +6; **Senses** [blindsight](monster_dir/universalMonsterRules#_blindsight 60 ft.; [Perception](skill_dir/perception#_perception) +11
 
 **Aura** psychic noise (10 ft., DC 19)
 
@@ -29,17 +29,17 @@ Offense
 
 **Speed** 5 ft., fly 60 ft. (good)
 
-**Melee** 2 tentacles +13 touch (1d6 electricity plus neural pulse)
+**Melee** 2 tentacles +13 touch (1d6 electricity plus neural pulse
 
 **Space** 2-1/2 feet; **Reach** 0 ft.
 
 **Spell-Like Abilities** (CL 10th; concentration +14)
 
-Constant—_ [detect thoughts](spells/detectThoughts#_detect-thoughts)_, _ [mage armor](spells/mageArmor#_mage-armor)_
+Constant—_ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts_, _ [mage armor](spell_dir/mageArmor#_mage-armor_
 
-At will—_ [charm monster](spells/charmMonster#_charm-monster)_ (DC 18), _ [dominate animal](spells/dominateAnimal#_dominate-animal) _(DC 17), _ [dominate person](spells/dominatePerson#_dominate-person)_ (DC 19)
+At will—_ [charm monster](spell_dir/charmMonster#_charm-monster)_ (DC 18, _ [dominate animal](spell_dir/dominateAnimal#_dominate-animal) _(DC 17, _ [dominate person](spell_dir/dominatePerson#_dominate-person)_ (DC 19
 
-3/day—_ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [modify memory](spells/modifyMemory#_modify-memory)_ (DC 18)
+3/day—_ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [modify memory](spell_dir/modifyMemory#_modify-memory)_ (DC 18)
 
 Statistics
 
@@ -47,9 +47,9 @@ Statistics
 
 **Base Atk** +7; **CMB** +9; **CMD** 22 (can't be tripped)
 
-**Feats** [Defensive Training](feats#_defensive-training), [Dodge](feats#_dodge), [Iron Will](feats#_iron-will), [Mobility](feats#_mobility), [Weapon Finesse](feats#_weapon-finesse)
+**Feats** [Defensive Training](feats#_defensive-training), [Dodge](feats#_dodge), [Iron Will](feats#_iron-will), [Mobility](feats#_mobility), [Weapon Finesse](feats#_weapon-finesse
 
-**Skills** [Bluff](skills/bluff#_bluff) +10, [Diplomacy](skills/diplomacy#_diplomacy) +5, [Fly](skills/fly#_fly) +23, [Perception](skills/perception#_perception) +11, [Sense Motive](skills/senseMotive#_sense-motive) +11, [Stealth](skills/stealth#_stealth) +15
+**Skills** [Bluff](skill_dir/bluff#_bluff +10, [Diplomacy](skill_dir/diplomacy#_diplomacy +5, [Fly](skill_dir/fly#_fly +23, [Perception](skill_dir/perception#_perception +11, [Sense Motive](skill_dir/senseMotive#_sense-motive +11, [Stealth](skill_dir/stealth#_stealth) +15
 
 **Languages** Aklo (cannot speak); telepathy 100 ft.
 
@@ -69,9 +69,9 @@ Special Abilities
 
 **Psychic Noise (Su)** The discordant psychic noise emitted by a brain ooze dazes nearby creatures for 1d4 rounds. When a creature begins its turn within the aura, it must succeed at a DC 19 Will save to negate this effect. Whether or not the save is successful, that creature cannot be affected again by the same brain ooze's psychic noise for 24 hours. An affected creature may attempt a new save to shake off the effect at the end of each of its turns. This is a mind-affecting effect. The save DC is Charisma-based.
 
-A brain ooze (sometimes known as a “killer brain”) resembles almost precisely the raw brain of a human, save for the eldritch energy surrounding it and the twin tentacles extending from its sides. The creature's thought patterns are unusually powerful, and cause painful mental feedback in the minds of other conscious beings.
+A brain ooze (sometimes known as a “killer brain” resembles almost precisely the raw brain of a human, save for the eldritch energy surrounding it and the twin tentacles extending from its sides. The creature's thought patterns are unusually powerful, and cause painful mental feedback in the minds of other conscious beings.
 
-Other intelligent beings are nothing more than cattle and playthings to brain oozes—victims to be tormented, thought patterns to be consumed. Brain oozes prefer to manipulate their prey from the shadows. Rather than assaulting openly, they provoke fights and conflict within groups, or lure one or two victims away for the kill. Brain oozes derive particular satisfaction from forcing an individual to commit terrible acts, then wiping away all knowledge of the crimes from the victim's memory. They torment such hapless puppets again and again, forcing them to commit ever greater atrocities. Once weary of their sport they return the modified memories with _ [dispel magic](spells/dispelMagic#_dispel-magic)_, and feast upon the delicious misery of the victim's final despair.
+Other intelligent beings are nothing more than cattle and playthings to brain oozes—victims to be tormented, thought patterns to be consumed. Brain oozes prefer to manipulate their prey from the shadows. Rather than assaulting openly, they provoke fights and conflict within groups, or lure one or two victims away for the kill. Brain oozes derive particular satisfaction from forcing an individual to commit terrible acts, then wiping away all knowledge of the crimes from the victim's memory. They torment such hapless puppets again and again, forcing them to commit ever greater atrocities. Once weary of their sport they return the modified memories with _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, and feast upon the delicious misery of the victim's final despair.
 
 Brain oozes feed through their tentacles by extracting the thoughts of living creatures. Animals and less intelligent creatures provide little nourishment, but they prize fey, outsiders, and spellcasters as delicacies. After several feedings, a brain ooze divides into two nearly identical brains, each retaining only a portion of the knowledge and experiences of the parent.
 

@@ -9,9 +9,9 @@ This scaly, finned humanoid has an athletic build and blue-green coloration. Its
 
 **XP 600**
 
-NG Medium [outsider](monsters/creatureTypes#_outsider) ( [native](monsters/creatureTypes#_native-subtype), [water](monsters/creatureTypes#_water-subtype))
+NG Medium [outsider](monster_dir/creatureTypes#_outsider ( [native](monster_dir/creatureTypes#_native-subtype, [water](monster_dir/creatureTypes#_water-subtype)
 
-**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +7
+**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +7
 
 Defense
 
@@ -25,13 +25,13 @@ Offense
 
 **Speed** 5 ft., swim 40 ft.
 
-**Melee** mwk trident +5 (1d8+1)
+**Melee** mwk trident +5 (1d8+1
 
 **Ranged** heavy crossbow +3 (1d10/19–20)
 
 **Spell-Like Abilities** (CL 7th; concentration +7)
 
-1/day—_ [summon nature's ally II](additionalMonsters/../spells/summonNatureSAlly#_summon-nature-s-ally-ii)_ (Small water elemental or 1d3 dolphins only)
+1/day—_ [summon nature's ally II](additionalMonsters/../spell_dir/summonNatureSAlly#_summon-nature-s-ally-ii)_ (Small water elemental or 1d3 dolphins only
 
 Statistics
 
@@ -41,7 +41,7 @@ Statistics
 
 **Feats** [Mounted Combat](additionalMonsters/../feats#_mounted-combat), [Ride-By Attack](additionalMonsters/../feats#_ride-by-attack)
 
-**Skills** [Craft](additionalMonsters/../skills/craft#_craft) (any one) +7, [Diplomacy](additionalMonsters/../skills/diplomacy#_diplomacy) +6, [Perception](additionalMonsters/../skills/perception#_perception) +7, [Ride](additionalMonsters/../skills/ride#_ride) +6, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +7, [Stealth](additionalMonsters/../skills/stealth#_stealth) +6, [Survival](additionalMonsters/../skills/survival#_survival) +7, [Swim](additionalMonsters/../skills/swim#_swim) +9
+**Skills** [Craft](additionalMonsters/../skill_dir/craft#_craft) (any one +7, [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy +6, [Perception](additionalMonsters/../skill_dir/perception#_perception +7, [Ride](additionalMonsters/../skill_dir/ride#_ride +6, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +6, [Survival](additionalMonsters/../skill_dir/survival#_survival +7, [Swim](additionalMonsters/../skill_dir/swim#_swim) +9
 
 **Languages** Aquan, Common
 
@@ -59,5 +59,5 @@ Tritons make their homes on the sea floor, growing coral reefs and sculpting sto
 
 Tritons maintain relationships with other good undersea creatures, but mostly keep to themselves. They aid others in fights against their enemies (primarily krakens and aboleths, but also lesser evils like sahuagin or skum). They typically form strong squadrons of aquatic cavalry trained in coordinated attacks when they go to war. Tritons tend to distrust outsiders, and usually avoid land-dwellers. They sometimes provide aid to air-breathers, even though they often see them as trespassers under the sea; when they do help landwalkers, their price for this is high. Nevertheless, when they witness a landwalker do battle against and vanquish a great evil such as an aboleth, they are quick to cast aside their prejudices and accept the great hero into their societies with open and welcoming arms.
 
-Tritons have silvery skin, hued in tones of aqua blue and kelp green. Older tritons often have barnacles, corals, and seashells crusting the back, chest, and shoulders, worn almost like jewelry as a mark of status among their kind. They have white, blue, or green hair. Tritons' eyes shine blue like sunlight upon a clear sea. A typical triton stands 6 feet in height and weighs 180 pounds. While most exceptional tritons advance by taking class levels (typically as druids, oracles, or rangers), a rare few tritons advance by increasing in size. These Large tritons are great heroes among their kind and have 8 racial Hit Dice or more.
+Tritons have silvery skin, hued in tones of aqua blue and kelp green. Older tritons often have barnacles, corals, and seashells crusting the back, chest, and shoulders, worn almost like jewelry as a mark of status among their kind. They have white, blue, or green hair. Tritons' eyes shine blue like sunlight upon a clear sea. A typical triton stands 6 feet in height and weighs 180 pounds. While most exceptional tritons advance by taking class levels (typically as druids, oracles, or rangers, a rare few tritons advance by increasing in size. These Large tritons are great heroes among their kind and have 8 racial Hit Dice or more.
 

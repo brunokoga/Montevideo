@@ -1,13 +1,13 @@
 ---
-title: spells/colorSpray
+title: spell_dir/colorSpray
 ---
  **Color Spray**
 
-**School** illusion (pattern) [mind-affecting]; **Level** sorcerer/wizard 1
+**School** illusion (pattern [mind-affecting]; **Level** sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (red, yellow, and blue powder or colored sand)
+**Components** V, S, M (red, yellow, and blue powder or colored sand
 
 **Range** 15 ft.
 

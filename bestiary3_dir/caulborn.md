@@ -9,9 +9,9 @@ Caulborn CR 7
 
 XP 3,200
 
-N Medium outsider ( [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+N Medium outsider ( [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
 
-**Init** +4; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 60 ft., darkvision 60 ft., thoughtsense; [Perception](skills/perception#_perception) +15
+**Init** +4; **Senses** [blindsense](monster_dir/universalMonsterRules#_blindsense 60 ft., darkvision 60 ft., thoughtsense; [Perception](skill_dir/perception#_perception) +15
 
 Defense
 
@@ -31,13 +31,13 @@ Offense
 
 **Special Attacks** consume thoughts
 
-**Spell-Like Abilities** (CL 7th; concentration +11)
+**Spell-Like Abilities** (CL 7th; concentration +11
 
-Constant—_ [detect magic](spells/detectMagic#_detect-magic)_, _ [detect thoughts](spells/detectThoughts#_detect-thoughts)_ (DC 16), _ [read magic](spells/readMagic#_read-magic)_
+Constant—_ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (DC 16, _ [read magic](spell_dir/readMagic#_read-magic_
 
-3/day—_ [charm monster](spells/charmMonster#_charm-monster)_ (DC 18), _ [daze monster](spells/dazeMonster#_daze-monster)_ (DC 16), _ [hold monster](spells/holdMonster#_hold-monster)_ (DC 19), _ [hypnotic pattern](spells/hypnoticPattern#_hypnotic-pattern)_ (DC 16), _ [vampiric touch](spells/vampiricTouch#_vampiric-touch)_ (DC 17)
+3/day—_ [charm monster](spell_dir/charmMonster#_charm-monster)_ (DC 18, _ [daze monster](spell_dir/dazeMonster#_daze-monster)_ (DC 16, _ [hold monster](spell_dir/holdMonster#_hold-monster)_ (DC 19, _ [hypnotic pattern](spell_dir/hypnoticPattern#_hypnotic-pattern)_ (DC 16, _ [vampiric touch](spell_dir/vampiricTouch#_vampiric-touch)_ (DC 17
 
-1/week—_ [plane shift](spells/planeShift#_plane-shift)_ (willing targets only)
+1/week—_ [plane shift](spell_dir/planeShift#_plane-shift)_ (willing targets only)
 
 Statistics
 
@@ -45,12 +45,12 @@ Statistics
 
 **Base Atk** +9; **CMB** +12; **CMD** 30
 
-**Feats** [Combat Casting](feats#_combat-casting), [Combat Expertise](feats#_combat-expertise), [Combat Reflexes](feats#_combat-reflexes), [Iron Will](feats#_iron-will), [Weapon Focus](feats#_weapon-focus) (bite)
+**Feats** [Combat Casting](feats#_combat-casting), [Combat Expertise](feats#_combat-expertise), [Combat Reflexes](feats#_combat-reflexes), [Iron Will](feats#_iron-will), [Weapon Focus](feats#_weapon-focus) (bite
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +12, [Appraise](skills/appraise#_appraise) +12, [Bluff](skills/bluff#_bluff) +14, [Intimidate](skills/intimidate#_intimidate) +14, [Knowledge](skills/knowledge#_knowledge) (all) +14, [Perception](skills/perception#_perception) +15, [Sense Motive](skills/senseMotive#_sense-motive) +12, [Stealth](skills/stealth#_stealth) +11,   
- [Use Magic Device](skills/useMagicDevice#_use-magic-device) +9
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics +12, [Appraise](skill_dir/appraise#_appraise +12, [Bluff](skill_dir/bluff#_bluff +14, [Intimidate](skill_dir/intimidate#_intimidate +14, [Knowledge](skill_dir/knowledge#_knowledge) (all +14, [Perception](skill_dir/perception#_perception +15, [Sense Motive](skill_dir/senseMotive#_sense-motive +12, [Stealth](skill_dir/stealth#_stealth +11,   
+ [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device +9
 
-**Languages** Abyssal, Aklo, Aquan, Celestial, Common, Draconic, [Giant](monsters/creatureTypes#_giant-subtype), Infernal; telepathy 100 ft.
+**Languages** Abyssal, Aklo, Aquan, Celestial, Common, Draconic, [Giant](monster_dir/creatureTypes#_giant-subtype), Infernal; telepathy 100 ft.
 
 **SQ** cooperative scrying, hive mind
 
@@ -64,15 +64,15 @@ Ecology
 
 Special Abilities
 
-**Consume Thoughts (Ex)** A caulborn can consume the thoughts of a willing, helpless, or fascinated creature with a touch attack. If the target fails a DC 18 Will save, the caulborn can alter the victim's memory as if using _ [modify memory](spells/modifyMemory#_modify-memory)_. This process deals 1d4 points of Intelligence and Wisdom damage to the target. The save DC is Charisma-based.
+**Consume Thoughts (Ex** A caulborn can consume the thoughts of a willing, helpless, or fascinated creature with a touch attack. If the target fails a DC 18 Will save, the caulborn can alter the victim's memory as if using _ [modify memory](spell_dir/modifyMemory#_modify-memory)_. This process deals 1d4 points of Intelligence and Wisdom damage to the target. The save DC is Charisma-based.
 
-**Cooperative Scrying (Sp)** Three or more caulborn joining hands can scry on a place or creature as if using the _ [scrying](spells/scrying#_scrying)_ spell (DC 20), but with no limit to the spell's duration so long as at least three of the caulborn involved continue to join hands and concentrate. This ability functions at CL 7th (or at the highest CL available to the most powerful caulborn in the group). The save DC is Charisma-based, adjusted by the modifier of the caulborn with the highest Charisma score.
+**Cooperative Scrying (Sp** Three or more caulborn joining hands can scry on a place or creature as if using the _ [scrying](spell_dir/scrying#_scrying)_ spell (DC 20), but with no limit to the spell's duration so long as at least three of the caulborn involved continue to join hands and concentrate. This ability functions at CL 7th (or at the highest CL available to the most powerful caulborn in the group). The save DC is Charisma-based, adjusted by the modifier of the caulborn with the highest Charisma score.
 
 **Hive Mind (Ex)** As long as there are at least two caulborn within 300 feet of each other, if one caulborn in the group is aware of a particular danger, they all are. No caulborn in a group is considered flanked or flat-footed unless all of them are.
 
 **Psychic Deflection (Su)** A caulborn adds its Charisma modifier as a deflection bonus to its AC. The caulborn loses this bonus when unconscious.
 
-**Thoughtsense (Su)** A caulborn notices and locates living, conscious creatures within 60 feet, just as if it possessed the [blindsight](monsters/universalMonsterRules#_blindsight) ability. Spells such as _ [nondetection](spells/nondetection#_nondetection)_ or_ [mind blank](spells/mindBlank#_mind-blank)_ make an affected creature undetectable by this sense.
+**Thoughtsense (Su** A caulborn notices and locates living, conscious creatures within 60 feet, just as if it possessed the [blindsight](monster_dir/universalMonsterRules#_blindsight ability. Spells such as _ [nondetection](spell_dir/nondetection#_nondetection_ or_ [mind blank](spell_dir/mindBlank#_mind-blank_ make an affected creature undetectable by this sense.
 
 Caulborn are a race of telepathic prophets and historians who subsist on the psychic energy of others. They wander the planes in search of new facts and concepts to add to the pulsating brain-sacks that serve as their collective memories. When a band of caulborn find a particularly interesting site, they settle down to dwell there for many years until they feel that they have learned all there is to know about the location.
 

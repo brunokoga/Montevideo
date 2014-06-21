@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/corrosiveTouch
+title: ultimateMagic/spell_dir/corrosiveTouch
 ---
 Corrosive Touch
 
-**School** conjuration (creation) [acid]; **Level** magus 1, sorcerer/wizard 1, summoner 1
+**School** conjuration (creation [acid]; **Level** magus 1, sorcere_dir/wizard 1, summoner 1
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ Corrosive Touch
 
 **Saving Throw** none; **Spell Resistance** yes
 
-Your successful melee touch attack deals 1d4 points of acid damage per caster level (maximum 5d4).
+Your successful melee touch attack deals 1d4 points of acid damage per caster level (maximum 5d4.
 

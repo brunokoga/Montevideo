@@ -9,9 +9,9 @@ This creature is much like a rhino, some six feet tall and ten feet long, with a
 
 **XP 3,200**
 
-N Large [animal](monsters/creatureTypes#_animal)
+N Large [animal](monster_dir/creatureTypes#_animal
 
-**Init** +0; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +13
+**Init** +0; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
 
 Defense
 
@@ -25,21 +25,21 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** gore +14 (4d8+13)
+**Melee** gore +14 (4d8+13
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [powerful charge](monsters/universalMonsterRules#_powerful-charge) (4d8+13), trample (2d8+13, DC 23)
+**Special Attacks** [powerful charge](monster_dir/universalMonsterRules#_powerful-charge) (4d8+13), trample (2d8+13, DC 23)
 
 Statistics
 
 **Str** 28, **Dex** 10, **Con** 21, **Int** 2, **Wis** 13, **Cha** 3
 
-**Base Atk** +6; **CMB** +16; **CMD** 26 (30 vs. trip)
+**Base Atk** +6; **CMB** +16; **CMD** 26 (30 vs. trip
 
 **Feats** [Diehard](additionalMonsters/../feats#_diehard), [Endurance](additionalMonsters/../feats#_endurance), [Great Fortitude](additionalMonsters/../feats#_great-fortitude), [Improved Overrun](additionalMonsters/../feats#_improved-overrun), [Power Attack](additionalMonsters/../feats#_power-attack)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +13
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception) +13
 
 Ecology
 
@@ -55,7 +55,7 @@ The arsinoitherium is a herbivore, but it displays a fierce and threatening beha
 
 **Starting Statistics** : **Size** Medium; **Speed** 30 ft.; **AC** +4 natural; **Attack** gore (1d8); **Ability Scores** Str 14, Dex 12, Con 15, Int 2, Wis 13, Cha 3; **Special Qualities** low-light vision, scent.
 
-**7th-Level Adv.** : **Size** Large; **AC** +2 natural; **Attack** gore (2d8); **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** powerful charge (2d8), trample.
+**7th-Level Adv.** : **Size** Large; **AC** +2 natural; **Attack** gore (2d8); **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** powerful charge (2d8, trample.
 
 # Megafauna, Gylptodon
 
@@ -65,9 +65,9 @@ This armored creature has a bony, turtle-like shell from which protrude short li
 
 **XP 2,400**
 
-N Large [animal](monsters/creatureTypes#_animal)
+N Large [animal](monster_dir/creatureTypes#_animal
 
-**Init** +0; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +16
+**Init** +0; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +16
 
 Defense
 
@@ -89,11 +89,11 @@ Statistics
 
 **Str** 25, **Dex** 10, **Con** 17, **Int** 2, **Wis** 13, **Cha** 6
 
-**Base Atk** +6; **CMB** +14; **CMD** 24 (28 vs. trip)
+**Base Atk** +6; **CMB** +14; **CMD** 24 (28 vs. trip
 
-**Feats** [Endurance](additionalMonsters/../feats#_endurance), [Great Fortitude](additionalMonsters/../feats#_great-fortitude), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skills/perception#_perception))
+**Feats** [Endurance](additionalMonsters/../feats#_endurance), [Great Fortitude](additionalMonsters/../feats#_great-fortitude), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skill_dir/perception#_perception)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +16
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception) +16
 
 Ecology
 
@@ -109,7 +109,7 @@ The gylptodon is often hunted for the value of its outer armor, made up of bony 
 
 **Starting Statistics** : **Size** Medium; **Speed** 20 ft.; **AC** +5 natural armor, **Attack** 2 claws (1d8); **Ability Scores** Str 13, Dex 12, Con 13, Int 2, Wis 13, Cha 6; **Special Qualities** low-light vision, scent.
 
-**7th-Level Advancement** : **Size** Large; **AC** +2 natural armor; **Attack** 2 claws (1d10); **Ability Scores** Str +8, Dex –2, Con +4.
+**7th-Level Advancement** : **Size** Large; **AC** +2 natural armor; **Attack** 2 claws (1d10; **Ability Scores** Str +8, Dex –2, Con +4.
 
 # Megafauna, Megaloceros
 
@@ -119,9 +119,9 @@ The massive and majestic elk stands fully the height of a human at its shoulder,
 
 **XP 1,200**
 
-N Large [animal](monsters/creatureTypes#_animal)
+N Large [animal](monster_dir/creatureTypes#_animal
 
-**Init** +2; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +9
+**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +9
 
 Defense
 
@@ -135,25 +135,25 @@ Offense
 
 **Speed** 50 ft.
 
-**Melee** gore +7 (2d6+5), 2 hooves +2 (1d4+2)
+**Melee** gore +7 (2d6+5), 2 hooves +2 (1d4+2
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [powerful charge](monsters/universalMonsterRules#_powerful-charge) (4d6+7)
+**Special Attacks** [powerful charge](monster_dir/universalMonsterRules#_powerful-charge) (4d6+7)
 
 Statistics
 
 **Str** 20, **Dex** 15, **Con** 18, **Int** 2, **Wis** 15, **Cha** 5
 
-**Base Atk** +3; **CMB** +9; **CMD** 21 (25 vs. trip)
+**Base Atk** +3; **CMB** +9; **CMD** 21 (25 vs. trip
 
 **Feats** [Endurance](additionalMonsters/../feats#_endurance), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), [Run](additionalMonsters/../feats#_run)B
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +9
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +9
 
 ECOLOGY
 
-**Environment** [cold](monsters/creatureTypes#_cold-subtype) or temperate forest and plains
+**Environment** [cold](monster_dir/creatureTypes#_cold-subtype) or temperate forest and plains
 
 **Organization** solitary, pair, or herd (3–50)
 
@@ -165,7 +165,7 @@ The megaloceros is a powerful and enormous elk, also known as a “great elk” 
 
 **Starting Statistics** : **Size** Medium; **Speed** 50 ft.; **AC** +3 natural armor, **Attack** gore (1d8); **Ability Scores** Str 12, Dex 17, Con 14, Int 2, Wis 15, Cha 5; **Special Abilities** low-light vision, scent.
 
-**7th-Level Adv.** : **Size** Large; **AC** +2 natural armor; **Attack** gore (2d6), 2 hooves (1d4); **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** powerful charge (2d6).
+**7th-Level Adv.** : **Size** Large; **AC** +2 natural armor; **Attack** gore (2d6), 2 hooves (1d4); **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** powerful charge (2d6.
 
 # Megafauna, Megatherium
 
@@ -175,9 +175,9 @@ The great sloth, standing on its hind legs, can reach the treetops with its agil
 
 **XP 1,600**
 
-N Huge [animal](monsters/creatureTypes#_animal)
+N Huge [animal](monster_dir/creatureTypes#_animal
 
-**Init** +0; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +14
+**Init** +0; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +14
 
 Defense
 
@@ -201,11 +201,11 @@ Statistics
 
 **Str** 25, **Dex** 10, **Con** 19, **Int** 2, **Wis** 13, **Cha** 6
 
-**Base Atk** +5; **CMB** +14; **CMD** 24 (28 vs. trip)
+**Base Atk** +5; **CMB** +14; **CMD** 24 (28 vs. trip
 
-**Feats** [Awesome Blow](additionalMonsters/../monsters/monsterFeats#_awesome-blow), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skills/perception#_perception))
+**Feats** [Awesome Blow](additionalMonsters/../monster_dir/monsterFeats#_awesome-blow, [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skill_dir/perception#_perception)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +15, [Perception](additionalMonsters/../skills/perception#_perception) +14
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +15, [Perception](additionalMonsters/../skill_dir/perception#_perception) +14
 
 Ecology
 
@@ -221,5 +221,5 @@ The megatherium is a massive sloth weighing 10,000 pounds. It can balance on its
 
 **Starting Statistics** : **Size** Medium; **Speed** 40 ft., climb 10 ft.; **AC** +5 natural armor, **Attack** 2 claws (1d4); **Ability Scores** Str 9, Dex 14, Con 11, Int 2, Wis 13, Cha 6; **Special Qualities** low-light vision, scent.
 
-**7th-Level Adv.** : **Size** Large; **AC** +2 natural armor; **Attack** 2 claws (1d6), **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** rend (2 claws, 1d8).
+**7th-Level Adv.** : **Size** Large; **AC** +2 natural armor; **Attack** 2 claws (1d6), **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** rend (2 claws, 1d8.
 

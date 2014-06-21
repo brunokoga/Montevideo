@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/heroicInvocation
+title: ultimateCombat/spell_dir/heroicInvocation
 ---
 Heroic Invocation
 
-**School** enchantment (compulsion) [mind affecting]; **Level** sorcerer/wizard 9, witch 9
+**School** enchantment (compulsion [mind affecting]; **Level** sorcerer/wizard 9, witch 9
 
 **Casting Time** 10 minutes
 

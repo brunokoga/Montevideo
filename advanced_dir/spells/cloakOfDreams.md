@@ -1,19 +1,19 @@
 ---
-title: advanced/spells/cloakOfDreams
+title: advanced/spell_dir/cloakOfDreams
 ---
  **Cloak of Dreams**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, sorcerer/wizard 6, witch 6
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 5, sorcere_dir/wizard 6, witch 6
 
 **Casting Time** 1 round
 
-**Components** V, S, M (a rose petal and a drop of perfume)
+**Components** V, S, M (a rose petal and a drop of perfume
 
 **Range** 5 ft.
 
 **Area** 5-ft.-radius emanation centered on you
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 

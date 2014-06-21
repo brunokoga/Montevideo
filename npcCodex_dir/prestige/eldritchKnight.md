@@ -1,5 +1,5 @@
 ---
-title: npcCodex/prestige/eldritchKnight
+title: npcCodex/prestig_dir/eldritchKnight
 ---
 # Eldritch Knights
 
@@ -21,7 +21,7 @@ Defense
 
 **AC** 19, touch 14, flat-footed 15 (+4 armor, +3 Dex, +1 dodge, +1 natural)
 
-**hp** 67 (2d10+5d6+2d10+23)
+**hp** 67 (2d10+5d6+2d10+23
 
 **Fort** +9, **Ref** +6, **Will** +8; +2 vs. enchantments, +1 vs. fear
 
@@ -35,19 +35,19 @@ Offense
 
 **Abjurer**  **Spells Prepared** (CL 6th; concentration +8)
 
-3rd—_ [displacement](spells/displacement#_displacement)_, _ [lightning bolt](spells/lightningBolt#_lightning-bolt) _(DC 15), _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_
+3rd—_ [displacement](spell_dir/displacement#_displacement_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt) _(DC 15, _ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy_
 
-2nd—_ [darkness](spells/darkness#_darkness)_, _ [false life](spells/falseLife#_false-life)_, _ [mirror image](spells/mirrorImage#_mirror-image)_ (2), _ [protection from arrows](spells/protectionFromArrows#_protection-from-arrows)_
+2nd—_ [darkness](spell_dir/darkness#_darkness_, _ [false life](spell_dir/falseLife#_false-life_, _ [mirror image](spell_dir/mirrorImage#_mirror-image)_ (2, _ [protection from arrows](spell_dir/protectionFromArrows#_protection-from-arrows_
 
-1st—_ [cause fear](spells/causeFear#_cause-fear) _(DC 13), _ [magic missile](spells/magicMissile#_magic-missile)_, _ [shield](spells/shield#_shield)_ (2), _ [true strike](spells/trueStrike#_true-strike)_
+1st—_ [cause fear](spell_dir/causeFear#_cause-fear) _(DC 13, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [shield](spell_dir/shield#_shield)_ (2, _ [true strike](spell_dir/trueStrike#_true-strike)_
 
-0 (at will)—_ [ghost sound](spells/ghostSound#_ghost-sound)_ (DC 12), _ [message](spells/message#_message), [open/close](spells/openClose#_open-close)_, _ [touch of fatigue](spells/touchOfFatigue#_touch-of-fatigue)_ (DC 12)
+0 (at will—_ [ghost sound](spell_dir/ghostSound#_ghost-sound)_ (DC 12, _ [message](spell_dir/message#_message, [open/close](spell_dir/openClose#_open-close_, _ [touch of fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue)_ (DC 12
 
 **Opposition Schools** conjuration, enchantment
 
 Tactics
 
-**During Combat** The eldritch knight casts _ [shield](spells/shield#_shield)_ and _ [displacement](spells/displacement#_displacement) _on herself, then casts _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_ and _ [magic missile](spells/magicMissile#_magic-missile)_ before casting _ [mirror image](spells/mirrorImage#_mirror-image)_ and entering melee.
+**During Combat** The eldritch knight casts _ [shield](spell_dir/shield#_shield_ and _ [displacement](spell_dir/displacement#_displacement _on herself, then casts _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_ and _ [magic missile](spell_dir/magicMissile#_magic-missile_ before casting _ [mirror image](spell_dir/mirrorImage#_mirror-image)_ and entering melee.
 
 Statistics
 
@@ -55,15 +55,15 @@ Statistics
 
 **Base Atk** +6; **CMB** +9; **CMD** 23
 
-**Feats** [Arcane Armor Training](feats#_arcane-armor-training), [Craft Wand](feats#_craft-wand), [Dodge](feats#_dodge), [Great Fortitude](feats#_great-fortitude), Improved [Iron Will](feats#_iron-will), [Iron Will](feats#_iron-will), [Scribe Scroll](feats#_scribe-scroll), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (quarterstaff), Weapon Specialization (quarterstaff)
+**Feats** [Arcane Armor Training](feats#_arcane-armor-training), [Craft Wand](feats#_craft-wand), [Dodge](feats#_dodge), [Great Fortitude](feats#_great-fortitude), Improved [Iron Will](feats#_iron-will), [Iron Will](feats#_iron-will), [Scribe Scroll](feats#_scribe-scroll), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (quarterstaff), Weapon Specialization (quarterstaff
 
-**Skills** [Knowledge](skills/knowledge#_knowledge) (arcana) +10, [Knowledge](skills/knowledge#_knowledge) (local, nobility, planes, religion) +6, Perception +11, [Ride](skills/ride#_ride) +7, [Sense Motive](skills/senseMotive#_sense-motive) +5, [Spellcraft](skills/spellcraft#_spellcraft) +12 (+14 to identify magic item properties), [Stealth](skills/stealth#_stealth) +8
+**Skills** [Knowledge](skill_dir/knowledge#_knowledge) (arcana +10, [Knowledge](skill_dir/knowledge#_knowledge) (local, nobility, planes, religion +6, Perception +11, [Ride](skill_dir/ride#_ride +7, [Sense Motive](skill_dir/senseMotive#_sense-motive +5, [Spellcraft](skill_dir/spellcraft#_spellcraft) +12 (+14 to identify magic item properties, [Stealth](skill_dir/stealth#_stealth) +8
 
 **Languages** Common, Draconic, Elven, Sylvan
 
-**SQ** arcane bond (_+1 quarterstaff_), diverse training, elven magic, protective ward (2 rounds, +2 deflection, 5/day), weapon familiarity
+**SQ** arcane bond (_+1 quarterstaff_, diverse training, elven magic, protective ward (2 rounds, +2 deflection, 5/day), weapon familiarity
 
-**Combat Gear** _potion of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_, _scroll of [displacement](spells/displacement#_displacement)_, _scrolls of [false life](spells/falseLife#_false-life)_ (2), _wand of [invisibility](spells/invisibility#_invisibility) _(20 charges); **Other Gear** _+2 leather armor_, _+1 quarterstaff_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, spell component pouch, spellbook, 276 gp
+**Combat Gear** _potion of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds_, _scroll of [displacement](spell_dir/displacement#_displacement_, _scrolls of [false life](spell_dir/falseLife#_false-life)_ (2, _wand of [invisibility](spell_dir/invisibility#_invisibility) _(20 charges; **Other Gear** _+2 leather armor_, _+1 quarterstaff_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +1_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance) +1_, spell component pouch, spellbook, 276 gp
 
 A lone, lightly armored traveler carrying a walking staff, a queen of staves mixes spell power with whirling quarterstaff attacks.
 
@@ -85,9 +85,9 @@ Champion of Magic CR 12
 
 **Eldritch knight** 4
 
-LG Small humanoid (gnome)
+LG Small humanoid (gnome
 
-**Init** –1; **Senses** low-light vision, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_; Perception +12
+**Init** –1; **Senses** low-light vision, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_; Perception +12
 
 Defense
 
@@ -97,7 +97,7 @@ Defense
 
 **Fort** +15, **Ref** +6, **Will** +13; +2 vs. illusions
 
-**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants); **DR** 10/adamantine (130 points)
+**Defensive Abilities** defensive training (+4 dodge bonus to AC vs. giants; **DR** 10/adamantine (130 points)
 
 Offense
 
@@ -109,35 +109,35 @@ Offense
 
 **Gnome Spell-Like Abilities** (CL 13th; concentration +16)
 
-1/day—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [ghost sound](spells/ghostSound#_ghost-sound)_, _ [prestidigitation](spells/prestidigitation#_prestidigitation)_, _ [speak with animals](spells/speakWithAnimals#_speak-with-animals)_
+1/day—_ [dancing lights](spell_dir/dancingLights#_dancing-lights_, _ [ghost sound](spell_dir/ghostSound#_ghost-sound_, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation_, _ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals)_
 
-**Paladin Spell-Like Abilities** (CL 2nd; concentration +5)
+**Paladin Spell-Like Abilities** (CL 2nd; concentration +5
 
-At will—_ [detect evil](spells/detectEvil#_detect-evil)_
+At will—_ [detect evil](spell_dir/detectEvil#_detect-evil)_
 
-**Sorcerer Spells Known** (CL 10th; concentration +13; arcane spell failure 15%)
+**Sorcerer Spells Known** (CL 10th; concentration +13; arcane spell failure 15%
 
-5th (3/day)—_ [wall of force](spells/wallOfForce#_wall-of-force)_
+5th (3/day)—_ [wall of force](spell_dir/wallOfForce#_wall-of-force_
 
-4th (5/day)—_ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [resilient sphere](spells/resilientSphere#_resilient-sphere)_ (DC 17), _ [stoneskin](spells/stoneskin#_stoneskin)_
+4th (5/day)—_ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [resilient sphere](spell_dir/resilientSphere#_resilient-sphere)_ (DC 17, _ [stoneskin](spell_dir/stoneskin#_stoneskin_
 
-3rd (7/day)—_ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [displacement](spells/displacement#_displacement)_, _ [fly](spells/fly)_, _ [heroism](spells/heroism#_heroism)_
+3rd (7/day)—_ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [displacement](spell_dir/displacement#_displacement_, _ [fly](spell_dir/fly_, _ [heroism](spell_dir/heroism#_heroism_
 
-2nd (7/day)—_ [darkvision](spells/darkvision#_darkvision)_, _ [invisibility](spells/invisibility#_invisibility)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, _ [web](spells/web#_web)_ (DC 15)
+2nd (7/day)—_ [darkvision](spell_dir/darkvision#_darkvision_, _ [invisibility](spell_dir/invisibility#_invisibility_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_, _ [web](spell_dir/web#_web)_ (DC 15
 
-1st (7/day)—_ [comprehend languages](spells/comprehendLanguages#_comprehend-languages)_, _ [enlarge person](spells/enlargePerson#_enlarge-person)_, _ [identify](spells/identify#_identify)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [shield](spells/shield#_shield)_, _ [true strike](spells/trueStrike#_true-strike)_
+1st (7/day)—_ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages_, _ [enlarge person](spell_dir/enlargePerson#_enlarge-person_, _ [identify](spell_dir/identify#_identify_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [shield](spell_dir/shield#_shield_, _ [true strike](spell_dir/trueStrike#_true-strike)_
 
-0 (at will)—_ [arcane mark](spells/arcaneMark#_arcane-mark)_, _ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [disrupt undead](spells/disruptUndead#_disrupt-undead)_, _ [mending](spells/mending#_mending)_, _ [prestidigitation](spells/prestidigitation#_prestidigitation)_, _ [ray of frost](spells/rayOfFrost#_ray-of-frost)_, _read magic_, _ [resistance](spells/resistance#_resistance)_
+0 (at will—_ [arcane mark](spell_dir/arcaneMark#_arcane-mark_, _ [dancing lights](spell_dir/dancingLights#_dancing-lights_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [disrupt undead](spell_dir/disruptUndead#_disrupt-undead_, _ [mending](spell_dir/mending#_mending_, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation_, _ [ray of frost](spell_dir/rayOfFrost#_ray-of-frost_, _read magic_, _ [resistance](spell_dir/resistance#_resistance_
 
 **Bloodline** arcane
 
 Tactics
 
-**Before Combat** The eldritch knight casts _ [see invisibility](spells/seeInvisibility#_see-invisibility) _and _ [stoneskin](spells/stoneskin#_stoneskin)._
+**Before Combat** The eldritch knight casts _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility _and _ [stoneskin](spell_dir/stoneskin#_stoneskin._
 
-**During Combat** The eldritch knights separates large groups with a _ [wall of force](spells/wallOfForce#_wall-of-force)_, then attacks opponents outside of the wall before passing through it with _ [dimension door](spells/dimensionDoor#_dimension-door)_ to finish off the remainder of his assailants.
+**During Combat** The eldritch knights separates large groups with a _ [wall of force](spell_dir/wallOfForce#_wall-of-force_, then attacks opponents outside of the wall before passing through it with _ [dimension door](spell_dir/dimensionDoor#_dimension-door_ to finish off the remainder of his assailants.
 
-**Base Statistics** Without _see_ _ [invisibility](spells/invisibility#_invisibility)_ and _ [stoneskin](spells/stoneskin#_stoneskin)_, the eldritch knight's statistics are **Senses** low-light vision; **DR** none.
+**Base Statistics** Without _see_ _ [invisibility](spell_dir/invisibility#_invisibility_ and _ [stoneskin](spell_dir/stoneskin#_stoneskin)_, the eldritch knight's statistics are **Senses** low-light vision; **DR** none.
 
 Statistics
 
@@ -145,15 +145,15 @@ Statistics
 
 **Base Atk** +9; **CMB** +10; **CMD** 21
 
-**Feats** Arcane Armor Mastery, [Arcane Armor Training](feats#_arcane-armor-training), [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), [Eschew Materials](feats#_eschew-materials), Extra Lay on Hands, [Power Attack](feats#_power-attack), [Still Spell](feats#_still-spell), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (warhammer), Weapon Specialization (warhammer)
+**Feats** Arcane Armor Mastery, [Arcane Armor Training](feats#_arcane-armor-training), [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), [Eschew Materials](feats#_eschew-materials), Extra Lay on Hands, [Power Attack](feats#_power-attack), [Still Spell](feats#_still-spell), [Toughness](feats#_toughness), [Weapon Focus](feats#_weapon-focus) (warhammer), Weapon Specialization (warhammer
 
-**Skills** [Craft](skills/craft#_craft) (armor) +10, [Diplomacy](skills/diplomacy#_diplomacy) +9, [Heal](skills/heal#_heal) +5, [Knowledge](skills/knowledge#_knowledge) (arcana, religion) +9, Perception +12, [Spellcraft](skills/spellcraft#_spellcraft) +9, [Use Magic Device](skills/useMagicDevice#_use-magic-device) +11
+**Skills** [Craft](skill_dir/craft#_craft) (armor +10, [Diplomacy](skill_dir/diplomacy#_diplomacy +9, [Heal](skill_dir/heal#_heal +5, [Knowledge](skill_dir/knowledge#_knowledge) (arcana, religion +9, Perception +12, [Spellcraft](skill_dir/spellcraft#_spellcraft +9, [Use Magic Device](skill_dir/useMagicDevice#_use-magic-device) +11
 
 **Languages** Common, Draconic, Gnome, Sylvan
 
-**SQ** arcane bond (_+1 warhammer_), aura, bloodline arcana (+1 DC for spells augmented by metamagic feats that increase spell level), code of conduct, diverse training, lay on hands (1d6, 6/day), metamagic adept (2/day)
+**SQ** arcane bond (_+1 warhammer_), aura, bloodline arcana (+1 DC for spells augmented by metamagic feats that increase spell level, code of conduct, diverse training, lay on hands (1d6, 6/day), metamagic adept (2/day)
 
-**Other Gear** _+2 mithral breastplate_, _+1 warhammer_, _amulet of natural armor +1_, _ [belt of giant strength](magicItems/wondrousItems#_belt-of-giant-strength) +2_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems/rings#_ring-of-protection) +2_, silver holy symbol, diamond dust (worth 500 gp), 968 gp
+**Other Gear** _+2 mithral breastplate_, _+1 warhammer_, _amulet of natural armor +1_, _ [belt of giant strength](magicItem_dir/wondrousItems#_belt-of-giant-strength +2_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +1_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +2_, silver holy symbol, diamond dust (worth 500 gp), 968 gp
 
 These eldritch knights seek out evil spellcasters and dispense justice for their misdeeds.
 
@@ -183,7 +183,7 @@ Defense
 
 **AC** 25, touch 18, flat-footed 20 (+5 armor, +3 deflection, +4 Dex, +1 dodge, +2 natural)
 
-**hp** 139 (4d12+6d6+7d10+48)
+**hp** 139 (4d12+6d6+7d10+48
 
 **Fort** +17, **Ref** +12, **Will** +16
 
@@ -197,37 +197,37 @@ Offense
 
 **Ranged** _+1 shortbow_ +20/+15/+10 (1d6+3/×3)
 
-**Special Attacks** rage (12 rounds/day), rage powers (no escape, superstition +3)
+**Special Attacks** rage (12 round_dir/day), rage powers (no escape, superstition +3)
 
-**Bloodline**  **Spell-Like Abilities** (CL 12th; concentration +15)
+**Bloodline**  **Spell-Like Abilities** (CL 12th; concentration +15
 
 6/day—heavenly fire (1d4+3 divine energy)
 
 **Sorcerer Spells Known** (CL 12th; concentration +15)
 
-6th (3/day)—_ [disintegrate](spells/disintegrate#_disintegrate)_ (DC 19)
+6th (3/day)—_ [disintegrate](spell_dir/disintegrate#_disintegrate)_ (DC 19
 
-5th (5/day)—_ [dismissal](spells/dismissal#_dismissal) _(DC 18), _ [summon monster V](spells/summonMonster#_summon-monster-v)_
+5th (5/day)—_ [dismissal](spell_dir/dismissal#_dismissal) _(DC 18, _ [summon monster V](spell_dir/summonMonster#_summon-monster-v_
 
-4th (6/day)—_ [dimensional anchor](spells/dimensionalAnchor#_dimensional)_, _ [locate creature](spells/locateCreature#_locate-creature)_, _ [resilient sphere](spells/resilientSphere#_resilient-sphere)_ (DC 17)
+4th (6/day)—_ [dimensional anchor](spell_dir/dimensionalAnchor#_dimensional_, _ [locate creature](spell_dir/locateCreature#_locate-creature_, _ [resilient sphere](spell_dir/resilientSphere#_resilient-sphere)_ (DC 17
 
-3rd (7/day)—_ [halt undead](spells/haltUndead#_halt-undead-copy)_ (DC 16), _ [haste](spells/haste#_haste)_, _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_ (DC 16), _ [magic circle against evil](spells/magicCircleAgainstEvil#_magic-circle-against-evil)_, _ [summon monster III](spells/summonMonster#_summon-monster-iii)_
+3rd (7/day)—_ [halt undead](spell_dir/haltUndead#_halt-undead-copy)_ (DC 16, _ [haste](spell_dir/haste#_haste_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt)_ (DC 16, _ [magic circle against evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil_, _ [summon monster III](spell_dir/summonMonster#_summon-monster-iii_
 
-2nd (7/day)—_ [blindness/deafness](spells/blindnessDeafness#_blindness-deafness)_ (DC 15), _ [false life](spells/falseLife#_false-life)_, _ [mirror image](spells/mirrorImage#_mirror-image)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [rope trick](spells/ropeTrick#_rope-trick)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_
+2nd (7/day)—_ [blindness/deafness](spell_dir/blindnessDeafness#_blindness-deafness)_ (DC 15, _ [false life](spell_dir/falseLife#_false-life_, _ [mirror image](spell_dir/mirrorImage#_mirror-image_, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [rope trick](spell_dir/ropeTrick#_rope-trick_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_
 
-1st (7/day)—_ [bless](spells/bless#_bless)_, _ [cause fear](spells/causeFear#_cause-fear)_ (DC 14), _ [detect undead](spells/detectUndead#_detect-undead)_, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [shield](spells/shield#_shield)_, _ [unseen servant](spells/unseenServant#_unseen-servant)_
+1st (7/day)—_ [bless](spell_dir/bless#_bless_, _ [cause fear](spell_dir/causeFear#_cause-fear)_ (DC 14, _ [detect undead](spell_dir/detectUndead#_detect-undead_, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [shield](spell_dir/shield#_shield_, _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_
 
-0 (at will)—_ [dancing lights](spells/dancingLights#_dancing-lights)_, _ [detect magic](spells/detectMagic#_detect-magic)_, _ [disrupt undead](spells/disruptUndead#_disrupt-undead)_, _ [flare](spells/flare#_flare)_ (DC 13), _ [mage hand](spells/mageHand#_mage-hand)_, _ [message](spells/message#_message)_, _ [open/close](spells/openClose#_open-close)_, _ [prestidigitation](spells/prestidigitation#_prestidigitation)_, _ [resistance](spells/resistance#_resistance)_
+0 (at will—_ [dancing lights](spell_dir/dancingLights#_dancing-lights_, _ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [disrupt undead](spell_dir/disruptUndead#_disrupt-undead_, _ [flare](spell_dir/flare#_flare)_ (DC 13, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [message](spell_dir/message#_message_, _ [open/close](spell_dir/openClose#_open-close_, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation_, _ [resistance](spell_dir/resistance#_resistance_
 
 **Bloodline** celestial
 
 Tactics
 
-**Before Combat** The eldritch knight casts _ [false life](spells/falseLife#_false-life)_.
+**Before Combat** The eldritch knight casts _ [false life](spell_dir/falseLife#_false-life_.
 
-**During Combat** The knight starts combat with _ [shield](spells/shield#_shield) _and summoning spells, letting conjured allies run interference while he contains or damages his foes.
+**During Combat** The knight starts combat with _ [shield](spell_dir/shield#_shield _and summoning spells, letting conjured allies run interference while he contains or damages his foes.
 
-**Base Statistics** Without _ [false life](spells/falseLife#_false-life)_, the eldritch knight's statistics are **hp** 125.
+**Base Statistics** Without _ [false life](spell_dir/falseLife#_false-life)_, the eldritch knight's statistics are **hp** 125.
 
 Statistics
 
@@ -235,15 +235,15 @@ Statistics
 
 **Base Atk** +14; **CMB** +14; **CMD** 32
 
-**Feats** Arcane Armor Mastery, [Arcane Armor Training](feats#_arcane-armor-training), [Blind-Fight](feats#_blind-fight), [Combat Casting](feats#_combat-casting), [Dodge](feats#_dodge), [Eschew Materials](feats#_eschew-materials), [Great Fortitude](feats#_great-fortitude), [Iron Will](feats#_iron-will), [Point-Blank Shot](feats#_point-blank-shot), Rapid Shot, [Weapon Focus](feats#_weapon-focus) (shortbow), Weapon Specialization (shortbow)
+**Feats** Arcane Armor Mastery, [Arcane Armor Training](feats#_arcane-armor-training), [Blind-Fight](feats#_blind-fight), [Combat Casting](feats#_combat-casting), [Dodge](feats#_dodge), [Eschew Materials](feats#_eschew-materials), [Great Fortitude](feats#_great-fortitude), [Iron Will](feats#_iron-will), [Point-Blank Shot](feats#_point-blank-shot), Rapid Shot, [Weapon Focus](feats#_weapon-focus) (shortbow), Weapon Specialization (shortbow
 
-**Skills** [Climb](skills/climb#_climb) +8, [Diplomacy](skills/diplomacy#_diplomacy) +5, [Handle Animal](skills/handleAnimal#_handle-animal) +11, [Intimidate](skills/intimidate#_intimidate) +5, [Knowledge](skills/knowledge#_knowledge) (nature) +8, [Knowledge](skills/knowledge#_knowledge) (planes, religion) +5, [Linguistics](skills/linguistics#_linguistics) +1, Perception +16, [Survival](skills/survival#_survival) +11, [Swim](skills/swim#_swim) +8
+**Skills** [Climb](skill_dir/climb#_climb +8, [Diplomacy](skill_dir/diplomacy#_diplomacy +5, [Handle Animal](skill_dir/handleAnimal#_handle-animal +11, [Intimidate](skill_dir/intimidate#_intimidate +5, [Knowledge](skill_dir/knowledge#_knowledge) (nature +8, [Knowledge](skill_dir/knowledge#_knowledge) (planes, religion +5, [Linguistics](skill_dir/linguistics#_linguistics +1, Perception +16, [Survival](skill_dir/survival#_survival +11, [Swim](skill_dir/swim#_swim +8
 
 **Languages** Celestial, Common, Giant, Orc
 
 **SQ** bloodline arcana (summoned creatures gain DR 3/evil), diverse training, fast movement, orc blood, weapon familiarity
 
-**Combat Gear** _+1 [ghost touch](magicItems/weapons#_weapons-ghost-touch) arrows_ (10), _+1 undead-bane arrows_ (10), _scroll of [neutralize poison](spells/neutralizePoison#_neutralize-poison)_, _scroll of [remove disease](spells/removeDisease#_remove-disease)_, _scrolls of [restoration](spells/restoration#_restoration)_ (2); **Other Gear** _+1 shortbow_ with 20 arrows, _+1 spear_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +2_, _ [belt of incredible dexterity](magicItems/wondrousItems#_belt-of-incredible-dexterity) +2_, _ [bracers of armor](magicItems/wondrousItems#_bracers-of-armor) +5_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +3_, _ [headband of mental prowess](magicItems/wondrousItems#_headband-of-mental-prowess) +2 _(Wis, Cha), _ [ring of protection](magicItems/rings#_ring-of-protection) +3_, 246 gp
+**Combat Gear** _+1 [ghost touch](magicItem_dir/weapons#_weapons-ghost-touch) arrows_ (10), _+1 undead-bane arrows_ (10, _scroll of [neutralize poison](spell_dir/neutralizePoison#_neutralize-poison_, _scroll of [remove disease](spell_dir/removeDisease#_remove-disease_, _scrolls of [restoration](spell_dir/restoration#_restoration)_ (2; **Other Gear** _+1 shortbow_ with 20 arrows, _+1 spear_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +2_, _ [belt of incredible dexterity](magicItem_dir/wondrousItems#_belt-of-incredible-dexterity +2_, _ [bracers of armor](magicItem_dir/wondrousItems#_bracers-of-armor +5_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +3_, _ [headband of mental prowess](magicItem_dir/wondrousItems#_headband-of-mental-prowess) +2 _(Wis, Cha, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +3_, 246 gp
 
 Dedicated to protecting the world from evil outsiders and undead, spirit avengers realize it's better to contain an enemy than to destroy it.
 
@@ -265,7 +265,7 @@ Defense
 
 **AC** 34, touch 15, flat-footed 33 (+14 armor, +4 deflection, +1 Dex, +5 natural)
 
-**hp** 198 (2d10+8d6+10d10+100)
+**hp** 198 (2d10+8d6+10d10+100
 
 **Fort** +18, **Ref** +9, **Will** +14; +1 vs. fear
 
@@ -281,41 +281,41 @@ Offense
 
 **Evoker Spell-Like Abilities** (CL 17th; concentration +25)
 
-At will—elemental wall (8 rounds/day)
+At will—elemental wall (8 round_dir/day
 
 11/day—force missile (1d4+4)
 
 **Evoker Spells Prepared** (CL 17th; concentration +25, arcane spell failure 25%)
 
-9th—_ [meteor swarm](spells/meteorSwarm#_meteor-swarm)_, _ [time stop](spells/timeStop#_time-stop)_
+9th—_ [meteor swarm](spell_dir/meteorSwarm#_meteor-swarm_, _ [time stop](spell_dir/timeStop#_time-stop_
 
-8th—_ [mass charm monster](spells/charmMonster#_charm-monster-mass)_ (DC 26), _ [mind blank](spells/mindBlank#_mind-blank)_, quickened_ [phantasmal killer](spells/phantasmalKiller#_phantasmal-killer), [polar ray](spells/polarRay#_polar-ray)_
+8th—_ [mass charm monster](spell_dir/charmMonster#_charm-monster-mass)_ (DC 26, _ [mind blank](spell_dir/mindBlank#_mind-blank_, quickened_ [phantasmal killer](spell_dir/phantasmalKiller#_phantasmal-killer, [polar ray](spell_dir/polarRay#_polar-ray_
 
-7th—_ [banishment](spells/banishment#_banishment)_ (DC 25), quickened_ [fireball](spells/fireball#_fireball) _(2), _ [mass hold person](spells/holdPerson#_hold-person-mass)_ (DC 25), _ [reverse gravity](spells/reverseGravity#_reverse-gravity)_
+7th—_ [banishment](spell_dir/banishment#_banishment)_ (DC 25, quickened_ [fireball](spell_dir/fireball#_fireball) _(2, _ [mass hold person](spell_dir/holdPerson#_hold-person-mass)_ (DC 25, _ [reverse gravity](spell_dir/reverseGravity#_reverse-gravity_
 
-6th—_ [chain lightning](spells/chainLightning#_chain-lightning)_ (DC 24), _ [disintegrate](spells/disintegrate#_disintegrate)_ (DC 24), quickened_ [glitterdust](spells/glitterdust#_glitterdust)_, _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_, stilled_ [teleport](spells/teleport#_teleport)_, _ [wall of iron](spells/wallOfIron#_wall-of-iron)_
+6th—_ [chain lightning](spell_dir/chainLightning#_chain-lightning)_ (DC 24, _ [disintegrate](spell_dir/disintegrate#_disintegrate)_ (DC 24, quickened_ [glitterdust](spell_dir/glitterdust#_glitterdust_, _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater_, stilled_ [teleport](spell_dir/teleport#_teleport_, _ [wall of iron](spell_dir/wallOfIron#_wall-of-iron_
 
-5th—_ [cloudkill](spells/cloudkill#_cloudkill) _(DC 23), stilled_ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [interposing hand](spells/interposingHand#_interposing-hand)_, _ [teleport](spells/teleport#_teleport)_, _ [wall of force](spells/wallOfForce#_wall-of-force) _(2)
+5th—_ [cloudkill](spell_dir/cloudkill#_cloudkill) _(DC 23, stilled_ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [interposing hand](spell_dir/interposingHand#_interposing-hand_, _ [teleport](spell_dir/teleport#_teleport_, _ [wall of force](spell_dir/wallOfForce#_wall-of-force) _(2
 
-4th—_ [beast shape II](spells/beastShape#_beast-shape-ii)_, _ [confusion](spells/confusion#_confusion)_ (DC 22), _ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [fire shield](spells/fireShield#_fire-shield)_, stilled_ [fireball](spells/fireball#_fireball)_, _ [stoneskin](spells/stoneskin#_stoneskin)_, _ [wall of ice](spells/wallOfIce#_wall-of-ice)_ (DC 22)
+4th—_ [beast shape II](spell_dir/beastShape#_beast-shape-ii_, _ [confusion](spell_dir/confusion#_confusion)_ (DC 22, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [fire shield](spell_dir/fireShield#_fire-shield_, stilled_ [fireball](spell_dir/fireball#_fireball_, _ [stoneskin](spell_dir/stoneskin#_stoneskin_, _ [wall of ice](spell_dir/wallOfIce#_wall-of-ice)_ (DC 22
 
-3rd—_ [dispel magic](spells/dispelMagic#_dispel-magic)_ (2), _ [fireball](spells/fireball#_fireball)_ (2, DC 21), _ [fly](spells/fly)_, _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_ (2, DC 21)
+3rd—_ [dispel magic](spell_dir/dispelMagic#_dispel-magic)_ (2, _ [fireball](spell_dir/fireball#_fireball)_ (2, DC 21, _ [fly](spell_dir/fly_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt)_ (2, DC 21
 
-2nd—_ [acid arrow](spells/acidArrow#_acid-arrow)_ (2), _ [darkvision](spells/darkvision#_darkvision)_, _ [invisibility](spells/invisibility#_invisibility)_, _ [mirror image](spells/mirrorImage#_mirror-image)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_, _ [web](spells/web#_web)_ (DC 20)
+2nd—_ [acid arrow](spell_dir/acidArrow#_acid-arrow)_ (2, _ [darkvision](spell_dir/darkvision#_darkvision_, _ [invisibility](spell_dir/invisibility#_invisibility_, _ [mirror image](spell_dir/mirrorImage#_mirror-image_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_, _ [web](spell_dir/web#_web)_ (DC 20
 
-1st—_ [feather fall](spells/featherFall#_feather-fall)_, _ [magic missile](spells/magicMissile#_magic-missile)_ (4), _ [mount](spells/mount#_mount)_, _ [shield](spells/shield#_shield)_
+1st—_ [feather fall](spell_dir/featherFall#_feather-fall_, _ [magic missile](spell_dir/magicMissile#_magic-missile)_ (4, _ [mount](spell_dir/mount#_mount_, _ [shield](spell_dir/shield#_shield)_
 
-0 (at will)—_ [detect magic](spells/detectMagic#_detect-magic)_, _ [light](spells/light#_light)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [message](spells/message#_message)_
+0 (at will—_ [detect magic](spell_dir/detectMagic#_detect-magic_, _ [light](spell_dir/light#_light_, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [message](spell_dir/message#_message_
 
 **Opposition Schools** divination, necromancy
 
 Tactics
 
-**Before Combat** The eldritch knight casts _ [stoneskin](spells/stoneskin#_stoneskin)_.
+**Before Combat** The eldritch knight casts _ [stoneskin](spell_dir/stoneskin#_stoneskin_.
 
-**During Combat** The knight casts _ [time stop](spells/timeStop#_time-stop)_, then _ [shield](spells/shield#_shield), [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [fly](spells/fly)_, and _ [mirror image](spells/mirrorImage#_mirror-image)_.
+**During Combat** The knight casts _ [time stop](spell_dir/timeStop#_time-stop_, then _ [shield](spell_dir/shield#_shield, [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [fly](spell_dir/fly_, and _ [mirror image](spell_dir/mirrorImage#_mirror-image_.
 
-**Base Statistics** Without _ [stoneskin](spells/stoneskin#_stoneskin)_, the knight's statistics are **DR** none.
+**Base Statistics** Without _ [stoneskin](spell_dir/stoneskin#_stoneskin)_, the knight's statistics are **DR** none.
 
 Statistics
 
@@ -323,15 +323,15 @@ Statistics
 
 **Base Atk** +16; **CMB** +19; **CMD** 34
 
-**Feats** Arcane Armor Mastery, [Arcane Armor Training](feats#_arcane-armor-training), [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), [Craft Wand](feats#_craft-wand), [Craft Wondrous Item](feats#_craft-wondrous-item), [Disruptive](feats#_disruptive), Greater [Weapon Focus](feats#_weapon-focus) (longsword), [Improved Critical](feats#_improved-critical) (longsword), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Quicken Spell](feats#_quicken-spell), [Scribe Scroll](feats#_scribe-scroll), [Spell Penetration](feats#_spell-penetration), [Still Spell](feats#_still-spell), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (longsword), Weapon Specialization (longsword)
+**Feats** Arcane Armor Mastery, [Arcane Armor Training](feats#_arcane-armor-training), [Craft Magic Arms and Armor](feats#_craft-magic-arms-and-armor), [Craft Wand](feats#_craft-wand), [Craft Wondrous Item](feats#_craft-wondrous-item), [Disruptive](feats#_disruptive), Greater [Weapon Focus](feats#_weapon-focus) (longsword), [Improved Critical](feats#_improved-critical) (longsword), [Improved Initiative](feats#_improved-initiative), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack), [Quicken Spell](feats#_quicken-spell), [Scribe Scroll](feats#_scribe-scroll), [Spell Penetration](feats#_spell-penetration), [Still Spell](feats#_still-spell), [Vital Strike](feats#_vital-strike), [Weapon Focus](feats#_weapon-focus) (longsword), Weapon Specialization (longsword
 
-**Skills** [Bluff](skills/bluff#_bluff) +19, [Fly](skills/fly#_fly) +22, [Intimidate](skills/intimidate#_intimidate) +22, [Knowledge](skills/knowledge#_knowledge) (arcana, planes) +31, [Knowledge](skills/knowledge#_knowledge) (dungeoneering, engineering, geography, history, local, nobility) +21, Perception +20, [Ride](skills/ride#_ride) +17, [Spellcraft](skills/spellcraft#_spellcraft) +31
+**Skills** [Bluff](skill_dir/bluff#_bluff +19, [Fly](skill_dir/fly#_fly +22, [Intimidate](skill_dir/intimidate#_intimidate +22, [Knowledge](skill_dir/knowledge#_knowledge) (arcana, planes +31, [Knowledge](skill_dir/knowledge#_knowledge) (dungeoneering, engineering, geography, history, local, nobility +21, Perception +20, [Ride](skill_dir/ride#_ride +17, [Spellcraft](skill_dir/spellcraft#_spellcraft) +31
 
 **Languages** Abyssal, Common, Draconic, Dwarven, Elven, Giant, Goblin, Ignan, Infernal
 
-**SQ** arcane bond (_+2 longsword_), diverse training
+**SQ** arcane bond (_+2 longsword_, diverse training
 
-**Combat Gear** _wand of [greater invisibility](spells/invisibility#_invisibility-greater)_ (15 charges), _wand of [see invisibility](spells/seeInvisibility#_see-invisibility)_ (10 charges); **Other Gear** _+5 moderate [fortification](magicItems/armor#_armor-fortification) mithral full plate_, _+3 longsword_, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +5_, _ [belt of physical might](magicItems/wondrousItems#_belt-of-physical-might) +4 _(Str, Con), _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +3_, _ [headband of vast intelligence](magicItems/wondrousItems#_headband-of-vast-intelligence) +6_, _ [ring of protection](magicItems/rings#_ring-of-protection) +4_, granite and diamond dust (worth 500 gp), iron sheet and gold dust (worth 50 gp), 3,585 gp
+**Combat Gear** _wand of [greater invisibility](spell_dir/invisibility#_invisibility-greater)_ (15 charges, _wand of [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_ (10 charges; **Other Gear** _+5 moderate [fortification](magicItem_dir/armor#_armor-fortification mithral full plate_, _+3 longsword_, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +5_, _ [belt of physical might](magicItem_dir/wondrousItems#_belt-of-physical-might) +4 _(Str, Con, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +3_, _ [headband of vast intelligence](magicItem_dir/wondrousItems#_headband-of-vast-intelligence +6_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +4_, granite and diamond dust (worth 500 gp), iron sheet and gold dust (worth 50 gp, 3,585 gp
 
 Clad in full plate, these eldritch knights mix an impenetrable defense with a relentless spell offense.
 

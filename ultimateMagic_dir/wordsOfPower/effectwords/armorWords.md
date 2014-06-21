@@ -1,13 +1,13 @@
 ---
-title: ultimateMagic/wordsOfPower/effectwords/armorWords
+title: ultimateMagic/wordsOfPower/effectword_dir/armorWords
 ---
 ## Armor Words
 
 These words create translucent armor made of solid magic, protecting without weight or obstruction.
 
-Force Block (Armor)
+Force Block (Armor
 
-**School** abjuration; **Level** cleric 0, magus 0, sorcerer/wizard 0, summoner 0
+**School** abjuration; **Level** cleric 0, magus 0, sorcere_dir/wizard 0, summoner 0
 
 **Duration** 1 round
 
@@ -19,11 +19,11 @@ The target of a wordspell with this effect word receives a +1 armor bonus to its
 
 **Boost** : A wordspell with this effect word can be cast as an immediate action. In this case, the effect lasts until the end of your next turn. This boost cannot be used if the wordspell includes another effect word (unless that word can also be cast as an immediate action). This boost increases this effect word's level by 1.
 
-Force Shield (Armor)
+Force Shield (Armor
 
 **School** abjuration; **Level** alchemist 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 
@@ -31,11 +31,11 @@ Force Shield (Armor)
 
 The target of a wordspell with this effect word receives a +4 armor bonus to its AC. This armor is made of force and provides protection against the attacks of incorporeal creatures.
 
-Force Armor (Armor)
+Force Armor (Armor
 
 **School** abjuration; **Level** cleric 3, magus 3, sorcerer/wizard 3, witch 3
 
-**Duration** 10 minutes/level
+**Duration** 10 minute_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** no
 
@@ -43,13 +43,13 @@ Force Armor (Armor)
 
 The target of a wordspell with this effect word receives a +4 armor bonus to its AC + 1 point for every four levels of the caster. This armor is made of force and provides protection against the attacks of incorporeal creatures. If the target has a greater armor bonus from another source, a wordspell with this effect word instead increases that armor bonus by +1 and allows it to provide protection against the attacks of incorporeal creatures.
 
-Force Ward (Armor)
+Force Ward (Armor
 
 **School** abjuration; **Level** magus 6, sorcerer/wizard 6
 
-**Duration** 10 minutes/level
+**Duration** 10 minute_dir/level
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** no
+**Saving Throw** Will negates (harmless; **Spell Resistance** no
 
 **Target Restrictions** _personal_, _selected_
 

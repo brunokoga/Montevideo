@@ -1,9 +1,9 @@
 ---
-title: spells/stormOfVengeance
+title: spell_dir/stormOfVengeance
 ---
  **Storm of Vengeance**
 
-**School** conjuration (summoning); **Level** cleric 9, druid 9
+**School** conjuration (summoning; **Level** cleric 9, druid 9
 
 **Casting Time** 1 round
 

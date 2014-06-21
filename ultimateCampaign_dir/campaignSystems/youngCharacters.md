@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/campaignSystems/youngCharacters
+title: ultimateCampaign/campaignSystem_dir/youngCharacters
 ---
 # Young Characters
 
@@ -9,13 +9,13 @@ Not all fantasy characters have the luxury of waiting until adulthood to begin t
 
 Young characters are essentially normal characters with an age category younger than any presented in the _Core Rulebook_. Characters of this age category are able and intelligent, curious and talented, but not yet experienced or worldly. They are on the threshold of great things, but still a step away. This youthfulness is represented in three ways: ability score adjustments, restrictions to available classes, and slower trait acquisition.
 
-**Ability Score Adjustments** : In the same way an adult character gains adjustments to her ability scores as she reaches middle, old, and venerable age, a young character occupies a new pre-adulthood age category, and therefore has altered physical ability scores, though the vigor of youth does grant some benefit. A young character has a +2 bonus to Dexterity and a —2 penalty to Strength, Constitution, and Wisdom. (A young character's potential inexperience and awkwardness are represented by having only the skill ranks of a 1st-level character rather than taking a penalty to Intelligence or Charisma.)
+**Ability Score Adjustments** : In the same way an adult character gains adjustments to her ability scores as she reaches middle, old, and venerable age, a young character occupies a new pre-adulthood age category, and therefore has altered physical ability scores, though the vigor of youth does grant some benefit. A young character has a +2 bonus to Dexterity and a —2 penalty to Strength, Constitution, and Wisdom. (A young character's potential inexperience and awkwardness are represented by having only the skill ranks of a 1st-level character rather than taking a penalty to Intelligence or Charisma.
 
 When a young character reaches adulthood, she loses these ability score adjustments.
 
 **Available Classes** : A young character does not have access to the same classes as adult characters. Not yet trained in the advanced techniques of war, arcana, faith, and varied other pursuits, a young character is a squire, apprentice, acolyte, or student on the path to expertise. As such, you can select only NPC classes while in this age category, beginning play and advancing in level as an adept, aristocrat, commoner, expert, or warrior, according to your interests and social background. As soon as you reach adulthood, though, you may retrain those NPC class levels as levels in any base classes of your choosing.
 
-**Traits** : Because character traits represent your character's background before becoming an adventurer, the GM might limit you to selecting only one trait at 1st level instead of the normal two traits allowed. When your character reaches adulthood, you select your second trait. Note that normally you can select a new trait after 1st level only if your character takes the [Additional Traits](advanced/advancedFeats#additional-traits) feat, so this option allows you more flexibility in choosing your second trait, as recent events in the campaign might make some of your trait options more valuable than they originally appeared when the campaign started.
+**Traits** : Because character traits represent your character's background before becoming an adventurer, the GM might limit you to selecting only one trait at 1st level instead of the normal two traits allowed. When your character reaches adulthood, you select your second trait. Note that normally you can select a new trait after 1st level only if your character takes the [Additional Traits](advance_dir/advancedFeats#additional-traits) feat, so this option allows you more flexibility in choosing your second trait, as recent events in the campaign might make some of your trait options more valuable than they originally appeared when the campaign started.
 
 [Random Young Starting Ages]
 | Race | Youthⁱ | Aristocrat, Commoner, Expert | Adept, Warrior | Adulthood⁲ |
@@ -48,5 +48,5 @@ You might choose to play a young character to gain insight into your PC's life o
 
 **Child Endangerment** : It's one thing to throw traps, monsters, and deadly magic into the path of willing adults, but another thing to threaten young people with such dangers. Although fantasy fiction is filled with instances of peril giving juvenile characters the opportunity to be heroic and prove their potential, not all players are going to be comfortable with putting young characters in danger. Before including them in a game, the GM should discuss with the group whether or not this might negatively impact any players' enjoyment of the campaign.
 
-**Weakness** : Young PCs are weaker than standard PCs. Published adventures are designed assuming PCs have the abilities, skills, flexibility, and full potential of base classes, making them too lethal for young characters. As a quick rule, the Average Party Level (APL) of a party of NPC-classed characters is approximately 2 character levels lower than that of a party of PC-classed characters of the same level.
+**Weakness** : Young PCs are weaker than standard PCs. Published adventures are designed assuming PCs have the abilities, skills, flexibility, and full potential of base classes, making them too lethal for young characters. As a quick rule, the Average Party Level (APL of a party of NPC-classed characters is approximately 2 character levels lower than that of a party of PC-classed characters of the same level.
 

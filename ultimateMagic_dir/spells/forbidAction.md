@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/forbidAction
+title: ultimateMagic/spell_dir/forbidAction
 ---
 Forbid Action
 
-**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 1, inquisitor 1
+**School** enchantment (compulsion [language-dependent, mind-affecting]; **Level** cleric 1, inquisitor 1
 
 **Casting Time** 1 standard action
 
@@ -23,7 +23,7 @@ _Attack_: The target cannot take any action that involves an attack roll, or use
 
 _Cast_: Target cannot cast spells or use spell-like abilities.
 
-_Communicate_: The target cannot take any actions that allow it to communicate with anyone. This includes such acts as speaking, [Bluff](skills/bluff#_bluff) checks to pass secret messages, writing, and using telepathy. It does not prevent verbalizations made for purposes other than communication, such as command words or the verbal component of spellcasting.
+_Communicate_: The target cannot take any actions that allow it to communicate with anyone. This includes such acts as speaking, [Bluff](skill_dir/bluff#_bluff) checks to pass secret messages, writing, and using telepathy. It does not prevent verbalizations made for purposes other than communication, such as command words or the verbal component of spellcasting.
 
 _Draw_: Target cannot ready or prepare any item, weapon, component, or equipment.
 
@@ -33,7 +33,7 @@ The target is free to take any actions not forbidden by the caster. For example,
 
 Forbid Action, Greater
 
-**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 5, inquisitor 5
+**School** enchantment (compulsion [language-dependent, mind-affecting]; **Level** cleric 5, inquisitor 5
 
 **Targets** one creature/level, no two of which can be more than 30 ft. apart
 

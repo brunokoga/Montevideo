@@ -1,9 +1,9 @@
 ---
 title: ultimateMagic/spells/ghostlyDisguise
 ---
-Ghostly [Disguise](skills/disguise#_disguise)
+Ghostly [Disguise](skill_dir/disguise#_disguise)
 
-**School** illusion (glamer); **Level** alchemist 2, bard 2, inquisitor 2, sorcerer/wizard 2, witch 2
+**School** illusion (glamer; **Level** alchemist 2, bard 2, inquisitor 2, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ Ghostly [Disguise](skills/disguise#_disguise)
 
 **Target** you
 
-**Duration** 10 minute/level (D)
+**Duration** 10 minut_dir/level (D
 
 You make yourself—including clothing, armor, weapons, and equipment—appear translucent like a ghost. Any mundane or magical disguise on you is affected by this illusion as well; for example, if you are disguised as the king or a sahuagin, you look like a ghostly version of the king or a sahuagin. Your ghostly form may have a pale green, blue, or violet coloration, or a muted version of your normal appearance.
 

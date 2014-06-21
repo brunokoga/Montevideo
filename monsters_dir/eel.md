@@ -1,5 +1,5 @@
 ---
-title: monsters/eel
+title: monster_dir/eel
 ---
 # Eel, Electric
 
@@ -9,9 +9,9 @@ _This six-foot-long, snake-like fish moves slowly. A strange popping and snappin
 
 **XP 600**
 
-N Small [animal](creatureTypes#_animal)
+N Small [animal](creatureTypes#_animal
 
-**Init** +6; **Senses** low-light vision; [Perception](../skills/perception#_perception) +4
+**Init** +6; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +4
 
 **Defense**
 
@@ -33,11 +33,11 @@ N Small [animal](creatureTypes#_animal)
 
 **Str** 13, **Dex** 14, **Con** 19, **Int** 1, **Wis** 10, **Cha** 6
 
-**Base Atk** +1; **CMB** +1; **CMD** 13 (can't be tripped)
+**Base Atk** +1; **CMB** +1; **CMD** 13 (can't be tripped
 
 **Feats** [Improved Initiative](../feats#_improved-initiative)
 
-**Skills** [Escape Artist](../skills/escapeArtist#_escape-artist) +10, [Perception](../skills/perception#_perception) +4, [Stealth](../skills/stealth#_stealth) +10, [Swim](../skills/swim#_swim) +9; **Racial Modifiers** +8 [Escape Artist](../skills/escapeArtist#_escape-artist)
+**Skills** [Escape Artist](../skill_dir/escapeArtist#_escape-artist +10, [Perception](../skill_dir/perception#_perception +4, [Stealth](../skill_dir/stealth#_stealth +10, [Swim](../skill_dir/swim#_swim +9; **Racial Modifiers** +8 [Escape Artist](../skill_dir/escapeArtist#_escape-artist)
 
 **Ecology**
 
@@ -67,9 +67,9 @@ _This sixteen-foot-long eel slithers through the water with uncanny grace, mouth
 
 **XP 1,600**
 
-N Large [animal](creatureTypes#_animal) (aquatic)
+N Large [animal](creatureTypes#_animal) (aquatic
 
-**Init** +6; **Senses** low-light vision, scent; [Perception](../skills/perception#_perception) +7
+**Init** +6; **Senses** low-light vision, scent; [Perception](../skill_dir/perception#_perception) +7
 
 **Defense**
 
@@ -93,11 +93,11 @@ N Large [animal](creatureTypes#_animal) (aquatic)
 
 **Str** 22, **Dex** 14, **Con** 16, **Int** 1, **Wis** 12, **Cha** 8
 
-**Base Atk** +5; **CMB** +12 (+16 grapple); **CMD** 24 (can't be tripped)
+**Base Atk** +5; **CMB** +12 (+16 grapple); **CMD** 24 (can't be tripped
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills/stealth#_stealth)), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Lightning Reflexes](../feats#_lightning-reflexes), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Escape Artist](../skills/escapeArtist#_escape-artist) +10, [Perception](../skills/perception#_perception) +7, [Stealth](../skills/stealth#_stealth) +8, [Swim](../skills/swim#_swim) +14; **Racial Modifiers** +8 [Escape Artist](../skills/escapeArtist#_escape-artist)
+**Skills** [Escape Artist](../skill_dir/escapeArtist#_escape-artist +10, [Perception](../skill_dir/perception#_perception +7, [Stealth](../skill_dir/stealth#_stealth +8, [Swim](../skill_dir/swim#_swim +14; **Racial Modifiers** +8 [Escape Artist](../skill_dir/escapeArtist#_escape-artist)
 
 **Ecology**
 
@@ -117,5 +117,5 @@ The moray eel is a ferocious predator, capable of holding prey in its primary ja
 
 **Starting Statistics** : **Size** Medium; **AC** +5 natural armor; **Speed** swim 30 ft.; **Attack** bite (1d8); **Ability Scores** Str 14, Dex 16, Con 12, Int 1, Wis 12, Cha 8; **Special Qualities** low-light vision, grab.
 
-**7th-Level Advancement** : **Size** Large; **AC** +3 natural armor; **Attack** bite (2d6); **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** gnaw.
+**7th-Level Advancement** : **Size** Large; **AC** +3 natural armor; **Attack** bite (2d6; **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** gnaw.
 

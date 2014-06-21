@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/kingdomsAndWar/massCombat
+title: ultimateCampaign/kingdomsAndWa_dir/massCombat
 ---
 # Mass Combat
 
@@ -52,9 +52,9 @@ The description of each army is presented in a standard format.
 
 **hp** : An army's hit points equal its ACR × the average hp value of 1 HD of the army's units (3.5 for d6 HD, 4.5 for d8 HD, 5.5 for d10 HD, and 6.5 for d12 HD). For example, warriors have d10 HD, so an ACR 1 army of warriors has 5.5 × 1 = 5.5 hp, rounded down to 5 hp. Note that only damage from other armies can reduce an army's hp; a non-army attacking an army is mostly ineffective, though you can treat the attacker as a Fine army if you want to determine the outcome of the attack. As with standard game effects that affect hit points, abilities that reduce hp damage or healing by half (or any other fraction) have a minimum of 1 rather than 0.
 
-**Army Challenge Rating (ACR)** : This is based on the CR of an individual unit from the army and the army's size, and scales like CRs for monsters. To determine ACR, see Table 4—15: Army Sizes and apply the modifier for the army's size to the CR of an individual unit in the army. If an army is cavalry, use the mount's CR or the rider's CR, whichever is higher. For example, an individual orc warrior 1 is CR 1/3, so an army of 100 orc warriors 1 is ACR 1/3; an army of 500 orc warriors 1 is ACR 3 (4 steps greater than the standard 100-unit army). If a group's ACR would be lower than 1/8, it doesn't count as an army—add more troops until you reach an ACR of 1/8 or higher.
+**Army Challenge Rating (ACR** : This is based on the CR of an individual unit from the army and the army's size, and scales like CRs for monsters. To determine ACR, see Table 4—15: Army Sizes and apply the modifier for the army's size to the CR of an individual unit in the army. If an army is cavalry, use the mount's CR or the rider's CR, whichever is higher. For example, an individual orc warrior 1 is CR 1/3, so an army of 100 orc warriors 1 is ACR 1/3; an army of 500 orc warriors 1 is ACR 3 (4 steps greater than the standard 100-unit army). If a group's ACR would be lower than 1/8, it doesn't count as an army—add more troops until you reach an ACR of 1/8 or higher.
 
-**Defense Value (DV)** : This is a static number the army uses to resist attacks, much like an individual creature's AC. The army's DV is equal to ACR + 10 + any bonuses from fortifications or a settlement's [Defense score](ultimateCampaign/kingdomsAndWar/kingdomTurnSequence#_settlements-and-districts).
+**Defense Value (DV)** : This is a static number the army uses to resist attacks, much like an individual creature's AC. The army's DV is equal to ACR + 10 + any bonuses from fortifications or a settlement's [Defense score](ultimateCampaign/kingdomsAndWa_dir/kingdomTurnSequence#_settlements-and-districts).
 
 **Offense Modifier (OM)** : This is a modifier added to a d20 roll to determine the army's chance of success, much like an individual creature's attack bonus. The army's OM is equal to its ACR. If the army has the ability to make ranged attacks, that's mentioned here. Melee attacks and ranged attacks use the same OM unless an ability says otherwise.
 
@@ -68,9 +68,9 @@ The description of each army is presented in a standard format.
 
 **Morale** : This number represents how confident the army is. Morale is used to determine changing battle tactics, whether or not an army routs as a result of a devastating attack, and similar effects. Morale is a modifier from —4 (worst) to +4 (best). A new army's starting morale is +0. Morale can be further modified by the army's commander and other factors. If an army's Morale is ever reduced to —5 or lower, the army disbands or deserts and you no longer control it.
 
-**Consumption** : This is how many Build Points (BP) an army consumes each week (unlike most kingdom expenses, this cost is per week, not per month), representing the cost to feed, hydrate, arm, train, care for, and pay the units. An army's base Consumption is equal to its ACR divided by 2 (minimum 1). If you fall behind on paying the army's Consumption, reduce its Morale by 2; this penalty ends when you catch up on the army's pay.
+**Consumption** : This is how many Build Points (BP) an army consumes each week (unlike most kingdom expenses, this cost is per week, not per month), representing the cost to feed, hydrate, arm, train, care for, and pay the units. An army's base Consumption is equal to its ACR divided by 2 (minimum 1. If you fall behind on paying the army's Consumption, reduce its Morale by 2; this penalty ends when you catch up on the army's pay.
 
-**Commander** : This entry lists the army's commander and the commander's Charisma modifier, ranks in [Profession](skills/profession#_profession) (soldier), and [Leadership](feats#_leadership) score. The commander must be able to communicate with the army (possibly using _ [message](spells/message#_message)_ spells and similar magical forms of communication) in order to give orders or provide a bonus on the army's rolls.
+**Commander** : This entry lists the army's commander and the commander's Charisma modifier, ranks in [Profession](skill_dir/profession#_profession) (soldier), and [Leadership](feats#_leadership score. The commander must be able to communicate with the army (possibly using _ [message](spell_dir/message#_message)_ spells and similar magical forms of communication) in order to give orders or provide a bonus on the army's rolls.
 
 ## Battle Phases
 
@@ -100,9 +100,9 @@ These rules can also serve in battles where more than two armies clash. In such 
 
 ## Battlefield Conditions
 
-In some mass combats, the specifics of a battlefield won't impact either army, but sometimes the battlefield will itself decide the outcome. The modifiers listed below apply only for the duration of the battle. Naturally, the GM should exercise judgment regarding any conditions that don't seem to apply to one of the armies (such as darkness and an army with darkvision, or fog and an army with scent).
+In some mass combats, the specifics of a battlefield won't impact either army, but sometimes the battlefield will itself decide the outcome. The modifiers listed below apply only for the duration of the battle. Naturally, the GM should exercise judgment regarding any conditions that don't seem to apply to one of the armies (such as darkness and an army with darkvision, or fog and an army with scent.
 
-At the GM's discretion, large-area spells such as _ [move earth](spells/moveEarth#_move-earth)_ might allow armies or commanders to manipulate the battlefield conditions before a conflict. For these spells to have any effect, they must last at least 1 hour and affect at least a 500-foot square. Likewise, magic items such as an _ [instant fortress](magicItems/wondrousItems#_instant-fortress)_ (+2 Defense) and spells such as _ [wall of stone](spells/wallOfStone#_wall-of-stone)_ (+1 Defense) can create simple fortifications for an army to use in a battle.
+At the GM's discretion, large-area spells such as _ [move earth](spell_dir/moveEarth#_move-earth_ might allow armies or commanders to manipulate the battlefield conditions before a conflict. For these spells to have any effect, they must last at least 1 hour and affect at least a 500-foot square. Likewise, magic items such as an _ [instant fortress](magicItem_dir/wondrousItems#_instant-fortress)_ (+2 Defense and spells such as _ [wall of stone](spell_dir/wallOfStone#_wall-of-stone)_ (+1 Defense) can create simple fortifications for an army to use in a battle.
 
 **Advantageous Terrain** : Generally, if one army occupies a position of superiority (such as being atop a hill, wedged in a narrow canyon, or protected by a deep river along one flank), the defending army increases its DV by 2.
 
@@ -142,7 +142,7 @@ Tactics marked with an asterisk (\*) are default tactics all armies know; these 
 
 **Defensive Wall** : Your army fights defensively, taking actions to protect fellow units as needed. Decrease its OM by 2, and increase its DV by 2.
 
-**Dirty Fighters** : Your army uses trickery and unfair tactics to gain an advantage at the start of a battle. For one Melee phase this battle, its OM increases by 6. (After that Melee phase, the opposing army knows to be ready for such tricks.)
+**Dirty Fighters** : Your army uses trickery and unfair tactics to gain an advantage at the start of a battle. For one Melee phase this battle, its OM increases by 6. (After that Melee phase, the opposing army knows to be ready for such tricks.
 
 **Expert Flankers** : Your army is skilled at surrounding the foe and distracting them, at the cost of spreading out too much and being more vulnerable. Increase its OM by 2, and decrease its DV by 2.
 
@@ -160,7 +160,7 @@ Tactics marked with an asterisk (\*) are default tactics all armies know; these 
 
 **Standard\*:** Your army's attacks have no additional modifiers to its OM, DV, or damage.
 
-**[Taunt](advanced/advancedFeats#taunt)** : Your army is skilled at taunting its opponents, provoking stupid mistakes and overconfidence in battle. The target army must attempt a Morale check (DC = 10 + your army's ACR) at the start of each Melee or Ranged phase; failure means it reduces its OM and DV against your army by 2 for that phase. If the target army succeeds at two of these Morale checks, it's immune to this tactic for the remainder of the battle.
+**[Taunt](advance_dir/advancedFeats#taunt)** : Your army is skilled at taunting its opponents, provoking stupid mistakes and overconfidence in battle. The target army must attempt a Morale check (DC = 10 + your army's ACR) at the start of each Melee or Ranged phase; failure means it reduces its OM and DV against your army by 2 for that phase. If the target army succeeds at two of these Morale checks, it's immune to this tactic for the remainder of the battle.
 
 **Withdraw\*:** Your army tries to escape from all armies attacking it. The army attempts an opposed Morale check against each army attacking it to maintain discipline (any army may voluntarily fail this check), but doesn't need to attempt the usual Morale check to change tactics when switching to withdraw. If all of these checks are successful, your army may withdraw from the battlefield or treat the phase as a Ranged phase. If only some are successful, you may withdraw or treat the phase as a Ranged phase, but enemy armies in the battle may attack you as if you were in Melee. Whether or not the checks are successful, reduce your army's OM and DV by 2 for the rest of this phase.
 
@@ -218,15 +218,15 @@ The Mass Combat Army Sheet has a space to record information about the commander
 
 **Charisma Modifier** : This lists the commander's Charisma modifier. It is added to the army's Morale checks.
 
-**Profession (soldier)** : This is the commander's ranks in [Profession](skills/profession#_profession) (soldier). Divide the number of ranks by 5 (minimum 0) and add that number to the army's Morale checks.
+**Profession (soldier** : This is the commander's ranks in [Profession](skill_dir/profession#_profession) (soldier). Divide the number of ranks by 5 (minimum 0) and add that number to the army's Morale checks.
 
 **Leadership** : The commander's character level + Charisma modifier. If the commander is a monster, use HD instead of character level. If the commander has the [Leadership](feats#_leadership) feat, increase this value by 3. This number is a prerequisite for some boons.
 
-**Boons** : This lists the boons the commander knows (see below). A commander's maximum number of boons known is 1, plus 1 for every 5 ranks in [Profession](skills/profession#_profession) (soldier). A new or unexceptional commander might know no boons at first, but can gain them from victories in battle. If you're a kingdom leader acting as a commander, you automatically have one boon appropriate to your leadership role (see below).
+**Boons** : This lists the boons the commander knows (see below. A commander's maximum number of boons known is 1, plus 1 for every 5 ranks in [Profession](skill_dir/profession#_profession) (soldier). A new or unexceptional commander might know no boons at first, but can gain them from victories in battle. If you're a kingdom leader acting as a commander, you automatically have one boon appropriate to your leadership role (see below).
 
-The commander must be active with the army to grant a bonus on Morale checks or a boon to the army. Being active requires spending at least 3 days per week with the army. An army without a commander (whether because the commander is dead or because she isn't spending enough time with the army) loses 1 Morale per week. You may offset this loss by doubling the army's Consumption that week.
+The commander must be active with the army to grant a bonus on Morale checks or a boon to the army. Being active requires spending at least 3 days per week with the army. An army without a commander (whether because the commander is dead or because she isn't spending enough time with the army loses 1 Morale per week. You may offset this loss by doubling the army's Consumption that week.
 
-If you have an army without a commander and you have no commanders available to fill that role, you may promote a unit from the army to be an unexceptional commander. This commander has a +0 Charisma modifier, 0 ranks in [Profession](skills/profession#_profession) (soldier), and a [Leadership](feats#_leadership) score based on the level or HD of a typical unit in that army.
+If you have an army without a commander and you have no commanders available to fill that role, you may promote a unit from the army to be an unexceptional commander. This commander has a +0 Charisma modifier, 0 ranks in [Profession](skill_dir/profession#_profession) (soldier), and a [Leadership](feats#_leadership) score based on the level or HD of a typical unit in that army.
 
 ### Boons
 
@@ -256,7 +256,7 @@ Boons are special abilities a commander grants to an army. Most of these boons a
 
 ### Kingdom Leader Commanders
 
-If you have a kingdom leadership role (Ruler, High Priest, Grand Diplomat, and so on), you may take the role of an army commander. To determine your bonus on Morale checks and the maximum number of boons you can know, use either one-fifth your ranks in [Profession](skills/profession#_profession) (soldier) or one-sixth your character level, whichever is higher (minimum 1). As with other commanders, you must remain active with the army to grant your commander bonus on Morale checks, and must be at the battle to provide tactics and bonuses.
+If you have a kingdom leadership role (Ruler, High Priest, Grand Diplomat, and so on, you may take the role of an army commander. To determine your bonus on Morale checks and the maximum number of boons you can know, use either one-fifth your ranks in [Profession](skill_dir/profession#_profession) (soldier) or one-sixth your character level, whichever is higher (minimum 1). As with other commanders, you must remain active with the army to grant your commander bonus on Morale checks, and must be at the battle to provide tactics and bonuses.
 
 Your leadership role determines what boons you automatically know (even if you don't meet the [Leadership](feats#_leadership) requirements for those boons). If a role lists multiple boons, you must choose one when you become a commander. (Others may be gained in the normal manner).
 
@@ -312,7 +312,7 @@ The costs listed are for a Medium army. Resources for a smaller or larger army c
 
 **Ranged Weapons (2 BP)** : The army is equipped with ranged weapons (such as crossbows, slings, or bows), gaining ranged attack capability. Increase its Consumption by 1.
 
-**Siege Engines (15 BP per engine)** : Your army includes catapults, rams, trebuchets, ballistae, and other siege engines designed to break down fortifications. Increase OM by 2 (regardless of the total number of siege engines in the army) and Consumption by 3 per siege engine. Each Melee phase, reduce the enemy's bonus to DV from fortifications by 1d4 per siege engine in your army. Unlike other resources, the cost of a siege engine doesn't scale with the army's size. To purchase this resource, a settlement in your kingdom must have an Academy, Foreign Quarter, Military Academy, or University.
+**Siege Engines (15 BP per engine)** : Your army includes catapults, rams, trebuchets, ballistae, and other siege engines designed to break down fortifications. Increase OM by 2 (regardless of the total number of siege engines in the army and Consumption by 3 per siege engine. Each Melee phase, reduce the enemy's bonus to DV from fortifications by 1d4 per siege engine in your army. Unlike other resources, the cost of a siege engine doesn't scale with the army's size. To purchase this resource, a settlement in your kingdom must have an Academy, Foreign Quarter, Military Academy, or University.
 
 [Resource Scaling]
 | Army Size | Multiplier |
@@ -344,7 +344,7 @@ Modifiers for these abilities apply only if most of the units in an army have th
 
 You can use the following special abilities as inspiration to generate additional army abilities of your own. Unless otherwise stated, the effects of these special abilities (other than hp damage) end when a battle ends. Note that you count as your own ally for abilities that effect allied armies.
 
-**Ability Damage/Drain** : This ability functions as bleed.
+**Ability Damag_dir/Drain** : This ability functions as bleed.
 
 **Alchemy (Alchemist 1)** : Once per battle, the army can heal itself as if it had the healing potions resource. This doesn't cost BP.
 
@@ -502,9 +502,9 @@ _Animal_: This ability functions as animal companion.
 
 **Scent** : The army reduces its OM and DV penalties from darkness, invisibility, and weather by half.
 
-**Shield Ally (Summoner 4)** : Increase the army's DV by 1.
+**Shield Ally (Summoner 4** : Increase the army's DV by 1.
 
-**Significant Defense** : The army has a significant defense such as powerful damage reduction or numerous immunities and/or resistances. Increase its DV by 10, but only against armies that can't overcome those defenses. In some cases, the GM might rule that an army is simply undefeatable by an enemy army because of its defenses (though the GM should never pit the PCs against such an army unless the PCs initiate a foolish battle).
+**Significant Defense** : The army has a significant defense such as powerful damage reduction or numerous immunities an_dir/or resistances. Increase its DV by 10, but only against armies that can't overcome those defenses. In some cases, the GM might rule that an army is simply undefeatable by an enemy army because of its defenses (though the GM should never pit the PCs against such an army unless the PCs initiate a foolish battle).
 
 **Smite Evil (Paladin 1)** : In one Melee phase per battle, the army may increase its OM by 2 against an evil army. If the target army is undead or evil outsiders, the OM increases by 4 instead.
 
@@ -514,7 +514,7 @@ _Animal_: This ability functions as animal companion.
 
 **Spellcasting** : If an army's units can use magic (from either spell-like abilities or actual spellcasting), increase its OM and DV by the spell level of the highest-level spell the individual unit can cast. If any of the army's offensive spells has a range greater than touch, the army can make ranged attacks.
 
-**Stunning Fist (Monk 1)** : This ability functions as paralysis.
+**Stunning Fist (Monk 1** : This ability functions as paralysis.
 
 **Swarm** : The army takes half damage from nonmagical attacks, but 1-1/2 times as much damage from magical attacks. It ignores DV bonuses from armor resources. It can't harm an army with the incorporeal or significant defense ability. It automatically succeeds at checks to withdraw.
 
@@ -546,7 +546,7 @@ _Animal_: This ability functions as animal companion.
 
 ## Player Characters in Battles
 
-In addition to the option of your PCs being commanders in your armies, the GM may have you fight smaller groups of enemies before or even during a battle in which your armies clash with the enemy. For example, your PCs might attack an evil necromancer and fight your way through his tower to confront him directly and defeat him while your army battles the undead horde outside the tower. Alternatively, your PCs could use potent spells (such as _ [cloudkill](spells/cloudkill#_cloudkill)_, _ [control water](spells/controlWater#_control-water)_, or _ [earthquake](spells/earthquake#_earthquake)_) to alter battlefield conditions in your favor. These possibilities let you use your characters to directly affect the outcome of a battle without forcing you to sit out on an adventure opportunity by personally commanding an army.
+In addition to the option of your PCs being commanders in your armies, the GM may have you fight smaller groups of enemies before or even during a battle in which your armies clash with the enemy. For example, your PCs might attack an evil necromancer and fight your way through his tower to confront him directly and defeat him while your army battles the undead horde outside the tower. Alternatively, your PCs could use potent spells (such as _ [cloudkill](spell_dir/cloudkill#_cloudkill_, _ [control water](spell_dir/controlWater#_control-water_, or _ [earthquake](spell_dir/earthquake#_earthquake)_) to alter battlefield conditions in your favor. These possibilities let you use your characters to directly affect the outcome of a battle without forcing you to sit out on an adventure opportunity by personally commanding an army.
 
 If your PCs win the small-scale combat or dramatically affect the battlefield with magic, the GM could opt to increase your army's DV and OM by +4 for that battle, or penalize your armies by —4 if you lose. At the GM's discretion, your PCs' failure or victory might have other effects on your armies as well, such as temporarily granting an additional tactic, altering the hit points of one or more armies, or granting or negating a special ability.
 
@@ -588,7 +588,7 @@ You can divide an army into smaller armies. At any time outside of combat, you m
 
 Calculate each smaller army's statistics based on its new size. The smaller armies retain all of the larger army's statistics and effects (including tactics, boons, resources, commander, and so on) except those based on size (such as ACR and statistics based on ACR). Each smaller army reduces its Morale by 1.
 
-Determine what percentage of its full normal hit points the larger army had. Each smaller army has this proportion of hit points for its new size. For example, if the large army was at 70% (28 hp out of 40), each smaller army is at 70% of the full hit points for its size.
+Determine what percentage of its full normal hit points the larger army had. Each smaller army has this proportion of hit points for its new size. For example, if the large army was at 70% (28 hp out of 40, each smaller army is at 70% of the full hit points for its size.
 
 There is no limit to how many times you can split an army. Even a Colossal army can split several times until the CR of its individual units is too small to actually count as an army.
 
@@ -598,7 +598,7 @@ This section details sample armies of various humanoid and monster types. The GM
 
 Most of these armies are Medium, showing a player or GM what tactics, resources, and special abilities a typical army of that type has, yet still keeping it easy to scale the army to a larger or smaller size. If an army has a resource, the listed Consumption is for an army of the listed size; if you change the size of the army, remember to subtract the Consumption cost for its original size, scale that cost to the new size, then add the scaled cost to the army's base Consumption cost. If the army lists an additional cost for recruiting the army, this recruitment cost scales in the same way.
 
-The special abilities listed for monster armies are approximations to model the unit monster's special abilities. For example, an individual troglodyte's stench nauseates opponents, but there is no army special ability that does that, so the troglodyte army has paralysis instead, which has a comparable effect. Likewise, the astral deva army has the alchemy ability, which is a reasonable approximation of an individual astral deva's ability to use _ [heal](spells/heal#_heal)_ once per day; the one-unit army doesn't actually carry alchemist extracts.
+The special abilities listed for monster armies are approximations to model the unit monster's special abilities. For example, an individual troglodyte's stench nauseates opponents, but there is no army special ability that does that, so the troglodyte army has paralysis instead, which has a comparable effect. Likewise, the astral deva army has the alchemy ability, which is a reasonable approximation of an individual astral deva's ability to use _ [heal](spell_dir/heal#_heal)_ once per day; the one-unit army doesn't actually carry alchemist extracts.
 
 If a special ability provides a constant bonus (such as the bonus from charge or pounce), that bonus is automatically included in the army's stat block. If the bonus is conditional (like the DV bonus from rock catching or the ranged damage bonus from rock throwing), you need to account for that bonus when the conditions are right.
 
@@ -654,7 +654,7 @@ N Large army of humans (fighter 2)
 
 Army (Medium)XP 400
 
-N Medium army of humans (fighter 2)
+N Medium army of humans (fighter 2
 
 **hp** 5; **ACR** 1
 

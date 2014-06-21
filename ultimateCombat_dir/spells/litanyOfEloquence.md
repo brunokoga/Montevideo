@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/litanyOfEloquence
+title: ultimateCombat/spell_dir/litanyOfEloquence
 ---
 Litany of Eloquence
 
-**School** enchantment (charm) [language dependent, mind-affecting]; **Level** antipaladin 2, inquisitor 3, paladin 2
+**School** enchantment (charm [language dependent, mind-affecting]; **Level** antipaladin 2, inquisitor 3, paladin 2
 
 **Casting Time** 1 swift action
 

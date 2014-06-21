@@ -1,13 +1,13 @@
 ---
-title: ultimateMagic/wordsOfPower/effectwords/painWords
+title: ultimateMagic/wordsOfPower/effectword_dir/painWords
 ---
 ## Pain Words
 
 The mere sound of these words causes agony in those unfortunate enough to hear them.
 
-Cramp (Pain)
+Cramp (Pain
 
-**School** necromancy; **Level** bard 0, cleric 0, inquisitor 0, sorcerer/wizard 0, witch 0
+**School** necromancy; **Level** bard 0, cleric 0, inquisitor 0, sorcere_dir/wizard 0, witch 0
 
 **Duration** 1 round
 
@@ -15,17 +15,17 @@ Cramp (Pain)
 
 The targets of a wordspell with this effect word have their base speed reduced by half (minimum 10 feet).
 
-Wrack (Pain)
+Wrack (Pain
 
 **School** necromancy; **Level** bard 1, cleric 1, inquisitor 1, sorcerer/wizard 1, witch 1
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
 The targets of a wordspell with this effect word are sickened.
 
-Torture (Pain)
+Torture (Pain
 
 **School** necromancy; **Level** bard 3, inquisitor 3, sorcerer/wizard 3, witch 3
 

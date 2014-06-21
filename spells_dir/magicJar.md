@@ -3,11 +3,11 @@ title: spells/magicJar
 ---
  **Magic Jar**
 
-**School** necromancy; **Level** sorcerer/wizard 5
+**School** necromancy; **Level** sorcere_dir/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a gem or crystal worth at least 100 gp)
+**Components** V, S, F (a gem or crystal worth at least 100 gp
 
 **Range** medium (100 ft. + 10 ft./level)
 

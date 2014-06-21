@@ -1,5 +1,5 @@
 ---
-title: spells/shieldOfLaw
+title: spell_dir/shieldOfLaw
 ---
  **Shield of Law**
 
@@ -7,13 +7,13 @@ title: spells/shieldOfLaw
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a reliquary worth 500 gp)
+**Components** V, S, F (a reliquary worth 500 gp
 
 **Range** 20 ft.
 
 **Targets** one creature/level in a 20-ft.-radius burst centered on you
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** see text; **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

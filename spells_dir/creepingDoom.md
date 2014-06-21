@@ -1,9 +1,9 @@
 ---
-title: spells/creepingDoom
+title: spell_dir/creepingDoom
 ---
  **Creeping Doom**
 
-**School** conjuration (summoning); **Level** druid 7
+**School** conjuration (summoning; **Level** druid 7
 
 **Casting Time** 1 standard action
 

@@ -1,13 +1,13 @@
 ---
-title: spells/acidArrow
+title: spell_dir/acidArrow
 ---
  **Acid Arrow**
 
-**School** conjuration (creation) [acid]; **Level** sorcerer/wizard 2
+**School** conjuration (creation [acid]; **Level** sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (rhubarb leaf and an adder's stomach), F (a dart)
+**Components** V, S, M (rhubarb leaf and an adder's stomach), F (a dart
 
 **Range** long (400 ft. + 40 ft./level)
 

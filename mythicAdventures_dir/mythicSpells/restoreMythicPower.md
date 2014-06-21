@@ -3,7 +3,7 @@ title: mythicAdventures/mythicSpells/restoreMythicPower
 ---
 Restore Mythic Power
 
-**School** transmutation; **Level** bard 3, cleric 3, sorcerer/wizard 3, witch 3
+**School** transmutation; **Level** bard 3, cleric 3, sorcere_dir/wizard 3, witch 3
 
 **Casting Time** 1 standard action
 
@@ -15,7 +15,7 @@ Restore Mythic Power
 
 **Duration** instantaneous
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
 
 By laying your hands on the target, you're able to transfer some of your mythic essence to the target. You expend three uses of your mythic power to restore one use of the target's mythic power.
 

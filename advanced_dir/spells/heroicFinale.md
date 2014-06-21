@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/heroicFinale
+title: advanced/spell_dir/heroicFinale
 ---
  **Heroic Finale**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 4
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 4
 
 **Casting Time** 1 standard action
 

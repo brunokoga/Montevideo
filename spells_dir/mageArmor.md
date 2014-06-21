@@ -1,19 +1,19 @@
 ---
-title: spells/mageArmor
+title: spell_dir/mageArmor
 ---
  **Mage Armor**
 
-**School** conjuration (creation) [force]; **Level** sorcerer/wizard 1
+**School** conjuration (creation [force]; **Level** sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a piece of cured leather)
+**Components** V, S, F (a piece of cured leather
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hou_dir/level (D
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** no
 

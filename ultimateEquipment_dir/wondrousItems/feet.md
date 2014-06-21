@@ -74,19 +74,19 @@ Acrobat Slippers
 
 **Price** 3,000 gp; **Aura** faint transmutation; **CL** 3rd; **Weight** 2 lbs.
 
-These supple gray leather slippers enable the wearer to keep his balance in precarious positions. The wearer retains his Dexterity bonus to AC when climbing, running, or using the [Acrobatics](skills/acrobatics#_acrobatics) skill to move on narrow surfaces or uneven ground without falling. In addition, the wearer gains a +2 competence bonus to CMD against trip maneuvers and on Reflex saves to avoid falling (including falling prone).
+These supple gray leather slippers enable the wearer to keep his balance in precarious positions. The wearer retains his Dexterity bonus to AC when climbing, running, or using the [Acrobatics](skill_dir/acrobatics#_acrobatics) skill to move on narrow surfaces or uneven ground without falling. In addition, the wearer gains a +2 competence bonus to CMD against trip maneuvers and on Reflex saves to avoid falling (including falling prone.
 
 Construction Requirements
 
 **Cost** 1,500 gp
 
-Craft Wondrous Item, _ [cat's grace](spells/catSGrace#_cat-s-grace)_
+Craft Wondrous Item, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_
 
 Boots of Elvenkind
 
 **Price** 2,500 gp; **Aura** faint transmutation; **CL** 5th; **Weight** 1 lb.
 
-These soft boots are partially made out of living leaves and other natural materials. They enable the wearer to move nimbly about in virtually any surroundings, granting a +5 competence bonus on [Acrobatics](skills/acrobatics#_acrobatics) checks.
+These soft boots are partially made out of living leaves and other natural materials. They enable the wearer to move nimbly about in virtually any surroundings, granting a +5 competence bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics checks.
 
 Construction Requirements
 
@@ -98,7 +98,7 @@ Boots of escape
 
 **Price** 8,000 gp; **Aura** moderate conjuration; **CL** 5th; **Weight** 1 lb.
 
-These sturdy leather-soled cloth boots have straps at the ankles and calves to ensure a snug fit. Once per day, when the wearer of the boots is grappled, pinned, or entangled, she may transfer herself to any spot within 30 feet as if using a _ [dimension door](spells/dimensionDoor#_dimension-door)_ spell. A gnome wearing these boots may instead transfer herself up to 400 feet away.
+These sturdy leather-soled cloth boots have straps at the ankles and calves to ensure a snug fit. Once per day, when the wearer of the boots is grappled, pinned, or entangled, she may transfer herself to any spot within 30 feet as if using a _ [dimension door](spell_dir/dimensionDoor#_dimension-door)_ spell. A gnome wearing these boots may instead transfer herself up to 400 feet away.
 
 Construction Requirements
 
@@ -110,73 +110,73 @@ Boots of Friendly Terrain
 
 **Price** 2,400 gp; **Aura** faint transmutation; **CL** 5th; **Weight** 1 lb.
 
-_Boots of friendly terrain_ turn inhospitable territory into a perfect hunting grounds for any ranger who wears them, so much so that his footprints vanish behind him with each step he takes. Each pair of these supple leather boots corresponds to a specific sort of environment as defined by the ranger's favored terrain class feature (jungles, plains, and so on). A ranger wearing the boots can treat the corresponding environment of the boots as one of his favored terrains, granting him a +2 bonus. If he already has that particular environment as one of his favored terrains, that terrain's bonus increases by 2.
+_Boots of friendly terrain_ turn inhospitable territory into a perfect hunting grounds for any ranger who wears them, so much so that his footprints vanish behind him with each step he takes. Each pair of these supple leather boots corresponds to a specific sort of environment as defined by the ranger's favored terrain class feature (jungles, plains, and so on. A ranger wearing the boots can treat the corresponding environment of the boots as one of his favored terrains, granting him a +2 bonus. If he already has that particular environment as one of his favored terrains, that terrain's bonus increases by 2.
 
 Construction Requirements
 
 **Cost** 1,200 gp
 
-Craft Wondrous Item, _ [pass without trace](spells/passWithoutTrace#_pass-without-trace)_, creator must be a ranger
+Craft Wondrous Item, _ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace_, creator must be a ranger
 
 Boots of Levitation
 
 **Price** 7,500 gp; **Aura** faint transmutation; **CL** 3rd; **Weight** 1 lb.
 
-These soft leather boots are incredibly light and comfortable, with thin soles reinforced by strips of tough hide that provide an unexpected amount of support and protection to the foot. On command, these boots allow the wearer to levitate as if she had cast _ [levitate](spells/levitate#_levitate)_ on herself.
+These soft leather boots are incredibly light and comfortable, with thin soles reinforced by strips of tough hide that provide an unexpected amount of support and protection to the foot. On command, these boots allow the wearer to levitate as if she had cast _ [levitate](spell_dir/levitate#_levitate_ on herself.
 
 Construction Requirements
 
 **Cost** 3,750 gp
 
-Craft Wondrous Item, _ [levitate](spells/levitate#_levitate)_
+Craft Wondrous Item, _ [levitate](spell_dir/levitate#_levitate_
 
 Boots of Speed
 
 **Price** 12,000 gp; **Aura** moderate transmutation; **CL** 10th; **Weight** 1 lb.
 
-As a free action, the wearer of _boots of speed _can click her heels together, letting her act as though affected by a _ [haste](spells/haste#_haste) _spell for up to 10 rounds each day. The _ [haste](spells/haste#_haste)_ effect's duration need not be consecutive rounds.
+As a free action, the wearer of _boots of speed _can click her heels together, letting her act as though affected by a _ [haste](spell_dir/haste#_haste _spell for up to 10 rounds each day. The _ [haste](spell_dir/haste#_haste_ effect's duration need not be consecutive rounds.
 
 Construction Requirements
 
 **Cost** 6,000 gp
 
-Craft Wondrous Item, _ [haste](spells/haste#_haste)_
+Craft Wondrous Item, _ [haste](spell_dir/haste#_haste)_
 
 Boots of Striding and Springing
 
 **Price** 5,500 gp; **Aura** faint transmutation; **CL** 3rd; **Weight** 1 lb.
 
-These boots increase the wearer's base land speed by 10 feet. In addition to this striding ability (considered an enhancement bonus), these boots allow the wearer to make great leaps. She can jump with a +5 competence bonus on [Acrobatics](skills/acrobatics#_acrobatics) checks.
+These boots increase the wearer's base land speed by 10 feet. In addition to this striding ability (considered an enhancement bonus, these boots allow the wearer to make great leaps. She can jump with a +5 competence bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics checks.
 
 Construction Requirements
 
 **Cost** 2,750 gp
 
-Craft Wondrous Item, _ [longstrider](spells/longstrider#_longstrider)_, creator must have 5 ranks in the [Acrobatics](skills/acrobatics#_acrobatics) skill
+Craft Wondrous Item, _ [longstrider](spell_dir/longstrider#_longstrider_, creator must have 5 ranks in the [Acrobatics](skill_dir/acrobatics#_acrobatics skill
 
 Boots of Teleportation
 
 **Price** 49,000 gp; **Aura** moderate conjuration; **CL** 9th; **Weight** 3 lbs.
 
-When scrutinized closely, parts of these light gray boots appear to fade in and out of existence. Any character wearing this footwear may teleport three times per day, exactly as if she had cast the _ [teleport](spells/teleport#_teleport)_ spell.
+When scrutinized closely, parts of these light gray boots appear to fade in and out of existence. Any character wearing this footwear may teleport three times per day, exactly as if she had cast the _ [teleport](spell_dir/teleport#_teleport_ spell.
 
 Construction Requirements
 
 **Cost** 24,500 gp
 
-Craft Wondrous Item, _ [teleport](spells/teleport#_teleport)_
+Craft Wondrous Item, _ [teleport](spell_dir/teleport#_teleport)_
 
 Boots of the Cat
 
 **Price** 1,000 gp; **Aura** faint transmutation; **CL** 1st; **Weight** 1 lb.
 
-These high-soled blue boots provide a great deal of comfort and arch support while also making the wearer appear a little bit taller than normal. The boot's wearer always takes the minimum possible damage from falls (as if the GM had rolled a 1 on each die of damage incurred by the fall) and at the end of a fall always lands on his feet.
+These high-soled blue boots provide a great deal of comfort and arch support while also making the wearer appear a little bit taller than normal. The boot's wearer always takes the minimum possible damage from falls (as if the GM had rolled a 1 on each die of damage incurred by the fall and at the end of a fall always lands on his feet.
 
 Construction Requirements
 
 **Cost** 500 gp
 
-Craft Wondrous Item, _ [feather fall](spells/featherFall#_feather-fall)_
+Craft Wondrous Item, _ [feather fall](spell_dir/featherFall#_feather-fall)_
 
 Boots of the Enduring March
 
@@ -188,19 +188,19 @@ Construction Requirements
 
 **Cost** 750 gp
 
-Craft Wondrous Item, [Endurance](feats#_endurance)
+Craft Wondrous Item, [Endurance](feats#_endurance
 
 Boots of the Mastodon
 
 **Price** 10,500 gp; **Aura** moderate transmutation; **CL** 8th; **Weight** 2 lbs.
 
-These massive boots are made from mastodon hide. The boots are so large and cumbersome that their wearer takes a –2 penalty on [Stealth](skills/stealth#_stealth) checks, but gains a +2 enhancement bonus on overrun attempts and a +2 dodge bonus to AC while attempting an overrun combat maneuver. In addition, once per day the wearer can make a trample attack . Regardless of his actual size, the creature wearing the boots can trample creatures of size Large or smaller in his path. The trample attack deals 2d8+18 points of damage (Reflex DC 29 halves).
+These massive boots are made from mastodon hide. The boots are so large and cumbersome that their wearer takes a –2 penalty on [Stealth](skill_dir/stealth#_stealth) checks, but gains a +2 enhancement bonus on overrun attempts and a +2 dodge bonus to AC while attempting an overrun combat maneuver. In addition, once per day the wearer can make a trample attack . Regardless of his actual size, the creature wearing the boots can trample creatures of size Large or smaller in his path. The trample attack deals 2d8+18 points of damage (Reflex DC 29 halves.
 
 Construction Requirements
 
 **Cost** 5,250 gp
 
-Craft Wondrous Item, _ [beast shape III](spells/beastShape#_beast-shape-iii)_
+Craft Wondrous Item, _ [beast shape III](spell_dir/beastShape#_beast-shape-iii_
 
 Boots of the Mire
 
@@ -212,43 +212,43 @@ Construction Requirements
 
 **Cost** 1,750 gp
 
-Craft Wondrous Item, _ [endure elements](spells/endureElements#_endure-elements)_, _ [pass without trace](spells/passWithoutTrace#_pass-without-trace)_, _ [resistance](spells/resistance#_resistance)_, _ [water walk](spells/waterWalk#_water-walk)_
+Craft Wondrous Item, _ [endure elements](spell_dir/endureElements#_endure-elements_, _ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace_, _ [resistance](spell_dir/resistance#_resistance_, _ [water walk](spell_dir/waterWalk#_water-walk)_
 
 Boots of the Winterlands
 
 **Price** 2,500 gp; **Aura** faint abjuration and transmutation; **CL** 5th; **Weight** 1 lb.
 
-The wearer of these boots is able to travel across snow at her normal speed, leaving no tracks. Additionally, the boots enable her to travel at normal speed across the slipperiest ice (horizontal surfaces only, not vertical or sharply slanted ones) without falling or slipping. Finally, _boots of the winterlands_ warm the wearer, as if she were affected by an _ [endure elements](spells/endureElements#_endure-elements)_ spell.
+The wearer of these boots is able to travel across snow at her normal speed, leaving no tracks. Additionally, the boots enable her to travel at normal speed across the slipperiest ice (horizontal surfaces only, not vertical or sharply slanted ones without falling or slipping. Finally, _boots of the winterlands_ warm the wearer, as if she were affected by an _ [endure elements](spell_dir/endureElements#_endure-elements_ spell.
 
 Construction Requirements
 
 **Cost** 1,250 gp
 
-Craft Wondrous Item, _ [cat's grace](spells/catSGrace#_cat-s-grace)_, _ [endure elements](spells/endureElements#_endure-elements)_, _ [pass without trace](spells/passWithoutTrace#_pass-without-trace)_
+Craft Wondrous Item, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, _ [endure elements](spell_dir/endureElements#_endure-elements_, _ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace_
 
 Burglar Boots, Major
 
 **Price** 46,000 gp; **Aura** moderate divination; **CL** 10th; **Weight** 1/2 lb.
 
-These boots look and act as the _minor burglar boots_, but grant a +10 competence bonus on [Perception](skills/perception#_perception) checks and to AC and on Reflex saves. Also, once per day on command, these boots grant the wearer the ability to use _ [find traps](spells/findTraps#_find-traps)_ as the spell.
+These boots look and act as the _minor burglar boots_, but grant a +10 competence bonus on [Perception](skill_dir/perception#_perception checks and to AC and on Reflex saves. Also, once per day on command, these boots grant the wearer the ability to use _ [find traps](spell_dir/findTraps#_find-traps_ as the spell.
 
 Construction Requirements
 
 **Cost** 23,000 gp
 
-Craft Wondrous Item, _ [find traps](spells/findTraps#_find-traps)_, creator must have at least 12 ranks in [Perception](skills/perception#_perception)
+Craft Wondrous Item, _ [find traps](spell_dir/findTraps#_find-traps_, creator must have at least 12 ranks in [Perception](skill_dir/perception#_perception
 
 Burglar Boots, Minor
 
 **Price** 4,000 gp; **Aura** faint divination; **CL** 1st; **Weight** 1/2 lb.
 
-These form-fitting, calfskin boots are dyed black and lightly decorated with raven feathers. grant their wearer a +5 competence bonus on [Perception](skills/perception#_perception) checks to spot or locate traps and devices on the floor with 10 feet. This includes pits, pressure plates, and other mechanical and magical devices located on or attached to the floor. This bonus also applies to AC and on any Reflex saving throws against such traps.
+These form-fitting, calfskin boots are dyed black and lightly decorated with raven feathers. grant their wearer a +5 competence bonus on [Perception](skill_dir/perception#_perception checks to spot or locate traps and devices on the floor with 10 feet. This includes pits, pressure plates, and other mechanical and magical devices located on or attached to the floor. This bonus also applies to AC and on any Reflex saving throws against such traps.
 
 Construction Requirements
 
 **Cost** 2,000 gp
 
-Craft Wondrous Item, creator must have 4 ranks in [Perception](skills/perception#_perception)
+Craft Wondrous Item, creator must have 4 ranks in [Perception](skill_dir/perception#_perception
 
 Caltrop Boots
 
@@ -260,43 +260,43 @@ Construction Requirements
 
 **Cost** 5,000 gp
 
-Craft Wondrous Item, _ [spike growth](spells/spikeGrowth#_spike-growth)_
+Craft Wondrous Item, _ [spike growth](spell_dir/spikeGrowth#_spike-growth_
 
 Daredevil Boots
 
 **Price** 1,400 gp; **Aura** faint enchantment; **CL** 3rd; **Weight** 1 lb.
 
-This pair of magical boots shimmers in vibrant shades of blazing red and burning orange when they are held up to the light. These boots allow the wearer to gain extra maneuverability while moving through hazardous areas. As a free action, the wearer can click her heels together to grant herself a +5 competence bonus on [Acrobatics](skills/acrobatics#_acrobatics) checks made to move through threatened squares or to move through an enemy's space without provoking attacks of opportunity for up to 10 rounds per day. The rounds do not need to be consecutive. Furthermore, anytime the wearer of the boots successfully moves though the space of an enemy without provoking an attack of opportunity, she gains a +1 bonus on attack rolls against that enemy until the end of her turn.
+This pair of magical boots shimmers in vibrant shades of blazing red and burning orange when they are held up to the light. These boots allow the wearer to gain extra maneuverability while moving through hazardous areas. As a free action, the wearer can click her heels together to grant herself a +5 competence bonus on [Acrobatics](skill_dir/acrobatics#_acrobatics checks made to move through threatened squares or to move through an enemy's space without provoking attacks of opportunity for up to 10 rounds per day. The rounds do not need to be consecutive. Furthermore, anytime the wearer of the boots successfully moves though the space of an enemy without provoking an attack of opportunity, she gains a +1 bonus on attack rolls against that enemy until the end of her turn.
 
 Construction Requirements
 
 **Cost** 700 gp
 
-Craft Wondrous Item, _ [cat's grace](spells/catSGrace#_cat-s-grace)_
+Craft Wondrous Item, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_
 
 Dryad Sandals
 
 **Price** 24,000 gp; **Aura** moderate conjuration and transmutation; **CL** 9th; **Weight** 1 lb.
 
-These sandals are woven from grass, lengths of pliant vine, living leaves, and supple bark. In forest terrain, the wearer leaves no tracks or scent and gains a +2 competence bonus on [Stealth](skills/stealth#_stealth) checks. The wearer can move through natural undergrowth without impediment or harm as a druid using woodland stride , and once per day she may step inside a tree and remain there for up to 9 hours, or teleport to a similar tree within range, as _ [tree stride](spells/treeStride#_tree-stride) _but allowing only a single teleport.
+These sandals are woven from grass, lengths of pliant vine, living leaves, and supple bark. In forest terrain, the wearer leaves no tracks or scent and gains a +2 competence bonus on [Stealth](skill_dir/stealth#_stealth checks. The wearer can move through natural undergrowth without impediment or harm as a druid using woodland stride , and once per day she may step inside a tree and remain there for up to 9 hours, or teleport to a similar tree within range, as _ [tree stride](spell_dir/treeStride#_tree-stride _but allowing only a single teleport.
 
 Construction Requirements
 
 **Cost** 12,000 gp
 
-Craft Wondrous Item, _ [pass without trace](spells/passWithoutTrace#_pass-without-trace), [tree stride](spells/treeStride#_tree-stride)_, creator must be a druid
+Craft Wondrous Item, _ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace, [tree stride](spell_dir/treeStride#_tree-stride)_, creator must be a druid
 
 Earth Root Boots
 
 **Price** 8,000 gp; **Aura** faint transmutation; **CL** 3rd; **Weight** 2 lbs.
 
-The longer the wearer of these boots stays in one place—as long as that place is on solid ground—the harder it is to move her from that place. The wearer gains a cumulative +1 circumstance bonus to her CMD (maximum of +10) for each round she does not move from her space.
+The longer the wearer of these boots stays in one place—as long as that place is on solid ground—the harder it is to move her from that place. The wearer gains a cumulative +1 circumstance bonus to her CMD (maximum of +10 for each round she does not move from her space.
 
 Construction Requirements
 
 **Cost** 4,000 gp
 
-Craft Wondrous Item, _ [elemental body I](spells/elementalBody#_elemental-body-i)_
+Craft Wondrous Item, _ [elemental body I](spell_dir/elementalBody#_elemental-body-i_
 
 Feather Step Slippers
 
@@ -308,45 +308,45 @@ Construction Requirements
 
 **Cost** 1,000 gp
 
-Craft Wondrous Item, _ [feather step](advanced/spells/featherStep#_feather-step)_
+Craft Wondrous Item, _ [feather step](advanced/spell_dir/featherStep#_feather-step_
 
 Getaway Boots
 
 **Price** 30,000 gp; **Aura** moderate conjuration; **CL** 11th; **Weight** 1 lb.
 
-These rather nondescript boots can, once per day, be attuned to a location their wearer is standing upon. Once the boots are attuned to a location, once per day as a full-round action, the wearer, along with anything she is wearing or carrying, teleports back to the attuned location as the _ [getaway](advanced/spells/getaway#_getaway-)_ spell, except that no allies are teleported when the boots are activated even if they were in the area when the boots were attuned to their location. Once the boots are attuned to a location, they continue to be attuned to the same location until they are attuned to a new location.
+These rather nondescript boots can, once per day, be attuned to a location their wearer is standing upon. Once the boots are attuned to a location, once per day as a full-round action, the wearer, along with anything she is wearing or carrying, teleports back to the attuned location as the _ [getaway](advanced/spell_dir/getaway#_getaway-_ spell, except that no allies are teleported when the boots are activated even if they were in the area when the boots were attuned to their location. Once the boots are attuned to a location, they continue to be attuned to the same location until they are attuned to a new location.
 
 Construction Requirements
 
 **Cost** 15,000 gp
 
-Craft Wondrous Item, _ [getaway](advanced/spells/getaway#_getaway-)_
+Craft Wondrous Item, _ [getaway](advanced/spell_dir/getaway#_getaway-_
 
 Haunted Shoes
 
 **Price** 6,480 gp; **Aura** faint conjuration and illusion; **CL** 3rd; **Weight** 1 lb.
 
-Two times per day, the wearer of these shoes can call forth 1d4 spirit servants to aid her. The spirit servants are invisible, mindless, shapeless beings that act as servants summoned by the _ [unseen servant](spells/unseenServant#_unseen-servant)_ spell. The spirits return to the shoes after 3 hours have passed. The wearer can choose to dismiss one or more of the spirit servants early.
+Two times per day, the wearer of these shoes can call forth 1d4 spirit servants to aid her. The spirit servants are invisible, mindless, shapeless beings that act as servants summoned by the _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_ spell. The spirits return to the shoes after 3 hours have passed. The wearer can choose to dismiss one or more of the spirit servants early.
 
-Once per day, the wearer can command the ghostly spirits inside her _haunted shoes _to emerge and swirl around her, making her difficult to target in combat. The wearer gains concealment (20% miss chance) for 3 minutes. The spirits cannot be harmed, but a _ [true seeing](spells/trueSeeing#_true-seeing)_ spell ignores the concealment effect. The concealment effect cannot be activated while any of the spirits are currently being used as _unseen servants._
+Once per day, the wearer can command the ghostly spirits inside her _haunted shoes _to emerge and swirl around her, making her difficult to target in combat. The wearer gains concealment (20% miss chance for 3 minutes. The spirits cannot be harmed, but a _ [true seeing](spell_dir/trueSeeing#_true-seeing_ spell ignores the concealment effect. The concealment effect cannot be activated while any of the spirits are currently being used as _unseen servants._
 
 Construction Requirements
 
 **Cost** 3,240 gp
 
-Craft Wondrous Item, _ [blur](spells/blur#_blur)_, _ [unseen servant](spells/unseenServant#_unseen-servant)_
+Craft Wondrous Item, _ [blur](spell_dir/blur#_blur_, _ [unseen servant](spell_dir/unseenServant#_unseen-servant)_
 
 Horseshoes of a Zephyr
 
 **Price** 6,000 gp; **Aura** faint transmutation; **CL** 3rd; **Weight** 4 lbs.
 
-These shining, silvery horseshoes bear designs of swift-moving clouds and anthropomorphized images of the wind. When affixed to a horse, these horseshoes allow the horse to travel without actually touching the ground. The horse must still run above (always around 4 inches above) a roughly horizontal surface. This means that the horse can cross non-solid or unstable surfaces such as water, and that it can move without leaving tracks on any sort of ground. The horse moves at its normal base land speed. All four shoes must be worn by the same animal for the magic to be effective.
+These shining, silvery horseshoes bear designs of swift-moving clouds and anthropomorphized images of the wind. When affixed to a horse, these horseshoes allow the horse to travel without actually touching the ground. The horse must still run above (always around 4 inches above a roughly horizontal surface. This means that the horse can cross non-solid or unstable surfaces such as water, and that it can move without leaving tracks on any sort of ground. The horse moves at its normal base land speed. All four shoes must be worn by the same animal for the magic to be effective.
 
 Construction Requirements
 
 **Cost** 3,000 gp
 
-Craft Wondrous Item, _ [levitate](spells/levitate#_levitate)_
+Craft Wondrous Item, _ [levitate](spell_dir/levitate#_levitate)_
 
 Horseshoes of Crushing Blows
 
@@ -370,25 +370,25 @@ Horseshoes of Glory
 
 **Price** 39,600 gp; **Aura** moderate abjuration and transmutation; **CL** 11th; **Weight** 12 lbs.
 
-These massive horseshoes sport deadly spikes that jut from their front. Once per day on command, the rider of a mount wearing these shoes may choose to either increase the mount's size by one size increment (maximum Huge), or change its type to magical beast, as _ [beast shape IV](spells/beastShape#_beast-shape-iv)_. In addition, while the mount is augmented in either of these two ways, it gains DR/5 chaos, evil, good, or law (selected by the rider). These horseshoes are part of a set and require all four to be worn by the same animal to properly function.
+These massive horseshoes sport deadly spikes that jut from their front. Once per day on command, the rider of a mount wearing these shoes may choose to either increase the mount's size by one size increment (maximum Huge, or change its type to magical beast, as _ [beast shape IV](spell_dir/beastShape#_beast-shape-iv_. In addition, while the mount is augmented in either of these two ways, it gains DR/5 chaos, evil, good, or law (selected by the rider). These horseshoes are part of a set and require all four to be worn by the same animal to properly function.
 
 Construction Requirements
 
 **Cost** 19,800 gp
 
-Craft Wondrous Item, _beastshape IV_, _ [protection from chaos](spells/protectionFromChaos#_protection-from-chaos)/evil/good/law_
+Craft Wondrous Item, _beastshape IV_, _ [protection from chaos](spell_dir/protectionFromChaos#_protection-from-chaos/evil/good/law_
 
 Horseshoes of Mist
 
 **Price** 27,000 gp; **Aura** faint transmutation; **CL** 5th; **Weight** 12 lbs.
 
-When a horse is shod with these horseshoes, they give off a puff of mist each time a hoof strikes the earth. On the rider's command, the mount and the rider are both affected as if subject to a _ [gaseous form](spells/gaseousForm#_gaseous-form)_ spell. If for some reason the rider and the mount become separated from one another while in _ [gaseous form](spells/gaseousForm#_gaseous-form),_ the effect automatically ends for both. The horseshoes can be used for 10 minutes per day. The duration need not be consecutive, but it must be spent in 1-minute increments.
+When a horse is shod with these horseshoes, they give off a puff of mist each time a hoof strikes the earth. On the rider's command, the mount and the rider are both affected as if subject to a _ [gaseous form](spell_dir/gaseousForm#_gaseous-form_ spell. If for some reason the rider and the mount become separated from one another while in _ [gaseous form](spell_dir/gaseousForm#_gaseous-form,_ the effect automatically ends for both. The horseshoes can be used for 10 minutes per day. The duration need not be consecutive, but it must be spent in 1-minute increments.
 
 Construction Requirements
 
 **Cost** 13,500 gp
 
-Craft Wondrous Item, _ [gaseous form](spells/gaseousForm#_gaseous-form)_
+Craft Wondrous Item, _ [gaseous form](spell_dir/gaseousForm#_gaseous-form_
 
 Horseshoes of Speed
 
@@ -400,7 +400,7 @@ Construction Requirements
 
 **Cost** 1,500 gp
 
-Craft Wondrous Item, _ [haste](spells/haste#_haste)_
+Craft Wondrous Item, _ [haste](spell_dir/haste#_haste_
 
 Jaunt Boots
 
@@ -412,31 +412,31 @@ Construction Requirements
 
 **Cost** 3,600 gp
 
-Craft Wondrous Item, _ [jester's jaunt](advanced/spells/jesterSJaunt#_jester's-jaunt)_
+Craft Wondrous Item, _ [jester's jaunt](advanced/spell_dir/jesterSJaunt#_jester's-jaunt)_
 
 Nightmare Boots
 
 **Price** 8,500 gp; **Aura** moderate evocation and transmutation; **CL** 6th; **Weight** 3 lbs.
 
-Prized by evil warriors, these boots are made of inky black leather trimmed with a crimson mane of fiendish horsehair. Some bear the hair of actual nightmares along their rims, causing them to occasionally flare and crackle with flames reminiscent of the foul equines. When the wearer runs or charges, smoke issues up from the boots, acting as concealment (20% miss chance) when the wearer provokes attacks of opportunity while making those actions. Secondly, three times per day, as a swift action, the wearer can make the boots smoke, which grants her concealment until the end of her turn. Lastly, once per day, when the wearer hits a creature with a melee attack, she can command the boots to ignite. When the boots ignite, all creatures within a 5-foot radius take 2d6 points of fire damage. A DC 13 Reflex saving throw halves the damage.
+Prized by evil warriors, these boots are made of inky black leather trimmed with a crimson mane of fiendish horsehair. Some bear the hair of actual nightmares along their rims, causing them to occasionally flare and crackle with flames reminiscent of the foul equines. When the wearer runs or charges, smoke issues up from the boots, acting as concealment (20% miss chance when the wearer provokes attacks of opportunity while making those actions. Secondly, three times per day, as a swift action, the wearer can make the boots smoke, which grants her concealment until the end of her turn. Lastly, once per day, when the wearer hits a creature with a melee attack, she can command the boots to ignite. When the boots ignite, all creatures within a 5-foot radius take 2d6 points of fire damage. A DC 13 Reflex saving throw halves the damage.
 
 Construction Requirements
 
 **Cost** 3,750 gp
 
-Craft Wondrous Item, _ [burning hands](spells/burningHands#_burning-hands)_, _ [pyrotechnics](spells/pyrotechnics#_pyrotechnics)_
+Craft Wondrous Item, _ [burning hands](spell_dir/burningHands#_burning-hands_, _ [pyrotechnics](spell_dir/pyrotechnics#_pyrotechnics)_
 
 Nightmare Horseshoes
 
 **Price** 9,000 gp; **Aura** moderate conjuration and transmutation; **CL** 7th; **Weight** 12 lbs.
 
-These horseshoes are made of blackened steel and are typically stamped with infernal symbols or, less subtly, horrific images of terrified and tortured steeds of the darkest hues. They typically give off a slight smell of brimstone, as though they had been crafted in some hellish forge. Once per day on command, the mount's rider may grant it the smoke supernatural ability for a period of 1 minute. The horseshoes can be used for 10 rounds per day, split up as the mount's rider chooses (minimum 1 round per use). While this power is activated, the mount's eyes, hooves, mane, and tail burst into flame, and its hooves deal an extra 1d4 points of fire damage.
+These horseshoes are made of blackened steel and are typically stamped with infernal symbols or, less subtly, horrific images of terrified and tortured steeds of the darkest hues. They typically give off a slight smell of brimstone, as though they had been crafted in some hellish forge. Once per day on command, the mount's rider may grant it the smoke supernatural ability for a period of 1 minute. The horseshoes can be used for 10 rounds per day, split up as the mount's rider chooses (minimum 1 round per use. While this power is activated, the mount's eyes, hooves, mane, and tail burst into flame, and its hooves deal an extra 1d4 points of fire damage.
 
 Construction Requirements
 
 **Cost** 4,500 gp
 
-Craft Wondrous Item, _ [burning hands](spells/burningHands#_burning-hands)_, _ [obscuring mist](spells/obscuringMist#_obscuring-mist)_, _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_
+Craft Wondrous Item, _ [burning hands](spell_dir/burningHands#_burning-hands_, _ [obscuring mist](spell_dir/obscuringMist#_obscuring-mist_, _ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud_
 
 Sandals of Quick Reaction
 
@@ -448,55 +448,55 @@ Construction Requirements
 
 **Cost** 2,000 gp
 
-Craft Wondrous Item, _ [anticipate peril](ultimateMagic/spells/anticipatePeril#_anticipate-peril)_, _ [haste](spells/haste#_haste)_
+Craft Wondrous Item, _ [anticipate peril](ultimateMagic/spell_dir/anticipatePeril#_anticipate-peril_, _ [haste](spell_dir/haste#_haste_
 
 Sandals of the Lightest Step
 
 **Price** 5,000 gp; **Aura** moderate transmutation; **CL** 7th; **Weight** 1/2 lb.
 
-These soft leather sandals have soles that consist of a layer of purple velvet decorated with intricate gold stitching. When slipped onto the feet, they feel as weightless as air. In any round when the wearer has already moved at least 10 feet along the ground or another surface (not counting travel on a mount or vehicle), these boots can be activated as a swift action to give the wearer the ability to walk on air (as the _ [air walk](spells/airWalk#_air-walk)_ spell) until the end of the round. If the wearer hasn't reached a solid surface by the end of the round, she immediately falls back to the ground, taking any applicable falling damage. These sandals can be used up to 5 times per day, but no more often than once per minute.
+These soft leather sandals have soles that consist of a layer of purple velvet decorated with intricate gold stitching. When slipped onto the feet, they feel as weightless as air. In any round when the wearer has already moved at least 10 feet along the ground or another surface (not counting travel on a mount or vehicle), these boots can be activated as a swift action to give the wearer the ability to walk on air (as the _ [air walk](spell_dir/airWalk#_air-walk)_ spell until the end of the round. If the wearer hasn't reached a solid surface by the end of the round, she immediately falls back to the ground, taking any applicable falling damage. These sandals can be used up to 5 times per day, but no more often than once per minute.
 
 Construction Requirements
 
 **Cost** 2,500 gp
 
-Craft Wondrous Item, _ [air walk](spells/airWalk#_air-walk)_
+Craft Wondrous Item, _ [air walk](spell_dir/airWalk#_air-walk_
 
 Shoes of Lightning Leaping
 
 **Price** 10,500 gp; **Aura** moderate transmutation; **CL** 6th; **Weight** 1 lb.
 
-These short black shoes fit tightly around the wearer's feet and bear designs of leaping arcs of lightning and wild winds. Once per day on command, a creature wearing these boots can transform into lightning and move up to 50 feet in a straight line, re-materializing at the far end of the lightning bolt. Creatures in the path of the lightning take 6d6 points of electricity damage and objects take damage as per the _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_ spell. If the lightning strikes an object or barrier and fails to burst through it, the creature wearing the boots appears next to the impacted object and is staggered for 1 round. Movement while in lightning form does not provoke attacks of opportunity.
+These short black shoes fit tightly around the wearer's feet and bear designs of leaping arcs of lightning and wild winds. Once per day on command, a creature wearing these boots can transform into lightning and move up to 50 feet in a straight line, re-materializing at the far end of the lightning bolt. Creatures in the path of the lightning take 6d6 points of electricity damage and objects take damage as per the _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_ spell. If the lightning strikes an object or barrier and fails to burst through it, the creature wearing the boots appears next to the impacted object and is staggered for 1 round. Movement while in lightning form does not provoke attacks of opportunity.
 
 Construction Requirements
 
 **Cost** 5,250 gp
 
-Craft Wondrous Item, _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_
+Craft Wondrous Item, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_
 
 Shoes of the Firewalker
 
 **Price** 21,000 gp; **Aura** moderate evocation; **CL** 6th; **Weight** 1 lb.
 
-These low-cut shoes of polished red leather feature golden eyelets and stitching in a fiery pattern. They grant the wearer fire resistance 10 and allow the wearer to walk atop lava and magma as if subject to the _ [water walk](spells/waterWalk#_water-walk)_ spell.
+These low-cut shoes of polished red leather feature golden eyelets and stitching in a fiery pattern. They grant the wearer fire resistance 10 and allow the wearer to walk atop lava and magma as if subject to the _ [water walk](spell_dir/waterWalk#_water-walk_ spell.
 
 Construction Requirements
 
 **Cost** 10,500 gp
 
-Craft Wondrous Item, _ [resist energy](spells/resistEnergy#_resist-energy), [water walk](spells/waterWalk#_water-walk)_
+Craft Wondrous Item, _ [resist energy](spell_dir/resistEnergy#_resist-energy, [water walk](spell_dir/waterWalk#_water-walk_
 
 Slippers of Cloudwalking
 
 **Price** 4,400 gp; **Aura** moderate transmutation; **CL** 11th; **Weight** 1 lb.
 
-The wearer of these slippers may walk on air (as the spell _ [air walk](spells/airWalk#_air-walk)) _for up to 10 minutes per day, which may be used in 1-minute increments and requires no action to activate. However, she may only walk on air within or on top of natural or magical mist or fog, including fog-like gases such as those created by _ [acid fog](spells/acidFog#_acid-fog), [cloudkill](spells/cloudkill#_cloudkill), [incendiary cloud](spells/incendiaryCloud#_incendiary-cloud)_, or _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_. Walking on top of such clouds carries no danger for the wearer, but walking through the cloud has its normal effect.
+The wearer of these slippers may walk on air (as the spell _ [air walk](spell_dir/airWalk#_air-walk) _for up to 10 minutes per day, which may be used in 1-minute increments and requires no action to activate. However, she may only walk on air within or on top of natural or magical mist or fog, including fog-like gases such as those created by _ [acid fog](spell_dir/acidFog#_acid-fog, [cloudkill](spell_dir/cloudkill#_cloudkill, [incendiary cloud](spell_dir/incendiaryCloud#_incendiary-cloud_, or _ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud_. Walking on top of such clouds carries no danger for the wearer, but walking through the cloud has its normal effect.
 
 Construction Requirements
 
 **Cost** 2,200 gp
 
-Craft Wondrous Item, _ [wind walk](spells/windWalk#_wind-walk)_
+Craft Wondrous Item, _ [wind walk](spell_dir/windWalk#_wind-walk_
 
 Slippers of Spider Climbing
 
@@ -508,7 +508,7 @@ Construction Requirements
 
 **Cost** 2,400 gp
 
-Craft Wondrous Item, _ [spider climb](spells/spiderClimb#_spider-climb)_
+Craft Wondrous Item, _ [spider climb](spell_dir/spiderClimb#_spider-climb_
 
 Slippers of the Triton
 
@@ -520,7 +520,7 @@ Construction Requirements
 
 **Cost** 28,000 gp
 
-Craft Wondrous Item, _ [ride the waves](ultimateMagic/spells/rideTheWaves#_ride-the-waves)_
+Craft Wondrous Item, _ [ride the waves](ultimateMagic/spell_dir/rideTheWaves#_ride-the-waves_
 
 Tremor Boots
 
@@ -532,7 +532,7 @@ Construction Requirements
 
 **Cost** 5,000 gp
 
-Craft Wondrous Item, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_
+Craft Wondrous Item, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_
 
 Verdant Boots
 
@@ -544,17 +544,17 @@ Construction Requirements
 
 **Cost** 6,000 gp
 
-Craft Wondrous Item, _ [plant growth](spells/plantGrowth#_plant-growth)_
+Craft Wondrous Item, _ [plant growth](spell_dir/plantGrowth#_plant-growth_
 
 Winged boots
 
 **Price** 16,000 gp; **Aura** moderate transmutation; **CL** 8th; **Weight** 1 lb.
 
-These boots appear to be ordinary footgear. On command, they sprout wings at the heel and let the wearer fly, without having to maintain concentration, as if affected by a _ [fly](spells/fly)_ spell (including a +4 bonus on [Fly](skills/fly#_fly) skill checks). The wearer can fly three times per day for up to 5 minutes per flight.
+These boots appear to be ordinary footgear. On command, they sprout wings at the heel and let the wearer fly, without having to maintain concentration, as if affected by a _ [fly](spell_dir/fly_ spell (including a +4 bonus on [Fly](skill_dir/fly#_fly) skill checks. The wearer can fly three times per day for up to 5 minutes per flight.
 
 Construction Requirements
 
 **Cost** 8,000 gp
 
-Craft Wondrous Item, _ [fly](spells/fly)_
+Craft Wondrous Item, _ [fly](spell_dir/fly_
 

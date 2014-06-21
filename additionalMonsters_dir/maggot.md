@@ -9,19 +9,19 @@ Giant MaggotCR 1/2
 
 **XP 200**
 
-N Medium [vermin](monsters/creatureTypes#_vermin)
+N Medium [vermin](monster_dir/creatureTypes#_vermin
 
-**Init** –1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) –3
+**Init** –1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) –3
 
 Defense
 
 **AC** 9, touch 9, flat-footed 9 (–1 Dex)
 
-**hp** 7 (1d8+3)
+**hp** 7 (1d8+3
 
 **Fort** +5, **Ref** –1, **Will** –3
 
-**Immune** [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), mind-affecting effects
+**Immune** [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su)), mind-affecting effects
 
 Offense
 
@@ -49,5 +49,5 @@ Special Abilities
 
 **Regurgitate (Ex)** Once per day, a giant maggot can empty its putrid stomach upon one creature within 5 feet. The target must make a DC 13 Fortitude save or be sickened for 1 minute (or until the target spends a full-round action with at least a gallon of water to wash off the filth). The save DC is Constitution-based.
 
-Voracious scavengers, giant maggots feed constantly, gorging themselves on the dead in preparation for their transformation into giant flies. Their pallid, corpulent bodies are the size of human children, and their rasping teeth are capable of eating even the bones of a corpse. Giant maggots have no legs, and move with a disturbing undulation as they crawl over their meals. Giant maggots feed for 2 weeks (often moving from one corpse to another) before entering a pupal stage, after which they emerge as giant flies.
+Voracious scavengers, giant maggots feed constantly, gorging themselves on the dead in preparation for their transformation into giant flies. Their pallid, corpulent bodies are the size of human children, and their rasping teeth are capable of eating even the bones of a corpse. Giant maggots have no legs, and move with a disturbing undulation as they crawl over their meals. Giant maggots feed for 2 weeks (often moving from one corpse to another before entering a pupal stage, after which they emerge as giant flies.
 

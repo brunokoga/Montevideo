@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/castigate
+title: advanced/spell_dir/castigate
 ---
  **Castigate**
 
-**School** enchantment (compulsion) [fear, language-dependent, mind-affecting]; **Level** inquisitor 2
+**School** enchantment (compulsion [fear, language-dependent, mind-affecting]; **Level** inquisitor 2
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: advanced/spells/castigate
 
 **Target** one living creature
 
-**Duration** 1 round/level or 1 round; see text
+**Duration** 1 roun_dir/level or 1 round; see text
 
 **Saving Throw** Will partial; **Spell Resistance** yes
 
@@ -21,7 +21,7 @@ You compel the target to beg for forgiveness. On a failed save, the target cower
 
 **Castigate, Mass**
 
-**School** enchantment (compulsion) [fear, language-dependent, mind-affecting]; **Level** inquisitor 5
+**School** enchantment (compulsion [fear, language-dependent, mind-affecting]; **Level** inquisitor 5
 
 **Range** medium (100 ft. + 10 ft./level)
 

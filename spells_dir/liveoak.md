@@ -13,7 +13,7 @@ title: spells/liveoak
 
 **Target** tree touched
 
-**Duration** 1 day/level (D)
+**Duration** 1 da_dir/level (D
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

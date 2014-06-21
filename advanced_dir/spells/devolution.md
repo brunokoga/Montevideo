@@ -3,11 +3,11 @@ title: advanced/spells/devolution
 ---
  **Devolution**
 
-**School** transmutation; **Level** sorcerer/wizard 3, summoner 3
+**School** transmutation; **Level** sorcere_dir/wizard 3, summoner 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a chameleon scale)
+**Components** V, S, M (a chameleon scale
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

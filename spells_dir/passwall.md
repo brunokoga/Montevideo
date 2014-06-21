@@ -3,17 +3,17 @@ title: spells/passwall
 ---
  **Passwall**
 
-**School** transmutation; **Level** sorcerer/wizard 5
+**School** transmutation; **Level** sorcere_dir/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (sesame seeds)
+**Components** V, S, M (sesame seeds
 
 **Range** touch
 
 **Effect** 5-ft.-by-8-ft. opening, 10 ft. deep plus 5 ft. deep per three additional levels
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hou_dir/level (D
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

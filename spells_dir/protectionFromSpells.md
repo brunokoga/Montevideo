@@ -3,11 +3,11 @@ title: spells/protectionFromSpells
 ---
  **Protection from Spells**
 
-**School** abjuration; **Level** sorcerer/wizard 8
+**School** abjuration; **Level** sorcere_dir/wizard 8
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (diamond worth 500 gp), F (One 1,000 gp diamond per target. Each subject must carry the gem for the duration of the spell. If a subject loses the gem, the spell ceases to affect him.)
+**Components** V, S, M (diamond worth 500 gp), F (One 1,000 gp diamond per target. Each subject must carry the gem for the duration of the spell. If a subject loses the gem, the spell ceases to affect him.
 
 **Range** touch
 

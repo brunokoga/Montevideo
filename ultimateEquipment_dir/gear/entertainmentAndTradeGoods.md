@@ -1,5 +1,5 @@
 ---
-title: ultimateEquipment/gear/entertainmentAndTradeGoods
+title: ultimateEquipment/gea_dir/entertainmentAndTradeGoods
 ---
 # Entertainment
 
@@ -10,7 +10,7 @@ Many adventurers like to sit down and play a game now and then to pass the time�
 | --- | --- | --- |
 | Ball (2 in.) | 8 cp | — |
 | Ball (5 in.) | 2 sp | — |
-| Ball (10 in.) | 6 gp | 1 lb. |
+| Ball (10 in. | 6 gp | 1 lb. |
 | Billiards gear | 5 sp | 8 lbs. |
 | Board game | 1 sp–10 gp | 2 lbs. |
 | Bowling set | 5 sp–10 gp | 15 lbs. |
@@ -106,13 +106,13 @@ Loaded Dice
 
 **Price** 10 GP–50 GP; **Weight** —
 
-Most loaded dice are weighted, with a heavier substance included opposite the desired number. You can spot this tampering with a DC 15 [Appraise](skills/appraise#_appraise) or [Perception](skills/perception#_perception) check. Superior dice (such as wooden dice carved around a naturally heavy point) have DCs ranging from 20 to 30.
+Most loaded dice are weighted, with a heavier substance included opposite the desired number. You can spot this tampering with a DC 15 [Appraise](skill_dir/appraise#_appraise or [Perception](skill_dir/perception#_perception) check. Superior dice (such as wooden dice carved around a naturally heavy point have DCs ranging from 20 to 30.
 
 Marked Cards
 
 **Price** 1 GP; **Weight** 1 lb.
 
-Whether bent, colored, or scratched, marked cards allow an informed user to know what's on the front of the card by viewing the mark on the back. Realizing that the cards are marked requires a DC 25 [Perception](skills/perception#_perception) check or DC 20 [Profession](skills/profession#_profession) (gambler) check. The listed price is for a common paper deck.
+Whether bent, colored, or scratched, marked cards allow an informed user to know what's on the front of the card by viewing the mark on the back. Realizing that the cards are marked requires a DC 25 [Perception](skill_dir/perception#_perception check or DC 20 [Profession](skill_dir/profession#_profession) (gambler check. The listed price is for a common paper deck.
 
 Polo Gear
 
@@ -124,7 +124,7 @@ Puzzle Box
 
 **Price** 1 gp–1,000 gp; **Weight** 1 lb.–5 lbs.
 
-This box features moving parts, secret panels, or unusual codes and locking mechanisms. Depending on the box, a [Disable Device](skills/disableDevice#_disable-device), [Knowledge](skills/knowledge#_knowledge) (engineering), [Linguistics](skills/linguistics#_linguistics), or simple Intelligence check might open it. The DC of the check varies with the complexity of the box, but is typically 15 or 20 (retry once per day). Multiple skill checks might be necessary for different stages of the puzzle. If the puzzle box was constructed with the intention that one specific person should be able to open it, that person gets a +5 circumstance bonus on the check.
+This box features moving parts, secret panels, or unusual codes and locking mechanisms. Depending on the box, a [Disable Device](skill_dir/disableDevice#_disable-device, [Knowledge](skill_dir/knowledge#_knowledge) (engineering, [Linguistics](skill_dir/linguistics#_linguistics), or simple Intelligence check might open it. The DC of the check varies with the complexity of the box, but is typically 15 or 20 (retry once per day. Multiple skill checks might be necessary for different stages of the puzzle. If the puzzle box was constructed with the intention that one specific person should be able to open it, that person gets a +5 circumstance bonus on the check.
 
 Rounders Gear
 

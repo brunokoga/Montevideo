@@ -1,13 +1,13 @@
 ---
-title: ultimateMagic/spells/maliciousSpite
+title: ultimateMagic/spell_dir/maliciousSpite
 ---
 Malicious Spite
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, sorcerer/wizard 4
+**School** enchantment (compulsion [emotion, mind-affecting]; **Level** bard 3, sorcere_dir/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (powdered turquoise worth 150 gp)
+**Components** V, S, M (powdered turquoise worth 150 gp
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

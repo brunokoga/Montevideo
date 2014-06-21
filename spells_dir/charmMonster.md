@@ -1,19 +1,19 @@
 ---
-title: spells/charmMonster
+title: spell_dir/charmMonster
 ---
  **Charm Monster**
 
-**School** enchantment (charm) [mind-affecting]; **Level** bard 3, sorcerer/wizard 4
+**School** enchantment (charm [mind-affecting]; **Level** bard 3, sorcerer/wizard 4
 
 **Target** one living creature
 
-**Duration** 1 day/level
+**Duration** 1 da_dir/level
 
 This spell functions like _charm person_, except that the effect is not restricted by creature type or size.
 
 **Charm Monster, Mass**
 
-**School** enchantment (charm) [mind-affecting]; **Level** bard 6, sorcerer/wizard 8
+**School** enchantment (charm [mind-affecting]; **Level** bard 6, sorcerer/wizard 8
 
 **Components** V
 

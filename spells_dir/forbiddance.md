@@ -1,5 +1,5 @@
 ---
-title: spells/forbiddance
+title: spell_dir/forbiddance
 ---
  **Forbiddance**
 
@@ -7,11 +7,11 @@ title: spells/forbiddance
 
 **Casting Time** 6 rounds
 
-**Components** V, S, M (holy water and incense worth 1,500 gp, plus 1,500 gp per 60-foot cube), DF
+**Components** V, S, M (holy water and incense worth 1,500 gp, plus 1,500 gp per 60-foot cube, DF
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Area** 60-ft. cube/level (S)
+**Area** 60-ft. cub_dir/level (S
 
 **Duration** permanent
 

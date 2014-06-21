@@ -1,5 +1,5 @@
 ---
-title: spells/divineFavor
+title: spell_dir/divineFavor
 ---
  **Divine Favor**
 
@@ -15,5 +15,5 @@ title: spells/divineFavor
 
 **Duration** 1 minute
 
-Calling upon the strength and wisdom of a deity, you gain a +1 luck bonus on attack and weapon damage rolls for every three caster levels you have (at least +1, maximum +3). The bonus doesn't apply to spell damage.
+Calling upon the strength and wisdom of a deity, you gain a +1 luck bonus on attack and weapon damage rolls for every three caster levels you have (at least +1, maximum +3. The bonus doesn't apply to spell damage.
 

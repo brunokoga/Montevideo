@@ -1,5 +1,5 @@
 ---
-title: monsters/drider
+title: monster_dir/drider
 ---
 # Drider
 
@@ -9,15 +9,15 @@ _The dry rasping of spidery legs brings this hideous monstrosity into view—a n
 
 **XP 3,200**
 
-CE Large [aberration](creatureTypes#_aberration)
+CE Large [aberration](creatureTypes#_aberration
 
-**Init** +2; **Senses** darkvision 120 ft., _ [detect good](../spells/detectGood#_detect-good), [detect law](../spells/detectLaw#_detect-law), [detect magic](../spells/detectMagic#_detect-magic)_; [Perception](../skills/perception#_perception) +15
+**Init** +2; **Senses** darkvision 120 ft., _ [detect good](../spell_dir/detectGood#_detect-good, [detect law](../spell_dir/detectLaw#_detect-law, [detect magic](../spell_dir/detectMagic#_detect-magic_; [Perception](../skill_dir/perception#_perception) +15
 
 **Defense**
 
 **AC** 20, touch 12, flat-footed 17; (+2 Dex, +1 dodge, +8 natural, –1 size)
 
-**hp** 76 (9d8+36)
+**hp** 76 (9d8+36
 
 **Fort** +7, **Ref** +5, **Will** +9
 
@@ -37,31 +37,31 @@ CE Large [aberration](creatureTypes#_aberration)
 
 **Spell-Like Abilities** (CL 9th)
 
-Constant—_ [detect good](../spells/detectGood#_detect-good), [detect law](../spells/detectLaw#_detect-law), [detect magic](../spells/detectMagic#_detect-magic)_
+Constant—_ [detect good](../spell_dir/detectGood#_detect-good, [detect law](../spell_dir/detectLaw#_detect-law, [detect magic](../spell_dir/detectMagic#_detect-magic_
 
-At will—_ [dancing lights](../spells/dancingLights#_dancing-lights), [darkness](../spells/darkness#_darkness), [faerie fire](../spells/faerieFire#_faerie-fire)_
+At will—_ [dancing lights](../spell_dir/dancingLights#_dancing-lights, [darkness](../spell_dir/darkness#_darkness, [faerie fire](../spell_dir/faerieFire#_faerie-fire_
 
-1/day—_ [clairaudience/clairvoyance](../spells/clairaudienceClairvoyance#_clairaudience-clairvoyance), [deeper darkness](../spells/deeperDarkness#_deeper-darkness), [dispel magic](../spells/dispelMagic#_dispel-magic), [levitate](../spells/levitate#_levitate), [suggestion](../spells/suggestion#_suggestion)_ (DC 16)
+1/day—_ [clairaudience/clairvoyance](../spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance, [deeper darkness](../spell_dir/deeperDarkness#_deeper-darkness, [dispel magic](../spell_dir/dispelMagic#_dispel-magic, [levitate](../spell_dir/levitate#_levitate, [suggestion](../spell_dir/suggestion#_suggestion)_ (DC 16)
 
-**Spells Known** (CL 6th)
+**Spells Known** (CL 6th
 
-3rd (4/day)—_ [lightning bolt](../spells/lightningBolt#_lightning-bolt) _(DC 16)
+3rd (4/day)—_ [lightning bolt](../spell_dir/lightningBolt#_lightning-bolt) _(DC 16
 
-2nd (6/day)—_ [invisibility](../spells/invisibility#_invisibility), [web](../spells/web#_web) _(DC 15)
+2nd (6/day)—_ [invisibility](../spell_dir/invisibility#_invisibility, [web](../spell_dir/web#_web) _(DC 15
 
-1st (7/day)—_ [mage armor](../spells/mageArmor#_mage-armor), [magic missile](../spells/magicMissile#_magic-missile), [ray of enfeeblement](../spells/rayOfEnfeeblement#_ray-of-enfeeblement) _(DC 14)_, [silent image](../spells/silentImage#_silent-image) _(DC 14)
+1st (7/day)—_ [mage armor](../spell_dir/mageArmor#_mage-armor, [magic missile](../spell_dir/magicMissile#_magic-missile, [ray of enfeeblement](../spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement) _(DC 14_, [silent image](../spell_dir/silentImage#_silent-image) _(DC 14)
 
-0 (at will)—_ [bleed](../spells/bleed#_bleed) _(DC 13), _ [daze](../spells/daze#_daze) _(DC 13)_, [ghost sound](../spells/ghostSound#_ghost-sound), [mage hand](../spells/mageHand#_mage-hand), [ray of frost](../spells/rayOfFrost#_ray-of-frost), [read magic](../spells/readMagic#_read-magic), [resistance](../spells/resistance#_resistance)_
+0 (at will—_ [bleed](../spell_dir/bleed#_bleed) _(DC 13, _ [daze](../spell_dir/daze#_daze) _(DC 13_, [ghost sound](../spell_dir/ghostSound#_ghost-sound, [mage hand](../spell_dir/mageHand#_mage-hand, [ray of frost](../spell_dir/rayOfFrost#_ray-of-frost, [read magic](../spell_dir/readMagic#_read-magic, [resistance](../spell_dir/resistance#_resistance)_
 
 **Statistics**
 
 **Str** 15, **Dex** 15, **Con** 18, **Int** 15, **Wis** 16, **Cha** 16
 
-**Base**  **Atk** +6; **CMB** +9; **CMD** 21 (33 vs. trip)
+**Base**  **Atk** +6; **CMB** +9; **CMD** 21 (33 vs. trip
 
 **Feats** [Blind-Fight](../feats#_blind-fight), [Dodge](../feats#_dodge), [Combat Casting](../feats#_combat-casting), [Weapon Focus](../feats#_weapon-focus) (bite, mace)
 
-**Skills** [Climb](../skills/climb#_climb) +22, [Intimidate](../skills/intimidate#_intimidate) +15, [Knowledge](../skills/knowledge#_knowledge) (arcana) +14, [Perception](../skills/perception#_perception) +15, [Spellcraft](../skills/spellcraft#_spellcraft) +14, [Stealth](../skills/stealth#_stealth) +14; **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth)
+**Skills** [Climb](../skill_dir/climb#_climb +22, [Intimidate](../skill_dir/intimidate#_intimidate +15, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana +14, [Perception](../skill_dir/perception#_perception +15, [Spellcraft](../skill_dir/spellcraft#_spellcraft +14, [Stealth](../skill_dir/stealth#_stealth +14; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Languages** Common, Elven, Undercommon
 
@@ -77,7 +77,7 @@ At will—_ [dancing lights](../spells/dancingLights#_dancing-lights), [darkness
 
 **Special Abilities**
 
-**Poison (Ex)** Bite—injury; _save _Fort DC 18; _frequency _1/round for 6 rounds; _effect_ 1d2 Str; _cure _1 save. The save DC is Constitution-based.
+**Poison (Ex** Bite—injury; _save _Fort DC 18; _frequency _1/round for 6 rounds; _effect_ 1d2 Str; _cure _1 save. The save DC is Constitution-based.
 
 **Spells** A drider casts spells as a 6th-level cleric, sorcerer, or wizard, but does not gain any other class abilities.
 

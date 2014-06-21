@@ -9,9 +9,9 @@ Allip CR 3
 
 XP 800
 
-CE Medium undead ( [incorporeal](monsters/creatureTypes#_incorporeal-subtype))
+CE Medium undead ( [incorporeal](monster_dir/creatureTypes#_incorporeal-subtype)
 
-**Init** +5; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +7
+**Init** +5; **Senses** darkvision 60 ft.; [Perception](skill_dir/perception#_perception) +7
 
 **Aura** babble (60 ft., DC 15)
 
@@ -19,17 +19,17 @@ Defense
 
 **AC** 14, touch 14, flat-footed 13 (+3 deflection, +1 Dex)
 
-**hp** 30 (4d8+12)
+**hp** 30 (4d8+12
 
 **Fort** +4, **Ref** +4, **Will** +4
 
-**Defensive Abilities** channel [resistance](monsters/universalMonsterRules#_resistance) +2, [incorporeal](monsters/creatureTypes#_incorporeal-subtype); **Immune** undead traits
+**Defensive Abilities** channel [resistance](monster_dir/universalMonsterRules#_resistance +2, [incorporeal](monster_dir/creatureTypes#_incorporeal-subtype); **Immune** undead traits
 
 Offense
 
-**Speed** fly 30 ft. (perfect)
+**Speed** fly 30 ft. (perfect
 
-**Melee** [incorporeal](monsters/creatureTypes#_incorporeal-subtype) touch +4 (1d4 Wisdom damage)
+**Melee** [incorporeal](monster_dir/creatureTypes#_incorporeal-subtype) touch +4 (1d4 Wisdom damage)
 
 **Special Attacks** babble, touch of insanity
 
@@ -39,9 +39,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +4; **CMD** 17
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes)
+**Feats** [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes
 
-**Skills** [Fly](skills/fly#_fly) +16, [Intimidate](skills/intimidate#_intimidate) +10, [Perception](skills/perception#_perception) +7, [Stealth](skills/stealth#_stealth) +8
+**Skills** [Fly](skill_dir/fly#_fly +16, [Intimidate](skill_dir/intimidate#_intimidate +10, [Perception](skill_dir/perception#_perception +7, [Stealth](skill_dir/stealth#_stealth) +8
 
 **Languages** Aklo, Common
 
@@ -65,7 +65,7 @@ Special Abilities
 
 Those who fall prey to madness and take their own lives sometimes find themselves lost on the path to the afterlife, trapped in a state between life and death. These unfortunates, known as allips, suffer from the violent and incurable insanity they faced in life and take out their terror, confusion, and rage upon the living. They reach out to those they encounter—possibly in wrath, but also perhaps oblivious to their own insane nature—spreading the psychoses that led to their own untimely deaths.
 
-In combat, allips relentlessly attack the nearest living creature, relying on their babble to let them close in before attacking with their touch of insanity. Many seem to be driven to states of ferocity upon witnessing the terror living creatures exhibit when facing their spectral forms, or when faced with the intangibility of their incorporeal states. While allips have no way to kill creatures, those knocked unconscious by an allip's Wisdom-draining touch often emerge from the state suffering from insanity (see pages 250–251 of the _GameMastery Guide_)—a fate that many would say qualifies as worse than death.
+In combat, allips relentlessly attack the nearest living creature, relying on their babble to let them close in before attacking with their touch of insanity. Many seem to be driven to states of ferocity upon witnessing the terror living creatures exhibit when facing their spectral forms, or when faced with the intangibility of their incorporeal states. While allips have no way to kill creatures, those knocked unconscious by an allip's Wisdom-draining touch often emerge from the state suffering from insanity (see pages 250–251 of the _GameMastery Guide_—a fate that many would say qualifies as worse than death.
 
 Allips often seek to harm those who played a part in causing their mad, unholy condition. When faced with such foes, an allip ignores all other targets that confront it in favor of its hated enemies, attacking them until its tormentors have been forced into a vacant stupor. Alas, such vengeance does not put the allip to rest, but simply serves to further fuel its madness as it finds itself trapped in a world now no longer even holding the satisfaction of vengeance.
 

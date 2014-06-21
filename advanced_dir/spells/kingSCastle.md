@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/kingSCastle
+title: advanced/spell_dir/kingSCastle
 ---
  **King's Castle**
 
-**School** conjuration (teleportation); **Level** paladin 4
+**School** conjuration (teleportation; **Level** paladin 4
 
 **Casting Time** 1 standard action
 

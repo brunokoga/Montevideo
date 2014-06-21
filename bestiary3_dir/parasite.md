@@ -9,29 +9,29 @@ Rot Grub Swarm CR 7
 
 XP 3,200
 
-N Fine vermin ( [swarm](monsters/creatureTypes#_swarm-subtype))
+N Fine vermin ( [swarm](monster_dir/creatureTypes#_swarm-subtype)
 
-**Init** +2; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 30 ft.; [Perception](skills/perception#_perception) +0
+**Init** +2; **Senses** [blindsense](monster_dir/universalMonsterRules#_blindsense 30 ft.; [Perception](skill_dir/perception#_perception) +0
 
 Defense
 
 **AC** 20, touch 20, flat-footed 18 (+2 Dex, +8 size)
 
-**hp** 85 (10d8+40)
+**hp** 85 (10d8+40
 
 **Fort** +11, **Ref** +5, **Will** +3
 
-**Defensive Abilities** [swarm](monsters/creatureTypes#_swarm-subtype) traits; **Immune** mind-affecting effects, weapon damage
+**Defensive Abilities** [swarm](monster_dir/creatureTypes#_swarm-subtype traits; **Immune** mind-affecting effects, weapon damage
 
 Offense
 
 **Speed** 10 ft.
 
-**Melee** [swarm](monsters/creatureTypes#_swarm-subtype) +10 (2d6 plus [distraction](monsters/universalMonsterRules#_distraction) and infestation)
+**Melee** [swarm](monster_dir/creatureTypes#_swarm-subtype +10 (2d6 plus [distraction](monster_dir/universalMonsterRules#_distraction) and infestation
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** [distraction](monsters/universalMonsterRules#_distraction) (DC 19), infestation
+**Special Attacks** [distraction](monster_dir/universalMonsterRules#_distraction) (DC 19), infestation
 
 Statistics
 
@@ -49,7 +49,7 @@ Ecology
 
 Special Abilities
 
-**Infestation (Ex)** Any living creature that takes damage from a rot grub [swarm](monsters/creatureTypes#_swarm-subtype) becomes infested unless it succeeds at a DC 19 Reflex save. On a failed save, the infested creature takes 1d4 points of Constitution damage per round as the rot grubs burrow through and consume its flesh—this effect continues as long as the victim remains in the [swarm](monsters/creatureTypes#_swarm-subtype) and continues for 1d6 rounds after it leaves the [swarm](monsters/creatureTypes#_swarm-subtype). Any energy-based attack (including damage from negative energy) that deals at least 5 points of damage to the victim automatically destroys all of the rot grubs infesting it, ending the effect prematurely. Additionally, any effect that removes [disease](monsters/universalMonsterRules#_disease-(ex-or-su)) instantly ends a rot grub infestation. [Immunity](monsters/universalMonsterRules#_immunity-(ex-or-su)) to [disease](monsters/universalMonsterRules#_disease-(ex-or-su)) offers no defense. The save DC is Constitution-based.
+**Infestation (Ex** Any living creature that takes damage from a rot grub [swarm](monster_dir/creatureTypes#_swarm-subtype becomes infested unless it succeeds at a DC 19 Reflex save. On a failed save, the infested creature takes 1d4 points of Constitution damage per round as the rot grubs burrow through and consume its flesh—this effect continues as long as the victim remains in the [swarm](monster_dir/creatureTypes#_swarm-subtype and continues for 1d6 rounds after it leaves the [swarm](monster_dir/creatureTypes#_swarm-subtype). Any energy-based attack (including damage from negative energy that deals at least 5 points of damage to the victim automatically destroys all of the rot grubs infesting it, ending the effect prematurely. Additionally, any effect that removes [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su) instantly ends a rot grub infestation. [Immunity](monster_dir/universalMonsterRules#_immunity-(ex-or-su) to [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su) offers no defense. The save DC is Constitution-based.
 
 # Parasite, Giant Rot Grub
 
@@ -61,13 +61,13 @@ XP 800
 
 N Small vermin
 
-**Init** +1; **Senses** [blindsense](monsters/universalMonsterRules#_blindsense) 30 ft.; [Perception](skills/perception#_perception) +0
+**Init** +1; **Senses** [blindsense](monster_dir/universalMonsterRules#_blindsense 30 ft.; [Perception](skill_dir/perception#_perception) +0
 
 Defense
 
 **AC** 15, touch 12, flat-footed 14 (+1 Dex, +3 natural, +1 size)
 
-**hp** 34 (4d8+16)
+**hp** 34 (4d8+16
 
 **Fort** +8, **Ref** +2, **Will** +1
 
@@ -77,9 +77,9 @@ Offense
 
 **Speed** 20 ft.
 
-**Melee** bite +6 (1d6+3 plus [poison](monsters/universalMonsterRules#_poison-(ex-or-su)) and [grab](monsters/universalMonsterRules#_grab))
+**Melee** bite +6 (1d6+3 plus [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su) and [grab](monster_dir/universalMonsterRules#_grab)
 
-**Special Attacks** gnaw, [grab](monsters/universalMonsterRules#_grab) (Medium)
+**Special Attacks** gnaw, [grab](monster_dir/universalMonsterRules#_grab) (Medium)
 
 Statistics
 
@@ -97,9 +97,9 @@ Ecology
 
 Special Abilities
 
-**Gnaw (Ex)** A rot grub that is grappling a foe and chooses to damage the foe with an additional grapple check deals twice its normal bite damage (2d6+6 for most [giant](monsters/creatureTypes#_giant-subtype) rot grubs), in addition to injecting an additional dose of [poison](monsters/universalMonsterRules#_poison-(ex-or-su)) with each successful check.
+**Gnaw (Ex** A rot grub that is grappling a foe and chooses to damage the foe with an additional grapple check deals twice its normal bite damage (2d6+6 for most [giant](monster_dir/creatureTypes#_giant-subtype) rot grubs, in addition to injecting an additional dose of [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su) with each successful check.
 
-**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** Bite—injury; _save_ Fort DC 16; _frequency_ 1/round for 5 rounds; _effect_ 1d3 Str; _cure_ 1 save.
+**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex** Bite—injury; _save_ Fort DC 16; _frequency_ 1/round for 5 rounds; _effect_ 1d3 Str; _cure_ 1 save.
 
 Rot grubs are foul, nauseating parasites that feed on flesh and use corpses as nests in which to grow. While a rot grub can derive nourishment from dead flesh, its true hunger is for the flesh of the living. Thankfully, rot grub swarms occur only rarely, as they require the infested carcass of a Huge or larger creature and many weeks to build up the numbers necessary to constitute a swarm.
 

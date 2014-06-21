@@ -3,7 +3,7 @@ title: magicItems/magicItemCreation
 ---
 # Magic Item Creation
 
-To create magic items, spellcasters use special feats which allow them to invest time and money in an item's creation. At the end of this process, the spellcaster must make a single skill check (usually [Spellcraft](../skills/spellcraft#_spellcraft), but sometimes another skill) to finish the item. If an item type has multiple possible skills, you choose which skill to make the check with. The DC to create a magic item is 5 + the caster level for the item. Failing this check means that the item does not function and the materials and time are wasted. Failing this check by 5 or more results in a cursed item (see Cursed Items for more information).
+To create magic items, spellcasters use special feats which allow them to invest time and money in an item's creation. At the end of this process, the spellcaster must make a single skill check (usually [Spellcraft](../skill_dir/spellcraft#_spellcraft), but sometimes another skill) to finish the item. If an item type has multiple possible skills, you choose which skill to make the check with. The DC to create a magic item is 5 + the caster level for the item. Failing this check means that the item does not function and the materials and time are wasted. Failing this check by 5 or more results in a cursed item (see Cursed Items for more information).
 
 Note that all items have prerequisites in their descriptions. These prerequisites must be met for the item to be created. Most of the time, they take the form of spells that must be known by the item's creator (although access through another magic item or spellcaster is allowed). The DC to create a magic item increases by +5 for each prerequisite the caster does not meet. The only exception to this is the requisite item creation feat, which is mandatory. In addition, you cannot create potions, spell-trigger, or spell-completion magic items without meeting their spell prerequisites.
 
@@ -49,7 +49,7 @@ Many factors must be considered when determining the price of new magic items. T
 | Charges per day | Divide by (5 divided by charges per day) | _ [Boots of teleportation](wondrousItems#_boots-of-teleportation)_ |
 | No space limitation⁳ | Multiply entire cost by 2 | _ [Ioun stone](wondrousItems#_ioun-stones)_ |
 | Multiple different abilities | Multiply lower item cost by 1.5 | _ [Helm of brilliance](wondrousItems#_helm-of-brilliance)_ |
-| Charged (50 charges) | 1/2 unlimited use base price | _ [Ring of the ram](rings#_ring-of-the-ram)_ |
+| Charged (50 charges | 1/2 unlimited use base price | _ [Ring of the ram](rings#_ring-of-the-ram)_ |
 | Component | Extra Cost | Example |
 | --- | --- | --- |
 | Armor, shield, or weapon | Add cost of masterwork item | _+1 composite longbow_ |
@@ -87,7 +87,7 @@ Crafting magic armor requires one day for each 1,000 gp value of the base price.
 
 **Item Creation Feat Required** : [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft) or [Craft](../skills/craft#_craft) (armor).
+**Skill Used in Creation** : [Spellcraft](../skill_dir/spellcraft#_spellcraft or [Craft](../skill_dir/craft#_craft) (armor).
 
 ## Creating Magic Weapons
 
@@ -95,7 +95,7 @@ To create a magic weapon, a character needs a heat source and some iron, wood, o
 
 Creating a magic weapon has a special prerequisite: The creator's caster level must be at least three times the enhancement bonus of the weapon. If an item has both an enhancement bonus and a special ability, the higher of the two caster level requirements must be met. A magic weapon must have at least a +1 enhancement bonus to have any melee or ranged special weapon abilities.
 
-If spells are involved in the prerequisites for making the weapon, the creator must have prepared the spells to be cast (or must know the spells, in the case of a sorcerer or bard) but need not provide any material components or focuses the spells require. The act of working on the weapon triggers the prepared spells, making them unavailable for casting during each day of the weapon's creation. (That is, those spell slots are expended from the caster's currently prepared spells, just as if they had been cast.)
+If spells are involved in the prerequisites for making the weapon, the creator must have prepared the spells to be cast (or must know the spells, in the case of a sorcerer or bard) but need not provide any material components or focuses the spells require. The act of working on the weapon triggers the prepared spells, making them unavailable for casting during each day of the weapon's creation. (That is, those spell slots are expended from the caster's currently prepared spells, just as if they had been cast.
 
 At the time of creation, the creator must decide if the weapon glows or not as a side-effect of the magic imbued within it. This decision does not affect the price or the creation time, but once the item is finished, the decision is binding.
 
@@ -107,7 +107,7 @@ Crafting a magic weapon requires 1 day for each 1,000 gp value of the base price
 
 **Item Creation Feat Required** : [Craft Magic Arms and Armor](../feats#_craft-magic-arms-and-armor).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft), [Craft](../skills/craft#_craft) (bows) (for magic bows and arrows), or [Craft](../skills/craft#_craft) (weapons) (for all other weapons).
+**Skill Used in Creation** : [Spellcraft](../skill_dir/spellcraft#_spellcraft, [Craft](../skill_dir/craft#_craft) (bows) (for magic bows and arrows, or [Craft](../skill_dir/craft#_craft) (weapons) (for all other weapons).
 
 ## Creating Potions
 
@@ -127,17 +127,17 @@ The imbiber of the potion is both the caster and the target. Spells with a range
 
 The creator must have prepared the spell to be placed in the potion (or must know the spell, in the case of a sorcerer or bard) and must provide any material component or focus the spell requires.
 
-Material components are consumed when he begins working, but a focus is not. (A focus used in brewing a potion can be reused.) The act of brewing triggers the prepared spell, making it unavailable for casting until the character has rested and regained spells. (That is, that spell slot is expended from the caster's currently prepared spells, just as if it had been cast.) Brewing a potion requires 1 day.
+Material components are consumed when he begins working, but a focus is not. (A focus used in brewing a potion can be reused.) The act of brewing triggers the prepared spell, making it unavailable for casting until the character has rested and regained spells. (That is, that spell slot is expended from the caster's currently prepared spells, just as if it had been cast. Brewing a potion requires 1 day.
 
 **Item Creation Feat Required** : [Brew Potion](../feats#_brew-potion).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft) or [Craft](../skills/craft#_craft) (alchemy)
+**Skill Used in Creation** : [Spellcraft](../skill_dir/spellcraft#_spellcraft or [Craft](../skill_dir/craft#_craft) (alchemy)
 
 ## Creating Rings
 
 To create a magic ring, a character needs a heat source. He also needs a supply of materials, the most obvious being a ring or the pieces of the ring to be assembled. The cost for the materials is subsumed in the cost for creating the ring. Ring costs are difficult to determine. Refer to Table: Estimating Magic Item Gold Piece Values and use the ring prices in the ring descriptions as a guideline. Creating a ring generally costs half the ring's market price.
 
-Rings that duplicate spells with costly material components add in the value of 50 × the spell's component cost. Having a spell with a costly component as a prerequisite does not automatically incur this cost. The act of working on the ring triggers the prepared spells, making them unavailable for casting during each day of the ring's creation. (That is, those spell slots are expended from the caster's currently prepared spells, just as if they had been cast.)
+Rings that duplicate spells with costly material components add in the value of 50 × the spell's component cost. Having a spell with a costly component as a prerequisite does not automatically incur this cost. The act of working on the ring triggers the prepared spells, making them unavailable for casting during each day of the ring's creation. (That is, those spell slots are expended from the caster's currently prepared spells, just as if they had been cast.
 
 Creating some rings may entail other prerequisites beyond or other than spellcasting. See the individual descriptions for details.
 
@@ -145,13 +145,13 @@ Forging a ring requires 1 day for each 1,000 gp of the base price.
 
 **Item Creation Feat Required** : [Forge Ring](../feats#_forge-ring).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft) or [Craft](../skills/craft#_craft) (jewelry).
+**Skill Used in Creation** : [Spellcraft](../skill_dir/spellcraft#_spellcraft or [Craft](../skill_dir/craft#_craft) (jewelry).
 
 ## Creating Rods
 
 To create a magic rod, a character needs a supply of materials, the most obvious being a rod or the pieces of the rod to be assembled. The cost for the materials is subsumed in the cost for creating the rod. Rod costs are difficult to determine. Refer to Table: Estimating Magic Item Gold Piece Values and use the rod prices in the rod descriptions as a guideline. Creating a rod costs half the market value listed.
 
-If spells are involved in the prerequisites for making the rod, the creator must have prepared the spells to be cast (or must know the spells, in the case of a sorcerer or bard) but need not provide any material components or focuses the spells require. The act of working on the rod triggers the prepared spells, making them unavailable for casting during each day of the rod's creation. (That is, those spell slots are expended from the caster's currently prepared spells, just as if they had been cast.)
+If spells are involved in the prerequisites for making the rod, the creator must have prepared the spells to be cast (or must know the spells, in the case of a sorcerer or bard) but need not provide any material components or focuses the spells require. The act of working on the rod triggers the prepared spells, making them unavailable for casting during each day of the rod's creation. (That is, those spell slots are expended from the caster's currently prepared spells, just as if they had been cast.
 
 Creating some rods may entail other prerequisites beyond or other than spellcasting. See the individual descriptions for details.
 
@@ -159,7 +159,7 @@ Crafting a rod requires 1 day for each 1,000 gp of the base price.
 
 **Item Creation Feat Required** : [Craft Rod](../feats#_craft-rod).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft), [Craft](../skills/craft#_craft) (jewelry), [Craft](../skills/craft#_craft) (sculptures), or [Craft](../skills/craft#_craft) (weapons).
+**Skill Used in Creation** : [Spellcraft](../skill_dir/spellcraft#_spellcraft, [Craft](../skill_dir/craft#_craft) (jewelry, [Craft](../skill_dir/craft#_craft) (sculptures, or [Craft](../skill_dir/craft#_craft) (weapons).
 
 ## Creating Scrolls
 
@@ -181,19 +181,19 @@ To create a scroll, a character needs a supply of choice writing materials, the 
 
 All writing implements and materials used to scribe a scroll must be fresh and unused. A character must pay the full cost for scribing each spell scroll no matter how many times she previously has scribed the same spell.
 
-The creator must have prepared the spell to be scribed (or must know the spell, in the case of a sorcerer or bard) and must provide any material component or focus the spell requires. A material component is consumed when she begins writing, but a focus is not. (A focus used in scribing a scroll can be reused.) The act of writing triggers the prepared spell, making it unavailable for casting until the character has rested and regained spells. (That is, that spell slot is expended from the caster's currently prepared spells, just as if it had been cast.)
+The creator must have prepared the spell to be scribed (or must know the spell, in the case of a sorcerer or bard) and must provide any material component or focus the spell requires. A material component is consumed when she begins writing, but a focus is not. (A focus used in scribing a scroll can be reused.) The act of writing triggers the prepared spell, making it unavailable for casting until the character has rested and regained spells. (That is, that spell slot is expended from the caster's currently prepared spells, just as if it had been cast.
 
 Scribing a scroll requires 1 day per 1,000 gp of the base price. Although an individual scroll might contain more than one spell, each spell must be scribed as a separate effort, meaning that no more than 1 spell can be scribed in a day.
 
 **Item Creation Feat Required** : [Scribe Scroll](../feats#_scribe-scroll).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft), [Craft](../skills/craft#_craft) (calligraphy), or [Profession](../skills/profession#_profession) (scribe).
+**Skill Used in Creation** : [Spellcraft](../skill_dir/spellcraft#_spellcraft, [Craft](../skill_dir/craft#_craft) (calligraphy, or [Profession](../skill_dir/profession#_profession) (scribe).
 
 ## Creating Staves
 
 To create a magic staff, a character needs a supply of materials, the most obvious being a staff or the pieces of the staff to be assembled.
 
-The materials cost is subsumed in the cost of creation: 400 gp × the level of the highest-level spell × the level of the caster, plus 75% of the value of the next most costly ability (300 gp × the level of the spell × the level of the caster), plus 1/2 the value of any other abilities (200 gp × the level of the spell × the level of the caster). Staves are always fully charged (10 charges) when created.
+The materials cost is subsumed in the cost of creation: 400 gp × the level of the highest-level spell × the level of the caster, plus 75% of the value of the next most costly ability (300 gp × the level of the spell × the level of the caster, plus 1/2 the value of any other abilities (200 gp × the level of the spell × the level of the caster). Staves are always fully charged (10 charges) when created.
 
 If desired, a spell can be placed into the staff at less than the normal cost, but then activating that particular spell drains additional charges from the staff. Divide the cost of the spell by the number of charges it consumes to determine its final price. Note that this does not change the order in which the spells are priced (the highest level spell is still priced first, even if it requires more than one charge to activate). The caster level of all spells in a staff must be the same, and no staff can have a caster level of less than 8th, even if all the spells in the staff are low-level spells.
 
@@ -205,7 +205,7 @@ Crafting a staff requires 1 day for each 1,000 gp of the base price.
 
 **Item Creation Feat Required** : [Craft Staff](../feats#_craft-staff).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft), [Craft](../skills/craft#_craft) (jewelry), [Craft](../skills/craft#_craft) (sculptures), or [Profession](../skills/profession#_profession) (woodcutter).
+**Skill Used in Creation** : [Spellcraft](../skill_dir/spellcraft#_spellcraft, [Craft](../skill_dir/craft#_craft) (jewelry, [Craft](../skill_dir/craft#_craft) (sculptures, or [Profession](../skill_dir/profession#_profession) (woodcutter).
 
 ## Creating Wands
 
@@ -220,19 +220,19 @@ Crafting a staff requires 1 day for each 1,000 gp of the base price.
 
 To create a magic wand, a character needs a small supply of materials, the most obvious being a baton or the pieces of the wand to be assembled. The cost for the materials is subsumed in the cost for creating the wand: 375 gp × the level of the spell × the level of the caster. Wands are always fully charged (50 charges) when created.
 
-The creator must have prepared the spell to be stored (or must know the spell, in the case of a sorcerer or bard) and must provide any focuses the spell requires. Fifty of each needed material component are required (one for each charge). Material components are consumed when work begins, but focuses are not. A focus used in creating a wand can be reused. The act of working on the wand triggers the prepared spell, making it unavailable for casting during each day devoted to the wand's creation. (That is, that spell slot is expended from the caster's currently prepared spells, just as if it had been cast.)
+The creator must have prepared the spell to be stored (or must know the spell, in the case of a sorcerer or bard) and must provide any focuses the spell requires. Fifty of each needed material component are required (one for each charge). Material components are consumed when work begins, but focuses are not. A focus used in creating a wand can be reused. The act of working on the wand triggers the prepared spell, making it unavailable for casting during each day devoted to the wand's creation. (That is, that spell slot is expended from the caster's currently prepared spells, just as if it had been cast.
 
 Crafting a wand requires 1 day per each 1,000 gp of the base price.
 
 **Item Creation Feat Required** : [Craft Wand](../feats#_craft-wand).
 
-**Skill Used in Creation** : [Spellcraft](../skills/spellcraft#_spellcraft), [Craft](../skills/craft#_craft) (jewelry), [Craft](../skills/craft#_craft) (sculptures), or [Profession](../skills/profession#_profession) (woodcutter).
+**Skill Used in Creation** : [Spellcraft](../skill_dir/spellcraft#_spellcraft, [Craft](../skill_dir/craft#_craft) (jewelry, [Craft](../skill_dir/craft#_craft) (sculptures, or [Profession](../skill_dir/profession#_profession) (woodcutter).
 
 ## Creating Wondrous Items
 
 To create a wondrous item, a character usually needs some sort of equipment or tools to work on the item. She also needs a supply of materials, the most obvious being the item itself or the pieces of the item to be assembled. The cost for the materials is subsumed in the cost for creating the item. Wondrous item costs are difficult to determine. Refer to Table: Estimating Magic Item Gold Piece Values and use the item prices in the item descriptions as a guideline. Creating an item costs half the market value listed.
 
-If spells are involved in the prerequisites for making the item, the creator must have prepared the spells to be cast (or must know the spells, in the case of a sorcerer or bard) but need not provide any material components or focuses the spells require. The act of working on the item triggers the prepared spells, making them unavailable for casting during each day of the item's creation. (That is, those spell slots are expended from the caster's currently prepared spells, just as if they had been cast.)
+If spells are involved in the prerequisites for making the item, the creator must have prepared the spells to be cast (or must know the spells, in the case of a sorcerer or bard) but need not provide any material components or focuses the spells require. The act of working on the item triggers the prepared spells, making them unavailable for casting during each day of the item's creation. (That is, those spell slots are expended from the caster's currently prepared spells, just as if they had been cast.
 
 Creating some items may entail other prerequisites beyond or other than spellcasting. See the individual descriptions for details.
 
@@ -240,7 +240,7 @@ Crafting a wondrous item requires 1 day for each 1,000 gp of the base price.
 
 **Item Creation Feat Required** : Craft Wondrous Item.
 
-**Skill Used In Creation** : [Spellcraft](../skills/spellcraft#_spellcraft) or an applicable [Craft](../skills/craft#_craft) or [Profession](../skills/profession#_profession) skill check.
+**Skill Used In Creation** : [Spellcraft](../skill_dir/spellcraft#_spellcraft or an applicable [Craft](../skill_dir/craft#_craft or [Profession](../skill_dir/profession#_profession) skill check.
 
 ## Adding New Abilities
 
@@ -248,5 +248,5 @@ Sometimes, lack of funds or time make it impossible for a magic item crafter to 
 
 The cost to add additional abilities to an item is the same as if the item was not magical, less the value of the original item. Thus, a _+1 longsword_ can be made into a _+2 [vorpal](weapons#_vorpal) longsword,_ with the cost to create it being equal to that of a _+2 [vorpal](weapons#_vorpal) sword_ minus the cost of a _+1 longsword_.
 
-If the item is one that occupies a specific place on a character's body, the cost of adding any additional ability to that item increases by 50%. For example, if a character adds the power to confer invisibility to her _ [ring of protection](rings#_ring-of-protection) +2,_ the cost of adding this ability is the same as for creating a _ [ring of invisibility](rings#_ring-of-invisibility)_ multiplied by 1.5.
+If the item is one that occupies a specific place on a character's body, the cost of adding any additional ability to that item increases by 50%. For example, if a character adds the power to confer invisibility to her _ [ring of protection](rings#_ring-of-protection) +2,_ the cost of adding this ability is the same as for creating a _ [ring of invisibility](rings#_ring-of-invisibility_ multiplied by 1.5.
 

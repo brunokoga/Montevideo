@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/purgingFinale
+title: advanced/spell_dir/purgingFinale
 ---
  **Purging Finale**
 
-**School** conjuration (healing); **Level** bard 3
+**School** conjuration (healing; **Level** bard 3
 
 **Casting Time** 1 standard action
 

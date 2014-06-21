@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/terribleRemorse
+title: ultimateMagic/spell_dir/terribleRemorse
 ---
 Terrible Remorse
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, cleric 4, inquisitor 3, sorcerer/wizard 4
+**School** enchantment (compulsion [emotion, mind-affecting]; **Level** bard 3, cleric 4, inquisitor 3, sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 
@@ -13,9 +13,9 @@ Terrible Remorse
 
 **Target** 1 living creature
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
-**Saving Throw** Will partial (see text); **Spell Resistance** yes
+**Saving Throw** Will partial (see text; **Spell Resistance** yes
 
 You fill a target with such profound remorse that it begins to harm itself. Each round, the target must save or deal 1d8 points of damage + its Strength modifier to itself using an item held in its hand or with unarmed attacks. If the creature saves, it is staggered for 1 round and takes a -2 penalty to Armor Class, after which the spell ends.
 

@@ -1,13 +1,13 @@
 ---
-title: ultimateCombat/spells/adjuringStep
+title: ultimateCombat/spell_dir/adjuringStep
 ---
 Adjuring Step
 
-**School** abjuration (force); **Level** alchemist 1, bard 1, magus 1, sorcerer/wizard 1
+**School** abjuration (force; **Level** alchemist 1, bard 1, magus 1, sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a rabbit's foot)
+**Components** V, S, M (a rabbit's foot
 
 **Range** personal
 

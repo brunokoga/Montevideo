@@ -13,7 +13,7 @@ title: advanced/spells/elementalAura
 
 **Target** you
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D)
 
 **Saving Throw** Reflex half; see text; **Spell Resistance** yes
 
@@ -25,7 +25,7 @@ This spell forms an aura of energy around you, damaging all those that come near
 
 **Electricity** : Creatures affected by your aura are staggered for 1 round.
 
-**Fire** : Creatures affected by your aura catch on fire (_Core Rulebook_ 444).
+**Fire** : Creatures affected by your aura catch on fire (_Core Rulebook_ 444.
 
 Creatures adjacent to you are allowed a Reflex save to halve the damage and negate the additional effect. The aura's additional effects do not stack if a creature takes damage from your aura multiple times. You may only have one _elemental aura_ in effect at one time. When you cast this spell to deal acid, cold, electricity, or fire damage, it is a spell of that type.
 

@@ -1,5 +1,5 @@
 ---
-title: monsters/purpleWorm
+title: monster_dir/purpleWorm
 ---
 # Purple Worm
 
@@ -9,15 +9,15 @@ _This enormous worm is covered with dark purple plates of chitinous armor. Its g
 
 **XP 19,200**
 
-N Gargantuan [magical beast](creatureTypes#_magical-beast)
+N Gargantuan [magical beast](creatureTypes#_magical-beast
 
-**Init** –2; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skills/perception#_perception) +18
+**Init** –2; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](../skill_dir/perception#_perception) +18
 
 **Defense**
 
 **AC** 26, touch 4, flat-footed 26 (–2 Dex, +22 natural, –4 size)
 
-**hp** 200 (16d10+112)
+**hp** 200 (16d10+112
 
 **Fort** +17, **Ref** +8, **Will** +4
 
@@ -39,7 +39,7 @@ N Gargantuan [magical beast](creatureTypes#_magical-beast)
 
 **Feats** [Awesome Blow](monsterFeats#_awesome-blow), [Critical Focus](../feats#_critical-focus), [Improved Bull Rush](../feats#_improved-bull-rush), [Improved Critical](../feats#_improved-critical) (bite), [Power Attack](../feats#_power-attack), [Staggering Critical](../feats#_staggering-critical), [Weapon Focus](../feats#_weapon-focus) (bite, sting)
 
-**Skills** [Perception](../skills/perception#_perception) +18, [Swim](../skills/swim#_swim) +20
+**Skills** [Perception](../skill_dir/perception#_perception +18, [Swim](../skill_dir/swim#_swim) +20
 
 **Ecology**
 
@@ -51,7 +51,7 @@ N Gargantuan [magical beast](creatureTypes#_magical-beast)
 
 **Special Abilities**
 
-**Poison (Ex)** Sting—injury; _save_ Fort DC 25; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Strength [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 3 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex** Sting—injury; _save_ Fort DC 25; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Strength [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 3 consecutive saves. The save DC is Constitution-based.
 
 Purple worms are giant scavengers that inhabit the deepest regions of the world, consuming any organic material that they encounter. They are notorious for swallowing their prey whole. It is not uncommon to hear of a group of adventurers vanishing down the ravenous maw of a purple worm, screaming as they disappear one by one.
 

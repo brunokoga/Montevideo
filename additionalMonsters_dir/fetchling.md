@@ -1,29 +1,29 @@
 ---
-title: additionalMonsters/fetchling
+title: additionalMonster_dir/fetchling
 ---
 # Fetchling
 
 This gaunt man appears drained of color, like a person viewed at twilight or in a dark alley.
 
-Fetchling (Kayal)CR 1/2
+Fetchling (KayalCR 1/2
 
 **XP 200**
 
 Fetchling rogue 1
 
-N Medium [outsider](monsters/creatureTypes#_outsider) ( [native](monsters/creatureTypes#_native-subtype))
+N Medium [outsider](monster_dir/creatureTypes#_outsider ( [native](monster_dir/creatureTypes#_native-subtype)
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +3
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +3
 
 Defense
 
 **AC** 17, touch 13, flat-footed 14 (+4 armor, +3 Dex)
 
-**hp** 10 (1d8+2)
+**hp** 10 (1d8+2
 
 **Fort** +2, **Ref** +5, **Will** –1
 
-**Defensive Abilities** shadow bending; **Resist** [cold](monsters/creatureTypes#_cold-subtype) 5, electricity 5
+**Defensive Abilities** shadow bending; **Resist** [cold](monster_dir/creatureTypes#_cold-subtype 5, electricity 5
 
 Offense
 
@@ -35,7 +35,7 @@ Offense
 
 **Spell-Like Abilities** (CL 1st; concentration +3)
 
-1/day—_ [disguise self](additionalMonsters/../spells/disguiseSelf#_disguise-self)_ (humanoid only)
+1/day—_ [disguise self](additionalMonsters/../spell_dir/disguiseSelf#_disguise-self)_ (humanoid only
 
 Statistics
 
@@ -45,7 +45,7 @@ Statistics
 
 **Feats** [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
 
-**Skills** [Appraise](additionalMonsters/../skills/appraise#_appraise) +3, [Bluff](additionalMonsters/../skills/bluff#_bluff) +6, [Diplomacy](additionalMonsters/../skills/diplomacy#_diplomacy) +6, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (local) +3, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (planes) +2, [Perception](additionalMonsters/../skills/perception#_perception) +3, Sense Motive +3, [Stealth](additionalMonsters/../skills/stealth#_stealth) +7; **Racial Modifiers** +2 [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (planes), +2 [Stealth](additionalMonsters/../skills/stealth#_stealth)
+**Skills** [Appraise](additionalMonsters/../skill_dir/appraise#_appraise +3, [Bluff](additionalMonsters/../skill_dir/bluff#_bluff +6, [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy +6, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (local +3, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +2, [Perception](additionalMonsters/../skill_dir/perception#_perception +3, Sense Motive +3, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +7; **Racial Modifiers** +2 [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes, +2 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
 
 **Languages** Common
 
@@ -55,13 +55,13 @@ Ecology
 
 **Environment** any (Plane of Shadow)
 
-**Organization** solitary, pair, guild (3–12), or enclave (13–30 plus 1–4 2nd–4th level rogue spies, 1–4 2nd–4th level sorcerers, and 1 3rd–6th level fighter/rogue leader)
+**Organization** solitary, pair, guild (3–12, or enclave (13–30 plus 1–4 2nd–4th level rogue spies, 1–4 2nd–4th level sorcerers, and 1 3rd–6th level fighte_dir/rogue leader)
 
 **Treasure** NPC gear (chain shirt, dagger, other treasure)
 
 Special Abilities
 
-**Shadow Blending (Su)** Attacks against a fetchling in dim light have a 50% miss chance instead of the normal 20% miss chance. This ability does not grant total concealment; it just increases the miss chance.
+**Shadow Blending (Su** Attacks against a fetchling in dim light have a 50% miss chance instead of the normal 20% miss chance. This ability does not grant total concealment; it just increases the miss chance.
 
 Fetchlings are descended from generations of humans trapped on the Plane of Shadow. Infused with the essence of that plane, they are more and less than human, and often serve as middlemen in planar trade and politics. Other than their yellow eyes, their flesh has no color—it is either stark white, midnight black, or a shade of gray. On the Material Plane, they conceal themselves with heavy clothing or dim light so they can work without prejudice. The name “fetchling” is a human word; their own name for their race is _kayal_, meaning “shadow people.”
 
@@ -77,13 +77,13 @@ Fetchlings are defined by their class levels—they do not possess racial HD. Th
 
 **Low-Light Vision** : Fetchlings can see twice as far as humans in conditions of dim light.
 
-**Skilled** : Fetchlings have a +2 racial bonus on [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (planes) and [Stealth](additionalMonsters/../skills/stealth#_stealth) checks.
+**Skilled** : Fetchlings have a +2 racial bonus on [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes and [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) checks.
 
 **Shadow Blending** : See above.
 
 **Shadowy Resistance** : Fetchlings have cold resistance 5 and electricity resistance 5.
 
-**Spell-Like Abilities (Sp)** : A fetchling can use _ [disguise self](additionalMonsters/../spells/disguiseSelf#_disguise-self)_ once per day as a spell-like ability. It can assume the form of any humanoid creature using this spell-like ability. When a fetchling reaches 9th level in any combination of classes, it gains _ [shadow walk](additionalMonsters/../spells/shadowWalk#_shadow-walk)_ (self only) as a spell-like ability usable once per day, and at 13th level, it gains _ [plane shift](additionalMonsters/../spells/planeShift#_plane-shift)_ (self only, to the Plane of Shadow or the Material Plane only) usable once per day. A fetchling's caster level is equal to its total Hit Dice.
+**Spell-Like Abilities (Sp** : A fetchling can use _ [disguise self](additionalMonsters/../spell_dir/disguiseSelf#_disguise-self_ once per day as a spell-like ability. It can assume the form of any humanoid creature using this spell-like ability. When a fetchling reaches 9th level in any combination of classes, it gains _ [shadow walk](additionalMonsters/../spell_dir/shadowWalk#_shadow-walk)_ (self only as a spell-like ability usable once per day, and at 13th level, it gains _ [plane shift](additionalMonsters/../spell_dir/planeShift#_plane-shift)_ (self only, to the Plane of Shadow or the Material Plane only) usable once per day. A fetchling's caster level is equal to its total Hit Dice.
 
-**Languages** Fetchlings begin play speaking Common. A fetchling with a high Intelligence score can choose any of the following languages: Aklo, Aquan, Auran, Draconic, D'ziriak (understanding only, cannot speak), Ignan, Terran, and any regional human tongue.
+**Languages** Fetchlings begin play speaking Common. A fetchling with a high Intelligence score can choose any of the following languages: Aklo, Aquan, Auran, Draconic, D'ziriak (understanding only, cannot speak, Ignan, Terran, and any regional human tongue.
 

@@ -1,5 +1,5 @@
 ---
-title: magicItems/potions
+title: magicItem_dir/potions
 ---
 # Potions
 
@@ -21,7 +21,7 @@ title: magicItems/potions
 
 A potion is a magic liquid that produces its effect when imbibed. Potions vary incredibly in appearance. Magic oils are similar to potions, except that oils are applied externally rather than imbibed. A potion or oil can be used only once. It can duplicate the effect of a spell of up to 3rd level that has a casting time of less than 1 minute and targets one or more creatures or objects. The price of a potion is equal to the level of the spell × the creator's caster level × 50 gp. If the potion has a material component cost, it is added to the base price and cost to create. Table: Potions gives sample prices for potions created at the lowest possible caster level for each spellcasting class. Note that some spells appear at different levels for different casters. The level of such spells depends on the caster brewing the potion.
 
-Potions are like spells cast upon the imbiber. The character taking the potion doesn't get to make any decisions about the effect—the caster who brewed the potion has already done so. The drinker of a potion is both the effective target and the caster of the effect (though the potion indicates the caster level, the drinker still controls the effect).
+Potions are like spells cast upon the imbiber. The character taking the potion doesn't get to make any decisions about the effect—the caster who brewed the potion has already done so. The drinker of a potion is both the effective target and the caster of the effect (though the potion indicates the caster level, the drinker still controls the effect.
 
 The person applying an oil is the effective caster, but the object is the target.
 

@@ -3,11 +3,11 @@ title: spells/fleshToStone
 ---
  **Flesh to Stone**
 
-**School** transmutation; **Level** sorcerer/wizard 6
+**School** transmutation; **Level** sorcere_dir/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (lime, water, and earth)
+**Components** V, S, M (lime, water, and earth
 
 **Range** medium (100 ft. + 10 ft./level)
 

@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/foolSForbiddance
+title: advanced/spell_dir/foolSForbiddance
 ---
  **Fool's Forbiddance**
 
@@ -7,7 +7,7 @@ title: advanced/spells/foolSForbiddance
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a ring of keys)
+**Components** V, S, M (a ring of keys
 
 **Range** 10 ft.
 

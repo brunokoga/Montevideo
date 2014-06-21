@@ -9,21 +9,21 @@ Ice TrollCR 4
 
 **XP 1,200**
 
-CE Large [humanoid](monsters/creatureTypes#_humanoid) ( [cold](monsters/creatureTypes#_cold-subtype), giant)
+CE Large [humanoid](monster_dir/creatureTypes#_humanoid ( [cold](monster_dir/creatureTypes#_cold-subtype), giant
 
-**Init** +4; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +9
+**Init** +4; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +9
 
 Defense
 
 **AC** 17, touch 13, flat-footed 13 (+4 Dex, +4 natural, –1 size)
 
-**hp** 45 (6d8+18); regeneration 5 (acid or [fire](monsters/creatureTypes#_fire-subtype))
+**hp** 45 (6d8+18; regeneration 5 (acid or [fire](monster_dir/creatureTypes#_fire-subtype)
 
 **Fort** +8, **Ref** +8, **Will** +2
 
-**Immune** [cold](monsters/creatureTypes#_cold-subtype)
+**Immune** [cold](monster_dir/creatureTypes#_cold-subtype
 
-**Weaknesses** vulnerable to [fire](monsters/creatureTypes#_fire-subtype)
+**Weaknesses** vulnerable to [fire](monster_dir/creatureTypes#_fire-subtype)
 
 Offense
 
@@ -35,7 +35,7 @@ bite +7 (1d6+4), 2 claws +7 (1d4+4)
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** rend (2 claws, 1d6+6)
+**Special Attacks** rend (2 claws, 1d6+6
 
 Statistics
 
@@ -43,17 +43,17 @@ Statistics
 
 **Base Atk** +4; **CMB** +9; **CMD** 23
 
-**Feats** [Intimidating Prowess](additionalMonsters/../feats#_intimidating-prowess), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), Skill Focus ( [Perception](additionalMonsters/../skills/perception#_perception))
+**Feats** [Intimidating Prowess](additionalMonsters/../feats#_intimidating-prowess), [Lightning Reflexes](additionalMonsters/../feats#_lightning-reflexes), Skill Focus ( [Perception](additionalMonsters/../skill_dir/perception#_perception)
 
-**Skills** [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +7, [Perception](additionalMonsters/../skills/perception#_perception) +9, [Survival](additionalMonsters/../skills/survival#_survival) +4
+**Skills** [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +7, [Perception](additionalMonsters/../skill_dir/perception#_perception +9, [Survival](additionalMonsters/../skill_dir/survival#_survival +4
 
 **Languages** Giant
 
 Ecology
 
-**Environment** [cold](monsters/creatureTypes#_cold-subtype) mountains or underground
+**Environment** [cold](monster_dir/creatureTypes#_cold-subtype) mountains or underground
 
-**Organization** solitary or band (3–6)
+**Organization** solitary or band (3–6
 
 **Treasure** standard
 
@@ -75,9 +75,9 @@ Rock TrollCR 6
 
 **XP 2,400**
 
-CE Large [humanoid](monsters/creatureTypes#_humanoid) ( [earth](monsters/creatureTypes#_earth-subtype), giant)
+CE Large [humanoid](monster_dir/creatureTypes#_humanoid ( [earth](monster_dir/creatureTypes#_earth-subtype), giant
 
-**Init** +1; **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +6
+**Init** +1; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +6
 
 Defense
 
@@ -97,7 +97,7 @@ Offense
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** rend (2 claws, 1d6+9)
+**Special Attacks** rend (2 claws, 1d6+9
 
 Statistics
 
@@ -107,7 +107,7 @@ Statistics
 
 **Feats** [Intimidating Prowess](additionalMonsters/../feats#_intimidating-prowess), [Iron Will](additionalMonsters/../feats#_iron-will), [Power Attack](additionalMonsters/../feats#_power-attack), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (claw)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +11, [Intimidate](additionalMonsters/../skills/intimidate#_intimidate) +10, [Perception](additionalMonsters/../skills/perception#_perception) +6
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +11, [Intimidate](additionalMonsters/../skill_dir/intimidate#_intimidate +10, [Perception](additionalMonsters/../skill_dir/perception#_perception) +6
 
 **Languages** Giant
 
@@ -121,7 +121,7 @@ Ecology
 
 Special Abilities
 
-**Sunlight Petrification (Ex)** A rock troll that is exposed to natural sunlight is staggered and must make a DC 20 Fortitude save each round to resist permanently turning to stone. A _ [stone to flesh](additionalMonsters/../spells/stoneToFlesh#_stone-to-flesh)_ spell (or similar effect) restores a petrified rock troll, but if it remains exposed to sunlight, it must immediately start making new Fortitude saves to avoid petrification. Spells like _sunray_ or _ [sunburst](additionalMonsters/../spells/sunburst#_sunburst)_ that create powerful natural sunlight cannot petrify a rock troll, but the troll is staggered for 1d4 rounds after being exposed to such an effect.
+**Sunlight Petrification (Ex** A rock troll that is exposed to natural sunlight is staggered and must make a DC 20 Fortitude save each round to resist permanently turning to stone. A _ [stone to flesh](additionalMonsters/../spell_dir/stoneToFlesh#_stone-to-flesh)_ spell (or similar effect restores a petrified rock troll, but if it remains exposed to sunlight, it must immediately start making new Fortitude saves to avoid petrification. Spells like _sunray_ or _ [sunburst](additionalMonsters/../spell_dir/sunburst#_sunburst_ that create powerful natural sunlight cannot petrify a rock troll, but the troll is staggered for 1d4 rounds after being exposed to such an effect.
 
 Rock trolls are relatives of normal trolls and ice trolls, but make their lairs far beneath the earth in underground caverns. They rarely venture forth from their subterranean lairs, for they have a weakness unknown in other troll subspecies—the light of the sun turns them to solid stone. Rock trolls have stony skin studded with crystals, but otherwise display typical troll characteristics—hunched posture, long arms, a large underbite, and powerful regenerative abilities. Because of the crystalline nature of their skin, however, rock trolls prove more susceptible to sonic damage than other trolls, but they are able to regenerate even wounds dealt by fire. Rock trolls are larger and stronger than normal trolls, typically standing 15 to 16 feet tall in height, and weighing upward of 1,200 pounds.
 

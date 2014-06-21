@@ -1,5 +1,5 @@
 ---
-title: monsters/yethHound
+title: monster_dir/yethHound
 ---
 # Yeth Hound
 
@@ -11,13 +11,13 @@ _This emaciated, hairless canine has a strange air of menace and cruelty about i
 
 NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +9
+**Init** +6; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +9
 
 **Defense**
 
 **AC** 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
 
-**hp** 30 (4d10+8)
+**hp** 30 (4d10+8
 
 **Fort** +3, **Ref** +6, **Will** +6
 
@@ -37,9 +37,9 @@ NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Base**  **Atk** +4; **CMB** +7; **CMD** 19 (23 vs. trip)
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Fly](../skills/fly#_fly))
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Fly](../skill_dir/fly#_fly)
 
-**Skills** [Fly](../skills/fly#_fly) +16, [Perception](../skills/perception#_perception) +9, [Stealth](../skills/stealth#_stealth) +9, [Survival](../skills/survival#_survival) +9
+**Skills** [Fly](../skill_dir/fly#_fly +16, [Perception](../skill_dir/perception#_perception +9, [Stealth](../skill_dir/stealth#_stealth +9, [Survival](../skill_dir/survival#_survival) +9
 
 **Languages** Abyssal or Infernal (cannot speak)
 
@@ -57,7 +57,7 @@ NE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Flight (Su)** A yeth hound can cease or resume its flight as a free action.
 
-**Sinister Bite (Su)** A yeth hound's bite is treated as evil-aligned for the purpose of overcoming damage reduction. In addition, a good-aligned creature bitten by a yeth hound must make a DC 14 Will save or be shaken for 1 round. If the victim is already suffering from a fear effect (such as the hound's bay attack), the victim is instead completely overcome with fear and can do nothing but cower for 1 round. This is a mind-affecting fear effect. The save DC is Constitution-based.
+**Sinister Bite (Su)** A yeth hound's bite is treated as evil-aligned for the purpose of overcoming damage reduction. In addition, a good-aligned creature bitten by a yeth hound must make a DC 14 Will save or be shaken for 1 round. If the victim is already suffering from a fear effect (such as the hound's bay attack, the victim is instead completely overcome with fear and can do nothing but cower for 1 round. This is a mind-affecting fear effect. The save DC is Constitution-based.
 
 Yeth hounds are evil outsiders that delight in hunting intelligent prey. They lope through the night skies, relentlessly pursuing their chosen quarry for miles, and harrying them with their frightful baying. Yeth hounds hunt only at night. They fear the sun and never venture out in daylight, even if their lives depend on it. A yeth hound stands 4 feet tall at the shoulder and weighs about 400 pounds.
 

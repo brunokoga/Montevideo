@@ -1,5 +1,5 @@
 ---
-title: monsters/shamblingMound
+title: monster_dir/shamblingMound
 ---
 # Shambling Mound
 
@@ -9,9 +9,9 @@ _A mass of tangled vines and dripping slime rises on two trunk-like legs, reekin
 
 **XP 2,400**
 
-N Large [plant](creatureTypes#_plant)
+N Large [plant](creatureTypes#_plant
 
-**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +11
+**Init** +0; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +11
 
 **Defense**
 
@@ -37,11 +37,11 @@ N Large [plant](creatureTypes#_plant)
 
 **Str** 21, **Dex** 10, **Con** 17, **Int** 7, **Wis** 10, **Cha** 9
 
-**Base**  **Atk** +6; **CMB** +12 (+16 grapple); **CMD** 22
+**Base**  **Atk** +6; **CMB** +12 (+16 grapple; **CMD** 22
 
 **Feats** [Cleave](../feats#_cleave), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Power Attack](../feats#_power-attack), [Weapon Focus](../feats#_weapon-focus) (slam)
 
-**Skills** [Perception](../skills/perception#_perception) +11, [Stealth](../skills/stealth#_stealth) +8 (+16 in swamps or forest), [Swim](../skills/swim#_swim) +13; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth) (+12 in swamps or forests)
+**Skills** [Perception](../skill_dir/perception#_perception +11, [Stealth](../skill_dir/stealth#_stealth) +8 (+16 in swamps or forest, [Swim](../skill_dir/swim#_swim +13; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +4 [Stealth](../skill_dir/stealth#_stealth) (+12 in swamps or forests)
 
 **Languages** Common, Sylvan (cannot speak)
 
@@ -57,7 +57,7 @@ N Large [plant](creatureTypes#_plant)
 
 **Special Abilities**
 
-**Electric Fortitude (Ex)** Shambling mounds take no damage from electricity. Instead, any electricity attack used against a shambling mound temporarily increases its Constitution score by 1d4 points. The shambling mound loses these temporary points at the rate of 1 per hour.
+**Electric Fortitude (Ex** Shambling mounds take no damage from electricity. Instead, any electricity attack used against a shambling mound temporarily increases its Constitution score by 1d4 points. The shambling mound loses these temporary points at the rate of 1 per hour.
 
 Shambling mounds, also called shamblers, appear to be heaps of rotting vegetation. They are actually intelligent, carnivorous plants with a fondness for elf flesh in particular. What serve as a shambler's brain and sensory organs are located in its upper body. Shambling mounds typically have an 8-foot girth and stand between 6 and 9 feet tall. They weigh about 3,800 pounds.
 

@@ -1,5 +1,5 @@
 ---
-title: monsters/owlbear
+title: monster_dir/owlbear
 ---
 # Owlbear
 
@@ -11,7 +11,7 @@ _An amalgam of fur and feathers, this bizarre half-bear, half-owl monstrosity ra
 
 N Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +12
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +12
 
 **Defense**
 
@@ -33,11 +33,11 @@ N Large [magical beast](creatureTypes#_magical-beast)
 
 **Str** 19, **Dex** 12, **Con** 18, **Int** 2, **Wis** 12, **Cha** 10
 
-**Base Atk** +5; **CMB** +10 (+14 grapple); **CMD** 21 (25 vs. trip)
+**Base Atk** +5; **CMB** +10 (+14 grapple); **CMD** 21 (25 vs. trip
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Great Fortitude](../feats#_great-fortitude), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
 
-**Skills** [Perception](../skills/perception#_perception) +12
+**Skills** [Perception](../skill_dir/perception#_perception) +12
 
 **Ecology**
 
@@ -55,7 +55,7 @@ Owlbears generally inhabit desolate areas of the wilderness, making their messy 
 
 Adult owlbears live in mated pairs, and hunt in small groups, leaving their young behind in their lairs while they search for prey. A typical owlbear lair contains 1d6 juveniles, which can fetch a price of up to 3,000 gp apiece in many city markets.
 
-While it is considered impossible to truly domesticate owlbears due to their feral natures, they can still be used as guardians if contained within an area but allowed to roam and hunt freely there. Professional animal trainers charge up to 2,000 gp to rear or train an owlbear into a serviceable guardian that can obey simple commands (DC 23 for a juvenile creature; DC 30 for a fully grown adult).
+While it is considered impossible to truly domesticate owlbears due to their feral natures, they can still be used as guardians if contained within an area but allowed to roam and hunt freely there. Professional animal trainers charge up to 2,000 gp to rear or train an owlbear into a serviceable guardian that can obey simple commands (DC 23 for a juvenile creature; DC 30 for a fully grown adult.
 
 A full-grown male can stand as tall as 8 feet and weighs up to 1,500 pounds.
 

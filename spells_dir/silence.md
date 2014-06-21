@@ -1,9 +1,9 @@
 ---
-title: spells/silence
+title: spell_dir/silence
 ---
  **Silence**
 
-**School** illusion (glamer); **Level** bard 2, cleric 2
+**School** illusion (glamer; **Level** bard 2, cleric 2
 
 **Casting Time** 1 round
 
@@ -13,7 +13,7 @@ title: spells/silence
 
 **Area** 20-ft.-radius emanation centered on a creature, object, or point in space
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** : [Will](../combat#_will) negates; see text or none (object); **[Spell Resistance](../glossary#_spell-resistance)** : yes; see text or no (object)
 

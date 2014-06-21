@@ -29,9 +29,9 @@ _Magic fang _can be made permanent with a _ [permanency](permanency#_permanency)
 
 **Target** one living creature
 
-**Duration** 1 hour/level
+**Duration** 1 hou_dir/level
 
-This spell functions like _magic fang_, except that the enhancement bonus on attack and damage rolls is +1 per four caster levels (maximum +5). This bonus does not allow a natural weapon or unarmed strike to bypass [damage reduction](../glossary#_damage-reduction) aside from magic.
+This spell functions like _magic fang_, except that the enhancement bonus on attack and damage rolls is +1 per four caster levels (maximum +5. This bonus does not allow a natural weapon or unarmed strike to bypass [damage reduction](../glossary#_damage-reduction) aside from magic.
 
 Alternatively, you may imbue all of the creature's natural weapons with a +1 enhancement bonus (regardless of your caster level).
 

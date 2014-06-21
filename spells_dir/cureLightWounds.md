@@ -1,9 +1,9 @@
 ---
-title: spells/cureLightWounds
+title: spell_dir/cureLightWounds
 ---
  **Cure Light Wounds**
 
-**School** conjuration (healing); **Level** bard 1, cleric 1, druid 1, paladin 1, ranger 2
+**School** conjuration (healing; **Level** bard 1, cleric 1, druid 1, paladin 1, ranger 2
 
 **Casting Time** 1 standard action
 

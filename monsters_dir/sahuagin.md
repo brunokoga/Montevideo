@@ -1,5 +1,5 @@
 ---
-title: monsters/sahuagin
+title: monster_dir/sahuagin
 ---
 # Sahuagin
 
@@ -11,7 +11,7 @@ _This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed
 
 LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](creatureTypes#_aquatic-subtype))
 
-**Init** +1; **Senses** [blindsense](universalMonsterRules#_blindsense) 30 ft., darkvision 60 ft.; [Perception](../skills/perception#_perception) +6
+**Init** +1; **Senses** [blindsense](universalMonsterRules#_blindsense 30 ft., darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +6
 
 **Defense**
 
@@ -27,7 +27,7 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](cr
 
 **Speed** 30 ft., swim 60 ft.
 
-**Melee** trident +4 (1d8+3), bite –1 (1d4+1) or 2 claws +4 (1d4+2), bite +4 (1d4+2)
+**Melee** trident +4 (1d8+3), bite –1 (1d4+1) or 2 claws +4 (1d4+2), bite +4 (1d4+2
 
 **Ranged** heavy crossbow +3 (1d10/19–20)
 
@@ -41,7 +41,7 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](cr
 
 **Feats** [Great Fortitude](../feats#_great-fortitude)
 
-**Skills** [Handle Animal](../skills/handleAnimal#_handle-animal) +1, [Perception](../skills/perception#_perception) +6, [Ride](../skills/ride#_ride) +6, [Stealth](../skills/stealth#_stealth) +6, [Survival](../skills/survival#_survival) +6, [Swim](../skills/swim#_swim) +15
+**Skills** [Handle Animal](../skill_dir/handleAnimal#_handle-animal +1, [Perception](../skill_dir/perception#_perception +6, [Ride](../skill_dir/ride#_ride +6, [Stealth](../skill_dir/stealth#_stealth +6, [Survival](../skill_dir/survival#_survival +6, [Swim](../skill_dir/swim#_swim) +15
 
 **Languages** Aquan, Common; speak with sharks
 
@@ -61,5 +61,5 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](cr
 
 Ravenous and cruel, the sahuagin are, unfortunately, among the most prosperous oceanic races. Great cities raised by these creatures darken the deep ocean trenches, and many are the near-coastal fortresses where they launch endless raids against their air-breathing enemies who dwell in close proximity to the shore. Warlike and proud, the sahuagin rarely ally with others, and view most other aquatic races such as the aboleths, the merfolk, and their ilk as competitors. The only creatures they seem to respect and adore apart from their own kind are sharks, for in these relentless predators the sahuagin see much of themselves. A sahuagin stands 7 feet tall and weighs about 250 pounds.
 
-Sahuagin are prone to beneficial mutations, and when a mutant is born it almost always rises to the society's nobility or rulership. The most common sahuagin mutation is an extra pair of arms (granting two additional claw attacks or the opportunity to wield more weapons). Rumors speak of the rare malenti—sahuagin who look not like sharkmen but aquatic elves, yet who share their kin's bloodlusts and cruel natures. Malenti often serve as spies and assassins for sahuagin rulers, but rumors of all-malenti tribes in isolated reaches of the sea persist.
+Sahuagin are prone to beneficial mutations, and when a mutant is born it almost always rises to the society's nobility or rulership. The most common sahuagin mutation is an extra pair of arms (granting two additional claw attacks or the opportunity to wield more weapons. Rumors speak of the rare malenti—sahuagin who look not like sharkmen but aquatic elves, yet who share their kin's bloodlusts and cruel natures. Malenti often serve as spies and assassins for sahuagin rulers, but rumors of all-malenti tribes in isolated reaches of the sea persist.
 

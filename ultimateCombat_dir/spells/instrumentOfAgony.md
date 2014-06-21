@@ -13,9 +13,9 @@ Instrument of Agony
 
 **Target** weapon touched
 
-**Duration** 1 minutes/level
+**Duration** 1 minute_dir/level
 
-**Saving Throw** Will negates (harmless, object), see text; **Spell Resistance** yes (harmless, object), see text
+**Saving Throw** Will negates (harmless, object), see text; **Spell Resistance** yes (harmless, object, see text
 
-You cause a weapon to exude a palpable aura of divine fury. While wielding this weapon, a creature gains a +2 morale bonus on [Intimidate](skills/intimidate#_intimidate) checks. When an attack made using the targeted weapon hits, the wielder can spend a free action to discharge the effect to inflict agony on the creature the weapon hit. If that creature has spell resistance, it applies against this effect. If the creature fails a Will save, it is nauseated for 1d4+1 rounds. If it succeeds at the saving throw, the creature is instead sickened for 1 round. The sickened condition created by the instrument is a mind-affecting effect.
+You cause a weapon to exude a palpable aura of divine fury. While wielding this weapon, a creature gains a +2 morale bonus on [Intimidate](skill_dir/intimidate#_intimidate checks. When an attack made using the targeted weapon hits, the wielder can spend a free action to discharge the effect to inflict agony on the creature the weapon hit. If that creature has spell resistance, it applies against this effect. If the creature fails a Will save, it is nauseated for 1d4+1 rounds. If it succeeds at the saving throw, the creature is instead sickened for 1 round. The sickened condition created by the instrument is a mind-affecting effect.
 

@@ -1,9 +1,9 @@
 ---
-title: spells/charmAnimal
+title: spell_dir/charmAnimal
 ---
  **Charm Animal**
 
-**School** enchantment (charm) [mind-affecting]; **Level** druid 1, ranger 1
+**School** enchantment (charm [mind-affecting]; **Level** druid 1, ranger 1
 
 **Target** one animal
 

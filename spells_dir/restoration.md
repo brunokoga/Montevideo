@@ -1,5 +1,5 @@
 ---
-title: spells/restoration
+title: spell_dir/restoration
 ---
  **Restoration**
 
@@ -7,7 +7,7 @@ title: spells/restoration
 
 **Casting Time** 3 rounds
 
-**Components** V, S, M (diamond dust worth 100 gp or 1,000 gp, see text)
+**Components** V, S, M (diamond dust worth 100 gp or 1,000 gp, see text
 
 **Range** touch
 

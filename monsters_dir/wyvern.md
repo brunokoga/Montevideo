@@ -1,5 +1,5 @@
 ---
-title: monsters/wyvern
+title: monster_dir/wyvern
 ---
 # Wyvern
 
@@ -11,7 +11,7 @@ _A dark blue dragon, its wings immense and its tail tipped with a hooked stinger
 
 N Large [dragon](creatureTypes#_dragon)
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +18
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +18
 
 **Defense**
 
@@ -39,9 +39,9 @@ N Large [dragon](creatureTypes#_dragon)
 
 **Base Atk** +7; **CMB** +12 (+16 grapple); **CMD** 23
 
-**Feats** [Flyby Attack](monsterFeats#_flyby-attack), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Flyby Attack](monsterFeats#_flyby-attack, [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
 
-**Skills** [Fly](../skills/fly#_fly) +5, [Perception](../skills/perception#_perception) +18, [Sense Motive](../skills/senseMotive#_sense-motive) +11, [Stealth](../skills/stealth#_stealth) +7; **Racial Modifier** +4 [Perception](../skills/perception#_perception)
+**Skills** [Fly](../skill_dir/fly#_fly +5, [Perception](../skill_dir/perception#_perception +18, [Sense Motive](../skill_dir/senseMotive#_sense-motive +11, [Stealth](../skill_dir/stealth#_stealth +7; **Racial Modifier** +4 [Perception](../skill_dir/perception#_perception)
 
 **Languages** Draconic
 
@@ -55,7 +55,7 @@ N Large [dragon](creatureTypes#_dragon)
 
 **Special Abilities**
 
-**Poison (Ex)** Sting—injury; _save_ DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Constitution damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**Poison (Ex** Sting—injury; _save_ DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Constitution damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 Wyverns are nasty, brutish, and violent reptilian beasts akin to more powerful dragons. They are always aggressive and impatient, and are quick to resort to force in order to accomplish their goals. For this reason, dragons generally look down upon wyverns, considering their distant cousins nothing more than primitive savages with a distinct lack of style or wit. In most cases, this generalization is spot-on. Although far from animalistic in intellect, and capable of speech, most wyverns simply can't be bothered with the subtlety of diplomacy, and prefer to fight first and parley later, and even then only if faced with a foe they can neither defeat nor flee from.
 

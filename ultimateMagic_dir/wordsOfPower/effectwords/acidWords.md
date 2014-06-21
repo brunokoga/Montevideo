@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/wordsOfPower/effectwords/acidWords
+title: ultimateMagic/wordsOfPower/effectword_dir/acidWords
 ---
 ## Acid Words
 
@@ -7,7 +7,7 @@ These words create caustic acid that scorches and burns all that it comes in con
 
 Acid Burn (Acid)
 
-**School** conjuration (creation) [acid]; **Level** druid 0, inquisitor 0, magus 0, sorcerer/wizard 0, summoner 0
+**School** conjuration (creation [acid]; **Level** druid 0, inquisitor 0, magus 0, sorcere_dir/wizard 0, summoner 0
 
 **Duration** instantaneous
 
@@ -17,9 +17,9 @@ A wordspell with this effect word deals 1d3 points of acid damage. If the wordsp
 
 Corrosive Bolt (Acid)
 
-**School** conjuration (creation) [acid]; **Level** magus 2, sorcerer/wizard 2
+**School** conjuration (creation [acid]; **Level** magus 2, sorcerer/wizard 2
 
-**Duration** 1 round/level (see text)
+**Duration** 1 roun_dir/level (see text)
 
 **Saving Throw** none; **Spell Resistance** no
 
@@ -29,7 +29,7 @@ A wordspell with this effect word deals 1d4 points of acid damage per level of t
 
 Acid Wave (Acid)
 
-**School** conjuration (creation) [acid]; **Level** magus 4, sorcerer/wizard 4
+**School** conjuration (creation [acid]; **Level** magus 4, sorcere_dir/wizard 4
 
 **Duration** 2 rounds
 
@@ -39,13 +39,13 @@ A wordspell with this effect word deals 1d6 points of acid damage per caster lev
 
 Caustic Cloud (Acid)
 
-**School** conjuration (creation) [acid]; **Level** sorcerer/wizard 7, witch 6
+**School** conjuration (creation [acid]; **Level** sorcerer/wizard 7, witch 6
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Fortitude half; **Spell Resistance** no
 
 **Target Restrictions** _burst_
 
-A wordspell with this effect word creates a cloud of noxious green vapor that obscures vision. Creatures caught in the cloud take 1d6 points of acid damage per caster level (maximum 20d6) and are fatigued. Creatures caught in the cloud receive a Fortitude save to halve the damage and to negate the fatigued effect. Creatures that remain in the cloud take a cumulative –2 penalty on the save each round they remain in the cloud, but spending just 1 round outside the cloud's area resets this penalty. Creatures in the cloud that are fatigued become exhausted on a failed saving throw. A strong wind, such as that created by a _ [gust of wind](spells/gustOfWind#_gust-of-wind)_, disperses this cloud immediately.
+A wordspell with this effect word creates a cloud of noxious green vapor that obscures vision. Creatures caught in the cloud take 1d6 points of acid damage per caster level (maximum 20d6 and are fatigued. Creatures caught in the cloud receive a Fortitude save to halve the damage and to negate the fatigued effect. Creatures that remain in the cloud take a cumulative –2 penalty on the save each round they remain in the cloud, but spending just 1 round outside the cloud's area resets this penalty. Creatures in the cloud that are fatigued become exhausted on a failed saving throw. A strong wind, such as that created by a _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind_, disperses this cloud immediately.
 

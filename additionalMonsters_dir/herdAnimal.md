@@ -9,9 +9,9 @@ This somewhat irritated-looking, one-humped camel has been outfitted with a brid
 
 **XP 400**
 
-N Large [animal](monsters/creatureTypes#_animal)
+N Large [animal](monster_dir/creatureTypes#_animal
 
-**Init** +3; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +5
+**Init** +3; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
 
 Defense
 
@@ -33,11 +33,11 @@ Statistics
 
 **Str** 18, **Dex** 16, **Con** 14, **Int** 2, **Wis** 11, **Cha** 4
 
-**Base Atk** +1; **CMB** +6; **CMD** 19 (23 vs. trip)
+**Base Atk** +1; **CMB** +6; **CMD** 19 (23 vs. trip
 
 **Feats** [Endurance](additionalMonsters/../feats#_endurance)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +5
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
 
 Ecology
 
@@ -49,7 +49,7 @@ Ecology
 
 Special Abilities
 
-**Spit (Ex)** Once per hour, a camel can regurgitate the contents of its stomach, spitting the foul material at a single target within 10 feet. The target must make a DC 13 Fortitude save or be sickened for 1d4 rounds. The save DC is Constitution-based.
+**Spit (Ex** Once per hour, a camel can regurgitate the contents of its stomach, spitting the foul material at a single target within 10 feet. The target must make a DC 13 Fortitude save or be sickened for 1d4 rounds. The save DC is Constitution-based.
 
 Camels are large, desert-dwelling herd animals noted for their stamina and ill tempers. A typical camel stands about 6 feet at the shoulder and 7 feet at the hump.
 
@@ -61,9 +61,9 @@ A formidable pair of heavy horns curls from the forehead of this sturdy, brown-a
 
 **XP 400**
 
-N Medium [animal](monsters/creatureTypes#_animal)
+N Medium [animal](monster_dir/creatureTypes#_animal
 
-**Init** +2; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +6
+**Init** +2; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +6
 
 Defense
 
@@ -77,19 +77,19 @@ Offense
 
 **Speed** 40 ft.
 
-**Melee** gore +3 (1d4+3)
+**Melee** gore +3 (1d4+3
 
-**Special Attacks** [powerful charge](monsters/universalMonsterRules#_powerful-charge) (gore, 1d8+3)
+**Special Attacks** [powerful charge](monster_dir/universalMonsterRules#_powerful-charge) (gore, 1d8+3)
 
 Statistics
 
 **Str** 14, **Dex** 15, **Con** 13, **Int** 2, **Wis** 14, **Cha** 7
 
-**Base Atk** +1; **CMB** +3; **CMD** 15 (19 vs. trip)
+**Base Atk** +1; **CMB** +3; **CMD** 15 (19 vs. trip
 
-**Feats** [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush)B, [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics))
+**Feats** [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush)B, [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics)
 
-**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +13 (+17 jump), [Perception](additionalMonsters/../skills/perception#_perception) +6; **Racial Modifiers** +4 [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics)
+**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics) +13 (+17 jump, [Perception](additionalMonsters/../skill_dir/perception#_perception +6; **Racial Modifiers** +4 [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics)
 
 Ecology
 
@@ -107,5 +107,5 @@ A typical ram stands about 3 feet tall, is 5 feet long, and weighs up to 300 pou
 
 **Starting Statistics** : **Size** Small; **Speed** 40 ft.; **AC** +1 natural; **Attack** gore (1d3); **Ability Scores** Str 10, Dex 17, Con 11, Int 2, Wis 14, Cha 7; **Special Qualities** low-light vision, scent.
 
-**4th-Level Advancement** : **Size** Medium; **Attack** gore (1d4); **Ability Scores** Str +4, Dex –2, Con +2; **Special Attacks** powerful charge (1d8); **Bonus Feat** [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush).
+**4th-Level Advancement** : **Size** Medium; **Attack** gore (1d4); **Ability Scores** Str +4, Dex –2, Con +2; **Special Attacks** powerful charge (1d8; **Bonus Feat** [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush).
 

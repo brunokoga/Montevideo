@@ -1,13 +1,13 @@
 ---
-title: spells/mageSFaithfulHound
+title: spell_dir/mageSFaithfulHound
 ---
  **Mage's Faithful Hound**
 
-**School** conjuration (creation); **Level** sorcerer/wizard 5
+**School** conjuration (creation; **Level** sorcere_dir/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a tiny silver whistle, a piece of bone, and a thread)
+**Components** V, S, M (a tiny silver whistle, a piece of bone, and a thread
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

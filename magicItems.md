@@ -1,11 +1,11 @@
 ---
 title: magicItems
 ---
-[Armor](magicItems_dir/armor) [Weapons](magicItems_dir/weapons) [Potions](magicItems_dir/potions) [Rings](magicItems_dir/rings) [Rods](magicItems_dir/rods) [Scrolls](magicItems_dir/scrolls) [Staves](magicItems_dir/staves) [Wands](magicItems_dir/wands) [Wondrous Items](magicItems_dir/wondrousItems) [Intelligent Items](magicItems_dir/intelligentItems) [Cursed Items](magicItems_dir/cursedItems) [Specific Cursed Items](magicItems_dir/specificCursedItems) [Artifacts](magicItems_dir/artifacts) [Magic Item Creation](magicItems_dir/magicItemCreation)
+[Armor](magicItem_dir/armor [Weapons](magicItem_dir/weapons [Potions](magicItem_dir/potions [Rings](magicItem_dir/rings [Rods](magicItem_dir/rods [Scrolls](magicItem_dir/scrolls [Staves](magicItem_dir/staves [Wands](magicItem_dir/wands [Wondrous Items](magicItem_dir/wondrousItems [Intelligent Items](magicItem_dir/intelligentItems [Cursed Items](magicItem_dir/cursedItems [Specific Cursed Items](magicItem_dir/specificCursedItems [Artifacts](magicItem_dir/artifacts [Magic Item Creation](magicItem_dir/magicItemCreation
 
 ## Magic Items and Detect Magic
 
-When _ [detect magic](spells/detectMagic#_detect-magic) _identifies a magic item's school of magic, this information refers to the school of the spell placed within the potion, scroll, or wand, or the prerequisite given for the item. The description of each item provides its aura strength and the school to which it belongs.
+When _ [detect magic](spell_dir/detectMagic#_detect-magic _identifies a magic item's school of magic, this information refers to the school of the spell placed within the potion, scroll, or wand, or the prerequisite given for the item. The description of each item provides its aura strength and the school to which it belongs.
 
 If more than one spell is given as a prerequisite, use the highest-level spell. If no spells are included in the prerequisites, use the following default guidelines.
 
@@ -20,15 +20,15 @@ If more than one spell is given as a prerequisite, use the highest-level spell. 
 [Table: Random Magic Item Generation]
 | Minor | Medium | Major | Item |
 | --- | --- | --- | --- |
-| 01–04 | 01–10 | 01–10 | [Armor and shields](magicItems_dir/armor#_armor) |
-| 05–09 | 11–20 | 11–20 | [Weapons](magicItems_dir/weapons#_weapons) |
-| 10–44 | 21–30 | 21–25 | [Potions](magicItems_dir/potions#_potions) |
-| 45–46 | 31–40 | 26–35 | [Rings](magicItems_dir/rings#_rings) |
-| — | 41–50 | 36–45 | [Rods](magicItems_dir/rods#_rods) |
-| 47–81 | 51–65 | 46–55 | [Scrolls](magicItems_dir/scrolls#_scrolls) |
-| — | 66–68 | 56–75 | [Staves](magicItems_dir/staves#_staves) |
-| 82–91 | 69–83 | 76–80 | [Wands](magicItems_dir/wands#_wands) |
-| 92–100 | 84–100 | 81–100 | [Wondrous items](magicItems_dir/wondrousItems#_wondrous-items) |
+| 01–04 | 01–10 | 01–10 | [Armor and shields](magicItem_dir/armor#_armor |
+| 05–09 | 11–20 | 11–20 | [Weapons](magicItem_dir/weapons#_weapons |
+| 10–44 | 21–30 | 21–25 | [Potions](magicItem_dir/potions#_potions |
+| 45–46 | 31–40 | 26–35 | [Rings](magicItem_dir/rings#_rings |
+| — | 41–50 | 36–45 | [Rods](magicItem_dir/rods#_rods |
+| 47–81 | 51–65 | 46–55 | [Scrolls](magicItem_dir/scrolls#_scrolls |
+| — | 66–68 | 56–75 | [Staves](magicItem_dir/staves#_staves |
+| 82–91 | 69–83 | 76–80 | [Wands](magicItem_dir/wands#_wands |
+| 92–100 | 84–100 | 81–100 | [Wondrous items](magicItem_dir/wondrousItems#_wondrous-items) |
 
 To use a magic item, it must be activated, although sometimes activation simply means putting a ring on your finger. Some items, once donned, function constantly. In most cases, though, using an item requires a standard action that does not provoke attacks of opportunity. By contrast, spell completion items are treated like spells in combat and do provoke attacks of opportunity.
 
@@ -36,7 +36,7 @@ Activating a magic item is a standard action unless the item description indicat
 
 The four ways to activate magic items are described below.
 
-**Spell Completion** : This is the activation method for scrolls. A scroll is a spell that is mostly finished. The preparation is done for the caster, so no preparation time is needed beforehand as with normal spellcasting. All that's left to do is perform the finishing parts of the spellcasting (the final gestures, words, and so on). To use a spell completion item safely, a character must be of high enough level in the right class to cast the spell already. If he can't already cast the spell, there's a chance he'll make a mistake. Activating a spell completion item is a standard action (or the spell's casting time, whichever is longer) and provokes attacks of opportunity exactly as casting a spell does.
+**Spell Completion** : This is the activation method for scrolls. A scroll is a spell that is mostly finished. The preparation is done for the caster, so no preparation time is needed beforehand as with normal spellcasting. All that's left to do is perform the finishing parts of the spellcasting (the final gestures, words, and so on). To use a spell completion item safely, a character must be of high enough level in the right class to cast the spell already. If he can't already cast the spell, there's a chance he'll make a mistake. Activating a spell completion item is a standard action (or the spell's casting time, whichever is longer and provokes attacks of opportunity exactly as casting a spell does.
 
 **Spell Trigger** : Spell trigger activation is similar to spell completion, but it's even simpler. No gestures or spell finishing is needed, just a special knowledge of spellcasting that an appropriate character would know, and a single word that must be spoken. Spell trigger items can be used by anyone whose class can cast the corresponding spell. This is the case even for a character who can't actually cast spells, such as a 3rd-level paladin. The user must still determine what spell is stored in the item before she can activate it. Activating a spell trigger item is a standard action and does not provoke attacks of opportunity.
 
@@ -46,7 +46,7 @@ A command word can be a real word, but when this is the case, the holder of the 
 
 Sometimes the command word to activate an item is written right on the item. Occasionally, it might be hidden within a pattern or design engraved on, carved into, or built into the item, or the item might bear a clue to the command word.
 
-The [Knowledge](skills/knowledge#_knowledge) (arcana) and [Knowledge](skills/knowledge#_knowledge) (history) skills might be useful in helping to identify command words or deciphering clues regarding them. A successful check against DC 30 is needed to come up with the word itself. If that check is failed, succeeding on a second check (DC 25) might provide some insight into a clue. The spells _ [detect magic](spells/detectMagic#_detect-magic), [identify](spells/identify#_identify), _and _ [analyze dweomer](spells/analyzeDweomer#_analyze-dweomer) _all reveal command words if the properties of the item are successfully identified.
+The [Knowledge](skill_dir/knowledge#_knowledge) (arcana and [Knowledge](skill_dir/knowledge#_knowledge) (history) skills might be useful in helping to identify command words or deciphering clues regarding them. A successful check against DC 30 is needed to come up with the word itself. If that check is failed, succeeding on a second check (DC 25 might provide some insight into a clue. The spells _ [detect magic](spell_dir/detectMagic#_detect-magic, [identify](spell_dir/identify#_identify, _and _ [analyze dweomer](spell_dir/analyzeDweomer#_analyze-dweomer) _all reveal command words if the properties of the item are successfully identified.
 
 **Use Activated** : This type of item simply has to be used in order to activate it. A character has to drink a potion, swing a sword, interpose a shield to deflect a blow in combat, look through a lens, sprinkle dust, wear a ring, or don a hat. Use activation is generally straightforward and self-explanatory.
 
@@ -112,13 +112,13 @@ Most item descriptions give saving throw DCs for various effects, particularly w
 
 # Damaging Magic Items
 
-A magic item doesn't need to make a saving throw unless it is unattended, it is specifically targeted by the effect, or its wielder rolls a natural 1 on his save. Magic items should always get a saving throw against spells that might deal damage to them—even against attacks from which a nonmagical item would normally get no chance to save. Magic items use the same saving throw bonus for all saves, no matter what the type ( [Fortitude](combat#_fortitude), [Reflex](combat#_reflex), or [Will](combat#_will)). A magic item's saving throw bonus equals 2 + 1/2 its caster level (rounded down). The only exceptions to this are intelligent magic items, which make [Will](combat#_will) saves based on their own [Wisdom](gettingStarted#_wisdom) scores.
+A magic item doesn't need to make a saving throw unless it is unattended, it is specifically targeted by the effect, or its wielder rolls a natural 1 on his save. Magic items should always get a saving throw against spells that might deal damage to them—even against attacks from which a nonmagical item would normally get no chance to save. Magic items use the same saving throw bonus for all saves, no matter what the type ( [Fortitude](combat#_fortitude), [Reflex](combat#_reflex), or [Will](combat#_will). A magic item's saving throw bonus equals 2 + 1/2 its caster level (rounded down). The only exceptions to this are intelligent magic items, which make [Will](combat#_will) saves based on their own [Wisdom](gettingStarted#_wisdom) scores.
 
 Magic items, unless otherwise noted, take damage as nonmagical items of the same sort. A damaged magic item continues to function, but if it is destroyed, all its magical power is lost. Magic items that take damage in excess of half their total hit points, but not more than their total hit points, gain the [broken](glossary#_broken) condition, and might not function properly.
 
 ## Repairing Magic Items
 
-Repairing a magic item requires material components equal to half the cost to create the item, and requires half the time. The _ [make whole](spells/makeWhole#_make-whole) _spell can also repair a damaged (or even a destroyed) magic items—if the caster is high enough level.
+Repairing a magic item requires material components equal to half the cost to create the item, and requires half the time. The _ [make whole](spell_dir/makeWhole#_make-whole) _spell can also repair a damaged (or even a destroyed) magic items—if the caster is high enough level.
 
 ## Charges, Doses, and Multiple Uses
 
@@ -158,13 +158,13 @@ Each general type of magic item gets an overall description, followed by descrip
 
 General descriptions include notes on activation, random generation, and other material. The [AC](combat#_armor-class), hardness, hit points, and break DC are given for typical examples of some magic items. The [AC](combat#_armor-class) assumes that the item is unattended and includes a –5 penalty for the item's effective [Dexterity](gettingStarted#_dexterity) of 0. If a creature holds the item, use the creature's [Dexterity](gettingStarted#_dexterity) modifier in place of the –5 penalty.
 
-Some individual items, notably those that just store spells, don't get full-blown descriptions. Reference the spell's description for details, modified by the form of the item (potion, scroll, wand, and so on). Assume that the spell is cast at the minimum level required to cast it.
+Some individual items, notably those that just store spells, don't get full-blown descriptions. Reference the spell's description for details, modified by the form of the item (potion, scroll, wand, and so on. Assume that the spell is cast at the minimum level required to cast it.
 
 Items with full descriptions have their powers detailed, and each of the following topics is covered in notational form as part of its entry.
 
-**Aura** : Most of the time, a _ [detect magic](spells/detectMagic#_detect-magic) _spell reveals the school of magic associated with a magic item and the strength of the aura an item emits. This information (when applicable) is given at the beginning of the item's notational entry. See the _ [detect magic](spells/detectMagic#_detect-magic) _spell description for details.
+**Aura** : Most of the time, a _ [detect magic](spell_dir/detectMagic#_detect-magic) _spell reveals the school of magic associated with a magic item and the strength of the aura an item emits. This information (when applicable is given at the beginning of the item's notational entry. See the _ [detect magic](spell_dir/detectMagic#_detect-magic) _spell description for details.
 
-**Caster Level (CL)** : The next item in a notational entry gives the caster level of the item, indicating its relative power. The caster level determines the item's saving throw bonus, as well as range or other level-dependent aspects of the powers of the item (if variable). It also determines the level that must be contended with should the item come under the effect of a _ [dispel magic](spells/dispelMagic#_dispel-magic) _spell or similar situation.
+**Caster Level (CL)** : The next item in a notational entry gives the caster level of the item, indicating its relative power. The caster level determines the item's saving throw bonus, as well as range or other level-dependent aspects of the powers of the item (if variable. It also determines the level that must be contended with should the item come under the effect of a _ [dispel magic](spell_dir/dispelMagic#_dispel-magic) _spell or similar situation.
 
 For potions, scrolls, and wands, the creator can set the caster level of an item at any number high enough to cast the stored spell but not higher than her own caster level. For other magic items, the caster level is determined by the item itself.
 
@@ -180,7 +180,7 @@ For potions, scrolls, and wands, the creator can set the caster level of an item
 
 **Requirements** : Certain requirements must be met in order for a character to create a magic item. These include feats, spells, and miscellaneous requirements such as level, alignment, and race or kind.
 
-A spell prerequisite may be provided by a character who has prepared the spell (or who knows the spell, in the case of a sorcerer or bard), or through the use of a spell completion or spell trigger magic item or a spell-like ability that produces the desired spell effect. For each day that passes in the creation process, the creator must expend one spell completion item or one charge from a spell trigger item if either of those objects is used to supply a prerequisite.
+A spell prerequisite may be provided by a character who has prepared the spell (or who knows the spell, in the case of a sorcerer or bard, or through the use of a spell completion or spell trigger magic item or a spell-like ability that produces the desired spell effect. For each day that passes in the creation process, the creator must expend one spell completion item or one charge from a spell trigger item if either of those objects is used to supply a prerequisite.
 
 It is possible for more than one character to cooperate in the creation of an item, with each participant providing one or more of the prerequisites. In some cases, cooperation may even be necessary.
 

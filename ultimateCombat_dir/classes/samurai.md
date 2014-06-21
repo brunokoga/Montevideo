@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/classes/samurai
+title: ultimateCombat/classe_dir/samurai
 ---
 # Samurai
 
-Few warriors are more dedicated to honor and the code of the warrior than the samurai. Trained from an early age in the art of war and sworn to the service of a lord, the samurai holds a position of power and respect in many lands, often serving as the voice and justice of the local noble. The samurai takes on his training with zeal, learning the way of the blade (typically a katana), the bow, and the horse. Some even learn how to effectively use firearms, if they are available. The samurai is often the most trusted soldier in his lord's employ. In him, the common folk see honor and sacrifice. He is an honorable warrior, dedicated to the realm and the leaders that guide it.
+Few warriors are more dedicated to honor and the code of the warrior than the samurai. Trained from an early age in the art of war and sworn to the service of a lord, the samurai holds a position of power and respect in many lands, often serving as the voice and justice of the local noble. The samurai takes on his training with zeal, learning the way of the blade (typically a katana, the bow, and the horse. Some even learn how to effectively use firearms, if they are available. The samurai is often the most trusted soldier in his lord's employ. In him, the common folk see honor and sacrifice. He is an honorable warrior, dedicated to the realm and the leaders that guide it.
 
 **Role** : While typically sworn to the service of a lord, a samurai is usually given free reign as to how he performs that service. As such, samurai can sometimes be found with other adventurers, taking the fight to the enemies of their masters. Other samurai become ronin, striving to serve an ideal without paying fealty to a lord. In either case, samurai make powerful allies, capable of withstanding nearly any harm while dispatching their foes with deadly precision. The samurai is an alternate class for the cavalier base class.
 
@@ -46,7 +46,7 @@ The following table lists the starting gold piece value for the new classes pres
 | 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Challenge 7/day |
 | 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Last stand |
 
-The samurai's class skills are [Bluff](skills/bluff#_bluff) (Cha), [Climb](skills/climb#_climb) (Str), [Craft](skills/craft#_craft) (Int), [Diplomacy](skills/diplomacy#_diplomacy) (Cha), [Handle Animal](skills/handleAnimal#_handle-animal) (Cha), [Intimidate](skills/intimidate#_intimidate) (Cha), [Profession](skills/profession#_profession) (Wis), [Ride](skills/ride#_ride) (Dex), [Sense Motive](skills/senseMotive#_sense-motive) (Wis), and [Swim](skills/swim#_swim) (Str).
+The samurai's class skills are [Bluff](skill_dir/bluff#_bluff) (Cha, [Climb](skill_dir/climb#_climb) (Str, [Craft](skill_dir/craft#_craft) (Int, [Diplomacy](skill_dir/diplomacy#_diplomacy) (Cha, [Handle Animal](skill_dir/handleAnimal#_handle-animal) (Cha, [Intimidate](skill_dir/intimidate#_intimidate) (Cha, [Profession](skill_dir/profession#_profession) (Wis, [Ride](skill_dir/ride#_ride) (Dex, [Sense Motive](skill_dir/senseMotive#_sense-motive) (Wis, and [Swim](skill_dir/swim#_swim) (Str).
 
 **Skill Ranks per Level** : 4 + Int modifier.
 
@@ -62,9 +62,9 @@ Challenging a foe requires much of the samurai's concentration. The samurai take
 
 The challenge remains in effect until the target is dead or unconscious, or until the combat ends. Each samurai's challenge also includes another effect, which is listed in the section describing the samurai's order.
 
-**Mount (Ex)** : A samurai gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid's animal companion, using the samurai's level as his effective druid level. The creature must be one that he is capable of riding and that is suitable as a mount. A Medium samurai can select a camel or a horse. A Small samurai can select a pony or a wolf, but can also select a boar or a dog if he is at least 4th level. The GM may approve other animals as suitable mounts.
+**Mount (Ex** : A samurai gains the service of a loyal and trusty steed to carry him into battle. This mount functions as a druid's animal companion, using the samurai's level as his effective druid level. The creature must be one that he is capable of riding and that is suitable as a mount. A Medium samurai can select a camel or a horse. A Small samurai can select a pony or a wolf, but can also select a boar or a dog if he is at least 4th level. The GM may approve other animals as suitable mounts.
 
-A samurai does not take an armor check penalty on [Ride](skills/ride#_ride) checks while riding his mount. The mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat. A samurai's mount does not gain the share spells special ability.
+A samurai does not take an armor check penalty on [Ride](skill_dir/ride#_ride) checks while riding his mount. The mount is always considered combat trained and begins play with Light Armor Proficiency as a bonus feat. A samurai's mount does not gain the share spells special ability.
 
 A samurai's bond with his mount is strong, with the pair learning to anticipate each other's moods and moves. Should a samurai's mount die, the samurai may find another mount to serve him after 1 week of mourning. The new mount does not gain the link, evasion, devotion, or improved evasion special abilities until the next time the samurai gains a level.
 
@@ -109,7 +109,7 @@ _Unstoppable_: When the samurai is reduced to fewer than 0 hit points but not sl
 
 **True Resolve (Ex)** : At 17th level, a samurai can spend uses of his resolve to avoid death. If he has at least two uses of his resolve remaining, he can spend all of the daily uses of his resolve that he has available to him to avoid death. Regardless of the source of the attack that would have killed him, he is left alive, at –1 hit points (or lower if he was already below –1), unconscious, and stable.
 
-**Last Stand (Ex)** : At 20th level, a samurai can make a last stand once per day whenever he makes a challenge. While this challenge is in effect, all melee and ranged weapons deal the minimum amount of damage to the samurai, unless the attack scored is a critical hit. In addition, the samurai remains conscious and is not staggered while he is below 0 hit points. While using this ability, the samurai cannot be killed by melee or ranged weapons unless they are wielded by the target of his challenge. Attacks made by opponents that are not the target of his challenge deal no damage when samurai has 0 or fewer hit points. This ability has no effect on spells, environmental effects, supernatural abilities, or any other source of damage other than melee and ranged weapons. Such sources of damage affect him normally and can kill him (although they do not cause him to fall unconscious or to become staggered if they reduce his hit points below 0). This effect lasts until the challenge ends or the samurai takes an offensive action against a target other than the target of his challenge.
+**Last Stand (Ex)** : At 20th level, a samurai can make a last stand once per day whenever he makes a challenge. While this challenge is in effect, all melee and ranged weapons deal the minimum amount of damage to the samurai, unless the attack scored is a critical hit. In addition, the samurai remains conscious and is not staggered while he is below 0 hit points. While using this ability, the samurai cannot be killed by melee or ranged weapons unless they are wielded by the target of his challenge. Attacks made by opponents that are not the target of his challenge deal no damage when samurai has 0 or fewer hit points. This ability has no effect on spells, environmental effects, supernatural abilities, or any other source of damage other than melee and ranged weapons. Such sources of damage affect him normally and can kill him (although they do not cause him to fall unconscious or to become staggered if they reduce his hit points below 0. This effect lasts until the challenge ends or the samurai takes an offensive action against a target other than the target of his challenge.
 
 # Samurai Orders
 
@@ -129,7 +129,7 @@ Most samurai swear themselves to the code of the warrior, which emphasizes duty,
   
   
 
-**Skills** : An order of the warrior samurai adds [Knowledge](skills/knowledge#_knowledge) (history) (Int) and [Knowledge](skills/knowledge#_knowledge) (nobility) (Int) to his list of class skills. An order of the warrior samurai can make [Knowledge](skills/knowledge#_knowledge) (nobility) checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his samurai level (minimum +1) as long as the check involves the nobles or politics of his land.
+**Skills** : An order of the warrior samurai adds [Knowledge](skill_dir/knowledge#_knowledge) (history) (Int and [Knowledge](skill_dir/knowledge#_knowledge) (nobility) (Int to his list of class skills. An order of the warrior samurai can make [Knowledge](skill_dir/knowledge#_knowledge) (nobility checks untrained. If he has ranks in the skill, he receives a bonus on the check equal to 1/2 his samurai level (minimum +1) as long as the check involves the nobles or politics of his land.
 
   
   
@@ -161,7 +161,7 @@ While most samurai belong to the order of the warrior, dedicating their consider
   
   
 
-**Skills** : A ronin adds [Knowledge](skills/knowledge#_knowledge) (local) (Int) and [Survival](skills/survival#_survival) (Wis) to his list of class skills.
+**Skills** : A ronin adds [Knowledge](skill_dir/knowledge#_knowledge) (local) (Int and [Survival](skill_dir/survival#_survival) (Wis) to his list of class skills.
 
   
   
@@ -176,4 +176,4 @@ While most samurai belong to the order of the warrior, dedicating their consider
 > 
 >   
 > 
-> _Chosen Destiny (Ex)_: At 15th level, the ronin is the master of his own destiny. Whenever the ronin makes a saving throw against a charm or compulsion effect, he may roll twice and take the better result. In addition, once per day, the ronin can treat any one d20 roll as if the result were a natural 20. He must declare the use of this ability before the roll is made.
+> _Chosen Destiny (Ex_: At 15th level, the ronin is the master of his own destiny. Whenever the ronin makes a saving throw against a charm or compulsion effect, he may roll twice and take the better result. In addition, once per day, the ronin can treat any one d20 roll as if the result were a natural 20. He must declare the use of this ability before the roll is made.

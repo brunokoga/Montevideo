@@ -1,9 +1,9 @@
 ---
-title: spells/obscuringMist
+title: spell_dir/obscuringMist
 ---
  **Obscuring Mist**
 
-**School** conjuration (creation); **Level** cleric 1, druid 1, sorcerer/wizard 1
+**School** conjuration (creation; **Level** cleric 1, druid 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 

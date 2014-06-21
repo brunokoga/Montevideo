@@ -11,7 +11,7 @@ _This streamlined, fish-like mammal has sparkling eyes over a smiling mouth fill
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** [blindsight](universalMonsterRules#_blindsight) 120 ft., low-light vision; [Perception](../skills/perception#_perception) +9
+**Init** +2; **Senses** [blindsight](universalMonsterRules#_blindsight) 120 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +9
 
 **Defense**
 
@@ -25,7 +25,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Speed** swim 80 ft.
 
-**Melee** slam +3 (1d4+1)
+**Melee** slam +3 (1d4+1
 
 **Statistics**
 
@@ -35,7 +35,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Perception](../skills/perception#_perception) +9, [Swim](../skills/swim#_swim) +13; **Racial Modifiers** +4 [Perception](../skills/perception#_perception)
+**Skills** [Perception](../skill_dir/perception#_perception +9, [Swim](../skill_dir/swim#_swim +13; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception)
 
 **SQ** hold breath
 
@@ -69,7 +69,7 @@ _This sleek black whale has a distinctive white patch near each eye and a mouth 
 
 N Huge [animal](creatureTypes#_animal)
 
-**Init** +6; **Senses** [blindsight](universalMonsterRules#_blindsight) 120 ft., low-light vision; [Perception](../skills/perception#_perception) +19
+**Init** +6; **Senses** [blindsight](universalMonsterRules#_blindsight 120 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +19
 
 **Defense**
 
@@ -83,7 +83,7 @@ N Huge [animal](creatureTypes#_animal)
 
 **Speed** swim 80 ft.
 
-**Melee** bite +13 (2d6+12)
+**Melee** bite +13 (2d6+12
 
 **Space** 15 ft.; **Reach** 10 ft.
 
@@ -93,9 +93,9 @@ N Huge [animal](creatureTypes#_animal)
 
 **Base**  **Atk** +6; **CMB** +16; **CMD** 28
 
-**Feats** [Endurance](../feats#_endurance), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception), [Swim](../skills/swim#_swim)), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Endurance](../feats#_endurance), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception, [Swim](../skill_dir/swim#_swim), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Perception](../skills/perception#_perception) +19, [Swim](../skills/swim#_swim) +28; **Racial Modifiers** +8 [Perception](../skills/perception#_perception)
+**Skills** [Perception](../skill_dir/perception#_perception +19, [Swim](../skill_dir/swim#_swim +28; **Racial Modifiers** +8 [Perception](../skill_dir/perception#_perception)
 
 **SQ** hold breath (as dolphin)
 
@@ -113,5 +113,5 @@ The orca, or “killer whale,” is actually the largest species of dolphin. Adu
 
 **Starting Statistics** : **Size** Medium; **Speed** swim 80 ft.; **AC** +1 natural armor; **Attack** bite (1d6); **Ability Scores** Str 11, Dex 19, Con 10, Int 2, Wis 14, Cha 6; **Special Qualities** low-light vision, hold breath.
 
-**7th-Level Advancement** : **Size** Large; **AC** +2 natural armor; **Attack** bite (1d8); **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** blindsight 120 ft.
+**7th-Level Advancement** : **Size** Large; **AC** +2 natural armor; **Attack** bite (1d8; **Ability Scores** Str +8, Dex –2, Con +4; **Special Qualities** blindsight 120 ft.
 

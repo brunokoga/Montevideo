@@ -1,5 +1,5 @@
 ---
-title: monsters/wraith
+title: monster_dir/wraith
 ---
 # Wraith
 
@@ -9,9 +9,9 @@ _This ghostly creature is little more than a dark shape with two flickering pinp
 
 **XP 1,600**
 
-LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorporeal-subtype))
+LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorporeal-subtype)
 
-**Init** +7; **Senses** darkvision 60 ft., lifesense; [Perception](../skills/perception#_perception) +10
+**Init** +7; **Senses** darkvision 60 ft., lifesense; [Perception](../skill_dir/perception#_perception) +10
 
 **Aura** unnatural aura (30 ft.)
 
@@ -31,7 +31,7 @@ LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorpo
 
 **Speed** fly 60 ft. (good)
 
-**Melee** incorporeal touch +6 (1d6 negative energy plus 1d6 Con [drain](universalMonsterRules#_ability-damage-and-drain))
+**Melee** incorporeal touch +6 (1d6 negative energy plus 1d6 Con [drain](universalMonsterRules#_ability-damage-and-drain)
 
 **Special Attack** create spawn
 
@@ -43,7 +43,7 @@ LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorpo
 
 **Feats** [Blind-Fight](../feats#_blind-fight), [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative)
 
-**Skills** [Diplomacy](../skills/diplomacy#_diplomacy) +10, [Fly](../skills/fly#_fly) +7, [Intimidate](../skills/intimidate#_intimidate) +13, [Knowledge](../skills/knowledge#_knowledge) (planes) +7, [Perception](../skills/perception#_perception) +10, [Sense Motive](../skills/senseMotive#_sense-motive) +10, [Stealth](../skills/stealth#_stealth) +11
+**Skills** [Diplomacy](../skill_dir/diplomacy#_diplomacy +10, [Fly](../skill_dir/fly#_fly +7, [Intimidate](../skill_dir/intimidate#_intimidate +13, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +7, [Perception](../skill_dir/perception#_perception +10, [Sense Motive](../skill_dir/senseMotive#_sense-motive +10, [Stealth](../skill_dir/stealth#_stealth) +11
 
 **Languages** Common, Infernal
 
@@ -65,11 +65,11 @@ LE Medium [undead](creatureTypes#_undead) ( [incorporeal](creatureTypes#_incorpo
 
 **Sunlight Powerlessness (Ex)** A wraith caught in sunlight cannot attack and is staggered.
 
-**Unnatural Aura (Su)** Animals do not willingly approach within 30 feet of a wraith, unless a master makes a DC 25 [Handle Animal](../skills/handleAnimal#_handle-animal), [Ride](../skills/ride#_ride), or wild empathy check.
+**Unnatural Aura (Su** Animals do not willingly approach within 30 feet of a wraith, unless a master makes a DC 25 [Handle Animal](../skill_dir/handleAnimal#_handle-animal, [Ride](../skill_dir/ride#_ride), or wild empathy check.
 
 Wraiths are undead creatures born of evil and darkness. They hate light and living things, as they have lost much of their connection to their former lives.
 
 ## Dread Wraith
 
-A wraith that exists for long enough and feeds on enough life force undergoes an unholy transformation, becoming a creature known as a dread wraith. This causes the wraith to increase in size and strength, and to inflict 2d6 points of negative energy damage and 1d8 Constitution [drain](universalMonsterRules#_ability-damage-and-drain) with its incorporeal touch. You can create a dread wraith by applying the giant and advanced simple templates, or you can increase the basic wraith to a Large 16 HD [undead](creatureTypes#_undead).
+A wraith that exists for long enough and feeds on enough life force undergoes an unholy transformation, becoming a creature known as a dread wraith. This causes the wraith to increase in size and strength, and to inflict 2d6 points of negative energy damage and 1d8 Constitution [drain](universalMonsterRules#_ability-damage-and-drain) with its incorporeal touch. You can create a dread wraith by applying the giant and advanced simple templates, or you can increase the basic wraith to a Large 16 HD [undead](creatureTypes#_undead.
 

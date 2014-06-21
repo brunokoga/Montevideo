@@ -1,9 +1,9 @@
 ---
-title: spells/sleetStorm
+title: spell_dir/sleetStorm
 ---
  **Sleet Storm**
 
-**School** conjuration (creation) [cold]; **Level** druid 3, sorcerer/wizard 3
+**School** conjuration (creation [cold]; **Level** druid 3, sorcerer/wizard 3
 
 **Casting Time** 1 standard action
 

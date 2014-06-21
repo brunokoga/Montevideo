@@ -5,69 +5,69 @@ title: mythicAdventures/mythicMonsters/monsterIndex
 
 A B C D E G H L M O P R S T V W
 
-- [Aboleth](mythicAdventures/mythicMonsters/aboleth)
+- [Aboleth](mythicAdventures/mythicMonster_dir/aboleth
 
-- [Barghest, Greater](mythicAdventures/mythicMonsters/barghest)
+- [Barghest, Greater](mythicAdventures/mythicMonster_dir/barghest
 
-- [Cockatrice](mythicAdventures/mythicMonsters/cockatrice)
-- [Cyclops, Great](mythicAdventures/mythicMonsters/cyclops)
+- [Cockatrice](mythicAdventures/mythicMonster_dir/cockatrice
+- [Cyclops, Great](mythicAdventures/mythicMonster_dir/cyclops
 
-- [Demon](mythicAdventures/mythicMonsters/demons)
--    [Demon, Marilith](mythicAdventures/mythicMonsters/demons#_demon-marilith)
--    [Demon, Nalfeshnee](mythicAdventures/mythicMonsters/demons#_demon-nalfeshnee)
--    [Demon, Vrock](mythicAdventures/mythicMonsters/demons#_demon-vrock)
-- [Devil](mythicAdventures/mythicMonsters/devils)
--    [Devil, Bone](mythicAdventures/mythicMonsters/devils#_devil-bone)
--    [Devil, Ice](mythicAdventures/mythicMonsters/devils#_devil-ice)
-- [Dragon](mythicAdventures/mythicMonsters/dragons)
--    [Dragon, Black](mythicAdventures/mythicMonsters/dragons#_dragon-black)
--    [Dragon, Blue](mythicAdventures/mythicMonsters/dragons#_dragon-blue)
--    [Dragon, Green](mythicAdventures/mythicMonsters/dragons#_dragon-green)
--    [Dragon, Red](mythicAdventures/mythicMonsters/dragons#_dragon-red)
--    [Dragon, White](mythicAdventures/mythicMonsters/dragons#_dragon-white)
+- [Demon](mythicAdventures/mythicMonster_dir/demons
+-    [Demon, Marilith](mythicAdventures/mythicMonster_dir/demons#_demon-marilith
+-    [Demon, Nalfeshnee](mythicAdventures/mythicMonster_dir/demons#_demon-nalfeshnee
+-    [Demon, Vrock](mythicAdventures/mythicMonster_dir/demons#_demon-vrock
+- [Devil](mythicAdventures/mythicMonster_dir/devils
+-    [Devil, Bone](mythicAdventures/mythicMonster_dir/devils#_devil-bone
+-    [Devil, Ice](mythicAdventures/mythicMonster_dir/devils#_devil-ice
+- [Dragon](mythicAdventures/mythicMonster_dir/dragons
+-    [Dragon, Black](mythicAdventures/mythicMonster_dir/dragons#_dragon-black
+-    [Dragon, Blue](mythicAdventures/mythicMonster_dir/dragons#_dragon-blue
+-    [Dragon, Green](mythicAdventures/mythicMonster_dir/dragons#_dragon-green
+-    [Dragon, Red](mythicAdventures/mythicMonster_dir/dragons#_dragon-red
+-    [Dragon, White](mythicAdventures/mythicMonster_dir/dragons#_dragon-white
 
-- [Elemental](mythicAdventures/mythicMonsters/elementals)
--    [Elemental, Air](mythicAdventures/mythicMonsters/elementals#_elemental-air)
--    [Elemental, Earth](mythicAdventures/mythicMonsters/elementals#_elemental-earth)
--    [Elemental, Fire](mythicAdventures/mythicMonsters/elementals#_elemental-fire)
--    [Elemental, Water](mythicAdventures/mythicMonsters/elementals#_elemental-water)
-- [Ettin](mythicAdventures/mythicMonsters/ettin)
+- [Elemental](mythicAdventures/mythicMonster_dir/elementals
+-    [Elemental, Air](mythicAdventures/mythicMonster_dir/elementals#_elemental-air
+-    [Elemental, Earth](mythicAdventures/mythicMonster_dir/elementals#_elemental-earth
+-    [Elemental, Fire](mythicAdventures/mythicMonster_dir/elementals#_elemental-fire
+-    [Elemental, Water](mythicAdventures/mythicMonster_dir/elementals#_elemental-water
+- [Ettin](mythicAdventures/mythicMonster_dir/ettin
 
-- [Gargoyle](mythicAdventures/mythicMonsters/gargoyle)
-- [Giant](mythicAdventures/mythicMonsters/giants)
--    [Giant, Fire](mythicAdventures/mythicMonsters/giants#_giant-fire)
--    [Giant, Hill](mythicAdventures/mythicMonsters/giants#_giant-hill)
--    [Giant, Flesh](mythicAdventures/mythicMonsters/giants#_giant-flesh)
-- [Griffon](mythicAdventures/mythicMonsters/griffon)
+- [Gargoyle](mythicAdventures/mythicMonster_dir/gargoyle
+- [Giant](mythicAdventures/mythicMonster_dir/giants
+-    [Giant, Fire](mythicAdventures/mythicMonster_dir/giants#_giant-fire
+-    [Giant, Hill](mythicAdventures/mythicMonster_dir/giants#_giant-hill
+-    [Giant, Flesh](mythicAdventures/mythicMonster_dir/giants#_giant-flesh
+- [Griffon](mythicAdventures/mythicMonster_dir/griffon
 
-- [Hell Hound](mythicAdventures/mythicMonsters/hellHound)
-- [Hydra](mythicAdventures/mythicMonsters/hydra)
+- [Hell Hound](mythicAdventures/mythicMonster_dir/hellHound
+- [Hydra](mythicAdventures/mythicMonster_dir/hydra
 
-- [Lamia](mythicAdventures/mythicMonsters/lamia)
-- [Lich](mythicAdventures/mythicMonsters/lich)
+- [Lamia](mythicAdventures/mythicMonster_dir/lamia
+- [Lich](mythicAdventures/mythicMonster_dir/lich
 
-- [Manticore](mythicAdventures/mythicMonsters/manticore)
-- [Medusa](mythicAdventures/mythicMonsters/medusa)
-- [Minotaur](mythicAdventures/mythicMonsters/minotaur)
-- [Mummy](mythicAdventures/mythicMonsters/mummy)
+- [Manticore](mythicAdventures/mythicMonster_dir/manticore
+- [Medusa](mythicAdventures/mythicMonster_dir/medusa
+- [Minotaur](mythicAdventures/mythicMonster_dir/minotaur
+- [Mummy](mythicAdventures/mythicMonster_dir/mummy
 
-- [Ogre](mythicAdventures/mythicMonsters/ogre)
-- [Owlbear](mythicAdventures/mythicMonsters/owlbear)
--    [Owlbear, The First](mythicAdventures/mythicMonsters/owlbear#_owlbear-the-first)
+- [Ogre](mythicAdventures/mythicMonster_dir/ogre
+- [Owlbear](mythicAdventures/mythicMonster_dir/owlbear
+-    [Owlbear, The First](mythicAdventures/mythicMonster_dir/owlbear#_owlbear-the-first
 
-- [Phoenix](mythicAdventures/mythicMonsters/phoenix)
+- [Phoenix](mythicAdventures/mythicMonster_dir/phoenix
 
-- [Rakshasa](mythicAdventures/mythicMonsters/rakshasa)
+- [Rakshasa](mythicAdventures/mythicMonster_dir/rakshasa
 
-- [Skeleton](mythicAdventures/mythicMonsters/skeleton)
-- [Sphinx](mythicAdventures/mythicMonsters/sphinx)
+- [Skeleton](mythicAdventures/mythicMonster_dir/skeleton
+- [Sphinx](mythicAdventures/mythicMonster_dir/sphinx
 
-- [Treant](mythicAdventures/mythicMonsters/treant)
-- [Troll](mythicAdventures/mythicMonsters/troll)
+- [Treant](mythicAdventures/mythicMonster_dir/treant
+- [Troll](mythicAdventures/mythicMonster_dir/troll
 
-- [Vampire](mythicAdventures/mythicMonsters/vampire)
+- [Vampire](mythicAdventures/mythicMonster_dir/vampire
 
-- [Worg](mythicAdventures/mythicMonsters/worg)
--    [Worg, Winterwolf](mythicAdventures/mythicMonsters/worg#_worg-winterwolf)
-- [Wyvern](mythicAdventures/mythicMonsters/wyvern)
+- [Worg](mythicAdventures/mythicMonster_dir/worg
+-    [Worg, Winterwolf](mythicAdventures/mythicMonster_dir/worg#_worg-winterwolf
+- [Wyvern](mythicAdventures/mythicMonster_dir/wyvern
 

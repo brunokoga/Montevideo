@@ -3,11 +3,11 @@ title: spells/detectScrying
 ---
  **Detect Scrying**
 
-**School** divination; **Level** bard 4, sorcerer/wizard 4
+**School** divination; **Level** bard 4, sorcere_dir/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a piece of mirror and a miniature brass hearing trumpet)
+**Components** V, S, M (a piece of mirror and a miniature brass hearing trumpet
 
 **Range** 40 ft.
 

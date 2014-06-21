@@ -1,9 +1,9 @@
 ---
-title: spells/powerWordKill
+title: spell_dir/powerWordKill
 ---
  **Power Word Kill**
 
-**School** enchantment (compulsion) [death, mind-affecting]; **Level** sorcerer/wizard 9
+**School** enchantment (compulsion [death, mind-affecting]; **Level** sorcerer/wizard 9
 
 **Casting Time** 1 standard action
 

@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/forcedRepentance
+title: advanced/spell_dir/forcedRepentance
 ---
  **Forced Repentance**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** inquisitor 4, paladin 4
+**School** enchantment (compulsion [mind-affecting]; **Level** inquisitor 4, paladin 4
 
 **Casting Time** 1 standard action
 

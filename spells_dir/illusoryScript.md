@@ -1,19 +1,19 @@
 ---
-title: spells/illusoryScript
+title: spell_dir/illusoryScript
 ---
  **Illusory Script**
 
-**School** illusion (phantasm) [mind-affecting]; **Level** bard 3, sorcerer/wizard 3
+**School** illusion (phantasm [mind-affecting]; **Level** bard 3, sorcere_dir/wizard 3
 
 **Casting Time** 1 minute per page
 
-**Components** V, S, M (lead-based ink worth 50 gp)
+**Components** V, S, M (lead-based ink worth 50 gp
 
 **Range** touch
 
 **Target** one touched object weighing no more than 10 lbs.
 
-**Duration** one day/level (D)
+**Duration** one da_dir/level (D
 
 **Saving Throw** [Will](../combat#_will) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

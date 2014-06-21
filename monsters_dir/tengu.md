@@ -13,13 +13,13 @@ Male tengu rogue 1
 
 N Medium [humanoid](creatureTypes#_humanoid) (tengu)
 
-**Init** +3; **Senses** low-light vision; [Perception](../skills/perception#_perception) +8
+**Init** +3; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
 **AC** 15, touch 13, flat-footed 12 (+2 armor, +3 Dex)
 
-**hp** 9 (1d8+1)
+**hp** 9 (1d8+1
 
 **Fort** +1, **Ref** +5, **Will** +2
 
@@ -41,7 +41,7 @@ N Medium [humanoid](creatureTypes#_humanoid) (tengu)
 
 **Feats** [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +7, [Appraise](../skills/appraise#_appraise) +4, [Bluff](../skills/bluff#_bluff) +3, [Climb](../skills/climb#_climb) +5, [Knowledge](../skills/knowledge#_knowledge) (local) +4, [Linguistics](../skills/linguistics#_linguistics) +8, [Perception](../skills/perception#_perception) +8, [Stealth](../skills/stealth#_stealth) +9; **Racial Modifiers** +2 [Perception](../skills/perception#_perception), +2 [Stealth](../skills/stealth#_stealth), +4 [Linguistics](../skills/linguistics#_linguistics)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +7, [Appraise](../skill_dir/appraise#_appraise +4, [Bluff](../skill_dir/bluff#_bluff +3, [Climb](../skill_dir/climb#_climb +5, [Knowledge](../skill_dir/knowledge#_knowledge) (local +4, [Linguistics](../skill_dir/linguistics#_linguistics +8, [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth +9; **Racial Modifiers** +2 [Perception](../skill_dir/perception#_perception, +2 [Stealth](../skill_dir/stealth#_stealth, +4 [Linguistics](../skill_dir/linguistics#_linguistics)
 
 **Languages** Common, Goblin, Halfling, Tengu
 
@@ -57,9 +57,9 @@ N Medium [humanoid](creatureTypes#_humanoid) (tengu)
 
 **Special Abilities**
 
-**Gifted Linguist (Ex)** Tengus gain a +4 racial bonus on [Linguistics](../skills/linguistics#_linguistics) checks, and learn 2 languages each time they gain a rank in [Linguistics](../skills/linguistics#_linguistics) rather than 1 language.
+**Gifted Linguist (Ex** Tengus gain a +4 racial bonus on [Linguistics](../skill_dir/linguistics#_linguistics checks, and learn 2 languages each time they gain a rank in [Linguistics](../skill_dir/linguistics#_linguistics) rather than 1 language.
 
-**Swordtrained (Ex)** Tengus are trained from birth in swordplay, and as a result are automatically proficient with sword-like weapons (including bastard swords, daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short swords, and two-bladed swords).
+**Swordtrained (Ex)** Tengus are trained from birth in swordplay, and as a result are automatically proficient with sword-like weapons (including bastard swords, daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short swords, and two-bladed swords.
 
 Tengus are a race of avian humanoids that resemble crows or ravens, and often bear much of the same stigma. Though they frequently choose to live among other races in densely populated cities, their society is tight and closed, and they rarely allow others to see its inner workings. Tengus often band together in small groups to create roosts in vacant warehouses or condemned buildings, and these raucous gathering places are generally assumed to be thieves' guilds by outsiders—an assumption that's correct roughly half the time.
 
@@ -73,7 +73,7 @@ Tengus are defined by their class levels—they do not possess racial Hit Dice. 
 
 **Senses** : Tengus have low-light vision.
 
-**Sneaky** : Tengus gain a +2 racial bonus on [Perception](../skills/perception#_perception) and [Stealth](../skills/stealth#_stealth).
+**Sneaky** : Tengus gain a +2 racial bonus on [Perception](../skill_dir/perception#_perception and [Stealth](../skill_dir/stealth#_stealth.
 
 **Gifted Linguist** : See above.
 

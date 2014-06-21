@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/lifeConduit
+title: ultimateCombat/spell_dir/lifeConduit
 ---
 Life Conduit
 
-**School** conjuration (healing); **Level** summoner 1
+**School** conjuration (healing; **Level** summoner 1
 
 **Casting Time** 1 standard action
 

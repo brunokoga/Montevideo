@@ -1,5 +1,5 @@
 ---
-title: monsters/minotaur
+title: monster_dir/minotaur
 ---
 # Minotaur
 
@@ -9,15 +9,15 @@ _With the body of a powerfully built man and the head of a snarling bull, this c
 
 **XP 1,200**
 
-CE Large [monstrous humanoid](creatureTypes#_monstrous-humanoid)
+CE Large [monstrous humanoid](creatureTypes#_monstrous-humanoid
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +10
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +10
 
 **Defense**
 
 **AC** 14, touch 9, flat-footed 14 (+5 natural, –1 size)
 
-**hp** 45 (6d10+12)
+**hp** 45 (6d10+12
 
 **Fort** +6, **Ref** +5, **Will** +5
 
@@ -41,7 +41,7 @@ CE Large [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Feats** [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Power Attack](../feats#_power-attack)
 
-**Skills** [Intimidate](../skills/intimidate#_intimidate) +5, [Perception](../skills/perception#_perception) +10, [Stealth](../skills/stealth#_stealth) +2, [Survival](../skills/survival#_survival) +10; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Survival](../skills/survival#_survival)
+**Skills** [Intimidate](../skill_dir/intimidate#_intimidate +5, [Perception](../skill_dir/perception#_perception +10, [Stealth](../skill_dir/stealth#_stealth +2, [Survival](../skill_dir/survival#_survival +10; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +4 [Survival](../skill_dir/survival#_survival)
 
 **Languages** Giant
 
@@ -55,7 +55,7 @@ CE Large [monstrous humanoid](creatureTypes#_monstrous-humanoid)
 
 **Special Abilities**
 
-**Natural Cunning (Ex)** Although minotaurs are not especially intelligent, they possess innate cunning and logical ability. This gives them immunity to _ [maze](../spells/maze#_maze) _spells and prevents them from ever becoming lost. Further, they are never caught flat-footed.
+**Natural Cunning (Ex** Although minotaurs are not especially intelligent, they possess innate cunning and logical ability. This gives them immunity to _ [maze](../spell_dir/maze#_maze _spells and prevents them from ever becoming lost. Further, they are never caught flat-footed.
 
 Nothing holds a grudge like a minotaur. Scorned by the civilized races centuries ago and born from a deific curse, minotaurs have hunted, slain, and devoured lesser humanoids in retribution for real or imagined slights for as long as anyone can remember. Many cultures have legends of how the first minotaurs were created by vengeful or slighted gods who punished humans by twisting their forms, robbing them of their intellects and beauty, and giving them the heads of bulls. Yet most modern minotaurs hold these legends in contempt and believe that they are not divine mockeries but divine paragons created by a potent and cruel demon lord named Baphomet.
 

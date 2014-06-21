@@ -1,13 +1,13 @@
 ---
-title: spells/unseenServant
+title: spell_dir/unseenServant
 ---
  **Unseen Servant**
 
-**School** conjuration (creation); **Level** bard 1, sorcerer/wizard 1
+**School** conjuration (creation; **Level** bard 1, sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a piece of string and a bit of wood)
+**Components** V, S, M (a piece of string and a bit of wood
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

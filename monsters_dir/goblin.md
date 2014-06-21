@@ -13,13 +13,13 @@ Goblin warrior 1
 
 NE Small [humanoid](creatureTypes#_humanoid) (goblinoid)
 
-**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) –1
+**Init** +6; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) –1
 
 **Defense**
 
 **AC** 16, touch 13, flat-footed 14 (+2 armor, +2 Dex, +1 shield, +1 size)
 
-**hp** 6 (1d10+1)
+**hp** 6 (1d10+1
 
 **Fort** +3, **Ref** +2, **Will** –1
 
@@ -39,7 +39,7 @@ NE Small [humanoid](creatureTypes#_humanoid) (goblinoid)
 
 **Feats** [Improved Initiative](../feats#_improved-initiative)
 
-**Skills** [Ride](../skills/ride#_ride) +10, [Stealth](../skills/stealth#_stealth) +10, [Swim](../skills/swim#_swim) +4; **Racial Modifiers** +4 [Ride](../skills/ride#_ride), +4 [Stealth](../skills/stealth#_stealth)
+**Skills** [Ride](../skill_dir/ride#_ride +10, [Stealth](../skill_dir/stealth#_stealth +10, [Swim](../skill_dir/swim#_swim +4; **Racial Modifiers** +4 [Ride](../skill_dir/ride#_ride, +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Languages** Goblin
 
@@ -53,7 +53,7 @@ NE Small [humanoid](creatureTypes#_humanoid) (goblinoid)
 
 Goblins prefer to dwell in caves, amid large and dense thickets of thistles and brambles, or in structures built and then abandoned by others. Very few goblins have the drive to build structures of their own. Coastlines are favored, as goblins are quite fond of sifting through junk and flotsam in an unending quest to find treasures among the refuse of more civilized races.
 
-Goblin hatred runs deep, and few things inspire their wrath more than gnomes (who have long fought against goblins), horses (who frighten goblins tremendously), and regular dogs (whom goblins regard as pale imitations of goblin dogs).
+Goblin hatred runs deep, and few things inspire their wrath more than gnomes (who have long fought against goblins), horses (who frighten goblins tremendously), and regular dogs (whom goblins regard as pale imitations of goblin dogs.
 
 Goblins are also quite superstitious, and treat magic with a fawning mixture of awe and fear. They have the habit of ascribing magic to the mundane as well, with fire and writing both taking on mystical power in goblin society. Fire is much loved by goblins for its capacity to wreak great destruction and because it doesn't require size or strength to wield, but written words are hated. Goblins believe that writing steals words out of your head, and as a result of this belief, goblins are universally illiterate.
 
@@ -65,13 +65,13 @@ Goblins are defined by their class levels—they do not possess racial Hit Dice.
 
 **–2 Strength, +4 Dexterity, –2 Charisma** : Goblins are fast, but weak and unpleasant to be around.
 
-**Small** : Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](../skills/stealth#_stealth) checks.
+**Small** : Goblins are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on [Stealth](../skill_dir/stealth#_stealth checks.
 
 **Fast** : Goblins are fast for their size, and have a base speed of 30 feet.
 
 **Darkvision** : Goblins can see in the dark up to 60 feet.
 
-**Skilled** : +4 racial bonus on [Ride](../skills/ride#_ride) and [Stealth](../skills/stealth#_stealth) checks.
+**Skilled** : +4 racial bonus on [Ride](../skill_dir/ride#_ride and [Stealth](../skill_dir/stealth#_stealth checks.
 
 **Languages** : Goblins begin play speaking Goblin. Goblins with high Intelligence scores can choose any of these bonus languages: Common, Draconic, Dwarven, Gnoll, Gnome, Halfling, Orc.
 

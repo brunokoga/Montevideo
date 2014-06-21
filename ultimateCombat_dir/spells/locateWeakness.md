@@ -13,7 +13,7 @@ Locate Weakness
 
 **Target** you
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
-You can sense your foes' weak points, granting you greater damage with critical hits. Whenever you score a critical hit, roll the attack's damage dice (but not extra or precision damage dice) twice and take the highest result.
+You can sense your foes' weak points, granting you greater damage with critical hits. Whenever you score a critical hit, roll the attack's damage dice (but not extra or precision damage dice twice and take the highest result.
 

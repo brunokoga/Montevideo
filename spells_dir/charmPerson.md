@@ -1,9 +1,9 @@
 ---
-title: spells/charmPerson
+title: spell_dir/charmPerson
 ---
  **Charm Person**
 
-**School** enchantment (charm) [mind-affecting]; **Level** bard 1, sorcerer/wizard 1
+**School** enchantment (charm [mind-affecting]; **Level** bard 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 

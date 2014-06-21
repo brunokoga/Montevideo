@@ -13,7 +13,7 @@ title: spells/whirlwind
 
 **Effect** cyclone 10 ft. wide at base, 30 ft. wide at top, and 30 ft. tall
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** [Reflex](../combat#_reflex) negates; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

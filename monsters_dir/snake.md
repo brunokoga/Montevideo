@@ -1,5 +1,5 @@
 ---
-title: monsters/snake
+title: monster_dir/snake
 ---
 # Snake, Constrictor
 
@@ -9,9 +9,9 @@ _This large snake has a thick, muscular body and dull green scales decorated wit
 
 **XP 600**
 
-N Medium [animal](creatureTypes#_animal)
+N Medium [animal](creatureTypes#_animal
 
-**Init** +3; **Senses** scent; [Perception](../skills/perception#_perception) +12
+**Init** +3; **Senses** scent; [Perception](../skill_dir/perception#_perception) +12
 
 **Defense**
 
@@ -33,11 +33,11 @@ N Medium [animal](creatureTypes#_animal)
 
 **Str** 17, **Dex** 17, **Con** 12, **Int** 1, **Wis** 12, **Cha** 2
 
-**Base Atk** +2; **CMB** +5 (+9 grapple); **CMD** 18 (can't be tripped)
+**Base Atk** +2; **CMB** +5 (+9 grapple); **CMD** 18 (can't be tripped
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Toughness](../feats#_toughness)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +15, [Climb](../skills/climb#_climb) +11, [Perception](../skills/perception#_perception) +12, [Stealth](../skills/stealth#_stealth) +11, [Swim](../skills/swim#_swim) +11; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth),+8 [Acrobatics](../skills/acrobatics#_acrobatics)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +15, [Climb](../skill_dir/climb#_climb +11, [Perception](../skill_dir/perception#_perception +12, [Stealth](../skill_dir/stealth#_stealth +11, [Swim](../skill_dir/swim#_swim +11; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +4 [Stealth](../skill_dir/stealth#_stealth,+8 [Acrobatics](../skill_dir/acrobatics#_acrobatics)
 
 **Ecology**
 
@@ -59,9 +59,9 @@ _This brightly colored snake assumes an aggressive posture, its hissing mouth op
 
 **XP 400**
 
-N Medium [animal](creatureTypes#_animal)
+N Medium [animal](creatureTypes#_animal
 
-**Init** +5; **Senses** low-light vision, scent; [Perception](../skills/perception#_perception) +9
+**Init** +5; **Senses** low-light vision, scent; [Perception](../skill_dir/perception#_perception) +9
 
 **Defense**
 
@@ -81,11 +81,11 @@ N Medium [animal](creatureTypes#_animal)
 
 **Str** 8, **Dex** 13, **Con** 14, **Int** 1, **Wis** 13, **Cha** 2
 
-**Base Atk** +1; **CMB** +0; **CMD** 11 (can't be tripped)
+**Base Atk** +1; **CMB** +0; **CMD** 11 (can't be tripped
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Weapon Finesse](../feats#_weapon-finesse)B
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +9, [Climb](../skills/climb#_climb) +9, [Perception](../skills/perception#_perception) +9, [Stealth](../skills/stealth#_stealth) +9, [Swim](../skills/swim#_swim) +9; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth), +8 [Acrobatics](../skills/acrobatics#_acrobatics); modifies [Climb](../skills/climb#_climb) and [Swim](../skills/swim#_swim) with Dexterity
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +9, [Climb](../skill_dir/climb#_climb +9, [Perception](../skill_dir/perception#_perception +9, [Stealth](../skill_dir/stealth#_stealth +9, [Swim](../skill_dir/swim#_swim +9; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +4 [Stealth](../skill_dir/stealth#_stealth, +8 [Acrobatics](../skill_dir/acrobatics#_acrobatics; modifies [Climb](../skill_dir/climb#_climb and [Swim](../skill_dir/swim#_swim) with Dexterity
 
 **Ecology**
 
@@ -97,7 +97,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Special Abilities**
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 1 save.
+**Poison (Ex** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 1 save.
 
 Countless species of poisonous snakes dwell in the wild, their bites capable of bringing down creatures much larger than themselves. Snakes of the size presented here are thankfully rarer than their smaller kin, but many species of rattlesnake, cobra, and similar reptiles can grow to this size.
 

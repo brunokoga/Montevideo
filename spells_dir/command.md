@@ -1,9 +1,9 @@
 ---
-title: spells/command
+title: spell_dir/command
 ---
  **Command**
 
-**School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 1
+**School** enchantment (compulsion [language-dependent, mind-affecting]; **Level** cleric 1
 
 **Casting Time** 1 standard action
 

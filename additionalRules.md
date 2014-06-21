@@ -360,12 +360,12 @@ See Table: Mounts and Vehicles: Mounts and Vehicles for mounted speeds and speed
 Waterborne Movement: See Table: Mounts and Vehicles: Mounts and Vehicles for speeds for water vehicles.
 
 [Table: Mounts and Vehicles]
-| Mount/Vehicle | Per Hour | Per Day |
+| Moun_dir/Vehicle | Per Hour | Per Day |
 | --- | --- | --- |
 | Mount (carrying load) |
 | --- |
 | Light horse | 5 miles | 40 miles |
-| Light horse (175–525 lbs.)ⁱ | 3 1/2 miles | 28 miles |
+| Light horse (175–525 lbs.ⁱ | 3 1/2 miles | 28 miles |
 | Heavy horse | 5 miles | 40 miles |
 | Heavy horse (229–690 lbs.)ⁱ | 3-1/2 miles | 28 miles |
 | Pony | 4 miles | 32 miles |

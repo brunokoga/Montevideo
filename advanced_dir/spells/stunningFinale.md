@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/stunningFinale
+title: advanced/spell_dir/stunningFinale
 ---
  **Stunning Finale**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 5
 
 **Casting Time** 1 standard action
 

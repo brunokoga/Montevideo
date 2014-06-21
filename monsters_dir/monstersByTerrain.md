@@ -1,5 +1,5 @@
 ---
-title: monsters/monstersByTerrain
+title: monster_dir/monstersByTerrain
 ---
 # Monsters by Terrain
 
@@ -47,9 +47,9 @@ army ants, [bat swarm](bat#_bat-swarm), [cyclops](cyclops#_cyclops), [dire bat](
 
 **Forest (Warm)**
 
-[ankylosaurus](dinosaur#_dinosaur-ankylosaurus), [bat](familiar#_bat), [boar](boar#_boar), [brachiosaurus](dinosaur#_dinosaur-brachiosaurus), [centipede swarm](centipede#_centipede-swarm), [constrictor snake](snake#_snake-constrictor), [couatl](couatl#_couatl), [deinonychus](dinosaur#_dinosaur-deinonychus), [dire ape](ape#_ape-dire), [dire boar](boar#_boar-dire), [dire tiger](tiger#_tiger-dire), [giant centipede](centipede#_centipede-giant), [giant frilled lizard](lizard#_lizard-giant-frilled), [girallon](girallon#_girallon), [gorilla](ape#_ape-gorilla), [leopard](cat#_cat-leopard), [monitor lizard](lizard#_lizard-monitor), [monkey](familiar#_monkey), [tiger](tiger#_tiger), [toad](familiar#_toad), [treant](treant#_treant), [tyrannosaurus](dinosaur#_dinosaur-tyrannosaurus), [yellow musk creeper](yellowMuskCreeper#_yellow-musk-creeper)
+[ankylosaurus](dinosaur#_dinosaur-ankylosaurus), [bat](familiar#_bat), [boar](boar#_boar), [brachiosaurus](dinosaur#_dinosaur-brachiosaurus), [centipede swarm](centipede#_centipede-swarm), [constrictor snake](snake#_snake-constrictor), [couatl](couatl#_couatl), [deinonychus](dinosaur#_dinosaur-deinonychus), [dire ape](ape#_ape-dire), [dire boar](boar#_boar-dire), [dire tiger](tiger#_tiger-dire), [giant centipede](centipede#_centipede-giant), [giant frilled lizard](lizard#_lizard-giant-frilled), [girallon](girallon#_girallon), [gorilla](ape#_ape-gorilla), [leopard](cat#_cat-leopard), [monitor lizard](lizard#_lizard-monitor), [monkey](familiar#_monkey), [tiger](tiger#_tiger), [toad](familiar#_toad), [treant](treant#_treant), [tyrannosaurus](dinosaur#_dinosaur-tyrannosaurus), [yellow musk creeper](yellowMuskCreeper#_yellow-musk-creeper
 
-**Rivers/Lakes**
+**River_dir/Lakes**
 
 [aboleth](aboleth#_aboleth), [constrictor snake](snake#_snake-constrictor), [crocodile](crocodile#_crocodile), [dire crocodile](crocodile#_crocodile-dire), [electric eel](eel#_eel-electric)
 
@@ -155,5 +155,5 @@ army ants, [bat swarm](bat#_bat-swarm), [cyclops](cyclops#_cyclops), [dire bat](
 
 **Urban**
 
-[aasimar](aasimar#_aasimar), [dire rat](rat#_rat-dire), [tengu](tengu#_tengu), [tiefling](tiefling#_tiefling), [wererat](lycanthrope#_lycanthrope-wererat)
+[aasimar](aasimar#_aasimar), [dire rat](rat#_rat-dire), [tengu](tengu#_tengu), [tiefling](tiefling#_tiefling), [wererat](lycanthrope#_lycanthrope-wererat
 

@@ -11,7 +11,7 @@ title: spells/transmuteMudToRock
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Area** up to two 10-ft. cubes/level (S)
+**Area** up to two 10-ft. cube_dir/level (S
 
 **Duration** permanent
 

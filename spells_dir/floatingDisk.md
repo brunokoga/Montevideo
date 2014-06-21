@@ -3,11 +3,11 @@ title: spells/floatingDisk
 ---
  **Floating Disk**
 
-**School** evocation [force]; **Level** sorcerer/wizard 1
+**School** evocation [force]; **Level** sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a drop of mercury)
+**Components** V, S, M (a drop of mercury
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

@@ -1,5 +1,5 @@
 ---
-title: spells/fireSeeds
+title: spell_dir/fireSeeds
 ---
  **Fire Seeds**
 
@@ -7,7 +7,7 @@ title: spells/fireSeeds
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (acorns or holly berries)
+**Components** V, S, M (acorns or holly berries
 
 **Range** touch
 

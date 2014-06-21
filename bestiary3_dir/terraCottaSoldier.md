@@ -11,17 +11,17 @@ XP 2,400
 
 N Medium construct
 
-**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](skills/perception#_perception) +8
+**Init** +7; **Senses** darkvision 60 ft., low-light vision; [Perception](skill_dir/perception#_perception) +8
 
 Defense
 
 **AC** 19, touch 13, flat-footed 16 (+3 Dex, +6 natural)
 
-**hp** 64 (8d10+20)
+**hp** 64 (8d10+20
 
 **Fort** +2, **Ref** +5, **Will** +2
 
-**DR** 5/bludgeoning; **Immune** construct traits, [fire](monsters/creatureTypes#_fire-subtype); **SR** 17
+**DR** 5/bludgeoning; **Immune** construct traits, [fire](monster_dir/creatureTypes#_fire-subtype; **SR** 17
 
 Offense
 
@@ -39,7 +39,7 @@ Statistics
 
 **Feats** [Improved Initiative](feats#_improved-initiative), [Two Weapon Fighting](feats#_two-weapon-fighting), [Weapon Focus](feats#_weapon-focus) (longsword, shortsword)
 
-**Skills** [Perception](skills/perception#_perception) +8
+**Skills** [Perception](skill_dir/perception#_perception) +8
 
 Ecology
 
@@ -51,7 +51,7 @@ Ecology
 
 Special Abilities
 
-**Keen Weapons (Su)** After it has engaged in at least 1 round of combat, a terra-cotta soldier's weapons automatically gain the benefits of _ [keen](magicItems/weapons#_weapons-keen) weapon_ (CL 6th). This effect persists until the end of the battle.
+**Keen Weapons (Su** After it has engaged in at least 1 round of combat, a terra-cotta soldier's weapons automatically gain the benefits of _ [keen](magicItem_dir/weapons#_weapons-keen) weapon_ (CL 6th). This effect persists until the end of the battle.
 
 **Rank Fighting (Ex)** Whenever a terra-cotta soldier is adjacent to another terra-cotta soldier, it gains a +2 dodge bonus to its AC and a +2 bonus on saving throws, attack rolls, and damage rolls.
 
@@ -61,7 +61,7 @@ Unlike most constructs, a terra-cotta soldier carries within its form a spark of
 
 **Terra-Cotta Archer (+0 CR)** : Terra-cotta archers are simply terra-cotta soldiers outfitted with composite longbows. Terra-cotta archers have [Improved Initiative](feats#_improved-initiative), [Point-Blank Shot](feats#_point-blank-shot), [Precise Shot](feats#_precise-shot), and [Weapon Focus](feats#_weapon-focus) (longbow) as feats.
 
-**Terra-Cotta Horseman (+1 CR)** : Some terra-cotta soldiers are crafted to resemble warriors mounted on terra-cotta horses, though rider and mount are one creature. Terra-cotta horsemen are Large terra-cotta soldiers with 10 racial Hit Dice and the trample and undersized weapons special abilities. Terra-cotta horsemen are usually outfitted with lances instead of swords, and have [Improved Bull Rush](feats#_improved-bull-rush), [Improved Initiative](feats#_improved-initiative), [Improved Overrun](feats#_improved-overrun), [Power Attack](feats#_power-attack), and [Weapon Focus](feats#_weapon-focus) (lance) as feats.
+**Terra-Cotta Horseman (+1 CR)** : Some terra-cotta soldiers are crafted to resemble warriors mounted on terra-cotta horses, though rider and mount are one creature. Terra-cotta horsemen are Large terra-cotta soldiers with 10 racial Hit Dice and the trample and undersized weapons special abilities. Terra-cotta horsemen are usually outfitted with lances instead of swords, and have [Improved Bull Rush](feats#_improved-bull-rush), [Improved Initiative](feats#_improved-initiative), [Improved Overrun](feats#_improved-overrun), [Power Attack](feats#_power-attack), and [Weapon Focus](feats#_weapon-focus) (lance as feats.
 
 # Construction
 
@@ -73,5 +73,5 @@ Terra-cotta Soldier
 
 Construction
 
-**Requirements** [Craft Construct](monsters/monsterFeats#_craft-construct), _ [animate objects](spells/animateObjects#_animate-objects)_, _ [cat's grace](spells/catSGrace#_cat-s-grace)_, _ [geas/quest](spells/geasQuest#_geas-quest)_, _ [keen edge](spells/keenEdge#_keen-edge)_, creator must be caster level 9th; **Skill** [Craft](skills/craft#_craft) (pottery) or [Craft](skills/craft#_craft) (sculptures) DC 14; **Cost** 10,000 gp
+**Requirements** [Craft Construct](monster_dir/monsterFeats#_craft-construct, _ [animate objects](spell_dir/animateObjects#_animate-objects_, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, _ [geas/quest](spell_dir/geasQuest#_geas-quest_, _ [keen edge](spell_dir/keenEdge#_keen-edge_, creator must be caster level 9th; **Skill** [Craft](skill_dir/craft#_craft) (pottery or [Craft](skill_dir/craft#_craft) (sculptures DC 14; **Cost** 10,000 gp
 

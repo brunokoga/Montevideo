@@ -13,9 +13,9 @@ title: advanced/spells/burningGaze
 
 **Target** you
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
-**Saving Throw** Fortitude negates (see text); **Spell Resistance** yes
+**Saving Throw** Fortitude negates (see text; **Spell Resistance** yes
 
 Your eyes burn like hot coals, allowing you to set objects or foes alight with a glance.
 

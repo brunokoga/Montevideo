@@ -1,5 +1,5 @@
 ---
-title: spells/changestaff
+title: spell_dir/changestaff
 ---
  **Changestaff**
 
@@ -7,13 +7,13 @@ title: spells/changestaff
 
 **Casting Time** 1 round
 
-**Components** V, S, F (a quarterstaff that has been carved and polished for 28 days)
+**Components** V, S, F (a quarterstaff that has been carved and polished for 28 days
 
 **Range** touch
 
 **Target** your touched staff
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hou_dir/level (D
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

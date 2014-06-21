@@ -9,9 +9,9 @@ Giant SolifugidCR 1
 
 **XP 400**
 
-N Small [vermin](monsters/creatureTypes#_vermin)
+N Small [vermin](monster_dir/creatureTypes#_vermin
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +4
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +4
 
 Defense
 
@@ -35,15 +35,15 @@ Statistics
 
 **Str** 12, **Dex** 15, **Con** 15, **Int** —, **Wis** 11, **Cha** 2
 
-**Base Atk** +1; **CMB** +1; **CMD** 13 (25 vs. trip)
+**Base Atk** +1; **CMB** +1; **CMD** 13 (25 vs. trip
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +9, [Perception](additionalMonsters/../skills/perception#_perception) +4, [Stealth](additionalMonsters/../skills/stealth#_stealth) +10; **Racial Modifiers** +4 [Perception](additionalMonsters/../skills/perception#_perception), +4 [Stealth](additionalMonsters/../skills/stealth#_stealth)
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +9, [Perception](additionalMonsters/../skill_dir/perception#_perception +4, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +10; **Racial Modifiers** +4 [Perception](additionalMonsters/../skill_dir/perception#_perception, +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
 
 Ecology
 
 **Environment** warm deserts
 
-**Organization** solitary, pair, or colony (3–6)
+**Organization** solitary, pair, or colony (3–6
 
 **Treasure** none
 
@@ -71,9 +71,9 @@ Albino Cave SolifugidCR 4
 
 **XP 1,200**
 
-N Medium [vermin](monsters/creatureTypes#_vermin)
+N Medium [vermin](monster_dir/creatureTypes#_vermin
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +4
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +4
 
 Defense
 
@@ -89,23 +89,23 @@ Offense
 
 **Speed** 50 ft., climb 30 ft.
 
-**Melee** bite +7 (1d8+3), 2 claws +7 (1d4+3)
+**Melee** bite +7 (1d8+3), 2 claws +7 (1d4+3
 
-**Special Attacks** [pounce](monsters/universalMonsterRules#_pounce), rend (2 claws, 1d6+4)
+**Special Attacks** [pounce](monster_dir/universalMonsterRules#_pounce), rend (2 claws, 1d6+4)
 
 Statistics
 
 **Str** 16, **Dex** 13, **Con** 17, **Int** —, **Wis** 11, **Cha** 2
 
-**Base Atk** +4; **CMB** +7; **CMD** 18 (26 vs. trip)
+**Base Atk** +4; **CMB** +7; **CMD** 18 (26 vs. trip
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +11, [Perception](additionalMonsters/../skills/perception#_perception) +4, [Stealth](additionalMonsters/../skills/stealth#_stealth) +5; **Racial Modifiers** +4 [Perception](additionalMonsters/../skills/perception#_perception), +4 [Stealth](additionalMonsters/../skills/stealth#_stealth)
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +11, [Perception](additionalMonsters/../skill_dir/perception#_perception +4, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +5; **Racial Modifiers** +4 [Perception](additionalMonsters/../skill_dir/perception#_perception, +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
 
 Ecology
 
 **Environment** any underground
 
-**Organization** solitary, pair, or colony (3–6)
+**Organization** solitary, pair, or colony (3–6
 
 **Treasure** none
 

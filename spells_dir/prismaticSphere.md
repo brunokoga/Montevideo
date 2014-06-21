@@ -3,7 +3,7 @@ title: spells/prismaticSphere
 ---
  **Prismatic Sphere**
 
-**School** abjuration; **Level** sorcerer/wizard 9
+**School** abjuration; **Level** sorcere_dir/wizard 9
 
 **Components** : V
 
@@ -21,5 +21,5 @@ Typically, only the upper hemisphere of the globe exists, since you are at the c
 
 The colors of the sphere have the same effects as the colors of a _ [prismatic wall](prismaticWall#_prismatic-wall)._
 
-_Prismatic sphere _can be made permanent with a _ [permanency](permanency#_permanency) _spell.
+_Prismatic sphere _can be made permanent with a _ [permanency](permanency#_permanency _spell.
 

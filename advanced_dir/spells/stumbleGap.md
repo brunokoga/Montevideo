@@ -1,13 +1,13 @@
 ---
-title: advanced/spells/stumbleGap
+title: advanced/spell_dir/stumbleGap
 ---
  **Stumble Gap**
 
-**School** conjuration (creation); **Level** sorcerer/wizard 1
+**School** conjuration (creation; **Level** sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (miniature shovel costing 10 gp)
+**Components** V, S, F (miniature shovel costing 10 gp
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

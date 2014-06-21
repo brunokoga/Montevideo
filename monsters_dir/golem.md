@@ -1,5 +1,5 @@
 ---
-title: monsters/golem
+title: monster_dir/golem
 ---
 # Golem 
 
@@ -33,9 +33,9 @@ Shield guardians have the same statistics as the base golem, but with the follow
 
 **Shield Other (Sp)** The wearer of a shield guardian's amulet can activate this defensive ability as a standard action if within 100 feet of the shield guardian. Just as the spell of the same name, this ability transfers to the shield guardian half the damage that would be dealt to the amulet wearer (note that this ability does not provide the spell's AC or save bonuses). Damage transferred in this manner bypasses any defensive abilities (such as immunity or damage reduction) the golem possesses.
 
-**Spell Storing (Sp)** A shield guardian can store one spell of 4th level or lower that is cast into it by another creature. It “casts” this spell when commanded to do so or when a predefined situation arises. Once this spell is used, the shield guardian can store another spell (or the same spell again).
+**Spell Storing (Sp)** A shield guardian can store one spell of 4th level or lower that is cast into it by another creature. It “casts” this spell when commanded to do so or when a predefined situation arises. Once this spell is used, the shield guardian can store another spell (or the same spell again.
 
-**Construction** : A shield guardian's base materials cost an additional 25,000 gp above the base golem's cost. The creature's master may assemble the body or hire someone else to do the job. The [Craft](../skills/craft#_craft) check required to make the body is 4 higher than normal for the base golem's kind. The keyed amulet is fashioned at the same time—it costs 20,000 gp above and beyond the shield guardian's total cost. After the body is sculpted, the shield guardian is animated through an extended magical ritual that requires a specially prepared laboratory or workroom, similar to an alchemist's laboratory and costing 500 gp to establish. If the creator is personally constructing the creature's body, the building and the ritual can be performed together. The creator must have a minimum caster level of 2 higher than the base golem's minimum required caster level. In addition, the following spells are added to the base golem's requirements: _ [discern location](../spells/discernLocation#_discern-location)_ and either _ [shield](../spells/shield#_shield)_ or _ [shield other](../spells/shieldOther#_shield-other)_.
+**Construction** : A shield guardian's base materials cost an additional 25,000 gp above the base golem's cost. The creature's master may assemble the body or hire someone else to do the job. The [Craft](../skill_dir/craft#_craft check required to make the body is 4 higher than normal for the base golem's kind. The keyed amulet is fashioned at the same time—it costs 20,000 gp above and beyond the shield guardian's total cost. After the body is sculpted, the shield guardian is animated through an extended magical ritual that requires a specially prepared laboratory or workroom, similar to an alchemist's laboratory and costing 500 gp to establish. If the creator is personally constructing the creature's body, the building and the ritual can be performed together. The creator must have a minimum caster level of 2 higher than the base golem's minimum required caster level. In addition, the following spells are added to the base golem's requirements: _ [discern location](../spell_dir/discernLocation#_discern-location_ and either _ [shield](../spell_dir/shield#_shield_ or _ [shield other](../spell_dir/shieldOther#_shield-other)_.
 
 # Golem, Clay
 
@@ -45,15 +45,15 @@ _This lumbering figure is sculpted from soft clay. It wears filthy rags and crud
 
 **XP 9,600**
 
-N Large [construct](creatureTypes#_construct)
+N Large [construct](creatureTypes#_construct
 
-**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +0
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
 **AC** 24, touch 8, flat-footed 24 (–1 Dex, +16 natural, –1 size)
 
-**hp** 101 (13d10+30)
+**hp** 101 (13d10+30
 
 **Fort** +4, **Ref** +3, **Will** +4
 
@@ -93,11 +93,11 @@ N Large [construct](creatureTypes#_construct)
 
 **Immunity to Magic (Ex)** A clay golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
-• A _ [move earth](../spells/moveEarth#_move-earth) _spell drives the golem back 120 feet and deals 3d12 points of damage to it (no save).
+• A _ [move earth](../spell_dir/moveEarth#_move-earth) _spell drives the golem back 120 feet and deals 3d12 points of damage to it (no save.
 
-• A _ [disintegrate](../spells/disintegrate#_disintegrate) _spell slows the golem (as the _ [slow](../spells/slow#_slow) _spell) for 1d6 rounds and deals 1d12 points of damage (no save).
+• A _ [disintegrate](../spell_dir/disintegrate#_disintegrate _spell slows the golem (as the _ [slow](../spell_dir/slow#_slow) _spell) for 1d6 rounds and deals 1d12 points of damage (no save.
 
-• An _ [earthquake](../spells/earthquake#_earthquake) _spell cast directly at a clay golem stops it from moving on its next turn and deals 5d10 points of damage (no save).
+• An _ [earthquake](../spell_dir/earthquake#_earthquake) _spell cast directly at a clay golem stops it from moving on its next turn and deals 5d10 points of damage (no save).
 
 • Any magical attack against a clay golem that deals acid damage heals 1 point of damage for every 3 points of damage it would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A clay golem gets no saving throw against magical attacks that deal acid damage.
 
@@ -113,7 +113,7 @@ A clay golem's body must be sculpted from a single block of clay weighing at lea
 
 **Construction**
 
-**Requirements** [Craft Construct](monsterFeats#_craft-construct), _ [animate objects](../spells/animateObjects#_animate-objects), [bless](../spells/bless#_bless), [commune](../spells/commune#_commune), [prayer](../spells/prayer#_prayer), [resurrection](../spells/resurrection#_resurrection)_, creator must be caster level 11th; **Skill** [Craft](../skills/craft#_craft) (sculptures) or [Craft](../skills/craft#_craft) (pottery) DC 16; **Cost** 21,500 gp
+**Requirements** [Craft Construct](monsterFeats#_craft-construct, _ [animate objects](../spell_dir/animateObjects#_animate-objects, [bless](../spell_dir/bless#_bless, [commune](../spell_dir/commune#_commune, [prayer](../spell_dir/prayer#_prayer, [resurrection](../spell_dir/resurrection#_resurrection_, creator must be caster level 11th; **Skill** [Craft](../skill_dir/craft#_craft) (sculptures or [Craft](../skill_dir/craft#_craft) (pottery) DC 16; **Cost** 21,500 gp
 
 # Golem, Flesh
 
@@ -123,15 +123,15 @@ _A hideous monstrosity crafted from body parts stitched together with thick stri
 
 **XP 3,200**
 
-N Large [construct](creatureTypes#_construct)
+N Large [construct](creatureTypes#_construct
 
-**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +0
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
 **AC** 20, touch 8, flat-footed 20; (–1 Dex, +12 natural, –1 size)
 
-**hp** 79 (9d10+30)
+**hp** 79 (9d10+30
 
 **Fort** +3, **Ref** +2, **Will** +3
 
@@ -169,9 +169,9 @@ N Large [construct](creatureTypes#_construct)
 
 **Immunity to Magic (Ex)** A flesh golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
-• A magical attack that deals cold or fire damage slows a flesh golem (as the _ [slow](../spells/slow#_slow) _spell) for 2d6 rounds (no save).
+• A magical attack that deals cold or fire damage slows a flesh golem (as the _ [slow](../spell_dir/slow#_slow) _spell) for 2d6 rounds (no save.
 
-• A magical attack that deals electricity damage breaks any _ [slow](../spells/slow#_slow) _effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A flesh golem gets no saving throw against attacks that deal electricity damage.
+• A magical attack that deals electricity damage breaks any _ [slow](../spell_dir/slow#_slow) _effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A flesh golem gets no saving throw against attacks that deal electricity damage.
 
 A flesh golem is a ghoulish collection of stolen humanoid body parts, stitched together into a single composite form. Its cadaverous flesh has a sickly green or yellowish tint. A flesh golem wears whatever clothing its creator desires, usually just a ragged pair of trousers. It has no possessions and no weapons. A flesh golem stands 8 feet tall and weighs 500 pounds.
 
@@ -189,25 +189,25 @@ The pieces of a flesh golem must come from normal humanoid corpses that have not
 
 **Construction**
 
-**Requirements** [Craft Construct](monsterFeats#_craft-construct), _ [animate dead](../spells/animateDead#_animate-dead), [bull's strength](../spells/bullSStrength#_bull-s-strength), [geas/quest](../spells/geasQuest#_geas-quest), [limited wish](../spells/limitedWish#_limited-wish)_, creator must be caster level 8th; **Skill** [Craft](../skills/craft#_craft) (leather) or [Heal](../skills/heal#_heal) DC 13; **Cost** 10,500 gp
+**Requirements** [Craft Construct](monsterFeats#_craft-construct, _ [animate dead](../spell_dir/animateDead#_animate-dead, [bull's strength](../spell_dir/bullSStrength#_bull-s-strength, [geas/quest](../spell_dir/geasQuest#_geas-quest, [limited wish](../spell_dir/limitedWish#_limited-wish_, creator must be caster level 8th; **Skill** [Craft](../skill_dir/craft#_craft) (leather or [Heal](../skill_dir/heal#_heal DC 13; **Cost** 10,500 gp
 
 # Golem, Ice
 
-_This icy [statue](../spells/statue#_statue) stands a head taller than a normal human. A rime of frost coats it, and razor-sharp shards of ice adorn its limbs._
+_This icy [statue](../spell_dir/statue#_statue) stands a head taller than a normal human. A rime of frost coats it, and razor-sharp shards of ice adorn its limbs._
 
 **Ice Golem CR 5**
 
 **XP 1,600**
 
-N Medium [construct](creatureTypes#_construct) ( [cold](creatureTypes#_cold-subtype))
+N Medium [construct](creatureTypes#_construct) ( [cold](creatureTypes#_cold-subtype)
 
-**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +0
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
 **AC** 17, touch 9, flat-footed 17 (–1 Dex, +8 natural)
 
-**hp** 53 (6d10+20)
+**hp** 53 (6d10+20
 
 **Fort** +2, **Ref** +1, **Will** +2
 
@@ -245,9 +245,9 @@ N Medium [construct](creatureTypes#_construct) ( [cold](creatureTypes#_cold-subt
 
 **Immunity to Magic (Ex)** An ice golem is immune to any spell or spell-like ability that allows spell resistance, with the exception of spells and spell-like abilities that have the Fire descriptor, which affect it normally. In addition, certain spells and effects function differently against the creature, as noted below.
 
-• A magical attack that deals electricity damage slows an ice golem (as the _ [slow](../spells/slow#_slow) _spell) for 2d6 rounds, with no saving throw.
+• A magical attack that deals electricity damage slows an ice golem (as the _ [slow](../spell_dir/slow#_slow) _spell for 2d6 rounds, with no saving throw.
 
-• A magical attack that deals cold damage breaks any _ [slow](../spells/slow#_slow) _effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. An ice golem gets no saving throw against cold effects.
+• A magical attack that deals cold damage breaks any _ [slow](../spell_dir/slow#_slow) _effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. An ice golem gets no saving throw against cold effects.
 
 Ice golems are humanoid automatons formed of carved ice. Their appearance can range from roughly chiseled figures of ice and snow to elaborately detailed ice sculptures and beautiful crystalline statues.
 
@@ -263,7 +263,7 @@ An ice golem's body must be constructed from a single block of ice weighing at l
 
 **Construction**
 
-**Requirements** [Craft Construct](monsterFeats#_craft-construct), _ [chill touch](../spells/chillTouch#_chill-touch), [cone of cold](../spells/coneOfCold#_cone-of-cold), [geas/quest](../spells/geasQuest#_geas-quest), [ice storm](../spells/iceStorm#_ice-storm), [resist energy](../spells/resistEnergy#_resist-energy) (cold)_, creator must be caster level 12th; **Skill** [Craft](../skills/craft#_craft) (sculptures) DC 17; **Cost** 9,500 gp
+**Requirements** [Craft Construct](monsterFeats#_craft-construct, _ [chill touch](../spell_dir/chillTouch#_chill-touch, [cone of cold](../spell_dir/coneOfCold#_cone-of-cold, [geas/quest](../spell_dir/geasQuest#_geas-quest, [ice storm](../spell_dir/iceStorm#_ice-storm, [resist energy](../spell_dir/resistEnergy#_resist-energy) (cold_, creator must be caster level 12th; **Skill** [Craft](../skill_dir/craft#_craft) (sculptures) DC 17; **Cost** 9,500 gp
 
 # Golem, Iron
 
@@ -273,15 +273,15 @@ _This iron automaton stands twice as tall as a normal human. Its heavy footfalls
 
 **XP 25,600**
 
-N Large [construct](creatureTypes#_construct)
+N Large [construct](creatureTypes#_construct
 
-**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +0
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
 **AC** 28, touch 8, flat-footed 28 (–1 Dex, +20 natural, –1 size)
 
-**hp** 129 (18d10+30)
+**hp** 129 (18d10+30
 
 **Fort** +6, **Ref** +5, **Will** +6
 
@@ -317,11 +317,11 @@ N Large [construct](creatureTypes#_construct)
 
 **Immunity to Magic (Ex)** An iron golem is immune to spells or spell-like abilities that allow spell resistance. Certain spells and effects function differently against it, as noted below.
 
-A magical attack that deals electricity damage slows an iron golem (as the _ [slow](../spells/slow#_slow) _spell) for 3 rounds, with no saving throw.
+A magical attack that deals electricity damage slows an iron golem (as the _ [slow](../spell_dir/slow#_slow) _spell for 3 rounds, with no saving throw.
 
-A magical attack that deals fire damage breaks any _ [slow](../spells/slow#_slow) _effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. An iron golem gets no saving throw against fire effects.
+A magical attack that deals fire damage breaks any _ [slow](../spell_dir/slow#_slow _effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. An iron golem gets no saving throw against fire effects.
 
-An iron golem is affected normally by rust attacks, such as those of a rust monster or a _ [rusting grasp](../spells/rustingGrasp#_rusting-grasp) _spell.
+An iron golem is affected normally by rust attacks, such as those of a rust monster or a _ [rusting grasp](../spell_dir/rustingGrasp#_rusting-grasp) _spell.
 
 **Powerful Blows (Ex)** An iron golem inflicts one and a half times its Strength modifier and threatens a critical hit on a 19–20 with its slam attacks.
 
@@ -341,7 +341,7 @@ An iron golem's body is sculpted from 5,000 pounds of iron, smelted with rare ti
 
 **Construction**
 
-**Requirements** [Craft Construct](monsterFeats#_craft-construct), _ [cloudkill](../spells/cloudkill#_cloudkill), [geas/quest](../spells/geasQuest#_geas-quest), [limited wish](../spells/limitedWish#_limited-wish)_, _ [polymorph any object](../spells/polymorphAnyObject#_polymorph-any-object)_, creator must be caster level 16th; **Skill** [Craft](../skills/craft#_craft) (armor) or [Craft](../skills/craft#_craft) (weapons) DC 21; **Cost** 80,000 gp
+**Requirements** [Craft Construct](monsterFeats#_craft-construct, _ [cloudkill](../spell_dir/cloudkill#_cloudkill, [geas/quest](../spell_dir/geasQuest#_geas-quest, [limited wish](../spell_dir/limitedWish#_limited-wish_, _ [polymorph any object](../spell_dir/polymorphAnyObject#_polymorph-any-object_, creator must be caster level 16th; **Skill** [Craft](../skill_dir/craft#_craft) (armor or [Craft](../skill_dir/craft#_craft) (weapons) DC 21; **Cost** 80,000 gp
 
 # Golem, Stone
 
@@ -351,15 +351,15 @@ _This towering stone automaton bears the likeness of an archaic, armored warrior
 
 **XP 12,800**
 
-N Large [construct](creatureTypes#_construct)
+N Large [construct](creatureTypes#_construct
 
-**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +0
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
 **AC** 26, touch 8, flat-footed 26 (–1 Dex, +18 natural, –1 size)
 
-**hp** 107 (14d10+30)
+**hp** 107 (14d10+30
 
 **Fort** +4, **Ref** +3, **Will** +4
 
@@ -393,9 +393,9 @@ N Large [construct](creatureTypes#_construct)
 
 **Immunity to Magic (Ex)** A stone golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
-A _ [transmute rock to mud](../spells/transmuteRockToMud#_transmute-rock-to-mud) _spell slows a stone golem (as the _ [slow](../spells/slow#_slow) _spell) for 2d6 rounds, with no saving throw, while _ [transmute mud to rock](../spells/transmuteMudToRock#_transmute-mud-to-rock) _heals all of its lost hit points.
+A _ [transmute rock to mud](../spell_dir/transmuteRockToMud#_transmute-rock-to-mud _spell slows a stone golem (as the _ [slow](../spell_dir/slow#_slow) _spell for 2d6 rounds, with no saving throw, while _ [transmute mud to rock](../spell_dir/transmuteMudToRock#_transmute-mud-to-rock _heals all of its lost hit points.
 
-A _ [stone to flesh](../spells/stoneToFlesh#_stone-to-flesh) _spell does not actually change the golem's structure but negates its damage reduction and immunity to magic for 1 full round.
+A _ [stone to flesh](../spell_dir/stoneToFlesh#_stone-to-flesh) _spell does not actually change the golem's structure but negates its damage reduction and immunity to magic for 1 full round.
 
 **Slow (Su)** A stone golem can use a slow effect, as the spell, as a free action once every 2 rounds. The effect has a range of 10 feet in a burst centered on the golem and a duration of 7 rounds, requiring a DC 17 Will save to negate. The save DC is Constitution-based.
 
@@ -413,7 +413,7 @@ A stone golem's body is chiseled from a single block of hard stone, such as gran
 
 **Construction**
 
-**Requirements** [Craft Construct](monsterFeats#_craft-construct), _ [antimagic field](../spells/antimagicField#_antimagic-field), [geas/quest](../spells/geasQuest#_geas-quest), [limited wish](../spells/limitedWish#_limited-wish), [symbol of stunning](../spells/symbolOfStunning#_symbol-of-stunning)_, creator must be caster level 14th; **Skill** [Craft](../skills/craft#_craft) (sculpture) or [Craft](../skills/craft#_craft) (stonemasonry) DC 19; **Cost** 55,000 gp
+**Requirements** [Craft Construct](monsterFeats#_craft-construct, _ [antimagic field](../spell_dir/antimagicField#_antimagic-field, [geas/quest](../spell_dir/geasQuest#_geas-quest, [limited wish](../spell_dir/limitedWish#_limited-wish, [symbol of stunning](../spell_dir/symbolOfStunning#_symbol-of-stunning_, creator must be caster level 14th; **Skill** [Craft](../skill_dir/craft#_craft) (sculpture or [Craft](../skill_dir/craft#_craft) (stonemasonry) DC 19; **Cost** 55,000 gp
 
 # Golem, Wood
 
@@ -423,15 +423,15 @@ _This human-sized automaton resembles a crude humanoid figure made of cast-off p
 
 **XP 2,400**
 
-N Medium [construct](creatureTypes#_construct)
+N Medium [construct](creatureTypes#_construct
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +0
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
 **AC** 19, touch 13, flat-footed 16 (+3 Dex, +6 natural)
 
-**hp** 64 (8d10+20)
+**hp** 64 (8d10+20
 
 **Fort** +2, **Ref** +5, **Will** +5
 
@@ -465,13 +465,13 @@ N Medium [construct](creatureTypes#_construct)
 
 **Immunity to Magic (Ex)** A wood golem is immune to any spell or spell-like ability that allows spell resistance, with the exception of spells and spell-like abilities that have the Fire descriptor, which affect it normally. In addition, certain spells and effects function differently against the creature, as noted below.
 
-_Warp wood_ or _ [wood shape](../spells/woodShape#_wood-shape)_ slows a wood golem (as the _ [slow](../spells/slow#_slow) _spell) for 2d6 rounds (no save).
+_Warp wood_ or _ [wood shape](../spell_dir/woodShape#_wood-shape_ slows a wood golem (as the _ [slow](../spell_dir/slow#_slow) _spell) for 2d6 rounds (no save).
 
-_Repel wood _drives the golem back 60 feet and deals 2d12 points of damage to it (no save).
+_Repel wood _drives the golem back 60 feet and deals 2d12 points of damage to it (no save.
 
-A magical attack that deals cold damage breaks any _ [slow](../spells/slow#_slow) _effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A wood golem gets no saving throw against attacks that deal cold damage.
+A magical attack that deals cold damage breaks any _ [slow](../spell_dir/slow#_slow) _effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A wood golem gets no saving throw against attacks that deal cold damage.
 
-**Splintering (Su)** As a free action once every 1d4+1 rounds, a wood golem can launch a barrage of razor-sharp wooden splinters from its body in a 20-foot-radius burst. All creatures caught within this area take 6d6 points of slashing damage (Reflex DC 14 halves). The save DC is Constitution-based.
+**Splintering (Su)** As a free action once every 1d4+1 rounds, a wood golem can launch a barrage of razor-sharp wooden splinters from its body in a 20-foot-radius burst. All creatures caught within this area take 6d6 points of slashing damage (Reflex DC 14 halves. The save DC is Constitution-based.
 
 A wood golem is carved from rare woods, assembled into a roughly humanoid body with articulated limbs. Their creators usually leave their bodies almost unfinished, with individual pieces of lumber and unworked wood apparent and obvious as part of their construction. A wood golem stands 6-1/2 feet tall and weighs 400 pounds.
 
@@ -485,5 +485,5 @@ The pieces of a wood golem are assembled from blocks of fine wood and sprinkled 
 
 **Construction**
 
-**Requirements** [Craft Construct](monsterFeats#_craft-construct), _ [alarm](../spells/alarm#_alarm), [animate objects](../spells/animateObjects#_animate-objects), [cat's grace](../spells/catSGrace#_cat-s-grace), [geas/quest](../spells/geasQuest#_geas-quest), [limited wish](../spells/limitedWish#_limited-wish)_, creator must be caster level 12th; **Skill** [Craft](../skills/craft#_craft) (carpentry) DC 17; **Cost** 8,800 gp
+**Requirements** [Craft Construct](monsterFeats#_craft-construct), _ [alarm](../spell_dir/alarm#_alarm, [animate objects](../spell_dir/animateObjects#_animate-objects, [cat's grace](../spell_dir/catSGrace#_cat-s-grace, [geas/quest](../spell_dir/geasQuest#_geas-quest, [limited wish](../spell_dir/limitedWish#_limited-wish_, creator must be caster level 12th; **Skill** [Craft](../skill_dir/craft#_craft) (carpentry DC 17; **Cost** 8,800 gp
 

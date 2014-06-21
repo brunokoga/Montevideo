@@ -3,11 +3,11 @@ title: advanced/spells/fireBreath
 ---
  **Fire Breath**
 
-**School** evocation [fire]; **Level** alchemist 2, sorcerer/wizard 2
+**School** evocation [fire]; **Level** alchemist 2, sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a chili pepper)
+**Components** V, S, M (a chili pepper
 
 **Range** 15 ft.
 

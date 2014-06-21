@@ -1,5 +1,5 @@
 ---
-title: monsters/octopus
+title: monster_dir/octopus
 ---
 # Octopus
 
@@ -9,9 +9,9 @@ _Eight tentacles, each adorned with rows of countless suckers, unfurl from the b
 
 **XP 400**
 
-N Small [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subtype))
+N Small [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subtype)
 
-**Init** +3; **Senses** low-light vision; [Perception](../skills/perception#_perception) +1
+**Init** +3; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +1
 
 **Defense**
 
@@ -35,9 +35,9 @@ N Small [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subty
 
 **Base Atk** +1; **CMB** +1 (+5 grapple); **CMD** 14 (can't be tripped)
 
-**Feats** [Multiattack](monsterFeats#_multiattack)B, [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Multiattack](monsterFeats#_multiattackB, [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Escape Artist](../skills/escapeArtist#_escape-artist) +13, [Stealth](../skills/stealth#_stealth) +20, [Swim](../skills/swim#_swim) +9; **Racial Modifiers** +8 [Stealth](../skills/stealth#_stealth), +10 [Escape Artist](../skills/escapeArtist#_escape-artist)
+**Skills** [Escape Artist](../skill_dir/escapeArtist#_escape-artist +13, [Stealth](../skill_dir/stealth#_stealth +20, [Swim](../skill_dir/swim#_swim +9; **Racial Modifiers** +8 [Stealth](../skill_dir/stealth#_stealth, +10 [Escape Artist](../skill_dir/escapeArtist#_escape-artist)
 
 **Ecology**
 
@@ -53,7 +53,7 @@ N Small [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subty
 
 **Jet (Ex)** An octopus can jet backward once per round as a full-round action, at a speed of 200 feet. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so.
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1 Str; _cure_ 1 save.
+**Poison (Ex** Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1 Str; _cure_ 1 save.
 
 The octopus is a cunning animal capable of using complex tactics to get food.
 
@@ -73,7 +73,7 @@ _A storm of tentacles, each twenty feet in length, flails with deadly precision 
 
 N Large [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subtype))
 
-**Init** +6; **Senses** low-light vision; [Perception](../skills/perception#_perception) +8
+**Init** +6; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
@@ -99,11 +99,11 @@ N Large [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subty
 
 **Str** 20, **Dex** 15, **Con** 17, **Int** 2, **Wis** 12, **Cha** 3
 
-**Base Atk** +9; **CMB** +15 (+19 grapple); **CMD** 27 (can't be tripped)
+**Base Atk** +9; **CMB** +15 (+19 grapple); **CMD** 27 (can't be tripped
 
-**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Multiattack](monsterFeats#_multiattack)B, [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills/stealth#_stealth)), [Stealthy](../feats#_stealthy)
+**Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Lightning Reflexes](../feats#_lightning-reflexes), [Multiattack](monsterFeats#_multiattack)B, [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth), [Stealthy](../feats#_stealthy)
 
-**Skills** [Escape Artist](../skills/escapeArtist#_escape-artist) +18, [Perception](../skills/perception#_perception) +8, [Stealth](../skills/stealth#_stealth) +18, [Swim](../skills/swim#_swim) +13; **Racial Modifiers** +10 [Escape Artist](../skills/escapeArtist#_escape-artist), +8 [Stealth](../skills/stealth#_stealth)
+**Skills** [Escape Artist](../skill_dir/escapeArtist#_escape-artist +18, [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth +18, [Swim](../skill_dir/swim#_swim +13; **Racial Modifiers** +10 [Escape Artist](../skill_dir/escapeArtist#_escape-artist, +8 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -115,7 +115,7 @@ N Large [animal](creatureTypes#_animal) ( [aquatic](creatureTypes#_aquatic-subty
 
 **Special Abilities**
 
-**Poison (Ex)** Bite—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str; _cure_ 2 saves.
+**Poison (Ex** Bite—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str; _cure_ 2 saves.
 
 The giant octopus is a true monster capable of catching and eating sharks, humans, or anything else it can grab with its tentacles.
 

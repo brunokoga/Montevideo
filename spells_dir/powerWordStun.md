@@ -1,9 +1,9 @@
 ---
-title: spells/powerWordStun
+title: spell_dir/powerWordStun
 ---
  **Power Word Stun**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 8
+**School** enchantment (compulsion [mind-affecting]; **Level** sorcerer/wizard 8
 
 **Casting Time** 1 standard action
 

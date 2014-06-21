@@ -1,5 +1,5 @@
 ---
-title: monsters/violetFungus
+title: monster_dir/violetFungus
 ---
 # Violet Fungus
 
@@ -9,9 +9,9 @@ _This mushroom grows from a bed of tentacular roots. Deep violet tendrils slithe
 
 **XP 800**
 
-N Medium [plant](creatureTypes#_plant)
+N Medium [plant](creatureTypes#_plant
 
-**Init** –1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +0
+**Init** –1; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
@@ -55,7 +55,7 @@ A violet fungus feeds on the rot and decay of organic matter, but unlike most fu
 
 Although violet fungi are mobile, they only move to attack or to hunt for prey. A violet fungus that has a steady supply of rot to sup upon is generally content to remain in one place. Many underground-dwelling cultures take advantage of this penchant, particularly troglodytes and vegepygmies, and keep multiple violet fungi in key junctions and entrances to their caverns as guardians, making sure to keep them well fed with carrion to prevent them wandering farther into the den in search of food.
 
-Some species of shriekers (_Pathfinder RPG Core Rulebook_ 416) are relatively similar in appearance to violet fungi, although they lack the tentacular branches. It's not uncommon to find shriekers and violet fungi growing in the same grove—especially in areas where other creatures cultivate the fungi as guardians.
+Some species of shriekers (_Pathfinder RPG Core Rulebook_ 416 are relatively similar in appearance to violet fungi, although they lack the tentacular branches. It's not uncommon to find shriekers and violet fungi growing in the same grove—especially in areas where other creatures cultivate the fungi as guardians.
 
 A violet fungus is 4 feet tall and weighs 50 pounds.
 
@@ -63,7 +63,7 @@ A violet fungus is 4 feet tall and weighs 50 pounds.
 
 Although a violet fungus's tentacles swiftly grow inert after the mushroom is slain, they can be wielded as Medium-sized whips for 2d6 minutes after being harvested from the creature. These whips inflict rot on anything they touch—including the wielder of the deadly weapon—and both save DCs to resist and effects are identical to the stats presented above.
 
-A DC 25 [Craft](../skills/craft#_craft) (alchemy) check and 250 gp worth of reagents can preserve the venom somewhat, although the procedure dilutes it significantly.
+A DC 25 [Craft](../skill_dir/craft#_craft) (alchemy check and 250 gp worth of reagents can preserve the venom somewhat, although the procedure dilutes it significantly.
 
 **Violet Venom** : Poison—contact; _save_ Fort DC 13, _frequency_ 1/minute for 6 minutes, _effect_ 1d2 Strength and 1d2 Con [damage](universalMonsterRules#_ability-damage-and-drain); _cure_ 1 save; _cost_ 800 gp.
 

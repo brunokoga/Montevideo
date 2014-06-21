@@ -1,9 +1,9 @@
 ---
-title: spells/mindFog
+title: spell_dir/mindFog
 ---
  **Mind Fog**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, sorcerer/wizard 5
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 5, sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 

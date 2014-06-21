@@ -3,11 +3,11 @@ title: spells/scare
 ---
  **Scare**
 
-**School** necromancy [fear, mind-affecting]; **Level** bard 2, sorcerer/wizard 2
+**School** necromancy [fear, mind-affecting]; **Level** bard 2, sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a bone from an undead creature)
+**Components** V, S, M (a bone from an undead creature
 
 **Range** medium (100 ft. + 10 ft./level)
 

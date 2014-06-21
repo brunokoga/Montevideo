@@ -12,7 +12,7 @@ An aberration has a bizarre anatomy, strange abilities, an alien mindset, or any
 - d8 Hit Die.
 - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 - Good Will saves.
-- Skill points equal to 4 + Int modifier (minimum 1) per Hit Die. The following are class skills for aberrations: [Acrobatics](../skills/acrobatics#_acrobatics), [Climb](../skills/climb#_climb), [Escape Artist](../skills/escapeArtist#_escape-artist), [Fly](../skills/fly#_fly), [Intimidate](../skills/intimidate#_intimidate), [Knowledge](../skills/knowledge#_knowledge) (pick one), [Perception](../skills/perception#_perception), [Spellcraft](../skills/spellcraft#_spellcraft), [Stealth](../skills/stealth#_stealth), [Survival](../skills/survival#_survival), and [Swim](../skills/swim#_swim).
+- Skill points equal to 4 + Int modifier (minimum 1) per Hit Die. The following are class skills for aberrations: [Acrobatics](../skill_dir/acrobatics#_acrobatics, [Climb](../skill_dir/climb#_climb, [Escape Artist](../skill_dir/escapeArtist#_escape-artist, [Fly](../skill_dir/fly#_fly, [Intimidate](../skill_dir/intimidate#_intimidate, [Knowledge](../skill_dir/knowledge#_knowledge) (pick one, [Perception](../skill_dir/perception#_perception, [Spellcraft](../skill_dir/spellcraft#_spellcraft, [Stealth](../skill_dir/stealth#_stealth, [Survival](../skill_dir/survival#_survival, and [Swim](../skill_dir/swim#_swim).
 
 **Traits** : An aberration possesses the following traits (unless otherwise noted in a creature's entry).
 
@@ -23,16 +23,16 @@ An aberration has a bizarre anatomy, strange abilities, an alien mindset, or any
 
 **Animal**
 
-An animal is a living, nonhuman creature, usually a vertebrate with no magical abilities and no innate capacity for language or culture. Animals usually have additional information on how they can serve as companions. An animal has the following features (unless otherwise noted).
+An animal is a living, nonhuman creature, usually a vertebrate with no magical abilities and no innate capacity for language or culture. Animals usually have additional information on how they can serve as companions. An animal has the following features (unless otherwise noted.
 
 - d8 Hit Die.
 - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 - Good Fortitude and Reflex saves.
-- Skill points equal to 2 + Int modifier (minimum 1) per Hit Die. The following are class skills for animals: [Acrobatics](../skills/acrobatics#_acrobatics), [Climb](../skills/climb#_climb), [Fly](../skills/fly#_fly), [Perception](../skills/perception#_perception), [Stealth](../skills/stealth#_stealth), and [Swim](../skills/swim#_swim).
+- Skill points equal to 2 + Int modifier (minimum 1) per Hit Die. The following are class skills for animals: [Acrobatics](../skill_dir/acrobatics#_acrobatics, [Climb](../skill_dir/climb#_climb, [Fly](../skill_dir/fly#_fly, [Perception](../skill_dir/perception#_perception, [Stealth](../skill_dir/stealth#_stealth, and [Swim](../skill_dir/swim#_swim).
 
 **Traits** : An animal possesses the following traits (unless otherwise noted in a creature's entry).
 
-- Intelligence score of 1 or 2 (no creature with an Intelligence score of 3 or higher can be an animal).
+- Intelligence score of 1 or 2 (no creature with an Intelligence score of 3 or higher can be an animal.
 - Low-light vision.
 - Alignment: Always neutral.
 - Treasure: None.
@@ -56,7 +56,7 @@ A construct is an animated object or artificially created creature. A construct 
 - Darkvision 60 feet.
 - Immunity to all mind-affecting effects (charms, compulsions, morale effects, patterns, and phantasms).
 - Immunity to bleed, disease, death effects, necromancy effects, paralysis, poison, sleep effects, and stunning.
-- Cannot heal damage on its own, but often can be repaired via exposure to a certain kind of effect (see the creature's description for details) or through the use of the [Craft Construct](monsterFeats#_craft-construct) feat. Constructs can also be healed through spells such as _ [make whole](../spells/makeWhole#_make-whole)_. A construct with the fast healing special quality still benefits from that quality.
+- Cannot heal damage on its own, but often can be repaired via exposure to a certain kind of effect (see the creature's description for details) or through the use of the [Craft Construct](monsterFeats#_craft-construct) feat. Constructs can also be healed through spells such as _ [make whole](../spell_dir/makeWhole#_make-whole)_. A construct with the fast healing special quality still benefits from that quality.
 - Not subject to [ability damage](universalMonsterRules#_ability-damage-and-drain), [ability drain](universalMonsterRules#_ability-damage-and-drain), fatigue, exhaustion, energy drain, or nonlethal damage.
 - Immunity to any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless).
 - Not at risk of death from massive damage. Immediately destroyed when reduced to 0 hit points or less.
@@ -86,13 +86,13 @@ A dragon is a reptile-like creature, usually winged, with magical or unusual abi
 - d12 Hit Die.
 - Base attack bonus equal to total Hit Dice (fast progression).
 - Good Fortitude, Reflex, and Will saves.
-- Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. The following are class skills for dragons: [Appraise](../skills/appraise#_appraise), [Bluff](../skills/bluff#_bluff), [Climb](../skills/climb#_climb), [Craft](../skills/craft#_craft), [Diplomacy](../skills/diplomacy#_diplomacy), [Fly](../skills/fly#_fly), [Heal](../skills/heal#_heal), [Intimidate](../skills/intimidate#_intimidate), [Knowledge](../skills/knowledge#_knowledge) (all), [Linguistics](../skills/linguistics#_linguistics), [Perception](../skills/perception#_perception), [Sense Motive](../skills/senseMotive#_sense-motive), [Spellcraft](../skills/spellcraft#_spellcraft), [Stealth](../skills/stealth#_stealth), [Survival](../skills/survival#_survival), [Swim](../skills/swim#_swim), and [Use Magic Device](../skills/useMagicDevice#_use-magic-device).
+- Skill points equal to 6 + Int modifier (minimum 1 per Hit Die. The following are class skills for dragons: [Appraise](../skill_dir/appraise#_appraise, [Bluff](../skill_dir/bluff#_bluff, [Climb](../skill_dir/climb#_climb, [Craft](../skill_dir/craft#_craft, [Diplomacy](../skill_dir/diplomacy#_diplomacy, [Fly](../skill_dir/fly#_fly, [Heal](../skill_dir/heal#_heal, [Intimidate](../skill_dir/intimidate#_intimidate, [Knowledge](../skill_dir/knowledge#_knowledge) (all, [Linguistics](../skill_dir/linguistics#_linguistics, [Perception](../skill_dir/perception#_perception, [Sense Motive](../skill_dir/senseMotive#_sense-motive, [Spellcraft](../skill_dir/spellcraft#_spellcraft, [Stealth](../skill_dir/stealth#_stealth, [Survival](../skill_dir/survival#_survival, [Swim](../skill_dir/swim#_swim, and [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device).
 
 **Traits** : A dragon possesses the following traits (unless otherwise noted in a creature's entry).
 
 - Darkvision 60 feet and low-light vision.
 - Immunity to magic sleep effects and paralysis effects.
-- Proficient with its natural weapons only unless humanoid in form (or capable of assuming humanoid form), in which case proficient with all simple weapons and any weapons mentioned in its entry.
+- Proficient with its natural weapons only unless humanoid in form (or capable of assuming humanoid form, in which case proficient with all simple weapons and any weapons mentioned in its entry.
 - Proficient with no armor.
 - Dragons breathe, eat, and sleep.
 
@@ -103,7 +103,7 @@ A fey is a creature with supernatural abilities and connections to nature or to 
 - d6 Hit Die.
 - Base attack bonus equal to 1/2 total Hit Dice (slow progression).
 - Good Reflex and Will saves.
-- Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. The following are class skills for fey: [Acrobatics](../skills/acrobatics#_acrobatics), [Bluff](../skills/bluff#_bluff), [Climb](../skills/climb#_climb), [Craft](../skills/craft#_craft), [Diplomacy](../skills/diplomacy#_diplomacy), [Disguise](../skills/disguise#_disguise), [Escape Artist](../skills/escapeArtist#_escape-artist), [Fly](../skills/fly#_fly), [Knowledge](../skills/knowledge#_knowledge) (geography), [Knowledge](../skills/knowledge#_knowledge) (local), [Knowledge](../skills/knowledge#_knowledge) (nature), [Perception](../skills/perception#_perception), [Perform](../skills/perform#_perform), [Sense Motive](../skills/senseMotive#_sense-motive), [Sleight of Hand](../skills/sleightOfHand#_sleight-of-hand), [Stealth](../skills/stealth#_stealth), [Swim](../skills/swim#_swim), [Use Magic Device](../skills/useMagicDevice#_use-magic-device).
+- Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. The following are class skills for fey: [Acrobatics](../skill_dir/acrobatics#_acrobatics, [Bluff](../skill_dir/bluff#_bluff, [Climb](../skill_dir/climb#_climb, [Craft](../skill_dir/craft#_craft, [Diplomacy](../skill_dir/diplomacy#_diplomacy, [Disguise](../skill_dir/disguise#_disguise, [Escape Artist](../skill_dir/escapeArtist#_escape-artist, [Fly](../skill_dir/fly#_fly, [Knowledge](../skill_dir/knowledge#_knowledge) (geography, [Knowledge](../skill_dir/knowledge#_knowledge) (local, [Knowledge](../skill_dir/knowledge#_knowledge) (nature, [Perception](../skill_dir/perception#_perception, [Perform](../skill_dir/perform#_perform, [Sense Motive](../skill_dir/senseMotive#_sense-motive, [Sleight of Hand](../skill_dir/sleightOfHand#_sleight-of-hand, [Stealth](../skill_dir/stealth#_stealth, [Swim](../skill_dir/swim#_swim, [Use Magic Device](../skill_dir/useMagicDevice#_use-magic-device).
 
 **Traits** : A fey possesses the following traits (unless otherwise noted in a creature's entry).
 
@@ -116,12 +116,12 @@ A fey is a creature with supernatural abilities and connections to nature or to 
 
 A humanoid usually has two arms, two legs, and one head, or a human-like torso, arms, and a head. Humanoids have few or no supernatural or extraordinary abilities, but most can speak and usually have well-developed societies. They are usually Small or Medium (with the exception of giants). Every humanoid creature also has a specific subtype to match its race, such as human, giant, goblinoid, reptilian, or tengu.
 
-Humanoids with 1 Hit Die exchange the features of their humanoid Hit Die for the class features of a PC or NPC class. Humanoids of this sort are typically presented as 1st-level warriors, which means they have average combat ability and poor saving throws. Humanoids with more than 1 Hit Die are the only humanoids who make use of the features of the humanoid type. A humanoid has the following features (unless otherwise noted in a creature's entry).
+Humanoids with 1 Hit Die exchange the features of their humanoid Hit Die for the class features of a PC or NPC class. Humanoids of this sort are typically presented as 1st-level warriors, which means they have average combat ability and poor saving throws. Humanoids with more than 1 Hit Die are the only humanoids who make use of the features of the humanoid type. A humanoid has the following features (unless otherwise noted in a creature's entry.
 
 - d8 Hit Die, or by character class.
 - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 - One good save, usually Reflex.
-- Skill points equal to 2 + Int modifier (minimum 1) per Hit Die or by character class. The following are class skills for humanoids without a character class: [Climb](../skills/climb#_climb), [Craft](../skills/craft#_craft), [Handle Animal](../skills/handleAnimal#_handle-animal), [Heal](../skills/heal#_heal), [Profession](../skills/profession#_profession), [Ride](../skills/ride#_ride), and [Survival](../skills/survival#_survival). Humanoids with a character class use their class's skill list instead. Humanoids with both a character class and racial HD add these skill sto their list of class skills.
+- Skill points equal to 2 + Int modifier (minimum 1) per Hit Die or by character class. The following are class skills for humanoids without a character class: [Climb](../skill_dir/climb#_climb, [Craft](../skill_dir/craft#_craft, [Handle Animal](../skill_dir/handleAnimal#_handle-animal, [Heal](../skill_dir/heal#_heal, [Profession](../skill_dir/profession#_profession, [Ride](../skill_dir/ride#_ride, and [Survival](../skill_dir/survival#_survival). Humanoids with a character class use their class's skill list instead. Humanoids with both a character class and racial HD add these skill sto their list of class skills.
 
 **Traits** : A humanoid possesses the following traits (unless otherwise noted in a creature's entry).
 
@@ -136,7 +136,7 @@ Magical beasts are similar to animals but can have Intelligence scores higher th
 - d10 Hit Die.
 - Base attack bonus equal to total Hit Dice (fast progression).
 - Good Fortitude and Reflex saves.
-- Skill points equal to 2 + Int modifier (minimum 1) per Hit Die. The following are class skills for magical beasts: [Acrobatics](../skills/acrobatics#_acrobatics), [Climb](../skills/climb#_climb), [Fly](../skills/fly#_fly), [Perception](../skills/perception#_perception), [Stealth](../skills/stealth#_stealth), [Swim](../skills/swim#_swim).
+- Skill points equal to 2 + Int modifier (minimum 1 per Hit Die. The following are class skills for magical beasts: [Acrobatics](../skill_dir/acrobatics#_acrobatics, [Climb](../skill_dir/climb#_climb, [Fly](../skill_dir/fly#_fly, [Perception](../skill_dir/perception#_perception, [Stealth](../skill_dir/stealth#_stealth, [Swim](../skill_dir/swim#_swim).
 
 **Traits** : A magical beast possesses the following traits (unless otherwise noted in a creature's entry).
 
@@ -153,13 +153,13 @@ Monstrous humanoids are similar to humanoids, but with monstrous or animalistic 
 - d10 Hit Die.
 - Base attack bonus equal to total Hit Dice (fast progression).
 - Good Reflex and Will saves.
-- Skill points equal to 4 + Int modifier (minimum 1) per Hit Die. The following are class skills for monstrous humanoids: [Climb](../skills/climb#_climb), [Craft](../skills/craft#_craft), [Fly](../skills/fly#_fly), [Intimidate](../skills/intimidate#_intimidate), [Perception](../skills/perception#_perception), [Ride](../skills/ride#_ride), [Stealth](../skills/stealth#_stealth), [Survival](../skills/survival#_survival), and [Swim](../skills/swim#_swim).
+- Skill points equal to 4 + Int modifier (minimum 1 per Hit Die. The following are class skills for monstrous humanoids: [Climb](../skill_dir/climb#_climb, [Craft](../skill_dir/craft#_craft, [Fly](../skill_dir/fly#_fly, [Intimidate](../skill_dir/intimidate#_intimidate, [Perception](../skill_dir/perception#_perception, [Ride](../skill_dir/ride#_ride, [Stealth](../skill_dir/stealth#_stealth, [Survival](../skill_dir/survival#_survival, and [Swim](../skill_dir/swim#_swim).
 
 **Traits** : A monstrous humanoid possesses the following traits (unless otherwise noted in a creature's entry).
 
 - Darkvision 60 feet.
 - Proficient with all simple weapons and any weapons mentioned in its entry.
-- Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all lighter types. Monstrous humanoids not indicated as wearing armor are not proficient with armor. Monstrous humanoids are proficient with shields if they are proficient with any form of armor.
+- Proficient with whatever type of armor (light, medium, or heavy it is described as wearing, as well as all lighter types. Monstrous humanoids not indicated as wearing armor are not proficient with armor. Monstrous humanoids are proficient with shields if they are proficient with any form of armor.
 - Monstrous humanoids breathe, eat, and sleep.
 
 **Ooze**
@@ -189,15 +189,15 @@ An outsider is at least partially composed of the essence (but not necessarily t
 - d10 Hit Dice.
 - Base attack bonus equal to total Hit Dice (fast progression).
 - Two good saving throws, usually Reflex and Will.
-- Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. The following are class skills for outsiders: [Bluff](../skills/bluff#_bluff), [Craft](../skills/craft#_craft), [Knowledge](../skills/knowledge#_knowledge) (planes), [Perception](../skills/perception#_perception), [Sense Motive](../skills/senseMotive#_sense-motive), and [Stealth](../skills/stealth#_stealth). Due to their varied nature, outsiders also receive 4 additional class skills determined by the creature's theme.
+- Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. The following are class skills for outsiders: [Bluff](../skill_dir/bluff#_bluff, [Craft](../skill_dir/craft#_craft, [Knowledge](../skill_dir/knowledge#_knowledge) (planes, [Perception](../skill_dir/perception#_perception, [Sense Motive](../skill_dir/senseMotive#_sense-motive, and [Stealth](../skill_dir/stealth#_stealth). Due to their varied nature, outsiders also receive 4 additional class skills determined by the creature's theme.
 
-**Traits** : An outsider possesses the following traits (unless otherwise noted in a creature's entry).
+**Traits** : An outsider possesses the following traits (unless otherwise noted in a creature's entry.
 
 - Darkvision 60 feet.
-- Unlike most living creatures, an outsider does not have a dual nature—its soul and body form one unit. When an outsider is slain, no soul is set loose. Spells that restore souls to their bodies, such as _ [raise dead](../spells/raiseDead#_raise-dead), [reincarnate](../spells/reincarnate#_reincarnate), _and _ [resurrection](../spells/resurrection#_resurrection), _don't work on an outsider. It takes a different magical effect, such as _ [limited wish](../spells/limitedWish#_limited-wish), [wish](../spells/wish#_wish), [miracle](../spells/miracle#_miracle), _or _ [true resurrection](../spells/trueResurrection#_true-resurrection) _to restore it to life. An outsider with the native subtype can be raised, reincarnated, or resurrected just as other living creatures can be.
+- Unlike most living creatures, an outsider does not have a dual nature—its soul and body form one unit. When an outsider is slain, no soul is set loose. Spells that restore souls to their bodies, such as _ [raise dead](../spell_dir/raiseDead#_raise-dead, [reincarnate](../spell_dir/reincarnate#_reincarnate, _and _ [resurrection](../spell_dir/resurrection#_resurrection, _don't work on an outsider. It takes a different magical effect, such as _ [limited wish](../spell_dir/limitedWish#_limited-wish, [wish](../spell_dir/wish#_wish, [miracle](../spell_dir/miracle#_miracle, _or _ [true resurrection](../spell_dir/trueResurrection#_true-resurrection) _to restore it to life. An outsider with the native subtype can be raised, reincarnated, or resurrected just as other living creatures can be.
 - Proficient with all simple and martial weapons and any weapons mentioned in its entry.
 - Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all lighter types. Outsiders not indicated as wearing armor are not proficient with armor. Outsiders are proficient with shields if they are proficient with any form of armor.
-- Outsiders breathe, but do not need to eat or sleep (although they can do so if they wish). Native outsiders breathe, eat, and sleep. 
+- Outsiders breathe, but do not need to eat or sleep (although they can do so if they wish. Native outsiders breathe, eat, and sleep. 
 
 **Plant**
 
@@ -206,12 +206,12 @@ This type comprises vegetable creatures. Note that regular plants, such as one f
 - d8 Hit Die.
 - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 - Good Fortitude saves.
-- Skill points equal to 2 + Int modifier (minimum 1) per Hit Die. Some plant creatures, however, are mindless and gain no skill points or feats. The following are class skills for plants: [Perception](../skills/perception#_perception) and [Stealth](../skills/stealth#_stealth).
+- Skill points equal to 2 + Int modifier (minimum 1) per Hit Die. Some plant creatures, however, are mindless and gain no skill points or feats. The following are class skills for plants: [Perception](../skill_dir/perception#_perception and [Stealth](../skill_dir/stealth#_stealth).
 
 **Traits** : A plant creature possesses the following traits (unless otherwise noted in a creature's entry).
 
 - Low-light vision.
-- Immunity to all mind-affecting effects (charms, compulsions, morale effects, patterns, and phantasms).
+- Immunity to all mind-affecting effects (charms, compulsions, morale effects, patterns, and phantasms.
 - Immunity to paralysis, poison, polymorph, sleep effects, and stunning.
 - Proficient with its natural weapons only.
 - Not proficient with armor.
@@ -224,7 +224,7 @@ Undead are once-living creatures animated by spiritual or supernatural forces. A
 - d8 Hit Die.
 - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 - Good Will saves.
-- Skill points equal to 4 + Int modifier (minimum 1) per Hit Die. Many undead, however, are mindless and gain no skill points or feats. The following are class skills for undead: [Climb](../skills/climb#_climb), [Disguise](../skills/disguise#_disguise), [Fly](../skills/fly#_fly), [Intimidate](../skills/intimidate#_intimidate), [Knowledge](../skills/knowledge#_knowledge) (arcana), [Knowledge](../skills/knowledge#_knowledge) (religion), [Perception](../skills/perception#_perception), [Sense Motive](../skills/senseMotive#_sense-motive), [Spellcraft](../skills/spellcraft#_spellcraft), and [Stealth](../skills/stealth#_stealth).
+- Skill points equal to 4 + Int modifier (minimum 1) per Hit Die. Many undead, however, are mindless and gain no skill points or feats. The following are class skills for undead: [Climb](../skill_dir/climb#_climb, [Disguise](../skill_dir/disguise#_disguise, [Fly](../skill_dir/fly#_fly, [Intimidate](../skill_dir/intimidate#_intimidate, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana, [Knowledge](../skill_dir/knowledge#_knowledge) (religion, [Perception](../skill_dir/perception#_perception, [Sense Motive](../skill_dir/senseMotive#_sense-motive, [Spellcraft](../skill_dir/spellcraft#_spellcraft, and [Stealth](../skill_dir/stealth#_stealth).
 
 **Traits** : An undead creature possesses the following traits (unless otherwise noted in a creature's entry).
 
@@ -234,11 +234,11 @@ Undead are once-living creatures animated by spiritual or supernatural forces. A
 - Immunity to bleed, death effects, disease, paralysis, poison, sleep effects, and stunning.
 - Not subject to nonlethal damage, [ability drain](universalMonsterRules#_ability-damage-and-drain), or energy drain. Immune to [damage](universalMonsterRules#_ability-damage-and-drain) to its physical ability scores (Constitution, Dexterity, and Strength), as well as to exhaustion and fatigue effects.
 - Cannot heal damage on its own if it has no Intelligence score, although it can be healed. Negative energy (such as an _inflict _spell) can heal undead creatures. The fast healing special quality works regardless of the creature's Intelligence score.
-- Immunity to any effect that requires a Fortitude save (unless the effect also works on objects or is harmless).
+- Immunity to any effect that requires a Fortitude save (unless the effect also works on objects or is harmless.
 - Not at risk of death from massive damage, but is immediately destroyed when reduced to 0 hit points.
-- Not affected by _ [raise dead](../spells/raiseDead#_raise-dead) _and _ [reincarnate](../spells/reincarnate#_reincarnate) _spells or abilities. _Resurrection _and _ [true resurrection](../spells/trueResurrection#_true-resurrection) _can affect undead creatures. These spells turn undead creatures back into the living creatures they were before becoming undead.
+- Not affected by _ [raise dead](../spell_dir/raiseDead#_raise-dead _and _ [reincarnate](../spell_dir/reincarnate#_reincarnate _spells or abilities. _Resurrection _and _ [true resurrection](../spell_dir/trueResurrection#_true-resurrection) _can affect undead creatures. These spells turn undead creatures back into the living creatures they were before becoming undead.
 - Proficient with its natural weapons, all simple weapons, and any weapons mentioned in its entry.
-- Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all lighter types. Undead not indicated as wearing armor are not proficient with armor. Undead are proficient with shields if they are proficient with any form of armor.
+- Proficient with whatever type of armor (light, medium, or heavy it is described as wearing, as well as all lighter types. Undead not indicated as wearing armor are not proficient with armor. Undead are proficient with shields if they are proficient with any form of armor.
 - Undead do not breathe, eat, or sleep.
 
 **Vermin**
@@ -271,9 +271,9 @@ Some creatures have one or more subtypes. Subtypes add additional abilities and 
 
 _Envisaging (Su)_ Aeons communicate wordlessly, almost incomprehensibly. Caring little for the wants and desires of other creatures, they have no need to engage in exchanges of dialogue. Instead, aeons mentally scan beings for their thoughts and intentions, and then retaliate with flashes of psychic projections that emit a single concept in response to whatever the other being was thinking. The flash is usually a combination of a visual and aural stimulation, which displays how the aeon perceives future events might work out. For instance, an aeon seeking to raze a city communicates this concept to non-aeons by sending them a vivid image of the city crumbling to ash. An aeon's envisaging functions as a non-verbal form of telepathy. Aeons cannot read the thoughts of any creature immune to mind-affecting effects.
 
-_Extension of All (Ex)_ Through an aeon's connection to the multiverse, it gains access to strange and abstruse knowledge that filters through all existence. Much of the knowledge is timeless, comprised of events long past, present, and potentially even those yet to come. Aeons gain a racial bonus equal to half their racial Hit Dice on all [Knowledge](../skills/knowledge#_knowledge) skill checks. This same connection also binds them to other aeons. As a result, they can communicate with each other freely, over great distances as if using telepathy. This ability also works across planes, albeit less effectively, allowing the communication of vague impressions or feelings, not specific details or sights. Due to the vast scope of the aeon race's multiplanar concerns, though, even the most dire reports of a single aeon rarely inspire dramatic or immediate action.
+_Extension of All (Ex)_ Through an aeon's connection to the multiverse, it gains access to strange and abstruse knowledge that filters through all existence. Much of the knowledge is timeless, comprised of events long past, present, and potentially even those yet to come. Aeons gain a racial bonus equal to half their racial Hit Dice on all [Knowledge](../skill_dir/knowledge#_knowledge) skill checks. This same connection also binds them to other aeons. As a result, they can communicate with each other freely, over great distances as if using telepathy. This ability also works across planes, albeit less effectively, allowing the communication of vague impressions or feelings, not specific details or sights. Due to the vast scope of the aeon race's multiplanar concerns, though, even the most dire reports of a single aeon rarely inspire dramatic or immediate action.
 
-_Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-tangible manifestation of something greater. An aeon's void form grants it a deflection bonus equal to 1/4 its Hit Dice (rounded down).
+_Void Form (Su_ Though aeons aren't incorporeal, their forms are only a semi-tangible manifestation of something greater. An aeon's void form grants it a deflection bonus equal to 1/4 its Hit Dice (rounded down).
 
 **Agathion Subtype** : Agathions are beast-aspect outsiders native to Nirvana. They have the following traits.
 
@@ -283,10 +283,10 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 - Lay on hands as a paladin whose level equals the agathion's Hit Dice.
 - +4 racial bonus on saving throws against poison.
 - Except where otherwise noted, agathions speak Celestial, Infernal, and Draconic.
-- _Speak with Animals (Su)_ This ability works like _ [speak with animals](../spells/speakWithAnimals#_speak-with-animals)_ (caster level equal to the agathion's Hit Dice) but is a free action and does not require sound.
-- _Truespeech (Su)_ All agathions can speak with any creature that has a language, as though using a _ [tongues](../spells/tongues#_tongues)_ spell (caster level equal to angel's Hit Dice). This ability is always active.
+- _Speak with Animals (Su)_ This ability works like _ [speak with animals](../spell_dir/speakWithAnimals#_speak-with-animals)_ (caster level equal to the agathion's Hit Dice) but is a free action and does not require sound.
+- _Truespeech (Su_ All agathions can speak with any creature that has a language, as though using a _ [tongues](../spell_dir/tongues#_tongues)_ spell (caster level equal to angel's Hit Dice. This ability is always active.
 
-**Air Subtype** : This subtype is usually used for outsiders with a connection to the Elemental Plane of Air. Air creatures always have fly speeds and usually have perfect maneuverability. Air creatures treat [Fly](../skills/fly#_fly) as a class skill.
+**Air Subtype** : This subtype is usually used for outsiders with a connection to the Elemental Plane of Air. Air creatures always have fly speeds and usually have perfect maneuverability. Air creatures treat [Fly](../skill_dir/fly#_fly) as a class skill.
 
 **Angel Subtype** : Angels are a race of celestials, or good outsiders, native to the good-aligned outer planes. An angel possesses the following traits (unless otherwise noted in a creature's entry).
 
@@ -294,10 +294,10 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 - Immunity to acid, cold, and petrification.
 - Resistance to electricity 10 and fire 10.
 - +4 racial bonus on saves against poison.
-- _Protective Aura (Su)_ Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the angel. Otherwise, it functions as a _ [magic circle against evil](../spells/magicCircleAgainstEvil#_magic-circle-against-evil)_ effect and a _ [lesser globe of invulnerability](../spells/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, both with a radius of 20 feet (caster level equals angel's HD). The defensive benefits from the circle are not included in an angel's statistics block.
-- _Truespeech (Su)_ All angels can speak with any creature that has a language, as though using a _ [tongues](../spells/tongues#_tongues)_ spell (caster level equal to angel's Hit Dice). This ability is always active.
+- _Protective Aura (Su_ Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the angel. Otherwise, it functions as a _ [magic circle against evil](../spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil_ effect and a _ [lesser globe of invulnerability](../spell_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, both with a radius of 20 feet (caster level equals angel's HD). The defensive benefits from the circle are not included in an angel's statistics block.
+- _Truespeech (Su_ All angels can speak with any creature that has a language, as though using a _ [tongues](../spell_dir/tongues#_tongues)_ spell (caster level equal to angel's Hit Dice. This ability is always active.
 
-**Aquatic Subtype** : These creatures always have swim speeds and can move in water without making [Swim](../skills/swim#_swim) checks. An aquatic creature can breathe water. It cannot breathe air unless it has the [amphibious](universalMonsterRules#_amphibious) special quality. Aquatic creatures always treat [Swim](../skills/swim#_swim) as a class skill.
+**Aquatic Subtype** : These creatures always have swim speeds and can move in water without making [Swim](../skill_dir/swim#_swim) checks. An aquatic creature can breathe water. It cannot breathe air unless it has the [amphibious](universalMonsterRules#_amphibious special quality. Aquatic creatures always treat [Swim](../skill_dir/swim#_swim) as a class skill.
 
 **Archon Subtype** : Archons are a race of celestials, or good outsiders, native to lawful good-aligned outer planes. An archon possesses the following traits (unless otherwise noted in a creature's entry).
 
@@ -305,8 +305,8 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 - _Aura of Menace (Su)_ A righteous aura surrounds archons that fight or get angry. Any hostile creature within a 20-foot radius of an archon must succeed on a Will save to resist its effects. The save DC varies with the type of archon, is Charisma-based, and includes a +2 racial bonus. Those who fail take a –2 penalty on attacks, AC, and saves for 24 hours or until they successfully hit the archon that generated the aura. A creature that has resisted or broken the effect cannot be affected again by the same archon's aura for 24 hours.
 - Immunity to electricity and petrification.
 - +4 racial bonus on saves against poison.
-- _Teleport (Sp) _Archons can use _ [greater teleport](../spells/teleport#_teleport-greater)_ at will, as the spell (caster level 14th), except that the creature can transport only itself and up to 50 pounds of carried objects.
-- _Truespeech (Su)_ All archons can speak with any creature that has a language, as though using a _ [tongues](../spells/tongues#_tongues) _spell (caster level 14th). This ability is always active.
+- _Teleport (Sp _Archons can use _ [greater teleport](../spell_dir/teleport#_teleport-greater)_ at will, as the spell (caster level 14th), except that the creature can transport only itself and up to 50 pounds of carried objects.
+- _Truespeech (Su_ All archons can speak with any creature that has a language, as though using a _ [tongues](../spell_dir/tongues#_tongues) _spell (caster level 14th). This ability is always active.
 
 **Asura Subtype** : An asura has the following traits, unless otherwise noted in the creature's entry.
 
@@ -314,12 +314,12 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 - Resistance to acid 10 and electricity 10.
 - +2 racial bonus on saving throws against enchantment spells.
 - Telepathy.
-- Elusive Aura (Su) Asuras exist within reality but apart from it. All but the least of asuras exude an aura that affects all creatures within the area as if by a _ [nondetection](spells/nondetection#_nondetection)_ spell. The size of the aura is proportional to the asura's power. The caster level check to attempt divination on creatures within the aura is 15 + the spell-like ability caster level of the asura creating the aura. 
-- _Regeneration (Ex)_ The divine spark at the core of their being allows asuras to regenerate at varying rates. Good weapons and spells can kill an asura.
-- _Spell [Resistance](spells/resistance#_resistance) (Ex)_ Most asuras are resistant to magic and have an SR equal to 11 + their CR. Only the weakest asuras lack this ability.
-- _Summon (Sp)_ Asuras share the ability to summon others of their kind, typically another of their type or a small number of weaker asuras.
+- Elusive Aura (Su Asuras exist within reality but apart from it. All but the least of asuras exude an aura that affects all creatures within the area as if by a _ [nondetection](spell_dir/nondetection#_nondetection)_ spell. The size of the aura is proportional to the asura's power. The caster level check to attempt divination on creatures within the aura is 15 + the spell-like ability caster level of the asura creating the aura. 
+- _Regeneration (Ex_ The divine spark at the core of their being allows asuras to regenerate at varying rates. Good weapons and spells can kill an asura.
+- _Spell [Resistance](spell_dir/resistance#_resistance) (Ex)_ Most asuras are resistant to magic and have an SR equal to 11 + their CR. Only the weakest asuras lack this ability.
+- _Summon (Sp_ Asuras share the ability to summon others of their kind, typically another of their type or a small number of weaker asuras.
 - An asura's natural weapons, as well as any weapons it wields, are treated as lawful and evil for the purpose of overcoming damage reduction.
-- +6 racial bonus on [Escape Artist](skills/escapeArtist#_escape-artist) checks and a +4 racial bonus on [Perception](skills/perception#_perception) checks.
+- +6 racial bonus on [Escape Artist](skill_dir/escapeArtist#_escape-artist checks and a +4 racial bonus on [Perception](skill_dir/perception#_perception) checks.
 
 **Augmented Subtype** : A creature receives this subtype when something (usually a template) changes its original type. Some creatures (those with an inherited template) are born with this subtype; others acquire it when they take on an acquired template. The augmented subtype is always paired with the creature's original type.
 
@@ -328,20 +328,20 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 - Darkvision 60 feet and low-light vision.
 - Immunity to electricity and petrification.
 - Resistance to cold 10 and fire 10.
-- _Truespeech (Su)_ All azatas can speak with any creature that has a language, as though using a _ [tongues](../spells/tongues#_tongues) _spell (caster level 14th). This ability is always active.
+- _Truespeech (Su_ All azatas can speak with any creature that has a language, as though using a _ [tongues](../spell_dir/tongues#_tongues) _spell (caster level 14th). This ability is always active.
 
 **Behemoth Subtype** : A behemoth is a neutral Colossal magical beast of great strength and power. Behemoths possess the following traits unless otherwise noted.
 
 - Blindsense 60 feet.
 - Immunity to ability damage, aging, bleed, disease, energy drain, fire, mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, poison, and polymorph. Some behemoths possess additional immunities.
-- _Regeneration (Ex)_ No form of attack can suppress a behemoth's regeneration—it regenerates even if disintegrated or slain by a death effect. If a behemoth fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is dealt to its remains. It can be banished or otherwise transported away as a means to save a region, but the only way to truly kill a behemoth is to use _ [miracle](spells/miracle#_miracle)_ or _ [wish](spells/wish#_wish)_ to negate its regeneration (see below).
+- _Regeneration (Ex_ No form of attack can suppress a behemoth's regeneration—it regenerates even if disintegrated or slain by a death effect. If a behemoth fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is dealt to its remains. It can be banished or otherwise transported away as a means to save a region, but the only way to truly kill a behemoth is to use _ [miracle](spell_dir/miracle#_miracle_ or _ [wish](spell_dir/wish#_wish)_ to negate its regeneration (see below.
 - DR 15/epic.
 - SR equal to 11 + the behemoth's CR.
 - Behemoths understand Aklo, but cannot speak.
 - Behemoths eat, but do not breathe or sleep.
-- Ruinous (Su) A behemoth's natural attacks penetrate damage reduction as if they were epic and magic, and ignore up to 20 points of hardness on objects struck. As a swift action, whenever it strikes a creature or object with a spell effect in place, it can attempt to dispel one randomly determined spell effect on that creature as if with a _ [greater dispel magic](spells/dispelMagic#_dispel-magic-greater)_ (CL 20th).
+- Ruinous (Su) A behemoth's natural attacks penetrate damage reduction as if they were epic and magic, and ignore up to 20 points of hardness on objects struck. As a swift action, whenever it strikes a creature or object with a spell effect in place, it can attempt to dispel one randomly determined spell effect on that creature as if with a _ [greater dispel magic](spell_dir/dispelMagic#_dispel-magic-greater)_ (CL 20th).
 - _Unstoppable (Ex)_ If a behemoth starts its turn suffering from any or all of the following conditions, it recovers from them at the end of its turn: blind, confused, dazed, deafened, dazzled, exhausted, fatigued, nauseated, sickened, slowed, staggered, and stunned.
-- Vulnerable to Miracles and Wishes (Su) A spell effect created by a _ [miracle](spells/miracle#_miracle)_ or _ [wish](spells/wish#_wish)_ spell is particularly effective against a behemoth. A spellcaster gains a +6 bonus on its caster level check to penetrate a behemoth's SR with a _ [miracle](spells/miracle#_miracle)_ or _ [wish](spells/wish#_wish)_ spell, and the behemoth suffers a –6 penalty on saves against these spells. A _ [miracle](spells/miracle#_miracle)_ or a _ [wish](spells/wish#_wish)_ spell can negate a behemoth's regeneration, but only for 1d4 rounds per casting.
+- Vulnerable to Miracles and Wishes (Su A spell effect created by a _ [miracle](spell_dir/miracle#_miracle_ or _ [wish](spell_dir/wish#_wish_ spell is particularly effective against a behemoth. A spellcaster gains a +6 bonus on its caster level check to penetrate a behemoth's SR with a _ [miracle](spell_dir/miracle#_miracle_ or _ [wish](spell_dir/wish#_wish_ spell, and the behemoth suffers a –6 penalty on saves against these spells. A _ [miracle](spell_dir/miracle#_miracle_ or a _ [wish](spell_dir/wish#_wish)_ spell can negate a behemoth's regeneration, but only for 1d4 rounds per casting.
 
 **Catfolk Subtype** : This subtype is applied to the humanoid felines called catfolk and creatures related to catfolk.
 
@@ -389,8 +389,8 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 
 - Immunity to fire and poison.
 - Resistance to acid 10 and cold 10.
-- _See in Darkness (Su)_ Some devils can see perfectly in darkness of any kind, even that created by a _ [deeper darkness](../spells/deeperDarkness#_deeper-darkness)_ spell.
-- _Summon (Sp) _Devils share the ability to summon others of their kind, typically another of their type or a small number of less-powerful devils.
+- _See in Darkness (Su_ Some devils can see perfectly in darkness of any kind, even that created by a _ [deeper darkness](../spell_dir/deeperDarkness#_deeper-darkness)_ spell.
+- _Summon (Sp _Devils share the ability to summon others of their kind, typically another of their type or a small number of less-powerful devils.
 - Telepathy.
 - Except when otherwise noted, devils speak Celestial, Draconic, and Infernal.
 - A devil's natural weapons, as well as any weapons it wields, are treated as lawful and evil for the purpose of resolving damage reduction.
@@ -399,7 +399,7 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 
 - Immunity to fire and poison.
 - Resistance to acid 10 and electricity 10.
-- _See in [Darkness](spells/darkness#_darkness) (Su)_ Some divs can see perfectly in darkness of any kind, even that created by a _ [deeper darkness](spells/deeperDarkness#_deeper-darkness)_ spell.
+- _See in [Darkness](spell_dir/darkness#_darkness) (Su_ Some divs can see perfectly in darkness of any kind, even that created by a _ [deeper darkness](spell_dir/deeperDarkness#_deeper-darkness)_ spell.
 - _Summon (Sp)_ Some divs share the ability to summon others of their kind. Each entry describes the success chance and type of divs summoned.
 - Telepathy.
 - Except where otherwise noted, divs speak Abyssal, Celestial, and Infernal.
@@ -420,15 +420,15 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 
 **Evil Subtype** : This subtype is usually applied to outsiders native to the evil-aligned outer planes. Evil outsiders are also called fiends. Most creatures that have this subtype also have evil alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has an evil alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the evil subtype overcomes damage reduction as if its natural weapons and any weapons it wields are evil-aligned (see Damage Reduction, page 299).
 
-**Extraplanar Subtype** : This subtype is applied to any creature when it is on a plane other than its native plane. A creature that travels the planes can gain or lose this subtype as it goes from plane to plane. Monster entries assume that encounters with creatures take place on the Material Plane, and every creature whose native plane is not the Material Plane has the extraplanar subtype (but would not have it when on its home plane). Every extraplanar creature in this book has a home plane mentioned in its description. Creatures not labeled as extraplanar are natives of the Material Plane, and they gain the extraplanar subtype if they leave the Material Plane. No creature has the extraplanar subtype when it is on a transitive plane, such as the Astral Plane, the Ethereal Plane, or the Plane of Shadow.
+**Extraplanar Subtype** : This subtype is applied to any creature when it is on a plane other than its native plane. A creature that travels the planes can gain or lose this subtype as it goes from plane to plane. Monster entries assume that encounters with creatures take place on the Material Plane, and every creature whose native plane is not the Material Plane has the extraplanar subtype (but would not have it when on its home plane. Every extraplanar creature in this book has a home plane mentioned in its description. Creatures not labeled as extraplanar are natives of the Material Plane, and they gain the extraplanar subtype if they leave the Material Plane. No creature has the extraplanar subtype when it is on a transitive plane, such as the Astral Plane, the Ethereal Plane, or the Plane of Shadow.
 
 **Fire Subtype** : A creature with the fire subtype has immunity to fire and vulnerability to cold.
 
-**Giant Subtype** : A giant is a humanoid creature of great strength, usually of at least Large size. Giants have a number of racial Hit Dice and never substitute such Hit Dice for class levels like some humanoids. Giants have low-light vision, and treat [Intimidate](../skills/intimidate#_intimidate) and [Perception](../skills/perception#_perception) as class skills.
+**Giant Subtype** : A giant is a humanoid creature of great strength, usually of at least Large size. Giants have a number of racial Hit Dice and never substitute such Hit Dice for class levels like some humanoids. Giants have low-light vision, and treat [Intimidate](../skill_dir/intimidate#_intimidate and [Perception](../skill_dir/perception#_perception as class skills.
 
 **Gnome Subtype** : This subtype is applied to gnomes and creatures related to gnomes. Creatures with the gnome subtype have low-light vision.
 
-**Goblinoid Subtype** : Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin. Goblinoids treat [Stealth](../skills/stealth#_stealth) as a class skill.
+**Goblinoid Subtype** : Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin. Goblinoids treat [Stealth](../skill_dir/stealth#_stealth) as a class skill.
 
 **Good Subtype** : This subtype is usually applied to outsiders native to the good-aligned outer planes. Most creatures that have this subtype also have good alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a good alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the good subtype overcomes damage reduction as if its natural weapons and any weapons it wields are good-aligned (see Damage Reduction, page 299).
 
@@ -436,16 +436,16 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 
 **Human Subtype** : This subtype is applied to humans and creatures related to humans.
 
-**Incorporeal Subtype** : An incorporeal creature has no physical body. An incorporeal creature is immune to critical hits and precision-based damage (such as sneak attack damage) unless the attacks are made using a weapon with the _ [ghost touch](../magicItems/weapons#_weapons-ghost-touch)_ special weapon quality. In addition, creatures with the incorporeal subtype gain the incorporeal special quality.
+**Incorporeal Subtype** : An incorporeal creature has no physical body. An incorporeal creature is immune to critical hits and precision-based damage (such as sneak attack damage unless the attacks are made using a weapon with the _ [ghost touch](../magicItem_dir/weapons#_weapons-ghost-touch)_ special weapon quality. In addition, creatures with the incorporeal subtype gain the incorporeal special quality.
 
 **Inevitable Subtype** : Inevitables are construct-like outsiders built by the axiomites to enforce law. They have the following traits.
 
 - Low-light vision.
-- _Constructed (Ex)_ Although inevitables are living outsiders, their bodies are constructed of physical components, and in many ways they function as constructs. For the purposes of effects targeting creatures by type (such as a ranger's favored enemy and _ [bane](../magicItems/weapons#_weapons-bane)_ weapons), inevitables count as both outsiders and constructs. They are immune to death effects, disease, mind-affecting effects, necromancy effects, paralysis, poison, sleep, stun, and any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless). Inevitables are not subject to nonlethal damage, ability damage, ability drain, fatigue, exhaustion, or energy drain. They are not at risk of death from massive damage. They have bonus hit points as constructs of their size.
+- _Constructed (Ex_ Although inevitables are living outsiders, their bodies are constructed of physical components, and in many ways they function as constructs. For the purposes of effects targeting creatures by type (such as a ranger's favored enemy and _ [bane](../magicItem_dir/weapons#_weapons-bane)_ weapons), inevitables count as both outsiders and constructs. They are immune to death effects, disease, mind-affecting effects, necromancy effects, paralysis, poison, sleep, stun, and any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless. Inevitables are not subject to nonlethal damage, ability damage, ability drain, fatigue, exhaustion, or energy drain. They are not at risk of death from massive damage. They have bonus hit points as constructs of their size.
 - _Saves_: An inevitable's good saving throws are Fortitude and Will.
-- _Skills_: In addition to the class skills all outsiders have, inevitables have [Acrobatics](../skills/acrobatics#_acrobatics), [Diplomacy](../skills/diplomacy#_diplomacy), [Intimidate](../skills/intimidate#_intimidate), and [Survival](../skills/survival#_survival) as class skills.
-- _Regeneration (Ex)_ Inevitables have regeneration/chaotic. The regeneration amount varies by the type of inevitable.
-- _Truespeech (Su)_ An inevitable can speak with any creature that has a language, as if using a _ [tongues](../spells/tongues#_tongues)_ spell (caster level 14th). This ability is always active.
+- _Skills_: In addition to the class skills all outsiders have, inevitables have [Acrobatics](../skill_dir/acrobatics#_acrobatics, [Diplomacy](../skill_dir/diplomacy#_diplomacy, [Intimidate](../skill_dir/intimidate#_intimidate, and [Survival](../skill_dir/survival#_survival) as class skills.
+- _Regeneration (Ex_ Inevitables have regeneratio_dir/chaotic. The regeneration amount varies by the type of inevitable.
+- _Truespeech (Su_ An inevitable can speak with any creature that has a language, as if using a _ [tongues](../spell_dir/tongues#_tongues)_ spell (caster level 14th). This ability is always active.
 
 **Kami Subtype** : Kami are a race of native outsiders who serve to protect what they refer to as “wards”—animals, plants, objects, and even locations—from being harmed or dishonored. All kami are outsiders with the native subtype. A kami possesses the following traits unless otherwise noted in a creature's entry.
 
@@ -466,13 +466,13 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 
 **Lawful Subtype** : This subtype is usually applied to outsiders native to the lawfully aligned outer planes. Most creatures that have this subtype also have lawful alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature had a lawful alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the lawful subtype overcomes damage reduction as if its natural weapons and any weapons it wields are lawfully aligned (see Damage Reduction, page 299).
 
-**Leshy Subtype** : A leshy is a nature spirit that inhabits the body of a specially grown plant. Regardless of their kind, all leshys share the following traits in addition to those granted by the plant type (unless otherwise noted in a creature's entry).
+**Leshy Subtype** : A leshy is a nature spirit that inhabits the body of a specially grown plant. Regardless of their kind, all leshys share the following traits in addition to those granted by the plant type (unless otherwise noted in a creature's entry.
 
 - Darkvision 60 feet and low-light vision.
 - Immunity to electricity and sonic.
-- _Spell-Like Abilities_: All leshys have _ [pass without trace](spells/passWithoutTrace#_pass-without-trace)_ as a constant spell-like ability (CL equal to twice the leshy's HD).
-- _Change Shape (Su)_ All leshys can transform into plants, with results similar to the _ [tree shape](spells/treeShape#_tree-shape)_ spell. Unlike that spell, this ability only allows transformation into Small plants of the same type of growth the leshy is related to. In this form, the leshy appears as a particularly healthy specimen of that particular plant. A leshy can assume plant form or revert to its true form as a swift action.
-- _Plantspeech (Ex)_ All leshys can speak with plants as if subject to a continual _ [speak with plants](spells/speakWithPlants#_speak-with-plants)_ spell, but only with species they are related to.
+- _Spell-Like Abilities_: All leshys have _ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace)_ as a constant spell-like ability (CL equal to twice the leshy's HD).
+- _Change Shape (Su_ All leshys can transform into plants, with results similar to the _ [tree shape](spell_dir/treeShape#_tree-shape)_ spell. Unlike that spell, this ability only allows transformation into Small plants of the same type of growth the leshy is related to. In this form, the leshy appears as a particularly healthy specimen of that particular plant. A leshy can assume plant form or revert to its true form as a swift action.
+- _Plantspeech (Ex_ All leshys can speak with plants as if subject to a continual _ [speak with plants](spell_dir/speakWithPlants#_speak-with-plants)_ spell, but only with species they are related to.
 - _Verdant Burst (Su)_ When slain, a leshy explodes in a burst of fertile energies. All plant creatures within 30 feet of a slain leshy heal 1d8 points of damage plus 1 point per HD of the slain leshy, and plant life of the same type as the leshy itself quickly infests the area. If the terrain can support this type of plant, the undergrowth is dense enough to make the region into difficult terrain for 24 hours, after which the plant life diminishes to a normal level; otherwise, the plant life has no significant effect on movement and withers and dies within an hour.
 - Except where otherwise noted, all leshys speak Druidic and Sylvan.
 
@@ -481,10 +481,10 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 **Nightshade Subtype** : Nightshades are monstrous undead composed of shadow and evil. They have the following traits.
 
 - Low-light vision.
-- _Desecrating Aura (Su)_ All nightshades have a 30-foot- radius emanation equivalent to a _ [desecrate](../spells/desecrate#_desecrate)_ spell centered on a shrine of evil power. Undead within this radius (including the nightshade) gain a +2 profane bonus on attack and damage rolls and saving throws, as well as +2 hit points per die, and the save DC of channeled negative energy is increased by +6 (these adjustments are included for the nightshades in their entries). This aura can be negated by _ [dispel evil](../spells/dispelEvil#_dispel-evil)_, but a nightshade can reactivate it on its turn as a free action. A desecrating aura suppresses and is suppressed by _ [consecrate](../spells/consecrate#_consecrate)_ or _ [hallow](../spells/hallow#_hallow)_; both effects are negated within any overlapping area of effect.
+- _Desecrating Aura (Su_ All nightshades have a 30-foot- radius emanation equivalent to a _ [desecrate](../spell_dir/desecrate#_desecrate)_ spell centered on a shrine of evil power. Undead within this radius (including the nightshade) gain a +2 profane bonus on attack and damage rolls and saving throws, as well as +2 hit points per die, and the save DC of channeled negative energy is increased by +6 (these adjustments are included for the nightshades in their entries. This aura can be negated by _ [dispel evil](../spell_dir/dispelEvil#_dispel-evil_, but a nightshade can reactivate it on its turn as a free action. A desecrating aura suppresses and is suppressed by _ [consecrate](../spell_dir/consecrate#_consecrate_ or _ [hallow](../spell_dir/hallow#_hallow)_; both effects are negated within any overlapping area of effect.
 - _Channel Energy (Su)_ A nightshade can channel negative energy as cleric of a level equal to its base CR. It can use this ability a number of times per day equal to 3 + its Charisma modifier.
-- _Darksense (Ex)_ Nightshades gain _ [true seeing](../spells/trueSeeing#_true-seeing)_ in dim light and darkness. Regardless of light conditions, they can detect living creatures and their health within 60 feet, as blindsense with _ [deathwatch](../spells/deathwatch#_deathwatch)_ continuously active. _ [Mind blank](../spells/mindBlank#_mind-blank)_ and _ [nondetection](../spells/nondetection#_nondetection)_ prevent the latter effect but not the nightshade's _ [true seeing](../spells/trueSeeing#_true-seeing)_.
-- _ [Light](../spells/light#_light) Aversion (Ex)_ A nightshade in bright light becomes sickened—the penalties from this condition are doubled when the nightshade is in natural sunlight.
+- _Darksense (Ex_ Nightshades gain _ [true seeing](../spell_dir/trueSeeing#_true-seeing_ in dim light and darkness. Regardless of light conditions, they can detect living creatures and their health within 60 feet, as blindsense with _ [deathwatch](../spell_dir/deathwatch#_deathwatch_ continuously active. _ [Mind blank](../spell_dir/mindBlank#_mind-blank_ and _ [nondetection](../spell_dir/nondetection#_nondetection_ prevent the latter effect but not the nightshade's _ [true seeing](../spell_dir/trueSeeing#_true-seeing_.
+- _ [Light](../spell_dir/light#_light) Aversion (Ex)_ A nightshade in bright light becomes sickened—the penalties from this condition are doubled when the nightshade is in natural sunlight.
 - _Summon (Sp)_ Nightshades can summon undead creatures. They can be summoned only within areas of darkness, and summoned undead cannot create spawn. The exact type and number of undead they can summon vary according to the nightshade in question, as detailed in each nightshade's entry.
 
 **Oni Subtype** : An oni is an evil spirit who takes humanoid form to become a native outsider. All oni have the following traits, unless otherwise noted in a specific creature's entry.
@@ -498,30 +498,30 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 
 **Protean Subtype** : Proteans are serpentine outsiders of pure chaos. They have the following traits.
 
-- Blindsense (distance varies by protean type).
+- Blindsense (distance varies by protean type.
 - Immunity to acid.
 - Resistance to electricity 10 and sonic 10.
 - Constrict and grab as special attacks.
 - Supernatural flight.
-- _ [Freedom](../spells/freedom#_freedom) of Movement (Su)_ A protean has continuous _ [freedom of movement](../spells/freedomOfMovement#_freedom-of-movement)_, as per the spell.
+- _ [Freedom](../spell_dir/freedom#_freedom) of Movement (Su_ A protean has continuous _ [freedom of movement](../spell_dir/freedomOfMovement#_freedom-of-movement)_, as per the spell.
 - _Amorphous Anatomy (Ex)_ A protean's vital organs shift and change shape and position constantly. This grants it a 50% chance to ignore additional damage caused by critical hits and sneak attacks, and grants it immunity to polymorph effects (unless the protean is a willing target). A protean automatically recovers from physical blindness or deafness after 1 round by growing new sensory organs to replace those that were compromised.
-- _Change Shape (Su)_ A protean's form is not fixed. Once per day as a standard action, a protean may change shape into any Small, Medium, or Large animal, elemental, giant, humanoid, magical beast, monstrous humanoid, ooze, plant, or vermin. A protean can resume its true form as a free action, and when it does so, it gains the effects of a _ [heal](../spells/heal#_heal)_ spell (CL equal to the protean's HD).
+- _Change Shape (Su_ A protean's form is not fixed. Once per day as a standard action, a protean may change shape into any Small, Medium, or Large animal, elemental, giant, humanoid, magical beast, monstrous humanoid, ooze, plant, or vermin. A protean can resume its true form as a free action, and when it does so, it gains the effects of a _ [heal](../spell_dir/heal#_heal)_ spell (CL equal to the protean's HD).
 
 **Qlippoth Subtype** : Qlippoth are chaotic evil outsiders from the deepest reaches of the Abyss. They have the following traits.
 
 - Immunity to cold, mind-affecting effects, and poison.
 - Resistance to acid 10, electricity 10, and fire 10.
-- _Horrific Appearance (Su)_ All qlippoth have such horrific and mind-rending shapes that those who gaze upon them suffer all manner of ill effects. A qlippoth can present itself as a standard action to assault the senses of all living creatures within 30 feet. The exact effects caused by a qlippoth's horrific appearance vary by the type of qlippoth. A successful Will save (DC 10 + 1/2 the qlippoth's Hit Dice + the qlippoth's Charisma modifier) reduces or negates the effect. This ability is a mind-affecting gaze attack.
+- _Horrific Appearance (Su_ All qlippoth have such horrific and mind-rending shapes that those who gaze upon them suffer all manner of ill effects. A qlippoth can present itself as a standard action to assault the senses of all living creatures within 30 feet. The exact effects caused by a qlippoth's horrific appearance vary by the type of qlippoth. A successful Will save (DC 10 + 1/2 the qlippoth's Hit Dice + the qlippoth's Charisma modifier) reduces or negates the effect. This ability is a mind-affecting gaze attack.
 - Telepathy.
 - Except where otherwise noted, qlippoth speak Abyssal.
 
 **Rakshasa Subtype** : A rakshasa is a lawful evil spirit born into the Material Plane. A shapechanger that can walk with ease among humanoids, a rakshasa's true form has animalistic features and strangely jointed limbs. All rakshasas are native to the Material Plane, and have the following traits unless otherwise noted in a creature's entry.
 
 - Darkvision 60 feet.
-- _Change Shape (Su) _All rakshasas have the ability to change shape into any humanoid, as if using _ [alter self](spells/alterSelf#_alter-self)_.
-- _Detect Thoughts (Su) _A rakshasa can detect thoughts as per the spell of the same name. This effect functions at CL 18th. A rakshasa can suppress or resume this ability as a free action. When a rakshasa uses this ability, it always functions as if it had spent 3 rounds concentrating and thus gains the maximum amount of information possible. The Will save DC to resist this effect is equal to 10 + 1/2 the rakshasa's HD + the rakshasa's Charisma modifier.
+- _Change Shape (Su) _All rakshasas have the ability to change shape into any humanoid, as if using _ [alter self](spell_dir/alterSelf#_alter-self)_.
+- _Detect Thoughts (Su _A rakshasa can detect thoughts as per the spell of the same name. This effect functions at CL 18th. A rakshasa can suppress or resume this ability as a free action. When a rakshasa uses this ability, it always functions as if it had spent 3 rounds concentrating and thus gains the maximum amount of information possible. The Will save DC to resist this effect is equal to 10 + 1/2 the rakshasa's HD + the rakshasa's Charisma modifier.
 - _Enhanced Defenses (Ex)_ All rakshasas have DR that can be penetrated by good and piercing weapons only. The amount of damage reduction varies according to the specific rakshasa. In addition, rakshasas are exceptionally resistant to magic, and possess SR equal to their CR + 15.
-- _Master of Deception (Ex)_ All rakshasas gain a +4 racial bonus on [Bluff](skills/bluff#_bluff) checks and a +8 racial bonus on [Disguise](skills/disguise#_disguise) checks.
+- _Master of Deception (Ex)_ All rakshasas gain a +4 racial bonus on [Bluff](skill_dir/bluff#_bluff checks and a +8 racial bonus on [Disguise](skill_dir/disguise#_disguise) checks.
 - _Spellcasting:_ All but the least of rakshasas have some level of spellcasting ability, and can cast spells as sorcerers. The rakshasa's effective caster level as a sorcerer depends on its type, but is generally equal to its CR – 3.
 
 **Ratfolk Subtype** : This subtype is applied to the humanoid rodents called ratfolk and creatures related to ratfolk.
@@ -535,15 +535,15 @@ _Void Form (Su)_ Though aeons aren't incorporeal, their forms are only a semi-ta
 - Proficient with its natural weapons, with simple weapons, and with any weapons mentioned in the creature's description.
 - Proficient with any armor mentioned in the creature's description, as well as all lighter forms. If no form of armor is mentioned, the shapechanger is not proficient with armor. A shapechanger is proficient with shields if it is proficient with any type of armor.
 
-**Swarm Subtype** : A swarm is a collection of Fine, Diminutive, or Tiny creatures that acts as a single creature. A swarm has the characteristics of its type, except as noted here. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. A swarm makes saving throws as a single creature. A single swarm occupies a square (if it is made up of nonflying creatures) or a cube (of flying creatures) 10 feet on a side, but its reach is 0 feet, like its component creatures. In order to attack, it moves into an opponent's space, which provokes an attack of opportunity. It can occupy the same space as a creature of any size, since it crawls all over its prey. A swarm can move through squares occupied by enemies and vice versa without impediment, although the swarm provokes an attack of opportunity if it does so. A swarm can move through cracks or holes large enough for its component creatures.
+**Swarm Subtype** : A swarm is a collection of Fine, Diminutive, or Tiny creatures that acts as a single creature. A swarm has the characteristics of its type, except as noted here. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. A swarm makes saving throws as a single creature. A single swarm occupies a square (if it is made up of nonflying creatures) or a cube (of flying creatures 10 feet on a side, but its reach is 0 feet, like its component creatures. In order to attack, it moves into an opponent's space, which provokes an attack of opportunity. It can occupy the same space as a creature of any size, since it crawls all over its prey. A swarm can move through squares occupied by enemies and vice versa without impediment, although the swarm provokes an attack of opportunity if it does so. A swarm can move through cracks or holes large enough for its component creatures.
 
 A swarm of Tiny creatures consists of 300 nonflying creatures or 1,000 flying creatures. A swarm of Diminutive creatures consists of 1,500 nonflying creatures or 5,000 flying creatures. A swarm of Fine creatures consists of 10,000 creatures, whether they are flying or not. Swarms of nonflying creatures include many more creatures than could normally fit in a 10-foot square based on their normal space, because creatures in a swarm are packed tightly together and generally crawl over each other and their prey when moving or attacking. Larger swarms are represented by multiples of single swarms. The area occupied by a large swarm is completely shapeable, though the swarm usually remains in contiguous squares.
 
 _Swarm Traits_: A swarm has no clear front or back and no discernable anatomy, so it is not subject to critical hits or flanking. A swarm made up of Tiny creatures takes half damage from slashing and piercing weapons. A swarm composed of Fine or Diminutive creatures is immune to all weapon damage. Reducing a swarm to 0 hit points or less causes it to break up, though damage taken until that point does not degrade its ability to attack or resist attack. Swarms are never staggered or reduced to a dying state by damage. Also, they cannot be tripped, grappled, or bull rushed, and they cannot grapple an opponent.
 
-A swarm is immune to any spell or effect that targets a specific number of creatures (including single-target spells such as _ [disintegrate](../spells/disintegrate#_disintegrate)_), with the exception of mind-affecting effects (charms, compulsions, morale effects, patterns, and phantasms) if the swarm has an Intelligence score and a hive mind. A swarm takes half again as much damage (+50%) from spells or effects that affect an area, such as splash weapons and many evocation spells.
+A swarm is immune to any spell or effect that targets a specific number of creatures (including single-target spells such as _ [disintegrate](../spell_dir/disintegrate#_disintegrate)_), with the exception of mind-affecting effects (charms, compulsions, morale effects, patterns, and phantasms) if the swarm has an Intelligence score and a hive mind. A swarm takes half again as much damage (+50% from spells or effects that affect an area, such as splash weapons and many evocation spells.
 
-Swarms made up of Diminutive or Fine creatures are susceptible to high winds, such as those created by a _ [gust of wind](../spells/gustOfWind#_gust-of-wind) _spell. For purposes of determining the effects of wind on a swarm, treat the swarm as a creature of the same size as its constituent creatures. A swarm rendered unconscious by means of nonlethal damage becomes disorganized and dispersed, and does not reform until its hit points exceed its nonlethal damage.
+Swarms made up of Diminutive or Fine creatures are susceptible to high winds, such as those created by a _ [gust of wind](../spell_dir/gustOfWind#_gust-of-wind) _spell. For purposes of determining the effects of wind on a swarm, treat the swarm as a creature of the same size as its constituent creatures. A swarm rendered unconscious by means of nonlethal damage becomes disorganized and dispersed, and does not reform until its hit points exceed its nonlethal damage.
 
 _Swarm Attack_: Creatures with the swarm subtype don't make standard melee attacks. Instead, they deal automatic damage to any creature whose space they occupy at the end of their move, with no attack roll needed. Swarm attacks are not subject to a miss chance for concealment or cover. A swarm's statistics block has “swarm” in the Melee entry, with no attack bonus given. The amount of damage a swarm deals is based on its Hit Dice, as shown below.
 
@@ -559,11 +559,11 @@ A swarm's attacks are nonmagical, unless the swarm's description states otherwis
 
 Swarms do not threaten creatures, and do not make attacks of opportunity with their swarm attack. However, they distract foes whose squares they occupy, as described below.
 
-Swarms possess the distraction universal monster rule. Spellcasting or concentrating on spells within the area of a swarm requires a caster level check (DC 20 + spell level). Using skills that involve patience and concentration requires a DC 20 Will save.
+Swarms possess the distraction universal monster rule. Spellcasting or concentrating on spells within the area of a swarm requires a caster level check (DC 20 + spell level. Using skills that involve patience and concentration requires a DC 20 Will save.
 
 **Vanara Subtype** : This subtype is applied to vanaras and creatures related to vanaras.
 
 **Vishkanya Subtype** : This subtype is applied to vishkanyas and creatures related to vishkanyas.
 
-**Water Subtype:** This subtype is usually used for outsiders with a connection to the Elemental Plane of Water. Creatures with the water subtype always have swim speeds and can move in water without making [Swim](../skills/swim#_swim) checks. A water creature can breathe underwater and can usually breathe air as well. Water creatures treat the [Swim](../skills/swim#_swim) skill as a class skill.
+**Water Subtype:** This subtype is usually used for outsiders with a connection to the Elemental Plane of Water. Creatures with the water subtype always have swim speeds and can move in water without making [Swim](../skill_dir/swim#_swim checks. A water creature can breathe underwater and can usually breathe air as well. Water creatures treat the [Swim](../skill_dir/swim#_swim skill as a class skill.
 

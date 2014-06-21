@@ -11,15 +11,15 @@ SylphCR 1/2
 
 Sylph rogue 1
 
-N Medium [outsider](monsters/creatureTypes#_outsider) ( [native](monsters/creatureTypes#_native-subtype))
+N Medium [outsider](monster_dir/creatureTypes#_outsider ( [native](monster_dir/creatureTypes#_native-subtype)
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +6
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +6
 
 Defense
 
 **AC** 16, touch 14, flat-footed 12 (+2 armor, +3 Dex, +1 dodge)
 
-**hp** 9 (1d8+1)
+**hp** 9 (1d8+1
 
 **Fort** +0, **Ref** +5, **Will** +2
 
@@ -37,7 +37,7 @@ Offense
 
 **Spell-Like Abilities** (CL 1st; concentration +1)
 
-1/day—_ [feather fall](additionalMonsters/../spells/featherFall#_feather-fall)_
+1/day—_ [feather fall](additionalMonsters/../spell_dir/featherFall#_feather-fall_
 
 Statistics
 
@@ -47,11 +47,11 @@ Statistics
 
 **Feats** [Dodge](additionalMonsters/../feats#_dodge)
 
-**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +7, [Appraise](additionalMonsters/../skills/appraise#_appraise) +6, [Bluff](additionalMonsters/../skills/bluff#_bluff) +4, [Climb](additionalMonsters/../skills/climb#_climb) +3, [Diplomacy](additionalMonsters/../skills/diplomacy#_diplomacy) +4, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (local) +6, [Perception](additionalMonsters/../skills/perception#_perception) +6, [Sleight of Hand](additionalMonsters/../skills/sleightOfHand#_sleight-of-hand) +7, [Stealth](additionalMonsters/../skills/stealth#_stealth) +7, [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device) +4
+**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics +7, [Appraise](additionalMonsters/../skill_dir/appraise#_appraise +6, [Bluff](additionalMonsters/../skill_dir/bluff#_bluff +4, [Climb](additionalMonsters/../skill_dir/climb#_climb +3, [Diplomacy](additionalMonsters/../skill_dir/diplomacy#_diplomacy +4, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (local +6, [Perception](additionalMonsters/../skill_dir/perception#_perception +6, [Sleight of Hand](additionalMonsters/../skill_dir/sleightOfHand#_sleight-of-hand +7, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +7, [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device +4
 
 **Languages** Auran, Common, Elven, Halfling
 
-**SQ** [air](monsters/creatureTypes#_air-subtype) affinity, trapfinding +1
+**SQ** [air](monster_dir/creatureTypes#_air-subtype) affinity, trapfinding +1
 
 Ecology
 
@@ -63,11 +63,11 @@ Ecology
 
 Special Abilities
 
-**Air Affinity (Ex)** Sylph sorcerers with the [elemental](monsters/creatureTypes#_elemental-subtype) ( [air](monsters/creatureTypes#_air-subtype)) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Sylph clerics with the [Air](monsters/creatureTypes#_air-subtype) domain cast their domain powers and spells at +1 caster level.
+**Air Affinity (Ex** Sylph sorcerers with the [elemental](monster_dir/creatureTypes#_elemental-subtype ( [air](monster_dir/creatureTypes#_air-subtype) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Sylph clerics with the [Air](monster_dir/creatureTypes#_air-subtype) domain cast their domain powers and spells at +1 caster level.
 
 Sylphs are humans whose family trees include elemental beings of air, such as djinn. They tend to be pale and thin to the point of appearing delicate, though their skinny bodies are more resilient than they look. While many can pass unnoticed through crowds of humans, sylphs display their heritage in subtle ways, and those who study them carefully sometimes notice that breezes seem to follow a sylph wherever she goes, even inside rooms with no windows. When consumed by fits of anger or passion, these tendencies become more apparent, as winds surround the sylph and tousle her hair or knock small items from shelves. Many sylphs have complex markings on their pale flesh that resemble tiny swirling designs like blue and gray tattoos, and the most exotic of their kind have hair that twists and coils almost as if it were made of living mist.
 
-As people, sylphs tend to be shy and reclusive, blending into crowds or skillfully avoiding those they don't desire to meet. Yet while they often prefer to manipulate situations and avoid conflict themselves, most sylphs remain intensely curious about other people, and often go to great lengths to spy or eavesdrop on those who spark their interest (a hobby frequently referred to as “listening to the wind”). This combined love of subterfuge and ability to slip away from any compromising situation makes sylphs perfectly suited to lives as rogues, thieves, and spies, and beneath the average sylph's veneer of shy waifishness lies a mind that's capable and calculating, constantly sizing up the competition and analyzing the most effective exits from any given room.
+As people, sylphs tend to be shy and reclusive, blending into crowds or skillfully avoiding those they don't desire to meet. Yet while they often prefer to manipulate situations and avoid conflict themselves, most sylphs remain intensely curious about other people, and often go to great lengths to spy or eavesdrop on those who spark their interest (a hobby frequently referred to as “listening to the wind”. This combined love of subterfuge and ability to slip away from any compromising situation makes sylphs perfectly suited to lives as rogues, thieves, and spies, and beneath the average sylph's veneer of shy waifishness lies a mind that's capable and calculating, constantly sizing up the competition and analyzing the most effective exits from any given room.
 
 ## Sylph Characters
 
@@ -77,7 +77,7 @@ Sylphs are defined by class levels—they do not possess racial Hit Dice. Sylphs
 
 **Darkvision** : Sylphs can see in the dark up to 60 feet.
 
-**Sylph Magic** : _ [Feather fall](additionalMonsters/../spells/featherFall#_feather-fall)_ 1/day (caster level equals the sylph's Hit Dice).
+**Sylph Magic** : _ [Feather fall](additionalMonsters/../spell_dir/featherFall#_feather-fall_ 1/day (caster level equals the sylph's Hit Dice).
 
 **Energy Resistance** : Sylphs have electricity resistance 5.
 

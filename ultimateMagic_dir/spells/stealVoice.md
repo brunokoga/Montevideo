@@ -17,5 +17,5 @@ Steal Voice
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-The target's throat constricts, giving it the [caster croak spellblight](../magic/spellblights#_caster-croak).
+The target's throat constricts, giving it the [caster croak spellblight](../magi_dir/spellblights#_caster-croak.
 

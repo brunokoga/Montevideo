@@ -13,9 +13,9 @@ Silk To Steel
 
 **Target** one scarf
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** none; **Spell Resistance** no
 
-You imbue an ordinary scarf (or similar piece of clothing) with the strength of steel without altering its weight or flexibility. Each round on your turn, you can decide to use the scarf to defend yourself (gaining a +2 shield bonus to your Armor Class) or to attack as if the scarf were a whip.
+You imbue an ordinary scarf (or similar piece of clothing) with the strength of steel without altering its weight or flexibility. Each round on your turn, you can decide to use the scarf to defend yourself (gaining a +2 shield bonus to your Armor Class or to attack as if the scarf were a whip.
 

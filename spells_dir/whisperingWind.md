@@ -13,7 +13,7 @@ title: spells/whisperingWind
 
 **Area** 10-ft.-radius spread
 
-**Duration** no more than 1 hour/level or until discharged (destination is reached)
+**Duration** no more than 1 hou_dir/level or until discharged (destination is reached
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

@@ -1,5 +1,5 @@
 ---
-title: monsters/cat
+title: monster_dir/cat
 ---
 # Cat, Cheetah
 
@@ -11,7 +11,7 @@ _This large, sleek feline has a golden coat spotted with black. Its long and pow
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +8; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +5
+**Init** +8; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +5
 
 **Defense**
 
@@ -31,11 +31,11 @@ N Medium [animal](creatureTypes#_animal)
 
 **Str** 17, **Dex** 19, **Con** 15, **Int** 2, **Wis** 12, **Cha** 6
 
-**Base Atk** +2; **CMB** +5; **CMD** 19 (23 vs. trip)
+**Base Atk** +2; **CMB** +5; **CMD** 19 (23 vs. trip
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +8, [Perception](../skills/perception#_perception) +5, [Stealth](../skills/stealth#_stealth) +8 (+12 in tall grass); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) in tall grass
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +8, [Perception](../skill_dir/perception#_perception +5, [Stealth](../skill_dir/stealth#_stealth) +8 (+12 in tall grass; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) in tall grass
 
 **Ecology**
 
@@ -47,7 +47,7 @@ N Medium [animal](creatureTypes#_animal)
 
 **Special Abilities**
 
-**Sprint (Ex)** Once per hour, a cheetah can move at 10 times its normal speed (500 feet) when it makes a charge.
+**Sprint (Ex)** Once per hour, a cheetah can move at 10 times its normal speed (500 feet when it makes a charge.
 
 The cheetah is a swift and deadly predator capable of moving with incredible speed, allowing it to run down unsuspecting foes hundreds of feet away. The hunting cat avoids areas of dense and tangled undergrowth, but has great skill at lying in wait in tall grass.
 
@@ -63,7 +63,7 @@ _With each graceful step, this leopard's steely muscles ripple beneath its spott
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +4; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +5
+**Init** +4; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skill_dir/perception#_perception) +5
 
 **Defense**
 
@@ -85,11 +85,11 @@ N Medium [animal](creatureTypes#_animal)
 
 **Str** 16, **Dex** 19, **Con** 15, **Int** 2, **Wis** 13, **Cha** 6
 
-**Base Atk** +2; **CMB** +5 (+9 grapple); **CMD** 19 (23 vs. trip)
+**Base Atk** +2; **CMB** +5 (+9 grapple); **CMD** 19 (23 vs. trip
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills/stealth#_stealth)), [Weapon Finesse](../feats#_weapon-finesse)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth), [Weapon Finesse](../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +8, [Climb](../skills/climb#_climb) +11, [Perception](../skills/perception#_perception) +5, [Stealth](../skills/stealth#_stealth) +11 (+15 in undergrowth); **Racial Modifiers** +4 on [Stealth](../skills/stealth#_stealth) in undergrowth
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +8, [Climb](../skill_dir/climb#_climb +11, [Perception](../skill_dir/perception#_perception +5, [Stealth](../skill_dir/stealth#_stealth) +11 (+15 in undergrowth; **Racial Modifiers** +4 on [Stealth](../skill_dir/stealth#_stealth in undergrowth
 
 **Ecology**
 

@@ -1,5 +1,5 @@
 ---
-title: spells/raiseDead
+title: spell_dir/raiseDead
 ---
  **Raise Dead**
 
@@ -7,7 +7,7 @@ title: spells/raiseDead
 
 **Casting Time** 1 minute
 
-**Components** V, S, M (diamond worth 5,000 gp), DF
+**Components** V, S, M (diamond worth 5,000 gp, DF
 
 **Range** touch
 

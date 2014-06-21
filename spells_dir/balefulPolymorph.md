@@ -1,9 +1,9 @@
 ---
-title: spells/balefulPolymorph
+title: spell_dir/balefulPolymorph
 ---
  **Baleful Polymorph**
 
-**School** transmutation (polymorph); **Level** druid 5, sorcerer/wizard 5
+**School** transmutation (polymorph; **Level** druid 5, sorcerer/wizard 5
 
 **Casting Time** 1 standard action
 

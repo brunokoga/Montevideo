@@ -1,9 +1,9 @@
 ---
-title: spells/phantasmalKiller
+title: spell_dir/phantasmalKiller
 ---
  **Phantasmal Killer**
 
-**School** illusion (phantasm) [fear, mind-affecting]; **Level** sorcerer/wizard 4
+**School** illusion (phantasm [fear, mind-affecting]; **Level** sorcerer/wizard 4
 
 **Casting Time** 1 standard action
 

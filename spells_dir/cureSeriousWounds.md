@@ -1,5 +1,5 @@
 ---
-title: spells/cureSeriousWounds
+title: spell_dir/cureSeriousWounds
 ---
  **Cure Serious Wounds**
 
@@ -11,5 +11,5 @@ This spell functions like _ [cure light wounds](cureLightWounds#_cure-light-woun
 
 **School** conjuration (healing); **Level** cleric 7, druid 8
 
-This spell functions like _mass cure light wounds_, except that it cures 3d8 points of damage + 1 point per caster level (maximum +35).
+This spell functions like _mass cure light wounds_, except that it cures 3d8 points of damage + 1 point per caster level (maximum +35.
 

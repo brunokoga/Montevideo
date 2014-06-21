@@ -1,5 +1,5 @@
 ---
-title: monsters/monsterFeats
+title: monster_dir/monsterFeats
 ---
 # Monster Feats
 
@@ -17,7 +17,7 @@ uisite: Special attack.
 
 **Special** : A creature can gain this feat multiple times. Its effects do not stack. Each time the creature takes the feat, it applies to a different special attack.
 
-## Awesome Blow (Combat)
+## Awesome Blow (Combat
 
 This creature can send opponents flying.
 
@@ -51,7 +51,7 @@ The creature can only select a spell-like ability duplicating a spell with a lev
 
 This creature can make an attack before and after it moves while flying.
 
-**Prerequisite** : [Fly](../skills/fly#_fly) speed.
+**Prerequisite** : [Fly](../skill_dir/fly#_fly speed.
 
 **Benefit** : When flying, the creature can take a move action and another standard action at any point during the move. The creature cannot take a second move action during a round when it makes a flyby attack.
 
@@ -61,13 +61,13 @@ This creature can make an attack before and after it moves while flying.
 
 This creature can hover in place with ease and can kick up clouds of dust and debris.
 
-**Prerequisite** : [Fly](../skills/fly#_fly) speed.
+**Prerequisite** : [Fly](../skill_dir/fly#_fly speed.
 
-**Benefit** : A creature with this feat can halt its movement while flying, allowing it to hover without needing to make a [Fly](../skills/fly#_fly) skill check.
+**Benefit** : A creature with this feat can halt its movement while flying, allowing it to hover without needing to make a [Fly](../skill_dir/fly#_fly) skill check.
 
-If a creature of size Large or larger with this feat hovers within 20 feet of the ground in an area with lots of loose debris, the draft from its wings creates a hemispherical cloud with a radius of 60 feet. The winds generated can snuff torches, small campfires, exposed lanterns, and other small, open flames of non-magical origin. Clear vision within the cloud is limited to 10 feet. Creatures have concealment at 15 to 20 feet (20% miss chance). At 25 feet or more, creatures have total concealment (50% miss chance, and opponents cannot use sight to locate the creature).
+If a creature of size Large or larger with this feat hovers within 20 feet of the ground in an area with lots of loose debris, the draft from its wings creates a hemispherical cloud with a radius of 60 feet. The winds generated can snuff torches, small campfires, exposed lanterns, and other small, open flames of non-magical origin. Clear vision within the cloud is limited to 10 feet. Creatures have concealment at 15 to 20 feet (20% miss chance). At 25 feet or more, creatures have total concealment (50% miss chance, and opponents cannot use sight to locate the creature.
 
-**Normal** : Without this feat, a creature must make a [Fly](../skills/fly#_fly) skill check to hover and the creature does not create a cloud of debris while hovering.
+**Normal** : Without this feat, a creature must make a [Fly](../skill_dir/fly#_fly) skill check to hover and the creature does not create a cloud of debris while hovering.
 
 ## Improved Natural Armor
 
@@ -109,7 +109,7 @@ This multi-armed creature is skilled at making attacks with multiple weapons.
 
 **Benefit** : Penalties for fighting with multiple weapons are reduced by –2 with the primary hand and by –6 with off hands.
 
-**Normal** : A creature without this feat takes a –6 penalty on attacks made with its primary hand and a –10 penalty on attacks made with all of its off hands. (It has one primary hand, and all the others are off hands.) See [Two-Weapon Fighting](../feats#_two-weapon-fighting) in the _Pathfinder RPG Core Rulebook._
+**Normal** : A creature without this feat takes a –6 penalty on attacks made with its primary hand and a –10 penalty on attacks made with all of its off hands. (It has one primary hand, and all the others are off hands. See [Two-Weapon Fighting](../feats#_two-weapon-fighting) in the _Pathfinder RPG Core Rulebook._
 
 **Special** : This feat replaces the [Two-Weapon Fighting](../feats#_two-weapon-fighting) feat for creatures with more than two arms.
 
@@ -159,9 +159,9 @@ The creature can drop a creature it has snatched as a free action or use a stand
 
 This creature can make turns with ease while flying.
 
-**Prerequisite** : [Fly](../skills/fly#_fly) speed.
+**Prerequisite** : [Fly](../skill_dir/fly#_fly speed.
 
-**Benefits** : Once each round, a creature with this feat can turn up to 180 degrees as a free action without making a [Fly](../skills/fly#_fly) skill check. This free turn does not consume any additional movement from the creature.
+**Benefits** : Once each round, a creature with this feat can turn up to 180 degrees as a free action without making a [Fly](../skill_dir/fly#_fly skill check. This free turn does not consume any additional movement from the creature.
 
-**Normal** : A flying creature can turn up to 90 degrees by making a DC 15 [Fly](../skills/fly#_fly) skill check and expending 5 feet of movement. A flying creature can turn up to 180 degrees by making a DC 20 [Fly](../skills/fly#_fly) skill check and expending 10 feet of movement.
+**Normal** : A flying creature can turn up to 90 degrees by making a DC 15 [Fly](../skill_dir/fly#_fly skill check and expending 5 feet of movement. A flying creature can turn up to 180 degrees by making a DC 20 [Fly](../skill_dir/fly#_fly skill check and expending 10 feet of movement.
 

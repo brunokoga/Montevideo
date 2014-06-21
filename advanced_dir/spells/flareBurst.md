@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/flareBurst
+title: advanced/spell_dir/flareBurst
 ---
  **Flare Burst**
 
-**School** evocation (light); **Level** bard 1, druid 1, sorcerer/wizard 1
+**School** evocation (light; **Level** bard 1, druid 1, sorcerer/wizard 1
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ title: advanced/spells/flareBurst
 
 **Saving Throw** Fortitude negates; **Spell Resistance** yes
 
-This spell functions as _ [flare](../../spells/flare#_flare),_ except it affects all creatures in a 10-foot-radius burst from the target point.
+This spell functions as _ [flare](../../spell_dir/flare#_flare,_ except it affects all creatures in a 10-foot-radius burst from the target point.
 

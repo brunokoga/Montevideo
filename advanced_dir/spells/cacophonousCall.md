@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/cacophonousCall
+title: advanced/spell_dir/cacophonousCall
 ---
  **Cacophonous Call**
 
@@ -7,13 +7,13 @@ title: advanced/spells/cacophonousCall
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a scrap of sheet music)
+**Components** V, S, M (a scrap of sheet music
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
 **Target** one creature
 
-**Duration** 1 round/level
+**Duration** 1 roun_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
@@ -21,9 +21,9 @@ You fill your target's mind with a blaring cacophony of discordant sounds, makin
 
 **Cacophonous Call, Mass**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 5
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 5
 
-**Target** one creature/level (all of which must be within 30 feet)
+**Target** one creatur_dir/level (all of which must be within 30 feet
 
 This spell functions as _cacophonous call_, except that it affects multiple creatures.
 

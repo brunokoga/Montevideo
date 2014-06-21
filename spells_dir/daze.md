@@ -1,13 +1,13 @@
 ---
-title: spells/daze
+title: spell_dir/daze
 ---
  **Daze**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 0, sorcerer/wizard 0
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 0, sorcere_dir/wizard 0
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a pinch of wool or similar substance)
+**Components** V, S, M (a pinch of wool or similar substance
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

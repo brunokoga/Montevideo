@@ -3,11 +3,11 @@ title: spells/symbolOfWeakness
 ---
  **Symbol of Weakness**
 
-**School** necromancy; **Level** cleric 7, sorcerer/wizard 7
+**School** necromancy; **Level** cleric 7, sorcere_dir/wizard 7
 
 **Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)
 
-This spell functions like _ [symbol of death](symbolOfDeath#_symbol-of-death)_, except that every creature within 60 feet of a _symbol of weakness _instead suffers crippling weakness that deals 3d6 points of [Strength](../gettingStarted#_strength) damage.
+This spell functions like _ [symbol of death](symbolOfDeath#_symbol-of-death_, except that every creature within 60 feet of a _symbol of weakness _instead suffers crippling weakness that deals 3d6 points of [Strength](../gettingStarted#_strength) damage.
 
 Unlike _ [symbol of death](symbolOfDeath#_symbol-of-death)_, _symbol of weakness _has no hit point limit; once triggered, a _symbol of weakness _simply remains active for 10 minutes per caster level. A creature can only be affected by this symbol once.
 

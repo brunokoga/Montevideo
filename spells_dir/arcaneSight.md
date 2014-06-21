@@ -27,9 +27,9 @@ _Arcane sight _can be made permanent with a _ [permanency](permanency#_permanenc
 
 **Arcane Sight, Greater**
 
-**School** divination; **Level** sorcerer/wizard 7
+**School** divination; **Level** sorcere_dir/wizard 7
 
 This spell functions like _arcane sight, _except that you automatically know which spells or magical effects are active upon any individual or object you see.
 
-Unlike _arcane sight_, this spell cannot be made permanent with a _ [permanency](permanency#_permanency) _spell.
+Unlike _arcane sight_, this spell cannot be made permanent with a _ [permanency](permanency#_permanency _spell.
 

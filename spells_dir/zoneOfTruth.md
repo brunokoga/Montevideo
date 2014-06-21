@@ -1,9 +1,9 @@
 ---
-title: spells/zoneOfTruth
+title: spell_dir/zoneOfTruth
 ---
  **Zone of Truth**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** cleric 2, paladin 2
+**School** enchantment (compulsion [mind-affecting]; **Level** cleric 2, paladin 2
 
 **Casting Time** 1 standard action
 

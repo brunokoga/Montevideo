@@ -13,7 +13,7 @@ Merfolk warrior 1
 
 N Medium [humanoid](creatureTypes#_humanoid) ( [aquatic](creatureTypes#_aquatic-subtype))
 
-**Init** +1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +3
+**Init** +1; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +3
 
 **Defense**
 
@@ -27,7 +27,7 @@ N Medium [humanoid](creatureTypes#_humanoid) ( [aquatic](creatureTypes#_aquatic-
 
 **Speed** 5 ft., swim 50 ft.
 
-**Melee** trident +2 (1d8+1)
+**Melee** trident +2 (1d8+1
 
 **Ranged** heavy crossbow +2 (1d10/19–20)
 
@@ -37,9 +37,9 @@ N Medium [humanoid](creatureTypes#_humanoid) ( [aquatic](creatureTypes#_aquatic-
 
 **Base**  **Atk** +1; **CMB** +2; **CMD** 13 (can't be tripped)
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
 
-**Skills** [Perception](../skills/perception#_perception) +3, [Swim](../skills/swim#_swim) +13
+**Skills** [Perception](../skill_dir/perception#_perception +3, [Swim](../skill_dir/swim#_swim) +13
 
 **Languages** Aquan, Common
 
@@ -51,7 +51,7 @@ N Medium [humanoid](creatureTypes#_humanoid) ( [aquatic](creatureTypes#_aquatic-
 
 **Organization** solitary, company (2–4), patrol (3–10 plus 2 lieutenants of 3rd level and 1 leader of 3rd–6th level), or shoal (11–60 plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, 3 captains of 7th level, and8–12 dolphins)
 
-**Treasure** NPC gear (trident, heavy crossbow with 10 bolts, other treasure)
+**Treasure** NPC gear (trident, heavy crossbow with 10 bolts, other treasure
 
 From the waist up, merfolk bear the torsos of well-built humans and delicate features reminiscent of elves and other humanoids tied to the natural world. A merfolk's lower body consists of the fins and tail of a great fish. Depending on the region, the scales of merfolk vary in hue, including gleaming silver, pale green, or even blue with stripes of yellow and crimson. Merfolk typically measure 6 to 8 feet in length and weigh over 200 pounds, with females being slightly smaller than males. Although amphibious, merfolk move only with difficulty on land and rarely wander more than a mile from sea.
 

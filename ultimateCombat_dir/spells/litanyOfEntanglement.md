@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/litanyOfEntanglement
+title: ultimateCombat/spell_dir/litanyOfEntanglement
 ---
 Litany of Entanglement
 
-**School** conjuration (calling) [language dependent]; **Level** antipaladin 2, inquisitor 3, paladin 2
+**School** conjuration (calling [language dependent]; **Level** antipaladin 2, inquisitor 3, paladin 2
 
 **Casting Time** 1 swift action
 

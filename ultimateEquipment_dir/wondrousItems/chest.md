@@ -58,25 +58,25 @@ All Tools Vest
 
 **Price** 1,800 gp; **Aura** faint conjuration; **CL** 1st; **Weight** 5 lbs.
 
-This well-made leather vest bears numerous shiny metal buttons, which stud a number of bulging pockets. Once per day, as a standard action, the wearer can speak the vest's command word and order it to bring forth all the standard tools required to make checks for any one [Craft](skills/craft#_craft) skill. These tools appear in the countless pockets of the vest or, if too heavy, on the floor, on a nearby shelf, on a workbench, or in a toolbox or cupboard that appears nearby. Once summoned, they remain for 24 hours or until another creature touches them, whichever comes first.
+This well-made leather vest bears numerous shiny metal buttons, which stud a number of bulging pockets. Once per day, as a standard action, the wearer can speak the vest's command word and order it to bring forth all the standard tools required to make checks for any one [Craft](skill_dir/craft#_craft skill. These tools appear in the countless pockets of the vest or, if too heavy, on the floor, on a nearby shelf, on a workbench, or in a toolbox or cupboard that appears nearby. Once summoned, they remain for 24 hours or until another creature touches them, whichever comes first.
 
 Construction Requirements
 
 **Cost** 900 gp
 
-Craft Wondrous Item, _ [summon instrument](spells/summonInstrument#_summon-instrument)_
+Craft Wondrous Item, _ [summon instrument](spell_dir/summonInstrument#_summon-instrument_
 
 Bandages of Rapid Recovery
 
 **Price** 200 gp; **Aura** faint conjuration; **CL** 1st; **Weight** 1 lb.
 
-These linen bandages have the same color and softness as the feathers of a dove, but their antiseptic smell suggests a less natural origin. Any creature wrapped in these bandages recovers from wounds and ability damage each day as if receiving complete bed rest, regardless of activity . A creature actually receiving long-term care (from the [Heal](skills/heal#_heal) skill) or complete bed rest while wearing the bandages gains a +4 bonus to its effective level or Hit Dice when determining how many hit points it recovers each day. The bandages are destroyed once removed or when the wearer recovers all hit points and ability damage, whichever comes first.
+These linen bandages have the same color and softness as the feathers of a dove, but their antiseptic smell suggests a less natural origin. Any creature wrapped in these bandages recovers from wounds and ability damage each day as if receiving complete bed rest, regardless of activity . A creature actually receiving long-term care (from the [Heal](skill_dir/heal#_heal) skill or complete bed rest while wearing the bandages gains a +4 bonus to its effective level or Hit Dice when determining how many hit points it recovers each day. The bandages are destroyed once removed or when the wearer recovers all hit points and ability damage, whichever comes first.
 
 Construction Requirements
 
 **Cost** 100 gp
 
-Craft Wondrous Item, _ [cure light wounds](spells/cureLightWounds#_cure-light-wounds)_, _ [lesser restoration](spells/restoration#_restoration-lesser)_, _ [stabilize](spells/stabilize#_stabilize)_
+Craft Wondrous Item, _ [cure light wounds](spell_dir/cureLightWounds#_cure-light-wounds_, _ [lesser restoration](spell_dir/restoration#_restoration-lesser_, _ [stabilize](spell_dir/stabilize#_stabilize_
 
 Bane Baldric
 
@@ -88,45 +88,45 @@ Construction Requirements
 
 **Cost** 5,000 gp
 
-Craft Wondrous Item, _ [summon monster I](spells/summonMonster#_summon-monster-i)_, creator must be an inquisitor
+Craft Wondrous Item, _ [summon monster I](spell_dir/summonMonster#_summon-monster-i_, creator must be an inquisitor
 
 Cackling Hag's Blouse
 
 **Price** 6,000 gp; **Aura** faint enchantment; **CL** 3rd; **Weight** 2 lbs.
 
-This loose-fitting blouse is adorned with grotesque fetishes and trophies, granting the wearer a +2 competence bonus on [Intimidate](skills/intimidate#_intimidate) checks. If the wearer is a witch, she gains the cackle hex. If the wearer already has the cackle hex, twice per day she can use her cackle ability as a swift action instead of a move action.
+This loose-fitting blouse is adorned with grotesque fetishes and trophies, granting the wearer a +2 competence bonus on [Intimidate](skill_dir/intimidate#_intimidate checks. If the wearer is a witch, she gains the cackle hex. If the wearer already has the cackle hex, twice per day she can use her cackle ability as a swift action instead of a move action.
 
 Construction Requirements
 
 **Cost** 3,000 gp
 
-Craft Wondrous Item, _ [hideous laughter](spells/hideousLaughter#_hideous-laughter)_ or the cackle hex, creator must have 5 ranks in [Intimidate](skills/intimidate#_intimidate)
+Craft Wondrous Item, _ [hideous laughter](spell_dir/hideousLaughter#_hideous-laughter_ or the cackle hex, creator must have 5 ranks in [Intimidate](skill_dir/intimidate#_intimidate)
 
 Deadshot Vest
 
 **Price** 6,000 gp; **Aura** faint necromancy; **CL** 3rd; **Weight** 1 lb.
 
-This rough vest of black snakeskin is decorated with a fringe of rawhide tassels, each knotted around a bit of bone or a small animal skull. A gunslinger with the deadeye deed reduces the grit point cost to use that deed by 1 (minimum 1 grit).
+This rough vest of black snakeskin is decorated with a fringe of rawhide tassels, each knotted around a bit of bone or a small animal skull. A gunslinger with the deadeye deed reduces the grit point cost to use that deed by 1 (minimum 1 grit.
 
-In addition, once per day when the wearer reduces a creature to 0 or fewer hit points with a firearm she can use _ [death knell](spells/deathKnell#_death-knell)_ (Will DC 13 negates) against that target as a swift action. She does not have to touch the target to activate this ability, but her range increment penalty for shooting the target also applies to the saving throw DC of the _ [death knell](spells/deathKnell#_death-knell)_ (for example, if the range increment penalty is –2, the DC is 11).
+In addition, once per day when the wearer reduces a creature to 0 or fewer hit points with a firearm she can use _ [death knell](spell_dir/deathKnell#_death-knell)_ (Will DC 13 negates against that target as a swift action. She does not have to touch the target to activate this ability, but her range increment penalty for shooting the target also applies to the saving throw DC of the _ [death knell](spell_dir/deathKnell#_death-knell)_ (for example, if the range increment penalty is –2, the DC is 11.
 
 Construction Requirements
 
 **Cost** 3,000 gp
 
-Craft Wondrous Item, _ [death knell](spells/deathKnell#_death-knell)_, _ [true strike](spells/trueStrike#_true-strike)_
+Craft Wondrous Item, _ [death knell](spell_dir/deathKnell#_death-knell_, _ [true strike](spell_dir/trueStrike#_true-strike)_
 
 Endless Bandolier
 
 **Price** 1,500 gp; **Aura** moderate conjuration; **CL** 9th; **Weight** 2 lbs.
 
-Small loops sewn into this bandolier look like they can hold twenty alchemical cartridges (ammunition for a firearm, see _Ultimate Combat_), but due to a subtle bending of space can actually hold up to 60 cartridges. Additionally, the six thin pockets on the bandolier are extradimensional spaces meant to hold extra guns and gear. The four small pockets can each hold a one-handed firearm, 1 pound of ammunition, a powder horn, or a similarly sized object. The two large pockets are large enough to hold a two-handed firearm or a similarly sized object. The wearer can draw an item stored in the bandolier as easily as if from an ordinary ammunition pouch or holster. The bandolier weighs the same no matter what is placed inside it.
+Small loops sewn into this bandolier look like they can hold twenty alchemical cartridges (ammunition for a firearm, see _Ultimate Combat_, but due to a subtle bending of space can actually hold up to 60 cartridges. Additionally, the six thin pockets on the bandolier are extradimensional spaces meant to hold extra guns and gear. The four small pockets can each hold a one-handed firearm, 1 pound of ammunition, a powder horn, or a similarly sized object. The two large pockets are large enough to hold a two-handed firearm or a similarly sized object. The wearer can draw an item stored in the bandolier as easily as if from an ordinary ammunition pouch or holster. The bandolier weighs the same no matter what is placed inside it.
 
 Construction Requirements
 
 **Cost** 750 gp
 
-Craft Wondrous Item, _ [secret chest](spells/secretChest#_secret-chest)_
+Craft Wondrous Item, _ [secret chest](spell_dir/secretChest#_secret-chest_
 
 Mantle of Faith
 
@@ -138,19 +138,19 @@ Construction Requirements
 
 **Cost** 38,000 gp
 
-Craft Wondrous Item, _ [stoneskin](spells/stoneskin#_stoneskin)_
+Craft Wondrous Item, _ [stoneskin](spell_dir/stoneskin#_stoneskin)_
 
 Mantle of Immortality
 
 **Price** 50,000 gp; **Aura** strong transmutation; **CL** 17th; **Weight** 1 lb.
 
-This elegant cape, trimmed in gold in a pattern resembling an ancient maze, forestalls the negative effects of aging. The wearer no longer suffers penalties to Strength, Dexterity, and Constitution from being of middle age or older . The penalties return if the robe is removed (or its powers suppressed), and the sudden weight of years is so traumatic that the wearer must make a DC 20 Fortitude save or be exhausted for 24 hours. Donning the robe again removes the age penalties, but does not remove this exhaustion, which must pass on its own or be remedied with magic.
+This elegant cape, trimmed in gold in a pattern resembling an ancient maze, forestalls the negative effects of aging. The wearer no longer suffers penalties to Strength, Dexterity, and Constitution from being of middle age or older . The penalties return if the robe is removed (or its powers suppressed, and the sudden weight of years is so traumatic that the wearer must make a DC 20 Fortitude save or be exhausted for 24 hours. Donning the robe again removes the age penalties, but does not remove this exhaustion, which must pass on its own or be remedied with magic.
 
 Construction Requirements
 
 **Cost** 25,000 gp
 
-Craft Wondrous Item, _ [greater age resistance](ultimateMagic/spells/ageResistance#_age-resistance,-greater)_
+Craft Wondrous Item, _ [greater age resistance](ultimateMagic/spell_dir/ageResistance#_age-resistance,-greater_
 
 Mantle of Spell Resistance
 
@@ -162,7 +162,7 @@ Construction Requirements
 
 **Cost** 45,000 gp
 
-Craft Wondrous Item, _ [spell resistance](magicItems/armor#_armor-spell-resistance)_
+Craft Wondrous Item, _ [spell resistance](magicItem_dir/armor#_armor-spell-resistance)_
 
 Merciful Baldric
 
@@ -174,7 +174,7 @@ Construction Requirements
 
 **Cost** 30,000 gp
 
-Craft Wondrous Item, [Extra Mercy](feats#_extra-mercy), _ [remove disease](spells/removeDisease#_remove-disease), [remove curse](spells/removeCurse#_remove-curse), _creator must be lawful good
+Craft Wondrous Item, [Extra Mercy](feats#_extra-mercy, _ [remove disease](spell_dir/removeDisease#_remove-disease, [remove curse](spell_dir/removeCurse#_remove-curse, _creator must be lawful good
 
 Poisoner's Jacket, Greater
 
@@ -186,7 +186,7 @@ Construction Requirements
 
 **Cost** 29,000 gp
 
-Craft Wondrous Item, _ [major creation](spells/majorCreation#_major-creation)_, _ [poison](spells/poison#_poison)_
+Craft Wondrous Item, _ [major creation](spell_dir/majorCreation#_major-creation_, _ [poison](spell_dir/poison#_poison_
 
 Poisoner's Jacket, Lesser
 
@@ -198,19 +198,19 @@ Construction Requirements
 
 **Cost** 6,000 gp
 
-Craft Wondrous Item, _ [minor creation](spells/minorCreation#_minor-creation)_, _ [poison](spells/poison#_poison)_
+Craft Wondrous Item, _ [minor creation](spell_dir/minorCreation#_minor-creation_, _ [poison](spell_dir/poison#_poison_
 
 Prophet's Pectoral
 
 **Price** 6,000 gp; **Aura** faint divination; **CL** 3rd; **Weight** 1 lb.
 
-The sacred stones, graven star-patterns, and wisdom-writings of the ancients on this chestplate increase the wearer's chance of success with _ [augury](spells/augury#_augury)_, _ [divination](spells/divination#_divination)_, and _ [contact other plane](spells/contactOtherPlane#_contact-other-plane)._ The wearer adds 1d6 to the d% roll each time she uses such a spell. When casting _ [commune](spells/commune#_commune)_ or _ [commune with nature](spells/communeWithNature#_commune-with-nature)_, the wearer may ask one additional question or gain one additional piece of information.
+The sacred stones, graven star-patterns, and wisdom-writings of the ancients on this chestplate increase the wearer's chance of success with _ [augury](spell_dir/augury#_augury_, _ [divination](spell_dir/divination#_divination_, and _ [contact other plane](spell_dir/contactOtherPlane#_contact-other-plane._ The wearer adds 1d6 to the d% roll each time she uses such a spell. When casting _ [commune](spell_dir/commune#_commune_ or _ [commune with nature](spell_dir/communeWithNature#_commune-with-nature_, the wearer may ask one additional question or gain one additional piece of information.
 
 Construction Requirements
 
 **Cost** 3,000 gp
 
-Craft Wondrous Item, _ [divination](spells/divination#_divination)_, _ [guidance](spells/guidance#_guidance)_
+Craft Wondrous Item, _ [divination](spell_dir/divination#_divination_, _ [guidance](spell_dir/guidance#_guidance_
 
 Quick Runner's Shirt
 
@@ -222,7 +222,7 @@ Construction Requirements
 
 **Cost** 500 gp
 
-Craft Wondrous Item, _ [haste](spells/haste#_haste)_
+Craft Wondrous Item, _ [haste](spell_dir/haste#_haste_
 
 Resplendent Uniform Coat
 
@@ -234,7 +234,7 @@ Construction Requirements
 
 **Cost** 3,500 gp
 
-Craft Wondrous Item, _ [heroism](spells/heroism#_heroism)_
+Craft Wondrous Item, _ [heroism](spell_dir/heroism#_heroism_
 
 Sash of the War Champion
 
@@ -246,31 +246,31 @@ Construction Requirements
 
 **Cost** 2,000 gp
 
-Craft Wondrous Item, _ [cat's grace](spells/catSGrace#_cat-s-grace)_, _ [remove fear](spells/removeFear#_remove-fear)_
+Craft Wondrous Item, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, _ [remove fear](spell_dir/removeFear#_remove-fear)_
 
 Shirt of Immolation
 
 **Price** 8,000 gp; **Aura** moderate evocation; **CL** 10th; **Weight** 1 lb.
 
-Whenever the wearer is grappling (whether on the offense or defense), this shirt automatically bursts into flame, dealing 1d6+10 points of fire damage every round to anyone grappling the wearer. The flames do not harm the wearer and last one round (though it continues to burn if the wearer is still grappling after one round). The shirt burns for a maximum of 10 rounds per day. These rounds do not need to be consecutive.
+Whenever the wearer is grappling (whether on the offense or defense), this shirt automatically bursts into flame, dealing 1d6+10 points of fire damage every round to anyone grappling the wearer. The flames do not harm the wearer and last one round (though it continues to burn if the wearer is still grappling after one round. The shirt burns for a maximum of 10 rounds per day. These rounds do not need to be consecutive.
 
 Construction Requirements
 
 **Cost** 4,000 gp
 
-Craft Wondrous Item, _ [fire shield](spells/fireShield#_fire-shield)_
+Craft Wondrous Item, _ [fire shield](spell_dir/fireShield#_fire-shield)_
 
 Sipping Jacket
 
 **Price** 5,000 gp; **Aura** moderate transmutation; **CL** 7th; **Weight** 5 lbs.
 
-Absorbent fibers line this heavy canvas coat. Once per day as a standard action, the wearer can pour a potion onto this lining, suffusing it into the coat. If the potion has an instantaneous duration, the wearer can activate the coat as a swift action to consume the potion. If the potion's duration is measured in rounds, the wearer can activate the coat as a swift action to gain the potion's benefits for 1 round, repeating as desired each round until the potion's entire duration has been used. These rounds do not need to be consecutive. The coat absorbs only potions with instantaneous or round-based durations, and only those which affect creatures (for example, it does not work on oils). Once the coat absorbs a potion, the potion cannot be retrieved from it, only used as described above. The absorbed potion loses its powers after 24 hours, even if unused.
+Absorbent fibers line this heavy canvas coat. Once per day as a standard action, the wearer can pour a potion onto this lining, suffusing it into the coat. If the potion has an instantaneous duration, the wearer can activate the coat as a swift action to consume the potion. If the potion's duration is measured in rounds, the wearer can activate the coat as a swift action to gain the potion's benefits for 1 round, repeating as desired each round until the potion's entire duration has been used. These rounds do not need to be consecutive. The coat absorbs only potions with instantaneous or round-based durations, and only those which affect creatures (for example, it does not work on oils. Once the coat absorbs a potion, the potion cannot be retrieved from it, only used as described above. The absorbed potion loses its powers after 24 hours, even if unused.
 
 Construction Requirements
 
 **Cost** 2,500 gp
 
-Craft Wondrous Item, _ [amplify elixir](advanced/spells/amplifyElixir#_amplify-elixir)_
+Craft Wondrous Item, _ [amplify elixir](advanced/spell_dir/amplifyElixir#_amplify-elixir_
 
 Snakeskin Tunic
 
@@ -282,19 +282,19 @@ Construction Requirements
 
 **Cost** 4,000 gp
 
-Craft Wondrous Item, _ [cat's grace](spells/catSGrace#_cat-s-grace)_, _ [delay poison](spells/delayPoison#_delay-poison)_
+Craft Wondrous Item, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, _ [delay poison](spell_dir/delayPoison#_delay-poison_
 
 Spectral Shroud
 
 **Price** 26,000 gp; **Aura** moderate necromancy; **CL** 5th; **Weight** —
 
-This thin, bleached cloth covers the wearer's entire torso. Some also cover the wearer's face, but don't interfere with the wearer's vision. The morbid burial shroud grants the wearer some affinity with the spectral dead. The wearer can discern invisible or ethereal creatures as though using _ [see invisibility](spells/seeInvisibility#_see-invisibility)_. Once per day, the wearer can become incorporeal for 10 rounds and gain a fly speed equal to half his base speed with perfect maneuverability. The wearer can't attack while incorporeal, but can dismiss the effect as a move action.
+This thin, bleached cloth covers the wearer's entire torso. Some also cover the wearer's face, but don't interfere with the wearer's vision. The morbid burial shroud grants the wearer some affinity with the spectral dead. The wearer can discern invisible or ethereal creatures as though using _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_. Once per day, the wearer can become incorporeal for 10 rounds and gain a fly speed equal to half his base speed with perfect maneuverability. The wearer can't attack while incorporeal, but can dismiss the effect as a move action.
 
 Construction Requirements
 
 **Cost** 13,000 gp
 
-Craft Wondrous Item, _ [hide from undead](spells/hideFromUndead#_hide-from-undead), [see invisibility](spells/seeInvisibility#_see-invisibility)_
+Craft Wondrous Item, _ [hide from undead](spell_dir/hideFromUndead#_hide-from-undead, [see invisibility](spell_dir/seeInvisibility#_see-invisibility)_
 
 Tunic of Careful Casting
 
@@ -306,19 +306,19 @@ Construction Requirements
 
 **Cost** 2,500 gp
 
-Craft Wondrous Item, [Combat Casting](feats#_combat-casting)
+Craft Wondrous Item, [Combat Casting](feats#_combat-casting
 
 Tunic of Deadly Might
 
 **Price** 6,000 gp; **Aura** faint evocation; **CL** 3rd; **Weight** 2 lbs.
 
-This tunic is crafted from golden thread, and has silver-hemmed sleeves. The wearer gains a +2 bonus to Combat Maneuver Defense against disarm and sunder combat maneuvers. If the wearer is a samurai, twice per day as a swift action he can apply the effects of the _ [thundering](magicItems/weapons#_thundering)_ weapon special ability to a successful critical hit against the target of his challenge.
+This tunic is crafted from golden thread, and has silver-hemmed sleeves. The wearer gains a +2 bonus to Combat Maneuver Defense against disarm and sunder combat maneuvers. If the wearer is a samurai, twice per day as a swift action he can apply the effects of the _ [thundering](magicItem_dir/weapons#_thundering_ weapon special ability to a successful critical hit against the target of his challenge.
 
 Construction Requirements
 
 **Cost** 3,000 gp
 
-Craft Wondrous Item, _ [blindness/deafness](spells/blindnessDeafness#_blindness-deafness)_, _ [mage armor](spells/mageArmor#_mage-armor)_
+Craft Wondrous Item, _ [blindness/deafness](spell_dir/blindnessDeafness#_blindness-deafness_, _ [mage armor](spell_dir/mageArmor#_mage-armor_
 
 Unfettered Shirt
 
@@ -326,25 +326,25 @@ Unfettered Shirt
 
 This loose, often ruffled, shirt is cut in a style designed to avoid hindering its wearer's movement.
 
-Once per day on command, the wearer can gain the benefits of _ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement)_ for 10 minutes.
+Once per day on command, the wearer can gain the benefits of _ [freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement_ for 10 minutes.
 
 Construction Requirements
 
 **Cost** 5,000 gp
 
-Craft Wondrous Item, _ [cat's grace](spells/catSGrace#_cat-s-grace)_, _ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement)_
+Craft Wondrous Item, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, _ [freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement_
 
 Vest of Escape
 
 **Price** 5,200 gp; **Aura** faint conjuration and transmutation; **CL** 4th; **Weight** —
 
-This simple silk vest looks nondescript, but is actually studded with numerous secret pockets sewn into its lining. Hidden inside these are magic lockpicks that provide a +4 competence bonus on [Disable Device](skills/disableDevice#_disable-device) checks. The vest also grants its wearer a +6 competence bonus on [Escape Artist](skills/escapeArtist#_escape-artist) checks.
+This simple silk vest looks nondescript, but is actually studded with numerous secret pockets sewn into its lining. Hidden inside these are magic lockpicks that provide a +4 competence bonus on [Disable Device](skill_dir/disableDevice#_disable-device checks. The vest also grants its wearer a +6 competence bonus on [Escape Artist](skill_dir/escapeArtist#_escape-artist checks.
 
 Construction Requirements
 
 **Cost** 2,600 gp
 
-Craft Wondrous Item, _ [knock](spells/knock#_knock)_, _ [grease](spells/grease#_grease)_
+Craft Wondrous Item, _ [knock](spell_dir/knock#_knock_, _ [grease](spell_dir/grease#_grease_
 
 Vest of Stable Mutation
 
@@ -356,19 +356,19 @@ Construction Requirements
 
 **Cost** 10,000 gp
 
-Craft Wondrous Item, _ [eagle's splendor](spells/eagleSSplendor#_eagle-s-splendor)_, _ [fox's cunning](spells/foxSCunning#_fox-s-cunning)_, _ [owl's wisdom](spells/owlSWisdom#_owl-s-wisdom)_, creator must be an alchemist
+Craft Wondrous Item, _ [eagle's splendor](spell_dir/eagleSSplendor#_eagle-s-splendor_, _ [fox's cunning](spell_dir/foxSCunning#_fox-s-cunning_, _ [owl's wisdom](spell_dir/owlSWisdom#_owl-s-wisdom_, creator must be an alchemist
 
 Vest of Surgery
 
 **Price** 3,000 gp; **Aura** faint conjuration; **CL** 5th; **Weight** 4 lbs.
 
-This emerald vest has four prominent and bulging pockets along its front. The wearer is always treated as if using a healer's kit when making [Heal](skills/heal#_heal) checks . Once per day, the wearer can make a DC 20 [Heal](skills/heal#_heal) check as if attempting to treat deadly wounds. If the check is successful, it cures 1d4 points of ability damage instead of hit point damage.
+This emerald vest has four prominent and bulging pockets along its front. The wearer is always treated as if using a healer's kit when making [Heal](skill_dir/heal#_heal checks . Once per day, the wearer can make a DC 20 [Heal](skill_dir/heal#_heal check as if attempting to treat deadly wounds. If the check is successful, it cures 1d4 points of ability damage instead of hit point damage.
 
 Construction Requirements
 
 **Cost** 1,500 gp
 
-Craft Wondrous Item, _ [lesser restoration](spells/restoration#_restoration-lesser)_, creator must have 5 ranks in [Heal](skills/heal#_heal)
+Craft Wondrous Item, _ [lesser restoration](spell_dir/restoration#_restoration-lesser_, creator must have 5 ranks in [Heal](skill_dir/heal#_heal
 
 Vest of the Cockroach
 
@@ -380,7 +380,7 @@ Construction Requirements
 
 **Cost** 8,000 gp
 
-Craft Wondrous Item, _ [false life](spells/falseLife#_false-life)_
+Craft Wondrous Item, _ [false life](spell_dir/falseLife#_false-life_
 
 Vest of the Vengeful Tracker
 
@@ -392,5 +392,5 @@ Construction Requirements
 
 **Cost** 3,000 gp
 
-Craft Wondrous Item, _ [commune with nature](spells/communeWithNature#_commune-with-nature)_
+Craft Wondrous Item, _ [commune with nature](spell_dir/communeWithNature#_commune-with-nature_
 

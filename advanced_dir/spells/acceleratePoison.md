@@ -3,11 +3,11 @@ title: advanced/spells/acceleratePoison
 ---
  **Accelerate Poison**
 
-**School** transmutation; **Level** druid 2, ranger 2, sorcerer/wizard 2
+**School** transmutation; **Level** druid 2, ranger 2, sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a thorn)
+**Components** V, S, M (a thorn
 
 **Range** touch
 

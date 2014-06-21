@@ -1,9 +1,9 @@
 ---
-title: spells/teleportObject
+title: spell_dir/teleportObject
 ---
  **Teleport Object**
 
-**School** conjuration (teleportation); **Level** sorcerer/wizard 7
+**School** conjuration (teleportation; **Level** sorcerer/wizard 7
 
 **Range** touch
 

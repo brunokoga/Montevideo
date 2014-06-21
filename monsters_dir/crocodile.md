@@ -1,5 +1,5 @@
 ---
-title: monsters/crocodile
+title: monster_dir/crocodile
 ---
 # Crocodile
 
@@ -9,9 +9,9 @@ _This reptile lunges out of the placid water with shocking speed. Its jaw gapes 
 
 **XP 600**
 
-N Large [animal](creatureTypes#_animal)
+N Large [animal](creatureTypes#_animal
 
-**Init** +1; **Senses** low-light vision; [Perception](../skills/perception#_perception) +8
+**Init** +1; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
@@ -35,11 +35,11 @@ N Large [animal](creatureTypes#_animal)
 
 **Str** 19, **Dex** 12, **Con** 17, **Int** 1, **Wis** 12, **Cha** 2
 
-**Base**  **Atk** +2; **CMB** +7 (+11 grapple); **CMD** 18 (22 vs. trip)
+**Base**  **Atk** +2; **CMB** +7 (+11 grapple); **CMD** 18 (22 vs. trip
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception), [Stealth](../skills/stealth#_stealth))
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception, [Stealth](../skill_dir/stealth#_stealth)
 
-**Skills** [Perception](../skills/perception#_perception) +8, [Stealth](../skills/stealth#_stealth) +5 (+13 in water), [Swim](../skills/swim#_swim) +12; **Racial Modifiers** +8 on [Stealth](../skills/stealth#_stealth) in water
+**Skills** [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth) +5 (+13 in water, [Swim](../skill_dir/swim#_swim +12; **Racial Modifiers** +8 on [Stealth](../skill_dir/stealth#_stealth) in water
 
 **SQ** hold breath
 
@@ -71,15 +71,15 @@ _This reptilian behemoth, a crocodile of monstrous proportions, is large enough 
 
 **XP 6,400**
 
-N Gargantuan [animal](creatureTypes#_animal)
+N Gargantuan [animal](creatureTypes#_animal
 
-**Init** +4; **Senses** low-light vision; [Perception](../skills/perception#_perception) +14
+**Init** +4; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +14
 
 **Defense**
 
 **AC** 21, touch 6, flat-footed 21 (+15 natural, –4 size)
 
-**hp** 138 (12d8+84)
+**hp** 138 (12d8+84
 
 **Fort** +15, **Ref** +8, **Will** +8
 
@@ -99,9 +99,9 @@ N Gargantuan [animal](creatureTypes#_animal)
 
 **Base**  **Atk** +9; **CMB** +26 (+30 grapple); **CMD** 36 (40 vs. trip)
 
-**Feats** [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception), [Stealth](../skills/stealth#_stealth))
+**Feats** [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Run](../feats#_run), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception, [Stealth](../skill_dir/stealth#_stealth)
 
-**Skills** [Perception](../skills/perception#_perception) +14, [Stealth](../skills/stealth#_stealth) +0 (+8 in water), [Swim](../skills/swim#_swim) +21; **Racial Modifiers** +8 [Stealth](../skills/stealth#_stealth) in water
+**Skills** [Perception](../skill_dir/perception#_perception +14, [Stealth](../skill_dir/stealth#_stealth) +0 (+8 in water, [Swim](../skill_dir/swim#_swim +21; **Racial Modifiers** +8 [Stealth](../skill_dir/stealth#_stealth) in water
 
 **SQ** hold breath
 
@@ -109,7 +109,7 @@ N Gargantuan [animal](creatureTypes#_animal)
 
 **Environment** warm rivers and marshes
 
-**Organization** solitary, pair, or colony (3–6)
+**Organization** solitary, pair, or colony (3–6
 
 **Treasure** none
 

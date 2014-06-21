@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/litanyOfSloth
+title: ultimateCombat/spell_dir/litanyOfSloth
 ---
 Litany of Sloth
 
-**School** enchantment (compulsion) [language dependent, mind-affecting]; **Level** antipaladin 1, inquisitor 1, paladin 1
+**School** enchantment (compulsion [language dependent, mind-affecting]; **Level** antipaladin 1, inquisitor 1, paladin 1
 
 **Casting Time** 1 swift action
 

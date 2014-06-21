@@ -13,7 +13,7 @@ Orc warrior 1
 
 CE Medium [humanoid](creatureTypes#_humanoid)
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) –1
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) –1
 
 **Defense**
 
@@ -25,7 +25,7 @@ CE Medium [humanoid](creatureTypes#_humanoid)
 
 **Defensive Abilities** ferocity
 
-**Weaknesses** [light sensitivity](universalMonsterRules#_light-sensitivity)
+**Weaknesses** [light sensitivity](universalMonsterRules#_light-sensitivity
 
 **Offense**
 
@@ -43,7 +43,7 @@ CE Medium [humanoid](creatureTypes#_humanoid)
 
 **Feats** [Weapon Focus](../feats#_weapon-focus) (falchion)
 
-**Skills** [Intimidate](../skills/intimidate#_intimidate) +2
+**Skills** [Intimidate](../skill_dir/intimidate#_intimidate) +2
 
 **Languages** Common, Orc
 
@@ -71,7 +71,7 @@ Orcs are defined by their class levels—they do not possess racial Hit Dice. Al
 
 **[Ferocity](universalMonsterRules#_ferocity)**
 
-**[Light Sensitivity](universalMonsterRules#_light-sensitivity)**
+**[Light Sensitivity](universalMonsterRules#_light-sensitivity**
 
 **Weapon Familiarity** : Orcs are always proficient with greataxes and falchions, and treat any weapon with the word “orc” in its name as a martial weapon.
 

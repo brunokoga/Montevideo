@@ -1,5 +1,5 @@
 ---
-title: monsters/skum
+title: monster_dir/skum
 ---
 # Skum
 
@@ -9,9 +9,9 @@ _This hunchbacked, green-skinned humanoid has a wide, frog-like head but a mouth
 
 **XP 600**
 
-LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](creatureTypes#_aquatic-subtype))
+LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](creatureTypes#_aquatic-subtype)
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +5
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +5
 
 **Defense**
 
@@ -37,9 +37,9 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](cr
 
 **Base Atk** +2; **CMB** +4; **CMD** 15
 
-**Feats** [Multiattack](monsterFeats#_multiattack)B, [Toughness](../feats#_toughness)
+**Feats** [Multiattack](monsterFeats#_multiattackB, [Toughness](../feats#_toughness)
 
-**Skills** [Intimidate](../skills/intimidate#_intimidate) +3, [Perception](../skills/perception#_perception) +5 (+9 underwater), [Stealth](../skills/stealth#_stealth) +6 (+10 underwater), [Swim](../skills/swim#_swim) +15; **Racial Modifiers** +4 [Perception](../skills/perception#_perception) and [Stealth](../skills/stealth#_stealth) underwater
+**Skills** [Intimidate](../skill_dir/intimidate#_intimidate +3, [Perception](../skill_dir/perception#_perception) +5 (+9 underwater, [Stealth](../skill_dir/stealth#_stealth) +6 (+10 underwater, [Swim](../skill_dir/swim#_swim +15; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception and [Stealth](../skill_dir/stealth#_stealth) underwater
 
 **Languages** Aboleth, Undercommon
 
@@ -51,7 +51,7 @@ LE Medium [monstrous humanoid](creatureTypes#_monstrous-humanoid) ( [aquatic](cr
 
 **Organization** solitary, brood (2–5), pack (6–12), or cabal (13–95 plus 50% noncombatants, 1 subchief of 3rd level per 20 adults, 1 sorcerer of 4th–6th level per 40 adults, 1 chieftain of 7th–9th level, and 2–6 oozes)
 
-**Treasure** NPC gear (trident, other treasure)
+**Treasure** NPC gear (trident, other treasure
 
 Skum are the most prolific and successful of the countless races created by the aboleths to serve as slaves. At the height of the aboleth empire, skum were legion and their armies waged many wars upon the land, yet now that the aboleths are in decline, skum have been set loose to manage on their own.
 

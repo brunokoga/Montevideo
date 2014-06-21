@@ -1,9 +1,9 @@
 ---
-title: spells/transportViaPlants
+title: spell_dir/transportViaPlants
 ---
  **Transport via Plants**
 
-**School** conjuration (teleportation); **Level** druid 6
+**School** conjuration (teleportation; **Level** druid 6
 
 **Casting Time** 1 standard action
 

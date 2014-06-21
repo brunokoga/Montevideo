@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/aspectOfTheBear
+title: advanced/spell_dir/aspectOfTheBear
 ---
  **Aspect of the Bear**
 
-**School** transmutation (polymorph); **Level** druid 2, ranger 2
+**School** transmutation (polymorph; **Level** druid 2, ranger 2
 
 **Casting Time** 1 standard action
 

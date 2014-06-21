@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/unpreparedCombatant
+title: ultimateMagic/spell_dir/unpreparedCombatant
 ---
 Unprepared Combatant
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 1, sorcerer/wizard 1, witch 1
+**School** enchantment (compulsion [emotion, mind-affecting]; **Level** bard 1, sorcerer/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 

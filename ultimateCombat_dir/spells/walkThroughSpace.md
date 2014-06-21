@@ -1,13 +1,13 @@
 ---
-title: ultimateCombat/spells/walkThroughSpace
+title: ultimateCombat/spell_dir/walkThroughSpace
 ---
 Walk through Space
 
-**School** conjuration (teleportation); **Level** alchemist 6, magus 6, sorcerer/wizard 7, summoner 6, witch 7
+**School** conjuration (teleportation; **Level** alchemist 6, magus 6, sorcere_dir/wizard 7, summoner 6, witch 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a wren's egg)
+**Components** V, S, M (a wren's egg
 
 **Range** personal
 

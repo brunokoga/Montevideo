@@ -1,9 +1,9 @@
 ---
-title: spells/elementalSwarm
+title: spell_dir/elementalSwarm
 ---
  **Elemental Swarm**
 
-**School** conjuration (summoning) [see text]; **Level** druid 9
+**School** conjuration (summoning [see text]; **Level** druid 9
 
 **Casting Time** 10 minutes
 

@@ -5,15 +5,15 @@ title: npcCodex/npc/index
 
 The Pathfinder Roleplaying Game may be about heroes and monsters, but the game world also has thousands or even millions of completely normal people living in it—innkeepers, town guards, bakers, and so on. When the PCs are around, trouble happens, and sometimes you need stat blocks for those NPCs—perhaps because you need to know how many rounds the innkeeper will survive inside a burning building, or how many hits the mind-controlled city guard can take from a reluctant PC. This section gives you example NPC stat blocks for the five NPC classes presented in the Core Rulebook. Even though those classes go up to level 20, in most campaigns even the most worldly peasant, merchant, or king is no more than 10th level, and anything higher than that is the realm of legendary heroes and player characters. Consequently, this section presents these NPC classes from only levels 1 to 10.
 
-The stat blocks presented here are not meant to represent specific named NPCs; rather, they are used for common roles these sorts of characters play in the game—shopkeepers, minor cultists, swineherds, and so on. You should be able to use these stat blocks for most NPCs in a particular role, or make only a simple change to do so, such as changing the [Profession](skills/profession#_profession) skill of the journeyman carpenter from carpentry to stonemasonry to use the stat block as a mason.
+The stat blocks presented here are not meant to represent specific named NPCs; rather, they are used for common roles these sorts of characters play in the game—shopkeepers, minor cultists, swineherds, and so on. You should be able to use these stat blocks for most NPCs in a particular role, or make only a simple change to do so, such as changing the [Profession](skill_dir/profession#_profession) skill of the journeyman carpenter from carpentry to stonemasonry to use the stat block as a mason.
 
 All of the NPCs in this section use the "basic" set of base ability scores (13, 12, 11, 10, 9, 8). Because the NPC classes have no significant class abilities, it is easy to assign different roles to these NPCs by altering their skills or feats.
 
-You can also customize the NPCs by adding limited forms of certain PC-class abilities, such as giving the miner (commoner 4) a +1 damage bonus when flanking an opponent, the brigand (warrior 2) 1 round of barbarian rage per day, or the doom prophet (adept 4) a 1/day usage of an appropriate 1st-level domain power. Compared to PC classes and monsters, the NPC classes are weak and intentionally generic, and giving the NPCs a taste of a 1st-level PC class ability makes them more interesting in play without affecting their overall CR.
+You can also customize the NPCs by adding limited forms of certain PC-class abilities, such as giving the miner (commoner 4) a +1 damage bonus when flanking an opponent, the brigand (warrior 2) 1 round of barbarian rage per day, or the doom prophet (adept 4 a 1/day usage of an appropriate 1st-level domain power. Compared to PC classes and monsters, the NPC classes are weak and intentionally generic, and giving the NPCs a taste of a 1st-level PC class ability makes them more interesting in play without affecting their overall CR.
 
 ## NPC Class Gear
 
-The NPCs in this chapter have gear according to the Basic Level column of the [NPC Gear table](creatingNPCs#_table-14-9-npc-gear). However, keep in mind that the table is designed for adventuring NPCs, not common townsfolk. Just because the table says a 2nd-level commoner has 390 gp doesn't mean every 2nd-level pig farmer actually has 390 gp worth of portable valuables on his person or at his home! The farmer owns a few pigs, some miscellaneous farm tools, a handful of gold and silver coins, and (in a country where peasants can own land) a few acres and a cozy shack, but otherwise doesn't have any assets of interest to adventurers. For the sake of following the table, the characters in this chapter are listed with appropriate gear (and perhaps some livestock) according to their professions, and the remainder of their level-appropriate gold is listed, but it would be exceedingly rare for these normal people to have savings equivalent to multiple years of work stored in a mattress or buried under the house. Given that a character working for a week can earn gp equal to half the result of a [Craft](skills/craft#_craft) or [Profession](skills/profession#_profession) check, a typical NPC-class character is probably carrying one-tenth of that amount (at most) at any particular time. Attacking farmers for their gold is not profitable for adventurers!
+The NPCs in this chapter have gear according to the Basic Level column of the [NPC Gear table](creatingNPCs#_table-14-9-npc-gear). However, keep in mind that the table is designed for adventuring NPCs, not common townsfolk. Just because the table says a 2nd-level commoner has 390 gp doesn't mean every 2nd-level pig farmer actually has 390 gp worth of portable valuables on his person or at his home! The farmer owns a few pigs, some miscellaneous farm tools, a handful of gold and silver coins, and (in a country where peasants can own land) a few acres and a cozy shack, but otherwise doesn't have any assets of interest to adventurers. For the sake of following the table, the characters in this chapter are listed with appropriate gear (and perhaps some livestock) according to their professions, and the remainder of their level-appropriate gold is listed, but it would be exceedingly rare for these normal people to have savings equivalent to multiple years of work stored in a mattress or buried under the house. Given that a character working for a week can earn gp equal to half the result of a [Craft](skill_dir/craft#_craft or [Profession](skill_dir/profession#_profession) check, a typical NPC-class character is probably carrying one-tenth of that amount (at most) at any particular time. Attacking farmers for their gold is not profitable for adventurers!
 
 There are exceptions, of course. For example, adepts in hostile tribes or bandit gangs tend to have treasure indicated by the table, as do aristocrats (who are generally wealthy or have access to significant resources) and warriors (who are paid and equipped in anticipation of battle). Members of those three classes usually have armor, weapons, and magic items that PCs would consider treasure. Some experts, such as skilled artisans or merchants, may have valuable merchandise or a stash of coin intended for buying more supplies. Use common sense to decide whether an NPC's listed "surplus" gold is reasonable or not, and award treasure accordingly.
 
@@ -35,19 +35,19 @@ If an NPC-class character has a recurring role in the campaign, a player might w
 
 ### Player Characters
 
-In some campaigns, the PCs start out as normal people who encounter extraordinary circumstances; the PCs begin play with NPC classes and only later take levels in PC classes (if at all). In other campaigns, the main heroes could each have a minion, and some game sessions focus on what the minions are doing while the heroes are off saving the world. You can use these sample NPCs for these kinds of campaigns, but keep in mind that NPC classes are much less powerful than PC classes and have few or no special class abilities that allow them to deal with special monster attacks and defenses; the characters will have to rely on wits and skills to overcome challenges, and combats should be limited to other NPC-class characters and common animals, or else the PCs may die quickly.
+In some campaigns, the PCs start out as normal people who encounter extraordinary circumstances; the PCs begin play with NPC classes and only later take levels in PC classes (if at all. In other campaigns, the main heroes could each have a minion, and some game sessions focus on what the minions are doing while the heroes are off saving the world. You can use these sample NPCs for these kinds of campaigns, but keep in mind that NPC classes are much less powerful than PC classes and have few or no special class abilities that allow them to deal with special monster attacks and defenses; the characters will have to rely on wits and skills to overcome challenges, and combats should be limited to other NPC-class characters and common animals, or else the PCs may die quickly.
 
 ## NPC Classes
 
-### [Adepts](npcCodex/npc/adept)
+### [Adepts](npcCodex/np_dir/adept
 
-### [Aristocrats](npcCodex/npc/aristocrat)
+### [Aristocrats](npcCodex/np_dir/aristocrat
 
-### [Commoners](npcCodex/npc/commoner)
+### [Commoners](npcCodex/np_dir/commoner
 
-### [Experts](npcCodex/npc/expert)
+### [Experts](npcCodex/np_dir/expert
 
-### [Warriors](npcCodex/npc/warrior)
+### [Warriors](npcCodex/np_dir/warrior
 
 ## Human Names
 

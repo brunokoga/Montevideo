@@ -1,13 +1,13 @@
 ---
-title: spells/formOfTheDragon
+title: spell_dir/formOfTheDragon
 ---
  **Form of the Dragon I**
 
-**School** transmutation (polymorph); **Level** sorcerer/wizard 6
+**School** transmutation (polymorph; **Level** sorcere_dir/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a scale of the dragon type you plan to assume)
+**Components** V, S, M (a scale of the dragon type you plan to assume
 
 **Range** personal
 

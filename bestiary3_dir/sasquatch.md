@@ -11,7 +11,7 @@ XP 600
 
 N Medium humanoid (sasquatch)
 
-**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +5
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +5
 
 Defense
 
@@ -39,9 +39,9 @@ Statistics
 
 **Base Atk** +2; **CMB** +8; **CMD** 20
 
-**Feats** [Self-Sufficient](feats#_self-sufficient), [Skill Focus](feats#_skill-focus) ( [Stealth](skills/stealth#_stealth))
+**Feats** [Self-Sufficient](feats#_self-sufficient), [Skill Focus](feats#_skill-focus ( [Stealth](skill_dir/stealth#_stealth)
 
-**Skills** [Heal](skills/heal#_heal) +2, [Perception](skills/perception#_perception) +5, [Stealth](skills/stealth#_stealth) +10 (+14 in forested areas), [Survival](skills/survival#_survival) +10; **Racial Modifiers** +4 [Perception](skills/perception#_perception), +4 [Stealth](skills/stealth#_stealth) (+8 in forested areas), +4 [Survival](skills/survival#_survival)
+**Skills** [Heal](skill_dir/heal#_heal +2, [Perception](skill_dir/perception#_perception +5, [Stealth](skill_dir/stealth#_stealth) +10 (+14 in forested areas, [Survival](skill_dir/survival#_survival +10; **Racial Modifiers** +4 [Perception](skill_dir/perception#_perception, +4 [Stealth](skill_dir/stealth#_stealth) (+8 in forested areas, +4 [Survival](skill_dir/survival#_survival
 
 **Languages** sasquatch
 
@@ -49,7 +49,7 @@ Statistics
 
 Ecology
 
-**Environment** temperate or [cold](monsters/creatureTypes#_cold-subtype) forests
+**Environment** temperate or [cold](monster_dir/creatureTypes#_cold-subtype) forests
 
 **Organization** solitary, pair, or family (3–7)
 
@@ -57,7 +57,7 @@ Ecology
 
 Special Abilities
 
-**Pungency (Ex)** A sasquatch's odor is quite powerful, and can be detected at twice the normal distance by [scent](monsters/universalMonsterRules#_scent).
+**Pungency (Ex** A sasquatch's odor is quite powerful, and can be detected at twice the normal distance by [scent](monster_dir/universalMonsterRules#_scent).
 
 **Woodland Stride (Ex)** A sasquatch can move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at normal speed and without taking damage or suffering any other impairment. Undergrowth that has been magically manipulated to impede movement still affects the sasquatch.
 
@@ -65,7 +65,7 @@ The elusive sasquatches earn their mysterious reputation rightly; they live in u
 
 Despite their considerable bulk, sasquatches are incredibly stealthy creatures, capable of moving through forests in particular with astonishing grace and efficiency. The one trait that somewhat undermines sasquatches' stealth is their distinctive odor—a pungent, musky scent that is often noticeable even when the hidden sasquatches themselves are not apparent.
 
-The elusiveness of sasquatches is such that even in a world where dragons and sea monsters are real, many urban scholars doubt the existence of the creatures, citing the lack of evidence of sasquatch lairs or remains as proof of their nonexistence. In truth, sasquatches are simply far more efficient at living in harmony with nature than most humanoids could ever hope to be. To a sasquatch, a deadfall in a forest makes a perfectly fine home. When a sasquatch dies, its kin take pains to bury the body deep and hide all trace of the gravesite to protect the remains from scavengers and evil spirits alike. The sasquatch tongue is a relatively complex language that mixes vocalizations, howls, and “knocking”—the act of striking a solid surface (like a tree or boulder) with a club or stone—and thus tends to blend in with the ambient sounds of a forest.
+The elusiveness of sasquatches is such that even in a world where dragons and sea monsters are real, many urban scholars doubt the existence of the creatures, citing the lack of evidence of sasquatch lairs or remains as proof of their nonexistence. In truth, sasquatches are simply far more efficient at living in harmony with nature than most humanoids could ever hope to be. To a sasquatch, a deadfall in a forest makes a perfectly fine home. When a sasquatch dies, its kin take pains to bury the body deep and hide all trace of the gravesite to protect the remains from scavengers and evil spirits alike. The sasquatch tongue is a relatively complex language that mixes vocalizations, howls, and “knocking”—the act of striking a solid surface (like a tree or boulder with a club or stone—and thus tends to blend in with the ambient sounds of a forest.
 
 A sasquatch is 8 feet tall and weighs 570 pounds. Rural populaces often have fond nicknames for these creatures, such as wild men, skunk apes, and perhaps most popularly, simply bigfoot.
 

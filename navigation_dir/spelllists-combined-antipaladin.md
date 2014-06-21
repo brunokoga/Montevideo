@@ -1,95 +1,95 @@
 ---
 title: navigation/spelllists-combined-antipaladin
 ---
-- [**Bane**](spells/bane)
-- [**Blood Blaze**](advancedRaceGuide/featuredRaces/orcs#_blood-blaze)
-- [**Cause Fear**](spells/causeFear#_cause-fear)
-- [**Command**](spells/command#_command)
-- [**Death Candle**](advancedRaceGuide/featuredRaces/ifrits#_death-candle)
-- [**Death Knell**](spells/deathKnell#_death-knell)
-- [**Detect Poison**](spells/detectPoison#_detect-poison)
-- [**Disguise Self**](spells/disguiseSelf#_disguise-self)
-- [**Doom**](spells/doom#_doom)
-- [**Inflict Light Wounds**](spells/inflictLightWounds#_inflict-light-wounds)
-- [**Ironbeard**](advancedRaceGuide/coreRaces/dwarves#_ironbeard)
-- [**Linebreaker**](advancedRaceGuide/coreRaces/halfOrcs#_linebreaker)
-- [**Litany of Sloth**](ultimateCombat/spells/litanyOfSloth#_litany-of-sloth)
-- [**Litany of Weakness**](ultimateCombat/spells/litanyOfWeakness#_litany-of-weakness)
-- [**Longshot**](ultimateCombat/spells/longshot#_longshot)
-- [**Magic Weapon**](spells/magicWeapon#_magic-weapon)
-- [**Murderous Command**](ultimateMagic/spells/murderousCommand#_murderous-command)
-- [**Read Magic**](spells/readMagic#_read-magic)
-- [**Savage Maw**](advancedRaceGuide/coreRaces/halfOrcs#_savage-maw)
-- [**Sentry Skull**](advancedRaceGuide/featuredRaces/orcs#_sentry-skull)
-- [**Summon Minor Monster**](ultimateMagic/spells/summonMinorMonster#_summon-minor-monster)
-- [**Summon Monster I**](spells/summonMonster#_summon-monster-i)
-- [**Wartrain Mount**](ultimateMagic/spells/wartrainMount#_wartrain-mount)
+- [**Bane**](spell_dir/bane
+- [**Blood Blaze**](advancedRaceGuide/featuredRace_dir/orcs#_blood-blaze
+- [**Cause Fear**](spell_dir/causeFear#_cause-fear
+- [**Command**](spell_dir/command#_command
+- [**Death Candle**](advancedRaceGuide/featuredRace_dir/ifrits#_death-candle
+- [**Death Knell**](spell_dir/deathKnell#_death-knell
+- [**Detect Poison**](spell_dir/detectPoison#_detect-poison
+- [**Disguise Self**](spell_dir/disguiseSelf#_disguise-self
+- [**Doom**](spell_dir/doom#_doom
+- [**Inflict Light Wounds**](spell_dir/inflictLightWounds#_inflict-light-wounds
+- [**Ironbeard**](advancedRaceGuide/coreRace_dir/dwarves#_ironbeard
+- [**Linebreaker**](advancedRaceGuide/coreRace_dir/halfOrcs#_linebreaker
+- [**Litany of Sloth**](ultimateCombat/spell_dir/litanyOfSloth#_litany-of-sloth
+- [**Litany of Weakness**](ultimateCombat/spell_dir/litanyOfWeakness#_litany-of-weakness
+- [**Longshot**](ultimateCombat/spell_dir/longshot#_longshot
+- [**Magic Weapon**](spell_dir/magicWeapon#_magic-weapon
+- [**Murderous Command**](ultimateMagic/spell_dir/murderousCommand#_murderous-command
+- [**Read Magic**](spell_dir/readMagic#_read-magic
+- [**Savage Maw**](advancedRaceGuide/coreRace_dir/halfOrcs#_savage-maw
+- [**Sentry Skull**](advancedRaceGuide/featuredRace_dir/orcs#_sentry-skull
+- [**Summon Minor Monster**](ultimateMagic/spell_dir/summonMinorMonster#_summon-minor-monster
+- [**Summon Monster I**](spell_dir/summonMonster#_summon-monster-i
+- [**Wartrain Mount**](ultimateMagic/spell_dir/wartrainMount#_wartrain-mount
 
-- [**Agonizing Rebuke**](advancedRaceGuide/featuredRaces/hobgoblins#_agonizing-rebuke)
-- [**Bestow Weapon Proficiency**](ultimateCombat/spells/bestowWeaponProficiency#_bestow-weapon-proficiency)
-- [**Blindness/Deafness**](spells/blindnessDeafness#_blindness-deafness)
-- [**Blood Scent**](advancedRaceGuide/featuredRaces/orcs#_blood-scent)
-- [**Bull's Strength**](spells/bullSStrength#_bull-s-strength)
-- [**Corruption Resistance**](advanced/spells/corruptionResistance#_corruption-resistance)
-- [**Darkness**](spells/darkness#_darkness)
-- [**Darkvision**](spells/darkvision#_darkvision)
-- [**Eagle's Splendor**](spells/eagleSSplendor#_eagle-s-splendor)
-- [**Enemy's Heart**](advancedRaceGuide/featuredRaces/orcs#_enemy's-heart)
-- [**Hold Person**](spells/holdPerson#_hold-person)
-- [**Improve Trap**](advancedRaceGuide/featuredRaces/kobolds#_improve-trap)
-- [**Invisibility**](spells/invisibility#_invisibility)
-- [**Litany of Defense**](ultimateCombat/spells/litanyOfDefense#_litany-of-defense)
-- [**Litany of Eloquence**](ultimateCombat/spells/litanyOfEloquence#_litany-of-eloquence)
-- [**Litany of Entanglement**](ultimateCombat/spells/litanyOfEntanglement#_litany-of-entanglement)
-- [**Litany of Warding**](ultimateCombat/spells/litanyOfWarding#_litany-of-warding)
-- [**Magic Siege Engine**](ultimateCombat/spells/magicSiegeEngine#_magic-siege-engine)
-- [**Pernicious Poison**](ultimateMagic/spells/perniciousPoison#_pernicious-poison)
-- [**Protection from Good, Communal**](ultimateCombat/spells/protectionFromGood#_protection-from-good,-communal)
-- [**Protection from Law, Communal**](ultimateCombat/spells/protectionFromLaw#_protection-from-law,-communal)
-- [**Scare**](spells/scare#_scare)
-- [**Sickening Strikes**](advancedRaceGuide/featuredRaces/ratfolk#_sickening-strikes)
-- [**Silence**](spells/silence#_silence)
-- [**Summon Monster II**](spells/summonMonster#_summon-monster-ii)
-- [**Toxic Gift**](ultimateMagic/spells/toxicGift#_toxic-gift)
-- [**Unadulterated Loathing**](ultimateMagic/spells/unadulteratedLoathing#_unadulterated-loathing)
-- [**Undetectable Alignment**](spells/undetectableAlignment#_undetectable-alignment)
-- [**Vestment of the Champion**](ultimateMagic/spells/vestmentOfTheChampion#_vestment-of-the-champion)
+- [**Agonizing Rebuke**](advancedRaceGuide/featuredRace_dir/hobgoblins#_agonizing-rebuke
+- [**Bestow Weapon Proficiency**](ultimateCombat/spell_dir/bestowWeaponProficiency#_bestow-weapon-proficiency
+- [**Blindness/Deafness**](spell_dir/blindnessDeafness#_blindness-deafness
+- [**Blood Scent**](advancedRaceGuide/featuredRace_dir/orcs#_blood-scent
+- [**Bull's Strength**](spell_dir/bullSStrength#_bull-s-strength
+- [**Corruption Resistance**](advanced/spell_dir/corruptionResistance#_corruption-resistance
+- [**Darkness**](spell_dir/darkness#_darkness
+- [**Darkvision**](spell_dir/darkvision#_darkvision
+- [**Eagle's Splendor**](spell_dir/eagleSSplendor#_eagle-s-splendor
+- [**Enemy's Heart**](advancedRaceGuide/featuredRace_dir/orcs#_enemy's-heart
+- [**Hold Person**](spell_dir/holdPerson#_hold-person
+- [**Improve Trap**](advancedRaceGuide/featuredRace_dir/kobolds#_improve-trap
+- [**Invisibility**](spell_dir/invisibility#_invisibility
+- [**Litany of Defense**](ultimateCombat/spell_dir/litanyOfDefense#_litany-of-defense
+- [**Litany of Eloquence**](ultimateCombat/spell_dir/litanyOfEloquence#_litany-of-eloquence
+- [**Litany of Entanglement**](ultimateCombat/spell_dir/litanyOfEntanglement#_litany-of-entanglement
+- [**Litany of Warding**](ultimateCombat/spell_dir/litanyOfWarding#_litany-of-warding
+- [**Magic Siege Engine**](ultimateCombat/spell_dir/magicSiegeEngine#_magic-siege-engine
+- [**Pernicious Poison**](ultimateMagic/spell_dir/perniciousPoison#_pernicious-poison
+- [**Protection from Good, Communal**](ultimateCombat/spell_dir/protectionFromGood#_protection-from-good,-communal
+- [**Protection from Law, Communal**](ultimateCombat/spell_dir/protectionFromLaw#_protection-from-law,-communal
+- [**Scare**](spell_dir/scare#_scare
+- [**Sickening Strikes**](advancedRaceGuide/featuredRace_dir/ratfolk#_sickening-strikes
+- [**Silence**](spell_dir/silence#_silence
+- [**Summon Monster II**](spell_dir/summonMonster#_summon-monster-ii
+- [**Toxic Gift**](ultimateMagic/spell_dir/toxicGift#_toxic-gift
+- [**Unadulterated Loathing**](ultimateMagic/spell_dir/unadulteratedLoathing#_unadulterated-loathing
+- [**Undetectable Alignment**](spell_dir/undetectableAlignment#_undetectable-alignment
+- [**Vestment of the Champion**](ultimateMagic/spell_dir/vestmentOfTheChampion#_vestment-of-the-champion
 
-- [**Ancestral Regression**](advancedRaceGuide/featuredRaces/drow#_ancestral-regression)
-- [**Battle Trance**](advancedRaceGuide/coreRaces/halfOrcs#_battle-trance)
-- [**Bestow Curse**](spells/bestowCurse#_bestow-curse)
-- [**Blade of Dark Triumph**](ultimateMagic/spells/bladeOfDarkTriumph#_blade-of-dark-triumph)
-- [**Burst of Speed**](ultimateCombat/spells/burstOfSpeed#_burst-of-speed)
-- [**Contagion**](spells/contagion#_contagion)
-- [**Darkvision, Communal**](ultimateCombat/spells/darkvision#_darkvision,-communal)
-- [**Deadly Juggernaut**](ultimateCombat/spells/deadlyJuggernaut#_deadly-juggernaut)
-- [**Deeper Darkness**](spells/deeperDarkness#_deeper-darkness)
-- [**Defile Armor**](advanced/spells/defileArmor#_defile-armor)
-- [**Dispel Magic**](spells/dispelMagic#_dispel-magic)
-- [**Inflict Moderate Wounds**](spells/inflictModerateWounds#_inflict-moderate-wounds)
-- [**Litany of Escape**](ultimateCombat/spells/litanyOfEscape#_litany-of-escape)
-- [**Litany of Sight**](ultimateCombat/spells/litanyOfSight#_litany-of-sight)
-- [**Magic Weapon, Greater**](spells/magicWeapon#_magic-weapon-greater)
-- [**Summon Monster III**](spells/summonMonster#_summon-monster-iii)
-- [**Utter Contempt**](ultimateMagic/spells/utterContempt#_utter-contempt)
-- [**Vampiric Touch**](spells/vampiricTouch#_vampiric-touch)
+- [**Ancestral Regression**](advancedRaceGuide/featuredRace_dir/drow#_ancestral-regression
+- [**Battle Trance**](advancedRaceGuide/coreRace_dir/halfOrcs#_battle-trance
+- [**Bestow Curse**](spell_dir/bestowCurse#_bestow-curse
+- [**Blade of Dark Triumph**](ultimateMagic/spell_dir/bladeOfDarkTriumph#_blade-of-dark-triumph
+- [**Burst of Speed**](ultimateCombat/spell_dir/burstOfSpeed#_burst-of-speed
+- [**Contagion**](spell_dir/contagion#_contagion
+- [**Darkvision, Communal**](ultimateCombat/spell_dir/darkvision#_darkvision,-communal
+- [**Deadly Juggernaut**](ultimateCombat/spell_dir/deadlyJuggernaut#_deadly-juggernaut
+- [**Deeper Darkness**](spell_dir/deeperDarkness#_deeper-darkness
+- [**Defile Armor**](advanced/spell_dir/defileArmor#_defile-armor
+- [**Dispel Magic**](spell_dir/dispelMagic#_dispel-magic
+- [**Inflict Moderate Wounds**](spell_dir/inflictModerateWounds#_inflict-moderate-wounds
+- [**Litany of Escape**](ultimateCombat/spell_dir/litanyOfEscape#_litany-of-escape
+- [**Litany of Sight**](ultimateCombat/spell_dir/litanyOfSight#_litany-of-sight
+- [**Magic Weapon, Greater**](spell_dir/magicWeapon#_magic-weapon-greater
+- [**Summon Monster III**](spell_dir/summonMonster#_summon-monster-iii
+- [**Utter Contempt**](ultimateMagic/spell_dir/utterContempt#_utter-contempt
+- [**Vampiric Touch**](spell_dir/vampiricTouch#_vampiric-touch
 
-- [**Darkvision, Greater**](ultimateMagic/spells/darkvision#_darkvision,-greater)
-- [**Dispel Good**](spells/dispelGood#_dispel-good)
-- [**Dispel Law**](spells/dispelLaw#_dispel-law)
-- [**Fear**](spells/fear#_fear)
-- [**Inflict Serious Wounds**](spells/inflictSeriousWounds#_inflict-serious-wounds)
-- [**Invisibility, Greater**](spells/invisibility#_invisibility-greater)
-- [**Litany of Madness**](ultimateCombat/spells/litanyOfMadness#_litany-of-madness)
-- [**Litany of Thunder**](ultimateCombat/spells/litanyOfThunder#_litany-of-thunder)
-- [**Litany of Vengeance**](ultimateCombat/spells/litanyOfVengeance#_litany-of-vengeance)
-- [**Magic Siege Engine, Greater**](ultimateCombat/spells/magicSiegeEngine#_magic-siege-engine,-greater)
-- [**Nondetection, Communal**](ultimateCombat/spells/nondetection#_nondetection,-communal)M
-- [**Poison**](spells/poison#_poison)
-- [**Resounding Blow**](advanced/spells/resoundingBlow#_resounding-blow)
-- [**Slay Living**](spells/slayLiving#_slay-living)
-- [**Summon Monster IV**](spells/summonMonster#_summon-monster-iv)
-- [**Unholy Sword**](ultimateMagic/spells/unholySword#_unholy-sword)
+- [**Darkvision, Greater**](ultimateMagic/spell_dir/darkvision#_darkvision,-greater
+- [**Dispel Good**](spell_dir/dispelGood#_dispel-good
+- [**Dispel Law**](spell_dir/dispelLaw#_dispel-law
+- [**Fear**](spell_dir/fear#_fear
+- [**Inflict Serious Wounds**](spell_dir/inflictSeriousWounds#_inflict-serious-wounds
+- [**Invisibility, Greater**](spell_dir/invisibility#_invisibility-greater
+- [**Litany of Madness**](ultimateCombat/spell_dir/litanyOfMadness#_litany-of-madness
+- [**Litany of Thunder**](ultimateCombat/spell_dir/litanyOfThunder#_litany-of-thunder
+- [**Litany of Vengeance**](ultimateCombat/spell_dir/litanyOfVengeance#_litany-of-vengeance
+- [**Magic Siege Engine, Greater**](ultimateCombat/spell_dir/magicSiegeEngine#_magic-siege-engine,-greater
+- [**Nondetection, Communal**](ultimateCombat/spell_dir/nondetection#_nondetection,-communalM
+- [**Poison**](spell_dir/poison#_poison
+- [**Resounding Blow**](advanced/spell_dir/resoundingBlow#_resounding-blow
+- [**Slay Living**](spell_dir/slayLiving#_slay-living
+- [**Summon Monster IV**](spell_dir/summonMonster#_summon-monster-iv
+- [**Unholy Sword**](ultimateMagic/spell_dir/unholySword#_unholy-sword
 
 - 1st Level
 - 2nd Level

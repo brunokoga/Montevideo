@@ -1,9 +1,9 @@
 ---
-title: spells/dominateAnimal
+title: spell_dir/dominateAnimal
 ---
  **Dominate Animal**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** druid 3
+**School** enchantment (compulsion [mind-affecting]; **Level** druid 3
 
 **Casting Time** 1 round
 

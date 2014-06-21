@@ -1,5 +1,5 @@
 ---
-title: ultimateCampaign/campaignSystems/retraining
+title: ultimateCampaign/campaignSystem_dir/retraining
 ---
 # Retraining
 
@@ -47,7 +47,7 @@ The class feature you wish to retrain can't be one that you used as a prerequisi
 
 If an archetype or variant class feature replaces the listed class feature, at the GM's discretion you may retrain that alternative class feature for an equivalent variant class feature. For example, _Ultimate Magic_ presents rules for inquisitions, which inquisitors can select in place of a domain, and the inquisitor entry below allows you to retrain your chosen domain, so you are allowed to instead retrain an inquisition, swapping it for a domain or another inquisition.
 
-Class features you can retrain are as follows (some entries also call out other retraining options that are significant for the class in question, such as retraining feats for fighters, skill ranks for rogues, or spells known for sorcerers).
+Class features you can retrain are as follows (some entries also call out other retraining options that are significant for the class in question, such as retraining feats for fighters, skill ranks for rogues, or spells known for sorcerers.
 
 **Alchemist** : Retrain one discovery.
 
@@ -55,9 +55,9 @@ Class features you can retrain are as follows (some entries also call out other 
 
 **Barbarian** : Retrain one rage power.
 
-**Bard** : Retrain one type of [Perform](skills/perform#_perform) skill associated with your versatile performance class feature. See also retraining skill ranks and retraining spells known.
+**Bard** : Retrain one type of [Perform](skill_dir/perform#_perform skill associated with your versatile performance class feature. See also retraining skill ranks and retraining spells known.
 
-**Cavalier** : You can change your order; the rules for this are found [here](advanced/baseClasses/cavalier#_order). See also retraining feats.
+**Cavalier** : You can change your order; the rules for this are found [here](advanced/baseClasse_dir/cavalier#_order). See also retraining feats.
 
 **Cleric** : Retrain one domain; the new domain must be one granted by your deity. Doing so replaces your list of domain spells and your domain granted powers. If you are a neutral cleric of a neutral deity, you can instead retrain whether you channel positive or negative energy, which also changes whether you spontaneously cast _cure_ spells or _inflict_ spells.
 
@@ -138,7 +138,7 @@ Training requires spending time with a character who has at least 1 more level i
 
 When you retrain a class level, you lose all the benefits of the highest level you have in that class. You immediately select a different class, add a level in that class, and gain all the benefits of that new class level.
 
-This retraining does not allow you to reselect the feats your character gains at odd levels or the ability score increases your character gains every four levels (though you can retrain those options separately). If retraining a class level means you no longer qualify for a feat, prestige class, or other ability you have, you can't use that feat, prestige class, or ability until you meet the qualifications again. (You can still retrain that feat, prestige class, or other ability.)
+This retraining does not allow you to reselect the feats your character gains at odd levels or the ability score increases your character gains every four levels (though you can retrain those options separately). If retraining a class level means you no longer qualify for a feat, prestige class, or other ability you have, you can't use that feat, prestige class, or ability until you meet the qualifications again. (You can still retrain that feat, prestige class, or other ability.
 
 _Example_: Mark is playing a ranger 5/rogue 2, and has decided he'd like to retrain one of his ranger levels into a rogue level (so he has to find a 3rd-level rogue). When he completes the training, he immediately loses all benefits from taking ranger level 5 (base attack bonus, saving throw bonuses, Hit Dice, hit points, skill ranks, and class features), then gains 1 level in rogue, immediately gaining all the benefits of rogue level 3. Mark's character is now a ranger 4/rogue 3. This retraining did not change Mark's 7th-level feat.
 
@@ -162,7 +162,7 @@ _Example_: If you are a fighter 5 with Constitution 14 and you haven't allocated
 
 You can spend time to learn an additional language. It takes 20 days of training to gain a bonus language, and these days need not be consecutive. Each language requires a trainer who shares a language with you and knows the language you want to learn, or a book written in a language you know that explains the basics of the language you want to learn.
 
-The new language does not count toward your maximum number of languages (racial languages + bonus languages from Intelligence + [Linguistics](skills/linguistics#_linguistics) ranks). You can train this way only a number of times equal to 1 + your Intelligence bonus.
+The new language does not count toward your maximum number of languages (racial languages + bonus languages from Intelligence + [Linguistics](skill_dir/linguistics#_linguistics) ranks). You can train this way only a number of times equal to 1 + your Intelligence bonus.
 
 ## Racial Trait
 
@@ -178,5 +178,5 @@ If retraining skill ranks means you no longer qualify for a feat or other abilit
 
 If you are a spontaneous spellcaster (such as a bard, oracle, sorcerer, or summoner), you can retrain a spell known. This retraining takes 2 days per spell level of the new spell (or 1 day in the case of a cantrip or orison) and requires a trainer who can cast the spell you want. The trainer must cast the same kind of spells as you do (arcane or divine).
 
-The spell with which you're replacing the previous spell must be another from your class spell list. The new spell must be one you could place in the old spell's spell slot. Note that this retraining is unrelated to the ability of sorcerers (or other spontaneous spellcasters) to learn a new spell in place of an old one at certain class levels. That class ability is free, happens instantly when the character gains an appropriate level in the spellcasting class, doesn't require a trainer, and can happen only once for any appropriate class level. Retraining a spell known requires you to spend gp, takes time, requires a trainer, and can happen as often as you want.
+The spell with which you're replacing the previous spell must be another from your class spell list. The new spell must be one you could place in the old spell's spell slot. Note that this retraining is unrelated to the ability of sorcerers (or other spontaneous spellcasters to learn a new spell in place of an old one at certain class levels. That class ability is free, happens instantly when the character gains an appropriate level in the spellcasting class, doesn't require a trainer, and can happen only once for any appropriate class level. Retraining a spell known requires you to spend gp, takes time, requires a trainer, and can happen as often as you want.
 

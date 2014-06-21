@@ -1,5 +1,5 @@
 ---
-title: ultimateEquipment/ringsRodsStaves/staves
+title: ultimateEquipment/ringsRodsStave_dir/staves
 ---
 # Staves
 
@@ -11,7 +11,7 @@ A staff is a long shaft that stores several spells. Staves usually hold spells g
 
 **Special Qualities** : Roll d%. A 01–30 result indicates that something (a design, inscription, or the like) provides some clue to the staff's function, and 31–100 indicates that it has no special qualities.
 
-**Using Staves** : Staves use the wielder's ability score and relevant feats to set the DC for saves against their spells. Unlike with other sorts of magic items, the wielder can use his caster level when activating the power of the staff if it's higher than the caster level of the staff. This means that staves are far more potent in the hands of a powerful spellcaster. Because they use the wielder's ability score to set the save DC for the spells, spells from a staff are often harder to resist than those from other magic items, which use the minimum ability score required to cast the spell. Not only are aspects of the spell dependent on caster level (range, duration, and so on) potentially higher, but spells from a staff are also harder to dispel and have a better chance of overcoming spell resistance.
+**Using Staves** : Staves use the wielder's ability score and relevant feats to set the DC for saves against their spells. Unlike with other sorts of magic items, the wielder can use his caster level when activating the power of the staff if it's higher than the caster level of the staff. This means that staves are far more potent in the hands of a powerful spellcaster. Because they use the wielder's ability score to set the save DC for the spells, spells from a staff are often harder to resist than those from other magic items, which use the minimum ability score required to cast the spell. Not only are aspects of the spell dependent on caster level (range, duration, and so on potentially higher, but spells from a staff are also harder to dispel and have a better chance of overcoming spell resistance.
 
 Staves hold a maximum of 10 charges. Each spell cast from a staff consumes one or more charges. When a staff runs out of charges, it cannot be used until it is recharged. Each morning, when a spellcaster prepares spells or regains spell slots, he can also imbue one staff with a portion of his power, so long as one or more of the spells cast by the staff is on his spell list and he is capable of casting at least one of the spells. Imbuing a staff with this power restores one charge to the staff, but the caster must forgo one prepared spell or spell slot of a level equal to the highest-level spell cast by the staff. A staff cannot gain more than one charge per day, and a caster cannot imbue more than one staff per day.
 
@@ -110,9 +110,9 @@ Animate Staff
 
 Created from a number of iron rods, copper gears, and silver screws, this staff constantly shifts and changes. The staff allows use of the following spells:
 
-- _ [Make whole](spells/makeWhole#_make-whole) _(1 charge)
-- _ [Mending](spells/mending#_mending)_ (1 charge)
-- _ [Animate objects](spells/animateObjects#_animate-objects) _(2 charges)
+- _ [Make whole](spell_dir/makeWhole#_make-whole) _(1 charge
+- _ [Mending](spell_dir/mending#_mending)_ (1 charge
+- _ [Animate objects](spell_dir/animateObjects#_animate-objects) _(2 charges
 
 In addition, once per day, the staff can become a Medium animated object with the metal special ability. It can remain in this form for up to 10 minutes. If destroyed while in this form, it reverts to being a staff, but it loses all of its charges and this ability cannot be used again until it is fully recharged.
 
@@ -120,7 +120,7 @@ Construction Requirements
 
 **Cost** 24,900 gp
 
-Craft Staff, _ [animate objects](spells/animateObjects#_animate-objects)_, _ [make whole](spells/makeWhole#_make-whole)_, _ [mending](spells/mending#_mending)_
+Craft Staff, _ [animate objects](spell_dir/animateObjects#_animate-objects_, _ [make whole](spell_dir/makeWhole#_make-whole_, _ [mending](spell_dir/mending#_mending_
 
 Chaotic Staff
 
@@ -128,35 +128,35 @@ Chaotic Staff
 
 Made up from a number of different materials, including wood, metal, and possibly pieces of flesh, this staff seems to shift in shape and form over time. The staff allows use of the following spells:
 
-- _ [Align weapon](spells/alignWeapon#_align-weapon) _(chaos only, 1 charge)
-- _ [Detect law](spells/detectLaw#_detect-law)_ (1 charge)
-- _ [Chaos hammer](spells/chaosHammer#_chaos-hammer) _(2 charges)
-- _ [Magic circle against law](spells/magicCircleAgainstLaw#_magic-circle-against-law) _(2 charges)
+- _ [Align weapon](spell_dir/alignWeapon#_align-weapon) _(chaos only, 1 charge
+- _ [Detect law](spell_dir/detectLaw#_detect-law)_ (1 charge
+- _ [Chaos hammer](spell_dir/chaosHammer#_chaos-hammer) _(2 charges
+- _ [Magic circle against law](spell_dir/magicCircleAgainstLaw#_magic-circle-against-law) _(2 charges
 
 Construction Requirements
 
 **Cost** 14,800 gp
 
-Craft Staff, _ [align weapon](spells/alignWeapon#_align-weapon)_, _ [chaos hammer](spells/chaosHammer#_chaos-hammer)_,_ [detect evil](spells/detectEvil#_detect-evil)_, _ [magic circle against law](spells/magicCircleAgainstLaw#_magic-circle-against-law)_
+Craft Staff, _ [align weapon](spell_dir/alignWeapon#_align-weapon_, _ [chaos hammer](spell_dir/chaosHammer#_chaos-hammer_,_ [detect evil](spell_dir/detectEvil#_detect-evil_, _ [magic circle against law](spell_dir/magicCircleAgainstLaw#_magic-circle-against-law_
 
 Dragon Staff
 
 **Price** 81,000 gp; **Aura** strong transmutation; **CL** 13th; **Weight** 7 lbs.
 
-Made from a large dragon bone, wrapped in scales and topped with the fearsome image of a dragon, this staff radiates power. Each dragon staff is linked to one type of chromatic dragon: black, blue, green, red, or white. All the spells that can be cast using the staff are tied to that choice. If the wielder uses the staff to cast _ [form of the dragon II](spells/formOfTheDragon#_form-of-the-dragon-ii)_, she must assume the type linked to the staff. Any energy types chosen by spells from the staff must match the type as well (black and green are linked to acid, blue is linked to electricity, red is linked to fire, and white is linked to cold). The staff allows use of the following spells:
+Made from a large dragon bone, wrapped in scales and topped with the fearsome image of a dragon, this staff radiates power. Each dragon staff is linked to one type of chromatic dragon: black, blue, green, red, or white. All the spells that can be cast using the staff are tied to that choice. If the wielder uses the staff to cast _ [form of the dragon II](spell_dir/formOfTheDragon#_form-of-the-dragon-ii)_, she must assume the type linked to the staff. Any energy types chosen by spells from the staff must match the type as well (black and green are linked to acid, blue is linked to electricity, red is linked to fire, and white is linked to cold. The staff allows use of the following spells:
 
-- _ [Fly](skills/fly#_fly) _(1 charge)
-- _ [Protection from energy](spells/protectionFromEnergy#_protection-from-energy)_ (1 charge)
-- _ [Dragon's breath](advanced/spells/dragonSBreath#_dragon's-breath)_ (2 charges)
-- _ [Form of the dragon II](spells/formOfTheDragon#_form-of-the-dragon-ii) _(4 charges)
+- _ [Fly](skill_dir/fly#_fly) _(1 charge
+- _ [Protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy)_ (1 charge
+- _ [Dragon's breath](advanced/spell_dir/dragonSBreath#_dragon's-breath)_ (2 charges
+- _ [Form of the dragon II](spell_dir/formOfTheDragon#_form-of-the-dragon-ii) _(4 charges
 
-In addition to these powers, the wielder of the _dragon staff_ also receives a +2 natural armor bonus to her AC and the ability to make a bite attack as a primary natural weapon. This bite deals 1d8 points of damage if the wielder is Medium. These bonuses are a polymorph effect and are replaced by those gained from casting _ [form of the dragon II](spells/formOfTheDragon#_form-of-the-dragon-ii)_, or other similar spells.
+In addition to these powers, the wielder of the _dragon staff_ also receives a +2 natural armor bonus to her AC and the ability to make a bite attack as a primary natural weapon. This bite deals 1d8 points of damage if the wielder is Medium. These bonuses are a polymorph effect and are replaced by those gained from casting _ [form of the dragon II](spell_dir/formOfTheDragon#_form-of-the-dragon-ii_, or other similar spells.
 
 Construction Requirements
 
 **Cost** 40,500 gp
 
-Craft Staff, _ [alter self](spells/alterSelf#_alter-self)_, _ [dragon's breath](advanced/spells/dragonSBreath#_dragon's-breath)_, _ [fly](spells/fly)_, _ [form of the dragon II](spells/formOfTheDragon#_form-of-the-dragon-ii)_, _ [protection from energy](spells/protectionFromEnergy#_protection-from-energy)_
+Craft Staff, _ [alter self](spell_dir/alterSelf#_alter-self_, _ [dragon's breath](advanced/spell_dir/dragonSBreath#_dragon's-breath_, _ [fly](spell_dir/fly_, _ [form of the dragon II](spell_dir/formOfTheDragon#_form-of-the-dragon-ii_, _ [protection from energy](spell_dir/protectionFromEnergy#_protection-from-energy_
 
 Heretic's Bane
 
@@ -164,16 +164,16 @@ Heretic's Bane
 
 This sturdy wooden staff is crowned by a holy symbol, surrounded by wicked barbs of metal. The staff allows use of the following spells:
 
-- _ [Castigate](advanced/spells/castigate#_castigate) _(1 charge)
-- _ [Command](spells/command#_command)_ (1 charge)
-- _ [Zone of truth](spells/zoneOfTruth#_zone-of-truth)_ (1 charge)
-- _ [Denounce](advanced/spells/denounce#_denounce) _(2 charges)
+- _ [Castigate](advanced/spell_dir/castigate#_castigate) _(1 charge
+- _ [Command](spell_dir/command#_command)_ (1 charge
+- _ [Zone of truth](spell_dir/zoneOfTruth#_zone-of-truth)_ (1 charge
+- _ [Denounce](advanced/spell_dir/denounce#_denounce) _(2 charges
 
 Construction Requirements
 
 **Cost** 16,000 gp
 
-Craft Staff, _ [castigate](advanced/spells/castigate#_castigate)_, _ [command](spells/command#_command), [denounce](advanced/spells/denounce#_denounce)_, _ [zone of truth](spells/zoneOfTruth#_zone-of-truth)_
+Craft Staff, _ [castigate](advanced/spell_dir/castigate#_castigate_, _ [command](spell_dir/command#_command, [denounce](advanced/spell_dir/denounce#_denounce_, _ [zone of truth](spell_dir/zoneOfTruth#_zone-of-truth_
 
 Holy Staff
 
@@ -181,16 +181,16 @@ Holy Staff
 
 This staff is made from polished birch, inlaid with ivory, and topped with a pristine white gemstone. The staff allows use of the following spells:
 
-- _ [Align weapon](spells/alignWeapon#_align-weapon) _(good only, 1 charge)
-- _ [Detect evil](spells/detectEvil#_detect-evil)_ (1 charge)
-- _ [Holy smite](spells/holySmite#_holy-smite) _(2 charges)
-- _ [Magic circle against evil](spells/magicCircleAgainstEvil#_magic-circle-against-evil) _(2 charges)
+- _ [Align weapon](spell_dir/alignWeapon#_align-weapon) _(good only, 1 charge
+- _ [Detect evil](spell_dir/detectEvil#_detect-evil)_ (1 charge
+- _ [Holy smite](spell_dir/holySmite#_holy-smite) _(2 charges
+- _ [Magic circle against evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil) _(2 charges
 
 Construction Requirements
 
 **Cost** 14,800 gp
 
-Craft Staff, _ [align weapon](spells/alignWeapon#_align-weapon)_, _ [detect evil](spells/detectEvil#_detect-evil)_, _ [holy smite](spells/holySmite#_holy-smite)_, _ [magic circle against evil](spells/magicCircleAgainstEvil#_magic-circle-against-evil)_
+Craft Staff, _ [align weapon](spell_dir/alignWeapon#_align-weapon_, _ [detect evil](spell_dir/detectEvil#_detect-evil_, _ [holy smite](spell_dir/holySmite#_holy-smite_, _ [magic circle against evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil_
 
 Lawful Staff
 
@@ -198,16 +198,16 @@ Lawful Staff
 
 This staff is crafted from a perfectly smooth triangular rod of silver, and its top is crowned with a golden sphere. The staff allows use of the following spells:
 
-- _ [Align weapon](spells/alignWeapon#_align-weapon) _(lawful only, 1 charge)
-- _ [Detect chaos](spells/detectChaos#_detect-chaos)_ (1 charge)
-- _ [Magic circle against chaos](spells/magicCircleAgainstChaos#_magic-circle-against-chaos) _(2 charges)
-- _ [Order's wrath](spells/orderSWrath#_order-s-wrath) _(2 charges)
+- _ [Align weapon](spell_dir/alignWeapon#_align-weapon) _(lawful only, 1 charge
+- _ [Detect chaos](spell_dir/detectChaos#_detect-chaos)_ (1 charge
+- _ [Magic circle against chaos](spell_dir/magicCircleAgainstChaos#_magic-circle-against-chaos) _(2 charges
+- _ [Order's wrath](spell_dir/orderSWrath#_order-s-wrath) _(2 charges
 
 Construction Requirements
 
 **Cost** 14,800 gp
 
-Craft Staff, _ [align weapon](spells/alignWeapon#_align-weapon)_, _ [detect chaos](spells/detectChaos#_detect-chaos)_, _ [magic circle against chaos](spells/magicCircleAgainstChaos#_magic-circle-against-chaos)_, _ [order's wrath](spells/orderSWrath#_order-s-wrath)_
+Craft Staff, _ [align weapon](spell_dir/alignWeapon#_align-weapon_, _ [detect chaos](spell_dir/detectChaos#_detect-chaos_, _ [magic circle against chaos](spell_dir/magicCircleAgainstChaos#_magic-circle-against-chaos_, _ [order's wrath](spell_dir/orderSWrath#_order-s-wrath_
 
 Musical Staff
 
@@ -215,18 +215,18 @@ Musical Staff
 
 This staff is made from high-quality wood and festooned with brass rods and keys, looking almost like an instrument. The staff allows use of the following spells:
 
-- _ [Ghost sound](spells/ghostSound#_ghost-sound) _(1 charge)
-- _ [Piercing shriek](ultimateMagic/spells/piercingShriek#_piercing-shriek)_ (1 charge)
-- _ [Sculpt sound](spells/sculptSound#_sculpt-sound) _(2 charges)
-- _ [Wall of sound](ultimateMagic/spells/wallOfSound#_wall-of-sound) _(2 charges)
+- _ [Ghost sound](spell_dir/ghostSound#_ghost-sound) _(1 charge
+- _ [Piercing shriek](ultimateMagic/spell_dir/piercingShriek#_piercing-shriek)_ (1 charge
+- _ [Sculpt sound](spell_dir/sculptSound#_sculpt-sound) _(2 charges
+- _ [Wall of sound](ultimateMagic/spell_dir/wallOfSound#_wall-of-sound) _(2 charges
 
-In addition, as a swift action, the wielder of the _musical staff_ can cause it to transform into a string or wind instrument. Any [Perform](skills/perform#_perform) skill checks made with the _musical staff_ gain a +5 competence bonus. The staff can still be used to cast spells while it is an instrument, and it can revert back to a staff as a free action.
+In addition, as a swift action, the wielder of the _musical staff_ can cause it to transform into a string or wind instrument. Any [Perform](skill_dir/perform#_perform skill checks made with the _musical staff_ gain a +5 competence bonus. The staff can still be used to cast spells while it is an instrument, and it can revert back to a staff as a free action.
 
 Construction Requirements
 
 **Cost** 16,000 gp
 
-Craft Staff, _ [ghost sound](spells/ghostSound#_ghost-sound)_, _ [piercing shriek](ultimateMagic/spells/piercingShriek#_piercing-shriek)_, _ [sculpt sound](spells/sculptSound#_sculpt-sound)_, _ [wall of sound](ultimateMagic/spells/wallOfSound#_wall-of-sound)_
+Craft Staff, _ [ghost sound](spell_dir/ghostSound#_ghost-sound_, _ [piercing shriek](ultimateMagic/spell_dir/piercingShriek#_piercing-shriek_, _ [sculpt sound](spell_dir/sculptSound#_sculpt-sound_, _ [wall of sound](ultimateMagic/spell_dir/wallOfSound#_wall-of-sound_
 
 Staff of Abjuration
 
@@ -234,34 +234,34 @@ Staff of Abjuration
 
 Usually carved from the heartwood of an ancient oak, ash, sequoia, or other large tree, this staff allows use of the following spells:
 
-- _ [Dispel magic](spells/dispelMagic#_dispel-magic)_ (1 charge)
-- _ [Resist energy](spells/resistEnergy#_resist-energy)_ (1 charge)
-- _ [Shield](spells/shield#_shield)_ (1 charge)
-- _ [Dismissal](spells/dismissal#_dismissal)_ (2 charges)
-- _ [Lesser globe of invulnerability](spells/globeOfInvulnerability#_globe-of-invulnerability-lesser)_ (2 charges)
-- _ [Repulsion](spells/repulsion#_repulsion)_ (3 charges)
+- _ [Dispel magic](spell_dir/dispelMagic#_dispel-magic)_ (1 charge
+- _ [Resist energy](spell_dir/resistEnergy#_resist-energy)_ (1 charge
+- _ [Shield](spell_dir/shield#_shield)_ (1 charge
+- _ [Dismissal](spell_dir/dismissal#_dismissal)_ (2 charges
+- _ [Lesser globe of invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser)_ (2 charges
+- _ [Repulsion](spell_dir/repulsion#_repulsion)_ (3 charges
 
 Construction Requirements
 
 **Cost** 41,000 gp
 
-Craft Staff, _ [dismissal](spells/dismissal#_dismissal)_, _ [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [lesser globe of invulnerability](spells/globeOfInvulnerability#_globe-of-invulnerability-lesser)_, _ [repulsion](spells/repulsion#_repulsion)_, _ [resist energy](spells/resistEnergy#_resist-energy)_, _ [shield](spells/shield#_shield)_
+Craft Staff, _ [dismissal](spell_dir/dismissal#_dismissal_, _ [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [lesser globe of invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser_, _ [repulsion](spell_dir/repulsion#_repulsion_, _ [resist energy](spell_dir/resistEnergy#_resist-energy_, _ [shield](spell_dir/shield#_shield_
 
 Staff of Accompaniment
 
 **Price** 14,800 gp; **Aura** moderate evocation and transmutation; **CL** 8th; **Weight** 5 lbs.
 
-This staff is adorned with musical notes. When held and used with bardic performance, it accompanies the song with the sounds of wind instruments, granting a +2 competence bonus on [Perform](skills/perform#_perform) checks. The staff allows use of the following spells:
+This staff is adorned with musical notes. When held and used with bardic performance, it accompanies the song with the sounds of wind instruments, granting a +2 competence bonus on [Perform](skill_dir/perform#_perform checks. The staff allows use of the following spells:
 
-- _ [Chord of shards](ultimateMagic/spells/chordOfShards#_chord-of-shards)_ (1 charge)
-- _ [Saving finale](advanced/spells/savingFinale#_saving-finale)_ (1 charge)
-- _ [Allegro](ultimateMagic/spells/allegro#_allegro)_ (2 charges)
+- _ [Chord of shards](ultimateMagic/spell_dir/chordOfShards#_chord-of-shards)_ (1 charge
+- _ [Saving finale](advanced/spell_dir/savingFinale#_saving-finale)_ (1 charge
+- _ [Allegro](ultimateMagic/spell_dir/allegro#_allegro)_ (2 charges
 
 Construction Requirements
 
 **Cost** 7,400 gp
 
-Craft Staff, _ [allegro](ultimateMagic/spells/allegro#_allegro)_, _ [chord of shards](ultimateMagic/spells/chordOfShards#_chord-of-shards)_, _ [saving finale](advanced/spells/savingFinale#_saving-finale)_
+Craft Staff, _ [allegro](ultimateMagic/spell_dir/allegro#_allegro_, _ [chord of shards](ultimateMagic/spell_dir/chordOfShards#_chord-of-shards_, _ [saving finale](advanced/spell_dir/savingFinale#_saving-finale_
 
 Staff of Acid
 
@@ -269,15 +269,15 @@ Staff of Acid
 
 This staff is made of a rust-colored metal that has been corroded by acid, with a sickly green gem at its tip. The staff allows use of the following spells:
 
-- _ [Corrosive touch](ultimateMagic/spells/corrosiveTouch#_corrosive-touch) _(1 charge)
-- _ [Acid arrow](spells/acidArrow#_acid-arrow) _(2 charges)
-- _ [Acid fog](spells/acidFog#_acid-fog) _(3 charges)
+- _ [Corrosive touch](ultimateMagic/spell_dir/corrosiveTouch#_corrosive-touch) _(1 charge
+- _ [Acid arrow](spell_dir/acidArrow#_acid-arrow) _(2 charges
+- _ [Acid fog](spell_dir/acidFog#_acid-fog) _(3 charges
 
 Construction Requirements
 
 **Cost** 14,300 gp
 
-Craft Staff, _ [acid arrow](spells/acidArrow#_acid-arrow)_, _ [acid fog](spells/acidFog#_acid-fog)_, _ [corrosive touch](ultimateMagic/spells/corrosiveTouch#_corrosive-touch)_
+Craft Staff, _ [acid arrow](spell_dir/acidArrow#_acid-arrow_, _ [acid fog](spell_dir/acidFog#_acid-fog_, _ [corrosive touch](ultimateMagic/spell_dir/corrosiveTouch#_corrosive-touch_
 
 Staff of Aspects
 
@@ -285,16 +285,16 @@ Staff of Aspects
 
 This stout staff is made of ash. Four faces of animals—a bear, a falcon, a stag, and a wolf—are carved at its top. The aspect staff functions as a _+1/+1 quarterstaff_ and allows the use of the following spells:
 
-- _ [Aspect of the bear](advanced/spells/aspectOfTheBear#_aspect-of-the-bear)_ (1 charge)
-- _ [Aspect of the falcon](advanced/spells/aspectOfTheFalcon#_aspect-of-the-falcon)_ (1 charge)
-- _ [Aspect of the stag](advanced/spells/aspectOfTheStag#_aspect-of-the-stag)_ (2 charges)
-- _ [Aspect of the wolf](advanced/spells/aspectOfTheWolf#_aspect-of-the-wolf) _(3 charges)
+- _ [Aspect of the bear](advanced/spell_dir/aspectOfTheBear#_aspect-of-the-bear)_ (1 charge
+- _ [Aspect of the falcon](advanced/spell_dir/aspectOfTheFalcon#_aspect-of-the-falcon)_ (1 charge
+- _ [Aspect of the stag](advanced/spell_dir/aspectOfTheStag#_aspect-of-the-stag)_ (2 charges
+- _ [Aspect of the wolf](advanced/spell_dir/aspectOfTheWolf#_aspect-of-the-wolf) _(3 charges)
 
 Construction Requirements
 
 **Cost** 19,100 gp
 
-Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff), _ [aspect of the bear](advanced/spells/aspectOfTheBear#_aspect-of-the-bear), [aspect of the falcon](advanced/spells/aspectOfTheFalcon#_aspect-of-the-falcon), [aspect of the stag](advanced/spells/aspectOfTheStag#_aspect-of-the-stag), [aspect of the wolf](advanced/spells/aspectOfTheWolf#_aspect-of-the-wolf)_
+Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff, _ [aspect of the bear](advanced/spell_dir/aspectOfTheBear#_aspect-of-the-bear, [aspect of the falcon](advanced/spell_dir/aspectOfTheFalcon#_aspect-of-the-falcon, [aspect of the stag](advanced/spell_dir/aspectOfTheStag#_aspect-of-the-stag, [aspect of the wolf](advanced/spell_dir/aspectOfTheWolf#_aspect-of-the-wolf_
 
 Staff of Authority
 
@@ -302,15 +302,15 @@ Staff of Authority
 
 This stout ironbound staff functions as a _+1/+1 quarterstaff_. It allows the use of the following spells:
 
-- _ [Forced quiet](ultimateMagic/spells/forcedQuiet#_forced-quiet)_ (1 charge)
-- _ [Interrogation](ultimateMagic/spells/interrogation#_interrogation)_ (1 charge) 
-- _ [Oppressive boredom](ultimateMagic/spells/oppressiveBoredom#_oppressive-boredom)_ (2 charges)
+- _ [Forced quiet](ultimateMagic/spell_dir/forcedQuiet#_forced-quiet)_ (1 charge
+- _ [Interrogation](ultimateMagic/spell_dir/interrogation#_interrogation)_ (1 charge 
+- _ [Oppressive boredom](ultimateMagic/spell_dir/oppressiveBoredom#_oppressive-boredom)_ (2 charges
 
 Construction Requirements
 
 **Cost** 11,800 gp
 
-Craft Staff, _ [forced quiet](ultimateMagic/spells/forcedQuiet#_forced-quiet), [interrogation](ultimateMagic/spells/interrogation#_interrogation), [oppressive boredom](ultimateMagic/spells/oppressiveBoredom#_oppressive-boredom)_
+Craft Staff, _ [forced quiet](ultimateMagic/spell_dir/forcedQuiet#_forced-quiet, [interrogation](ultimateMagic/spell_dir/interrogation#_interrogation, [oppressive boredom](ultimateMagic/spell_dir/oppressiveBoredom#_oppressive-boredom_
 
 Staff of Belittling
 
@@ -318,16 +318,16 @@ Staff of Belittling
 
 Someone who carries this blue-and-white staff need never feel small nor weak, as the staff brings everybody and everything down to size. This staff allows the use of the following spells:
 
-- _ [Reduce person](spells/reducePerson#_reduce-person)_ (1 charge)
-- _ [Reduce animal](spells/reduceAnimal#_reduce-animal)_ (2 charges)
-- _ [Shrink item](spells/shrinkItem#_shrink-item)_ (2 charges)
-- _ [Mass reduce person](spells/reducePerson#_reduce-person-mass)_ (4 charges)
+- _ [Reduce person](spell_dir/reducePerson#_reduce-person)_ (1 charge
+- _ [Reduce animal](spell_dir/reduceAnimal#_reduce-animal)_ (2 charges
+- _ [Shrink item](spell_dir/shrinkItem#_shrink-item)_ (2 charges
+- _ [Mass reduce person](spell_dir/reducePerson#_reduce-person-mass)_ (4 charges
 
 Construction Requirements
 
 **Cost** 10,000 gp
 
-Craft Staff, _ [mass reduce person](spells/reducePerson#_reduce-person-mass), [reduce animal](spells/reduceAnimal#_reduce-animal), [reduce person](spells/reducePerson#_reduce-person), [shrink item](spells/shrinkItem#_shrink-item)_
+Craft Staff, _ [mass reduce person](spell_dir/reducePerson#_reduce-person-mass, [reduce animal](spell_dir/reduceAnimal#_reduce-animal, [reduce person](spell_dir/reducePerson#_reduce-person, [shrink item](spell_dir/shrinkItem#_shrink-item_
 
 Staff of Blessed Relief
 
@@ -335,15 +335,15 @@ Staff of Blessed Relief
 
 This simple wooden staff is given to young clergy when they first set out into the world to spread the charity of their faith. The staff allows use of the following spells:
 
-- _ [Create water](spells/createWater#_create-water) _(1 charge)
-- _ [Stabilize](spells/stabilize#_stabilize)_ (1 charge)
-- _ [Bless](spells/bless#_bless) _(2 charges)
+- _ [Create water](spell_dir/createWater#_create-water) _(1 charge
+- _ [Stabilize](spell_dir/stabilize#_stabilize)_ (1 charge
+- _ [Bless](spell_dir/bless#_bless) _(2 charges
 
 Construction Requirements
 
 **Cost** 3,600 gp
 
-Craft Staff, _ [bless](spells/bless#_bless)_, _ [create water](spells/createWater#_create-water)_, _ [stabilize](spells/stabilize#_stabilize)_
+Craft Staff, _ [bless](spell_dir/bless#_bless_, _ [create water](spell_dir/createWater#_create-water_, _ [stabilize](spell_dir/stabilize#_stabilize_
 
 Staff of Bolstering
 
@@ -351,16 +351,16 @@ Staff of Bolstering
 
 The top of this rosewood shaft narrows and then expands again, bound by a number of metal rings. It allows use of the following spells:
 
-- _ [Bear's endurance](spells/bearSEndurance#_bear-s-endurance)_ (1 charge)
-- _ [Bull's strength](spells/bullSStrength#_bull-s-strength)_ (1 charge)
-- _ [Cat's grace](spells/catSGrace#_cat-s-grace)_ (1 charge)
-- _ [Greater magic weapon](spells/magicWeapon#_magic-weapon-greater)_ (1 charge)
+- _ [Bear's endurance](spell_dir/bearSEndurance#_bear-s-endurance)_ (1 charge
+- _ [Bull's strength](spell_dir/bullSStrength#_bull-s-strength)_ (1 charge
+- _ [Cat's grace](spell_dir/catSGrace#_cat-s-grace)_ (1 charge
+- _ [Greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater)_ (1 charge
 
 Construction Requirements
 
 **Cost** 20,800 gp
 
-Craft Staff, _ [bear's endurance](spells/bearSEndurance#_bear-s-endurance)_, _ [bull's strength](spells/bullSStrength#_bull-s-strength)_, _ [cat's grace](spells/catSGrace#_cat-s-grace)_, _ [greater magic weapon](spells/magicWeapon#_magic-weapon-greater)_
+Craft Staff, _ [bear's endurance](spell_dir/bearSEndurance#_bear-s-endurance_, _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_, _ [cat's grace](spell_dir/catSGrace#_cat-s-grace_, _ [greater magic weapon](spell_dir/magicWeapon#_magic-weapon-greater_
 
 Staff of Cackling Wrath
 
@@ -368,19 +368,19 @@ Staff of Cackling Wrath
 
 The thorns embedded in this gnarled length of wood make it rather tricky for the unwary to grasp. It allows use of the following spells:
 
-- _ [Blindness/deafness](spells/blindnessDeafness#_blindness-deafness)_ (1 charge)
-- _ [Charm person](spells/charmPerson#_charm-person)_ (1 charge)
-- _ [Hold person](spells/holdPerson#_hold-person)_ (1 charge)
-- _ [Inflict moderate wounds](spells/inflictModerateWounds#_inflict-moderate-wounds)_ (1 charge)
-- _ [Baleful polymorph](spells/balefulPolymorph#_baleful-polymorph)_ (2 charges)
-- _ [Bestow curse](spells/bestowCurse#_bestow-curse)_ (2 charges)
-- _ [Vampiric touch](spells/vampiricTouch#_vampiric-touch)_ (2 charges)
+- _ [Blindness/deafness](spell_dir/blindnessDeafness#_blindness-deafness)_ (1 charge
+- _ [Charm person](spell_dir/charmPerson#_charm-person)_ (1 charge
+- _ [Hold person](spell_dir/holdPerson#_hold-person)_ (1 charge
+- _ [Inflict moderate wounds](spell_dir/inflictModerateWounds#_inflict-moderate-wounds)_ (1 charge
+- _ [Baleful polymorph](spell_dir/balefulPolymorph#_baleful-polymorph)_ (2 charges
+- _ [Bestow curse](spell_dir/bestowCurse#_bestow-curse)_ (2 charges
+- _ [Vampiric touch](spell_dir/vampiricTouch#_vampiric-touch)_ (2 charges
 
 Construction Requirements
 
 **Cost** 23,600 gp
 
-Craft Staff, _ [baleful polymorph](spells/balefulPolymorph#_baleful-polymorph)_, _ [bestow curse](spells/bestowCurse#_bestow-curse)_, _ [blindness/deafness](spells/blindnessDeafness#_blindness-deafness)_, _ [charm person](spells/charmPerson#_charm-person)_, _ [hold person](spells/holdPerson#_hold-person)_, _ [inflict moderate wounds](spells/inflictModerateWounds#_inflict-moderate-wounds)_, _ [vampiric touch](spells/vampiricTouch#_vampiric-touch)_
+Craft Staff, _ [baleful polymorph](spell_dir/balefulPolymorph#_baleful-polymorph_, _ [bestow curse](spell_dir/bestowCurse#_bestow-curse_, _ [blindness/deafness](spell_dir/blindnessDeafness#_blindness-deafness_, _ [charm person](spell_dir/charmPerson#_charm-person_, _ [hold person](spell_dir/holdPerson#_hold-person_, _ [inflict moderate wounds](spell_dir/inflictModerateWounds#_inflict-moderate-wounds_, _ [vampiric touch](spell_dir/vampiricTouch#_vampiric-touch_
 
 Staff of Charming
 
@@ -388,14 +388,14 @@ Staff of Charming
 
 Made of twisting wood ornately shaped and carved, this staff allows use of the following spells:
 
-- _ [Charm person](spells/charmPerson#_charm-person)_ (1 charge)
-- _ [Charm monster](spells/charmMonster#_charm-monster)_ (2 charges)
+- _ [Charm person](spell_dir/charmPerson#_charm-person)_ (1 charge
+- _ [Charm monster](spell_dir/charmMonster#_charm-monster)_ (2 charges
 
 Construction Requirements
 
 **Cost** 8,800 gp
 
-Craft Staff, _ [charm monster](spells/charmMonster#_charm-monster)_, _ [charm person](spells/charmPerson#_charm-person)_
+Craft Staff, _ [charm monster](spell_dir/charmMonster#_charm-monster_, _ [charm person](spell_dir/charmPerson#_charm-person_
 
 Staff of Conjuration
 
@@ -403,18 +403,18 @@ Staff of Conjuration
 
 This staff is usually made of ash or walnut and bears ornate carvings of many different kinds of creatures. It allows use of the following spells:
 
-- _ [Stinking cloud](spells/stinkingCloud#_stinking-cloud)_ (1 charge)
-- _ [Summon swarm](spells/summonSwarm#_summon-swarm)_ (1 charge)
-- _ [Unseen servant](spells/unseenServant#_unseen-servant)_ (1 charge)
-- _ [Cloudkill](spells/cloudkill#_cloudkill)_ (2 charges)
-- _ [Minor creation](spells/minorCreation#_minor-creation)_ (2 charges)
-- _ [Summon monster VI](spells/summonMonster#_summon-monster-vi)_ (3 charges)
+- _ [Stinking cloud](spell_dir/stinkingCloud#_stinking-cloud)_ (1 charge
+- _ [Summon swarm](spell_dir/summonSwarm#_summon-swarm)_ (1 charge
+- _ [Unseen servant](spell_dir/unseenServant#_unseen-servant)_ (1 charge
+- _ [Cloudkill](spell_dir/cloudkill#_cloudkill)_ (2 charges
+- _ [Minor creation](spell_dir/minorCreation#_minor-creation)_ (2 charges
+- _ [Summon monster VI](spell_dir/summonMonster#_summon-monster-vi)_ (3 charges
 
 Construction Requirements
 
 **Cost** 41,000 gp
 
-Craft Staff, _ [cloudkill](spells/cloudkill#_cloudkill)_, _ [minor creation](spells/minorCreation#_minor-creation)_, _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_, _ [summon monster VI](spells/summonMonster#_summon-monster-vi)_, _ [summon swarm](spells/summonSwarm#_summon-swarm)_, _ [unseen servant](spells/unseenServant#_unseen-servant)_
+Craft Staff, _ [cloudkill](spell_dir/cloudkill#_cloudkill_, _ [minor creation](spell_dir/minorCreation#_minor-creation_, _ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud_, _ [summon monster VI](spell_dir/summonMonster#_summon-monster-vi_, _ [summon swarm](spell_dir/summonSwarm#_summon-swarm_, _ [unseen servant](spell_dir/unseenServant#_unseen-servant_
 
 Staff of Courage
 
@@ -422,16 +422,16 @@ Staff of Courage
 
 This sturdy-looking hickory staff is capped with a figurine of an angel or other benevolent spirit, wings and arms outstretched as if in welcome. This staff allows use of the following spells:
 
-- _ [Bless](spells/bless#_bless)_ (1 charge)
-- _ [Remove fear](spells/removeFear#_remove-fear)_ (1 charge)
-- _ [Prayer](spells/prayer#_prayer)_ (2 charges)
-- _ [Remove paralysis](spells/removeParalysis#_remove-paralysis)_ (2 charges)
+- _ [Bless](spell_dir/bless#_bless)_ (1 charge
+- _ [Remove fear](spell_dir/removeFear#_remove-fear)_ (1 charge
+- _ [Prayer](spell_dir/prayer#_prayer)_ (2 charges
+- _ [Remove paralysis](spell_dir/removeParalysis#_remove-paralysis)_ (2 charges
 
 Construction Requirements
 
 **Cost** 9,600 gp
 
-Craft Staff, _ [bless](spells/bless#_bless), [prayer](spells/prayer#_prayer), [remove fear](spells/removeFear#_remove-fear), [remove paralysis](spells/removeParalysis#_remove-paralysis)_
+Craft Staff, _ [bless](spell_dir/bless#_bless, [prayer](spell_dir/prayer#_prayer, [remove fear](spell_dir/removeFear#_remove-fear, [remove paralysis](spell_dir/removeParalysis#_remove-paralysis_
 
 Staff of Curses
 
@@ -439,10 +439,10 @@ Staff of Curses
 
 This gnarled wooden staff is bedecked with broken charms and burnt fetishes that were once used to ward against bad luck, but now are in shambles. The staff allows use of the following spells:
 
-- _ [Blindness/deafness](spells/blindnessDeafness#_blindness-deafness) _(1 charge)
-- _ [Ill omen](advanced/spells/illOmen#_ill-omen) _(1 charge)
-- _ [Baleful polymorph](spells/balefulPolymorph#_baleful-polymorph) _(2 charges)
-- _ [Bestow curse](spells/bestowCurse#_bestow-curse) _(2 charges)
+- _ [Blindness/deafness](spell_dir/blindnessDeafness#_blindness-deafness) _(1 charge
+- _ [Ill omen](advanced/spell_dir/illOmen#_ill-omen) _(1 charge
+- _ [Baleful polymorph](spell_dir/balefulPolymorph#_baleful-polymorph) _(2 charges
+- _ [Bestow curse](spell_dir/bestowCurse#_bestow-curse) _(2 charges
 
 In addition, the _staff of curses_ is a _+1/+1 quarterstaff_, and whenever the wielder strikes a creature with the staff, he can expend one charge to cause the creature to become cursed for a number of rounds equal to the number of charges remaining in the staff. While this curse persists, the creature takes a –2 penalty on saving throws from spells cast from the staff and a –2 penalty to AC against any attacks made by the staff.
 
@@ -450,25 +450,25 @@ Construction Requirements
 
 **Cost** 22,050 gp
 
-Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff), _ [baleful polymorph](spells/balefulPolymorph#_baleful-polymorph)_, _ [bestow curse](spells/bestowCurse#_bestow-curse)_, _ [blindness/deafness](spells/blindnessDeafness#_blindness-deafness)_, _ [ill omen](advanced/spells/illOmen#_ill-omen)_
+Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff), _ [baleful polymorph](spell_dir/balefulPolymorph#_baleful-polymorph_, _ [bestow curse](spell_dir/bestowCurse#_bestow-curse_, _ [blindness/deafness](spell_dir/blindnessDeafness#_blindness-deafness_, _ [ill omen](advanced/spell_dir/illOmen#_ill-omen_
 
 Staff of Dark Flame
 
 **Price** 47,000 gp; **Aura** moderate evocation and necromancy; **CL** 8th; **Weight** 4 lbs.
 
-Made from bleached bones that have been fused together, the head of this staff burns with an unholy fire. This staff can be used as a _+1 [flaming](magicItems/weapons#_weapons-flaming) quarterstaff_ (only one end of the staff bears magical enhancement), and it retains this property even if all its charges are drained. This staff can cast the following spells:
+Made from bleached bones that have been fused together, the head of this staff burns with an unholy fire. This staff can be used as a _+1 [flaming](magicItem_dir/weapons#_weapons-flaming) quarterstaff_ (only one end of the staff bears magical enhancement, and it retains this property even if all its charges are drained. This staff can cast the following spells:
 
-- _ [False life](spells/falseLife#_false-life) _(1 charge)
-- _ [Ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_ (1 charge)
-- _ [Scorching ray](spells/scorchingRay#_scorching-ray)_ (1 charge)
-- _ [Fireball](spells/fireball#_fireball)_ (2 charges)
-- _ [Animate dead](spells/animateDead#_animate-dead)_ (3 charges)
+- _ [False life](spell_dir/falseLife#_false-life) _(1 charge
+- _ [Ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (1 charge
+- _ [Scorching ray](spell_dir/scorchingRay#_scorching-ray)_ (1 charge
+- _ [Fireball](spell_dir/fireball#_fireball)_ (2 charges
+- _ [Animate dead](spell_dir/animateDead#_animate-dead)_ (3 charges)
 
 Construction Requirements
 
 **Cost** 27,133 gp
 
-Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff), _ [animate dead](spells/animateDead#_animate-dead)_,_ [false life](spells/falseLife#_false-life)_,_ [fireball](spells/fireball#_fireball)_,_ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_,_ [scorching ray](spells/scorchingRay#_scorching-ray)_
+Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff, _ [animate dead](spell_dir/animateDead#_animate-dead_,_ [false life](spell_dir/falseLife#_false-life_,_ [fireball](spell_dir/fireball#_fireball_,_ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_,_ [scorching ray](spell_dir/scorchingRay#_scorching-ray_
 
 Staff of Defense
 
@@ -476,16 +476,16 @@ Staff of Defense
 
 The _staff of defense _is a simple-looking polished wooden staff that throbs with power when held defensively. It allows use of the following spells:
 
-- _ [Shield](spells/shield#_shield)_ (1 charge)
-- _Shield of faith_ (1 charge)
-- _ [Shield other](spells/shieldOther#_shield-other)_ (1 charge)
-- _ [Shield of law](spells/shieldOfLaw#_shield-of-law)_ (3 charges)
+- _ [Shield](spell_dir/shield#_shield)_ (1 charge)
+- _Shield of faith_ (1 charge
+- _ [Shield other](spell_dir/shieldOther#_shield-other)_ (1 charge
+- _ [Shield of law](spell_dir/shieldOfLaw#_shield-of-law)_ (3 charges
 
 Construction Requirements
 
 **Cost** 31,000 gp
 
-Craft Staff, _ [shield](spells/shield#_shield)_,_ [shield of faith](spells/shieldOfFaith#_shield-of-faith)_,_ [shield of law](spells/shieldOfLaw#_shield-of-law)_,_ [shield other](spells/shieldOther#_shield-other)_, creator must be lawful
+Craft Staff, _ [shield](spell_dir/shield#_shield_,_ [shield of faith](spell_dir/shieldOfFaith#_shield-of-faith_,_ [shield of law](spell_dir/shieldOfLaw#_shield-of-law_,_ [shield other](spell_dir/shieldOther#_shield-other_, creator must be lawful
 
 Staff of Divination
 
@@ -493,18 +493,18 @@ Staff of Divination
 
 Made from a supple length of willow carefully selected to have a crooked, forked tip, a _staff of divination _allows use of the following spells:
 
-- _ [Detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_ (1 charge)
-- _ [Locate object](spells/locateObject#_locate-object)_ (1 charge)
-- _ [Tongues](spells/tongues#_tongues)_ (1 charge)
-- _ [Locate creature](spells/locateCreature#_locate-creature)_ (2 charges)
-- _ [Prying eyes](spells/pryingEyes#_prying-eyes)_ (2 charges)
-- _ [True seeing](spells/trueSeeing#_true-seeing)_ (3 charges)
+- _ [Detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors)_ (1 charge
+- _ [Locate object](spell_dir/locateObject#_locate-object)_ (1 charge
+- _ [Tongues](spell_dir/tongues#_tongues)_ (1 charge
+- _ [Locate creature](spell_dir/locateCreature#_locate-creature)_ (2 charges
+- _ [Prying eyes](spell_dir/pryingEyes#_prying-eyes)_ (2 charges
+- _ [True seeing](spell_dir/trueSeeing#_true-seeing)_ (3 charges
 
 Construction Requirements
 
 **Cost** 41,000 gp
 
-Craft Staff, _ [detect secret doors](spells/detectSecretDoors#_detect-secret-doors)_,_ [locate creature](spells/locateCreature#_locate-creature)_,_ [locate object](spells/locateObject#_locate-object)_,_ [prying eyes](spells/pryingEyes#_prying-eyes)_,_ [tongues](spells/tongues#_tongues)_,_ [true seeing](spells/trueSeeing#_true-seeing)_
+Craft Staff, _ [detect secret doors](spell_dir/detectSecretDoors#_detect-secret-doors_,_ [locate creature](spell_dir/locateCreature#_locate-creature_,_ [locate object](spell_dir/locateObject#_locate-object_,_ [prying eyes](spell_dir/pryingEyes#_prying-eyes_,_ [tongues](spell_dir/tongues#_tongues_,_ [true seeing](spell_dir/trueSeeing#_true-seeing_
 
 Staff of Earth and Stone
 
@@ -512,14 +512,14 @@ Staff of Earth and Stone
 
 This staff is topped with a fist-sized emerald that gleams with smoldering power. It allows the use of the following spells:
 
-- _ [Move earth](spells/moveEarth#_move-earth)_ (1 charge)
-- _ [Passwall](spells/passwall#_passwall)_ (1 charge)
+- _ [Move earth](spell_dir/moveEarth#_move-earth)_ (1 charge
+- _ [Passwall](spell_dir/passwall#_passwall)_ (1 charge
 
 Construction Requirements
 
 **Cost** 42,900 gp
 
-Craft Staff, _ [move earth](spells/moveEarth#_move-earth)_,_ [passwall](spells/passwall#_passwall)_
+Craft Staff, _ [move earth](spell_dir/moveEarth#_move-earth_,_ [passwall](spell_dir/passwall#_passwall_
 
 Staff of Eidolons
 
@@ -529,15 +529,15 @@ Staff of Eidolons
 
 This crooked staff is made of mahogany and decorated with the bones of eidolons that jut out of the wood. It allows the use of the following spells:
 
-- _ [Lesser rejuvenate eidolon](advanced/spells/rejuvenateEidolon#_rejuvenate-eidolon,-lesser)_ (1 charge)
-- _ [Unfetter](advanced/spells/unfetter#_unfetter)_ (1 charge)
-- _ [Lesser evolution surge](advanced/spells/evolutionSurge#_evolution-surge,-lesser)_ (2 charges)
+- _ [Lesser rejuvenate eidolon](advanced/spell_dir/rejuvenateEidolon#_rejuvenate-eidolon,-lesser)_ (1 charge
+- _ [Unfetter](advanced/spell_dir/unfetter#_unfetter)_ (1 charge
+- _ [Lesser evolution surge](advanced/spell_dir/evolutionSurge#_evolution-surge,-lesser)_ (2 charges
 
 Construction Requirements
 
 **Cost** 7,200 gp
 
-Craft Staff, _ [lesser evolution surge](advanced/spells/evolutionSurge#_evolution-surge,-lesser), [lesser rejuvenate eidolon](advanced/spells/rejuvenateEidolon#_rejuvenate-eidolon,-lesser), [unfetter](advanced/spells/unfetter#_unfetter)_
+Craft Staff, _ [lesser evolution surge](advanced/spell_dir/evolutionSurge#_evolution-surge,-lesser, [lesser rejuvenate eidolon](advanced/spell_dir/rejuvenateEidolon#_rejuvenate-eidolon,-lesser, [unfetter](advanced/spell_dir/unfetter#_unfetter_
 
 Staff of Electricity
 
@@ -545,15 +545,15 @@ Staff of Electricity
 
 This staff is made of shining silver, with a tip shaped like a lightning bolt. The staff allows use of the following spells:
 
-- _ [Shocking grasp](spells/shockingGrasp#_shocking-grasp) _(1 charge)
-- _ [Lightning bolt](spells/lightningBolt#_lightning-bolt) _(2 charges)
-- _ [Chain lightning](spells/chainLightning#_chain-lightning) _(3 charges)
+- _ [Shocking grasp](spell_dir/shockingGrasp#_shocking-grasp) _(1 charge
+- _ [Lightning bolt](spell_dir/lightningBolt#_lightning-bolt) _(2 charges
+- _ [Chain lightning](spell_dir/chainLightning#_chain-lightning) _(3 charges
 
 Construction Requirements
 
 **Cost** 15,950 gp
 
-Craft Staff, _ [chain lightning](spells/chainLightning#_chain-lightning)_, _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_, _ [shocking grasp](spells/shockingGrasp#_shocking-grasp)_
+Craft Staff, _ [chain lightning](spell_dir/chainLightning#_chain-lightning_, _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_, _ [shocking grasp](spell_dir/shockingGrasp#_shocking-grasp_
 
 Staff of Enchantment
 
@@ -561,18 +561,18 @@ Staff of Enchantment
 
 Often made from applewood and topped with a clear crystal, this staff allows use of the following spells:
 
-- _ [Hideous laughter](spells/hideousLaughter#_hideous-laughter)_ (1 charge)
-- _ [Sleep](spells/sleep#_sleep)_ (1 charge)
-- _ [Suggestion](spells/suggestion#_suggestion)_ (1 charge)
-- _ [Crushing despair](spells/crushingDespair#_crushing-despair)_ (2 charges)
-- _ [Mind fog](spells/mindFog#_mind-fog)_ (2 charges)
-- _ [Mass suggestion](spells/suggestion#_suggestion-mass)_ (3 charges)
+- _ [Hideous laughter](spell_dir/hideousLaughter#_hideous-laughter)_ (1 charge
+- _ [Sleep](spell_dir/sleep#_sleep)_ (1 charge
+- _ [Suggestion](spell_dir/suggestion#_suggestion)_ (1 charge
+- _ [Crushing despair](spell_dir/crushingDespair#_crushing-despair)_ (2 charges
+- _ [Mind fog](spell_dir/mindFog#_mind-fog)_ (2 charges
+- _ [Mass suggestion](spell_dir/suggestion#_suggestion-mass)_ (3 charges
 
 Construction Requirements
 
 **Cost** 41,000 gp
 
-Craft Staff, _ [crushing despair](spells/crushingDespair#_crushing-despair)_,_ [hideous laughter](spells/hideousLaughter#_hideous-laughter)_,_ [mass suggestion](spells/suggestion#_suggestion-mass)_,_ [mind fog](spells/mindFog#_mind-fog)_,_ [sleep](spells/sleep#_sleep)_,_ [suggestion](spells/suggestion#_suggestion)_
+Craft Staff, _ [crushing despair](spell_dir/crushingDespair#_crushing-despair_,_ [hideous laughter](spell_dir/hideousLaughter#_hideous-laughter_,_ [mass suggestion](spell_dir/suggestion#_suggestion-mass_,_ [mind fog](spell_dir/mindFog#_mind-fog_,_ [sleep](spell_dir/sleep#_sleep_,_ [suggestion](spell_dir/suggestion#_suggestion_
 
 Staff of Evocation
 
@@ -580,18 +580,18 @@ Staff of Evocation
 
 This smooth staff carved from hickory or yew allows use of the following spells:
 
-- _ [Fireball](spells/fireball#_fireball)_ (1 charge)
-- _ [Magic missile](spells/magicMissile#_magic-missile)_ (1 charge)
-- _ [Shatter](spells/shatter#_shatter)_ (1 charge)
-- _ [Ice storm](spells/iceStorm#_ice-storm)_ (2 charges)
-- _ [Wall of force](spells/wallOfForce#_wall-of-force)_ (2 charges)
-- _ [Chain lightning](spells/chainLightning#_chain-lightning)_ (3 charges)
+- _ [Fireball](spell_dir/fireball#_fireball)_ (1 charge
+- _ [Magic missile](spell_dir/magicMissile#_magic-missile)_ (1 charge
+- _ [Shatter](spell_dir/shatter#_shatter)_ (1 charge
+- _ [Ice storm](spell_dir/iceStorm#_ice-storm)_ (2 charges
+- _ [Wall of force](spell_dir/wallOfForce#_wall-of-force)_ (2 charges
+- _ [Chain lightning](spell_dir/chainLightning#_chain-lightning)_ (3 charges
 
 Construction Requirements
 
 **Cost** 41,000 gp
 
-Craft Staff, _ [chain lightning](spells/chainLightning#_chain-lightning)_,_ [fireball](spells/fireball#_fireball)_,_ [ice storm](spells/iceStorm#_ice-storm)_,_ [magic missile](spells/magicMissile#_magic-missile)_,_ [shatter](spells/shatter#_shatter)_,_ [wall of force](spells/wallOfForce#_wall-of-force)_
+Craft Staff, _ [chain lightning](spell_dir/chainLightning#_chain-lightning_,_ [fireball](spell_dir/fireball#_fireball_,_ [ice storm](spell_dir/iceStorm#_ice-storm_,_ [magic missile](spell_dir/magicMissile#_magic-missile_,_ [shatter](spell_dir/shatter#_shatter_,_ [wall of force](spell_dir/wallOfForce#_wall-of-force_
 
 Staff of feast and famine
 
@@ -599,17 +599,17 @@ Staff of feast and famine
 
 Leaves sprout from this wooden staff, some green and some black. When the wielder uses the staff, he plucks one of the leaves: a green leaf to provide sustenance or a black leaf to cause hunger or thirst. The staff allows the use of the following spells:
 
-- _ [Create water](spells/createWater#_create-water)_ (1 charge)
-- _ [Goodberry](spells/goodberry#_goodberry)_ (1 charge)
-- _ [Purify food and drink](spells/purifyFoodAndDrink#_purify-food-and-drink)_ (1 charge)
-- _ [Cup of dust](advanced/spells/cupOfDust#_cup-of-dust)_ (2 charges)
-- _ [Feast of ashes](advanced/spells/feastOfAshes#_feast-of-ashes)_ (2 charges)
+- _ [Create water](spell_dir/createWater#_create-water)_ (1 charge
+- _ [Goodberry](spell_dir/goodberry#_goodberry)_ (1 charge
+- _ [Purify food and drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink)_ (1 charge
+- _ [Cup of dust](advanced/spell_dir/cupOfDust#_cup-of-dust)_ (2 charges
+- _ [Feast of ashes](advanced/spell_dir/feastOfAshes#_feast-of-ashes)_ (2 charges
 
 Construction Requirements
 
 **Cost** 10,400 gp
 
-Craft Staff, _ [create water](spells/createWater#_create-water), [cup of dust](advanced/spells/cupOfDust#_cup-of-dust), [feast of ashes](advanced/spells/feastOfAshes#_feast-of-ashes), [goodberry](spells/goodberry#_goodberry), [purify food and drink](spells/purifyFoodAndDrink#_purify-food-and-drink)_
+Craft Staff, _ [create water](spell_dir/createWater#_create-water, [cup of dust](advanced/spell_dir/cupOfDust#_cup-of-dust, [feast of ashes](advanced/spell_dir/feastOfAshes#_feast-of-ashes, [goodberry](spell_dir/goodberry#_goodberry, [purify food and drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink_
 
 Staff of Fire
 
@@ -617,15 +617,15 @@ Staff of Fire
 
 Crafted from bronzewood with brass bindings, this staff allows use of the following spells:
 
-- _ [Burning hands](spells/burningHands#_burning-hands)_ (1 charge)
-- _ [Fireball](spells/fireball#_fireball)_ (2 charges)
-- _ [Wall of fire](spells/wallOfFire#_wall-of-fire)_ (3 charges)
+- _ [Burning hands](spell_dir/burningHands#_burning-hands)_ (1 charge
+- _ [Fireball](spell_dir/fireball#_fireball)_ (2 charges
+- _ [Wall of fire](spell_dir/wallOfFire#_wall-of-fire)_ (3 charges
 
 Construction Requirements
 
 **Cost** 9,475 gp
 
-Craft Staff, _ [burning hands](spells/burningHands#_burning-hands)_,_ [fireball](spells/fireball#_fireball)_,_ [wall of fire](spells/wallOfFire#_wall-of-fire)_
+Craft Staff, _ [burning hands](spell_dir/burningHands#_burning-hands_,_ [fireball](spell_dir/fireball#_fireball_,_ [wall of fire](spell_dir/wallOfFire#_wall-of-fire_
 
 Staff of Frost
 
@@ -633,15 +633,15 @@ Staff of Frost
 
 Tipped on either end with a glistening diamond, this rune-covered staff allows use of the following spells: 
 
-- _ [Ice storm](spells/iceStorm#_ice-storm) _(1 charge)
-- _ [Wall of ice](spells/wallOfIce#_wall-of-ice) _(2 charges)
-- _ [Cone of cold](spells/coneOfCold#_cone-of-cold) _(3 charges)
+- _ [Ice storm](spell_dir/iceStorm#_ice-storm) _(1 charge
+- _ [Wall of ice](spell_dir/wallOfIce#_wall-of-ice) _(2 charges
+- _ [Cone of cold](spell_dir/coneOfCold#_cone-of-cold) _(3 charges
 
 Construction Requirements
 
 **Cost** 20,700 gp
 
-Craft Staff, _ [cone of cold](spells/coneOfCold#_cone-of-cold)_,_ [ice storm](spells/iceStorm#_ice-storm)_,_ [wall of ice](spells/wallOfIce#_wall-of-ice)_
+Craft Staff, _ [cone of cold](spell_dir/coneOfCold#_cone-of-cold_,_ [ice storm](spell_dir/iceStorm#_ice-storm_,_ [wall of ice](spell_dir/wallOfIce#_wall-of-ice_
 
 Staff of Healing
 
@@ -649,16 +649,16 @@ Staff of Healing
 
 This white ash staff is decorated with inlaid silver runes. It allows use of the following spells:
 
-- _ [Cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_ (1 charge)
-- _ [Lesser restoration](spells/restoration#_restoration-lesser)_ (1 charge)
-- _ [Remove blindness/deafness](spells/removeBlindnessDeafness#_remove-blindness-deafness)_ (2 charges)
-- _ [Remove disease](spells/removeDisease#_remove-disease)_ (3 charges)
+- _ [Cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_ (1 charge
+- _ [Lesser restoration](spell_dir/restoration#_restoration-lesser)_ (1 charge
+- _ [Remove blindness/deafness](spell_dir/removeBlindnessDeafness#_remove-blindness-deafness)_ (2 charges
+- _ [Remove disease](spell_dir/removeDisease#_remove-disease)_ (3 charges
 
 Construction Requirements
 
 **Cost** 14,800 gp
 
-Craft Staff, _ [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_,_ [lesser restoration](spells/restoration#_restoration-lesser)_,_ [remove blindness/deafness](spells/removeBlindnessDeafness#_remove-blindness-deafness)_,_ [remove disease](spells/removeDisease#_remove-disease)_
+Craft Staff, _ [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds_,_ [lesser restoration](spell_dir/restoration#_restoration-lesser_,_ [remove blindness/deafness](spell_dir/removeBlindnessDeafness#_remove-blindness-deafness_,_ [remove disease](spell_dir/removeDisease#_remove-disease_
 
 Staff of Heaven and Earth
 
@@ -666,17 +666,17 @@ Staff of Heaven and Earth
 
 Topped by a swirling cloudy stone and wrapped with black iron filigree, this staff allows use of the following spells:
 
-- _ [Gust of wind](spells/gustOfWind#_gust-of-wind)_ (1 charge)
-- _ [Stone shape](spells/stoneShape#_stone-shape)_ (1 charge)
-- _ [Air walk](spells/airWalk#_air-walk)_ (2 charges)
-- _ [Control winds](spells/controlWinds#_control-winds)_ (2 charges)
-- _ [Spike stones](spells/spikeStones#_spike-stones)_ (2 charges)
+- _ [Gust of wind](spell_dir/gustOfWind#_gust-of-wind)_ (1 charge
+- _ [Stone shape](spell_dir/stoneShape#_stone-shape)_ (1 charge
+- _ [Air walk](spell_dir/airWalk#_air-walk)_ (2 charges
+- _ [Control winds](spell_dir/controlWinds#_control-winds)_ (2 charges
+- _ [Spike stones](spell_dir/spikeStones#_spike-stones)_ (2 charges
 
 Construction Requirements
 
 **Cost** 27,000 gp
 
-Craft staff, _ [air walk](spells/airWalk#_air-walk)_,_ [control winds](spells/controlWinds#_control-winds)_,_ [gust of wind](spells/gustOfWind#_gust-of-wind)_,_ [spike stones](spells/spikeStones#_spike-stones)_,_ [stone shape](spells/stoneShape#_stone-shape)_
+Craft staff, _ [air walk](spell_dir/airWalk#_air-walk_,_ [control winds](spell_dir/controlWinds#_control-winds_,_ [gust of wind](spell_dir/gustOfWind#_gust-of-wind_,_ [spike stones](spell_dir/spikeStones#_spike-stones_,_ [stone shape](spell_dir/stoneShape#_stone-shape_
 
 Staff of Hoarding
 
@@ -684,17 +684,17 @@ Staff of Hoarding
 
 This gorgeous teak shaft has many gold and silver coins hammered into it. It allows use of the following spells:
 
-- _ [Identify](spells/identify#_identify)_ (1 charge)
-- _ [Locate object](spells/locateObject#_locate-object)_ (1 charge)
-- _ [Magic aura](spells/magicAura#_magic-aura)_ (1 charge)
-- S_ecret chest_ (2 charges)
-- _ [Legend lore](spells/legendLore#_legend-lore)_ (3 charges)
+- _ [Identify](spell_dir/identify#_identify)_ (1 charge
+- _ [Locate object](spell_dir/locateObject#_locate-object)_ (1 charge
+- _ [Magic aura](spell_dir/magicAura#_magic-aura)_ (1 charge)
+- S_ecret chest_ (2 charges
+- _ [Legend lore](spell_dir/legendLore#_legend-lore)_ (3 charges
 
 Construction Requirements
 
 **Cost** 30,016 gp
 
-Craft Staff, _ [identify](spells/identify#_identify)_, _ [legend lore](spells/legendLore#_legend-lore)_, _ [locate object](spells/locateObject#_locate-object)_, _ [magic aura](spells/magicAura#_magic-aura)_, _ [secret chest](spells/secretChest#_secret-chest)_
+Craft Staff, _ [identify](spell_dir/identify#_identify_, _ [legend lore](spell_dir/legendLore#_legend-lore_, _ [locate object](spell_dir/locateObject#_locate-object_, _ [magic aura](spell_dir/magicAura#_magic-aura_, _ [secret chest](spell_dir/secretChest#_secret-chest_
 
 Staff of Hungry Shadows
 
@@ -702,20 +702,20 @@ Staff of Hungry Shadows
 
 This staff is made of scorched and twisted wood and is set with a crystal sphere filled with swirling smoke. It allows the use of the following spells:
 
-- _ [Darkness](spells/darkness#_darkness)_ (1 charge)
-- _ [Ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_ (1 charge)
-- _ [Vampiric touch](spells/vampiricTouch#_vampiric-touch) _(1 charge)
-- _ [Enervation](spells/enervation#_enervation)_ (2 charges)
-- Summon shadow (as _ [summon monster V](spells/summonMonster#_summon-monster-v)_ but summons   
-1 shadow, 2 charges)
-- Call devourer (as _ [planar binding](spells/planarBinding#_planar-binding)_ but calls 1 devourer,   
-3 charges)
+- _ [Darkness](spell_dir/darkness#_darkness)_ (1 charge
+- _ [Ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (1 charge
+- _ [Vampiric touch](spell_dir/vampiricTouch#_vampiric-touch) _(1 charge
+- _ [Enervation](spell_dir/enervation#_enervation)_ (2 charges
+- Summon shadow (as _ [summon monster V](spell_dir/summonMonster#_summon-monster-v)_ but summons   
+1 shadow, 2 charges
+- Call devourer (as _ [planar binding](spell_dir/planarBinding#_planar-binding)_ but calls 1 devourer,   
+3 charges
 
 Construction Requirements
 
 **Cost** 34,650 gp
 
-Craft Staff, _ [darkness](spells/darkness#_darkness)_,_ [enervation](spells/enervation#_enervation)_,_ [planar binding](spells/planarBinding#_planar-binding)_,_ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_,_ [summon monster V](spells/summonMonster#_summon-monster-v)_,_ [vampiric touch](spells/vampiricTouch#_vampiric-touch)_
+Craft Staff, _ [darkness](spell_dir/darkness#_darkness_,_ [enervation](spell_dir/enervation#_enervation_,_ [planar binding](spell_dir/planarBinding#_planar-binding_,_ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_,_ [summon monster V](spell_dir/summonMonster#_summon-monster-v_,_ [vampiric touch](spell_dir/vampiricTouch#_vampiric-touch_
 
 Staff of Illumination
 
@@ -723,16 +723,16 @@ Staff of Illumination
 
 This staff is usually sheathed in a layer of silver and decorated with gold and amber sunbursts. A _staff of illumination_ allows use of the following spells:
 
-- _ [Dancing lights](spells/dancingLights#_dancing-lights)_ (1 charge)
-- _ [Flare](spells/flare#_flare)_ (1 charge)
-- _ [Daylight](spells/daylight#_daylight)_ (2 charges)
-- _ [Sunburst](spells/sunburst#_sunburst)_ (3 charges)
+- _ [Dancing lights](spell_dir/dancingLights#_dancing-lights)_ (1 charge
+- _ [Flare](spell_dir/flare#_flare)_ (1 charge
+- _ [Daylight](spell_dir/daylight#_daylight)_ (2 charges
+- _ [Sunburst](spell_dir/sunburst#_sunburst)_ (3 charges
 
 Construction Requirements
 
 **Cost** 25,750 gp
 
-Craft Staff, _ [dancing lights](spells/dancingLights#_dancing-lights)_,_ [daylight](spells/daylight#_daylight)_,_ [flare](spells/flare#_flare)_,_ [sunburst](spells/sunburst#_sunburst)_
+Craft Staff, _ [dancing lights](spell_dir/dancingLights#_dancing-lights_,_ [daylight](spell_dir/daylight#_daylight_,_ [flare](spell_dir/flare#_flare_,_ [sunburst](spell_dir/sunburst#_sunburst_
 
 Staff of Illusion
 
@@ -740,18 +740,18 @@ Staff of Illusion
 
 This staff is made from ebony or other dark wood and carved into an intricately twisted, fluted, or spiral shape. It allows use of the following spells:
 
-- _ [Disguise](skills/disguise#_disguise) self_ (1 charge)
-- _ [Major image](spells/majorImage#_major-image)_ (1 charge)
-- _ [Mirror image](spells/mirrorImage#_mirror-image)_ (1 charge)
-- _ [Persistent image](spells/persistentImage#_persistent-image)_ (2 charges)
-- _ [Rainbow pattern](spells/rainbowPattern#_rainbow-pattern)_ (2 charges)
-- _ [Mislead](spells/mislead#_mislead)_ (3 charges)
+- _ [Disguise](skill_dir/disguise#_disguise) self_ (1 charge
+- _ [Major image](spell_dir/majorImage#_major-image)_ (1 charge
+- _ [Mirror image](spell_dir/mirrorImage#_mirror-image)_ (1 charge
+- _ [Persistent image](spell_dir/persistentImage#_persistent-image)_ (2 charges
+- _ [Rainbow pattern](spell_dir/rainbowPattern#_rainbow-pattern)_ (2 charges
+- _ [Mislead](spell_dir/mislead#_mislead)_ (3 charges
 
 Construction Requirements
 
 **Cost** 41,000 gp
 
-Craft Staff, _ [disguise self](spells/disguiseSelf#_disguise-self)_,_ [major image](spells/majorImage#_major-image)_,_ [mirror image](spells/mirrorImage#_mirror-image)_,_ [mislead](spells/mislead#_mislead)_,_ [persistent image](spells/persistentImage#_persistent-image)_,_ [rainbow pattern](spells/rainbowPattern#_rainbow-pattern)_
+Craft Staff, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_,_ [major image](spell_dir/majorImage#_major-image_,_ [mirror image](spell_dir/mirrorImage#_mirror-image_,_ [mislead](spell_dir/mislead#_mislead_,_ [persistent image](spell_dir/persistentImage#_persistent-image_,_ [rainbow pattern](spell_dir/rainbowPattern#_rainbow-pattern_
 
 Staff of Journeys
 
@@ -759,17 +759,17 @@ Staff of Journeys
 
 This walking stick, which still has dark gray bark along its entire length, branches into an ornate fork at its top, decorated with wildflowers and different kinds of leaves. It allows use of the following spells:
 
-- _ [Detect snares and pits](spells/detectSnaresAndPits#_detect-snares-and-pits)_ (1 charge)
-- _ [Endure elements](spells/endureElements#_endure-elements)_ (1 charge)
-- _ [Longstrider](spells/longstrider#_longstrider)_ (1 charge)
-- _ [Pass without trace](spells/passWithoutTrace#_pass-without-trace)_ (1 charge)
-- _ [Freedom of movement](spells/freedomOfMovement#_freedom-of-movement)_ (2 charges)
+- _ [Detect snares and pits](spell_dir/detectSnaresAndPits#_detect-snares-and-pits)_ (1 charge
+- _ [Endure elements](spell_dir/endureElements#_endure-elements)_ (1 charge
+- _ [Longstrider](spell_dir/longstrider#_longstrider)_ (1 charge
+- _ [Pass without trace](spell_dir/passWithoutTrace#_pass-without-trace)_ (1 charge
+- _ [Freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement)_ (2 charges
 
 Construction Requirements
 
 **Cost** 13,600 gp
 
-Craft Staff, _ [detect snares and pits](spells/detectSnaresAndPits#_detect-snares-and-pits)_, _ [endure elements](spells/endureElements#_endure-elements)_, _ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement)_, _ [longstrider](spells/longstrider#_longstrider)_, _ [pass without trace](spells/passWithoutTrace#_pass-without-trace)_
+Craft Staff, _ [detect snares and pits](spell_dir/detectSnaresAndPits#_detect-snares-and-pits_, _ [endure elements](spell_dir/endureElements#_endure-elements_, _ [freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement_, _ [longstrider](spell_dir/longstrider#_longstrider_, _ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace_
 
 Staff of Life
 
@@ -777,14 +777,14 @@ Staff of Life
 
 A _staff of life is_ made of thick polished oak shod in gold and decorated with sinuous runes of silver or ivory, which depict various cycles of life and death according to different cultures. This staff allows use of the following spells:
 
-- _ [Heal](skills/heal#_heal)_ (1 charge)
-- _ [Raise dead](spells/raiseDead#_raise-dead)_ (5 charges)
+- _ [Heal](skill_dir/heal#_heal)_ (1 charge
+- _ [Raise dead](spell_dir/raiseDead#_raise-dead)_ (5 charges
 
 Construction Requirements
 
 **Cost** 79,700 gp
 
-Craft Staff, _ [heal](spells/heal#_heal)_,_ [raise dead](spells/raiseDead#_raise-dead)_
+Craft Staff, _ [heal](spell_dir/heal#_heal_,_ [raise dead](spell_dir/raiseDead#_raise-dead_
 
 Staff of Many Rays
 
@@ -792,17 +792,17 @@ Staff of Many Rays
 
 The elaborate swirls and delicate flecks of shining metal adorning the head of this pale wooden shaft make it seem almost as much a long mace as a staff. It allows use of the following spells:
 
-- _ [Ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_ (1 charge)
-- _ [Ray of exhaustion](spells/rayOfExhaustion#_ray-of-exhaustion)_ (1 charge)
-- _ [Scorching ray](spells/scorchingRay#_scorching-ray)_ (1 charge)
-- _ [Enervation](spells/enervation#_enervation)_ (2 charges)
-- _ [Disintegrate](spells/disintegrate#_disintegrate)_ (3 charges)
+- _ [Ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (1 charge
+- _ [Ray of exhaustion](spell_dir/rayOfExhaustion#_ray-of-exhaustion)_ (1 charge
+- _ [Scorching ray](spell_dir/scorchingRay#_scorching-ray)_ (1 charge
+- _ [Enervation](spell_dir/enervation#_enervation)_ (2 charges
+- _ [Disintegrate](spell_dir/disintegrate#_disintegrate)_ (3 charges
 
 Construction Requirements
 
 **Cost** 28,600 gp
 
-Craft Staff, _ [disintegrate](spells/disintegrate#_disintegrate)_, _ [enervation](spells/enervation#_enervation)_, _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_, _ [ray of exhaustion](spells/rayOfExhaustion#_ray-of-exhaustion)_, _ [scorching ray](spells/scorchingRay#_scorching-ray)_
+Craft Staff, _ [disintegrate](spell_dir/disintegrate#_disintegrate_, _ [enervation](spell_dir/enervation#_enervation_, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_, _ [ray of exhaustion](spell_dir/rayOfExhaustion#_ray-of-exhaustion_, _ [scorching ray](spell_dir/scorchingRay#_scorching-ray_
 
 Staff of Minor Arcana
 
@@ -810,14 +810,14 @@ Staff of Minor Arcana
 
 This gleaming staff is made of polished silver and capped with a simple gemstone. It is frequently given as a gift to apprentice spellcasters upon completing their tutelage. The staff allows use of the following spells:
 
-- _ [Shield](spells/shield#_shield) _(1 charge)
-- _ [Magic missile](spells/magicMissile#_magic-missile) _(2 charges)
+- _ [Shield](spell_dir/shield#_shield) _(1 charge
+- _ [Magic missile](spell_dir/magicMissile#_magic-missile) _(2 charges
 
 Construction Requirements
 
 **Cost** 4,000 gp
 
-Craft Staff, _ [magic missile](spells/magicMissile#_magic-missile)_, _ [shield](spells/shield#_shield)_
+Craft Staff, _ [magic missile](spell_dir/magicMissile#_magic-missile_, _ [shield](spell_dir/shield#_shield_
 
 Staff of Mithral Might
 
@@ -825,16 +825,16 @@ Staff of Mithral Might
 
 This staff is made of silver, with a shimmering sphere of mithral at either end. One end features a golden snake wrapped around the staff and cradling the larger of these two mithral spheres. The staff may be used as a weapon, functioning as a _+2/+2 quarterstaff_. It also grants a +2 enhancement bonus to Intelligence to whoever possesses it. These two attributes continue to function after all the charges are expended. It allows the use of the following spells:
 
-- _ [Bull's strength](spells/bullSStrength#_bull-s-strength)_ (1 charge)
-- _ [Enlarge person](spells/enlargePerson#_enlarge-person) _(1 charge)
-- _ [Telekinesis](spells/telekinesis#_telekinesis)_ (3 charges)
-- _ [Flesh to stone](spells/fleshToStone#_flesh-to-stone)_ (4 charges)
+- _ [Bull's strength](spell_dir/bullSStrength#_bull-s-strength)_ (1 charge
+- _ [Enlarge person](spell_dir/enlargePerson#_enlarge-person) _(1 charge
+- _ [Telekinesis](spell_dir/telekinesis#_telekinesis)_ (3 charges
+- _ [Flesh to stone](spell_dir/fleshToStone#_flesh-to-stone)_ (4 charges)
 
 Construction Requirements
 
 **Cost** 29,300 gp
 
-Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff), _ [bull's strength](spells/bullSStrength#_bull-s-strength)_,_ [enlarge person](spells/enlargePerson#_enlarge-person)_,_ [flesh to stone](spells/fleshToStone#_flesh-to-stone)_,_ [fox's cunning](spells/foxSCunning#_fox-s-cunning)_,_ [telekinesis](spells/telekinesis#_telekinesis)_
+Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff, _ [bull's strength](spell_dir/bullSStrength#_bull-s-strength_,_ [enlarge person](spell_dir/enlargePerson#_enlarge-person_,_ [flesh to stone](spell_dir/fleshToStone#_flesh-to-stone_,_ [fox's cunning](spell_dir/foxSCunning#_fox-s-cunning_,_ [telekinesis](spell_dir/telekinesis#_telekinesis_
 
 Staff of Necromancy
 
@@ -842,18 +842,18 @@ Staff of Necromancy
 
 This staff is made from ebony or other dark wood and carved with images of bones and skulls mingled with strange spidery runes. It allows use of the following spells:
 
-- _ [Cause fear](spells/causeFear#_cause-fear)_ (1 charge)
-- _ [Ghoul touch](spells/ghoulTouch#_ghoul-touch)_ (1 charge)
-- _ [Halt undead](spells/haltUndead#_halt-undead-copy)_ (1 charge)
-- _ [Enervation](spells/enervation#_enervation)_ (2 charges)
-- _ [Waves of fatigue](spells/wavesOfFatigue#_waves-of-fatigue)_ (2 charges)
-- _ [Circle of death](spells/circleOfDeath#_circle-of-death)_ (3 charges)
+- _ [Cause fear](spell_dir/causeFear#_cause-fear)_ (1 charge
+- _ [Ghoul touch](spell_dir/ghoulTouch#_ghoul-touch)_ (1 charge
+- _ [Halt undead](spell_dir/haltUndead#_halt-undead-copy)_ (1 charge
+- _ [Enervation](spell_dir/enervation#_enervation)_ (2 charges
+- _ [Waves of fatigue](spell_dir/wavesOfFatigue#_waves-of-fatigue)_ (2 charges
+- _ [Circle of death](spell_dir/circleOfDeath#_circle-of-death)_ (3 charges
 
 Construction Requirements
 
 **Cost** 41,000 gp
 
-Craft Staff, _ [cause fear](spells/causeFear#_cause-fear)_,_ [circle of death](spells/circleOfDeath#_circle-of-death)_,_ [enervation](spells/enervation#_enervation)_,_ [ghoul touch](spells/ghoulTouch#_ghoul-touch)_,_ [halt undead](spells/haltUndead#_halt-undead-copy)_,_ [waves of fatigue](spells/wavesOfFatigue#_waves-of-fatigue)_
+Craft Staff, _ [cause fear](spell_dir/causeFear#_cause-fear_,_ [circle of death](spell_dir/circleOfDeath#_circle-of-death_,_ [enervation](spell_dir/enervation#_enervation_,_ [ghoul touch](spell_dir/ghoulTouch#_ghoul-touch_,_ [halt undead](spell_dir/haltUndead#_halt-undead-copy_,_ [waves of fatigue](spell_dir/wavesOfFatigue#_waves-of-fatigue_
 
 Staff of Obstacles
 
@@ -861,18 +861,18 @@ Staff of Obstacles
 
 Dark and solid, this worn staff appears to be carved of rough stone, yet feels and weighs like light wood. It allows use of the following spells:
 
-- _ [Arcane lock](spells/arcaneLock#_arcane-lock)_ (1 charge)
-- _ [Grease](spells/grease#_grease)_ (1 charge)
-- _ [Wind wall](spells/windWall#_wind-wall)_ (1 charge)
-- _ [Wall of fire](spells/wallOfFire#_wall-of-fire)_ (2 charges)
-- _ [Wall of ice](spells/wallOfIce#_wall-of-ice)_ (2 charges)
-- _ [Wall of stone](spells/wallOfStone#_wall-of-stone)_ (3 charges)
+- _ [Arcane lock](spell_dir/arcaneLock#_arcane-lock)_ (1 charge
+- _ [Grease](spell_dir/grease#_grease)_ (1 charge
+- _ [Wind wall](spell_dir/windWall#_wind-wall)_ (1 charge
+- _ [Wall of fire](spell_dir/wallOfFire#_wall-of-fire)_ (2 charges
+- _ [Wall of ice](spell_dir/wallOfIce#_wall-of-ice)_ (2 charges
+- _ [Wall of stone](spell_dir/wallOfStone#_wall-of-stone)_ (3 charges
 
 Construction Requirements
 
 **Cost** 25,800 gp
 
-Craft Staff, _ [arcane lock](spells/arcaneLock#_arcane-lock)_, _ [grease](spells/grease#_grease)_, _ [wall of fire](spells/wallOfFire#_wall-of-fire)_, _ [wall of ice](spells/wallOfIce#_wall-of-ice)_, _ [wall of stone](spells/wallOfStone#_wall-of-stone)_, _ [wind wall](spells/windWall#_wind-wall)_
+Craft Staff, _ [arcane lock](spell_dir/arcaneLock#_arcane-lock_, _ [grease](spell_dir/grease#_grease_, _ [wall of fire](spell_dir/wallOfFire#_wall-of-fire_, _ [wall of ice](spell_dir/wallOfIce#_wall-of-ice_, _ [wall of stone](spell_dir/wallOfStone#_wall-of-stone_, _ [wind wall](spell_dir/windWall#_wind-wall_
 
 Staff of one hundred hands
 
@@ -880,19 +880,19 @@ Staff of one hundred hands
 
 Sculpted into the shape of dozens of grasping, distorted hands, this staff appears to be carved entirely from one piece of clear crystal. When held, the hands that form the staff distort to resemble the gloves or hands of the person holding it. It allows the use of the following spells:
 
-- _ [Forceful hand](spells/forcefulHand#_forceful-hand)_ (1 charge)
-- _ [Interposing hand](spells/interposingHand#_interposing-hand)_ (1 charge)
-- _ [Clenched fist](spells/clenchedFist#_clenched-fist)_ (2 charges)
-- _ [Grasping hand](spells/graspingHand#_grasping-hand)_ (2 charges)
-- _ [Crushing hand](spells/crushingHand#_crushing-hand)_ (3 charges)
+- _ [Forceful hand](spell_dir/forcefulHand#_forceful-hand)_ (1 charge
+- _ [Interposing hand](spell_dir/interposingHand#_interposing-hand)_ (1 charge
+- _ [Clenched fist](spell_dir/clenchedFist#_clenched-fist)_ (2 charges
+- _ [Grasping hand](spell_dir/graspingHand#_grasping-hand)_ (2 charges
+- _ [Crushing hand](spell_dir/crushingHand#_crushing-hand)_ (3 charges
 
-This staff also allows the wielder to use _ [mage hand](spells/mageHand#_mage-hand)_ at will.
+This staff also allows the wielder to use _ [mage hand](spell_dir/mageHand#_mage-hand_ at will.
 
 Construction Requirements
 
 **Cost** 90,100 gp
 
-Craft Staff, _ [clenched fist](spells/clenchedFist#_clenched-fist), [crushing hand](spells/crushingHand#_crushing-hand), [forceful hand](spells/forcefulHand#_forceful-hand), [grasping hand](spells/graspingHand#_grasping-hand), [interposing hand](spells/interposingHand#_interposing-hand)_, _ [mage hand](spells/mageHand#_mage-hand)_
+Craft Staff, _ [clenched fist](spell_dir/clenchedFist#_clenched-fist, [crushing hand](spell_dir/crushingHand#_crushing-hand, [forceful hand](spell_dir/forcefulHand#_forceful-hand, [grasping hand](spell_dir/graspingHand#_grasping-hand, [interposing hand](spell_dir/interposingHand#_interposing-hand_, _ [mage hand](spell_dir/mageHand#_mage-hand_
 
 Staff of Passage
 
@@ -900,17 +900,17 @@ Staff of Passage
 
 This potent item allows use of the following spells:
 
-- _ [Dimension door](spells/dimensionDoor#_dimension-door)_ (1 charge)
-- _ [Passwall](spells/passwall#_passwall)_ (1 charge)
-- _ [Astral projection](spells/astralProjection#_astral-projection)_ (2 charges)
-- _ [Greater teleport](spells/teleport#_teleport-greater)_ (2 charges)
-- _ [Phase door](spells/phaseDoor#_phase-door)_ (2 charges)
+- _ [Dimension door](spell_dir/dimensionDoor#_dimension-door)_ (1 charge
+- _ [Passwall](spell_dir/passwall#_passwall)_ (1 charge
+- _ [Astral projection](spell_dir/astralProjection#_astral-projection)_ (2 charges
+- _ [Greater teleport](spell_dir/teleport#_teleport-greater)_ (2 charges
+- _ [Phase door](spell_dir/phaseDoor#_phase-door)_ (2 charges
 
 Construction Requirements
 
 **Cost** 115,950 gp
 
-Craft Staff, _ [astral projection](spells/astralProjection#_astral-projection)_,_ [dimension door](spells/dimensionDoor#_dimension-door)_,_ [greater teleport](spells/teleport#_teleport-greater)_,_ [passwall](spells/passwall#_passwall)_,_ [phase door](spells/phaseDoor#_phase-door)_
+Craft Staff, _ [astral projection](spell_dir/astralProjection#_astral-projection_,_ [dimension door](spell_dir/dimensionDoor#_dimension-door_,_ [greater teleport](spell_dir/teleport#_teleport-greater_,_ [passwall](spell_dir/passwall#_passwall_,_ [phase door](spell_dir/phaseDoor#_phase-door_
 
 Staff of Performance
 
@@ -918,19 +918,19 @@ Staff of Performance
 
 Soon after falling into the hands of a new owner, this piece of finely varnished cedar develops ornamental brass keys, strings, or other decorations that make it look like a stylized version of its owner's favorite type of musical instrument. It allows use of the following spells:
 
-- _ [Calm emotions](spells/calmEmotions#_calm-emotions)_ (1 charge)
-- _ [Glibness](spells/glibness#_glibness)_ (1 charge)
-- _ [Hypnotic pattern](spells/hypnoticPattern#_hypnotic-pattern)_ (1 charge)
-- _ [Pyrotechnics](spells/pyrotechnics#_pyrotechnics)_ (1 charge)
-- _ [Enthrall](spells/enthrall#_enthrall)_ (2 charges)
-- _ [Major image](spells/majorImage#_major-image)_ (2 charges)
-- _ [Sculpt sound](spells/sculptSound#_sculpt-sound)_ (2 charges)
+- _ [Calm emotions](spell_dir/calmEmotions#_calm-emotions)_ (1 charge
+- _ [Glibness](spell_dir/glibness#_glibness)_ (1 charge
+- _ [Hypnotic pattern](spell_dir/hypnoticPattern#_hypnotic-pattern)_ (1 charge
+- _ [Pyrotechnics](spell_dir/pyrotechnics#_pyrotechnics)_ (1 charge
+- _ [Enthrall](spell_dir/enthrall#_enthrall)_ (2 charges
+- _ [Major image](spell_dir/majorImage#_major-image)_ (2 charges
+- _ [Sculpt sound](spell_dir/sculptSound#_sculpt-sound)_ (2 charges
 
 Construction Requirements
 
 **Cost** 24,400 gp
 
-Craft Staff, _ [calm emotions](spells/calmEmotions#_calm-emotions)_, _ [enthrall](spells/enthrall#_enthrall)_, _ [glibness](spells/glibness#_glibness)_, _ [hypnotic pattern](spells/hypnoticPattern#_hypnotic-pattern)_, _ [major image](spells/majorImage#_major-image)_, _ [pyrotechnics](spells/pyrotechnics#_pyrotechnics)_, _ [sculpt sound](spells/sculptSound#_sculpt-sound)_
+Craft Staff, _ [calm emotions](spell_dir/calmEmotions#_calm-emotions_, _ [enthrall](spell_dir/enthrall#_enthrall_, _ [glibness](spell_dir/glibness#_glibness_, _ [hypnotic pattern](spell_dir/hypnoticPattern#_hypnotic-pattern_, _ [major image](spell_dir/majorImage#_major-image_, _ [pyrotechnics](spell_dir/pyrotechnics#_pyrotechnics_, _ [sculpt sound](spell_dir/sculptSound#_sculpt-sound_
 
 Staff of Power
 
@@ -938,16 +938,16 @@ Staff of Power
 
 A _staff of power _is a potent magic item with varied offensive and defensive abilities, carved from magically hardened wood. It is usually topped with a glistening gem or orb that burns from within with a flickering red light. The staff allows the use of the following spells:
 
-- _ [Continual flame](spells/continualFlame#_continual-flame) _(1 charge)
-- _ [Fireball](spells/fireball#_fireball)_ (heightened to 5th level, 1 charge)
-- _ [Levitate](spells/levitate#_levitate)_ (1 charge)
-- _ [Lightning bolt](spells/lightningBolt#_lightning-bolt)_ (heightened to 5th level, 1 charge)
-- _ [Magic missile](spells/magicMissile#_magic-missile)_ (1 charge)
-- _ [Ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_ (heightened to 5th level, 1 charge)
-- _ [Cone of cold](spells/coneOfCold#_cone-of-cold)_ (2 charges)
-- _ [Globe of invulnerability](spells/globeOfInvulnerability#_globe-of-invulnerability)_ (2 charges)
-- _ [Hold monster](spells/holdMonster#_hold-monster)_ (2 charges)
-- _ [Wall of force](spells/wallOfForce#_wall-of-force)_ (in a 10-ft.-diameter hemisphere around the caster only, 2 charges)
+- _ [Continual flame](spell_dir/continualFlame#_continual-flame) _(1 charge
+- _ [Fireball](spell_dir/fireball#_fireball)_ (heightened to 5th level, 1 charge
+- _ [Levitate](spell_dir/levitate#_levitate)_ (1 charge
+- _ [Lightning bolt](spell_dir/lightningBolt#_lightning-bolt)_ (heightened to 5th level, 1 charge
+- _ [Magic missile](spell_dir/magicMissile#_magic-missile)_ (1 charge
+- _ [Ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (heightened to 5th level, 1 charge
+- _ [Cone of cold](spell_dir/coneOfCold#_cone-of-cold)_ (2 charges
+- _ [Globe of invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability)_ (2 charges
+- _ [Hold monster](spell_dir/holdMonster#_hold-monster)_ (2 charges
+- _ [Wall of force](spell_dir/wallOfForce#_wall-of-force)_ (in a 10-ft.-diameter hemisphere around the caster only, 2 charges)
 
 The wielder of a _staff of power _gains a +2 luck bonus to AC and on saving throws. The staff is also a _+2 quarterstaff_, and its wielder may use it to smite opponents. If 1 charge is expended (a free action), the staff deals double damage (×3 on a critical hit) for 1 round.
 
@@ -959,23 +959,23 @@ Construction Requirements
 
 **Cost** 117,500 gp
 
-Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff), _ [cone of cold](spells/coneOfCold#_cone-of-cold)_,_ [continual flame](spells/continualFlame#_continual-flame)_, heightened _ [fireball](spells/fireball#_fireball)_,_ [globe of invulnerability](spells/globeOfInvulnerability#_globe-of-invulnerability)_,_ [hold monster](spells/holdMonster#_hold-monster)_,_ [levitate](spells/levitate#_levitate)_, heightened _ [lightning bolt](spells/lightningBolt#_lightning-bolt)_,_ [magic missile](spells/magicMissile#_magic-missile)_, heightened _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_,_ [wall of force](spells/wallOfForce#_wall-of-force)_
+Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff, _ [cone of cold](spell_dir/coneOfCold#_cone-of-cold_,_ [continual flame](spell_dir/continualFlame#_continual-flame_, heightened _ [fireball](spell_dir/fireball#_fireball_,_ [globe of invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability_,_ [hold monster](spell_dir/holdMonster#_hold-monster_,_ [levitate](spell_dir/levitate#_levitate_, heightened _ [lightning bolt](spell_dir/lightningBolt#_lightning-bolt_,_ [magic missile](spell_dir/magicMissile#_magic-missile_, heightened _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement_,_ [wall of force](spell_dir/wallOfForce#_wall-of-force_
 
 Staff of Radiance
 
 **Price** 23,200 gp; **Aura** moderate evocation; **CL** 8th; **Weight** 5 lbs.
 
-This silver-tipped willow staff constantly emits light, as if from a _ [light](spells/light#_light)_ spell—the radiance is emitted from the staff's metallic end and flickers as if with flame. The staff's wielder can deactivate or activate this glowing light as a swift action. In addition, a _staff of radiance_ allows use of the following spells:
+This silver-tipped willow staff constantly emits light, as if from a _ [light](spell_dir/light#_light_ spell—the radiance is emitted from the staff's metallic end and flickers as if with flame. The staff's wielder can deactivate or activate this glowing light as a swift action. In addition, a _staff of radiance_ allows use of the following spells:
 
-- _ [Glitterdust](spells/glitterdust#_glitterdust)_ (1 charge)
-- _ [Daylight](spells/daylight#_daylight)_ (2 charges)
-- _ [Searing light](spells/searingLight#_searing-light)_ (2 charges)
+- _ [Glitterdust](spell_dir/glitterdust#_glitterdust)_ (1 charge
+- _ [Daylight](spell_dir/daylight#_daylight)_ (2 charges
+- _ [Searing light](spell_dir/searingLight#_searing-light)_ (2 charges
 
 Construction Requirements
 
 **Cost** 11,600 gp
 
-Craft Staff, _ [daylight](spells/daylight#_daylight), [glitterdust](spells/glitterdust#_glitterdust), [light](spells/light#_light), [searing light](spells/searingLight#_searing-light)_
+Craft Staff, _ [daylight](spell_dir/daylight#_daylight, [glitterdust](spell_dir/glitterdust#_glitterdust, [light](spell_dir/light#_light, [searing light](spell_dir/searingLight#_searing-light_
 
 Staff of Revelations
 
@@ -983,16 +983,16 @@ Staff of Revelations
 
 The forked top of this walnut shaft resembles a combination of a dowsing rod and the curled horns of a beast, and a delicate gemstone hovers between its enfolding arms. The staff allows use of the following spells:
 
-- _ [Augury](spells/augury#_augury)_ (1 charge)
-- _ [Speak with dead](spells/speakWithDead#_speak-with-dead)_ (1 charge)
-- _ [Divination](spells/divination#_divination)_ (2 charges)
-- _ [Commune](spells/commune#_commune)_ (3 charges)
+- _ [Augury](spell_dir/augury#_augury)_ (1 charge
+- _ [Speak with dead](spell_dir/speakWithDead#_speak-with-dead)_ (1 charge
+- _ [Divination](spell_dir/divination#_divination)_ (2 charges
+- _ [Commune](spell_dir/commune#_commune)_ (3 charges
 
 Construction Requirements
 
 **Cost** 30,608 gp
 
-Craft Staff, _ [augury](spells/augury#_augury)_, _ [commune](spells/commune#_commune)_, _ [divination](spells/divination#_divination)_, _ [speak with dead](spells/speakWithDead#_speak-with-dead)_
+Craft Staff, _ [augury](spell_dir/augury#_augury_, _ [commune](spell_dir/commune#_commune_, _ [divination](spell_dir/divination#_divination_, _ [speak with dead](spell_dir/speakWithDead#_speak-with-dead)_
 
 Staff of Rigor
 
@@ -1000,17 +1000,17 @@ Staff of Rigor
 
 This iron-shod wood staff allows use of the following spells:
 
-- _bane_ (1 charge)
-- _ [Cause fear](spells/causeFear#_cause-fear)_ (1 charge)
-- _ [Command](spells/command#_command)_ (1 charge)
-- _ [Magic weapon](spells/magicWeapon#_magic-weapon)_ (1 charge)
-- _ [Align weapon](spells/alignWeapon#_align-weapon)_ (2 charges)
+- _bane_ (1 charge
+- _ [Cause fear](spell_dir/causeFear#_cause-fear)_ (1 charge
+- _ [Command](spell_dir/command#_command)_ (1 charge
+- _ [Magic weapon](spell_dir/magicWeapon#_magic-weapon)_ (1 charge
+- _ [Align weapon](spell_dir/alignWeapon#_align-weapon)_ (2 charges
 
 Construction Requirements
 
 **Cost** 10,400 gp
 
-Craft Staff, _ [align weapon](spells/alignWeapon#_align-weapon)_, _bane_, _ [cause fear](spells/causeFear#_cause-fear)_, _ [command](spells/command#_command)_, _ [magic weapon](spells/magicWeapon#_magic-weapon)_
+Craft Staff, _ [align weapon](spell_dir/alignWeapon#_align-weapon_, _bane_, _ [cause fear](spell_dir/causeFear#_cause-fear_, _ [command](spell_dir/command#_command_, _ [magic weapon](spell_dir/magicWeapon#_magic-weapon_
 
 Staff of Shrieking
 
@@ -1018,15 +1018,15 @@ Staff of Shrieking
 
 Holes in this metal shaft cause it to emit an eerie moan when swung through the air. It allows use of the following spells:
 
-- _ [Shatter](spells/shatter#_shatter)_ (1 charge)
-- _ [Sound burst](spells/soundBurst#_sound-burst)_ (1 charge)
-- _ [Shout](spells/shout#_shout)_ (2 charges)
+- _ [Shatter](spell_dir/shatter#_shatter)_ (1 charge
+- _ [Sound burst](spell_dir/soundBurst#_sound-burst)_ (1 charge
+- _ [Shout](spell_dir/shout#_shout)_ (2 charges
 
 Construction Requirements
 
 **Cost** 14,400 gp
 
-Craft Staff, _ [shatter](spells/shatter#_shatter)_, _ [shout](spells/shout#_shout)_, _ [sound burst](spells/soundBurst#_sound-burst)_
+Craft Staff, _ [shatter](spell_dir/shatter#_shatter_, _ [shout](spell_dir/shout#_shout_, _ [sound burst](spell_dir/soundBurst#_sound-burst_
 
 Staff of Size Alteration
 
@@ -1034,17 +1034,17 @@ Staff of Size Alteration
 
 This staff of dark wood is stouter and sturdier than most magical staves, with a gnarled and twisted knot of wood at the top end. It allows use of the following spells:
 
-- _ [Enlarge person](spells/enlargePerson#_enlarge-person)_ (1 charge)
-- _ [Reduce person](spells/reducePerson#_reduce-person)_ (1 charge)
-- _ [Shrink item](spells/shrinkItem#_shrink-item)_ (2 charges)
-- _ [Mass enlarge person](spells/enlargePerson#_enlarge-person-mass) _(3 charges)
-- _ [Mass reduce person](spells/reducePerson#_reduce-person-mass)_ (3 charges)
+- _ [Enlarge person](spell_dir/enlargePerson#_enlarge-person)_ (1 charge
+- _ [Reduce person](spell_dir/reducePerson#_reduce-person)_ (1 charge
+- _ [Shrink item](spell_dir/shrinkItem#_shrink-item)_ (2 charges
+- _ [Mass enlarge person](spell_dir/enlargePerson#_enlarge-person-mass) _(3 charges
+- _ [Mass reduce person](spell_dir/reducePerson#_reduce-person-mass)_ (3 charges
 
 Construction Requirements
 
 **Cost** 13,075 gp
 
-Craft Staff, _ [enlarge person](spells/enlargePerson#_enlarge-person)_,_ [mass enlarge person](spells/enlargePerson#_enlarge-person-mass)_,_ [mass reduce person](spells/reducePerson#_reduce-person-mass)_,_ [reduce person](spells/reducePerson#_reduce-person)_,_ [shrink item](spells/shrinkItem#_shrink-item)_
+Craft Staff, _ [enlarge person](spell_dir/enlargePerson#_enlarge-person_,_ [mass enlarge person](spell_dir/enlargePerson#_enlarge-person-mass_,_ [mass reduce person](spell_dir/reducePerson#_reduce-person-mass_,_ [reduce person](spell_dir/reducePerson#_reduce-person_,_ [shrink item](spell_dir/shrinkItem#_shrink-item_
 
 Staff of Slumber
 
@@ -1052,18 +1052,18 @@ Staff of Slumber
 
 Smoky spirals adorn the length of this staff, and have an almost hypnotic effect. The staff allows use of the following spells:
 
-- _ [Deep slumber](spells/deepSlumber#_deep-slumber)_ (1 charge)
-- _ [Ray of exhaustion](spells/rayOfExhaustion#_ray-of-exhaustion)_ (1 charge)
-- _ [Dream](spells/dream#_dream)_ (2 charges)
-- _ [Nightmare](spells/nightmare#_nightmare)_ (2 charges)
-- _ [Waves of fatigue](spells/wavesOfFatigue#_waves-of-fatigue)_ (2 charges)
-- _ [Symbol of sleep](spells/symbolOfSleep#_symbol-of-sleep)_ (3 charges)
+- _ [Deep slumber](spell_dir/deepSlumber#_deep-slumber)_ (1 charge
+- _ [Ray of exhaustion](spell_dir/rayOfExhaustion#_ray-of-exhaustion)_ (1 charge
+- _ [Dream](spell_dir/dream#_dream)_ (2 charges
+- _ [Nightmare](spell_dir/nightmare#_nightmare)_ (2 charges
+- _ [Waves of fatigue](spell_dir/wavesOfFatigue#_waves-of-fatigue)_ (2 charges
+- _ [Symbol of sleep](spell_dir/symbolOfSleep#_symbol-of-sleep)_ (3 charges
 
 Construction Requirements
 
 **Cost** 40,883 gp
 
-Craft Staff, _ [deep slumber](spells/deepSlumber#_deep-slumber)_, _ [dream](spells/dream#_dream)_, _ [nightmare](spells/nightmare#_nightmare)_, _ [symbol of sleep](spells/symbolOfSleep#_symbol-of-sleep)_, _ [ray of exhaustion](spells/rayOfExhaustion#_ray-of-exhaustion)_, _ [waves of fatigue](spells/wavesOfFatigue#_waves-of-fatigue)_
+Craft Staff, _ [deep slumber](spell_dir/deepSlumber#_deep-slumber_, _ [dream](spell_dir/dream#_dream_, _ [nightmare](spell_dir/nightmare#_nightmare_, _ [symbol of sleep](spell_dir/symbolOfSleep#_symbol-of-sleep_, _ [ray of exhaustion](spell_dir/rayOfExhaustion#_ray-of-exhaustion_, _ [waves of fatigue](spell_dir/wavesOfFatigue#_waves-of-fatigue_
 
 Staff of Souls
 
@@ -1071,17 +1071,17 @@ Staff of Souls
 
 This ominous staff is made of twisting wood and topped with a small skull. It allows use of the following spells:
 
-- _ [Deathwatch](spells/deathwatch#_deathwatch)_ (1 charge)
-- _ [Detect undead](spells/detectUndead#_detect-undead)_ (1 charge)
-- _ [Gentle repose](spells/gentleRepose#_gentle-repose)_ (1 charge)
-- _ [Death ward](spells/deathWard#_death-ward)_ (2 charges)
-- _ [Speak with dead](spells/speakWithDead#_speak-with-dead)_ (2 charges)
+- _ [Deathwatch](spell_dir/deathwatch#_deathwatch)_ (1 charge
+- _ [Detect undead](spell_dir/detectUndead#_detect-undead)_ (1 charge
+- _ [Gentle repose](spell_dir/gentleRepose#_gentle-repose)_ (1 charge
+- _ [Death ward](spell_dir/deathWard#_death-ward)_ (2 charges
+- _ [Speak with dead](spell_dir/speakWithDead#_speak-with-dead)_ (2 charges
 
 Construction Requirements
 
 **Cost** 16,400 gp
 
-Craft Staff, _ [death ward](spells/deathWard#_death-ward)_, _ [deathwatch](spells/deathwatch#_deathwatch)_, _ [detect undead](spells/detectUndead#_detect-undead)_, _ [gentle repose](spells/gentleRepose#_gentle-repose)_, _ [speak with dead](spells/speakWithDead#_speak-with-dead)_
+Craft Staff, _ [death ward](spell_dir/deathWard#_death-ward_, _ [deathwatch](spell_dir/deathwatch#_deathwatch_, _ [detect undead](spell_dir/detectUndead#_detect-undead_, _ [gentle repose](spell_dir/gentleRepose#_gentle-repose_, _ [speak with dead](spell_dir/speakWithDead#_speak-with-dead_
 
 Staff of Speaking
 
@@ -1089,17 +1089,17 @@ Staff of Speaking
 
 When the wielder of this hollow wooden staff speaks or shouts, it reverberates with the sound of her voice, lending a booming insistence to her words. It allows the use of the following spells:
 
-- _ [Suggestion](spells/suggestion#_suggestion)_ (1 charge)
-- _ [Tongues](spells/tongues#_tongues)_ (1 charge)
-- _ [Denounce](advanced/spells/denounce#_denounce)_ (2 charges)
-- _ [Glibness](spells/glibness#_glibness)_ (2 charges)
-- _ [Mass suggestion](spells/suggestion#_suggestion-mass)_ (4 charges)
+- _ [Suggestion](spell_dir/suggestion#_suggestion)_ (1 charge
+- _ [Tongues](spell_dir/tongues#_tongues)_ (1 charge
+- _ [Denounce](advanced/spell_dir/denounce#_denounce)_ (2 charges
+- _ [Glibness](spell_dir/glibness#_glibness)_ (2 charges
+- _ [Mass suggestion](spell_dir/suggestion#_suggestion-mass)_ (4 charges
 
 Construction Requirements
 
 **Cost** 19,800 gp
 
-Craft Staff, _ [denounce](advanced/spells/denounce#_denounce), [glibness](spells/glibness#_glibness), [mass suggestion](spells/suggestion#_suggestion-mass), [suggestion](spells/suggestion#_suggestion), [tongues](spells/tongues#_tongues)_
+Craft Staff, _ [denounce](advanced/spell_dir/denounce#_denounce, [glibness](spell_dir/glibness#_glibness, [mass suggestion](spell_dir/suggestion#_suggestion-mass, [suggestion](spell_dir/suggestion#_suggestion, [tongues](spell_dir/tongues#_tongues_
 
 Staff of Spiders
 
@@ -1107,15 +1107,15 @@ Staff of Spiders
 
 This staff is constructed from thousands of carefully prepared spiderwebs packed around a base and layered to make a shaft just as hard as oak, if not harder. A _staff of spiders_ functions as a _+1/+1 quarterstaff_. It allows the use of the following spells:
 
-- _ [Spider climb](spells/spiderClimb#_spider-climb)_ (1 charge)
-- _ [Web](spells/web#_web)_ (1 charge)
-- Summon spider (as _ [summon monster III](spells/summonMonster#_summon-monster-iii)_, but only summons 1d3 giant spiders; 2 charges)
+- _ [Spider climb](spell_dir/spiderClimb#_spider-climb)_ (1 charge
+- _ [Web](spell_dir/web#_web)_ (1 charge
+- Summon spider (as _ [summon monster III](spell_dir/summonMonster#_summon-monster-iii)_, but only summons 1d3 giant spiders; 2 charges)
 
 Construction Requirements
 
 **Cost** 15,400 gp
 
-Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff), _ [spider climb](spells/spiderClimb#_spider-climb), [summon monster III](spells/summonMonster#_summon-monster-iii), [web](spells/web#_web)_
+Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff, _ [spider climb](spell_dir/spiderClimb#_spider-climb, [summon monster III](spell_dir/summonMonster#_summon-monster-iii, [web](spell_dir/web#_web_
 
 Staff of Stealth
 
@@ -1123,31 +1123,31 @@ Staff of Stealth
 
 This twisted, dark gray staff allows use of the following spells:
 
-- _ [Disguise](skills/disguise#_disguise) self_ (1 charge)
-- _ [Invisibility](spells/invisibility#_invisibility)_ (1 charge)
-- _ [Nondetection](spells/nondetection#_nondetection)_ (1 charge)
-- _ [Greater invisibility](spells/invisibility#_invisibility-greater)_ (2 charges)
+- _ [Disguise](skill_dir/disguise#_disguise) self_ (1 charge
+- _ [Invisibility](spell_dir/invisibility#_invisibility)_ (1 charge
+- _ [Nondetection](spell_dir/nondetection#_nondetection)_ (1 charge
+- _ [Greater invisibility](spell_dir/invisibility#_invisibility-greater)_ (2 charges
 
 Construction Requirements
 
 **Cost** 18,400 gp
 
-Craft Staff, _ [disguise self](spells/disguiseSelf#_disguise-self)_, _ [greater invisibility](spells/invisibility#_invisibility-greater)_, _ [invisibility](spells/invisibility#_invisibility)_, _ [nondetection](spells/nondetection#_nondetection)_
+Craft Staff, _ [disguise self](spell_dir/disguiseSelf#_disguise-self_, _ [greater invisibility](spell_dir/invisibility#_invisibility-greater_, _ [invisibility](spell_dir/invisibility#_invisibility_, _ [nondetection](spell_dir/nondetection#_nondetection)_
 
 Staff of Swarming Insects
 
 **Price** 22,800 gp; **Aura** moderate conjuration; **CL** 9th; **Weight** 5 lbs.
 
-Made of twisted darkwood covered with knots and nodules resembling crawling insects (which occasionally seem to move), this staff allows use of the following spells:
+Made of twisted darkwood covered with knots and nodules resembling crawling insects (which occasionally seem to move, this staff allows use of the following spells:
 
-- _ [Summon swarm](spells/summonSwarm#_summon-swarm)_ (1 charge)
-- _ [Insect plague](spells/insectPlague#_insect-plague)_ (3 charges)
+- _ [Summon swarm](spell_dir/summonSwarm#_summon-swarm)_ (1 charge
+- _ [Insect plague](spell_dir/insectPlague#_insect-plague)_ (3 charges
 
 Construction Requirements
 
 **Cost** 11,400 gp
 
-Craft Staff, _ [insect plague](spells/insectPlague#_insect-plague)_,_ [summon swarm](spells/summonSwarm#_summon-swarm)_
+Craft Staff, _ [insect plague](spell_dir/insectPlague#_insect-plague_,_ [summon swarm](spell_dir/summonSwarm#_summon-swarm_
 
 Staff of the Avenger
 
@@ -1155,16 +1155,16 @@ Staff of the Avenger
 
 This shining golden staff is topped with a radiant gemstone that emits light like a torch. As a swift action, the wielder of the staff can cause it to change into a _+2 lance_, although it retains its other abilities. It can be made to revert to its staff form as a free action. The staff allows use of the following spells:
 
-- _ [Bless weapon](spells/blessWeapon#_bless-weapon) _(1 charge, cast on the staff only)
-- _ [Shield other](spells/shieldOther#_shield-other)_ (1 charge)
-- _ [Discern lies](spells/discernLies#_discern-lies) _(2 charges)
-- _ [Holy sword](spells/holySword#_holy-sword) _(4 charges, cast on the staff only)
+- _ [Bless weapon](spell_dir/blessWeapon#_bless-weapon) _(1 charge, cast on the staff only
+- _ [Shield other](spell_dir/shieldOther#_shield-other)_ (1 charge
+- _ [Discern lies](spell_dir/discernLies#_discern-lies) _(2 charges
+- _ [Holy sword](spell_dir/holySword#_holy-sword) _(4 charges, cast on the staff only)
 
 Construction Requirements
 
 **Cost** 18,810 gp
 
-Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff), _ [bless weapon](spells/blessWeapon#_bless-weapon)_, _ [discern lies](spells/discernLies#_discern-lies)_, _ [holy sword](spells/holySword#_holy-sword)_, _ [shield other](spells/shieldOther#_shield-other)_
+Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff, _ [bless weapon](spell_dir/blessWeapon#_bless-weapon_, _ [discern lies](spell_dir/discernLies#_discern-lies_, _ [holy sword](spell_dir/holySword#_holy-sword_, _ [shield other](spell_dir/shieldOther#_shield-other_
 
 Staff of the Hierophant
 
@@ -1172,26 +1172,26 @@ Staff of the Hierophant
 
 The _staff of the hierophant _is a powerful magic item with the ability to both heal and harm, which also gives its wielder a number of protections. The staff is crafted from platinum and topped with a glowing blue diamond. The staff allows the use of the following spells:
 
-- _ [Bless](spells/bless#_bless) _(1 charge)
-- _ [Cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_ (1 charge)
-- _ [Freedom of movement](spells/freedomOfMovement#_freedom-of-movement) _(1 charge)
-- _ [Hold person](spells/holdPerson#_hold-person)_ (heightened to 5th level, 1 charge)
-- _ [Prayer](spells/prayer#_prayer)_ (1 charge)
-- _ [Searing light](spells/searingLight#_searing-light)_ (1 charge)
-- _ [Cure critical wounds](spells/cureCriticalWounds#_cure-critical-wounds)_ (2 charges)
-- _ [Flame strike](spells/flameStrike#_flame-strike)_ (2 charges)
-- _ [Righteous might](spells/righteousMight#_righteous-might)_ (2 charges)
-- _ [True seeing](spells/trueSeeing#_true-seeing)_ (2 charges)
+- _ [Bless](spell_dir/bless#_bless) _(1 charge
+- _ [Cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds)_ (1 charge
+- _ [Freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement) _(1 charge
+- _ [Hold person](spell_dir/holdPerson#_hold-person)_ (heightened to 5th level, 1 charge
+- _ [Prayer](spell_dir/prayer#_prayer)_ (1 charge
+- _ [Searing light](spell_dir/searingLight#_searing-light)_ (1 charge
+- _ [Cure critical wounds](spell_dir/cureCriticalWounds#_cure-critical-wounds)_ (2 charges
+- _ [Flame strike](spell_dir/flameStrike#_flame-strike)_ (2 charges
+- _ [Righteous might](spell_dir/righteousMight#_righteous-might)_ (2 charges
+- _ [True seeing](spell_dir/trueSeeing#_true-seeing)_ (2 charges
 
 The wielder of a _staff of the hierophant _gains a +2 luck bonus to AC and on saving throws. The staff is also a _+2/+2 quarterstaff_, and its wielder may use it to smite opponents. If 1 charge is expended (as a free action), the staff deals double damage (×3 on a critical hit) for 1 round.
 
-A _staff of the hierophant _can be used to restore the life of a dead creature by calling upon the wielder's deity to take the staff as a blessing. This causes the staff to vanish, but restores life to any one dead creature as if casting _ [true resurrection](spells/trueResurrection#_true-resurrection)_. In addition, after using this effect, the wielder who triggered it receives a +2 luck bonus on all ability checks, attack rolls, saving throws, and skill checks for 1 day.
+A _staff of the hierophant _can be used to restore the life of a dead creature by calling upon the wielder's deity to take the staff as a blessing. This causes the staff to vanish, but restores life to any one dead creature as if casting _ [true resurrection](spell_dir/trueResurrection#_true-resurrection)_. In addition, after using this effect, the wielder who triggered it receives a +2 luck bonus on all ability checks, attack rolls, saving throws, and skill checks for 1 day.
 
 Construction Requirements
 
 **Cost** 110,000 gp
 
-Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff), _ [bless](spells/bless#_bless)_, _ [cure critical wounds](spells/cureCriticalWounds#_cure-critical-wounds)_, _ [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_, _ [flame strike](spells/flameStrike#_flame-strike)_, _ [freedom of movement](spells/freedomOfMovement#_freedom-of-movement)_, heightened _ [hold person](spells/holdPerson#_hold-person)_, _ [prayer](spells/prayer#_prayer)_, _ [righteous might](spells/righteousMight#_righteous-might)_, _ [searing light](spells/searingLight#_searing-light)_, _ [true resurrection](spells/trueResurrection#_true-resurrection)_, _ [true seeing](spells/trueSeeing#_true-seeing)_
+Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff, _ [bless](spell_dir/bless#_bless_, _ [cure critical wounds](spell_dir/cureCriticalWounds#_cure-critical-wounds_, _ [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds_, _ [flame strike](spell_dir/flameStrike#_flame-strike_, _ [freedom of movement](spell_dir/freedomOfMovement#_freedom-of-movement_, heightened _ [hold person](spell_dir/holdPerson#_hold-person_, _ [prayer](spell_dir/prayer#_prayer_, _ [righteous might](spell_dir/righteousMight#_righteous-might_, _ [searing light](spell_dir/searingLight#_searing-light_, _ [true resurrection](spell_dir/trueResurrection#_true-resurrection_, _ [true seeing](spell_dir/trueSeeing#_true-seeing_
 
 Staff of the Master
 
@@ -1199,9 +1199,9 @@ Staff of the Master
 
 Often given as gifts to apprentices upon reaching the rank of master, these staves come in eight different varieties, one for each school of magic. This particular staff is for the school of necromancy. Aside from acting as a _+1/+1 quarterstaff_, this staff allows use of the following spells:
 
-- _ [Ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)_ (1 charge)
-- _ [Spectral hand](spells/spectralHand#_spectral-hand)_ (1 charge)
-- _ [Vampiric touch](spells/vampiricTouch#_vampiric-touch)_ (2 charges)
+- _ [Ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement)_ (1 charge
+- _ [Spectral hand](spell_dir/spectralHand#_spectral-hand)_ (1 charge
+- _ [Vampiric touch](spell_dir/vampiricTouch#_vampiric-touch)_ (2 charges)
 
 In addition, this staff can be used to cast spells using any metamagic feats known by the wielder without increasing the spell's level. This consumes a number of charges equal to the number of spell levels increased by the feat. No more than one feat can be applied to a spell cast by the wielder in this way. Using the staff for this purpose does not increase the casting time of the spell.
 
@@ -1209,7 +1209,7 @@ Construction Requirements
 
 **Cost** 15,300 gp
 
-Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff), _ [ray of enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement), [spectral hand](spells/spectralHand#_spectral-hand)_,_ [vampiric touch](spells/vampiricTouch#_vampiric-touch)_
+Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff, _ [ray of enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement, [spectral hand](spell_dir/spectralHand#_spectral-hand_,_ [vampiric touch](spell_dir/vampiricTouch#_vampiric-touch_
 
 Staff of the Planes
 
@@ -1217,17 +1217,17 @@ Staff of the Planes
 
 This obsidian staff twinkles as if reflecting the star-filled sky at night. The staff allows use of the following spells.
 
-- _ [Planar adaptation](advanced/spells/planarAdaptation#_planar-adaptation)_ (1 charge)
-- _ [Planar binding](spells/planarBinding#_planar-binding) _(2 charges)
-- _ [Plane shift](spells/planeShift#_plane-shift) _(5 charges)
+- _ [Planar adaptation](advanced/spell_dir/planarAdaptation#_planar-adaptation)_ (1 charge
+- _ [Planar binding](spell_dir/planarBinding#_planar-binding) _(2 charges
+- _ [Plane shift](spell_dir/planeShift#_plane-shift) _(5 charges
 
-If the _staff of the planes_ is fully charged, the wielder can deliberately snap the staff, causing it do shatter into thousands of pieces but opening a _ [gate](spells/gate#_gate)_ to a plane of the wielder's choice. This can only be used for planar travel, and the connection lasts for 1 minute, without requiring the wielder's concentration. If used in this way, the staff cannot be repaired or restored.
+If the _staff of the planes_ is fully charged, the wielder can deliberately snap the staff, causing it do shatter into thousands of pieces but opening a _ [gate](spell_dir/gate#_gate_ to a plane of the wielder's choice. This can only be used for planar travel, and the connection lasts for 1 minute, without requiring the wielder's concentration. If used in this way, the staff cannot be repaired or restored.
 
 Construction Requirements
 
 **Cost** 31,980 gp
 
-Craft Staff, _ [planar adaptation](advanced/spells/planarAdaptation#_planar-adaptation), [planar binding](spells/planarBinding#_planar-binding)_, _ [plane shift](spells/planeShift#_plane-shift)_
+Craft Staff, _ [planar adaptation](advanced/spell_dir/planarAdaptation#_planar-adaptation, [planar binding](spell_dir/planarBinding#_planar-binding_, _ [plane shift](spell_dir/planeShift#_plane-shift_
 
 Staff of the Scout
 
@@ -1235,15 +1235,15 @@ Staff of the Scout
 
 This staff is carefully crafted from the branches of a tree, still intertwined as they grew and crowned with living leaves. The staff allows use of the following spells:
 
-- _ [Know direction](spells/knowDirection#_know-direction) _(1 charge)
-- _ [Pass without trace](spells/passWithoutTrace#_pass-without-trace)_ (1 charge)
-- _ [Summon nature's ally I](spells/summonNatureSAlly#_summon-nature-s-ally-i) _(2 charges)
+- _ [Know direction](spell_dir/knowDirection#_know-direction) _(1 charge
+- _ [Pass without trace](spell_dir/passWithoutTrace#_pass-without-trace)_ (1 charge
+- _ [Summon nature's ally I](spell_dir/summonNatureSAlly#_summon-nature-s-ally-i) _(2 charges
 
 Construction Requirements
 
 **Cost** 4,800 gp
 
-Craft Staff, _ [know direction](spells/knowDirection#_know-direction)_, _ [pass without trace](spells/passWithoutTrace#_pass-without-trace)_, _ [summon nature's ally I](spells/summonNatureSAlly#_summon-nature-s-ally-i)_
+Craft Staff, _ [know direction](spell_dir/knowDirection#_know-direction_, _ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace_, _ [summon nature's ally I](spell_dir/summonNatureSAlly#_summon-nature-s-ally-i_
 
 Staff of the Woodlands
 
@@ -1251,20 +1251,20 @@ Staff of the Woodlands
 
 Appearing to have grown naturally into its shape, this oak, ash, or yew staff allows use of the following spells:
 
-- _ [Charm animal](spells/charmAnimal#_charm-animal)_ (1 charge)
-- _ [Speak with animals](spells/speakWithAnimals#_speak-with-animals)_ (1 charge)
-- _ [Barkskin](spells/barkskin#_barkskin)_ (2 charges)
-- _ [Summon nature's ally VI](spells/summonNatureSAlly#_summon-nature-s-ally-vi)_ (3 charges)
-- _ [Wall of thorns](spells/wallOfThorns#_wall-of-thorns)_ (3 charges)
-- _ [Animate plants](spells/animatePlants#_animate-plants)_ (4 charges)
+- _ [Charm animal](spell_dir/charmAnimal#_charm-animal)_ (1 charge
+- _ [Speak with animals](spell_dir/speakWithAnimals#_speak-with-animals)_ (1 charge
+- _ [Barkskin](spell_dir/barkskin#_barkskin)_ (2 charges
+- _ [Summon nature's ally VI](spell_dir/summonNatureSAlly#_summon-nature-s-ally-vi)_ (3 charges
+- _ [Wall of thorns](spell_dir/wallOfThorns#_wall-of-thorns)_ (3 charges
+- _ [Animate plants](spell_dir/animatePlants#_animate-plants)_ (4 charges
 
-The staff may be used as a weapon, functioning as a _+2 quarterstaff_. The _staff of the woodlands_ also allows its wielder to cast _ [pass without trace](spells/passWithoutTrace#_pass-without-trace)_ at will, with no charge cost. These two attributes continue to function after all the charges are expended.
+The staff may be used as a weapon, functioning as a _+2 quarterstaff_. The _staff of the woodlands_ also allows its wielder to cast _ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace)_ at will, with no charge cost. These two attributes continue to function after all the charges are expended.
 
 Construction Requirements
 
 **Cost** 50,500 gp
 
-Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff), _ [animate plants](spells/animatePlants#_animate-plants)_,_ [barkskin](spells/barkskin#_barkskin)_,_ [charm animal](spells/charmAnimal#_charm-animal)_,_ [pass without trace](spells/passWithoutTrace#_pass-without-trace)_,_ [speak with animals](spells/speakWithAnimals#_speak-with-animals)_,_ [summon nature's ally VI](spells/summonNatureSAlly#_summon-nature-s-ally-vi)_,_ [wall of thorns](spells/wallOfThorns#_wall-of-thorns)_
+Craft Magic Arms and Armor, [Craft Staff](feats#_craft-staff, _ [animate plants](spell_dir/animatePlants#_animate-plants_,_ [barkskin](spell_dir/barkskin#_barkskin_,_ [charm animal](spell_dir/charmAnimal#_charm-animal_,_ [pass without trace](spell_dir/passWithoutTrace#_pass-without-trace_,_ [speak with animals](spell_dir/speakWithAnimals#_speak-with-animals_,_ [summon nature's ally VI](spell_dir/summonNatureSAlly#_summon-nature-s-ally-vi_,_ [wall of thorns](spell_dir/wallOfThorns#_wall-of-thorns_
 
 Staff of Toxins
 
@@ -1272,14 +1272,14 @@ Staff of Toxins
 
 This length of hemlock-shrouded oak gives off the faintest whiff of rot and corruption. It allows use of the following spells:
 
-- _ [Stinking cloud](spells/stinkingCloud#_stinking-cloud)_ (1 charge)
-- _ [Cloudkill](spells/cloudkill#_cloudkill)_ (2 charges)
+- _ [Stinking cloud](spell_dir/stinkingCloud#_stinking-cloud)_ (1 charge
+- _ [Cloudkill](spell_dir/cloudkill#_cloudkill)_ (2 charges
 
 Construction Requirements
 
 **Cost** 17,100 gp
 
-Craft Staff, _ [cloudkill](spells/cloudkill#_cloudkill)_, _ [stinking cloud](spells/stinkingCloud#_stinking-cloud)_
+Craft Staff, _ [cloudkill](spell_dir/cloudkill#_cloudkill_, _ [stinking cloud](spell_dir/stinkingCloud#_stinking-cloud_
 
 Staff of Transmutation
 
@@ -1287,18 +1287,18 @@ Staff of Transmutation
 
 This staff is generally carved from or decorated with petrified wood or fossilized bone that has been etched with tiny but complex runes. It allows use of the following spells:
 
-- _ [Alter self](spells/alterSelf#_alter-self)_ (1 charge)
-- _ [Blink](spells/blink#_blink)_ (1 charge)
-- _ [Expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_ (1 charge)
-- _ [Baleful polymorph](spells/balefulPolymorph#_baleful-polymorph)_ (2 charges)
-- _ [Polymorph](spells/polymorph#_polymorph)_ (2 charges)
-- _ [Disintegrate](spells/disintegrate#_disintegrate)_ (3 charges)
+- _ [Alter self](spell_dir/alterSelf#_alter-self)_ (1 charge
+- _ [Blink](spell_dir/blink#_blink)_ (1 charge
+- _ [Expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat)_ (1 charge
+- _ [Baleful polymorph](spell_dir/balefulPolymorph#_baleful-polymorph)_ (2 charges
+- _ [Polymorph](spell_dir/polymorph#_polymorph)_ (2 charges
+- _ [Disintegrate](spell_dir/disintegrate#_disintegrate)_ (3 charges
 
 Construction Requirements
 
 **Cost** 41,000 gp
 
-Craft Staff, _ [alter self](spells/alterSelf#_alter-self)_,_ [baleful polymorph](spells/balefulPolymorph#_baleful-polymorph)_,_ [blink](spells/blink#_blink)_,_ [disintegrate](spells/disintegrate#_disintegrate)_,_ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_,_ [polymorph](spells/polymorph#_polymorph)_
+Craft Staff, _ [alter self](spell_dir/alterSelf#_alter-self_,_ [baleful polymorph](spell_dir/balefulPolymorph#_baleful-polymorph_,_ [blink](spell_dir/blink#_blink_,_ [disintegrate](spell_dir/disintegrate#_disintegrate_,_ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_,_ [polymorph](spell_dir/polymorph#_polymorph_
 
 Staff of Traps
 
@@ -1306,18 +1306,18 @@ Staff of Traps
 
 The tip of this dark wooden shaft holds a piece of hard, chalk-like stone between black, clawlike protrusions. The staff allows use of the following spells:
 
-- _ [Alarm](spells/alarm#_alarm)_ (1 charge)
-- _ [Magic mouth](spells/magicMouth#_magic-mouth)_ (1 charge)
-- _ [Phantom trap](spells/phantomTrap#_phantom-trap)_ (1 charge)
-- _ [Explosive runes](spells/explosiveRunes#_explosive-runes)_ (2 charges)
-- _ [Fire trap](spells/fireTrap#_fire-trap)_ (2 charges)
-- _ [Sepia snake sigil](spells/sepiaSnakeSigil#_sepia-snake-sigil)_ (2 charges)
+- _ [Alarm](spell_dir/alarm#_alarm)_ (1 charge
+- _ [Magic mouth](spell_dir/magicMouth#_magic-mouth)_ (1 charge
+- _ [Phantom trap](spell_dir/phantomTrap#_phantom-trap)_ (1 charge
+- _ [Explosive runes](spell_dir/explosiveRunes#_explosive-runes)_ (2 charges
+- _ [Fire trap](spell_dir/fireTrap#_fire-trap)_ (2 charges
+- _ [Sepia snake sigil](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil)_ (2 charges
 
 Construction Requirements
 
 **Cost** 36,525 gp
 
-Craft Staff, _ [alarm](spells/alarm#_alarm)_, _ [explosive runes](spells/explosiveRunes#_explosive-runes)_, _ [fire trap](spells/fireTrap#_fire-trap)_, _ [magic mouth](spells/magicMouth#_magic-mouth)_, _ [phantom trap](spells/phantomTrap#_phantom-trap)_, _ [sepia snake sigil](spells/sepiaSnakeSigil#_sepia-snake-sigil)_
+Craft Staff, _ [alarm](spell_dir/alarm#_alarm_, _ [explosive runes](spell_dir/explosiveRunes#_explosive-runes_, _ [fire trap](spell_dir/fireTrap#_fire-trap_, _ [magic mouth](spell_dir/magicMouth#_magic-mouth_, _ [phantom trap](spell_dir/phantomTrap#_phantom-trap_, _ [sepia snake sigil](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil_
 
 Staff of Travel
 
@@ -1325,9 +1325,9 @@ Staff of Travel
 
 This staff appears to be nothing more than a finely made walking stick, but closer inspection reveals that it is inlaid with a fine copper tracery that makes up an intricate and incomprehensible arcane map. The staff allows use of the following spells:
 
-- _ [Dimension door](spells/dimensionDoor#_dimension-door) _(1 charge)
-- _ [Fly](skills/fly#_fly)_ (1 charge)
-- _ [Teleport](spells/teleport#_teleport) _(2 charges)
+- _ [Dimension door](spell_dir/dimensionDoor#_dimension-door) _(1 charge
+- _ [Fly](skill_dir/fly#_fly)_ (1 charge
+- _ [Teleport](spell_dir/teleport#_teleport) _(2 charges
 
 In addition to these spells, the wielder of the _staff of travel_ receives a +10-foot enhancement bonus to his base speed.
 
@@ -1335,7 +1335,7 @@ Construction Requirements
 
 **Cost** 27,200 gp
 
-Craft Staff, _ [dimension door](spells/dimensionDoor#_dimension-door)_, _ [expeditious retreat](spells/expeditiousRetreat#_expeditious-retreat)_, _ [fly](spells/fly)_, _ [teleport](spells/teleport#_teleport)_
+Craft Staff, _ [dimension door](spell_dir/dimensionDoor#_dimension-door_, _ [expeditious retreat](spell_dir/expeditiousRetreat#_expeditious-retreat_, _ [fly](spell_dir/fly_, _ [teleport](spell_dir/teleport#_teleport_
 
 Staff of Tricks
 
@@ -1343,16 +1343,16 @@ Staff of Tricks
 
 This thin staff is made of stiff wood that has been wrapped in colorful bands of cloth and topped with a number of feathers, bells, and other decorative baubles. The staff allows use of the following spells:
 
-- _ [Ghost sound](spells/ghostSound#_ghost-sound) _(1 charge)
-- _ [Mage hand](spells/mageHand#_mage-hand)_ (1 charge)
-- _ [Prestidigitation](spells/prestidigitation#_prestidigitation)_ (1 charge)
-- _ [Silent image](spells/silentImage#_silent-image) _(2 charges)
+- _ [Ghost sound](spell_dir/ghostSound#_ghost-sound) _(1 charge
+- _ [Mage hand](spell_dir/mageHand#_mage-hand)_ (1 charge
+- _ [Prestidigitation](spell_dir/prestidigitation#_prestidigitation)_ (1 charge
+- _ [Silent image](spell_dir/silentImage#_silent-image) _(2 charges
 
 Construction Requirements
 
 **Cost** 4,400 gp
 
-Craft Staff, _ [ghost sound](spells/ghostSound#_ghost-sound)_, _ [mage hand](spells/mageHand#_mage-hand)_, _ [prestidigitation](spells/prestidigitation#_prestidigitation)_, _ [silent image](spells/silentImage#_silent-image)_
+Craft Staff, _ [ghost sound](spell_dir/ghostSound#_ghost-sound_, _ [mage hand](spell_dir/mageHand#_mage-hand_, _ [prestidigitation](spell_dir/prestidigitation#_prestidigitation_, _ [silent image](spell_dir/silentImage#_silent-image_
 
 Staff of Understanding
 
@@ -1360,15 +1360,15 @@ Staff of Understanding
 
 This polished maple or oak staff is inlaid with ivory strips along its length, and runes of various languages also formed from inlaid ivory span the shaft. It allows use of the following spells:
 
-- _ [Comprehend languages](spells/comprehendLanguages#_comprehend-languages)_ (1 charge)
-- _ [Detect thoughts](spells/detectThoughts#_detect-thoughts)_ (2 charges)
-- _ [Tongues](spells/tongues#_tongues)_ (2 charges)
+- _ [Comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages)_ (1 charge
+- _ [Detect thoughts](spell_dir/detectThoughts#_detect-thoughts)_ (2 charges
+- _ [Tongues](spell_dir/tongues#_tongues)_ (2 charges
 
 Construction Requirements
 
 **Cost** 8,000 gp
 
-Craft Staff, _ [comprehend languages](spells/comprehendLanguages#_comprehend-languages), [detect thoughts](spells/detectThoughts#_detect-thoughts), [tongues](spells/tongues#_tongues)_
+Craft Staff, _ [comprehend languages](spell_dir/comprehendLanguages#_comprehend-languages, [detect thoughts](spell_dir/detectThoughts#_detect-thoughts, [tongues](spell_dir/tongues#_tongues_
 
 Staff of Vision
 
@@ -1376,37 +1376,37 @@ Staff of Vision
 
 A clear crystal orb is affixed to the top of this length of brass and scaled skin, and a smaller, crimson orb is set into a spherical ornament near the base of the shaft. The staff allows use of the following spells:
 
-- _ [Arcane eye](spells/arcaneEye#_arcane-eye)_ (1 charge)
-- _ [Arcane sight](spells/arcaneSight#_arcane-sight)_ (1 charge)
-- _ [See invisibility](spells/seeInvisibility#_see-invisibility)_ (1 charge)
-- _ [Prying eyes](spells/pryingEyes#_prying-eyes)_ (2 charges)
-- _ [Scrying](spells/scrying#_scrying)_ (2 charges)
-- _ [True seeing](spells/trueSeeing#_true-seeing)_ (3 charges)
+- _ [Arcane eye](spell_dir/arcaneEye#_arcane-eye)_ (1 charge
+- _ [Arcane sight](spell_dir/arcaneSight#_arcane-sight)_ (1 charge
+- _ [See invisibility](spell_dir/seeInvisibility#_see-invisibility)_ (1 charge
+- _ [Prying eyes](spell_dir/pryingEyes#_prying-eyes)_ (2 charges
+- _ [Scrying](spell_dir/scrying#_scrying)_ (2 charges
+- _ [True seeing](spell_dir/trueSeeing#_true-seeing)_ (3 charges
 
 Construction Requirements
 
 **Cost** 45,416 gp
 
-Craft Staff, _ [arcane eye](spells/arcaneEye#_arcane-eye)_, _ [arcane sight](spells/arcaneSight#_arcane-sight)_, _ [prying eyes](spells/pryingEyes#_prying-eyes)_, _ [scrying](spells/scrying#_scrying)_, _ [see invisibility](spells/seeInvisibility#_see-invisibility)_, _ [true seeing](spells/trueSeeing#_true-seeing)_
+Craft Staff, _ [arcane eye](spell_dir/arcaneEye#_arcane-eye_, _ [arcane sight](spell_dir/arcaneSight#_arcane-sight_, _ [prying eyes](spell_dir/pryingEyes#_prying-eyes_, _ [scrying](spell_dir/scrying#_scrying_, _ [see invisibility](spell_dir/seeInvisibility#_see-invisibility_, _ [true seeing](spell_dir/trueSeeing#_true-seeing)_
 
 Staff of Weather
 
 **Price** 84,066 gp; **Aura** strong varies; **CL** 13th; **Weight** 5 lbs.
 
-The carved surface of this solid oaken beam always depicts a scene with the opposite qualities of the current weather (rainy on dry days, dry on rainy days, and so on). It allows use of the following spells:
+The carved surface of this solid oaken beam always depicts a scene with the opposite qualities of the current weather (rainy on dry days, dry on rainy days, and so on. It allows use of the following spells:
 
-- _ [Fog cloud](spells/fogCloud)_ (1 charge)
-- _ [Gust of wind](spells/gustOfWind#_gust-of-wind)_ (1 charge)
-- _ [Wind wall](spells/windWall#_wind-wall)_ (1 charge)
-- _ [Ice storm](spells/iceStorm#_ice-storm)_ (2 charges)
-- _ [Sleet storm](spells/sleetStorm#_sleet-storm)_ (2 charges)
-- _ [Control weather](spells/controlWeather#_control-weather)_ (3 charges)
+- _ [Fog cloud](spell_dir/fogCloud)_ (1 charge
+- _ [Gust of wind](spell_dir/gustOfWind#_gust-of-wind)_ (1 charge
+- _ [Wind wall](spell_dir/windWall#_wind-wall)_ (1 charge
+- _ [Ice storm](spell_dir/iceStorm#_ice-storm)_ (2 charges
+- _ [Sleet storm](spell_dir/sleetStorm#_sleet-storm)_ (2 charges
+- _ [Control weather](spell_dir/controlWeather#_control-weather)_ (3 charges
 
 Construction Requirements
 
 **Cost** 42,033 gp
 
-Craft Staff, _ [control weather](spells/controlWeather#_control-weather)_, _ [fog cloud](spells/fogCloud)_, _ [gust of wind](spells/gustOfWind#_gust-of-wind)_, _ [ice storm](spells/iceStorm#_ice-storm)_, _ [sleet storm](spells/sleetStorm#_sleet-storm)_, _ [wind wall](spells/windWall#_wind-wall)_
+Craft Staff, _ [control weather](spell_dir/controlWeather#_control-weather_, _ [fog cloud](spell_dir/fogCloud_, _ [gust of wind](spell_dir/gustOfWind#_gust-of-wind_, _ [ice storm](spell_dir/iceStorm#_ice-storm_, _ [sleet storm](spell_dir/sleetStorm#_sleet-storm_, _ [wind wall](spell_dir/windWall#_wind-wall_
 
 Unholy Staff
 
@@ -1414,14 +1414,14 @@ Unholy Staff
 
 This twisted iron staff bears ominous stains along its length, and ends in a black skull with red gemstone eyes. The staff allows use of the following spells:
 
-- _ [Align weapon](spells/alignWeapon#_align-weapon) _(evil only, 1 charge)
-- _ [Detect good](spells/detectGood#_detect-good)_ (1 charge)
-- _ [Magic circle against good](spells/magicCircleAgainstGood#_magic-circle-against-good) _(2 charges)
-- _ [Unholy blight](spells/unholyBlight#_unholy-blight) _(2 charges)
+- _ [Align weapon](spell_dir/alignWeapon#_align-weapon) _(evil only, 1 charge
+- _ [Detect good](spell_dir/detectGood#_detect-good)_ (1 charge
+- _ [Magic circle against good](spell_dir/magicCircleAgainstGood#_magic-circle-against-good) _(2 charges
+- _ [Unholy blight](spell_dir/unholyBlight#_unholy-blight) _(2 charges
 
 Construction Requirements
 
 **Cost** 14,800 gp
 
-Craft Staff, _ [align weapon](spells/alignWeapon#_align-weapon)_, _ [detect good](spells/detectGood#_detect-good)_, _ [magic circle against good](spells/magicCircleAgainstGood#_magic-circle-against-good)_, _ [unholy blight](spells/unholyBlight#_unholy-blight)_
+Craft Staff, _ [align weapon](spell_dir/alignWeapon#_align-weapon_, _ [detect good](spell_dir/detectGood#_detect-good_, _ [magic circle against good](spell_dir/magicCircleAgainstGood#_magic-circle-against-good_, _ [unholy blight](spell_dir/unholyBlight#_unholy-blight_
 

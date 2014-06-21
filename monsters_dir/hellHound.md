@@ -1,5 +1,5 @@
 ---
-title: monsters/hellHound
+title: monster_dir/hellHound
 ---
 # Hell Hound
 
@@ -11,7 +11,7 @@ _This creature resembles a thin, lanky wolf with reddish-brown fur, white claws,
 
 LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype), [lawful](creatureTypes#_lawful-subtype))
 
-**Init** +5; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +7
+**Init** +5; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +7
 
 **Defense**
 
@@ -37,11 +37,11 @@ LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Str** 13, **Dex** 13, **Con** 15, **Int** 6, **Wis** 10, **Cha** 6
 
-**Base**  **Atk** +4; **CMB** +5; **CMD** 16 (20 vs. trip)
+**Base**  **Atk** +4; **CMB** +5; **CMD** 16 (20 vs. trip
 
 **Feats** [Improved Initiative](../feats#_improved-initiative), [Run](../feats#_run)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +8, [Perception](../skills/perception#_perception) +7, [Stealth](../skills/stealth#_stealth) +13, [Survival](../skills/survival#_survival) +7; **Racial Modifiers** +5 [Stealth](../skills/stealth#_stealth)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +8, [Perception](../skill_dir/perception#_perception +7, [Stealth](../skill_dir/stealth#_stealth +13, [Survival](../skill_dir/survival#_survival +7; **Racial Modifiers** +5 [Stealth](../skill_dir/stealth#_stealth)
 
 **Languages** Infernal (cannot speak)
 
@@ -67,13 +67,13 @@ _This creature resembles a powerfully built wolf the size of a large draft horse
 
 LE Large [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype), [fire](creatureTypes#_fire-subtype), [lawful](creatureTypes#_lawful-subtype))
 
-**Init** +6; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +12
+**Init** +6; **Senses** darkvision 60 ft., [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +12
 
 **Defense**
 
 **AC** 24, touch 11, flat-footed 22 (+6 armor, +2 Dex, +7 natural, –1 size)
 
-**hp** 126 (12d10+60)
+**hp** 126 (12d10+60
 
 **Fort** +13, **Ref** +10, **Will** +5
 
@@ -97,9 +97,9 @@ LE Large [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtyp
 
 **Base**  **Atk** +12; **CMB** +21; **CMD** 33 (37 vs. trip)
 
-**Feats** [Alertness](../feats#_alertness), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skills/stealth#_stealth), [Survival](../skills/survival#_survival)), [Weapon Focus](../feats#_weapon-focus) (bite)
+**Feats** [Alertness](../feats#_alertness), [Improved Critical](../feats#_improved-critical) (bite), [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Stealth](../skill_dir/stealth#_stealth, [Survival](../skill_dir/survival#_survival), [Weapon Focus](../feats#_weapon-focus) (bite)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +16, [Perception](../skills/perception#_perception) +12, [Stealth](../skills/stealth#_stealth) +21, [Survival](../skills/survival#_survival) +18; **Racial Modifiers** +5 [Stealth](../skills/stealth#_stealth)
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +16, [Perception](../skill_dir/perception#_perception +12, [Stealth](../skill_dir/stealth#_stealth +21, [Survival](../skill_dir/survival#_survival +18; **Racial Modifiers** +5 [Stealth](../skill_dir/stealth#_stealth)
 
 **Languages** Infernal
 
@@ -109,7 +109,7 @@ LE Large [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtyp
 
 **Organization** solitary, pair, or pack (3–6)
 
-**Treasure** standard (_+2 chain shirt barding_)
+**Treasure** standard (_+2 chain shirt barding_
 
 All are fitted with shirts of fire-scorched barding, and the loyal beasts obey their master perfectly.
 

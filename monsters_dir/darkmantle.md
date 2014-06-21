@@ -1,5 +1,5 @@
 ---
-title: monsters/darkmantle
+title: monster_dir/darkmantle
 ---
 # Darkmantle
 
@@ -11,7 +11,7 @@ _As this creature falls from the cavern roof, it opens like a hideous octopus, i
 
 N Small [magical beast](creatureTypes#_magical-beast)
 
-**Init** +6; **Senses** [blindsight](universalMonsterRules#_blindsight) 90 ft., darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +4
+**Init** +6; **Senses** [blindsight](universalMonsterRules#_blindsight 90 ft., darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +4
 
 **Defense**
 
@@ -29,19 +29,19 @@ N Small [magical beast](creatureTypes#_magical-beast)
 
 **Special Attacks** [constrict](universalMonsterRules#_constrict) (1d4+4), grab (any size)
 
-**Spell-Like Abilities** (CL 5th)
+**Spell-Like Abilities** (CL 5th
 
-1/day—_ [darkness](../spells/darkness#_darkness)_
+1/day—_ [darkness](../spell_dir/darkness#_darkness)_
 
 **Statistics**
 
 **Str** 11, **Dex** 15, **Con** 14, **Int** 2, **Wis** 11, **Cha** 10
 
-**Base**  **Atk** +2; **CMB** +1 (+5 grapple); **CMD** 13 (can't be tripped)
+**Base**  **Atk** +2; **CMB** +1 (+5 grapple); **CMD** 13 (can't be tripped
 
 **Feats** [Improved Initiative](../feats#_improved-initiative)
 
-**Skills** [Fly](../skills/fly#_fly) +5, [Perception](../skills/perception#_perception) +4, [Stealth](../skills/stealth#_stealth) +10; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Stealth](../skills/stealth#_stealth)
+**Skills** [Fly](../skill_dir/fly#_fly +5, [Perception](../skill_dir/perception#_perception +4, [Stealth](../skill_dir/stealth#_stealth +10; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -53,7 +53,7 @@ N Small [magical beast](creatureTypes#_magical-beast)
 
 A darkmantle's tentacle-span measures just under 5 feet—when attached to a cave roof and disguised as a stalactite, its length varies from 2 to 3 feet. A typical darkmantle weighs 40 pounds. The creatures' heads and bodies are usually the color of basalt or dark granite, but their webbed tentacles can change color to match their surroundings.
 
-The darkmantle isn't a particularly good climber, but it can cling to a cave roof like a bat, hanging by the hooks at the ends of its tentacles so that its dangling body looks nearly indistinguishable from a stalactite. In this hidden position, the darkmantle waits for prey to pass beneath, at which point it drops and swoops down to attack its victim, slamming its body against the foe and attempting to wrap its webbed tentacles around the target. If the darkmantle misses its prey, it swoops back up and drops again until its prey is vanquished or the darkmantle is grievously injured (in which case the creature flutters back up to the roof to hide and hope its “prey” leaves it alone). The darkmantle's inborn ability to cloak the area around it in magical darkness gives it an additional advantage over foes that rely upon light to see.
+The darkmantle isn't a particularly good climber, but it can cling to a cave roof like a bat, hanging by the hooks at the ends of its tentacles so that its dangling body looks nearly indistinguishable from a stalactite. In this hidden position, the darkmantle waits for prey to pass beneath, at which point it drops and swoops down to attack its victim, slamming its body against the foe and attempting to wrap its webbed tentacles around the target. If the darkmantle misses its prey, it swoops back up and drops again until its prey is vanquished or the darkmantle is grievously injured (in which case the creature flutters back up to the roof to hide and hope its “prey” leaves it alone. The darkmantle's inborn ability to cloak the area around it in magical darkness gives it an additional advantage over foes that rely upon light to see.
 
 Darkmantles prefer to dwell and hunt in the caves and passageways that are closest to the surface, as these tend to possess more traffic for the monsters to feed upon. Yet they do not confine themselves to these dark caverns, and can sometimes be found dwelling in ruined fortresses or even in the sewers of bustling cities. Anywhere food is plentiful and there's a ceiling to cling to is a possible den for a darkmantle.
 

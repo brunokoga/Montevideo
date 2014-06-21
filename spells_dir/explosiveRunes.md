@@ -3,7 +3,7 @@ title: spells/explosiveRunes
 ---
  **Explosive Runes**
 
-**School** abjuration [force]; **Level** sorcerer/wizard 3
+**School** abjuration [force]; **Level** sorcere_dir/wizard 3
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: spells/explosiveRunes
 
 **Target** one touched object weighing no more than 10 lbs.
 
-**Duration** permanent until discharged (D)
+**Duration** permanent until discharged (D
 
 **Saving Throw** see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

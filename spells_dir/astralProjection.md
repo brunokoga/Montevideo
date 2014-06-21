@@ -3,11 +3,11 @@ title: spells/astralProjection
 ---
  **Astral Projection**
 
-**School** necromancy; **Level** cleric 9, sorcerer/wizard 9
+**School** necromancy; **Level** cleric 9, sorcere_dir/wizard 9
 
 **Casting Time** 30 minutes
 
-**Components** V, S, M (jacinth worth 1,000 gp)
+**Components** V, S, M (jacinth worth 1,000 gp
 
 **Range** touch
 

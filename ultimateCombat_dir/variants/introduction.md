@@ -1,5 +1,5 @@
 ---
-title: ultimateCombat/variants/introduction
+title: ultimateCombat/variant_dir/introduction
 ---
 # Variant Rules
 
@@ -17,7 +17,7 @@ The normal combat rules for the Pathfinder RPG deal with attacks and hits in an 
 
 Sometimes armor doesn't come in nicely matched sets, purchased straight from the armorer. Warriors may be forced to make do with tattered, hand-me-down sets cobbled together from various pieces, or else taken from the dead and defeated on the field of battle. Perhaps your character is a castaway forced to scavenge for what bits of armor she can find, or a resident of a post-apocalyptic setting in which everyone must scrounge through junk heaps and burned-out storefronts to acquire their equipment. Though such patchwork suits are almost always less effective than complete suits with pieces made to work together, the rules in this section provide everything you need to know about mixing and matching armor types.
 
-## [Wounds and Vigor](woundsAndVigor)
+## [Wounds and Vigor](woundsAndVigor
 
 Just as Armor Class is an abstraction, so are hit points—after all, just because a dagger does 1d4 points of damage doesn't mean a high-level fighter is somehow immune to having his throat slit. This alternate system attempts to better represent the differences between injuries and impeded performance.
 

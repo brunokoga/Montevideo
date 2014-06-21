@@ -9,19 +9,19 @@ The soft scrape of bone reveals the long, sinuous skeleton of a large snake, its
 
 **XP 800**
 
-N Medium [construct](monsters/creatureTypes#_construct)
+N Medium [construct](monster_dir/creatureTypes#_construct
 
-**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +0
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +0
 
 Defense
 
 **AC** 15, touch 13, flat-footed 12 (+3 Dex, +2 natural)
 
-**hp** 36 (3d10+20)
+**hp** 36 (3d10+20
 
 **Fort** +1, **Ref** +4, **Will** +1
 
-**DR** 5/bludgeoning; **Immune** [construct](monsters/creatureTypes#_construct) traits
+**DR** 5/bludgeoning; **Immune** [construct](monster_dir/creatureTypes#_construct) traits
 
 Offense
 
@@ -35,11 +35,11 @@ Statistics
 
 **Str** 16, **Dex** 17, **Con** —, **Int** —, **Wis** 11, **Cha** 1
 
-**Base Atk** +3; **CMB** +6; **CMD** 19 (can't be tripped)
+**Base Atk** +3; **CMB** +6; **CMD** 19 (can't be tripped
 
-**Skills** [Stealth](additionalMonsters/../skills/stealth#_stealth) +15; **Racial Modifiers**
+**Skills** [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +15; **Racial Modifiers**
 
-+12 [Stealth](additionalMonsters/../skills/stealth#_stealth)
++12 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
 
 Ecology
 
@@ -53,11 +53,11 @@ Special Abilities
 
 **Dance of Death (Ex)** A necrophidius can entrance opponents by swaying back and forth as a full-round action. All creatures within 30 feet who can see the necrophidius when it uses its dance of death must succeed on a DC 15 Will save or be dazed for 2d4 rounds. This is a mind-affecting effect. The save DC is Constitution-based and includes a +4 racial bonus.
 
-**Paralysis (Su)** Any living creature that is bitten by a necrophidius must succeed on a DC 13 Fortitude save or be paralyzed for 1d4 rounds. The save DC is Constitution-based and includes a +2 racial bonus.
+**Paralysis (Su** Any living creature that is bitten by a necrophidius must succeed on a DC 13 Fortitude save or be paralyzed for 1d4 rounds. The save DC is Constitution-based and includes a +2 racial bonus.
 
 Despite its sinister appearance, the snake-like necrophidius is not an undead creature. Rather, it is a magical construct built from the skeleton of a giant snake and then mounted with the skull of a humanoid creature. Fangs are cemented into the jaws of the skull, after which the entire creation can be brought to life by a series of obscure and expensive rituals—these rituals are traditionally well guarded by those who discover them.
 
-As a mindless construct that requires neither food nor sleep, a necrophidius makes an excellent guardian, and its innate stealth allows it to slip up on the unwary undetected. In certain areas, the necrophidius is commonly employed as an assassin, able to disable its quarries with its dance of death or paralyzing bite before disposing of them in a gruesome manner—as long as the assassination doesn't require any particular intelligence to carry out. Particularly macabre creators might even construct the creature from the skull of a friend or loved one of the intended victim in order to magnify the horror of the assassination, leaving much of the flesh on the skull so the victim can recognize its source. This flesh rots eventually—only freshly crafted necrophidiuses have this grisly feature (although regular applications of _ [gentle repose](additionalMonsters/../spells/gentleRepose#_gentle-repose)_ spells can keep such a morbid decoration fresh for a much longer period of time).
+As a mindless construct that requires neither food nor sleep, a necrophidius makes an excellent guardian, and its innate stealth allows it to slip up on the unwary undetected. In certain areas, the necrophidius is commonly employed as an assassin, able to disable its quarries with its dance of death or paralyzing bite before disposing of them in a gruesome manner—as long as the assassination doesn't require any particular intelligence to carry out. Particularly macabre creators might even construct the creature from the skull of a friend or loved one of the intended victim in order to magnify the horror of the assassination, leaving much of the flesh on the skull so the victim can recognize its source. This flesh rots eventually—only freshly crafted necrophidiuses have this grisly feature (although regular applications of _ [gentle repose](additionalMonsters/../spell_dir/gentleRepose#_gentle-repose)_ spells can keep such a morbid decoration fresh for a much longer period of time.
 
 Although a necrophidius is mindless, it can follow the simple commands of its creator. These can include commands to lie dormant until some specific condition is met or to follow and kill an indicated target to the exclusion of all other activities.
 
@@ -73,5 +73,5 @@ Necrophidius
 
 Construction
 
-**Requirements** [Craft Construct](additionalMonsters/../monsters/monsterFeats#_craft-construct), _ [cat's grace](additionalMonsters/../spells/catSGrace#_cat-s-grace)_, _ [daze monster](additionalMonsters/../spells/dazeMonster#_daze-monster)_, _ [geas/quest](additionalMonsters/../spells/geasQuest#_geas-quest)_, _ [ghoul touch](additionalMonsters/../spells/ghoulTouch#_ghoul-touch)_, creator must be caster level 7th; **Skill** [Craft](additionalMonsters/../skills/craft#_craft) (sculpture) or [Heal](additionalMonsters/../skills/heal#_heal) DC 15; **Cost** 4,250 gp
+**Requirements** [Craft Construct](additionalMonsters/../monster_dir/monsterFeats#_craft-construct, _ [cat's grace](additionalMonsters/../spell_dir/catSGrace#_cat-s-grace_, _ [daze monster](additionalMonsters/../spell_dir/dazeMonster#_daze-monster_, _ [geas/quest](additionalMonsters/../spell_dir/geasQuest#_geas-quest_, _ [ghoul touch](additionalMonsters/../spell_dir/ghoulTouch#_ghoul-touch_, creator must be caster level 7th; **Skill** [Craft](additionalMonsters/../skill_dir/craft#_craft) (sculpture or [Heal](additionalMonsters/../skill_dir/heal#_heal DC 15; **Cost** 4,250 gp
 

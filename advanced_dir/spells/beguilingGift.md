@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/beguilingGift
+title: advanced/spell_dir/beguilingGift
 ---
  **Beguiling Gift**
 
@@ -7,7 +7,7 @@ title: advanced/spells/beguilingGift
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (the object to be offered)
+**Components** V, S, F (the object to be offered
 
 **Range** 5 ft.
 

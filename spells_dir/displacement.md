@@ -1,19 +1,19 @@
 ---
-title: spells/displacement
+title: spell_dir/displacement
 ---
  **Displacement**
 
-**School** illusion (glamer); **Level** bard 3, sorcerer/wizard 3
+**School** illusion (glamer; **Level** bard 3, sorcere_dir/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, M (a small loop of leather)
+**Components** V, M (a small loop of leather
 
 **Range** touch
 
 **Target** creature touched
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

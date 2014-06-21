@@ -1,13 +1,13 @@
 ---
-title: ultimateCombat/spells/frightfulAspect
+title: ultimateCombat/spell_dir/frightfulAspect
 ---
 Frightful Aspect
 
-**School** transmutation (polymorph); **Level** cleric 8, druid 8, sorcerer/wizard 8, witch 8
+**School** transmutation (polymorph; **Level** cleric 8, druid 8, sorcere_dir/wizard 8, witch 8
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (the skin of a toad)
+**Components** V, S, M (the skin of a toad
 
 **Range** personal
 

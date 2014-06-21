@@ -13,9 +13,9 @@ Scouring Winds
 
 **Effect** sandstorm in 20-ft. radius, 20 ft. high
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D)
 
-**Saving Throw** none; **Spell Resistance** yes (see text)
+**Saving Throw** none; **Spell Resistance** yes (see text
 
 This spell brings forth a windstorm of stinging sand that blocks all vision. You can move the storm up to 30 feet each round as a move action.
 

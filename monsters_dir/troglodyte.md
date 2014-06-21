@@ -1,5 +1,5 @@
 ---
-title: monsters/troglodyte
+title: monster_dir/troglodyte
 ---
 # Troglodyte
 
@@ -9,9 +9,9 @@ _This humanoid's scaly hide is dull gray. Its frame resembles that of a cave liz
 
 **XP 400**
 
-CE Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_reptilian-subtype))
+CE Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_reptilian-subtype)
 
-**Init** –1; **Senses** darkvision 90 ft.; [Perception](../skills/perception#_perception) +0
+**Init** –1; **Senses** darkvision 90 ft.; [Perception](../skill_dir/perception#_perception) +0
 
 **Aura** stench (30 ft., DC 13, 10 rounds)
 
@@ -29,7 +29,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_repti
 
 **Melee** club +2 (1d6+1), claw –3 (1d4), bite –3 (1d4) or2 claws +2 (1d4+1), bite +2 (1d4+1)
 
-**Ranged** javelin +0 (1d6)
+**Ranged** javelin +0 (1d6
 
 **Statistics**
 
@@ -39,7 +39,7 @@ CE Medium [humanoid](creatureTypes#_humanoid) ( [reptilian](creatureTypes#_repti
 
 **Feats** [Great Fortitude](../feats#_great-fortitude)
 
-**Skills** [Stealth](../skills/stealth#_stealth) +5 (+9 in rocky areas); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) (+8 in rocky areas)
+**Skills** [Stealth](../skill_dir/stealth#_stealth) +5 (+9 in rocky areas; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) (+8 in rocky areas)
 
 **Languages** Draconic
 
@@ -55,7 +55,7 @@ The troglodyte is a feral, savage cave dweller. They are among the most populous
 
 The troglodyte is one of the oldest of intelligent races, and ruins found in some remote caverns testify to the fact that their empire was once among the largest in the world. At the dawn of time, the troglodyte civilization was generations ahead of other humanoid races—while those races hid in caves and worshiped fire, the troglodytes raised vast cities of stone ziggurats and twisting canals, kept other races as slaves, and worshiped ancient and inhuman gods and demons. Yet as the other races evolved and grew increasingly civilized, they outstripped their onetime troglodyte oppressors. Today, the roles have changed—now it is the troglodyte that hides in caves and lives the life of a feral savage.
 
-Religion is strong among troglodyte tribes, and their shamans and priests are universally the highest regarded members of a clan. A troglodyte chieftain is not always a cleric or druid, but those who do not have divine power are usually mere mouthpieces and puppet lords that answer to the beck and call of the local seer or shaman. Troglodytes generally worship one of the countless demon lords, particularly those of a reptilian or primeval shape and form or those whose Abyssal domains most closely resemble the tangled caverns troglodytes prefer. Troglodyte druids are usually neutral evil if they dwell with their own kind (and are universally feared and respected for the eerie command they have over beasts).
+Religion is strong among troglodyte tribes, and their shamans and priests are universally the highest regarded members of a clan. A troglodyte chieftain is not always a cleric or druid, but those who do not have divine power are usually mere mouthpieces and puppet lords that answer to the beck and call of the local seer or shaman. Troglodytes generally worship one of the countless demon lords, particularly those of a reptilian or primeval shape and form or those whose Abyssal domains most closely resemble the tangled caverns troglodytes prefer. Troglodyte druids are usually neutral evil if they dwell with their own kind (and are universally feared and respected for the eerie command they have over beasts.
 
 A typical troglodyte stands about 5 feet tall and weighs 150 pounds.
 

@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/aspectOfTheWolf
+title: advanced/spell_dir/aspectOfTheWolf
 ---
  **Aspect of the Wolf**
 
-**School** transmutation (polymorph); **Level** druid 5, ranger 4
+**School** transmutation (polymorph; **Level** druid 5, ranger 4
 
 **Casting Time** 1 standard action
 

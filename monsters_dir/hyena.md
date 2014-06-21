@@ -1,5 +1,5 @@
 ---
-title: monsters/hyena
+title: monster_dir/hyena
 ---
 # Hyena
 
@@ -11,7 +11,7 @@ _This hyena is covered in shaggy, tan-colored fur with black and brown stripes._
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +7
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +7
 
 **Defense**
 
@@ -31,11 +31,11 @@ N Medium [animal](creatureTypes#_animal)
 
 **Str** 14, **Dex** 15, **Con** 15, **Int** 2, **Wis** 13, **Cha** 6
 
-**Base Atk** +1; **CMB** +3; **CMD** 15 (19 vs. trip)
+**Base Atk** +1; **CMB** +3; **CMD** 15 (19 vs. trip
 
 **Feats** [Skill Focus](../feats#_skill-focus) (Perception)
 
-**Skills** [Perception](../skills/perception#_perception) +8, [Stealth](../skills/stealth#_stealth) +6 (+10 in tall grass); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) in tall grass
+**Skills** [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth) +6 (+10 in tall grass; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) in tall grass
 
 **Ecology**
 
@@ -67,7 +67,7 @@ _This large hyena has a thick head, rheumy red eyes, and a mouth filled with sha
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +8
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +8
 
 **Defense**
 
@@ -89,11 +89,11 @@ N Large [animal](creatureTypes#_animal)
 
 **Str** 18, **Dex** 15, **Con** 15, **Int** 2, **Wis** 13, **Cha** 6
 
-**Base Atk** +3; **CMB** +8; **CMD** 20 (24 vs. trip)
+**Base Atk** +3; **CMB** +8; **CMD** 20 (24 vs. trip
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception), [Stealth](../skills/stealth#_stealth))
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception, [Stealth](../skill_dir/stealth#_stealth)
 
-**Skills** [Perception](../skills/perception#_perception) +8, [Stealth](../skills/stealth#_stealth) +7 (+11 in tall grass or heavy undergrowth); **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth) in tall grass
+**Skills** [Perception](../skill_dir/perception#_perception +8, [Stealth](../skill_dir/stealth#_stealth) +7 (+11 in tall grass or heavy undergrowth; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth) in tall grass
 
 **Ecology**
 
@@ -103,7 +103,7 @@ N Large [animal](creatureTypes#_animal)
 
 **Treasure** incidental
 
-Dire hyenas (known to many as hyaenodons) are more fearsome than their smaller cousins. While hyaenodons won't turn down carrion as a handy meal, they much prefer to hunt for prey. A pack of dire hyenas rarely stops moving and hunting for anything other than sleep, mating, or food. Hyaenodons are 6 feet tall at the shoulder and often over 12 feet long. They weigh 900 pounds.
+Dire hyenas (known to many as hyaenodons are more fearsome than their smaller cousins. While hyaenodons won't turn down carrion as a handy meal, they much prefer to hunt for prey. A pack of dire hyenas rarely stops moving and hunting for anything other than sleep, mating, or food. Hyaenodons are 6 feet tall at the shoulder and often over 12 feet long. They weigh 900 pounds.
 
 Gnolls have been known to train hyaenodons to serve in their lairs as guardians, or more commonly as fearsome mounts.
 

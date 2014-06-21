@@ -1,9 +1,9 @@
 ---
-title: spells/breathOfLife
+title: spell_dir/breathOfLife
 ---
  **Breath of Life**
 
-**School** conjuration (healing); **Level** cleric 5
+**School** conjuration (healing; **Level** cleric 5
 
 **Casting Time** 1 standard action
 

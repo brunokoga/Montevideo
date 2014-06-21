@@ -1,9 +1,9 @@
 ---
-title: spells/majorCreation
+title: spell_dir/majorCreation
 ---
  **Major Creation**
 
-**School** conjuration (creation); **Level** sorcerer/wizard 5
+**School** conjuration (creation; **Level** sorcerer/wizard 5
 
 **Casting Time** : 10 minutes
 

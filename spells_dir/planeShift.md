@@ -1,13 +1,13 @@
 ---
-title: spells/planeShift
+title: spell_dir/planeShift
 ---
  **Plane Shift**
 
-**School** conjuration (teleportation); **Level** cleric 5, sorcerer/wizard 7
+**School** conjuration (teleportation; **Level** cleric 5, sorcere_dir/wizard 7
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a forked metal rod attuned to the plane of travel)
+**Components** V, S, F (a forked metal rod attuned to the plane of travel
 
 **Range** touch
 

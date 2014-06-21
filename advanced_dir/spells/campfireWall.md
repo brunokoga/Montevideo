@@ -13,7 +13,7 @@ title: advanced/spells/campfireWall
 
 **Effect** 20-ft.-radius sphere centered on fire source
 
-**Duration** 2 hours/level; see below (D)
+**Duration** 2 hour_dir/level; see below (D
 
 **Saving Throw** none; **Spell Resistance** yes
 

@@ -13,9 +13,9 @@ Boiling Blood
 
 **Targets** one creature per three levels, no two of which may be more than 30 ft. apart
 
-**Duration** concentration + 1 round/level (D)
+**Duration** concentration + 1 roun_dir/level (D)
 
-**Saving Throw** Fortitude negates (see text); **Spell Resistance** yes
+**Saving Throw** Fortitude negates (see text; **Spell Resistance** yes
 
 The blood of the targeted creatures begins to boil. If a target fails its save, it takes 1 point of fire damage per round. This spell has no effect on creatures that don't have blood.
 

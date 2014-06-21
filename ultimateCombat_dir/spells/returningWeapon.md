@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/returningWeapon
+title: ultimateCombat/spell_dir/returningWeapon
 ---
 Returning Weapon
 
-**School** conjuration (teleportation); **Level** bard 2, cleric 2, inquisitor 1, magus 1, ranger 1, sorcerer/wizard 2, witch 2
+**School** conjuration (teleportation; **Level** bard 2, cleric 2, inquisitor 1, magus 1, ranger 1, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 
@@ -13,13 +13,13 @@ Returning Weapon
 
 **Target** one weapon that can be thrown
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
-**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
+**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object
 
-For the duration of the spell, the target weapon acts as if it had the _ [returning](magicItems/weapons#_weapons-returning)_ weapon special ability.
+For the duration of the spell, the target weapon acts as if it had the _ [returning](magicItem_dir/weapons#_weapons-returning_ weapon special ability.
 
-This spell can be used as the prerequisite for the _ [returning](magicItems/weapons#_weapons-returning)_ weapon special ability.
+This spell can be used as the prerequisite for the _ [returning](magicItem_dir/weapons#_weapons-returning_ weapon special ability.
 
 Returning Weapon, Communal
 

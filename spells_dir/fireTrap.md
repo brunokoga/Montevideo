@@ -3,7 +3,7 @@ title: spells/fireTrap
 ---
  **Fire Trap**
 
-**School** abjuration [fire]; **Level** druid 2, sorcerer/wizard 4
+**School** abjuration [fire]; **Level** druid 2, sorcere_dir/wizard 4
 
 **Casting Time** 10 minutes
 
@@ -13,7 +13,7 @@ title: spells/fireTrap
 
 **Target** object touched
 
-**Duration** permanent until discharged (D)
+**Duration** permanent until discharged (D
 
 **Saving Throw** [Reflex](../combat#_reflex) half; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

@@ -1,13 +1,13 @@
 ---
-title: spells/ventriloquism
+title: spell_dir/ventriloquism
 ---
  **Ventriloquism**
 
-**School** illusion (figment); **Level** bard 1, sorcerer/wizard 1
+**School** illusion (figment; **Level** bard 1, sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, F (parchment rolled into cone)
+**Components** V, F (parchment rolled into cone
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

@@ -1,9 +1,9 @@
 ---
-title: spells/animalTrance
+title: spell_dir/animalTrance
 ---
  **Animal Trance**
 
-**School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 2, druid 2
+**School** enchantment (compulsion [mind-affecting, sonic]; **Level** bard 2, druid 2
 
 **Casting Time** 1 standard action
 

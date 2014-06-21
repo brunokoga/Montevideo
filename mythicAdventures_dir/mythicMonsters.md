@@ -11,7 +11,7 @@ This section includes over 40 example creatures—mythic versions of cyclopes, d
 
 This section continues with information on the mythic simple templates and mythic subtype, advice on how to create and balance new mythic monsters, and several new universal monster rules used by the monsters in _Mythic Adventures_.
 
-[Mythic Monster Index](mythicAdventures/mythicMonsters_dir/monsterIndex)
+[Mythic Monster Index](mythicAdventures/mythicMonster_dir/monsterIndex)
 
 # Mythic Monster Origins
 
@@ -26,11 +26,11 @@ How prevalent you want mythic creatures to be in your campaign is up to you, and
 
 # Mythic Rank
 
-A monster's mythic rank (MR) is a game statistic for monsters that's roughly equivalent to a mythic tier—monsters with only a little mythic power are 1st rank, and the greatest mythic monsters are 10th rank. Unlike PCs, monsters usually start with a specific mythic rank and that rank never changes. For example, a mythic troll is 2nd rank and is always going to be 2nd rank, unless the GM has a reason for its rank to increase—like if a tribe of trolls has an artifact that grants the trolls mythic power, and the longer it takes the PCs to deal with them, the more powerful the artifact makes these monsters.
+A monster's mythic rank (MR is a game statistic for monsters that's roughly equivalent to a mythic tier—monsters with only a little mythic power are 1st rank, and the greatest mythic monsters are 10th rank. Unlike PCs, monsters usually start with a specific mythic rank and that rank never changes. For example, a mythic troll is 2nd rank and is always going to be 2nd rank, unless the GM has a reason for its rank to increase—like if a tribe of trolls has an artifact that grants the trolls mythic power, and the longer it takes the PCs to deal with them, the more powerful the artifact makes these monsters.
 
-In terms of power, mythic ranks and mythic tiers are similar, but not exactly the same. For any ability, spell, magic item, or other rule that requires a mythic tier or interfaces with the tier rules, a monster's mythic rank counts as its tier. For example, a sword that gains additional abilities when wielded by a character of 3rd tier or higher gains those bonuses when wielded by a monster of 3rd rank or higher. A few mythic monsters have mythic tier abilities identical to those available to PCs; a monster's mythic rank counts as its tier for any effects dependent on tier. For example, a monster with the [parry spell guardian path ability](mythicAdventures/mythicHeroes/guardian#_parry-spell) uses its mythic rank to determine the level of spells it can parry with that ability.
+In terms of power, mythic ranks and mythic tiers are similar, but not exactly the same. For any ability, spell, magic item, or other rule that requires a mythic tier or interfaces with the tier rules, a monster's mythic rank counts as its tier. For example, a sword that gains additional abilities when wielded by a character of 3rd tier or higher gains those bonuses when wielded by a monster of 3rd rank or higher. A few mythic monsters have mythic tier abilities identical to those available to PCs; a monster's mythic rank counts as its tier for any effects dependent on tier. For example, a monster with the [parry spell guardian path ability](mythicAdventures/mythicHeroe_dir/guardian#_parry-spell uses its mythic rank to determine the level of spells it can parry with that ability.
 
-It is possible for a low-CR creature to have a high mythic rank, or for a high-CR creature to have a low mythic rank. For a typical monster that's acquired mythic power, its rank is equal to half its original CR. For example, a CR 4 owlbear that becomes a mythic creature should be 2nd rank. To determine a mythic monster's final CR, add half its mythic rank to its original CR. For example, a 2nd rank mythic owlbear's final CR is 5 (2 × 1/2 + 4). See [Designing Encounters](mythicAdventures/mythicGame#_designing-encounters) for more details. All the monsters presented in this section use this typical MR value.
+It is possible for a low-CR creature to have a high mythic rank, or for a high-CR creature to have a low mythic rank. For a typical monster that's acquired mythic power, its rank is equal to half its original CR. For example, a CR 4 owlbear that becomes a mythic creature should be 2nd rank. To determine a mythic monster's final CR, add half its mythic rank to its original CR. For example, a 2nd rank mythic owlbear's final CR is 5 (2 × 1/2 + 4). See [Designing Encounters](mythicAdventure_dir/mythicGame#_designing-encounters) for more details. All the monsters presented in this section use this typical MR value.
 
 A creature shouldn't have both a mythic tier and a mythic rank. For example, a mythic creature that gains the vampire template has a mythic tier, and a non-mythic creature that gains the mythic vampire template has a mythic rank, but a mythic creature that becomes a mythic vampire loses its tier and gains ranks instead, as explained in the mythic vampire template. Mythic templates and other effects that grant a creature a mythic rank should include information about what happens when a mythic creature gains that template or effect.
 
@@ -38,9 +38,9 @@ A creature shouldn't have both a mythic tier and a mythic rank. For example, a m
 
 Mythic monster stat blocks work just like non-mythic monster stat blocks, but have a few additional pieces of information. The differences are summarized in the following section.
 
-**Name, CR, and MR** : The monster's name is presented first, along with its challenge rating (CR), its mythic rank (MR), and three icons you can use to quickly identify the creature's role in the game. The monster's CR already factors in the CR increase it gets for having mythic ranks.
+**Name, CR, and MR** : The monster's name is presented first, along with its challenge rating (CR), its mythic rank (MR, and three icons you can use to quickly identify the creature's role in the game. The monster's CR already factors in the CR increase it gets for having mythic ranks.
 
-**Init and Senses** : Several mythic monsters have the Mythic [Improved Initiative](mythicAdventures/mythicFeats#_improved-initiative-mythic) feat, which allows the creature to expend one use of mythic power to treat its initiative roll as a 20. Because you rarely check the Feats entry for a monster when rolling initiative, it would be easy to forget that ability when using the monster. As a reminder of this ability, a monster with that feat has a superscript "M" after its initiative modifier. The listed initiative modifier already includes the additional bonus from the Mythic Improved Initiative feat.
+**Init and Senses** : Several mythic monsters have the Mythic [Improved Initiative](mythicAdventure_dir/mythicFeats#_improved-initiative-mythic) feat, which allows the creature to expend one use of mythic power to treat its initiative roll as a 20. Because you rarely check the Feats entry for a monster when rolling initiative, it would be easy to forget that ability when using the monster. As a reminder of this ability, a monster with that feat has a superscript "M" after its initiative modifier. The listed initiative modifier already includes the additional bonus from the Mythic Improved Initiative feat.
 
 **Feats** : The creature's feats are listed here. If a monster has a mythic feat, that feat is identified with a superscript "M," such as "Improved InitiativeM" rather than "Mythic [Improved Initiative](feats#_improved-initiative)." Most mythic feats improve non-mythic feats, and have the non-mythic feat as a prerequisite. In these cases, the non-mythic feat isn't listed along with the mythic feat—the superscript "M" indicates the creature has the mythic and non-mythic versions of that feat.
 
@@ -50,9 +50,9 @@ Mythic monster stat blocks work just like non-mythic monster stat blocks, but ha
 
 **Organization** : The mythic monsters presented here list the same information on organization as the non-mythic versions of the creatures. These stat blocks make no assumptions about the uniqueness or rarity of these mythic monsters in your campaign. This allows you to adapt existing encounters in printed adventures to a mythic campaign by replacing one, some, or all non-mythic creatures in a specific encounter with their mythic equivalents. For example, to challenge a group of mythic PCs in an adventure featuring an encounter with six trolls, you could replace any number of those trolls with mythic trolls—perhaps just the leader is a mythic troll, creating a slightly more difficult encounter, or perhaps all of them are mythic, resulting in a much harder challenge.
 
-**Treasure** : Most of the mythic monsters presented here use the same treasure notation as their non-mythic counterparts. For example, trolls have standard treasure, so mythic trolls also have standard treasure. However, a mythic monster's CR will be higher than its non-mythic equivalent, so when awarding treasure you should account for the CR increase and adjust the monster's treasure accordingly. A mythic troll encountered with non-mythic trolls should have slightly better treasure because of its higher CR (just as a fiendish troll encountered with a gang of normal trolls should have better treasure). If a monster normally has NPC-type treasure (like an ogre does), the mythic version of that monster usually has better treasure than its non-mythic counterparts, since its CR is higher.
+**Treasure** : Most of the mythic monsters presented here use the same treasure notation as their non-mythic counterparts. For example, trolls have standard treasure, so mythic trolls also have standard treasure. However, a mythic monster's CR will be higher than its non-mythic equivalent, so when awarding treasure you should account for the CR increase and adjust the monster's treasure accordingly. A mythic troll encountered with non-mythic trolls should have slightly better treasure because of its higher CR (just as a fiendish troll encountered with a gang of normal trolls should have better treasure). If a monster normally has NPC-type treasure (like an ogre does, the mythic version of that monster usually has better treasure than its non-mythic counterparts, since its CR is higher.
 
-Mythic monsters—especially intelligent ones—may be more likely to use magical treasures found in their lairs, perhaps out of some instinctive cunning about the item or because the item was given to the monster by the entity that granted the monster its mythic power. For example, a mythic hydra with an _ [amulet of mighty fists](magicItems/wondrousItems#_amulet-of-mighty-fists) +1_ in its treasure hoard could be a sacred guardian created by the god of snakes, and the amulet could have been granted to the hydra by the god, giving the creature the full benefit of the item.
+Mythic monsters—especially intelligent ones—may be more likely to use magical treasures found in their lairs, perhaps out of some instinctive cunning about the item or because the item was given to the monster by the entity that granted the monster its mythic power. For example, a mythic hydra with an _ [amulet of mighty fists](magicItem_dir/wondrousItems#_amulet-of-mighty-fists) +1_ in its treasure hoard could be a sacred guardian created by the god of snakes, and the amulet could have been granted to the hydra by the god, giving the creature the full benefit of the item.
 
 **Special Abilities** : These monsters include descriptions of the non-mythic monster's special abilities, so you don't need to reference the non-mythic monster to use the mythic monster. In some cases, these descriptions are simplified or shortened to make room for the mythic monster's new abilities. If you have questions about how a monster's special ability works, refer to the full text of the non-mythic monster's original description in the _Bestiary_.
 
@@ -88,7 +88,7 @@ Creatures with the divine template can call upon the power of the gods, allowing
 
 Creatures with the invincible template are incredibly difficult to harm. They can withstand immense punishment and continue to fight. If the creature has 11 or more Hit Dice, this simple template grants a mythic rank of 2 instead of 1. An invincible creature's quick and rebuild rules are the same.
 
-**Rebuild Rules** : **AC** increase natural armor bonus by 2 (or 4 if the creature has 11 or more Hit Dice); **hp** mythic bonus hit points; **Defensive Abilities** gains DR and resistance to all types of energy as per the table below, as well as block attacks and second save.
+**Rebuild Rules** : **AC** increase natural armor bonus by 2 (or 4 if the creature has 11 or more Hit Dice; **hp** mythic bonus hit points; **Defensive Abilities** gains DR and resistance to all types of energy as per the table below, as well as block attacks and second save.
 
 [Invincible Template Defenses]
 | Hit Dice | Energy Resistance | DR |
@@ -174,7 +174,7 @@ If the creature already has damage reduction, it adds epic to the qualities need
 
 **Mythic Feats** : At 1st rank and every 2 ranks thereafter, the monster gains a mythic feat. It must meet all of the prerequisites for this feat.
 
-**Additional Mythic Abilities** : The monster gains a number of mythic abilities equal to its MR + 1. Such abilities can be drawn from the mythic path abilities for [mythic heroes](mythicAdventures/mythicHeroes) or the mythic abilities listed with the monsters in this section, or it can be a new ability you create by taking inspiration from those abilities. These abilities should be thematically appropriate for the creature.
+**Additional Mythic Abilities** : The monster gains a number of mythic abilities equal to its MR + 1. Such abilities can be drawn from the mythic path abilities for [mythic heroes](mythicAdventure_dir/mythicHeroes or the mythic abilities listed with the monsters in this section, or it can be a new ability you create by taking inspiration from those abilities. These abilities should be thematically appropriate for the creature.
 
 Some new monster abilities are especially powerful; at the GM's discretion, they can count as two abilities toward this total. For example, the mythic fire giant's fire vortex ability could count as two mythic abilities.
 
@@ -230,10 +230,10 @@ _Format_: dragon fury (1d6 fire); _Location_: Special Attacks.
 **Dual Initiative (Ex)** : The monster gets two turns each round, one on its initiative count and another on its initiative count – 20. For example, if the monster's initiative is 23, for its first turn it could make a full attack (and take a 5 foot step) at initiative 23, and for its second turn at initiative 3 it could take a move action and cast a spell. This allows the monster to perform two actions per round that normally take an entire round, such as using a _summon monster_ spell. For the purposes of spells and effects that have a duration of a round or longer or trigger at the beginning of the creature's round or the start of its turn such as saving throws against ongoing effects or taking bleed damage), only the monster's first turn each round counts toward such durations.  
 _Format_: +21/+1; _Location_: Initiative.
 
-**Feral Savagery (Su)** : Under the circumstances listed in the monster's stat block—such as when it makes a full attack or a rend attack—it can immediately attempt an additional attack against an opponent. This attack is made using the creature's full base attack bonus, plus any modifiers appropriate to the situation. This additional attack doesn't stack with similar means of gaining additional attacks, such as the _ [haste](spells/haste#_haste)_ spell or a _ [speed](magicItems/weapons#_weapons-speed)_ weapon. This ability doesn't grant an extra action, so you can't use it to cast a second spell or otherwise take an extra action in the round.  
+**Feral Savagery (Su)** : Under the circumstances listed in the monster's stat block—such as when it makes a full attack or a rend attack—it can immediately attempt an additional attack against an opponent. This attack is made using the creature's full base attack bonus, plus any modifiers appropriate to the situation. This additional attack doesn't stack with similar means of gaining additional attacks, such as the _ [haste](spell_dir/haste#_haste_ spell or a _ [speed](magicItem_dir/weapons#_weapons-speed)_ weapon. This ability doesn't grant an extra action, so you can't use it to cast a second spell or otherwise take an extra action in the round.  
 _Format_: feral savagery (full attack); _Location_: special attacks.
 
-**Fortification (Ex)** : The monster has an 50% chance to treat any critical hit or sneak attack as a normal hit, as if wearing _moderate [fortification](magicItems/armor#_armor-fortification)_ armor.  
+**Fortification (Ex** : The monster has an 50% chance to treat any critical hit or sneak attack as a normal hit, as if wearing _moderate [fortification](magicItem_dir/armor#_armor-fortification)_ armor.  
 _Format_: fortification (50%); _Location_: Defensive Abilities.
 
 **Greensight (Su)** : The monster can see through thick plant matter as though it were transparent, usually with a range of 60 feet. Leaves, vines, greenery, and undergrowth offer no concealment to the monster's sight, though solid wood still blocks its line of sight.  
@@ -254,7 +254,7 @@ _Format_: lingering breath (2d6 fire, 5 rounds); _Location_: Special Attacks.
 **Mistsight (Ex)** : The monster can see through fog, mist, and murky water as if they were perfectly clear, ignoring the miss chance for these obstructions, up to its normal range of vision.  
 _Format_: mistsight; _Location_: Senses.
 
-**Mythic Magic (Su)** : Up to three times per day, when the creature casts a spell, it can cast the mythic version instead (as with all mythic spells, the creature must expend mythic power to cast a mythic spell in this way).  
+**Mythic Magic (Su)** : Up to three times per day, when the creature casts a spell, it can cast the mythic version instead (as with all mythic spells, the creature must expend mythic power to cast a mythic spell in this way.  
 _Format_: mythic magic 3/day; _Location_: Special Attacks.
 
 **Mythic Power (Su)** : The mythic monster can draw upon a wellspring of power to accomplish amazing deeds and cheat fate. Each day, it can expend a number of uses of mythic power equal to its mythic rank. This amount is its maximum amount of mythic power. If an ability allows it to regain mythic power, it can never gain more than this amount. The monster automatically has the surge ability, and can use this mythic power to activate it. It may have other abilities that rely on mythic power.  
@@ -269,7 +269,7 @@ _Format_: powerful blows (slam); _Location_: SQ.
 **Sand Glide (Ex)** : This ability functions like the earth elemental's earth glide ability, but works only on sand, dirt, and other fine-grained solid matter. The creature's speed using sand glide as the same as its base speed.  
 _Format_: sand glide; _Location_: Speed.
 
-**Second Save (Ex)** : Whenever the creature fails a saving throw against an effect with a duration greater than 1 round, it can keep trying to shake off the effect. At the start of its turn, if it's still affected, it can attempt the save one more time as a free action. If this save succeeds, the effect affects the creature as if it had succeeded at its initial saving throw. If the effect already allows another saving throw on a later turn to break the effect (such as for _ [hold monster](spells/holdMonster#_hold-monster)_), this ability is in addition to the extra saving throw from the effect.  
+**Second Save (Ex)** : Whenever the creature fails a saving throw against an effect with a duration greater than 1 round, it can keep trying to shake off the effect. At the start of its turn, if it's still affected, it can attempt the save one more time as a free action. If this save succeeds, the effect affects the creature as if it had succeeded at its initial saving throw. If the effect already allows another saving throw on a later turn to break the effect (such as for _ [hold monster](spell_dir/holdMonster#_hold-monster)_, this ability is in addition to the extra saving throw from the effect.  
 _Format_: second save; _Location_: after saving throws.
 
 **Simple Arcane Spellcasting** : The creature gains the ability to cast spells from the sorcerer/wizard spell list. Select a number of spells with total spell levels equal to twice the creature's CR. No spell for this ability should have a level higher than 1 + 1/2 the creature's CR. A 0-level spell counts as 1/2 spell level toward this total. The creature can cast each of these spells once per day. Its caster level is equal to its Hit Dice. It uses the higher of its Intelligence or Charisma modifiers to determine its spell DCs.  
@@ -292,12 +292,12 @@ _Format_: steal; _Location_: individual attacks.
 
 Surge doesn't have a separate entry in the monster stat block—the surge die is listed in the mythic power ability.
 
-**X-Ray Vision (Su)** : The monster can see through solid matter as if wearing a _ [ring of x-ray vision](magicItems/rings#_ring-of-x-ray-vision)_. This is as exhausting as if the monster were actually using the ring.  
+**X-Ray Vision (Su)** : The monster can see through solid matter as if wearing a _ [ring of x-ray vision](magicItem_dir/rings#_ring-of-x-ray-vision_. This is as exhausting as if the monster were actually using the ring.  
 _Format_: x-ray vision; _Location_: Senses.
 
 ## Evaluating Monster Statistics
 
-The Monster Statistics by CR is an expansion of the table of the same name [listed here](monsters/universalMonsterRules), listing approximate statistics for monsters up to CR 30 (the information for CR 1–20 is identical to that presented in the _Bestiary_). These values are rough guidelines. You'll notice that many of the existing monsters in this section don't follow these guidelines exactly. Most monsters excel in one of these areas (usually in the amount of damage dealt), but lag in one or two other areas to balance them out. For example, a monster might have higher damage than what's listed in the table, but have a lower AC and hit points. The entries on the table are as follows.
+The Monster Statistics by CR is an expansion of the table of the same name [listed here](monster_dir/universalMonsterRules), listing approximate statistics for monsters up to CR 30 (the information for CR 1–20 is identical to that presented in the _Bestiary_). These values are rough guidelines. You'll notice that many of the existing monsters in this section don't follow these guidelines exactly. Most monsters excel in one of these areas (usually in the amount of damage dealt, but lag in one or two other areas to balance them out. For example, a monster might have higher damage than what's listed in the table, but have a lower AC and hit points. The entries on the table are as follows.
 
 **CR** : This is the approximate CR of the monster. This number might change as the design progresses.
 
@@ -309,13 +309,13 @@ The Monster Statistics by CR is an expansion of the table of the same name [list
 
 **Low Attack** : This is the average total attack bonus for a creature of this CR that doesn't rely upon melee or ranged attacks to deal damage. This includes most creatures that mainly use spells and spell-like abilities in combat.
 
-**Average Damage** : This is the average amount of damage dealt by a creature of this CR if all of its attacks are successful. To determine a creature's average damage, add the average value for all of the damage dice rolled (as determined by the [Average Die Results table](monsters/monsterCreation#_table-1-5-average-die-results)) to the damage modifier for each attack.
+**Average Damage** : This is the average amount of damage dealt by a creature of this CR if all of its attacks are successful. To determine a creature's average damage, add the average value for all of the damage dice rolled (as determined by the [Average Die Results table](monster_dir/monsterCreation#_table-1-5-average-die-results)) to the damage modifier for each attack.
 
 A creature that relies on melee or ranged weapons in combat should have average damage within the range of high and low damage.
 
 A creature with higher than normal attack bonuses often deals less damage, and a creature with lower than normal attack bonuses often deals more damage.
 
-**Primary Ability DC** : This is the average difficulty class (DC) for any spells, spell-like abilities, and special abilities (such as breath weapons) possessed by a creature of this CR that relies on such attacks in combat. If an ability is particularly powerful, it might have a lower DC to compensate for that.
+**Primary Ability DC** : This is the average difficulty class (DC) for any spells, spell-like abilities, and special abilities (such as breath weapons possessed by a creature of this CR that relies on such attacks in combat. If an ability is particularly powerful, it might have a lower DC to compensate for that.
 
 **Secondary Ability DC** : This is the average DC for spells and special abilities for a creature that does not rely on such attacks in combat. Generally, an ability's DC should not be lower than this number.
 

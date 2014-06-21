@@ -13,7 +13,7 @@ title: spells/iceStorm
 
 **Area** cylinder (20-ft. radius, 40 ft. high)
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

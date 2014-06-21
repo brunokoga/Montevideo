@@ -9,19 +9,19 @@ This freakish beast has the head of a badger, the hooves of a stag, and a wide m
 
 **XP 1,600**
 
-CE Large [magical beast](monsters/creatureTypes#_magical-beast)
+CE Large [magical beast](monster_dir/creatureTypes#_magical-beast
 
-**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](additionalMonsters/../skills/perception#_perception) +2
+**Init** +5; **Senses** darkvision 60 ft., low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](additionalMonsters/../skill_dir/perception#_perception) +2
 
 Defense
 
 **AC** 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
 
-**hp** 57 (6d10+24)
+**hp** 57 (6d10+24
 
 **Fort** +9, **Ref** +6, **Will** +4
 
-**Immune** [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su))
+**Immune** [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su), [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)
 
 Offense
 
@@ -39,13 +39,13 @@ Statistics
 
 **Base Atk** +6; **CMB** +12; **CMD** 23 (27 vs. trip)
 
-**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Bluff](additionalMonsters/../skills/bluff#_bluff)), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonsters/../skills/stealth#_stealth))
+**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Bluff](additionalMonsters/../skill_dir/bluff#_bluff), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
 
-**Skills** [Bluff](additionalMonsters/../skills/bluff#_bluff) +12, [Climb](additionalMonsters/../skills/climb#_climb) +13, [Stealth](additionalMonsters/../skills/stealth#_stealth) +9
+**Skills** [Bluff](additionalMonsters/../skill_dir/bluff#_bluff +12, [Climb](additionalMonsters/../skill_dir/climb#_climb +13, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +9
 
 **Languages** Common
 
-**SQ** [sound mimicry](monsters/universalMonsterRules#_sound-mimicry) (voices)
+**SQ** [sound mimicry](monster_dir/universalMonsterRules#_sound-mimicry) (voices)
 
 Ecology
 
@@ -57,9 +57,9 @@ Ecology
 
 Special Abilities
 
-**Lure (Su)** At any point that a leucrotta's targets are unaware of it (for example, if the leucrotta is hiding or concealed in darkness), the leucrotta can call out to the targets, who must be in line of sight and within 60 feet. When the leucrotta calls out, the targets must make a DC 16 Will save or fall under the effects of a _ [suggestion](additionalMonsters/../spells/suggestion#_suggestion)_ to approach the sound of the leucrotta's voice. This effect functions identically to a _ [mass suggestion](additionalMonsters/../spells/suggestion#_suggestion-mass)_ spell with a caster level equal to the leucrotta's Hit Dice. A creature that saves cannot be affected again by the same leucrotta's lure for 24 hours. The lure is a language-dependant effect, and if the leucrotta uses the victim's name during the lure, the victim takes a –4 penalty on its saving throw. This is a sonic mind-affecting charm effect. The save DC is Charisma-based.
+**Lure (Su)** At any point that a leucrotta's targets are unaware of it (for example, if the leucrotta is hiding or concealed in darkness, the leucrotta can call out to the targets, who must be in line of sight and within 60 feet. When the leucrotta calls out, the targets must make a DC 16 Will save or fall under the effects of a _ [suggestion](additionalMonsters/../spell_dir/suggestion#_suggestion_ to approach the sound of the leucrotta's voice. This effect functions identically to a _ [mass suggestion](additionalMonsters/../spell_dir/suggestion#_suggestion-mass)_ spell with a caster level equal to the leucrotta's Hit Dice. A creature that saves cannot be affected again by the same leucrotta's lure for 24 hours. The lure is a language-dependant effect, and if the leucrotta uses the victim's name during the lure, the victim takes a –4 penalty on its saving throw. This is a sonic mind-affecting charm effect. The save DC is Charisma-based.
 
-**Powerful Bite (Ex)** A leucrotta's bite attack always applies 1-1/2 times its Strength modifier on damage rolls and threatens a critical hit on a roll of 19–20. When a leucrotta bites an object, its bite treats the object as having a hardness of 5 less than the object's actual hardness rating.
+**Powerful Bite (Ex** A leucrotta's bite attack always applies 1-1/2 times its Strength modifier on damage rolls and threatens a critical hit on a roll of 19–20. When a leucrotta bites an object, its bite treats the object as having a hardness of 5 less than the object's actual hardness rating.
 
 Reputed to be descended from hyenas and a demon lord, these creatures are intelligent and cruel, using their astounding vocal mimicry to lure foolish and unsuspecting creatures to where the pack can torment them at its leisure before finally devouring them.
 

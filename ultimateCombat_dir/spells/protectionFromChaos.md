@@ -7,5 +7,5 @@ Protection from Chaos, Communal
 
 **Target** creatures touched
 
-This spell functions like _ [protection from chaos](spells/protectionFromChaos#_protection-from-chaos)_, except you divide the duration in 1-minute intervals among the creatures touched.
+This spell functions like _ [protection from chaos](spell_dir/protectionFromChaos#_protection-from-chaos_, except you divide the duration in 1-minute intervals among the creatures touched.
 

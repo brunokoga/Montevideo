@@ -1,5 +1,5 @@
 ---
-title: monsters/wolverine
+title: monster_dir/wolverine
 ---
 # Wolverine
 
@@ -11,7 +11,7 @@ _This stocky, muscular mammal is the size of a badger, its snarling lips reveali
 
 N Medium [animal](creatureTypes#_animal)
 
-**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +10
+**Init** +2; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +10
 
 **Defense**
 
@@ -33,11 +33,11 @@ N Medium [animal](creatureTypes#_animal)
 
 **Str** 15, **Dex** 15, **Con** 15, **Int** 2, **Wis** 12, **Cha** 10
 
-**Base Atk** +2; **CMB** +4; **CMD** 16 (20 vs. trip)
+**Base Atk** +2; **CMB** +4; **CMD** 16 (20 vs. trip
 
-**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Toughness](../feats#_toughness)
 
-**Skills** [Climb](../skills/climb#_climb) +10, [Perception](../skills/perception#_perception) +10
+**Skills** [Climb](../skill_dir/climb#_climb +10, [Perception](../skill_dir/perception#_perception) +10
 
 **Ecology**
 
@@ -65,7 +65,7 @@ _This terrible wolverine is as large as a bear, its jaws and claws oversized and
 
 N Large [animal](creatureTypes#_animal)
 
-**Init** +7; **Senses** low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +12
+**Init** +7; **Senses** low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +12
 
 **Defense**
 
@@ -89,11 +89,11 @@ N Large [animal](creatureTypes#_animal)
 
 **Str** 19, **Dex** 17, **Con** 17, **Int** 2, **Wis** 12, **Cha** 10
 
-**Base Atk** +3; **CMB** +8; **CMD** 21 (25 vs. trip)
+**Base Atk** +3; **CMB** +8; **CMD** 21 (25 vs. trip
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception)), [Toughness](../feats#_toughness)
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception), [Toughness](../feats#_toughness)
 
-**Skills** [Climb](../skills/climb#_climb) +12, [Perception](../skills/perception#_perception) +12
+**Skills** [Climb](../skill_dir/climb#_climb +12, [Perception](../skill_dir/perception#_perception) +12
 
 **Ecology**
 
@@ -105,7 +105,7 @@ N Large [animal](creatureTypes#_animal)
 
 **Special Abilities**
 
-**Rage (Ex)** A dire wolverine that takes damage in combat flies into a rage on its next turn, madly clawing and biting until either it or its opponent is dead. It gains +4 to Strength, +4 to Constitution, and –2 to AC. The creature cannot end its rage voluntarily.
+**Rage (Ex** A dire wolverine that takes damage in combat flies into a rage on its next turn, madly clawing and biting until either it or its opponent is dead. It gains +4 to Strength, +4 to Constitution, and –2 to AC. The creature cannot end its rage voluntarily.
 
 Dire wolverines tend to be even more territorial than their smaller wolverine cousins, and they defend to the death the areas where they choose to live, often selecting humanoid-settled regions as their own and then fearlessly tearing the settlements apart. Dire wolverines grow to about 12 feet in length and can weigh as much as 2,000 pounds.
 

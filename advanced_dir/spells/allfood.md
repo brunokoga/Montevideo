@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/allfood
+title: advanced/spell_dir/allfood
 ---
  **Allfood**
 
@@ -7,7 +7,7 @@ title: advanced/spells/allfood
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a pinch of salt and pepper)
+**Components** V, S, M (a pinch of salt and pepper
 
 **Range** touch
 

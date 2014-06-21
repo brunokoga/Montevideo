@@ -9,15 +9,15 @@ Dust DiggerCR 4
 
 **XP 1,200**
 
-N Large [aberration](monsters/creatureTypes#_aberration)
+N Large [aberration](monster_dir/creatureTypes#_aberration
 
-**Init** +4; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +5
+**Init** +4; **Senses** darkvision 60 ft., tremorsense 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
 
 Defense
 
 **AC** 16, touch 9, flat-footed 16 (+7 natural, –1 size)
 
-**hp** 42 (5d8+20)
+**hp** 42 (5d8+20
 
 **Fort** +5, **Ref** +1, **Will** +4
 
@@ -25,11 +25,11 @@ Offense
 
 **Speed** 10 ft., burrow 20 ft.
 
-**Melee** bite +5 (1d8+3 plus [grab](monsters/universalMonsterRules#_grab)), 5 tentacles +3 (1d4+1 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** bite +5 (1d8+3 plus [grab](monster_dir/universalMonsterRules#_grab), 5 tentacles +3 (1d4+1 plus [grab](monster_dir/universalMonsterRules#_grab))
 
 **Space** 10 ft.; **Reach** 10 ft.
 
-**Special Attacks** sinkhole, swallow whole (2d8+4 bludgeoning, AC 13, 4 hp)
+**Special Attacks** sinkhole, swallow whole (2d8+4 bludgeoning, AC 13, 4 hp
 
 Statistics
 
@@ -37,9 +37,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +7; **CMD** 17
 
-**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Multiattack](additionalMonsters/../monsters/monsterFeats#_multiattack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonsters/../skills/stealth#_stealth))
+**Feats** [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Multiattack](additionalMonsters/../monster_dir/monsterFeats#_multiattack, [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Stealth](additionalMonsters/../skill_dir/stealth#_stealth)
 
-**Skills** [Perception](additionalMonsters/../skills/perception#_perception) +5, [Stealth](additionalMonsters/../skills/stealth#_stealth) +5 (+13 in ambush); **Racial Modifiers** +8 [Stealth](additionalMonsters/../skills/stealth#_stealth) in ambush
+**Skills** [Perception](additionalMonsters/../skill_dir/perception#_perception +5, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +5 (+13 in ambush; **Racial Modifiers** +8 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) in ambush
 
 Ecology
 
@@ -57,5 +57,5 @@ Dust diggers most resemble mammoth starfish, with thick sandy-colored exoskeleto
 
 As ambush predators, dust diggers spend the majority of their lives buried beneath the sand, waiting patiently for prey to stumble over their ambush site.
 
-Dust diggers are asexual. They reproduce by budding, splitting off young three to four times over the course of their 10-year lives—smaller versions of themselves that must immediately move away from the parent to avoid being snatched up and eaten. Dust digger young are just over 4 feet across, and can move relatively quickly through sand (their burrow speed is 40 feet). Usually, a young dust digger travels at least a mile from its parent before it settles down to create its first ambush—the amount of life in the region it has chosen as its new lair often determines whether the new dust digger thrives or starves to death, for once it digs its first ambush, it rarely moves more than a few hundred feet away over the course of its life.
+Dust diggers are asexual. They reproduce by budding, splitting off young three to four times over the course of their 10-year lives—smaller versions of themselves that must immediately move away from the parent to avoid being snatched up and eaten. Dust digger young are just over 4 feet across, and can move relatively quickly through sand (their burrow speed is 40 feet. Usually, a young dust digger travels at least a mile from its parent before it settles down to create its first ambush—the amount of life in the region it has chosen as its new lair often determines whether the new dust digger thrives or starves to death, for once it digs its first ambush, it rarely moves more than a few hundred feet away over the course of its life.
 

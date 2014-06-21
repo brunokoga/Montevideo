@@ -11,11 +11,11 @@ Badger's Ferocity
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Target** one weapon/3 levels
+**Target** one weapo_dir/3 levels
 
 **Duration** concentration
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
 
-This functions like _ [keen edge](spells/keenEdge#_keen-edge)_, except it affects multiple weapons and requires your concentration. You select the weapons to be affected, and can only affect one weapon per creature. If a creature's weapon exceeds the spell's range, the spell ends for that weapon.
+This functions like _ [keen edge](spell_dir/keenEdge#_keen-edge_, except it affects multiple weapons and requires your concentration. You select the weapons to be affected, and can only affect one weapon per creature. If a creature's weapon exceeds the spell's range, the spell ends for that weapon.
 

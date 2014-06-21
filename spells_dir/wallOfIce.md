@@ -3,11 +3,11 @@ title: spells/wallOfIce
 ---
  **Wall of Ice**
 
-**School** evocation [cold]; **Level** sorcerer/wizard 4
+**School** evocation [cold]; **Level** sorcere_dir/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a piece of quartz or rock crystal)
+**Components** V, S, M (a piece of quartz or rock crystal
 
 **Range** medium (100 ft. + 10 ft./level)
 

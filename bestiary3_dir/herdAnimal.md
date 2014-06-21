@@ -11,7 +11,7 @@ XP 200
 
 N Small animal
 
-**Init** +3; **Senses** low-light vision; [Perception](skills/perception#_perception) +5
+**Init** +3; **Senses** low-light vision; [Perception](skill_dir/perception#_perception) +5
 
 Defense
 
@@ -25,9 +25,9 @@ Offense
 
 **Speed** 60 ft.
 
-**Melee** gore +1 (1d4)
+**Melee** gore +1 (1d4
 
-**Special Attack** [powerful charge](monsters/universalMonsterRules#_powerful-charge) (gore, 1d4+2)
+**Special Attack** [powerful charge](monster_dir/universalMonsterRules#_powerful-charge) (gore, 1d4+2)
 
 Statistics
 
@@ -35,15 +35,15 @@ Statistics
 
 **Base Atk** +0; **CMB** –1; **CMD** 12 (16 vs. trip)
 
-**Feats** [Lightning Reflexes](feats#_lightning-reflexes), [Run](feats#_run)B
+**Feats** [Lightning Reflexes](feats#_lightning-reflexes), [Run](feats#_runB
 
-**Skills** [Perception](skills/perception#_perception) +5
+**Skills** [Perception](skill_dir/perception#_perception) +5
 
 Ecology
 
 **Environment** temperate or warm plains
 
-**Organization** solitary, pair, or herd (3–50)
+**Organization** solitary, pair, or herd (3–50
 
 **Treasure** none
 
@@ -65,7 +65,7 @@ XP 400
 
 N Medium animal
 
-**Init** +3; **Senses** low-light vision; [Perception](skills/perception#_perception) +7
+**Init** +3; **Senses** low-light vision; [Perception](skill_dir/perception#_perception) +7
 
 Defense
 
@@ -87,15 +87,15 @@ Statistics
 
 **Base Atk** +1; **CMB** +3; **CMD** 16 (20 vs. trip)
 
-**Feats** [Lightning Reflexes](feats#_lightning-reflexes), [Run](feats#_run)B
+**Feats** [Lightning Reflexes](feats#_lightning-reflexes), [Run](feats#_runB
 
-**Skills** [Perception](skills/perception#_perception) +7
+**Skills** [Perception](skill_dir/perception#_perception +7
 
 Ecology
 
-**Environment** [cold](monsters/creatureTypes#_cold-subtype) or temperate plains
+**Environment** [cold](monster_dir/creatureTypes#_cold-subtype) or temperate plains
 
-**Organization** solitary, pair, or herd (3–50)
+**Organization** solitary, pair, or herd (3–50
 
 **Treasure** none
 

@@ -1,9 +1,9 @@
 ---
-title: ultimateCombat/spells/negativeReaction
+title: ultimateCombat/spell_dir/negativeReaction
 ---
 Negative Reaction
 
-**School** illusion (glamer); **Level** bard 1, magus 1, sorcerer/wizard 1, witch 1
+**School** illusion (glamer; **Level** bard 1, magus 1, sorcerer/wizard 1, witch 1
 
 **Casting Time** 1 standard action
 
@@ -17,5 +17,5 @@ Negative Reaction
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
-The target's actions and words fail to impress. The target of this spell takes a –10 penalty on any [Bluff](skills/bluff#_bluff), [Diplomacy](skills/diplomacy#_diplomacy), and [Intimidate](skills/intimidate#_intimidate) checks as well as any performance combat checks it attempts.
+The target's actions and words fail to impress. The target of this spell takes a –10 penalty on any [Bluff](skill_dir/bluff#_bluff, [Diplomacy](skill_dir/diplomacy#_diplomacy, and [Intimidate](skill_dir/intimidate#_intimidate checks as well as any performance combat checks it attempts.
 

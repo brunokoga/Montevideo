@@ -11,13 +11,13 @@ _This walking corpse wears only a few soiled rags, its flesh rotting off its bon
 
 NE Medium [undead](creatureTypes#_undead)
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +0
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
 **AC** 12, touch 10, flat-footed 12 (+2 natural)
 
-**hp** 12 (2d8+3)
+**hp** 12 (2d8+3
 
 **Fort** +0, **Ref** +0, **Will** +3
 
@@ -47,15 +47,15 @@ NE Medium [undead](creatureTypes#_undead)
 
 **Treasure** none
 
-Zombies are the animated corpses of dead creatures, forced into foul unlife via necromantic magic like _ [animate dead](../spells/animateDead#_animate-dead)_. While the most commonly encountered zombies are slow and tough, others possess a variety of traits, allowing them to spread disease or move with increased speed.
+Zombies are the animated corpses of dead creatures, forced into foul unlife via necromantic magic like _ [animate dead](../spell_dir/animateDead#_animate-dead_. While the most commonly encountered zombies are slow and tough, others possess a variety of traits, allowing them to spread disease or move with increased speed.
 
 Zombies are unthinking automatons, and can do little more than follow orders. When left unattended, zombies tend to mill about in search of living creatures to slaughter and devour. Zombies attack until destroyed, having no regard for their own safety.
 
-Although capable of following orders, zombies are more often unleashed into an area with no command other than to kill living creatures. As a result, zombies are often encountered in packs, wandering around places the living frequent, looking for victims. Most zombies are created using _ [animate dead](../spells/animateDead#_animate-dead)_. Such zombies are always of the standard type, unless the creator also casts _ [haste](../spells/haste#_haste) _or _ [remove paralysis](../spells/removeParalysis#_remove-paralysis) _to create fast zombies, or _ [contagion](../spells/contagion#_contagion)_ to create plague zombies.
+Although capable of following orders, zombies are more often unleashed into an area with no command other than to kill living creatures. As a result, zombies are often encountered in packs, wandering around places the living frequent, looking for victims. Most zombies are created using _ [animate dead](../spell_dir/animateDead#_animate-dead_. Such zombies are always of the standard type, unless the creator also casts _ [haste](../spell_dir/haste#_haste _or _ [remove paralysis](../spell_dir/removeParalysis#_remove-paralysis _to create fast zombies, or _ [contagion](../spell_dir/contagion#_contagion)_ to create plague zombies.
 
 ## Creating a Zombie
 
-“Zombie” is an acquired template that can be added to any corporeal creature (other than an undead), referred to hereafter as the base creature.
+“Zombie” is an acquired template that can be added to any corporeal creature (other than an undead, referred to hereafter as the base creature.
 
 **Challenge Rating** : This depends on the creature's new total number of Hit Dice, as follows:
 

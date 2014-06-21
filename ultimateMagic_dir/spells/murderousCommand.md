@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/murderousCommand
+title: ultimateMagic/spell_dir/murderousCommand
 ---
 Murderous Command
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** antipaladin 1, cleric 1
+**School** enchantment (compulsion [mind-affecting]; **Level** antipaladin 1, cleric 1
 
 **Casting Time** 1 standard action
 

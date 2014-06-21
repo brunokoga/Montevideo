@@ -1,5 +1,5 @@
 ---
-title: monsters/yellowMuskCreeper
+title: monster_dir/yellowMuskCreeper
 ---
 # Yellow Musk Creeper
 
@@ -11,7 +11,7 @@ _Coiling around several human skeletons, this wet green plant's sickly flowers s
 
 N Medium [plant](creatureTypes#_plant)
 
-**Init** +2; **Senses** [tremorsense](universalMonsterRules#_tremorsense) 30 ft.; [Perception](../skills/perception#_perception) +0
+**Init** +2; **Senses** [tremorsense](universalMonsterRules#_tremorsense 30 ft.; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
@@ -59,5 +59,5 @@ The yellow musk creeper is a hideous plant that grows in haunted graveyards, gri
 
 A yellow musk zombie is a rotting creature from which wet green vines have sprouted. Treat a yellow musk zombie as a standard zombie, but with this special quality.
 
-**Plant Traits (Ex)** This zombie's animation is provided not by necromancy but by the plant that grows throughout its body. Yellow musk zombies lack undead traits, but gain plant traits. They are treated as plants, not undead, for the resolution of magical effects and attacks. Channel energy cannot harm a yellow musk zombie, for example, nor does negative energy heal a yellow musk zombie.
+**Plant Traits (Ex** This zombie's animation is provided not by necromancy but by the plant that grows throughout its body. Yellow musk zombies lack undead traits, but gain plant traits. They are treated as plants, not undead, for the resolution of magical effects and attacks. Channel energy cannot harm a yellow musk zombie, for example, nor does negative energy heal a yellow musk zombie.
 

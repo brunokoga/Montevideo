@@ -1,9 +1,9 @@
 ---
-title: spells/wordOfRecall
+title: spell_dir/wordOfRecall
 ---
  **Word of Recall**
 
-**School** conjuration (teleportation); **Level** cleric 6, druid 8
+**School** conjuration (teleportation; **Level** cleric 6, druid 8
 
 **Casting Time** 1 standard action
 

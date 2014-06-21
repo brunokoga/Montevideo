@@ -1,9 +1,9 @@
 ---
-title: advanced/spells/frozenNote
+title: advanced/spell_dir/frozenNote
 ---
  **Frozen Note**
 
-**School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 5
+**School** enchantment (compulsion [mind-affecting, sonic]; **Level** bard 5
 
 **Casting Time** 1 standard action
 
@@ -13,7 +13,7 @@ title: advanced/spells/frozenNote
 
 **Target** any number of creatures within area
 
-**Duration** concentration (up to 1 round/level); see text
+**Duration** concentration (up to 1 roun_dir/level; see text
 
 **Saving Throw** Will partial; see text; **Spell Resistance** yes
 

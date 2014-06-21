@@ -1,5 +1,5 @@
 ---
-title: spells/destruction
+title: spell_dir/destruction
 ---
  **Destruction**
 
@@ -7,7 +7,7 @@ title: spells/destruction
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (holy or unholy symbol costing 500 gp)
+**Components** V, S, F (holy or unholy symbol costing 500 gp
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

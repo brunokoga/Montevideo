@@ -3,11 +3,11 @@ title: ultimateMagic/spells/lightningArc
 ---
 Lightning Arc
 
-**School** evocation [electricity]; **Level** sorcerer/wizard 5
+**School** evocation [electricity]; **Level** sorcere_dir/wizard 5
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (fur and two glass figurines)
+**Components** V, S, M (fur and two glass figurines
 
 **Range** long (400 ft. + 40 ft./level)
 

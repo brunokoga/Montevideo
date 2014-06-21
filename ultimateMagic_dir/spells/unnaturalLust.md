@@ -1,9 +1,9 @@
 ---
-title: ultimateMagic/spells/unnaturalLust
+title: ultimateMagic/spell_dir/unnaturalLust
 ---
 Unnatural Lust
 
-**School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 1, sorcerer/wizard 2, witch 2
+**School** enchantment (compulsion [emotion, mind-affecting]; **Level** bard 1, sorcerer/wizard 2, witch 2
 
 **Casting Time** 1 standard action
 

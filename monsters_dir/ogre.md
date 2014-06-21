@@ -1,5 +1,5 @@
 ---
-title: monsters/ogre
+title: monster_dir/ogre
 ---
 # Ogre
 
@@ -9,9 +9,9 @@ _This lumbering giant's beady eyes are devoid of wit or kindness, and its puffy 
 
 **XP 800**
 
-CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type))
+CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type)
 
-**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +5
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +5
 
 **Defense**
 
@@ -27,7 +27,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Melee** greatclub +7 (2d8+7)
 
-**Ranged** javelin +1 (1d8+5)
+**Ranged** javelin +1 (1d8+5
 
 **Space** 10 ft.; **Reach** 10 ft.
 
@@ -39,7 +39,7 @@ CE Large [humanoid](creatureTypes#_humanoid) ( [giant](creatureTypes#_giant-type
 
 **Feats** [Iron Will](../feats#_iron-will), [Toughness](../feats#_toughness)
 
-**Skills** [Climb](../skills/climb#_climb) +7, [Perception](../skills/perception#_perception) +5
+**Skills** [Climb](../skill_dir/climb#_climb +7, [Perception](../skill_dir/perception#_perception) +5
 
 **Languages** Giant
 
@@ -61,7 +61,7 @@ Regions inhabited by ogres are dreary, ugly places, for these giants dwell in sq
 
 Ogre games are violent and cruel, and victims they use for entertainment are lucky if they die the first day. Ogres' cruel senses of humor are the only way their crude minds show any spark of creativity, and the tools and methods of torture ogres devise are always nightmarish.
 
-An ogre's great strength and lack of imagination makes it particularly suited for heavy labor, such as mining, forging, and clearing land, and more powerful giants (particularly hill giants and stone giants) often subjugate ogre families to serve them in such regards.
+An ogre's great strength and lack of imagination makes it particularly suited for heavy labor, such as mining, forging, and clearing land, and more powerful giants (particularly hill giants and stone giants often subjugate ogre families to serve them in such regards.
 
 A typical adult ogre stands 10 feet tall and weighs roughly 650 pounds.
 

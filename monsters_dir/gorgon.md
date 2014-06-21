@@ -1,5 +1,5 @@
 ---
-title: monsters/gorgon
+title: monster_dir/gorgon
 ---
 # Gorgon
 
@@ -11,7 +11,7 @@ _This bull-like creature seems to be made of interlocking metallic plates. Faint
 
 N Large [magical beast](creatureTypes#_magical-beast)
 
-**Init** +4; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent); [Perception](../skills/perception#_perception) +17
+**Init** +4; **Senses** darkvision 60 ft., low-light vision, [scent](universalMonsterRules#_scent; [Perception](../skill_dir/perception#_perception) +17
 
 **Defense**
 
@@ -29,7 +29,7 @@ N Large [magical beast](creatureTypes#_magical-beast)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [breath weapon](universalMonsterRules#_breath-weapon) (60-foot cone, turn to stone, Fortitude DC 21 negates), [trample](universalMonsterRules#_trample) (2d8+10, DC 21)
+**Special Attacks** [breath weapon](universalMonsterRules#_breath-weapon) (60-foot cone, turn to stone, Fortitude DC 21 negates), [trample](universalMonsterRules#_trample) (2d8+10, DC 21
 
 **Statistics**
 
@@ -37,9 +37,9 @@ N Large [magical beast](creatureTypes#_magical-beast)
 
 **Base Atk** +8; **CMB** +16; **CMD** 26
 
-**Feats** [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Power Attack](../feats#_power-attack), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
 
-**Skills** [Perception](../skills/perception#_perception) +17
+**Skills** [Perception](../skill_dir/perception#_perception) +17
 
 **Ecology**
 
@@ -57,5 +57,5 @@ Gorgons are magical, foul-tempered creatures—while they might appear to be con
 
 Gorgons derive nutrients from the consumption of minerals, particularly the stone of their petrified victims, and any statues they create are likely to be gnawed thoroughly. They cannot digest metal or gems, so their dung (which resembles bitter-smelling gray powder) often contains small, raw crystals and nuggets of ore. Their aggression toward all other creatures means that there are few to no predators or other prey animals in their grazing grounds. Each herd is led by a dominant bull; solitary gorgons are usually adolescent bulls driven out of their herd by the lead bull.
 
-Their flesh is tough but beefy (once the armored hide is removed), and to those who acquire the taste, quite filling. Many stone giant tribes believe eating gorgon meat enhances their own natural armor. Powdered gorgon horn is worth 250 gp as an alternate material component for magic items using _ [bull's strength](../spells/bullSStrength#_bull-s-strength)_, _ [stoneskin](../spells/stoneskin#_stoneskin)_, _ [flesh to stone](../spells/fleshToStone#_flesh-to-stone)_, _ [statue](../spells/statue#_statue)_, and similar magic.
+Their flesh is tough but beefy (once the armored hide is removed, and to those who acquire the taste, quite filling. Many stone giant tribes believe eating gorgon meat enhances their own natural armor. Powdered gorgon horn is worth 250 gp as an alternate material component for magic items using _ [bull's strength](../spell_dir/bullSStrength#_bull-s-strength_, _ [stoneskin](../spell_dir/stoneskin#_stoneskin_, _ [flesh to stone](../spell_dir/fleshToStone#_flesh-to-stone_, _ [statue](../spell_dir/statue#_statue_, and similar magic.
 

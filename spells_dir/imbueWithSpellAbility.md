@@ -1,5 +1,5 @@
 ---
-title: spells/imbueWithSpellAbility
+title: spell_dir/imbueWithSpellAbility
 ---
  **Imbue with Spell Ability**
 
@@ -13,7 +13,7 @@ title: spells/imbueWithSpellAbility
 
 **Target** creature touched; see text
 
-**Duration** permanent until discharged (D)
+**Duration** permanent until discharged (D
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

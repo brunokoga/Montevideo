@@ -1,9 +1,9 @@
 ---
-title: spells/screen
+title: spell_dir/screen
 ---
  **Screen**
 
-**School** illusion (glamer); **Level** sorcerer/wizard 8
+**School** illusion (glamer; **Level** sorcerer/wizard 8
 
 **Casting Time** 10 minutes
 
@@ -11,7 +11,7 @@ title: spells/screen
 
 **Range** close (25 ft. + 5 ft./2 levels)
 
-**Area** 30-ft. cube/level (S)
+**Area** 30-ft. cub_dir/level (S
 
 **Duration** 24 hours
 

@@ -3,11 +3,11 @@ title: spells/darkvision
 ---
  **Darkvision**
 
-**School** transmutation; **Level** ranger 3, sorcerer/wizard 2
+**School** transmutation; **Level** ranger 3, sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (either a pinch of dried carrot or an agate)
+**Components** V, S, M (either a pinch of dried carrot or an agate
 
 **Range** touch
 

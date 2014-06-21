@@ -13,9 +13,9 @@ title: advanced/spells/wardTheFaithful
 
 **Area** 10-ft.-radius emanation from touched creature
 
-**Duration** 10 minutes/level
+**Duration** 10 minute_dir/level
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** no
+**Saving Throw** Will negates (harmless; **Spell Resistance** no
 
 All creatures within the area who worship the same god as you gain a +2 deflection bonus to AC and a +2 resistance bonus on all saves. At 12th level, these bonuses increase to +3. At 18th level, the bonuses increase to +4.
 

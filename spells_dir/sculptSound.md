@@ -13,7 +13,7 @@ title: spells/sculptSound
 
 **Targets** one creature or object/level, no two of which can be more than 30 ft. apart
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hou_dir/level (D
 
 **Saving Throw** [Will](../combat#_will) negates (object); **[Spell Resistance](../glossary#_spell-resistance)** yes (object)
 

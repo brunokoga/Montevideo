@@ -13,9 +13,9 @@ title: advanced/spells/keenSenses
 
 **Target** creature touched
 
-**Duration** 1 minute/level (D)
+**Duration** 1 minut_dir/level (D)
 
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
+**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless
 
-The subject gains a +2 competence bonus on [Perception](../../skills/perception#_perception) checks and gains low-light vision. Subjects that have low-light vision double the distance they can see under the effects of this spell.
+The subject gains a +2 competence bonus on [Perception](../../skill_dir/perception#_perception checks and gains low-light vision. Subjects that have low-light vision double the distance they can see under the effects of this spell.
 

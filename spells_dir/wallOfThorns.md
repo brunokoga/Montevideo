@@ -1,9 +1,9 @@
 ---
-title: spells/wallOfThorns
+title: spell_dir/wallOfThorns
 ---
  **Wall of Thorns**
 
-**School** conjuration (creation); **Level** druid 5
+**School** conjuration (creation; **Level** druid 5
 
 **Casting Time** 1 standard action
 
@@ -11,7 +11,7 @@ title: spells/wallOfThorns
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Effect** wall of thorny brush, up to one 10-ft. cube/level (S)
+**Effect** wall of thorny brush, up to one 10-ft. cub_dir/level (S
 
 **Duration** 10 min./level (D)
 

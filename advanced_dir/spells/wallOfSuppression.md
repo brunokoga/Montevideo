@@ -3,15 +3,15 @@ title: advanced/spells/wallOfSuppression
 ---
  **Wall of Suppression**
 
-**School** abjuration; **Level** sorcerer/wizard 9
+**School** abjuration; **Level** sorcere_dir/wizard 9
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (powdered adamantine worth 1,000 gp)
+**Components** V, S, M (powdered adamantine worth 1,000 gp
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Effect** anti-magic wall occupying up to two 5 ft. cubes/level (S)
+**Effect** anti-magic wall occupying up to two 5 ft. cube_dir/level (S
 
 **Duration** 10 minutes/level; see text
 

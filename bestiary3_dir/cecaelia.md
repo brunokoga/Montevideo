@@ -9,23 +9,23 @@ Cecaelia CR 5
 
 XP 1,600
 
-CN Medium monstrous humanoid ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
+CN Medium monstrous humanoid ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
 
-**Init** +4; **Senses** darkvision 60 ft., tentacle sense 10 ft.; [Perception](skills/perception#_perception) +1
+**Init** +4; **Senses** darkvision 60 ft., tentacle sense 10 ft.; [Perception](skill_dir/perception#_perception) +1
 
 Defense
 
 **AC** 18, touch 14, flat-footed 14 (+4 Dex, +4 natural)
 
-**hp** 45 (6d10+12)
+**hp** 45 (6d10+12
 
 **Fort** +4, **Ref** +9, **Will** +6
 
 Offense
 
-**Speed** 30 ft., swim 40 ft., [jet](monsters/universalMonsterRules#_jet) 200 ft.
+**Speed** 30 ft., swim 40 ft., [jet](monster_dir/universalMonsterRules#_jet 200 ft.
 
-**Melee** mwk spear +11/+6 (1d8+4/×3), 2 tentacles +5 (1d4+1 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** mwk spear +11/+6 (1d8+4/×3), 2 tentacles +5 (1d4+1 plus [grab](monster_dir/universalMonsterRules#_grab)
 
 **Ranged** mwk spear +12 (1d8+3/×3)
 
@@ -39,7 +39,7 @@ Statistics
 
 **Feats** [Combat Reflexes](feats#_combat-reflexes), [Weapon Focus](feats#_weapon-focus) (spear), [Weapon Focus](feats#_weapon-focus) (tentacles)
 
-**Skills** [Stealth](skills/stealth#_stealth) +13, [Survival](skills/survival#_survival) +10, [Swim](skills/swim#_swim) +12
+**Skills** [Stealth](skill_dir/stealth#_stealth +13, [Survival](skill_dir/survival#_survival +10, [Swim](skill_dir/swim#_swim +12
 
 **Languages** Aquan, Common
 
@@ -47,7 +47,7 @@ Statistics
 
 Ecology
 
-**Environment** warm [water](monsters/creatureTypes#_water-subtype)
+**Environment** warm [water](monster_dir/creatureTypes#_water-subtype)
 
 **Organization** solitary, pair, or hunting party (2–7)
 
@@ -57,7 +57,7 @@ Special Abilities
 
 **Ink Cloud (Ex)** Once per hour as a standard action, a cecaelia can emit a 10-foot-radius sphere of ink while underwater. This ink cloud provides total concealment and persists for 1 minute.
 
-**Tentacle Sense (Ex)** As a swift action while swimming and while it is not grappled or grappling, the cecaelia can spread its tentacles wide to form a sensory net around it. This grants [blindsight](monsters/universalMonsterRules#_blindsight) to a range of 10 feet and lasts as long as the cecaelia concentrates. While this effect lasts, the creature cannot attack with its tentacles or move.
+**Tentacle Sense (Ex** As a swift action while swimming and while it is not grappled or grappling, the cecaelia can spread its tentacles wide to form a sensory net around it. This grants [blindsight](monster_dir/universalMonsterRules#_blindsight to a range of 10 feet and lasts as long as the cecaelia concentrates. While this effect lasts, the creature cannot attack with its tentacles or move.
 
 Cecaelias are intelligent human-octopus hybrids that hunt coastlines and ocean reefs. A cecaelia's humanoid upper body varies individually but generally reflects the features of the inhabitants of the nearest humanoid settlements. Sages think this is an adaptive trait, akin to an octopus's natural camouflage, allowing cecaelias to mutate within one to two generations to blend in with humanoids sharing their territory. Cecaelia stand 6 feet tall on land, and weigh just over 200 pounds. They generally live to be 60 years old.
 

@@ -11,45 +11,45 @@ XP 6,400
 
 LG Large magical beast
 
-**Init** +7; **Senses** darkvision 60 ft., _ [detect chaos](spells/detectChaos#_detect-chaos)_, _ [detect evil](spells/detectEvil#_detect-evil)_, low-light vision, _ [true seeing](spells/trueSeeing#_true-seeing)_; [Perception](skills/perception#_perception) +20
+**Init** +7; **Senses** darkvision 60 ft., _ [detect chaos](spell_dir/detectChaos#_detect-chaos_, _ [detect evil](spell_dir/detectEvil#_detect-evil_, low-light vision, _ [true seeing](spell_dir/trueSeeing#_true-seeing_; [Perception](skill_dir/perception#_perception) +20
 
 Defense
 
 **AC** 24, touch 16, flat-footed 23 (+1 Dex, +6 insight, +8 natural, –1 size)
 
-**hp** 115 (11d10+55); fast healing 5
+**hp** 115 (11d10+55; fast healing 5
 
 **Fort** +12, **Ref** +14, **Will** +11
 
-**Defensive Abilities** prescience; **DR** 10/evil; **Resist** electricity 10, [fire](monsters/creatureTypes#_fire-subtype) 10; **SR** 20
+**Defensive Abilities** prescience; **DR** 10/evil; **Resist** electricity 10, [fire](monster_dir/creatureTypes#_fire-subtype) 10; **SR** 20
 
 Offense
 
-**Speed** 30 ft., fly 60 ft. (good)
+**Speed** 30 ft., fly 60 ft. (good
 
 **Melee** gore +17 (2d8+7/19–20), 2 hooves +12 (1d6+3), 2 wings +12 (1d6+3)
 
 **Space** 10 ft.; **Reach** 5 ft.
 
-**Special Attacks** [trample](monsters/universalMonsterRules#_trample) (2d6+10, DC 22)
+**Special Attacks** [trample](monster_dir/universalMonsterRules#_trample) (2d6+10, DC 22)
 
-**Spell-Like Abilities** (CL 12th; concentration +18)
+**Spell-Like Abilities** (CL 12th; concentration +18
 
-Constant— _ [detect chaos](spells/detectChaos#_detect-chaos)_, _ [detect evil](spells/detectEvil#_detect-evil)_, _ [true seeing](spells/trueSeeing#_true-seeing)_
+Constant— _ [detect chaos](spell_dir/detectChaos#_detect-chaos_, _ [detect evil](spell_dir/detectEvil#_detect-evil_, _ [true seeing](spell_dir/trueSeeing#_true-seeing_
 
-3/day—empowered _ [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds), [dispel magic](spells/dispelMagic#_dispel-magic)_, _ [magic circle against evil](spells/magicCircleAgainstEvil#_magic-circle-against-evil)_, _ [remove disease](spells/removeDisease#_remove-disease)_, _ [shield other](spells/shieldOther#_shield-other)_
+3/day—empowered _ [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds, [dispel magic](spell_dir/dispelMagic#_dispel-magic_, _ [magic circle against evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil_, _ [remove disease](spell_dir/removeDisease#_remove-disease_, _ [shield other](spell_dir/shieldOther#_shield-other_
 
-1/day—_ [dismissal](spells/dismissal#_dismissal)_ (DC 18), _ [flame strike](spells/flameStrike#_flame-strike)_ (DC 18), _ [restoration](spells/restoration#_restoration)_
+1/day—_ [dismissal](spell_dir/dismissal#_dismissal)_ (DC 18, _ [flame strike](spell_dir/flameStrike#_flame-strike)_ (DC 18, _ [restoration](spell_dir/restoration#_restoration)_
 
 Statistics
 
 **Str** 24, **Dex** 13, **Con** 20, **Int** 19, **Wis** 22, **Cha** 19
 
-**Base Atk** +11; **CMB** +19 (+23 bull rush); **CMD** 30 (32 vs. bull rush, 34 vs. trip)
+**Base Atk** +11; **CMB** +19 (+23 bull rush); **CMD** 30 (32 vs. bull rush, 34 vs. trip
 
-**Feats** [Empower Spell-Like Ability](monsters/monsterFeats#_empower-spell-like-ability) (_ [cure moderate wounds](spells/cureModerateWounds#_cure-moderate-wounds)_), [Greater Bull Rush](feats#_greater-bull-rush), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Critical](feats#_improved-critical) (gore), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack)
+**Feats** [Empower Spell-Like Ability](monster_dir/monsterFeats#_empower-spell-like-ability (_ [cure moderate wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds)_), [Greater Bull Rush](feats#_greater-bull-rush), [Improved Bull Rush](feats#_improved-bull-rush), [Improved Critical](feats#_improved-critical) (gore), [Iron Will](feats#_iron-will), [Power Attack](feats#_power-attack
 
-**Skills** [Diplomacy](skills/diplomacy#_diplomacy) +15, [Fly](skills/fly#_fly) +13, [Knowledge](skills/knowledge#_knowledge) (planes) +15, [Knowledge](skills/knowledge#_knowledge) (religion) +15, [Perception](skills/perception#_perception) +20, [Sense Motive](skills/senseMotive#_sense-motive) +17
+**Skills** [Diplomacy](skill_dir/diplomacy#_diplomacy +15, [Fly](skill_dir/fly#_fly +13, [Knowledge](skill_dir/knowledge#_knowledge) (planes +15, [Knowledge](skill_dir/knowledge#_knowledge) (religion +15, [Perception](skill_dir/perception#_perception +20, [Sense Motive](skill_dir/senseMotive#_sense-motive) +17
 
 **Languages** Auran, Celestial, Common; telepathy 100 ft.
 
@@ -63,7 +63,7 @@ Ecology
 
 Special Abilities
 
-**Prescience (Su)** A shedu can see all the possible outcomes of any of its own futures. This grants the creature an insight bonus to its AC and on initiative checks and Reflex saves equal to its Wisdom bonus (+6 for most shedus).
+**Prescience (Su)** A shedu can see all the possible outcomes of any of its own futures. This grants the creature an insight bonus to its AC and on initiative checks and Reflex saves equal to its Wisdom bonus (+6 for most shedus.
 
 Shedus live far from the hustle and bustle of humanity in harsh deserts. There they populate caves, ruins, or ancient temples reclaimed from the shifting sands. In these places of refuge, shedus contemplate the struggle between good and evil throughout the universe. Tireless vehicles of good and kindness, shedus fight against outsiders who corrupt and threaten humanity. Skilled in healing, shedus focus on eliminating plagues, even hunting down outsiders and undead working in that destructive medium.
 

@@ -9,19 +9,19 @@ This towering menace has a horrible, vertically aligned mouth and arms that spli
 
 **XP 9,600**
 
-CE Large [aberration](monsters/creatureTypes#_aberration)
+CE Large [aberration](monster_dir/creatureTypes#_aberration
 
-**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skills/perception#_perception) +27
+**Init** +1; **Senses** darkvision 60 ft.; [Perception](additionalMonsters/../skill_dir/perception#_perception) +27
 
 Defense
 
 **AC** 24, touch 10, flat-footed 23 (+1 Dex, +14 natural, –1 size)
 
-**hp** 127 (15d8+60)
+**hp** 127 (15d8+60
 
 **Fort** +9, **Ref** +6, **Will** +12
 
-**Immune** [disease](monsters/universalMonsterRules#_disease-(ex-or-su)), [poison](monsters/universalMonsterRules#_poison-(ex-or-su))
+**Immune** [disease](monster_dir/universalMonsterRules#_disease-(ex-or-su), [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su))
 
 Offense
 
@@ -31,7 +31,7 @@ Offense
 
 **Space** 10 ft.; **Reach** 15 ft.
 
-**Special Attacks** rend (2 claws, 1d6+10)
+**Special Attacks** rend (2 claws, 1d6+10
 
 Statistics
 
@@ -39,19 +39,19 @@ Statistics
 
 **Base Atk** +11; **CMB** +19; **CMD** 30
 
-**Feats** [Awesome Blow](additionalMonsters/../monsters/monsterFeats#_awesome-blow), [Blind-Fight](additionalMonsters/../feats#_blind-fight), [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Greater Bull Rush](additionalMonsters/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Lunge](additionalMonsters/../feats#_lunge), [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skills/perception#_perception))
+**Feats** [Awesome Blow](additionalMonsters/../monster_dir/monsterFeats#_awesome-blow, [Blind-Fight](additionalMonsters/../feats#_blind-fight), [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Greater Bull Rush](additionalMonsters/../feats#_greater-bull-rush), [Improved Bull Rush](additionalMonsters/../feats#_improved-bull-rush), [Lunge](additionalMonsters/../feats#_lunge), [Power Attack](additionalMonsters/../feats#_power-attack), [Skill Focus](additionalMonsters/../feats#_skill-focus) ( [Perception](additionalMonsters/../skill_dir/perception#_perception)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +15, [Escape Artist](additionalMonsters/../skills/escapeArtist#_escape-artist) +13, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (dungeoneering) +10, [Perception](additionalMonsters/../skills/perception#_perception) +27, [Stealth](additionalMonsters/../skills/stealth#_stealth) +15, [Survival](additionalMonsters/../skills/survival#_survival) +21; **Racial Modifiers** +4 [Escape Artist](additionalMonsters/../skills/escapeArtist#_escape-artist)
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +15, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +13, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (dungeoneering +10, [Perception](additionalMonsters/../skill_dir/perception#_perception +27, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +15, [Survival](additionalMonsters/../skill_dir/survival#_survival +21; **Racial Modifiers** +4 [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist
 
 **Languages** Undercommon
 
-**SQ** [compression](monsters/universalMonsterRules#_compression)
+**SQ** [compression](monster_dir/universalMonsterRules#_compression)
 
 Ecology
 
 **Environment** any underground
 
-**Organization** solitary, pair, or camp (3–10)
+**Organization** solitary, pair, or camp (3–10
 
 **Treasure** standard
 
@@ -61,5 +61,5 @@ Gugs are 16 feet tall and weigh nearly 2,000 pounds, but they move with an eerie
 
 Gugs are savage fighters when driven by a strong leader, but on their own may flee if brought to fewer than half their hit points, carrying off fresh meat for later feasting if they are able. They can subsist on fungi, slimes, and molds as well as carrion and even undead flesh—particularly that of ghouls.
 
-Some bloodthirsty gugs gain awful powers as gifts from their alien patrons. These monsters are known as savants. They have a Charisma of 18 and can use _ [invisibility](additionalMonsters/../spells/invisibility#_invisibility)_, _ [spike stones](additionalMonsters/../spells/spikeStones#_spike-stones)_, _ [transmute rock to mud](additionalMonsters/../spells/transmuteRockToMud#_transmute-rock-to-mud)_, and _ [unholy blight](additionalMonsters/../spells/unholyBlight#_unholy-blight)_ once per day each as spell-like abilities (CL 10th, concentration +14). Some become actual clerics or oracles of their mad gods—strange powers of darkness, insanity, and blood. Gug savants add +1 to their CR.
+Some bloodthirsty gugs gain awful powers as gifts from their alien patrons. These monsters are known as savants. They have a Charisma of 18 and can use _ [invisibility](additionalMonsters/../spell_dir/invisibility#_invisibility_, _ [spike stones](additionalMonsters/../spell_dir/spikeStones#_spike-stones_, _ [transmute rock to mud](additionalMonsters/../spell_dir/transmuteRockToMud#_transmute-rock-to-mud_, and _ [unholy blight](additionalMonsters/../spell_dir/unholyBlight#_unholy-blight)_ once per day each as spell-like abilities (CL 10th, concentration +14. Some become actual clerics or oracles of their mad gods—strange powers of darkness, insanity, and blood. Gug savants add +1 to their CR.
 

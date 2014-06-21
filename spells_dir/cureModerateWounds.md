@@ -1,5 +1,5 @@
 ---
-title: spells/cureModerateWounds
+title: spell_dir/cureModerateWounds
 ---
  **Cure Moderate Wounds**
 
@@ -11,5 +11,5 @@ This spell functions like _ [cure light wounds](cureLightWounds#_cure-light-woun
 
 **School** conjuration (healing); **Level** bard 6, cleric 6, druid 7
 
-This spell functions like _mass cure light wounds_, except that it cures 2d8 points of damage + 1 point per caster level (maximum +30).
+This spell functions like _mass cure light wounds_, except that it cures 2d8 points of damage + 1 point per caster level (maximum +30.
 

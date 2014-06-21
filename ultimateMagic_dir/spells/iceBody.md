@@ -13,7 +13,7 @@ Ice Body
 
 **Target** you
 
-**Duration** 1 minute/level (D)
+**Duration** 1 minut_dir/level (D
 
 Your form transmutes into living ice, granting you several abilities. You gain the cold subtype and damage reduction 5/magic. You are immune to ability score damage, blindness, critical hits, deafness, disease, drowning, electricity, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect. You cannot drink (and thus can't use potions) or play wind instruments.
 

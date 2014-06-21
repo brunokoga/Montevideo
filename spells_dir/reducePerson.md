@@ -3,11 +3,11 @@ title: spells/reducePerson
 ---
  **Reduce Person**
 
-**School** transmutation; **Level** sorcerer/wizard 1
+**School** transmutation; **Level** sorcere_dir/wizard 1
 
 **Casting Time** 1 round
 
-**Components** V, S, M (a pinch of powdered iron)
+**Components** V, S, M (a pinch of powdered iron
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

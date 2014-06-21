@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/universalFormula
+title: advanced/spell_dir/universalFormula
 ---
  **Universal Formula**
 
@@ -7,7 +7,7 @@ title: advanced/spells/universalFormula
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (quicksilver and powdered platinum worth 100 gp)
+**Components** V, S, M (quicksilver and powdered platinum worth 100 gp
 
 **Range** personal
 

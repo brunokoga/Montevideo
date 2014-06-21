@@ -13,7 +13,7 @@ title: spells/spikeStones
 
 **Area** one 20-ft. square/level
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hou_dir/level (D
 
 **Saving Throw** [Reflex](../combat#_reflex) partial; **[Spell Resistance](../glossary#_spell-resistance)** yes
 

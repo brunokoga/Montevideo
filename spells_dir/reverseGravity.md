@@ -11,9 +11,9 @@ title: spells/reverseGravity
 
 **Range** medium (100 ft. + 10 ft./level)
 
-**Area** up to one 10-ft. cube/level (S)
+**Area** up to one 10-ft. cub_dir/level (S
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** none; see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

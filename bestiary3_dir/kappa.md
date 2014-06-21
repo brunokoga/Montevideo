@@ -9,19 +9,19 @@ Kappa CR 2
 
 XP 600
 
-CN Small monstrous humanoid ( [aquatic](monsters/creatureTypes#_aquatic-subtype))
+CN Small monstrous humanoid ( [aquatic](monster_dir/creatureTypes#_aquatic-subtype)
 
-**Init** +3; **Senses** darkvision 60 ft.; [Perception](skills/perception#_perception) +2
+**Init** +3; **Senses** darkvision 60 ft.; [Perception](skill_dir/perception#_perception) +2
 
 Defense
 
 **AC** 15, touch 14, flat-footed 12 (+3 Dex, +1 natural, +1 size)
 
-**hp** 19 (3d10+3)
+**hp** 19 (3d10+3
 
 **Fort** +4, **Ref** +6, **Will** +5
 
-**Resist** acid 5, [cold](monsters/creatureTypes#_cold-subtype) 5
+**Resist** acid 5, [cold](monster_dir/creatureTypes#_cold-subtype 5
 
 **Weaknesses** head bowl
 
@@ -29,9 +29,9 @@ Offense
 
 **Speed** 20 ft., swim 40 ft.
 
-**Melee** 2 claws +5 (1d3+1 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** 2 claws +5 (1d3+1 plus [grab](monster_dir/universalMonsterRules#_grab)
 
-**Special Attacks** [grab](monsters/universalMonsterRules#_grab) (Medium), [rake](monsters/universalMonsterRules#_rake) (2 claws +5, 1d3+1)
+**Special Attacks** [grab](monster_dir/universalMonsterRules#_grab) (Medium, [rake](monster_dir/universalMonsterRules#_rake) (2 claws +5, 1d3+1)
 
 Statistics
 
@@ -39,9 +39,9 @@ Statistics
 
 **Base Atk** +3; **CMB** +3 (+7 grapple); **CMD** 16
 
-**Feats** [Great Fortitude](feats#_great-fortitude), [Nimble Moves](feats#_nimble-moves)
+**Feats** [Great Fortitude](feats#_great-fortitude), [Nimble Moves](feats#_nimble-moves
 
-**Skills** [Escape Artist](skills/escapeArtist#_escape-artist) +10, [Heal](skills/heal#_heal) +5, [Sense Motive](skills/senseMotive#_sense-motive) +5, [Swim](skills/swim#_swim) +9; **Racial Modifiers** +4 [Escape Artist](skills/escapeArtist#_escape-artist)
+**Skills** [Escape Artist](skill_dir/escapeArtist#_escape-artist +10, [Heal](skill_dir/heal#_heal +5, [Sense Motive](skill_dir/senseMotive#_sense-motive +5, [Swim](skill_dir/swim#_swim +9; **Racial Modifiers** +4 [Escape Artist](skill_dir/escapeArtist#_escape-artist)
 
 **Languages** Aquan, Common
 
@@ -57,7 +57,7 @@ Ecology
 
 Special Abilities
 
-**Head Bowl (Su)** The basin atop a kappa's head contains water from its home river or lake. The water is emptied only if the kappa willingly tips its head or a creature pinning the kappa forces it to do so (requiring a grapple check while pinned). If the water is emptied, the kappa becomes immobile and staggered. It can still take actions, but it cannot move from the spot on its own. If the emptied head bowl is refilled with water, the kappa recovers from this condition immediately. This replacement water doesn't have to be from the kappa's home, but the kappa refills its head bowl from there at its first opportunity.
+**Head Bowl (Su)** The basin atop a kappa's head contains water from its home river or lake. The water is emptied only if the kappa willingly tips its head or a creature pinning the kappa forces it to do so (requiring a grapple check while pinned. If the water is emptied, the kappa becomes immobile and staggered. It can still take actions, but it cannot move from the spot on its own. If the emptied head bowl is refilled with water, the kappa recovers from this condition immediately. This replacement water doesn't have to be from the kappa's home, but the kappa refills its head bowl from there at its first opportunity.
 
 A kappa is a strange amphibian resembling a humanoid turtle. It dwells in fresh water, preferring a stream or river to a lake or pond. It has a small shell on its back, a blunt face, and webbed hands and feet that end in short claws. A typical kappa is green in color, but kappa skin tones can vary toward blue or yellow hues. The creature has a shallow basin in the top of its head, in which the creature carries water from its home at all times.
 

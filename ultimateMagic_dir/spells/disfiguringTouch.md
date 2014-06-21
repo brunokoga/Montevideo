@@ -13,13 +13,13 @@ Disfiguring Touch
 
 **Target** creature touched
 
-**Duration** 1 day/level
+**Duration** 1 da_dir/level
 
 **Saving Throw** Will negates; **Spell Resistance** yes
 
 With a touch, you cause the victim of this spell to suffer a painful curse that causes it to grow hideously disfigured. The physical appearance of the deformity is subject to the caster's whim (most demon worshipers choose deformities that reflect their Abyssal patron's shape or form). The target takes one of the following penalties.
 
-•–2 decrease to an ability score (minimum 1).
+•–2 decrease to an ability score (minimum 1.
 
 •–2 penalty on attack rolls or saving throws.
 

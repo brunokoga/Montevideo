@@ -3,11 +3,11 @@ title: spells/slow
 ---
  **Slow**
 
-**School** transmutation; **Level** bard 3, sorcerer/wizard 3
+**School** transmutation; **Level** bard 3, sorcere_dir/wizard 3
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a drop of molasses)
+**Components** V, S, M (a drop of molasses
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

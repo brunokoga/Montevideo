@@ -13,9 +13,9 @@ Plague Carrier
 
 **Target** creature touched
 
-**Duration** 1 hour/level
+**Duration** 1 hou_dir/level
 
-**Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes
+**Saving Throw** Fortitude negates (harmless; **Spell Resistance** yes
 
 The target's natural attacks carry filth fever (DC 10 + 1/2 of the creature's Hit Dice + creature's Con modifier)
 

@@ -7,653 +7,653 @@ The following spells are presented in alphabetical order, with the exception of 
 
 A B C D E F G H I J K L M N O P Q R S T U V W Z
 
-- [Acid Arrow](spells/acidArrow#_acid-arrow)
-- [Acid Fog](spells/acidFog#_acid-fog)
-- [Acid Splash](spells/acidSplash#_acid-splash)
-- [Aid](spells/aid#_aid)
-- [Air Walk](spells/airWalk#_air-walk)
-- [Alarm](spells/alarm#_alarm)
-- [Align Weapon](spells/alignWeapon#_align-weapon)
-- [Alter Self](spells/alterSelf#_alter-self)
-- [Analyze Dweomer](spells/analyzeDweomer#_analyze-dweomer)
-- [Animal Growth](spells/animalGrowth#_animal-growth)
-- [Animal Messenger](spells/animalMessenger#_animal-messenger)
-- [Animal Shapes](spells/animalShapes#_animal-shapes)
-- [Animal Trance](spells/animalTrance#_animal-trance)
-- [Animate Dead](spells/animateDead#_animate-dead)
-- [Animate Objects](spells/animateObjects#_animate-objects)
-- [Animate Plants](spells/animatePlants#_animate-plants)
-- [Animate Rope](spells/animateRope#_animate-rope)
-- [Antilife Shell](spells/antilifeShell#_antilife-shell)
-- [Antimagic Field](spells/antimagicField#_antimagic-field)
-- [Antipathy](spells/antipathy#_antipathy)
-- [Antiplant Shell](spells/antiplantShell#_antiplant-shell)
-- [Arcane Eye](spells/arcaneEye#_arcane-eye)
-- [Arcane Lock](spells/arcaneLock#_arcane-lock)
-- [Arcane Mark](spells/arcaneMark#_arcane-mark)
-- [Arcane Sight](spells/arcaneSight#_arcane-sight)
-- [Arcane Sight, Greater](spells/arcaneSight#_arcane-sight-greater)
-- [Astral Projection](spells/astralProjection#_astral-projection)
-- [Atonement](spells/atonement#_atonement)
-- [Augury](spells/augury#_augury)
-- [Awaken](spells/awaken#_awaken)
+- [Acid Arrow](spell_dir/acidArrow#_acid-arrow
+- [Acid Fog](spell_dir/acidFog#_acid-fog
+- [Acid Splash](spell_dir/acidSplash#_acid-splash
+- [Aid](spell_dir/aid#_aid
+- [Air Walk](spell_dir/airWalk#_air-walk
+- [Alarm](spell_dir/alarm#_alarm
+- [Align Weapon](spell_dir/alignWeapon#_align-weapon
+- [Alter Self](spell_dir/alterSelf#_alter-self
+- [Analyze Dweomer](spell_dir/analyzeDweomer#_analyze-dweomer
+- [Animal Growth](spell_dir/animalGrowth#_animal-growth
+- [Animal Messenger](spell_dir/animalMessenger#_animal-messenger
+- [Animal Shapes](spell_dir/animalShapes#_animal-shapes
+- [Animal Trance](spell_dir/animalTrance#_animal-trance
+- [Animate Dead](spell_dir/animateDead#_animate-dead
+- [Animate Objects](spell_dir/animateObjects#_animate-objects
+- [Animate Plants](spell_dir/animatePlants#_animate-plants
+- [Animate Rope](spell_dir/animateRope#_animate-rope
+- [Antilife Shell](spell_dir/antilifeShell#_antilife-shell
+- [Antimagic Field](spell_dir/antimagicField#_antimagic-field
+- [Antipathy](spell_dir/antipathy#_antipathy
+- [Antiplant Shell](spell_dir/antiplantShell#_antiplant-shell
+- [Arcane Eye](spell_dir/arcaneEye#_arcane-eye
+- [Arcane Lock](spell_dir/arcaneLock#_arcane-lock
+- [Arcane Mark](spell_dir/arcaneMark#_arcane-mark
+- [Arcane Sight](spell_dir/arcaneSight#_arcane-sight
+- [Arcane Sight, Greater](spell_dir/arcaneSight#_arcane-sight-greater
+- [Astral Projection](spell_dir/astralProjection#_astral-projection
+- [Atonement](spell_dir/atonement#_atonement
+- [Augury](spell_dir/augury#_augury
+- [Awaken](spell_dir/awaken#_awaken
 
-- [Baleful Polymorph](spells/balefulPolymorph#_baleful-polymorph)
-- [Bane](spells/bane#_bane)
-- [Banishment](spells/banishment#_banishment)
-- [Barkskin](spells/barkskin#_barkskin)
-- [Bear's Endurance](spells/bearSEndurance#_bear-s-endurance)
-- [Bear's Endurance, Mass](spells/bearSEndurance#_bear-s-endurance-mass)
-- [Beast Shape I](spells/beastShape#_beast-shape-i)
-- [Beast Shape II](spells/beastShape#_beast-shape-ii)
-- [Beast Shape III](spells/beastShape#_beast-shape-iii)
-- [Beast Shape IV](spells/beastShape#_beast-shape-iv)
-- [Bestow Curse](spells/bestowCurse#_bestow-curse)
-- [Binding](spells/binding#_binding)
-- [Black Tentacles](spells/blackTentacles#_black-tentacles)
-- [Blade Barrier](spells/bladeBarrier#_blade-barrier)
-- [Blasphemy](spells/blasphemy#_blasphemy)
-- [Bleed](spells/bleed#_bleed)
-- [Bless](spells/bless#_bless)
-- [Bless Water](spells/blessWater#_bless-water)
-- [Bless Weapon](spells/blessWeapon#_bless-weapon)
-- [Blight](spells/blight#_blight)
-- [Blindness/Deafness](spells/blindnessDeafness#_blindness-deafness)
-- [Blink](spells/blink#_blink)
-- [Blur](spells/blur#_blur)
-- [Break Enchantment](spells/breakEnchantment#_break-enchantment)
-- [Breath of Life](spells/breathOfLife#_breath-of-life)
-- [Bull's Strength](spells/bullSStrength#_bull-s-strength)
-- [Bull's Strength, Mass](spells/bullSStrength#_bull-s-strength-mass)
-- [Burning Hands](spells/burningHands#_burning-hands)
+- [Baleful Polymorph](spell_dir/balefulPolymorph#_baleful-polymorph
+- [Bane](spell_dir/bane#_bane
+- [Banishment](spell_dir/banishment#_banishment
+- [Barkskin](spell_dir/barkskin#_barkskin
+- [Bear's Endurance](spell_dir/bearSEndurance#_bear-s-endurance
+- [Bear's Endurance, Mass](spell_dir/bearSEndurance#_bear-s-endurance-mass
+- [Beast Shape I](spell_dir/beastShape#_beast-shape-i
+- [Beast Shape II](spell_dir/beastShape#_beast-shape-ii
+- [Beast Shape III](spell_dir/beastShape#_beast-shape-iii
+- [Beast Shape IV](spell_dir/beastShape#_beast-shape-iv
+- [Bestow Curse](spell_dir/bestowCurse#_bestow-curse
+- [Binding](spell_dir/binding#_binding
+- [Black Tentacles](spell_dir/blackTentacles#_black-tentacles
+- [Blade Barrier](spell_dir/bladeBarrier#_blade-barrier
+- [Blasphemy](spell_dir/blasphemy#_blasphemy
+- [Bleed](spell_dir/bleed#_bleed
+- [Bless](spell_dir/bless#_bless
+- [Bless Water](spell_dir/blessWater#_bless-water
+- [Bless Weapon](spell_dir/blessWeapon#_bless-weapon
+- [Blight](spell_dir/blight#_blight
+- [Blindness/Deafness](spell_dir/blindnessDeafness#_blindness-deafness
+- [Blink](spell_dir/blink#_blink
+- [Blur](spell_dir/blur#_blur
+- [Break Enchantment](spell_dir/breakEnchantment#_break-enchantment
+- [Breath of Life](spell_dir/breathOfLife#_breath-of-life
+- [Bull's Strength](spell_dir/bullSStrength#_bull-s-strength
+- [Bull's Strength, Mass](spell_dir/bullSStrength#_bull-s-strength-mass
+- [Burning Hands](spell_dir/burningHands#_burning-hands
 
-- [Call Lightning](spells/callLightning#_call-lightning)
-- [Call Lightning Storm](spells/callLightningStorm#_call-lightning-storm)
-- [Calm Animals](spells/calmAnimals#_calm-animals)
-- [Calm Emotions](spells/calmEmotions#_calm-emotions)
-- [Cat's Grace](spells/catSGrace#_cat-s-grace)
-- [Cat's Grace, Mass](spells/catSGrace#_cat-s-grace-mass)
-- [Cause Fear](spells/causeFear#_cause-fear)
-- [Chain Lightning](spells/chainLightning#_chain-lightning)
-- [Changestaff](spells/changestaff#_changestaff)
-- [Chaos Hammer](spells/chaosHammer#_chaos-hammer)
-- [Charm Animal](spells/charmAnimal#_charm-animal)
-- [Charm Monster](spells/charmMonster#_charm-monster)
-- [Charm Monster, Mass](spells/charmMonster#_charm-monster-mass)
-- [Charm Person](spells/charmPerson#_charm-person)
-- [Chill Metal](spells/chillMetal#_chill-metal)
-- [Chill Touch](spells/chillTouch#_chill-touch)
-- [Circle of Death](spells/circleOfDeath#_circle-of-death)
-- [Clairaudience/Clairvoyance](spells/clairaudienceClairvoyance#_clairaudience-clairvoyance)
-- [Clenched Fist](spells/clenchedFist#_clenched-fist)
-- [Cloak of Chaos](spells/cloakOfChaos#_cloak-of-chaos)
-- [Clone](spells/clone#_clone)
-- [Cloudkill](spells/cloudkill#_cloudkill)
-- [Color Spray](spells/colorSpray#_color-spray)
-- [Command](spells/command#_command)
-- [Command Plants](spells/commandPlants#_command-plants)
-- [Command Undead](spells/commandUndead#_command-undead)
-- [Command, Greater](spells/command#_command-greater)
-- [Commune](spells/commune#_commune)
-- [Commune with Nature](spells/communeWithNature#_commune-with-nature)
-- [Comprehend Languages](spells/comprehendLanguages#_comprehend-languages)
-- [Cone of Cold](spells/coneOfCold#_cone-of-cold)
-- [Confusion](spells/confusion#_confusion)
-- [Confusion, Lesser](spells/confusion#_confusion-lesser)
-- [Consecrate](spells/consecrate#_consecrate)
-- [Contact Other Plane](spells/contactOtherPlane#_contact-other-plane)
-- [Contagion](spells/contagion#_contagion)
-- [Contingency](spells/contingency#_contingency)
-- [Continual Flame](spells/continualFlame#_continual-flame)
-- [Control Plants](spells/controlPlants#_control-plants)
-- [Control Undead](spells/controlUndead#_control-undead)
-- [Control Water](spells/controlWater#_control-water)
-- [Control Weather](spells/controlWeather#_control-weather)
-- [Control Winds](spells/controlWinds#_control-winds)
-- [Create Food and Water](spells/createFoodAndWater#_create-food-and-water)
-- [Create Greater Undead](spells/createGreaterUndead#_create-greater-undead)
-- [Create Undead](spells/createUndead#_create-undead)
-- [Create Water](spells/createWater#_create-water)
-- [Creeping Doom](spells/creepingDoom#_creeping-doom)
-- [Crushing Despair](spells/crushingDespair#_crushing-despair)
-- [Crushing Hand](spells/crushingHand#_crushing-hand)
-- [Cure Critical Wounds](spells/cureCriticalWounds#_cure-critical-wounds)
-- [Cure Critical Wounds, Mass](spells/cureCriticalWounds#_cure-critical-wounds-mass)
-- [Cure Light Wounds](spells/cureLightWounds#_cure-light-wounds)
-- [Cure Light Wounds, Mass](spells/cureLightWounds#_cure-light-wounds-mass)
-- [Cure Moderate Wounds](spells/cureModerateWounds#_cure-moderate-wounds)
-- [Cure Moderate Wounds, Mass](spells/cureModerateWounds#_cure-moderate-wounds-mass)
-- [Cure Serious Wounds](spells/cureSeriousWounds#_cure-serious-wounds)
-- [Cure Serious Wounds, Mass](spells/cureSeriousWounds#_cure-serious-wounds-mass)
-- [Curse Water](spells/curseWater#_curse-water)
+- [Call Lightning](spell_dir/callLightning#_call-lightning
+- [Call Lightning Storm](spell_dir/callLightningStorm#_call-lightning-storm
+- [Calm Animals](spell_dir/calmAnimals#_calm-animals
+- [Calm Emotions](spell_dir/calmEmotions#_calm-emotions
+- [Cat's Grace](spell_dir/catSGrace#_cat-s-grace
+- [Cat's Grace, Mass](spell_dir/catSGrace#_cat-s-grace-mass
+- [Cause Fear](spell_dir/causeFear#_cause-fear
+- [Chain Lightning](spell_dir/chainLightning#_chain-lightning
+- [Changestaff](spell_dir/changestaff#_changestaff
+- [Chaos Hammer](spell_dir/chaosHammer#_chaos-hammer
+- [Charm Animal](spell_dir/charmAnimal#_charm-animal
+- [Charm Monster](spell_dir/charmMonster#_charm-monster
+- [Charm Monster, Mass](spell_dir/charmMonster#_charm-monster-mass
+- [Charm Person](spell_dir/charmPerson#_charm-person
+- [Chill Metal](spell_dir/chillMetal#_chill-metal
+- [Chill Touch](spell_dir/chillTouch#_chill-touch
+- [Circle of Death](spell_dir/circleOfDeath#_circle-of-death
+- [Clairaudience/Clairvoyance](spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance
+- [Clenched Fist](spell_dir/clenchedFist#_clenched-fist
+- [Cloak of Chaos](spell_dir/cloakOfChaos#_cloak-of-chaos
+- [Clone](spell_dir/clone#_clone
+- [Cloudkill](spell_dir/cloudkill#_cloudkill
+- [Color Spray](spell_dir/colorSpray#_color-spray
+- [Command](spell_dir/command#_command
+- [Command Plants](spell_dir/commandPlants#_command-plants
+- [Command Undead](spell_dir/commandUndead#_command-undead
+- [Command, Greater](spell_dir/command#_command-greater
+- [Commune](spell_dir/commune#_commune
+- [Commune with Nature](spell_dir/communeWithNature#_commune-with-nature
+- [Comprehend Languages](spell_dir/comprehendLanguages#_comprehend-languages
+- [Cone of Cold](spell_dir/coneOfCold#_cone-of-cold
+- [Confusion](spell_dir/confusion#_confusion
+- [Confusion, Lesser](spell_dir/confusion#_confusion-lesser
+- [Consecrate](spell_dir/consecrate#_consecrate
+- [Contact Other Plane](spell_dir/contactOtherPlane#_contact-other-plane
+- [Contagion](spell_dir/contagion#_contagion
+- [Contingency](spell_dir/contingency#_contingency
+- [Continual Flame](spell_dir/continualFlame#_continual-flame
+- [Control Plants](spell_dir/controlPlants#_control-plants
+- [Control Undead](spell_dir/controlUndead#_control-undead
+- [Control Water](spell_dir/controlWater#_control-water
+- [Control Weather](spell_dir/controlWeather#_control-weather
+- [Control Winds](spell_dir/controlWinds#_control-winds
+- [Create Food and Water](spell_dir/createFoodAndWater#_create-food-and-water
+- [Create Greater Undead](spell_dir/createGreaterUndead#_create-greater-undead
+- [Create Undead](spell_dir/createUndead#_create-undead
+- [Create Water](spell_dir/createWater#_create-water
+- [Creeping Doom](spell_dir/creepingDoom#_creeping-doom
+- [Crushing Despair](spell_dir/crushingDespair#_crushing-despair
+- [Crushing Hand](spell_dir/crushingHand#_crushing-hand
+- [Cure Critical Wounds](spell_dir/cureCriticalWounds#_cure-critical-wounds
+- [Cure Critical Wounds, Mass](spell_dir/cureCriticalWounds#_cure-critical-wounds-mass
+- [Cure Light Wounds](spell_dir/cureLightWounds#_cure-light-wounds
+- [Cure Light Wounds, Mass](spell_dir/cureLightWounds#_cure-light-wounds-mass
+- [Cure Moderate Wounds](spell_dir/cureModerateWounds#_cure-moderate-wounds
+- [Cure Moderate Wounds, Mass](spell_dir/cureModerateWounds#_cure-moderate-wounds-mass
+- [Cure Serious Wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds
+- [Cure Serious Wounds, Mass](spell_dir/cureSeriousWounds#_cure-serious-wounds-mass
+- [Curse Water](spell_dir/curseWater#_curse-water
 
-- [Dancing Lights](spells/dancingLights#_dancing-lights)
-- [Darkness](spells/darkness#_darkness)
-- [Darkvision](spells/darkvision#_darkvision)
-- [Daylight](spells/daylight#_daylight)
-- [Daze](spells/daze#_daze)
-- [Daze Monster](spells/dazeMonster#_daze-monster)
-- [Death Knell](spells/deathKnell#_death-knell)
-- [Death Ward](spells/deathWard#_death-ward)
-- [Deathwatch](spells/deathwatch#_deathwatch)
-- [Deep Slumber](spells/deepSlumber#_deep-slumber)
-- [Deeper Darkness](spells/deeperDarkness#_deeper-darkness)
-- [Delay Poison](spells/delayPoison#_delay-poison)
-- [Delayed Blast Fireball](spells/delayedBlastFireball#_delayed-blast-fireball)
-- [Demand](spells/demand#_demand)
-- [Desecrate](spells/desecrate#_desecrate)
-- [Destruction](spells/destruction#_destruction)
-- [Detect Animals or Plants](spells/detectAnimalsOrPlants#_detect-animals-or-plants)
-- [Detect Chaos](spells/detectChaos#_detect-chaos)
-- [Detect Evil](spells/detectEvil#_detect-evil)
-- [Detect Good](spells/detectGood#_detect-good)
-- [Detect Law](spells/detectLaw#_detect-law)
-- [Detect Magic](spells/detectMagic#_detect-magic)
-- [Detect Poison](spells/detectPoison#_detect-poison)
-- [Detect Scrying](spells/detectScrying#_detect-scrying)
-- [Detect Secret Doors](spells/detectSecretDoors#_detect-secret-doors)
-- [Detect Snares and Pits](spells/detectSnaresAndPits#_detect-snares-and-pits)
-- [Detect Thoughts](spells/detectThoughts#_detect-thoughts)
-- [Detect Undead](spells/detectUndead#_detect-undead)
-- [Dictum](spells/dictum#_dictum)
-- [Dimension Door](spells/dimensionDoor#_dimension-door)
-- [Dimensional Anchor](spells/dimensionalAnchor#_dimensional)
-- [Dimensional Lock](spells/dimensionalLock#_dimensional-lock)
-- [Diminish Plants](spells/diminishPlants#_diminish-plants)
-- [Discern Lies](spells/discernLies#_discern-lies)
-- [Discern Location](spells/discernLocation#_discern-location)
-- [Disguise Self](spells/disguiseSelf#_disguise-self)
-- [Disintegrate](spells/disintegrate#_disintegrate)
-- [Dismissal](spells/dismissal#_dismissal)
-- [Dispel Chaos](spells/dispelChaos#_dispel-chaos)
-- [Dispel Evil](spells/dispelEvil#_dispel-evil)
-- [Dispel Good](spells/dispelGood#_dispel-good)
-- [Dispel Law](spells/dispelLaw#_dispel-law)
-- [Dispel Magic](spells/dispelMagic#_dispel-magic)
-- [Dispel Magic, Greater](spells/dispelMagic#_dispel-magic-greater)
-- [Displacement](spells/displacement#_displacement)
-- [Disrupt Undead](spells/disruptUndead#_disrupt-undead)
-- [Disrupting Weapon](spells/disruptingWeapon#_disrupting-weapon)
-- [Divination](spells/divination#_divination)
-- [Divine Favor](spells/divineFavor#_divine-favor)
-- [Divine Power](spells/divinePower#_divine-power)
-- [Dominate Animal](spells/dominateAnimal#_dominate-animal)
-- [Dominate Monster](spells/dominateMonster#_dominate-monster)
-- [Dominate Person](spells/dominatePerson#_dominate-person)
-- [Doom](spells/doom#_doom)
-- [Dream](spells/dream#_dream)
+- [Dancing Lights](spell_dir/dancingLights#_dancing-lights
+- [Darkness](spell_dir/darkness#_darkness
+- [Darkvision](spell_dir/darkvision#_darkvision
+- [Daylight](spell_dir/daylight#_daylight
+- [Daze](spell_dir/daze#_daze
+- [Daze Monster](spell_dir/dazeMonster#_daze-monster
+- [Death Knell](spell_dir/deathKnell#_death-knell
+- [Death Ward](spell_dir/deathWard#_death-ward
+- [Deathwatch](spell_dir/deathwatch#_deathwatch
+- [Deep Slumber](spell_dir/deepSlumber#_deep-slumber
+- [Deeper Darkness](spell_dir/deeperDarkness#_deeper-darkness
+- [Delay Poison](spell_dir/delayPoison#_delay-poison
+- [Delayed Blast Fireball](spell_dir/delayedBlastFireball#_delayed-blast-fireball
+- [Demand](spell_dir/demand#_demand
+- [Desecrate](spell_dir/desecrate#_desecrate
+- [Destruction](spell_dir/destruction#_destruction
+- [Detect Animals or Plants](spell_dir/detectAnimalsOrPlants#_detect-animals-or-plants
+- [Detect Chaos](spell_dir/detectChaos#_detect-chaos
+- [Detect Evil](spell_dir/detectEvil#_detect-evil
+- [Detect Good](spell_dir/detectGood#_detect-good
+- [Detect Law](spell_dir/detectLaw#_detect-law
+- [Detect Magic](spell_dir/detectMagic#_detect-magic
+- [Detect Poison](spell_dir/detectPoison#_detect-poison
+- [Detect Scrying](spell_dir/detectScrying#_detect-scrying
+- [Detect Secret Doors](spell_dir/detectSecretDoors#_detect-secret-doors
+- [Detect Snares and Pits](spell_dir/detectSnaresAndPits#_detect-snares-and-pits
+- [Detect Thoughts](spell_dir/detectThoughts#_detect-thoughts
+- [Detect Undead](spell_dir/detectUndead#_detect-undead
+- [Dictum](spell_dir/dictum#_dictum
+- [Dimension Door](spell_dir/dimensionDoor#_dimension-door
+- [Dimensional Anchor](spell_dir/dimensionalAnchor#_dimensional
+- [Dimensional Lock](spell_dir/dimensionalLock#_dimensional-lock
+- [Diminish Plants](spell_dir/diminishPlants#_diminish-plants
+- [Discern Lies](spell_dir/discernLies#_discern-lies
+- [Discern Location](spell_dir/discernLocation#_discern-location
+- [Disguise Self](spell_dir/disguiseSelf#_disguise-self
+- [Disintegrate](spell_dir/disintegrate#_disintegrate
+- [Dismissal](spell_dir/dismissal#_dismissal
+- [Dispel Chaos](spell_dir/dispelChaos#_dispel-chaos
+- [Dispel Evil](spell_dir/dispelEvil#_dispel-evil
+- [Dispel Good](spell_dir/dispelGood#_dispel-good
+- [Dispel Law](spell_dir/dispelLaw#_dispel-law
+- [Dispel Magic](spell_dir/dispelMagic#_dispel-magic
+- [Dispel Magic, Greater](spell_dir/dispelMagic#_dispel-magic-greater
+- [Displacement](spell_dir/displacement#_displacement
+- [Disrupt Undead](spell_dir/disruptUndead#_disrupt-undead
+- [Disrupting Weapon](spell_dir/disruptingWeapon#_disrupting-weapon
+- [Divination](spell_dir/divination#_divination
+- [Divine Favor](spell_dir/divineFavor#_divine-favor
+- [Divine Power](spell_dir/divinePower#_divine-power
+- [Dominate Animal](spell_dir/dominateAnimal#_dominate-animal
+- [Dominate Monster](spell_dir/dominateMonster#_dominate-monster
+- [Dominate Person](spell_dir/dominatePerson#_dominate-person
+- [Doom](spell_dir/doom#_doom
+- [Dream](spell_dir/dream#_dream
 
-- [Eagle's Splendor](spells/eagleSSplendor#_eagle-s-splendor)
-- [Eagle's Splendor, Mass](spells/eagleSSplendor#_eagle-s-splendor-mass)
-- [Earthquake](spells/earthquake#_earthquake)
-- [Elemental Body I](spells/elementalBody#_elemental-body-i)
-- [Elemental Body II](spells/elementalBody#_elemental-body-ii)
-- [Elemental Body III](spells/elementalBody#_elemental-body-iii)
-- [Elemental Body IV](spells/elementalBody#_elemental-body-iv)
-- [Elemental Swarm](spells/elementalSwarm#_elemental-swarm)
-- [Endure Elements](spells/endureElements#_endure-elements)
-- [Energy Drain](spells/energyDrain#_energy-drain)
-- [Enervation](spells/enervation#_enervation)
-- [Enlarge Person](spells/enlargePerson#_enlarge-person)
-- [Enlarge Person, Mass](spells/enlargePerson#_enlarge-person-mass)
-- [Entangle](spells/entangle#_entangle)
-- [Enthrall](spells/enthrall#_enthrall)
-- [Entropic Shield](spells/entropicShield#_entropic-shield)
-- [Erase](spells/erase#_erase)
-- [Ethereal Jaunt](spells/etherealJaunt#_ethereal-jaunt)
-- [Etherealness](spells/etherealness#_etherealness)
-- [Expeditious Retreat](spells/expeditiousRetreat#_expeditious-retreat)
-- [Explosive Runes](spells/explosiveRunes#_explosive-runes)
-- [Eyebite](spells/eyebite#_eyebite)
+- [Eagle's Splendor](spell_dir/eagleSSplendor#_eagle-s-splendor
+- [Eagle's Splendor, Mass](spell_dir/eagleSSplendor#_eagle-s-splendor-mass
+- [Earthquake](spell_dir/earthquake#_earthquake
+- [Elemental Body I](spell_dir/elementalBody#_elemental-body-i
+- [Elemental Body II](spell_dir/elementalBody#_elemental-body-ii
+- [Elemental Body III](spell_dir/elementalBody#_elemental-body-iii
+- [Elemental Body IV](spell_dir/elementalBody#_elemental-body-iv
+- [Elemental Swarm](spell_dir/elementalSwarm#_elemental-swarm
+- [Endure Elements](spell_dir/endureElements#_endure-elements
+- [Energy Drain](spell_dir/energyDrain#_energy-drain
+- [Enervation](spell_dir/enervation#_enervation
+- [Enlarge Person](spell_dir/enlargePerson#_enlarge-person
+- [Enlarge Person, Mass](spell_dir/enlargePerson#_enlarge-person-mass
+- [Entangle](spell_dir/entangle#_entangle
+- [Enthrall](spell_dir/enthrall#_enthrall
+- [Entropic Shield](spell_dir/entropicShield#_entropic-shield
+- [Erase](spell_dir/erase#_erase
+- [Ethereal Jaunt](spell_dir/etherealJaunt#_ethereal-jaunt
+- [Etherealness](spell_dir/etherealness#_etherealness
+- [Expeditious Retreat](spell_dir/expeditiousRetreat#_expeditious-retreat
+- [Explosive Runes](spell_dir/explosiveRunes#_explosive-runes
+- [Eyebite](spell_dir/eyebite#_eyebite
 
-- [Fabricate](spells/fabricate#_fabricate)
-- [Faerie Fire](spells/faerieFire#_faerie-fire)
-- [False Life](spells/falseLife#_false-life)
-- [False Vision](spells/falseVision#_false-vision)
-- [Fear](spells/fear#_fear)
-- [Feather Fall](spells/featherFall#_feather-fall)
-- [Feeblemind](spells/feeblemind#_feeblemind)
-- [Find Traps](spells/findTraps#_find-traps)
-- [Find the Path](spells/findThePath#_find-the-path)
-- [Finger of Death](spells/fingerOfDeath#_finger-of-death)
-- [Fire Seeds](spells/fireSeeds#_fire-seeds)
-- [Fire Shield](spells/fireShield#_fire-shield)
-- [Fire Storm](spells/fireStorm#_fire-storm)
-- [Fire Trap](spells/fireTrap#_fire-trap)
-- [Fireball](spells/fireball#_fireball)
-- [Flame Arrow](spells/flameArrow#_flame-arrow)
-- [Flame Blade](spells/flameBlade#_flame-blade)
-- [Flame Strike](spells/flameStrike#_flame-strike)
-- [Flaming Sphere](spells/flamingSphere#_flaming-sphere)
-- [Flare](spells/flare#_flare)
-- [Flesh to Stone](spells/fleshToStone#_flesh-to-stone)
-- [Floating Disk](spells/floatingDisk#_floating-disk)
-- [Fly](spells/fly)
-- [Fog Cloud](spells/fogCloud)
-- [Forbiddance](spells/forbiddance#_forbiddance)
-- [Forcecage](spells/forcecage#_forcecage)
-- [Forceful Hand](spells/forcefulHand#_forceful-hand)
-- [Foresight](spells/foresight#_foresight)
-- [Form of the Dragon I](spells/formOfTheDragon#_form-of-the-dragon-i)
-- [Form of the Dragon II](spells/formOfTheDragon#_form-of-the-dragon-ii)
-- [Form of the Dragon III](spells/formOfTheDragon#_form-of-the-dragon-iii)
-- [Fox's Cunning](spells/foxSCunning#_fox-s-cunning)
-- [Fox's Cunning, Mass](spells/foxSCunning#_fox-s-cunning-mass)
-- [Freedom](spells/freedom#_freedom)
-- [Freedom of Movement](spells/freedomOfMovement#_freedom-of-movement)
-- [Freezing Sphere](spells/freezingSphere#_freezing-sphere)
+- [Fabricate](spell_dir/fabricate#_fabricate
+- [Faerie Fire](spell_dir/faerieFire#_faerie-fire
+- [False Life](spell_dir/falseLife#_false-life
+- [False Vision](spell_dir/falseVision#_false-vision
+- [Fear](spell_dir/fear#_fear
+- [Feather Fall](spell_dir/featherFall#_feather-fall
+- [Feeblemind](spell_dir/feeblemind#_feeblemind
+- [Find Traps](spell_dir/findTraps#_find-traps
+- [Find the Path](spell_dir/findThePath#_find-the-path
+- [Finger of Death](spell_dir/fingerOfDeath#_finger-of-death
+- [Fire Seeds](spell_dir/fireSeeds#_fire-seeds
+- [Fire Shield](spell_dir/fireShield#_fire-shield
+- [Fire Storm](spell_dir/fireStorm#_fire-storm
+- [Fire Trap](spell_dir/fireTrap#_fire-trap
+- [Fireball](spell_dir/fireball#_fireball
+- [Flame Arrow](spell_dir/flameArrow#_flame-arrow
+- [Flame Blade](spell_dir/flameBlade#_flame-blade
+- [Flame Strike](spell_dir/flameStrike#_flame-strike
+- [Flaming Sphere](spell_dir/flamingSphere#_flaming-sphere
+- [Flare](spell_dir/flare#_flare
+- [Flesh to Stone](spell_dir/fleshToStone#_flesh-to-stone
+- [Floating Disk](spell_dir/floatingDisk#_floating-disk
+- [Fly](spell_dir/fly
+- [Fog Cloud](spell_dir/fogCloud
+- [Forbiddance](spell_dir/forbiddance#_forbiddance
+- [Forcecage](spell_dir/forcecage#_forcecage
+- [Forceful Hand](spell_dir/forcefulHand#_forceful-hand
+- [Foresight](spell_dir/foresight#_foresight
+- [Form of the Dragon I](spell_dir/formOfTheDragon#_form-of-the-dragon-i
+- [Form of the Dragon II](spell_dir/formOfTheDragon#_form-of-the-dragon-ii
+- [Form of the Dragon III](spell_dir/formOfTheDragon#_form-of-the-dragon-iii
+- [Fox's Cunning](spell_dir/foxSCunning#_fox-s-cunning
+- [Fox's Cunning, Mass](spell_dir/foxSCunning#_fox-s-cunning-mass
+- [Freedom](spell_dir/freedom#_freedom
+- [Freedom of Movement](spell_dir/freedomOfMovement#_freedom-of-movement
+- [Freezing Sphere](spell_dir/freezingSphere#_freezing-sphere
 
-- [Gaseous Form](spells/gaseousForm#_gaseous-form)
-- [Gate](spells/gate#_gate)
-- [Geas, Lesser](spells/geasQuest#_geas-lesser)
-- [Geas/Quest](spells/geasQuest#_geas-quest)
-- [Gentle Repose](spells/gentleRepose#_gentle-repose)
-- [Ghost Sound](spells/ghostSound#_ghost-sound)
-- [Ghoul Touch](spells/ghoulTouch#_ghoul-touch)
-- [Giant Form I](spells/giantForm#_giant-form-i)
-- [Giant Form II](spells/giantForm#_giant-form-ii)
-- [Giant Vermin](spells/giantVermin#_giant-vermin)
-- [Glibness](spells/glibness#_glibness)
-- [Glitterdust](spells/glitterdust#_glitterdust)
-- [Globe of Invulnerability](spells/globeOfInvulnerability#_globe-of-invulnerability)
-- [Globe of Invulnerability, Lesser](spells/globeOfInvulnerability#_globe-of-invulnerability-lesser)
-- [Glyph of Warding](spells/glyphOfWarding#_glyph-of-warding)
-- [Glyph of Warding, Greater](spells/glyphOfWarding#_glyph-of-warding-greater)
-- [Good Hope](spells/goodHope#_good-hope)
-- [Goodberry](spells/goodberry#_goodberry)
-- [Grasping Hand](spells/graspingHand#_grasping-hand)
-- [Grease](spells/grease#_grease)
-- [Greater (Spell Name)](spells/greaterSpellName)
-- [Guards and Wards](spells/guardsAndWards#_guards-and-wards)
-- [Guidance](spells/guidance#_guidance)
-- [Gust of Wind](spells/gustOfWind#_gust-of-wind)
+- [Gaseous Form](spell_dir/gaseousForm#_gaseous-form
+- [Gate](spell_dir/gate#_gate
+- [Geas, Lesser](spell_dir/geasQuest#_geas-lesser
+- [Geas/Quest](spell_dir/geasQuest#_geas-quest
+- [Gentle Repose](spell_dir/gentleRepose#_gentle-repose
+- [Ghost Sound](spell_dir/ghostSound#_ghost-sound
+- [Ghoul Touch](spell_dir/ghoulTouch#_ghoul-touch
+- [Giant Form I](spell_dir/giantForm#_giant-form-i
+- [Giant Form II](spell_dir/giantForm#_giant-form-ii
+- [Giant Vermin](spell_dir/giantVermin#_giant-vermin
+- [Glibness](spell_dir/glibness#_glibness
+- [Glitterdust](spell_dir/glitterdust#_glitterdust
+- [Globe of Invulnerability](spell_dir/globeOfInvulnerability#_globe-of-invulnerability
+- [Globe of Invulnerability, Lesser](spell_dir/globeOfInvulnerability#_globe-of-invulnerability-lesser
+- [Glyph of Warding](spell_dir/glyphOfWarding#_glyph-of-warding
+- [Glyph of Warding, Greater](spell_dir/glyphOfWarding#_glyph-of-warding-greater
+- [Good Hope](spell_dir/goodHope#_good-hope
+- [Goodberry](spell_dir/goodberry#_goodberry
+- [Grasping Hand](spell_dir/graspingHand#_grasping-hand
+- [Grease](spell_dir/grease#_grease)
+- [Greater (Spell Name](spell_dir/greaterSpellName
+- [Guards and Wards](spell_dir/guardsAndWards#_guards-and-wards
+- [Guidance](spell_dir/guidance#_guidance
+- [Gust of Wind](spell_dir/gustOfWind#_gust-of-wind
 
-- [Hallow](spells/hallow#_hallow)
-- [Hallucinatory Terrain](spells/hallucinatoryTerrain#_hallucinatory-terrain)
-- [Halt Undead](spells/haltUndead#_halt-undead-copy)
-- [Harm](spells/harm#_harm)
-- [Haste](spells/haste#_haste)
-- [Heal](spells/heal#_heal)
-- [Heal Mount](spells/healMount#_heal-mount)
-- [Heal, Mass](spells/heal#_heal-mass)
-- [Heat Metal](spells/heatMetal#_heat-metal)
-- [Helping Hand](spells/helpingHand#_helping-hand)
-- [Heroes' Feast](spells/heroesFeast#_heroes-feast)
-- [Heroism](spells/heroism#_heroism)
-- [Heroism, Greater](spells/heroism#_heroism-greater)
-- [Hide from Animals](spells/hideFromAnimals#_hide-from-animals)
-- [Hide from Undead](spells/hideFromUndead#_hide-from-undead)
-- [Hideous Laughter](spells/hideousLaughter#_hideous-laughter)
-- [Hold Animal](spells/holdAnimal#_hold-animal)
-- [Hold Monster](spells/holdMonster#_hold-monster)
-- [Hold Monster, Mass](spells/holdMonster#_hold-monster-mass)
-- [Hold Person](spells/holdPerson#_hold-person)
-- [Hold Person, Mass](spells/holdPerson#_hold-person-mass)
-- [Hold Portal](spells/holdPortal#_hold-portal)
-- [Holy Aura](spells/holyAura#_holy-aura)
-- [Holy Smite](spells/holySmite#_holy-smite)
-- [Holy Sword](spells/holySword#_holy-sword)
-- [Holy Word](spells/holyWord#_holy-word)
-- [Horrid Wilting](spells/horridWilting#_horrid-wilting)
-- [Hypnotic Pattern](spells/hypnoticPattern#_hypnotic-pattern)
-- [Hypnotism](spells/hypnotism#_hypnotism)
+- [Hallow](spell_dir/hallow#_hallow
+- [Hallucinatory Terrain](spell_dir/hallucinatoryTerrain#_hallucinatory-terrain
+- [Halt Undead](spell_dir/haltUndead#_halt-undead-copy
+- [Harm](spell_dir/harm#_harm
+- [Haste](spell_dir/haste#_haste
+- [Heal](spell_dir/heal#_heal
+- [Heal Mount](spell_dir/healMount#_heal-mount
+- [Heal, Mass](spell_dir/heal#_heal-mass
+- [Heat Metal](spell_dir/heatMetal#_heat-metal
+- [Helping Hand](spell_dir/helpingHand#_helping-hand
+- [Heroes' Feast](spell_dir/heroesFeast#_heroes-feast
+- [Heroism](spell_dir/heroism#_heroism
+- [Heroism, Greater](spell_dir/heroism#_heroism-greater
+- [Hide from Animals](spell_dir/hideFromAnimals#_hide-from-animals
+- [Hide from Undead](spell_dir/hideFromUndead#_hide-from-undead
+- [Hideous Laughter](spell_dir/hideousLaughter#_hideous-laughter
+- [Hold Animal](spell_dir/holdAnimal#_hold-animal
+- [Hold Monster](spell_dir/holdMonster#_hold-monster
+- [Hold Monster, Mass](spell_dir/holdMonster#_hold-monster-mass
+- [Hold Person](spell_dir/holdPerson#_hold-person
+- [Hold Person, Mass](spell_dir/holdPerson#_hold-person-mass
+- [Hold Portal](spell_dir/holdPortal#_hold-portal
+- [Holy Aura](spell_dir/holyAura#_holy-aura
+- [Holy Smite](spell_dir/holySmite#_holy-smite
+- [Holy Sword](spell_dir/holySword#_holy-sword
+- [Holy Word](spell_dir/holyWord#_holy-word
+- [Horrid Wilting](spell_dir/horridWilting#_horrid-wilting
+- [Hypnotic Pattern](spell_dir/hypnoticPattern#_hypnotic-pattern
+- [Hypnotism](spell_dir/hypnotism#_hypnotism
 
-- [Ice Storm](spells/iceStorm#_ice-storm)
-- [Identify](spells/identify#_identify)
-- [Illusory Script](spells/illusoryScript#_illusory-script)
-- [Illusory Wall](spells/illusoryWall#_illusory-wall)
-- [Imbue with Spell Ability](spells/imbueWithSpellAbility#_imbue-with-spell-ability)
-- [Implosion](spells/implosion#_implosion)
-- [Imprisonment](spells/imprisonment#_imprisonment)
-- [Incendiary Cloud](spells/incendiaryCloud#_incendiary-cloud)
-- [Inflict Critical Wounds](spells/inflictCriticalWounds#_inflict-critical-wounds)
-- [Inflict Critical Wounds, Mass](spells/inflictCriticalWounds#_inflict-critical-wounds-mass)
-- [Inflict Light Wounds](spells/inflictLightWounds#_inflict-light-wounds)
-- [Inflict Light Wounds, Mass](spells/inflictLightWounds#_inflict-light-wounds-mass)
-- [Inflict Moderate Wounds](spells/inflictModerateWounds#_inflict-moderate-wounds)
-- [Inflict Moderate Wounds, Mass](spells/inflictModerateWounds#_inflict-moderate-wounds-mass)
-- [Inflict Serious Wounds](spells/inflictSeriousWounds#_inflict-serious-wounds)
-- [Inflict Serious Wounds, Mass](spells/inflictSeriousWounds#_inflict-serious-wounds-mass)
-- [Insanity](spells/insanity#_insanity)
-- [Insect Plague](spells/insectPlague#_insect-plague)
-- [Instant Summons](spells/instantSummons#_instant-summons)
-- [Interposing Hand](spells/interposingHand#_interposing-hand)
-- [Invisibility](spells/invisibility#_invisibility)
-- [Invisibility Purge](spells/invisibilityPurge#_invisibility-purge)
-- [Invisibility Sphere](spells/invisibilitySphere#_invisibility-sphere)
-- [Invisibility, Greater](spells/invisibility#_invisibility-greater)
-- [Invisibility, Mass](spells/invisibility#_invisibility-mass)
-- [Iron Body](spells/ironBody#_iron-body)
-- [Ironwood](spells/ironwood#_ironwood)
-- [Irresistible Dance](spells/irresistibleDance#_irresistible-dance)
+- [Ice Storm](spell_dir/iceStorm#_ice-storm
+- [Identify](spell_dir/identify#_identify
+- [Illusory Script](spell_dir/illusoryScript#_illusory-script
+- [Illusory Wall](spell_dir/illusoryWall#_illusory-wall
+- [Imbue with Spell Ability](spell_dir/imbueWithSpellAbility#_imbue-with-spell-ability
+- [Implosion](spell_dir/implosion#_implosion
+- [Imprisonment](spell_dir/imprisonment#_imprisonment
+- [Incendiary Cloud](spell_dir/incendiaryCloud#_incendiary-cloud
+- [Inflict Critical Wounds](spell_dir/inflictCriticalWounds#_inflict-critical-wounds
+- [Inflict Critical Wounds, Mass](spell_dir/inflictCriticalWounds#_inflict-critical-wounds-mass
+- [Inflict Light Wounds](spell_dir/inflictLightWounds#_inflict-light-wounds
+- [Inflict Light Wounds, Mass](spell_dir/inflictLightWounds#_inflict-light-wounds-mass
+- [Inflict Moderate Wounds](spell_dir/inflictModerateWounds#_inflict-moderate-wounds
+- [Inflict Moderate Wounds, Mass](spell_dir/inflictModerateWounds#_inflict-moderate-wounds-mass
+- [Inflict Serious Wounds](spell_dir/inflictSeriousWounds#_inflict-serious-wounds
+- [Inflict Serious Wounds, Mass](spell_dir/inflictSeriousWounds#_inflict-serious-wounds-mass
+- [Insanity](spell_dir/insanity#_insanity
+- [Insect Plague](spell_dir/insectPlague#_insect-plague
+- [Instant Summons](spell_dir/instantSummons#_instant-summons
+- [Interposing Hand](spell_dir/interposingHand#_interposing-hand
+- [Invisibility](spell_dir/invisibility#_invisibility
+- [Invisibility Purge](spell_dir/invisibilityPurge#_invisibility-purge
+- [Invisibility Sphere](spell_dir/invisibilitySphere#_invisibility-sphere
+- [Invisibility, Greater](spell_dir/invisibility#_invisibility-greater
+- [Invisibility, Mass](spell_dir/invisibility#_invisibility-mass
+- [Iron Body](spell_dir/ironBody#_iron-body
+- [Ironwood](spell_dir/ironwood#_ironwood
+- [Irresistible Dance](spell_dir/irresistibleDance#_irresistible-dance
 
-- [Jump](spells/jump#_jump)
+- [Jump](spell_dir/jump#_jump
 
-- [Keen Edge](spells/keenEdge#_keen-edge)
-- [Knock](spells/knock#_knock)
-- [Know Direction](spells/knowDirection#_know-direction)
+- [Keen Edge](spell_dir/keenEdge#_keen-edge
+- [Knock](spell_dir/knock#_knock
+- [Know Direction](spell_dir/knowDirection#_know-direction
 
-- [Legend Lore](spells/legendLore#_legend-lore)
-- [Lesser (Spell Name)](spells/lesserSpellName)
-- [Levitate](spells/levitate#_levitate)
-- [Light](spells/light#_light)
-- [Lightning Bolt](spells/lightningBolt#_lightning-bolt)
-- [Limited Wish](spells/limitedWish#_limited-wish)
-- [Liveoak](spells/liveoak#_liveoak)
-- [Locate Creature](spells/locateCreature#_locate-creature)
-- [Locate Object](spells/locateObject#_locate-object)
-- [Longstrider](spells/longstrider#_longstrider)
-- [Lullaby](spells/lullaby#_lullaby)
+- [Legend Lore](spell_dir/legendLore#_legend-lore)
+- [Lesser (Spell Name](spell_dir/lesserSpellName
+- [Levitate](spell_dir/levitate#_levitate
+- [Light](spell_dir/light#_light
+- [Lightning Bolt](spell_dir/lightningBolt#_lightning-bolt
+- [Limited Wish](spell_dir/limitedWish#_limited-wish
+- [Liveoak](spell_dir/liveoak#_liveoak
+- [Locate Creature](spell_dir/locateCreature#_locate-creature
+- [Locate Object](spell_dir/locateObject#_locate-object
+- [Longstrider](spell_dir/longstrider#_longstrider
+- [Lullaby](spell_dir/lullaby#_lullaby
 
-- [Mage Armor](spells/mageArmor#_mage-armor)
-- [Mage Hand](spells/mageHand#_mage-hand)
-- [Mage's Disjunction](spells/mageSDisjunction#_mage-s-disjunction)
-- [Mage's Faithful Hound](spells/mageSFaithfulHound#_mage-s-faithful-hound)
-- [Mage's Lucubration](spells/mageSLucubration#_mage-s-lucubration)
-- [Mage's Magnificent Mansion](spells/mageSMagnificentMansion#_mage-s-magnificent-mansion)
-- [Mage's Private Sanctum](spells/mageSPrivateSanctum#_mage-s-private-sanctum)
-- [Mage's Sword](spells/mageSSword#_mage-s-sword)
-- [Magic Aura](spells/magicAura#_magic-aura)
-- [Magic Circle against Chaos](spells/magicCircleAgainstChaos#_magic-circle-against-chaos)
-- [Magic Circle against Evil](spells/magicCircleAgainstEvil#_magic-circle-against-evil)
-- [Magic Circle against Good](spells/magicCircleAgainstGood#_magic-circle-against-good)
-- [Magic Circle against Law](spells/magicCircleAgainstLaw#_magic-circle-against-law)
-- [Magic Fang](spells/magicFang#_magic-fang)
-- [Magic Fang, Greater](spells/magicFang#_magic-fang-greater)
-- [Magic Jar](spells/magicJar#_magic-jar)
-- [Magic Missile](spells/magicMissile#_magic-missile)
-- [Magic Mouth](spells/magicMouth#_magic-mouth)
-- [Magic Stone](spells/magicStone#_magic-stone)
-- [Magic Vestment](spells/magicVestment#_magic-vestment)
-- [Magic Weapon](spells/magicWeapon#_magic-weapon)
-- [Magic Weapon, Greater](spells/magicWeapon#_magic-weapon-greater)
-- [Major Creation](spells/majorCreation#_major-creation)
-- [Major Image](spells/majorImage#_major-image)
-- [Make Whole](spells/makeWhole#_make-whole)
-- [Mark of Justice](spells/markOfJustice#_mark-of-justice)
-- [Mass (Spell Name)](spells/massSpellName)
-- [Maze](spells/maze#_maze)
-- [Meld into Stone](spells/meldIntoStone#_meld-into-stone)
-- [Mending](spells/mending#_mending)
-- [Message](spells/message#_message)
-- [Meteor Swarm](spells/meteorSwarm#_meteor-swarm)
-- [Mind Blank](spells/mindBlank#_mind-blank)
-- [Mind Fog](spells/mindFog#_mind-fog)
-- [Minor Creation](spells/minorCreation#_minor-creation)
-- [Minor Image](spells/minorImage#_minor-image)
-- [Miracle](spells/miracle#_miracle)
-- [Mirage Arcana](spells/mirageArcana#_mirage-arcana)
-- [Mirror Image](spells/mirrorImage#_mirror-image)
-- [Misdirection](spells/misdirection#_misdirection)
-- [Mislead](spells/mislead#_mislead)
-- [Mnemonic Enhancer](spells/mnemonicEnhancer#_mnemonic-enhancer)
-- [Modify Memory](spells/modifyMemory#_modify-memory)
-- [Moment of Prescience](spells/momentOfPrescience#_moment-of-prescience)
-- [Mount](spells/mount#_mount)
-- [Move Earth](spells/moveEarth#_move-earth)
+- [Mage Armor](spell_dir/mageArmor#_mage-armor
+- [Mage Hand](spell_dir/mageHand#_mage-hand
+- [Mage's Disjunction](spell_dir/mageSDisjunction#_mage-s-disjunction
+- [Mage's Faithful Hound](spell_dir/mageSFaithfulHound#_mage-s-faithful-hound
+- [Mage's Lucubration](spell_dir/mageSLucubration#_mage-s-lucubration
+- [Mage's Magnificent Mansion](spell_dir/mageSMagnificentMansion#_mage-s-magnificent-mansion
+- [Mage's Private Sanctum](spell_dir/mageSPrivateSanctum#_mage-s-private-sanctum
+- [Mage's Sword](spell_dir/mageSSword#_mage-s-sword
+- [Magic Aura](spell_dir/magicAura#_magic-aura
+- [Magic Circle against Chaos](spell_dir/magicCircleAgainstChaos#_magic-circle-against-chaos
+- [Magic Circle against Evil](spell_dir/magicCircleAgainstEvil#_magic-circle-against-evil
+- [Magic Circle against Good](spell_dir/magicCircleAgainstGood#_magic-circle-against-good
+- [Magic Circle against Law](spell_dir/magicCircleAgainstLaw#_magic-circle-against-law
+- [Magic Fang](spell_dir/magicFang#_magic-fang
+- [Magic Fang, Greater](spell_dir/magicFang#_magic-fang-greater
+- [Magic Jar](spell_dir/magicJar#_magic-jar
+- [Magic Missile](spell_dir/magicMissile#_magic-missile
+- [Magic Mouth](spell_dir/magicMouth#_magic-mouth
+- [Magic Stone](spell_dir/magicStone#_magic-stone
+- [Magic Vestment](spell_dir/magicVestment#_magic-vestment
+- [Magic Weapon](spell_dir/magicWeapon#_magic-weapon
+- [Magic Weapon, Greater](spell_dir/magicWeapon#_magic-weapon-greater
+- [Major Creation](spell_dir/majorCreation#_major-creation
+- [Major Image](spell_dir/majorImage#_major-image
+- [Make Whole](spell_dir/makeWhole#_make-whole
+- [Mark of Justice](spell_dir/markOfJustice#_mark-of-justice)
+- [Mass (Spell Name](spell_dir/massSpellName
+- [Maze](spell_dir/maze#_maze
+- [Meld into Stone](spell_dir/meldIntoStone#_meld-into-stone
+- [Mending](spell_dir/mending#_mending
+- [Message](spell_dir/message#_message
+- [Meteor Swarm](spell_dir/meteorSwarm#_meteor-swarm
+- [Mind Blank](spell_dir/mindBlank#_mind-blank
+- [Mind Fog](spell_dir/mindFog#_mind-fog
+- [Minor Creation](spell_dir/minorCreation#_minor-creation
+- [Minor Image](spell_dir/minorImage#_minor-image
+- [Miracle](spell_dir/miracle#_miracle
+- [Mirage Arcana](spell_dir/mirageArcana#_mirage-arcana
+- [Mirror Image](spell_dir/mirrorImage#_mirror-image
+- [Misdirection](spell_dir/misdirection#_misdirection
+- [Mislead](spell_dir/mislead#_mislead
+- [Mnemonic Enhancer](spell_dir/mnemonicEnhancer#_mnemonic-enhancer
+- [Modify Memory](spell_dir/modifyMemory#_modify-memory
+- [Moment of Prescience](spell_dir/momentOfPrescience#_moment-of-prescience
+- [Mount](spell_dir/mount#_mount
+- [Move Earth](spell_dir/moveEarth#_move-earth
 
-- [Neutralize Poison](spells/neutralizePoison#_neutralize-poison)
-- [Nightmare](spells/nightmare#_nightmare)
-- [Nondetection](spells/nondetection#_nondetection)
+- [Neutralize Poison](spell_dir/neutralizePoison#_neutralize-poison
+- [Nightmare](spell_dir/nightmare#_nightmare
+- [Nondetection](spell_dir/nondetection#_nondetection
 
-- [Obscure Object](spells/obscureObject#_obscure-object)
-- [Obscuring Mist](spells/obscuringMist#_obscuring-mist)
-- [Open/Close](spells/openClose#_open-close)
-- [Order's Wrath](spells/orderSWrath#_order-s-wrath)
-- [Overland Flight](spells/overlandFlight#_overland-flight)
-- [Owl's Wisdom](spells/owlSWisdom#_owl-s-wisdom)
-- [Owl's Wisdom, Mass](spells/owlSWisdom#_owl-s-wisdom-mass)
+- [Obscure Object](spell_dir/obscureObject#_obscure-object
+- [Obscuring Mist](spell_dir/obscuringMist#_obscuring-mist
+- [Open/Close](spell_dir/openClose#_open-close
+- [Order's Wrath](spell_dir/orderSWrath#_order-s-wrath
+- [Overland Flight](spell_dir/overlandFlight#_overland-flight
+- [Owl's Wisdom](spell_dir/owlSWisdom#_owl-s-wisdom
+- [Owl's Wisdom, Mass](spell_dir/owlSWisdom#_owl-s-wisdom-mass
 
-- [Pass without Trace](spells/passWithoutTrace#_pass-without-trace)
-- [Passwall](spells/passwall#_passwall)
-- [Permanency](spells/permanency#_permanency)
-- [Permanent Image](spells/permanentImage#_permanent-image)
-- [Persistent Image](spells/persistentImage#_persistent-image)
-- [Phantasmal Killer](spells/phantasmalKiller#_phantasmal-killer)
-- [Phantom Steed](spells/phantomSteed#_phantom-steed)
-- [Phantom Trap](spells/phantomTrap#_phantom-trap)
-- [Phase Door](spells/phaseDoor#_phase-door)
-- [Planar Ally](spells/planarAlly#_planar-ally)
-- [Planar Ally, Greater](spells/planarAlly#_planar-ally-greater)
-- [Planar Ally, Lesser](spells/planarAlly#_planar-ally-lesser)
-- [Planar Binding](spells/planarBinding#_planar-binding)
-- [Planar Binding, Greater](spells/planarBinding#_planar-binding-greater)
-- [Planar Binding, Lesser](spells/planarBinding#_planar-binding-lesser)
-- [Plane Shift](spells/planeShift#_plane-shift)
-- [Plant Growth](spells/plantGrowth#_plant-growth)
-- [Plant Shape I](spells/plantShape#_plant-shape-i)
-- [Plant Shape II](spells/plantShape#_plant-shape-ii)
-- [Plant Shape III](spells/plantShape#_plant-shape-iii)
-- [Poison](spells/poison#_poison)
-- [Polar Ray](spells/polarRay#_polar-ray)
-- [Polymorph](spells/polymorph#_polymorph)
-- [Polymorph Any Object](spells/polymorphAnyObject#_polymorph-any-object)
-- [Polymorph, Greater](spells/polymorph#_polymorph-greater)
-- [Power Word Blind](spells/powerWordBlind#_power-word-blind)
-- [Power Word Kill](spells/powerWordKill#_power-word-kill)
-- [Power Word Stun](spells/powerWordStun#_power-word-stun)
-- [Prayer](spells/prayer#_prayer)
-- [Prestidigitation](spells/prestidigitation#_prestidigitation)
-- [Prismatic Sphere](spells/prismaticSphere#_prismatic-sphere)
-- [Prismatic Spray](spells/prismaticSpray#_prismatic-spray)
-- [Prismatic Wall](spells/prismaticWall#_prismatic-wall)
-- [Produce Flame](spells/produceFlame#_produce-flame)
-- [Programmed Image](spells/programmedImage#_programmed-image)
-- [Project Image](spells/projectImage#_project-image)
-- [Protection from Arrows](spells/protectionFromArrows#_protection-from-arrows)
-- [Protection from Chaos](spells/protectionFromChaos#_protection-from-chaos)
-- [Protection from Energy](spells/protectionFromEnergy#_protection-from-energy)
-- [Protection from Evil](spells/protectionFromEvil#_protection-from-evil)
-- [Protection from Good](spells/protectionFromGood#_protection-from-good)
-- [Protection from Law](spells/protectionFromLaw#_protection-from-law)
-- [Protection from Spells](spells/protectionFromSpells#_protection-from-spells)
-- [Prying Eyes](spells/pryingEyes#_prying-eyes)
-- [Prying Eyes, Greater](spells/pryingEyes#_prying-eyes-greater)
-- [Purify Food and Drink](spells/purifyFoodAndDrink#_purify-food-and-drink)
-- [Pyrotechnics](spells/pyrotechnics#_pyrotechnics)
+- [Pass without Trace](spell_dir/passWithoutTrace#_pass-without-trace
+- [Passwall](spell_dir/passwall#_passwall
+- [Permanency](spell_dir/permanency#_permanency
+- [Permanent Image](spell_dir/permanentImage#_permanent-image
+- [Persistent Image](spell_dir/persistentImage#_persistent-image
+- [Phantasmal Killer](spell_dir/phantasmalKiller#_phantasmal-killer
+- [Phantom Steed](spell_dir/phantomSteed#_phantom-steed
+- [Phantom Trap](spell_dir/phantomTrap#_phantom-trap
+- [Phase Door](spell_dir/phaseDoor#_phase-door
+- [Planar Ally](spell_dir/planarAlly#_planar-ally
+- [Planar Ally, Greater](spell_dir/planarAlly#_planar-ally-greater
+- [Planar Ally, Lesser](spell_dir/planarAlly#_planar-ally-lesser
+- [Planar Binding](spell_dir/planarBinding#_planar-binding
+- [Planar Binding, Greater](spell_dir/planarBinding#_planar-binding-greater
+- [Planar Binding, Lesser](spell_dir/planarBinding#_planar-binding-lesser
+- [Plane Shift](spell_dir/planeShift#_plane-shift
+- [Plant Growth](spell_dir/plantGrowth#_plant-growth
+- [Plant Shape I](spell_dir/plantShape#_plant-shape-i
+- [Plant Shape II](spell_dir/plantShape#_plant-shape-ii
+- [Plant Shape III](spell_dir/plantShape#_plant-shape-iii
+- [Poison](spell_dir/poison#_poison
+- [Polar Ray](spell_dir/polarRay#_polar-ray
+- [Polymorph](spell_dir/polymorph#_polymorph
+- [Polymorph Any Object](spell_dir/polymorphAnyObject#_polymorph-any-object
+- [Polymorph, Greater](spell_dir/polymorph#_polymorph-greater
+- [Power Word Blind](spell_dir/powerWordBlind#_power-word-blind
+- [Power Word Kill](spell_dir/powerWordKill#_power-word-kill
+- [Power Word Stun](spell_dir/powerWordStun#_power-word-stun
+- [Prayer](spell_dir/prayer#_prayer
+- [Prestidigitation](spell_dir/prestidigitation#_prestidigitation
+- [Prismatic Sphere](spell_dir/prismaticSphere#_prismatic-sphere
+- [Prismatic Spray](spell_dir/prismaticSpray#_prismatic-spray
+- [Prismatic Wall](spell_dir/prismaticWall#_prismatic-wall
+- [Produce Flame](spell_dir/produceFlame#_produce-flame
+- [Programmed Image](spell_dir/programmedImage#_programmed-image
+- [Project Image](spell_dir/projectImage#_project-image
+- [Protection from Arrows](spell_dir/protectionFromArrows#_protection-from-arrows
+- [Protection from Chaos](spell_dir/protectionFromChaos#_protection-from-chaos
+- [Protection from Energy](spell_dir/protectionFromEnergy#_protection-from-energy
+- [Protection from Evil](spell_dir/protectionFromEvil#_protection-from-evil
+- [Protection from Good](spell_dir/protectionFromGood#_protection-from-good
+- [Protection from Law](spell_dir/protectionFromLaw#_protection-from-law
+- [Protection from Spells](spell_dir/protectionFromSpells#_protection-from-spells
+- [Prying Eyes](spell_dir/pryingEyes#_prying-eyes
+- [Prying Eyes, Greater](spell_dir/pryingEyes#_prying-eyes-greater
+- [Purify Food and Drink](spell_dir/purifyFoodAndDrink#_purify-food-and-drink
+- [Pyrotechnics](spell_dir/pyrotechnics#_pyrotechnics
 
-- [Quench](spells/quench#_quench)
+- [Quench](spell_dir/quench#_quench
 
-- [Rage](spells/rage#_rage)
-- [Rainbow Pattern](spells/rainbowPattern#_rainbow-pattern)
-- [Raise Dead](spells/raiseDead#_raise-dead)
-- [Ray of Enfeeblement](spells/rayOfEnfeeblement#_ray-of-enfeeblement)
-- [Ray of Exhaustion](spells/rayOfExhaustion#_ray-of-exhaustion)
-- [Ray of Frost](spells/rayOfFrost#_ray-of-frost)
-- [Read Magic](spells/readMagic#_read-magic)
-- [Reduce Animal](spells/reduceAnimal#_reduce-animal)
-- [Reduce Person](spells/reducePerson#_reduce-person)
-- [Reduce Person, Mass](spells/reducePerson#_reduce-person-mass)
-- [Refuge](spells/refuge#_refuge)
-- [Regenerate](spells/regenerate#_regenerate)
-- [Reincarnate](spells/reincarnate#_reincarnate)
-- [Remove Blindness/Deafness](spells/removeBlindnessDeafness#_remove-blindness-deafness)
-- [Remove Curse](spells/removeCurse#_remove-curse)
-- [Remove Disease](spells/removeDisease#_remove-disease)
-- [Remove Fear](spells/removeFear#_remove-fear)
-- [Remove Paralysis](spells/removeParalysis#_remove-paralysis)
-- [Repel Metal or Stone](spells/repelMetalOrStone#_repel-metal-or-stone)
-- [Repel Vermin](spells/repelVermin#_repel-vermin)
-- [Repel Wood](spells/repelWood#_repel-wood)
-- [Repulsion](spells/repulsion#_repulsion)
-- [Resilient Sphere](spells/resilientSphere#_resilient-sphere)
-- [Resist Energy](spells/resistEnergy#_resist-energy)
-- [Resistance](spells/resistance#_resistance)
-- [Restoration](spells/restoration#_restoration)
-- [Restoration, Greater](spells/restoration#_restoration-greater)
-- [Restoration, Lesser](spells/restoration#_restoration-lesser)
-- [Resurrection](spells/resurrection#_resurrection)
-- [Reverse Gravity](spells/reverseGravity#_reverse-gravity)
-- [Righteous Might](spells/righteousMight#_righteous-might)
-- [Rope Trick](spells/ropeTrick#_rope-trick)
-- [Rusting Grasp](spells/rustingGrasp#_rusting-grasp)
+- [Rage](spell_dir/rage#_rage
+- [Rainbow Pattern](spell_dir/rainbowPattern#_rainbow-pattern
+- [Raise Dead](spell_dir/raiseDead#_raise-dead
+- [Ray of Enfeeblement](spell_dir/rayOfEnfeeblement#_ray-of-enfeeblement
+- [Ray of Exhaustion](spell_dir/rayOfExhaustion#_ray-of-exhaustion
+- [Ray of Frost](spell_dir/rayOfFrost#_ray-of-frost
+- [Read Magic](spell_dir/readMagic#_read-magic
+- [Reduce Animal](spell_dir/reduceAnimal#_reduce-animal
+- [Reduce Person](spell_dir/reducePerson#_reduce-person
+- [Reduce Person, Mass](spell_dir/reducePerson#_reduce-person-mass
+- [Refuge](spell_dir/refuge#_refuge
+- [Regenerate](spell_dir/regenerate#_regenerate
+- [Reincarnate](spell_dir/reincarnate#_reincarnate
+- [Remove Blindness/Deafness](spell_dir/removeBlindnessDeafness#_remove-blindness-deafness
+- [Remove Curse](spell_dir/removeCurse#_remove-curse
+- [Remove Disease](spell_dir/removeDisease#_remove-disease
+- [Remove Fear](spell_dir/removeFear#_remove-fear
+- [Remove Paralysis](spell_dir/removeParalysis#_remove-paralysis
+- [Repel Metal or Stone](spell_dir/repelMetalOrStone#_repel-metal-or-stone
+- [Repel Vermin](spell_dir/repelVermin#_repel-vermin
+- [Repel Wood](spell_dir/repelWood#_repel-wood
+- [Repulsion](spell_dir/repulsion#_repulsion
+- [Resilient Sphere](spell_dir/resilientSphere#_resilient-sphere
+- [Resist Energy](spell_dir/resistEnergy#_resist-energy
+- [Resistance](spell_dir/resistance#_resistance
+- [Restoration](spell_dir/restoration#_restoration
+- [Restoration, Greater](spell_dir/restoration#_restoration-greater
+- [Restoration, Lesser](spell_dir/restoration#_restoration-lesser
+- [Resurrection](spell_dir/resurrection#_resurrection
+- [Reverse Gravity](spell_dir/reverseGravity#_reverse-gravity
+- [Righteous Might](spell_dir/righteousMight#_righteous-might
+- [Rope Trick](spell_dir/ropeTrick#_rope-trick
+- [Rusting Grasp](spell_dir/rustingGrasp#_rusting-grasp
 
-- [Sanctuary](spells/sanctuary#_sanctuary)
-- [Scare](spells/scare#_scare)
-- [Scintillating Pattern](spells/scintillatingPattern#_scintillating-pattern)
-- [Scorching Ray](spells/scorchingRay#_scorching-ray)
-- [Screen](spells/screen#_screen)
-- [Scrying](spells/scrying#_scrying)
-- [Scrying, Greater](spells/scrying#_scrying-greater)
-- [Sculpt Sound](spells/sculptSound#_sculpt-sound)
-- [Searing Light](spells/searingLight#_searing-light)
-- [Secret Chest](spells/secretChest#_secret-chest)
-- [Secret Page](spells/secretPage#_secret-page)
-- [Secure Shelter](spells/secureShelter#_secure-shelter)
-- [See Invisibility](spells/seeInvisibility#_see-invisibility)
-- [Seeming](spells/seeming#_seeming)
-- [Sending](spells/sending#_sending)
-- [Sepia Snake Sigil](spells/sepiaSnakeSigil#_sepia-snake-sigil)
-- [Sequester](spells/sequester#_sequester)
-- [Shades](spells/shades#_shades)
-- [Shadow Conjuration](spells/shadowConjuration#_shadow-conjuration)
-- [Shadow Conjuration, Greater](spells/shadowConjuration#_shadow-conjuration-greater)
-- [Shadow Evocation](spells/shadowEvocation#_shadow-evocation)
-- [Shadow Evocation, Greater](spells/shadowEvocation#_shadow-evocation-greater)
-- [Shadow Walk](spells/shadowWalk#_shadow-walk)
-- [Shambler](spells/shambler#_shambler)
-- [Shapechange](spells/shapechange#_shapechange)
-- [Shatter](spells/shatter#_shatter)
-- [Shield](spells/shield#_shield)
-- [Shield Other](spells/shieldOther#_shield-other)
-- [Shield of Faith](spells/shieldOfFaith#_shield-of-faith)
-- [Shield of Law](spells/shieldOfLaw#_shield-of-law)
-- [Shillelagh](spells/shillelagh#_shillelagh)
-- [Shocking Grasp](spells/shockingGrasp#_shocking-grasp)
-- [Shout](spells/shout#_shout)
-- [Shout, Greater](spells/shout#_shout-greater)
-- [Shrink Item](spells/shrinkItem#_shrink-item)
-- [Silence](spells/silence#_silence)
-- [Silent Image](spells/silentImage#_silent-image)
-- [Simulacrum](spells/simulacrum#_simulacrum)
-- [Slay Living](spells/slayLiving#_slay-living)
-- [Sleep](spells/sleep#_sleep)
-- [Sleet Storm](spells/sleetStorm#_sleet-storm)
-- [Slow](spells/slow#_slow)
-- [Snare](spells/snare#_snare)
-- [Soften Earth and Stone](spells/softenEarthAndStone#_soften-earth-and-stone)
-- [Solid Fog](spells/solidFog#_solid-fog)
-- [Song of Discord](spells/songOfDiscord#_song-of-discord)
-- [Soul Bind](spells/soulBind#_soul-bind)
-- [Sound Burst](spells/soundBurst#_sound-burst)
-- [Speak with Animals](spells/speakWithAnimals#_speak-with-animals)
-- [Speak with Dead](spells/speakWithDead#_speak-with-dead)
-- [Speak with Plants](spells/speakWithPlants#_speak-with-plants)
-- [Spectral Hand](spells/spectralHand#_spectral-hand)
-- [Spell Immunity](spells/spellImmunity#_spell-immunity)
-- [Spell Immunity, Greater](spells/spellImmunity#_spell-immunity-greater)
-- [Spell Resistance](spells/spellResistance#_spell-resistance)
-- [Spell Turning](spells/spellTurning#_spell-turning)
-- [Spellstaff](spells/spellstaff#_spellstaff)
-- [Spider Climb](spells/spiderClimb#_spider-climb)
-- [Spike Growth](spells/spikeGrowth#_spike-growth)
-- [Spike Stones](spells/spikeStones#_spike-stones)
-- [Spiritual Weapon](spells/spiritualWeapon#_spiritual-weapon)
-- [Stabilize](spells/stabilize#_stabilize)
-- [Statue](spells/statue#_statue)
-- [Status](spells/status#_status)
-- [Stinking Cloud](spells/stinkingCloud#_stinking-cloud)
-- [Stone Shape](spells/stoneShape#_stone-shape)
-- [Stone Tell](spells/stoneTell#_stone-tell)
-- [Stone to Flesh](spells/stoneToFlesh#_stone-to-flesh)
-- [Stoneskin](spells/stoneskin#_stoneskin)
-- [Storm of Vengeance](spells/stormOfVengeance#_storm-of-vengeance)
-- [Suggestion](spells/suggestion#_suggestion)
-- [Suggestion, Mass](spells/suggestion#_suggestion-mass)
-- [Summon Instrument](spells/summonInstrument#_summon-instrument)
-- [Summon Monster I](spells/summonMonster#_summon-monster-i)
-- [Summon Monster II](spells/summonMonster#_summon-monster-ii)
-- [Summon Monster III](spells/summonMonster#_summon-monster-iii)
-- [Summon Monster IV](spells/summonMonster#_summon-monster-iv)
-- [Summon Monster V](spells/summonMonster#_summon-monster-v)
-- [Summon Monster VI](spells/summonMonster#_summon-monster-vi)
-- [Summon Monster VII](spells/summonMonster#_summon-monster-vii)
-- [Summon Monster VIII](spells/summonMonster#_summon-monster-viii)
-- [Summon Monster IX](spells/summonMonster#_summon-monster-ix)
-- [Summon Nature's Ally I](spells/summonNatureSAlly#_summon-nature-s-ally-i)
-- [Summon Nature's Ally II](spells/summonNatureSAlly#_summon-nature-s-ally-ii)
-- [Summon Nature's Ally III](spells/summonNatureSAlly#_summon-nature-s-ally-iii)
-- [Summon Nature's Ally IV](spells/summonNatureSAlly#_summon-nature-s-ally-iv)
-- [Summon Nature's Ally V](spells/summonNatureSAlly#_summon-nature-s-ally-v)
-- [Summon Nature's Ally VI](spells/summonNatureSAlly#_summon-nature-s-ally-vi)
-- [Summon Nature's Ally VII](spells/summonNatureSAlly#_summon-nature-s-ally-vii)
-- [Summon Nature's Ally VIII](spells/summonNatureSAlly#_summon-nature-s-ally-viii)
-- [Summon Nature's Ally IX](spells/summonNatureSAlly#_summon-nature-s-ally-ix)
-- [Summon Swarm](spells/summonSwarm#_summon-swarm)
-- [Sunbeam](spells/sunbeam#_sunbeam)
-- [Sunburst](spells/sunburst#_sunburst)
-- [Symbol of Death](spells/symbolOfDeath#_symbol-of-death)
-- [Symbol of Fear](spells/symbolOfFear#_symbol-of-fear)
-- [Symbol of Insanity](spells/symbolOfInsanity#_symbol-of-insanity)
-- [Symbol of Pain](spells/symbolOfPain#_symbol-of-pain)
-- [Symbol of Persuasion](spells/symbolOfPersuasion#_symbol-of-persuasion)
-- [Symbol of Sleep](spells/symbolOfSleep#_symbol-of-sleep)
-- [Symbol of Stunning](spells/symbolOfStunning#_symbol-of-stunning)
-- [Symbol of Weakness](spells/symbolOfWeakness#_symbol-of-weakness)
-- [Sympathetic Vibration](spells/sympatheticVibration#_sympathetic-vibration)
-- [Sympathy](spells/sympathy#_sympathy)
+- [Sanctuary](spell_dir/sanctuary#_sanctuary
+- [Scare](spell_dir/scare#_scare
+- [Scintillating Pattern](spell_dir/scintillatingPattern#_scintillating-pattern
+- [Scorching Ray](spell_dir/scorchingRay#_scorching-ray
+- [Screen](spell_dir/screen#_screen
+- [Scrying](spell_dir/scrying#_scrying
+- [Scrying, Greater](spell_dir/scrying#_scrying-greater
+- [Sculpt Sound](spell_dir/sculptSound#_sculpt-sound
+- [Searing Light](spell_dir/searingLight#_searing-light
+- [Secret Chest](spell_dir/secretChest#_secret-chest
+- [Secret Page](spell_dir/secretPage#_secret-page
+- [Secure Shelter](spell_dir/secureShelter#_secure-shelter
+- [See Invisibility](spell_dir/seeInvisibility#_see-invisibility
+- [Seeming](spell_dir/seeming#_seeming
+- [Sending](spell_dir/sending#_sending
+- [Sepia Snake Sigil](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil
+- [Sequester](spell_dir/sequester#_sequester
+- [Shades](spell_dir/shades#_shades
+- [Shadow Conjuration](spell_dir/shadowConjuration#_shadow-conjuration
+- [Shadow Conjuration, Greater](spell_dir/shadowConjuration#_shadow-conjuration-greater
+- [Shadow Evocation](spell_dir/shadowEvocation#_shadow-evocation
+- [Shadow Evocation, Greater](spell_dir/shadowEvocation#_shadow-evocation-greater
+- [Shadow Walk](spell_dir/shadowWalk#_shadow-walk
+- [Shambler](spell_dir/shambler#_shambler
+- [Shapechange](spell_dir/shapechange#_shapechange
+- [Shatter](spell_dir/shatter#_shatter
+- [Shield](spell_dir/shield#_shield
+- [Shield Other](spell_dir/shieldOther#_shield-other
+- [Shield of Faith](spell_dir/shieldOfFaith#_shield-of-faith
+- [Shield of Law](spell_dir/shieldOfLaw#_shield-of-law
+- [Shillelagh](spell_dir/shillelagh#_shillelagh
+- [Shocking Grasp](spell_dir/shockingGrasp#_shocking-grasp
+- [Shout](spell_dir/shout#_shout
+- [Shout, Greater](spell_dir/shout#_shout-greater
+- [Shrink Item](spell_dir/shrinkItem#_shrink-item
+- [Silence](spell_dir/silence#_silence
+- [Silent Image](spell_dir/silentImage#_silent-image
+- [Simulacrum](spell_dir/simulacrum#_simulacrum
+- [Slay Living](spell_dir/slayLiving#_slay-living
+- [Sleep](spell_dir/sleep#_sleep
+- [Sleet Storm](spell_dir/sleetStorm#_sleet-storm
+- [Slow](spell_dir/slow#_slow
+- [Snare](spell_dir/snare#_snare
+- [Soften Earth and Stone](spell_dir/softenEarthAndStone#_soften-earth-and-stone
+- [Solid Fog](spell_dir/solidFog#_solid-fog
+- [Song of Discord](spell_dir/songOfDiscord#_song-of-discord
+- [Soul Bind](spell_dir/soulBind#_soul-bind
+- [Sound Burst](spell_dir/soundBurst#_sound-burst
+- [Speak with Animals](spell_dir/speakWithAnimals#_speak-with-animals
+- [Speak with Dead](spell_dir/speakWithDead#_speak-with-dead
+- [Speak with Plants](spell_dir/speakWithPlants#_speak-with-plants
+- [Spectral Hand](spell_dir/spectralHand#_spectral-hand
+- [Spell Immunity](spell_dir/spellImmunity#_spell-immunity
+- [Spell Immunity, Greater](spell_dir/spellImmunity#_spell-immunity-greater
+- [Spell Resistance](spell_dir/spellResistance#_spell-resistance
+- [Spell Turning](spell_dir/spellTurning#_spell-turning
+- [Spellstaff](spell_dir/spellstaff#_spellstaff
+- [Spider Climb](spell_dir/spiderClimb#_spider-climb
+- [Spike Growth](spell_dir/spikeGrowth#_spike-growth
+- [Spike Stones](spell_dir/spikeStones#_spike-stones
+- [Spiritual Weapon](spell_dir/spiritualWeapon#_spiritual-weapon
+- [Stabilize](spell_dir/stabilize#_stabilize
+- [Statue](spell_dir/statue#_statue
+- [Status](spell_dir/status#_status
+- [Stinking Cloud](spell_dir/stinkingCloud#_stinking-cloud
+- [Stone Shape](spell_dir/stoneShape#_stone-shape
+- [Stone Tell](spell_dir/stoneTell#_stone-tell
+- [Stone to Flesh](spell_dir/stoneToFlesh#_stone-to-flesh
+- [Stoneskin](spell_dir/stoneskin#_stoneskin
+- [Storm of Vengeance](spell_dir/stormOfVengeance#_storm-of-vengeance
+- [Suggestion](spell_dir/suggestion#_suggestion
+- [Suggestion, Mass](spell_dir/suggestion#_suggestion-mass
+- [Summon Instrument](spell_dir/summonInstrument#_summon-instrument
+- [Summon Monster I](spell_dir/summonMonster#_summon-monster-i
+- [Summon Monster II](spell_dir/summonMonster#_summon-monster-ii
+- [Summon Monster III](spell_dir/summonMonster#_summon-monster-iii
+- [Summon Monster IV](spell_dir/summonMonster#_summon-monster-iv
+- [Summon Monster V](spell_dir/summonMonster#_summon-monster-v
+- [Summon Monster VI](spell_dir/summonMonster#_summon-monster-vi
+- [Summon Monster VII](spell_dir/summonMonster#_summon-monster-vii
+- [Summon Monster VIII](spell_dir/summonMonster#_summon-monster-viii
+- [Summon Monster IX](spell_dir/summonMonster#_summon-monster-ix
+- [Summon Nature's Ally I](spell_dir/summonNatureSAlly#_summon-nature-s-ally-i
+- [Summon Nature's Ally II](spell_dir/summonNatureSAlly#_summon-nature-s-ally-ii
+- [Summon Nature's Ally III](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iii
+- [Summon Nature's Ally IV](spell_dir/summonNatureSAlly#_summon-nature-s-ally-iv
+- [Summon Nature's Ally V](spell_dir/summonNatureSAlly#_summon-nature-s-ally-v
+- [Summon Nature's Ally VI](spell_dir/summonNatureSAlly#_summon-nature-s-ally-vi
+- [Summon Nature's Ally VII](spell_dir/summonNatureSAlly#_summon-nature-s-ally-vii
+- [Summon Nature's Ally VIII](spell_dir/summonNatureSAlly#_summon-nature-s-ally-viii
+- [Summon Nature's Ally IX](spell_dir/summonNatureSAlly#_summon-nature-s-ally-ix
+- [Summon Swarm](spell_dir/summonSwarm#_summon-swarm
+- [Sunbeam](spell_dir/sunbeam#_sunbeam
+- [Sunburst](spell_dir/sunburst#_sunburst
+- [Symbol of Death](spell_dir/symbolOfDeath#_symbol-of-death
+- [Symbol of Fear](spell_dir/symbolOfFear#_symbol-of-fear
+- [Symbol of Insanity](spell_dir/symbolOfInsanity#_symbol-of-insanity
+- [Symbol of Pain](spell_dir/symbolOfPain#_symbol-of-pain
+- [Symbol of Persuasion](spell_dir/symbolOfPersuasion#_symbol-of-persuasion
+- [Symbol of Sleep](spell_dir/symbolOfSleep#_symbol-of-sleep
+- [Symbol of Stunning](spell_dir/symbolOfStunning#_symbol-of-stunning
+- [Symbol of Weakness](spell_dir/symbolOfWeakness#_symbol-of-weakness
+- [Sympathetic Vibration](spell_dir/sympatheticVibration#_sympathetic-vibration
+- [Sympathy](spell_dir/sympathy#_sympathy
 
-- [Telekinesis](spells/telekinesis#_telekinesis)
-- [Telekinetic Sphere](spells/telekineticSphere#_telekinetic-sphere)
-- [Telepathic Bond](spells/telepathicBond#_telepathic-bond)
-- [Teleport](spells/teleport#_teleport)
-- [Teleport Object](spells/teleportObject#_teleport-object)
-- [Teleport, Greater](spells/teleport#_teleport-greater)
-- [Teleportation Circle](spells/teleportationCircle#_teleportation-circle)
-- [Temporal Stasis](spells/temporalStasis#_temporal-stasis)
-- [Time Stop](spells/timeStop#_time-stop)
-- [Tiny Hut](spells/tinyHut#_tiny-hut)
-- [Tongues](spells/tongues#_tongues)
-- [Touch of Fatigue](spells/touchOfFatigue#_touch-of-fatigue)
-- [Touch of Idiocy](spells/touchOfIdiocy#_touch-of-idiocy)
-- [Transformation](spells/transformation#_transformation)
-- [Transmute Metal to Wood](spells/transmuteMetalToWood#_transmute-metal-to-wood)
-- [Transmute Mud to Rock](spells/transmuteMudToRock#_transmute-mud-to-rock)
-- [Transmute Rock to Mud](spells/transmuteRockToMud#_transmute-rock-to-mud)
-- [Transport via Plants](spells/transportViaPlants#_transport-via-plants)
-- [Trap the Soul](spells/trapTheSoul#_trap-the-soul)
-- [Tree Shape](spells/treeShape#_tree-shape)
-- [Tree Stride](spells/treeStride#_tree-stride)
-- [True Resurrection](spells/trueResurrection#_true-resurrection)
-- [True Seeing](spells/trueSeeing#_true-seeing)
-- [True Strike](spells/trueStrike#_true-strike)
+- [Telekinesis](spell_dir/telekinesis#_telekinesis
+- [Telekinetic Sphere](spell_dir/telekineticSphere#_telekinetic-sphere
+- [Telepathic Bond](spell_dir/telepathicBond#_telepathic-bond
+- [Teleport](spell_dir/teleport#_teleport
+- [Teleport Object](spell_dir/teleportObject#_teleport-object
+- [Teleport, Greater](spell_dir/teleport#_teleport-greater
+- [Teleportation Circle](spell_dir/teleportationCircle#_teleportation-circle
+- [Temporal Stasis](spell_dir/temporalStasis#_temporal-stasis
+- [Time Stop](spell_dir/timeStop#_time-stop
+- [Tiny Hut](spell_dir/tinyHut#_tiny-hut
+- [Tongues](spell_dir/tongues#_tongues
+- [Touch of Fatigue](spell_dir/touchOfFatigue#_touch-of-fatigue
+- [Touch of Idiocy](spell_dir/touchOfIdiocy#_touch-of-idiocy
+- [Transformation](spell_dir/transformation#_transformation
+- [Transmute Metal to Wood](spell_dir/transmuteMetalToWood#_transmute-metal-to-wood
+- [Transmute Mud to Rock](spell_dir/transmuteMudToRock#_transmute-mud-to-rock
+- [Transmute Rock to Mud](spell_dir/transmuteRockToMud#_transmute-rock-to-mud
+- [Transport via Plants](spell_dir/transportViaPlants#_transport-via-plants
+- [Trap the Soul](spell_dir/trapTheSoul#_trap-the-soul
+- [Tree Shape](spell_dir/treeShape#_tree-shape
+- [Tree Stride](spell_dir/treeStride#_tree-stride
+- [True Resurrection](spell_dir/trueResurrection#_true-resurrection
+- [True Seeing](spell_dir/trueSeeing#_true-seeing
+- [True Strike](spell_dir/trueStrike#_true-strike
 
-- [Undeath to Death](spells/undeathToDeath#_undeath-to-death)
-- [Undetectable Alignment](spells/undetectableAlignment#_undetectable-alignment)
-- [Unhallow](spells/unhallow#_unhallow)
-- [Unholy Aura](spells/unholyAura#_unholy-aura)
-- [Unholy Blight](spells/unholyBlight#_unholy-blight)
-- [Unseen Servant](spells/unseenServant#_unseen-servant)
+- [Undeath to Death](spell_dir/undeathToDeath#_undeath-to-death
+- [Undetectable Alignment](spell_dir/undetectableAlignment#_undetectable-alignment
+- [Unhallow](spell_dir/unhallow#_unhallow
+- [Unholy Aura](spell_dir/unholyAura#_unholy-aura
+- [Unholy Blight](spell_dir/unholyBlight#_unholy-blight
+- [Unseen Servant](spell_dir/unseenServant#_unseen-servant
 
-- [Vampiric touch](spells/vampiricTouch#_vampiric-touch)
-- [Veil](spells/veil#_veil)
-- [Ventriloquism](spells/ventriloquism#_ventriloquism)
-- [Virtue](spells/virtue#_virtue)
-- [Vision](spells/vision#_vision)
+- [Vampiric touch](spell_dir/vampiricTouch#_vampiric-touch
+- [Veil](spell_dir/veil#_veil
+- [Ventriloquism](spell_dir/ventriloquism#_ventriloquism
+- [Virtue](spell_dir/virtue#_virtue
+- [Vision](spell_dir/vision#_vision
 
-- [Wail of the Banshee](spells/wailOfTheBanshee#_wail-of-the-banshee)
-- [Wall of Fire](spells/wallOfFire#_wall-of-fire)
-- [Wall of Force](spells/wallOfForce#_wall-of-force)
-- [Wall of Ice](spells/wallOfIce#_wall-of-ice)
-- [Wall of Iron](spells/wallOfIron#_wall-of-iron)
-- [Wall of Stone](spells/wallOfStone#_wall-of-stone)
-- [Wall of Thorns](spells/wallOfThorns#_wall-of-thorns)
-- [Warp Wood](spells/warpWood#_warp-wood)
-- [Water Breathing](spells/waterBreathing#_water-breathing)
-- [Water Walk](spells/waterWalk#_water-walk)
-- [Waves of Exhaustion](spells/wavesOfExhaustion#_waves-of-exhaustion)
-- [Waves of Fatigue](spells/wavesOfFatigue#_waves-of-fatigue)
-- [Web](spells/web#_web)
-- [Weird](spells/weird#_weird)
-- [Whirlwind](spells/whirlwind#_whirlwind)
-- [Whispering Wind](spells/whisperingWind#_whispering-wind)
-- [Wind Walk](spells/windWalk#_wind-walk)
-- [Wind Wall](spells/windWall#_wind-wall)
-- [Wish](spells/wish#_wish)
-- [Wood Shape](spells/woodShape#_wood-shape)
-- [Word of Chaos](spells/wordOfChaos#_word-of-chaos)
-- [Word of Recall](spells/wordOfRecall#_word-of-recall)
+- [Wail of the Banshee](spell_dir/wailOfTheBanshee#_wail-of-the-banshee
+- [Wall of Fire](spell_dir/wallOfFire#_wall-of-fire
+- [Wall of Force](spell_dir/wallOfForce#_wall-of-force
+- [Wall of Ice](spell_dir/wallOfIce#_wall-of-ice
+- [Wall of Iron](spell_dir/wallOfIron#_wall-of-iron
+- [Wall of Stone](spell_dir/wallOfStone#_wall-of-stone
+- [Wall of Thorns](spell_dir/wallOfThorns#_wall-of-thorns
+- [Warp Wood](spell_dir/warpWood#_warp-wood
+- [Water Breathing](spell_dir/waterBreathing#_water-breathing
+- [Water Walk](spell_dir/waterWalk#_water-walk
+- [Waves of Exhaustion](spell_dir/wavesOfExhaustion#_waves-of-exhaustion
+- [Waves of Fatigue](spell_dir/wavesOfFatigue#_waves-of-fatigue
+- [Web](spell_dir/web#_web
+- [Weird](spell_dir/weird#_weird
+- [Whirlwind](spell_dir/whirlwind#_whirlwind
+- [Whispering Wind](spell_dir/whisperingWind#_whispering-wind
+- [Wind Walk](spell_dir/windWalk#_wind-walk
+- [Wind Wall](spell_dir/windWall#_wind-wall
+- [Wish](spell_dir/wish#_wish
+- [Wood Shape](spell_dir/woodShape#_wood-shape
+- [Word of Chaos](spell_dir/wordOfChaos#_word-of-chaos
+- [Word of Recall](spell_dir/wordOfRecall#_word-of-recall
 
-- [Zone of Silence](spells/zoneOfSilence#_zone-of-silence)
-- [Zone of Truth](spells/zoneOfTruth#_zone-of-truth)
+- [Zone of Silence](spell_dir/zoneOfSilence#_zone-of-silence
+- [Zone of Truth](spell_dir/zoneOfTruth#_zone-of-truth
 

@@ -1,5 +1,5 @@
 ---
-title: spells/animalMessenger
+title: spell_dir/animalMessenger
 ---
  **Animal Messenger**
 
@@ -7,7 +7,7 @@ title: spells/animalMessenger
 
 **Casting Time** 1 minute
 
-**Components** V, S, M (a morsel of food the animal likes)
+**Components** V, S, M (a morsel of food the animal likes
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

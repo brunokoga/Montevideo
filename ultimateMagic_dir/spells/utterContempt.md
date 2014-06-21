@@ -3,11 +3,11 @@ title: ultimateMagic/spells/utterContempt
 ---
 Utter Contempt
 
-**School** enchantment [emotion]; **Level** antipaladin 3, bard 4, sorcerer/wizard 6
+**School** enchantment [emotion]; **Level** antipaladin 3, bard 4, sorcere_dir/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (spittle)
+**Components** V, S, M (spittle
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

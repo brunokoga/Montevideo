@@ -9,15 +9,15 @@ Perched on the prickly legs of a cricket, this tiny creature has gossamer wings 
 
 **XP 400**
 
-NG Tiny [fey](monsters/creatureTypes#_fey)
+NG Tiny [fey](monster_dir/creatureTypes#_fey
 
-**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +5
+**Init** +4; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +5
 
 Defense
 
 **AC** 17, touch 17, flat-footed 12 (+4 Dex, +1 dodge, +2 size)
 
-**hp** 4 (1d6+1)
+**hp** 4 (1d6+1
 
 **Fort** +1, **Ref** +6, **Will** +3
 
@@ -37,17 +37,17 @@ Offense
 
 **Spell-Like Abilities** (CL 9th; concentration +11)
 
-3/day—_ [disguise self](additionalMonsters/../spells/disguiseSelf#_disguise-self)_, _ [entangle](additionalMonsters/../spells/entangle#_entangle)_ (DC 13), _ [invisibility](additionalMonsters/../spells/invisibility#_invisibility)_ (self only), _ [pyrotechnics](additionalMonsters/../spells/pyrotechnics#_pyrotechnics)_ (DC 14)
+3/day—_ [disguise self](additionalMonsters/../spell_dir/disguiseSelf#_disguise-self_, _ [entangle](additionalMonsters/../spell_dir/entangle#_entangle)_ (DC 13, _ [invisibility](additionalMonsters/../spell_dir/invisibility#_invisibility)_ (self only, _ [pyrotechnics](additionalMonsters/../spell_dir/pyrotechnics#_pyrotechnics)_ (DC 14)
 
 Statistics
 
 **Str** 5, **Dex** 18, **Con** 13, **Int** 10, **Wis** 13, **Cha** 14
 
-**Base Atk** +0; **CMB** +2; **CMD** 10 (16 vs. trip)
+**Base Atk** +0; **CMB** +2; **CMD** 10 (16 vs. trip
 
 **Feats** [Dodge](additionalMonsters/../feats#_dodge)
 
-**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +8 (+12 jump), [Escape Artist](additionalMonsters/../skills/escapeArtist#_escape-artist) +8, [Fly](additionalMonsters/../skills/fly#_fly) +12, [Perception](additionalMonsters/../skills/perception#_perception) +5, [Perform](additionalMonsters/../skills/perform#_perform) (string) +6, [Stealth](additionalMonsters/../skills/stealth#_stealth) +16; **Racial Modifiers** +4 Acrobatics when jumping
+**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics) +8 (+12 jump, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +8, [Fly](additionalMonsters/../skill_dir/fly#_fly +12, [Perception](additionalMonsters/../skill_dir/perception#_perception +5, [Perform](additionalMonsters/../skill_dir/perform#_perform) (string +6, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +16; **Racial Modifiers** +4 Acrobatics when jumping
 
 **Languages** Common, Sylvan
 
@@ -61,7 +61,7 @@ Ecology
 
 Special Abilities
 
-**Fiddle (Su)** Grigs are capable of rubbing their legs together like a cricket to create a surprisingly pleasant sound not unlike that of a tiny fiddle. As a standard action, a grig can create a catchy tune that compels any creature within a 20-foot spread to dance and caper. A creature can resist this compulsion by making a DC 12 Will save. Creatures that fail are compelled to dance and shuffle their feet, and are effectively staggered as long as the grig continues to fiddle. A grig can maintain this effect for up to 10 rounds per day by concentrating. Once a creature makes the save against a grig's fiddle, it is immune to further fiddle effects from that grig for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+**Fiddle (Su** Grigs are capable of rubbing their legs together like a cricket to create a surprisingly pleasant sound not unlike that of a tiny fiddle. As a standard action, a grig can create a catchy tune that compels any creature within a 20-foot spread to dance and caper. A creature can resist this compulsion by making a DC 12 Will save. Creatures that fail are compelled to dance and shuffle their feet, and are effectively staggered as long as the grig continues to fiddle. A grig can maintain this effect for up to 10 rounds per day by concentrating. Once a creature makes the save against a grig's fiddle, it is immune to further fiddle effects from that grig for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
 
 Grigs are tiny fey with the upper bodies of elf-like sprites and cricket bodies below. Their humanoid features vary wildly in individual appearance, but they usually wear their brown, silver, or green hair long and uncombed. In most cases, grigs' skin bears gold or green stripes or markings, and their legs are brightly colored. They prefer to eschew clothes entirely, wearing clothing only when such apparel has desirable magical effects. Grigs stand 1-1/2 feet tall, and weigh just under 10 pounds.
 

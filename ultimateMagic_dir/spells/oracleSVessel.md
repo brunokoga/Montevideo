@@ -13,9 +13,9 @@ Oracle's Vessel
 
 **Target** one creature
 
-**Duration** 1 minute/level
+**Duration** 1 minut_dir/level
 
 **Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
 
-The target gains all the benefits of your oracle's curse, with none of the penalties. In some cases, this has no effect (for example, a fighter with your haunted curse can't cast spells and doesn't gain any benefit from having additional spells known).
+The target gains all the benefits of your oracle's curse, with none of the penalties. In some cases, this has no effect (for example, a fighter with your haunted curse can't cast spells and doesn't gain any benefit from having additional spells known.
 

@@ -3,11 +3,11 @@ title: spells/transformation
 ---
  **Transformation**
 
-**School** transmutation; **Level** sorcerer/wizard 6
+**School** transmutation; **Level** sorcere_dir/wizard 6
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a _potion of [bull's strength](bullSStrength#_bull-s-strength)_, which you drink and whose effects are subsumed by the spell effects)
+**Components** V, S, M (a _potion of [bull's strength](bullSStrength#_bull-s-strength)_, which you drink and whose effects are subsumed by the spell effects
 
 **Range** personal
 

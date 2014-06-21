@@ -1,9 +1,9 @@
 ---
-title: spells/invisibility
+title: spell_dir/invisibility
 ---
  **Invisibility**
 
-**School** illusion (glamer); **Level** bard 2, sorcerer/wizard 2
+**School** illusion (glamer; **Level** bard 2, sorcerer/wizard 2
 
 **Casting Time** 1 standard action
 
@@ -33,7 +33,7 @@ _Invisibility _can be made permanent (on objects only) with a _ [permanency](per
 
 **Target** you or creature touched
 
-**Duration** 1 round/level (D)
+**Duration** 1 roun_dir/level (D
 
 **Saving Throw** [Will](../combat#_will) negates (harmless)
 

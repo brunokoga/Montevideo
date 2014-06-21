@@ -9,15 +9,15 @@ Knee-high to a human, this large-headed creature has an almost manically friendl
 
 **XP 400**
 
-N Tiny [fey](monsters/creatureTypes#_fey)
+N Tiny [fey](monster_dir/creatureTypes#_fey
 
-**Init** +8; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +8
+**Init** +8; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +8
 
 Defense
 
 **AC** 17, touch 17, flat-footed 12 (+4 Dex, +1 dodge, +2 size)
 
-**hp** 4 (1d6+1)
+**hp** 4 (1d6+1
 
 **Fort** +1, **Ref** +6, **Will** +4; +2 vs. illusions
 
@@ -33,9 +33,9 @@ Offense
 
 **Spell-Like Abilities** (CL 7th; concentration +10)
 
-At will—_ [dancing lights](additionalMonsters/../spells/dancingLights#_dancing-lights)_, _ [mending](additionalMonsters/../spells/mending#_mending)_, _ [prestidigitation](additionalMonsters/../spells/prestidigitation#_prestidigitation)_
+At will—_ [dancing lights](additionalMonsters/../spell_dir/dancingLights#_dancing-lights_, _ [mending](additionalMonsters/../spell_dir/mending#_mending_, _ [prestidigitation](additionalMonsters/../spell_dir/prestidigitation#_prestidigitation_
 
-1/day—_ [lesser confusion](additionalMonsters/../spells/confusion#_confusion-lesser)_ (DC 14), _ [dimension door](additionalMonsters/../spells/dimensionDoor#_dimension-door) _(self only), _ [mirror image](additionalMonsters/../spells/mirrorImage#_mirror-image)_, _ [ventriloquism](additionalMonsters/../spells/ventriloquism#_ventriloquism)_ (DC 14)
+1/day—_ [lesser confusion](additionalMonsters/../spell_dir/confusion#_confusion-lesser)_ (DC 14, _ [dimension door](additionalMonsters/../spell_dir/dimensionDoor#_dimension-door) _(self only, _ [mirror image](additionalMonsters/../spell_dir/mirrorImage#_mirror-image_, _ [ventriloquism](additionalMonsters/../spell_dir/ventriloquism#_ventriloquism)_ (DC 14
 
 Statistics
 
@@ -45,15 +45,15 @@ Statistics
 
 **Feats** [Dodge](additionalMonsters/../feats#_dodge), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Weapon Finesse](additionalMonsters/../feats#_weapon-finesse)
 
-**Skills** [Acrobatics](additionalMonsters/../skills/acrobatics#_acrobatics) +8 (+4 jump), [Bluff](additionalMonsters/../skills/bluff#_bluff) +7, [Craft](additionalMonsters/../skills/craft#_craft) (any one) +6, [Escape Artist](additionalMonsters/../skills/escapeArtist#_escape-artist) +8, [Handle Animal](additionalMonsters/../skills/handleAnimal#_handle-animal) +4, [Perception](additionalMonsters/../skills/perception#_perception) +8, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +6, [Stealth](additionalMonsters/../skills/stealth#_stealth) +16 (+20 in forest); **Racial Modifiers** +2 [Perception](additionalMonsters/../skills/perception#_perception), +4 [Stealth](additionalMonsters/../skills/stealth#_stealth) in forests
+**Skills** [Acrobatics](additionalMonsters/../skill_dir/acrobatics#_acrobatics) +8 (+4 jump, [Bluff](additionalMonsters/../skill_dir/bluff#_bluff +7, [Craft](additionalMonsters/../skill_dir/craft#_craft) (any one +6, [Escape Artist](additionalMonsters/../skill_dir/escapeArtist#_escape-artist +8, [Handle Animal](additionalMonsters/../skill_dir/handleAnimal#_handle-animal +4, [Perception](additionalMonsters/../skill_dir/perception#_perception +8, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive +6, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth) +16 (+20 in forest; **Racial Modifiers** +2 [Perception](additionalMonsters/../skill_dir/perception#_perception, +4 [Stealth](additionalMonsters/../skill_dir/stealth#_stealth in forests
 
-**Languages** Common, Elven, [Gnome](monsters/creatureTypes#_gnome-subtype), Sylvan
+**Languages** Common, Elven, [Gnome](monster_dir/creatureTypes#_gnome-subtype), Sylvan
 
 Ecology
 
 **Environment** temperate forests or plains
 
-**Organization** solitary, gang (2–5), or band (7–12)
+**Organization** solitary, gang (2–5), or band (7–12
 
 **Treasure** standard
 

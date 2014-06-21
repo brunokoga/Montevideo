@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/tirelessPursuit
+title: advanced/spell_dir/tirelessPursuit
 ---
  **Tireless Pursuit**
 
@@ -7,13 +7,13 @@ title: advanced/spells/tirelessPursuit
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (a hard biscuit)
+**Components** V, S, M (a hard biscuit
 
 **Range** personal
 
 **Target** you
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hou_dir/level (D)
 
-You harden your body against the stresses of long travel. You halve the damage caused by hustling and forced marching (see _Pathfinder RPG Core Rulebook_ 171). In addition, for the duration of the spell you ignore any fatigue caused by such travel. Once the spell ends, if you still have any nonlethal damage caused by the hustling or forced march, you become fatigued, or exhausted if already fatigued.
+You harden your body against the stresses of long travel. You halve the damage caused by hustling and forced marching (see _Pathfinder RPG Core Rulebook_ 171. In addition, for the duration of the spell you ignore any fatigue caused by such travel. Once the spell ends, if you still have any nonlethal damage caused by the hustling or forced march, you become fatigued, or exhausted if already fatigued.
 

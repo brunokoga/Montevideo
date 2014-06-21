@@ -1,9 +1,9 @@
 ---
-title: spells/stabilize
+title: spell_dir/stabilize
 ---
  **Stabilize**
 
-**School** conjuration (healing); **Level** cleric 0, druid 0
+**School** conjuration (healing; **Level** cleric 0, druid 0
 
 **Casting Time** 1 standard action
 

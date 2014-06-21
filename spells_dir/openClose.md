@@ -3,11 +3,11 @@ title: spells/openClose
 ---
  **Open/Close**
 
-**School** transmutation; **Level** bard 0, sorcerer/wizard 0
+**School** transmutation; **Level** bard 0, sorcere_dir/wizard 0
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a brass key)
+**Components** V, S, F (a brass key
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

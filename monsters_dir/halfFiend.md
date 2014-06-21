@@ -1,5 +1,5 @@
 ---
-title: monsters/halfFiend
+title: monster_dir/halfFiend
 ---
 # Half-Fiend
 
@@ -9,15 +9,15 @@ _This fiendish figure, complete with bat wings, claws, a fanged bull's head, and
 
 **XP 2,400**
 
-CE Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-subtype))
+CE Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-subtype)
 
-**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +14
+**Init** +2; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +14
 
 **Defense**
 
 **AC** 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, –1 size)
 
-**hp** 57 (6d10+24)
+**hp** 57 (6d10+24
 
 **Fort** +8, **Ref** +7, **Will** +6
 
@@ -35,7 +35,7 @@ CE Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-su
 
 **Spell-Like Abilities** (CL 6th)
 
-3/day—_ [darkness](../spells/darkness#_darkness); _1/day—_ [desecrate](../spells/desecrate#_desecrate), [unholy blight](../spells/unholyBlight#_unholy-blight)_ (DC 14)
+3/day—_ [darkness](../spell_dir/darkness#_darkness; _1/day—_ [desecrate](../spell_dir/desecrate#_desecrate, [unholy blight](../spell_dir/unholyBlight#_unholy-blight)_ (DC 14
 
 **Statistics**
 
@@ -45,7 +45,7 @@ CE Large [outsider](creatureTypes#_outsider) ( [native](creatureTypes#_native-su
 
 **Feats** [Great Fortitude](../feats#_great-fortitude), [Improved Bull Rush](../feats#_improved-bull-rush), [Power Attack](../feats#_power-attack)
 
-**Skills** [Fly](../skills/fly#_fly) +0, [Intimidate](../skills/intimidate#_intimidate) +9, Knowl. (religion) +5, Percep. +14, [Stealth](../skills/stealth#_stealth) +7, [Survival](../skills/survival#_survival) +14; **Racial Modifiers** +4 [Perception](../skills/perception#_perception), +4 [Survival](../skills/survival#_survival)
+**Skills** [Fly](../skill_dir/fly#_fly +0, [Intimidate](../skill_dir/intimidate#_intimidate) +9, Knowl. (religion +5, Percep. +14, [Stealth](../skill_dir/stealth#_stealth +7, [Survival](../skill_dir/survival#_survival +14; **Racial Modifiers** +4 [Perception](../skill_dir/perception#_perception, +4 [Survival](../skill_dir/survival#_survival)
 
 **Languages** Giant
 
@@ -69,7 +69,7 @@ Half-fiends are creatures heavily tainted with demonic, infernal, or other evil 
 
 **Alignment** : Any evil.
 
-**Type** : The creature's type changes to [outsider](creatureTypes#_outsider) (native). Do not recalculate HD, BAB, or saves.
+**Type** : The creature's type changes to [outsider](creatureTypes#_outsider) (native. Do not recalculate HD, BAB, or saves.
 
 **Armor Class** : Natural armor improves by +1.
 
@@ -93,16 +93,16 @@ _Spell-Like Abilities_: A half-fiend with an Int or Wis score of 8 or higher has
 
 | HD | Abilities |
 | --- | --- |
-| 1–2 | _ [Darkness](../spells/darkness#_darkness)_ 3/day |
-| 3–4 | _ [Desecrate](../spells/desecrate#_desecrate)_ |
-| 5–6 | _ [Unholy blight](../spells/unholyBlight#_unholy-blight)_ |
-| 7–8 | _ [Poison](../spells/poison#_poison)_ 3/day |
-| 9–10 | _ [Contagion](../spells/contagion#_contagion)_ |
-| 11–12 | _ [Blasphemy](../spells/blasphemy#_blasphemy)_ |
-| 13–14 | _ [Unholy aura](../spells/unholyAura#_unholy-aura)_ 3/day, _ [unhallow](../spells/unhallow#_unhallow)_ |
-| 15–16 | _ [Horrid wilting](../spells/horridWilting#_horrid-wilting)_ |
-| 17–18 | _ [Summon monster IX](../spells/summonMonster#_summon-monster-ix)_ (fiends only) |
-| 19–20 | _ [Destruction](../spells/destruction#_destruction)_ |
+| 1–2 | _ [Darkness](../spell_dir/darkness#_darkness_ 3/day |
+| 3–4 | _ [Desecrate](../spell_dir/desecrate#_desecrate_ |
+| 5–6 | _ [Unholy blight](../spell_dir/unholyBlight#_unholy-blight_ |
+| 7–8 | _ [Poison](../spell_dir/poison#_poison_ 3/day |
+| 9–10 | _ [Contagion](../spell_dir/contagion#_contagion_ |
+| 11–12 | _ [Blasphemy](../spell_dir/blasphemy#_blasphemy_ |
+| 13–14 | _ [Unholy aura](../spell_dir/unholyAura#_unholy-aura_ 3/day, _ [unhallow](../spell_dir/unhallow#_unhallow_ |
+| 15–16 | _ [Horrid wilting](../spell_dir/horridWilting#_horrid-wilting_ |
+| 17–18 | _ [Summon monster IX](../spell_dir/summonMonster#_summon-monster-ix)_ (fiends only |
+| 19–20 | _ [Destruction](../spell_dir/destruction#_destruction_ |
 
 **Abilities** : A half-fiend gains a +4 bonus on three ability scores of its choice and a +2 bonus on the other three.
 

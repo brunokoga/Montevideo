@@ -9,19 +9,19 @@ This barnacle-encrusted walking corpse looks like a zombie, but is dripping with
 
 **XP 600**
 
-CE Medium [undead](monsters/creatureTypes#_undead) (water)
+CE Medium [undead](monster_dir/creatureTypes#_undead) (water
 
-**Init** +0; **Senses** darkvision 60 ft., [Perception](additionalMonsters/../skills/perception#_perception) +6
+**Init** +0; **Senses** darkvision 60 ft., [Perception](additionalMonsters/../skill_dir/perception#_perception) +6
 
 Defense
 
 **AC** 14, touch 10, flat-footed 14 (+2 armor, +2 natural)
 
-**hp** 19 (3d8+6)
+**hp** 19 (3d8+6
 
 **Fort** +2, **Ref** +1, **Will** +3
 
-**DR** 5/bludgeoning or slashing; **Immune** [undead](monsters/creatureTypes#_undead) traits; **Resist** [fire](monsters/creatureTypes#_fire-subtype) 10
+**DR** 5/bludgeoning or slashing; **Immune** [undead](monster_dir/creatureTypes#_undead traits; **Resist** [fire](monster_dir/creatureTypes#_fire-subtype 10
 
 Offense
 
@@ -39,7 +39,7 @@ Statistics
 
 **Feats** [Power Attack](additionalMonsters/../feats#_power-attack), [Toughness](additionalMonsters/../feats#_toughness)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +9, [Perception](additionalMonsters/../skills/perception#_perception) +6, [Stealth](additionalMonsters/../skills/stealth#_stealth) +6, [Swim](additionalMonsters/../skills/swim#_swim) +11
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +9, [Perception](additionalMonsters/../skill_dir/perception#_perception +6, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +6, [Swim](additionalMonsters/../skill_dir/swim#_swim) +11
 
 **Languages** Common (cannot speak)
 
@@ -59,9 +59,9 @@ Draugr smell of decay and the sea, and drip water wherever they go. These foul b
 
 In the case of draugr who manifest when an entire ship sinks, these undead usually stay with the wreck of their ship. Some draugr may be found under the control of aquatic necromancers, while others may wander the seas as undead pirates aboard ghost ships.
 
-## Draugr Captain (CR 3)
+## Draugr Captain (CR 3
 
 Draugr captains have malevolent, burning red eyes. They may be more richly dressed than other draugr, though their clothes are always in a similar tattered condition.
 
-A draugr captain is a draugr with the advanced simple template. In addition to this, most draugr captains have additional class levels, usually as barbarians, fighters, or rogues. Draugr captains can also use _ [obscuring mist](additionalMonsters/../spells/obscuringMist#_obscuring-mist)_ as a spell-like ability (CL 5th, concentration +8) three times per day, and instead of causing nausea with a successful hit, they bestow 1 negative level on a hit. A draugr captain can even bestow a negative level via a weapon it wields, but if it gains multiple attacks with a weapon, it can only bestow 1 negative level per round in this manner.
+A draugr captain is a draugr with the advanced simple template. In addition to this, most draugr captains have additional class levels, usually as barbarians, fighters, or rogues. Draugr captains can also use _ [obscuring mist](additionalMonsters/../spell_dir/obscuringMist#_obscuring-mist)_ as a spell-like ability (CL 5th, concentration +8 three times per day, and instead of causing nausea with a successful hit, they bestow 1 negative level on a hit. A draugr captain can even bestow a negative level via a weapon it wields, but if it gains multiple attacks with a weapon, it can only bestow 1 negative level per round in this manner.
 

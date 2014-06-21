@@ -3,11 +3,11 @@ title: spells/fear
 ---
  **Fear**
 
-**School** necromancy [fear, mind-affecting]; **Level** bard 3, sorcerer/wizard 4
+**School** necromancy [fear, mind-affecting]; **Level** bard 3, sorcere_dir/wizard 4
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (the heart of a hen or a white feather)
+**Components** V, S, M (the heart of a hen or a white feather
 
 **Range** 30 ft.
 

@@ -1,9 +1,9 @@
 ---
-title: spells/songOfDiscord
+title: spell_dir/songOfDiscord
 ---
  **Song of Discord**
 
-**School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 5
+**School** enchantment (compulsion [mind-affecting, sonic]; **Level** bard 5
 
 **Casting Time** 1 standard action
 

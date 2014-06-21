@@ -13,9 +13,9 @@ title: advanced/spells/absorbingTouch
 
 **Target** object touched
 
-**Duration** 1 day/level (D)
+**Duration** 1 da_dir/level (D)
 
-**Saving Throw** Fortitude negates (object); **Spell Resistance** no
+**Saving Throw** Fortitude negates (object; **Spell Resistance** no
 
 You absorb the next object your hand touches into your body. If you are already holding an object, you can attempt to absorb it; otherwise, you may touch an object as a standard action separate from casting the spell. You can absorb any nonmagical, nonliving object weighing no more than 1 pound per caster level. A container and its contents count as a single object. Objects in the possession of another creature receive a Fortitude saving throw to prevent absorption. You may continue to attempt to absorb objects until one is absorbed.
 

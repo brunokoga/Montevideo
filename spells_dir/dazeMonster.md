@@ -1,9 +1,9 @@
 ---
-title: spells/dazeMonster
+title: spell_dir/dazeMonster
 ---
  **Daze Monster**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, sorcerer/wizard 2
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 2, sorcerer/wizard 2
 
 **Range** medium (100 ft. + 10 ft./level)
 

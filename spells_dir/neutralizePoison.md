@@ -1,9 +1,9 @@
 ---
-title: spells/neutralizePoison
+title: spell_dir/neutralizePoison
 ---
  **Neutralize Poison**
 
-**School** conjuration (healing); **Level** bard 4, cleric 4, druid 3, paladin 4, ranger 3
+**School** conjuration (healing; **Level** bard 4, cleric 4, druid 3, paladin 4, ranger 3
 
 **Casting Time** 1 standard action
 

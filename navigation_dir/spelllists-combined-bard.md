@@ -1,349 +1,349 @@
 ---
 title: navigation/spelllists-combined-bard
 ---
-- [**Dancing Lights**](spells/dancingLights#_dancing-lights)
-- [**Daze**](spells/daze#_daze)
-- [**Detect Magic**](spells/detectMagic#_detect-magic)
-- [**Flare**](spells/flare#_flare)
-- [**Ghost Sound**](spells/ghostSound#_ghost-sound)
-- [**Haunted Fey Aspect**](ultimateCombat/spells/hauntedFeyAspect#_haunted-fey-aspect)
-- [**Know Direction**](spells/knowDirection#_know-direction)
-- [**Light**](spells/light#_light)
-- [**Lullaby**](spells/lullaby#_lullaby)
-- [**Mage Hand**](spells/mageHand#_mage-hand)
-- [**Mending**](spells/mending#_mending)
-- [**Message**](spells/message#_message)
-- [**Open/Close**](spells/openClose#_open-close)
-- [**Prestidigitation**](spells/prestidigitation#_prestidigitation)
-- [**Read Magic**](spells/readMagic#_read-magic)
-- [**Resistance**](spells/resistance#_resistance)
-- [**Sift**](advanced/spells/sift#_sift)
-- [**Spark**](advanced/spells/spark#_spark-)
-- [**Summon Instrument**](spells/summonInstrument#_summon-instrument)
-- [**Unwitting Ally**](advanced/spells/unwittingAlly#_unwitting-ally)
+- [**Dancing Lights**](spell_dir/dancingLights#_dancing-lights
+- [**Daze**](spell_dir/daze#_daze
+- [**Detect Magic**](spell_dir/detectMagic#_detect-magic
+- [**Flare**](spell_dir/flare#_flare
+- [**Ghost Sound**](spell_dir/ghostSound#_ghost-sound
+- [**Haunted Fey Aspect**](ultimateCombat/spell_dir/hauntedFeyAspect#_haunted-fey-aspect
+- [**Know Direction**](spell_dir/knowDirection#_know-direction
+- [**Light**](spell_dir/light#_light
+- [**Lullaby**](spell_dir/lullaby#_lullaby
+- [**Mage Hand**](spell_dir/mageHand#_mage-hand
+- [**Mending**](spell_dir/mending#_mending
+- [**Message**](spell_dir/message#_message
+- [**Open/Close**](spell_dir/openClose#_open-close
+- [**Prestidigitation**](spell_dir/prestidigitation#_prestidigitation
+- [**Read Magic**](spell_dir/readMagic#_read-magic
+- [**Resistance**](spell_dir/resistance#_resistance
+- [**Sift**](advanced/spell_dir/sift#_sift
+- [**Spark**](advanced/spell_dir/spark#_spark-
+- [**Summon Instrument**](spell_dir/summonInstrument#_summon-instrument
+- [**Unwitting Ally**](advanced/spell_dir/unwittingAlly#_unwitting-ally
 
-- [**Abundant Ammunition**](ultimateCombat/spells/abundantAmmunition#_abundant-ammunition)
-- [**Adjuring Step**](ultimateCombat/spells/adjuringStep#_adjuring-step-)
-- [**Adoration**](ultimateCombat/spells/adoration#_adoration)
-- [**Alarm**](spells/alarm#_alarm)
-- [**Animate Rope**](spells/animateRope#_animate-rope)
-- [**Anticipate Peril**](ultimateMagic/spells/anticipatePeril#_anticipate-peril)
-- [**Beguiling Gift**](advanced/spells/beguilingGift#_beguiling-gift)
-- [**Borrow Skill**](advanced/spells/borrowSkill#_borrow-skill)
-- [**Cause Fear**](spells/causeFear#_cause-fear)
-- [**Charm Person**](spells/charmPerson#_charm-person)
-- [**Chord of Shards**](ultimateMagic/spells/chordOfShards#_chord-of-shards)
-- [**Compel Hostility**](ultimateCombat/spells/compelHostility#_compel-hostility)
-- [**Comprehend Languages**](spells/comprehendLanguages#_comprehend-languages)
-- [**Confusion, Lesser**](spells/confusion#_confusion-lesser)
-- [**Cure Light Wounds**](spells/cureLightWounds#_cure-light-wounds)
-- [**Dancing Lantern**](advanced/spells/dancingLantern#_dancing-lantern-)
-- [**Deadeye's Lore**](ultimateCombat/spells/deadeyeSLore#_deadeye's-lore)
-- [**Delusional Pride**](ultimateMagic/spells/delusionalPride#_delusional-pride)
-- [**Detect Secret Doors**](spells/detectSecretDoors#_detect-secret-doors)
-- [**Disguise Self**](spells/disguiseSelf#_disguise-self)
-- [**Ear-Piercing Scream**](ultimateMagic/spells/earPiercingScream#_ear-piercing-scream)
-- [**Erase**](spells/erase#_erase)
-- [**Expeditious Retreat**](spells/expeditiousRetreat#_expeditious-retreat)
-- [**Feather Fall**](spells/featherFall#_feather-fall)
-- [**Feather Step**](advanced/spells/featherStep#_feather-step)
-- [**Flare Burst**](advanced/spells/flareBurst#_flare-burst)
-- [**Forced Quiet**](ultimateMagic/spells/forcedQuiet#_forced-quiet)
-- [**Fumbletongue**](ultimateMagic/spells/fumbletongue#_fumbletongue)
-- [**Grease**](spells/grease#_grease)
-- [**Hideous Laughter**](spells/hideousLaughter#_hideous-laughter)
-- [**Horn of Pursuit**](ultimateMagic/spells/hornOfPursuit#_horn-of-pursuit)
-- [**Hypnotism**](spells/hypnotism#_hypnotism)
-- [**Identify**](spells/identify#_identify)
-- [**Innocence**](advanced/spells/innocence#_innocence)
-- [**Invigorate**](advanced/spells/invigorate#_invigorate)
-- [**Jitterbugs**](advancedRaceGuide/coreRaces/gnomes#_jitterbugs)
-- [**Jury-Rig**](ultimateCombat/spells/juryRig#_jury-rig)
-- [**Ki Arrow**](ultimateMagic/spells/kiArrow#_ki-arrow)
-- [**Liberating Command**](ultimateCombat/spells/liberatingCommand#_liberating-command)
-- [**Lock Gaze**](ultimateCombat/spells/lockGaze#_lock-gaze)
-- [**Magic Aura**](spells/magicAura#_magic-aura)
-- [**Magic Mouth**](spells/magicMouth#_magic-mouth)
-- [**Memory Lapse**](advanced/spells/memoryLapse#_memory-lapse)
-- [**Moment of Greatness**](ultimateCombat/spells/momentOfGreatness#_moment-of-greatness)
-- [**Negative Reaction**](ultimateCombat/spells/negativeReaction#_negative-reaction)
-- [**Obscure Object**](spells/obscureObject#_obscure-object)
-- [**Play Instrument**](ultimateMagic/spells/playInstrument#_play-instrument)
-- [**Recharge Innate Magic**](advancedRaceGuide/coreRaces/gnomes#_recharge-innate-magic)
-- [**Remove Fear**](spells/removeFear#_remove-fear)
-- [**Restful Sleep**](advanced/spells/restfulSleep#_restful-sleep)
-- [**Saving Finale**](advanced/spells/savingFinale#_saving-finale)
-- [**See Alignment**](ultimateCombat/spells/seeAlignment#_see-alignment)
-- [**Share Language**](advanced/spells/shareLanguage#_share-language-)
-- [**Silent Image**](spells/silentImage#_silent-image)
-- [**Sleep**](spells/sleep#_sleep)
-- [**Solid Note**](advanced/spells/solidNote#_solid-note)
-- [**Sow Thought**](advancedRaceGuide/uncommonRaces/changelings#_sow-thought)
-- [**Summon Minor Monster**](ultimateMagic/spells/summonMinorMonster#_summon-minor-monster)
-- [**Summon Monster I**](spells/summonMonster#_summon-monster-i)
-- [**Timely Inspiration**](advanced/spells/timelyInspiration#_timely-inspiration)
-- [**Toilsome Chant**](advancedRaceGuide/coreRaces/dwarves#_toilsome-chant)
-- [**Touch of Gracelessness**](advanced/spells/touchOfGracelessness#_touch-of-gracelessness)
-- [**Undetectable Alignment**](spells/undetectableAlignment#_undetectable-alignment)
-- [**Unnatural Lust**](ultimateMagic/spells/unnaturalLust#_unnatural-lust)
-- [**Unprepared Combatant**](ultimateMagic/spells/unpreparedCombatant#_unprepared-combatant)
-- [**Unseen Servant**](spells/unseenServant#_unseen-servant)
-- [**Urban Grace**](advancedRaceGuide/coreRaces/halfElves#_urban-grace)
-- [**Vanish**](advanced/spells/vanish#_vanish)
-- [**Ventriloquism**](spells/ventriloquism#_ventriloquism)
-- [**Vocal Alteration**](ultimateMagic/spells/vocalAlteration#_vocal-alteration)
-- [**Windy Escape**](advancedRaceGuide/featuredRaces/sylphs#_windy-escape)
-- [**Youthful Appearance**](ultimateMagic/spells/youthfulAppearance#_youthful-appearance)
+- [**Abundant Ammunition**](ultimateCombat/spell_dir/abundantAmmunition#_abundant-ammunition
+- [**Adjuring Step**](ultimateCombat/spell_dir/adjuringStep#_adjuring-step-
+- [**Adoration**](ultimateCombat/spell_dir/adoration#_adoration
+- [**Alarm**](spell_dir/alarm#_alarm
+- [**Animate Rope**](spell_dir/animateRope#_animate-rope
+- [**Anticipate Peril**](ultimateMagic/spell_dir/anticipatePeril#_anticipate-peril
+- [**Beguiling Gift**](advanced/spell_dir/beguilingGift#_beguiling-gift
+- [**Borrow Skill**](advanced/spell_dir/borrowSkill#_borrow-skill
+- [**Cause Fear**](spell_dir/causeFear#_cause-fear
+- [**Charm Person**](spell_dir/charmPerson#_charm-person
+- [**Chord of Shards**](ultimateMagic/spell_dir/chordOfShards#_chord-of-shards
+- [**Compel Hostility**](ultimateCombat/spell_dir/compelHostility#_compel-hostility
+- [**Comprehend Languages**](spell_dir/comprehendLanguages#_comprehend-languages
+- [**Confusion, Lesser**](spell_dir/confusion#_confusion-lesser
+- [**Cure Light Wounds**](spell_dir/cureLightWounds#_cure-light-wounds
+- [**Dancing Lantern**](advanced/spell_dir/dancingLantern#_dancing-lantern-
+- [**Deadeye's Lore**](ultimateCombat/spell_dir/deadeyeSLore#_deadeye's-lore
+- [**Delusional Pride**](ultimateMagic/spell_dir/delusionalPride#_delusional-pride
+- [**Detect Secret Doors**](spell_dir/detectSecretDoors#_detect-secret-doors
+- [**Disguise Self**](spell_dir/disguiseSelf#_disguise-self
+- [**Ear-Piercing Scream**](ultimateMagic/spell_dir/earPiercingScream#_ear-piercing-scream
+- [**Erase**](spell_dir/erase#_erase
+- [**Expeditious Retreat**](spell_dir/expeditiousRetreat#_expeditious-retreat
+- [**Feather Fall**](spell_dir/featherFall#_feather-fall
+- [**Feather Step**](advanced/spell_dir/featherStep#_feather-step
+- [**Flare Burst**](advanced/spell_dir/flareBurst#_flare-burst
+- [**Forced Quiet**](ultimateMagic/spell_dir/forcedQuiet#_forced-quiet
+- [**Fumbletongue**](ultimateMagic/spell_dir/fumbletongue#_fumbletongue
+- [**Grease**](spell_dir/grease#_grease
+- [**Hideous Laughter**](spell_dir/hideousLaughter#_hideous-laughter
+- [**Horn of Pursuit**](ultimateMagic/spell_dir/hornOfPursuit#_horn-of-pursuit
+- [**Hypnotism**](spell_dir/hypnotism#_hypnotism
+- [**Identify**](spell_dir/identify#_identify
+- [**Innocence**](advanced/spell_dir/innocence#_innocence
+- [**Invigorate**](advanced/spell_dir/invigorate#_invigorate
+- [**Jitterbugs**](advancedRaceGuide/coreRace_dir/gnomes#_jitterbugs
+- [**Jury-Rig**](ultimateCombat/spell_dir/juryRig#_jury-rig
+- [**Ki Arrow**](ultimateMagic/spell_dir/kiArrow#_ki-arrow
+- [**Liberating Command**](ultimateCombat/spell_dir/liberatingCommand#_liberating-command
+- [**Lock Gaze**](ultimateCombat/spell_dir/lockGaze#_lock-gaze
+- [**Magic Aura**](spell_dir/magicAura#_magic-aura
+- [**Magic Mouth**](spell_dir/magicMouth#_magic-mouth
+- [**Memory Lapse**](advanced/spell_dir/memoryLapse#_memory-lapse
+- [**Moment of Greatness**](ultimateCombat/spell_dir/momentOfGreatness#_moment-of-greatness
+- [**Negative Reaction**](ultimateCombat/spell_dir/negativeReaction#_negative-reaction
+- [**Obscure Object**](spell_dir/obscureObject#_obscure-object
+- [**Play Instrument**](ultimateMagic/spell_dir/playInstrument#_play-instrument
+- [**Recharge Innate Magic**](advancedRaceGuide/coreRace_dir/gnomes#_recharge-innate-magic
+- [**Remove Fear**](spell_dir/removeFear#_remove-fear
+- [**Restful Sleep**](advanced/spell_dir/restfulSleep#_restful-sleep
+- [**Saving Finale**](advanced/spell_dir/savingFinale#_saving-finale
+- [**See Alignment**](ultimateCombat/spell_dir/seeAlignment#_see-alignment
+- [**Share Language**](advanced/spell_dir/shareLanguage#_share-language-
+- [**Silent Image**](spell_dir/silentImage#_silent-image
+- [**Sleep**](spell_dir/sleep#_sleep
+- [**Solid Note**](advanced/spell_dir/solidNote#_solid-note
+- [**Sow Thought**](advancedRaceGuide/uncommonRace_dir/changelings#_sow-thought
+- [**Summon Minor Monster**](ultimateMagic/spell_dir/summonMinorMonster#_summon-minor-monster
+- [**Summon Monster I**](spell_dir/summonMonster#_summon-monster-i
+- [**Timely Inspiration**](advanced/spell_dir/timelyInspiration#_timely-inspiration
+- [**Toilsome Chant**](advancedRaceGuide/coreRace_dir/dwarves#_toilsome-chant
+- [**Touch of Gracelessness**](advanced/spell_dir/touchOfGracelessness#_touch-of-gracelessness
+- [**Undetectable Alignment**](spell_dir/undetectableAlignment#_undetectable-alignment
+- [**Unnatural Lust**](ultimateMagic/spell_dir/unnaturalLust#_unnatural-lust
+- [**Unprepared Combatant**](ultimateMagic/spell_dir/unpreparedCombatant#_unprepared-combatant
+- [**Unseen Servant**](spell_dir/unseenServant#_unseen-servant
+- [**Urban Grace**](advancedRaceGuide/coreRace_dir/halfElves#_urban-grace
+- [**Vanish**](advanced/spell_dir/vanish#_vanish
+- [**Ventriloquism**](spell_dir/ventriloquism#_ventriloquism
+- [**Vocal Alteration**](ultimateMagic/spell_dir/vocalAlteration#_vocal-alteration
+- [**Windy Escape**](advancedRaceGuide/featuredRace_dir/sylphs#_windy-escape
+- [**Youthful Appearance**](ultimateMagic/spell_dir/youthfulAppearance#_youthful-appearance
 
-- [**Acute Senses**](ultimateMagic/spells/acuteSenses#_acute-senses)
-- [**Allegro**](ultimateMagic/spells/allegro#_allegro)
-- [**Alter Self**](spells/alterSelf#_alter-self)
-- [**Animal Messenger**](spells/animalMessenger#_animal-messenger)
-- [**Animal Trance**](spells/animalTrance#_animal-trance)
-- [**Bestow Insight**](advancedRaceGuide/coreRaces/humans#_bestow-insight)
-- [**Blindness/Deafness**](spells/blindnessDeafness#_blindness-deafness)
-- [**Blistering Invective**](ultimateCombat/spells/blisteringInvective#_blistering-invective)
-- [**Blood Biography**](advanced/spells/bloodBiography#_blood-biography-)
-- [**Blur**](spells/blur#_blur)
-- [**Boiling Blood**](ultimateMagic/spells/boilingBlood#_boiling-blood)
-- [**Cacophonous Call**](advanced/spells/cacophonousCall#_cacophonous-call)
-- [**Calm Emotions**](spells/calmEmotions#_calm-emotions)
-- [**Cat's Grace**](spells/catSGrace#_cat-s-grace)
-- [**Commune with Birds**](advancedRaceGuide/featuredRaces/tengus#_commune-with-birds)
-- [**Compassionate Ally**](ultimateMagic/spells/compassionateAlly#_compassionate-ally)
-- [**Create Treasure Map**](advanced/spells/createTreasureMap#_create-treasure-map-)
-- [**Cure Moderate Wounds**](spells/cureModerateWounds#_cure-moderate-wounds)
-- [**Darkness**](spells/darkness#_darkness)
-- [**Daze Monster**](spells/dazeMonster#_daze-monster)
-- [**Delay Pain**](ultimateMagic/spells/delayPain#_delay-pain)
-- [**Delay Poison**](spells/delayPoison#_delay-poison)
-- [**Detect Thoughts**](spells/detectThoughts#_detect-thoughts)
-- [**Discovery Torch**](ultimateCombat/spells/discoveryTorch#_discovery-torch-)
-- [**Disguise Other**](ultimateMagic/spells/disguiseOther#_disguise-other)
-- [**Distracting Cacophony**](ultimateMagic/spells/distractingCacophony#_distracting-cacophony)
-- [**Distressing Tone**](ultimateMagic/spells/distressingTone#_distressing-tone)
-- [**Dust of Twilight**](advanced/spells/dustOfTwilight#_dust-of-twilight)
-- [**Eagle's Splendor**](spells/eagleSSplendor#_eagle-s-splendor)
-- [**Enter Image**](advanced/spells/enterImage#_enter-image-)
-- [**Enthrall**](spells/enthrall#_enthrall)
-- [**Escaping Ward**](advancedRaceGuide/coreRaces/halflings#_escaping-ward)
-- [**Fox's Cunning**](spells/foxSCunning#_fox-s-cunning)
-- [**Gallant Inspiration**](advanced/spells/gallantInspiration#_gallant-inspiration)
-- [**Ghostbane Dirge**](advanced/spells/ghostbaneDirge#_ghostbane-dirge)
-- [**Ghostly Disguise**](ultimateMagic/spells/ghostlyDisguise#_ghostly-disguise)
-- [**Glitterdust**](spells/glitterdust#_glitterdust)
-- [**Heroism**](spells/heroism#_heroism)
-- [**Hidden Speech**](advanced/spells/hiddenSpeech#_hidden-speech)
-- [**Hold Person**](spells/holdPerson#_hold-person)
-- [**Honeyed Tongue**](advanced/spells/honeyedTongue#_honeyed-tongue)
-- [**Haunting Mists**](ultimateMagic/spells/HauntingMists#_haunting-mists)
-- [**Hypnotic Pattern**](spells/hypnoticPattern#_hypnotic-pattern)
-- [**Invisibility**](spells/invisibility#_invisibility)
-- [**Locate Object**](spells/locateObject#_locate-object)
-- [**Mad Hallucination**](ultimateMagic/spells/madHallucination#_mad-hallucination)
-- [**Masterwork Transformation**](ultimateMagic/spells/masterworkTransformation#_masterwork-transformation)
-- [**Minor Image**](spells/minorImage#_minor-image)
-- [**Mirror Image**](spells/mirrorImage#_mirror-image)
-- [**Misdirection**](spells/misdirection#_misdirection)
-- [**Miserable Pity**](ultimateMagic/spells/miserablePity#_miserable-pity)
-- [**Oppressive Boredom**](ultimateMagic/spells/oppressiveBoredom#_oppressive-boredom)
-- [**Piercing Shriek**](ultimateMagic/spells/piercingShriek#_piercing-shriek)
-- [**Pilfering Hand**](ultimateCombat/spells/pilferingHand#_pilfering-hand)
-- [**Pyrotechnics**](spells/pyrotechnics#_pyrotechnics)
-- [**Qualm**](ultimateCombat/spells/qualm#_qualm)
-- [**Rage**](spells/rage#_rage)
-- [**Reckless Infatuation**](ultimateMagic/spells/recklessInfatuation#_reckless-infatuation)
-- [**Returning Weapon**](ultimateCombat/spells/returningWeapon#_returning-weapon)
-- [**Scare**](spells/scare#_scare)
-- [**Shadow Anchor**](advancedRaceGuide/uncommonRaces/wayangs#_shadow-anchor)
-- [**Share Language, Communal**](ultimateCombat/spells/shareLanguage#_share-language,-communal)
-- [**Share Memory**](ultimateMagic/spells/shareMemory#_share-memory)
-- [**Shatter**](spells/shatter#_shatter)
-- [**Silence**](spells/silence#_silence)
-- [**Silk to Steel**](ultimateMagic/spells/silkToSteel#_silk-to-steel)
-- [**Snapdragon Fireworks**](ultimateMagic/spells/snapdragonFireworks#_snapdragon-fireworks)
-- [**Sound Burst**](spells/soundBurst#_sound-burst)
-- [**Steal Breath**](advancedRaceGuide/featuredRaces/catfolk#_steal-breath)
-- [**Steal Voice**](ultimateMagic/spells/stealVoice#_steal-voice)
-- [**Suggestion**](spells/suggestion#_suggestion)
-- [**Summon Monster II**](spells/summonMonster#_summon-monster-ii)
-- [**Summon Swarm**](spells/summonSwarm#_summon-swarm)
-- [**Tactical Acumen**](ultimateCombat/spells/tacticalAcumen#_tactical-acumen)
-- [**Thunder Fire**](ultimateCombat/spells/thunderFire#_thunder-fire)
-- [**Tongues**](spells/tongues#_tongues)
-- [**Unadulterated Loathing**](ultimateMagic/spells/unadulteratedLoathing#_unadulterated-loathing)
-- [**Versatile Weapon**](advanced/spells/versatileWeapon#_versatile-weapon)
-- [**Wartrain Mount**](ultimateMagic/spells/wartrainMount#_wartrain-mount)
-- [**Whispering Wind**](spells/whisperingWind#_whispering-wind)
+- [**Acute Senses**](ultimateMagic/spell_dir/acuteSenses#_acute-senses
+- [**Allegro**](ultimateMagic/spell_dir/allegro#_allegro
+- [**Alter Self**](spell_dir/alterSelf#_alter-self
+- [**Animal Messenger**](spell_dir/animalMessenger#_animal-messenger
+- [**Animal Trance**](spell_dir/animalTrance#_animal-trance
+- [**Bestow Insight**](advancedRaceGuide/coreRace_dir/humans#_bestow-insight
+- [**Blindness/Deafness**](spell_dir/blindnessDeafness#_blindness-deafness
+- [**Blistering Invective**](ultimateCombat/spell_dir/blisteringInvective#_blistering-invective
+- [**Blood Biography**](advanced/spell_dir/bloodBiography#_blood-biography-
+- [**Blur**](spell_dir/blur#_blur
+- [**Boiling Blood**](ultimateMagic/spell_dir/boilingBlood#_boiling-blood
+- [**Cacophonous Call**](advanced/spell_dir/cacophonousCall#_cacophonous-call
+- [**Calm Emotions**](spell_dir/calmEmotions#_calm-emotions
+- [**Cat's Grace**](spell_dir/catSGrace#_cat-s-grace
+- [**Commune with Birds**](advancedRaceGuide/featuredRace_dir/tengus#_commune-with-birds
+- [**Compassionate Ally**](ultimateMagic/spell_dir/compassionateAlly#_compassionate-ally
+- [**Create Treasure Map**](advanced/spell_dir/createTreasureMap#_create-treasure-map-
+- [**Cure Moderate Wounds**](spell_dir/cureModerateWounds#_cure-moderate-wounds
+- [**Darkness**](spell_dir/darkness#_darkness
+- [**Daze Monster**](spell_dir/dazeMonster#_daze-monster
+- [**Delay Pain**](ultimateMagic/spell_dir/delayPain#_delay-pain
+- [**Delay Poison**](spell_dir/delayPoison#_delay-poison
+- [**Detect Thoughts**](spell_dir/detectThoughts#_detect-thoughts
+- [**Discovery Torch**](ultimateCombat/spell_dir/discoveryTorch#_discovery-torch-
+- [**Disguise Other**](ultimateMagic/spell_dir/disguiseOther#_disguise-other
+- [**Distracting Cacophony**](ultimateMagic/spell_dir/distractingCacophony#_distracting-cacophony
+- [**Distressing Tone**](ultimateMagic/spell_dir/distressingTone#_distressing-tone
+- [**Dust of Twilight**](advanced/spell_dir/dustOfTwilight#_dust-of-twilight
+- [**Eagle's Splendor**](spell_dir/eagleSSplendor#_eagle-s-splendor
+- [**Enter Image**](advanced/spell_dir/enterImage#_enter-image-
+- [**Enthrall**](spell_dir/enthrall#_enthrall
+- [**Escaping Ward**](advancedRaceGuide/coreRace_dir/halflings#_escaping-ward
+- [**Fox's Cunning**](spell_dir/foxSCunning#_fox-s-cunning
+- [**Gallant Inspiration**](advanced/spell_dir/gallantInspiration#_gallant-inspiration
+- [**Ghostbane Dirge**](advanced/spell_dir/ghostbaneDirge#_ghostbane-dirge
+- [**Ghostly Disguise**](ultimateMagic/spell_dir/ghostlyDisguise#_ghostly-disguise
+- [**Glitterdust**](spell_dir/glitterdust#_glitterdust
+- [**Heroism**](spell_dir/heroism#_heroism
+- [**Hidden Speech**](advanced/spell_dir/hiddenSpeech#_hidden-speech
+- [**Hold Person**](spell_dir/holdPerson#_hold-person
+- [**Honeyed Tongue**](advanced/spell_dir/honeyedTongue#_honeyed-tongue
+- [**Haunting Mists**](ultimateMagic/spell_dir/HauntingMists#_haunting-mists
+- [**Hypnotic Pattern**](spell_dir/hypnoticPattern#_hypnotic-pattern
+- [**Invisibility**](spell_dir/invisibility#_invisibility
+- [**Locate Object**](spell_dir/locateObject#_locate-object
+- [**Mad Hallucination**](ultimateMagic/spell_dir/madHallucination#_mad-hallucination
+- [**Masterwork Transformation**](ultimateMagic/spell_dir/masterworkTransformation#_masterwork-transformation
+- [**Minor Image**](spell_dir/minorImage#_minor-image
+- [**Mirror Image**](spell_dir/mirrorImage#_mirror-image
+- [**Misdirection**](spell_dir/misdirection#_misdirection
+- [**Miserable Pity**](ultimateMagic/spell_dir/miserablePity#_miserable-pity
+- [**Oppressive Boredom**](ultimateMagic/spell_dir/oppressiveBoredom#_oppressive-boredom
+- [**Piercing Shriek**](ultimateMagic/spell_dir/piercingShriek#_piercing-shriek
+- [**Pilfering Hand**](ultimateCombat/spell_dir/pilferingHand#_pilfering-hand
+- [**Pyrotechnics**](spell_dir/pyrotechnics#_pyrotechnics
+- [**Qualm**](ultimateCombat/spell_dir/qualm#_qualm
+- [**Rage**](spell_dir/rage#_rage
+- [**Reckless Infatuation**](ultimateMagic/spell_dir/recklessInfatuation#_reckless-infatuation
+- [**Returning Weapon**](ultimateCombat/spell_dir/returningWeapon#_returning-weapon
+- [**Scare**](spell_dir/scare#_scare
+- [**Shadow Anchor**](advancedRaceGuide/uncommonRace_dir/wayangs#_shadow-anchor
+- [**Share Language, Communal**](ultimateCombat/spell_dir/shareLanguage#_share-language,-communal
+- [**Share Memory**](ultimateMagic/spell_dir/shareMemory#_share-memory
+- [**Shatter**](spell_dir/shatter#_shatter
+- [**Silence**](spell_dir/silence#_silence
+- [**Silk to Steel**](ultimateMagic/spell_dir/silkToSteel#_silk-to-steel
+- [**Snapdragon Fireworks**](ultimateMagic/spell_dir/snapdragonFireworks#_snapdragon-fireworks
+- [**Sound Burst**](spell_dir/soundBurst#_sound-burst
+- [**Steal Breath**](advancedRaceGuide/featuredRace_dir/catfolk#_steal-breath
+- [**Steal Voice**](ultimateMagic/spell_dir/stealVoice#_steal-voice
+- [**Suggestion**](spell_dir/suggestion#_suggestion
+- [**Summon Monster II**](spell_dir/summonMonster#_summon-monster-ii
+- [**Summon Swarm**](spell_dir/summonSwarm#_summon-swarm
+- [**Tactical Acumen**](ultimateCombat/spell_dir/tacticalAcumen#_tactical-acumen
+- [**Thunder Fire**](ultimateCombat/spell_dir/thunderFire#_thunder-fire
+- [**Tongues**](spell_dir/tongues#_tongues
+- [**Unadulterated Loathing**](ultimateMagic/spell_dir/unadulteratedLoathing#_unadulterated-loathing
+- [**Versatile Weapon**](advanced/spell_dir/versatileWeapon#_versatile-weapon
+- [**Wartrain Mount**](ultimateMagic/spell_dir/wartrainMount#_wartrain-mount
+- [**Whispering Wind**](spell_dir/whisperingWind#_whispering-wind
 
-- [**Arcane Concordance**](advanced/spells/arcaneConcordance#_arcane-concordance)
-- [**Blink**](spells/blink#_blink)
-- [**Campfire Wall**](advanced/spells/campfireWall#_campfire-wall-)
-- [**Charm Monster**](spells/charmMonster#_charm-monster)
-- [**Clairaudience/Clairvoyance**](spells/clairaudienceClairvoyance#_clairaudience-clairvoyance)
-- [**Confusion**](spells/confusion#_confusion)
-- [**Control Summoned Creature**](ultimateMagic/spells/controlSummonedCreature#_control-summoned-creature)
-- [**Coordinated Effort**](advanced/spells/coordinatedEffort#_coordinated-effort)
-- [**Crushing Despair**](spells/crushingDespair#_crushing-despair)
-- [**Cure Serious Wounds**](spells/cureSeriousWounds#_cure-serious-wounds)
-- [**Curse of Disgust**](ultimateMagic/spells/curseOfDisgust#_curse-of-disgust)
-- [**Death from Below**](advancedRaceGuide/coreRaces/gnomes#_death-from-below)
-- [**Daylight**](spells/daylight#_daylight)
-- [**Deep Slumber**](spells/deepSlumber#_deep-slumber)
-- [**Delay Poison, Communal**](ultimateCombat/spells/delayPoison#_delay-poison,-communal)
-- [**Dispel Magic**](spells/dispelMagic#_dispel-magic)
-- [**Displacement**](spells/displacement#_displacement)
-- [**Elemental Speech**](advanced/spells/elementalSpeech#_elemental-speech)
-- [**Exquisite Accompaniment**](ultimateMagic/spells/exquisiteAccompaniment#_exquisite-accompaniment)
-- [**Fear**](spells/fear#_fear)
-- [**Fearsome Duplicate**](advancedRaceGuide/coreRaces/halflings#_fearsome-duplicate)
-- [**Feather Step, Mass**](advanced/spells/featherStep#_feather-step,-mass)
-- [**Gaseous Form**](spells/gaseousForm#_gaseous-form)
-- [**Geas, Lesser**](spells/geasQuest#_geas-lesser)
-- [**Glibness**](spells/glibness#_glibness)
-- [**Good Hope**](spells/goodHope#_good-hope)
-- [**Haste**](spells/haste#_haste)
-- [**Haunting Choir**](ultimateMagic/spells/hauntingChoir#_haunting-choir)
-- [**Illusory Script**](spells/illusoryScript#_illusory-script)
-- [**Invigorate, Mass**](advanced/spells/invigorate#_invigorate,-mass)
-- [**Invisibility Sphere**](spells/invisibilitySphere#_invisibility-sphere)
-- [**Jester's Jaunt**](advanced/spells/jesterSJaunt#_jester's-jaunt)
-- [**Mad Monkeys**](ultimateMagic/spells/madMonkeys#_mad-monkeys)
-- [**Major Image**](spells/majorImage#_major-image)
-- [**Malicious Spite**](ultimateMagic/spells/maliciousSpite#_malicious-spite)
-- [**Minor Dream**](advancedRaceGuide/coreRaces/gnomes#_minor-dream)
-- [**Overwhelming Grief**](ultimateMagic/spells/overwhelmingGrief#_overwhelming-grief)
-- [**Phantom Driver**](ultimateCombat/spells/phantomDriver#_phantom-driver)
-- [**Phantom Steed**](spells/phantomSteed#_phantom-steed)
-- [**Prehensile Pilfer**](advancedRaceGuide/uncommonRaces/vanaras#_prehensile-pilfer)
-- [**Purging Finale**](advanced/spells/purgingFinale#_purging-finale)
-- [**Raging Rubble**](advancedRaceGuide/featuredRaces/oreads#_raging-rubble)
-- [**Rain of Frogs**](ultimateMagic/spells/rainOfFrogs#_rain-of-frogs)
-- [**Remove Curse**](spells/removeCurse#_remove-curse)
-- [**Returning Weapon, Communal**](ultimateCombat/spells/returningWeapon#_returning-weapon,-communal)
-- [**Reviving Finale**](advanced/spells/revivingFinale#_reviving-finale)
-- [**Scrying**](spells/scrying#_scrying)
-- [**Sculpt Sound**](spells/sculptSound#_sculpt-sound)
-- [**Secret Page**](spells/secretPage#_secret-page)
-- [**See Invisibility**](spells/seeInvisibility#_see-invisibility)
-- [**Seek Thoughts**](advanced/spells/seekThoughts#_seek-thoughts)
-- [**Sepia Snake Sigil**](spells/sepiaSnakeSigil#_sepia-snake-sigil)
-- [**Slow**](spells/slow#_slow)
-- [**Smug Narcissism**](ultimateMagic/spells/smugNarcissism#_smug-narcissism)
-- [**Speak with Animals**](spells/speakWithAnimals#_speak-with-animals)
-- [**Summon Monster III**](spells/summonMonster#_summon-monster-iii)
-- [**Terrible Remorse**](ultimateMagic/spells/terribleRemorse#_terrible-remorse)
-- [**Thunderous Drums**](advanced/spells/thunderingDrums#_thundering-drums)
-- [**Tiny Hut**](spells/tinyHut#_tiny-hut)
-- [**Tongues, Communal**](ultimateCombat/spells/tongues#_tongues,-communal)
-- [**Vision of Hell**](ultimateMagic/spells/visionOfHell#_vision-of-hell)
-- [**Witness**](ultimateMagic/spells/witness#_witness)
+- [**Arcane Concordance**](advanced/spell_dir/arcaneConcordance#_arcane-concordance
+- [**Blink**](spell_dir/blink#_blink
+- [**Campfire Wall**](advanced/spell_dir/campfireWall#_campfire-wall-
+- [**Charm Monster**](spell_dir/charmMonster#_charm-monster
+- [**Clairaudience/Clairvoyance**](spell_dir/clairaudienceClairvoyance#_clairaudience-clairvoyance
+- [**Confusion**](spell_dir/confusion#_confusion
+- [**Control Summoned Creature**](ultimateMagic/spell_dir/controlSummonedCreature#_control-summoned-creature
+- [**Coordinated Effort**](advanced/spell_dir/coordinatedEffort#_coordinated-effort
+- [**Crushing Despair**](spell_dir/crushingDespair#_crushing-despair
+- [**Cure Serious Wounds**](spell_dir/cureSeriousWounds#_cure-serious-wounds
+- [**Curse of Disgust**](ultimateMagic/spell_dir/curseOfDisgust#_curse-of-disgust
+- [**Death from Below**](advancedRaceGuide/coreRace_dir/gnomes#_death-from-below
+- [**Daylight**](spell_dir/daylight#_daylight
+- [**Deep Slumber**](spell_dir/deepSlumber#_deep-slumber
+- [**Delay Poison, Communal**](ultimateCombat/spell_dir/delayPoison#_delay-poison,-communal
+- [**Dispel Magic**](spell_dir/dispelMagic#_dispel-magic
+- [**Displacement**](spell_dir/displacement#_displacement
+- [**Elemental Speech**](advanced/spell_dir/elementalSpeech#_elemental-speech
+- [**Exquisite Accompaniment**](ultimateMagic/spell_dir/exquisiteAccompaniment#_exquisite-accompaniment
+- [**Fear**](spell_dir/fear#_fear
+- [**Fearsome Duplicate**](advancedRaceGuide/coreRace_dir/halflings#_fearsome-duplicate
+- [**Feather Step, Mass**](advanced/spell_dir/featherStep#_feather-step,-mass
+- [**Gaseous Form**](spell_dir/gaseousForm#_gaseous-form
+- [**Geas, Lesser**](spell_dir/geasQuest#_geas-lesser
+- [**Glibness**](spell_dir/glibness#_glibness
+- [**Good Hope**](spell_dir/goodHope#_good-hope
+- [**Haste**](spell_dir/haste#_haste
+- [**Haunting Choir**](ultimateMagic/spell_dir/hauntingChoir#_haunting-choir
+- [**Illusory Script**](spell_dir/illusoryScript#_illusory-script
+- [**Invigorate, Mass**](advanced/spell_dir/invigorate#_invigorate,-mass
+- [**Invisibility Sphere**](spell_dir/invisibilitySphere#_invisibility-sphere
+- [**Jester's Jaunt**](advanced/spell_dir/jesterSJaunt#_jester's-jaunt
+- [**Mad Monkeys**](ultimateMagic/spell_dir/madMonkeys#_mad-monkeys
+- [**Major Image**](spell_dir/majorImage#_major-image
+- [**Malicious Spite**](ultimateMagic/spell_dir/maliciousSpite#_malicious-spite
+- [**Minor Dream**](advancedRaceGuide/coreRace_dir/gnomes#_minor-dream
+- [**Overwhelming Grief**](ultimateMagic/spell_dir/overwhelmingGrief#_overwhelming-grief
+- [**Phantom Driver**](ultimateCombat/spell_dir/phantomDriver#_phantom-driver
+- [**Phantom Steed**](spell_dir/phantomSteed#_phantom-steed
+- [**Prehensile Pilfer**](advancedRaceGuide/uncommonRace_dir/vanaras#_prehensile-pilfer
+- [**Purging Finale**](advanced/spell_dir/purgingFinale#_purging-finale
+- [**Raging Rubble**](advancedRaceGuide/featuredRace_dir/oreads#_raging-rubble
+- [**Rain of Frogs**](ultimateMagic/spell_dir/rainOfFrogs#_rain-of-frogs
+- [**Remove Curse**](spell_dir/removeCurse#_remove-curse
+- [**Returning Weapon, Communal**](ultimateCombat/spell_dir/returningWeapon#_returning-weapon,-communal
+- [**Reviving Finale**](advanced/spell_dir/revivingFinale#_reviving-finale
+- [**Scrying**](spell_dir/scrying#_scrying
+- [**Sculpt Sound**](spell_dir/sculptSound#_sculpt-sound
+- [**Secret Page**](spell_dir/secretPage#_secret-page
+- [**See Invisibility**](spell_dir/seeInvisibility#_see-invisibility
+- [**Seek Thoughts**](advanced/spell_dir/seekThoughts#_seek-thoughts
+- [**Sepia Snake Sigil**](spell_dir/sepiaSnakeSigil#_sepia-snake-sigil
+- [**Slow**](spell_dir/slow#_slow
+- [**Smug Narcissism**](ultimateMagic/spell_dir/smugNarcissism#_smug-narcissism
+- [**Speak with Animals**](spell_dir/speakWithAnimals#_speak-with-animals
+- [**Summon Monster III**](spell_dir/summonMonster#_summon-monster-iii
+- [**Terrible Remorse**](ultimateMagic/spell_dir/terribleRemorse#_terrible-remorse
+- [**Thunderous Drums**](advanced/spell_dir/thunderingDrums#_thundering-drums
+- [**Tiny Hut**](spell_dir/tinyHut#_tiny-hut
+- [**Tongues, Communal**](ultimateCombat/spell_dir/tongues#_tongues,-communal
+- [**Vision of Hell**](ultimateMagic/spell_dir/visionOfHell#_vision-of-hell
+- [**Witness**](ultimateMagic/spell_dir/witness#_witness
 
-- [**Break Enchantment**](spells/breakEnchantment#_break-enchantment)
-- [**Cure Critical Wounds**](spells/cureCriticalWounds#_cure-critical-wounds)
-- [**Dance of a Hundred Cuts**](ultimateMagic/spells/danceOfAHundredCuts#_dance-of-a-hundred-cuts)
-- [**Daze, Mass**](ultimateMagic/spells/daze#_daze,-mass)
-- [**Denounce**](advanced/spells/denounce#_denounce)
-- [**Detect Scrying**](spells/detectScrying#_detect-scrying)
-- [**Dimension Door**](spells/dimensionDoor#_dimension-door)
-- [**Discordant Blast**](advanced/spells/discordantBlast#_discordant-blast)
-- [**Dominate Person**](spells/dominatePerson#_dominate-person)
-- [**Echolocation**](ultimateMagic/spells/echolocation#_echolocation)
-- [**Envious Urge**](ultimateMagic/spells/enviousUrge#_envious-urge)
-- [**Forgetful Slumber**](advancedRaceGuide/coreRaces/halfElves#_forgetful-slumber)
-- [**Freedom of Movement**](spells/freedomOfMovement#_freedom-of-movement)
-- [**Ghostbane Dirge, Mass**](advanced/spells/ghostbaneDirge#_ghostbane-dirge,-mass)
-- [**Hallucinatory Terrain**](spells/hallucinatoryTerrain#_hallucinatory-terrain)
-- [**Heroic Finale**](advanced/spells/heroicFinale#_heroic-finale)
-- [**Hold Monster**](spells/holdMonster#_hold-monster)
-- [**Invisibility, Greater**](spells/invisibility#_invisibility-greater)
-- [**Legend Lore**](spells/legendLore#_legend-lore)
-- [**Locate Creature**](spells/locateCreature#_locate-creature)
-- [**Modify Memory**](spells/modifyMemory#_modify-memory)
-- [**Neutralize Poison**](spells/neutralizePoison#_neutralize-poison)
-- [**Nixie's Lure**](advancedRaceGuide/featuredRaces/undines#_nixie's-lure)
-- [**Phantom Steed, Communal**](ultimateCombat/spells/phantomSteed#_phantom-steed,-communal)
-- [**Primal Scream**](ultimateMagic/spells/primalScream#_primal-scream)
-- [**Rainbow Pattern**](spells/rainbowPattern#_rainbow-pattern)
-- [**Repel Vermin**](spells/repelVermin#_repel-vermin)
-- [**Secure Shelter**](spells/secureShelter#_secure-shelter)
-- [**Serenity**](ultimateMagic/spells/serenity#_serenity)
-- [**Shadow Conjuration**](spells/shadowConjuration#_shadow-conjuration)
-- [**Shadow Step**](ultimateMagic/spells/shadowStep#_shadow-step)
-- [**Shocking Image**](ultimateCombat/spells/shockingImage#_shocking-image)
-- [**Shout**](spells/shout#_shout)
-- [**Sonic Thrust**](ultimateMagic/spells/sonicThrust#_sonic-thrust)
-- [**Speak with Plants**](spells/speakWithPlants#_speak-with-plants)
-- [**Summon Monster IV**](spells/summonMonster#_summon-monster-iv)
-- [**Treasure Stitching**](advanced/spells/treasureStitching#_treasure-stitching-)
-- [**Truespeak**](advancedRaceGuide/featuredRaces/aasimars#_truespeak)
-- [**Utter Contempt**](ultimateMagic/spells/utterContempt#_utter-contempt)
-- [**Virtuoso Performance**](ultimateMagic/spells/virtuosoPerformance#_virtuoso-performance)
-- [**Wall of Sound**](ultimateMagic/spells/wallOfSound#_wall-of-sound)
-- [**Wandering Star Motes**](advanced/spells/wanderingStarMotes#_wandering-star-motes)
-- [**Zone of Silence**](spells/zoneOfSilence#_zone-of-silence)
+- [**Break Enchantment**](spell_dir/breakEnchantment#_break-enchantment
+- [**Cure Critical Wounds**](spell_dir/cureCriticalWounds#_cure-critical-wounds
+- [**Dance of a Hundred Cuts**](ultimateMagic/spell_dir/danceOfAHundredCuts#_dance-of-a-hundred-cuts
+- [**Daze, Mass**](ultimateMagic/spell_dir/daze#_daze,-mass
+- [**Denounce**](advanced/spell_dir/denounce#_denounce
+- [**Detect Scrying**](spell_dir/detectScrying#_detect-scrying
+- [**Dimension Door**](spell_dir/dimensionDoor#_dimension-door
+- [**Discordant Blast**](advanced/spell_dir/discordantBlast#_discordant-blast
+- [**Dominate Person**](spell_dir/dominatePerson#_dominate-person
+- [**Echolocation**](ultimateMagic/spell_dir/echolocation#_echolocation
+- [**Envious Urge**](ultimateMagic/spell_dir/enviousUrge#_envious-urge
+- [**Forgetful Slumber**](advancedRaceGuide/coreRace_dir/halfElves#_forgetful-slumber
+- [**Freedom of Movement**](spell_dir/freedomOfMovement#_freedom-of-movement
+- [**Ghostbane Dirge, Mass**](advanced/spell_dir/ghostbaneDirge#_ghostbane-dirge,-mass
+- [**Hallucinatory Terrain**](spell_dir/hallucinatoryTerrain#_hallucinatory-terrain
+- [**Heroic Finale**](advanced/spell_dir/heroicFinale#_heroic-finale
+- [**Hold Monster**](spell_dir/holdMonster#_hold-monster
+- [**Invisibility, Greater**](spell_dir/invisibility#_invisibility-greater
+- [**Legend Lore**](spell_dir/legendLore#_legend-lore
+- [**Locate Creature**](spell_dir/locateCreature#_locate-creature
+- [**Modify Memory**](spell_dir/modifyMemory#_modify-memory
+- [**Neutralize Poison**](spell_dir/neutralizePoison#_neutralize-poison
+- [**Nixie's Lure**](advancedRaceGuide/featuredRace_dir/undines#_nixie's-lure
+- [**Phantom Steed, Communal**](ultimateCombat/spell_dir/phantomSteed#_phantom-steed,-communal
+- [**Primal Scream**](ultimateMagic/spell_dir/primalScream#_primal-scream
+- [**Rainbow Pattern**](spell_dir/rainbowPattern#_rainbow-pattern
+- [**Repel Vermin**](spell_dir/repelVermin#_repel-vermin
+- [**Secure Shelter**](spell_dir/secureShelter#_secure-shelter
+- [**Serenity**](ultimateMagic/spell_dir/serenity#_serenity
+- [**Shadow Conjuration**](spell_dir/shadowConjuration#_shadow-conjuration
+- [**Shadow Step**](ultimateMagic/spell_dir/shadowStep#_shadow-step
+- [**Shocking Image**](ultimateCombat/spell_dir/shockingImage#_shocking-image
+- [**Shout**](spell_dir/shout#_shout
+- [**Sonic Thrust**](ultimateMagic/spell_dir/sonicThrust#_sonic-thrust
+- [**Speak with Plants**](spell_dir/speakWithPlants#_speak-with-plants
+- [**Summon Monster IV**](spell_dir/summonMonster#_summon-monster-iv
+- [**Treasure Stitching**](advanced/spell_dir/treasureStitching#_treasure-stitching-
+- [**Truespeak**](advancedRaceGuide/featuredRace_dir/aasimars#_truespeak
+- [**Utter Contempt**](ultimateMagic/spell_dir/utterContempt#_utter-contempt
+- [**Virtuoso Performance**](ultimateMagic/spell_dir/virtuosoPerformance#_virtuoso-performance
+- [**Wall of Sound**](ultimateMagic/spell_dir/wallOfSound#_wall-of-sound
+- [**Wandering Star Motes**](advanced/spell_dir/wanderingStarMotes#_wandering-star-motes
+- [**Zone of Silence**](spell_dir/zoneOfSilence#_zone-of-silence
 
-- [**Bard's Escape**](advanced/spells/bardSEscape#_bard's-escape)
-- [**Cacophonous Call, Mass**](advanced/spells/cacophonousCall#_cacophonous-call,-mass)
-- [**Cloak of Dreams**](advanced/spells/cloakOfDreams#_cloak-of-dreams)
-- [**Cure Light Wounds, Mass**](spells/cureLightWounds#_cure-light-wounds-mass)
-- [**Deafening Song Bolt**](advanced/spells/deafeningSongBolt#_deafening-song-bolt)
-- [**Dispel Magic, Greater**](spells/dispelMagic#_dispel-magic-greater)
-- [**Dream**](spells/dream#_dream)
-- [**False Vision**](spells/falseVision#_false-vision)
-- [**Foe to Friend**](advanced/spells/foeToFriend#_foe-to-friend)
-- [**Frozen Note**](advanced/spells/frozenNote#_frozen-note-)
-- [**Heroism, Greater**](spells/heroism#_heroism-greater)
-- [**Joyful Rapture**](ultimateMagic/spells/joyfulRapture#_joyful-rapture)
-- [**Ki Shout**](ultimateMagic/spells/kiShout#_ki-shout)
-- [**Mind Fog**](spells/mindFog#_mind-fog)
-- [**Mirage Arcana**](spells/mirageArcana#_mirage-arcana)
-- [**Mislead**](spells/mislead#_mislead)
-- [**Nightmare**](spells/nightmare#_nightmare)
-- [**Persistent Image**](spells/persistentImage#_persistent-image)
-- [**Phantasmal Web**](advanced/spells/phantasmalWeb#_phantasmal-web)
-- [**Resonating Word**](ultimateMagic/spells/resonatingWord#_resonating-word)
-- [**Seeming**](spells/seeming#_seeming)
-- [**Shadow Evocation**](spells/shadowEvocation#_shadow-evocation)
-- [**Shadow Walk**](spells/shadowWalk#_shadow-walk)
-- [**Shadowbard**](ultimateMagic/spells/shadowbard#_shadowbard)
-- [**Song of Discord**](spells/songOfDiscord#_song-of-discord)
-- [**Stunning Finale**](advanced/spells/stunningFinale#_stunning-finale)
-- [**Suggestion, Mass**](spells/suggestion#_suggestion-mass)
-- [**Summon Monster V**](spells/summonMonster#_summon-monster-v)
-- [**Unwilling Shield**](advanced/spells/unwillingShield#_unwilling-shield)
-- [**Vengeful Outrage**](ultimateMagic/spells/vengefulOutrage#_vengeful-outrage)
-- [**Village Veil**](advancedRaceGuide/coreRaces/halflings#_village-veil)
+- [**Bard's Escape**](advanced/spell_dir/bardSEscape#_bard's-escape
+- [**Cacophonous Call, Mass**](advanced/spell_dir/cacophonousCall#_cacophonous-call,-mass
+- [**Cloak of Dreams**](advanced/spell_dir/cloakOfDreams#_cloak-of-dreams
+- [**Cure Light Wounds, Mass**](spell_dir/cureLightWounds#_cure-light-wounds-mass
+- [**Deafening Song Bolt**](advanced/spell_dir/deafeningSongBolt#_deafening-song-bolt
+- [**Dispel Magic, Greater**](spell_dir/dispelMagic#_dispel-magic-greater
+- [**Dream**](spell_dir/dream#_dream
+- [**False Vision**](spell_dir/falseVision#_false-vision
+- [**Foe to Friend**](advanced/spell_dir/foeToFriend#_foe-to-friend
+- [**Frozen Note**](advanced/spell_dir/frozenNote#_frozen-note-
+- [**Heroism, Greater**](spell_dir/heroism#_heroism-greater
+- [**Joyful Rapture**](ultimateMagic/spell_dir/joyfulRapture#_joyful-rapture
+- [**Ki Shout**](ultimateMagic/spell_dir/kiShout#_ki-shout
+- [**Mind Fog**](spell_dir/mindFog#_mind-fog
+- [**Mirage Arcana**](spell_dir/mirageArcana#_mirage-arcana
+- [**Mislead**](spell_dir/mislead#_mislead
+- [**Nightmare**](spell_dir/nightmare#_nightmare
+- [**Persistent Image**](spell_dir/persistentImage#_persistent-image
+- [**Phantasmal Web**](advanced/spell_dir/phantasmalWeb#_phantasmal-web
+- [**Resonating Word**](ultimateMagic/spell_dir/resonatingWord#_resonating-word
+- [**Seeming**](spell_dir/seeming#_seeming
+- [**Shadow Evocation**](spell_dir/shadowEvocation#_shadow-evocation
+- [**Shadow Walk**](spell_dir/shadowWalk#_shadow-walk
+- [**Shadowbard**](ultimateMagic/spell_dir/shadowbard#_shadowbard
+- [**Song of Discord**](spell_dir/songOfDiscord#_song-of-discord
+- [**Stunning Finale**](advanced/spell_dir/stunningFinale#_stunning-finale
+- [**Suggestion, Mass**](spell_dir/suggestion#_suggestion-mass
+- [**Summon Monster V**](spell_dir/summonMonster#_summon-monster-v
+- [**Unwilling Shield**](advanced/spell_dir/unwillingShield#_unwilling-shield
+- [**Vengeful Outrage**](ultimateMagic/spell_dir/vengefulOutrage#_vengeful-outrage
+- [**Village Veil**](advancedRaceGuide/coreRace_dir/halflings#_village-veil
 
-- [**Analyze Dweomer**](spells/analyzeDweomer#_analyze-dweomer)
-- [**Animate Objects**](spells/animateObjects#_animate-objects)
-- [**Brilliant Inspiration**](advanced/spells/brilliantInspiration#_brilliant-inspiration)
-- [**Cat's Grace, Mass**](spells/catSGrace#_cat-s-grace-mass)
-- [**Charm Monster, Mass**](spells/charmMonster#_charm-monster-mass)
-- [**Cure Moderate Wounds, Mass**](spells/cureModerateWounds#_cure-moderate-wounds-mass)
-- [**Dance of a Thousand Cuts**](ultimateMagic/spells/danceOfAThousandCuts#_dance-of-a-thousand-cuts)
-- [**Deadly Finale**](advanced/spells/deadlyFinale#_deadly-finale)
-- [**Eagle's Splendor, Mass**](spells/eagleSSplendor#_eagle-s-splendor-mass)
-- [**Euphoric Tranquility**](advanced/spells/euphoricTranquility#_euphoric-tranquility)
-- [**Eyebite**](spells/eyebite#_eyebite)
-- [**Find the Path**](spells/findThePath#_find-the-path)
-- [**Fool's Forbiddance**](advanced/spells/foolSForbiddance#_fool's-forbiddance)
-- [**Fox's Cunning, Mass**](spells/foxSCunning#_fox-s-cunning-mass)
-- [**Geas/Quest**](spells/geasQuest#_geas-quest)
-- [**Getaway**](advanced/spells/getaway#_getaway-)
-- [**Heroes' Feast**](spells/heroesFeast#_heroes-feast)
-- [**Irresistible Dance**](spells/irresistibleDance#_irresistible-dance)
-- [**Overwhelming Presence**](ultimateMagic/spells/overwhelmingPresence#_overwhelming-presence)
-- [**Permanent Image**](spells/permanentImage#_permanent-image)
-- [**Pied Piping**](advanced/spells/piedPiping#_pied-piping-)
-- [**Programmed Image**](spells/programmedImage#_programmed-image)
-- [**Project Image**](spells/projectImage#_project-image)
-- [**Scrying, Greater**](spells/scrying#_scrying-greater)
-- [**Shout, Greater**](spells/shout#_shout-greater)
-- [**Summon Monster VI**](spells/summonMonster#_summon-monster-vi)
-- [**Sympathetic Vibration**](spells/sympatheticVibration#_sympathetic-vibration)
-- [**Veil**](spells/veil#_veil)
-- [**Waves of Ecstasy**](ultimateMagic/spells/wavesOfEcstasy#_waves-of-ecstasy)
+- [**Analyze Dweomer**](spell_dir/analyzeDweomer#_analyze-dweomer
+- [**Animate Objects**](spell_dir/animateObjects#_animate-objects
+- [**Brilliant Inspiration**](advanced/spell_dir/brilliantInspiration#_brilliant-inspiration
+- [**Cat's Grace, Mass**](spell_dir/catSGrace#_cat-s-grace-mass
+- [**Charm Monster, Mass**](spell_dir/charmMonster#_charm-monster-mass
+- [**Cure Moderate Wounds, Mass**](spell_dir/cureModerateWounds#_cure-moderate-wounds-mass
+- [**Dance of a Thousand Cuts**](ultimateMagic/spell_dir/danceOfAThousandCuts#_dance-of-a-thousand-cuts
+- [**Deadly Finale**](advanced/spell_dir/deadlyFinale#_deadly-finale
+- [**Eagle's Splendor, Mass**](spell_dir/eagleSSplendor#_eagle-s-splendor-mass
+- [**Euphoric Tranquility**](advanced/spell_dir/euphoricTranquility#_euphoric-tranquility
+- [**Eyebite**](spell_dir/eyebite#_eyebite
+- [**Find the Path**](spell_dir/findThePath#_find-the-path
+- [**Fool's Forbiddance**](advanced/spell_dir/foolSForbiddance#_fool's-forbiddance
+- [**Fox's Cunning, Mass**](spell_dir/foxSCunning#_fox-s-cunning-mass
+- [**Geas/Quest**](spell_dir/geasQuest#_geas-quest
+- [**Getaway**](advanced/spell_dir/getaway#_getaway-
+- [**Heroes' Feast**](spell_dir/heroesFeast#_heroes-feast
+- [**Irresistible Dance**](spell_dir/irresistibleDance#_irresistible-dance
+- [**Overwhelming Presence**](ultimateMagic/spell_dir/overwhelmingPresence#_overwhelming-presence
+- [**Permanent Image**](spell_dir/permanentImage#_permanent-image
+- [**Pied Piping**](advanced/spell_dir/piedPiping#_pied-piping-
+- [**Programmed Image**](spell_dir/programmedImage#_programmed-image
+- [**Project Image**](spell_dir/projectImage#_project-image
+- [**Scrying, Greater**](spell_dir/scrying#_scrying-greater
+- [**Shout, Greater**](spell_dir/shout#_shout-greater
+- [**Summon Monster VI**](spell_dir/summonMonster#_summon-monster-vi
+- [**Sympathetic Vibration**](spell_dir/sympatheticVibration#_sympathetic-vibration
+- [**Veil**](spell_dir/veil#_veil
+- [**Waves of Ecstasy**](ultimateMagic/spell_dir/wavesOfEcstasy#_waves-of-ecstasy
 
 - 0 Level
 - 1st Level

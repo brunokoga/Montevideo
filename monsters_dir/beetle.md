@@ -11,7 +11,7 @@ _This housecat-sized beetle is a dull brown color brightened by two glowing gree
 
 N Small [vermin](creatureTypes#_vermin)
 
-**Init** +0; **Senses** low-light vision; [Perception](../skills/perception#_perception) +0
+**Init** +0; **Senses** low-light vision; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
@@ -33,9 +33,9 @@ N Small [vermin](creatureTypes#_vermin)
 
 **Str** 10, **Dex** 11, **Con** 11, **Int** —, **Wis** 10, **Cha** 7
 
-**Base**  **Atk** +0; **CMB** –1; **CMD** 9 (17 vs. trip)
+**Base**  **Atk** +0; **CMB** –1; **CMD** 9 (17 vs. trip
 
-**Skills** [Fly](../skills/fly#_fly) –2
+**Skills** [Fly](../skill_dir/fly#_fly) –2
 
 **SQ** luminescence
 
@@ -49,7 +49,7 @@ N Small [vermin](creatureTypes#_vermin)
 
 **Special Abilities**
 
-**Luminescence (Ex)** A fire beetle's glowing glands provide light in a 10-foot radius. A dead fire beetle's luminescent glands continue to glow for 1d6 days after its death.
+**Luminescence (Ex** A fire beetle's glowing glands provide light in a 10-foot radius. A dead fire beetle's luminescent glands continue to glow for 1d6 days after its death.
 
 Although nocturnal, the fire beetle lacks darkvision—it relies on its own glowing glands for illumination. Caged fire beetles are a popular source of long-lasting illumination among eccentrics and miners.
 
@@ -69,7 +69,7 @@ _With a sleek body and huge mandibles raised in a threatening pose, this large b
 
 N Large [vermin](creatureTypes#_vermin)
 
-**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +0
+**Init** +0; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +0
 
 **Defense**
 
@@ -95,9 +95,9 @@ N Large [vermin](creatureTypes#_vermin)
 
 **Str** 19, **Dex** 10, **Con** 15, **Int** —, **Wis** 10, **Cha** 9
 
-**Base**  **Atk** +5; **CMB** +10; **CMD** 20 (28 vs. trip)
+**Base**  **Atk** +5; **CMB** +10; **CMD** 20 (28 vs. trip
 
-**Skills** [Fly](../skills/fly#_fly) –6
+**Skills** [Fly](../skill_dir/fly#_fly) –6
 
 **Ecology**
 
@@ -113,5 +113,5 @@ Variant species of these giant beetles exist as well. The two detailed below are
 
 **Bombardier Beetle (CR 2)** : This giant stag beetle has only 2 Hit Dice and is Medium sized, but can spray acid once per round in a 10-foot cone. Those in the cone must make a DC 11 Fortitude save or take 1d4+2 points of acid damage. The save DC is Constitution-based.
 
-**Goliath Beetle (CR 8):** The immense goliath beetle is a Huge stag beetle with 12 HD and the trample special ability.
+**Goliath Beetle (CR 8:** The immense goliath beetle is a Huge stag beetle with 12 HD and the trample special ability.
 

@@ -1,5 +1,5 @@
 ---
-title: monsters/halfDragon
+title: monster_dir/halfDragon
 ---
 # Half-Dragon
 
@@ -11,9 +11,9 @@ _This six-legged dragon flaps its massive wings as it lowers its head to glare w
 
 Half-black dragon basilisk
 
-N Medium [dragon](creatureTypes#_dragon)
+N Medium [dragon](creatureTypes#_dragon
 
-**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skills/perception#_perception) +14
+**Init** –1; **Senses** darkvision 60 ft., low-light vision; [Perception](../skill_dir/perception#_perception) +14
 
 **Defense**
 
@@ -37,11 +37,11 @@ N Medium [dragon](creatureTypes#_dragon)
 
 **Str** 24, **Dex** 8, **Con** 21, **Int** 4, **Wis** 13, **Cha** 13
 
-**Base**  **Atk** +7; **CMB** +14; **CMD** 23 (31 vs. trip)
+**Base**  **Atk** +7; **CMB** +14; **CMD** 23 (31 vs. trip
 
-**Feats** [Blind-Fight](../feats#_blind-fight), [Great Fortitude](../feats#_great-fortitude), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skills/perception#_perception))
+**Feats** [Blind-Fight](../feats#_blind-fight), [Great Fortitude](../feats#_great-fortitude), [Iron Will](../feats#_iron-will), [Skill Focus](../feats#_skill-focus) ( [Perception](../skill_dir/perception#_perception)
 
-**Skills** [Fly](../skills/fly#_fly) +9, [Perception](../skills/perception#_perception) +14, [Stealth](../skills/stealth#_stealth) +13; **Racial Modifiers** +4 [Stealth](../skills/stealth#_stealth)
+**Skills** [Fly](../skill_dir/fly#_fly +9, [Perception](../skill_dir/perception#_perception +14, [Stealth](../skill_dir/stealth#_stealth +13; **Racial Modifiers** +4 [Stealth](../skill_dir/stealth#_stealth)
 
 **Ecology**
 
@@ -69,7 +69,7 @@ Half-dragons are only rarely the result of dragons mating with other creatures�
 
 **Melee** : A half-dragon has two claw attacks and a bite attack. If the base creature can use manufactured weapons, the half-dragon can as well. A new claw or bite attack deals damage as appropriate for the half-dragon's size (see [Natural Attacks](universalMonsterRules#_natural-attacks).)
 
-**Special Abilities** : A half-dragon retains all the special attacks of the base creature and gains a breath weapon usable once per day based on the dragon variety (see below). The breath weapon deals 1d6 hit points of damage per racial HD possessed by the half-dragon (Reflex half; DC 10 + 1/2 creature's racial HD + creature's Con modifier).
+**Special Abilities** : A half-dragon retains all the special attacks of the base creature and gains a breath weapon usable once per day based on the dragon variety (see below. The breath weapon deals 1d6 hit points of damage per racial HD possessed by the half-dragon (Reflex half; DC 10 + 1/2 creature's racial HD + creature's Con modifier).
 
 | Dragon Variety | Breath Weapon |
 | --- | --- |

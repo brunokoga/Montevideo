@@ -1,5 +1,5 @@
 ---
-title: ultimateMagic/wordsOfPower/effectwords/lifeWords
+title: ultimateMagic/wordsOfPower/effectword_dir/lifeWords
 ---
 ## Life Words
 
@@ -45,5 +45,5 @@ Life Touch (Life)
 
 **Target Restrictions** _selected_
 
-This effect word functions as _revive_, but it can be used on a creature that has been dead for up to 1 day per caster level. The creature is restored with half its original hit points, and its body does not need to be whole (just a piece of the creature is required). Any parts of the creature that were missing before its death are not restored by this effect word. The creature gains only one permanent negative level from being restored by this effect word, and this negative level fades after 24 hours (although it can be removed early as normal). The creature retains all of the prepared spells and slots it had when it died.
+This effect word functions as _revive_, but it can be used on a creature that has been dead for up to 1 day per caster level. The creature is restored with half its original hit points, and its body does not need to be whole (just a piece of the creature is required). Any parts of the creature that were missing before its death are not restored by this effect word. The creature gains only one permanent negative level from being restored by this effect word, and this negative level fades after 24 hours (although it can be removed early as normal. The creature retains all of the prepared spells and slots it had when it died.
 

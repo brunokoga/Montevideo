@@ -1,9 +1,9 @@
 ---
-title: spells/goodHope
+title: spell_dir/goodHope
 ---
  **Good Hope**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 3
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 3
 
 **Casting Time** 1 standard action
 

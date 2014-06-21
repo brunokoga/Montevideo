@@ -1,9 +1,9 @@
 ---
-title: spells/deepSlumber
+title: spell_dir/deepSlumber
 ---
  **Deep Slumber**
 
-**School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, sorcerer/wizard 3
+**School** enchantment (compulsion [mind-affecting]; **Level** bard 3, sorcerer/wizard 3
 
 **Range** close (25 ft. + 5 ft./2 levels)
 

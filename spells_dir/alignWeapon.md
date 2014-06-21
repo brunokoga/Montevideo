@@ -1,5 +1,5 @@
 ---
-title: spells/alignWeapon
+title: spell_dir/alignWeapon
 ---
  **Align Weapon**
 
@@ -11,7 +11,7 @@ title: spells/alignWeapon
 
 **Range** touch
 
-**Target** weapon touched or 50 projectiles (all of which must be together at the time of casting)
+**Target** weapon touched or 50 projectiles (all of which must be together at the time of casting
 
 **Duration** 1 min./level
 

@@ -3,9 +3,9 @@ title: spells/symbolOfFear
 ---
  **Symbol of Fear**
 
-**School** necromancy [fear, mind-affecting]; **Level** cleric 6, sorcerer/wizard 6
+**School** necromancy [fear, mind-affecting]; **Level** cleric 6, sorcere_dir/wizard 6
 
-**Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
+**Components** V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp
 
 **Saving Throw** [Will](../combat#_will) negates
 

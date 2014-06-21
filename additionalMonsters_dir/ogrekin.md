@@ -1,19 +1,19 @@
 ---
-title: additionalMonsters/ogrekin
+title: additionalMonster_dir/ogrekin
 ---
 # Ogrekin
 
 Its body twisted and deformed, this lumbering giant has tiny eyes and a mouth of jagged teeth presented in a furious roar.
 
-**Ogrekin (Half-ogre) CR 2**
+**Ogrekin (Half-ogre CR 2**
 
 **XP 600**
 
 Male human ogrekin fighter 2
 
-CE Medium [humanoid](monsters/creatureTypes#_humanoid) (giant)
+CE Medium [humanoid](monster_dir/creatureTypes#_humanoid) (giant
 
-**Int** +5; **Senses** low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +1
+**Int** +5; **Senses** low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +1
 
 Defense
 
@@ -29,7 +29,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** shortspear +7 (1d6+5), bite +2 (1d4+2)
+**Melee** shortspear +7 (1d6+5), bite +2 (1d4+2
 
 Statistics
 
@@ -39,7 +39,7 @@ Statistics
 
 **Feats** [Cleave](additionalMonsters/../feats#_cleave), [Improved Initiative](additionalMonsters/../feats#_improved-initiative), [Iron Will](additionalMonsters/../feats#_iron-will), [Power Attack](additionalMonsters/../feats#_power-attack)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +10, [Swim](additionalMonsters/../skills/swim#_swim) +10
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +10, [Swim](additionalMonsters/../skill_dir/swim#_swim) +10
 
 **Languages** Giant
 
@@ -95,7 +95,7 @@ The result of an unfortunate union between an ogre and a humanoid, the ogrekin (
 
 4: _Obese_: The ogrekin takes a –2 penalty to Dexterity (minimum score of 1).
 
-5: _Stunted Legs_: The ogrekin's base speed is reduced by 10 feet (minimum base speed of 5 feet).
+5: _Stunted Legs_: The ogrekin's base speed is reduced by 10 feet (minimum base speed of 5 feet.
 
 6: _Weak Mind_: The ogrekin's head is huge and misshapen. It gains a –2 penalty on Will saving throws.
 

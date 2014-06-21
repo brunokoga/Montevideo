@@ -1,9 +1,9 @@
 ---
-title: spells/createFoodAndWater
+title: spell_dir/createFoodAndWater
 ---
  **Create Food and Water**
 
-**School** conjuration (creation); **Level** cleric 3
+**School** conjuration (creation; **Level** cleric 3
 
 **Casting Time** 10 minutes
 

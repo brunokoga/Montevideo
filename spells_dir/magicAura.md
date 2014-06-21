@@ -1,19 +1,19 @@
 ---
-title: spells/magicAura
+title: spell_dir/magicAura
 ---
  **Magic Aura**
 
-**School** illusion (glamer); **Level** bard 1, sorcerer/wizard 1
+**School** illusion (glamer; **Level** bard 1, sorcere_dir/wizard 1
 
 **Casting Time** 1 standard action
 
-**Components** V, S, F (a small square of silk that must be passed over the object that receives the aura)
+**Components** V, S, F (a small square of silk that must be passed over the object that receives the aura
 
 **Range** touch
 
 **Target** one touched object weighing up to 5 lbs./level
 
-**Duration** 1 day/level (D)
+**Duration** 1 da_dir/level (D
 
 **Saving Throw** none; see text; **[Spell Resistance](../glossary#_spell-resistance)** no
 

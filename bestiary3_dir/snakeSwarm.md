@@ -9,29 +9,29 @@ Snake Swarm CR 2
 
 XP 600
 
-N Tiny animal ( [swarm](monsters/creatureTypes#_swarm-subtype))
+N Tiny animal ( [swarm](monster_dir/creatureTypes#_swarm-subtype)
 
-**Init** +6; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +9
+**Init** +6; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +9
 
 Defense
 
 **AC** 15, touch 14, flat-footed 13 (+2 Dex, +1 natural, +2 size)
 
-**hp** 16 (3d8+3)
+**hp** 16 (3d8+3
 
 **Fort** +4, **Ref** +7, **Will** +2
 
-**Defensive Abilities** [swarm](monsters/creatureTypes#_swarm-subtype) traits
+**Defensive Abilities** [swarm](monster_dir/creatureTypes#_swarm-subtype traits
 
 Offense
 
 **Speed** 20 ft., climb 20 ft., swim 20 ft.
 
-**Melee** [swarm](monsters/creatureTypes#_swarm-subtype) (1d6 plus [distraction](monsters/universalMonsterRules#_distraction))
+**Melee** [swarm](monster_dir/creatureTypes#_swarm-subtype (1d6 plus [distraction](monster_dir/universalMonsterRules#_distraction)
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** [distraction](monsters/universalMonsterRules#_distraction) (DC 12)
+**Special Attacks** [distraction](monster_dir/universalMonsterRules#_distraction) (DC 12)
 
 Statistics
 
@@ -39,15 +39,15 @@ Statistics
 
 **Base Atk** +2; **CMB** +2; **CMD** 11 (can't be tripped)
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes)
+**Feats** [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes
 
-**Skills** [Climb](skills/climb#_climb) +14, [Perception](skills/perception#_perception) +9, [Stealth](skills/stealth#_stealth) +18, [Swim](skills/swim#_swim) +7; **Racial Modifiers** +4 [Perception](skills/perception#_perception), +4 [Stealth](skills/stealth#_stealth), uses Dex to modify [Climb](skills/climb#_climb) and [Swim](skills/swim#_swim)
+**Skills** [Climb](skill_dir/climb#_climb +14, [Perception](skill_dir/perception#_perception +9, [Stealth](skill_dir/stealth#_stealth +18, [Swim](skill_dir/swim#_swim +7; **Racial Modifiers** +4 [Perception](skill_dir/perception#_perception, +4 [Stealth](skill_dir/stealth#_stealth, uses Dex to modify [Climb](skill_dir/climb#_climb and [Swim](skill_dir/swim#_swim)
 
 Ecology
 
 **Environment** any
 
-**Organization** solitary or nest (2–4 swarms)
+**Organization** solitary or nest (2–4 swarms
 
 **Treasure** none
 
@@ -61,29 +61,29 @@ Venomous Snake Swarm CR 4
 
 XP 1,200
 
-N Tiny animal ( [swarm](monsters/creatureTypes#_swarm-subtype))
+N Tiny animal ( [swarm](monster_dir/creatureTypes#_swarm-subtype)
 
-**Init** +7; **Senses** low-light vision, [scent](monsters/universalMonsterRules#_scent); [Perception](skills/perception#_perception) +13
+**Init** +7; **Senses** low-light vision, [scent](monster_dir/universalMonsterRules#_scent; [Perception](skill_dir/perception#_perception) +13
 
 Defense
 
 **AC** 17, touch 15, flat-footed 14 (+3 Dex, +2 natural, +2 size)
 
-**hp** 37 (5d8+15)
+**hp** 37 (5d8+15
 
 **Fort** +7, **Ref** +9, **Will** +2
 
-**Defensive Abilities** [swarm](monsters/creatureTypes#_swarm-subtype) traits
+**Defensive Abilities** [swarm](monster_dir/creatureTypes#_swarm-subtype traits
 
 Offense
 
 **Speed** 20 ft., climb 20 ft., swim 10 ft.
 
-**Melee** [swarm](monsters/creatureTypes#_swarm-subtype) (1d6 plus [distraction](monsters/universalMonsterRules#_distraction) and [poison](monsters/universalMonsterRules#_poison-(ex-or-su)))
+**Melee** [swarm](monster_dir/creatureTypes#_swarm-subtype (1d6 plus [distraction](monster_dir/universalMonsterRules#_distraction and [poison](monster_dir/universalMonsterRules#_poison-(ex-or-su))
 
 **Space** 10 ft.; **Reach** 0 ft.
 
-**Special Attacks** [distraction](monsters/universalMonsterRules#_distraction) (DC 15)
+**Special Attacks** [distraction](monster_dir/universalMonsterRules#_distraction) (DC 15)
 
 Statistics
 
@@ -91,19 +91,19 @@ Statistics
 
 **Base Atk** +3; **CMB** +4; **CMD** 13 (can't be tripped)
 
-**Feats** [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus) ( [Perception](skills/perception#_perception))
+**Feats** [Improved Initiative](feats#_improved-initiative), [Lightning Reflexes](feats#_lightning-reflexes), [Skill Focus](feats#_skill-focus ( [Perception](skill_dir/perception#_perception)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +7 (+3 when jumping), [Climb](skills/climb#_climb) +15, [Perception](skills/perception#_perception) +13, [Stealth](skills/stealth#_stealth) +19, [Swim](skills/swim#_swim) +11; **Racial Modifiers** +4 [Perception](skills/perception#_perception), +4 [Stealth](skills/stealth#_stealth); uses Dex to modify [Climb](skills/climb#_climb) and [Swim](skills/swim#_swim)
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +7 (+3 when jumping, [Climb](skill_dir/climb#_climb +15, [Perception](skill_dir/perception#_perception +13, [Stealth](skill_dir/stealth#_stealth +19, [Swim](skill_dir/swim#_swim +11; **Racial Modifiers** +4 [Perception](skill_dir/perception#_perception, +4 [Stealth](skill_dir/stealth#_stealth; uses Dex to modify [Climb](skill_dir/climb#_climb and [Swim](skill_dir/swim#_swim)
 
 Ecology
 
 **Environment** any
 
-**Organization** solitary, nest (2–4 swarms), or knot (5–7 swarms)
+**Organization** solitary, nest (2–4 swarms), or knot (5–7 swarms
 
 **Treasure** none
 
 Special Abilities
 
-**[Poison](monsters/universalMonsterRules#_poison-(ex-or-su)) (Ex)** [Swarm](monsters/creatureTypes#_swarm-subtype)—injury; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[Poison](monster_dir/universalMonsterRules#_poison-(ex-or-su)) (Ex** [Swarm](monster_dir/creatureTypes#_swarm-subtype—injury; _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
 

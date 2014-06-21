@@ -3,17 +3,17 @@ title: spells/ropeTrick
 ---
  **Rope Trick**
 
-**School** transmutation; **Level** sorcerer/wizard 2
+**School** transmutation; **Level** sorcere_dir/wizard 2
 
 **Casting Time** 1 standard action
 
-**Components** V, S, M (powdered corn and a twisted loop of parchment)
+**Components** V, S, M (powdered corn and a twisted loop of parchment
 
 **Range** touch
 
 **Target** one touched piece of rope from 5 ft. to 30 ft. long
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hou_dir/level (D
 
 **Saving Throw** none; **[Spell Resistance](../glossary#_spell-resistance)** no
 

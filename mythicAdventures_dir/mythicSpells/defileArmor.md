@@ -3,7 +3,7 @@ title: mythicAdventures/mythicSpells/defileArmor
 ---
 Defile Armor
 
-**Source** [_defile armor_](advanced/spells/defileArmor#_defile-armor)
+**Source** [_defile armor_](advanced/spell_dir/defileArmor#_defile-armor
 
 You gain DR 5/good while wearing the target armor. While using your judgment or smite ability, this improves to DR 10/good.
 

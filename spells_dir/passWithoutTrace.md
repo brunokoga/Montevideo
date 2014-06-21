@@ -13,7 +13,7 @@ title: spells/passWithoutTrace
 
 **Targets** one creature/level touched
 
-**Duration** 1 hour/level (D)
+**Duration** 1 hou_dir/level (D
 
 **Saving Throw** [Will](../combat#_will) negates (harmless); **[Spell Resistance](../glossary#_spell-resistance)** yes (harmless)
 

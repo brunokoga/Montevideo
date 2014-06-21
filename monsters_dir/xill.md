@@ -1,5 +1,5 @@
 ---
-title: monsters/xill
+title: monster_dir/xill
 ---
 # Xill
 
@@ -9,15 +9,15 @@ _This flame-red humanoid appears to be a strange mix of insect and reptile, with
 
 **XP 2,400**
 
-LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype))
+LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subtype), [extraplanar](creatureTypes#_extraplanar-subtype)
 
-**Init** +8; **Senses** darkvision 60 ft.; [Perception](../skills/perception#_perception) +13
+**Init** +8; **Senses** darkvision 60 ft.; [Perception](../skill_dir/perception#_perception) +13
 
 **Defense**
 
 **AC** 21, touch 14, flat-footed 17 (+4 Dex, +5 natural, +2 shield)
 
-**hp** 67 (9d10+18)
+**hp** 67 (9d10+18
 
 **Fort** +8, **Ref** +10, **Will** +6
 
@@ -41,7 +41,7 @@ LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Feats** [Combat Reflexes](../feats#_combat-reflexes), [Improved Initiative](../feats#_improved-initiative), [Iron Will](../feats#_iron-will), [Weapon Focus](../feats#_weapon-focus) (claw, short sword)
 
-**Skills** [Acrobatics](../skills/acrobatics#_acrobatics) +16, [Bluff](../skills/bluff#_bluff) +12, [Intimidate](../skills/intimidate#_intimidate) +12, [Knowledge](../skills/knowledge#_knowledge) (arcana) +14, [Knowledge](../skills/knowledge#_knowledge) (planes) +14, [Perception](../skills/perception#_perception) +13, [Sense Motive](../skills/senseMotive#_sense-motive) +13, [Stealth](../skills/stealth#_stealth) +14
+**Skills** [Acrobatics](../skill_dir/acrobatics#_acrobatics +16, [Bluff](../skill_dir/bluff#_bluff +12, [Intimidate](../skill_dir/intimidate#_intimidate +12, [Knowledge](../skill_dir/knowledge#_knowledge) (arcana +14, [Knowledge](../skill_dir/knowledge#_knowledge) (planes +14, [Perception](../skill_dir/perception#_perception +13, [Sense Motive](../skill_dir/senseMotive#_sense-motive +13, [Stealth](../skill_dir/stealth#_stealth) +14
 
 **Languages** Common, Infernal
 
@@ -57,11 +57,11 @@ LE Medium [outsider](creatureTypes#_outsider) ( [evil](creatureTypes#_evil-subty
 
 **Special Abilities**
 
-**Implant (Ex)** As a standard action, a xill can lay 2d6 eggs in a helpless creature. A xill's eggs hatch in 24 hours, at which point the young consume the host from within, inflicting 1 point of Con damage per hour per young until the host dies. The young then emerge and planewalk to the Ethereal Plane, if possible, to mature. A _ [remove disease](../spells/removeDisease#_remove-disease)_ spell (or similar effect) rids a victim of all implanted eggs or active young, or they can be cut out one at a time with DC 20 [Heal](../skills/heal#_heal) checks (each attempt takes 10 minutes). If a check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient.
+**Implant (Ex** As a standard action, a xill can lay 2d6 eggs in a helpless creature. A xill's eggs hatch in 24 hours, at which point the young consume the host from within, inflicting 1 point of Con damage per hour per young until the host dies. The young then emerge and planewalk to the Ethereal Plane, if possible, to mature. A _ [remove disease](../spell_dir/removeDisease#_remove-disease)_ spell (or similar effect rids a victim of all implanted eggs or active young, or they can be cut out one at a time with DC 20 [Heal](../skill_dir/heal#_heal) checks (each attempt takes 10 minutes). If a check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient.
 
 **Multiweapon Mastery (Ex)** A xill never takes penalties to an attack roll when fighting with multiple weapons, and treats claws as primary attacks even when also wielding weapons.
 
-**Planewalk (Su)** A xill can shift from the Ethereal Plane to the Material Plane as a move action. Shifting from the Material Plane to the Ethereal Plane takes 2 consecutive full-round actions, during which time the xill is immobile. As a xill fades away, it becomes harder to hit: opponents have a 20% miss chance in the first round and a 50% miss chance in the second. A xill can take a single willing or helpless creature with it when it switches planes.
+**Planewalk (Su** A xill can shift from the Ethereal Plane to the Material Plane as a move action. Shifting from the Material Plane to the Ethereal Plane takes 2 consecutive full-round actions, during which time the xill is immobile. As a xill fades away, it becomes harder to hit: opponents have a 20% miss chance in the first round and a 50% miss chance in the second. A xill can take a single willing or helpless creature with it when it switches planes.
 
 Xills are the scourge of the Ethereal Plane, conquering everything in their paths with only one purpose: to perpetuate their race at the expense of others. All xills are female and capable of fertilizing their own eggs, but require living hosts to incubate these eggs, which they inject into paralyzed victims by means of a grotesque ovipositor normally kept retracted behind their mandibles. Evil and alien, the plane-shifting xills possess impressive intelligence and a totalitarian, militaristic culture all their own. Though they see most other life forms as incubators, they particularly prize phase spiders for this purpose.
 

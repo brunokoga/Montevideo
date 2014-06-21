@@ -1,5 +1,5 @@
 ---
-title: npcCodex/prestige/duelist
+title: npcCodex/prestig_dir/duelist
 ---
 # Duelists
 
@@ -19,7 +19,7 @@ Defense
 
 **AC** 21, touch 17, flat-footed 15 (+3 armor, +1 deflection, +5 Dex, +1 dodge, +1 natural)
 
-**hp** 70 (7d10+2d10+16)
+**hp** 70 (7d10+2d10+16
 
 **Fort** +8, **Ref** +10, **Will** +4; +2 vs. enchantments, +2 vs. fear
 
@@ -47,11 +47,11 @@ Statistics
 
 **Feats** [Combat Expertise](feats#_combat-expertise), [Dodge](feats#_dodge), [Lightning Reflexes](feats#_lightning-reflexes), Mobility, [Power Attack](feats#_power-attack), [Skill Focus](feats#_skill-focus) (Perception), [Vital Strike](feats#_vital-strike), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (shortspear), Weapon Specialization (shortspear)
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +6, [Climb](skills/climb#_climb) +6, [Heal](skills/heal#_heal) +1, [Intimidate](skills/intimidate#_intimidate) +6, [Knowledge](skills/knowledge#_knowledge) (geography, history, nature) +2, Perception +14, [Perform](skills/perform#_perform) (dance) +1, [Ride](skills/ride#_ride) +8, [Stealth](skills/stealth#_stealth) +10, [Survival](skills/survival#_survival) +4, [Swim](skills/swim#_swim) +6
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics +6, [Climb](skill_dir/climb#_climb +6, [Heal](skill_dir/heal#_heal +1, [Intimidate](skill_dir/intimidate#_intimidate +6, [Knowledge](skill_dir/knowledge#_knowledge) (geography, history, nature +2, Perception +14, [Perform](skill_dir/perform#_perform) (dance +1, [Ride](skill_dir/ride#_ride +8, [Stealth](skill_dir/stealth#_stealth +10, [Survival](skill_dir/survival#_survival +4, [Swim](skill_dir/swim#_swim +6
 
 **SQ** armor training 2, elf blood, improved reaction +2
 
-**Combat Gear** _potion of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_; **Other Gear** _+1 leather armor_, _+1 shortspear_, masterwork short sword, masterwork shortspear, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +1_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, 236 gp
+**Combat Gear** _potion of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds_; **Other Gear** _+1 leather armor_, _+1 shortspear_, masterwork short sword, masterwork shortspear, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +1_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +1_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +1_, 236 gp
 
 These brave warriors gain prestige within their tribes and clans by challenging and defeating enemy spellcasters.
 
@@ -81,7 +81,7 @@ Defense
 
 **AC** 26, touch 19, flat-footed 19 (+6 armor, +1 deflection, +6 Dex, +1 dodge, +1 natural, +1 size)
 
-**hp** 101 (9d8+4d10+35)
+**hp** 101 (9d8+4d10+35
 
 **Fort** +9, **Ref** +18, **Will** +10; +2 vs. fear
 
@@ -97,7 +97,7 @@ Offense
 
 Tactics
 
-**During Combat** The duelist drinks her _potion of [haste](spells/haste#_haste)_. She attempts to disarm opponents, then makes sneak attacks even if she must feint to do so.
+**During Combat** The duelist drinks her _potion of [haste](spell_dir/haste#_haste)_. She attempts to disarm opponents, then makes sneak attacks even if she must feint to do so.
 
 Statistics
 
@@ -105,15 +105,15 @@ Statistics
 
 **Base Atk** +10; **CMB** +14 (+16 to disarm); **CMD** 25 (27 vs. disarm)
 
-**Feats** [Agile Maneuvers](feats#_agile-maneuvers), [Combat Expertise](feats#_combat-expertise), [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), Greater Feint, Improved Disarm, Improved Feint, [Iron Will](feats#_iron-will), Mobility, [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (rapier)
+**Feats** [Agile Maneuvers](feats#_agile-maneuvers), [Combat Expertise](feats#_combat-expertise), [Combat Reflexes](feats#_combat-reflexes), [Dodge](feats#_dodge), Greater Feint, Improved Disarm, Improved Feint, [Iron Will](feats#_iron-will), Mobility, [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (rapier
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +23 (+19 when jumping), [Bluff](skills/bluff#_bluff) +17, [Climb](skills/climb#_climb) +1, [Diplomacy](skills/diplomacy#_diplomacy) +17, [Disguise](skills/disguise#_disguise) +17, [Intimidate](skills/intimidate#_intimidate) +17, [Knowledge](skills/knowledge#_knowledge) (dungeoneering, local) +10, [Knowledge](skills/knowledge#_knowledge) (nobility) +7, Perception +19, [Perform](skills/perform#_perform) (comedy) +5, [Perform](skills/perform#_perform) (sing) +6, [Sleight of Hand](skills/sleightOfHand#_sleight-of-hand) +13, [Stealth](skills/stealth#_stealth) +25
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +23 (+19 when jumping, [Bluff](skill_dir/bluff#_bluff +17, [Climb](skill_dir/climb#_climb +1, [Diplomacy](skill_dir/diplomacy#_diplomacy +17, [Disguise](skill_dir/disguise#_disguise +17, [Intimidate](skill_dir/intimidate#_intimidate +17, [Knowledge](skill_dir/knowledge#_knowledge) (dungeoneering, local +10, [Knowledge](skill_dir/knowledge#_knowledge) (nobility +7, Perception +19, [Perform](skill_dir/perform#_perform) (comedy +5, [Perform](skill_dir/perform#_perform) (sing +6, [Sleight of Hand](skill_dir/sleightOfHand#_sleight-of-hand +13, [Stealth](skill_dir/stealth#_stealth) +25
 
 **Languages** Common, Halfling
 
-**SQ** improved reaction +2, rogue talents (combat trick, finesse rogue, surprise attack, weapon training), trapfinding +4
+**SQ** improved reaction +2, rogue talents (combat trick, finesse rogue, surprise attack, weapon training, trapfinding +4
 
-**Combat Gear** _potions of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_ (2), _potion of [haste](spells/haste#_haste)_; **Other Gear** _+2 mithral chain shirt_, _+1 rapier_, _amulet of natural armor +1_, _ [belt of physical might](magicItems/wondrousItems#_belt-of-physical-might) +2_ (Str, Con), _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, 180 gp
+**Combat Gear** _potions of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds)_ (2, _potion of [haste](spell_dir/haste#_haste_; **Other Gear** _+2 mithral chain shirt_, _+1 rapier_, _amulet of natural armor +1_, _ [belt of physical might](magicItem_dir/wondrousItems#_belt-of-physical-might) +2_ (Str, Con, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +2_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +1_, 180 gp
 
 Anyone who questions the martial prowess of halflings should keep quiet around feisty hotspurs, as these diminutive bravos excel at poking holes in large people who underestimate them.
 
@@ -145,21 +145,21 @@ Defense
 
 **Fort** +14, **Ref** +13, **Will** +10; +2 vs. poison, spells, and spell-like abilities; +3 vs. fear
 
-**Defensive Abilities** bravery +3, canny defense +1, defensive training (+4 dodge bonus to AC vs. giants), elaborate defense +2, enhanced mobility, grace +2, parry
+**Defensive Abilities** bravery +3, canny defense +1, defensive training (+4 dodge bonus to AC vs. giants, elaborate defense +2, enhanced mobility, grace +2, parry
 
 Offense
 
 **Speed** 20 ft.
 
-**Melee** _+1 [flaming](magicItems/weapons#_weapons-flaming) [frost](magicItems/weapons#_weapons-frost) [light](spells/light#_light) pick _+27/+22/+17/+12 (1d4+10/19–20/×4 plus 1d6 cold and 1d6 fire) or mwk punching dagger +24/+19/+14/+9 (1d4+6/×3)
+**Melee** _+1 [flaming](magicItem_dir/weapons#_weapons-flaming [frost](magicItem_dir/weapons#_weapons-frost [light](spell_dir/light#_light pick _+27/+22/+17/+12 (1d4+10/19–20/×4 plus 1d6 cold and 1d6 fire) or mwk punching dagger +24/+19/+14/+9 (1d4+6/×3)
 
-**Ranged** _+1 [light](spells/light#_light) crossbow_ +20 (1d8+1/19–20)
+**Ranged** _+1 [light](spell_dir/light#_light crossbow_ +20 (1d8+1/19–20)
 
 **Special Attacks** +1 on attack rolls against goblinoid and orc humanoids, acrobatic charge, precise strike +7, riposte, weapon training (axes +2, light blades +1)
 
 Tactics
 
-**During Combat** The duelist drinks his _potion of [invisibility](spells/invisibility#_invisibility)_, and gets into a tactical position. He uses Spring Attack, [Lunge](feats#_lunge), and Improved Vital strike to make hit-and-run attacks.
+**During Combat** The duelist drinks his _potion of [invisibility](spell_dir/invisibility#_invisibility)_, and gets into a tactical position. He uses Spring Attack, [Lunge](feats#_lunge), and Improved Vital strike to make hit-and-run attacks.
 
 Statistics
 
@@ -167,15 +167,15 @@ Statistics
 
 **Base Atk** +17; **CMB** +22; **CMD** 36 (40 vs. bull rush or trip)
 
-**Feats** [Combat Expertise](feats#_combat-expertise), [Combat Reflexes](feats#_combat-reflexes), [Critical Focus](feats#_critical-focus), [Dodge](feats#_dodge), Greater [Weapon Focus](feats#_weapon-focus) (light pick), [Improved Critical](feats#_improved-critical) (light pick), [Improved Initiative](feats#_improved-initiative), Improved [Vital Strike](feats#_vital-strike), [Iron Will](feats#_iron-will), [Lunge](feats#_lunge), Mobility, Spring Attack, [Vital Strike](feats#_vital-strike), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (light pick), Weapon Specialization (light pick)
+**Feats** [Combat Expertise](feats#_combat-expertise), [Combat Reflexes](feats#_combat-reflexes), [Critical Focus](feats#_critical-focus), [Dodge](feats#_dodge), Greater [Weapon Focus](feats#_weapon-focus) (light pick), [Improved Critical](feats#_improved-critical) (light pick), [Improved Initiative](feats#_improved-initiative), Improved [Vital Strike](feats#_vital-strike), [Iron Will](feats#_iron-will), [Lunge](feats#_lunge), Mobility, Spring Attack, [Vital Strike](feats#_vital-strike), [Weapon Finesse](feats#_weapon-finesse), [Weapon Focus](feats#_weapon-focus) (light pick), Weapon Specialization (light pick
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +7 (+3 when jumping), [Appraise](skills/appraise#_appraise) +6 (+8 to assess nonmagical metals or gemstones), [Climb](skills/climb#_climb) +13, [Craft](skills/craft#_craft) (weapons) +9, [Diplomacy](skills/diplomacy#_diplomacy) +3, [Disable Device](skills/disableDevice#_disable-device) +7, [Knowledge](skills/knowledge#_knowledge) (dungeoneering, engineering) +9, [Knowledge](skills/knowledge#_knowledge) (history) +6, Perception +11 (+13 to detect unusual stonework), [Perform](skills/perform#_perform) (percussion) +0, [Stealth](skills/stealth#_stealth) +7, [Survival](skills/survival#_survival) +6, [Swim](skills/swim#_swim) +9
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics) +7 (+3 when jumping, [Appraise](skill_dir/appraise#_appraise) +6 (+8 to assess nonmagical metals or gemstones, [Climb](skill_dir/climb#_climb +13, [Craft](skill_dir/craft#_craft) (weapons +9, [Diplomacy](skill_dir/diplomacy#_diplomacy +3, [Disable Device](skill_dir/disableDevice#_disable-device +7, [Knowledge](skill_dir/knowledge#_knowledge) (dungeoneering, engineering +9, [Knowledge](skill_dir/knowledge#_knowledge) (history) +6, Perception +11 (+13 to detect unusual stonework, [Perform](skill_dir/perform#_perform) (percussion +0, [Stealth](skill_dir/stealth#_stealth +7, [Survival](skill_dir/survival#_survival +6, [Swim](skill_dir/swim#_swim +9
 
 **Languages** Common, Dwarven, Orc
 
 **SQ** armor training 2, improved reaction +2
 
-**Combat Gear** _potion of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_, _potion of [invisibility](spells/invisibility#_invisibility)_; **Other Gear** _+4 chain shirt_, _+1 [flaming](magicItems/weapons#_weapons-flaming) [frost](magicItems/weapons#_weapons-frost) [light](spells/light#_light) pick_, _+1 [light](spells/light#_light) crossbow_, masterwork punching dagger, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +1_, _ [belt of giant strength](magicItems/wondrousItems#_belt-of-giant-strength) +4_, _ [boots of speed](magicItems/wondrousItems#_boots-of-speed)_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +2_, _ [ring of protection](magicItems/rings#_ring-of-protection) +1_, 759 gp
+**Combat Gear** _potion of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds_, _potion of [invisibility](spell_dir/invisibility#_invisibility_; **Other Gear** _+4 chain shirt_, _+1 [flaming](magicItem_dir/weapons#_weapons-flaming [frost](magicItem_dir/weapons#_weapons-frost [light](spell_dir/light#_light pick_, _+1 [light](spell_dir/light#_light crossbow_, masterwork punching dagger, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +1_, _ [belt of giant strength](magicItem_dir/wondrousItems#_belt-of-giant-strength +4_, _ [boots of speed](magicItem_dir/wondrousItems#_boots-of-speed_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +2_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection) +1_, 759 gp
 
 Nimble for a dwarf, an iron duelist excels at hit-and-run tactics.
 
@@ -203,7 +203,7 @@ Defense
 
 **AC** 28, touch 22, flat-footed 20 (+3 armor, +3 deflection, +7 Dex, +1 dodge, +1 insight, +3 natural)
 
-**hp** 224 (10d10+10d10+110)
+**hp** 224 (10d10+10d10+110
 
 **Fort** +17, **Ref** +19, **Will** +11; +3 vs. fear
 
@@ -213,7 +213,7 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** _+1 human-bane [shock](magicItems/weapons#_weapons-shock) rapier_ +29/+24/+19/+14 (1d6+9/15–20 plus 1d6 electricity)
+**Melee** _+1 human-bane [shock](magicItem_dir/weapons#_weapons-shock rapier_ +29/+24/+19/+14 (1d6+9/15–20 plus 1d6 electricity)
 
 **Ranged** mwk dagger +29/+24/+19/+14 (1d4+6/19–20)
 
@@ -231,11 +231,11 @@ Statistics
 
 **Feats** Blinding Critical, [Combat Expertise](feats#_combat-expertise), [Combat Reflexes](feats#_combat-reflexes), [Critical Focus](feats#_critical-focus), Deflect Arrows, [Dodge](feats#_dodge), [Improved Critical](feats#_improved-critical) (rapier), [Improved Initiative](feats#_improved-initiative), Improved [Iron Will](feats#_iron-will), Improved [Vital Strike](feats#_vital-strike), [Iron Will](feats#_iron-will), Mobility, [Power Attack](feats#_power-attack), Spring Attack, [Toughness](feats#_toughness), [Vital Strike](feats#_vital-strike), [Weapon Finesse](feats#_weapon-finesse), Weapon Specialization (rapier), Wind Stance
 
-**Skills** [Acrobatics](skills/acrobatics#_acrobatics) +16, [Bluff](skills/bluff#_bluff) +4, [Climb](skills/climb#_climb) +17, [Diplomacy](skills/diplomacy#_diplomacy) +4, [Heal](skills/heal#_heal) +5, [Intimidate](skills/intimidate#_intimidate) +12, [Knowledge](skills/knowledge#_knowledge) (history, local, nobility) +6, Perception +20, [Perform](skills/perform#_perform) (dance) +4, [Ride](skills/ride#_ride) +14, [Stealth](skills/stealth#_stealth) +16
+**Skills** [Acrobatics](skill_dir/acrobatics#_acrobatics +16, [Bluff](skill_dir/bluff#_bluff +4, [Climb](skill_dir/climb#_climb +17, [Diplomacy](skill_dir/diplomacy#_diplomacy +4, [Heal](skill_dir/heal#_heal +5, [Intimidate](skill_dir/intimidate#_intimidate +12, [Knowledge](skill_dir/knowledge#_knowledge) (history, local, nobility +6, Perception +20, [Perform](skill_dir/perform#_perform) (dance +4, [Ride](skill_dir/ride#_ride +14, [Stealth](skill_dir/stealth#_stealth +16
 
 **SQ** armor training 2, improved reaction +4
 
-**Combat Gear** _potion of [cure serious wounds](spells/cureSeriousWounds#_cure-serious-wounds)_; **Other Gear** _+1 human-bane [shock](magicItems/weapons#_weapons-shock) rapier_, masterwork dagger, _ [amulet of natural armor](magicItems/wondrousItems#_amulet-of-natural-armor) +3_, _ [belt of physical perfection](magicItems/wondrousItems#_belt-of-physical-perfection) +4_, _ [boots of speed](magicItems/wondrousItems#_boots-of-speed)_, _ [bracers of armor](magicItems/wondrousItems#_bracers-of-armor) +3_, _ [cloak of resistance](magicItems/wondrousItems#_cloak-of-resistance) +3_, _dusty rose prism [ioun stone](magicItems/wondrousItems#_ioun-stones)_,_ [hat of disguise](magicItems/wondrousItems#_hat-of-disguise)_, _ [ring of protection](magicItems/rings#_ring-of-protection) +3_, 2,526 gp
+**Combat Gear** _potion of [cure serious wounds](spell_dir/cureSeriousWounds#_cure-serious-wounds_; **Other Gear** _+1 human-bane [shock](magicItem_dir/weapons#_weapons-shock rapier_, masterwork dagger, _ [amulet of natural armor](magicItem_dir/wondrousItems#_amulet-of-natural-armor +3_, _ [belt of physical perfection](magicItem_dir/wondrousItems#_belt-of-physical-perfection +4_, _ [boots of speed](magicItem_dir/wondrousItems#_boots-of-speed_, _ [bracers of armor](magicItem_dir/wondrousItems#_bracers-of-armor +3_, _ [cloak of resistance](magicItem_dir/wondrousItems#_cloak-of-resistance +3_, _dusty rose prism [ioun stone](magicItem_dir/wondrousItems#_ioun-stones_,_ [hat of disguise](magicItem_dir/wondrousItems#_hat-of-disguise_, _ [ring of protection](magicItem_dir/rings#_ring-of-protection +3_, 2,526 gp
 
 Paragons of swordplay, these master duelists constantly search for foes to defeat in order to enhance their already formidable reputations.
 

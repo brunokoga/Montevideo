@@ -9,15 +9,15 @@ This four-armed creature looks like a cross between a human and a black and ochr
 
 **XP 800**
 
-N Medium [outsider](monsters/creatureTypes#_outsider) ( [extraplanar](monsters/creatureTypes#_extraplanar-subtype))
+N Medium [outsider](monster_dir/creatureTypes#_outsider ( [extraplanar](monster_dir/creatureTypes#_extraplanar-subtype)
 
-**Init** +2; **Senses** darkvision 120 ft., low-light vision; [Perception](additionalMonsters/../skills/perception#_perception) +9
+**Init** +2; **Senses** darkvision 120 ft., low-light vision; [Perception](additionalMonsters/../skill_dir/perception#_perception) +9
 
 Defense
 
 **AC** 16, touch 12, flat-footed 14 (+2 Dex, +4 natural)
 
-**hp** 26 (4d10+4)
+**hp** 26 (4d10+4
 
 **Fort** +2, **Ref** +6, **Will** +6
 
@@ -25,23 +25,23 @@ Offense
 
 **Speed** 30 ft.
 
-**Melee** 2 claws +6 (1d6+1 plus [grab](monsters/universalMonsterRules#_grab))
+**Melee** 2 claws +6 (1d6+1 plus [grab](monster_dir/universalMonsterRules#_grab))
 
 **Special Attacks** dazzling burst
 
-**Spell-Like Abilities** (CL 3rd; concentration +6)
+**Spell-Like Abilities** (CL 3rd; concentration +6
 
-1/day—_ [plane shift](additionalMonsters/../spells/planeShift#_plane-shift)_ (self only, to Plane of Shadow only)
+1/day—_ [plane shift](additionalMonsters/../spell_dir/planeShift#_plane-shift)_ (self only, to Plane of Shadow only)
 
 Statistics
 
 **Str** 13, **Dex** 15, **Con** 12, **Int** 13, **Wis** 14, **Cha** 16
 
-**Base Atk** +4; **CMB** +5 (+9 grapple); **CMD** 17
+**Base Atk** +4; **CMB** +5 (+9 grapple; **CMD** 17
 
 **Feats** [Combat Reflexes](additionalMonsters/../feats#_combat-reflexes), [Weapon Focus](additionalMonsters/../feats#_weapon-focus) (claw)
 
-**Skills** [Climb](additionalMonsters/../skills/climb#_climb) +8, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (arcana) +8, [Knowledge](additionalMonsters/../skills/knowledge#_knowledge) (planes) +8, [Perception](additionalMonsters/../skills/perception#_perception) +9, [Sense Motive](additionalMonsters/../skills/senseMotive#_sense-motive) +9, [Stealth](additionalMonsters/../skills/stealth#_stealth) +9, [Survival](additionalMonsters/../skills/survival#_survival) +7, [Use Magic Device](additionalMonsters/../skills/useMagicDevice#_use-magic-device) +8
+**Skills** [Climb](additionalMonsters/../skill_dir/climb#_climb +8, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (arcana +8, [Knowledge](additionalMonsters/../skill_dir/knowledge#_knowledge) (planes +8, [Perception](additionalMonsters/../skill_dir/perception#_perception +9, [Sense Motive](additionalMonsters/../skill_dir/senseMotive#_sense-motive +9, [Stealth](additionalMonsters/../skill_dir/stealth#_stealth +9, [Survival](additionalMonsters/../skill_dir/survival#_survival +7, [Use Magic Device](additionalMonsters/../skill_dir/useMagicDevice#_use-magic-device) +8
 
 **Languages** D'ziriak; telepathy 100 ft.
 
@@ -49,9 +49,9 @@ Statistics
 
 Ecology
 
-**Environment** any land (Plane of Shadow)
+**Environment** any land (Plane of Shadow
 
-**Organization** solitary, pair, [swarm](monsters/creatureTypes#_swarm-subtype) (3–20), or hive (21–100)
+**Organization** solitary, pair, [swarm](monster_dir/creatureTypes#_swarm-subtype) (3–20), or hive (21–100)
 
 **Treasure** standard
 
@@ -61,7 +61,7 @@ Special Abilities
 
 **Glow (Ex)** The colorful runes that decorate a d'ziriak's body create dim light in a 20-foot radius from its body.
 
-Natives of the Plane of Shadow, d'ziriaks are a mysterious race of human-sized insectoids. From their partially buried hive cities rise spires and steeples adorned with alchemical fire and illusory flame, dim beacons of sanctuary in the foreboding twilight. The d'ziriaks remain staunchly neutral in most affairs, and are typically happy to converse with travelers via their eerie telepathy (their own language of buzzes and chitters is an obscure one known by few outside their race), but their unknown, obscure goals lead most others to regard this race with caution.
+Natives of the Plane of Shadow, d'ziriaks are a mysterious race of human-sized insectoids. From their partially buried hive cities rise spires and steeples adorned with alchemical fire and illusory flame, dim beacons of sanctuary in the foreboding twilight. The d'ziriaks remain staunchly neutral in most affairs, and are typically happy to converse with travelers via their eerie telepathy (their own language of buzzes and chitters is an obscure one known by few outside their race, but their unknown, obscure goals lead most others to regard this race with caution.
 
 The average d'ziriak is 7 feet tall and has four arms, two legs, a termite-like abdomen, and a mandibled visage somewhere between that of insect and human. Two of its arms are large and possess sharp claws, while the other two are relatively small and used for fine manipulations, not combat. Strangely for a race native to the realm of shadows, the d'ziriaks have a colorful collection of runic shapes, almost like glowing tattoos, upon their chitinous flesh. These runes help to denote what role in d'ziriak society each of these beings serves.
 

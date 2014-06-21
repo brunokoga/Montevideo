@@ -13,7 +13,7 @@ title: spells/telekinesis
 
 **Target or Targets** see text
 
-**Duration** concentration (up to 1 round/level) or instantaneous; see text
+**Duration** concentration (up to 1 roun_dir/level or instantaneous; see text
 
 **Saving Throw** [Will](../combat#_will) negates (object) or none; see text; **[Spell Resistance](../glossary#_spell-resistance)** yes (object); see text
 

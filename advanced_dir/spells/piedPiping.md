@@ -1,5 +1,5 @@
 ---
-title: advanced/spells/piedPiping
+title: advanced/spell_dir/piedPiping
 ---
  **Pied Piping**
 
@@ -7,17 +7,17 @@ title: advanced/spells/piedPiping
 
 **Casting Time** 1 standard action
 
-**Components** V or F (musical instrument)
+**Components** V or F (musical instrument
 
 **Range** 90 ft.
 
 **Area** 90-ft.-radius emanation, centered on you
 
-**Duration** concentration + 1 round/level
+**Duration** concentration + 1 roun_dir/level
 
 **Saving Throw** Will partial; see text; **Spell Resistance** yes
 
-You call forth a melody so compelling and attractive that creatures belonging to a group with a specific, identifiable physical trait (such as type, subtype, age, gender, or hair color) find it almost impossible not to approach and follow you. You choose the nature of the creatures you seek to attract when you cast the spell and, once you make this choice, cannot alter it. You can only use physical traits to determine your audience. You can never use social and other more voluntary criteria (such as alignment, religion, nationality, or class) to select targets for this spell.
+You call forth a melody so compelling and attractive that creatures belonging to a group with a specific, identifiable physical trait (such as type, subtype, age, gender, or hair color) find it almost impossible not to approach and follow you. You choose the nature of the creatures you seek to attract when you cast the spell and, once you make this choice, cannot alter it. You can only use physical traits to determine your audience. You can never use social and other more voluntary criteria (such as alignment, religion, nationality, or class to select targets for this spell.
 
 Eligible creatures must make a saving throw each round spent within the area of the spell and, once they fail, approach you at their normal movement speed and stand as close to you as possible without actually entering an occupied square. If you move, they do their best to maintain their proximity to you and follow. Affected creatures can take no actions other than listening to your music and following you if you move. Those entering the area while the spell is in effect must also successfully save or be compelled to come to you.
 
