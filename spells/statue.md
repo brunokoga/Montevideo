@@ -1,3 +1,6 @@
+---
+title: spells/statue
+---
  **Statue**
 
 **School** transmutation; **Level** sorcerer/wizard 7

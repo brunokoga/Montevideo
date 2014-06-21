@@ -1,3 +1,6 @@
+---
+title: advanced/spells/blessingOfFervor
+---
  **Blessing of Fervor**
 
 **School** transmutation; **Level** cleric 4

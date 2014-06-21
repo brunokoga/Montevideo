@@ -1,3 +1,6 @@
+---
+title: advanced/spells/hungryPit
+---
  **Hungry Pit**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 5, summoner 5

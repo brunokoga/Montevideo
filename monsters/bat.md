@@ -1,3 +1,6 @@
+---
+title: monsters/bat
+---
 # Bat, Dire
 
 _This giant, furry bat is nearly the size of an ox, with dark leathery wings that open wider than two men with arms outstretched._

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/dispelMagic
+---
 Dispel Magic
 
 **Source** [_dispel magic_](spells/dispelMagic.md#_dispel-magic)

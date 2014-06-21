@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/cleric
+---
 # Cleric
 
 Most clerics take on two domains or subdomains of their deities. But there are those clerics who forsake one of those domains and specialize in an aspect of faith that spans many religions and philosophies.

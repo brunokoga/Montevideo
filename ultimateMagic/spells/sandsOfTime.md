@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/sandsOfTime
+---
 Sands of Time
 
 **School** necromancy; **Level** cleric 3, sorcerer/wizard 3, witch 3

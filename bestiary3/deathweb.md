@@ -1,3 +1,6 @@
+---
+title: bestiary3/deathweb
+---
 # Deathweb
 
 This animated husk from an enormous spider seems filled with thousands of living spiders that fall from its body like drops of blood.

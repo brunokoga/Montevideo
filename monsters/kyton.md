@@ -1,3 +1,6 @@
+---
+title: monsters/kyton
+---
 # Kyton
 
 _Wickedly barbed chains adorn this lean figure, and gaps in the bindings reveal deathly pale flesh etched with jagged scars._

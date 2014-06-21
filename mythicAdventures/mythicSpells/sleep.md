@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/sleep
+---
 Sleep
 
 **Source** [_sleep_](spells/sleep.md#_sleep)

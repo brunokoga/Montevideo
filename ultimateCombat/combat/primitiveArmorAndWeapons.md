@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/combat/primitiveArmorAndWeapons
+---
 # Primitive Armor and Weapons
 
 The standard Pathfinder Roleplaying Game campaign takes place in a time period similar to the medieval and early Renaissance age of iron and steel. But even in fantasy campaigns set in this era, some cultures lack steel, and some lack metalworking entirely. Sometimes this deficit is due to geographical remoteness, lack of resources, repression by a strong overlord, or societal taboos. Other campaigns might be set before the medieval era, or in a dark future where apocalypse survivors eke out livings with the best tools they can scavenge.

@@ -1,3 +1,6 @@
+---
+title: spells/magicMissile
+---
  **Magic Missile**
 
 **School** evocation [force]; **Level** sorcerer/wizard 1

@@ -1,3 +1,6 @@
+---
+title: bestiary3/deathtrapOoze
+---
 # Deathtrap Ooze
 
 The killing blade of this horrific trap drips with an animated sheen of foul brown-orange slime.

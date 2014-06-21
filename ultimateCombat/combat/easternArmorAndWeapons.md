@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/combat/easternArmorAndWeapons
+---
 # Eastern Armor and Weapons
 
 Although most of the weapons in the Pathfinder Roleplaying Game take their inspiration from medieval European weaponry and Western fantasy traditions, there's much more to the world of weapons and armor than sword-wielding knights in plate mail. The following section presents rules for armor and weapons drawn from the martial traditions of Asia, perfect for use by exotic characters or as new staples ready to be introduced into your campaign.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/removeSickness
+---
 Remove Sickness
 
 **School** conjuration (healing); **Level** cleric 1, druid 1, witch 1

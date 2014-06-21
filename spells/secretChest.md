@@ -1,3 +1,6 @@
+---
+title: spells/secretChest
+---
  **Secret Chest**
 
 **School** conjuration (summoning); **Level** sorcerer/wizard 5

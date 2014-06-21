@@ -1,3 +1,6 @@
+---
+title: spells/balefulPolymorph
+---
  **Baleful Polymorph**
 
 **School** transmutation (polymorph); **Level** druid 5, sorcerer/wizard 5

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/circleOfDeath
+---
 Circle of Death
 
 **Source** [_circle of death_](spells/circleOfDeath.md#_circle-of-death)

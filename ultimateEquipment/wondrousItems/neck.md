@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/neck
+---
 # Neck Slot Wondrous Items
 
 The neck slot consists of amulets, brooches, medallions, necklaces, periapts, scarabs, and other items that can be worn around the neck or fastened to a cloak.

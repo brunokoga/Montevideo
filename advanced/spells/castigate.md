@@ -1,3 +1,6 @@
+---
+title: advanced/spells/castigate
+---
  **Castigate**
 
 **School** enchantment (compulsion) [fear, language-dependent, mind-affecting]; **Level** inquisitor 2

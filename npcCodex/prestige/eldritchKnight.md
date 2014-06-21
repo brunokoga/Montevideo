@@ -1,3 +1,6 @@
+---
+title: npcCodex/prestige/eldritchKnight
+---
 # Eldritch Knights
 
 Queen of Staves CR 8

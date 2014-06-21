@@ -1,3 +1,6 @@
+---
+title: bestiary3/giant
+---
 # Giant, Ash
 
 Towering above a typical human, this misshapen giant's pale flesh is covered in purulent sores and bulbous tumors.

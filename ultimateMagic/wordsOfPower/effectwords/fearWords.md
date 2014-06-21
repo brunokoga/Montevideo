@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/fearWords
+---
 ## Fear Words
 
 These words conjure a primal terror in all that hear them.

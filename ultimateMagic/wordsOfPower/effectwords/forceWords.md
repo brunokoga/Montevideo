@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/forceWords
+---
 ## Force Words
 
 These words use raw magic to create pure force.

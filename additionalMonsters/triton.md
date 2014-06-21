@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/triton
+---
 # Triton
 
 This scaly, finned humanoid has an athletic build and blue-green coloration. Its legs end in wide flippers rather than feet.

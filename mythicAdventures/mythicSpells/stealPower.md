@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/stealPower
+---
 Steal Power
 
 **School** necromancy; **Level** cleric 5, sorcerer/wizard 5, witch 5

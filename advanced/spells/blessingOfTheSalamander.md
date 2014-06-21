@@ -1,3 +1,6 @@
+---
+title: advanced/spells/blessingOfTheSalamander
+---
  **Blessing of the Salamander**
 
 **School** transmutation (polymorph); **Level** druid 5, ranger 4

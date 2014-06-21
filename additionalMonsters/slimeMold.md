@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/slimeMold
+---
 # Slime Mold
 
 What at first seemed to be a carpet of fungi and mushrooms suddenly stirs to life, surging forward with a reek of decay.

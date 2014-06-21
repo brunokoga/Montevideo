@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/recoilFire
+---
 Recoil Fire
 
 **School** transmutation; **Level** sorcerer/wizard 2, witch 2

@@ -1,3 +1,6 @@
+---
+title: spells/discernLies
+---
  **Discern Lies**
 
 **School** divination; **Level** cleric 4, paladin 3

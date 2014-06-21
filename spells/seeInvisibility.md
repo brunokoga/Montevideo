@@ -1,3 +1,6 @@
+---
+title: spells/seeInvisibility
+---
  **See Invisibility**
 
 **School** divination; **Level** bard 3, sorcerer/wizard 2

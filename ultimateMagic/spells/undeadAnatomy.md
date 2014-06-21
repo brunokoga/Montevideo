@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/undeadAnatomy
+---
 Undead Anatomy I
 
 **School** transmutation (polymorph); **Level** alchemist 3, magus 3, sorcerer/wizard 3

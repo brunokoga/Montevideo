@@ -1,3 +1,6 @@
+---
+title: spells/symbolOfWeakness
+---
  **Symbol of Weakness**
 
 **School** necromancy; **Level** cleric 7, sorcerer/wizard 7

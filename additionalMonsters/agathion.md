@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/agathion
+---
 # Agathion
 
 Agathions are a race of beast-aspect outsiders native to the plane of Nirvana, a realm of pure good unconcerned with the dogma of law (represented by Heaven) or chaos (represented by Elysium). Though Nirvana is a place of rest where blessed souls seek enlightenment, agathions are aggressive and interventionist in the mortal world when it comes to dealing with evil. Created from the souls of good mortals who have managed to achieve the enlightenment they sought in life (or in some cases, after death), agathions embody the principles of a peaceable kingdom while marshaling their strength to defend that kingdom from any who would despoil it. Because they strike an ethical balance between the chaotic, fey-like azatas and the lawful, rigid process of the archons, agathions are often liaisons between the celestial races, soothing hot tempers and working toward mutual goals of vanquishing evil and protecting good.

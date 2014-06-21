@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/chaosHammer
+---
 Chaos Hammer
 
 **Source** [_chaos hammer_](spells/chaosHammer.md#_chaos-hammer)

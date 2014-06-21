@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/litanyOfEloquence
+---
 Litany of Eloquence
 
 **School** enchantment (charm) [language dependent, mind-affecting]; **Level** antipaladin 2, inquisitor 3, paladin 2

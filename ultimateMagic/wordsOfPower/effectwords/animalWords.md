@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/animalWords
+---
 ## Animal Words
 
 Words from this family speak directly to wild creatures, soothing and controlling them.

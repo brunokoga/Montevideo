@@ -1,3 +1,6 @@
+---
+title: monsters/ogre
+---
 # Ogre
 
 _This lumbering giant's beady eyes are devoid of wit or kindness, and its puffy face features a wide mouth with ill-fitting teeth._

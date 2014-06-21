@@ -1,3 +1,6 @@
+---
+title: advanced/spells/defileArmor
+---
  **Defile Armor**
 
 **School** abjuration [evil]; **Level** inquisitor 4, antipaladin 3

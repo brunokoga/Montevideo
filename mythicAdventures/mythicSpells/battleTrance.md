@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/battleTrance
+---
 Battle Trance
 
 **Source** [_battle trance_](advancedRaceGuide/coreRaces/halfOrcs.md#_battle-trance)

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/dustDigger
+---
 # Dust Digger
 
 A tremendous starfish-like creature emerges from the sand, its five long arms surrounding a circular toothy maw.

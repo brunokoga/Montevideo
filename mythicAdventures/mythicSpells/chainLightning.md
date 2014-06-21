@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/chainLightning
+---
 Chain Lightning
 
 **Source** [_chain lightning_](spells/chainLightning.md#_chain-lightning)

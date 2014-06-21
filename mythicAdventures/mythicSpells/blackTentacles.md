@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/blackTentacles
+---
 Black Tentacles
 
 **Source** [_black tentacles_](spells/blackTentacles.md#_black-tentacles)

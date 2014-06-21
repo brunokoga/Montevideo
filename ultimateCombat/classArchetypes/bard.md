@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/bard
+---
 # Bard
 
 The versatility of bards makes them threats in any battle. A combat-focused bard is a bit less of a jack-of-all-trades than others of his kind, but still backs up martial prowess with social skills and a healthy dose of arcane talent. Presented below are variant options for martially inclined bards.

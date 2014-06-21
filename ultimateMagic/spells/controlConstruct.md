@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/controlConstruct
+---
 Control Construct
 
 **School** transmutation; **Level** sorcerer/wizard 7

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/obscuringMist
+---
 Obscuring Mist
 
 **Source** [_obscuring mist_](spells/obscuringMist.md#_obscuring-mist)

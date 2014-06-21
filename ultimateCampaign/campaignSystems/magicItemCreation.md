@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/magicItemCreation
+---
 # Magic Item Creation
 
 If you have item creation feats (or access to those feats from cohorts or other NPCs), you might want to use time between adventures to craft magic items, either to create new items from scratch or add abilities to existing items. If the desired item is something out of the _Pathfinder RPG Core Rulebook_ and you have the appropriate feats, the GM's role is mainly to approve or disapprove the creation of the item (for example, if the GM has decided that the desired item is rare, requires exotic ingredients, or is illegal or forbidden where the downtime takes place). If there is a chance for you to accidentally create a cursed item by failing the skill check by 5 or more, the GM should roll the check in secret so you don't know whether or not the item is cursed.

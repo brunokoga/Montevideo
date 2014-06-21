@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/paladin
+---
 # Paladin
 
 While all paladins are true believers, not all are the knights in shining armor with glimmering blades portrayed in legends—some paladins prefer unconventional tactics and forms, and some are the dread antipaladins cloaked in veils of darkness, who can even walk the cursed path of undeath.

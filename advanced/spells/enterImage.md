@@ -1,3 +1,6 @@
+---
+title: advanced/spells/enterImage
+---
  **Enter Image**
 
 **School** transmutation; **Level** bard 2, cleric 3, sorcerer/wizard 3

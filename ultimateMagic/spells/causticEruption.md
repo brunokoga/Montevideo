@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/causticEruption
+---
 Caustic Eruption
 
 **School** conjuration (creation) [acid]; **Level** sorcerer/wizard 7

@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/hands
+---
 # Hands Slot Wondrous Items
 
 The hand slot consists of gauntlets, gloves, and other items that can be worn on the hands.

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/shareLanguage
+---
  **Share Language**
 
 **School** divination; **Level** bard 1, cleric 2, druid 2, sorcerer/wizard 2

@@ -1,3 +1,6 @@
+---
+title: bestiary3/rusalka
+---
 # Rusalka 
 
 This beguiling female figure is partly obscured by long flowing hair that dances and flows around her as if she were underwater.

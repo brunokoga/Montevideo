@@ -1,3 +1,6 @@
+---
+title: monsters/shark
+---
 # Shark
 
 _This blue shark's fins slice through the water, its black eyes rolling and its gaping jaws showing countless teeth._

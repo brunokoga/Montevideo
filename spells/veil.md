@@ -1,3 +1,6 @@
+---
+title: spells/veil
+---
  **Veil**
 
 **School** illusion (glamer); **Level** bard 6, sorcerer/wizard 6

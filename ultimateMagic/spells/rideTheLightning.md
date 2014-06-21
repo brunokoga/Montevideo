@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/rideTheLightning
+---
 Ride the Lightning
 
 **School** evocation [electricity]; **Level** sorcerer/wizard 9

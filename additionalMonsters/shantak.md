@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/shantak
+---
 # Shantak
 
 Larger than an elephant, this scaly, bird-like creature has a vaguely horse-like head and vast, slime-encrusted wings.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/barghest
+---
 # Barghest, Greater
 
 _An eerie green fire emerges from the obscenely large mouth of this strange humanoid combination of bat and wolf. _

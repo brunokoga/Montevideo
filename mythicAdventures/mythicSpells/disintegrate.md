@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/disintegrate
+---
 Disintegrate
 
 **Source** [_disintegrate_](spells/disintegrate.md#_disintegrate)

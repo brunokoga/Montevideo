@@ -1,3 +1,6 @@
+---
+title: advanced/spells/jesterSJaunt
+---
  **Jester's Jaunt**
 
 **School** conjuration (teleportation); **Level** bard 3

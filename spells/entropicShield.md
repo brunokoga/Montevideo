@@ -1,3 +1,6 @@
+---
+title: spells/entropicShield
+---
  **Entropic Shield**
 
 **School** abjuration; **Level** cleric 1

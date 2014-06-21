@@ -1,3 +1,6 @@
+---
+title: spells/unholyAura
+---
  **Unholy Aura**
 
 **School** abjuration [evil]; **Level** cleric 8

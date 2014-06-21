@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/litanyOfEntanglement
+---
 Litany of Entanglement
 
 **School** conjuration (calling) [language dependent]; **Level** antipaladin 2, inquisitor 3, paladin 2

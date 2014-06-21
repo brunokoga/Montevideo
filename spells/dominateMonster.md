@@ -1,3 +1,6 @@
+---
+title: spells/dominateMonster
+---
  **Dominate Monster**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 9

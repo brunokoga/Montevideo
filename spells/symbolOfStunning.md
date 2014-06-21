@@ -1,3 +1,6 @@
+---
+title: spells/symbolOfStunning
+---
  **Symbol of Stunning**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 7, sorcerer/wizard 7

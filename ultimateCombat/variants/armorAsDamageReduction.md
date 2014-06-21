@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/variants/armorAsDamageReduction
+---
 # Armor as Damage Reduction
 
 While the armor and Armor Class system presented in the Pathfinder Roleplaying Game is tried and tested, some players may yet have a sense that it feels slightly off. That is to say, if a suit of armor is actually protecting the wearer from attacks that strike but simply fail to cause the wearer harm, why then do we say that armor reduces the chance of a hit? The abstraction has been clarified in the rules by defining what it means to be “hit” in combat as actually being “hit in such a way as to effectively cause harm,” but this explanation is still not enough for some players.

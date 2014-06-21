@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/hydraulicPush
+---
 Hydraulic Push
 
 **Source** [_hydraulic push_](advanced/spells/hydraulicPush.md#_hydraulic-push-)

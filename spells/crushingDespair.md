@@ -1,3 +1,6 @@
+---
+title: spells/crushingDespair
+---
  **Crushing Despair**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, sorcerer/wizard 4

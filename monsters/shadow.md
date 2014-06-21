@@ -1,3 +1,6 @@
+---
+title: monsters/shadow
+---
 # Shadow
 
 _Barely seen out of the corner of the eye, this wisp of [shadow](../magicItems/armor.md#_armor-shadow) is vaguely humanoid in outline and writhes with unholy life._

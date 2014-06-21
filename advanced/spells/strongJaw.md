@@ -1,3 +1,6 @@
+---
+title: advanced/spells/strongJaw
+---
  **Strong Jaw**
 
 **School** transmutation; **Level** druid 4, ranger 3

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/mirrorStrike
+---
 Mirror Strike
 
 **School** transmutation; **Level** magus 1, sorcerer/wizard 1

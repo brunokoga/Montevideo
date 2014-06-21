@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/illusionOfCalm
+---
 Illusion of Calm
 
 **School** illusion (figment); **Level** alchemist 1, magus 1, sorcerer/wizard 1

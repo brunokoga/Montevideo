@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/siren
+---
 # Siren
 
 This creature has the body of a hawk and the head of a beautiful woman with long, shining hair.

@@ -1,3 +1,6 @@
+---
+title: spells/rustingGrasp
+---
  **Rusting Grasp**
 
 **School** transmutation; **Level** druid 4

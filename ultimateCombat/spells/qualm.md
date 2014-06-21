@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/qualm
+---
 Qualm
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, inquisitor 2, sorcerer/wizard 2, witch 2

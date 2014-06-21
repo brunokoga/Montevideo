@@ -1,3 +1,6 @@
+---
+title: advanced/spells/tirelessPursuit
+---
  **Tireless Pursuit**
 
 **School** transmutation; **Level** inquisitor 1, ranger 1

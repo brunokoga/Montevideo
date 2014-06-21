@@ -1,3 +1,6 @@
+---
+title: spells/legendLore
+---
  **Legend Lore**
 
 **School** divination; **Level** bard 4, sorcerer/wizard 6

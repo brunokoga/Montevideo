@@ -1,3 +1,6 @@
+---
+title: spells/speakWithDead
+---
  **Speak with Dead**
 
 **School** necromancy [language-dependent]; **Level** cleric 3

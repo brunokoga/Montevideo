@@ -1,3 +1,6 @@
+---
+title: spells/creepingDoom
+---
  **Creeping Doom**
 
 **School** conjuration (summoning); **Level** druid 7

@@ -1,3 +1,6 @@
+---
+title: spells/wavesOfFatigue
+---
  **Waves of Fatigue**
 
 **School** necromancy; **Level** sorcerer/wizard 5

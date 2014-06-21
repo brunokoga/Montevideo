@@ -1,3 +1,6 @@
+---
+title: bestiary3/shae
+---
 # Shae
 
 A white porcelain mask and elegant white clothing provide form and contrast to this shadowy woman's body.

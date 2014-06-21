@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/merrow
+---
 # Merrow
 
 This giant has pale green, scaled skin and large, webbed hands and feet. On either side of its neck are slotted gills.

@@ -1,3 +1,6 @@
+---
+title: bestiary3/terraCottaSoldier
+---
 # Terra-Cotta Soldier
 
 This perfectly sculpted, finely detailed, life-sized clay figure has a look of fierce determination and a sword clenched in each hand.

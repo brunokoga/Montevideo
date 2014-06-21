@@ -1,3 +1,6 @@
+---
+title: monsters/eel
+---
 # Eel, Electric
 
 _This six-foot-long, snake-like fish moves slowly. A strange popping and snapping sound occasionally emits from the creature's body._

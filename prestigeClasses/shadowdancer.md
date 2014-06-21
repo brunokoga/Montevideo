@@ -1,3 +1,6 @@
+---
+title: prestigeClasses/shadowdancer
+---
 # Shadowdancer
 
 Civilized folk have always feared the night, barring themselves behind doors or comforting themselves with bonfires when the shadows grow long, rightfully wary of the creatures that prowl the darkness. Yet long ago, some learned that the best way to conquer an enemy is to embrace it. These were the first shadowdancers.

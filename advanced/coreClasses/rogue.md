@@ -1,3 +1,6 @@
+---
+title: advanced/coreClasses/rogue
+---
 # Rogue
 
 By their nature, rogues are varied and versatile. There are rogues who haunt the city, those who stalk the forest, and those who serve as agents of law. Wherever there is space for someone to make her mark with agility and wit, the rogue is there, using her wide range of skills and abilities to make a place for herself, whether openly or through cunning and subterfuge. And where a rogue's natural cunning and quick thinking aren't enough to win the day, well—there's always the option of a knife in the back.

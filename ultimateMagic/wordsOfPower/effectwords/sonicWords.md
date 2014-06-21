@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/sonicWords
+---
 ## Sonic Words
 
 Sonic words utilize sound to deafen and damage those that hear them.

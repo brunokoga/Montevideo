@@ -1,3 +1,6 @@
+---
+title: advanced/advancedMagicItems
+---
 [Armor](magicItems/armor.md)  
  [Weapons](magicItems/weapons.md)  
  [Rings](magicItems/rings.md)  

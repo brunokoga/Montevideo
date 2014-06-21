@@ -1,3 +1,6 @@
+---
+title: monsters/crocodile
+---
 # Crocodile
 
 _This reptile lunges out of the placid water with shocking speed. Its jaw gapes open in a roar, its powerful tail lashing behind._

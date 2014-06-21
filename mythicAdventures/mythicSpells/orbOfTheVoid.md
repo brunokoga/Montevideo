@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/orbOfTheVoid
+---
 Orb of the Void
 
 **Source** [_orb of the void_](ultimateMagic/spells/orbOfTheVoid.md#_orb-of-the-void)

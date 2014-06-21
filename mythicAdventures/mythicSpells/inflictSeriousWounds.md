@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/inflictSeriousWounds
+---
 Inflict Serious Wounds
 
 **Source** [_inflict serious wounds_](spells/inflictSeriousWounds.md#_inflict-serious-wounds)

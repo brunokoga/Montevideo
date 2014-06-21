@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/yrthak
+---
 # Yrthak
 
 This flying reptile has large, leathery wings and a vibrantly colored crest on its horned, narrow-snouted head.

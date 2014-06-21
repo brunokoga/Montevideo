@@ -1,3 +1,6 @@
+---
+title: bestiary3/asura
+---
 # Asura
 
 Asuras are immortal beings whose origins are rooted in rejection and destruction. They are manifestations of divine accident, living blasphemies risen from mistakes made by the gods themselves. Given horrible life through these unspeakable divine errors, the asuras seek to sow doubt among mortals and ultimately revenge themselves upon the gods for their accursed existences.

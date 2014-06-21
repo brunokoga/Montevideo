@@ -1,3 +1,6 @@
+---
+title: bestiary3/familiar
+---
 # Small Familiars
 
 Small familiars threaten the areas around them like Small creatures, and can be used to flank enemies, though both familiars and their masters are often loath to use such tactics, as the result is often a dead familiar. Small familiars are also harder to keep on a master's person than Tiny or smaller familiars. Often they require some form of magic item, like a _ [bag of holding](magicItems/wondrousItems.md#_bag-of-holding)_, to remain truly out of sight.

@@ -1,3 +1,6 @@
+---
+title: monsters/chuul
+---
 # Chuul
 
 _This lobster-like creature has a thick armored shell. A pair of tiny eyes gleams above a mouth full of writhing tentacles._

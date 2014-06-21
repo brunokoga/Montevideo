@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/sunbeam
+---
 Sunbeam
 
 **Source** [_sunbeam_](spells/sunbeam.md#_sunbeam)

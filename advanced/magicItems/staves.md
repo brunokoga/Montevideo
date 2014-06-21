@@ -1,3 +1,6 @@
+---
+title: advanced/magicItems/staves
+---
 # Staves
 
 [Table: Staves]

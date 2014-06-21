@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/gryph
+---
 # Gryph
 
 This hawk-sized avian looks much like a six-legged stork. Its feathers are unkempt and greasy, and its beak is razor-sharp.

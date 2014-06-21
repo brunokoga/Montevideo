@@ -1,3 +1,6 @@
+---
+title: spells/iceStorm
+---
  **Ice Storm**
 
 **School** evocation [cold]; **Level** druid 4, sorcerer/wizard 4

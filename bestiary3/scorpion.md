@@ -1,3 +1,6 @@
+---
+title: bestiary3/scorpion
+---
 # Scorpion, Deadfall
 
 Thick sheets of moss and other forest debris cling to the dark green carapace of this huge scorpion.

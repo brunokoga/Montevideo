@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/criminalsI
+---
 # Criminals I
 
 The lowest criminals haunt the alleys and slums of even the proudest cities. Slinking from their dives and basement lairs to prey upon the weak and unwary, they take what they can, making meager livings that only afford them the opportunity to go on living their violent lives, while ever hoping to make a big score. These lesser criminals often organize into gangs or, under a more influential leader, into whole guilds, becoming significantly more dangerous and daring then they ever could be alone.

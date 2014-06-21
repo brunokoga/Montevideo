@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/viperVine
+---
 # Viper Vine
 
 Large tendrils ending in tiny claws unfurl from the central stalk of this plant, which rises like a serpent ready to strike.

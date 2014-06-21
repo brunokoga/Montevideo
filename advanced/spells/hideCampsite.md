@@ -1,3 +1,6 @@
+---
+title: advanced/spells/hideCampsite
+---
  **Hide Campsite**
 
 **School** illusion (glamer); **Level** druid 3, ranger 2

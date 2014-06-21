@@ -1,3 +1,6 @@
+---
+title: spells/protectionFromChaos
+---
  **Protection from Chaos**
 
 **School** abjuration [lawful]; **Level** cleric 1, paladin 1, sorcerer/wizard 1

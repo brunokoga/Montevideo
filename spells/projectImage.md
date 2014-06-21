@@ -1,3 +1,6 @@
+---
+title: spells/projectImage
+---
  **Project Image**
 
 **School** illusion (shadow); **Level** bard 6, sorcerer/wizard 7

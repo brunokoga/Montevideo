@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/distressingTone
+---
 Distressing Tone
 
 **School** evocation [sonic]; **Level** bard 2, inquisitor 2

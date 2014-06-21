@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/deathKnell
+---
 Death Knell
 
 **Source** [_death knell_](spells/deathKnell.md#_death-knell)

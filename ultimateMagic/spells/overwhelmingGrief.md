@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/overwhelmingGrief
+---
 Overwhelming Grief
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, sorcerer/wizard 4

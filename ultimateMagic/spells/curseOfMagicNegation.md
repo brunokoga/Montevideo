@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/curseOfMagicNegation
+---
 Curse of Magic Negation
 
 **School** abjuration [curse]; **Level** cleric 5, inquisitor 4, sorcerer/wizard 4, witch 4

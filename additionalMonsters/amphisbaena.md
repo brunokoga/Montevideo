@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/amphisbaena
+---
 # Amphisbaena
 
 This large snake has two heads, one at each end of its long, coiling body. Both display large sets of fangs.

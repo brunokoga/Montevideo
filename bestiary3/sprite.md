@@ -1,3 +1,6 @@
+---
+title: bestiary3/sprite
+---
 # Sprite
 
 This lithe, diminutive creature looks like a humanoid with wispy, mothlike wings and long, thin ears.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/symbolOfRevelation
+---
 Symbol of Revelation
 
 **School** divination; **Level** cleric 4, sorcerer/wizard 4, witch 4

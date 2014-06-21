@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/wreathOfBlades
+---
 Wreath of Blades
 
 **School** abjuration; **Level** magus 4, sorcerer/wizard 5, summoner 5, witch 5

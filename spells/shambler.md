@@ -1,3 +1,6 @@
+---
+title: spells/shambler
+---
  **Shambler**
 
 **School** conjuration (creation); **Level** druid 9

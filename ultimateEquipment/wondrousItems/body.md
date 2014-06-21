@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/body
+---
 # Body Slot Wondrous Items
 
 The body slot consists of robes, vestments, and items that can be worn on or around the body.

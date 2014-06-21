@@ -1,3 +1,6 @@
+---
+title: spells/delayedBlastFireball
+---
  **Delayed Blast Fireball**
 
 **School** evocation [fire]; **Level** sorcerer/wizard 7

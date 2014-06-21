@@ -1,3 +1,6 @@
+---
+title: advanced/spells/suffocation
+---
  **Suffocation**
 
 **School** necromancy; **Level** sorcerer/wizard 5, witch 5

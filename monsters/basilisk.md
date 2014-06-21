@@ -1,3 +1,6 @@
+---
+title: monsters/basilisk
+---
 # Basilisk
 
 _This squat, reptilian monster has eight legs, bony spurs jutting from its back, and eyes that glow with pale green fire. _

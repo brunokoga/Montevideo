@@ -1,3 +1,6 @@
+---
+title: advanced/spells/thunderingDrums
+---
  **Thundering Drums**
 
 **School** evocation [sonic]; **Level** bard 3

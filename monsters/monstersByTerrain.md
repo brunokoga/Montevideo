@@ -1,3 +1,6 @@
+---
+title: monsters/monstersByTerrain
+---
 # Monsters by Terrain
 
 The following lists group all of the monsters in this book into their respective terrains. Note that there can be a certain amount of crossover on these lists, especially between climate bands, similar terrains, or a planar terrain and the Materal Plane. For example, although behirs are normally encountered in warm deserts, it's certainly possible to encounter one in a temperate desert (but much less likely to find one in a cold desert). Likewise, while bulettes usually limit their hunts to hilly terrain, it wouldn't be unusual to find one in the mountains or even on a plain. Creatures listed under planar terrains can usually be encountered anywhere on the Material Plane as well, but are only very rarely encountered on planes other than the one associated with them. In short, use these lists as a guide, not as shackles—if your adventure works better with a sphinx encountered in a cold forest, by all means, go for it! Just keep in mind that you should also probably come up with an in-game reason to explain the monster's presence there.

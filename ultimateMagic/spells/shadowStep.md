@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/shadowStep
+---
 Shadow Step
 
 **School** illusion (shadow) [shadow]; **Level** bard 4, sorcerer/wizard 4, witch 4

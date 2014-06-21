@@ -1,3 +1,6 @@
+---
+title: monsters/stirge
+---
 # Stirge
 
 _This insectoid creature has two pairs of bat wings, a tangle of thin legs, and a needle-sharp proboscis._

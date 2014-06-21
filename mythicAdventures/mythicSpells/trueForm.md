@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/trueForm
+---
 True Form
 
 **Source** [_true form_](advanced/spells/trueForm.md#_true-form)

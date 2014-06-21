@@ -1,3 +1,6 @@
+---
+title: spells/protectionFromSpells
+---
  **Protection from Spells**
 
 **School** abjuration; **Level** sorcerer/wizard 8

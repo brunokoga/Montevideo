@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/solidFog
+---
 Solid Fog
 
 **Source** [_solid fog_](spells/solidFog.md#_solid-fog)

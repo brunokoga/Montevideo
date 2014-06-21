@@ -1,3 +1,6 @@
+---
+title: advanced/spells/twinForm
+---
  **Twin Form**
 
 **School** transmutation; **Level** alchemist 6

@@ -1,3 +1,6 @@
+---
+title: spells/protectionFromEvil
+---
  **Protection from Evil**
 
 **School** abjuration [good]; **Level** cleric 1, paladin 1, sorcerer/wizard 1

@@ -1,3 +1,6 @@
+---
+title: bestiary3/ikuTurso
+---
 # Iku-Turso
 
 This grotesque, emerald-scaled creature resembles a crossbreed of an eel, a viperfish, and a clawed humanoid.

@@ -1,3 +1,6 @@
+---
+title: spells/hideFromAnimals
+---
  **Hide from Animals**
 
 **School** abjuration; **Level** druid 1, ranger 1

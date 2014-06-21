@@ -1,3 +1,6 @@
+---
+title: spells/deathWard
+---
  **Death Ward**
 
 **School** necromancy; **Level** cleric 4, druid 5, paladin 4

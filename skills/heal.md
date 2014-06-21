@@ -1,3 +1,6 @@
+---
+title: skills/heal
+---
 # Heal
 
 ## ( [Wis](../gettingStarted.md#_wisdom))

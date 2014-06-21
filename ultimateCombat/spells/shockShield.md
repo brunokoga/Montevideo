@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/shockShield
+---
 Shock Shield
 
 **School** abjuration [electricity, force]; **Level** alchemist 1, magus 1, sorcerer/wizard 1

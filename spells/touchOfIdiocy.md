@@ -1,3 +1,6 @@
+---
+title: spells/touchOfIdiocy
+---
  **Touch of Idiocy**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 2

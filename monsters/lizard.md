@@ -1,3 +1,6 @@
+---
+title: monsters/lizard
+---
 # Lizard, Monitor
 
 _This immense lizard moves with a slow but relentless gait. Its feet end in large talons, and ropes of drool hang from its toothy maw._

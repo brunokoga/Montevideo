@@ -1,3 +1,6 @@
+---
+title: spells/endureElements
+---
  **Endure Elements**
 
 **School** abjuration; **Level** cleric 1, druid 1, paladin 1, ranger 1, sorcerer/wizard 1

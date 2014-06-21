@@ -1,3 +1,6 @@
+---
+title: spells/arcaneLock
+---
  **Arcane Lock**
 
 **School** abjuration; **Level** sorcerer/wizard 2

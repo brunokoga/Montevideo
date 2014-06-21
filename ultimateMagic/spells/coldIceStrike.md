@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/coldIceStrike
+---
 Cold Ice Strike
 
 **School** evocation [cold]; **Level** cleric 6, sorcerer/wizard 6

@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/marauders
+---
 # Marauders
 
 Raiders and bloodthirsty savages who prey upon the fringes of empires, marauders view themselves as the unbridled lords of land and sea. From horseback, grim vessels, or on foot, these deadly warriors strike back against the encroachments of law and civilization, wresting food, wealth, and whatever other spoils they please from proud or unwary victims. Many marauders find themselves spearheading a clash between cultures, a conflict not pursued for evil reasons but due to misunderstandings, expanding borders, or dwindling resources, and they refuse to stand down without a fight.

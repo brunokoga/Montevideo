@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/bloodTranscription
+---
 Blood Transcription
 
 **School** divination [evil]; **Level** alchemist 2, magus 2, wizard 2, witch 2

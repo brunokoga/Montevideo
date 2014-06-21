@@ -1,3 +1,6 @@
+---
+title: advanced/spells/elementalTouch
+---
  **Elemental Touch**
 
 **School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 2, sorcerer/wizard 2

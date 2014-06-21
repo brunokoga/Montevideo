@@ -1,3 +1,6 @@
+---
+title: advanced/advancedBaseClasses
+---
 # Base Classes
 
 While most common folk have shared ale with a fighter or perhaps even seen a wizard perform an awesome act of magic, these are not the only adventurers known to legends and history. The following character classes present new options for players and greater variety for a Game Master's cast of nonplayer characters.

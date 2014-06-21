@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/maggot
+---
 # Maggot, Giant
 
 This enormous maggot has greasy, pale flesh and a dripping, circular mouth filled with tiny, sharp teeth.

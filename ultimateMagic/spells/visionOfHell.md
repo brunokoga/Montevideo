@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/visionOfHell
+---
 Vision of Hell
 
 **School** illusion (glamer) [evil, fear]; **Level** bard 3, cleric 3, sorcerer/wizard 3, witch 3

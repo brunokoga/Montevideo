@@ -1,3 +1,6 @@
+---
+title: skills/survival
+---
 # Survival
 
 ## ( [Wis](../gettingStarted.md#_wisdom))

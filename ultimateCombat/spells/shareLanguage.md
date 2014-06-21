@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/shareLanguage
+---
 Share Language, Communal
 
 **Level** bard 2, cleric 3, druid 3, sorcerer/wizard 3

@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/fightingSchool
+---
 # Fighting School
 
 Favoring students with strong arms and disciplined souls, fighting schools pass on secrets of martial finesse to those with the talent and ability to be trained. Whether taking the form of monasteries hidden high in misty mountains or underground fighting pits secreted beneath city streets, fighting schools hone their students into living weapons. While many fighting schools focus on exotic martial arts, some students learn their skills from the brutality of the streets, the ways of beasts, or the techniques of long-dead warrior sages.

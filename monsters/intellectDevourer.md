@@ -1,3 +1,6 @@
+---
+title: monsters/intellectDevourer
+---
 # Intellect Devourer
 
 _Devoid of a head, or any features at all save for four short, clawed legs, this creature's body looks like a large, glistening brain._

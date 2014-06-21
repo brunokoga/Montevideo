@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/holyIce
+---
 Holy Ice
 
 **School** transmutation [cold, good, water]; **Level** cleric 5

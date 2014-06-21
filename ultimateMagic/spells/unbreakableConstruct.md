@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/unbreakableConstruct
+---
 Unbreakable Construct
 
 **School** abjuration; **Level** sorcerer/wizard 5

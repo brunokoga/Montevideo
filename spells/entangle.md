@@ -1,3 +1,6 @@
+---
+title: spells/entangle
+---
  **Entangle**
 
 **School** transmutation; **Level** druid 1, ranger 1

@@ -1,3 +1,6 @@
+---
+title: spells/mnemonicEnhancer
+---
  **Mnemonic Enhancer**
 
 **School** transmutation; **Level** wizard 4

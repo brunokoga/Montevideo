@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/joyfulRapture
+---
 Joyful Rapture
 
 **School** conjuration (healing) [emotion]; **Level** bard 5, cleric 6, sorcerer/wizard 7

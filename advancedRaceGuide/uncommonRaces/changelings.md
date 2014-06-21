@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/uncommonRaces/changelings
+---
 # Changelings
 
 Changelings are the offspring of hags and their lovers taken through magic or madness. Dropped off on doorsteps of prospective foster parents, changelings are raised by strangers. Typically tall, slender, dark haired, and attractive, changelings otherwise resemble their fathers' race. They are always female, and their mismatched colored eyes and abnormally pale skin hint at their true heritage. At puberty, changelings receive "the call," a hypnotic spiritual voice that beckons them to travel and discover their true origins. Changelings who ignore this call choose their own destiny; those who heed it discover their "mother" and may come into great power by transforming into hags themselves.

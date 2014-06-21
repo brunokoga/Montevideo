@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/hauntingMists
+---
 Haunting Mists
 
 **School** illusion (figment) [fear, shadow]; **Level** bard 2, sorcerer/wizard 2, witch 2

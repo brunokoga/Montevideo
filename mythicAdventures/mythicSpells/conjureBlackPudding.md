@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/conjureBlackPudding
+---
 Conjure Black Pudding
 
 **Source** [_conjure black pudding_](ultimateMagic/spells/conjureBlackPudding.md#_conjure-black-pudding)

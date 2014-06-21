@@ -1,3 +1,6 @@
+---
+title: advanced/spells/scentTrail
+---
  **Scent Trail**
 
 **School** transmutation; **Level** druid 2

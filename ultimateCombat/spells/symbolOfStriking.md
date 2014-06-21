@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/symbolOfStriking
+---
 Symbol of Striking
 
 **School** illusion (shadow); **Level** cleric 5, magus 5, sorcerer/wizard 5, witch 5

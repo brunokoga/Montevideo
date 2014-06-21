@@ -1,3 +1,6 @@
+---
+title: spells/disintegrate
+---
  **Disintegrate**
 
 **School** transmutation; **Level** sorcerer/wizard 6

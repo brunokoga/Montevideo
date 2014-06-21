@@ -1,3 +1,6 @@
+---
+title: spells/charmMonster
+---
  **Charm Monster**
 
 **School** enchantment (charm) [mind-affecting]; **Level** bard 3, sorcerer/wizard 4

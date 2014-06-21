@@ -1,3 +1,6 @@
+---
+title: spells/knowDirection
+---
  **Know Direction**
 
 **School** divination; **Level** bard 0, druid 0

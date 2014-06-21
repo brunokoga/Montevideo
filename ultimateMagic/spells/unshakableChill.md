@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/unshakableChill
+---
 Unshakable Chill
 
 **School** necromancy [cold]; **Level** druid 2, sorcerer/wizard 2, witch 2

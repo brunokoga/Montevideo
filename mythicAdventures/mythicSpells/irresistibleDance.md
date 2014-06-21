@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/irresistibleDance
+---
 Irresistible Dance
 
 **Source** [_irresistible dance_](spells/irresistibleDance.md#_irresistible-dance)

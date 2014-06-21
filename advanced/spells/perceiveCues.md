@@ -1,3 +1,6 @@
+---
+title: advanced/spells/perceiveCues
+---
  **Perceive Cues**
 
 **School** transmutation; **Level** alchemist 2, inquisitor 2, ranger 2, witch 2

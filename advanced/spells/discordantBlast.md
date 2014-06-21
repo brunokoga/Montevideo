@@ -1,3 +1,6 @@
+---
+title: advanced/spells/discordantBlast
+---
  **Discordant Blast**
 
 **School** evocation [sonic]; **Level** bard 4

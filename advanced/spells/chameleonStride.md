@@ -1,3 +1,6 @@
+---
+title: advanced/spells/chameleonStride
+---
  **Chameleon Stride**
 
 **School** illusion (glamer); **Level** ranger 2

@@ -1,3 +1,6 @@
+---
+title: spells/waterBreathing
+---
  **Water Breathing**
 
 **School** transmutation; **Level** cleric 3, druid 3, sorcerer/wizard 3

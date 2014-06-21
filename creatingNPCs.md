@@ -1,3 +1,6 @@
+---
+title: creatingNPCs
+---
 # Creating NPCs
 
 The world that the player characters inhabit should be full of rich and vibrant characters with whom they can interact. While most need little more than names and general descriptions, some require complete statistics, such as town guards, local clerics, and wizened sages. The PCs might find themselves in combat with these characters, either against them or as allies. Alternatively the PCs might find themselves relying on the skills and abilities of the NPCs. In either case, the process for creating these NPCs can be performed in seven simple steps.

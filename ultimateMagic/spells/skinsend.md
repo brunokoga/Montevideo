@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/skinsend
+---
 Skinsend
 
 **School** necromancy; **Level** alchemist 2, sorcerer/wizard 2, witch 2

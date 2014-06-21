@@ -1,3 +1,6 @@
+---
+title: magicItems/artifacts
+---
 # Artifacts
 
 Artifacts are extremely powerful. Rather than merely another form of magical equipment, they are the sorts of legendary relics that whole campaigns can be based on. Each could be the center of a whole set of adventures—a quest to recover it, a fight against an opponent wielding it, a mission to cause its destruction, and so on.

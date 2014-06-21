@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/unholySword
+---
 Unholy Sword
 
 **School** evocation [evil]; **Level** antipaladin 4

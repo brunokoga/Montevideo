@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/tendriculos
+---
 # Tendriculos
 
 This plant's thick trunk is capped by a crown of wide leaves, whipping vines, mushrooms, and a ravenous purple maw.

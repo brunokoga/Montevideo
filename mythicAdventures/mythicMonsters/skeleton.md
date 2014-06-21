@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/skeleton
+---
 # Skeleton
 
 _Its eyes glowing like bluish-white flames amid the shadows of its kingly helm, this skeleton wields two fearsome scimitars. _

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/stoneskin
+---
 Stoneskin, Communal
 
 **Level** alchemist 5, druid 6, inquisitor 5, sorcerer/wizard 5, summoner 4

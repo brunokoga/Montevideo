@@ -1,3 +1,6 @@
+---
+title: spells/regenerate
+---
  **Regenerate**
 
 **School** conjuration (healing); **Level** cleric 7, druid 9

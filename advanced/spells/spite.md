@@ -1,3 +1,6 @@
+---
+title: advanced/spells/spite
+---
  **Spite**
 
 **School** abjuration; **Level** witch 4

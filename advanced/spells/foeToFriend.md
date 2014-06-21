@@ -1,3 +1,6 @@
+---
+title: advanced/spells/foeToFriend
+---
  **Foe to Friend**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 5

@@ -1,3 +1,6 @@
+---
+title: spells/makeWhole
+---
  **Make Whole**
 
 **School** transmutation; **Level** cleric 2, sorcerer/wizard 2

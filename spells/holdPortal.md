@@ -1,3 +1,6 @@
+---
+title: spells/holdPortal
+---
  **Hold Portal**
 
 **School** abjuration; **Level** sorcerer/wizard 1

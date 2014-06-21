@@ -1,3 +1,6 @@
+---
+title: spells/holdPerson
+---
  **Hold Person**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, cleric 2, sorcerer/wizard 3

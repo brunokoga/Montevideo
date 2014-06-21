@@ -1,3 +1,6 @@
+---
+title: bestiary3/paleStranger
+---
 # Pale Stranger
 
 This nearly skeletal figure wields a pistol in each hand. Its garb is dusty and weathered, and smells of old decay.

@@ -1,3 +1,6 @@
+---
+title: spells/screen
+---
  **Screen**
 
 **School** illusion (glamer); **Level** sorcerer/wizard 8

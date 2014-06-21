@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/summonFroghemoth
+---
 Summon Froghemoth
 
 **School** conjuration (summoning); **Level** druid 9

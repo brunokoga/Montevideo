@@ -1,3 +1,6 @@
+---
+title: spells/markOfJustice
+---
  **Mark of Justice**
 
 **School** necromancy; **Level** cleric 5, paladin 4

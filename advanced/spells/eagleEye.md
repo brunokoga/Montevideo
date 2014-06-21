@@ -1,3 +1,6 @@
+---
+title: advanced/spells/eagleEye
+---
  **Eagle Eye**
 
 **School** divination; **Level** druid 2, ranger 2

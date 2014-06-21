@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/dullahan
+---
 # Dullahan
 
 Clad in ragged black robes and tarnished armor, this grim, headless rider is surrounded by an aura of menace.

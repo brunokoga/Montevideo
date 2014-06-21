@@ -1,3 +1,6 @@
+---
+title: bestiary3/adaro
+---
 # Adaro
 
 This hybrid of human and shark holds its spear menacingly, thick, glistening saliva dripping from its razor-sharp teeth.

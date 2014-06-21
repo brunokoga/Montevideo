@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/nehThalggu
+---
 # Neh-Thalggu
 
 This crab-like nightmare has a lamprey mouth, twitching eyes on its legs, and several blisters along its back that hold human brains.

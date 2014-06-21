@@ -1,3 +1,6 @@
+---
+title: bestiary3/archon
+---
 # Archon, Harbinger
 
 What appears to be a miniaturized orrery zips through the air, with thin, sharp blades flashing periodically from within.

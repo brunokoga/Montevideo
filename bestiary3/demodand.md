@@ -1,3 +1,6 @@
+---
+title: bestiary3/demodand
+---
 # Demodand
 
 In an ancient war forgotten by most mortals, the thanatotic titans rose up against the gods in a horrific war. When the titans who launched this war were defeated, the gods banished them to the Abyss for eternity, where the gods hoped the titans' immense power would be contained. For millennia, the exiled titans seethed and brooded, convinced that only they were truly worthy of the adulation and worship of mortals—the bitter seed that had grown into their rebellion. This festering hatred mixed with arrogance led the thanatotic titans to create their own race of worshipers. They kneaded together the dark earth and polluted waters of the Abyss into clay the color of a starless night. The greatest of their sculptors and lifeshapers sculpted the clay into humanoid likenesses of themselves, the size of men but more comely, with proud visages, great draconic wings, and chiseled frames. Then the creators cut themselves and let their own blood flow into the empty shells of their creations, and let their own breath act as bellows, pumping blood and air into the sculpted figures to awaken them. Deeming their own powers to be deific, the titans reasoned that they could craft life and existence as well as the old gods. They were wrong.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/hydraulicTorrent
+---
 Hydraulic Torrent
 
 **Source** [_hydraulic torrent_](advanced/spells/hydraulicTorrent.md#_hydraulic-torrent-)

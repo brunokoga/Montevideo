@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/head
+---
 # Head Slot Wondrous Items
 
 The head slot consists of caps, circlets, crowns, halos, hats, helms, hoods, laurels, masks, veils, wigs, and other non-headband slot items that can be worn on the head.

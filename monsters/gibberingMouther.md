@@ -1,3 +1,6 @@
+---
+title: monsters/gibberingMouther
+---
 # Gibbering Mouther
 
 _This horrid mass of eyes, mouths, and formless flesh stares in all directions, its countless maws yammering ceaselessly._

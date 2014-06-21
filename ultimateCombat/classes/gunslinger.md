@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classes/gunslinger
+---
 # The Gunslinger
 
 For a renegade few, battle sounds different than it does for the typical fighter. The clash of steel and the sizzle of spell energy are drowned out by the thunderous rhythm of gunfire—the pounding beat of the gunslinger.

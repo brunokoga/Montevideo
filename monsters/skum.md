@@ -1,3 +1,6 @@
+---
+title: monsters/skum
+---
 # Skum
 
 _This hunchbacked, green-skinned humanoid has a wide, frog-like head but a mouth more akin to that of a toothy fish._

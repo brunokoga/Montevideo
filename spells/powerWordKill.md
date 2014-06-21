@@ -1,3 +1,6 @@
+---
+title: spells/powerWordKill
+---
  **Power Word Kill**
 
 **School** enchantment (compulsion) [death, mind-affecting]; **Level** sorcerer/wizard 9

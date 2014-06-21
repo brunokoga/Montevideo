@@ -1,3 +1,6 @@
+---
+title: spells/rayOfEnfeeblement
+---
  **Ray of Enfeeblement**
 
 **School** necromancy; **Level** sorcerer/wizard 1

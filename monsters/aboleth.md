@@ -1,3 +1,6 @@
+---
+title: monsters/aboleth
+---
 # Aboleth
 
 _Four long tentacles writhe from this three-eyed fish-like creature's flanks, and its green body glistens with thick, clear slime._

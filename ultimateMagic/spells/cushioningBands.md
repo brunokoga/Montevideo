@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/cushioningBands
+---
 Cushioning Bands
 
 **School** conjuration (creation) [force]; **Level** sorcerer/wizard 2, summoner 2

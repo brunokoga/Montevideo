@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/arcanaTheft
+---
 Arcana Theft
 
 **School** abjuration; **Level** magus 4

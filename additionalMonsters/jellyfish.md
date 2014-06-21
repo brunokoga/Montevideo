@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/jellyfish
+---
 # Jellyfish, Giant
 
 The bell of this enormous amber jellyfish is as large as a carriage. A sinister bloom of tentacles dangles and writhes below.

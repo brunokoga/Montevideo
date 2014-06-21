@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/walkThroughSpace
+---
 Walk through Space
 
 **School** conjuration (teleportation); **Level** alchemist 6, magus 6, sorcerer/wizard 7, summoner 6, witch 7

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/archonSAura
+---
 Archon's Aura
 
 **School** evocation [good, lawful]; **Level** cleric 3, paladin 3

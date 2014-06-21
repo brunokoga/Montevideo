@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/companionMindLink
+---
 Companion Mind Link
 
 **Source** [_companion mind link_](ultimateCombat/spells/companionMindLink.md#_companion-mind-link)

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/anthropomorphicAnimal
+---
 Anthropomorphic Animal
 
 **School** transmutation (polymorph); **Level** druid 3, sorcerer/wizard 3, witch 3

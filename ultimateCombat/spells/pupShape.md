@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/pupShape
+---
 Pup Shape
 
 **School** transmutation (polymorph); **Level** druid 3, sorcerer/wizard 3, witch 3

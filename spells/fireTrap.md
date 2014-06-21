@@ -1,3 +1,6 @@
+---
+title: spells/fireTrap
+---
  **Fire Trap**
 
 **School** abjuration [fire]; **Level** druid 2, sorcerer/wizard 4

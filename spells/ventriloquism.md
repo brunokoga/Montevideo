@@ -1,3 +1,6 @@
+---
+title: spells/ventriloquism
+---
  **Ventriloquism**
 
 **School** illusion (figment); **Level** bard 1, sorcerer/wizard 1

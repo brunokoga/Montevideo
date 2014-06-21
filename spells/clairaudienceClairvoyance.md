@@ -1,3 +1,6 @@
+---
+title: spells/clairaudienceClairvoyance
+---
  **Clairaudience/Clairvoyance**
 
 **School** divination (scrying); **Level** bard 3, sorcerer/wizard 3

@@ -1,3 +1,6 @@
+---
+title: spells/protectionFromArrows
+---
  **Protection from Arrows**
 
 **School** abjuration; **Level** sorcerer/wizard 2

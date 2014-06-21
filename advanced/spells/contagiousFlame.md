@@ -1,3 +1,6 @@
+---
+title: advanced/spells/contagiousFlame
+---
  **Contagious Flame**
 
 **School** evocation [fire]; **Level** sorcerer/wizard 6

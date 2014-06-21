@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/ultimateMagicSpellLists
+---
 # Spells by Class
 
 Alchemist

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/auraOfGreaterCourage
+---
  **Aura of Greater Courage**
 
 **School** abjuration; **Level** paladin 2

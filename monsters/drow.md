@@ -1,3 +1,6 @@
+---
+title: monsters/drow
+---
 # Drow
 
 _This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless._

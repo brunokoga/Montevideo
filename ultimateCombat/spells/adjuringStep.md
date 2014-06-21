@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/adjuringStep
+---
 Adjuring Step
 
 **School** abjuration (force); **Level** alchemist 1, bard 1, magus 1, sorcerer/wizard 1

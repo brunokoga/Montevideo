@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/lycanthrope
+---
 # Lycanthrope, Werebear
 
 This humanoid is covered in shaggy fur and carries a heavy axe in one of his clawed hands.

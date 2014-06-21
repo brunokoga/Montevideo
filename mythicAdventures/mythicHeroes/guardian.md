@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicHeroes/guardian
+---
 # Guardian
 
 Not all mythic characters seek glory and fame for themselves. Some take a more humble route, watching over those dear to them or the lands they call home. Guardians seek connections with those around them, even the beasts, and draw their power from the trust of such bonds. This doesn't mean that all guardians are peaceful—indeed many use violent means to further their goals and safeguard those they watch over. But they find worth in those who travel with them. In battle, none can take the sort of punishment and wounds that a guardian can sustain.

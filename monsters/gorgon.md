@@ -1,3 +1,6 @@
+---
+title: monsters/gorgon
+---
 # Gorgon
 
 _This bull-like creature seems to be made of interlocking metallic plates. Faint plumes of green smoke puff from its mouth._

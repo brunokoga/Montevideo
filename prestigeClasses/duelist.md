@@ -1,3 +1,6 @@
+---
+title: prestigeClasses/duelist
+---
 # Duelist
 
 Duelists represent the pinnacle of elegant swordplay. They move with a grace unmatched by most foes, parrying blows and countering attacks with swift thrusts of their blades. They may wear armor, but generally eschew such bulky protection as their grace allows them to dodge their opponents with ease. While others flounder on treacherous terrain, duelists charge nimbly across the battlefield, leaping and tumbling into the fray. They thrive in melee, where their skill with the blade allows them to make sudden attacks against clumsy foes and to cripple opponents with particularly well-placed thrusts of the blade.

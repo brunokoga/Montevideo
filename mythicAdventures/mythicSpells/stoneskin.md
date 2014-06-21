@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/stoneskin
+---
 Stoneskin
 
 **Source** [_stoneskin_](spells/stoneskin.md#_stoneskin)

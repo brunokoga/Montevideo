@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/disguiseOther
+---
 Disguise Other
 
 **School** illusion (glamer); **Level** bard 2, inquisitor 2, sorcerer/wizard 2

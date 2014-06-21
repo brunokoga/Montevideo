@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/monstrousPhysique
+---
 Monstrous Physique (all)
 
 **Source** [_monstrous physique_](ultimateMagic/spells/monstrousPhysique.md)

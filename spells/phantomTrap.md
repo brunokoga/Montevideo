@@ -1,3 +1,6 @@
+---
+title: spells/phantomTrap
+---
  **Phantom Trap**
 
 **School** illusion (glamer); **Level** sorcerer/wizard 2

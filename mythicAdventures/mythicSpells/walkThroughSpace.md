@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/walkThroughSpace
+---
 Walk through Space
 
 **Source** [_walk through space_](ultimateCombat/spells/walkThroughSpace.md#_walk-through-space)

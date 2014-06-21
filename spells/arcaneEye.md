@@ -1,3 +1,6 @@
+---
+title: spells/arcaneEye
+---
  **Arcane Eye**
 
 **School** divination (scrying); **Level** sorcerer/wizard 4

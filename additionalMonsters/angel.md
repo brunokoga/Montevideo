@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/angel
+---
 # Angel, Cassisian
 
 This finely crafted golden helm is decorated with intricate filigree, and flutters gracefully through the air on feathered wings.

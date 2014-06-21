@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/symbolOfHealing
+---
 Symbol of Healing
 
 **School** conjuration (healing); **Level** cleric 3, paladin 4, witch 4

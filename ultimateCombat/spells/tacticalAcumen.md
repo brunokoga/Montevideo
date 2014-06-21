@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/tacticalAcumen
+---
 Tactical Acumen
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, inquisitor 2, magus 2, paladin 1, sorcerer/wizard 2

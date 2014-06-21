@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/verminShape
+---
 Vermin Shape I
 
 **School** transmutation (polymorph); **Level** alchemist 4, druid 3, magus 4, sorcerer/wizard 4, witch 3

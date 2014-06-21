@@ -1,3 +1,6 @@
+---
+title: spells/wallOfStone
+---
  **Wall of Stone**
 
 **School** conjuration (creation) [earth]; **Level** cleric 5, druid 6, sorcerer/wizard 5

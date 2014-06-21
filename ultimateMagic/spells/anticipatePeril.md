@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/anticipatePeril
+---
 Anticipate Peril
 
 **School** divination; **Level** alchemist 1, bard 1, ranger 1, sorcerer/wizard 1

@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-bard
+---
 - [**Dancing Lights**](spells/dancingLights.md#_dancing-lights)
 - [**Daze**](spells/daze.md#_daze)
 - [**Detect Magic**](spells/detectMagic.md#_detect-magic)

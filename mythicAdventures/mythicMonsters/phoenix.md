@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/phoenix
+---
 # Phoenix
 
 _This flaming bird burns as brightly as the sun._

@@ -1,3 +1,6 @@
+---
+title: monsters/lizardfolk
+---
 # Lizardfolk
 
 _This reptilian humanoid has green scales, a short and toothy snout, and a thick alligator-like tail._

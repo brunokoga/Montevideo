@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/bindingWords
+---
 ## Binding Words
 
 Words from this family cause objects to become stationary and creatures to become paralyzed.

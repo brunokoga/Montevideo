@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/fighter
+---
 # Fighters
 
 Superstitious Mercenary CR 1/2

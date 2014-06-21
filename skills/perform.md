@@ -1,3 +1,6 @@
+---
+title: skills/perform
+---
 # Perform
 
 ## ( [Cha](../gettingStarted.md#_charisma-new))

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/inflictModerateWounds
+---
 Inflict Moderate Wounds
 
 **Source** [_inflict moderate wounds_](spells/inflictModerateWounds.md#_inflict-moderate-wounds)

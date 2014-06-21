@@ -1,3 +1,6 @@
+---
+title: spells/forcefulHand
+---
  **Forceful Hand**
 
 **School** evocation [force]; **Level** sorcerer/wizard 6

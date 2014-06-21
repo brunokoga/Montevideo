@@ -1,3 +1,6 @@
+---
+title: spells/spiderClimb
+---
  **Spider Climb**
 
 **School** transmutation; **Level** druid 2, sorcerer/wizard 2

@@ -1,3 +1,6 @@
+---
+title: spells/removeCurse
+---
  **Remove Curse**
 
 **School** abjuration; **Level** bard 3, cleric 3, paladin 3, sorcerer/wizard 4

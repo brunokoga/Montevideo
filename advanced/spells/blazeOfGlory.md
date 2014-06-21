@@ -1,3 +1,6 @@
+---
+title: advanced/spells/blazeOfGlory
+---
  **Blaze of Glory**
 
 **School** conjuration (healing) [good, mind-affecting]; **Level** paladin 4

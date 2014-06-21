@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/entertainers
+---
 # Entertainers
 
 Performers of all walks lighten the daily burden of common folk with tales and song, comedy and drama. Yet, within the power of such skilled players also lies the ability to spread news and knowledge, rally the spirit, or incite revolution. Entertainers take a wide variety of forms, from comedians and wandering bards, to evangelists and skilled orators, to fools and scholars. Whatever their path, when entertainers talk, the people listen.

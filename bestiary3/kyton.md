@@ -1,3 +1,6 @@
+---
+title: bestiary3/kyton
+---
 # Kyton
 
 Despicably cruel and equally horrible to gaze upon, kytons are evil fiends who feed on the fear and suffering of mortals through painful supernatural means. Their monstrous appearances vary, but their stoic and amoral dispositions are universal, for no kyton cares anything for the plights typical of the creatures they prey upon. They are beings wholly dedicated to metamorphosis achieved through horrific trials of self-mutilation and the mystical power provided them by their sapping of mortal anguish.

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/shadowProjection
+---
  **Shadow Projection**
 
 **School** necromancy [evil]; **Level** sorcerer/wizard 4

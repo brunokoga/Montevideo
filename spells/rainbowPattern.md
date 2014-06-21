@@ -1,3 +1,6 @@
+---
+title: spells/rainbowPattern
+---
  **Rainbow Pattern**
 
 **School** illusion (pattern) [mind-affecting]; **Level** bard 4, sorcerer/wizard 4

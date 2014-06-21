@@ -1,3 +1,6 @@
+---
+title: advanced/spells/allfood
+---
  **Allfood**
 
 **School** transmutation; **Level** ranger 2

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/findQuarry
+---
 Find Quarry
 
 **School** divination; **Level** inquisitor 4, ranger 4

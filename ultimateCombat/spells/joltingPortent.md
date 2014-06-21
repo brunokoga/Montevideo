@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/joltingPortent
+---
 Jolting Portent
 
 **School** evocation (electricity) **Level** cleric 7

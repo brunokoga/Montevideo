@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/miserablePity
+---
 Miserable Pity
 
 **School** abjuration [emotion, mind-affecting]; **Level** bard 2, sorcerer/wizard 2, witch 2

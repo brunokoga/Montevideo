@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/raceBuilder/racialQualities
+---
 # Racial Qualities
 
 ## Type Quality

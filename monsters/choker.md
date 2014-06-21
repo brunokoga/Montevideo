@@ -1,3 +1,6 @@
+---
+title: monsters/choker
+---
 # Choker
 
 _This hunched-over wretch has long, pliable arms like tentacles capped with five wide, spiny claws._

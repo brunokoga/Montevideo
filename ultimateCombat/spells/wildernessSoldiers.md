@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/wildernessSoldiers
+---
 Wilderness Soldiers
 
 **School** transmutation: **Level** druid 2, ranger 2

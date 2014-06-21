@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/artifactsAndOthers/cursedItems
+---
 # Cursed Items
 
 Cursed items are any magic items with some sort of potentially negative impact on the user. Occasionally, they mix bad with good, forcing characters to make difficult choices. Cursed items are almost never made intentionally. Instead, they are the result of rushed work, inexperienced crafters, or a lack of proper components. While many of these items still function, they either do not work as intended or come with serious drawbacks. When a magic item creation skill check fails by 5 or more, roll on Cursed Items Drawbacks table to determine the type of curse possessed by the item.

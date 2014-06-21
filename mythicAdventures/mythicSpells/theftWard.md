@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/theftWard
+---
 Theft Ward
 
 **Source** [_theft ward_](advancedRaceGuide/featuredRaces/tengus.md#_theft-ward)

@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/road
+---
 # Road
 
 Part of the adventure inherent in any journey lies in not knowing whom one might meet around the next bend. A variety of characters make their homes on the highways between cities. Some travel to get from one destination to the next, some are hucksters and con artists constantly on the run, and some wander out of necessity, as they have no place to call their own. In any case, few paths are truly deserted, and with each passerby comes the potential for all manner of adventures.

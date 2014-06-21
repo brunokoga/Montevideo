@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/web
+---
 Web
 
 **Source** [_web_](spells/web.md#_web)

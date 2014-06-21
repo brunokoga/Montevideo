@@ -1,3 +1,6 @@
+---
+title: advanced/spells/banishSeeming
+---
  **Banish Seeming**
 
 **School** abjuration; **Level** inquisitor 3, witch 5

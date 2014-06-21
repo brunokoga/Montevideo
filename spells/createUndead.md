@@ -1,3 +1,6 @@
+---
+title: spells/createUndead
+---
  **Create Undead**
 
 **School** necromancy [evil]; **Level** cleric 6, sorcerer/wizard 6

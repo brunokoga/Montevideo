@@ -1,3 +1,6 @@
+---
+title: skills/ride
+---
 # Ride
 
 ## ( [Dex](../gettingStarted.md#_dexterity); Armor Check Penalty)

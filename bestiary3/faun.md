@@ -1,3 +1,6 @@
+---
+title: bestiary3/faun
+---
 # Faun
 
 This capricious figure has the upper torso, arms, and head of a man, but goatlike legs, a tail, and curling horns on his head.

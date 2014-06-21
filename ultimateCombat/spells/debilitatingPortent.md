@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/debilitatingPortent
+---
 Debilitating Portent
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 4, witch 4

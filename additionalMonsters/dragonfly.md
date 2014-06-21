@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/dragonfly
+---
 # Dragonfly, Giant
 
 This glittering blue dragonfly is about the size of a horse and is large enough to carry off small farm animals or people.

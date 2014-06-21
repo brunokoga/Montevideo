@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/arborealHammer
+---
 Arboreal Hammer
 
 **School** transmutation; **Level** druid 4

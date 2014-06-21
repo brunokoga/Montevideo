@@ -1,3 +1,6 @@
+---
+title: skills/swim
+---
 # Swim
 
 ## ( [Str](../gettingStarted.md#_strength); Armor Check Penalty)

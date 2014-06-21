@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/revenant
+---
 # Revenant
 
 This shambling corpse is twisted and mutilated. Fingers of sharpened bone reach out with malevolent intent.

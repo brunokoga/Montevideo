@@ -1,3 +1,6 @@
+---
+title: bestiary3/baku
+---
 # Baku
 
 This floating creature has long brown fur. Its face features a pair of long tusks and a curious elongated trunk for a snout.

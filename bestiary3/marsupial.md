@@ -1,3 +1,6 @@
+---
+title: bestiary3/marsupial
+---
 # Marsupial, Kangaroo
 
 As tall as a grown human, this mouse-faced creature stands on powerful hind legs and has a stout tail trailing behind.

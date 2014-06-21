@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-paladin
+---
 - [**Bless**](spells/bless.md#_bless)
 - [**Bless Water**](spells/blessWater.md#_bless-water)
 - [**Bless Weapon**](spells/blessWeapon.md#_bless-weapon)

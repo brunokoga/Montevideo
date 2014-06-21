@@ -1,3 +1,6 @@
+---
+title: monsters/linnorm
+---
 # Linnorm, Crag
 
 _This immense, wingless dragon rears up on a serpentine body. Its triple tail and powerful talons swipe at the air._

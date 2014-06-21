@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/owlbear
+---
 # Owlbear
 
 _This beast has the general size and shape of a great bear, yet the head and feathers of an owl._

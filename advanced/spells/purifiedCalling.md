@@ -1,3 +1,6 @@
+---
+title: advanced/spells/purifiedCalling
+---
  **Purified Calling**
 
 **School** conjuration (healing); **Level** summoner 4

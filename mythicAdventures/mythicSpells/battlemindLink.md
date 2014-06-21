@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/battlemindLink
+---
 Battlemind Link
 
 **Source** [_battlemind link_](ultimateMagic/spells/battlemindLink.md#_battlemind-link)

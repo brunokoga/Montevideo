@@ -1,3 +1,6 @@
+---
+title: advanced/spells/expend
+---
  **Expend**
 
 **School** abjuration; **Level** sorcerer/wizard 7

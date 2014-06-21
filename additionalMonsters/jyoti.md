@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/jyoti
+---
 # Jyoti
 
 This phoenix-like humanoid is surrounded by a halo of radiant energy. Its spear is tipped with a carved crystal blade.

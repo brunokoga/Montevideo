@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/treant
+---
 # Treant
 
 _Standing upright and powerful, this mighty tree-person channels nature's fury into green energy in its gnarled hands. _

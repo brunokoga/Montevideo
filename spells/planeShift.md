@@ -1,3 +1,6 @@
+---
+title: spells/planeShift
+---
  **Plane Shift**
 
 **School** conjuration (teleportation); **Level** cleric 5, sorcerer/wizard 7

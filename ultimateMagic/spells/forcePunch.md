@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/forcePunch
+---
 Force Punch
 
 **School** evocation [force]; **Level** magus 3, sorcerer/wizard 3

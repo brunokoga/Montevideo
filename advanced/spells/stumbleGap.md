@@ -1,3 +1,6 @@
+---
+title: advanced/spells/stumbleGap
+---
  **Stumble Gap**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 1

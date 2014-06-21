@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/certainGrip
+---
 Certain Grip
 
 **School** transmutation; **Level** alchemist 2, druid 2, sorcerer/wizard 2

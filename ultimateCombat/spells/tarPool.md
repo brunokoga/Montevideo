@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/tarPool
+---
 Tar Pool
 
 **School** transmutation [[earth](monsters/creatureTypes.md#_earth-subtype), [fire](monsters/creatureTypes.md#_fire-subtype)]; **Level** druid 6, sorcerer/wizard 6, summoner 5

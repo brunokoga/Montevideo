@@ -1,3 +1,6 @@
+---
+title: bestiary3/nixie
+---
 # Nixie
 
 This green-skinned fey has webbed hands and feet. Its hair is the color of seaweed, and is decorated with shells.

@@ -1,3 +1,6 @@
+---
+title: advanced/coreClasses/druid
+---
 # Druid
 
 Druids are the keepers of the wildlands, the guardians watching at nature's border to ensure that hubristic civilization does not overreach its bounds. From the highest mountain peaks to the steaming jungles and seas, druids learn and draw their power from their surrounding environment and the creatures that live there. Like nature itself, druids can be gentle and succoring or red in tooth and claw, and need answer only to the wind and the rain.

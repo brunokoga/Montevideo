@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/blasphemy
+---
 Blasphemy
 
 **Source** [_blasphemy_](spells/blasphemy.md#_blasphemy)

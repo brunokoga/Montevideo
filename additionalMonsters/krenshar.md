@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/krenshar
+---
 # Krenshar 
 
 This earless, panther-like beast snarls as the skin of its face twitches, then peels back to reveal the bone and flesh beneath.

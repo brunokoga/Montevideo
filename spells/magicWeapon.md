@@ -1,3 +1,6 @@
+---
+title: spells/magicWeapon
+---
  **Magic Weapon**
 
 **School** transmutation; **Level** cleric 1, paladin 1, sorcerer/wizard 1

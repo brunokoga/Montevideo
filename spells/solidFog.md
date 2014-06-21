@@ -1,3 +1,6 @@
+---
+title: spells/solidFog
+---
  **Solid Fog**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 4

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/phantomSteed
+---
 Phantom Steed
 
 **Source** [_phantom steed_](spells/phantomSteed.md#_phantom-steed)

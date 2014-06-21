@@ -1,3 +1,6 @@
+---
+title: monsters/elephant
+---
 # Elephant
 
 _These thick-skinned animals bear large ivory tusks flanking a long, prehensile snout._

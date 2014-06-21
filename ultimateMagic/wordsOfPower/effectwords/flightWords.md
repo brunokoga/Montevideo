@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/flightWords
+---
 ## Flight Words
 
 These words allow those who know them to soar through the heavens—slowing falls with weaker wordspells, but gaining true flight with the greatest one.

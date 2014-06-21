@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-cleric
+---
 - [**Bleed**](spells/bleed.md#_bleed)
 - [**Create Water**](spells/createWater.md#_create-water)
 - [**Detect Magic**](spells/detectMagic.md#_detect-magic)

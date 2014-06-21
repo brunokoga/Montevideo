@@ -1,3 +1,6 @@
+---
+title: spells/tinyHut
+---
  **Tiny Hut**
 
 **School** evocation [force]; **Level** bard 3, sorcerer/wizard 3

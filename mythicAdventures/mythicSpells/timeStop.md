@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/timeStop
+---
 Time Stop
 
 **Source** [_time stop_](spells/timeStop.md#_time-stop)

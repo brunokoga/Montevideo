@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/phantasmalKiller
+---
 Phantasmal Killer
 
 **Source** [_phantasmal killer_](spells/phantasmalKiller.md#_phantasmal-killer)

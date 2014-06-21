@@ -1,3 +1,6 @@
+---
+title: spells/daylight
+---
  **Daylight**
 
 **School** evocation [light]; **Level** bard 3, cleric 3, druid 3, paladin 3, sorcerer/wizard 3

@@ -1,3 +1,6 @@
+---
+title: spells/antilifeShell
+---
  **Antilife Shell**
 
 **School** abjuration; **Level** cleric 6, druid 6

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/arrowEruption
+---
  **Arrow Eruption**
 
 **School** conjuration (creation); **Level** ranger 2, sorcerer/wizard 2

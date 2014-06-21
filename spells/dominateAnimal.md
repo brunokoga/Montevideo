@@ -1,3 +1,6 @@
+---
+title: spells/dominateAnimal
+---
  **Dominate Animal**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** druid 3

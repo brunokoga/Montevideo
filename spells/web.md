@@ -1,3 +1,6 @@
+---
+title: spells/web
+---
  **Web**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 2

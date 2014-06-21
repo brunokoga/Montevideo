@@ -1,3 +1,6 @@
+---
+title: advanced/spells/flareBurst
+---
  **Flare Burst**
 
 **School** evocation (light); **Level** bard 1, druid 1, sorcerer/wizard 1

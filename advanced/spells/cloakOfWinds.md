@@ -1,3 +1,6 @@
+---
+title: advanced/spells/cloakOfWinds
+---
  **Cloak of Winds**
 
 **School** abjuration [air]; **Level** druid 3, ranger 3, sorcerer/wizard 3

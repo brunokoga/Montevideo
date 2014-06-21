@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/painWords
+---
 ## Pain Words
 
 The mere sound of these words causes agony in those unfortunate enough to hear them.

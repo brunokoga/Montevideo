@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/combat/gladiatorWeapons
+---
 # Gladiator Weapons
 
 Almost every culture features warriors who fight for sport and entertainment. While only the most decadent or evil cultures enjoy all-out blood sports in which the combatants fight to the death for the pleasure of the crowd, even the most benign societies enjoy the spectacle of armed conflict. These conflicts often require specialized weapons and training to get the most out of such performance combat.

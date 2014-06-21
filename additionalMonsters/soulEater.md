@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/soulEater
+---
 # Soul Eater
 
 Two elongated and deathly pallid arms protrude from this creature's smoky body as it slithers silently through the air.

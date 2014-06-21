@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/poxPustules
+---
 Pox Pustules
 
 **Source** [_pox pustules_](advanced/spells/poxPustules.md#_pox-pustules)

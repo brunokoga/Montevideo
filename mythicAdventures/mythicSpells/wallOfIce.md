@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/wallOfIce
+---
 Wall of Ice
 
 **Source** [_wall of ice_](spells/wallOfIce.md#_wall-of-ice)

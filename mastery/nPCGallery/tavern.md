@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/tavern
+---
 # Tavern
 
 Amid the press of the crowd, the din of raised voices, and the music of clanking mugs bustle the patrons and proprietors of the local common house. Whether the staff of a sleepy village's inn and tavern, a shadowy city club, a feasting lord's longhouse, or any other place there's reason for celebration or ale to be poured, tavern denizens do more than serve, taking in all the best tales and gossip of a community and thoughtfully attending to the confessions of any with the coin to pay for another glass.

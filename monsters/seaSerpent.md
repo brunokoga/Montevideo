@@ -1,3 +1,6 @@
+---
+title: monsters/seaSerpent
+---
 # Sea Serpent
 
 _Spine-frilled neck arching up from the water like a snake ready to strike, this ship-sized serpent hisses a challenge._

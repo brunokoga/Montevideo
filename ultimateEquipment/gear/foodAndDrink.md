@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/foodAndDrink
+---
 # Food and Drink
 
 These prices are for meals and beverages in an average city or town. Unless otherwise specified, the amount received for the listed price is presumed to be a standard meal serving for a single person.

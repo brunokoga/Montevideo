@@ -1,3 +1,6 @@
+---
+title: spells/detectAnimalsOrPlants
+---
  **Detect Animals or Plants**
 
 **School** divination; **Level** druid 1, ranger 1

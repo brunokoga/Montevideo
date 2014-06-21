@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/summoningWords
+---
 ## Summoning Words
 
 These words summon creatures from other planes of existence to do the caster's bidding.

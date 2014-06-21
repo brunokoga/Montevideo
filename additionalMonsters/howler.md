@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/howler
+---
 # Howler
 
 This vile predator has a hide as thick and tough as leather. Wicked ebony quills run from its head, tail, and back.

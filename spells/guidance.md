@@ -1,3 +1,6 @@
+---
+title: spells/guidance
+---
  **Guidance**
 
 **School** divination; **Level** cleric 0, druid 0

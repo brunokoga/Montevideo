@@ -1,3 +1,6 @@
+---
+title: spells/obscuringMist
+---
  **Obscuring Mist**
 
 **School** conjuration (creation); **Level** cleric 1, druid 1, sorcerer/wizard 1

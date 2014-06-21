@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/entertainmentAndTradeGoods
+---
 # Entertainment
 
 Many adventurers like to sit down and play a game now and then to pass the time—or make some easy gold.

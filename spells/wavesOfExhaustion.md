@@ -1,3 +1,6 @@
+---
+title: spells/wavesOfExhaustion
+---
  **Waves of Exhaustion**
 
 **School** necromancy; **Level** sorcerer/wizard 7

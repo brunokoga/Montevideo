@@ -1,3 +1,6 @@
+---
+title: spells/phaseDoor
+---
  **Phase Door**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 7

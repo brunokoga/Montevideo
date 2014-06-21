@@ -1,3 +1,6 @@
+---
+title: monsters/dragonTurtle
+---
 # Dragon Turtle
 
 _This long-tailed aquatic beast resembles a massive snapping turtle with draconic features._

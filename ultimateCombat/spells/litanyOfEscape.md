@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/litanyOfEscape
+---
 Litany of Escape
 
 **School** conjuration (teleportation) [language dependent]; **Level** antipaladin 3, inquisitor 4, paladin 3

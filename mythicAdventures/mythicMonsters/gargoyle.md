@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/gargoyle
+---
 # Gargoyle
 
 _This living stone [statue](spells/statue.md#_statue) takes the shape of a horned and winged humanoid, and green acid drips from its mouth. _

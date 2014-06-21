@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/hippogriff
+---
 # Hippogriff
 
 This large, brown, horse-like creature has a hawk's wings, talons, and hooked beak.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/magic/introduction
+---
 # Introduction
 
 Anyone can be a spellcaster. If you can crack open a book and knuckle down in your studies, you can probably become a passable wizard. If you can devote yourself in body and soul to a god—and why wouldn't you, when there's such a variety to choose from?—you may find yourself endowed with magical powers simply for having faith in your god's (and your own) righteousness. Oracles are chosen without their consent, far-roving rangers pick up magical tricks and traps, druids channel the will of nature, sorcerers get their abilities as dubious presents from philandering ancestors, and bards find magical inspiration in performance and art. Magic is everywhere in the Pathfinder Roleplaying Game, and many of the movers and shakers in towns and cities of any significant size have a spell or two up their sleeves.

@@ -1,3 +1,6 @@
+---
+title: monsters/naga
+---
 # Naga, Dark
 
 _A sharp-featured humanoid head crowns the powerful, sinuous body of this snake-like monstrosity._

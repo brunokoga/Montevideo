@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/prayer
+---
 Prayer
 
 **Source** [_prayer_](spells/prayer.md#_prayer)

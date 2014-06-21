@@ -1,3 +1,6 @@
+---
+title: bestiary3/kamadan
+---
 # Kamadan
 
 This large leopard has six colorful snakes, hissing and ready to strike, sprouting from its shoulders.

@@ -1,3 +1,6 @@
+---
+title: spells/ironBody
+---
  **Iron Body**
 
 **School** transmutation; **Level** sorcerer/wizard 8

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/rampart
+---
  **Rampart**
 
 **School** conjuration (creation) [earth]; **Level** druid 7, sorcerer/wizard 7

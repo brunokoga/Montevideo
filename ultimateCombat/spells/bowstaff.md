@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/bowstaff
+---
 Bowstaff
 
 **School** transmutation; **Level** inquisitor 1, paladin 1, ranger 1

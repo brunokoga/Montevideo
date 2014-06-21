@@ -1,3 +1,6 @@
+---
+title: monsters/darkStalker
+---
 # Dark Stalker
 
 _This tall humanoid's pale brow and black, soulless eyes are all that can be seen above a black scarf wrapped around its face._

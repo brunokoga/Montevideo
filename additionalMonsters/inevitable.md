@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/inevitable
+---
 # Inevitable
 
 Originally invented and forged in the Outer Planes by the [axiomites](additionalMonsters/axiomite.md), inevitables are living machines whose sole purpose is to seek out and destroy agents of chaos wherever they can.

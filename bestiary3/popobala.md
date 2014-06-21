@@ -1,3 +1,6 @@
+---
+title: bestiary3/popobala
+---
 # Popobala
 
 This brawny, sallow-skinned figure is muscular but lean, with batlike wings and a single hideous eye in its noseless face.

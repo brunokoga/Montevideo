@@ -1,3 +1,6 @@
+---
+title: monsters/drider
+---
 # Drider
 
 _The dry rasping of spidery legs brings this hideous monstrosity into view—a nightmarish, centaurian fusion of drow and spider._

@@ -1,3 +1,6 @@
+---
+title: spells/mageSSword
+---
  **Mage's Sword**
 
 **School** evocation [force]; **Level** sorcerer/wizard 7

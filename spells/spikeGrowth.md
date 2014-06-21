@@ -1,3 +1,6 @@
+---
+title: spells/spikeGrowth
+---
  **Spike Growth**
 
 **School** transmutation; **Level** druid 3, ranger 2

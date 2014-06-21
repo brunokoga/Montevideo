@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/scouringWinds
+---
 Scouring Winds
 
 **Source** [_scouring winds_](ultimateMagic/spells/scouringWinds.md#_scouring-winds)

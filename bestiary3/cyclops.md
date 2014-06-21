@@ -1,3 +1,6 @@
+---
+title: bestiary3/cyclops
+---
 # Cyclops, Great
 
 This misshapen but incredibly muscular humanoid has a single huge bloodshot eye set under a short, jagged horn on its brow.

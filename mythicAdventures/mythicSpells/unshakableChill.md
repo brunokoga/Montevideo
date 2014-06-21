@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/unshakableChill
+---
 Unshakable Chill
 
 **Source** [_unshakable chill_](ultimateMagic/spells/unshakableChill.md#_unshakable-chill)

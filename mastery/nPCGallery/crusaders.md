@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/crusaders
+---
 # Crusaders
 
 Champions of righteous quests and agents in the direct service of deities, crusaders hunt the enemies of their faith wherever they lurk. While servants of holy groups might seek out cultists, witches, evil mages, and all manner of other heretics—on missions either righteous or misguided—the minions of foul divinities too might hunt down those who oppose their faiths. Whatever their association, crusaders are driven by their beliefs and can prove to be among the most devoted allies or fanatical enemies.

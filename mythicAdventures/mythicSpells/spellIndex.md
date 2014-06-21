@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/spellIndex
+---
 # New Mythic Spells
 
 The following are new spells that affect the mythic rules or mythic creatures in some way. You don't need a mythic tier to cast most of these spells.

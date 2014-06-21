@@ -1,3 +1,6 @@
+---
+title: spells/giantVermin
+---
  **Giant Vermin**
 
 **School** transmutation; **Level** cleric 4, druid 4

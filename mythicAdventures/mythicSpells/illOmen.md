@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/illOmen
+---
 Ill Omen
 
 **Source** [_ill omen_](advanced/spells/illOmen.md#_ill-omen)

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/druid
+---
 # Druid
 
 Some druids choose to follow a different path than others and focus their abilities on emulating the strengths and virtues of a specific animal. Perhaps they have always had a bond with such animals, or perhaps they seek to become more like them. Whatever the case, animal shamans truly embody the essence of their totem animals. These archetypes all contain similar powers, described fully in the ape shaman section.

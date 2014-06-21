@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/badger
+---
 # Badger
 
 The squat, waddling badger trudges forth. Thrusting its flattened nose about the ground, it sniffs incessantly.

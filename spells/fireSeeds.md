@@ -1,3 +1,6 @@
+---
+title: spells/fireSeeds
+---
  **Fire Seeds**
 
 **School** conjuration (creation) [fire]; **Level** druid 6

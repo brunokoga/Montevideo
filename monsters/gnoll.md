@@ -1,3 +1,6 @@
+---
+title: monsters/gnoll
+---
 # Gnoll
 
 _Hunched and feral, this furred, hyena-headed humanoid stands slightly taller than the average human._

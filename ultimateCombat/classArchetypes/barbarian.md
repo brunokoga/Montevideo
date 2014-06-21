@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/barbarian
+---
 # Barbarian
 
 The barbarian is a creature of savagery and superstition. Whether tapping into totems of power or unleashing mighty reserves of rage and destruction, a barbarian lives in a world of battle, a place of barely controlled emotion and unrelenting bloodshed.

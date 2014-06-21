@@ -1,3 +1,6 @@
+---
+title: spells/polymorph
+---
  **Polymorph**
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 5

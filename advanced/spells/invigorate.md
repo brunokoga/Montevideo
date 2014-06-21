@@ -1,3 +1,6 @@
+---
+title: advanced/spells/invigorate
+---
  **Invigorate**
 
 **School** illusion [figment]; **Level** bard 1

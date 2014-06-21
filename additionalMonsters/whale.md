@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/whale
+---
 # Whale, Great White 
 
 This immense whale has an enormous, box-shaped head over a massive, toothy maw. Its rough white hide is laced with scars.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/griffon
+---
 # Griffon
 
 _This majestic beast combines the features of a sleek black eagle and the strong, lean musculature of a panther._

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/undine
+---
 # Undine
 
 This blue-haired, blue-skinned man moves with a liquid grace. His ears are fin-like, and his hands and feet are webbed.

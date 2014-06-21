@@ -1,3 +1,6 @@
+---
+title: spells/holyAura
+---
  **Holy Aura**
 
 **School** abjuration [good]; **Level** cleric 8

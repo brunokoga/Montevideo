@@ -1,3 +1,6 @@
+---
+title: spells/pyrotechnics
+---
  **Pyrotechnics**
 
 **School** transmutation; **Level** bard 2, sorcerer/wizard 2

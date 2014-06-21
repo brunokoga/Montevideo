@@ -1,3 +1,6 @@
+---
+title: magicItems/magicItemCreation
+---
 # Magic Item Creation
 
 To create magic items, spellcasters use special feats which allow them to invest time and money in an item's creation. At the end of this process, the spellcaster must make a single skill check (usually [Spellcraft](../skills/spellcraft.md#_spellcraft), but sometimes another skill) to finish the item. If an item type has multiple possible skills, you choose which skill to make the check with. The DC to create a magic item is 5 + the caster level for the item. Failing this check means that the item does not function and the materials and time are wasted. Failing this check by 5 or more results in a cursed item (see Cursed Items for more information).

@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/featuredRaces
+---
 # Featured Races
 
 While the seven core races are the primary focus of the Pathfinder Roleplaying Game, they're not the only ones suitable to be played as characters. Other, even stranger races help populate the world, and—with the GM's permission—also work well as player character races, creating fun and exciting new roleplaying opportunities. This chapter details the most common of such races. From the nimble catfolk to the fiery ifrits and scavenging, birdlike tengus, these races have just as much motivation to be adventurers as do elves, gnomes, and humans. And while they may not be as common in the major population hubs of the Pathfinder campaign setting, each of the races detailed in this chapter presents its own unique background and abilities.

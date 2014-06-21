@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/animateDream
+---
 # Animate Dream
 
 This indistinct figure suddenly takes on a nightmarish shape, not quite human or animal or fiend.

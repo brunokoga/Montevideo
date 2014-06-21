@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/grig
+---
 # Grig
 
 Perched on the prickly legs of a cricket, this tiny creature has gossamer wings and the upper body of an elven woman.

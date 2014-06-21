@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/fungalInfestation
+---
 Fungal Infestation
 
 **School** necromancy [disease]; **Level** druid 3

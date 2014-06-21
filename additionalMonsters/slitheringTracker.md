@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/slitheringTracker
+---
 # Slithering Tracker
 
 A long, moist streak along the dark stone suddenly undulates like a serpent and then rises up to attack.

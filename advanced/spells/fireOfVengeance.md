@@ -1,3 +1,6 @@
+---
+title: advanced/spells/fireOfVengeance
+---
  **Fire of Vengeance**
 
 **School** evocation [fire]; **Level** paladin 4

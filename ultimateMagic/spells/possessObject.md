@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/possessObject
+---
 Possess Object
 
 **School** necromancy; **Level** sorcerer/wizard 5, witch 5

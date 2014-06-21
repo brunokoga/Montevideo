@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/fireShield
+---
 Fire Shield
 
 **Source** [_fire shield_](spells/fireShield.md#_fire-shield)

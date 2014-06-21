@@ -1,3 +1,6 @@
+---
+title: advanced/spells/detonate
+---
  **Detonate**
 
 **School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 4, sorcerer/wizard 4

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/protectionFrom
+---
 Protection from Chaos
 
 **Source** [_protection from chaos_](spells/protectionFromChaos.md#_protection-from-chaos)

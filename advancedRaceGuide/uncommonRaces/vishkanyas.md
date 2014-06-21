@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/uncommonRaces/vishkanyas
+---
 # Vishkanyas
 
 Vishkanyas are a race of exotic humanoids with poisonous blood. Possessed of an alien beauty, these graceful humanoids see the world through serpentine eyes of burnished gold. Their supple skin is covered with tiny scales, often of a light green, which are sometimes arrayed in patterns not unlike those of a serpent. They cannot be generalized as good or evil, but since they truly speak with forked tongues, they are content to accept the gold they're offered and leave questions of morality to others.

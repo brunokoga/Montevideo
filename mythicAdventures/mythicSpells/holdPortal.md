@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/holdPortal
+---
 Hold Portal
 
 **Source** [_hold portal_](spells/holdPortal.md#_hold-portal)

@@ -1,3 +1,6 @@
+---
+title: bestiary3/shinigami
+---
 # Shinigami
 
 This emaciated, robed humanoid wields a scythe made of bone to match the skeletal wings that protrude from its shoulders.

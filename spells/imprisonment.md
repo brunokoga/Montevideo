@@ -1,3 +1,6 @@
+---
+title: spells/imprisonment
+---
  **Imprisonment**
 
 **School** abjuration; **Level** sorcerer/wizard 9

@@ -1,3 +1,6 @@
+---
+title: monsters/basidirond
+---
 # Basidirond
 
 _This strange plant consists of four spidery stalks, long green tendrils, and an inverted bell-shaped cap filled with spores._

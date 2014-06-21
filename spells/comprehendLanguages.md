@@ -1,3 +1,6 @@
+---
+title: spells/comprehendLanguages
+---
  **Comprehend Languages**
 
 **School** divination; **Level** bard 1, cleric 1, sorcerer/wizard 1

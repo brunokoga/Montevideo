@@ -1,3 +1,6 @@
+---
+title: index
+---
 | 
 - **Core Rulebook**
 - [Getting Started](gettingStarted.md)

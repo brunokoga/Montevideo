@@ -1,3 +1,6 @@
+---
+title: advanced/spells/bloodhound
+---
  **Bloodhound**
 
 **School** transmutation; **Level** alchemist 3, inquisitor 2, ranger 2

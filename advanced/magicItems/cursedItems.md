@@ -1,3 +1,6 @@
+---
+title: advanced/magicItems/cursedItems
+---
 # Cursed Items
 
 The following are additional cursed items that may arise from faulty item crafting—or in some cases, deliberate construction. Many cannot be discarded unless a successful _ [remove curse](../../spells/removeCurse.md#_remove-curse)_, _ [break enchantment](../../spells/breakEnchantment.md#_break-enchantment)_, or similar magic is used on them.

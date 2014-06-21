@@ -1,3 +1,6 @@
+---
+title: mastery/hazards
+---
 # Hazards
 
 The adventuring world is filled with dangers beyond dragons and ravening fiends. Hazards are location-based threats that have much in common with traps, but are usually intrinsic to their area rather than constructed.

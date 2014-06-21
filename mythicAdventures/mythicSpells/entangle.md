@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/entangle
+---
 Entangle
 
 **Source** [_entangle_](spells/entangle.md#_entangle)

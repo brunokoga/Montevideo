@@ -1,3 +1,6 @@
+---
+title: advanced/spells/shiftingSand
+---
  **Shifting Sand**
 
 **School** transmutation [earth]; **Level** druid 3, sorcerer/wizard 3

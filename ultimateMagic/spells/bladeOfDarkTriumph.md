@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/bladeOfDarkTriumph
+---
 Blade of Dark Triumph
 
 **School** transmutation [evil]; **Level** antipaladin 3

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/shieldOther
+---
 Shield Other
 
 **Source** [_shield other_](spells/shieldOther.md#_shield-other)

@@ -1,3 +1,6 @@
+---
+title: monsters/demon
+---
 # Demon
 
 Demons exist for one reason—to destroy. Where their more lawful counterparts, the devils of Hell, seek to twist mortal minds and values to remake and reshape them into reflections of their own evil, demons seek only to maim, ruin, and feed. They recruit mortal life only if such cohorts speed along the eventual destruction of hope and goodness. Death is, in some ways, their enemy—for a mortal who dies can often escape a demon's depredations and flee to his just reward in the afterlife. It is the prolonging of mortal pain and suffering that fuels a demon's lusts and desires, for it is partially from mortal sin and cruelty that these monstrous fiends were born.

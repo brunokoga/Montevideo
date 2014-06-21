@@ -1,3 +1,6 @@
+---
+title: spells/contingency
+---
  **Contingency**
 
 **School** evocation; **Level** sorcerer/wizard 6

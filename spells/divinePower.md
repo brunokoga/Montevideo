@@ -1,3 +1,6 @@
+---
+title: spells/divinePower
+---
  **Divine Power**
 
 **School** evocation; **Level** cleric 4

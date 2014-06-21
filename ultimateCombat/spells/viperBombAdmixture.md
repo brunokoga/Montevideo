@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/viperBombAdmixture
+---
 Viper Bomb Admixture
 
 **School** conjuration (creation); **Level** alchemist 4

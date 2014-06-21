@@ -1,3 +1,6 @@
+---
+title: spells/trapTheSoul
+---
  **Trap the Soul**
 
 **School** conjuration (summoning); **Level** sorcerer/wizard 8

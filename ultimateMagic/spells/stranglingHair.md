@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/stranglingHair
+---
 Strangling Hair
 
 **School** transmutation; **Level** sorcerer/wizard 3, witch 3

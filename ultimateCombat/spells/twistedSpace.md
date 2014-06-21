@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/twistedSpace
+---
 Twisted Space
 
 **School** transmutation; **Level** magus 2, sorcerer/wizard 2, summoner 2

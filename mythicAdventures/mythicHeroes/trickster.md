@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicHeroes/trickster
+---
 # Trickster
 
 Seen only when they choose to be seen, tricksters manipulate kings and peasants alike, usually without anyone sensing their influence. Characters who rely upon their skills and wit find themselves drawn to the trickster's path. The mythic power of these heroes allows them to perform tasks that most would consider impossible. They can climb any wall, swim any current, and move without being seen by even the most observant guard. When they strike at their foes, they do so with unmatched accuracy.

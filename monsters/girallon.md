@@ -1,3 +1,6 @@
+---
+title: monsters/girallon
+---
 # Girallon
 
 _This four-armed, gorilla-like creature, covered with matted white fur, roars in rage as it rears up to its full, towering height._

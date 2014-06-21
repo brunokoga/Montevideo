@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/elemental
+---
 # Elemental, Ice
 
 From the waist up, this icy creature's features are humanoid, but below its body is a snake-like, slithering tail.

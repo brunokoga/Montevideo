@@ -1,3 +1,6 @@
+---
+title: advanced/spells/groveOfRespite
+---
  **Grove of Respite**
 
 **School** conjuration (creation); **Level** druid 4, ranger 4

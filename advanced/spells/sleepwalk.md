@@ -1,3 +1,6 @@
+---
+title: advanced/spells/sleepwalk
+---
  **Sleepwalk**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** inquisitor 4, witch 4

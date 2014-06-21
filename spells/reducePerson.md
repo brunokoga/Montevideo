@@ -1,3 +1,6 @@
+---
+title: spells/reducePerson
+---
  **Reduce Person**
 
 **School** transmutation; **Level** sorcerer/wizard 1

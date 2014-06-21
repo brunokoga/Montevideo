@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/obsidianFlow
+---
 Obsidian Flow
 
 **School** transmutation [[earth](monsters/creatureTypes.md#_earth-subtype), [fire](monsters/creatureTypes.md#_fire-subtype)]; **Level** druid 4, sorcerer/wizard 4, summoner 3

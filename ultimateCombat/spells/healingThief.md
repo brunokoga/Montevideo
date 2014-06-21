@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/healingThief
+---
 Healing Thief
 
 **School** necromancy **Level** sorcerer/wizard 3, witch 3

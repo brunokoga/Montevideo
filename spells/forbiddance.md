@@ -1,3 +1,6 @@
+---
+title: spells/forbiddance
+---
  **Forbiddance**
 
 **School** abjuration; **Level** cleric 6

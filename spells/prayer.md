@@ -1,3 +1,6 @@
+---
+title: spells/prayer
+---
  **Prayer**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 3, paladin 3

@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/royalty
+---
 # Royalty
 
 Bestowed with the right to rule by blood, blade, or the mandate of deities, royal families preside over many fantasy kingdoms. In many cases, the success and disposition of an entire country might be summarized by the personalities and agendas of its rulers, and few things can change the fate of entire empires like the decrees or deaths of their leaders. Whether leading armies to war, being held hostage by tyrants, or brooding in crumbling keeps, members of royalty often incite or end the most epic of quests and can reward their champions like no other.

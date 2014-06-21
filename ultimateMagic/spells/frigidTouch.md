@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/frigidTouch
+---
 Frigid Touch
 
 **School** evocation [cold]; **Level** druid 2, magus 2, sorcerer/wizard 2

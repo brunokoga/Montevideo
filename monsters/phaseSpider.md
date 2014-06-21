@@ -1,3 +1,6 @@
+---
+title: monsters/phaseSpider
+---
 # Phase Spider
 
 _This large spider-like monster has an eerie, humanoid face surrounded by a shaggy mane of fur._

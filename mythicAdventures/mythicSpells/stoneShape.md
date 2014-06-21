@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/stoneShape
+---
 Stone Shape
 
 **Source** [_stone shape_](spells/stoneShape.md#_stone-shape)

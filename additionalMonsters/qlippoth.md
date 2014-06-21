@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/qlippoth
+---
 # Qlippoth
 
 Before the Abyss was taught how to process and transform larvae into demons—indeed, before larvae even existed or the idea of mortal life had been conceived—it was rife with foul life. These creatures exist still, yet in drastically reduced numbers and often only in the deepest pits of the plane. Known as the qlippoth (the singular and plural are identical), these fiends may well be the oldest form of life in the Great Beyond—certainly, they were already in existence before the proteans discovered them. Some believe that the qlippoth come from an unknowable realm on what might be described as the “outside shell” of the Outer Sphere, but if the qlippoth are to be taken as indicative of what order of existence rules in such a realm, it is a good thing indeed that this outer realm is so impossibly distant.

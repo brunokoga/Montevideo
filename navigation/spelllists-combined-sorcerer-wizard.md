@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-sorcerer-wizard
+---
 - [**Acid Splash**](spells/acidSplash.md#_acid-splash)
 - [**Arcane Mark**](spells/arcaneMark.md#_arcane-mark)
 - [**Bleed**](spells/bleed.md#_bleed)

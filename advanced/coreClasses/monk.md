@@ -1,3 +1,6 @@
+---
+title: advanced/coreClasses/monk
+---
 # Monk
 
 Monks are martial mystics. Through mediation and discipline, and sometimes by way of secrets passed down for generations within a monastery, a monk progresses toward his perfect self—along the way turning his body into an astonishing fighting machine. But though some masters would lead their students to think otherwise, the path toward the perfect self isn't set. Different monks confront the road to enlightenment in different ways, and sometimes even with different goals, from harmony with the universe to physical perfection and immortality.

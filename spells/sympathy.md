@@ -1,3 +1,6 @@
+---
+title: spells/sympathy
+---
  **Sympathy**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** druid 9, sorcerer/wizard 8

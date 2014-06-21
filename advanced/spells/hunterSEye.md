@@ -1,3 +1,6 @@
+---
+title: advanced/spells/hunterSEye
+---
  **Hunter's Eye**
 
 **School** divination; **Level** inquisitor 3, ranger 2

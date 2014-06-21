@@ -1,3 +1,6 @@
+---
+title: advanced/spells/knightSCalling
+---
  **Knight's Calling**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** paladin 1

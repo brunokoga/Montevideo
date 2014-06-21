@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/dungeon
+---
 # Dungeon
 
 While dungeons often conjure images of deadly traps and lurking monsters, they first and foremost serve as places to confine criminals and captives. Whether locked away and forgotten in the oubliettes of evil lords or serving out just punishments in heavily guarded cells, a prisoner must acquire unique skills to survive incarcerated life. By the same token, the guards who watch over dangerous wards gain their own expertise, both at dealing with sneaky captives and wresting what they desire from even the most uncooperative convict.

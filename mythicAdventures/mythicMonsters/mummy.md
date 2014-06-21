@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/mummy
+---
 # Mummy
 
 _This regal mummy reeks of preservative spices and wears the clothing and jewelry of a wealthy pharaoh._

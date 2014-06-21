@@ -1,3 +1,6 @@
+---
+title: spells/spiritualWeapon
+---
  **Spiritual Weapon**
 
 **School** evocation [force]; **Level** cleric 2

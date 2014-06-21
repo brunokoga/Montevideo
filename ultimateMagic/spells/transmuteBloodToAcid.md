@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/transmuteBloodToAcid
+---
 Transmute Blood To Acid
 
 **School** transmutation [acid, pain]; **Level** sorcerer/wizard 9

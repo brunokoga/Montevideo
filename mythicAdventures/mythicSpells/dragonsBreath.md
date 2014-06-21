@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/dragonsBreath
+---
 Dragon's Breath
 
 **Source** [_dragon's breath_](advanced/spells/dragonSBreath.md#_dragon's-breath)

@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/downtime/downtimeEvents
+---
 # Downtime Events
 
 The following events are examples of the sort of random encounters a GM can add to the downtime system. Rolling for events occurs during the Event phase.

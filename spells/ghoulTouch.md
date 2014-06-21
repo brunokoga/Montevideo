@@ -1,3 +1,6 @@
+---
+title: spells/ghoulTouch
+---
  **Ghoul touch**
 
 **School** necromancy; **Level** sorcerer/wizard 2

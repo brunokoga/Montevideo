@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/downtime/buildingsAndOrganizations
+---
 # Buildings and Organizations
 
 This section presents many standard buildings and organizations. Each example lists exactly what rooms or teams are used to construct it, a total of each type of capital required if you want to construct one of your own, and a gp total if you want to purchase a completed building of this type. The listed gp value assumes you are purchasing the building instead of constructing it by spending earned capital (see Purchased Cost values from the [Capital Values table](ultimateCampaign/downtime.md#_table-capital-values)).

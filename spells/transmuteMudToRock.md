@@ -1,3 +1,6 @@
+---
+title: spells/transmuteMudToRock
+---
  **Transmute Mud to Rock**
 
 **School** transmutation [earth]; **Level** druid 5, sorcerer/wizard 5

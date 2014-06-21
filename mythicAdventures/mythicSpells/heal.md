@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/heal
+---
 Heal
 
 **Source** [_heal_](spells/heal.md#_heal)

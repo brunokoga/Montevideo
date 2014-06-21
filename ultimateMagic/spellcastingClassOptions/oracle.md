@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/oracle
+---
 # Oracle
 
 Not all vessels of the divine choose their path. Rather, some find themselves chosen, raised to a life of power and responsibility by forces they themselves may not understand. These are the oracles, agents gifted by providence and serving not a single deity, but rather many sources, venerating and drawing magic from all those patron deities who support their ideals. Whether a curse or a gift, the strange powers and unsettling mysteries of the oracles make them forces to be reckoned with, both in the halls of power and on the fields of battle.

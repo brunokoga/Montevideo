@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/mongrelman
+---
 # Mongrelman
 
 Ivory tusks, insect chitin, matted fur, scaly flesh, and more combine to form a hideous humanoid shape.

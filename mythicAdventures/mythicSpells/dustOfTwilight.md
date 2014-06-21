@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/dustOfTwilight
+---
 Dust of Twilight
 
 **Source** [_dust of twilight_](advanced/spells/dustOfTwilight.md#_dust-of-twilight)

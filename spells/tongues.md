@@ -1,3 +1,6 @@
+---
+title: spells/tongues
+---
  **Tongues**
 
 **School** divination; **Level** bard 2, cleric 4, sorcerer/wizard 3

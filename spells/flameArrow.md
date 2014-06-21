@@ -1,3 +1,6 @@
+---
+title: spells/flameArrow
+---
  **Flame Arrow**
 
 **School** transmutation [fire]; **Level** sorcerer/wizard 3

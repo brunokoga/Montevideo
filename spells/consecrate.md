@@ -1,3 +1,6 @@
+---
+title: spells/consecrate
+---
  **Consecrate**
 
 **School** evocation [good]; **Level** cleric 2

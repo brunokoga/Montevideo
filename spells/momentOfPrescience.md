@@ -1,3 +1,6 @@
+---
+title: spells/momentOfPrescience
+---
  **Moment of Prescience**
 
 **School** divination; **Level** sorcerer/wizard 8

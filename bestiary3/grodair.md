@@ -1,3 +1,6 @@
+---
+title: bestiary3/grodair
+---
 # Grodair
 
 Several water-dripping tentacles sprout from this four-eyed fish's belly, while long fins protrude from its back.

@@ -1,3 +1,6 @@
+---
+title: bestiary3/jellyfish
+---
 # Jellyfish, Death's Head
 
 This long-tentacled jellyfish has a wide bell with a vaguely skull-shaped pattern on it.

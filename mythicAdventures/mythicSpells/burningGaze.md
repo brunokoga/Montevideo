@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/burningGaze
+---
 Burning Gaze
 
 **Source** [_burning gaze_](advanced/spells/burningGaze.md#_burning-gaze)

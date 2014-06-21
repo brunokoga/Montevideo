@@ -1,3 +1,6 @@
+---
+title: bestiary3/adlet
+---
 # Adlet
 
 This humanoid wolf's fur is snowy white and its eyes piercing blue; it grips an ornate spear in its fist.

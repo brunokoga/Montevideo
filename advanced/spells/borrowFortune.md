@@ -1,3 +1,6 @@
+---
+title: advanced/spells/borrowFortune
+---
  **Borrow Fortune**
 
 **School** evocation; **Level** oracle 3

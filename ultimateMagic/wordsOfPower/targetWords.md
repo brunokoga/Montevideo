@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/targetWords
+---
 # Target Words
 
 Target words establish the way in which a spell determines its targets. Some effect words restrict the type of target words that can be used in wordspells that contain them. A wordspell contains only one target word. Target words use the following format.

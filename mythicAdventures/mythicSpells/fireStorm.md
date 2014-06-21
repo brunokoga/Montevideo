@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/fireStorm
+---
 Fire Storm
 
 **Source** [_fire storm_](spells/fireStorm.md#_fire-storm)

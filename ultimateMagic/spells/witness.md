@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/witness
+---
 Witness
 
 **School** divination (scrying); **Level** bard 3, inquisitor 3, witch 3

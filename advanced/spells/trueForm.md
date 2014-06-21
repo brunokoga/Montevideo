@@ -1,3 +1,6 @@
+---
+title: advanced/spells/trueForm
+---
  **True Form**
 
 **School** abjuration; **Level** druid 4, sorcerer/wizard 4

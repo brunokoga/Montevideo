@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/acidWords
+---
 ## Acid Words
 
 These words create caustic acid that scorches and burns all that it comes in contact with.

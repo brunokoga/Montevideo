@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/youthfulAppearance
+---
 Youthful Appearance
 
 **School** transmutation (polymorph); **Level** alchemist 1, bard 1, sorcerer/wizard 1, witch 1

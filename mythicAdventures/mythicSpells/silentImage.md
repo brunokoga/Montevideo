@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/silentImage
+---
 Silent Image
 
 **Source** [_silent image_](spells/silentImage.md#_silent-image)

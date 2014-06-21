@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/azer
+---
 # Azer
 
 Heat ripples the air near this squat, brass-skinned humanoid. Its head and shoulders blaze with a mane of fire.

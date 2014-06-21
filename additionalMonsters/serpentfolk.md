@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/serpentfolk
+---
 # Serpentfolk
 
 This serpentine humanoid has bright scaly skin, a long sinuous tail, and a fanged serpent's head.

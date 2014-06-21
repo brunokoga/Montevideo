@@ -1,3 +1,6 @@
+---
+title: spells/summonMonster
+---
  **Summon Monster I**
 
 [Table: Summon Monster]| 1st Level | Subtype |

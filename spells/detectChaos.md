@@ -1,3 +1,6 @@
+---
+title: spells/detectChaos
+---
  **Detect Chaos**
 
 **School** divination; **Level** cleric 1

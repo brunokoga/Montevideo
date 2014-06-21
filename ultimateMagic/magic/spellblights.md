@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/magic/spellblights
+---
 # Spellblights
 
 Spellblights are rare and unusual magical conditions that uniquely affect spellcasters, including creatures that use spell-like abilities. Spellblights are curses, some functioning continuously and others manifesting only when the afflicted creature attempts to cast a spell or use a spell-like ability. A creature that lacks the ability to cast spells or use spell-like abilities cannot usually be afflicted by a spellblight.

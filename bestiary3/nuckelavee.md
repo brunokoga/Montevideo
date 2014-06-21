@@ -1,3 +1,6 @@
+---
+title: bestiary3/nuckelavee
+---
 # Nuckelavee
 
 This skinless creature resembles a horse and its humanoid rider, fused into a single hideous being of rage and sickness.

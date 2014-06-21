@@ -1,3 +1,6 @@
+---
+title: spells/dominatePerson
+---
  **Dominate Person**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, sorcerer/wizard 5

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/ashStorm
+---
 Ash Storm
 
 **School** conjuration (creation) [fire]; **Level** druid 3, sorcerer/wizard 3, witch 3

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/daze
+---
 Daze, Mass
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, inquisitor 4, sorcerer/wizard 4, summoner 4, witch 4

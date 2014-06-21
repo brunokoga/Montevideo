@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/shockingGrasp
+---
 Shocking Grasp
 
 **Source** [_shocking grasp_](spells/shockingGrasp.md#_shocking-grasp)

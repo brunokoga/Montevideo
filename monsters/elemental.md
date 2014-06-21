@@ -1,3 +1,6 @@
+---
+title: monsters/elemental
+---
 # Elemental, Air
 
 _This cloud-like creature has dark hollows reminiscent of eyes and a mouth, and a howling wind whips it into ominous shapes._

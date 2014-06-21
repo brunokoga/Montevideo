@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/youngCharacters
+---
 # Young Characters
 
 Not all fantasy characters have the luxury of waiting until adulthood to begin their adventuring careers—take Arya Stark, Sabriel the Abhorsen, the Pevensie siblings, and Harry Potter, for example. The dangers of fantasy worlds don't discriminate between the ages of those they threaten. Even the infant Hercules had to strangle the serpents Hera sent to kill him in his crib. But though they're often underestimated, such youths are rarely the ready victims they're often treated as. By default, newly made characters are adults, their ages randomly assigned or at least influenced by the [Random Starting Ages table](additionalRules.md#_age). However, should you wish to play a young prodigy getting an early start on her legend, the rules here detail how to bring such a character to life.

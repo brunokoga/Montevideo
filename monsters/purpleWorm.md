@@ -1,3 +1,6 @@
+---
+title: monsters/purpleWorm
+---
 # Purple Worm
 
 _This enormous worm is covered with dark purple plates of chitinous armor. Its giant, tooth-filled mouth is the size of an ox._

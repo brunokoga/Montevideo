@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/reinforceArmaments
+---
 Reinforce Armaments
 
 **School** transmutation; **Level** cleric 1, magus 1, sorcerer/wizard 1, witch 1

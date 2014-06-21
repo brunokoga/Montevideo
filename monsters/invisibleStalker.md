@@ -1,3 +1,6 @@
+---
+title: monsters/invisibleStalker
+---
 # Invisible Stalker
 
 _No true form can be detected, yet a sense of force and hulking malevolence is undeniable in this creature's presence._

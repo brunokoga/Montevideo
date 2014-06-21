@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/mindBlank
+---
 Mind Blank, Communal
 
 **Level** sorcerer/wizard 9, witch 9

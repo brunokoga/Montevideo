@@ -1,3 +1,6 @@
+---
+title: advanced/spells/evolutionSurge
+---
  **Evolution Surge**
 
 **School** transmutation; **Level** summoner 3

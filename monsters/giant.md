@@ -1,3 +1,6 @@
+---
+title: monsters/giant
+---
 # Giant, Cloud
 
 _This towering giant has finely chiseled features. Her skin is pale and smooth, and her long wispy hair flutters as if in a breeze._

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/cleanse
+---
  **Cleanse**
 
 **School** evocation; **Level** cleric 5, inquisitor 6

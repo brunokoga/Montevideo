@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/troll
+---
 # Troll, Ice
 
 This large creature has light blue-green skin and cold, piercing eyes. Dressed in rough furs, its tusked jaw juts forth in a long underbite.

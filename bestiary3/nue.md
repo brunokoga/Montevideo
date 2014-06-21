@@ -1,3 +1,6 @@
+---
+title: bestiary3/nue
+---
 # Nue
 
 Materializing out of a noxious black cloud, this beast has the head of a fanged monkey and the body of a tiger with a viper as a tail.

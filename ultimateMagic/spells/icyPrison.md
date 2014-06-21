@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/icyPrison
+---
 Icy Prison
 
 **School** evocation [cold]; **Level** sorcerer/wizard 5

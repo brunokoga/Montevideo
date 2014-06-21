@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/monk
+---
 # Monk
 
 Monks are seekers after knowledge, idealists who find unity and enlightenment in the training and perfection of both the physical body and the conscious mind. Many of a monk's powers derive from or rely on _ki_, a form of supernatural energy inherent in one's spirit.

@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/armsAndArmor/index
+---
 # Arms and Armor
 
 [**Armor:**](ultimateEquipment/armsAndArmor/armor.md) Start off by girding yourself for battle with this extensive selection of armors and shields, from familiar favorites like leather armor and plate mail to exotic kikko armor and the horned madu shield. Also presented for your convenience are rules for getting into and out of armor, masterwork armor, armor for unusual creatures, and more.

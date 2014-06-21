@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/powerWordStun
+---
 Power Word Stun
 
 **Source** [_power word stun_](spells/powerWordStun.md#_power-word-stun)

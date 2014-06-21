@@ -1,3 +1,6 @@
+---
+title: spells/prismaticSphere
+---
  **Prismatic Sphere**
 
 **School** abjuration; **Level** sorcerer/wizard 9

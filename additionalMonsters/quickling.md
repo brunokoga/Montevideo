@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/quickling
+---
 # quickling
 
 This creature resembles a short and slight elf wearing drab clothes and a wicked grin. In a blink, the thing darts from sight.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/manticore
+---
 # Manticore
 
 _This fearsome creature has the body of a lion, the wings of a dragon, the face of a snarling man, and a tail of dripping spikes._

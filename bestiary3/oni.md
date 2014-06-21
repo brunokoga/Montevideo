@@ -1,3 +1,6 @@
+---
+title: bestiary3/oni
+---
 # Oni
 
 Oni are a race of evil spirits, native to the Material Plane, that manifest physical bodies based upon the shapes and desires of humanoid mortals. In pure spirit form, an oni is nothing but a disembodied evil longing for the sins of the flesh. In this form, oni are harmless and invisible. The majority of these bodiless oni were once kami who failed their wards, or more often, who deliberately abandoned them. As punishment, they were stripped of their ability to form a physical body and then cast into the void. Rarely, a mortal creature's soul can become a disembodied oni upon death, or in even rarer cases, after a truly evil individual has undergone a particularly vile ritual that ends in suicide. These oni are more often destined for positions of great power and strength than most.

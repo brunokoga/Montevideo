@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/litanyOfWarding
+---
 Litany of Warding
 
 **School** transmutation; **Level** antipaladin 2, inquisitor 3, paladin 2

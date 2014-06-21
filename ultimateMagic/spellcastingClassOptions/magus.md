@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/magus
+---
 # Magus
 
 Magi often defy expectations. Many are mistaken for rogues and swashbucklers dabbling in minor magic, often to their opponents' detriment. Clerics, oracles and wizards often view these spellcasters with a degree of mistrust, as they seldom understand the nature or—more importantly—the source of magi's arcane power. This is especially true of the rare magi who dabble in hexcraft or carry strange sentient blades with alien goals and an ever-increasing lust for power. To more formulaic or hierarchal spellcasting traditions, such powers can only mean meddling from beings beyond mortal understanding.

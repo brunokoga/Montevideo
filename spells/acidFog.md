@@ -1,3 +1,6 @@
+---
+title: spells/acidFog
+---
  **Acid Fog**
 
 **School** conjuration (creation) [acid]; **Level** sorcerer/wizard 6

@@ -1,3 +1,6 @@
+---
+title: spells/clone
+---
  **Clone**
 
 **School** necromancy; **Level** sorcerer/wizard 8

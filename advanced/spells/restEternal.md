@@ -1,3 +1,6 @@
+---
+title: advanced/spells/restEternal
+---
  **Rest Eternal**
 
 **School** necromancy; **Level** cleric 4, druid 5, witch 5

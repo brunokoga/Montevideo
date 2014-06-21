@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/xacarba
+---
 # Xacarba
 
 This towering, three-tailed, six-eyed beast seems like three rune-backed serpents partially melded together into one body.

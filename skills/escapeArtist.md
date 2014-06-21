@@ -1,3 +1,6 @@
+---
+title: skills/escapeArtist
+---
 # Escape Artist
 
 ## ( [Dex](../gettingStarted.md#_dexterity); Armor Check Penalty)

@@ -1,3 +1,6 @@
+---
+title: monsters/flytrap
+---
 # Flytrap, Giant
 
 _This towering plant is a mass of vines and barbs. Several stalks are horribly mobile, each ending in a set of green, toothy jaws._

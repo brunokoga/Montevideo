@@ -1,3 +1,6 @@
+---
+title: spells/silentImage
+---
  **Silent Image**
 
 **School** illusion (figment); **Level** bard 1, sorcerer/wizard 1

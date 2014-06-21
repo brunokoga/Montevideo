@@ -1,3 +1,6 @@
+---
+title: monsters/centipede
+---
 # Centipede, Giant
 
 _This lengthy, segmented horror writhes and twists, pulsing its venomous mandibles in search of prey._

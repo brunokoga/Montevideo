@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/wallWords
+---
 ## Wall Words
 
 Wall words create large barriers that impede and harm those who pass through them.

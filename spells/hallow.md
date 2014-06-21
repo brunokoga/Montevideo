@@ -1,3 +1,6 @@
+---
+title: spells/hallow
+---
  **Hallow**
 
 **School** evocation [good]; **Level** cleric 5, druid 5

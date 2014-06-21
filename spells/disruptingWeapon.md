@@ -1,3 +1,6 @@
+---
+title: spells/disruptingWeapon
+---
  **Disrupting Weapon**
 
 **School** transmutation; **Level** cleric 5

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/gaseousForm
+---
 Gaseous Form
 
 **Source** [_gaseous form_](spells/gaseousForm.md#_gaseous-form)

@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/uncommonRaces/wayangs
+---
 # Wayangs
 
 The wayangs are a race of small supernatural humanoids who trace their ancestry to the Plane of Shadows. They are extremely gaunt, with pixielike stature and skin the color of deep shadow. Deeply spiritual, they follow a philosophy known as "The Dissolution," which teaches that in passing they may again merge into the shadow. They readily express their beliefs through ritual scarification and skin bleaching, marking their bodies with raised white dots in ornate spirals and geometric patterns. Shy and elusive, they live in small, interdependent tribes. Wayangs rarely associate with outsiders.

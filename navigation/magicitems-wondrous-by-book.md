@@ -1,3 +1,6 @@
+---
+title: navigation/magicitems-wondrous-by-book
+---
 - A
 - B
 - C

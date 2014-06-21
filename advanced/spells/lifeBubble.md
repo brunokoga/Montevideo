@@ -1,3 +1,6 @@
+---
+title: advanced/spells/lifeBubble
+---
  **Life Bubble**
 
 **School** abjuration; **Level** cleric 5, druid 4, ranger 3, sorcerer/wizard 5

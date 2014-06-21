@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/thrasfyr
+---
 # Thrasfyr
 
 Neither quite bear nor bull nor serpent, this immense, six-legged creature is bound in chains and covered with scintillating red scales.

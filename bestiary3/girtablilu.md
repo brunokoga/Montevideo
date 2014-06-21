@@ -1,3 +1,6 @@
+---
+title: bestiary3/girtablilu
+---
 # Girtablilu
 
 The body of a spear-wielding woman rises from the front of this monstrously huge scorpion.

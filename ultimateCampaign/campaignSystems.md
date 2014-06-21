@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems
+---
 # Campaign Systems
 
 This chapter presents a variety of small tweaks for your campaign, each one focused on giving life to moments and depth to activities in your game. You can use these systems individually or mix and match them together to taste.

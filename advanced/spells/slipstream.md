@@ -1,3 +1,6 @@
+---
+title: advanced/spells/slipstream
+---
  **Slipstream**
 
 **School** conjuration (creation) [water]; **Level** druid 2, ranger 2, sorcerer/wizard 2

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/snakeStaff
+---
  **Snake Staff**
 
 **School** transmutation; **Level** cleric 5, druid 5

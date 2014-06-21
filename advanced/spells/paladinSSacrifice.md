@@ -1,3 +1,6 @@
+---
+title: advanced/spells/paladinSSacrifice
+---
  **Paladin's Sacrifice**
 
 **School** abjuration; **Level** paladin 2

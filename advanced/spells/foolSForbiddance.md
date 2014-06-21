@@ -1,3 +1,6 @@
+---
+title: advanced/spells/foolSForbiddance
+---
  **Fool's Forbiddance**
 
 **School** abjuration [mind-affecting]; **Level** bard 6

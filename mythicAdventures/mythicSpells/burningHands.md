@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/burningHands
+---
 Burning Hands
 
 **Source** [_burning hands_](spells/burningHands.md#_burning-hands)

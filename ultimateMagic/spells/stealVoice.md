@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/stealVoice
+---
 Steal Voice
 
 **School** necromancy; **Level** bard 2, sorcerer/wizard 2, witch 2

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/dimensionalLock
+---
 Dimensional Lock
 
 **Source** [_dimensional lock_](spells/dimensionalLock.md#_dimensional-lock)

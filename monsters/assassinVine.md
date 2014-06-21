@@ -1,3 +1,6 @@
+---
+title: monsters/assassinVine
+---
 # Assassin Vine
 
 _This gnarled vine, as thick as a man's arm and bearing hand-shaped leaves, convulses across the ground in an unnatural slither._

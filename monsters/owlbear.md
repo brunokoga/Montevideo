@@ -1,3 +1,6 @@
+---
+title: monsters/owlbear
+---
 # Owlbear
 
 _An amalgam of fur and feathers, this bizarre half-bear, half-owl monstrosity raises its huge, ursine claws in anger._

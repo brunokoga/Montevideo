@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/crysmal
+---
 # Crysmal
 
 An animated cluster of translucent crystals shaped disturbingly like a gemstone scorpion scuttles into an aggressive stance.

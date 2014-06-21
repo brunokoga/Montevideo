@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/soulboundDoll
+---
 # Soulbound Doll
 
 This doll's glass eyes glisten with unmistakable curiosity as it comes to life with a fluid grace.

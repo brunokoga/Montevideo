@@ -1,3 +1,6 @@
+---
+title: bestiary3/porcupine
+---
 # Porcupine
 
 This small-eyed rodent has a rounded body with numerous quills running all over its back.

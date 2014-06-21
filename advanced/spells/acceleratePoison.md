@@ -1,3 +1,6 @@
+---
+title: advanced/spells/acceleratePoison
+---
  **Accelerate Poison**
 
 **School** transmutation; **Level** druid 2, ranger 2, sorcerer/wizard 2

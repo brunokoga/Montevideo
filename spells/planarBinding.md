@@ -1,3 +1,6 @@
+---
+title: spells/planarBinding
+---
  **Planar Binding**
 
 **School** conjuration (calling) [see text for _lesser planar binding_]; **Level** sorcerer/wizard 6

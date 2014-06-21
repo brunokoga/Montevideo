@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/magic/spellbooks
+---
 # Spellbooks 
 
 Each spellbook or formula book is a unique reflection of the personality and capabilities of its creator. Many of these tomes contain more than just spells, such as notes on the caster's other research, personal diaries, naturalist sketches, or even political treatises. Some contain preparation rituals, each of which grants a boon—or sometimes a hindrance—to spellcasters who use the book to prepare their spells.

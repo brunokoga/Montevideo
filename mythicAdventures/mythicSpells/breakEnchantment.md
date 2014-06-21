@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/breakEnchantment
+---
 Break Enchantment
 
 **Source** [_break enchantment_](spells/breakEnchantment.md#_break-enchantment)

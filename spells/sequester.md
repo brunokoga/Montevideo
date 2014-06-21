@@ -1,3 +1,6 @@
+---
+title: spells/sequester
+---
  **Sequester**
 
 **School** abjuration; **Level** sorcerer/wizard 7

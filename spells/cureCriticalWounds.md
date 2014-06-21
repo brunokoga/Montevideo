@@ -1,3 +1,6 @@
+---
+title: spells/cureCriticalWounds
+---
  **Cure Critical Wounds**
 
 **School** conjuration (healing); **Level** bard 4, cleric 4, druid 5

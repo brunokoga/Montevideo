@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/magmaOoze
+---
 # Magma Ooze
 
 This seething mass of bubbling molten rock churns and moves of its own hungry accord.

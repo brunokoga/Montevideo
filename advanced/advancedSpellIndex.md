@@ -1,3 +1,6 @@
+---
+title: advanced/advancedSpellIndex
+---
 # Spells
 
 The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass.” These spells are alphabetized after the second word of their spell name instead.

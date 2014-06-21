@@ -1,3 +1,6 @@
+---
+title: spells/shield
+---
  **Shield**
 
 **School** abjuration [force]; **Level** sorcerer/wizard 1

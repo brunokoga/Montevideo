@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/forbidAction
+---
 Forbid Action
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 1, inquisitor 1

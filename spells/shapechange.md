@@ -1,3 +1,6 @@
+---
+title: spells/shapechange
+---
  **Shapechange**
 
 **School** transmutation (polymorph); **Level** druid 9, sorcerer/wizard 9

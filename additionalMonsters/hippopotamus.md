@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/hippopotamus
+---
 # Hippopotamus
 
 This lumbering bull hippopotamus lunges out of the water and yawns wide, displaying an impressive set of tusk-like teeth.

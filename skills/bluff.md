@@ -1,3 +1,6 @@
+---
+title: skills/bluff
+---
 # Bluff
 
 ## ( [Cha](../gettingStarted.md#_charisma-new))

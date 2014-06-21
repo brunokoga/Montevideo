@@ -1,3 +1,6 @@
+---
+title: spells/lightningBolt
+---
  **Lightning Bolt**
 
 **School** evocation [electricity]; **Level** sorcerer/wizard 3

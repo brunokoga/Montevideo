@@ -1,3 +1,6 @@
+---
+title: spells/helpingHand
+---
  **Helping Hand**
 
 **School** evocation; **Level** cleric 3

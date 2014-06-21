@@ -1,3 +1,6 @@
+---
+title: monsters/hyena
+---
 # Hyena
 
 _This hyena is covered in shaggy, tan-colored fur with black and brown stripes._

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/holySmite
+---
 Holy Smite
 
 **Source** [_holy smite_](spells/holySmite.md#_holy-smite)

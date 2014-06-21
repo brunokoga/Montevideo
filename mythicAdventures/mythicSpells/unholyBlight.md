@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/unholyBlight
+---
 Unholy Blight
 
 **Source** [_unholy light_](spells/unholyBlight.md#_unholy-blight)

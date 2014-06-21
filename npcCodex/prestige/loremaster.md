@@ -1,3 +1,6 @@
+---
+title: npcCodex/prestige/loremaster
+---
 # Loremasters
 
 Divine Loremaster CR 8

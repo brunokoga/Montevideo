@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/darkvision
+---
 Darkvision, Greater
 
 **School** transmutation; **Level** alchemist 4, antipaladin 4, ranger 4, sorcerer/wizard 4

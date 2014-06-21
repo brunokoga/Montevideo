@@ -1,3 +1,6 @@
+---
+title: spells/rage
+---
  **Rage**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, sorcerer/wizard 3

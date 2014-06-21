@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/chest
+---
 # Chest Slot Wondrous Items
 
 The chest slot consists of jackets, mantles, shirts, vests, and other items that can be worn around the torso or chest.

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/witchwyrd
+---
 # Witchwyrd 
 
 This gray-skinned humanoid wears fine red robes. The being has four arms, each ending in a three-fingered hand.

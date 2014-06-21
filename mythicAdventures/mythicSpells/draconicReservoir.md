@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/draconicReservoir
+---
 Draconic Reservoir
 
 **Source** [_draconic reservoir_](advanced/spells/draconicReservoir.md#_draconic-reservoir-)

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/deadlyJuggernaut
+---
 Deadly Juggernaut
 
 **School** necromancy [death]; **Level** antipaladin 3, cleric 3, inquisitor 3, paladin 3

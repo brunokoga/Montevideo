@@ -1,3 +1,6 @@
+---
+title: monsters/vampire
+---
 # Vampire
 
 _This alluring, raven-haired beauty casually wipes a trickle of blood from a pale cheek, then smiles to reveal needle-sharp fangs._

@@ -1,3 +1,6 @@
+---
+title: spells/stoneskin
+---
  **Stoneskin**
 
 **School** abjuration; **Level** druid 5, sorcerer/wizard 4

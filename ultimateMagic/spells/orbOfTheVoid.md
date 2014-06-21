@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/orbOfTheVoid
+---
 Orb of the Void
 
 **School** necromancy; **Level** cleric 8, sorcerer/wizard 8

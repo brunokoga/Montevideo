@@ -1,3 +1,6 @@
+---
+title: spells/light
+---
  **Light**
 
 **School** evocation [light]; **Level** bard 0, cleric 0, druid 0, sorcerer/wizard 0

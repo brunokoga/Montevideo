@@ -1,3 +1,6 @@
+---
+title: spells/illusoryWall
+---
  **Illusory Wall**
 
 **School** illusion (figment); **Level** sorcerer/wizard 4

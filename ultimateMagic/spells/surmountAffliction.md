@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/surmountAffliction
+---
 Surmount Affliction
 
 **School** abjuration; **Level** cleric 2, inquisitor 2

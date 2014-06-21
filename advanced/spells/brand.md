@@ -1,3 +1,6 @@
+---
+title: advanced/spells/brand
+---
  **Brand**
 
 **School** transmutation; **Level** inquisitor 0

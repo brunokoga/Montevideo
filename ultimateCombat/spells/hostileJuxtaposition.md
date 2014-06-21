@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/hostileJuxtaposition
+---
 Hostile Juxtaposition
 
 **School** conjuration (teleportation); **Level** sorcerer/wizard 5, summoner 4, witch 5

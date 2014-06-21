@@ -1,3 +1,6 @@
+---
+title: monsters/bugbear
+---
 # Bugbear
 
 _This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with the thrill of the coming kill._

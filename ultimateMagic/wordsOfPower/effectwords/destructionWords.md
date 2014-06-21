@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/destructionWords
+---
 ## Destruction Words
 
 These words cause catastrophe when they are uttered, breaking and destroying all they encounter.

@@ -1,3 +1,6 @@
+---
+title: spells/createWater
+---
  **Create Water**
 
 **School** conjuration (creation) [water]; **Level** cleric 0, druid 0, paladin 1

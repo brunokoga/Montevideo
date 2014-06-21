@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/murderousCommand
+---
 Murderous Command
 
 **Source** [_murderous command_](ultimateMagic/spells/murderousCommand.md#_murderous-command)

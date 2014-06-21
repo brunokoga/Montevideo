@@ -1,3 +1,6 @@
+---
+title: bestiary3/catfolk
+---
 # Catfolk
 
 This lithe, catlike humanoid has a long tail and pointed ears. Her feline eyes sparkle with curiosity and mischief.

@@ -1,3 +1,6 @@
+---
+title: bestiary3/wolfInSheepSClothing
+---
 # Wolf-in-Sheep's-Clothing
 
 A small forest animal sits motionless atop a worn stump—and then the stump's face peels open into a maw of sharp teeth.

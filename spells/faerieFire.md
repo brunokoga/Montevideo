@@ -1,3 +1,6 @@
+---
+title: spells/faerieFire
+---
  **Faerie Fire**
 
 **School** evocation [light]; **Level** druid 1

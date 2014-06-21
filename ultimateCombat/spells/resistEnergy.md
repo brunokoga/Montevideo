@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/resistEnergy
+---
 Resist Energy, Communal
 
 **Level** alchemist 3, cleric 3, druid 3, inquisitor 3, paladin 3, ranger 3, sorcerer/wizard 3, summoner 3

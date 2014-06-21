@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/minotaur
+---
 # Minotaur
 
 _With eyes blazing red and magical runes glowing on its horns, this mighty beast has the body of a man and the head of a bull._

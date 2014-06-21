@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/mercenaries
+---
 # Mercenaries
 
 Sellswords and hired muscle, those possessing skill with steel and strength of arms never long want for work. Often such warriors serve as simple guardsmen for a set term, though those with special skill might become hunters of men or monsters. Martial forces—from campaigning armies, to royal defenders, to criminal syndicates—often supplement their ranks with hired combatants, as there's no reason to risk their own forces when there are those willing to bleed for gold.

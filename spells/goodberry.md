@@ -1,3 +1,6 @@
+---
+title: spells/goodberry
+---
  **Goodberry**
 
 **School** transmutation; **Level** druid 1

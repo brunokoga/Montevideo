@@ -1,3 +1,6 @@
+---
+title: advanced/spells/stoneCall
+---
  **Stone Call**
 
 **School** conjuration (creation) [earth]; **Level** druid 2, ranger 2, sorcerer/wizard 2

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/fleshwormInfestation
+---
 Fleshworm Infestation
 
 **School** conjuration (summoning) [evil]; **Level** cleric 4, inquisitor 4, sorcerer/wizard 4, witch 4

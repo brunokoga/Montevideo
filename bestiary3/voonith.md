@@ -1,3 +1,6 @@
+---
+title: bestiary3/voonith
+---
 # Voonith
 
 This brightly colored, long-necked amphibian has six legs, a fanged snout, and numerous finlets running down its spine.

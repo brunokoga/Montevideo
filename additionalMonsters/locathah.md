@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/locathah
+---
 # Locathah
 
 This lean humanoid bears crested fins on its head and back, and has the wide-eyed and wide-lipped face of a fish.

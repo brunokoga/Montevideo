@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/drake
+---
 # Drake, Flame
 
 This ferocious creature looks like a red-and-yellow scaled dragon, but with only two legs.

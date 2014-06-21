@@ -1,3 +1,6 @@
+---
+title: bestiary3/hungryFog
+---
 # Hungry Fog
 
 Horrid shapes form within this cloying green mist, which pulses sporadically and with seeming voracity.

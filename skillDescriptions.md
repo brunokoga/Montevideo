@@ -1,3 +1,6 @@
+---
+title: skillDescriptions
+---
 # Skill Descriptions
 
 This section describes each skill, including common uses and typical modifiers. Characters can sometimes use skills for purposes other than those noted here, at the GM's discretion. For a complete summary of all of the skills, see Table: Skill Summary.

@@ -1,3 +1,6 @@
+---
+title: bestiary3/myceloid
+---
 # Myceloid
 
 This shambling fungus creature bears a strong resemblance to a rotund human, but with a mushroom cap for a head.

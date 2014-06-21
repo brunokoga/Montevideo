@@ -1,3 +1,6 @@
+---
+title: spells/horridWilting
+---
  **Horrid Wilting**
 
 **School** necromancy; **Level** sorcerer/wizard 8

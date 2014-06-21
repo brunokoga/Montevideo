@@ -1,3 +1,6 @@
+---
+title: advanced/spells/twilightKnife
+---
  **Twilight Knife**
 
 **School** evocation [force]; **Level** sorcerer/wizard 3, witch 3

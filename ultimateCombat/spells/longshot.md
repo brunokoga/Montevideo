@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/longshot
+---
 Longshot
 
 **School** transmutation; **Level** alchemist 1, antipaladin 1, inquisitor 1, magus 1, paladin 1, ranger 1, sorcerer/wizard 1

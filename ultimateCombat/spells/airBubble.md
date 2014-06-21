@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/airBubble
+---
 Air Bubble
 
 **School** conjuration (creation); **Level** cleric 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1

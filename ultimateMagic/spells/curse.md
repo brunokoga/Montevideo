@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/curse
+---
 Curse, Major
 
 **School** necromancy [curse]; **Level** cleric 5, sorcerer/wizard 6, witch 5

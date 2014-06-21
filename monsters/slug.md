@@ -1,3 +1,6 @@
+---
+title: monsters/slug
+---
 # Slug, Giant
 
 _This massive, gray-brown slug leaves a viscous trail of slime in its wake as a long rasping tongue tastes the air for prey._

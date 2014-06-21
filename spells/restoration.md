@@ -1,3 +1,6 @@
+---
+title: spells/restoration
+---
  **Restoration**
 
 **School** conjuration (healing); **Level** cleric 4, paladin 4

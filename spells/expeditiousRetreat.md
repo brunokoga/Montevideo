@@ -1,3 +1,6 @@
+---
+title: spells/expeditiousRetreat
+---
  **Expeditious Retreat**
 
 **School** transmutation; **Level** bard 1, sorcerer/wizard 1

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/primalScream
+---
 Primal Scream
 
 **School** abjuration [mind-affecting, sonic]; **Level** bard 4

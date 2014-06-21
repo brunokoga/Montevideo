@@ -1,3 +1,6 @@
+---
+title: spells/knock
+---
  **Knock**
 
 **School** transmutation; **Level** sorcerer/wizard 2

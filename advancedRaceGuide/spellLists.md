@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/spellLists
+---
 # Spell Lists
 
 Spells are organized by class and level. The page number the spell appears on is in parentheses following the spell.

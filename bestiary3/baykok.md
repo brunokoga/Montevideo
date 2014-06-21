@@ -1,3 +1,6 @@
+---
+title: bestiary3/baykok
+---
 # Baykok
 
 This howling corpse swoops through the air with hideously elongated legs and a bow made of bone.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/mightyFistOfTheEarth
+---
 Mighty Fist of the Earth
 
 **Source** [_mighty fist of the earth_](advancedRaceGuide/featuredRaces/oreads.md#_mighty-fist-of-the-earth)

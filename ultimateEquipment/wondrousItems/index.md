@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/index
+---
 # Wondrous Items
 
 Wondrous items are varied and diverse. Some must be worn in a specific magic item slot in order to work, while others must merely be possessed and utilized. “Wondrous item” is a catchall category for anything that doesn't fall into other groups, such as weapons, staves, and so on. Anyone can use a wondrous item, unless the item specifies otherwise.

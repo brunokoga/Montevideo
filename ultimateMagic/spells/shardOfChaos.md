@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/shardOfChaos
+---
 Shard of Chaos
 
 **School** evocation [chaos]; **Level** cleric 2

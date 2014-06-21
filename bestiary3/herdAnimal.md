@@ -1,3 +1,6 @@
+---
+title: bestiary3/herdAnimal
+---
 # Herd Animal, Antelope
 
 This graceful animal has long slender legs and a pair of sharp, sturdy horns arching back from its head.

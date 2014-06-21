@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/mosquito
+---
 # Mosquito, Giant
 
 A bloated, red belly dangles beneath the furiously beating wings of this massive mosquito.

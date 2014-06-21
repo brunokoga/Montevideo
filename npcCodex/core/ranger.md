@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/ranger
+---
 # Rangers
 
 Novice Scout CR 1/2

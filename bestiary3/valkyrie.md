@@ -1,3 +1,6 @@
+---
+title: bestiary3/valkyrie
+---
 # Valkyrie
 
 Surrounded by lightning, this impressive female warrior wears a gleaming golden breastplate and carries a shining spear.

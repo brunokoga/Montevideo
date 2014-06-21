@@ -1,3 +1,6 @@
+---
+title: monsters/wolf
+---
 # Wolf
 
 _This powerful canine watches its prey with piercing yellow eyes, darting its tongue across sharp white teeth._

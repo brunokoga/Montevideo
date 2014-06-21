@@ -1,3 +1,6 @@
+---
+title: npcCodex/npc/index
+---
 # NPC Classes
 
 The Pathfinder Roleplaying Game may be about heroes and monsters, but the game world also has thousands or even millions of completely normal people living in it—innkeepers, town guards, bakers, and so on. When the PCs are around, trouble happens, and sometimes you need stat blocks for those NPCs—perhaps because you need to know how many rounds the innkeeper will survive inside a burning building, or how many hits the mind-controlled city guard can take from a reluctant PC. This section gives you example NPC stat blocks for the five NPC classes presented in the Core Rulebook. Even though those classes go up to level 20, in most campaigns even the most worldly peasant, merchant, or king is no more than 10th level, and anything higher than that is the realm of legendary heroes and player characters. Consequently, this section presents these NPC classes from only levels 1 to 10.

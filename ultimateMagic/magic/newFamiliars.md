@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/magic/newFamiliars
+---
 # New Familiars
 
 The following are statistics for several new animals that can serve as familiars, in addition to a number of familiars [for the Witch Class](advanced/baseClasses/witch.md#_witch's-familiar). These familiars can be taken by anyone gaining a familiar, and utilize all the standard rules for familiars [for Wizard familiars](classes/wizard.md#_familiars). Tiny or smaller familiars in this section use Dexterity to modify [Climb](skills/climb.md#_climb) and [Swim](skills/swim.md#_swim) skill checks.

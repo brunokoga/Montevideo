@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/raiseAnimalCompanion
+---
 Raise Animal Companion
 
 **School** conjuration (healing); **Level** druid 5, paladin 4, ranger 4

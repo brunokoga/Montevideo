@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/primate
+---
 # Primate, Baboon
 
 A hairy, stout animal with opposable thumbs, this creature has a pronounced muzzle and bright red buttocks.

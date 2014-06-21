@@ -1,3 +1,6 @@
+---
+title: spells/inflictModerateWounds
+---
  **Inflict Moderate Wounds**
 
 **School** necromancy; **Level** cleric 2

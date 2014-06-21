@@ -1,3 +1,6 @@
+---
+title: bestiary3/alraune
+---
 # Alraune
 
 An attractive green-skinned woman sits in the depths of this enormous, sweet-smelling flower.

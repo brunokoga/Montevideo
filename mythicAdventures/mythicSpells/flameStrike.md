@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/flameStrike
+---
 Flame Strike
 
 **Source** [_flame strike_](spells/flameStrike.md#_flame-strike)

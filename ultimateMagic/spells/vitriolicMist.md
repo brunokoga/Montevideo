@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/vitriolicMist
+---
 Vitriolic Mist
 
 **School** evocation [acid]; **Level** alchemist 4, sorcerer/wizard 4, summoner 4

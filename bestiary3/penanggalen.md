@@ -1,3 +1,6 @@
+---
+title: bestiary3/penanggalen
+---
 # Penanggalen
 
 A pale face framed by glossy black hair hangs in the air, trailing viscera from the ragged stump of its neck like a grisly tail.

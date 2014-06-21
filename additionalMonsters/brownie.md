@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/brownie
+---
 # Brownie
 
 Knee-high to a human, this large-headed creature has an almost manically friendly look on its expressive face.

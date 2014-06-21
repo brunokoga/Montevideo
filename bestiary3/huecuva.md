@@ -1,3 +1,6 @@
+---
+title: bestiary3/huecuva
+---
 # Huecuva
 
 Rotting vestments hang across the withered flesh of this walking corpse, and its mouth hangs open in a silent scream.

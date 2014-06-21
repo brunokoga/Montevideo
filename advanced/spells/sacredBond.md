@@ -1,3 +1,6 @@
+---
+title: advanced/spells/sacredBond
+---
  **Sacred Bond**
 
 **School** conjuration (healing); **Level** cleric 3, inquisitor 2, paladin 2

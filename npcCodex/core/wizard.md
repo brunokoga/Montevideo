@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/wizard
+---
 # Wizards
 
 Cautious Mage CR 1/2

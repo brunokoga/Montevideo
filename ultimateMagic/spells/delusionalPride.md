@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/delusionalPride
+---
 Delusional Pride
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 1, sorcerer/wizard 1, witch 1

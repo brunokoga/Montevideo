@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/blindingRay
+---
 Blinding Ray
 
 **Source** [_blinding ray_](advancedRaceGuide/featuredRaces/dhampirs.md#_blinding-ray)

@@ -1,3 +1,6 @@
+---
+title: monsters/monsterAdvancement
+---
 # Monster Advancement
 
 The following rules allow you to adjust monsters, increasing (or even decreasing) their statistics and abilities while still creating a balanced and fun encounter.

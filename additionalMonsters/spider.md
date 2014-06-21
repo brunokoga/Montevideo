@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/spider
+---
 # Spider, Giant Black Widow
 
 This long-legged spider has a huge, glossy black abdomen, marked on the underside with the shape of a crimson hourglass.

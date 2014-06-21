@@ -1,3 +1,6 @@
+---
+title: advanced/spells/wrathfulMantle
+---
  **Wrathful Mantle**
 
 **School** evocation [force, light]; **Level** cleric 3, paladin 3

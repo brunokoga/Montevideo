@@ -1,3 +1,6 @@
+---
+title: spells/invisibility
+---
  **Invisibility**
 
 **School** illusion (glamer); **Level** bard 2, sorcerer/wizard 2

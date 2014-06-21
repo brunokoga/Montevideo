@@ -1,3 +1,6 @@
+---
+title: advanced/spells/aspectOfTheStag
+---
  **Aspect of the Stag**
 
 **School** transmutation (polymorph); **Level** druid 4, ranger 3

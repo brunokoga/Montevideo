@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/stormOfVengeance
+---
 Storm of Vengeance
 
 **Source** [_storm of vengeance_](spells/stormOfVengeance.md#_storm-of-vengeance)

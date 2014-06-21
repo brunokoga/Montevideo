@@ -1,3 +1,6 @@
+---
+title: spells/etherealJaunt
+---
  **Ethereal Jaunt**
 
 **School** transmutation; **Level** cleric 7, sorcerer/wizard 7

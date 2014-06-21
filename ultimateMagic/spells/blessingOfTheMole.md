@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/blessingOfTheMole
+---
 Blessing of the Mole
 
 **School** transmutation; **Level** cleric 3, inquisitor 3, paladin 3, ranger 3

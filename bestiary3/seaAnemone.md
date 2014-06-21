@@ -1,3 +1,6 @@
+---
+title: bestiary3/seaAnemone
+---
 # Sea Anemone, Giant
 
 This giant, tubular creature ends in a mass of thick and brilliantly colored tendrils arrayed around an enormous, toothless maw.

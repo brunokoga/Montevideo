@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/iceBody
+---
 Ice Body
 
 **School** transmutation [cold]; **Level** sorcerer/wizard 7, witch 7

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/sunMetal
+---
 Sun Metal
 
 **Source** [_sun metal_](ultimateCombat/spells/sunMetal.md#_sun-metal)

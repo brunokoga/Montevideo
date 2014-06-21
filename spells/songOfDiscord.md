@@ -1,3 +1,6 @@
+---
+title: spells/songOfDiscord
+---
  **Song of Discord**
 
 **School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 5

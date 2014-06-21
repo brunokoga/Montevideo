@@ -1,3 +1,6 @@
+---
+title: advanced/spells/borrowSkill
+---
  **Borrow Skill**
 
 **School** transmutation; **Level** bard 1

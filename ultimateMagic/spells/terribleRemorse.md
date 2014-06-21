@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/terribleRemorse
+---
 Terrible Remorse
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, cleric 4, inquisitor 3, sorcerer/wizard 4

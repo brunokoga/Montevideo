@@ -1,3 +1,6 @@
+---
+title: skills/linguistics
+---
 # Linguistics
 
 ## (Int; Trained Only)

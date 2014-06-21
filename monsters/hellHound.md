@@ -1,3 +1,6 @@
+---
+title: monsters/hellHound
+---
 # Hell Hound
 
 _This creature resembles a thin, lanky wolf with reddish-brown fur, white claws, and burning, fiery red eyes._

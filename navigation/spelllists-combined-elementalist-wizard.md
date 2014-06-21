@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-elementalist-wizard
+---
 - [Acid Splash](spells/acidSplash.md#_acid-splash)
 - [Message](spells/message.md#_message)
 - [Ray of Frost](spells/rayOfFrost.md#_ray-of-frost)

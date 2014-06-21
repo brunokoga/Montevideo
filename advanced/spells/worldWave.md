@@ -1,3 +1,6 @@
+---
+title: advanced/spells/worldWave
+---
  **World Wave**
 
 **School** transmutation [earth, water]; **Level** druid 9, sorcerer/wizard 9

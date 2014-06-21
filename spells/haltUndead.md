@@ -1,3 +1,6 @@
+---
+title: spells/haltUndead
+---
  **Halt Undead**
 
 **School** necromancy; **Level** sorcerer/wizard 3

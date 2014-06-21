@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/masterworkTransformation
+---
 Masterwork Transformation
 
 **School** transmutation; **Level** bard 2, cleric 2, druid 2, sorcerer/wizard 2, witch 2

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/hexWard
+---
 Hex Ward
 
 **Source** [_hex ward_](ultimateMagic/spells/hexWard.md#_hex-ward)

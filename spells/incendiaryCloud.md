@@ -1,3 +1,6 @@
+---
+title: spells/incendiaryCloud
+---
  **Incendiary Cloud**
 
 **School** conjuration (creation) [fire]; **Level** sorcerer/wizard 8

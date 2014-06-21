@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/reducePerson
+---
 Reduce Person
 
 **Source** [_reduce person_](spells/reducePerson.md#_reduce-person)

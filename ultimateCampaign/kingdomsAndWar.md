@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/kingdomsAndWar
+---
 # Kingdoms and War
 
 Some heroes found kingdoms, driving out hostile monsters to make room for peaceful settlers. Others lead soldiers into battle, waging great and terrible wars. This chapter presents rules for building a kingdom and waging war that focus on the larger tactics of city planning and troop strategy rather than managing details of individual settlers and soldiers.

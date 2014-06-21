@@ -1,3 +1,6 @@
+---
+title: advanced/spells/holyWhisper
+---
  **Holy Whisper**
 
 **School** evocation [good]; **Level** paladin 3

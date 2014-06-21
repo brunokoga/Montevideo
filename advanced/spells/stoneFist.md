@@ -1,3 +1,6 @@
+---
+title: advanced/spells/stoneFist
+---
  **Stone Fist**
 
 **School** transmutation [earth]; **Level** alchemist 1, druid 1, sorcerer/wizard 1

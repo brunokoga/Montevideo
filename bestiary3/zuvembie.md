@@ -1,3 +1,6 @@
+---
+title: bestiary3/zuvembie
+---
 # Zuvembie
 
 This withered old corpse has a feral glint in her eyes and clasps a rusty axe in her yellow-nailed hands.

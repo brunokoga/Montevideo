@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/moveEarth
+---
 Move Earth
 
 **Source** [_move earth_](spells/moveEarth.md#_move-earth)

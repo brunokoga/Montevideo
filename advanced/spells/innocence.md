@@ -1,3 +1,6 @@
+---
+title: advanced/spells/innocence
+---
  **Innocence**
 
 **School** transmutation; **Level** bard 1

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/divineTransfer
+---
  **Divine Transfer**
 
 **School** necromancy; **Level** paladin 3

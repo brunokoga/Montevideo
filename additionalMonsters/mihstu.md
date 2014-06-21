@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/mihstu
+---
 # Mihstu
 
 A miasmal form roils as barbed tentacles emerge from the central mass, coalescing into razor-sharp talons and claws.

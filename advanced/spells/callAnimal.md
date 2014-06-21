@@ -1,3 +1,6 @@
+---
+title: advanced/spells/callAnimal
+---
  **Call Animal**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** druid 1, ranger 1

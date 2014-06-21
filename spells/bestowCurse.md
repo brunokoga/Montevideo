@@ -1,3 +1,6 @@
+---
+title: spells/bestowCurse
+---
  **Bestow Curse**
 
 **School** necromancy; **Level** cleric 3, sorcerer/wizard 4

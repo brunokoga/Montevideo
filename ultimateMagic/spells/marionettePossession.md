@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/marionettePossession
+---
 Marionette Possession
 
 **School** necromancy; **Level** alchemist 3, sorcerer/wizard 3, summoner 3, witch 3

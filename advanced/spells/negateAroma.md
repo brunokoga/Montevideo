@@ -1,3 +1,6 @@
+---
+title: advanced/spells/negateAroma
+---
  **Negate Aroma**
 
 **School** transmutation; **Level** alchemist 1, druid 1, ranger 1

@@ -1,3 +1,6 @@
+---
+title: spells/unholyBlight
+---
  **Unholy Blight**
 
 **School** evocation [evil]; **Level** cleric 4

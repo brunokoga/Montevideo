@@ -1,3 +1,6 @@
+---
+title: spells/blackTentacles
+---
  **Black Tentacles**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 4

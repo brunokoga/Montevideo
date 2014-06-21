@@ -1,3 +1,6 @@
+---
+title: spells/chaosHammer
+---
  **Chaos Hammer**
 
 **School** evocation [chaotic]; **Level** cleric 4

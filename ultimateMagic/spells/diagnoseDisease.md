@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/diagnoseDisease
+---
 Diagnose Disease
 
 **School** divination; **Level** cleric 1, druid 1, paladin 1, ranger 1, witch 1

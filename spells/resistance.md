@@ -1,3 +1,6 @@
+---
+title: spells/resistance
+---
  **Resistance**
 
 **School** abjuration; **Level** bard 0, cleric 0, druid 0, paladin 1, sorcerer/wizard 0

@@ -1,3 +1,6 @@
+---
+title: spells/deathKnell
+---
  **Death Knell**
 
 **School** necromancy [death, evil]; **Level** cleric 2

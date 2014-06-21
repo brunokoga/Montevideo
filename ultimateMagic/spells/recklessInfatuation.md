@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/recklessInfatuation
+---
 Reckless Infatuation
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 2, sorcerer/wizard 3, witch 3

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/enemyHammer
+---
  **Enemy Hammer**
 
 **School** transmutation; **Level** sorcerer/wizard 6

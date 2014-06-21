@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/absorbToxicity
+---
 Absorb Toxicity
 
 **School** necromancy; **Level** alchemist 3, druid 4, sorcerer/wizard 5, witch 4

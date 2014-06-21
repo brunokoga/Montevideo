@@ -1,3 +1,6 @@
+---
+title: advanced/spells/spiritualAlly
+---
  **Spiritual Ally**
 
 **School** evocation [force]; **Level** cleric 4

@@ -1,3 +1,6 @@
+---
+title: bestiary3/vishkanya
+---
 # Vishkanya
 
 This lithe woman wears loose-fitting robes and wields a cruel-looking blade. Her eyes are pure white orbs.

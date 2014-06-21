@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/balefulPolymorph
+---
 Baleful Polymorph
 
 **Source** [_baleful polymorph_](spells/balefulPolymorph.md#_baleful-polymorph)

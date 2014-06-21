@@ -1,3 +1,6 @@
+---
+title: advanced/spells/gravityBow
+---
  **Gravity Bow**
 
 **School** transmutation; **Level** ranger 1, sorcerer/wizard 1

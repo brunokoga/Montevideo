@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/hauntedFeyAspect
+---
 Haunted Fey Aspect
 
 **School** illusion (glamer); **Level** bard 0, sorcerer/wizard 0

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/litanyOfMadness
+---
 Litany of Madness
 
 **School** enchantment (charm) [language dependent, mind-affecting]; **Level** antipaladin 4, inquisitor 6

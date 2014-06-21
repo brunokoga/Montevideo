@@ -1,3 +1,6 @@
+---
+title: advanced/spells/grace
+---
  **Grace**
 
 **School** abjuration; **Level** cleric 2, paladin 1

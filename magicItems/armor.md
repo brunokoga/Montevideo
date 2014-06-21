@@ -1,3 +1,6 @@
+---
+title: magicItems/armor
+---
 # [Armor](magicItemCreation.md#_creating-magic-armor)
 
 [Table: Armor and Shields]

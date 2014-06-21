@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/fireWords
+---
 ## Fire Words
 
 Spells using fire words burn with a hungry flame that consumes all it encounters.

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/lifeConduit
+---
 Life Conduit
 
 **School** conjuration (healing); **Level** summoner 1

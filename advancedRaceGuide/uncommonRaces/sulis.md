@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/uncommonRaces/sulis
+---
 # Sulis
 
 Sulis, or suli-jann, are the descendents of mortals and jann. They manifest their otherworldly heritage in adolescence, or when awakened by an encounter with a genie. Strong and attractive, these dynamic individuals can call forth elemental energies to augment their prowess in combat. Neither genie nor quite human, sulis stand in two worlds and often feel as if they don't belong to either.

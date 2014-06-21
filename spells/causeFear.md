@@ -1,3 +1,6 @@
+---
+title: spells/causeFear
+---
  **Cause Fear**
 
 **School** necromancy [fear, mind-affecting]; **Level** bard 1, cleric 1, sorcerer/wizard 1

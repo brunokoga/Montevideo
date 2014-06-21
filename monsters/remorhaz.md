@@ -1,3 +1,6 @@
+---
+title: monsters/remorhaz
+---
 # Remorhaz
 
 _An immense centipede-like beast erupts from the snow, rows of chitinous plates on its back glowing red-hot._

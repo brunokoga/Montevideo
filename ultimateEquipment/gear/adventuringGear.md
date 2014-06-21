@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/adventuringGear
+---
 ## Adventuring Gear
 
 The items found on the Adventuring Gear table are described in this section, along with any special benefits they confer on the user ("you").

@@ -1,3 +1,6 @@
+---
+title: spells/holdAnimal
+---
  **Hold Animal**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** druid 2, ranger 2

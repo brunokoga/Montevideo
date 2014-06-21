@@ -1,3 +1,6 @@
+---
+title: spells/spellTurning
+---
  **Spell Turning**
 
 **School** abjuration; **Level** sorcerer/wizard 7

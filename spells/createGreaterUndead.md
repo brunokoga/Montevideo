@@ -1,3 +1,6 @@
+---
+title: spells/createGreaterUndead
+---
  **Create Greater Undead**
 
 **School** necromancy [evil]; **Level** cleric 8, sorcerer/wizard 8

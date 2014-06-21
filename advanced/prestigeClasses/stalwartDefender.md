@@ -1,3 +1,6 @@
+---
+title: advanced/prestigeClasses/stalwartDefender
+---
 # Stalwart Defender
 
 Drawn from the ranks of guards, knights, mercenaries, and thugs alike, stalwart defenders are masters of claiming an area and refusing to relinquish it. This behavior is more than a tactical decision for stalwart defenders; it's an obsessive, stubborn expression of the need to be undefeated. When stalwart defenders set themselves in a defensive stance, they place their whole effort into weathering whatever foe, conflict, or threat comes their way.

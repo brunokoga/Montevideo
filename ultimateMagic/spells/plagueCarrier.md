@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/plagueCarrier
+---
 Plague Carrier
 
 **School** necromancy [disease, evil]; **Level** cleric 4, druid 4, sorcerer/wizard 5, witch 5

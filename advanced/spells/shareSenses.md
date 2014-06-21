@@ -1,3 +1,6 @@
+---
+title: advanced/spells/shareSenses
+---
  **Share Senses**
 
 **School** divination (scrying); **Level** sorcerer/wizard 4, witch 3

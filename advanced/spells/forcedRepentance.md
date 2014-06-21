@@ -1,3 +1,6 @@
+---
+title: advanced/spells/forcedRepentance
+---
  **Forced Repentance**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** inquisitor 4, paladin 4

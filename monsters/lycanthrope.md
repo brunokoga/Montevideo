@@ -1,3 +1,6 @@
+---
+title: monsters/lycanthrope
+---
 # Lycanthrope
 
 Lycanthropes are humanoids with the ability to turn into animals and animal-humanoid hybrid shapes. Natural lycanthropes are born with this ability and have perfect control over their shapechanging. Afflicted lycanthropes contract this ability like a curse or disease from another lycanthrope; they sometimes change form involuntarily.

@@ -1,3 +1,6 @@
+---
+title: spells/guardsAndWards
+---
  **Guards and Wards**
 
 **School** abjuration; **Level** sorcerer/wizard 6

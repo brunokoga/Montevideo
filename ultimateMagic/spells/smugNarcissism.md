@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/smugNarcissism
+---
 Smug Narcissism
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 3, sorcerer/wizard 5, witch 5

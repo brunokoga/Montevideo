@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/headbands
+---
 # Headband Slot Wondrous Items
 
 The headband slot consists of bands, headbands, phylacteries, and other non-head-slot items that can be worn on the head.

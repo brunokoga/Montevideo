@@ -1,3 +1,6 @@
+---
+title: bestiary3/norn
+---
 # Norn
 
 This towering, stern woman wears her long blonde hair in braids. She carries a reel of golden thread and a pair of shears.

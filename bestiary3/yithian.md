@@ -1,3 +1,6 @@
+---
+title: bestiary3/yithian
+---
 # Yithian
 
 This bizarre creature has a conical body topped with four tentacles tipped with pincers, tubes, and a tentacled, spherical head.

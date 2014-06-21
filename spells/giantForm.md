@@ -1,3 +1,6 @@
+---
+title: spells/giantForm
+---
  **Giant Form I**
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 7

@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/featuredRaces/ifrits
+---
 # Ifrits
 
 Humans whose ancestry includes beings of elemental fire such as efreet, ifrits are a passionate and fickle race. No ifrit is satisfied with a sedentary life; like a wildfire, ifrits must keep moving or burn away into nothingness. Ifrits not only adore flames, but personify multiple aspects of them as well, embodying both fire's dynamic, ever-changing energy and its destructive, pitiless nature.

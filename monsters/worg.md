@@ -1,3 +1,6 @@
+---
+title: monsters/worg
+---
 # Worg
 
 _This unusually large wolf has an evil, almost intelligent light shining in its deep red eyes._

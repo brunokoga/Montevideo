@@ -1,3 +1,6 @@
+---
+title: spells/elementalSwarm
+---
  **Elemental Swarm**
 
 **School** conjuration (summoning) [see text]; **Level** druid 9

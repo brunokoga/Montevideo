@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/rogue
+---
 # Rogue
 
 During combat, a rogue's diverse skills and talents make her indispensable support to front-line fighters. While rogues lack the pure martial power of some classes, they make up for it with sly tactics, employing tricks and poisons, and of course, flanking opponents and unleashing their devastating sneak attacks whenever possible. The archetypes and new rogue talents presented here represent slightly more aggressive rogues, including many whose skill sets are geared toward combat and supporting their comrades in combat situations. Many of these new talents and archetypes rely less on subtlety and subterfuge and more on direct actions.

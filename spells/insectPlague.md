@@ -1,3 +1,6 @@
+---
+title: spells/insectPlague
+---
  **Insect Plague**
 
 **School** conjuration (summoning); **Level** cleric 5, druid 5

@@ -1,3 +1,6 @@
+---
+title: monsters/goblinDog
+---
 # Goblin Dog
 
 _This mangy canine's face has the same flat nose, beady eyes, and protruding teeth as a rat grown grotesquely large._

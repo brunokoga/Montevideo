@@ -1,3 +1,6 @@
+---
+title: monsters/retriever
+---
 # Retriever
 
 _A spider the size of a bull elephant rears up on its back four legs in a violent challenge, eyes shimmering with magical energy._

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/animateObjects
+---
 Animate Objects
 
 **Source** [_animate objects_](spells/animateObjects.md#_animate-objects)

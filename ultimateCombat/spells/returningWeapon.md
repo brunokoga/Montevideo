@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/returningWeapon
+---
 Returning Weapon
 
 **School** conjuration (teleportation); **Level** bard 2, cleric 2, inquisitor 1, magus 1, ranger 1, sorcerer/wizard 2, witch 2

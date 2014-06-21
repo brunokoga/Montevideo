@@ -1,3 +1,6 @@
+---
+title: monsters/phoenix
+---
 # Phoenix
 
 _This immense bird seems to be made of living flame. It spreads its wings and gives vent to a musical cry as it takes to the air._

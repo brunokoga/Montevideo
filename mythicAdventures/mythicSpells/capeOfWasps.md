@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/capeOfWasps
+---
 Cape of Wasps
 
 **Source** [_cape of wasps_](ultimateMagic/spells/capeOfWasps.md#_cape-of-wasps)

@@ -1,3 +1,6 @@
+---
+title: spells/teleportObject
+---
  **Teleport Object**
 
 **School** conjuration (teleportation); **Level** sorcerer/wizard 7

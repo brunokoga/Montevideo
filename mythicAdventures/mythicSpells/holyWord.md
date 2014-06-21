@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/holyWord
+---
 Holy Word
 
 **Source** [_holy word_](spells/holyWord.md#_holy-word)

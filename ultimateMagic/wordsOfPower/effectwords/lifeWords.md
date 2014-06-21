@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/lifeWords
+---
 ## Life Words
 
 Spells using these words can restore life to the dead and heal the most serious of afflictions.

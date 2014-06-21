@@ -1,3 +1,6 @@
+---
+title: spells/detectScrying
+---
  **Detect Scrying**
 
 **School** divination; **Level** bard 4, sorcerer/wizard 4

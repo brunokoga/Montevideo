@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/gug
+---
 # Gug
 
 This towering menace has a horrible, vertically aligned mouth and arms that split at the elbows into twin clawed hands.

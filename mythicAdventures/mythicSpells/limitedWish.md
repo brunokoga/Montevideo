@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/limitedWish
+---
 Limited Wish
 
 **Source** [_limited wish_](spells/limitedWish.md#_limited-wish)

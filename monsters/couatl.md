@@ -1,3 +1,6 @@
+---
+title: monsters/couatl
+---
 # Couatl
 
 _This great serpent has multicolored wings and eyes that glimmer with intense awareness._

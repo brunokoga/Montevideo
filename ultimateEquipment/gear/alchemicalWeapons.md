@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/alchemicalWeapons
+---
 # Alchemical Weapons
 
 Alchemical weapons are designed to harm others, though they may have additional uses. Each of these substances can be made with the [Craft](skills/craft.md#_craft) (alchemy) skill.

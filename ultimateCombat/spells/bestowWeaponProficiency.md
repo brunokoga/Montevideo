@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/bestowWeaponProficiency
+---
 Bestow Weapon Proficiency
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** alchemist 2, antipaladin 2, cleric 2, magus 2, inquisitor 2, paladin 2, sorcerer/wizard 2, witch 2

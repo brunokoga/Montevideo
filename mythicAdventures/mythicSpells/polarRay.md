@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/polarRay
+---
 Polar Ray
 
 **Source** [_polar ray_](spells/polarRay.md#_polar-ray)

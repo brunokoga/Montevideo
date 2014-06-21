@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/wordOfResolve
+---
 Word of Resolve
 
 **School** abjuration; **Level** paladin 1

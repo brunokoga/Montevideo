@@ -1,3 +1,6 @@
+---
+title: monsters/yethHound
+---
 # Yeth Hound
 
 _This emaciated, hairless canine has a strange air of menace and cruelty about it._

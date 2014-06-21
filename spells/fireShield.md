@@ -1,3 +1,6 @@
+---
+title: spells/fireShield
+---
  **Fire Shield**
 
 **School** evocation [fire or cold]; **Level** sorcerer/wizard 4

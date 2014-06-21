@@ -1,3 +1,6 @@
+---
+title: spells/silence
+---
  **Silence**
 
 **School** illusion (glamer); **Level** bard 2, cleric 2

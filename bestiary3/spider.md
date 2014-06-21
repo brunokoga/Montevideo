@@ -1,3 +1,6 @@
+---
+title: bestiary3/spider
+---
 # Spider, Giant Crab
 
 This pale yellow spider's legs protrude on either side, giving it a very distinctive stance. The thing is the size of a large dog.

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/bee
+---
 # Bee, Giant 
 
 Striking yellow and black markings and a coat of bristling hairs cover this immense bee. Its stinger is the size of a dagger blade.

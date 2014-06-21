@@ -1,3 +1,6 @@
+---
+title: bestiary3/flailSnail
+---
 # Flail Snail
 
 This enormous snail has a brightly colored shell and four tentacles on its head, each tipped with a mace-like club.

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/touchOfTheSea
+---
  **Touch of the Sea**
 
 **School** transmutation; **Level** alchemist 1, druid 1, sorcerer/wizard 1

@@ -1,3 +1,6 @@
+---
+title: monsters/hydra
+---
 # Hydra
 
 _Multiple angry snake-like heads rise from the sleek, serpentine body of this terrifying monster._

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/ultimateMagicAppendices
+---
 # Spells With New Descriptors
 
 **Curse** : _ [bestow curse](spells/bestowCurse.md#_bestow-curse)_, _ [blindness/deafness](spells/blindnessDeafness.md#_blindness-deafness)_, _ [brand](advanced/spells/brand.md#_brand)_, _ [brand (greater)](advanced/spells/brand.md#_brand,-greater)_, _ [crafter's curse](advanced/spells/crafterSCurse.md#_crafter's-curse)_, _ [cup of dust](advanced/spells/cupOfDust.md#_cup-of-dust)_, _ [feast of ashes](advanced/spells/feastOfAshes.md#_feast-of-ashes)_, _ [geas (lesser)](spells/geasQuest.md#_geas-lesser)_, _ [geas/quest](spells/geasQuest.md#_geas-quest)_, _ [ill omen](advanced/spells/illOmen.md#_ill-omen)_, _ [mark of justice](spells/markOfJustice.md#_mark-of-justice)_, _ [nature's exile](advanced/spells/natureSExile.md#_nature's-exile)_, _ [oracle's burden](advanced/spells/oracleSBurden.md#_oracle's-burden)_, _ [rest eternal](advanced/spells/restEternal.md#_rest-eternal)_.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/boilingBlood
+---
 Boiling Blood
 
 **Source** [_boiling blood_](ultimateMagic/spells/boilingBlood.md#_boiling-blood)

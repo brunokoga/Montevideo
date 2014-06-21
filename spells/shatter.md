@@ -1,3 +1,6 @@
+---
+title: spells/shatter
+---
  **Shatter**
 
 **School** evocation [sonic]; **Level** bard 2, cleric 2, sorcerer/wizard 2

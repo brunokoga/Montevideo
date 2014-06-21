@@ -1,3 +1,6 @@
+---
+title: monsters/golem
+---
 # Golem 
 
 Golems are magically created automatons of great power. They stand apart from other constructs in the nature of their animating force—golems are granted their magical life via an elemental spirit, typically that of an earth elemental. The process of creating a golem binds the spirit to the artificial body, merging it with this specially prepared vessel and subjecting it to the will of the golem's creator.

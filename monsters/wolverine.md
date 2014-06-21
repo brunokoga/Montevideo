@@ -1,3 +1,6 @@
+---
+title: monsters/wolverine
+---
 # Wolverine
 
 _This stocky, muscular mammal is the size of a badger, its snarling lips revealing a mouth full of yellow teeth._

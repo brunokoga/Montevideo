@@ -1,3 +1,6 @@
+---
+title: bestiary3/trollhound
+---
 # Trollhound
 
 Foul-smelling fluids ooze from weeping sores across the scaly skin of this squat, powerful, and vaguely canine beast.

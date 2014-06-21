@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/forestFriend
+---
 Forest Friend
 
 **School** abjuration: **Level** druid 2, ranger 2

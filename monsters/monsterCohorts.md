@@ -1,3 +1,6 @@
+---
+title: monsters/monsterCohorts
+---
 # Monster Cohorts
 
 The [Leadership](../feats.md#_leadership) feat allows a character to gain a loyal cohort. With the GM's approval, this cohort can be a similarly aligned monster rather than a humanoid with the appropriate number of class levels. Monsters on the following list all work well as cohorts (be they bodyguards, mounts, assassins, etc.)—their effective cohort “level” corresponds to the level available to the PC as afforded by his [Leadership](../feats.md#_leadership) score.

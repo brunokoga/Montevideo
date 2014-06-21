@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/createDemiplane
+---
 Create Demiplane
 
 **School** conjuration (creation); **Level** cleric 8, sorcerer/wizard 8, summoner 6, witch 8

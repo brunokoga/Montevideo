@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/knock
+---
 Knock
 
 **Source** [_knock_](spells/knock.md#_knock)

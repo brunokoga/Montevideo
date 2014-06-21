@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/reputationAndFame
+---
 # Reputation and Fame
 
 Though some heroes content themselves with living off the spoils of their exploits or cloaking themselves in humility, others seek to live forever through the sagas and songs of their epic deeds. History measures a hero's success by tales of triumph and bravery that are retold down the ages. A hero with no one to tell her story quickly fades into obscurity along with her unsung accomplishments. How others tell of a hero's deeds becomes the weight by which she is measured, sculpting both her identity and reputation.

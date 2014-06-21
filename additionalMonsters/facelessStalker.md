@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/facelessStalker
+---
 # Faceless Stalker
 
 This hairless, leathery biped has a face dominated by grotesque and unsettling whorls and slits instead of actual features.

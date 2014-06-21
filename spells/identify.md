@@ -1,3 +1,6 @@
+---
+title: spells/identify
+---
  **Identify**
 
 **School** divination; **Level** bard 1, sorcerer/wizard 1

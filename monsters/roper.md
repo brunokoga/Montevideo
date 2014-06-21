@@ -1,3 +1,6 @@
+---
+title: monsters/roper
+---
 # Roper
 
 _A huge eye opens in this conical creature's front, just above a toothy mouth. Long strands of fibrous material whip from its sides._

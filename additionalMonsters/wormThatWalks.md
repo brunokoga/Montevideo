@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/wormThatWalks
+---
 # Worm That Walks
 
 Although this robed wizard stands and moves like a man, his body is a writhing mass of squirming, slippery worms.

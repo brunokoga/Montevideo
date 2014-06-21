@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/seers
+---
 # Seers
 
 Beyond the world of the mundane lie truths and mysteries veiled from mortal eyes. Yet some possess the insight and art to gaze past the veneer of supposed reality, taking in realms both wondrous and terrible. Touched by the gods, magic, or madness, these seers stand apart from other mortals, viewing their powers as blessings or curses even as they explore the interweaving threads of fate and treat with the powers of realms beyond.

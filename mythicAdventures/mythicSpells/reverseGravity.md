@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/reverseGravity
+---
 Reverse Gravity
 
 **Source** [_reverse gravity_](spells/reverseGravity.md#_reverse-gravity)

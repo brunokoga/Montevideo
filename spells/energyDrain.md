@@ -1,3 +1,6 @@
+---
+title: spells/energyDrain
+---
  **Energy Drain**
 
 **School** necromancy; **Level** cleric 9, sorcerer/wizard 9

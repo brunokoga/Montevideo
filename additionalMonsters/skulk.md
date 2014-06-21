@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/skulk
+---
 # Skulk
 
 This smooth-skinned, hairless humanoid has penetrating eyes and skin that shifts and changes to mimic his surroundings.

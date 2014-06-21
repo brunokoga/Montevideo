@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/countlessEyes
+---
 Countless Eyes
 
 **School** transmutation; **Level** alchemist 3, inquisitor 3, sorcerer/wizard 3, witch 3

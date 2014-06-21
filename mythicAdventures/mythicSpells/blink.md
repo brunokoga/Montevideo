@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/blink
+---
 Blink
 
 **Source** [_blink_](spells/blink.md#_blink)

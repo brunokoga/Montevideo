@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/kineticReverberation
+---
 Kinetic Reverberation
 
 **School** transmutation; **Level** alchemist 2, sorcerer/wizard 2

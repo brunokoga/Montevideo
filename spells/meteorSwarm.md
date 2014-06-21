@@ -1,3 +1,6 @@
+---
+title: spells/meteorSwarm
+---
  **Meteor Swarm**
 
 **School** evocation [fire]; **Level** sorcerer/wizard 9

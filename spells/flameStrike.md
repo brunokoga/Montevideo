@@ -1,3 +1,6 @@
+---
+title: spells/flameStrike
+---
  **Flame Strike**
 
 **School** evocation [fire]; **Level** cleric 5, druid 4

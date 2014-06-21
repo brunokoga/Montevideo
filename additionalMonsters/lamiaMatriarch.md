@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/lamiaMatriarch
+---
 # Lamia Matriarch
 
 This creature looks like a beautiful human woman from the waist up, but below is the body and tail of an immense snake.

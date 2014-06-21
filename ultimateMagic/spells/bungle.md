@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/bungle
+---
 Bungle
 
 **School** enchantment (compulsion); **Level** sorcerer/wizard 1, witch 1

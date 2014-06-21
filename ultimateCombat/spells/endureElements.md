@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/endureElements
+---
 Endure Elements, Communal
 
 **Level** alchemist 3, cleric 2, druid 2, paladin 2, ranger 2, sorcerer/wizard 2

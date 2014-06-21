@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/totenmaske
+---
 # Totenmaske 
 
 This spindly, skeletal humanoid has moldy green flesh, long talons for hands, and a head that seems to be mostly mouth.

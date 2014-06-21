@@ -1,3 +1,6 @@
+---
+title: spells/windWalk
+---
  **Wind Walk**
 
 **School** transmutation [air]; **Level** cleric 6, druid 7

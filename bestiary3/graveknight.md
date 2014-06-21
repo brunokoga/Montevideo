@@ -1,3 +1,6 @@
+---
+title: bestiary3/graveknight
+---
 # Graveknight
 
 Shadows veil what lurks within the dark, imposing armor of this figure, though two piercing eyes gaze from its closed visor.

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/litanyOfDefense
+---
 Litany of Defense
 
 **School** transmutation; **Level** antipaladin 2, inquisitor 2, paladin 2

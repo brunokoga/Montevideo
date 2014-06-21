@@ -1,3 +1,6 @@
+---
+title: monsters/pixie
+---
 # Pixie
 
 _This tiny, whimsical-looking humanoid darts about swiftly on wildly colored gossamer wings._

@@ -1,3 +1,6 @@
+---
+title: spells/charmAnimal
+---
  **Charm Animal**
 
 **School** enchantment (charm) [mind-affecting]; **Level** druid 1, ranger 1

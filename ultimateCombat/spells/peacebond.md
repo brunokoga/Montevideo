@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/peacebond
+---
 Peacebond
 
 **School** abjuration; **Level** inquisitor 1, sorcerer/wizard 1, witch 1

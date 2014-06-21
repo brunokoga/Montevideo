@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/snapdragonFireworks
+---
 Snapdragon Fireworks
 
 **School** transmutation [fire, light]; **Level** bard 2, sorcerer/wizard 1

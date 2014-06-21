@@ -1,3 +1,6 @@
+---
+title: spells/deathwatch
+---
  **Deathwatch**
 
 **School** necromancy; **Level** cleric 1

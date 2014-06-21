@@ -1,3 +1,6 @@
+---
+title: spells/disruptUndead
+---
  **Disrupt Undead**
 
 **School** necromancy; **Level** sorcerer/wizard 0

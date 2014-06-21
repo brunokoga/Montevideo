@@ -1,3 +1,6 @@
+---
+title: spells/stinkingCloud
+---
  **Stinking Cloud**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 3

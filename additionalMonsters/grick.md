@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/grick
+---
 # Grick
 
 This pallid, slimy, worm-like creature is the size of a human, its mouth a sickening tangle of tentacles and hooked jaws.

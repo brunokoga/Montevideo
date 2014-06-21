@@ -1,3 +1,6 @@
+---
+title: spells/mageSLucubration
+---
  **Mage's Lucubration**
 
 **School** transmutation; **Level** wizard 6

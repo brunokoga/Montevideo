@@ -1,3 +1,6 @@
+---
+title: spells/shieldOfLaw
+---
  **Shield of Law**
 
 **School** abjuration [lawful]; **Level** cleric 8

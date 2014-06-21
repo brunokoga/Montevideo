@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/adventurers
+---
 # Adventurers
 
 Rapscallions, hired hands, monster hunters, tomb raiders, champions, and scoundrels, adventurers come with all manner of skills and agendas. While they might be questing heroes seeking to thwart villains and right wrongs, they might also be dangerous thieves seeking to make a fortune in valuable relics. These NPCs can serve as allies for a PC party or even as hirelings for a day or a single dungeon crawl. Alternately, they could be rival adventurers seeking to thwart the PCs in their own mission. Whether as allies or rivals, these NPCs might appear any time a party comes to realize they aren't the only adventurers around.

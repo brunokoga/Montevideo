@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/military
+---
 # Military
 
 Trained soldiers might take up arms for nearly any cause imaginable. Whether the champions of heroic kingdoms fighting off monstrous legions or the denizens of a bleak realm invading their neighbors, vast legions arise to do the will of lords both fair and foul. Yet the real strength of such soldiers lies not in personal skill, but in sheer numbers or deftly implemented tactics. Professional combatants might also find a variety of roles beyond the battlefield, whether as guardians, raiders, or even adventurers.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/summoner
+---
 # Summoner
 
 The summoner is a complex and unusual class. Its most prominent class feature is the eidolon, a customizable monster that “always appears as some sort of fantastical creature.” What kind of fantastical creature this is remains up to the player. Fortunately, mythology and the Pathfinder Roleplaying Game have many examples of fantastical creatures that an eidolon might resemble, from fish-people to angels, and from spider-centaurs to undead monsters.

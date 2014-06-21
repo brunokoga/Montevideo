@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/giants
+---
 # Giant, Fire
 
 _This giant's hair, beard, and skin are made of lava, and its armor and weapon glow with a dull heat. _

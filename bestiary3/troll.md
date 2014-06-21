@@ -1,3 +1,6 @@
+---
+title: bestiary3/troll
+---
 # Troll, Jotund
 
 This immense green-skinned brute wields a tree branch for a club and has nine heads, each filled with jutting teeth and tusks.

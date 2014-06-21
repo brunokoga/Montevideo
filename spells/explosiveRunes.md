@@ -1,3 +1,6 @@
+---
+title: spells/explosiveRunes
+---
  **Explosive Runes**
 
 **School** abjuration [force]; **Level** sorcerer/wizard 3

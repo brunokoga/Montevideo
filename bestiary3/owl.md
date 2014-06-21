@@ -1,3 +1,6 @@
+---
+title: bestiary3/owl
+---
 # Owl, Giant
 
 This enormous owl has a silent gracefulness and wisdom about it despite its considerable size.

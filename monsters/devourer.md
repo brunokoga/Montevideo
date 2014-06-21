@@ -1,3 +1,6 @@
+---
+title: monsters/devourer
+---
 # Devourer
 
 _This dry, hovering corpse's chest is a prison of jagged ribs, within which is trapped a small tormented ghostly form._

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/urdefhan
+---
 # Urdefhan
 
 This fanged humanoid has hideously transparent skin, revealing the vivid colors of internal organs and ivory bones inside its body.

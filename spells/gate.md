@@ -1,3 +1,6 @@
+---
+title: spells/gate
+---
  **Gate**
 
 **School** conjuration (creation or calling); **Level** cleric 9, sorcerer/wizard 9

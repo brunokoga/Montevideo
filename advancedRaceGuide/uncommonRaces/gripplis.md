@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/uncommonRaces/gripplis
+---
 # Gripplis
 
 Gripplis stand just over 2 feet tall and have mottled green-and-brown skin. Most gripplis are primitive hunter gatherers, living on large insects and fish found near their treetop homes, and are unconcerned about events outside their swamps. The rare grippli who leaves the safety of the swamp tends to be a ranger or alchemist seeking to trade for metals and gems.

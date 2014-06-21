@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/symbolOfMirroring
+---
 Symbol of Mirroring
 
 **School** illusion (figment); **Level** sorcerer/wizard 2, witch 2

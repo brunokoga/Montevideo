@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/aeon
+---
 # Aeon
 
 Beyond passion, beyond mercy, beyond reason, the faceless caretakers of reality toil without end, silently struggling to preserve the tenuous balance upon which all existence depends. These voiceless forces are the aeons, inscrutable shapers and eliminators of the multiverse. They exist beyond the understanding of most mortals, endlessly striving toward goals unfathomable even to many of the planes' eldest inhabitants. Aeons build order from the chaos of the Maelstrom, seed new life upon barren worlds, and halt the rampages of forces grown overbold. They rend nations to vapor, dismantle planets into cosmic dust, and pave the way for calamities. Their ways are at one moment beneficent and in the next utterly devastating, but always without ardor, compassion, or malice. Every aeon dispassionately but determinedly strives toward the same objective—an ever changing, amending, and readjusting pursuit of multiplanar equilibrium. United in this eternal and perhaps impossible pursuit, aeons embody the planes-spanning hand of a metaphorical omnipotent clockmaker, endlessly tuning and adjusting the myriad gears of reality in pursuit of ultimate perfection.

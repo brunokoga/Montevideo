@@ -1,3 +1,6 @@
+---
+title: spells/righteousMight
+---
  **Righteous Might**
 
 **School** transmutation; **Level** cleric 5

@@ -1,3 +1,6 @@
+---
+title: spells/chillMetal
+---
  **Chill Metal**
 
 **School** transmutation [cold]; **Level** druid 2

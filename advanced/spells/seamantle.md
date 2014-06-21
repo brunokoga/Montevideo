@@ -1,3 +1,6 @@
+---
+title: advanced/spells/seamantle
+---
  **Seamantle**
 
 **School** conjuration (creation) [water]; **Level** druid 8, sorcerer/wizard 8

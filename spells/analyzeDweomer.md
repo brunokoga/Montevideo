@@ -1,3 +1,6 @@
+---
+title: spells/analyzeDweomer
+---
  **Analyze Dweomer**
 
 **School** divination; **Level** bard 6, sorcerer/wizard 6

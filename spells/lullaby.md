@@ -1,3 +1,6 @@
+---
+title: spells/lullaby
+---
  **Lullaby**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 0

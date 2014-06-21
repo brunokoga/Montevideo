@@ -1,3 +1,6 @@
+---
+title: advanced/spells/sacrificialOath
+---
  **Sacrificial Oath**
 
 **School** abjuration; **Level** paladin 4

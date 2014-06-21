@@ -1,3 +1,6 @@
+---
+title: spells/hallucinatoryTerrain
+---
  **Hallucinatory Terrain**
 
 **School** illusion (glamer); **Level** bard 4, sorcerer/wizard 4

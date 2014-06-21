@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/detectScrying
+---
 Detect Scrying
 
 **Source** [_detect scrying_](spells/detectScrying.md#_detect-scrying)

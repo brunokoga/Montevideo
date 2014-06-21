@@ -1,3 +1,6 @@
+---
+title: skills/perception
+---
 # Perception
 
 ## ( [Wis](../gettingStarted.md#_wisdom))

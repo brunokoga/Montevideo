@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/boilingBlood
+---
 Boiling Blood
 
 **School** transmutation; **Level** bard 2, cleric 2, sorcerer/wizard 2, witch 2

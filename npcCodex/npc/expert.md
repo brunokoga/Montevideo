@@ -1,3 +1,6 @@
+---
+title: npcCodex/npc/expert
+---
 # Experts
 
 Apprentice Jeweler CR 1/3

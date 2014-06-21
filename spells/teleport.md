@@ -1,3 +1,6 @@
+---
+title: spells/teleport
+---
  **Teleport**
 
 **School** conjuration (teleportation); **Level** sorcerer/wizard 5

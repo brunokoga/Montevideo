@@ -1,3 +1,6 @@
+---
+title: equipment
+---
 # Wealth And Money
 
 Each character begins play with a number of gold pieces that he can spend on weapons, armor, and other equipment. As a character adventures, he accumulates more wealth that can be spent on better gear and magic items. Table: Starting Character Wealth lists the starting gold piece values by class. In addition, each character begins play with an outfit worth 10 gp or less. For characters above 1st level, see Table: Character Wealth by Level.

@@ -1,3 +1,6 @@
+---
+title: bestiary3/vulture
+---
 # Vulture
 
 This dark-feathered vulture has a bald neck and head, and its long, hooked beak is caked with carrion.

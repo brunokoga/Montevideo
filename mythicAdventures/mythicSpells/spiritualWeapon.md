@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/spiritualWeapon
+---
 Spiritual Weapon
 
 **Source** [_spiritual weapon_](spells/spiritualWeapon.md#_spiritual-weapon)

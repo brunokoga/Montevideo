@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/flameBlade
+---
 Flame Blade
 
 **Source** [_flame blade_](spells/flameBlade.md#_flame-blade)

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/vortex
+---
  **Vortex**
 
 **School** evocation [water]; **Level** druid 7, sorcerer/wizard 7

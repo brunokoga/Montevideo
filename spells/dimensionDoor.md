@@ -1,3 +1,6 @@
+---
+title: spells/dimensionDoor
+---
  **Dimension Door**
 
 **School** conjuration (teleportation); **Level** bard 4, sorcerer/wizard 4

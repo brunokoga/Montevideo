@@ -1,3 +1,6 @@
+---
+title: advanced/spells/delayedConsumption
+---
  **Delayed Consumption**
 
 **School** transmutation; **Level** alchemist 5

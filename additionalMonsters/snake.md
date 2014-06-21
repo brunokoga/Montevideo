@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/snake
+---
 # Snake, Emperor Cobra
 
 This massive green cobra rears its head upward aggressively, its brightly colored, scaly hood flaring in an unmistakable warning.

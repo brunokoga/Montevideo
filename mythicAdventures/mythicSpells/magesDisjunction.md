@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/magesDisjunction
+---
 Mage's Disjunction
 
 **Source** [_mage's disjunction_](spells/mageSDisjunction.md#_mage-s-disjunction)

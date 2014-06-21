@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/instrumentOfAgony
+---
 Instrument of Agony
 
 **School** transmutation; **Level** cleric 2, inquisitor 2

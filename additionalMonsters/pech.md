@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/pech
+---
 # Pech
 
 This pale yellow humanoid has blank, bulging white eyes and gangly arms and legs. It clutches a pickaxe in its knobby hands.

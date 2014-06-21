@@ -1,3 +1,6 @@
+---
+title: monsters/troglodyte
+---
 # Troglodyte
 
 _This humanoid's scaly hide is dull gray. Its frame resembles that of a cave lizard, with a long tail and crests on its head and back._

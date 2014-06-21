@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/cryptThing
+---
 # Crypt Thing
 
 Shreds of leathery flesh cling to this skeletal figure's body, while twin motes of fiery light glow deep in its eye sockets.

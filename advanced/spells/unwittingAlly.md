@@ -1,3 +1,6 @@
+---
+title: advanced/spells/unwittingAlly
+---
  **Unwitting Ally**
 
 **School** enchantment (charm) [mind-affecting]; **Level** bard 0

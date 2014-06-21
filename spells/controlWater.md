@@ -1,3 +1,6 @@
+---
+title: spells/controlWater
+---
  **Control Water**
 
 **School** transmutation [water]; **Level** cleric 4, druid 4, sorcerer/wizard 6

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/callAnimal
+---
 Call Animal
 
 **Source** [_call animal_](advanced/spells/callAnimal.md#_call-animal)

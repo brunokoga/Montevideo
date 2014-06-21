@@ -1,3 +1,6 @@
+---
+title: spells/astralProjection
+---
  **Astral Projection**
 
 **School** necromancy; **Level** cleric 9, sorcerer/wizard 9

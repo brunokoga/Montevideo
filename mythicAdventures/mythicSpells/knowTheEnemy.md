@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/knowTheEnemy
+---
 Know the Enemy
 
 **Source** [_know the enemy_](ultimateMagic/spells/knowTheEnemy.md#_know-the-enemy)

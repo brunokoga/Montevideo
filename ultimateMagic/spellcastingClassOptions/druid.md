@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/druid
+---
 # Druid
 
 Druids are devotees of nature, protecting the bleakest deserts and most verdant forests. Through their kinship with animals and the elements, they learn the most potent secrets the natural world has to offer, and can call upon great power in the form of both magical abilities like wild shape and a wide array of thematic spells. Whether tapping the fundamental magic of the elements or relying on the teeth and claws of wild creatures to accomplish their goals, druids are forces to be reckoned with, and those whose actions threaten the wild places these nature folk hold dear had best be prepared to suffer the consequences.

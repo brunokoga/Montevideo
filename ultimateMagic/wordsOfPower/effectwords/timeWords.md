@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/timeWords
+---
 ## Time Words
 
 Spells containing time words alter the flow of time, speeding it up or slowing it down.

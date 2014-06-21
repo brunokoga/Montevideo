@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/gloomwing
+---
 # Gloomwing
 
 This immense moth has huge purple wings marked with spiraling black patterns that seem to shift and writhe.

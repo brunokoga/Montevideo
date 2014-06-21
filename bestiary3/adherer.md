@@ -1,3 +1,6 @@
+---
+title: bestiary3/adherer
+---
 # Adherer
 
 This pallid humanoid creature is wrapped in wispy strips of skin, with bits of detritus and a sour stink clinging to it.

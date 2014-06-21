@@ -1,3 +1,6 @@
+---
+title: bestiary3/sleipnir
+---
 # Sleipnir
 
 This mighty horse has eight powerful legs. Its hooves leave shimmering hoofprints that quickly fade to mist.

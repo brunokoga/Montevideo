@@ -1,3 +1,6 @@
+---
+title: monsters/nymph
+---
 # Nymph
 
 _A delicate figure rises from the water, her long ears tapering to points above her head, her beauty painful in its perfection._

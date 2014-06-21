@@ -1,3 +1,6 @@
+---
+title: spells/feeblemind
+---
  **Feeblemind**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 5

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/companionMindLink
+---
 Companion Mind Link
 
 **School** enchantment (charm) [mind-affecting]; **Level** druid 3, ranger 3

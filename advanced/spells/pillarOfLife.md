@@ -1,3 +1,6 @@
+---
+title: advanced/spells/pillarOfLife
+---
  **Pillar of Life**
 
 **School** conjuration (healing) [light]; **Level** cleric 5

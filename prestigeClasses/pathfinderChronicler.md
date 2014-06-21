@@ -1,3 +1,6 @@
+---
+title: prestigeClasses/pathfinderChronicler
+---
 # Pathfinder Chronicler
 
 Brave explorers and scavengers of lost or forgotten knowledge, Pathfinder chroniclers are quintessential adventurers, exploring the world for esoteric truths, magical and mundane relics and artifacts, and new and mysterious vistas, be they wonderful or terrible. For some, this journey is purely about the wealth, for others the glory of discovery, and still more are stirred by the irresistible drive to uncover the bones of the ages and legends of forgotten epochs in an effort to chronicle the deeds of yesterday, today, and tomorrow.

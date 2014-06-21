@@ -1,3 +1,6 @@
+---
+title: npcCodex/prestige/arcaneArcher
+---
 # Arcane Archers
 
 Green Warden CR 8

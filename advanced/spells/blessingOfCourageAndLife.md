@@ -1,3 +1,6 @@
+---
+title: advanced/spells/blessingOfCourageAndLife
+---
  **Blessing of Courage and Life**
 
 **School** conjuration (healing); **Level** cleric 2, paladin 2

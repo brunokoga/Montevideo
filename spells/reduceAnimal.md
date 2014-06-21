@@ -1,3 +1,6 @@
+---
+title: spells/reduceAnimal
+---
  **Reduce Animal**
 
 **School** transmutation; **Level** druid 2, ranger 3

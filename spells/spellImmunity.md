@@ -1,3 +1,6 @@
+---
+title: spells/spellImmunity
+---
  **Spell Immunity**
 
 **School** abjuration; **Level** cleric 4

@@ -1,3 +1,6 @@
+---
+title: monsters/pegasus
+---
 # Pegasus
 
 _This magnificient horse has great bird-like wings upon its back and moves with a quiet and proud grace._

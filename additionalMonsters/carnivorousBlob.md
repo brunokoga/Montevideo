@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/carnivorousBlob
+---
 # Carnivorous Blob
 
 Rolling and twitching like a massive wad of translucent ooze, this crimson blob reaches out amorphous pseudopods in all directions.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions
+---
 # Spellcasting Class Options
 
 From the studious wizard to the cryptic oracle, each base class in the Pathfinder Roleplaying Game draws upon a central archetype, a basic concept representing the commonly held idea of what a character of a certain class should be, and designed to be useful as a foundation to the widest possible array of characters. Beyond that basic concept, however, exists the potential for innumerable interpretations and refinements. A member of the paladin class, for example, might be a holy knight, a champion against undead, or a defender of the innocent, with each alternative refined by a player's choice of details, class options, and specific rules to better simulate the character she imagines and make that character more effective at pursuing her specific goals.

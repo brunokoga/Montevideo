@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/stabilizePowder
+---
 Stabilize Powder
 
 **School** transmutation; **Level** sorcerer/wizard 2, witch 2

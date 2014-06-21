@@ -1,3 +1,6 @@
+---
+title: monsters/herdAnimal
+---
 # Herd Animal, Aurochs
 
 _This large, horned bull has a dirty black hide and an aggressive temper. Its horns are wide and sharp._

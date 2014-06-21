@@ -1,3 +1,6 @@
+---
+title: spells/gaseousForm
+---
  **Gaseous Form**
 
 **School** transmutation; **Level** bard 3, sorcerer/wizard 3

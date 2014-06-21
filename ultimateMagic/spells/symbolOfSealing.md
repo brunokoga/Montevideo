@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/symbolOfSealing
+---
 Symbol of Sealing
 
 **School** abjuration [force]; **Level** cleric 6, sorcerer/wizard 6, witch 6

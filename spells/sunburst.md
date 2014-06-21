@@ -1,3 +1,6 @@
+---
+title: spells/sunburst
+---
  **Sunburst**
 
 **School** evocation [light]; **Level** druid 8, sorcerer/wizard 8

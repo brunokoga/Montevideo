@@ -1,3 +1,6 @@
+---
+title: advanced/spells/sanctifyArmor
+---
  **Sanctify Armor**
 
 **School** abjuration [good]; **Level** inquisitor 4, paladin 3

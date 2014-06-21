@@ -1,3 +1,6 @@
+---
+title: spells/etherealness
+---
  **Etherealness**
 
 **School** transmutation; **Level** cleric 9, sorcerer/wizard 9

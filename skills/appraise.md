@@ -1,3 +1,6 @@
+---
+title: skills/appraise
+---
 # Appraise
 
 ## ( [Int](../gettingStarted.md#_intelligence))

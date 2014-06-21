@@ -1,3 +1,6 @@
+---
+title: spells/detectGood
+---
  **Detect Good**
 
 **School** divination; **Level** cleric 1

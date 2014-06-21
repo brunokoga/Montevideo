@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/cupOfDust
+---
 Cup of Dust
 
 **Source** [_cup of dust_](advanced/spells/cupOfDust.md#_cup-of-dust)

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/webShelter
+---
 Web Shelter
 
 **School** conjuration (creation); **Level** cleric 2, druid 2, ranger 2, sorcerer/wizard 2, summoner 2, witch 2

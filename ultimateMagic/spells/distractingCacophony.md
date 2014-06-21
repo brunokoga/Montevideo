@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/distractingCacophony
+---
 Distracting Cacophony
 
 **School** evocation [sonic]; **Level** bard 2, sorcerer/wizard 3

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/dampPowder
+---
 Damp Powder
 
 **School** transmutation; **Level** druid 1, sorcerer/wizard 1, witch 1

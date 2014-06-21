@@ -1,3 +1,6 @@
+---
+title: monsters/sphinx
+---
 # Sphinx
 
 _This creature has the body of a lion, the wings of a falcon, and the head and torso of a beautiful human woman._

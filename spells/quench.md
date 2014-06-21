@@ -1,3 +1,6 @@
+---
+title: spells/quench
+---
  **Quench**
 
 **School** transmutation; **Level** druid 3

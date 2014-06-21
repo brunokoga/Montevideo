@@ -1,3 +1,6 @@
+---
+title: monsters/spectre
+---
 # Spectre
 
 _This translucent, ghostly figure fades into view from the damp mist, its face distorted by wrath into a hideous mask._

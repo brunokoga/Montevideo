@@ -1,3 +1,6 @@
+---
+title: advanced/spells/createPit
+---
  **Create Pit**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 2, summoner 2

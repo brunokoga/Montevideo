@@ -1,3 +1,6 @@
+---
+title: spells/rayOfExhaustion
+---
  **Ray of Exhaustion**
 
 **School** necromancy; **Level** sorcerer/wizard 3

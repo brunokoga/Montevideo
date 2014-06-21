@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/enviousUrge
+---
 Envious Urge
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 4, sorcerer/wizard 6

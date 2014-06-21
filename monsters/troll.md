@@ -1,3 +1,6 @@
+---
+title: monsters/troll
+---
 # Troll
 
 _This tall creature has rough, green hide. Its hands end in claws, and its bestial face has a hideous, tusked underbite._

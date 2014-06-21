@@ -1,3 +1,6 @@
+---
+title: spells/inflictCriticalWounds
+---
  **Inflict Critical Wounds**
 
 **School** necromancy; **Level** cleric 4

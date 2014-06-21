@@ -1,3 +1,6 @@
+---
+title: spells/magicFang
+---
  **Magic Fang**
 
 **School** transmutation; **Level** druid 1, ranger 1

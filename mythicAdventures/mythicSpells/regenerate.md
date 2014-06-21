@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/regenerate
+---
 Regenerate
 
 **Source** [_regenerate_](spells/regenerate.md#_regenerate)

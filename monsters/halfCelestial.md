@@ -1,3 +1,6 @@
+---
+title: monsters/halfCelestial
+---
 # Half-Celestial
 
 _A winged unicorn rises into the air on ivory pinions, a paragon of grace and beauty._

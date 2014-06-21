@@ -1,3 +1,6 @@
+---
+title: monsters/mimic
+---
 # Mimic
 
 _What appeared to be a chest filled with treasure comes to life as it grows long, glistening tentacles and a number of sharp teeth._

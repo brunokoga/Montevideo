@@ -1,3 +1,6 @@
+---
+title: spells/raiseDead
+---
  **Raise Dead**
 
 **School** conjuration (healing); **Level** cleric 5

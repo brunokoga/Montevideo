@@ -1,3 +1,6 @@
+---
+title: monsters/treant
+---
 # Treant
 
 _This animated tree's bark is knotted into vaguely humanoid features, with branches for arms and roots for legs._

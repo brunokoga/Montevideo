@@ -1,3 +1,6 @@
+---
+title: advanced/spells/wallOfSuppression
+---
  **Wall of Suppression**
 
 **School** abjuration; **Level** sorcerer/wizard 9

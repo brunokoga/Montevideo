@@ -1,3 +1,6 @@
+---
+title: spells/foresight
+---
  **Foresight**
 
 **School** divination; **Level** druid 9, sorcerer/wizard 9

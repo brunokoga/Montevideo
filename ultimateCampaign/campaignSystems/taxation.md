@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/taxation
+---
 # Taxation
 
 Even a moderately successful adventurer commands wealth and personal power beyond the means of most normal people in the world. While the common folk adore their heroes and the small-minded envy them, the authorities take a more pragmatic view: How can they and their jurisdictions financially benefit from these adventurers? In the greater campaign, as the PCs advance in stature, they gain the notice of such authorities, who seek a share of the PCs' rewards in the form of taxes. They claim material goods, utilize the PCs' talents in day-to-day life, or even enlist the PCs' services as adventurers. These people see this attention and service as their due for giving adventurers safe haven between quests and, at least in theory, protecting the PCs from the depredations of robbers and swindlers.

@@ -1,3 +1,6 @@
+---
+title: spells/summonNatureSAlly
+---
  **Summon Nature's Ally I**
 
 [Table: Summon Nature's Ally]| 1st Level | Subtype |

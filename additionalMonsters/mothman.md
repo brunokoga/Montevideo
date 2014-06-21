@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/mothman
+---
 # Mothman
 
 A shroud of dark wings cloaks this thin, humanoid shape. Two monstrous red eyes glare malevolently from its narrow face.

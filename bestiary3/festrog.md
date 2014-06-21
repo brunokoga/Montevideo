@@ -1,3 +1,6 @@
+---
+title: bestiary3/festrog
+---
 # Festrog
 
 This hideously malformed, hairless, pustule-covered corpse moves and snarls more like an undead hound than an undead man.

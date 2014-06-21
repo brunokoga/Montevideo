@@ -1,3 +1,6 @@
+---
+title: glossary
+---
 # Special Abilities
 
 The following special abilities include rules commonly used by a number of creatures, spells, and traps.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/memoryLapse
+---
 Memory Lapse
 
 **Source** [_memory lapse_](advanced/spells/memoryLapse.md#_memory-lapse)

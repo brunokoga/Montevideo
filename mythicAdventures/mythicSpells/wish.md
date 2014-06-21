@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/wish
+---
 Wish
 
 **Source** [_wish_](spells/wish.md#_wish)

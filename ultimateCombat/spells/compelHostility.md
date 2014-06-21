@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/compelHostility
+---
 Compel Hostility
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, cleric 1, inquisitor 1, paladin 1, ranger 1, summoner 1, witch 1

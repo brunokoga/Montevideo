@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/druid
+---
 # Druids
 
 Initiate of Flame CR 1/2

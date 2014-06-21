@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/wardingWeapon
+---
 Warding Weapon
 
 **School** abjuration; **Level** magus 1, sorcerer/wizard 2, summoner 2

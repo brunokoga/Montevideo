@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/makeWhole
+---
 Make Whole
 
 **Source** [_make whole_](spells/makeWhole.md#_make-whole)

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/lightningBolt
+---
 Lightning Bolt
 
 **Source** [_lightning bolt_](spells/lightningBolt.md#_lightning-bolt)

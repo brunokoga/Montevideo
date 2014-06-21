@@ -1,3 +1,6 @@
+---
+title: spells/commune
+---
  **Commune**
 
 **School** divination; **Level** cleric 5

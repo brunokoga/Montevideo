@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/oread
+---
 # Oread 
 
 This large warrior appears heavy and solid, with chiseled, angular features that make her look almost like a statue brought to life.

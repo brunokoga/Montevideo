@@ -1,3 +1,6 @@
+---
+title: monsters/mite
+---
 # Mite
 
 _This squat humanoid seems to be nearly all head—an unfortunate circumstance, considering how ugly its puffy blue face is._

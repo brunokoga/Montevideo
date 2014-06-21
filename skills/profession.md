@@ -1,3 +1,6 @@
+---
+title: skills/profession
+---
 # Profession
 
 ## ( [Wis](../gettingStarted.md#_wisdom); Trained Only)

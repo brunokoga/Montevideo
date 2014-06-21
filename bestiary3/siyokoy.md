@@ -1,3 +1,6 @@
+---
+title: bestiary3/siyokoy
+---
 # Siyokoy
 
 This eel-like creature sports sharp frills that run along the back of humanoid torso and down its long, powerful tail.

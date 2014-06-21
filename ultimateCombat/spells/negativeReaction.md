@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/negativeReaction
+---
 Negative Reaction
 
 **School** illusion (glamer); **Level** bard 1, magus 1, sorcerer/wizard 1, witch 1

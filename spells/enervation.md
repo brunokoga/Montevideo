@@ -1,3 +1,6 @@
+---
+title: spells/enervation
+---
  **Enervation**
 
 **School** necromancy; **Level** sorcerer/wizard 4

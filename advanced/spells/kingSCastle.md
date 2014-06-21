@@ -1,3 +1,6 @@
+---
+title: advanced/spells/kingSCastle
+---
  **King's Castle**
 
 **School** conjuration (teleportation); **Level** paladin 4

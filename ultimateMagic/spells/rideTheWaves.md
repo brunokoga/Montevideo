@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/rideTheWaves
+---
 Ride The Waves
 
 **School** transmutation [water]; **Level** cleric 4, druid 4, sorcerer/wizard 4, witch 4

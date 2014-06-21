@@ -1,3 +1,6 @@
+---
+title: bestiary3/globster
+---
 # Globster
 
 This grotesque mass of blubber and rancid flesh piles up hideously upon itself, opening a vast maw filled with teeth.

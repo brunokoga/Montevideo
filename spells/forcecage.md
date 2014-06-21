@@ -1,3 +1,6 @@
+---
+title: spells/forcecage
+---
  **Forcecage**
 
 **School** evocation [force]; **Level** sorcerer/wizard 7

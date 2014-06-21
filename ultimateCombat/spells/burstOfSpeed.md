@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/burstOfSpeed
+---
 Burst of Speed
 
 **School** transmutation; **Level** alchemist 3, antipaladin 3, magus 3, inquisitor 3, paladin 3, ranger 3

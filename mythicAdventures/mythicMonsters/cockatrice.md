@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/cockatrice
+---
 # Cockatrice
 
 _This beast is an unsettling combination of chicken and lizard, and its claws, beak, and wattles seem made of stone. _

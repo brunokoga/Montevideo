@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicItems
+---
 # Mythic Magic Items
 
 Just as their non-mythic counterparts, mythic characters use magic to aid them in their daring quests, but they can utilize some magic items in more powerful ways. In addition, mythic characters encounter artifacts somewhat more often, as such legendary items are often intertwined in their sagas.

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/tentamort
+---
 # Tentamort
 
 This dark blue creature has a conical body covered in angry red eyes and numerous tentacles, two of which are longer than the rest.

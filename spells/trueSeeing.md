@@ -1,3 +1,6 @@
+---
+title: spells/trueSeeing
+---
  **True Seeing**
 
 **School** divination; **Level** cleric 5, druid 7, sorcerer/wizard 6

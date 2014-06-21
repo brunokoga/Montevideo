@@ -1,3 +1,6 @@
+---
+title: bestiary3/seaSerpent
+---
 # Sea Serpent, Deep
 
 This enormous, water-dwelling serpent has bright, bulging eyes and rounded jaws filled with long, jagged teeth.

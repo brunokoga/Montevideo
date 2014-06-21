@@ -1,3 +1,6 @@
+---
+title: spells/transformation
+---
  **Transformation**
 
 **School** transmutation; **Level** sorcerer/wizard 6

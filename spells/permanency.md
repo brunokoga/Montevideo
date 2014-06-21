@@ -1,3 +1,6 @@
+---
+title: spells/permanency
+---
  **Permanency**
 
 **School** universal; **Level** sorcerer/wizard 5

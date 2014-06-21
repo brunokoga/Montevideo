@@ -1,3 +1,6 @@
+---
+title: advanced/coreClasses/sorcerer
+---
 # Sorcerer
 
 Filled with magical power that screams for release, sorcery is not so much a calling as a blessing—or a curse. For some sorcerers, this arcane birthright manifests in subtle and carefully controlled ways, assisting in their manipulation of others or the pursuit of lofty goals. For others, it is wild and unpredictable, the primal and explosive lashing out of a power greater than themselves. Presented below are a number of new bloodlines representing the mysterious origin of your sorcerer's abilities.

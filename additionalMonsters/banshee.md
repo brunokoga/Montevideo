@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/banshee
+---
 # Banshee
 
 This beautiful, ghostly elven woman glides through the air, her long hair flowing around a face knotted into a mask of rage.

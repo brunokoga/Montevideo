@@ -1,3 +1,6 @@
+---
+title: advanced/spells/challengeEvil
+---
  **Challenge Evil**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** paladin 1

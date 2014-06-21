@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/darkness
+---
 Darkness
 
 **Source** [_darkness_](spells/darkness.md#_darkness)

@@ -1,3 +1,6 @@
+---
+title: spells/falseVision
+---
  **False Vision**
 
 **School** illusion (glamer); **Level** bard 5, sorcerer/wizard 5

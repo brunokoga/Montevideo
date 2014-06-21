@@ -1,3 +1,6 @@
+---
+title: advanced/spells/natureSExile
+---
  **Nature's Exile**
 
 **School** transmutation; **Level** druid 3, witch 3

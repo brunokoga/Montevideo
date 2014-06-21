@@ -1,3 +1,6 @@
+---
+title: spells/stoneToFlesh
+---
  **Stone to Flesh**
 
 **School** transmutation; **Level** sorcerer/wizard 6

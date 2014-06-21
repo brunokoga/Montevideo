@@ -1,3 +1,6 @@
+---
+title: spells/liveoak
+---
  **Liveoak**
 
 **School** transmutation; **Level** druid 6

@@ -1,3 +1,6 @@
+---
+title: bestiary3/plasmaOoze
+---
 # Plasma Ooze
 
 This amorphous blob of violet energy ripples like a globe of floating liquid. It periodically lashes out with tendrils of blue light.

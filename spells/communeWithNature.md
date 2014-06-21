@@ -1,3 +1,6 @@
+---
+title: spells/communeWithNature
+---
  **Commune with Nature**
 
 **School** divination; **Level** druid 5, ranger 4

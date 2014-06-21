@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-ranger
+---
 - [**Abundant Ammunition**](ultimateCombat/spells/abundantAmmunition.md#_abundant-ammunition)
 - [**Air Bubble**](ultimateCombat/spells/airBubble.md#_air-bubble)
 - [**Alarm**](spells/alarm.md#_alarm)

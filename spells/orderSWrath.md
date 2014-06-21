@@ -1,3 +1,6 @@
+---
+title: spells/orderSWrath
+---
  **Order's Wrath**
 
 **School** evocation [lawful]; **Level** cleric 4

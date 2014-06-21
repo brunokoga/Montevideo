@@ -1,3 +1,6 @@
+---
+title: advanced/spells/versatileWeapon
+---
  **Versatile Weapon**
 
 **School** transmutation; **Level** bard 2, ranger 2, sorcerer/wizard 3

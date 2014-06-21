@@ -1,3 +1,6 @@
+---
+title: navigation/magicitems-by-book
+---
 - [Browse](advanced/advancedMagicItems.md)
 - Armor
 - Rings

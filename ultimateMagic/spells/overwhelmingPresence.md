@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/overwhelmingPresence
+---
 Overwhelming Presence
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 6, cleric 9, inquisitor 6, sorcerer/wizard 9

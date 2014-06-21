@@ -1,3 +1,6 @@
+---
+title: advanced/spells/riverOfWind
+---
  **River of Wind**
 
 **School** evocation [air]; **Level** druid 4, sorcerer/wizard 4

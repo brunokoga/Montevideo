@@ -1,3 +1,6 @@
+---
+title: spells/dancingLights
+---
  **Dancing Lights**
 
 **School** evocation [light]; **Level** bard 0, sorcerer/wizard 0

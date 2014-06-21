@@ -1,3 +1,6 @@
+---
+title: monsters/dryad
+---
 # Dryad
 
 _This strange, beautiful woman has flesh that seems made of wood and vibrant hair that resembles leaves and blossoms._

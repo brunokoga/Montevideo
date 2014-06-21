@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/restoreCorpse
+---
 Restore Corpse
 
 **School** necromancy; **Level** cleric 1, druid 1, sorcerer/wizard 1, witch 1

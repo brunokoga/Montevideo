@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/sinspawn
+---
 # Sinspawn
 
 This hairless humanoid lurches on back-bent, dog-like legs, its hideous mouth flanked by tiny arms with three-fingered hands.

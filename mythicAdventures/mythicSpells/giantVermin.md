@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/giantVermin
+---
 Giant Vermin
 
 **Source** [_giant vermin_](spells/giantVermin.md#_giant-vermin)

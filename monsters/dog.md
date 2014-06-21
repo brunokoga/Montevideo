@@ -1,3 +1,6 @@
+---
+title: monsters/dog
+---
 # Dog
 
 _This small dog has a rough coat and a hungry look in its dark brown eyes._

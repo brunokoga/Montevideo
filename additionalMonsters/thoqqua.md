@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/thoqqua
+---
 # Thoqqua
 
 This creature's thick, serpentine body is protected by dense, horny plates. A visible haze of heat rises from its red-hot scales.

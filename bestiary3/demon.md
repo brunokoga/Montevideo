@@ -1,3 +1,6 @@
+---
+title: bestiary3/demon
+---
 # Demon, Coloxus
 
 This figure would be the picture of elegance and refinement were it not for its grotesque fly head and shivering insectile wings.

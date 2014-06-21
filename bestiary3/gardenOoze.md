@@ -1,3 +1,6 @@
+---
+title: bestiary3/gardenOoze
+---
 # Garden Ooze
 
 What seems to be a mass of diseased fibers growing on a plant suddenly moves and slithers independently from its sickly host.

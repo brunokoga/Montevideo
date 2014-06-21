@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/epidemic
+---
 Epidemic
 
 **School** necromancy [disease, evil]; **Level** cleric 6, druid 6, sorcerer/wizard 7, witch 6

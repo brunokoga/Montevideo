@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/eagleAerie
+---
 Eagle Aerie
 
 **School** conjuration (summoning) [good]; **Level** druid 6, summoner 6

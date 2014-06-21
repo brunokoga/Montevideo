@@ -1,3 +1,6 @@
+---
+title: bestiary3/berbalang
+---
 # Berbalang
 
 This hunched, bat-winged horror moves with an uncanny grace, its glowing eyes and long tongue presenting a frightening visage.

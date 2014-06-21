@@ -1,3 +1,6 @@
+---
+title: magicItems/cursedItems
+---
 # Cursed Items
 
 [Table: Common Item Curses]

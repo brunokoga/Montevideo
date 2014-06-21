@@ -1,3 +1,6 @@
+---
+title: spells/geasQuest
+---
  **Geas, Lesser**
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** bard 3, sorcerer/wizard 4

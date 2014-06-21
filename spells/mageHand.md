@@ -1,3 +1,6 @@
+---
+title: spells/mageHand
+---
  **Mage Hand**
 
 **School** transmutation; **Level** bard 0, sorcerer/wizard 0

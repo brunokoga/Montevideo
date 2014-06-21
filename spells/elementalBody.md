@@ -1,3 +1,6 @@
+---
+title: spells/elementalBody
+---
  **Elemental Body I**
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 4

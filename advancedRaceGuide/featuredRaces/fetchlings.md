@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/featuredRaces/fetchlings
+---
 # Fetchlings 
 
 Descended from humans trapped on the Shadow Plane, fetchlings are creatures of darkness and light intertwined. Generations of contact with that strange plane and its denizens have made fetchlings a race apart from humanity. While fetchlings acknowledge their origins, they exhibit little physical or cultural resemblance to their ancestors on the Material Plane, and are often insulted when compared to humans. Some members of the race also take offense at the name fetchling, as it was given to them by humans who saw them as little more than fetchers of rare materials from the Shadow Plane. Most fetchlings instead prefer to be called _kayal_, a word borrowed from Aklo that roughly translates to "shadow people" or "dusk dwellers."

@@ -1,3 +1,6 @@
+---
+title: magicItems/potions
+---
 # Potions
 
 [Table: Potions]

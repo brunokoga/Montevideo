@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/heretics
+---
 # Heretics
 
 Those who indulge in dark mysteries and commune with powers from fell realms beyond the veil of reality find themselves shunned by fearful folk and branded heretics. Although not all who call upon the powers of the planes are evil, the subversive call and tempting offers of immortal fiends prove overwhelming to many heretics, corrupting even the best intentions to foulness. Often, such corruption takes the form of perverse, fiend worshiping religion binding together nefarious sorts into secretive cults.

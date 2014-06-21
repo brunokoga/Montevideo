@@ -1,3 +1,6 @@
+---
+title: spells/calmAnimals
+---
  **Calm Animals**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** druid 1, ranger 1

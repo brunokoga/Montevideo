@@ -1,3 +1,6 @@
+---
+title: bestiary3/ahuizotl
+---
 # Ahuizotl
 
 This bear-sized beast has a body like a squat simian, a dog's face, and a long tail that ends in a clawed hand.

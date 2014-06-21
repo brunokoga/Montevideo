@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/magicMissle
+---
 Magic Missile
 
 **Source** [_magic missile_](spells/magicMissile.md#_magic-missile)

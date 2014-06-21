@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/necrophidius
+---
 # Necrophidius
 
 The soft scrape of bone reveals the long, sinuous skeleton of a large snake, its head a humanoid skull with a snake's jaws.

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/thunderFire
+---
 Thunder Fire
 
 **School** transmutation; **Level** bard 2, sorcerer/wizard 2, witch 2

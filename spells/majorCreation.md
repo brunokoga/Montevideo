@@ -1,3 +1,6 @@
+---
+title: spells/majorCreation
+---
  **Major Creation**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 5

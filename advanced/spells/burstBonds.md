@@ -1,3 +1,6 @@
+---
+title: advanced/spells/burstBonds
+---
  **Burst Bonds**
 
 **School** evocation; **Level** inquisitor 1

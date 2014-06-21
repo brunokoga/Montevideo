@@ -1,3 +1,6 @@
+---
+title: skills/spellcraft
+---
 # Spellcraft
 
 ## ( [Int](../gettingStarted.md#_intelligence); Trained Only)

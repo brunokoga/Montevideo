@@ -1,3 +1,6 @@
+---
+title: bestiary3/tzitzimitl
+---
 # Tzitzimitl
 
 Crusted with rock, this immense skeletal figure flies swiftly through the air, strange gasses clinging to its nightmarish form.

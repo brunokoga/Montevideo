@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/scorpion
+---
 # Scorpion, Black 
 
 This towering scorpion's carapace is as black as coal, and its claws are each as long as a man's body.

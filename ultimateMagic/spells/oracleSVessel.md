@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/oracleSVessel
+---
 Oracle's Vessel
 
 **School** transmutation; **Level** oracle 4

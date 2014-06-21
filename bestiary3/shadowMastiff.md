@@ -1,3 +1,6 @@
+---
+title: bestiary3/shadowMastiff
+---
 # Shadow Mastiff
 
 This muscular canine has a maw full of sharp teeth and an inky black coat that almost seems to drink in the light around it.

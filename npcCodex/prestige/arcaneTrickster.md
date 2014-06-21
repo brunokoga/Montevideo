@@ -1,3 +1,6 @@
+---
+title: npcCodex/prestige/arcaneTrickster
+---
 # Arcane Tricksters
 
 Stage Magician CR 8

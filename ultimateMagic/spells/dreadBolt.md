@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/dreadBolt
+---
 Dread Bolt
 
 **School** evocation [evil]; **Level** cleric 2

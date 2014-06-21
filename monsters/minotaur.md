@@ -1,3 +1,6 @@
+---
+title: monsters/minotaur
+---
 # Minotaur
 
 _With the body of a powerfully built man and the head of a snarling bull, this creature stomps its hooves as if preparing to charge._

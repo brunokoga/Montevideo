@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/confusion
+---
 Confusion
 
 **Source** [_confusion_](spells/confusion.md#_confusion)

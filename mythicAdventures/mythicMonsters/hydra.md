@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/hydra
+---
 # Hydra
 
 _This seven-headed serpent has serrated fangs, and moves with incredible speed despite its massive bulk. _

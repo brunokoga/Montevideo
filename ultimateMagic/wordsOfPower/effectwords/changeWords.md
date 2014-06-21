@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/changeWords
+---
 ## Change Words
 
 Words from this family change the target's form, granting special attacks and powers.

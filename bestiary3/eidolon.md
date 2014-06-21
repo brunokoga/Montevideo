@@ -1,3 +1,6 @@
+---
+title: bestiary3/eidolon
+---
 # Eidolon, Unfettered
 
 This bizarre amalgam of monstrous parts rampages forth, an eldritch rune seared upon its forehead.

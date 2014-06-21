@@ -1,3 +1,6 @@
+---
+title: bestiary3/derhii
+---
 # Derhii
 
 Powerful black wings beat from the back of this large ape, which carries a wickedly curved sword in its simian hands.

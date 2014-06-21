@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/resistEnergy
+---
 Resist Energy
 
 **Source** [_resist energy_](spells/resistEnergy.md#_resist-energy)

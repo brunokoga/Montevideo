@@ -1,3 +1,6 @@
+---
+title: bestiary3/vanara
+---
 # Vanara
 
 This lean, simian humanoid is covered in a layer of soft, lightly colored fur and has a long, prehensile tail.

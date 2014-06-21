@@ -1,3 +1,6 @@
+---
+title: usingSkills
+---
 # Skills
 
 Skills represent some of the most basic and yet most fundamental abilities your character possesses. As your character advances in level, he can gain new skills and improve his existing skills dramatically.

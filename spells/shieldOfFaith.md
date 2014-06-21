@@ -1,3 +1,6 @@
+---
+title: spells/shieldOfFaith
+---
  **Shield of Faith**
 
 **School** abjuration; **Level** cleric 1

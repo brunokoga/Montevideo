@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/ifrit
+---
 # Ifrit
 
 This muscular, fiery-skinned man has flaming hair and spotted horns upon his brow.

@@ -1,3 +1,6 @@
+---
+title: spells/charmPerson
+---
  **Charm Person**
 
 **School** enchantment (charm) [mind-affecting]; **Level** bard 1, sorcerer/wizard 1

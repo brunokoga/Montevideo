@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/iceCrystalTeleport
+---
 Ice Crystal Teleport
 
 **School** conjuration (teleportation) [cold]; **Level** sorcerer/wizard 6, summoner 5, witch 6

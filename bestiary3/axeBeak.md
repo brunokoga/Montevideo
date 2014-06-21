@@ -1,3 +1,6 @@
+---
+title: bestiary3/axeBeak
+---
 # Axe Beak
 
 This stout flightless bird stands upon two long, taloned legs, but it is its axe-shaped beak that looks the most ferocious.

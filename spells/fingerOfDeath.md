@@ -1,3 +1,6 @@
+---
+title: spells/fingerOfDeath
+---
  **Finger of Death**
 
 **School** necromancy [death]; **Level** druid 8, sorcerer/wizard 7

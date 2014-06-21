@@ -1,3 +1,6 @@
+---
+title: spells/ropeTrick
+---
  **Rope Trick**
 
 **School** transmutation; **Level** sorcerer/wizard 2

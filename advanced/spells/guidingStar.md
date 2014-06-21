@@ -1,3 +1,6 @@
+---
+title: advanced/spells/guidingStar
+---
  **Guiding Star**
 
 **School** divination; **Level** cleric 3, ranger 2, witch 3

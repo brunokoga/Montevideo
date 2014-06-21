@@ -1,3 +1,6 @@
+---
+title: spells/resistEnergy
+---
  **Resist Energy**
 
 **School** abjuration; **Level** cleric 2, druid 2, paladin 2, ranger 1, sorcerer/wizard 2

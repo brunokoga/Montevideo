@@ -1,3 +1,6 @@
+---
+title: bestiary3/brainOoze
+---
 # Brain Ooze
 
 Two slimy tentacles protrude from the sides of this brain-shaped mass of quivering ooze.

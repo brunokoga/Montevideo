@@ -1,3 +1,6 @@
+---
+title: bestiary3/lammasu
+---
 # Lammasu
 
 This majestic creature has the body of a lion, the wings of an eagle, and the face of a wise human man.

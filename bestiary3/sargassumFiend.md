@@ -1,3 +1,6 @@
+---
+title: bestiary3/sargassumFiend
+---
 # Sargassum Fiend
 
 This shifting mass of green seaweed transforms from the shape of a humanoid back to a patch of algae, continually changing.

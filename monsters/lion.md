@@ -1,3 +1,6 @@
+---
+title: monsters/lion
+---
 # Lion
 
 _This great cat's muscles flex visibly under its skin as it bares its fangs and shakes its thick mane of hair._

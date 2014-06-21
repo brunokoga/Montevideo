@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/magicArmsAndArmor/specificMagicWeapons
+---
 # Specific Magic Weapons
 
 This magic item category includes various weapons of various types (bows, swords, and so on) with unusual powers not available as special abilities in the previous section.

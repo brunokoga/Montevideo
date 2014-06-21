@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/spellImmunity
+---
 Spell Immunity, Communal
 
 **Level** cleric 5, inquisitor 5

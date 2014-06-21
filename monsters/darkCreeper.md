@@ -1,3 +1,6 @@
+---
+title: monsters/darkCreeper
+---
 # Dark Creeper
 
 _Filthy, reeking black rags wrap this small humanoid from head to toe, leaving only its hands and pale white nose visible._

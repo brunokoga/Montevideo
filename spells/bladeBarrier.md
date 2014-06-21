@@ -1,3 +1,6 @@
+---
+title: spells/bladeBarrier
+---
  **Blade Barrier**
 
 **School** evocation [force]; **Level** cleric 6

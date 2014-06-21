@@ -1,3 +1,6 @@
+---
+title: monsters/cloaker
+---
 # Cloaker
 
 _This ray-like creature opens a toothy maw and leers with glaring red eyes. Behind it whips a menacing tail of segmented bone._

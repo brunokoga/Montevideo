@@ -1,3 +1,6 @@
+---
+title: spells/dismissal
+---
  **Dismissal**
 
 **School** abjuration; **Level** cleric 4, sorcerer/wizard 5

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/ranger
+---
 # Ranger
 
 Rangers are the masters of the borderlands, staunch and adaptable keepers of their chosen domains. Where druids seek solace in nature, rangers occupy the blurred lines between society and the wild, learning from their favored environments and hardening themselves into apex predators within their domains, whether they be scouts, trackers, bounty hunters, or other fringe-dwellers. Though most people think of rangers as physical warriors, in fact they possess many important spellcasting abilities as well.

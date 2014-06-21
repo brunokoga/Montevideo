@@ -1,3 +1,6 @@
+---
+title: magicItems/intelligentItems
+---
 # Intelligent Items
 
 [Table: Intelligent Item Alignment]

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/fungalCrawler
+---
 # Fungal Crawler
 
 This giant fanged cricket is caked in pungent fungal growths and topped with a mushroom-like cap.

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/hiddenSpeech
+---
  **Hidden Speech**
 
 **School** transmutation [language-dependent]; **Level** bard 2, inquisitor 3, witch 2

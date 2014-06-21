@@ -1,3 +1,6 @@
+---
+title: spells/displacement
+---
  **Displacement**
 
 **School** illusion (glamer); **Level** bard 3, sorcerer/wizard 3

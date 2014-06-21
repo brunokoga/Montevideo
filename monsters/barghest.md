@@ -1,3 +1,6 @@
+---
+title: monsters/barghest
+---
 # Barghest
 
 _This snarling, canine beast pads forward on all fours, its slender front limbs looking more like hands than a wolf's paws._

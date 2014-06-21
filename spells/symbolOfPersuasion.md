@@ -1,3 +1,6 @@
+---
+title: spells/symbolOfPersuasion
+---
  **Symbol of Persuasion**
 
 **School** enchantment (charm) [mind-affecting]; **Level** cleric 6, sorcerer/wizard 6

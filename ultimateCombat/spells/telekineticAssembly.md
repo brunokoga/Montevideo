@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/telekineticAssembly
+---
 Telekinetic Assembly
 
 **School** transmutation; **Level** magus 2, sorcerer/wizard 2

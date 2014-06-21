@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/golem
+---
 # Golem, Adamantine
 
 This huge construct of black metal is all spikes and armor, save for several forge-like stacks that burn atop its crown and back.

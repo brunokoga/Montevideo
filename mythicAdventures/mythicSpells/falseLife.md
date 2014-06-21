@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/falseLife
+---
 False Life
 
 **Source** [_false life_](spells/falseLife.md#_false-life)

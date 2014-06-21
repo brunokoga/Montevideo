@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/grippli
+---
 # Grippli
 
 Its slick skin a mottled pattern of bright colors, this agile, frog-like humanoid carries a bow and wears leather armor.

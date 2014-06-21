@@ -1,3 +1,6 @@
+---
+title: advanced/spells/euphoricTranquility
+---
  **Euphoric Tranquility**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 6, cleric 8, druid 8, sorcerer/wizard 8

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/faerieFire
+---
 Faerie Fire
 
 **Source** [_faerie fire_](spells/faerieFire.md#_faerie-fire)

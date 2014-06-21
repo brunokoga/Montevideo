@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/deathless
+---
 Deathless
 
 **School** necromancy; **Level** alchemist 4, cleric 4, inquisitor 4, sorcerer/wizard 4, witch 4

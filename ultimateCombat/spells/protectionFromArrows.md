@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/protectionFromArrows
+---
 Protection from Arrows, Communal
 
 **Level** alchemist 3, sorcerer/wizard 3, summoner 3

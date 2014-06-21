@@ -1,3 +1,6 @@
+---
+title: spells/status
+---
  **Status**
 
 **School** divination; **Level** cleric 2

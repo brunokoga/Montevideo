@@ -1,3 +1,6 @@
+---
+title: spells/reverseGravity
+---
  **Reverse Gravity**
 
 **School** transmutation; **Level** druid 8, sorcerer/wizard 7

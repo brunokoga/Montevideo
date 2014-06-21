@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/unadulteratedLoathing
+---
 Unadulterated Loathing
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** antipaladin 2, bard 2, sorcerer/wizard 3, witch 3

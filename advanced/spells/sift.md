@@ -1,3 +1,6 @@
+---
+title: advanced/spells/sift
+---
  **Sift**
 
 **School** divination; **Level** bard 0, inquisitor 0

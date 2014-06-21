@@ -1,3 +1,6 @@
+---
+title: bestiary3/ratfolk
+---
 # Ratfolk
 
 This small, ratlike humanoid has a twitching, whiskered snout, pointed ears, and a long, leathery tail.

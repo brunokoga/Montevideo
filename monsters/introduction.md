@@ -1,3 +1,6 @@
+---
+title: monsters/introduction
+---
 # Introduction
 
 While each monster is a unique creature, many possess similar special attacks, defenses, and qualities. Unique abilities are described below the monster's stat block. Many abilities common to several monsters appear in the [universal monster rules](universalMonsterRules.md). If a monster's listed special ability does not appear in its description, you'll find it there.

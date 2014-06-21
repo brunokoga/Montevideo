@@ -1,3 +1,6 @@
+---
+title: spells/blessWater
+---
  **Bless Water**
 
 **School** transmutation [good]; **Level** cleric 1, paladin 1

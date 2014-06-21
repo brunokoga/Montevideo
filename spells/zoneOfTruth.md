@@ -1,3 +1,6 @@
+---
+title: spells/zoneOfTruth
+---
  **Zone of Truth**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 2, paladin 2

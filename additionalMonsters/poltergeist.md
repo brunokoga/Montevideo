@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/poltergeist
+---
 # Poltergeist
 
 A ghostly, skeletal figure rises up amid a whirling cyclone of tools, plates, utensils, and other loose objects.

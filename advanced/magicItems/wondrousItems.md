@@ -1,3 +1,6 @@
+---
+title: advanced/magicItems/wondrousItems
+---
 [Table: Minor Wondrous Items]
 | d% | Item | Market Price |
 | --- | --- | --- |

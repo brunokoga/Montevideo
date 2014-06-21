@@ -1,3 +1,6 @@
+---
+title: spells/aid
+---
  **Aid**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 2

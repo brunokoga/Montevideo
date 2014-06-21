@@ -1,3 +1,6 @@
+---
+title: advanced/magicItems/weapons
+---
 # Weapons
 
 The following armor and shield properties add to those presented in the _Pathfinder RPG Core Rulebook_.

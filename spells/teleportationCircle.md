@@ -1,3 +1,6 @@
+---
+title: spells/teleportationCircle
+---
  **Teleportation Circle**
 
 **School** conjuration (teleportation); **Level** sorcerer/wizard 9

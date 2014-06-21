@@ -1,3 +1,6 @@
+---
+title: advanced/spells/saddleSurge
+---
  **Saddle Surge**
 
 **School** transmutation; **Level** paladin 2

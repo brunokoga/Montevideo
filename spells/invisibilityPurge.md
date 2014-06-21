@@ -1,3 +1,6 @@
+---
+title: spells/invisibilityPurge
+---
  **Invisibility Purge**
 
 **School** evocation; **Level** cleric 3

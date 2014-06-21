@@ -1,3 +1,6 @@
+---
+title: bestiary3/clockwork
+---
 # Clockwork
 
 Clockwork constructs are the technological cousins of golems, constructed with a combination of magic and precise technologies dependant upon the internal churning and turning of thousands of intricate springs, screws, and gears.

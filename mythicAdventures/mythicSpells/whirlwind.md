@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/whirlwind
+---
 Whirlwind
 
 **Source** [_whirlwind_](spells/whirlwind.md#_whirlwind)

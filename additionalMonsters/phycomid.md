@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/phycomid
+---
 # Phycomid
 
 This tangle of purple-capped mushrooms growing out of a nasty green sludge shudders and writhes, wafting tendrils of smoke.

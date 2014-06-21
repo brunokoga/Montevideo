@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/spriggan
+---
 # Spriggan
 
 Flecks of saliva drip from the corners of this filthy and ill-smelling humanoid, and his large pointed ears twitch at every sound.

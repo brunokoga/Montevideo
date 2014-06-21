@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/hauntingChoir
+---
 Haunting Choir
 
 **School** necromancy [mind-affecting, pain]; **Level** bard 3

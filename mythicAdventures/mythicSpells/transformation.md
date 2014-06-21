@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/transformation
+---
 Transformation
 
 **Source** [_transformation_](spells/transformation.md#_transformation)

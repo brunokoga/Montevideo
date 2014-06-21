@@ -1,3 +1,6 @@
+---
+title: spells/symbolOfPain
+---
  **Symbol of Pain**
 
 **School** necromancy [evil]; **Level** cleric 5, sorcerer/wizard 5

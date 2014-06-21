@@ -1,3 +1,6 @@
+---
+title: spells/stabilize
+---
  **Stabilize**
 
 **School** conjuration (healing); **Level** cleric 0, druid 0

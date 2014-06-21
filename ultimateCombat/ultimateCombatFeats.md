@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/ultimateCombatFeats
+---
 # Feats
 
 Feats represent special tricks or abilities a character has acquired through training, luck, or as a quirk of his birth. They grant characters abilities that others lack, giving them an edge in the right situation. While some feats specifically interact with a PC's race or class, most are available to anyone who meets the prerequisites. This section introduces two new types of feats—grit feats and style feats. Grit feats expand a gunslinger's ability to use grit and deeds, while style feats each grant a style of martial arts that can be used by monks and other characters who learn the style.

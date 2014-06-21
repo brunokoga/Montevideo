@@ -1,3 +1,6 @@
+---
+title: spells/magicMouth
+---
  **Magic Mouth**
 
 **School** illusion (glamer); **Level** bard 1, sorcerer/wizard 2

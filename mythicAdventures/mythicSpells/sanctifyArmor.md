@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/sanctifyArmor
+---
 Sanctify Armor
 
 **Source** [_sanctify armor_](advanced/spells/sanctifyArmor.md#_sanctify-armor)

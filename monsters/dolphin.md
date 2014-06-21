@@ -1,3 +1,6 @@
+---
+title: monsters/dolphin
+---
 # Dolphin
 
 _This streamlined, fish-like mammal has sparkling eyes over a smiling mouth filled with hundreds of teeth._

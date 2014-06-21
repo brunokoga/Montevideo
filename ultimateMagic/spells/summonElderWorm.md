@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/summonElderWorm
+---
 Summon Elder Worm
 
 **School** conjuration (summoning); **Level** druid 9

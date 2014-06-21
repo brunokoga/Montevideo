@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/tarBall
+---
 Tar Ball
 
 **School** transmutation; **Level** druid 2

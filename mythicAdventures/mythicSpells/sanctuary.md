@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/sanctuary
+---
 Sanctuary
 
 **Source** [_sanctuary_](spells/sanctuary.md#_sanctuary)

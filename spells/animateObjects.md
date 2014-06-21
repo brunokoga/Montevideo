@@ -1,3 +1,6 @@
+---
+title: spells/animateObjects
+---
  **Animate Objects**
 
 **School** transmutation; **Level** bard 6, cleric 6

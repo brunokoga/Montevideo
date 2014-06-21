@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/arborealHammer
+---
 Arboreal Hammer
 
 **Source** [_arboreal hammer_](ultimateMagic/spells/arborealHammer.md#_arboreal-hammer)

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/sanctifyCorpse
+---
 Sanctify Corpse
 
 **School** evocation [good]; **Level** cleric 1, inquisitor 1, paladin 1, witch 1

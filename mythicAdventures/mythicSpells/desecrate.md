@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/desecrate
+---
 Desecrate
 
 **Source** [_desecrate_](spells/desecrate.md#_desecrate)

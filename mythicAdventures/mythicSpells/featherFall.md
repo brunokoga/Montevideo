@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/featherFall
+---
 Feather Fall
 
 **Source** [_feather fall_](spells/featherFall.md#_feather-fall)

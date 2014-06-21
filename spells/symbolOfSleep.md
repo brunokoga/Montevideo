@@ -1,3 +1,6 @@
+---
+title: spells/symbolOfSleep
+---
  **Symbol of Sleep**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 5, sorcerer/wizard 5

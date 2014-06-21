@@ -1,3 +1,6 @@
+---
+title: monsters/behir
+---
 # Behir
 
 _This slithering, multilegged blue reptile has a fearsome head crowned with two large, curling horns._

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/powerWordKill
+---
 Power Word Kill
 
 **Source** [_power word kill_](spells/powerWordKill.md#_power-word-kill)

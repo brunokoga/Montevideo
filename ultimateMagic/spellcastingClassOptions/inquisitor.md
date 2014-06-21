@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/inquisitor
+---
 # Inquisitor
 
 Almost everyone has a vision of the inquisitor—garbed in a mix of regalia and the rough-and-tumble tools of the adventurer, her word is often treated as divine law. But this is merely the most dramatic aspect of the inquisitor. Her world is filled with secret knowledge, constant danger, and strange mortal and outsider politics. The inquisitor's path has many branches and specializations, each with its own methods for rooting out and vanquishing enemies of the faith.

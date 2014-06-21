@@ -1,3 +1,6 @@
+---
+title: spells/enlargePerson
+---
  **Enlarge Person**
 
 **School** transmutation; **Level** sorcerer/wizard 1

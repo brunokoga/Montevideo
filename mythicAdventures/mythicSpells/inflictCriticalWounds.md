@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/inflictCriticalWounds
+---
 Inflict Critical Wounds
 
 **Source** [_inflict critical wounds_](spells/inflictCriticalWounds.md#_inflict-critical-wounds)

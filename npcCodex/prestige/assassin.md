@@ -1,3 +1,6 @@
+---
+title: npcCodex/prestige/assassin
+---
 # Assassins
 
 Sacred Killer CR 8

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/planarAdaptation
+---
  **Planar Adaptation**
 
 **School** transmutation; **Level** alchemist 5, cleric 4, sorcerer/wizard 5, summoner 5

@@ -1,3 +1,6 @@
+---
+title: monsters/boggard
+---
 # Boggard
 
 _Bulbous eyes glare atop this creature's decidedly toad-like head. A multitude of warts and bumps decorate its greenish skin._

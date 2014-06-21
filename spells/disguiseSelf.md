@@ -1,3 +1,6 @@
+---
+title: spells/disguiseSelf
+---
  **Disguise Self**
 
 **School** illusion (glamer); **Level** bard 1, sorcerer/wizard 1

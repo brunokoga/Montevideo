@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/retirement
+---
 # Retirement
 
 Every hero's journey comes to an end. Ideally this happens at the conclusion of the campaign, but not every hero makes it that far. Some are crippled in battle, killed without the possibility of resurrection, or altered beyond recognition by foul magic. Others lose the will to adventure or their motives for adventuring become irrelevant. Characters can also fall by the wayside for out-of-game reasons, such as a player's schedule changing and preventing participation or the player losing interest in playing the character or the game.

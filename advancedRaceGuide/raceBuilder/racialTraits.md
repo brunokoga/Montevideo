@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/raceBuilder/racialTraits
+---
 # Racial Traits
 
 ## Ability Score Racial Traits

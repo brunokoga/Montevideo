@@ -1,3 +1,6 @@
+---
+title: advanced/spells/cowardSLament
+---
  **Coward's Lament**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** inquisitor 4

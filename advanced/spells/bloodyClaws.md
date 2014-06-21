@@ -1,3 +1,6 @@
+---
+title: advanced/spells/bloodyClaws
+---
  **Bloody Claws**
 
 **School** necromancy; **Level** druid 4, ranger 3

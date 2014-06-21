@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/conjureBlackPudding
+---
 Conjure Black Pudding
 
 **School** conjuration (summoning) [acid]; **Level** sorcerer/wizard 6, summoner 5

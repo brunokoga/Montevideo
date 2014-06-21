@@ -1,3 +1,6 @@
+---
+title: spells/heal
+---
  **Heal**
 
 **School** conjuration (healing); **Level** cleric 6, druid 7

@@ -1,3 +1,6 @@
+---
+title: spells/zoneOfSilence
+---
  **Zone of Silence**
 
 **School** illusion (glamer); **Level** bard 4

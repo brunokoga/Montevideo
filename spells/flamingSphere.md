@@ -1,3 +1,6 @@
+---
+title: spells/flamingSphere
+---
  **Flaming Sphere**
 
 **School** evocation [fire]; **Level** druid 2, sorcerer/wizard 2

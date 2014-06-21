@@ -1,3 +1,6 @@
+---
+title: skills/senseMotive
+---
 # Sense Motive
 
 ## ( [Wis](../gettingStarted.md#_wisdom))

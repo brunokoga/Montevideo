@@ -1,3 +1,6 @@
+---
+title: spells/speakWithAnimals
+---
  **Speak with Animals**
 
 **School** divination; **Level** bard 3, druid 1, ranger 1

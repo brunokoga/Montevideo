@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/siegeOfTrees
+---
 Siege of Trees
 
 **School** transmutation; **Level** druid 7

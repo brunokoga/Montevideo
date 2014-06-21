@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/break
+---
 Break
 
 **Source** [_break_](advanced/spells/break.md#_break-)

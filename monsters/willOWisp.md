@@ -1,3 +1,6 @@
+---
+title: monsters/willOWisp
+---
 # Will-o'-Wisp
 
 _This faintly glowing ball of light bobs gently in the air, the nebulous image of what might be a skull visible somewhere in its depths._

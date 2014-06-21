@@ -1,3 +1,6 @@
+---
+title: bestiary3/dinosaur
+---
 # Dinosaur, Dimetrodon
 
 The massive sail on the back of this squat reptilian creature flexes and twitches as the beast stalks forward.

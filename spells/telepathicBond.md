@@ -1,3 +1,6 @@
+---
+title: spells/telepathicBond
+---
  **Telepathic Bond**
 
 **School** divination; **Level** sorcerer/wizard 5

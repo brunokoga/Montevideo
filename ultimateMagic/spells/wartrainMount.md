@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/wartrainMount
+---
 Wartrain Mount
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** antipaladin 1, bard 2, druid 2, inquisitor 1, paladin 1, ranger 1

@@ -1,3 +1,6 @@
+---
+title: bestiary3/mobogo
+---
 # Mobogo
 
 This grotesque creature looks like a gigantic toad with leathery wings, fangs, horns, and three bulbous eyes.

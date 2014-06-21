@@ -1,3 +1,6 @@
+---
+title: advanced/spells/resurgentTransformation
+---
  **Resurgent Transformation**
 
 **School** conjuration (healing); **Level** alchemist 5

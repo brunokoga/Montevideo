@@ -1,3 +1,6 @@
+---
+title: spells/resurrection
+---
  **Resurrection**
 
 **School** conjuration (healing); **Level** cleric 7

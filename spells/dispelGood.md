@@ -1,3 +1,6 @@
+---
+title: spells/dispelGood
+---
  **Dispel Good**
 
 **School** abjuration [evil]; **Level** cleric 5

@@ -1,3 +1,6 @@
+---
+title: bestiary3/magmin
+---
 # Magmin
 
 Built of fire and magma, this short humanoid radiates intense heat that causes the air around it to shimmer.

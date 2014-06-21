@@ -1,3 +1,6 @@
+---
+title: advanced/spells/cupOfDust
+---
  **Cup of Dust**
 
 **School** transmutation; **Level** druid 3, witch 3

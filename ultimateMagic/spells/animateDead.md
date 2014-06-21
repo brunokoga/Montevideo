@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/animateDead
+---
 Animate Dead, Lesser
 
 **School** necromancy [evil]; **Level** cleric 2, sorcerer/wizard 3

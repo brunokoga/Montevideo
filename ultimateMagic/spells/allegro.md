@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/allegro
+---
 Allegro
 
 **School** transmutation; **Level** bard 2

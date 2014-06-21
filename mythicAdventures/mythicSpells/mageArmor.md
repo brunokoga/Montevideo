@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/mageArmor
+---
 Mage Armor
 
 **Source** [_mage armor_](spells/mageArmor.md#_mage-armor)

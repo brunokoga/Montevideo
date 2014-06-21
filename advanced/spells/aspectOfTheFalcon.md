@@ -1,3 +1,6 @@
+---
+title: advanced/spells/aspectOfTheFalcon
+---
  **Aspect of the Falcon**
 
 **School** transmutation (polymorph); **Level** druid 1, ranger 1

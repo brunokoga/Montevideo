@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/peryton
+---
 # Peryton
 
 This creature has a stag's body, a hawk's wings and talons, and the head of a slavering wolf with a rack of sharp antlers on its brow.

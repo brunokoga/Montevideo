@@ -1,3 +1,6 @@
+---
+title: advanced/spells/tsunami
+---
  **Tsunami**
 
 **School** conjuration (creation) [water]; **Level** druid 9, sorcerer/wizard 9

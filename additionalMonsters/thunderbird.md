@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/thunderbird
+---
 # Thunderbird
 
 This enormous bird has feathers the color of a stormy sky, a resemblance enhanced by the lightning that dances over its body.

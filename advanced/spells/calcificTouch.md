@@ -1,3 +1,6 @@
+---
+title: advanced/spells/calcificTouch
+---
  **Calcific Touch**
 
 **School** transmutation [earth]; **Level** sorcerer/wizard 4

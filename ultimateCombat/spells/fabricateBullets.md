@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/fabricateBullets
+---
 Fabricate Bullets
 
 **School** transmutation; **Level** sorcerer/wizard 1

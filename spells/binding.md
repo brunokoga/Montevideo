@@ -1,3 +1,6 @@
+---
+title: spells/binding
+---
  **Binding**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 8

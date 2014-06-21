@@ -1,3 +1,6 @@
+---
+title: spells/heroesFeast
+---
  **Heroes' Feast**
 
 **School** conjuration [creation]; **Level** bard 6, cleric 6

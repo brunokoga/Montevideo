@@ -1,3 +1,6 @@
+---
+title: spells/instantSummons
+---
  **Instant Summons**
 
 **School** conjuration (summoning); **Level** sorcerer/wizard 7

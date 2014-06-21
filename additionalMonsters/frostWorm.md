@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/frostWorm
+---
 # Frost Worm
 
 This immense white worm has a single circular eye in the center of its head. Wisps of icy fog waft up from between its mandibles.

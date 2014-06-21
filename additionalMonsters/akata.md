@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/akata
+---
 # Akata
 
 This hairless blue lion has twin tentacular tails. Dozens more thick tentacles quiver and twitch where its mane should be.

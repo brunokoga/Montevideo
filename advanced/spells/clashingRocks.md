@@ -1,3 +1,6 @@
+---
+title: advanced/spells/clashingRocks
+---
  **Clashing Rocks**
 
 **School** conjuration (creation) [earth]; **Level** druid 9, sorcerer/wizard 9

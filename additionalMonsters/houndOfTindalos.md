@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/houndOfTindalos
+---
 # Hound of Tindalos
 
 This gaunt, long-limbed quadruped has huge, soulless eyes and a toothy maw. The lean creature moves with a predatory grace.

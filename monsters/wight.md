@@ -1,3 +1,6 @@
+---
+title: monsters/wight
+---
 # Wight
 
 _The flesh of this walking corpse is rotting and putrid, its body skeletal in places and its eye sockets glowing with red light._

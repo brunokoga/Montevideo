@@ -1,3 +1,6 @@
+---
+title: advanced/spells/moonstruck
+---
  **Moonstruck**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** druid 4, sorcerer/wizard 4, witch 4

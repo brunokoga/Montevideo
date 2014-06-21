@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/commandWords
+---
 ## Command Words
 
 These words demand action from those that hear them, with near-irresistible force.

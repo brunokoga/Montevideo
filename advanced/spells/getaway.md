@@ -1,3 +1,6 @@
+---
+title: advanced/spells/getaway
+---
  **Getaway**
 
 **School** conjuration (teleportation); **Level** bard 6, sorcerer/wizard 6

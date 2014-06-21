@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/wallOfStone
+---
 Wall of Stone
 
 **Source** [_wall of stone_](spells/wallOfStone.md#_wall-of-stone)

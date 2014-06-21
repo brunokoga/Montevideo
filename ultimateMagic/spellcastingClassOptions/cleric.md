@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/cleric
+---
 # Cleric
 
 Clerics are messengers and servitors of the gods, channeling divine magic and pure positive or negative energy. Though the typical adventuring cleric stands ready to smite enemies of the faith with spell and weapon, many cloister themselves in remote libraries and honor the gods with scholarly works, while others espouse heretical beliefs that embarrass mainstream members of the clergy. They use their divine channeling to heal or harm, and some have developed new ways to blast their opponents or bolster allies.

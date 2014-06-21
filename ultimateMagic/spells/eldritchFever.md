@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/eldritchFever
+---
 Eldritch Fever
 
 **School** necromancy [curse, disease, evil]; **Level** inquisitor 3, sorcerer/wizard 3, witch 3

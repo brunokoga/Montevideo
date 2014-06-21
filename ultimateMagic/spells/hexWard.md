@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/hexWard
+---
 Hex Ward
 
 **School** abjuration; **Level** inquisitor 1, witch 1

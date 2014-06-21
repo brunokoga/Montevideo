@@ -1,3 +1,6 @@
+---
+title: monsters/crab
+---
 # Crab, Giant
 
 _This lumbering hard-shelled crab stands as tall as a dwarf, its massive pincers waving menacingly._

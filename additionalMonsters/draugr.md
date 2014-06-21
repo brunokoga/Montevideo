@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/draugr
+---
 # Draugr
 
 This barnacle-encrusted walking corpse looks like a zombie, but is dripping with water and gives off a nauseating stench.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/controlWeather
+---
 Control Weather
 
 **Source** [_control weather_](spells/controlWeather.md#_control-weather)

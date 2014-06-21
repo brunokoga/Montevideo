@@ -1,3 +1,6 @@
+---
+title: spells/wallOfFire
+---
  **Wall of Fire**
 
 **School** evocation [fire]; **Level** druid 5, sorcerer/wizard 4

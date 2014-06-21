@@ -1,3 +1,6 @@
+---
+title: advanced/prestigeClasses/battleHerald
+---
 # Battle Herald
 
 In every army there are leaders who surpass the average cold-hearted mercenary, battle-scarred veteran, or wizened drill instructor, not so much in their skill at arms but in their ability to inspire and lead others. Battle heralds are just such captains—skilled warriors to be sure, but ones who have honed the art of leadership to a keen edge and keep it as ready as their sword as a means to victory. Battle heralds tap into reservoirs of courage, skill, bravery, and perseverance that those who serve with them never knew they had, and their allies often find themselves ascending the mount of triumph following the battle herald's glorious (if often tattered) banner.

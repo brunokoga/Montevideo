@@ -1,3 +1,6 @@
+---
+title: spells/produceFlame
+---
  **Produce Flame**
 
 **School** evocation [fire]; **Level** druid 1

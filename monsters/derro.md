@@ -1,3 +1,6 @@
+---
+title: monsters/derro
+---
 # Derro
 
 _This pale blue humanoid has bulging white eyes, wild hair, four-fingered hands, and a large hooked club._

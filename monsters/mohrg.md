@@ -1,3 +1,6 @@
+---
+title: monsters/mohrg
+---
 # Mohrg
 
 _A thick tangle of discolored entrails clings to this lurching skeleton's torso and winds upward to loll from its jaw like a clawed tongue._

@@ -1,3 +1,6 @@
+---
+title: spells/bearSEndurance
+---
  **Bear's Endurance**
 
 **School** transmutation; **Level** cleric 2, druid 2, ranger 2, sorcerer/wizard 2

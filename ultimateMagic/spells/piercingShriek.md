@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/piercingShriek
+---
 Piercing Shriek
 
 **School** evocation [pain, sonic]; **Level** bard 2

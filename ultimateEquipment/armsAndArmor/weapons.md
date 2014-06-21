@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/armsAndArmor/weapons
+---
 # Weapons
 
 Without a doubt, weapons number among adventurers' most coveted possessions. Whether weapons are used as tools to lay foul monsters low, as the medium for magical enhancements, or as outlets for a host of fundamental class abilities, few heroes head into the field without their favorite—or perhaps even a whole arsenal of their favorites. This section presents all manner of nonmagical weapons for PCs to purchase and put to use, whatever their adventures might entail. The weapons presented here should be relatively easy to find and purchase in most towns and cities, although GMs might wish to restrict the availability of some of the more expensive and exotic items.

@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/investment
+---
 # Investment
 
 From the lowly copper piece to treasure chests bulging with precious gemstones, the anchor of most parties is treasure. But what is the purpose of a PC collecting this money if not to better her life? Once she's acquired it, shouldn't she put it to work for her? After all, adventuring is not a certain prospect—investments are a much safer bet, and the return they offer on the money invested comes without all the dangers involved in adventuring.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/animalAspect
+---
 Animal Aspect
 
 **Source** [_animal aspect_](ultimateCombat/spells/animalAspect.md#_animal-aspect)

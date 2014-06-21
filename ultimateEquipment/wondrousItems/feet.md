@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/feet
+---
 # Feet Slot Wondrous Items
 
 The feet slot consists of boots, horseshoes, sandals, shoes, slippers, and other items that can be worn on the feet.

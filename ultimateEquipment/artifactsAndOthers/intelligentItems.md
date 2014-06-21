@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/artifactsAndOthers/intelligentItems
+---
 # Intelligent Items
 
 Among the most miraculous of magic items are those that possess an intelligence of their own, those wondrous treasures that step beyond the realm of mere tools to true allies. Magically imbued with sentience, these items think and feel the same way characters do and warrant being treated like NPCs. Intelligent items have extra abilities and sometimes extraordinary powers and special purposes. Only permanent magic items (as opposed to single-use items or those with charges) can be intelligent. (This means that potions, scrolls, and wands, among other items, are never intelligent.) In general, less than 1% of magic items have intelligence.

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/dustOfTwilight
+---
  **Dust of Twilight**
 
 **School** conjuration [darkness]; **Level** bard 2, sorcerer/wizard 2

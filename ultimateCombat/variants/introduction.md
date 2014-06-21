@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/variants/introduction
+---
 # Variant Rules
 
 Presented in this section are several optional rules variants for combat that may be swapped out with the existing rules. As these options significantly revise how the game works, players and GMs should be extremely careful when deciding whether or not to incorporate these optional rules into an existing campaign, and should be prepared for an additional layer of complexity and potential slowdowns in gameplay as everyone at the table works on getting up to speed.

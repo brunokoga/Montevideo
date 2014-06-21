@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/downtime/roomsAndTeams
+---
 # Rooms and Teams
 
 Many players want to run inns, found mercenary companies, build temples, or lead cabals of mages. The downtime system allows you to do this by presenting small constituent units: rooms for constructing buildings and teams for forming organizations.

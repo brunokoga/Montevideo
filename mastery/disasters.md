@@ -1,3 +1,6 @@
+---
+title: mastery/disasters
+---
 # Disasters
 
 Natural disasters go far beyond any mere environmental hazard, leaving death and devastation in their wake. Supernatural disasters can be even more disruptive, with the potential to forever scar a world. A disaster is much more like an adventure than an encounter, and does not have a specific Challenge Rating. Rather, each portion of the disaster should be treated as a separate encounter designed with a CR appropriate to the PCs.

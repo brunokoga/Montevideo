@@ -1,3 +1,6 @@
+---
+title: advanced/spells/universalFormula
+---
  **Universal Formula**
 
 **School** transmutation; **Level** alchemist 4

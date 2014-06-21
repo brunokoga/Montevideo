@@ -1,3 +1,6 @@
+---
+title: spells/timeStop
+---
  **Time Stop**
 
 **School** transmutation; **Level** sorcerer/wizard 9

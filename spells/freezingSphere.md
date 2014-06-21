@@ -1,3 +1,6 @@
+---
+title: spells/freezingSphere
+---
  **Freezing Sphere**
 
 **School** evocation [cold]; **Level** sorcerer/wizard 6

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/stunningFinale
+---
  **Stunning Finale**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 5

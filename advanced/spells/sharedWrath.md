@@ -1,3 +1,6 @@
+---
+title: advanced/spells/sharedWrath
+---
  **Shared Wrath**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** inquisitor 4

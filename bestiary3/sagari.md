@@ -1,3 +1,6 @@
+---
+title: bestiary3/sagari
+---
 # Sagari
 
 This unsettling creature has the head of a fanged, green-eyed horse and a body that is little more than a writhing tentacle.

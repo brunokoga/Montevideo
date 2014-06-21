@@ -1,3 +1,6 @@
+---
+title: spells/clenchedFist
+---
  **Clenched Fist**
 
 **School** evocation [force]; **Level** sorcerer/wizard 8

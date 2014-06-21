@@ -1,3 +1,6 @@
+---
+title: spells/hideousLaughter
+---
  **Hideous Laughter**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer/wizard 2

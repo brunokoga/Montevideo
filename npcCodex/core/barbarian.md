@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/barbarian
+---
 # Barbarians
 
 Savage Mercenary CR 1/2

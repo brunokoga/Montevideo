@@ -1,3 +1,6 @@
+---
+title: advanced/spells/solidNote
+---
  **Solid Note**
 
 **School** conjuration (creation); **Level** bard 1

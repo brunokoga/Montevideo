@@ -1,3 +1,6 @@
+---
+title: indices/spells
+---
 # Spell Index
 
 The following spells are presented in alphabetical order, with the exception of those whose names begin with “greater,” “lesser,” or “mass” (see [Order of Presentation](spellLists.md)).

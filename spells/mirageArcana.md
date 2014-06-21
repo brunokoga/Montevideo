@@ -1,3 +1,6 @@
+---
+title: spells/mirageArcana
+---
  **Mirage Arcana**
 
 **School** illusion (glamer); **Level** bard 5, sorcerer/wizard 5

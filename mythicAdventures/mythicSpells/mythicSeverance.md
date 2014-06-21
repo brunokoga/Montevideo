@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/mythicSeverance
+---
 Mythic Severance
 
 **School** necromancy [[curse](monsters/universalMonsterRules.md#_curse)]; **Level** cleric 4, inquisitor 3, sorcerer/wizard 4, witch 4

@@ -1,3 +1,6 @@
+---
+title: spells/detectSecretDoors
+---
  **Detect Secret Doors**
 
 **School** divination; **Level** bard 1, sorcerer/wizard 1

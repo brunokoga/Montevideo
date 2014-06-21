@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/combat/performanceCombat
+---
 # Performance Combat
 
 Not every fight is for survival. Combatants sometimes find themselves in contests where the crowd's reaction is at least as important as the outcome of the fight itself. Whether a bar brawl with the goal of rousing the local populace to rise up against a band of bullies or a sun-drenched and bloody gladiatorial contest where life and death actually hinge on the favor of the crowd, performance combats are fights in which showmanship and flair can be more important than ruthless fighting efficiency.

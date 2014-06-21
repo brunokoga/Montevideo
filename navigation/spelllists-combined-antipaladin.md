@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-antipaladin
+---
 - [**Bane**](spells/bane.md)
 - [**Blood Blaze**](advancedRaceGuide/featuredRaces/orcs.md#_blood-blaze)
 - [**Cause Fear**](spells/causeFear.md#_cause-fear)

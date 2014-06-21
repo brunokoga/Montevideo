@@ -1,3 +1,6 @@
+---
+title: advanced/spells/putrefyFoodAndDrink
+---
  **Putrefy Food and Drink**
 
 **School** transmutation; **Level** witch 0

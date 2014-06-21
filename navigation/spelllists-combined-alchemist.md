@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-alchemist
+---
 - [**Adjuring Step**](ultimateCombat/spells/adjuringStep.md#_adjuring-step-)
 - [**Ant Haul**](advanced/spells/antHaul.md#_ant-haul-)
 - [**Anticipate Peril**](ultimateMagic/spells/anticipatePeril.md#_anticipate-peril)

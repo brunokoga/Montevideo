@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/gustOfWind
+---
 Gust of Wind
 
 **Source** [_gust of wind_](spells/gustOfWind.md#_gust-of-wind)

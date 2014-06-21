@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/bladeBarrier
+---
 Blade Barrier
 
 **Source** [_blade barrier_](spells/bladeBarrier.md#_blade-barrier)

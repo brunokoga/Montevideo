@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/toad
+---
 # Toad, Giant
 
 Stubby warts dot the skin of this horse-sized brown toad. Its throat bulges and ripples as though about to croak.

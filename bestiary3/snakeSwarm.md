@@ -1,3 +1,6 @@
+---
+title: bestiary3/snakeSwarm
+---
 # Snake Swarm
 
 Hissing menacingly, this mass of snakes resembles a pile of slithering tentacles.

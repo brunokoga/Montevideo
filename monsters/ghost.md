@@ -1,3 +1,6 @@
+---
+title: monsters/ghost
+---
 # Ghost
 
 _This spectral, horrifying figure glides silently through the air, passing through solid objects as if they didn't exist._

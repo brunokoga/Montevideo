@@ -1,3 +1,6 @@
+---
+title: spells/undeathToDeath
+---
  **Undeath to Death**
 
 **School** necromancy; **Level** cleric 6, sorcerer/wizard 6

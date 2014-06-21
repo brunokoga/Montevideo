@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/virtuosoPerformance
+---
 Virtuoso Performance
 
 **School** transmutation; **Level** bard 4

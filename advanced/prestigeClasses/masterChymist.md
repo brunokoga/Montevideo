@@ -1,3 +1,6 @@
+---
+title: advanced/prestigeClasses/masterChymist
+---
 # Master Chymist
 
 When alchemists blithely use mutagens to turn themselves into hulking creatures of muscle and reflex, civilized folk often turn their heads and mutter that such transformations must have a price. For a few alchemists, that price is transformation into a master chymist, a creature able to take a monstrous brute form as an act of will.

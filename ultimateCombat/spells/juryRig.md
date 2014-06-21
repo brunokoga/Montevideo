@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/juryRig
+---
 Jury-Rig
 
 **School** transmutation; **Level** bard 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1

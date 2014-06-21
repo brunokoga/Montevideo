@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/woodenPhalanx
+---
 Wooden Phalanx
 
 **School** conjuration (creation); **Level** cleric 9, sorcerer/wizard 9

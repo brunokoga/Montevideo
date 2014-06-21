@@ -1,3 +1,6 @@
+---
+title: npcCodex/npc/warrior
+---
 # Warriors
 
 Recruit CR 1/3

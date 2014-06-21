@@ -1,3 +1,6 @@
+---
+title: bestiary3/disenchanter
+---
 # Disenchanter
 
 This blue-furred creature sports a short trunk and a camel-like body. The air around it seems to shimmer with magical energy.

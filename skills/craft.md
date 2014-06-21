@@ -1,3 +1,6 @@
+---
+title: skills/craft
+---
 # Craft
 
 ## ( [Int](../gettingStarted.md#_intelligence))

@@ -1,3 +1,6 @@
+---
+title: spells/sleep
+---
  **Sleep**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, sorcerer/wizard 1

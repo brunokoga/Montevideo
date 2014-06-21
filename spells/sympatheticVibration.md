@@ -1,3 +1,6 @@
+---
+title: spells/sympatheticVibration
+---
  **Sympathetic Vibration**
 
 **School** evocation [sonic]; **Level** bard 6

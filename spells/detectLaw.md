@@ -1,3 +1,6 @@
+---
+title: spells/detectLaw
+---
  **Detect Law**
 
 **School** divination; **Level** cleric 1

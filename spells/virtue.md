@@ -1,3 +1,6 @@
+---
+title: spells/virtue
+---
  **Virtue**
 
 **School** transmutation; **Level** cleric 0, druid 0, paladin 1

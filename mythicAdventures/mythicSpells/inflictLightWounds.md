@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/inflictLightWounds
+---
 Inflict Light Wounds
 
 **Source** [_inflict light wounds_](spells/inflictLightWounds.md#_inflict-light-wounds)

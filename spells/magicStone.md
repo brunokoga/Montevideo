@@ -1,3 +1,6 @@
+---
+title: spells/magicStone
+---
  **Magic Stone**
 
 **School** transmutation; **Level** cleric 1, druid 1

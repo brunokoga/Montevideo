@@ -1,3 +1,6 @@
+---
+title: spells/trueStrike
+---
  **True Strike**
 
 **School** divination; **Level** sorcerer/wizard 1

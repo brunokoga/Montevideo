@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/airWalk
+---
 Air Walk, Communal
 
 **Level** alchemist 5, cleric 5, druid 5

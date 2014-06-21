@@ -1,3 +1,6 @@
+---
+title: spells/detectUndead
+---
  **Detect Undead**
 
 **School** divination; **Level** cleric 1, paladin 1, sorcerer/wizard 1

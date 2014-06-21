@@ -1,3 +1,6 @@
+---
+title: spells/whirlwind
+---
  **Whirlwind**
 
 **School** evocation [air]; **Level** druid 8

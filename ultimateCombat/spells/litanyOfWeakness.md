@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/litanyOfWeakness
+---
 Litany of Weakness
 
 **School** necromancy [language dependent]; **Level** antipaladin 1, inquisitor 1

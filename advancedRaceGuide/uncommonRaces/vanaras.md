@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/uncommonRaces/vanaras
+---
 # Vanaras
 
 Vanaras are intelligent, monkeylike humanoids that live in deep, warm forests and lush jungles. A vanara's body is covered in a thin coat of soft fur, and individuals with chestnut, ivory, and even golden coats are common. Despite their fur, vanaras can grow lengthy hair on their head just as humans can, and both male and female vanaras take pains to wear elaborate hairstyles for important social functions. The hair on a vanara's head matches the color of its fur. All vanaras have long, prehensile tails and handlike feet capable of well-articulated movements. A vanara stands slightly shorter and weighs slightly less than a typical human.

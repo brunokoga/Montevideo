@@ -1,3 +1,6 @@
+---
+title: monsters/boar
+---
 # Boar
 
 _This ill-tempered beast's tiny, bloodshot eyes glare angrily above a mouth filled with sharp tusks._

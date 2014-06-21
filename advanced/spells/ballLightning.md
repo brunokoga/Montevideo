@@ -1,3 +1,6 @@
+---
+title: advanced/spells/ballLightning
+---
  **Ball Lightning**
 
 **School** evocation [air, electricity]; **Level** druid 4, sorcerer/wizard 4

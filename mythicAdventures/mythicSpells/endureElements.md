@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/endureElements
+---
 Endure Elements
 
 **Source** [_endure elements_](spells/endureElements.md#_endure-elements)

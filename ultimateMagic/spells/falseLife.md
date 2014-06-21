@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/falseLife
+---
 False Life, Greater
 
 **School** necromancy; **Level** alchemist 4, sorcerer/wizard 4, witch 4

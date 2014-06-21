@@ -1,3 +1,6 @@
+---
+title: spells/majorImage
+---
  **Major Image**
 
 **School** illusion (figment); **Level** bard 3, sorcerer/wizard 3

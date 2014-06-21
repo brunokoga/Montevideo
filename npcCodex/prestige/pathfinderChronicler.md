@@ -1,3 +1,6 @@
+---
+title: npcCodex/prestige/pathfinderChronicler
+---
 # Pathfinder Chroniclers
 
 Aloof Scholar CR 8

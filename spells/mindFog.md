@@ -1,3 +1,6 @@
+---
+title: spells/mindFog
+---
  **Mind Fog**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, sorcerer/wizard 5

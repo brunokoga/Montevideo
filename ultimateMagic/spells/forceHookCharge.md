@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/forceHookCharge
+---
 Force Hook Charge
 
 **School** evocation [force]; **Level** magus 3

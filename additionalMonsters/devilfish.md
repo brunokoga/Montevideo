@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/devilfish
+---
 # Devilfish
 
 This purple, seven-armed octopoid monstrosity is the size of a horse, with hook-lined tentacles and cold, blue eyes.

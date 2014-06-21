@@ -1,3 +1,6 @@
+---
+title: spells/cureModerateWounds
+---
  **Cure Moderate Wounds**
 
 **School** conjuration (healing); **Level** bard 2, cleric 2, druid 3, paladin 3, ranger 3

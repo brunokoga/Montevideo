@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/chordOfShards
+---
 Chord of Shards
 
 **Source** [_chord of shards_](ultimateMagic/spells/chordOfShards.md#_chord-of-shards)

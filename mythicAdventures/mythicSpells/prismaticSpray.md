@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/prismaticSpray
+---
 Prismatic Spray
 
 **Source** [_prismatic spray_](spells/prismaticSpray.md#_prismatic-spray)

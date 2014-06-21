@@ -1,3 +1,6 @@
+---
+title: monsters/grayOoze
+---
 # Gray Ooze
 
 _A seemingly mundane puddle, patch of moist stone, or glistening rock is suddenly revealed to be more as a terrible pseudopod lashes out._

@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/index
+---
 # Core Classes
 
 The Pathfinder RPG gives you a phenomenal number of character options—battle or healing clerics, greatsword or longbow fighters, pickpocket or trap-finding rogues, mind-controller or undead-creator wizards, and so on.

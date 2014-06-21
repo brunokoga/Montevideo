@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/blindnessDeafness
+---
 Blindness/Deafness
 
 **Source** [_blindness/deafness_](spells/blindnessDeafness.md#_blindness-deafness)

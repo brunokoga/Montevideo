@@ -1,3 +1,6 @@
+---
+title: bestiary3/linnorm
+---
 # Linnorm
 
 Treacherous primeval dragons of the northern regions of the world, linnorms thrive on their hatred for those they deem to be lesser creatures and seek to inflict as much suffering as possible unto their unfortunate victims. Sweeping bones and treasures alike into giant piles in its lair, the typical linnorm has a barbaric nature made all the worse by its insatiable greed and atrocious gluttony. Few creatures are as bold and as cruel as linnorms, and for that most people are thankful.

@@ -1,3 +1,6 @@
+---
+title: monsters/azata
+---
 # Azata
 
 Azatas are a race of celestials native to the plane of Elysium, where the pursuit of freedom and goodness is paramount. Azatas are champions of these concepts, great bards, knights, and explorers who roam the planes in search of good folk in need of their help. Frequently described as the most elven or fey-like celestials, azatas nevertheless often have strange, inhuman shapes or can take elemental or eldritch forms. Most have some knightly or courtly title, such as duke, countess, or prince, apparently hereditary, perhaps from a celestial monarchy long abandoned and forgotten. Azatas do not exploit these titles to exert influence over each other, instead using them for personal identification or a bit of self-importance. They are deadly and resolute foes of evil, fearless and clever in battle.

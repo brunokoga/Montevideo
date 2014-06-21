@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/magicWeaponGreater
+---
 Magic Weapon, Greater
 
 **Source** [_magic weapon greater_](spells/magicWeapon.md#_magic-weapon-greater)

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/wallOfLava
+---
  **Wall of Lava**
 
 **School** conjuration (creation) [earth, fire]; **Level** druid 8, sorcerer/wizard 8

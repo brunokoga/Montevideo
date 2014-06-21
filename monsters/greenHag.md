@@ -1,3 +1,6 @@
+---
+title: monsters/greenHag
+---
 # Green Hag
 
 _Knots of dark, moldering hair spill over the features of this sickly, thin, green-skinned crone._

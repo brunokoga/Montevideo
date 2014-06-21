@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/hellHound
+---
 # Hell Hound
 
 _This brawny hound is wreathed in flames, and its footsteps leave burning prints that sputter and smoke. _

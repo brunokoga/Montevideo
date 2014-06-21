@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/villagers
+---
 # Villagers
 
 Living apart from the walled edifices of bustling cities or the politics and plots of lordly palaces, simple townsfolk work hard and live simply, depending on one another for survival in their secluded burgs. The pioneers of far-flung frontiers, the farmfolk of rural countrysides, and the everyday people of sleepy hamlets, most common folk seek only quiet lives among their families and neighbors and care little for excitement or danger. Suspicious of strangers and wary of threats, these country folk preserve the traditions of their communities but readily do business with those bringing gold and the promise of greater things.

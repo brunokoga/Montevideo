@@ -1,3 +1,6 @@
+---
+title: monsters/horse
+---
 # Horse
 
 _This proud horse thunders across the grassy plain with fluid grace, wind tugging at its loose-fitting barding. _

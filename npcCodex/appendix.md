@@ -1,3 +1,6 @@
+---
+title: npcCodex/appendix
+---
 # Appendix 1: Animal Companions
 
 This section presents an assortment of suitable druid and ranger animal companions at various effective druid levels. All of the druids and rangers in Chapter 1 are built with the nature bond (domain) or hunter's bond (companions) class abilities, so it is a simple matter to replace those abilities with an animal companion of the appropriate level. For druids, ignore the bonus spells and granted powers listed in the stat block; for rangers, ignore the hunter's bond ability (which otherwise does not affect the ranger's statistics in any way).

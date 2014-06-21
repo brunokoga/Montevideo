@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/spontaneousImmolation
+---
 Spontaneous Immolation
 
 **School** evocation [fire]; **Level** sorcerer/wizard 2

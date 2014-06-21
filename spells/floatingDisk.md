@@ -1,3 +1,6 @@
+---
+title: spells/floatingDisk
+---
  **Floating Disk**
 
 **School** evocation [force]; **Level** sorcerer/wizard 1

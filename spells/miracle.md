@@ -1,3 +1,6 @@
+---
+title: spells/miracle
+---
  **Miracle**
 
 **School** evocation; **Level** cleric 9

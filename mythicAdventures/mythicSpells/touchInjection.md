@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/touchInjection
+---
 Touch Injection
 
 **Source** [_touch injection_](ultimateCombat/spells/touchInjection.md#_touch-injection)

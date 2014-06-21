@@ -1,3 +1,6 @@
+---
+title: advanced/spells/stormbolts
+---
  **Stormbolts**
 
 **School** evocation [electricity]; **Level** cleric 8, druid 8, sorcerer/wizard 8, witch 8

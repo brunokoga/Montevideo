@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/petitioner
+---
 # Petitioner
 
 Something seems strange and disturbingly familiar about this wispy, ghostly humanoid shape.

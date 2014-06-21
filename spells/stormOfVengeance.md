@@ -1,3 +1,6 @@
+---
+title: spells/stormOfVengeance
+---
  **Storm of Vengeance**
 
 **School** conjuration (summoning); **Level** cleric 9, druid 9

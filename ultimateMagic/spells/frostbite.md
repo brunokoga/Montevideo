@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/frostbite
+---
 Frostbite
 
 **School** transmutation [cold]; **Level** druid 1, magus 1, witch 1

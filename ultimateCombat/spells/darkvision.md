@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/darkvision
+---
 Darkvision, Communal
 
 **Level** alchemist 3, antipaladin 3, ranger 4, sorcerer/wizard 3

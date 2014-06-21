@@ -1,3 +1,6 @@
+---
+title: advanced/spells/wardTheFaithful
+---
  **Ward the Faithful**
 
 **School** abjuration; **Level** inquisitor 3

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/divinePursuit
+---
 Divine Pursuit
 
 **School** transmutation; **Level** inquisitor 5

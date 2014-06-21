@@ -1,3 +1,6 @@
+---
+title: spells/wallOfIron
+---
  **Wall of Iron**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 6

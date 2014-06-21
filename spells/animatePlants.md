@@ -1,3 +1,6 @@
+---
+title: spells/animatePlants
+---
  **Animate Plants**
 
 **School** transmutation; **Level** druid 7

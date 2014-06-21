@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/shadowAnchor
+---
 Shadow Anchor
 
 **Source** [_shadow anchor_](advancedRaceGuide/uncommonRaces/wayangs.md#_shadow-anchor)

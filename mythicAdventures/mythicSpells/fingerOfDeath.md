@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/fingerOfDeath
+---
 Finger of Death
 
 **Source** [_finger of death_](spells/fingerOfDeath.md#_finger-of-death)

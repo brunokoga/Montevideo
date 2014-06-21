@@ -1,3 +1,6 @@
+---
+title: spells/trueResurrection
+---
  **True Resurrection**
 
 **School** conjuration (healing); **Level** cleric 9

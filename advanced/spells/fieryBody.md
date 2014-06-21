@@ -1,3 +1,6 @@
+---
+title: advanced/spells/fieryBody
+---
  **Fiery Body**
 
 **School** transmutation [fire]; **Level** sorcerer/wizard 9

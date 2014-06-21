@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/spiderClimb
+---
 Spider Climb, Communal
 
 **Level** alchemist 3, druid 3, sorcerer/wizard 3, summoner 3

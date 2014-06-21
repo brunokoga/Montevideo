@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/eyes
+---
 # Eyes Slot Wondrous Items
 
 The eyes slot consists of eyes, goggles, lenses, monocles, spectacles, and other items that can be worn over the eyes.

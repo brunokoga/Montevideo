@@ -1,3 +1,6 @@
+---
+title: monsters/xorn
+---
 # Xorn
 
 _This squat beast is as wide as it is tall. Strangely symmetrical, it has three arms, three legs, three eyes, and one huge mouth._

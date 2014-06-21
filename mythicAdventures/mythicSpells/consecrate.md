@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/consecrate
+---
 Consecrate
 
 **Source** [_consecrate_](spells/consecrate.md#_consecrate)

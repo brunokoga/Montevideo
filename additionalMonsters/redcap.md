@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/redcap
+---
 # Redcap
 
 Like some miniscule, wicked old man, this snarling little humanoid wears metal boots and a blood-red pointed cap.

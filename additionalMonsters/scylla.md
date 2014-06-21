@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/scylla
+---
 # Scylla
 
 This horrifying creature has the upper body of a beautiful woman, but a lower body of snapping wolf heads and writhing tentacles.

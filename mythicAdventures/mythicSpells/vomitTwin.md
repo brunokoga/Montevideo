@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/vomitTwin
+---
 Vomit Twin
 
 **Source** [_vomit twin_](advancedRaceGuide/featuredRaces/goblins.md#_vomit-twin)

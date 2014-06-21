@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/ettin
+---
 # Ettin
 
 _Flies buzz around this bestial, two-headed giant, and maggots squirm in the folds of its skin. _

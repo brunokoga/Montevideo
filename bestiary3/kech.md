@@ -1,3 +1,6 @@
+---
+title: bestiary3/kech
+---
 # Kech
 
 This hairless simian's leathery skin has a camouflage pattern to it that shifts and changes as the creature moves.

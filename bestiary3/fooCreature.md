@@ -1,3 +1,6 @@
+---
+title: bestiary3/fooCreature
+---
 # Foo Creature
 
 There can be no mistaking this animal-like creature for a mere beast, for its face has an almost supernaturally human look to it.

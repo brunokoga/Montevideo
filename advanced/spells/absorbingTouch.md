@@ -1,3 +1,6 @@
+---
+title: advanced/spells/absorbingTouch
+---
  **Absorbing Touch**
 
 **School** transmutation; **Level** alchemist 3

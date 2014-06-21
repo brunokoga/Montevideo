@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/callConstruct
+---
 Call Construct
 
 **School** conjuration (teleportation); **Level** cleric 8, sorcerer/wizard 8

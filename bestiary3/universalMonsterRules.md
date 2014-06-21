@@ -1,3 +1,6 @@
+---
+title: bestiary3/universalMonsterRules
+---
 # Universal Monster Rules
 
 The following rules are standard and are referenced (but not repeated) in monster stat blocks. Each rule includes a format guide for how it appears in a monster's listing and its location in the stat block.

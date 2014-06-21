@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/arcaneCannon
+---
 Arcane Cannon
 
 **Source** [_arcane cannon_](ultimateCombat/spells/arcaneCannon.md#_arcane-cannon)

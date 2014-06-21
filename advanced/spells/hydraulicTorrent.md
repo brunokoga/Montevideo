@@ -1,3 +1,6 @@
+---
+title: advanced/spells/hydraulicTorrent
+---
  **Hydraulic Torrent**
 
 **School** evocation [water]; **Level** druid 3, sorcerer/wizard 3

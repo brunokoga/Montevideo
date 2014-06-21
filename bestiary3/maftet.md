@@ -1,3 +1,6 @@
+---
+title: bestiary3/maftet
+---
 # Maftet
 
 Broad hawk wings support this creature with the torso of a bronze-skinned human and the lower body of a tawny, bipedal lion.

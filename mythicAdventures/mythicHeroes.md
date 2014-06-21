@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicHeroes
+---
 [Archmage](mythicAdventures/mythicHeroes/archmage.md) [Champion](mythicAdventures/mythicHeroes/champion.md) [Guardian](mythicAdventures/mythicHeroes/guardian.md) [Heirophant](mythicAdventures/mythicHeroes/hierophant.md) [Marshal](mythicAdventures/mythicHeroes/marshal.md) [Trickster](mythicAdventures/mythicHeroes/trickster.md)
 
 # Mythic Heroes

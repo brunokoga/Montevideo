@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/aurumvorax
+---
 # Aurumvorax
 
 Powerful muscles ripple beneath the golden fur of this small yet fearsome eight-legged beast.

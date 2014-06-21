@@ -1,3 +1,6 @@
+---
+title: spells/repulsion
+---
  **Repulsion**
 
 **School** abjuration; **Level** cleric 7, sorcerer/wizard 6

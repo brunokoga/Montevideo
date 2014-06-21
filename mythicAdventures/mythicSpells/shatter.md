@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/shatter
+---
 Shatter
 
 **Source** [_shatter_](spells/shatter.md#_shatter)

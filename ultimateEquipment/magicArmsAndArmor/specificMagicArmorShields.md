@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/magicArmsAndArmor/specificMagicArmorShields
+---
 # Specific Magic Armor
 
 The magic armor that intrepid heroes don in the face of danger is often the only thing that stands between a brave adventurer and a blade to the chest. The following section includes armors with unusual powers and magical abilities. Magic armors may have abilities that need to be activated to function or powers that work passively and constantly.

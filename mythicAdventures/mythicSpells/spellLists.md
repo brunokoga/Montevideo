@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/spellLists
+---
 # Spell Lists
 
 The following lists summarize all the mythic versions of existing spells presented in this section, as well as new spells that draw upon, grant, or steal mythic power.

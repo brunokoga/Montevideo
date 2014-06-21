@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/antimagicField
+---
 Antimagic Field
 
 **Source** [_antimagic field_](spells/antimagicField.md#_antimagic-field)

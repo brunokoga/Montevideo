@@ -1,3 +1,6 @@
+---
+title: spells/coneOfCold
+---
  **Cone of Cold**
 
 **School** evocation [cold]; **Level** sorcerer/wizard 5

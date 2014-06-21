@@ -1,3 +1,6 @@
+---
+title: spells/dispelMagic
+---
  **Dispel Magic**
 
 **School** abjuration; **Level** bard 3, cleric 3, druid 4, paladin 3, sorcerer/wizard 3

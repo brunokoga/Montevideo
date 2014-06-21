@@ -1,3 +1,6 @@
+---
+title: bestiary3/flumph
+---
 # Flumph
 
 This pale, jellyfish-like creature floats gently in the air, two long eyestalks extending from either side of its puckered mouth.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/kiShout
+---
 Ki Shout
 
 **School** evocation [sonic]; **Level** bard 5, sorcerer/wizard 7

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/protectionFromEvil
+---
 Protection from Evil, Communal
 
 **Level** cleric 2, inquisitor 2, paladin 2, sorcerer/wizard 2, summoner 2

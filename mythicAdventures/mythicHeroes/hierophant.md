@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicHeroes/hierophant
+---
 # Hierophant
 
 Those who draw upon a god's power find themselves becoming closer to the divine. Some aspire to become immortal servants of their gods, and others reach for apotheosis itself. A hierophant could be either of these, channeling divine power directly or indirectly—whether from a deity, the spirit of nature, or the power of life itself—and eventually becoming more like a patron of divine power than a mere devotee.

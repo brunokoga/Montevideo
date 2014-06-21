@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/lengSpider
+---
 # Leng Spider
 
 This immense purple spider has a legspan of nearly forty feet and a hideously bloated body, yet still moves with fluid grace.

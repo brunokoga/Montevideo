@@ -1,3 +1,6 @@
+---
+title: bestiary3/bandersnatch
+---
 # Bandersnatch
 
 This six-limbed beast stalks forward with a fluid grace. Barbed quills run along its back, and its eyes glow with a blue light.

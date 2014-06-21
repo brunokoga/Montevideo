@@ -1,3 +1,6 @@
+---
+title: monsters/dragon
+---
 # Dragon
 
 True dragons are divided into two broad categories: chromatic and metallic. Chromatic dragons are almost universally evil, seeking only to slake their endless lust for food, treasure, and bloodshed. Metallic dragons are generally good and often protect the lands under their care.

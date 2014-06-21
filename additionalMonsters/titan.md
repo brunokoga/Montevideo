@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/titan
+---
 # Titan, Elysian
 
 This titanic humanoid wears gilt-edged armor of ancient make and carries an immense hammer made of gleaming metal.

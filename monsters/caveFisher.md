@@ -1,3 +1,6 @@
+---
+title: monsters/caveFisher
+---
 # Cave Fisher
 
 _This man-sized, crab-like monstrosity clings tenaciously to the rough stone, its enormous pincers held out menacingly before it._

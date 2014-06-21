@@ -1,3 +1,6 @@
+---
+title: advanced/spells/phantasmalWeb
+---
  **Phantasmal Web**
 
 **School** illusion (phantasm) [mind-affecting]; **Level** bard 5, sorcerer/wizard 5

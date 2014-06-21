@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/browGasher
+---
 Brow Gasher
 
 **School** necromancer: **Level** inquisitor 2, magus 2, ranger 2, sorcerer/wizard 2

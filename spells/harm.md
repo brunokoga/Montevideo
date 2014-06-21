@@ -1,3 +1,6 @@
+---
+title: spells/harm
+---
  **Harm**
 
 **School** necromancy; **Level** cleric 6

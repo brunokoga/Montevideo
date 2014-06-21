@@ -1,3 +1,6 @@
+---
+title: spells/minorImage
+---
  **Minor Image**
 
 **School** illusion (figment); **Level** bard 2, sorcerer/wizard 2

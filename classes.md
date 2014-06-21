@@ -1,3 +1,6 @@
+---
+title: classes
+---
 # Classes
 
 **[Barbarian](classes/barbarian.md#_barbarian)** : The barbarian is a brutal berserker from beyond the edge of civilized lands.

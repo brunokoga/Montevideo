@@ -1,3 +1,6 @@
+---
+title: advanced/spells/beguilingGift
+---
  **Beguiling Gift**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, witch 1

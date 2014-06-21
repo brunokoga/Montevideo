@@ -1,3 +1,6 @@
+---
+title: spells/cureLightWounds
+---
  **Cure Light Wounds**
 
 **School** conjuration (healing); **Level** bard 1, cleric 1, druid 1, paladin 1, ranger 2

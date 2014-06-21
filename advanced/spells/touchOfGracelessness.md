@@ -1,3 +1,6 @@
+---
+title: advanced/spells/touchOfGracelessness
+---
  **Touch of Gracelessness**
 
 **School** transmutation; **Level** bard 1, sorcerer/wizard 1

@@ -1,3 +1,6 @@
+---
+title: spells/enthrall
+---
  **Enthrall**
 
 **School** enchantment (charm) [language dependent, mind-affecting, sonic]; **Level** bard 2, cleric 2

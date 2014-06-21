@@ -1,3 +1,6 @@
+---
+title: monsters/goblin
+---
 # Goblin
 
 _This creature stands barely three feet tall, its scrawny, humanoid body dwarfed by its wide, ungainly head._

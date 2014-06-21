@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/beetle
+---
 # Beetle, Goliath Stag
 
 This massive beetle is the size of a small house. Its immense, horn-like mandibles clash with a hungry fervor.

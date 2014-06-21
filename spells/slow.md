@@ -1,3 +1,6 @@
+---
+title: spells/slow
+---
  **Slow**
 
 **School** transmutation; **Level** bard 3, sorcerer/wizard 3

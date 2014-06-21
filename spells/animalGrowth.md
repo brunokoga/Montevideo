@@ -1,3 +1,6 @@
+---
+title: spells/animalGrowth
+---
  **Animal Growth**
 
 **School** transmutation; **Level** druid 5, ranger 4, sorcerer/wizard 5

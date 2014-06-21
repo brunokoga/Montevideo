@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/grayRender
+---
 # Gray Render
 
 This hulking beast has slick, gray, hairless skin. Its numerous yellow eyes and wide toothy maw are its only facial features.

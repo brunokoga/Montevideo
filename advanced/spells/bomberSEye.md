@@ -1,3 +1,6 @@
+---
+title: advanced/spells/bomberSEye
+---
  **Bomber's Eye**
 
 **School** transmutation; **Level** alchemist 1

@@ -1,3 +1,6 @@
+---
+title: spells/commandPlants
+---
  **Command Plants**
 
 **School** transmutation; **Level** druid 4, ranger 3

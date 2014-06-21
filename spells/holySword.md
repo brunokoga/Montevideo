@@ -1,3 +1,6 @@
+---
+title: spells/holySword
+---
  **Holy Sword**
 
 **School** evocation [good]; **Level** paladin 4

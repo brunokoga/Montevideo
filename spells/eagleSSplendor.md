@@ -1,3 +1,6 @@
+---
+title: spells/eagleSSplendor
+---
  **Eagle's Splendor**
 
 **School** transmutation; **Level** bard 2, cleric 2, paladin 2, sorcerer/wizard 2

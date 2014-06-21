@@ -1,3 +1,6 @@
+---
+title: bestiary3/naga
+---
 # Naga, Lunar
 
 Stark white hair frames the fair face of this snake-bodied woman, and its black scales sparkle hypnotically.

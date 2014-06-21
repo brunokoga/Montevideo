@@ -1,3 +1,6 @@
+---
+title: spells/symbolOfDeath
+---
  **Symbol of Death**
 
 **School** necromancy [death]; **Level** cleric 8, sorcerer/wizard 8

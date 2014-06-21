@@ -1,3 +1,6 @@
+---
+title: spells/waterWalk
+---
  **Water Walk**
 
 **School** transmutation [water]; **Level** cleric 3, ranger 3

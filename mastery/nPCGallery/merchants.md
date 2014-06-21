@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/merchants
+---
 # Merchants
 
 Trade overcomes all barriers. In countless lands and a thousand languages, money changes hands between members of all races and religions. Businesses of innumerable types, from tiny market vendors to continent-spanning mercantile cartels, range across the world, trading in goods both mundane and fantastic. Whether simple shopkeepers or wealthy merchant lords, those with coin and a willingness to do trade form a symbiotic relationship with adventurers of all walks, with both types willing to risk everything for a chance at fortune.

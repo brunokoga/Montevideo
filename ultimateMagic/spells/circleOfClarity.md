@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/circleOfClarity
+---
 Circle of Clarity
 
 **School** abjuration; **Level** cleric 7, sorcerer/wizard 7

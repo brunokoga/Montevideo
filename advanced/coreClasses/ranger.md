@@ -1,3 +1,6 @@
+---
+title: advanced/coreClasses/ranger
+---
 # Ranger
 
 Where the average druid eschews settlements entirely, seeking solace in the wilds, rangers are the border riders, living on civilization's tattered edge. They are the scouts and the bounty hunters, the trackers and woodsmen, and in their chosen environments they are unmatchable. Self-sufficient and keenly aware of their surroundings, rangers surive through strength, wit, and adaptability, stalking their prey and melting into the woods or wastes without a trace. It is this very adapabtibility and staunch, pioneering sense of independence that leads rangers out of more formal society or schooling and into a number of different specializations and combat styles, from two-handed fighting and breathtaking feats of archery to mastery of particular terrains or communication with the beasts around them.

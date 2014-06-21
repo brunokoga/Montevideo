@@ -1,3 +1,6 @@
+---
+title: monsters/monstersByCR
+---
 # Monsters by CR
 
 The following section lists all monsters included in this book, alphabetically by CR. Variant monsters (such as the alternate versions of iron cobras and the various giant vermin of alternate sizes) are not included in this list—an index of these monsters appears instead in [the Variant Monster List](variantMonsterIndex.md). In the case of templates, like skeletons and ghosts, only the sample creature presented with a full stat block at the start of the template's entry in this book are included. Similarly, for dragons, only those that have full stat blocks presented in this book are listed on the following tables (young, adult, and ancient dragons)—dragons of other age categories are not included on these lists.

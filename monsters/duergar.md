@@ -1,3 +1,6 @@
+---
+title: monsters/duergar
+---
 # Duergar
 
 _This bald, long-bearded dwarf has dull gray skin, low arching brows, and eyes that seem to absorb rather than reflect the light._

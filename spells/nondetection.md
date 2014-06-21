@@ -1,3 +1,6 @@
+---
+title: spells/nondetection
+---
  **Nondetection**
 
 **School** abjuration; **Level** ranger 4, sorcerer/wizard 3

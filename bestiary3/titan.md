@@ -1,3 +1,6 @@
+---
+title: bestiary3/titan
+---
 # Titan, Hekatonkheires
 
 This behemoth looks like a towering humanoid with fifty heads and twice as many hands, each wielding a different weapon.

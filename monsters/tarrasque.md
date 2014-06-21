@@ -1,3 +1,6 @@
+---
+title: monsters/tarrasque
+---
 # Tarrasque
 
 _This immense reptilian beast towers over the surroundings like a dinosaur, all teeth and horns and claws and thrashing spiked tail._

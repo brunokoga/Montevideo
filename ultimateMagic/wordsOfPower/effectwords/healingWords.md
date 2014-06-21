@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/healingWords
+---
 ## Healing Words
 
 Healing words knit the flesh and soothe the body, repairing even the most grievous harm.

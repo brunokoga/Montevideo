@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/danceOfAHundredCuts
+---
 Dance of a Hundred Cuts
 
 **School** transmutation; **Level** bard 4

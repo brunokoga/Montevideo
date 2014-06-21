@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/cloudkill
+---
 Cloudkill
 
 **Source** [_cloudkill_](spells/cloudkill.md#_cloudkill)

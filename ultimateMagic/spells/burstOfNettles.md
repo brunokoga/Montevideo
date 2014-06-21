@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/burstOfNettles
+---
 Burst of Nettles
 
 **School** conjuration [acid]; **Level** druid 3

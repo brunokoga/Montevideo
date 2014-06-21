@@ -1,3 +1,6 @@
+---
+title: spells/dimensionalAnchor
+---
  **Dimensional Anchor**
 
 **School** abjuration; **Level** cleric 4, sorcerer/wizard 4

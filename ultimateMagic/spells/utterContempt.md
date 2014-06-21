@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/utterContempt
+---
 Utter Contempt
 
 **School** enchantment [emotion]; **Level** antipaladin 3, bard 4, sorcerer/wizard 6

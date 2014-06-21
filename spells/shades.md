@@ -1,3 +1,6 @@
+---
+title: spells/shades
+---
  **Shades**
 
 **School** illusion (shadow); **Level** sorcerer/wizard 9

@@ -1,3 +1,6 @@
+---
+title: monsters/ape
+---
 # Ape, Gorilla
 
 _Large, deep-set eyes peer from beneath this great ape's thick brow as it lumbers forward on its legs and knuckles._

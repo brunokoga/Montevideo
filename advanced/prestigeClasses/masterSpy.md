@@ -1,3 +1,6 @@
+---
+title: advanced/prestigeClasses/masterSpy
+---
 # Master Spy
 
 Unparalleled practitioners of deception, master spies rely on deceit and trickery over brawn and spells. A master spy is an expert at both magical and nonmagical means of evading detection, and quick-witted when it comes to improvisation. Master spies may serve countries or private interests, or sell their services to the highest bidder without a thought to long-term loyalty.

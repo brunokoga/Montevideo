@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/symbolOfScrying
+---
 Symbol of Scrying
 
 **School** divination (scrying); **Level** cleric 5, sorcerer/wizard 5, witch 5

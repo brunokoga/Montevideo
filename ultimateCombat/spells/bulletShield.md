@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/bulletShield
+---
 Bullet Shield
 
 **School** abjuration; **Level** alchemist 2, sorcerer/wizard 2

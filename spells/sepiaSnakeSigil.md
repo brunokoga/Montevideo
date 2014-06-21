@@ -1,3 +1,6 @@
+---
+title: spells/sepiaSnakeSigil
+---
  **Sepia Snake Sigil**
 
 **School** conjuration (creation) [force]; **Level** bard 3, sorcerer/wizard 3

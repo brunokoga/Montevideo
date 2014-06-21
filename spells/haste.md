@@ -1,3 +1,6 @@
+---
+title: spells/haste
+---
  **Haste**
 
 **School** transmutation; **Level** bard 3, sorcerer/wizard 3

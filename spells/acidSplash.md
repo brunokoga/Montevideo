@@ -1,3 +1,6 @@
+---
+title: spells/acidSplash
+---
  **Acid Splash**
 
 **School** conjuration (creation) [acid]; **Level** sorcerer/wizard 0

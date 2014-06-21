@@ -1,3 +1,6 @@
+---
+title: bestiary3/dragon
+---
 # Dragon, Imperial
 
 Although chromatic and metallic dragons are the most widely known, other categories of true dragon exist. Presented here are the five imperial dragons, regal guardians of ancient lands and servants of cosmic balance.

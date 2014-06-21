@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/bat
+---
 # Bat, Mobat 
 
 This bat has a wingspan the length of two humans, over-sized ears, and a squat, upturned snout with rows of needle-like teeth.

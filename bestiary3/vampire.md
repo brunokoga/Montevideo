@@ -1,3 +1,6 @@
+---
+title: bestiary3/vampire
+---
 # Vampire, Jiang-Shi
 
 Its flesh pallid and a parchment burial prayer hanging from its brow, this risen corpse lurches forward in a series of short hops.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/wallOfSound
+---
 Wall of Sound
 
 **School** evocation [sonic]; **Level** bard 4, magus 4, sorcerer/wizard 5

@@ -1,3 +1,6 @@
+---
+title: mastery/drugsAndAddiction
+---
 # Drugs and Addiction
 
 Hard-drinking heroes, deities of wine and celebration, and the hazy halls of oracles and wise men stand alongside the most memorable tropes of myth and classic fantasy literature. Thus it's no surprise that the adventures of fantasy roleplaying games are filled with similar characters and locales. After all, countless campaigns have been launched around a tavern table and all adventurers know the infamous potency of stout dwarven ale.

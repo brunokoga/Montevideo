@@ -1,3 +1,6 @@
+---
+title: advanced/spells/protectiveSpirit
+---
  **Protective Spirit**
 
 **School** conjuration (creation); **Level** ranger 2

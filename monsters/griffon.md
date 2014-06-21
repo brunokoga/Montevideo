@@ -1,3 +1,6 @@
+---
+title: monsters/griffon
+---
 # Griffon
 
 _This majestic beast has the body of a lion, the head and forelegs of a great eagle, and a massive pair of feathered wings._

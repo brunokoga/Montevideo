@@ -1,3 +1,6 @@
+---
+title: advanced/spells/savingFinale
+---
  **Saving Finale**
 
 **School** evocation [mind-affecting]; **Level** bard 1

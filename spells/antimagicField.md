@@ -1,3 +1,6 @@
+---
+title: spells/antimagicField
+---
  **Antimagic Field**
 
 **School** abjuration; **Level** cleric 8, sorcerer/wizard 6

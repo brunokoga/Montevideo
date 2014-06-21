@@ -1,3 +1,6 @@
+---
+title: skills/disguise
+---
 # Disguise
 
 ## ( [Cha](../gettingStarted.md#_charisma-new))

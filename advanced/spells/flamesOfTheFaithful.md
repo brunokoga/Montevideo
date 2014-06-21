@@ -1,3 +1,6 @@
+---
+title: advanced/spells/flamesOfTheFaithful
+---
  **Flames of the Faithful**
 
 **School** transmutation [fire]; **Level** inquisitor 2

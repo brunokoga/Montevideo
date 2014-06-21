@@ -1,3 +1,6 @@
+---
+title: spells/wish
+---
  **Wish**
 
 **School** universal; **Level** sorcerer/wizard 9

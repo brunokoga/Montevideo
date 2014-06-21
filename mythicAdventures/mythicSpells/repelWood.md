@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/repelWood
+---
 Repel Wood
 
 **Source** [_repel wood_](spells/repelWood.md#_repel-wood)

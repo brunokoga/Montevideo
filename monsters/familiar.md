@@ -1,3 +1,6 @@
+---
+title: monsters/familiar
+---
 # Familiar
 
 Presented here are the base animal statistics for all of the most commonly used familiars—of course, these statistics can also be used for normal animals as well. Small animals like these use Dexterity to modify [Climb](../skills/climb.md#_climb) and [Swim](../skills/swim.md#_swim) checks.

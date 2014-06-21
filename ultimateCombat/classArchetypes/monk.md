@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/monk
+---
 # Monk
 
 Most monks are mystic warriors, steeped in monastic traditions that fuse _ki_ with martial prowess, though not all monks or monastic orders approach their mystic traditions and fighting forms in the same manner. There are even those—like the martial artist—who reject mystical traditions and seek the perfection of fighting forms without the need for _ki_ mysteries. The following archetypes represent a number of ways in which monks throughout the world seek their personal and monastic forms of fighting perfection. Some, like the sensei, use their knowledge to grant wisdom to others, while the sohei and tetori represent relatively new fighting styles that surprise those who are more used to traditional monastic disciplines.

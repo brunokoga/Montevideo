@@ -1,3 +1,6 @@
+---
+title: monsters/medusa
+---
 # Medusa
 
 _This slender, attractive woman has strangely glowing eyes and a full head of hissing snakes for hair._

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/crafterSFortune
+---
  **Crafter's Fortune**
 
 **School** transmutation; **Level** alchemist 1, sorcerer/wizard 1

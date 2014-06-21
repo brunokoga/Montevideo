@@ -1,3 +1,6 @@
+---
+title: spells/detectMagic
+---
  **Detect Magic**
 
 **School** divination; **Level** bard 0, cleric 0, druid 0, sorcerer/wizard 0

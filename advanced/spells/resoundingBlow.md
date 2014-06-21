@@ -1,3 +1,6 @@
+---
+title: advanced/spells/resoundingBlow
+---
  **Resounding Blow**
 
 **School** evocation [sonic]; **Level** antipaladin 4, inquisitor 5, paladin 4

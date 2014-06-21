@@ -1,3 +1,6 @@
+---
+title: advanced/spells/alchemicalAllocation
+---
  **Alchemical Allocation**
 
 **School** transmutation; **Level** alchemist 2

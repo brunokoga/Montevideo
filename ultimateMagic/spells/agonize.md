@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/agonize
+---
 Agonize
 
 **School** evocation [evil, pain]; **Level** cleric 3, sorcerer/wizard 4, summoner 3

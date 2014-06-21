@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/languageWords
+---
 ## Language Words
 
 Words from this family deal with language and help with communication.

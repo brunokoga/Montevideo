@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/lurkerInLight
+---
 # Lurker in Light
 
 This large-eyed humanoid looks like a glowing, emaciated elven child save for its small, transparent wings.

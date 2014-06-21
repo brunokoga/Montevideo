@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/slow
+---
 Slow
 
 **Source** [_slow_](spells/slow.md#_slow)

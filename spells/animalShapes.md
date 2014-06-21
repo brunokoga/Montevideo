@@ -1,3 +1,6 @@
+---
+title: spells/animalShapes
+---
  **Animal Shapes**
 
 **School** transmutation (polymorph); **Level** druid 8

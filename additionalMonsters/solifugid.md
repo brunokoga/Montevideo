@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/solifugid
+---
 # Solifugid, Giant
 
 This tan-colored creature looks like a ten-legged spider. Oversized jaws grind together slowly beneath beady eyes.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/ultimateMagicWordsOfPower
+---
 # Words of Power
 
 Most spellcasters spend their entire careers learning and mastering the spells that make up their calling, but there is another way. Some turn their backs on the rote memorization and formulae that traditional spellcasters use to create magic, and instead unlock the power behind the spells themselves, the fundamental building blocks of magic. Such a spellcaster learns the words of power, and through them, learns to control the very forces underlying magic, shaping and wielding them like no other.

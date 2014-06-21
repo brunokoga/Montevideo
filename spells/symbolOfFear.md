@@ -1,3 +1,6 @@
+---
+title: spells/symbolOfFear
+---
  **Symbol of Fear**
 
 **School** necromancy [fear, mind-affecting]; **Level** cleric 6, sorcerer/wizard 6

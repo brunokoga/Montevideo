@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/seeAlignment
+---
 See Alignment
 
 **School** divination; **Level** alchemist 1, bard 1, sorcerer/wizard 1

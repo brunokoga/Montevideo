@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/symbolOfStrife
+---
 Symbol of Strife
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 9, sorcerer/wizard 9, witch 9

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/darkSlayer
+---
 # Dark Slayer
 
 This small humanoid is clothed in tattered rags from head to foot. Only its sinister eyes and pale hands are visible.

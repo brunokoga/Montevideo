@@ -1,3 +1,6 @@
+---
+title: bestiary3/jubjubBird
+---
 # Jubjub Bird
 
 This enormous bird has a lizardlike tail and bright purple feathers on its back and wings; the rest of its body is bare and scaly.

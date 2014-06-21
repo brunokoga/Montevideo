@@ -1,3 +1,6 @@
+---
+title: monsters/wraith
+---
 # Wraith
 
 _This ghostly creature is little more than a dark shape with two flickering pinpoints of light where its eyes should be._

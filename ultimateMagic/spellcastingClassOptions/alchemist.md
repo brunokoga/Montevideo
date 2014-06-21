@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/alchemist
+---
 # Alchemist
 
 Some alchemists focus on their ability to create destructive magical bombs, while others become masters of all poisons, and still others unlock secret powers tied to their ability-enhancing mutagens. Straddling the border between science and magic, explosions and [Spellcraft](skills/spellcraft.md#_spellcraft), alchemists have a unique place among the character classes.

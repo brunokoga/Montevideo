@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/enervation
+---
 Enervation
 
 **Source** [_enervation_](spells/enervation.md#_enervation)

@@ -1,3 +1,6 @@
+---
+title: navigation/feats-combined
+---
 - [Combat Feats](navigation/feats-combined-combat.md#_combined-feats-combat)
 - Grit Feats
 - Metamagic Feats

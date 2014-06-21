@@ -1,3 +1,6 @@
+---
+title: monsters/oni
+---
 # Oni, Ogre Mage
 
 _Clad in beautiful armor, this exotically garbed giant roars, its tusks glistening and its eyes afire with murderous intent._

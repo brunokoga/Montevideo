@@ -1,3 +1,6 @@
+---
+title: bestiary3/cerberi
+---
 # Cerberi
 
 Every strip of this three-headed hound's hide has been peeled away, leaving wet sinew and bulging tendons exposed.

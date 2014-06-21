@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/unerringWeapon
+---
 Unerring Weapon
 
 **School** transmutation; **Level** inquisitor 1, magus 1, sorcerer/wizard 1, witch 1

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/fetchling
+---
 # Fetchling
 
 This gaunt man appears drained of color, like a person viewed at twilight or in a dark alley.

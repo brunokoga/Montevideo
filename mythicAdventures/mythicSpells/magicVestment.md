@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/magicVestment
+---
 Magic Vestment
 
 **Source** [_magic vestment_](spells/magicVestment.md#_magic-vestment)

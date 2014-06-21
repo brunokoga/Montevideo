@@ -1,3 +1,6 @@
+---
+title: bestiary3/lizard
+---
 # Lizard, Giant Gecko
 
 With large bulging eyes to spot prey from afar, this oversized, smooth-scaled lizard has splayed, padded feet and a toothy maw.

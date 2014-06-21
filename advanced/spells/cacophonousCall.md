@@ -1,3 +1,6 @@
+---
+title: advanced/spells/cacophonousCall
+---
  **Cacophonous Call**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 2

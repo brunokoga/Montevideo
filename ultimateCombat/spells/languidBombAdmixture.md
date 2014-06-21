@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/languidBombAdmixture
+---
 Languid Bomb Admixture
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** alchemist 5

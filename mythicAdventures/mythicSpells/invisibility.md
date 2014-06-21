@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/invisibility
+---
 Invisibility
 
 **Source** [_invisibility_](spells/invisibility.md#_invisibility)

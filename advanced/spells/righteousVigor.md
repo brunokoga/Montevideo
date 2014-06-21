@@ -1,3 +1,6 @@
+---
+title: advanced/spells/righteousVigor
+---
  **Righteous Vigor**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** inquisitor 3, paladin 2

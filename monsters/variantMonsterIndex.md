@@ -1,3 +1,6 @@
+---
+title: monsters/variantMonsterIndex
+---
 # Variant Monster Index
 
 Not all of the monsters presented have their own stat blocks. Many of them are merely variants on a theme, be they aquatic ghouls like lacedons, more powerful versions of efreeti known as maliks, advanced sharks like the great white, or alternate versions like the fast zombie and the plague zombie. Monster variants use the standard monster's stats but with specific changes, as outlined in the text. The following list indexes all of the monster variants in this book that are associated with rules changes (creatures that are only mentioned in passing, such as the mature form of a nabasu demon or the possibility of other types of kytons or rakshasas, are not indexed here).

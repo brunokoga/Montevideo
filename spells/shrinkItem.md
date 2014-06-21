@@ -1,3 +1,6 @@
+---
+title: spells/shrinkItem
+---
  **Shrink Item**
 
 **School** transmutation; **Level** sorcerer/wizard 3

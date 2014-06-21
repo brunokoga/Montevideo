@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/oathOfPeace
+---
 Oath of Peace
 
 **Source** [_Oath of Peace_](advanced/spells/oathOfPeace.md#_oath-of-peace)

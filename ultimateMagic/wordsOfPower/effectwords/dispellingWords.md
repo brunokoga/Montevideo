@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/dispellingWords
+---
 ## Dispelling Words
 
 Dispelling words have the power to unmake magic or suppress its effects.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/spitVenom
+---
 Spit Venom
 
 **School** transmutation [poison]; **Level** cleric 4, druid 3, witch 3

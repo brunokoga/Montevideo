@@ -1,3 +1,6 @@
+---
+title: monsters/ant
+---
 # Army Ant Swarm
 
 _A writhing carpet of ants seethes over the ground, consuming everything in its path._

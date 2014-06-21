@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/seugathi
+---
 # Seugathi
 
 This worm-like monster has a hideous face of eyes and hooked jaws. It wields a wand and a sword in its twin tentacle tails.

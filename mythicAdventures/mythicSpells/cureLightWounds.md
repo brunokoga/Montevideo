@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/cureLightWounds
+---
 Cure Light Wounds
 
 **Source** [_cure light wounds_](spells/cureLightWounds.md#_cure-light-wounds)

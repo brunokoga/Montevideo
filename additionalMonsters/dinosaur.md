@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/dinosaur
+---
 # Dinosaur, Allosaurus
 
 This bipedal dinosaur has a mouth filled with sharp teeth and short, powerful arms that end in sharp claws.

@@ -1,3 +1,6 @@
+---
+title: spells/owlSWisdom
+---
  **Owl's Wisdom**
 
 **School** transmutation; **Level** cleric 2, druid 2, paladin 2, ranger 2, sorcerer/wizard 2

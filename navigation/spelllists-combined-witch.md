@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-witch
+---
 - [**Arcane Mark**](spells/arcaneMark.md#_arcane-mark)
 - [**Bleed**](spells/bleed.md#_bleed)
 - [**Dancing Lights**](spells/dancingLights.md#_dancing-lights)

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/heroicFinale
+---
  **Heroic Finale**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 4

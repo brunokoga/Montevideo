@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicHeroes/marshal
+---
 # Marshal
 
 Some are destined not only to achieve personal greatness, but also to inspire armies, rally the fallen, and bring the most out of those who follow them. The marshal is such a leader, renowned for his vision, courage, and strategic acumen. Soldiers flock to a marshal's banner for a chance to serve under such a commander, confident that his skill will see them through even the most difficult challenges.

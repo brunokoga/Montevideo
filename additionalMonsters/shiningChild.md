@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/shiningChild
+---
 # Shining Child 
 
 Surrounded by a nimbus of near-blinding light, this strange creature looks something like an emaciated child with clawed hands.

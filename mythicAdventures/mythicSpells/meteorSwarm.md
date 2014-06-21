@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/meteorSwarm
+---
 Meteor Swarm
 
 **Source** [_meteor swarm_](spells/meteorSwarm.md#_meteor-swarm)

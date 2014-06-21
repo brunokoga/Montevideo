@@ -1,3 +1,6 @@
+---
+title: spells/findThePath
+---
  **Find the Path**
 
 **School** divination; **Level** bard 6, cleric 6, druid 6

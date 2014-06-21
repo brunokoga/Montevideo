@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/sailors
+---
 # Sailors
 
 Plying the seas and facing danger in pursuit of wealth, adventure, or merely the freedom of the waves, professional sailors arise from every port and ship upon nearly every ocean. Whether as salty sea dogs, hardened marines, sailing traders, seasoned captains, or deadly pirates, those with experience before the mast and skill at reading the tempers of the seas might find new journeys wherever the tides sweep them. The sea breeds colorful characters and seems to harden those who ride its waves, bringing some to nobility and sinking others to the black-hearted depths of cruelty.

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/magicSiegeEngine
+---
 Magic Siege Engine
 
 **School** transmutation; **Level** antipaladin 2, cleric 2, inquisitor 2, paladin 2, sorcerer/wizard 2

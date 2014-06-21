@@ -1,3 +1,6 @@
+---
+title: monsters/genie
+---
 # Genie, Djinni
 
 _This creature stands nearly twice as tall as a human, although its lower torso trails away into a vortex of mist and wind._

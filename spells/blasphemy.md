@@ -1,3 +1,6 @@
+---
+title: spells/blasphemy
+---
  **Blasphemy**
 
 **School** evocation [evil, sonic]; **Level** cleric 7

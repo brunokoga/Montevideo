@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/shockingImage
+---
 Shocking Image
 
 **School** illusion (figment) [electricity]; **Level** bard 4, sorcerer/wizard 4

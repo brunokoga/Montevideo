@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/tenebrousWorm
+---
 # Tenebrous Worm
 
 This pallid beast clatters upon dozens of small legs. Writhing bristles twitch on its back, and its shadow seems strangely mobile.

@@ -1,3 +1,6 @@
+---
+title: spells/insanity
+---
  **Insanity**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 7

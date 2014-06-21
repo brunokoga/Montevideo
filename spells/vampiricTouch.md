@@ -1,3 +1,6 @@
+---
+title: spells/vampiricTouch
+---
  **Vampiric touch**
 
 **School** necromancy; **Level** sorcerer/wizard 3

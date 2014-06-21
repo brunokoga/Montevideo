@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/fireSnake
+---
 Fire Snake
 
 **Source** [_fire snake_](advanced/spells/fireSnake.md#_fire-snake)

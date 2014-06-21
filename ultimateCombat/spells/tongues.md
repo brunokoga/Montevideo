@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/tongues
+---
 Tongues, Communal
 
 **Level** alchemist 4, bard 3, cleric 5, sorcerer/wizard 4, summoner 4, witch 4

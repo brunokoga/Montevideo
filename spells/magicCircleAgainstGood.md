@@ -1,3 +1,6 @@
+---
+title: spells/magicCircleAgainstGood
+---
  **Magic Circle against Good**
 
 **School** abjuration [evil]; **Level** cleric 3, sorcerer/wizard 3

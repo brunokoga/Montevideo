@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/wallOfIron
+---
 Wall of Iron
 
 **Source** [_wall of iron_](spells/wallOfIron.md#_wall-of-iron)

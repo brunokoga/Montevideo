@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/howlingAgony
+---
 Howling Agony
 
 **School** necromancy [death, pain]; **Level** inquisitor 2, sorcerer/wizard 3, witch 3

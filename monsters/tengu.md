@@ -1,3 +1,6 @@
+---
+title: monsters/tengu
+---
 # Tengu
 
 _Black feathers cover this crow-headed humanoid, and its hands and legs end in powerful talons._

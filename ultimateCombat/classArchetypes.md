@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes
+---
 # Class Archetypes
 
 Archetypes are a quick and easy way to specialize characters of a given class, adding fun and flavorful new abilities to already established adventurers. The class archetypes and corresponding new abilities mentioned below are all included in this section, and characters may take more than one archetype as long as they meet the requirements.

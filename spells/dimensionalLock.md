@@ -1,3 +1,6 @@
+---
+title: spells/dimensionalLock
+---
  **Dimensional Lock**
 
 **School** abjuration; **Level** cleric 8, sorcerer/wizard 8

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/defileArmor
+---
 Defile Armor
 
 **Source** [_defile armor_](advanced/spells/defileArmor.md#_defile-armor)

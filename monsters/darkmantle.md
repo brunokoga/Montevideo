@@ -1,3 +1,6 @@
+---
+title: monsters/darkmantle
+---
 # Darkmantle
 
 _As this creature falls from the cavern roof, it opens like a hideous octopus, its thin, hook-lined tentacles connected by a fleshy web._

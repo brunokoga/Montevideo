@@ -1,3 +1,6 @@
+---
+title: spells/powerWordStun
+---
  **Power Word Stun**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 8

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/reprobation
+---
 Reprobation
 
 **School** transmutation [curse, see text]; **Level** cleric 5, druid 5, inquisitor 4, paladin 4

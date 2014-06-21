@@ -1,3 +1,6 @@
+---
+title: spells/powerWordBlind
+---
  **Power Word Blind**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** sorcerer/wizard 7

@@ -1,3 +1,6 @@
+---
+title: prestigeClasses/assassin
+---
 # Assassin
 
 A mercenary undertaking his task with cold, professional detachment, the assassin is equally adept at espionage, bounty hunting, and terrorism. At his core, an assassin is an artisan, and his medium is death. Trained in a variety of killing techniques, assassins are among the most feared classes.

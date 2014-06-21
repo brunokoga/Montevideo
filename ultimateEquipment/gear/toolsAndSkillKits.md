@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/toolsAndSkillKits
+---
 ## Tools and Skill Kits
 
 These items are particularly useful to characters with certain skills and class abilities.

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/hellcat
+---
 # Hellcat
 
 This eerie beast appears to be the animated skeleton of a huge fanged cat, its bones glowing with fire and seething with smoke.

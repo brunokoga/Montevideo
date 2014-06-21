@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/paladin
+---
 # Paladins
 
 Callous Rake CR 1/2

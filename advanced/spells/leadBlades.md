@@ -1,3 +1,6 @@
+---
+title: advanced/spells/leadBlades
+---
  **Lead Blades**
 
 **School** transmutation; **Level** ranger 1

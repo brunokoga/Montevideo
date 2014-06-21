@@ -1,3 +1,6 @@
+---
+title: monsters/zombie
+---
 # Zombie
 
 _This walking corpse wears only a few soiled rags, its flesh rotting off its bones as it stumbles forward, arms outstretched._

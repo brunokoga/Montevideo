@@ -1,3 +1,6 @@
+---
+title: spells/darkness
+---
  **Darkness**
 
 **School** evocation [darkness]; **Level** bard 2, cleric 2, sorcerer/wizard 2

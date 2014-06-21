@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/uncommonRaces/nagaji
+---
 # Nagaji
 
 The nagaji are a race of ophidian humanoids with scaled skin that mimics the dramatic appearance of true nagas. Like serpents, they have forked tongues and lidless eyes, giving them an unblinking gaze that most other races find unnerving. Their physical forms are otherwise humanlike, raising wary speculation about their origins. It is widely believed that true nagas created them as a servitor race, through crossbreeding, magic, or both, and indeed nagaji revere nagas as living gods. Nagaji often inspire awe and fear among other humanoids, as much for their mysterious ancestry as for their talent for both swords and sorcery.

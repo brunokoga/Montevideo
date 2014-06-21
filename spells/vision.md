@@ -1,3 +1,6 @@
+---
+title: spells/vision
+---
  **Vision**
 
 **School** divination; **Level** sorcerer/wizard 7

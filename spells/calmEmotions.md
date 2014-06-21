@@ -1,3 +1,6 @@
+---
+title: spells/calmEmotions
+---
  **Calm Emotions**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, cleric 2

@@ -1,3 +1,6 @@
+---
+title: spellLists
+---
 # Spell Lists
 
 An M or F appearing at the end of a spell's name in the spell lists denotes a spell with a material or focus component, respectively, that is not normally included in a spell component pouch.

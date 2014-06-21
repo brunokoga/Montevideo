@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/fighter
+---
 # Fighter
 
 There are more ways to fight a battle than there are types of weapons. While many fighters learn to fight in close concert with allies on a bloody field, others choose strange, esoteric, or totally backhanded and dishonorable modes of combat in order to win the day. The following are just a few strategies of the fray practiced by heroes and villains alike.

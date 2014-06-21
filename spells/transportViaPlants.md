@@ -1,3 +1,6 @@
+---
+title: spells/transportViaPlants
+---
  **Transport via Plants**
 
 **School** conjuration (teleportation); **Level** druid 6

@@ -1,3 +1,6 @@
+---
+title: bestiary3/antLion
+---
 # Ant Lion, Giant
 
 This gigantic burrowing insect has an oversized abdomen. A terrifying set of long, hooked mandibles protrudes from its head.

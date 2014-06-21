@@ -1,3 +1,6 @@
+---
+title: monsters/dinosaur
+---
 # Dinosaur, Ankylosaurus
 
 _Thick bony plates armor the domelike back of this quadrupedal dinosaur, its powerfully muscled tail ending in a bony club._

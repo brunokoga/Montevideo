@@ -1,3 +1,6 @@
+---
+title: spells/protectionFromLaw
+---
  **Protection from Law**
 
 **School** abjuration [chaotic]; **Level** cleric 1, sorcerer/wizard 1

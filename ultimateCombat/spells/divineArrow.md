@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/divineArrow
+---
 Divine Arrow
 
 **School** transmutation [[good](monsters/creatureTypes.md#_good-subtype)]; **Level** paladin 2

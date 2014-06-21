@@ -1,3 +1,6 @@
+---
+title: spells/wallOfIce
+---
  **Wall of Ice**
 
 **School** evocation [cold]; **Level** sorcerer/wizard 4

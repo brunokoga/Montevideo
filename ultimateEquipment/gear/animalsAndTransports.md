@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/animalsAndTransports
+---
 ## Animals, Mounts, and Related Gear
 
 The animals, mounts, and related gear in this section can be found in most large cities. Based on its location, a settlement might not have all of these animals or related gear available at a given time (as the GM deems fit).

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/fluidForm
+---
  **Fluid Form**
 
 **School** transmutation [water]; **Level** alchemist 4, sorcerer/wizard 6

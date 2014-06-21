@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/pilferingHand
+---
 Pilfering Hand
 
 **School** evocation [force]; **Level** bard 2, cleric 2, magus 2, sorcerer/wizard 2

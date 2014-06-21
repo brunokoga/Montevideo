@@ -1,3 +1,6 @@
+---
+title: spells/graspingHand
+---
  **Grasping Hand**
 
 **School** evocation [force]; **Level** sorcerer/wizard 7

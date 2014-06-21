@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/toxicGift
+---
 Toxic Gift
 
 **School** necromancy [poison]; **Level** antipaladin 2, sorcerer/wizard 3

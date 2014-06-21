@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/axiomite
+---
 # Axiomite 
 
 As this lithe humanoid moves, its flesh shimmers and wavers, temporarily breaking apart into motes of shimmering light.

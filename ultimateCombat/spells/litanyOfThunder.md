@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/litanyOfThunder
+---
 Litany of Thunder
 
 **School** evocation [language dependent, sonic]; **Level** antipaladin 4, inquisitor 5, paladin 4

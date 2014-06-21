@@ -1,3 +1,6 @@
+---
+title: monsters/halfDragon
+---
 # Half-Dragon
 
 _This six-legged dragon flaps its massive wings as it lowers its head to glare with hideous glowing eyes._

@@ -1,3 +1,6 @@
+---
+title: bestiary3/baregara
+---
 # Baregara
 
 This lumbering apelike monster has blood-red fur, twisted horns, and a hideous fanged orifice set in the center of its chest.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/Glossary
+---
 # Glossary
 
 _Mythic Adventures_ uses several terms that are new to the Pathfinder Roleplaying Game, or that previously existed but were rarely used. These terms are worth reviewing before continuing on with the contents in this section.

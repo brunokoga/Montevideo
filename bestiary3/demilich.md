@@ -1,3 +1,6 @@
+---
+title: bestiary3/demilich
+---
 # Demilich
 
 Glittering jewels encrust this leering skull as it floats up into the air on a swirling vortex of dust and shimmering magic.

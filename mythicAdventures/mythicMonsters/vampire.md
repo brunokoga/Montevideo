@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/vampire
+---
 # Vampire
 
 _This aristocratic figure could easily pass for human if not for the grave-pale skin, red eyes, and long fangs. _

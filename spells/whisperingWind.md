@@ -1,3 +1,6 @@
+---
+title: spells/whisperingWind
+---
  **Whispering Wind**
 
 **School** transmutation [air]; **Level** bard 2, sorcerer/wizard 2

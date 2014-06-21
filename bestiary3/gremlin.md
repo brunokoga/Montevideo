@@ -1,3 +1,6 @@
+---
+title: bestiary3/gremlin
+---
 # Gremlin, Fuath
 
 This waterlogged gremlin has lobster claws for hands and an almost canine face with webbed ears.

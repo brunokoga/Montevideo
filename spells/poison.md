@@ -1,3 +1,6 @@
+---
+title: spells/poison
+---
  **Poison**
 
 **School** necromancy; **Level** cleric 4, druid 3

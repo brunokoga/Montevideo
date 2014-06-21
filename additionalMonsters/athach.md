@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/athach
+---
 # Athach
 
 This giant's maw contains a pair of dripping tusks, but it is its gangly third arm that makes its appearance truly bizarre.

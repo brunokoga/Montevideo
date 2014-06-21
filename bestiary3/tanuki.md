@@ -1,3 +1,6 @@
+---
+title: bestiary3/tanuki
+---
 # Tanuki
 
 Short and pudgy, this raccoonlike humanoid wields a stout quarterstaff and weaves a little as if intoxicated.

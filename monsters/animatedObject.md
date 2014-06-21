@@ -1,3 +1,6 @@
+---
+title: monsters/animatedObject
+---
 # Animated Object
 
 _The skeleton locked within rattles as this animated cage lurches forward on chain legs in search of new prisoners._

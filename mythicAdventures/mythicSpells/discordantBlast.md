@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/discordantBlast
+---
 Discordant Blast
 
 **Source** [_discordant blast_](advanced/spells/discordantBlast.md#_discordant-blast)

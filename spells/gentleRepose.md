@@ -1,3 +1,6 @@
+---
+title: spells/gentleRepose
+---
  **Gentle Repose**
 
 **School** necromancy; **Level** cleric 2, sorcerer/wizard 3

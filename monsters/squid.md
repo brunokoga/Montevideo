@@ -1,3 +1,6 @@
+---
+title: monsters/squid
+---
 # Squid
 
 _This slender red squid darts through the water with alacrity. Two large eyes stare from above the creature's tentacles._

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/ageResistance
+---
 Age Resistance
 
 **School** transmutation; **Level** alchemist 4, druid 6, sorcerer/wizard 6, witch 6

@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/appendix
+---
 # Treasure Generator
 
 The following system gives GMs a way to generate random treasure to reward players after completing an encounter or otherwise recovering valuables. The following system gives guidance to the gm to determine the type of treasure given based on the nature of the monsters or encounter.

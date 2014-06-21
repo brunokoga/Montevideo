@@ -1,3 +1,6 @@
+---
+title: mastery/planarAdventures
+---
 # Planar
 
 Beyond the mundane world of humans, elves, gnomes, and dwarves lie vast realms known as the planes of existence. Almost limitless in size and potential, the various planes embody the fundamental aspects of reality: alignments, elements, energies, and so on. Each plane is a universe unto itself; it follows its own natural laws and has its own unique inhabitants—the outsiders that occasionally visit or are summoned to the mortal world, be they gods, angels, demons, devils, or even stranger creatures. Literally anything is possible on the planes, making them a perfect location for exotic, terrifying, wondrous, and deadly adventures.

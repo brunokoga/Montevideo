@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/heroism
+---
 Heroism
 
 **Source** [_heroism_](spells/heroism.md#_heroism)

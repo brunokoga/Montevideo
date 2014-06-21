@@ -1,3 +1,6 @@
+---
+title: spells/plantShape
+---
  **Plant Shape I**
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 5

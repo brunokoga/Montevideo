@@ -1,3 +1,6 @@
+---
+title: monsters/roc
+---
 # Roc
 
 _This immense raptor unleashes a shrill cry as it bares its talons, each large enough to carry off a horse._

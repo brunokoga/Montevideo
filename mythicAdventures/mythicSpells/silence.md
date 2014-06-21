@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/silence
+---
 Silence
 
 **Source** [_silence_](spells/silence.md#_silence)

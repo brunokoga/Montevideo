@@ -1,3 +1,6 @@
+---
+title: advanced/spells/alterWinds
+---
  **Alter Winds**
 
 **School** transmutation [air]; **Level** druid 1, sorcerer/wizard 1

@@ -1,3 +1,6 @@
+---
+title: spells/dream
+---
  **Dream**
 
 **School** illusion (phantasm) [mind-affecting]; **Level** bard 5, sorcerer/wizard 5

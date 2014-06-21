@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/fireSeeds
+---
 Fire Seeds
 
 **Source** [_fire seeds_](spells/fireSeeds.md#_fire-seeds)

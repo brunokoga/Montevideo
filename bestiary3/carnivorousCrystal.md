@@ -1,3 +1,6 @@
+---
+title: bestiary3/carnivorousCrystal
+---
 # Carnivorous Crystal
 
 The facets of this crystalline formation shift and vibrate, as though in anticipation.

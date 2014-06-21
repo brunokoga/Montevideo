@@ -1,3 +1,6 @@
+---
+title: advanced/spells/phantasmalRevenge
+---
  **Phantasmal Revenge**
 
 **School** illusion (phantasm) [fear, mind-affecting]; **Level** sorcerer/wizard 7

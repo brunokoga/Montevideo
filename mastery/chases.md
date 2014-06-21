@@ -1,3 +1,6 @@
+---
+title: mastery/chases
+---
 # Chases
 
 While chases are a signature action scene in countless stories, they present a singular challenge in the Pathfinder Roleplaying Game, thanks to static movement rates. Since every creature in the game has a set movement rate, it might seem like you'd either automatically (or never) catch up to a fleeing foe! Obviously, this isn't the case, because there's more to catching a foe or avoiding being caught than simple speed.

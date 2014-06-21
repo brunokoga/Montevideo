@@ -1,3 +1,6 @@
+---
+title: spells/purifyFoodAndDrink
+---
  **Purify Food and Drink**
 
 **School** transmutation; **Level** cleric 0, druid 0

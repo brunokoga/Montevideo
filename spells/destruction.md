@@ -1,3 +1,6 @@
+---
+title: spells/destruction
+---
  **Destruction**
 
 **School** necromancy [death]; **Level** cleric 7

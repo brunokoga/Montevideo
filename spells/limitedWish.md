@@ -1,3 +1,6 @@
+---
+title: spells/limitedWish
+---
  **Limited Wish**
 
 **School** universal; **Level** sorcerer/wizard 7

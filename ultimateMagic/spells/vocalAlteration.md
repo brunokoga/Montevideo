@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/vocalAlteration
+---
 Vocal Alteration
 
 **School** transmutation; **Level** alchemist 1, bard 1, inquisitor 1, sorcerer/wizard 1, witch 1

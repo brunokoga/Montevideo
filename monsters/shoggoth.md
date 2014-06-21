@@ -1,3 +1,6 @@
+---
+title: monsters/shoggoth
+---
 # Shoggoth
 
 _This immense mound of black slime thunders forward, eyes and mouths and even stranger things forming in its heaving bulk._

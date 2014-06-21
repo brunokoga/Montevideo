@@ -1,3 +1,6 @@
+---
+title: spells/removeParalysis
+---
  **Remove Paralysis**
 
 **School** conjuration (healing); **Level** cleric 2, paladin 2

@@ -1,3 +1,6 @@
+---
+title: monsters/froghemoth
+---
 # Froghemoth
 
 _This immense, three-eyed frog-like creature rears up on powerful hind legs. In place of arms, four huge tentacles thrash and writhe._

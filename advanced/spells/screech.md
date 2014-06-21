@@ -1,3 +1,6 @@
+---
+title: advanced/spells/screech
+---
  **Screech**
 
 **School** evocation [sonic]; **Level** witch 3

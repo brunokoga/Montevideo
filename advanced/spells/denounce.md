@@ -1,3 +1,6 @@
+---
+title: advanced/spells/denounce
+---
  **Denounce**
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** bard 4, inquisitor 4

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/deafeningSongBolt
+---
  **Deafening Song Bolt**
 
 **School** evocation [sonic]; **Level** bard 5

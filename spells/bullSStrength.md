@@ -1,3 +1,6 @@
+---
+title: spells/bullSStrength
+---
  **Bull's Strength**
 
 **School** transmutation; **Level** cleric 2, druid 2, paladin 2, sorcerer/wizard 2

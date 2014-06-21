@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/bloodCrowStrike
+---
 Blood Crow Strike
 
 **Source** [_blood crow strike_](ultimateMagic/spells/bloodCrowStrike.md#_blood-crow-strike)

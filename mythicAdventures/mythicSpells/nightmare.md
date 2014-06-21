@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/nightmare
+---
 Nightmare
 
 **Source** [_nightmare_](spells/nightmare.md#_nightmare)

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/touchInjection
+---
 Touch Injection
 
 **School** transmutation; **Level** alchemist 2, sorcerer/wizard 3

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/feastOfAshes
+---
  **Feast of Ashes**
 
 **School** transmutation; **Level** druid 2, witch 2

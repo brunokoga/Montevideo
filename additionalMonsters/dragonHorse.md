@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/dragonHorse
+---
 # Dragon Horse
 
 The glossy alabaster coat of this noble horse ripples with muscles, while its hooves shimmer with pale blue energy.

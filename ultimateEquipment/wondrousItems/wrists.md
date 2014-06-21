@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/wrists
+---
 # Wrists Slot Wondrous Items
 
 The wrists slot consists of armbands, bracers, bracelets, gauntlets, manacles, shackles, sleeves, vambraces, and other items that can be worn on the wrists, such as short lengths of vine.

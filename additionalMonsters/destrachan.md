@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/destrachan
+---
 # Destrachan
 
 The hunched, reptilian beast lopes on two clawed feet, its eyeless head dominated by a huge circular maw filled with jagged teeth.

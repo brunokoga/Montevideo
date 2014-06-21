@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/planeShift
+---
 Plane Shift
 
 **Source** [_plane shift_](spells/planeShift.md#_plane-shift)

@@ -1,3 +1,6 @@
+---
+title: spells/mageSDisjunction
+---
  **Mage's Disjunction**
 
 **School** abjuration; **Level** sorcerer/wizard 9

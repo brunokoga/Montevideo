@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/hornOfPursuit
+---
 Horn of Pursuit
 
 **School** evocation [sonic]; **Level** bard 1, inquisitor 1, paladin 1, ranger 1

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/coneOfCold
+---
 Cone of Cold
 
 **Source** [_cone of cold_](spells/coneOfCold.md#_cone-of-cold)

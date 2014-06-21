@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/shout
+---
 Shout
 
 **Source** [_shout_](spells/shout.md#_shout)

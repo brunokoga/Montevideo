@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/uncommonRaces/svirfneblins
+---
 # Svirfneblin
 
 In the dark below earth, svirfneblin protect their enclaves, keeping their small communities safe from the terrors of the lightless depths. Serious creatures with slate-gray skin, these gnomes vary greatly from their surface cousins by choosing to live in the shadowy depths and protect the world above from the foul creatures sharing their chambers, vaults, and tunnels.

@@ -1,3 +1,6 @@
+---
+title: spells/interposingHand
+---
  **Interposing Hand**
 
 **School** evocation [force]; **Level** sorcerer/wizard 5

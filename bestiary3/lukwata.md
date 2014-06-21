@@ -1,3 +1,6 @@
+---
+title: bestiary3/lukwata
+---
 # Lukwata
 
 A long, spiny fin runs down the length of the dolphinlike body of this eel-headed predator.

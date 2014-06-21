@@ -1,3 +1,6 @@
+---
+title: spells/breathOfLife
+---
  **Breath of Life**
 
 **School** conjuration (healing); **Level** cleric 5

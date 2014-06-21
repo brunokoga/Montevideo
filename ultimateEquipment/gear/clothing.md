@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/clothing
+---
 # Clothing
 
 These clothes and outfits can be useful to PCs and NPCs who want to dress for special occasions, such as braving an arctic wasteland, attending a gala, sleuthing around an urban setting, or any other situation where specific garb might be beneficial or fitting.

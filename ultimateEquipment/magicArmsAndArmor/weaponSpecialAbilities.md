@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/magicArmsAndArmor/weaponSpecialAbilities
+---
 # Weapon Special Abilities
 
 A magic weapon is enhanced to strike more truly and deliver more damage. Magic weapons have enhancement bonuses ranging from +1 to +5. They apply these bonuses to both attack and damage rolls when used in combat. All magic weapons are also masterwork weapons, but their masterwork bonuses on attack rolls do not stack with their enhancement bonuses on attack rolls.

@@ -1,3 +1,6 @@
+---
+title: spells/fireball
+---
  **Fireball**
 
 **School** evocation [fire]; **Level** sorcerer/wizard 3

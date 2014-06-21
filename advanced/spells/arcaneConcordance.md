@@ -1,3 +1,6 @@
+---
+title: advanced/spells/arcaneConcordance
+---
  **Arcane Concordance**
 
 **School** evocation; **Level** bard 3

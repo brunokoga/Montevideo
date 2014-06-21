@@ -1,3 +1,6 @@
+---
+title: bestiary3/shedu
+---
 # Shedu
 
 This noble creature stands strong and tall with the body of a powerful bull and the head of a wise-looking human.

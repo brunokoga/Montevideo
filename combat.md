@@ -1,7 +1,6 @@
 ---
-title: Combat
+title: combat
 ---
-
 # How Combat Works
 
 Combat is cyclical; everybody acts in turn in a regular cycle of rounds. Combat follows this sequence:

@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/ageHeightWeight
+---
 # Age
 
 You can choose or randomly generate your character's age. If you choose it, it must be at least the minimum age for the character's race and class (see the Random Starting Ages tables). Alternatively, roll the dice indicated for your class on the appropriate table and add the result to the minimum age of adulthood for your race to determine your character's age.

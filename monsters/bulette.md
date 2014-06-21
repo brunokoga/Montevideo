@@ -1,3 +1,6 @@
+---
+title: monsters/bulette
+---
 # Bulette
 
 _This armor-plated creature's toothy maw gapes wide as a fin-like dorsal plate rises between its shoulders._

@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/frontier
+---
 # Frontier
 
 At the edge of civilization, grim individuals scrape a harsh life from unforgiving lands. These masters of the wilderness learn the ways of their chosen lands, forgoing the comforts of cities and cultured company for peace and simplicity among beasts and nature. While some are mere visitors to frontier lands, guiding others or hunting for resources, others are true denizens of the wilds, as at home in nature as any untamed beast—and in many ways, just as dangerous.

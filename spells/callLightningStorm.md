@@ -1,3 +1,6 @@
+---
+title: spells/callLightningStorm
+---
  **Call Lightning Storm**
 
 **School** evocation [electricity]; **Level** druid 5

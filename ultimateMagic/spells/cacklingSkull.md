@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/cacklingSkull
+---
 Cackling Skull
 
 **School** illusion (glamer); **Level** witch 3

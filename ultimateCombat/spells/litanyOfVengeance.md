@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/litanyOfVengeance
+---
 Litany of Vengeance
 
 **School** transmutation [language dependent]; **Level** antipaladin 4, inquisitor 5, paladin 4

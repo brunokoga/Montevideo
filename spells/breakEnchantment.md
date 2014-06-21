@@ -1,3 +1,6 @@
+---
+title: spells/breakEnchantment
+---
  **Break Enchantment**
 
 **School** abjuration; **Level** bard 4, cleric 5, paladin 4, sorcerer/wizard 5

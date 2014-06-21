@@ -1,3 +1,6 @@
+---
+title: monsters/rhinoceros
+---
 # Rhinoceros
 
 _This rhinoceros has a low-slung head with twisted ears that lie back along its neck._

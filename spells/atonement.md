@@ -1,3 +1,6 @@
+---
+title: spells/atonement
+---
  **Atonement**
 
 **School** abjuration; **Level** cleric 5, druid 5

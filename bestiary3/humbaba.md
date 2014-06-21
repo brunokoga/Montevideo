@@ -1,3 +1,6 @@
+---
+title: bestiary3/humbaba
+---
 # Humbaba
 
 This towering, horned, lion-faced giant has long, braided hair and is outfitted in various pieces of plate armor.

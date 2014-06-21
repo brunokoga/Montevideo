@@ -1,3 +1,6 @@
+---
+title: mastery/settlements
+---
 # Settlements in Play
 
 [Settlement Population Ranges]| A settlement's population is left to the GM to assign, but you can use a settlement's type to help you determine just how many folks live in the city. Since the actual number of people who dwell in a settlement has no impact on game play, the number you choose is largely cosmetic—feel free to adjust the suggested values below to fit your campaign. |

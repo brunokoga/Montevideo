@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/fickleWinds
+---
 Fickle Winds
 
 **School** transmutation [air]; **Level** cleric 5, druid 5, ranger 3, sorcerer/wizard 5

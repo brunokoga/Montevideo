@@ -1,3 +1,6 @@
+---
+title: spells/prestidigitation
+---
  **Prestidigitation**
 
 **School** universal; **Level** bard 0, sorcerer/wizard 0

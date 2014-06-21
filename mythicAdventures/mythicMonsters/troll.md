@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/troll
+---
 # Troll
 
 _This giant humanoid has massive tusks, warty green hide sprouting bone spikes, and forearms thicker than its meaty legs. _

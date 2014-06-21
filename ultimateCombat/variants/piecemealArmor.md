@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/variants/piecemealArmor
+---
 # Piecemeal Armor
 
 All armor in the Pathfinder Roleplaying Game is constructed of pieces and parts that are carefully (or hastily) donned each time the armor is used. While a full suit of armor is always more protective than wearing pieces of armor, sometimes a character does not have time to don an entire suit of armor before jumping into the fray. Other times characters may not have access to an entire suit of armor; in dire situations, they may need to find pieces or parts of armor among lower-level treasure hoards, or they have to scavenge from the bodies of fallen foes in order to protect themselves.

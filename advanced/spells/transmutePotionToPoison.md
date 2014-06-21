@@ -1,3 +1,6 @@
+---
+title: advanced/spells/transmutePotionToPoison
+---
  **Transmute Potion to Poison**
 
 **School** transmutation; **Level** alchemist 2

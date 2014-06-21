@@ -1,3 +1,6 @@
+---
+title: bestiary3/devil
+---
 # Devil, Contract
 
 With rust-colored skin and a jutting crown of ridge-like horns, this muscular devil is draped in lengthy contracts.

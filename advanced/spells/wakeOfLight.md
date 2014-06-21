@@ -1,3 +1,6 @@
+---
+title: advanced/spells/wakeOfLight
+---
  **Wake of Light**
 
 **School** evocation [good]; **Level** paladin 2

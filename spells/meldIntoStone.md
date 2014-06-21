@@ -1,3 +1,6 @@
+---
+title: spells/meldIntoStone
+---
  **Meld into Stone**
 
 **School** transmutation [earth]; **Level** cleric 3, druid 3

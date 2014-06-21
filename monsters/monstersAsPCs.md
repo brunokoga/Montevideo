@@ -1,3 +1,6 @@
+---
+title: monsters/monstersAsPCs
+---
 # Monsters as PCs
 
 Using one of the monsters presented in this book as a character can be very rewarding, but weighing such a character against others is challenging. Monsters are not designed with the rules for players in mind, and as such can be very unbalancing if not handled carefully.

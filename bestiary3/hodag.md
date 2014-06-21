@@ -1,3 +1,6 @@
+---
+title: bestiary3/hodag
+---
 # Hodag
 
 Spikes cover the body of this vaguely reptilian creature. Its fearsome face features dagger-sharp teeth and glowing red eyes.

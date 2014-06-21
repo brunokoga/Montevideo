@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/characterBackground/storyFeats
+---
 # Story Feats
 
 A story feat reflects a goal—often an all-consuming one—that shapes your life. Each story feat incorporates a trigger event (which comes from either a campaign occurrence or your background), an immediate benefit, a goal, and a further benefit for achieving that goal.

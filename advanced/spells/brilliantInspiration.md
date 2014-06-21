@@ -1,3 +1,6 @@
+---
+title: advanced/spells/brilliantInspiration
+---
  **Brilliant Inspiration**
 
 **School** evocation [language-dependent]; **Level** bard 6

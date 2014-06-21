@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/disfiguringTouch
+---
 Disfiguring Touch
 
 **School** transmutation [curse]; **Level** cleric 2, sorcerer/wizard 2, witch 2

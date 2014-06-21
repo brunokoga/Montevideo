@@ -1,3 +1,6 @@
+---
+title: spells/dispelLaw
+---
  **Dispel Law**
 
 **School** abjuration [chaotic]; **Level** cleric 5

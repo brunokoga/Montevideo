@@ -1,3 +1,6 @@
+---
+title: monsters/seaHag
+---
 # Sea Hag
 
 _Hair like rotting seaweed drapes this ancient witch. Loose, algae-colored skin sags off her starved frame._

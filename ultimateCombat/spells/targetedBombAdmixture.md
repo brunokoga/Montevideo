@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/targetedBombAdmixture
+---
 Targeted Bomb Admixture
 
 **School** transmutation; **Level** alchemist 1

@@ -1,3 +1,6 @@
+---
+title: navigation/feats-combined-combat
+---
 - [Adder Strike (Combat)](ultimateCombat/ultimateCombatFeats.md#_adder-strike)
 - [Agile Maneuvers (Combat)](feats.md#_agile-maneuvers)
 - [Amateur Gunslinger (Combat)](ultimateCombat/ultimateCombatFeats.md#_amateur-gunslinger)

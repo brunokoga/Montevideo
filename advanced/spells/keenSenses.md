@@ -1,3 +1,6 @@
+---
+title: advanced/spells/keenSenses
+---
  **Keen Senses**
 
 **School** transmutation; **Level** alchemist 1, druid 1, ranger 1

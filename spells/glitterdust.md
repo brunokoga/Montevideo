@@ -1,3 +1,6 @@
+---
+title: spells/glitterdust
+---
  **Glitterdust**
 
 **School** conjuration (creation); **Level** bard 2, sorcerer/wizard 2

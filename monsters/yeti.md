@@ -1,3 +1,6 @@
+---
+title: monsters/yeti
+---
 # Yeti
 
 _This creature stands like a man, yet is half again the height of most men and covered with a coat of thick white fur._

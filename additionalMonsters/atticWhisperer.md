@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/atticWhisperer
+---
 # Attic Whisperer
 
 This thing resembles a gray, emaciated child, with cobwebs and dust for clothes and a fox skull for a head.

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/bunyip
+---
 # Bunyip
 
 A disturbing combination of shark and seal, this brown-furred creature has a wide mouth filled with razor-sharp teeth.

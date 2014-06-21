@@ -1,3 +1,6 @@
+---
+title: spells/antiplantShell
+---
  **Antiplant Shell**
 
 **School** abjuration; **Level** druid 4

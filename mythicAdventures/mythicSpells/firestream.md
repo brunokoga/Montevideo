@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/firestream
+---
 Firestream
 
 **Source** [_firestream_](advancedRaceGuide/featuredRaces/ifrits.md#_firestream)

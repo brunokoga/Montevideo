@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/oppressiveBoredom
+---
 Oppressive Boredom
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 2, sorcerer/wizard 2

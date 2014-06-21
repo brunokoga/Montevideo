@@ -1,3 +1,6 @@
+---
+title: spells/divination
+---
  **Divination**
 
 **School** divination; **Level** cleric 4

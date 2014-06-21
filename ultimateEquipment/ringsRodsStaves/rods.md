@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/ringsRodsStaves/rods
+---
 # Rods
 
 Rods are scepterlike devices that have unique magical powers and usually do not have charges. Anyone can use a rod.

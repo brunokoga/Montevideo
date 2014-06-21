@@ -1,3 +1,6 @@
+---
+title: advanced/coreClasses/paladin
+---
 # Paladin
 
 Holy warriors and defenders of the faith, paladins know that the only thing more abhorrent than an evil creature is a fundamentally good creature too timid to strive against the forces of darkness. Paladins are divine champions, gladly giving their lives in the service of light and justice, asking only that they may protect the innocent and cleanse the world to the best of their ability. Theirs is a hard path, requiring great sacrifice and ultimate devotion to a moral code, yet with her last breath a paladin can take comfort in a life of absolute righteousness.

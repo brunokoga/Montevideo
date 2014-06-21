@@ -1,3 +1,6 @@
+---
+title: spells/rayOfFrost
+---
  **Ray of Frost**
 
 **School** evocation [cold]; **Level** sorcerer/wizard 0

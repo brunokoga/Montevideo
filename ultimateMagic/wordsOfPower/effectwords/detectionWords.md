@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/detectionWords
+---
 ## Detection Words
 
 Detection words are used to learn things that simple observation cannot. They reveal secrets and uncover hidden things. Detection words are special in that they can be combined with other words from the Detection group in the same wordspell. Detection words cannot be combined with any other group's effect words within the same wordspell.

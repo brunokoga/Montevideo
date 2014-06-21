@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/rayOfEnfeeblement
+---
 Ray of Enfeeblement
 
 **Source** [_ray of enfeeblement_](spells/rayOfEnfeeblement.md#_ray-of-enfeeblement)

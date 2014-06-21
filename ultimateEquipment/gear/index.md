@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/index
+---
 # Gear
 
 There’s more to adventuring than just weapons and armor, and this section breaks down the rest of the necessities. First comes the adventuring gear—a smorgasbord of mundane items used every day by adventurers of all stripes. Whether it’s simple things like a backpack or crowbar, or more esoteric items like a scabbard with hidden compartments or fake shoes for laying down false footprints; everything you need to stock your pack, baggage train, or general store. After this comes specialized gear, including tools and kits to help you with all manner of skills and professions. This is followed by mounts and transportation, ranging from carriages to barding for your riding bat.

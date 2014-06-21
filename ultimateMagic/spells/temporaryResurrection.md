@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/temporaryResurrection
+---
 Temporary Resurrection
 
 **School** necromancy; **Level** sorcerer/wizard 7, witch 7

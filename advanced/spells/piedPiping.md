@@ -1,3 +1,6 @@
+---
+title: advanced/spells/piedPiping
+---
  **Pied Piping**
 
 **School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 6

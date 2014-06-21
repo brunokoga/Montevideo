@@ -1,3 +1,6 @@
+---
+title: spells/curseWater
+---
  **Curse Water**
 
 **School** necromancy [evil]; **Level** cleric 1

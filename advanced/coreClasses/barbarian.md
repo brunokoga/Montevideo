@@ -1,3 +1,6 @@
+---
+title: advanced/coreClasses/barbarian
+---
 # Barbarian
 
 The true barbarian is a creature of bestial, savage fury. Whether a stoic tribal champion who whips herself into a berserker frenzy for the good of her sword-sisters, or a chaotic warrior who revels in carnage for its own sake, all barbarians share a similar approach to combat. Once the red haze of bloodlust descends, there is only a burning rage that carries them through the screaming fray, heedless of wounds and leaving scattered corpses in their wake.

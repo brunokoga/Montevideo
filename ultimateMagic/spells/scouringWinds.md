@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/scouringWinds
+---
 Scouring Winds
 
 **School** evocation [air, earth]; **Level** druid 7, sorcerer/wizard 7, witch 7

@@ -1,3 +1,6 @@
+---
+title: spells/transmuteMetalToWood
+---
  **Transmute Metal to Wood**
 
 **School** transmutation; **Level** druid 7

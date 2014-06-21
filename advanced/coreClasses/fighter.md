@@ -1,3 +1,6 @@
+---
+title: advanced/coreClasses/fighter
+---
 # Fighter
 
 From dockside brawlers to legendary champions, poor foot soldiers to the greatest duelists of the nobility, fighters are those who devote themselves wholeheartedly to the art of combat. While barbarians tap into raw fury in battle, fighters know that the mind is the keenest weapon, and they use theirs to great effect, mastering numerous armaments and fighting styles in a never-ending quest to be the last warrior standing.

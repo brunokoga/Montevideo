@@ -1,3 +1,6 @@
+---
+title: spells/contagion
+---
  **Contagion**
 
 **School** necromancy [evil]; **Level** cleric 3, druid 3, sorcerer/wizard 4

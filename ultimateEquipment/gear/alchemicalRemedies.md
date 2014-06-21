@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/alchemicalRemedies
+---
 # Alchemical Remedies
 
 Alchemical remedies are substances used to overcome a negative condition or ward against a specific kind of attack. You use most remedies by drinking them or applying them to your skin or clothing. All of these substances can be made by a character with the [Craft](skills/craft.md#_craft) (alchemy) skill.

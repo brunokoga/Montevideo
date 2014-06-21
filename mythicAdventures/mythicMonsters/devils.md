@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/devils
+---
 # Devil, Bone
 
 _Horns crown the skull of this winged, skeletal creature, and its long claws twitch like spider legs. _

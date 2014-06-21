@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/exquisiteAccompaniment
+---
 Exquisite Accompaniment
 
 **School** illusion (shadow) [shadow]; **Level** bard 3

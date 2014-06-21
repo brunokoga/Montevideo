@@ -1,3 +1,6 @@
+---
+title: spells/warpWood
+---
  **Warp Wood**
 
 **School** transmutation; **Level** druid 2

@@ -1,3 +1,6 @@
+---
+title: bestiary3/feyCreature
+---
 # Fey Creature
 
 Little about this enormous toad is ordinary, from its graceful wings to its colorful purple and pink skin to its bright, shining eyes.

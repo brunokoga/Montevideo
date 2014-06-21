@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/battlemindLink
+---
 Battlemind Link
 
 **School** divination [mind-affecting]; **Level** inquisitor 4, sorcerer/wizard 6

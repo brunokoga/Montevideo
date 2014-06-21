@@ -1,3 +1,6 @@
+---
+title: bestiary3/bogeyman
+---
 # Bogeyman
 
 Dressed in a long dark coat and a tall hat, this lanky, fanged humanoid exudes an almost palpable aura of horror.

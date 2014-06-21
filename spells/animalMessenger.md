@@ -1,3 +1,6 @@
+---
+title: spells/animalMessenger
+---
  **Animal Messenger**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 2, druid 2, ranger 1

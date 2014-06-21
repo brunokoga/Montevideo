@@ -1,3 +1,6 @@
+---
+title: bestiary3/tupilaq
+---
 # Tupilaq
 
 This small humanoid figure grinds and clatters as it moves, its body carved from bones decorated with fine scrimshaw.

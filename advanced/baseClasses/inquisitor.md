@@ -1,3 +1,6 @@
+---
+title: advanced/baseClasses/inquisitor
+---
 # Inquisitor
 
 Grim and determined, the inquisitor roots out enemies of the faith, using trickery and guile when righteousness and purity is not enough. Although inquisitors are dedicated to a deity, they are above many of the normal rules and conventions of the church. They answer to their deity and their own sense of justice alone, and are willing to take extreme measures to meet their goals.

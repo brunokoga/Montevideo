@@ -1,3 +1,6 @@
+---
+title: spells/mindBlank
+---
  **Mind Blank**
 
 **School** abjuration; **Level** sorcerer/wizard 8

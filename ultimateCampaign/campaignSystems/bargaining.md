@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/bargaining
+---
 # Bargaining
 
 An item is worth only what someone will pay for it. To an art collector, a canvas covered in daubs of random paint may be a masterpiece; a priestess might believe a weathered jawbone is a holy relic of a saint. The rules presented here offer you a way of playing through the process of selling off goods brought up from a crypt, liberated from a baron's bedchamber, or plundered from a dragon's vault. They also enable players to establish contacts with local fences, launderers, antiquarians, and obsessive collectors.

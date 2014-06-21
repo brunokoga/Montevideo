@@ -1,3 +1,6 @@
+---
+title: skills/diplomacy
+---
 # Diplomacy
 
 ## ( [Cha](../gettingStarted.md#_charisma-new))

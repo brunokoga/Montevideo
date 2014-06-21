@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/uncommonRaces
+---
 # Uncommon Races
 
 Some races are so uncommon that their very existence may be the subject of debate. Living on the fringes of the wilderness, in hidden grottos deep beneath the surface, under the ocean waves, or among the clouds of the night sky, few members of these races hear the call of adventure.

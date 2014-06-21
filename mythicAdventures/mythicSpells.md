@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells
+---
 # Mythic Spells
 
 Mythic spells draw upon the caster's mythic power to create more powerful magical effects— [_mythic fireball_](mythicAdventures/mythicSpells/fireball.md#_fireball-mythic) sets affected creatures on fire, [_mythic mage armor_](mythicAdventures/mythicSpells/mageArmor.md#_mage-armor-mythic) can negate critical hits, and so on. These spells aren't separate spells you gain as a spell known from your spellcasting class, but rather mythically charged versions of spells you already know.

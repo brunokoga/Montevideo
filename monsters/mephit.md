@@ -1,3 +1,6 @@
+---
+title: monsters/mephit
+---
 # Mephit
 
 _This small humanoid creature has thin, leathery wings, small horns, and a mischievous smile. _

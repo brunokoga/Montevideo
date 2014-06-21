@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/dustForm
+---
 Dust Form
 
 **School** transmutation (polymorph); **Level** alchemist 5, cleric 6, druid 6, witch 6

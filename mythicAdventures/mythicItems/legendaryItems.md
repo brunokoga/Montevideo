@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicItems/legendaryItems
+---
 # Legendary Items
 
 Mythic heroes are known for their trials and the incredible deeds they accomplish during those trials. These trials are often acts of great courage or defiance in the face of insurmountable adversity. Many legendary magic items become so intrinsically tied to a hero's trials that it's hard to separate the legend of the hero from the legend of the item.

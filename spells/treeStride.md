@@ -1,3 +1,6 @@
+---
+title: spells/treeStride
+---
  **Tree Stride**
 
 **School** conjuration (teleportation); **Level** druid 5, ranger 4

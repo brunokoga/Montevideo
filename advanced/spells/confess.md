@@ -1,3 +1,6 @@
+---
+title: advanced/spells/confess
+---
  **Confess**
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** inquisitor 2

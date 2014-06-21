@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/forcedQuiet
+---
 Forced Quiet
 
 **School** transmutation [sonic]; **Level** bard 1, inquisitor 1, sorcerer/wizard 1, witch 1

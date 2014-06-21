@@ -1,3 +1,6 @@
+---
+title: spells/blindnessDeafness
+---
  **Blindness/Deafness**
 
 **School** necromancy; **Level** bard 2, cleric 3, sorcerer/wizard 2

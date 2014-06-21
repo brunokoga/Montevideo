@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/burrow
+---
 Burrow
 
 **Source** [_burrow_](ultimateMagic/spells/burrow.md#_burrow)

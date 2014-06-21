@@ -1,3 +1,6 @@
+---
+title: spells/speakWithPlants
+---
  **Speak with Plants**
 
 **School** divination; **Level** bard 4, druid 3, ranger 2

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/contagion
+---
 Contagion, Greater
 
 **School** necromancy [disease, evil]; **Level** cleric 5, druid 5, sorcerer/wizard 6, witch 5

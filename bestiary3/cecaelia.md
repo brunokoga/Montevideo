@@ -1,3 +1,6 @@
+---
+title: bestiary3/cecaelia
+---
 # Cecaelia
 
 In place of legs, this handsome humanoid sports an octopus's eight writhing tentacles.

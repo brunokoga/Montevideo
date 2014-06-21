@@ -1,3 +1,6 @@
+---
+title: spells/acidArrow
+---
  **Acid Arrow**
 
 **School** conjuration (creation) [acid]; **Level** sorcerer/wizard 2

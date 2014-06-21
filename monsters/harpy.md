@@ -1,3 +1,6 @@
+---
+title: monsters/harpy
+---
 # Harpy
 
 _Save for the tattered wings and taloned feet, this creature resembles a feral woman with a wild look about her._

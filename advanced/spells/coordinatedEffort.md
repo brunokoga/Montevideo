@@ -1,3 +1,6 @@
+---
+title: advanced/spells/coordinatedEffort
+---
  **Coordinated Effort**
 
 **School** divination; **Level** bard 3, inquisitor 3

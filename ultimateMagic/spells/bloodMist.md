@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/bloodMist
+---
 Blood Mist
 
 **School** conjuration (creation) [poison]; **Level** druid 8

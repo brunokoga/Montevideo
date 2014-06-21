@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/blisteringInvective
+---
 Blistering Invective
 
 **School** evocation [[fire](monsters/creatureTypes.md#_fire-subtype), language-dependant]; **Level** alchemist 2, bard 2, inquisitor 2

@@ -1,3 +1,6 @@
+---
+title: monsters/nightHag
+---
 # Night Hag
 
 _Grisly fetishes and the rags of once fine clothes hang off the corpse-thin frame of this horrifying, sharp-fanged crone._

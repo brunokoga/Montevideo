@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/burrow
+---
 Burrow
 
 **School** transmutation; **Level** alchemist 3, druid 3, ranger 3, sorcerer/wizard 3

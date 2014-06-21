@@ -1,3 +1,6 @@
+---
+title: npcCodex/npc/adept
+---
 # Adepts
 
 Acolyte CR 1/3

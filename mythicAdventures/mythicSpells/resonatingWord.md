@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/resonatingWord
+---
 Resonating Word
 
 **Source** [_resonating word_](ultimateMagic/spells/resonatingWord.md#_resonating-word)

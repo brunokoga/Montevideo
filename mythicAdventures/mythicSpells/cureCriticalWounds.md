@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/cureCriticalWounds
+---
 Cure Critical Wounds
 
 **Source** [_cure critical wounds_](spells/cureCriticalWounds.md#_cure-critical-wounds)

@@ -1,3 +1,6 @@
+---
+title: monsters/blackPudding
+---
 # Black Pudding
 
 _This black, amorphous blob piles up on itself, a quivering mound of midnight sludge that glistens darkly before surging forward._

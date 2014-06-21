@@ -1,3 +1,6 @@
+---
+title: spells/scrying
+---
  **Scrying**
 
 **School** divination (scrying); **Level** bard 3, cleric 5, druid 4, sorcerer/wizard 4

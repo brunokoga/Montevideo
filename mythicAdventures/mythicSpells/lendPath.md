@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/lendPath
+---
 Lend Path
 
 **School** transmutation; **Level** bard 4, cleric 5, druid 5, magus 4, sorcerer/wizard 5, summoner 4, witch 5

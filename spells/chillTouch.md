@@ -1,3 +1,6 @@
+---
+title: spells/chillTouch
+---
  **Chill Touch**
 
 **School** necromancy; **Level** sorcerer/wizard 1

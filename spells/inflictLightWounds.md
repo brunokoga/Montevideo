@@ -1,3 +1,6 @@
+---
+title: spells/inflictLightWounds
+---
  **Inflict Light Wounds**
 
 **School** necromancy; **Level** cleric 1

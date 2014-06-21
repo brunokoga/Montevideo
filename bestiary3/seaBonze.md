@@ -1,3 +1,6 @@
+---
+title: bestiary3/seaBonze
+---
 # Sea Bonze
 
 Massive and blacker than the darkest depths of the sea, this colossal watery form glares with two immense, hate-filled eyes.

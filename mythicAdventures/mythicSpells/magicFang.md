@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/magicFang
+---
 Magic Fang
 
 **Source** [_magic fang_](spells/magicFang.md#_magic-fang)

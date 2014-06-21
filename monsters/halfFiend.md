@@ -1,3 +1,6 @@
+---
+title: monsters/halfFiend
+---
 # Half-Fiend
 
 _This fiendish figure, complete with bat wings, claws, a fanged bull's head, and cloven feet, bellows a roar of challenge._

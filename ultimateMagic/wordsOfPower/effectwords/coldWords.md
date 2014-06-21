@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/coldWords
+---
 ## Cold Words
 
 Spells using these words drain the warmth from the surrounding environment, leaving everything frozen and rimed with frost.

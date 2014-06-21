@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/bard
+---
 # Bard
 
 Bards bring news of the outside world, entertain kings, act as cultural diplomats, and pass along rich oral traditions to commoners and nobility alike. Some call them jacks-of-all-trades, saying that they are generalists, never specialists, but this isn't true. Bards specialize as repositories of histories and carriers of legend, versed in the mythologies of lands across the world. Their knowledge brings them power, but their greatest power derives from their understanding of the intricacies of art—whether that art is musical, dramatic, or comedic, bards understand the power and allure of story, song, and dance, and tap into this knowledge to create supernatural powers that fashion legends of their own.

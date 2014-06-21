@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/paladin
+---
 # Paladin
 
 All paladins are holy champions of law and good, yet some devote themselves to specific causes with exceptional zeal, swearing great oaths to solve specific problems or give their lives trying. This section introduces a new paladin archetype, the oathbound paladin, and several sample oaths for paladins with that archetype.

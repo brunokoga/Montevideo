@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/sonicThrust
+---
 Sonic Thrust
 
 **School** evocation [sonic]; **Level** bard 4, sorcerer/wizard 5

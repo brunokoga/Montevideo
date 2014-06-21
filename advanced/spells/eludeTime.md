@@ -1,3 +1,6 @@
+---
+title: advanced/spells/eludeTime
+---
  **Elude Time**
 
 **School** transmutation; **Level** alchemist 5

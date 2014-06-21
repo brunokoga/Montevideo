@@ -1,3 +1,6 @@
+---
+title: advanced/spells/vanish
+---
  **Vanish**
 
 **School** illusion (glamer); **Level** bard 1, sorcerer/wizard 1

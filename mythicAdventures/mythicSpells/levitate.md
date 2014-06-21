@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/levitate
+---
 Levitate
 
 **Source** [_levitate_](spells/levitate.md#_levitate)

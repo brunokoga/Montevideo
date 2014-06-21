@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/artifactsAndOthers/artifacts
+---
 # Artifacts
 
 There exist throughout the world items that were never meant for the hands of mortals, powers that by all rights should solely be the province of divine beings and the elemental forces of creation. Yet occasionally, whether by accident, calamity, or strange fate, shards of such impossible might do fall into the hands of mortals. These motes of the unfathomable are called artifacts, and where they pass, lands shudder, nations rise, and legends are born.

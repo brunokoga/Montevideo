@@ -1,3 +1,6 @@
+---
+title: spells/daze
+---
  **Daze**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 0, sorcerer/wizard 0

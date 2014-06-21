@@ -1,3 +1,6 @@
+---
+title: monsters/bear
+---
 # Bear, Grizzly
 
 _Broad, powerful muscles move beneath this massive bear's brown fur, promising both speed and lethal force._

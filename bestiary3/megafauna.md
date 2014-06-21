@@ -1,3 +1,6 @@
+---
+title: bestiary3/megafauna
+---
 # Megafauna, Archelon
 
 The shell of this immense sea turtle easily spans 12 feet in length. Its narrow head ends in a hooked beak.

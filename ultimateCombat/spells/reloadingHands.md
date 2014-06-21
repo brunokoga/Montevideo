@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/reloadingHands
+---
 Reloading Hands
 
 **School** conjuration (creation); **Level** magus 2, ranger 2, sorcerer/wizard 2

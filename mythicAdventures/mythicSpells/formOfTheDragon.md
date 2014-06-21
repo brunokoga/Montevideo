@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/formOfTheDragon
+---
 Form of the Dragon (All)
 
 **Source** [_form of the dragon_](spells/formOfTheDragon.md)

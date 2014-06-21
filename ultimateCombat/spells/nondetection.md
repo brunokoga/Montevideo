@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/nondetection
+---
 Nondetection, Communal
 
 **Level** antipaladin 4, sorcerer/wizard 4

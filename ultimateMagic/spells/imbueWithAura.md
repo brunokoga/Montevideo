@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/imbueWithAura
+---
 Imbue with Aura
 
 **School** transmutation; **Level** cleric 2

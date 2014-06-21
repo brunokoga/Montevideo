@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/lightningArc
+---
 Lightning Arc
 
 **Source** [_lightning arc_](ultimateMagic/spells/lightningArc.md#_lightning-arc)

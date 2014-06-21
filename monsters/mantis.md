@@ -1,3 +1,6 @@
+---
+title: monsters/mantis
+---
 # Mantis, Giant
 
 _This towering insect walks on its back four legs. Its head is triangular and its front legs sport razor-sharp edges and claws._

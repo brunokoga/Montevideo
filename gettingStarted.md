@@ -1,3 +1,6 @@
+---
+title: gettingStarted
+---
 # Playing the Game
 
 While playing the Pathfinder RPG_, _the Game Master describes the events that occur in the game world, and the players take turns describing what their characters do in response to those events. Unlike storytelling, however, the actions of the players and the characters controlled by the Game Master (frequently called non-player characters, or NPCs) are not certain. Most actions require dice rolls to determine success, with some tasks being more difficult than others. Each character is better at some things than he is at other things, granting him bonuses based on his skills and abilities.

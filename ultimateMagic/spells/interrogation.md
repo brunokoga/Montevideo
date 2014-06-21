@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/interrogation
+---
 Interrogation
 
 **School** necromancy [evil, pain]; **Level** inquisitor 1, sorcerer/wizard 1, witch 1

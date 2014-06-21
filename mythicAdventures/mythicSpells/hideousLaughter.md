@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/hideousLaughter
+---
 Hideous Laughter
 
 **Source** [_hideous laughter_](spells/hideousLaughter.md#_hideous-laughter)

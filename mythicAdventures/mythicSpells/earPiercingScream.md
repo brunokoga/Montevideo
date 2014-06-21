@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/earPiercingScream
+---
 Ear-Piercing Scream
 
 **Source** [_ear-piercing scream_](ultimateMagic/spells/earPiercingScream.md#_ear-piercing-scream)

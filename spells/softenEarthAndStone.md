@@ -1,3 +1,6 @@
+---
+title: spells/softenEarthAndStone
+---
  **Soften Earth and Stone**
 
 **School** transmutation [earth]; **Level** druid 2

@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/brigands
+---
 # Brigands
 
 All sorts of dangers stalk the roads and frontiers of untamed lands. Aside from monsters, uncouth thugs and dangerous miscreants unfit for life among civilized folk beat their living out of travelers and settlers daring to find their own paths. Whether lone highwayman or bands of ambush-laying robbers, these pirates of the trade ways are more than unthinking beasts—they're cunning bandits who know their prey and deadly art all too well.

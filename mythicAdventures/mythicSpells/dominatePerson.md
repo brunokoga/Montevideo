@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/dominatePerson
+---
 Dominate Person
 
 **Source** [_dominate person_](spells/dominatePerson.md#_dominate-person)

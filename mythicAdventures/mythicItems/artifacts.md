@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicItems/artifacts
+---
 # Artifacts
 
 Though all artifacts are objects of intense magical power, some can reach their full glory and potential only in the hands of mythic creatures.

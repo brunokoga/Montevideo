@@ -1,3 +1,6 @@
+---
+title: bestiary3/moonBeast
+---
 # Moon-Beast
 
 This creature has a pale, froglike appearance with clawed hands, no eyes, a wide mouth, and a snout ending in pink tentacles.

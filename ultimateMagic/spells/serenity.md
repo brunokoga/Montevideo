@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/serenity
+---
 Serenity
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 4, cleric 5, sorcerer/wizard 6

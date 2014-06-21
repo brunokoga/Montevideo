@@ -1,3 +1,6 @@
+---
+title: advanced/spells/lightLance
+---
  **Light Lance**
 
 **School** evocation [good, light]; **Level** paladin 2

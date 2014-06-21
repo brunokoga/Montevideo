@@ -1,3 +1,6 @@
+---
+title: advanced/prestigeClasses/natureWarden
+---
 # Nature Warden
 
 Nature wardens are guardians of the wild places of the world, hunters and explorers par excellence, highly skilled in negotiating their way among the nonhuman inhabitants of the wild. Nature wardens befriend and train a beast of the wild as a companion, and some call wardens “beastmasters” because of these pets, but nature wardens are much more than tamers of wild things. They are experts at navigating the harsh brutality of nature's fury and making do with whatever tools and weapons present themselves, but they go beyond being hardy survivalists to become cunning tacticians with keen analytical minds, able to adapt and prepare for any situation and make the absolute best use of the advantages that any terrain or environment can afford them.

@@ -1,3 +1,6 @@
+---
+title: skills/acrobatics
+---
 # Acrobatics
 
 ## ( [Dex](../gettingStarted.md#_dexterity); Armor Check Penalty)

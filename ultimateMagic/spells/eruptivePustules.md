@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/eruptivePustules
+---
 Eruptive Pustules
 
 **School** transmutation [acid]; **Level** alchemist 3, sorcerer/wizard 3, witch 3

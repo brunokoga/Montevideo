@@ -1,3 +1,6 @@
+---
+title: bestiary3/animalLord
+---
 # Animal Lord
 
 This dark-skinned woman's languid movements are grace personified, her sparkling eyes those of a cat.

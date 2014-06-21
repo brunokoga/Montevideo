@@ -1,3 +1,6 @@
+---
+title: spells/undetectableAlignment
+---
  **Undetectable Alignment**
 
 **School** abjuration; **Level** bard 1, cleric 2, paladin 2

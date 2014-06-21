@@ -1,3 +1,6 @@
+---
+title: spells/fabricate
+---
  **Fabricate**
 
 **School** transmutation; **Level** sorcerer/wizard 5

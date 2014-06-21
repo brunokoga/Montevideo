@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/powerWordBlind
+---
 Power Word Blind
 
 **Source** [_power word blind_](spells/powerWordBlind.md#_power-word-blind)

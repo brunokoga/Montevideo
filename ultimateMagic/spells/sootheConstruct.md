@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/sootheConstruct
+---
 Soothe Construct
 
 **School** abjuration; **Level** cleric 4, sorcerer/wizard 5

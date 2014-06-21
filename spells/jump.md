@@ -1,3 +1,6 @@
+---
+title: spells/jump
+---
  **Jump**
 
 **School** transmutation; **Level** druid 1, ranger 1, sorcerer/wizard 1

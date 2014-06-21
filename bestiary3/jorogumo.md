@@ -1,3 +1,6 @@
+---
+title: bestiary3/jorogumo
+---
 # Jorogumo
 
 Eight spindly spider legs, flocked with coarse black hairs, stretch from the back of this otherwise beautiful black-haired woman.

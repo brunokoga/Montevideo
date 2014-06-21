@@ -1,3 +1,6 @@
+---
+title: spells/bane
+---
  **Bane**
 
 **School** enchantment (compulsion) [fear, mind-affecting]; **Level** cleric 1

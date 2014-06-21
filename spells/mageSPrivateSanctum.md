@@ -1,3 +1,6 @@
+---
+title: spells/mageSPrivateSanctum
+---
  **Mage's Private Sanctum**
 
 **School** abjuration; **Level** sorcerer/wizard 5

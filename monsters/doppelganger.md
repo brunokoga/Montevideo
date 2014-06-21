@@ -1,3 +1,6 @@
+---
+title: monsters/doppelganger
+---
 # Doppelganger
 
 _This grayish humanoid creature seems almost unfinished, with a narrow head, gaunt limbs, and a sinister, noseless face._

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/enlargePerson
+---
 Enlarge Person
 
 **Source** [_enlarge person_](spells/enlargePerson.md#_enlarge-person)

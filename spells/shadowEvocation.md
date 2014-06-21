@@ -1,3 +1,6 @@
+---
+title: spells/shadowEvocation
+---
  **Shadow Evocation**
 
 **School** illusion (shadow); **Level** bard 5, sorcerer/wizard 5

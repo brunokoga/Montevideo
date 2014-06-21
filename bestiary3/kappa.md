@@ -1,3 +1,6 @@
+---
+title: bestiary3/kappa
+---
 # Kappa
 
 This humanoid turtle crouches near the water, a suspicious look in its eyes. The top of its bowl-shaped head is filled with water.

@@ -1,3 +1,6 @@
+---
+title: bestiary3/div
+---
 # Div
 
 While demons exist to destroy, devils yearn to corrupt and control, and daemons seek the death of all things, the foul beings known as divs strive to ruin and despoil all things created by mortals. Spawned from corrupted genies exiled to the accursed depths of Abaddon, divs harbor an ancient hatred against all mortalkind, doing all in their power not simply to destroy but also to torment all that lives. Patient and vicious, divs seek to spoil all things beautiful and joyous, dooming their victims to existences full of frustration and suffering before succumbing to lengthy, painful deaths.

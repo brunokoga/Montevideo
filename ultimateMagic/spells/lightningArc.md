@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/lightningArc
+---
 Lightning Arc
 
 **School** evocation [electricity]; **Level** sorcerer/wizard 5

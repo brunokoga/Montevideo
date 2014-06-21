@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/phantomChariot
+---
 Phantom Chariot
 
 **School** conjuration (creation); **Level** sorcerer/wizard 4, summoner 3

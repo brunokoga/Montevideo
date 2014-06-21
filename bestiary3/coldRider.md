@@ -1,3 +1,6 @@
+---
+title: bestiary3/coldRider
+---
 # Cold Rider
 
 Jagged, twisting antlers of dark blue ice crown the helm of this ice-armored humanoid figure.

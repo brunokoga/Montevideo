@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/muSpore
+---
 # Mu Spore
 
 Tentacles and eyes cover this floating, fungoid monster, and its vast mouth opens like a toothy cavern.

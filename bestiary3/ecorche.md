@@ -1,3 +1,6 @@
+---
+title: bestiary3/ecorche
+---
 # Ecorche
 
 This brawny creature has had its skin completely flensed from its form, revealing the violent pulsing of its massive, exposed muscles.

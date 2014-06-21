@@ -1,3 +1,6 @@
+---
+title: monsters/gelatinousCube
+---
 # Gelatinous Cube
 
 _Bits of broken weapons, coins, and a partially digested skeleton are visible inside this quivering cube of slime._

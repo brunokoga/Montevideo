@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-summoner
+---
 - [**Acid Splash**](spells/acidSplash.md#_acid-splash)
 - [**Arcane Mark**](spells/arcaneMark.md#_arcane-mark)
 - [**Daze**](spells/daze.md#_daze)

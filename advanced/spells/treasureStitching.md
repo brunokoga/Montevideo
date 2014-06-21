@@ -1,3 +1,6 @@
+---
+title: advanced/spells/treasureStitching
+---
  **Treasure Stitching**
 
 **School** transmutation; **Level** bard 4, cleric 5, sorcerer/wizard 5

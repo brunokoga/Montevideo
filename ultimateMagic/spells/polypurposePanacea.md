@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/polypurposePanacea
+---
 Polypurpose Panacea
 
 **School** transmutation; **Level** alchemist 1, sorcerer/wizard 1

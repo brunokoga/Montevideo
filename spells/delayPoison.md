@@ -1,3 +1,6 @@
+---
+title: spells/delayPoison
+---
  **Delay Poison**
 
 **School** conjuration (healing); **Level** bard 2, cleric 2, druid 2, paladin 2, ranger 1

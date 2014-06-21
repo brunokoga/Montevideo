@@ -1,3 +1,6 @@
+---
+title: spells/shadowWalk
+---
  **Shadow Walk**
 
 **School** illusion (shadow); **Level** bard 5, sorcerer/wizard 6

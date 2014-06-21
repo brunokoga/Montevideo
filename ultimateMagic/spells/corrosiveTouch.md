@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/corrosiveTouch
+---
 Corrosive Touch
 
 **School** conjuration (creation) [acid]; **Level** magus 1, sorcerer/wizard 1, summoner 1

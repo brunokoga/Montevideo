@@ -1,3 +1,6 @@
+---
+title: advanced/spells/painStrike
+---
  **Pain Strike**
 
 **School** evocation [evil]; **Level** sorcerer/wizard 3, witch 3

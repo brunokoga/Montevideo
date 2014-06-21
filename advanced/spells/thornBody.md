@@ -1,3 +1,6 @@
+---
+title: advanced/spells/thornBody
+---
  **Thorn Body**
 
 **School** transmutation; **Level** alchemist 3, druid 4

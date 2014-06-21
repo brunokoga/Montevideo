@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/gar
+---
 # Gar
 
 This long, lean fish has a muscular body and a head with long jaws filled with sharp teeth.

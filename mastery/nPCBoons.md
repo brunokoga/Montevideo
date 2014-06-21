@@ -1,3 +1,6 @@
+---
+title: mastery/nPCBoons
+---
 # NPC Boons
 
 Fantasy literature is filled with examples of characters with wondrous powers who have no interest in being heroes or villains. Sages content to watch events unfold as they will, clerics imbued by the gods with special powers, herbalists with knowledge of special concoctions, all have unique abilities and insights that are theirs alone and, should such characters come to favor friendly adventurers, might use their special influence and abilities to turn the course of entire campaigns. To represent the unique skills and powers of individual NPCs and to grant PCs an occasional rules-related benefit for their interaction with the characters of a campaign's setting, the GM might devise boons to have certain important NPCs grant those PCs they come to favor.

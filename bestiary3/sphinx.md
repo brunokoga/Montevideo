@@ -1,3 +1,6 @@
+---
+title: bestiary3/sphinx
+---
 # Sphinx
 
 The enigmatic sphinxes are closely related, yet diverse in appearance, intellect, and personality. All combine a lion's body, a falcon's wings, and a head of some other species. The most intelligent and powerful of the species sport humanoid heads—either male or female. The two types of humanoid-headed sphinxes are, in fact, separate races, not merely separate genders. These humanoid-headed races are often called androsphinxes and gynosphinxes, terms many sphinxes consider demeaning. Lesser sphinxes have the heads of beasts and are invariably male; the most commonly encountered are the ram-headed criosphinxes and the savage, falcon-headed criosphinxes. Sphinxes deny any common ancestry with other leonine hybrids such as griffins and manticores, let alone celestial beings like lammasus, and find such lines of conversation distasteful.

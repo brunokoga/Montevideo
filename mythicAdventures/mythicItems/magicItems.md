@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicItems/magicItems
+---
 # Magic Items
 
 Though most items associated with mythic characters and monsters are artifacts in their own right, lesser magic items still help mythic creatures with their powers or aid normal creatures in resisting the power of mythic foes.

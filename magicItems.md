@@ -1,3 +1,6 @@
+---
+title: magicItems
+---
 [Armor](magicItems/armor.md) [Weapons](magicItems/weapons.md) [Potions](magicItems/potions.md) [Rings](magicItems/rings.md) [Rods](magicItems/rods.md) [Scrolls](magicItems/scrolls.md) [Staves](magicItems/staves.md) [Wands](magicItems/wands.md) [Wondrous Items](magicItems/wondrousItems.md) [Intelligent Items](magicItems/intelligentItems.md) [Cursed Items](magicItems/cursedItems.md) [Specific Cursed Items](magicItems/specificCursedItems.md) [Artifacts](magicItems/artifacts.md) [Magic Item Creation](magicItems/magicItemCreation.md)
 
 ## Magic Items and Detect Magic

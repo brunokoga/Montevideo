@@ -1,3 +1,6 @@
+---
+title: bestiary3/dragonne
+---
 # Dragonne
 
 This creature has the features of a lion but the wings and scales of a brass dragon, and a wild mane matching its scales.

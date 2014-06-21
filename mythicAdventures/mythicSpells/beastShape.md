@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/beastShape
+---
 Beast Shape (all)
 
 **Source** [_beast shape_](spells/beastShape.md)

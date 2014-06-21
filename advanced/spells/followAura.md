@@ -1,3 +1,6 @@
+---
+title: advanced/spells/followAura
+---
  **Follow Aura**
 
 **School** divination [chaotic, evil, good, or lawful]; **Level** inquisitor 2

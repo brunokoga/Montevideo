@@ -1,3 +1,6 @@
+---
+title: spells/wordOfChaos
+---
  **Word of Chaos**
 
 **School** evocation [chaotic, sonic]; **Level** cleric 7

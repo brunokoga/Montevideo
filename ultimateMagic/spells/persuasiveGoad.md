@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/persuasiveGoad
+---
 Persuasive Goad
 
 **School** necromancy [pain]; **Level** inquisitor 1

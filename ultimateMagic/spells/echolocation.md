@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/echolocation
+---
 Echolocation
 
 **School** transmutation [sonic]; **Level** alchemist 4, bard 4, druid 4, sorcerer/wizard 5

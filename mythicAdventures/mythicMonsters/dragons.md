@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/dragons
+---
 # Dragon, Black
 
 _This sinuous and stinking dragon is covered in black scales, with massive horns curling up from its head. _

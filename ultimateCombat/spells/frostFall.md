@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/frostFall
+---
 Frost Fall
 
 **School** evocation ( [cold](monsters/creatureTypes.md#_cold-subtype)); **Level** druid 2, sorcerer/wizard 2, witch 2

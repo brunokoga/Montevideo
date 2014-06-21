@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/decapus
+---
 # Decapus
 
 This swollen cephalopod has ten writhing tentacles and a hideously monstrous face with pale, milky eyes on its bulbous body.

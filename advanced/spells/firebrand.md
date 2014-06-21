@@ -1,3 +1,6 @@
+---
+title: advanced/spells/firebrand
+---
  **Firebrand**
 
 **School** transmutation [fire]; **Level** sorcerer/wizard 7

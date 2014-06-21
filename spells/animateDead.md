@@ -1,3 +1,6 @@
+---
+title: spells/animateDead
+---
  **Animate Dead**
 
 **School** necromancy [evil]; **Level** cleric 3, sorcerer/wizard 4

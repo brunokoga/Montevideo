@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/interplanetaryTeleport
+---
 Interplanetary Teleport
 
 **School** conjuration (teleportation); **Level** cleric 9, sorcerer/wizard 9

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/gremlin
+---
 # Gremlin
 
 Well known for their mischievous natures, their nasty senses of humor, and their destructive habits, the fey creatures known as gremlins rightfully earn their reputations as cruel pranksters and sadistic saboteurs. Ranging in size from 3 feet in height down to barely over a foot tall, numerous types of gremlins stalk the world's dark and unseen reaches, tending to linger near thin spots in reality between the Material Plane and the realms of the fey. The smaller a gremlin is, the stronger its ties to the realm of the fey remain, and the stranger and more potent its powers.

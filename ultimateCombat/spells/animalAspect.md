@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/animalAspect
+---
 Animal Aspect
 
 **School** transmutation (polymorph); **Level** alchemist 2, magus 2, druid 2, ranger 2, sorcerer/wizard 2

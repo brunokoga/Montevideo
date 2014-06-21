@@ -1,3 +1,6 @@
+---
+title: monsters/svirfneblin
+---
 # Svirfneblin
 
 _This bald gnome has rocky gray skin and a wiry physique. Its pale eyes are overly large and expressive._

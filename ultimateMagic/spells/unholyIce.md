@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/unholyIce
+---
 Unholy Ice
 
 **School** transmutation [cold, evil, water]; **Level** cleric 5

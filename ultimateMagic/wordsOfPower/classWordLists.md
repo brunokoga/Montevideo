@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/classWordLists
+---
 # Class Word Lists
 
 Words marked with an asterisk (\*) are boosted versions of lower level words. A wordcaster only needs to learn the base version of a word in order to be able to cast its boosted versions.

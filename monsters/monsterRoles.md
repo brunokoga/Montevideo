@@ -1,3 +1,6 @@
+---
+title: monsters/monsterRoles
+---
 # Monster Roles
 
 The following lists categorize all of the monsters in this book into their roles, as detailed in [Monster Advancement](monsters/monsterAdvancement.md). These roles indicate what types of character classes are treated as key classes for each monster.

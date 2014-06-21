@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/weatherWords
+---
 ## Weather Words
 
 Words from the weather family control the forces of nature, summoning wind, rain, and snow.

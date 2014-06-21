@@ -1,3 +1,6 @@
+---
+title: bestiary3/atomie
+---
 # Atomie
 
 This miniscule, green-skinned humanoid wields a needle-thin rapier. A pair of dragonfly wings holds the wee creature aloft.

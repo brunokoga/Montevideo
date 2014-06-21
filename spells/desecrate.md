@@ -1,3 +1,6 @@
+---
+title: spells/desecrate
+---
  **Desecrate**
 
 **School** evocation [evil]; **Level** cleric 2

@@ -1,3 +1,6 @@
+---
+title: monsters/tiefling
+---
 # Tiefling
 
 _This lanky man sneers as he draws his sword. Tiny horns and a barbed tail reveal that he is something more than human._

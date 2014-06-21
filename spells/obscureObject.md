@@ -1,3 +1,6 @@
+---
+title: spells/obscureObject
+---
  **Obscure Object**
 
 **School** abjuration; **Level** bard 1, cleric 3, sorcerer/wizard 2

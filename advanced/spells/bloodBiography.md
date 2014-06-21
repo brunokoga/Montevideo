@@ -1,3 +1,6 @@
+---
+title: advanced/spells/bloodBiography
+---
  **Blood Biography**
 
 **School** divination; **Level** bard 2, cleric 3, inquisitor 3, sorcerer/wizard 3

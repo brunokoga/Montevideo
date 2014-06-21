@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/anticipatePeril
+---
 Anticipate Peril
 
 **Source** [_anticipate peril_](ultimateMagic/spells/anticipatePeril.md#_anticipate-peril)

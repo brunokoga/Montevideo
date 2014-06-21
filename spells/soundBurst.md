@@ -1,3 +1,6 @@
+---
+title: spells/soundBurst
+---
  **Sound Burst**
 
 **School** evocation [sonic]; **Level** bard 2, cleric 2

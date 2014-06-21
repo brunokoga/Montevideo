@@ -1,3 +1,6 @@
+---
+title: spells/sanctuary
+---
  **Sanctuary**
 
 **School** abjuration; **Level** cleric 1

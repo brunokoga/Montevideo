@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/hangmanTree
+---
 # Hangman Tree
 
 This sinister tree looms above a field strewn with bones. Numerous leafy vines, their tips looped into nooses, hang from its branches.

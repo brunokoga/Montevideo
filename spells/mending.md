@@ -1,3 +1,6 @@
+---
+title: spells/mending
+---
  **Mending**
 
 **School** transmutation; **Level** bard 0, cleric 0, druid 0, sorcerer/wizard 0

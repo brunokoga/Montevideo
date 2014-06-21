@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/flamesOfTheFaithful
+---
 Flames of the Faithful
 
 **Source** [_flames of the faithful_](advanced/spells/flamesOfTheFaithful.md#_flames-of-the-faithful)

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/spikeStones
+---
 Spike Stones
 
 **Source** [_spike stones_](spells/spikeStones.md#_spike-stones)

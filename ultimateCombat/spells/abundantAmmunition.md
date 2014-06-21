@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/abundantAmmunition
+---
 Abundant Ammunition
 
 **School** conjuration (summoning); **Level** bard 1, cleric 1, ranger 1, sorcerer/wizard 1

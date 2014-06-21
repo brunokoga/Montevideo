@@ -1,3 +1,6 @@
+---
+title: spells/spellstaff
+---
  **Spellstaff**
 
 **School** transmutation; **Level** druid 6

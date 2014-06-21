@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/perniciousPoison
+---
 Pernicious Poison
 
 **School** necromancy [poison]; **Level** antipaladin 2, druid 2, sorcerer/wizard 2, witch 2

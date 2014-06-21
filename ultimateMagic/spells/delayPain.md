@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/delayPain
+---
 Delay Pain
 
 **School** enchantment [emotion]; **Level** bard 2, cleric 2, inquisitor 2, sorcerer/wizard 2, witch 2

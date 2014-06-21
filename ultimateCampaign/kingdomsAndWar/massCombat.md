@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/kingdomsAndWar/massCombat
+---
 # Mass Combat
 
 Sooner or later, even the most peaceable kingdom will find itself faced with the prospect of war. While some kingdoms at odds with your own might be willing to compromise, others are not amenable to negotiation, or respond to overtures of appeasement with ever-increasing aggression. When diplomacy fails, the clash of steel is close behind.

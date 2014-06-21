@@ -1,3 +1,6 @@
+---
+title: monsters/ironCobra
+---
 # Iron Cobra
 
 _This creature resembles a small, metallic cobra. Its body is made of overlapping iron plates, and its eyes are pinpoints of red light._

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/arrowOfLaw
+---
 Arrow of Law
 
 **School** evocation [lawful]; **Level** cleric 2, paladin 2

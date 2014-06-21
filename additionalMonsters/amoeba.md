@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/amoeba
+---
 # Amoeba, Giant
 
 This blob of protoplasm is somewhat transparent, allowing the bones of undigested meals and a dark nucleus to be seen within.

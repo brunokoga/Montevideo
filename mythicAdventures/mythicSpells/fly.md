@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/fly
+---
 Fly
 
 **Source** [_fly_](spells/fly.md)

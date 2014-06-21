@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/denizenOfLeng
+---
 # Denizen of Leng
 
 Shrouded in tattered leather robes, this strange humanoid looks more alien and horrific the more one studies its twitching visage.

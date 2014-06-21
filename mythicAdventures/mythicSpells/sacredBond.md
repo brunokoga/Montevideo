@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/sacredBond
+---
 Sacred Bond
 
 **Source** [_sacred bond_](advanced/spells/sacredBond.md#_sacred-bond)

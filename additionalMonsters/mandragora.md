@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/mandragora
+---
 # Mandragora
 
 This filthy creature resembles a small, wide-mouthed fat child made from leaves, vines, tree bark, dirt, and pallid tubers.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/lendJudgment
+---
 Lend Judgment
 
 **School** divination; **Level** inquisitor 1

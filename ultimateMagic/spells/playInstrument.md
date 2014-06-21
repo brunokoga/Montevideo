@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/playInstrument
+---
 Play Instrument
 
 **School** divination; **Level** bard 1

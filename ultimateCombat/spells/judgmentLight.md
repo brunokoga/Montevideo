@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/judgmentLight
+---
 Judgment Light
 
 **School** evocation [light]; **Level** inquisitor 4

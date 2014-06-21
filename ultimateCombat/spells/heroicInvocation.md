@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/heroicInvocation
+---
 Heroic Invocation
 
 **School** enchantment (compulsion) [mind affecting]; **Level** sorcerer/wizard 9, witch 9

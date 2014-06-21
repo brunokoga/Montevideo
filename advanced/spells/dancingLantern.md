@@ -1,3 +1,6 @@
+---
+title: advanced/spells/dancingLantern
+---
  **Dancing Lantern**
 
 **School** transmutation [fire, light]; **Level** bard 1, cleric 1, ranger 1, sorcerer/wizard 1, witch 1

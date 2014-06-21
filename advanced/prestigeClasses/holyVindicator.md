@@ -1,3 +1,6 @@
+---
+title: advanced/prestigeClasses/holyVindicator
+---
 # Holy Vindicator
 
 Many faiths have within their membership an order of the church militant, be they holy knights or dark warriors, who put their lives and immortal souls on the line for their faith. They are paragons of battle, eschewing sermons for steel. These men and women are living conduits of divine power, down to their very blood, which they happily shed in a moment if it brings greater glory to their deity or judgment upon heretics, infidels, and all enemies of the faith.

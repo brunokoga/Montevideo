@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/fleshToStone
+---
 Flesh to Stone
 
 **Source** [_flesh to stone_](spells/fleshToStone.md#_flesh-to-stone)

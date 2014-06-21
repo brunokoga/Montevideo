@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/alignment
+---
 # Alignment
 
 Alignment is a curious creature; it summarizes the philosophy and morality of a person, and yet no two characters with the same alignment are exactly alike. Still, alignment says much about a character's soul and the way she interacts with others.

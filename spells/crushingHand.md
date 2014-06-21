@@ -1,3 +1,6 @@
+---
+title: spells/crushingHand
+---
  **Crushing Hand**
 
 **School** evocation [force]; **Level** sorcerer/wizard 9

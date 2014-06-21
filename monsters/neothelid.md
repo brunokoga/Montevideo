@@ -1,3 +1,6 @@
+---
+title: monsters/neothelid
+---
 # Neothelid
 
 _Its slime-drenched length coiled upon itself in a shuddering mountain, this huge worm's tentacled head rises like a snake's._

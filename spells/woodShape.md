@@ -1,3 +1,6 @@
+---
+title: spells/woodShape
+---
  **Wood Shape**
 
 **School** transmutation; **Level** druid 2

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/metaWords
+---
 # Meta Words
 
 These words specifically modify other word elements. Meta words use the following format.

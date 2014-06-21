@@ -1,3 +1,6 @@
+---
+title: spells/blight
+---
  **Blight**
 
 **School** necromancy; **Level** druid 4, sorcerer/wizard 5

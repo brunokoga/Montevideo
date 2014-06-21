@@ -1,3 +1,6 @@
+---
+title: spells/animalTrance
+---
  **Animal Trance**
 
 **School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 2, druid 2

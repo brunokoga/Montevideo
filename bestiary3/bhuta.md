@@ -1,3 +1,6 @@
+---
+title: bestiary3/bhuta
+---
 # Bhuta
 
 This ghostly apparition floats in the air on backward-facing feet. Its hands end in sharp talons, and its eyes glow with blue fire.

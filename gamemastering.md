@@ -1,3 +1,6 @@
+---
+title: gamemastering
+---
 # Designing Encounters
 
 The heart of any adventure is its encounters. An encounter is any event that puts a specific problem before the PCs that they must solve. Most encounters present combat with monsters or hostile NPCs, but there are many other types—a trapped corridor, a political interaction with a suspicious king, a dangerous passage over a rickety rope bridge, an awkward argument with a friendly NPC who suspects a PC has betrayed him, or anything that adds drama to the game. Brain-teasing puzzles, roleplaying challenges, and skill checks are all classic methods for resolving encounters, but the most complex encounters to build are the most common ones—combat encounters.

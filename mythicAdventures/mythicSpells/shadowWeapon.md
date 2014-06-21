@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/shadowWeapon
+---
 Shadow Weapon
 
 **Source** [_shadow weapon_](ultimateMagic/spells/shadowWeapon.md#_shadow-weapon)

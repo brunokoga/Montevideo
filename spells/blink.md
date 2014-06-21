@@ -1,3 +1,6 @@
+---
+title: spells/blink
+---
  **Blink**
 
 **School** transmutation; **Level** bard 3, sorcerer/wizard 3

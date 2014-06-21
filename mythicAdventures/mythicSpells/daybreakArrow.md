@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/daybreakArrow
+---
 Daybreak Arrow
 
 **Source** [_daybreak arrow_](ultimateCombat/spells/daybreakArrow.md#_daybreak-arrow)

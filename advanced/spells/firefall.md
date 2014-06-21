@@ -1,3 +1,6 @@
+---
+title: advanced/spells/firefall
+---
  **Firefall**
 
 **School** transmutation [fire]; **Level** sorcerer/wizard 4

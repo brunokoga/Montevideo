@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/rapidRepair
+---
 Rapid Repair
 
 **School** transmutation; **Level** cleric 5, sorcerer/wizard 5

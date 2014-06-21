@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/belker
+---
 # Belker
 
 Dull, red eyes, grasping claws, and leathery wings give a demonic aspect to this creature's smoky form.

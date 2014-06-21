@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters
+---
 # Mythic Monsters
 
 Just as mythic heroes can call upon power beyond reckoning, mythic monsters are greater than others of their kind. Some are empowered by deities or great magic and sent into the world to sow ruin and reap destruction. Others are instead relics of a bygone age when the power of creation itself flowed through the veins of every living being. Though not necessarily malevolent, these ancient creatures are a force to be respected and feared.

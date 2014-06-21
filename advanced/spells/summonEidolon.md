@@ -1,3 +1,6 @@
+---
+title: advanced/spells/summonEidolon
+---
  **Summon Eidolon**
 
 **School** conjuration (summoning); **Level** summoner 2

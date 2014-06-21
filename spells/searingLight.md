@@ -1,3 +1,6 @@
+---
+title: spells/searingLight
+---
  **Searing Light**
 
 **School** evocation; **Level** cleric 3

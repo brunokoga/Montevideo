@@ -1,3 +1,6 @@
+---
+title: advanced/spells/napStack
+---
  **Nap Stack**
 
 **School** necromancy; **Level** cleric 3

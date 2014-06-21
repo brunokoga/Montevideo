@@ -1,3 +1,6 @@
+---
+title: skills/disableDevice
+---
 # Disable Device
 
 ## ( [Dex](../gettingStarted.md#_dexterity); Armor Check Penalty; Trained Only)

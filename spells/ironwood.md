@@ -1,3 +1,6 @@
+---
+title: spells/ironwood
+---
  **Ironwood**
 
 **School** transmutation; **Level** druid 6

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/breathOfLife
+---
 Breath of Life
 
 **Source** [_breath of life_](spells/breathOfLife.md#_breath-of-life)

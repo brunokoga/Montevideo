@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/charda
+---
 # Charda
 
 Armored in dense, bony plates, this four-armed creature drools wretched strings of black bile from its fanged maw.

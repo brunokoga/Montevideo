@@ -1,3 +1,6 @@
+---
+title: spells/sending
+---
  **Sending**
 
 **School** evocation; **Level** cleric 4, sorcerer/wizard 5

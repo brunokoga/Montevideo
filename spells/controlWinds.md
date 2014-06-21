@@ -1,3 +1,6 @@
+---
+title: spells/controlWinds
+---
  **Control Winds**
 
 **School** transmutation [air]; **Level** druid 5

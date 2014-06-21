@@ -1,3 +1,6 @@
+---
+title: spells/flameBlade
+---
  **Flame Blade**
 
 **School** evocation [fire]; **Level** druid 2

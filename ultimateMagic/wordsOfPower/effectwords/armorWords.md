@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/armorWords
+---
 ## Armor Words
 
 These words create translucent armor made of solid magic, protecting without weight or obstruction.

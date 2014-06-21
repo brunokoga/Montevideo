@@ -1,3 +1,6 @@
+---
+title: spells/arcaneMark
+---
  **Arcane Mark**
 
 **School** universal; **Level** sorcerer/wizard 0

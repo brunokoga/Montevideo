@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/ricochetShot
+---
 Ricochet Shot
 
 **Source** [_ricochet shot_](ultimateCombat/spells/ricochetShot.md#_ricochet-shot)

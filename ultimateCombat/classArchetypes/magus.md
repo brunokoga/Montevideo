@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/magus
+---
 # Magus
 
 A master of arcane magic fused with more conventional weapon attacks, the magus typically seeks balance in both approaches. Many of the archetypes and new magus arcana presented in this section supplement those magi who favor their feats of arms over raw spellcasting power. More so than other magi, these combat-oriented arcanists use their magical arts to empower their weapon attacks and defenses.

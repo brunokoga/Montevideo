@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/wordOfChaos
+---
 Word of Chaos
 
 **Source** [_word of chaos_](spells/wordOfChaos.md#_word-of-chaos)

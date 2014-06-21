@@ -1,3 +1,6 @@
+---
+title: mastery/sanityAndMadness
+---
 # Sanity and Madness
 
 Insanity is an affliction inflicted upon those who suffer from extraordinary physical, mental, or spiritual anguishes and trials. Insanity can also be caused by exposure to particularly potent sources of unhinging horror, madness, or alien natures, such that the mind simply cannot withstand them. Insanity is a mind-affecting effect.

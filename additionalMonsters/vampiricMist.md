@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/vampiricMist
+---
 # Vampiric Mist
 
 A cloud of crimson vapor reeking of fresh blood hangs in the air, reaching out with lashing claws.

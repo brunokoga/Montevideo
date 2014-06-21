@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/bard
+---
 # Bards
 
 Tavern Singer CR 1/2

@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/retraining
+---
 # Retraining
 
 If you are unsatisfied with a feat, skill, archetype, or class ability you chose, you may spend time in intense training to trade the old ability for a new one. Though it is time-consuming and expensive, this allows you to alter aspects of your character without extreme magic or a traumatic event.

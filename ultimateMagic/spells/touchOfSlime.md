@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/touchOfSlime
+---
 Touch of Slime
 
 **School** conjuration (creation) [disease]; **Level** alchemist 4, druid 4, sorcerer/wizard 4, witch 4

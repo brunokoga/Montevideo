@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/reefclaw
+---
 # Reefclaw
 
 Blood-red spines run the length of this frightening creature, which resembles a lobster in the front and an eel in the back.

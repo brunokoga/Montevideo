@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/leucrotta
+---
 # Leucrotta
 
 This freakish beast has the head of a badger, the hooves of a stag, and a wide mouth with sharp ridges of bone instead of teeth.

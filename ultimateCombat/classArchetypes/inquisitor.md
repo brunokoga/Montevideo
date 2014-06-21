@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/inquisitor
+---
 # Inquisitor
 
 Some inquisitors believe that arcane magic is the enemy of faith. Though most of these inquisitors realize that arcane magic is a power that can never be truly stopped, they focus their abilities toward disrupting and destroying arcane practitioners who threaten the faith.

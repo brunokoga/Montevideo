@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/witchfire
+---
 # Witchfire
 
 Bathed in sickly green flames, this insubstantial specter of a beautiful young woman floats just off the ground.

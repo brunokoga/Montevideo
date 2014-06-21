@@ -1,3 +1,6 @@
+---
+title: spells/detectPoison
+---
  **Detect Poison**
 
 **School** divination; **Level** cleric 0, druid 0, paladin 1, ranger 1, sorcerer/wizard 0

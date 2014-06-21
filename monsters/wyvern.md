@@ -1,3 +1,6 @@
+---
+title: monsters/wyvern
+---
 # Wyvern
 
 _A dark blue dragon, its wings immense and its tail tipped with a hooked stinger, lands on two taloned feet and roars a challenge._

@@ -1,3 +1,6 @@
+---
+title: skills/handleAnimal
+---
 # Handle Animal
 
 ## ( [Cha](../gettingStarted.md#_charisma-new); Trained Only)

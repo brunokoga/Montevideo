@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/cavalier
+---
 # Cavalier
 
 Heavily armored and well armed, sitting astride a powerful charger, the cavalier is a battlefield marshal, capable of both directing troops and crashing into combat himself to disrupt the stratagems of his enemies. Not merely interested in battle for its own sake, the cavalier fights for a cause, whether it be to defend honor, serve his lord, uphold an ideal or intellectual principle, or protect something hidden and secret.

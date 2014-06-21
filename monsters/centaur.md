@@ -1,3 +1,6 @@
+---
+title: monsters/centaur
+---
 # Centaur
 
 _This creature has the sun-bronzed upper body of a seasoned warrior and the lower body of a sleek warhorse._

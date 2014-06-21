@@ -1,3 +1,6 @@
+---
+title: advanced/spells/gallantInspiration
+---
  **Gallant Inspiration**
 
 **School** divination; **Level** bard 2

@@ -1,3 +1,6 @@
+---
+title: spells/airWalk
+---
  **Air Walk**
 
 **School** transmutation [air]; **Level** cleric 4, druid 4

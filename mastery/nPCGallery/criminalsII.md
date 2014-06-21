@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/criminalsII
+---
 # Criminals II
 
 The artists and masterminds of all manner of illicit ventures, these criminals make a career of their lawless trades, flaunting the law and gambling with the lives of others for their own gain. While not always outright evil, such characters prove more concerned with themselves than any matter of morality or legality, and they possess the cunning, force of will, or foresight to either dupe or avoid agents of the law. Typically groups of less organized or skilled criminals serve these kingpins, though in some cases, true masters of the illicit arts prefer to work alone.

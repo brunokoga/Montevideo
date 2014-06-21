@@ -1,3 +1,6 @@
+---
+title: spells/dispelChaos
+---
  **Dispel Chaos**
 
 **School** abjuration [lawful]; **Level** cleric 5, paladin 4

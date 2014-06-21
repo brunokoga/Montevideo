@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/contagion
+---
 Contagion
 
 **Source** [_contagion_](spells/contagion.md#_contagion)

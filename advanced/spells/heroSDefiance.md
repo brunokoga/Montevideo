@@ -1,3 +1,6 @@
+---
+title: advanced/spells/heroSDefiance
+---
  **Hero's Defiance**
 
 **School** conjuration (healing); **Level** paladin 1

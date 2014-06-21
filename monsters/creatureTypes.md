@@ -1,3 +1,6 @@
+---
+title: monsters/creatureTypes
+---
 # Creature Types
 
 Each creature has one type, which broadly defines its abilities. Some creatures also have one or more subtypes. A creature cannot violate the rules of its subtype without a special ability or quality to explain the difference—templates can often change a creature's type drastically.

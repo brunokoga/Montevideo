@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/summonMinorMonster
+---
 Summon Minor Monster
 
 **School** conjuration (summoning); **Level** antipaladin 1, bard 1, cleric 1, sorcerer/wizard 1, summoner 1, witch 1

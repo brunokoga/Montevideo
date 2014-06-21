@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/ogre
+---
 # Ogre
 
 _This immense, muscular giant wears heavy scale mail and wields a club adorned with a giant claw. _

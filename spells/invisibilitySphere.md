@@ -1,3 +1,6 @@
+---
+title: spells/invisibilitySphere
+---
  **Invisibility Sphere**
 
 **School** illusion (glamer); **Level** bard 3, sorcerer/wizard 3

@@ -1,3 +1,6 @@
+---
+title: monsters/animalCompanions
+---
 # Animal Companions
 
 Druids and rangers have a wide selection of animal companion choices, but this selection by no means covers the entirety of animals available as companions. Numerous additional animals are presented in this list, and in each case, rules for using them as companions are included.

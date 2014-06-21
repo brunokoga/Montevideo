@@ -1,3 +1,6 @@
+---
+title: bestiary3/dybbuk
+---
 # Dybbuk
 
 This grinning spectre has mad eyes and blood-red hands that twitch and jerk like a puppeteer's.

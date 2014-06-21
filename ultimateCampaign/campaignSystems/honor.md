@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/honor
+---
 # Honor
 
 Beyond life and death, beyond good and evil, there is honor. It is the abode of the eternal, which none can take but which can be destroyed through a single rash act. It is a measure of one's place within a society, a status known to all and sought by many. Whether in a samurai culture, the frozen viking wastes of the northlands, or the dizzying court intrigues of a byzantine kingdom, honor provides an anchor and stable foundations for your life's work. If you lack honor, others view you as faithless, untrustworthy, disloyal, and unfair. Honor influences reputation, status, and legend, but transcends them all.

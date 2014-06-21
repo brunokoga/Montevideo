@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/bleedGlory
+---
 Bleed Glory
 
 **School** necromancy [curse]; **Level** cleric 3, sorcerer/wizard 3, witch 3

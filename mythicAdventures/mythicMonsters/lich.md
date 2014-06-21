@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/lich
+---
 # Lich
 
 _This armored undead human wields a heavy mace and wears the trappings of a devil-worshiper._

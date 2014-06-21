@@ -1,3 +1,6 @@
+---
+title: spells/spectralHand
+---
  **Spectral Hand**
 
 **School** necromancy; **Level** sorcerer/wizard 2

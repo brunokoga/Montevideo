@@ -1,3 +1,6 @@
+---
+title: monsters/skeletalChampion
+---
 # Skeletal Champion
 
 _This armored skeleton stands in a battle-ready pose, its weapon held high as cold blue light shines in its eye sockets._

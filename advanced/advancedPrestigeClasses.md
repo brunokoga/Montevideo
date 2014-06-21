@@ -1,3 +1,6 @@
+---
+title: advanced/advancedPrestigeClasses
+---
 # Prestige Classes 
 
 Prestige classes represent specializations not available to most adventurers, the culmination of extensive practice in a specific field or discipline. The eight prestige classes here supplement those found in Chapter 11 of the _Core Rulebook_. Always check with your GM to make sure a given prestige class is allowed before working toward it. The prestige classes presented in this chapter include the following.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/magic/designingSpells
+---
 # Designing Spells
 
 Designing spells for the Pathfinder Roleplaying Game is a complex task that is part art, part science. This section describes what you need to think about when designing balanced, playable spells for your campaign.

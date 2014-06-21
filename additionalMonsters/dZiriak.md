@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/dZiriak
+---
 # D'ziriak 
 
 This four-armed creature looks like a cross between a human and a black and ochre termite. Its body and arms display glowing runes.

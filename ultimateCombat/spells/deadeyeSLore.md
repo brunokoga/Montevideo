@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/deadeyeSLore
+---
 Deadeye's Lore
 
 **School** divination; **Level** bard 1, cleric 1, druid 1, inquisitor 1, ranger 1

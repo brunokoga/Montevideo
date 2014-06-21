@@ -1,3 +1,6 @@
+---
+title: spells/locateObject
+---
  **Locate Object**
 
 **School** divination; **Level** bard 2, cleric 3, sorcerer/wizard 2

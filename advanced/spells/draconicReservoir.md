@@ -1,3 +1,6 @@
+---
+title: advanced/spells/draconicReservoir
+---
  **Draconic Reservoir**
 
 **School** evocation [acid, cold, electricity, or fire]; **Level** alchemist 3, sorcerer/wizard 3

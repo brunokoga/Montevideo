@@ -1,3 +1,6 @@
+---
+title: advanced/spells/oracleSBurden
+---
  **Oracle's Burden**
 
 **School** necromancy; **Level** oracle 2

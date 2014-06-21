@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/aboleth
+---
 # Aboleth
 
 _A foul mist surrounds this huge, three-eyed, tentacled fish creature, and plates of hardened slime guard its body._

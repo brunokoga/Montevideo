@@ -1,3 +1,6 @@
+---
+title: spells/glibness
+---
  **Glibness**
 
 **School** transmutation; **Level** bard 3

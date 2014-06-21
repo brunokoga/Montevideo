@@ -1,3 +1,6 @@
+---
+title: advanced/spells/divineVessel
+---
  **Divine Vessel**
 
 **School** transmutation [chaotic, evil, good, or lawful]; **Level** oracle 8

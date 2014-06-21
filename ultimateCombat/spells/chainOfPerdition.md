@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/chainOfPerdition
+---
 Chain of Perdition
 
 **School** evocation [force]; **Level** cleric 3, sorcerer/wizard 3

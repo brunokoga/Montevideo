@@ -1,3 +1,6 @@
+---
+title: advanced/spells/vomitSwarm
+---
  **Vomit Swarm**
 
 **School** conjuration (summoning); **Level** alchemist 2, witch 2

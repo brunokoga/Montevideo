@@ -1,3 +1,6 @@
+---
+title: advanced/spells/honeyedTongue
+---
  **Honeyed Tongue**
 
 **School** transmutation; **Level** bard 2, inquisitor 2, paladin 1

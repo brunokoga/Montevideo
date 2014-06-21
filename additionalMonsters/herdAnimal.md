@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/herdAnimal
+---
 # Herd Animal, Camel 
 
 This somewhat irritated-looking, one-humped camel has been outfitted with a bridle and saddle.

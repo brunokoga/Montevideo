@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/bless
+---
 Bless
 
 **Source** [_bless_](spells/bless.md#_bless)

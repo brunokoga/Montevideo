@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/foresight
+---
 Foresight
 
 **Source** [_foresight_](spells/foresight.md#_foresight)

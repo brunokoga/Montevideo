@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/shadowWeapon
+---
 Shadow Weapon
 
 **School** illusion (shadow) [shadow]; **Level** sorcerer/wizard 1, witch 1

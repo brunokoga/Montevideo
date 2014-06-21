@@ -1,3 +1,6 @@
+---
+title: advanced/spells/poxPustules
+---
  **Pox Pustules**
 
 **School** necromancy; **Level** druid 2, witch 2

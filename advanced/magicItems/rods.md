@@ -1,3 +1,6 @@
+---
+title: advanced/magicItems/rods
+---
 # Rods
 
 [Table: Rods]

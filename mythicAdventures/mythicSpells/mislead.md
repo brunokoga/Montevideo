@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/mislead
+---
 Mislead
 
 **Source** [_mislead_](spells/mislead.md#_mislead)

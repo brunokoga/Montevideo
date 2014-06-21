@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/daemon
+---
 # Daemon
 
 Harbingers of ruin and embodiments of the worst ways to die, daemons epitomize painful death, the all-consuming hunger of evil, and the utter annihilation of life. While demons seek to pervert and destroy in endless unholy rampages, and devils vex and enslave in hopes of corrupting mortals, daemons seek only to consume mortal life itself. While some use brute force to despoil life or prey upon vulnerable souls, others wage campaigns of deceit to draw whole realms into ruin. With each life claimed and each atrocity meted out, daemons spread fear, mistrust, and despair, tarnishing the luster of existence and drawing the planes ever closer to their final, ultimate ruin.

@@ -1,3 +1,6 @@
+---
+title: spells/bless
+---
  **Bless**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 1, paladin 1

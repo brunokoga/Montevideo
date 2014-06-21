@@ -1,3 +1,6 @@
+---
+title: spells/passwall
+---
  **Passwall**
 
 **School** transmutation; **Level** sorcerer/wizard 5

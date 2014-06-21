@@ -1,3 +1,6 @@
+---
+title: advanced/spells/glide
+---
  **Glide**
 
 **School** transmutation; **Level** druid 2, ranger 1, sorcerer/wizard 2, summoner 2, witch 2

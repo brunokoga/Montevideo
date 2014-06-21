@@ -1,3 +1,6 @@
+---
+title: spells/programmedImage
+---
  **Programmed Image**
 
 **School** illusion (figment); **Level** bard 6, sorcerer/wizard 6

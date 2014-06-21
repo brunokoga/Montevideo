@@ -1,3 +1,6 @@
+---
+title: bestiary3/kirin
+---
 # Kirin
 
 With draconic scales covering much of its body, this staglike creature moves with awe-inspiring grace.

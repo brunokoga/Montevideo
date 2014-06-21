@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/characterBackground/backgroundGenerator
+---
 # Background Generator
 
 The background generator is intended to remove the creative pressure that can sometimes frustrate players as they try to flesh out the murky details of their characters' backgrounds. This generator provides these details with either a simple roll of the die or the players deliberately selecting from options on the furnished tables and lists. Think of each element on the background generator's tables as a piece of story material that you can link together with other random pieces to create a story you otherwise might now have imagined. Use this tool to inspire creativity rather than as hard-and-fast rules to mandate rigid and seamless character backgrounds. Though the generator provides many foundational details of a character's background, it takes some creative thought to massage the specifics together. As you use the generator, feel free at any point to reject or reroll contradictory elements or ones that go against your vision of the emerging character. Like the background questions presented earlier in this chapter, the ideas on these tables are simply suggestions designed to channel and focus your imagination.

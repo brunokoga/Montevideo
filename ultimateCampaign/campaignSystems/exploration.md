@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/exploration
+---
 # Exploration
 
 Exploration is the epitome of adventuring. An explorer strikes out into the uncharted wild to pursue fortune and glory, facing off against a world of unknown perils that can strike at any time. Beyond the protection of civilization, death can come at the hands of bandit attacks, encounters with feral beasts, and the uncaring whims of the environment. For those brave enough, exploration offers its own kind of reward: the ability to look back on the long road traveled, to recount the many obstacles that were struggled through, and to mark the discoveries made along the way as yours. The summit of every mountain climbed and the length of every trail forged is a victory for the traveler—a chance to look at the world she is conquering.

@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/slotless
+---
 # Slotless Wondrous Items
 
 These wondrous items do not adhere to a specific slot, and are often carried by a character in a way similar to a potion or wand, worn on some part of the body that doesn't correspond to an item slot, or are otherwise utilized in a particular way detailed in the item's description. Slotless wondrous items range through the gamut of appearances and functions, and, generally, if a magic item doesn't fit into any other category it appears here.

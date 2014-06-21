@@ -1,3 +1,6 @@
+---
+title: advanced/spells/corruptionResistance
+---
  **Corruption Resistance**
 
 **School** abjuration [chaotic, evil, good, or lawful]; **Level** antipaladin 2, inquisitor 2, paladin 2

@@ -1,3 +1,6 @@
+---
+title: spells/beastShape
+---
  **Beast Shape I**
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 3

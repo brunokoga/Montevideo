@@ -1,3 +1,6 @@
+---
+title: bestiary3/tojanida
+---
 # Tojanida
 
 This creature resembles a cross between a turtle and a crab, with flippers instead of legs, a snapping beak, and two pincers.

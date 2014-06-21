@@ -1,3 +1,6 @@
+---
+title: bestiary3/behemoth
+---
 # Behemoth
 
 Immense, ageless, and very nearly invincible, behemoths deliver divine retribution to the mortal realms. Shaped from the primal energies of creation and infused with elemental might, behemoths resemble living creatures, but lack the frailties of flesh. Marginally more intelligent than the smartest animal, behemoths can understand Aklo but cannot speak. Nothing less than a god or the most potent of legendary artifacts can command a behemoth, and even the gods feel some trepidation at unleashing one, lest the behemoth cast off its reins and turn its wrath against its maker.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/sending
+---
 Sending
 
 **Source** [_sending_](spells/sending.md#_sending)

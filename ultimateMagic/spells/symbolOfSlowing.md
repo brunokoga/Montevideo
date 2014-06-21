@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/symbolOfSlowing
+---
 Symbol of Slowing
 
 **School** transmutation; **Level** cleric 4, sorcerer/wizard 4, witch 4

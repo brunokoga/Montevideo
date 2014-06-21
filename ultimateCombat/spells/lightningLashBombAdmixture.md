@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/lightningLashBombAdmixture
+---
 Lightning Lash Bomb Admixture
 
 **School** evocation [electricity]; **Level** alchemist 3

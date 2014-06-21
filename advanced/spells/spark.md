@@ -1,3 +1,6 @@
+---
+title: advanced/spells/spark
+---
  **Spark**
 
 **School** evocation [fire]; **Level** bard 0, cleric 0, druid 0, sorcerer/wizard 0, witch 0

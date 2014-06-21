@@ -1,3 +1,6 @@
+---
+title: spells/bleed
+---
  **Bleed**
 
 **School** necromancy; **Level** cleric 0, sorcerer/wizard 0

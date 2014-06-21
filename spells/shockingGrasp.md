@@ -1,3 +1,6 @@
+---
+title: spells/shockingGrasp
+---
  **Shocking Grasp**
 
 **School** evocation [electricity]; **Level** sorcerer/wizard 1

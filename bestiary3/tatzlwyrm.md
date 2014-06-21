@@ -1,3 +1,6 @@
+---
+title: bestiary3/tatzlwyrm
+---
 # Tatzlwyrm
 
 This serpentine creature has the head of a ferocious dragon and two relatively small forearms that end in tiny claws.

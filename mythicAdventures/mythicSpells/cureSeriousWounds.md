@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/cureSeriousWounds
+---
 Cure Serious Wounds
 
 **Source** [_cure serious wounds_](spells/cureSeriousWounds.md#_cure-serious-wounds)

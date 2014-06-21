@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/dimensionDoor
+---
 Dimension Door
 
 **Source** [_dimension door_](spells/dimensionDoor.md#_dimension-door)

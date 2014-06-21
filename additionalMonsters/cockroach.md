@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/cockroach
+---
 # Cockroach, Giant
 
 A dog-sized cockroach skitters forth, greedily clicking its filth-slicked mandibles.

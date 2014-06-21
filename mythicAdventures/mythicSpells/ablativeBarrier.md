@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/ablativeBarrier
+---
 s
 
 Ablative Barrier

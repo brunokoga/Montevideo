@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectWords
+---
 # Effect Words
 
 Effect words determine the overall outcome of a wordspell. A wordspell can contain more than one effect word, and it is possible for their effects to counteract one another. Effect words use the following format.

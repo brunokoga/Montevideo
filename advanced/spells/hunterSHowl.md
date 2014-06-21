@@ -1,3 +1,6 @@
+---
+title: advanced/spells/hunterSHowl
+---
  **Hunter's Howl**
 
 **School** necromancy [fear, mind-affecting]; **Level** ranger 1

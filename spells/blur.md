@@ -1,3 +1,6 @@
+---
+title: spells/blur
+---
  **Blur**
 
 **School** illusion (glamer); **Level** bard 2, sorcerer/wizard 2

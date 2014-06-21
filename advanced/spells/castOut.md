@@ -1,3 +1,6 @@
+---
+title: advanced/spells/castOut
+---
  **Cast Out**
 
 **School** abjuration; **Level** inquisitor 3

@@ -1,3 +1,6 @@
+---
+title: bestiary3/taotieh
+---
 # Taotieh
 
 This white marble statue resembles a large feline, but its body and face are covered in decorative etchings and runes.

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/vemerak
+---
 # Vemerak
 
 This huge monstrosity seems like some alien, clawed insect, with vaguely humanoid features and three tentacular tails.

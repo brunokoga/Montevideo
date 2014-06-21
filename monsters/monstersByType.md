@@ -1,3 +1,6 @@
+---
+title: monsters/monstersByType
+---
 # Monsters by Type
 
 Listed below are all of the monsters in this book, organized alphabetically by type.

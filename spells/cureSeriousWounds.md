@@ -1,3 +1,6 @@
+---
+title: spells/cureSeriousWounds
+---
  **Cure Serious Wounds**
 
 **School** conjuration (healing); **Level** bard 3, cleric 3, druid 4, paladin 4, ranger 4

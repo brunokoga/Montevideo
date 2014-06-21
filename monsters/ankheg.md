@@ -1,3 +1,6 @@
+---
+title: monsters/ankheg
+---
 # Ankheg
 
 _This burrowing, bug-like monster scuttles about on six legs, drooling noxious green ichor from its clacking mandibles. _

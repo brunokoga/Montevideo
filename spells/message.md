@@ -1,3 +1,6 @@
+---
+title: spells/message
+---
  **Message**
 
 **School** transmutation [language-dependent]; **Level** bard 0, sorcerer/wizard 0

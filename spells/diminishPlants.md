@@ -1,3 +1,6 @@
+---
+title: spells/diminishPlants
+---
  **Diminish Plants**
 
 **School** transmutation; **Level** druid 3, ranger 3

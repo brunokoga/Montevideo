@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/savingFinale
+---
 Saving Finale
 
 **Source** [_saving finale_](advanced/spells/savingFinale.md#_saving-finale)

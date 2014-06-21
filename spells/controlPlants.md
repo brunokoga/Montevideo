@@ -1,3 +1,6 @@
+---
+title: spells/controlPlants
+---
  **Control Plants**
 
 **School** transmutation; **Level** druid 8

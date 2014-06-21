@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/barkskin
+---
 Barkskin
 
 **Source** [_barkskin_](spells/barkskin.md#_barkskin)

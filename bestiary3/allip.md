@@ -1,3 +1,6 @@
+---
+title: bestiary3/allip
+---
 # Allip
 
 This malignant cloud of shadows boils in the air, its skeletal maw eerily babbling as the creature's claws manifest from the darkness.

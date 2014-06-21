@@ -1,3 +1,6 @@
+---
+title: spells/createFoodAndWater
+---
  **Create Food and Water**
 
 **School** conjuration (creation); **Level** cleric 3

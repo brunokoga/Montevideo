@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/modifyMemory
+---
 Modify Memory
 
 **Source** [_modify memory_](spells/modifyMemory.md#_modify-memory)

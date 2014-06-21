@@ -1,3 +1,6 @@
+---
+title: monsters/merfolk
+---
 # Merfolk
 
 _Slipping in and out of the crashing waves, this beautiful woman has the lower torso of a long, slender fish._

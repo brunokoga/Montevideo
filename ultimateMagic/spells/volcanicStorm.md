@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/volcanicStorm
+---
 Volcanic Storm
 
 **School** evocation [fire]; **Level** druid 4, sorcerer/wizard 4, witch 4

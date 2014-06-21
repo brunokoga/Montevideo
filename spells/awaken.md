@@ -1,3 +1,6 @@
+---
+title: spells/awaken
+---
  **Awaken**
 
 **School** transmutation; **Level** druid 5

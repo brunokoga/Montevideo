@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/tribe
+---
 # Tribe
 
 In the wildest reaches of dark jungles, hidden mountains, vast plains, frigid tundra, or innumerable other wild expanses live people with ways uninfluenced by civilized lands. Wary of intruders and defensive of their ancient traditions, tribal folk adhere to beliefs mysterious to outsiders and understand secrets of their lands beyond the savviest intruder. More than barbarians, such people are lords, servants, and kindred of their environments, and demand the respect of all who would trod upon their lands.

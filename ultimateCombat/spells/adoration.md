@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/adoration
+---
 Adoration
 
 **School** transmutation; **Level** bard 1, sorcerer/wizard 2, witch 2

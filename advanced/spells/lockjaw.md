@@ -1,3 +1,6 @@
+---
+title: advanced/spells/lockjaw
+---
  **Lockjaw**
 
 **School** transmutation; **Level** druid 2, ranger 2

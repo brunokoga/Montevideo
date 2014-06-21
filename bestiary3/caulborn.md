@@ -1,3 +1,6 @@
+---
+title: bestiary3/caulborn
+---
 # Caulborn
 
 This creature has a split-jawed mouth, a hoodlike growth on its head, and two hideously elongated fingers on each hand.

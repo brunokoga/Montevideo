@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/madHallucination
+---
 Mad Hallucination
 
 **School** illusion (phantasm); **Level** bard 2, sorcerer/wizard 2, witch 2

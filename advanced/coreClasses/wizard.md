@@ -1,3 +1,6 @@
+---
+title: advanced/coreClasses/wizard
+---
 # Wizard
 
 Bending reality to their will through careful study, wizards are the embodiment of the phrase “mind over matter,” changing whole worlds with nothing but their keen intellects and ancient lore. In their quest to unravel and repurpose the fundamental laws of existence, many wizards come to appreciate the benefits of narrowly focusing their study. Presented below are several new schools of magic to help you customize your wizard's arcane pursuits.

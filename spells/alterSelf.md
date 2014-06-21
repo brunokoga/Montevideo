@@ -1,3 +1,6 @@
+---
+title: spells/alterSelf
+---
  **Alter Self**
 
 **School** transmutation (polymorph); **Level** bard 2, sorcerer/wizard 2

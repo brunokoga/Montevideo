@@ -1,3 +1,6 @@
+---
+title: spells/levitate
+---
  **Levitate**
 
 **School** transmutation; **Level** sorcerer/wizard 2

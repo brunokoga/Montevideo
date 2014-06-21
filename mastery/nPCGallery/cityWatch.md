@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/cityWatch
+---
 # City Watch
 
 Whether a lone constable minding a sleepy burg or officers of a highly trained force in a vast metropolis, members of the city watch patrol their beats, staving off the criminal elements and keeping innocents safe from harm. The best-organized city watches employ members with a variety of skills, from expert combatants to spell-casters, and often organize them in ranks similar to military orders. Yet as often as guards serve as welcome allies, crooked watchmen abound, and even the best only serve those who prove they're on the right side of the law.

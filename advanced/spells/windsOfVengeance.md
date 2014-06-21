@@ -1,3 +1,6 @@
+---
+title: advanced/spells/windsOfVengeance
+---
  **Winds of Vengeance**
 
 **School** evocation [air]; **Level** cleric 9, druid 9, sorcerer/wizard 9

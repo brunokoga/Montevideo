@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/hostileLevitation
+---
 Hostile Levitation
 
 **School** transmutation; **Level** sorcerer/wizard 3, witch 3

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/spikedPit
+---
  **Spiked Pit**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 3, summoner 3

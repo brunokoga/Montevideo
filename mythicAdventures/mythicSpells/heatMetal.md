@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/heatMetal
+---
 Heat Metal
 
 **Source** [_heat metal_](spells/heatMetal.md#_heat-metal)

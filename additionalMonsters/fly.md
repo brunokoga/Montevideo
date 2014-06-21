@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/fly
+---
 # Fly, Giant
 
 Bristling with coarse hairs, this enormous fly's legs twitch just before it launches into the air on buzzing wings.

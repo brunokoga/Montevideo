@@ -1,3 +1,6 @@
+---
+title: spells/shillelagh
+---
  **Shillelagh**
 
 **School** transmutation; **Level** druid 1

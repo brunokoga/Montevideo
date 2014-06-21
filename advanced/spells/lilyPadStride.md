@@ -1,3 +1,6 @@
+---
+title: advanced/spells/lilyPadStride
+---
  **Lily Pad Stride**
 
 **School** transmutation; **Level** druid 3

@@ -1,3 +1,6 @@
+---
+title: spells/commandUndead
+---
  **Command Undead**
 
 **School** necromancy; **Level** sorcerer/wizard 2

@@ -1,3 +1,6 @@
+---
+title: advanced/prestigeClasses/horizonWalker
+---
 # Horizon Walker
 
 Those whose wanderlust drives them to push the boundary of safe environments sometimes seek the calling of the horizon walker. Horizon walkers are masters of travel, always seeking to find the safe ways through inhospitable terrain. They are comfortable in places others speak of only in hushed whispers, and they can both venture forth onto untrod paths themselves and guide the less-traveled through such hazardous lands.

@@ -1,3 +1,6 @@
+---
+title: monsters/frog
+---
 # Frog, Giant
 
 _This creature looks like a normal frog, with moist, mottled, blackish-green skin, but grown to truly monstrous size._

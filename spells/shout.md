@@ -1,3 +1,6 @@
+---
+title: spells/shout
+---
  **Shout**
 
 **School** evocation [sonic]; **Level** bard 4, sorcerer/wizard 4

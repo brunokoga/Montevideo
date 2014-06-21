@@ -1,3 +1,6 @@
+---
+title: spells/callLightning
+---
  **Call Lightning**
 
 **School** evocation [electricity]; **Level** druid 3

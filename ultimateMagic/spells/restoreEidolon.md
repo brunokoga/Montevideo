@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/restoreEidolon
+---
 Restore Eidolon
 
 **School** conjuration (healing); **Level** summoner 3

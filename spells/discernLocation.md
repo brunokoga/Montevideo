@@ -1,3 +1,6 @@
+---
+title: spells/discernLocation
+---
  **Discern Location**
 
 **School** divination; **Level** cleric 8, sorcerer/wizard 8

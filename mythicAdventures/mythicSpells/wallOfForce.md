@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/wallOfForce
+---
 Wall of Force
 
 **Source** [_wall of force_](spells/wallOfForce.md#_wall-of-force)

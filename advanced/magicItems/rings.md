@@ -1,3 +1,6 @@
+---
+title: advanced/magicItems/rings
+---
 # Rings
 
 [Table: Rings]

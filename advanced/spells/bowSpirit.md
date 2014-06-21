@@ -1,3 +1,6 @@
+---
+title: advanced/spells/bowSpirit
+---
  **Bow Spirit**
 
 **School** conjuration (creation); **Level** ranger 4

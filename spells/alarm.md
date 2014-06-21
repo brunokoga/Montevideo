@@ -1,3 +1,6 @@
+---
+title: spells/alarm
+---
  **Alarm**
 
 **School** abjuration; **Level** bard 1, ranger 1, sorcerer/wizard 1

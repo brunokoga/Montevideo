@@ -1,3 +1,6 @@
+---
+title: spells/implosion
+---
  **Implosion**
 
 **School** evocation; **Level** cleric 9

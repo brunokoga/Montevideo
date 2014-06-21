@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/chordOfShards
+---
 Chord of Shards
 
 **School** evocation; **Level** bard 1

@@ -1,3 +1,6 @@
+---
+title: monsters/skeleton
+---
 # Skeleton
 
 _The pile of bones suddenly stirs, rising up to take on a human shape. Its long, bony fingers reach out to claw at the living._

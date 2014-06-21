@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/winterwight
+---
 # Winterwight
 
 Human-sized and of a deathly blue color, this long-taloned skeletal creature is partially encased in jagged sheets of ice.

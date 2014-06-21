@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/divinePursuit
+---
 Divine Pursuit
 
 **Source** [_divine pursuit_](ultimateMagic/spells/divinePursuit.md#_divine-pursuit)

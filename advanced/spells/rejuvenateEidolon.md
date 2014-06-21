@@ -1,3 +1,6 @@
+---
+title: advanced/spells/rejuvenateEidolon
+---
  **Rejuvenate Eidolon**
 
 **School** conjuration (healing); **Level** summoner 3

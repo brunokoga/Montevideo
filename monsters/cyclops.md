@@ -1,3 +1,6 @@
+---
+title: monsters/cyclops
+---
 # Cyclops
 
 _A single huge eye stares from the forehead of this nine-foot-tall giant. Below this sole orb, an even larger mouth gapes like a cave._

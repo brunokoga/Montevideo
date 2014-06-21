@@ -1,3 +1,6 @@
+---
+title: spells/circleOfDeath
+---
  **Circle of Death**
 
 **School** necromancy [death]; **Level** sorcerer/wizard 6

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/ultimateCombatVehicles
+---
 # Vehicles
 
 In the Pathfinder Roleplaying Game, low-level characters do most of their traveling on their own two feet. At higher levels, magical travel becomes a common occurrence, as does travel by horseback, atop animal companions, or via more exotic mounts. Every so often, travel may involve a vehicle of some sort—the wagons of a caravan, a wind-tossed galley, some fantastic form of aerial transport, or even a planes-hopping device. If you like your games with a dose of weird, such vehicles may be as strange as a crashed space vessel. Whatever the case, vehicles in the Pathfinder RPG are often treated as either mobile terrain or adventure sites in their own right.

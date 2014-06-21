@@ -1,3 +1,6 @@
+---
+title: spells/wallOfForce
+---
  **Wall of Force**
 
 **School** evocation [force]; **Level** sorcerer/wizard 5

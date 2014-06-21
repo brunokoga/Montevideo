@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/downtime
+---
 # Downtime
 
 [Downtime Activities](ultimateCampaign/downtime/downtimeActivities.md) [Managers](ultimateCampaign/downtime/managers.md) [Rooms and Teams](ultimateCampaign/downtime/roomsAndTeams.md) [Buildings and Organizations](ultimateCampaign/downtime/buildingsAndOrganizations.md) [Downtime Events](ultimateCampaign/downtime/downtimeEvents.md)

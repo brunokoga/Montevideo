@@ -1,3 +1,6 @@
+---
+title: monsters/violetFungus
+---
 # Violet Fungus
 
 _This mushroom grows from a bed of tentacular roots. Deep violet tendrils slither out of the dozens of fissures in its pointed cap._

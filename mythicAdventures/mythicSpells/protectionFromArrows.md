@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/protectionFromArrows
+---
 Protection from Arrows
 
 **Source** [_protection from arrows_](spells/protectionFromArrows.md#_protection-from-arrows)

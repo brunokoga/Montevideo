@@ -1,3 +1,6 @@
+---
+title: spells/controlUndead
+---
  **Control Undead**
 
 **School** necromancy; **Level** sorcerer/wizard 7

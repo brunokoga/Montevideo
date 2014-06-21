@@ -1,3 +1,6 @@
+---
+title: spells/removeDisease
+---
  **Remove Disease**
 
 **School** conjuration (healing); **Level** cleric 3, druid 3, ranger 3

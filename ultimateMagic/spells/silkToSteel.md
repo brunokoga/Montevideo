@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/silkToSteel
+---
 Silk To Steel
 
 **School** transmutation; **Level** bard 2, sorcerer/wizard 2, witch 2

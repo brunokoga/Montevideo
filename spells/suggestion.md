@@ -1,3 +1,6 @@
+---
+title: spells/suggestion
+---
  **Suggestion**
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** bard 2, sorcerer/wizard 3

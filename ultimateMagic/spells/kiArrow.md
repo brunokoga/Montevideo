@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/kiArrow
+---
 Ki Arrow
 
 **School** conjuration; **Level** bard 1, sorcerer/wizard 1, witch 1

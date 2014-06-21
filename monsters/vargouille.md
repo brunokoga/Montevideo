@@ -1,3 +1,6 @@
+---
+title: monsters/vargouille
+---
 # Vargouille
 
 _This creature is a blackened, bat-winged fiend's head. Tentacles dangle from chin and scalp, and its fanged mouth hangs agape._

@@ -1,3 +1,6 @@
+---
+title: spells/cloudkill
+---
  **Cloudkill**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 5

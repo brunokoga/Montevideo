@@ -1,3 +1,6 @@
+---
+title: spells/secureShelter
+---
  **Secure Shelter**
 
 **School** conjuration (creation); **Level** bard 4, sorcerer/wizard 4

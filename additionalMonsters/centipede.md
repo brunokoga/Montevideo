@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/centipede
+---
 # Centipede, Giant Whiptail
 
 An elephantine centipede scurries about, its double tail lashing angrily behind it.

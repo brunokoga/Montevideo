@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/ultimateMagicSpellIndex
+---
 # Spells
 
 The following lists summarize all of the new spells presented in this book, broken down by class. An M or F appearing at the end of a spell's name in the spell lists denotes a material or focus component not normally included in a spell component pouch.

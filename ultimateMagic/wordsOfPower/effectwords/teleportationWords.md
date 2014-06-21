@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/teleportationWords
+---
 ## Teleportation Words
 
 Teleportation words transport the targets to other places, or even other planes of existence.

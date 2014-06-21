@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/perniciousPoison
+---
 Pernicious Poison
 
 **Source** [_pernicious poison_](ultimateMagic/spells/perniciousPoison.md#_pernicious-poison)

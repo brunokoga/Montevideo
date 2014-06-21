@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/arcaneCannon
+---
 Arcane Cannon
 
 **School** transmutation; **Level** sorcerer/wizard 7

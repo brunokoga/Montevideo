@@ -1,3 +1,6 @@
+---
+title: skills/sleightOfHand
+---
 # Sleight of Hand
 
 ## ( [Dex](../gettingStarted.md#_dexterity); Armor Check Penalty; Trained Only)

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/protectionFromLaw
+---
 Protection from Law, Communal
 
 **Level** antipaladin 2, cleric 2, inquisitor 2, sorcerer/wizard 2, summoner 2

@@ -1,3 +1,6 @@
+---
+title: monsters/ochreJelly
+---
 # Ochre Jelly
 
 _This yellow-orange amoeboid creature slithers across the ground, pseudopods grasping ahead of its slow approach._

@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/temple
+---
 # Temple
 
 Devoted to powers and philosophies of the divine, the servants of organized religion live as their faith dictates and seek to spread the tenets of their beliefs to all with spirits that want and ears ready to listen. Whether in glorious temples, cathedrals, or mosques of widespread religions or the secretive sanctuaries of cults, mysteries, and esoteric orders, those of the faith provide a variety of services both to the faithful and those with the gold to further glorify their beliefs.

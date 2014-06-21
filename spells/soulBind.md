@@ -1,3 +1,6 @@
+---
+title: spells/soulBind
+---
  **Soul Bind**
 
 **School** necromancy; **Level** cleric 9, sorcerer/wizard 9

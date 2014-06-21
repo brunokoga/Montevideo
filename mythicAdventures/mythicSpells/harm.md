@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/harm
+---
 Harm
 
 **Source** [_harm_](spells/harm.md#_harm)

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/instantArmor
+---
  **Instant Armor**
 
 **School** conjuration (creation) [force]; **Level** cleric 2, paladin 2

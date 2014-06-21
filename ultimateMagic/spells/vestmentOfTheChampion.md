@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/vestmentOfTheChampion
+---
 Vestment of the Champion
 
 **School** abjuration; **Level** antipaladin 2, paladin 2

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/aqueousOrb
+---
  **Aqueous Orb**
 
 **School** conjuration (creation) [water]; **Level** druid 3, sorcerer/wizard 3, summoner 3

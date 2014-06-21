@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/ringsRodsStaves/rings
+---
 # Rings
 
 Rings bestow magical powers upon their wearers. Only a rare few have charges—most magic rings are permanent and potent magic items. Anyone can use a ring.

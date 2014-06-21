@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/jabberwock
+---
 # Jabberwock
 
 This dragon has a long neck and terrible claws. The beast shrieks and babbles, thrashing its tail and wings in a violent manner.

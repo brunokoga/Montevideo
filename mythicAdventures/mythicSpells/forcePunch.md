@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/forcePunch
+---
 Force Punch
 
 **Source** [_force punch_](ultimateMagic/spells/forcePunch.md#_force-punch)

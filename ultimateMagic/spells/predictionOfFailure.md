@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/predictionOfFailure
+---
 Prediction of Failure
 
 **School** divination [curse, fear, mind-affecting]; **Level** sorcerer/wizard 8, witch 8

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/entropicShield
+---
 Entropic Shield
 
 **Source** [_entropic shield_](spells/entropicShield.md#_entropic-shield)

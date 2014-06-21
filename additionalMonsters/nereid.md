@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/nereid
+---
 # Nereid
 
 This beautiful woman has pearlescent skin and long, dark hair. Her nudity is barely hidden by a diaphanous, wet shawl.

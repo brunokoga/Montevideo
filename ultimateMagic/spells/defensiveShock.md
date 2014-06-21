@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/defensiveShock
+---
 Defensive Shock
 
 **School** evocation [electricity]; **Level** alchemist 2, magus 2, sorcerer/wizard 2

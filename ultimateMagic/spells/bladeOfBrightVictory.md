@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/bladeOfBrightVictory
+---
 Blade of Bright Victory
 
 **School** transmutation [good]; **Level** paladin 3

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/korred
+---
 # Korred
 
 This knobby-kneed, stunted humanoid, has a particularly thick beard and wild mane of hair, hiding most of its body from view.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/jitterbugs
+---
 Jitterbugs
 
 **Source** [_jitterbugs_](advancedRaceGuide/coreRaces/gnomes.md#_jitterbugs)

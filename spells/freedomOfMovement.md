@@ -1,3 +1,6 @@
+---
+title: spells/freedomOfMovement
+---
  **Freedom of Movement**
 
 **School** abjuration; **Level** bard 4, cleric 4, druid 4, ranger 4

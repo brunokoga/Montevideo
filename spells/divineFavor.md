@@ -1,3 +1,6 @@
+---
+title: spells/divineFavor
+---
  **Divine Favor**
 
 **School** evocation; **Level** cleric 1, paladin 1

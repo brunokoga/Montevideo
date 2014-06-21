@@ -1,3 +1,6 @@
+---
+title: spells/telekineticSphere
+---
  **Telekinetic Sphere**
 
 **School** evocation [force]; **Level** sorcerer/wizard 8

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/simulacrum
+---
 Simulacrum, Lesser
 
 **School** illusion (shadow); **Level** sorcerer/wizard 4

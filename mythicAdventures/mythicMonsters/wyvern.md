@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/wyvern
+---
 # Wyvern
 
 _This serpentine dragon has huge wings, two taloned legs, and a tail stinger, and its blue scales are mottled with other colors. _

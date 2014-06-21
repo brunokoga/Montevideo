@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/ascension
+---
 Ascension
 
 **School** universal; **Level** cleric 9, druid 9, sorcerer/wizard 9, witch 9

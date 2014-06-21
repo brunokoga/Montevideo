@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/familiarMelding
+---
 Familiar Melding
 
 **School** necromancy; **Level** sorcerer/wizard 4, witch 4

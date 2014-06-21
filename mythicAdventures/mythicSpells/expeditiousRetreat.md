@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/expeditiousRetreat
+---
 Expeditious Retreat
 
 **Source** [_expeditious retreat_](spells/expeditiousRetreat.md#_expeditious-retreat)

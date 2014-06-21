@@ -1,3 +1,6 @@
+---
+title: spells/contactOtherPlane
+---
  **Contact Other Plane**
 
 **School** divination; **Level** sorcerer/wizard 5

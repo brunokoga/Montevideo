@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/summonMinorAlly
+---
 Summon Minor Ally
 
 **School** conjuration (summoning); **Level** druid 1, ranger 1

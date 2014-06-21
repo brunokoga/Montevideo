@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/dream
+---
 Dream
 
 **Source** [_dream_](spells/dream.md#_dream)

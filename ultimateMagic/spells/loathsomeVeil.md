@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/loathsomeVeil
+---
 Loathsome Veil
 
 **School** illusion (pattern) [mind-affecting]; **Level** sorcerer/wizard 3, witch 3

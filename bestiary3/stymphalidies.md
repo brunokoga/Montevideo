@@ -1,3 +1,6 @@
+---
+title: bestiary3/stymphalidies
+---
 # Stymphalidies
 
 This towering, ibis-like bird appears to be sculpted from silver and brass, yet it moves with the fluidity of a living creature.

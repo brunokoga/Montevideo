@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/telekinesis
+---
 Telekinesis
 
 **Source** [_telekinesis_](spells/telekinesis.md#_telekinesis)

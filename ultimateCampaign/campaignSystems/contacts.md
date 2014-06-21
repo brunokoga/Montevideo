@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/contacts
+---
 # Contacts
 
 A contact is a unique NPC with useful skills or powerful connections. You can call upon contacts for aid to accomplish specialized tasks without getting directly involved. A low-level contact can dig up a local rumor, tell you where to find a good meal, or impart basic knowledge. However, as you earn more of a contact's trust, he might perform greater tasks with greater personal risk, such as helping you track down an adversary, bailing you out of jail, or loaning you a magic item.

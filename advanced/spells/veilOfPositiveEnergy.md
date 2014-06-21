@@ -1,3 +1,6 @@
+---
+title: advanced/spells/veilOfPositiveEnergy
+---
  **Veil of Positive Energy**
 
 **School** abjuration [good]; **Level** paladin 1

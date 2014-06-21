@@ -1,3 +1,6 @@
+---
+title: spells/wailOfTheBanshee
+---
  **Wail of the Banshee**
 
 **School** necromancy [death, sonic]; **Level** sorcerer/wizard 9

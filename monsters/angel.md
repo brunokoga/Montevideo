@@ -1,3 +1,6 @@
+---
+title: monsters/angel
+---
 # Angel 
 
 Angels are a race of celestials, beings who live on the good-aligned outer planes.

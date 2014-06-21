@@ -1,3 +1,6 @@
+---
+title: spells/foxSCunning
+---
  **Fox's Cunning**
 
 **School** transmutation; **Level** bard 2, sorcerer/wizard 2

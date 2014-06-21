@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/nobles
+---
 # Nobles
 
 Lords and ladies of the land, rulers of nations, and famed personalities, nobles rise above the common folk as people of wealth, influence, and esteem. While the positions of many distance them from everyday folk, making them arrogant and aloof, others are philanthropists and heroes of the people who know the plight of the common man and seek to share their good fortune. The trappings and titles of nobility vary widely from nation to nation, and the barons and dukes of one country might equate to the pashas, denka, or ritters of the next.

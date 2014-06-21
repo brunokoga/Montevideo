@@ -1,3 +1,6 @@
+---
+title: spells/scintillatingPattern
+---
  **Scintillating Pattern**
 
 **School** illusion (pattern) [mind-affecting]; **Level** sorcerer/wizard 8

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/sunMetal
+---
 Sun Metal
 
 **School** transmutation [fire]; **Level** cleric 1, paladin 1, ranger 1

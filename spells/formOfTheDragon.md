@@ -1,3 +1,6 @@
+---
+title: spells/formOfTheDragon
+---
  **Form of the Dragon I**
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 6

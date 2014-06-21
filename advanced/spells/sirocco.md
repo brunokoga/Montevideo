@@ -1,3 +1,6 @@
+---
+title: advanced/spells/sirocco
+---
  **Sirocco**
 
 **School** evocation [air, fire]; **Level** druid 6, sorcerer/wizard 6

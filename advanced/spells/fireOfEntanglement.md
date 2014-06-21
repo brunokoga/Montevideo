@@ -1,3 +1,6 @@
+---
+title: advanced/spells/fireOfEntanglement
+---
  **Fire of Entanglement**
 
 **School** evocation; **Level** paladin 2

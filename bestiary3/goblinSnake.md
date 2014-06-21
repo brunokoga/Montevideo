@@ -1,3 +1,6 @@
+---
+title: bestiary3/goblinSnake
+---
 # Goblin Snake
 
 A gray, lipless goblin head with serpent's fangs sits atop the sinuous black body of this greasy-scaled snake.

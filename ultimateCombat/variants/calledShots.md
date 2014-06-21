@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/variants/calledShots
+---
 # Called Shots
 
 The Pathfinder Roleplaying Game deals with hits and damage in a rather abstract way, treating almost all hits the same except for the amount and type of damage dealt. With these optional called shot rules, PCs, monsters, and villains alike can aim their attacks more precisely, potentially to devastating effect.

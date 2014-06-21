@@ -1,3 +1,6 @@
+---
+title: monsters/monsterFeats
+---
 # Monster Feats
 
 Most of the following feats apply specifically to monsters, although some player characters might qualify for them (particularly [Craft Construct](monsterFeats.md#_craft-construct)).

@@ -1,3 +1,6 @@
+---
+title: bestiary3/ascomoid
+---
 # Ascomoid
 
 This misshapen sphere of pale yellow-green fungus rolls with an unnerving speed, spewing clouds of foul spores as it advances.

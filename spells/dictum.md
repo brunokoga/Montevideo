@@ -1,3 +1,6 @@
+---
+title: spells/dictum
+---
  **Dictum**
 
 **School** evocation [lawful, sonic]; **Level** cleric 7

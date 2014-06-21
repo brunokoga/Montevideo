@@ -1,3 +1,6 @@
+---
+title: spells/healMount
+---
  **Heal Mount**
 
 **School** conjuration (healing); **Level** paladin 3

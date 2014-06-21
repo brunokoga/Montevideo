@@ -1,3 +1,6 @@
+---
+title: spells/wordOfRecall
+---
  **Word of Recall**
 
 **School** conjuration (teleportation); **Level** cleric 6, druid 8

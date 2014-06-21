@@ -1,3 +1,6 @@
+---
+title: spells/refuge
+---
  **Refuge**
 
 **School** conjuration (teleportation); **Level** cleric 7, sorcerer/wizard 9

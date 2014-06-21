@@ -1,3 +1,6 @@
+---
+title: bestiary3/gravenGuardian
+---
 # Graven Guardian
 
 This jackal-headed, brightly painted clay statue animates and lurches forward, hefting a wickedly hooked sword.

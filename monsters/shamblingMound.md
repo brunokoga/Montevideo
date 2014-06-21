@@ -1,3 +1,6 @@
+---
+title: monsters/shamblingMound
+---
 # Shambling Mound
 
 _A mass of tangled vines and dripping slime rises on two trunk-like legs, reeking of rot and freshly turned earth._

@@ -1,3 +1,6 @@
+---
+title: spells/findTraps
+---
  **Find Traps**
 
 **School** divination; **Level** cleric 2

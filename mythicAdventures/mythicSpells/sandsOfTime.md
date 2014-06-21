@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/sandsOfTime
+---
 Sands of Time
 
 **Source** [_sands of time_](ultimateMagic/spells/sandsOfTime.md#_sands-of-time)

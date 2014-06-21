@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/cureModerateWounds
+---
 Cure Moderate Wounds
 
 **Source** [_cure moderate wounds_](spells/cureModerateWounds.md#_cure-moderate-wounds)

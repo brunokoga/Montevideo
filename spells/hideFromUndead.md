@@ -1,3 +1,6 @@
+---
+title: spells/hideFromUndead
+---
  **Hide from Undead**
 
 **School** abjuration; **Level** cleric 1

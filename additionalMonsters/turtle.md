@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/turtle
+---
 # Turtle, Snapping
 
 A thick shell encases this reptile's body, from which only its tail, its feet, and a head fitted with powerful jaws emerge.

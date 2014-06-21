@@ -1,3 +1,6 @@
+---
+title: spells/mislead
+---
  **Mislead**
 
 **School** illusion (figment, glamer); **Level** bard 5, sorcerer/wizard 6

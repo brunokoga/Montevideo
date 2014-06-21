@@ -1,3 +1,6 @@
+---
+title: bestiary3/dragonFaerie
+---
 # Dragon, Faerie
 
 A pair of brightly colored butterfly wings sprouts from the back of this miniature dragon.

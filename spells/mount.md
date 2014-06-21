@@ -1,3 +1,6 @@
+---
+title: spells/mount
+---
  **Mount**
 
 **School** conjuration (summoning); **Level** sorcerer/wizard 1

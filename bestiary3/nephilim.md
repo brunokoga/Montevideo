@@ -1,3 +1,6 @@
+---
+title: bestiary3/nephilim
+---
 # Nephilim
 
 The strength and stature of this giant-sized human is matched only by the nobility of its bearing.

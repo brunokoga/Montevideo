@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/energySiegeShot
+---
 Energy Siege Shot
 
 **School** transmutation [variable]; **Level** sorcerer/wizard 5, summoner 5

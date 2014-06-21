@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/atavism
+---
 Atavism
 
 **School** transmutation; **Level** druid 4

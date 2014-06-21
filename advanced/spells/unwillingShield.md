@@ -1,3 +1,6 @@
+---
+title: advanced/spells/unwillingShield
+---
  **Unwilling Shield**
 
 **School** necromancy; **Level** bard 5, inquisitor 5, sorcerer/wizard 6, witch 6

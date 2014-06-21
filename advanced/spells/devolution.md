@@ -1,3 +1,6 @@
+---
+title: advanced/spells/devolution
+---
  **Devolution**
 
 **School** transmutation; **Level** sorcerer/wizard 3, summoner 3

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/pelletBlast
+---
 Pellet Blast
 
 **School** conjuration (creation); **Level** magus 4, sorcerer/wizard 3, summoner 3

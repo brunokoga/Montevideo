@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/rogue
+---
 # Rogues
 
 Cutpurse CR 1/2

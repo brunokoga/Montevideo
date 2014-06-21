@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/grease
+---
 Grease
 
 **Source** [_grease_](spells/grease.md#_grease)

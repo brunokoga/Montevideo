@@ -1,3 +1,6 @@
+---
+title: spells/ghostSound
+---
  **Ghost Sound**
 
 **School** illusion (figment); **Level** bard 0, sorcerer/wizard 0

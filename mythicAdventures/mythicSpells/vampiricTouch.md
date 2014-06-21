@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/vampiricTouch
+---
 Vampiric Touch
 
 **Source** [_vampiric touch_](spells/vampiricTouch.md#_vampiric-touch)

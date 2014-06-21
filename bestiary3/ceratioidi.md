@@ -1,3 +1,6 @@
+---
+title: bestiary3/ceratioidi
+---
 # Ceratioidi
 
 This flabby, fishlike humanoid has the wide mouth, bulging eyes, and dangling, luminescent flesh lure of a deep-sea predator.

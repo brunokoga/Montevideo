@@ -1,3 +1,6 @@
+---
+title: advanced/spells/seekThoughts
+---
  **Seek Thoughts**
 
 **School** divination [mind-affecting]; **Level** alchemist 3, bard 3, inquisitor 3, sorcerer/wizard 3, summoner 3, witch 3

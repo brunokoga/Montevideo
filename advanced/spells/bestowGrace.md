@@ -1,3 +1,6 @@
+---
+title: advanced/spells/bestowGrace
+---
  **Bestow Grace**
 
 **School** abjuration; **Level** paladin 2

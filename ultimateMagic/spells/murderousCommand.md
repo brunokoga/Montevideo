@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/murderousCommand
+---
 Murderous Command
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** antipaladin 1, cleric 1

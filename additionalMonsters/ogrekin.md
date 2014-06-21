@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/ogrekin
+---
 # Ogrekin
 
 Its body twisted and deformed, this lumbering giant has tiny eyes and a mouth of jagged teeth presented in a furious roar.

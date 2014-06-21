@@ -1,3 +1,6 @@
+---
+title: monsters/salamander
+---
 # Salamander
 
 _This snake-bodied humanoid hisses with anger. Spines of crackling flame dance along the creature's blackened, fiery-red scales._

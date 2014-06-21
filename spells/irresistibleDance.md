@@ -1,3 +1,6 @@
+---
+title: spells/irresistibleDance
+---
  **Irresistible Dance**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 6, sorcerer/wizard 8

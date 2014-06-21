@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/ray
+---
 # Ray, Manta
 
 Gliding gracefully through the water on wing-like fins, this large ray scoops up tiny morsels in its wide mouth.

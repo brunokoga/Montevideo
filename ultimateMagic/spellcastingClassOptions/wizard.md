@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/wizard
+---
 # Wizard
 
 Wizards have a diverse history from all over the world, and legends attribute to them many strange powers. This section features arcane discoveries (magical secrets wizards can learn), a new archetype (the scrollmaster), and two new wizard schools (elemental metal and elemental wood).

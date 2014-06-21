@@ -1,3 +1,6 @@
+---
+title: advanced/spells/fester
+---
  **Fester**
 
 **School** necromancy; **Level** inquisitor 3, witch 2

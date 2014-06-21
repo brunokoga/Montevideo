@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/frightfulAspect
+---
 Frightful Aspect
 
 **School** transmutation (polymorph); **Level** cleric 8, druid 8, sorcerer/wizard 8, witch 8

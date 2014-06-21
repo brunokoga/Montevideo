@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/deathWords
+---
 ## Death Words
 
 Words from this family destroy life and create undead abominations.

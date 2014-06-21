@@ -1,3 +1,6 @@
+---
+title: spells/barkskin
+---
  **Barkskin**
 
 **School** transmutation; **Level** druid 2, ranger 2

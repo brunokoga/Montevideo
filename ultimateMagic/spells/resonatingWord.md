@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/resonatingWord
+---
 Resonating Word
 
 **School** transmutation [sonic]; **Level** bard 5, sorcerer/wizard 7

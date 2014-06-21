@@ -1,3 +1,6 @@
+---
+title: advanced/spells/crafterSCurse
+---
  **Crafter's Curse**
 
 **School** transmutation; **Level** sorcerer/wizard 1

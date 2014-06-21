@@ -1,3 +1,6 @@
+---
+title: bestiary3/garuda
+---
 # Garuda
 
 This winged creature has clawed hands and bird's talons. Large, glinting eyes and a serrated beak dominate its avian face.

@@ -1,3 +1,6 @@
+---
+title: monsters/octopus
+---
 # Octopus
 
 _Eight tentacles, each adorned with rows of countless suckers, unfurl from the barrel-shaped body of this large-eyed creature._

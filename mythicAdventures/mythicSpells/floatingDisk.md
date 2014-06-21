@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/floatingDisk
+---
 Floating Disk
 
 **Source** [_floating disk_](spells/floatingDisk.md#_floating-disk)

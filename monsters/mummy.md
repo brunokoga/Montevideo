@@ -1,3 +1,6 @@
+---
+title: monsters/mummy
+---
 # Mummy
 
 _Wrapped from head to toe in ancient strips of moldering linen, this humanoid moves with a shuffling gait._

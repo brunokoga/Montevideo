@@ -1,3 +1,6 @@
+---
+title: monsters/rakshasa
+---
 # Rakshasa
 
 _This figure's backward-bending fingers and its bestial, snarling visage leave little doubt as to its fiendish nature._

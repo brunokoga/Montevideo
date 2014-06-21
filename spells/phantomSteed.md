@@ -1,3 +1,6 @@
+---
+title: spells/phantomSteed
+---
  **Phantom Steed**
 
 **School** conjuration (creation); **Level** bard 3, sorcerer/wizard 3

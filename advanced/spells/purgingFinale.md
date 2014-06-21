@@ -1,3 +1,6 @@
+---
+title: advanced/spells/purgingFinale
+---
  **Purging Finale**
 
 **School** conjuration (healing); **Level** bard 3

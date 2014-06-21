@@ -1,3 +1,6 @@
+---
+title: advanced/spells/wanderingStarMotes
+---
  **Wandering Star Motes**
 
 **School** illusion (pattern) [light, mind-affecting]; **Level** bard 4, sorcerer/wizard 4, witch 4

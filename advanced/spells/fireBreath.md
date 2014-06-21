@@ -1,3 +1,6 @@
+---
+title: advanced/spells/fireBreath
+---
  **Fire Breath**
 
 **School** evocation [fire]; **Level** alchemist 2, sorcerer/wizard 2

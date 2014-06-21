@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/glyphOfWarding
+---
 Glyph of Warding
 
 **Source** [_glyph of warding_](spells/glyphOfWarding.md#_glyph-of-warding)

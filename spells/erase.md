@@ -1,3 +1,6 @@
+---
+title: spells/erase
+---
  **Erase**
 
 **School** transmutation; **Level** bard 1, sorcerer/wizard 1

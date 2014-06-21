@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/quickwood
+---
 # quickwood
 
 Were it not for the image of a sinister face peeking out from its dark gray bark, this would look like any other ragged oak tree.

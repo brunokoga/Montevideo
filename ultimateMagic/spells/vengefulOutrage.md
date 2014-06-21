@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/vengefulOutrage
+---
 Vengeful Outrage
 
 **School** enchantment (compulsion) [emotion, language-dependent, mind-affecting]; **Level** bard 5, sorcerer/wizard 6, witch 6

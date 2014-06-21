@@ -1,3 +1,6 @@
+---
+title: magicItems/weapons
+---
 # Weapons
 
 [Table: Weapons]

@@ -1,3 +1,6 @@
+---
+title: spells/dispelEvil
+---
  **Dispel Evil**
 
 **School** abjuration [good]; **Level** cleric 5, paladin 4

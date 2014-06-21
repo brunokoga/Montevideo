@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/gunslinger
+---
 # Gunslinger
 
 While firearms are still rather new additions to the adventurers' arsenal in most campaigns, their chief adherents—gunslingers—have wasted no time in experimenting with these weapons in exciting new ways. The gunslinger is already a versatile adventurer, yet the following archetypes add new specialties and strategies for the class, by either specializing in a form of firearm, using personality instead of willpower to fuel their grit, or fusing firearms with heavy armor to create a seemingly unstoppable juggernaut on the battlefield.

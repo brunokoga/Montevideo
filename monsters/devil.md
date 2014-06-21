@@ -1,3 +1,6 @@
+---
+title: monsters/devil
+---
 # Devil
 
 Masters of corruption and despoilers of purity, devils seek to destroy all things good and drag mortal souls back with them to the depths of Hell.

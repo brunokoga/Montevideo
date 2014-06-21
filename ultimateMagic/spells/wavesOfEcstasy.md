@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/wavesOfEcstasy
+---
 Waves of Ecstasy
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 6, cleric 7, sorcerer/wizard 7, witch 7

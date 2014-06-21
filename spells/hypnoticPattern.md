@@ -1,3 +1,6 @@
+---
+title: spells/hypnoticPattern
+---
  **Hypnotic Pattern**
 
 **School** illusion (pattern) [mind-affecting]; **Level** bard 2, sorcerer/wizard 2

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/marksOfForbiddance
+---
  **Marks Of Forbiddance**
 
 **School** abjuration [mind-affecting]; **Level** paladin 3

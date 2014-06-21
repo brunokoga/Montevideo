@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/feastOfAshes
+---
 Feast of Ashes
 
 **Source** [_feast of ashes_](advanced/spells/feastOfAshes.md#_feast-of-ashes)

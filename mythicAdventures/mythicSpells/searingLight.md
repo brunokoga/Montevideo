@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/searingLight
+---
 Searing Light
 
 **Source** [_searing light_](spells/searingLight.md#_searing-light)

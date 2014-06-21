@@ -1,3 +1,6 @@
+---
+title: advanced/spells/createTreasureMap
+---
  **Create Treasure Map**
 
 **School** divination; **Level** bard 2, druid 3, ranger 2, sorcerer/wizard 2

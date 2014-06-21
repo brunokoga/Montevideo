@@ -1,3 +1,6 @@
+---
+title: npcCodex/prestige/index
+---
 # Prestige Classes
 
 Prestige classes allow you to customize characters in very specialized ways. However, the prerequisites mean characters with a prestige class tend to be higher level and might require specific kinds of multiclassing to be effective. The NPC Codex saves busy GMs the time it would take to create NPCs with prestige classes.

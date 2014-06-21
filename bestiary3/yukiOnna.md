@@ -1,3 +1,6 @@
+---
+title: bestiary3/yukiOnna
+---
 # Yuki-Onna
 
 This beautiful but sad-looking woman wears an ornate robe and is surrounded by a whirling mass of snow.

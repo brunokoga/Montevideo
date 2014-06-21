@@ -1,3 +1,6 @@
+---
+title: spells/scorchingRay
+---
  **Scorching Ray**
 
 **School** evocation [fire]; **Level** sorcerer/wizard 2

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/deadlyFinale
+---
  **Deadly Finale**
 
 **School** evocation [sonic]; **Level** bard 6

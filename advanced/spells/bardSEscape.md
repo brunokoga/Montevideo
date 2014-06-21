@@ -1,3 +1,6 @@
+---
+title: advanced/spells/bardSEscape
+---
  **Bard's Escape**
 
 **School** conjuration (teleportation); **Level** bard 5

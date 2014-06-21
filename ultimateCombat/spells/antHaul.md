@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/antHaul
+---
 Ant Haul, Communal
 
 **Level** alchemist 2, cleric 2, druid 2, ranger 2, sorcerer/wizard 2, summoner 2

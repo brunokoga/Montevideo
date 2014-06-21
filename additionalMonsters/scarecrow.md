@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/scarecrow
+---
 # Scarecrow
 
 It suddenly becomes clear that this is no ordinary pumpkin-headed scarecrow when its eyes glow and it comes to jerky life.

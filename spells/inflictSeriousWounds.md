@@ -1,3 +1,6 @@
+---
+title: spells/inflictSeriousWounds
+---
  **Inflict Serious Wounds**
 
 **School** necromancy; **Level** cleric 3

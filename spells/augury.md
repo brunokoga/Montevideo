@@ -1,3 +1,6 @@
+---
+title: spells/augury
+---
  **Augury**
 
 **School** divination; **Level** cleric 2

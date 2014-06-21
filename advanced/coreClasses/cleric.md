@@ -1,3 +1,6 @@
+---
+title: advanced/coreClasses/cleric
+---
 # Cleric
 
 Clerics are messengers and servants of the gods, venturing forth into the world to spread their patrons' gospel through compassion, reason, bargaining, or righteous conquest. They are the bearers of divine guidance—and divine wrath. From gentle and penitent village priests to holy warriors and church heads whose decrees can rock nations and foment upheaval across entire worlds, clerics are everywhere, their callings and methods as varied as the gods they serve. They are living proof of the gods' power and interest in the world of mortals, and to deny them is to invite destruction, both in this world and the next.

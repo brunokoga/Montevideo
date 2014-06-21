@@ -1,3 +1,6 @@
+---
+title: bestiary3/gorynych
+---
 # Gorynych
 
 This sleek, three-headed dragon rears up on its hind legs, wings spread and flames licking out from behind three sets of fangs.

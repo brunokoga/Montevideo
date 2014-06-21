@@ -1,3 +1,6 @@
+---
+title: spells/illusoryScript
+---
  **Illusory Script**
 
 **School** illusion (phantasm) [mind-affecting]; **Level** bard 3, sorcerer/wizard 3

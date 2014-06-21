@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/bodak
+---
 # Bodak
 
 The flesh of this emaciated creature appears charred or dried, and its empty eye sockets seep trails of smoke.

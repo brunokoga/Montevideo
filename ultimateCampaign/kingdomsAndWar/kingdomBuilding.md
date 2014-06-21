@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/kingdomsAndWar/kingdomBuilding
+---
 # Kingdom Building
 
 Ruling a kingdom is a complex and difficult task, one undertaken only by the very ambitious. Many PCs are content to live as mercenaries or treasure hunters, no interest in being responsible for the health and well-being of subjects; for these characters, a kingdom is simply a place they pass through on the way to the next adventure. However, characters who are keen to spread their wings and forge a place of power and influence in the world can use this chapter to create a different sort of campaign. If the PCs are interested in ruling only a single town or castle and the small region around it, kingdom building can focus primarily on the settlement and the PCs' personal demesne. If the PCs have larger goals, such as carving out a new, independent kingdom, these rules allow them to build cities and engage in trade, diplomacy, and war.

@@ -1,3 +1,6 @@
+---
+title: bestiary3/annisHag
+---
 # Annis Hag
 
 This repulsive, hunchbacked crone has skin the color of a fresh bruise. Despite her hunch, she looms taller than a human.

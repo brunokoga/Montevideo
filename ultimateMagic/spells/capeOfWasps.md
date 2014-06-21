@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/capeOfWasps
+---
 Cape of Wasps
 
 **School** conjuration (summoning); **Level** druid 4, witch 4

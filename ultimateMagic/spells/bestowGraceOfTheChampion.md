@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/bestowGraceOfTheChampion
+---
 Bestow Grace of the Champion
 
 **School** transmutation [good, law]; **Level** cleric 7, paladin 4

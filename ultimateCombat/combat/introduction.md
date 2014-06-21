@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/combat/introduction
+---
 # Introduction
 
 Combat is more than just knowing how to swing a sword without cutting yourself. To some, it is a means to an end, a regrettable necessity when all other options have failed, and a tool that is to be set down the moment it's not absolutely needed. To others, it is a panacea and a way of life—a means of solving any problem, and of proving one's worth by standing tall against one's fellows and the harsh denizens of an uncaring universe. In the hands of a skilled warrior, a sword is no longer simply a sharpened length of steel, and even a club is more than just a broken branch. These objects become instruments of a serious and sometimes brutal art, one whose practitioners are every bit as skilled in their artistry as the greatest bards. Many such acolytes of battle might say that theirs is the only art worth pursuing, as it's the sole one by which the artist not only inspires respect, but commands it. Combat is civilization's oldest trade and form of expression, and no matter how far we've come since the first days of stones and sticks, it continues to shape the events that define us. A civilized society may claim to abhor bloodshed, but it's that same bloodshed—or its threat—that watches over us and gives us the freedom to maintain such ideals.

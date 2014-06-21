@@ -1,3 +1,6 @@
+---
+title: spells/gustOfWind
+---
  **Gust of Wind**
 
 **School** evocation [air]; **Level** druid 2, sorcerer/wizard 2

@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/campaignSystems/relationships
+---
 # Relationships
 
 No villain ever seems to understand that when he threatens a hero's family, things go south for him. After all, nothing gives the beleaguered champion one last surge of strength like the sight of a loved one in peril. Relationships are the cornerstone of all that heroes are and can be.

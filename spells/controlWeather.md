@@ -1,3 +1,6 @@
+---
+title: spells/controlWeather
+---
  **Control Weather**
 
 **School** transmutation; **Level** cleric 7, druid 7, sorcerer/wizard 7

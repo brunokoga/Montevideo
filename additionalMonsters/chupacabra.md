@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/chupacabra
+---
 # Chupacabra
 
 This lizard-like creature stalks forward upon two muscular legs, a mane of spikes running down its scaly back.

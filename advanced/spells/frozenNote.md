@@ -1,3 +1,6 @@
+---
+title: advanced/spells/frozenNote
+---
  **Frozen Note**
 
 **School** enchantment (compulsion) [mind-affecting, sonic]; **Level** bard 5

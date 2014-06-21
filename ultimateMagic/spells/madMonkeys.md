@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/madMonkeys
+---
 Mad Monkeys
 
 **School** conjuration (summoning); **Level** bard 3, druid 3, sorcerer/wizard 3, summoner 3

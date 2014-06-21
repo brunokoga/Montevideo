@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/sphinx
+---
 # Sphinx
 
 _This woman has the upper body of a human queen, the lower body of a lion, a snake-headed tail, and great eagle wings._

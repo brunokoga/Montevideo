@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/discoveryTorch
+---
 Discovery Torch
 
 **School** evocation [light]; **Level** bard 2, cleric 3, inquisitor 2

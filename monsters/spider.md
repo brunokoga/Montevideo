@@ -1,3 +1,6 @@
+---
+title: monsters/spider
+---
 # Spider, Giant
 
 _A spider the size of a man crawls silently from the depths of its funnel-shaped web._

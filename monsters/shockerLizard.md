@@ -1,3 +1,6 @@
+---
+title: monsters/shockerLizard
+---
 # Shocker Lizard
 
 _This dog-sized lizard has two horns, one on either side of its head, and green scales that crackle with sparks of lightning._

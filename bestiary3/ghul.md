@@ -1,3 +1,6 @@
+---
+title: bestiary3/ghul
+---
 # Ghul
 
 Draped in fine dark robes, this undead creature's body seems to be made of equal parts bone, leathery flesh, and blood-red smoke.

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/xtabay
+---
 # Xtabay
 
 This patch of vines is ornamented with beautiful crimson and violet flowers, the petals of which seem to bear tiny faces.

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/haste
+---
 Haste
 
 **Source** [_haste_](spells/haste.md#_haste)

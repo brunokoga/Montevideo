@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/chaosBeast
+---
 # Chaos Beast
 
 This thing is a horrid mass of barbed tentacles, glaring eyes, and gnashing teeth, twisting upon itself and reshaping into new forms.

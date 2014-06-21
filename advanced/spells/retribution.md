@@ -1,3 +1,6 @@
+---
+title: advanced/spells/retribution
+---
  **Retribution**
 
 **School** necromancy [evil]; **Level** inquisitor 3

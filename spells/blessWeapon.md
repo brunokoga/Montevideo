@@ -1,3 +1,6 @@
+---
+title: spells/blessWeapon
+---
  **Bless Weapon**
 
 **School** transmutation; **Level** paladin 1

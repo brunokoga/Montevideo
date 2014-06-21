@@ -1,3 +1,6 @@
+---
+title: spells/sunbeam
+---
  **Sunbeam**
 
 **School** evocation [light]; **Level** druid 7

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/bodyWords
+---
 ## Body Words
 
 Body words enhance the form of their targets, making them stronger, more agile, and more resilient.

@@ -1,3 +1,6 @@
+---
+title: monsters/ghoul
+---
 # Ghoul
 
 _This humanoid creature has long, sharp teeth, and its pallid flesh is stretched tightly over its starved frame._

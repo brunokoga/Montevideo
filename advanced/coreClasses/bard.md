@@ -1,3 +1,6 @@
+---
+title: advanced/coreClasses/bard
+---
 # Bard
 
 A good bard can sing the birds from the trees or talk a king into abdicating his throne. A jack of all trades, the bard sees little need to restrict himself to a single talent, picking up a little of this and a little of that, but always with a keen eye for other people and how they might be manipulated, whether through artistic performances or more mundane avenues. Presented below are several classic bardic themes.

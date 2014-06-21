@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/sard
+---
 # Sard
 
 This wriggling and leafless tree moves on spidery legs. Flickering motes of blood-red lightning dance in the cracks of its bark.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/concealingWords
+---
 ## Concealing Words
 
 Words from this family hide creatures and objects from observation and detection.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/illusionWords
+---
 ## Illusion Words
 
 These words deceive the senses, leaving those that witness them unsure of the world around them.

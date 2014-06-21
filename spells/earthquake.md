@@ -1,3 +1,6 @@
+---
+title: spells/earthquake
+---
  **Earthquake**
 
 **School** evocation [earth]; **Level** cleric 8, druid 8

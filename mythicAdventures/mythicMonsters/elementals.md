@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/elementals
+---
 # Elemental, Air
 
 _This living tornado draws in all the air that surrounds it, hurling unrestrained objects as it moves._

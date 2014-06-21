@@ -1,3 +1,6 @@
+---
+title: bestiary3/sasquatch
+---
 # Sasquatch
 
 Tall, burly, and hairy, this humanoid creature wields a large tree branch for a club and has a swinging, apelike gait.

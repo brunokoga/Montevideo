@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/delayPoison
+---
 Delay Poison, Communal
 
 **Level** alchemist 3, bard 3, cleric 3, druid 3, inquisitor 3, paladin 3, ranger 3, witch 3

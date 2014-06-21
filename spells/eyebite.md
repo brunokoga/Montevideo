@@ -1,3 +1,6 @@
+---
+title: spells/eyebite
+---
  **Eyebite**
 
 **School** necromancy; **Level** bard 6, sorcerer/wizard 6

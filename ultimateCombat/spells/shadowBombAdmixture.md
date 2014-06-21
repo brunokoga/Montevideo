@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/shadowBombAdmixture
+---
 Shadow Bomb Admixture
 
 **School** conjuration (creation); **Level** alchemist 2

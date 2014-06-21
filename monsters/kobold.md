@@ -1,3 +1,6 @@
+---
+title: monsters/kobold
+---
 # Kobold
 
 _This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail._

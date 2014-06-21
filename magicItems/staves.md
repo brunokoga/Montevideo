@@ -1,3 +1,6 @@
+---
+title: magicItems/staves
+---
 # Staves
 
 [Table: Staves]

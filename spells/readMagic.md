@@ -1,3 +1,6 @@
+---
+title: spells/readMagic
+---
  **Read Magic**
 
 **School** divination; **Level** bard 0, cleric 0, druid 0, paladin 1, ranger 1, sorcerer/wizard 0

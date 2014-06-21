@@ -1,3 +1,6 @@
+---
+title: spells/openClose
+---
  **Open/Close**
 
 **School** transmutation; **Level** bard 0, sorcerer/wizard 0

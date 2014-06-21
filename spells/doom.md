@@ -1,3 +1,6 @@
+---
+title: spells/doom
+---
  **Doom**
 
 **School** necromancy [fear, mind-affecting]; **Level** cleric 1

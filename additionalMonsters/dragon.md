@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/dragon
+---
 # Dragon, Primal
 
 Though chromatic and metallic dragons are the most widely known, other categories of true dragon exist. Presented on the following pages are the five primal dragons—powerful creatures that hail from the elemental planes and the Plane of Shadows.

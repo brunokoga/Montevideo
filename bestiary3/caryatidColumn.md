@@ -1,3 +1,6 @@
+---
+title: bestiary3/caryatidColumn
+---
 # Caryatid Column
 
 With its feet planted firmly together, this marble statue of a female warrior holding a stone sword rises up to support the ceiling.

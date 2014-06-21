@@ -1,3 +1,6 @@
+---
+title: nPCClasses
+---
 # Adept
 
 **Alignment** : Any.

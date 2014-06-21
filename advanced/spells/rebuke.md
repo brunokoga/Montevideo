@@ -1,3 +1,6 @@
+---
+title: advanced/spells/rebuke
+---
  **Rebuke**
 
 **School** evocation [sonic]; **Level** inquisitor 4

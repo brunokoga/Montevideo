@@ -1,3 +1,6 @@
+---
+title: spells/featherFall
+---
  **Feather Fall**
 
 **School** transmutation; **Level** bard 1, sorcerer/wizard 1

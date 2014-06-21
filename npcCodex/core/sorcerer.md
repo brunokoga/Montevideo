@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/sorcerer
+---
 # Sorcerers
 
 Mercenary Magician CR 1/2

@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/shoulders
+---
 # Shoulders Slot Wondrous Items
 
 The shoulders slot consists of capes, cloaks, cords, mantles, pauldrons, shawls, stoles, wings, and other items that can be worn on the shoulders.

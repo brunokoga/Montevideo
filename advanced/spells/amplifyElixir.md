@@ -1,3 +1,6 @@
+---
+title: advanced/spells/amplifyElixir
+---
  **Amplify Elixir**
 
 **School** transmutation; **Level** alchemist 3

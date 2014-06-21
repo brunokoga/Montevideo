@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/blindheim
+---
 # Blindheim
 
 The size of a short, stocky humanoid with webbed feet and claws, this frog-like creature has glowing white eyes.

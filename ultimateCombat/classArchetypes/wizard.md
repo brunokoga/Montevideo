@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/wizard
+---
 # Wizard
 
 While many wizards focus purely on casting and creating spells, there are some who experiment in fusing magic with alchemical and mechanical devices.

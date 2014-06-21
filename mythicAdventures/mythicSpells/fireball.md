@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/fireball
+---
 Fireball
 
 **Source** [_fireball_](spells/fireball.md#_fireball)

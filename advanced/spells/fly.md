@@ -1,3 +1,6 @@
+---
+title: advanced/spells/fly
+---
  **[Fly](../../skills/fly.md#_fly), Mass**
 
 **School** transmutation; **Level** sorcerer/wizard 7

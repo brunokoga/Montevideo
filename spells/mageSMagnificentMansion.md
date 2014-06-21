@@ -1,3 +1,6 @@
+---
+title: spells/mageSMagnificentMansion
+---
  **Mage's Magnificent Mansion**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 7

@@ -1,3 +1,6 @@
+---
+title: bestiary3/kongamato
+---
 # Kongamato
 
 A massive draconic creature with a birdlike head dives from the sky, letting loose a piercing scream as it descends.

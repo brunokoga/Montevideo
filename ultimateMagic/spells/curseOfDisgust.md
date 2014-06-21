@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/curseOfDisgust
+---
 Curse of Disgust
 
 **School** enchantment [compulsion, curse, emotion, mind-affecting]; **Level** bard 3, sorcerer/wizard 5, witch 5

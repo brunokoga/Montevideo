@@ -1,3 +1,6 @@
+---
+title: advanced/advancedRaces
+---
 # Races
 
 The choice of character race is foundational to designing a character, whether you want to work within established archetypes for that race or to intentionally play against them. Working with racial archetypes can be achieved with a bit of roleplaying—whether developing a unique personality and style for every character or adopting one as clichéd as a surly dwarf fighter with a huge axe and a tankard of ale. The seven player character races in the Pathfinder RPG—dwarves, elves, gnomes, half-elves, half-orcs, halflings, and humans—are no more uniform than are humans in the real world. This chapter is meant to offer game rules and options for how to reflect that diversity of attitude, heritage, and experience and how it affects the way the races interact with the various adventuring careers presented in the Pathfinder RPG core rules.

@@ -1,3 +1,6 @@
+---
+title: bestiary3/golem
+---
 # Golem, Bone
 
 This horrific humanoid figure is a mass of bones and skulls tied together with slick ropes of sinew.

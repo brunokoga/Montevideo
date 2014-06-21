@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/worg
+---
 # Worg
 
 _A terrifying [darkness](spells/darkness.md#_darkness) surrounds this giant wolf._

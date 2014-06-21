@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/mercane
+---
 # Mercane
 
 The tall, blue-skinned humanoid is clad in loose, flowing robes. Its alien face has too many eyes and its hands have too few fingers.

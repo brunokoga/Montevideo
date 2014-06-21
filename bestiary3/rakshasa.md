@@ -1,3 +1,6 @@
+---
+title: bestiary3/rakshasa
+---
 # Rakshasa
 
 Rakshasas are born on the Material Plane, but they are not of it. They possess the powers and shapes of fiends, but their fates are inexorably tied to the mortal world, and it is there that they seek to rule. The reincarnations of manipulators, traitors, and tyrants obsessed with earthly pleasures, rakshasas are the embodiments of the very nature of materialistic evil. After dying violent deaths, these spirits are so tied to worldly decadence and selfish concerns that they take shapes that better reflect the baseness of their lives and are reborn as fiends. Thus have sages come to know these beings as the “earthbound evils.”

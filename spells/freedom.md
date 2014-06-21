@@ -1,3 +1,6 @@
+---
+title: spells/freedom
+---
  **Freedom**
 
 **School** abjuration; **Level** sorcerer/wizard 9

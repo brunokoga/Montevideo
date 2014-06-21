@@ -1,3 +1,6 @@
+---
+title: skills/fly
+---
 # Fly
 
 ## ( [Dex](../gettingStarted.md#_dexterity); Armor Check Penalty)

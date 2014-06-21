@@ -1,3 +1,6 @@
+---
+title: spells/changestaff
+---
  **Changestaff**
 
 **School** transmutation; **Level** druid 7

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/zombie
+---
 # Zombie, Juju
 
 This wretched human figure has tight leathery skin, sunken eyes, and an emaciated frame, yet it moves with eerie alacrity.

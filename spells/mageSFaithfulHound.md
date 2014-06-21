@@ -1,3 +1,6 @@
+---
+title: spells/mageSFaithfulHound
+---
  **Mage's Faithful Hound**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 5

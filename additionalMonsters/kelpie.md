@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/kelpie
+---
 # Kelpie
 
 This hideous humanoid creature has slimy, transparent skin; webbed, humanoid hands; and a snaggletoothed, horse-like face.

@@ -1,3 +1,6 @@
+---
+title: spells/holyWord
+---
  **Holy Word**
 
 **School** evocation [good, sonic]; **Level** cleric 7

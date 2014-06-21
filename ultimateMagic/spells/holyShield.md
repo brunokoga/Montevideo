@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/holyShield
+---
 Holy Shield
 
 **School** abjuration; **Level** paladin 2

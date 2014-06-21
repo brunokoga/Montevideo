@@ -1,3 +1,6 @@
+---
+title: bestiary3/hellwaspSwarm
+---
 # Hellwasp Swarm
 
 This hideous, buzzing cloud of insects is comprised of black and yellow wasps with hungry red eyes.

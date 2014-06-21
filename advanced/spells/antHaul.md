@@ -1,3 +1,6 @@
+---
+title: advanced/spells/antHaul
+---
  **Ant Haul**
 
 **School** transmutation; **Level** alchemist 1, cleric 1, druid 1, ranger 1, sorcerer/wizard 1, summoner 1

@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/monk
+---
 # Monks
 
 Careful Initiate CR 1/2

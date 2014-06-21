@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/azata
+---
 # Azata, Brijidine
 
 This beautiful woman has flesh made of lava. She soars through the sky on a trail of fire.

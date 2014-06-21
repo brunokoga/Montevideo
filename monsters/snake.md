@@ -1,3 +1,6 @@
+---
+title: monsters/snake
+---
 # Snake, Constrictor
 
 _This large snake has a thick, muscular body and dull green scales decorated with dirty brown stripes._

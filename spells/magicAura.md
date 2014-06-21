@@ -1,3 +1,6 @@
+---
+title: spells/magicAura
+---
  **Magic Aura**
 
 **School** illusion (glamer); **Level** bard 1, sorcerer/wizard 1

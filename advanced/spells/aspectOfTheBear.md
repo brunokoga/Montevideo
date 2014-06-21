@@ -1,3 +1,6 @@
+---
+title: advanced/spells/aspectOfTheBear
+---
  **Aspect of the Bear**
 
 **School** transmutation (polymorph); **Level** druid 2, ranger 2

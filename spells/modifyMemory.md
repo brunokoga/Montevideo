@@ -1,3 +1,6 @@
+---
+title: spells/modifyMemory
+---
  **Modify Memory**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 4

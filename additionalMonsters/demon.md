@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/demon
+---
 # Demon, Kalavakus
 
 This muscular, violet demon walks upon elephantine feet. Large, razor-sharp horns cover its body.

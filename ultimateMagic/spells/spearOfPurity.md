@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/spearOfPurity
+---
 Spear of Purity
 
 **School** evocation [good]; **Level** cleric 2

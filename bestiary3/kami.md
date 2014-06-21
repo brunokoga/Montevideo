@@ -1,3 +1,6 @@
+---
+title: bestiary3/kami
+---
 # Kami
 
 Kami are ancient, mystical, and otherworldly spirits created eons ago by the gods. Originally intended as guardians of those parts of nature that could not protect themselves, kami have proven remarkably adaptive. As the nature of reality changes, so do the kami.

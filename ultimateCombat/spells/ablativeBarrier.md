@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/ablativeBarrier
+---
 Ablative Barrier
 
 **School** conjuration (creation) [force]; **Level** alchemist 2, magus 2, sorcerer/wizard 3, summoner 2

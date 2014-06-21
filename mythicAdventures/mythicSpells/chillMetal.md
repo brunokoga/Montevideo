@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/chillMetal
+---
 Chill Metal
 
 **Source** [_chill metal_](spells/chillMetal.md#_chill-metal)

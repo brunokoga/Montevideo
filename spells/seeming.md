@@ -1,3 +1,6 @@
+---
+title: spells/seeming
+---
  **Seeming**
 
 **School** illusion (glamer); **Level** bard 5, sorcerer/wizard 5

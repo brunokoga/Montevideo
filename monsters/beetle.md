@@ -1,3 +1,6 @@
+---
+title: monsters/beetle
+---
 # Beetle, Fire
 
 _This housecat-sized beetle is a dull brown color brightened by two glowing green-yellow spots on its carapace._

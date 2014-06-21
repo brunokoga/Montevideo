@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/magicArmsAndArmor/armorSpecialAbilities
+---
 # Armor Special Abilities
 
 Enchanted armor is one of the most important things an adventurer can acquire—for what good is wealth and power when a dragon claw rips through your breastplate?

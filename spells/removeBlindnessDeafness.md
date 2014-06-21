@@ -1,3 +1,6 @@
+---
+title: spells/removeBlindnessDeafness
+---
  **Remove Blindness/Deafness**
 
 **School** conjuration (healing); **Level** cleric 3, paladin 3

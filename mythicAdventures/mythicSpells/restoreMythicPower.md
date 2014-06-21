@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/restoreMythicPower
+---
 Restore Mythic Power
 
 **School** transmutation; **Level** bard 3, cleric 3, sorcerer/wizard 3, witch 3

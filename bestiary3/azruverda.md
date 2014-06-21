@@ -1,3 +1,6 @@
+---
+title: bestiary3/azruverda
+---
 # Azruverda
 
 A humanoid head peers forth from this enormous creature's beautifully iridescent, spike-covered beetle carapace.

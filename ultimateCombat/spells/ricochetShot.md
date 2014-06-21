@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/ricochetShot
+---
 Ricochet Shot
 
 **School** evocation; **Level** ranger 2, sorcerer/wizard 2

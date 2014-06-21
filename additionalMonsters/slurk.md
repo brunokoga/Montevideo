@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/slurk
+---
 # Slurk 
 
 This disgusting beast looks like a slime-covered toad, but with two walrus-like tusks jutting from its upper jaw.

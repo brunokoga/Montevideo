@@ -1,3 +1,6 @@
+---
+title: spells/spellResistance
+---
  **Spell Resistance**
 
 **School** abjuration; **Level** cleric 5

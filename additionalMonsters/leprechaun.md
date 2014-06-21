@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/leprechaun
+---
 # Leprechaun
 
 This small humanoid has pointed ears, green eyes, and a wicked grin. He carries a bottle in one hand and a club in the other.

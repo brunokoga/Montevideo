@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/animateDead
+---
 Animate Dead
 
 **Source** [_animate dead_](spells/animateDead.md#_animate-dead)

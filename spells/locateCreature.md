@@ -1,3 +1,6 @@
+---
+title: spells/locateCreature
+---
  **Locate Creature**
 
 **School** divination; **Level** bard 4, sorcerer/wizard 4

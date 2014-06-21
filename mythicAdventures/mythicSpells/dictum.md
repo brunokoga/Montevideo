@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/dictum
+---
 Dictum
 
 **Source** [_dictum_](spells/dictum.md#_dictum)

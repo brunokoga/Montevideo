@@ -1,3 +1,6 @@
+---
+title: bestiary3/parasite
+---
 # Parasite, Rot Grub Swarm
 
 This nauseating carpet of wriggling white grubs undulates outward in a pallid wave of hunger.

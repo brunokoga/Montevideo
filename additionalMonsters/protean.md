@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/protean
+---
 # Protean 
 
 Beings of pure chaos, the serpentine proteans slither through the anarchic improbabilities of Limbo, remaking reality according to their whims. According to their own history, they were already here when the first gods pulled forth the other planes from raw chaos—and they have been battling against the indignity ever since. Hereditary and ideological enemies of Axis, Heaven, and Hell, and especially of the residents of those planes, all proteans see it as their sacred duty to return the bland, static expanses of mundane reality to the beautiful incongruities of Limbo, for the planes' own good and for the greater glory of their mysterious god, a dualistic deity which may be a living aspect of Limbo itself. They are Limbo's living, breathing immune system, rooting out infections of mundanity and replacing them with beautiful entropy.

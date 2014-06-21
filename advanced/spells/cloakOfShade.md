@@ -1,3 +1,6 @@
+---
+title: advanced/spells/cloakOfShade
+---
  **Cloak of Shade**
 
 **School** abjuration; **Level** druid 1, ranger 1

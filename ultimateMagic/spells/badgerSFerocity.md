@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/badgerSFerocity
+---
 Badger's Ferocity
 
 **School** transmutation; **Level** cleric 3, druid 3, ranger 2, sorcerer/wizard 2

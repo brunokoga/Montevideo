@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/wallOfThorns
+---
 Wall of Thorns
 
 **Source** [_wall of thorns_](spells/wallOfThorns.md#_wall-of-thorns)

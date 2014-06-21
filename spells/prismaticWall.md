@@ -1,3 +1,6 @@
+---
+title: spells/prismaticWall
+---
  **Prismatic Wall**
 
 **School** abjuration; **Level** sorcerer/wizard 8

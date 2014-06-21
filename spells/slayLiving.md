@@ -1,3 +1,6 @@
+---
+title: spells/slayLiving
+---
  **Slay Living**
 
 **School** necromancy [death]; **Level** cleric 5

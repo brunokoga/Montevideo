@@ -1,3 +1,6 @@
+---
+title: spells/simulacrum
+---
  **Simulacrum**
 
 **School** illusion (shadow); **Level** sorcerer/wizard 7

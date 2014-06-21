@@ -1,3 +1,6 @@
+---
+title: spells/falseLife
+---
  **False Life**
 
 **School** necromancy; **Level** sorcerer/wizard 2

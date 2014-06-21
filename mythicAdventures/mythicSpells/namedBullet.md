@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/namedBullet
+---
 Named Bullet
 
 **Source** [_named bullet_](ultimateCombat/spells/namedBullet.md#_named-bullet)

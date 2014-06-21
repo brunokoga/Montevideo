@@ -1,3 +1,6 @@
+---
+title: spells/darkvision
+---
  **Darkvision**
 
 **School** transmutation; **Level** ranger 3, sorcerer/wizard 2

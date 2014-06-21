@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/fogCloud
+---
 Fog Cloud
 
 **Source** [_fog cloud_](spells/fogCloud.md)

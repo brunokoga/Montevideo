@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/rainOfFrogs
+---
 Rain of Frogs
 
 **School** conjuration (summoning); **Level** bard 3, druid 3, sorcerer/wizard 3, summoner 3, witch 3

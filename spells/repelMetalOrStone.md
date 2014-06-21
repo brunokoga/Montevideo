@@ -1,3 +1,6 @@
+---
+title: spells/repelMetalOrStone
+---
  **Repel Metal or Stone**
 
 **School** abjuration [earth]; **Level** druid 8

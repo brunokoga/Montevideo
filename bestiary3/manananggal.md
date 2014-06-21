@@ -1,3 +1,6 @@
+---
+title: bestiary3/manananggal
+---
 # Manananggal
 
 This disembodied female torso flaps through the air on batlike wings, her fanged face a hateful mask.

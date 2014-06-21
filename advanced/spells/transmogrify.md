@@ -1,3 +1,6 @@
+---
+title: advanced/spells/transmogrify
+---
  **Transmogrify**
 
 **School** transmutation; **Level** summoner 4

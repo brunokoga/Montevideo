@@ -1,3 +1,6 @@
+---
+title: npcCodex/prestige/duelist
+---
 # Duelists
 
 Tribal Champion CR 8

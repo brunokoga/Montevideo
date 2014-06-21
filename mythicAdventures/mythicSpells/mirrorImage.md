@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/mirrorImage
+---
 Mirror Image
 
 **Source** [_mirror image_](spells/mirrorImage.md#_mirror-image)

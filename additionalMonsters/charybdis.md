@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/charybdis
+---
 # Charybdis
 
 An immense spiny monster, its back plated in chitin and its belly in thick folds of blubber, rises hungrily from the center of a whirlpool.

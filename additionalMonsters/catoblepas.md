@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/catoblepas
+---
 # Catoblepas
 
 This ugly creature has a boar-like head with short antlers, a thick bullish body covered in spines, and cloven hooves on its stumpy legs.

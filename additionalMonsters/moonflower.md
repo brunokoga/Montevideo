@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/moonflower
+---
 # Moonflower
 
 A twisted trunk clustered with bulbous blossoms holds up a gaping mouth ready to swallow a victim whole.

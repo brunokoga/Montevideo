@@ -1,3 +1,6 @@
+---
+title: bestiary3/daemon
+---
 # Daemon, Crucidaemon
 
 Its body seemingly made of iron, this shapely feminine form has wrists pierced by chains that end in curved blades.

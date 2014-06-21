@@ -1,3 +1,6 @@
+---
+title: bestiary3/grootslang
+---
 # Grootslang
 
 This enormous beast has the combined features of an elephant and a serpent. Its tremendous maw sports six frightening tusks.

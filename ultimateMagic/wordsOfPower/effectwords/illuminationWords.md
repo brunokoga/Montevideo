@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/illuminationWords
+---
 ## Illumination Words
 
 Illumination words can either create light or siphon it away, instead creating darkness.

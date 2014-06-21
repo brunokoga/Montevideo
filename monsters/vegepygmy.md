@@ -1,3 +1,6 @@
+---
+title: monsters/vegepygmy
+---
 # Vegepygmy
 
 _Short, thin, and green, this small humanoid wields a spear. Tendrils of fungus dangle from its arms, midsection, and legs._

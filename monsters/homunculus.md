@@ -1,3 +1,6 @@
+---
+title: monsters/homunculus
+---
 # Homunculus
 
 _This vaguely humanoid creature is about the size of a cat but looks more like a toothy, winged devil._

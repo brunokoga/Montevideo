@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/lamia
+---
 # Lamia
 
 _This creature has the head and upper body of a beautiful woman, the lower body of a lion, and long, serpentine tail._

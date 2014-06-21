@@ -1,3 +1,6 @@
+---
+title: spells/fly
+---
  **Fly**
 
 **School** transmutation; **Level** sorcerer/wizard 3

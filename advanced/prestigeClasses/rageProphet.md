@@ -1,3 +1,6 @@
+---
+title: advanced/prestigeClasses/rageProphet
+---
 # Rage Prophet
 
 Throughout the wilderness, there are those warriors whose powers are infused by the spirits, who see and hear into the world beyond and draw unthinkable reserves of power from it. They are the chosen of the gods, and they often hold status nearly equal to that of a chief or shaman in a typical tribe, or sometimes even exceeding this. Rage prophets can dispense advice through their communion with the spirits and ability to divine the future.

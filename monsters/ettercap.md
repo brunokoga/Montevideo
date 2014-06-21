@@ -1,3 +1,6 @@
+---
+title: monsters/ettercap
+---
 # Ettercap
 
 _This hideous purple creature walks upright like a man, but its face is that of a spider, and its hands are sickle-shaped claws._

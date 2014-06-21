@@ -1,3 +1,6 @@
+---
+title: bestiary3/hollowSerpent
+---
 # Hollow Serpent
 
 This creature looks like an oversized, empty snakeskin, its body covered in barbs and maw filled with jagged teeth.

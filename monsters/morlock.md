@@ -1,3 +1,6 @@
+---
+title: monsters/morlock
+---
 # Morlock
 
 _Skin pale as a slug's belly, eyes huge and bulging, this thing crawls down the wall like a spider, but its shape is hideously humanoid. _

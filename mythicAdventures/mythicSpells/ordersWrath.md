@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/ordersWrath
+---
 Order's Wrath
 
 **Source** [_order's wrath_](spells/orderSWrath.md#_order-s-wrath)

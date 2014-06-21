@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/changestaff
+---
 Changestaff
 
 **Source** [_changestaff_](spells/changestaff.md#_changestaff)

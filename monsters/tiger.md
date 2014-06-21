@@ -1,3 +1,6 @@
+---
+title: monsters/tiger
+---
 # Tiger
 
 _This powerful feline predator moves with a deadly grace, its reddish-orange fur slashed with black stripes. _

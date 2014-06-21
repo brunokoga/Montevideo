@@ -1,3 +1,6 @@
+---
+title: spells/deepSlumber
+---
  **Deep Slumber**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, sorcerer/wizard 3

@@ -1,3 +1,6 @@
+---
+title: skills/stealth
+---
 # Stealth
 
 ## ( [Dex](../gettingStarted.md#_dexterity); Armor Check Penalty)

@@ -1,3 +1,6 @@
+---
+title: monsters/rat
+---
 # Rat, Dire
 
 _This filthy rat is the size of a small dog. It has a coat of coarse fur, a long and scabby tail, and two glittering eyes._

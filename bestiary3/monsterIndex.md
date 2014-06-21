@@ -1,3 +1,6 @@
+---
+title: bestiary3/monsterIndex
+---
 # Bestiary 3 Monster Index
 
 A B C D E F G H I J K L M N O P R S T V W Y Z

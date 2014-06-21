@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/sorcerer
+---
 # Sorcerer
 
 Sorcerous power is, by its very nature, a strange and unpredictable thing, the result of mysterious magical heritages and the intermingling of creatures both legendary and mundane. With the magical legacies flowing through their veins, sorcerers can undertake great works capable of placing them forever in the halls of heroes—or laying waste to all around them.

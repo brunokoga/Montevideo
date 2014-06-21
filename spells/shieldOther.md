@@ -1,3 +1,6 @@
+---
+title: spells/shieldOther
+---
  **Shield Other**
 
 **School** abjuration; **Level** cleric 2, paladin 2

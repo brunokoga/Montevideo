@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/guardsAndWards
+---
 Guards and Wards
 
 **Source** [_guards and wards_](spells/guardsAndWards.md#_guards-and-wards)

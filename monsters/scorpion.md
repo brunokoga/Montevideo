@@ -1,3 +1,6 @@
+---
+title: monsters/scorpion
+---
 # Scorpion, Giant
 
 _The sixteen-foot-long scorpion scrabbles forward, ferocious claws raised in challenge, stingered tail arched over its back._

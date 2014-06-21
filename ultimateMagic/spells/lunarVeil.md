@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/lunarVeil
+---
 Lunar Veil
 
 **School** illusion (shadow) [darkness, shadow]; **Level** cleric 7, sorcerer/wizard 7, witch 7

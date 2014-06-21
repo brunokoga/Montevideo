@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/monstrousPhysique
+---
 Monstrous Physique I
 
 **School** transmutation (polymorph); **Level** alchemist 3, magus 3, sorcerer/wizard 3

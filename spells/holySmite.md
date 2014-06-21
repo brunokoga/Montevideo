@@ -1,3 +1,6 @@
+---
+title: spells/holySmite
+---
  **Holy Smite**
 
 **School** evocation [good]; **Level** cleric 4

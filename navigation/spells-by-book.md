@@ -1,3 +1,6 @@
+---
+title: navigation/spells-by-book
+---
 - Core Rulebook
 - Advanced Players Guide
 - Ultimate Magic

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/blisteringInvective
+---
 Blistering Invective
 
 **Source** [_blistering invective_](ultimateCombat/spells/blisteringInvective.md#_blistering-invective)

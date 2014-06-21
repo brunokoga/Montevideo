@@ -1,3 +1,6 @@
+---
+title: spells/treeShape
+---
  **Tree Shape**
 
 **School** transmutation; **Level** druid 2, ranger 3

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/iceStorm
+---
 Ice Storm
 
 **Source** [_ice storm_](spells/iceStorm.md#_ice-storm)

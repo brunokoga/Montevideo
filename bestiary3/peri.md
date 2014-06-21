@@ -1,3 +1,6 @@
+---
+title: bestiary3/peri
+---
 # Peri
 
 This beautiful albino woman is wreathed in wings of brilliant flame.

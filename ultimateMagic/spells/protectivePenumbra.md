@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/protectivePenumbra
+---
 Protective Penumbra
 
 **School** evocation [darkness]; **Level** cleric 2, sorcerer/wizard 2, witch 2

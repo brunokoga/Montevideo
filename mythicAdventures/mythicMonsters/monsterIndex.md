@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/monsterIndex
+---
 # Mythic Monster Index
 
 A B C D E G H L M O P R S T V W

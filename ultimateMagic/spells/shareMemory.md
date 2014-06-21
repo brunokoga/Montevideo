@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/shareMemory
+---
 Share Memory
 
 **School** divination; **Level** bard 2, sorcerer/wizard 2, witch 2

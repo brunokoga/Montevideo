@@ -1,3 +1,6 @@
+---
+title: monsters/leech
+---
 # Leech, Giant
 
 _A parasite ballooned to monstrous proportions undulates in the muck, its circular maw a spiral of teeth._

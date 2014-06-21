@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/aranea
+---
 # Aranea
 
 This bloated spider has a hunchbacked body and a gleam of intelligence in its multiple eyes.

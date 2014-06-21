@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/sylph
+---
 # Sylph
 
 This pale, waifish woman, her hair waving in a nonexistent breeze, looks as if she might fade away into mist entirely at any minute.

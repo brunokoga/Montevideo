@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/cagingBombAdmixture
+---
 Caging Bomb Admixture
 
 **School** evocation [force]; **Level** alchemist 6

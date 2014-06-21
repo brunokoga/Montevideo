@@ -1,3 +1,6 @@
+---
+title: advanced/spells/venomousBolt
+---
  **Venomous Bolt**
 
 **School** necromancy; **Level** ranger 3

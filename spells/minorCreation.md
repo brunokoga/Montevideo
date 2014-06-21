@@ -1,3 +1,6 @@
+---
+title: spells/minorCreation
+---
  **Minor Creation**
 
 **School** conjuration (creation); **Level** sorcerer/wizard 4

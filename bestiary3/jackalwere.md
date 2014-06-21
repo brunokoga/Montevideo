@@ -1,3 +1,6 @@
+---
+title: bestiary3/jackalwere
+---
 # Jackalwere
 
 This armored humanoid has a jackal's head, bulging muscles, and a gaze that makes the world drift away.

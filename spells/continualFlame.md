@@ -1,3 +1,6 @@
+---
+title: spells/continualFlame
+---
  **Continual Flame**
 
 **School** evocation [light]; **Level** cleric 3, sorcerer/wizard 2

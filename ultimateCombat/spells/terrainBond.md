@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/terrainBond
+---
 Terrain Bond
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** ranger 4

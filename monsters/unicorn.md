@@ -1,3 +1,6 @@
+---
+title: monsters/unicorn
+---
 # Unicorn
 
 _This magnificent beast looks like a white horse, but with a goat's beard and a single long ivory horn on its brow._

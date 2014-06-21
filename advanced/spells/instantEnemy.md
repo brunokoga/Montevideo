@@ -1,3 +1,6 @@
+---
+title: advanced/spells/instantEnemy
+---
  **Instant Enemy**
 
 **School** enchantment; **Level** ranger 3

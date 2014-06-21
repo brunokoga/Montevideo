@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/nightshade
+---
 # Nightshade
 
 The malevolent nightshades are a mysterious form of necrotic abominations composed of equal parts darkness and ineffable evil. They are living wells of hatred and death, their mere presence sapping the light, heat, and life from all around them, leaving nothing but the heavy, hanging pallor of an open grave in their passing. To nightshades, life is a corruption and a blight. Creation must be purged of this disruption, so that all existence can be welcomed into the sweet embrace of darkness and death. To this end, nightshades seek nothing less than the annihilation of all that is, that was, and that will be.

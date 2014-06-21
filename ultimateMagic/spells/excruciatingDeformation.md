@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/excruciatingDeformation
+---
 Excruciating Deformation
 
 **School** transmutation (polymorph) [evil, pain]; **Level** sorcerer/wizard 3, witch 3

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/naturalRhythm
+---
  **Natural Rhythm**
 
 **School** transmutation; **Level** druid 2

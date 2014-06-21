@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/goodberry
+---
 Goodberry
 
 **Source** [_goodberry_](spells/goodberry.md#_goodberry)

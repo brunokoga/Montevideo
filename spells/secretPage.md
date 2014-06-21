@@ -1,3 +1,6 @@
+---
+title: spells/secretPage
+---
  **Secret Page**
 
 **School** transmutation; **Level** bard 3, sorcerer/wizard 3

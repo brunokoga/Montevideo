@@ -1,3 +1,6 @@
+---
+title: spells/command
+---
  **Command**
 
 **School** enchantment (compulsion) [language-dependent, mind-affecting]; **Level** cleric 1

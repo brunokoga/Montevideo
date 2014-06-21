@@ -1,3 +1,6 @@
+---
+title: skills/intimidate
+---
 # Intimidate
 
 ## ( [Cha](../gettingStarted.md#_charisma-new))

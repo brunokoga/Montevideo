@@ -1,3 +1,6 @@
+---
+title: skills/useMagicDevice
+---
 # Use Magic Device
 
 ## ( [Cha](../gettingStarted.md#_charisma-new); Trained Only)

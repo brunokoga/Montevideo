@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/terraform
+---
 Terraform
 
 **School** transmutation; **Level** cleric 7, druid 6, sorcerer/wizard 7, witch 7

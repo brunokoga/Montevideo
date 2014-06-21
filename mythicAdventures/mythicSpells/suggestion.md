@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/suggestion
+---
 Suggestion
 
 **Source** [_suggestion_](spells/suggestion.md#_suggestion)

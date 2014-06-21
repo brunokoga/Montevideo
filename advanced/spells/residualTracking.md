@@ -1,3 +1,6 @@
+---
+title: advanced/spells/residualTracking
+---
  **Residual Tracking**
 
 **School** divination; **Level** ranger 1

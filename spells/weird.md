@@ -1,3 +1,6 @@
+---
+title: spells/weird
+---
  **Weird**
 
 **School** illusion (phantasm) [fear, mind-affecting]; **Level** sorcerer/wizard 9

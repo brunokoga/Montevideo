@@ -1,3 +1,6 @@
+---
+title: spells/mageArmor
+---
  **Mage Armor**
 
 **School** conjuration (creation) [force]; **Level** sorcerer/wizard 1

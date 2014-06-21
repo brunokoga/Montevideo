@@ -1,3 +1,6 @@
+---
+title: spells/polarRay
+---
  **Polar Ray**
 
 **School** evocation [cold]; **Level** sorcerer/wizard 8

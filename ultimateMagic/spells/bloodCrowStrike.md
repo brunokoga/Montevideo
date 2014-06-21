@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/bloodCrowStrike
+---
 Blood Crow Strike
 
 **School** evocation [fire]; **Level** cleric 4

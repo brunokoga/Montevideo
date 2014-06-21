@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/fumbletongue
+---
 Fumbletongue
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, witch 1

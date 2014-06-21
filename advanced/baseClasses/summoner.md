@@ -1,3 +1,6 @@
+---
+title: advanced/baseClasses/summoner
+---
 # Summoner
 
 While many who dabble in the arcane become adept at beckoning monsters from the farthest reaches of the planes, none are more skilled at it than the summoner. This practitioner of the arcane arts forms a close bond with one particular outsider, known as an eidolon, who gains power as the summoner becomes more proficient at his summoning. Over time, the two become linked, eventually even sharing a shard of the same soul. But this power comes with a price: the summoner's spells and abilities are limited due to his time spent enhancing the power and exploring the nature of his eidolon.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/rayOfSickening
+---
 Ray of Sickening
 
 **School** necromancy; **Level** cleric 1, druid 1, sorcerer/wizard 1, summoner 1, witch 1

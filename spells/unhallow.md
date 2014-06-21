@@ -1,3 +1,6 @@
+---
+title: spells/unhallow
+---
  **Unhallow**
 
 **School** evocation [evil]; **Level** cleric 5, druid 5

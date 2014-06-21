@@ -1,3 +1,6 @@
+---
+title: monsters/chimera
+---
 # Chimera
 
 _This winged monster has the body of a lion, though two more heads flank its central feline one—a dragon and a horned goat._

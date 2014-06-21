@@ -1,3 +1,6 @@
+---
+title: advanced/spells/campfireWall
+---
  **Campfire Wall**
 
 **School** evocation [fire, light]; **Level** bard 3, druid 2, ranger 2, sorcerer/wizard 3

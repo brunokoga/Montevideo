@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/coliseum
+---
 # Coliseum
 
 Whether exotic warriors hired to perform as entertainers or skilled criminals forced to fight for survival, the combatants of coliseums face dire threats for the enjoyment of throngs of spectators. Such characters might serve a variety of roles, and one day's allies might be the next day's opponents. In all cases, these characters live to do battle and survive only by their brutality and skill, spreading blood upon arena sands, prison yards, or savage battlefields, or wherever they pass.

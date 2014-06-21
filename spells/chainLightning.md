@@ -1,3 +1,6 @@
+---
+title: spells/chainLightning
+---
  **Chain Lightning**
 
 **School** evocation [electricity]; **Level** sorcerer/wizard 6

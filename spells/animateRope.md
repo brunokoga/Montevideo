@@ -1,3 +1,6 @@
+---
+title: spells/animateRope
+---
  **Animate Rope**
 
 **School** transmutation; **Level** bard 1, sorcerer/wizard 1

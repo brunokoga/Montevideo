@@ -1,3 +1,6 @@
+---
+title: spells/persistentImage
+---
  **Persistent Image**
 
 **School** illusion (figment); **Level** bard 5, sorcerer/wizard 5

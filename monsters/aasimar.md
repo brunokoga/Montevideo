@@ -1,3 +1,6 @@
+---
+title: monsters/aasimar
+---
 # Aasimar
 
 _This supernaturally beautiful woman looks human, yet emanates a strange sense of calm and benevolence._

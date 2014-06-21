@@ -1,3 +1,6 @@
+---
+title: spells/detectThoughts
+---
  **Detect Thoughts**
 
 **School** divination [mind-affecting]; **Level** bard 2, sorcerer/wizard 2

@@ -1,3 +1,6 @@
+---
+title: monsters/lamia
+---
 # Lamia
 
 _This creature's upper torso is that of a comely woman with cat's eyes and sharp fangs, while her lower body is that of a lion._

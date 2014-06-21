@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/earthquake
+---
 Earthquake
 
 **Source** [_earthquake_](spells/earthquake.md#_earthquake)

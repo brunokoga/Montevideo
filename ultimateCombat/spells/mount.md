@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/mount
+---
 Mount, Communal
 
 **Level** magus 2, sorcerer/wizard 2, summoner 2, witch 2

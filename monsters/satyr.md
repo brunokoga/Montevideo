@@ -1,3 +1,6 @@
+---
+title: monsters/satyr
+---
 # Satyr
 
 _This handsome, grinning man has the furry legs of a goat and a set of curling ram horns extending from his temples._

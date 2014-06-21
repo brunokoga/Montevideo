@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/coreRaces
+---
 # Core Races
 
 Race is an important part of what makes characters who they are, yet it's often all too easy to gloss over the details. After all, most people know the basics: dwarves are short, elves live a long time, and gnomes are dangerously curious. Half-orcs are ugly. Humans are—well, human. To some players, choosing a race is simply a matter of finding which racial modifiers best fit a character's class.

@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/wondrousItems/belts
+---
 # Belt Slot Wondrous Items
 
 The belt category includes belts, scabbards and other items worn on or around the waist.

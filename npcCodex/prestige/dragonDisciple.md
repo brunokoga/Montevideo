@@ -1,3 +1,6 @@
+---
+title: npcCodex/prestige/dragonDisciple
+---
 # Dragon Disciples
 
 Storm Prophet CR 8

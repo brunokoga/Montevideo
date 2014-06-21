@@ -1,3 +1,6 @@
+---
+title: spells/repelWood
+---
  **Repel Wood**
 
 **School** transmutation; **Level** druid 6

@@ -1,3 +1,6 @@
+---
+title: monsters/otyugh
+---
 # Otyugh
 
 _This three-legged freak is mostly mouth. Three tentacles, two tipped with barbs and one with eyes, extend from its sides. _

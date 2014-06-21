@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/stinkingCloud
+---
 Stinking Cloud
 
 **Source** [_stinking cloud_](spells/stinkingCloud.md#_stinking-cloud)

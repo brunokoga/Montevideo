@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/characterBackground/adulthood
+---
 # Adulthood
 
 When you reach biological maturity, undergo the final initiation rites of adolescence, or reach the age of legal responsibility in your culture, you're considered an adult. At this point, you're the sum of all the feelings, experiences, and choices you have made from birth through adolescence. You are capable of analyzing your past, and your emotional and intellectual response to your experiences shapes your moral and ethical view of the world.

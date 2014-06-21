@@ -1,3 +1,6 @@
+---
+title: spells/passWithoutTrace
+---
  **Pass without Trace**
 
 **School** transmutation; **Level** druid 1, ranger 1

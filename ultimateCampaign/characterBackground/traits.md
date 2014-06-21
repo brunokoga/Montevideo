@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/characterBackground/traits
+---
 # Traits
 
 Character traits are abilities that are not tied to your race or class. They can enhance your skills, racial abilities, class abilities, or other statistics, allowing you further customization.

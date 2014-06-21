@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-druid
+---
 - [**Create Water**](spells/createWater.md#_create-water)
 - [**Detect Magic**](spells/detectMagic.md#_detect-magic)
 - [**Detect Poison**](spells/detectPoison.md#_detect-poison)

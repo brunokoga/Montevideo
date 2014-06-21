@@ -1,3 +1,6 @@
+---
+title: bestiary3/drake
+---
 # Drake, Desert
 
 This sleek dragon has scales mottled in desert colors, lacks forelimbs, and sports massive wings on its lissome back.

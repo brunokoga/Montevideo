@@ -1,3 +1,6 @@
+---
+title: spells/summonInstrument
+---
  **Summon Instrument**
 
 **School** conjuration (summoning); **Level** bard 0

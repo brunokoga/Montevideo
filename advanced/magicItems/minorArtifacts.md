@@ -1,3 +1,6 @@
+---
+title: advanced/magicItems/minorArtifacts
+---
 # Minor Artifacts
 
 Minor artifacts are not necessarily unique items. Even so, they are magic items that can no longer be created, at least by common mortal means.

@@ -1,3 +1,6 @@
+---
+title: spells/prismaticSpray
+---
  **Prismatic Spray**
 
 **School** evocation; **Level** sorcerer/wizard 7

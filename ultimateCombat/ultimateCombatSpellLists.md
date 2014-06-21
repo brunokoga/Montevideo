@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/ultimateCombatSpellLists
+---
 # Spell Lists
 
 Blasts of explosive energies, eldritch enhancements, and allies summoned from other realities often prove just as vital to success in battle as skill with a blade and precision with a bow. The lists presented here summarize all of the new spells presented in this book, except for spells that interact with the optional wounds and vitality subsystem. The spells for this subsystem are presented in that section.

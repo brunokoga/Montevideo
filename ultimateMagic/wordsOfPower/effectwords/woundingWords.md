@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/woundingWords
+---
 ## Wounding Words
 
 Wounding words afflict the target with cuts and bruises, causing pain and tearing at its flesh.

@@ -1,3 +1,6 @@
+---
+title: bestiary3/crab
+---
 # Crab, Shark-Eating
 
 This spiny, long-legged crab towers over its surroundings. Its quick and powerful claws thrash wildly, eager for prey.

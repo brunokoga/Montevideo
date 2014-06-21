@@ -1,3 +1,6 @@
+---
+title: monsters/yellowMuskCreeper
+---
 # Yellow Musk Creeper
 
 _Coiling around several human skeletons, this wet green plant's sickly flowers smoke with a nasty yellow vapor._

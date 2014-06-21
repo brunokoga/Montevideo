@@ -1,3 +1,6 @@
+---
+title: spells/burningHands
+---
  **Burning Hands**
 
 **School** evocation [fire]; **Level** sorcerer/wizard 1

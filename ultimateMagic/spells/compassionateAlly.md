@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/compassionateAlly
+---
 Compassionate Ally
 
 **School** enchantment (compulsion) [emotion, mind-affecting]; **Level** bard 2; cleric 2, sorcerer/wizard 2

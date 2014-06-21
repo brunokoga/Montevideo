@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/cursedEarth
+---
 Cursed Earth
 
 **School** necromancy [curse, evil; see text]; **Level** cleric 9, sorcerer/wizard 9, witch 9

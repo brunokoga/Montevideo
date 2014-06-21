@@ -1,3 +1,6 @@
+---
+title: advanced/spells/threefoldAspect
+---
  **Threefold Aspect**
 
 **School** transmutation; **Level** druid 5, witch 4

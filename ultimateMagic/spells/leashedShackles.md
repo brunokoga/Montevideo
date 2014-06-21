@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/leashedShackles
+---
 Leashed Shackles
 
 **School** evocation [force]; **Level** inquisitor 4, sorcerer/wizard 6

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/shadowbard
+---
 Shadowbard
 
 School illusion (shadow) [shadow]; **Level** bard 5

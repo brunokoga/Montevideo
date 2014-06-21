@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/rakshasa
+---
 # Rakshasa
 
 _Fine jewelry and clothing accentuate this tiger-headed figure's striped fur and formidable fangs. _

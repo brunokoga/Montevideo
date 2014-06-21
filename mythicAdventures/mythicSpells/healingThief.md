@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/healingThief
+---
 Healing Thief
 
 **Source** [_healing thief_](ultimateCombat/spells/healingThief.md#_healing-thief)

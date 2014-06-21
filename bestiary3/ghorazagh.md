@@ -1,3 +1,6 @@
+---
+title: bestiary3/ghorazagh
+---
 # Ghorazagh
 
 With an armored spherical body, numerous tentacular legs, and a multi-eyed visage, this creature is truly hideous.

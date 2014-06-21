@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/phantomSteed
+---
 Phantom Steed, Communal
 
 **Level** bard 4, sorcerer/wizard 4, summoner 3

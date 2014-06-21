@@ -1,3 +1,6 @@
+---
+title: spells/planarAlly
+---
  **Planar Ally**
 
 **School** conjuration (calling) [see text for _lesser planar ally_]; **Level** cleric 6

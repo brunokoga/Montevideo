@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/devil
+---
 # Devil, Accuser
 
 This childlike blasphemy conjoins the features of a plump human infant and a gigantic, gore-fattened fly.

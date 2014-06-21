@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/blessingOfFervor
+---
 Blessing of Fervor
 
 **Source** [_blessing of fervor_](advanced/spells/blessingOfFervor.md#_blessing-of-fervor)

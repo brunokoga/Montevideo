@@ -1,3 +1,6 @@
+---
+title: advanced/spells/oathOfPeace
+---
  **Oath of Peace**
 
 **School** abjuration; **Level** paladin 4

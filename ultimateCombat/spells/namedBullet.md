@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/namedBullet
+---
 Named Bullet
 
 **School** divination; **Level** inquisitor 4, ranger 3, sorcerer/wizard 4, witch 4

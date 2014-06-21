@@ -1,3 +1,6 @@
+---
+title: advanced/spells/fireSnake
+---
  **Fire Snake**
 
 **School** evocation [fire]; **Level** druid 5, sorcerer/wizard 5

@@ -1,3 +1,6 @@
+---
+title: monsters/rustMonster
+---
 # Rust Monster
 
 _This insectile monster has four legs, a strange propeller-shaped protrusion at the end of its tail, and two long, feathery antennae._

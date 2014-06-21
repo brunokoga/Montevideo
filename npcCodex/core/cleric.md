@@ -1,3 +1,6 @@
+---
+title: npcCodex/core/cleric
+---
 # Clerics
 
 Mercenary Healer CR 1/2

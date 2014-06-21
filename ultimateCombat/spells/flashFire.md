@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/flashFire
+---
 Flash Fire
 
 **School** transmutation; **Level** sorcerer/wizard 3, witch 3

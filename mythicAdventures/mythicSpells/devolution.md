@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/devolution
+---
 Devolution
 
 **Source** [_Devolution_](advanced/spells/devolution.md#_devolution)

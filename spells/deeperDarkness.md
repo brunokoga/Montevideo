@@ -1,3 +1,6 @@
+---
+title: spells/deeperDarkness
+---
  **Deeper Darkness**
 
 **School** evocation [darkness]; **Level** cleric 3

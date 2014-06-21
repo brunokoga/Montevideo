@@ -1,3 +1,6 @@
+---
+title: spells/sculptSound
+---
  **Sculpt Sound**
 
 **School** transmutation; **Level** bard 3

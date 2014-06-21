@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/demons
+---
 # Demon, Marilith
 
 _This snake-bodied woman has six arms, yet her cruel weapons float in the air, glistening with [poison](spells/poison.md#_poison). _

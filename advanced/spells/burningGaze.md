@@ -1,3 +1,6 @@
+---
+title: advanced/spells/burningGaze
+---
  **Burning Gaze**
 
 **School** evocation [fire]; **Level** druid 2, sorcerer/wizard 2, witch 2

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/kiLeech
+---
 Ki Leech
 
 **School** necromancy [evil]; **Level** cleric 3, sorcerer/wizard 3, witch 3

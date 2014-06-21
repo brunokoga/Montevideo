@@ -1,3 +1,6 @@
+---
+title: spells/sleetStorm
+---
  **Sleet Storm**
 
 **School** conjuration (creation) [cold]; **Level** druid 3, sorcerer/wizard 3

@@ -1,3 +1,6 @@
+---
+title: skills/knowledge
+---
 # Knowledge
 
 ## (Int; Trained Only)

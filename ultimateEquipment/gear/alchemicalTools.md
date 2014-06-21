@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/alchemicalTools
+---
 # Alchemical Tools
 
 Alchemical tools are adventuring items that can prove extremely useful in a variety of situations, including battles, dungeon-delving, or crafting other alchemical items. All of these tools can be made by a character with the [Craft](skills/craft.md#_craft) (alchemy) skill.

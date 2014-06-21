@@ -1,3 +1,6 @@
+---
+title: bestiary3/sabosan
+---
 # Sabosan
 
 This batlike humanoid has a lean, muscular body covered with fur and two large, leathery wings.

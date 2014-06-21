@@ -1,3 +1,6 @@
+---
+title: spells/glyphOfWarding
+---
  **Glyph of Warding**
 
 **School** abjuration; **Level** cleric 3

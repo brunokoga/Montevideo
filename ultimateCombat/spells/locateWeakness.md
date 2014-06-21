@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/locateWeakness
+---
 Locate Weakness
 
 **School** divination; **Level** inquisitor 3, magus 3, ranger 2, sorcerer/wizard 3, witch 3

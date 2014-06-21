@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/sceaduinar
+---
 # Sceaduinar
 
 This gargoyle-like creature has long spiky legs and a bat-like head—its body seems to be made of living, dark purple crystal.

@@ -1,3 +1,6 @@
+---
+title: monsters/lich
+---
 # Lich
 
 _Once fine robes hang in tatters from this withered corpse's frame. A pale blue light shines from where its eyes should be._

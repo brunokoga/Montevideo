@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/litanyOfSight
+---
 Litany of Sight
 
 **School** divination; **Level** antipaladin 3, inquisitor 4, paladin 3

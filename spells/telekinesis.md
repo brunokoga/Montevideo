@@ -1,3 +1,6 @@
+---
+title: spells/telekinesis
+---
  **Telekinesis**
 
 **School** transmutation; **Level** sorcerer/wizard 5

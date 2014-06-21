@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/electricityWords
+---
 ## Electricity Words
 
 Spells using electricity words crackle with life and leap from target to target in arcs of burning light.

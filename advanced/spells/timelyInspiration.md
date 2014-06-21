@@ -1,3 +1,6 @@
+---
+title: advanced/spells/timelyInspiration
+---
  **Timely Inspiration**
 
 **School** divination; **Level** bard 1

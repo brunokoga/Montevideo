@@ -1,3 +1,6 @@
+---
+title: magicItems/scrolls
+---
 # Scrolls
 
 [Table: Scrolls]

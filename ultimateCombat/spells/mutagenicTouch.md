@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/mutagenicTouch
+---
 Mutagenic Touch
 
 **School** transmutation; **Level** alchemist 4

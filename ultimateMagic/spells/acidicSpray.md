@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/acidicSpray
+---
 Acidic Spray
 
 **School** conjuration (creation) [acid]; **Level** magus 5, sorcerer/wizard 5

@@ -1,3 +1,6 @@
+---
+title: spells/arcaneSight
+---
  **Arcane Sight**
 
 **School** divination; **Level** sorcerer/wizard 3

@@ -1,3 +1,6 @@
+---
+title: spells/polymorphAnyObject
+---
  **Polymorph Any Object**
 
 **School** transmutation (polymorph); **Level** sorcerer/wizard 8

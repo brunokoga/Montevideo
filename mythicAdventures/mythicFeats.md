@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicFeats
+---
 # Mythic Feats
 
 Mythic characters and monsters gain mythic feats as they gain tiers or ranks. These feats can be selected only as part of mythic advancement, not as part of a character's normal advancement or in place of any other bonus feat.

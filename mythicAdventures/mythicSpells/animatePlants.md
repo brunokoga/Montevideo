@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/animatePlants
+---
 Animate Plants
 
 **Source** [_animate plants_](spells/animatePlants.md#_animate-plants)

@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/downtime/downtimeActivities
+---
 # Downtime Activities
 
 This section provides many examples of activities you can undertake during downtime. Some of these are new, and others expand on options from the _Core Rulebook_ or other sourcebooks to explain how those activities relate to the downtime rules. In most cases, using the downtime rules doesn't change the costs for performing the action, but it might allow you to spend capital instead of gp as per the [Capital Values table](ultimateCampaign/downtime.md#_table-capital-values). You can substitute 1 point of Goods or Labor for 20 gp, 1 point of Influence for 30 gp, and 1 point of Magic for 100 gp where appropriate. You can combine multiple types of capital when substituting for a gp value.

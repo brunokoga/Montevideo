@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/acuteSenses
+---
 Acute Senses
 
 **School** transmutation; **Level** alchemist 2, bard 2, inquisitor 2, ranger 2

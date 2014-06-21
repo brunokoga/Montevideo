@@ -1,3 +1,6 @@
+---
+title: bestiary3/pukwudgie
+---
 # Pukwudgie
 
 A merging of an emaciated man and a porcupine, this sinister creature smells of death and decay.

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/blinkDog
+---
 # Blink Dog
 
 This sleek canine has a coarse, tawny coat, pointed ears, and pale eyes. A faint blue nimbus seems to dance upon its fur.

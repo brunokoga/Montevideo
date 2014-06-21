@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/malfunction
+---
 Malfunction
 
 **School** transformation; Level sorcerer/wizard 4

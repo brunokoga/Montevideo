@@ -1,3 +1,6 @@
+---
+title: spells/cloakOfChaos
+---
  **Cloak of Chaos**
 
 **School** abjuration [chaotic]; **Level** cleric 8

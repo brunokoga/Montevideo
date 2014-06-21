@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/knowTheEnemy
+---
 Know the Enemy
 
 **School** divination; **Level** cleric 1, inquisitor 1, paladin 1, ranger 1

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/archon
+---
 # Archon, Shield
 
 This armored giant is sheathed in metal from head to toe. One arm ends in a spear-like blade, the other in a massive shield.

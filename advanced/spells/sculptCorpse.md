@@ -1,3 +1,6 @@
+---
+title: advanced/spells/sculptCorpse
+---
  **Sculpt Corpse**
 
 **School** necromancy; **Level** sorcerer/wizard 1

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/colorSpray
+---
 Color Spray
 
 **Source** [_color spray_](spells/colorSpray.md#_color-spray)

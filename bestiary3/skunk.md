@@ -1,3 +1,6 @@
+---
+title: bestiary3/skunk
+---
 # Skunk
 
 Built like a small badger, this creature has black fur with white stripes running from its face to its fluffy tail, which is raised in warning.

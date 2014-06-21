@@ -1,3 +1,6 @@
+---
+title: bestiary3/thriae
+---
 # Thriae
 
 Highly spiritual creatures and keepers of the world's greatest secrets, the thriae are a race of female, beelike seers coveted for their powers of divination and prophecy. Roughly humanoid in size and appearance, thriae keep to the outskirts of civilization, tending to their mysterious rituals and maintaining a watchful—if passive—eye over the machinations of nearby societies. While possessing an eerie air of mysticism, thriae are nonetheless startlingly beautiful, their slender bodies giving an unexpected grace to the otherwise unsightly mannerisms of giant bees.

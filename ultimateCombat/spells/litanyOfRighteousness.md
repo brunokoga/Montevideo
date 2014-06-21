@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/litanyOfRighteousness
+---
 Litany of Righteousness
 
 **School** evocation [[good](monsters/creatureTypes.md#_good-subtype), language dependent]; **Level** inquisitor 3, paladin 2

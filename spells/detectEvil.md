@@ -1,3 +1,6 @@
+---
+title: spells/detectEvil
+---
  **Detect Evil**
 
 **School** divination; **Level** cleric 1

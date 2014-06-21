@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/earPiercingScream
+---
 Ear-Piercing Scream
 
 **School** evocation [sonic]; **Level** bard 1, inquisitor 1, sorcerer/wizard 1, witch 1

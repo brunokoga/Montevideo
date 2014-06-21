@@ -1,3 +1,6 @@
+---
+title: advanced/spells/deflection
+---
  **Deflection**
 
 **School** abjuration [force]; **Level** sorcerer/wizard 7

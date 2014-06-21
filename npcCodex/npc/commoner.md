@@ -1,3 +1,6 @@
+---
+title: npcCodex/npc/commoner
+---
 # Commoners
 
 Beggar CR 1/3

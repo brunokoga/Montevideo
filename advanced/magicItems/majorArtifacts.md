@@ -1,3 +1,6 @@
+---
+title: advanced/magicItems/majorArtifacts
+---
 # Major Artifacts
 
 Major artifacts are unique items—only one of each such item exists, and the creation of them is beyond all mortal means.

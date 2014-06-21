@@ -1,3 +1,6 @@
+---
+title: monsters/wasp
+---
 # Wasp, Giant
 
 _This horse-sized wasp is covered in yellow and black vertical stripes—its stinger is the size of a sword and drips with venom._

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/expeditiousExcavation
+---
  **Expeditious Excavation**
 
 **School** transmutation [earth]; **Level** druid 1, sorcerer/wizard 1

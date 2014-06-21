@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/callLightning
+---
 Call Lightning
 
 **Source** [_call lightning_](spells/callLightning.md#_call-lightning)

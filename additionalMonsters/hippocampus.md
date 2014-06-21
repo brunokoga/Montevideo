@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/hippocampus
+---
 # Hippocampus
 
 This creature has the foreparts of a horse and the hindquarters of a fish. Its forelegs end in splayed fins rather than hooves.

@@ -1,3 +1,6 @@
+---
+title: bestiary3/akhlut
+---
 # Akhlut
 
 A dorsal fin rises up from the back of this immense black-and-white-furred, wolflike beast.

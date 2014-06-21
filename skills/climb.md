@@ -1,3 +1,6 @@
+---
+title: skills/climb
+---
 # Climb
 
 ## ( [Str](../gettingStarted.md#_strength); Armor Check Penalty)

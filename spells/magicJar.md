@@ -1,3 +1,6 @@
+---
+title: spells/magicJar
+---
  **Magic Jar**
 
 **School** necromancy; **Level** sorcerer/wizard 5

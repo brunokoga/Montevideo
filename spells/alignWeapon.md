@@ -1,3 +1,6 @@
+---
+title: spells/alignWeapon
+---
  **Align Weapon**
 
 **School** transmutation [see text]; **Level** cleric 2

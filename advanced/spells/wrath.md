@@ -1,3 +1,6 @@
+---
+title: advanced/spells/wrath
+---
  **Wrath**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** inquisitor 1

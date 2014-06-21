@@ -1,3 +1,6 @@
+---
+title: bestiary3/suli
+---
 # Suli
 
 This fine-featured humanoid wears exotic clothing and has flashing eyes; his arms are sheathed in a blaze of crackling flames.

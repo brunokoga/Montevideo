@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/liberatingCommand
+---
 Liberating Command
 
 **School** transmutation; **Level** bard 1, cleric 1, druid 1, paladin 1, ranger 1, sorcerer/wizard 1

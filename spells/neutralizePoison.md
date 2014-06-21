@@ -1,3 +1,6 @@
+---
+title: spells/neutralizePoison
+---
  **Neutralize Poison**
 
 **School** conjuration (healing); **Level** bard 4, cleric 4, druid 3, paladin 4, ranger 3

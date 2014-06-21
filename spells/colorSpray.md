@@ -1,3 +1,6 @@
+---
+title: spells/colorSpray
+---
  **Color Spray**
 
 **School** illusion (pattern) [mind-affecting]; **Level** sorcerer/wizard 1

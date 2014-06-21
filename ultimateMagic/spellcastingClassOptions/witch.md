@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spellcastingClassOptions/witch
+---
 # Witch
 
 Witches are creatures of mystery and power, feared and respected in equal measures for their eerie abilities and potent hexes. While some casters look to ancient tomes, others to the powers inherent in their bloodlines, and still others to their faith in a god or goddess, witches turn elsewhere, drawing power from their communion with the unknown. A witch's familiar acts as the conduit through which she receives her abilities, gifted to her as part of a pact made with otherworldly beings. As they grow into their power, many witches seek out and eventually come to understand the precise sources of these arcane abilities, yet just as many remain blissfully unaware of what fell forces guide their hands and incantations. To these witches, it is enough merely to have power, and if there's a price to be paid somewhere down the road—so be it.

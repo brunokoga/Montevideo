@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/enemyHammer
+---
 Enemy Hammer
 
 **Source** [_enemy hammer_](advanced/spells/enemyHammer.md#_enemy-hammer-)

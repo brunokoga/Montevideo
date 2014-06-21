@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/divineFavor
+---
 Divine Favor
 
 **Source** [_divine favor_](spells/divineFavor.md#_divine-favor)

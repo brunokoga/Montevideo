@@ -1,3 +1,6 @@
+---
+title: spells/symbolOfInsanity
+---
  **Symbol of Insanity**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** cleric 8, sorcerer/wizard 8

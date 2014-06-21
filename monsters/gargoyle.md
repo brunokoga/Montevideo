@@ -1,3 +1,6 @@
+---
+title: monsters/gargoyle
+---
 # Gargoyle
 
 _Seemingly carved from a dark gray stone, this sinister crouching humanoid resembles a horned, winged demon._

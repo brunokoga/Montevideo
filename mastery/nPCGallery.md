@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery
+---
 # NPC Gallery
 
 For every player character adventuring through a fantasy world, there exist dozens if not hundreds of nonplayer characters, each existing to provide vital services to characters, progress important story lines, or just add flavor between sagas. From the local farmer to the tavern storyteller and from the highest king to the poorest urchin, these characters are the residents of the worlds and stories all GMs craft. They are the allies and hindrances, the employers and victims, the cheering throngs and the booing crowds. Whenever the PCs need aid, have business, or venture off the beaten path, these are the characters ready to come to life.

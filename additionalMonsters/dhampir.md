@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/dhampir
+---
 # Dhampir 
 
 This unnaturally graceful man moves without a sound, his gaze just as piercing as the needle-sharp blade he effortlessly wields.

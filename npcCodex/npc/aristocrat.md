@@ -1,3 +1,6 @@
+---
+title: npcCodex/npc/aristocrat
+---
 # Aristocrats
 
 Page CR 1/3

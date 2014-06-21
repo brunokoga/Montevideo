@@ -1,3 +1,6 @@
+---
+title: advanced/spells/unfetter
+---
  **Unfetter**
 
 **School** transmutation; **Level** summoner 1

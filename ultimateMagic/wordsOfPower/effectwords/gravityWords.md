@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/gravityWords
+---
 ## Gravity Words
 
 Words from the gravity family use an unseen force to manipulate objects and creatures.

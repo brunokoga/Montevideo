@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/tick
+---
 # Tick, Giant
 
 This dog-sized tick has a grotesquely bulbous body and a thin head equipped with hooked mandibles.

@@ -1,3 +1,6 @@
+---
+title: spells/detectSnaresAndPits
+---
  **Detect Snares and Pits**
 
 **School** divination; **Level** druid 1, ranger 1

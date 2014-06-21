@@ -1,3 +1,6 @@
+---
+title: advanced/spells/stayTheHand
+---
  **Stay the Hand**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** paladin 4

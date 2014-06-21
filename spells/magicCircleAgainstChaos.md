@@ -1,3 +1,6 @@
+---
+title: spells/magicCircleAgainstChaos
+---
  **Magic Circle against Chaos**
 
 **School** abjuration [lawful]; **Level** cleric 3, paladin 3, sorcerer/wizard 3

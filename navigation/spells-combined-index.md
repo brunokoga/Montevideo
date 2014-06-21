@@ -1,3 +1,6 @@
+---
+title: navigation/spells-combined-index
+---
 - A Spells
 - B Spells
 - C Spells

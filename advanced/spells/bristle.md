@@ -1,3 +1,6 @@
+---
+title: advanced/spells/bristle
+---
  **Bristle**
 
 **School** transmutation; **Level** druid 1

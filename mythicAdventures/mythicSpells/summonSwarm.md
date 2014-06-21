@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/summonSwarm
+---
 Summon Swarm
 
 **Source** [_summon swarm_](spells/summonSwarm.md#_summon-swarm)

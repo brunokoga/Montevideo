@@ -1,3 +1,6 @@
+---
+title: spells/nightmare
+---
  **Nightmare**
 
 **School** illusion (phantasm) [mind-affecting, evil]; **Level** bard 5, sorcerer/wizard 5

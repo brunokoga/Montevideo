@@ -1,3 +1,6 @@
+---
+title: monsters/nightmare
+---
 # Nightmare
 
 _This eerie horse-like creature's skin is an inky blackness. Fire spurts from its hair and nostrils, and its hooves spray sparks._

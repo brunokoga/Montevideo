@@ -1,3 +1,6 @@
+---
+title: spells/touchOfFatigue
+---
  **Touch of Fatigue**
 
 **School** necromancy; **Level** sorcerer/wizard 0

@@ -1,3 +1,6 @@
+---
+title: spells/heatMetal
+---
  **Heat Metal**
 
 **School** transmutation [fire]; **Level** druid 2

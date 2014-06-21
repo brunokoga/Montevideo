@@ -1,3 +1,6 @@
+---
+title: advanced/spells/featherStep
+---
  **Feather Step**
 
 **School** transmutation; **Level** bard 1, druid 1, ranger 1

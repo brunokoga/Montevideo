@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/auraOfDoom
+---
 Aura of Doom
 
 **School** necromancy [emotion, fear, mind-affecting]; **Level** cleric 4

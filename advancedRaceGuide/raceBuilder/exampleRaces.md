@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/raceBuilder/exampleRaces
+---
 # Core Race Examples
 
 ## Dwarves

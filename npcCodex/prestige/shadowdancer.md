@@ -1,3 +1,6 @@
+---
+title: npcCodex/prestige/shadowdancer
+---
 # Shadowdancers
 
 Blackstrike CR 8

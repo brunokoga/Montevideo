@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/sandman
+---
 # Sandman
 
 A whirling cloud of fine desert sand piles up upon itself, forming into the shape of a humanoid figure.

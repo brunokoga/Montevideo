@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/giant
+---
 # Giant, Marsh
 
 Cold, black eyes stare out from the fish-like face of this hideous green-skinned, web-fingered, and obese giant.

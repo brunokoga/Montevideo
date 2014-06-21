@@ -1,3 +1,6 @@
+---
+title: advanced/spells/hydraulicPush
+---
  **Hydraulic Push**
 
 **School** evocation [water]; **Level** druid 1, sorcerer/wizard 1

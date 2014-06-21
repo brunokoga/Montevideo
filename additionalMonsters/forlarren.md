@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/forlarren
+---
 # Forlarren
 
 This humanoid creature has the legs of a bald goat, a completely hairless body, and a horned head with a sinister expression.

@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/rast
+---
 # Rast
 
 This bulbous creature consists of many tangled legs, a bulging body of puffed flesh, and a mouth filled with sharp fangs.

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/illOmen
+---
  **Ill Omen**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** witch 1

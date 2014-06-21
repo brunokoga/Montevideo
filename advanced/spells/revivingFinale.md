@@ -1,3 +1,6 @@
+---
+title: advanced/spells/revivingFinale
+---
  **Reviving Finale**
 
 **School** conjuration (healing); **Level** bard 3

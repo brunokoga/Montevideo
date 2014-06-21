@@ -1,3 +1,6 @@
+---
+title: monsters/archon
+---
 # Archon
 
 Archons are a race of outsiders from Heaven, creatures of fundamental law and good tasked with the protection of that plane as well as all who are innocent or free of evil. They are the natural enemies of devils, daemons, and demons, and most are veterans of many attacks against their home by fiends of the Lower Planes.

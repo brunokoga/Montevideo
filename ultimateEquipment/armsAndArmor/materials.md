@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/armsAndArmor/materials
+---
 # Special Materials
 
 Weapons and armor can be crafted using materials that have innate special properties. If you make a suit of armor or a weapon out of more than one special material, you get the benefit of only the most prevalent material. However, you can build a double weapon with each head made of a different special material.

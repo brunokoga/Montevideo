@@ -1,3 +1,6 @@
+---
+title: advancedRaceGuide/featuredRaces/sylphs
+---
 # Sylphs
 
 Born from the descendants of humans and beings of elemental air such as djinn, sylphs are a shy and reclusive race consumed by intense curiosity. Sylphs spend their lives blending into the crowd, remaining unnoticed as they spy and eavesdrop on the people around them. They call this hobby "listening to the wind," and for many sylphs it becomes an obsession. Sylphs rely on their capable, calculating intellects and on knowledge gleaned from eavesdropping to deliver them from danger.

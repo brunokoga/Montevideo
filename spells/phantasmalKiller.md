@@ -1,3 +1,6 @@
+---
+title: spells/phantasmalKiller
+---
  **Phantasmal Killer**
 
 **School** illusion (phantasm) [fear, mind-affecting]; **Level** sorcerer/wizard 4

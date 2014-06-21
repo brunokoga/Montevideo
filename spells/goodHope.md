@@ -1,3 +1,6 @@
+---
+title: spells/goodHope
+---
  **Good Hope**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 3

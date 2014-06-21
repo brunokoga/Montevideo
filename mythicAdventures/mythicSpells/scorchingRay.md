@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/scorchingRay
+---
 Scorching Ray
 
 **Source** [_scorching ray_](spells/scorchingRay.md#_scorching-ray)

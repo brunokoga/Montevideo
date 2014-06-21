@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/divinationWords
+---
 ## Divination Words
 
 Words from this family uncover answers and scry across vast distances.

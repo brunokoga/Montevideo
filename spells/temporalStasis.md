@@ -1,3 +1,6 @@
+---
+title: spells/temporalStasis
+---
  **Temporal Stasis**
 
 **School** transmutation; **Level** sorcerer/wizard 8

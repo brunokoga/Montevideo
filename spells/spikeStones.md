@@ -1,3 +1,6 @@
+---
+title: spells/spikeStones
+---
  **Spike Stones**
 
 **School** transmutation [earth]; **Level** druid 4

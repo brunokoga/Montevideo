@@ -1,3 +1,6 @@
+---
+title: advanced/spells/geyser
+---
  **Geyser**
 
 **School** conjuration (creation) [fire, water]; **Level** druid 4, sorcerer/wizard 5

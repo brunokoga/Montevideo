@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/daybreakArrow
+---
 Daybreak Arrow
 
 **School** evocation [light]; **Level** cleric 3, inquisitor 3, paladin 3

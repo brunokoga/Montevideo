@@ -1,3 +1,6 @@
+---
+title: bestiary3/zoog
+---
 # Zoog
 
 This skittish amalgam of beast parts has luminous eyes, a rat's tail, simian appendages, and tendrils extending from a mole-like nose

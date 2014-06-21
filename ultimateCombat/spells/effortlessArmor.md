@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/effortlessArmor
+---
 Effortless Armor
 
 **School** transmutation; **Level** cleric 2, inquisitor 2, magus 2, paladin 2, ranger 2

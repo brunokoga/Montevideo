@@ -1,3 +1,6 @@
+---
+title: spells/fireStorm
+---
  **Fire Storm**
 
 **School** evocation [fire]; **Level** cleric 8, druid 7

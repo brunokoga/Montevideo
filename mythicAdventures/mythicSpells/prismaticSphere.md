@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/prismaticSphere
+---
 Prismatic Sphere
 
 **Source** [_prismatic sphere_](spells/prismaticSphere.md#_prismatic-sphere)

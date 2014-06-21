@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/summonerConduit
+---
 Summoner Conduit
 
 **School** necromancy; **Level** cleric 4, sorcerer/wizard 5, summoner 4, witch 5

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/lockGaze
+---
 Lock Gaze
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 1, inquisitor 1, magus 1, sorcerer/wizard 1, witch 1

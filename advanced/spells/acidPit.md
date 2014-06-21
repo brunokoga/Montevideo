@@ -1,3 +1,6 @@
+---
+title: advanced/spells/acidPit
+---
  **Acid Pit**
 
 **School** conjuration (creation) [acid]; **Level** sorcerer/wizard 4, summoner 4

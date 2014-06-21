@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/trueStrike
+---
 True Strike
 
 **Source** [_true strike_](spells/trueStrike.md#_true-strike)

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/damnationStride
+---
 Damnation Stride
 
 **Source** [_damnation stride_](advancedRaceGuide/featuredRaces/tieflings.md#_damnation-stride)

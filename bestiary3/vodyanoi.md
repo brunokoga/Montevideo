@@ -1,3 +1,6 @@
+---
+title: bestiary3/vodyanoi
+---
 # Vodyanoi
 
 This humanoid salamander carries a gnarled staff in one hand. Tendrils drape its chin, resembling the beard of an eccentric hermit.

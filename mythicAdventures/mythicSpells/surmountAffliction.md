@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/surmountAffliction
+---
 Surmount Affliction
 
 **Source** [_surmount affliction_](ultimateMagic/spells/surmountAffliction.md#_surmount-affliction)

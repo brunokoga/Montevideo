@@ -1,3 +1,6 @@
+---
+title: advanced/spells/cloakOfDreams
+---
  **Cloak of Dreams**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 5, sorcerer/wizard 6, witch 6

@@ -1,3 +1,6 @@
+---
+title: monsters/hobgoblin
+---
 # Hobgoblin
 
 _Standing as tall as a human, this muscular, gray-skinned creature peers about with tiny, observant eyes._

@@ -1,3 +1,6 @@
+---
+title: spells/stoneTell
+---
  **Stone Tell**
 
 **School** divination; **Level** druid 6

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/restfulSleep
+---
  **Restful Sleep**
 
 **School** necromancy; **Level** bard 1

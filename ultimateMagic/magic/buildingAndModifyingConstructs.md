@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/magic/buildingAndModifyingConstructs
+---
 # Building and Modifying Constructs
 
 The [Craft Construct](monsters/monsterFeats.md#_craft-construct) feat allows a spellcaster to create all manner of permanent constructs in a process much like magic item creation. Each construct has a purchase price and a crafting cost, along with a list of requirements and the skills used to create them. Some require special materials in addition to the cost for basic crafting supplies, generally for the construct's body. Special material costs increase both the purchase price and the crafting cost of the construct. The DC to craft a construct is 5 + the default caster level of the construct, just like for a magic item. Like when crafting magic items, a creator with a sufficiently high skill bonus may ignore these requirements. Each missing requirement increases the [Craft](skills/craft.md#_craft) DC by 5. Regardless, the creator must meet all item creation feats and minimum caster level requirements. Crafting a construct takes 1 day per 1,000 gp in the item's base price, excluding any special material costs. This process is identical to the process for crafting a magic item, including the rules for accelerating creation and handling interruptions (see [Magic Item Creation](magicItems/magicItemCreation.md#_magic-item-creation)).

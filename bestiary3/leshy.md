@@ -1,3 +1,6 @@
+---
+title: bestiary3/leshy
+---
 # Leshy
 
 Originally grown as servants for more powerful fey and intelligent plant life such as elder treants, leshys are sentient plants who look after their unintelligent brethren and serve as nature's verdant watchers. Several breeds of leshy exist, each being kindred to a broad group of plants or fungi. Among the best known are superstitious gourd leshys, wise seaweed leshys, strange fungus leshys, and wary leaf leshys, though others are rumored to exist, such as the surly cactus leshy, the sinister flytrap leshy, the garrulous snapdragon leshy, and the enigmatic lotus leshy.

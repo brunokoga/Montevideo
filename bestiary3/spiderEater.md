@@ -1,3 +1,6 @@
+---
+title: bestiary3/spiderEater
+---
 # Spider Eater
 
 This strange beast resembles a wasp the size of a horse, but with the head of a spider and two long appendages ending in pincers.

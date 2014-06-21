@@ -1,3 +1,6 @@
+---
+title: spells/fogCloud
+---
  **Fog Cloud**
 
 **School** conjuration (creation); **Level** druid 2, sorcerer/wizard 2

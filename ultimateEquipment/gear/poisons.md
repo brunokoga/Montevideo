@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/poisons
+---
 # Poisons
 
 A poison is a substance that interferes with the natural functions of a living creature's body, causing injury or death, typically requiring only a very small amount. The target of a poison may resist with a successful saving throw. Poisons can be delayed or cured with spells such as delay poison and neutralize poison. Poisons have four categories, based on how they reach the target: contact, ingested, inhaled, or injury.

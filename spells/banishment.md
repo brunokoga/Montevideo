@@ -1,3 +1,6 @@
+---
+title: spells/banishment
+---
  **Banishment**
 
 **School** abjuration; **Level** cleric 6, sorcerer/wizard 7

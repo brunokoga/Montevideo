@@ -1,3 +1,6 @@
+---
+title: spells/holdMonster
+---
  **Hold Monster**
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 4, sorcerer/wizard 5

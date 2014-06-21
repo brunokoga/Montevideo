@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/pillarOfLife
+---
 Pillar of Life
 
 **Source** [_pillar of life_](advanced/spells/pillarOfLife.md#_pillar-of-life)

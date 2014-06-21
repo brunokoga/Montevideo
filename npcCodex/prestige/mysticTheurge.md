@@ -1,3 +1,6 @@
+---
+title: npcCodex/prestige/mysticTheurge
+---
 # Mystic Theurges
 
 Celestial Theurge CR 8

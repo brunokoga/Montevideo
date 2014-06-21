@@ -1,3 +1,6 @@
+---
+title: bestiary3/cerebricFungus
+---
 # Cerebric Fungus
 
 A swollen, brainlike bulb encrusted with fungal shelves squats atop several ropy legs. A wide mouth bisects the bulb's crown.

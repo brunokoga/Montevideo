@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/classArchetypes/alchemist
+---
 # Alchemist
 
 Alchemists are the mad scientists of adventuring parties and villainous organizations. This section introduces new alchemist discoveries, which are followed by new alchemist archetypes.

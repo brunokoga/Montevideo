@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/downtime/managers
+---
 # Managers
 
 A manager is a competent employee qualified to run a business while you're gone, even for weeks or months at a time. A manager is authorized to make certain decisions about your property while you're away, such as paying tax collectors, banning cultists from your store, and handling emergency situations.

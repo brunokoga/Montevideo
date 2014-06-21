@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/cyclops
+---
 # Cyclops, Great
 
 _This enormous one-eyed humanoid has a horn protruding from its forehead and fists the size of tree trunks._

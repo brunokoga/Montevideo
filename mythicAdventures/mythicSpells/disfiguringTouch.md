@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/disfiguringTouch
+---
 Disfiguring Touch
 
 **Source** [_disfiguring touch_](ultimateMagic/spells/disfiguringTouch.md#_disfiguring-touch-)

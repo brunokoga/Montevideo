@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/armsAndArmor/armor
+---
 # Armor
 
 For most, armor is the simplest way to protect themselves in a world of rampant threats and dangers. Many characters can wear only the simplest of armors, and only some can use shields.

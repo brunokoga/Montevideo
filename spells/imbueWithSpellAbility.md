@@ -1,3 +1,6 @@
+---
+title: spells/imbueWithSpellAbility
+---
  **Imbue with Spell Ability**
 
 **School** evocation; **Level** cleric 4

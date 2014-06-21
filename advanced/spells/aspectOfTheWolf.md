@@ -1,3 +1,6 @@
+---
+title: advanced/spells/aspectOfTheWolf
+---
  **Aspect of the Wolf**
 
 **School** transmutation (polymorph); **Level** druid 5, ranger 4

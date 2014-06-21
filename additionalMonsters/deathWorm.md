@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/deathWorm
+---
 # Death Worm
 
 This large worm's body is muscular and scaly, its mouth a nightmare of row upon row of triangular teeth.

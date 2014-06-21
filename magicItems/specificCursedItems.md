@@ -1,3 +1,6 @@
+---
+title: magicItems/specificCursedItems
+---
 # Specific Cursed Items
 
 [Table: Specific Cursed Items]

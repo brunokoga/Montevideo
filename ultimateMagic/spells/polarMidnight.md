@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/polarMidnight
+---
 Polar Midnight
 
 **School** transmutation [cold, darkness]; **Level** cleric 9, druid 9, witch 9

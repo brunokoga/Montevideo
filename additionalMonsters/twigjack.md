@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/twigjack
+---
 # Twigjack
 
 This tiny, vaguely humanoid creature seems to be made completely of bundles of sticks wound with thorny vines.

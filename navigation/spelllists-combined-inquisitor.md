@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-inquisitor
+---
 - [**Acid Splash**](spells/acidSplash.md#_acid-splash)
 - [**Bleed**](spells/bleed.md#_bleed)
 - [**Brand**](advanced/spells/brand.md#_brand)

@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/scorchingAshForm
+---
 Scorching Ash Form
 
 **Source** [_scorching ash form_](advancedRaceGuide/featuredRaces/ifrits.md#_scorching-ash-form)

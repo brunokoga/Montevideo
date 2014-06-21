@@ -1,3 +1,6 @@
+---
+title: spells/unseenServant
+---
  **Unseen Servant**
 
 **School** conjuration (creation); **Level** bard 1, sorcerer/wizard 1

@@ -1,3 +1,6 @@
+---
+title: indices/magicitems
+---
 # Magic Item Index
 
 Each general type of magic item gets an overall description, followed by descriptions of specific items.

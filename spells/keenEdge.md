@@ -1,3 +1,6 @@
+---
+title: spells/keenEdge
+---
  **Keen Edge**
 
 **School** transmutation; **Level** sorcerer/wizard 3

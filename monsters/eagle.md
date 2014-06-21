@@ -1,3 +1,6 @@
+---
+title: monsters/eagle
+---
 # Eagle
 
 _This magnificent bird of prey has dark feathers save for those on its head, which are pure white._

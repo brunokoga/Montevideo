@@ -1,3 +1,6 @@
+---
+title: spells/moveEarth
+---
  **Move Earth**
 
 **School** transmutation [earth]; **Level** druid 6, sorcerer/wizard 6

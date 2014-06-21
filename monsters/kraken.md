@@ -1,3 +1,6 @@
+---
+title: monsters/kraken
+---
 # Kraken
 
 _This tremendous leviathan resembles a vast squid, yet the markings on its body are strangely unsettling to look upon._

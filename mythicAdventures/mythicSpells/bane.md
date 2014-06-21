@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/bane
+---
 Bane
 
 **Source** [_bane_](spells/bane.md#_bane)

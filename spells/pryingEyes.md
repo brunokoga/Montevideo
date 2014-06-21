@@ -1,3 +1,6 @@
+---
+title: spells/pryingEyes
+---
  **Prying Eyes**
 
 **School** divination; **Level** sorcerer/wizard 5

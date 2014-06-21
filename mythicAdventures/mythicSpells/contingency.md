@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/contingency
+---
 Contingency
 
 **Source** [_contingency_](spells/contingency.md#_contingency)

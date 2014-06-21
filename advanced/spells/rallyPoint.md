@@ -1,3 +1,6 @@
+---
+title: advanced/spells/rallyPoint
+---
  **Rally Point**
 
 **School** enchantment (compulsion) [good, mind-affecting]; **Level** paladin 1

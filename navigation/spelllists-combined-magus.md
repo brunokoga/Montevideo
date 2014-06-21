@@ -1,3 +1,6 @@
+---
+title: navigation/spelllists-combined-magus
+---
 - [**Acid Splash**](spells/acidSplash.md#_acid-splash)
 - [**Arcane Mark**](spells/arcaneMark.md#_arcane-mark)
 - [**Dancing Lights**](spells/dancingLights.md#_dancing-lights)

@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/kingdomsAndWar/optionalKingdomRules
+---
 # Optional Kingdom Rules
 
 The following sections are optional rules for the kingdom-building system. These rules are modular; if the group prefers a simpler version of the kingdom rules, the GM can ignore the options and only use the standard kingdom-building rules. Many of these optional rules introduce more math into kingdom-building and use complex formulas to derive additional effects to be placed on the kingdom. The GM decides whether to use any of these optional rules in the campaign, and whether to keep or discard them if they interfere with the campaign's intended style of play.

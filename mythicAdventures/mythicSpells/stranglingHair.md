@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/stranglingHair
+---
 Strangling Hair
 
 **Source** [_strangling hair_](ultimateMagic/spells/stranglingHair.md#_strangling-hair)

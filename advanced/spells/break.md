@@ -1,3 +1,6 @@
+---
+title: advanced/spells/break
+---
  **Break**
 
 **School** transmutation; **Level** sorcerer/wizard 1

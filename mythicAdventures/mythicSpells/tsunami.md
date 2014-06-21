@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/tsunami
+---
 Tsunami
 
 **Source** [_tsunami_](advanced/spells/tsunami.md#_tsunami)

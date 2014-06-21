@@ -1,3 +1,6 @@
+---
+title: monsters/ettin
+---
 # Ettin
 
 _This lumbering, filthy, two-headed giant wears tattered remnants of leather armor and clutches a large flail in each fist._

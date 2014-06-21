@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/magic/spellDuels
+---
 # Spell Duels
 
 Spellcasters are no strangers to battle, but there's a difference between the chaos of a huge melee, with dozens of feral monsters seeking to tear the caster limb from limb, and a more civilized duel between rivals seeking to settle a dispute. Make no mistake, these duels can be just as deadly, but the rules surrounding them make for a different style of combat—one in which both combatants can attack and defend with ease, allowing the true skill and power of each to determine the victor.

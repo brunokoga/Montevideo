@@ -1,3 +1,6 @@
+---
+title: monsters/orc
+---
 # Orc
 
 _This savage creature looks like a bestial version of a savage human, with green-gray skin and greasy black hair._

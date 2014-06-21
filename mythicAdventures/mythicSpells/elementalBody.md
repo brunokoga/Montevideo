@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/elementalBody
+---
 Elemental Body (all)
 
 Each _mythic elemental body_ spell must be learned individually, and you must know the respective non-mythic _elemental body_ spell to learn its mythic version. You don't have to learn them in order, and aren't required to know a lower-level _mythic elemental body_ spell before you learn a higher-level one (for example, you can learn _mythic elemental body II _if you know _ [elemental body II](spells/elementalBody.md#_elemental-body-ii)_, even if you don't know _mythic elemental body I_). Each _mythic elemental body_ spell adds the following benefits to its respective non-mythic version.

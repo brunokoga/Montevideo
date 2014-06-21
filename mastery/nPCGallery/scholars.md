@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/scholars
+---
 # Scholars
 
 More than merely elusive sages and hermetic wizards, academics and intellectuals might be found anywhere secrets wait to be uncovered. From universities of higher learning to the ruins of forgotten civilizations, researchers endlessly pursue new discoveries, either for the sake of scholarship or for their own personal fame. Tenacious mages test the boundaries of magic, risking their lives and sanity for the chance at greater power. No matter the mystery, one can rest assured that somewhere experts wait to test their minds against new challenges.

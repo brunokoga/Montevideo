@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/maze
+---
 Maze
 
 **Source** [_maze_](spells/maze.md#_maze)

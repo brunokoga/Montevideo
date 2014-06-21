@@ -1,3 +1,6 @@
+---
+title: advanced/spells/maskDweomer
+---
  **Mask Dweomer**
 
 **School** illusion (glamer); **Level** witch 1

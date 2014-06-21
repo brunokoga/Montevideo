@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/telekineticCharge
+---
 Telekinetic Charge
 
 **School** evocation [force]; **Level** sorcerer/wizard 4

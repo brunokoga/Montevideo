@@ -1,3 +1,6 @@
+---
+title: bestiary3/phantomFungus
+---
 # Phantom Fungus
 
 Portions of this three-stalked fungoid monster's body seem to fade in and out of sight. A large maw gapes along its entire front.

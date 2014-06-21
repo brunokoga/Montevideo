@@ -1,3 +1,6 @@
+---
+title: ultimateCampaign/kingdomsAndWar/kingdomTurnSequence
+---
 # Kingdom Turn Sequence
 
 A kingdom's growth occurs during four phases, which together make up 1 kingdom turn (1 month of game time). The four phases are as follows:

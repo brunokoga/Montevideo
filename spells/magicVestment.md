@@ -1,3 +1,6 @@
+---
+title: spells/magicVestment
+---
  **Magic Vestment**
 
 **School** transmutation; **Level** cleric 3

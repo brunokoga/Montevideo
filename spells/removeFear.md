@@ -1,3 +1,6 @@
+---
+title: spells/removeFear
+---
  **Remove Fear**
 
 **School** abjuration; **Level** bard 1, cleric 1

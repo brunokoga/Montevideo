@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/astralProjection
+---
 Astral Projection, Lesser
 
 **School** necromancy; **Level** cleric 5, sorcerer/wizard 5

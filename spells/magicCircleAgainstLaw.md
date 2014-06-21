@@ -1,3 +1,6 @@
+---
+title: spells/magicCircleAgainstLaw
+---
  **Magic Circle against Law**
 
 **School** abjuration [chaotic]; **Level** cleric 3, sorcerer/wizard 3

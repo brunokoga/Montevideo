@@ -1,3 +1,6 @@
+---
+title: bestiary3/carbuncle
+---
 # Carbuncle
 
 This small, awkward reptile with a fist-sized gem jutting from between its two bulging eyes seems both surprised and perplexed.

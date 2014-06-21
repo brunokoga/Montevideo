@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicGame
+---
 # Running a Mythic Game
 
 Running a mythic game has many similarities to running other games. The PCs still go on adventures, fight monsters, discover treasure, and gain experience. The difference is that mythic games have an added level of drama, theater, and tension. Compared to non-mythic parties of the same character level, a mythic party's adventures feature incredibly difficult foes and far greater challenges. Of course, there are also splendorous [rewards for the bold mythic adventurer](mythicAdventures/mythicItems.md).

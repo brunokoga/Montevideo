@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/blackMark
+---
 Black Mark
 
 **Source** [_black mark_](advancedRaceGuide/coreRaces/humans.md#_black-mark)

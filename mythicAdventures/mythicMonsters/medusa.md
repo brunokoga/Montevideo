@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicMonsters/medusa
+---
 # Medusa
 
 _This unnatural woman has scaled skin, white bird wings, and long snake-hair that hangs past her feet._

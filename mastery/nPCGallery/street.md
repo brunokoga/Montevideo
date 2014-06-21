@@ -1,3 +1,6 @@
+---
+title: mastery/nPCGallery/street
+---
 # Street
 
 Beyond castle walls and the regularly patrolled paths of the elite run the muddy walks of the common folk, where the desperate people of the street scrape what lives they can from debris and dust. Some criminals, some hopeless castoffs, some unlucky, broken, or crazed, these are the true inhabitants of cities and those most knowledgeable of its people, ways, and secrets. Often viewed as dangerous and deceitful, these desperate folks merely do what they must to survive, denied the luxuries of honor or pride in the daily fight for survival. Charity, compassion, and a few coins often goes far with those forced to make their living off the streets, and while many exploit such a simple truth, others might win a devoted ally or informant.

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/controlSummonedCreature
+---
 Control Summoned Creature
 
 **School** enchantment (compulsion) [mind-affecting]; **Level** bard 3, cleric 4, sorcerer/wizard 4, summoner 3

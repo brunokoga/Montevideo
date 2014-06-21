@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/powerWords
+---
 ## Power Words
 
 Perhaps the most primal effect words, power words draw upon raw magic, using it to cripple and even kill the wordcaster's foes.

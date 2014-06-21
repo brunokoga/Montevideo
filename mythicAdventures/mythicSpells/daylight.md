@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/daylight
+---
 Daylight
 
 **Source** [_daylight_](spells/daylight.md#_daylight)

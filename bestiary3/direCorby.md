@@ -1,3 +1,6 @@
+---
+title: bestiary3/direCorby
+---
 # Dire Corby
 
 This creature looks like a humanoid crow with oily black feathers, glittering eyes, and a sharp beak.

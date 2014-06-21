@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/deepSlumber
+---
 Deep Slumber
 
 **Source** [_deep slumber_](spells/deepSlumber.md#_deep-slumber)

@@ -1,3 +1,6 @@
+---
+title: ultimateEquipment/gear/lodgingAndServices
+---
 # Lodging and Services
 
 These prices are for lodging and services in a typical city or town.

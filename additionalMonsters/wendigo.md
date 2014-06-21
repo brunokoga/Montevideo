@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/wendigo
+---
 # Wendigo
 
 This hideous shape has the head of a feral elk with jagged teeth and sharp antlers. Its humanoid legs end in blackened, burnt stumps.

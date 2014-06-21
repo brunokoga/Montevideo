@@ -1,3 +1,6 @@
+---
+title: spells/reincarnate
+---
  **Reincarnate**
 
 **School** transmutation; **Level** druid 4

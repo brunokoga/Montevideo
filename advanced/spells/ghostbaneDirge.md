@@ -1,3 +1,6 @@
+---
+title: advanced/spells/ghostbaneDirge
+---
  **Ghostbane Dirge**
 
 **School** transmutation; **Level** bard 2, cleric 2, inquisitor 2, paladin 1

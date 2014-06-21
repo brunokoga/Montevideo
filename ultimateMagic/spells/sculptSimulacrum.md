@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/sculptSimulacrum
+---
 Sculpt Simulacrum
 
 **School** transmutation; **Level** sorcerer/wizard 2

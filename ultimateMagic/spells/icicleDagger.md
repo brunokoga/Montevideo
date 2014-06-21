@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/spells/icicleDagger
+---
 Icicle Dagger
 
 **School** conjuration (creation) [cold]; **Level** sorcerer/wizard 1, summoner 1, witch 1

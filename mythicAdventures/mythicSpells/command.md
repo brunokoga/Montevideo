@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/command
+---
 Command
 
 **Source** [_command_](spells/command.md#_command)

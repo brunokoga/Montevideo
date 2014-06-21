@@ -1,3 +1,6 @@
+---
+title: monsters/cockatrice
+---
 # Cockatrice
 
 _This hideous avian creature has the body of an emaciated rooster, the wings of a bat, and a long, scaly tail._

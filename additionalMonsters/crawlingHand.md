@@ -1,3 +1,6 @@
+---
+title: additionalMonsters/crawlingHand
+---
 # Crawling Hand
 
 With a jolt, this severed hand springs to life, its fingers propelling it forth at great speed like a deformed spider.

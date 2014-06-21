@@ -1,3 +1,6 @@
+---
+title: spells/wallOfThorns
+---
  **Wall of Thorns**
 
 **School** conjuration (creation); **Level** druid 5

@@ -1,3 +1,6 @@
+---
+title: spells/shadowConjuration
+---
  **Shadow Conjuration**
 
 **School** illusion (shadow); **Level** bard 4, sorcerer/wizard 4

@@ -1,3 +1,6 @@
+---
+title: advanced/spells/detectAberration
+---
  **Detect Aberration**
 
 **School** divination; **Level** druid 1, ranger 1

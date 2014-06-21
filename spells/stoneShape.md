@@ -1,3 +1,6 @@
+---
+title: spells/stoneShape
+---
  **Stone Shape**
 
 **School** transmutation [earth]; **Level** cleric 3, druid 3, sorcerer/wizard 4

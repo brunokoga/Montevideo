@@ -1,3 +1,6 @@
+---
+title: spells/snare
+---
  **Snare**
 
 **School** transmutation; **Level** druid 3, ranger 2

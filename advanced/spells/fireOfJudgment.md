@@ -1,3 +1,6 @@
+---
+title: advanced/spells/fireOfJudgment
+---
  **Fire of Judgment**
 
 **School** evocation; **Level** paladin 3

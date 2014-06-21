@@ -1,3 +1,6 @@
+---
+title: spells/maze
+---
  **Maze**
 
 **School** conjuration (teleportation); **Level** sorcerer/wizard 8

@@ -1,3 +1,6 @@
+---
+title: ultimateMagic/wordsOfPower/effectwords/alignmentWords
+---
 ## Alignment Words
 
 Words from this family deal specifically with alignment, detecting, damaging, or protecting creatures based on their moral compass.

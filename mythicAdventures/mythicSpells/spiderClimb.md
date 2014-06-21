@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/spiderClimb
+---
 Spider Climb
 
 **Source** [_spider climb_](spells/spiderClimb.md#_spider-climb)

@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/waterWalk
+---
 Water Walk, Communal
 
 **Level** cleric 4, ranger 4

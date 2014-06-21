@@ -1,3 +1,6 @@
+---
+title: bestiary3/guecubu
+---
 # Guecubu
 
 A skeletal carcass pulls itself from the ground, its body formed as much from earth and soil as from bones and rotting flesh.

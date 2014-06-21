@@ -1,3 +1,6 @@
+---
+title: advanced/advancedSpellLists
+---
 # Spells
 
 Beyond the spells presented in the _Core Rulebook_ exist countless more mystical discoveries and the secret tricks of spellcasters arcane and divine. The following lists summarize all of the new spells presented in this book, broken down by class. Note that, with the exception of the antipaladin's full spell list, the lists here summarize only new spells from this book. An **M** or **F** appearing at the end of a spell's name in the spell lists denotes a _material_ or _focus_ component, respectively, not normally included in a spell component pouch.

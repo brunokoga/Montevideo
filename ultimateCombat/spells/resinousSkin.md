@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/resinousSkin
+---
 Resinous Skin
 
 **School** transmutation; **Level** alchemist 3, druid 3, sorcerer/wizard 3

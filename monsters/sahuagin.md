@@ -1,3 +1,6 @@
+---
+title: monsters/sahuagin
+---
 # Sahuagin
 
 _This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed claws, and its piscine head features a toothy maw._

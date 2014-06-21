@@ -1,3 +1,6 @@
+---
+title: ultimateCombat/spells/protectionFromEnergy
+---
 Protection from Energy, Communal
 
 **Level** cleric 4, druid 4, inquisitor 4, ranger 3, sorcerer/wizard 4, summoner 4

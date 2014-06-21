@@ -1,3 +1,6 @@
+---
+title: mythicAdventures/mythicSpells/shareGlory
+---
 Share Glory
 
 **School** transmutation; **Level** bard 2, cleric 3, druid 3, sorcerer/wizard 3, summoner 2, witch 3
