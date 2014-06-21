@@ -11,7 +11,7 @@ This section includes over 40 example creatures—mythic versions of cyclopes, d
 
 This section continues with information on the mythic simple templates and mythic subtype, advice on how to create and balance new mythic monsters, and several new universal monster rules used by the monsters in _Mythic Adventures_.
 
-[Mythic Monster Index](mythicAdventures/mythicMonsters/monsterIndex.md)
+[Mythic Monster Index](mythicAdventures/mythicMonsters_dir/monsterIndex.md)
 
 # Mythic Monster Origins
 

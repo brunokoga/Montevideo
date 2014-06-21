@@ -3,27 +3,27 @@ title: classes
 ---
 # Classes
 
-**[Barbarian](classes/barbarian.md#_barbarian)** : The barbarian is a brutal berserker from beyond the edge of civilized lands.
+**[Barbarian](classes_dir/barbarian.md#_barbarian)** : The barbarian is a brutal berserker from beyond the edge of civilized lands.
 
-**[Bard](classes/bard.md#_bard)** : The bard uses skill and spell alike to bolster his allies, confound his enemies, and build upon his fame.
+**[Bard](classes_dir/bard.md#_bard)** : The bard uses skill and spell alike to bolster his allies, confound his enemies, and build upon his fame.
 
-**[Cleric](classes/cleric.md#_cleric)** : A devout follower of a deity, the cleric can heal wounds, raise the dead, and call down the wrath of the gods.
+**[Cleric](classes_dir/cleric.md#_cleric)** : A devout follower of a deity, the cleric can heal wounds, raise the dead, and call down the wrath of the gods.
 
-**[Druid](classes/druid.md#_druid)** : The druid is a worshiper of all things natural—a spellcaster, a friend to animals, and a skilled shapechanger.
+**[Druid](classes_dir/druid.md#_druid)** : The druid is a worshiper of all things natural—a spellcaster, a friend to animals, and a skilled shapechanger.
 
-**[Fighter](classes/fighter.md#_fighter)** : Brave and stalwart, the fighter is a master of all manner of arms and armor.
+**[Fighter](classes_dir/fighter.md#_fighter)** : Brave and stalwart, the fighter is a master of all manner of arms and armor.
 
-**[Monk](classes/monk.md#_monk)** : A student of martial arts, the monk trains his body to be his greatest weapon and defense.
+**[Monk](classes_dir/monk.md#_monk)** : A student of martial arts, the monk trains his body to be his greatest weapon and defense.
 
-**[Paladin](classes/paladin.md#_paladin)** : The paladin is the knight in shining armor, a devoted follower of law and good.
+**[Paladin](classes_dir/paladin.md#_paladin)** : The paladin is the knight in shining armor, a devoted follower of law and good.
 
-**[Ranger](classes/ranger.md#_ranger)** : A tracker and hunter, the ranger is a creature of the wild and of tracking down his favored foes.
+**[Ranger](classes_dir/ranger.md#_ranger)** : A tracker and hunter, the ranger is a creature of the wild and of tracking down his favored foes.
 
-**[Rogue](classes/rogue.md#_rogue)** : The rogue is a thief and a scout, an opportunist capable of delivering brutal strikes against unwary foes.
+**[Rogue](classes_dir/rogue.md#_rogue)** : The rogue is a thief and a scout, an opportunist capable of delivering brutal strikes against unwary foes.
 
-**[Sorcerer](classes/sorcerer.md#_sorcerer)** : The spellcasting sorcerer is born with an innate knack for magic and has strange, eldritch powers.
+**[Sorcerer](classes_dir/sorcerer.md#_sorcerer)** : The spellcasting sorcerer is born with an innate knack for magic and has strange, eldritch powers.
 
-**[Wizard](classes/wizard.md#_wizard)** : The wizard masters magic through constant study that gives him incredible magical power.
+**[Wizard](classes_dir/wizard.md#_wizard)** : The wizard masters magic through constant study that gives him incredible magical power.
 
 # Character Advancement
 

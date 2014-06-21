@@ -3,7 +3,7 @@ title: ultimateCampaign/downtime
 ---
 # Downtime
 
-[Downtime Activities](ultimateCampaign/downtime/downtimeActivities.md) [Managers](ultimateCampaign/downtime/managers.md) [Rooms and Teams](ultimateCampaign/downtime/roomsAndTeams.md) [Buildings and Organizations](ultimateCampaign/downtime/buildingsAndOrganizations.md) [Downtime Events](ultimateCampaign/downtime/downtimeEvents.md)
+[Downtime Activities](ultimateCampaign/downtime_dir/downtimeActivities.md) [Managers](ultimateCampaign/downtime_dir/managers.md) [Rooms and Teams](ultimateCampaign/downtime_dir/roomsAndTeams.md) [Buildings and Organizations](ultimateCampaign/downtime_dir/buildingsAndOrganizations.md) [Downtime Events](ultimateCampaign/downtime_dir/downtimeEvents.md)
 
 In many campaigns, returning to town after an adventure is a lull in your character's activity. You sell loot, stock up on potions, and perhaps wait around for the wizard to scribe some scrolls. However, there is much more you can do in town in between adventures—your character might want to practice with a military school, start a guild, build a temple, train a new pet, and so on. Normally you and the other PCs would have to compete for the GM's attention so you can explain what your characters want to do and haggle over how much time that should take. With the rules presented here, what you can do with a day of downtime is clearly spelled out, allowing you to get on with your plans.
 

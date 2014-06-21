@@ -62,5 +62,5 @@ The rest of this section dives deep into your background, starting from birth an
 
 Above all, don't let creating a background become a burden for you. The goal is to help you play a character, not to paralyze you with decisions you don't want to make right now.
 
-[Early Life](ultimateCampaign/characterBackground/earlyLife.md) [Adolescence](ultimateCampaign/characterBackground/adolescence.md) [Adulthood](ultimateCampaign/characterBackground/adulthood.md) [Background Generator](ultimateCampaign/characterBackground/backgroundGenerator.md) [Traits](ultimateCampaign/characterBackground/traits.md) [Story Feats](ultimateCampaign/characterBackground/storyFeats.md)
+[Early Life](ultimateCampaign/characterBackground_dir/earlyLife.md) [Adolescence](ultimateCampaign/characterBackground_dir/adolescence.md) [Adulthood](ultimateCampaign/characterBackground_dir/adulthood.md) [Background Generator](ultimateCampaign/characterBackground_dir/backgroundGenerator.md) [Traits](ultimateCampaign/characterBackground_dir/traits.md) [Story Feats](ultimateCampaign/characterBackground_dir/storyFeats.md)
 

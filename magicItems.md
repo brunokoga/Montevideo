@@ -1,7 +1,7 @@
 ---
 title: magicItems
 ---
-[Armor](magicItems/armor.md) [Weapons](magicItems/weapons.md) [Potions](magicItems/potions.md) [Rings](magicItems/rings.md) [Rods](magicItems/rods.md) [Scrolls](magicItems/scrolls.md) [Staves](magicItems/staves.md) [Wands](magicItems/wands.md) [Wondrous Items](magicItems/wondrousItems.md) [Intelligent Items](magicItems/intelligentItems.md) [Cursed Items](magicItems/cursedItems.md) [Specific Cursed Items](magicItems/specificCursedItems.md) [Artifacts](magicItems/artifacts.md) [Magic Item Creation](magicItems/magicItemCreation.md)
+[Armor](magicItems_dir/armor.md) [Weapons](magicItems_dir/weapons.md) [Potions](magicItems_dir/potions.md) [Rings](magicItems_dir/rings.md) [Rods](magicItems_dir/rods.md) [Scrolls](magicItems_dir/scrolls.md) [Staves](magicItems_dir/staves.md) [Wands](magicItems_dir/wands.md) [Wondrous Items](magicItems_dir/wondrousItems.md) [Intelligent Items](magicItems_dir/intelligentItems.md) [Cursed Items](magicItems_dir/cursedItems.md) [Specific Cursed Items](magicItems_dir/specificCursedItems.md) [Artifacts](magicItems_dir/artifacts.md) [Magic Item Creation](magicItems_dir/magicItemCreation.md)
 
 ## Magic Items and Detect Magic
 
@@ -20,15 +20,15 @@ If more than one spell is given as a prerequisite, use the highest-level spell. 
 [Table: Random Magic Item Generation]
 | Minor | Medium | Major | Item |
 | --- | --- | --- | --- |
-| 01–04 | 01–10 | 01–10 | [Armor and shields](magicItems/armor.md#_armor) |
-| 05–09 | 11–20 | 11–20 | [Weapons](magicItems/weapons.md#_weapons) |
-| 10–44 | 21–30 | 21–25 | [Potions](magicItems/potions.md#_potions) |
-| 45–46 | 31–40 | 26–35 | [Rings](magicItems/rings.md#_rings) |
-| — | 41–50 | 36–45 | [Rods](magicItems/rods.md#_rods) |
-| 47–81 | 51–65 | 46–55 | [Scrolls](magicItems/scrolls.md#_scrolls) |
-| — | 66–68 | 56–75 | [Staves](magicItems/staves.md#_staves) |
-| 82–91 | 69–83 | 76–80 | [Wands](magicItems/wands.md#_wands) |
-| 92–100 | 84–100 | 81–100 | [Wondrous items](magicItems/wondrousItems.md#_wondrous-items) |
+| 01–04 | 01–10 | 01–10 | [Armor and shields](magicItems_dir/armor.md#_armor) |
+| 05–09 | 11–20 | 11–20 | [Weapons](magicItems_dir/weapons.md#_weapons) |
+| 10–44 | 21–30 | 21–25 | [Potions](magicItems_dir/potions.md#_potions) |
+| 45–46 | 31–40 | 26–35 | [Rings](magicItems_dir/rings.md#_rings) |
+| — | 41–50 | 36–45 | [Rods](magicItems_dir/rods.md#_rods) |
+| 47–81 | 51–65 | 46–55 | [Scrolls](magicItems_dir/scrolls.md#_scrolls) |
+| — | 66–68 | 56–75 | [Staves](magicItems_dir/staves.md#_staves) |
+| 82–91 | 69–83 | 76–80 | [Wands](magicItems_dir/wands.md#_wands) |
+| 92–100 | 84–100 | 81–100 | [Wondrous items](magicItems_dir/wondrousItems.md#_wondrous-items) |
 
 To use a magic item, it must be activated, although sometimes activation simply means putting a ring on your finger. Some items, once donned, function constantly. In most cases, though, using an item requires a standard action that does not provoke attacks of opportunity. By contrast, spell completion items are treated like spells in combat and do provoke attacks of opportunity.
 
